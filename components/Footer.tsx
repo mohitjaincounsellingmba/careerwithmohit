@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { Compass, Instagram } from 'lucide-react';
 
 export function Footer() {
