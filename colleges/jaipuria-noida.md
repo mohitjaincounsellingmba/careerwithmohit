@@ -1,0 +1,17 @@
+---
+name: "Jaipuria Noida"
+logo: "/colleges/jaipuria-logo.webp"
+location: "Noida, Uttar Pradesh"
+established: 2004
+ownership: "Private"
+ranking: "#45 (NIRF 2024)"
+fees: "₹11.0 - 12.5 Lakhs"
+avg_placement: "₹11.3 LPA"
+highest_placement: "₹27.0 LPA"
+exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA"]
+brochure_url: "/brochures/jaipuria-noida-2025.pdf"
+website: "https://www.jaipuria.ac.in/noida"
+---
+
+### About Jaipuria Noida
+Jaipuria Institute of Management, Noida is a front-runner in management education in NCR. It is known for its learner-centric pedagogy and strong corporate placement record.
