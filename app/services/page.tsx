@@ -11,14 +11,14 @@ import {
 } from 'lucide-react';
 
 const SERVICES = [
-  { title: "MBA/PGDM Admission", icon: GraduationCap, description: "Strategic guidance for top-tier management programs." },
-  { title: "B.Tech Admission", icon: Cpu, description: "Engineering admissions consulting for premier institutes." },
-  { title: "BBA/BCA Admission", icon: LineChart, description: "Foundation mapping for early professional degrees." },
-  { title: "Online MBA", icon: Globe, description: "Navigating flexible, global management education." },
-  { title: "Abroad Education", icon: Plane, description: "Comprehensive guidance for international university admissions." },
-  { title: "Internship Support", icon: Target, description: "Securing high-impact internships to build your profile." },
-  { title: "Placement Support", icon: Handshake, description: "End-to-end interview prep and placement strategy." },
-  { title: "Scholarship Support", icon: Award, description: "Identifying and applying for merit and need-based aid." },
+  { title: "MBA/PGDM Admission", icon: GraduationCap, description: "Strategic guidance for top-tier management programs.", color: "bg-blue-50", accent: "text-primary" },
+  { title: "B.Tech Admission", icon: Cpu, description: "Engineering admissions consulting for premier institutes.", color: "bg-emerald-50", accent: "text-secondary" },
+  { title: "BBA/BCA Admission", icon: LineChart, description: "Foundation mapping for early professional degrees.", color: "bg-amber-50", accent: "text-accent" },
+  { title: "Online MBA", icon: Globe, description: "Navigating flexible, global management education.", color: "bg-purple-50", accent: "text-purple-600" },
+  { title: "Abroad Education", icon: Plane, description: "Comprehensive guidance for international university admissions.", color: "bg-rose-50", accent: "text-rose-600" },
+  { title: "Internship Support", icon: Target, description: "Securing high-impact internships to build your profile.", color: "bg-cyan-50", accent: "text-cyan-600" },
+  { title: "Placement Support", icon: Handshake, description: "End-to-end interview prep and placement strategy.", color: "bg-indigo-50", accent: "text-indigo-600" },
+  { title: "Scholarship Support", icon: Award, description: "Identifying and applying for merit and need-based aid.", color: "bg-fuchsia-50", accent: "text-fuchsia-600" },
 ];
 
 export const metadata = {
@@ -28,48 +28,52 @@ export const metadata = {
 
 export default function ServicesPage() {
   return (
-    <div className="mx-auto max-w-5xl px-6 py-16 sm:px-12 sm:py-24">
-      <div className="text-center mb-16 max-w-2xl mx-auto">
-        <h1 className="font-display text-4xl font-semibold tracking-tight text-foreground sm:text-5xl mb-6">
-          Our Core <span className="text-accent italic">Services</span>
-        </h1>
-        <p className="text-foreground/70 text-lg leading-relaxed">
-          Comprehensive support across your entire academic and professional journey. We provide expert guidance tailored to your specific career aspirations.
-        </p>
-      </div>
-      
-      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mb-20">
-        {SERVICES.map((service, idx) => {
-          const Icon = service.icon;
-          return (
-            <div 
-              key={idx} 
-              className="group relative overflow-hidden rounded-3xl border border-border-subtle bg-surface backdrop-blur-xl p-8 shadow-xl transition-all hover:-translate-y-2 hover:shadow-2xl hover:border-accent/40 hover:bg-white/80"
-            >
-              <div className="mb-6 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-accent/10 text-accent transition-colors group-hover:bg-accent group-hover:text-white">
-                <Icon className="h-6 w-6" />
+    <div className="w-full bg-muted min-h-screen px-6 py-24 sm:px-12 sm:py-32 border-t-8 border-foreground">
+      <div className="mx-auto max-w-7xl">
+        <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
+          <div className="max-w-3xl">
+            <h1 className="font-display text-5xl font-extrabold tracking-tighter text-foreground sm:text-7xl uppercase">
+              Our <span className="text-accent italic hidden">Services</span><span className="bg-accent text-foreground px-4 py-1 inline-block mt-4 -rotate-2 border-4 border-foreground">Services</span>
+            </h1>
+            <p className="mt-8 text-2xl font-medium text-gray-600 leading-relaxed">
+              Total support across your entire academic and professional journey. We provide expert, uncompromised guidance tailored to your specific career aspirations.
+            </p>
+          </div>
+        </div>
+        
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mb-24">
+          {SERVICES.map((service, idx) => {
+            const Icon = service.icon;
+            return (
+              <div 
+                key={idx} 
+                className={`group relative overflow-hidden rounded-xl border-4 border-foreground ${service.color} p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer`}
+              >
+                <div className="mb-8 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white border-4 border-foreground transition-transform group-hover:scale-110">
+                  <Icon className={`h-8 w-8 ${service.accent}`} strokeWidth={2.5} />
+                </div>
+                <h3 className="font-display text-2xl font-bold tracking-tight text-foreground mb-4">
+                  {service.title}
+                </h3>
+                <p className="text-base font-medium text-gray-800 leading-relaxed">
+                  {service.description}
+                </p>
               </div>
-              <h3 className="font-display text-lg font-semibold tracking-tight text-foreground mb-2">
-                {service.title}
-              </h3>
-              <p className="text-sm text-foreground/60 leading-relaxed">
-                {service.description}
-              </p>
-            </div>
-          );
-        })}
-      </div>
+            );
+          })}
+        </div>
 
-      <div className="rounded-3xl bg-surface backdrop-blur-xl border border-border-subtle p-8 sm:p-12 text-center max-w-3xl mx-auto">
-        <h2 className="font-display text-2xl sm:text-3xl font-semibold tracking-tight text-foreground mb-4">
-          Ready to take the next step?
-        </h2>
-        <p className="text-foreground/70 mb-8 max-w-md mx-auto">
-          Book a 1-on-1 session to discuss your specific career challenges and build an actionable roadmap.
-        </p>
-        <Link href="/contact" className="inline-flex h-12 items-center justify-center rounded-md bg-accent px-8 py-2 text-sm font-medium text-white shadow transition-colors hover:bg-accent/90">
-          Schedule a Free Consultation
-        </Link>
+        <div className="border-4 border-foreground bg-secondary p-10 sm:p-16 text-center max-w-4xl mx-auto rounded-xl">
+          <h2 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-white mb-6 uppercase">
+            Ready to Take the Next Step?
+          </h2>
+          <p className="text-emerald-50 text-xl font-medium mb-10 max-w-2xl mx-auto leading-relaxed">
+            Book a 1-on-1 session to discuss your specific career challenges and build an actionable roadmap.
+          </p>
+          <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="inline-flex h-14 items-center justify-center bg-white border-4 border-foreground px-10 py-2 text-xl font-bold text-foreground transition-all hover:bg-gray-100 hover:scale-105 hover:-translate-y-1">
+            Connect on WhatsApp
+          </a>
+        </div>
       </div>
     </div>
   );

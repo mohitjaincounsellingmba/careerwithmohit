@@ -1,16 +1,11 @@
 import type { Metadata } from "next";
-import { Lora, Inter } from "next/font/google";
+import { Outfit } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 
-const lora = Lora({
-  variable: "--font-lora",
-  subsets: ["latin"],
-});
-
-const inter = Inter({
-  variable: "--font-inter",
+const outfit = Outfit({
+  variable: "--font-outfit",
   subsets: ["latin"],
 });
 
@@ -27,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${lora.variable} ${inter.variable} antialiased min-h-screen flex flex-col`}
+        className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
       >
         <Header />
         <main className="flex-grow">

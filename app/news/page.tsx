@@ -43,62 +43,66 @@ export const metadata = {
 
 export default function NewsPage() {
   return (
-    <div className="mx-auto max-w-5xl px-6 py-16 sm:px-12 sm:py-24">
-      <div className="mb-16 max-w-2xl">
-        <h1 className="font-display text-4xl font-semibold tracking-tight text-foreground sm:text-5xl mb-6">
-          Latest <span className="text-accent italic">News</span> & Updates
-        </h1>
-        <p className="text-foreground/70 text-lg leading-relaxed">
-          Stay informed with the most recent developments in higher education, entrance exams, and career opportunities for MBA and Engineering aspirants.
-        </p>
-      </div>
-      
-      <div className="grid gap-8">
-        {NEWS_ITEMS.map((item) => (
-          <article 
-            key={item.id} 
-            className="group flex flex-col sm:flex-row gap-6 rounded-3xl border border-border-subtle bg-surface backdrop-blur-xl p-6 sm:p-8 shadow-xl transition-all hover:shadow-2xl hover:border-accent/40 hover:-translate-y-1 hover:bg-white/80"
-          >
-            <div className="sm:w-1/4 flex-shrink-0">
-              <span className="inline-flex items-center rounded-full bg-accent/10 px-3 py-1 text-xs font-medium text-accent mb-4">
-                {item.category}
-              </span>
-              <div className="flex items-center text-sm text-foreground/50 font-medium">
-                <Calendar className="mr-2 h-4 w-4" />
-                <time>{item.date}</time>
+    <div className="w-full bg-muted min-h-screen px-6 py-24 sm:px-12 sm:py-32 border-t-8 border-foreground">
+      <div className="mx-auto max-w-7xl">
+        <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
+          <div className="max-w-3xl">
+            <h1 className="font-display text-5xl font-extrabold tracking-tighter text-foreground sm:text-7xl uppercase">
+              Latest <span className="bg-primary text-white px-3 py-1 inline-block mt-4 -rotate-1 border-4 border-foreground">News</span> & Updates
+            </h1>
+            <p className="mt-8 text-2xl font-medium text-gray-600 leading-relaxed">
+              Stay informed with the most recent developments in higher education, entrance exams, and career opportunities.
+            </p>
+          </div>
+        </div>
+        
+        <div className="grid gap-10">
+          {NEWS_ITEMS.map((item) => (
+            <article 
+              key={item.id} 
+              className="group flex flex-col sm:flex-row gap-8 rounded-xl border-4 border-foreground bg-white p-8 sm:p-10 transition-all duration-200 hover:scale-[1.01] hover:bg-gray-50"
+            >
+              <div className="sm:w-1/4 flex-shrink-0">
+                <span className="inline-flex items-center bg-accent border-2 border-foreground px-4 py-1 text-sm font-bold uppercase tracking-widest text-foreground mb-6">
+                  {item.category}
+                </span>
+                <div className="flex items-center text-base text-gray-500 font-bold uppercase tracking-widest">
+                  <Calendar className="mr-3 h-5 w-5 stroke-[2.5px]" />
+                  <time>{item.date}</time>
+                </div>
               </div>
-            </div>
-            
-            <div className="sm:w-3/4 flex flex-col justify-center">
-              <h2 className="font-display text-2xl font-semibold tracking-tight text-foreground mb-3 group-hover:text-accent transition-colors">
-                <Link href={item.link}>{item.title}</Link>
-              </h2>
-              <p className="text-foreground/70 leading-relaxed max-w-3xl mb-4">
-                {item.excerpt}
-              </p>
-              <div className="mt-auto">
-                <Link 
-                  href={item.link} 
-                  className="inline-flex items-center text-sm font-medium text-accent hover:text-accent/80 transition-colors"
-                >
-                  Read full story <ArrowRight className="ml-1 h-4 w-4 group-hover:translate-x-1 transition-transform" />
-                </Link>
+              
+              <div className="sm:w-3/4 flex flex-col justify-center">
+                <h2 className="font-display text-3xl font-extrabold tracking-tight text-foreground mb-4 group-hover:text-primary transition-colors leading-tight">
+                  <Link href={item.link}>{item.title}</Link>
+                </h2>
+                <p className="text-gray-600 text-lg font-medium leading-relaxed max-w-3xl mb-6">
+                  {item.excerpt}
+                </p>
+                <div className="mt-auto">
+                  <Link 
+                    href={item.link} 
+                    className="inline-flex items-center text-lg font-bold text-primary hover:text-foreground transition-colors group-hover:translate-x-2 transition-transform duration-200"
+                  >
+                    Read Full Story <ArrowRight className="ml-2 h-5 w-5 stroke-[3px]" />
+                  </Link>
+                </div>
               </div>
-            </div>
-          </article>
-        ))}
-      </div>
+            </article>
+          ))}
+        </div>
 
-      <div className="mt-20 rounded-3xl bg-surface backdrop-blur-xl border border-border-subtle p-8 text-center max-w-3xl mx-auto flex flex-col items-center">
-         <h3 className="font-display text-xl font-semibold text-foreground mb-3">
-           Worried about how these changes affect you?
-         </h3>
-         <p className="text-foreground/70 mb-6">
-           Speak with our experts to get personalized advice on navigating the latest admission requirements.
-         </p>
-         <Link href="/contact" className="inline-flex h-10 items-center justify-center rounded-md bg-accent px-6 py-2 text-sm font-medium text-white shadow transition-colors hover:bg-accent/90">
-            Book a Consultation
-         </Link>
+        <div className="mt-24 rounded-xl bg-amber-400 border-4 border-foreground p-10 sm:p-16 text-center max-w-4xl mx-auto flex flex-col items-center">
+           <h3 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-foreground mb-6 uppercase">
+             Information Overload?
+           </h3>
+           <p className="text-gray-900 text-xl font-medium mb-10 max-w-2xl">
+             Speak with our experts to get personalized, no-nonsense advice on navigating the latest admission requirements.
+           </p>
+           <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="inline-flex h-14 items-center justify-center bg-white border-4 border-foreground px-10 py-2 text-xl font-bold text-foreground transition-all hover:bg-gray-100 hover:scale-105 hover:-translate-y-1">
+              Connect on WhatsApp
+           </a>
+        </div>
       </div>
     </div>
   );

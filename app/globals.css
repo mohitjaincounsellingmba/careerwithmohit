@@ -1,73 +1,84 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f8fafc; /* Clean very light slate */
-  --foreground: #0f172a; /* Deep slate for text */
-  --accent: #4f46e5; /* Indigo accent */
-  --surface: rgba(255, 255, 255, 0.6); /* Glassmorphic white surface */
-  --border: rgba(0, 0, 0, 0.08); /* Subtle glass borders */
+  --background: #FFFFFF; /* Pure White */
+  --foreground: #111827; /* Gray 900 */
+  --primary: #3B82F6; /* Blue 500 */
+  --secondary: #10B981; /* Emerald 500 */
+  --accent: #F59E0B; /* Amber 500 */
+  --muted: #F3F4F6; /* Gray 100 */
+  --border: #E5E7EB; /* Gray 200 */
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
   --color-accent: var(--accent);
-  --color-surface: var(--surface);
+  --color-muted: var(--muted);
   --color-border-subtle: var(--border);
-  --font-display: var(--font-lora);
-  --font-body: var(--font-inter);
+  --font-display: var(--font-outfit);
+  --font-body: var(--font-outfit);
 }
 
 body {
   background-color: var(--color-background);
   color: var(--color-foreground);
   font-family: var(--font-body);
-  /* Premium modern abstract mesh gradient background */
-  background-image: 
-    radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.15) 0px, transparent 50%),
-    radial-gradient(at 100% 0%, rgba(14, 165, 233, 0.15) 0px, transparent 50%),
-    radial-gradient(at 100% 100%, rgba(236, 72, 153, 0.15) 0px, transparent 50%),
-    radial-gradient(at 0% 100%, rgba(99, 102, 241, 0.15) 0px, transparent 50%);
-  background-attachment: fixed;
+  /* Pure flat background - NO gradients */
+  background-image: none;
 }
 
-/* Base typography for markdown content */
+/* Base typography for markdown content - Flat Design */
 .prose {
-  @apply max-w-none text-lg leading-relaxed text-foreground/90;
+  @apply max-w-none text-lg text-foreground bg-white p-6 md:p-12;
 }
 .prose h1, .prose h2, .prose h3, .prose h4 {
-  @apply font-display font-medium tracking-tight text-foreground;
+  @apply font-display font-bold tracking-tight text-foreground;
 }
 .prose h1 {
-  @apply text-4xl mb-8 mt-12;
+  @apply text-5xl mb-10 mt-12 bg-primary text-white p-6 inline-block w-full;
 }
 .prose h2 {
-  @apply text-3xl mb-6 mt-10 border-b border-border-subtle pb-2 inline-block w-full;
+  @apply text-3xl mb-8 mt-12 border-b-4 border-foreground pb-2;
 }
 .prose h3 {
-  @apply text-2xl mb-4 mt-8;
+  @apply text-2xl mb-4 mt-8 font-semibold;
 }
 .prose p {
-  @apply mb-6;
+  @apply mb-6 leading-relaxed;
 }
 .prose blockquote {
-  @apply border-l-4 border-accent pl-6 py-2 my-8 text-xl font-display italic text-foreground/80 bg-accent/5 rounded-r-lg;
+  @apply border-l-8 border-primary pl-6 py-4 my-10 text-2xl font-display font-bold text-foreground bg-muted;
 }
 .prose a {
-  @apply text-accent font-medium hover:text-accent/80 hover:underline underline-offset-4 transition-colors;
+  @apply font-bold text-primary hover:text-white hover:bg-primary transition-colors p-1 -m-1 inline-block;
 }
 .prose ul, .prose ol {
-  @apply pl-6 mb-6 space-y-2;
+  @apply pl-6 mb-8 space-y-3;
 }
 .prose ul {
-  @apply list-disc marker:text-accent/60;
+  @apply list-none;
+}
+.prose ul li {
+  @apply relative pl-6;
+}
+.prose ul li::before {
+  content: "■";
+  @apply text-accent absolute left-0 text-sm top-1.5;
 }
 .prose ol {
-  @apply list-decimal font-medium marker:text-accent/80;
+  @apply list-decimal font-bold text-foreground;
 }
 .prose li {
-  @apply pl-1;
+  @apply pl-2 font-normal;
 }
 .prose strong {
-  @apply font-semibold text-foreground;
+  @apply font-extrabold text-foreground;
+}
+
+/* Flat design utilities */
+* {
+  @apply shadow-none;
 }
