@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow admin/private areas
+Disallow: /private/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://careerwithmohit.com/sitemap.xml

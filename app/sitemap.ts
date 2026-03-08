@@ -1,8 +1,10 @@
 import { MetadataRoute } from 'next';
 import { getSortedPostsData } from '@/lib/markdown';
+import fs from 'fs';
+import path from 'path';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://careerwithmohit.com'; // Adjust this to your actual production domain
+  const baseUrl = 'https://careerwithmohit.com';
 
   // Static routes
   const routes = [
@@ -15,6 +17,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/about',
     '/privacy',
     '/terms',
+    '/colleges',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
@@ -31,5 +34,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...routes, ...blogRoutes];
+  // Dynamic college routes
+  const collegesDir = path.join(process.cwd(), 'colleges');
+  let collegeRoutes: MetadataRoute.Sitemap = [];
+  try {
+    const collegeFiles = fs.readdirSync(collegesDir);
+    collegeRoutes = collegeFiles
+      .filter((file) => file.endsWith('.md'))
+      .map((file) => ({
+        url: `${baseUrl}/colleges/${file.replace('.md', '')}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.7,
+      }));
+  } catch {
+    // colleges directory not found, skip
+  }
+
+  return [...routes, ...blogRoutes, ...collegeRoutes];
 }
