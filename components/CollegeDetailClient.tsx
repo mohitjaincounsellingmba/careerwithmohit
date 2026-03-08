@@ -17,9 +17,11 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { College } from "@/lib/colleges";
+import { BrochureModal } from "./BrochureModal";
 
 export function CollegeDetailClient({ college }: { college: College }) {
   const [activeTab, setActiveTab] = useState("Overview");
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const tabs = [
     "Overview", 
@@ -54,6 +56,12 @@ export function CollegeDetailClient({ college }: { college: College }) {
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
+      <BrochureModal 
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        collegeName={college.name}
+        brochureUrl={college.brochure_url}
+      />
       {/* Premium Hero Header */}
       <div className="bg-white border-b border-slate-200 pt-12 pb-0">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -94,7 +102,10 @@ export function CollegeDetailClient({ college }: { college: College }) {
               >
                 Apply Now
               </Link>
-              <button className="flex-1 sm:flex-none inline-flex items-center justify-center px-8 py-3.5 border-2 border-slate-200 text-slate-700 font-bold rounded-xl hover:bg-slate-50 transition-all">
+              <button 
+                onClick={() => setIsModalOpen(true)}
+                className="flex-1 sm:flex-none inline-flex items-center justify-center px-8 py-3.5 border-2 border-slate-200 text-slate-700 font-bold rounded-xl hover:bg-slate-50 transition-all font-body text-base"
+              >
                 <Download className="w-5 h-5 mr-2" />
                 Brochure
               </button>

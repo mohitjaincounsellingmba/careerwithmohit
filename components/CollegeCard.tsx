@@ -1,12 +1,19 @@
-"use client";
-
-import Link from "next/link";
+import { useState } from "react";
 import { GraduationCap, MapPin, Award, IndianRupee, Briefcase } from "lucide-react";
 import { CollegeMetadata } from "@/lib/colleges";
+import { BrochureModal } from "./BrochureModal";
 
 export function CollegeCard({ college }: { college: CollegeMetadata }) {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
   return (
     <div className="group bg-white rounded-2xl border border-slate-200 overflow-hidden hover:border-blue-500 hover:shadow-xl transition-all duration-300 flex flex-col h-full">
+      <BrochureModal 
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        collegeName={college.name}
+        brochureUrl={college.brochure_url}
+      />
       {/* Top Banner-like Section with Logo Placeholder */}
       <div className="h-32 bg-slate-50 flex items-center justify-center relative overflow-hidden">
         <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#3b82f6_1px,transparent_1px)] [background-size:16px_16px]"></div>
@@ -57,10 +64,7 @@ export function CollegeCard({ college }: { college: CollegeMetadata }) {
           </Link>
           <button 
             className="flex-1 border border-slate-200 text-slate-700 py-2.5 rounded-lg font-semibold hover:bg-slate-50 transition-colors"
-            onClick={() => {
-              // Lead generation trigger could go here
-              window.location.href = `/colleges/${college.slug}#brochure`;
-            }}
+            onClick={() => setIsModalOpen(true)}
           >
             Brochure
           </button>
