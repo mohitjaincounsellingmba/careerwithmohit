@@ -33,13 +33,6 @@ export function Header() {
           >
             Call Now
           </a>
-          <a 
-            href="https://wa.me/919560020771" 
-            target="_blank" rel="noopener noreferrer"
-            className="hidden sm:inline-flex h-12 items-center justify-center rounded-md bg-primary px-6 py-2 text-base font-bold text-white transition-all hover:bg-blue-600 hover:scale-105"
-          >
-            Connect on WhatsApp
-          </a>
           <button 
             className="md:hidden flex items-center justify-center p-2 text-foreground hover:text-primary transition-colors bg-gray-100 rounded-md"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
@@ -81,14 +74,6 @@ export function Header() {
               className="mt-4 flex h-14 w-full items-center justify-center rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
             >
               Call Now
-            </a>
-            <a 
-              href="https://wa.me/919560020771" 
-              target="_blank" rel="noopener noreferrer"
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-2 flex h-14 w-full items-center justify-center rounded-md bg-primary px-4 py-2 text-lg font-bold text-white transition-all hover:bg-blue-600"
-            >
-              Connect on WhatsApp
             </a>
           </nav>
         </div>
