@@ -2,8 +2,8 @@ import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/markdown';
 
 export const metadata = {
-  title: 'Search Results | Mohit Jain Career Counselling',
-  description: 'Search results for blog posts and advice.',
+  title: 'Search Results | CareerWithMohit',
+  description: 'Find specific career advice and admission insights on CareerWithMohit. Search our database of expert articles and guidance by Mohit Jain.',
 };
 
 export default async function SearchPage({

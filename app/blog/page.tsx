@@ -3,7 +3,7 @@ import { getSortedPostsData } from '@/lib/markdown';
 
 export const metadata = {
   title: 'Blog | CareerWithMohit',
-  description: 'Read the latest insights and advice on admissions and careers.',
+  description: 'Read latest career insights, MBA admission updates, and professional growth strategies from expert counsellor Mohit Jain. Uncompromised guidance for students.',
 };
 
 export default function BlogPage() {
