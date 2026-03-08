@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
     images: [
       {
-        url: "/og-image.jpg", // Ensure this exists or add a placeholder
+        url: "/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Mohit Jain Career Counselling",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Mohit Jain | Career Counselling & MBA Admissions Expert",
     description: "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
-    images: ["/og-image.jpg"],
+    images: ["/og-image.webp"],
   },
   alternates: {
     canonical: "/",
@@ -61,7 +61,7 @@ export default function RootLayout({
     "@type": "Organization",
     "name": "CareerWithMohit",
     "url": "https://careerwithmohit.com",
-    "logo": "https://careerwithmohit.com/logo.png",
+    "logo": "https://careerwithmohit.com/logo.webp",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+91-9560020771",
