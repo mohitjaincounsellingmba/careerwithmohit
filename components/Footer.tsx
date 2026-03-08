@@ -1,5 +1,4 @@
-import Link from 'next/link';
-import { Compass } from 'lucide-react';
+import { Compass, Instagram } from 'lucide-react';
 
 export function Footer() {
   return (
@@ -27,9 +26,17 @@ export function Footer() {
           <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Connect</h3>
             <ul className="space-y-4 text-base font-medium">
-              <li><a href="#" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">LinkedIn</a></li>
-              <li><a href="#" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Twitter</a></li>
-              <li><a href="#" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Email</a></li>
+              <li>
+                <a 
+                  href="https://www.instagram.com/collegereviews.in" 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="hover:text-primary flex items-center gap-2 group transition-colors"
+                >
+                  <Instagram className="h-5 w-5 group-hover:scale-110 transition-transform" />
+                  collegereviews.in
+                </a>
+              </li>
             </ul>
           </div>
         </div>
