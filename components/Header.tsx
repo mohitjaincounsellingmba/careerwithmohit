@@ -19,6 +19,7 @@ export function Header() {
         </Link>
         <nav className="hidden md:flex items-center gap-8 text-base font-bold text-foreground">
           <Link href="/" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Home</Link>
+          <Link href="/about" className="hover:text-primary hover:-translate-y-0.5 transition-transform">About</Link>
           <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Blog</Link>
           <Link href="/services" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Services</Link>
           <Link href="/news" className="hover:text-primary hover:-translate-y-0.5 transition-transform">News</Link>
@@ -58,6 +59,9 @@ export function Header() {
             
             <Link href="/" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Home
+            </Link>
+            <Link href="/about" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
+              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>About
             </Link>
             <Link href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Blog
