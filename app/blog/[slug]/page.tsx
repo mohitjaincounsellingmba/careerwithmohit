@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
-import { ArrowLeft } from 'lucide-react';
+import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -123,13 +123,15 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               li: ({ node, ...props }) => (
                 <li className="flex items-start gap-5 text-xl font-bold border-4 border-foreground bg-white p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-transform hover:-translate-y-1" {...props} />
               ),
-              blockquote: ({ node, ...props }) => (
-                <div className="my-16 bg-blue-50 border-[6px] border-primary p-10 relative overflow-hidden">
+              blockquote: ({ node, children, ...props }) => (
+                <blockquote className="my-16 bg-blue-50 border-[6px] border-primary p-10 relative overflow-hidden flex flex-col not-italic" {...props}>
                    <div className="absolute top-0 right-0 p-4 opacity-10">
                       <Compass className="w-32 h-32 text-primary" />
                    </div>
-                   <div className="relative z-10 italic text-2xl font-black text-primary leading-tight" {...props} />
-                </div>
+                   <div className="relative z-10 text-2xl font-black text-primary leading-tight">
+                     {children}
+                   </div>
+                </blockquote>
               ),
               table: ({ node, ...props }) => (
                 <div className="overflow-x-auto my-16 rounded-xl border-8 border-foreground shadow-[20px_20px_0px_0px_rgba(59,130,246,0.3)]">
