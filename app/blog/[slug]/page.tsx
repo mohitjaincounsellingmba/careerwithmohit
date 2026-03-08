@@ -104,27 +104,27 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         </div>
       </div>
 
-      <div className="mx-auto max-w-4xl px-6 sm:px-12 mt-20">
+      <div className="mx-auto max-w-4xl px-6 sm:px-12 mt-20 pb-20">
         <div className="prose prose-xl prose-slate max-w-none">
           <ReactMarkdown
             components={{
               h2: ({ node, ...props }) => (
-                <h2 className="font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6 inline-block" {...props} />
+                <h2 className="font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6" {...props} />
               ),
               h3: ({ node, ...props }) => (
-                <h3 className="font-display text-2xl sm:text-3xl font-black uppercase tracking-tight text-primary mt-16 mb-6" {...props} />
+                <h3 className="font-display text-2xl sm:text-3xl font-black uppercase tracking-tight text-primary mt-16 mb-8 border-l-8 border-primary pl-6" {...props} />
               ),
               p: ({ node, ...props }) => (
                 <p className="text-xl leading-relaxed text-gray-800 font-medium mb-10" {...props} />
               ),
               ul: ({ node, ...props }) => (
-                <ul className="space-y-6 mb-12 list-none p-0" {...props} />
+                <ul className="space-y-4 mb-12 list-disc pl-8" {...props} />
               ),
               li: ({ node, ...props }) => (
-                <li className="flex items-start gap-5 text-xl font-bold border-4 border-foreground bg-white p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-transform hover:-translate-y-1" {...props} />
+                <li className="text-xl font-bold text-foreground leading-relaxed pl-2" {...props} />
               ),
               blockquote: ({ node, children, ...props }) => (
-                <blockquote className="my-16 bg-blue-50 border-[6px] border-primary p-10 relative overflow-hidden flex flex-col not-italic" {...props}>
+                <blockquote className="my-16 bg-blue-50 border-l-[12px] border-primary p-12 relative overflow-hidden not-italic" {...props}>
                    <div className="absolute top-0 right-0 p-4 opacity-10">
                       <Compass className="w-32 h-32 text-primary" />
                    </div>
@@ -134,29 +134,42 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 </blockquote>
               ),
               table: ({ node, ...props }) => (
-                <div className="overflow-x-auto my-16 rounded-xl border-8 border-foreground shadow-[20px_20px_0px_0px_rgba(59,130,246,0.3)]">
-                  <table className="w-full border-collapse bg-white text-left" {...props} />
+                <div className="overflow-x-auto my-16 rounded-xl border border-gray-200 shadow-xl overflow-hidden">
+                  <table className="w-full border-collapse bg-white text-left font-body" {...props} />
                 </div>
               ),
               thead: ({ node, ...props }) => (
-                <thead className="bg-foreground text-white border-b-8 border-foreground uppercase font-black tracking-tight italic" {...props} />
+                <thead className="bg-gray-100 text-foreground border-b border-gray-200 uppercase font-black text-sm tracking-widest text-center" {...props} />
               ),
               th: ({ node, ...props }) => (
-                <th className="px-8 py-6 text-xl" {...props} />
+                <th className="px-8 py-6 border-r border-gray-200 last:border-r-0" {...props} />
               ),
               td: ({ node, ...props }) => (
-                <td className="px-8 py-6 border-b-4 border-foreground text-lg font-bold text-foreground" {...props} />
+                <td className="px-8 py-6 border-b border-gray-100 last:border-b-0 text-lg font-bold text-foreground border-r border-gray-100 last:border-r-0" {...props} />
               ),
               tr: ({ node, ...props }) => (
-                <tr className="hover:bg-primary/5 transition-colors last:td:border-b-0" {...props} />
+                <tr className="even:bg-gray-50/50 hover:bg-primary/5 transition-colors" {...props} />
               ),
               strong: ({ node, ...props }) => (
-                <strong className="font-black text-foreground bg-accent/30 px-1" {...props} />
+                <strong className="font-black text-foreground bg-accent/20 px-1" {...props} />
               ),
             }}
           >
             {postData.content || ''}
           </ReactMarkdown>
+        </div>
+
+        {/* RELATED CONTENT - TAXILA STYLE */}
+        <div className="mt-20 border-t-4 border-foreground pt-12">
+            <h4 className="text-2xl font-black uppercase mb-8">Also Check Out:</h4>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              {getSortedPostsData().filter(p => p.slug !== slug).slice(0, 2).map(other => (
+                <Link key={other.slug} href={`/blog/${other.slug}`} className="group p-8 border-4 border-foreground bg-white hover:bg-accent transition-all shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col justify-between">
+                  <h5 className="text-xl font-black uppercase leading-tight group-hover:underline">{other.title}</h5>
+                  <span className="mt-6 text-sm font-black uppercase text-primary">Read Article →</span>
+                </Link>
+              ))}
+            </div>
         </div>
 
         {/* CTA SECTION - BOLD & ACTION-ORIENTED */}
