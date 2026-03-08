@@ -22,6 +22,14 @@ const SERVICES = [
   { title: "Scholarship Support", icon: Award, description: "Identifying and applying for merit and need-based aid.", color: "bg-fuchsia-50", accent: "text-fuchsia-600" },
 ];
 
+export const metadata = {
+  title: "Mohit Jain | Career Counselling & MBA Admissions Expert",
+  description: "Mohit Jain: Uncompromised Career Counselling & MBA Admissions. Get expert guidance for top B-schools, B.Tech admissions, resume building, and interview prep.",
+  alternates: {
+    canonical: "/",
+  },
+};
+
 export default function Home() {
   const allPostsData = getSortedPostsData();
 

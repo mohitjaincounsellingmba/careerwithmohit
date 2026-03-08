@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     default: "Mohit Jain | Career Counselling & MBA Admissions Expert",
     template: "%s | CareerWithMohit",
   },
-  description: "Expert career guidance, MBA admissions consulting, resume building, and interview preparation by Mohit Jain.",
+  description: "Expert career guidance, MBA admissions consulting, resume building, and interview prep by Mohit Jain. Uncompromised strategies for your professional success.",
   keywords: ["career counselling", "MBA admissions", "Pune", "Delhi NCR", "resume building", "interview prep"],
   authors: [{ name: "Mohit Jain" }],
   openGraph: {
