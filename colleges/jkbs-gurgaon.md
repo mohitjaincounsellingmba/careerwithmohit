@@ -15,6 +15,14 @@ website: "https://jkbschool.org"
 ### About JK Business School
 JK Business School (JKBS) is part of a 125-year-old legacy of the JK Group. It is committed to providing quality management education and developing socially responsible global leaders. The school is known for its innovative pedagogy, including business simulations and case-based learning.
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | General (Mkt, Fin, HR, Ops) | 2 Years | ₹7.99 Lakhs |
+| PGDM | Business Analytics | 2 Years | ₹9.05 Lakhs |
+| PGDM | Digital Transformation | 2 Years | ₹9.05 Lakhs |
+| PGDM | Supply Chain & Operations | 2 Years | ₹7.99 Lakhs |
+
 ### PGDM Program
 The flagship PGDM program at JKBS is designed with a futuristic approach.
 - **Industry Immersion**: Strong focus on live projects and industry visits.

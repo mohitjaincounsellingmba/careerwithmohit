@@ -15,6 +15,14 @@ website: "https://mastersunion.org"
 ### About Masters' Union
 Masters' Union is a premium, technology-first business school located in Cyber City, Gurgaon. It is unique for its "Practitioner-led" model where courses are taught by CEOs, MDs, and industry veterans rather than traditional academics. The curriculum focuses heavily on hands-on experience, startup incubation, and real-world projects.
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGP TBM | Tech & Business Management | 16 Months | ₹28.48 Lakhs |
+| PGPM | Family Business & Entrepreneurship | 6 Months | ₹18.00 Lakhs |
+| Masters Camp | Applied Finance (KPMG) | 6 Months | ₹2.50 Lakhs |
+| Masters Camp | Product Management | 6 Months | ₹2.50 Lakhs |
+
 ### PGP TBM (Postgraduate Program in Technology and Business Management)
 This is the flagship program equivalent to an MBA, designed for students who want to lead in the tech-first world.
 - **Practitioner-led Learning**: Learn from leaders at Google, Amazon, and top startups.

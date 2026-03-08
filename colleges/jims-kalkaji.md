@@ -12,6 +12,12 @@ exams: ["CAT", "MAT", "XAT", "CMAT", "ATMA"]
 website: "https://www.jimskalkaji.com"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | General (Mkt, Fin, HR) | 2 Years | ₹9.90 Lakhs |
+| PGDM (IB) | International Business | 2 Years | ₹9.90 Lakhs |
+
 ### About JIMS Kalkaji
 Jagan International Management School (JIMS) Kalkaji is a leading management institute located in the heart of South Delhi. Recognized for its academic excellence, the institute is accredited by NBA and NAAC. It offers an environment that encourages innovation, research, and critical thinking, preparing students for senior leadership roles in the corporate world.
 

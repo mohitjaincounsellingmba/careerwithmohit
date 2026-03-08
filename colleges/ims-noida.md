@@ -13,5 +13,11 @@ brochure_url: "/brochures/ims-noida-2025.pdf"
 website: "https://www.imsnoida.com"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | Mkt, Fin, HR, IT | 2 Years | ₹9.50 Lakhs |
+| MBA | Affiliated Program | 2 Years | ₹5.50 Lakhs |
+
 ### About IMS Noida
 Institute of Management Studies (IMS) Noida is a premier B-school in the NCR region, known for its academic excellence and high-ROI PGDM programs.

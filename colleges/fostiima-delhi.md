@@ -12,6 +12,12 @@ exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://fostiima.org"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | Mkt, Fin, HR, Ops, Analytics | 2 Years | ₹11.50 Lakhs |
+| PGDM Elite | Premium Placement Track | 2 Years | ₹12.00 Lakhs |
+
 ### About Fostiima Delhi
 Fostiima Business School was founded by alumni of IIM Ahmedabad (IIMA) to provide IIM-standard education. The school is located in Dwarka, Delhi, and is known for its "Elite" batch programs which claim high placement packages. It focuses on a practical, case-study based curriculum led by an expert faculty.
 

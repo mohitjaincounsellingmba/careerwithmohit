@@ -13,5 +13,11 @@ brochure_url: "/brochures/imik-2025.pdf"
 website: "https://www.imik.edu.in"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | Mkt, Fin, HR, Ops | 2 Years | ₹14.50 Lakhs |
+| FPM | Fellow Programme | 4 Years | ₹4.00 Lakhs |
+
 ### About IMI Kolkata
 International Management Institute (IMI) Kolkata is the first corporate-sponsored business school in India. It is known for its modern infrastructure and strong focus on research and global industry standards.

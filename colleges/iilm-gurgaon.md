@@ -15,6 +15,15 @@ website: "https://www.iilm.edu.in"
 ### About IILM Gurgaon
 IILM University, Gurugram, is a leading private university located in the corporate hub of Gurgaon. It is known for its liberal education approach and strong focus on industry-ready curriculum. The university offers a global perspective with international collaborations and a faculty with extensive corporate experience.
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| MBA | Dual Specialization | 2 Years | ₹11.50 Lakhs |
+| MBA | Single Specialization | 2 Years | ₹9.90 Lakhs |
+| MBA | Business Analytics (with IBM) | 2 Years | ₹12.90 Lakhs |
+| MBA | Financial Technology | 2 Years | ₹12.90 Lakhs |
+| MBA | Healthcare & Hospital Management | 2 Years | ₹11.50 Lakhs |
+
 ### Courses & Specializations
 - **MBA**: General MBA with dual specialization options.
 - **MBA (FinTech)**: Specialized program for the evolving finance sector.

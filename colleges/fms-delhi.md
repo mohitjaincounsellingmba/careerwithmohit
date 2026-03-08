@@ -13,6 +13,13 @@ brochure_url: "/brochures/fms-2025.pdf"
 website: "http://fms.edu"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| MBA | General (Mkt, Fin, HR, Ops) | 2 Years | ₹2.32 Lakhs |
+| MBA Executive | Business Management | 2 Years | ₹1.00 Lakhs |
+| MBA Executive | Health Care Administration | 2 Years | ₹1.00 Lakhs |
+
 ### About FMS Delhi
 The Faculty of Management Studies (FMS), University of Delhi, is often called the "Red Building of Dreams." It is famous globally for its unparalleled ROI (Return on Investment) and for producing some of the finest business leaders in India.
 

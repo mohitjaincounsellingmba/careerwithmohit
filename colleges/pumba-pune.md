@@ -13,5 +13,12 @@ brochure_url: "/brochures/pumba-2025.pdf"
 website: "https://pumba.in"
 ---
 
-### About PUMBA
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| MBA | General (Mkt, Fin, HR) | 2 Years | ₹3.00 Lakhs |
+| MBA (PBT) | Pharma-Biotech | 2 Years | ₹3.50 Lakhs |
+| Executive MBA | Working Professionals | 2 Years | ₹2.50 Lakhs |
+
+### About PUMBA Pune
 The Department of Management Sciences (PUMBA), Savitribai Phule Pune University, is one of India's earliest management institutes, known for its high-ROI and academic excellence.

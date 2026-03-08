@@ -13,5 +13,12 @@ brochure_url: "/brochures/greatlakes-gurgaon-2025.pdf"
 website: "https://www.greatlakes.edu.in/gurgaon"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGPM | One Year MBA (Exp Required) | 1 Year | ₹18.90 Lakhs |
+| PGDM | Marketing, Finance, Ops, HR | 2 Years | ₹20.80 Lakhs |
+| PGDM | AIMLA (Specialized) | 2 Years | ₹21.00 Lakhs |
+
 ### About Great Lakes Gurgaon
 Great Lakes Institute of Management, Gurgaon is the second campus of the prestigious Great Lakes Institute. It is strategically located near the corporate hubs of Gurgaon and Delhi, offering excellent industry exposure.

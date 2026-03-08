@@ -12,6 +12,13 @@ exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.glbimr.org"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | General (Mkt, Fin, HR, Ops) | 2 Years | ₹10.50 Lakhs |
+| MBA | General Management | 2 Years | ₹5.20 Lakhs |
+| MBA | Business Analytics | 2 Years | ₹5.50 Lakhs |
+
 ### About GL Bajaj
 GL Bajaj Institute of Management & Research (GLBIMR) is a top-ranked management institute in Knowledge Park, Greater Noida. It is known for its excellent ROI and strong industry connect. The institute emphasizes "Corporate Readiness" and provides extensive training in soft skills, aptitude, and technical tools.
 

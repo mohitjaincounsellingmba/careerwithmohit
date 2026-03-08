@@ -13,5 +13,17 @@ brochure_url: "/brochures/xime-2025.pdf"
 website: "https://www.xime.org"
 ---
 
-### About XIME
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | Mkt, Fin, HR, Ops, Analytics | 2 Years | ₹12.90 Lakhs |
+| PGDM-BA | Business Analytics | 2 Years | ₹12.90 Lakhs |
+
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | Mkt, Fin, HR, Ops, Analytics | 2 Years | ₹12.90 Lakhs |
+| PGDM-BA | Business Analytics | 2 Years | ₹12.90 Lakhs |
+
+### About XIME Bangalore
 Xavier Institute of Management and Entrepreneurship (XIME) is a prestigious B-school with campuses in Bangalore, Chennai, and Kochi. The Bangalore campus is situated in Electronic City, the tech heart of India.

@@ -13,5 +13,17 @@ brochure_url: "/brochures/jaipuria-jaipur-2025.pdf"
 website: "https://www.jaipuria.ac.in/jaipur"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | General Management | 2 Years | ₹12.75 Lakhs |
+| PGDM (SM) | Service Management | 2 Years | ₹11.50 Lakhs |
+
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | General Management | 2 Years | ₹12.75 Lakhs |
+| PGDM (SM) | Service Management | 2 Years | ₹11.50 Lakhs |
+
 ### About Jaipuria Jaipur
 Jaipuria Institute of Management, Jaipur provides a unique learning environment in the Pink City, focusing on management education that is globally relevant and locally grounded.

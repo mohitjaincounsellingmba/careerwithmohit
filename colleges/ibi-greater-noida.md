@@ -12,6 +12,13 @@ exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.ibusinessinstitute.org"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | Dual Major (Mkt, Fin, HR) | 2 Years | ₹10.75 Lakhs |
+| PGDM | Business Analytics | 2 Years | ₹10.75 Lakhs |
+| PGDM | International Business | 2 Years | ₹10.75 Lakhs |
+
 ### About IBI Greater Noida
 I Business Institute (IBI) Greater Noida is a premier PGDM institute known for its incredible placement track record and focus on "Employability Skills." The institute offers a dual-qualification model where students receive industry-leading certifications alongside their PGDM. It is strategically located near Knowledge Park, providing excellent corporate exposure.
 

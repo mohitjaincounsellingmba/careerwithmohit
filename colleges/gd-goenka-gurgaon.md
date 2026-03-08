@@ -15,6 +15,15 @@ website: "https://www.gdgoenkauniversity.com"
 ### About GD Goenka University
 GD Goenka University is a premier educational institution located in the picturesque foothills of the Aravallis. The School of Management is known for its interdisciplinary approach and strong global collaborations. The campus is world-class with state-of-the-art facilities and a strong focus on holistic development.
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| MBA | General (Marketing, Finance, HR) | 2 Years | ₹9.00 Lakhs |
+| MBA | Business Analytics | 2 Years | ₹11.00 Lakhs |
+| MBA | Fintech | 2 Years | ₹9.50 Lakhs |
+| MBA | Tourism & Hospitality | 2 Years | ₹8.50 Lakhs |
+| MBA | Agribusiness Management | 2 Years | ₹8.00 Lakhs |
+
 ### MBA Programs
 - **MBA General**: Specializations in Marketing, Finance, HR, and Operations.
 - **MBA (Business Analytics)**: In collaboration with industry partners.

@@ -12,6 +12,13 @@ exams: ["CAT", "MAT", "XAT", "CMAT", "GMAT"]
 website: "https://dsb.edu.in"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | General (Dual Spec) | 2 Years | ₹10.26 Lakhs |
+| PGDM (FinTech) | Financial Technology | 2 Years | ₹10.41 Lakhs |
+| PGDM (IEV) | Innovation & Venture Dev | 2 Years | ₹10.00 Lakhs |
+
 ### About DSB Delhi
 Delhi School of Business (DSB) is the management wing of the Vivekananda Institute of Professional Studies (VIPS). It is established with a vision to create a world-class management school that provides high-quality business education. The school is known for its rigorous training, global immersion programs, and state-of-the-art urban campus.
 

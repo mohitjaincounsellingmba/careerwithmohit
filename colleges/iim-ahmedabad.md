@@ -13,6 +13,14 @@ brochure_url: "/brochures/iima-pgp-2025.pdf"
 website: "https://www.iima.ac.in"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGP (MBA) | General Management | 2 Years | ₹27.50 Lakhs |
+| PGP-FABM | Food & Agri-Business | 2 Years | ₹27.50 Lakhs |
+| PGPX | Executive MBA | 1 Year | ₹35.00 Lakhs |
+| ePGD-ABA | Business Analytics & AI | 16 Months | ₹20.00 Lakhs |
+
 ### About IIM Ahmedabad
 The Indian Institute of Management Ahmedabad (IIMA) is consistently ranked as the top business school in India and one of the best in the world. Established in 1961, it is famous for its Case Study methodology and the iconic Louis Kahn campus.
 

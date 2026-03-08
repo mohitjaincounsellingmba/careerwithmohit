@@ -12,6 +12,13 @@ exams: ["CAT", "MAT", "XAT", "CMAT", "ATMA"]
 website: "https://www.fiib.edu.in"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM | General Management | 2 Years | ₹12.85 Lakhs |
+| PGDM (FM) | Financial Management | 2 Years | ₹11.55 Lakhs |
+| FPM | Fellow Programme in Management | 4 Years | ₹4.00 Lakhs |
+
 ### About FIIB Delhi
 Fortune Institute of International Business (FIIB) is a leading B-school in Delhi with a strong focus on global business and sustainability. It offers a futuristic PGDM program that integrates modern technologies like AI and Data Analytics with core management principles. FIIB is known for its strong community and career outcomes.
 

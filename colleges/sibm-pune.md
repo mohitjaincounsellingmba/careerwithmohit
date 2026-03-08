@@ -13,6 +13,13 @@ brochure_url: "/brochures/sibm-2025.pdf"
 website: "https://www.sibmpune.edu.in"
 ---
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| MBA | Mkt, Fin, HR, Ops | 2 Years | ₹27.77 Lakhs |
+| MBA (I&E) | Innovation & Entrepreneurship | 2 Years | ₹22.00 Lakhs |
+| Executive MBA | Weekend | 2 Years | ₹7.00 Lakhs |
+
 ### About SIBM Pune
 Symbiosis Institute of Business Management (SIBM) Pune is the flagship institute of Symbiosis International University. Its stunning hilltop campus in Lavale and elite placement records make it a top choice for MBA aspirants.
 

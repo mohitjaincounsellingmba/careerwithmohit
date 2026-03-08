@@ -15,6 +15,14 @@ website: "https://ibmrbschool.com"
 ### About IBMR Gurgaon
 IBMR Business School is one of the oldest and most respected management institutions in Gurgaon. It offers value-added management programs with a focus on practical exposure and employability. The institute is known for its "Industry Aligned" curriculum and strong corporate networking.
 
+### Courses & Fees
+| Course | Specialization | Duration | Total Fees |
+| :--- | :--- | :--- | :--- |
+| PGDM 4.0 | Leadership & AI in Business | 2 Years | ₹8.40 Lakhs |
+| MBA + PGPM | Dual Specialization | 2 Years | ₹6.60 Lakhs |
+| MBA | Business Analytics | 2 Years | ₹6.75 Lakhs |
+| MBA | International Business | 2 Years | ₹6.75 Lakhs |
+
 ### Specializations
 - **MBA + PGPM**: Dual program offering traditional MBA with specialized certification.
 - **PGDM 4.0**: A futuristic program designed for the digital era.
