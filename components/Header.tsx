@@ -1,7 +1,12 @@
+"use client";
+
+import { useState } from 'react';
 import Link from 'next/link';
-import { Compass } from 'lucide-react';
+import { Compass, Menu, X } from 'lucide-react';
 
 export function Header() {
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border-subtle bg-background/80 backdrop-blur-md">
       <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-6 sm:px-12">
@@ -44,8 +49,33 @@ export function Header() {
           >
             Book Consultation
           </Link>
+          <button 
+            className="md:hidden flex items-center justify-center p-2 text-foreground/80 hover:text-accent transition-colors"
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            aria-label="Toggle mobile menu"
+          >
+            {isMobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+          </button>
         </div>
       </div>
+
+      {isMobileMenuOpen && (
+        <div className="md:hidden absolute top-16 left-0 w-full border-b border-border-subtle bg-surface/95 backdrop-blur-xl shadow-lg">
+          <nav className="flex flex-col px-6 py-6 gap-6 text-sm font-medium text-foreground/80">
+            <Link href="/" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-accent transition-colors">Home</Link>
+            <Link href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-accent transition-colors">Blog</Link>
+            <Link href="/services" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-accent transition-colors">Services</Link>
+            <Link href="/news" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-accent transition-colors">News</Link>
+            <Link 
+              href="/contact" 
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="mt-4 flex h-10 w-full items-center justify-center rounded-md bg-accent px-4 py-2 text-sm font-medium text-white shadow transition-colors hover:bg-accent/90"
+            >
+              Book Consultation
+            </Link>
+          </nav>
+        </div>
+      )}
     </header>
   );
 }

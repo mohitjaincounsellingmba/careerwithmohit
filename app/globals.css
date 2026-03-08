@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fafaf9;
-  --foreground: #1c1917;
-  --accent: #0f766e;
-  --surface: #ffffff;
-  --border: #e7e5e4;
+  --background: #f8fafc; /* Clean very light slate */
+  --foreground: #0f172a; /* Deep slate for text */
+  --accent: #4f46e5; /* Indigo accent */
+  --surface: rgba(255, 255, 255, 0.6); /* Glassmorphic white surface */
+  --border: rgba(0, 0, 0, 0.08); /* Subtle glass borders */
 }
 
 @theme inline {
@@ -18,20 +18,17 @@
   --font-body: var(--font-inter);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #1c1917;
-    --foreground: #fafaf9;
-    --accent: #2dd4bf;
-    --surface: #292524;
-    --border: #44403c;
-  }
-}
-
 body {
-  background: var(--color-background);
+  background-color: var(--color-background);
   color: var(--color-foreground);
   font-family: var(--font-body);
+  /* Premium modern abstract mesh gradient background */
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(14, 165, 233, 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(236, 72, 153, 0.15) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(99, 102, 241, 0.15) 0px, transparent 50%);
+  background-attachment: fixed;
 }
 
 /* Base typography for markdown content */

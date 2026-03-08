@@ -52,7 +52,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       </div>
 
       <div className="mt-20 border-t border-border-subtle pt-10">
-        <div className="rounded-2xl bg-surface border border-border-subtle p-8 sm:p-10 text-center">
+        <div className="rounded-3xl bg-surface backdrop-blur-xl border border-border-subtle p-8 sm:p-10 text-center">
           <h3 className="font-display text-2xl font-semibold tracking-tight text-foreground mb-4">
             Need personalized career guidance?
           </h3>
