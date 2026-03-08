@@ -22,8 +22,11 @@ const SERVICES = [
 ];
 
 export const metadata = {
-  title: "Our Services | Mohit Jain Career Counselling",
-  description: "Comprehensive support across your entire academic and professional journey.",
+  title: "Our Services | Expert Career Counselling",
+  description: "Explore our range of career counselling services, from MBA admission support to resume building and interview prep.",
+  alternates: {
+    canonical: "/services",
+  },
 };
 
 export default function ServicesPage() {

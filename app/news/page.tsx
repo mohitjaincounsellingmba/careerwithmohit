@@ -37,8 +37,11 @@ const NEWS_ITEMS = [
 ];
 
 export const metadata = {
-  title: "Latest News & Updates | Mohit Jain Career Counselling",
-  description: "Stay updated with the latest news on MBA, B.Tech admissions, and career guidance.",
+  title: "Latest News | Education & Career Updates",
+  description: "Stay updated with the latest education news, admission alerts, and career growth insights from CareerWithMohit.",
+  alternates: {
+    canonical: "/news",
+  },
 };
 
 export default function NewsPage() {

@@ -1,8 +1,32 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
 import { ArrowLeft } from 'lucide-react';
+import { JsonLd } from "@/components/JsonLd";
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const postData = getPostData(slug);
+  
+  if (!postData) return {};
+
+  return {
+    title: postData.title,
+    description: postData.description,
+    openGraph: {
+      title: postData.title,
+      description: postData.description,
+      type: "article",
+      publishedTime: postData.date,
+      authors: ["Mohit Jain"],
+    },
+    alternates: {
+      canonical: `/blog/${slug}`,
+    },
+  };
+}
 
 export async function generateStaticParams() {
   const posts = getSortedPostsData();
@@ -19,8 +43,29 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     notFound();
   }
 
+  const articleData = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": postData.title,
+    "description": postData.description,
+    "datePublished": postData.date,
+    "author": {
+      "@type": "Person",
+      "name": "Mohit Jain"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CareerWithMohit",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://careerwithmohit.com/logo.png"
+      }
+    }
+  };
+
   return (
     <article className="w-full bg-muted pb-24">
+      <JsonLd data={articleData} />
       <div className="bg-white border-b-8 border-foreground pt-16 pb-16 px-6 sm:px-12">
         <div className="mx-auto max-w-4xl">
           <Link href="/blog" className="mb-10 inline-flex items-center gap-2 text-base font-bold text-foreground transition-transform hover:-translate-x-1">

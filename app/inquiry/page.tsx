@@ -1,5 +1,13 @@
 import { InquiryForm } from '@/components/InquiryForm';
 
+export const metadata = {
+  title: "Inquiry Form | Get Personalized Career Guidance",
+  description: "Fill out our inquiry form to connect with Mohit Jain for expert career counselling and MBA admissions support.",
+  alternates: {
+    canonical: "/inquiry",
+  },
+};
+
 export default function InquiryPage() {
   return (
     <div className="min-h-screen bg-accent/20 py-20 px-6 sm:px-12">
