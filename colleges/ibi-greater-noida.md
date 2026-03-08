@@ -5,16 +5,16 @@ location: "Greater Noida, Uttar Pradesh"
 established: 2008
 ownership: "Private"
 ranking: "Top Private B-School in North India"
-fees: "₹8.95 - 10.75 Lakhs"
-avg_placement: "₹7.60 LPA"
-highest_placement: "₹60.00 LPA"
+fees: "₹9.5 Lakhs"
+avg_placement: "₹7.5 LPA"
+highest_placement: "₹35.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.ibusinessinstitute.org"
+website: "https://www.ibi.edu.in"
 ---
 
 ### Courses & Fees
-- **PGDM**: Dual Major (Mkt, Fin, HR) | 2 Years | ₹10.75 Lakhs
-- **PGDM**: Business Analytics | 2 Years | ₹10.75 Lakhs
+- **PGDM**: General Management | 2 Years | ₹9.50 Lakhs
+- **PGDM**: Industry Integrated | 2 Years | ₹10.50 Lakhs
 - **PGDM**: International Business | 2 Years | ₹10.75 Lakhs
 
 ### About IBI Greater Noida

@@ -17,11 +17,11 @@ website: "https://www.mdi.ac.in"
 Management Development Institute (MDI) Gurgaon is one of India's premier B-schools. Located in the heart of Gurgaon's corporate hub, it offers immense industry exposure and a world-class academic environment.
 
 ### Courses & Fees
-- **PGDM**: General Management | 2 Years | ₹26.50 Lakhs
-- **PGDM-HRM**: Human Resource Mgmt | 2 Years | ₹26.50 Lakhs
-- **PGDM-IB**: International Business | 2 Years | ₹28.50 Lakhs
+- **PGDM**: General Management | 2 Years | ₹26.00 Lakhs
+- **PGDM-HRM**: Human Resource Mgmt | 2 Years | ₹26.00 Lakhs
+- **PGDM-IB**: International Business | 2 Years | ₹32.50 Lakhs
 - **Executive PGDM**: Business Management | 18 Months | ₹16.40 Lakhs
-- **PGDM**: Business Analytics | 2 Years | ₹26.50 Lakhs
+- **PGDM**: Business Analytics | 2 Years | ₹24.20 Lakhs
 
 ### Placements
 MDI Gurgaon is a target school for top consulting and BFSI firms.

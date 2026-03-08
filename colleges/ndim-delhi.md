@@ -14,6 +14,7 @@ website: "https://www.ndimdelhi.org"
 
 ### Courses & Fees
 - **PGDM**: General Management | 2 Years | ₹13.75 Lakhs
+- **PGDM-BA**: Business Analytics | 2 Years | ₹14.50 Lakhs
 
 ### About NDIM Delhi
 New Delhi Institute of Management (NDIM) is a globally recognized management institute, accredited by the NBA and AIU. It has been rated as the "Best B-School in India for Industry Linkages" for three consecutive years by the CII and AICTE. NDIM is known for its excellent placements and strong focus on entrepreneurship.

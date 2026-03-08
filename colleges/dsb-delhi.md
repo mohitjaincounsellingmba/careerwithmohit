@@ -5,16 +5,16 @@ location: "Pitampura, Delhi"
 established: 2012
 ownership: "Private"
 ranking: "#1 Top Emerging B-School (Times Ranking)"
-fees: "₹10.26 - 10.95 Lakhs"
-avg_placement: "₹9.40 LPA"
-highest_placement: "₹23.90 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT", "GMAT"]
+fees: "₹11.2 Lakhs"
+avg_placement: "₹10.5 LPA"
+highest_placement: "₹22.3 LPA"
+exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://dsb.edu.in"
 ---
 
 ### Courses & Fees
-- **PGDM**: General (Dual Spec) | 2 Years | ₹10.26 Lakhs
-- **PGDM (FinTech)**: Financial Technology | 2 Years | ₹10.41 Lakhs
+- **PGDM**: General Management | 2 Years | ₹11.20 Lakhs
+- **PGDM-FinTech**: Financial Technology | 2 Years | ₹11.50 Lakhs
 - **PGDM (IEV)**: Innovation & Venture Dev | 2 Years | ₹10.00 Lakhs
 
 ### About DSB Delhi

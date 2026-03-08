@@ -5,17 +5,17 @@ location: "Greater Noida, Uttar Pradesh"
 established: 2009
 ownership: "Private"
 ranking: "#87 (NIRF 2024 - Overall)"
-fees: "₹8.05 - 9.14 Lakhs"
-avg_placement: "₹6.00 LPA"
-highest_placement: "₹1.60 Crore"
-exams: ["SUAT", "CAT", "MAT", "XAT"]
+fees: "₹11.0 Lakhs"
+avg_placement: "₹6.5 LPA"
+highest_placement: "₹15.0 LPA"
+exams: ["SUAT", "CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.sharda.ac.in"
 ---
 
 ### Courses & Fees
-- **MBA**: Dual Specialization | 2 Years | ₹9.14 Lakhs
-- **MBA**: Single Specialization | 2 Years | ₹3.60 Lakhs
-- **MBA**: Healthcare & Hospital Admin | 2 Years | ₹9.14 Lakhs
+- **MBA**: Dual Specialization | 2 Years | ₹11.00 Lakhs
+- **MBA**: Business Analytics | 2 Years | ₹13.50 Lakhs
+- **MBA**: Healthcare & Hospital | 2 Years | ₹10.50 Lakhs
 - **MBA**: Digital Transformation | 2 Years | ₹9.14 Lakhs
 - **Online MBA**: General (Mkt, Fin, HR) | 2 Years | ₹1.00 Lakhs
 

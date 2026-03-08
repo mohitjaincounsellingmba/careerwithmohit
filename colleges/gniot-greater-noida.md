@@ -5,16 +5,16 @@ location: "Greater Noida, Uttar Pradesh"
 established: 2001
 ownership: "Private"
 ranking: "#93 (Times B-School Ranking)"
-fees: "₹4.95 - 8.37 Lakhs"
-avg_placement: "₹5.75 - 7.25 LPA"
-highest_placement: "₹70.00 LPA"
+fees: "₹8.5 Lakhs"
+avg_placement: "₹7.2 LPA"
+highest_placement: "₹18.5 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.gniotgroup.edu.in"
 ---
 
 ### Courses & Fees
-- **MBA**: General (Mkt, Fin, HR, IT) | 2 Years | ₹4.95 Lakhs
-- **PGDM**: Global Business | 2 Years | ₹8.37 Lakhs
+- **PGDM**: General Management | 2 Years | ₹8.50 Lakhs
+- **MBA**: General (AKTU) | 2 Years | ₹3.50 Lakhs
 - **MBA**: Business Analytics | 2 Years | ₹5.50 Lakhs
 - **MBA**: Health Care Management | 2 Years | ₹5.50 Lakhs
 

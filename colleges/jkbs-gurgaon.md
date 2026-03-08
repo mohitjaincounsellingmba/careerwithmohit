@@ -5,10 +5,10 @@ location: "Gurgaon, Haryana"
 established: 2006
 ownership: "Private"
 ranking: "Top Private B-Schools (CSR-GHRDC)"
-fees: "₹7.95 - 8.5 Lakhs"
-avg_placement: "₹7.0 - 8.0 LPA"
-highest_placement: "₹24.00 LPA"
-exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA"]
+fees: "₹9.0 Lakhs"
+avg_placement: "₹8.0 LPA"
+highest_placement: "₹15.5 LPA"
+exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://jkbschool.org"
 ---
 
@@ -16,10 +16,8 @@ website: "https://jkbschool.org"
 JK Business School (JKBS) is part of a 125-year-old legacy of the JK Group. It is committed to providing quality management education and developing socially responsible global leaders. The school is known for its innovative pedagogy, including business simulations and case-based learning.
 
 ### Courses & Fees
-- **PGDM**: Dual Specialization | 2 Years | ₹7.99 Lakhs
-- **BBA**: General Management | 3 Years | ₹3.50 Lakhs
-- **B.Com (Hons.)**: Accounting & Finance | 3 Years | ₹2.90 Lakhs
-| PGDM | Supply Chain & Operations | 2 Years | ₹7.99 Lakhs |
+- **PGDM**: General Management | 2 Years | ₹9.00 Lakhs
+- **PGDM**: Business Analytics | 2 Years | ₹10.50 Lakhs
 
 ### PGDM Program
 The flagship PGDM program at JKBS is designed with a futuristic approach.

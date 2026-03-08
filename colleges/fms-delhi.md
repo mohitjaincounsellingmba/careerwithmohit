@@ -5,7 +5,7 @@ location: "New Delhi"
 established: 1954
 ownership: "Public (DU)"
 ranking: "Top 5 (Non-NIRF)"
-fees: "₹2.3 Lakhs"
+fees: "₹3.0 Lakhs"
 avg_placement: "₹34.1 LPA"
 highest_placement: "₹1.23 Crore"
 exams: ["CAT"]
@@ -14,8 +14,8 @@ website: "http://fms.edu"
 ---
 
 ### Courses & Fees
-- **MBA**: General (Mkt, Fin, HR, Ops) | 2 Years | ₹2.32 Lakhs
-- **MBA Executive**: Business Management | 2 Years | ₹1.00 Lakhs
+- **MBA**: General Management | 2 Years | ₹3.00 Lakhs
+- **MBA-Executive**: Morning/Evening | 2 Years | ₹2.50 Lakhs
 - **MBA Executive**: Health Care Administration | 2 Years | ₹1.00 Lakhs
 
 ### About FMS Delhi

@@ -5,21 +5,19 @@ location: "Gurgaon, Haryana"
 established: 2000
 ownership: "Private"
 ranking: "A+ Category B-School"
-fees: "₹4.65 - 4.95 Lakhs"
-avg_placement: "₹6.5 - 7.0 LPA"
-highest_placement: "₹13.50 LPA"
-exams: ["CAT", "XAT", "MAT", "CMAT"]
-website: "https://isbm.ac.in"
+fees: "₹8.2 Lakhs"
+avg_placement: "₹7.0 LPA"
+highest_placement: "₹14.0 LPA"
+exams: ["CAT", "MAT", "XAT", "CMAT"]
+website: "https://isbs.edu.in"
 ---
 
 ### About ISBS Gurgaon
 International School of Business Studies (ISBS) Gurgaon is part of the ISB&M group, known for its high-performance management programs. It is located in the heart of Gurgaon's corporate sector, allowing students easy access to internships and industry interactions. The school is known for its rigorous training and strong placement record.
 
 ### Courses & Fees
-- **PGDM**: General (Dual Spec) | 2 Years | ₹7.50 Lakhs
-- **MBA**: Professional Track | 2 Years | ₹6.20 Lakhs
-- **BBA**: Digital Marketing | 3 Years | ₹3.20 Lakhs
-- **MBA**: Supply Chain Management | 2 Years | ₹4.95 Lakhs
+- **PGDM**: General Management | 2 Years | ₹8.20 Lakhs
+- **MBA**: Global Business | 2 Years | ₹9.50 Lakhs
 
 ### MBA + PGPM Program
 - **Dual Qualification**: Earn an MBA degree along with a professional PGPM certification.

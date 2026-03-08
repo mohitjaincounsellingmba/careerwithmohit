@@ -5,20 +5,19 @@ location: "Gurgaon, Haryana"
 established: 2012
 ownership: "Private"
 ranking: "#11 (Outlook Ranking - Region)"
-fees: "₹2.65 - 2.8 Lakhs"
-avg_placement: "₹8.00 LPA"
-highest_placement: "₹40.00 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT", "SAITM-ET"]
-website: "https://saitm.ac.in"
+fees: "₹5.2 Lakhs"
+avg_placement: "₹5.5 LPA"
+highest_placement: "₹10.5 LPA"
+exams: ["CAT", "MAT", "CMAT", "Merit"]
+website: "https://www.saaitm.ac.in"
 ---
 
 ### About St. Andrews Gurgaon
 St. Andrews Institute of Technology and Management (SAITM) is a leading educational institution in Gurgaon, known for its focus on technology and management. The campus is spread over 22 acres and provides a conducive environment for learning and development. The MBA program is designed to create future-ready managers with a global mindset.
 
 ### Courses & Fees
-- **MBA**: Marketing, Finance, HR | 2 Years | ₹4.50 Lakhs
-- **B.Tech**: CSE, IT, ME, ECE | 4 Years | ₹3.80 Lakhs
-- **BCA**: Computer Applications | 3 Years | ₹2.10 Lakhs
+- **MBA**: General Management | 2 Years | ₹5.20 Lakhs
+- **BBA**: Marketing & Sales | 3 Years | ₹3.50 Lakhs
 
 ### MBA Program
 - **Specializations**: Marketing, Finance, HR, and IT.

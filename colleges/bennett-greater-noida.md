@@ -5,17 +5,17 @@ location: "Greater Noida, Uttar Pradesh"
 established: 2016
 ownership: "Private"
 ranking: "#2 (Top Emerging Universities - Times)"
-fees: "₹12.45 - 13.05 Lakhs"
-avg_placement: "₹7.41 - 7.57 LPA"
-highest_placement: "₹33.00 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT", "NMAT", "GMAT"]
+fees: "₹17.0 Lakhs"
+avg_placement: "₹10.5 LPA"
+highest_placement: "₹26.5 LPA"
+exams: ["CAT", "MAT", "XAT", "NMAT", "CMAT"]
 website: "https://www.bennett.edu.in"
 ---
 
 ### Courses & Fees
-- **MBA**: General (Mkt, Fin, HR, Ops) | 2 Years | ₹12.45 Lakhs
-- **MBA**: Business Analytics | 2 Years | ₹13.05 Lakhs
-- **MBA**: Media Management | 2 Years | ₹12.45 Lakhs
+- **MBA**: General Management | 2 Years | ₹17.00 Lakhs
+- **MBA**: Business Analytics | 2 Years | ₹18.50 Lakhs
+- **MBA**: Media Management | 2 Years | ₹15.00 Lakhs
 - **BBA + MBA**: Integrated Program | 5 Years | ₹25.00 Lakhs
 
 ### About Bennett University

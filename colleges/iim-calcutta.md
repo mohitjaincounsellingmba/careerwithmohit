@@ -5,17 +5,16 @@ location: "Kolkata, West Bengal"
 established: 1961
 ownership: "Public"
 ranking: "#5 (NIRF 2024)"
-fees: "₹31.0 Lakhs"
-avg_placement: "₹35.07 LPA"
+fees: "₹27.5 - 31.5 Lakhs"
+avg_placement: "₹35.1 LPA"
 highest_placement: "₹1.20 Crore"
-exams: ["CAT", "GMAT"]
-brochure_url: "/brochures/iimc-2025.pdf"
+exams: ["CAT"]
 website: "https://www.iimcal.ac.in"
 ---
 
 ### Courses & Fees
-- **MBA**: General Management | 2 Years | ₹27.00 Lakhs
-- **MBAEx**: One Year MBA | 1 Year | ₹31.00 Lakhs
+- **MBA**: General Management | 2 Years | ₹31.00 Lakhs
+- **MBAEx**: One Year MBA | 1 Year | ₹32.50 Lakhs
 - **PGDBA**: Business Analytics | 2 Years | ₹25.00 Lakhs
 
 ### About IIM Calcutta

@@ -7,7 +7,9 @@ ownership: "Private"
 ranking: "#42 (Times B-School Ranking)"
 fees: "₹9.25 - 10.5 Lakhs"
 avg_placement: "₹8.5 - 9.0 LPA"
-highest_placement: "₹41.20 LPA"
+fees: "₹10.5 Lakhs"
+avg_placement: "₹8.0 LPA"
+highest_placement: "₹17.5 LPA"
 exams: ["CAT", "MAT", "GMAT", "Goenka Aptitude Test"]
 website: "https://www.gdgoenkauniversity.com"
 ---
@@ -16,9 +18,9 @@ website: "https://www.gdgoenkauniversity.com"
 GD Goenka University is a premier educational institution located in the picturesque foothills of the Aravallis. The School of Management is known for its interdisciplinary approach and strong global collaborations. The campus is world-class with state-of-the-art facilities and a strong focus on holistic development.
 
 ### Courses & Fees
-- **MBA**: General Management | 2 Years | ₹9.50 Lakhs
-- **MBA**: Business Analytics | 2 Years | ₹11.00 Lakhs
-- **MBA**: Health Care Management | 2 Years | ₹9.50 Lakhs
+- **MBA**: General Management | 2 Years | ₹10.50 Lakhs
+- **MBA**: Business Analytics | 2 Years | ₹12.00 Lakhs
+- **MBA**: Health Care Management | 2 Years | ₹10.50 Lakhs
 - **MBA**: Tourism & Hospitality | 2 Years | ₹8.50 Lakhs
 - **MBA**: Agribusiness Management | 2 Years | ₹8.00 Lakhs
 

@@ -5,17 +5,16 @@ location: "Pune, Maharashtra"
 established: 1971
 ownership: "Public (Univ)"
 ranking: "Top ROI B-School"
-fees: "₹1.5 Lakhs"
-avg_placement: "₹9.4 LPA"
-highest_placement: "₹18.0 LPA"
+fees: "₹1.8 Lakhs"
+avg_placement: "₹8.8 LPA"
+highest_placement: "₹18.5 LPA"
 exams: ["MAH-CET", "CAT", "CMAT"]
-brochure_url: "/brochures/pumba-2025.pdf"
 website: "https://pumba.in"
 ---
 
 ### Courses & Fees
-- **MBA**: General (Mkt, Fin, HR) | 2 Years | ₹3.00 Lakhs
-- **MBA (PBT)**: Pharma-Biotech | 2 Years | ₹3.50 Lakhs
+- **MBA**: General Management | 2 Years | ₹1.80 Lakhs
+- **MBA-Pharma**: Biotech/Pharma Mgmt | 2 Years | ₹1.80 Lakhs
 - **Executive MBA**: Working Professionals | 2 Years | ₹2.50 Lakhs
 
 ### About PUMBA Pune

@@ -5,7 +5,7 @@ location: "Noida, Uttar Pradesh"
 established: 2004
 ownership: "Private"
 ranking: "#45 (NIRF 2024)"
-fees: "₹11.0 - 12.5 Lakhs"
+fees: "₹15.5 Lakhs"
 avg_placement: "₹11.3 LPA"
 highest_placement: "₹27.0 LPA"
 exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA"]
@@ -14,9 +14,9 @@ website: "https://www.jaipuria.ac.in/noida"
 ---
 
 ### Courses & Fees
-- **PGDM**: General Management | 2 Years | ₹14.50 Lakhs
-- **PGDM (SM)**: Service Management | 2 Years | ₹13.50 Lakhs
-- **PGDM (Mkt)**: Marketing | 2 Years | ₹13.50 Lakhs
+- **PGDM**: General Management | 2 Years | ₹15.50 Lakhs
+- **PGDM-SM**: Service Management | 2 Years | ₹14.50 Lakhs
+- **PGDM-Mkt**: Marketing Management | 2 Years | ₹14.50 Lakhs
 
 ### About Jaipuria Noida
 Jaipuria Institute of Management, Noida is a front-runner in management education in NCR. It is known for its learner-centric pedagogy and strong corporate placement record.

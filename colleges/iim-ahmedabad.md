@@ -5,17 +5,17 @@ location: "Ahmedabad, Gujarat"
 established: 1961
 ownership: "Public"
 ranking: "#1 (NIRF 2024)"
-fees: "₹25.0 - 27.0 Lakhs"
-avg_placement: "₹35.22 LPA"
+fees: "₹27.5 - 30.5 Lakhs"
+avg_placement: "₹34.3 LPA"
 highest_placement: "₹1.15 Crore"
-exams: ["CAT", "GMAT"]
+exams: ["CAT"]
 brochure_url: "/brochures/iima-pgp-2025.pdf"
 website: "https://www.iima.ac.in"
 ---
 
 ### Courses & Fees
-- **PGP (MBA)**: General Management | 2 Years | ₹27.50 Lakhs
-- **PGP-FABM**: Food & Agri-Business | 2 Years | ₹27.50 Lakhs
+- **PGP (MBA)**: General Management | 2 Years | ₹30.50 Lakhs
+- **PGP-FABM**: Food & Agri-Business | 2 Years | ₹30.50 Lakhs
 - **PGPX**: Executive MBA | 1 Year | ₹35.00 Lakhs
 - **ePGD-ABA**: Business Analytics & AI | 16 Months | ₹20.00 Lakhs
 

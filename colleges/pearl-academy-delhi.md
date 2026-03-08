@@ -5,16 +5,16 @@ location: "South Delhi, Delhi"
 established: 1993
 ownership: "Private"
 ranking: "#1 Fashion & Design Institute in India"
-fees: "₹10.93 - 15.27 Lakhs"
-avg_placement: "₹8.0 - 10.0 LPA"
-highest_placement: "₹26.00 LPA"
-exams: ["Pearl Academy Entrance", "CAT", "MAT"]
-website: "https://pearlacademy.com"
+fees: "₹21.5 Lakhs"
+avg_placement: "₹10.5 LPA"
+highest_placement: "₹20.2 LPA"
+exams: ["Entrance Exam", "Portfolio", "Interview"]
+website: "https://www.pearlacademy.com"
 ---
 
 ### Courses & Fees
-- **MBA**: Fashion Business | 2 Years | ₹12.20 Lakhs
-- **MBA**: Global Business Mgmt | 2 Years | ₹11.55 Lakhs
+- **MBA**: Fashion & Luxury Mgmt | 2 Years | ₹21.50 Lakhs
+- **MBA**: Creative Business | 2 Years | ₹21.50 Lakhs
 - **MBA**: Luxury Brand Mgmt | 2 Years | ₹11.85 Lakhs
 - **MBA**: Event Management | 2 Years | ₹12.20 Lakhs
 

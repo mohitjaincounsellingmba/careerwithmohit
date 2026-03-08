@@ -5,7 +5,7 @@ location: "Janakpuri, Delhi"
 established: 1994
 ownership: "Private"
 ranking: "Top B-School under GGSIPU"
-fees: "₹3.27 - 5.95 Lakhs"
+fees: "₹6.2 Lakhs"
 avg_placement: "₹7.50 LPA"
 highest_placement: "₹20.00 LPA"
 exams: ["IPU CET", "CAT", "MAT", "CMAT"]
@@ -13,8 +13,8 @@ website: "https://meri.edu.in"
 ---
 
 ### Courses & Fees
-- **MBA**: General (Mkt, Fin, HR, IT) | 2 Years | ₹4.34 Lakhs
-- **MBA + PGPM**: Dual Program | 2 Years | ₹5.95 Lakhs
+- **MBA**: General Management | 2 Years | ₹6.20 Lakhs
+- **PGDM**: Industrial Integrated | 2 Years | ₹7.50 Lakhs
 - **MBA**: Business Analytics | 2 Years | ₹4.43 Lakhs
 
 ### About MERI Delhi

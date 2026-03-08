@@ -5,17 +5,17 @@ location: "Kolkata, West Bengal"
 established: 2010
 ownership: "Private"
 ranking: "Top 70 in India"
-fees: "₹14.5 Lakhs"
-avg_placement: "₹12.0 LPA"
+fees: "₹16.5 Lakhs"
+avg_placement: "₹10.6 LPA"
 highest_placement: "₹20.3 LPA"
-exams: ["CAT", "XAT", "GMAT"]
+exams: ["CAT", "XAT", "GMAT", "CMAT"]
 brochure_url: "/brochures/imik-2025.pdf"
-website: "https://www.imik.edu.in"
+website: "https://www.imi-k.edu.in"
 ---
 
 ### Courses & Fees
-- **PGDM**: Mkt, Fin, HR, Ops | 2 Years | ₹14.50 Lakhs
-- **FPM**: Fellow Programme | 4 Years | ₹4.00 Lakhs
+- **PGDM**: General Management | 2 Years | ₹16.40 Lakhs
+- **FPM**: Fellow Programme | 4 Years | ₹4.50 Lakhs
 
 ### About IMI Kolkata
 International Management Institute (IMI) Kolkata is the first corporate-sponsored business school in India. It is known for its modern infrastructure and strong focus on research and global industry standards.

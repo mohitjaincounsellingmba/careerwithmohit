@@ -5,16 +5,16 @@ location: "Kalkaji, Delhi"
 established: 1997
 ownership: "Private"
 ranking: "Top 20 Private B-Schools in India (Outlook)"
-fees: "₹9.90 Lakhs"
-avg_placement: "₹8.15 - 10.5 LPA"
-highest_placement: "₹35.00 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT", "ATMA"]
+fees: "₹9.8 Lakhs"
+avg_placement: "₹8.1 LPA"
+highest_placement: "₹17.5 LPA"
+exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.jimskalkaji.com"
 ---
 
 ### Courses & Fees
-- **PGDM**: General (Mkt, Fin, HR) | 2 Years | ₹9.90 Lakhs
-- **PGDM (IB)**: International Business | 2 Years | ₹9.90 Lakhs
+- **PGDM**: General Management | 2 Years | ₹9.80 Lakhs
+- **PGDM-IB**: International Business | 2 Years | ₹9.80 Lakhs
 
 ### About JIMS Kalkaji
 Jagan International Management School (JIMS) Kalkaji is a leading management institute located in the heart of South Delhi. Recognized for its academic excellence, the institute is accredited by NBA and NAAC. It offers an environment that encourages innovation, research, and critical thinking, preparing students for senior leadership roles in the corporate world.

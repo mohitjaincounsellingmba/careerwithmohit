@@ -5,7 +5,7 @@ location: "Greater Noida, Uttar Pradesh"
 established: 2007
 ownership: "Private"
 ranking: "#19 (Best B-Schools in North India - India Today)"
-fees: "₹4.8 - 5.2 Lakhs"
+fees: "₹8.0 Lakhs"
 avg_placement: "₹7.12 - 7.35 LPA"
 highest_placement: "₹58.00 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
@@ -13,8 +13,8 @@ website: "https://www.glbimr.org"
 ---
 
 ### Courses & Fees
-- **PGDM**: General (Mkt, Fin, HR, Ops) | 2 Years | ₹10.50 Lakhs
-- **MBA**: General Management | 2 Years | ₹5.20 Lakhs
+- **PGDM**: General Management | 2 Years | ₹8.00 Lakhs
+- **PGDM**: Marketing & Finance | 2 Years | ₹8.00 Lakhs
 - **MBA**: Business Analytics | 2 Years | ₹5.50 Lakhs
 
 ### About GL Bajaj

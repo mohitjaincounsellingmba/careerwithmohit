@@ -7,18 +7,20 @@ ownership: "Private"
 ranking: "#11 (NIRF 2024 - Top Private B-Schools)"
 fees: "₹12.3 - 12.9 Lakhs"
 avg_placement: "₹8.0 - 8.6 LPA"
-highest_placement: "₹26.00 LPA"
-exams: ["CAT", "XAT", "MAT", "CMAT", "NMAT"]
-website: "https://www.iilm.edu.in"
+fees: "₹12.9 Lakhs"
+avg_placement: "₹8.5 LPA"
+highest_placement: "₹18.0 LPA"
+exams: ["CAT", "MAT", "XAT", "CMAT"]
+website: "https://iilm.edu.in"
 ---
 
 ### About IILM Gurgaon
 IILM University, Gurugram, is a leading private university located in the corporate hub of Gurgaon. It is known for its liberal education approach and strong focus on industry-ready curriculum. The university offers a global perspective with international collaborations and a faculty with extensive corporate experience.
 
 ### Courses & Fees
-- **MBA**: Marketing, Finance, HR, FinTech | 2 Years | ₹11.70 Lakhs
-- **Executive MBA**: For Working Professionals | 15 Months | ₹6.50 Lakhs
-- **BBA**: General Management | 3 Years | ₹9.00 Lakhs
+- **MBA**: Marketing, Finance, HR, FinTech | 2 Years | ₹12.90 Lakhs
+- **Executive MBA**: For Working Professionals | 15 Months | ₹7.50 Lakhs
+- **BBA**: General Management | 3 Years | ₹10.50 Lakhs
 | MBA | Financial Technology | 2 Years | ₹12.90 Lakhs |
 | MBA | Healthcare & Hospital Management | 2 Years | ₹11.50 Lakhs |
 

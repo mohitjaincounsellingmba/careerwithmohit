@@ -5,21 +5,20 @@ location: "Gurgaon, Haryana"
 established: 2011
 ownership: "Private"
 ranking: "Top Emerging B-School in North India"
-fees: "₹5.0 - 8.0 Lakhs"
-avg_placement: "₹6.0 - 7.0 LPA"
-highest_placement: "₹23.00 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://rmsbusinessschool.org"
+fees: "₹7.8 Lakhs"
+avg_placement: "₹6.5 LPA"
+highest_placement: "₹12.5 LPA"
+exams: ["CAT", "MAT", "CMAT", "ATMA"]
+website: "https://rms.edu.in"
 ---
 
 ### About RMS Gurgaon
 RMS Business School, Gurugram, is dedicated to providing high-quality management education with a focus on real-world application. The school is known for its "Industry-Integrated" learning model, where students spend significant time working on live projects and interacting with corporate leaders. It offers a modern campus with all the amenities for a professional learning experience.
 
 ### Courses & Fees
-- **PGDM**: Mkt, Fin, HR, Ops | 2 Years | ₹6.75 Lakhs
-- **MBA**: General Management | 2 Years | ₹5.80 Lakhs
+- **PGDM**: General Management | 2 Years | ₹7.80 Lakhs
+- **MBA**: Core Management | 2 Years | ₹6.50 Lakhs
 - **BBA**: General Management | 3 Years | ₹2.50 Lakhs
-| MBA | Healthcare & Supply Chain | 2 Years | ₹5.00 Lakhs |
 
 ### MBA/PGDM Programs
 - **MBA (General)**: Affiliated program with dual specialization options.
