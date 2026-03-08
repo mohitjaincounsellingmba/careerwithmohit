@@ -1,0 +1,44 @@
+name: Instagram Auto-Post
+
+on:
+  push:
+    paths:
+      - 'posts/*.md'
+  workflow_dispatch:
+
+jobs:
+  autopost:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: |
+          npm install puppeteer-core
+          # Ensure chrome is available for puppeteer
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Start Dev Server
+        run: |
+          npm run dev &
+          # Wait for server to be ready
+          npx wait-on http://localhost:3000
+
+      - name: Generate Graphic and Post
+        env:
+          BASE_URL: 'http://localhost:3000'
+          INSTAGRAM_BUSINESS_ID: ${{ secrets.INSTAGRAM_BUSINESS_ID }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        run: node scripts/instagram-post.mjs
+
+      - name: Clean up temporary images
+        run: rm -f public/temp-ig-*.jpg
