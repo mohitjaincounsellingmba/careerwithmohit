@@ -13,11 +13,21 @@ Pune, the "Oxford of the East," is a goldmine for MBA seekers. Whether you want 
 - **Top ROI**: PUMBA (Total Fees **₹1.3 Lakhs**)
 - **HR Specialization**: SCMHRD (Highest International **₹67.60 LPA**)
 
----
-
 ## 🔥 Top-Tier MBA Colleges in Pune
 
-### 1. Symbiosis Institute of Business Management (SIBM)
+Target these top-rated institutions for a successful career:
+
+- **SIBM Pune** (Symbiosis Institute of Business Management)
+- **SCMHRD Pune** (Symbiosis Centre for Management & HRD)
+- **PUMBA** (Department of Management Sciences)
+- **MIT World Peace University** (MIT-WPU)
+- **PIBM** (Pune Institute of Business Management)
+- **Indira Institute of Management**
+- **Balaji Institute of Modern Management** (BIMM)
+
+---
+
+### College Deep Dive: Fees & Cutoffs
 The flagship of the Symbiosis brand. High competition, high rewards.
 
 | Parameter | Details |

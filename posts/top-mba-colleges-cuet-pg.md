@@ -13,11 +13,20 @@ The Common University Entrance Test (CUET PG) is now a major gateway for MBA in 
 - **Top Value**: MBA for less than ₹2 Lakhs in total fees at central universities.
 - **High ROI**: Average placements ranging from ₹8 LPA to ₹13 LPA.
 
----
-
 ## 🔥 Top Colleges You Should Target
 
-### 1. Banaras Hindu University (BHU)
+Here is a list of the top universities accepting CUET PG for MBA:
+
+- **BHU** (Banaras Hindu University)
+- **JNU** (Jawaharlal Nehru University)
+- **DAVV Indore** (IMS)
+- **Central University of Haryana**
+- **Central University of Punjab**
+- **TISS** (For specific programs)
+
+---
+
+### Detailed Comparison: Fees & ROI
 The "King" of ROI. Legendary placements at almost zero cost.
 
 | Parameter | Details |

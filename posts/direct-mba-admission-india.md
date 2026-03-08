@@ -18,10 +18,24 @@ In this guide, we reveal the top 10 colleges where you can secure a seat directl
 
 ---
 
-## 🔥 Top 10 MBA Colleges with Direct Admission Paths
+## 🔥 Top MBA Colleges with Direct Admission Paths
 
-These institutions are recognized by AICTE/UGC and are known for their strong placement records and global industry exposure.
+Here are the top 10 institutions where you can secure your management seat directly:
 
+- **BIMTECH**, Greater Noida
+- **JAGSoM**, Bangalore
+- **XIME**, Bangalore/Kochi
+- **Jaipuria Institute of Management**, Noida
+- **IMI**, Kolkata
+- **ITM Business School**, Mumbai/Bangalore
+- **IBA**, Bangalore
+- **Amity Business School**, Noida
+- **UPES**, Dehradun
+- **GIBS**, Bangalore
+
+---
+
+### Detailed Fee & Placement Comparison
 | College Name | Preferred Courses | Total Fees (Approx) | Avg. Placement |
 | :--- | :--- | :--- | :--- |
 | **BIMTECH, Greater Noida** | PGDM / PGDM-IB | **₹18.5 - 19.5 Lakhs** | **₹11.20 LPA** |

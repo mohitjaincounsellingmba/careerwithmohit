@@ -28,12 +28,22 @@ MAT results are typically released **3 to 4 weeks** after the testing window con
 
 > **Pro Tip:** Keep your roll number and form number handy. You can check your scorecard directly at [mat.aima.in](https://mat.aima.in).
 
----
-
 ## 🔥 Top MBA Colleges Accepting MAT 2025
 
-These institutions are known for their strong industry ties, modern curricula, and impressive placement records.
+These are the most sought-after B-schools for MAT aspirants:
 
+- **BIMTECH**, Greater Noida
+- **XIME**, Bangalore
+- **JAGSoM**, Bangalore
+- **Jaipuria Institute**, Noida
+- **IMI**, Kolkata
+- **IBA**, Bangalore
+- **AIMS**, Bangalore
+- **NDIM**, New Delhi
+
+---
+
+### Admission Statistics: Fees vs. Placements
 | College Name | Expected Cutoff | Total Fees (Approx) | Avg. Placement |
 | :--- | :--- | :--- | :--- |
 | **BIMTECH, Greater Noida** | 90+ Percentile | ₹18.5 - 19.5 Lakhs | ₹10.90 LPA |
