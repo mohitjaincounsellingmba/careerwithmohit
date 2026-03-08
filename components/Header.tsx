@@ -45,6 +45,10 @@ export function Header() {
       {isMobileMenuOpen && (
         <div className="md:hidden absolute top-20 left-0 w-full border-b-2 border-gray-200 bg-white shadow-xl z-50">
           <nav className="flex flex-col px-6 py-8 gap-6 text-lg font-bold text-foreground">
+            <div className="mb-2 block lg:hidden">
+              <SearchInput isMobile={true} onSearch={() => setIsMobileMenuOpen(false)} />
+            </div>
+            
             <Link href="/" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Home
             </Link>
@@ -61,7 +65,7 @@ export function Header() {
               href="https://wa.me/919560020771" 
               target="_blank" rel="noopener noreferrer"
               onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-6 flex h-14 w-full items-center justify-center rounded-md bg-primary px-4 py-2 text-lg font-bold text-white transition-all hover:bg-blue-600"
+              className="mt-4 flex h-14 w-full items-center justify-center rounded-md bg-primary px-4 py-2 text-lg font-bold text-white transition-all hover:bg-blue-600"
             >
               Connect on WhatsApp
             </a>

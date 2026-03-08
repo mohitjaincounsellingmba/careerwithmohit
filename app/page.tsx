@@ -45,7 +45,7 @@ export default function Home() {
             <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto rounded-md bg-foreground px-10 py-5 text-xl font-bold text-white transition-all hover:scale-105 hover:bg-gray-800 border-4 border-foreground text-center">
               Connect on WhatsApp
             </a>
-            <Link href="#services" className="w-full sm:w-auto rounded-md bg-transparent px-10 py-5 text-xl font-bold text-white transition-all hover:bg-white hover:text-primary border-4 border-white">
+            <Link href="/services" className="w-full sm:w-auto rounded-md bg-transparent px-10 py-5 text-xl font-bold text-white transition-all hover:bg-white hover:text-primary border-4 border-white">
               View Our Services
             </Link>
           </div>
