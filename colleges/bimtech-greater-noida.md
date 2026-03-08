@@ -14,12 +14,10 @@ website: "https://www.bimtech.ac.in"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| PGDM | General Management | 2 Years | ₹14.00 Lakhs |
-| PGDM (IB) | International Business | 2 Years | ₹14.00 Lakhs |
-| PGDM (IBM) | Insurance Business Mgmt | 2 Years | ₹13.00 Lakhs |
-| PGDM (RM) | Retail Management | 2 Years | ₹13.00 Lakhs |
+- **PGDM**: General Management | 2 Years | ₹14.00 Lakhs
+- **PGDM (IB)**: International Business | 2 Years | ₹14.00 Lakhs
+- **PGDM (IBM)**: Insurance Business Mgmt | 2 Years | ₹13.00 Lakhs
+- **PGDM (RM)**: Retail Management | 2 Years | ₹13.00 Lakhs
 
 ### About BIMTECH
 Birla Institute of Management Technology (BIMTECH) was established in 1988 under the aegis of the Birla Academy of Art and Culture. It is one of India's most prestigious private B-schools, known for its strong industry connection and global perspective.

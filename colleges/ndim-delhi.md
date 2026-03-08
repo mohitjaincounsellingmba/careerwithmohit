@@ -13,11 +13,9 @@ website: "https://www.ndimdelhi.org"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| PGDM | Dual Specialization | 2 Years | ₹12.80 Lakhs |
-| PGDM (IEV) | Innovation & Entrepreneurship | 2 Years | ₹12.00 Lakhs |
-| PGDM | Marketing or Finance | 2 Years | ₹12.80 Lakhs |
+- **PGDM**: Dual Specialization | 2 Years | ₹12.80 Lakhs
+- **PGDM (IEV)**: Innovation & Entrepreneurship | 2 Years | ₹12.00 Lakhs
+- **PGDM**: Marketing or Finance | 2 Years | ₹12.80 Lakhs
 
 ### About NDIM Delhi
 New Delhi Institute of Management (NDIM) is a globally recognized management institute, accredited by the NBA and AIU. It has been rated as the "Best B-School in India for Industry Linkages" for three consecutive years by the CII and AICTE. NDIM is known for its excellent placements and strong focus on entrepreneurship.

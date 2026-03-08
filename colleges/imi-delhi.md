@@ -14,11 +14,9 @@ website: "https://www.imi.edu"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| PGDM | General Management | 2 Years | ₹23.54 Lakhs |
-| PGDM (HRM) | Human Resource Management | 2 Years | ₹23.54 Lakhs |
-| PGDM (B&FS) | Banking & Financial Services | 2 Years | ₹23.54 Lakhs |
+- **PGDM**: General Management | 2 Years | ₹23.54 Lakhs
+- **PGDM (HRM)**: Human Resource Management | 2 Years | ₹23.54 Lakhs
+- **PGDM (B&FS)**: Banking & Financial Services | 2 Years | ₹23.54 Lakhs
 
 ### About IMI Delhi
 International Management Institute (IMI) Delhi is India's first corporate-sponsored business school. It is consistently ranked among the top private B-schools in North India.

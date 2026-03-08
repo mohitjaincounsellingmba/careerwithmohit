@@ -16,11 +16,9 @@ website: "https://saitm.ac.in"
 St. Andrews Institute of Technology and Management (SAITM) is a leading educational institution in Gurgaon, known for its focus on technology and management. The campus is spread over 22 acres and provides a conducive environment for learning and development. The MBA program is designed to create future-ready managers with a global mindset.
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA | Marketing, Finance, HR | 2 Years | ₹2.60 Lakhs |
-| MBA | Information Technology | 2 Years | ₹2.65 Lakhs |
-| Global MBA | International Exposure | 2 Years | ₹3.50 Lakhs |
+- **MBA**: Marketing, Finance, HR | 2 Years | ₹4.50 Lakhs
+- **B.Tech**: CSE, IT, ME, ECE | 4 Years | ₹3.80 Lakhs
+- **BCA**: Computer Applications | 3 Years | ₹2.10 Lakhs
 
 ### MBA Program
 - **Specializations**: Marketing, Finance, HR, and IT.

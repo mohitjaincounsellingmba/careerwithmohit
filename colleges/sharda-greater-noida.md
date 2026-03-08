@@ -13,13 +13,11 @@ website: "https://www.sharda.ac.in"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA | Dual Specialization | 2 Years | ₹9.14 Lakhs |
-| MBA | Single Specialization | 2 Years | ₹3.60 Lakhs |
-| MBA | Healthcare & Hospital Admin | 2 Years | ₹9.14 Lakhs |
-| MBA | Digital Transformation | 2 Years | ₹9.14 Lakhs |
-| Online MBA | General (Mkt, Fin, HR) | 2 Years | ₹1.00 Lakhs |
+- **MBA**: Dual Specialization | 2 Years | ₹9.14 Lakhs
+- **MBA**: Single Specialization | 2 Years | ₹3.60 Lakhs
+- **MBA**: Healthcare & Hospital Admin | 2 Years | ₹9.14 Lakhs
+- **MBA**: Digital Transformation | 2 Years | ₹9.14 Lakhs
+- **Online MBA**: General (Mkt, Fin, HR) | 2 Years | ₹1.00 Lakhs
 
 ### About Sharda University
 Sharda University is a truly global university with students from over 95+ countries. The School of Business Studies (SBS) offers a multicultural environment that prepares students for the global corporate world. It is known for its massive 63-acre campus and strong focus on research, innovation, and global outreach.

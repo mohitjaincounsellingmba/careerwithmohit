@@ -13,11 +13,9 @@ website: "https://meri.edu.in"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA | General (Mkt, Fin, HR, IT) | 2 Years | ₹4.34 Lakhs |
-| MBA + PGPM | Dual Program | 2 Years | ₹5.95 Lakhs |
-| MBA | Business Analytics | 2 Years | ₹4.43 Lakhs |
+- **MBA**: General (Mkt, Fin, HR, IT) | 2 Years | ₹4.34 Lakhs
+- **MBA + PGPM**: Dual Program | 2 Years | ₹5.95 Lakhs
+- **MBA**: Business Analytics | 2 Years | ₹4.43 Lakhs
 
 ### About MERI Delhi
 Janakpuri

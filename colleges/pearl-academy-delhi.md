@@ -13,12 +13,10 @@ website: "https://pearlacademy.com"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA | Fashion Business | 2 Years | ₹12.20 Lakhs |
-| MBA | Global Business Mgmt | 2 Years | ₹11.55 Lakhs |
-| MBA | Luxury Brand Mgmt | 2 Years | ₹11.85 Lakhs |
-| MBA | Event Management | 2 Years | ₹12.20 Lakhs |
+- **MBA**: Fashion Business | 2 Years | ₹12.20 Lakhs
+- **MBA**: Global Business Mgmt | 2 Years | ₹11.55 Lakhs
+- **MBA**: Luxury Brand Mgmt | 2 Years | ₹11.85 Lakhs
+- **MBA**: Event Management | 2 Years | ₹12.20 Lakhs
 
 ### About Pearl Academy Delhi
 Pearl Academy is a global leader in creative education, offering specialized MBA programs in Design, Fashion, and Luxury Management. The Delhi campus is a hub for creativity and innovation, providing students with world-class infrastructure and industry exposure. The MBA programs are designed for those looking to lead in creative industries.

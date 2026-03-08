@@ -14,9 +14,7 @@ website: "https://www.mnit.ac.in"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA | General Management | 2 Years | ₹2.50 Lakhs |
+- **MBA**: General Management | 2 Years | ₹2.50 Lakhs
 
 ### About MNIT Jaipur
 Malaviya National Institute of Technology (MNIT) Jaipur is a premium public engineering and management school. Its DMS (Department of Management Studies) offers highROI management education.

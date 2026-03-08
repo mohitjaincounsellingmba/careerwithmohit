@@ -16,11 +16,9 @@ website: "https://rmsbusinessschool.org"
 RMS Business School, Gurugram, is dedicated to providing high-quality management education with a focus on real-world application. The school is known for its "Industry-Integrated" learning model, where students spend significant time working on live projects and interacting with corporate leaders. It offers a modern campus with all the amenities for a professional learning experience.
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA | Corporate (Mkt, Fin, HR) | 2 Years | ₹5.00 Lakhs |
-| PGDM | Industry Integrated | 2 Years | ₹8.00 Lakhs |
-| PGDM Global | International Immersion | 2 Years | ₹15.00 Lakhs |
+- **PGDM**: Mkt, Fin, HR, Ops | 2 Years | ₹6.75 Lakhs
+- **MBA**: General Management | 2 Years | ₹5.80 Lakhs
+- **BBA**: General Management | 3 Years | ₹2.50 Lakhs
 | MBA | Healthcare & Supply Chain | 2 Years | ₹5.00 Lakhs |
 
 ### MBA/PGDM Programs

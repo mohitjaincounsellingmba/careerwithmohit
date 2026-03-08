@@ -13,11 +13,9 @@ website: "https://www.jimsindia.org"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| PGDM | General Management | 2 Years | ₹9.90 Lakhs |
-| PGDM (IB) | International Business | 2 Years | ₹9.90 Lakhs |
-| PGDM (RM) | Retail Management | 2 Years | ₹9.90 Lakhs |
+- **PGDM**: General Management | 2 Years | ₹9.90 Lakhs
+- **PGDM (IB)**: International Business | 2 Years | ₹9.90 Lakhs
+- **PGDM (RM)**: Retail Management | 2 Years | ₹9.90 Lakhs
 
 ### About JIMS Rohini
 Jagan Institute of Management Studies (JIMS) Rohini is a premier management institute in Delhi, accredited by NAAC (A grade) and NBA. It is one of the most sought-after B-schools under GGSIPU and is known for its rigorous academic curriculum and excellent placement track record. The institute focuses on developing socially responsible and globally competitive managers.

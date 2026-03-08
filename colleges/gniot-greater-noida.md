@@ -13,12 +13,10 @@ website: "https://www.gniotgroup.edu.in"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA | General (Mkt, Fin, HR, IT) | 2 Years | ₹4.95 Lakhs |
-| PGDM | Global Business | 2 Years | ₹8.37 Lakhs |
-| MBA | Business Analytics | 2 Years | ₹5.50 Lakhs |
-| MBA | Health Care Management | 2 Years | ₹5.50 Lakhs |
+- **MBA**: General (Mkt, Fin, HR, IT) | 2 Years | ₹4.95 Lakhs
+- **PGDM**: Global Business | 2 Years | ₹8.37 Lakhs
+- **MBA**: Business Analytics | 2 Years | ₹5.50 Lakhs
+- **MBA**: Health Care Management | 2 Years | ₹5.50 Lakhs
 
 ### About GNIOT
 GNIOT Group of Institutions is a giant in the educational landscape of Greater Noida. Its management wing is known for providing quality education with a strong emphasis on practical exposure. The campus is massive with modern industry-alighed labs, a world-class library, and a dedicated career development center.

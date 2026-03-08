@@ -14,11 +14,9 @@ website: "https://www.jaipuria.ac.in/noida"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| PGDM | General Management | 2 Years | ₹14.50 Lakhs |
-| PGDM (SM) | Service Management | 2 Years | ₹13.50 Lakhs |
-| PGDM (Mkt) | Marketing | 2 Years | ₹13.50 Lakhs |
+- **PGDM**: General Management | 2 Years | ₹14.50 Lakhs
+- **PGDM (SM)**: Service Management | 2 Years | ₹13.50 Lakhs
+- **PGDM (Mkt)**: Marketing | 2 Years | ₹13.50 Lakhs
 
 ### About Jaipuria Noida
 Jaipuria Institute of Management, Noida is a front-runner in management education in NCR. It is known for its learner-centric pedagogy and strong corporate placement record.

@@ -16,12 +16,10 @@ website: "https://isbm.ac.in"
 International School of Business Studies (ISBS) Gurgaon is part of the ISB&M group, known for its high-performance management programs. It is located in the heart of Gurgaon's corporate sector, allowing students easy access to internships and industry interactions. The school is known for its rigorous training and strong placement record.
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA + PGPM | General (Mkt, Fin, HR, IT) | 2 Years | ₹4.65 Lakhs |
-| MBA | Business Analytics | 2 Years | ₹4.95 Lakhs |
-| MBA | Health Care Management | 2 Years | ₹4.95 Lakhs |
-| MBA | Supply Chain Management | 2 Years | ₹4.95 Lakhs |
+- **PGDM**: General (Dual Spec) | 2 Years | ₹7.50 Lakhs
+- **MBA**: Professional Track | 2 Years | ₹6.20 Lakhs
+- **BBA**: Digital Marketing | 3 Years | ₹3.20 Lakhs
+- **MBA**: Supply Chain Management | 2 Years | ₹4.95 Lakhs
 
 ### MBA + PGPM Program
 - **Dual Qualification**: Earn an MBA degree along with a professional PGPM certification.

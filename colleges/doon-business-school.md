@@ -14,11 +14,9 @@ website: "https://www.doonbusinessschool.com"
 ---
 
 ### Courses & Fees
-| Course | Specialization | Duration | Total Fees |
-| :--- | :--- | :--- | :--- |
-| MBA | General (Mkt, Fin, HR) | 2 Years | ₹7.50 Lakhs |
-| MBA | Business Analytics | 2 Years | ₹8.50 Lakhs |
-| PGDM | Global Management | 2 Years | ₹9.00 Lakhs |
+- **MBA**: General (Mkt, Fin, HR) | 2 Years | ₹7.50 Lakhs
+- **MBA**: Business Analytics | 2 Years | ₹8.50 Lakhs
+- **PGDM**: Global Management | 2 Years | ₹9.00 Lakhs
 
 ### About Doon Business School
 Doon Business School (DBS) is one of the premier management institutes in Northern India, offering an industry-oriented curriculum in the serene environment of Dehradun.
