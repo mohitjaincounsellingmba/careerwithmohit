@@ -35,19 +35,48 @@ Here are the top 10 institutions where you can secure your management seat direc
 
 ---
 
-### Detailed Fee & Placement Comparison
-| College Name | Preferred Courses | Total Fees (Approx) | Avg. Placement |
-| :--- | :--- | :--- | :--- |
-| **BIMTECH, Greater Noida** | PGDM / PGDM-IB | **₹18.5 - 19.5 Lakhs** | **₹11.20 LPA** |
-| **JAGSoM, Bangalore** | PGDM (Specialized) | **₹14.0 - 15.6 Lakhs** | **₹10.30 LPA** |
-| **XIME, Bangalore/Kochi** | PGDM | **₹12.5 - 13.5 Lakhs** | **₹10.36 LPA** |
-| **Jaipuria Institute, Noida** | PGDM | **₹11.5 - 12.8 Lakhs** | **₹11.29 LPA** |
-| **IMI, Kolkata** | PGDM | **₹9.8 - 11.5 Lakhs** | **₹10.67 LPA** |
-| **ITM Business School** | PGDM iConnect | **₹10.5 - 11.8 Lakhs** | **₹8.65 LPA** |
-| **IBA, Bangalore** | PGDM | **₹9.5 - 10.3 Lakhs** | **₹7.96 LPA** |
-| **Amity Business School** | MBA | **₹12.0 - 15.0 Lakhs** | **₹8.00 LPA** |
-| **UPES, Dehradun** | MBA (Oil & Gas/Digital) | **₹14.0 - 16.5 Lakhs** | **₹9.00 LPA** |
-| **GIBS, Bangalore** | PGDM | **₹8.5 - 9.5 Lakhs** | **₹7.40 LPA** |
+### Detailed Comparison: Fees & Placements
+
+- **BIMTECH, Greater Noida**
+    - **Preferred Courses**: PGDM / PGDM-IB
+    - **Total Fees**: ₹18.5 - 19.5 Lakhs
+    - **Avg. Placement**: ₹11.20 LPA
+- **JAGSoM, Bangalore**
+    - **Preferred Courses**: PGDM (Specialized)
+    - **Total Fees**: ₹14.0 - 15.6 Lakhs
+    - **Avg. Placement**: ₹10.30 LPA
+- **XIME, Bangalore/Kochi**
+    - **Preferred Courses**: PGDM
+    - **Total Fees**: ₹12.5 - 13.5 Lakhs
+    - **Avg. Placement**: ₹10.36 LPA
+- **Jaipuria Institute of Management, Noida**
+    - **Preferred Courses**: PGDM
+    - **Total Fees**: ₹11.5 - 12.8 Lakhs
+    - **Avg. Placement**: ₹11.29 LPA
+- **IMI, Kolkata**
+    - **Preferred Courses**: PGDM
+    - **Total Fees**: ₹9.8 - 11.5 Lakhs
+    - **Avg. Placement**: ₹10.67 LPA
+- **ITM Business School, Mumbai/Bangalore**
+    - **Preferred Courses**: PGDM iConnect
+    - **Total Fees**: ₹10.5 - 11.8 Lakhs
+    - **Avg. Placement**: ₹8.65 LPA
+- **IBA, Bangalore**
+    - **Preferred Courses**: PGDM
+    - **Total Fees**: ₹9.5 - 10.3 Lakhs
+    - **Avg. Placement**: ₹7.96 LPA
+- **Amity Business School, Noida**
+    - **Preferred Courses**: MBA
+    - **Total Fees**: ₹12.0 - 15.0 Lakhs
+    - **Avg. Placement**: ₹8.00 LPA
+- **UPES, Dehradun**
+    - **Preferred Courses**: MBA (Oil & Gas/Digital)
+    - **Total Fees**: ₹14.0 - 16.5 Lakhs
+    - **Avg. Placement**: ₹9.00 LPA
+- **GIBS, Bangalore**
+    - **Preferred Courses**: PGDM
+    - **Total Fees**: ₹8.5 - 9.5 Lakhs
+    - **Avg. Placement**: ₹7.40 LPA
 
 ---
 

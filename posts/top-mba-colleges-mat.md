@@ -43,15 +43,32 @@ These are the most sought-after B-schools for MAT aspirants:
 
 ---
 
-### Admission Statistics: Fees vs. Placements
-| College Name | Expected Cutoff | Total Fees (Approx) | Avg. Placement |
-| :--- | :--- | :--- | :--- |
-| **BIMTECH, Greater Noida** | 90+ Percentile | ₹18.5 - 19.5 Lakhs | ₹10.90 LPA |
-| **XIME, Bangalore** | 85+ Percentile | ₹11.5 - 14.8 Lakhs | ₹10.36 LPA |
-| **JAGSoM, Bangalore** | 80+ Percentile | ₹13.0 - 15.0 Lakhs | ₹10.21 LPA |
-| **Jaipuria Institute, Noida** | 80+ Percentile | ₹11.7 - 12.5 Lakhs | ₹11.29 LPA |
-| **IMI, Kolkata** | 80+ Percentile | ₹9.8 - 10.5 Lakhs | ₹10.67 LPA |
-| **IBA, Bangalore** | 75+ Percentile | ₹8.5 - 10.3 Lakhs | ₹7.96 LPA |
+### College Admission Statistics
+
+- **BIMTECH, Greater Noida**
+    - **Expected Cutoff**: 90+ Percentile
+    - **Total Fees**: ₹18.5 - 19.5 Lakhs
+    - **Avg. Placement**: ₹10.90 LPA
+- **XIME, Bangalore**
+    - **Expected Cutoff**: 85+ Percentile
+    - **Total Fees**: ₹11.5 - 14.8 Lakhs
+    - **Avg. Placement**: ₹10.36 LPA
+- **JAGSoM, Bangalore**
+    - **Expected Cutoff**: 80+ Percentile
+    - **Total Fees**: ₹13.0 - 15.0 Lakhs
+    - **Avg. Placement**: ₹10.21 LPA
+- **Jaipuria Institute, Noida**
+    - **Expected Cutoff**: 80+ Percentile
+    - **Total Fees**: ₹11.7 - 12.5 Lakhs
+    - **Avg. Placement**: ₹11.29 LPA
+- **IMI, Kolkata**
+    - **Expected Cutoff**: 80+ Percentile
+    - **Total Fees**: ₹9.8 - 10.5 Lakhs
+    - **Avg. Placement**: ₹10.67 LPA
+- **IBA, Bangalore**
+    - **Expected Cutoff**: 75+ Percentile
+    - **Total Fees**: ₹8.5 - 10.3 Lakhs
+    - **Avg. Placement**: ₹7.96 LPA
 
 ---
 

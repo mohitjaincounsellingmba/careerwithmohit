@@ -27,49 +27,41 @@ Target these top-rated institutions for a successful career:
 
 ---
 
-### College Deep Dive: Fees & Cutoffs
+### 1. Symbiosis Institute of Business Management (SIBM)
 The flagship of the Symbiosis brand. High competition, high rewards.
 
-| Parameter | Details |
-| :--- | :--- |
-| **Entrance Exam** | SNAP |
-| **Expected Cutoff** | **98.5+** Percentile |
-| **Total Fees** | **₹25.28 Lakhs** |
-| **Avg. Placement** | **₹28.83 LPA** |
-| **Highest Package** | **₹53.58 LPA** |
+- **Entrance Exam**: SNAP
+- **Expected Cutoff**: **98.5+** Percentile
+- **Total Fees**: **₹25.28 Lakhs**
+- **Avg. Placement**: **₹28.83 LPA**
+- **Highest Package**: **₹53.58 LPA**
 
 ### 2. SCMHRD Pune
 Specializes in HR, but performs exceptionally across Finance and Ops.
 
-| Parameter | Details |
-| :--- | :--- |
-| **Entrance Exam** | SNAP |
-| **Expected Cutoff** | **97+** Percentile |
-| **Total Fees** | **₹23.76 Lakhs** |
-| **Avg. Placement** | **₹23.71 LPA** |
-| **Highest (Int.)** | **₹67.60 LPA** |
+- **Entrance Exam**: SNAP
+- **Expected Cutoff**: **97+** Percentile
+- **Total Fees**: **₹23.76 Lakhs**
+- **Avg. Placement**: **₹23.71 LPA**
+- **Highest (Int.)**: **₹67.60 LPA**
 
 ### 3. PUMBA (Department of Management Sciences)
 University-affiliated, making it one of the most affordable high-repute colleges in India.
 
-| Parameter | Details |
-| :--- | :--- |
-| **Entrance Exam** | MAH MBA CET / CMAT |
-| **Expected Cutoff** | **99+** Percentile |
-| **Total Fees** | **₹1.3 - 1.5 Lakhs** |
-| **Avg. Placement** | **₹9.40 LPA** |
-| **Highest Package** | **₹16.22 LPA** |
+- **Entrance Exam**: MAH MBA CET / CMAT
+- **Expected Cutoff**: **99+** Percentile
+- **Total Fees**: **₹1.3 - 1.5 Lakhs**
+- **Avg. Placement**: **₹9.40 LPA**
+- **Highest Package**: **₹16.22 LPA**
 
 ### 4. MIT World Peace University (MIT-WPU)
 Modern campus with massive industry exposure and a global curriculum.
 
-| Parameter | Details |
-| :--- | :--- |
-| **Entrance Exam** | CAT / MAT / CMAT |
-| **Expected Cutoff** | **70+** (CAT) |
-| **Total Fees** | **₹13.5 Lakhs** |
-| **Avg. Placement** | **₹7.0 LPA** |
-| **Highest Package** | **₹12 LPA** |
+- **Entrance Exam**: CAT / MAT / CMAT
+- **Expected Cutoff**: **70+** (CAT)
+- **Total Fees**: **₹13.5 Lakhs**
+- **Avg. Placement**: **₹7.0 LPA**
+- **Highest Package**: **₹12 LPA**
 
 ---
 

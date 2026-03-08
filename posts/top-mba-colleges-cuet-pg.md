@@ -26,35 +26,29 @@ Here is a list of the top universities accepting CUET PG for MBA:
 
 ---
 
-### Detailed Comparison: Fees & ROI
+### Detailed### 1. Banaras Hindu University (BHU)
 The "King" of ROI. Legendary placements at almost zero cost.
 
-| Parameter | Details |
-| :--- | :--- |
-| **Exam Score Needed** | 210+ (Out of 300) |
-| **Total Fees** | Only ₹1.5 Lakhs |
-| **Avg. Placement** | ₹11 LPA |
-| **Why Target?** | Huge alumni network and high-paying PSU/Bank roles. |
+- **Exam Score Needed**: **210+** (Out of 300)
+- **Total Fees**: Only **₹1.5 Lakhs**
+- **Avg. Placement**: **₹11 LPA**
+- **Why Target?**: Huge alumni network and high-paying PSU/Bank roles.
 
 ### 2. JNU, Delhi (ABVSME)
 A world-class academic brand now offering a premium MBA.
 
-| Parameter | Details |
-| :--- | :--- |
-| **Exam Score Needed** | 230+ |
-| **Total Fees** | ₹12 Lakhs |
-| **Avg. Placement** | ₹13 LPA |
-| **Why Target?** | Located in Delhi's heart with core networking opportunities. |
+- **Exam Score Needed**: **230+**
+- **Total Fees**: **₹12 Lakhs**
+- **Avg. Placement**: **₹13 LPA**
+- **Why Target?**: Located in Delhi's heart with core networking opportunities.
 
 ### 3. DAVV Indore (IMS)
 The central India powerhouse for specialized MBA domains.
 
-| Parameter | Details |
-| :--- | :--- |
-| **Exam Score Needed** | 200+ |
-| **Total Fees** | ₹1.8 Lakhs |
-| **Avg. Placement** | ₹8 LPA |
-| **Why Target?** | Strong industry ties in Indore and Bhopal. |
+- **Exam Score Needed**: **200+**
+- **Total Fees**: **₹1.8 Lakhs**
+- **Avg. Placement**: **₹8 LPA**
+- **Why Target?**: Strong industry ties in Indore and Bhopal.
 
 ---
 
