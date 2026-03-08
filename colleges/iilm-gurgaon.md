@@ -1,0 +1,34 @@
+---
+name: "IILM University, Gurgaon"
+logo: "/colleges/iilm-logo.webp"
+location: "Gurgaon, Haryana"
+established: 1993
+ownership: "Private"
+ranking: "#11 (NIRF 2024 - Top Private B-Schools)"
+fees: "₹12.3 - 12.9 Lakhs"
+avg_placement: "₹8.0 - 8.6 LPA"
+highest_placement: "₹26.00 LPA"
+exams: ["CAT", "XAT", "MAT", "CMAT", "NMAT"]
+website: "https://www.iilm.edu.in"
+---
+
+### About IILM Gurgaon
+IILM University, Gurugram, is a leading private university located in the corporate hub of Gurgaon. It is known for its liberal education approach and strong focus on industry-ready curriculum. The university offers a global perspective with international collaborations and a faculty with extensive corporate experience.
+
+### Courses & Specializations
+- **MBA**: General MBA with dual specialization options.
+- **MBA (FinTech)**: Specialized program for the evolving finance sector.
+- **MBA (Business Analytics)**: Focus on data-driven decision making.
+- **MBA (HR & Marketing)**: Specialized tracks for core management functions.
+
+### Placements 2024-25
+IILM Gurgaon has a robust placement cell with consistently high placement rates.
+- **Highest Package**: ₹26.00 LPA
+- **Average Package**: ₹8.60 LPA
+- **Top 10% Average**: ₹16.00 LPA
+- **Top Recruiters**: Deloitte, KPMG, EY, Wipro, HDFC Bank, Zomato, Loreal, PwC.
+
+### Admission Process
+1. **Entrance Exam**: Valid score in CAT/XAT/MAT/CMAT/NMAT.
+2. **Personal Interview**: Candidates are evaluated on communication and aptitude.
+3. **Scholarship**: Academic and Merit-based scholarships available up to 40%.
