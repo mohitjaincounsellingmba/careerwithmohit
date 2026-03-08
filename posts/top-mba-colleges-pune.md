@@ -64,18 +64,6 @@ Known for its robust infrastructure and strong focus on practical industry skill
 
 ---
 
-### Summary Table
-
-| College | Entrance Exam | Expected Cutoff | Approx. Fees | Avg. Placement |
-| :--- | :--- | :--- | :--- | :--- |
-| **SIBM Pune** | SNAP | 98.5%ile | ₹25.3L | ₹28.8 LPA |
-| **SCMHRD** | SNAP | 97.0%ile | ₹23.8L | ₹23.7 LPA |
-| **PUMBA** | MAH CET | 99.0%ile | ₹3.0L | ₹9.4 LPA |
-| **MIT-WPU** | CAT/MAT | 70%ile | ₹13.5L | ₹7.0 LPA |
-| **DY Patil** | MAH CET | 67+ | ₹2.5L | ₹5.4 LPA |
-
----
-
 ### Which one should you choose?
 
 Choosing the right college depends on your priorities:
