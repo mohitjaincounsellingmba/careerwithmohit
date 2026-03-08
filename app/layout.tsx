@@ -5,6 +5,7 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { InquiryPopup } from "@/components/InquiryPopup";
 import { JsonLd } from "@/components/JsonLd";
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -99,6 +100,9 @@ export default function RootLayout({
         </main>
         <Footer />
         <InquiryPopup />
+        {process.env.NEXT_PUBLIC_GA_ID && (
+          <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
+        )}
       </body>
     </html>
   );
