@@ -22,9 +22,16 @@ export function Header() {
           <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Blog</Link>
           <Link href="/services" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Services</Link>
           <Link href="/news" className="hover:text-primary hover:-translate-y-0.5 transition-transform">News</Link>
+          <Link href="/inquiry" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Inquiry</Link>
         </nav>
         <div className="flex items-center gap-4">
           <SearchInput />
+          <a 
+            href="tel:9560020771" 
+            className="hidden lg:inline-flex h-12 items-center justify-center rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
+          >
+            Call Now
+          </a>
           <a 
             href="https://wa.me/919560020771" 
             target="_blank" rel="noopener noreferrer"
@@ -61,11 +68,21 @@ export function Header() {
             <Link href="/news" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>News
             </Link>
+            <Link href="/inquiry" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
+              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Inquiry
+            </Link>
+            <a 
+              href="tel:9560020771" 
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="mt-4 flex h-14 w-full items-center justify-center rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
+            >
+              Call Now
+            </a>
             <a 
               href="https://wa.me/919560020771" 
               target="_blank" rel="noopener noreferrer"
               onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-4 flex h-14 w-full items-center justify-center rounded-md bg-primary px-4 py-2 text-lg font-bold text-white transition-all hover:bg-blue-600"
+              className="mt-2 flex h-14 w-full items-center justify-center rounded-md bg-primary px-4 py-2 text-lg font-bold text-white transition-all hover:bg-blue-600"
             >
               Connect on WhatsApp
             </a>
