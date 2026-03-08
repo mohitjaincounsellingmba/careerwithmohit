@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
+import { ArrowLeft } from 'lucide-react';
 
 export async function generateStaticParams() {
   const posts = getSortedPostsData();
@@ -19,42 +20,50 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   }
 
   return (
-    <div className="min-h-screen pt-24 pb-32 px-6 sm:px-12 max-w-5xl mx-auto">
-      <Link href="/" className="inline-flex items-center gap-3 text-sm font-black uppercase tracking-widest text-foreground hover:text-accent mb-16 transition-all group">
-        <span className="group-hover:-translate-x-1 transition-transform">&larr;</span> Index
+    <article className="mx-auto max-w-3xl px-6 py-16 sm:px-12 sm:py-20">
+      <Link href="/" className="mb-10 inline-flex items-center gap-2 text-sm font-medium text-foreground/60 transition-colors hover:text-foreground">
+        <ArrowLeft className="h-4 w-4" />
+        Back to Home
       </Link>
       
-      <article>
-        <header className="mb-24 border-b-8 border-foreground pb-12 relative">
-          <div className="absolute top-0 right-0 w-8 h-8 bg-accent rotate-45 -translate-y-1/2 translate-x-1/2 mix-blend-difference"></div>
-          
-          <p className="text-sm font-black uppercase tracking-widest text-foreground/50 mb-8 bg-foreground/5 inline-block px-3 py-1 rounded-sm">
-            {postData.date}
+      <header className="mb-12 border-b border-border-subtle pb-10">
+        <div className="mb-6 flex items-center gap-3">
+          <time className="rounded-full bg-accent/10 px-3 py-1 text-xs font-medium uppercase tracking-wider text-accent">
+            {new Date(postData.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+          </time>
+          <span className="text-xs font-medium text-foreground/50 uppercase tracking-wider">
+            Career Advice
+          </span>
+        </div>
+        
+        <h1 className="font-display text-4xl font-semibold tracking-tight text-foreground sm:text-5xl md:text-[3.5rem] mb-6 text-balance leading-[1.1]">
+          {postData.title}
+        </h1>
+        
+        {postData.description && (
+          <p className="text-xl text-foreground/70 leading-relaxed max-w-2xl">
+            {postData.description}
           </p>
-          <h1 className="text-6xl sm:text-8xl md:text-[7rem] font-display font-black uppercase tracking-[-0.04em] leading-[0.9] mb-12">
-            {postData.title}
-          </h1>
-          {postData.description && (
-            <p className="text-2xl sm:text-3xl font-bold text-foreground/80 leading-snug border-l-8 border-accent pl-8 py-2 max-w-3xl">
-              {postData.description}
-            </p>
-          )}
-        </header>
+        )}
+      </header>
 
-        <div className="prose max-w-none">
-          <ReactMarkdown>{postData.content || ''}</ReactMarkdown>
+      <div className="prose">
+        <ReactMarkdown>{postData.content || ''}</ReactMarkdown>
+      </div>
+
+      <div className="mt-20 border-t border-border-subtle pt-10">
+        <div className="rounded-2xl bg-surface border border-border-subtle p-8 sm:p-10 text-center">
+          <h3 className="font-display text-2xl font-semibold tracking-tight text-foreground mb-4">
+            Need personalized career guidance?
+          </h3>
+          <p className="text-foreground/70 mb-8 max-w-md mx-auto">
+            Book a 1-on-1 session to discuss your specific career challenges and build an actionable roadmap.
+          </p>
+          <Link href="/contact" className="inline-flex h-11 items-center justify-center rounded-md bg-accent px-8 py-2 text-sm font-medium text-white shadow transition-colors hover:bg-accent/90">
+            Schedule a Consultation
+          </Link>
         </div>
-      </article>
-      
-      <footer className="mt-40 pt-16 border-t-8 border-foreground flex flex-col sm:flex-row justify-between items-start sm:items-end gap-8">
-        <div>
-          <h3 className="text-3xl font-display font-black uppercase tracking-tight mb-4">Web Aesthetics</h3>
-          <p className="text-foreground/60 font-bold uppercase tracking-widest text-sm">Vol. 1 / Brutalism & Editorial</p>
-        </div>
-        <div className="w-16 h-16 bg-accent rotate-12 hover:rotate-90 transition-transform duration-500 cursor-pointer flex items-center justify-center text-background font-black text-2xl">
-          *
-        </div>
-      </footer>
-    </div>
+      </div>
+    </article>
   );
 }

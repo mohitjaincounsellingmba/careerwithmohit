@@ -1,24 +1,30 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fdfdfc;
-  --foreground: #0a0a0c;
-  --accent: #ff4500;
+  --background: #fafaf9;
+  --foreground: #1c1917;
+  --accent: #0f766e;
+  --surface: #ffffff;
+  --border: #e7e5e4;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
-  --font-display: var(--font-syne);
-  --font-body: var(--font-manrope);
+  --color-surface: var(--surface);
+  --color-border-subtle: var(--border);
+  --font-display: var(--font-lora);
+  --font-body: var(--font-inter);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0c;
-    --foreground: #fdfdfc;
-    --accent: #ccff00;
+    --background: #1c1917;
+    --foreground: #fafaf9;
+    --accent: #2dd4bf;
+    --surface: #292524;
+    --border: #44403c;
   }
 }
 
@@ -26,34 +32,45 @@ body {
   background: var(--color-background);
   color: var(--color-foreground);
   font-family: var(--font-body);
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.04'/%3E%3C/svg%3E");
 }
 
 /* Base typography for markdown content */
 .prose {
-  @apply max-w-none text-lg leading-relaxed;
+  @apply max-w-none text-lg leading-relaxed text-foreground/90;
+}
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  @apply font-display font-medium tracking-tight text-foreground;
 }
 .prose h1 {
-  @apply font-display text-5xl font-bold mb-8 uppercase tracking-tighter;
+  @apply text-4xl mb-8 mt-12;
 }
 .prose h2 {
-  @apply font-display text-3xl font-bold mt-12 mb-6 uppercase tracking-tight border-b-4 border-accent pb-2 inline-block;
+  @apply text-3xl mb-6 mt-10 border-b border-border-subtle pb-2 inline-block w-full;
 }
 .prose h3 {
-  @apply font-display text-2xl font-bold mt-8 mb-4 uppercase tracking-tight;
+  @apply text-2xl mb-4 mt-8;
 }
 .prose p {
   @apply mb-6;
 }
 .prose blockquote {
-  @apply border-l-8 border-accent pl-6 py-2 my-8 text-2xl font-display italic text-foreground/80;
+  @apply border-l-4 border-accent pl-6 py-2 my-8 text-xl font-display italic text-foreground/80 bg-accent/5 rounded-r-lg;
 }
 .prose a {
-  @apply text-accent font-bold hover:underline underline-offset-4 decoration-4 transition-all;
+  @apply text-accent font-medium hover:text-accent/80 hover:underline underline-offset-4 transition-colors;
 }
 .prose ul, .prose ol {
-  @apply pl-6 mb-6 space-y-2 list-disc;
+  @apply pl-6 mb-6 space-y-2;
+}
+.prose ul {
+  @apply list-disc marker:text-accent/60;
+}
+.prose ol {
+  @apply list-decimal font-medium marker:text-accent/80;
 }
 .prose li {
-  @apply pl-2 marker:text-accent;
+  @apply pl-1;
+}
+.prose strong {
+  @apply font-semibold text-foreground;
 }

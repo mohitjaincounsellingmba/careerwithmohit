@@ -1,60 +1,59 @@
-import Link from "next/link";
-import { getSortedPostsData } from "@/lib/markdown";
+import Link from 'next/link';
+import { getSortedPostsData } from '@/lib/markdown';
 
 export default function Home() {
   const allPostsData = getSortedPostsData();
 
   return (
-    <div className="min-h-screen pt-24 pb-16 px-6 sm:px-12 max-w-[90rem] mx-auto">
-      <header className="mb-24 flex flex-col md:flex-row justify-between items-end gap-12 border-b-8 border-foreground pb-8">
-        <div>
-          <h1 className="text-6xl sm:text-8xl md:text-[9rem] xl:text-[11rem] font-display font-black uppercase leading-[0.85] tracking-tighter">
-            Web<br />Aesthetics
-          </h1>
-          <p className="mt-8 text-xl sm:text-2xl max-w-2xl font-bold text-foreground/80 leading-snug">
-            Exploring brutalist editorial design, typography as art, and the end of the homogenized internet.
-          </p>
+    <div className="mx-auto max-w-5xl px-6 py-16 sm:px-12 sm:py-24">
+      <section className="mb-20 space-y-8 text-center max-w-3xl mx-auto">
+        <h1 className="font-display text-4xl font-semibold tracking-tight text-foreground sm:text-5xl md:text-6xl text-balance leading-tight">
+          Navigate Your Career with <span className="text-accent italic">Clarity</span>
+        </h1>
+        <p className="text-lg leading-relaxed text-foreground/70 sm:text-xl text-balance">
+          Expert career counselling, interview preparation, and resume building strategies to help you achieve your professional goals.
+        </p>
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
+          <Link href="/contact" className="w-full sm:w-auto rounded-md bg-accent px-8 py-3.5 text-sm font-medium text-white shadow transition-colors hover:bg-accent/90">
+            Book a Free Consultation
+          </Link>
+          <Link href="#articles" className="w-full sm:w-auto rounded-md bg-surface px-8 py-3.5 text-sm font-medium text-foreground border border-border-subtle shadow-sm transition-colors hover:bg-foreground/5">
+            Read Our Advice
+          </Link>
         </div>
-        <div className="text-accent font-black text-2xl sm:text-5xl uppercase tracking-widest mb-2 md:mb-6">
-          Vol. 1
-        </div>
-      </header>
+      </section>
 
-      <main>
-        <section>
-          <h2 className="text-3xl font-display font-black uppercase tracking-tighter mb-16 flex items-center gap-6">
-            <span className="w-16 h-2 bg-accent inline-block"></span>
-            Latest Entries
+      <section id="articles" className="mt-24">
+        <div className="flex items-center justify-between mb-12 border-b border-border-subtle pb-4">
+          <h2 className="font-display text-3xl font-semibold tracking-tight text-foreground">
+            Latest Articles
           </h2>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-12 gap-y-20">
-            {allPostsData.map(({ slug, title, date, description }) => (
-              <article key={slug} className="group flex flex-col items-start border-t-4 border-foreground pt-6 relative">
-                {/* Decorative element marking article start */}
-                <div className="absolute top-0 right-0 w-4 h-4 bg-accent -translate-y-full translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                
-                <p className="text-sm font-black uppercase tracking-widest text-foreground/50 mb-4 bg-foreground/5 px-2 py-1 rounded-sm">{date}</p>
-                <Link href={`/blog/${slug}`} className="block w-full">
-                  <h3 className="text-4xl sm:text-5xl md:text-6xl font-display font-black uppercase tracking-[-0.04em] leading-[1.1] mb-6 group-hover:text-accent group-hover:-translate-y-1 transition-all duration-300">
-                    {title}
-                  </h3>
-                </Link>
-                {description && (
-                  <p className="text-foreground/90 text-lg leading-relaxed mb-8 font-medium">
-                    {description}
-                  </p>
-                )}
-                <Link 
-                  href={`/blog/${slug}`} 
-                  className="mt-auto text-lg font-black uppercase tracking-widest flex items-center gap-3 text-accent group-hover:gap-6 bg-accent/10 px-4 py-2 hover:bg-accent hover:text-background transition-all"
-                >
-                  Read Post <span>&rarr;</span>
-                </Link>
-              </article>
-            ))}
-          </div>
-        </section>
-      </main>
+          <Link href="/blog" className="text-sm font-medium text-accent hover:text-accent/80 transition-colors">
+            View all &rarr;
+          </Link>
+        </div>
+
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+          {allPostsData.map(({ slug, title, date, description }) => (
+            <Link key={slug} href={`/blog/${slug}`} className="group flex flex-col rounded-2xl border border-border-subtle bg-surface p-6 shadow-sm transition-all hover:shadow-md hover:border-accent/30 h-full">
+              <time className="text-xs font-medium uppercase tracking-wider text-foreground/50 mb-4 block">
+                {new Date(date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+              </time>
+              <h3 className="font-display text-xl font-semibold tracking-tight text-foreground mb-3 group-hover:text-accent transition-colors line-clamp-3">
+                {title}
+              </h3>
+              {description && (
+                <p className="text-foreground/70 text-sm leading-relaxed mb-6 line-clamp-3">
+                  {description}
+                </p>
+              )}
+              <span className="mt-auto text-sm font-medium text-accent group-hover:text-accent/80 flex items-center gap-1">
+                Read article <span className="group-hover:translate-x-1 transition-transform">&rarr;</span>
+              </span>
+            </Link>
+          ))}
+        </div>
+      </section>
     </div>
   );
 }

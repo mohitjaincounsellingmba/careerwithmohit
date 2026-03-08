@@ -1,20 +1,22 @@
 import type { Metadata } from "next";
-import { Syne, Manrope } from "next/font/google";
+import { Lora, Inter } from "next/font/google";
 import "./globals.css";
+import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
 
-const syne = Syne({
-  variable: "--font-syne",
+const lora = Lora({
+  variable: "--font-lora",
   subsets: ["latin"],
 });
 
-const manrope = Manrope({
-  variable: "--font-manrope",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Web Aesthetics",
-  description: "A bold editorial design blog",
+  title: "Mohit Jain | Career Counselling",
+  description: "Expert career guidance, resume building, and interview preparation.",
 };
 
 export default function RootLayout({
@@ -25,9 +27,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${syne.variable} ${manrope.variable} antialiased`}
+        className={`${lora.variable} ${inter.variable} antialiased min-h-screen flex flex-col`}
       >
-        {children}
+        <Header />
+        <main className="flex-grow">
+          {children}
+        </main>
+        <Footer />
       </body>
     </html>
   );
