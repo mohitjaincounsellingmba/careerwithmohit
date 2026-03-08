@@ -5,17 +5,15 @@ location: "Tughlakabad, Delhi"
 established: 1992
 ownership: "Private"
 ranking: "Best B-School in India for Industry Linkages (CII)"
-fees: "₹11.55 Lakhs"
-avg_placement: "₹9.50 LPA"
+fees: "₹13.75 Lakhs"
+avg_placement: "₹10.50 LPA"
 highest_placement: "₹24.00 LPA"
 exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA", "GMAT"]
 website: "https://www.ndimdelhi.org"
 ---
 
 ### Courses & Fees
-- **PGDM**: Dual Specialization | 2 Years | ₹12.80 Lakhs
-- **PGDM (IEV)**: Innovation & Entrepreneurship | 2 Years | ₹12.00 Lakhs
-- **PGDM**: Marketing or Finance | 2 Years | ₹12.80 Lakhs
+- **PGDM**: General Management | 2 Years | ₹13.75 Lakhs
 
 ### About NDIM Delhi
 New Delhi Institute of Management (NDIM) is a globally recognized management institute, accredited by the NBA and AIU. It has been rated as the "Best B-School in India for Industry Linkages" for three consecutive years by the CII and AICTE. NDIM is known for its excellent placements and strong focus on entrepreneurship.
