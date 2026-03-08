@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Link from "next/link";
 import { GraduationCap, MapPin, Award, IndianRupee, Briefcase } from "lucide-react";
 import { CollegeMetadata } from "@/lib/colleges";
 import { BrochureModal } from "./BrochureModal";
