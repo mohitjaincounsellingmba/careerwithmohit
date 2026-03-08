@@ -5,8 +5,6 @@ location: "Gurgaon, Haryana"
 established: 1993
 ownership: "Private"
 ranking: "#11 (NIRF 2024 - Top Private B-Schools)"
-fees: "₹12.3 - 12.9 Lakhs"
-avg_placement: "₹8.0 - 8.6 LPA"
 fees: "₹12.9 Lakhs"
 avg_placement: "₹8.5 LPA"
 highest_placement: "₹18.0 LPA"

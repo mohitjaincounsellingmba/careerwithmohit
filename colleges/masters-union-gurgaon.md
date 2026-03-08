@@ -5,8 +5,6 @@ location: "Gurgaon, Haryana"
 established: 2020
 ownership: "Private"
 ranking: "Top Innovative B-School in India"
-fees: "₹29.38 - 29.73 Lakhs"
-avg_placement: "₹34.07 LPA"
 fees: "₹28.5 - 32.0 Lakhs"
 avg_placement: "₹33.1 LPA"
 highest_placement: "₹65.0 LPA"
