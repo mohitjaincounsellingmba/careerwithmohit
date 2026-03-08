@@ -53,7 +53,32 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
       <div className="mx-auto max-w-4xl px-6 sm:px-12 mt-16">
         <div className="prose">
-          <ReactMarkdown>{postData.content || ''}</ReactMarkdown>
+          <ReactMarkdown
+            components={{
+              table: ({ node, ...props }) => (
+                <div className="overflow-x-auto my-16 rounded-xl border-8 border-foreground shadow-[16px_16px_0px_0px_rgba(0,0,0,1)]">
+                  <table className="w-full border-collapse bg-white text-left font-body" {...props} />
+                </div>
+              ),
+              thead: ({ node, ...props }) => (
+                <thead className="bg-primary text-white border-b-8 border-foreground uppercase font-black tracking-tight italic" {...props} />
+              ),
+              th: ({ node, ...props }) => (
+                <th className="px-6 py-5 text-xl" {...props} />
+              ),
+              td: ({ node, ...props }) => (
+                <td className="px-6 py-5 border-b-4 border-foreground text-lg font-bold text-foreground" {...props} />
+              ),
+              tr: ({ node, ...props }) => (
+                <tr className="hover:bg-accent/20 transition-colors last:td:border-b-0" {...props} />
+              ),
+              strong: ({ node, ...props }) => (
+                <strong className="font-black text-primary" {...props} />
+              ),
+            }}
+          >
+            {postData.content || ''}
+          </ReactMarkdown>
         </div>
 
         <div className="mt-24 border-4 border-foreground bg-primary p-10 sm:p-14 text-center">
