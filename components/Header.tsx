@@ -61,7 +61,6 @@ export function Header() {
             )}
           </div>
 
-          <Link href="/inquiry" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Inquiry</Link>
         </nav>
         <div className="flex items-center gap-4">
           <SearchInput />
@@ -130,9 +129,6 @@ export function Header() {
               )}
             </div>
 
-            <Link href="/inquiry" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center border-t-2 border-gray-50 pt-4">
-              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Inquiry
-            </Link>
 
             <a 
               href="tel:9560020771" 
