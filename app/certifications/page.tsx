@@ -24,26 +24,6 @@ interface Course {
 
 const CERTIFICATIONS: Course[] = [
   // --- INTERNAL FREE ---
-  {
-    id: 'dm-foundations',
-    title: "Digital Marketing Foundations",
-    provider: "CareerWithMohit",
-    duration: "2 Weeks",
-    type: 'free',
-    topics: ["SEO Basics", "Social Media Strategy", "Content Marketing"],
-    icon: TrendingUp,
-    color: "bg-blue-500"
-  },
-  {
-    id: 'excel-business',
-    title: "Excel for Business",
-    provider: "Data Academy",
-    duration: "1 Week",
-    type: 'free',
-    topics: ["Pivot Tables", "VLOOKUP", "Data Visualization"],
-    icon: BookOpen,
-    color: "bg-emerald-500"
-  },
   // --- LEARNVERN FREE ---
   {
     id: 'lv-python',
@@ -99,48 +79,11 @@ const CERTIFICATIONS: Course[] = [
     icon: BarChart3,
     color: "bg-indigo-600",
     externalLink: "https://www.learnvern.com/course/machine-learning-with-python-tutorial"
-  },
-  // --- INTERNAL PAID ---
-  {
-    id: 'mba-admissions',
-    title: "Mastering MBA Admissions",
-    provider: "CareerWithMohit",
-    price: "₹4,999",
-    duration: "4 Weeks",
-    type: 'paid',
-    description: "End-to-end guidance for Top 50 B-Schools, including GD/PI prep and SOP writing.",
-    features: ["One-on-One Mentoring", "Mock Interviews", "Profile Audit"],
-    icon: GraduationCap,
-    color: "bg-red-500"
-  },
-  {
-    id: 'perf-marketing',
-    title: "Advanced Performance Marketing",
-    provider: "CareerWithMohit",
-    price: "₹7,999",
-    duration: "8 Weeks",
-    type: 'paid',
-    description: "Become a performance marketing expert with hands-on projects and tool mastery.",
-    features: ["Live Campaign Setup", "Google Ads Certification", "Job Assistance"],
-    icon: Zap,
-    color: "bg-amber-500"
-  },
-  {
-    id: 'biz-analytics',
-    title: "Business Analytics Pro",
-    provider: "CareerWithMohit",
-    price: "₹6,499",
-    duration: "6 Weeks",
-    type: 'paid',
-    description: "Learn to drive business decisions using data, Python, and Tableau.",
-    features: ["Real-world Datasets", "Certification", "Lifetime Access"],
-    icon: BarChart3,
-    color: "bg-sky-600"
   }
 ];
 
 export default function CertificationsPage() {
-  const [activeFilter, setActiveFilter] = useState<'all' | 'free' | 'paid'>('all');
+  const [activeFilter, setActiveFilter] = useState<'all' | 'free'>('all');
 
   const filteredCourses = activeFilter === 'all' 
     ? CERTIFICATIONS 
@@ -156,12 +99,12 @@ export default function CertificationsPage() {
             <span className="bg-primary text-white px-4 py-1 -rotate-2 inline-block border-4 border-foreground mt-2">Your Skills</span>
           </h1>
           <p className="max-w-2xl mx-auto text-2xl font-bold text-gray-700 leading-tight mb-8">
-            Filter through our curated list of foundational free courses and premium specialized certifications.
+            Browse through our curated list of high-quality free certification courses.
           </p>
           
           {/* Filter Bar */}
           <div className="flex flex-wrap justify-center gap-4 mt-12">
-            {['all', 'free', 'paid'].map((filter) => (
+            {['all', 'free'].map((filter) => (
               <button
                 key={filter}
                 onClick={() => setActiveFilter(filter as any)}
