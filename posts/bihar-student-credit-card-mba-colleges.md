@@ -2,6 +2,7 @@
 title: "Bihar Student Credit Card (DRCC) MBA Colleges Pan India 2025-26: Complete City-Wise List"
 date: "2026-03-09"
 description: "Complete city-wise list of private MBA colleges accepting the Bihar Student Credit Card (DRCC/BSCC) scheme across Delhi, Noida, Ghaziabad, Greater Noida, Pune, Mumbai, Bangalore, Jaipur, Kolkata, Dehradun and Chandigarh. Get up to ₹4 Lakhs at 1% interest."
+keywords: ["Bihar Student Credit Card", "DRCC MBA colleges", "BSCC scheme", "MBA colleges accepting DRCC", "Bihar education loan", "MBA admission Bihar scholarship"]
 ---
 
 If you are from Bihar and planning to pursue an MBA, the **Bihar Student Credit Card (BSCC)** scheme is a game-changer. Managed through **District Registration & Counselling Centres (DRCC)**, it offers an educational loan up to **₹4 Lakhs at just 1% interest** — with no collateral and no guarantor needed.

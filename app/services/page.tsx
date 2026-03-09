@@ -24,6 +24,7 @@ const SERVICES = [
 export const metadata = {
   title: "Our Services | Expert Career Counselling",
   description: "Explore our range of career counselling services, from MBA admission support to resume building and interview prep.",
+  keywords: ['career counselling services', 'MBA admission support', 'interview preparation', 'resume building', 'scholarship guidance', 'placement support', 'abroad education counselling'],
   alternates: {
     canonical: "/services",
   },

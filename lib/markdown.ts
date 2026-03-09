@@ -9,6 +9,7 @@ export interface PostData {
   title: string;
   date: string;
   description?: string;
+  keywords?: string[];
   content?: string;
 }
 
@@ -40,6 +41,7 @@ export function getSortedPostsData(): PostData[] {
         title: matterResult.data.title,
         date: matterResult.data.date,
         description: matterResult.data.description,
+        keywords: matterResult.data.keywords || [],
       };
     });
 
@@ -60,6 +62,7 @@ export function getPostData(slug: string): PostData | null {
       title: matterResult.data.title,
       date: matterResult.data.date,
       description: matterResult.data.description,
+      keywords: matterResult.data.keywords || [],
       content: matterResult.content,
     };
   } catch (e) {

@@ -13,18 +13,30 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   
   if (!postData) return {};
 
+  const postTitle = postData.title;
+  const postDescription = postData.description || '';
+  const postUrl = `/blog/${slug}`;
+
   return {
-    title: postData.title,
-    description: postData.description,
+    title: postTitle,
+    description: postDescription,
+    keywords: postData.keywords || [],
     openGraph: {
-      title: postData.title,
-      description: postData.description,
+      title: postTitle,
+      description: postDescription,
       type: "article",
       publishedTime: postData.date,
       authors: ["Mohit Jain"],
+      url: postUrl,
+      siteName: "CareerWithMohit",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: postTitle,
+      description: postDescription,
     },
     alternates: {
-      canonical: `/blog/${slug}`,
+      canonical: postUrl,
     },
   };
 }

@@ -4,6 +4,15 @@ import { getSortedPostsData } from '@/lib/markdown';
 export const metadata = {
   title: 'Blog | CareerWithMohit',
   description: 'Read latest career insights, MBA admission updates, and professional growth strategies from expert counsellor Mohit Jain. Uncompromised guidance for students.',
+  keywords: ['MBA blog', 'career counselling blog', 'MBA admission tips', 'PGDM admission guide', 'career guidance articles', 'B-school insights', 'Mohit Jain blog'],
+  alternates: {
+    canonical: '/blog',
+  },
+  openGraph: {
+    title: 'Blog | CareerWithMohit',
+    description: 'Read latest career insights, MBA admission updates, and professional growth strategies.',
+    type: 'website',
+  },
 };
 
 export default function BlogPage() {

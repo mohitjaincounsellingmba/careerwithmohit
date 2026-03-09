@@ -4,6 +4,9 @@ import { getSortedPostsData } from '@/lib/markdown';
 export const metadata = {
   title: 'Search Results | CareerWithMohit',
   description: 'Find specific career advice and admission insights on CareerWithMohit. Search our database of expert articles and guidance by Mohit Jain.',
+  alternates: {
+    canonical: '/search',
+  },
 };
 
 export default async function SearchPage({
