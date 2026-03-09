@@ -143,7 +143,7 @@ export default function Home() {
                   href="/news" 
                   className="inline-flex items-center font-bold text-primary hover:text-foreground transition-colors group-hover:translate-x-1 transition-transform"
                 >
-                  Read More <ArrowRight className="ml-2 h-4 w-4" />
+                  Open <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
               </div>
             ))}

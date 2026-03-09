@@ -50,14 +50,7 @@ export default function NewsPage() {
                 <p className="text-gray-600 text-lg font-medium leading-relaxed max-w-3xl mb-6">
                   {item.excerpt}
                 </p>
-                <div className="mt-auto">
-                  <Link 
-                    href={item.link} 
-                    className="inline-flex items-center text-lg font-bold text-primary hover:text-foreground transition-colors group-hover:translate-x-2 transition-transform duration-200"
-                  >
-                    Read Full Story <ArrowRight className="ml-2 h-5 w-5 stroke-[3px]" />
-                  </Link>
-                </div>
+
               </div>
             </article>
           ))}
