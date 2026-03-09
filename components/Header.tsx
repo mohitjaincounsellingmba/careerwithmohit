@@ -22,10 +22,8 @@ export function Header() {
           <Link href="/about" className="hover:text-primary hover:-translate-y-0.5 transition-transform">About</Link>
           <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Blog</Link>
           <Link href="/colleges" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Colleges</Link>
-          <Link href="/services" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Services</Link>
           <Link href="/certifications" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Certifications</Link>
           <Link href="/internships" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Internships</Link>
-          <Link href="/inquiry" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Inquiry</Link>
         </nav>
         <div className="flex items-center gap-4">
           <SearchInput />
@@ -64,18 +62,14 @@ export function Header() {
             <Link href="/colleges" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Colleges
             </Link>
-            <Link href="/services" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
-              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Services
-            </Link>
+
             <Link href="/certifications" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Certifications
             </Link>
             <Link href="/internships" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Internships
             </Link>
-            <Link href="/inquiry" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
-              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Inquiry
-            </Link>
+
             <a 
               href="tel:9560020771" 
               onClick={() => setIsMobileMenuOpen(false)}
