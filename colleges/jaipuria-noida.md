@@ -5,7 +5,7 @@ location: "Noida, Uttar Pradesh"
 established: 2004
 ownership: "Private"
 ranking: "#45 (NIRF 2024)"
-fees: "₹15.5 Lakhs"
+fees: "₹16.25 Lakhs"
 avg_placement: "₹11.3 LPA"
 highest_placement: "₹27.0 LPA"
 exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA"]
@@ -14,7 +14,7 @@ website: "https://www.jaipuria.ac.in/noida"
 ---
 
 ### Courses & Fees
-- **PGDM**: General Management | 2 Years | ₹15.50 Lakhs
+- **PGDM**: General Management | 2 Years | ₹16.25 Lakhs
 - **PGDM-SM**: Service Management | 2 Years | ₹14.50 Lakhs
 - **PGDM-Mkt**: Marketing Management | 2 Years | ₹14.50 Lakhs
 

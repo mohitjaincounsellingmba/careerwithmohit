@@ -52,7 +52,7 @@ Here are the top 10 institutions where you can secure your management seat direc
     - **Avg. Placement**: ₹10.36 LPA
 - **Jaipuria Institute of Management, Noida**
     - **Preferred Courses**: PGDM
-    - **Total Fees**: ₹11.5 - 12.8 Lakhs
+    - **Total Fees**: ₹16.25 Lakhs
     - **Avg. Placement**: ₹11.29 LPA
 - **IMI, Kolkata**
     - **Preferred Courses**: PGDM
