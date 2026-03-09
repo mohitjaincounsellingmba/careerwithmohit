@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/markdown';
+import { NEWS_ITEMS } from '@/lib/news';
 import { 
   GraduationCap, 
   Cpu, 
@@ -8,7 +9,9 @@ import {
   Target, 
   Handshake, 
   Award,
-  Plane
+  Plane,
+  Bell,
+  ArrowRight
 } from 'lucide-react';
 
 const SERVICES = [
@@ -94,6 +97,56 @@ export default function Home() {
                 </div>
               );
             })}
+          </div>
+        </div>
+      </section>
+
+      {/* NEWS SECTION */}
+      <section id="news" className="bg-white px-6 py-24 sm:px-12 border-t-8 border-foreground">
+        <div className="mx-auto max-w-7xl">
+          <div className="mb-20 flex flex-col sm:flex-row sm:items-end justify-between border-b-8 border-foreground pb-8 gap-6">
+            <div className="max-w-2xl">
+              <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase flex items-center gap-4">
+                <Bell className="h-10 w-10 text-primary" strokeWidth={3} />
+                Admission News
+              </h2>
+              <p className="mt-4 text-xl font-medium text-gray-600">
+                Flash updates on MBA admissions, entrance exams, and college deadlines.
+              </p>
+            </div>
+            <Link href="/news" className="inline-flex h-14 items-center justify-center rounded-md bg-accent px-8 py-3 text-lg font-bold text-foreground transition-all hover:bg-white hover:scale-105 border-4 border-foreground whitespace-nowrap shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+              All News Updates &rarr;
+            </Link>
+          </div>
+
+          <div className="grid gap-8 lg:grid-cols-2">
+            {NEWS_ITEMS.slice(0, 4).map((item) => (
+              <div 
+                key={item.id} 
+                className="group relative overflow-hidden rounded-xl border-4 border-foreground bg-gray-50 p-8 transition-all duration-200 hover:bg-white hover:-translate-y-1 shadow-[6px_6px_0px_0px_rgba(59,130,246,1)]"
+              >
+                <div className="flex items-center gap-3 mb-4">
+                  <span className="bg-primary text-white border-2 border-foreground px-3 py-0.5 text-xs font-bold uppercase tracking-widest">
+                    {item.category}
+                  </span>
+                  <span className="text-gray-400 font-bold text-xs uppercase tracking-widest">
+                    {item.date}
+                  </span>
+                </div>
+                <h3 className="font-display text-2xl font-black tracking-tight text-foreground mb-4 group-hover:text-primary transition-colors leading-tight line-clamp-2">
+                  {item.title}
+                </h3>
+                <p className="text-gray-600 font-medium leading-relaxed mb-6 line-clamp-2">
+                   {item.excerpt}
+                </p>
+                <Link 
+                  href="/news" 
+                  className="inline-flex items-center font-bold text-primary hover:text-foreground transition-colors group-hover:translate-x-1 transition-transform"
+                >
+                  Read More <ArrowRight className="ml-2 h-4 w-4" />
+                </Link>
+              </div>
+            ))}
           </div>
         </div>
       </section>
