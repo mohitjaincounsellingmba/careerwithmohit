@@ -11,7 +11,7 @@ export function Header() {
   const [isMobileLearnOpen, setIsMobileLearnOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b-2 border-gray-200 bg-white">
+    <header className="sticky top-0 z-50 w-full border-b-2 border-gray-200 bg-white" role="banner">
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6 sm:px-12 relative">
         <Link href="/" className="flex items-center gap-3 transition-transform hover:-translate-y-0.5">
           <div className="bg-primary text-white p-2 rounded-md">
@@ -105,6 +105,8 @@ export function Header() {
               <button 
                 onClick={() => setIsMobileLearnOpen(!isMobileLearnOpen)}
                 className="flex items-center justify-between hover:text-primary transition-colors"
+                aria-expanded={isMobileLearnOpen}
+                aria-label="Toggle Learn and Earn Menu"
               >
                 <div className="flex items-center">
                   <span className="w-2 h-2 rounded-full bg-secondary mr-3 inline-block"></span>Learn and Earn

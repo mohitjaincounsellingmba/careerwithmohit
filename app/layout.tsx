@@ -13,18 +13,18 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://careerwithmohit.com"),
+  metadataBase: new URL("https://www.careerwithmohit.online"),
   title: {
     default: "Mohit Jain | Career Counselling & MBA Admissions Expert",
     template: "%s | CareerWithMohit",
   },
   description: "Expert career guidance, MBA admissions consulting, resume building, and interview prep by Mohit Jain. Uncompromised strategies for your professional success.",
-  keywords: ["career counselling", "MBA admissions", "Pune", "Delhi NCR", "resume building", "interview prep"],
+  keywords: ["career counselling", "MBA admissions", "Pune", "Delhi NCR", "resume building", "interview prep", "career roadmap 2025"],
   authors: [{ name: "Mohit Jain" }],
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://careerwithmohit.com",
+    url: "https://www.careerwithmohit.online",
     siteName: "CareerWithMohit",
     title: "Mohit Jain | Career Counselling & MBA Admissions Expert",
     description: "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
@@ -49,6 +49,13 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
 };
 
@@ -57,30 +64,44 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const personData = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Mohit Jain",
+    "url": "https://www.careerwithmohit.online",
+    "image": "https://www.careerwithmohit.online/logo.webp",
+    "jobTitle": "Career Counsellor & MBA Admissions Expert",
+    "description": "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
+    "sameAs": [
+      "https://wa.me/919560020771",
+      // Add other social profiles here
+    ]
+  };
+
   const organizationData = {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "LocalBusiness",
     "name": "CareerWithMohit",
-    "url": "https://careerwithmohit.com",
-    "logo": "https://careerwithmohit.com/logo.webp",
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+91-9560020771",
-      "contactType": "customer service"
+    "url": "https://www.careerwithmohit.online",
+    "logo": "https://www.careerwithmohit.online/logo.webp",
+    "image": "https://www.careerwithmohit.online/og-image.webp",
+    "telephone": "+91-9560020771",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Delhi NCR",
+      "addressCountry": "IN"
     },
-    "sameAs": [
-      // Add social links here
-    ]
+    "priceRange": "$$"
   };
 
   const websiteData = {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "CareerWithMohit",
-    "url": "https://careerwithmohit.com",
+    "url": "https://www.careerwithmohit.online",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://careerwithmohit.com/search?q={search_term_string}",
+      "target": "https://www.careerwithmohit.online/search?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   };
@@ -89,6 +110,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="alternate" type="application/rss+xml" title="CareerWithMohit Blog" href="/feed.xml" />
+        <JsonLd data={personData} />
         <JsonLd data={organizationData} />
         <JsonLd data={websiteData} />
       </head>
@@ -100,7 +122,6 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
-        <InquiryPopup />
         {process.env.NEXT_PUBLIC_GA_ID && (
           <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
         )}

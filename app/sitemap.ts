@@ -4,20 +4,20 @@ import fs from 'fs';
 import path from 'path';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://careerwithmohit.com';
+  const baseUrl = 'https://www.careerwithmohit.online';
 
   // Static routes
   const routes = [
     '',
-    '/services',
     '/news',
     '/blog',
     '/search',
-    '/inquiry',
     '/about',
     '/privacy',
     '/terms',
     '/colleges',
+    '/certifications',
+    '/internships',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
