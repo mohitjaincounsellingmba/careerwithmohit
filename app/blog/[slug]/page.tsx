@@ -5,7 +5,7 @@ import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
 import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
-import { SubscribeForm } from "@/components/SubscribeForm";
+
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
@@ -159,9 +159,6 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             {postData.content || ''}
           </ReactMarkdown>
         </div>
-
-        {/* SUBSCRIBE SECTION */}
-        <SubscribeForm />
 
         {/* RELATED CONTENT - TAXILA STYLE */}
         <div className="mt-20 border-t-4 border-foreground pt-12">
