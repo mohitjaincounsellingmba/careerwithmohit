@@ -4,34 +4,34 @@ import { ArrowRight, Calendar } from 'lucide-react';
 const NEWS_ITEMS = [
   {
     id: 1,
-    title: "Top IITs Announce Minor Changes to JEE Advanced 2026 Eligibility",
-    category: "B.Tech Admission",
-    date: "March 5, 2026",
-    excerpt: "The Joint Admission Board has released updated guidelines for the upcoming JEE Advanced examination, introducing slight modifications to the class 12 performance criteria. Engineering aspirants are advised to review the changes.",
+    title: "XAT 2026: Sectional Timing and Exam Format Changes Announced",
+    category: "MBA Admission 2026",
+    date: "March 9, 2026",
+    excerpt: "XLRI Jamshedpur has introduced revised sectional timings for XAT 2026 to better evaluate candidate aptitude. Aspirants for the 2026-28 batch should adjust their speed-metrics according to the new mock patterns released on the official portal.",
     link: "#"
   },
   {
     id: 2,
-    title: "IIM Ahmedabad Updates CAT 2026 Selection Criteria, Emphasizes Diversity",
-    category: "MBA/PGDM Admission",
-    date: "March 3, 2026",
-    excerpt: "In a move to foster a more diverse cohort, IIMA has revised its weightage for academic diversity and work experience in the upcoming Common Admission Test cycles. Find out how this impacts your preparation.",
+    title: "SPJIMR Mumbai Begins Profile-Based Shortlisting for 2026-28 Batch",
+    category: "MBA Admission 2026",
+    date: "March 7, 2026",
+    excerpt: "SPJIMR has officially kicked off its early interview cycle. Candidates with exceptional academic profiles and consistent professional achievements are receiving early calls, emphasizing the institute's shift towards holistic profiling.",
     link: "#"
   },
   {
     id: 3,
-    title: "New AICTE Guidelines Mandate AI & ML Internships for Computer Science Graduates",
-    category: "B.Tech Admission",
-    date: "February 28, 2026",
-    excerpt: "To bridge the industry-academia gap, the AICTE has announced that all affiliated technical institutions must incorporate mandatory artificial intelligence internships in their curriculum starting this academic year.",
+    title: "SNAP 2025: Tentative Schedule Out for Symbiosis MBA Programs",
+    category: "Entrance Exams",
+    date: "March 5, 2026",
+    excerpt: "The Symbiosis International University has released the tentative timeline for SNAP 2025. Registrations are expected to open in August, with the three-test window scheduled for December. Prepare your strategy for SIBM and SCMHRD.",
     link: "#"
   },
   {
     id: 4,
-    title: "Top Global Business Schools See 15% Surge in Indian Applicants for Online MBAs",
-    category: "MBA/PGDM Admission",
-    date: "February 22, 2026",
-    excerpt: "Recent data shows a significant increase in professionals opting for flexible, globally recognized online MBA programs. We analyze the trend and the top universities driving this change.",
+    title: "CAT 2026: IIM Lucknow Likely to Convene, Focus on Numerical Ability Increases",
+    category: "Entrance Exams",
+    date: "March 2, 2026",
+    excerpt: "Internal sources suggest IIM Lucknow will likely convene CAT 2026. Experts anticipate a balanced paper with a slight increase in the complexity of Data Interpretation and Logical Reasoning (DILR). Early preparation is advised.",
     link: "#"
   }
 ];
