@@ -54,6 +54,45 @@ const WORK_EXPERIENCE = [
   }
 ];
 
+const INTERNSHIPS = [
+  {
+    role: "Portfolio Management",
+    company: "Aditya Birla",
+    icon: Award,
+    color: "bg-blue-500"
+  },
+  {
+    role: "Digital Marketing Internship",
+    company: "Eye Wear Labs",
+    icon: TrendingUp,
+    color: "bg-emerald-500"
+  },
+  {
+    role: "Social Media Marketing",
+    company: "Finladder",
+    icon: Users,
+    color: "bg-purple-500"
+  },
+  {
+    role: "Business Development Management",
+    company: "BOLO",
+    icon: Zap,
+    color: "bg-amber-500"
+  },
+  {
+    role: "Social Media Intern",
+    company: "Mind Rank Venture",
+    icon: Users,
+    color: "bg-rose-500"
+  },
+  {
+    role: "Digital Marketing Intern",
+    company: "Thunderpod",
+    icon: Briefcase,
+    color: "bg-indigo-500"
+  }
+];
+
 export default function AboutPage() {
   return (
     <div className="w-full bg-muted min-h-screen">
