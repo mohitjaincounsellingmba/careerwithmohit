@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server';
+import { Resend } from 'resend';
 
 export async function POST(req: Request) {
   try {
@@ -11,68 +12,55 @@ export async function POST(req: Request) {
       );
     }
 
-    if (method === 'email') {
-      // 1. MAILCHIMP INTEGRATION
-      const MAILCHIMP_API_KEY = process.env.MAILCHIMP_API_KEY;
-      const MAILCHIMP_AUDIENCE_ID = process.env.MAILCHIMP_AUDIENCE_ID;
-      const MAILCHIMP_API_SERVER = process.env.MAILCHIMP_API_SERVER; // e.g., 'us21'
+    const RESEND_API_KEY = process.env.RESEND_API_KEY;
 
-      if (!MAILCHIMP_API_KEY || !MAILCHIMP_AUDIENCE_ID || !MAILCHIMP_API_SERVER) {
-        // If keys aren't set in production yet, we simulate success for demo
-        console.warn('Mailchimp environment variables are missing. Simulating success.');
-        return NextResponse.json({ success: true, message: 'Simulated email subscription' });
-      }
-
-      const url = `https://${MAILCHIMP_API_SERVER}.api.mailchimp.com/3.0/lists/${MAILCHIMP_AUDIENCE_ID}/members`;
-      const data = {
-        email_address: value,
-        status: 'subscribed',
-      };
-
-      const response = await fetch(url, {
-        method: 'POST',
-        headers: {
-          Authorization: `apikey ${MAILCHIMP_API_KEY}`,
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(data),
-      });
-
-      if (!response.ok) {
-        const errorData = await response.json();
-        // Mailchimp returns 400 if user is already subscribed, which isn't a hard failure for us
-        if (errorData.title === 'Member Exists') {
-           return NextResponse.json({ success: true, message: 'Already subscribed' });
-        }
-        throw new Error(errorData.detail || 'Error subscribing to Mailchimp.');
-      }
-
-      return NextResponse.json({ success: true, message: 'Successfully subscribed to Mailchimp' });
-    } else if (method === 'whatsapp') {
-      // 2. ZAPIER INTEGRATION
-      const ZAPIER_WEBHOOK_URL = process.env.ZAPIER_WEBHOOK_URL;
-
-      if (!ZAPIER_WEBHOOK_URL) {
-        console.warn('Zapier Webhook URL is missing. Simulating success.');
-        return NextResponse.json({ success: true, message: 'Simulated WhatsApp subscription' });
-      }
-
-      const response = await fetch(ZAPIER_WEBHOOK_URL, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ phone: value, source: 'Blog Subscribe Form' }),
-      });
-
-      if (!response.ok) {
-        throw new Error('Error sending data to Zapier webhook.');
-      }
-
-      return NextResponse.json({ success: true, message: 'Successfully sent to Zapier' });
+    if (!RESEND_API_KEY) {
+      console.warn('RESEND_API_KEY is missing. Simulating success.');
+      return NextResponse.json({ success: true, message: 'Simulated subscription' });
     }
 
-    return NextResponse.json({ error: 'Invalid method.' }, { status: 400 });
+    const resend = new Resend(RESEND_API_KEY);
+
+    let subject = '';
+    let htmlContent = '';
+
+    if (method === 'email') {
+      subject = 'New Blog Follower (Email)! 🎉';
+      htmlContent = `
+        <h2>You have a new blog follower!</h2>
+        <p>Someone just subscribed to your blog via Email.</p>
+        <p><strong>Email Address:</strong> ${value}</p>
+        <br/>
+        <p><em>Career with Mohit Automated Notification</em></p>
+      `;
+    } else if (method === 'whatsapp') {
+       subject = 'New Blog Follower (WhatsApp)! 📱';
+       htmlContent = `
+        <h2>You have a new blog follower!</h2>
+        <p>Someone just subscribed to your blog via WhatsApp.</p>
+        <p><strong>WhatsApp Number:</strong> ${value}</p>
+        <br/>
+        <p><em>Career with Mohit Automated Notification</em></p>
+      `;
+    } else {
+       return NextResponse.json({ error: 'Invalid method.' }, { status: 400 });
+    }
+
+    // Send the email to the admin
+    const { data, error } = await resend.emails.send({
+      from: 'CareerWithMohit <notifications@resend.dev>', // You can change this if you verify a custom domain on Resend
+      to: ['advik.mohit.jain@gmail.com'],
+      subject: subject,
+      html: htmlContent,
+    });
+
+    if (error) {
+      console.error('Resend Error:', error);
+      throw new Error('Failed to send email notification.');
+    }
+
+    return NextResponse.json({ success: true, message: 'Successfully subscribed' });
+
   } catch (error: any) {
     console.error('Subscription error:', error);
     return NextResponse.json(
@@ -81,3 +69,4 @@ export async function POST(req: Request) {
     );
   }
 }
+
