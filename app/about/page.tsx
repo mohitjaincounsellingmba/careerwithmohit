@@ -23,7 +23,7 @@ const WORK_EXPERIENCE = [
   {
     role: "Career Counsellor & Expert",
     company: "Counselling Domain",
-    period: "6+ Years",
+    period: "6+ Years to Present",
     description: "Successfully guided thousands of students through complex MBA, PGDM, and B.Tech admission processes.",
     icon: Users,
     color: "bg-primary"
