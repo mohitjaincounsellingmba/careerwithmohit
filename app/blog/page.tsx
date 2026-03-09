@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/markdown';
-import { SubscribeForm } from '@/components/SubscribeForm';
 
 export const metadata = {
   title: 'Blog | CareerWithMohit',
@@ -22,11 +21,6 @@ export default function BlogPage() {
               Uncompromised insights, guidance, and the latest updates to help you navigate your academic and professional journey.
             </p>
           </div>
-        </div>
-
-        {/* SUBSCRIBE SECTION TOP */}
-        <div className="mb-16">
-          <SubscribeForm />
         </div>
 
         <div className="grid gap-10 lg:grid-cols-3">
