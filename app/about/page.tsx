@@ -199,6 +199,41 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Internships Section */}
+      <section className="py-24 px-6 sm:px-12 bg-white border-b-8 border-foreground">
+        <div className="mx-auto max-w-7xl">
+           <div className="text-center mb-16">
+             <h2 className="font-display text-3xl font-black uppercase sm:text-5xl mb-6 text-foreground">
+               Early Career <span className="text-accent italic">& Internships</span>
+             </h2>
+             <div className="h-1.5 w-32 bg-foreground mx-auto"></div>
+           </div>
+
+           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+              {INTERNSHIPS.map((intern, idx) => {
+                const Icon = intern.icon;
+                return (
+                  <div key={idx} className="group bg-muted border-4 border-foreground p-8 rounded-xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transition-all hover:translate-x-0.5 hover:translate-y-0.5 hover:shadow-none">
+                    <div className="flex items-center gap-5">
+                      <div className={`w-14 h-14 ${intern.color} border-4 border-foreground rounded-lg flex items-center justify-center -rotate-3 group-hover:rotate-0 transition-transform`}>
+                        <Icon className="text-white w-7 h-7" />
+                      </div>
+                      <div>
+                        <h3 className="text-xl font-black text-foreground uppercase tracking-tight leading-tight">
+                          {intern.role}
+                        </h3>
+                        <p className="text-lg font-bold text-gray-500 italic">
+                          {intern.company}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+           </div>
+        </div>
+      </section>
+
       {/* Certifications Grid */}
       <section className="py-24 px-6 sm:px-12 bg-accent/10">
         <div className="mx-auto max-w-7xl">
