@@ -1,199 +1,234 @@
 ---
-title: "Bihar Student Credit Card (DRCC) for MBA 2025-26: Colleges, Process & Complete Guide"
+title: "Bihar Student Credit Card (DRCC) MBA Colleges Pan India 2025-26: Complete City-Wise List"
 date: "2026-03-09"
-description: "Get an MBA loan up to ₹4 Lakhs under the Bihar Student Credit Card (DRCC) scheme. Full list of eligible MBA colleges pan India, step-by-step application process, documents required, and expert tips."
+description: "Complete city-wise list of private MBA colleges accepting the Bihar Student Credit Card (DRCC/BSCC) scheme across Delhi, Noida, Ghaziabad, Greater Noida, Pune, Mumbai, Bangalore, Jaipur, Kolkata, Dehradun and Chandigarh. Get up to ₹4 Lakhs at 1% interest."
 ---
 
-If you are from Bihar and dreaming of an MBA but worried about fees, the **Bihar Student Credit Card (BSCC) scheme** — managed through **District Registration & Counselling Centres (DRCC)** — can fund your higher education with a loan up to **₹4 Lakhs at just 1% interest**.
+If you are from Bihar and planning to pursue an MBA, the **Bihar Student Credit Card (BSCC)** scheme is a game-changer. Managed through **District Registration & Counselling Centres (DRCC)**, it offers an educational loan up to **₹4 Lakhs at just 1% interest** — with no collateral and no guarantor needed.
 
-In this guide, we cover everything you need to know — eligible colleges across India, the application process, documents required, and expert tips to get your loan approved fast.
-
----
-
-## 🏦 What is the Bihar Student Credit Card (DRCC) Scheme?
-
-The **Bihar Student Credit Card (BSCC)** is a flagship scheme by the **Government of Bihar** under the **7 Nischay — Yuva Shakti Yojana**. It provides educational loans to students from Bihar for higher education, including MBA/PGDM programs.
-
-### Key Highlights:
-- **Loan Amount**: Up to ₹4 Lakhs
-- **Interest Rate**: 1% per annum (0% for women, transgender, and differently-abled students)
-- **Repayment**: Begins 1 year after course completion or 6 months after getting a job (whichever is earlier)
-- **Managed By**: District Registration & Counselling Centres (DRCC)
-- **No Collateral Required**: For loans up to ₹4 Lakhs
-- **No Guarantor Required**: Government of Bihar acts as guarantor
-
-> **Important**: The scheme covers many recognized MBA/PGDM colleges across India, not just Bihar. Students can study anywhere in India under approved institutions.
+In this guide, we provide a **complete city-wise list of private MBA/PGDM colleges** across India where Bihar students have successfully used this scheme.
 
 ---
 
-## ✅ Eligibility Criteria for BSCC (MBA Applicants)
+## 🏦 Bihar Student Credit Card — Key Facts
 
-Before applying, make sure you meet these conditions:
-
-- **Domicile**: Must be a permanent resident of Bihar
-- **Age Limit**: 25 years (for regular courses), 30 years (for technical/professional courses)
-- **Qualification**: 12th pass + Graduation (any stream) for MBA/PGDM
-- **Institution**: Admitted to a recognized college/university
-- **Total Family Income**: No income limit — open to all Bihar residents
-- **Previous Loan**: Should not have availed any other educational loan for the same course
-
----
-
-## 🎓 MBA Colleges Accepting Bihar Student Credit Card (Pan India)
-
-The DRCC/BSCC scheme covers courses at **NAAC-accredited** or **AICTE/UGC-approved** institutions. Below is a comprehensive list of top MBA/PGDM colleges across India where Bihar students have successfully used the scheme:
-
-### 🏛️ Delhi / NCR Region
-
-- **FMS Delhi** (University of Delhi) — MBA | Fees: ~₹3.0 Lakhs | DRCC covers full fees
-- **JIMS Rohini, Delhi** — PGDM | Fees: ~₹10.2 Lakhs | DRCC covers ₹4L portion
-- **JIMS Kalkaji, Delhi** — PGDM | Fees: ~₹9.8 Lakhs | DRCC covers ₹4L portion
-- **FIIB Delhi** — PGDM | Fees: ~₹11.0 Lakhs | DRCC covers ₹4L portion
-- **DSB Delhi** — PGDM | Fees: ~₹11.2 Lakhs | DRCC covers ₹4L portion
-- **Fostiima Business School, Delhi** — PGDM | Fees: ~₹11.5 Lakhs | DRCC covers ₹4L portion
-- **NDIM Delhi** — PGDM | Fees: ~₹13.75 Lakhs | DRCC covers ₹4L portion
-- **MERI Delhi** — MBA | Fees: ~₹6.2 Lakhs | DRCC covers full fees
-- **IMI Delhi** — PGDM | Fees: ~₹23.5 Lakhs | DRCC covers ₹4L portion
-
-### 🏙️ Gurgaon / Noida Region
-
-- **IILM University, Gurgaon** — MBA | Fees: ~₹12.9 Lakhs | DRCC covers ₹4L portion
-- **JKBS Gurgaon** — PGDM | Fees: ~₹9.0 Lakhs | DRCC covers ₹4L portion
-- **IBMR Gurgaon** — MBA | Fees: ~₹8.4 Lakhs | DRCC covers ₹4L portion
-- **GD Goenka University** — MBA | Fees: ~₹10.5 Lakhs | DRCC covers ₹4L portion
-- **IMS Noida** — PGDM | Fees: ~₹9.5 Lakhs | DRCC covers ₹4L portion
-- **GL Bajaj, Greater Noida** — PGDM | Fees: ~₹8.0 Lakhs | DRCC covers full fees
-- **GNIOT, Greater Noida** — PGDM | Fees: ~₹8.5 Lakhs | DRCC covers ₹4L portion
-- **IBI Greater Noida** — PGDM | Fees: ~₹9.5 Lakhs | DRCC covers ₹4L portion
-- **Sharda University** — MBA | Fees: ~₹11.0 Lakhs | DRCC covers ₹4L portion
-- **BIMTECH, Greater Noida** — PGDM | Fees: ~₹18.5 Lakhs | DRCC covers ₹4L portion
-- **Jaipuria Institute, Noida** — PGDM | Fees: ~₹15.5 Lakhs | DRCC covers ₹4L portion
-
-### 🌆 Pune / Mumbai Region
-
-- **PUMBA, Pune** (University of Pune) — MBA | Fees: ~₹1.8 Lakhs | DRCC covers full fees
-- **JBIMS Mumbai** — MMS | Fees: ~₹6.5 Lakhs | DRCC covers full fees
-- **ITM Business School, Mumbai** — PGDM | Fees: ~₹15.5 Lakhs | DRCC covers ₹4L portion
-- **SCMHRD Pune** — MBA | Fees: ~₹26.5 Lakhs | DRCC covers ₹4L portion
-
-### 🌿 Bangalore Region
-
-- **IIM Bangalore** — MBA | Fees: ~₹26.3 Lakhs | DRCC covers ₹4L portion
-- **XIME Bangalore** — PGDM | Fees: ~₹15.7 Lakhs | DRCC covers ₹4L portion
-- **TAPMI Bengaluru** — MBA | Fees: ~₹17.3 Lakhs | DRCC covers ₹4L portion
-- **Christ University** — MBA | Fees: ~₹9.5 Lakhs | DRCC covers ₹4L portion
-- **Welingkar (WeSchool)** — PGDM | Fees: ~₹14.1 Lakhs | DRCC covers ₹4L portion
-- **ISBR Business School** — PGDM | Fees: ~₹10.0 Lakhs | DRCC covers full fees
-- **GIBS Business School** — PGDM | Fees: ~₹9.5 Lakhs | DRCC covers full fees
-- **IBA Bangalore** — PGDM | Fees: ~₹9.5 Lakhs | DRCC covers full fees
-- **AIMS Institutes** — PGDM | Fees: ~₹8.5 Lakhs | DRCC covers ₹4L portion
-
-### 🗺️ Other States
-
-- **UPES, Dehradun** — MBA | Fees: ~₹18.5 Lakhs | DRCC covers ₹4L portion
-- **Doon Business School, Dehradun** — MBA | Fees: ~₹10.5 Lakhs | DRCC covers ₹4L portion
-- **MNIT Jaipur** — MBA | Fees: ~₹3.5 Lakhs | DRCC covers full fees
-- **Jaipuria Institute, Jaipur** — PGDM | Fees: ~₹13.5 Lakhs | DRCC covers ₹4L portion
-- **IMI Kolkata** — PGDM | Fees: ~₹16.5 Lakhs | DRCC covers ₹4L portion
-
-> 💡 **Pro Tip**: Even if your college is not on the list above, any NAAC 'B+' or above / AICTE-approved institution is generally eligible. Check with your DRCC office before applying.
-
----
-
-## 📋 Step-by-Step Process to Apply for BSCC (DRCC) for MBA
-
-### Step 1: Online Registration
-- Visit the official portal: **[7nischay-yuvaupmission.bihar.gov.in](https://www.7nischay-yuvaupmission.bihar.gov.in)**
-- Click on **"Bihar Student Credit Card"**
-- Register using your **Aadhaar-linked mobile number**
-- Fill in personal details, educational details, and chosen course/college
-
-### Step 2: Get Application ID & Appointment
-- After registration, you will receive an **Application ID and appointment date** via SMS
-- This appointment is at your nearest **DRCC (District Registration & Counselling Centre)** office
-
-### Step 3: Visit DRCC Office
-- Visit the DRCC office on your appointment date with all required documents
-- A counsellor will verify your documents, course, and college
-- Your application will be forwarded to the bank partner
-
-### Step 4: Bank Processes Loan
-- The partner bank (SBI, Bank of Bihar, Canara Bank, etc.) processes your loan application
-- No income proof or collateral required for loans up to ₹4 Lakhs
-
-### Step 5: Loan Disbursement
-- The loan amount is directly credited to the college's bank account (not your personal account)
-- You may need to show the **fee receipt** from your college
-
----
-
-## 📁 Documents Required
-
-Keep these documents ready before your DRCC visit:
-
-| Document | Details |
+| Feature | Details |
 |---|---|
-| Aadhaar Card | Student + Parents |
-| Bihar Domicile / Residential Proof | Voter ID / Ration Card / Electricity Bill |
-| 10th Marksheet & Certificate | Board-issued |
-| 12th Marksheet & Certificate | Board-issued |
-| Graduation Marksheets | All semesters |
-| Admission Letter | From the MBA college |
-| Fee Payment Receipt / Fee Structure | From college |
-| Bank Account Details | Student's savings account |
-| Passport Size Photos | 4 recent photos |
-| PAN Card | Student |
-| Caste Certificate | If applicable (SC/ST/OBC) |
+| **Loan Amount** | Up to ₹4 Lakhs |
+| **Interest Rate** | 1% p.a. (0% for women, PwD, transgender) |
+| **Collateral** | Not Required |
+| **Guarantor** | Not Required (Govt. of Bihar acts as guarantor) |
+| **Repayment Starts** | 1 year after course OR 6 months after job |
+| **Apply At** | DRCC office in your home district |
+| **Official Portal** | [7nishchay-yuvaupmission.bihar.gov.in](https://www.7nishchay-yuvaupmission.bihar.gov.in) |
 
 ---
 
-## 💰 How Much Will DRCC Actually Cover?
+## ✅ Eligibility
 
-The BSCC scheme provides a **maximum of ₹4 Lakhs**. Here's how it works in practice:
-
-- **Low-fee colleges** (FMS, PUMBA, GL Bajaj): DRCC can cover the **entire fee**
-- **Mid-range colleges** (JIMS, FIIB, Jaipuria): DRCC covers **₹4L**, you pay the rest through part-time work, family support, or other scholarships
-- **Premium colleges** (MDI, IMI, SIBM): DRCC covers ₹4L; you'll need an additional bank loan or part-scholarship
-
-> **Smart Strategy**: Combine DRCC ₹4L + a private education loan from SBI/HDFC/Credila for the remaining amount. Many students do this successfully.
+- Permanent resident of Bihar (domicile/ration card/voter ID)
+- Age: up to 25 years (30 for PG courses)
+- Graduation completed from any stream
+- Admitted to a UGC/AICTE-approved institution
+- No existing education loan for the same course
 
 ---
 
-## ❓ Frequently Asked Questions (FAQs)
+## 🗺️ City-Wise List of Private MBA Colleges Accepting BSCC
 
-**Q: Can I apply for BSCC if I am already admitted to a college?**
-A: Yes! You can apply even after taking admission. Apply as soon as possible.
+### 🏛️ Delhi
 
-**Q: What if my college is in another state?**
-A: The scheme covers colleges across India, not just Bihar. Your college must be AICTE/UGC recognized.
-
-**Q: How long does the process take?**
-A: Typically **15 to 30 working days** from application to disbursement.
-
-**Q: Can I get DRCC loan for PGDM (not MBA)?**
-A: Yes, AICTE-approved PGDM programs are eligible under the scheme.
-
-**Q: What happens if I don't get a job after MBA?**
-A: Repayment begins 1 year after course completion. If you are genuinely unemployed, you can apply for a moratorium period.
-
-**Q: Is there a CIBIL score requirement?**
-A: No CIBIL check is done for this scheme since the Government of Bihar is the guarantor.
+| Institute | Location |
+|---|---|
+| FIIB — Fortune Institute of International Business | Vasant Kunj |
+| JIMS Rohini | Rohini |
+| JIMS Kalkaji | South Delhi |
+| Fostiima Business School | Dwarka |
+| NDIM — New Delhi Institute of Management | Tughlakabad |
+| DSB — Delhi School of Business | Dwarka |
+| MERI — Management Education & Research Institute | Janakpuri |
+| IMI Delhi | Qutab Institutional Area |
+| Pearl Academy | Naraina |
 
 ---
 
-## 🎯 Expert Tips from Mohit Jain
+### 🏗️ Ghaziabad
 
-Having counselled 500+ Bihar students through the DRCC process, here are our top tips:
-
-1. **Apply EARLY**: DRCC offices get crowded near admission deadlines. Apply in May-June itself.
-2. **Confirm college eligibility**: Call your DRCC office or check the official list before deciding on a college.
-3. **Keep documents in order**: Incomplete documents are the #1 reason for delays.
-4. **Combine with scholarships**: Many colleges give Bihar state scholarships on top of DRCC.
-5. **Choose a high-ROI college**: With a ₹4L cap, pick colleges where the average placement salary covers repayment easily.
+| Institute | Location |
+|---|---|
+| IMT Ghaziabad | NH-58, Ghaziabad |
+| Jaipuria School of Business | Ghaziabad |
+| IMS Ghaziabad | Ghaziabad |
+| ITS — Institute of Technology & Science | Mohan Nagar |
+| AKGIM — Ajay Kumar Garg Institute of Mgmt | Ghaziabad |
+| RKGIT — Raj Kumar Goel Institute of Technology | Ghaziabad |
+| SRM Institute of Science & Technology | Ghaziabad |
 
 ---
 
-**Need help applying for the Bihar Student Credit Card for MBA?**
-We have helped hundreds of Bihar students successfully secure the DRCC loan and get admitted to top MBA colleges across India.
+### 🏢 Noida
+
+| Institute | Location |
+|---|---|
+| IMS Noida — Institute of Management Studies | Sector 62, Noida |
+| Amity Business School | Sector 125, Noida |
+| Shiv Nadar University | Noida |
+| Jaipuria Institute of Management | Noida |
+
+---
+
+### 🌆 Greater Noida
+
+| Institute | Location |
+|---|---|
+| BIMTECH — Birla Institute of Management Technology | Knowledge Park II |
+| Sharda University | Knowledge Park III |
+| Bennett University | Greater Noida |
+| GNIOT — Greater Noida Institute of Technology | Knowledge Park II |
+| Mangalmay Institute of Management & Technology | Greater Noida |
+| NIET Business School | Greater Noida |
+| Noida International University (NIU) | Greater Noida |
+| IBI — International Business Institute | Greater Noida |
+| GL Bajaj Institute of Management | Greater Noida |
+
+---
+
+### 🌿 Pune
+
+| Institute | Location |
+|---|---|
+| SCMHRD — Symbiosis Centre for Mgmt & HRD | Lavale, Pune |
+| SIBM Pune — Symbiosis Institute of Business Mgmt | Lavale, Pune |
+| PUMBA — Dept. of Management Sciences | University of Pune |
+| ASM's IBMR Pune | Chinchwad, Pune |
+| Dr. D.Y. Patil Vidyapeeth | Pimpri, Pune |
+| ITM Business School | Pune |
+| Indira College of Engineering & Management | Pune |
+
+---
+
+### 🌊 Mumbai
+
+| Institute | Location |
+|---|---|
+| SPJIMR — S.P. Jain Institute of Mgmt & Research | Andheri West |
+| JBIMS — Jamnalal Bajaj Institute | Churchgate, Mumbai |
+| K.J. Somaiya Institute of Management | Vidyavihar, Mumbai |
+| NMIMS — Narsee Monjee Institute | Vile Parle, Mumbai |
+| ITM Business School | Navi Mumbai |
+
+---
+
+### 🌺 Bangalore
+
+| Institute | Location |
+|---|---|
+| IIM Bangalore | Bannerghatta Road |
+| SIBM Bangalore | Bengaluru |
+| XIME Bangalore | Electronics City |
+| TAPMI Bengaluru | Bengaluru |
+| Christ University (MBA) | Hosur Road |
+| Welingkar (WeSchool) Bangalore | Bengaluru |
+| ISBR Business School | Bengaluru |
+| IBA — Indus Business Academy | Greater Bengaluru |
+| GIBS Business School | Bengaluru |
+| Alliance University | Bengaluru |
+| Acharya Bangalore B-School (ABBS) | Bengaluru |
+| JAGSoM (IFIM Business School) | Bengaluru |
+
+---
+
+### 🏰 Jaipur
+
+| Institute | Location |
+|---|---|
+| Jaipuria Institute of Management | Jaipur |
+| Vivekanand Global University | Jaipur |
+| Jagannath University | Jaipur |
+| Suresh Gyan Vihar University | Jaipur |
+| Poornima University | Jaipur |
+| Jaipur National University | Jaipur |
+| Manipal University Jaipur | Jaipur |
+| MNIT Jaipur (Dept. of Mgmt Studies) | Jaipur |
+
+---
+
+### 🌁 Kolkata
+
+| Institute | Location |
+|---|---|
+| IMI Kolkata | Kolkata |
+| Techno India University | Kolkata |
+| BBIT — Budge Budge Institute of Technology | Kolkata |
+| JIS College of Engineering | Kalyani, Kolkata |
+| SVIMCS — Swami Vivekananda Inst. of Mgmt | Kolkata |
+
+---
+
+### 🏔️ Dehradun
+
+| Institute | Location |
+|---|---|
+| UPES — University of Petroleum & Energy Studies | Dehradun |
+| Doon Business School | Dehradun |
+| Tulas Institute | Dehradun |
+| Graphic Era University | Dehradun |
+| Dev Bhoomi Uttarakhand University | Dehradun |
+| Shivalik College of Engineering | Dehradun |
+
+---
+
+### 🌸 Chandigarh
+
+| Institute | Location |
+|---|---|
+| Chandigarh University | Mohali |
+| Punjab University Business School (PUBS) | Sector 14, Chandigarh |
+| Chitkara University | Rajpura, near Chandigarh |
+| UICET — Punjab University | Chandigarh |
+| GGDSD College | Sector 32, Chandigarh |
+
+---
+
+## 📋 How to Apply for DRCC Bihar Student Credit Card
+
+### Step 1 — Online Registration
+- Visit: [7nishchay-yuvaupmission.bihar.gov.in](https://www.7nishchay-yuvaupmission.bihar.gov.in)
+- Click **Bihar Student Credit Card → Apply**
+- Register using your Aadhaar-linked mobile number
+
+### Step 2 — Get Appointment
+- You will receive an SMS with your **Application ID and DRCC appointment date**
+
+### Step 3 — Visit DRCC with Documents
+- Aadhaar Card (student + parents)
+- Bihar Domicile / Residential Proof
+- 10th, 12th, Graduation Marksheets
+- College Admission Letter & Fee Structure
+- Passport Photos, PAN Card, Bank Passbook
+
+### Step 4 — Bank Processes Loan
+- Partner banks (SBI, Bank of Bihar, Canara Bank) process without CIBIL check
+
+### Step 5 — Disbursement
+- Loan credited directly to the college's account
+- You pay the remaining fees separately
+
+---
+
+## 💡 Smart Tips
+
+- **Apply early**: DRCC offices get crowded near July–August
+- **Confirm college eligibility** at DRCC before finalizing admission
+- **Combine loans**: DRCC ₹4L + SBI/HDFC private loan for balance
+- **Low-fee colleges** like PUMBA, FMS, GNIOT = DRCC covers 100% of fees
+- **Women get 0% interest** — a key advantage
+
+> ⚠️ **Disclaimer**: The college list above is compiled from multiple education platforms and community sources. Always verify directly with your DRCC office before admission, as the approved list is updated by the Bihar government periodically.
+
+---
+
+**Need help choosing the right college and applying for your Bihar Student Credit Card?**
+We have helped 500+ Bihar students successfully secure their DRCC loan and get into top MBA colleges.
 
 [👉 Get Free Counselling](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
