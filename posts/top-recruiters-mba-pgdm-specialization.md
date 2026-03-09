@@ -282,23 +282,6 @@ In this guide, we break down the **top recruiters, average packages, and key ski
 
 ---
 
-## 📌 Quick Summary
-
-| Specialization | Avg. Package | Best Sector |
-|---|---|---|
-| Finance | ₹10–28 LPA | IB / BFSI / Consulting |
-| HR | ₹7–18 LPA | IT / FMCG / Consulting |
-| IT Management | ₹10–25 LPA | Tech / Product / Consulting |
-| Marketing | ₹8–22 LPA | FMCG / E-Commerce / Auto |
-| Digital Marketing | ₹7–18 LPA | Startups / Agencies / E-Com |
-| Operations & SCM | ₹9–22 LPA | Manufacturing / Logistics |
-| Business Analytics | ₹12–30 LPA | Consulting / Tech / BFSI |
-| Data Analytics | ₹14–35 LPA | Tech / Analytics Firms |
-| Healthcare Mgmt | ₹8–18 LPA | Hospitals / Health Tech |
-| Pharma Management | ₹8–20 LPA | Pharma / Biotech / CRO |
-| International Business | ₹10–28 LPA | Trade / MNCs / BFSI |
-
----
 
 > **Still confused about which specialization suits you best?**
 > Your academic background, work experience, and career goals all play a role in this decision.
