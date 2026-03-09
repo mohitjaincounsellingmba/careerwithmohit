@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/markdown';
+import { SubscribeForm } from '@/components/SubscribeForm';
 
 export const metadata = {
   title: 'Blog | CareerWithMohit',
@@ -15,12 +16,17 @@ export default function BlogPage() {
         <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
           <div className="max-w-2xl">
             <h1 className="font-display text-5xl font-extrabold tracking-tighter text-foreground sm:text-7xl uppercase">
-              Our <span className="text-primary text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary hidden">Blog</span><span className="bg-primary text-white px-2 py-1 inline-block -rotate-2 border-4 border-foreground">Blog</span>
+              Our <span className="bg-primary text-white px-2 py-1 inline-block -rotate-2 border-4 border-foreground">Blog</span>
             </h1>
             <p className="mt-6 text-2xl font-medium text-gray-600 leading-relaxed">
               Uncompromised insights, guidance, and the latest updates to help you navigate your academic and professional journey.
             </p>
           </div>
+        </div>
+
+        {/* SUBSCRIBE SECTION TOP */}
+        <div className="mb-16">
+          <SubscribeForm />
         </div>
 
         <div className="grid gap-10 lg:grid-cols-3">
