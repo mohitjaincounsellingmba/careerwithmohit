@@ -93,6 +93,19 @@ const CERTIFICATIONS: Course[] = [
     icon: BarChart3,
     color: "bg-rose-600",
     externalLink: "https://www.elearnmarkets.com/courses/display/stock-investing-made-easy?aff_code=ELMAFF2497&utm_source=ELMAFF2497&utm_medium=affiliate"
+  },
+  {
+    id: 'advanced-excel-paid',
+    title: "Advanced Excel Tutorial",
+    provider: "Elearn Markets",
+    price: "Premium",
+    duration: "Self-Paced",
+    type: 'paid',
+    description: "Go beyond the basics and master complex Excel functions, data analysis, and automation.",
+    features: ["Advanced Formulas", "Data Cleaning", "Macros & Pivot Tables"],
+    icon: BookOpen,
+    color: "bg-emerald-600",
+    externalLink: "https://www.elearnmarkets.com/courses/display/advanced-excel-tutorial?aff_code=ELMAFF2497&utm_source=ELMAFF2497&utm_medium=affiliate"
   }
 ];
 
