@@ -5,7 +5,7 @@ location: "Gurgaon, Haryana"
 established: 1999
 ownership: "Private"
 ranking: "A+ Grade B-School"
-fees: "₹8.4 Lakhs"
+fees: "₹6.60 - ₹8.50 Lakhs"
 avg_placement: "₹7.5 LPA"
 highest_placement: "₹16.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
@@ -16,9 +16,9 @@ website: "https://ibmrbschool.com"
 IBMR Business School is one of the oldest and most respected management institutions in Gurgaon. It offers value-added management programs with a focus on practical exposure and employability. The institute is known for its "Industry Aligned" curriculum and strong corporate networking.
 
 ### Courses & Fees
-- **MBA**: Industrial Integrated | 2 Years | ₹8.40 Lakhs
-- **PGDM**: General | 2 Years | ₹8.40 Lakhs
-- **BBA**: General Management | 3 Years | ₹2.80 Lakhs
+- **MBA**: Industrial Integrated | 2 Years | ₹6.60 Lakhs
+- **PGDM**: General | 2 Years | ₹8.50 Lakhs
+- **BBA**: General Management | 3 Years | ₹3.35 Lakhs
 
 ### Specializations
 - **MBA + PGPM**: Dual program offering traditional MBA with specialized certification.
