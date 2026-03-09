@@ -79,11 +79,25 @@ const CERTIFICATIONS: Course[] = [
     icon: BarChart3,
     color: "bg-indigo-600",
     externalLink: "https://www.learnvern.com/course/machine-learning-with-python-tutorial"
+  },
+  // --- EXTERNAL PAID ---
+  {
+    id: 'stock-investing',
+    title: "Stock Investing Made Easy",
+    provider: "Elearn Markets",
+    price: "Premium",
+    duration: "Self-Paced",
+    type: 'paid',
+    description: "Master the art of stock market investing with this comprehensive beginner-to-pro guide.",
+    features: ["Fundamental Analysis", "Technical Basics", "Portfolio Management"],
+    icon: BarChart3,
+    color: "bg-rose-600",
+    externalLink: "https://www.elearnmarkets.com/courses/display/stock-investing-made-easy?aff_code=ELMAFF2497&utm_source=ELMAFF2497&utm_medium=affiliate"
   }
 ];
 
 export default function CertificationsPage() {
-  const [activeFilter, setActiveFilter] = useState<'all' | 'free'>('all');
+  const [activeFilter, setActiveFilter] = useState<'all' | 'free' | 'paid'>('all');
 
   const filteredCourses = activeFilter === 'all' 
     ? CERTIFICATIONS 
@@ -104,7 +118,7 @@ export default function CertificationsPage() {
           
           {/* Filter Bar */}
           <div className="flex flex-wrap justify-center gap-4 mt-12">
-            {['all', 'free'].map((filter) => (
+            {['all', 'free', 'paid'].map((filter) => (
               <button
                 key={filter}
                 onClick={() => setActiveFilter(filter as any)}
