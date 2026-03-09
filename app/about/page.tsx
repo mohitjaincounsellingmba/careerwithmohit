@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { Award, BookOpen, CheckCircle2, Star, Zap } from 'lucide-react';
+import { Award, BookOpen, CheckCircle2, Star, Zap, Briefcase, History, TrendingUp, Users } from 'lucide-react';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -17,6 +17,41 @@ const CERTIFICATIONS = [
   { title: "Six Sigma Yellow Belt", organization: "Certified Professional", icon: CheckCircle2, color: "bg-emerald-500" },
   { title: "Six Sigma White Belt", organization: "Certified Professional", icon: CheckCircle2, color: "bg-emerald-400" },
   { title: "Advanced Excel", organization: "Data Expert", icon: BookOpen, color: "bg-purple-500" },
+];
+
+const WORK_EXPERIENCE = [
+  {
+    role: "Career Counsellor & Expert",
+    company: "Counselling Domain",
+    period: "6+ Years",
+    description: "Successfully guided thousands of students through complex MBA, PGDM, and B.Tech admission processes.",
+    icon: Users,
+    color: "bg-primary"
+  },
+  {
+    role: "Digital Marketing Expert",
+    company: "Freelance & Agency",
+    period: "2018 - Present",
+    description: "Deep expertise in performance marketing, trend analysis, and digital growth strategies for education brands.",
+    icon: TrendingUp,
+    color: "bg-accent"
+  },
+  {
+    role: "Operations Analyst",
+    company: "Accenture (Client: Amazon)",
+    period: "Previous",
+    description: "Managed complex operational workflows and data metrics for global e-commerce giant Amazon.",
+    icon: Briefcase,
+    color: "bg-blue-600"
+  },
+  {
+    role: "Business Development Manager",
+    company: "Doubtnut",
+    period: "Previous",
+    description: "Drove sales and strategic growth initiatives for one of India's leading EdTech platforms.",
+    icon: History,
+    color: "bg-amber-500"
+  }
 ];
 
 export default function AboutPage() {
@@ -82,6 +117,45 @@ export default function AboutPage() {
                    <p className="font-bold text-gray-700">Six Sigma certified professional focusing on optimizing your application and interview performance.</p>
                 </div>
              </div>
+           </div>
+        </div>
+      </section>
+      
+      {/* Professional Experience */}
+      <section className="py-24 px-6 sm:px-12 bg-muted border-b-8 border-foreground">
+        <div className="mx-auto max-w-7xl">
+           <div className="text-center mb-20">
+             <h2 className="font-display text-4xl font-black uppercase sm:text-6xl mb-6">
+               Professional <span className="text-primary italic">Journey</span>
+             </h2>
+             <div className="h-2 w-48 bg-foreground mx-auto"></div>
+           </div>
+
+           <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+              {WORK_EXPERIENCE.map((exp, idx) => {
+                const Icon = exp.icon;
+                return (
+                  <div key={idx} className="bg-white border-4 border-foreground p-8 sm:p-12 relative shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-1 hover:translate-y-1 transition-all">
+                    <div className={`absolute -top-6 -right-6 w-16 h-16 ${exp.color} border-4 border-foreground flex items-center justify-center rotate-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]`}>
+                       <Icon className="text-white w-8 h-8" />
+                    </div>
+                    <div className="mb-6">
+                       <span className="bg-foreground text-white px-3 py-1 font-bold text-sm tracking-widest uppercase mb-4 inline-block">
+                         {exp.period}
+                       </span>
+                       <h3 className="text-3xl font-black text-foreground uppercase tracking-tight leading-none mb-2">
+                         {exp.role}
+                       </h3>
+                       <p className="text-xl font-bold text-primary italic">
+                         {exp.company}
+                       </p>
+                    </div>
+                    <p className="text-gray-600 text-lg font-medium leading-relaxed">
+                      {exp.description}
+                    </p>
+                  </div>
+                );
+              })}
            </div>
         </div>
       </section>
