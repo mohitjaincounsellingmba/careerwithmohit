@@ -164,7 +164,7 @@ export default function Home() {
           </div>
 
           <div className="grid gap-10 lg:grid-cols-3">
-            {allPostsData.map(({ slug, title, date, description }) => (
+            {allPostsData.slice(0, 3).map(({ slug, title, date, description }) => (
               <Link 
                 key={slug} 
                 href={`/blog/${slug}`} 
