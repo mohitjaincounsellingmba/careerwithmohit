@@ -8,25 +8,42 @@ export function SubscribeForm() {
   const [value, setValue] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
+  const [errorObj, setErrorObj] = useState<string | null>(null);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!value) return;
 
     setIsSubmitting(true);
+    setErrorObj(null);
     
-    // Simulate API call for subscription
-    // In production, this would send data to Mailchimp, ConvertKit, Zapier, or a custom API
-    await new Promise((resolve) => setTimeout(resolve, 800));
-    
-    setIsSubmitting(false);
-    setIsSuccess(true);
-    setValue('');
+    try {
+      const res = await fetch('/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ method, value }),
+      });
 
-    // Reset success message after 5 seconds
-    setTimeout(() => {
-      setIsSuccess(false);
-    }, 5000);
+      const data = await res.json();
+
+      if (!res.ok) {
+        throw new Error(data.error || 'Failed to subscribe');
+      }
+
+      setIsSuccess(true);
+      setValue('');
+
+      // Reset success message after 5 seconds
+      setTimeout(() => {
+        setIsSuccess(false);
+      }, 5000);
+      
+    } catch (err: any) {
+      console.error(err);
+      setErrorObj(err.message || 'Something went wrong. Please try again.');
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   return (
