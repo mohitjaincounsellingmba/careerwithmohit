@@ -59,6 +59,9 @@ export default function Home() {
             <Link href="#services" className="w-full sm:w-auto rounded-md bg-transparent px-8 py-4 text-xl font-bold text-white transition-all hover:bg-white hover:text-primary border-4 border-white text-center">
               View Our Services
             </Link>
+            <Link href="/inquiry" className="w-full sm:w-auto rounded-md bg-accent px-8 py-4 text-xl font-black text-foreground transition-all hover:scale-105 hover:bg-white border-4 border-foreground text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+              Inquiry
+            </Link>
           </div>
         </div>
       </section>

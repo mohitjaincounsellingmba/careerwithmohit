@@ -18,6 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/colleges',
     '/certifications',
     '/internships',
+    '/inquiry',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),

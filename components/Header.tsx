@@ -24,6 +24,7 @@ export function Header() {
           <Link href="/about" className="hover:text-primary hover:-translate-y-0.5 transition-transform">About</Link>
           <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Blog</Link>
           <Link href="/colleges" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Colleges</Link>
+          <Link href="/inquiry" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Inquiry</Link>
           
           {/* LEARN AND EARN DROPDOWN */}
           <div 
@@ -98,6 +99,9 @@ export function Header() {
             </Link>
             <Link href="/colleges" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Colleges
+            </Link>
+            <Link href="/inquiry" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
+              <span className="w-2 h-2 rounded-full bg-accent mr-3 inline-block"></span>Inquiry
             </Link>
 
             {/* MOBILE LEARN AND EARN */}
