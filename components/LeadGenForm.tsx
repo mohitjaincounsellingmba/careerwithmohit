@@ -24,7 +24,8 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
 
         // Save to Leads API
         try {
-            await fetch('/api/leads', {
+            console.log('Client: Sending lead to /api/leads from LeadGenForm');
+            const response = await fetch('/api/leads', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -35,8 +36,9 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
                     source: `Resource Download: ${resourceName}`
                 }),
             });
+            console.log('Client: API response status:', response.status);
         } catch (e) {
-            console.error('Failed to save lead to API');
+            console.error('Client: Failed to save lead to API', e);
         }
 
         // Generate WhatsApp message

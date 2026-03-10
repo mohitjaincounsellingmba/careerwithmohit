@@ -102,6 +102,20 @@ export default function AdminLeadsPage() {
 
                     <div className="flex gap-4">
                         <button
+                            onClick={async () => {
+                                const res = await fetch('/api/leads', {
+                                    method: 'POST',
+                                    headers: { 'Content-Type': 'application/json' },
+                                    body: JSON.stringify({ name: 'System Test', number: '0000', source: 'Admin Debug' })
+                                });
+                                alert(`Test Lead Status: ${res.status}`);
+                                fetchLeads(true);
+                            }}
+                            className="bg-yellow-400 text-black border-4 border-foreground px-4 py-4 font-black uppercase text-xs hover:bg-black hover:text-white transition-all shadow-[4px_4px_0_0_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none"
+                        >
+                            Test API
+                        </button>
+                        <button
                             onClick={() => fetchLeads(true)}
                             className="bg-white text-foreground border-4 border-foreground px-6 py-4 font-black uppercase text-sm hover:bg-slate-100 transition-all flex items-center justify-center gap-3 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none"
                         >

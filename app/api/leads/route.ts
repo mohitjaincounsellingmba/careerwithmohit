@@ -16,10 +16,13 @@ export async function GET() {
 
 export async function POST(req: Request) {
     try {
+        console.log('API: POST request received at /api/leads');
         const lead = await req.json();
+        console.log('API: Lead data:', lead);
         const { name, number, email, location, source, ...details } = lead;
 
         if (!name || !number) {
+            console.log('API: Validation failed - name or number missing');
             return NextResponse.json({ error: 'Name and number are required' }, { status: 400 });
         }
 
