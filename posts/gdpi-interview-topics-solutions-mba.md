@@ -49,6 +49,23 @@ GDs are designed to test your ability to think on your feet and work in a team. 
 
 ---
 
+## 🔥 Top 10 Trending GD Topics for 2025
+
+Beyond the detailed analysis above, here are 10 trending topics that are frequently appearing in B-school GDs this year:
+
+1.  **Digital Rupee (CBDC):** Will it replace physical cash or UPI?
+2.  **Electric Vehicles (EVs) in India:** Infrastructure challenges vs. Environmental benefits.
+3.  **The Impact of Social Media Influencers** on consumer behavior and youth.
+4.  **Moonlighting:** Is it ethical for employees to have a second job?
+5.  **G20 Presidency:** How it solidified India’s position as a 'Vishwaguru'.
+6.  **Privatization of Public Sector Banks:** Efficiency vs. Social Responsibility.
+7.  **Nuclear Energy:** The only solution for a Greener Global Economy?
+8.  **Cryptocurrency:** Should it be regulated or banned in India?
+9.  **Startup Bubble:** Are high valuations sustainable without profitability?
+10. **Universal Basic Income (UBI):** Is India ready for a social safety net?
+
+---
+
 ## 🎤 Personal Interview (PI) Winning Solutions
 
 In a PI, the interviewer looks for clarity of thought, honesty, and alignment with the program/company goals.
