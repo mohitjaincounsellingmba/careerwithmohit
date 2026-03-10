@@ -6,7 +6,7 @@ import {
     Download, Table as TableIcon, Users,
     Filter, Calendar, Search, Trash2,
     ChevronLeft, ChevronRight, CheckCircle2,
-    RefreshCw
+    RefreshCw, Lock
 } from "lucide-react";
 
 interface Lead {
