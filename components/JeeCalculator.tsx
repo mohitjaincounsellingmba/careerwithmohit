@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, Beaker, Atom, FunctionSquare } from "lucide-react";
+import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, Beaker, Atom, FunctionSquare, HelpCircle } from "lucide-react";
 
 type Subject = "Physics" | "Chemistry" | "Mathematics";
 
