@@ -5,7 +5,8 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import {
     Download, Table as TableIcon, Users,
     Filter, Calendar, Search, Trash2,
-    ChevronLeft, ChevronRight, CheckCircle2
+    ChevronLeft, ChevronRight, CheckCircle2,
+    RefreshCw
 } from "lucide-react";
 
 interface Lead {
@@ -27,7 +28,8 @@ export default function AdminLeadsPage() {
         fetchLeads();
     }, []);
 
-    const fetchLeads = async () => {
+    const fetchLeads = async (isManual = false) => {
+        if (isManual) setLoading(true);
         try {
             const res = await fetch("/api/leads");
             const data = await res.json();
@@ -90,14 +92,23 @@ export default function AdminLeadsPage() {
                         </h1>
                     </div>
 
-                    <button
-                        onClick={downloadCSV}
-                        disabled={leads.length === 0}
-                        className="bg-green-500 text-white border-4 border-foreground px-8 py-4 font-black uppercase text-sm hover:bg-black transition-all flex items-center justify-center gap-3 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none disabled:opacity-50"
-                    >
-                        <Download className="w-5 h-5" />
-                        Export to CSV / Excel
-                    </button>
+                    <div className="flex gap-4">
+                        <button
+                            onClick={() => fetchLeads(true)}
+                            className="bg-white text-foreground border-4 border-foreground px-6 py-4 font-black uppercase text-sm hover:bg-slate-100 transition-all flex items-center justify-center gap-3 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none"
+                        >
+                            <RefreshCw className={`w-5 h-5 ${loading ? 'animate-spin' : ''}`} />
+                            Refresh
+                        </button>
+                        <button
+                            onClick={downloadCSV}
+                            disabled={leads.length === 0}
+                            className="bg-green-500 text-white border-4 border-foreground px-8 py-4 font-black uppercase text-sm hover:bg-black transition-all flex items-center justify-center gap-3 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none disabled:opacity-50"
+                        >
+                            <Download className="w-5 h-5" />
+                            Export to CSV / Excel
+                        </button>
+                    </div>
                 </div>
 
                 {/* Stats Grid */}
@@ -174,8 +185,8 @@ export default function AdminLeadsPage() {
                                             <td className="p-4 font-bold text-sm uppercase">{lead.location}</td>
                                             <td className="p-4">
                                                 <span className={`px-3 py-1 text-[10px] font-black uppercase border-2 ${lead.source.includes('JEE') ? 'bg-blue-50 border-blue-200 text-blue-600' :
-                                                        lead.source.includes('CAT') ? 'bg-orange-50 border-orange-200 text-orange-600' :
-                                                            'bg-slate-100 border-slate-200 text-slate-600'
+                                                    lead.source.includes('CAT') ? 'bg-orange-50 border-orange-200 text-orange-600' :
+                                                        'bg-slate-100 border-slate-200 text-slate-600'
                                                     }`}>
                                                     {lead.source}
                                                 </span>
