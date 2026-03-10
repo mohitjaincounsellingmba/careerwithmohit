@@ -37,15 +37,15 @@ In this guide, we provide a **complete city-wise list of private MBA/PGDM colleg
 
 ### 🏛️ Delhi
 
-- **FIIB** — Fortune Institute of International Business, Vasant Kunj
-- **JIMS Rohini** — Jagan Institute of Management Studies, Rohini
-- **JIMS Kalkaji** — Jagan International Management School, South Delhi
-- **Fostiima Business School** — Dwarka, Delhi
-- **NDIM** — New Delhi Institute of Management, Tughlakabad
-- **DSB** — Delhi School of Business, Dwarka
-- **MERI** — Management Education & Research Institute, Janakpuri
-- **IMI Delhi** — International Management Institute, Qutab Institutional Area
-- **Pearl Academy** — Naraina, Delhi
+- **[FIIB](/colleges/fiib-delhi)** — Fortune Institute of International Business, Vasant Kunj
+- **[JIMS Rohini](/colleges/jims-rohini)** — Jagan Institute of Management Studies, Rohini
+- **[JIMS Kalkaji](/colleges/jims-kalkaji)** — Jagan International Management School, South Delhi
+- **[Fostiima Business School](/colleges/fostiima-delhi)** — Dwarka, Delhi
+- **[NDIM](/colleges/ndim-delhi)** — New Delhi Institute of Management, Tughlakabad
+- **[DSB](/colleges/dsb-delhi)** — Delhi School of Business, Dwarka
+- **[MERI](/colleges/meri-delhi)** — Management Education & Research Institute, Janakpuri
+- **[IMI Delhi](/colleges/imi-delhi)** — International Management Institute, Qutab Institutional Area
+- **[Pearl Academy](/colleges/pearl-academy-delhi)** — Naraina, Delhi
 
 ---
 
@@ -53,7 +53,7 @@ In this guide, we provide a **complete city-wise list of private MBA/PGDM colleg
 
 - **IMT Ghaziabad** — Institute of Management Technology, NH-58
 - **Jaipuria School of Business** — Ghaziabad
-- **IMS Ghaziabad** — Institute of Management Studies, Ghaziabad
+- **[IMS Ghaziabad](/colleges/ims-noida)** — Institute of Management Studies, Ghaziabad
 - **ITS** — Institute of Technology & Science, Mohan Nagar
 - **AKGIM** — Ajay Kumar Garg Institute of Management, Ghaziabad
 - **RKGIT** — Raj Kumar Goel Institute of Technology, Ghaziabad
@@ -63,32 +63,32 @@ In this guide, we provide a **complete city-wise list of private MBA/PGDM colleg
 
 ### 🏢 Noida
 
-- **IMS Noida** — Institute of Management Studies, Sector 62
-- **Amity Business School** — Sector 125, Noida
+- **[IMS Noida](/colleges/ims-noida)** — Institute of Management Studies, Sector 62
+- **[Amity Business School](/colleges/sharda-greater-noida)** — Sector 125, Noida
 - **Shiv Nadar University** — Noida
-- **Jaipuria Institute of Management** — Noida
+- **[Jaipuria Institute of Management](/colleges/jaipuria-noida)** — Noida
 
 ---
 
 ### 🌆 Greater Noida
 
-- **BIMTECH** — Birla Institute of Management Technology, Knowledge Park II
-- **Sharda University** — Knowledge Park III, Greater Noida
-- **Bennett University** — Greater Noida
-- **GNIOT** — Greater Noida Institute of Technology, Knowledge Park II
+- **[BIMTECH](/colleges/bimtech-greater-noida)** — Birla Institute of Management Technology, Knowledge Park II
+- **[Sharda University](/colleges/sharda-greater-noida)** — Knowledge Park III, Greater Noida
+- **[Bennett University](/colleges/bennett-greater-noida)** — Greater Noida
+- **[GNIOT](/colleges/gniot-greater-noida)** — Greater Noida Institute of Technology, Knowledge Park II
 - **Mangalmay Institute of Management & Technology** — Greater Noida
 - **NIET Business School** — Greater Noida
 - **Noida International University (NIU)** — Greater Noida
-- **IBI** — International Business Institute, Greater Noida
-- **GL Bajaj Institute of Management** — Greater Noida
+- **[IBI](/colleges/ibi-greater-noida)** — International Business Institute, Greater Noida
+- **[GL Bajaj Institute of Management](/colleges/gl-bajaj-greater-noida)** — Greater Noida
 
 ---
 
 ### 🌿 Pune
 
-- **SCMHRD** — Symbiosis Centre for Management & HRD, Lavale
-- **SIBM Pune** — Symbiosis Institute of Business Management, Lavale
-- **PUMBA** — Dept. of Management Sciences, University of Pune
+- **[SCMHRD](/colleges/scmhrd-pune)** — Symbiosis Centre for Management & HRD, Lavale
+- **[SIBM Pune](/colleges/sibm-pune)** — Symbiosis Institute of Business Management, Lavale
+- **[PUMBA](/colleges/pumba-pune)** — Dept. of Management Sciences, University of Pune
 - **ASM's IBMR Pune** — Chinchwad, Pune
 - **Dr. D.Y. Patil Vidyapeeth** — Pimpri, Pune
 - **ITM Business School** — Pune
@@ -98,47 +98,47 @@ In this guide, we provide a **complete city-wise list of private MBA/PGDM colleg
 
 ### 🌊 Mumbai
 
-- **SPJIMR** — S.P. Jain Institute of Management & Research, Andheri West
-- **JBIMS** — Jamnalal Bajaj Institute of Management Studies, Churchgate
+- **[SPJIMR](/colleges/spjimr-mumbai)** — S.P. Jain Institute of Management & Research, Andheri West
+- **[JBIMS](/colleges/jbims-mumbai)** — Jamnalal Bajaj Institute of Management Studies, Churchgate
 - **K.J. Somaiya Institute of Management** — Vidyavihar
-- **NMIMS** — Narsee Monjee Institute of Management Studies, Vile Parle
-- **ITM Business School** — Navi Mumbai
+- **[NMIMS](/colleges/nmims-bangalore)** — Narsee Monjee Institute of Management Studies, Vile Parle
+- **[ITM Business School](/colleges/itm-mumbai)** — Navi Mumbai
 
 ---
 
 ### 🌺 Bangalore
 
-- **IIM Bangalore** — Indian Institute of Management, Bannerghatta Road
-- **SIBM Bangalore** — Symbiosis Institute of Business Management, Bengaluru
-- **XIME Bangalore** — Xavier Institute of Management & Entrepreneurship, Electronics City
-- **TAPMI Bengaluru** — T.A. Pai Management Institute, Bengaluru
-- **Christ University (MBA)** — Hosur Road, Bengaluru
-- **Welingkar (WeSchool) Bangalore** — Bengaluru
-- **ISBR Business School** — Bengaluru
-- **IBA** — Indus Business Academy, Greater Bengaluru
-- **GIBS Business School** — Bengaluru
-- **Alliance University** — Bengaluru
+- **[IIM Bangalore](/colleges/iim-bangalore)** — Indian Institute of Management, Bannerghatta Road
+- **[SIBM Bangalore](/colleges/sibm-bangalore)** — Symbiosis Institute of Business Management, Bengaluru
+- **[XIME Bangalore](/colleges/xime-bangalore)** — Xavier Institute of Management & Entrepreneurship, Electronics City
+- **[TAPMI Bengaluru](/colleges/tapmi-bangalore)** — T.A. Pai Management Institute, Bengaluru
+- **[Christ University (MBA)](/colleges/christ-university-bangalore)** — Hosur Road, Bengaluru
+- **[Welingkar (WeSchool) Bangalore](/colleges/welingkar-bangalore)** — Bengaluru
+- **[ISBR Business School](/colleges/isbr-bangalore)** — Bengaluru
+- **[IBA](/colleges/iba-bangalore)** — Indus Business Academy, Greater Bengaluru
+- **[GIBS Business School](/colleges/gibs-bangalore)** — Bengaluru
+- **[Alliance University](/colleges/alliance-university-bangalore)** — Bengaluru
 - **Acharya Bangalore B-School (ABBS)** — Bengaluru
-- **JAGSoM (IFIM Business School)** — Bengaluru
+- **[JAGSoM (IFIM Business School)](/colleges/jagsom-bangalore)** — Bengaluru
 
 ---
 
 ### 🏰 Jaipur
 
-- **Jaipuria Institute of Management** — Jaipur
+- **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** — Jaipur
 - **Vivekanand Global University** — Jaipur
 - **Jagannath University** — Jaipur
 - **Suresh Gyan Vihar University** — Jaipur
 - **Poornima University** — Jaipur
 - **Jaipur National University** — Jaipur
 - **Manipal University Jaipur** — Jaipur
-- **MNIT Jaipur** — Dept. of Management Studies, Jaipur
+- **[MNIT Jaipur](/colleges/mnit-jaipur)** — Dept. of Management Studies, Jaipur
 
 ---
 
 ### 🌁 Kolkata
 
-- **IMI Kolkata** — International Management Institute, Kolkata
+- **[IMI Kolkata](/colleges/imi-kolkata)** — International Management Institute, Kolkata
 - **Techno India University** — Kolkata
 - **BBIT** — Budge Budge Institute of Technology, Kolkata
 - **JIS College of Engineering** — Kalyani, near Kolkata
@@ -148,8 +148,8 @@ In this guide, we provide a **complete city-wise list of private MBA/PGDM colleg
 
 ### 🏔️ Dehradun
 
-- **UPES** — University of Petroleum & Energy Studies, Dehradun
-- **Doon Business School** — Dehradun
+- **[UPES](/colleges/upes-dehradun)** — University of Petroleum & Energy Studies, Dehradun
+- **[Doon Business School](/colleges/doon-business-school)** — Dehradun
 - **Tulas Institute** — Dehradun
 - **Graphic Era University** — Dehradun
 - **Dev Bhoomi Uttarakhand University** — Dehradun

@@ -23,46 +23,46 @@ In this guide, we reveal the top 10 colleges where you can secure a seat directl
 
 Here are the top 10 institutions where you can secure your management seat directly:
 
-- **BIMTECH**, Greater Noida
-- **JAGSoM**, Bangalore
-- **XIME**, Bangalore/Kochi
-- **Jaipuria Institute of Management**, Noida
-- **IMI**, Kolkata
-- **ITM Business School**, Mumbai/Bangalore
-- **IBA**, Bangalore
-- **Amity Business School**, Noida
-- **UPES**, Dehradun
-- **GIBS**, Bangalore
+- **[BIMTECH](/colleges/bimtech-greater-noida)**, Greater Noida
+- **[JAGSoM](/colleges/jagsom-bangalore)**, Bangalore
+- **[XIME](/colleges/xime-bangalore)**, Bangalore/Kochi
+- **[Jaipuria Institute of Management](/colleges/jaipuria-noida)**, Noida
+- **[IMI](/colleges/imi-kolkata)**, Kolkata
+- **[ITM Business School](/colleges/itm-mumbai)**, Mumbai/Bangalore
+- **[IBA](/colleges/iba-bangalore)**, Bangalore
+- **[Amity Business School](/colleges/sharda-greater-noida)**, Noida
+- **[UPES](/colleges/upes-dehradun)**, Dehradun
+- **[GIBS](/colleges/gibs-bangalore)**, Bangalore
 
 ---
 
 ### Detailed Comparison: Fees & Placements
 
-- **BIMTECH, Greater Noida**
+- **[BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)**
     - **Preferred Courses**: PGDM / PGDM-IB
     - **Total Fees**: ₹18.5 - 19.5 Lakhs
     - **Avg. Placement**: ₹11.20 LPA
-- **JAGSoM, Bangalore**
+- **[JAGSoM, Bangalore](/colleges/jagsom-bangalore)**
     - **Preferred Courses**: PGDM (Specialized)
     - **Total Fees**: ₹14.0 - 15.6 Lakhs
     - **Avg. Placement**: ₹10.30 LPA
-- **XIME, Bangalore/Kochi**
+- **[XIME, Bangalore/Kochi](/colleges/xime-bangalore)**
     - **Preferred Courses**: PGDM
     - **Total Fees**: ₹12.5 - 13.5 Lakhs
     - **Avg. Placement**: ₹10.36 LPA
-- **Jaipuria Institute of Management, Noida**
+- **[Jaipuria Institute of Management, Noida](/colleges/jaipuria-noida)**
     - **Preferred Courses**: PGDM
     - **Total Fees**: ₹16.25 Lakhs
     - **Avg. Placement**: ₹11.29 LPA
-- **IMI, Kolkata**
+- **[IMI, Kolkata](/colleges/imi-kolkata)**
     - **Preferred Courses**: PGDM
     - **Total Fees**: ₹9.8 - 11.5 Lakhs
     - **Avg. Placement**: ₹10.67 LPA
-- **ITM Business School, Mumbai/Bangalore**
+- **[ITM Business School, Mumbai/Bangalore](/colleges/itm-mumbai)**
     - **Preferred Courses**: PGDM iConnect
     - **Total Fees**: ₹10.5 - 11.8 Lakhs
     - **Avg. Placement**: ₹8.65 LPA
-- **IBA, Bangalore**
+- **[IBA, Bangalore](/colleges/iba-bangalore)**
     - **Preferred Courses**: PGDM
     - **Total Fees**: ₹9.5 - 10.3 Lakhs
     - **Avg. Placement**: ₹7.96 LPA
@@ -70,11 +70,11 @@ Here are the top 10 institutions where you can secure your management seat direc
     - **Preferred Courses**: MBA
     - **Total Fees**: ₹12.0 - 15.0 Lakhs
     - **Avg. Placement**: ₹8.00 LPA
-- **UPES, Dehradun**
+- **[UPES, Dehradun](/colleges/upes-dehradun)**
     - **Preferred Courses**: MBA (Oil & Gas/Digital)
     - **Total Fees**: ₹14.0 - 16.5 Lakhs
     - **Avg. Placement**: ₹9.00 LPA
-- **GIBS, Bangalore**
+- **[GIBS, Bangalore](/colleges/gibs-bangalore)**
     - **Preferred Courses**: PGDM
     - **Total Fees**: ₹8.5 - 9.5 Lakhs
     - **Avg. Placement**: ₹7.40 LPA

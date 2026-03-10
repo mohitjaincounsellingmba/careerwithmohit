@@ -42,3 +42,8 @@ BIMTECH has a stellar placement record with 100% placement for the 2022-24 batch
 2. **Shortlisting**: Based on entrance scores and academic profile.
 3. **Selection**: Personal Interview (PI) and group discussions.
 4. **Final Offer**: Based on composite score.
+
+### Related Articles
+- [Direct MBA Admission in India 2025](/posts/direct-mba-admission-india)
+- [Bihar Student Credit Card (DRCC) MBA Colleges](/posts/bihar-student-credit-card-mba-colleges)
+
