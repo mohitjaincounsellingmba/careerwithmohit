@@ -36,7 +36,7 @@ export function InquiryForm() {
 
     // Save to Leads API
     try {
-      await fetch('/api/leads', {
+      const response = await fetch('/api/leads', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -50,8 +50,16 @@ export function InquiryForm() {
           course: formData.course
         }),
       });
-    } catch (e) {
-      console.error('Failed to save lead to API');
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.error || 'Failed to save lead');
+      }
+    } catch (e: any) {
+      console.error('Lead Capture Error:', e);
+      // We don't want to block the user from WhatsApp, but we want to know it failed
+      // Temporarily alert during debugging
+      alert(`Debug: Lead capture failed but WhatsApp will still open. Error: ${e.message}`);
     }
 
     // Generate WhatsApp message

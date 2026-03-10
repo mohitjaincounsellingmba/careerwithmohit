@@ -29,38 +29,43 @@ export async function POST(req: Request) {
         }
 
         const newLead = {
-            id: Date.now().toString(),
+            id: Math.random().toString(36).substr(2, 9),
             name,
             number,
-            email: email || 'N/A',
-            location: location || 'N/A',
+            email: email || '',
+            location: location || '',
             source: source || 'Unknown',
-            timestamp: new Date().toISOString(),
-            details: details || {}
+            details: details || {},
+            timestamp: new Date().toISOString()
         };
+
+        const dataDir = path.dirname(LEADS_FILE);
+        console.log(`Leads API: Attempting to write to ${LEADS_FILE}`);
 
         let leads = [];
         try {
-            // Ensure data directory exists
-            const dataDir = path.dirname(LEADS_FILE);
-            try {
-                await fs.access(dataDir);
-            } catch {
-                await fs.mkdir(dataDir, { recursive: true });
-            }
-
+            await fs.mkdir(dataDir, { recursive: true });
             const data = await fs.readFile(LEADS_FILE, 'utf-8');
             leads = JSON.parse(data);
         } catch (e) {
-            // File might not exist yet
+            console.log(`Leads API: Initializing new leads file at ${LEADS_FILE}`);
         }
 
         leads.push(newLead);
         await fs.writeFile(LEADS_FILE, JSON.stringify(leads, null, 2));
+        console.log(`Leads API: Successfully saved lead ${newLead.id}`);
 
-        return NextResponse.json({ success: true, lead: newLead });
+        return NextResponse.json({
+            success: true,
+            lead: newLead,
+            debugPath: LEADS_FILE
+        });
     } catch (error: any) {
-        console.error('Lead storage error:', error);
-        return NextResponse.json({ error: 'Failed to save lead' }, { status: 500 });
+        console.error('Leads API Error:', error);
+        return NextResponse.json({
+            error: 'Failed to save lead',
+            details: error.message,
+            path: LEADS_FILE
+        }, { status: 500 });
     }
 }

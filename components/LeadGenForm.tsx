@@ -24,7 +24,7 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
 
         // Save to Leads API
         try {
-            await fetch('/api/leads', {
+            const response = await fetch('/api/leads', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -35,8 +35,14 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
                     source: `Resource Download: ${resourceName}`
                 }),
             });
-        } catch (e) {
-            console.error('Failed to save lead to API');
+
+            if (!response.ok) {
+                const errorData = await response.json();
+                throw new Error(errorData.error || 'Failed to save lead');
+            }
+        } catch (e: any) {
+            console.error('Lead Capture Error:', e);
+            alert(`Debug: Lead capture failed but download will still start. Error: ${e.message}`);
         }
 
         // Generate WhatsApp message

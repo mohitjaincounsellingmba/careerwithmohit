@@ -105,7 +105,7 @@ export function JeeCalculator() {
 
         // Save to Leads API
         try {
-            await fetch('/api/leads', {
+            const response = await fetch('/api/leads', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -121,8 +121,14 @@ export function JeeCalculator() {
                     maths: stats.subjectScores.Mathematics
                 }),
             });
-        } catch (e) {
-            console.error('Failed to save lead to API');
+
+            if (!response.ok) {
+                const errorData = await response.json();
+                throw new Error(errorData.error || 'Failed to save lead');
+            }
+        } catch (e: any) {
+            console.error('Lead Capture Error:', e);
+            alert(`Debug: Lead capture failed but WhatsApp will still open. Error: ${e.message}`);
         }
 
         window.open(`https://wa.me/919560020771?text=${message}`, '_blank');
