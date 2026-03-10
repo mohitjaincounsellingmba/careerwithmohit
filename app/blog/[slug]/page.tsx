@@ -5,22 +5,23 @@ import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
 import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
 
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const postData = getPostData(slug);
-  
+
   if (!postData) return {};
 
-  const postTitle = postData.title;
-  const postDescription = postData.description || '';
+  const postTitle = `${postData.title} | Updated Guide 2026`;
+  const postDescription = postData.description || `Expert guide on ${postData.title}. Detailed insights, solutions, and admission strategy by Mohit Jain.`;
   const postUrl = `/blog/${slug}`;
 
   return {
     title: postTitle,
     description: postDescription,
-    keywords: postData.keywords || [],
+    keywords: [...(postData.keywords || []), "MBA Admissions 2026", "Career Counselling India"],
     openGraph: {
       title: postTitle,
       description: postDescription,
@@ -81,21 +82,25 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   return (
     <article className="w-full bg-slate-50 pb-24 font-body">
       <JsonLd data={articleData} />
-      
+
       {/* HEADER SECTION - ULTRA PREMIUM */}
       <div className="bg-white border-b-[12px] border-foreground pt-20 pb-20 px-6 sm:px-12 relative overflow-hidden">
         {/* Decorative elements */}
         <div className="absolute top-0 right-0 w-64 h-64 bg-primary/5 rounded-full -mr-20 -mt-20" />
         <div className="absolute bottom-0 left-0 w-40 h-40 bg-accent/10 rotate-12 -ml-10 -mb-10" />
-        
+
         <div className="mx-auto max-w-4xl relative z-10">
+          <div className="mb-8">
+            <Breadcrumbs />
+          </div>
+
           <Link href="/blog" className="mb-12 inline-flex items-center gap-3 text-lg font-black text-foreground group transition-all">
             <div className="h-10 w-10 flex items-center justify-center border-4 border-foreground group-hover:bg-primary group-hover:text-white transition-colors uppercase">
               <ArrowLeft className="h-6 w-6 stroke-[3.5px]" />
             </div>
             Back to Articles
           </Link>
-          
+
           <header>
             <div className="mb-10 flex flex-wrap items-center gap-6">
               <div className="bg-foreground text-white px-5 py-2 text-sm font-black uppercase tracking-widest -rotate-1 border-4 border-foreground">
@@ -105,11 +110,11 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 Expert Analysis
               </div>
             </div>
-            
+
             <h1 className="font-display text-5xl font-black tracking-tight text-foreground sm:text-7xl md:text-8xl mb-12 leading-[0.95] uppercase">
               {postData.title}
             </h1>
-            
+
             {postData.description && (
               <p className="text-2xl md:text-3xl font-bold text-gray-700 leading-tight max-w-3xl border-l-[12px] border-primary pl-8 py-2">
                 {postData.description}
@@ -140,12 +145,12 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               ),
               blockquote: ({ node, children, ...props }) => (
                 <blockquote className="my-16 bg-blue-50 border-l-[12px] border-primary p-12 relative overflow-hidden not-italic" {...props}>
-                   <div className="absolute top-0 right-0 p-4 opacity-10">
-                      <Compass className="w-32 h-32 text-primary" />
-                   </div>
-                   <div className="relative z-10 text-2xl font-black text-primary leading-tight">
-                     {children}
-                   </div>
+                  <div className="absolute top-0 right-0 p-4 opacity-10">
+                    <Compass className="w-32 h-32 text-primary" />
+                  </div>
+                  <div className="relative z-10 text-2xl font-black text-primary leading-tight">
+                    {children}
+                  </div>
                 </blockquote>
               ),
               table: ({ node, ...props }) => (
@@ -176,15 +181,15 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
         {/* RELATED CONTENT - TAXILA STYLE */}
         <div className="mt-20 border-t-4 border-foreground pt-12">
-            <h4 className="text-2xl font-black uppercase mb-8">Also Check Out:</h4>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              {getSortedPostsData().filter(p => p.slug !== slug).slice(0, 2).map(other => (
-                <Link key={other.slug} href={`/blog/${other.slug}`} className="group p-8 border-4 border-foreground bg-white hover:bg-accent transition-all shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col justify-between">
-                  <h5 className="text-xl font-black uppercase leading-tight group-hover:underline">{other.title}</h5>
-                  <span className="mt-6 text-sm font-black uppercase text-primary">Read Article →</span>
-                </Link>
-              ))}
-            </div>
+          <h4 className="text-2xl font-black uppercase mb-8">Also Check Out:</h4>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {getSortedPostsData().filter(p => p.slug !== slug).slice(0, 2).map(other => (
+              <Link key={other.slug} href={`/blog/${other.slug}`} className="group p-8 border-4 border-foreground bg-white hover:bg-accent transition-all shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col justify-between">
+                <h5 className="text-xl font-black uppercase leading-tight group-hover:underline">{other.title}</h5>
+                <span className="mt-6 text-sm font-black uppercase text-primary">Read Article →</span>
+              </Link>
+            ))}
+          </div>
         </div>
 
         {/* CTA SECTION - BOLD & ACTION-ORIENTED */}

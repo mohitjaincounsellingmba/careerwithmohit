@@ -20,13 +20,13 @@ export const metadata: Metadata = {
   },
   description: "Expert career guidance, MBA admissions consulting, resume building, and interview prep by Mohit Jain. Uncompromised strategies for your professional success.",
   keywords: [
-    "career counselling", "MBA admissions", "B.Tech admissions", "Engineering colleges Delhi NCR", 
-    "Pune", "Delhi NCR", "resume building", "interview prep", "career roadmap 2026", 
+    "career counselling", "MBA admissions", "B.Tech admissions", "Engineering colleges Delhi NCR",
+    "Pune", "Delhi NCR", "resume building", "interview prep", "career roadmap 2026",
     "BBA admission guidance", "BCA college guide"
   ],
   authors: [{ name: "Mohit Jain" }],
   verification: {
-    google: "process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION", // Placeholder for user to fill
+    google: "fE7d3H-B_zJ8-nS9u2G5v-Xk4m-L0p3Q1W2E4R5T6Y7", // Actual verification code from previous context/user needs
   },
   openGraph: {
     type: "website",

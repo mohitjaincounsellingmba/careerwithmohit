@@ -13,13 +13,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   if (!college) return {};
 
-  const title = `${college.name} | Fees, Placement & Admission 2026`;
-  const description = `Get detailed information about ${college.name}, ${college.location}. Explore fee structure, NIRF ranking ${college.ranking}, and average placement of ${college.avg_placement}. Apply now!`;
+  const title = `${college.name}, ${college.location} - Courses, Fees, Admission 2026, Placements, Ranking, Cutoff`;
+  const description = `Discover ${college.name}, ${college.location}. Detailed information on fee structure (approx ${college.fees}), NIRF ranking ${college.ranking}, and average placement package of ${college.avg_placement}. Apply now for 2026 admissions!`;
 
   return {
     title,
     description,
-    keywords: [college.name, college.location, `${college.name} fees`, `${college.name} placement`, ...college.exams],
+    keywords: [college.name, college.location, `${college.name} fees`, `${college.name} placement`, `${college.name} admission 2026`, ...college.exams],
     alternates: {
       canonical: `/colleges/${slug}`,
     },

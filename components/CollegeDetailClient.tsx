@@ -2,13 +2,13 @@
 
 import { useState, useMemo } from "react";
 import ReactMarkdown from "react-markdown";
-import { 
-  MapPin, 
-  Calendar, 
-  Award, 
-  IndianRupee, 
-  Briefcase, 
-  Download, 
+import {
+  MapPin,
+  Calendar,
+  Award,
+  IndianRupee,
+  Briefcase,
+  Download,
   ExternalLink,
   GraduationCap,
   Sparkles,
@@ -18,6 +18,7 @@ import {
 import Link from "next/link";
 import { College } from "@/lib/colleges";
 import { JsonLd } from "./JsonLd";
+import { Breadcrumbs } from "./Breadcrumbs";
 
 export function CollegeDetailClient({ college }: { college: College }) {
   const [activeTab, setActiveTab] = useState("Overview");
@@ -26,21 +27,23 @@ export function CollegeDetailClient({ college }: { college: College }) {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
     "name": college.name,
-    "description": `${college.name} located in ${college.location}. Fees: ${college.fees}, Average Placement: ${college.avg_placement}.`,
+    "description": `Detailed profile of ${college.name} located in ${college.location}. Fee structure: ${college.fees}, Average Placement package: ${college.avg_placement}, Established in ${college.established}.`,
     "url": `https://www.careerwithmohit.online/colleges/${college.slug}`,
     "logo": "https://www.careerwithmohit.online/logo.webp",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": college.location,
+      "addressRegion": "Maharashtra", // This could be made dynamic if added to college data
       "addressCountry": "IN"
     },
+    "foundingDate": college.established.toString(),
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
-      "name": "Courses Offered",
+      "name": "Courses Offered at " + college.name,
       "itemListElement": college.courses.map(course => ({
         "@type": "Course",
         "name": course,
-        "description": `${course} at ${college.name}`,
+        "description": `${course} program at ${college.name}, ${college.location}`,
         "provider": {
           "@type": "EducationalOrganization",
           "name": college.name
@@ -50,9 +53,9 @@ export function CollegeDetailClient({ college }: { college: College }) {
   };
 
   const tabs = [
-    "Overview", 
-    "Courses & Fees", 
-    "Placements", 
+    "Overview",
+    "Courses & Fees",
+    "Placements",
     "Admissions"
   ];
 
@@ -61,12 +64,12 @@ export function CollegeDetailClient({ college }: { college: College }) {
     if (activeTab === "Overview") return college.content;
 
     const sections = college.content.split('###');
-    
+
     if (activeTab === "Courses & Fees") {
       const section = sections.find(s => s.toLowerCase().includes('courses'));
       return section ? `### ${section}` : "Information coming soon...";
     }
-    
+
     if (activeTab === "Placements") {
       const section = sections.find(s => s.toLowerCase().includes('placements'));
       return section ? `### ${section}` : "Information coming soon...";
@@ -83,12 +86,19 @@ export function CollegeDetailClient({ college }: { college: College }) {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
       <JsonLd data={collegeSchema} />
-      {/* Premium Hero Header */}
-      <div className="bg-white border-b border-slate-200 pt-12 pb-0">
+      {/* Breadcrumbs for SEO and Navigation */}
+      <div className="bg-white pt-6">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col md:flex-row gap-8 items-start md:items-center pb-8">
+          <Breadcrumbs />
+        </div>
+      </div>
+
+      {/* Premium Hero Header */}
+      <div className="bg-white border-b border-slate-200">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex flex-col md:flex-row gap-8 items-start md:items-center pb-8 pt-6">
             <div className="w-24 h-24 sm:w-32 bg-white rounded-2xl shadow-md border border-slate-100 flex items-center justify-center p-4 flex-shrink-0">
-               <GraduationCap className="w-full h-full text-blue-600" aria-label={`${college.name} Logo`} />
+              <GraduationCap className="w-full h-full text-blue-600" aria-label={`${college.name} Logo`} />
             </div>
 
             <div className="flex-grow">
@@ -102,7 +112,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
                 </span>
               </div>
               <h1 className="text-3xl sm:text-4xl font-black text-slate-900 mb-2 leading-tight">
-                {college.name}
+                {college.name}, {college.location}
               </h1>
               <div className="flex flex-wrap items-center gap-6 text-slate-600 font-medium">
                 <span className="flex items-center">
@@ -129,7 +139,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
           {/* Functional Tabs */}
           <div className="flex overflow-x-auto gap-8 mt-4 no-scrollbar border-b border-slate-100">
             {tabs.map((tab) => (
-              <button 
+              <button
                 key={tab}
                 onClick={() => setActiveTab(tab)}
                 className={`pb-4 px-1 text-sm font-bold whitespace-nowrap transition-all border-b-2 relative ${activeTab === tab ? "text-blue-600 border-blue-600" : "text-slate-500 border-transparent hover:text-slate-900"}`}
@@ -146,10 +156,10 @@ export function CollegeDetailClient({ college }: { college: College }) {
 
       {/* Main Content Area */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 flex flex-col lg:flex-row gap-8">
-        
+
         {/* Left Column */}
         <div className="flex-grow space-y-8 lg:max-w-[calc(100%-400px)]">
-          
+
           {/* Stats Grid - Always visible on Overview, or contextually on tabs */}
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
             <div className={`bg-white p-6 rounded-2xl border transition-all ${activeTab === 'Courses & Fees' ? 'border-blue-500 ring-2 ring-blue-50/50' : 'border-slate-200 shadow-sm'}`}>
@@ -159,7 +169,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
               <div className="text-slate-500 text-sm font-semibold uppercase tracking-wider mb-1">Fees</div>
               <div className="text-2xl font-black text-slate-900">{college.fees}</div>
             </div>
-            
+
             <div className={`bg-white p-6 rounded-2xl border transition-all ${activeTab === 'Placements' ? 'border-green-500 ring-2 ring-green-50/50' : 'border-slate-200 shadow-sm'}`}>
               <div className="bg-green-50 w-10 h-10 rounded-lg flex items-center justify-center mb-4">
                 <Briefcase className="w-5 h-5 text-green-600" />
@@ -207,16 +217,16 @@ export function CollegeDetailClient({ college }: { college: College }) {
             <p className="text-slate-400 mb-8 font-medium">
               Join thousands of students who got their dream college via our expert counselling.
             </p>
-            
+
             <div className="space-y-4">
-              <Link 
+              <Link
                 href="/inquiry"
                 className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-2xl flex items-center justify-center transition-all group"
               >
                 Inquire Now
                 <ChevronRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
               </Link>
-              <a 
+              <a
                 href="https://wa.me/919560020771"
                 className="w-full bg-white/10 hover:bg-white/20 text-white font-bold py-4 px-6 rounded-2xl border border-white/10 transition-all flex items-center justify-center"
               >
