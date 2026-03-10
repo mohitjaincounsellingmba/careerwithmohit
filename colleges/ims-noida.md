@@ -2,6 +2,9 @@
 name: "IMS Noida"
 logo: "/colleges/ims-logo.webp"
 location: "Noida, Uttar Pradesh"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1998
 ownership: "Private"
 ranking: "Top B-School in North India"

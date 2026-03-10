@@ -2,6 +2,9 @@
 name: "Alliance University Bangalore"
 logo: "/colleges/alliance-logo.webp"
 location: "Anekal, Bangalore"
+category: "Management"
+type: "University"
+courses: ["MBA", "PGDM"]
 established: 2010
 ownership: "Private"
 ranking: "Top 3 Private Universities"

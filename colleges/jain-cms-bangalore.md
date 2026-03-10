@@ -2,6 +2,9 @@
 name: "Jain University (CMS) Bangalore"
 logo: "/colleges/jain-logo.webp"
 location: "Lalbagh Road, Bangalore"
+category: "Management"
+type: "University"
+courses: ["MBA", "PGDM"]
 established: 1990
 ownership: "Private"
 ranking: "Top Private University"

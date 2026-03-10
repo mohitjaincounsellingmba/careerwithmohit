@@ -2,6 +2,9 @@
 name: "IIM Bangalore"
 logo: "/colleges/iimb-logo.webp"
 location: "Bangalore, Karnataka"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1973
 ownership: "Public"
 ranking: "#2 (NIRF 2024)"

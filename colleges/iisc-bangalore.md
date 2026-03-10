@@ -2,6 +2,9 @@
 name: "IISc (DoMS) Bangalore"
 logo: "/colleges/iisc-logo.webp"
 location: "Bangalore, Karnataka"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1948
 ownership: "Public"
 ranking: "#1 University in India (NIRF)"

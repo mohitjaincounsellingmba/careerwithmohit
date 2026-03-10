@@ -2,6 +2,9 @@
 name: "MERI Janakpuri (Management Education and Research Institute)"
 logo: "/colleges/meri-logo.webp"
 location: "Janakpuri, Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1994
 ownership: "Private"
 ranking: "Top B-School under GGSIPU"

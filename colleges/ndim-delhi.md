@@ -2,6 +2,9 @@
 name: "NDIM Delhi (New Delhi Institute of Management)"
 logo: "/colleges/ndim-logo.webp"
 location: "Tughlakabad, Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1992
 ownership: "Private"
 ranking: "Best B-School in India for Industry Linkages (CII)"

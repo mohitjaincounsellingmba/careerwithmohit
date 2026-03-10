@@ -2,6 +2,9 @@
 name: "IMI Delhi"
 logo: "/colleges/imid-logo.webp"
 location: "New Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1981
 ownership: "Private"
 ranking: "#34 (NIRF 2024)"

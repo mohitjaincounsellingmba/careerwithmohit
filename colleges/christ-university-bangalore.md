@@ -2,6 +2,9 @@
 name: "Christ University Bangalore"
 logo: "/colleges/christ-logo.webp"
 location: "Bannerghatta/Kengeri, Bangalore"
+category: "Management"
+type: "University"
+courses: ["MBA", "PGDM"]
 established: 1969
 ownership: "Private"
 ranking: "Top 50 in India"

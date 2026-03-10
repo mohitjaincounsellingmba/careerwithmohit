@@ -2,6 +2,9 @@
 name: "MDI Gurgaon"
 logo: "/colleges/mdi-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1973
 ownership: "Private"
 ranking: "#9 (NIRF 2025)"

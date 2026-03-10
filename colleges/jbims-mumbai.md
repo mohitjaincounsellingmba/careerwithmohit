@@ -2,6 +2,9 @@
 name: "JBIMS Mumbai"
 logo: "/colleges/jbims-logo.webp"
 location: "Mumbai, Maharashtra"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1965
 ownership: "Public"
 ranking: "Top 10 in India"

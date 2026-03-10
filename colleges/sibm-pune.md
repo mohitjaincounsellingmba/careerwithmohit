@@ -2,6 +2,9 @@
 name: "SIBM Pune"
 logo: "/colleges/sibm-logo.webp"
 location: "Lavale, Pune"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1978
 ownership: "Private"
 ranking: "Top 15 in India"

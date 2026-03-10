@@ -2,6 +2,9 @@
 name: "ISBS Gurgaon (ISB&M)"
 logo: "/colleges/isbs-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2000
 ownership: "Private"
 ranking: "A+ Category B-School"

@@ -2,6 +2,9 @@
 name: "ISBR Business School"
 logo: "/colleges/isbr-logo.webp"
 location: "Electronic City, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1990
 ownership: "Private"
 ranking: "Top Rated B-School (CII-AICTE)"

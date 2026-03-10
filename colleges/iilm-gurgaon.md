@@ -2,6 +2,9 @@
 name: "IILM University, Gurgaon"
 logo: "/colleges/iilm-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "University"
+courses: ["MBA", "PGDM"]
 established: 1993
 ownership: "Private"
 ranking: "#11 (NIRF 2024 - Top Private B-Schools)"

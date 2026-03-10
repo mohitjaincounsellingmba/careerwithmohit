@@ -2,6 +2,9 @@
 name: "IIM Calcutta"
 logo: "/colleges/iimc-logo.webp"
 location: "Kolkata, West Bengal"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1961
 ownership: "Public"
 ranking: "#5 (NIRF 2024)"

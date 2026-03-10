@@ -2,6 +2,9 @@
 name: "Welingkar (WeSchool) Bangalore"
 logo: "/colleges/weschool-logo.webp"
 location: "Electronic City, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1977
 ownership: "Private"
 ranking: "Top Private B-School in Bangalore"

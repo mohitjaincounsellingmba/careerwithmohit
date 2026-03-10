@@ -2,6 +2,9 @@
 name: "GNIOT Institute of Management Studies, Greater Noida"
 logo: "/colleges/gniot-logo.webp"
 location: "Greater Noida, Uttar Pradesh"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2001
 ownership: "Private"
 ranking: "#93 (Times B-School Ranking)"

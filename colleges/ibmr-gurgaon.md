@@ -2,6 +2,9 @@
 name: "IBMR Business School, Gurgaon"
 logo: "/colleges/ibmr-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1999
 ownership: "Private"
 ranking: "A+ Grade B-School"

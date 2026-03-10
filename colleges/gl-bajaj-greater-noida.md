@@ -2,6 +2,9 @@
 name: "GL Bajaj Institute of Management & Research, Greater Noida"
 logo: "/colleges/gl-bajaj-logo.webp"
 location: "Greater Noida, Uttar Pradesh"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2007
 ownership: "Private"
 ranking: "#19 (Best B-Schools in North India - India Today)"

@@ -2,6 +2,9 @@
 name: "Jaipuria Jaipur"
 logo: "/colleges/jaipuria-jaipur-logo.webp"
 location: "Jaipur, Rajasthan"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2006
 ownership: "Private"
 ranking: "Top B-School in Rajasthan"

@@ -2,6 +2,9 @@
 name: "ITM Mumbai"
 logo: "/colleges/itm-logo.webp"
 location: "Navi Mumbai, Maharashtra"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1991
 ownership: "Private"
 ranking: "Top 30 Private B-Schools"

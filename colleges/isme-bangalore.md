@@ -2,6 +2,9 @@
 name: "ISME Bangalore"
 logo: "/colleges/isme-logo.webp"
 location: "Sarjapur Road, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2006
 ownership: "Private"
 ranking: "International Collaborations"

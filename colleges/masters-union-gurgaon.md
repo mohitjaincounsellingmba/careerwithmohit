@@ -2,6 +2,9 @@
 name: "Masters' Union, Gurgaon"
 logo: "/colleges/masters-union-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2020
 ownership: "Private"
 ranking: "Top Innovative B-School in India"

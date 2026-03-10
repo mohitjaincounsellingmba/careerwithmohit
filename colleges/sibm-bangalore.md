@@ -2,6 +2,9 @@
 name: "SIBM Bangalore"
 logo: "/colleges/sibm-logo.webp"
 location: "Electronic City, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2008
 ownership: "Private"
 ranking: "Top 30 B-School in India"

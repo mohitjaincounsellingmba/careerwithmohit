@@ -2,6 +2,9 @@
 name: "Doon Business School"
 logo: "/colleges/dbs-logo.webp"
 location: "Dehradun, Uttarakhand"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2007
 ownership: "Private"
 ranking: "Top Private B-School in Dehradun"

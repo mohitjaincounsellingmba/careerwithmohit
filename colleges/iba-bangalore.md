@@ -2,6 +2,9 @@
 name: "Indus Business Academy (IBA)"
 logo: "/colleges/iba-logo.webp"
 location: "Kanakapura Road, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2001
 ownership: "Private"
 ranking: "IACBE Accredited"

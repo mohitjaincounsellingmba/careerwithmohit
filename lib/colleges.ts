@@ -9,6 +9,9 @@ export interface CollegeMetadata {
   name: string;
   logo: string;
   location: string;
+  category: "Management" | "Engineering" | "UG Courses";
+  type: "College" | "University" | "Institute";
+  courses: string[];
   established: number;
   ownership: string;
   ranking: string;

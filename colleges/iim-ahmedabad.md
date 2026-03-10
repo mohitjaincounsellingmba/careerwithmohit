@@ -2,6 +2,9 @@
 name: "IIM Ahmedabad"
 logo: "/colleges/iima-logo.webp"
 location: "Ahmedabad, Gujarat"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1961
 ownership: "Public"
 ranking: "#1 (NIRF 2024)"

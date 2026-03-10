@@ -2,6 +2,9 @@
 name: "Pearl Academy, Delhi"
 logo: "/colleges/pearl-logo.webp"
 location: "South Delhi, Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1993
 ownership: "Private"
 ranking: "#1 Fashion & Design Institute in India"

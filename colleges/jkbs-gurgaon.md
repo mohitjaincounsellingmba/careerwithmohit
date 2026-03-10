@@ -2,6 +2,9 @@
 name: "JK Business School (JKBS), Gurgaon"
 logo: "/colleges/jkbs-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2006
 ownership: "Private"
 ranking: "Top Private B-Schools (CSR-GHRDC)"

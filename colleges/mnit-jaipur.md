@@ -2,6 +2,9 @@
 name: "MNIT Jaipur"
 logo: "/colleges/mnit-logo.webp"
 location: "Jaipur, Rajasthan"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1963
 ownership: "Public"
 ranking: "#68 (NIRF 2024)"

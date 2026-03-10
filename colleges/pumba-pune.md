@@ -2,6 +2,9 @@
 name: "PUMBA Pune"
 logo: "/colleges/pumba-logo.webp"
 location: "Pune, Maharashtra"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1971
 ownership: "Public (Univ)"
 ranking: "Top ROI B-School"

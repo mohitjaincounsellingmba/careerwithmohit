@@ -2,6 +2,9 @@
 name: "FMS Delhi"
 logo: "/colleges/fms-logo.webp"
 location: "New Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1954
 ownership: "Public (DU)"
 ranking: "Top 5 (Non-NIRF)"

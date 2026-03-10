@@ -2,6 +2,9 @@
 name: "MSRIM (Ramaiah) Bangalore"
 logo: "/colleges/msrim-logo.webp"
 location: "M S Ramaiah Nagar, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1995
 ownership: "Private"
 ranking: "Top 100 in NIRF"

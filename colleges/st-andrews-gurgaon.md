@@ -2,6 +2,9 @@
 name: "St. Andrews Institute of Technology and Management, Gurgaon"
 logo: "/colleges/st-andrews-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2012
 ownership: "Private"
 ranking: "#11 (Outlook Ranking - Region)"

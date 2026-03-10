@@ -2,6 +2,9 @@
 name: "Great Lakes Gurgaon"
 logo: "/colleges/greatlakes-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2010
 ownership: "Private"
 ranking: "Top 20 Private B-Schools"

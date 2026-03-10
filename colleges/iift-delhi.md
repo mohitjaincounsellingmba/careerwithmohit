@@ -2,6 +2,9 @@
 name: "IIFT Delhi"
 logo: "/colleges/iift-logo.webp"
 location: "New Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1963
 ownership: "Public (Deemed)"
 ranking: "#15 (NIRF 2024)"

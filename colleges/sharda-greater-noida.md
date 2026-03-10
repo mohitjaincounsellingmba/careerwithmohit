@@ -2,6 +2,9 @@
 name: "Sharda University, Greater Noida"
 logo: "/colleges/sharda-logo.webp"
 location: "Greater Noida, Uttar Pradesh"
+category: "UG Courses"
+type: "University"
+courses: ["MBA", "B.Tech", "BBA", "BCA", "PGDM"]
 established: 2009
 ownership: "Private"
 ranking: "#87 (NIRF 2024 - Overall)"

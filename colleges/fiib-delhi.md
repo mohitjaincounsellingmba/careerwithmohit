@@ -2,6 +2,9 @@
 name: "FIIB (Fortune Institute of International Business), Delhi"
 logo: "/colleges/fiib-logo.webp"
 location: "Vasant Vihar, Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1995
 ownership: "Private"
 ranking: "Top-20 Private B-Schools in North India"

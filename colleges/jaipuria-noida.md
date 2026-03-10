@@ -2,6 +2,9 @@
 name: "Jaipuria Noida"
 logo: "/colleges/jaipuria-logo.webp"
 location: "Noida, Uttar Pradesh"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2004
 ownership: "Private"
 ranking: "#45 (NIRF 2024)"

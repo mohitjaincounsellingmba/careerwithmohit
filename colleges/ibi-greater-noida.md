@@ -2,6 +2,9 @@
 name: "I Business Institute (IBI), Greater Noida"
 logo: "/colleges/ibi-logo.webp"
 location: "Greater Noida, Uttar Pradesh"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2008
 ownership: "Private"
 ranking: "Top Private B-School in North India"

@@ -2,6 +2,9 @@
 name: "TAPMI Bengaluru"
 logo: "/colleges/tapmi-logo.webp"
 location: "Bangalore, Karnataka"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1980
 ownership: "Private"
 ranking: "AACSB Accredited"

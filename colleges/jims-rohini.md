@@ -2,6 +2,9 @@
 name: "JIMS Rohini (Jagan Institute of Management Studies)"
 logo: "/colleges/jims-rohini-logo.webp"
 location: "Rohini, Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1993
 ownership: "Private"
 ranking: "#88 (NIRF 2024 - Management)"

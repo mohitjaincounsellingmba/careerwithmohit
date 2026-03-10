@@ -2,6 +2,9 @@
 name: "Fostiima Business School, Delhi"
 logo: "/colleges/fostiima-logo.webp"
 location: "Dwarka, Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2007
 ownership: "Private"
 ranking: "#1 B-School in Delhi/NCR for ROI"

@@ -2,6 +2,9 @@
 name: "UPES Dehradun"
 logo: "/colleges/upes-logo.webp"
 location: "Dehradun, Uttarakhand"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2003
 ownership: "Private"
 ranking: "#41 (NIRF 2024)"

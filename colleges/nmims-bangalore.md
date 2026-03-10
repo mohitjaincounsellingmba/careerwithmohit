@@ -2,6 +2,9 @@
 name: "NMIMS Bangalore"
 logo: "/colleges/nmims-logo.webp"
 location: "Bannerghatta Road, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2008
 ownership: "Private"
 ranking: "Top 10 Emerging B-Schools"

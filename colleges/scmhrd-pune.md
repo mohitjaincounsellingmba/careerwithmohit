@@ -2,6 +2,9 @@
 name: "SCMHRD Pune"
 logo: "/colleges/scmhrd-logo.webp"
 location: "Hinjewadi, Pune"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1993
 ownership: "Private"
 ranking: "Top HR Institute in India"

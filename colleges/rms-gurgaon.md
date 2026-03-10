@@ -2,6 +2,9 @@
 name: "RMS Business School, Gurgaon"
 logo: "/colleges/rms-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2011
 ownership: "Private"
 ranking: "Top Emerging B-School in North India"

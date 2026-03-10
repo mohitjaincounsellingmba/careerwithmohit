@@ -2,6 +2,9 @@
 name: "GIBS Business School"
 logo: "/colleges/gibs-logo.webp"
 location: "Begur, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2014
 ownership: "Private"
 ranking: "Top 20 B-Schools in Bangalore"

@@ -2,6 +2,9 @@
 name: "SPJIMR Mumbai"
 logo: "/colleges/spjimr-logo.webp"
 location: "Mumbai, Maharashtra"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1981
 ownership: "Private"
 ranking: "#20 (NIRF 2024)"

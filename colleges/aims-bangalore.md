@@ -2,6 +2,9 @@
 name: "AIMS Institutes Bangalore"
 logo: "/colleges/aims-logo.webp"
 location: "Peenya, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1994
 ownership: "Private"
 ranking: "Top Private B-School in India"

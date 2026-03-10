@@ -2,6 +2,9 @@
 name: "JIMS Kalkaji (Jagannath International Management School)"
 logo: "/colleges/jims-kalkaji-logo.webp"
 location: "Kalkaji, Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1997
 ownership: "Private"
 ranking: "Top 20 Private B-Schools in India (Outlook)"

@@ -2,6 +2,9 @@
 name: "BMSCE Bangalore"
 logo: "/colleges/bmsce-logo.webp"
 location: "Basavanagudi, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1946
 ownership: "Private"
 ranking: "Top 10 in Bangalore"

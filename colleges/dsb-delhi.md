@@ -2,6 +2,9 @@
 name: "Delhi School of Business (DSB), VIPS"
 logo: "/colleges/dsb-logo.webp"
 location: "Pitampura, Delhi"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2012
 ownership: "Private"
 ranking: "#1 Top Emerging B-School (Times Ranking)"

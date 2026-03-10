@@ -2,6 +2,9 @@
 name: "JAGSoM (IFIM) Bangalore"
 logo: "/colleges/jagsom-logo.webp"
 location: "Electronic City, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1995
 ownership: "Private"
 ranking: "AACSB Accredited"

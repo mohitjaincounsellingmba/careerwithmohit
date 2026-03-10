@@ -2,6 +2,9 @@
 name: "DSBS Bangalore"
 logo: "/colleges/dsbs-logo.webp"
 location: "Kanakapura Road, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2007
 ownership: "Private"
 ranking: "Top 20 in South India"

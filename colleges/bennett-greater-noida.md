@@ -2,6 +2,9 @@
 name: "Bennett University, Greater Noida"
 logo: "/colleges/bennett-logo.webp"
 location: "Greater Noida, Uttar Pradesh"
+category: "Management"
+type: "University"
+courses: ["MBA", "PGDM"]
 established: 2016
 ownership: "Private"
 ranking: "#2 (Top Emerging Universities - Times)"

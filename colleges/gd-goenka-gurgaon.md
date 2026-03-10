@@ -2,6 +2,9 @@
 name: "GD Goenka University, Gurgaon"
 logo: "/colleges/gd-goenka-logo.webp"
 location: "Gurgaon, Haryana"
+category: "Management"
+type: "University"
+courses: ["MBA", "PGDM"]
 established: 2013
 ownership: "Private"
 ranking: "#42 (Times B-School Ranking)"

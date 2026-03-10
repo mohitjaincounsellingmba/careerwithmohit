@@ -2,6 +2,9 @@
 name: "XIME Bangalore"
 logo: "/colleges/xime-logo.webp"
 location: "Bangalore, Karnataka"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1991
 ownership: "Private"
 ranking: "Top 50 in India"

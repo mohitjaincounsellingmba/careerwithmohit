@@ -2,6 +2,9 @@
 name: "RVIM Bangalore"
 logo: "/colleges/rvim-logo.webp"
 location: "Jayanagar, Bangalore"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1999
 ownership: "Private"
 ranking: "Best ROI in Bangalore"

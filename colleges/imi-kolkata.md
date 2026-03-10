@@ -2,6 +2,9 @@
 name: "IMI Kolkata"
 logo: "/colleges/imi-logo.webp"
 location: "Kolkata, West Bengal"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 2010
 ownership: "Private"
 ranking: "Top 70 in India"

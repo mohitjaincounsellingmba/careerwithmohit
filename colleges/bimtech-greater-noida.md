@@ -2,6 +2,9 @@
 name: "BIMTECH, Greater Noida"
 logo: "/colleges/bimtech-logo.webp"
 location: "Greater Noida, Uttar Pradesh"
+category: "Management"
+type: "Institute"
+courses: ["MBA", "PGDM"]
 established: 1988
 ownership: "Private"
 ranking: "#17 (NIRF 2024 - Private B-Schools)"
