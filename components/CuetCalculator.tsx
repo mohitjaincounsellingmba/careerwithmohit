@@ -1,12 +1,22 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight } from "lucide-react";
+import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap } from "lucide-react";
 
 export function CuetCalculator() {
     const [correct, setCorrect] = useState<number | "">("");
     const [incorrect, setIncorrect] = useState<number | "">("");
     const [unattempted, setUnattempted] = useState<number | "">("");
+
+    // Lead Form State
+    const [showLeadForm, setShowLeadForm] = useState(false);
+    const [isUnlocked, setIsUnlocked] = useState(false);
+    const [leadData, setLeadData] = useState({
+        name: "",
+        number: "",
+        email: "",
+        location: ""
+    });
 
     const totalQuestions = 75; // Most common pattern for 2024/2025
 
@@ -49,6 +59,25 @@ export function CuetCalculator() {
         if (val === "" || (num >= 0 && num <= totalQuestions - (Number(correct) || 0))) {
             setIncorrect(val === "" ? "" : num);
         }
+    };
+
+    const handleLeadSubmit = (e: React.FormEvent) => {
+        e.preventDefault();
+
+        // Generate WhatsApp message for the lead
+        const message = `*New CUET PG Lead*%0A%0A` +
+            `*Name:* ${leadData.name}%0A` +
+            `*Phone:* ${leadData.number}%0A` +
+            `*Email:* ${leadData.email}%0A` +
+            `*Location:* ${leadData.location}%0A` +
+            `*Calculated Score:* ${stats.score}%0A` +
+            `*Percentile:* ~${stats.percentile}+`;
+
+        const whatsappUrl = `https://wa.me/919560020771?text=${message}`;
+        window.open(whatsappUrl, '_blank');
+
+        setIsUnlocked(true);
+        setShowLeadForm(false);
     };
 
     return (
@@ -111,21 +140,98 @@ export function CuetCalculator() {
 
                     {/* Results Section */}
                     <div className="flex flex-col justify-between space-y-8">
-                        <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden">
-                            <div className="absolute top-0 right-0 p-4 opacity-10">
-                                <Trophy className="w-32 h-32" />
+                        {!isUnlocked ? (
+                            <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden flex flex-col items-center text-center justify-center min-h-[300px]">
+                                <div className="absolute top-0 right-0 p-4 opacity-10">
+                                    <Trophy className="w-32 h-32" />
+                                </div>
+                                {!showLeadForm ? (
+                                    <div className="relative z-10 transition-all">
+                                        <Zap className="w-16 h-16 text-primary mx-auto mb-6 animate-pulse" />
+                                        <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Your Score is Ready!</h3>
+                                        <p className="text-slate-400 font-bold mb-8">Submit your details to unlock your full score and predicted percentile.</p>
+                                        <button
+                                            onClick={() => setShowLeadForm(true)}
+                                            className="bg-primary text-white border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-white hover:text-primary transition-all shadow-[8px_8px_0px_0px_rgba(255,255,255,0.2)]"
+                                        >
+                                            Unlock Now
+                                        </button>
+                                    </div>
+                                ) : (
+                                    <form onSubmit={handleLeadSubmit} className="relative z-10 w-full space-y-4 text-left">
+                                        <div>
+                                            <input
+                                                required
+                                                type="text"
+                                                placeholder="Full Name"
+                                                value={leadData.name}
+                                                onChange={(e) => setLeadData({ ...leadData, name: e.target.value })}
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
+                                            />
+                                        </div>
+                                        <div>
+                                            <input
+                                                required
+                                                type="tel"
+                                                placeholder="WhatsApp Number"
+                                                value={leadData.number}
+                                                onChange={(e) => setLeadData({ ...leadData, number: e.target.value })}
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
+                                            />
+                                        </div>
+                                        <div>
+                                            <input
+                                                required
+                                                type="email"
+                                                placeholder="Email Address"
+                                                value={leadData.email}
+                                                onChange={(e) => setLeadData({ ...leadData, email: e.target.value })}
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
+                                            />
+                                        </div>
+                                        <div>
+                                            <input
+                                                required
+                                                type="text"
+                                                placeholder="Your Location"
+                                                value={leadData.location}
+                                                onChange={(e) => setLeadData({ ...leadData, location: e.target.value })}
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
+                                            />
+                                        </div>
+                                        <button
+                                            type="submit"
+                                            className="w-full bg-primary text-white p-4 font-black uppercase hover:bg-white hover:text-primary transition-all"
+                                        >
+                                            Show My Results
+                                        </button>
+                                        <button
+                                            type="button"
+                                            onClick={() => setShowLeadForm(false)}
+                                            className="w-full text-xs font-bold text-white/50 uppercase hover:text-white transition-colors"
+                                        >
+                                            Back
+                                        </button>
+                                    </form>
+                                )}
                             </div>
-                            <div className="relative z-10">
-                                <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block">
-                                    Estimated Raw Score
-                                </span>
-                                <div className="text-8xl font-black mb-2">{stats.score}</div>
-                                <div className="text-xl font-bold text-slate-400">out of 300 marks</div>
+                        ) : (
+                            <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden animate-in fade-in zoom-in duration-500">
+                                <div className="absolute top-0 right-0 p-4 opacity-10">
+                                    <Trophy className="w-32 h-32" />
+                                </div>
+                                <div className="relative z-10">
+                                    <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block">
+                                        Estimated Raw Score
+                                    </span>
+                                    <div className="text-8xl font-black mb-2">{stats.score}</div>
+                                    <div className="text-xl font-bold text-slate-400">out of 300 marks</div>
+                                </div>
                             </div>
-                        </div>
+                        )}
 
                         <div className="grid grid-cols-2 gap-6">
-                            <div className="bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)]">
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${!isUnlocked ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Target className="w-4 h-4" />
                                     Accuracy
@@ -133,7 +239,7 @@ export function CuetCalculator() {
                                 <div className="text-3xl font-black text-foreground">{stats.accuracy.toFixed(1)}%</div>
                             </div>
 
-                            <div className="bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)]">
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${!isUnlocked ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Trophy className="w-4 h-4" />
                                     Percentile
