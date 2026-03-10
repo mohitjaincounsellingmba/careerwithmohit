@@ -113,7 +113,12 @@ export function JeeCalculator() {
                     number: leadData.number,
                     email: leadData.email,
                     location: leadData.location,
-                    source: `JEE Main 2026 Calculator (Score: ${stats.totalScore})`
+                    source: `JEE Main 2026 Calculator`,
+                    score: stats.totalScore,
+                    percentile: stats.percentile,
+                    physics: stats.subjectScores.Physics,
+                    chemistry: stats.subjectScores.Chemistry,
+                    maths: stats.subjectScores.Mathematics
                 }),
             });
         } catch (e) {

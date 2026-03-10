@@ -43,20 +43,28 @@ export default function AdminLeadsPage() {
     };
 
     const downloadCSV = () => {
-        const headers = ["ID", "Name", "Number", "Email", "Location", "Source", "Date"];
-        const rows = leads.map(l => [
-            l.id,
-            l.name,
-            l.number,
-            l.email,
-            l.location,
-            l.source,
-            new Date(l.timestamp).toLocaleString()
-        ]);
+        // Collect all possible keys from 'details' objects
+        const detailKeys = Array.from(new Set(leads.flatMap(l => Object.keys((l as any).details || {}))));
+
+        const headers = ["ID", "Name", "Number", "Email", "Location", "Source", "Date", ...detailKeys];
+
+        const rows = leads.map(l => {
+            const base = [
+                l.id,
+                l.name,
+                l.number,
+                l.email,
+                l.location,
+                l.source,
+                new Date(l.timestamp).toLocaleString()
+            ];
+            const extra = detailKeys.map(key => (l as any).details?.[key] || "");
+            return [...base, ...extra];
+        });
 
         const csvContent = [
             headers.join(","),
-            ...rows.map(r => r.map(cell => `"${cell}"`).join(","))
+            ...rows.map(r => r.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(","))
         ].join("\n");
 
         const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
@@ -190,6 +198,13 @@ export default function AdminLeadsPage() {
                                                     }`}>
                                                     {lead.source}
                                                 </span>
+                                                {(lead as any).details && Object.keys((lead as any).details).length > 0 && (
+                                                    <div className="mt-2 text-[10px] font-bold text-slate-400">
+                                                        {Object.entries((lead as any).details).map(([k, v]) => (
+                                                            <div key={k}>{k}: {String(v)}</div>
+                                                        ))}
+                                                    </div>
+                                                )}
                                             </td>
                                             <td className="p-4">
                                                 <button className="text-slate-300 hover:text-red-500 transition-colors">

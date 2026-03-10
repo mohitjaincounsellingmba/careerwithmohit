@@ -17,7 +17,7 @@ export async function GET() {
 export async function POST(req: Request) {
     try {
         const lead = await req.json();
-        const { name, number, email, location, source } = lead;
+        const { name, number, email, location, source, ...details } = lead;
 
         if (!name || !number) {
             return NextResponse.json({ error: 'Name and number are required' }, { status: 400 });
@@ -31,6 +31,7 @@ export async function POST(req: Request) {
             location: location || 'N/A',
             source: source || 'Unknown',
             timestamp: new Date().toISOString(),
+            details: details || {}
         };
 
         let leads = [];

@@ -74,7 +74,9 @@ export function CuetCalculator() {
                     number: leadData.number,
                     email: leadData.email,
                     location: leadData.location,
-                    source: `CUET PG 2026 Calculator (Score: ${stats.score})`
+                    source: `CUET PG 2026 Calculator`,
+                    score: stats.score,
+                    percentile: stats.percentile
                 }),
             });
         } catch (e) {

@@ -44,7 +44,10 @@ export function InquiryForm() {
           number: formData.number,
           email: formData.email,
           location: formData.location,
-          source: `Direct Inquiry (${formData.course})`
+          source: `Direct Inquiry (${formData.course})`,
+          budget: formData.budget,
+          preferredLocation: formData.preferredLocation,
+          course: formData.course
         }),
       });
     } catch (e) {
@@ -187,8 +190,8 @@ export function InquiryForm() {
                 type="button"
                 onClick={() => setFormData({ ...formData, course: opt })}
                 className={`h-14 border-4 border-foreground px-4 text-sm font-black uppercase transition-all rounded-md ${formData.course === opt
-                    ? 'bg-accent text-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] -translate-x-1 -translate-y-1'
-                    : 'bg-white hover:bg-gray-100'
+                  ? 'bg-accent text-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] -translate-x-1 -translate-y-1'
+                  : 'bg-white hover:bg-gray-100'
                   }`}
               >
                 {opt}
