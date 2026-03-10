@@ -23,16 +23,52 @@ export default function AdminLeadsPage() {
     const [leads, setLeads] = useState<Lead[]>([]);
     const [loading, setLoading] = useState(true);
     const [searchTerm, setSearchTerm] = useState("");
+    const [isAuthenticated, setIsAuthenticated] = useState(false);
+    const [passwordInput, setPasswordInput] = useState("");
+    const [authError, setAuthError] = useState(false);
 
     useEffect(() => {
-        fetchLeads();
+        const savedAuth = sessionStorage.getItem("admin_auth");
+        if (savedAuth === "true") {
+            setIsAuthenticated(true);
+            fetchLeads();
+        } else {
+            setLoading(false);
+        }
     }, []);
+
+    const handleLogin = (e: React.FormEvent) => {
+        e.preventDefault();
+        // Since we can't easily use server-side ENVs here without a dedicated login API, 
+        // we'll use a standard admin password for now, or the user can change it.
+        if (passwordInput === "mohitadmin2026") {
+            setIsAuthenticated(true);
+            sessionStorage.setItem("admin_auth", "true");
+            fetchLeads();
+        } else {
+            setAuthError(true);
+        }
+    };
+
+    const handleLogout = () => {
+        setIsAuthenticated(false);
+        sessionStorage.removeItem("admin_auth");
+        setLeads([]);
+    };
 
     const fetchLeads = async (isManual = false) => {
         if (isManual) setLoading(true);
         try {
-            const res = await fetch("/api/leads");
+            const res = await fetch("/api/leads", {
+                headers: {
+                    'x-admin-secret': 'mohitadmin2026'
+                }
+            });
             const data = await res.json();
+            if (res.status === 401) {
+                handleLogout();
+                return;
+            }
             // Sort by latest first
             setLeads(data.sort((a: Lead, b: Lead) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()));
         } catch (error) {
@@ -84,8 +120,53 @@ export default function AdminLeadsPage() {
         l.location.toLowerCase().includes(searchTerm.toLowerCase())
     );
 
+    if (!isAuthenticated) {
+        return (
+            <main className="min-h-screen bg-slate-100 flex items-center justify-center p-6">
+                <div className="w-full max-w-md bg-white border-8 border-foreground p-10 shadow-[16px_16px_0px_0px_rgba(0,0,0,1)]">
+                    <div className="flex justify-center mb-8">
+                        <div className="bg-primary p-4 border-4 border-foreground">
+                            <Lock size={40} className="text-white" />
+                        </div>
+                    </div>
+                    <h1 className="text-3xl font-black uppercase text-center mb-6 italic">Admin <span className="text-primary">Access</span></h1>
+                    <form onSubmit={handleLogin} className="space-y-6">
+                        <div>
+                            <label className="block text-xs font-black uppercase tracking-widest mb-2">Security Key</label>
+                            <input
+                                type="password"
+                                value={passwordInput}
+                                onChange={(e) => {
+                                    setPasswordInput(e.target.value);
+                                    setAuthError(false);
+                                }}
+                                className={`w-full h-14 bg-slate-50 border-4 ${authError ? 'border-red-500' : 'border-foreground'} px-6 font-bold text-center text-xl focus:outline-none focus:bg-white`}
+                                placeholder="••••••••"
+                                required
+                            />
+                            {authError && <p className="text-red-500 text-[10px] font-black uppercase mt-2 text-center">Incorrect Password</p>}
+                        </div>
+                        <button
+                            type="submit"
+                            className="w-full h-16 bg-foreground text-white font-black uppercase tracking-widest hover:bg-primary transition-all active:translate-y-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+                        >
+                            Unlock Dashboard
+                        </button>
+                    </form>
+                    <p className="mt-8 text-[10px] font-bold text-slate-400 text-center uppercase">Secure Environment &bull; Authorized Personnel Only</p>
+                </div>
+            </main>
+        );
+    }
+
     return (
-        <main className="min-h-screen bg-slate-50 pt-32 pb-24 px-6 md:px-12">
+        <main className="min-h-screen bg-slate-50 pt-32 pb-24 px-6 md:px-12 relative">
+            <button
+                onClick={handleLogout}
+                className="fixed top-8 right-8 z-50 bg-red-500 text-white border-4 border-foreground px-4 py-2 font-black uppercase text-[10px] shadow-[4px_4px_0_0_rgba(0,0,0,1)] hover:bg-black hover:-translate-y-1 active:translate-y-0 active:shadow-none transition-all"
+            >
+                Logout
+            </button>
             <div className="max-w-7xl mx-auto">
                 <Breadcrumbs />
 
@@ -101,20 +182,6 @@ export default function AdminLeadsPage() {
                     </div>
 
                     <div className="flex gap-4">
-                        <button
-                            onClick={async () => {
-                                const res = await fetch('/api/leads', {
-                                    method: 'POST',
-                                    headers: { 'Content-Type': 'application/json' },
-                                    body: JSON.stringify({ name: 'System Test', number: '0000', source: 'Admin Debug' })
-                                });
-                                alert(`Test Lead Status: ${res.status}`);
-                                fetchLeads(true);
-                            }}
-                            className="bg-yellow-400 text-black border-4 border-foreground px-4 py-4 font-black uppercase text-xs hover:bg-black hover:text-white transition-all shadow-[4px_4px_0_0_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none"
-                        >
-                            Test API
-                        </button>
                         <button
                             onClick={() => fetchLeads(true)}
                             className="bg-white text-foreground border-4 border-foreground px-6 py-4 font-black uppercase text-sm hover:bg-slate-100 transition-all flex items-center justify-center gap-3 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none"

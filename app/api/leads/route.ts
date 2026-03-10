@@ -4,7 +4,12 @@ import path from 'path';
 
 const LEADS_FILE = path.join(process.cwd(), 'data', 'leads.json');
 
-export async function GET() {
+export async function GET(req: Request) {
+    const authHeader = req.headers.get('x-admin-secret');
+    if (authHeader !== 'mohitadmin2026') {
+        return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
+
     try {
         const data = await fs.readFile(LEADS_FILE, 'utf-8');
         const leads = JSON.parse(data);
