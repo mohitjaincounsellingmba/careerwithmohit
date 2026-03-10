@@ -17,9 +17,37 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { College } from "@/lib/colleges";
+import { JsonLd } from "./JsonLd";
 
 export function CollegeDetailClient({ college }: { college: College }) {
   const [activeTab, setActiveTab] = useState("Overview");
+
+  const collegeSchema = {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": college.name,
+    "description": `${college.name} located in ${college.location}. Fees: ${college.fees}, Average Placement: ${college.avg_placement}.`,
+    "url": `https://www.careerwithmohit.online/colleges/${college.slug}`,
+    "logo": "https://www.careerwithmohit.online/logo.webp",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": college.location,
+      "addressCountry": "IN"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Courses Offered",
+      "itemListElement": college.courses.map(course => ({
+        "@type": "Course",
+        "name": course,
+        "description": `${course} at ${college.name}`,
+        "provider": {
+          "@type": "EducationalOrganization",
+          "name": college.name
+        }
+      }))
+    }
+  };
 
   const tabs = [
     "Overview", 
@@ -54,12 +82,13 @@ export function CollegeDetailClient({ college }: { college: College }) {
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
+      <JsonLd data={collegeSchema} />
       {/* Premium Hero Header */}
       <div className="bg-white border-b border-slate-200 pt-12 pb-0">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row gap-8 items-start md:items-center pb-8">
             <div className="w-24 h-24 sm:w-32 bg-white rounded-2xl shadow-md border border-slate-100 flex items-center justify-center p-4 flex-shrink-0">
-               <GraduationCap className="w-full h-full text-blue-600" />
+               <GraduationCap className="w-full h-full text-blue-600" aria-label={`${college.name} Logo`} />
             </div>
 
             <div className="flex-grow">

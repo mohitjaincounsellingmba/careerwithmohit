@@ -20,10 +20,10 @@ export function Header() {
           <span className="font-display text-2xl font-bold tracking-tight text-foreground">Mohit Jain</span>
         </Link>
         <nav className="hidden md:flex items-center gap-8 text-base font-bold text-foreground">
-          <Link href="/" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Home</Link>
-          <Link href="/about" className="hover:text-primary hover:-translate-y-0.5 transition-transform">About</Link>
-          <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Blog</Link>
-          <Link href="/colleges" className="hover:text-primary hover:-translate-y-0.5 transition-transform">Colleges</Link>
+          <Link href="/" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Home Page">Home</Link>
+          <Link href="/about" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="About Mohit Jain">About</Link>
+          <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
+          <Link href="/colleges" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Explore Top Colleges">Colleges</Link>
           
           {/* LEARN AND EARN DROPDOWN */}
           <div 

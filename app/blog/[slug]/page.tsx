@@ -58,10 +58,12 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
   const articleData = {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": "BlogPosting",
     "headline": postData.title,
     "description": postData.description,
+    "image": `https://www.careerwithmohit.online/og-image.webp`, // Default OG image
     "datePublished": postData.date,
+    "dateModified": postData.date,
     "author": {
       "@type": "Person",
       "name": "Mohit Jain"
@@ -71,7 +73,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       "name": "CareerWithMohit",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://careerwithmohit.com/logo.webp"
+        "url": "https://www.careerwithmohit.online/logo.webp"
       }
     }
   };

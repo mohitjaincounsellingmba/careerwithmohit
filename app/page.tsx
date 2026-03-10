@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import type { Metadata } from 'next';
 import { getSortedPostsData } from '@/lib/markdown';
 import { NEWS_ITEMS } from '@/lib/news';
 import { 
@@ -25,9 +26,10 @@ const SERVICES = [
   { title: "Scholarship Support", icon: Award, description: "Identifying and applying for merit and need-based aid.", color: "bg-fuchsia-50", accent: "text-fuchsia-600" },
 ];
 
-export const metadata = {
-  title: "Mohit Jain | Career Counselling & MBA Admissions Expert",
-  description: "Mohit Jain: Uncompromised Career Counselling & MBA Admissions. Get expert guidance for top B-schools, B.Tech admissions, resume building, and interview prep.",
+export const metadata: Metadata = {
+  title: "Mohit Jain | MBA Admissions & Career Counselling Expert 2026",
+  description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA, PGDM, and B.Tech admissions coaching, resume building, and placement strategy.",
+  keywords: ["career counsellor India", "MBA admission guidance 2026", "B.Tech admission expert", "best career counsellor Delhi NCR", "resume building for MBA"],
   alternates: {
     canonical: "/",
   },
