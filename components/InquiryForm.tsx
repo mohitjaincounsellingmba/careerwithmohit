@@ -33,7 +33,24 @@ export function InquiryForm() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus('submitting');
-    
+
+    // Save to Leads API
+    try {
+      await fetch('/api/leads', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: formData.name,
+          number: formData.number,
+          email: formData.email,
+          location: formData.location,
+          source: `Direct Inquiry (${formData.course})`
+        }),
+      });
+    } catch (e) {
+      console.error('Failed to save lead to API');
+    }
+
     // Generate WhatsApp message
     const message = `*New Inquiry from careerwithmohit.com*%0A%0A` +
       `*Name:* ${formData.name}%0A` +
@@ -45,10 +62,10 @@ export function InquiryForm() {
       `*Course:* ${formData.course}`;
 
     const whatsappUrl = `https://wa.me/919560020771?text=${message}`;
-    
+
     // Open WhatsApp in a new tab
     window.open(whatsappUrl, '_blank');
-    
+
     setStatus('success');
     setFormData({
       name: '',
@@ -68,7 +85,7 @@ export function InquiryForm() {
         <p className="text-xl font-bold text-gray-800 mb-8">
           Thank you for reaching out. Our career experts will contact you shortly.
         </p>
-        <button 
+        <button
           onClick={() => setStatus('idle')}
           className="bg-primary text-white border-4 border-foreground px-8 py-4 text-xl font-black uppercase hover:bg-blue-600 transition-all hover:scale-105 active:translate-y-1"
         >
@@ -169,11 +186,10 @@ export function InquiryForm() {
                 key={opt}
                 type="button"
                 onClick={() => setFormData({ ...formData, course: opt })}
-                className={`h-14 border-4 border-foreground px-4 text-sm font-black uppercase transition-all rounded-md ${
-                  formData.course === opt 
-                    ? 'bg-accent text-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] -translate-x-1 -translate-y-1' 
+                className={`h-14 border-4 border-foreground px-4 text-sm font-black uppercase transition-all rounded-md ${formData.course === opt
+                    ? 'bg-accent text-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] -translate-x-1 -translate-y-1'
                     : 'bg-white hover:bg-gray-100'
-                }`}
+                  }`}
               >
                 {opt}
               </button>

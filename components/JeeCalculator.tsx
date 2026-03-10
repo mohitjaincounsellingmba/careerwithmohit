@@ -88,7 +88,7 @@ export function JeeCalculator() {
         setIsUnlocked(false);
     };
 
-    const handleLeadSubmit = (e: React.FormEvent) => {
+    const handleLeadSubmit = async (e: React.FormEvent) => {
         // Generate WhatsApp message for the lead
         e.preventDefault();
         const message = `*New JEE Main 2026 Lead*%0A%0A` +
@@ -102,6 +102,23 @@ export function JeeCalculator() {
             `*C Score:* ${stats.subjectScores.Chemistry}%0A` +
             `*M Score:* ${stats.subjectScores.Mathematics}%0A` +
             `*Percentile:* ~${stats.percentile}+`;
+
+        // Save to Leads API
+        try {
+            await fetch('/api/leads', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    name: leadData.name,
+                    number: leadData.number,
+                    email: leadData.email,
+                    location: leadData.location,
+                    source: `JEE Main 2026 Calculator (Score: ${stats.totalScore})`
+                }),
+            });
+        } catch (e) {
+            console.error('Failed to save lead to API');
+        }
 
         window.open(`https://wa.me/919560020771?text=${message}`, '_blank');
         setIsUnlocked(true);

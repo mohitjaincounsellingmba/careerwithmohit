@@ -22,6 +22,23 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
         e.preventDefault();
         setStatus('submitting');
 
+        // Save to Leads API
+        try {
+            await fetch('/api/leads', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    name: formData.name,
+                    number: formData.number,
+                    email: formData.email,
+                    location: formData.location,
+                    source: `Resource Download: ${resourceName}`
+                }),
+            });
+        } catch (e) {
+            console.error('Failed to save lead to API');
+        }
+
         // Generate WhatsApp message
         const message = `*CAT/Exam Paper Download Lead*%0A%0A` +
             `*Resource:* ${resourceName}%0A` +

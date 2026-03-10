@@ -61,8 +61,25 @@ export function CuetCalculator() {
         }
     };
 
-    const handleLeadSubmit = (e: React.FormEvent) => {
+    const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
+
+        // Save to Leads API
+        try {
+            await fetch('/api/leads', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    name: leadData.name,
+                    number: leadData.number,
+                    email: leadData.email,
+                    location: leadData.location,
+                    source: `CUET PG 2026 Calculator (Score: ${stats.score})`
+                }),
+            });
+        } catch (e) {
+            console.error('Failed to save lead to API');
+        }
 
         // Generate WhatsApp message for the lead
         const message = `*New CUET PG Lead*%0A%0A` +

@@ -1,0 +1,198 @@
+"use client";
+
+import { useEffect, useState } from "react";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import {
+    Download, Table as TableIcon, Users,
+    Filter, Calendar, Search, Trash2,
+    ChevronLeft, ChevronRight, CheckCircle2
+} from "lucide-react";
+
+interface Lead {
+    id: string;
+    name: string;
+    number: string;
+    email: string;
+    location: string;
+    source: string;
+    timestamp: string;
+}
+
+export default function AdminLeadsPage() {
+    const [leads, setLeads] = useState<Lead[]>([]);
+    const [loading, setLoading] = useState(true);
+    const [searchTerm, setSearchTerm] = useState("");
+
+    useEffect(() => {
+        fetchLeads();
+    }, []);
+
+    const fetchLeads = async () => {
+        try {
+            const res = await fetch("/api/leads");
+            const data = await res.json();
+            // Sort by latest first
+            setLeads(data.sort((a: Lead, b: Lead) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()));
+        } catch (error) {
+            console.error("Failed to fetch leads");
+        } finally {
+            setLoading(false);
+        }
+    };
+
+    const downloadCSV = () => {
+        const headers = ["ID", "Name", "Number", "Email", "Location", "Source", "Date"];
+        const rows = leads.map(l => [
+            l.id,
+            l.name,
+            l.number,
+            l.email,
+            l.location,
+            l.source,
+            new Date(l.timestamp).toLocaleString()
+        ]);
+
+        const csvContent = [
+            headers.join(","),
+            ...rows.map(r => r.map(cell => `"${cell}"`).join(","))
+        ].join("\n");
+
+        const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+        const link = document.createElement("a");
+        const url = URL.createObjectURL(blob);
+        link.setAttribute("href", url);
+        link.setAttribute("download", `leads_${new Date().toISOString().split('T')[0]}.csv`);
+        link.style.visibility = "hidden";
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
+
+    const filteredLeads = leads.filter(l =>
+        l.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        l.source.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        l.location.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+
+    return (
+        <main className="min-h-screen bg-slate-50 pt-32 pb-24 px-6 md:px-12">
+            <div className="max-w-7xl mx-auto">
+                <Breadcrumbs />
+
+                <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
+                    <div>
+                        <div className="inline-flex items-center gap-2 bg-foreground text-white px-4 py-1 mb-4 border-2 border-foreground shadow-[4px_4px_0px_0px_rgba(37,99,235,1)]">
+                            <Users className="w-4 h-4 text-primary" />
+                            <span className="text-xs font-black uppercase tracking-widest">Lead Management</span>
+                        </div>
+                        <h1 className="text-4xl md:text-6xl font-black uppercase tracking-tighter leading-none">
+                            Admin <span className="text-primary italic">Dashboard</span>
+                        </h1>
+                    </div>
+
+                    <button
+                        onClick={downloadCSV}
+                        disabled={leads.length === 0}
+                        className="bg-green-500 text-white border-4 border-foreground px-8 py-4 font-black uppercase text-sm hover:bg-black transition-all flex items-center justify-center gap-3 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none disabled:opacity-50"
+                    >
+                        <Download className="w-5 h-5" />
+                        Export to CSV / Excel
+                    </button>
+                </div>
+
+                {/* Stats Grid */}
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+                    <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                        <div className="text-[10px] font-black uppercase text-slate-400 mb-2 tracking-widest">Total Leads</div>
+                        <div className="text-5xl font-black italic">{leads.length}</div>
+                    </div>
+                    <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(37,99,235,1)]">
+                        <div className="text-[10px] font-black uppercase text-slate-400 mb-2 tracking-widest">Today</div>
+                        <div className="text-5xl font-black italic">
+                            {leads.filter(l => new Date(l.timestamp).toDateString() === new Date().toDateString()).length}
+                        </div>
+                    </div>
+                    <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(34,197,94,1)]">
+                        <div className="text-[10px] font-black uppercase text-slate-400 mb-2 tracking-widest">Status</div>
+                        <div className="text-2xl font-black uppercase flex items-center gap-2">
+                            <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div> Active
+                        </div>
+                    </div>
+                </div>
+
+                {/* Search & Table */}
+                <div className="bg-white border-4 border-foreground overflow-hidden shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+                    <div className="p-6 border-b-4 border-foreground bg-slate-50 flex items-center gap-4">
+                        <Search className="w-6 h-6 text-slate-400" />
+                        <input
+                            type="text"
+                            placeholder="Search leads by name, source, or location..."
+                            value={searchTerm}
+                            onChange={(e) => setSearchTerm(e.target.value)}
+                            className="bg-transparent border-none outline-none font-bold text-lg w-full placeholder:text-slate-300"
+                        />
+                    </div>
+
+                    <div className="overflow-x-auto">
+                        <table className="w-full text-left border-collapse">
+                            <thead>
+                                <tr className="bg-foreground text-white uppercase text-[10px] font-black tracking-widest">
+                                    <th className="p-4 border-r border-slate-700">Date</th>
+                                    <th className="p-4 border-r border-slate-700">Name</th>
+                                    <th className="p-4 border-r border-slate-700">Contact</th>
+                                    <th className="p-4 border-r border-slate-700">Location</th>
+                                    <th className="p-4 border-r border-slate-700">Source</th>
+                                    <th className="p-4">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {loading ? (
+                                    <tr>
+                                        <td colSpan={6} className="p-20 text-center font-black uppercase animate-pulse text-slate-300 italic text-2xl">
+                                            Loading Leads...
+                                        </td>
+                                    </tr>
+                                ) : filteredLeads.length === 0 ? (
+                                    <tr>
+                                        <td colSpan={6} className="p-20 text-center font-black uppercase text-slate-300 italic text-2xl">
+                                            No leads found.
+                                        </td>
+                                    </tr>
+                                ) : (
+                                    filteredLeads.map((lead) => (
+                                        <tr key={lead.id} className="border-b-2 border-slate-100 hover:bg-slate-50 transition-colors">
+                                            <td className="p-4 font-bold text-xs text-slate-400">
+                                                {new Date(lead.timestamp).toLocaleDateString()}
+                                                <br />
+                                                <span className="text-[10px] opacity-50">{new Date(lead.timestamp).toLocaleTimeString()}</span>
+                                            </td>
+                                            <td className="p-4 font-black uppercase text-sm">{lead.name}</td>
+                                            <td className="p-4">
+                                                <div className="font-bold text-sm tracking-tighter">{lead.number}</div>
+                                                <div className="text-xs text-slate-400 font-medium">{lead.email}</div>
+                                            </td>
+                                            <td className="p-4 font-bold text-sm uppercase">{lead.location}</td>
+                                            <td className="p-4">
+                                                <span className={`px-3 py-1 text-[10px] font-black uppercase border-2 ${lead.source.includes('JEE') ? 'bg-blue-50 border-blue-200 text-blue-600' :
+                                                        lead.source.includes('CAT') ? 'bg-orange-50 border-orange-200 text-orange-600' :
+                                                            'bg-slate-100 border-slate-200 text-slate-600'
+                                                    }`}>
+                                                    {lead.source}
+                                                </span>
+                                            </td>
+                                            <td className="p-4">
+                                                <button className="text-slate-300 hover:text-red-500 transition-colors">
+                                                    <Trash2 className="w-5 h-5" />
+                                                </button>
+                                            </td>
+                                        </tr>
+                                    ))
+                                )}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </main>
+    );
+}
