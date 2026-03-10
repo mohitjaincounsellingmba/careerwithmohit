@@ -53,13 +53,13 @@ export function InquiryForm() {
 
       if (!response.ok) {
         const errorData = await response.json();
-        throw new Error(errorData.error || 'Failed to save lead');
+        throw new Error(`${errorData.error}${errorData.details ? ': ' + errorData.details : ''}`);
       }
     } catch (e: any) {
       console.error('Lead Capture Error:', e);
       // We don't want to block the user from WhatsApp, but we want to know it failed
       // Temporarily alert during debugging
-      alert(`Debug: Lead capture failed but WhatsApp will still open. Error: ${e.message}`);
+      alert(`Debug: Lead capture failed. Error: ${e.message}`);
     }
 
     // Generate WhatsApp message

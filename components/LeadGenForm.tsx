@@ -38,11 +38,11 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
 
             if (!response.ok) {
                 const errorData = await response.json();
-                throw new Error(errorData.error || 'Failed to save lead');
+                throw new Error(`${errorData.error}${errorData.details ? ': ' + errorData.details : ''}`);
             }
         } catch (e: any) {
             console.error('Lead Capture Error:', e);
-            alert(`Debug: Lead capture failed but download will still start. Error: ${e.message}`);
+            alert(`Debug: Lead capture failed. Error: ${e.message}`);
         }
 
         // Generate WhatsApp message

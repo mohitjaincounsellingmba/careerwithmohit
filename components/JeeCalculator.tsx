@@ -124,11 +124,11 @@ export function JeeCalculator() {
 
             if (!response.ok) {
                 const errorData = await response.json();
-                throw new Error(errorData.error || 'Failed to save lead');
+                throw new Error(`${errorData.error}${errorData.details ? ': ' + errorData.details : ''}`);
             }
         } catch (e: any) {
             console.error('Lead Capture Error:', e);
-            alert(`Debug: Lead capture failed but WhatsApp will still open. Error: ${e.message}`);
+            alert(`Debug: Lead capture failed. Error: ${e.message}`);
         }
 
         window.open(`https://wa.me/919560020771?text=${message}`, '_blank');
