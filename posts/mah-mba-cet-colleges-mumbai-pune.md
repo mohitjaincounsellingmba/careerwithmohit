@@ -11,21 +11,47 @@ Here is a comprehensive list of top colleges in Pune and Mumbai that accept the 
 
 ---
 
-## 🏔️ MBA Colleges in Pune (Accepting MAH MBA CET)
-
-Pune, known as the 'Oxford of the East', offers a variety of high-ROI management programs.
-
-### Top Colleges
+### Top Colleges in Pune
 *   **[Department of Management Sciences (PUMBA)](/colleges/pumba-pune)**
+    *   **MAH CET Cutoff**: 99.5+ Percentile
+    *   **Total Fees**: ₹1.80 Lakhs (High ROI)
+    *   **Avg. Placement**: ₹8.80 LPA
 *   **Institute of Management Development and Research (IMDR)**
+    *   **MAH CET Cutoff**: 98 Percentile
+    *   **Total Fees**: ₹6.00 Lakhs
+    *   **Avg. Placement**: ₹8.24 LPA
 *   **Balaji Institute of Modern Management (BIMM)**
+    *   **MAH CET Cutoff**: 94 Percentile
+    *   **Total Fees**: ₹12.00 Lakhs (Approx.)
+    *   **Avg. Placement**: ₹7.30 LPA
 *   **International School of Business and Media (ISB&M)**
-*   **MIT School of Business**
-*   **ASM Institute of Business Management and Research**
-*   **MITCON Institute of Management**
-*   **Suryadatta Institute of Management**
+    *   **MAH CET Cutoff**: 90+ Percentile
+    *   **Total Fees**: ₹13.00 Lakhs
+    *   **Avg. Placement**: ₹11.40 LPA
+*   **MIT School of Business (MIT-WPU)**
+    *   **MAH CET Cutoff**: 85 Percentile
+    *   **Total Fees**: ₹9.00 Lakhs (Approx.)
+    *   **Avg. Placement**: ₹7.00 LPA
+*   **Lexicon Management Institute of Leadership and Excellence (MILE)**
+    *   **MAH CET Cutoff**: 80+ Percentile
+    *   **Total Fees**: ₹10.80 Lakhs
+    *   **Avg. Placement**: ₹8.75 LPA
+*   **Suryadatta Institute of Management (SIMMC)**
+    *   **MAH CET Cutoff**: 75-80 Percentile
+    *   **Total Fees**: ₹7.50 Lakhs
+    *   **Avg. Placement**: ₹5.50 LPA
 *   **S B Patil Institute of Management**
-*   **Lexicon Management Institute of Leadership and Excellence**
+    *   **MAH CET Cutoff**: 70-75 Percentile
+    *   **Total Fees**: ₹2.50 Lakhs
+    *   **Avg. Placement**: ₹4.50 LPA
+*   **ASM Institute of Business Management and Research**
+    *   **MAH CET Cutoff**: 80+ Percentile
+    *   **Total Fees**: ₹4.80 Lakhs
+    *   **Avg. Placement**: ₹5.00 LPA
+*   **MITCON Institute of Management**
+    *   **MAH CET Cutoff**: 75+ Percentile
+    *   **Total Fees**: ₹6.50 Lakhs
+    *   **Avg. Placement**: ₹5.50 LPA
 
 ---
 
@@ -35,16 +61,43 @@ Mumbai, the financial capital of India, is home to some of the highest-ranked B-
 
 ### Top Government / University Colleges
 *   **[Jamnalal Bajaj Institute of Management Studies (JBIMS)](/colleges/jbims-mumbai)**
-*   **Sydenham Institute of Management Studies Research and Entrepreneurship Education (SIMSREE)**
+    *   **MAH CET Cutoff**: 99.99 Percentile
+    *   **Total Fees**: ₹6.50 Lakhs
+    *   **Avg. Placement**: ₹28.00 LPA
+*   **Sydenham Institute of Management (SIMSREE)**
+    *   **MAH CET Cutoff**: 99.97 Percentile
+    *   **Total Fees**: ₹1.40 Lakhs (Best ROI)
+    *   **Avg. Placement**: ₹15.19 LPA
 *   **K J Somaiya Institute of Management**
+    *   **MAH CET Cutoff**: 98+ Percentile
+    *   **Total Fees**: ₹22.32 Lakhs
+    *   **Avg. Placement**: ₹12.45 LPA
 
 ### Good Private Colleges
-*   **Prin. L. N. Welingkar Institute of Management Development and Research (WeSchool)**
-*   **Vivekanand Education Society Institute of Management Studies and Research (VESIM)**
-*   **Durgadevi Saraf Institute of Management Studies (DSIMS)**
-*   **Lala Lajpatrai Institute of Management**
-*   **Rizvi Institute of Management Studies and Research**
+*   **Prin. L. N. Welingkar Institute of Management (WeSchool)**
+    *   **MAH CET Cutoff**: 99.3+ Percentile
+    *   **Total Fees**: ₹6.00 Lakhs (MMS) / ₹14.00 Lakhs (PGDM)
+    *   **Avg. Placement**: ₹12.00 LPA
 *   **SIES School of Business Studies**
+    *   **MAH CET Cutoff**: 98.5+ Percentile
+    *   **Total Fees**: ₹5.00 Lakhs
+    *   **Avg. Placement**: ₹8.76 LPA
+*   **Vivekanand Education Society (VESIM)**
+    *   **MAH CET Cutoff**: 97 Percentile
+    *   **Total Fees**: ₹4.50 Lakhs
+    *   **Avg. Placement**: ₹6.50 LPA
+*   **Durgadevi Saraf Institute of Management (DSIMS)**
+    *   **MAH CET Cutoff**: 95+ Percentile
+    *   **Total Fees**: ₹5.20 Lakhs
+    *   **Avg. Placement**: ₹6.00 LPA
+*   **Lala Lajpatrai Institute of Management**
+    *   **MAH CET Cutoff**: 94 Percentile
+    *   **Total Fees**: ₹3.20 Lakhs
+    *   **Avg. Placement**: ₹5.50 LPA
+*   **Rizvi Institute of Management Studies**
+    *   **MAH CET Cutoff**: 96 Percentile
+    *   **Total Fees**: ₹3.80 Lakhs
+    *   **Avg. Placement**: ₹6.00 LPA
 
 ---
 
