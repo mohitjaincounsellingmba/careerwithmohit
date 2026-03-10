@@ -32,6 +32,12 @@ export function Footer() {
             </ul>
           </div>
           <div>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Tools</h3>
+            <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/tools/resume-generator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Free Resume Builder</Link></li>
+            </ul>
+          </div>
+          <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Connect</h3>
             <ul className="space-y-4 text-base font-medium">
               <li>
