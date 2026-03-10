@@ -39,6 +39,14 @@ export async function POST(req: Request) {
 
         let leads = [];
         try {
+            // Ensure data directory exists
+            const dataDir = path.dirname(LEADS_FILE);
+            try {
+                await fs.access(dataDir);
+            } catch {
+                await fs.mkdir(dataDir, { recursive: true });
+            }
+
             const data = await fs.readFile(LEADS_FILE, 'utf-8');
             leads = JSON.parse(data);
         } catch (e) {
