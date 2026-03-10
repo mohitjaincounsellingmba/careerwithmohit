@@ -25,6 +25,7 @@ website: "https://www.jaipuria.ac.in/noida"
 Jaipuria Institute of Management, Noida is a front-runner in management education in NCR. It is known for its learner-centric pedagogy and strong corporate placement record.
 
 ### Related Articles
+- [GDPI Master Guide 2025: Topics & Solutions](/posts/gdpi-interview-topics-solutions-mba)
 - [Direct MBA Admission in India 2025](/posts/direct-mba-admission-india)
 - [Bihar Student Credit Card (DRCC) MBA Colleges](/posts/bihar-student-credit-card-mba-colleges)
 
