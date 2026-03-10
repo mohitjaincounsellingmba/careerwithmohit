@@ -105,8 +105,7 @@ export function JeeCalculator() {
 
         // Save to Leads API
         try {
-            console.log('Client: Sending lead to /api/leads from JeeCalculator');
-            const response = await fetch('/api/leads', {
+            await fetch('/api/leads', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -122,9 +121,8 @@ export function JeeCalculator() {
                     maths: stats.subjectScores.Mathematics
                 }),
             });
-            console.log('Client: API response status:', response.status);
         } catch (e) {
-            console.error('Client: Failed to save lead to API', e);
+            console.error('Failed to save lead to API');
         }
 
         window.open(`https://wa.me/919560020771?text=${message}`, '_blank');

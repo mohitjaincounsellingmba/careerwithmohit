@@ -36,8 +36,7 @@ export function InquiryForm() {
 
     // Save to Leads API
     try {
-      console.log('Client: Sending lead to /api/leads');
-      const response = await fetch('/api/leads', {
+      await fetch('/api/leads', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -51,11 +50,8 @@ export function InquiryForm() {
           course: formData.course
         }),
       });
-      console.log('Client: API response status:', response.status);
-      const resData = await response.json();
-      console.log('Client: API response data:', resData);
     } catch (e) {
-      console.error('Client: Failed to save lead to API', e);
+      console.error('Failed to save lead to API');
     }
 
     // Generate WhatsApp message
