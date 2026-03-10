@@ -6,7 +6,7 @@ import {
     Download, Table as TableIcon, Users,
     Filter, Calendar, Search, Trash2,
     ChevronLeft, ChevronRight, CheckCircle2,
-    RefreshCw, Lock
+    RefreshCw, Lock as AdminLock
 } from "lucide-react";
 
 interface Lead {
@@ -126,7 +126,7 @@ export default function AdminLeadsPage() {
                 <div className="w-full max-w-md bg-white border-8 border-foreground p-10 shadow-[16px_16px_0px_0px_rgba(0,0,0,1)]">
                     <div className="flex justify-center mb-8">
                         <div className="bg-primary p-4 border-4 border-foreground">
-                            <Lock size={40} className="text-white" />
+                            <AdminLock size={40} className="text-white" />
                         </div>
                     </div>
                     <h1 className="text-3xl font-black uppercase text-center mb-6 italic">Admin <span className="text-primary">Access</span></h1>
