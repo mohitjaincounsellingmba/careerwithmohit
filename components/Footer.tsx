@@ -28,6 +28,7 @@ export function Footer() {
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Calculators</h3>
             <ul className="space-y-4 text-base font-medium">
               <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG 2026 Calculator</Link></li>
+              <li><Link href="/calculator/jee-main-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Main 2026 Calculator</Link></li>
             </ul>
           </div>
           <div>
