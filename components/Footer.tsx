@@ -38,6 +38,16 @@ export function Footer() {
             </ul>
           </div>
           <div>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Previous Year Papers</h3>
+            <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/blog?q=cat+previous+year+papers" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CAT Papers</Link></li>
+              <li><Link href="/blog?q=xat+previous+year+papers" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">XAT Papers</Link></li>
+              <li><Link href="/blog?q=cmat+previous+year+papers" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CMAT Papers</Link></li>
+              <li><Link href="/blog?q=mah+mba+cet+previous+year+papers" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAH MBA CET Papers</Link></li>
+              <li><Link href="/blog?q=cuet+pg+previous+year+papers" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG Papers</Link></li>
+            </ul>
+          </div>
+          <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Connect</h3>
             <ul className="space-y-4 text-base font-medium">
               <li>
