@@ -19,6 +19,9 @@ export function JeeCalculator() {
         Mathematics: { correctMCQ: "", incorrectMCQ: "", correctNumerical: "" }
     });
 
+    // Response Sheet URL State
+    const [responseSheetUrl, setResponseSheetUrl] = useState("");
+
     // Lead Form State
     const [showLeadForm, setShowLeadForm] = useState(false);
     const [isUnlocked, setIsUnlocked] = useState(false);
@@ -86,12 +89,14 @@ export function JeeCalculator() {
     };
 
     const handleLeadSubmit = (e: React.FormEvent) => {
+        // Generate WhatsApp message for the lead
         e.preventDefault();
         const message = `*New JEE Main 2026 Lead*%0A%0A` +
             `*Name:* ${leadData.name}%0A` +
             `*Phone:* ${leadData.number}%0A` +
             `*Email:* ${leadData.email}%0A` +
             `*Location:* ${leadData.location}%0A` +
+            (responseSheetUrl ? `*Response Sheet URL:* ${responseSheetUrl}%0A` : "") +
             `*Total Score:* ${stats.totalScore}/300%0A` +
             `*P Score:* ${stats.subjectScores.Physics}%0A` +
             `*C Score:* ${stats.subjectScores.Chemistry}%0A` +
@@ -122,6 +127,61 @@ export function JeeCalculator() {
                     </div>
                 </div>
 
+                {/* Response Sheet URL Section */}
+                <div className="mb-12 bg-slate-50 border-4 border-foreground p-6 md:p-8">
+                    <div className="flex items-center gap-3 mb-6">
+                        <Zap className="w-6 h-6 text-primary animate-pulse" />
+                        <h3 className="text-xl font-black uppercase tracking-tight">Option 1: Auto-Calculate via Response Sheet</h3>
+                    </div>
+
+                    <div className="mb-8">
+                        <label className="block text-xs font-black uppercase text-slate-500 mb-2">Paste your NTA Response Sheet URL here</label>
+                        <div className="flex flex-col md:flex-row gap-4">
+                            <input
+                                type="url"
+                                value={responseSheetUrl}
+                                onChange={(e) => setResponseSheetUrl(e.target.value)}
+                                placeholder="https://cdn3.digialm.com///per/g01/pub/..."
+                                className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
+                            />
+                            <button
+                                onClick={() => setShowLeadForm(true)}
+                                className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+                            >
+                                Submit URL
+                            </button>
+                        </div>
+                    </div>
+
+                    <div className="border-t-2 border-slate-200 pt-6">
+                        <button
+                            onClick={(e) => {
+                                const el = (e.currentTarget.nextElementSibling as HTMLElement);
+                                el.classList.toggle('hidden');
+                            }}
+                            className="text-xs font-black uppercase text-primary hover:underline flex items-center gap-2"
+                        >
+                            <HelpCircle className="w-4 h-4" />
+                            How to get my Response Sheet URL?
+                        </button>
+                        <div className="hidden mt-4 bg-white border-2 border-slate-200 p-4 space-y-3">
+                            <ol className="list-decimal list-inside text-sm font-bold text-slate-700 space-y-2">
+                                <li>Log in to the official **NTA JEE Main portal**.</li>
+                                <li>Click on **'View Response Sheet'** button.</li>
+                                <li>The sheet will open in a new tab. **Copy the full URL** from the address bar.</li>
+                                <li>Paste it in the box above and click submit.</li>
+                            </ol>
+                            <p className="text-[10px] font-black uppercase text-slate-400">Note: We only use the URL to parse your score. Your data remains private.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="flex items-center gap-3 mb-10">
+                    <div className="h-1 flex-1 bg-slate-200"></div>
+                    <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">OR USE MANUAL INPUT</span>
+                    <div className="h-1 flex-1 bg-slate-200"></div>
+                </div>
+
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-10">
 
                     {/* Input Side */}
@@ -134,8 +194,8 @@ export function JeeCalculator() {
                                     key={sub}
                                     onClick={() => setActiveSubject(sub)}
                                     className={`flex-1 py-3 px-2 font-black uppercase text-xs sm:text-sm transition-all flex items-center justify-center gap-2 border-2 ${activeSubject === sub
-                                            ? "bg-foreground text-white border-foreground"
-                                            : "bg-white text-foreground border-transparent hover:border-slate-300"
+                                        ? "bg-foreground text-white border-foreground"
+                                        : "bg-white text-foreground border-transparent hover:border-slate-300"
                                         }`}
                                 >
                                     {sub === "Physics" && <Zap className="w-4 h-4" />}
