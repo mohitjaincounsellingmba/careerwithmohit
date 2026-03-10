@@ -25,13 +25,19 @@ export function Footer() {
             </ul>
           </div>
           <div>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Calculators</h3>
+            <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG 2026 Calculator</Link></li>
+            </ul>
+          </div>
+          <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Connect</h3>
             <ul className="space-y-4 text-base font-medium">
               <li>
-                <a 
-                  href="https://www.instagram.com/collegereviews.in" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
+                <a
+                  href="https://www.instagram.com/collegereviews.in"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="hover:text-primary flex items-center gap-2 group transition-colors"
                 >
                   <Instagram className="h-5 w-5 group-hover:scale-110 transition-transform" />
