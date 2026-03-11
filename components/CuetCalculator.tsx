@@ -8,6 +8,9 @@ export function CuetCalculator() {
     const [incorrect, setIncorrect] = useState<number | "">("");
     const [unattempted, setUnattempted] = useState<number | "">("");
 
+    // Setup calculation method to conditionally render the results UI
+    const [calculationMethod, setCalculationMethod] = useState<"manual" | "url">("manual");
+
     // Response Sheet URL State
     const [responseSheetUrl, setResponseSheetUrl] = useState("");
 
@@ -87,7 +90,15 @@ export function CuetCalculator() {
         }
 
         // Generate WhatsApp message for the lead
-        const message = `*New CUET PG Lead*%0A%0A` +
+        const message = calculationMethod === "url"
+            ? `*New CUET PG Lead (URL Submission)*%0A%0A` +
+            `*Name:* ${leadData.name}%0A` +
+            `*Phone:* ${leadData.number}%0A` +
+            `*Email:* ${leadData.email}%0A` +
+            `*Location:* ${leadData.location}%0A` +
+            `*Response Sheet URL:* ${responseSheetUrl}%0A%0A` +
+            `_Needs manual calculation mapping from Answer Key_`
+            : `*New CUET PG Lead*%0A%0A` +
             `*Name:* ${leadData.name}%0A` +
             `*Phone:* ${leadData.number}%0A` +
             `*Email:* ${leadData.email}%0A` +
@@ -133,7 +144,10 @@ export function CuetCalculator() {
                                 className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
                             />
                             <button
-                                onClick={() => setShowLeadForm(true)}
+                                onClick={() => {
+                                    setCalculationMethod("url");
+                                    setShowLeadForm(true);
+                                }}
                                 className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
                             >
                                 Submit URL
@@ -214,6 +228,19 @@ export function CuetCalculator() {
                                 Based on the 75-question pattern (300 total marks).
                             </p>
                         </div>
+
+                        {!isUnlocked && !showLeadForm && (
+                            <button
+                                onClick={() => {
+                                    setCalculationMethod("manual");
+                                    setShowLeadForm(true);
+                                }}
+                                className="w-full bg-foreground text-white border-4 border-primary px-8 py-5 text-xl font-black uppercase hover:bg-black transition-all shadow-[8px_8px_0px_0px_rgba(37,99,235,1)] flex items-center justify-center gap-3"
+                            >
+                                <Calculator className="w-6 h-6" />
+                                Predict Score & Percentile
+                            </button>
+                        )}
                     </div>
 
                     {/* Results Section */}
@@ -229,7 +256,10 @@ export function CuetCalculator() {
                                         <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Your Score is Ready!</h3>
                                         <p className="text-slate-400 font-bold mb-8">Submit your details to unlock your full score and predicted percentile.</p>
                                         <button
-                                            onClick={() => setShowLeadForm(true)}
+                                            onClick={() => {
+                                                setCalculationMethod("manual");
+                                                setShowLeadForm(true);
+                                            }}
                                             className="bg-primary text-white border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-white hover:text-primary transition-all shadow-[8px_8px_0px_0px_rgba(255,255,255,0.2)]"
                                         >
                                             Unlock Now
@@ -293,6 +323,26 @@ export function CuetCalculator() {
                                     </form>
                                 )}
                             </div>
+                        ) : calculationMethod === "url" ? (
+                            <div className="bg-blue-600 text-white p-10 border-b-[12px] border-foreground relative overflow-hidden animate-in fade-in zoom-in duration-500 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                                <div className="absolute top-0 right-0 p-4 opacity-10">
+                                    <Zap className="w-40 h-40" />
+                                </div>
+                                <div className="relative z-10 text-center space-y-6">
+                                    <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 animate-spin">
+                                        <RefreshCw className="w-8 h-8 text-white relative z-10" />
+                                    </div>
+                                    <h3 className="text-2xl md:text-3xl font-black uppercase mb-2 leading-tight">
+                                        Analyzing Response Sheet...
+                                    </h3>
+                                    <p className="text-white/80 font-bold text-sm md:text-base leading-relaxed border-t-2 border-white/20 pt-6">
+                                        We have received your NTA Response Sheet URL successfully. Our system is mapping your answers against the official key.
+                                    </p>
+                                    <div className="bg-black/30 p-4 rounded-xl border-2 border-white/10 text-sm font-black tracking-widest uppercase">
+                                        We will WhatsApp your exact score shortly! 🎓
+                                    </div>
+                                </div>
+                            </div>
                         ) : (
                             <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden animate-in fade-in zoom-in duration-500">
                                 <div className="absolute top-0 right-0 p-4 opacity-10">
@@ -309,7 +359,7 @@ export function CuetCalculator() {
                         )}
 
                         <div className="grid grid-cols-2 gap-6">
-                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${!isUnlocked ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Target className="w-4 h-4" />
                                     Accuracy
@@ -317,7 +367,7 @@ export function CuetCalculator() {
                                 <div className="text-3xl font-black text-foreground">{stats.accuracy.toFixed(1)}%</div>
                             </div>
 
-                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${!isUnlocked ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Trophy className="w-4 h-4" />
                                     Percentile
