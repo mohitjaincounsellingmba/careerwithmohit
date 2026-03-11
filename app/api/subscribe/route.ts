@@ -34,8 +34,8 @@ export async function POST(req: Request) {
         <p><em>Career with Mohit Automated Notification</em></p>
       `;
     } else if (method === 'whatsapp') {
-       subject = 'New Blog Follower (WhatsApp)! 📱';
-       htmlContent = `
+      subject = 'New Blog Follower (WhatsApp)! 📱';
+      htmlContent = `
         <h2>You have a new blog follower!</h2>
         <p>Someone just subscribed to your blog via WhatsApp.</p>
         <p><strong>WhatsApp Number:</strong> ${value}</p>
@@ -43,7 +43,7 @@ export async function POST(req: Request) {
         <p><em>Career with Mohit Automated Notification</em></p>
       `;
     } else {
-       return NextResponse.json({ error: 'Invalid method.' }, { status: 400 });
+      return NextResponse.json({ error: 'Invalid method.' }, { status: 400 });
     }
 
     // Send the email to the admin
@@ -53,6 +53,25 @@ export async function POST(req: Request) {
       subject: subject,
       html: htmlContent,
     });
+
+    // Send to Activepieces Webhook for Google Sheets tracking
+    const ACTIVEPIECES_WEBHOOK = 'https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2';
+    try {
+      await fetch(ACTIVEPIECES_WEBHOOK, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          id: Math.random().toString(36).substr(2, 9),
+          name: 'Subscriber',
+          number: method === 'whatsapp' ? value : '',
+          email: method === 'email' ? value : '',
+          source: `Newsletter (${method})`,
+          timestamp: new Date().toISOString()
+        })
+      });
+    } catch (webhookErr) {
+      console.error('Activepieces Subscription Webhook Error:', webhookErr);
+    }
 
     if (error) {
       console.error('Resend Error:', error);
