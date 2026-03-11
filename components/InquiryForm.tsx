@@ -213,6 +213,9 @@ export function InquiryForm() {
       >
         {status === 'submitting' ? 'Processing...' : 'Submit Inquiry'}
       </button>
+      <div className="mt-4 text-center">
+        <span className="text-[10px] font-black uppercase text-slate-300">System v2.1 (Fail-Silent Mode Active)</span>
+      </div>
     </form>
   );
 }
