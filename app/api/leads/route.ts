@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import fs from 'fs/promises';
 import path from 'path';
 import { Resend } from 'resend';
+import { supabase } from '@/lib/supabase';
 
 const LEADS_FILE = path.join(process.cwd(), 'data', 'leads.json');
 const ADMIN_EMAIL = 'advik.mohit.jain@gmail.com';
@@ -14,11 +15,22 @@ export async function GET(req: Request) {
     }
 
     try {
+        // 1. Try Supabase first
+        const { data: leads, error } = await supabase
+            .from('leads')
+            .select('*')
+            .order('timestamp', { ascending: false });
+
+        if (!error && leads) {
+            return NextResponse.json(leads);
+        }
+
+        // 2. Fallback to local file (for local development)
+        console.log('GET: Supabase failed or empty, falling back to local file');
         const data = await fs.readFile(LEADS_FILE, 'utf-8');
-        const leads = JSON.parse(data);
-        return NextResponse.json(leads);
+        return NextResponse.json(JSON.parse(data));
     } catch (error) {
-        return NextResponse.json([], { status: 200 });
+        return NextResponse.json([], { status: 200 }); // Return empty if all fail
     }
 }
 
@@ -42,28 +54,38 @@ export async function POST(req: Request) {
             timestamp: new Date().toISOString()
         };
 
-        const dataDir = path.dirname(LEADS_FILE);
-        console.log(`Leads API: Attempting to write to ${LEADS_FILE}`);
+        // 1. Save to Supabase (Production primary)
+        let dbSaved = false;
+        try {
+            const { error } = await supabase.from('leads').insert([newLead]);
+            if (!error) {
+                console.log(`Leads API: Successfully saved lead ${newLead.id} to Supabase`);
+                dbSaved = true;
+            } else {
+                console.error(`Supabase Error: ${error.message}`);
+            }
+        } catch (dbErr: any) {
+            console.error(`DB Connection Error: ${dbErr.message}`);
+        }
 
-        let leads = [];
+        // 2. Local File Save (Fallback/Dev)
+        const dataDir = path.dirname(LEADS_FILE);
         let fileSaved = false;
         try {
             await fs.mkdir(dataDir, { recursive: true });
+            let leads = [];
             try {
                 const data = await fs.readFile(LEADS_FILE, 'utf-8');
                 leads = JSON.parse(data);
-            } catch (e) {
-                console.log(`Leads API: Initializing new leads file`);
-            }
+            } catch (e) { }
             leads.push(newLead);
             await fs.writeFile(LEADS_FILE, JSON.stringify(leads, null, 2));
-            console.log(`Leads API: Successfully saved lead ${newLead.id} to file`);
             fileSaved = true;
         } catch (e: any) {
             console.error(`Leads API File Storage Error: ${e.message}`);
         }
 
-        // Email Backup via Resend
+        // 3. Email Backup via Resend (Critical Production Backup)
         let emailSent = false;
         if (RESEND_API_KEY) {
             try {
@@ -81,23 +103,23 @@ export async function POST(req: Request) {
                         <p><strong>Source:</strong> ${source}</p>
                         ${Object.entries(details).length > 0 ? `<p><strong>Details:</strong> ${JSON.stringify(details)}</p>` : ''}
                         <hr/>
-                        <p><em>This lead was also attempted to be saved to the Admin Dashboard.</em></p>
+                        <p><em>Lead ID: ${newLead.id}</em></p>
                     `
                 });
-                console.log(`Leads API: Email backup sent for ${newLead.id}`);
                 emailSent = true;
             } catch (err: any) {
                 console.error(`Leads API Email Error: ${err.message}`);
             }
         }
 
-        if (!fileSaved && !emailSent) {
-            throw new Error('Critical: Failed to save lead to file AND failed to send email backup.');
+        if (!dbSaved && !fileSaved && !emailSent) {
+            throw new Error('Critical: Failed to save lead to ANY storage or email.');
         }
 
         return NextResponse.json({
             success: true,
             lead: newLead,
+            database: dbSaved ? 'success' : 'failed',
             storage: fileSaved ? 'filesystem' : 'error',
             email: emailSent ? 'sent' : 'missed'
         });
@@ -105,8 +127,7 @@ export async function POST(req: Request) {
         console.error('Leads API Error:', error);
         return NextResponse.json({
             error: 'Failed to save lead',
-            details: error.message,
-            path: LEADS_FILE
+            details: error.message
         }, { status: 500 });
     }
 }
