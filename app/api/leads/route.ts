@@ -7,6 +7,7 @@ import { supabase } from '@/lib/supabase';
 const LEADS_FILE = path.join(process.cwd(), 'data', 'leads.json');
 const ADMIN_EMAIL = 'advik.mohit.jain@gmail.com';
 const RESEND_API_KEY = process.env.RESEND_API_KEY;
+const ACTIVEPIECES_WEBHOOK = 'https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2';
 
 export async function GET(req: Request) {
     const authHeader = req.headers.get('x-admin-secret');
@@ -54,7 +55,23 @@ export async function POST(req: Request) {
             timestamp: new Date().toISOString()
         };
 
-        // 1. Save to Supabase (Production primary)
+        // 1. Push to Activepieces Webhook (User's preferred method)
+        let webhookSaved = false;
+        try {
+            const webhookRes = await fetch(ACTIVEPIECES_WEBHOOK, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(newLead)
+            });
+            if (webhookRes.ok) {
+                console.log(`Leads API: Successfully pushed lead ${newLead.id} to Activepieces`);
+                webhookSaved = true;
+            }
+        } catch (webhookErr: any) {
+            console.error(`Activepieces Webhook Error: ${webhookErr.message}`);
+        }
+
+        // 2. Save to Supabase (Production primary)
         let dbSaved = false;
         try {
             const { error } = await supabase.from('leads').insert([newLead]);
@@ -68,7 +85,7 @@ export async function POST(req: Request) {
             console.error(`DB Connection Error: ${dbErr.message}`);
         }
 
-        // 2. Local File Save (Fallback/Dev)
+        // 3. Local File Save (Fallback/Dev)
         const dataDir = path.dirname(LEADS_FILE);
         let fileSaved = false;
         try {
@@ -85,7 +102,7 @@ export async function POST(req: Request) {
             console.error(`Leads API File Storage Error: ${e.message}`);
         }
 
-        // 3. Email Backup via Resend (Critical Production Backup)
+        // 4. Email Backup via Resend (Critical Production Backup)
         let emailSent = false;
         if (RESEND_API_KEY) {
             try {
@@ -112,13 +129,15 @@ export async function POST(req: Request) {
             }
         }
 
-        if (!dbSaved && !fileSaved && !emailSent) {
-            throw new Error('Critical: Failed to save lead to ANY storage or email.');
+        // Success if ANY method worked, but prioritizing Webhook/Email/DB
+        if (!webhookSaved && !dbSaved && !fileSaved && !emailSent) {
+            throw new Error('Critical: Failed to save lead to any method (Webhook, DB, File, or Email).');
         }
 
         return NextResponse.json({
             success: true,
             lead: newLead,
+            webhook: webhookSaved ? 'success' : 'failed',
             database: dbSaved ? 'success' : 'failed',
             storage: fileSaved ? 'filesystem' : 'error',
             email: emailSent ? 'sent' : 'missed'
