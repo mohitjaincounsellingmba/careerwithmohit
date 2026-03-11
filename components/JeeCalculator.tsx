@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, Beaker, Atom, FunctionSquare, HelpCircle } from "lucide-react";
+import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, Beaker, Atom, FunctionSquare, HelpCircle, X } from "lucide-react";
+import { InquiryForm } from "@/components/InquiryForm";
 
 type Subject = "Physics" | "Chemistry" | "Mathematics";
 
@@ -31,6 +32,9 @@ export function JeeCalculator() {
         email: "",
         location: ""
     });
+
+    // Inquiry popup state
+    const [showInquiry, setShowInquiry] = useState(false);
 
     const stats = useMemo(() => {
         let totalScore = 0;
@@ -340,17 +344,45 @@ export function JeeCalculator() {
                             </div>
                         </div>
 
-                        <div className="bg-primary text-white p-6 border-4 border-foreground group cursor-pointer hover:bg-black transition-colors">
+                        <button
+                            onClick={() => setShowInquiry(true)}
+                            className="w-full bg-primary text-white p-6 border-4 border-foreground group hover:bg-black transition-colors text-left"
+                        >
                             <div className="flex justify-between items-center">
                                 <div>
                                     <div className="text-xs font-black uppercase mb-1">Low Score? Don't Panic.</div>
                                     <div className="text-lg font-black uppercase">Plan Your B.Tech Admission</div>
                                 </div>
-                                <ChevronRight className="w-8 h-8 group-hover:translate-x-2 transition-transform" />
+                                <ChevronRight className="w-8 h-8 group-hover:translate-x-2 transition-transform flex-shrink-0" />
                             </div>
-                        </div>
+                        </button>
                     </div>
                 </div>
+
+                {/* Inquiry Modal */}
+                {showInquiry && (
+                    <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-foreground/60 backdrop-blur-sm animate-in fade-in duration-300">
+                        <div className="relative w-full max-w-4xl max-h-[90vh] overflow-y-auto shadow-[32px_32px_0px_0px_rgba(0,0,0,1)] border-8 border-foreground">
+                            <button
+                                onClick={() => setShowInquiry(false)}
+                                className="absolute top-4 right-4 z-[110] bg-white border-4 border-foreground p-2 hover:bg-rose-50 hover:text-rose-600 transition-colors"
+                                aria-label="Close"
+                            >
+                                <X className="h-6 w-6 stroke-[3px]" />
+                            </button>
+                            <div className="bg-white">
+                                <div className="bg-primary p-8 text-center border-b-8 border-foreground">
+                                    <h2 className="text-4xl font-black text-white uppercase italic tracking-tighter">Let Us Help You!</h2>
+                                    <p className="text-blue-50 font-bold mt-2">Share your details and plan your B.Tech admission with Mohit Jain.</p>
+                                </div>
+                                <div className="p-4 md:p-8">
+                                    <InquiryForm />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="absolute inset-0 -z-10" onClick={() => setShowInquiry(false)} />
+                    </div>
+                )}
 
                 {/* Important Note */}
                 <div className="mt-12 p-6 bg-slate-50 border-4 border-foreground flex gap-4">
