@@ -64,9 +64,9 @@ export function CuetCalculator() {
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
 
-        // Save to Leads API
+        // v2.1 silent capture
         try {
-            const response = await fetch('/api/leads', {
+            fetch('/api/leads', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -78,12 +78,7 @@ export function CuetCalculator() {
                     score: stats.score,
                     percentile: stats.percentile
                 }),
-            });
-
-            if (!response.ok) {
-                const errorData = await response.json();
-                throw new Error(`${errorData.error}${errorData.details ? ': ' + errorData.details : ''}`);
-            }
+            }).catch(err => console.error('Silent capture error:', err));
         } catch (e: any) {
             console.error('Lead Capture Error:', e);
         }

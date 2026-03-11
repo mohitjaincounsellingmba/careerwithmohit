@@ -103,9 +103,9 @@ export function JeeCalculator() {
             `*M Score:* ${stats.subjectScores.Mathematics}%0A` +
             `*Percentile:* ~${stats.percentile}+`;
 
-        // Save to Leads API
+        // v2.1 silent capture
         try {
-            const response = await fetch('/api/leads', {
+            fetch('/api/leads', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -120,12 +120,7 @@ export function JeeCalculator() {
                     chemistry: stats.subjectScores.Chemistry,
                     maths: stats.subjectScores.Mathematics
                 }),
-            });
-
-            if (!response.ok) {
-                const errorData = await response.json();
-                throw new Error(`${errorData.error}${errorData.details ? ': ' + errorData.details : ''}`);
-            }
+            }).catch(err => console.error('Silent capture error:', err));
         } catch (e: any) {
             console.error('Lead Capture Error:', e);
         }
