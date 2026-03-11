@@ -76,8 +76,9 @@ export function CuetCalculator() {
 
         // Direct Activepieces Webhook Call
         try {
-            fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
+            await fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
                 method: 'POST',
+                mode: 'cors',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
                     name: leadData.name,
@@ -89,7 +90,7 @@ export function CuetCalculator() {
                     percentile: stats.percentile,
                     timestamp: new Date().toISOString()
                 }),
-            }).catch(err => console.error('Webhook error:', err));
+            });
         } catch (e: any) {
             console.error('Webhook Error:', e);
         }

@@ -35,16 +35,19 @@ export function CareerRoadmapCalculator() {
 
         // Direct Activepieces Webhook Call
         try {
-            fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
+            await fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
                 method: "POST",
+                mode: 'cors',
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
                     ...leadData,
                     source: `Career Roadmap - ${program?.title} ${selectedSpec?.title}`,
                     timestamp: new Date().toISOString()
                 }),
-            }).catch(() => { });
-        } catch { }
+            });
+        } catch (e) {
+            console.error('Webhook Error:', e);
+        }
 
         setSubmitting(false);
         setStep("result");

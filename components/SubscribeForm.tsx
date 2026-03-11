@@ -21,6 +21,7 @@ export function SubscribeForm() {
       // Direct Activepieces Webhook Call
       await fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
         method: 'POST',
+        mode: 'cors',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           name: 'Blog Subscriber',
