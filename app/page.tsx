@@ -2,13 +2,13 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import { getSortedPostsData } from '@/lib/markdown';
 import { NEWS_ITEMS } from '@/lib/news';
-import { 
-  GraduationCap, 
-  Cpu, 
-  LineChart, 
-  Globe, 
-  Target, 
-  Handshake, 
+import {
+  GraduationCap,
+  Cpu,
+  LineChart,
+  Globe,
+  Target,
+  Handshake,
   Award,
   Plane,
   Bell,
@@ -45,7 +45,7 @@ export default function Home() {
         {/* Flat Geometric Decoration */}
         <div className="absolute top-0 right-0 -mt-20 -mr-20 h-96 w-96 rounded-full bg-white/10" />
         <div className="absolute bottom-0 left-0 -mb-20 -ml-20 h-64 w-64 rotate-45 bg-white/10" />
-        
+
         <div className="relative mx-auto max-w-7xl text-center z-10">
           <h1 className="font-display text-5xl font-extrabold tracking-tighter text-white sm:text-7xl md:text-8xl leading-none uppercase">
             Navigate Your Career <br className="hidden sm:block" />
@@ -55,8 +55,8 @@ export default function Home() {
             Expert career counselling, interview preparation, and bold strategies to help you dominate your professional goals.
           </p>
           <div className="mt-14 flex flex-col sm:flex-row items-center justify-center gap-6">
-            <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto rounded-md bg-foreground px-8 py-4 text-xl font-bold text-white transition-all hover:scale-105 hover:bg-gray-800 border-4 border-foreground text-center">
-              Connect on WhatsApp
+            <a href="/inquiry" className="w-full sm:w-auto rounded-md bg-foreground px-8 py-4 text-xl font-bold text-white transition-all hover:scale-105 hover:bg-gray-800 border-4 border-foreground text-center">
+              Book a Consultation
             </a>
             <Link href="#services" className="w-full sm:w-auto rounded-md bg-transparent px-8 py-4 text-xl font-bold text-white transition-all hover:bg-white hover:text-primary border-4 border-white text-center">
               View Our Services
@@ -81,13 +81,13 @@ export default function Home() {
               </p>
             </div>
           </div>
-          
+
           <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {SERVICES.map((service, idx) => {
               const Icon = service.icon;
               return (
-                <div 
-                  key={idx} 
+                <div
+                  key={idx}
                   className={`group relative overflow-hidden rounded-xl border-4 border-foreground ${service.color} p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer`}
                 >
                   <div className="mb-8 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white border-4 border-foreground transition-transform group-hover:scale-110">
@@ -126,8 +126,8 @@ export default function Home() {
 
           <div className="grid gap-8 lg:grid-cols-2">
             {NEWS_ITEMS.slice(0, 4).map((item) => (
-              <div 
-                key={item.id} 
+              <div
+                key={item.id}
                 className="group relative overflow-hidden rounded-xl border-4 border-foreground bg-gray-50 p-8 transition-all duration-200 hover:bg-white hover:-translate-y-1 shadow-[6px_6px_0px_0px_rgba(59,130,246,1)]"
               >
                 <div className="flex items-center gap-3 mb-4">
@@ -142,10 +142,10 @@ export default function Home() {
                   {item.title}
                 </h3>
                 <p className="text-gray-600 font-medium leading-relaxed mb-6 line-clamp-2">
-                   {item.excerpt}
+                  {item.excerpt}
                 </p>
-                <Link 
-                  href="/news" 
+                <Link
+                  href="/news"
                   className="inline-flex items-center font-bold text-primary hover:text-foreground transition-colors group-hover:translate-x-1 transition-transform"
                 >
                   Open <ArrowRight className="ml-2 h-4 w-4" />
@@ -170,9 +170,9 @@ export default function Home() {
 
           <div className="grid gap-10 lg:grid-cols-3">
             {allPostsData.slice(0, 3).map(({ slug, title, date, description }) => (
-              <Link 
-                key={slug} 
-                href={`/blog/${slug}`} 
+              <Link
+                key={slug}
+                href={`/blog/${slug}`}
                 className="group flex flex-col rounded-xl border-4 border-foreground bg-white p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 hover:bg-gray-50 h-full"
               >
                 <div className="mb-6 inline-block rounded-full bg-accent px-4 py-1 text-sm font-bold uppercase tracking-widest text-foreground border-2 border-foreground self-start">
@@ -187,7 +187,7 @@ export default function Home() {
                   </p>
                 )}
                 <div className="mt-auto flex items-center font-bold text-primary group-hover:text-foreground text-lg transition-colors">
-                  Read Article 
+                  Read Article
                   <span className="ml-2 inline-block transition-transform duration-200 group-hover:translate-x-2">&rarr;</span>
                 </div>
               </Link>

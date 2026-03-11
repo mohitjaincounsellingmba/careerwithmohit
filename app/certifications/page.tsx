@@ -112,8 +112,8 @@ const CERTIFICATIONS: Course[] = [
 export default function CertificationsPage() {
   const [activeFilter, setActiveFilter] = useState<'all' | 'free' | 'paid'>('all');
 
-  const filteredCourses = activeFilter === 'all' 
-    ? CERTIFICATIONS 
+  const filteredCourses = activeFilter === 'all'
+    ? CERTIFICATIONS
     : CERTIFICATIONS.filter(c => c.type === activeFilter);
 
   return (
@@ -128,18 +128,17 @@ export default function CertificationsPage() {
           <p className="max-w-2xl mx-auto text-2xl font-bold text-gray-700 leading-tight mb-8">
             Browse through our curated list of high-quality free certification courses.
           </p>
-          
+
           {/* Filter Bar */}
           <div className="flex flex-wrap justify-center gap-4 mt-12">
             {['all', 'free', 'paid'].map((filter) => (
               <button
                 key={filter}
                 onClick={() => setActiveFilter(filter as any)}
-                className={`px-8 py-3 text-xl font-black uppercase border-4 border-foreground transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-1 hover:translate-y-1 ${
-                  activeFilter === filter 
-                    ? 'bg-accent text-foreground' 
+                className={`px-8 py-3 text-xl font-black uppercase border-4 border-foreground transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-1 hover:translate-y-1 ${activeFilter === filter
+                    ? 'bg-accent text-foreground'
                     : 'bg-white text-gray-500 hover:text-foreground'
-                }`}
+                  }`}
               >
                 {filter}
               </button>
@@ -155,13 +154,12 @@ export default function CertificationsPage() {
             {filteredCourses.map((course) => {
               const Icon = course.icon;
               return (
-                <div 
-                  key={course.id} 
-                  className={`bg-white border-4 border-foreground p-8 relative flex flex-col h-full transition-all hover:shadow-none hover:translate-x-1 hover:translate-y-1 ${
-                    course.type === 'free' 
-                      ? 'shadow-[8px_8px_0px_0px_rgba(16,185,129,1)]' 
+                <div
+                  key={course.id}
+                  className={`bg-white border-4 border-foreground p-8 relative flex flex-col h-full transition-all hover:shadow-none hover:translate-x-1 hover:translate-y-1 ${course.type === 'free'
+                      ? 'shadow-[8px_8px_0px_0px_rgba(16,185,129,1)]'
                       : 'shadow-[8px_8px_0px_0px_rgba(244,63,94,1)]'
-                  }`}
+                    }`}
                 >
                   {/* Badge */}
                   <div className="absolute top-4 right-4 bg-foreground text-white px-3 py-0.5 text-xs font-black uppercase tracking-widest">
@@ -177,7 +175,7 @@ export default function CertificationsPage() {
                   <h3 className="text-2xl font-black text-foreground uppercase mb-2 leading-tight min-h-[3.5rem]">
                     {course.title}
                   </h3>
-                  
+
                   <div className="flex items-center gap-2 mb-6">
                     <span className="bg-gray-100 text-gray-600 px-2 py-0.5 text-xs font-bold uppercase border-2 border-foreground/10">
                       {course.duration}
@@ -211,22 +209,21 @@ export default function CertificationsPage() {
 
                   {/* CTA */}
                   {course.externalLink ? (
-                    <a 
-                      href={course.externalLink} 
-                      target="_blank" 
-                      rel="noopener noreferrer" 
+                    <a
+                      href={course.externalLink}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="block w-full text-center bg-white border-4 border-foreground py-3 text-lg font-black uppercase hover:bg-emerald-500 hover:text-white transition-colors flex items-center justify-center gap-2"
                     >
                       {course.type === 'paid' ? 'Enroll on Elearn Market' : 'Enroll on LearnVern'} <ExternalLink className="w-5 h-5" />
                     </a>
                   ) : (
-                    <a 
-                      href={course.type === 'paid' ? "https://wa.me/919560020771" : "/inquiry"} 
-                      className={`block w-full text-center border-4 border-foreground py-3 text-lg font-black uppercase transition-colors ${
-                        course.type === 'paid' 
-                          ? 'bg-foreground text-white hover:bg-red-500' 
+                    <a
+                      href="/inquiry"
+                      className={`block w-full text-center border-4 border-foreground py-3 text-lg font-black uppercase transition-colors ${course.type === 'paid'
+                          ? 'bg-foreground text-white hover:bg-red-500'
                           : 'bg-white text-foreground hover:bg-emerald-500 hover:text-white'
-                      }`}
+                        }`}
                     >
                       {course.type === 'paid' ? 'Buy Course' : 'Enroll Now'}
                     </a>
@@ -235,11 +232,11 @@ export default function CertificationsPage() {
               );
             })}
           </div>
-          
+
           {filteredCourses.length === 0 && (
-             <div className="text-center py-20">
-               <h3 className="text-3xl font-black text-gray-400 uppercase">No courses found matching this filter.</h3>
-             </div>
+            <div className="text-center py-20">
+              <h3 className="text-3xl font-black text-gray-400 uppercase">No courses found matching this filter.</h3>
+            </div>
           )}
         </div>
       </section>
@@ -248,9 +245,9 @@ export default function CertificationsPage() {
       <section className="bg-foreground text-white py-20 px-6 sm:px-12 border-t-8 border-foreground">
         <div className="mx-auto max-w-4xl text-center">
           <div className="flex justify-center flex-wrap gap-8 mb-10 overflow-hidden opacity-50">
-             <div className="font-black text-2xl uppercase italic whitespace-nowrap">Collaborative Learning</div>
-             <div className="font-black text-2xl uppercase italic whitespace-nowrap">Industry Certified</div>
-             <div className="font-black text-2xl uppercase italic whitespace-nowrap">Career Growth</div>
+            <div className="font-black text-2xl uppercase italic whitespace-nowrap">Collaborative Learning</div>
+            <div className="font-black text-2xl uppercase italic whitespace-nowrap">Industry Certified</div>
+            <div className="font-black text-2xl uppercase italic whitespace-nowrap">Career Growth</div>
           </div>
           <h2 className="font-display text-3xl font-black uppercase mb-6">Need a custom learning path?</h2>
           <Link href="/inquiry" className="inline-block bg-white text-foreground border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-primary hover:text-white transition-all transform hover:scale-110">

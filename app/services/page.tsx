@@ -1,11 +1,11 @@
 import Link from 'next/link';
-import { 
-  GraduationCap, 
-  Cpu, 
-  LineChart, 
-  Globe, 
-  Target, 
-  Handshake, 
+import {
+  GraduationCap,
+  Cpu,
+  LineChart,
+  Globe,
+  Target,
+  Handshake,
   Award,
   Plane
 } from 'lucide-react';
@@ -44,13 +44,13 @@ export default function ServicesPage() {
             </p>
           </div>
         </div>
-        
+
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mb-24">
           {SERVICES.map((service, idx) => {
             const Icon = service.icon;
             return (
-              <div 
-                key={idx} 
+              <div
+                key={idx}
                 className={`group relative overflow-hidden rounded-xl border-4 border-foreground ${service.color} p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer`}
               >
                 <div className="mb-8 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white border-4 border-foreground transition-transform group-hover:scale-110">
@@ -74,8 +74,8 @@ export default function ServicesPage() {
           <p className="text-emerald-50 text-xl font-medium mb-10 max-w-2xl mx-auto leading-relaxed">
             Book a 1-on-1 session to discuss your specific career challenges and build an actionable roadmap.
           </p>
-          <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="inline-flex h-14 items-center justify-center bg-white border-4 border-foreground px-10 py-2 text-xl font-bold text-foreground transition-all hover:bg-gray-100 hover:scale-105 hover:-translate-y-1">
-            Connect on WhatsApp
+          <a href="/inquiry" className="inline-flex h-14 items-center justify-center bg-white border-4 border-foreground px-10 py-2 text-xl font-bold text-foreground transition-all hover:bg-gray-100 hover:scale-105 hover:-translate-y-1">
+            Book Appointment
           </a>
         </div>
       </div>

@@ -289,4 +289,4 @@ In this guide, we break down the **top recruiters, average packages, and key ski
 
 **Talk to our experts for a free career counselling session:**
 
-[👉 Get Free Counselling](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)

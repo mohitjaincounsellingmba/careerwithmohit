@@ -26,11 +26,11 @@ export default function NewsPage() {
             </p>
           </div>
         </div>
-        
+
         <div className="grid gap-10">
           {NEWS_ITEMS.map((item) => (
-            <article 
-              key={item.id} 
+            <article
+              key={item.id}
               className="group flex flex-col sm:flex-row gap-8 rounded-xl border-4 border-foreground bg-white p-8 sm:p-10 transition-all duration-200 hover:scale-[1.01] hover:bg-gray-50"
             >
               <div className="sm:w-1/4 flex-shrink-0">
@@ -42,7 +42,7 @@ export default function NewsPage() {
                   <time>{item.date}</time>
                 </div>
               </div>
-              
+
               <div className="sm:w-3/4 flex flex-col justify-center">
                 <h2 className="font-display text-3xl font-extrabold tracking-tight text-foreground mb-4 group-hover:text-primary transition-colors leading-tight">
                   <Link href={item.link}>{item.title}</Link>
@@ -57,15 +57,15 @@ export default function NewsPage() {
         </div>
 
         <div className="mt-24 rounded-xl bg-amber-400 border-4 border-foreground p-10 sm:p-16 text-center max-w-4xl mx-auto flex flex-col items-center">
-           <h3 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-foreground mb-6 uppercase">
-             Information Overload?
-           </h3>
-           <p className="text-gray-900 text-xl font-medium mb-10 max-w-2xl">
-             Speak with our experts to get personalized, no-nonsense advice on navigating the latest admission requirements.
-           </p>
-           <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="inline-flex h-14 items-center justify-center bg-white border-4 border-foreground px-10 py-2 text-xl font-bold text-foreground transition-all hover:bg-gray-100 hover:scale-105 hover:-translate-y-1">
-              Connect on WhatsApp
-           </a>
+          <h3 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-foreground mb-6 uppercase">
+            Information Overload?
+          </h3>
+          <p className="text-gray-900 text-xl font-medium mb-10 max-w-2xl">
+            Speak with our experts to get personalized, no-nonsense advice on navigating the latest admission requirements.
+          </p>
+          <a href="/inquiry" className="inline-flex h-14 items-center justify-center bg-white border-4 border-foreground px-10 py-2 text-xl font-bold text-foreground transition-all hover:bg-gray-100 hover:scale-105 hover:-translate-y-1">
+            Book Appointment
+          </a>
         </div>
       </div>
     </div>

@@ -68,4 +68,4 @@ Choosing CUET PG can be a bold, strategic move:
 **Confused about your application strategy?**
 Don't guess. Build a winning roadmap with us. 
 
-[👉 Book My Session](/inquiry) | [💬 Chat with Mohit](https://wa.me/919560020771)
+[👉 Book My Session](/inquiry) | [💬 Book Private Session](/inquiry)

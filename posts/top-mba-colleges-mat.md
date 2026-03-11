@@ -89,4 +89,4 @@ Unlike CAT, which is a once-a-year battle, MAT gives you **multiple chances** to
 **Confused about which MAT college fits your profile?**
 Let’s build your admission roadmap together. 
 
-[👉 Book My Session](/inquiry) | [💬 Chat with Mohit](https://wa.me/919560020771)
+[👉 Book My Session](/inquiry) | [💬 Book Private Session](/inquiry)

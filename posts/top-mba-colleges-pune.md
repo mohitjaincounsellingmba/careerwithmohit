@@ -77,4 +77,4 @@ Modern campus with massive industry exposure and a global curriculum.
 **Confused about your application strategy?**
 Let’s build your admission roadmap together. 
 
-[👉 Book My Session](/inquiry) | [💬 Chat with Mohit](https://wa.me/919560020771)
+[👉 Book My Session](/inquiry) | [💬 Book Private Session](/inquiry)

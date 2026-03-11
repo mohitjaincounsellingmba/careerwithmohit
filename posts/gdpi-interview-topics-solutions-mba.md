@@ -105,4 +105,4 @@ If you are preparing for final placements, keep these bullet points in mind:
 **Need personalized GDPI coaching to secure your dream B-school or placement?**
 Our experts provide mock interviews and feedback tailored to your profile.
 
-[👉 Get Free Counselling](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)

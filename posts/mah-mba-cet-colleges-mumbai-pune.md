@@ -110,4 +110,4 @@ Mumbai, the financial capital of India, is home to some of the highest-ranked B-
 **Confused about the CAP round process or which college fits your percentile?**
 Our experts help you navigate the admission journey with 100% transparency.
 
-[👉 Get Free Counselling](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)

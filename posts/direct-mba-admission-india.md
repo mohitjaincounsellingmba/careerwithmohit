@@ -102,4 +102,4 @@ Direct admission doesn't mean "anyone can get in." Top colleges still follow a r
 **Confused about which college is right for your profile?**
 Our experts help you navigate the management quota process with 100% transparency.
 
-[👉 Get Free Counselling](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)

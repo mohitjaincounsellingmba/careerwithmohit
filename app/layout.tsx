@@ -80,7 +80,6 @@ export default function RootLayout({
     "jobTitle": "Career Counsellor & MBA Admissions Expert",
     "description": "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
     "sameAs": [
-      "https://wa.me/919560020771",
       // Add other social profiles here
     ]
   };

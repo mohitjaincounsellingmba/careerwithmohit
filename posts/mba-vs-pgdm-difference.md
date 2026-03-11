@@ -55,4 +55,4 @@ In this guide, we break down **12 key differences** to help you decide which pat
 > **Still confused about the right choice for your profile?**
 > A degree or a diploma is just the start. Let's map out which specific college will give you the best ROI for your career.
 
-[👉 Get Free Counselling](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)

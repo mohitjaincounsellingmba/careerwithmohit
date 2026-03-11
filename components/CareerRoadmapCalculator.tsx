@@ -325,12 +325,12 @@ export function CareerRoadmapCalculator() {
                                 <div className="text-2xl font-black uppercase leading-tight">Get a Personalized Career Plan</div>
                                 <p className="text-slate-400 font-bold text-sm mt-1">Talk to Mohit Jain — MBA admissions & career expert</p>
                             </div>
-                            <button
-                                onClick={() => window.open("https://wa.me/919560020771?text=Hi%2C%20I%20just%20used%20the%20Career%20Roadmap%20Calculator%20and%20want%20expert%20guidance.", "_blank")}
+                            <a
+                                href="/inquiry"
                                 className="bg-primary text-white border-4 border-white px-8 py-4 font-black uppercase tracking-widest hover:bg-white hover:text-primary transition-all flex items-center gap-3 flex-shrink-0"
                             >
                                 <Zap className="w-5 h-5" /> Book Free Call
-                            </button>
+                            </a>
                         </div>
                     </div>
                 )}

@@ -132,4 +132,4 @@ If you want the best placement-to-fee ratio (ROI), prioritize **USMS**, **MAIT**
 > **Need help picking the right IPU college?**
 > Don't gamble with your career. Get a personalized roadmap and admission strategy from Mohit Jain.
 
-[👉 Get Free Counselling](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)

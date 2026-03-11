@@ -197,4 +197,4 @@ In this guide, we provide a **complete city-wise list of private MBA/PGDM colleg
 **Need help choosing the right college and applying for your Bihar Student Credit Card?**
 We have helped 500+ Bihar students successfully secure their DRCC loan and get into top MBA colleges.
 
-[👉 Get Free Counselling](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)

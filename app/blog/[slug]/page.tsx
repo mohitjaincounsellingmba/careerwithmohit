@@ -203,8 +203,8 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             Get uncompromised, expert guidance to dominate your academic and professional goals.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
-            <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto inline-flex h-20 items-center justify-center bg-white border-4 border-foreground px-12 text-2xl font-black text-foreground transition-all hover:bg-accent hover:translate-x-2 hover:-translate-y-2 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] uppercase">
-              WhatsApp Now
+            <a href="/inquiry" className="w-full sm:w-auto inline-flex h-20 items-center justify-center bg-white border-4 border-foreground px-12 text-2xl font-black text-foreground transition-all hover:bg-accent hover:translate-x-2 hover:-translate-y-2 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] uppercase">
+              Get Personal Recommendations
             </a>
             <Link href="/inquiry" className="w-full sm:w-auto inline-flex h-20 items-center justify-center bg-transparent border-4 border-white px-12 text-2xl font-black text-white transition-all hover:bg-white hover:text-primary uppercase">
               Inquiry Form
