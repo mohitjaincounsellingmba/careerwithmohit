@@ -42,7 +42,7 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
             }
         } catch (e: any) {
             console.error('Lead Capture Error:', e);
-            alert(`Debug: Lead capture failed. Error: ${e.message}`);
+            // Even if API fails, we proceed to onSuccess (e.g. to allow download)
         }
 
         // Generate WhatsApp message

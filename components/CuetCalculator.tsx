@@ -86,7 +86,6 @@ export function CuetCalculator() {
             }
         } catch (e: any) {
             console.error('Lead Capture Error:', e);
-            alert(`Debug: Lead capture failed. Error: ${e.message}`);
         }
 
         // Generate WhatsApp message for the lead

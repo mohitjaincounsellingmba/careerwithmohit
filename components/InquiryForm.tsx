@@ -57,9 +57,7 @@ export function InquiryForm() {
       }
     } catch (e: any) {
       console.error('Lead Capture Error:', e);
-      // We don't want to block the user from WhatsApp, but we want to know it failed
-      // Temporarily alert during debugging
-      alert(`Debug: Lead capture failed. Error: ${e.message}`);
+      // We don't want to block the user from WhatsApp even if API fails
     }
 
     // Generate WhatsApp message

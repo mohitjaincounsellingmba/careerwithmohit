@@ -128,7 +128,6 @@ export function JeeCalculator() {
             }
         } catch (e: any) {
             console.error('Lead Capture Error:', e);
-            alert(`Debug: Lead capture failed. Error: ${e.message}`);
         }
 
         window.open(`https://wa.me/919560020771?text=${message}`, '_blank');
