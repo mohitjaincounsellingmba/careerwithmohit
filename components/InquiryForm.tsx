@@ -30,37 +30,34 @@ export function InquiryForm() {
     course: ''
   });
 
+  // v2.1 - Clean redirect to WhatsApp, silent lead capture
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus('submitting');
 
-    // Save to Leads API
+    const leadPayload = {
+      name: formData.name,
+      number: formData.number,
+      email: formData.email,
+      location: formData.location,
+      source: `Direct Inquiry (${formData.course})`,
+      budget: formData.budget,
+      preferredLocation: formData.preferredLocation,
+      course: formData.course
+    };
+
+    // 1. Silent Background Lead Capture
     try {
-      const response = await fetch('/api/leads', {
+      fetch('/api/leads', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          name: formData.name,
-          number: formData.number,
-          email: formData.email,
-          location: formData.location,
-          source: `Direct Inquiry (${formData.course})`,
-          budget: formData.budget,
-          preferredLocation: formData.preferredLocation,
-          course: formData.course
-        }),
-      });
-
-      if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(`${errorData.error}${errorData.details ? ': ' + errorData.details : ''}`);
-      }
-    } catch (e: any) {
-      console.error('Lead Capture Error:', e);
-      // We don't want to block the user from WhatsApp even if API fails
+        body: JSON.stringify(leadPayload),
+      }).catch(err => console.error('Silent capture error:', err));
+    } catch (e) {
+      console.error('Lead Capture Fetch Error:', e);
     }
 
-    // Generate WhatsApp message
+    // 2. Generate WhatsApp message
     const message = `*New Inquiry from careerwithmohit.com*%0A%0A` +
       `*Name:* ${formData.name}%0A` +
       `*Phone:* ${formData.number}%0A` +
@@ -72,21 +69,23 @@ export function InquiryForm() {
 
     const whatsappUrl = `https://wa.me/919560020771?text=${message}`;
 
-    // Open WhatsApp in a new tab
-    window.open(whatsappUrl, '_blank');
-
+    // 3. Immedate Redirect/Success state
     setStatus('success');
-    setFormData({
-      name: '',
-      number: '',
-      email: '',
-      location: '',
-      preferredLocation: '',
-      budget: '',
-      course: ''
-    });
-  };
 
+    // Open WhatsApp after a brief delay to show success state
+    setTimeout(() => {
+      window.open(whatsappUrl, '_blank');
+      setFormData({
+        name: '',
+        number: '',
+        email: '',
+        location: '',
+        preferredLocation: '',
+        budget: '',
+        course: ''
+      });
+    }, 500);
+  };
   if (status === 'success') {
     return (
       <div className="bg-emerald-50 border-8 border-foreground p-12 text-center rounded-xl shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
