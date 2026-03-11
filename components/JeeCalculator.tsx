@@ -93,23 +93,11 @@ export function JeeCalculator() {
     };
 
     const handleLeadSubmit = async (e: React.FormEvent) => {
-        // Generate WhatsApp message for the lead
         e.preventDefault();
-        const message = `*New JEE Main 2026 Lead*%0A%0A` +
-            `*Name:* ${leadData.name}%0A` +
-            `*Phone:* ${leadData.number}%0A` +
-            `*Email:* ${leadData.email}%0A` +
-            `*Location:* ${leadData.location}%0A` +
-            (responseSheetUrl ? `*Response Sheet URL:* ${responseSheetUrl}%0A` : "") +
-            `*Total Score:* ${stats.totalScore}/300%0A` +
-            `*P Score:* ${stats.subjectScores.Physics}%0A` +
-            `*C Score:* ${stats.subjectScores.Chemistry}%0A` +
-            `*M Score:* ${stats.subjectScores.Mathematics}%0A` +
-            `*Percentile:* ~${stats.percentile}+`;
 
-        // v2.1 silent capture
+        // Direct Activepieces Webhook Call
         try {
-            fetch('/api/leads', {
+            fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -122,14 +110,14 @@ export function JeeCalculator() {
                     percentile: stats.percentile,
                     physics: stats.subjectScores.Physics,
                     chemistry: stats.subjectScores.Chemistry,
-                    maths: stats.subjectScores.Mathematics
+                    maths: stats.subjectScores.Mathematics,
+                    timestamp: new Date().toISOString()
                 }),
-            }).catch(err => console.error('Silent capture error:', err));
+            }).catch(err => console.error('Webhook error:', err));
         } catch (e: any) {
-            console.error('Lead Capture Error:', e);
+            console.error('Webhook Error:', e);
         }
 
-        window.open(`https://wa.me/919560020771?text=${message}`, '_blank');
         setIsUnlocked(true);
         setShowLeadForm(false);
     };

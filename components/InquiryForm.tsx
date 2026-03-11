@@ -30,7 +30,7 @@ export function InquiryForm() {
     course: ''
   });
 
-  // v2.1 - Clean redirect to WhatsApp, silent lead capture
+  // v3.0 - Activepieces Webhook Only (Clean & Direct)
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus('submitting');
@@ -43,48 +43,32 @@ export function InquiryForm() {
       source: `Direct Inquiry (${formData.course})`,
       budget: formData.budget,
       preferredLocation: formData.preferredLocation,
-      course: formData.course
+      course: formData.course,
+      timestamp: new Date().toISOString()
     };
 
-    // 1. Silent Background Lead Capture
+    // 1. Direct Activepieces Webhook Call
     try {
-      fetch('/api/leads', {
+      await fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(leadPayload),
-      }).catch(err => console.error('Silent capture error:', err));
+      });
     } catch (e) {
-      console.error('Lead Capture Fetch Error:', e);
+      console.error('Activepieces Webhook Error:', e);
     }
 
-    // 2. Generate WhatsApp message
-    const message = `*New Inquiry from careerwithmohit.com*%0A%0A` +
-      `*Name:* ${formData.name}%0A` +
-      `*Phone:* ${formData.number}%0A` +
-      `*Email:* ${formData.email}%0A` +
-      `*Current Location:* ${formData.location}%0A` +
-      `*Preferred Location:* ${formData.preferredLocation}%0A` +
-      `*Budget:* ${formData.budget}%0A` +
-      `*Course:* ${formData.course}`;
-
-    const whatsappUrl = `https://wa.me/919560020771?text=${message}`;
-
-    // 3. Immedate Redirect/Success state
+    // 2. Clear state and show success
     setStatus('success');
-
-    // Open WhatsApp after a brief delay to show success state
-    setTimeout(() => {
-      window.open(whatsappUrl, '_blank');
-      setFormData({
-        name: '',
-        number: '',
-        email: '',
-        location: '',
-        preferredLocation: '',
-        budget: '',
-        course: ''
-      });
-    }, 500);
+    setFormData({
+      name: '',
+      number: '',
+      email: '',
+      location: '',
+      preferredLocation: '',
+      budget: '',
+      course: ''
+    });
   };
   if (status === 'success') {
     return (

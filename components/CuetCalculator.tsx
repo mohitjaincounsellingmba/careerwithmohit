@@ -74,9 +74,9 @@ export function CuetCalculator() {
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
 
-        // v2.1 silent capture
+        // Direct Activepieces Webhook Call
         try {
-            fetch('/api/leads', {
+            fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -86,33 +86,13 @@ export function CuetCalculator() {
                     location: leadData.location,
                     source: `CUET PG 2026 Calculator`,
                     score: stats.score,
-                    percentile: stats.percentile
+                    percentile: stats.percentile,
+                    timestamp: new Date().toISOString()
                 }),
-            }).catch(err => console.error('Silent capture error:', err));
+            }).catch(err => console.error('Webhook error:', err));
         } catch (e: any) {
-            console.error('Lead Capture Error:', e);
+            console.error('Webhook Error:', e);
         }
-
-        // Generate WhatsApp message for the lead
-        const message = calculationMethod === "url"
-            ? `*New CUET PG Lead (URL Submission)*%0A%0A` +
-            `*Name:* ${leadData.name}%0A` +
-            `*Phone:* ${leadData.number}%0A` +
-            `*Email:* ${leadData.email}%0A` +
-            `*Location:* ${leadData.location}%0A` +
-            `*Response Sheet URL:* ${responseSheetUrl}%0A%0A` +
-            `_Needs manual calculation mapping from Answer Key_`
-            : `*New CUET PG Lead*%0A%0A` +
-            `*Name:* ${leadData.name}%0A` +
-            `*Phone:* ${leadData.number}%0A` +
-            `*Email:* ${leadData.email}%0A` +
-            `*Location:* ${leadData.location}%0A` +
-            (responseSheetUrl ? `*Response Sheet URL:* ${responseSheetUrl}%0A` : "") +
-            `*Calculated Score:* ${stats.score}%0A` +
-            `*Percentile:* ~${stats.percentile}+`;
-
-        const whatsappUrl = `https://wa.me/919560020771?text=${message}`;
-        window.open(whatsappUrl, '_blank');
 
         setIsUnlocked(true);
         setShowLeadForm(false);

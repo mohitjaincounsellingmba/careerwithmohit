@@ -55,7 +55,7 @@ export async function POST(req: Request) {
     });
 
     // Send to Activepieces Webhook for Google Sheets tracking
-    const ACTIVEPIECES_WEBHOOK = 'https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2';
+    const ACTIVEPIECES_WEBHOOK = 'https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4';
     try {
       await fetch(ACTIVEPIECES_WEBHOOK, {
         method: 'POST',

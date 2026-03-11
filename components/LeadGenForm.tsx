@@ -22,9 +22,9 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
         e.preventDefault();
         setStatus('submitting');
 
-        // Save to Leads API
+        // Direct Activepieces Webhook Call
         try {
-            const response = await fetch('/api/leads', {
+            fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -32,31 +32,13 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
                     number: formData.number,
                     email: formData.email,
                     location: formData.location,
-                    source: `Resource Download: ${resourceName}`
+                    source: `Resource Download: ${resourceName}`,
+                    timestamp: new Date().toISOString()
                 }),
-            });
-
-            if (!response.ok) {
-                const errorData = await response.json();
-                throw new Error(`${errorData.error}${errorData.details ? ': ' + errorData.details : ''}`);
-            }
+            }).catch(err => console.error('Webhook error:', err));
         } catch (e: any) {
-            console.error('Lead Capture Error:', e);
-            // Even if API fails, we proceed to onSuccess (e.g. to allow download)
+            console.error('Webhook Error:', e);
         }
-
-        // Generate WhatsApp message
-        const message = `*CAT/Exam Paper Download Lead*%0A%0A` +
-            `*Resource:* ${resourceName}%0A` +
-            `*Name:* ${formData.name}%0A` +
-            `*Phone:* ${formData.number}%0A` +
-            `*Email:* ${formData.email}%0A` +
-            `*Location:* ${formData.location}`;
-
-        const whatsappUrl = `https://wa.me/919560020771?text=${message}`;
-
-        // Open WhatsApp in a new tab
-        window.open(whatsappUrl, '_blank');
 
         setStatus('success');
         setTimeout(() => {

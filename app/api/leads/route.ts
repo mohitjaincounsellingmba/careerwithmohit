@@ -6,7 +6,7 @@ import { Resend } from 'resend';
 const LEADS_FILE = path.join(process.cwd(), 'data', 'leads.json');
 const ADMIN_EMAIL = 'advik.mohit.jain@gmail.com';
 const RESEND_API_KEY = process.env.RESEND_API_KEY;
-const ACTIVEPIECES_WEBHOOK = 'https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2';
+const ACTIVEPIECES_WEBHOOK = 'https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4';
 
 export async function GET(req: Request) {
     const authHeader = req.headers.get('x-admin-secret');

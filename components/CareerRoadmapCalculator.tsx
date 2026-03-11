@@ -32,27 +32,20 @@ export function CareerRoadmapCalculator() {
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
         setSubmitting(true);
-        const message =
-            `*New Career Roadmap Lead*%0A%0A` +
-            `*Name:* ${leadData.name}%0A` +
-            `*Phone:* ${leadData.number}%0A` +
-            `*Email:* ${leadData.email}%0A` +
-            `*Location:* ${leadData.location}%0A` +
-            `*Program:* ${program?.title}%0A` +
-            `*Specialization:* ${selectedSpec?.title}`;
 
+        // Direct Activepieces Webhook Call
         try {
-            fetch("/api/leads", {
+            fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
                     ...leadData,
                     source: `Career Roadmap - ${program?.title} ${selectedSpec?.title}`,
+                    timestamp: new Date().toISOString()
                 }),
             }).catch(() => { });
         } catch { }
 
-        window.open(`https://wa.me/919560020771?text=${message}`, "_blank");
         setSubmitting(false);
         setStep("result");
     };

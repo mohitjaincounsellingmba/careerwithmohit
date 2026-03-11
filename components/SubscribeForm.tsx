@@ -18,34 +18,18 @@ export function SubscribeForm() {
     setErrorObj(null);
 
     try {
-      const res = await fetch('/api/subscribe', {
+      // Direct Activepieces Webhook Call
+      await fetch('https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ method, value }),
+        body: JSON.stringify({
+          name: 'Blog Subscriber',
+          value: value,
+          method: method,
+          source: `Blog Subscription (${method})`,
+          timestamp: new Date().toISOString()
+        }),
       });
-
-      const data = await res.json();
-
-      if (!res.ok) {
-        throw new Error(data.error || 'Failed to subscribe');
-      }
-
-      // Save to Leads API
-      try {
-        await fetch('/api/leads', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            name: 'Blog Subscriber',
-            number: method === 'whatsapp' ? value : 'N/A',
-            email: method === 'email' ? value : 'N/A',
-            location: 'Newsletter',
-            source: `Blog Subscription (${method})`
-          }),
-        });
-      } catch (e) {
-        console.error('Failed to save lead to API');
-      }
 
       setIsSuccess(true);
       setValue('');
@@ -88,8 +72,8 @@ export function SubscribeForm() {
               <button
                 onClick={() => setMethod('email')}
                 className={`flex items-center gap-2 rounded-md px-4 py-2 font-bold text-sm transition-all ${method === 'email'
-                    ? 'bg-primary text-white shadow-md'
-                    : 'bg-gray-100 text-gray-500 hover:bg-gray-200 hover:text-foreground'
+                  ? 'bg-primary text-white shadow-md'
+                  : 'bg-gray-100 text-gray-500 hover:bg-gray-200 hover:text-foreground'
                   }`}
               >
                 <Mail className="h-4 w-4" />
@@ -98,8 +82,8 @@ export function SubscribeForm() {
               <button
                 onClick={() => setMethod('whatsapp')}
                 className={`flex items-center gap-2 rounded-md px-4 py-2 font-bold text-sm transition-all ${method === 'whatsapp'
-                    ? 'bg-[#25D366] text-white shadow-md'
-                    : 'bg-gray-100 text-gray-500 hover:bg-[#25D366]/20 hover:text-[#25D366]'
+                  ? 'bg-[#25D366] text-white shadow-md'
+                  : 'bg-gray-100 text-gray-500 hover:bg-[#25D366]/20 hover:text-[#25D366]'
                   }`}
               >
                 <MessageCircle className="h-4 w-4" />
