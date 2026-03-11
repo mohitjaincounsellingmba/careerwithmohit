@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle } from "lucide-react";
+import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X } from "lucide-react";
+import { InquiryForm } from "@/components/InquiryForm";
 
 export function CuetCalculator() {
     const [correct, setCorrect] = useState<number | "">("");
@@ -10,6 +11,9 @@ export function CuetCalculator() {
 
     // Setup calculation method to conditionally render the results UI
     const [calculationMethod, setCalculationMethod] = useState<"manual" | "url">("manual");
+
+    // Inquiry popup state
+    const [showInquiry, setShowInquiry] = useState(false);
 
     // Response Sheet URL State
     const [responseSheetUrl, setResponseSheetUrl] = useState("");
@@ -376,16 +380,44 @@ export function CuetCalculator() {
                             </div>
                         </div>
 
-                        <div className="bg-primary text-white p-8 border-4 border-foreground flex items-center justify-between group cursor-pointer hover:bg-black transition-colors">
+                        <button
+                            onClick={() => setShowInquiry(true)}
+                            className="w-full bg-primary text-white p-8 border-4 border-foreground flex items-center justify-between group cursor-pointer hover:bg-black transition-colors text-left"
+                        >
                             <div>
                                 <div className="text-sm font-black uppercase tracking-widest mb-1">Targeting Top B-Schools?</div>
                                 <div className="text-xl font-black uppercase">Speak to Mohit Jain Now</div>
                             </div>
-                            <ChevronRight className="w-8 h-8 group-hover:translate-x-2 transition-transform" />
-                        </div>
+                            <ChevronRight className="w-8 h-8 group-hover:translate-x-2 transition-transform flex-shrink-0" />
+                        </button>
                     </div>
                 </div>
             </div>
+
+            {/* Inquiry Modal */}
+            {showInquiry && (
+                <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-foreground/60 backdrop-blur-sm animate-in fade-in duration-300">
+                    <div className="relative w-full max-w-4xl max-h-[90vh] overflow-y-auto shadow-[32px_32px_0px_0px_rgba(0,0,0,1)] border-8 border-foreground">
+                        <button
+                            onClick={() => setShowInquiry(false)}
+                            className="absolute top-4 right-4 z-[110] bg-white border-4 border-foreground p-2 hover:bg-rose-50 hover:text-rose-600 transition-colors"
+                            aria-label="Close"
+                        >
+                            <X className="h-6 w-6 stroke-[3px]" />
+                        </button>
+                        <div className="bg-white">
+                            <div className="bg-primary p-8 text-center border-b-8 border-foreground">
+                                <h2 className="text-4xl font-black text-white uppercase italic tracking-tighter">Ready to Level Up?</h2>
+                                <p className="text-blue-50 font-bold mt-2">Share your details and let our experts guide your career journey.</p>
+                            </div>
+                            <div className="p-4 md:p-8">
+                                <InquiryForm />
+                            </div>
+                        </div>
+                    </div>
+                    <div className="absolute inset-0 -z-10" onClick={() => setShowInquiry(false)} />
+                </div>
+            )}
 
             {/* Percentile Table Section */}
             <div className="mt-20">

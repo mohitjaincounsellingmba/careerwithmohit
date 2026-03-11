@@ -2,7 +2,6 @@ import { NextResponse } from 'next/server';
 import fs from 'fs/promises';
 import path from 'path';
 import { Resend } from 'resend';
-import { supabase } from '@/lib/supabase';
 
 const LEADS_FILE = path.join(process.cwd(), 'data', 'leads.json');
 const ADMIN_EMAIL = 'advik.mohit.jain@gmail.com';
@@ -16,18 +15,6 @@ export async function GET(req: Request) {
     }
 
     try {
-        // 1. Try Supabase first
-        const { data: leads, error } = await supabase
-            .from('leads')
-            .select('*')
-            .order('timestamp', { ascending: false });
-
-        if (!error && leads) {
-            return NextResponse.json(leads);
-        }
-
-        // 2. Fallback to local file (for local development)
-        console.log('GET: Supabase failed or empty, falling back to local file');
         const data = await fs.readFile(LEADS_FILE, 'utf-8');
         return NextResponse.json(JSON.parse(data));
     } catch (error) {
@@ -71,21 +58,7 @@ export async function POST(req: Request) {
             console.error(`Activepieces Webhook Error: ${webhookErr.message}`);
         }
 
-        // 2. Save to Supabase (Production primary)
-        let dbSaved = false;
-        try {
-            const { error } = await supabase.from('leads').insert([newLead]);
-            if (!error) {
-                console.log(`Leads API: Successfully saved lead ${newLead.id} to Supabase`);
-                dbSaved = true;
-            } else {
-                console.error(`Supabase Error: ${error.message}`);
-            }
-        } catch (dbErr: any) {
-            console.error(`DB Connection Error: ${dbErr.message}`);
-        }
-
-        // 3. Local File Save (Fallback/Dev)
+        // 2. Local File Save (Fallback/Dev)
         const dataDir = path.dirname(LEADS_FILE);
         let fileSaved = false;
         try {
@@ -130,7 +103,7 @@ export async function POST(req: Request) {
         }
 
         // v2.1 - Enhanced Resilience: Succeed if at least one method (like Webhook) worked
-        if (!webhookSaved && !dbSaved && !fileSaved && !emailSent) {
+        if (!webhookSaved && !fileSaved && !emailSent) {
             console.error('CRITICAL: Lead capture failed on ALL methods.');
             // We still return a 200/success to avoid triggering debug alerts on cached clients 
             // since the lead is likely already on WhatsApp anyway.
@@ -140,7 +113,6 @@ export async function POST(req: Request) {
             success: true,
             lead: newLead,
             webhook: webhookSaved ? 'success' : 'failed',
-            database: dbSaved ? 'success' : 'failed',
             storage: fileSaved ? 'filesystem' : 'error',
             email: emailSent ? 'sent' : 'missed'
         });
