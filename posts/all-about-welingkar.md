@@ -2,6 +2,7 @@
 title: "All About Welingkar (WeSchool): Programs, Fees, Cutoffs, and Placements (2025-2026)"
 date: "2026-03-13"
 category: "College Reviews"
+keywords: ["MBA admission 2026", "Welingkar PGDM cutoffs", "best MBA colleges in Mumbai", "profile based MBA admission", "Welingkar placements 2025", "highest ROI MBA colleges", "MBA admission 2025"]
 excerpt: "An in-depth guide to Prin. L. N. Welingkar Institute of Management Development and Research (WeSchool). Explore PGDM programs, fee structures, entrance exams, placement records, and student reviews across the Mumbai and Bengaluru campuses."
 ---
 

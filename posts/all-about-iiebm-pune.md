@@ -2,6 +2,7 @@
 title: "All About IIEBM Indus Business School, Pune: Programs, Fees, Placements & Reviews (2025-2026)"
 date: "2026-03-12"
 category: "College Reviews"
+keywords: ["MBA admission 2026", "MBA admission 2025", "IIEBM Pune placements", "best PGDM colleges in Pune", "highest ROI MBA colleges", "direct admission in MBA", "Symbiosis alternative Pune", "PGDM fees Pune"]
 excerpt: "A comprehensive guide to IIEBM Pune covering its PGDM programs, fee structure, placement records featuring top recruiters, and student reviews for the 2025-2026 academic sessions."
 ---
 

@@ -2,6 +2,7 @@
 title: "All About NDIM New Delhi: Programs, Fees, Cutoffs, and Placements (2025-2026)"
 date: "2026-03-13"
 category: "College Reviews"
+keywords: ["MBA admission 2026", "NDIM Delhi PGDM fees", "best PGDM colleges in Delhi NCR", "dual specialization MBA", "NDIM placements 2025", "direct admission in MBA", "highest ROI MBA colleges"]
 excerpt: "A comprehensive guide to the New Delhi Institute of Management (NDIM). Learn about their AICTE-approved PGDM programs, dual specializations, fee structure, placement records, and honest student reviews."
 ---
 
