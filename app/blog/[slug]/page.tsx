@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
 import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
@@ -127,6 +128,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       <div className="mx-auto max-w-4xl px-6 sm:px-12 mt-20 pb-20">
         <div className="prose prose-xl prose-slate max-w-none">
           <ReactMarkdown
+            rehypePlugins={[rehypeRaw]}
             components={{
               h2: ({ node, ...props }) => (
                 <h2 className="font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6" {...props} />
