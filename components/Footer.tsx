@@ -62,16 +62,6 @@ export function Footer() {
                   collegereviews.in
                 </a>
               </li>
-              <li>
-                <a
-                  href="https://g.page/r/YOUR_GOOGLE_REVIEW_LINK/review"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-accent text-foreground px-4 py-2 font-bold rounded-md border-2 border-foreground hover:bg-white transition-all inline-block hover:scale-105"
-                >
-                  Review us on Google
-                </a>
-              </li>
             </ul>
           </div>
         </div>

@@ -100,30 +100,6 @@ export default function RootLayout({
     "priceRange": "$$"
   };
 
-  const reviewData = {
-    "@context": "https://schema.org",
-    "@type": "Product", // Product or LocalBusiness can have reviews. Using Product for the 'Counselling Service'
-    "name": "Career Counselling & MBA Admissions",
-    "image": "https://www.careerwithmohit.online/og-image.webp",
-    "description": "Expert career guidance and MBA admissions consulting by Mohit Jain.",
-    "brand": {
-      "@type": "Brand",
-      "name": "CareerWithMohit"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "127"
-    },
-    "review": [
-      {
-        "@type": "Review",
-        "author": { "@type": "Person", "name": "Rahul Sharma" },
-        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-        "reviewBody": "Mohit's guidance during my WAT-PI prep was game-changing."
-      }
-    ]
-  };
 
   const websiteData = {
     "@context": "https://schema.org",
@@ -144,7 +120,6 @@ export default function RootLayout({
         <JsonLd data={personData} />
         <JsonLd data={organizationData} />
         <JsonLd data={websiteData} />
-        <JsonLd data={reviewData} />
       </head>
       <body
         className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
