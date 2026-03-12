@@ -1,6 +1,6 @@
 ---
-title: "Top MBA Colleges in Pune: Fees, Cutoffs, and Placements (2025 Guide)"
-date: "2026-03-08"
+title: "Top MBA Colleges in Pune: Fees, Cutoffs, and Placements (2026 Guide)"
+date: "2026-03-12"
 description: "A comprehensive guide to the best MBA colleges in Pune, featuring SIBM, SCMHRD, PUMBA, and more. Compare fees, SNAP/MAH CET cutoffs, and latest placement statistics."
 keywords: ["MBA colleges Pune", "top B-schools Pune", "SIBM Pune fees", "SCMHRD admission", "SNAP cutoff Pune", "MAH CET MBA colleges Pune", "PUMBA MBA"]
 ---
@@ -9,9 +9,9 @@ Pune, the "Oxford of the East," is a goldmine for MBA seekers. Whether you want 
 
 > **Pro Tip:** If you have a high SNAP score, SIBM and SCMHRD are no-brainers. For ROI, PUMBA is the absolute champion.
 
-### Quick Highlights for 2025:
+### Quick Highlights for 2026:
 - **Top Brand**: SIBM Pune (Avg. Package **₹28.83 LPA**)
-- **Top ROI**: PUMBA (Total Fees **₹1.3 Lakhs**)
+- **Top ROI**: PUMBA (Total Fees **₹1.80 Lakhs**)
 - **HR Specialization**: SCMHRD (Highest International **₹67.60 LPA**)
 
 ## 🔥 Top-Tier MBA Colleges in Pune

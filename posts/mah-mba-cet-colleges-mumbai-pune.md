@@ -1,8 +1,8 @@
 ---
-title: "Top MBA Colleges in Mumbai and Pune Accepting MAH MBA CET 2025"
-date: "2026-03-10"
-description: "Discover the best MBA/PGDM colleges in Mumbai and Pune that accept MAH MBA CET scores. Detailed list of government and private institutions for your management career."
-keywords: ["MAH MBA CET colleges", "MBA colleges Mumbai", "MBA colleges Pune", "MAH CET accepting colleges", "JBIMS Mumbai", "PUMBA Pune", "MBA admission 2025"]
+title: "Top MBA Colleges in Mumbai and Pune Accepting MAH MBA CET 2026"
+date: "2026-03-12"
+description: "Discover the best MBA/PGDM colleges in Mumbai and Pune that accept MAH MBA CET 2026 scores. Detailed list of government and private institutions for your management career."
+keywords: ["MAH MBA CET 2026 colleges", "MBA colleges Mumbai", "MBA colleges Pune", "MAH CET accepting colleges", "JBIMS Mumbai", "PUMBA Pune", "MBA admission 2026"]
 ---
 
 The **MAH MBA CET** (Maharashtra Management Common Entrance Test) is one of the most popular entrance exams for students aspiring to join top-tier management institutes in Maharashtra. Mumbai and Pune, being the educational hubs of India, host some of the most prestigious colleges accepting these scores.

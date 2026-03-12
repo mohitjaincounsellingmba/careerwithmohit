@@ -1,15 +1,15 @@
 ---
-title: "Top MBA Colleges Accepting CUET PG 2025: Fees, Cutoffs, and Placements"
-date: "2026-03-08"
-description: "A definitive guide to the best MBA programs under CUET PG 2025. Explore top universities like BHU, JNU, and DAVV, focusing on ROI, average packages, and expected cutoffs."
-keywords: ["CUET PG MBA colleges", "CUET PG 2025", "MBA through CUET", "BHU MBA admission", "JNU MBA", "CUET PG cutoff MBA"]
+title: "Top MBA Colleges Accepting CUET PG 2026: Fees, Cutoffs, and Placements"
+date: "2026-03-12"
+description: "A definitive guide to the best MBA programs under CUET PG 2026. Explore top universities like BHU, JNU, and DAVV, focusing on ROI, average packages, and expected cutoffs."
+keywords: ["CUET PG MBA colleges 2026", "CUET PG 2026", "MBA through CUET", "BHU MBA admission", "JNU MBA", "CUET PG cutoff MBA"]
 ---
 
 The Common University Entrance Test (CUET PG) is now a major gateway for MBA in India. With 150+ universities, it's the smartest way to get into a top college with **minimal fees**.
 
 > **Pro Tip:** CUET PG is often easier than CAT but gives you access to the same high-paying government placements.
 
-### Quick Highlights for 2025:
+### Quick Highlights for 2026:
 - **Major Gateway**: Accepted by BHU, JNU, and DAVV Indore.
 - **Top Value**: MBA for less than ₹2 Lakhs in total fees at central universities.
 - **High ROI**: Average placements ranging from ₹8 LPA to ₹13 LPA.

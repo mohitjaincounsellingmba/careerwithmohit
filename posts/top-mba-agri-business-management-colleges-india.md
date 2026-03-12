@@ -19,7 +19,7 @@ In this comprehensive guide, we cover the top 20 institutions in India for MBA/P
 *   **Designations**: Category Manager, Product Manager, Supply Chain Consultant, Agri-Investment Analyst.
 
 #### **IIM Lucknow (PGP-ABM)**
-*   **Avg Placement**: ₹32.3 LPA (Batch 2025)
+*   **Avg Placement**: ₹32.3 LPA (Latest Batch)
 *   **Top Recruiters**: BCG, McKinsey, Bain, P&G, Amazon, Adani Group, Marriott.
 *   **Designations**: Strategy Consultant, Operations Manager, Finance Head (Agri division), Area Sales Manager.
 

@@ -189,4 +189,4 @@ Managing business operations and strategy across global borders and diverse cult
 ---
 
 ### Final Thoughts
-Your career is a marathon, not a sprint. Upskilling with the right tools and validating your knowledge with recognized certifications is the fastest way to achieve your goals in 2025. Unsure which path to choose? **Connect with us for a personalized career counselling session!**
+Your career is a marathon, not a sprint. Upskilling with the right tools and validating your knowledge with recognized certifications is the fastest way to achieve your goals in 2026. Unsure which path to choose? **Connect with us for a personalized career counselling session!**

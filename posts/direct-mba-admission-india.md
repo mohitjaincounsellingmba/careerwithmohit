@@ -1,7 +1,7 @@
 ---
-title: "Direct MBA Admission in India 2025: Top Colleges, Fees, and Management Quota"
-date: "2026-03-08"
-description: "Master the Direct Admission process for MBA 2025. Explore top-ranked B-schools like BIMTECH, JAGSoM, and XIME that offer Management Quota and Institutional seats for high-ROI careers."
+title: "Direct MBA Admission in India 2026: Top Colleges, Fees, and Management Quota"
+date: "2026-03-12"
+description: "Master the Direct Admission process for MBA 2026. Explore top-ranked B-schools like BIMTECH, JAGSoM, and XIME that offer Management Quota and Institutional seats for high-ROI careers."
 keywords: ["direct MBA admission", "management quota MBA", "MBA without entrance exam", "direct admission B-schools India", "BIMTECH admission", "JAGSoM admission"]
 ---
 
@@ -11,7 +11,7 @@ In this guide, we reveal the top 10 colleges where you can secure a seat directl
 
 > **Pro Tip:** Direct admission seats are limited and fill up fast. Always apply early to secure a seat in your preferred specialization like Marketing, Finance, or Business Analytics.
 
-### Quick Highlights for 2025:
+### Quick Highlights for 2026:
 - **Major Advantage**: Skip the high-pressure entrance exam cutoffs.
 - **Top Brand**: BIMTECH Greater Noida (Average Placement **₹11.2 LPA**).
 - **Fast Process**: Secure your seat in **7 to 10 days** after profile evaluation.

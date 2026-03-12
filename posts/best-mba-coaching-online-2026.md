@@ -30,7 +30,7 @@ XAT requires a unique focus on Decision Making and Verbal Ability.
 
 ---
 
-### 3. SNAP & NMAT
+### 3. SNAP & NMAT (2026 Focus)
 These are speed-based exams often taken together as part of "OMETS" (Other Management Entrance Tests).
 
 *   **CATKing**: Offers a popular "NMAT + SNAP" combo course that includes physical books and strategy videos.

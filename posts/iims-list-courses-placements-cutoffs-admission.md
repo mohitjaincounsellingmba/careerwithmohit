@@ -2,7 +2,7 @@
 title: "Complete List of 21 IIMs in India 2026: Courses, Placements & Admission Guide"
 date: "2026-03-12"
 description: "Explore all 21 IIMs in India. Detailed individual breakdown of each IIM's flagship courses, placement statistics, CAT cut-offs, and admission interview processes for 2026."
-keywords: ["IIM Ahmedabad", "IIM Bangalore", "IIM Calcutta", "IIM Lucknow", "IIM Indore", "IIM Kozhikode", "IIM Mumbai", "All 21 IIMs List", "IIM Placement 2025", "CAT Cut off 2025", "IIM Admission Process"]
+keywords: ["IIM Ahmedabad", "IIM Bangalore", "IIM Calcutta", "IIM Lucknow", "IIM Indore", "IIM Kozhikode", "IIM Mumbai", "All 21 IIMs List", "IIM Placement 2026", "CAT Cut off 2026", "IIM Admission Process"]
 ---
 
 The Indian Institutes of Management (IIMs) represent the gold standard of business education. Every IIM has its own unique placement record, selection criteria, and course specializations. 
