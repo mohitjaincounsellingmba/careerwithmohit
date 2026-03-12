@@ -9,7 +9,8 @@ export type TemplateId =
     | "modern-cascade" | "tech-minimal" | "creative-sidebar" | "ats-standard"
     | "minimal-mono" | "google-serif" | "zety-diamond" | "novoresume-pro"
     | "elegant-gold" | "compact-grid" | "ivy-academic" | "startup-bold"
-    | "ai-impact" | "oxford-executive" | "minimal-modern" | "tech-founder";
+    | "ai-impact" | "oxford-executive" | "minimal-modern" | "tech-founder"
+    | "the-disruptor" | "global-leader" | "silicon-architect";
 
 interface TemplateProps {
     data: ResumeData;
@@ -21,6 +22,219 @@ const SectionTitle = ({ title, className = "" }: { title: string; className?: st
     <h3 className={`font-black uppercase tracking-widest text-sm border-b-2 border-slate-200 pb-1 mb-4 ${className}`}>
         {title}
     </h3>
+);
+
+/* 
+  --------------------------------------------------------------------------------
+  NEW V2 PREMIUM TEMPLATES
+  --------------------------------------------------------------------------------
+*/
+
+const TheDisruptor = ({ data, mode }: TemplateProps) => (
+    <div className="bg-white p-12 font-sans text-slate-900 shadow-2xl max-w-[800px] mx-auto min-h-[1050px] relative overflow-hidden">
+        <div className="absolute top-0 right-0 w-64 h-64 bg-primary/5 -rotate-45 translate-x-24 -translate-y-24"></div>
+        <div className="relative z-10">
+            <header className="mb-16">
+                <h1 className="text-6xl font-black uppercase tracking-tighter leading-none mb-4 italic">
+                    {data.personalInfo.name.split(" ")[0]}<br />
+                    <span className="text-primary">{data.personalInfo.name.split(" ")[1]}</span>
+                </h1>
+                <div className="flex items-center gap-4">
+                    <div className="h-[2px] w-20 bg-black"></div>
+                    <p className="text-sm font-black uppercase tracking-[0.3em]">{data.personalInfo.title}</p>
+                </div>
+            </header>
+
+            <div className="grid grid-cols-12 gap-12">
+                <div className="col-span-8 space-y-12">
+                    <section>
+                        <h2 className="text-[10px] font-black uppercase tracking-[0.5em] text-slate-400 mb-8 underline decoration-primary decoration-4 underline-offset-8">Core Experience</h2>
+                        {data.experience.map((exp, i) => (
+                            <div key={i} className="mb-10 group">
+                                <div className="flex items-baseline justify-between mb-2">
+                                    <h3 className="text-lg font-black group-hover:text-primary transition-colors">{exp.role}</h3>
+                                    <span className="text-[10px] font-bold text-slate-400 italic">{exp.dates}</span>
+                                </div>
+                                <p className="text-[11px] font-black uppercase text-slate-500 mb-4">{exp.company} • {exp.location}</p>
+                                <ul className="space-y-3">
+                                    {exp.bullets.map((b, j) => (
+                                        <li key={j} className="text-xs leading-relaxed flex gap-4">
+                                            <span className="text-primary font-black mt-1">/</span>
+                                            <span>{b}</span>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+                        ))}
+                    </section>
+                </div>
+                <div className="col-span-4 space-y-12">
+                    <section className="bg-slate-50 p-6 border-l-4 border-primary">
+                        <h2 className="text-[10px] font-black uppercase tracking-widest mb-6">Expertise Stack</h2>
+                        {data.skills.map((s, i) => (
+                            <div key={i} className="mb-6">
+                                <p className="text-[9px] font-black uppercase text-slate-400 mb-2">{s.category}</p>
+                                <p className="text-[10px] font-bold leading-loose">{s.items}</p>
+                            </div>
+                        ))}
+                    </section>
+                    <section>
+                        <h2 className="text-[10px] font-black uppercase tracking-[0.3em] mb-6">Contact</h2>
+                        <div className="space-y-4 text-[10px] font-black uppercase">
+                            <p className="text-primary">{data.personalInfo.email}</p>
+                            <p>{data.personalInfo.phone}</p>
+                            <p className="text-slate-400">{data.personalInfo.location}</p>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+);
+
+const GlobalLeader = ({ data, mode }: TemplateProps) => (
+    <div className="bg-white p-14 font-serif text-[#1a1a1a] shadow-2xl max-w-[800px] mx-auto min-h-[1050px] border-[1px] border-slate-200">
+        <div className="border-b-[1px] border-slate-900 pb-10 mb-12 text-center">
+            <h1 className="text-4xl font-light uppercase tracking-[8px] mb-4">{data.personalInfo.name}</h1>
+            <p className="text-sm font-bold text-slate-500 uppercase tracking-[4px] italic">{data.personalInfo.title}</p>
+            <div className="mt-6 flex justify-center gap-8 text-[10px] font-bold uppercase tracking-widest text-slate-400">
+                <span>{data.personalInfo.location}</span>
+                <span className="text-slate-200">|</span>
+                <span>{data.personalInfo.email}</span>
+                <span className="text-slate-200">|</span>
+                <span>{data.personalInfo.phone}</span>
+            </div>
+        </div>
+
+        <div className="grid grid-cols-1 gap-14">
+            <section>
+                <h2 className="text-xs font-black uppercase tracking-[5px] text-slate-900 mb-8 flex items-center gap-4">
+                    Professional Narrative <div className="h-[1px] bg-slate-200 flex-1"></div>
+                </h2>
+                <p className="text-[13px] leading-relaxed italic text-slate-700 font-medium px-8">{data.summary}</p>
+            </section>
+
+            <section>
+                <h2 className="text-xs font-black uppercase tracking-[5px] text-slate-900 mb-8 flex items-center gap-4">
+                    Career Milestones <div className="h-[1px] bg-slate-200 flex-1"></div>
+                </h2>
+                <div className="space-y-12">
+                    {data.experience.map((exp, i) => (
+                        <div key={i}>
+                            <div className="flex justify-between items-baseline mb-3">
+                                <h3 className="text-base font-bold text-slate-900">{exp.role}</h3>
+                                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">{exp.dates}</span>
+                            </div>
+                            <p className="text-[11px] font-black uppercase tracking-widest text-[#B4975A] mb-4">{exp.company} • {exp.location}</p>
+                            <ul className="space-y-3 px-4">
+                                {exp.bullets.map((b, j) => (
+                                    <li key={j} className="text-xs leading-relaxed text-slate-600 list-disc marker:text-[#B4975A]">{b}</li>
+                                ))}
+                            </ul>
+                        </div>
+                    ))}
+                </div>
+            </section>
+
+            <div className="grid grid-cols-2 gap-12">
+                <section>
+                    <h2 className="text-xs font-black uppercase tracking-[3px] text-slate-900 mb-6 underline underline-offset-8 decoration-slate-200">Qualifications</h2>
+                    {data.education.map((edu, i) => (
+                        <div key={i} className="mb-4">
+                            <p className="text-xs font-bold">{edu.degree}</p>
+                            <p className="text-[11px] italic text-slate-500">{edu.school} • {edu.dates}</p>
+                        </div>
+                    ))}
+                </section>
+                <section>
+                    <h2 className="text-xs font-black uppercase tracking-[3px] text-slate-900 mb-6 underline underline-offset-8 decoration-slate-200">Competencies</h2>
+                    <div className="flex flex-wrap gap-x-6 gap-y-2">
+                        {data.skills.map((s, i) => (
+                            <div key={i} className="text-[11px] font-medium text-slate-600">
+                                <span className="font-black uppercase text-[9px] text-slate-400 block mb-1">{s.category}</span>
+                                {s.items}
+                            </div>
+                        ))}
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+);
+
+const SiliconArchitect = ({ data, mode }: TemplateProps) => (
+    <div className="bg-[#f8f9fa] p-10 font-mono text-slate-900 shadow-2xl max-w-[800px] mx-auto min-h-[1050px] border-b-[20px] border-black">
+        <header className="grid grid-cols-2 gap-8 mb-16 items-start">
+            <div className="bg-black p-8 text-white">
+                <h1 className="text-3xl font-black uppercase leading-tight tracking-tighter mb-4 italic">
+                    {data.personalInfo.name}
+                </h1>
+                <p className="text-xs font-bold text-emerald-400 uppercase tracking-[0.2em]">{data.personalInfo.title}</p>
+            </div>
+            <div className="pt-4 text-[10px] font-bold uppercase space-y-2">
+                <div className="flex justify-between border-b border-black pb-1"><span>Email:</span> <span className="text-slate-500">{data.personalInfo.email}</span></div>
+                <div className="flex justify-between border-b border-black pb-1"><span>Phone:</span> <span className="text-slate-500">{data.personalInfo.phone}</span></div>
+                <div className="flex justify-between border-b border-black pb-1"><span>Loc:</span> <span className="text-slate-500">{data.personalInfo.location}</span></div>
+                <div className="flex justify-center pt-4 text-emerald-600 underline decoration-2">{data.personalInfo.linkedin}</div>
+            </div>
+        </header>
+
+        <main className="space-y-16">
+            <section>
+                <div className="flex items-center gap-4 mb-8">
+                    <span className="text-[10px] font-black bg-black text-white px-2 py-0.5">01</span>
+                    <h2 className="text-sm font-black uppercase tracking-widest italic">SystemArchitecture.exp</h2>
+                    <div className="h-[1px] bg-black flex-1"></div>
+                </div>
+                <div className="space-y-12">
+                    {data.experience.map((exp, i) => (
+                        <div key={i} className="grid grid-cols-12 gap-6 group">
+                            <div className="col-span-3">
+                                <span className="text-[10px] font-black border border-black px-2 py-1 group-hover:bg-black group-hover:text-white transition-colors">{exp.dates}</span>
+                            </div>
+                            <div className="col-span-9">
+                                <h3 className="text-sm font-black mb-1 uppercase tracking-tight">{exp.role} @ {exp.company}</h3>
+                                <p className="text-[10px] font-bold text-slate-400 mb-4 italic">{exp.location}</p>
+                                <div className="space-y-2">
+                                    {exp.bullets.map((b, j) => (
+                                        <p key={j} className="text-xs leading-relaxed before:content-['>'] before:mr-2 before:text-emerald-500 before:font-black">{b}</p>
+                                    ))}
+                                </div>
+                            </div>
+                        </div>
+                    ))}
+                </div>
+            </section>
+
+            <div className="grid grid-cols-2 gap-12">
+                <section>
+                    <div className="flex items-center gap-4 mb-6">
+                        <span className="text-[10px] font-black bg-black text-white px-2 py-0.5">02</span>
+                        <h2 className="text-xs font-black uppercase italic tracking-widest">Stack.json</h2>
+                    </div>
+                    {data.skills.map((s, i) => (
+                        <div key={i} className="mb-6 last:mb-0">
+                            <p className="text-[9px] font-black uppercase text-slate-400 mb-2">{s.category}:</p>
+                            <p className="text-[11px] font-bold leading-relaxed">{s.items}</p>
+                        </div>
+                    ))}
+                </section>
+                <section>
+                    <div className="flex items-center gap-4 mb-6">
+                        <span className="text-[10px] font-black bg-black text-white px-2 py-0.5">03</span>
+                        <h2 className="text-xs font-black uppercase italic tracking-widest">Education.log</h2>
+                    </div>
+                    {data.education.map((edu, i) => (
+                        <div key={i} className="mb-4">
+                            <p className="text-[11px] font-black italic">{edu.degree}</p>
+                            <p className="text-[10px] font-bold uppercase text-slate-500">{edu.school}</p>
+                            <p className="text-[9px] font-black text-emerald-600 mt-1">{edu.dates}</p>
+                        </div>
+                    ))}
+                </section>
+            </div>
+        </main>
+    </div>
 );
 
 /* 
@@ -589,7 +803,10 @@ const templateMap: Record<TemplateId, React.FC<TemplateProps>> = {
     "ai-impact": AIImpact,
     "oxford-executive": WhartonFinance,
     "minimal-modern": TechMinimal,
-    "tech-founder": ModernCascade
+    "tech-founder": ModernCascade,
+    "the-disruptor": TheDisruptor,
+    "global-leader": GlobalLeader,
+    "silicon-architect": SiliconArchitect
 };
 
 export function ResumeTemplates({ selectedTemplate, data, mode }: { selectedTemplate: TemplateId; data: ResumeData; mode: ResumeMode }) {

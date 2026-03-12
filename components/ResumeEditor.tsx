@@ -84,8 +84,6 @@ export function ResumeEditor({
 }) {
     const [step, setStep] = useState(1);
 
-    // We'll handle data change notification in the parent
-
     const handleChange = (section: keyof ResumeData, field: string, value: any, index?: number) => {
         setData(prev => {
             const newData = { ...prev };
@@ -133,42 +131,42 @@ export function ResumeEditor({
     };
 
     return (
-        <div className="bg-white border-4 border-foreground shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] flex flex-col h-full max-h-[85vh] overflow-hidden">
+        <div className="bg-white/80 backdrop-blur-xl border border-white/20 shadow-2xl flex flex-col h-full max-h-[85vh] overflow-hidden rounded-3xl">
 
             {/* Expertise Switcher */}
-            <div className="bg-slate-100 border-b-4 border-foreground p-2 flex gap-2">
+            <div className="bg-slate-50/50 backdrop-blur-md border-b border-slate-200/50 p-3 flex gap-3">
                 <button
                     onClick={() => setMode("Student")}
-                    className={`flex-1 flex items-center justify-center gap-2 py-3 font-black uppercase text-sm transition-all border-2 ${mode === "Student"
-                        ? "bg-foreground text-white border-foreground"
-                        : "bg-white text-foreground border-transparent hover:border-slate-300"
+                    className={`flex-1 flex items-center justify-center gap-2 py-3.5 font-bold uppercase text-[10px] tracking-wider transition-all rounded-xl ${mode === "Student"
+                        ? "bg-slate-900 text-white shadow-lg shadow-slate-200"
+                        : "bg-white/50 text-slate-500 hover:bg-white hover:text-slate-900 border border-slate-200/50"
                         }`}
                 >
-                    <GraduationCap className="w-4 h-4" />
-                    Student Mode
+                    <GraduationCap className={`w-4 h-4 ${mode === "Student" ? "text-primary-foreground" : "text-slate-400"}`} />
+                    Student Canvas
                 </button>
                 <button
                     onClick={() => setMode("Professional")}
-                    className={`flex-1 flex items-center justify-center gap-2 py-3 font-black uppercase text-sm transition-all border-2 ${mode === "Professional"
-                        ? "bg-foreground text-white border-foreground"
-                        : "bg-white text-foreground border-transparent hover:border-slate-300"
+                    className={`flex-1 flex items-center justify-center gap-2 py-3.5 font-bold uppercase text-[10px] tracking-wider transition-all rounded-xl ${mode === "Professional"
+                        ? "bg-slate-900 text-white shadow-lg shadow-slate-200"
+                        : "bg-white/50 text-slate-500 hover:bg-white hover:text-slate-900 border border-slate-200/50"
                         }`}
                 >
-                    <Briefcase className="w-4 h-4" />
-                    Expert Mode
+                    <Briefcase className={`w-4 h-4 ${mode === "Professional" ? "text-primary-foreground" : "text-slate-400"}`} />
+                    Pro Workspace
                 </button>
             </div>
 
             {/* Stepper Header */}
-            <div className="bg-white border-b-2 border-slate-100 px-6 py-4 flex items-center justify-between overflow-x-auto no-scrollbar">
+            <div className="bg-white/30 px-6 py-6 flex items-center justify-between overflow-x-auto no-scrollbar gap-4">
                 {[1, 2, 3, 4, 5, 6].map(s => (
-                    <div key={s} className="flex items-center gap-2 shrink-0">
-                        <div className={`w-8 h-8 flex items-center justify-center rounded-none border-2 font-black text-sm ${step === s ? "bg-primary text-white border-foreground" :
-                            step > s ? "bg-foreground text-white border-foreground" : "bg-white text-slate-300 border-slate-200"
+                    <div key={s} className="flex items-center gap-3 shrink-0">
+                        <div className={`w-10 h-10 flex items-center justify-center rounded-xl font-bold text-xs transition-all ${step === s ? "bg-slate-900 text-white shadow-xl shadow-slate-200 scale-110" :
+                            step > s ? "bg-emerald-500 text-white" : "bg-white/50 text-slate-400 border border-slate-200/50"
                             }`}>
                             {s}
                         </div>
-                        {s < 6 && <div className={`w-4 h-0.5 ${step > s ? "bg-foreground" : "bg-slate-100"}`}></div>}
+                        {s < 6 && <div className={`w-8 h-0.5 rounded-full ${step > s ? "bg-emerald-500" : "bg-slate-200"}`}></div>}
                     </div>
                 ))}
             </div>
@@ -183,50 +181,50 @@ export function ResumeEditor({
                             Personal Details
                         </h3>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                            <div>
-                                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Full Name</label>
+                            <div className="space-y-2">
+                                <label className="block text-[10px] font-bold uppercase tracking-wider text-slate-400 ml-1">Full Name</label>
                                 <input
                                     type="text"
                                     value={data.personalInfo.name}
                                     onChange={e => handleChange("personalInfo", "name", e.target.value)}
-                                    className="w-full bg-slate-50 border-4 border-foreground p-3 font-bold focus:bg-white focus:outline-none"
+                                    className="w-full bg-white/50 border border-slate-200/50 rounded-2xl p-4 font-semibold focus:bg-white focus:ring-4 focus:ring-primary/10 transition-all outline-none"
                                 />
                             </div>
-                            <div>
-                                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Professional Title</label>
+                            <div className="space-y-2">
+                                <label className="block text-[10px] font-bold uppercase tracking-wider text-slate-400 ml-1">Professional Title</label>
                                 <input
                                     type="text"
-                                    placeholder={mode === "Student" ? "Management Student / Aspiring Analyst" : "Senior Product Manager / Marketing Head"}
+                                    placeholder={mode === "Student" ? "Management Student" : "Senior Product Manager"}
                                     value={data.personalInfo.title}
                                     onChange={e => handleChange("personalInfo", "title", e.target.value)}
-                                    className="w-full bg-slate-50 border-4 border-foreground p-3 font-bold focus:bg-white focus:outline-none"
+                                    className="w-full bg-white/50 border border-slate-200/50 rounded-2xl p-4 font-semibold focus:bg-white focus:ring-4 focus:ring-primary/10 transition-all outline-none"
                                 />
                             </div>
-                            <div>
-                                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Email Address</label>
+                            <div className="space-y-2">
+                                <label className="block text-[10px] font-bold uppercase tracking-wider text-slate-400 ml-1">Email Address</label>
                                 <input
                                     type="email"
                                     value={data.personalInfo.email}
                                     onChange={e => handleChange("personalInfo", "email", e.target.value)}
-                                    className="w-full bg-slate-50 border-4 border-foreground p-3 font-bold focus:bg-white focus:outline-none"
+                                    className="w-full bg-white/50 border border-slate-200/50 rounded-2xl p-4 font-semibold focus:bg-white focus:ring-4 focus:ring-primary/10 transition-all outline-none"
                                 />
                             </div>
-                            <div>
-                                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Phone Number</label>
+                            <div className="space-y-2">
+                                <label className="block text-[10px] font-bold uppercase tracking-wider text-slate-400 ml-1">Phone Number</label>
                                 <input
                                     type="tel"
                                     value={data.personalInfo.phone}
                                     onChange={e => handleChange("personalInfo", "phone", e.target.value)}
-                                    className="w-full bg-slate-50 border-4 border-foreground p-3 font-bold focus:bg-white focus:outline-none"
+                                    className="w-full bg-white/50 border border-slate-200/50 rounded-2xl p-4 font-semibold focus:bg-white focus:ring-4 focus:ring-primary/10 transition-all outline-none"
                                 />
                             </div>
-                            <div>
-                                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Location (City, Country)</label>
+                            <div className="space-y-2 text-slate-400">
+                                <label className="block text-[10px] font-bold uppercase tracking-wider text-slate-400 ml-1">Location</label>
                                 <input
                                     type="text"
                                     value={data.personalInfo.location}
                                     onChange={e => handleChange("personalInfo", "location", e.target.value)}
-                                    className="w-full bg-slate-50 border-4 border-foreground p-3 font-bold focus:bg-white focus:outline-none"
+                                    className="w-full bg-white/50 border border-slate-200/50 rounded-2xl p-4 font-semibold focus:bg-white focus:ring-4 focus:ring-primary/10 transition-all outline-none"
                                 />
                             </div>
                             <div>
@@ -477,27 +475,27 @@ export function ResumeEditor({
             </div>
 
             {/* Navigation Footer */}
-            <div className="bg-slate-100 border-t-4 border-foreground p-4 flex items-center justify-between">
+            <div className="bg-slate-50/50 backdrop-blur-xl border-t border-slate-200/50 p-6 flex items-center justify-between">
                 <button
                     disabled={step === 1}
                     onClick={() => setStep(prev => prev - 1)}
-                    className="flex items-center gap-2 px-6 py-3 font-black uppercase text-sm border-4 border-foreground bg-white disabled:opacity-50 disabled:cursor-not-allowed hover:bg-slate-50"
+                    className="flex items-center gap-2 px-6 py-4 font-bold uppercase text-[10px] tracking-widest text-slate-500 disabled:opacity-30 transition-all hover:text-slate-900"
                 >
-                    <ChevronLeft className="w-5 h-5" />
-                    Back
+                    <ChevronLeft className="w-4 h-4" />
+                    Previous
                 </button>
 
-                <div className="hidden md:block text-xs font-black uppercase text-slate-400">
-                    Progress: {Math.round((step / 6) * 100)}% Complete
+                <div className="hidden md:block text-[10px] font-bold uppercase tracking-[0.2em] text-slate-300">
+                    Step {step} / 6
                 </div>
 
                 <button
                     onClick={() => step < 6 ? setStep(prev => prev + 1) : null}
-                    className={`flex items-center gap-2 px-8 py-3 font-black uppercase text-sm border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] ${step === 6 ? "bg-green-500 text-white" : "bg-primary text-white"
-                        } transition-all active:translate-x-1 active:translate-y-1 active:shadow-none`}
+                    className={`flex items-center gap-3 px-10 py-4 font-bold uppercase text-[10px] tracking-wider rounded-2xl transition-all shadow-xl ${step === 6 ? "bg-emerald-500 text-white shadow-emerald-200" : "bg-slate-900 text-white shadow-slate-200"
+                        } hover:scale-105 active:scale-95`}
                 >
-                    {step === 6 ? "Finalize" : "Next Step"}
-                    <ChevronRight className="w-5 h-5" />
+                    {step === 6 ? "Finalize Design" : "Next Milestone"}
+                    <ChevronRight className="w-4 h-4" />
                 </button>
             </div>
         </div>

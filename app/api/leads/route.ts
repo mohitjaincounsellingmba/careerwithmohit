@@ -42,17 +42,26 @@ export async function POST(req: Request) {
             timestamp: new Date().toISOString()
         };
 
-        // 1. Push to Activepieces Webhook (User's preferred method)
+        // 1. Push to Activepieces Webhook (Conditional Routing)
         let webhookSaved = false;
         try {
-            const webhookRes = await fetch(ACTIVEPIECES_WEBHOOK, {
+            // Check if this lead came from a Calculator/Resource Download (which uses the old general webhook)
+            // or if it's a standard Inquiry (which uses the new dedicated webhook)
+            const isCalculatorOrResource = source.toLowerCase().includes('calculator') || source.toLowerCase().includes('resource');
+            const targetWebhook = isCalculatorOrResource
+                ? 'https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F'
+                : 'https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3';
+
+            const webhookRes = await fetch(targetWebhook, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(newLead)
             });
             if (webhookRes.ok) {
-                console.log(`Leads API: Successfully pushed lead ${newLead.id} to Activepieces`);
+                console.log(`Leads API: Successfully pushed lead ${newLead.id} to Activepieces (Webhook: ${isCalculatorOrResource ? 'General' : 'Inquiry'})`);
                 webhookSaved = true;
+            } else {
+                console.error(`Webhook API responded with status: ${webhookRes.status}`);
             }
         } catch (webhookErr: any) {
             console.error(`Activepieces Webhook Error: ${webhookErr.message}`);

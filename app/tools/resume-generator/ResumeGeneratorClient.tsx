@@ -1,15 +1,20 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import { ResumeEditor, ResumeData, ResumeMode, initialData } from "@/components/ResumeEditor";
 import { ResumeTemplates, TemplateId } from "@/components/ResumeTemplates";
 import { AIAssistant } from "@/components/AIAssistant";
+import { CommandBar } from "@/components/CommandBar";
 import {
-    Download, Layout, FileText, ChevronRight,
-    Monitor, Tablet, Smartphone, Sparkles, CheckCircle2
+    Download, Layout, FileText, ChevronRight, Palette, X,
+    Monitor, Tablet, Smartphone, Sparkles, CheckCircle2,
+    Command as CommandIcon, Edit3, Eye, Settings, Share2, Zap, ChevronLeft
 } from "lucide-react";
 
 const TEMPLATES: { id: TemplateId; name: string; category: string; description: string }[] = [
+    { id: "the-disruptor", name: "The Disruptor", category: "V2 Premium", description: "Bold, asymmetric, high-impact design." },
+    { id: "global-leader", name: "Global Leader", category: "V2 Premium", description: "Executive power with saphire/gold accents." },
+    { id: "silicon-architect", name: "Silicon Arch", category: "V2 Premium", description: "Modern developer-focused grid layout." },
     { id: "hbs-classic", name: "HBS Classic", category: "MBA / Finance", description: "The gold standard for top-tier careers." },
     { id: "ai-impact", name: "AI Impact", category: "Premium / AI", description: "Metric-focused modern layout." },
     { id: "oxford-executive", name: "Oxford Exec", category: "Executive", description: "Traditional leadership style." },
@@ -23,25 +28,34 @@ const TEMPLATES: { id: TemplateId; name: string; category: string; description: 
 export default function ResumeGeneratorClient() {
     const [data, setData] = useState<ResumeData>(initialData);
     const [mode, setMode] = useState<ResumeMode>("Student");
-    const [selectedTemplate, setSelectedTemplate] = useState<TemplateId>("hbs-classic");
+    const [selectedTemplate, setSelectedTemplate] = useState<TemplateId>("the-disruptor"); // Default to V2 Disruptor
     const [isPrinting, setIsPrinting] = useState(false);
 
-    // AI Assistant state
-    const [showAIAssistant, setShowAIAssistant] = useState(false);
-    const [aiContext, setAIContext] = useState<{ type: string; text: string } | null>(null);
+    // UI State
+    const [sidebarOpen, setSidebarOpen] = useState(true);
+    const [showTemplates, setShowTemplates] = useState(false);
+    const [isCommandBarOpen, setIsCommandBarOpen] = useState(false);
 
-    const handleTriggerAI = (type: string, text: string) => {
-        setAIContext({ type, text });
-        setShowAIAssistant(true);
-    };
+    // Keyboard shortcut for Command Bar
+    useEffect(() => {
+        const handleKeyDown = (e: KeyboardEvent) => {
+            if ((e.metaKey || e.ctrlKey) && e.key === "k") {
+                e.preventDefault();
+                setIsCommandBarOpen(prev => !prev);
+            }
+            if ((e.metaKey || e.ctrlKey) && e.key === "b") {
+                e.preventDefault();
+                setSidebarOpen(prev => !prev);
+            }
+        };
+        window.addEventListener("keydown", handleKeyDown);
+        return () => window.removeEventListener("keydown", handleKeyDown);
+    }, []);
 
-    const handleAISelect = (suggestion: string, type: string) => {
-        if (type === "summary") {
-            setData(prev => ({ ...prev, summary: suggestion }));
-        } else if (type === "bullets") {
-            // For bullets, we append or replace? Let's say we replace for simplicity or the user can edit
-            // In a real app we'd pass the index too.
-        }
+    const handleCommand = (cmd: string) => {
+        console.log("AI Command received:", cmd);
+        // Direct injection or context update logic
+        // This would interface with a backend/LLM in true prod
     };
 
     const handleDownload = () => {
@@ -53,130 +67,183 @@ export default function ResumeGeneratorClient() {
     };
 
     return (
-        <section className="py-12 px-6 bg-slate-50">
-            <div className="max-w-7xl mx-auto">
+        <div className="relative min-h-screen bg-slate-900 overflow-hidden font-sans selection:bg-primary/30">
+            {/* Ultra-Premium Mesh Gradient Background */}
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <div className="absolute -top-[20%] -left-[10%] w-[70%] h-[70%] bg-blue-600/20 blur-[120px] rounded-full animate-pulse"></div>
+                <div className="absolute top-[20%] -right-[10%] w-[60%] h-[60%] bg-purple-600/20 blur-[120px] rounded-full animate-pulse [animation-delay:2s]"></div>
+                <div className="absolute -bottom-[20%] left-[20%] w-[50%] h-[50%] bg-emerald-600/10 blur-[120px] rounded-full animate-pulse [animation-delay:4s]"></div>
+            </div>
 
-                {/* Mode & Template Selection */}
-                <div className="mb-10 lg:sticky lg:top-24 z-20 bg-white border-4 border-foreground p-4 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-                    <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
-                        <div className="flex flex-wrap items-center gap-3">
-                            <span className="text-xs font-black uppercase text-slate-400 mr-2">Select Style:</span>
-                            <div className="flex bg-slate-100 p-1 rounded-none border-2 border-slate-200 overflow-x-auto no-scrollbar max-w-full">
-                                {TEMPLATES.slice(0, 12).map(t => (
+            <div className="relative z-10 flex h-screen overflow-hidden">
+                {/* Unified Sidebar: Command & Edit */}
+                <aside
+                    className={`transition-all duration-500 ease-in-out border-r border-white/10 bg-black/40 backdrop-blur-2xl flex flex-col ${sidebarOpen ? "w-[450px]" : "w-0 overflow-hidden opacity-0"
+                        }`}
+                >
+                    <div className="flex items-center justify-between p-6 border-b border-white/5">
+                        <div className="flex items-center gap-3">
+                            <div className="w-8 h-8 bg-gradient-to-br from-primary to-blue-600 rounded-lg flex items-center justify-center shadow-lg shadow-primary/20">
+                                <Zap className="w-4 h-4 text-white" />
+                            </div>
+                            <h2 className="text-white font-bold tracking-tight uppercase text-xs">Career Architect <span className="text-slate-500 font-medium ml-1">V2.0</span></h2>
+                        </div>
+                        <button onClick={() => setSidebarOpen(false)} className="text-slate-400 hover:text-white transition-colors">
+                            <ChevronLeft className="w-5 h-5" />
+                        </button>
+                    </div>
+
+                    <div className="flex-1 overflow-y-auto no-scrollbar">
+                        <div className="p-6 space-y-8">
+                            {/* Command Bar Component */}
+                            <CommandBar
+                                isVisible={isCommandBarOpen}
+                                onClose={() => setIsCommandBarOpen(false)}
+                                onCommand={handleCommand}
+                            />
+
+                            {/* Contextual Editor Panel */}
+                            <div className="group relative">
+                                <div className="absolute inset-0 bg-gradient-to-r from-primary/5 to-blue-600/5 rounded-[2rem] -m-2 opacity-0 group-hover:opacity-100 transition-opacity blur-xl"></div>
+                                <div className="relative">
+                                    <ResumeEditor
+                                        data={data}
+                                        setData={setData}
+                                        mode={mode}
+                                        setMode={setMode}
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </aside>
+
+                {/* Main Interaction Canvas */}
+                <main className="flex-1 flex flex-col min-w-0 bg-transparent relative">
+                    {/* Floating Toolbar */}
+                    <div className="absolute top-8 left-1/2 -translate-x-1/2 z-30 flex items-center gap-2 p-1.5 bg-black/40 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl transition-all hover:scale-105">
+                        <button
+                            onClick={() => setSidebarOpen(!sidebarOpen)}
+                            className={`p-2.5 rounded-xl transition-all ${sidebarOpen ? "bg-primary text-white shadow-lg shadow-primary/20" : "text-slate-400 hover:bg-white/5 hover:text-white"}`}
+                            title="Toggle Controls (Cmd+B)"
+                        >
+                            <Layout className="w-4 h-4" />
+                        </button>
+                        <div className="w-[1px] h-4 bg-white/10 mx-1"></div>
+                        <button
+                            onClick={() => setShowTemplates(!showTemplates)}
+                            className={`p-2.5 rounded-xl transition-all ${showTemplates ? "bg-primary text-white shadow-lg shadow-primary/20" : "text-slate-400 hover:bg-white/5 hover:text-white"}`}
+                            title="Gallery"
+                        >
+                            <Palette className="w-4 h-4" />
+                        </button>
+                        <button
+                            onClick={handleDownload}
+                            className="p-2.5 text-slate-400 hover:bg-white/5 hover:text-white rounded-xl transition-all"
+                            title="Export PDF"
+                        >
+                            <Download className="w-4 h-4" />
+                        </button>
+                    </div>
+
+                    {/* Template Gallery Overlay */}
+                    {showTemplates && (
+                        <div className="absolute top-24 left-1/2 -translate-x-1/2 z-40 w-full max-w-4xl p-8 bg-black/60 backdrop-blur-3xl border border-white/10 rounded-[2.5rem] shadow-2xl animate-in fade-in zoom-in-95 duration-300">
+                            <div className="flex justify-between items-center mb-8">
+                                <div>
+                                    <h3 className="text-xl font-bold text-white mb-1">Design Repository</h3>
+                                    <p className="text-sm text-slate-400">Select a high-impact architectural pattern</p>
+                                </div>
+                                <button onClick={() => setShowTemplates(false)} className="p-2 text-slate-400 hover:text-white transition-colors">
+                                    <X className="w-5 h-5" />
+                                </button>
+                            </div>
+                            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-h-[50vh] overflow-y-auto pr-4 custom-scrollbar">
+                                {TEMPLATES.map((t) => (
                                     <button
                                         key={t.id}
-                                        onClick={() => setSelectedTemplate(t.id)}
-                                        className={`px-4 py-2 text-[10px] font-black uppercase whitespace-nowrap transition-all border-2 border-transparent ${selectedTemplate === t.id
-                                            ? "bg-foreground text-white border-foreground"
-                                            : "hover:bg-white text-slate-500"
+                                        onClick={() => {
+                                            setSelectedTemplate(t.id);
+                                            setShowTemplates(false);
+                                        }}
+                                        className={`group relative p-4 rounded-2xl border-2 text-left transition-all ${selectedTemplate === t.id
+                                                ? "border-primary bg-primary/10 shadow-lg shadow-primary/5"
+                                                : "border-white/5 bg-white/5 hover:border-white/20 hover:bg-white/10"
                                             }`}
                                     >
-                                        {t.name}
+                                        <div className="mb-3 w-8 h-8 rounded-lg bg-white/10 flex items-center justify-center group-hover:scale-110 transition-transform">
+                                            <FileText className={`w-4 h-4 ${selectedTemplate === t.id ? "text-primary" : "text-slate-400"}`} />
+                                        </div>
+                                        <div className="font-bold text-sm text-white mb-1 leading-tight">{t.name}</div>
+                                        <div className="text-[10px] font-medium text-slate-500 uppercase tracking-wider">{t.category}</div>
                                     </button>
                                 ))}
                             </div>
                         </div>
-
-                        <button
-                            onClick={handleDownload}
-                            className="bg-green-500 text-white border-4 border-foreground px-8 py-3 font-black uppercase text-sm hover:bg-black transition-all flex items-center justify-center gap-3 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none"
-                        >
-                            <Download className="w-5 h-5" />
-                            Download PDF
-                        </button>
-                    </div>
-                </div>
-
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start relative px-4 sm:px-0">
-
-                    {/* Left Side: Editor */}
-                    <div className={`lg:col-span-12 xl:col-span-5 h-[calc(100vh-180px)] xl:sticky xl:top-36 transition-all duration-500 ${showAIAssistant ? "xl:translate-x-[-20%] scale-95 opacity-50" : ""}`}>
-                        <ResumeEditor
-                            data={data}
-                            setData={setData}
-                            mode={mode}
-                            setMode={setMode}
-                            onTriggerAI={handleTriggerAI}
-                        />
-                    </div>
-
-                    {/* AI Assistant Overlay/Panel */}
-                    {showAIAssistant && (
-                        <div className="fixed inset-y-0 right-0 w-full sm:w-[400px] z-[50] shadow-[-20px_0_50px_rgba(0,0,0,0.2)]">
-                            <AIAssistant
-                                currentMode={mode}
-                                onClose={() => setShowAIAssistant(false)}
-                                onSelectSuggestion={handleAISelect}
-                            />
-                        </div>
                     )}
 
-                    {/* Right Side: Live Preview */}
-                    <div className={`lg:col-span-12 xl:col-span-7 print:hidden transition-all duration-500 ${showAIAssistant ? "xl:blur-sm" : ""}`}>
-                        <div id="resume-preview-section" className="relative group scale-[0.85] origin-top xl:scale-100">
-                            {/* Browser/Device Chrome Mockup */}
-                            <div className="bg-foreground text-white p-3 flex items-center justify-between border-4 border-foreground border-b-0 shadow-[12px_0_0_0_#000]">
-                                <div className="flex gap-1.5">
-                                    <div className="w-3 h-3 rounded-full bg-red-400"></div>
-                                    <div className="w-3 h-3 rounded-full bg-yellow-400"></div>
-                                    <div className="w-3 h-3 rounded-full bg-green-400"></div>
+                    {/* Unified Canvas Section */}
+                    <div className="flex-1 flex overflow-hidden">
+                        {/* Center: Live Resume Designer */}
+                        <div className="flex-1 overflow-y-auto no-scrollbar p-12 lg:p-24 flex justify-center bg-transparent">
+                            <div className="relative group transition-transform duration-700 hover:scale-[1.01]">
+                                <div className="absolute -inset-4 bg-gradient-to-br from-primary/20 to-blue-600/20 blur-3xl opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
+                                <div className="relative">
+                                    <ResumeTemplates
+                                        selectedTemplate={selectedTemplate}
+                                        data={data}
+                                        mode={mode}
+                                    />
                                 </div>
-                                <div className="text-[10px] font-black uppercase tracking-widest flex items-center gap-2">
-                                    <Sparkles className="w-3 h-3 text-primary animate-pulse" />
-                                    AI-Enhanced Preview • {TEMPLATES.find(t => t.id === selectedTemplate)?.name}
-                                </div>
-                                <div className="w-12"></div>
-                            </div>
-
-                            <div className="border-4 border-foreground min-h-[1050px] overflow-hidden bg-white shadow-[12px_12px_0_0_#000]">
-                                <ResumeTemplates
-                                    selectedTemplate={selectedTemplate}
-                                    data={data}
-                                    mode={mode}
-                                />
                             </div>
                         </div>
+
+                        {/* Right: AI Intelligence Hub (Always Presence) */}
+                        <aside className="w-[380px] border-l border-white/10 bg-black/20 backdrop-blur-xl flex flex-col">
+                            <div className="p-6 border-b border-white/5 flex items-center gap-3">
+                                <div className="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></div>
+                                <h2 className="text-white font-bold tracking-tight uppercase text-[10px]">Intelligence Hub</h2>
+                            </div>
+                            <div className="flex-1 overflow-hidden relative">
+                                <AIAssistant
+                                    onSuggestionAction={(text) => handleCommand(text)}
+                                    resumeData={data}
+                                />
+                            </div>
+                        </aside>
                     </div>
-                </div>
+                </main>
             </div>
 
-            {/* Print Only Section */}
-            <div className="hidden print:block fixed inset-0 z-[9999] bg-white">
-                {data && (
-                    <ResumeTemplates
-                        selectedTemplate={selectedTemplate}
-                        data={data}
-                        mode={mode}
-                    />
-                )}
+            {/* Print Only Container */}
+            <div className="hidden print:block absolute inset-0 bg-white text-black z-[9999]">
+                <ResumeTemplates
+                    selectedTemplate={selectedTemplate}
+                    data={data}
+                    mode={mode}
+                />
             </div>
 
             <style jsx global>{`
                 @media print {
-                    @page {
-                        margin: 0;
-                        size: A4;
-                    }
-                    body * {
-                        visibility: hidden;
-                    }
-                    #resume-preview-container, 
-                    #resume-preview-container * {
-                        visibility: visible;
-                    }
-                    #resume-preview-container {
-                        position: absolute;
-                        left: 0;
-                        top: 0;
-                        width: 100%;
-                        height: 100%;
-                        margin: 0;
-                        padding: 0;
-                        overflow: visible !important;
-                        background: white !important;
-                    }
+                    @page { margin: 0; size: A4; }
+                    body { background: white !important; }
+                    .print\:hidden { display: none !important; }
+                }
+                .custom-scrollbar::-webkit-scrollbar {
+                    width: 4px;
+                }
+                .custom-scrollbar::-webkit-scrollbar-track {
+                    background: transparent;
+                }
+                .custom-scrollbar::-webkit-scrollbar-thumb {
+                    background: rgba(255, 255, 255, 0.1);
+                    border-radius: 10px;
+                }
+                .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+                    background: rgba(255, 255, 255, 0.2);
                 }
             `}</style>
-        </section>
+        </div>
     );
 }
