@@ -156,6 +156,68 @@ export default function Home() {
         </div>
       </section>
 
+      {/* TESTIMONIALS SECTION */}
+      <section id="testimonials" className="bg-white px-6 py-24 sm:px-12 border-t-8 border-foreground overflow-hidden">
+        <div className="mx-auto max-w-7xl">
+          <div className="mb-20 flex flex-col sm:flex-row sm:items-end justify-between border-b-8 border-foreground pb-8 gap-6">
+            <div className="max-w-2xl">
+              <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase">
+                Student Success
+              </h2>
+              <p className="mt-4 text-xl font-medium text-gray-600">
+                What students and parents say about CareerWithMohit.
+              </p>
+            </div>
+            <a
+              href="https://g.page/r/YOUR_GOOGLE_REVIEW_LINK/review"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex h-14 items-center justify-center rounded-md bg-accent px-8 py-3 text-lg font-bold text-foreground transition-all hover:bg-white hover:scale-105 border-4 border-foreground whitespace-nowrap shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+            >
+              Review us on Google &rarr;
+            </a>
+          </div>
+
+          <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            {[
+              {
+                name: "Rahul Sharma",
+                role: "IIM Ahmedabad (Class of 2026)",
+                text: "Mohit's guidance during my WAT-PI prep was game-changing. The mock interviews were realistic and the feedback was brutal but necessary.",
+                rating: 5
+              },
+              {
+                name: "Priya Verma",
+                role: "Parent of B.Tech Aspirant",
+                text: "We were confused about college priorities. Mohit provided a clear roadmap and helped my daughter secure admission in a top tier-1 institute.",
+                rating: 5
+              },
+              {
+                name: "Ankit Mehra",
+                role: "Marketing Professional",
+                text: "The resume building service is top-notch. I saw a 40% increase in profile views on LinkedIn within two weeks of updating my CV.",
+                rating: 5
+              }
+            ].map((testimonial, i) => (
+              <div key={i} className="bg-gray-50 border-4 border-foreground p-8 rounded-xl relative hover:bg-white transition-colors">
+                <div className="flex gap-1 mb-4">
+                  {[...Array(5)].map((_, i) => (
+                    <span key={i} className="text-yellow-400 text-xl font-black">★</span>
+                  ))}
+                </div>
+                <p className="text-gray-700 italic font-medium mb-6 leading-relaxed">
+                  "{testimonial.text}"
+                </p>
+                <div>
+                  <h4 className="font-bold text-foreground text-lg">{testimonial.name}</h4>
+                  <p className="text-primary font-bold text-sm uppercase tracking-wider">{testimonial.role}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* ARTICLES SECTION */}
       <section id="articles" className="bg-muted px-6 py-24 sm:px-12 border-t-8 border-foreground">
         <div className="mx-auto max-w-7xl">

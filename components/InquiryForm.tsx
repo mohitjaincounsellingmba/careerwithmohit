@@ -80,14 +80,23 @@ export function InquiryForm() {
   };
   if (status === 'success') {
     return (
-      <div className="bg-emerald-50 border-8 border-foreground p-12 text-center rounded-xl shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
-        <h2 className="text-4xl font-black text-foreground mb-4 uppercase italic">Success!</h2>
-        <p className="text-xl font-bold text-gray-800 mb-8">
-          Thank you for reaching out. Our career experts will contact you shortly.
-        </p>
+      <div className="bg-green-50 border-4 border-foreground p-8 rounded-xl text-center">
+        <h3 className="text-3xl font-black text-foreground mb-4 uppercase italic">Success!</h3>
+        <p className="text-xl font-medium text-gray-700 mb-6">Your inquiry has been received. Our team will contact you shortly.</p>
+        <div className="pt-6 border-t-2 border-green-200">
+          <p className="text-sm font-bold text-gray-500 uppercase tracking-widest mb-4">While you wait...</p>
+          <a
+            href="https://g.page/r/YOUR_GOOGLE_REVIEW_LINK/review"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-accent text-foreground px-6 py-3 rounded-md font-bold border-2 border-foreground hover:bg-white transition-all hover:scale-105"
+          >
+            Share your experience on Google
+          </a>
+        </div>
         <button
           onClick={() => setStatus('idle')}
-          className="bg-primary text-white border-4 border-foreground px-8 py-4 text-xl font-black uppercase hover:bg-blue-600 transition-all hover:scale-105 active:translate-y-1"
+          className="bg-primary text-white border-4 border-foreground px-8 py-4 text-xl font-black uppercase hover:bg-blue-600 transition-all hover:scale-105 active:translate-y-1 mt-8"
         >
           Send Another Inquiry
         </button>
