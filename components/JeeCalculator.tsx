@@ -22,6 +22,7 @@ export function JeeCalculator() {
 
     // Response Sheet URL State
     const [responseSheetUrl, setResponseSheetUrl] = useState("");
+    const [calculationMethod, setCalculationMethod] = useState<"manual" | "url">("manual");
 
     // Lead Form State
     const [showLeadForm, setShowLeadForm] = useState(false);
@@ -109,6 +110,7 @@ export function JeeCalculator() {
                     source: `JEE Main 2026 Calculator`,
                     score: stats.totalScore,
                     percentile: stats.percentile,
+                    responseSheetUrl: responseSheetUrl,
                     physics: stats.subjectScores.Physics,
                     chemistry: stats.subjectScores.Chemistry,
                     maths: stats.subjectScores.Mathematics,
@@ -166,7 +168,10 @@ export function JeeCalculator() {
                                 className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
                             />
                             <button
-                                onClick={() => setShowLeadForm(true)}
+                                onClick={() => {
+                                    setCalculationMethod("url");
+                                    setShowLeadForm(true);
+                                }}
                                 className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
                             >
                                 Submit URL
@@ -297,7 +302,10 @@ export function JeeCalculator() {
                                         <h3 className="text-3xl font-black uppercase mb-4 leading-none">JEE Result Locked</h3>
                                         <p className="text-slate-400 font-bold mb-8">Enter details to view your subject-wise score and 2026 percentile.</p>
                                         <button
-                                            onClick={() => setShowLeadForm(true)}
+                                            onClick={() => {
+                                                setCalculationMethod("manual");
+                                                setShowLeadForm(true);
+                                            }}
                                             className="w-full bg-primary text-white border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-white hover:text-primary transition-all"
                                         >
                                             Unlock Results
@@ -305,14 +313,34 @@ export function JeeCalculator() {
                                     </div>
                                 ) : (
                                     <form onSubmit={handleLeadSubmit} className="relative z-10 w-full space-y-4">
-                                        <input required type="text" placeholder="Full Name" value={leadData.name} onChange={e => setLeadData({ ...leadData, name: e.target.value })} className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40" />
-                                        <input required type="tel" placeholder="WhatsApp Number" value={leadData.number} onChange={e => setLeadData({ ...leadData, number: e.target.value })} className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40" />
-                                        <input required type="email" placeholder="Email" value={leadData.email} onChange={e => setLeadData({ ...leadData, email: e.target.value })} className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40" />
-                                        <input required type="text" placeholder="Location" value={leadData.location} onChange={e => setLeadData({ ...leadData, location: e.target.value })} className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40" />
+                                        <input required type="text" placeholder="Full Name" value={leadData.name} onChange={e => setLeadData({ ...leadData, name: e.target.value })} className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none" />
+                                        <input required type="tel" placeholder="WhatsApp Number" value={leadData.number} onChange={e => setLeadData({ ...leadData, number: e.target.value })} className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none" />
+                                        <input required type="email" placeholder="Email" value={leadData.email} onChange={e => setLeadData({ ...leadData, email: e.target.value })} className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none" />
+                                        <input required type="text" placeholder="Location" value={leadData.location} onChange={e => setLeadData({ ...leadData, location: e.target.value })} className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none" />
                                         <button type="submit" className="w-full bg-primary text-white p-4 font-black uppercase hover:bg-white hover:text-primary transition-all">Show Final Rank</button>
-                                        <button type="button" onClick={() => setShowLeadForm(false)} className="text-xs font-bold text-white/50 uppercase">Back</button>
+                                        <button type="button" onClick={() => setShowLeadForm(false)} className="text-xs font-bold text-white/50 uppercase hover:text-white transition-colors">Back</button>
                                     </form>
                                 )}
+                            </div>
+                        ) : calculationMethod === "url" ? (
+                            <div className="bg-blue-600 text-white p-10 border-b-[12px] border-foreground relative overflow-hidden animate-in fade-in zoom-in duration-500 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                                <div className="absolute top-0 right-0 p-4 opacity-10">
+                                    <Zap className="w-40 h-40" />
+                                </div>
+                                <div className="relative z-10 text-center space-y-6">
+                                    <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 animate-spin">
+                                        <RefreshCw className="w-8 h-8 text-white relative z-10" />
+                                    </div>
+                                    <h3 className="text-2xl md:text-3xl font-black uppercase mb-2 leading-tight">
+                                        Analyzing Response Sheet...
+                                    </h3>
+                                    <p className="text-white/80 font-bold text-sm md:text-base leading-relaxed border-t-2 border-white/20 pt-6">
+                                        We have received your JEE Response Sheet URL successfully. Our system is mapping your answers against the official key.
+                                    </p>
+                                    <div className="bg-black/30 p-4 rounded-xl border-2 border-white/10 text-sm font-black tracking-widest uppercase">
+                                        We will WhatsApp your exact score shortly! 🎓
+                                    </div>
+                                </div>
                             </div>
                         ) : (
                             <div className="bg-foreground text-white p-8 border-b-[12px] border-primary animate-in zoom-in duration-500">
@@ -331,7 +359,7 @@ export function JeeCalculator() {
                             </div>
                         )}
 
-                        <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(33,150,243,1)] transition-all ${!isUnlocked ? "blur-md grayscale pointer-events-none opacity-50" : ""}`}>
+                        <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(33,150,243,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-md grayscale pointer-events-none opacity-50" : ""}`}>
                             <div className="text-xs font-black uppercase text-slate-500 mb-2">Overall Accuracy</div>
                             <div className="text-3xl font-black">{stats.accuracy.toFixed(1)}%</div>
                             <div className="w-full bg-slate-100 h-3 mt-4 border-2 border-foreground overflow-hidden">

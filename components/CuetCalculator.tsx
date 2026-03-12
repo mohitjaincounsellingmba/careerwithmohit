@@ -88,6 +88,7 @@ export function CuetCalculator() {
                     source: `CUET PG 2026 Calculator`,
                     score: stats.score,
                     percentile: stats.percentile,
+                    responseSheetUrl: responseSheetUrl,
                     timestamp: new Date().toISOString()
                 }),
             });
