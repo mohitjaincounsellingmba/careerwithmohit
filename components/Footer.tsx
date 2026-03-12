@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <footer className="bg-foreground text-white">
       <div className="mx-auto max-w-7xl px-6 py-16 sm:px-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-12 mb-12">
           <div className="md:col-span-2">
             <span className="font-display text-2xl font-bold tracking-tight block mb-4 flex items-center gap-3">
               <Compass className="h-8 w-8 text-primary" />
@@ -42,18 +42,13 @@ export function Footer() {
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Online MBA</h3>
             <ul className="space-y-4 text-base font-medium">
               <li>
-                <a href="https://www.upgrad.com/mba-course/" target="_blank" rel="noopener noreferrer" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">
-                  MBA from upGrad
-                </a>
-              </li>
-              <li>
-                <a href="https://www.upgrad.com/mba-course/" target="_blank" rel="noopener noreferrer" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">
-                  Online MBA Programs
-                </a>
-              </li>
-              <li>
-                <a href="https://www.upgrad.com/mba-course/" target="_blank" rel="noopener noreferrer" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">
-                  MBA without CAT
+                <a
+                  href="https://www.upgrad.com/mba-course/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-primary hover:translate-x-1 inline-block transition-transform"
+                >
+                  MBA Online (upGrad)
                 </a>
               </li>
             </ul>
