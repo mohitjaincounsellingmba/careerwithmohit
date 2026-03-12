@@ -19,7 +19,7 @@ export function SubscribeForm() {
 
     try {
       // Direct Activepieces Webhook Call
-      const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3', {
+      const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
         method: 'POST',
         mode: 'cors',
         headers: { 'Content-Type': 'application/json' },
