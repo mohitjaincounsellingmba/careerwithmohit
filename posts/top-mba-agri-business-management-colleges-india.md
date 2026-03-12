@@ -115,19 +115,6 @@ In this comprehensive guide, we cover the top 20 institutions in India for MBA/P
 *   **Top Recruiters**: Adani Wilmar, HDFC, local Agri-input MNCs.
 *   **Designations**: Territory Manager, Distribution Lead.
 
----
-
-### Summary Table: Avg Package vs Tier
-
-| Category | Typical Avg Package | Best Colleges | 
-| :--- | :--- | :--- |
-| **Elite (Tier 1)** | ₹15 - 32 LPA | IIM-A, IIM-L, IRMA |
-| **Specialized (Tier 2)** | ₹9 - 14 LPA | MANAGE, NIAM, SIIB, NAARM, VAMNICOM |
-| **Solid Return (Tier 3)** | ₹6 - 9 LPA | UASB, BHU, GBPUAT, LPU, WeSchool |
-| **Entry Plus (Tier 4)** | ₹4 - 6 LPA | ISAB, PAU, TNAU, Amity |
-
----
-
 ### Key Job Designations in Agri-Business
 If you are planning to enter this field, here are the most common roles you will land:
 *   **Category Manager (FMCG)**: Managing specific food products in retail chains.
