@@ -27,10 +27,16 @@ export function CollegeCard({ college }: { college: CollegeMetadata }) {
           <h3 className="text-xl font-bold text-slate-900 group-hover:text-blue-600 transition-colors mb-1">
             {college.name}
           </h3>
-          <div className="flex items-center text-slate-500 text-sm">
+          <div className="flex items-center text-slate-500 text-sm mb-3">
             <MapPin className="w-4 h-4 mr-1" />
             {college.location}
           </div>
+          <Link
+            href="/inquiry"
+            className="inline-flex items-center gap-1.5 text-xs font-black uppercase tracking-widest bg-primary text-white px-3 py-1.5 rounded-md hover:bg-primary/90 transition-colors"
+          >
+            Inquiry Now
+          </Link>
         </div>
 
         <div className="flex flex-wrap gap-1.5 mb-6">

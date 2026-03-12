@@ -39,6 +39,26 @@ export function Footer() {
             </ul>
           </div>
           <div>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Online MBA</h3>
+            <ul className="space-y-4 text-base font-medium">
+              <li>
+                <a href="https://www.upgrad.com/mba-course/" target="_blank" rel="noopener noreferrer" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">
+                  MBA from upGrad
+                </a>
+              </li>
+              <li>
+                <a href="https://www.upgrad.com/mba-course/" target="_blank" rel="noopener noreferrer" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">
+                  Online MBA Programs
+                </a>
+              </li>
+              <li>
+                <a href="https://www.upgrad.com/mba-course/" target="_blank" rel="noopener noreferrer" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">
+                  MBA without CAT
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Previous Year Papers</h3>
             <ul className="space-y-4 text-base font-medium">
               <li><Link href="/resources/cat" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CAT Papers</Link></li>
