@@ -9,7 +9,7 @@ export type TemplateId =
     | "modern-cascade" | "tech-minimal" | "creative-sidebar" | "ats-standard"
     | "minimal-mono" | "google-serif" | "zety-diamond" | "novoresume-pro"
     | "elegant-gold" | "compact-grid" | "ivy-academic" | "startup-bold"
-    | "corporate-clean" | "design-focus" | "entry-zero" | "executive-summary";
+    | "ai-impact" | "oxford-executive" | "minimal-modern" | "tech-founder";
 
 interface TemplateProps {
     data: ResumeData;
@@ -473,6 +473,101 @@ const ElegantGold = ({ data, mode }: TemplateProps) => (
     </div>
 );
 
+/* 
+  --------------------------------------------------------------------------------
+  TEMPLATE 7: AI IMPACT (Modern, Metric-Focused)
+  --------------------------------------------------------------------------------
+*/
+const AIImpact = ({ data, mode }: TemplateProps) => (
+    <div className="bg-white p-12 font-sans text-slate-800 shadow-lg max-w-[800px] mx-auto min-h-[1050px]">
+        <header className="mb-10 text-center relative">
+            <div className="absolute top-0 left-0 w-12 h-12 border-t-4 border-l-4 border-primary opacity-20"></div>
+            <div className="absolute bottom-0 right-0 w-12 h-12 border-b-4 border-r-4 border-primary opacity-20"></div>
+            <h1 className="text-4xl font-black uppercase tracking-tighter mb-2">{data.personalInfo.name}</h1>
+            <p className="text-sm font-bold text-primary uppercase tracking-[0.2em] mb-4">{data.personalInfo.title}</p>
+            <div className="flex justify-center gap-6 text-[10px] font-black uppercase text-slate-400">
+                <span>{data.personalInfo.email}</span>
+                <span>•</span>
+                <span>{data.personalInfo.phone}</span>
+                <span>•</span>
+                <span>{data.personalInfo.location}</span>
+            </div>
+        </header>
+
+        <div className="grid grid-cols-1 gap-12">
+            <section>
+                <div className="flex items-center gap-4 mb-6">
+                    <h2 className="text-xs font-black uppercase tracking-widest text-slate-900 shrink-0">Executive Summary</h2>
+                    <div className="h-[1px] bg-slate-100 w-full"></div>
+                </div>
+                <p className="text-sm leading-relaxed text-slate-600 font-medium italic">"{data.summary}"</p>
+            </section>
+
+            <section>
+                <div className="flex items-center gap-4 mb-6">
+                    <h2 className="text-xs font-black uppercase tracking-widest text-slate-900 shrink-0">Strategic Impact</h2>
+                    <div className="h-[1px] bg-slate-100 w-full"></div>
+                </div>
+                <div className="space-y-8">
+                    {data.experience.map((exp, i) => (
+                        <div key={i} className="relative pl-6 border-l-2 border-primary/20 hover:border-primary transition-colors">
+                            <div className="absolute -left-[5px] top-0 w-2 h-2 rounded-full bg-primary"></div>
+                            <div className="flex justify-between items-start mb-2">
+                                <div>
+                                    <h3 className="font-black text-sm uppercase text-slate-900">{exp.role}</h3>
+                                    <p className="text-[10px] font-bold text-primary uppercase">{exp.company}</p>
+                                </div>
+                                <span className="text-[9px] font-black text-slate-400 uppercase">{exp.dates}</span>
+                            </div>
+                            <ul className="grid grid-cols-1 gap-3">
+                                {exp.bullets.map((b, j) => (
+                                    <li key={j} className="text-xs text-slate-600 flex gap-3">
+                                        <span className="text-primary font-black">»</span>
+                                        <span>{b}</span>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    ))}
+                </div>
+            </section>
+
+            <div className="grid grid-cols-2 gap-10">
+                <section>
+                    <div className="flex items-center gap-4 mb-4">
+                        <h2 className="text-xs font-black uppercase tracking-widest text-slate-900 shrink-0">Expertise</h2>
+                        <div className="h-[1px] bg-slate-100 w-full"></div>
+                    </div>
+                    <div className="flex flex-wrap gap-2">
+                        {data.skills.map((s, i) => (
+                            <div key={i} className="w-full">
+                                <p className="text-[9px] font-black uppercase text-slate-400 mb-1">{s.category}</p>
+                                <p className="text-xs font-bold text-slate-700">{s.items}</p>
+                            </div>
+                        ))}
+                    </div>
+                </section>
+
+                <section>
+                    <div className="flex items-center gap-4 mb-4">
+                        <h2 className="text-xs font-black uppercase tracking-widest text-slate-900 shrink-0">Education</h2>
+                        <div className="h-[1px] bg-slate-100 w-full"></div>
+                    </div>
+                    <div className="space-y-4">
+                        {data.education.map((edu, i) => (
+                            <div key={i}>
+                                <h3 className="font-black text-[11px] uppercase text-slate-900">{edu.degree}</h3>
+                                <p className="text-[10px] font-bold text-slate-500 italic">{edu.school}</p>
+                                <p className="text-[9px] font-black text-primary uppercase">{edu.dates}</p>
+                            </div>
+                        ))}
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+);
+
 // Map of Template Components
 const templateMap: Record<TemplateId, React.FC<TemplateProps>> = {
     "hbs-classic": HBSClassic,
@@ -491,10 +586,10 @@ const templateMap: Record<TemplateId, React.FC<TemplateProps>> = {
     "compact-grid": TechMinimal,
     "ivy-academic": HBSClassic,
     "startup-bold": CreativeSidebar,
-    "corporate-clean": HBSClassic,
-    "design-focus": CreativeSidebar,
-    "entry-zero": TechMinimal,
-    "executive-summary": WhartonFinance
+    "ai-impact": AIImpact,
+    "oxford-executive": WhartonFinance,
+    "minimal-modern": TechMinimal,
+    "tech-founder": ModernCascade
 };
 
 export function ResumeTemplates({ selectedTemplate, data, mode }: { selectedTemplate: TemplateId; data: ResumeData; mode: ResumeMode }) {

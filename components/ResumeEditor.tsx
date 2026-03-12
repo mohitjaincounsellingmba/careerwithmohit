@@ -5,7 +5,7 @@ import {
     User, Mail, Phone, MapPin, Linkedin, Globe, Github,
     GraduationCap, Briefcase, Award, Plus, Trash2,
     ChevronLeft, ChevronRight, Eye, Layout, FileText,
-    Sparkles, Target, Zap
+    Sparkles, Target, Zap, Wand2
 } from "lucide-react";
 
 export type ResumeMode = "Student" | "Professional";
@@ -50,7 +50,7 @@ export interface ResumeData {
     certifications: string[];
 }
 
-const initialData: ResumeData = {
+export const initialData: ResumeData = {
     personalInfo: {
         name: "",
         title: "",
@@ -69,14 +69,22 @@ const initialData: ResumeData = {
     certifications: [""],
 };
 
-export function ResumeEditor({ onDataChange }: { onDataChange: (data: ResumeData, mode: ResumeMode) => void }) {
-    const [mode, setMode] = useState<ResumeMode>("Student");
+export function ResumeEditor({
+    data,
+    setData,
+    mode,
+    setMode,
+    onTriggerAI
+}: {
+    data: ResumeData;
+    setData: React.Dispatch<React.SetStateAction<ResumeData>>;
+    mode: ResumeMode;
+    setMode: (mode: ResumeMode) => void;
+    onTriggerAI?: (type: string, currentText: string) => void;
+}) {
     const [step, setStep] = useState(1);
-    const [data, setData] = useState<ResumeData>(initialData);
 
-    useEffect(() => {
-        onDataChange(data, mode);
-    }, [data, mode, onDataChange]);
+    // We'll handle data change notification in the parent
 
     const handleChange = (section: keyof ResumeData, field: string, value: any, index?: number) => {
         setData(prev => {
@@ -132,8 +140,8 @@ export function ResumeEditor({ onDataChange }: { onDataChange: (data: ResumeData
                 <button
                     onClick={() => setMode("Student")}
                     className={`flex-1 flex items-center justify-center gap-2 py-3 font-black uppercase text-sm transition-all border-2 ${mode === "Student"
-                            ? "bg-foreground text-white border-foreground"
-                            : "bg-white text-foreground border-transparent hover:border-slate-300"
+                        ? "bg-foreground text-white border-foreground"
+                        : "bg-white text-foreground border-transparent hover:border-slate-300"
                         }`}
                 >
                     <GraduationCap className="w-4 h-4" />
@@ -142,8 +150,8 @@ export function ResumeEditor({ onDataChange }: { onDataChange: (data: ResumeData
                 <button
                     onClick={() => setMode("Professional")}
                     className={`flex-1 flex items-center justify-center gap-2 py-3 font-black uppercase text-sm transition-all border-2 ${mode === "Professional"
-                            ? "bg-foreground text-white border-foreground"
-                            : "bg-white text-foreground border-transparent hover:border-slate-300"
+                        ? "bg-foreground text-white border-foreground"
+                        : "bg-white text-foreground border-transparent hover:border-slate-300"
                         }`}
                 >
                     <Briefcase className="w-4 h-4" />
@@ -156,7 +164,7 @@ export function ResumeEditor({ onDataChange }: { onDataChange: (data: ResumeData
                 {[1, 2, 3, 4, 5, 6].map(s => (
                     <div key={s} className="flex items-center gap-2 shrink-0">
                         <div className={`w-8 h-8 flex items-center justify-center rounded-none border-2 font-black text-sm ${step === s ? "bg-primary text-white border-foreground" :
-                                step > s ? "bg-foreground text-white border-foreground" : "bg-white text-slate-300 border-slate-200"
+                            step > s ? "bg-foreground text-white border-foreground" : "bg-white text-slate-300 border-slate-200"
                             }`}>
                             {s}
                         </div>
@@ -240,13 +248,22 @@ export function ResumeEditor({ onDataChange }: { onDataChange: (data: ResumeData
                             <Sparkles className="w-6 h-6 text-primary" />
                             {mode === "Student" ? "Career Objective" : "Professional Summary"}
                         </h3>
-                        <textarea
-                            rows={6}
-                            value={data.summary}
-                            placeholder={mode === "Student" ? "Motivated management student with a strong academic background..." : "Passionate business leader with over 10 years of experience..."}
-                            onChange={e => setData(prev => ({ ...prev, summary: e.target.value }))}
-                            className="w-full bg-slate-50 border-4 border-foreground p-4 font-bold focus:bg-white focus:outline-none"
-                        ></textarea>
+                        <div className="relative group">
+                            <textarea
+                                rows={6}
+                                value={data.summary}
+                                placeholder={mode === "Student" ? "Motivated management student with a strong academic background..." : "Passionate business leader with over 10 years of experience..."}
+                                onChange={e => setData(prev => ({ ...prev, summary: e.target.value }))}
+                                className="w-full bg-slate-50 border-4 border-foreground p-4 font-bold focus:bg-white focus:outline-none pr-12"
+                            ></textarea>
+                            <button
+                                onClick={() => onTriggerAI?.("summary", data.summary)}
+                                className="absolute top-4 right-4 text-primary hover:scale-110 transition-transform bg-white border-2 border-foreground p-1 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]"
+                                title="Optimize with AI"
+                            >
+                                <Wand2 className="w-4 h-4" />
+                            </button>
+                        </div>
                     </div>
                 )}
 
@@ -340,14 +357,20 @@ export function ResumeEditor({ onDataChange }: { onDataChange: (data: ResumeData
                                     <div className="space-y-4">
                                         <label className="block text-xs font-black uppercase text-slate-500 mb-2">Key Accomplishments</label>
                                         {exp.bullets.map((bullet, bIdx) => (
-                                            <div key={bIdx} className="flex gap-2">
+                                            <div key={bIdx} className="flex gap-2 group/bullet relative">
                                                 <input
                                                     type="text"
                                                     value={bullet}
                                                     onChange={e => handleExperienceBulletChange(expIdx, bIdx, e.target.value)}
                                                     placeholder="Increased ROI by 20% by implementing..."
-                                                    className="w-full bg-white border-2 border-slate-200 p-2 font-medium text-sm focus:border-foreground focus:outline-none"
+                                                    className="w-full bg-white border-2 border-slate-200 p-2 font-medium text-sm focus:border-foreground focus:outline-none pr-10"
                                                 />
+                                                <button
+                                                    onClick={() => onTriggerAI?.("bullets", bullet)}
+                                                    className="absolute right-3 top-1/2 -translate-y-1/2 text-primary opacity-0 group-hover/bullet:opacity-100 transition-all hover:scale-110"
+                                                >
+                                                    <Sparkles className="w-3.5 h-3.5" />
+                                                </button>
                                             </div>
                                         ))}
                                         <button onClick={() => addExperienceBullet(expIdx)} className="text-xs font-black uppercase text-blue-600 flex items-center gap-1 hover:underline">

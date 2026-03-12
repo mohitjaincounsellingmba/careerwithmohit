@@ -1,8 +1,9 @@
 "use client";
 
 import { useState, useCallback } from "react";
-import { ResumeEditor, ResumeData, ResumeMode } from "@/components/ResumeEditor";
+import { ResumeEditor, ResumeData, ResumeMode, initialData } from "@/components/ResumeEditor";
 import { ResumeTemplates, TemplateId } from "@/components/ResumeTemplates";
+import { AIAssistant } from "@/components/AIAssistant";
 import {
     Download, Layout, FileText, ChevronRight,
     Monitor, Tablet, Smartphone, Sparkles, CheckCircle2
@@ -10,29 +11,38 @@ import {
 
 const TEMPLATES: { id: TemplateId; name: string; category: string; description: string }[] = [
     { id: "hbs-classic", name: "HBS Classic", category: "MBA / Finance", description: "The gold standard for top-tier careers." },
+    { id: "ai-impact", name: "AI Impact", category: "Premium / AI", description: "Metric-focused modern layout." },
+    { id: "oxford-executive", name: "Oxford Exec", category: "Executive", description: "Traditional leadership style." },
+    { id: "tech-founder", name: "Tech Founder", category: "Startup", description: "Bold, high-energy layout." },
     { id: "stanford-gsb", name: "Stanford GSB", category: "Expertise", description: "Modern, leadership-focused layout." },
-    { id: "wharton-finance", name: "Wharton Finance", category: "Finance", description: "Strict, dense, achievement-oriented." },
     { id: "modern-cascade", name: "Modern Cascade", category: "Modern", description: "Vibrant two-column layout for tech." },
-    { id: "tech-minimal", name: "Tech Minimal", category: "Tech", description: "Sleek, mono-spaced design focus." },
-    { id: "creative-sidebar", name: "Creative Sidebar", category: "Creative", description: "Visually impactful and unique." },
     { id: "ats-standard", name: "ATS Standard", category: "ATS-Friendly", description: "Engineered for 100% parse rate." },
-    { id: "google-serif", name: "Google Serif", category: "Classic", description: "Clean entry-level professional." },
-    { id: "zety-diamond", name: "Zety Diamond", category: "Modern", description: "Elegant fonts and iconography." },
-    { id: "minimal-mono", name: "Minimal Mono", category: "Minimal", description: "Bold black & white contrast." },
     { id: "elegant-gold", name: "Elegant Gold", category: "Professional", description: "Premium, sophisticated aesthetic." },
-    { id: "startup-bold", name: "Startup Bold", category: "Creative", description: "High-energy, impactful design." }
 ];
 
 export default function ResumeGeneratorClient() {
-    const [data, setData] = useState<ResumeData | null>(null);
+    const [data, setData] = useState<ResumeData>(initialData);
     const [mode, setMode] = useState<ResumeMode>("Student");
     const [selectedTemplate, setSelectedTemplate] = useState<TemplateId>("hbs-classic");
     const [isPrinting, setIsPrinting] = useState(false);
 
-    const handleDataChange = useCallback((newData: ResumeData, newMode: ResumeMode) => {
-        setData(newData);
-        setMode(newMode);
-    }, []);
+    // AI Assistant state
+    const [showAIAssistant, setShowAIAssistant] = useState(false);
+    const [aiContext, setAIContext] = useState<{ type: string; text: string } | null>(null);
+
+    const handleTriggerAI = (type: string, text: string) => {
+        setAIContext({ type, text });
+        setShowAIAssistant(true);
+    };
+
+    const handleAISelect = (suggestion: string, type: string) => {
+        if (type === "summary") {
+            setData(prev => ({ ...prev, summary: suggestion }));
+        } else if (type === "bullets") {
+            // For bullets, we append or replace? Let's say we replace for simplicity or the user can edit
+            // In a real app we'd pass the index too.
+        }
+    };
 
     const handleDownload = () => {
         setIsPrinting(true);
@@ -57,8 +67,8 @@ export default function ResumeGeneratorClient() {
                                         key={t.id}
                                         onClick={() => setSelectedTemplate(t.id)}
                                         className={`px-4 py-2 text-[10px] font-black uppercase whitespace-nowrap transition-all border-2 border-transparent ${selectedTemplate === t.id
-                                                ? "bg-foreground text-white border-foreground"
-                                                : "hover:bg-white text-slate-500"
+                                            ? "bg-foreground text-white border-foreground"
+                                            : "hover:bg-white text-slate-500"
                                             }`}
                                     >
                                         {t.name}
@@ -77,45 +87,53 @@ export default function ResumeGeneratorClient() {
                     </div>
                 </div>
 
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start">
+                <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start relative px-4 sm:px-0">
 
                     {/* Left Side: Editor */}
-                    <div className="lg:col-span-12 xl:col-span-5 h-[1050px] sticky top-36">
-                        <ResumeEditor onDataChange={handleDataChange} />
+                    <div className={`lg:col-span-12 xl:col-span-5 h-[calc(100vh-180px)] xl:sticky xl:top-36 transition-all duration-500 ${showAIAssistant ? "xl:translate-x-[-20%] scale-95 opacity-50" : ""}`}>
+                        <ResumeEditor
+                            data={data}
+                            setData={setData}
+                            mode={mode}
+                            setMode={setMode}
+                            onTriggerAI={handleTriggerAI}
+                        />
                     </div>
 
+                    {/* AI Assistant Overlay/Panel */}
+                    {showAIAssistant && (
+                        <div className="fixed inset-y-0 right-0 w-full sm:w-[400px] z-[50] shadow-[-20px_0_50px_rgba(0,0,0,0.2)]">
+                            <AIAssistant
+                                currentMode={mode}
+                                onClose={() => setShowAIAssistant(false)}
+                                onSelectSuggestion={handleAISelect}
+                            />
+                        </div>
+                    )}
+
                     {/* Right Side: Live Preview */}
-                    <div className="lg:col-span-12 xl:col-span-7 print:hidden">
-                        <div id="resume-preview-section" className="relative group">
+                    <div className={`lg:col-span-12 xl:col-span-7 print:hidden transition-all duration-500 ${showAIAssistant ? "xl:blur-sm" : ""}`}>
+                        <div id="resume-preview-section" className="relative group scale-[0.85] origin-top xl:scale-100">
                             {/* Browser/Device Chrome Mockup */}
-                            <div className="bg-foreground text-white p-3 flex items-center justify-between border-4 border-foreground border-b-0">
+                            <div className="bg-foreground text-white p-3 flex items-center justify-between border-4 border-foreground border-b-0 shadow-[12px_0_0_0_#000]">
                                 <div className="flex gap-1.5">
                                     <div className="w-3 h-3 rounded-full bg-red-400"></div>
                                     <div className="w-3 h-3 rounded-full bg-yellow-400"></div>
                                     <div className="w-3 h-3 rounded-full bg-green-400"></div>
                                 </div>
                                 <div className="text-[10px] font-black uppercase tracking-widest flex items-center gap-2">
-                                    <Monitor className="w-3 h-3" />
-                                    Live Preview • {TEMPLATES.find(t => t.id === selectedTemplate)?.name}
+                                    <Sparkles className="w-3 h-3 text-primary animate-pulse" />
+                                    AI-Enhanced Preview • {TEMPLATES.find(t => t.id === selectedTemplate)?.name}
                                 </div>
                                 <div className="w-12"></div>
                             </div>
 
-                            <div className="border-4 border-foreground min-h-[1050px] overflow-hidden bg-white">
-                                {data ? (
-                                    <ResumeTemplates
-                                        selectedTemplate={selectedTemplate}
-                                        data={data}
-                                        mode={mode}
-                                    />
-                                ) : (
-                                    <div className="h-[1050px] flex items-center justify-center p-12 text-center bg-slate-50">
-                                        <div className="animate-pulse">
-                                            <Sparkles className="w-12 h-12 text-primary mx-auto mb-4" />
-                                            <p className="text-xl font-black uppercase italic text-slate-300">Start typing to see magic...</p>
-                                        </div>
-                                    </div>
-                                )}
+                            <div className="border-4 border-foreground min-h-[1050px] overflow-hidden bg-white shadow-[12px_12px_0_0_#000]">
+                                <ResumeTemplates
+                                    selectedTemplate={selectedTemplate}
+                                    data={data}
+                                    mode={mode}
+                                />
                             </div>
                         </div>
                     </div>
