@@ -35,7 +35,7 @@ export function CareerRoadmapCalculator() {
 
         // Direct Activepieces Webhook Call
         try {
-            await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+            const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
                 method: "POST",
                 mode: 'cors',
                 headers: { "Content-Type": "application/json" },
@@ -45,12 +45,19 @@ export function CareerRoadmapCalculator() {
                     timestamp: new Date().toISOString()
                 }),
             });
+
+            if (!response.ok) {
+                const errorText = await response.text();
+                throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
+            }
+
+            setStep("result");
         } catch (e) {
             console.error('Webhook Error:', e);
+            alert('Submission failed. Please try again.');
+        } finally {
+            setSubmitting(false);
         }
-
-        setSubmitting(false);
-        setStep("result");
     };
 
     const reset = () => {

@@ -10,7 +10,7 @@ interface LeadGenFormProps {
 }
 
 export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormProps) {
-    const [status, setStatus] = useState<'idle' | 'submitting' | 'success'>('idle');
+    const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
     const [formData, setFormData] = useState({
         name: '',
         number: '',
@@ -24,7 +24,7 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
 
         // Direct Activepieces Webhook Call
         try {
-            await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+            const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
                 method: 'POST',
                 mode: 'cors',
                 headers: { 'Content-Type': 'application/json' },
@@ -37,14 +37,21 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
                     timestamp: new Date().toISOString()
                 }),
             });
+
+            if (!response.ok) {
+                const errorText = await response.text();
+                throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
+            }
+
+            setStatus('success');
+            setTimeout(() => {
+                onSuccess();
+            }, 1500);
         } catch (e: any) {
             console.error('Webhook Error:', e);
+            setStatus('error');
+            alert('Submission failed. Please try again.');
         }
-
-        setStatus('success');
-        setTimeout(() => {
-            onSuccess();
-        }, 1500);
     };
 
     if (status === 'success') {

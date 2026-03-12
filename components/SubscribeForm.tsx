@@ -19,7 +19,7 @@ export function SubscribeForm() {
 
     try {
       // Direct Activepieces Webhook Call
-      await fetch('https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3', {
+      const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3', {
         method: 'POST',
         mode: 'cors',
         headers: { 'Content-Type': 'application/json' },
@@ -31,6 +31,11 @@ export function SubscribeForm() {
           timestamp: new Date().toISOString()
         }),
       });
+
+      if (!response.ok) {
+        const errorText = await response.text();
+        throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
+      }
 
       setIsSuccess(true);
       setValue('');

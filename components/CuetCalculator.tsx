@@ -76,7 +76,7 @@ export function CuetCalculator() {
 
         // Direct Activepieces Webhook Call
         try {
-            await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+            const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
                 method: 'POST',
                 mode: 'cors',
                 headers: { 'Content-Type': 'application/json' },
@@ -91,12 +91,18 @@ export function CuetCalculator() {
                     timestamp: new Date().toISOString()
                 }),
             });
+
+            if (!response.ok) {
+                const errorText = await response.text();
+                throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
+            }
+
+            setIsUnlocked(true);
+            setShowLeadForm(false);
         } catch (e: any) {
             console.error('Webhook Error:', e);
+            alert('Submission failed. Please try again.');
         }
-
-        setIsUnlocked(true);
-        setShowLeadForm(false);
     };
 
     return (

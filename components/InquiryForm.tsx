@@ -49,27 +49,34 @@ export function InquiryForm() {
 
     // 1. Direct Activepieces Webhook Call
     try {
-      await fetch('https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3', {
+      const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3', {
         method: 'POST',
         mode: 'cors',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(leadPayload),
       });
+
+      if (!response.ok) {
+        const errorText = await response.text();
+        throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
+      }
+
+      // 2. Clear state and show success
+      setStatus('success');
+      setFormData({
+        name: '',
+        number: '',
+        email: '',
+        location: '',
+        preferredLocation: '',
+        budget: '',
+        course: ''
+      });
     } catch (e) {
       console.error('Activepieces Webhook Error:', e);
+      setStatus('error');
+      alert('Form submission failed. Please check your connection or try again later.');
     }
-
-    // 2. Clear state and show success
-    setStatus('success');
-    setFormData({
-      name: '',
-      number: '',
-      email: '',
-      location: '',
-      preferredLocation: '',
-      budget: '',
-      course: ''
-    });
   };
   if (status === 'success') {
     return (
