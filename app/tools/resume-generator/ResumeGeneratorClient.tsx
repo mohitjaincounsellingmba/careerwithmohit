@@ -167,8 +167,8 @@ export default function ResumeGeneratorClient() {
                                             setShowTemplates(false);
                                         }}
                                         className={`group relative p-4 rounded-2xl border-2 text-left transition-all ${selectedTemplate === t.id
-                                                ? "border-primary bg-primary/10 shadow-lg shadow-primary/5"
-                                                : "border-white/5 bg-white/5 hover:border-white/20 hover:bg-white/10"
+                                            ? "border-primary bg-primary/10 shadow-lg shadow-primary/5"
+                                            : "border-white/5 bg-white/5 hover:border-white/20 hover:bg-white/10"
                                             }`}
                                     >
                                         <div className="mb-3 w-8 h-8 rounded-lg bg-white/10 flex items-center justify-center group-hover:scale-110 transition-transform">
@@ -206,8 +206,13 @@ export default function ResumeGeneratorClient() {
                             </div>
                             <div className="flex-1 overflow-hidden relative">
                                 <AIAssistant
-                                    onSuggestionAction={(text) => handleCommand(text)}
-                                    resumeData={data}
+                                    onSelectSuggestion={(text, type) => {
+                                        if (type === "summary") setData(prev => ({ ...prev, summary: text }));
+                                    }}
+                                    onClose={() => {
+                                        // Sidebar is persistent in V2, but provide empty handler to satisfy TS
+                                    }}
+                                    currentMode={mode}
                                 />
                             </div>
                         </aside>
