@@ -9,9 +9,53 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("All Streams");
   const [selectedCourse, setSelectedCourse] = useState("All Courses");
+  const [selectedState, setSelectedState] = useState("All States");
   const [selectedCity, setSelectedCity] = useState("All Cities");
   const [selectedOwnership, setSelectedOwnership] = useState("All Types");
   const [showFilters, setShowFilters] = useState(false);
+
+  // Mapping of common patterns to standardized State/City
+  const locationMap = useMemo(() => {
+    return colleges.reduce((acc, college) => {
+      const loc = college.location.toLowerCase();
+      let state = "Other";
+      let city = "Other";
+
+      if (loc.includes("delhi")) {
+        state = "Delhi";
+        city = "Delhi";
+      } else if (loc.includes("uttar pradesh") || loc.includes("noida") || loc.includes("greater noida")) {
+        state = "Uttar Pradesh";
+        city = loc.includes("greater noida") ? "Greater Noida" : "Noida";
+      } else if (loc.includes("haryana") || loc.includes("gurgaon")) {
+        state = "Haryana";
+        city = "Gurgaon";
+      } else if (loc.includes("karnataka") || loc.includes("bangalore")) {
+        state = "Karnataka";
+        city = "Bangalore";
+      } else if (loc.includes("maharashtra") || loc.includes("mumbai") || loc.includes("pune")) {
+        state = "Maharashtra";
+        if (loc.includes("mumbai")) city = "Mumbai";
+        else if (loc.includes("pune")) city = "Pune";
+        else if (loc.includes("navi mumbai")) city = "Navi Mumbai";
+      } else if (loc.includes("rajasthan") || loc.includes("jaipur")) {
+        state = "Rajasthan";
+        city = "Jaipur";
+      } else if (loc.includes("uttarakhand") || loc.includes("dehradun")) {
+        state = "Uttarakhand";
+        city = "Dehradun";
+      } else if (loc.includes("west bengal") || loc.includes("kolkata")) {
+        state = "West Bengal";
+        city = "Kolkata";
+      } else if (loc.includes("gujarat") || loc.includes("ahmedabad")) {
+        state = "Gujarat";
+        city = "Ahmedabad";
+      }
+
+      acc[college.slug] = { state, city };
+      return acc;
+    }, {} as Record<string, { state: string; city: string }>);
+  }, [colleges]);
 
   const categories = ["All Streams", "Management", "Engineering", "UG Courses"];
   
@@ -21,10 +65,19 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
     return ["All Courses", ...Array.from(courses)].sort();
   }, [colleges]);
 
+  const states = useMemo(() => {
+    const allStates = new Set(Object.values(locationMap).map(l => l.state));
+    return ["All States", ...Array.from(allStates)].sort();
+  }, [locationMap]);
+
   const cities = useMemo(() => {
-    const allCities = colleges.map(c => c.location.split(',')[0].trim());
-    return ["All Cities", ...Array.from(new Set(allCities))].sort();
-  }, [colleges]);
+    let relevantLocations = Object.values(locationMap);
+    if (selectedState !== "All States") {
+      relevantLocations = relevantLocations.filter(l => l.state === selectedState);
+    }
+    const filteredCities = new Set(relevantLocations.map(l => l.city));
+    return ["All Cities", ...Array.from(filteredCities)].sort();
+  }, [locationMap, selectedState]);
 
   const ownershipTypes = ["All Types", "Public", "Private"];
 
@@ -32,6 +85,8 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
     const query = searchQuery.toLowerCase().trim();
     
     return colleges.filter(college => {
+      const locInfo = locationMap[college.slug];
+      
       const matchesSearch = !query || 
         college.name.toLowerCase().includes(query) ||
         college.location.toLowerCase().includes(query) ||
@@ -44,15 +99,18 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
       const matchesCourse = selectedCourse === "All Courses" || 
         college.courses.includes(selectedCourse);
 
+      const matchesState = selectedState === "All States" || 
+        locInfo.state === selectedState;
+
       const matchesCity = selectedCity === "All Cities" || 
-        college.location.toLowerCase().includes(selectedCity.toLowerCase());
+        locInfo.city === selectedCity;
 
       const matchesOwnership = selectedOwnership === "All Types" || 
         college.ownership.toLowerCase().includes(selectedOwnership.toLowerCase());
 
-      return matchesSearch && matchesCategory && matchesCourse && matchesCity && matchesOwnership;
+      return matchesSearch && matchesCategory && matchesCourse && matchesState && matchesCity && matchesOwnership;
     });
-  }, [searchQuery, selectedCategory, selectedCourse, selectedCity, selectedOwnership, colleges]);
+  }, [searchQuery, selectedCategory, selectedCourse, selectedState, selectedCity, selectedOwnership, colleges, locationMap]);
 
   return (
     <div className="min-h-screen bg-slate-50 py-12 px-4 sm:px-6 lg:px-8">
@@ -124,11 +182,28 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
               </div>
               
               <div className="space-y-2">
-                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Location / City</label>
+                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Select State</label>
+                <select 
+                  value={selectedState}
+                  onChange={(e) => {
+                    setSelectedState(e.target.value);
+                    setSelectedCity("All Cities"); // Reset city when state changes
+                  }}
+                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                >
+                  {states.map(state => (
+                    <option key={state} value={state}>{state}</option>
+                  ))}
+                </select>
+              </div>
+
+              <div className="space-y-2">
+                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Select City</label>
                 <select 
                   value={selectedCity}
                   onChange={(e) => setSelectedCity(e.target.value)}
-                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                  disabled={selectedState === "All States" && cities.length <= 1}
+                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold disabled:opacity-50"
                 >
                   {cities.map(city => (
                     <option key={city} value={city}>{city}</option>
@@ -154,6 +229,7 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
                   onClick={() => {
                     setSelectedCategory("All Streams");
                     setSelectedCourse("All Courses");
+                    setSelectedState("All States");
                     setSelectedCity("All Cities");
                     setSelectedOwnership("All Types");
                     setSearchQuery("");
