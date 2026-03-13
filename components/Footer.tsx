@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { Compass, Instagram } from 'lucide-react';
 
 export function Footer() {
@@ -7,8 +8,16 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-6 py-16 sm:px-12">
         <div className="grid grid-cols-1 md:grid-cols-5 gap-12 mb-12">
           <div className="md:col-span-2">
-            <span className="font-display text-2xl font-bold tracking-tight block mb-4 flex items-center gap-3">
-              <Compass className="h-8 w-8 text-primary" />
+            <span className="font-display text-2xl font-bold tracking-tight block mb-4 flex items-center gap-3 uppercase">
+              <div className="bg-white p-1 rounded-md border-2 border-primary">
+                <Image 
+                  src="/logo.webp" 
+                  alt="Mohit Jain Logo" 
+                  width={28} 
+                  height={28} 
+                  className="object-contain"
+                />
+              </div>
               Mohit Jain
             </span>
             <p className="text-gray-300 text-lg max-w-sm leading-relaxed font-medium">

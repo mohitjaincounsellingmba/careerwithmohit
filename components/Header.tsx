@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { Compass, Menu, X } from 'lucide-react';
+import Image from 'next/image';
 import { SearchInput } from './SearchInput';
 
 export function Header() {
@@ -14,10 +15,16 @@ export function Header() {
     <header className="sticky top-0 z-50 w-full border-b-2 border-gray-200 bg-white" role="banner">
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6 sm:px-12 relative">
         <Link href="/" className="flex items-center gap-3 transition-transform hover:-translate-y-0.5">
-          <div className="bg-primary text-white p-2 rounded-md">
-            <Compass className="h-6 w-6" />
+          <div className="bg-primary p-1.5 rounded-md border-2 border-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center bg-white overflow-hidden">
+            <Image 
+              src="/logo.webp" 
+              alt="Mohit Jain Career Counselling Logo" 
+              width={32} 
+              height={32} 
+              className="object-contain"
+            />
           </div>
-          <span className="font-display text-2xl font-bold tracking-tight text-foreground">Mohit Jain</span>
+          <span className="font-display text-2xl font-bold tracking-tight text-foreground uppercase">Mohit Jain</span>
         </Link>
         <nav className="hidden md:flex items-center gap-8 text-base font-bold text-foreground">
           <Link href="/" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Home Page">Home</Link>

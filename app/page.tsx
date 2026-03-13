@@ -34,7 +34,8 @@ export const metadata: Metadata = {
     "best career counsellor Delhi NCR", "resume building for MBA", "mba colleges in delhi", 
     "mba colleges in noida", "mba colleges in ghaziabad", "mba colleges in pune", 
     "mba colleges in mumbai", "mba colleges in bangalore", "mba colleges in jaipur", 
-    "mba colleges in delhi ncr"
+    "mba colleges in delhi ncr", "best mba colleges in delhi", "best mba colleges in pune",
+    "best mba colleges in mumbai", "best mba colleges in noida", "best mba colleges in bangalore"
   ],
   alternates: {
     canonical: "/",
@@ -54,8 +55,8 @@ export default function Home() {
 
         <div className="relative mx-auto max-w-7xl text-center z-10">
           <h1 className="font-display text-5xl font-extrabold tracking-tighter text-white sm:text-7xl md:text-8xl leading-none uppercase">
-            Navigate Your Career <br className="hidden sm:block" />
-            <span className="bg-accent text-foreground px-4 py-1 inline-block mt-4 -rotate-2 border-4 border-foreground">With Purpose</span>
+            Best MBA Colleges <br className="hidden sm:block" />
+            <span className="bg-accent text-foreground px-4 py-1 inline-block mt-4 -rotate-2 border-4 border-foreground">Admission 2026</span>
           </h1>
           <p className="mx-auto mt-10 max-w-2xl text-xl font-bold leading-relaxed text-blue-50">
             Expert career counselling, interview preparation, and bold strategies to help you dominate your professional goals.
@@ -80,7 +81,7 @@ export default function Home() {
           <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
             <div className="max-w-2xl">
               <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase">
-                Core Services
+                Find Best MBA Colleges in India
               </h2>
               <p className="mt-4 text-xl font-medium text-gray-600">
                 Total support across your entire academic and professional journey.

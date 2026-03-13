@@ -25,7 +25,8 @@ export const metadata: Metadata = {
     "BBA admission guidance", "BCA college guide", "mba colleges in delhi",
     "mba colleges in noida", "mba colleges in ghaziabad", "mba colleges in pune",
     "mba colleges in mumbai", "mba colleges in bangalore", "mba colleges in jaipur",
-    "mba colleges in delhi ncr"
+    "mba colleges in delhi ncr", "best mba colleges in delhi", "best mba colleges in pune",
+    "best mba colleges in mumbai", "best mba colleges in noida", "best mba colleges in bangalore"
   ],
   authors: [{ name: "Mohit Jain" }],
   verification: {
@@ -100,6 +101,9 @@ export default function RootLayout({
       "addressLocality": "Delhi NCR",
       "addressCountry": "IN"
     },
+    "areaServed": [
+      "Delhi", "Noida", "Gurgaon", "Pune", "Mumbai", "Bangalore", "Jaipur"
+    ],
     "priceRange": "$$"
   };
 
