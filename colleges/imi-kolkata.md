@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 2010
 ownership: "Private"
 ranking: "Top 70 in India"
-fees: "₹16.5 Lakhs"
-avg_placement: "₹10.6 LPA"
+fees: "₹16.0 Lakhs"
+avg_placement: "₹10.5 LPA"
 highest_placement: "₹20.3 LPA"
 exams: ["CAT", "XAT", "GMAT", "CMAT"]
 brochure_url: "/brochures/imik-2025.pdf"

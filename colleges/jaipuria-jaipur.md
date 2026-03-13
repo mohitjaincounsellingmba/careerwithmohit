@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 2006
 ownership: "Private"
 ranking: "Top B-School in Rajasthan"
-fees: "₹13.5 Lakhs"
-avg_placement: "₹10.0 LPA"
+fees: "₹12.0 Lakhs"
+avg_placement: "₹8.5 LPA"
 highest_placement: "₹22.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 brochure_url: "/brochures/jaipuria-jaipur-2025.pdf"

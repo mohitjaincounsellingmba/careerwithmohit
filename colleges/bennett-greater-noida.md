@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2016
 ownership: "Private"
 ranking: "#2 (Top Emerging Universities - Times)"
-fees: "₹17.0 Lakhs"
-avg_placement: "₹10.5 LPA"
-highest_placement: "₹26.5 LPA"
+fees: "₹16.5 Lakhs"
+avg_placement: "₹9.5 LPA"
+highest_placement: "₹33.0 LPA"
 exams: ["CAT", "MAT", "XAT", "NMAT", "CMAT"]
 website: "https://www.bennett.edu.in"
 ---

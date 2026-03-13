@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 1961
 ownership: "Public"
 ranking: "#1 (NIRF 2024)"
-fees: "₹27.5 - 30.5 Lakhs"
-avg_placement: "₹34.3 LPA"
+fees: "₹26.5 Lakhs"
+avg_placement: "₹35.0 LPA"
 highest_placement: "₹1.15 Crore"
 exams: ["CAT"]
 brochure_url: "/brochures/iima-pgp-2025.pdf"

@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 1963
 ownership: "Public"
 ranking: "#68 (NIRF 2024)"
-fees: "₹3.5 Lakhs"
-avg_placement: "₹9.1 LPA"
+fees: "₹3.2 Lakhs"
+avg_placement: "₹7.5 LPA"
 highest_placement: "₹16.0 LPA"
 exams: ["CAT", "CMAT"]
 brochure_url: "/brochures/mnit-2025.pdf"

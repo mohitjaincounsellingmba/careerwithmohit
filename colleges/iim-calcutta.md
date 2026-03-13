@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 1961
 ownership: "Public"
 ranking: "#5 (NIRF 2024)"
-fees: "₹27.5 - 31.5 Lakhs"
-avg_placement: "₹35.1 LPA"
+fees: "₹27.0 Lakhs"
+avg_placement: "₹35.0 LPA"
 highest_placement: "₹1.20 Crore"
 exams: ["CAT"]
 website: "https://www.iimcal.ac.in"

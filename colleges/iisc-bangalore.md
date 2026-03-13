@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 1948
 ownership: "Public"
 ranking: "#1 University in India (NIRF)"
-fees: "₹5.2 Lakhs"
-avg_placement: "₹30.0 LPA"
+fees: "₹1.7 Lakhs"
+avg_placement: "₹28.0 LPA"
 highest_placement: "₹86.0 LPA"
 exams: ["CAT", "GATE"]
 website: "https://mgmt.iisc.ac.in"

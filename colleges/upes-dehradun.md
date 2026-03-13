@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 2003
 ownership: "Private"
 ranking: "#41 (NIRF 2024)"
-fees: "₹18.5 Lakhs"
-avg_placement: "₹10.5 LPA"
+fees: "₹18.0 Lakhs"
+avg_placement: "₹10.0 LPA"
 highest_placement: "₹30.0 LPA"
 exams: ["UPESMET", "CAT", "MAT", "XAT", "CMAT"]
 brochure_url: "/brochures/upes-2025.pdf"

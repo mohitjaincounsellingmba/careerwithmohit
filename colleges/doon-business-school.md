@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 2007
 ownership: "Private"
 ranking: "Top Private B-School in Dehradun"
-fees: "₹10.5 Lakhs"
-avg_placement: "₹8.5 LPA"
+fees: "₹10.0 Lakhs"
+avg_placement: "₹8.0 LPA"
 highest_placement: "₹24.0 LPA"
 exams: ["CAT", "MAT", "CMAT", "XAT"]
 website: "https://www.doonbusinessschool.com"
