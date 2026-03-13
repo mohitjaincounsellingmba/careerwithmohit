@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1980
 ownership: "Private"
 ranking: "AACSB Accredited"
-fees: "₹17.3 Lakhs"
-avg_placement: "₹14.7 LPA"
-highest_placement: "₹24.8 LPA"
+fees: "₹17.0 Lakhs"
+avg_placement: "₹14.6 LPA"
+highest_placement: "₹32.0 LPA"
 exams: ["CAT", "XAT", "NMAT"]
 website: "https://www.tapmi.edu.in"
 ---

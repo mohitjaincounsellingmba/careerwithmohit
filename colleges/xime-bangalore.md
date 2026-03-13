@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 1991
 ownership: "Private"
 ranking: "Top 50 in India"
-fees: "₹15.7 Lakhs"
-avg_placement: "₹10.5 LPA"
+fees: "₹12.9 Lakhs"
+avg_placement: "₹10.0 LPA"
 highest_placement: "₹25.0 LPA"
 exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA"]
 brochure_url: "/brochures/xime-2025.pdf"

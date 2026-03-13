@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 2008
 ownership: "Private"
 ranking: "Top 10 Emerging B-Schools"
-fees: "₹22.0 Lakhs"
-avg_placement: "₹14.1 LPA"
+fees: "₹20.0 Lakhs"
+avg_placement: "₹14.0 LPA"
 highest_placement: "₹20.0 LPA"
 exams: ["NMAT"]
 website: "https://www.nmims.edu"

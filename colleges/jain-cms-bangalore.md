@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1990
 ownership: "Private"
 ranking: "Top Private University"
-fees: "₹12.5 Lakhs"
-avg_placement: "₹6.2 LPA"
-highest_placement: "₹18.0 LPA"
+fees: "₹13.0 Lakhs"
+avg_placement: "₹8.5 LPA"
+highest_placement: "₹22.0 LPA"
 exams: ["JET", "MAT", "CAT"]
 website: "https://www.jainuniversity.ac.in"
 ---

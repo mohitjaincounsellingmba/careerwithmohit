@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1977
 ownership: "Private"
 ranking: "Top Private B-School in Bangalore"
-fees: "₹14.1 Lakhs"
-avg_placement: "₹10.8 LPA"
-highest_placement: "₹20.0 LPA"
+fees: "₹13.0 Lakhs"
+avg_placement: "₹12.0 LPA"
+highest_placement: "₹22.0 LPA"
 exams: ["CAT", "XAT", "CMAT"]
 website: "https://www.welingkar.org"
 ---

@@ -9,8 +9,8 @@ established: 1991
 ownership: "Private"
 ranking: "Top 30 Private B-Schools"
 fees: "₹15.5 Lakhs"
-avg_placement: "₹8.5 LPA"
-highest_placement: "₹21.0 LPA"
+avg_placement: "₹10.5 LPA"
+highest_placement: "₹25.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT", "NMAT"]
 brochure_url: "/brochures/itm-2025.pdf"
 website: "https://www.itm.edu"

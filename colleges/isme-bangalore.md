@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2006
 ownership: "Private"
 ranking: "International Collaborations"
-fees: "₹11.0 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹16.0 LPA"
+fees: "₹11.8 Lakhs"
+avg_placement: "₹8.5 LPA"
+highest_placement: "₹18.0 LPA"
 exams: ["CAT", "MAT", "Merit"]
 website: "https://www.isme.in"
 ---

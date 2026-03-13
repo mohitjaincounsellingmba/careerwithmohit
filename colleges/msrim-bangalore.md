@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1995
 ownership: "Private"
 ranking: "Top 100 in NIRF"
-fees: "₹9.3 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹15.0 LPA"
+fees: "₹9.5 Lakhs"
+avg_placement: "₹9.2 LPA"
+highest_placement: "₹20.0 LPA"
 exams: ["MAT", "CMAT", "CAT"]
 website: "https://www.msrim.org"
 ---

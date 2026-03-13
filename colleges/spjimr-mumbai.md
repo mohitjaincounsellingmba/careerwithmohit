@@ -8,7 +8,7 @@ courses: ["MBA", "PGDM"]
 established: 1981
 ownership: "Private"
 ranking: "#20 (NIRF 2024)"
-fees: "₹26.5 Lakhs"
+fees: "₹22.5 Lakhs"
 avg_placement: "₹33.0 LPA"
 highest_placement: "₹77.8 LPA"
 exams: ["CAT", "GMAT"]

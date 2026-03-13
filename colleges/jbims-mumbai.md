@@ -8,7 +8,7 @@ courses: ["MBA", "PGDM"]
 established: 1965
 ownership: "Public"
 ranking: "Top 10 in India"
-fees: "₹6.5 Lakhs"
+fees: "₹6.0 Lakhs"
 avg_placement: "₹28.0 LPA"
 highest_placement: "₹44.0 LPA"
 exams: ["MAH-CET", "CAT", "CMAT"]

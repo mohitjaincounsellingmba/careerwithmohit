@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2014
 ownership: "Private"
 ranking: "Top 20 B-Schools in Bangalore"
-fees: "₹9.8 Lakhs"
-avg_placement: "₹8.2 LPA"
-highest_placement: "₹15.5 LPA"
+fees: "₹10.5 Lakhs"
+avg_placement: "₹9.5 LPA"
+highest_placement: "₹22.0 LPA"
 exams: ["CAT", "MAT", "XAT"]
 website: "https://www.gibsbschool.com"
 ---

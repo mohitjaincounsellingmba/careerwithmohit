@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2010
 ownership: "Private"
 ranking: "Top 3 Private Universities"
-fees: "₹15.0 Lakhs"
-avg_placement: "₹8.6 LPA"
-highest_placement: "₹38.0 LPA"
+fees: "₹16.0 Lakhs"
+avg_placement: "₹10.5 LPA"
+highest_placement: "₹40.0 LPA"
 exams: ["CAT", "AMAT", "MAT"]
 website: "https://www.alliance.edu.in"
 ---

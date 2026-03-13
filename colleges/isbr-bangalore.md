@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1990
 ownership: "Private"
 ranking: "Top Rated B-School (CII-AICTE)"
-fees: "₹10.0 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹14.0 LPA"
+fees: "₹11.2 Lakhs"
+avg_placement: "₹9.0 LPA"
+highest_placement: "₹20.0 LPA"
 exams: ["NMAT", "MAT", "CAT"]
 website: "https://www.isbr.in"
 ---

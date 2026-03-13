@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1994
 ownership: "Private"
 ranking: "Top Private B-School in India"
-fees: "₹8.7 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹15.6 LPA"
+fees: "₹9.5 Lakhs"
+avg_placement: "₹9.0 LPA"
+highest_placement: "₹18.0 LPA"
 exams: ["MAT", "CAT", "CMAT"]
 website: "https://theaims.ac.in"
 ---

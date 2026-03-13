@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1999
 ownership: "Private"
 ranking: "Best ROI in Bangalore"
-fees: "₹3.9 Lakhs"
-avg_placement: "₹6.3 LPA"
-highest_placement: "₹12.0 LPA"
+fees: "₹4.5 Lakhs"
+avg_placement: "₹7.2 LPA"
+highest_placement: "₹15.0 LPA"
 exams: ["PGCET", "MAT"]
 website: "https://rvim.edu.in"
 ---

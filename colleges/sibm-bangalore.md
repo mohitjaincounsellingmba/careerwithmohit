@@ -8,7 +8,7 @@ courses: ["MBA", "PGDM"]
 established: 2008
 ownership: "Private"
 ranking: "Top 30 B-School in India"
-fees: "₹20.4 Lakhs"
+fees: "₹21.0 Lakhs"
 avg_placement: "₹14.5 LPA"
 highest_placement: "₹24.0 LPA"
 exams: ["SNAP"]

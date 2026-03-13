@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 1971
 ownership: "Public (Univ)"
 ranking: "Top ROI B-School"
-fees: "₹1.8 Lakhs"
-avg_placement: "₹8.8 LPA"
+fees: "₹1.3 Lakhs"
+avg_placement: "₹8.1 LPA"
 highest_placement: "₹18.5 LPA"
 exams: ["MAH-CET", "CAT", "CMAT"]
 website: "https://pumba.in"

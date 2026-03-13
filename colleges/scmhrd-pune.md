@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 1993
 ownership: "Private"
 ranking: "Top HR Institute in India"
-fees: "₹26.5 Lakhs"
-avg_placement: "₹24.2 LPA"
+fees: "₹23.7 Lakhs"
+avg_placement: "₹23.7 LPA"
 highest_placement: "₹38.5 LPA"
 exams: ["SNAP"]
 website: "https://www.scmhrd.edu"

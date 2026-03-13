@@ -9,7 +9,7 @@ established: 1995
 ownership: "Private"
 ranking: "AACSB Accredited"
 fees: "₹17.5 Lakhs"
-avg_placement: "₹10.3 LPA"
+avg_placement: "₹10.9 LPA"
 highest_placement: "₹43.0 LPA"
 exams: ["CAT", "XAT", "GMAT"]
 website: "https://jagsom.edu.in"

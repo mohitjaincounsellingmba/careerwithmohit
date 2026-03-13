@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2001
 ownership: "Private"
 ranking: "IACBE Accredited"
-fees: "₹11.0 Lakhs"
-avg_placement: "₹8.1 LPA"
-highest_placement: "₹15.0 LPA"
+fees: "₹11.5 Lakhs"
+avg_placement: "₹9.2 LPA"
+highest_placement: "₹18.0 LPA"
 exams: ["CAT", "MAT", "CMAT"]
 website: "https://www.iba.ac.in"
 ---
