@@ -95,16 +95,32 @@ Here is a quick breakdown of the fees and duration for top Online MBA programs i
 
 ## Online MBA vs Full-Time MBA: Which Is Right for You?
 
-| Factor | Online MBA | Full-Time MBA/PGDM |
-|---|---|---|
-| **Cost** | ₹1–4 Lakhs | ₹8–25 Lakhs |
-| **Duration** | 1.5–2 years | 2 years |
-| **Work Experience** | Can continue working | Must take a break |
-| **Networking** | Limited (virtual events) | Extensive (campus-based) |
-| **Campus Life** | None | Full experience |
-| **Placements** | Partial/self-driven | Dedicated placement cell |
-| **Brand Value** | Moderate | High (for top schools) |
-| **Best For** | Working professionals | Freshers/career-switchers |
+When comparing an Online MBA to a traditional Full-Time MBA/PGDM, here are the key factors to consider:
+
+- **Cost**
+  - **Online MBA:** ₹1–4 Lakhs
+  - **Full-Time MBA:** ₹8–25 Lakhs
+- **Duration**
+  - **Online MBA:** 1.5–2 years
+  - **Full-Time MBA:** 2 years
+- **Work Experience**
+  - **Online MBA:** You can continue working full-time
+  - **Full-Time MBA:** You must take a career break
+- **Networking**
+  - **Online MBA:** Limited (mostly virtual events)
+  - **Full-Time MBA:** Extensive (campus-based interactions)
+- **Campus Life**
+  - **Online MBA:** None
+  - **Full-Time MBA:** Full immersion experience
+- **Placements**
+  - **Online MBA:** Partial or self-driven placement support
+  - **Full-Time MBA:** Dedicated placement cell with campus drives
+- **Brand Value**
+  - **Online MBA:** Moderate
+  - **Full-Time MBA:** High (especially for top-tier schools)
+- **Best Suited For**
+  - **Online MBA:** Working professionals seeking career growth
+  - **Full-Time MBA:** Freshers or professionals looking for a distinct career/industry switch
 
 ---
 
