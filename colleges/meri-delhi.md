@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1994
 ownership: "Private"
 ranking: "Top B-School under GGSIPU"
-fees: "₹6.2 Lakhs"
-avg_placement: "₹7.50 LPA"
-highest_placement: "₹20.00 LPA"
+fees: "₹3.27 Lakhs"
+avg_placement: "₹7.5 LPA"
+highest_placement: "₹20.0 LPA"
 exams: ["IPU CET", "CAT", "MAT", "CMAT"]
 website: "https://meri.edu.in"
 ---

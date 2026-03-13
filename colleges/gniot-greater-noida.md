@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2001
 ownership: "Private"
 ranking: "#93 (Times B-School Ranking)"
-fees: "₹8.5 Lakhs"
-avg_placement: "₹7.2 LPA"
-highest_placement: "₹18.5 LPA"
+fees: "₹7.5 Lakhs"
+avg_placement: "₹6.50 LPA"
+highest_placement: "₹12.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.gniotgroup.edu.in"
 ---

@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2012
 ownership: "Private"
 ranking: "#11 (Outlook Ranking - Region)"
-fees: "₹5.2 Lakhs"
-avg_placement: "₹5.5 LPA"
-highest_placement: "₹10.5 LPA"
+fees: "₹2.65 Lakhs"
+avg_placement: "₹4.5 LPA"
+highest_placement: "₹12.0 LPA"
 exams: ["CAT", "MAT", "CMAT", "Merit"]
 website: "https://www.saaitm.ac.in"
 ---

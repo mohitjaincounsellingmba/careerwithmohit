@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1963
 ownership: "Public (Deemed)"
 ranking: "#15 (NIRF 2024)"
-fees: "₹24.0 Lakhs"
-avg_placement: "₹29.1 LPA"
-highest_placement: "₹85.4 LPA"
+fees: "₹21.8 Lakhs"
+avg_placement: "₹26.0 LPA"
+highest_placement: "₹85.0 LPA"
 exams: ["CAT"]
 brochure_url: "/brochures/iift-2025.pdf"
 website: "https://www.iift.ac.in"

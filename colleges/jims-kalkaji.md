@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1997
 ownership: "Private"
 ranking: "Top 20 Private B-Schools in India (Outlook)"
-fees: "₹9.8 Lakhs"
-avg_placement: "₹8.1 LPA"
-highest_placement: "₹17.5 LPA"
+fees: "₹9.90 Lakhs"
+avg_placement: "₹10.5 LPA"
+highest_placement: "₹35.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.jimskalkaji.com"
 ---

@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1954
 ownership: "Public (DU)"
 ranking: "Top 5 (Non-NIRF)"
-fees: "₹3.0 Lakhs"
-avg_placement: "₹34.1 LPA"
-highest_placement: "₹1.23 Crore"
+fees: "₹2.32 Lakhs"
+avg_placement: "₹30.1 LPA"
+highest_placement: "₹1.01 Crore"
 exams: ["CAT"]
 brochure_url: "/brochures/fms-2025.pdf"
 website: "http://fms.edu"

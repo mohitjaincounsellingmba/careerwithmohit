@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1992
 ownership: "Private"
 ranking: "Best B-School in India for Industry Linkages (CII)"
-fees: "₹13.75 Lakhs"
-avg_placement: "₹10.50 LPA"
-highest_placement: "₹24.00 LPA"
+fees: "₹12.7 Lakhs"
+avg_placement: "₹9.50 LPA"
+highest_placement: "₹16.1 LPA"
 exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA", "GMAT"]
 website: "https://www.ndimdelhi.org"
 ---

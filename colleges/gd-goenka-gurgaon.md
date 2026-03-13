@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2013
 ownership: "Private"
 ranking: "#42 (Times B-School Ranking)"
-fees: "₹10.5 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹17.5 LPA"
+fees: "₹8.75 Lakhs"
+avg_placement: "₹9.0 LPA"
+highest_placement: "₹35.0 LPA"
 exams: ["CAT", "MAT", "GMAT", "Goenka Aptitude Test"]
 website: "https://www.gdgoenkauniversity.com"
 ---

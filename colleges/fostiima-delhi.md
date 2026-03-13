@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2007
 ownership: "Private"
 ranking: "#1 B-School in Delhi/NCR for ROI"
-fees: "₹11.5 Lakhs"
-avg_placement: "₹9.5 LPA"
-highest_placement: "₹25.0 LPA"
+fees: "₹10.95 Lakhs"
+avg_placement: "₹11.15 LPA"
+highest_placement: "₹30.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.fostiima.org"
 ---

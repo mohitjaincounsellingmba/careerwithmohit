@@ -8,9 +8,9 @@ courses: ["B.Tech", "M.Tech", "MBA"]
 established: 1961
 ownership: "Public"
 ranking: "#2 (NIRF 2024 - Engineering)"
-fees: "₹8.63 Lakhs (Total B.Tech)"
-avg_placement: "₹21.9 LPA"
-highest_placement: "₹2.0 CPA"
+fees: "₹11.2 Lakhs"
+avg_placement: "₹22.53 LPA"
+highest_placement: "₹43.5 LPA"
 exams: ["JEE Advanced"]
 website: "https://home.iitd.ac.in"
 ---

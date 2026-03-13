@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2008
 ownership: "Private"
 ranking: "Top Private B-School in North India"
-fees: "₹9.5 Lakhs"
-avg_placement: "₹7.5 LPA"
-highest_placement: "₹35.0 LPA"
+fees: "₹7.5 Lakhs"
+avg_placement: "₹7.50 LPA"
+highest_placement: "₹15.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.ibi.edu.in"
 ---

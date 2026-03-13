@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2004
 ownership: "Private"
 ranking: "#45 (NIRF 2024)"
-fees: "₹16.25 Lakhs"
-avg_placement: "₹11.3 LPA"
-highest_placement: "₹27.0 LPA"
+fees: "₹14.5 Lakhs"
+avg_placement: "₹12.88 LPA"
+highest_placement: "₹36.64 LPA"
 exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA"]
 brochure_url: "/brochures/jaipuria-noida-2025.pdf"
 website: "https://www.jaipuria.ac.in/noida"

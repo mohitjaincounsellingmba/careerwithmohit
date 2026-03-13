@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1973
 ownership: "Private"
 ranking: "#9 (NIRF 2025)"
-fees: "₹24.16 Lakhs"
-avg_placement: "₹24.2 LPA"
-highest_placement: "₹63.3 LPA"
+fees: "₹25.0 Lakhs"
+avg_placement: "₹27.6 LPA"
+highest_placement: "₹60.0 LPA"
 exams: ["CAT", "GMAT"]
 brochure_url: "/brochures/mdi-2025.pdf"
 website: "https://www.mdi.ac.in"

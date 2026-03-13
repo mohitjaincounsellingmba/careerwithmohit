@@ -8,9 +8,9 @@ courses: ["MBA", "B.Tech", "BBA", "BCA", "PGDM"]
 established: 2009
 ownership: "Private"
 ranking: "#87 (NIRF 2024 - Overall)"
-fees: "₹11.0 Lakhs"
-avg_placement: "₹6.5 LPA"
-highest_placement: "₹15.0 LPA"
+fees: "₹8.6 Lakhs"
+avg_placement: "₹10.0 LPA"
+highest_placement: "₹40.0 LPA"
 exams: ["SUAT", "CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.sharda.ac.in"
 ---

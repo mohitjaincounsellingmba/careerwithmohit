@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1993
 ownership: "Private"
 ranking: "#88 (NIRF 2024 - Management)"
-fees: "₹10.2 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹22.0 LPA"
+fees: "₹9.50 Lakhs"
+avg_placement: "₹9.72 LPA"
+highest_placement: "₹24.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.jimsindia.org"
 ---

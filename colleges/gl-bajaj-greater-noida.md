@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 2007
 ownership: "Private"
 ranking: "#19 (Best B-Schools in North India - India Today)"
-fees: "₹8.0 Lakhs"
-avg_placement: "₹7.12 - 7.35 LPA"
+fees: "₹7.85 Lakhs"
+avg_placement: "₹10.5 LPA"
 highest_placement: "₹58.00 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.glbimr.org"

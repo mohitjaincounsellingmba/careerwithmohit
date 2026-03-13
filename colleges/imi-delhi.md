@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1981
 ownership: "Private"
 ranking: "#34 (NIRF 2024)"
-fees: "₹22.5 - 24.0 Lakhs"
-avg_placement: "₹17.0 LPA"
-highest_placement: "₹70.0 LPA"
+fees: "₹23.5 Lakhs"
+avg_placement: "₹17.9 LPA"
+highest_placement: "₹40.0 LPA"
 exams: ["CAT", "GMAT"]
 website: "https://www.imi.edu"
 ---

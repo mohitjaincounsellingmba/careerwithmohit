@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 2020
 ownership: "Private"
 ranking: "Top Innovative B-School in India"
-fees: "₹28.5 - 32.0 Lakhs"
-avg_placement: "₹33.1 LPA"
+fees: "₹30.0 Lakhs"
+avg_placement: "₹30.7 LPA"
 highest_placement: "₹65.0 LPA"
 exams: ["GMAT", "GRE", "CAT", "MU-BAAT"]
 website: "https://mastersunion.org"

@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1995
 ownership: "Private"
 ranking: "Top-20 Private B-Schools in North India"
-fees: "₹11.0 Lakhs"
+fees: "₹11.55 Lakhs"
 avg_placement: "₹8.5 LPA"
-highest_placement: "₹25.0 LPA"
+highest_placement: "₹25.92 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://www.fiib.edu.in"
 ---

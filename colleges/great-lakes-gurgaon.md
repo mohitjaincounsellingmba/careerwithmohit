@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2010
 ownership: "Private"
 ranking: "Top 20 Private B-Schools"
-fees: "₹21.5 - 23.0 Lakhs"
-avg_placement: "₹15.8 LPA"
-highest_placement: "₹33.3 LPA"
+fees: "₹11.5 Lakhs"
+avg_placement: "₹11.8 LPA"
+highest_placement: "₹25.5 LPA"
 exams: ["CAT", "XAT", "GMAT", "CMAT"]
 brochure_url: "/brochures/greatlakes-gurgaon-2025.pdf"
 website: "https://www.greatlakes.edu.in/gurgaon"

@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1988
 ownership: "Private"
 ranking: "#17 (NIRF 2024 - Private B-Schools)"
-fees: "₹16.0 - 18.5 Lakhs"
-avg_placement: "₹11.20 LPA"
-highest_placement: "₹24.40 LPA"
+fees: "₹14.0 Lakhs"
+avg_placement: "₹11.1 LPA"
+highest_placement: "₹24.4 LPA"
 exams: ["CAT", "XAT", "MAT", "CMAT"]
 brochure_url: "/brochures/bimtech-2025.pdf"
 website: "https://www.bimtech.ac.in"

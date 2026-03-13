@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1998
 ownership: "Private"
 ranking: "Top B-School in North India"
-fees: "₹9.5 Lakhs"
+fees: "₹4.0 Lakhs"
 avg_placement: "₹7.5 LPA"
-highest_placement: "₹15.5 LPA"
+highest_placement: "₹34.0 LPA"
 exams: ["CAT", "MAT", "CMAT"]
 website: "https://www.imsnoida.com"
 ---
