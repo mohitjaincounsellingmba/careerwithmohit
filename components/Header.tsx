@@ -25,14 +25,14 @@ export function Header() {
           <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
           <Link href="/colleges" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Explore Top Colleges">Colleges</Link>
           
-          {/* LEARN AND EARN DROPDOWN */}
+          {/* CAREER DROPDOWN */}
           <div 
             className="relative group py-4"
             onMouseEnter={() => setIsLearnDropdownOpen(true)}
             onMouseLeave={() => setIsLearnDropdownOpen(false)}
           >
             <button className="flex items-center gap-1 hover:text-primary transition-colors uppercase tracking-wider text-sm font-black">
-              Learn and Earn
+              Career
               <svg 
                 className={`w-4 h-4 transition-transform duration-200 ${isLearnDropdownOpen ? 'rotate-180' : ''}`} 
                 fill="none" viewBox="0 0 24 24" stroke="currentColor"
@@ -100,16 +100,16 @@ export function Header() {
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Colleges
             </Link>
 
-            {/* MOBILE LEARN AND EARN */}
+            {/* MOBILE CAREER */}
             <div className="flex flex-col">
               <button 
                 onClick={() => setIsMobileLearnOpen(!isMobileLearnOpen)}
                 className="flex items-center justify-between hover:text-primary transition-colors"
                 aria-expanded={isMobileLearnOpen}
-                aria-label="Toggle Learn and Earn Menu"
+                aria-label="Toggle Career Menu"
               >
                 <div className="flex items-center">
-                  <span className="w-2 h-2 rounded-full bg-secondary mr-3 inline-block"></span>Learn and Earn
+                  <span className="w-2 h-2 rounded-full bg-secondary mr-3 inline-block"></span>Career
                 </div>
                 <svg 
                   className={`w-5 h-5 transition-transform duration-200 ${isMobileLearnOpen ? 'rotate-180' : ''}`} 
