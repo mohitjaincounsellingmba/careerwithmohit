@@ -22,7 +22,10 @@ export const metadata: Metadata = {
   keywords: [
     "career counselling", "MBA admissions", "B.Tech admissions", "Engineering colleges Delhi NCR",
     "Pune", "Delhi NCR", "resume building", "interview prep", "career roadmap 2026",
-    "BBA admission guidance", "BCA college guide"
+    "BBA admission guidance", "BCA college guide", "mba colleges in delhi",
+    "mba colleges in noida", "mba colleges in ghaziabad", "mba colleges in pune",
+    "mba colleges in mumbai", "mba colleges in bangalore", "mba colleges in jaipur",
+    "mba colleges in delhi ncr"
   ],
   authors: [{ name: "Mohit Jain" }],
   verification: {
