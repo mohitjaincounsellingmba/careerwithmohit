@@ -2,8 +2,8 @@
 title: "All About NDIM New Delhi: Programs, Fees, Cutoffs, and Placements (2025-2026)"
 date: "2026-03-13"
 category: "College Reviews"
-keywords: ["MBA admission 2026", "NDIM Delhi PGDM fees", "best PGDM colleges in Delhi NCR", "dual specialization MBA", "NDIM placements 2025", "direct admission in MBA", "highest ROI MBA colleges"]
-excerpt: "A comprehensive guide to the New Delhi Institute of Management (NDIM). Learn about their AICTE-approved PGDM programs, dual specializations, fee structure, placement records, and honest student reviews."
+description: "A comprehensive guide to the New Delhi Institute of Management (NDIM). Learn about their AICTE-approved PGDM programs, dual specializations, fee structure, placement records, and honest student reviews."
+keywords: ["NDIM Delhi PGDM fees 2026", "New Delhi Institute of Management placements", "best PGDM colleges in Delhi NCR", "NDIM dual specialization MBA", "NDIM placements 2025 average package", "direct MBA admission Delhi 2026", "NDIM AIU equivalent MBA", "PGDM MBA Delhi under 14 lakhs", "NDIM CAT cutoff percentile", "top AICTE MBA colleges Delhi"]
 ---
 
 Strategically located in the heart of India's capital, the **New Delhi Institute of Management (NDIM)** is a popular choice for MBA aspirants seeking strong corporate linkages and practical industry exposure. Known for its unique dual-specialization model, NDIM offers a robust PGDM curriculum declared equivalent to an MBA by the AIU.

@@ -2,7 +2,7 @@
 title: "GDPI Master Guide 2026: 20 Trending GD Topics with Solutions & MBA Interview Tips"
 date: "2026-03-12"
 description: "Master your MBA admission with 20 trending GD topics for 2026. Includes detailed solutions, pros/cons, and the most searched MBA interview questions and answers."
-keywords: ["GD topics for MBA 2026 with solutions", "MBA interview questions 2026", "20 trending GD topics 2026", "IIM interview rounds preparation", "GD strategies for MBA", "Written Ability Test topics 2026", "current affairs for GDPI"]
+keywords: ["GD topics for MBA 2026 with solutions", "MBA interview questions 2026", "20 trending GD topics 2026", "IIM interview rounds preparation", "GD strategies for MBA", "Written Ability Test topics 2026", "current affairs for GDPI", "MBA personal interview tips India", "common GDPI questions and answers", "GD topics current affairs 2026", "IIM GDPI preparation guide"]
 ---
 
 Success in MBA/PGDM selection 2026 depends on acing the **Group Discussion (GD)**, **Written Ability Test (WAT)**, and the **Personal Interview (PI)**. While exams like CAT/XAT/CMAT test your logic, GDPI evaluates your leadership, communication, and emotional intelligence.

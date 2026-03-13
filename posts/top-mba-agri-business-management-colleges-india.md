@@ -2,7 +2,7 @@
 title: "Top 20 MBA in Agri-Business Management Colleges in India: Placements, Packages & Career Roles"
 date: "2026-03-12"
 description: "Explore the best MBA Agri-Business Management (ABM) colleges in India for 2026. Detailed guide on placements, average packages, top recruiters, and job designations at IIMs, MANAGE, NIAM, and more."
-keywords: ["MBA Agri-Business Management India", "Top ABM Colleges 2026", "IIM Ahmedabad PGP-FABM Placements", "MANAGE Hyderabad Placements", "CCS NIAM Jaipur Avg Package", "Agri-Business MBA Roles", "Agriculture Management Career"]
+keywords: ["MBA Agri-Business Management India 2026", "Top ABM Colleges 2026", "IIM Ahmedabad PGP-FABM Placements", "MANAGE Hyderabad Placements", "CCS NIAM Jaipur Avg Package", "Agri-Business MBA Roles", "Agriculture Management Career", "MBA Agri Business salary India", "best colleges MBA agri business India", "ICAR MBA agriculture management", "ABM placements top recruiters"]
 ---
 
 Agri-Business Management (ABM) is no longer a niche field; it has become a powerhouse of professional growth in India. With the integration of AI, IoT, and supply chain tech into agriculture, the demand for "Agri-Managers" has skyrocketed.

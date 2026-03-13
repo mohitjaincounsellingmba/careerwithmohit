@@ -2,7 +2,7 @@
 title: "Top 14+ GGSIPU MBA Colleges in Delhi NCR: Fees, Placements & IPU CET 2026 Guide"
 date: "2026-03-12"
 description: "Discover the complete list of 14+ GGSIPU MBA colleges across Delhi, Noida, and Greater Noida. Detailed comparison of fees, placements, and recruiters for USMS, MAIT, JIMS, AIMT, and more."
-keywords: ["IPU CET MBA colleges 2026", "GGSIPU MBA fees", "MBA in Greater Noida IPU", "Top IPU MBA colleges Delhi", "GGSIPU MBA placement 2026", "Army Institute of Management Greater Noida fees", "MBA colleges in Noida under GGSIPU"]
+keywords: ["IPU CET MBA colleges 2026", "GGSIPU MBA fees", "MBA in Greater Noida IPU", "Top IPU MBA colleges Delhi", "GGSIPU MBA placement 2026", "Army Institute of Management Greater Noida fees", "MBA colleges in Noida under GGSIPU", "USMS MBA Delhi fees", "MAIT MBA Delhi", "JIMS Rohini IPU MBA", "IPU CET cutoff 2026", "GGSIPU affiliate MBA colleges list"]
 ---
 
 Guru Gobind Singh Indraprastha University (GGSIPU) is a premier destination for MBA aspirants in Delhi NCR. With multiple affiliated institutes across Delhi, Noida, and Greater Noida, GGSIPU offers diverse options for students aiming for high ROI and quality management education.

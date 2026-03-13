@@ -2,7 +2,7 @@
 title: "Bihar Student Credit Card (DRCC) MBA Colleges Pan India 2026-27: Complete City-Wise List"
 date: "2026-03-12"
 description: "Updated city-wise list of private MBA colleges accepting the Bihar Student Credit Card (DRCC/BSCC) scheme for 2026-27. Learn about the new 0% interest rate policy and how to get up to ₹4 Lakhs."
-keywords: ["Bihar Student Credit Card 2026", "DRCC MBA colleges list", "BSCC scheme 0 percent interest", "MBA colleges for Bihar students", "Bihar education loan 2026", "DRCC loan repayment terms"]
+keywords: ["Bihar Student Credit Card 2026", "DRCC MBA colleges list", "BSCC scheme 0 percent interest", "MBA colleges for Bihar students", "Bihar education loan 2026", "DRCC loan repayment terms", "DRCC colleges Delhi", "DRCC colleges Pune", "DRCC colleges Mumbai", "Bihar student loan private MBA", "BSCC approved colleges 2026"]
 ---
 
 If you are a student from Bihar planning to pursue an MBA in the 2026-27 session, the **Bihar Student Credit Card (BSCC)** scheme is your most powerful financial tool. Managed through **District Registration & Counselling Centres (DRCC)**, it has recently been updated to offer even better terms for students.

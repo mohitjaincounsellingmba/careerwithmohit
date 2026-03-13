@@ -2,8 +2,8 @@
 title: "Career Opportunities in Finance: A Complete Beginner's Guide"
 date: "2026-03-13"
 category: "Career Insights"
-keywords: ["career in finance", "finance jobs India", "career opportunities in finance", "financial markets course", "how to start career in finance", "MBA finance career guide"]
-excerpt: "Discover the wide world of finance careers — from investment banking to financial planning and capital markets. This free course from Elearnmarkets is the perfect starting point for any aspiring finance professional."
+description: "Discover the wide world of finance careers — from investment banking to financial planning and capital markets. This free course from Elearnmarkets is the perfect starting point for any aspiring finance professional."
+keywords: ["career in finance India 2026", "finance jobs India", "career opportunities in finance", "financial markets course online", "how to start career in finance", "MBA finance career guide", "investment banking career India", "CFA course India", "finance certifications beginners", "Elearnmarkets finance course"]
 ---
 
 The finance industry in India is booming, and companies are constantly hunting for young professionals with the right edge. But with so many roles available — from investment banking to financial planning, stock analysis to capital markets — knowing **where to start** can be overwhelming.

@@ -2,8 +2,8 @@
 title: "All About JK Business School (JKBS) Gurgaon: Programs, Fees, Cutoffs, and Placements (2025-2026)"
 date: "2026-03-13"
 category: "College Reviews"
-keywords: ["JKBS Gurgaon PGDM", "JK Business School placements", "best PGDM colleges in Gurgaon", "MBA admission 2026", "PGDM Delhi NCR", "direct admission MBA Gurgaon", "highest ROI MBA colleges"]
-excerpt: "A complete guide to JK Business School (JKBS) Gurgaon. Explore their tech-forward PGDM programs, fee structure, entrance exam cutoffs, and placement record featuring EY, KPMG, and Nestlé for 2025-2026 admissions."
+description: "A complete guide to JK Business School (JKBS) Gurgaon. Explore their tech-forward PGDM programs, fee structure, entrance exam cutoffs, and placement record featuring EY, KPMG, and Nestlé for 2025-2026 admissions."
+keywords: ["JKBS Gurgaon PGDM fees 2026", "JK Business School placements 2025", "best PGDM colleges in Gurgaon", "MBA FinTech Gurgaon", "PGDM Data Analytics Gurgaon", "direct admission MBA Gurgaon 2026", "highest ROI MBA colleges NCR", "JKBS CAT cutoff", "PGDM DABI college Gurugram", "MBA Gurugram Gurugram University"]
 ---
 
 Situated in the heart of the corporate capital of India, **JK Business School (JKBS)** in Gurgaon is rapidly gaining recognition for its technology-integrated PGDM programs. With industry-relevant specializations in FinTech, Data Analytics, and Digital Transformation, JKBS caters to the modern management professional.

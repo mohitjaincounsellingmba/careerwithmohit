@@ -2,7 +2,7 @@
 title: "Top MBA Colleges in Pune: Fees, Cutoffs, and Placements (2026 Guide)"
 date: "2026-03-12"
 description: "A comprehensive guide to the best MBA colleges in Pune, featuring SIBM, SCMHRD, PUMBA, and more. Compare fees, SNAP/MAH CET cutoffs, and latest placement statistics."
-keywords: ["MBA colleges Pune", "top B-schools Pune", "SIBM Pune fees", "SCMHRD admission", "SNAP cutoff Pune", "MAH CET MBA colleges Pune", "PUMBA MBA"]
+keywords: ["MBA colleges Pune 2026", "top B-schools Pune", "SIBM Pune fees 2026", "SCMHRD admission cutoff", "SNAP cutoff Pune colleges", "MAH CET MBA colleges Pune", "PUMBA MBA fees", "Symbiosis MBA Pune", "best MBA Pune under 5 lakhs", "MBA Pune average placement package 2025"]
 ---
 
 Pune, the "Oxford of the East," is a goldmine for MBA seekers. Whether you want a high-paying private institute or a budget-friendly government college, Pune has everything.

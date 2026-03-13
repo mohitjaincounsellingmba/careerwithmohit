@@ -2,8 +2,8 @@
 title: "All About TAPMI Manipal: Programs, Fees, Cutoffs, and Placements (2025-2026)"
 date: "2026-03-13"
 category: "College Reviews"
-keywords: ["MBA admission 2026", "TAPMI Manipal placements", "best MBA colleges in India", "highest ROI MBA colleges", "CAT 2025 cutoffs", "MBA banking and finance", "MBA admission 2025"]
-excerpt: "A complete guide to T.A. Pai Management Institute (TAPMI), Manipal. Explore their PGDM/MBA programs, fee structure, cut-offs, top recruiters, and verified student reviews."
+description: "A complete guide to T.A. Pai Management Institute (TAPMI), Manipal. Explore their PGDM/MBA programs, fee structure, cut-offs, top recruiters, and verified student reviews."
+keywords: ["TAPMI Manipal placements 2025", "TAPMI fees 2026", "TAPMI CAT cutoff percentile", "best MBA colleges in India AACSB", "T.A. Pai Management Institute admission", "MBA Banking Financial Services TAPMI", "TAPMI vs IIM", "TAPMI average package 2025", "TAPMI AMBA accredited MBA India", "top 20 MBA colleges India 2026"]
 ---
 
 When it comes to top-tier management education in India, **T. A. Pai Management Institute (TAPMI)** in Manipal consistently ranks as a premier destination for MBA aspirants. Known for its rigorous curriculum, 100% placement record, and rich legacy, TAPMI offers a transformative B-school experience.
