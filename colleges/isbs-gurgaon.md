@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 2000
 ownership: "Private"
 ranking: "A+ Category B-School"
-fees: "₹8.2 Lakhs"
-avg_placement: "₹7.0 LPA"
+fees: "₹8.0 Lakhs"
+avg_placement: "₹7.5 LPA"
 highest_placement: "₹14.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://isbs.edu.in"

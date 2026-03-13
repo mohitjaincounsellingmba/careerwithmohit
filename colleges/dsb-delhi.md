@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2012
 ownership: "Private"
 ranking: "#1 Top Emerging B-School (Times Ranking)"
-fees: "₹11.2 Lakhs"
+fees: "₹11.0 Lakhs"
 avg_placement: "₹10.5 LPA"
-highest_placement: "₹22.3 LPA"
+highest_placement: "₹23.9 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://dsb.edu.in"
 ---

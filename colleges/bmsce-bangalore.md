@@ -8,8 +8,8 @@ courses: ["MBA", "PGDM"]
 established: 1946
 ownership: "Private"
 ranking: "Top 10 in Bangalore"
-fees: "₹9.0 Lakhs"
-avg_placement: "₹11.4 LPA"
+fees: "₹7.5 Lakhs"
+avg_placement: "₹9.2 LPA"
 highest_placement: "₹25.0 LPA"
 exams: ["PGCET", "KMAT"]
 website: "https://bmsce.ac.in"

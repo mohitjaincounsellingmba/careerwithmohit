@@ -8,9 +8,9 @@ courses: ["B.Tech", "MBA"]
 established: 1999
 ownership: "Private"
 ranking: "Top Private Engineering (Delhi)"
-fees: "₹7.44 Lakhs (Total B.Tech)"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹1.0 CPA+"
+fees: "₹3.2 Lakhs"
+avg_placement: "₹7.5 LPA"
+highest_placement: "₹15.0 LPA"
 exams: ["JEE Main", "IPU CET"]
 website: "https://www.mait.ac.in"
 ---

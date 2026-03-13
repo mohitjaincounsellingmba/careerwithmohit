@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2011
 ownership: "Private"
 ranking: "Top Emerging B-School in North India"
-fees: "₹7.8 Lakhs"
-avg_placement: "₹6.5 LPA"
-highest_placement: "₹12.5 LPA"
+fees: "₹7.5 Lakhs"
+avg_placement: "₹7.0 LPA"
+highest_placement: "₹23.0 LPA"
 exams: ["CAT", "MAT", "CMAT", "ATMA"]
 website: "https://rms.edu.in"
 ---

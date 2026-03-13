@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2007
 ownership: "Private"
 ranking: "Top 20 in South India"
-fees: "₹9.9 Lakhs"
-avg_placement: "₹10.5 LPA"
-highest_placement: "₹18.0 LPA"
+fees: "₹9.5 Lakhs"
+avg_placement: "₹9.0 LPA"
+highest_placement: "₹20.0 LPA"
 exams: ["MAT", "CAT", "CMAT"]
 website: "https://dsbs.edu.in"
 ---

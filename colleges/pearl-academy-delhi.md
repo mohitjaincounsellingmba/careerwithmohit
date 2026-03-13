@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1993
 ownership: "Private"
 ranking: "#1 Fashion & Design Institute in India"
-fees: "₹21.5 Lakhs"
+fees: "₹21.0 Lakhs"
 avg_placement: "₹10.5 LPA"
-highest_placement: "₹20.2 LPA"
+highest_placement: "₹26.0 LPA"
 exams: ["Entrance Exam", "Portfolio", "Interview"]
 website: "https://www.pearlacademy.com"
 ---

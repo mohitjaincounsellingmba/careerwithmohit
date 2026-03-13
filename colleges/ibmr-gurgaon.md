@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 1999
 ownership: "Private"
 ranking: "A+ Grade B-School"
-fees: "₹6.60 - ₹8.50 Lakhs"
+fees: "₹6.5 Lakhs"
 avg_placement: "₹7.5 LPA"
-highest_placement: "₹16.0 LPA"
+highest_placement: "₹21.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://ibmrbschool.com"
 ---

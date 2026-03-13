@@ -8,9 +8,9 @@ courses: ["MBA", "PGDM"]
 established: 2006
 ownership: "Private"
 ranking: "Top Private B-Schools (CSR-GHRDC)"
-fees: "₹9.0 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹15.5 LPA"
+fees: "₹8.5 Lakhs"
+avg_placement: "₹8.5 LPA"
+highest_placement: "₹24.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://jkbschool.org"
 ---
