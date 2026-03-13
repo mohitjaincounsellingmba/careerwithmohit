@@ -88,7 +88,7 @@ Perfect for students looking for decent placements with moderate entrance scores
 ### 10. Pune Business School (PBS)
 - **Focus:** New generation B-school with modern curriculum.
 - **Fees:** ₹5.65 Lakh - ₹6.35 Lakh
-- **Average Placement:** ₹5.5 LPA
+- **Average Placement:** ₹7.4 LPA
 
 ### 11. Lexicon MILE (Management Institute of Leadership & Excellence)
 - **USP:** Known for "Day 1 Corporate Ready" students and unique specializations.
@@ -108,12 +108,12 @@ Perfect for students looking for decent placements with moderate entrance scores
 ### 14. ISMS Pune (International School of Management Studies)
 - **Focus:** International MBA and corporate collaborations.
 - **Fees:** ₹7.40 Lakh - ₹7.50 Lakh
-- **Average Placement:** ₹5.5 LPA
+- **Average Placement:** ₹7.0 LPA
 
 ### 15. DY Patil Institute of Management (Pimpri/Akurdi)
 - **Status:** Multiple campuses with a strong Pune based legacy.
 - **Fees:** ₹2.35 Lakh - ₹6.60 Lakh
-- **Average Placement:** ₹5.0 LPA
+- **Average Placement:** ₹5.4 LPA - ₹7.12 LPA
 
 ### 16. ASM’s IBMR (Inst. of Business Mgmt & Research)
 - **Legacy:** One of the oldest private institutes in Pune (Est. 1983).
@@ -123,7 +123,7 @@ Perfect for students looking for decent placements with moderate entrance scores
 ### 17. ASM’s IIBR (Inst. of International Business & Research)
 - **Focus:** International business and trade.
 - **Fees:** ₹6.0 Lakh
-- **Average Placement:** ₹5.0 LPA
+- **Average Placement:** ₹5.0 LPA - ₹6.0 LPA
 
 ### 18. PCU Pune (Pimpri Chinchwad University)
 - **Status:** A rising multi-disciplinary university.
@@ -133,12 +133,12 @@ Perfect for students looking for decent placements with moderate entrance scores
 ### 19. FUEL Business School
 - **USP:** Focus on social impact and future-ready skills.
 - **Fees:** ₹5.50 Lakh - ₹8.60 Lakh
-- **Average Placement:** ₹4.5 LPA
+- **Average Placement:** ₹7.0 LPA - ₹7.5 LPA
 
 ### 20. Akemi Business School
 - **Focus:** Management with a touch of emerging tech.
 - **Fees:** ₹1.37 Lakh - ₹8.30 Lakh
-- **Average Placement:** ₹4.5 LPA
+- **Average Placement:** ₹6.5 LPA - ₹7.5 LPA
 
 ---
 
