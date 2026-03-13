@@ -125,6 +125,7 @@ export default function RootLayout({
         className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
       >
         <Header />
+        <InquiryPopup />
         <main className="flex-grow">
           {children}
         </main>
