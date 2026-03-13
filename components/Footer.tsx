@@ -38,16 +38,7 @@ export function Footer() {
               <li><Link href="/tools/resume-generator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Free Resume Builder</Link></li>
             </ul>
           </div>
-          <div>
-            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Previous Year Papers</h3>
-            <ul className="space-y-4 text-base font-medium">
-              <li><Link href="/resources/cat" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CAT Papers</Link></li>
-              <li><Link href="/resources/xat" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">XAT Papers</Link></li>
-              <li><Link href="/resources/cmat" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CMAT Papers</Link></li>
-              <li><Link href="/resources/mah-mba-cet" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAH MBA CET Papers</Link></li>
-              <li><Link href="/resources/cuet-pg" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG Papers</Link></li>
-            </ul>
-          </div>
+
           <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Connect</h3>
             <ul className="space-y-4 text-base font-medium">
