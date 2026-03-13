@@ -68,16 +68,28 @@ Whether you're a working professional looking to upskill without quitting your j
 
 ---
 
-## Online MBA Fee Comparison Table
+## Online MBA Fee Comparison
 
-| Program | University | Fees | Duration |
-|---|---|---|---|
-| upGrad MBA | O.P. Jindal Global | ₹3.65 Lakhs | 15–24 months |
-| NMIMS Online MBA | NMIMS | ₹2.5 Lakhs | 2 years |
-| Amity Online MBA | Amity University | ₹2.8 Lakhs | 2 years |
-| Manipal Online MBA | MAHE | ₹2.1 Lakhs | 2 years |
-| Chandigarh University | CU | ₹1.8 Lakhs | 2 years |
-| Vignan Online MBA | Vignan University | ₹1.2 Lakhs | 2 years |
+Here is a quick breakdown of the fees and duration for top Online MBA programs in India:
+
+- **upGrad MBA (O.P. Jindal Global)**
+  - **Fees:** ₹3.65 Lakhs
+  - **Duration:** 15–24 months
+- **NMIMS Online MBA (NMIMS)**
+  - **Fees:** ₹2.5 Lakhs
+  - **Duration:** 2 years
+- **Amity Online MBA (Amity University)**
+  - **Fees:** ₹2.8 Lakhs
+  - **Duration:** 2 years
+- **Manipal Online MBA (MAHE)**
+  - **Fees:** ₹2.1 Lakhs
+  - **Duration:** 2 years
+- **Chandigarh University (CU)**
+  - **Fees:** ₹1.8 Lakhs
+  - **Duration:** 2 years
+- **Vignan Online MBA (Vignan University)**
+  - **Fees:** ₹1.2 Lakhs
+  - **Duration:** 2 years
 
 ---
 
