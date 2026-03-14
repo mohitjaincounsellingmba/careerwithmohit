@@ -44,12 +44,17 @@ While B-schools are generally okay with a 1-year gap, some conservative companie
 
 ## Comparison: Direct vs. Gap Year MBA
 
-| Feature | Direct MBA (With Job) | Gap Year MBA |
-| :--- | :--- | :--- |
-| **Preparation Time** | 2-4 Hours/Day | 8-10 Hours/Day |
-| **Financial Risk** | Low (Salaried) | High (Opportunity Cost) |
-| **Profile Strength** | Work-ex counts | Need to add certifications |
-| **Focus** | Divided | Absolute |
+### Direct MBA (With Job)
+*   **Preparation Time**: 2-4 Hours/Day
+*   **Financial Risk**: Low (Salaried)
+*   **Profile Strength**: Work-ex counts towards admissions
+*   **Focus**: Divided between job and studies
+
+### Gap Year MBA (Drop Year)
+*   **Preparation Time**: 8-10 Hours/Day (Undivided)
+*   **Financial Risk**: High (Opportunity Cost of salary)
+*   **Profile Strength**: Need to add certifications/internships
+*   **Focus**: Absolute focus on entrance exams
 
 ## When is a Gap Year a Good Choice?
 
