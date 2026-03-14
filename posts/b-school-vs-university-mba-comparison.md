@@ -20,21 +20,27 @@ While both programs aim to build future leaders, their approach, cost, and indus
 
 ---
 
-### **2. Comparison: Pros and Cons**
+### **2. Pros & Cons: Which Path Fits You?**
 
 #### **A. Business School (PGDM Path)**
-| **Pros** | **Cons** |
-| :--- | :--- |
-| **Industry-Ready Curriculum**: Autonomous schools update their syllabus every year based on market trends (AI, Big Data, etc.). | **Higher Fees**: Since they are self-funded, tuition fees are usually higher (ranging from ₹12L to ₹30L). |
-| **Practical Exposure**: Focuses on case studies, live projects, and mandatory corporate internships. | **Diploma Status**: Though equivalent, some international bodies or old-school government rules still prefer the "Degree" label. |
-| **Strong Placements**: Top B-Schools usually have dedicated corporate relations cells and a stronger alumni network in the private sector. | **Varying Quality**: There are thousands of private B-Schools; choosing a low-tier one can be a risky investment. |
+*   **Pros**:
+    *   **Agile Syllabus**: Curriculum is updated annually to include new tech like AI, Blockchain, and Data Analytics.
+    *   **Industry Links**: Stronger ties with top-tier private firms for internships and placements.
+    *   **Case-Study Method**: Focuses on "learning by doing" through real-world business scenarios.
+*   **Cons**:
+    *   **Cost Factor**: High tuition fees due to lack of government subsidies (typically ₹12L - ₹30L).
+    *   **Diploma Label**: Can sometimes require an "Equivalence Certificate" from AIU for certain government eligibility.
 
 #### **B. University (MBA Path)**
-| **Pros** | **Cons** |
-| :--- | :--- |
-| **Affordability**: Government universities (like FMS, PUMBA, or JBIMS) offer excellent education at a fraction of the cost (₹2L to ₹6L). | **Theoretical Approach**: The curriculum tends to be more academic and research-driven rather than experimental. |
-| **Global Recognition**: A "Master's Degree" is globally understood and easily verified for immigration or higher studies abroad. | **Fixed Syllabus**: Changing a university curriculum involves a long administrative process, making it slower to adapt to new trends. |
-| **Government Job Synergy**: Preferred for public sector undertakings (PSUs) and academic careers. | **Limited Networking**: Unless it's a top-tier university department, the industry links may not be as robust as a specialized B-School. |
+*   **Pros**:
+    *   **High ROI**: Low investment (fees of ₹2L - ₹8L) often leads to a faster return on investment through standard placements.
+    *   **Global Transferability**: A "Master's Degree" is more easily recognized for H1-B visas or foreign education.
+    *   **Academic Depth**: Provides a robust understanding of management theories and classical business principles.
+*   **Cons**:
+    *   **Bureaucracy**: Changing the syllabus often takes years, leading to a sometimes outdated curriculum.
+    *   **Standardized Approach**: Can lead to less personalized industry interaction compared to specialized B-schools.
+
+---
 
 ---
 
