@@ -1,57 +1,33 @@
 ---
-title: "All About SOIL Institute of Management, Gurgaon: Fees, Placement & Review 2026"
-date: "2026-03-13"
-description: "Detailed review of SOIL Gurgaon (School of Inspired Leadership). Find out the PGDM/PGPM fees, NMAT/CAT cutoffs, placement packages, recruiters, and real student reviews."
-keywords: ["SOIL Gurgaon review", "SOIL Gurgaon placements 2026", "SOIL PGDM fees", "SOIL NMAT cutoff", "School of Inspired Leadership Gurgaon", "SOIL average package", "top HR MBA colleges in Gurgaon"]
+title: "SOIL Gurgaon Review 2026: Placements & Infrastructure Highlights"
+date: "2026-03-15"
+description: "In-depth review of School of Inspired Leadership (SOIL) Gurgaon. Explore the stellar 2025 placement stats, elite campus, and industry-led faculty."
+keywords: ["SOIL Gurgaon review 2026", "SOIL PGDM placements 2025", "SOIL elite infrastructure", "SOIL business school faculty"]
 ---
 
-The School of Inspired Leadership (SOIL) in Gurgaon is uniquely positioned in the Indian B-School landscape. Co-created by 32 top multinational companies, SOIL focuses heavily on leadership, ethics, and sustainability. It is a premier choice for students looking for industry-backed curriculum in the corporate hub of Gurgaon.
+### **College Review: SOIL Gurgaon**
+*   **Elite Branding**: Known for its unique focus on "Inspired Leadership" and social responsibility alongside business skills.
+*   **Premium Positioning**: One of the most elite B-schools in the Gurgaon region for specialized management programs.
+*   **High Engagement**: Strong focus on live projects and deep immersion in the corporate world.
 
-Here is the complete breakdown of SOIL Institute of Management for 2026:
+### **Placement Review (2025 Batch)**
+*   **PGPM (1 Year)**: Average CTC of **₹12.3 LPA** | Highest CTC of **₹21.8 LPA**.
+*   **PGDM (2 Year)**: Average CTC of **₹11.17 LPA** | Highest CTC of **₹20.7 LPA**.
+*   **Placement Rate**: Consistently 95% - 100% for eligible students.
+*   **Top Recruiters**: Deloitte, KPMG, Nestle, Infosys, Accenture, and Volvo Eicher.
 
-## Key Highlights
+### **Infrastructure & Facilities**
+*   **Elite Campus**: A modern, high-tech campus located in the heart of Gurgaon (Sushant Lok).
+*   **Library & Resources**: An exceptional library with access to global management databases.
+*   **Classrooms**: Corporate-style seminar halls and breakout rooms for group work.
+*   **Hospitality**: Top-tier canteen and breakout spaces designed for professional networking.
 
-- **Establishment:** 2008
-- **Programs Offered:** 
-  - PGPM (1-Year for experienced professionals)
-  - PGPM-HR (1-Year specialized HR program)
-  - PGDM (2-Year AICTE Approved)
-- **Legacy & USP:** Co-designed by a consortium of 32 industry leaders (including Aditya Birla, Tata, Mahindra). Strong focus on "Character and Competence."
+### **Faculty & Pedagogy**
+*   **Industry Titans**: Faculty members often include former CEOs, VCs, and senior corporate advisors.
+*   **Case-Study Intensive**: Learning is entirely centered around real-world business cases and live challenges.
+*   **Mentorship**: Every student is paired with an industry mentor for career guidance.
 
-## Admission Details
+**Final Verdict**: SOIL is ideal for those who want a premium, fast-paced environment and are targeting high-paying consultant or managerial roles in top-tier MNCs.
 
-- **Entrance Exams Accepted:** CAT, XAT, NMAT, GMAT, MAT (plus SOIL's own STAT exam)
-- **Expected Cut-off (Percentile):**
-  - NMAT: 200+ Score
-  - CAT/XAT: 70 - 75+
-  - *Note: SOIL relies heavily on profile evaluation and personal interviews rather than just exam scores.*
-- **Total Fees (Approx):** 
-  - 2-Year PGDM: ₹14.50 Lakhs
-  - 1-Year PGPM: ₹15.30 Lakhs
-
-## Specializations Offered
-
-- Analytics
-- Master in Human Resources (Highly Ranked)
-- Marketing
-- Finance
-
-## Placement Statistics (2025-2026)
-
-SOIL has excellent placement figures, particularly in HR and Analytics sectors, driven by their 32 consortium companies.
-
-- **Highest Placement Package:** ₹19.30 LPA
-- **Average Placement Package:** ₹10.30 LPA
-- **Lowest Placement Package:** ₹7.50 LPA
-- **Top Recruiters:** Cognizant, Infosys, Capgemini, Accenture, Wipro, HDFC Bank, Tata Steel, and Tech Mahindra.
-
-## Student Reviews & Verdict
-
-**What Students Say:**
-- **Pros:** The HR program is one of the best in Delhi NCR. The unique mentorship program where every student gets a corporate leader as a mentor is highly praised. Excellent location in Gurgaon.
-- **Cons:** Fees are on the higher side. The campus size is small and operates more like a corporate building.
-
-**Our Verdict:** Very few colleges do HR and Analytics as well as SOIL. If you have decent work experience and want a fast-track 1-Year MBA, or if you are aiming for top-tier HR roles through the 2-Year PGDM, SOIL Gurgaon is a fantastic investment.
-
----
-[👉 Should you apply to SOIL Gurgaon with your NMAT score? Let our experts guide you!](/inquiry)
+[👉 Apply to SOIL Gurgaon](/inquiry)
+[👉 View More B-Schools in Gurgaon](/colleges)
