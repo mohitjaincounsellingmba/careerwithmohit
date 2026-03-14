@@ -9,7 +9,7 @@ import {
 
 export function CareerRoadmapCalculator() {
     const [step, setStep] = useState<"program" | "specialization" | "locked" | "result">("program");
-    const [selectedProgram, setSelectedProgram] = useState<"mba" | "btech" | null>(null);
+    const [selectedProgram, setSelectedProgram] = useState<"mba" | "btech" | "bba" | "bca" | null>(null);
     const [selectedSpec, setSelectedSpec] = useState<RoadmapSpecialization | null>(null);
     const [activeTab, setActiveTab] = useState<"skills" | "certs" | "companies" | "careers">("skills");
 
@@ -19,7 +19,7 @@ export function CareerRoadmapCalculator() {
 
     const program = roadmapData.find(p => p.id === selectedProgram);
 
-    const handleProgramSelect = (id: "mba" | "btech") => {
+    const handleProgramSelect = (id: "mba" | "btech" | "bba" | "bca") => {
         setSelectedProgram(id);
         setStep("specialization");
     };
@@ -109,19 +109,19 @@ export function CareerRoadmapCalculator() {
                 {step === "program" && (
                     <div>
                         <p className="text-lg font-black uppercase tracking-tight mb-8 text-slate-600">Step 1: Choose Your Program</p>
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                             {roadmapData.map(prog => (
                                 <button
                                     key={prog.id}
                                     onClick={() => handleProgramSelect(prog.id)}
-                                    className="bg-slate-50 border-4 border-foreground p-10 text-left hover:bg-primary hover:text-white transition-all group shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1 active:scale-95"
+                                    className="bg-slate-50 border-4 border-foreground p-8 text-left hover:bg-primary hover:text-white transition-all group shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1 active:scale-95"
                                 >
-                                    <div className="text-6xl mb-4">{prog.emoji}</div>
-                                    <div className="text-3xl font-black uppercase tracking-tighter mb-2">{prog.title}</div>
-                                    <div className="text-sm font-bold text-slate-500 group-hover:text-white/80">
-                                        {prog.specializations.length} specializations
+                                    <div className="text-5xl mb-4">{prog.emoji}</div>
+                                    <div className="text-2xl font-black uppercase tracking-tighter mb-1">{prog.title}</div>
+                                    <div className="text-[11px] font-bold text-slate-500 group-hover:text-white/80 uppercase tracking-widest">
+                                        {prog.specializations.length} tracks
                                     </div>
-                                    <ChevronRight className="w-6 h-6 mt-4 group-hover:translate-x-2 transition-transform" />
+                                    <ChevronRight className="w-5 h-5 mt-4 group-hover:translate-x-2 transition-transform" />
                                 </button>
                             ))}
                         </div>

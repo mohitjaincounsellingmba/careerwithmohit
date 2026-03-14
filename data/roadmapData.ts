@@ -10,7 +10,7 @@ export interface RoadmapSpecialization {
 }
 
 export interface RoadmapProgram {
-    id: "mba" | "btech";
+    id: "mba" | "btech" | "bba" | "bca";
     title: string;
     emoji: string;
     specializations: RoadmapSpecialization[];
@@ -753,6 +753,204 @@ export const roadmapData: RoadmapProgram[] = [
                     { role: "Cloud Solutions Architect", avgSalary: "₹12–35 LPA" },
                     { role: "IT Project Manager", avgSalary: "₹10–25 LPA" },
                     { role: "DevSecOps Engineer", avgSalary: "₹10–28 LPA" },
+                ],
+            },
+        ],
+    },
+    {
+        id: "bba",
+        title: "BBA",
+        emoji: "💼",
+        specializations: [
+            {
+                id: "bba-marketing",
+                title: "Marketing & Sales",
+                emoji: "📈",
+                description: "Master Sales techniques, consumer psychology, and market expansion strategies for retail and FMCG.",
+                skills: [
+                    { name: "Direct Sales & Pitching", type: "technical" },
+                    { name: "Consumer Behavior Analysis", type: "technical" },
+                    { name: "Retail Management", type: "technical" },
+                    { name: "CRM Fundamentals", type: "technical" },
+                    { name: "Public Speaking", type: "soft" },
+                    { name: "Communication", type: "soft" },
+                    { name: "Negotiation", type: "soft" },
+                ],
+                certifications: [
+                    { name: "Fundamentals of Digital Marketing", provider: "Google", level: "beginner" },
+                    { name: "Professional Certificate in Sales", provider: "HubSpot", level: "beginner" },
+                    { name: "Marketing Analytics", provider: "Coursera", level: "intermediate" },
+                ],
+                companies: [
+                    { name: "Hindustan Unilever", sector: "FMCG" },
+                    { name: "Byju's / Unacademy", sector: "EdTech" },
+                    { name: "Bajaj Finserv", sector: "Finance/Sales" },
+                    { name: "Reliance Retail", sector: "Retail" },
+                ],
+                careerPaths: [
+                    { role: "Business Development Executive", avgSalary: "₹4–8 LPA" },
+                    { role: "Marketing Coordinator", avgSalary: "₹3–6 LPA" },
+                    { role: "Sales Manager", avgSalary: "₹6–12 LPA" },
+                ],
+            },
+            {
+                id: "bba-finance",
+                title: "Finance & Banking",
+                emoji: "💳",
+                description: "Master commercial banking, accounting standards, and wealth management for freshers.",
+                skills: [
+                    { name: "Accounting & Bookkeeping", type: "technical" },
+                    { name: "Excel for Business", type: "technical" },
+                    { name: "Banking Regulations", type: "technical" },
+                    { name: "Tally Prime", type: "technical" },
+                    { name: "Integrity & Ethics", type: "soft" },
+                    { name: "Analytical Thinking", type: "soft" },
+                ],
+                certifications: [
+                    { name: "Tally ERP Certification", provider: "Tally Academy", level: "beginner" },
+                    { name: "NCFM Modules", provider: "NSE Academy", level: "intermediate" },
+                    { name: "Wealth Management Certificate", provider: "NISM", level: "intermediate" },
+                ],
+                companies: [
+                    { name: "HDFC Bank", sector: "Banking" },
+                    { name: "ICICI Bank", sector: "Banking" },
+                    { name: "Muthoot Finance", sector: "Finance" },
+                    { name: "WNS / Genpact", sector: "BPO/Finance" },
+                ],
+                careerPaths: [
+                    { role: "Bank Officer", avgSalary: "₹4–7 LPA" },
+                    { role: "Relationship Manager", avgSalary: "₹4–9 LPA" },
+                    { role: "Accounts Executive", avgSalary: "₹3–5 LPA" },
+                ],
+            },
+            {
+                id: "bba-hr",
+                title: "Human Resources",
+                emoji: "🤝",
+                description: "Master recruitment, payroll management, and employee engagement fundamentals.",
+                skills: [
+                    { name: "Recruitment Sourcing", type: "technical" },
+                    { name: "Payroll Processing", type: "technical" },
+                    { name: "Employee Engagement", type: "technical" },
+                    { name: "Empathy", type: "soft" },
+                    { name: "Conflict Management", type: "soft" },
+                    { name: "Active Listening", type: "soft" },
+                ],
+                certifications: [
+                    { name: "HR Management Certificate", provider: "LinkedIn Learning", level: "beginner" },
+                    { name: "Compensation Specialist", provider: "Udemy", level: "beginner" },
+                    { name: "Foundational HR Analytics", provider: "Coursera", level: "intermediate" },
+                ],
+                companies: [
+                    { name: "Accenture", sector: "IT/Consulting" },
+                    { name: "TCS", sector: "IT" },
+                    { name: "TeamLease", sector: "Staffing" },
+                    { name: "Infosys", sector: "IT" },
+                ],
+                careerPaths: [
+                    { role: "HR Coordinator", avgSalary: "₹3–6 LPA" },
+                    { role: "Technical Recruiter", avgSalary: "₹4–8 LPA" },
+                    { role: "Payroll Associate", avgSalary: "₹3–5 LPA" },
+                ],
+            },
+        ],
+    },
+    {
+        id: "bca",
+        title: "BCA",
+        emoji: "💻",
+        specializations: [
+            {
+                id: "bca-web",
+                title: "Web Development",
+                emoji: "🌐",
+                description: "Build modern, responsive websites using the latest front-end and back-end frameworks.",
+                skills: [
+                    { name: "HTML/CSS/JavaScript", type: "technical" },
+                    { name: "React.js / Next.js", type: "technical" },
+                    { name: "Node.js / Express", type: "technical" },
+                    { name: "MongoDB / SQL", type: "technical" },
+                    { name: "Git & GitHub", type: "technical" },
+                    { name: "Problem Solving", type: "soft" },
+                    { name: "Creativity", type: "soft" },
+                ],
+                certifications: [
+                    { name: "Meta Front-End Dev", provider: "Meta/Coursera", level: "beginner" },
+                    { name: "Responsive Web Design", provider: "FreeCodeCamp", level: "beginner" },
+                    { name: "Full Stack Developer", provider: "Udemy", level: "intermediate" },
+                ],
+                companies: [
+                    { name: "Wipro", sector: "IT Services" },
+                    { name: "Cognizant", sector: "IT Services" },
+                    { name: "Freshworks", sector: "SaaS" },
+                    { name: "Zomato", sector: "Product" },
+                ],
+                careerPaths: [
+                    { role: "Front-end Developer", avgSalary: "₹4–10 LPA" },
+                    { role: "Back-end Developer", avgSalary: "₹5–12 LPA" },
+                    { role: "Full Stack Engineer", avgSalary: "₹6–15 LPA" },
+                ],
+            },
+            {
+                id: "bca-app",
+                title: "App Development",
+                emoji: "📱",
+                description: "Master mobile application development for Android and iOS using Flutter or React Native.",
+                skills: [
+                    { name: "Dart / Flutter", type: "technical" },
+                    { name: "React Native", type: "technical" },
+                    { name: "Firebase", type: "technical" },
+                    { name: "App Store Deployment", type: "technical" },
+                    { name: "User Interface (UI) Design", type: "technical" },
+                    { name: "Persistence", type: "soft" },
+                    { name: "Logical Thinking", type: "soft" },
+                ],
+                certifications: [
+                    { name: "Google Associate Android Developer", provider: "Google", level: "intermediate" },
+                    { name: "Flutter Development Bootcamp", provider: "Udemy", level: "beginner" },
+                    { name: "iOS App Development", provider: "Coursera", level: "intermediate" },
+                ],
+                companies: [
+                    { name: "Swiggy", sector: "Food Tech" },
+                    { name: "Uber India", sector: "Mobility" },
+                    { name: "Nykaa", sector: "E-commerce" },
+                    { name: "Curefit", sector: "HealthTech" },
+                ],
+                careerPaths: [
+                    { role: "Android Developer", avgSalary: "₹5–12 LPA" },
+                    { role: "iOS Developer", avgSalary: "₹6–14 LPA" },
+                    { role: "Cross-Platform Developer", avgSalary: "₹5–11 LPA" },
+                ],
+            },
+            {
+                id: "bca-data",
+                title: "Data Science & AI",
+                emoji: "🤖",
+                description: "Analyze large datasets and build intelligent models using Python and Machine Learning.",
+                skills: [
+                    { name: "Python Programming", type: "technical" },
+                    { name: "SQL & Databases", type: "technical" },
+                    { name: "Pandas & Numpy", type: "technical" },
+                    { name: "Scikit-Learn (ML)", type: "technical" },
+                    { name: "Data Visualization (Tableau)", type: "technical" },
+                    { name: "Critical Thinking", type: "soft" },
+                    { name: "Mathematics", type: "soft" },
+                ],
+                certifications: [
+                    { name: "IBM Data Science", provider: "IBM/Coursera", level: "intermediate" },
+                    { name: "Python for Data Science", provider: "Google", level: "beginner" },
+                    { name: "Machine Learning Specialization", provider: "Andrew Ng/Coursera", level: "advanced" },
+                ],
+                companies: [
+                    { name: "Fractal Analytics", sector: "Analytics" },
+                    { name: "Mu Sigma", sector: "Analytics" },
+                    { name: "Amazon", sector: "Tech" },
+                    { name: "Flipkart", sector: "E-commerce" },
+                ],
+                careerPaths: [
+                    { role: "Data Analyst", avgSalary: "₹5–10 LPA" },
+                    { role: "Junior Data Scientist", avgSalary: "₹7–14 LPA" },
+                    { role: "Machine Learning Engineer", avgSalary: "₹8–18 LPA" },
                 ],
             },
         ],
