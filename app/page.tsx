@@ -170,8 +170,11 @@ export default function Home() {
       <section id="articles" className="bg-muted px-6 py-24 sm:px-12 border-t-8 border-foreground">
         <div className="mx-auto max-w-7xl">
           <div className="mb-20 flex flex-col sm:flex-row sm:items-end justify-between border-b-8 border-foreground pb-8 gap-6">
-            <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase">
+            <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase flex flex-wrap items-center gap-4">
               Latest Intel
+              <span className="text-xl sm:text-2xl font-black bg-primary text-white px-4 py-1 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] uppercase tracking-tighter -rotate-1">
+                {allPostsData.length} Total
+              </span>
             </h2>
             <Link href="/blog" className="inline-flex h-14 items-center justify-center rounded-md bg-foreground px-8 py-3 text-lg font-bold text-white transition-all hover:bg-primary hover:scale-105 border-4 border-foreground whitespace-nowrap">
               View All Articles &rarr;

@@ -24,8 +24,11 @@ export default function BlogPage() {
       <div className="mx-auto max-w-7xl">
         <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8 text-center md:text-left">
           <div className="max-w-3xl">
-            <h1 className="font-display text-5xl font-extrabold tracking-tighter text-foreground sm:text-7xl uppercase">
+            <h1 className="font-display text-5xl font-extrabold tracking-tighter text-foreground sm:text-7xl uppercase flex flex-col sm:flex-row items-center sm:items-end gap-4 justify-center md:justify-start">
               Our <span className="bg-primary text-white px-2 py-1 inline-block -rotate-2 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">Blog</span>
+              <span className="text-2xl sm:text-3xl font-black bg-accent text-foreground px-4 py-1 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] uppercase tracking-tighter">
+                {allPostsData.length} Posts
+              </span>
             </h1>
             <p className="mt-8 text-2xl font-bold text-gray-600 leading-relaxed italic">
               "Providing Uncompromised Insights & Guidance for Your Academic Excellence."
