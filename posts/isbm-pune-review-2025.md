@@ -15,10 +15,10 @@ The International School of Business & Media (ISB&M) is known for its "lifestyle
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://logo.clearbit.com/tridentindia.com" alt="Trident" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/bnymellon.com" alt="BNY Mellon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/tridentindia.com" alt="Trident" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/bnymellon.com" alt="BNY Mellon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
 </div>
 
 ### **The ISB&M Edge:**

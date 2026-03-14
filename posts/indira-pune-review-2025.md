@@ -15,10 +15,10 @@ The Indira Group of Institutes (IGI) is a household name in Pune's management ed
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/fisglobal.com" alt="FIS" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/hdfcbank.com" alt="HDFC Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/fisglobal.com" alt="FIS" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/hdfcbank.com" alt="HDFC Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
 </div>
 
 ### **Why Students Love Indira:**

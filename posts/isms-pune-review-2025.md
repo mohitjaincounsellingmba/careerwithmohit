@@ -15,10 +15,10 @@ ISMS (International School of Management Studies) Pune is known for its strong e
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://logo.clearbit.com/relianceindustries.com" alt="Reliance" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/icicibank.com" alt="ICICI Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/bajajfinserv.in" alt="Bajaj Finserv" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/flipkart.com" alt="Flipkart" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/relianceindustries.com" alt="Reliance" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/icicibank.com" alt="ICICI Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/bajajfinserv.in" alt="Bajaj Finserv" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/flipkart.com" alt="Flipkart" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
 </div>
 
 ### **Why Choose ISMS Pune?**

@@ -15,10 +15,10 @@ Pune Business School (PBS) is part of the PCET group (Pimpri Chinchwad Education
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://logo.clearbit.com/vodafone.com" alt="Vodafone" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://logo.clearbit.com/adobe.com" alt="Adobe" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/vodafone.com" alt="Vodafone" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://unavatar.io/adobe.com" alt="Adobe" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
 </div>
 
 ### **Why Choose PBS Pune?**
