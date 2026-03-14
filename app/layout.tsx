@@ -15,18 +15,17 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.careerwithmohit.online"),
   title: {
-    default: "Mohit Jain | Career Counselling & MBA Admissions Expert",
+    default: "Mohit Jain | Career Counselling & MBA Admissions Expert 2026",
     template: "%s | CareerWithMohit",
   },
-  description: "Expert career guidance, MBA admissions consulting, resume building, and interview prep by Mohit Jain. Uncompromised strategies for your professional success.",
+  description: "Expert career guidance, MBA admissions consulting, resume building, and interview prep by Mohit Jain. Uncompromised strategies for CAT 2026 & professional success.",
   keywords: [
-    "career counselling", "MBA admissions", "B.Tech admissions", "Engineering colleges Delhi NCR",
-    "Pune", "Delhi NCR", "resume building", "interview prep", "career roadmap 2026",
-    "BBA admission guidance", "BCA college guide", "mba colleges in delhi",
-    "mba colleges in noida", "mba colleges in ghaziabad", "mba colleges in pune",
-    "mba colleges in mumbai", "mba colleges in bangalore", "mba colleges in jaipur",
-    "mba colleges in delhi ncr", "best mba colleges in delhi", "best mba colleges in pune",
-    "best mba colleges in mumbai", "best mba colleges in noida", "best mba colleges in bangalore"
+    "career counselling", "MBA admissions 2026", "B.Tech admissions", "Engineering colleges Delhi NCR",
+    "CAT 2026 preparation", "Direct MBA admission", "MBA specializations 2026", "ROI MBA colleges",
+    "Pune", "Delhi NCR", "Noida", "Gurgaon", "Mumbai", "Bangalore", "Jaipur",
+    "resume building", "interview prep", "career roadmap 2026",
+    "BBA admission guidance", "BCA college guide", "online mba programs india",
+    "best career counsellor in india", "top pgdm colleges delhi", "admission consultancy"
   ],
   authors: [{ name: "Mohit Jain" }],
   verification: {

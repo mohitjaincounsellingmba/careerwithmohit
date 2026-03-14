@@ -31,11 +31,9 @@ export const metadata: Metadata = {
   description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA, PGDM, and B.Tech admissions coaching, resume building, and placement strategy.",
   keywords: [
     "career counsellor India", "MBA admission guidance 2026", "B.Tech admission expert", 
-    "best career counsellor Delhi NCR", "resume building for MBA", "mba colleges in delhi", 
-    "mba colleges in noida", "mba colleges in ghaziabad", "mba colleges in pune", 
-    "mba colleges in mumbai", "mba colleges in bangalore", "mba colleges in jaipur", 
-    "mba colleges in delhi ncr", "best mba colleges in delhi", "best mba colleges in pune",
-    "best mba colleges in mumbai", "best mba colleges in noida", "best mba colleges in bangalore"
+    "best career counsellor Delhi NCR", "resume building for MBA", "CAT 2026 preparation",
+    "Direct MBA admission", "MBA placement report 2025", "ROI MBA colleges",
+    "Noida", "Ghaziabad", "Pune", "Mumbai", "Bangalore", "Jaipur", "Delhi NCR"
   ],
   alternates: {
     canonical: "/",

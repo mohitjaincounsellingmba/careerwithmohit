@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
@@ -16,13 +17,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!postData) return {};
 
   const postTitle = `${postData.title} | Updated Guide 2026`;
-  const postDescription = postData.description || `Expert guide on ${postData.title}. Detailed insights, solutions, and admission strategy by Mohit Jain.`;
+  const postDescription = postData.description || `Expert guide on ${postData.title}. Detailed insights, placements 2025, and admission strategy for 2026 by Mohit Jain.`;
   const postUrl = `/blog/${slug}`;
 
   return {
     title: postTitle,
     description: postDescription,
-    keywords: [...(postData.keywords || []), "MBA Admissions 2026", "Career Counselling India"],
+    keywords: [...(postData.keywords || []), "MBA Admissions 2026", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India"],
     openGraph: {
       title: postTitle,
       description: postDescription,
@@ -63,12 +64,13 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     "@type": "BlogPosting",
     "headline": postData.title,
     "description": postData.description,
-    "image": `https://www.careerwithmohit.online/og-image.webp`, // Default OG image
+    "image": `https://www.careerwithmohit.online/og-image.webp`,
     "datePublished": postData.date,
     "dateModified": postData.date,
     "author": {
       "@type": "Person",
-      "name": "Mohit Jain"
+      "name": "Mohit Jain",
+      "url": "https://www.careerwithmohit.online"
     },
     "publisher": {
       "@type": "Organization",
@@ -77,6 +79,10 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         "@type": "ImageObject",
         "url": "https://www.careerwithmohit.online/logo.webp"
       }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.careerwithmohit.online/blog/${slug}`
     }
   };
 
@@ -175,6 +181,21 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               strong: ({ node, ...props }) => (
                 <strong className="font-black text-foreground bg-accent/20 px-1" {...props} />
               ),
+              img: ({ node, src, alt, ...props }) => {
+                if (!src) return null;
+                return (
+                  <div className="my-16 relative w-full h-[400px] md:h-[600px] border-8 border-foreground rounded-xl overflow-hidden shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+                    <Image
+                      src={src}
+                      alt={alt || "Blog Image"}
+                      fill
+                      className="object-cover"
+                      sizes="(max-w-7xl) 100vw, 800px"
+                      priority={false}
+                    />
+                  </div>
+                );
+              },
             }}
           >
             {postData.content || ''}
