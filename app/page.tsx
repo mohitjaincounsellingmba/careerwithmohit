@@ -42,6 +42,8 @@ export const metadata: Metadata = {
   },
 };
 
+import { DynamicHeroText } from '@/components/DynamicHeroText';
+
 export default function Home() {
   const allPostsData = getSortedPostsData();
 
@@ -55,7 +57,7 @@ export default function Home() {
 
         <div className="relative mx-auto max-w-7xl text-center z-10">
           <h1 className="font-display text-5xl font-extrabold tracking-tighter text-white sm:text-7xl md:text-8xl leading-none uppercase">
-            Best MBA Colleges <br className="hidden sm:block" />
+            Best <DynamicHeroText /> Colleges <br className="hidden sm:block" />
             <span className="bg-accent text-foreground px-4 py-1 inline-block mt-4 -rotate-2 border-4 border-foreground">Admission 2026</span>
           </h1>
           <p className="mx-auto mt-10 max-w-2xl text-xl font-bold leading-relaxed text-blue-50">
