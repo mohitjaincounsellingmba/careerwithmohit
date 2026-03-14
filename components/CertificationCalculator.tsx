@@ -75,7 +75,7 @@ export function CertificationCalculator() {
                     </div>
                     <div className="flex-1">
                         <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tighter leading-none mb-2">
-                            MBA Certification Calculator
+                            {selectedCategory === "Management" ? "Management Calculator" : "Certification Calculator"}
                         </h2>
                         <p className="text-sm font-bold text-slate-500 uppercase tracking-widest">
                             Find the best certifications for your {selectedProgram?.toUpperCase() || "MBA/PGDM"} career

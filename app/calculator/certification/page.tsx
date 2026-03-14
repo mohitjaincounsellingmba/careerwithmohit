@@ -2,8 +2,8 @@ import { CertificationCalculator } from "@/components/CertificationCalculator";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "MBA, PGDM & B.Tech Certification Calculator | Find Your Best Upskilling Path",
-  description: "Select your specialization and find the top certifications like CFA, AWS, VLSI, and Lean Six Sigma with detailed Pros, Cons, and ROI analysis.",
+  title: "Certification Calculator | Find Your Best Upskilling Path",
+  description: "Select your specialization and find the top certifications like CFA, Digital Marketing, AWS, VLSI, and Lean Six Sigma with detailed Pros, Cons, and ROI analysis.",
   keywords: ["mba certifications", "btech certifications", "aws certified solutions architect", "vlsi certification", "cfa vs frm", "civil engineering software", "solidworks certification"]
 };
 

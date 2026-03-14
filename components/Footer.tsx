@@ -39,7 +39,7 @@ export function Footer() {
               <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG 2026 Calculator</Link></li>
               <li><Link href="/calculator/jee-main-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Main 2026 Calculator</Link></li>
               <li><Link href="/calculator/career-roadmap" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Career Roadmap Calculator</Link></li>
-              <li><Link href="/calculator/certification" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MBA Certification Calculator</Link></li>
+              <li><Link href="/calculator/certification" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Certification Calculator</Link></li>
             </ul>
           </div>
           <div>
