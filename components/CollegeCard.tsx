@@ -6,23 +6,6 @@ import { CollegeMetadata } from "@/lib/colleges";
 export function CollegeCard({ college }: { college: CollegeMetadata }) {
   return (
     <div className="group bg-white rounded-2xl border border-slate-200 overflow-hidden hover:border-blue-500 hover:shadow-xl transition-all duration-300 flex flex-col h-full">
-      {/* Top Banner-like Section with Logo Placeholder */}
-      <div className="h-32 bg-slate-50 flex items-center justify-center relative overflow-hidden">
-        <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#3b82f6_1px,transparent_1px)] [background-size:16px_16px]"></div>
-        <div className="w-16 h-16 bg-white rounded-xl shadow-sm border border-slate-100 flex items-center justify-center p-2 z-10">
-          {college.logo ? (
-            <Image 
-              src={college.logo} 
-              alt={`${college.name} Logo`}
-              width={64}
-              height={64}
-              className="object-contain"
-            />
-          ) : (
-            <GraduationCap className="w-10 h-10 text-blue-600" />
-          )}
-        </div>
-      </div>
 
       <div className="p-6 flex flex-col flex-grow">
         <div className="flex flex-wrap gap-2 mb-4">
