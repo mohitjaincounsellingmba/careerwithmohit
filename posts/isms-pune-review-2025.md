@@ -13,6 +13,14 @@ ISMS (International School of Management Studies) Pune is known for its strong e
 *   **Placement Rate**: ~90%+
 *   **Entrance Exam**: CAT / MAT / CMAT / MAH CET
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/relianceindustries.com" alt="Reliance" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/icicibank.com" alt="ICICI Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/bajajfinserv.in" alt="Bajaj Finserv" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/flipkart.com" alt="Flipkart" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **Why Choose ISMS Pune?**
 *   **Global Immersion**: One of the few institutes in Pune offers strong international exposure through global study tours and UK-based certification programs.
 *   **Corporate Readiness**: The curriculum focuses on developing soft skills and personality traits essential for breaking into MNCs.

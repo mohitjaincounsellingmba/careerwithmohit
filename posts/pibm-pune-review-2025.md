@@ -13,6 +13,14 @@ PIBM (Pune Institute of Business Management) has carved a niche for itself by fo
 *   **Placement Rate**: ~96-100%
 *   **Entrance Exam**: CAT / XAT / MAT / CMAT / MAH CET / PMAT
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/kpmg.com" alt="KPMG" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **What Makes PIBM Stand Out?**
 *   **Profile-Based Training**: They train students for specific domains like Fintech, Digital Marketing, and Supply Chain from Day 1.
 *   **Corporate Tie-ups**: Strong partnerships with 500+ corporate leaders ensure the curriculum stays updated.

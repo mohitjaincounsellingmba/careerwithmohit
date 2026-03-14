@@ -13,6 +13,14 @@ DY Patil B-School is one of Pune's most modern and rapidly growing management in
 *   **Placement Rate**: ~90%+
 *   **Entrance Exam**: CAT / MAT / CMAT / MAH CET / ATMA
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/icicibank.com" alt="ICICI Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/capgemini.com" alt="Capgemini" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **Why Choose DY Patil B-School?**
 *   **Global Immersion**: Offers international study tours and global immersion programs to broaden students' perspectives.
 *   **Infrastructure**: State-of-the-art labs, digital libraries, and smart classrooms that rival top global B-schools.

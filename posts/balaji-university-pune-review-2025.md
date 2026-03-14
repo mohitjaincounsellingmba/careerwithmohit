@@ -13,6 +13,14 @@ Sri Balaji University, Pune (SBUP) is legendary in the management education circ
 *   **Placement Rate**: 100% (Confirmed for 2025)
 *   **Entrance Exam**: CAT / MAT / XAT / CMAT / MAH CET
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/google.com" alt="Google" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/tcs.com" alt="TCS" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **What Makes SBUP Unique?**
 *   **Corporate Readiness**: The university runs on a 365-day model, mimicking the corporate workload to prepare students for high-pressure roles.
 *   **100% Placements**: A dedicated placement cell and a massive alumni network ensure every student gets a solid start.

@@ -13,6 +13,14 @@ ASM's Institute of International Business and Research (IIBR) is the specialized
 *   **Placement Rate**: Strong industry connect
 *   **Entrance Exam**: CAT / XAT / CMAT / ATMA / MAH CET
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/ibm.com" alt="IBM" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/capgemini.com" alt="Capgemini" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/infosys.com" alt="Infosys" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/wipro.com" alt="Wipro" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **Why Choose ASM IIBR?**
 *   **Global Curriculum**: The program is designed to include international business certifications and foreign language training.
 *   **Industry 4.0 Focus**: Integrates digital business and new-age tech trends into the traditional management syllabus.

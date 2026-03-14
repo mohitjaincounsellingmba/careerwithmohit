@@ -13,6 +13,14 @@ The International School of Business & Media (ISB&M) is known for its "lifestyle
 *   **Placement Rate**: 100% (Historic Track Record)
 *   **Entrance Exam**: CAT / XAT / MAT / CMAT
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/tridentindia.com" alt="Trident" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/bnymellon.com" alt="BNY Mellon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **The ISB&M Edge:**
 *   **No Ragging & Total Freedom**: The campus culture is built on trust and freedom, which helps students develop maturity and self-discipline.
 *   **Strong Marketing Focus**: Highly preferred by top FMCG and Media brands like Trident, BNY Mellon, and Deloitte.

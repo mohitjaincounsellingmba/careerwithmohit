@@ -13,6 +13,14 @@ AKEMI Business School in Pune is a growing management institute located in the e
 *   **Placement Rate**: Strong local corporate connect
 *   **Entrance Exam**: CAT / CMAT / MAH CET
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/icicibank.com" alt="ICICI Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/hdfcbank.com" alt="HDFC Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/capgemini.com" alt="Capgemini" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **Why AKEMI Pune?**
 *   **Mentoring Support**: One of the core pillars of AKEMI is its mentorship program, where every student is guided by a faculty and an industry expert.
 *   **Strategic Location**: Located in Tathawade, it is close to both the expressway and the Hinjewadi IT park, facilitating easy industrial visits.

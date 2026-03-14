@@ -13,6 +13,14 @@ FUEL Business School (Friends Union for Energising Lives) is a unique institutio
 *   **Fees (Total)**: ₹5.5 - ₹8.0 Lakhs
 *   **Entrance Exam**: CAT / MAT / CMAT / MAH CET / FUEL Entrance
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/capgemini.com" alt="Capgemini" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/linkedin.com" alt="LinkedIn" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/oracle.com" alt="Oracle" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/microsoft.com" alt="Microsoft" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **Why FUEL Pune?**
 *   **Skill-First Approach**: They focus on futuristic skills like Data Analytics, Python for Business, and Digital Marketing as core parts of the PGDM.
 *   **Corporate Mentorship**: Students get mentored by senior leaders from companies like Capgemini, LinkedIn, and Oracle.

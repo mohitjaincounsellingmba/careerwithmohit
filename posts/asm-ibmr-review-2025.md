@@ -13,6 +13,14 @@ ASM's Institute of Business Management & Research (IBMR) is one of the oldest ma
 *   **Placement Rate**: ~100% (Claimed)
 *   **Entrance Exam**: CAT / MAT / CMAT / MAH CET
 
+### **Top Recruiters:**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://logo.clearbit.com/amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/icicibank.com" alt="ICICI Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://logo.clearbit.com/capgemini.com" alt="Capgemini" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+</div>
+
 ### **The ASM Legacy:**
 *   **Industrial Hub**: Situated near Asia's largest industrial belt (Pimpri-Chinchwad), providing students with unparalleled industrial visits and internship opportunities.
 *   **Diverse Courses**: Offers both University-affiliated MBA and AICTE-approved PGDM programs with various industry certificates.
