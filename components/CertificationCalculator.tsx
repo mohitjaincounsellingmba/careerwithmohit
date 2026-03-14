@@ -9,7 +9,7 @@ import {
 
 export function CertificationCalculator() {
     const [step, setStep] = useState<"program" | "specialization" | "result">("program");
-    const [selectedProgram, setSelectedProgram] = useState<"mba" | "pgdm" | null>(null);
+    const [selectedProgram, setSelectedProgram] = useState<"mba" | "pgdm" | "btech" | null>(null);
     const [selectedSpec, setSelectedSpec] = useState<CertSpecialization | null>(null);
     const [expandedCert, setExpandedCert] = useState<string | null>(null);
 
@@ -17,7 +17,7 @@ export function CertificationCalculator() {
     const [leadData, setLeadData] = useState({ name: "", number: "", email: "" });
     const [submitting, setSubmitting] = useState(false);
 
-    const handleProgramSelect = (id: "mba" | "pgdm") => {
+    const handleProgramSelect = (id: "mba" | "pgdm" | "btech") => {
         setSelectedProgram(id);
         setStep("specialization");
     };
@@ -85,15 +85,17 @@ export function CertificationCalculator() {
                 {step === "program" && (
                     <div className="animate-in fade-in slide-in-from-bottom-4 duration-300">
                         <p className="text-lg font-black uppercase tracking-tight mb-8 text-slate-600 italic">Step 1: Select Your Degree</p>
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                            {["mba", "pgdm"].map((prog) => (
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                            {["mba", "pgdm", "btech"].map((prog) => (
                                 <button
                                     key={prog}
-                                    onClick={() => handleProgramSelect(prog as "mba" | "pgdm")}
+                                    onClick={() => handleProgramSelect(prog as "mba" | "pgdm" | "btech")}
                                     className="bg-white border-4 border-foreground p-12 text-center hover:bg-primary hover:text-white transition-all group shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1"
                                 >
                                     <div className="text-4xl font-black uppercase tracking-tighter mb-2">{prog}</div>
-                                    <div className="text-xs font-bold uppercase tracking-widest opacity-60 group-hover:opacity-100">Professional Track</div>
+                                    <div className="text-xs font-bold uppercase tracking-widest opacity-60 group-hover:opacity-100">
+                                        {prog === "btech" ? "Engineering Track" : "Professional Track"}
+                                    </div>
                                 </button>
                             ))}
                         </div>
@@ -105,20 +107,22 @@ export function CertificationCalculator() {
                     <div className="animate-in fade-in slide-in-from-bottom-4 duration-300">
                         <p className="text-lg font-black uppercase tracking-tight mb-8 text-slate-600 italic">Step 2: Choose Your {selectedProgram?.toUpperCase()} Specialization</p>
                         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                            {certificationData.map((spec) => (
-                                <button
-                                    key={spec.id}
-                                    onClick={() => handleSpecSelect(spec)}
-                                    className="bg-slate-50 border-4 border-foreground p-6 text-left hover:bg-foreground hover:text-white transition-all group shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-1 hover:translate-y-1"
-                                >
-                                    <div className="text-4xl mb-4">{spec.emoji}</div>
-                                    <div className="text-xl font-black uppercase tracking-tight leading-none mb-2">{spec.title}</div>
-                                    <div className="text-[11px] font-bold text-slate-500 group-hover:text-white/70 leading-relaxed line-clamp-2">
-                                        {spec.description}
-                                    </div>
-                                    <ChevronRight className="w-6 h-6 mt-4 text-primary group-hover:text-white transition-transform group-hover:translate-x-2" />
-                                </button>
-                            ))}
+                            {certificationData
+                                .filter(s => s.programId === selectedProgram)
+                                .map((spec) => (
+                                    <button
+                                        key={spec.id}
+                                        onClick={() => handleSpecSelect(spec)}
+                                        className="bg-slate-50 border-4 border-foreground p-6 text-left hover:bg-foreground hover:text-white transition-all group shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-1 hover:translate-y-1"
+                                    >
+                                        <div className="text-4xl mb-4">{spec.emoji}</div>
+                                        <div className="text-xl font-black uppercase tracking-tight leading-none mb-2">{spec.title}</div>
+                                        <div className="text-[11px] font-bold text-slate-500 group-hover:text-white/70 leading-relaxed line-clamp-2">
+                                            {spec.description}
+                                        </div>
+                                        <ChevronRight className="w-6 h-6 mt-4 text-primary group-hover:text-white transition-transform group-hover:translate-x-2" />
+                                    </button>
+                                ))}
                         </div>
                     </div>
                 )}

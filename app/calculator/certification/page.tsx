@@ -2,9 +2,9 @@ import { CertificationCalculator } from "@/components/CertificationCalculator";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "MBA & PGDM Certification Calculator | Find Your Best Upkilling Path",
-  description: "Select your MBA specialization and find the top certifications like CFA, FRM, Digital Marketing, and Lean Six Sigma with detailed Pros, Cons, and ROI analysis.",
-  keywords: ["mba certifications", "pgdm certifications", "finance certifications india", "marketing certifications for mba", "cfa vs frm", "lean six sigma for mba"]
+  title: "MBA, PGDM & B.Tech Certification Calculator | Find Your Best Upskilling Path",
+  description: "Select your specialization and find the top certifications like CFA, AWS, VLSI, and Lean Six Sigma with detailed Pros, Cons, and ROI analysis.",
+  keywords: ["mba certifications", "btech certifications", "aws certified solutions architect", "vlsi certification", "cfa vs frm", "civil engineering software", "solidworks certification"]
 };
 
 export default function CertificationCalculatorPage() {
@@ -22,9 +22,9 @@ export default function CertificationCalculatorPage() {
       <CertificationCalculator />
       
       <section className="max-w-4xl mx-auto mt-24 prose prose-slate">
-        <h2 className="text-2xl font-black uppercase italic border-l-8 border-primary pl-4 mb-6">Why Certifications Matter for MBA/PGDM?</h2>
+        <h2 className="text-2xl font-black uppercase italic border-l-8 border-primary pl-4 mb-6">Why Certifications Matter?</h2>
         <p className="font-medium text-slate-600 leading-relaxed">
-          In a competitive job market, an MBA degree provides the foundation, but certifications provide the specialized edge. Whether you're targeting Investment Banking, Brand Management, or People Analytics, having a globally recognized credential validates your skills to top recruiters.
+          In a competitive job market, a degree provides the foundation, but certifications provide the specialized edge. Whether you're targeting Investment Banking, Cloud Architecture, or VLSI Design, having a globally recognized credential validates your skills to top recruiters.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-10">
             <div className="bg-white border-4 border-foreground p-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">

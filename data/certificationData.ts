@@ -10,6 +10,7 @@ export interface Certification {
 
 export interface CertSpecialization {
     id: string;
+    programId: "mba" | "pgdm" | "btech";
     title: string;
     emoji: string;
     description: string;
@@ -19,6 +20,7 @@ export interface CertSpecialization {
 export const certificationData: CertSpecialization[] = [
     {
         id: "finance",
+        programId: "mba",
         title: "Finance",
         emoji: "💰",
         description: "Focus on capital markets, investment banking, and corporate finance.",
@@ -76,6 +78,7 @@ export const certificationData: CertSpecialization[] = [
     },
     {
         id: "marketing",
+        programId: "mba",
         title: "Marketing",
         emoji: "🚀",
         description: "Focus on brand management, consumer behavior, and marketing strategy.",
@@ -132,6 +135,7 @@ export const certificationData: CertSpecialization[] = [
     },
     {
         id: "hr",
+        programId: "mba",
         title: "Human Resources",
         emoji: "🤝",
         description: "Focus on talent management, organizational behavior, and people analytics.",
@@ -172,6 +176,7 @@ export const certificationData: CertSpecialization[] = [
     },
     {
         id: "operations",
+        programId: "mba",
         title: "Operations & SCM",
         emoji: "⚙️",
         description: "Focus on supply chain, logistics, and process optimization.",
@@ -212,6 +217,7 @@ export const certificationData: CertSpecialization[] = [
     },
     {
         id: "analytics",
+        programId: "mba",
         title: "Business Analytics",
         emoji: "📊",
         description: "Focus on data-driven decision making and business intelligence.",
@@ -247,6 +253,148 @@ export const certificationData: CertSpecialization[] = [
                     "Requires self-discipline"
                 ],
                 roi: "High - Perfect for first-time data analysts."
+            }
+        ]
+    },
+    // B.TECH DATA
+    {
+        id: "cs-it",
+        programId: "btech",
+        title: "Computer Science & IT",
+        emoji: "💻",
+        description: "Software engineering, Cloud computing, and Cybersecurity.",
+        certifications: [
+            {
+                name: "AWS Certified Solutions Architect",
+                provider: "Amazon Web Services",
+                level: "Intermediate",
+                duration: "2-3 Months",
+                pros: [
+                    "Industry leader in cloud services",
+                    "Massive hiring demand globally",
+                    "Comprehensive coverage of cloud infra"
+                ],
+                cons: [
+                    "Exam is tricky and scenario-based",
+                    "Cloud fees for practice can add up"
+                ],
+                roi: "Very High - Core for Cloud Engineer and Architect roles."
+            },
+            {
+                name: "CompTIA Security+",
+                provider: "CompTIA",
+                level: "Beginner",
+                duration: "1-2 Months",
+                pros: [
+                    "Vendor-neutral security foundation",
+                    "Recognized by government and defense agencies",
+                    "Entry point for Cyber Security careers"
+                ],
+                cons: [
+                    "Theoretical knowledge only",
+                    "Needs to be refreshed every 3 years"
+                ],
+                roi: "High - Essential for SOC Analyst and Security roles."
+            }
+        ]
+    },
+    {
+        id: "ece",
+        programId: "btech",
+        title: "Electronics & Communication",
+        emoji: "📡",
+        description: "VLSI, Embedded Systems, and IoT.",
+        certifications: [
+            {
+                name: "VLSI Design & Verification",
+                provider: "Maven Silicon / Synopsys",
+                level: "Advanced",
+                duration: "6 Months",
+                pros: [
+                    "Gateway to core companies like Intel/Qualcomm",
+                    "Deep dive into Verilog/SystemVerilog",
+                    "High starting salaries in core hardware"
+                ],
+                cons: [
+                    "Very steep learning curve",
+                    "Expensive training costs"
+                ],
+                roi: "Very High - Essential for core hardware design roles."
+            }
+        ]
+    },
+    {
+        id: "mechanical",
+        programId: "btech",
+        title: "Mechanical Engineering",
+        emoji: "🔧",
+        description: "CAD/CAM, Robotics, and Quality Control.",
+        certifications: [
+            {
+                name: "CSWP (SolidWorks Professional)",
+                provider: "Dassault Systèmes",
+                level: "Intermediate",
+                duration: "1-2 Months",
+                pros: [
+                    "Gold standard for 3D modeling",
+                    "Practical certification exam",
+                    "Valued in Automotive & Aerospace"
+                ],
+                cons: [
+                    "Hardware requirements for SolidWorks",
+                    "Subscription cost for software"
+                ],
+                roi: "High - Standard for Design Engineer roles."
+            }
+        ]
+    },
+    {
+        id: "civil",
+        programId: "btech",
+        title: "Civil Engineering",
+        emoji: "🏗️",
+        description: "Structural design, BIM, and Project Management.",
+        certifications: [
+            {
+                name: "Autodesk Revit Certification",
+                provider: "Autodesk",
+                level: "Intermediate",
+                duration: "2-3 Months",
+                pros: [
+                    "Leader in BIM (Building Information Modeling)",
+                    "Mandatory for international projects",
+                    "Increases efficiency in design"
+                ],
+                cons: [
+                    "Complex tool with many modules",
+                    "Requires high-end PC"
+                ],
+                roi: "High - Essential for modern structural design."
+            }
+        ]
+    },
+    {
+        id: "electrical",
+        programId: "btech",
+        title: "Electrical Engineering",
+        emoji: "⚡",
+        description: "Power systems, Automation, and Smart Grids.",
+        certifications: [
+            {
+                name: "PLC & SCADA Programmer",
+                provider: "Schneider / Siemens / Rockwell",
+                level: "Intermediate",
+                duration: "3-4 Months",
+                pros: [
+                    "Critical for Industrial Automation",
+                    "High demand in manufacturing plants",
+                    "Hands-on logic programming"
+                ],
+                cons: [
+                    "Requires lab access for hardware",
+                    "Different vendors have different languages"
+                ],
+                roi: "High - Leads to Automation Engineer roles."
             }
         ]
     }
