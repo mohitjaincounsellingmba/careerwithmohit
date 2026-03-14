@@ -1,15 +1,16 @@
 "use client";
 
 import { useState } from "react";
-import { certificationData, Certification, CertSpecialization } from "@/data/certificationData";
+import { certificationData, Certification, CertSpecialization, CertificationCategory } from "@/data/certificationData";
 import {
     ChevronRight, ArrowLeft, Zap, Send, CheckCircle2, 
     Award, Clock, BarChart3, Plus, Minus, Info
 } from "lucide-react";
 
 export function CertificationCalculator() {
-    const [step, setStep] = useState<"program" | "specialization" | "result">("program");
-    const [selectedProgram, setSelectedProgram] = useState<"mba" | "pgdm" | "btech" | null>(null);
+    const [step, setStep] = useState<"category" | "program" | "specialization" | "result">("category");
+    const [selectedCategory, setSelectedCategory] = useState<CertificationCategory | null>(null);
+    const [selectedProgram, setSelectedProgram] = useState<string | null>(null);
     const [selectedSpec, setSelectedSpec] = useState<CertSpecialization | null>(null);
     const [expandedCert, setExpandedCert] = useState<string | null>(null);
 
@@ -17,7 +18,12 @@ export function CertificationCalculator() {
     const [leadData, setLeadData] = useState({ name: "", number: "", email: "" });
     const [submitting, setSubmitting] = useState(false);
 
-    const handleProgramSelect = (id: "mba" | "pgdm" | "btech") => {
+    const handleCategorySelect = (cat: CertificationCategory) => {
+        setSelectedCategory(cat);
+        setStep("program");
+    };
+
+    const handleProgramSelect = (id: string) => {
         setSelectedProgram(id);
         setStep("specialization");
     };
@@ -51,7 +57,8 @@ export function CertificationCalculator() {
     };
 
     const reset = () => {
-        setStep("program");
+        setStep("category");
+        setSelectedCategory(null);
         setSelectedProgram(null);
         setSelectedSpec(null);
         setExpandedCert(null);
@@ -81,20 +88,21 @@ export function CertificationCalculator() {
                     )}
                 </div>
 
-                {/* STEP 1: Program Selection */}
-                {step === "program" && (
+                {/* STEP 1: Category Selection */}
+                {step === "category" && (
                     <div className="animate-in fade-in slide-in-from-bottom-4 duration-300">
-                        <p className="text-lg font-black uppercase tracking-tight mb-8 text-slate-600 italic">Step 1: Select Your Degree</p>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-                            {["mba", "pgdm", "btech"].map((prog) => (
+                        <p className="text-lg font-black uppercase tracking-tight mb-8 text-slate-600 italic">Step 1: Select Field of Study</p>
+                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                            {(["Management", "Engineering", "Computer Application", "Designing"] as CertificationCategory[]).map((cat) => (
                                 <button
-                                    key={prog}
-                                    onClick={() => handleProgramSelect(prog as "mba" | "pgdm" | "btech")}
-                                    className="bg-white border-4 border-foreground p-12 text-center hover:bg-primary hover:text-white transition-all group shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1"
+                                    key={cat}
+                                    onClick={() => handleCategorySelect(cat)}
+                                    className="bg-white border-4 border-foreground p-8 text-left hover:bg-primary hover:text-white transition-all group shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1"
                                 >
-                                    <div className="text-4xl font-black uppercase tracking-tighter mb-2">{prog}</div>
-                                    <div className="text-xs font-bold uppercase tracking-widest opacity-60 group-hover:opacity-100">
-                                        {prog === "btech" ? "Engineering Track" : "Professional Track"}
+                                    <div className="text-2xl font-black uppercase tracking-tighter mb-2">{cat}</div>
+                                    <div className="text-xs font-bold uppercase tracking-widest opacity-60 group-hover:opacity-100 flex items-center justify-between">
+                                        Exploration Track
+                                        <ChevronRight className="w-5 h-5 group-hover:translate-x-2 transition-transform" />
                                     </div>
                                 </button>
                             ))}
@@ -102,10 +110,29 @@ export function CertificationCalculator() {
                     </div>
                 )}
 
-                {/* STEP 2: Specialization Selection */}
+                {/* STEP 2: Program Selection */}
+                {step === "program" && selectedCategory && (
+                    <div className="animate-in fade-in slide-in-from-bottom-4 duration-300">
+                        <p className="text-lg font-black uppercase tracking-tight mb-8 text-slate-600 italic">Step 2: Select Your {selectedCategory} Program</p>
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                            {Array.from(new Set(certificationData.filter(s => s.category === selectedCategory).map(s => s.programId))).map((prog) => (
+                                <button
+                                    key={prog}
+                                    onClick={() => handleProgramSelect(prog)}
+                                    className="bg-white border-4 border-foreground p-10 text-center hover:bg-foreground hover:text-white transition-all group shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-1 hover:translate-y-1"
+                                >
+                                    <div className="text-3xl font-black uppercase tracking-tighter mb-1">{prog}</div>
+                                    <div className="text-[10px] font-bold uppercase tracking-widest opacity-50 group-hover:opacity-100 italic">Certification Hub</div>
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+                )}
+
+                {/* STEP 3: Specialization Selection */}
                 {step === "specialization" && (
                     <div className="animate-in fade-in slide-in-from-bottom-4 duration-300">
-                        <p className="text-lg font-black uppercase tracking-tight mb-8 text-slate-600 italic">Step 2: Choose Your {selectedProgram?.toUpperCase()} Specialization</p>
+                        <p className="text-lg font-black uppercase tracking-tight mb-8 text-slate-600 italic">Step 3: Choose Your {selectedProgram?.toUpperCase()} Specialization</p>
                         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                             {certificationData
                                 .filter(s => s.programId === selectedProgram)

@@ -8,9 +8,12 @@ export interface Certification {
     roi: string;
 }
 
+export type CertificationCategory = "Management" | "Engineering" | "Computer Application" | "Designing";
+
 export interface CertSpecialization {
     id: string;
-    programId: "mba" | "pgdm" | "btech";
+    programId: "mba" | "pgdm" | "bba" | "btech" | "bca" | "mca" | "bdes" | "mdes";
+    category: CertificationCategory;
     title: string;
     emoji: string;
     description: string;
@@ -21,6 +24,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "finance",
         programId: "mba",
+        category: "Management",
         title: "Finance",
         emoji: "💰",
         description: "Focus on capital markets, investment banking, and corporate finance.",
@@ -79,6 +83,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "marketing",
         programId: "mba",
+        category: "Management",
         title: "Marketing",
         emoji: "🚀",
         description: "Focus on brand management, consumer behavior, and marketing strategy.",
@@ -136,6 +141,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "hr",
         programId: "mba",
+        category: "Management",
         title: "Human Resources",
         emoji: "🤝",
         description: "Focus on talent management, organizational behavior, and people analytics.",
@@ -177,6 +183,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "operations",
         programId: "mba",
+        category: "Management",
         title: "Operations & SCM",
         emoji: "⚙️",
         description: "Focus on supply chain, logistics, and process optimization.",
@@ -218,6 +225,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "analytics",
         programId: "mba",
+        category: "Management",
         title: "Business Analytics",
         emoji: "📊",
         description: "Focus on data-driven decision making and business intelligence.",
@@ -260,6 +268,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "cs-it",
         programId: "btech",
+        category: "Engineering",
         title: "Computer Science & IT",
         emoji: "💻",
         description: "Software engineering, Cloud computing, and Cybersecurity.",
@@ -301,6 +310,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "ece",
         programId: "btech",
+        category: "Engineering",
         title: "Electronics & Communication",
         emoji: "📡",
         description: "VLSI, Embedded Systems, and IoT.",
@@ -326,6 +336,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "mechanical",
         programId: "btech",
+        category: "Engineering",
         title: "Mechanical Engineering",
         emoji: "🔧",
         description: "CAD/CAM, Robotics, and Quality Control.",
@@ -351,6 +362,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "civil",
         programId: "btech",
+        category: "Engineering",
         title: "Civil Engineering",
         emoji: "🏗️",
         description: "Structural design, BIM, and Project Management.",
@@ -376,6 +388,7 @@ export const certificationData: CertSpecialization[] = [
     {
         id: "electrical",
         programId: "btech",
+        category: "Engineering",
         title: "Electrical Engineering",
         emoji: "⚡",
         description: "Power systems, Automation, and Smart Grids.",
@@ -395,6 +408,104 @@ export const certificationData: CertSpecialization[] = [
                     "Different vendors have different languages"
                 ],
                 roi: "High - Leads to Automation Engineer roles."
+            }
+        ]
+    },
+    // MANAGEMENT - BBA
+    {
+        id: "bba-gen",
+        programId: "bba",
+        category: "Management",
+        title: "BBA General / Marketing",
+        emoji: "📈",
+        description: "Foundational marketing and business management for undergraduates.",
+        certifications: [
+            {
+                name: "Google Digital Marketing Certificate",
+                provider: "Google",
+                level: "Beginner",
+                duration: "3-6 Months",
+                pros: ["Great for beginners", "Practical labs", "Free on Coursera (Financial Aid available)"],
+                cons: ["Very basic", "Theory-heavy"],
+                roi: "Medium - Good for first internship."
+            }
+        ]
+    },
+    // COMPUTER APPLICATION - BCA & MCA
+    {
+        id: "bca-web",
+        programId: "bca",
+        category: "Computer Application",
+        title: "Web Development",
+        emoji: "🌐",
+        description: "Full-stack development for BCA students.",
+        certifications: [
+            {
+                name: "Meta Front-End Developer",
+                provider: "Meta",
+                level: "Beginner",
+                duration: "4-6 Months",
+                pros: ["Focus on React", "Industry-aligned projects", "Meta-certified badge"],
+                cons: ["Monthly subscription", "Requires strong JS basics"],
+                roi: "High - Standard for Junior Web Dev roles."
+            }
+        ]
+    },
+    {
+        id: "mca-devops",
+        programId: "mca",
+        category: "Computer Application",
+        title: "DevOps & Cloud",
+        emoji: "☁️",
+        description: "Advanced infrastructure and automation for MCA graduates.",
+        certifications: [
+            {
+                name: "Certified Kubernetes Administrator (CKA)",
+                provider: "Cloud Native Computing Foundation",
+                level: "Advanced",
+                duration: "2-3 Months",
+                pros: ["Performance-based exam", "Highest industry value", "Global recognition"],
+                cons: ["Very hard", "Expensive ($395)"],
+                roi: "Very High - Mandatory for DevOps Architects."
+            }
+        ]
+    },
+    // DESIGNING - B.DES & M.DES
+    {
+        id: "bdes-uiux",
+        programId: "bdes",
+        category: "Designing",
+        title: "UI/UX Design",
+        emoji: "🎨",
+        description: "User Interface and Experience design foundation.",
+        certifications: [
+            {
+                name: "Google UX Design Professional",
+                provider: "Google",
+                level: "Beginner",
+                duration: "6 Months",
+                pros: ["Complete portfolio creation", "Figma training included", "Beginner-friendly"],
+                cons: ["Lengthy", "Self-paced can be slow"],
+                roi: "High - Best for entry-level UI/UX designers."
+            }
+        ]
+    },
+    {
+        id: "mdes-design-thinking",
+        programId: "mdes",
+        category: "Designing",
+        title: "Strategic Design & Thinking",
+        emoji: "🧠",
+        description: "Advanced design strategy for leadership roles.",
+        certifications: [
+            {
+                name: "Design Thinking: From Insights to Viability",
+                provider: "IDEO U",
+                level: "Advanced",
+                duration: "5 Weeks",
+                pros: ["Learn from IDEO founders", "Hands-on collaboration", "Focus on business value"],
+                cons: ["Very expensive", "Fast-paced"],
+                roi: "High - For Product Managers and Design Leads."
             }
         ]
     }
