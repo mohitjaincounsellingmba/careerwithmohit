@@ -79,13 +79,21 @@ These law schools are known for their international collaborations, modern infra
 
 ## 📈 2026 Entrance Exam Calendar (Expected)
 
-| Exam | Target Colleges | Expected Date |
-| :--- | :--- | :--- |
-| **CLAT 2026** | NLUs & IPU | Dec 2025 |
-| **AILET 2026** | NLU Delhi | May 2026 |
-| **SLAT 2026** | Symbiosis | May 2026 |
-| **CUET 2026** | DU & BHU | May 2026 |
-| **LSAT India** | Jindal, NMIMS | May 2026 |
+- **CLAT 2026**
+    - **Target Colleges:** NLUs & IPU
+    - **Expected Date:** Dec 2025
+- **AILET 2026**
+    - **Target Colleges:** NLU Delhi
+    - **Expected Date:** May 2026
+- **SLAT 2026**
+    - **Target Colleges:** Symbiosis
+    - **Expected Date:** May 2026
+- **CUET 2026**
+    - **Target Colleges:** DU & BHU
+    - **Expected Date:** May 2026
+- **LSAT India**
+    - **Target Colleges:** Jindal, NMIMS
+    - **Expected Date:** May 2026
 
 ---
 
