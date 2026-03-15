@@ -186,7 +186,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 return (
                   <div className="my-16 relative w-full h-[400px] md:h-[600px] border-8 border-foreground rounded-xl overflow-hidden shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
                     <Image
-                      src={src}
+                      src={src as string}
                       alt={alt || "Blog Image"}
                       fill
                       className="object-cover"
