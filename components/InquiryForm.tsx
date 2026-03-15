@@ -15,7 +15,13 @@ const COURSE_OPTIONS = [
   'BCA',
   'BTech',
   'Online MBA',
-  'Abroad Education'
+  'Abroad Education',
+  'Online BBA',
+  'MCA',
+  'MBBS',
+  'M.Tech',
+  'LLB',
+  'LLM'
 ];
 
 export function InquiryForm() {
@@ -189,21 +195,19 @@ export function InquiryForm() {
         {/* Course - Full Width on small, 2 col on large handled by parent grid */}
         <div className="space-y-3 md:col-span-2">
           <label className="block text-xl font-black uppercase tracking-tight text-foreground">Course Interest</label>
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+          <select
+            required
+            value={formData.course}
+            onChange={(e) => setFormData({ ...formData, course: e.target.value })}
+            className="w-full h-16 bg-gray-50 border-4 border-foreground px-6 text-lg font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md appearance-none"
+          >
+            <option value="" disabled>Select Course</option>
             {COURSE_OPTIONS.map(opt => (
-              <button
-                key={opt}
-                type="button"
-                onClick={() => setFormData({ ...formData, course: opt })}
-                className={`h-14 border-4 border-foreground px-4 text-sm font-black uppercase transition-all rounded-md ${formData.course === opt
-                  ? 'bg-accent text-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] -translate-x-1 -translate-y-1'
-                  : 'bg-white hover:bg-gray-100'
-                  }`}
-              >
+              <option key={opt} value={opt}>
                 {opt}
-              </button>
+              </option>
             ))}
-          </div>
+          </select>
         </div>
       </div>
 
