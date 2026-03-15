@@ -37,11 +37,18 @@ These are the most sought-after law schools in the country, known for their rigo
 ## 🎓 Tier 2: Premier Government & Semi-Government Options
 These colleges offer great faculty and consistent placement records under major universities.
 
-| College Name | Location | Entrance Exam | Approx. Fees (Annual) |
-| :--- | :--- | :--- | :--- |
-| **USLLS (GGSIPU)** | Dwarka, Delhi | CLAT / CUET | ₹1.2 Lakhs |
-| **VIPS (GGSIPU)** | Pitampura, Delhi | CLAT / CUET | ₹1.3 Lakhs |
-| **CPJ College** | Narela, Delhi | CLAT / IPU CET | ₹1.1 Lakhs |
+- **USLLS (GGSIPU)**
+    - **Location:** Dwarka, Delhi
+    - **Entrance Exam:** CLAT / CUET
+    - **Approx. Fees (Annual):** ₹1.2 Lakhs
+- **VIPS (GGSIPU)**
+    - **Location:** Pitampura, Delhi
+    - **Entrance Exam:** CLAT / CUET
+    - **Approx. Fees (Annual):** ₹1.3 Lakhs
+- **CPJ College**
+    - **Location:** Narela, Delhi
+    - **Entrance Exam:** CLAT / IPU CET
+    - **Approx. Fees (Annual):** ₹1.1 Lakhs
 
 - **Admission Tip:** IP University (GGSIPU) first prioritizes CLAT scores. CUET is used only if seats remain vacant.
 
