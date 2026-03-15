@@ -12,6 +12,9 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
   const [selectedState, setSelectedState] = useState("All States");
   const [selectedCity, setSelectedCity] = useState("All Cities");
   const [selectedOwnership, setSelectedOwnership] = useState("All Types");
+  const [selectedExam, setSelectedExam] = useState("All Exams");
+  const [selectedFeeRange, setSelectedFeeRange] = useState("All Fees");
+  const [selectedRanking, setSelectedRanking] = useState("All Rankings");
   const [showFilters, setShowFilters] = useState(false);
 
   // Mapping of common patterns to standardized State/City
@@ -65,6 +68,15 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
     return ["All Courses", ...Array.from(courses)].sort();
   }, [colleges]);
 
+  const allPossibleExams = useMemo(() => {
+    const exams = new Set<string>();
+    colleges.forEach(c => (c.exams || []).forEach(exam => exams.add(exam)));
+    return ["All Exams", ...Array.from(exams)].sort();
+  }, [colleges]);
+
+  const feeRanges = ["All Fees", "< 1 Lakh", "1-5 Lakhs", "5-10 Lakhs", "10-20 Lakhs", "> 20 Lakhs"];
+  const rankingOptions = ["All Rankings", "Top 10", "Top 50", "Top 100"];
+
   const states = useMemo(() => {
     const allStates = new Set(Object.values(locationMap).map(l => l.state));
     return ["All States", ...Array.from(allStates)].sort();
@@ -108,9 +120,40 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
       const matchesOwnership = selectedOwnership === "All Types" || 
         college.ownership.toLowerCase().includes(selectedOwnership.toLowerCase());
 
-      return matchesSearch && matchesCategory && matchesCourse && matchesState && matchesCity && matchesOwnership;
+      const matchesExam = selectedExam === "All Exams" || 
+        (college.exams || []).includes(selectedExam);
+
+      // Fee Filter Logic
+      let matchesFee = true;
+      if (selectedFeeRange !== "All Fees") {
+        const feeStr = college.fees.replace(/[₹,]/g, '').toLowerCase();
+        let feeNum = parseFloat(feeStr);
+        if (feeStr.includes('lakh')) feeNum *= 100000;
+        
+        if (selectedFeeRange === "< 1 Lakh") matchesFee = feeNum < 100000;
+        else if (selectedFeeRange === "1-5 Lakhs") matchesFee = feeNum >= 100000 && feeNum <= 500000;
+        else if (selectedFeeRange === "5-10 Lakhs") matchesFee = feeNum > 500000 && feeNum <= 1000000;
+        else if (selectedFeeRange === "10-20 Lakhs") matchesFee = feeNum > 1000000 && feeNum <= 2000000;
+        else if (selectedFeeRange === "> 20 Lakhs") matchesFee = feeNum > 2000000;
+      }
+
+      // Ranking Filter Logic
+      let matchesRanking = true;
+      if (selectedRanking !== "All Rankings") {
+        const rankMatch = college.ranking.match(/#(\d+)/);
+        if (rankMatch) {
+          const rankNum = parseInt(rankMatch[1]);
+          if (selectedRanking === "Top 10") matchesRanking = rankNum <= 10;
+          else if (selectedRanking === "Top 50") matchesRanking = rankNum <= 50;
+          else if (selectedRanking === "Top 100") matchesRanking = rankNum <= 100;
+        } else {
+          matchesRanking = false; // If no numeric rank, exclude when filter is active
+        }
+      }
+
+      return matchesSearch && matchesCategory && matchesCourse && matchesState && matchesCity && matchesOwnership && matchesExam && matchesFee && matchesRanking;
     });
-  }, [searchQuery, selectedCategory, selectedCourse, selectedState, selectedCity, selectedOwnership, colleges, locationMap]);
+  }, [searchQuery, selectedCategory, selectedCourse, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, colleges, locationMap]);
 
   return (
     <div className="min-h-screen bg-slate-50 py-12 px-4 sm:px-6 lg:px-8">
@@ -223,6 +266,45 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
                   ))}
                 </select>
               </div>
+
+              <div className="space-y-2">
+                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Accepted Exams</label>
+                <select 
+                  value={selectedExam}
+                  onChange={(e) => setSelectedExam(e.target.value)}
+                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                >
+                  {allPossibleExams.map(exam => (
+                    <option key={exam} value={exam}>{exam}</option>
+                  ))}
+                </select>
+              </div>
+
+              <div className="space-y-2">
+                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Fee Range</label>
+                <select 
+                  value={selectedFeeRange}
+                  onChange={(e) => setSelectedFeeRange(e.target.value)}
+                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                >
+                  {feeRanges.map(range => (
+                    <option key={range} value={range}>{range}</option>
+                  ))}
+                </select>
+              </div>
+
+              <div className="space-y-2">
+                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">NIRF Ranking</label>
+                <select 
+                  value={selectedRanking}
+                  onChange={(e) => setSelectedRanking(e.target.value)}
+                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                >
+                  {rankingOptions.map(option => (
+                    <option key={option} value={option}>{option}</option>
+                  ))}
+                </select>
+              </div>
               
               <div className="lg:col-span-3 flex justify-center mt-2">
                 <button 
@@ -232,6 +314,9 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
                     setSelectedState("All States");
                     setSelectedCity("All Cities");
                     setSelectedOwnership("All Types");
+                    setSelectedExam("All Exams");
+                    setSelectedFeeRange("All Fees");
+                    setSelectedRanking("All Rankings");
                     setSearchQuery("");
                   }}
                   className="text-sm font-black text-rose-500 uppercase tracking-widest hover:text-rose-600 p-2 underline decoration-4 underline-offset-4"

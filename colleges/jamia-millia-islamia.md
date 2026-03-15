@@ -7,11 +7,11 @@ type: "University"
 courses: ["B.Tech", "B.Arch", "MBA", "BBA", "BCA"]
 established: 1920
 ownership: "Public"
-ranking: "#24 (NIRF 2024 - Engineering)"
-fees: "₹77,200 (Total B.Tech)"
-avg_placement: "₹13.78 LPA"
+ranking: "#25 (NIRF 2025 - Management)"
+fees: "₹53,000"
+avg_placement: "₹9.00 LPA"
 highest_placement: "₹59.91 LPA"
-exams: ["JEE Main", "JMI Entrance"]
+exams: ["JMI Entrance", "CAT"]
 website: "https://www.jmi.ac.in"
 ---
 
