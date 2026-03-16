@@ -275,16 +275,61 @@ Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoff
 
 ## Quick Comparison: All NMIMS Campuses at a Glance
 
-| Campus | Location | Total MBA Fees (Approx.) | Avg Package | Highest Package | NMAT Cutoff |
-|--------|----------|--------------------------|-------------|-----------------|-------------|
-| **Mumbai** | Vile Parle, Mumbai | ₹25-27 Lakhs | ₹25.13 LPA | ₹67.70 LPA | 209+ |
-| **Navi Mumbai** | Kharghar | ₹20-22 Lakhs | ₹13.35 LPA | ₹20.97 LPA | 200+ |
-| **Bengaluru** | Bannerghatta Rd | ₹20-22 Lakhs | ₹14.12 LPA | ₹72.00 LPA | 200+ |
-| **Hyderabad** | Jadcherla/Tarnaka | ₹20-22 Lakhs | ₹11-12 LPA | ₹20-28 LPA | 200+ |
-| **Indore** | Super Corridor | ₹16-18 Lakhs | ₹7.96 LPA | ₹15.00 LPA | 195+ |
-| **Chandigarh** | Education City | ₹16-18 Lakhs | ₹6.5-12 LPA | ₹22.00 LPA | 190+ |
-| **Shirpur** | Babulde, Shirpur | ₹8-10 Lakhs | ₹9.91-11.5 LPA | ₹27.00 LPA | 180+ |
-| **Dhule** | Dhule | ₹8-12 Lakhs | ₹5-7 LPA (est.) | Data Awaited | 180+ |
+**1. NMIMS Mumbai**
+- 📍 Location: Vile Parle (West), Mumbai, Maharashtra
+- 💰 Total MBA Fees: ₹25 – ₹27 Lakhs
+- 📊 Average Package: ₹25.13 LPA
+- 🏆 Highest Package: ₹67.70 LPA
+- 📝 NMAT Cutoff: 209+
+
+**2. NMIMS Navi Mumbai**
+- 📍 Location: Kharghar, Navi Mumbai, Maharashtra
+- 💰 Total MBA Fees: ₹20 – ₹22 Lakhs
+- 📊 Average Package: ₹13.35 LPA
+- 🏆 Highest Package: ₹20.97 LPA
+- 📝 NMAT Cutoff: 200+
+
+**3. NMIMS Bengaluru**
+- 📍 Location: Bannerghatta Road / Koramangala, Bengaluru, Karnataka
+- 💰 Total MBA Fees: ₹20 – ₹22 Lakhs
+- 📊 Average Package: ₹14.12 LPA
+- 🏆 Highest Package: ₹72.00 LPA
+- 📝 NMAT Cutoff: 200+
+
+**4. NMIMS Hyderabad**
+- 📍 Location: Jadcherla (Main) / Tarnaka (City), Hyderabad, Telangana
+- 💰 Total MBA Fees: ₹20 – ₹22 Lakhs
+- 📊 Average Package: ₹11 – ₹12 LPA
+- 🏆 Highest Package: ₹20 – ₹28 LPA
+- 📝 NMAT Cutoff: 200+
+
+**5. NMIMS Indore**
+- 📍 Location: Super Corridor, Indore, Madhya Pradesh
+- 💰 Total MBA Fees: ₹16 – ₹18 Lakhs
+- 📊 Average Package: ₹7.96 LPA
+- 🏆 Highest Package: ₹15.00 LPA
+- 📝 NMAT Cutoff: 195+
+
+**6. NMIMS Chandigarh**
+- 📍 Location: Education City, Sarangpur, Chandigarh
+- 💰 Total MBA Fees: ₹16 – ₹18 Lakhs
+- 📊 Average Package: ₹6.5 – ₹12 LPA
+- 🏆 Highest Package: ₹22.00 LPA
+- 📝 NMAT Cutoff: 190+
+
+**7. NMIMS Shirpur**
+- 📍 Location: Babulde, Bank of Tapi River, Shirpur, Maharashtra
+- 💰 Total MBA Fees: ₹8 – ₹10 Lakhs
+- 📊 Average Package: ₹9.91 – ₹11.50 LPA
+- 🏆 Highest Package: ₹27.00 LPA
+- 📝 NMAT Cutoff: 180+
+
+**8. NMIMS Dhule**
+- 📍 Location: Dhule, Maharashtra
+- 💰 Total MBA Fees: ₹8 – ₹12 Lakhs
+- 📊 Average Package: ₹5 – ₹7 LPA (estimated)
+- 🏆 Highest Package: Data Awaited
+- 📝 NMAT Cutoff: 180+
 
 ---
 
