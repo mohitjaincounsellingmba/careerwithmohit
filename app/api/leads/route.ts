@@ -47,7 +47,8 @@ export async function POST(req: Request) {
         try {
             // Check if this lead came from a Calculator/Resource Download (which uses the old general webhook)
             // or if it's a standard Inquiry (which uses the new dedicated webhook)
-            const isCalculatorOrResource = source.toLowerCase().includes('calculator') || source.toLowerCase().includes('resource');
+            const s = source.toLowerCase();
+            const isCalculatorOrResource = s.includes('calculator') || s.includes('resource') || s.includes('mock test') || s.includes('test');
             const targetWebhook = isCalculatorOrResource
                 ? 'https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F'
                 : 'https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3';
