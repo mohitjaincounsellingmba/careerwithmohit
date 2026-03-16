@@ -1,5 +1,5 @@
 ---
-title: "Top AICTE Approved PGDM Colleges in Delhi NCR Under 10 Lakhs (2025-26)"
+title: "Top AICTE Approved PGDM Colleges in Delhi NCR Under 10 Lakhs (2026-28)"
 date: "2026-03-17"
 excerpt: "Looking for an industry-ready PGDM in Delhi NCR? Discover top AICTE-approved private b-schools offering PGDM programs under ₹10 Lakhs with strong placement records and excellent ROI."
 coverImage: "/images/blog/pgdm-under-10-lakhs-delhincr.jpg"
@@ -12,7 +12,7 @@ A Post Graduate Diploma in Management (PGDM) is notoriously more expensive than 
 
 However, several rigorous, **AICTE-approved PGDM institutes in the Delhi NCR region operate under or near a highly affordable ₹10 Lakhs cap** while delivering spectacular, guaranteed placement ROI. 
 
-If you're hunting for high-value PGDM programs for the 2025-2026 batch, here are the top budget-friendly powerhouses.
+If you're hunting for high-value PGDM programs for the 2026-2028 batch, here are the top budget-friendly powerhouses.
 
 ---
 

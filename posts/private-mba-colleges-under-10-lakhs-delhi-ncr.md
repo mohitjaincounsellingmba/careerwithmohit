@@ -1,5 +1,5 @@
 ---
-title: "Top Private MBA Colleges in Delhi NCR Under 10 Lakhs (2025-26): Fees, Placements & ROI"
+title: "Top Private MBA Colleges in Delhi NCR Under 10 Lakhs (2026-28): Fees, Placements & ROI"
 date: "2026-03-17"
 excerpt: "Looking for an affordable yet high-quality MBA in Delhi NCR? Explore the top private MBA colleges offering excellent ROI, high placement packages, and total fees under ₹10 Lakhs."
 coverImage: "/images/blog/mba-under-10-lakhs-delhincr.jpg"
@@ -12,7 +12,7 @@ Pursuing a Master of Business Administration (MBA) in the Delhi National Capital
 
 Fortunately, several esteemed **private MBA colleges in Delhi NCR offer total program fees under or hovering right around ₹10 Lakhs**, while still providing exceptional Return on Investment (ROI) and robust campus placements.
 
-If you are a budget-conscious aspirant aiming for the 2025-2026 academic cycle, here is a curated list of top private institutions delivering massive value.
+If you are a budget-conscious aspirant aiming for the 2026-2028 academic cycle, here is a curated list of top private institutions delivering massive value.
 
 ---
 
@@ -77,7 +77,7 @@ Greater Noida, specifically the Knowledge Park area, is famous for its massive p
 *   **Sharda University**
 *   **Noida Institute of Engineering and Technology (NIET)**
 
-*Ensure you check their latest 2025 fee structures, as private university tuition can fluctuate annually.*
+*Ensure you check their latest 2026 fee structures, as private university tuition can fluctuate annually.*
 
 ---
 
