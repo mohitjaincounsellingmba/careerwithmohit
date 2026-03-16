@@ -63,14 +63,12 @@ The exam is divided into five key sections, each carrying a specific weightage:
 
 Based on NIRF rankings and placement records, here are the top NLUs you should aim for:
 
-| Rank (NIRF 2025) | University Name | Location |
-| :--- | :--- | :--- |
-| 1 | National Law School of India University (NLSIU) | Bangalore |
-| 3 | NALSAR University of Law | Hyderabad |
-| - | The West Bengal National University of Juridical Sciences (WBNUJS) | Kolkata |
-| - | National Law University (NLU) | Jodhpur |
-| 5 | Gujarat National Law University (GNLU) | Gandhinagar |
-| - | National Law Institute University (NLIU) | Bhopal |
+*   **National Law School of India University (NLSIU), Bangalore** – NIRF Rank #1. The undisputed top law school in India with 100% placements.
+*   **NALSAR University of Law, Hyderabad** – NIRF Rank #3. Known for excellent faculty and strong corporate law placements.
+*   **The West Bengal National University of Juridical Sciences (WBNUJS), Kolkata** – One of the original top 5 NLUs with a stellar alumni network.
+*   **National Law University (NLU), Jodhpur** – Pioneer NLU in Rajasthan, known for its research culture.
+*   **Gujarat National Law University (GNLU), Gandhinagar** – NIRF Rank #5. Strong focus on international law and moot courts.
+*   **National Law Institute University (NLIU), Bhopal** – One of the oldest NLUs with consistent placement records.
 
 ## 💡 Preparation Tips for CLAT 2026
 
