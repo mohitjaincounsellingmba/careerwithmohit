@@ -56,7 +56,10 @@ export async function POST(req: Request) {
             const webhookRes = await fetch(targetWebhook, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(newLead)
+                body: JSON.stringify({
+                    ...newLead,
+                    ...newLead.details
+                })
             });
             if (webhookRes.ok) {
                 console.log(`Leads API: Successfully pushed lead ${newLead.id} to Activepieces (Webhook: ${isCalculatorOrResource ? 'General' : 'Inquiry'})`);
