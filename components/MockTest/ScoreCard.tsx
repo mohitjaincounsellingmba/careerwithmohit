@@ -45,11 +45,12 @@ export function ScoreCard({ questions, answers, student, onReset }: ScoreCardPro
             number: student.phone,
             email: student.email,
             location: student.location,
-            source: 'MHCET Mock Test Results',
-            score: `${correct}/${total}`,
-            percentile: `${percentage}% Accuracy`,
+            source: 'MHCET Mock Test',
+            score: correct,
+            percentile: percentage,
+            accuracy: percentage,
+            total_questions: total,
             targetExam: student.targetExam,
-            details: JSON.stringify(sectionWise),
             timestamp: new Date().toISOString()
           })
         });

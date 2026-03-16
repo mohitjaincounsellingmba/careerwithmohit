@@ -42,10 +42,8 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
             number: formData.phone,
             email: formData.email,
             location: formData.location,
-            source: 'MHCET Mock Test Calculator',
+            source: 'MHCET Mock Test',
             targetExam: formData.targetExam,
-            score: 'Exam Started',
-            percentile: 'Exam Started',
             timestamp: new Date().toISOString()
           })
         });
