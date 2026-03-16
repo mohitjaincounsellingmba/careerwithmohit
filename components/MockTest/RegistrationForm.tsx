@@ -23,10 +23,35 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
     targetExam: 'MAH-MBA-CET 2026'
   });
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const [isSubmitting, setIsSubmitting] = useState(false);
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    if (isSubmitting) return;
+
     if (formData.name && formData.email && formData.phone) {
-      onRegister(formData);
+      setIsSubmitting(true);
+      try {
+        // Send lead to local API (which handles webhooks, email, and json storage)
+        await fetch('/api/leads', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            name: formData.name,
+            number: formData.phone,
+            email: formData.email,
+            location: formData.location,
+            source: 'MHCET Mock Test',
+            targetExam: formData.targetExam,
+            timestamp: new Date().toISOString()
+          })
+        });
+      } catch (error) {
+        console.error('Lead submission failed:', error);
+      } finally {
+        setIsSubmitting(false);
+        onRegister(formData);
+      }
     }
   };
 
@@ -102,9 +127,10 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
 
         <button
           type="submit"
-          className="w-full bg-primary text-white py-4 text-xl font-black uppercase border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all"
+          disabled={isSubmitting}
+          className="w-full bg-primary text-white py-4 text-xl font-black uppercase border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all disabled:opacity-50"
         >
-          Start Mock Test Now
+          {isSubmitting ? 'Processing...' : 'Start Mock Test Now'}
         </button>
       </form>
     </div>
