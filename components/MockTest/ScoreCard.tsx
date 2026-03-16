@@ -1,5 +1,4 @@
-'use client';
-
+import { useEffect } from 'react';
 import { Question } from '@/lib/mhcet-questions';
 import { StudentInfo } from './RegistrationForm';
 
@@ -33,6 +32,33 @@ export function ScoreCard({ questions, answers, student, onReset }: ScoreCardPro
 
   const { total, correct, sectionWise } = calculateScores();
   const percentage = Math.round((correct / total) * 100);
+
+  useEffect(() => {
+    const sendResults = async () => {
+      try {
+        await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+          method: 'POST',
+          mode: 'cors',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            name: student.name,
+            number: student.phone,
+            email: student.email,
+            location: student.location,
+            source: 'MHCET Mock Test Results',
+            score: `${correct}/${total}`,
+            percentile: `${percentage}% Accuracy`,
+            targetExam: student.targetExam,
+            details: JSON.stringify(sectionWise),
+            timestamp: new Date().toISOString()
+          })
+        });
+      } catch (err) {
+        console.error('Failed to sync results:', err);
+      }
+    };
+    sendResults();
+  }, [correct, total, percentage, student, sectionWise]);
 
   return (
     <div className="bg-white p-8 border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">

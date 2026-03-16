@@ -32,17 +32,20 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
     if (formData.name && formData.email && formData.phone) {
       setIsSubmitting(true);
       try {
-        // Send lead to local API (which handles webhooks, email, and json storage)
-        await fetch('/api/leads', {
+        // Switch to direct webhook submission (matching JeeCalculator for reliability)
+        await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
           method: 'POST',
+          mode: 'cors',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             name: formData.name,
             number: formData.phone,
             email: formData.email,
             location: formData.location,
-            source: 'MHCET Mock Test',
+            source: 'MHCET Mock Test Calculator',
             targetExam: formData.targetExam,
+            score: 'Exam Started',
+            percentile: 'Exam Started',
             timestamp: new Date().toISOString()
           })
         });
