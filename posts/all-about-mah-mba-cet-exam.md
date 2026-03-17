@@ -1,8 +1,8 @@
 ---
-title: "All About MAH MBA CET 2026: Pattern, JBIMS Cutoff, Marks & Top Maharashtra Colleges"
-date: "2026-03-13"
-description: "The complete guide to the Maharashtra Common Entrance Test (MAH MBA/MMS CET). Discover the insanely fast exam pattern, total marks, JBIMS cutoffs, and top MMS colleges."
-keywords: ["MAH MBA CET 2026", "MAH CET exam pattern", "MAH CET total marks", "JBIMS cutoff CET", "top colleges accepting MAH CET", "State CET Cell Maharashtra"]
+title: "MAH MBA CET 2026: Exam Dates, Syllabus, Pattern & Predicted Cutoffs"
+date: "2026-03-17"
+description: "Prepare for MAH MBA CET 2026 with our ultimate guide. Get the latest exam pattern, detailed syllabus PDF, MAH CET registration dates, and top colleges in Mumbai & Pune."
+keywords: ["MAH MBA CET 2026", "MAH CET syllabus 2026", "MBA CET exam pattern", "MHCET cutoff for JBIMS", "MBA CET registration dates", "MAH CET mock test free"]
 ---
 
 The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj Institute of Management Studies (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
@@ -63,4 +63,18 @@ The Centralised Admission Process (CAP) manages counselling for nearly 300+ inst
 - Rizvi Institute of Management Studies and Research, Mumbai
 
 ---
+## Frequently Asked Questions (FAQ)
+
+### 1. When will MAH MBA CET 2026 registration start?
+MAH MBA CET 2026 registration is expected to begin in **January 2026**, with the exam likely taking place in **March 2026**.
+
+### 2. Is there negative marking in MAH CET?
+No, there is **no negative marking** in MAH MBA CET. Students are encouraged to attempt all 200 questions.
+
+### 3. What is a good score for JBIMS?
+To get into JBIMS, a percentile of **99.99** is typically required, which usually equates to a raw score of **145+** out of 200.
+
+### 4. Which are the top colleges accepting CET scores in Pune?
+Top colleges in Pune include **PUMBA, Indira Institute of Management, and COEP**.
+
 [👉 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)

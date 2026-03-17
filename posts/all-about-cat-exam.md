@@ -1,8 +1,8 @@
 ---
-title: "All About CAT Exam 2026: Pattern, Syllabus, Cutoff & Top Colleges"
-date: "2026-03-13"
-description: "The ultimate guide to the Common Admission Test (CAT). Find out the conducting body, exam pattern, total marks, expected cutoffs, and the top MBA colleges accepting CAT."
-keywords: ["CAT exam 2026", "CAT exam pattern", "CAT total marks", "CAT cutoff IIM", "top colleges accepting CAT", "Common Admission Test syllabus"]
+title: "CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs"
+date: "2026-03-17"
+description: "Everything you need to know about CAT 2026. Explore the latest registration dates, exam pattern, section-wise syllabus PDF, and expected IIM cutoffs for 2026-28 batch."
+keywords: ["CAT exam 2026", "CAT exam registration", "CAT syllabus PDF", "CAT pattern 2026", "IIM admission 2026", "CAT cutoff IIM Ahmedabad"]
 ---
 
 The Common Admission Test (CAT) is undeniably the biggest and most competitive MBA entrance exam in India. It is the absolute primary gateway to the prestigious Indian Institutes of Management (IIMs) and other top-tier business schools like FMS Delhi and SPJIMR. 
@@ -60,4 +60,18 @@ CAT scores are calculated as percentiles relative to all test-takers (usually 3 
 - GIM (Goa Institute of Management)
 
 ---
+## Frequently Asked Questions (FAQ)
+
+### 1. What is the CAT 2026 exam date?
+CAT 2026 is expected to be held on **November 29, 2026** (the last Sunday of November).
+
+### 2. What is the minimum percentile for IIM Ahmedabad?
+Typically, a percentile of **99.5+** is required for General category students to receive an interview call from IIM Ahmedabad.
+
+### 3. Is CAT syllabus fixed?
+While there is no "official" syllabus, CAT consistently tests **VARC, DILR, and Quantitative Aptitude** based on graduate-level logic and high-school mathematics.
+
+### 4. Can I get a top college with 90 percentile in CAT?
+Yes, colleges like **GIM Goa, BIMTECH, and FORE School of Management** often accept students in the 85-92 percentile range.
+
 [👉 Need help preparing a winning strategy for CAT 2026? Speak to our MBA admission experts today!](/inquiry)
