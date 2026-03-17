@@ -70,7 +70,7 @@ export default function MhcetMockTestPage() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-16">
               <div className="bg-white p-6 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
                 <h3 className="font-black uppercase mb-2">Timed Exam</h3>
-                <p className="text-sm font-medium text-gray-600">Strict 30-minute timer for this sample mock to simulate real-world pressure.</p>
+                <p className="text-sm font-medium text-gray-600">Strict 150-minute timer to simulate the official MAH-MBA-CET pressure.</p>
               </div>
               <div className="bg-white p-6 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
                 <h3 className="font-black uppercase mb-2">Instant Scoring</h3>
