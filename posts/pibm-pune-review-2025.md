@@ -7,11 +7,15 @@ keywords: ["PIBM Pune review 2025", "PIBM Pune MBA placements", "PIBM Pune fees"
 
 PIBM (Pune Institute of Business Management) has carved a niche for itself by focusing heavily on "practical" training rather than just theory. Their logic is simple: train students exactly for the roles that companies need.
 
-### **Quick Highlights (2025 Batch):**
-*   **Avg Placement**: ₹8.5 - ₹10.3 LPA (Highly competitive)
-*   **Highest Package**: ₹26.00 LPA
-*   **Placement Rate**: ~96-100%
-*   **Entrance Exam**: CAT / XAT / MAT / CMAT / MAH CET / PMAT
+### 📊 PIBM Pune 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2-Year)** | ~₹9.45 Lakhs |
+| **Average Placement** | ₹8.5 - ₹10.3 LPA |
+| **Highest Package** | ₹26.00 LPA |
+| **Entrance Accepted** | CAT, XAT, MAT, CMAT, MAH CET, PMAT |
+| **Focus Area** | Profile-Based Training / Fintech / Martech |
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">

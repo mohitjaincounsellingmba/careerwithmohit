@@ -7,11 +7,15 @@ keywords: ["ISB&M Pune review 2025", "ISB&M Pune PGDM placements", "ISB&M Pune f
 
 The International School of Business & Media (ISB&M) is known for its "lifestyle-based" learning model and a strong focus on media and marketing. With campuses in Nande and Mulshi, it has built a reputation for delivering high-quality corporate leaders.
 
-### **Quick Highlights (2025 Batch):**
-*   **Avg Placement**: ₹11.40 LPA
-*   **Highest Package**: ₹20.56 LPA
-*   **Placement Rate**: 100% (Historic Track Record)
-*   **Entrance Exam**: CAT / XAT / MAT / CMAT
+### 📊 ISB&M Pune 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2-Year)** | ~₹14.29 Lakhs |
+| **Average Placement** | ₹11.40 LPA |
+| **Highest Package** | ₹20.56 LPA |
+| **Entrance Accepted** | CAT, XAT, MAT, CMAT |
+| **Vibe** | Lifestyle-Based Learning / Marketing Focus |
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">

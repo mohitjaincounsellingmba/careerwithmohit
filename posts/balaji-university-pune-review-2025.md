@@ -7,11 +7,15 @@ keywords: ["Sri Balaji University Pune review 2025", "BIMM Pune placements", "Ba
 
 Sri Balaji University, Pune (SBUP) is legendary in the management education circuit for its military-like discipline and rigorous training. Its flagship institute, **BIMM (Balaji Institute of Modern Management)**, is consistently ranked among the top private B-schools in India.
 
-### **Quick Highlights (2025 Batch):**
-*   **Avg Placement**: ₹8.75 LPA
-*   **Highest Package**: ₹21.58 LPA
-*   **Placement Rate**: 100% (Confirmed for 2025)
-*   **Entrance Exam**: CAT / MAT / XAT / CMAT / MAH CET
+### 📊 Balaji University 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2-Year)** | ₹11.5 - ₹12.5 Lakhs |
+| **Average Placement** | ₹8.75 LPA |
+| **Highest Package** | ₹21.58 LPA |
+| **Entrance Accepted** | CAT, MAT, XAT, CMAT, MAH CET |
+| **USP** | Military-like Discipline / 365-Day Model |
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">

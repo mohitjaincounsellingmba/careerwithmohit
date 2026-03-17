@@ -7,11 +7,15 @@ keywords: ["Indira Pune review 2025", "Indira Institute of Management placements
 
 The Indira Group of Institutes (IGI) is a household name in Pune's management education. With its flagship **Indira Institute of Management, Pune (IIMP)** located in the bustling Wakad area, it offers a perfect blend of academics and industry exposure.
 
-### **Quick Highlights (2025 Batch):**
-*   **Avg Placement**: ₹5.50 - ₹6.50 LPA
-*   **Highest Package**: ₹14.00 - ₹30.00 LPA (Varies by year)
-*   **Placement Rate**: ~85%+
-*   **Entrance Exam**: MAH MBA CET / CMAT / CAT
+### 📊 Indira Pune 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2-Year)** | ₹3.4 - ₹9.0 Lakhs |
+| **Average Placement** | ₹5.50 - ₹6.50 LPA |
+| **Highest Package** | ₹14.00 - ₹30.00 LPA |
+| **Entrance Accepted** | MAH MBA CET / CMAT / CAT |
+| **Strategic Edge** | Wakad Location / High Corporate Connect |
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">

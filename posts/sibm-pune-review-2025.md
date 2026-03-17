@@ -7,12 +7,15 @@ keywords: ["SIBM Pune review 2025", "SIBM Pune placements", "SNAP cutoff for SIB
 
 SIBM Pune (Symbiosis Institute of Business Management) is consistently ranked among the Top 10 private B-schools in India. Known for its world-class Lavale campus and "Student-Driven" culture, it is the flagship institute of Symbiosis International University.
 
-### **Quick Highlights (2025 Batch):**
-*   **Avg Placement**: ₹28.83 LPA
-*   **Highest Package**: ₹53.58 LPA
-*   **Median Salary**: ₹26.04 LPA
-*   **Total Batch Size**: ~200
-*   **Entrance Exam**: SNAP (98.5+ Percentile)
+### 📊 SIBM Pune 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2-Year)** | ~₹27.77 Lakhs |
+| **Average Placement** | ₹28.83 LPA |
+| **Highest Package** | ₹53.58 LPA |
+| **Entrance Accepted** | SNAP (98.5+ Percentile) |
+| **Campus Vibe** | Hilltop Lavale / Student-Driven |
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
