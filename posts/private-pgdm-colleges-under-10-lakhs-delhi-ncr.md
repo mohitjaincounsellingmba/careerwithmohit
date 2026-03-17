@@ -28,7 +28,7 @@ If you're hunting for high-value PGDM programs for the 2026-2028 batch, here are
 
 GIMS continues to emerge as a dominant player in Greater Noida, balancing an incredibly practical PGDM pedagogy with reasonable fees.
 
-*   **Total PGDM Fees:** ~₹8.55 Lakhs
+*   **Total PGDM Fees (2026-28):** ~₹8.95 Lakhs
 *   **Average Placement:** ~₹7.25 - ₹8.50 LPA
 *   **Highest Placement:** ₹12.50 LPA (Domestic) / ₹23.31 LPA (International)
 *   **The Verdict:** GIMS provides a stellar, modern infrastructure alongside an aggressively strong placement cell, yielding one of the fastest financial ROIs in the NCR region.
@@ -39,8 +39,8 @@ GIMS continues to emerge as a dominant player in Greater Noida, balancing an inc
 
 A highly recognized name in the Knowledge Park technical hub, GLBIMR is known for producing technically and managerially sound graduates.
 
-*   **Total PGDM Fees:** ~₹7.85 Lakhs
-*   **Average Placement:** Highly varied based on specialization, often resting between ₹8.00 - ₹10.50 LPA for top performers.
+*   **Total PGDM Fees (2026-28):** ~₹7.95 Lakhs
+*   **Average Placement:** ₹8.00 - ₹10.50 LPA for top performers.
 *   **Highest Placement:** ₹23.00 LPA
 *   **The Verdict:** With total fees below ₹8 Lakhs and averting premium pricing, GL Bajaj provides exceptionally steady placement outcomes.
 
@@ -50,7 +50,7 @@ A highly recognized name in the Knowledge Park technical hub, GLBIMR is known fo
 
 Located in Gurugram, India's corporate capital, JKBS offers student access to massive multinational corporations right in their backyard.
 
-*   **Total PGDM Fees:** ~₹8.00 Lakhs
+*   **Total PGDM Fees (2026-28):** ~₹8.50 Lakhs
 *   **Average Placement:** ~₹8.60 LPA
 *   **Highest Placement:** ₹24.00 LPA
 *   **The Verdict:** An incredibly strong option for aspirants specifically targeting Gurugram-based roles in consulting, IT, and FMCG without spending ₹15+ Lakhs elsewhere.
@@ -61,7 +61,7 @@ Located in Gurugram, India's corporate capital, JKBS offers student access to ma
 
 Operating formally near the Chattarpur belt of South Delhi, EMPI focuses intensely on experiential learning and corporate co-developed course structures.
 
-*   **Total PGDM Fees:** ~₹8.95 - ₹9.75 Lakhs
+*   **Total PGDM Fees (2026-28):** ~₹9.25 - ₹9.95 Lakhs
 *   **Average Placement:** ~₹8.75 LPA
 *   **Highest Placement:** ₹22.00 LPA
 *   **The Verdict:** The fact that its average placement essentially equals its total fee structure makes EMPI an incredibly smart, risk-adverse financial investment.
@@ -72,23 +72,44 @@ Operating formally near the Chattarpur belt of South Delhi, EMPI focuses intense
 
 ABS is renowned for its dual-specialization PGDM programs and heavy focus on international networking (often offering Oxford residential programs).
 
-*   **Total PGDM Fees:** ~₹9.55 Lakhs
+*   **Total PGDM Fees (2026-28):** ~₹9.90 Lakhs
 *   **Average Placement:** ~₹8.00 LPA
 *   **Highest Placement:** ₹24.69 LPA
-*   **The Verdict:** It's slightly on the higher end of the sub-10L budget, but its consistent 98% placement track record over the last three batches is exceptionally reassuring.
+*   **The Verdict:** It's right at the limit of our budget, but its consistent 98% placement track record over the last three batches is exceptionally reassuring.
 
 ---
 
-## Honorable Mentions (Under ₹10 Lakhs)
-1.  **Sri Sukhmani Institute of Management (SSIM), Delhi:** Fees at ~₹9.50 Lakhs with stellar reported averages of ~₹9.5 LPA.
-2.  **Tecnia Institute of Advanced Studies, Delhi:** Highly affordable at ~₹6.95 Lakhs with expected ranges of ₹7-8 LPA average packages.
-3.  **Institute of Marketing & Management (IMM), Delhi:** Hovering right near the limit at ~₹10.80 Lakhs, offering strong boutique marketing placements.
+## 📊 Comparison Summary (2026-27)
+
+| College | Fee (approx.) | Avg Package | USP |
+| :--- | :--- | :--- | :--- |
+| **GL Bajaj** | ₹7.95 L | ₹8.50 LPA | Technical Pedagogy |
+| **JKBS** | ₹8.50 L | ₹8.60 LPA | Gurugram Industry Link |
+| **GNIOT** | ₹8.95 L | ₹7.50 LPA | Modern Infra |
+| **EMPI** | ₹9.75 L | ₹8.75 LPA | South Delhi Location |
+| **Asian** | ₹9.90 L | ₹8.00 LPA | Oxford Exposure |
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### 1. Are these colleges AICTE approved?
+Yes, all the colleges listed—GIMS, GL Bajaj, JKBS, EMPI, and ABS—are approved by AICTE. This ensures your degree is valid for government jobs and higher studies.
+
+### 2. Can I get an education loan for these colleges?
+Absolutely. Since these are AICTE-approved, all major nationalized and private banks (SBI, HDFC, Axis) provide education loans covering up to 100% of the tuition fees.
+
+### 3. Does "Under 10 Lakhs" include hostel fees?
+In most cases, the ₹7–10 Lakhs range covers only the tuition and academic fees. Hostel charges are usually extra, ranging from ₹1.2 to ₹1.8 Lakhs per year depending on the type of accommodation.
 
 ---
 
 ## Concluding Strategy
 
 When evaluating PGDM programs under ₹10 Lakhs:
-1.  **AICTE Verification is Mandatory:** Do not enroll in a "Diploma" that lacks official approval from the All India Council for Technical Education.
-2.  **Look for NBA Accreditation:** If the PGDM program holds a National Board of Accreditation (NBA) certification or Association of Indian Universities (AIU) equivalence, the diploma is deemed equivalent to a university MBA.
-3.  **Review the Alumni Network:** A massive 20-year-old alumni network (often found in Delhi/Noida B-schools) helps significantly when searching for off-campus final placements.
+1.  **AICTE Verification is Mandatory.**
+2.  **Look for NBA Accreditation.**
+3.  **Review the Alumni Network.**
+
+**Confused about which budget B-school to pick?**
+[👉 Talk to our experts today](/inquiry)

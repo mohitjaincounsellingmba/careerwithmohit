@@ -96,6 +96,22 @@ Students from Bihar have successfully used the DRCC loan for the following top p
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### 1. Is the Bihar Student Credit Card really interest-free in 2026?
+Yes! As per the latest government guidelines for the 2026-27 session, the interest rate has been reduced to **0% for all categories** (males, females, and others). You only repay the principal amount.
+
+### 2. Can I apply for DRCC if I am studying outside Bihar?
+Yes. The scheme is specifically designed for residents of Bihar to pursue higher education in recognized colleges across India (Delhi, Pune, Bangalore, etc.).
+
+### 3. What if I don't get a job after my MBA?
+If you are unable to secure employment after course completion, you can submit a "self-declaration" of unemployment. The government provides a grace period and may extend the repayment start date.
+
+### 4. How long does the DRCC verification process take?
+Typically, it takes **45 to 60 days** from the date of your DRCC office visit to the final disbursement of funds to the college.
+
+---
+
 **Confused about which college accepts DRCC and which one is best for your career?**
 We specialize in helping students from Bihar secure admissions in DRCC-eligible colleges with guaranteed placement support.
 

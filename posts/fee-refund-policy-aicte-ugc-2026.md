@@ -9,14 +9,30 @@ Admission season in India is a high-pressure time. Often, students secure a seat
 
 Understanding the **AICTE** and **UGC** refund policies is essential to ensure you don't lose your hard-earned money. Here is the complete breakdown of the refund rules for the 2026 academic session.
 
+## 📅 Key Deadlines for 2026 Admissions
+
+| Action | Deadline (Expected) | Refund Percentage |
+| :--- | :--- | :--- |
+| **Before Commencement of Session** | Up to Sept 10, 2026 | 100% (minus ₹1,000) |
+| **Up to 15 Days after Commencement** | Up to Sept 25, 2026 | 80% |
+| **After 15 Days but within 30 Days** | Up to Oct 10, 2026 | 50% |
+| **After 30 Days of Commencement** | Post Oct 10, 2026 | 0% |
+
+---
+
+## ✅ Refund Eligibility Checklist (2026)
+
+*   [ ] Written application submitted to the college principal/director.
+*   [ ] Original admission receipt and allotment letter attached.
+*   [ ] Bank account details provided for the refund transfer.
+*   [ ] Acknowledgement receipt of the refund application received from the college office.
+
 ---
 
 ### **1. AICTE Refund Policy (For PGDM & PMRC Colleges)**
 
 The All India Council for Technical Education (AICTE) governs most autonomous PGDM institutes in India. Their policy is student-friendly and usually follows these timelines:
 
-*   **100% Refund (Before Class Start)**: If you withdraw your admission before the official commencement of classes, the college **MUST** refund the entire fee. They can only deduct a maximum of **Rs. 1,000** as a processing fee.
-*   **Cutoff Date**: For the 2026 session, the expected deadline for full refund is **July 31, 2026**.
 *   **Original Certificates**: Institutions are strictly prohibited from keeping your original documents (10th, 12th, or Graduation marksheets). They can only take self-attested copies.
 *   **Processing Time**: Once you submit a written request, the college must process the refund and return your documents within **7 days**.
 

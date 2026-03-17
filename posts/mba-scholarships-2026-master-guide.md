@@ -92,6 +92,19 @@ For those looking to pursue their **MBA overseas** (International B-schools).
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### 1. Can I apply for multiple MBA scholarships?
+Yes, you can apply for multiple scholarships (e.g., IDFC and Reliance). However, most institutes allow you to **receive** only one major scholarship to ensure the benefit reaches more students.
+
+### 2. Is there a scholarship specifically for female MBA students?
+Yes, many B-schools have internal scholarships for women. Additionally, the **Reliance Foundation Scholarship** and the **TATA Scholarship** have specific mandates to support diversity.
+
+### 3. Do I need a high CAT percentile for these scholarships?
+While merit-based scholarships like Aditya Birla require a high entrance rank, several need-based rewards (like IDFC) focus more on your family income and academic consistency.
+
+---
+
 ### **Quick Checklist for 2026 Applicants:**
 *   **Update Documents**: Keep your Income Certificate, ITRs, and Graduation Degree ready.
 *   **Track Deadlines**: Most scholarships open between **January and June**.

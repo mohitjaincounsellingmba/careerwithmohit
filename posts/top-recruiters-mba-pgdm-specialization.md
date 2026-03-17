@@ -5,9 +5,20 @@ description: "Discover the top hiring companies for every MBA/PGDM specializatio
 keywords: ["MBA recruiters India 2026", "PGDM placement companies", "MBA specialization salary", "top recruiters MBA Finance", "MBA Marketing companies", "MBA placement packages", "McKinsey BCG Bain MBA hiring", "top companies hiring MBA graduates India", "MBA Operations top recruiters", "HR MBA top recruiters India", "MBA placement specialization comparison"]
 ---
 
-Choosing the right MBA specialization is one of the most important decisions of your career. The companies that hire you, the roles they offer, and the salary they pay — all depend on your specialization.
-
 In this guide, we break down the **top recruiters, average packages, and key skills required** for every major MBA/PGDM specialization in 2026-27.
+
+---
+
+## 📈 Salary Snapshot by Specialization (Expected 2026-27)
+
+| Specialization | Avg. Package (Tier 2/3) | Avg. Package (Tier 1) | Top Career Path |
+| :--- | :--- | :--- | :--- |
+| **Finance** | ₹8 – ₹15 LPA | ₹22 – ₹35 LPA | Investment Banking |
+| **Marketing** | ₹7 – ₹14 LPA | ₹20 – ₹30 LPA | Brand Management |
+| **HRM** | ₹6 – ₹12 LPA | ₹15 – ₹25 LPA | Talent Analytics |
+| **Business Analytics** | ₹10 – ₹18 LPA | ₹25 – ₹45 LPA | Data Science Lead |
+| **Operations/SCM** | ₹9 – ₹16 LPA | ₹18 – ₹32 LPA | Supply Chain Head |
+| **Healthcare** | ₹8 – ₹14 LPA | ₹16 – ₹28 LPA | Hospital Ops |
 
 ---
 
