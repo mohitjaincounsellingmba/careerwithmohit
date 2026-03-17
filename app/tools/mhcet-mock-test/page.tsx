@@ -3,12 +3,12 @@ import { MhcetMockTestClient } from '@/components/MockTest/MhcetMockTestClient';
 import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Presentation } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Free MAH MBA CET Mock Test 2026 | Full 200 Questions & Percentile Predictor',
-  description: 'Take a full-length MAH MBA CET 2026 mock test online. 200 questions, 150 minutes, sectional breakdown, and percentile predictor. 100% free with solutions and expert analysis.',
-  keywords: 'MAH MBA CET mock test 2026, free MHCET MBA mock test, MBA CET practice test, MHCET score vs percentile, MAH CET test series, MBA entrance exam preparation',
+  title: 'Free MAH MBA CET Mock Test 2026 | #1 Tool for Maharashtra & MP Aspirants',
+  description: 'Take a full-length MAH MBA CET 2026 mock test online. 200 questions, 150 minutes, sectional breakdown, and percentile predictor. Best practice tool for Maharashtra (Mumbai, Pune, Nagpur) and Madhya Pradesh (Indore, Bhopal) students.',
+  keywords: 'MAH MBA CET mock test 2026, free MHCET MBA mock test, MBA CET practice test Mumbai, MHCET mock test Pune, MHCET for MP students, MBA CET Nagpur, MAH CET test series 2026, MBA entrance exam preparation Maharashtra',
   openGraph: {
-    title: 'Free MAH MBA CET Mock Test 2026',
-    description: 'Master the MAH MBA CET with our full-length 200-question mock test. Real exam experience with instant results.',
+    title: 'Free MAH MBA CET Mock Test 2026 | Rank #1 in Maharashtra',
+    description: 'Master the MAH MBA CET with our full-length 200-question mock test. Ideal for aspirants in Maharashtra and Madhya Pradesh. Real exam experience with instant results.',
     type: 'website',
   }
 };
@@ -17,10 +17,10 @@ export default function MhcetMockTestPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "MAH MBA CET Mock Test Tool",
+    "name": "MAH MBA CET 2026 Mock Test Tool (Maharashtra & MP)",
     "operatingSystem": "Web",
     "applicationCategory": "EducationalApplication",
-    "description": "A comprehensive 200-question mock test for MAH MBA CET 2026 with sectional navigation and percentile prediction.",
+    "description": "Comprehensive 200-question mock test for MAH MBA CET 2026. Targeted at aspirants from Maharashtra (OMS/MS) and Madhya Pradesh appearing for the Maharashtra MBA Common Entrance Test.",
     "offers": {
       "@type": "Offer",
       "price": "0",
@@ -226,6 +226,40 @@ export default function MhcetMockTestPage() {
             </div>
           </section>
 
+          {/* Local Advantage: Maharashtra & Madhya Pradesh */}
+          <section id="local-focus" className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            <div className="bg-white border-4 border-foreground p-8 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+              <h2 className="text-3xl font-black uppercase mb-6">Targeting Top MH Colleges?</h2>
+              <p className="text-gray-600 font-medium mb-6 leading-relaxed">
+                Whether you are a local candidate from **Mumbai, Pune, or Nagpur**, or an **OMS (Outside Maharashtra State)** student from **Indore, Bhopal, or Gwalior**, the MAH MBA CET is your gateway to high-ROI colleges.
+              </p>
+              <ul className="space-y-4">
+                <li className="flex items-center gap-3 font-bold">
+                  <CheckCircle2 className="text-primary w-5 h-5" /> 
+                  <a href="/blog/direct-admission-jbims-mumbai-institute-level-seats-2026" className="underline hover:text-primary">JBIMS Mumbai (The CEO Factory)</a>
+                </li>
+                <li className="flex items-center gap-3 font-bold">
+                  <CheckCircle2 className="text-primary w-5 h-5" /> 
+                  <a href="/blog/direct-admission-simsree-mumbai-mms-pgdm-2026" className="underline hover:text-primary">SIMSREE Mumbai (Best ROI in India)</a>
+                </li>
+                <li className="flex items-center gap-3 font-bold">
+                  <CheckCircle2 className="text-primary w-5 h-5" /> 
+                  <a href="/blog/direct-admission-pumba-pune-university-seats-2026" className="underline hover:text-primary">PUMBA Pune (Global Exposure)</a>
+                </li>
+              </ul>
+            </div>
+            <div className="bg-foreground text-white p-10 transform md:rotate-2">
+              <h2 className="text-3xl font-black uppercase mb-6 text-primary">OMS Candidate (MP/Others)?</h2>
+              <p className="text-gray-300 font-medium mb-8 leading-relaxed">
+                Did you know? MBA aspirants from **Madhya Pradesh** find MAH MBA CET easier to crack than CAT. 15% of seats in top private and university departments are reserved for All India candidates. 
+              </p>
+              <div className="bg-white/10 p-6 border-2 border-white/20">
+                <h4 className="font-black uppercase mb-2">Key MP Centers:</h4>
+                <p className="font-bold tracking-wide">Indore, Bhopal, Gwalior, Jabalpur</p>
+              </div>
+            </div>
+          </section>
+
           {/* FAQ Section */}
           <section id="faqs" className="bg-accent border-4 border-foreground p-10 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
             <h2 className="text-3xl font-black uppercase mb-12 flex items-center gap-4">
@@ -233,6 +267,14 @@ export default function MhcetMockTestPage() {
             </h2>
             <div className="space-y-8">
               {[
+                { 
+                  q: "Can students from Madhya Pradesh apply for MAH MBA CET 2026?", 
+                  a: "Absolutely! Students from MP and all other states can apply under the 'OMS' (Outside Maharashtra State) category. They are eligible for All-India seats in top colleges like JBIMS, SIMSREE, and Prin. L. N. Welingkar." 
+                },
+                { 
+                  q: "Where are the MHCET exam centers in Madhya Pradesh?", 
+                  a: "Major MAH MBA CET exam centers in MP include Indore, Bhopal, Gwalior, and Jabalpur. You can select your preferred city during the application process." 
+                },
                 { 
                   q: "What is the level of difficulty for MAH MBA CET 2026?", 
                   a: "The level of difficulty is generally moderate. However, the 'Abstract Reasoning' and 'Logical Reasoning' sections often have some high-difficulty puzzles. Speed is the real challenge, as you have only 45 seconds per question." 
@@ -248,10 +290,6 @@ export default function MhcetMockTestPage() {
                 { 
                   q: "How many mock tests should I take for a 99.9 percentile?", 
                   a: "For a 99.9+ percentile (JBIMS target), it is recommended to take at least 25-30 full-length quality mock tests and analyze them thoroughly to build speed and accuracy." 
-                },
-                { 
-                  q: "Does this mock test simulate the real exam pattern?", 
-                  a: "Yes, our mock test strictly follows the official 200-question pattern with sectional progression (Logical, Abstract, Quant, and Verbal sections)." 
                 }
               ].map((faq, i) => (
                 <div key={i} className="border-b-4 border-foreground/10 pb-6 last:border-0 last:pb-0">
