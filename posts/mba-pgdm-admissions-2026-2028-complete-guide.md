@@ -1,11 +1,8 @@
 ---
-title: "The Ultimate Guide to MBA & PGDM Admissions 2026-2028: Timelines, Exams & Strategy"
+title: "MBA & PGDM Admissions 2026-2028: Complete Timeline & Strategy Guide"
 date: "2026-03-17"
-excerpt: "Planning for an MBA or PGDM for the 2026-2028 academic session? Here is your complete timeline, covering CAT 2025 registration, XAT dates, application deadlines, and GD-PI schedules."
-coverImage: "/images/blog/mba-pgdm-admissions-2026-2028.jpg"
-author: "Mohit Jain"
-category: "Admissions"
-tags: ["MBA Admissions", "PGDM", "CAT 2025", "Entrance Exams", "IIM", "Admission Strategy"]
+description: "Master your MBA 2026-28 admission journey. Get the full timeline for CAT 2025, XAT 2026 registration, application deadlines, and GD-PI preparation tips."
+keywords: ["MBA admission 2026-28", "CAT 2025 registration", "XAT 2026 dates", "MBA application deadlines 2026", "IIM admission process 2026", "PGDM admission guide"]
 ---
 
 Embarking on an MBA or PGDM journey is a transformative life decision, but the road to securing a seat in a top-tier B-school requires meticulous planning. If you are targeting the **2026-2028 academic batch**, your preparation must begin *now*, in mid-2025.
@@ -86,5 +83,20 @@ Once the exam results are declared, B-schools will release shortlists based on t
 2.  **August/September 2025:** Keep your class 10, 12, graduation mark sheets, and category certificates ready for uploading during the CAT registration window.
 3.  **October/November 2025:** Shift entirely to taking Mock Tests (at least 20-30 mocks) and analyzing them deeply. Fill out separate forms for colleges like SPJIMR, MDI, and Symbiosis.
 4.  **January 2026:** Shift your focus entirely from Aptitude Prep to Interview Prep. Brush up on your graduation subjects and current affairs.
+
+---
+## Frequently Asked Questions (FAQ)
+
+### 1. When should I start preparing for CAT 2025?
+Ideally, you should start by **January or February 2025** to ensure 8-10 months of consistent preparation before the November exam.
+
+### 2. What is the difference between MBA and PGDM?
+Technically, an **MBA** is a degree offered by universities, while a **PGDM** is a diploma offered by autonomous institutes (like IIMs or XLRI). Both have equal value in the corporate world.
+
+### 3. Which exams are mandatory for Symbiosis?
+Only the **SNAP (Symbiosis National Aptitude Test)** is accepted for admission to all institutes under Symbiosis International University.
+
+### 4. How many mocks should I take before CAT?
+Most toppers recommend taking at least **20-30 full-length mock tests** and analyzing them thoroughly to identify weak areas.
 
 An MBA is a heavy investment of time and money, but meticulous planning guarantees you end up exactly where you belong. Start your preparation early and stay consistent!
