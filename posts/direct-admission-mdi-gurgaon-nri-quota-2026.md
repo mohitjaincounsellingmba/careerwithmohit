@@ -1,61 +1,41 @@
 ---
-title: "Direct Admission in MDI Gurgaon: NRI & Institutional Quota Reality 2026"
-date: "2026-03-17"
-description: "Discover the reality of direct admission in MDI Gurgaon for 2026. Learn about the NRI quota, foreign national seats, CAT cutoffs, and how profile-based entry works for the 2026-28 batch."
-keywords: ["MDI Gurgaon direct admission", "MDI Gurgaon management quota", "MDI Gurgaon NRI quota fees", "MDI Gurgaon MBA admission 2026", "direct admission in MDI"]
+title: "MDI Gurgaon NRI Quota Admission 2026: GMAT Cutoffs & Fees"
+date: "2026-03-18"
+description: "Everything about NRI/Foreign National admission at MDI Gurgaon for 2026. Learn about GMAT score requirements (665+ Focus), application process, and latest fees in USD."
+keywords: ["MDI Gurgaon NRI quota 2026", "MDI Gurgaon direct admission", "MDI Gurgaon GMAT cutoff", "MDI Gurgaon management quota", "study at MDI Gurgaon"]
 ---
 
-Management Development Institute (MDI) Gurgaon is one of the top 10 B-schools in India, renowned for its academic excellence and unmatched placement records. For the 2026-28 batch, many aspirants wonder if there is a **Direct Admission or Management Quota in MDI Gurgaon**. Here is the transparent breakdown of how non-merit category seats work at this elite institution.
+### 📊 MDI Gurgaon NRI/FN 2026 Snapshot
 
-## Why MDI Gurgaon is a Tier-1 Choice?
-
-- **Industry Leader**: Located in the heart of the corporate hub, Gurgaon, providing 24/7 corporate exposure.
-- **Top Specializations**: PGDM, PGDM-HRM, and PGDM-IB (International Business).
-- **Placements**: The average package for the 2025 batch was approximately **₹26.7 LPA**, making it a high-ROI destination.
-
-## The Truth About Direct Admission at MDI
-
-MDI Gurgaon is strictly merit-centric. It does not offer "donation-based" management quota seats. However, there are specific legal pathways for direct entry:
-
-### 1. NRI / Foreign National Quota
-MDI reserves a specific number of seats for NRI, OCI, and Foreign National candidates. 
-- **Entrance**: Candidates must apply using a valid **GMAT score**.
-- **Process**: These seats are filled based on GMAT performance and a dedicated interview round, bypassing the standard CAT cutoff.
-
-### 2. Industry Sponsored Seats (Executive)
-For mid-career professionals, MDI offers executive programs where candidates can be sponsored by their organizations. This is a direct route for those with significant work experience.
-
-### 3. Institutional Selection Reality
-For the regular PGDM batch, MDI Gurgaon **does not advertise a management quota**. The selection is 100% based on:
-- **CAT Score (95-97+ Percentile)**
-- **Academic Consistency** (10th, 12th, and Graduation scores)
-- **Work Experience** (Highly valued)
-- **GD-PI Performance**
-
-## Fee Structure for 2026
-The total academic fees for the two-year PGDM at MDI Gurgaon is approximately **₹25 Lakhs**. For the NRI category, the fees are structured in USD ($), following international student pricing.
+| Category | Details |
+| :--- | :--- |
+| **Entrance Accepted** | GMAT (Focus Edition) / GMAT (Classic) |
+| **GMAT Cutoff (Focus)** | 665+ (Competitive) |
+| **Program Options** | PGDM, PGDM-HRM, PGDM-IB |
+| **Application Window** | Open until April 2026 (for FN/NRI) |
+| **Avg. Placement (2025)** | ₹26.70 LPA |
 
 ---
 
-### Frequently Asked Questions (FAQ)
-
-### 1. Is there a management quota in MDI Gurgaon?
-MDI does not have a private management quota. All admissions are conducted via CAT (Indian students) or GMAT (NRI students) followed by merit-based selection.
-
-### 2. Can I get direct admission in MDI Gurgaon with a low CAT score?
-Direct admission is only possible via the **NRI or Foreign National category** using a GMAT score. For general candidates, a high CAT percentile (95+) is mandatory.
-
-### 3. What is the average stipend at MDI Gurgaon?
-The average summer internship stipend is approximately **₹2.85 Lakhs** for two months.
-
-### 4. Which entrance exams are accepted by MDI?
-Only **CAT** is accepted for domestic students, while **GMAT** is required for NRI/International applicants.
+## 2. Eligibility for NRI/Foreign National Category
+For the 2026-28 batch, MDI Gurgaon follows strict AICTE norms for specialized category seats:
+*   **NRI Candidates:** Must have resided outside India for at least 180 days in a calendar year.
+*   **Foreign Nationals:** Candidates holding a passport of a country other than India.
+*   **Academic Bar:** Minimum 10+2+3 years of education with at least 50% Marks throughout.
 
 ---
 
-## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
-- [MBA PGDM Admission Guide 2026-28](/blog/mba-pgdm-admissions-2026-2028-complete-guide)
-- [Direct MBA Admission India 2026](/blog/direct-mba-admission-india)
+## ❓ Frequently Asked Questions (FAQ)
 
-[👉 Aiming for MDI Gurgaon 2026? Get a free profile evaluation today!](/inquiry)
+### 1. Does MDI Gurgaon have a Management Quota?
+No. MDI Gurgaon is a merit-based private institution. It does **not** offer donation-based seats. The only way to bypass the CAT is the NRI/International route using a valid GMAT score.
+
+### 2. Can Indian residents apply via the GMAT?
+No, Indian residents must apply through the **CAT (Common Admission Test)**. The GMAT is strictly reserved for NRIs, PIOs, and Foreign Nationals for the flagship PGDM programs.
+
+### 3. What is the GMAT Focus cutoff for MDI in 2026?
+A score of **665+ on the GMAT Focus Edition** is considered safe for the NRI/FN category. However, a strong professional profile and academic record can sometimes compensate for a slightly lower score (645+).
+
+---
+
+[👉 Apply via NRI Quota](/inquiry) | [👉 Book Profile Evaluation](/inquiry)
