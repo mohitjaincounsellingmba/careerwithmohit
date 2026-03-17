@@ -29,5 +29,31 @@ keywords: ["Bennett University MBA review", "Bennett placement 2025", "Bennett U
 
 **Final Verdict**: Best for students who want a high-status university experience and are targeting careers in premium consulting, media, or tech-management roles.
 
-[👉 Apply to Bennett University](/inquiry)
-[👉 View More B-Schools in Greater Noida](/colleges)
+---
+
+### 📊 Bennett University 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2026-28)** | ~₹10.50 Lakhs |
+| **Average Placement** | ₹7.41 LPA |
+| **Highest Placement** | ₹33.00 LPA |
+| **Entrance Accepted** | CAT, MAT, CMAT, XAT |
+| **Location** | Greater Noida (West) |
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### 1. Is Bennett University good for MBA?
+Yes, Bennett University is a premium destination for MBA, especially for those interested in Media Management, Digital Marketing, and Finance, leveraging its strong Times Group network.
+
+### 2. What is the MBA fee at Bennett University for 2026?
+The total academic fee for the 2-year MBA program at Bennett University is approximately **₹10.50 Lakhs**. This excludes hostel and other incidental charges.
+
+### 3. Does Bennett University have good placements?
+Bennett has a very strong corporate relations team. For the 2025 batch, the highest package was **₹33 LPA**, with several students joining Big 4 and top FMCG firms.
+
+---
+
+[👉 Apply to Bennett University](/inquiry) | [👉 Get Free Counselling](/inquiry)

@@ -10,25 +10,47 @@ keywords: ["JIMS Rohini review 2026", "JIMS Rohini placement 2024", "JIMS Rohini
 *   **Corporate Trust**: A favorite hiring ground for top companies due to consistently high-quality graduates.
 *   **Student Environment**: Vibrant yet focused campus life with numerous student-run clubs and activities.
 
-### **Placement Review (2024-2025 Batch)**
+---
+
+### 📊 JIMS Rohini 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2026-28)** | ~₹9.25 Lakhs |
+| **Average Placement** | ₹8.30 LPA |
+| **Highest Placement** | ₹24.00 LPA |
+| **Entrance Accepted** | MAT, CAT, CMAT, XAT |
+| **USP** | Top 1% B-School in North Delhi |
+
+---
+
+### **Placement Review (2025 Batch)**
 *   **Placement Rate**: Maintains a consistent **100% placement record** for eligible students.
-*   **Highest Package**: **₹24 LPA**.
 *   **Median Package**: **₹9.05 LPA**.
-*   **Average Package**: **₹8.30 LPA**.
 *   **Top Recruiters**: Amazon, Deloitte, PhonePe, P&G, EY, McKinsey, and Goldman Sachs.
+
+---
 
 ### **Infrastructure & Facilities**
 *   **Smart Campus**: Spacious classrooms equipped with modern smart-tech.
 *   **Double Library**: Two well-stocked libraries to ensure resources are always available.
-*   **Tech-Heavy**: Premium computer labs and high-speed Wi-Fi across the entire block.
-*   **Hostel**: Reliable hostel facilities available with dedicated transport to the campus.
+*   **Lifestyle**: Reliable hostel facilities available with dedicated transport to the campus.
 
-### **Faculty & Pedagogy**
-*   **Corporate Background**: Many faculty members bring years of experience from top-tier corporate firms.
-*   **Mentorship focus**: Teachers are passionate and help students bridge the gap between academia and work.
-*   **Blended Learning**: Effective use of both traditional and modern case-study based methodologies.
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### 1. Is JIMS Rohini good for PGDM?
+Yes, JIMS Rohini is one of the most respected private B-schools in North Delhi. It is known for its academic rigour, high discipline, and consistently strong placements in consulting and finance.
+
+### 2. Can I get direct admission in JIMS Rohini?
+JIMS Rohini primarily admits students through MAT, CAT, and CMAT scores followed by GD/PI. For guidance on institutional categories or vacant seats, you can contact our expert counsellors.
+
+### 3. What is the fee structure for JIMS Rohini PGDM 2026?
+The total academic fee for the 2-year PGDM program (2026-28 batch) at JIMS Rohini is approximately **₹9.25 Lakhs**.
+
+---
 
 **Final Verdict**: JIMS Rohini is the go-to institute for serious aspirants targeting top-tier consulting, finance, or tech roles in North India.
 
-[👉 Apply to JIMS Rohini](/inquiry)
-[👉 View More B-Schools in Delhi](/colleges)
+[👉 Apply to JIMS Rohini](/inquiry) | [👉 Get Free Counselling](/inquiry)

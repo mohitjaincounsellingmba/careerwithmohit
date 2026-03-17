@@ -47,7 +47,33 @@ Masters' Union reports unprecedented placement numbers, heavily audited by Brick
 - **Pros:** Unmatched networking opportunities. The "Drop-shipping challenge" and "Creator challenge" provide actual hands-on business experience. Unbelievable placements in Product Management and Consulting.
 - **Cons:** It is not an AICTE/UGC approved MBA/PGDM degree (it is a certificate program). Extremely high fees. Very intense, fast-paced 16-month curriculum.
 
-**Our Verdict:** Masters' Union is for bold risk-takers. If you want a traditional MBA degree with a massive green campus, look away. But if your goal is to break into elite Product Management, VC, or Consulting roles, and you want to network with actual industry titans, Masters' Union is arguably giving ISB a run for its money.
+---
+
+### 📊 Masters' Union 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2026-28)** | ~₹24.95 Lakhs |
+| **Average Placement** | ₹34.07 LPA |
+| **Highest Placement** | ₹57.08 LPA |
+| **Entrance Accepted** | MU-BAAT, CAT, GMAT, GRE |
+| **Location** | DLF Cyber Park, Gurgaon |
 
 ---
-[👉 Confused if Masters' Union is the right fit for your profile? Contact our counsellors today!](/inquiry)
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### 1. Is Masters' Union an MBA or a Diploma?
+Neither. Masters' Union offers a **PGP in Technology and Business Management**, which is a professional certificate program. It is not AICTE/UGC approved as a degree-granting institution, but it is highly recognized by top-tier tech and consulting companies.
+
+### 2. Is Masters' Union worth the high fees?
+With an average package of ₹34 LPA against a fee of ₹25 Lakhs, its ROI is arguably higher than several old IIMs. However, it is best suited for those targeting Product Management, VC, or Tech-Strategy roles.
+
+### 3. What is the MU-BAAT exam like?
+MU-BAAT is an aptitude test that evaluates critical thinking, logical reasoning, and data interpretation. It is followed by a very rigorous interview process focusing on your business mindset and past achievements.
+
+---
+
+**Our Verdict:** Masters' Union is for bold risk-takers. If you want a traditional MBA degree with a massive green campus, look away. But if your goal is to break into elite Product Management, VC, or Consulting roles, and you want to network with actual industry titans, Masters' Union is arguably giving ISB a run for its money.
+
+[👉 Apply to Masters' Union](/inquiry) | [👉 Get Free Counselling](/inquiry)
