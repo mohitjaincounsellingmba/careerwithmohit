@@ -23,36 +23,30 @@ The **MAT February 2026** testing window has closed. Here is your quick referenc
 
 ## 📊 MAT Score vs. Percentile Mapping (Expected)
 
-Use this table to estimate your percentile based on your composite score:
+Use these benchmarks to estimate your percentile based on your composite score:
 
-| Composite Score (Out of 800) | Estimated Percentile | Recommended College Tiers |
-| :--- | :--- | :--- |
-| **750.50 – 800** | 99+ | Tier 1 (BIMTECH, XIME, PUMBA) |
-| **700.50 – 750** | 95.00 – 98.99 | Tier 1/2 (JAGSoM, IMI Kolkata) |
-| **650.50 – 700** | 90.00 – 94.99 | Tier 2 (Jaipuria, IBA, AIMS) |
-| **600.50 – 650** | 80.00 – 89.99 | Tier 2/3 (NDIM, ISBR, IILM) |
-| **Below 600** | Below 80 | Regional MBA/PGDM Institutes |
+*   **750+ Score**: 99+ Percentile — Target Tier 1 (BIMTECH, XIME, PUMBA)
+*   **700–750 Score**: 95.00–98.99 Percentile — Target Tier 1/2 (JAGSoM, IMI Kolkata)
+*   **650–700 Score**: 90.00–94.99 Percentile — Target Tier 2 (Jaipuria, IBA, AIMS)
+*   **600–650 Score**: 80.00–89.99 Percentile — Target Tier 2/3 (NDIM, ISBR, IILM)
+*   **Below 600 Score**: Below 80 Percentile — Target Regional MBA/PGDM Institutes
 
 ---
 
 ## 🏆 Top Colleges Accepting MAT February 2026
 
 ### Tier 1 B-Schools (90+ Percentile)
-| College Name | Location | Average Package |
-| :--- | :--- | :--- |
-| **BIMTECH** (Specialized) | Greater Noida | ₹11.20 LPA |
-| **XIME Bangalore** | Bangalore | ₹10.36 LPA |
-| **Jaipuria Institute** | Noida/Lucknow | ₹11.29 LPA |
-| **PUMBA** (Dept. MS) | Pune | ₹8.85 LPA |
+*   **BIMTECH (Specialized)**, Greater Noida — Avg. Package: ₹11.20 LPA
+*   **XIME Bangalore**, Bangalore — Avg. Package: ₹10.36 LPA
+*   **Jaipuria Institute**, Noida/Lucknow — Avg. Package: ₹11.29 LPA
+*   **PUMBA (Dept. MS)**, Pune — Avg. Package: ₹8.85 LPA
 
 ### Tier 2 B-Schools (80–90 Percentile)
-| College Name | Location | Average Package |
-| :--- | :--- | :--- |
-| **JAGSoM** | Bangalore | ₹10.21 LPA |
-| **IMI Kolkata** | Kolkata | ₹10.67 LPA |
-| **IBA Bangalore** | Bangalore | ₹7.96 LPA |
-| **NDIM** | New Delhi | ₹6.50 LPA |
-| **FIIB** | New Delhi | ₹6.40 LPA |
+*   **JAGSoM**, Bangalore — Avg. Package: ₹10.21 LPA
+*   **IMI Kolkata**, Kolkata — Avg. Package: ₹10.67 LPA
+*   **IBA Bangalore**, Bangalore — Avg. Package: ₹7.96 LPA
+*   **NDIM**, New Delhi — Avg. Package: ₹6.50 LPA
+*   **FIIB**, New Delhi — Avg. Package: ₹6.40 LPA
 
 ### Other Notable Participating Colleges
 *   **Christ University**, Bangalore
