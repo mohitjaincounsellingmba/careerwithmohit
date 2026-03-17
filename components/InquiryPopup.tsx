@@ -2,7 +2,12 @@
 
 import { useState, useEffect } from 'react';
 import { X } from 'lucide-react';
-import { InquiryForm } from './InquiryForm';
+import dynamic from 'next/dynamic';
+
+const InquiryForm = dynamic(() => import('./InquiryForm').then(mod => mod.InquiryForm), {
+  loading: () => <div className="h-[400px] flex items-center justify-center font-bold">Loading Form...</div>,
+  ssr: false
+});
 
 export function InquiryPopup() {
   const [isOpen, setIsOpen] = useState(false);

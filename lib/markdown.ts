@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { cache } from 'react';
 import matter from 'gray-matter';
 
 const postsDirectory = path.join(process.cwd(), 'posts');
@@ -13,7 +14,7 @@ export interface PostData {
   content?: string;
 }
 
-export function getSortedPostsData(): PostData[] {
+export const getSortedPostsData = cache(() => {
   // Ensure the directory exists
   if (!fs.existsSync(postsDirectory)) {
     return [];
@@ -47,7 +48,7 @@ export function getSortedPostsData(): PostData[] {
 
   // Sort posts by date
   return allPostsData.sort((a, b) => (a.date < b.date ? 1 : -1));
-}
+});
 
 export function getPostData(slug: string): PostData | null {
   try {

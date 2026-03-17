@@ -21,6 +21,7 @@ export function Header() {
               alt="Mohit Jain Career Counselling Logo" 
               width={32} 
               height={32} 
+              priority
               className="object-contain"
             />
           </div>

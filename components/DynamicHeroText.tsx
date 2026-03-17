@@ -33,22 +33,16 @@ export function DynamicHeroText() {
       }
     };
 
-    const timer = setTimeout(handleTyping, speed);
+  const timer = setTimeout(handleTyping, speed);
     return () => clearTimeout(timer);
   }, [displayText, isDeleting, index, speed]);
 
   return (
-    <span className="inline-flex items-baseline">
-      <span className="text-white transition-all duration-300">
+    <span className="inline-flex items-baseline min-h-[1.2em]">
+      <span className="text-white transition-opacity duration-200">
         {displayText}
       </span>
-      <span className="ml-2 inline-block w-2 h-[0.8em] bg-accent animate-[blink_1s_infinite] shadow-[0_0_15px_rgba(244,63,94,0.5)]" />
-      <style jsx>{`
-        @keyframes blink {
-          0%, 100% { opacity: 1; }
-          50% { opacity: 0; }
-        }
-      `}</style>
+      <span className="ml-2 inline-block w-2 h-[0.8em] bg-accent animate-pulse shadow-[0_0_15px_rgba(244,63,94,0.5)]" />
     </span>
   );
 }
