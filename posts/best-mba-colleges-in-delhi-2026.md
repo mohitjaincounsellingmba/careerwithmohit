@@ -5,6 +5,8 @@ description: "Explore the best MBA colleges in Delhi NCR 2026. Compare FMS Delhi
 keywords: ["best MBA colleges in Delhi 2026", "top MBA colleges in Delhi NCR", "FMS Delhi fees", "MDI Gurgaon placements", "MBA colleges in Delhi low fees", "IIT Delhi MBA cutoff"]
 ---
 
+### [InquiryCard title="Targeting Delhi NCR B-Schools?" description="Confused between MDI, IMI, FORE, or LBSIM? Get a personalized preference list based on your CAT/XAT score and budget." cta="Get Delhi Admission Strategy" type="career"]
+
 Delhi NCR is undisputedly the "Capital of Management Education" in India. Home to the legendary Faculty of Management Studies (FMS) and premier corporate hubs like Gurgaon and Noida, the region offers unparalleled industrial exposure and placement opportunities.
 
 In this guide, we have categorized the **20 Best MBA Colleges in Delhi NCR** into three tiers based on their ROI, academic rigor, and placement records.

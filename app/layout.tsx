@@ -4,6 +4,7 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { InquiryPopup } from "@/components/InquiryPopup";
+import { LeadMagnetBar } from "@/components/LeadMagnetBar";
 import { JsonLd } from "@/components/JsonLd";
 import { GoogleAnalytics } from '@next/third-parties/google';
 
@@ -132,7 +133,8 @@ export default function RootLayout({
       >
         <Header />
         <InquiryPopup />
-        <main className="flex-grow">
+        <LeadMagnetBar />
+        <main className="flex-grow pb-24 md:pb-32">
           {children}
         </main>
         <Footer />

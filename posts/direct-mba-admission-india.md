@@ -17,9 +17,12 @@ In this guide, we reveal the top 10 colleges where you can secure a seat directl
 - **Fast Process**: Secure your seat in **7 to 10 days** after profile evaluation.
 - **ROI Factor**: Colleges like IMI Kolkata and Jaipuria offer excellent salary-to-fee ratios.
 
+### [InquiryCard title="Direct Admission & Management Quota 2026" description="Looking for a guaranteed seat in a top B-school? Talk to Mohit Jain for verified institutional seat guidance in Mumbai, Delhi, Pune, and Bangalore." cta="Check Seat Availability" type="admission"]
+
 ---
 
-## 🔥 Top MBA Colleges with Direct Admission Paths
+## 🏛️ Top Colleges for Direct MBA Admission 2026
+Paths
 
 Here are the top 10 institutions where you can secure your management seat directly:
 

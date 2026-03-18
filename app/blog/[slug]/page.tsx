@@ -8,6 +8,7 @@ import rehypeRaw from 'rehype-raw';
 import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { InquiryCard } from "@/components/InquiryCard";
 
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -142,9 +143,26 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               h3: ({ node, ...props }) => (
                 <h3 className="font-display text-2xl sm:text-3xl font-black uppercase tracking-tight text-primary mt-16 mb-8 border-l-8 border-primary pl-6" {...props} />
               ),
-              p: ({ node, ...props }) => (
-                <p className="text-xl leading-relaxed text-gray-800 font-medium mb-10" {...props} />
-              ),
+              p: ({ node, children, ...props }) => {
+                // Check if the paragraph contains our [InquiryCard] syntax
+                const content = String(children);
+                if (content.startsWith('[InquiryCard') && content.endsWith(']')) {
+                    const titleMatch = content.match(/title="([^"]*)"/);
+                    const descMatch = content.match(/description="([^"]*)"/);
+                    const ctaMatch = content.match(/cta="([^"]*)"/);
+                    const typeMatch = content.match(/type="([^"]*)"/);
+
+                    return (
+                        <InquiryCard 
+                            title={titleMatch?.[1]}
+                            description={descMatch?.[1]}
+                            cta={ctaMatch?.[1]}
+                            type={(typeMatch?.[1] as any) || "admission"}
+                        />
+                    );
+                }
+                return <p className="text-xl leading-relaxed text-gray-800 font-medium mb-10" {...props}>{children}</p>;
+              },
               ul: ({ node, ...props }) => (
                 <ul className="space-y-4 mb-12 list-disc pl-8" {...props} />
               ),
@@ -216,22 +234,36 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         </div>
 
         {/* CTA SECTION - BOLD & ACTION-ORIENTED */}
-        <div className="mt-32 border-8 border-foreground bg-primary p-12 sm:p-20 text-center relative overflow-hidden">
-          <div className="absolute top-0 left-0 w-full h-2 bg-accent" />
-          <h3 className="font-display text-4xl sm:text-6xl font-black tracking-tighter text-white mb-8 uppercase leading-none">
-            Don't Guess Your Career. <br />
-            <span className="text-accent underline decoration-8 underline-offset-8">Strategy</span> Wins.
+        <div className="mt-32 border-[10px] border-foreground bg-primary p-12 sm:p-20 text-center relative overflow-hidden rounded-[3rem] shadow-[24px_24px_0px_0px_rgba(0,0,0,1)]">
+          <div className="absolute top-0 left-0 w-full h-4 bg-accent" />
+          <div className="absolute -top-24 -right-24 w-64 h-64 bg-white/10 blur-3xl rounded-full"></div>
+          
+          <h3 className="font-display text-4xl sm:text-7xl font-black tracking-tighter text-white mb-8 uppercase leading-none italic">
+            Dominate Your <br />
+            <span className="text-accent underline decoration-[12px] underline-offset-8">2026 Goals</span>
           </h3>
-          <p className="text-blue-50 text-2xl font-bold mb-14 max-w-2xl mx-auto leading-tight">
-            Get uncompromised, expert guidance to dominate your academic and professional goals.
+          <p className="text-blue-50 text-2xl md:text-3xl font-bold mb-14 max-w-3xl mx-auto leading-tight">
+            Stop guessing. Get uncompromised, expert admission strategies to secure your seat in India's top B-Schools.
           </p>
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
-            <a href="/inquiry" className="w-full sm:w-auto inline-flex h-20 items-center justify-center bg-white border-4 border-foreground px-12 text-2xl font-black text-foreground transition-all hover:bg-accent hover:translate-x-2 hover:-translate-y-2 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] uppercase">
-              Get Personal Recommendations
-            </a>
-            <Link href="/inquiry" className="w-full sm:w-auto inline-flex h-20 items-center justify-center bg-transparent border-4 border-white px-12 text-2xl font-black text-white transition-all hover:bg-white hover:text-primary uppercase">
-              Inquiry Form
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-8">
+            <Link 
+              href="/inquiry" 
+              className="w-full sm:w-auto inline-flex h-24 items-center justify-center bg-white border-8 border-foreground px-12 text-2xl font-black text-foreground transition-all hover:bg-accent hover:translate-x-2 hover:-translate-y-2 shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] uppercase active:shadow-none active:translate-x-0 active:translate-y-0"
+            >
+              Get Free Recommendations
             </Link>
+            <a 
+              href="https://wa.me/919560020771" 
+              className="w-full sm:w-auto inline-flex h-24 items-center justify-center bg-transparent border-8 border-white px-12 text-2xl font-black text-white transition-all hover:bg-white hover:text-primary uppercase"
+            >
+              WhatsApp Expert
+            </a>
+          </div>
+          <div className="mt-12 flex items-center justify-center gap-4">
+            <div className="flex -space-x-3">
+              {[1,2,3,4,5].map(i => <div key={i} className="w-10 h-10 rounded-full border-4 border-foreground bg-accent shadow-sm"></div>)}
+            </div>
+            <p className="text-white font-black uppercase tracking-widest text-xs">Join 15,000+ Students Guided in 2025</p>
           </div>
         </div>
       </div>
