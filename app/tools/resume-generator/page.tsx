@@ -5,9 +5,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { ShieldCheck, Zap, Award, FileText, Layout, Download } from "lucide-react";
 
 export const metadata: Metadata = {
-    title: "Free AI Resume Builder 2026 | Professional CV Generator for Students & MBAs",
-    description: "Create a job-winning resume in minutes with our free AI resume builder. 20+ premium templates for college students and working professionals. HBS/Stanford MBA styles available.",
-    keywords: ["resume builder", "cv generator", "mba resume template", "student resume", "free resume maker", "career with mohit tools"],
+    title: "AI Resume Builder V3 | Free Professional CV Generator 2026",
+    description: "Upgrade your career with our AI V3 Resume Builder. Featuring real-time health scoring, tone-based rewriting, and 20+ premium MBA-style templates. 100% Free.",
+    keywords: ["ai resume builder v3", "resume health score", "cv generator", "mba resume template", "free resume maker", "career with mohit"],
 };
 
 export default function ResumeGeneratorPage() {

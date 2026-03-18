@@ -111,6 +111,11 @@ export default function ResumeGeneratorClient() {
                                         setData={setData}
                                         mode={mode}
                                         setMode={setMode}
+                                        onTriggerAI={(type, currentText) => {
+                                            if (!sidebarOpen) setSidebarOpen(true);
+                                            // Focus AI input or send automated command
+                                            console.log(`AI Triggered for ${type}: ${currentText}`);
+                                        }}
                                     />
                                 </div>
                             </div>

@@ -256,10 +256,11 @@ export function ResumeEditor({
                             ></textarea>
                             <button
                                 onClick={() => onTriggerAI?.("summary", data.summary)}
-                                className="absolute top-4 right-4 text-primary hover:scale-110 transition-transform bg-white border-2 border-foreground p-1 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]"
+                                className="absolute top-4 right-4 flex items-center gap-2 px-3 py-1.5 bg-emerald-500 text-white font-black uppercase text-[9px] tracking-widest hover:bg-slate-900 transition-all rounded-lg shadow-lg shadow-emerald-500/20 group/ai"
                                 title="Optimize with AI"
                             >
-                                <Wand2 className="w-4 h-4" />
+                                <Sparkles className="w-3 h-3 group-hover/ai:rotate-12 transition-transform" />
+                                AI Optimize
                             </button>
                         </div>
                     </div>
