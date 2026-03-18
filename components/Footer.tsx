@@ -46,6 +46,7 @@ export function Footer() {
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Tools</h3>
             <ul className="space-y-4 text-base font-medium">
               <li><Link href="/tools/case-study-generator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MBA Case Study Gen</Link> <span className="text-[10px] bg-primary text-white p-1 rounded font-black align-middle ml-1">NEW</span></li>
+              <li><Link href="/tools/mat-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAT College Predictor</Link> <span className="text-[10px] bg-secondary text-white p-1 rounded font-black align-middle ml-1">2026</span></li>
               <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-primary font-black">Free MHCET Mock Test</Link></li>
             </ul>
           </div>
