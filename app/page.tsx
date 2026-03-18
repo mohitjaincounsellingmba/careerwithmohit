@@ -28,10 +28,10 @@ const SERVICES = [
 
 export const metadata: Metadata = {
   title: "Mohit Jain | MBA Admissions & Career Counselling Expert 2026",
-  description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA, PGDM, and B.Tech admissions coaching, resume building, and placement strategy.",
+  description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA, PGDM, and B.Tech admissions coaching and placement strategy.",
   keywords: [
     "career counsellor India", "MBA admission guidance 2026", "B.Tech admission expert", 
-    "best career counsellor Delhi NCR", "resume building for MBA", "CAT 2026 preparation",
+    "best career counsellor Delhi NCR", "CAT 2026 preparation",
     "Direct MBA admission", "MBA placement report 2025", "ROI MBA colleges",
     "Noida", "Ghaziabad", "Pune", "Mumbai", "Bangalore", "Jaipur", "Delhi NCR"
   ],
