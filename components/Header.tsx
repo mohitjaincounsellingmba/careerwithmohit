@@ -72,12 +72,6 @@ export function Header() {
         </nav>
         <div className="flex items-center gap-4">
           <SearchInput />
-          <Link 
-            href="/inquiry" 
-            className="hidden lg:inline-flex h-12 items-center justify-center rounded-md bg-primary px-6 py-2 text-base font-black uppercase tracking-widest text-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] border-2 border-foreground transition-all hover:bg-emerald-600 hover:-translate-y-1 active:translate-y-0"
-          >
-            Free Counselling
-          </Link>
           <a 
             href="tel:9560020771" 
             className="hidden lg:inline-flex h-12 items-center justify-center rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
@@ -146,13 +140,6 @@ export function Header() {
             </div>
 
 
-            <Link 
-              href="/inquiry" 
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-4 flex h-14 w-full items-center justify-center rounded-md bg-primary px-4 py-2 text-lg font-black uppercase tracking-widest text-white border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
-            >
-              Free Counselling
-            </Link>
             <a 
               href="tel:9560020771" 
               onClick={() => setIsMobileMenuOpen(false)}
