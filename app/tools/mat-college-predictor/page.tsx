@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import MatPredictorClient from "./MatPredictorClient";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
-import { Calculator, School, BarChart3, MapPin, CheckCircle2, Info, Compass, Table, Trophy, Target } from "lucide-react";
+import { Calculator, School, BarChart3, MapPin, CheckCircle2, Info, Compass, Table, Trophy, Target, ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
     title: "AIMA MAT College Predictor 2026 | MAT Score vs Percentile & Cutoff",
@@ -14,10 +15,35 @@ export const metadata: Metadata = {
         "mat cutoff for top mba colleges", 
         "best colleges for 80 percentile in mat",
         "aima mat predictor free",
+        "mat cutoffs 2026",
+        "mat participating institutes",
+        "top b-schools accepting mat in delhi ncr",
         "career with mohit mat tool"
     ],
     alternates: {
-        canonical: "/tools/mat-college-predictor",
+        canonical: "https://careerwithmohit.com/tools/mat-college-predictor",
+    },
+    openGraph: {
+        title: "MAT College Predictor 2026 | Predict Your B-School",
+        description: "Interactive AIMA MAT 2026 College Predictor. Map your MAT score to top MBA/PGDM colleges and check expected cutoffs based on real data.",
+        url: "https://careerwithmohit.com/tools/mat-college-predictor",
+        siteName: "Career With Mohit",
+        images: [
+            {
+                url: "/images/tools/mat-predictor-og.jpg", // Make sure this image exists or use a default one
+                width: 1200,
+                height: 630,
+                alt: "MAT College Predictor 2026 - Career With Mohit",
+            },
+        ],
+        locale: "en_US",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "MAT College Predictor 2026 | Find Your Dream B-School",
+        description: "Free interactive predictor for AIMA MAT 2026. Calculate expected percentile and explore top MBA colleges.",
+        images: ["/images/tools/mat-predictor-og.jpg"],
     },
 };
 
@@ -39,7 +65,7 @@ export default function MatPredictorPage() {
                 "name": "How is MAT Score vs Percentile calculated for 2026?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "For MAT 2026, a composite score of 100+ typically fetches a 90+ percentile. A score between 80-100 results in the 85-90 percentile range."
+                    "text": "For MAT 2026, a composite score of 100+ typically fetches a 90+ percentile. A score between 80-100 results in the 85-90 percentile range. Scores are normalized across multiple sessions by AIMA."
                 }
             },
             {
@@ -47,15 +73,31 @@ export default function MatPredictorPage() {
                 "name": "Is the MAT College Predictor free?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, our MAT College Predictor is a free tool designed to help students discover their best MBA/PGDM options based on real-time AIMA data."
+                    "text": "Yes, our MAT College Predictor is completely free. It uses historical cutoff data and real-time AIMA participant lists to help students discover their best MBA/PGDM options."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Does JBIMS accept MAT?",
+                "name": "Does JBIMS accept MAT scores?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "JBIMS Mumbai primarily accepts MAH CET scores for its MMS program, but it may consider MAT for specific categories or MSc Finance depending on the latest DTE Rajasthan/Maharashtra guidelines."
+                    "text": "JBIMS Mumbai primarily accepts MAH MBA CET scores for its flagship MMS program. However, for specific categories or courses like MSc Finance, MAT might be considered based on the latest DTE Maharashtra guidelines."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is MAT exam easier than CAT or XAT?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, MAT (Management Aptitude Test) is generally considered easier than CAT, XAT, and IIFT. It focuses more on test-taking speed than in-depth analytical complexity, making it a good backup option for many MBA aspirants."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which top colleges accept MAT in Delhi NCR?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In the Delhi NCR region, top colleges accepting MAT include BIMTECH (Greater Noida), Jaipuria Institute of Management (Noida), JIMS (Rohini), NDIM (New Delhi), and IILM University (Gurgaon)."
                 }
             }
         ]
@@ -131,48 +173,77 @@ export default function MatPredictorPage() {
 
             {/* NEW Content Section: Score vs Percentile Table */}
             <section className="py-20 px-6 bg-white relative z-20">
-                <div className="max-w-4xl mx-auto">
-                    <div className="text-center mb-12">
-                        <div className="inline-flex items-center gap-2 text-emerald-600 font-black uppercase tracking-widest text-xs mb-4">
-                            <Table className="w-4 h-4" />
-                            Statistical Insights
+                <div className="max-w-4xl mx-auto space-y-20">
+                    {/* Exam Overview Section */}
+                    <div>
+                        <div className="text-center mb-12">
+                            <h2 className="text-4xl font-black uppercase tracking-tight text-[#1a1a2e]">MAT 2026 <span className="text-emerald-500">Exam Overview</span></h2>
+                            <p className="text-slate-500 font-bold mt-4">Essential details regarding the Management Aptitude Test conducted by AIMA.</p>
                         </div>
-                        <h2 className="text-4xl font-black uppercase tracking-tight text-[#1a1a2e]">MAT Score vs Percentile <span className="text-slate-400">2026</span></h2>
-                        <p className="text-slate-500 font-bold mt-4">Average composite score required to achieve targeted percentiles for top MBA colleges.</p>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div className="p-8 rounded-[2rem] bg-slate-50 border-2 border-slate-100">
+                                <h3 className="text-slate-400 font-black uppercase text-xs tracking-widest mb-1">Conducting Body</h3>
+                                <p className="text-xl font-bold text-[#1a1a2e]">AIMA (All India Management Association)</p>
+                            </div>
+                            <div className="p-8 rounded-[2rem] bg-slate-50 border-2 border-slate-100">
+                                <h3 className="text-slate-400 font-black uppercase text-xs tracking-widest mb-1">Exam Frequency</h3>
+                                <p className="text-xl font-bold text-[#1a1a2e]">4 Times a Year (Feb, May, Sep, Dec)</p>
+                            </div>
+                            <div className="p-8 rounded-[2rem] bg-slate-50 border-2 border-slate-100">
+                                <h3 className="text-slate-400 font-black uppercase text-xs tracking-widest mb-1">Testing Modes</h3>
+                                <p className="text-xl font-bold text-[#1a1a2e]">CBT, PBT, and IBT (Internet-Based)</p>
+                            </div>
+                            <div className="p-8 rounded-[2rem] bg-slate-50 border-2 border-slate-100">
+                                <h3 className="text-slate-400 font-black uppercase text-xs tracking-widest mb-1">Participating Institutes</h3>
+                                <p className="text-xl font-bold text-[#1a1a2e]">600+ B-Schools across India</p>
+                            </div>
+                        </div>
                     </div>
 
-                    <div className="overflow-hidden rounded-[2rem] border-4 border-[#1a1a2e] shadow-[12px_12px_0px_0px_rgba(26,26,46,1)]">
-                        <table className="w-full text-left">
-                            <thead className="bg-[#1a1a2e] text-white">
-                                <tr>
-                                    <th className="px-8 py-5 text-sm font-black uppercase tracking-widest">Composite Score</th>
-                                    <th className="px-8 py-5 text-sm font-black uppercase tracking-widest">Estimated Percentile</th>
-                                    <th className="px-8 py-5 text-sm font-black uppercase tracking-widest">College Tier</th>
-                                </tr>
-                            </thead>
-                            <tbody className="divide-y divide-slate-100">
-                                <tr className="hover:bg-emerald-50/50 transition-colors">
-                                    <td className="px-8 py-5 font-bold">101 - 110</td>
-                                    <td className="px-8 py-5 font-black text-emerald-600">91 - 95%ile</td>
-                                    <td className="px-8 py-5 font-bold uppercase text-[10px] tracking-widest">Elite Tier</td>
-                                </tr>
-                                <tr className="hover:bg-blue-50/50 transition-colors">
-                                    <td className="px-8 py-5 font-bold">81 - 100</td>
-                                    <td className="px-8 py-5 font-black text-blue-600">85 - 90%ile</td>
-                                    <td className="px-8 py-5 font-bold uppercase text-[10px] tracking-widest">Premium Tier</td>
-                                </tr>
-                                <tr className="hover:bg-slate-50 transition-colors">
-                                    <td className="px-8 py-5 font-bold">71 - 80</td>
-                                    <td className="px-8 py-5 font-black text-slate-900">75 - 80%ile</td>
-                                    <td className="px-8 py-5 font-bold uppercase text-[10px] tracking-widest">Core B-School</td>
-                                </tr>
-                                <tr className="hover:bg-slate-50 transition-colors">
-                                    <td className="px-8 py-5 font-bold">51 - 70</td>
-                                    <td className="px-8 py-5 font-black text-slate-900">61 - 74%ile</td>
-                                    <td className="px-8 py-5 font-bold uppercase text-[10px] tracking-widest">Emerging Tier</td>
-                                </tr>
-                            </tbody>
-                        </table>
+                    {/* Score vs Percentile Section */}
+                    <div>
+                        <div className="text-center mb-12">
+                            <div className="inline-flex items-center gap-2 text-emerald-600 font-black uppercase tracking-widest text-xs mb-4">
+                                <Table className="w-4 h-4" />
+                                Statistical Insights
+                            </div>
+                            <h2 className="text-4xl font-black uppercase tracking-tight text-[#1a1a2e]">MAT Score vs Percentile <span className="text-slate-400">2026</span></h2>
+                            <p className="text-slate-500 font-bold mt-4">Average composite score required to achieve targeted percentiles for top MBA colleges.</p>
+                        </div>
+
+                        <div className="overflow-hidden rounded-[2rem] border-4 border-[#1a1a2e] shadow-[12px_12px_0px_0px_rgba(26,26,46,1)]">
+                            <table className="w-full text-left">
+                                <thead className="bg-[#1a1a2e] text-white">
+                                    <tr>
+                                        <th className="px-8 py-5 text-sm font-black uppercase tracking-widest">Composite Score</th>
+                                        <th className="px-8 py-5 text-sm font-black uppercase tracking-widest">Estimated Percentile</th>
+                                        <th className="px-8 py-5 text-sm font-black uppercase tracking-widest">College Tier</th>
+                                    </tr>
+                                </thead>
+                                <tbody className="divide-y divide-slate-100">
+                                    <tr className="hover:bg-emerald-50/50 transition-colors">
+                                        <td className="px-8 py-5 font-bold">101 - 110</td>
+                                        <td className="px-8 py-5 font-black text-emerald-600">91 - 95%ile</td>
+                                        <td className="px-8 py-5 font-bold uppercase text-[10px] tracking-widest">Elite Tier</td>
+                                    </tr>
+                                    <tr className="hover:bg-blue-50/50 transition-colors">
+                                        <td className="px-8 py-5 font-bold">81 - 100</td>
+                                        <td className="px-8 py-5 font-black text-blue-600">85 - 90%ile</td>
+                                        <td className="px-8 py-5 font-bold uppercase text-[10px] tracking-widest">Premium Tier</td>
+                                    </tr>
+                                    <tr className="hover:bg-slate-50 transition-colors">
+                                        <td className="px-8 py-5 font-bold">71 - 80</td>
+                                        <td className="px-8 py-5 font-black text-slate-900">75 - 80%ile</td>
+                                        <td className="px-8 py-5 font-bold uppercase text-[10px] tracking-widest">Core B-School</td>
+                                    </tr>
+                                    <tr className="hover:bg-slate-50 transition-colors">
+                                        <td className="px-8 py-5 font-bold">51 - 70</td>
+                                        <td className="px-8 py-5 font-black text-slate-900">61 - 74%ile</td>
+                                        <td className="px-8 py-5 font-bold uppercase text-[10px] tracking-widest">Emerging Tier</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -236,6 +307,58 @@ export default function MatPredictorPage() {
                                 </div>
                             </div>
                         ))}
+                    </div>
+                </div>
+            </section>
+
+            {/* Comprehensive FAQ Section */}
+            <section className="py-24 px-6 bg-slate-50">
+                <div className="max-w-4xl mx-auto">
+                    <div className="text-center mb-16">
+                        <div className="inline-flex items-center gap-2 text-blue-600 font-black uppercase tracking-widest text-xs mb-4">
+                            <Info className="w-4 h-4" />
+                            Help & Support
+                        </div>
+                        <h2 className="text-4xl font-black uppercase tracking-tight text-[#1a1a2e]">Frequently Asked <br /><span className="text-blue-600">Questions</span></h2>
+                    </div>
+
+                    <div className="space-y-6">
+                        {faqSchema.mainEntity.map((faq, index) => (
+                            <details key={index} className="group bg-white rounded-3xl border-2 border-slate-100 open:border-blue-500 transition-all overflow-hidden [&_summary::-webkit-details-marker]:hidden">
+                                <summary className="flex items-center justify-between p-8 font-bold text-lg cursor-pointer text-slate-800 list-none user-select-none">
+                                    {faq.name}
+                                    <span className="transition group-open:rotate-180">
+                                        <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                                    </span>
+                                </summary>
+                                <div className="p-8 pt-0 text-slate-600 leading-relaxed font-medium">
+                                    {faq.acceptedAnswer.text}
+                                </div>
+                            </details>
+                        ))}
+                    </div>
+                </div>
+            </section>
+
+            {/* Internal Links / Related Resources Section */}
+            <section className="py-16 px-6 bg-white border-t border-slate-100">
+                <div className="max-w-4xl mx-auto">
+                    <h3 className="text-2xl font-black uppercase tracking-tight text-[#1a1a2e] mb-8">Related <span className="text-emerald-500">Resources</span></h3>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <Link href="/blog/mba-scholarships-2026-master-guide" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
+                            <div>
+                                <h4 className="font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">MBA Scholarships 2026 Master Guide</h4>
+                                <p className="text-xs text-slate-500 mt-1">Funding your dream B-School</p>
+                            </div>
+                            <ArrowRight className="w-5 h-5 text-slate-300 group-hover:text-emerald-500 transition-colors group-hover:translate-x-1" />
+                        </Link>
+                        <Link href="/blog/all-about-gl-bajaj-greater-noida" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
+                            <div>
+                                <h4 className="font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">GL Bajaj Greater Noida Review</h4>
+                                <p className="text-xs text-slate-500 mt-1">Top MAT accepting college in NCR</p>
+                            </div>
+                            <ArrowRight className="w-5 h-5 text-slate-300 group-hover:text-emerald-500 transition-colors group-hover:translate-x-1" />
+                        </Link>
                     </div>
                 </div>
             </section>
