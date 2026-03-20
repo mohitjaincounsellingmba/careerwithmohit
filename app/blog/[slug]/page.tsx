@@ -4,7 +4,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
@@ -136,7 +135,6 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       <div className="mx-auto max-w-4xl px-6 sm:px-12 mt-20 pb-20">
         <div className="prose prose-xl prose-slate max-w-none">
           <ReactMarkdown
-            remarkPlugins={[remarkGfm]}
             rehypePlugins={[rehypeRaw]}
             components={{
               h2: ({ node, ...props }) => (
@@ -149,19 +147,19 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 // Check if the paragraph contains our [InquiryCard] syntax
                 const content = String(children);
                 if (content.startsWith('[InquiryCard') && content.endsWith(']')) {
-                    const titleMatch = content.match(/title="([^"]*)"/);
-                    const descMatch = content.match(/description="([^"]*)"/);
-                    const ctaMatch = content.match(/cta="([^"]*)"/);
-                    const typeMatch = content.match(/type="([^"]*)"/);
+                  const titleMatch = content.match(/title="([^"]*)"/);
+                  const descMatch = content.match(/description="([^"]*)"/);
+                  const ctaMatch = content.match(/cta="([^"]*)"/);
+                  const typeMatch = content.match(/type="([^"]*)"/);
 
-                    return (
-                        <InquiryCard 
-                            title={titleMatch?.[1]}
-                            description={descMatch?.[1]}
-                            cta={ctaMatch?.[1]}
-                            type={(typeMatch?.[1] as any) || "admission"}
-                        />
-                    );
+                  return (
+                    <InquiryCard
+                      title={titleMatch?.[1]}
+                      description={descMatch?.[1]}
+                      cta={ctaMatch?.[1]}
+                      type={(typeMatch?.[1] as any) || "admission"}
+                    />
+                  );
                 }
                 return <p className="text-xl leading-relaxed text-gray-800 font-medium mb-10" {...props}>{children}</p>;
               },
@@ -239,7 +237,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         <div className="mt-32 border-[10px] border-foreground bg-primary p-12 sm:p-20 text-center relative overflow-hidden rounded-[3rem] shadow-[24px_24px_0px_0px_rgba(0,0,0,1)]">
           <div className="absolute top-0 left-0 w-full h-4 bg-accent" />
           <div className="absolute -top-24 -right-24 w-64 h-64 bg-white/10 blur-3xl rounded-full"></div>
-          
+
           <h3 className="font-display text-4xl sm:text-7xl font-black tracking-tighter text-white mb-8 uppercase leading-none italic">
             Dominate Your <br />
             <span className="text-accent underline decoration-[12px] underline-offset-8">2026 Goals</span>
@@ -248,14 +246,14 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             Stop guessing. Get uncompromised, expert admission strategies to secure your seat in India's top B-Schools.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-8">
-            <Link 
-              href="/inquiry" 
+            <Link
+              href="/inquiry"
               className="w-full sm:w-auto inline-flex h-24 items-center justify-center bg-white border-8 border-foreground px-12 text-2xl font-black text-foreground transition-all hover:bg-accent hover:translate-x-2 hover:-translate-y-2 shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] uppercase active:shadow-none active:translate-x-0 active:translate-y-0"
             >
               Get Free Recommendations
             </Link>
-            <a 
-              href="https://wa.me/919560020771" 
+            <a
+              href="https://wa.me/919560020771"
               className="w-full sm:w-auto inline-flex h-24 items-center justify-center bg-transparent border-8 border-white px-12 text-2xl font-black text-white transition-all hover:bg-white hover:text-primary uppercase"
             >
               WhatsApp Expert
@@ -263,7 +261,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           </div>
           <div className="mt-12 flex items-center justify-center gap-4">
             <div className="flex -space-x-3">
-              {[1,2,3,4,5].map(i => <div key={i} className="w-10 h-10 rounded-full border-4 border-foreground bg-accent shadow-sm"></div>)}
+              {[1, 2, 3, 4, 5].map(i => <div key={i} className="w-10 h-10 rounded-full border-4 border-foreground bg-accent shadow-sm"></div>)}
             </div>
             <p className="text-white font-black uppercase tracking-widest text-xs">Join 15,000+ Students Guided in 2025</p>
           </div>
