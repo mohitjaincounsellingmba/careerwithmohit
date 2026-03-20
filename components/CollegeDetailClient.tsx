@@ -21,8 +21,27 @@ import { College } from "@/lib/colleges";
 import { JsonLd } from "./JsonLd";
 import { Breadcrumbs } from "./Breadcrumbs";
 
+function getRegionFromLocation(location: string): string {
+  const loc = location.toLowerCase();
+  if (loc.includes('delhi')) return 'Delhi';
+  if (loc.includes('noida') || loc.includes('greater noida') || loc.includes('ghaziabad')) return 'Uttar Pradesh';
+  if (loc.includes('gurgaon') || loc.includes('faridabad')) return 'Haryana';
+  if (loc.includes('bangalore') || loc.includes('bengaluru')) return 'Karnataka';
+  if (loc.includes('mumbai') || loc.includes('pune') || loc.includes('navi mumbai')) return 'Maharashtra';
+  if (loc.includes('jaipur') || loc.includes('kota')) return 'Rajasthan';
+  if (loc.includes('dehradun') || loc.includes('roorkee')) return 'Uttarakhand';
+  if (loc.includes('kolkata')) return 'West Bengal';
+  if (loc.includes('ahmedabad')) return 'Gujarat';
+  if (loc.includes('chandigarh')) return 'Chandigarh';
+  if (loc.includes('hyderabad')) return 'Telangana';
+  if (loc.includes('chennai')) return 'Tamil Nadu';
+  return 'India';
+}
+
 export function CollegeDetailClient({ college }: { college: College }) {
   const [activeTab, setActiveTab] = useState("Overview");
+
+  const addressRegion = getRegionFromLocation(college.location);
 
   const collegeSchema = {
     "@context": "https://schema.org",
@@ -34,7 +53,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
     "address": {
       "@type": "PostalAddress",
       "addressLocality": college.location,
-      "addressRegion": "Maharashtra", // This could be made dynamic if added to college data
+      "addressRegion": addressRegion,
       "addressCountry": "IN"
     },
     "foundingDate": college.established.toString(),
@@ -51,6 +70,45 @@ export function CollegeDetailClient({ college }: { college: College }) {
         }
       }))
     }
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `What are the fees at ${college.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `The fees at ${college.name}, ${college.location} are approximately ${college.fees}. The college offers ${college.courses.join(', ')} programs. For exact fee breakdowns and scholarship details, check the official website or contact our counsellors.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `What is the average placement package at ${college.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `The average placement package at ${college.name} is ${college.avg_placement}. The highest placement package recorded is ${college.highest_placement}. The college has a strong track record of placements with top companies across sectors.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `How to get admission in ${college.name} for 2026?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Admission to ${college.name} requires qualifying entrance exams: ${college.exams.join(', ')}. The college is a ${college.ownership} ${college.type.toLowerCase()} established in ${college.established}. It is ranked ${college.ranking}. Apply through the official website or get expert guidance from CareerWithMohit.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Is ${college.name} a good college?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${college.name} is a ${college.ownership} ${college.type.toLowerCase()} located in ${college.location}, established in ${college.established}. It is ranked ${college.ranking}, with an average placement of ${college.avg_placement} and fees of approximately ${college.fees}. It offers ${college.courses.join(', ')} programs and accepts ${college.exams.join(', ')} scores.`
+        }
+      }
+    ]
   };
 
   const tabs = [
@@ -87,6 +145,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
       <JsonLd data={collegeSchema} />
+      <JsonLd data={faqSchema} />
       {/* Breadcrumbs for SEO and Navigation */}
       <div className="bg-white pt-6">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

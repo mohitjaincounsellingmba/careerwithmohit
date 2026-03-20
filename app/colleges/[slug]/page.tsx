@@ -7,24 +7,87 @@ interface PageProps {
   params: Promise<{ slug: string }>;
 }
 
+function getCategoryKeywords(college: { name: string; location: string; category: string; courses: string[]; fees: string; avg_placement: string; exams: string[] }): string[] {
+  const base = [
+    `${college.name} review`,
+    `${college.name} fees structure 2026`,
+    `${college.name} average package`,
+    `${college.name} cutoff 2026`,
+    `${college.name} admission process`,
+    `${college.name} ranking`,
+    `${college.name} ${college.location}`,
+    `is ${college.name} good`,
+  ];
+
+  if (college.category === "Management") {
+    return [
+      ...base,
+      `${college.name} MBA fees`,
+      `${college.name} PGDM placement`,
+      `${college.name} MBA admission 2026`,
+      `${college.name} MBA average package`,
+      `MBA colleges ${college.location}`,
+      `best MBA college ${college.location} 2026`,
+      ...college.courses.map(c => `${college.name} ${c}`),
+    ];
+  }
+
+  if (college.category === "Engineering") {
+    return [
+      ...base,
+      `${college.name} B.Tech fees`,
+      `${college.name} CSE placement`,
+      `${college.name} B.Tech admission 2026`,
+      `${college.name} JEE cutoff`,
+      `engineering colleges ${college.location}`,
+      `best B.Tech college ${college.location} 2026`,
+      ...college.courses.map(c => `${college.name} ${c}`),
+    ];
+  }
+
+  // UG Courses
+  return [
+    ...base,
+    `${college.name} BBA fees`,
+    `${college.name} BCA admission`,
+    `${college.name} BBA placement 2026`,
+    `BBA colleges ${college.location}`,
+    `best BBA college ${college.location} 2026`,
+    ...college.courses.map(c => `${college.name} ${c}`),
+  ];
+}
+
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const college = await getCollegeBySlug(slug);
 
   if (!college) return {};
 
-  const title = `${college.name}, ${college.location} - Courses, Fees, Admission 2026, Placements, Ranking, Cutoff`;
-  const description = `Discover ${college.name}, ${college.location}. Detailed information on fee structure (approx ${college.fees}), NIRF ranking ${college.ranking}, and average placement package of ${college.avg_placement}. Apply now for 2026 admissions!`;
+  let title: string;
+  let description: string;
+
+  if (college.category === "Management") {
+    title = `${college.name}, ${college.location} – MBA/PGDM Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2026, Cutoff, Review`;
+    description = `${college.name} in ${college.location}: MBA/PGDM fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. NIRF ranking: ${college.ranking}. Entrance exams: ${college.exams.join(', ')}. Check courses, cutoff, admission process, and expert review for 2026.`;
+  } else if (college.category === "Engineering") {
+    title = `${college.name}, ${college.location} – B.Tech Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2026, Ranking, Review`;
+    description = `${college.name} in ${college.location}: B.Tech fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, JEE cutoff, admission process for 2026.`;
+  } else {
+    title = `${college.name}, ${college.location} – BBA/BCA Fees ${college.fees}, Admission 2026, Placement ${college.avg_placement}, Review`;
+    description = `${college.name} in ${college.location}: BBA/BCA fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Check courses, admission process, entrance exams, and expert review for 2026.`;
+  }
+
+  const keywords = getCategoryKeywords(college);
 
   return {
     title,
     description,
-    keywords: [college.name, college.location, `${college.name} fees`, `${college.name} placement`, `${college.name} admission 2026`, ...college.exams],
+    keywords,
     alternates: {
       canonical: `/colleges/${slug}`,
     },
     openGraph: {
-      title,
+      title: `${college.name} – Fees, Placement, Admission 2026 | CareerWithMohit`,
       description,
       type: "website",
       url: `/colleges/${slug}`,
