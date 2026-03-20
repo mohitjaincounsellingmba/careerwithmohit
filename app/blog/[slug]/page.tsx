@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { getPostData, getSortedPostsData } from "@/lib/markdown";
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
@@ -135,6 +136,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       <div className="mx-auto max-w-4xl px-6 sm:px-12 mt-20 pb-20">
         <div className="prose prose-xl prose-slate max-w-none">
           <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
             rehypePlugins={[rehypeRaw]}
             components={{
               h2: ({ node, ...props }) => (
