@@ -1,17 +1,63 @@
-import { Briefcase, MapPin, ExternalLink, Calendar, Building2, Search, Filter } from 'lucide-react';
+import { Briefcase, MapPin, ExternalLink, Calendar, Building2, Search, Clock, ArrowRight, TrendingUp } from 'lucide-react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: "Latest Finance Internships (Work From Home) 2026 | CareerWithMohit",
-  description: "Explore the latest Work From Home Finance internships in India for 2026. Curated opportunities in Financial Analysis, Investment Banking, CA, Risk Management, and more — sourced from Internshala.",
-  keywords: ["finance internships work from home 2026", "online finance internship India", "WFH internships finance students", "investment banking internship online", "CA internship work from home", "financial analyst internship India", "Internshala finance internships"],
+  title: "Latest Finance & Tech Internships 2026 | CareerWithMohit",
+  description: "Explore the latest Work From Home Finance and Tech internships in India for 2026. Curated opportunities in Financial Analysis, IB, SaaS Marketing, and Software Engineering.",
+  keywords: ["finance internships work from home 2026", "tech internships India", "online finance internship India", "WFH internships", "investment banking internship online"],
   alternates: {
     canonical: "/internships",
   },
 };
 
-const INTERNSHIPS = [
+type Internship = {
+    id: number;
+    title: string;
+    company: string;
+    location: string;
+    type: string;
+    duration: string;
+    stipend: string;
+    description: string;
+    skills: string;
+    link: string;
+    accent: string;
+    lastDate: string;
+    isPremium?: boolean;
+};
+
+const INTERNSHIPS: Internship[] = [
+  {
+    id: 101, // New Premium One
+    title: "Venture Capital Summer Analyst",
+    company: "Peak XV Partners (Sequoia India)",
+    location: "Bangalore / Remote",
+    type: "Hybrid",
+    duration: "3 Months",
+    stipend: "₹50,000/mo",
+    description: "Assist the investment team in deal sourcing, market sizing, and evaluating early-stage consumer tech startups. High visibility role.",
+    skills: "Financial Modeling, Market Research, VC, Due Diligence",
+    link: "#",
+    accent: "bg-black",
+    lastDate: "Mar 31, 2026",
+    isPremium: true
+  },
+  {
+    id: 102, // New Premium Two
+    title: "SWE Intern (Frontend)",
+    company: "Vercel",
+    location: "Work From Home",
+    type: "Remote",
+    duration: "6 Months",
+    stipend: "₹80,000/mo",
+    description: "Work on Next.js core features and help improve the developer experience. Deep understanding of React and TypeScript is a must.",
+    skills: "React, Next.js, TypeScript, Tailwnind CSS",
+    link: "#",
+    accent: "bg-blue-600",
+    lastDate: "Apr 05, 2026",
+    isPremium: true
+  },
   {
     id: 1,
     title: "Chartered Accountancy (CA)",
@@ -23,7 +69,8 @@ const INTERNSHIPS = [
     description: "Hands-on CA internship covering GST filing, IT returns, invoice management, legal drafts, and payroll preparation. Great for CA aspirants.",
     skills: "GST, IT Returns, Invoicing, Legal Drafts, Payroll",
     link: "https://internshala.com/internship/detail/work-from-home-chartered-accountancy-ca-internship-at-urban-property-spaces-mumbai1772914306",
-    accent: "bg-blue-500"
+    accent: "bg-sky-500",
+    lastDate: "Apr 12, 2026",
   },
   {
     id: 2,
@@ -36,7 +83,8 @@ const INTERNSHIPS = [
     description: "Learn live Forex trading strategies and portfolio management. Exposure to global currency markets under professional mentorship.",
     skills: "Forex Trading, Stock Markets, Portfolio Management, Investment Banking",
     link: "https://internshala.com/internship/detail/work-from-home-forex-trader-internship-at-pipraiser1772870089",
-    accent: "bg-emerald-500"
+    accent: "bg-emerald-500",
+    lastDate: "Mar 28, 2026",
   },
   {
     id: 3,
@@ -47,9 +95,10 @@ const INTERNSHIPS = [
     duration: "6 Months",
     stipend: "₹5,000/mo",
     description: "Work on identifying, assessing, and mitigating enterprise-level risks. Requires MS-Excel and PowerPoint proficiency for presentations.",
-    skills: "Risk Management, MS-Excel, MS-PowerPoint, MS-Word, Teamwork",
+    skills: "Risk Management, MS-Excel, MS-PowerPoint",
     link: "https://internshala.com/internship/detail/work-from-home-enterprise-risk-management-internship-at-vogabe-advisors-private-limited1773226108",
-    accent: "bg-purple-500"
+    accent: "bg-purple-500",
+    lastDate: "Apr 15, 2026",
   },
   {
     id: 4,
@@ -60,61 +109,38 @@ const INTERNSHIPS = [
     duration: "2 Months",
     stipend: "₹5,000 – ₹10,000/mo",
     description: "Practical equity and derivatives trading experience under live market conditions, with mentorship from experienced traders.",
-    skills: "Stock Trading, Investment Banking, Portfolio Management, Investing",
+    skills: "Stock Trading, Investment Banking, Portfolio Management",
     link: "https://internshala.com/internship/detail/work-from-home-trading-internship-at-pipraiser1772869996",
-    accent: "bg-rose-500"
+    accent: "bg-rose-500",
+    lastDate: "Apr 02, 2026",
   },
   {
     id: 5,
-    title: "Content Writer – Trading & Finance",
+    title: "Content Writer – Finance",
     company: "Sloth Desk",
     location: "Work From Home",
-    type: "Remote (Part-Time)",
+    type: "Remote",
     duration: "6 Months",
     stipend: "₹5,000 – ₹8,000/mo",
     description: "Write insightful finance and stock trading content for blog/social media. SEO-optimized articles on markets, investing, and personal finance.",
-    skills: "Finance Writing, SEO, Copywriting, Stock Trading, Content Creation",
+    skills: "Finance Writing, SEO, Copywriting",
     link: "https://internshala.com/internship/detail/work-from-home-part-time-content-writer-trading-finance-internship-at-sloth-desk1773320314",
-    accent: "bg-cyan-500"
-  },
-  {
-    id: 6,
-    title: "Global Market Analyst",
-    company: "Pipraiser",
-    location: "Work From Home",
-    type: "Remote",
-    duration: "2 Months",
-    stipend: "₹5,000/mo",
-    description: "Analyze international equity, commodity, and currency markets. Prepare research reports and monitor global macroeconomic indicators.",
-    skills: "Global Markets, Investment Banking, Stock Trading, Portfolio Management",
-    link: "https://internshala.com/internship/detail/work-from-home-global-market-analyst-internship-at-pipraiser1772870197",
-    accent: "bg-amber-500"
+    accent: "bg-orange-500",
+    lastDate: "Apr 10, 2026",
   },
   {
     id: 7,
     title: "Financial Analyst Intern",
-    company: "Zean Lithos & Company Pvt. Ltd.",
+    company: "Zean Lithos Pvt. Ltd.",
     location: "Work From Home",
     type: "Remote",
     duration: "6 Months",
-    stipend: "₹1,000 – ₹3,000/mo",
+    stipend: "₹3,000/mo",
     description: "Build financial models, prepare reports, and analyze company data using Excel. Ideal for finance students seeking real-world exposure.",
-    skills: "MS-Excel, Financial Modeling, Report Writing, English Proficiency",
+    skills: "MS-Excel, Financial Modeling, Report Writing",
     link: "https://internshala.com/internship/detail/work-from-home-financial-analyst-internship-at-zean-lithos-and-company-private-limited1773344607",
-    accent: "bg-indigo-500"
-  },
-  {
-    id: 8,
-    title: "Portfolio Management Intern",
-    company: "Pipraiser",
-    location: "Work From Home",
-    type: "Remote",
-    duration: "2 Months",
-    stipend: "₹5,000 – ₹10,000/mo",
-    description: "Manage and rebalance investment portfolios under supervision. Exposure to equity, MF, and ETF instruments across market cycles.",
-    skills: "Portfolio Management, Stock Trading, Investment Banking, Investing",
-    link: "https://internshala.com/internship/detail/work-from-home-portfolio-management-internship-at-pipraiser1772870341",
-    accent: "bg-fuchsia-500"
+    accent: "bg-indigo-500",
+    lastDate: "Apr 20, 2026",
   },
   {
     id: 9,
@@ -123,130 +149,124 @@ const INTERNSHIPS = [
     location: "Work From Home",
     type: "Remote",
     duration: "6 Months",
-    stipend: "₹1,000 – ₹5,000/mo",
+    stipend: "₹5,000/mo",
     description: "Assist in deal sourcing, financial due diligence, and pitch deck preparation for early-stage startup funding and M&A advisory.",
-    skills: "Finance, MS-Excel, Financial Analysis, Research & Analytics",
+    skills: "Finance, MS-Excel, Financial Analysis",
     link: "https://internshala.com/internship/detail/work-from-home-investment-banker-internship-at-the-venture-guys1773313845",
-    accent: "bg-orange-500"
-  },
-  {
-    id: 10,
-    title: "Investment Advisory Intern",
-    company: "Pipraiser",
-    location: "Work From Home",
-    type: "Remote",
-    duration: "2 Months",
-    stipend: "₹1,000 – ₹35,000/mo",
-    description: "Provide stock and mutual fund advisory to clients. Deep dive into technical analysis and portfolio construction with high earning potential.",
-    skills: "Technical Analysis, Investment Banking, Stock Trading, Portfolio Management",
-    link: "https://internshala.com/internship/detail/work-from-home-investment-advisory-internship-at-pipraiser1772870205",
-    accent: "bg-yellow-500"
+    accent: "bg-amber-500",
+    lastDate: "Mar 30, 2026",
   }
 ];
 
 export default function InternshipsPage() {
   return (
-    <div className="w-full bg-muted min-h-screen">
-      {/* Hero Section */}
-      <section className="bg-white border-b-8 border-foreground py-24 px-6 sm:px-12 relative overflow-hidden">
-         {/* Background Decoration */}
-        <div className="absolute top-10 right-10 w-32 h-32 bg-primary/10 rounded-full blur-3xl" />
-        <div className="absolute bottom-10 left-10 w-48 h-48 bg-accent/10 rounded-full blur-3xl rotate-45" />
-
-        <div className="mx-auto max-w-7xl relative z-10 text-center">
-          <h1 className="font-display text-5xl font-black uppercase tracking-tighter text-foreground sm:text-8xl mb-6 leading-none">
-            Finance <br />
-            <span className="bg-accent text-foreground px-4 py-1 -rotate-1 inline-block border-4 border-foreground mt-2">WFH Internships</span>
-          </h1>
-          <p className="max-w-3xl mx-auto text-2xl font-bold text-gray-700 leading-tight mb-12">
-            10 live Finance internships you can do from home — sourced directly from Internshala. Updated March 2026.
-          </p>
+    <div className="w-full bg-[#f4f4f5] min-h-screen selection:bg-rose-500 selection:text-white">
+      {/* Structural Brutalist Hero */}
+      <section className="bg-white border-b-[12px] border-[#18181b] pt-32 pb-24 px-6 relative overflow-hidden">
+        {/* Architectural grid background */}
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:40px_40px]"></div>
+        
+        <div className="mx-auto max-w-7xl relative z-10 flex flex-col md:flex-row items-end justify-between gap-12">
+          <div className="flex-1">
+            <div className="inline-flex items-center gap-3 bg-[#18181b] text-white px-5 py-2 mb-8 uppercase tracking-widest text-xs font-black shadow-[6px_6px_0px_0px_rgba(244,63,94,1)]">
+              <TrendingUp className="w-4 h-4 text-rose-500" /> Live Opportunities
+            </div>
+            <h1 className="text-6xl sm:text-8xl md:text-[8rem] font-black uppercase tracking-tighter text-[#18181b] leading-[0.85] mb-6">
+              Intern<br />
+              <span className="text-rose-500 stroke-text">Ships.</span>
+            </h1>
+            <p className="max-w-xl text-xl font-bold text-gray-600 leading-snug border-l-8 border-rose-500 pl-6 py-2">
+              Curated premium roles spanning Finance, Venture Capital, and Tech. Sourced for absolute excellence. Apply before the deadline.
+            </p>
+          </div>
           
-          <div className="flex justify-center gap-6">
-             <div className="flex items-center gap-2 bg-foreground text-white px-6 py-3 rounded-md font-black uppercase border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(59,130,246,1)]">
-                <Search className="w-5 h-5 text-primary" />
-                10 Live Openings
-             </div>
+          <div className="w-full md:w-auto flex flex-col gap-4">
+            <div className="bg-[#18181b] p-6 text-white text-center border-4 border-[#18181b] shadow-[8px_8px_0px_0px_rgba(244,63,94,1)]">
+               <span className="block text-5xl font-black">{INTERNSHIPS.length}</span>
+               <span className="text-xs uppercase tracking-widest text-rose-400 font-bold mt-2 block">Open Roles</span>
+            </div>
           </div>
         </div>
       </section>
 
-      {/* Internship Grid */}
-      <section className="py-24 px-6 sm:px-12 bg-white">
+      {/* Internship Grid Showcase */}
+      <section className="py-24 px-6 sm:px-12">
         <div className="mx-auto max-w-7xl">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
             {INTERNSHIPS.map((job) => (
               <div 
                 key={job.id} 
-                className="bg-white border-4 border-foreground p-8 relative flex flex-col h-full transition-all hover:shadow-none hover:translate-x-1 hover:translate-y-1 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] group"
+                className={`bg-white border-[6px] border-[#18181b] p-8 lg:p-10 relative flex flex-col h-full transition-all duration-300 hover:-translate-y-2 group shadow-[12px_12px_0px_0px_rgba(24,24,27,1)] hover:shadow-[16px_16px_0px_0px_rgba(244,63,94,1)] ${job.isPremium ? 'border-dashed' : ''}`}
               >
-                {/* Header Area */}
-                <div className="flex items-start justify-between mb-8">
-                  <div className={`w-14 h-14 ${job.accent} border-4 border-foreground flex items-center justify-center rotate-3 group-hover:rotate-0 transition-transform`}>
+                {/* Premium Banner */}
+                {job.isPremium && (
+                  <div className="absolute -top-5 -right-5 bg-rose-500 text-white px-6 py-2 border-4 border-[#18181b] shadow-[4px_4px_0px_0px_rgba(24,24,27,1)] font-black uppercase tracking-widest text-sm rotate-3 z-10">
+                    Premium Role
+                  </div>
+                )}
+
+                {/* Aesthetic Top Area */}
+                <div className="flex items-start justify-between mb-8 pb-8 border-b-4 border-[#18181b]">
+                  <div className={`w-16 h-16 ${job.accent} border-4 border-[#18181b] flex items-center justify-center shadow-[4px_4px_0px_0px_rgba(24,24,27,1)] group-hover:rotate-12 transition-transform duration-500 flex-shrink-0`}>
                     <Briefcase className="text-white w-8 h-8" />
                   </div>
-                  <div className="flex flex-col items-end">
-                    <span className="bg-foreground text-white px-3 py-1 text-xs font-black uppercase tracking-widest border-2 border-foreground">
-                      {job.type}
-                    </span>
-                    <div className="flex items-center gap-2 mt-2 text-gray-500 font-bold text-xs uppercase tracking-tight">
-                       <Calendar className="w-3.5 h-3.5" />
-                       {job.duration}
+                  
+                  {/* Deadline UI */}
+                  <div className="flex flex-col items-end gap-2 text-right">
+                    <div className="inline-flex items-center gap-1.5 bg-yellow-300 border-2 border-[#18181b] px-3 py-1 font-black text-xs uppercase tracking-widest text-[#18181b] shadow-[2px_2px_0px_0px_rgba(24,24,27,1)]">
+                      <Clock className="w-3.5 h-3.5 animate-pulse" /> Apply by {job.lastDate}
                     </div>
+                    <span className="inline-block bg-[#18181b] text-white px-3 py-1 text-[10px] font-black uppercase tracking-widest border-2 border-[#18181b]">
+                      {job.type} • {job.duration}
+                    </span>
                   </div>
                 </div>
 
-                {/* Content */}
+                {/* Main Identity */}
                 <div className="flex-grow">
-                  <h3 className="text-3xl font-black text-foreground uppercase mb-1 leading-tight tracking-tight group-hover:text-primary transition-colors">
+                  <h3 className="text-3xl md:text-4xl font-black text-[#18181b] uppercase mb-3 leading-[1.1] tracking-tight group-hover:text-rose-500 transition-colors">
                     {job.title}
                   </h3>
-                  <div className="flex items-center gap-2 mb-3 text-xl font-bold text-gray-600">
-                    <Building2 className="w-5 h-5" />
+                  <div className="flex items-center gap-3 mb-6 text-xl font-bold text-gray-700">
+                    <Building2 className="w-6 h-6 text-gray-400" />
                     {job.company}
                   </div>
                   
-                  <div className="flex items-center gap-2 mb-2 text-sm font-black text-gray-400 uppercase tracking-widest">
-                    <MapPin className="w-4 h-4 text-accent" />
-                    {job.location}
+                  {/* Stipend and Loc */}
+                  <div className="flex flex-wrap items-center gap-4 mb-8">
+                    <div className="inline-flex font-black items-center bg-[#18181b] text-white px-4 py-1.5 uppercase text-sm border-2 border-[#18181b] shadow-[4px_4px_0px_0px_rgba(34,197,94,1)]">
+                       💰 Stipend: {job.stipend}
+                    </div>
+                    <div className="flex items-center gap-1.5 text-sm font-black text-gray-500 uppercase tracking-widest mt-2 sm:mt-0">
+                      <MapPin className="w-4 h-4 text-rose-500" />
+                      {job.location}
+                    </div>
                   </div>
 
-                  {/* Stipend badge */}
-                  {'stipend' in job && (
-                    <div className="inline-block bg-green-50 border-2 border-green-500 text-green-700 px-3 py-1 text-sm font-black uppercase tracking-wide mb-4">
-                      💰 {(job as any).stipend}
-                    </div>
-                  )}
-
-                  <hr className="border-2 border-foreground/10 mb-4" />
-
-                  <p className="font-bold text-gray-700 mb-4 leading-relaxed text-lg italic bg-primary/5 p-4 border-l-4 border-primary">
-                    &ldquo;{job.description}&rdquo;
+                  <p className="font-bold text-gray-600 mb-8 leading-relaxed text-lg bg-gray-100 p-5 border-l-8 border-gray-300">
+                    "{job.description}"
                   </p>
 
-                  {/* Skills tags */}
-                  {'skills' in job && (
-                    <div className="mb-6">
-                      <p className="text-xs font-black uppercase tracking-widest text-gray-400 mb-2">Skills Required</p>
-                      <div className="flex flex-wrap gap-2">
-                        {((job as any).skills as string).split(', ').map((skill: string) => (
-                          <span key={skill} className="bg-foreground/5 border border-foreground/20 text-foreground text-xs font-bold px-2 py-1 uppercase tracking-wide">
-                            {skill}
-                          </span>
-                        ))}
-                      </div>
+                  {/* Aesthetic Skill Tags */}
+                  <div className="mb-8">
+                    <div className="flex flex-wrap gap-2">
+                      {job.skills.split(', ').map((skill: string) => (
+                        <span key={skill} className="bg-white border-2 border-[#18181b] text-[#18181b] shadow-[2px_2px_0px_0px_rgba(24,24,27,1)] text-xs font-black px-3 py-1.5 uppercase tracking-widest">
+                          # {skill}
+                        </span>
+                      ))}
                     </div>
-                  )}
+                  </div>
                 </div>
 
-                {/* CTA */}
+                {/* Brutal CTA */}
                 <a 
                   href={job.link} 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="block w-full text-center bg-foreground text-white border-4 border-foreground py-4 text-xl font-black uppercase tracking-widest hover:bg-primary transition-colors flex items-center justify-center gap-3 shadow-[4px_4px_0px_0px_rgba(244,63,94,1)] hover:shadow-none"
+                  className="mt-4 block w-full text-center bg-rose-500 text-white border-4 border-[#18181b] py-5 text-xl font-black uppercase tracking-widest hover:bg-[#18181b] transition-colors flex items-center justify-center gap-3 shadow-[6px_6px_0px_0px_rgba(24,24,27,1)] hover:-translate-y-1 hover:shadow-[10px_10px_0px_0px_rgba(24,24,27,1)] active:translate-y-1 active:shadow-none"
                 >
-                  Apply on Internshala <ExternalLink className="w-6 h-6" />
+                  Submit Application <ArrowRight className="w-6 h-6 group-hover:translate-x-2 transition-transform" />
                 </a>
               </div>
             ))}
@@ -254,17 +274,22 @@ export default function InternshipsPage() {
         </div>
       </section>
 
-      {/* Footer Support */}
-      <section className="bg-accent text-foreground py-20 px-6 sm:px-12 border-t-8 border-foreground">
-        <div className="mx-auto max-w-4xl text-center">
-          <h2 className="font-display text-4xl font-black uppercase mb-6 leading-none">
-            Need profile building help?
+      {/* Massive CTA Footer */}
+      <section className="bg-rose-500 text-white py-32 px-6 sm:px-12 border-t-[12px] border-[#18181b] relative overflow-hidden">
+        {/* Huge background text */}
+        <div className="absolute inset-0 flex items-center justify-center opacity-10 pointer-events-none overflow-hidden">
+             <span className="text-[20rem] font-black uppercase tracking-tighter leading-none whitespace-nowrap">GROW</span>
+        </div>
+
+        <div className="mx-auto max-w-5xl text-center relative z-10">
+          <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tighter mb-8 leading-[0.9]">
+            Want a Tier-1<br/> Profile Update?
           </h2>
-          <p className="text-xl font-bold mb-10 max-w-2xl mx-auto">
-            Get personalized guidance on how to secure high-stipend internships at top-tier firms. 
+          <p className="text-2xl font-bold mb-12 max-w-2xl mx-auto text-rose-100">
+            Learn the exact frameworks used by top students to land high-paying Product, IB, and SWE internships.
           </p>
-          <Link href="/inquiry" className="inline-block bg-foreground text-white border-4 border-foreground px-10 py-5 text-2xl font-black uppercase hover:bg-white hover:text-foreground transition-all">
-            Consult Mohit Jain
+          <Link href="/inquiry" className="inline-flex items-center gap-4 bg-yellow-300 text-[#18181b] border-[6px] border-[#18181b] px-12 py-6 text-3xl font-black uppercase tracking-widest shadow-[12px_12px_0px_0px_rgba(24,24,27,1)] hover:-translate-y-2 hover:shadow-[16px_16px_0px_0px_rgba(24,24,27,1)] transition-all active:translate-y-2 active:shadow-none">
+            Get Career Roadmap <ExternalLink className="w-8 h-8" />
           </Link>
         </div>
       </section>
