@@ -1,41 +1,30 @@
 ---
-name: "Bennett University, Greater Noida"
-logo: "/colleges/bennett-logo.webp"
-location: "Greater Noida, Uttar Pradesh"
-category: "Management"
-type: "University"
-courses: ["MBA", "PGDM"]
-established: 2016
-ownership: "Private"
-ranking: "#2 (Top Emerging Universities - Times)"
-fees: "₹16.5 Lakhs"
-avg_placement: "₹9.5 LPA"
-highest_placement: "₹33.0 LPA"
-exams: ["CAT", "MAT", "XAT", "NMAT", "CMAT"]
-website: "https://www.bennett.edu.in"
+name: "Bennett University"
+logo: ""
+location: "Greater Noida"
+category: "Engineering"
+type: "Institute"
+courses: ["B.Tech CSE", "B.Tech ECE", "B.Tech IT", "B.Tech ME", "B.Tech EE"]
+established: 2000
+ownership: "Private / Govt."
+ranking: "Top Engineering College"
+fees: "₹15.0 Lakhs"
+avg_placement: "₹7.5 LPA"
+highest_placement: "₹1.2 CPA"
+exams: ["JEE Main","SAT","CUET"]
+website: ""
+brochure_url: ""
 ---
 
-### Courses & Fees
-- **MBA**: General Management | 2 Years | ₹17.00 Lakhs
-- **MBA**: Business Analytics | 2 Years | ₹18.50 Lakhs
-- **MBA**: Media Management | 2 Years | ₹15.00 Lakhs
-- **BBA + MBA**: Integrated Program | 5 Years | ₹25.00 Lakhs
+### B.Tech Courses & Fees
+- **B.Tech Computer Science & Engineering (CSE)**: 4 Years | ₹15.0 Lakhs
+- **B.Tech Electronics & Communication (ECE)**: 4 Years | ₹15.0 Lakhs
+- **B.Tech Information Technology (IT)**: 4 Years | ₹15.0 Lakhs
+- **B.Tech Mechanical Engineering (ME)**: 4 Years | ₹15.0 Lakhs
 
 ### About Bennett University
-Bennett University, founded by the Times of India Group, is a world-class university located in Greater Noida. The School of Management benefits from the group's massive industry network and global perspective. The MBA program is designed in collaboration with top international universities and focuses on innovation, entrepreneurship, and leadership.
+Bennett University (Greater Noida) is highly ranked for B.Tech programs in Delhi-NCR, focusing on Core Engineering and IT fields.
 
-### MBA Programs
-- **MBA (General)**: With 10+ specialization options including Media and Digital Marketing.
-- **MBA (Business Analytics)**: Focus on modern data technologies.
-- **Entrepreneurship**: Built-in "The Hatchery" for student-led startups.
-
-### Placements 2025
-- **Highest Package**: ₹33.00 LPA
-- **Average Package**: ₹7.41 LPA
-- **Top 10% Average**: ₹12.50 LPA
-- **Top Recruiters**: Google, Microsoft, Amazon, HSBC, EY, KPMG, Times of India.
-
-### Admission Process
-1. **Entrance Exam**: Valid score in CAT/MAT/XAT/NMAT.
-2. **Video Interview**: A modern approach to evaluate candidate's confidence.
-3. **Academic Score**: Strong weightage to 10th, 12th and Graduation marks.
+### Placements
+- **Average CTC**: ₹7.5 LPA
+- **Highest CTC**: ₹1.2 CPA

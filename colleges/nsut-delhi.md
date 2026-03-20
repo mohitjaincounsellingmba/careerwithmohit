@@ -1,32 +1,30 @@
 ---
-name: "Netaji Subhas University of Technology (NSUT)"
-logo: "/colleges/nsut-logo.webp"
-location: "New Delhi, Delhi"
+name: "NSUT (Netaji Subhas University of Technology)"
+logo: ""
+location: "Delhi"
 category: "Engineering"
-type: "University"
-courses: ["B.Tech", "M.Tech", "B.Design", "MBA"]
-established: 1983
-ownership: "Public"
-ranking: "#57 (NIRF 2024 - Engineering)"
-fees: "₹11.29 Lakhs (Total B.Tech)"
-avg_placement: "₹17.75 LPA"
-highest_placement: "₹1.0 CPA"
-exams: ["JEE Main"]
-website: "http://www.nsut.ac.in"
+type: "Institute"
+courses: ["B.Tech CSE", "B.Tech ECE", "B.Tech IT", "B.Tech ME", "B.Tech EE"]
+established: 2000
+ownership: "Private / Govt."
+ranking: "Top Engineering College"
+fees: "₹8.5 Lakhs"
+avg_placement: "₹16.0 LPA"
+highest_placement: "₹1.25 CPA"
+exams: ["JEE Main","JAC Delhi"]
+website: ""
+brochure_url: ""
 ---
 
-### Courses & Fees
-- **B.Tech**: CSE, IT, MAC, ECE, EE, etc. | 4 Years | ₹11.29 Lakhs
-- **B.Design**: Product & UI/UX | 4 Years | ₹10.5 Lakhs
-- **MBA**: Innovation, Entrepreneurship & Venture Development | 2 Years | ₹4.5 Lakhs
+### B.Tech Courses & Fees
+- **B.Tech Computer Science & Engineering (CSE)**: 4 Years | ₹8.5 Lakhs
+- **B.Tech Electronics & Communication (ECE)**: 4 Years | ₹8.5 Lakhs
+- **B.Tech Information Technology (IT)**: 4 Years | ₹8.5 Lakhs
+- **B.Tech Mechanical Engineering (ME)**: 4 Years | ₹8.5 Lakhs
 
-### About NSUT
-NSUT (formerly NSIT) is one of the most prestigious engineering universities in India. It is located in Dwarka, Delhi and is highly sought after by top-rankers in JEE Main.
+### About NSUT (Netaji Subhas University of Technology)
+NSUT (Netaji Subhas University of Technology) (Delhi) is highly ranked for B.Tech programs in Delhi-NCR, focusing on Core Engineering and IT fields.
 
-### Placements 2024
-- **Highest Package**: ₹1.0 Crore Per Annum
-- **Overall Average Package**: ₹17.75 LPA
-- **Top Recruiters**: Google, Microsoft, Apple, Amazon, Facebook, DEShaw, Arcesium.
-
-### Admission Process
-Seat allocation through JAC Delhi based on JEE Main scores.
+### Placements
+- **Average CTC**: ₹16.0 LPA
+- **Highest CTC**: ₹1.25 CPA

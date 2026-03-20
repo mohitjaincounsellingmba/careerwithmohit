@@ -1,7 +1,7 @@
 ---
-name: "MSIT (Maharaja Surajmal Institute of Technology)"
+name: "KIET Group of Institutions"
 logo: ""
-location: "Janakpuri, Delhi"
+location: "Ghaziabad"
 category: "Engineering"
 type: "Institute"
 courses: ["B.Tech CSE", "B.Tech ECE", "B.Tech IT", "B.Tech ME", "B.Tech EE"]
@@ -9,9 +9,9 @@ established: 2000
 ownership: "Private / Govt."
 ranking: "Top Engineering College"
 fees: "₹5.5 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹80.0 LPA"
-exams: ["JEE Main","IPU CET"]
+avg_placement: "₹6.0 LPA"
+highest_placement: "₹48.4 LPA"
+exams: ["JEE Main","UPTAC"]
 website: ""
 brochure_url: ""
 ---
@@ -22,9 +22,9 @@ brochure_url: ""
 - **B.Tech Information Technology (IT)**: 4 Years | ₹5.5 Lakhs
 - **B.Tech Mechanical Engineering (ME)**: 4 Years | ₹5.5 Lakhs
 
-### About MSIT (Maharaja Surajmal Institute of Technology)
-MSIT (Maharaja Surajmal Institute of Technology) (Janakpuri, Delhi) is highly ranked for B.Tech programs in Delhi-NCR, focusing on Core Engineering and IT fields.
+### About KIET Group of Institutions
+KIET Group of Institutions (Ghaziabad) is highly ranked for B.Tech programs in Delhi-NCR, focusing on Core Engineering and IT fields.
 
 ### Placements
-- **Average CTC**: ₹8.0 LPA
-- **Highest CTC**: ₹80.0 LPA
+- **Average CTC**: ₹6.0 LPA
+- **Highest CTC**: ₹48.4 LPA

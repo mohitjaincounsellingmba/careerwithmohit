@@ -1,34 +1,30 @@
 ---
 name: "Jamia Millia Islamia (JMI)"
-logo: "/colleges/jmi-logo.webp"
-location: "New Delhi, Delhi"
+logo: ""
+location: "New Delhi"
 category: "Engineering"
-type: "University"
-courses: ["B.Tech", "B.Arch", "MBA", "BBA", "BCA"]
-established: 1920
-ownership: "Public"
-ranking: "#25 (NIRF 2025 - Management)"
-fees: "₹53,000"
-avg_placement: "₹9.00 LPA"
-highest_placement: "₹59.91 LPA"
-exams: ["JMI Entrance", "CAT"]
-website: "https://www.jmi.ac.in"
+type: "Institute"
+courses: ["B.Tech CSE", "B.Tech ECE", "B.Tech IT", "B.Tech ME", "B.Tech EE"]
+established: 2000
+ownership: "Private / Govt."
+ranking: "Top Engineering College"
+fees: "₹0.6 Lakhs"
+avg_placement: "₹9.0 LPA"
+highest_placement: "₹25.0 LPA"
+exams: ["JEE Main","JMI Entrance"]
+website: ""
+brochure_url: ""
 ---
 
-### Courses & Fees
-- **B.Tech**: CSE, Civil, Mechanical, etc. | 4 Years | ₹77,200
-- **B.Arch**: Bachelor of Architecture | 5 Years | ₹80,500
-- **MBA**: Regular & Self-Finance | 2 Years | ₹50,000 - ₹2.5 Lakhs
-- **BBA/BCA**: Undergraduate Programs | 3 Years | ₹39,000
+### B.Tech Courses & Fees
+- **B.Tech Computer Science & Engineering (CSE)**: 4 Years | ₹0.6 Lakhs
+- **B.Tech Electronics & Communication (ECE)**: 4 Years | ₹0.6 Lakhs
+- **B.Tech Information Technology (IT)**: 4 Years | ₹0.6 Lakhs
+- **B.Tech Mechanical Engineering (ME)**: 4 Years | ₹0.6 Lakhs
 
-### About JMI
-Jamia Millia Islamia is a central university in New Delhi. It is ranked 3rd among universities in India by NIRF 2024. Its Faculty of Engineering and Technology is highly cost-effective and produces excellent academic and professional results.
+### About Jamia Millia Islamia (JMI)
+Jamia Millia Islamia (JMI) (New Delhi) is highly ranked for B.Tech programs in Delhi-NCR, focusing on Core Engineering and IT fields.
 
-### Placements 2024
-- **Highest Package**: ₹59.91 LPA (Atlassian)
-- **Median B.Tech Package**: ₹13.78 LPA
-- **Top Recruiters**: Atlassian, Amazon, Walmart, IBM, TCS, Siemens.
-
-### Admission Process
-1. **B.Tech**: Through JEE Main score.
-2. **Other Courses**: Through JMI Common Entrance Test.
+### Placements
+- **Average CTC**: ₹9.0 LPA
+- **Highest CTC**: ₹25.0 LPA

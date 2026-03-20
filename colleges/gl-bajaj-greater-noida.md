@@ -1,40 +1,30 @@
 ---
-name: "GL Bajaj Institute of Management & Research, Greater Noida"
-logo: "/colleges/gl-bajaj-logo.webp"
-location: "Greater Noida, Uttar Pradesh"
-category: "Management"
+name: "GL Bajaj Institute of Technology and Management"
+logo: ""
+location: "Greater Noida"
+category: "Engineering"
 type: "Institute"
-courses: ["MBA", "PGDM"]
-established: 2007
-ownership: "Private"
-ranking: "#19 (Best B-Schools in North India - India Today)"
-fees: "₹7.85 Lakhs"
-avg_placement: "₹10.5 LPA"
-highest_placement: "₹58.00 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.glbimr.org"
+courses: ["B.Tech CSE", "B.Tech ECE", "B.Tech IT", "B.Tech ME", "B.Tech EE"]
+established: 2000
+ownership: "Private / Govt."
+ranking: "Top Engineering College"
+fees: "₹6.0 Lakhs"
+avg_placement: "₹6.8 LPA"
+highest_placement: "₹58.0 LPA"
+exams: ["JEE Main","UPTAC","CAT"]
+website: ""
+brochure_url: ""
 ---
 
-### Courses & Fees
-- **PGDM**: General Management | 2 Years | ₹8.00 Lakhs
-- **PGDM**: Marketing & Finance | 2 Years | ₹8.00 Lakhs
-- **MBA**: Business Analytics | 2 Years | ₹5.50 Lakhs
+### B.Tech Courses & Fees
+- **B.Tech Computer Science & Engineering (CSE)**: 4 Years | ₹6.0 Lakhs
+- **B.Tech Electronics & Communication (ECE)**: 4 Years | ₹6.0 Lakhs
+- **B.Tech Information Technology (IT)**: 4 Years | ₹6.0 Lakhs
+- **B.Tech Mechanical Engineering (ME)**: 4 Years | ₹6.0 Lakhs
 
-### About GL Bajaj
-GL Bajaj Institute of Management & Research (GLBIMR) is a top-ranked management institute in Knowledge Park, Greater Noida. It is known for its excellent ROI and strong industry connect. The institute emphasizes "Corporate Readiness" and provides extensive training in soft skills, aptitude, and technical tools.
+### About GL Bajaj Institute of Technology and Management
+GL Bajaj Institute of Technology and Management (Greater Noida) is highly ranked for B.Tech programs in Delhi-NCR, focusing on Core Engineering and IT fields.
 
-### PGDM Program
-- **Market Aligned**: Curriculum updated regularly as per industry trends.
-- **Live Projects**: Mandatory industry interaction every semester.
-- **Soft Skills**: Dedicated "Center for Career Excellence" for personality development.
-
-### Placements 2024-25
-- **Highest Package**: ₹58.00 LPA
-- **Average Package**: ₹7.35 LPA
-- **Placement Rate**: 86%+
-- **Top Recruiters**: Amazon, Deloitte, ICICI Bank, Tata Capital, HCL, Genpact.
-
-### Admission Process
-1. **Score Merit**: CAT/MAT/XAT/CMAT performance.
-2. **Analytical Round**: Written and verbal assessment.
-3. **Personal Interview**: Professional interaction with corporate mentors.
+### Placements
+- **Average CTC**: ₹6.8 LPA
+- **Highest CTC**: ₹58.0 LPA

@@ -1,36 +1,30 @@
 ---
-name: "Indian Institute of Technology (IIT) Delhi"
-logo: "/colleges/iit-delhi-logo.webp"
-location: "New Delhi, Delhi"
+name: "IIT Delhi (Indian Institute of Technology)"
+logo: ""
+location: "Delhi"
 category: "Engineering"
 type: "Institute"
-courses: ["B.Tech", "M.Tech", "MBA"]
-established: 1961
-ownership: "Public"
-ranking: "#4 (NIRF 2025 - Management)"
-fees: "₹12.00 Lakhs"
-avg_placement: "₹15.59 LPA"
-highest_placement: "₹43.5 LPA"
-exams: ["CAT", "GMAT"]
-website: "https://home.iitd.ac.in"
+courses: ["B.Tech CSE", "B.Tech ECE", "B.Tech IT", "B.Tech ME", "B.Tech EE"]
+established: 2000
+ownership: "Private / Govt."
+ranking: "Top Engineering College"
+fees: "₹9.5 Lakhs"
+avg_placement: "₹25.8 LPA"
+highest_placement: "₹2.0 CPA"
+exams: ["JEE Advanced","CAT"]
+website: ""
+brochure_url: ""
 ---
 
-### Courses & Fees
-- **B.Tech**: Computer Science, Electrical, Mechanical, etc. | 4 Years | ₹8.63 Lakhs
-- **M.Tech**: Multiple Specializations | 2 Years | ₹1.2 Lakhs
-- **MBA**: General & Telecommunication MGMT | 2 Years | ₹11.2 Lakhs
+### B.Tech Courses & Fees
+- **B.Tech Computer Science & Engineering (CSE)**: 4 Years | ₹9.5 Lakhs
+- **B.Tech Electronics & Communication (ECE)**: 4 Years | ₹9.5 Lakhs
+- **B.Tech Information Technology (IT)**: 4 Years | ₹9.5 Lakhs
+- **B.Tech Mechanical Engineering (ME)**: 4 Years | ₹9.5 Lakhs
 
-### About IIT Delhi
-IIT Delhi is one of the premier public technical and research universities located in New Delhi, India. It is one of the oldest Indian Institutes of Technology, established in 1961. The institute has been declared an Institute of Eminence by the Government of India.
+### About IIT Delhi (Indian Institute of Technology)
+IIT Delhi (Indian Institute of Technology) (Delhi) is highly ranked for B.Tech programs in Delhi-NCR, focusing on Core Engineering and IT fields.
 
-### Engineering Programs
-IIT Delhi is renowned for its world-class B.Tech programs. Admission is highly competitive and is based solely on the JEE Advanced rank. The curriculum is designed to foster innovation and technical excellence.
-
-### Placements 2024
-- **Highest Package**: ₹2.0 Crore Per Annum (International)
-- **Average Package**: ₹21.9 LPA (Approx.)
-- **Top Recruiters**: Google, Microsoft, Amazon, Goldman Sachs, Uber, Apple.
-
-### Admission Process
-1. **JEE Main**: Must qualify for JEE Advanced.
-2. **JEE Advanced**: Rank-based seat allocation through JoSAA.
+### Placements
+- **Average CTC**: ₹25.8 LPA
+- **Highest CTC**: ₹2.0 CPA
