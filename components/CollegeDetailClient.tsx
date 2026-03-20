@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from "react";
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import {
   MapPin,
   Calendar,
@@ -203,7 +204,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
               prose-li:text-slate-700 prose-li:font-medium
               prose-strong:text-slate-900 prose-strong:font-black
               prose-table:border prose-table:rounded-xl prose-table:overflow-hidden">
-              <ReactMarkdown>{displayContent}</ReactMarkdown>
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>{displayContent}</ReactMarkdown>
             </div>
           </div>
         </div>
