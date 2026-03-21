@@ -4,8 +4,8 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "Premium Job Opportunities 2026 | CareerWithMohit",
-  description: "Explore the latest full-time job opportunities in Finance, Tech, and Marketing for 2026. Hand-picked roles at India's top companies and startups.",
-  keywords: ["jobs for freshers 2026", "finance jobs India", "tech jobs 2026", "software engineer roles", "marketing jobs India", "MBA jobs 2026"],
+  description: "Explore the latest full-time job opportunities in Tech, Sales, and Marketing. Hand-picked roles with verified referral links for 2026 career growth.",
+  keywords: ["jobs 2026", "software engineer roles India", "inside sales jobs", "social media strategy jobs", "OptimHire jobs", "career opportunities"],
   alternates: {
     canonical: "/jobs",
   },
@@ -30,77 +30,62 @@ type Job = {
 const JOBS: Job[] = [
   {
     id: 1,
-    title: "Investment Banking Associate",
-    company: "Goldman Sachs",
-    location: "Mumbai / Bangalore",
+    title: "Backend Developer",
+    company: "OptimHire",
+    location: "Fully Remote",
     type: "Full-time",
-    experience: "1-3 Years",
-    salary: "₹18-25 LPA",
-    description: "Join the investment banking division to work on complex M&A transactions and capital raising for global clients. Requires strong financial modeling skills.",
-    skills: "Financial Modeling, Valuations, M&A, Pitch Books",
-    link: "#",
-    accent: "bg-blue-600",
-    postedDate: "Mar 20, 2026",
+    experience: "1-15 Years",
+    salary: "₹1.1Cr - ₹1.5Cr/Year",
+    description: "Build robust, scalable services and design server-side applications for millions of users. Work with cutting-edge cloud infrastructures and collaborate with cross-functional teams.",
+    skills: "Python, Java, Node.js, Go, AWS, Docker, Kubernetes, CI/CD",
+    link: "https://optimhire.com/developers/jv/309466?ref_code=mohit-jain",
+    accent: "bg-indigo-600",
+    postedDate: "New",
     isPremium: true
   },
   {
     id: 2,
-    title: "Product Manager (FinTech)",
-    company: "Razorpay",
-    location: "Bangalore / Remote",
+    title: "Social Media Strategist",
+    company: "Talknlock",
+    location: "Jaipur, RJ",
     type: "Full-time",
-    experience: "2-5 Years",
-    salary: "₹22-35 LPA",
-    description: "Lead the product lifecycle for new payment solutions. Work closely with engineering and design to build world-class fintech products.",
-    skills: "Product Roadmap, SQL, User Research, Agile",
-    link: "#",
-    accent: "bg-indigo-600",
-    postedDate: "Mar 18, 2026",
-    isPremium: true
+    experience: "2-3 Years",
+    salary: "₹4L - ₹6L/Year",
+    description: "Lead digital marketing and content strategy initiatives. Focus on social media strategy, analytics, and growing brand presence across platforms.",
+    skills: "Digital Marketing, Content Strategy, Social Media Strategy, Analytics",
+    link: "https://optimhire.com/developers/jv/309539?ref_code=mohit-jain",
+    accent: "bg-pink-500",
+    postedDate: "New",
+    isPremium: false
   },
   {
     id: 3,
-    title: "Software Engineer - Backend",
-    company: "Zomato",
-    location: "Gurgaon",
+    title: "Inside Sales Consultant",
+    company: "Zopsmart",
+    location: "Noida, UP",
     type: "Full-time",
-    experience: "0-2 Years",
-    salary: "₹12-18 LPA",
-    description: "Build scalable backend systems that power millions of orders. High ownership role for engineers who love solving architectural challenges.",
-    skills: "Node.js, Go, PostgreSQL, Redis, System Design",
-    link: "#",
-    accent: "bg-red-600",
-    postedDate: "Mar 21, 2026",
-    isPremium: false
+    experience: "4 Years",
+    salary: "₹12.5L - ₹16.6L/Year",
+    description: "Drive B2B sales through cold calling, lead generation, and relationship building. High-intent role for experienced sales professionals.",
+    skills: "Inside Sales, Cold Calling, Lead Generation, B2B Sales",
+    link: "https://optimhire.com/developers/jv/309537?ref_code=mohit-jain",
+    accent: "bg-emerald-600",
+    postedDate: "New",
+    isPremium: true
   },
   {
     id: 4,
-    title: "Marketing Manager",
-    company: "Nykaa",
-    location: "Mumbai",
+    title: "Full Stack Developer",
+    company: "B-Informative IT Services",
+    location: "Bengaluru, KA",
     type: "Full-time",
-    experience: "1-3 Years",
-    salary: "₹10-15 LPA",
-    description: "Drive brand growth through digital marketing and strategic partnerships. Experience in e-commerce marketing is a plus.",
-    skills: "Growth Marketing, Performance Marketing, SEO, Analytics",
-    link: "#",
-    accent: "bg-pink-500",
-    postedDate: "Mar 19, 2026",
-    isPremium: false
-  },
-  {
-    id: 5,
-    title: "Data Analyst",
-    company: "Flipkart",
-    location: "Bangalore",
-    type: "Full-time",
-    experience: "0-2 Years",
-    salary: "₹8-12 LPA",
-    description: "Unlock insights from massive datasets to drive business decisions across logistics and customer experience.",
-    skills: "Python, SQL, Tableau, Statistics",
-    link: "#",
-    accent: "bg-yellow-500",
-    postedDate: "Mar 15, 2026",
+    experience: "3-5 Years",
+    salary: "₹10L - ₹12L/Year",
+    description: "Develop end-to-end solutions using .NET Core and React. Work on microservices architecture and mobile development with React-Native.",
+    skills: ".NET Core, React, React-Native, Typescript, Microservices",
+    link: "https://optimhire.com/developers/jv/309523?ref_code=mohit-jain",
+    accent: "bg-blue-600",
+    postedDate: "New",
     isPremium: false
   }
 ];
@@ -116,21 +101,21 @@ export default function JobsPage() {
         <div className="mx-auto max-w-7xl relative z-10 flex flex-col md:flex-row items-end justify-between gap-12">
           <div className="flex-1">
             <div className="inline-flex items-center gap-3 bg-[#18181b] text-white px-5 py-2 mb-8 uppercase tracking-widest text-xs font-black shadow-[6px_6px_0px_0px_rgba(79,70,229,1)]">
-              <TrendingUp className="w-4 h-4 text-indigo-400" /> Hiring Now
+              <TrendingUp className="w-4 h-4 text-indigo-400" /> Live Referral Roles
             </div>
             <h1 className="text-6xl sm:text-8xl md:text-[8rem] font-black uppercase tracking-tighter text-[#18181b] leading-[0.85] mb-6">
-              Full-Time<br />
+              Verified<br />
               <span className="text-indigo-600 stroke-text">Jobs.</span>
             </h1>
             <p className="max-w-xl text-xl font-bold text-gray-600 leading-snug border-l-8 border-indigo-600 pl-6 py-2">
-              Premium career opportunities across India's top-tier firms. Curated for ambitious professionals and fresh graduates.
+              Curated premium job roles with direct referral links. Applied and verified from OptimHire partnership for 2026.
             </p>
           </div>
           
           <div className="w-full md:w-auto flex flex-col gap-4">
             <div className="bg-[#18181b] p-6 text-white text-center border-4 border-[#18181b] shadow-[8px_8px_0px_0px_rgba(79,70,229,1)]">
                <span className="block text-5xl font-black">{JOBS.length}</span>
-               <span className="text-xs uppercase tracking-widest text-indigo-400 font-bold mt-2 block">Active Roles</span>
+               <span className="text-xs uppercase tracking-widest text-indigo-400 font-bold mt-2 block">Active Listings</span>
             </div>
           </div>
         </div>
@@ -148,7 +133,7 @@ export default function JobsPage() {
                 {/* Premium Banner */}
                 {job.isPremium && (
                   <div className="absolute -top-5 -right-5 bg-indigo-600 text-white px-6 py-2 border-4 border-[#18181b] shadow-[4px_4px_0px_0px_rgba(24,24,27,1)] font-black uppercase tracking-widest text-sm rotate-3 z-10">
-                    High Intent Role
+                    High Priority
                   </div>
                 )}
 
@@ -161,7 +146,7 @@ export default function JobsPage() {
                   {/* Posted Date UI */}
                   <div className="flex flex-col items-end gap-2 text-right">
                     <div className="inline-flex items-center gap-1.5 bg-yellow-300 border-2 border-[#18181b] px-3 py-1 font-black text-xs uppercase tracking-widest text-[#18181b] shadow-[2px_2px_0px_0px_rgba(24,24,27,1)]">
-                      <Clock className="w-3.5 h-3.5" /> Posted {job.postedDate}
+                      <Clock className="w-3.5 h-3.5" /> {job.postedDate}
                     </div>
                     <span className="inline-block bg-[#18181b] text-white px-3 py-1 text-[10px] font-black uppercase tracking-widest border-2 border-[#18181b]">
                       {job.type} • {job.experience} Exp
@@ -213,7 +198,7 @@ export default function JobsPage() {
                   rel="noopener noreferrer" 
                   className="mt-4 block w-full text-center bg-indigo-600 text-white border-4 border-[#18181b] py-5 text-xl font-black uppercase tracking-widest hover:bg-[#18181b] transition-colors flex items-center justify-center gap-3 shadow-[6px_6px_0px_0px_rgba(24,24,27,1)] hover:-translate-y-1 hover:shadow-[10px_10px_0px_0px_rgba(24,24,27,1)] active:translate-y-1 active:shadow-none"
                 >
-                  Apply to Role <ArrowRight className="w-6 h-6 group-hover:translate-x-2 transition-transform" />
+                  Apply via OptimHire <ArrowRight className="w-6 h-6 group-hover:translate-x-2 transition-transform" />
                 </a>
               </div>
             ))}
@@ -230,10 +215,10 @@ export default function JobsPage() {
 
         <div className="mx-auto max-w-5xl text-center relative z-10">
           <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tighter mb-8 leading-[0.9]">
-            Ready to Accelerate<br/> Your Growth?
+            Ready to Elevate<br/> Your Career?
           </h2>
           <p className="text-2xl font-bold mb-12 max-w-2xl mx-auto text-indigo-100">
-            Get personalized career guidance and access to exclusive hiring pipelines for top firms.
+            Get personalized career mentorship and access to high-impact roles through our referral network.
           </p>
           <Link href="/inquiry" className="inline-flex items-center gap-4 bg-yellow-300 text-[#18181b] border-[6px] border-[#18181b] px-12 py-6 text-3xl font-black uppercase tracking-widest shadow-[12px_12px_0px_0px_rgba(24,24,27,1)] hover:-translate-y-2 hover:shadow-[16px_16px_0px_0px_rgba(24,24,27,1)] transition-all active:translate-y-2 active:shadow-none">
             Book Counselling <ExternalLink className="w-8 h-8" />
