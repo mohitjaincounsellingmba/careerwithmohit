@@ -1,12 +1,12 @@
 ---
-title: "Top DRCC Approved MBA Colleges in India: Region-Wise List (2025-2026)"
+title: "Top DRCC Approved MBA Colleges in India: Region-Wise List (2026-2027)"
 date: "2026-03-16"
-excerpt: "A comprehensive region-wise guide to the top private B-schools and MBA/PGPM colleges in India eligible for the DRCC (Bihar Student Credit Card) education loan scheme."
-coverImage: "/images/blog/drcc-mba-colleges.jpg"
-author: "Mohit Jain"
-category: "Colleges"
-tags: ["DRCC", "MBA", "Bihar Student Credit Card", "Top Colleges", "Education Loan"]
+description: "Comprehensive region-wise guide to the top private B-schools and MBA/PGPM colleges in India eligible for the DRCC (Bihar Student Credit Card) education loan scheme for 2026-27."
+keywords: ["top DRCC approved MBA colleges 2026", "Bihar Student Credit Card colleges list", "BSCC approved B-schools India", "DRCC education loan colleges", "MBA colleges for Bihar students 2026"]
 ---
+
+Looking for a specific city? Check out our [**City-Wise List of BSCC MBA Colleges**](/blog/bihar-student-credit-card-mba-colleges) for detailed local options.
+
 
 For MBA aspirants from Bihar, the **District Registration and Counseling Centre (DRCC)**—under the **Bihar Student Credit Card (MNSSBY) Scheme**—is a lifeline. It provides collateral-free education loans up to ₹4 Lakhs for higher studies, making premier management education accessible to thousands of students.
 
