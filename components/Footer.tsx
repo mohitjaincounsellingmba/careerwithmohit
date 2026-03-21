@@ -1,12 +1,13 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { Compass, Instagram, Linkedin } from 'lucide-react';
+import CollegeDataFetcher from './CollegeDataFetcher';
 
 export function Footer() {
   return (
     <footer className="bg-foreground text-white">
       <div className="mx-auto max-w-7xl px-6 py-16 sm:px-12">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-12 mb-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-12 mb-12 border-b-2 border-gray-800 pb-12">
           <div className="lg:col-span-2">
             <span className="font-display text-2xl font-bold tracking-tight block mb-4 flex items-center gap-3 uppercase">
               <div className="bg-white p-1 rounded-md border-2 border-primary">
@@ -23,6 +24,11 @@ export function Footer() {
             <p className="text-gray-300 text-lg max-w-sm leading-relaxed font-medium">
               Empowering professionals to navigate their career paths with clarity, confidence, and purpose.
             </p>
+            
+            {/* ADDED PLACEMENT CHECKER HERE */}
+            <div className="mt-8 max-w-xs">
+              <CollegeDataFetcher />
+            </div>
           </div>
           <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Navigation</h3>
@@ -53,6 +59,7 @@ export function Footer() {
           <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Calculators</h3>
             <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/tools/mba-roi-calculator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-rose-500 font-bold">MBA ROI Auditor</Link></li>
               <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG 2026</Link></li>
               <li><Link href="/calculator/jee-main-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Main 2026</Link></li>
               <li><Link href="/calculator/career-roadmap" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Roadmap Gen</Link></li>
