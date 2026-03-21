@@ -1,6 +1,4 @@
 import MbaRoiCalculator from "@/components/MbaRoiCalculator";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
 import type { Metadata } from 'next';
 import { JsonLd } from "@/components/JsonLd";
 
@@ -29,8 +27,7 @@ export default function MbaRoiPage() {
   };
 
   return (
-    <main className="min-h-screen bg-slate-50 pt-32 selection:bg-rose-500 selection:text-white">
-      <Header />
+    <div className="min-h-screen bg-slate-50 pt-16 selection:bg-rose-500 selection:text-white">
       <JsonLd data={toolSchema} />
       
       <div className="max-w-7xl mx-auto px-6 mb-20">
@@ -92,8 +89,6 @@ export default function MbaRoiPage() {
             </div>
         </div>
       </section>
-
-      <Footer />
-    </main>
+    </div>
   );
 }
