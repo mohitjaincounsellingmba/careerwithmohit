@@ -6,8 +6,8 @@ export function Footer() {
   return (
     <footer className="bg-foreground text-white">
       <div className="mx-auto max-w-7xl px-6 py-16 sm:px-12">
-        <div className="grid grid-cols-1 md:grid-cols-5 gap-12 mb-12">
-          <div className="md:col-span-2">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-12 mb-12">
+          <div className="lg:col-span-2">
             <span className="font-display text-2xl font-bold tracking-tight block mb-4 flex items-center gap-3 uppercase">
               <div className="bg-white p-1 rounded-md border-2 border-primary">
                 <Image 
@@ -34,26 +34,34 @@ export function Footer() {
             </ul>
           </div>
           <div>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Exams</h3>
+            <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/blog/all-about-cat-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">CAT</Link></li>
+              <li><Link href="/blog/all-about-xat-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">XAT</Link></li>
+              <li><Link href="/blog/all-about-snap-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">SNAP</Link></li>
+              <li><Link href="/blog/all-about-nmat-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">NMAT</Link></li>
+              <li><Link href="/blog/all-about-jee-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">JEE</Link></li>
+              <li><Link href="/blog/all-about-neet-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">NEET</Link></li>
+              <li><Link href="/blog/all-about-cmat-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">CMAT</Link></li>
+              <li><Link href="/blog/all-about-mat-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">MAT</Link></li>
+              <li><Link href="/blog/all-about-clat-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">CLAT</Link></li>
+              <li><Link href="/blog/all-about-mah-mba-cet-exam" className="hover:text-primary hover:translate-x-1 inline-block transition-transform uppercase">MBA MHCET</Link></li>
+            </ul>
+          </div>
+          <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Calculators</h3>
             <ul className="space-y-4 text-base font-medium">
-              <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG 2026 Calculator</Link></li>
-              <li><Link href="/calculator/jee-main-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Main 2026 Calculator</Link></li>
-              <li><Link href="/calculator/career-roadmap" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Career Roadmap Calculator</Link></li>
-              <li><Link href="/calculator/certification" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Certification Calculator</Link></li>
+              <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG 2026</Link></li>
+              <li><Link href="/calculator/jee-main-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Main 2026</Link></li>
+              <li><Link href="/calculator/career-roadmap" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Roadmap Gen</Link></li>
             </ul>
           </div>
           <div>
-            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Tools</h3>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Resources</h3>
             <ul className="space-y-4 text-base font-medium">
-              <li><Link href="/tools/case-study-generator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MBA Case Study Gen</Link> <span className="text-[10px] bg-primary text-white p-1 rounded font-black align-middle ml-1">NEW</span></li>
-              <li><Link href="/tools/mat-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAT College Predictor</Link> <span className="text-[10px] bg-secondary text-white p-1 rounded font-black align-middle ml-1">2026</span></li>
-              <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-primary font-black">Free MHCET Mock Test</Link></li>
-            </ul>
-          </div>
-
-          <div>
-            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Connect</h3>
-            <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/tools/case-study-generator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Case Study Gen</Link></li>
+              <li><Link href="/tools/mat-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAT Predictor</Link></li>
+              <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock</Link></li>
               <li>
                 <a
                   href="https://www.linkedin.com/company/career-with-mohit/?viewAsMember=true"
@@ -61,7 +69,7 @@ export function Footer() {
                   rel="noopener noreferrer"
                   className="hover:text-primary flex items-center gap-2 group transition-colors"
                 >
-                  <Linkedin className="h-5 w-5 group-hover:scale-110 transition-transform" />
+                  <Linkedin className="h-4 w-4 group-hover:scale-110 transition-transform" />
                   LinkedIn
                 </a>
               </li>
@@ -72,13 +80,14 @@ export function Footer() {
                   rel="noopener noreferrer"
                   className="hover:text-primary flex items-center gap-2 group transition-colors"
                 >
-                  <Instagram className="h-5 w-5 group-hover:scale-110 transition-transform" />
+                  <Instagram className="h-4 w-4 group-hover:scale-110 transition-transform" />
                   Instagram
                 </a>
               </li>
             </ul>
           </div>
         </div>
+
         <div className="border-t-2 border-gray-800 pt-8 flex flex-col sm:flex-row items-center justify-between text-sm font-medium text-gray-400">
           <p>© {new Date().getFullYear()} Mohit Jain. All rights reserved.</p>
           <div className="mt-4 sm:mt-0 flex gap-6">
