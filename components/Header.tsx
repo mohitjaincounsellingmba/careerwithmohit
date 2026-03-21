@@ -72,13 +72,6 @@ export function Header() {
                 >
                   Certifications
                 </Link>
-                <Link 
-                  href="/tools/mba-roi-calculator" 
-                  className="block px-6 py-3 hover:bg-accent font-bold text-lg transition-colors text-rose-600"
-                  onClick={() => setIsLearnDropdownOpen(false)}
-                >
-                  ROI Calculator
-                </Link>
               </div>
             )}
           </div>
@@ -151,9 +144,6 @@ export function Header() {
                   </Link>
                   <Link href="/certifications" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary text-gray-600">
                     &raquo; Certifications
-                  </Link>
-                  <Link href="/tools/mba-roi-calculator" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary text-rose-500 font-black">
-                    &raquo; ROI Calculator
                   </Link>
                 </div>
               )}
