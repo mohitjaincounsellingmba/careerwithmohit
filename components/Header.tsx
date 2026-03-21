@@ -59,6 +59,13 @@ export function Header() {
                   Internships
                 </Link>
                 <Link 
+                  href="/jobs" 
+                  className="block px-6 py-3 hover:bg-accent font-bold text-lg transition-colors border-b-2 border-gray-100 last:border-0"
+                  onClick={() => setIsLearnDropdownOpen(false)}
+                >
+                  Jobs
+                </Link>
+                <Link 
                   href="/certifications" 
                   className="block px-6 py-3 hover:bg-accent font-bold text-lg transition-colors"
                   onClick={() => setIsLearnDropdownOpen(false)}
@@ -131,6 +138,9 @@ export function Header() {
                 <div className="pl-8 pt-4 flex flex-col gap-4 animate-in slide-in-from-top-2 duration-200">
                   <Link href="/internships" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary text-gray-600">
                     &raquo; Internships
+                  </Link>
+                  <Link href="/jobs" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary text-gray-600">
+                    &raquo; Jobs
                   </Link>
                   <Link href="/certifications" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary text-gray-600">
                     &raquo; Certifications
