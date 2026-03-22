@@ -29,6 +29,12 @@ export const metadata: Metadata = {
         "CUET PG JNU cutoff",
         "CUET PG BHU admission 2026",
         "CUET PG expected cutoff 2026",
+        "calculate my cuet pg score 2026",
+        "best cuet pg score calculator",
+        "nta cuet pg 2026 marking scheme explained",
+        "how to calculate cuet pg score with negative marking",
+        "cuet pg score predictor online",
+        "cuet pg raw score calculator 2026",
     ],
     openGraph: {
         title: "CUET PG 2026 Score Calculator & Rank Predictor",
