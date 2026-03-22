@@ -294,7 +294,6 @@ In this guide, we break down the **top recruiters, average packages, and key ski
 
 ---
 
-
 > **Still confused about which specialization suits you best?**
 > Your academic background, work experience, and career goals all play a role in this decision.
 

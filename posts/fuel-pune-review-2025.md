@@ -14,12 +14,6 @@ FUEL Business School (Friends Union for Energising Lives) is a unique institutio
 *   **Entrance Exam**: CAT / MAT / CMAT / MAH CET / FUEL Entrance
 
 ### **Top Recruiters:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=capgemini.com" alt="Capgemini" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=linkedin.com" alt="LinkedIn" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=oracle.com" alt="Oracle" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=microsoft.com" alt="Microsoft" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Why FUEL Pune?**
 *   **Skill-First Approach**: They focus on futuristic skills like Data Analytics, Python for Business, and Digital Marketing as core parts of the PGDM.

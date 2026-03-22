@@ -18,12 +18,6 @@ The International School of Business & Media (ISB&M) is known for its "lifestyle
 | **Vibe** | Lifestyle-Based Learning / Marketing Focus |
 
 ### **Top Recruiters:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=tridentindia.com" alt="Trident" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=bnymellon.com" alt="BNY Mellon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **The ISB&M Edge:**
 *   **No Ragging & Total Freedom**: The campus culture is built on trust and freedom, which helps students develop maturity and self-discipline.

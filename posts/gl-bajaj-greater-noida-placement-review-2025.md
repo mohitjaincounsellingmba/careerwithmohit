@@ -19,12 +19,6 @@ GL Bajaj Institute of Management and Research (GLBIMR) at Greater Noida is a pow
 | **Placement Index** | 86% |
 
 ### **Top Recruiters at GL Bajaj:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=meesho.com" alt="Meesho" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=jpmorganchase.com" alt="JP Morgan" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=walmart.com" alt="Walmart" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Sector-Wise Placement Breakdown:**
 *   **Tech & FinTech**: High volume and massive package offers from Meesho, Hike, and Razorpay for growth and operations.

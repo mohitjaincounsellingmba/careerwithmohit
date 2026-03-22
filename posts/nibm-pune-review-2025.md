@@ -15,12 +15,6 @@ The National Institute of Bank Management (NIBM) Pune, established by the Reserv
 *   **Entrance Exam**: CAT (80+) / CMAT (95+)
 
 ### **Top Recruiters:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=axisbank.com" alt="Axis Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=hdfcbank.com" alt="HDFC Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=kpmg.com" alt="KPMG" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=federalbank.co.in" alt="Federal Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Why NIBM is Special:**
 *   **Industry Recognition**: Since it's backed by the RBI, every major bank (public, private, and international) recognizes NIBM as a core talent source.

@@ -19,12 +19,6 @@ Jaipuria Institute of Management, Noida, is widely regarded as one of Northern I
 | **Offers Extended** | 1,100+ |
 
 ### **Top Recruiters at Jaipuria Noida:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=hdfcbank.com" alt="HDFC Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=asianpaints.com" alt="Asian Paints" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=icicibank.com" alt="ICICI Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Sector-Wise Placement Overview:**
 *   **BFSI & Consulting**: Around **60% of students** were placed in the BFSI and consulting sectors, with giants like Deloitte, BNY, and ICICI Bank actively hiring.

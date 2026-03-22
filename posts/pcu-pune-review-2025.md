@@ -14,12 +14,6 @@ Pimpri Chinchwad University (PCU) is a rising star in Pune's higher education la
 *   **Entrance Exam**: CAT / CMAT / NMAT / MAH CET / PCU CET
 
 ### **Top Recruiters:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=volkswagen.com" alt="Volkswagen" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=volvo.com" alt="Volvo" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=whirlpool.com" alt="Whirlpool" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=infosys.com" alt="Infosys" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Why Choose PCU Pune?**
 *   **Tech-Driven Learning**: Curriculum designed around the digital age, with a focus on AI, Data Analytics, and Innovation.

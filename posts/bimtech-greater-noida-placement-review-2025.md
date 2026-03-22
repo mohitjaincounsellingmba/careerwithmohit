@@ -19,12 +19,6 @@ Birla Institute of Management Technology (BIMTECH) is a premier institute in the
 | **New Recruiters** | 52+ |
 
 ### **Top Recruiters at BIMTECH Greater Noida:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=ey.com" alt="EY" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=kpmg.com" alt="KPMG" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Sector-Wise Placement Overview:**
 *   **Consulting & Research**: Major hiring from Ernst & Young (EY), Deloitte, and KPMG, offering analyst and consultant positions.

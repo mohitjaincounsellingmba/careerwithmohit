@@ -19,12 +19,6 @@ Fortune Institute of International Business (FIIB) Delhi is a fast-growing B-sch
 | **Participating Companies**| 135+ |
 
 ### **Top Recruiters at FIIB Delhi:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=deloitte.com" alt="Deloitte" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=wipro.com" alt="Wipro" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=paytm.com" alt="Paytm" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=asianpaints.com" alt="Asian Paints" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Sector-Wise Placement Breakdown:**
 *   **Corporate Strategy & Consulting**: Consistent hiring from Deloitte and Wipro for analyst and management-consultant roles.

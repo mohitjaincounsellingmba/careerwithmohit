@@ -19,12 +19,6 @@ SOIL (School of Inspired Leadership) Gurgaon is renowned for its values-driven e
 | **Total Participating Companies**| 64+ (Ongoing) |
 
 ### **Top Recruiters at SOIL Gurgaon:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=capgemini.com" alt="Capgemini" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=airtel.com" alt="Airtel" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=infosys.com" alt="Infosys" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=hdfcbank.com" alt="HDFC Bank" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Sector-Wise Placement Breakdown:**
 *   **Engineering & IT**: Large recruitment volume from Capgemini, Infosys, and Intellect Design for management and tech-leadership roles.

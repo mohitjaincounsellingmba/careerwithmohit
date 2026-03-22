@@ -14,12 +14,6 @@ Pune Business School (PBS) is part of the PCET group (Pimpri Chinchwad Education
 *   **Entrance Exam**: CAT / XAT / MAT / CMAT / MAH CET
 
 ### **Top Recruiters:**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=vodafone.com" alt="Vodafone" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=accenture.com" alt="Accenture" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=amazon.com" alt="Amazon" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://www.google.com/s2/favicons?sz=128&domain=adobe.com" alt="Adobe" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-</div>
 
 ### **Why Choose PBS Pune?**
 *   **The PCET Legacy**: Benefit from the trust established by one of Pune's most successful education groups over 30 years.
