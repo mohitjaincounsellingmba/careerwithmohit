@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Compass, Instagram, Linkedin } from 'lucide-react';
 import CollegeDataFetcher from './CollegeDataFetcher';
+import JobSalaryTool from './JobSalaryTool';
 
 export function Footer() {
   return (
@@ -15,7 +16,7 @@ export function Footer() {
                   src="/logo.webp" 
                   alt="Mohit Jain Logo" 
                   width={28} 
-                  height={28} 
+                  height={20} // Fixed height to maintain aspect ratio
                   className="object-contain"
                 />
               </div>
@@ -25,9 +26,10 @@ export function Footer() {
               Empowering professionals to navigate their career paths with clarity, confidence, and purpose.
             </p>
             
-            {/* ADDED PLACEMENT CHECKER HERE */}
-            <div className="mt-8 max-w-xs">
+            {/* TOOLS SECTION */}
+            <div className="mt-8 space-y-6 max-w-xs">
               <CollegeDataFetcher />
+              <JobSalaryTool />
             </div>
           </div>
           <div>
