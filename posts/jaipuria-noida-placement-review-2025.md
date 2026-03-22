@@ -18,8 +18,6 @@ Jaipuria Institute of Management, Noida, is widely regarded as one of Northern I
 | **Recruiters Participated** | 275+ |
 | **Offers Extended** | 1,100+ |
 
-### **Top Recruiters at Jaipuria Noida:**
-
 ### **Sector-Wise Placement Overview:**
 *   **BFSI & Consulting**: Around **60% of students** were placed in the BFSI and consulting sectors, with giants like Deloitte, BNY, and ICICI Bank actively hiring.
 *   **Corporate Strategy & Marketing**: Recruiters like Whirlpool, Asian Paints, and Coca Cola continue to offer roles in Brand Management and Regional Sales.

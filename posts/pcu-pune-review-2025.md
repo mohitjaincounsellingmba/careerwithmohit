@@ -13,8 +13,6 @@ Pimpri Chinchwad University (PCU) is a rising star in Pune's higher education la
 *   **Placement Rate**: Developing strong track record
 *   **Entrance Exam**: CAT / CMAT / NMAT / MAH CET / PCU CET
 
-### **Top Recruiters:**
-
 ### **Why Choose PCU Pune?**
 *   **Tech-Driven Learning**: Curriculum designed around the digital age, with a focus on AI, Data Analytics, and Innovation.
 *   **Strong Placement Lineage**: Access to PCET's massive centralized placement cell, which has placed thousands of students across top MNCs.

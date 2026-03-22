@@ -18,8 +18,6 @@ Fortune Institute of International Business (FIIB) Delhi is a fast-growing B-sch
 | **Placement Index** | 96% |
 | **Participating Companies**| 135+ |
 
-### **Top Recruiters at FIIB Delhi:**
-
 ### **Sector-Wise Placement Breakdown:**
 *   **Corporate Strategy & Consulting**: Consistent hiring from Deloitte and Wipro for analyst and management-consultant roles.
 *   **FinTech & BFSI**: High interest from Paytm and other FinTech firms for product analyst and corporate growth profiles.

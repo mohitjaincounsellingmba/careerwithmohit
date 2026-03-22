@@ -18,8 +18,6 @@ Birla Institute of Management Technology (BIMTECH) is a premier institute in the
 | **Placement Percentage** | 98.04% |
 | **New Recruiters** | 52+ |
 
-### **Top Recruiters at BIMTECH Greater Noida:**
-
 ### **Sector-Wise Placement Overview:**
 *   **Consulting & Research**: Major hiring from Ernst & Young (EY), Deloitte, and KPMG, offering analyst and consultant positions.
 *   **BFSI & FinTech**: Strong presence from ICICI Bank, HDFC Bank, and Kotak Bank for roles in corporate banking and risk management.

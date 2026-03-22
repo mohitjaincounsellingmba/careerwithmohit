@@ -42,8 +42,7 @@ Poornima University holds a steady placement record. For candidates looking for 
 *   **Average/Median Package**: ₹4.01 LPA - ₹5.00 LPA
 *   **Offers & Companies**: Over 350+ companies visited the campus recently, rolling out 1,700+ offers across all departments.
 
-#### **Top Recruiters:**
-*   Accenture
+#*   Accenture
 *   Morgan Stanley
 *   Wipro & IBM
 *   TCS & Capgemini

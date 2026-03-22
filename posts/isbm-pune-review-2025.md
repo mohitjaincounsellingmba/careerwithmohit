@@ -17,8 +17,6 @@ The International School of Business & Media (ISB&M) is known for its "lifestyle
 | **Entrance Accepted** | CAT, XAT, MAT, CMAT |
 | **Vibe** | Lifestyle-Based Learning / Marketing Focus |
 
-### **Top Recruiters:**
-
 ### **The ISB&M Edge:**
 *   **No Ragging & Total Freedom**: The campus culture is built on trust and freedom, which helps students develop maturity and self-discipline.
 *   **Strong Marketing Focus**: Highly preferred by top FMCG and Media brands like Trident, BNY Mellon, and Deloitte.

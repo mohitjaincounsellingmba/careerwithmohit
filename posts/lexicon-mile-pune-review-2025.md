@@ -13,8 +13,6 @@ Lexicon Management Institute of Leadership & Excellence (MILE) is part of the Le
 *   **Placement Rate**: ~97.5%
 *   **Entrance Exam**: CAT / XAT / MAT / CMAT / MAH-CET
 
-### **Top Recruiters:**
-
 ### **Why Choose Lexicon MILE?**
 *   **Global MBA Option**: Its Global MBA program offers unparalleled salary benchmarks for students seeking international career paths.
 *   **Personalized Attention**: Maintains a healthy faculty-student ratio to ensure every student gets mentored individually.

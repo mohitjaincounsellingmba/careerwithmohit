@@ -14,8 +14,6 @@ The National Institute of Bank Management (NIBM) Pune, established by the Reserv
 *   **Median Salary**: ₹15.00 LPA
 *   **Entrance Exam**: CAT (80+) / CMAT (95+)
 
-### **Top Recruiters:**
-
 ### **Why NIBM is Special:**
 *   **Industry Recognition**: Since it's backed by the RBI, every major bank (public, private, and international) recognizes NIBM as a core talent source.
 *   **Specialized Focus**: Unlike general MBAs, the entire curriculum is designed around the nuances of Banking, Risk Management, and Fintech.

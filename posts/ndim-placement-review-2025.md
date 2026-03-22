@@ -17,8 +17,6 @@ New Delhi Institute of Management (NDIM) has established itself as one of the mo
 | **Placement Percentage** | 100% |
 | **Top Sector** | BFSI, Consulting & IT |
 
-### **Top Recruiters at NDIM:**
-
 ### **Sector-Wise Placement Trends:**
 *   **Consulting & Finance**: NDIM has a strong footprint in the consulting domain, with the "Big 4" (Deloitte, KPMG, EY, PwC) frequently visiting for Risk Advisory and Financial Analyst roles.
 *   **Marketing & Sales**: FMCG giants like Nestlé, ITC, and Asian Paints offer lucrative roles in channel management and brand strategy.

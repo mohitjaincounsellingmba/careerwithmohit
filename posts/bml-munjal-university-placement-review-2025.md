@@ -18,8 +18,6 @@ BML Munjal University (BMU), founded by the Hero Group, has set its focus on exp
 | **Top 25% Average** | ₹12.10 LPA |
 | **Top Sector** | Business Analytics, Finance & Marketing |
 
-### **Top Recruiters at BML Munjal:**
-
 ### **Sector-Wise Placement Breakdown:**
 *   **Business Analytics**: BMU has been highly successful in placing students in analytics and data science roles, with dedicated recruiters like Cognizant and ServiceNow.
 *   **Finance & Operations**: Huge demand from the BFSI sector, specifically with Axis Bank, BNY, and S&P Global.

@@ -43,8 +43,7 @@ VGU has an active placement cell that brings top national and multinational bran
 *   **Internships**: Highest stipend offered was ₹50,000 per month.
 *   **Overall Offers**: 1,300+ job opportunities from over 200 participating companies.
 
-#### **Top Recruiters:**
-*   Amazon & Microsoft
+#*   Amazon & Microsoft
 *   Infosys & TCS
 *   Bajaj Finserv & Kotak Life
 *   Deloitte & KPMG

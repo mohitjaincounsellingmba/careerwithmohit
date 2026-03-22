@@ -17,8 +17,6 @@ Sri Balaji University, Pune (SBUP) is legendary in the management education circ
 | **Entrance Accepted** | CAT, MAT, XAT, CMAT, MAH CET |
 | **USP** | Military-like Discipline / 365-Day Model |
 
-### **Top Recruiters:**
-
 ### **What Makes SBUP Unique?**
 *   **Corporate Readiness**: The university runs on a 365-day model, mimicking the corporate workload to prepare students for high-pressure roles.
 *   **100% Placements**: A dedicated placement cell and a massive alumni network ensure every student gets a solid start.

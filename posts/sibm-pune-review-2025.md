@@ -17,8 +17,6 @@ SIBM Pune (Symbiosis Institute of Business Management) is consistently ranked am
 | **Entrance Accepted** | SNAP (98.5+ Percentile) |
 | **Campus Vibe** | Hilltop Lavale / Student-Driven |
 
-### **Top Recruiters:**
-
 ### **Key Reasons to Choose SIBM Pune:**
 *   **Elite Placements**: Top recruiters include McKinsey, BCG, Bain, FMCG giants like HUL and P&G, and Tech leaders like Amazon.
 *   **Campus Life**: Located on a hilltop at Lavale, the campus offers breathtaking views and state-of-the-art sports and academic facilities.

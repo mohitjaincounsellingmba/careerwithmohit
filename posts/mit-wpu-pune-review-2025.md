@@ -13,8 +13,6 @@ MIT-WPU (MIT World Peace University) is one of the most prominent private univer
 *   **Placement Rate**: ~78.5%
 *   **Entrance Exam**: CAT / XAT / NMAT / CMAT / MAH CET / MIT-WPU CET
 
-### **Top Recruiters:**
-
 ### **Why Choose MIT-WPU?**
 *   **Global Exposure**: Strong international tie-ups and semester exchange programs.
 *   **World-Class Infrastructure**: The Kothrud campus is legendary for its academic facilities, labs, and student activity centers.

@@ -17,8 +17,6 @@ The Indira Group of Institutes (IGI) is a household name in Pune's management ed
 | **Entrance Accepted** | MAH MBA CET / CMAT / CAT |
 | **Strategic Edge** | Wakad Location / High Corporate Connect |
 
-### **Top Recruiters:**
-
 ### **Why Students Love Indira:**
 *   **Strategic Location**: Situated near the Mumbai-Pune Expressway and the Hinjewadi IT Park, providing excellent corporate visibility.
 *   **Events & Networking**: Known for 'Indira Brand Equity Awards' and several national-level student fests that build networking skills.

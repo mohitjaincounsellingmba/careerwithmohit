@@ -13,8 +13,6 @@ The Global Business School & Research Centre (GBSRC) is the flagship management 
 *   **Placement Rate**: ~90%+
 *   **Entrance Exam**: CAT / MAT / CMAT / MAH CET / DPU Entrance
 
-### **Top Recruiters:**
-
 ### **Why Choose the University Campus (GBSRC)?**
 *   **University Perks**: Students benefit from the massive multi-disciplinary university environment, including top-tier medical and tech facilities.
 *   **Research Focus**: Encourages students to publish papers and engage in real-world consulting projects.

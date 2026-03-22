@@ -13,8 +13,6 @@ IIEBM (Indus Business School) is one of Pune's most established PGDM institutes,
 *   **Placement Rate**: ~95%+
 *   **Entrance Exam**: CAT / XAT / MAT / CMAT / ATMA / GMAT
 
-### **Top Recruiters:**
-
 ### **The IIEBM Advantage:**
 *   **SAP Certification**: Its PGDM + PGPERP (SAP) program is a major differentiator, making students highly job-ready for specialized consulting roles.
 *   **Military-Grade Discipline**: Focuses heavily on grooming, ethics, and professional conduct.

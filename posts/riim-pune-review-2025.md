@@ -13,8 +13,6 @@ RIIM (Ramachandran International Institute of Management) is often dubbed as one
 *   **Placement Rate**: 96%+
 *   **Entrance Exam**: CAT / XAT / CMAT / MAH-CET / MAT
 
-### **Top Recruiters:**
-
 ### **Why Students Choose RIIM:**
 *   **Focus on ROI**: Low fees combined with decent salary packages make it one of the most accessible top-tier options in Pune.
 *   **Practical Edge**: Offers certifications in Digital Marketing, Business Analytics, and Advanced Excel to make students "corporate ready."

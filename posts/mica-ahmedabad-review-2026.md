@@ -18,8 +18,6 @@ Known as the "Mecca of Strategic Marketing and Communication," **MICA Ahmedabad*
 | **Entrance Accepted** | CAT, XAT, GMAT + **MICAT** (Mandatory) |
 | **Vibe** | Creative, Diverse, and "Micafied" |
 
-### **Top Recruiters:**
-
 ### **The "Micafied" Edge:**
 *   **Unique Pedagogy**: MICA doesn't just teach finance and ops; it dives deep into consumer behavior, digital marketing, and design thinking.
 *   **The MICAT Challenge**: Admission isn't just about high CAT percentiles. MICA evaluates your creativity, psychometric fit, and divergent thinking through the **MICAT** exam.

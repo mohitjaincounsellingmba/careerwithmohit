@@ -17,8 +17,6 @@ PIBM (Pune Institute of Business Management) has carved a niche for itself by fo
 | **Entrance Accepted** | CAT, XAT, MAT, CMAT, MAH CET, PMAT |
 | **Focus Area** | Profile-Based Training / Fintech / Martech |
 
-### **Top Recruiters:**
-
 ### **What Makes PIBM Stand Out?**
 *   **Profile-Based Training**: They train students for specific domains like Fintech, Digital Marketing, and Supply Chain from Day 1.
 *   **Corporate Tie-ups**: Strong partnerships with 500+ corporate leaders ensure the curriculum stays updated.

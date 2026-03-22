@@ -18,8 +18,6 @@ SOIL (School of Inspired Leadership) Gurgaon is renowned for its values-driven e
 | **Placement Index** | 93% (Current Batch) |
 | **Total Participating Companies**| 64+ (Ongoing) |
 
-### **Top Recruiters at SOIL Gurgaon:**
-
 ### **Sector-Wise Placement Breakdown:**
 *   **Engineering & IT**: Large recruitment volume from Capgemini, Infosys, and Intellect Design for management and tech-leadership roles.
 *   **BFSI & FinTech**: Significant interest from HDFC Bank and ICICI Bank, as well as FinTech firms looking for business growth and product analyst profiles.

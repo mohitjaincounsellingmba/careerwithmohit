@@ -42,8 +42,7 @@ MUJ has a centralized placement cell that works tirelessly to bring top-tier com
 *   **Average Package**: ₹7.70 LPA
 *   **Highest Package**: ₹25.00 LPA (Overall University highest is ₹88 LPA, mostly for engineering, but MBA students also grab lucrative roles in top MNCs).
 
-#### **Top Recruiters for Management:**
-*   Goldman Sachs
+#*   Goldman Sachs
 *   Accenture
 *   Amazon
 *   Bosch

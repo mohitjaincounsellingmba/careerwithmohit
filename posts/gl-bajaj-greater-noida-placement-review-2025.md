@@ -18,8 +18,6 @@ GL Bajaj Institute of Management and Research (GLBIMR) at Greater Noida is a pow
 | **Companies Visited**| 600+ |
 | **Placement Index** | 86% |
 
-### **Top Recruiters at GL Bajaj:**
-
 ### **Sector-Wise Placement Breakdown:**
 *   **Tech & FinTech**: High volume and massive package offers from Meesho, Hike, and Razorpay for growth and operations.
 *   **BFSI & FinServ**: Top global banks like JPMorgan Chase and American Express hire for financial analyst and investment roles.

@@ -43,8 +43,7 @@ JECRC University is renowned for hosting mega placement drives. With over 140+ c
 *   **Average Package**: ₹6.00 LPA
 *   **Number of Offers**: 2,200+ overall university offers.
 
-#### **Top Recruiters for Management:**
-*   Amazon
+#*   Amazon
 *   Deloitte
 *   PwC
 *   Accenture

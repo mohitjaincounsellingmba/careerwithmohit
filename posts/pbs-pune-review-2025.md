@@ -13,8 +13,6 @@ Pune Business School (PBS) is part of the PCET group (Pimpri Chinchwad Education
 *   **Placement Rate**: 97% (Batch of 2024-25)
 *   **Entrance Exam**: CAT / XAT / MAT / CMAT / MAH CET
 
-### **Top Recruiters:**
-
 ### **Why Choose PBS Pune?**
 *   **The PCET Legacy**: Benefit from the trust established by one of Pune's most successful education groups over 30 years.
 *   **Placement Focus**: Their centralized placement cell is one of the most active in Maharashtra, attracting tech and consulting giants.
