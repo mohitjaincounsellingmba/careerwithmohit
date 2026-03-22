@@ -71,6 +71,7 @@ export function Footer() {
           <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Resources</h3>
             <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/tools/btech-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black italic">B.Tech Predictor</Link></li>
               <li><Link href="/tools/case-study-generator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Case Study Gen</Link></li>
               <li><Link href="/tools/mat-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAT Predictor</Link></li>
               <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock</Link></li>
