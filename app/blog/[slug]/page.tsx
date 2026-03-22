@@ -203,10 +203,30 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               ),
               img: ({ node, src, alt, ...props }) => {
                 if (!src) return null;
+                const srcString = src as string;
+
+                // Detect if this is a logo/icon (usually from google, unavatar, logo.dev etc)
+                // These should NOT be wrapped in the giant 600px hero container
+                const isIcon = srcString.includes('favicon') || 
+                              srcString.includes('logo') || 
+                              srcString.includes('unavatar') || 
+                              srcString.includes('icon') ||
+                              srcString.includes('gstatic');
+
+                if (isIcon) {
+                   return <img 
+                    src={srcString} 
+                    alt={alt || "Logo"} 
+                    className="inline-block" 
+                    style={{ height: 'auto', maxWidth: '100%', borderRadius: '8px' }} 
+                    {...props} 
+                  />;
+                }
+
                 return (
                   <div className="my-16 relative w-full h-[400px] md:h-[600px] border-8 border-foreground rounded-xl overflow-hidden shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
                     <Image
-                      src={src as string}
+                      src={srcString}
                       alt={alt || "Blog Image"}
                       fill
                       className="object-cover"
