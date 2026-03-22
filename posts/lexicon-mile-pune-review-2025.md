@@ -15,10 +15,10 @@ Lexicon Management Institute of Leadership & Excellence (MILE) is part of the Le
 
 ### **Top Recruiters:**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://unavatar.io/apple.com" alt="Apple" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://unavatar.io/ey.com" alt="EY" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://unavatar.io/hsbc.com" alt="HSBC" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
-  <img src="https://unavatar.io/kpmg.com" alt="KPMG" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://www.google.com/s2/favicons?sz=128&domain=apple.com" alt="Apple" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://www.google.com/s2/favicons?sz=128&domain=ey.com" alt="EY" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://www.google.com/s2/favicons?sz=128&domain=hsbc.com" alt="HSBC" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
+  <img src="https://www.google.com/s2/favicons?sz=128&domain=kpmg.com" alt="KPMG" style="width: 100px; height: auto; border: 1px solid #eee; padding: 10px; border-radius: 8px;" />
 </div>
 
 ### **Why Choose Lexicon MILE?**
