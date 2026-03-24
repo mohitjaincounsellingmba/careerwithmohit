@@ -103,7 +103,6 @@ export function Footer() {
               <li><Link href="/calculator/startup" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black">Startup Valuation</Link></li>
               <li><Link href="/tools/mba-roi-calculator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-rose-500 font-bold">MBA ROI Auditor</Link></li>
               <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG 2026</Link></li>
-              <li><Link href="/calculator/jee-main-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Main 2026</Link></li>
               <li><Link href="/calculator/career-roadmap" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Roadmap Gen</Link></li>
             </ul>
           </div>
