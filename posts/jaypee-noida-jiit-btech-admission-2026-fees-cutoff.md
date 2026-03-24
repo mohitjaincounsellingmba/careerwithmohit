@@ -51,3 +51,14 @@ Looking for other top options in Noida/Delhi?
 For many students, JIIT CSE is a better career move than a lower NIT core branch. At **CareerWithMohit**, we analyze your future role aspirations to help you decide between a specialized private brand and a government institution.
 
 [👉 Get Expert Admission Support for JIIT Noida!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Is JIIT Noida a government college?**
+No, JIIT is a self-funded Deemed University. However, it is highly respected for its engineering curriculum.
+
+**2. What is the difference between Sector 62 and Sector 128 campus?**
+Sector 62 is the main campus with more departments. Sector 128 is an expansion campus but shares common placement processes.
+
+**3. Is there a hostel facility at JIIT?**
+Yes, JIIT provides well-maintained hostels for both boys and girls at its Sector 62 and Sector 128 campuses.
+

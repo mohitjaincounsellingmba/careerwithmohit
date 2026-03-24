@@ -49,3 +49,14 @@ Explore other top NCR private universities:
 Sushant's B.Tech programs are famous for integrating "Human-Centric Design" into the core technology curriculum. At **CareerWithMohit**, we help you decide if a design-integrated B.Tech is better for your career than a traditional engineering degree.
 
 [👉 Get Expert Admission Guidance for Sushant University!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. What is the unique selling point of Sushant University?**
+Its integration of design-thinking across all engineering streams set it apart from traditional tech universities.
+
+**2. Is Sushant University same as Ansal University?**
+Yes, it was formerly known as Ansal University.
+
+**3. Where is Sushant University located?**
+It is situated at a prime location on Golf Course Road in Sector 55, Gurugram.
+

@@ -48,3 +48,14 @@ Explore other top engineering options in Uttarakhand:
 Quantum's "Passion Programs" are a major draw for students interested in arts, music, or sports while pursuing a B.Tech degree. At **CareerWithMohit**, we help you decide if an interdisciplinary engineering model is the right fit for your personality.
 
 [👉 Get Expert Admission Guidance for Quantum University!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. What are Passion Programs at Quantum?**
+These allow students to major in engineering while minoring in areas like music, dance, photography, or theatre.
+
+**2. Is Quantum University good for CSE?**
+It is highly popular for its AI and Machine Learning specializations.
+
+**3. Does Quantum offer direct admission?**
+Yes, students with very high 10+2 marks can apply for direct merit-based admission for specific seats.
+

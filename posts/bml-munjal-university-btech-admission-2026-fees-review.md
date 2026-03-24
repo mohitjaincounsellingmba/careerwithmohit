@@ -49,3 +49,14 @@ Explore other top NCR private universities:
 Being a "Hero Group" university, BML Munjal offers unparalleled internship access to manufacturing and automotive giants. At **CareerWithMohit**, we help you decide if the "experiential learning" model of BMU is worth the higher tuition fee compared to other private institutions.
 
 [👉 Get Expert Admission Guidance for BML Munjal!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. What is the Hero Group connection with BML Munjal?**
+The university is founded by the Hero Group and focuses on industrial excellence.
+
+**2. What does the Imperial College London mentorship mean?**
+The curriculum and academic practices are guided by Imperial College London, ensuring world-class standards.
+
+**3. Is BMU-SAT compulsory?**
+No, you can also join via JEE Main or CUET scores, though BMU-SAT is helpful for scholarship consideration.
+

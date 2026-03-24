@@ -46,3 +46,14 @@ Explore other top engineering options in Uttarakhand:
 COER is often preferred for its slightly more established brand name and academic rigor, while Quantum is known for its modern curriculum. At **CareerWithMohit**, we help you decide which Roorkee-based college is the right fit for your career goals.
 
 [👉 Get Expert Admission Guidance for COER Roorkee!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Is COER University the same as the College of Engineering Roorkee?**
+Yes, the College of Engineering Roorkee (CORE) is now known as COER University.
+
+**2. How does COER compare to Quantum?**
+COER is older and more traditionally engineering-focused, while Quantum is known for its interdisciplinary approach.
+
+**3. What is the highest package at COER?**
+The highest package recorded for the recent batch was ₹44 LPA.
+

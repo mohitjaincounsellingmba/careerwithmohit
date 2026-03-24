@@ -50,3 +50,14 @@ Explore other top engineering options in the NCR:
 While Greater Noida is the hub for B.Tech specializations, the Gurugram campus is perfect for those who want proximity to major corporate headquarters in the CSR and tech sector. At **CareerWithMohit**, we help you pick the right IILM campus based on your career goals.
 
 [👉 Get Expert Admission Guidance for IILM University!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Does IILM University participate in UPTAC?**
+Yes, the Greater Noida campus participates in the official AKTU (UPTAC) counselling process.
+
+**2. Is the degree from Gurugram vs Greater Noida different?**
+Both are from IILM University, but the campuses offer different specializations and atmospheres.
+
+**3. What is the highest package at IILM?**
+The highest package recent reached ₹26 LPA at the Greater Noida campus.
+

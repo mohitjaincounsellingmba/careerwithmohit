@@ -56,3 +56,14 @@ Maharashtra has many autonomous institutes (COEP, VJTI, ICT) which have their ow
 The MHT-CET "State Merit Number" system is very specific. At **CareerWithMohit**, we help you decide which order of preferences to fill based on your percentile and domicile status.
 
 [👉 Get Expert MHT-CET Counselling Guidance!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Can I get COEP through JEE Main score?**
+Yes, 15% of seats in most Maharashtra private colleges are open for All India candidates through JEE Main, though COEP has its own allotment criteria under All India merit.
+
+**2. What is the registration fee for MHT-CET counselling?**
+Usually around ₹800 for general candidates.
+
+**3. How many CAP rounds are held?**
+Typically there are three CAP rounds followed by an additional institutional-level round for vacant seats.
+

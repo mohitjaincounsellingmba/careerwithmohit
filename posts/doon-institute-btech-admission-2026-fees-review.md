@@ -38,3 +38,14 @@ Explore other top engineering options in Uttarakhand:
 Dehradun has multiple institutes with the 'Doon' name. At **CareerWithMohit**, we help you distinguish between the State Government's Doon University and private institutes like DIET to ensure you apply to the right one for your B.Tech goals.
 
 [👉 Get Expert Admission Guidance for Doon Institute!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Is Doon Institute affordable?**
+Yes, it is one of the most budget-friendly private engineering options in Dehradun with a total fee under ₹4 Lakhs.
+
+**2. Is it affiliated with a government university?**
+Yes, it is affiliated with Uttarakhand Technical University (UTU), Dehradun.
+
+**3. What is the placement scenario at DIET?**
+Placements are solid for local industries, with top service companies frequently recruiting through pool drives.
+

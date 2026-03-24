@@ -49,3 +49,14 @@ Explore other top NCR private universities:
 Bennett offers generous scholarships up to 100% of the tuition fee for high achievers (95+ Percentile in JEE). At **CareerWithMohit**, we help you calculate your final scholarship-adjusted ROI to see if Bennett is the right fit for your budget.
 
 [👉 Get Expert Admission Support for Bennett University!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Is Bennett University worth the high fees?**
+If your goal is top-tier placement and a global tech environment, Bennett offers excellent ROI with its massive industry connections.
+
+**2. Can I get a 100% scholarship at Bennett?**
+Yes, high achievers with 95+ percentile in JEE or 95%+ in 10+2 (best of 3) are eligible for significant tuition fee waivers.
+
+**3. Which group owns Bennett University?**
+The university is owned and backed by the Times of India Group.
+

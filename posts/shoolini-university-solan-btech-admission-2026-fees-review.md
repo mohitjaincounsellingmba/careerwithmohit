@@ -49,3 +49,14 @@ Explore other top engineering options in the Himalayan/North region:
 Shoolini is often the preferred choice for students who want to enter research and development (R&D) or higher studies. At **CareerWithMohit**, we help you decide if the research-focused B.Tech model at Shoolini is the right fit for your future goals.
 
 [👉 Get Expert Admission Guidance for Shoolini University!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Is Shoolini University globally ranked?**
+Yes, it is ranked among the top 100 in NIRF and consistently features in QS World University Rankings.
+
+**2. What is the climate like at Shoolini?**
+Located in the hills of Solan, the climate is temperate and cool throughout the year.
+
+**3. Can I join Shoolini through JEE Main?**
+Yes, Shoolini accepts JEE Main, CUET, and its own SU-SAT scores for admission.
+

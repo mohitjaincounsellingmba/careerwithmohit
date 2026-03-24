@@ -54,3 +54,14 @@ In the first round, if you don't get your dream branch in a top college, always 
 UPTAC has hundreds of colleges, and choosing the right one can be overwhelming. At **CareerWithMohit**, we provide a branch-wise preference list customized for your JEE Main rank.
 
 [👉 Get Expert UPTAC Counselling Support!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. When will UPTAC 2026 registration start?**
+Usually starts in June or July after the result declaration of JEE Main Session 2.
+
+**2. What is the registration fee for UPTAC?**
+The fee is ₹1,000 for all candidates.
+
+**3. Can outside-UP students apply for government seats in AKTU?**
+No, government college seats are reserved for students with UP domicile. Outside state students are eligible for private college seats.
+

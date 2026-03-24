@@ -52,3 +52,14 @@ Plan your JEE journey with our other resources:
 Securing a seat in IIT Delhi CSE requires not just hard work, but a strategic approach to the JEE Advanced pattern. At **CareerWithMohit**, we provide branch-priority analysis to help you decide between IIT Delhi core branches and newer IIT CSE branches.
 
 [👉 Get Expert JEE Advanced Counselling Support!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. What JEE Advanced rank is needed for IIT Delhi CSE?**
+For the general category, an All India Rank (AIR) under 100 is typically required for CSE at IIT Delhi.
+
+**2. Is there a hostel shortage at IIT Delhi?**
+IIT Delhi works hard to accommodate all students, but priority is given based on seniority and distance from home.
+
+**3. What is the fee for B.Tech at IIT Delhi per semester?**
+The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC students, with full waivers for SC/ST and income-based concessions for others.
+

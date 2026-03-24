@@ -51,3 +51,14 @@ Explore other top colleges in Delhi-NCR:
 GGSIPU uses your All India Rank (AIR) but applies a separate state quota. At **CareerWithMohit**, we help you calculate your chances for a CSE seat at MSIT based on the 85% home state reservation.
 
 [👉 Get Personalised Admission Guidance for MSIT!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. How is the metro connectivity for MSIT?**
+MSIT is located in Janakpuri, within walking distance from the Janakpuri West and Janakpuri East metro stations, making it very accessible.
+
+**2. What is the fee for B.Tech at MSIT Delhi in 2026?**
+The annual tuition fee is approximately ₹1.17 Lakhs, which is consistent across most GGSIPU private colleges.
+
+**3. Is there a dress code at MSIT?**
+MSIT maintains a decent academic environment, and while there isn't a strict uniform, students are expected to follow basic campus decorum.
+

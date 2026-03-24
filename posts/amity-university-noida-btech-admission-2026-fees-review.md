@@ -48,3 +48,14 @@ Explore other top engineering options in the NCR:
 Amity offers choice-based seat allocation under two categories. At **CareerWithMohit**, we help you decide if the higher investment for a "sponsored" seat is justified for your career goals.
 
 [👉 Get Expert Admission Guidance for Amity Noida!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Is Amity Noida the main campus?**
+Yes, the Noida campus is the flagship campus of Amity University.
+
+**2. What is the average package at Amity Noida for B.Tech?**
+The average package for CSE students is around ₹9.6 LPA, with an overall campus average of ₹6.5 LPA.
+
+**3. Does Amity have an entrance test?**
+Admission is typically based on 10+2 merit and JEE scores, often followed by a personal interview.
+

@@ -52,3 +52,14 @@ Looking for more NIT and IIT options?
 For Delhi students, deciding between an NIT brand and the "local powerhouses" like DTU or NSUT is difficult. At **CareerWithMohit**, we evaluate your category advantage and branch preference to ensure you get the best seat in the NCR.
 
 [👉 Get Expert Admission Support for NIT Delhi!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Does NIT Delhi have its own permanent campus?**
+Yes, NIT Delhi has moved to its permanent campus in Narela, North Delhi, featuring state-of-the-art labs and hostels.
+
+**2. What was the highest package at NIT Delhi for the 2025 batch?**
+The highest package stood at ₹82 LPA, with a strong average of ₹17.72 LPA for CSE students.
+
+**3. Which entrance exam is needed for NIT Delhi?**
+Admission is strictly through JEE Main 2026 and JoSAA/CSAB counselling.
+

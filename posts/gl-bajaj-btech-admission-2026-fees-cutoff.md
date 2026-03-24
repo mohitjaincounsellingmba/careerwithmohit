@@ -49,3 +49,14 @@ Explore other AKTU engineering options:
 Deciding between GL Bajaj and Galgotias for CSE is a common struggle for AKTU aspirants. At **CareerWithMohit**, we break down the placement trends of both institutions to help you find the best ROI-based fit for 2026.
 
 [👉 Get Personalised Admission Guidance for GL Bajaj!](/inquiry)
+
+### **Frequently Asked Questions (FAQ)**
+**1. Where is GL Bajaj Greater Noida located?**
+The institute is located in Knowledge Park III, Greater Noida, which is a massive educational and corporate hub.
+
+**2. What is the highest package at GL Bajaj in 2025?**
+The highest domestic package touched ₹44 LPA, with several students securing 10+ LPA offers.
+
+**3. Is direct admission possible in GL Bajaj?**
+Yes, a small percentage of seats are filled under the management quota based on merit and JEE Main score.
+
