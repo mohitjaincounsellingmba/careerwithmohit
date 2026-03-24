@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Compass, Instagram, Linkedin } from 'lucide-react';
+import { Compass, Instagram, Linkedin, Facebook, Youtube } from 'lucide-react';
 import CollegeDataFetcher from './CollegeDataFetcher';
 import JobSalaryTool from './JobSalaryTool';
 
@@ -25,6 +25,45 @@ export function Footer() {
             <p className="text-gray-300 text-lg max-w-sm leading-relaxed font-medium">
               Empowering professionals to navigate their career paths with clarity, confidence, and purpose.
             </p>
+
+            <div className="flex gap-4 mt-6">
+              <a 
+                href="https://www.instagram.com/careerwithmohit.online/" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="bg-gray-800 p-2 rounded-full hover:bg-primary transition-all hover:scale-110"
+                aria-label="Instagram"
+              >
+                <Instagram size={20} />
+              </a>
+              <a 
+                href="https://www.linkedin.com/company/career-with-mohit" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="bg-gray-800 p-2 rounded-full hover:bg-primary transition-all hover:scale-110"
+                aria-label="LinkedIn"
+              >
+                <Linkedin size={20} />
+              </a>
+              <a 
+                href="https://www.facebook.com/profile.php?id=61575525271998" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="bg-gray-800 p-2 rounded-full hover:bg-primary transition-all hover:scale-110"
+                aria-label="Facebook"
+              >
+                <Facebook size={20} />
+              </a>
+              <a 
+                href="https://www.youtube.com/@careerwithmohit.online" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="bg-gray-800 p-2 rounded-full hover:bg-primary transition-all hover:scale-110"
+                aria-label="YouTube"
+              >
+                <Youtube size={20} />
+              </a>
+            </div>
             
             {/* TOOLS SECTION */}
             <div className="mt-8 space-y-6 max-w-xs">
@@ -78,7 +117,7 @@ export function Footer() {
               <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock</Link></li>
               <li>
                 <a
-                  href="https://www.linkedin.com/company/career-with-mohit/?viewAsMember=true"
+                  href="https://www.linkedin.com/company/career-with-mohit"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary flex items-center gap-2 group transition-colors"
@@ -89,13 +128,35 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://www.instagram.com/collegereviews.in"
+                  href="https://www.instagram.com/careerwithmohit.online/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary flex items-center gap-2 group transition-colors"
                 >
                   <Instagram className="h-4 w-4 group-hover:scale-110 transition-transform" />
                   Instagram
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.facebook.com/profile.php?id=61575525271998"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-primary flex items-center gap-2 group transition-colors"
+                >
+                  <Facebook className="h-4 w-4 group-hover:scale-110 transition-transform" />
+                  Facebook
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/@careerwithmohit.online"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-primary flex items-center gap-2 group transition-colors"
+                >
+                  <Youtube className="h-4 w-4 group-hover:scale-110 transition-transform" />
+                  YouTube
                 </a>
               </li>
             </ul>
