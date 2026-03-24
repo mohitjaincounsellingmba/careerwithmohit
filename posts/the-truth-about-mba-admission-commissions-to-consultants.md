@@ -16,15 +16,15 @@ At **CareerWithMohit**, we believe in total transparency. For the first time, we
 ### **The Industry Reality: What is a 'Per-Student' Commission?**
 Many private MBA and PGDM colleges across India operate on a B2B (Business-to-Business) model with consultants. When a consultant "converts" a student and ensures they pay the first installment of fees, the college pays a **success fee** to the agent.
 
-### **The Commission Breakdown: 2026 Estimates**
+### **The Commission Breakdown: 2026 Industry Estimates**
 
-| College Tier | Commission Per Admission | Why They Pay? |
-| :--- | :--- | :--- |
-| **Tier 1 (IIMs, FMS, XLRI, MDI)** | **₹0** | Elite brand power. They don't need agents. |
-| **High Tier 2 (IMT, IMI, GIM)** | **₹0 - ₹20,000 (Rare)** | Very low or zero agent reliance. Merit-driven. |
-| **Standard Private PGDM (NCR/Pune)** | **₹50,000 - ₹80,000** | High competition. They need agents to fill seats. |
-| **Aggressive Marketing Universities** | **₹1.0 Lakh - ₹1.75 Lakh** | High intake (1,000+ seats). Massive marketing budgets. |
-| **New/Weak Private Colleges** | **Up to ₹2.0 Lakh+** | Desperate for survival. Most marketing budget goes to agents. |
+| Category | Example Colleges | Commission Per Admission | The 'Why' |
+| :--- | :--- | :--- | :--- |
+| **Tier 1 (Elite)** | **IIMs, FMS, XLRI, MDI, SPJIMR, SJMSOM** | **₹0** | Elite brand power. Pure merit-driven admission. |
+| **High Tier 2** | **IMT Ghaziabad, IMI Delhi, FORE, GIM Goa** | **₹0 - ₹20,000** | High brand prestige. No dependency on agents. |
+| **Standard Private** | **NDIM, FOSTIIMA, JIMS, Jaipuria, BIMTECH (Bhub.)** | **₹50,000 - ₹90,000** | Competitive private market. Agents help fill high intake. |
+| **Mass Universities** | **LPU, Amity Univ, Chandigarh Univ, GLA Univ** | **₹1.0L - ₹1.7L** | Massive marketing budgets focus on bulk admissions. |
+| **Direct Admission Hubs** | **New Private B-Schools in NCR / Bangalore / Pune** | **₹1.8L - ₹2.5L+** | Desperate for seats. Often sold as "Management Quota." |
 
 ---
 
