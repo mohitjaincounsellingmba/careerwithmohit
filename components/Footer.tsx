@@ -110,7 +110,8 @@ export function Footer() {
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Resources</h3>
             <ul className="space-y-4 text-base font-medium">
               <li><Link href="/tools/cuet-pg-mba-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-blue-500 font-black italic">CUET PG Predictor</Link></li>
-              <li><Link href="/tools/btech-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black italic">B.Tech Predictor</Link></li>
+               <li><Link href="/tools/btech-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black italic">B.Tech Predictor</Link></li>
+               <li><Link href="/tools/salary-auditor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-emerald-500 font-black italic">Salary Auditor.</Link></li>
               <li><Link href="/tools/mat-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAT Predictor</Link></li>
               <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock</Link></li>
               <li>
