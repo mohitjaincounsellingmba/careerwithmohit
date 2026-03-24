@@ -40,6 +40,22 @@ Frequently, students on satellite campuses have to travel hours to the main camp
 
 ---
 
+### **The Blacklist: Major Colleges with Pool Placements (2026)**
+If you are considering any of the following institutes, check if you are being admitted to the **Flagship Campus**. If not, be extremely cautious about the "Common Pool" promise:
+
+1.  **Christ University**: All campuses (Bangalore Central, Kengeri, Yeshwanthpur, Pune Lavasa, Delhi-NCR) participate in a centralized placement process.
+2.  **Amity University**: Amity Noida acts as the hub, with students from Gurgaon, Gwalior, and Jaipur often pooled for major recruitment drives.
+3.  **Jaipuria Institute of Management**: Its campuses in Noida, Lucknow, Jaipur, and Indore operate under a "Unanimous Placement" model.
+4.  **IBS (ICFAI Business School)**: Famous for its centralized "Mega Placement" event where thousands of students from all 9 campuses descend upon Hyderabad.
+5.  **IILM University**: Students from Lodhi Road, Gurugram, and Greater Noida are often combined for corporate drives.
+6.  **Lovely Professional University (LPU)**: Massive centralized placements with exceptionally high student volume.
+7.  **Chandigarh University**: Similar to LPU, it operates on a high-volume centralized model.
+8.  **JIMS (Jagannath Institute)**: While campuses like Rohini and Kalkaji have their own cells, they often pool for the biggest MNC recruiters.
+9.  **Indira Group (Pune)**: Multiple campuses under the Indira brand (ISBS, IIMP, etc.) often share a common placement pool.
+10. **ISB&M (Pune/Kolkata/Bangalore)**: Frequently uses a common placement platform for its national campuses.
+
+---
+
 ### **What Should You Do Instead?**
 Instead of falling for the "Brand Pool," look for:
 1.  **Independent Placement Cells**: Colleges with a smaller, dedicated placement team that only manages 120-240 students.
@@ -56,7 +72,7 @@ Instead of falling for the "Brand Pool," look for:
 Not always, but they are high-risk. If you are a 9/9/9 profile student, you might survive. For an average student, pool placements are a career-killer.
 
 **2. Which colleges have pool placements?**
-Many large private universities like Amity, Christ University, and several JIMS/BIMTECH campuses use centralized placement models for their satellite branches.
+As listed above, major names include Amity, Christ, IBS, and Jaipuria. Always ask the admission counselor: "Will I have a dedicated placement cell for MY campus?"
 
 **3. Is "Centralized Placement" different from "Pool Placement"?**
 They are essentially the same. "Centralized" means the main campus placement cell manages everyone, which leads to the high-volume competition mentioned above.
