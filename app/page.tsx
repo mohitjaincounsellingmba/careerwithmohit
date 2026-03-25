@@ -191,6 +191,36 @@ export default function Home() {
               </div>
             </div>
           </div>
+
+          {/* TOP RECRUITERS MOCKUP */}
+          <div className="mt-24 border-t-4 border-white/10 pt-16">
+            <h4 className="text-center font-black uppercase tracking-[0.2em] text-accent mb-12 text-sm">
+              Companies Hiring Our 2026 Verified Batch
+            </h4>
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8 items-center opacity-70 grayscale transition-all hover:grayscale-0">
+              <div className="flex flex-col items-center">
+                <span className="text-2xl font-black italic tracking-tighter text-white">Deloitte.</span>
+              </div>
+              <div className="flex flex-col items-center">
+                <span className="text-3xl font-bold tracking-tight text-white border-b-2 border-primary pb-1">KPMG</span>
+              </div>
+              <div className="flex flex-col items-center">
+                <span className="text-2xl font-black text-rose-500 tracking-tighter shadow-sm">accenture</span>
+              </div>
+              <div className="flex flex-col items-center">
+                <span className="text-2xl font-extrabold tracking-tight text-white">amazon<span className="text-accent"></span></span>
+              </div>
+              <div className="flex flex-col items-center">
+                <span className="text-2xl font-black text-white italic">HDFC BANK</span>
+              </div>
+              <div className="flex flex-col items-center">
+                <span className="text-2xl font-black text-white">TATA <span className="text-primary font-normal">MOTORS</span></span>
+              </div>
+            </div>
+            <p className="text-center mt-12 text-gray-500 font-bold italic">
+               & More 500+ Global Partners ...
+            </p>
+          </div>
         </div>
       </section>
 
