@@ -61,18 +61,43 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
   }, [colleges]);
 
   const categories = ["All Streams", "Management", "Engineering", "UG Courses"];
-  
+
+  // Course options scoped by selected category
+  const managementCourses = ["All Courses", "MBA", "PGDM", "BBA"];
+  const engineeringCourses = useMemo(() => {
+    const courses = new Set<string>();
+    colleges
+      .filter(c => c.category === "Engineering")
+      .forEach(c => c.courses.forEach(course => courses.add(course)));
+    return ["All Courses", ...Array.from(courses).sort()];
+  }, [colleges]);
+  const ugCourses = useMemo(() => {
+    const courses = new Set<string>();
+    colleges
+      .filter(c => c.category === "UG Courses")
+      .forEach(c => c.courses.forEach(course => courses.add(course)));
+    return ["All Courses", ...Array.from(courses).sort()];
+  }, [colleges]);
   const allPossibleCourses = useMemo(() => {
     const courses = new Set<string>();
     colleges.forEach(c => c.courses.forEach(course => courses.add(course)));
     return ["All Courses", ...Array.from(courses)].sort();
   }, [colleges]);
 
+  const courseOptionsForCategory = useMemo(() => {
+    if (selectedCategory === "Management") return managementCourses;
+    if (selectedCategory === "Engineering") return engineeringCourses;
+    if (selectedCategory === "UG Courses") return ugCourses;
+    return allPossibleCourses;
+  }, [selectedCategory, managementCourses, engineeringCourses, ugCourses, allPossibleCourses]);
+
   const allPossibleExams = useMemo(() => {
     const exams = new Set<string>();
-    colleges.forEach(c => (c.exams || []).forEach(exam => exams.add(exam)));
+    // Scope exams to selected category
+    const source = selectedCategory === "All Streams" ? colleges : colleges.filter(c => c.category === selectedCategory);
+    source.forEach(c => (c.exams || []).forEach(exam => exams.add(exam)));
     return ["All Exams", ...Array.from(exams)].sort();
-  }, [colleges]);
+  }, [colleges, selectedCategory]);
 
   const feeRanges = ["All Fees", "< 1 Lakh", "1-5 Lakhs", "5-10 Lakhs", "10-20 Lakhs", "> 20 Lakhs"];
   const rankingOptions = ["All Rankings", "Top 10", "Top 50", "Top 100"];
@@ -249,7 +274,14 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
               <div className="relative group">
                 <select 
                   value={selectedCategory}
-                  onChange={(e) => setSelectedCategory(e.target.value)}
+                  onChange={(e) => {
+                    const val = e.target.value;
+                    setSelectedCategory(val);
+                    setSelectedCourse("All Courses");
+                    setSelectedExam("All Exams");
+                    // Auto-open filters panel when a stream is chosen
+                    if (val !== "All Streams") setShowFilters(true);
+                  }}
                   className="appearance-none bg-blue-600 text-white pl-8 pr-12 py-5 rounded-[2rem] font-black uppercase tracking-widest text-xs shadow-lg shadow-blue-200 hover:bg-blue-700 transition-all cursor-pointer min-w-[180px]"
                 >
                   {categories.map(cat => <option key={cat} value={cat} className="bg-white text-slate-900">{cat}</option>)}
@@ -279,14 +311,25 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
           {/* Expanded Advanced Filters */}
           {showFilters && (
             <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 animate-in fade-in slide-in-from-top-4 duration-500">
-              <FilterGroup label="Course" icon={<GraduationCap className="w-3.5 h-3.5" />}>
+              <FilterGroup 
+                label={selectedCategory === "Management" ? "Course / Programme" : "Course"} 
+                icon={<GraduationCap className="w-3.5 h-3.5" />}
+                highlight={selectedCategory === "Management"}
+              >
                 <select 
                   value={selectedCourse}
                   onChange={(e) => setSelectedCourse(e.target.value)}
-                  className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm"
+                  className={`w-full border rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm ${
+                    selectedCategory === "Management"
+                      ? "bg-blue-50 border-blue-200 focus:ring-blue-200"
+                      : "bg-slate-50 border-slate-200"
+                  }`}
                 >
-                  {allPossibleCourses.map(course => <option key={course} value={course}>{course}</option>)}
+                  {courseOptionsForCategory.map(course => <option key={course} value={course}>{course}</option>)}
                 </select>
+                {selectedCategory === "Management" && (
+                  <p className="text-[10px] text-blue-500 font-semibold mt-1 ml-1">Showing management programmes only</p>
+                )}
               </FilterGroup>
               
               <FilterGroup label="State" icon={<MapPin className="w-3.5 h-3.5" />}>
@@ -425,10 +468,12 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
   );
 }
 
-function FilterGroup({ label, icon, children }: { label: string, icon?: React.ReactNode, children: React.ReactNode }) {
+function FilterGroup({ label, icon, children, highlight }: { label: string, icon?: React.ReactNode, children: React.ReactNode, highlight?: boolean }) {
   return (
     <div className="space-y-2">
-      <label className="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 ml-1 flex items-center gap-1.5">
+      <label className={`text-[10px] font-black uppercase tracking-[0.2em] ml-1 flex items-center gap-1.5 ${
+        highlight ? "text-blue-500" : "text-slate-400"
+      }`}>
         {icon}
         {label}
       </label>
