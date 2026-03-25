@@ -18,9 +18,11 @@ export interface CollegeMetadata {
   fees: string;
   avg_placement: string;
   highest_placement: string;
+  lowest_placement: string; // Added field
   exams: string[];
   brochure_url: string;
   website: string;
+  top_recruiters?: string[]; // Added optional field
 }
 
 export interface College extends CollegeMetadata {

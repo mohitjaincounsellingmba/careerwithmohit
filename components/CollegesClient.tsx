@@ -3,7 +3,7 @@
 import { useState, useMemo } from "react";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CollegeCard } from "@/components/CollegeCard";
-import { Search, SlidersHorizontal, X } from "lucide-react";
+import { Search, SlidersHorizontal, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles } from "lucide-react";
 
 export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
   const [searchQuery, setSearchQuery] = useState("");
@@ -155,209 +155,284 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
     });
   }, [searchQuery, selectedCategory, selectedCourse, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, colleges, locationMap]);
 
-  return (
-    <div className="min-h-screen bg-slate-50 py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-7xl mx-auto">
-        <div className="text-center mb-12">
-          <h1 className="text-4xl sm:text-6xl font-black text-slate-900 mb-6 tracking-tighter uppercase italic">
-            Find Your <span className="bg-primary text-white px-3 py-1 -rotate-1 inline-block border-4 border-foreground shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">Dream</span> College
-          </h1>
-          <p className="text-xl font-bold text-slate-600 max-w-2xl mx-auto leading-tight">
-            Comprehensive guide to top universities and institutes. B.Tech, MBA, BBA, and BCA—all in one place.
-          </p>
-        </div>
+  const resetFilters = () => {
+    setSelectedCategory("All Streams");
+    setSelectedCourse("All Courses");
+    setSelectedState("All States");
+    setSelectedCity("All Cities");
+    setSelectedOwnership("All Types");
+    setSelectedExam("All Exams");
+    setSelectedFeeRange("All Fees");
+    setSelectedRanking("All Rankings");
+    setSearchQuery("");
+  };
 
+  const activeFiltersCount = [
+    selectedCategory !== "All Streams",
+    selectedCourse !== "All Courses",
+    selectedState !== "All States",
+    selectedCity !== "All Cities",
+    selectedOwnership !== "All Types",
+    selectedExam !== "All Exams",
+    selectedFeeRange !== "All Fees",
+    selectedRanking !== "All Rankings",
+  ].filter(Boolean).length;
+
+  return (
+    <div className="min-h-screen bg-slate-50/50">
+      {/* Premium Hero Section */}
+      <section className="relative pt-24 pb-32 overflow-hidden bg-slate-900">
+        <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-20"></div>
+        <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-blue-600/20 to-transparent"></div>
+        
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <div className="text-center">
+            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 text-xs font-bold uppercase tracking-widest mb-8 animate-fade-in">
+              <Sparkles className="w-3.5 h-3.5" />
+              <span>Verified Data for 2026 Admissions</span>
+            </div>
+            
+            <h1 className="text-5xl md:text-7xl font-black text-white mb-8 tracking-tighter leading-tight italic">
+              Empowering Your <br className="hidden md:block" />
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">Academic Journey</span>
+            </h1>
+            
+            <p className="text-xl text-slate-400 max-w-3xl mx-auto leading-relaxed mb-12 font-medium">
+              Discover, compare, and apply to over 200+ top-tier institutes across India. 
+              Get accurate data on fees, placements, and rankings in one place.
+            </p>
+
+            {/* Quick Stats */}
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-3xl mx-auto">
+              {[
+                { label: "Colleges", value: "200+" },
+                { label: "Streams", value: "MBA | B.Tech | BBA" },
+                { label: "Support", value: "Expert Guidance" }
+              ].map((stat, i) => (
+                <div key={i} className="bg-white/5 backdrop-blur-sm border border-white/10 p-4 rounded-3xl">
+                  <div className="text-2xl font-black text-white mb-1 tracking-tighter">{stat.value}</div>
+                  <div className="text-[10px] font-bold text-slate-500 uppercase tracking-widest">{stat.label}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+        
+        {/* Decorative Wave */}
+        <div className="absolute bottom-0 left-0 w-full h-16 bg-slate-50/50 clip-path-wave"></div>
+      </section>
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-16 relative z-30">
         {/* Search & Filter Bar */}
-        <div className="bg-white rounded-2xl shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] border-4 border-foreground p-6 mb-16 flex flex-col gap-6 sticky top-24 z-30">
-          <div className="flex flex-col lg:flex-row gap-4">
-            <div className="relative flex-grow">
-              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 w-6 h-6 stroke-[3px]" />
+        <div className="bg-white rounded-[2.5rem] shadow-2xl shadow-slate-200 border border-slate-100 p-6 md:p-8 mb-12">
+          <div className="flex flex-col lg:flex-row gap-6">
+            <div className="relative flex-grow group">
+              <Search className="absolute left-6 top-1/2 -translate-y-1/2 text-slate-400 w-6 h-6 group-focus-within:text-blue-500 transition-colors" />
               <input
                 type="text"
-                placeholder="Search colleges, courses, cities, or exams..."
+                placeholder="Search by name, course, city, or exam..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-14 pr-12 py-4 bg-slate-50 border-4 border-foreground rounded-xl focus:ring-4 focus:ring-primary/20 transition-all text-xl font-bold text-slate-900 placeholder:text-slate-400"
+                className="w-full pl-16 pr-12 py-5 bg-slate-50 border border-slate-100 rounded-[2rem] focus:outline-none focus:ring-4 focus:ring-blue-100/50 focus:bg-white transition-all text-lg font-bold text-slate-900 placeholder:text-slate-400 shadow-inner"
               />
               {searchQuery && (
                 <button 
                   onClick={() => setSearchQuery("")}
-                  className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600"
+                  className="absolute right-6 top-1/2 -translate-y-1/2 text-slate-300 hover:text-slate-500"
                 >
-                  <X className="w-6 h-6 stroke-[3px]" />
+                  <X className="w-6 h-6" />
                 </button>
               )}
             </div>
             
-            <div className="flex gap-4">
-              <select 
-                value={selectedCategory}
-                onChange={(e) => setSelectedCategory(e.target.value)}
-                className="bg-accent text-white border-4 border-foreground rounded-xl px-6 py-4 font-black uppercase tracking-widest text-sm shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-none transition-all cursor-pointer"
-              >
-                {categories.map(cat => <option key={cat} value={cat}>{cat}</option>)}
-              </select>
+            <div className="flex items-center gap-4">
+              <div className="relative group">
+                <select 
+                  value={selectedCategory}
+                  onChange={(e) => setSelectedCategory(e.target.value)}
+                  className="appearance-none bg-blue-600 text-white pl-8 pr-12 py-5 rounded-[2rem] font-black uppercase tracking-widest text-xs shadow-lg shadow-blue-200 hover:bg-blue-700 transition-all cursor-pointer min-w-[180px]"
+                >
+                  {categories.map(cat => <option key={cat} value={cat} className="bg-white text-slate-900">{cat}</option>)}
+                </select>
+                <ChevronDown className="absolute right-5 top-1/2 -translate-y-1/2 w-4 h-4 text-white/70 pointer-events-none" />
+              </div>
 
               <button 
                 onClick={() => setShowFilters(!showFilters)}
-                className={`flex items-center justify-center gap-2 px-8 py-4 border-4 border-foreground rounded-xl font-black uppercase tracking-widest text-sm shadow-[4px_4px_0px_0px_rgba(244,63,94,1)] hover:shadow-none transition-all ${showFilters ? "bg-white text-foreground" : "bg-foreground text-white"}`}
+                className={`flex items-center justify-center gap-3 px-8 py-5 rounded-[2rem] font-black uppercase tracking-widest text-xs transition-all ${
+                  showFilters || activeFiltersCount > 0 
+                  ? "bg-slate-900 text-white" 
+                  : "bg-white border border-slate-200 text-slate-600 hover:border-blue-200 hover:text-blue-600"
+                } relative`}
               >
-                <SlidersHorizontal className="w-5 h-5" />
-                {showFilters ? "Less" : "Filters"}
+                <Filter className="w-4 h-4" />
+                <span>Filters</span>
+                {activeFiltersCount > 0 && (
+                  <span className="absolute -top-2 -right-2 w-6 h-6 bg-emerald-500 text-white rounded-full flex items-center justify-center text-[10px] shadow-lg border-2 border-white">
+                    {activeFiltersCount}
+                  </span>
+                )}
               </button>
             </div>
           </div>
 
-          {/* Expanded Filters */}
+          {/* Expanded Advanced Filters */}
           {showFilters && (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 pt-6 border-t-4 border-foreground/10 animate-in fade-in slide-in-from-top-4 duration-300">
-              <div className="space-y-2">
-                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Specific Course</label>
+            <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 animate-in fade-in slide-in-from-top-4 duration-500">
+              <FilterGroup label="Course" icon={<GraduationCap className="w-3.5 h-3.5" />}>
                 <select 
                   value={selectedCourse}
                   onChange={(e) => setSelectedCourse(e.target.value)}
-                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                  className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm"
                 >
-                  {allPossibleCourses.map(course => (
-                    <option key={course} value={course}>{course}</option>
-                  ))}
+                  {allPossibleCourses.map(course => <option key={course} value={course}>{course}</option>)}
                 </select>
-              </div>
+              </FilterGroup>
               
-              <div className="space-y-2">
-                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Select State</label>
+              <FilterGroup label="State" icon={<MapPin className="w-3.5 h-3.5" />}>
                 <select 
                   value={selectedState}
                   onChange={(e) => {
                     setSelectedState(e.target.value);
-                    setSelectedCity("All Cities"); // Reset city when state changes
+                    setSelectedCity("All Cities");
                   }}
-                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                  className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm"
                 >
-                  {states.map(state => (
-                    <option key={state} value={state}>{state}</option>
-                  ))}
+                  {states.map(state => <option key={state} value={state}>{state}</option>)}
                 </select>
-              </div>
+              </FilterGroup>
 
-              <div className="space-y-2">
-                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Select City</label>
+              <FilterGroup label="City" icon={<MapPin className="w-3.5 h-3.5" />}>
                 <select 
                   value={selectedCity}
                   onChange={(e) => setSelectedCity(e.target.value)}
                   disabled={selectedState === "All States" && cities.length <= 1}
-                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold disabled:opacity-50"
+                  className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm disabled:opacity-50"
                 >
-                  {cities.map(city => (
-                    <option key={city} value={city}>{city}</option>
-                  ))}
+                  {cities.map(city => <option key={city} value={city}>{city}</option>)}
                 </select>
-              </div>
+              </FilterGroup>
 
-              <div className="space-y-2">
-                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Type of Institute</label>
-                <select 
-                  value={selectedOwnership}
-                  onChange={(e) => setSelectedOwnership(e.target.value)}
-                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
-                >
-                  {ownershipTypes.map(type => (
-                    <option key={type} value={type}>{type}</option>
-                  ))}
-                </select>
-              </div>
-
-              <div className="space-y-2">
-                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Accepted Exams</label>
-                <select 
-                  value={selectedExam}
-                  onChange={(e) => setSelectedExam(e.target.value)}
-                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
-                >
-                  {allPossibleExams.map(exam => (
-                    <option key={exam} value={exam}>{exam}</option>
-                  ))}
-                </select>
-              </div>
-
-              <div className="space-y-2">
-                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">Fee Range</label>
+              <FilterGroup label="Fees" icon={<IndianRupee className="w-3.5 h-3.5" />}>
                 <select 
                   value={selectedFeeRange}
                   onChange={(e) => setSelectedFeeRange(e.target.value)}
-                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                  className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm"
                 >
-                  {feeRanges.map(range => (
-                    <option key={range} value={range}>{range}</option>
-                  ))}
+                  {feeRanges.map(range => <option key={range} value={range}>{range}</option>)}
                 </select>
-              </div>
+              </FilterGroup>
 
-              <div className="space-y-2">
-                <label className="text-xs font-black uppercase tracking-widest text-slate-400 ml-1">NIRF Ranking</label>
+              <FilterGroup label="Institute Type">
+                <select 
+                  value={selectedOwnership}
+                  onChange={(e) => setSelectedOwnership(e.target.value)}
+                  className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm"
+                >
+                  {ownershipTypes.map(type => <option key={type} value={type}>{type}</option>)}
+                </select>
+              </FilterGroup>
+
+              <FilterGroup label="Exam">
+                <select 
+                  value={selectedExam}
+                  onChange={(e) => setSelectedExam(e.target.value)}
+                  className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm"
+                >
+                  {allPossibleExams.map(exam => <option key={exam} value={exam}>{exam}</option>)}
+                </select>
+              </FilterGroup>
+
+              <FilterGroup label="Ranking">
                 <select 
                   value={selectedRanking}
                   onChange={(e) => setSelectedRanking(e.target.value)}
-                  className="w-full bg-slate-50 border-4 border-foreground rounded-xl py-3 px-4 focus:ring-0 text-slate-900 font-bold"
+                  className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm"
                 >
-                  {rankingOptions.map(option => (
-                    <option key={option} value={option}>{option}</option>
-                  ))}
+                  {rankingOptions.map(option => <option key={option} value={option}>{option}</option>)}
                 </select>
-              </div>
-              
-              <div className="lg:col-span-3 flex justify-center mt-2">
+              </FilterGroup>
+
+              <div className="flex items-end pb-1">
                 <button 
-                  onClick={() => {
-                    setSelectedCategory("All Streams");
-                    setSelectedCourse("All Courses");
-                    setSelectedState("All States");
-                    setSelectedCity("All Cities");
-                    setSelectedOwnership("All Types");
-                    setSelectedExam("All Exams");
-                    setSelectedFeeRange("All Fees");
-                    setSelectedRanking("All Rankings");
-                    setSearchQuery("");
-                  }}
-                  className="text-sm font-black text-rose-500 uppercase tracking-widest hover:text-rose-600 p-2 underline decoration-4 underline-offset-4"
+                  onClick={resetFilters}
+                  className="w-full py-3 px-4 bg-slate-100 hover:bg-rose-50 text-slate-600 hover:text-rose-600 rounded-2xl text-xs font-black uppercase tracking-widest transition-colors flex items-center justify-center gap-2"
                 >
-                  Reset All Discovery Filters
+                  <X className="w-3.5 h-3.5" />
+                  Reset All
                 </button>
               </div>
             </div>
           )}
         </div>
 
-        {/* Results Counter */}
-        <div className="mb-12 flex items-center justify-between border-b-4 border-foreground pb-4">
-          <p className="text-2xl font-black uppercase tracking-tighter">
-            Found <span className="text-primary">{filteredColleges.length}</span> Opportunities
-          </p>
+        {/* Results Counter & Active Chips */}
+        <div className="mb-12">
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
+            <p className="text-3xl font-black text-slate-900 tracking-tighter">
+              Discovering <span className="text-blue-600">{filteredColleges.length}</span> Premium Choices
+            </p>
+            
+            {activeFiltersCount > 0 && (
+              <div className="flex flex-wrap gap-2">
+                {[
+                  { label: selectedCategory, active: selectedCategory !== "All Streams", onClear: () => setSelectedCategory("All Streams") },
+                  { label: selectedCourse, active: selectedCourse !== "All Courses", onClear: () => setSelectedCourse("All Courses") },
+                  { label: selectedState, active: selectedState !== "All States", onClear: () => setSelectedState("All States") },
+                  { label: selectedCity, active: selectedCity !== "All Cities", onClear: () => setSelectedCity("All Cities") },
+                  { label: selectedFeeRange, active: selectedFeeRange !== "All Fees", onClear: () => setSelectedFeeRange("All Fees") },
+                ].map((chip, i) => chip.active && (
+                  <button 
+                    key={i} 
+                    onClick={chip.onClear}
+                    className="flex items-center gap-2 px-3 py-1.5 bg-blue-50 text-blue-700 rounded-full text-[10px] font-black uppercase tracking-wider border border-blue-100 hover:bg-blue-100 transition-colors"
+                  >
+                    {chip.label}
+                    <X className="w-3 h-3" />
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
         </div>
 
         {/* College Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 pb-32">
           {filteredColleges.map((college) => (
             <CollegeCard key={college.slug} college={college} />
           ))}
           
           {filteredColleges.length === 0 && (
-            <div className="col-span-full py-20 text-center">
-              <div className="bg-white rounded-3xl border border-dashed border-slate-300 p-12 inline-block">
-                <Search className="w-12 h-12 text-slate-300 mx-auto mb-4" />
-                <h3 className="text-xl font-bold text-slate-900 mb-2">No colleges found</h3>
-                <p className="text-slate-500 mb-6">Try adjusting your search for "{searchQuery}"</p>
+            <div className="col-span-full py-32 text-center">
+              <div className="max-w-md mx-auto">
+                <div className="w-24 h-24 bg-slate-100 rounded-full flex items-center justify-center mx-auto mb-8">
+                  <Search className="w-10 h-10 text-slate-300" />
+                </div>
+                <h3 className="text-2xl font-black text-slate-900 mb-4 tracking-tight uppercase">No matching colleges</h3>
+                <p className="text-slate-500 mb-10 font-medium">We couldn&apos;t find any colleges matching your current filters. Try broadening your parameters or start fresh.</p>
                 <button 
-                  onClick={() => setSearchQuery("")}
-                  className="text-blue-600 font-bold hover:underline"
+                  onClick={resetFilters}
+                  className="px-10 py-4 bg-blue-600 text-white rounded-2xl font-black uppercase tracking-widest text-xs shadow-lg shadow-blue-200 hover:bg-blue-700 transition-all active:scale-95"
                 >
-                  Clear search
+                  Clear All Discover Filters
                 </button>
               </div>
             </div>
           )}
         </div>
       </div>
+    </div>
+  );
+}
+
+function FilterGroup({ label, icon, children }: { label: string, icon?: React.ReactNode, children: React.ReactNode }) {
+  return (
+    <div className="space-y-2">
+      <label className="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 ml-1 flex items-center gap-1.5">
+        {icon}
+        {label}
+      </label>
+      {children}
     </div>
   );
 }

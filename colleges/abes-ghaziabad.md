@@ -11,9 +11,11 @@ ranking: "Top Engineering College"
 fees: "₹5.7 Lakhs"
 avg_placement: "₹5.5 LPA"
 highest_placement: "₹44.0 LPA"
+lowest_placement: "₹3.5 LPA"
 exams: ["JEE Main","UPTAC"]
 website: ""
 brochure_url: ""
+top_recruiters: ["TCS", "Accenture", "Cognizant", "HCL", "Amazon"]
 ---
 
 ### B.Tech Courses & Fees

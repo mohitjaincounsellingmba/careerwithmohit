@@ -11,9 +11,11 @@ ranking: "#17 (NIRF 2024 - Private B-Schools)"
 fees: "₹14.0 Lakhs"
 avg_placement: "₹11.1 LPA"
 highest_placement: "₹24.4 LPA"
+lowest_placement: "₹8.5 LPA"
 exams: ["CAT", "XAT", "MAT", "CMAT"]
 brochure_url: "/brochures/bimtech-2025.pdf"
 website: "https://www.bimtech.ac.in"
+top_recruiters: ["Deloitte", "KPMG", "EY", "Infosys", "Wipro"]
 ---
 
 ### Courses & Fees
