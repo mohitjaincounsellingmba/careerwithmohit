@@ -151,7 +151,63 @@ export function CollegeDetailClient({ college }: { college: College }) {
 
   const programs = useMemo(() => parsePrograms(college.content, college.courses), [college.content, college.courses]);
   const aboutText = useMemo(() => extractAbout(college.content), [college.content]);
-  const specializations = SPEC_MAP[college.category] || [];
+  
+  // Actually offered specializations (extracted from content/courses)
+  const specializations = useMemo(() => {
+    const categorySpecs = SPEC_MAP[college.category] || [];
+    const keywordsMap: Record<string, string[]> = {
+      // Management
+      "Marketing Management": ["marketing"],
+      "Financial Management": ["finance", "financial"],
+      "Human Resource Management (HRM)": ["hr", "human resource", "hrm", "personnel"],
+      "Operations & Supply Chain Management": ["operations", "supply chain", "logistics"],
+      "Business Analytics & Data Science": ["analytics", "data science"],
+      "Digital Marketing & E-Commerce": ["digital marketing", "e-commerce"],
+      "International Business": ["international business", "ib"],
+      "Information Technology (IT) & Systems": ["it", "systems", "information technology"],
+      "Entrepreneurship & Family Business": ["entrepreneurship", "startup", "family business"],
+      "FinTech (Financial Technology)": ["fintech", "financial technology"],
+      "Agri-Business Management": ["agri", "agriculture"],
+      "Healthcare & Hospital Management": ["health", "hospital"],
+      "Retail & Consumer Management": ["retail"],
+      "Banking & Financial Services (BFSI)": ["banking", "bfsi"],
+      "Rural Management": ["rural"],
+      "Logistics & Port Management": ["logistics", "port"],
+      // Engineering
+      "Computer Science & Engineering (CSE)": ["computer science", "cse", "computer engineering"],
+      "Artificial Intelligence (AI) & Machine Learning (ML)": ["aiml", "ai", "artificial intelligence", "machine learning"],
+      "Data Science & Analytics": ["data science", "analytics"],
+      "Electronics & Communication Engineering (ECE)": ["ece", "electronics", "communication"],
+      "Cyber Security & Forensics": ["cyber", "security", "forensics"],
+      "Information Technology (IT)": [" it", "information technology"],
+      "Mechanical Engineering (Robotics & Automation)": ["mechanical", "me", "robotics", "automation", "mechatronics"],
+      "Electrical & Electronics Engineering (EEE)": ["electrical", "eee", "power"],
+      "Civil Engineering (Smart Infrastructure)": ["civil"],
+      "Cloud Computing & DevOps": ["cloud", "devops"],
+      "Internet of Things (IoT)": ["iot", "internet of things"],
+      "Biotechnology & Bioinformatics": ["biotechnology", "bio"],
+      "Aerospace & Aeronautical Engineering": ["aerospace", "aeronautical"],
+      "VLSI Design & Embedded Systems": ["vlsi", "embedded"],
+      "Mechatronics Engineering": ["mechatronics"],
+      "Renewable & Sustainable Energy": ["renewable", "sustainable"],
+    };
+
+    const textToSearch = (college.content + " " + college.courses.join(" ")).toLowerCase();
+    
+    const offered = categorySpecs.filter(spec => {
+      const kws = keywordsMap[spec];
+      if (!kws) return false;
+      return kws.some(kw => textToSearch.includes(kw.toLowerCase()));
+    });
+
+    // If it's a management college and we found NO specializations, return a generic list
+    // because MBA programs often don't list their core specializations in the brief markdown.
+    if (offered.length === 0 && college.category === "Management") {
+      return ["Marketing Management", "Financial Management", "Human Resource Management (HRM)", "Operations & Supply Chain Management"];
+    }
+
+    return offered;
+  }, [college.category, college.content, college.courses]);
 
   const collegeSchema = {
     "@context": "https://schema.org",
