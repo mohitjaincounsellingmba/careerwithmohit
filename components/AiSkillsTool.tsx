@@ -1,15 +1,7 @@
 "use client";
 
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState } from "react";
 import { 
-  BarChart2, 
-  PieChart, 
-  Database, 
-  Activity, 
-  Cloud, 
-  ShieldCheck, 
-  Server, 
-  Table,
   Bot,
   PlayCircle,
   FileCheck,
@@ -21,115 +13,7 @@ import {
   CheckCircle2,
   XCircle
 } from "lucide-react";
-
-type Skill = {
-  id: string;
-  title: string;
-  icon: React.ElementType;
-  description: string;
-  color: string;
-  modules: string[];
-  questions: { q: string; options: string[]; answer: number }[];
-};
-
-const SKILLS: Skill[] = [
-  {
-    id: "powerbi",
-    title: "Power BI",
-    icon: BarChart2,
-    color: "bg-yellow-500",
-    description: "Master data visualization, DAX, and business intelligence reporting.",
-    modules: ["Introduction to Power BI", "Data Modeling & DAX", "Creating Interactive Dashboards"],
-    questions: [
-      { q: "What does DAX stand for?", options: ["Data Analysis Expressions", "Data Assessment XML", "Dynamic Analytical X"], answer: 0 },
-      { q: "Which tool allows you to transform data in Power BI?", options: ["Power Transform", "Power Query", "Power Automate"], answer: 1 }
-    ]
-  },
-  {
-    id: "tableau",
-    title: "Tableau",
-    icon: PieChart,
-    color: "bg-blue-600",
-    description: "Learn visual analytics, data blending, and creating intuitive dashboards.",
-    modules: ["Connecting Data Sources", "Building Worksheets", "Interactive Dashboards & Stories"],
-    questions: [
-      { q: "What is a 'Story' in Tableau?", options: ["A sequence of visualizations", "A database connection", "A calculated field"], answer: 0 },
-      { q: "Which of the following is not a valid Tableau file type?", options: [".twb", ".tdg", ".twbx"], answer: 1 }
-    ]
-  },
-  {
-    id: "sql",
-    title: "SQL",
-    icon: Database,
-    color: "bg-indigo-500",
-    description: "Query databases, write complex joins, and manage massive datasets.",
-    modules: ["Basic CRUD Operations", "Joins and Subqueries", "Window Functions & Optimization"],
-    questions: [
-      { q: "Which clause is used to filter records?", options: ["WHERE", "FILTER", "CHOOSE"], answer: 0 },
-      { q: "What does SQL stand for?", options: ["Structured Query Language", "Strong Question Language", "Sequential Query Logic"], answer: 0 }
-    ]
-  },
-  {
-    id: "sixsigma",
-    title: "Six Sigma",
-    icon: Activity,
-    color: "bg-purple-600",
-    description: "Process improvement methodologies to reduce defects and optimize business operations.",
-    modules: ["Define & Measure", "Analyze & Improve", "Control & Certification"],
-    questions: [
-      { q: "What does DMAIC stand for?", options: ["Define, Measure, Analyze, Improve, Control", "Data, Metrics, Analytics, Insights, Cost"], answer: 0 },
-      { q: "At what defect rate does a process achieve Six Sigma?", options: ["3.4 DPMO", "1.5 DPMO", "Zero defects"], answer: 0 }
-    ]
-  },
-  {
-    id: "cloudcomputing",
-    title: "Cloud Computing",
-    icon: Cloud,
-    color: "bg-sky-500",
-    description: "Understand IaaS, PaaS, SaaS models, cloud security, and architecture.",
-    modules: ["Cloud Deployment Models", "Virtualization & Containers", "Cloud Security"],
-    questions: [
-      { q: "Which of these is a cloud service model?", options: ["Software as a Service (SaaS)", "Network as a Platform (NaaP)", "Hardware as a Service (HaaS)"], answer: 0 },
-      { q: "Which characteristic is key to cloud computing?", options: ["On-demand self-service", "Manual scaling", "Local hosting only"], answer: 0 }
-    ]
-  },
-  {
-    id: "cybersecurity",
-    title: "Cyber Security",
-    icon: ShieldCheck,
-    color: "bg-red-500",
-    description: "Protect systems, networks, and programs from digital attacks.",
-    modules: ["Threats & Vulnerabilities", "Network Security", "Cryptography & Risk Management"],
-    questions: [
-      { q: "What is the primary goal of phishing?", options: ["Stealing sensitive information", "Increasing network speed", "Encrypting files"], answer: 0 },
-      { q: "What does VPN stand for?", options: ["Virtual Private Network", "Visual Processing Node", "Verified Public Network"], answer: 0 }
-    ]
-  },
-  {
-    id: "aws",
-    title: "AWS",
-    icon: Server,
-    color: "bg-orange-500",
-    description: "Deploy, manage, and scale cloud applications on Amazon Web Services.",
-    modules: ["EC2 & S3 Basics", "IAM & Security", "Serverless Computing & DBs"],
-    questions: [
-      { q: "What service is used for object storage in AWS?", options: ["Amazon EC2", "Amazon S3", "Amazon RDS"], answer: 1 },
-      { q: "What is Amazon EC2 primarily used for?", options: ["Database management", "Virtual servers in the cloud", "Domain name registration"], answer: 1 }
-    ]
-  },
-  {
-    id: "excel",
-    title: "Advanced Excel",
-    icon: Table,
-    color: "bg-emerald-600",
-    description: "Master VLOOKUP, Pivot Tables, Macros, and advanced data modeling algorithms.",
-    modules: ["Advanced Formulas", "Pivot Tables & Charts", "Macros & VBA Basics"],
-    questions: [
-      { q: "Which function searches for a value in the first column of a table array?", options: ["HLOOKUP", "VLOOKUP", "MATCH"], answer: 1 },
-      { q: "What is a major feature used to summarize large amounts of data in Excel?", options: ["Pivot Tables", "Conditional Formatting", "Data Validation"], answer: 0 }
-    ]
-  }
-];
+import { SKILLS, Skill } from "@/lib/skillsData";
 
 export default function AiSkillsTool() {
   const [view, setView] = useState<"LIST" | "TRAINING" | "TEST" | "CERTIFIED">("LIST");
@@ -156,7 +40,7 @@ export default function AiSkillsTool() {
     setIsTyping(true);
     setTimeout(() => {
       setIsTyping(false);
-    }, 1500);
+    }, 1200);
   };
 
   const nextModule = () => {
@@ -193,11 +77,11 @@ export default function AiSkillsTool() {
       setShowResult(false);
     } else {
       // Finished test
-      if (activeSkill && score + (selectedAnswer === activeSkill.questions[currentQuestionIndex].answer ? 1 : 0) >= activeSkill.questions.length / 2) {
+      if (activeSkill && score + (selectedAnswer === activeSkill.questions[currentQuestionIndex].answer ? 1 : 0) >= activeSkill.questions.length * 0.7) {
         setView("CERTIFIED");
-      } else {
+      } else if (activeSkill) {
         // Failed -> Go back to training
-        alert("You need a higher score to pass. Let's review the materials!");
+        alert(`You scored ${score} out of ${activeSkill.questions.length}. You need at least 70% to pass. Let's review the materials!`);
         setView("TRAINING");
         setCurrentModuleIndex(0);
       }
@@ -215,7 +99,7 @@ export default function AiSkillsTool() {
           <div className="text-center mb-10">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Choose a Skill to Master</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Equip yourself with the tools required in top MBA programs and Engineering careers. Our proprietary AI tutor will guide you step by step.
+              Equip yourself with the tools required in top MBA programs and Engineering careers. Our proprietary AI tutor will guide you step by step through complete curriculum tracks.
             </p>
           </div>
           
@@ -236,7 +120,7 @@ export default function AiSkillsTool() {
                     {skill.description}
                   </p>
                   <div className="mt-auto w-full flex items-center justify-between text-primary font-semibold text-sm">
-                    <span className="flex items-center gap-1.5"><PlayCircle size={16} /> Start Module</span>
+                    <span className="flex items-center gap-1.5"><PlayCircle size={16} /> Start Course</span>
                     <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
                   </div>
                 </div>
@@ -270,7 +154,7 @@ export default function AiSkillsTool() {
                 </div>
               </div>
               <div className="text-right">
-                <div className="text-sm font-bold uppercase tracking-wider text-white/70 mb-1">Progress</div>
+                <div className="text-sm font-bold uppercase tracking-wider text-white/70 mb-1">Module</div>
                 <div className="text-2xl font-black">{currentModuleIndex + 1} / {activeSkill.modules.length}</div>
               </div>
             </div>
@@ -280,7 +164,7 @@ export default function AiSkillsTool() {
               {/* Progress Bar */}
               <div className="flex items-center gap-2 mb-10 w-full max-w-sm mx-auto">
                 {activeSkill.modules.map((m, i) => (
-                  <div key={i} className="flex-1 h-3 rounded-full bg-gray-100 overflow-hidden relative">
+                  <div key={i} className="flex-1 h-3 rounded-full bg-gray-100 overflow-hidden relative" title={m.title}>
                     <div 
                       className={`absolute top-0 left-0 h-full ${activeSkill.color} transition-all duration-1000 ease-out`}
                       style={{ width: i < currentModuleIndex ? '100%' : (i === currentModuleIndex ? '100%' : '0%') }}
@@ -291,16 +175,11 @@ export default function AiSkillsTool() {
 
               {/* AI Chat Layout */}
               <div className="flex gap-6 relative">
-                <div className="w-12 h-12 rounded-full bg-green-100 flex items-center justify-center flex-shrink-0 animate-bounce cursor-default border-2 border-green-500 shadow-md">
+                <div className="w-12 h-12 rounded-full bg-green-100 flex items-center justify-center flex-shrink-0 cursor-default border-2 border-green-500 shadow-sm mt-2">
                    <Bot size={24} className="text-green-600" />
                 </div>
                 
-                <div className="bg-gray-50 p-6 rounded-2xl rounded-tl-none border border-gray-100 shadow-sm flex-grow">
-                  <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-                    <span className={`w-2 h-2 rounded-full ${activeSkill.color} animate-pulse`} />
-                    {activeSkill.modules[currentModuleIndex]}
-                  </h3>
-                  
+                <div className="bg-gray-50 p-6 md:p-8 rounded-2xl rounded-tl-none border border-gray-100 shadow-sm flex-grow">
                   {isTyping ? (
                     <div className="flex gap-1.5 items-center py-4 text-gray-400">
                       <span className="w-2.5 h-2.5 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '0ms' }} />
@@ -308,14 +187,16 @@ export default function AiSkillsTool() {
                       <span className="w-2.5 h-2.5 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '300ms' }} />
                     </div>
                   ) : (
-                    <div className="prose prose-gray animate-in fade-in duration-500">
+                    <div className="prose prose-gray max-w-none animate-in fade-in duration-500">
+                      <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+                        {activeSkill.modules[currentModuleIndex].title}
+                      </h3>
                       <p className="text-gray-700 leading-relaxed text-lg mb-6">
-                        Welcome to the <strong>{activeSkill.modules[currentModuleIndex]}</strong> session. 
-                        In this module, you are learning the core patterns and foundational principles required to master {activeSkill.title}. 
+                        {activeSkill.modules[currentModuleIndex].content}
                       </p>
-                      <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-md">
-                        <p className="text-sm text-yellow-800 m-0 font-medium">
-                          💡 <strong>Pro Tip:</strong> Ensure that you pay attention to the fundamental theories discussed here, as they will appear in the final certification exam.
+                      <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-md mt-6">
+                        <p className="text-sm text-yellow-800 m-0 font-medium tracking-wide">
+                          💡 <strong>Pro Tip:</strong> Master the concepts discussed in this module, as they are crucial for passing the 20-question certification exam.
                         </p>
                       </div>
                     </div>
@@ -332,7 +213,7 @@ export default function AiSkillsTool() {
                   `}
                 >
                   {currentModuleIndex === activeSkill.modules.length - 1 ? (
-                    <>Take Certification Exam <FileCheck size={20} /></>
+                    <>Take 20-Question Exam <FileCheck size={20} /></>
                   ) : (
                     <>Next Module <ChevronRight size={20} /></>
                   )}
@@ -345,14 +226,14 @@ export default function AiSkillsTool() {
 
       {view === "TEST" && activeSkill && (
         <div className="max-w-3xl mx-auto animate-in fade-in slide-in-from-bottom-4 duration-500">
-          <div className="bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100">
+           <div className="bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100">
             <div className="bg-gray-900 text-white p-6 text-center border-b-4" style={{ borderColor: activeSkill.color }}>
               <div className="inline-flex items-center justify-center p-3 rounded-full bg-white/10 mb-4">
                 <FileCheck size={32} className="text-white" />
               </div>
               <h2 className="text-2xl font-bold mb-2">{activeSkill.title} Certification Exam</h2>
               <p className="text-gray-400 text-sm font-medium">
-                Question {currentQuestionIndex + 1} of {activeSkill.questions.length}
+                Question {currentQuestionIndex + 1} of {activeSkill.questions.length} • 70% Required to Pass
               </p>
             </div>
             
@@ -430,12 +311,12 @@ export default function AiSkillsTool() {
               </div>
               
               <div className="bg-green-100 text-green-800 px-4 py-1 rounded-full font-bold text-sm tracking-widest uppercase mb-6 flex items-center gap-2">
-                <CheckCircle2 size={16} /> Exam Passed
+                <CheckCircle2 size={16} /> Exam Passed ({score}/{activeSkill.questions.length})
               </div>
 
               <h2 className="text-4xl font-black text-gray-900 tracking-tight mb-2">You're Certified!</h2>
               <p className="text-xl text-gray-500 mb-8 font-medium">
-                Congratulations on completing the <strong className={`text-transparent bg-clip-text bg-gradient-to-r from-gray-900 to-gray-500 border-b-2 border-dashed border-gray-300 pb-1`}>{activeSkill.title}</strong> masterclass.
+                Congratulations on completing the <strong className={`text-transparent bg-clip-text bg-gradient-to-r from-gray-900 to-gray-500 border-b-2 border-dashed border-gray-300 pb-1`}>{activeSkill.title}</strong> master curriculum.
               </p>
               
               <div className="border border-gray-200 rounded-xl p-6 bg-gray-50 w-full mb-10 shadow-inner">
