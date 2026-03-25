@@ -221,6 +221,73 @@ export default function Home() {
                & More 500+ Global Partners ...
             </p>
           </div>
+
+          {/* PLACEMENT LEADERBOARD 2026 */}
+          <div className="mt-24">
+            <div className="flex flex-col md:flex-row justify-between items-end mb-12 border-l-8 border-accent pl-8 gap-6">
+              <div>
+                <h3 className="text-3xl font-black uppercase tracking-tight text-white mb-2">2026 Placement Leaderboard</h3>
+                <p className="text-gray-400 font-bold text-lg">Top 5 Private B-Schools by Salary Growth & ROI</p>
+              </div>
+              <div className="bg-white/5 border border-white/10 px-4 py-2 rounded-lg text-xs font-black uppercase tracking-widest text-primary italic">
+                Verified Jan 2026
+              </div>
+            </div>
+
+            <div className="overflow-x-auto rounded-3xl border border-white/10 bg-white/[0.02] backdrop-blur-sm">
+                <table className="w-full text-left border-collapse">
+                    <thead>
+                        <tr className="border-b border-white/10">
+                            <th className="p-6 text-sm font-black uppercase tracking-widest text-gray-400">Rank</th>
+                            <th className="p-6 text-sm font-black uppercase tracking-widest text-gray-400">College</th>
+                            <th className="p-6 text-sm font-black uppercase tracking-widest text-gray-400">Avg. 2026</th>
+                            <th className="p-6 text-sm font-black uppercase tracking-widest text-accent">Growth %</th>
+                            <th className="p-6 text-sm font-black uppercase tracking-widest text-gray-400">Top Sector</th>
+                        </tr>
+                    </thead>
+                    <tbody className="divide-y divide-white/5">
+                        <tr className="group hover:bg-white/[0.05] transition-colors">
+                            <td className="p-6 text-2xl font-black text-primary">#01</td>
+                            <td className="p-6 font-bold text-lg">NDIM Delhi</td>
+                            <td className="p-6 font-black text-xl">₹12.55 Lakhs</td>
+                            <td className="p-6"><span className="bg-emerald-500/10 text-emerald-400 px-3 py-1 rounded-full text-xs font-black">+18% YoY</span></td>
+                            <td className="p-6 font-bold text-gray-400">Consulting</td>
+                        </tr>
+                        <tr className="group hover:bg-white/[0.05] transition-colors">
+                            <td className="p-6 text-2xl font-black text-primary/80">#02</td>
+                            <td className="p-6 font-bold text-lg">BIMTECH Gre. Noida</td>
+                            <td className="p-6 font-black text-xl">₹11.80 Lakhs</td>
+                            <td className="p-6"><span className="bg-emerald-500/10 text-emerald-400 px-3 py-1 rounded-full text-xs font-black">+14% YoY</span></td>
+                            <td className="p-6 font-bold text-gray-400">BFS & Insurance</td>
+                        </tr>
+                        <tr className="group hover:bg-white/[0.05] transition-colors">
+                            <td className="p-6 text-2xl font-black text-primary/60">#03</td>
+                            <td className="p-6 font-bold text-lg">Jaipuria Noida</td>
+                            <td className="p-6 font-black text-xl">₹9.88 Lakhs</td>
+                            <td className="p-6"><span className="bg-emerald-500/10 text-emerald-400 px-3 py-1 rounded-full text-xs font-black">+12% YoY</span></td>
+                            <td className="p-6 font-bold text-gray-400">Digital Marketing</td>
+                        </tr>
+                        <tr className="group hover:bg-white/[0.05] transition-colors">
+                            <td className="p-6 text-2xl font-black text-primary/40">#04</td>
+                            <td className="p-6 font-bold text-lg">JIMS Rohini</td>
+                            <td className="p-6 font-black text-xl">₹8.50 Lakhs</td>
+                            <td className="p-6"><span className="bg-emerald-500/10 text-emerald-400 px-3 py-1 rounded-full text-xs font-black">+10% YoY</span></td>
+                            <td className="p-6 font-bold text-gray-400">Operations</td>
+                        </tr>
+                        <tr className="group hover:bg-white/[0.05] transition-colors">
+                            <td className="p-6 text-2xl font-black text-accent">#05</td>
+                            <td className="p-6">
+                                <span className="font-bold text-lg block">NIU Noida</span>
+                                <span className="text-[10px] uppercase font-black tracking-widest text-primary/70">Rising Star for ROI</span>
+                            </td>
+                            <td className="p-6 font-black text-xl">₹7.20 Lakhs</td>
+                            <td className="p-6"><span className="bg-accent/10 text-accent px-3 py-1 rounded-full text-xs font-black">+22% YoY</span></td>
+                            <td className="p-6 font-bold text-gray-400">Data Analytics</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+          </div>
         </div>
       </section>
 
