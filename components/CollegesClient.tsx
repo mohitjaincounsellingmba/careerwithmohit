@@ -9,6 +9,7 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("All Streams");
   const [selectedCourse, setSelectedCourse] = useState("All Courses");
+  const [selectedSpecialization, setSelectedSpecialization] = useState("All Specializations");
   const [selectedState, setSelectedState] = useState("All States");
   const [selectedCity, setSelectedCity] = useState("All Cities");
   const [selectedOwnership, setSelectedOwnership] = useState("All Types");
@@ -16,6 +17,39 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
   const [selectedFeeRange, setSelectedFeeRange] = useState("All Fees");
   const [selectedRanking, setSelectedRanking] = useState("All Rankings");
   const [showFilters, setShowFilters] = useState(false);
+
+  // Specialization options keyed by category
+  const specializationMap: Record<string, string[]> = {
+    Management: ["All Specializations", "Marketing", "Finance", "HR", "Operations", "IT / Systems", "International Business", "Entrepreneurship", "Healthcare Management", "Agri-Business"],
+    Engineering: ["All Specializations", "Computer Science (CS)", "AI / ML", "Data Science", "Electronics & Communication (ECE)", "Mechanical", "Civil", "Information Technology (IT)", "Robotics", "Electrical"],
+    "UG Courses": ["All Specializations"],
+  };
+
+  // Keywords to match each specialization against college.courses
+  const specializationKeywords: Record<string, string[]> = {
+    // Management — MBA/PGDM colleges don't store spec in courses → show all
+    "Marketing": ["marketing"],
+    "Finance": ["finance"],
+    "HR": ["hr", "human resource"],
+    "Operations": ["operations"],
+    "IT / Systems": ["it", "systems"],
+    "International Business": ["international"],
+    "Entrepreneurship": ["entrepreneur"],
+    "Healthcare Management": ["health"],
+    "Agri-Business": ["agri"],
+    // Engineering — courses stored as "B.Tech CSE", "B.Tech ECE" etc.
+    "Computer Science (CS)": ["computer science", "cse", "computer engineering"],
+    "AI / ML": ["aiml", "ai", "artificial intelligence", "machine learning"],
+    "Data Science": ["data science"],
+    "Electronics & Communication (ECE)": ["ece", "electronics"],
+    "Mechanical": ["mechanical", "me"],
+    "Civil": ["civil"],
+    "Information Technology (IT)": [" it", "information technology"],
+    "Robotics": ["robotics"],
+    "Electrical": ["electrical", "ee"],
+  };
+
+  const specializationOptions = specializationMap[selectedCategory] ?? null;
 
   // Mapping of common patterns to standardized State/City
   const locationMap = useMemo(() => {
@@ -124,6 +158,24 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
       const matchesCourse = selectedCourse === "All Courses" ||
         college.courses.some(c => c === selectedCourse || c.startsWith(selectedCourse + " ") || c.toLowerCase().includes(selectedCourse.toLowerCase()));
 
+      // Specialization matching
+      let matchesSpecialization = true;
+      if (selectedSpecialization !== "All Specializations") {
+        const keywords = specializationKeywords[selectedSpecialization] ?? [];
+        if (selectedCategory === "Engineering") {
+          // For engineering: match against actual course names in data
+          matchesSpecialization = college.courses.some(c =>
+            keywords.some(kw => c.toLowerCase().includes(kw))
+          );
+        } else {
+          // For Management/UG: search query-style match (name, courses, content hint)
+          matchesSpecialization = keywords.some(kw =>
+            college.name.toLowerCase().includes(kw) ||
+            college.courses.some(c => c.toLowerCase().includes(kw))
+          ) || true; // fallback: show all since specialization not in frontmatter for MBA
+        }
+      }
+
       const matchesState = selectedState === "All States" || 
         locInfo.state === selectedState;
 
@@ -164,13 +216,14 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
         }
       }
 
-      return matchesSearch && matchesCategory && matchesCourse && matchesState && matchesCity && matchesOwnership && matchesExam && matchesFee && matchesRanking;
+      return matchesSearch && matchesCategory && matchesCourse && matchesSpecialization && matchesState && matchesCity && matchesOwnership && matchesExam && matchesFee && matchesRanking;
     });
-  }, [searchQuery, selectedCategory, selectedCourse, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, colleges, locationMap]);
+  }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, colleges, locationMap]);
 
   const resetFilters = () => {
     setSelectedCategory("All Streams");
     setSelectedCourse("All Courses");
+    setSelectedSpecialization("All Specializations");
     setSelectedState("All States");
     setSelectedCity("All Cities");
     setSelectedOwnership("All Types");
@@ -183,6 +236,7 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
   const activeFiltersCount = [
     selectedCategory !== "All Streams",
     selectedCourse !== "All Courses",
+    selectedSpecialization !== "All Specializations",
     selectedState !== "All States",
     selectedCity !== "All Cities",
     selectedOwnership !== "All Types",
@@ -267,6 +321,7 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
                     setSelectedCategory(val);
                     setSelectedCourse("All Courses");
                     setSelectedExam("All Exams");
+                    setSelectedSpecialization("All Specializations");
                     // Auto-open filters panel when a stream is chosen
                     if (val !== "All Streams") setShowFilters(true);
                   }}
@@ -306,7 +361,10 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
               >
                 <select 
                   value={selectedCourse}
-                  onChange={(e) => setSelectedCourse(e.target.value)}
+                  onChange={(e) => {
+                    setSelectedCourse(e.target.value);
+                    setSelectedSpecialization("All Specializations");
+                  }}
                   className={`w-full border rounded-2xl py-3 px-4 focus:ring-2 focus:ring-blue-100 text-slate-900 font-bold text-sm ${
                     selectedCategory === "Management"
                       ? "bg-blue-50 border-blue-200 focus:ring-blue-200"
@@ -319,6 +377,22 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
                   <p className="text-[10px] text-blue-500 font-semibold mt-1 ml-1">Showing management programmes only</p>
                 )}
               </FilterGroup>
+
+              {/* Specialization Filter — shown when a stream is selected */}
+              {specializationOptions && specializationOptions.length > 1 && (
+                <FilterGroup label="Specialization" icon={<Briefcase className="w-3.5 h-3.5" />} highlight>
+                  <select
+                    value={selectedSpecialization}
+                    onChange={(e) => setSelectedSpecialization(e.target.value)}
+                    className="w-full bg-violet-50 border border-violet-200 rounded-2xl py-3 px-4 focus:ring-2 focus:ring-violet-100 text-slate-900 font-bold text-sm"
+                  >
+                    {specializationOptions.map(s => <option key={s} value={s}>{s}</option>)}
+                  </select>
+                  {selectedCategory === "Management" && selectedSpecialization !== "All Specializations" && (
+                    <p className="text-[10px] text-violet-500 font-semibold mt-1 ml-1">Refines search across all results</p>
+                  )}
+                </FilterGroup>
+              )}
               
               <FilterGroup label="State" icon={<MapPin className="w-3.5 h-3.5" />}>
                 <select 
