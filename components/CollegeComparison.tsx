@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useRef, useEffect } from "react";
 import type { CollegeMetadata } from "@/lib/colleges";
-import { Search, ChevronDown, Check, ArrowRightLeft, X } from "lucide-react";
+import { Search, ChevronDown, Check, ArrowRightLeft, X, TrendingUp, IndianRupee, Trophy, GraduationCap, MapPin, Building2, BookOpen } from "lucide-react";
 
 interface CollegeComparisonProps {
     colleges: CollegeMetadata[];
@@ -16,47 +16,54 @@ export function CollegeComparison({ colleges }: CollegeComparisonProps) {
     const collegeB = useMemo(() => colleges.find(c => c.slug === collegeBId) || null, [collegeBId, colleges]);
 
     return (
-        <div className="w-full">
+        <div className="w-full relative">
+            {/* Background elements */}
+            <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-blue-500/5 rounded-full blur-[120px] -z-10 pointer-events-none" />
+
             {/* College Selectors */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-16 mb-16 relative">
-                {/* Visual VS graphic for larger screens */}
-                <div className="hidden md:flex absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10 w-20 h-20 bg-accent rounded-full border-4 border-foreground items-center justify-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-                    <span className="font-black text-2xl text-foreground">VS</span>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12 mb-12 relative z-20">
+                {/* Visual VS graphic */}
+                <div className="hidden md:flex absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-30 w-16 h-16 bg-white rounded-full items-center justify-center shadow-lg border border-slate-100 text-transparent bg-clip-text bg-gradient-to-br from-blue-600 to-purple-600 font-black text-xl italic drop-shadow-sm">
+                    VS
                 </div>
 
-                <div className="relative z-20">
-                    <div className="bg-primary text-white font-black uppercase tracking-widest text-sm py-2 px-6 inline-block border-4 border-b-0 border-foreground">
-                        College A
+                <div className="relative">
+                    <div className="mb-3 flex items-center gap-2">
+                        <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 font-black text-xs">01</div>
+                        <span className="font-black text-sm uppercase tracking-widest text-slate-500">First College</span>
                     </div>
-                    <div className="border-4 border-foreground bg-white shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                    <div className="bg-white rounded-3xl shadow-sm border border-slate-200 transition-all hover:border-blue-300 hover:shadow-md">
                         <CollegeSelector
                             colleges={colleges}
                             selectedId={collegeAId}
                             onSelect={setCollegeAId}
                             placeholder="Select first college..."
                             disabledId={collegeBId}
+                            theme="blue"
                         />
                     </div>
                 </div>
 
-                {/* Visual VS graphic for mobile */}
-                <div className="flex md:hidden justify-center -my-4 relative z-10 w-full">
-                    <div className="w-16 h-16 bg-accent rounded-full border-4 border-foreground flex items-center justify-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-                        <span className="font-black text-xl text-foreground">VS</span>
+                {/* Mobile VS */}
+                <div className="flex md:hidden justify-center -my-2 relative z-30 w-full">
+                    <div className="w-12 h-12 bg-white rounded-full items-center justify-center shadow-lg border border-slate-100 text-transparent bg-clip-text bg-gradient-to-br from-blue-600 to-purple-600 font-black italic flex drop-shadow-sm">
+                        VS
                     </div>
                 </div>
 
-                <div className="relative z-20">
-                    <div className="bg-secondary text-white font-black uppercase tracking-widest text-sm py-2 px-6 inline-block border-4 border-b-0 border-foreground">
-                        College B
+                <div className="relative">
+                    <div className="mb-3 flex items-center gap-2">
+                        <div className="w-8 h-8 rounded-full bg-purple-100 flex items-center justify-center text-purple-600 font-black text-xs">02</div>
+                        <span className="font-black text-sm uppercase tracking-widest text-slate-500">Second College</span>
                     </div>
-                    <div className="border-4 border-foreground bg-white shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                    <div className="bg-white rounded-3xl shadow-sm border border-slate-200 transition-all hover:border-purple-300 hover:shadow-md">
                         <CollegeSelector
                             colleges={colleges}
                             selectedId={collegeBId}
                             onSelect={setCollegeBId}
                             placeholder="Select second college..."
                             disabledId={collegeAId}
+                            theme="purple"
                         />
                     </div>
                 </div>
@@ -64,88 +71,106 @@ export function CollegeComparison({ colleges }: CollegeComparisonProps) {
 
             {/* Comparison Display */}
             {(!collegeA || !collegeB) ? (
-                <div className="border-4 border-dashed border-slate-300 bg-slate-100 p-16 text-center">
-                    <ArrowRightLeft className="w-16 h-16 text-slate-300 mx-auto mb-6" />
-                    <h3 className="text-2xl font-black text-slate-400 uppercase tracking-widest">
-                        Select two colleges to begin battle
+                <div className="bg-white rounded-[2.5rem] border border-slate-100 shadow-sm p-16 text-center max-w-3xl mx-auto mt-8 relative overflow-hidden group">
+                    <div className="absolute inset-0 bg-gradient-to-br from-blue-50/50 to-purple-50/50 opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
+                    <ArrowRightLeft className="w-16 h-16 text-slate-300 mx-auto mb-6 relative z-10" />
+                    <h3 className="text-2xl font-black text-slate-400 uppercase tracking-widest relative z-10">
+                        Select two colleges to start comparing
                     </h3>
+                    <p className="text-slate-500 font-medium mt-4 relative z-10">Compare ROI, Fees, Placements side-by-side.</p>
                 </div>
             ) : (
-                <div className="border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] overflow-hidden">
+                <div className="bg-white rounded-[2.5rem] border border-slate-100 shadow-xl overflow-hidden relative z-10 pb-8">
                     {/* Header Row */}
-                    <div className="grid grid-cols-2 border-b-8 border-foreground bg-slate-50">
-                        <div className="p-6 md:p-10 border-r-4 border-foreground">
-                            {collegeA.logo && (
-                                <img src={collegeA.logo} alt={collegeA.name} className="h-16 md:h-20 w-auto object-contain mb-6 mix-blend-multiply" />
-                            )}
-                            <h2 className="text-2xl md:text-3xl font-black tracking-tight leading-none mb-2 text-primary">{collegeA.name}</h2>
-                            <p className="font-bold text-slate-500 uppercase tracking-wider text-sm">{collegeA.location}</p>
+                    <div className="grid grid-cols-2 bg-gradient-to-b from-slate-50 to-white border-b border-slate-100">
+                        <div className="p-8 md:p-12 border-r border-slate-100 flex flex-col items-center text-center relative overflow-hidden">
+                            <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/5 rounded-full blur-3xl -mt-20 -mr-20 pointer-events-none" />
+                            <div className="w-20 h-20 bg-white rounded-2xl shadow-sm border border-slate-100 flex items-center justify-center p-3 mb-6 relative z-10">
+                                {collegeA.logo ? (
+                                    <img src={collegeA.logo} alt={collegeA.name} className="w-full h-full object-contain" />
+                                ) : <GraduationCap className="w-10 h-10 text-blue-300" />}
+                            </div>
+                            <h2 className="text-2xl md:text-4xl font-black tracking-tight leading-tight mb-3 text-slate-900 relative z-10">{collegeA.name}</h2>
+                            <div className="flex items-center gap-2 text-slate-500 font-bold uppercase tracking-wider text-[10px] md:text-xs relative z-10">
+                                <MapPin className="w-3.5 h-3.5 text-blue-500" /> {collegeA.location}
+                            </div>
                         </div>
-                        <div className="p-6 md:p-10">
-                            {collegeB.logo && (
-                                <img src={collegeB.logo} alt={collegeB.name} className="h-16 md:h-20 w-auto object-contain mb-6 mix-blend-multiply" />
-                            )}
-                            <h2 className="text-2xl md:text-3xl font-black tracking-tight leading-none mb-2 text-secondary">{collegeB.name}</h2>
-                            <p className="font-bold text-slate-500 uppercase tracking-wider text-sm">{collegeB.location}</p>
+                        <div className="p-8 md:p-12 flex flex-col items-center text-center relative overflow-hidden">
+                            <div className="absolute top-0 left-0 w-64 h-64 bg-purple-500/5 rounded-full blur-3xl -mt-20 -ml-20 pointer-events-none" />
+                            <div className="w-20 h-20 bg-white rounded-2xl shadow-sm border border-slate-100 flex items-center justify-center p-3 mb-6 relative z-10">
+                                {collegeB.logo ? (
+                                    <img src={collegeB.logo} alt={collegeB.name} className="w-full h-full object-contain" />
+                                ) : <GraduationCap className="w-10 h-10 text-purple-300" />}
+                            </div>
+                            <h2 className="text-2xl md:text-4xl font-black tracking-tight leading-tight mb-3 text-slate-900 relative z-10">{collegeB.name}</h2>
+                            <div className="flex items-center gap-2 text-slate-500 font-bold uppercase tracking-wider text-[10px] md:text-xs relative z-10">
+                                <MapPin className="w-3.5 h-3.5 text-purple-500" /> {collegeB.location}
+                            </div>
                         </div>
                     </div>
 
                     {/* Data Rows */}
-                    <ComparisonRow
-                        label="Ranking"
-                        valA={collegeA.ranking}
-                        valB={collegeB.ranking}
-                        isWinnerA={null}
-                    />
-                    <ComparisonRow
-                        label="Average Package"
-                        valA={collegeA.avg_placement}
-                        valB={collegeB.avg_placement}
-                        isWinnerA={comparePackages(collegeA.avg_placement, collegeB.avg_placement)}
-                    />
-                    <ComparisonRow
-                        label="Highest Package"
-                        valA={collegeA.highest_placement}
-                        valB={collegeB.highest_placement}
-                        isWinnerA={comparePackages(collegeA.highest_placement, collegeB.highest_placement)}
-                        bg="bg-slate-50"
-                    />
-                    <ComparisonRow
-                        label="Total Fees"
-                        valA={collegeA.fees}
-                        valB={collegeB.fees}
-                        isWinnerA={compareFees(collegeA.fees, collegeB.fees)}
-                    />
-                    <ComparisonRow
-                        label="Exams Accepted"
-                        valA={collegeA.exams.join(", ")}
-                        valB={collegeB.exams.join(", ")}
-                        isWinnerA={null}
-                        bg="bg-slate-50"
-                    />
-                    <ComparisonRow
-                        label="Courses Offered"
-                        valA={collegeA.courses.join(", ")}
-                        valB={collegeB.courses.join(", ")}
-                        isWinnerA={null}
-                    />
-                    <ComparisonRow
-                        label="Type & Established"
-                        valA={`${collegeA.ownership} (${collegeA.established})`}
-                        valB={`${collegeB.ownership} (${collegeB.established})`}
-                        isWinnerA={null}
-                        bg="bg-slate-50"
-                    />
+                    <div className="px-4 md:px-8 py-4">
+                        <ComparisonRow
+                            label="Total Fees"
+                            icon={<IndianRupee className="w-4 h-4" />}
+                            valA={collegeA.fees}
+                            valB={collegeB.fees}
+                            isWinnerA={compareFees(collegeA.fees, collegeB.fees)}
+                        />
+                        <ComparisonRow
+                            label="Average Package"
+                            icon={<TrendingUp className="w-4 h-4" />}
+                            valA={collegeA.avg_placement}
+                            valB={collegeB.avg_placement}
+                            isWinnerA={comparePackages(collegeA.avg_placement, collegeB.avg_placement)}
+                        />
+                        <ComparisonRow
+                            label="Highest Package"
+                            icon={<Trophy className="w-4 h-4" />}
+                            valA={collegeA.highest_placement || "N/A"}
+                            valB={collegeB.highest_placement || "N/A"}
+                            isWinnerA={comparePackages(collegeA.highest_placement, collegeB.highest_placement)}
+                        />
+                        <ComparisonRow
+                            label="Recognitions & Ranking"
+                            icon={<Award className="w-4 h-4" />}
+                            valA={collegeA.ranking}
+                            valB={collegeB.ranking}
+                            isWinnerA={null}
+                        />
+                        <ComparisonRow
+                            label="Exams Accepted"
+                            icon={<BookOpen className="w-4 h-4" />}
+                            valA={collegeA.exams.join(", ")}
+                            valB={collegeB.exams.join(", ")}
+                            isWinnerA={null}
+                        />
+                        <ComparisonRow
+                            label="Courses Offered"
+                            icon={<GraduationCap className="w-4 h-4" />}
+                            valA={collegeA.courses.join(", ")}
+                            valB={collegeB.courses.join(", ")}
+                            isWinnerA={null}
+                        />
+                        <ComparisonRow
+                            label="Type & Established"
+                            icon={<Building2 className="w-4 h-4" />}
+                            valA={`${collegeA.ownership} (${collegeA.established})`}
+                            valB={`${collegeB.ownership} (${collegeB.established})`}
+                            isWinnerA={null}
+                        />
+                    </div>
                     
                     {/* Action Row */}
-                    <div className="grid grid-cols-2 border-t-8 border-foreground">
-                        <div className="p-6 md:p-8 flex justify-center border-r-4 border-foreground bg-primary/10">
-                            <a href={`/colleges/${collegeA.slug}`} className="bg-foreground text-white font-black uppercase tracking-widest px-8 py-4 hover:bg-primary transition-colors text-sm md:text-base border-2 border-transparent hover:border-foreground">
+                    <div className="grid grid-cols-2 gap-4 px-8 mt-4 rounded-b-[2.5rem]">
+                        <div className="flex justify-center">
+                            <a href={`/colleges/${collegeA.slug}`} className="w-full text-center bg-slate-900 text-white font-black uppercase tracking-widest px-8 py-4 rounded-2xl hover:bg-blue-600 transition-all shadow-md shadow-slate-200 text-xs md:text-sm">
                                 View Profile
                             </a>
                         </div>
-                        <div className="p-6 md:p-8 flex justify-center bg-secondary/10">
-                            <a href={`/colleges/${collegeB.slug}`} className="bg-foreground text-white font-black uppercase tracking-widest px-8 py-4 hover:bg-secondary transition-colors text-sm md:text-base border-2 border-transparent hover:border-foreground">
+                        <div className="flex justify-center">
+                            <a href={`/colleges/${collegeB.slug}`} className="w-full text-center bg-slate-900 text-white font-black uppercase tracking-widest px-8 py-4 rounded-2xl hover:bg-purple-600 transition-all shadow-md shadow-slate-200 text-xs md:text-sm">
                                 View Profile
                             </a>
                         </div>
@@ -156,19 +181,25 @@ export function CollegeComparison({ colleges }: CollegeComparisonProps) {
     );
 }
 
+const Award = ({className}: {className?: string}) => (
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/></svg>
+)
+
 // Helper component for the dropdown selector
 function CollegeSelector({ 
     colleges, 
     selectedId, 
     onSelect, 
     placeholder,
-    disabledId 
+    disabledId,
+    theme
 }: { 
     colleges: CollegeMetadata[]; 
     selectedId: string | null; 
     onSelect: (id: string | null) => void;
     placeholder: string;
     disabledId: string | null;
+    theme: "blue" | "purple";
 }) {
     const [isOpen, setIsOpen] = useState(false);
     const [search, setSearch] = useState("");
@@ -194,52 +225,58 @@ function CollegeSelector({
         return () => document.removeEventListener("mousedown", handleClickOutside);
     }, []);
 
+    const themeColors = {
+        blue: { icon: "text-blue-500", hover: "hover:bg-blue-50", text: "text-blue-600" },
+        purple: { icon: "text-purple-500", hover: "hover:bg-purple-50", text: "text-purple-600" },
+    }[theme];
+
     return (
         <div className="relative" ref={wrapperRef}>
             <button
                 onClick={() => setIsOpen(!isOpen)}
-                className="w-full flex items-center justify-between p-4 md:p-6 bg-white hover:bg-slate-100 transition-colors text-left"
+                className="w-full flex items-center justify-between p-4 md:p-6 bg-transparent transition-colors text-left rounded-3xl"
             >
                 {selectedCollege ? (
                     <div>
-                        <div className="font-black text-lg md:text-xl text-foreground line-clamp-1">{selectedCollege.name}</div>
-                        <div className="font-bold text-sm text-slate-500 uppercase">{selectedCollege.location}</div>
+                        <div className="font-black text-lg text-slate-900 line-clamp-1">{selectedCollege.name}</div>
+                        <div className="font-bold text-xs text-slate-400 uppercase tracking-wider mt-0.5">{selectedCollege.location}</div>
                     </div>
                 ) : (
-                    <span className="font-bold text-slate-400 text-lg">{placeholder}</span>
+                    <span className="font-bold text-slate-400 text-base">{placeholder}</span>
                 )}
                 {selectedCollege ? (
-                    <div className="p-2 ml-4 flex-shrink-0" onClick={(e) => { e.stopPropagation(); onSelect(null); }}>
-                        <X className="w-6 h-6 text-slate-400 hover:text-red-500" />
+                    <div className="p-2 ml-4 flex-shrink-0 bg-slate-50 hover:bg-slate-100 rounded-full transition-colors" onClick={(e) => { e.stopPropagation(); onSelect(null); }}>
+                        <X className="w-4 h-4 text-slate-400 hover:text-red-500" />
                     </div>
                 ) : (
-                    <ChevronDown className="w-6 h-6 text-foreground flex-shrink-0 ml-4" />
+                    <ChevronDown className="w-5 h-5 text-slate-400 flex-shrink-0 ml-4" />
                 )}
             </button>
 
             {isOpen && (
-                <div className="absolute top-full left-0 right-0 mt-2 z-50 bg-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] max-h-96 flex flex-col">
-                    <div className="p-4 border-b-4 border-foreground sticky top-0 bg-white">
+                <div className="absolute top-[calc(100%+8px)] left-0 right-0 z-50 bg-white border border-slate-200 shadow-2xl rounded-3xl max-h-96 flex flex-col overflow-hidden">
+                    <div className="p-4 border-b border-slate-100 bg-slate-50/50">
                         <div className="relative">
-                            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400" />
+                            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" />
                             <input
                                 type="text"
-                                className="w-full border-2 border-foreground bg-slate-50 pl-12 pr-4 py-3 font-bold text-foreground focus:outline-none focus:border-primary focus:bg-white"
+                                className="w-full border border-slate-200 bg-white rounded-2xl pl-12 pr-4 py-3 font-semibold text-sm text-slate-800 focus:outline-none focus:border-slate-300 focus:ring-4 focus:ring-slate-100 transition-all placeholder:text-slate-400 placeholder:font-medium"
                                 placeholder="Search college or city..."
                                 value={search}
                                 onChange={(e) => setSearch(e.target.value)}
                                 onClick={(e) => e.stopPropagation()}
+                                autoFocus
                             />
                         </div>
                     </div>
-                    <div className="overflow-y-auto overflow-x-hidden flex-1 p-2 space-y-1">
+                    <div className="overflow-y-auto flex-1 p-2 space-y-1">
                         {filteredColleges.length === 0 ? (
-                            <div className="p-6 text-center font-bold text-slate-500">No colleges found</div>
+                            <div className="p-6 text-center font-bold text-sm text-slate-400">No colleges found</div>
                         ) : (
                             filteredColleges.map(college => (
                                 <button
                                     key={college.slug}
-                                    className={`w-full text-left p-4 hover:bg-primary hover:text-white transition-colors flex items-center justify-between group ${selectedId === college.slug ? 'bg-primary/10' : ''}`}
+                                    className={`w-full text-left p-4 rounded-2xl transition-all flex items-center justify-between group ${selectedId === college.slug ? 'bg-slate-50' : `hover:bg-slate-50`}`}
                                     onClick={() => {
                                         onSelect(college.slug);
                                         setIsOpen(false);
@@ -247,14 +284,14 @@ function CollegeSelector({
                                     }}
                                 >
                                     <div>
-                                        <div className={`font-bold text-lg leading-tight mb-1 group-hover:text-white ${selectedId === college.slug ? 'text-primary' : 'text-foreground'}`}>
+                                        <div className={`font-black text-sm leading-tight mb-1 transition-colors ${selectedId === college.slug ? themeColors.text : 'text-slate-700'}`}>
                                             {college.name}
                                         </div>
-                                        <div className={`text-sm uppercase font-bold group-hover:text-white/80 ${selectedId === college.slug ? 'text-primary/70' : 'text-slate-500'}`}>
+                                        <div className={`text-[10px] uppercase font-bold tracking-wider ${selectedId === college.slug ? themeColors.text + ' opacity-70' : 'text-slate-400'}`}>
                                             {college.location}
                                         </div>
                                     </div>
-                                    {selectedId === college.slug && <Check className="w-5 h-5 text-primary group-hover:text-white flex-shrink-0" />}
+                                    {selectedId === college.slug && <Check className={`w-4 h-4 flex-shrink-0 ${themeColors.text}`} />}
                                 </button>
                             ))
                         )}
@@ -268,36 +305,47 @@ function CollegeSelector({
 // Component for a single comparison row
 function ComparisonRow({ 
     label, 
+    icon,
     valA, 
     valB, 
     isWinnerA, 
-    bg = "bg-white" 
 }: { 
     label: string; 
-    valA: string; 
-    valB: string; 
+    icon: React.ReactNode;
+    valA: string | undefined | null; 
+    valB: string | undefined | null; 
     isWinnerA: boolean | null; // true means A is better, false means B is better, null means neutral/can't compute
-    bg?: string;
 }) {
-    // If we have a clear winner, we show a green bg for the winner cell.
     const isAWinner = isWinnerA === true;
     const isBWinner = isWinnerA === false;
 
+    // Use placeholder if a value is entirely missing
+    const showValA = valA || "—";
+    const showValB = valB || "—";
+
     return (
-        <div className={`border-b-4 border-foreground grid grid-cols-1 md:grid-cols-12 ${bg}`}>
-            {/* Label (centered on mobile, left on desktop) */}
-            <div className="md:col-span-12 p-2 border-b-2 border-slate-200 md:border-none bg-slate-100 md:bg-transparent text-center">
-                <span className="bg-foreground text-white uppercase text-xs font-black tracking-widest px-3 py-1 inline-block">
-                    {label}
-                </span>
+        <div className="mb-4 last:mb-0">
+            {/* Label */}
+            <div className="flex items-center justify-center gap-2 mb-2">
+                <div className="w-6 h-6 rounded-full bg-slate-50 border border-slate-100 flex items-center justify-center text-slate-400">
+                    {icon}
+                </div>
+                <span className="text-[10px] font-black uppercase tracking-widest text-slate-400">{label}</span>
             </div>
             
-            <div className="grid grid-cols-2 md:col-span-12">
-                <div className={`p-6 md:p-8 font-bold text-lg md:text-xl flex flex-col items-center justify-center text-center border-r-4 border-foreground ${isAWinner ? 'bg-green-100 text-green-900 border-l-8 border-l-green-500' : 'text-foreground'} transition-colors duration-500`}>
-                    {valA}
+            {/* Data Columns */}
+            <div className="grid grid-cols-2 gap-4">
+                <div className={`rounded-2xl p-5 md:p-6 flex items-center justify-center text-center transition-all duration-300 ${isAWinner ? 'bg-emerald-50 border border-emerald-100 shadow-sm' : 'bg-slate-50 border border-slate-100'}`}>
+                    <span className={`font-black text-sm md:text-base ${isAWinner ? 'text-emerald-700' : 'text-slate-700'}`}>
+                        {showValA}
+                    </span>
+                    {isAWinner && <span className="ml-2 flex-shrink-0 bg-emerald-100 text-emerald-600 text-[8px] font-black uppercase tracking-widest px-2 py-1 rounded-md">Winner</span>}
                 </div>
-                <div className={`p-6 md:p-8 font-bold text-lg md:text-xl flex flex-col items-center justify-center text-center ${isBWinner ? 'bg-green-100 text-green-900 border-l-8 border-l-green-500' : 'text-foreground'} transition-colors duration-500`}>
-                    {valB}
+                <div className={`rounded-2xl p-5 md:p-6 flex items-center justify-center text-center transition-all duration-300 ${isBWinner ? 'bg-emerald-50 border border-emerald-100 shadow-sm' : 'bg-slate-50 border border-slate-100'}`}>
+                    <span className={`font-black text-sm md:text-base ${isBWinner ? 'text-emerald-700' : 'text-slate-700'}`}>
+                        {showValB}
+                    </span>
+                    {isBWinner && <span className="ml-2 flex-shrink-0 bg-emerald-100 text-emerald-600 text-[8px] font-black uppercase tracking-widest px-2 py-1 rounded-md">Winner</span>}
                 </div>
             </div>
         </div>
@@ -305,7 +353,7 @@ function ComparisonRow({
 }
 
 // Logic to extract number from formatted strings like "₹25.13 LPA" or "₹16.00 Lakhs"
-function extractNumber(str: string): number {
+function extractNumber(str: string | undefined | null): number {
     if (!str) return 0;
     const cleanStr = str.replace(/[^0-9.]/g, '');
     const num = parseFloat(cleanStr);
@@ -318,7 +366,7 @@ function extractNumber(str: string): number {
 }
 
 // Returns true if A > B, false if B > A, null if equal or unparseable
-function comparePackages(a: string, b: string): boolean | null {
+function comparePackages(a: string | undefined | null, b: string | undefined | null): boolean | null {
     const numA = extractNumber(a);
     const numB = extractNumber(b);
     if (!numA || !numB) return null;
@@ -326,10 +374,11 @@ function comparePackages(a: string, b: string): boolean | null {
     return numA > numB;
 }
 
-function compareFees(a: string, b: string): boolean | null {
+function compareFees(a: string | undefined | null, b: string | undefined | null): boolean | null {
     const numA = extractNumber(a);
     const numB = extractNumber(b);
     if (!numA || !numB) return null;
     if (numA === numB) return null;
     return numA < numB; // For fees, lower is better (winner)
 }
+
