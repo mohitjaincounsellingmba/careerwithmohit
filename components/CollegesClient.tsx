@@ -62,34 +62,21 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
 
   const categories = ["All Streams", "Management", "Engineering", "UG Courses"];
 
-  // Course options scoped by selected category
-  const managementCourses = ["All Courses", "MBA", "PGDM", "BBA"];
-  const engineeringCourses = useMemo(() => {
-    const courses = new Set<string>();
-    colleges
-      .filter(c => c.category === "Engineering")
-      .forEach(c => c.courses.forEach(course => courses.add(course)));
-    return ["All Courses", ...Array.from(courses).sort()];
-  }, [colleges]);
-  const ugCourses = useMemo(() => {
-    const courses = new Set<string>();
-    colleges
-      .filter(c => c.category === "UG Courses")
-      .forEach(c => c.courses.forEach(course => courses.add(course)));
-    return ["All Courses", ...Array.from(courses).sort()];
-  }, [colleges]);
+  // Hardcoded course options scoped by category
+  const managementCourses = ["All Courses", "MBA", "PGDM"];
+  const engineeringCourses = ["All Courses", "B.Tech", "M.Tech"];
+  const ugCourses = ["All Courses", "BCom", "BBA", "BCA", "BSc", "B.Pharma", "BA", "BA LLB"];
   const allPossibleCourses = useMemo(() => {
     const courses = new Set<string>();
     colleges.forEach(c => c.courses.forEach(course => courses.add(course)));
     return ["All Courses", ...Array.from(courses)].sort();
   }, [colleges]);
 
-  const courseOptionsForCategory = useMemo(() => {
-    if (selectedCategory === "Management") return managementCourses;
-    if (selectedCategory === "Engineering") return engineeringCourses;
-    if (selectedCategory === "UG Courses") return ugCourses;
-    return allPossibleCourses;
-  }, [selectedCategory, managementCourses, engineeringCourses, ugCourses, allPossibleCourses]);
+  const courseOptionsForCategory =
+    selectedCategory === "Management" ? managementCourses
+    : selectedCategory === "Engineering" ? engineeringCourses
+    : selectedCategory === "UG Courses" ? ugCourses
+    : allPossibleCourses;
 
   const allPossibleExams = useMemo(() => {
     const exams = new Set<string>();
@@ -133,8 +120,9 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
       const matchesCategory = selectedCategory === "All Streams" || 
         college.category === selectedCategory;
 
-      const matchesCourse = selectedCourse === "All Courses" || 
-        college.courses.includes(selectedCourse);
+      // Use partial match: "B.Tech" matches "B.Tech CSE", "B.Tech ECE" etc.
+      const matchesCourse = selectedCourse === "All Courses" ||
+        college.courses.some(c => c === selectedCourse || c.startsWith(selectedCourse + " ") || c.toLowerCase().includes(selectedCourse.toLowerCase()));
 
       const matchesState = selectedState === "All States" || 
         locInfo.state === selectedState;
