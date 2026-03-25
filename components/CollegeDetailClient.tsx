@@ -263,7 +263,36 @@ export function CollegeDetailClient({ college }: { college: College }) {
               prose-li:text-slate-700 prose-li:font-medium
               prose-strong:text-slate-900 prose-strong:font-black
               prose-table:border prose-table:rounded-xl prose-table:overflow-hidden">
-              <ReactMarkdown remarkPlugins={[remarkGfm]}>{displayContent}</ReactMarkdown>
+              <ReactMarkdown 
+                remarkPlugins={[remarkGfm]}
+                components={{
+                  a: ({ node, ...props }) => {
+                    const isExternal = props.href?.startsWith('http');
+                    if (isExternal) {
+                      return (
+                        <a 
+                          {...props} 
+                          target="_blank" 
+                          rel="noopener noreferrer" 
+                          className="text-blue-600 hover:text-blue-800 font-bold underline decoration-blue-200 decoration-2 underline-offset-4 transition-all"
+                        >
+                          {props.children}
+                        </a>
+                      );
+                    }
+                    return (
+                      <Link 
+                        href={props.href || "#"} 
+                        className="text-blue-600 hover:text-blue-800 font-bold underline decoration-blue-200 decoration-2 underline-offset-4 transition-all"
+                      >
+                        {props.children}
+                      </Link>
+                    );
+                  }
+                }}
+              >
+                {displayContent}
+              </ReactMarkdown>
             </div>
           </div>
         </div>
