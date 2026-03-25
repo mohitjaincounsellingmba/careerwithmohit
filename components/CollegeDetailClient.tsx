@@ -23,6 +23,11 @@ import {
   ArrowUpRight,
   Layers,
   BarChart3,
+  Home,
+  Coffee,
+  Wifi,
+  Library,
+  Bus,
 } from "lucide-react";
 import Link from "next/link";
 import { College } from "@/lib/colleges";
@@ -234,7 +239,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
     ],
   };
 
-  const tabs = ["Overview", "Programs & Fees", "Placements", "Admissions"];
+  const tabs = ["Overview", "Programs & Fees", "Placements", "Admissions", "Campus Life"];
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
@@ -506,6 +511,66 @@ export function CollegeDetailClient({ college }: { college: College }) {
                     </div>
                   </div>
                 ))}
+              </div>
+            </Section>
+          )}
+
+          {/* ── CAMPUS & HOSTEL ── */}
+          {(activeTab === "Overview" || activeTab === "Campus Life") && (
+            <Section id="campus" icon={<MapPin className="w-5 h-5 text-rose-500" />} title="Campus & Hostel Life">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                {/* Facilities */}
+                <div className="space-y-4">
+                  <h3 className="text-sm font-black uppercase tracking-wide text-slate-400">Campus Facilities</h3>
+                  <div className="grid grid-cols-2 gap-3">
+                    {[
+                      { name: "Smart Classrooms", icon: <BookOpen className="w-4 h-4" /> },
+                      { name: "Digital Library", icon: <Library className="w-4 h-4" /> },
+                      { name: "High-Speed Wi-Fi", icon: <Wifi className="w-4 h-4" /> },
+                      { name: "Cafeteria", icon: <Coffee className="w-4 h-4" /> },
+                      { name: "Transport Facility", icon: <Bus className="w-4 h-4" /> },
+                      { name: "Sports Complex", icon: <Target className="w-4 h-4" /> },
+                    ].map((fac) => (
+                      <div key={fac.name} className="flex items-center gap-3 bg-white border border-slate-100 p-3 rounded-2xl hover:border-rose-200 transition-colors">
+                        <div className="text-rose-500 bg-rose-50 p-2 rounded-xl">{fac.icon}</div>
+                        <span className="text-xs font-bold text-slate-700">{fac.name}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Hostel */}
+                <div className="bg-rose-50 border border-rose-100 rounded-3xl p-6 relative overflow-hidden">
+                  <div className="absolute top-0 right-0 w-32 h-32 bg-rose-500/10 rounded-full blur-2xl -mt-10 -mr-10" />
+                  <div className="flex items-center gap-3 mb-6 relative z-10">
+                    <div className="bg-white p-2.5 rounded-xl shadow-sm text-rose-500">
+                      <Home className="w-5 h-5" />
+                    </div>
+                    <div>
+                      <h3 className="text-sm font-black text-slate-900">Hostel Accommodation</h3>
+                      <p className="text-[10px] font-black uppercase tracking-widest text-rose-600">Boys & Girls Hostels</p>
+                    </div>
+                  </div>
+                  <div className="space-y-4 relative z-10">
+                    <div className="bg-white rounded-2xl p-4 border border-rose-100/50 shadow-sm">
+                      <div className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-1">Estimated Hostel Fee</div>
+                      <div className="text-lg font-black text-rose-600">₹1.2L - ₹1.8L <span className="text-xs text-slate-400 font-medium">/ year</span></div>
+                    </div>
+                    <ul className="space-y-2">
+                      {[
+                        "AC / Non-AC Rooms Available",
+                        "24/7 Security & CCTV",
+                        "Nutritious Mess Food (Veg/Non-Veg)",
+                        "Laundry & Housekeeping",
+                      ].map((feature, i) => (
+                        <li key={i} className="flex items-start gap-2 text-xs font-medium text-slate-700">
+                          <CheckCircle2 className="w-3.5 h-3.5 text-rose-500 mt-0.5 flex-shrink-0" />
+                          {feature}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </div>
               </div>
             </Section>
           )}
