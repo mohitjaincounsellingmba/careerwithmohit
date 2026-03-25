@@ -12,7 +12,8 @@ import {
   Award,
   Plane,
   Bell,
-  ArrowRight
+  ArrowRight,
+  Sparkles
 } from 'lucide-react';
 
 const SERVICES = [
@@ -80,11 +81,11 @@ export default function Home() {
         <div className="mx-auto max-w-7xl">
           <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
             <div className="max-w-2xl">
-              <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase">
-                Find Best MBA Colleges in India
+              <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase leading-none">
+                Admission 2026 <span className="text-primary tracking-tighter italic">Strategic Hub</span>
               </h2>
-              <p className="mt-4 text-xl font-medium text-gray-600">
-                Total support across your entire academic and professional journey.
+              <p className="mt-4 text-xl font-bold text-gray-600">
+                End-to-end support for your MBA, B.Tech, and professional journey across India.
               </p>
             </div>
           </div>
@@ -95,7 +96,7 @@ export default function Home() {
               return (
                 <div
                   key={idx}
-                  className={`group relative overflow-hidden rounded-xl border-4 border-foreground ${service.color} p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer`}
+                  className={`group relative overflow-hidden rounded-xl border-4 border-foreground ${service.color} p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]`}
                 >
                   <div className="mb-8 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white border-4 border-foreground transition-transform group-hover:scale-110">
                     <Icon className={`h-8 w-8 ${service.accent}`} strokeWidth={2.5} />
@@ -103,12 +104,92 @@ export default function Home() {
                   <h3 className="font-display text-2xl font-bold tracking-tight text-foreground mb-4">
                     {service.title}
                   </h3>
-                  <p className="text-base font-medium text-gray-800 leading-relaxed">
+                  <p className="text-base font-bold text-gray-800 leading-relaxed italic">
                     {service.description}
                   </p>
                 </div>
               );
             })}
+          </div>
+        </div>
+      </section>
+
+      {/* PLACEMENTS & REVIEWS 2026 */}
+      <section id="placements" className="bg-foreground px-6 py-24 sm:px-12 text-white">
+        <div className="mx-auto max-w-7xl">
+          <div className="grid lg:grid-cols-2 gap-16 items-center">
+            <div>
+              <span className="bg-accent text-foreground px-4 py-1 text-sm font-black uppercase tracking-widest mb-6 inline-block transform -rotate-2">
+                2026 Batch Intel
+              </span>
+              <h2 className="font-display text-5xl sm:text-7xl font-black uppercase tracking-tighter leading-none mb-8">
+                Placement <br /> <span className="text-primary">Audits & Reviews</span>
+              </h2>
+              <p className="text-xl text-gray-400 font-bold leading-relaxed mb-10 max-w-lg">
+                We audit the "Real" placement reports, not the marketing brochures. Get the truth about the 2026 salary trends, pool placement traps, and ROI reality.
+              </p>
+              
+              <div className="space-y-6">
+                <div className="flex gap-4 items-start">
+                  <div className="bg-white/10 p-3 rounded-lg border border-white/20">
+                    <Target className="h-6 w-6 text-accent" />
+                  </div>
+                  <div>
+                    <h4 className="text-lg font-black uppercase tracking-tight text-white mb-1">Independent College Reviews</h4>
+                    <p className="text-gray-400 font-medium">Unbiased comparisons like NDIM vs DSB or NIU vs Galgotias.</p>
+                  </div>
+                </div>
+                <div className="flex gap-4 items-start">
+                  <div className="bg-white/10 p-3 rounded-lg border border-white/20">
+                    <Award className="h-6 w-6 text-accent" />
+                  </div>
+                  <div>
+                    <h4 className="text-lg font-black uppercase tracking-tight text-white mb-1">Verified ROI Audits</h4>
+                    <p className="text-gray-400 font-medium">We verify if a ₹15 Lakh fee justifies a ₹10 Lakh placement.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-12 flex flex-wrap gap-4">
+                <Link href="/blog/ndim-vs-delhi-school-of-business-dsb-comparison-2026" className="bg-white text-foreground px-6 py-3 rounded-md font-black uppercase transition-all hover:bg-accent text-sm border-2 border-white shadow-[4px_4px_0px_0px_rgba(59,130,246,1)] hover:shadow-[6px_6px_0px_0px_rgba(59,130,246,1)]">
+                  NDIM vs DSB Review
+                </Link>
+                <Link href="/blog/why-never-join-nmims-online-mba-honest-review-2026" className="bg-rose-500 text-white px-6 py-3 rounded-md font-black uppercase transition-all hover:bg-rose-600 text-sm border-2 border-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+                    NMIMS Online Truth
+                </Link>
+              </div>
+            </div>
+
+            <div className="relative">
+              <div className="bg-primary rounded-3xl p-10 relative overflow-hidden border-8 border-foreground shadow-[12px_12px_0px_0px_rgba(255,191,0,1)]">
+                <div className="absolute top-0 right-0 p-4">
+                  <Sparkles className="h-20 w-20 text-white/10 rotate-12" />
+                </div>
+                <h3 className="text-3xl font-black uppercase tracking-tight mb-6">2026 Snapshot</h3>
+                <div className="space-y-6">
+                  <div className="bg-foreground/50 p-6 rounded-2xl border border-white/10 group cursor-default">
+                    <div className="flex justify-between items-center mb-2">
+                        <span className="text-sm font-black uppercase tracking-widest text-accent">Top Packages</span>
+                        <span className="text-xs font-bold text-gray-400">Delhi-NCR</span>
+                    </div>
+                    <div className="text-4xl font-black">₹36.6 LPA <span className="text-lg text-gray-500 line-through decoration-rose-500 font-normal ml-2">₹12.0 LPA</span></div>
+                    <p className="text-sm text-gray-400 mt-2 font-medium">Realized Highest vs Mass Avg for 2026 Batch</p>
+                  </div>
+                  <div className="bg-foreground/50 p-6 rounded-2xl border border-white/10 group cursor-default">
+                    <div className="flex justify-between items-center mb-2">
+                        <span className="text-sm font-black uppercase tracking-widest text-emerald-400">Direct Guidance</span>
+                        <span className="text-xs font-bold text-gray-400">Verified Seats</span>
+                    </div>
+                    <div className="text-4xl font-black">100% <span className="text-lg text-gray-500 font-normal ml-2 tracking-tight">Success</span></div>
+                    <p className="text-sm text-gray-400 mt-2 font-medium">Verified Admission Success for all our 2025-26 applicants.</p>
+                  </div>
+                </div>
+                <Link href="/inquiry" className="mt-10 w-full bg-accent text-foreground py-4 rounded-xl flex items-center justify-center font-black uppercase text-xl transition-all hover:bg-white border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(59,130,246,1)] hover:scale-105 group">
+                  Start Your Review
+                  <ArrowRight className="ml-3 h-6 w-6 group-hover:translate-x-2 transition-transform" />
+                </Link>
+              </div>
+            </div>
           </div>
         </div>
       </section>
