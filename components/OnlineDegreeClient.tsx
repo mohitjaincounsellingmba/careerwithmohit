@@ -460,6 +460,7 @@ const FEE_RANGES = [
   { label: '₹1.5L – ₹2L', min: 150000, max: 200000 },
   { label: 'Above ₹2L', min: 200000, max: Infinity },
 ];
+const COURSES = ['MBA', 'MCA', 'BBA', 'BCA', 'B.Com', 'M.Com', 'MA', 'BA', 'B.Sc', 'M.Sc', 'B.Tech', 'Diploma'];
 
 /* ── Inquiry Modal ── */
 function InquiryModal({ college, onClose }: { college: typeof COLLEGES[0]; onClose: () => void }) {
@@ -657,6 +658,7 @@ export default function OnlineDegreeClient() {
   const [search, setSearch] = useState('');
   const [grade, setGrade] = useState('All');
   const [feeRange, setFeeRange] = useState(0);
+  const [course, setCourse] = useState('All');
   const [showFilters, setShowFilters] = useState(false);
   const [selectedCollege, setSelectedCollege] = useState<typeof COLLEGES[0] | null>(null);
   const [showInquiry, setShowInquiry] = useState(false);
@@ -671,9 +673,10 @@ export default function OnlineDegreeClient() {
         || c.programs.some((p) => p.toLowerCase().includes(search.toLowerCase()));
       const matchGrade = grade === 'All' || c.grade === grade;
       const matchFee = c.feeNum >= selectedFeeRange.min && c.feeNum <= selectedFeeRange.max;
-      return matchSearch && matchGrade && matchFee;
+      const matchCourse = course === 'All' || c.programs.includes(course);
+      return matchSearch && matchGrade && matchFee && matchCourse;
     });
-  }, [search, grade, selectedFeeRange]);
+  }, [search, grade, selectedFeeRange, course]);
 
   const openInquiry = (college: typeof COLLEGES[0]) => {
     setInquiryCollege(college);
@@ -712,9 +715,9 @@ export default function OnlineDegreeClient() {
             >
               <SlidersHorizontal size={15} />
               Filters
-              {(grade !== 'All' || feeRange !== 0) && (
+              {(grade !== 'All' || feeRange !== 0 || course !== 'All') && (
                 <span className="bg-white text-indigo-600 text-xs font-black rounded-full w-4 h-4 flex items-center justify-center ml-1">
-                  {(grade !== 'All' ? 1 : 0) + (feeRange !== 0 ? 1 : 0)}
+                  {(grade !== 'All' ? 1 : 0) + (feeRange !== 0 ? 1 : 0) + (course !== 'All' ? 1 : 0)}
                 </span>
               )}
               <ChevronDown size={14} className={`transition-transform ${showFilters ? 'rotate-180' : ''}`} />
@@ -735,6 +738,7 @@ export default function OnlineDegreeClient() {
           {/* Filter Panel */}
           {showFilters && (
             <div className="mt-4 bg-white border border-gray-100 rounded-xl p-5 grid grid-cols-1 sm:grid-cols-2 gap-5 shadow-sm">
+              {/* NAAC Grade */}
               <div>
                 <p className="text-xs font-black uppercase tracking-widest text-gray-400 mb-3 flex items-center gap-1.5">
                   <Award size={12} /> NAAC Grade
@@ -749,6 +753,7 @@ export default function OnlineDegreeClient() {
                   ))}
                 </div>
               </div>
+              {/* Fee Range */}
               <div>
                 <p className="text-xs font-black uppercase tracking-widest text-gray-400 mb-3 flex items-center gap-1.5">
                   <IndianRupee size={12} /> Fee Range: <span className="text-indigo-600 font-black">{selectedFeeRange.label}</span>
@@ -761,6 +766,26 @@ export default function OnlineDegreeClient() {
                   {FEE_RANGES.map((f) => <span key={f.label}>{f.label.split(' ')[0]}</span>)}
                 </div>
               </div>
+              {/* Course / Program */}
+              <div className="sm:col-span-2">
+                <p className="text-xs font-black uppercase tracking-widest text-gray-400 mb-3 flex items-center gap-1.5">
+                  <GraduationCap size={12} /> Course / Program
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  <button onClick={() => setCourse('All')}
+                    className={`px-4 py-1.5 rounded-lg text-sm font-bold border transition-all ${course === 'All' ? 'bg-indigo-600 text-white border-indigo-600' : 'bg-gray-50 text-gray-600 border-gray-200 hover:border-indigo-300'}`}
+                  >
+                    All Courses
+                  </button>
+                  {COURSES.map((c) => (
+                    <button key={c} onClick={() => setCourse(c)}
+                      className={`px-4 py-1.5 rounded-lg text-sm font-bold border transition-all ${course === c ? 'bg-indigo-600 text-white border-indigo-600' : 'bg-gray-50 text-gray-600 border-gray-200 hover:border-indigo-300'}`}
+                    >
+                      {c}
+                    </button>
+                  ))}
+                </div>
+              </div>
             </div>
           )}
         </div>
@@ -771,8 +796,8 @@ export default function OnlineDegreeClient() {
         <p className="text-sm text-gray-500 font-medium">
           Showing <span className="font-black text-indigo-600">{filtered.length}</span> of {COLLEGES.length} universities
         </p>
-        {(search || grade !== 'All' || feeRange !== 0) && (
-          <button onClick={() => { setSearch(''); setGrade('All'); setFeeRange(0); }}
+        {(search || grade !== 'All' || feeRange !== 0 || course !== 'All') && (
+          <button onClick={() => { setSearch(''); setGrade('All'); setFeeRange(0); setCourse('All'); }}
             className="text-xs text-red-500 font-bold hover:underline flex items-center gap-1"
           >
             <X size={12} /> Clear filters
