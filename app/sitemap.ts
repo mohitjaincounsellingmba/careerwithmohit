@@ -19,11 +19,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/certifications',
     '/internships',
     '/inquiry',
+    '/online-degree-certification',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: route === '' ? 1 : (route === '/colleges' ? 0.9 : 0.8),
+    priority: route === '' ? 1 : (route === '/colleges' || route === '/online-degree-certification' ? 0.9 : 0.8),
   }));
 
   // Dynamic blog routes
