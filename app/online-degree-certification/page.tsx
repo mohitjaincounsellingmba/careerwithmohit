@@ -9,9 +9,11 @@ const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 export const metadata: Metadata = {
   title: 'Top Online Degrees & Certifications 2026 | UGC Approved Universities | CareerWithMohit',
   description:
-    'Compare 26+ UGC-DEB approved online universities in India for 2026. Find fees, NAAC grades, programs (MBA, MCA, BBA, BCA) and get FREE expert counselling. Starting at ₹62,200.',
+    'Compare 27+ UGC-DEB approved online universities in India for 2026. Find fees, NAAC grades, programs (MBA, MCA, BBA, BCA) and get FREE expert counselling. Starting at ₹62,200.',
   keywords: [
     'online MBA 2026',
+    'online PGDM 2026',
+    'Jaipuria Institute of Management online PGDM',
     'UGC approved online universities India',
     'online degree India 2026',
     'online BBA admission 2026',
@@ -42,7 +44,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Top Online Degrees & Certifications 2026 | UGC Approved | CareerWithMohit',
     description:
-      'Compare 26+ UGC-DEB approved online universities. Fees from ₹62,200. MBA, MCA, BBA, BCA programs. Free expert counselling by Mohit Jain.',
+      'Compare 27+ UGC-DEB approved online universities. Fees from ₹62,200. MBA, MCA, BBA, BCA programs. Free expert counselling by Mohit Jain.',
     url: PAGE_URL,
     siteName: 'CareerWithMohit',
     type: 'website',
@@ -59,7 +61,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Top Online Degrees & Certifications 2026 | UGC Approved',
     description:
-      'Compare 26+ UGC-DEB approved online universities in India. Fees starting ₹62,200. Free counselling by Mohit Jain.',
+      'Compare 27+ UGC-DEB approved online universities in India. Fees starting ₹62,200. Free counselling by Mohit Jain.',
     images: [`${BASE_URL}/og-online-degree.png`],
     creator: '@careerwithmohit',
   },
@@ -80,7 +82,7 @@ const jsonLd = {
       url: PAGE_URL,
       name: 'Top Online Degrees & Certifications 2026 | UGC Approved Universities | CareerWithMohit',
       description:
-        'Compare 26+ UGC-DEB approved online universities in India. Find fees, NAAC grades, programs and get FREE expert counselling.',
+        'Compare 27+ UGC-DEB approved online universities in India. Find fees, NAAC grades, programs and get FREE expert counselling.',
       isPartOf: { '@id': `${BASE_URL}/#website` },
       breadcrumb: {
         '@type': 'BreadcrumbList',
@@ -95,7 +97,7 @@ const jsonLd = {
       name: 'Top UGC Approved Online Universities India 2026',
       description: 'List of top UGC-DEB approved online universities offering MBA, MCA, BBA, BCA programs in India.',
       url: PAGE_URL,
-      numberOfItems: 26,
+      numberOfItems: 27,
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Amity University Online', url: PAGE_URL },
         { '@type': 'ListItem', position: 2, name: 'Chandigarh University Online', url: PAGE_URL },
@@ -105,6 +107,7 @@ const jsonLd = {
         { '@type': 'ListItem', position: 6, name: 'SRM University Online', url: PAGE_URL },
         { '@type': 'ListItem', position: 7, name: 'D.Y. Patil University Online (Pune)', url: PAGE_URL },
         { '@type': 'ListItem', position: 8, name: 'Manipal University Jaipur Online', url: PAGE_URL },
+        { '@type': 'ListItem', position: 9, name: 'Jaipuria Institute of Management Online', url: PAGE_URL },
       ],
     },
     {
@@ -250,7 +253,7 @@ export default function OnlineDegreePage() {
             {/* Stats */}
             <div className="mt-14 grid grid-cols-3 gap-4 max-w-lg mx-auto">
               {[
-                { num: '26+', label: 'Universities' },
+                { num: '27+', label: 'Universities' },
                 { num: '₹62K', label: 'Starting Fee' },
                 { num: '100%', label: 'UGC Approved' },
               ].map((s) => (
@@ -312,7 +315,7 @@ export default function OnlineDegreePage() {
               How to Choose the Right Online University?
             </h2>
             <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-              With 26+ options, the right choice depends on your goals, budget, and career field. Here&apos;s a simple guide:
+              With 27+ options, the right choice depends on your goals, budget, and career field. Here&apos;s a simple guide:
             </p>
             <div className="space-y-4">
               {[

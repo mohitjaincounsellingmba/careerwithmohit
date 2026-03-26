@@ -111,6 +111,23 @@ export const COLLEGES = [
     whatsapp: '919560020771',
   },
   {
+    name: 'Jaipuria Institute of Management - Online PGDM',
+    location: 'Noida (Corporate Office)',
+    fee: '₹1,40,000',
+    feeNum: 140000,
+    accreditation: 'NAAC A | AICTE | NBA | AIU | AACSB',
+    programs: ['PGDM'],
+    badge: 'AICTE Approved',
+    grade: 'A',
+    gradeColor: 'from-orange-500 to-orange-700',
+    about: 'Jaipuria Institute of Management is one of India\'s premier management institutes. Its Online PGDM is AICTE-approved and recognized by AIU as equivalent to an MBA. The program is designed for working professionals seeking high-quality management education with flexible weekend live sessions.',
+    highlights: ['AICTE approved & AIU recognized (MBA equivalent)', 'AACSB Business Education Alliance Member', 'Top-50 NIRF ranked management institute legacy', 'Dual specialization in Marketing, HR, Finance, Analytics', '12 hours of live sessions per course'],
+    duration: '2 Years (PG)',
+    mode: 'Online (Weekend Live + Recorded)',
+    approvals: 'AICTE, NBA, NAAC A, AIU, NIRF',
+    whatsapp: '919560020771',
+  },
+  {
     name: 'Sikkim Manipal University Online',
     location: 'Gangtok, Sikkim',
     fee: '₹1,10,000',
@@ -460,7 +477,7 @@ const FEE_RANGES = [
   { label: '₹1.5L – ₹2L', min: 150000, max: 200000 },
   { label: 'Above ₹2L', min: 200000, max: Infinity },
 ];
-const COURSES = ['MBA', 'MCA', 'BBA', 'BCA', 'B.Com', 'M.Com', 'MA', 'BA', 'B.Sc', 'M.Sc', 'B.Tech', 'Diploma'];
+const COURSES = ['MBA', 'PGDM', 'MCA', 'BBA', 'BCA', 'B.Com', 'M.Com', 'MA', 'BA', 'B.Sc', 'M.Sc', 'B.Tech', 'Diploma'];
 
 /* ── Inquiry Modal ── */
 function InquiryModal({ college, onClose }: { college: typeof COLLEGES[0]; onClose: () => void }) {
