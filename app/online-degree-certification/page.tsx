@@ -8,32 +8,240 @@ export const metadata: Metadata = {
 };
 
 const COLLEGES = [
-  { name: 'Amity University - Online', location: 'Noida', fee: 'High', rating: 'Top Voted' },
-  { name: 'Chandighar University - Online', location: 'Chandigarh', fee: 'Medium', rating: 'Popular' },
-  { name: 'D.Y Patil University (Pune)', location: 'Pune', fee: 'Medium', rating: 'Preferred' },
-  { name: 'Jain University - Online', location: 'Bangalore', fee: 'High', rating: 'Top Choice' },
-  { name: 'Lovely Professional University - Online', location: 'Punjab', fee: 'Medium', rating: 'Popular' },
-  { name: 'Manipal Academy of Higher Education (MAHE)', location: 'Manipal', fee: 'High', rating: 'Top Voted' },
-  { name: 'Manipal University Jaipur - Online', location: 'Jaipur', fee: 'Medium', rating: 'Preferred' },
-  { name: 'Sikkim Manipal University - Online', location: 'Sikkim', fee: 'Medium', rating: 'Recommended' },
-  { name: 'Narsee Monjee Institute of Management Studies (NMIMS) - Online', location: 'Mumbai', fee: 'High', rating: 'Top Voted' },
-  { name: 'Uttaranchal University - Online', location: 'Dehradun', fee: 'Medium', rating: 'Popular' },
-  { name: 'Vivekananda Global University - Online', location: 'Jaipur', fee: 'Medium', rating: 'Preferred' },
-  { name: 'Parul University - Online', location: 'Vadodara', fee: 'Medium', rating: 'Trending' },
-  { name: 'Sanskriti University', location: 'Mathura', fee: 'Medium', rating: 'Recommended' },
-  { name: 'Lingayas Vidyapeeth', location: 'Faridabad', fee: 'Medium', rating: 'Preferred' },
-  { name: 'Andhra University - Online', location: 'Visakhapatnam', fee: 'Low', rating: 'Popular' },
-  { name: 'Amrita University - Online', location: 'Coimbatore', fee: 'High', rating: 'Top Tier' },
-  { name: 'D.Y Patil University (Mumbai)', location: 'Mumbai', fee: 'High', rating: 'Preferred' },
-  { name: 'Ganeshi Lal Agrawal University (GLA- Mathura)', location: 'Mathura', fee: 'Medium', rating: 'Trending' },
-  { name: 'Shoolini University - Online', location: 'Solan', fee: 'Medium', rating: 'Popular' },
-  { name: 'Sarda University - Online', location: 'Greater Noida', fee: 'High', rating: 'Preferred' },
-  { name: 'UPES - University of Petroleum and Energy Studies - Online', location: 'Dehradun', fee: 'High', rating: 'Top Voted' },
-  { name: 'Vignan University - Online', location: 'Guntur', fee: 'Medium', rating: 'Recommended' },
-  { name: 'SRM Online', location: 'Chennai', fee: 'High', rating: 'Top Tier' },
-  { name: 'Galgotias Online', location: 'Greater Noida', fee: 'Medium', rating: 'Popular' },
-  { name: 'Kalinga University', location: 'Raipur', fee: 'Medium', rating: 'Preferred' },
-  { name: 'Shri Venkateshwara University', location: 'Amroha', fee: 'Low', rating: 'Valued' },
+  {
+    name: 'Amity University Online',
+    location: 'Noida, UP',
+    fee: '₹1,99,000',
+    accreditation: 'NAAC A+ | UGC | AICTE | WES',
+    programs: 'MBA, BBA, MCA, BCA, B.Com, MA',
+    badge: 'Top Rated',
+    badgeColor: 'bg-blue-100 text-blue-800',
+  },
+  {
+    name: 'Chandigarh University Online',
+    location: 'Chandigarh',
+    fee: '₹1,65,000',
+    accreditation: 'NAAC A+ | UGC | QS Ranked',
+    programs: 'MBA, BBA, MCA, BCA, M.Com',
+    badge: 'Popular',
+    badgeColor: 'bg-green-100 text-green-800',
+  },
+  {
+    name: 'D.Y Patil University - Online (Pune)',
+    location: 'Pune, Maharashtra',
+    fee: '₹1,89,400',
+    accreditation: 'NAAC A++ | UGC | AICTE | NIRF | WES',
+    programs: 'MBA, BBA, MCA, BCA, B.Sc',
+    badge: 'NAAC A++',
+    badgeColor: 'bg-purple-100 text-purple-800',
+  },
+  {
+    name: 'Jain University Online',
+    location: 'Bangalore, Karnataka',
+    fee: '₹1,96,000',
+    accreditation: 'NAAC A++ | UGC | AICTE | NIRF | WES',
+    programs: 'MBA, BBA, MCA, BCA, MA, M.Com',
+    badge: 'Top Choice',
+    badgeColor: 'bg-indigo-100 text-indigo-800',
+  },
+  {
+    name: 'Lovely Professional University (LPU) Online',
+    location: 'Phagwara, Punjab',
+    fee: '₹1,61,600',
+    accreditation: 'NAAC A++ | UGC | AICTE | NIRF | AIU',
+    programs: 'MBA, BBA, MCA, BCA, M.Sc, MA',
+    badge: 'NAAC A++',
+    badgeColor: 'bg-purple-100 text-purple-800',
+  },
+  {
+    name: 'Manipal University Jaipur Online',
+    location: 'Jaipur, Rajasthan',
+    fee: '₹1,75,000',
+    accreditation: 'NAAC A+ | UGC | AICTE | NIRF | WES',
+    programs: 'MBA, BBA, MCA, BCA, M.Com',
+    badge: 'Preferred',
+    badgeColor: 'bg-yellow-100 text-yellow-800',
+  },
+  {
+    name: 'Sikkim Manipal University Online',
+    location: 'Gangtok, Sikkim',
+    fee: '₹1,10,000',
+    accreditation: 'NAAC A+ | UGC-DEB | NIRF',
+    programs: 'MBA, BBA, MCA, BCA, M.Com',
+    badge: 'Value Pick',
+    badgeColor: 'bg-teal-100 text-teal-800',
+  },
+  {
+    name: 'NMIMS Online',
+    location: 'Mumbai, Maharashtra',
+    fee: '₹2,00,000',
+    accreditation: 'NAAC A+ | UGC | AICTE',
+    programs: 'MBA, BBA, B.Com, Diploma Programs',
+    badge: 'Premium',
+    badgeColor: 'bg-rose-100 text-rose-800',
+  },
+  {
+    name: 'Uttaranchal University Online',
+    location: 'Dehradun, Uttarakhand',
+    fee: '₹98,000',
+    accreditation: 'NAAC A+ | UGC | AICTE',
+    programs: 'MBA, BBA, MCA, BCA, BA',
+    badge: 'Affordable',
+    badgeColor: 'bg-green-100 text-green-800',
+  },
+  {
+    name: 'Vivekananda Global University Online',
+    location: 'Jaipur, Rajasthan',
+    fee: '₹1,50,000',
+    accreditation: 'NAAC A+ | UGC | AICTE',
+    programs: 'MBA, BBA, MCA, BCA, M.Com',
+    badge: 'Trending',
+    badgeColor: 'bg-orange-100 text-orange-800',
+  },
+  {
+    name: 'Parul University Online',
+    location: 'Vadodara, Gujarat',
+    fee: '₹1,50,000',
+    accreditation: 'NAAC A++ | UGC | NIRF',
+    programs: 'MBA, BBA, MCA, BCA, MA',
+    badge: 'NAAC A++',
+    badgeColor: 'bg-purple-100 text-purple-800',
+  },
+  {
+    name: 'Andhra University Online',
+    location: 'Visakhapatnam, AP',
+    fee: '₹62,200',
+    accreditation: 'NAAC A | UGC | NIRF',
+    programs: 'MBA, MCA, B.Com, BA',
+    badge: 'Budget Friendly',
+    badgeColor: 'bg-green-100 text-green-800',
+  },
+  {
+    name: 'Shoolini University Online',
+    location: 'Solan, Himachal Pradesh',
+    fee: '₹1,10,000',
+    accreditation: 'NAAC A | UGC | NIRF',
+    programs: 'MBA, BBA, B.Com, BA, MA',
+    badge: 'Popular',
+    badgeColor: 'bg-blue-100 text-blue-800',
+  },
+  {
+    name: 'SRM University Online',
+    location: 'Chennai, Tamil Nadu',
+    fee: '₹1,00,000',
+    accreditation: 'NAAC A++ | UGC | AICTE | NIRF',
+    programs: 'MBA, MCA, BBA, BCA',
+    badge: 'NAAC A++',
+    badgeColor: 'bg-purple-100 text-purple-800',
+  },
+  {
+    name: 'Galgotias University Online',
+    location: 'Greater Noida, UP',
+    fee: '₹90,000',
+    accreditation: 'NAAC A+ | UGC | AICTE',
+    programs: 'MBA, MCA, BBA, BCA',
+    badge: 'Affordable',
+    badgeColor: 'bg-green-100 text-green-800',
+  },
+  {
+    name: 'Vignan University Online',
+    location: 'Guntur, Andhra Pradesh',
+    fee: '₹1,00,000',
+    accreditation: 'NAAC A+ | UGC | AICTE | NIRF',
+    programs: 'MBA, BBA, MCA, BCA',
+    badge: 'Recommended',
+    badgeColor: 'bg-teal-100 text-teal-800',
+  },
+  {
+    name: 'Kalinga University Online',
+    location: 'Raipur, Chhattisgarh',
+    fee: '₹80,000',
+    accreditation: 'NAAC B+ | UGC | AICTE',
+    programs: 'MBA, MCA, BBA, BCA',
+    badge: 'Value Pick',
+    badgeColor: 'bg-yellow-100 text-yellow-800',
+  },
+  {
+    name: 'Chitkara University Online',
+    location: 'Rajpura, Punjab',
+    fee: '₹2,00,000',
+    accreditation: 'NAAC A+ | UGC | AICTE | NIRF',
+    programs: 'MBA, BBA, MCA, BCA',
+    badge: 'Premium',
+    badgeColor: 'bg-rose-100 text-rose-800',
+  },
+  {
+    name: 'OP Jindal Global University Online',
+    location: 'Sonipat, Haryana',
+    fee: '₹1,80,000',
+    accreditation: 'NAAC A | UGC | AACSB | QS Ranked',
+    programs: 'MBA, BBA, MA, BA',
+    badge: 'Global Ranking',
+    badgeColor: 'bg-indigo-100 text-indigo-800',
+  },
+  {
+    name: 'Jamia Hamdard University Online',
+    location: 'New Delhi',
+    fee: '₹1,03,500',
+    accreditation: 'NAAC A | UGC | AICTE',
+    programs: 'MBA, BBA, MCA, BCA',
+    badge: 'Delhi NCR',
+    badgeColor: 'bg-blue-100 text-blue-800',
+  },
+  {
+    name: 'Manav Rachna University Online',
+    location: 'Faridabad, Haryana',
+    fee: '₹1,28,000',
+    accreditation: 'NAAC A | UGC-DEB | AICTE',
+    programs: 'MBA, BBA, MCA, BCA',
+    badge: 'Popular',
+    badgeColor: 'bg-green-100 text-green-800',
+  },
+  {
+    name: 'Mody University Online',
+    location: 'Lakshmangarh, Rajasthan',
+    fee: '₹90,000',
+    accreditation: 'NAAC A+ | UGC | AICTE',
+    programs: 'MBA, BBA, MCA, BCA',
+    badge: 'Affordable',
+    badgeColor: 'bg-green-100 text-green-800',
+  },
+  {
+    name: 'Guru Kashi University Online',
+    location: 'Bathinda, Punjab',
+    fee: '₹1,00,000',
+    accreditation: 'NAAC A++ | UGC | ISO',
+    programs: 'MBA, BBA, MCA, BCA',
+    badge: 'NAAC A++',
+    badgeColor: 'bg-purple-100 text-purple-800',
+  },
+  {
+    name: 'SASTRA University Online',
+    location: 'Thanjavur, Tamil Nadu',
+    fee: '₹2,20,000',
+    accreditation: 'NAAC A++ | UGC-DEB | NIRF',
+    programs: 'MBA, MCA, M.Com, B.Com',
+    badge: 'Premium',
+    badgeColor: 'bg-rose-100 text-rose-800',
+  },
+  {
+    name: 'Kurukshetra University Online',
+    location: 'Kurukshetra, Haryana',
+    fee: '₹98,545',
+    accreditation: 'NAAC A+ | UGC | AICTE',
+    programs: 'MBA, MCA, BBA, BCA',
+    badge: 'Trusted',
+    badgeColor: 'bg-teal-100 text-teal-800',
+  },
+  {
+    name: 'UPES Online',
+    location: 'Dehradun, Uttarakhand',
+    fee: '₹1,80,000',
+    accreditation: 'NAAC A | UGC | AICTE | NIRF',
+    programs: 'MBA, BBA, MCA, B.Tech',
+    badge: 'Trending',
+    badgeColor: 'bg-orange-100 text-orange-800',
+  },
 ];
 
 const PROGRAMS = [
@@ -100,20 +308,24 @@ export default function OnlineDegreePage() {
                       key={idx} 
                       className="bg-white border-4 border-foreground p-6 rounded-xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transition-all"
                     >
-                      <h3 className="text-xl font-bold text-foreground mb-3">{college.name}</h3>
+                      <div className="flex items-start justify-between gap-2 mb-3">
+                        <h3 className="text-base font-bold text-foreground leading-snug">{college.name}</h3>
+                        <span className={`shrink-0 px-2 py-0.5 rounded text-xs font-bold ${college.badgeColor}`}>
+                          {college.badge}
+                        </span>
+                      </div>
                       <div className="flex flex-col gap-2 text-sm text-gray-600 font-medium">
                         <div className="flex items-center gap-2">
-                          <MapPin className="h-4 w-4 text-primary" />
+                          <MapPin className="h-4 w-4 text-primary shrink-0" />
                           <span>{college.location}</span>
                         </div>
-                        <div className="flex items-center justify-between mt-2 pt-2 border-t border-gray-100">
-                           <div className="flex items-center gap-2">
-                            <Wallet className="h-4 w-4 text-green-600" />
-                            <span className="font-bold text-gray-800">Fee: {college.fee}</span>
-                           </div>
-                           <span className="bg-yellow-100 text-yellow-800 px-2 py-0.5 rounded text-xs font-bold">
-                             {college.rating}
-                           </span>
+                        <div className="flex items-center gap-2">
+                          <Wallet className="h-4 w-4 text-green-600 shrink-0" />
+                          <span className="font-bold text-gray-800">Fee: {college.fee}</span>
+                        </div>
+                        <div className="mt-1 pt-2 border-t border-gray-100">
+                          <p className="text-xs text-gray-500 font-semibold">{college.accreditation}</p>
+                          <p className="text-xs text-gray-600 mt-1">{college.programs}</p>
                         </div>
                       </div>
                     </div>
