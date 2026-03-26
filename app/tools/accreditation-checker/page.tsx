@@ -6,9 +6,9 @@ import { ShieldCheck, CheckCircle, Info, ExternalLink, Globe } from 'lucide-reac
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Accreditation & Approval Checker 2024-25 | AICTE, UGC, AIU & NAAC Auditor',
-  description: 'Instantly verify AICTE, UGC, AIU and NAAC accreditation for MBA, PGDM, B.Tech, Law, and more. Check AIU approved PGDM campus list with validity 2024-25.',
-  keywords: 'AIU approved PGDM list, AICTE approval checker, MBA vs PGDM AIU equivalence, UGC approved universities, NAAC grade lookup, NBA accreditation btech',
+  title: 'Accreditation & Approval Checker 2024-25 | AICTE, UGC, AIU, BCI, COA & PCI Auditor',
+  description: 'Instantly verify AICTE, UGC, AIU, BCI (Law), COA (Architecture), PCI (Pharmacy) and NAAC accreditation for all degree programs. Check approved campus lists with validity 2024-25.',
+  keywords: 'AIU approved PGDM list, AICTE approval checker, BCI approved law colleges, COA architecture list, PCI pharmacy approved colleges, UGC approved universities, NAAC grade lookup',
 };
 
 export default function AccreditationCheckerPage() {
