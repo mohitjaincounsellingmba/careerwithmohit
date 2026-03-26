@@ -113,6 +113,7 @@ export function Footer() {
                <li><Link href="/tools/btech-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black italic">B.Tech Predictor</Link></li>
               <li><Link href="/tools/mat-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAT Predictor</Link></li>
               <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock</Link></li>
+              <li><Link href="/tools/accreditation-checker" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-rose-400 font-black italic">Accreditation Auditor</Link></li>
               <li><Link href="/tools/ai-skills" className="hover:text-primary hover:translate-x-1 inline-block transition-transform font-bold text-green-500">AI Skills Training</Link></li>
               <li>
                 <a
