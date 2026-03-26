@@ -74,6 +74,7 @@ export function Footer() {
             <ul className="space-y-4 text-base font-medium">
               <li><Link href="/" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Home</Link></li>
               <li><Link href="/services" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Services</Link></li>
+              <li><Link href="/online-degree-certification" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-cyan-400 font-bold">Online Degrees</Link></li>
               <li><Link href="/internships" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Internships</Link></li>
               <li><Link href="/jobs" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Jobs</Link></li>
               <li><Link href="/blog" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Blog</Link></li>
