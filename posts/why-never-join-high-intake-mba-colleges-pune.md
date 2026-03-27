@@ -46,8 +46,8 @@ If you are considering these colleges, you must be in the **Top 10% of your batc
 | **PIBM Pune** | 480+ Seats | High volume PGDM intake with intensive training. |
 | **ISB&M Pune** | 360+ Seats | National common pool across Pune, Kolkata, and Bangalore. |
 | **MIT-WPU Pune** | 600+ Seats | Large university setup with multiple specialized MBA tracks. |
-| **IIEBM (Indus Business School)** | 300+ Seats | Growing intake in recent years. |
-| **RIIM Pune** | 300+ Seats | Combined intake across MBA and PGDM programs. |
+| **IIEBM (Indus Business School)** | 600+ Seats | Significant intake across PGDM and specialized tracks. |
+| **RIIM Pune** | 1,000+ Seats | Combined intake across RIIM, Arihant, and associated campuses. |
 
 ---
 
