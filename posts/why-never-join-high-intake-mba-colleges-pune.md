@@ -2,7 +2,7 @@
 title: "Why You Should Never Join a High Intake MBA College: The Pune Reality (2026)"
 date: "2026-03-28"
 description: "Is a batch size of 1,000+ students a death trap for your MBA career? Discover the honest truth about high intake MBA colleges in Pune and see the full list for 2026."
-keywords: ["high intake MBA colleges in Pune", "disadvantages of high intake MBA", "Sri Balaji University Pune intake", "Indira Pune MBA intake", "PIBM Pune intake", "ISB&M Pune intake", "MBA batch size impact on placements"]
+keywords: ["high intake MBA colleges in Pune", "disadvantages of high intake MBA", "Sri Balaji University Pune intake", "Indira Pune MBA intake", "PIBM Pune intake", "ISB&M Pune intake", "RIIM Pune intake", "MBA batch size impact on placements"]
 ---
 
 Choosing an MBA college is more than just looking at the brand name or the "Average Package" on a shiny brochure. One of the most critical factors that students often ignore—until it’s too late—is the **Batch Intake.**
@@ -46,7 +46,8 @@ If you are considering these colleges, you must be in the **Top 10% of your batc
 | **PIBM Pune** | 480+ Seats | High volume PGDM intake with intensive training. |
 | **ISB&M Pune** | 360+ Seats | National common pool across Pune, Kolkata, and Bangalore. |
 | **MIT-WPU Pune** | 600+ Seats | Large university setup with multiple specialized MBA tracks. |
-| **IILM (Indus Business School)** | 300+ Seats | Growing intake in recent years. |
+| **IIEBM (Indus Business School)** | 300+ Seats | Growing intake in recent years. |
+| **RIIM Pune** | 300+ Seats | Combined intake across MBA and PGDM programs. |
 
 ---
 
