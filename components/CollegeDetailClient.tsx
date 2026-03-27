@@ -214,28 +214,93 @@ export function CollegeDetailClient({ college }: { college: College }) {
     return offered;
   }, [college.category, college.content, college.courses]);
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Colleges",
+        "item": "https://www.careerwithmohit.online/colleges"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": college.name,
+        "item": `https://www.careerwithmohit.online/colleges/${college.slug}`
+      }
+    ]
+  };
+
   const collegeSchema = {
     "@context": "https://schema.org",
-    "@type": "EducationalOrganization",
-    name: college.name,
-    description: `Detailed profile of ${college.name} located in ${college.location}.`,
-    url: `https://www.careerwithmohit.online/colleges/${college.slug}`,
-    logo: "https://www.careerwithmohit.online/logo.webp",
-    address: { "@type": "PostalAddress", addressLocality: college.location, addressRegion: addressRegion, addressCountry: "IN" },
-    foundingDate: college.established.toString(),
-    hasOfferCatalog: {
-      "@type": "OfferCatalog",
-      name: "Courses Offered at " + college.name,
-      itemListElement: college.courses.map((course) => ({ "@type": "Course", name: course, provider: { "@type": "EducationalOrganization", name: college.name } })),
+    "@type": "CollegeOrUniversity",
+    "name": college.name,
+    "description": `${college.name} in ${college.location}: Check fees structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}, and admission process for 2026.`,
+    "url": `https://www.careerwithmohit.online/colleges/${college.slug}`,
+    "logo": college.logo || "https://www.careerwithmohit.online/logo.webp",
+    "image": "https://www.careerwithmohit.online/og-image.webp",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": college.location,
+      "addressRegion": addressRegion,
+      "addressCountry": "IN"
     },
+    "foundingDate": college.established.toString(),
+    "sameAs": college.website ? [college.website] : [],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": `Courses Offered at ${college.name}`,
+      "itemListElement": college.courses.map((course) => ({
+        "@type": "Course",
+        "name": course,
+        "provider": {
+          "@type": "CollegeOrUniversity",
+          "name": college.name
+        }
+      })),
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.careerwithmohit.online/colleges/${college.slug}`
+    }
   };
 
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      { "@type": "Question", name: `What are the fees at ${college.name}?`, acceptedAnswer: { "@type": "Answer", text: `Fees at ${college.name} are approximately ${college.fees}.` } },
-      { "@type": "Question", name: `What is the average placement at ${college.name}?`, acceptedAnswer: { "@type": "Answer", text: `Average placement: ${college.avg_placement}, Highest: ${college.highest_placement}.` } },
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `What is the fee structure at ${college.name} for 2026?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `The fees at ${college.name} are approximately ${college.fees}. This may vary based on the specific course and specialization.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `What are the placement statistics for ${college.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `For the 2026 batch, ${college.name} reported an average placement of ${college.avg_placement} and a highest package of ${college.highest_placement}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Which entrance exams are accepted by ${college.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${college.name} accepts exams like ${(college.exams || []).join(", ") || "Direct Admission"}.`
+        }
+      }
     ],
   };
 
@@ -243,6 +308,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
+      <JsonLd data={breadcrumbSchema} />
       <JsonLd data={collegeSchema} />
       <JsonLd data={faqSchema} />
 

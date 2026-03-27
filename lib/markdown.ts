@@ -12,6 +12,7 @@ export interface PostData {
   description?: string;
   keywords?: string[];
   content?: string;
+  faqs?: { question: string; answer: string }[];
 }
 
 export const getSortedPostsData = cache(() => {
@@ -65,6 +66,7 @@ export function getPostData(slug: string): PostData | null {
       description: matterResult.data.description,
       keywords: matterResult.data.keywords || [],
       content: matterResult.content,
+      faqs: matterResult.data.faqs || [],
     };
   } catch (e) {
     return null;

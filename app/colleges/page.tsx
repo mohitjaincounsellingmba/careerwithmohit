@@ -34,6 +34,25 @@ export const metadata = {
 export default function CollegesPage() {
   const colleges = getAllColleges();
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Colleges",
+        "item": "https://www.careerwithmohit.online/colleges"
+      }
+    ]
+  };
+
   const collectionSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -109,6 +128,7 @@ export default function CollegesPage() {
 
   return (
     <>
+      <JsonLd data={breadcrumbSchema} />
       <JsonLd data={collectionSchema} />
       <JsonLd data={faqSchema} />
       <CollegesClient colleges={colleges} />

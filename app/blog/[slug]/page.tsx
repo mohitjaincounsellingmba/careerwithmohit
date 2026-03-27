@@ -88,9 +88,23 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     }
   };
 
+  const faqData = postData.faqs && postData.faqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": postData.faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  } : null;
+
   return (
     <article className="w-full bg-slate-50 pb-24 font-body">
       <JsonLd data={articleData} />
+      {faqData && <JsonLd data={faqData} />}
 
       {/* HEADER SECTION - ULTRA PREMIUM */}
       <div className="bg-white border-b-[12px] border-foreground pt-20 pb-20 px-6 sm:px-12 relative overflow-hidden">

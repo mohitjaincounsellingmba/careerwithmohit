@@ -12,11 +12,16 @@ function getCategoryKeywords(college: { name: string; location: string; category
     `${college.name} review`,
     `${college.name} fees structure 2026`,
     `${college.name} average package`,
+    `${college.name} placement report 2026`,
+    `${college.name} highest package`,
     `${college.name} cutoff 2026`,
     `${college.name} admission process`,
     `${college.name} ranking`,
     `${college.name} ${college.location}`,
     `is ${college.name} good`,
+    `${college.name} mohit jain review`,
+    `${college.name} hostel fees`,
+    `${college.name} contact number`,
   ];
 
   if (college.category === "Management") {
@@ -26,7 +31,8 @@ function getCategoryKeywords(college: { name: string; location: string; category
       `${college.name} PGDM placement`,
       `${college.name} MBA admission 2026`,
       `${college.name} MBA average package`,
-      `MBA colleges ${college.location}`,
+      `${college.name} ROI analysis`,
+      `MBA colleges ${college.location} with low fees`,
       `best MBA college ${college.location} 2026`,
       ...college.courses.map(c => `${college.name} ${c}`),
     ];
@@ -67,14 +73,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   let description: string;
 
   if (college.category === "Management") {
-    title = `${college.name}, ${college.location} – MBA/PGDM Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2026, Cutoff, Review`;
-    description = `${college.name} in ${college.location}: MBA/PGDM fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. NIRF ranking: ${college.ranking}. Entrance exams: ${college.exams.join(', ')}. Check courses, cutoff, admission process, and expert review for 2026.`;
+    title = `${college.name}, ${college.location} – MBA/PGDM Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2026, Cutoff, Review | CareerWithMohit`;
+    description = `Detailed review of ${college.name} in ${college.location}: MBA/PGDM fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. NIRF ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, cutoff, and admission process for 2026 with Mohit Jain's expert analysis.`;
   } else if (college.category === "Engineering") {
-    title = `${college.name}, ${college.location} – B.Tech Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2026, Ranking, Review`;
-    description = `${college.name} in ${college.location}: B.Tech fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, JEE cutoff, admission process for 2026.`;
+    title = `${college.name}, ${college.location} – B.Tech Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2026, Ranking, Review | CareerWithMohit`;
+    description = `Complete guide for ${college.name} in ${college.location}: B.Tech fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, JEE cutoff, and admission process for 2026.`;
   } else {
-    title = `${college.name}, ${college.location} – BBA/BCA Fees ${college.fees}, Admission 2026, Placement ${college.avg_placement}, Review`;
-    description = `${college.name} in ${college.location}: BBA/BCA fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Check courses, admission process, entrance exams, and expert review for 2026.`;
+    title = `${college.name}, ${college.location} – BBA/BCA Fees ${college.fees}, Admission 2026, Placement ${college.avg_placement}, Review | CareerWithMohit`;
+    description = `Explore ${college.name} in ${college.location}: BBA/BCA fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Check courses, admission process, entrance exams, and expert review for 2026 admission.`;
   }
 
   const keywords = getCategoryKeywords(college);
