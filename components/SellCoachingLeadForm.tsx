@@ -24,7 +24,7 @@ export function SellCoachingLeadForm() {
           number: formData.number,
           email: 'N/A', // Form didn't have email, keeping payload structure
           location: 'N/A', // Form didn't have location
-          source: 'new data 2027', // Requested by user to show in "new data 2027"
+          source: 'TEACHER', // Requested by user
           course: formData.role, // Mapping role to course for backend consistency
           timestamp: new Date().toISOString()
         }),
