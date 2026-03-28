@@ -15,6 +15,7 @@ import {
   CheckCircle2,
   Play
 } from 'lucide-react';
+import { SellCoachingLeadForm } from '@/components/SellCoachingLeadForm';
 
 export const metadata: Metadata = {
   title: "Sell Your Coaching Online | Build Branded Coaching App for Teachers & YouTubers",
@@ -242,44 +243,7 @@ export default function LeadGenLandingPage() {
                </p>
              </div>
              
-             <form className="grid sm:grid-cols-2 gap-8 max-w-3xl mx-auto">
-               <div className="space-y-4">
-                 <label className="block text-sm font-black uppercase tracking-widest text-foreground">Your Full Name</label>
-                 <input 
-                   type="text" 
-                   className="w-full bg-gray-50 border-4 border-foreground px-6 py-4 rounded-xl font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-accent/30 transition-all" 
-                   placeholder="e.g. Mohit Jain"
-                 />
-               </div>
-               <div className="space-y-4">
-                 <label className="block text-sm font-black uppercase tracking-widest text-foreground">Phone Number</label>
-                 <input 
-                   type="tel" 
-                   className="w-full bg-gray-50 border-4 border-foreground px-6 py-4 rounded-xl font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-accent/30 transition-all" 
-                   placeholder="e.g. +91 95600 20771"
-                 />
-               </div>
-               <div className="space-y-4 sm:col-span-2">
-                 <label className="block text-sm font-black uppercase tracking-widest text-foreground">Your Role</label>
-                 <select className="w-full bg-gray-50 border-4 border-foreground px-6 py-4 rounded-xl font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-accent/30 transition-all appearance-none cursor-pointer">
-                   <option>Independent Teacher</option>
-                   <option>YouTuber / Content Creator</option>
-                   <option>Coaching Institute Owner</option>
-                   <option>Educational Organization</option>
-                 </select>
-               </div>
-               <div className="sm:col-span-2 mt-4 text-center">
-                 <button 
-                  type="button"
-                  className="w-full rounded-md bg-accent px-8 py-5 text-2xl font-black text-foreground transition-all hover:scale-105 hover:bg-white border-4 border-foreground text-center shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] uppercase"
-                 >
-                   Book Free Demo Now
-                 </button>
-                 <p className="mt-6 text-sm font-bold text-gray-500">
-                   Join 5,000+ creators who joined last month. No credit card required.
-                 </p>
-               </div>
-             </form>
+             <SellCoachingLeadForm />
           </div>
         </div>
       </section>
