@@ -26,6 +26,8 @@ But does the brand name translate to real-world value? In this honest and data-d
 
 ---
 
+[InquiryCard title="Get Expert Help for NMIMS Online MBA" description="Still confused about fees or placements? Talk to Mohit Jain for 100% verified guidance and direct admission support for 2026." cta="Learn More & Apply" type="admission"]
+
 ## ✅ Why Choose NMIMS for Your Online MBA?
 
 ### 1. The Heritage of Excellence

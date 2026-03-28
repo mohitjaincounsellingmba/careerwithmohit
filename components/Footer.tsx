@@ -97,6 +97,16 @@ export function Footer() {
             </ul>
           </div>
           <div>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Business Solutions</h3>
+            <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/sell-your-coaching-online" className="hover:text-primary transition-colors text-accent font-black">For Teachers</Link></li>
+              <li><Link href="/sell-your-coaching-online" className="hover:text-primary transition-colors">For YouTubers</Link></li>
+              <li><Link href="/sell-your-coaching-online" className="hover:text-primary transition-colors">Coaching Centers</Link></li>
+              <li><Link href="/sell-your-coaching-online" className="hover:text-primary transition-colors font-bold italic">10x Your Income</Link></li>
+              <li><Link href="/sell-your-coaching-online" className="hover:text-primary transition-colors">Build Your App</Link></li>
+            </ul>
+          </div>
+          <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Calculators</h3>
             <ul className="space-y-4 text-base font-medium">
               <li><Link href="/calculator/startup" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black">Startup Valuation</Link></li>
