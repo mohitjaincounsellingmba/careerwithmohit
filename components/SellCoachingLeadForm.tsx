@@ -2,12 +2,13 @@
 
 import { useState } from 'react';
 
-export function SellCoachingLeadForm() {
+export function SellCoachingLeadForm({ onSuccess }: { onSuccess?: () => void }) {
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
   const [formData, setFormData] = useState({
     name: '',
     number: '',
-    role: 'Independent Teacher'
+    email: '',
+    location: ''
   });
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -22,10 +23,9 @@ export function SellCoachingLeadForm() {
         body: JSON.stringify({
           name: formData.name,
           number: formData.number,
-          email: 'N/A', // Form didn't have email, keeping payload structure
-          location: 'N/A', // Form didn't have location
+          email: formData.email,
+          location: formData.location,
           source: 'TEACHER', // Requested by user
-          course: formData.role, // Mapping role to course for backend consistency
           timestamp: new Date().toISOString()
         }),
       });
@@ -35,7 +35,10 @@ export function SellCoachingLeadForm() {
       }
 
       setStatus('success');
-      setFormData({ name: '', number: '', role: 'Independent Teacher' });
+      setFormData({ name: '', number: '', email: '', location: '' });
+      if (onSuccess) {
+        setTimeout(() => onSuccess(), 2000);
+      }
     } catch (error) {
       console.error('Lead Gen Error:', error);
       setStatus('error');
@@ -74,7 +77,7 @@ export function SellCoachingLeadForm() {
         />
       </div>
       <div className="space-y-4">
-        <label className="block text-sm font-black uppercase tracking-widest text-foreground">Phone Number</label>
+        <label className="block text-sm font-black uppercase tracking-widest text-foreground">WhatsApp Number</label>
         <input 
           required
           type="tel" 
@@ -84,19 +87,27 @@ export function SellCoachingLeadForm() {
           placeholder="e.g. +91 95600 20771"
         />
       </div>
-      <div className="space-y-4 sm:col-span-2">
-        <label className="block text-sm font-black uppercase tracking-widest text-foreground">Your Role</label>
-        <select 
+      <div className="space-y-4">
+        <label className="block text-sm font-black uppercase tracking-widest text-foreground">Email Address</label>
+        <input 
           required
-          value={formData.role}
-          onChange={(e) => setFormData({...formData, role: e.target.value})}
-          className="w-full bg-gray-50 border-4 border-foreground px-6 py-4 rounded-xl font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-accent/30 transition-all appearance-none cursor-pointer text-foreground"
-        >
-          <option value="Independent Teacher">Independent Teacher</option>
-          <option value="YouTuber / Content Creator">YouTuber / Content Creator</option>
-          <option value="Coaching Institute Owner">Coaching Institute Owner</option>
-          <option value="Educational Organization">Educational Organization</option>
-        </select>
+          type="email" 
+          value={formData.email}
+          onChange={(e) => setFormData({...formData, email: e.target.value})}
+          className="w-full bg-gray-50 border-4 border-foreground px-6 py-4 rounded-xl font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-accent/30 transition-all text-foreground" 
+          placeholder="e.g. teacher@example.com"
+        />
+      </div>
+      <div className="space-y-4">
+        <label className="block text-sm font-black uppercase tracking-widest text-foreground">Location</label>
+        <input 
+          required
+          type="text" 
+          value={formData.location}
+          onChange={(e) => setFormData({...formData, location: e.target.value})}
+          className="w-full bg-gray-50 border-4 border-foreground px-6 py-4 rounded-xl font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-accent/30 transition-all text-foreground" 
+          placeholder="e.g. New Delhi"
+        />
       </div>
       <div className="sm:col-span-2 mt-4 text-center">
         <button 

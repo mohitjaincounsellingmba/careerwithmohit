@@ -16,6 +16,7 @@ import {
   Play
 } from 'lucide-react';
 import { SellCoachingLeadForm } from '@/components/SellCoachingLeadForm';
+import { GetAppClient } from './GetAppClient';
 
 export const metadata: Metadata = {
   title: "Sell Your Coaching Online | Build Branded Coaching App for Teachers & YouTubers",
@@ -116,17 +117,7 @@ export default function LeadGenLandingPage() {
                 The all-in-one platform for Teachers, YouTubers, and Coaching Centers to sell courses online, launch branded apps, and 10x their income.
               </p>
               
-              <div className="mt-12 flex flex-col sm:flex-row items-center gap-6">
-                <Link href="#inquiry" className="w-full sm:w-auto rounded-md bg-accent px-8 py-4 text-2xl font-black text-foreground transition-all hover:scale-105 hover:bg-white border-4 border-foreground text-center shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center gap-3">
-                  Get Your App <ArrowRight />
-                </Link>
-                <div className="flex items-center gap-4 text-white font-bold">
-                  <div className="h-12 w-12 rounded-full border-2 border-white flex items-center justify-center animate-pulse">
-                    <Play fill="white" size={20} />
-                  </div>
-                  <span>Watch Demo</span>
-                </div>
-              </div>
+              <GetAppClient />
             </div>
             
             <div className="hidden lg:block relative">
