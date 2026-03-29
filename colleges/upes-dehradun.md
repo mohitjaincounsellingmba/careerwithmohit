@@ -1,27 +1,21 @@
 ---
 name: "UPES Dehradun"
-logo: "/colleges/upes-logo.webp"
+logo: ""
 location: "Dehradun, Uttarakhand"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+category: "UG Courses"
+type: "University"
+courses: ["BBA", "BBA (Events, PR & Corporate Events)", "BBA (Digital Business)"]
 established: 2003
 ownership: "Private"
-ranking: "#41 (NIRF 2024)"
-fees: "₹18.0 Lakhs"
-avg_placement: "₹10.0 LPA"
-highest_placement: "₹30.0 LPA"
-exams: ["UPESMET", "CAT", "MAT", "XAT", "CMAT"]
-brochure_url: "/brochures/upes-2025.pdf"
-website: "https://www.upes.ac.in"
+ranking: "#15 in Outlook Ranking"
+fees: "₹ 11.10 Lakh - ₹ 13.50 Lakh"
+avg_placement: "₹ 4.50 Lakh"
+highest_placement: "₹ 10 Lakh"
+lowest_placement: "₹ 3.50 Lakh"
+exams: ["CUET", "UPESMET-UG"]
+brochure_url: ""
+website: "https://www.upes.ac.in/"
+top_recruiters: ["Accenture", "Amazon", "KPMG", "EY", "Cognizant"]
 ---
 
-### Courses & Fees
-- **MBA**: General Mgmt (Core) | 2 Years | ₹18.50 Lakhs
-- **MBA**: Aviation Management | 2 Years | ₹19.50 Lakhs
-- **MBA**: Power / Energy Trading | 2 Years | ₹18.00 Lakhs
-- **MBA**: Business Analytics | 2 Years | ₹19.50 Lakhs
-- **MBA**: Oil & Gas Management | 2 Years | ₹18.00 Lakhs
-
-### About UPES Dehradun
-The University of Petroleum and Energy Studies (UPES) is a leading institution in Dehradun, offering specialized MBA programs in Energy, Infrastructure, Transportation, and Digital Business.
+UPES is a leading university in Dehradun known for its specialized management program in Digital Business and Events Management, offering a scenic learning environment and strong corporate connects.

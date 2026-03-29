@@ -1,23 +1,21 @@
 ---
-name: "IMS Noida"
-logo: "/colleges/ims-logo.webp"
-location: "Noida, Uttar Pradesh"
-category: "Management"
+name: "Institute of Management Studies (IMS), Noida"
+logo: ""
+location: "Noida, Uttar Pradesh (Delhi NCR)"
+category: "UG Courses"
 type: "Institute"
-courses: ["MBA", "PGDM"]
+courses: ["BBA"]
 established: 1998
 ownership: "Private"
-ranking: "Top B-School in North India"
-fees: "₹4.0 Lakhs"
-avg_placement: "₹7.5 LPA"
-highest_placement: "₹34.0 LPA"
-exams: ["CAT", "MAT", "CMAT"]
-website: "https://www.imsnoida.com"
+ranking: "#29 in India Today Ranking"
+fees: "₹ 4.62 Lakh (Total)"
+avg_placement: "₹ 4 Lakh"
+highest_placement: "₹ 9.50 Lakh"
+lowest_placement: "₹ 3 Lakh"
+exams: ["CBSE 12th", "UP 12th"]
+brochure_url: ""
+website: "https://imsnoida.com/"
+top_recruiters: ["Amazon", "IBM", "Aditya Birla Group", "Axis Bank", "Wipro"]
 ---
 
-### Courses & Fees
-- **PGDM**: General Management | 2 Years | ₹9.50 Lakhs
-- **PGDM**: Business Analytics | 2 Years | ₹10.50 Lakhs
-
-### About IMS Noida
-Institute of Management Studies (IMS) Noida is a premier B-school in the NCR region, known for its academic excellence and high-ROI PGDM programs.
+IMS Noida is highly recognized for its BBA program, combining academic rigor with practical exposure through industry visits and internships.

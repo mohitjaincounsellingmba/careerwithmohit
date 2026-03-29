@@ -122,12 +122,21 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
       if (loc.includes("delhi")) {
         state = "Delhi";
         city = "Delhi";
-      } else if (loc.includes("uttar pradesh") || loc.includes("noida") || loc.includes("greater noida")) {
+      } else if (loc.includes("uttar pradesh") || loc.includes("noida") || loc.includes("greater noida") || loc.includes("ghaziabad")) {
         state = "Uttar Pradesh";
-        city = loc.includes("greater noida") ? "Greater Noida" : "Noida";
-      } else if (loc.includes("haryana") || loc.includes("gurgaon")) {
+        if (loc.includes("greater noida")) city = "Greater Noida";
+        else if (loc.includes("noida")) city = "Noida";
+        else if (loc.includes("ghaziabad")) city = "Ghaziabad";
+        else city = "Noida";
+      } else if (loc.includes("haryana") || loc.includes("gurgaon") || loc.includes("faridabad")) {
         state = "Haryana";
-        city = "Gurgaon";
+        if (loc.includes("faridabad")) city = "Faridabad";
+        else city = "Gurgaon";
+      } else if (loc.includes("punjab") || loc.includes("chandigarh") || loc.includes("mohali")) {
+        state = "Punjab & Chandigarh";
+        if (loc.includes("mohali")) city = "Mohali";
+        else if (loc.includes("chandigarh")) city = "Chandigarh";
+        else city = "Chandigarh";
       } else if (loc.includes("karnataka") || loc.includes("bangalore")) {
         state = "Karnataka";
         city = "Bangalore";
