@@ -8,8 +8,6 @@ import { SearchInput } from './SearchInput';
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [isLearnDropdownOpen, setIsLearnDropdownOpen] = useState(false);
-  const [isMobileLearnOpen, setIsMobileLearnOpen] = useState(false);
 
   return (
     <header className="sticky top-0 z-50 w-full border-b-2 border-gray-200 bg-white" role="banner">
@@ -32,49 +30,6 @@ export function Header() {
           <Link href="/about" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="About Mohit Jain">About</Link>
           <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
           <Link href="/colleges" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Explore Top Colleges">Colleges</Link>
-          
-          {/* CAREER DROPDOWN */}
-          <div 
-            className="relative group py-4"
-            onMouseEnter={() => setIsLearnDropdownOpen(true)}
-            onMouseLeave={() => setIsLearnDropdownOpen(false)}
-          >
-            <button className="flex items-center gap-1 hover:text-primary transition-colors uppercase tracking-wider text-sm font-black">
-              Career
-              <svg 
-                className={`w-4 h-4 transition-transform duration-200 ${isLearnDropdownOpen ? 'rotate-180' : ''}`} 
-                fill="none" viewBox="0 0 24 24" stroke="currentColor"
-              >
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="C19 9l-7 7-7-7" />
-              </svg>
-            </button>
-            
-            {isLearnDropdownOpen && (
-              <div className="absolute top-full left-0 w-56 bg-white border-4 border-foreground shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] rounded-xl py-4 z-50 animate-in fade-in zoom-in-95 duration-200">
-                <Link 
-                  href="/internships" 
-                  className="block px-6 py-3 hover:bg-accent font-bold text-lg transition-colors border-b-2 border-gray-100 last:border-0"
-                  onClick={() => setIsLearnDropdownOpen(false)}
-                >
-                  Internships
-                </Link>
-                <Link 
-                  href="/jobs" 
-                  className="block px-6 py-3 hover:bg-accent font-bold text-lg transition-colors border-b-2 border-gray-100 last:border-0"
-                  onClick={() => setIsLearnDropdownOpen(false)}
-                >
-                  Jobs
-                </Link>
-                <Link 
-                  href="/certifications" 
-                  className="block px-6 py-3 hover:bg-accent font-bold text-lg transition-colors border-b-2 border-gray-100 last:border-0"
-                  onClick={() => setIsLearnDropdownOpen(false)}
-                >
-                  Certifications
-                </Link>
-              </div>
-            )}
-          </div>
 
         </nav>
         <div className="flex items-center gap-4">
@@ -114,40 +69,6 @@ export function Header() {
             <Link href="/colleges" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Colleges
             </Link>
-
-            {/* MOBILE CAREER */}
-            <div className="flex flex-col">
-              <button 
-                onClick={() => setIsMobileLearnOpen(!isMobileLearnOpen)}
-                className="flex items-center justify-between hover:text-primary transition-colors"
-                aria-expanded={isMobileLearnOpen}
-                aria-label="Toggle Career Menu"
-              >
-                <div className="flex items-center">
-                  <span className="w-2 h-2 rounded-full bg-secondary mr-3 inline-block"></span>Career
-                </div>
-                <svg 
-                  className={`w-5 h-5 transition-transform duration-200 ${isMobileLearnOpen ? 'rotate-180' : ''}`} 
-                  fill="none" viewBox="0 0 24 24" stroke="currentColor"
-                >
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M19 9l-7 7-7-7" />
-                </svg>
-              </button>
-              
-              {isMobileLearnOpen && (
-                <div className="pl-8 pt-4 flex flex-col gap-4 animate-in slide-in-from-top-2 duration-200">
-                  <Link href="/internships" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary text-gray-600">
-                    &raquo; Internships
-                  </Link>
-                  <Link href="/jobs" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary text-gray-600">
-                    &raquo; Jobs
-                  </Link>
-                  <Link href="/certifications" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary text-gray-600">
-                    &raquo; Certifications
-                  </Link>
-                </div>
-              )}
-            </div>
 
 
             <a 
