@@ -70,15 +70,14 @@ export function Footer() {
             </div>
           </div>
           <div>
-            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Navigation</h3>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Quick Links</h3>
             <ul className="space-y-4 text-base font-medium">
               <li><Link href="/" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Home</Link></li>
+              <li><Link href="/about" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">About</Link></li>
+              <li><Link href="/colleges" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Colleges</Link></li>
+              <li><Link href="/blog" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Blog</Link></li>
               <li><Link href="/services" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Services</Link></li>
               <li><Link href="/online-degree-certification" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-cyan-400 font-bold">Online Degrees</Link></li>
-              <li><Link href="/internships" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Internships</Link></li>
-              <li><Link href="/jobs" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Jobs</Link></li>
-              <li><Link href="/blog" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Blog</Link></li>
-              <li><Link href="/about" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">About</Link></li>
             </ul>
           </div>
           <div>
@@ -107,68 +106,25 @@ export function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Calculators</h3>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Calculators & Tools</h3>
             <ul className="space-y-4 text-base font-medium">
-              <li><Link href="/calculator/startup" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black">Startup Valuation</Link></li>
-              <li><Link href="/tools/mba-roi-calculator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-rose-500 font-bold">MBA ROI Auditor</Link></li>
-              <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CUET PG 2026</Link></li>
-              <li><Link href="/calculator/career-roadmap" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Roadmap Gen</Link></li>
+              <li><Link href="/tools/cuet-pg-mba-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-blue-500 font-black italic">CUET PG Predictor</Link></li>
+              <li><Link href="/tools/btech-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black italic">B.Tech Predictor</Link></li>
               <li><Link href="/tools/college-comparison" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-indigo-400 font-bold">College Comparison</Link></li>
+              <li><Link href="/tools/mba-roi-calculator" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-rose-500 font-bold">MBA ROI Auditor</Link></li>
+              <li><Link href="/calculator/startup" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black">Startup Valuation</Link></li>
+              <li><Link href="/tools/accreditation-checker" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-rose-400 font-black italic">Accreditation Auditor</Link></li>
             </ul>
           </div>
           <div>
-            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Resources</h3>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Career Section</h3>
             <ul className="space-y-4 text-base font-medium">
-              <li><Link href="/tools/cuet-pg-mba-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-blue-500 font-black italic">CUET PG Predictor</Link></li>
-               <li><Link href="/tools/btech-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black italic">B.Tech Predictor</Link></li>
-              <li><Link href="/tools/mat-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MAT Predictor</Link></li>
-              <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock</Link></li>
-              <li><Link href="/tools/accreditation-checker" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-rose-400 font-black italic">Accreditation Auditor</Link></li>
+              <li><Link href="/internships" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Internships</Link></li>
+              <li><Link href="/jobs" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Jobs</Link></li>
+              <li><Link href="/certifications" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Certifications</Link></li>
+              <li><Link href="/calculator/career-roadmap" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Roadmap Generator</Link></li>
               <li><Link href="/tools/ai-skills" className="hover:text-primary hover:translate-x-1 inline-block transition-transform font-bold text-green-500">AI Skills Training</Link></li>
-              <li>
-                <a
-                  href="https://www.linkedin.com/company/career-with-mohit"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-primary flex items-center gap-2 group transition-colors"
-                >
-                  <Linkedin className="h-4 w-4 group-hover:scale-110 transition-transform" />
-                  LinkedIn
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.instagram.com/careerwithmohit.online/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-primary flex items-center gap-2 group transition-colors"
-                >
-                  <Instagram className="h-4 w-4 group-hover:scale-110 transition-transform" />
-                  Instagram
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.facebook.com/profile.php?id=61575525271998"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-primary flex items-center gap-2 group transition-colors"
-                >
-                  <Facebook className="h-4 w-4 group-hover:scale-110 transition-transform" />
-                  Facebook
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.youtube.com/@careerwithmohit.online"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-primary flex items-center gap-2 group transition-colors"
-                >
-                  <Youtube className="h-4 w-4 group-hover:scale-110 transition-transform" />
-                  YouTube
-                </a>
-              </li>
+              <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock Test</Link></li>
             </ul>
           </div>
         </div>
