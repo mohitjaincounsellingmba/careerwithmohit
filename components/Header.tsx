@@ -30,6 +30,7 @@ export function Header() {
           <Link href="/about" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="About Mohit Jain">About</Link>
           <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
           <Link href="/colleges" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Explore Top Colleges">Colleges</Link>
+          <Link href="/online-degree-certification" className="hover:text-primary hover:-translate-y-0.5 transition-transform text-cyan-600 font-extrabold" title="Online Degrees & Certifications">Online Degrees</Link>
 
         </nav>
         <div className="flex items-center gap-4">
@@ -68,6 +69,9 @@ export function Header() {
             </Link>
             <Link href="/colleges" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Colleges
+            </Link>
+            <Link href="/online-degree-certification" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-cyan-600 font-extrabold">
+              <span className="w-2 h-2 rounded-full bg-cyan-500 mr-3 inline-block"></span>Online Degrees
             </Link>
 
 
