@@ -40,14 +40,14 @@ The seats in IITs are reserved as per the Government of India norms:
 The **Joint Seat Allocation Authority (JoSAA)** handles the counselling for all 23 IITs. For 2026, candidates must qualify for **JEE Advanced** to be eligible for these seats.
 
 If you are looking for other top engineering institutes, check our detailed seat guides:
-*   [Total Seats in NITs 2026: State-wise Breakdown](/posts/total-seats-in-nits-2026-seat-matrix)
-*   [Total Seats in IIITs 2026: Top Branch Seats](/posts/total-seats-in-iiits-2026-seat-matrix)
-*   [Total Seats in GFTIs 2026: Complete Institute List](/posts/total-seats-in-gftis-2026-seat-matrix)
+*   [Total Seats in NITs 2026: State-wise Breakdown](/blog/total-seats-in-nits-2026-seat-matrix)
+*   [Total Seats in IIITs 2026: Top Branch Seats](/blog/total-seats-in-iiits-2026-seat-matrix)
+*   [Total Seats in GFTIs 2026: Complete Institute List](/blog/total-seats-in-gftis-2026-seat-matrix)
 
 ### **Key Resources for JEE Aspirants**
-*   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/posts/jee-main-2026-session-2-exam-dates-admit-card)
-*   [JEE Main College Predictor: Find the Best College for Your Rank](/posts/jee-main-college-predictor-2026-btech-top-colleges)
-*   [Complete Guide to JEE Main & Advanced 2026](/posts/all-about-jee-exam)
+*   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card)
+*   [JEE Main College Predictor: Find the Best College for Your Rank](/blog/jee-main-college-predictor-2026-btech-top-colleges)
+*   [Complete Guide to JEE Main & Advanced 2026](/blog/all-about-jee-exam)
 
 **Need Help with IIT Admissions?**
 Navigating the JoSAA choice-filling process can be overwhelming. Choosing the right branch vs. a better IIT is a common dilemma. Our expert counselors at **CareerWithMohit** provide personalized guidance to help you secure the best possible seat based on your JEE Advanced rank.

@@ -41,9 +41,9 @@ Sushant University has a dedicated placement cell with strong ties to corporate 
 **Cons**: Higher fee structure than traditional institutes, smaller engineering intake compared to some of its NCR competitors.
 
 Explore other top NCR private universities:
-*   [Bennett University Greater Noida: Review](/posts/bennett-university-btech-admission-2026-fees-review)
-*   [GD Goenka Gurugram: Guide](/posts/gd-goenka-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/posts/bml-munjal-university-btech-admission-2026-fees-review)
+*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
+*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
 
 **Confused About the Design-Tech Integration?**
 Sushant's B.Tech programs are famous for integrating "Human-Centric Design" into the core technology curriculum. At **CareerWithMohit**, we help you decide if a design-integrated B.Tech is better for your career than a traditional engineering degree.

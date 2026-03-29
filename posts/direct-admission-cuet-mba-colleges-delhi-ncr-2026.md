@@ -93,6 +93,6 @@ Most private universities start their intake in **January - March** for the upco
 [👉 Still confused about which NCR college to choose? Get a Free Career Roadmap!](/inquiry)
 
 **Related Posts:**
-*   [Top MBA Colleges Accepting CUET PG 2026](/posts/top-mba-colleges-cuet-pg)
-*   [Best MBA Colleges in Delhi NCR 2026](/posts/best-mba-colleges-in-delhi-2026)
-*   [MBA PGDM Colleges Under 10 Lakhs in Delhi NCR](/posts/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)
+*   [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg)
+*   [Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
+*   [MBA PGDM Colleges Under 10 Lakhs in Delhi NCR](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)

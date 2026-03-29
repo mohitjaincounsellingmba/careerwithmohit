@@ -65,9 +65,9 @@ Its combination of **competitive fees**, **IIM-affiliated certifications**, and 
 ---
 
 ## 📍 Related Resources
-*   [Best MBA Colleges in Pune 2026: Comprehensive List](/posts/best-mba-colleges-in-pune-2026)
-*   [Direct MBA Admission India: No Entrance Needed?](/posts/direct-mba-admission-india)
-*   [RIIM Pune Review: The ROI Specialist](/posts/riim-pune-review-2025)
+*   [Best MBA Colleges in Pune 2026: Comprehensive List](/blog/best-mba-colleges-in-pune-2026)
+*   [Direct MBA Admission India: No Entrance Needed?](/blog/direct-mba-admission-india)
+*   [RIIM Pune Review: The ROI Specialist](/blog/riim-pune-review-2025)
 
 ---
 

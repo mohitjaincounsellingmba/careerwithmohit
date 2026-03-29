@@ -55,7 +55,7 @@ MUJ has a centralized placement cell that works tirelessly to bring top-tier com
 
 Admission to the MUJ MBA program is transparent and depends heavily on entrance scores and subsequent assessment rounds.
 
-1.  **Entrance Exam**: Candidates must have a valid score in [CAT](/posts/all-about-cat-exam), [MAT](/posts/all-about-mat-exam), [CMAT](/posts/all-about-cmat-exam), XAT, or GMAT.
+1.  **Entrance Exam**: Candidates must have a valid score in [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), [CMAT](/blog/all-about-cmat-exam), XAT, or GMAT.
 2.  **Cutoffs (Expected)**:
     *   **CAT**: ~25+ Percentile
     *   **MAT**: ~35-40+ Percentile
@@ -66,6 +66,6 @@ Admission to the MUJ MBA program is transparent and depends heavily on entrance 
 
 ### **Final Verdict: Should You Join MUJ?**
 
-Manipal University Jaipur provides a spectacular campus life, excellent networking opportunities, and a strong brand name. While the fees are slightly on the higher side (nearing ₹14-15 Lakhs with hostel), the infrastructure, faculty quality, and placement consistency justify the investment. If you are targeting the [best MBA colleges in Jaipur](/posts/best-mba-colleges-in-jaipur-2026), MUJ is a premium and safe bet.
+Manipal University Jaipur provides a spectacular campus life, excellent networking opportunities, and a strong brand name. While the fees are slightly on the higher side (nearing ₹14-15 Lakhs with hostel), the infrastructure, faculty quality, and placement consistency justify the investment. If you are targeting the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), MUJ is a premium and safe bet.
 
 [👉 Get Free Personal Counselling for Manipal University Jaipur Admissions!](/inquiry) | [💬 Talk to Mohit Jain Today](/inquiry)

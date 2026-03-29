@@ -53,8 +53,8 @@ Students from Bihar have successfully used the DRCC loan for the following insti
 
 ### 🏛️ Delhi NCR (Top Rated)
 - **[NDIM Delhi](/colleges/ndim-delhi)** — Grade 'A' B-school with excellent CSR placement.
-- **[NIU Noida](/posts/niu-vs-galgotias-university-mba-placement-review-2026)** — Recognized for its elite IBM-data tie-ups and strong placement focus.
-- **[Galgotias University](/posts/why-never-join-galgotias-university-for-mba-review)** — Massive intake but consistently accepts the Bihar Credit Card.
+- **[NIU Noida](/blog/niu-vs-galgotias-university-mba-placement-review-2026)** — Recognized for its elite IBM-data tie-ups and strong placement focus.
+- **[Galgotias University](/blog/why-never-join-galgotias-university-for-mba-review)** — Massive intake but consistently accepts the Bihar Credit Card.
 - **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** — Highly preferred for PGDM (Limited BSCC seats).
 - **[FIIB Delhi](/colleges/fiib-delhi)** — Known for International Business and 100% BSCC support.
 - **[GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida)** — Great ROI (High placement, moderate fees).

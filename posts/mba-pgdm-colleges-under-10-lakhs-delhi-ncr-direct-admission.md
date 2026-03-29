@@ -53,7 +53,7 @@ For profile-based direct admission, the fees remain the same. However, if applyi
 Yes. Once you are part of the program, placements are entirely driven by your skills and academic performance during the MBA/PGDM. Keep in mind that securing direct admission guarantees a seat, not a placement.
 
 **Explore More Insights:**
-*   [👉 Read: Why Never Join Galgotias University for MBA](/posts/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 *   [👉 Need Guidance? Book a Free Admission Strategy Call!](/inquiry)
 
 *At **CareerWithMohit**, we evaluate your profile carefully to help you crack the best B-school in Delhi NCR without getting trapped by misleading consultants.*

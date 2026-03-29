@@ -51,9 +51,9 @@ PDEU consistently demonstrates strong placement records, especially in its core 
 *   **Research Infrastructure**: The university has spent over ₹100 Crores on R&D labs and renewable energy research centers.
 
 Looking for more on Gujarat's top colleges? Check out:
-*   **[DA-IICT Gandhinagar: B.Tech Admission & Fees](/posts/daiict-gandhinagar-btech-admission-2026-fees-cutoff-review)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/posts/josaa-counselling-2026-dates-process-registration)**
-*   **[JEE Main 2026 Session 2: Exam & Preparation Updates](/posts/jee-main-2026-session-2-exam-dates-admit-card)**
+*   **[DA-IICT Gandhinagar: B.Tech Admission & Fees](/blog/daiict-gandhinagar-btech-admission-2026-fees-cutoff-review)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
+*   **[JEE Main 2026 Session 2: Exam & Preparation Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card)**
 
 **Confused Between PDEU and Newer NITs?**
 Many students prefer PDEU over newer NITs due to its state-of-the-art infrastructure and placement ties with giant energy firms like Reliance and ONGC. At **CareerWithMohit**, we help you decide the best fit based on your branch preference and long-term career goals.

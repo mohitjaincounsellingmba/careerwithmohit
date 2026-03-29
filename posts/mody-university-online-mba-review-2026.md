@@ -50,5 +50,5 @@ If you are looking for **maximum accreditation (NAAC A+) at a minimum cost**, **
 
 ---
 **Compare with:**
-*   [Manav Rachna University Online MBA Review](/posts/manav-rachna-university-online-mba-review-2026)
-*   [VGU Jaipur Online MBA Review 2026](/posts/vivekananda-global-university-vgu-online-mba-review-2026)
+*   [Manav Rachna University Online MBA Review](/blog/manav-rachna-university-online-mba-review-2026)
+*   [VGU Jaipur Online MBA Review 2026](/blog/vivekananda-global-university-vgu-online-mba-review-2026)

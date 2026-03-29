@@ -37,8 +37,8 @@ The total fee for the 2026-28 batch is approximately **₹28 Lakhs**. While this
 If you are someone who loves the creative side of business and wants to build a career in the dynamic world of communications, MICA is far better than most top-tier MBA colleges. However, if your focus is purely on Investment Banking or Supply Chain, a traditional IIM might be a better fit.
 
 ### **Explore More College Reviews:**
-*   [CUET PG 2026 Result Date & Top Colleges Guide](/posts/cuet-pg-2026-result-expected-date)
-*   [Top MBA Entrance Exams 2026: A Complete Guide](/posts/top-mba-entrance-exams-2026-guide)
-*   [CBSE 12th Result 2026: Expected Dates and Links](/posts/cbse-12th-result-2026-expected-date)
+*   [CUET PG 2026 Result Date & Top Colleges Guide](/blog/cuet-pg-2026-result-expected-date)
+*   [Top MBA Entrance Exams 2026: A Complete Guide](/blog/top-mba-entrance-exams-2026-guide)
+*   [CBSE 12th Result 2026: Expected Dates and Links](/blog/cbse-12th-result-2026-expected-date)
 
 [👉 Get Personalised Admission Guidance for MICA!](/inquiry)

@@ -44,9 +44,9 @@ The biggest USP of RV University is its **shared placement ecosystem** with RVCE
 *   **Cutoffs**: RVCE requires top 500 ranks. RVU is accessible to students with ranks in the 7,000 to 15,000 range.
 
 Explore other engineering options in Bangalore:
-*   [RV College of Engineering (RVCE): Detailed Review](/posts/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff)
-*   [MS Ramaiah Institute of Technology: Admission Guide](/posts/ms-ramaiah-msrit-btech-admission-2026-fees-cutoff)
-*   [SRM B.Tech Admission 2026: All Campuses](/posts/srm-btech-admission-2026-campuses-fees-cutoff-review)
+*   [RV College of Engineering (RVCE): Detailed Review](/blog/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff)
+*   [MS Ramaiah Institute of Technology: Admission Guide](/blog/ms-ramaiah-msrit-btech-admission-2026-fees-cutoff)
+*   [SRM B.Tech Admission 2026: All Campuses](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
 
 **Confused About the RV Brand?**
 Choosing between the high cutoffs of RVCE and the modern flexibility of RVU can be tough. At **CareerWithMohit**, we help you decide based on your rank and your preference for a traditional academic environment vs. a new-age university experience.

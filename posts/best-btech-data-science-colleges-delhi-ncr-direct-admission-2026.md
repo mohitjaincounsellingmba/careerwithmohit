@@ -65,7 +65,7 @@ When analyzing direct admissions, you must separate standard tuition fees from o
 *   **Affiliated Colleges (IPU/AKTU):** Lower annual tuition fees (₹1.2L to ₹1.5L/year) but securing a management quota seat may require a one-time developmental or capitation fee depending on the college's demand.
 
 ### Useful Links for Prospective Students
-*   [Education Loan Guide for Engineering Students](/posts/education-loan-guide-mba-btech)
-*   [How to Avoid Management Quota Scams](/posts/management-quota-legality-fraud-protection)
+*   [Education Loan Guide for Engineering Students](/blog/education-loan-guide-mba-btech)
+*   [How to Avoid Management Quota Scams](/blog/management-quota-legality-fraud-protection)
 
 [👉 Fast-track your career in Data Science! Contact our admission counselors today for genuine Direct Admission guidance.](/inquiry)

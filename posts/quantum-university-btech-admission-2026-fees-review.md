@@ -40,9 +40,9 @@ Quantum University is proud of its placement percentages, especially for the cor
 **Cons**: Hostel facilities are average in some blocks, limited research facilities compared to premium private universities in the NCR.
 
 Explore other top engineering options in Uttarakhand:
-*   [UPES Dehradun: Admission & Review](/posts/upes-dehradun-btech-admission-2026-fees-review)
-*   [COER Roorkee: Admission Guide](/posts/coer-roorkee-btech-admission-2026-fees-review)
-*   [Doon Institute Dehradun: Academic Insights](/posts/doon-institute-btech-admission-2026-fees-review)
+*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review)
+*   [COER Roorkee: Admission Guide](/blog/coer-roorkee-btech-admission-2026-fees-review)
+*   [Doon Institute Dehradun: Academic Insights](/blog/doon-institute-btech-admission-2026-fees-review)
 
 **Confused About the Quantum Interdisciplinary Advantage?**
 Quantum's "Passion Programs" are a major draw for students interested in arts, music, or sports while pursuing a B.Tech degree. At **CareerWithMohit**, we help you decide if an interdisciplinary engineering model is the right fit for your personality.

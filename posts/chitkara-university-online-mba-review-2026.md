@@ -52,5 +52,5 @@ If you want an Online MBA that isn't just a "degree-on-paper" but a truly **mode
 
 ---
 **Related Reviews:**
-*   [Chandigarh University Online MBA Review](/posts/chandigarh-university-online-mba-review-2026)
-*   [LPU Online MBA Review 2026](/posts/lovely-professional-university-lpu-online-mba-review-2026)
+*   [Chandigarh University Online MBA Review](/blog/chandigarh-university-online-mba-review-2026)
+*   [LPU Online MBA Review 2026](/blog/lovely-professional-university-lpu-online-mba-review-2026)

@@ -27,8 +27,8 @@ New Delhi Institute of Management (NDIM) has established itself as one of the mo
 *   **Location Advantage**: Being located in the heart of Delhi, students have year-round access to live projects and internships in the NCR region.
 
 ### **Explore More Placement Reviews:**
-*   [MICA Ahmedabad 2026 Placement Review](/posts/mica-ahmedabad-review-2026)
-*   [Top MBA Entrance Exams 2026 Guide](/posts/top-mba-entrance-exams-2026-guide)
-*   [Direct Admission in IMT Ghaziabad Guide](/posts/direct-admission-imt-ghaziabad-institutional-quota-2026)
+*   [MICA Ahmedabad 2026 Placement Review](/blog/mica-ahmedabad-review-2026)
+*   [Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)
+*   [Direct Admission in IMT Ghaziabad Guide](/blog/direct-admission-imt-ghaziabad-institutional-quota-2026)
 
 [👉 Get Expert Guidance for NDIM Delhi Admissions!](/inquiry)

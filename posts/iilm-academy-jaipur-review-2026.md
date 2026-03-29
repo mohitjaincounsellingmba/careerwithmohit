@@ -55,7 +55,7 @@ IILM maintains an impressive ~100% placement rate. The dedicated Career Developm
 
 IILM Jaipur has a profile-based admission process but relies on standard management entrance exams to shortlist candidates.
 
-1.  **Entrance Exam Score**: Must have a valid score in exams like [CAT](/posts/all-about-cat-exam), [MAT](/posts/all-about-mat-exam), [CMAT](/posts/all-about-cmat-exam), XAT, or NMAT.
+1.  **Entrance Exam Score**: Must have a valid score in exams like [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), [CMAT](/blog/all-about-cmat-exam), XAT, or NMAT.
 2.  **Cutoffs**:
     *   **CAT/XAT**: Typically requires ~50+ percentile.
     *   **MAT/CMAT**: Requires a decent composite score or rank (a MAT score of 550+ can make you eligible for good scholarships).
@@ -65,6 +65,6 @@ IILM Jaipur has a profile-based admission process but relies on standard managem
 
 ### **The Final Verdict**
 
-IILM Jaipur provides standard management education at an affordable price bracket. With a robust alumni network and access to centralized IILM placements, the ROI is commendable. If you are comparing the [best MBA colleges in Jaipur](/posts/best-mba-colleges-in-jaipur-2026), IILM is a highly practical choice.
+IILM Jaipur provides standard management education at an affordable price bracket. With a robust alumni network and access to centralized IILM placements, the ROI is commendable. If you are comparing the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), IILM is a highly practical choice.
 
 [👉 Secure Your Seat! Get Free Admission Guidance for IILM Jaipur](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)

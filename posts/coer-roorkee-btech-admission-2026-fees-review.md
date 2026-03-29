@@ -38,9 +38,9 @@ COER has a dedicated training and placement cell that prepares students for the 
 **Cons**: Limited research facilities compared to premium private universities, mandatory attendance requirements.
 
 Explore other top engineering options in Uttarakhand:
-*   [UPES Dehradun: Admission & Review](/posts/upes-dehradun-btech-admission-2026-fees-review)
-*   [Quantum University Roorkee: Admission Guide](/posts/quantum-university-btech-admission-2026-fees-review)
-*   [Doon Institute Dehradun: Academic Insights](/posts/doon-institute-btech-admission-2026-fees-review)
+*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review)
+*   [Quantum University Roorkee: Admission Guide](/blog/quantum-university-btech-admission-2026-fees-review)
+*   [Doon Institute Dehradun: Academic Insights](/blog/doon-institute-btech-admission-2026-fees-review)
 
 **Confused About the COER vs. Quantum University Choice?**
 COER is often preferred for its slightly more established brand name and academic rigor, while Quantum is known for its modern curriculum. At **CareerWithMohit**, we help you decide which Roorkee-based college is the right fit for your career goals.

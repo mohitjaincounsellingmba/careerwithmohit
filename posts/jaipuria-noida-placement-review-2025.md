@@ -28,8 +28,8 @@ Jaipuria Institute of Management, Noida, is widely regarded as one of Northern I
 *   **Un-campus Approach**: Frequent national guest lectures and corporate tie-ups ensure students are current with global industry shifts.
 
 ### **More College Placement Reviews:**
-*   [NDIM Delhi Placement Review 2025](/posts/ndim-placement-review-2025)
-*   [SOIL Gurgaon Placement Review 2025](/posts/soil-gurgaon-placement-review-2025)
-*   [BIMTECH Placement Review 2024-2025](/posts/bimtech-greater-noida-placement-review-2025)
+*   [NDIM Delhi Placement Review 2025](/blog/ndim-placement-review-2025)
+*   [SOIL Gurgaon Placement Review 2025](/blog/soil-gurgaon-placement-review-2025)
+*   [BIMTECH Placement Review 2024-2025](/blog/bimtech-greater-noida-placement-review-2025)
 
 [👉 Need Admission Help for Jaipuria Noida? Click Here!](/inquiry)

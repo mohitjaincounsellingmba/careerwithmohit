@@ -24,12 +24,12 @@ When you aren't drained by a 9-to-5 job, you can deep-dive into complex Quant to
 
 ### 2. Time for Profile Building
 A gap year isn't just for books. You can use this time to:
-*   Complete relevant certifications in [Finance](/posts/career-in-finance-course), Data Analytics, or [Advanced Excel](/posts/advanced-excel-certification).
+*   Complete relevant certifications in [Finance](/blog/career-in-finance-course), Data Analytics, or [Advanced Excel](/blog/advanced-excel-certification).
 *   Take up short-term internships or NGO work.
 *   Bridge skill gaps that might hinder you during B-school interviews.
 
 ### 3. Mental Clarity
-Starting an MBA is a huge financial and time investment. A gap year allows you to research [MBA vs PGDM](/posts/mba-vs-pgdm-difference) differences, visit campuses, and choose the right specialization without the rush of immediate deadlines.
+Starting an MBA is a huge financial and time investment. A gap year allows you to research [MBA vs PGDM](/blog/mba-vs-pgdm-difference) differences, visit campuses, and choose the right specialization without the rush of immediate deadlines.
 
 ## Cons & The "Gap Year" Risk
 
@@ -59,7 +59,7 @@ While B-schools are generally okay with a 1-year gap, some conservative companie
 ## When is a Gap Year a Good Choice?
 
 A gap year is a **GOOD** choice if:
-*   You have a clear roadmap and a target score for top-tier colleges like [IIM Ahmedabad or Calcutta](/posts/iims-list-courses-placements-cutoffs-admission).
+*   You have a clear roadmap and a target score for top-tier colleges like [IIM Ahmedabad or Calcutta](/blog/iims-list-courses-placements-cutoffs-admission).
 *   Your current profile lacks strong academic background or quantitative skills.
 *   You are financially stable enough to bear the opportunity cost of one year's salary.
 
@@ -71,15 +71,15 @@ A gap year might be a **BAD** choice if:
 ## How to Make Your Gap Year Productive
 
 If you decide to take the plunge, don't just stay at home with books. Follow these steps:
-1.  **Enroll in Certifications**: Focus on skills that align with your future goals. Check out our guide on [Top MBA Recruiters & Specializations](/posts/top-recruiters-mba-pgdm-specialization).
+1.  **Enroll in Certifications**: Focus on skills that align with your future goals. Check out our guide on [Top MBA Recruiters & Specializations](/blog/top-recruiters-mba-pgdm-specialization).
 2.  **Freelance/Intern**: Even 10 hours a week of professional work keeps your resume fresh.
 3.  **NGO/Skill-Based Volunteering**: Shows leadership and empathy—traits highly valued in B-school admissions.
 4.  **Stay Physical**: Join a gym or play a sport to manage the mental stress of a drop year.
 
 ## Conclusion
 
-Is a gap year for MBA a good choice? **Yes, provided it is a "productive" gap.** A year spent only on entrance exams is a risk, but a year spent on exam prep + skill building + profile enhancement is an investment that can land you in a top-rank [MBA college with great ROI](/posts/direct-mba-admission-india).
+Is a gap year for MBA a good choice? **Yes, provided it is a "productive" gap.** A year spent only on entrance exams is a risk, but a year spent on exam prep + skill building + profile enhancement is an investment that can land you in a top-rank [MBA college with great ROI](/blog/direct-mba-admission-india).
 
-Before you decide, make sure you understand the [All About CAT Exam](/posts/all-about-cat-exam) and other competitive options like [CMAT](/posts/all-about-cmat-exam) or [NMAT](/posts/all-about-nmat-exam).
+Before you decide, make sure you understand the [All About CAT Exam](/blog/all-about-cat-exam) and other competitive options like [CMAT](/blog/all-about-cmat-exam) or [NMAT](/blog/all-about-nmat-exam).
 
-**Still confused?** Use our [Career Roadmap Calculator](/posts/career-roadmaps-2026) to see where you stand!
+**Still confused?** Use our [Career Roadmap Calculator](/blog/career-roadmaps-2026) to see where you stand!

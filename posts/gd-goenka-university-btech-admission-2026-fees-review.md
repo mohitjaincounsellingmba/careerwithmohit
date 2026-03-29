@@ -40,9 +40,9 @@ The proximity to Cyber City and Udyog Vihar gives GD Goenka students a significa
 **Cons**: Hostel and mess charges are relatively high, campus environment is corporate-centric rather than traditional academic.
 
 Explore other top NCR private universities:
-*   [Bennett University Greater Noida: Review](/posts/bennett-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/posts/bml-munjal-university-btech-admission-2026-fees-review)
-*   [KR Mangalam University: Admission & Review](/posts/kr-mangalam-university-btech-admission-2026-fees-review)
+*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
+*   [KR Mangalam University: Admission & Review](/blog/kr-mangalam-university-btech-admission-2026-fees-review)
 
 **Confused Between GD Goenka and Amity?**
 GD Goenka is often preferred for its slightly more focused student intake and business-centric campus atmosphere. At **CareerWithMohit**, we help you choose the right private university in Gurugram based on your commuting radius and branch preference.

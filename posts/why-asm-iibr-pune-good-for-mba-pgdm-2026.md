@@ -34,10 +34,10 @@ Unlike standalone colleges, ASM IIBR students benefit from a **centralized place
 While both programs are strong, we generally recommend the **PGDM** at IIBR for students looking for more practical exposure and the **MBA (SPPU affiliated)** for those looking for a government-university degree at a lower cost.
 
 ### **Explore More About ASM Group:**
-*   [ASM IBMR Pune Review 2025: Placements & ROI](/posts/asm-ibmr-review-2025)
-*   [ASM IIBR Pune Review 2025: Specialized PGDM Training](/posts/asm-iibr-review-2025)
-*   [Best MBA Colleges in Pune 2026: The Ultimate List](/posts/best-mba-colleges-in-pune-2026)
-*   [MBA PGDM Colleges Under 10 Lakhs in Pune](/posts/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission)
+*   [ASM IBMR Pune Review 2025: Placements & ROI](/blog/asm-ibmr-review-2025)
+*   [ASM IIBR Pune Review 2025: Specialized PGDM Training](/blog/asm-iibr-review-2025)
+*   [Best MBA Colleges in Pune 2026: The Ultimate List](/blog/best-mba-colleges-in-pune-2026)
+*   [MBA PGDM Colleges Under 10 Lakhs in Pune](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission)
 
 **Need a Direct Comparison?**
 Deciding between ASM IIBR and other Pune options like RIIM or ISMS? Our expert counselors provide a side-by-side comparison of placements, hidden costs, and student culture.

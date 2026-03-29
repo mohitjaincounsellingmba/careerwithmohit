@@ -52,7 +52,7 @@ Yes. Your mode of admission is strictly administrative. The placement cell does 
 Finance and Marketing reign supreme in Mumbai due to the sheer concentration of banks, PE firms, and FMCG headquarters. Operations/SCM is also growing rapidly due to the port and logistics expansion in Navi Mumbai.
 
 **Explore More Insights:**
-*   [👉 Unbiased Reviews: Why Never Join Galgotias University for MBA](/posts/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Unbiased Reviews: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 *   [👉 Confused between PGDM and MMS? Get Your Free Profile Audit!](/inquiry)
 
 *At **CareerWithMohit**, we cut out the noise. Don't fall for flashy advertisements. Stick to the legacy names that deliver real placements.*

@@ -40,9 +40,9 @@ Vivekananda Global University has a strong placement division that focuses on pr
 **Cons**: Average packages for core branches like Mechanical or Civil are lower than CSE, relatively high academic pressure for final placement targets.
 
 Explore other top engineering options in Jaipur:
-*   [JKLU Jaipur: Admission & Review](/posts/jklu-jaipur-btech-admission-2026-fees-review)
-*   [JKLU vs. VGU Jaipur Selection: Expert Guide](/posts/jklu-vs-vgu-jaipur-selection-guide)
-*   [JoSAA Counselling 2026: Step-by-Step Guide](/posts/josaa-counselling-2026-dates-process-registration)
+*   [JKLU Jaipur: Admission & Review](/blog/jklu-jaipur-btech-admission-2026-fees-review)
+*   [JKLU vs. VGU Jaipur Selection: Expert Guide](/blog/jklu-vs-vgu-jaipur-selection-guide)
+*   [JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)
 
 **Confused About the VGU vs. JKLU Choice?**
 While both universities are in Jaipur, VGU is often the preferred choice for its wider multidisciplinary exposure and slightly higher domestic highest packages. At **CareerWithMohit**, we help you decide which university is the best fit for your specific rank and branch preference.

@@ -52,5 +52,5 @@ The **Kurukshetra University Online MBA** is the perfect choice for those who pr
 
 ---
 **See Also:**
-*   [Andhra University Online MBA Review](/posts/andhra-university-online-mba-review-2026)
-*   [Jaipuria Online PGDM Review 2026](/posts/jaipuria-institute-of-management-online-pgdm-review-2026)
+*   [Andhra University Online MBA Review](/blog/andhra-university-online-mba-review-2026)
+*   [Jaipuria Online PGDM Review 2026](/blog/jaipuria-institute-of-management-online-pgdm-review-2026)

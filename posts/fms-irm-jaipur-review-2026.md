@@ -53,7 +53,7 @@ The Rural Management (PGDM-RM) students also get lucrative offers from top micro
 
 FMS IRM shortlists candidates on the basis of national-level management entrance exams.
 
-*   **Accepted Exams**: [CAT](/posts/all-about-cat-exam), [MAT](/posts/all-about-mat-exam), XAT, [CMAT](/posts/all-about-cmat-exam), and ATMA.
+*   **Accepted Exams**: [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), XAT, [CMAT](/blog/all-about-cmat-exam), and ATMA.
 *   **Expected Cutoffs**: 
     *   **CAT/XAT**: ~80 Percentile
     *   **MAT/ATMA**: ~75-80 Percentile
@@ -64,6 +64,6 @@ After shortlisting, candidates must clear the Group Discussion (GD) and Personal
 
 ### **Final Verdict**
 
-FMS IRM is a solid choice for students seeking a reputed B-School in the region. If you are looking among the [best MBA colleges in Jaipur](/posts/best-mba-colleges-in-jaipur-2026), its legacy, experienced faculty, and established recruiter network make it a reliable option for a steady start in the corporate world.
+FMS IRM is a solid choice for students seeking a reputed B-School in the region. If you are looking among the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), its legacy, experienced faculty, and established recruiter network make it a reliable option for a steady start in the corporate world.
 
 [👉 Check your chances and get admission guidance for FMS IRM Jaipur](/inquiry) | [💬 Speak to Expert Counsellor Mohit Jain](/inquiry)

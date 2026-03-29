@@ -30,9 +30,9 @@ DIET focuses on skill development and career preparation through its dedicated p
 **Cons**: Average packages are lower than premium private universities, infrastructure for advanced research labs is basic compared to high-fee colleges.
 
 Explore other top engineering options in Uttarakhand:
-*   [UPES Dehradun: Admission & Review](/posts/upes-dehradun-btech-admission-2026-fees-review)
-*   [COER Roorkee: Admission Guide](/posts/coer-roorkee-btech-admission-2026-fees-review)
-*   [Quantum University Roorkee: Detailed Review](/posts/quantum-university-btech-admission-2026-fees-review)
+*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review)
+*   [COER Roorkee: Admission Guide](/blog/coer-roorkee-btech-admission-2026-fees-review)
+*   [Quantum University Roorkee: Detailed Review](/blog/quantum-university-btech-admission-2026-fees-review)
 
 **Confused About the Various 'Doon' Institutions?**
 Dehradun has multiple institutes with the 'Doon' name. At **CareerWithMohit**, we help you distinguish between the State Government's Doon University and private institutes like DIET to ensure you apply to the right one for your B.Tech goals.

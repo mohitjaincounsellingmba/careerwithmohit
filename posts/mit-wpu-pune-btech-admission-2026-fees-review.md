@@ -50,9 +50,9 @@ MIT-WPU is known for its strong placement cell, which provides 100% placement as
 *   **Global Exposure**: MIT-WPU has tie-ups with numerous international universities for research and exchange programs.
 
 Explore more engineering colleges in Pune:
-*   **[Bharati Vidyapeeth Pune: B.Tech Admission Guide](/posts/bharati-vidyapeeth-bvp-pune-btech-admission-2026)**
-*   **[DY Patil International University (DYPIU): Detailed Review](/posts/dy-patil-dypiu-pune-btech-admission-2026)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/posts/josaa-counselling-2026-dates-process-registration)**
+*   **[Bharati Vidyapeeth Pune: B.Tech Admission Guide](/blog/bharati-vidyapeeth-bvp-pune-btech-admission-2026)**
+*   **[DY Patil International University (DYPIU): Detailed Review](/blog/dy-patil-dypiu-pune-btech-admission-2026)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
 
 **Need Help with the MIT-WPU Direct Application?**
 Unlike many other Pune colleges, MIT-WPU has its own registration portal and deadlines. At **CareerWithMohit**, we help students navigate the direct application process and understand the difference between a JEE-based offer vs. an MHT-CET based offer.

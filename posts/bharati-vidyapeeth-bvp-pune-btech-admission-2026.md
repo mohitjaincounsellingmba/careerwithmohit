@@ -54,9 +54,9 @@ Bharati Vidyapeeth has a dedicated placement cell that ensures high placement ra
 **Cons**: High emphasis on attendance and academic discipline, smaller campus compared to universities like MIT-WPU.
 
 Explore other engineering options in Pune:
-*   **[MIT-WPU Pune: B.Tech Admission Guide](/posts/mit-wpu-pune-btech-admission-2026-fees-review)**
-*   **[DY Patil International University (DYPIU): Detailed Review](/posts/dy-patil-dypiu-pune-btech-admission-2026)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/posts/josaa-counselling-2026-dates-process-registration)**
+*   **[MIT-WPU Pune: B.Tech Admission Guide](/blog/mit-wpu-pune-btech-admission-2026-fees-review)**
+*   **[DY Patil International University (DYPIU): Detailed Review](/blog/dy-patil-dypiu-pune-btech-admission-2026)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
 
 **Need Help with the BVP CET Preparation?**
 BVP CET is a time-bound exam that demands high accuracy. At **CareerWithMohit**, we help students understand the exam pattern and provide guidance on choosing the right branch based on your final rank.

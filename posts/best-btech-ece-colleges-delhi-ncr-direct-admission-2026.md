@@ -65,7 +65,7 @@ As with any Direct Admission route, acting quickly is vital.
 3. Be cautious of educational consultants guaranteeing impossible seats in government NITs or IITs—this is practically a scam. Always refer to authentic college admission cells.
 
 ### Essential Reading for 2026 Aspirants
-*   [Is Management Quota Legal? Fraud Protection Guide](/posts/management-quota-legality-fraud-protection)
-*   [B.Tech Admissions FAQ 2026](/posts/btech-admissions-faq-2026)
+*   [Is Management Quota Legal? Fraud Protection Guide](/blog/management-quota-legality-fraud-protection)
+*   [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
 
 [👉 Connect with our expert counselors today for 100% transparent direct admission support in top ECE colleges!](/inquiry)

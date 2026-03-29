@@ -146,4 +146,4 @@ In this expanded guide, we provide **20 trending GD topics for 2026** with struc
 **Need personalized GDPI coaching to crack IIM or Top Private B-schools?**
 Don't leave your selection to chance. Our experts provide mock interviews and feedback tailored for 2026 admissions.
 
-[**Inquiry Now for GDPI 2026 Coaching**](/inquiry) | [**Explore Career Roadmaps**](/posts/career-roadmaps-2025)
+[**Inquiry Now for GDPI 2026 Coaching**](/inquiry) | [**Explore Career Roadmaps**](/blog/career-roadmaps-2025)

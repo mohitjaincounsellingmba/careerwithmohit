@@ -43,9 +43,9 @@ MSIT has a dedicated placement cell that ensures students from CSE and IT branch
 *   **Campus Life**: MAIT (Rohini) has a slightly larger campus and more student societies.
 
 Explore other top colleges in Delhi-NCR:
-*   [Maharaja Agrasen (MAIT): Admission Guide](/posts/mait-delhi-btech-admission-2026-fees-cutoff)
-*   [NIT Delhi: Cutoffs & Review](/posts/nit-delhi-btech-admission-2026-cutoff-fees)
-*   [JIIT Noida: Admission & Fees](/posts/jaypee-noida-jiit-btech-admission-2026-fees-cutoff)
+*   [Maharaja Agrasen (MAIT): Admission Guide](/blog/mait-delhi-btech-admission-2026-fees-cutoff)
+*   [NIT Delhi: Cutoffs & Review](/blog/nit-delhi-btech-admission-2026-cutoff-fees)
+*   [JIIT Noida: Admission & Fees](/blog/jaypee-noida-jiit-btech-admission-2026-fees-cutoff)
 
 **Confused Between IPU State Rank and All India Rank?**
 GGSIPU uses your All India Rank (AIR) but applies a separate state quota. At **CareerWithMohit**, we help you calculate your chances for a CSE seat at MSIT based on the 85% home state reservation.

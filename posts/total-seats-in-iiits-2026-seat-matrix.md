@@ -33,14 +33,14 @@ The seat matrix for each IIIT is categorized into Open, OBC, SC, ST, and EWS quo
 *   **Independent Counselling**: Institutes like **IIIT Hyderabad** and **IIIT Bangalore** have their own admission portals, for which candidates must apply separately.
 
 Expand your research to other engineering colleges:
-*   [Total Seats in IITs 2026: JoSAA Seat Matrix](/posts/total-seats-in-iits-2026-seat-matrix)
-*   [Total Seats in NITs 2026: State-wise Breakdown](/posts/total-seats-in-nits-2026-seat-matrix)
-*   [Total Seats in GFTIs 2026: Official List](/posts/total-seats-in-gftis-2026-seat-matrix)
+*   [Total Seats in IITs 2026: JoSAA Seat Matrix](/blog/total-seats-in-iits-2026-seat-matrix)
+*   [Total Seats in NITs 2026: State-wise Breakdown](/blog/total-seats-in-nits-2026-seat-matrix)
+*   [Total Seats in GFTIs 2026: Official List](/blog/total-seats-in-gftis-2026-seat-matrix)
 
 ### **Key Resources for IIIT Aspirants**
-*   [JEE Main College Predictor 2026: Best IIIT Based on Your Rank](/posts/jee-main-college-predictor-2026-btech-top-colleges)
-*   [JEE Main 2026 Session 2: Exam Updates & Admit Card](/posts/jee-main-2026-session-2-exam-dates-admit-card)
-*   [Complete Guide to Top Engineering Exams 2026](/posts/all-about-jee-exam)
+*   [JEE Main College Predictor 2026: Best IIIT Based on Your Rank](/blog/jee-main-college-predictor-2026-btech-top-colleges)
+*   [JEE Main 2026 Session 2: Exam Updates & Admit Card](/blog/jee-main-2026-session-2-exam-dates-admit-card)
+*   [Complete Guide to Top Engineering Exams 2026](/blog/all-about-jee-exam)
 
 **Confused About Selecting Your IIIT?**
 With many new IIITs established in the last few years, choosing the right one requires careful research on permanent campus availability, faculty, and industry connect. At **CareerWithMohit**, we help students differentiate between established IIITs and newer ones to ensure long-term career success.

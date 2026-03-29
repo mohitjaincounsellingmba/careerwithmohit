@@ -50,5 +50,5 @@ If you are looking for a program that carries the same weight as an internationa
 
 ---
 **Explore More Premium Options:**
-*   [NMIMS Online MBA Review 2026](/posts/nmims-online-mba-review-2026)
-*   [Manipal University Jaipur Online MBA Review](/posts/manipal-university-jaipur-online-mba-review-2026)
+*   [NMIMS Online MBA Review 2026](/blog/nmims-online-mba-review-2026)
+*   [Manipal University Jaipur Online MBA Review](/blog/manipal-university-jaipur-online-mba-review-2026)

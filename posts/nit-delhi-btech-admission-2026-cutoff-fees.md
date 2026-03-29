@@ -43,10 +43,10 @@ Despite its smaller campus, NIT Delhi outcomes are on par with some of the older
 **Cons**: Permanent campus is still undergoing construction of some blocks, smaller student intake compared to older NITs.
 
 Looking for more NIT and IIT options?
-*   **[Total Seats in All NITs: 2026 Seat Matrix](/posts/total-seats-in-nits-2026-seat-matrix)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/posts/josaa-counselling-2026-dates-process-registration)**
-*   **[IIT Delhi B.Tech: Admission & Review](/posts/iit-delhi-btech-admission-2026-cutoff-fees)**
-*   **[JEE Main 2026 Session 2: Updates](/posts/jee-main-2026-session-2-exam-dates-admit-card)**
+*   **[Total Seats in All NITs: 2026 Seat Matrix](/blog/total-seats-in-nits-2026-seat-matrix)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
+*   **[IIT Delhi B.Tech: Admission & Review](/blog/iit-delhi-btech-admission-2026-cutoff-fees)**
+*   **[JEE Main 2026 Session 2: Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card)**
 
 **Confused Between NIT Delhi and DTU NSUT?**
 For Delhi students, deciding between an NIT brand and the "local powerhouses" like DTU or NSUT is difficult. At **CareerWithMohit**, we evaluate your category advantage and branch preference to ensure you get the best seat in the NCR.

@@ -32,14 +32,14 @@ Most GFTIs participate in the **JoSAA (Joint Seat Allocation Authority)** for in
 *   **Fees Structure**: GFTIs generally have lower fees compared to private institutions, making them highly attractive for many students.
 
 Check out other engineering college seat guides:
-*   [Total Seats in IITs 2026: Official JoSAA Seat Matrix](/posts/total-seats-in-iits-2026-seat-matrix)
-*   [Total Seats in NITs 2026: State-wise Breakdown](/posts/total-seats-in-nits-2026-seat-matrix)
-*   [Total Seats in IIITs 2026: Branch-wise Matrix](/posts/total-seats-in-iiits-2026-seat-matrix)
+*   [Total Seats in IITs 2026: Official JoSAA Seat Matrix](/blog/total-seats-in-iits-2026-seat-matrix)
+*   [Total Seats in NITs 2026: State-wise Breakdown](/blog/total-seats-in-nits-2026-seat-matrix)
+*   [Total Seats in IIITs 2026: Branch-wise Matrix](/blog/total-seats-in-iiits-2026-seat-matrix)
 
 ### **Key Resources for GFTI Aspirants**
-*   [JEE Main College Predictor 2026: Best GFTI Based on Your Rank](/posts/jee-main-college-predictor-2026-btech-top-colleges)
-*   [JEE Main 2026 Session 2: Exam Updates & Schedule](/posts/jee-main-2026-session-2-exam-dates-admit-card)
-*   [Complete Guide to Engineering Admissions 2026](/posts/all-about-jee-exam)
+*   [JEE Main College Predictor 2026: Best GFTI Based on Your Rank](/blog/jee-main-college-predictor-2026-btech-top-colleges)
+*   [JEE Main 2026 Session 2: Exam Updates & Schedule](/blog/jee-main-2026-session-2-exam-dates-admit-card)
+*   [Complete Guide to Engineering Admissions 2026](/blog/all-about-jee-exam)
 
 **Confused About GFTI and Newer NITs?**
 Many established GFTIs like PEC Chandigarh or BIT Mesra are often ranked higher in terms of placements and industrial heritage than newer NITs. At **CareerWithMohit**, we clarify these nuances to help you choose the best return on investment for your career.

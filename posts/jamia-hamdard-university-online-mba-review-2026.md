@@ -52,5 +52,5 @@ The **Jamia Hamdard Online MBA** is a "safe" and high-value choice. It offers th
 
 ---
 **Related Posts:**
-*   [Galgotias University Online MBA Review](/posts/galgotias-university-online-mba-review-2026)
-*   [Manav Rachna University Online MBA Review](/posts/manav-rachna-university-online-mba-review-2026)
+*   [Galgotias University Online MBA Review](/blog/galgotias-university-online-mba-review-2026)
+*   [Manav Rachna University Online MBA Review](/blog/manav-rachna-university-online-mba-review-2026)

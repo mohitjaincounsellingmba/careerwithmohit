@@ -43,10 +43,10 @@ IIT Delhi placements are legendary, often featuring the highest international pa
 **Cons**: Extremely high academic pressure (competition with the brightest minds), some older hostel infrastructure.
 
 Plan your JEE journey with our other resources:
-*   **[Total Seats in All IITs: 2026 Seat Matrix](/posts/total-seats-in-iits-2026-seat-matrix)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/posts/josaa-counselling-2026-dates-process-registration)**
-*   **[NIT Delhi B.Tech: Admission & Review](/posts/nit-delhi-btech-admission-2026-cutoff-fees)**
-*   **[JEE Main 2026 Session 2: Updates](/posts/jee-main-2026-session-2-exam-dates-admit-card)**
+*   **[Total Seats in All IITs: 2026 Seat Matrix](/blog/total-seats-in-iits-2026-seat-matrix)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
+*   **[NIT Delhi B.Tech: Admission & Review](/blog/nit-delhi-btech-admission-2026-cutoff-fees)**
+*   **[JEE Main 2026 Session 2: Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card)**
 
 **Targeting a Top 100 Rank?**
 Securing a seat in IIT Delhi CSE requires not just hard work, but a strategic approach to the JEE Advanced pattern. At **CareerWithMohit**, we provide branch-priority analysis to help you decide between IIT Delhi core branches and newer IIT CSE branches.

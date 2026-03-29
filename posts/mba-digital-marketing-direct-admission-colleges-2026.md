@@ -68,16 +68,16 @@ Graduates from these top colleges often land roles like:
 ---
 
 ## 📍 State-Wise Direct Admission Guides
-*   [Direct MBA Admission in Bangalore 2026](/posts/direct-mba-admission-bangalore-2026)
-*   [Direct MBA Admission in Mumbai 2026](/posts/direct-mba-admission-mumbai-2026)
-*   [Best MBA Colleges in Delhi NCR under 10 Lakhs](/posts/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)
+*   [Direct MBA Admission in Bangalore 2026](/blog/direct-mba-admission-bangalore-2026)
+*   [Direct MBA Admission in Mumbai 2026](/blog/direct-mba-admission-mumbai-2026)
+*   [Best MBA Colleges in Delhi NCR under 10 Lakhs](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)
 
 ---
 
 ## 🎯 Related Resources
-*   [Online MBA India 2026: The Ultimate Guide](/posts/online-mba-india-2026)
-*   [NMIMS Online MBA Review: Is it Worth It?](/posts/nmims-online-mba-review-2026)
-*   [Career Roadmaps 2026: Building a Future-Proof Success Plan](/posts/career-roadmaps-2026)
+*   [Online MBA India 2026: The Ultimate Guide](/blog/online-mba-india-2026)
+*   [NMIMS Online MBA Review: Is it Worth It?](/blog/nmims-online-mba-review-2026)
+*   [Career Roadmaps 2026: Building a Future-Proof Success Plan](/blog/career-roadmaps-2026)
 
 ---
 

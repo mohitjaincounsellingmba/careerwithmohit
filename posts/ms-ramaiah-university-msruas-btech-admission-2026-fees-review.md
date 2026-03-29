@@ -46,9 +46,9 @@ MSRUAS focuses heavily on internships and industrial exposure, resulting in soli
 *   **Degree**: MSRIT gives a VTU degree (autonomous). MSRUAS is a standalone UGC-recognized university degree.
 
 Explore more engineering options in Bangalore:
-*   [MS Ramaiah Institute of Technology: Admission Guide](/posts/ms-ramaiah-msrit-btech-admission-2026-fees-cutoff)
-*   [RV College of Engineering (RVCE): Detailed Review](/posts/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff)
-*   [SRM B.Tech Admission 2026: All Campuses](/posts/srm-btech-admission-2026-campuses-fees-cutoff-review)
+*   [MS Ramaiah Institute of Technology: Admission Guide](/blog/ms-ramaiah-msrit-btech-admission-2026-fees-cutoff)
+*   [RV College of Engineering (RVCE): Detailed Review](/blog/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff)
+*   [SRM B.Tech Admission 2026: All Campuses](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
 
 **Need Help Choosing Your Branch?**
 MSRUAS is often the preferred choice for students looking at niche branches like Automotive or Aerospace Engineering. At **CareerWithMohit**, we help you choose between MSRIT and MSRUAS based on your specific career goals and your performance in COMEDK or KCET.

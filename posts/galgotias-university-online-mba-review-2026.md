@@ -52,5 +52,5 @@ For students seeking **NAAC A+ quality without the premium price tag**, **Galgot
 
 ---
 **Read More:**
-*   [Manav Rachna University Online MBA Review](/posts/manav-rachna-university-online-mba-review-2026)
-*   [Jamia Hamdard Online MBA Review 2026](/posts/jamia-hamdard-university-online-mba-review-2026)
+*   [Manav Rachna University Online MBA Review](/blog/manav-rachna-university-online-mba-review-2026)
+*   [Jamia Hamdard Online MBA Review 2026](/blog/jamia-hamdard-university-online-mba-review-2026)

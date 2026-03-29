@@ -66,9 +66,9 @@ With a strong portfolio, you are now ready to apply for roles like *Digital Mark
 If you are looking to accelerate your journey and gain formal management credentials, pursuing a specialized post-graduate degree might be the right move. 
 
 **Helpful Resources to Accelerate Your Career:**
-*   [Direct Admission in MBA Digital Marketing Colleges (2026)](/posts/mba-digital-marketing-direct-admission-colleges-2026)
-*   [How to Start Freelining in 2026: A Step-by-Step Guide](/posts/how-to-start-freelancing-2026-beginners-india)
-*   [Career Roadmaps for Success in 2026](/posts/career-roadmaps-2026)
+*   [Direct Admission in MBA Digital Marketing Colleges (2026)](/blog/mba-digital-marketing-direct-admission-colleges-2026)
+*   [How to Start Freelining in 2026: A Step-by-Step Guide](/blog/how-to-start-freelancing-2026-beginners-india)
+*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2026)
 
 ---
 

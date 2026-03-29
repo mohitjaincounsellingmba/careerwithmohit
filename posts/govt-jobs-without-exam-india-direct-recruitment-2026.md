@@ -50,15 +50,15 @@ Certain state government departments prioritize physical fitness over theoretica
 Since there is no exam, your **Document Verification** is the most critical stage.
 1.  **Keep Records Ready**: Original marksheets for 10th, 12th, and Graduation are mandatory.
 2.  **Caste/Category Certificates**: Ensure your EWS/OBC/SC/ST certificates are current and in the central/state format.
-3.  **Regional Languages**: Many merit-based state jobs require proficiency in the local language. Check our [guide on learning new languages fast](/posts/how-to-learn-french-language-2026) to expand your options.
+3.  **Regional Languages**: Many merit-based state jobs require proficiency in the local language. Check our [guide on learning new languages fast](/blog/how-to-learn-french-language-2026) to expand your options.
 
 ---
 
 ### **Explore More Career Paths:**
-*   [Full Exam Calendar: Upcoming Govt Jobs 2026-27](/posts/upcoming-govt-jobs-india-2026-calendar)
-*   [How to Start Freelancing in 2026 as a Secondary Income](/posts/how-to-start-freelancing-2026-beginners-india)
-*   [Top 100 MNC Career Links in India](/posts/top-100-mnc-career-links-india)
-*   [Career Roadmaps for Success in 2026](/posts/career-roadmaps-2026)
+*   [Full Exam Calendar: Upcoming Govt Jobs 2026-27](/blog/upcoming-govt-jobs-india-2026-calendar)
+*   [How to Start Freelancing in 2026 as a Secondary Income](/blog/how-to-start-freelancing-2026-beginners-india)
+*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
+*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2026)
 
 **Need Admission or Career Guidance?**
 If you have high marks but aren't sure which department's merit list you can top, our counselors can help you analyze your scores against previous cut-offs.

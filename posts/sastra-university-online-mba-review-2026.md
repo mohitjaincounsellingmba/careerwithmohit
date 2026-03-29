@@ -50,5 +50,5 @@ If you value **academic excellence and brand prestige** above all else, **SASTRA
 
 ---
 **Related Reviews:**
-*   [AMITY Online MBA Review 2026](/posts/amity-university-online-mba-review-2026)
-*   [SRM University Online MBA Review](/posts/srm-university-online-mba-review-2026)
+*   [AMITY Online MBA Review 2026](/blog/amity-university-online-mba-review-2026)
+*   [SRM University Online MBA Review](/blog/srm-university-online-mba-review-2026)

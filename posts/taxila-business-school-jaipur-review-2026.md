@@ -52,7 +52,7 @@ Taxila Business School boasts a **100% placement rate** for its PGDM batches, en
 
 Admission to Taxila Business School is competitive and profile-based.
 
-1.  **Entrance Exam**: Must have a valid score in [CAT](/posts/all-about-cat-exam), [CMAT](/posts/all-about-cmat-exam), XAT, or MAT.
+1.  **Entrance Exam**: Must have a valid score in [CAT](/blog/all-about-cat-exam), [CMAT](/blog/all-about-cmat-exam), XAT, or MAT.
 2.  **Personal Interview (PI)**: Shortlisted candidates go through rigorous PI rounds.
 3.  **Academic Profile**: 10th, 12th, and Graduation scores are given due weightage.
 
@@ -62,6 +62,6 @@ There is no strict fixed cutoff, as overall profiling (work experience + entranc
 
 ### **The Taxila Advantage: Should You Apply?**
 
-If you are evaluating the [best MBA colleges in Jaipur](/posts/best-mba-colleges-in-jaipur-2026), Taxila Business School should be on your list for its strong ROI. With total expenses staying around ₹12-13 Lakhs (including hostel) and an average package crossing ₹11 LPA, candidates can expect to recover their investments within 1-2 years.
+If you are evaluating the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), Taxila Business School should be on your list for its strong ROI. With total expenses staying around ₹12-13 Lakhs (including hostel) and an average package crossing ₹11 LPA, candidates can expect to recover their investments within 1-2 years.
 
 [👉 Get Free Personal Counselling for Taxila Business School Admissions!](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)

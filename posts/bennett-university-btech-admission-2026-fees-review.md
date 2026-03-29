@@ -41,9 +41,9 @@ Bennett University leverages the Times Group's massive corporate network to brin
 **Cons**: Higher fee structure compared to other private colleges, strict curriculum intensity.
 
 Explore other top NCR private universities:
-*   [Amity Noida: Admission & Review](/posts/amity-university-noida-btech-admission-2026-fees-review)
-*   [GD Goenka Gurugram: Guide](/posts/gd-goenka-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/posts/bml-munjal-university-btech-admission-2026-fees-review)
+*   [Amity Noida: Admission & Review](/blog/amity-university-noida-btech-admission-2026-fees-review)
+*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
 
 **Confused About the High Fees?**
 Bennett offers generous scholarships up to 100% of the tuition fee for high achievers (95+ Percentile in JEE). At **CareerWithMohit**, we help you calculate your final scholarship-adjusted ROI to see if Bennett is the right fit for your budget.

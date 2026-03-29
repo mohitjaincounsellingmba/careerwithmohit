@@ -55,5 +55,5 @@ If your primary goal is to get a **highly credible degree at the lowest possible
 
 ---
 **Internal Links:**
-*   [Top 10 Online MBA Colleges in India 2026](/posts/online-mba-india-2026)
-*   [Kalinga University Online MBA Review](/posts/kalinga-university-online-mba-review-2026)
+*   [Top 10 Online MBA Colleges in India 2026](/blog/online-mba-india-2026)
+*   [Kalinga University Online MBA Review](/blog/kalinga-university-online-mba-review-2026)

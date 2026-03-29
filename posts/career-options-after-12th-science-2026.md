@@ -27,7 +27,7 @@ For those who blend creativity with technical precision.
 #### **Pure Sciences & Research (B.Sc/BS-MS)**
 If you are passionate about discovery, research is a highly rewarding path.
 *   **Institutes:** IISER, IISc, and top Central Universities.
-*   **Internal Link:** Check out the [BITS Pilani Campuses](/posts/all-about-bits-pilani-campuses) for specialized science programs.
+*   **Internal Link:** Check out the [BITS Pilani Campuses](/blog/all-about-bits-pilani-campuses) for specialized science programs.
 
 ---
 
@@ -37,7 +37,7 @@ If you are passionate about discovery, research is a highly rewarding path.
 The most respected and stable career path for biology students.
 *   **Entrance Exam:** NEET-UG is mandatory for admission in India.
 *   **Starting Salary:** ₹6 LPA to ₹15 LPA (varies by specialization and hospital).
-*   **Internal Link:** Get all the details about the [NEET Exam](/posts/all-about-neet-exam).
+*   **Internal Link:** Get all the details about the [NEET Exam](/blog/all-about-neet-exam).
 
 #### **Allied Health Sciences**
 If you want to stay in healthcare without being a doctor, these are excellent high-growth options:
@@ -65,7 +65,7 @@ Combining biology with technology to solve global issues like diseases and food 
 
 1.  **Look Beyond Traditional Degrees:** Certifications in coding or data tools can boost your resume.
 2.  **Focus on Sustainability:** Green tech and environmental science are sectors with huge funding.
-3.  **Prepare for Entrance Exams:** Start your preparation for exams like [JEE](/posts/all-about-jee-exam) or NEET at least 1-2 years in advance.
+3.  **Prepare for Entrance Exams:** Start your preparation for exams like [JEE](/blog/all-about-jee-exam) or NEET at least 1-2 years in advance.
 
 ### Final Thoughts
 Science is a versatile stream that allows you to switch to Management (BBA/MBA) or Law (LLB) later if you change your mind. The key is to build a strong foundation in your 12th standard and keep exploring the latest tech trends.

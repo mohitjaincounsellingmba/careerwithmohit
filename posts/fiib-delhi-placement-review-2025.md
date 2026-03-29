@@ -28,8 +28,8 @@ Fortune Institute of International Business (FIIB) Delhi is a fast-growing B-sch
 *   **Mentorship Model**: The institute provides personal mentorship to ensure students are industry-ready, which reflects in their high Top-20% salary performance.
 
 ### **Check Other Placement Guides:**
-*   [NDIM Delhi Placement Review 2025](/posts/ndim-placement-review-2025)
-*   [BIMTECH Placement Review 2024-2025](/posts/bimtech-greater-noida-placement-review-2025)
-*   [MICA Ahmedabad 2026 Placement Review](/posts/mica-ahmedabad-review-2026)
+*   [NDIM Delhi Placement Review 2025](/blog/ndim-placement-review-2025)
+*   [BIMTECH Placement Review 2024-2025](/blog/bimtech-greater-noida-placement-review-2025)
+*   [MICA Ahmedabad 2026 Placement Review](/blog/mica-ahmedabad-review-2026)
 
 [👉 Get More Information regarding FIIB Delhi admissions!](/inquiry)

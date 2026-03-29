@@ -51,9 +51,9 @@ While the Bangalore campuses have a larger corporate volume, Pune Lavasa offers 
 Lush green hills with a mild climate, providing one of the most beautiful campus settings in India.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/posts/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Kengeri Campus MBA: Review](/posts/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/posts/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
 
 **Confused About the Remote Location?**
 While Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, we help you decide if the focused environment of Pune Lavasa is the right catalyst for your management career compared to the urban chaos of other campuses.

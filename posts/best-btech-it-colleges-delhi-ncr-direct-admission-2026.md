@@ -66,7 +66,7 @@ The management quota process is heavily time-sensitive. Counseling and document 
 3. Understand the difference between the actual university yearly college fee vs. any one-time development fee for the seat.
 
 *Helpful Links:* 
-*   [Is Management Quota Legal? Fraud Protection Guide](/posts/management-quota-legality-fraud-protection)
-*   [Education Loan Guide for B.Tech](/posts/education-loan-guide-mba-btech)
+*   [Is Management Quota Legal? Fraud Protection Guide](/blog/management-quota-legality-fraud-protection)
+*   [Education Loan Guide for B.Tech](/blog/education-loan-guide-mba-btech)
 
 [👉 Missed the CSE cut-off? B.Tech IT is the next best path. Connect with our admission experts for guaranteed legal guidance.](/inquiry)

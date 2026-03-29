@@ -36,10 +36,10 @@ Follow these steps to access your scorecard instantly once the link is active:
 After the Bihar Board results, students often face the dilemma of choosing the right college and career path. Whether you are from the Science, Commerce, or Arts stream, planning ahead is critical.
 
 Check out our specialized guides for your next steps:
-*   [CBSE 12th Result 2026: Comparison & Dates](/posts/cbse-12th-result-2026-expected-date)
-*   [Career Roadmaps for Engineering & Management 2026](/posts/career-roadmaps-2026)
-*   [Top B.Tech Colleges in Pune: Admissions & Fees](/posts/top-btech-colleges-pune)
-*   [Best BBA Colleges in Bangalore 2026](/posts/top-bba-colleges-bangalore-2026)
+*   [CBSE 12th Result 2026: Comparison & Dates](/blog/cbse-12th-result-2026-expected-date)
+*   [Career Roadmaps for Engineering & Management 2026](/blog/career-roadmaps-2026)
+*   [Top B.Tech Colleges in Pune: Admissions & Fees](/blog/top-btech-colleges-pune)
+*   [Best BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026)
 
 ### **Details Check on Your Provisional Marksheet**
 Ensure that the following details are correct on your downloaded Bihar Board 12th scorecard:

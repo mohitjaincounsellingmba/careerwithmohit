@@ -52,11 +52,11 @@ The scholarship is highly competitive. The selection is strictly merit-based and
 ---
 
 ### Need Loans Instead of Coaching?
-While the CET program covers coaching, if you are looking for financial assistance to fund your regular graduation or PG degrees (like an MBA or B.Tech), JATF offers separate schemes. **Read our complete guide here:** [JITO Education Loan for Jain Students: JELP & SEED Schemes](/posts/jito-education-loan-jain-students-jelp-seed-2026)
+While the CET program covers coaching, if you are looking for financial assistance to fund your regular graduation or PG degrees (like an MBA or B.Tech), JATF offers separate schemes. **Read our complete guide here:** [JITO Education Loan for Jain Students: JELP & SEED Schemes](/blog/jito-education-loan-jain-students-jelp-seed-2026)
 
 ### Helpful Career Resources for Aspirants
-*   [Upcoming Government Jobs Calendar in India (2026)](/posts/upcoming-govt-jobs-india-2026-calendar)
-*   [Direct Recruitment: Govt. Jobs Without Exams](/posts/govt-jobs-without-exam-india-direct-recruitment-2026)
-*   [Education Loan Complete Guide for Students](/posts/education-loan-guide-mba-btech)
+*   [Upcoming Government Jobs Calendar in India (2026)](/blog/upcoming-govt-jobs-india-2026-calendar)
+*   [Direct Recruitment: Govt. Jobs Without Exams](/blog/govt-jobs-without-exam-india-direct-recruitment-2026)
+*   [Education Loan Complete Guide for Students](/blog/education-loan-guide-mba-btech)
 
 [👉 Confused about your career path? Get expert Career Counselling today!](/inquiry)

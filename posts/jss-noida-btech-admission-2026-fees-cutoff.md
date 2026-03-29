@@ -43,10 +43,10 @@ JSS stands out in Noida for its high placement percentages and strong recruiter 
 **Cons**: Small campus compared to government universities, strict attendance and academic policies of AKTU, and high demand leading to high cutoffs.
 
 Explore other options in the Delhi-NCR:
-*   [JIIT Noida (Jaypee): Admission & Review](/posts/jaypee-noida-jiit-btech-admission-2026-fees-cutoff)
-*   [NIT Delhi: Cutoffs & Review](/posts/nit-delhi-btech-admission-2026-cutoff-fees)
-*   [IIT Delhi: Admission Guide](/posts/iit-delhi-btech-admission-2026-cutoff-fees)
-*   [MAIT Delhi: Cutoffs & Fees](/posts/mait-delhi-btech-admission-2026-fees-cutoff)
+*   [JIIT Noida (Jaypee): Admission & Review](/blog/jaypee-noida-jiit-btech-admission-2026-fees-cutoff)
+*   [NIT Delhi: Cutoffs & Review](/blog/nit-delhi-btech-admission-2026-cutoff-fees)
+*   [IIT Delhi: Admission Guide](/blog/iit-delhi-btech-admission-2026-cutoff-fees)
+*   [MAIT Delhi: Cutoffs & Fees](/blog/mait-delhi-btech-admission-2026-fees-cutoff)
 
 **Confused Between JSS and JIIT?**
 While both are in Sector 62, JSS follows the AKTU curriculum and charges lower fees. JIIT is a self-regulated deemed university with its own exam pattern and higher fees. At **CareerWithMohit**, we help you decide based on your career goals and budget.

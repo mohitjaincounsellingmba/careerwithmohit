@@ -48,10 +48,10 @@ Follow these simple steps to access your Inter result:
 Now that your Inter results are out, it's time to focus on university admissions and entrance exams like **CUET, JEE, NEET, and MBA integrated programs**.
 
 Plan your career with our expert resources:
-*   [BSEB 10th Result 2026 Declared: Check Now](/posts/bseb-10th-result-2026-declared)
-*   [Bihar Student Credit Card (BSCC) Scheme: Funding Your Higher Education](/posts/bihar-student-credit-card-mba-colleges)
-*   [Top MBA Colleges in India: Planning Your Postgraduate Journey](/posts/iims-list-courses-placements-cutoffs-admission)
-*   [Career Options After 12th Science, Commerce, and Arts](/posts/career-options-after-12th-science-2026)
+*   [BSEB 10th Result 2026 Declared: Check Now](/blog/bseb-10th-result-2026-declared)
+*   [Bihar Student Credit Card (BSCC) Scheme: Funding Your Higher Education](/blog/bihar-student-credit-card-mba-colleges)
+*   [Top MBA Colleges in India: Planning Your Postgraduate Journey](/blog/iims-list-courses-placements-cutoffs-admission)
+*   [Career Options After 12th Science, Commerce, and Arts](/blog/career-options-after-12th-science-2026)
 
 ### **Details to Verify on Your 12th Marksheet**
 Check the following details carefully on your provisional certificate:

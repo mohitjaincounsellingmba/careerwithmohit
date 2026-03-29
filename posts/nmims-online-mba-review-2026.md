@@ -90,16 +90,16 @@ Admission to the NMIMS Online MBA is merit-based. You don't need a CAT/NMAT scor
 *   You want academic flexibility without compromising on quality.
 
 **The NMIMS Online MBA is a "No" if:**
-*   You are a fresher expecting a ₹15 LPA campus placement (Opt for a [Regular MBA in Delhi](/posts/best-mba-colleges-in-delhi-2026) instead).
+*   You are a fresher expecting a ₹15 LPA campus placement (Opt for a [Regular MBA in Delhi](/blog/best-mba-colleges-in-delhi-2026) instead).
 *   You prefer face-to-face networking over virtual interactions.
 
 ---
 
 ## 📍 internal Links & Related Reading
-*   [Overall Guide to Online MBA in India 2026](/posts/online-mba-india-2026)
-*   [Amity University Online MBA Review](/posts/amity-university-online-mba-review-2026)
-*   [Jain University Online MBA Review](/posts/jain-university-online-mba-review-2026)
-*   [Honeyst Review: Why You Should NEVER Join NMIMS Online MBA](/posts/why-never-join-nmims-online-mba-honest-review-2026) (A Critical Perspective)
+*   [Overall Guide to Online MBA in India 2026](/blog/online-mba-india-2026)
+*   [Amity University Online MBA Review](/blog/amity-university-online-mba-review-2026)
+*   [Jain University Online MBA Review](/blog/jain-university-online-mba-review-2026)
+*   [Honeyst Review: Why You Should NEVER Join NMIMS Online MBA](/blog/why-never-join-nmims-online-mba-honest-review-2026) (A Critical Perspective)
 
 ---
 

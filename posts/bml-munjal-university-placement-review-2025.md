@@ -28,8 +28,8 @@ BML Munjal University (BMU), founded by the Hero Group, has set its focus on exp
 *   **Industry Mentorship**: Students are exposed to live corporate environments from Day 1, which translates into better PPOs (Pre-Placement Offers).
 
 ### **Check Other Placement Guides:**
-*   [Jaipuria Noida Placement Review 2025](/posts/jaipuria-noida-placement-review-2025)
-*   [Top MBA Entrance Exams 2026 Guide](/posts/top-mba-entrance-exams-2026-guide)
-*   [MICA Ahmedabad Placement Review 2026](/posts/mica-ahmedabad-review-2026)
+*   [Jaipuria Noida Placement Review 2025](/blog/jaipuria-noida-placement-review-2025)
+*   [Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)
+*   [MICA Ahmedabad Placement Review 2026](/blog/mica-ahmedabad-review-2026)
 
 [👉 Get Admission Consultation for BML Munjal University!](/inquiry)

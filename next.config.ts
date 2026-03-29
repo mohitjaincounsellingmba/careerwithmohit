@@ -8,7 +8,16 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 't0.gstatic.com' },
       { protocol: 'https', hostname: 'unavatar.io' },
     ]
-  }
+  },
+  async redirects() {
+    return [
+      {
+        source: '/posts/:slug',
+        destination: '/blog/:slug',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

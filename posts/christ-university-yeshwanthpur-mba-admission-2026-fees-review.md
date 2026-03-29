@@ -51,9 +51,9 @@ Yes, since all Christ Bangalore campuses participate in the same centralized pla
 Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/posts/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Kengeri Campus MBA: Review](/posts/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/posts/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
 
 **Confused About Which Bangalore Campus to Choose?**
 While all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2026 admission cycle to ensure you land in the campus that fits your personality and career path.

@@ -50,5 +50,5 @@ If you want a **reliable, NAAC 'A' accredited MBA** from a university with a str
 
 ---
 **See Also:**
-*   [Jamia Hamdard Online MBA Review](/posts/jamia-hamdard-university-online-mba-review-2026)
-*   [Amity University Online MBA Review 2026](/posts/amity-university-online-mba-review-2026)
+*   [Jamia Hamdard Online MBA Review](/blog/jamia-hamdard-university-online-mba-review-2026)
+*   [Amity University Online MBA Review 2026](/blog/amity-university-online-mba-review-2026)

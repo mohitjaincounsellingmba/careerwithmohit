@@ -56,7 +56,7 @@ JECRC University is renowned for hosting mega placement drives. With over 140+ c
 JECRC University follows a merit plus entrance-based admission process. 
 
 1.  **Eligibility**: Candidates must hold a bachelor's degree with a minimum of 60% aggregate marks.
-2.  **Entrance Exam Score**: Valid scores in [CAT](/posts/all-about-cat-exam), [MAT](/posts/all-about-mat-exam), or XAT are mandatory.
+2.  **Entrance Exam Score**: Valid scores in [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), or XAT are mandatory.
 3.  **Selection Rounds**: Shortlisted candidates are invited for Group Discussion (GD) and Personal Interview (PI) rounds.
 4.  **Cutoffs**: There is no rigid cutoff percentile, but a competitive score in MAT (e.g., 50+ percentile) generally secures a PI call.
 
@@ -64,6 +64,6 @@ JECRC University follows a merit plus entrance-based admission process.
 
 ### **The Final Verdict: Is JECRC Worth It?**
 
-If affordability with a high chance of placement is your primary criteria, JECRC University is a solid pick. Considering the tuition fee stays around ₹5 Lakhs and the average package sits comfortably at ₹6 LPA, the ROI is excellent. For those searching for the [best MBA colleges in Jaipur](/posts/best-mba-colleges-in-jaipur-2026), JECRC brings the perfect mix of campus life and career security.
+If affordability with a high chance of placement is your primary criteria, JECRC University is a solid pick. Considering the tuition fee stays around ₹5 Lakhs and the average package sits comfortably at ₹6 LPA, the ROI is excellent. For those searching for the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), JECRC brings the perfect mix of campus life and career security.
 
 [👉 Secure Your Seat! Get Free Admission Guidance for JECRC University](/inquiry) | [💬 Talk to Expert Career Counsellor Mohit Jain](/inquiry)

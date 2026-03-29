@@ -62,10 +62,10 @@ Find your state board below to access result portals, date sheets, and syllabus 
 
 ### **Plan Your Career After Boards:**
 Finishing 10th or 12th is just the beginning. Check out our high-authority career guides:
-*   [CBSE 12th Result 2026 Expected Dates](/posts/cbse-12th-result-2026-expected-date)
-*   [Bihar Board 12th Result 2026 Check Link](/posts/bihar-board-12th-result-2026-expected-date)
-*   [Career Roadmaps for 2026: Success Blueprint](/posts/career-roadmaps-2026)
-*   [Top B.Tech Colleges in Pune 2026](/posts/top-btech-colleges-pune)
+*   [CBSE 12th Result 2026 Expected Dates](/blog/cbse-12th-result-2026-expected-date)
+*   [Bihar Board 12th Result 2026 Check Link](/blog/bihar-board-12th-result-2026-expected-date)
+*   [Career Roadmaps for 2026: Success Blueprint](/blog/career-roadmaps-2026)
+*   [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
 
 **Need Personalized Counseling?**
 Confused about Science vs Commerce? Or thinking about the best college for your marks? Our expert counselors help thousands of students every year make the right choice.

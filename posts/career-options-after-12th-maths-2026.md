@@ -17,7 +17,7 @@ Whether you want to work in a high-rise bank, a space agency, or a data-driven t
 The digital age is built on data. Those who can analyze and interpret it are in very high demand.
 *   **Best for:** Students who love statistics and logical reasoning.
 *   **Average Salary:** ₹12 LPA to ₹25 LPA (for freshers from top-tier institutes).
-*   **Internal Link:** Follow our [Data Analytics Career Roadmap](/posts/career-roadmaps-2026) for a step-by-step guide.
+*   **Internal Link:** Follow our [Data Analytics Career Roadmap](/blog/career-roadmaps-2026) for a step-by-step guide.
 
 #### **Actuarial Science**
 One of the most highly paid but challenging careers. Actuaries use math to assess risks for insurance companies and financial institutes.
@@ -30,7 +30,7 @@ One of the most highly paid but challenging careers. Actuaries use math to asses
 
 #### **Investment Banking & Finance**
 Modern finance is highly mathematical. Roles like "Quants" (Quantitative Analysts) are filled by math wizards.
-*   **Course:** B.A. Economics (Hons), B.Com (Hons), or B.Sc (Maths/Stats) followed by a specialized [CFA certification](/posts/career-roadmaps-2026).
+*   **Course:** B.A. Economics (Hons), B.Com (Hons), or B.Sc (Maths/Stats) followed by a specialized [CFA certification](/blog/career-roadmaps-2026).
 *   **Starting Salary:** ₹10 LPA to ₹25 LPA.
 
 #### **Bachelor of Statistics (B.Stat)**
@@ -66,7 +66,7 @@ Mathematics is the foundation of structural design and stability.
 1.  **Look Beyond Traditional Degrees:** High-level math certifications can sometimes be as valuable as a degree.
 2.  **Combine Math with Coding:** Python and R are essential tools for a mathematician in 2026.
 3.  **Aim for Top Institutes:** ISI, IISc, IITs, and BITS have the best placement records for math-heavy roles.
-    *   **Internal Link:** Learn about the [BITS Pilani Experience](/posts/all-about-bits-pilani-campuses).
+    *   **Internal Link:** Learn about the [BITS Pilani Experience](/blog/all-about-bits-pilani-campuses).
 
 ### Final Thoughts
 Mathematics is a versatile subject that opens more doors than any other stream. It's not just about solving equations; it's about developing the logical mind that the world of 2026 values above all else.

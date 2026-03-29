@@ -63,10 +63,10 @@ It is vital to distinguish between University Fees and Management Quota Capitati
 
 Private Universities like Amity or Bennett usually do not charge hidden capitation fees; their standard tuition fees are generally higher (₹3.5L to ₹4L annually), but admission is granted directly on board merit.
 
-*Be wary of frauds! Read our guide on:* [Management Quota Legality & Fraud Protection](/posts/management-quota-legality-fraud-protection)
+*Be wary of frauds! Read our guide on:* [Management Quota Legality & Fraud Protection](/blog/management-quota-legality-fraud-protection)
 
 ### Relevant Guides for Parents and Students
-*   [Education Loan Guide for B.Tech Students](/posts/education-loan-guide-mba-btech)
-*   [FAQ on B.Tech Admissions 2026](/posts/btech-admissions-faq-2026)
+*   [Education Loan Guide for B.Tech Students](/blog/education-loan-guide-mba-btech)
+*   [FAQ on B.Tech Admissions 2026](/blog/btech-admissions-faq-2026)
 
 [👉 Want to secure a seat in the most trending tech field? Fill out our inquiry form for direct AI/ML admission support.](/inquiry)

@@ -54,9 +54,9 @@ VIT Vellore is a placement powerhouse. The centralized placement process ensures
 *   **High Intake**: Thousands of students are admitted every year, leading to stiff internal competition for the best placement packages.
 
 Looking for more on VIT? Check out our other guides:
-*   [All About VIT Campuses: Chennai vs. Vellore vs. AP](/posts/all-about-vit-university-campuses)
-*   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/posts/jee-main-2026-session-2-exam-dates-admit-card)
-*   [Top B.Tech Colleges in Pune 2026](/posts/top-btech-colleges-pune)
+*   [All About VIT Campuses: Chennai vs. Vellore vs. AP](/blog/all-about-vit-university-campuses)
+*   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card)
+*   [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
 
 **Confused About the VIT Category System?**
 Choosing between Category 1 in a newer VIT campus vs Category 4 in VIT Vellore for CSE is a common dilemma. At **CareerWithMohit**, we help you calculate the ROI of your education and guide you through the choice-filling process.

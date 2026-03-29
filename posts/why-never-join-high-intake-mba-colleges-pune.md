@@ -54,13 +54,13 @@ If you are considering these colleges, you must be in the **Top 10% of your batc
 ### **Pool Placements: The Double-Edged Sword**
 Many of these high-intake colleges use **"Centralized Placements"** or **"Pool Placements."** This means students from 4 to 5 different campuses descend upon one location for interviews. 
 
-As I explained in our [Pool Placement Warning Guide](/posts/why-never-join-pool-placement-colleges-mba-pgdm), this often benefits the college (lower cost) but hurts the student (higher competition).
+As I explained in our [Pool Placement Warning Guide](/blog/why-never-join-pool-placement-colleges-mba-pgdm), this often benefits the college (lower cost) but hurts the student (higher competition).
 
 ---
 
 ### **What Should You Do?**
 
-If you don't have a 95+ percentile to get into [Top MBA Colleges in Pune](/posts/top-mba-colleges-pune) like SIBM or PUMBA (which have disciplined intakes), look for:
+If you don't have a 95+ percentile to get into [Top MBA Colleges in Pune](/blog/top-mba-colleges-pune) like SIBM or PUMBA (which have disciplined intakes), look for:
 
 1.  **Niche B-Schools:** Colleges that maintain a strict intake of 120–180 students.
 2.  **Specialization-Specific ROI:** Look for colleges where the intake for *your* specialization (like Finance or Business Analytics) is small.
@@ -88,6 +88,6 @@ Check the **AICTE Extension of Approval (EoA)** letter on the college website. T
 [👉 Not sure if a high intake college is right for you? Get a Profile Review!](/inquiry)
 
 **Related Posts:**
-*   [Best MBA Colleges in Pune 2026](/posts/best-mba-colleges-in-pune-2026)
-*   [The Pool Placement Trap: Why You Should Never Join](/posts/why-never-join-pool-placement-colleges-mba-pgdm)
-*   [Direct Admission in Pune MBA Colleges 2026](/posts/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission)
+*   [Best MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2026)
+*   [The Pool Placement Trap: Why You Should Never Join](/blog/why-never-join-pool-placement-colleges-mba-pgdm)
+*   [Direct Admission in Pune MBA Colleges 2026](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission)

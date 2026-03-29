@@ -56,5 +56,5 @@ The **Jaipuria Online PGDM** is highly recommended for its academic rigor, prest
 
 ---
 **Related Posts:**
-*   [Best Online MBA Programs in India 2026](/posts/online-mba-india-2026)
-*   [Amity University Online MBA Review](/posts/amity-university-online-mba-review-2026)
+*   [Best Online MBA Programs in India 2026](/blog/online-mba-india-2026)
+*   [Amity University Online MBA Review](/blog/amity-university-online-mba-review-2026)

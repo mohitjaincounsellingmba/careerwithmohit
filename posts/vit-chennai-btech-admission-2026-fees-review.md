@@ -42,9 +42,9 @@ This is the most common question among aspirants. Here is the comparison:
 
 ### **Explore Other VIT Campuses**
 Make sure to check the details for all VIT campuses before filling your counselling choices:
-*   **[VIT Vellore Admission 2026: Fees & Review](/posts/vit-vellore-btech-admission-2026-direct-fees-review)**
-*   **[VIT Bhopal B.Tech Admission 2026: Detailed Guide](/posts/vit-bhopal-btech-admission-2026-fees-review)**
-*   **[Comparison of All VIT Campuses](/posts/all-about-vit-university-campuses)**
+*   **[VIT Vellore Admission 2026: Fees & Review](/blog/vit-vellore-btech-admission-2026-direct-fees-review)**
+*   **[VIT Bhopal B.Tech Admission 2026: Detailed Guide](/blog/vit-bhopal-btech-admission-2026-fees-review)**
+*   **[Comparison of All VIT Campuses](/blog/all-about-vit-university-campuses)**
 
 **Confused About Your VITEEE Preparation?**
 Securing a rank under 10,000 is essential for getting a Category 1 or 2 seat in Chennai. Our experts at **CareerWithMohit** provide personalized mock test analysis and preparation strategies to help you reach your target.

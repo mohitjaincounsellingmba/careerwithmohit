@@ -45,9 +45,9 @@ In case the website crashes due to high traffic, students can use these alternat
 Once the results are out, the race for college admissions truly begins. Whether you are aiming for top engineering colleges or competitive management programs, preparation is key.
 
 Check out our curated guides to help you make the right choice:
-*   [CUET PG 2026 Result Date & Admission Tips](/posts/cuet-pg-2026-result-expected-date)
-*   [Career Roadmaps for Engineering & Management 2026](/posts/career-roadmaps-2026)
-*   [Top B.Tech Colleges in Pune: Reviews & Fees](/posts/top-btech-colleges-pune)
+*   [CUET PG 2026 Result Date & Admission Tips](/blog/cuet-pg-2026-result-expected-date)
+*   [Career Roadmaps for Engineering & Management 2026](/blog/career-roadmaps-2026)
+*   [Top B.Tech Colleges in Pune: Reviews & Fees](/blog/top-btech-colleges-pune)
 
 ### **What If You're Unhappy with the Results?**
 If your marks don't meet your expectations, don't panic. CBSE offers:

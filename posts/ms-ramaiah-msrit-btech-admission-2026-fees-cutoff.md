@@ -38,9 +38,9 @@ MSRIT is one of the most industry-oriented institutes in the country, with over 
 
 ### **Explore Other M.S. Ramaiah Options**
 Make sure to check the difference between the Institute and the University:
-*   **[MS Ramaiah University (MSRUAS): Admission Guide](/posts/ms-ramaiah-university-msruas-btech-admission-2026-fees-review)**
-*   **[RV College of Engineering (RVCE): Detailed Review](/posts/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/posts/josaa-counselling-2026-dates-process-registration)**
+*   **[MS Ramaiah University (MSRUAS): Admission Guide](/blog/ms-ramaiah-university-msruas-btech-admission-2026-fees-review)**
+*   **[RV College of Engineering (RVCE): Detailed Review](/blog/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
 
 **Confused Between MSRIT and RVCE?**
 MSRIT is often preferred by students who want a more diverse academic environment and a slightly larger campus located in the heart of North Bangalore. At **CareerWithMohit**, we help you choose between MSRIT, RVCE, and BMSCE based on your specific branch preference and future career goals.

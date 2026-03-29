@@ -34,9 +34,9 @@ Why should you learn **French**? Because top global companies are actively looki
 ---
 
 ### **Related Career & Skill Guides:**
-*   [How to Start Freelancing in 2026: Step-by-Step](/posts/how-to-start-freelancing-2026-beginners-india)
-*   [Top 100 MNC Career Links in India](/posts/top-100-mnc-career-links-india)
-*   [Career Roadmaps for Success in 2026](/posts/career-roadmaps-2026)
+*   [How to Start Freelancing in 2026: Step-by-Step](/blog/how-to-start-freelancing-2026-beginners-india)
+*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
+*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2026)
 *   [Hiring Jobs Board (Verified Roles)](/jobs)
 
 **Need Personalized Career Guidance?**

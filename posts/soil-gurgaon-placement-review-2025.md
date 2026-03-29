@@ -28,8 +28,8 @@ SOIL (School of Inspired Leadership) Gurgaon is renowned for its values-driven e
 *   **One-Year PGPM**: Highly efficient for working professionals seeking a career pivot, with an average ROI that often exceeds traditional two-year programs.
 
 ### **Explore Other College Reviews:**
-*   [MICA Ahmedabad 2026 Placement Review](/posts/mica-ahmedabad-review-2026)
-*   [NDIM Delhi Placement Review 2025](/posts/ndim-placement-review-2025)
-*   [Top MBA Entrance Exams 2026 Guide](/posts/top-mba-entrance-exams-2026-guide)
+*   [MICA Ahmedabad 2026 Placement Review](/blog/mica-ahmedabad-review-2026)
+*   [NDIM Delhi Placement Review 2025](/blog/ndim-placement-review-2025)
+*   [Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)
 
 [👉 Get More Information regarding SOIL Gurgaon admissions!](/inquiry)

@@ -41,10 +41,10 @@ Follow these simple steps to download your provisional marksheet:
 The declaration of the 10th result marks the beginning of a crucial phase in a student's career. Whether you choose Science, Commerce, or Arts, making an informed decision is vital.
 
 If you are planning your future academic journey, check out our expert resources:
-*   [List of All State Education Boards in India: Official Links](/posts/all-state-boards-india-official-websites)
-*   [Bihar Board 12th Result 2026: Expected Dates & Links](/posts/bihar-board-12th-result-2026-expected-date)
-*   [Career Roadmaps 2026: Success Blueprint for Students](/posts/career-roadmaps-2026)
-*   [Top MBA Colleges in Jaipur: Planning Ahead for Post-Graduation](/posts/best-mba-colleges-in-jaipur-2026)
+*   [List of All State Education Boards in India: Official Links](/blog/all-state-boards-india-official-websites)
+*   [Bihar Board 12th Result 2026: Expected Dates & Links](/blog/bihar-board-12th-result-2026-expected-date)
+*   [Career Roadmaps 2026: Success Blueprint for Students](/blog/career-roadmaps-2026)
+*   [Top MBA Colleges in Jaipur: Planning Ahead for Post-Graduation](/blog/best-mba-colleges-in-jaipur-2026)
 
 ### **Details Mentioned on RBSE 10th Marksheet**
 Ensure you verify the following details on your provisional scorecard:

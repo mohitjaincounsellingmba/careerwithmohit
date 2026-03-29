@@ -52,9 +52,9 @@ No, placements for the MBA program are centralized across the three Bangalore ca
 Exactly the same as other campuses; formal attire and professional grooming are strictly monitored.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/posts/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Yeshwanthpur MBA: Guide](/posts/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/posts/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
+*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
 
 **Confused About the Location?**
 While Kengeri is further from the city hub, it is well-connected by the Bangalore Metro. At **CareerWithMohit**, we help you decide if the peaceful environment of Kengeri is better suited for your academic focus than the busy Central Campus.

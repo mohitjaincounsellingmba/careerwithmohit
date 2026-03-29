@@ -50,7 +50,7 @@ The baseline cost of real estate and infrastructure operations is lower in Rajas
 Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates international professional bodies like ACCA, giving you direct global mobility.
 
 **Explore More Insights:**
-*   [👉 Deep Dive: Poornima University GCEC MBA Review 2026](/posts/poornima-university-gcec-mba-review-2026)
-*   [👉 Read: Why Never Join Galgotias University for MBA](/posts/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Deep Dive: Poornima University GCEC MBA Review 2026](/blog/poornima-university-gcec-mba-review-2026)
+*   [👉 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 
 *At **CareerWithMohit**, we believe that geographic strategy is key to ROI. Need help picking a Jaipur B-School? [Book a Strategy Session!](/inquiry)*

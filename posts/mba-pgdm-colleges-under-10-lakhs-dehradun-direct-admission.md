@@ -52,7 +52,7 @@ No. Nearly 80% of placements happen for roles stationed in Delhi NCR, Gurgaon, a
 Agri-Business Management (popular at DBS) is uniquely strong here. Aside from that, standard Marketing & Finance specializations see the heaviest recruitment.
 
 **Explore More Insights:**
-*   [👉 Read: Why Never Join Galgotias University for MBA](/posts/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 *   [👉 Need specific counseling? Book a Strategy Session!](/inquiry)
 
 *At **CareerWithMohit**, we recommend Dehradun for students who want focused academic rigor matched with a premier campus life experience.*

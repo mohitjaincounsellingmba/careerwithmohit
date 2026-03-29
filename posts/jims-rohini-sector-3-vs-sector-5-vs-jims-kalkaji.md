@@ -56,8 +56,8 @@ This is where most students get confused. Sector 3 is primarily **Jagannath Comm
 ### **Which Campus Should You Choose?**
 
 #### **For PGDM/MBA Aspirants:**
-*   **Targeting North Delhi?** Go for **Sector 5**. It has the strongest brand name for PGDM and a very high corporate trust. (Read our [JIMS Rohini vs FIIB](/posts/jims-rohini-vs-fiib) comparison for more).
-*   **Targeting International Business or South Delhi exposure?** **JIMS Kalkaji** wins. The location advantage for placements in Gurgaon-based firms is a massive plus. Check [JIMS Rohini vs JIMS Kalkaji](/posts/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2026) for a deeper dive.
+*   **Targeting North Delhi?** Go for **Sector 5**. It has the strongest brand name for PGDM and a very high corporate trust. (Read our [JIMS Rohini vs FIIB](/blog/jims-rohini-vs-fiib) comparison for more).
+*   **Targeting International Business or South Delhi exposure?** **JIMS Kalkaji** wins. The location advantage for placements in Gurgaon-based firms is a massive plus. Check [JIMS Rohini vs JIMS Kalkaji](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2026) for a deeper dive.
 
 #### **For Undergraduate (BBA/BCA) Aspirants:**
 *   **Sector 5 (Sec 5)** is affiliated with **GGSIPU (IP University)**. Choose this if you want an IPU degree and a more academic environment. 
@@ -74,7 +74,7 @@ Don't be fooled by the shared logo.
 **Still confused about the admission process?** 
 Navigating the cutoffs for MAT/CAT or IPU-CET can be tricky. At **CareerWithMohit**, we help you choose the campus that actually aligns with your career goals, not just the brand name.
 
-[👉 Get Free Admission Guidance!](/inquiry) | [👉 Explore Top MBA Colleges in Delhi 2026](/posts/best-mba-colleges-in-delhi-2026)
+[👉 Get Free Admission Guidance!](/inquiry) | [👉 Explore Top MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
 
 ---
 *Note: Placement data is based on 2025-26 projections and may vary based on specialization.*

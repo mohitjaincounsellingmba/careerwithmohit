@@ -43,10 +43,10 @@ Students can follow these simple steps to access their results:
 The declaration of the Matric result is the first major milestone in your academic journey. Now is the time to decide which stream—Science (PCM/PCB), Commerce, or Arts—best suits your career goals. 
 
 For students in Bihar, planning ahead for higher education and professional degrees is crucial. Check out our resources for the next steps:
-*   [Bihar Board 12th Result 2026: What to Expect Next](/posts/bihar-board-12th-result-2026-expected-date)
-*   [Career Roadmaps 2026: Planning Your Future After Board Exams](/posts/career-roadmaps-2026)
-*   [List of All State Education Boards in India: Official Links](/posts/all-state-boards-india-official-websites)
-*   [Bihar Student Credit Card (BSCC) Scheme: A Complete Guide](/posts/bihar-student-credit-card-mba-colleges)
+*   [Bihar Board 12th Result 2026: What to Expect Next](/blog/bihar-board-12th-result-2026-expected-date)
+*   [Career Roadmaps 2026: Planning Your Future After Board Exams](/blog/career-roadmaps-2026)
+*   [List of All State Education Boards in India: Official Links](/blog/all-state-boards-india-official-websites)
+*   [Bihar Student Credit Card (BSCC) Scheme: A Complete Guide](/blog/bihar-student-credit-card-mba-colleges)
 
 ### **Details to Verify on BSEB 10th Marksheet**
 Ensure that the following details on your provisional result are correct. If you find any discrepancies, contact your school or the BSEB helpdesk immediately:

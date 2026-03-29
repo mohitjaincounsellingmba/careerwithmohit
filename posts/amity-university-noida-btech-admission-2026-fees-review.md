@@ -40,9 +40,9 @@ Amity University Noida is proud of its high placement percentages across circuit
 **Cons**: Higher fee structure than traditional institutes, rigorous attendance requirements.
 
 Explore other top engineering options in the NCR:
-*   [Bennett University Greater Noida: Review](/posts/bennett-university-btech-admission-2026-fees-review)
-*   [GD Goenka Gurugram: Guide](/posts/gd-goenka-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/posts/bml-munjal-university-btech-admission-2026-fees-review)
+*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
+*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
 
 **Confused About the Sponsored vs. Non-Sponsored Quota?**
 Amity offers choice-based seat allocation under two categories. At **CareerWithMohit**, we help you decide if the higher investment for a "sponsored" seat is justified for your career goals.

@@ -51,9 +51,9 @@ The Bangalore campuses have a larger corporate volume, but the Delhi NCR campus 
 Exactly the same as the Bangalore campuses; formal attire and professional grooming are strictly monitored to ensure a consistent Christ brand image.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/posts/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Kengeri Campus MBA: Review](/posts/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Yeshwanthpur MBA: Guide](/posts/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
+*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
 
 **Confused Between Delhi NCR and Bangalore?**
 Bangalore is the "Silicon Valley," but Delhi NCR is the administrative and corporate capital hub. At **CareerWithMohit**, we help you decide if the location advantage and branch-priority of the Delhi NCR campus is the right fit for your rank and career goal compared to the high-density Bangalore pool.

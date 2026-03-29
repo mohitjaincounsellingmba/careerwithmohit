@@ -42,10 +42,10 @@ JIIT Noida consistently delivers top-tier placement results for CSE and IT branc
 **Cons**: Small campus compared to government universities, strict attendance (75% mandatory), and relatively high fees for a private college.
 
 Looking for other top options in Noida/Delhi?
-*   [JSS Noida: Admission Guide](/posts/jss-noida-btech-admission-2026-fees-cutoff)
-*   [GL Bajaj Greater Noida: Review](/posts/gl-bajaj-btech-admission-2026-fees-cutoff)
-*   [MAIT Delhi: Cutoffs & Fees](/posts/mait-delhi-btech-admission-2026-fees-cutoff)
-*   [JoSAA Counselling 2026: Step-by-Step Guide](/posts/josaa-counselling-2026-dates-process-registration)
+*   [JSS Noida: Admission Guide](/blog/jss-noida-btech-admission-2026-fees-cutoff)
+*   [GL Bajaj Greater Noida: Review](/blog/gl-bajaj-btech-admission-2026-fees-cutoff)
+*   [MAIT Delhi: Cutoffs & Fees](/blog/mait-delhi-btech-admission-2026-fees-cutoff)
+*   [JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)
 
 **Confused Between JIIT and an NIT Core?**
 For many students, JIIT CSE is a better career move than a lower NIT core branch. At **CareerWithMohit**, we analyze your future role aspirations to help you decide between a specialized private brand and a government institution.

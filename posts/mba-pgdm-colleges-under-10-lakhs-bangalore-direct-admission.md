@@ -50,7 +50,7 @@ Absolutely. Many tier-2 B-Schools in Bangalore place their students in companies
 Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 Lakhs per year depending on the location and facilities.
 
 **Explore More Insights:**
-*   [👉 Read: Christ University Yeshwanthpur MBA Review](/posts/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
+*   [👉 Read: Christ University Yeshwanthpur MBA Review](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
 *   [👉 Overwhelmed with options? Book an Admission Audit Today!](/inquiry)
 
 *At **CareerWithMohit**, our goal is transparent, data-driven career counseling. Don't compromise on your college choice because of a bad exam day.*

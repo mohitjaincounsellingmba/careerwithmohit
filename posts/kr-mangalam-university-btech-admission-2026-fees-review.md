@@ -40,9 +40,9 @@ KR Mangalam University is proud of its corporate connectivity along the NCR busi
 **Cons**: Higher hostel fees than traditional institutes, rigorous attendance requirements.
 
 Explore other top NCR private universities:
-*   [Bennett University Greater Noida: Review](/posts/bennett-university-btech-admission-2026-fees-review)
-*   [GD Goenka Gurugram: Guide](/posts/gd-goenka-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/posts/bml-munjal-university-btech-admission-2026-fees-review)
+*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
+*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
 
 **Confused About the IBM Tie-Up?**
 KRMU's "CSE with IBM" track is one of its most popular programs. At **CareerWithMohit**, we help you decide if a specialized "industry-ready" track is better for your career than a core CSE degree at a traditional college.

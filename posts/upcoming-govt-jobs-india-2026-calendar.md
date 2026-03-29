@@ -57,14 +57,14 @@ For those aiming for IAS, IPS, and IFS roles, the timeline is strictly fixed:
 Competition is at an all-time high. To stay ahead:
 1.  **Mock Tests**: Start attempting full-length mocks at least 6 months before the exam.
 2.  **Current Affairs**: Focus on the last 12 months of news.
-3.  **Language Bonus**: Learning a regional language can help you in state-specific bank/railway roles. Check our [guide on learning new languages fast](/posts/how-to-learn-french-language-2026).
+3.  **Language Bonus**: Learning a regional language can help you in state-specific bank/railway roles. Check our [guide on learning new languages fast](/blog/how-to-learn-french-language-2026).
 4.  **Stay Updated**: Always check the official websites (ssc.gov.in, upsconline.nic.in, ibps.in) for the final PDF notifications.
 
 ### **Explore More Career Resources:**
-*   [How to Learn French & Other Languages for Global Careers](/posts/how-to-learn-french-language-2026)
-*   [Beginner's Guide to Freelancing in 2026](/posts/how-to-start-freelancing-2026-beginners-india)
-*   [Top 100 MNC Career Links in India](/posts/top-100-mnc-career-links-india)
-*   [Career Roadmaps for Success in 2026](/posts/career-roadmaps-2026)
+*   [How to Learn French & Other Languages for Global Careers](/blog/how-to-learn-french-language-2026)
+*   [Beginner's Guide to Freelancing in 2026](/blog/how-to-start-freelancing-2026-beginners-india)
+*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
+*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2026)
 
 **Need Personal Mentorship?**
 If you are confused between Banking, SSC, or private sector roles, our expert counselors can help you map out your strengths and choose the right path.

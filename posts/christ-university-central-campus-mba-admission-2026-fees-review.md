@@ -52,9 +52,9 @@ Yes, Christ University is known for its formal dress code and strict grooming st
 Christ offers a full-time MBA degree as a Deemed to be University, which is recognized globally for higher education.
 
 Explore other Christ Campuses:
-*   [Christ University Kengeri Campus MBA: Review](/posts/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Yeshwanthpur MBA: Guide](/posts/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/posts/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
+*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
 
 **Confused Between Central Campus and Kengeri?**
 While Central Campus is the urban heart, Kengeri offers a lush, sprawling environment with similar placement opportunities. At **CareerWithMohit**, we help you decide based on your specialization and learning style.

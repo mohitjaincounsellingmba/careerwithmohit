@@ -44,12 +44,12 @@ By tallying your response sheet with the provisional key, you can calculate your
 *   **Unattempted**: 0 Marks
 
 Once you have your raw score, you can predict your percentile using our specialized calculator:
-👉 [CUET PG 2026 Score Calculator: Marks vs Percentile](/posts/cuet-pg-2026-score-calculator-marks-vs-percentile)
+👉 [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)
 
 ### **Next Steps After Answer Key Release:**
-*   [CUET PG 2026 Result Expected Date: Official Timeline](/posts/cuet-pg-2026-result-expected-date)
-*   [Top 50 Universities Accepting CUET PG 2026 Scores](/posts/top-mba-colleges-cuet-pg)
-*   [How to Calculate CUET PG Raw Marks Step-by-Step](/posts/how-to-check-cuet-pg-2026-response-sheet-marks)
+*   [CUET PG 2026 Result Expected Date: Official Timeline](/blog/cuet-pg-2026-result-expected-date)
+*   [Top 50 Universities Accepting CUET PG 2026 Scores](/blog/top-mba-colleges-cuet-pg)
+*   [How to Calculate CUET PG Raw Marks Step-by-Step](/blog/how-to-check-cuet-pg-2026-response-sheet-marks)
 
 **Struggling to Predict Your College?**
 Counseling registration starts shortly after results. If you are unsure which university fits your raw score, our experts can provide a personalized college list based on 2025 cutoff data.

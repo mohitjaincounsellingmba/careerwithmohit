@@ -19,7 +19,7 @@ Under the guidelines set by state governments and university standard bodies, pr
 
 It allows students who scored well in their board exams (above 60% in PCM) but underperformed in entrance tests to still study in premier institutes.
 
-*Read more:* [Is Management Quota Legal? Fraud Protection Guide](/posts/management-quota-legality-fraud-protection)
+*Read more:* [Is Management Quota Legal? Fraud Protection Guide](/blog/management-quota-legality-fraud-protection)
 
 ---
 
@@ -75,8 +75,8 @@ Securing a management quota seat in B.Tech CSE requires timely action, as seats 
 3.  **Document Verification:** Prepare your 10th & 12th mark sheets, Aadhar card, migration certificate, and rank cards (if any).
 
 ### Useful Resources for Application
-*   [FAQ on B.Tech Admissions 2026](/posts/btech-admissions-faq-2026)
-*   [Education Loan Guide for B.Tech Students](/posts/education-loan-guide-mba-btech)
+*   [FAQ on B.Tech Admissions 2026](/blog/btech-admissions-faq-2026)
+*   [Education Loan Guide for B.Tech Students](/blog/education-loan-guide-mba-btech)
 
 **Avoid Fraudulent Agents:** Never hand over cash to agents claiming guaranteed seats in IITs or NITs—these institutions *DO NOT* have management quotas. Private universities and state-affiliated private colleges are the only legal routes for this admission process.
 

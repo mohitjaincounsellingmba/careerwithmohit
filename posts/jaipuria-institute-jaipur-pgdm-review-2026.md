@@ -52,7 +52,7 @@ Placements at Jaipuria are conducted centrally across all its campuses, bringing
 
 Jaipuria Institute of Management looks for well-rounded profiles. Admissions are competitive.
 
-1.  **Entrance Exam**: Must have a valid score in [CAT](/posts/all-about-cat-exam), [MAT](/posts/all-about-mat-exam), [CMAT](/posts/all-about-cmat-exam), XAT, or ATMA.
+1.  **Entrance Exam**: Must have a valid score in [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), [CMAT](/blog/all-about-cmat-exam), XAT, or ATMA.
 2.  **Expected Cutoffs**:
     *   **CMAT**: ~85 Percentile
     *   **CAT/XAT**: ~70-75 Percentile (Marketing and Finance specializations demand higher percentiles)
@@ -62,6 +62,6 @@ Jaipuria Institute of Management looks for well-rounded profiles. Admissions are
 
 ### **The Final Verdict: Is Jaipuria Jaipur Worth It?**
 
-Yes, absolutely. Despite the relatively higher fee bracket (around ₹17-19 Lakhs with hostel), Jaipuria Jaipur provides an elite B-School environment. The centralized placement process ensures that you are exposed to the same top-tier recruiters visiting metro cities. If you want to study at one of the undisputed [best MBA colleges in Jaipur](/posts/best-mba-colleges-in-jaipur-2026), Jaipuria is a brilliant, high-ROI investment.
+Yes, absolutely. Despite the relatively higher fee bracket (around ₹17-19 Lakhs with hostel), Jaipuria Jaipur provides an elite B-School environment. The centralized placement process ensures that you are exposed to the same top-tier recruiters visiting metro cities. If you want to study at one of the undisputed [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), Jaipuria is a brilliant, high-ROI investment.
 
 [👉 Get Free Personal Counselling for Jaipuria Institute of Management Admissions!](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)

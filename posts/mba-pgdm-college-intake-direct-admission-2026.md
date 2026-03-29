@@ -75,8 +75,8 @@ Right now! Most direct admission registrations for the July 2026 batch close by 
 ---
 
 **Related Posts:**
-*   [Direct Admission in CUET MBA Colleges Delhi NCR 2026](/posts/direct-admission-cuet-mba-colleges-delhi-ncr-2026)
-*   [Top MBA Colleges Accepting CUET PG 2026](/posts/top-mba-colleges-cuet-pg)
-*   [Why Never Join High-Intake MBA Colleges in Pune](/posts/why-never-join-high-intake-mba-colleges-pune)
+*   [Direct Admission in CUET MBA Colleges Delhi NCR 2026](/blog/direct-admission-cuet-mba-colleges-delhi-ncr-2026)
+*   [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg)
+*   [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
 
 [👉 Need help choosing the right college? Schedule a free counseling session today!](/inquiry)
