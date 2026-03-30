@@ -7,6 +7,12 @@ keywords: ["IIT Delhi online executive programs", "IIT Delhi online fees 2026", 
 
 IIT Delhi is globally recognized as one of India's most prestigious engineering and management institutions, currently ranked **#3 in the NIRF Overall Category**. While it is famous for its highly competitive B.Tech programs, IIT Delhi has also emerged as a leader in **Executive Education**, offering specialized online programs designed specifically for working professionals.
 
+<div style="margin: 40px 0; text-align: center;">
+  <a href="https://cvadm.com/MxpHhd" style="display: inline-block; background-color: #000; color: #fff; padding: 20px 40px; font-size: 24px; font-weight: 900; text-transform: uppercase; text-decoration: none; border: 6px solid #000; box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);">
+    Learn More & Apply Now →
+  </a>
+</div>
+
 If you are looking to upskill without leaving your job, here is a comprehensive guide to IIT Delhi's online executive programs for the 2026 academic cycle.
 
 ## **Why Choose IIT Delhi for Executive Education?**
