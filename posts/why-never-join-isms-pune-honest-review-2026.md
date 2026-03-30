@@ -1,5 +1,5 @@
 ---
-title: "Why Never Join ISMS Pune for MBA? Honest Student Review & Negative Feedback 2026"
+title: "ISMS PUNE REVIEW"
 date: "2026-03-29"
 description: "Looking for ISMS Pune MBA honest review? Read why some students warn against joining ISMS Pune, including placement quality, specialized pressure, and hidden campus reality."
 keywords: ["ISMS Pune negative review", "ISMS Pune placement reality 2026", "why never join ISMS Pune MBA", "ISMS Pune student complaints", "ISMS Pune vs other MBA colleges Pune", "ISMS Pune honest feedback", "ISMS Pune specialization change pressure"]
