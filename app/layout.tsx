@@ -7,6 +7,7 @@ import { InquiryPopup } from "@/components/InquiryPopup";
 import { LeadMagnetBar } from "@/components/LeadMagnetBar";
 import { JsonLd } from "@/components/JsonLd";
 import { GoogleAnalytics } from '@next/third-parties/google';
+import Script from "next/script";
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -141,6 +142,20 @@ export default function RootLayout({
         {process.env.NEXT_PUBLIC_GA_ID && (
           <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
         )}
+        {/* Google Ads Tag (gtag.js) */}
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=AW-18052249575"
+          strategy="afterInteractive"
+        />
+        <Script id="google-ads-gtag" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'AW-18052249575');
+          `}
+        </Script>
       </body>
     </html>
   );
