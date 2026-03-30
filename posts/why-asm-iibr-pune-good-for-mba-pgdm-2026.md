@@ -9,8 +9,8 @@ Choosing the right B-school in Pune's crowded educational landscape can be diffi
 
 If you are wondering why ASM IIBR Pune is a good option for your MBA or PGDM, here are the top 5 reasons:
 
-### **1. Legacy & Academic Trust (30+ Years)**
-The ASM Group is not a "new" player. With over three decades of history in management education, it has built a massive network of alumni working in top MNCs globally. This legacy translates into a stable academic environment and deep-rooted industry connections that newer colleges often lack.
+### **1. Legacy & Academic Trust (42+ Years)**
+The ASM Group is not a "new" player. With over 42 years of history in management education and a massive alumni base of **75,000+** working in top MNCs globally, it has built a trust that newer colleges often lack. This legacy translates into a stable academic environment and deep-rooted industry connections.
 
 ### **2. Industry-Driven Certifications (IBM, SAP, Harvard)**
 One of the unique selling points (USPs) of **ASM IIBR** is its integration of high-value industry certifications directly into the curriculum. Students often get access to:
@@ -25,7 +25,7 @@ ASM IIBR is located in the **Pimpri-Chinchwad (PCMC)** industrial belt. This are
 For students concerned about education loans, ASM IIBR offers an excellent **Return on Investment (ROI)**.
 *   **Avg Placement**: Range of ₹5.5 LPA to ₹7.5 LPA.
 *   **Highest Package**: Up to ₹18 LPA in recent batches.
-*   **Fees**: Generally between ₹5.50 Lakhs to ₹8.50 Lakhs for PGDM, which is significantly lower than some high-intake "brand" colleges in Pune.
+*   **Fees**: Generally between **₹5.50 Lakhs to ₹6.90 Lakhs** for PGDM/MBA, which is significantly lower than some high-intake "brand" colleges in Pune.
 
 ### **5. Centralized Placement Cell**
 Unlike standalone colleges, ASM IIBR students benefit from a **centralized placement cell** of the ASM Group. This means students get access to the corporate drive across the group, giving them a larger pool of companies to choose from, ranging from banking (ICICI, HDFC) to IT (TCS, Wipro) and FMCG (HUL, ITC).
