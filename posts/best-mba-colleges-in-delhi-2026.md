@@ -145,6 +145,12 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 - **Average Placement:** ₹9.00 LPA
 - **USP:** Modern campus with high-end fintech and analytics labs.
 
+### 21. MERI Janakpuri (GGSIPU Affiliated)
+- **Fees:** ₹3.27 Lakhs
+- **Average Placement:** ₹7.50 LPA
+- **Entrance Exam:** IPU CET, CAT, CMAT
+- **USP:** [MERI Janakpuri MBA Review 2026](/blog/meri-janakpuri-mba-review-2026) - Best ROI college in West Delhi with NAAC A+ grade.
+
 ---
 
 ## Conclusion: How to Choose the Right Delhi College?
