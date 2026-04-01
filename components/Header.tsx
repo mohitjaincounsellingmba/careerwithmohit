@@ -35,6 +35,12 @@ export function Header() {
         </nav>
         <div className="flex items-center gap-4">
           <SearchInput />
+          <Link 
+            href="/inquiry" 
+            className="hidden lg:inline-flex h-12 items-center justify-center rounded-md border-2 border-foreground bg-white text-foreground px-6 py-2 text-base font-bold transition-all hover:bg-gray-100 hover:scale-105"
+          >
+            Inquiry
+          </Link>
           <a 
             href="tel:9560020771" 
             className="hidden lg:inline-flex h-12 items-center justify-center rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
@@ -75,6 +81,13 @@ export function Header() {
             </Link>
 
 
+            <Link 
+              href="/inquiry" 
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="mt-4 flex h-14 w-full items-center justify-center rounded-md border-2 border-foreground bg-white px-4 py-2 text-lg font-bold text-foreground transition-all hover:bg-gray-100"
+            >
+              Inquiry
+            </Link>
             <a 
               href="tel:9560020771" 
               onClick={() => setIsMobileMenuOpen(false)}
