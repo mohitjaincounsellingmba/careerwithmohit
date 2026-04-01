@@ -10,8 +10,9 @@ export async function generateStaticParams() {
   }));
 }
 
-export function generateMetadata({ params }: { params: { examSlug: string } }): Metadata {
-  const config = EXAM_CONFIGS.find(c => c.slug === params.examSlug);
+export async function generateMetadata({ params }: { params: Promise<{ examSlug: string }> }): Promise<Metadata> {
+  const resolvedParams = await params;
+  const config = EXAM_CONFIGS.find(c => c.slug === resolvedParams.examSlug);
   if (!config) return {};
   
   return {
@@ -25,8 +26,9 @@ export function generateMetadata({ params }: { params: { examSlug: string } }): 
   };
 }
 
-export default function ExamMockTestPage({ params }: { params: { examSlug: string } }) {
-  const config = EXAM_CONFIGS.find(c => c.slug === params.examSlug);
+export default async function ExamMockTestPage({ params }: { params: Promise<{ examSlug: string }> }) {
+  const resolvedParams = await params;
+  const config = EXAM_CONFIGS.find(c => c.slug === resolvedParams.examSlug);
   
   if (!config) {
     notFound();
