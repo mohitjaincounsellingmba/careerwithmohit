@@ -117,6 +117,19 @@ export function Footer() {
             </ul>
           </div>
           <div>
+            <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Mock Tests</h3>
+            <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/tools/mock-test/jee-main" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Main Mock</Link></li>
+              <li><Link href="/tools/mock-test/jee-advanced" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Advanced Mock</Link></li>
+              <li><Link href="/tools/mock-test/neet" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">NEET Mock Test</Link></li>
+              <li><Link href="/tools/mock-test/bitsat" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">BITSAT Mock Test</Link></li>
+              <li><Link href="/tools/mock-test/clat" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">CLAT Mock Test</Link></li>
+              <li><Link href="/tools/mock-test/viteee" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">VITEEE Mock</Link></li>
+              <li><Link href="/tools/mock-test/srmjee" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">SRMJEE Mock</Link></li>
+              <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock</Link></li>
+            </ul>
+          </div>
+          <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Career Section</h3>
             <ul className="space-y-4 text-base font-medium">
               <li><Link href="/internships" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Internships</Link></li>
@@ -124,7 +137,6 @@ export function Footer() {
               <li><Link href="/certifications" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Certifications</Link></li>
               <li><Link href="/calculator/career-roadmap" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">Roadmap Generator</Link></li>
               <li><Link href="/tools/ai-skills" className="hover:text-primary hover:translate-x-1 inline-block transition-transform font-bold text-green-500">AI Skills Training</Link></li>
-              <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">MHCET Mock Test</Link></li>
             </ul>
           </div>
         </div>
