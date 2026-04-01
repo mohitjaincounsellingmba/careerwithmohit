@@ -37,16 +37,10 @@ export function Header() {
           <SearchInput />
           <Link 
             href="/inquiry" 
-            className="hidden lg:inline-flex h-12 items-center justify-center rounded-md border-2 border-foreground bg-white text-foreground px-6 py-2 text-base font-bold transition-all hover:bg-gray-100 hover:scale-105"
+            className="hidden lg:inline-flex h-12 items-center justify-center rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
           >
             Inquiry
           </Link>
-          <a 
-            href="tel:9560020771" 
-            className="hidden lg:inline-flex h-12 items-center justify-center rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
-          >
-            Call Now
-          </a>
           <button 
             className="md:hidden flex items-center justify-center p-2 text-foreground hover:text-primary transition-colors bg-gray-100 rounded-md"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
@@ -84,17 +78,10 @@ export function Header() {
             <Link 
               href="/inquiry" 
               onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-4 flex h-14 w-full items-center justify-center rounded-md border-2 border-foreground bg-white px-4 py-2 text-lg font-bold text-foreground transition-all hover:bg-gray-100"
+              className="mt-4 flex h-14 w-full items-center justify-center rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
             >
               Inquiry
             </Link>
-            <a 
-              href="tel:9560020771" 
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-4 flex h-14 w-full items-center justify-center rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
-            >
-              Call Now
-            </a>
           </nav>
         </div>
       )}
