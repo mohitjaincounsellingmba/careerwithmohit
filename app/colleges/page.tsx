@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllColleges } from "@/lib/colleges";
+import { getSortedPostsData } from "@/lib/markdown";
 import { CollegesClient } from "@/components/CollegesClient";
 import { JsonLd } from "@/components/JsonLd";
 import { ChevronDown } from "lucide-react";
@@ -110,12 +111,14 @@ export default function CollegesPage() {
     ]
   };
 
+  const trendingBlogs = getSortedPostsData().slice(0, 4);
+
   return (
     <>
       <JsonLd data={breadcrumbSchema} />
       <JsonLd data={collectionSchema} />
       <JsonLd data={faqSchema} />
-      <CollegesClient colleges={colleges} />
+      <CollegesClient colleges={colleges} trendingBlogs={trendingBlogs} />
 
       {/* SEO Content Section — Ultra Premium & Semantic */}
       <section className="bg-white px-6 py-32 sm:px-12 border-t-8 border-foreground overflow-hidden relative">

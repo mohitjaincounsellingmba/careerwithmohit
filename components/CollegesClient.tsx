@@ -1,11 +1,19 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import Link from "next/link";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CollegeCard } from "@/components/CollegeCard";
-import { Search, SlidersHorizontal, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles } from "lucide-react";
+import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, ArrowRight } from "lucide-react";
 
-export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
+interface TrendingBlog {
+  slug: string;
+  title: string;
+  date: string;
+  description?: string;
+}
+
+export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: CollegeMetadata[]; trendingBlogs?: TrendingBlog[] }) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("All Streams");
   const [selectedCourse, setSelectedCourse] = useState("All Courses");
@@ -540,6 +548,42 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
             </div>
           )}
         </div>
+
+        {/* Trending Blogs — shown only when no search/filter active */}
+        {searchQuery.trim() === "" && activeFiltersCount === 0 && trendingBlogs.length > 0 && (
+          <div className="mb-12">
+            <div className="flex items-center gap-3 mb-6">
+              <div className="flex items-center gap-2 bg-rose-50 border border-rose-100 px-4 py-2 rounded-full">
+                <TrendingUp className="w-4 h-4 text-rose-500" />
+                <span className="text-xs font-black uppercase tracking-widest text-rose-600">Trending Articles</span>
+              </div>
+              <Link href="/blog" className="text-xs font-black uppercase tracking-widest text-slate-400 hover:text-blue-600 transition-colors flex items-center gap-1">
+                View All <ArrowRight className="w-3 h-3" />
+              </Link>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+              {trendingBlogs.map((post, i) => (
+                <Link
+                  key={post.slug}
+                  href={`/blog/${post.slug}`}
+                  className="group flex flex-col justify-between bg-white border border-slate-100 rounded-2xl p-5 hover:border-blue-200 hover:shadow-lg hover:shadow-blue-50 transition-all duration-200 hover:-translate-y-1"
+                >
+                  <div>
+                    <span className="inline-block bg-blue-50 text-blue-600 text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full mb-3">
+                      {new Date(post.date).toLocaleDateString('en-IN', { month: 'short', year: 'numeric' })}
+                    </span>
+                    <h3 className="text-sm font-black text-slate-900 leading-snug line-clamp-3 group-hover:text-blue-600 transition-colors">
+                      {post.title}
+                    </h3>
+                  </div>
+                  <div className="mt-4 flex items-center gap-1 text-[10px] font-black uppercase tracking-wider text-slate-400 group-hover:text-blue-500 transition-colors">
+                    Read Article <ArrowRight className="w-3 h-3 group-hover:translate-x-0.5 transition-transform" />
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Results Counter & Active Chips */}
         <div className="mb-12">
