@@ -166,6 +166,72 @@ export default function Home() {
       </section>
 
 
+      {/* NEW BBA COLLEGES SECTION */}
+      <section id="bba-colleges" className="bg-slate-50 px-6 py-24 sm:px-12 border-t-8 border-foreground overflow-hidden relative">
+        <div className="absolute top-0 right-0 w-96 h-96 bg-primary/5 rounded-full -mr-32 -mt-32 blur-2xl" />
+        <div className="mx-auto max-w-7xl relative z-10">
+          <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
+            <div className="max-w-2xl">
+              <span className="bg-accent text-foreground px-5 py-2 text-sm font-black uppercase tracking-widest inline-block border-4 border-foreground mb-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+                Direct Admission 2026
+              </span>
+              <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase leading-none">
+                Featured <span className="text-secondary italic">BBA</span> Colleges
+              </h2>
+              <p className="mt-4 text-xl font-bold text-gray-600">
+                Top-rated B-Schools in Delhi NCR for undergraduate management degrees.
+              </p>
+            </div>
+            <Link href="/colleges" className="mt-8 md:mt-0 inline-flex items-center text-lg font-black uppercase text-primary hover:text-foreground transition-colors group">
+              View All Colleges
+              <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" strokeWidth={3} />
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {[
+              { name: "IBMR Gurgaon", link: "/blog/ibmr-gurgaon-bba-review-2026", color: "bg-blue-50", badge: "High ROI" },
+              { name: "JKBS Gurgaon", link: "/blog/jkbs-gurgaon-bba-review-2026", color: "bg-emerald-50", badge: "Top Placements" },
+              { name: "GD Goenka", link: "/blog/gd-goenka-bba-review-2026", color: "bg-rose-50", badge: "Premium Campus" },
+              { name: "SRM Sonepat", link: "/blog/all-about-srm-university-campuses", color: "bg-purple-50", badge: "Global Tie-ups" },
+              { name: "IILM Gurgaon", link: "/blog/all-about-iilm-university", color: "bg-amber-50", badge: "Liberal Arts Focus" },
+              { name: "BML Munjal", link: "/blog/all-about-bml-munjal-university", color: "bg-cyan-50", badge: "Corporate Backed" },
+              { name: "St. Andrews (SAITM)", link: "/blog/all-about-saitm-gurgaon", color: "bg-indigo-50", badge: "Delhi NCR Focus" }
+            ].map((college, idx) => (
+              <Link 
+                key={idx} 
+                href={college.link}
+                className={`group relative flex flex-col justify-between h-48 rounded-xl border-4 border-foreground ${college.color} p-6 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]`}
+              >
+                <div>
+                  <span className="inline-block bg-white border-2 border-foreground px-3 py-1 text-xs font-black uppercase tracking-widest mb-4 group-hover:bg-primary group-hover:text-white transition-colors">
+                    {college.badge}
+                  </span>
+                  <h3 className="font-display text-2xl font-black text-foreground leading-tight group-hover:text-primary transition-colors">
+                    {college.name}
+                  </h3>
+                </div>
+                <div className="flex items-center text-sm font-bold text-gray-800 uppercase tracking-wider group-hover:text-secondary transition-colors">
+                  Check Review <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
+                </div>
+              </Link>
+            ))}
+            
+            {/* Call to action "Consult Now" card specifically bridging the gap */}
+            <Link 
+              href="/inquiry"
+              className="group relative flex flex-col justify-center items-center h-48 rounded-xl border-4 border-dashed border-primary bg-white p-6 transition-all duration-200 hover:bg-primary hover:border-solid hover:scale-[1.02] cursor-pointer"
+            >
+              <Target className="h-10 w-10 text-primary group-hover:text-white mb-3" strokeWidth={2.5} />
+              <h3 className="font-display text-xl text-center font-black text-foreground group-hover:text-white uppercase leading-tight">
+                Not Sure Which One?
+              </h3>
+              <p className="text-sm font-bold text-primary group-hover:text-blue-100 mt-2">Get Free BBA Counselling</p>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* ARTICLES SECTION */}
       <section id="articles" className="bg-muted px-6 py-24 sm:px-12 border-t-8 border-foreground">
         <div className="mx-auto max-w-7xl">
