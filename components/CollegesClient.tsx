@@ -5,6 +5,7 @@ import Link from "next/link";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CollegeCard } from "@/components/CollegeCard";
 import { BTechCollegeGenerator } from "@/components/BTechCollegeGenerator";
+import { MBACollegeGenerator } from "@/components/MBACollegeGenerator";
 import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, ArrowRight } from "lucide-react";
 
 interface TrendingBlog {
@@ -586,9 +587,14 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
           </div>
         )}
 
-        {/* B.Tech College Generator — shown when no active search/filter */}
+        {/* B.Tech College Generator */}
         {searchQuery.trim() === "" && activeFiltersCount === 0 && (
           <BTechCollegeGenerator />
+        )}
+
+        {/* MBA College Generator */}
+        {searchQuery.trim() === "" && activeFiltersCount === 0 && (
+          <MBACollegeGenerator />
         )}
 
         {/* Results Counter & Active Chips */}
