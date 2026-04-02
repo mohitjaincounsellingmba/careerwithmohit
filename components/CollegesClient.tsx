@@ -545,7 +545,11 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
         <div className="mb-12">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
             <p className="text-3xl font-black text-slate-900 tracking-tighter">
-              Discovering <span className="text-blue-600">{filteredColleges.length}</span> Premium Choices
+              {searchQuery.trim() === "" && activeFiltersCount === 0 ? (
+                "Find Your Dream College"
+              ) : (
+                <>Discovering <span className="text-blue-600">{filteredColleges.length}</span> Premium Choices</>
+              )}
             </p>
             
             {activeFiltersCount > 0 && (
@@ -573,26 +577,40 @@ export function CollegesClient({ colleges }: { colleges: CollegeMetadata[] }) {
 
         {/* College Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 pb-32">
-          {filteredColleges.map((college) => (
-            <CollegeCard key={college.slug} college={college} />
-          ))}
-          
-          {filteredColleges.length === 0 && (
+          {searchQuery.trim() === "" && activeFiltersCount === 0 ? (
             <div className="col-span-full py-32 text-center">
               <div className="max-w-md mx-auto">
-                <div className="w-24 h-24 bg-slate-100 rounded-full flex items-center justify-center mx-auto mb-8">
-                  <Search className="w-10 h-10 text-slate-300" />
+                <div className="w-24 h-24 bg-blue-50 border-4 border-blue-100 rounded-full flex items-center justify-center mx-auto mb-8 shadow-inner animate-pulse">
+                  <Search className="w-10 h-10 text-blue-500" />
                 </div>
-                <h3 className="text-2xl font-black text-slate-900 mb-4 tracking-tight uppercase">No matching colleges</h3>
-                <p className="text-slate-500 mb-10 font-medium">We couldn&apos;t find any colleges matching your current filters. Try broadening your parameters or start fresh.</p>
-                <button 
-                  onClick={resetFilters}
-                  className="px-10 py-4 bg-blue-600 text-white rounded-2xl font-black uppercase tracking-widest text-xs shadow-lg shadow-blue-200 hover:bg-blue-700 transition-all active:scale-95"
-                >
-                  Clear All Discover Filters
-                </button>
+                <h3 className="text-2xl font-black text-slate-900 mb-4 tracking-tight uppercase">Search Our Directory</h3>
+                <p className="text-slate-500 font-medium">Use the search bar above or apply filters to discover verified colleges tailored exactly to your profile and admission goals.</p>
               </div>
             </div>
+          ) : (
+            <>
+              {filteredColleges.map((college) => (
+                <CollegeCard key={college.slug} college={college} />
+              ))}
+              
+              {filteredColleges.length === 0 && (
+                <div className="col-span-full py-32 text-center">
+                  <div className="max-w-md mx-auto">
+                    <div className="w-24 h-24 bg-slate-100 rounded-full flex items-center justify-center mx-auto mb-8">
+                      <Search className="w-10 h-10 text-slate-300" />
+                    </div>
+                    <h3 className="text-2xl font-black text-slate-900 mb-4 tracking-tight uppercase">No matching colleges</h3>
+                    <p className="text-slate-500 mb-10 font-medium">We couldn&apos;t find any colleges matching your current filters. Try broadening your parameters or start fresh.</p>
+                    <button 
+                      onClick={resetFilters}
+                      className="px-10 py-4 bg-blue-600 text-white rounded-2xl font-black uppercase tracking-widest text-xs shadow-lg shadow-blue-200 hover:bg-blue-700 transition-all active:scale-95"
+                    >
+                      Clear All Discover Filters
+                    </button>
+                  </div>
+                </div>
+              )}
+            </>
           )}
         </div>
       </div>
