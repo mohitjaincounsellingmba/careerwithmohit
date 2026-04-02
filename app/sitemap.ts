@@ -20,11 +20,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/internships',
     '/inquiry',
     '/online-degree-certification',
+    '/tools/btech-college-predictor',
+    '/tools/cuet-pg-mba-predictor',
+    '/tools/college-comparison',
+    '/tools/mba-roi-calculator',
+    '/calculator/startup',
+    '/tools/accreditation-checker',
+    '/tools/ai-skills',
+    '/tools/mhcet-mock-test',
+    '/services',
+    '/sell-your-coaching-online',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: route === '' ? 1 : (route === '/colleges' || route === '/online-degree-certification' ? 0.9 : 0.8),
+    priority: route === '' ? 1 : (route.includes('/tools/') ? 0.8 : 0.7),
   }));
 
   // Dynamic blog routes
@@ -53,5 +63,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // colleges directory not found, skip
   }
 
-  return [...routes, ...blogRoutes, ...collegeRoutes];
+  // Dynamic generic mock tests
+  // Utilizing the mocked config array to scale dynamic routes correctly
+  const { EXAM_CONFIGS } = require('@/lib/mock-test-data');
+  const examRoutes = EXAM_CONFIGS.map((config: any) => ({
+    url: `${baseUrl}/tools/mock-test/${config.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  return [...routes, ...blogRoutes, ...collegeRoutes, ...examRoutes];
 }

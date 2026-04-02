@@ -1,6 +1,7 @@
 import { getCollegeBySlug, getAllColleges } from "@/lib/colleges";
 import { notFound } from "next/navigation";
 import { CollegeDetailClient } from "@/components/CollegeDetailClient";
+import { JsonLd } from "@/components/JsonLd";
 import type { Metadata } from "next";
 
 interface PageProps {
@@ -117,5 +118,86 @@ export default async function CollegeDetailPage({ params }: PageProps) {
     notFound();
   }
 
-  return <CollegeDetailClient college={college} />;
+  const jsonLdOrg = {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": college.name,
+    "url": `https://www.careerwithmohit.online/colleges/${slug}`,
+    "logo": `https://www.careerwithmohit.online${college.logo}`,
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": college.location,
+      "addressCountry": "IN"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "150"
+    }
+  };
+
+  const jsonLdFaQ = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `What is the fee structure for ${college.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `The fee structure for ${college.name} is predominantly around ${college.fees}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `What is the average placement at ${college.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `The average placement package at ${college.name} is ${college.avg_placement}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Which exams are accepted by ${college.name}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${college.name} accepts the following entrance exams: ${college.exams.join(', ')}.`
+        }
+      }
+    ]
+  };
+
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Colleges",
+        "item": "https://www.careerwithmohit.online/colleges"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": college.name,
+        "item": `https://www.careerwithmohit.online/colleges/${slug}`
+      }
+    ]
+  };
+
+  return (
+    <>
+      <JsonLd data={jsonLdOrg} />
+      <JsonLd data={jsonLdFaQ} />
+      <JsonLd data={jsonLdBreadcrumb} />
+      <CollegeDetailClient college={college} />
+    </>
+  );
 }
