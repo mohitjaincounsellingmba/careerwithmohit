@@ -1,44 +1,120 @@
-name: Instagram Auto-Post
+name: 📢 Social Media Auto-Post
 
+# ─────────────────────────────────────────────────────────────
+# Triggers:
+#   1. Automatic — when any .md file in /posts is added/changed
+#   2. Manual    — from GitHub Actions tab (with optional slug)
+# ─────────────────────────────────────────────────────────────
 on:
   push:
+    branches:
+      - main
     paths:
       - 'posts/*.md'
   workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Blog post slug to share (leave blank = latest)'
+        required: false
+        default: ''
+      platform:
+        description: 'Platform to post to (leave blank = all)'
+        required: false
+        default: ''
+        type: choice
+        options:
+          - ''
+          - instagram
+          - facebook
+          - linkedin
 
 jobs:
-  autopost:
+  social-post:
+    name: Generate Graphics & Post
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
-      - name: Checkout Code
+      # ── 1. Checkout ───────────────────────────────────────────
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 2
 
-      - name: Setup Node.js
+      # ── 2. Detect which posts were added ──────────────────────
+      - name: 🔍 Detect New Post
+        id: detect
+        run: |
+          if [ -n "${{ github.event.inputs.slug }}" ]; then
+            echo "slug=${{ github.event.inputs.slug }}" >> $GITHUB_OUTPUT
+            echo "✅ Using manual slug: ${{ github.event.inputs.slug }}"
+          else
+            CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'posts/*.md' | head -1)
+            if [ -z "$CHANGED" ]; then
+              echo "No new post detected. Using latest."
+              echo "slug=" >> $GITHUB_OUTPUT
+            else
+              SLUG=$(basename "$CHANGED" .md)
+              echo "slug=$SLUG" >> $GITHUB_OUTPUT
+              echo "✅ Detected new post: $SLUG"
+            fi
+          fi
+
+      # ── 3. Setup Node ─────────────────────────────────────────
+      - name: ⚙️ Setup Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
-      - name: Install Dependencies
+      # ── 4. Install dependencies ───────────────────────────────
+      - name: 📦 Install Dependencies
+        run: npm ci
+
+      # ── 5. Install Chrome for Puppeteer ──────────────────────
+      - name: 🌐 Install Chromium
         run: |
-          npm install puppeteer-core
-          # Ensure chrome is available for puppeteer
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq chromium-browser
+          echo "PUPPETEER_EXECUTABLE_PATH=$(which chromium-browser)" >> $GITHUB_ENV
 
-      - name: Start Dev Server
-        run: |
-          npm run dev &
-          # Wait for server to be ready
-          npx wait-on http://localhost:3000
-
-      - name: Generate Graphic and Post
+      # ── 6. Build Next.js ──────────────────────────────────────
+      - name: 🏗️ Build Next.js App
+        run: npm run build
         env:
-          BASE_URL: 'http://localhost:3000'
+          NODE_ENV: production
+
+      # ── 7. Start Production Server ────────────────────────────
+      - name: 🚀 Start Production Server
+        run: |
+          npm run start &
+          npx wait-on http://localhost:3000 --timeout 60000
+          echo "✅ Server is ready at localhost:3000"
+        env:
+          PORT: 3000
+
+      # ── 8. Run Social Auto-Poster ─────────────────────────────
+      - name: 📢 Post to Social Media
+        run: |
+          SLUG_ARG=""
+          PLATFORM_ARG=""
+          if [ -n "${{ steps.detect.outputs.slug }}" ]; then
+            SLUG_ARG="--slug ${{ steps.detect.outputs.slug }}"
+          fi
+          if [ -n "${{ github.event.inputs.platform }}" ]; then
+            PLATFORM_ARG="--platform ${{ github.event.inputs.platform }}"
+          fi
+          node scripts/social-share.mjs $SLUG_ARG $PLATFORM_ARG
+        env:
+          BASE_URL: http://localhost:3000
           INSTAGRAM_BUSINESS_ID: ${{ secrets.INSTAGRAM_BUSINESS_ID }}
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-        run: node scripts/instagram-post.mjs
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
 
-      - name: Clean up temporary images
-        run: rm -f public/temp-ig-*.jpg
+      # ── 9. Cleanup ────────────────────────────────────────────
+      - name: 🧹 Cleanup Screenshots
+        if: always()
+        run: rm -f public/social-card-*.jpg

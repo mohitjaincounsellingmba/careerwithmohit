@@ -1,5 +1,4 @@
 import { getPostData } from '@/lib/markdown';
-import { Compass, Calendar, User } from 'lucide-react';
 import { notFound } from 'next/navigation';
 
 export default async function InstagramCard({
@@ -14,55 +13,156 @@ export default async function InstagramCard({
     notFound();
   }
 
+  const category = post.keywords?.[0] || 'Career Insights';
+
   return (
-    <div className="w-[1080px] h-[1080px] bg-primary flex items-center justify-center p-20 overflow-hidden border-[16px] border-foreground relative">
-      {/* Background Decorations */}
-      <div className="absolute top-0 right-0 -mt-40 -mr-40 h-[600px] w-[600px] rounded-full bg-white/10" />
-      <div className="absolute bottom-0 left-0 -mb-20 -ml-20 h-96 w-96 rotate-45 bg-white/10" />
-      
-      <div className="bg-white w-full h-full border-[12px] border-foreground shadow-[40px_40px_0px_0px_rgba(0,0,0,1)] flex flex-col p-24 z-10">
-        <div className="flex items-center justify-between mb-16">
-          <div className="flex items-center gap-6">
-            <div className="bg-primary p-4 border-4 border-foreground">
-              <Compass className="h-12 w-12 text-white" />
+    <html>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+        <style>{`
+          * { margin: 0; padding: 0; box-sizing: border-box; }
+          body { font-family: 'Inter', sans-serif; }
+        `}</style>
+      </head>
+      <body>
+        {/* 1080x1080 Square Card */}
+        <div style={{
+          width: '1080px',
+          height: '1080px',
+          background: 'linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #0f172a 100%)',
+          display: 'flex',
+          flexDirection: 'column',
+          overflow: 'hidden',
+          position: 'relative',
+        }}>
+          {/* Decorative Circles */}
+          <div style={{
+            position: 'absolute', top: '-120px', right: '-120px',
+            width: '500px', height: '500px', borderRadius: '50%',
+            background: 'radial-gradient(circle, rgba(59,130,246,0.3) 0%, transparent 70%)',
+          }} />
+          <div style={{
+            position: 'absolute', bottom: '-100px', left: '-100px',
+            width: '400px', height: '400px', borderRadius: '50%',
+            background: 'radial-gradient(circle, rgba(139,92,246,0.25) 0%, transparent 70%)',
+          }} />
+          <div style={{
+            position: 'absolute', top: '50%', left: '50%',
+            transform: 'translate(-50%, -50%)',
+            width: '700px', height: '700px', borderRadius: '50%',
+            background: 'radial-gradient(circle, rgba(59,130,246,0.05) 0%, transparent 60%)',
+          }} />
+
+          {/* Grid Lines Decoration */}
+          <div style={{
+            position: 'absolute', inset: 0, opacity: 0.04,
+            backgroundImage: 'linear-gradient(rgba(255,255,255,1) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,1) 1px, transparent 1px)',
+            backgroundSize: '80px 80px',
+          }} />
+
+          {/* Content */}
+          <div style={{ position: 'relative', zIndex: 10, display: 'flex', flexDirection: 'column', height: '100%', padding: '72px' }}>
+
+            {/* Header */}
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '60px' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+                {/* Logo Circle */}
+                <div style={{
+                  width: '64px', height: '64px', borderRadius: '50%',
+                  background: 'linear-gradient(135deg, #3b82f6, #8b5cf6)',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  fontSize: '28px', fontWeight: '900', color: 'white',
+                }}>M</div>
+                <div>
+                  <div style={{ color: 'white', fontSize: '22px', fontWeight: '800', letterSpacing: '-0.5px' }}>CareerWithMohit</div>
+                  <div style={{ color: '#60a5fa', fontSize: '13px', fontWeight: '600', letterSpacing: '2px', textTransform: 'uppercase' }}>careerwithmohit.com</div>
+                </div>
+              </div>
+              {/* Category Badge */}
+              <div style={{
+                background: 'linear-gradient(135deg, #3b82f6, #8b5cf6)',
+                padding: '10px 24px', borderRadius: '100px',
+                color: 'white', fontSize: '14px', fontWeight: '700',
+                letterSpacing: '1px', textTransform: 'uppercase',
+              }}>
+                {category}
+              </div>
             </div>
-            <span className="font-display text-4xl font-black uppercase tracking-tighter text-foreground">
-              CareerWithMohit
-            </span>
-          </div>
-          <div className="bg-accent px-6 py-2 border-4 border-foreground -rotate-2">
-            <span className="font-bold text-2xl uppercase">Expert Insights</span>
-          </div>
-        </div>
 
-        <div className="flex-grow flex flex-col justify-center">
-          <div className="mb-10 inline-block bg-primary text-white px-6 py-2 border-4 border-foreground self-start font-bold text-2xl uppercase tracking-widest">
-            Latest Blog Post
-          </div>
-          <h1 className="font-display text-7xl font-black tracking-tighter text-foreground leading-[1.1] mb-12 uppercase">
-            {post.title}
-          </h1>
-          <p className="text-4xl font-bold text-gray-600 leading-relaxed line-clamp-3">
-            {post.description}
-          </p>
-        </div>
+            {/* Main Content */}
+            <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+              {/* Tag */}
+              <div style={{
+                display: 'inline-flex', alignItems: 'center', gap: '8px',
+                marginBottom: '32px', alignSelf: 'flex-start',
+              }}>
+                <div style={{ width: '32px', height: '3px', background: '#3b82f6', borderRadius: '2px' }} />
+                <span style={{ color: '#93c5fd', fontSize: '16px', fontWeight: '700', letterSpacing: '3px', textTransform: 'uppercase' }}>
+                  Latest Post
+                </span>
+              </div>
 
-        <div className="mt-16 pt-16 border-t-8 border-foreground flex justify-between items-end">
-          <div className="space-y-4">
-             <div className="flex items-center gap-4 text-3xl font-bold text-foreground">
-               <Calendar className="h-10 w-10 text-primary" strokeWidth={3} />
-               {new Date(post.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
-             </div>
-             <div className="flex items-center gap-4 text-3xl font-bold text-foreground">
-               <User className="h-10 w-10 text-primary" strokeWidth={3} />
-               By Mohit Jain
-             </div>
-          </div>
-          <div className="bg-foreground text-white px-10 py-6 border-4 border-foreground text-4xl font-black uppercase tracking-tighter shadow-[10px_10px_0px_0px_rgba(59,130,246,1)]">
-            Read More @ careerwithmohit.com
+              {/* Title */}
+              <h1 style={{
+                color: 'white',
+                fontSize: post.title.length > 60 ? '52px' : '64px',
+                fontWeight: '900',
+                lineHeight: 1.1,
+                letterSpacing: '-1px',
+                marginBottom: '32px',
+              }}>
+                {post.title}
+              </h1>
+
+              {/* Description */}
+              <p style={{
+                color: '#94a3b8',
+                fontSize: '24px',
+                fontWeight: '400',
+                lineHeight: 1.6,
+                display: '-webkit-box',
+                WebkitLineClamp: 3,
+                WebkitBoxOrient: 'vertical',
+                overflow: 'hidden',
+              }}>
+                {post.description}
+              </p>
+            </div>
+
+            {/* Footer */}
+            <div style={{
+              marginTop: '48px',
+              paddingTop: '36px',
+              borderTop: '1px solid rgba(255,255,255,0.12)',
+              display: 'flex',
+              justifyContent: 'space-between',
+              alignItems: 'center',
+            }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+                <div style={{ color: '#64748b', fontSize: '14px', fontWeight: '600', textTransform: 'uppercase', letterSpacing: '1px' }}>By</div>
+                <div style={{ color: 'white', fontSize: '22px', fontWeight: '800' }}>Mohit Jain</div>
+                <div style={{ color: '#64748b', fontSize: '15px' }}>Education & Career Counsellor</div>
+              </div>
+
+              {/* CTA Button */}
+              <div style={{
+                background: 'linear-gradient(135deg, #3b82f6, #8b5cf6)',
+                padding: '18px 36px',
+                borderRadius: '12px',
+                color: 'white',
+                fontSize: '20px',
+                fontWeight: '800',
+                textAlign: 'center',
+              }}>
+                Read Full Article →<br/>
+                <span style={{ fontSize: '14px', fontWeight: '600', opacity: 0.9 }}>careerwithmohit.com</span>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
+      </body>
+    </html>
   );
 }

@@ -5,7 +5,13 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "social-share": "node scripts/social-share.mjs",
+    "social-share:dry": "node scripts/social-share.mjs --dry-run",
+    "social-share:linkedin": "node scripts/social-share.mjs --platform linkedin",
+    "social-share:instagram": "node scripts/social-share.mjs --platform instagram",
+    "social-share:facebook": "node scripts/social-share.mjs --platform facebook",
+    "social-preview": "node scripts/test-graphics.mjs"
   },
   "dependencies": {
     "@next/third-parties": "^16.1.6",
@@ -24,6 +30,9 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "axios": "^1.14.0",
+    "dotenv": "^17.4.0",
+    "puppeteer": "^24.40.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
