@@ -30,8 +30,14 @@ Ensure the blog post follows these SEO best practices:
 Once the post is written and verified for quality:
 - Run `git add .` to stage the new post.
 - Run `git commit -m "feat: add blog post about [Topic Name]"`
-- Run `git push origin main` to deploy/update the brain.
+- Run `git push origin main` to deploy/update the blog.
+
+### 5. Social Media Automation
+After the post is pushed and the site is updated:
+- Run `node scripts/social-share.mjs` to automatically post to Instagram, Facebook, and LinkedIn.
+- Wait for the graphics to be generated and shared.
 
 ## Critical Reminders
+- Ensure `INSTAGRAM_BUSINESS_ID`, `INSTAGRAM_ACCESS_TOKEN`, `FB_PAGE_ID`, and `LINKEDIN_ACCESS_TOKEN` are set in your environment or `.env` file.
 - Do NOT guess college data; if unsure, perform a web search to get accurate fees, placements, and dates.
 - Always check if a similar post already exists to avoid duplication or to provide a better internal link.
