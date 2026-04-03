@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { Compass, Menu, X } from 'lucide-react';
+import { Compass, Menu, X, Phone } from 'lucide-react';
 import Image from 'next/image';
 import { SearchInput } from './SearchInput';
 
@@ -36,10 +36,11 @@ export function Header() {
         <div className="flex items-center gap-4">
           <SearchInput />
           <Link 
-            href="/inquiry" 
-            className="hidden lg:inline-flex h-12 items-center justify-center rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
+            href="tel:+919560020771" 
+            className="hidden lg:inline-flex h-12 items-center justify-center gap-2 rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
           >
-            Inquiry
+            <Phone className="h-4 w-4" />
+            Call
           </Link>
           <button 
             className="md:hidden flex items-center justify-center p-2 text-foreground hover:text-primary transition-colors bg-gray-100 rounded-md"
@@ -76,11 +77,12 @@ export function Header() {
 
 
             <Link 
-              href="/inquiry" 
+              href="tel:+919560020771" 
               onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-4 flex h-14 w-full items-center justify-center rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
+              className="mt-4 flex h-14 w-full items-center justify-center gap-3 rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
             >
-              Inquiry
+              <Phone className="h-5 w-5 text-primary" />
+              Call Now
             </Link>
           </nav>
         </div>
