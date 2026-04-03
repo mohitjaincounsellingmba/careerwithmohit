@@ -115,11 +115,15 @@ export function InquiryForm() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
         {/* Name */}
         <div className="space-y-3">
-          <label className="block text-xl font-black uppercase tracking-tight text-foreground">Name</label>
+          <label htmlFor="name" className="block text-xl font-black uppercase tracking-tight text-foreground">Name</label>
           <input
+            id="name"
+            name="name"
             required
+            aria-required="true"
             type="text"
-            placeholder="Your Name"
+            autoComplete="name"
+            placeholder="Your Full Name"
             value={formData.name}
             onChange={(e) => setFormData({ ...formData, name: e.target.value })}
             className="w-full h-16 bg-gray-50 border-4 border-foreground px-6 text-lg font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md"
@@ -128,10 +132,14 @@ export function InquiryForm() {
 
         {/* Number */}
         <div className="space-y-3">
-          <label className="block text-xl font-black uppercase tracking-tight text-foreground">Phone Number</label>
+          <label htmlFor="number" className="block text-xl font-black uppercase tracking-tight text-foreground">Phone Number</label>
           <input
+            id="number"
+            name="number"
             required
+            aria-required="true"
             type="tel"
+            autoComplete="tel"
             placeholder="WhatsApp Number"
             value={formData.number}
             onChange={(e) => setFormData({ ...formData, number: e.target.value })}
@@ -141,10 +149,14 @@ export function InquiryForm() {
 
         {/* Email */}
         <div className="space-y-3">
-          <label className="block text-xl font-black uppercase tracking-tight text-foreground">Email Address</label>
+          <label htmlFor="email" className="block text-xl font-black uppercase tracking-tight text-foreground">Email Address</label>
           <input
+            id="email"
+            name="email"
             required
+            aria-required="true"
             type="email"
+            autoComplete="email"
             placeholder="alex@example.com"
             value={formData.email}
             onChange={(e) => setFormData({ ...formData, email: e.target.value })}
@@ -154,9 +166,12 @@ export function InquiryForm() {
 
         {/* Location */}
         <div className="space-y-3">
-          <label className="block text-xl font-black uppercase tracking-tight text-foreground">Current Location</label>
+          <label htmlFor="location" className="block text-xl font-black uppercase tracking-tight text-foreground">Current Location</label>
           <input
+            id="location"
+            name="location"
             required
+            aria-required="true"
             type="text"
             placeholder="e.g. New Delhi"
             value={formData.location}
@@ -167,9 +182,12 @@ export function InquiryForm() {
 
         {/* Preferred Location */}
         <div className="space-y-3">
-          <label className="block text-xl font-black uppercase tracking-tight text-foreground">Preferred Study Location</label>
+          <label htmlFor="preferredLocation" className="block text-xl font-black uppercase tracking-tight text-foreground">Preferred Study Location</label>
           <input
+            id="preferredLocation"
+            name="preferredLocation"
             required
+            aria-required="true"
             type="text"
             placeholder="e.g. Bangalore, Mumbai"
             value={formData.preferredLocation}
@@ -180,9 +198,12 @@ export function InquiryForm() {
 
         {/* Budget */}
         <div className="space-y-3">
-          <label className="block text-xl font-black uppercase tracking-tight text-foreground">Budget Range</label>
+          <label htmlFor="budget" className="block text-xl font-black uppercase tracking-tight text-foreground">Budget Range</label>
           <select
+            id="budget"
+            name="budget"
             required
+            aria-required="true"
             value={formData.budget}
             onChange={(e) => setFormData({ ...formData, budget: e.target.value })}
             className="w-full h-16 bg-gray-50 border-4 border-foreground px-6 text-lg font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md appearance-none"
@@ -194,9 +215,12 @@ export function InquiryForm() {
 
         {/* Course - Full Width on small, 2 col on large handled by parent grid */}
         <div className="space-y-3 md:col-span-2">
-          <label className="block text-xl font-black uppercase tracking-tight text-foreground">Course Interest</label>
+          <label htmlFor="course" className="block text-xl font-black uppercase tracking-tight text-foreground">Course Interest</label>
           <select
+            id="course"
+            name="course"
             required
+            aria-required="true"
             value={formData.course}
             onChange={(e) => setFormData({ ...formData, course: e.target.value })}
             className="w-full h-16 bg-gray-50 border-4 border-foreground px-6 text-lg font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md appearance-none"
