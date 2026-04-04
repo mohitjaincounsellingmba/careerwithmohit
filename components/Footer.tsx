@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { Compass, Instagram, Linkedin, Facebook, Youtube } from 'lucide-react';
-import CollegeDataFetcher from './CollegeDataFetcher';
 
 export function Footer() {
   return (
@@ -64,10 +63,6 @@ export function Footer() {
               </a>
             </div>
             
-            {/* TOOLS SECTION */}
-            <div className="mt-8 space-y-6 max-w-xs">
-              <CollegeDataFetcher />
-            </div>
           </div>
           <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Quick Links</h3>
