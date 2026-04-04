@@ -4,6 +4,16 @@ export interface SectionDetail {
   questionCount: number;
 }
 
+export interface FAQItem {
+  question: string;
+  answer: string;
+}
+
+export interface ExamDetail {
+  title: string;
+  content: string;
+}
+
 export interface ExamConfig {
   id: string;
   name: string;
@@ -15,6 +25,9 @@ export interface ExamConfig {
   goodScore: string;
   seoTitle: string;
   seoDescription: string;
+  features?: string[];
+  faqs?: FAQItem[];
+  examDetails?: ExamDetail[];
 }
 
 export interface GenericQuestion {
@@ -156,12 +169,48 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     totalQuestions: 66,
     targetColleges: 'IIM Ahmedabad, IIM Bangalore, IIM Calcutta, FMS, SPJIMR',
     goodScore: '99+ Percentile',
-    seoTitle: 'Free CAT Mock Test 2026 | Full Length Practice Paper Online',
-    seoDescription: 'Take a free full-length CAT 2026 mock test. 66 questions, 120 minutes pattern with VARC, DILR, and QA sections. Experience real exam pressure.',
+    seoTitle: 'Free CAT Mock Test 2026 | Best Online Test Series for IIM Prep',
+    seoDescription: 'Attempt the best Free CAT Mock Test 2026 based on the latest IIM exam pattern. Get AI analytics, all India percentile, and section-wise VARC, DILR, QA analysis.',
     sections: [
       { id: 'varc', label: 'Verbal Ability & Reading Comprehension', questionCount: 24 },
       { id: 'dilr', label: 'Data Interpretation & Logical Reasoning', questionCount: 20 },
       { id: 'quant', label: 'Quantitative Ability', questionCount: 22 }
+    ],
+    features: [
+      'Latest CAT 2026 Exam Pattern',
+      'Detailed AI-Powered Performance Analytics',
+      'All India Percentile Predictor',
+      'In-depth Sectional Analysis (VARC, DILR, QA)',
+      'Video Analysis & Detailed Solutions',
+      'Designed by IIM Alumni & Top Educators'
+    ],
+    faqs: [
+      {
+        question: 'Is this CAT 2026 Mock Test completely free?',
+        answer: 'Yes, this full-length CAT 2026 mock test is completely free. It provides a real exam interface experience with 66 questions to be solved in 120 minutes.'
+      },
+      {
+        question: 'What is the pattern of the CAT Mock Test?',
+        answer: 'The mock test strictly follows the latest CAT pattern: 24 questions in VARC, 20 in DILR, and 22 in Quantitative Ability (QA). The total duration is 120 minutes with a sectional time limit of 40 minutes each.'
+      },
+      {
+        question: 'Are the questions similar to the actual CAT exam?',
+        answer: 'Our experts actively analyze past CAT papers. The difficulty level of this mock test is curated by IIM alumni to closely match the actual exam difficulty, ranging from moderate to tough.'
+      },
+      {
+        question: 'Do I get detailed solutions after the test?',
+        answer: 'Absolutely! Upon submission, you will receive an instant score sheet along with detailed text solutions and analytical breakdowns for every question.'
+      }
+    ],
+    examDetails: [
+      {
+        title: 'Why Take Our CAT Mock Test?',
+        content: 'To crack the Common Admission Test (CAT) and secure a seat in the prestigious IIMs, consistent practice is non-negotiable. Our mock tests simulate the exact pressure, interface, and difficulty level of the real D-Day. By attempting these tests, you can benchmark your preparation against thousands of aspirants nationwide.'
+      },
+      {
+        title: 'Marking Scheme & Sectional Strategy',
+        content: 'CAT follows a strict marking scheme: +3 marks for every correct answer and -1 mark for every incorrect MCQ. TITA (Type in The Answer) questions do not have negative marking. It is crucial to maximize accuracy in VARC, choose the right sets in DILR, and manage time smartly in QA.'
+      }
     ]
   }
 ];

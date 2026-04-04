@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { GenericMockTestClient } from '@/components/GenericMockTest/GenericMockTestClient';
 import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
-import { Clock, Target, Zap, Presentation } from 'lucide-react';
+import { Clock, Target, Zap, Presentation, CheckCircle2, HelpCircle, BookOpen } from 'lucide-react';
 import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
@@ -36,19 +36,37 @@ export default async function ExamMockTestPage({ params }: { params: Promise<{ e
 
   const questions = generateMockQuestions(config);
 
-  const jsonLd = {
+  const jsonLd: any = {
     "@context": "https://schema.org",
-    "@type": "SoftwareApplication",
-    "name": `${config.name} Mock Test Tool`,
-    "operatingSystem": "Web",
-    "applicationCategory": "EducationalApplication",
-    "description": config.seoDescription,
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
+    "@graph": [
+      {
+        "@type": "SoftwareApplication",
+        "name": `${config.name} Mock Test Tool`,
+        "operatingSystem": "Web",
+        "applicationCategory": "EducationalApplication",
+        "description": config.seoDescription,
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "INR"
+        }
+      }
+    ]
   };
+
+  if (config.faqs && config.faqs.length > 0) {
+    jsonLd["@graph"].push({
+      "@type": "FAQPage",
+      "mainEntity": config.faqs.map(faq => ({
+        "@type": "Question",
+        "name": faq.question,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": faq.answer
+        }
+      }))
+    });
+  }
 
   return (
     <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
@@ -136,6 +154,62 @@ export default async function ExamMockTestPage({ params }: { params: Promise<{ e
               Target a score of at least <strong>{config.goodScore}</strong> in {config.name} to maximize your chances of getting into the top tier programs at {config.targetColleges}. Speed and accuracy are vital across all {config.sections.length} sections.
             </p>
           </section>
+
+          {/* New SEO Features Section */}
+          {config.features && config.features.length > 0 && (
+            <section id="features" className="mt-16">
+              <h2 className="text-4xl font-black uppercase mb-8 flex items-center gap-4">
+                <CheckCircle2 className="w-10 h-10 text-primary" /> Key Features
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {config.features.map((feature, idx) => (
+                  <div key={idx} className="flex items-start gap-4 p-6 bg-white border-4 border-foreground shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+                    <CheckCircle2 className="w-8 h-8 text-secondary shrink-0 mt-1" />
+                    <p className="font-bold text-lg">{feature}</p>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* New SEO Details Section */}
+          {config.examDetails && config.examDetails.length > 0 && (
+            <section id="details" className="mt-16 space-y-12">
+              {config.examDetails.map((detail, idx) => (
+                <div key={idx} className="bg-white p-8 md:p-12 border-4 border-foreground shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+                  <h3 className="text-3xl font-black uppercase mb-6 flex items-center gap-4">
+                    <BookOpen className="w-8 h-8 text-primary" />
+                    {detail.title}
+                  </h3>
+                  <p className="text-lg leading-relaxed text-gray-700 font-medium">{detail.content}</p>
+                </div>
+              ))}
+            </section>
+          )}
+
+          {/* New SEO FAQ Section */}
+          {config.faqs && config.faqs.length > 0 && (
+            <section id="faq" className="mt-16 border-t-8 border-foreground pt-16">
+              <h2 className="text-4xl font-black uppercase mb-8 flex items-center gap-4">
+                <HelpCircle className="w-10 h-10 text-primary" /> Frequently Asked Questions
+              </h2>
+              <div className="space-y-6">
+                {config.faqs.map((faq, idx) => (
+                  <details key={idx} className="group bg-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] open:bg-slate-50 transition-colors">
+                    <summary className="p-6 text-xl font-bold uppercase cursor-pointer list-none flex justify-between items-center">
+                      <span>{faq.question}</span>
+                      <span className="transition group-open:rotate-180">
+                        <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+                      </span>
+                    </summary>
+                    <div className="p-6 pt-0 text-lg text-gray-600 font-medium border-t-4 border-foreground mt-4">
+                      {faq.answer}
+                    </div>
+                  </details>
+                ))}
+              </div>
+            </section>
+          )}
 
         </div>
       </div>
