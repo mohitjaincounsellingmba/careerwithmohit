@@ -119,6 +119,7 @@ export function Footer() {
           <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Mock Tests</h3>
             <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/tools/mock-test/cat" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-orange-400 font-black">CAT Mock 2026</Link></li>
               <li><Link href="/tools/mock-test/jee-main" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Main Mock</Link></li>
               <li><Link href="/tools/mock-test/jee-advanced" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">JEE Advanced Mock</Link></li>
               <li><Link href="/tools/mock-test/neet" className="hover:text-primary hover:translate-x-1 inline-block transition-transform">NEET Mock Test</Link></li>
