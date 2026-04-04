@@ -26,10 +26,23 @@ export function GenericRegistrationForm({ config, onRegister }: GenericRegistrat
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [otpSent, setOtpSent] = useState(false);
+  const [otp, setOtp] = useState('');
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (isSubmitting) return;
+
+    if (!otpSent) {
+      setOtpSent(true);
+      alert(`OTP sent successfully to ${formData.phone}. For this demo, please use OTP: 1234`);
+      return;
+    }
+
+    if (otp !== '1234') {
+      alert('Invalid OTP. Please enter 1234.');
+      return;
+    }
 
     if (formData.name && formData.email && formData.phone) {
       setIsSubmitting(true);
@@ -123,12 +136,28 @@ export function GenericRegistrationForm({ config, onRegister }: GenericRegistrat
           </div>
         </div>
 
+        {otpSent && (
+          <div className="bg-gray-50 border-4 border-foreground p-4 mb-4">
+            <label className="block text-sm font-black uppercase mb-2">Enter OTP</label>
+            <input
+              type="text"
+              required={otpSent}
+              className="w-full border-4 border-foreground p-3 focus:outline-none focus:ring-4 focus:ring-primary/20 font-bold text-center tracking-widest text-2xl"
+              value={otp}
+              onChange={(e) => setOtp(e.target.value)}
+              placeholder="----"
+              maxLength={4}
+            />
+            <p className="text-xs font-bold text-gray-500 mt-2">OTP sent to {formData.phone}</p>
+          </div>
+        )}
+
         <button
           type="submit"
           disabled={isSubmitting}
           className="w-full bg-primary text-white py-4 text-xl font-black uppercase border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all disabled:opacity-50"
         >
-          {isSubmitting ? 'Processing...' : 'Start Mock Test Now'}
+          {isSubmitting ? 'Processing...' : !otpSent ? 'Get OTP' : 'Verify & Start Mock Test'}
         </button>
       </form>
     </div>
