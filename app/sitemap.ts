@@ -23,7 +23,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/btech-college-predictor',
     '/tools/cuet-pg-mba-predictor',
     '/tools/college-comparison',
-    '/tools/mba-roi-calculator',
     '/calculator/startup',
     '/tools/accreditation-checker',
     '/tools/ai-skills',

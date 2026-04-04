@@ -43,7 +43,7 @@ If you are a student from Bihar planning to pursue an MBA in the **2026-28 sessi
 - **Admission**: Must have a valid **Bonafide Certificate** and **Fee Structure** from a recognized institution.
 
 > [!TIP]
-> Use our [**MBA ROI Calculator**](/tools/mba-roi-calculator) to see if the ₹4 Lakh DRCC loan combined with your chosen college's placement will give you a good return on investment.
+> Talk to our experts to see if the ₹4 Lakh DRCC loan combined with your chosen college's placement will give you a good return on investment. [**Check ROI with Experts**](/inquiry)
 
 ---
 

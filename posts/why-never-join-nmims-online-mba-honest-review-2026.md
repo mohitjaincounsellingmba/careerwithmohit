@@ -58,7 +58,7 @@ Highly unlikely. Most students who secure high packages after an online MBA do s
 **3. Is the degree certificate different from the Mumbai campus?**
 Yes. It clearly mentions "NMIMS Global Access School for Continuing Education." Every HR will know the difference immediately.
 
-[👉 Get a Free Career Audit Before You Pay!](/tools/mba-roi-calculator)
+[👉 Get a Free Career Audit Before You Pay!](/inquiry)
 
 **Don't Let Marketing Define Your Future.**
 At **CareerWithMohit**, we help you find the **ROI** (Return on Investment), not just the brand. 

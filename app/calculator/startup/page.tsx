@@ -235,8 +235,8 @@ export default function StartupCalculatorPage() {
                         <Link href="/blog/how-to-start-freelancing-2026-beginners-india" className="bg-white border-4 border-foreground p-6 hover:bg-yellow-50 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-yellow-600 transition-colors">Starting Freelancing vs Startup →</span>
                         </Link>
-                        <Link href="/tools/mba-roi-calculator" className="bg-white border-4 border-foreground p-6 hover:bg-yellow-50 transition-colors group block">
-                            <span className="font-black text-lg group-hover:text-yellow-600 transition-colors">MBA ROI vs Starting Up →</span>
+                        <Link href="/blog/how-youtubers-can-monetize-audience-with-branded-app-2026" className="bg-white border-4 border-foreground p-6 hover:bg-yellow-50 transition-colors group block">
+                            <span className="font-black text-lg group-hover:text-yellow-600 transition-colors">Monetize Your Audience with a Branded App →</span>
                         </Link>
                     </div>
                 </div>
