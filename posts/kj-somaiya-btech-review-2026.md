@@ -14,7 +14,7 @@ If you are an engineering aspirant considering KJSCE for your B.Tech journey in 
 KJSCE offers a diversified approach to B.Tech admissions. Since it is an autonomous institute affiliated with Somaiya Vidyavihar University, it doesn't strictly rely on just one exam pattern. 
 
 1. **MHT CET & JEE Main:** The predominant route. Most general category students secure their seats by ranking exceptionally well in the Maharashtra Common Entrance Test (MHT CET) or the Centralised JEE Main. 
-   - *Test your preparation right now by taking our **[Free JEE Main Mock Test](/tools/mock-test/jee-main)**!*
+   - *Test your preparation right now by taking our **[Free JEE Main Mock Test](/tools/jee-main-mock-test)**!*
 2. **Alternative Exams:** To cater to a wider pool of talent, Somaiya also conditionally accepts scores from exams like PERA CET or SAT India, though the quota for these is heavily restricted.
 3. **NRI and Management Quotas:** Certain specific seats are reserved under direct institutional quotas. However, candidates must still meet stringent baseline eligibility criteria.
 

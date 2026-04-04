@@ -52,4 +52,4 @@ Situated on the serene banks of the river Teesta in Majitar, Sikkim, **SMIT** is
 3. **Choose MUJ (Jaipur)** if you missed the main campus cutoff for CSE, want spectacular infrastructure, or are looking for management/[direct admissions to B.Tech Colleges in India](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026).
 4. **Choose SMIT Sikkim** if you're seeking a budget-friendly Manipal tag with gorgeous terrain and a calm atmosphere away from city distractions.
 
-Are you still confused about where to secure your B.Tech seat? Familiarize yourself with the various [B.Tech Specializations Available in 2026](/blog/btech-specializations-skills-salary-2026-guide) or test your engineering preparation levels completely free using our [Online JEE Main Mock Test Evaluator](/tools/mock-test/jee-main).
+Are you still confused about where to secure your B.Tech seat? Familiarize yourself with the various [B.Tech Specializations Available in 2026](/blog/btech-specializations-skills-salary-2026-guide) or test your engineering preparation levels completely free using our [Online JEE Main Mock Test Evaluator](/tools/jee-main-mock-test).

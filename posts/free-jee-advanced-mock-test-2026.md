@@ -7,7 +7,7 @@ keywords: ["JEE Advanced mock test free", "IIT admission 2026", "JEE Advanced 20
 
 Once you crack the **JEE Main**, the true hurdle lies ahead: the **Joint Entrance Examination (JEE) Advanced**. It's the only pathway to gaining admission into any of the prestigious Indian Institutes of Technology (IITs).
 
-Known for its unpredictability and high difficulty level, practicing the format of JEE Advanced is critical to success. That's why we have created a **[100% Free IIT JEE Advanced 2026 Mock Test](/tools/mock-test/jee-advanced)** for all serious B.Tech aspirants.
+Known for its unpredictability and high difficulty level, prepare for the format of JEE Advanced is critical to success. That's why we have created a **[100% Free IIT JEE Advanced 2026 Mock Test](/tools/jee-advanced-mock-test)** for all serious B.Tech aspirants.
 
 ## What Makes This JEE Advanced Mock Test Special?
 
@@ -18,7 +18,7 @@ Unlike static pen-and-paper tests, our CBT interface emulates the actual environ
 3. **Advanced Sectional Breakdown:** Get immediate insights into your strongest subjects right after the mock test.
 4. **IIT Score Predictor:** Evaluate if your score is currently touching the required **140+ targeted metric** to secure an IIT.
 
-👉 **[Take the Free JEE Advanced Mock Test Now!](/tools/mock-test/jee-advanced)**
+👉 **[Take the Free JEE Advanced Mock Test Now!](/tools/jee-advanced-mock-test)**
 
 ## How to use this Mock effectively
 JEE Advanced evaluates your deep conceptual understanding rather than your speed.

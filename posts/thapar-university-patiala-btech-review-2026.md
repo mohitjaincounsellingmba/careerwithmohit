@@ -15,7 +15,7 @@ Thapar University does NOT conduct its own separate entrance exam for B.Tech. In
 
 ### 1. Via JEE Main Score
 The majority of seats are filled through the Joint Entrance Examination (JEE) Main score. 
-- You must sit for JEE Main. Ensure you evaluate your current level by solving our **[Free JEE Main Mock Test 2026](/tools/mock-test/jee-main)**.
+- You must sit for JEE Main. Ensure you evaluate your current level by solving our **[Free JEE Main Mock Test 2026](/tools/jee-main-mock-test)**.
 - There is a 50% state quota reserved for candidates who have passed their 10+2 from Punjab, and the remaining 50% is for outside-Punjab candidates.
 
 ### 2. Via 10+2 Board Percentage

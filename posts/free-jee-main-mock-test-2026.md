@@ -7,7 +7,7 @@ keywords: ["JEE Main mock test free", "IIT JEE Main 2026 online test", "NTA JEE 
 
 Preparing for the **Joint Entrance Examination (JEE) Main** requires more than just knowing the syllabus; it demands impeccable time management, accuracy, and an understanding of the NTA's exam pattern.
 
-At CareerWithMohit, we have launched a comprehensive, **[100% Free IIT JEE Main 2026 Mock Test](/tools/mock-test/jee-main)** designed specifically to help engineering aspirants evaluate their preparation levels.
+At CareerWithMohit, we have launched a comprehensive, **[100% Free IIT JEE Main 2026 Mock Test](/tools/jee-main-mock-test)** designed specifically to help engineering aspirants evaluate their preparation levels.
 
 ## Why Take Our JEE Main 2026 Mock Test?
 
@@ -18,7 +18,7 @@ Our platform mimics the exact National Testing Agency (NTA) environment, giving 
 3. **Instant Sectional Analysis:** Find out exactly whether Physics, Chemistry, or Maths is dragging your score down.
 4. **Target College Predictor:** Depending on your score out of 300, our strategist tool predicts your chances of cracking top NITs and IIITs.
 
-👉 **[Start your Free JEE Main Mock Test Now!](/tools/mock-test/jee-main)**
+👉 **[Start your Free JEE Main Mock Test Now!](/tools/jee-main-mock-test)**
 
 ## How to use Mock Tests Effectively?
 - **Take it seriously:** Sit in a quiet room and don't pause the test.
