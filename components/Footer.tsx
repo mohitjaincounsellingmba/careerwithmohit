@@ -100,6 +100,7 @@ export function Footer() {
             <ul className="space-y-4 text-xs font-bold">
               <li><Link href="/tools/hashtag-generator" className="text-blue-500 hover:text-white transition-colors group italic">Hashtag Generator 🔥</Link></li>
               <li><Link href="/tools/instagram-followers-generator" className="text-rose-500 font-extrabold transition-all hover:scale-105 inline-block italic">Instagram Followers 🔥</Link></li>
+              <li><Link href="/tools/backlink-generator" className="text-emerald-500 font-extrabold transition-all hover:scale-105 inline-block italic">Backlink Generator 🔗</Link></li>
             </ul>
           </div>
 
