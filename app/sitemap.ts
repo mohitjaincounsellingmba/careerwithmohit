@@ -26,6 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/accreditation-checker',
     '/tools/ai-skills',
     '/tools/mhcet-mock-test',
+    '/tools/hashtag-generator',
     '/services',
     '/sell-your-coaching-online',
   ].map((route) => ({
