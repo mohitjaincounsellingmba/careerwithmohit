@@ -150,16 +150,48 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     name: 'BITS Pilani (BITSAT) 2026',
     durationMinutes: 180,
     totalQuestions: 130,
-    targetColleges: 'BITS Pilani, Goa, Hyderabad',
+    targetColleges: 'BITS Pilani, BITS Goa, BITS Hyderabad',
     goodScore: '270+',
-    seoTitle: 'Free BITSAT Mock Test 2026 | BITS Pilani Preparation',
-    seoDescription: 'Maximize your BITSAT score with our free full-length mock test. 130 questions in 3 hours. Includes Logical Reasoning and English Proficiency.',
+    seoTitle: 'Free BITSAT Mock Test 2026 | Simulation for BITS Pilani Prep',
+    seoDescription: 'Master the BITSAT 2026 with our free full-length mock test. 130 questions in 3 hours covering Physics, Chemistry, English, and Logical Reasoning.',
     sections: [
       { id: 'physics', label: 'Physics', questionCount: 30 },
       { id: 'chemistry', label: 'Chemistry', questionCount: 30 },
       { id: 'english', label: 'English Proficiency', questionCount: 10 },
       { id: 'lr', label: 'Logical Reasoning', questionCount: 20 },
       { id: 'maths', label: 'Mathematics', questionCount: 40 }
+    ],
+    features: [
+      'Strictly follows BITSAT 2026 Exam Pattern',
+      'Bonus Section Integration Simulation',
+      'English Proficiency & Logical Reasoning Focus',
+      'Instant Score and Accuracy Reporting',
+      'Top Campus (Pilani, Goa, Hyderabad) Cutoff Tracker',
+      'Conceptual solutions provided for all 130 questions'
+    ],
+    faqs: [
+      {
+        question: 'Is there a bonus section in the BITSAT mock test?',
+        answer: 'While our main mock test has 130 questions, we provide insights into the BITSAT bonus question strategy (12 extra questions) if you finish the test early with no unanswered questions.'
+      },
+      {
+        question: 'What is a good score in BITSAT 2026?',
+        answer: 'A score above 270+ is generally considered safe for top branches at BITS Pilani, while 240+ can fetch you branches at Goa and Hyderabad campuses.'
+      },
+      {
+        question: 'Is English Proficiency important for BITSAT?',
+        answer: 'Yes, English Proficiency and Logical Reasoning make up 30 questions (90 marks). This section is often the differentiator for candidates aiming for high-ROI branches like CS or ECE.'
+      }
+    ],
+    examDetails: [
+      {
+        title: 'The BITSAT Advantage',
+        content: 'BITSAT tests your speed and accuracy even more than JEE Main. With 130 questions in 180 minutes, you have less than 1.5 minutes per question. Mastery of English and Logic is just as important as your PCM scores.'
+      },
+      {
+        title: 'No Sectional Timing',
+        content: 'Unlike CAT, BITSAT has no sectional time limit. You can jump between Physics, Chemistry, and English freely. We recommend finishing English and Chemistry in the first 50 minutes to leave more time for the 40 Mathematics questions.'
+      }
     ]
   },
   {

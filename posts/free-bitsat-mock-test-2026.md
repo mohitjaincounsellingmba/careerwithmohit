@@ -7,7 +7,7 @@ keywords: ["BITSAT mock test free", "BITS Pilani entrance exam", "BITSAT online 
 
 Achieving admission into **Birla Institute of Technology and Science (BITS), Pilani**, or its campuses in Goa and Hyderabad is frequently regarded as difficult as cracking the top IITs. Its entrance test, **BITSAT (BITS Admission Test)**, is legendary for being one of India's most speed-centric and intensive examinations.
 
-If you aim for an uncompromised 270+ score but don't know where to start, our **[100% Free BITSAT 2026 Mock Test](/tools/mock-test/bitsat)** is specifically tailored for your preparation.
+If you aim for an uncompromised 270+ score but don't know where to start, our **[100% Free BITSAT 2026 Mock Test](/tools/bitsat-mock-test)** is specifically tailored for your preparation.
 
 ## Crack the Code with Our Free BITSAT 2026 Mock Test
 
@@ -18,7 +18,7 @@ Unlike JEE Main, BITSAT has a uniquely diverse format that introduces English Pr
 3. **Advanced Section Analysis:** Did you lose marks due to weak grammar in the English section? Did Logic slow you down? Find out the very second you hit submit.
 4. **Performance Evaluator:** Ensure you crack the magic 270+ score for premium branches directly mapped out by our strategist algorithm.
 
-👉 **[Start your Free BITSAT Mock Test Now!](/tools/mock-test/bitsat)**
+👉 **[Start your Free BITSAT Mock Test Now!](/tools/bitsat-mock-test)**
 
 ## How to Prepare for BITSAT:
 - **Speed is everything:** BITSAT evaluates your speed of thought and accuracy above all else.

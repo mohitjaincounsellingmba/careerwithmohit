@@ -7,7 +7,7 @@ keywords: ["CAT mock test free", "CAT 2026 practice paper", "IIM entrance prepar
 
 The **Common Admission Test (CAT)** is the gateway to the prestigious Indian Institutes of Management (IIMs) and other top-tier business schools in India. Cracking CAT 2026 requires not just conceptual clarity but also intense time management and sectional focus.
 
-Are you ready to face the challenge? Test your preparation with our **[Free CAT 2026 Full-Length Mock Test](/tools/mock-test/cat)**.
+Are you ready to face the challenge? Test your preparation with our **[Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)**.
 
 ## CAT 2026 Exam Pattern & Mock Test Structure
 
@@ -20,7 +20,7 @@ Our mock test is meticulously designed based on the latest CAT pattern to give y
 **Total Duration:** 120 Minutes (2 Hours)
 **Total Questions:** 66
 
-👉 **[Start Your Free CAT Mock Test Now!](/tools/mock-test/cat)**
+👉 **[Start Your Free CAT Mock Test Now!](/tools/cat-mock-test)**
 
 ## Why Take Our CAT 2026 Mock Test?
 
@@ -33,7 +33,7 @@ Our mock test is meticulously designed based on the latest CAT pattern to give y
 
 - **Sectional Strategy:** Don't get stuck on one complex DILR set. Move on and maximize your attempts in the QA section.
 - **Accuracy over Speed:** Negative marking can ruin your percentile. Only mark answers you are confident about.
-- **Review Your Mock:** After completing the [Free CAT Mock Test](/tools/mock-test/cat), review the questions you missed to understand the underlying concepts.
+- **Review Your Mock:** After completing the [Free CAT Mock Test](/tools/cat-mock-test), review the questions you missed to understand the underlying concepts.
 
 Looking for more help with your MBA journey? Check out our **[Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)** or explore the **[Top MBA Colleges in Pune](/blog/top-mba-colleges-pune)** for your backup options.
 
