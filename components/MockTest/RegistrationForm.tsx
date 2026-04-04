@@ -8,6 +8,7 @@ export interface StudentInfo {
   phone: string;
   location: string;
   targetExam: string;
+  selectedSet: number;
 }
 
 interface RegistrationFormProps {
@@ -20,7 +21,8 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
     email: '',
     phone: '',
     location: '',
-    targetExam: 'MAH-MBA-CET 2026'
+    targetExam: 'MAH-MBA-CET 2026',
+    selectedSet: 1
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -125,16 +127,17 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
             />
           </div>
           <div>
-            <label className="block text-sm font-black uppercase mb-2">Preparing For</label>
+            <label className="block text-sm font-black uppercase mb-2">Select Mock Test Set</label>
             <select
               className="w-full border-4 border-foreground p-3 focus:outline-none focus:ring-4 focus:ring-primary/20 font-bold"
-              value={formData.targetExam}
-              onChange={(e) => setFormData({ ...formData, targetExam: e.target.value })}
+              value={formData.selectedSet}
+              onChange={(e) => setFormData({ ...formData, selectedSet: parseInt(e.target.value) })}
             >
-              <option value="MAH-MBA-CET 2026">MAH-MBA-CET 2026</option>
-              <option value="CAT 2025">CAT 2025 / 2026</option>
-              <option value="SNAP 2025">SNAP 2025</option>
-              <option value="CMAT 2026">CMAT 2026</option>
+              {[...Array(30)].map((_, i) => (
+                <option key={i + 1} value={i + 1}>
+                  MHCET Paper Set {i + 1}
+                </option>
+              ))}
             </select>
           </div>
         </div>

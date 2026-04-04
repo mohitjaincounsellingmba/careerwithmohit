@@ -10,9 +10,21 @@ export function MhcetMockTestClient() {
   const [step, setStep] = useState<'register' | 'quiz' | 'results'>('register');
   const [student, setStudent] = useState<StudentInfo | null>(null);
   const [answers, setAnswers] = useState<Record<number, number>>({});
+  const [activeQuestions, setActiveQuestions] = useState(MHCET_QUESTIONS);
+
+  const getMhcetSet = (setNumber: number) => {
+    const offset = (setNumber - 1) * 7;
+    const pool = MHCET_QUESTIONS;
+    const selected = [];
+    for (let i = 0; i < pool.length; i++) {
+      selected.push(pool[(i + offset) % pool.length]);
+    }
+    return selected;
+  };
 
   const handleRegister = (info: StudentInfo) => {
     setStudent(info);
+    setActiveQuestions(getMhcetSet(info.selectedSet));
     setStep('quiz');
   };
 
@@ -36,14 +48,14 @@ export function MhcetMockTestClient() {
 
       {step === 'quiz' && (
         <QuizInterface 
-          questions={MHCET_QUESTIONS} 
+          questions={activeQuestions} 
           onComplete={handleQuizComplete} 
         />
       )}
 
       {step === 'results' && student && (
         <ScoreCard 
-          questions={MHCET_QUESTIONS} 
+          questions={activeQuestions} 
           answers={answers} 
           student={student}
           onReset={handleReset}

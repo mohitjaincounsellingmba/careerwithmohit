@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { GenericRegistrationForm, GenericStudentInfo } from './GenericRegistrationForm';
 import { GenericQuizInterface } from './GenericQuizInterface';
 import { GenericScoreCard } from './GenericScoreCard';
-import { ExamConfig, GenericQuestion } from '@/lib/mock-test-data';
+import { ExamConfig, GenericQuestion, generateMockQuestions } from '@/lib/mock-test-data';
 
 interface GenericMockTestClientProps {
   config: ExamConfig;
@@ -15,9 +15,11 @@ export function GenericMockTestClient({ config, questions }: GenericMockTestClie
   const [step, setStep] = useState<'register' | 'quiz' | 'results'>('register');
   const [student, setStudent] = useState<GenericStudentInfo | null>(null);
   const [answers, setAnswers] = useState<Record<number, number>>({});
+  const [activeQuestions, setActiveQuestions] = useState<GenericQuestion[]>(questions);
 
   const handleRegister = (info: GenericStudentInfo) => {
     setStudent(info);
+    setActiveQuestions(generateMockQuestions(config, info.selectedSet));
     setStep('quiz');
   };
 
@@ -42,7 +44,7 @@ export function GenericMockTestClient({ config, questions }: GenericMockTestClie
       {step === 'quiz' && (
         <GenericQuizInterface 
           config={config}
-          questions={questions} 
+          questions={activeQuestions} 
           onComplete={handleQuizComplete} 
         />
       )}
@@ -50,7 +52,7 @@ export function GenericMockTestClient({ config, questions }: GenericMockTestClie
       {step === 'results' && student && (
         <GenericScoreCard 
           config={config}
-          questions={questions} 
+          questions={activeQuestions} 
           answers={answers} 
           student={student}
           onReset={handleReset}

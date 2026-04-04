@@ -215,23 +215,23 @@ export const EXAM_CONFIGS: ExamConfig[] = [
   }
 ];
 
-export function generateMockQuestions(config: ExamConfig): GenericQuestion[] {
+export function generateMockQuestions(config: ExamConfig, setNumber: number = 1): GenericQuestion[] {
   let questions: GenericQuestion[] = [];
-  let idCounter = 1;
+  let idCounter = 1 + (setNumber - 1) * 1000;
   config.sections.forEach(section => {
     for (let i = 0; i < section.questionCount; i++) {
       questions.push({
         id: idCounter,
         sectionId: section.id,
-        text: `Sample ${section.label} Question ${i + 1} for ${config.name}?`,
+        text: `(Set ${setNumber}) Sample ${section.label} Question ${i + 1} for ${config.name}?`,
         options: [
-          `Option A for Q${idCounter}`,
-          `Option B for Q${idCounter}`,
-          `Option C for Q${idCounter}`,
-          `Option D for Q${idCounter}`
+          `Set ${setNumber} Option A for Q${idCounter}`,
+          `Set ${setNumber} Option B for Q${idCounter}`,
+          `Set ${setNumber} Option C for Q${idCounter}`,
+          `Set ${setNumber} Option D for Q${idCounter}`
         ],
-        correctAnswer: (idCounter % 4), // Simple predictable answer logic
-        explanation: `This is the solution and explanation for ${section.label} question ${i + 1}.`
+        correctAnswer: ((idCounter + setNumber) % 4),
+        explanation: `This is the solution and explanation for ${section.label} Set ${setNumber} question ${i + 1}.`
       });
       idCounter++;
     }

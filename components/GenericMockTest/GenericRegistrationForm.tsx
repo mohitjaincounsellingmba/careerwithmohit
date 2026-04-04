@@ -9,6 +9,7 @@ export interface GenericStudentInfo {
   phone: string;
   location: string;
   targetExam: string;
+  selectedSet: number;
 }
 
 interface GenericRegistrationFormProps {
@@ -22,7 +23,8 @@ export function GenericRegistrationForm({ config, onRegister }: GenericRegistrat
     email: '',
     phone: '',
     location: '',
-    targetExam: config.name
+    targetExam: config.name,
+    selectedSet: 1
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -126,13 +128,18 @@ export function GenericRegistrationForm({ config, onRegister }: GenericRegistrat
             />
           </div>
           <div>
-            <label className="block text-sm font-black uppercase mb-2">Preparing For</label>
-            <input
-              type="text"
-              readOnly
-              className="w-full border-4 border-foreground p-3 font-bold bg-gray-50 text-gray-500 cursor-not-allowed uppercase"
-              value={config.name}
-            />
+            <label className="block text-sm font-black uppercase mb-2">Select Mock Test Set</label>
+            <select
+              className="w-full border-4 border-foreground p-3 focus:outline-none focus:ring-4 focus:ring-primary/20 font-bold"
+              value={formData.selectedSet}
+              onChange={(e) => setFormData({ ...formData, selectedSet: parseInt(e.target.value) })}
+            >
+              {[...Array(30)].map((_, i) => (
+                <option key={i + 1} value={i + 1}>
+                  {config.name} - Paper Set {i + 1}
+                </option>
+              ))}
+            </select>
           </div>
         </div>
 
