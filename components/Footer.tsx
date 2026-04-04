@@ -108,6 +108,7 @@ export function Footer() {
           <div>
             <h3 className="font-bold mb-6 text-sm uppercase tracking-widest text-primary">Calculators & Tools</h3>
             <ul className="space-y-4 text-base font-medium">
+              <li><Link href="/calculator/cuet-pg-2026" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-cyan-400 font-black italic underline decoration-wavy">CUET PG 2026 Calculator</Link></li>
               <li><Link href="/tools/cuet-pg-mba-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-blue-500 font-black italic">CUET PG Predictor</Link></li>
               <li><Link href="/tools/btech-college-predictor" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-yellow-500 font-black italic">B.Tech Predictor</Link></li>
               <li><Link href="/tools/college-comparison" className="hover:text-primary hover:translate-x-1 inline-block transition-transform text-indigo-400 font-bold">College Comparison</Link></li>
