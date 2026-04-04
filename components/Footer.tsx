@@ -99,11 +99,6 @@ export function Footer() {
             <h3 className="font-black text-[10px] uppercase tracking-[0.2em] text-primary underline decoration-2 underline-offset-4">Marketing Tools</h3>
             <ul className="space-y-4 text-xs font-bold">
               <li><Link href="/tools/hashtag-generator" className="text-rose-500 font-extrabold transition-all hover:scale-105 inline-block italic">Hashtag Generator 🔥</Link></li>
-              <li><Link href="/sell-your-coaching-online" className="text-accent hover:text-white transition-colors italic">Monetize Audience</Link></li>
-              <li><Link href="/blog/how-to-start-digital-marketing-from-scratch-2026" className="text-gray-400 hover:text-white transition-colors group">Marketing Guide 2026</Link></li>
-              <li><Link href="/blog/why-every-coaching-center-needs-branded-app-2026" className="text-gray-400 hover:text-white transition-colors">Branded App Builder</Link></li>
-              <li><Link href="/tools/ai-skills" className="text-green-500 font-black hover:text-white transition-colors italic">AI for Marketing</Link></li>
-              <li><Link href="/blog/how-youtubers-can-monetize-audience-with-branded-app-2026" className="text-gray-400 hover:text-white transition-colors">Creator Monetization</Link></li>
             </ul>
           </div>
 
