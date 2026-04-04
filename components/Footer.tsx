@@ -98,7 +98,8 @@ export function Footer() {
           <div className="space-y-8">
             <h3 className="font-black text-[10px] uppercase tracking-[0.2em] text-primary underline decoration-2 underline-offset-4">Marketing Tools</h3>
             <ul className="space-y-4 text-xs font-bold">
-              <li><Link href="/tools/hashtag-generator" className="text-rose-500 font-extrabold transition-all hover:scale-105 inline-block italic">Hashtag Generator 🔥</Link></li>
+              <li><Link href="/tools/hashtag-generator" className="text-blue-500 hover:text-white transition-colors group italic">Hashtag Generator 🔥</Link></li>
+              <li><Link href="/tools/instagram-followers-generator" className="text-rose-500 font-extrabold transition-all hover:scale-105 inline-block italic">Instagram Followers 🔥</Link></li>
             </ul>
           </div>
 
