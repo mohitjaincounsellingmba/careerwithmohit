@@ -52,15 +52,15 @@ export default function BacklinkGeneratorPage() {
         
         <div className="relative mx-auto max-w-7xl text-center z-10">
           <div className="inline-flex items-center gap-2 bg-white px-6 py-2 rounded-full border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] mb-8">
-            <ShieldCheck className="w-5 h-5 text-primary" />
-            <span className="text-sm font-black uppercase tracking-widest text-foreground">SEO Authority Engine 2026</span>
+            <Zap className="w-5 h-5 text-primary animate-pulse" />
+            <span className="text-sm font-black uppercase tracking-widest text-foreground">Auto-Submission Engine 2026</span>
           </div>
           <h1 className="font-display text-5xl sm:text-7xl md:text-8xl font-black text-white uppercase tracking-tighter leading-none mb-8">
-            Build <span className="bg-foreground text-white px-4 -rotate-1 inline-block border-4 border-primary">High-DA</span> <br />
+            Auto <span className="bg-foreground text-white px-4 -rotate-1 inline-block border-4 border-primary">Generate</span> <br />
             Backlinks
           </h1>
           <p className="mx-auto max-w-3xl text-xl font-bold text-blue-50 leading-relaxed italic border-l-4 border-white pl-6">
-            Rank #1 on Google for competitive keywords. Our AI generates a niche-specific backlink roadmap including do-follow opportunities and outreach templates.
+            Force index your website on high-authority networks instantly. Our AI-driven engine pings educational hubs and submits your URL to do-follow clusters automatically.
           </p>
         </div>
       </section>

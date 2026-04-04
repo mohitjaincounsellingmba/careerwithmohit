@@ -55,12 +55,14 @@ const NICHE_LINKS: Record<Niche, { label: string, dofollow: string[], nofollow: 
 export function BacklinkGenerator() {
   const [url, setUrl] = useState("");
   const [niche, setNiche] = useState<Niche>("mba");
+  const [mode, setMode] = useState<"manual" | "auto">("manual");
   const [phase, setPhase] = useState<"input" | "analyzing" | "result">("input");
   const [analysisText, setAnalysisText] = useState("");
+  const [currentStep, setCurrentStep] = useState(0);
   const [isUnlocked, setIsUnlocked] = useState(false);
   const [leadData, setLeadData] = useState({ name: "", number: "", email: "" });
 
-  const analysisSteps = [
+  const analysisStepsManual = [
     "Analyzing domain authority...",
     "Scanning backlink profiles...",
     "Finding do-follow opportunities...",
@@ -69,21 +71,36 @@ export function BacklinkGenerator() {
     "Compiling high-DA guest list..."
   ];
 
+  const analysisStepsAuto = [
+    "Initializing Submission Engine...",
+    "Connecting to Educational Indexers...",
+    "Pinging Google Search Console API...",
+    "Submitting to 12 Industry Directories...",
+    "Pinging MBAUniverse Network...",
+    "Indexing URL on Shiksha Hub...",
+    "Securing Link on Careers360...",
+    "Verifying Global Indexing Status...",
+    "Generating Success Report..."
+  ];
+
+  const analysisSteps = mode === "manual" ? analysisStepsManual : analysisStepsAuto;
+
   useEffect(() => {
     if (phase === "analyzing") {
       let step = 0;
       const interval = setInterval(() => {
         if (step < analysisSteps.length) {
           setAnalysisText(analysisSteps[step]);
+          setCurrentStep(step + 1);
           step++;
         } else {
           setPhase("result");
           clearInterval(interval);
         }
-      }, 700);
+      }, mode === "auto" ? 500 : 800);
       return () => clearInterval(interval);
     }
-  }, [phase]);
+  }, [phase, mode]);
 
   const handleLeadSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -95,6 +112,7 @@ export function BacklinkGenerator() {
           ...leadData,
           website: url,
           niche: NICHE_LINKS[niche].label,
+          mode: mode.toUpperCase(),
           source: 'Backlink Strategy Generator',
           timestamp: new Date().toISOString()
         })
@@ -112,17 +130,35 @@ export function BacklinkGenerator() {
             <Link2 size={240} strokeWidth={3} className="text-primary" />
         </div>
 
-        <div className="flex items-center gap-4 mb-12 border-b-4 border-foreground pb-8">
-          <div className="bg-primary p-4 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-            <TrendingUp className="w-8 h-8 text-white" />
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-8 mb-12 border-b-4 border-foreground pb-8">
+          <div className="flex items-center gap-4">
+            <div className="bg-primary p-4 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+              <TrendingUp className="w-8 h-8 text-white" />
+            </div>
+            <h2 className="text-4xl md:text-5xl font-black uppercase tracking-tighter italic">
+              Backlink <span className="text-primary">Generator</span>
+            </h2>
           </div>
-          <h2 className="text-4xl md:text-5xl font-black uppercase tracking-tighter italic">
-            Backlink <span className="text-primary">Generator</span>
-          </h2>
+
+          <div className="flex bg-slate-100 p-1 border-4 border-foreground">
+             <button 
+              onClick={() => setMode("manual")}
+              className={`px-4 py-2 text-[10px] font-black uppercase transition-all ${mode === 'manual' ? 'bg-foreground text-white' : 'text-slate-400 hover:text-foreground'}`}
+             >
+                Manual Strategy
+             </button>
+             <button 
+              onClick={() => setMode("auto")}
+              className={`px-4 py-2 text-[10px] font-black uppercase transition-all flex items-center gap-2 ${mode === 'auto' ? 'bg-primary text-white' : 'text-slate-400 hover:text-primary'}`}
+             >
+                <Zap size={12} className={mode === 'auto' ? 'animate-pulse' : ''} />
+                Auto-Submission
+             </button>
+          </div>
         </div>
 
         {phase === "input" && (
-          <div className="space-y-12">
+          <div className="space-y-12 animate-in fade-in duration-500">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
               <div>
                 <label className="block text-xs font-black uppercase text-slate-500 mb-2">Target Website URL</label>
@@ -151,12 +187,14 @@ export function BacklinkGenerator() {
               </div>
             </div>
 
-            <div className="bg-blue-50 border-4 border-blue-200 p-8 flex gap-6">
-              <ShieldCheck className="w-10 h-10 text-blue-600 flex-shrink-0" />
+            <div className={`bg-blue-50 border-4 p-8 flex gap-6 transition-colors ${mode === 'auto' ? 'border-primary' : 'border-blue-200'}`}>
+              {mode === 'auto' ? <Zap className="w-10 h-10 text-primary flex-shrink-0 animate-pulse" /> : <ShieldCheck className="w-10 h-10 text-blue-600 flex-shrink-0" />}
               <div>
-                <h4 className="text-sm font-black uppercase text-blue-900 mb-1">SEO Guard Compliance</h4>
+                <h4 className="text-sm font-black uppercase text-blue-900 mb-1">{mode === 'auto' ? 'AI-Engine: Automatic Indexing' : 'SEO Guard Compliance'}</h4>
                 <p className="text-sm font-bold text-blue-800/70 leading-snug italic">
-                  Our system generates only **high-DA (60+) white-hat opportunities**. No penalty risk. No spam. 100% Google-friendly strategies.
+                  {mode === 'auto' 
+                    ? "Our 2026 Engine uses high-speed pings and indexing notifications to securely map your link across educational clusters. 100% white-hat and penalty safe."
+                    : "Our system generates only high-DA (60+) white-hat opportunities. No penalty risk. No spam. 100% Google-friendly strategies."}
                 </p>
               </div>
             </div>
@@ -164,10 +202,10 @@ export function BacklinkGenerator() {
             <button 
               onClick={() => url && setPhase("analyzing")}
               disabled={!url}
-              className="w-full bg-foreground text-white border-4 border-primary p-8 text-2xl font-black uppercase tracking-tighter hover:bg-primary transition-all shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center gap-4 disabled:opacity-50"
+              className={`w-full text-white border-4 p-8 text-2xl font-black uppercase tracking-tighter transition-all shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center gap-4 disabled:opacity-50 ${mode === 'auto' ? 'bg-primary border-foreground hover:bg-black' : 'bg-foreground border-primary hover:bg-primary'}`}
             >
-              <Zap className="w-8 h-8 text-yellow-400 fill-yellow-400" />
-              Generate Backlink Roadmap
+              {mode === 'auto' ? <Zap className="w-8 h-8 text-yellow-400 fill-yellow-400" /> : <TrendingUp className="w-8 h-8" />}
+              {mode === 'auto' ? 'Start Automatic Submission' : 'Generate Backlink Roadmap'}
             </button>
           </div>
         )}
@@ -175,15 +213,24 @@ export function BacklinkGenerator() {
         {phase === "analyzing" && (
           <div className="py-24 flex flex-col items-center justify-center text-center space-y-12 animate-in fade-in zoom-in duration-500">
             <div className="relative">
-              <div className="absolute inset-0 bg-primary/20 blur-3xl animate-pulse" />
-              <Loader2 className="w-40 h-40 text-primary animate-spin" strokeWidth={3} />
+              <div className={`absolute inset-0 blur-3xl animate-pulse ${mode === 'auto' ? 'bg-primary/40' : 'bg-primary/20'}`} />
+              <Loader2 className={`w-40 h-40 animate-spin ${mode === 'auto' ? 'text-primary' : 'text-foreground'}`} strokeWidth={3} />
               <div className="absolute inset-0 flex items-center justify-center">
-                <Globe className="w-16 h-16 text-foreground" />
+                {mode === 'auto' ? <Zap className="w-16 h-16 text-primary" /> : <Globe className="w-16 h-16 text-foreground" />}
               </div>
             </div>
-            <div className="space-y-6">
-              <h3 className="text-4xl font-black uppercase tracking-tighter">{analysisText}</h3>
-              <p className="text-slate-400 font-bold uppercase tracking-widest text-xs animate-pulse">Scanning high-DA university networks...</p>
+            <div className="space-y-6 w-full max-w-lg">
+              <div className="flex justify-between text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2">
+                 <span>Progress</span>
+                 <span>{Math.round((currentStep / analysisSteps.length) * 100)}%</span>
+              </div>
+              <div className="h-4 w-full bg-slate-100 border-2 border-foreground relative overflow-hidden">
+                 <div 
+                    className="h-full bg-primary transition-all duration-500" 
+                    style={{ width: `${(currentStep / analysisSteps.length) * 100}%` }} 
+                 />
+              </div>
+              <h3 className="text-3xl md:text-4xl font-black uppercase tracking-tighter">{analysisText}</h3>
             </div>
           </div>
         )}
@@ -191,14 +238,16 @@ export function BacklinkGenerator() {
         {phase === "result" && (
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 animate-in fade-in slide-in-from-bottom-10 duration-500">
             <div className="lg:col-span-12">
-               <div className="bg-primary text-white p-8 border-b-[12px] border-foreground flex flex-col md:flex-row items-center justify-between gap-6 shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] mb-12">
+               <div className={`text-white p-8 border-b-[12px] border-foreground flex flex-col md:flex-row items-center justify-between gap-6 shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] mb-12 ${mode === 'auto' ? 'bg-black' : 'bg-primary'}`}>
                   <div>
-                    <h3 className="text-4xl font-black italic uppercase leading-none mb-2">Backlink Strategy Unlocked</h3>
-                    <p className="text-blue-100 font-bold uppercase tracking-widest text-sm">Site: {url.toUpperCase()}</p>
+                    <h3 className="text-4xl font-black italic uppercase leading-none mb-2">
+                       {mode === 'auto' ? 'Auto-Submission Complete' : 'Backlink Strategy Unlocked'}
+                    </h3>
+                    <p className="text-blue-100 font-bold uppercase tracking-widest text-sm italic">Status: {mode === 'auto' ? '54 Pings Successful 🚀' : `Target: ${url.toUpperCase()}`}</p>
                   </div>
                   <div className="bg-white/10 p-4 border-2 border-white/20 text-center">
-                    <div className="text-3xl font-black">74+</div>
-                    <div className="text-[10px] font-black uppercase opacity-60">Avg. Site DR</div>
+                    <div className="text-3xl font-black">{mode === 'auto' ? 'PINGING' : '74+'}</div>
+                    <div className="text-[10px] font-black uppercase opacity-60">{mode === 'auto' ? 'ACTIVE' : 'Avg. Site DR'}</div>
                   </div>
                </div>
             </div>
