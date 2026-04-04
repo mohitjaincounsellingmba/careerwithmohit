@@ -147,6 +147,22 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'logical', label: 'Logical Reasoning', questionCount: 24 },
       { id: 'quant', label: 'Quantitative Techniques', questionCount: 12 }
     ]
+  },
+  {
+    id: 'cat',
+    slug: 'cat',
+    name: 'CAT 2026',
+    durationMinutes: 120,
+    totalQuestions: 66,
+    targetColleges: 'IIM Ahmedabad, IIM Bangalore, IIM Calcutta, FMS, SPJIMR',
+    goodScore: '99+ Percentile',
+    seoTitle: 'Free CAT Mock Test 2026 | Full Length Practice Paper Online',
+    seoDescription: 'Take a free full-length CAT 2026 mock test. 66 questions, 120 minutes pattern with VARC, DILR, and QA sections. Experience real exam pressure.',
+    sections: [
+      { id: 'varc', label: 'Verbal Ability & Reading Comprehension', questionCount: 24 },
+      { id: 'dilr', label: 'Data Interpretation & Logical Reasoning', questionCount: 20 },
+      { id: 'quant', label: 'Quantitative Ability', questionCount: 22 }
+    ]
   }
 ];
 
