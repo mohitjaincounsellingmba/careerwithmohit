@@ -1,13 +1,29 @@
 import type { Metadata } from "next";
-import { JeeCalculator } from "@/components/JeeCalculator";
+import { JeeScoreCalculator } from "@/components/JeeScoreCalculator";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
-import { ShieldCheck, BarChart3, Zap, HelpCircle } from "lucide-react";
+import { ShieldCheck, Zap, BarChart3, HelpCircle, BookOpen, GraduationCap, Calendar, TrendingUp } from "lucide-react";
+import Link from "next/link";
 
 export const metadata: Metadata = {
-    title: "JEE Main 2026 Score Calculator | Subject-wise Percentile Predictor",
-    description: "Calculate your JEE Main 2026 marks instantly. Accurate +4/-1 marking for MCQs and +4/0 for Numerical questions. Predict your AIR and percentile across Physics, Chemistry, and Maths.",
-    keywords: ["JEE Main score calculator", "JEE Main 2026 percentiles", "JEE Main marking scheme", "NTA JEE Main 2026", "IIT JEE score predictor"],
+    title: "JEE Main 2026 Score Calculator & Response Sheet Checker | Session 2 Predictor",
+    description: "Use our free JEE Main 2026 Session 2 score calculator. Instantly check your raw marks with official NTA marking scheme (+4/-1), parse your response sheet URL, and get predicted percentile for NIT/IIIT admissions.",
+    keywords: [
+        "JEE Main 2026 score calculator",
+        "JEE Main response sheet checker",
+        "JEE Main Session 2 score predictor",
+        "calculate JEE Main marks vs percentile",
+        "JEE Main 2026 rank predictor",
+        "NTA JEE Main 2026 marking scheme",
+        "JEE Main April shift analysis",
+        "JEE Main 2026 cutoff for NITs",
+        "JEE Main marks vs rank 2026",
+    ],
+    openGraph: {
+        title: "JEE Main 2026 Score Calculator & Session 2 Predictor",
+        description: "Free online tool to calculate JEE Main 2026 raw score and predict percentile based on the latest Session 2 exam pattern.",
+        type: "website",
+    },
 };
 
 export default function JeeCalculatorPage() {
@@ -17,85 +33,167 @@ export default function JeeCalculatorPage() {
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the JEE Main 2026 marking scheme?",
+                "name": "How to calculate JEE Main 2026 score using the response sheet?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "For MCQs, you get +4 for a correct answer and -1 for an incorrect answer. For Numerical Value Questions, you get +4 for correct, and there is no negative marking (0) for incorrect answers in the 2025/2026 pattern."
+                    "text": "To calculate your score, multiply your total correct answers by 4 and total incorrect answers by 1. Subtract the incorrect marks from the correct marks to get your total raw score out of 300."
                 }
             },
             {
                 "@type": "Question",
-                "name": "How many questions are mandatory in JEE Main 2026 Section B?",
+                "name": "Is there negative marking in JEE Main 2026 Session 2?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "As per the latest NTA circular, the 'attempt 5 out of 10' rule has been scrapped. All 5 Numerical questions in Section B are now mandatory."
+                    "text": "Yes, there is a negative marking of -1 for every incorrect answer in both MCQs and Numerical Value Questions (NVQs) for JEE Main 2026."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is a good percentile in JEE Main 2026 for NITs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A percentile above 98 is generally considered good for top NITs and IIITs. For core branches in top-tier NITs, a 99+ percentile is ideal."
                 }
             }
         ]
     };
 
     return (
-        <div className="min-h-screen bg-slate-50">
+        <div className="min-h-screen bg-slate-50 font-body">
             <JsonLd data={faqSchema} />
 
-            {/* Hero Header */}
+            {/* Hero Section */}
             <div className="bg-white border-b-8 border-foreground py-16 px-6">
                 <div className="max-w-7xl mx-auto">
                     <Breadcrumbs />
-                    <div className="mt-10 max-w-4xl">
-                        <h1 className="text-5xl md:text-8xl font-black uppercase tracking-tighter leading-[0.85] mb-8">
-                            JEE <span className="text-blue-600 underline decoration-[12px] underline-offset-8">Main 2026</span><br />
-                            Score Master.
+                    <div className="mt-8 max-w-4xl">
+                        <h1 className="text-5xl md:text-7xl lg:text-8xl font-black uppercase tracking-tighter leading-[0.9] mb-8">
+                            Predict your <br />
+                            <span className="text-primary underline decoration-[12px] underline-offset-8">JEE Main</span> Rank.
                         </h1>
-                        <p className="text-xl md:text-2xl font-black text-slate-800 border-l-[12px] border-blue-600 pl-8 leading-tight">
-                            Don't wait for NTA. Calculate your raw internal score and predicted rank across all three subjects instantly.
+                        <p className="text-xl md:text-2xl font-bold text-slate-600 leading-tight border-l-[12px] border-primary pl-8">
+                            Instantly check your JEE Main 2026 Session 2 raw score and predicted percentile. 100% accurate NTA marking scheme implementation for NIT/IIIT/GFTI aspirants.
                         </p>
                     </div>
                 </div>
             </div>
 
-            {/* Calculator Section */}
+            {/* Main Calculator Section */}
             <div className="max-w-7xl mx-auto px-6 py-20">
-                <JeeCalculator />
+                <JeeScoreCalculator />
 
-                {/* Features Content */}
-                <div className="mt-40 grid grid-cols-1 md:grid-cols-3 gap-12">
-                    <div className="p-10 border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(37,99,235,1)]">
-                        <ShieldCheck className="w-12 h-12 text-blue-600 mb-6" />
-                        <h4 className="text-2xl font-black uppercase mb-4 italic">NTA 2026 Logic</h4>
-                        <p className="font-bold text-slate-600">Built with the exact 75-question mandatory pattern for the 2026 session.</p>
-                    </div>
-                    <div className="p-10 border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(245,158,11,1)]">
-                        <BarChart3 className="w-12 h-12 text-amber-500 mb-6" />
-                        <h4 className="text-2xl font-black uppercase mb-4 italic">AIR Predictions</h4>
-                        <p className="font-bold text-slate-600">Advanced mapping of raw scores to expected percentiles based on shift-wise analysis.</p>
-                    </div>
-                    <div className="p-10 border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
-                        <Zap className="w-12 h-12 text-primary mb-6" />
-                        <h4 className="text-2xl font-black uppercase mb-4 italic">Subject Analysis</h4>
-                        <p className="font-bold text-slate-600">Break down your performance in Physics, Chemistry, and Maths separately.</p>
+                {/* Exam Analysis Section */}
+                <div className="mt-32 max-w-4xl">
+                    <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
+                        <BookOpen className="w-10 h-10 text-primary" />
+                        JEE Main 2026 Session 2 Overview
+                    </h2>
+                    <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
+                        <p className="font-bold text-slate-700 leading-relaxed text-lg">
+                            The **JEE Main 2026 Session 2** (April Session) is the final opportunity for students to improve their scores for admission to NITs, IIITs, and GFTIs. The exam pattern remains consistent with 90 questions (75 to be attempted).
+                        </p>
+
+                        <div className="overflow-x-auto border-4 border-foreground mt-6">
+                            <table className="w-full text-left border-collapse">
+                                <thead className="bg-foreground text-white uppercase text-sm font-black tracking-widest">
+                                    <tr>
+                                        <th className="p-5 border-r border-white/20">Parameter</th>
+                                        <th className="p-5">Details</th>
+                                    </tr>
+                                </thead>
+                                <tbody className="text-base font-bold">
+                                    <tr className="border-b-2 border-slate-200">
+                                        <td className="p-5 border-r-2 border-slate-200 font-black">Total Questions</td>
+                                        <td className="p-5">90 (30 each in Physics, Chemistry, Maths)</td>
+                                    </tr>
+                                    <tr className="border-b-2 border-slate-200 bg-slate-50">
+                                        <td className="p-5 border-r-2 border-slate-200 font-black">Questions to Attempt</td>
+                                        <td className="p-5">75 (25 per subject)</td>
+                                    </tr>
+                                    <tr className="border-b-2 border-slate-200">
+                                        <td className="p-5 border-r-2 border-slate-200 font-black">Marking Scheme</td>
+                                        <td className="p-5 text-primary">+4 for Correct | -1 for Incorrect</td>
+                                    </tr>
+                                    <tr className="border-b-2 border-slate-200 bg-slate-50">
+                                        <td className="p-5 border-r-2 border-slate-200 font-black">Total Marks</td>
+                                        <td className="p-5">300</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                 </div>
 
-                {/* High-Intent FAQ */}
-                <div className="mt-40 max-w-5xl">
-                    <h3 className="text-5xl font-black uppercase mb-16 flex items-center gap-6">
-                        <HelpCircle className="w-12 h-12 text-primary" />
-                        JEE 2026 Insights
-                    </h3>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-left">
-                        <div className="bg-white border-4 border-foreground p-10 hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-all">
-                            <h5 className="text-2xl font-black uppercase mb-6 text-blue-700">Is a 180 score good in JEE Main?</h5>
-                            <p className="font-bold text-slate-600 leading-relaxed">
-                                Yes, a 180+ score usually lands you in the 99+ percentile, which is sufficient for admission to top NITs and eligibility for JEE Advanced.
-                            </p>
+                {/* Expected Cutoff for JEE Advanced */}
+                <div className="mt-32 max-w-4xl">
+                    <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
+                        <TrendingUp className="w-10 h-10 text-primary" />
+                        Expected Cutoff for JEE Advanced 2026
+                    </h2>
+                    <div className="overflow-x-auto border-4 border-foreground">
+                        <table className="w-full text-left border-collapse">
+                            <thead className="bg-foreground text-white uppercase text-sm font-black tracking-widest">
+                                <tr>
+                                    <th className="p-5 border-r border-white/20">Category</th>
+                                    <th className="p-5">Expected Percentile Cutoff</th>
+                                </tr>
+                            </thead>
+                            <tbody className="text-lg font-bold">
+                                <tr className="border-b-4 border-foreground bg-white">
+                                    <td className="p-5 border-r-4 border-foreground">General (UR)</td>
+                                    <td className="p-5">91.0 - 92.5</td>
+                                </tr>
+                                <tr className="border-b-4 border-foreground bg-slate-50">
+                                    <td className="p-5 border-r-4 border-foreground">Gen-EWS</td>
+                                    <td className="p-5">76.0 - 78.5</td>
+                                </tr>
+                                <tr className="border-b-4 border-foreground bg-white">
+                                    <td className="p-5 border-r-4 border-foreground">OBC-NCL</td>
+                                    <td className="p-5">74.5 - 76.5</td>
+                                </tr>
+                                <tr className="border-b-4 border-foreground bg-slate-50">
+                                    <td className="p-5 border-r-4 border-foreground">SC</td>
+                                    <td className="p-5">52.0 - 54.5</td>
+                                </tr>
+                                <tr className="bg-white">
+                                    <td className="p-5 border-r-4 border-foreground">ST</td>
+                                    <td className="p-5">37.0 - 39.5</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                {/* FAQ Section */}
+                <div className="mt-32 max-w-4xl">
+                    <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
+                        <HelpCircle className="w-10 h-10 text-primary" />
+                        Frequently Asked Questions
+                    </h2>
+                    <div className="space-y-6">
+                        <div className="bg-white border-4 border-foreground p-8">
+                            <h3 className="text-xl font-black uppercase mb-4">When will JEE Main 2026 Answer Key be released?</h3>
+                            <p className="font-bold text-slate-600">The provisional answer key for Session 2 is expected by the 2nd week of April 2026. Students can challenge the key through the official login.</p>
                         </div>
-                        <div className="bg-white border-4 border-foreground p-10 hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transition-all">
-                            <h5 className="text-2xl font-black uppercase mb-6 text-blue-700">What is the percentile vs rank trend?</h5>
-                            <p className="font-bold text-slate-600 leading-relaxed">
-                                A 99 percentile usually corresponds to an AIR of around 12,000-14,000, depending on the number of unique candidates in the 2026 session.
-                            </p>
+                        <div className="bg-white border-4 border-foreground p-8">
+                            <h3 className="text-xl font-black uppercase mb-4">How does normalization work in JEE Main?</h3>
+                            <p className="font-bold text-slate-600">Normalization accounts for difficulty variations across multiple shifts. It converts raw scores into a NTA Percentile Score to ensure fair competition among all candidates.</p>
                         </div>
+                    </div>
+                </div>
+
+                {/* Related Links */}
+                <div className="mt-32 max-w-4xl">
+                    <h2 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-primary pl-6">
+                        Essential Resources
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <Link href="/blog/jee-main-college-predictor-2026-btech-top-colleges" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                            <span className="font-black text-lg group-hover:text-primary transition-colors">NIT/IIIT College Predictor →</span>
+                        </Link>
+                        <Link href="/blog/total-seats-in-nits-2026-seat-matrix" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                            <span className="font-black text-lg group-hover:text-primary transition-colors">JEE Main Seat Matrix 2026 →</span>
+                        </Link>
                     </div>
                 </div>
             </div>
