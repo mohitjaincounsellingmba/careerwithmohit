@@ -62,14 +62,50 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     name: 'IIT JEE Advanced 2026',
     durationMinutes: 180,
     totalQuestions: 54,
-    targetColleges: 'IITs Only',
+    targetColleges: 'IITs (IIT Roorkee - Organizing Body)',
     goodScore: '140+',
-    seoTitle: 'Free IIT JEE Advanced Mock Test 2026 | Paper 1 Pattern',
-    seoDescription: 'Practice with a full-length IIT JEE Advanced mock test. Experience the real difficulty with Physics, Chemistry, and Mathematics sections.',
+    seoTitle: 'Free IIT JEE Advanced Mock Test 2026 | Full Length Practice Paper',
+    seoDescription: 'Master the IIT JEE Advanced 2026 with our free full-length mock tests. Practice Paper 1 and Paper 2 patterns with multi-correct, integer-type, and matrix-match questions.',
     sections: [
       { id: 'physics', label: 'Physics', questionCount: 18 },
       { id: 'chemistry', label: 'Chemistry', questionCount: 18 },
       { id: 'maths', label: 'Mathematics', questionCount: 18 }
+    ],
+    features: [
+      'Strictly follows JEE Advanced 2026 Pattern',
+      'Complex Question Types (NAT, Matrix Match, Multiple Correct)',
+      'Detailed Performance Analytics and Rank Predictor',
+      'Compulsory Paper 1 and Paper 2 Mock Simulation',
+      'Designed by Top IITians and Subject Matter Experts',
+      'Full Syllabus Coverage (Class 11 & 12)'
+    ],
+    faqs: [
+      {
+        question: 'What is the exam date for JEE Advanced 2026?',
+        answer: 'JEE Advanced 2026 is scheduled to be conducted on May 17, 2026, by IIT Roorkee. Both Paper 1 and Paper 2 are mandatory.'
+      },
+      {
+        question: 'Can I choose my Paper 1 or Paper 2?',
+        answer: 'No, both Paper 1 (morning shift) and Paper 2 (afternoon shift) are compulsory to be eligible for ranking in JEE Advanced.'
+      },
+      {
+        question: 'Is there a specific curriculum for JEE Advanced 2026?',
+        answer: 'The syllabus covers advanced concepts of Physics, Chemistry, and Mathematics from Class 11 and 12. It includes additional topics not present in JEE Main, such as Thermal Physics in detail and specialized Calculus topics.'
+      },
+      {
+        question: 'How many attempts are allowed for JEE Advanced?',
+        answer: 'A candidate can attempt JEE Advanced a maximum of two times in consecutive years, provided they qualify via JEE Main.'
+      }
+    ],
+    examDetails: [
+      {
+        title: 'JEE Advanced 2026 Curriculum Overview',
+        content: 'The curriculum for JEE Advanced involves deep conceptual understanding. Physics focuses on Mechanics, Modern Physics, and Electromagnetism. Chemistry spans over Physical, Organic (GOC & Carbonyls), and Inorganic (P-block). Mathematics emphasizes Calculus, Vectors, 3D Geometry, and Complex Numbers.'
+      },
+      {
+        title: 'Understanding the Difficulty Level',
+        content: 'Unlike JEE Main, which focuses on speed and accuracy, JEE Advanced tests your analytical problem-solving skills under time pressure. The questions often combine concepts from multiple chapters, requiring students to have a holistic view of the syllabus.'
+      }
     ]
   },
   {
