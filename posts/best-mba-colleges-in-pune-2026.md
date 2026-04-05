@@ -142,6 +142,11 @@ Perfect for students looking for decent placements with moderate entrance scores
 
 ---
 
+> [!TIP]
+> **MAH MBA CET 2026 Aspirants:** If you are planning to take admission through the Maharashtra State CAP rounds, check out our detailed guide on [Top MAH MBA CET Colleges in Pune with Expected 2026 Cutoffs](/top-mhcet-mba-colleges-pune-2026-cutoffs-fees).
+
+---
+
 ## Conclusion: Which One Should You Choose?
 
 - **If you have a 95+ score in CAT/SNAP:** Aim for **SIBM, SCMHRD, or NIBM**.
