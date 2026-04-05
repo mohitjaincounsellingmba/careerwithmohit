@@ -332,6 +332,436 @@ export const EXAM_CONFIGS: ExamConfig[] = [
         content: 'Since there is no negative marking, never leave a question unattempted. However, NMAT is a high-speed exam. Managing your time per question is critical, especially in the Language section where you have less than a minute per question.'
       }
     ]
+  },
+  {
+    id: 'ssc-cgl',
+    slug: 'ssc-cgl',
+    name: 'SSC CGL 2026',
+    durationMinutes: 60,
+    totalQuestions: 100,
+    targetColleges: 'Income Tax, Excise, CBI, MEA Departments',
+    goodScore: '160+',
+    seoTitle: 'Free SSC CGL Mock Test 2026 | Full Length Tier 1 Practice',
+    seoDescription: 'Take a free full-length SSC CGL 2026 Tier 1 mock test. 100 questions in 60 minutes covering Quant, Reasoning, English, and GS.',
+    sections: [
+      { id: 'reasoning', label: 'General Intelligence & Reasoning', questionCount: 25 },
+      { id: 'gk', label: 'General Awareness', questionCount: 25 },
+      { id: 'quant', label: 'Quantitative Aptitude', questionCount: 25 },
+      { id: 'english', label: 'English Comprehension', questionCount: 25 }
+    ]
+  },
+  {
+    id: 'ssc-chsl',
+    slug: 'ssc-chsl',
+    name: 'SSC CHSL 2026',
+    durationMinutes: 60,
+    totalQuestions: 100,
+    targetColleges: 'LDC, DEO, JSA Govt Roles',
+    goodScore: '150+',
+    seoTitle: 'Free SSC CHSL Mock Test 2026 | Tier 1 Practice Paper',
+    seoDescription: 'Attempt the official SSC CHSL pattern mock test. 100 questions in 1 hour. Accurate interface for 10+2 level govt exams.',
+    sections: [
+      { id: 'reasoning', label: 'Reasoning', questionCount: 25 },
+      { id: 'gk', label: 'General Awareness', questionCount: 25 },
+      { id: 'quant', label: 'Maths', questionCount: 25 },
+      { id: 'english', label: 'English', questionCount: 25 }
+    ]
+  },
+  {
+    id: 'ibps-po',
+    slug: 'ibps-po',
+    name: 'IBPS PO 2026',
+    durationMinutes: 60,
+    totalQuestions: 100,
+    targetColleges: 'Public Sector Banks (PNB, BOB, etc.)',
+    goodScore: '70+',
+    seoTitle: 'Free IBPS PO Mock Test 2026 | Banking Prelims Simulation',
+    seoDescription: 'Practice for IBPS PO Prelims with our free mock test series. 100 questions with sectional timings for Quant, Reasoning, and English.',
+    sections: [
+      { id: 'english', label: 'English Language', questionCount: 30 },
+      { id: 'quant', label: 'Quantitative Aptitude', questionCount: 35 },
+      { id: 'reasoning', label: 'Reasoning Ability', questionCount: 35 }
+    ]
+  },
+  {
+    id: 'sbi-po',
+    slug: 'sbi-po',
+    name: 'SBI PO 2026',
+    durationMinutes: 60,
+    totalQuestions: 100,
+    targetColleges: 'State Bank of India',
+    goodScore: '65+',
+    seoTitle: 'Free SBI PO Mock Test 2026 | High Difficulty Banking Prep',
+    seoDescription: 'Attempt the hardest SBI PO prelims mock test online. 100 questions designed for SBI standards. Clear the cutoff with our free series.',
+    sections: [
+      { id: 'english', label: 'English', questionCount: 30 },
+      { id: 'quant', label: 'Quant', questionCount: 35 },
+      { id: 'reasoning', label: 'Reasoning', questionCount: 35 }
+    ]
+  },
+  {
+    id: 'rrb-ntpc',
+    slug: 'rrb-ntpc',
+    name: 'RRB NTPC 2026',
+    durationMinutes: 90,
+    totalQuestions: 100,
+    targetColleges: 'Indian Railways (ASM, Goods Guard, etc.)',
+    goodScore: '85+',
+    seoTitle: 'Free RRB NTPC Mock Test 2026 | Railway Entrance Exam',
+    seoDescription: 'Railway recruitment board NTPC CBT 1 mock test. 100 questions in 90 minutes. Static GK and Railway special focus.',
+    sections: [
+      { id: 'quant', label: 'Mathematics', questionCount: 30 },
+      { id: 'reasoning', label: 'General Intelligence', questionCount: 30 },
+      { id: 'ga', label: 'General Awareness', questionCount: 40 }
+    ]
+  },
+  {
+    id: 'upsc-cse',
+    slug: 'upsc-cse',
+    name: 'UPSC CSE (Prelims) 2026',
+    durationMinutes: 120,
+    totalQuestions: 100,
+    targetColleges: 'IAS, IPS, IFS (Civil Services)',
+    goodScore: '100+',
+    seoTitle: 'Free UPSC Prelims GS Mock Test 2026 | Civil Services Hub',
+    seoDescription: 'Prepare for UPSC Prelims GS Paper 1 with our comprehensive mock test. 100 high-quality questions on History, Polity, Geography, and current affairs.',
+    sections: [
+      { id: 'history', label: 'History & Culture', questionCount: 20 },
+      { id: 'polity', label: 'Polity & Governance', questionCount: 20 },
+      { id: 'geo-env', label: 'Geography & Environment', questionCount: 25 },
+      { id: 'eco-ca', label: 'Economy & Current Affairs', questionCount: 35 }
+    ]
+  },
+  {
+    id: 'ctet',
+    slug: 'ctet',
+    name: 'CTET 2026 (Paper 1)',
+    durationMinutes: 150,
+    totalQuestions: 150,
+    targetColleges: 'Central & State Teaching Eligibility',
+    goodScore: '120+',
+    seoTitle: 'Free CTET Mock Test 2026 | Teaching Pedagogy Special',
+    seoDescription: 'Mock test for CTET 2026 candidates. 150 questions covering CDP, EVS, Maths, and Hindi/English. Free practice for teachers.',
+    sections: [
+      { id: 'cdp', label: 'Child Development & Pedagogy', questionCount: 30 },
+      { id: 'evs', label: 'EVS', questionCount: 30 },
+      { id: 'maths', label: 'Mathematics', questionCount: 30 },
+      { id: 'lang1', label: 'Language 1', questionCount: 30 },
+      { id: 'lang2', label: 'Language 2', questionCount: 30 }
+    ]
+  },
+  {
+    id: 'rbi-grade-b',
+    slug: 'rbi-grade-b',
+    name: 'RBI Grade B Phase 1 2026',
+    durationMinutes: 120,
+    totalQuestions: 200,
+    targetColleges: 'Reserve Bank of India Officers',
+    goodScore: '110+',
+    seoTitle: 'Free RBI Grade B Mock Test 2026 | Officer Grade Prep',
+    seoDescription: 'Elite mock test for RBI Grade B Phase 1. 200 questions including General Awareness, Reasoning, and ESI focus.',
+    sections: [
+      { id: 'ga', label: 'General Awareness', questionCount: 80 },
+      { id: 'lr', label: 'Reasoning', questionCount: 60 },
+      { id: 'english', label: 'English', questionCount: 30 },
+      { id: 'quant', label: 'Quant', questionCount: 30 }
+    ]
+  },
+  {
+    id: 'nda',
+    slug: 'nda',
+    name: 'NDA GAT 2026',
+    durationMinutes: 150,
+    totalQuestions: 150,
+    targetColleges: 'National Defence Academy (Army, Navy, AF)',
+    goodScore: '350+',
+    seoTitle: 'Free NDA GAT Mock Test 2026 | Defence Entrance Prep',
+    seoDescription: 'Take the NDA General Ability Test mock. 150 questions on English and General Knowledge. Prepare for UPSC NDA exam.',
+    sections: [
+      { id: 'english', label: 'English', questionCount: 50 },
+      { id: 'gk', label: 'General Knowledge', questionCount: 100 }
+    ]
+  },
+  {
+    id: 'cuet-ug',
+    slug: 'cuet-ug',
+    name: 'CUET UG 2026 (General Test)',
+    durationMinutes: 60,
+    totalQuestions: 60,
+    targetColleges: 'DU, BHU, JNU, Central Universities',
+    goodScore: '50+',
+    seoTitle: 'Free CUET Mock Test 2026 | General Test Practice',
+    seoDescription: 'Master the CUET UG 2026 General Test. 60 questions covering GK, Mental Ability, and Numerical Reasoning.',
+    sections: [
+      { id: 'gk-ca', label: 'GK & Current Affairs', questionCount: 20 },
+      { id: 'mental-ability', label: 'Mental Ability', questionCount: 20 },
+      { id: 'numerical', label: 'Numerical Ability', questionCount: 20 }
+    ]
+  },
+  {
+    id: 'ssc-mts',
+    slug: 'ssc-mts',
+    name: 'SSC MTS 2026',
+    durationMinutes: 90,
+    totalQuestions: 90,
+    targetColleges: 'Multi-Tasking Staff Govt Departments',
+    goodScore: '80+',
+    seoTitle: 'Free SSC MTS Mock Test 2026 | Full Length Practice Paper',
+    seoDescription: 'Attempt the SSC MTS mock test based on the latest pattern. 90 questions in 90 minutes. Focus on scoring sections for govt selection.',
+    sections: [
+      { id: 'num-math', label: 'Numerical & Math Ability', questionCount: 20 },
+      { id: 'reasoning', label: 'Reasoning Ability', questionCount: 20 },
+      { id: 'ga', label: 'General Awareness', questionCount: 25 },
+      { id: 'english', label: 'English Language', questionCount: 25 }
+    ]
+  },
+  {
+    id: 'ibps-clerk',
+    slug: 'ibps-clerk',
+    name: 'IBPS Clerk 2026',
+    durationMinutes: 60,
+    totalQuestions: 100,
+    targetColleges: 'Participating Public Sector Banks',
+    goodScore: '75+',
+    seoTitle: 'Free IBPS Clerk Mock Test 2026 | Banking Assistant Prep',
+    seoDescription: 'Prepare for IBPS Clerk with our free mock tests. 100 questions, 60 minutes. Sectional timings and detailed solutions included.',
+    sections: [
+      { id: 'english', label: 'English', questionCount: 30 },
+      { id: 'quant', label: 'Quant', questionCount: 35 },
+      { id: 'reasoning', label: 'Reasoning', questionCount: 35 }
+    ]
+  },
+  {
+    id: 'sbi-clerk',
+    slug: 'sbi-clerk',
+    name: 'SBI Clerk 2026',
+    durationMinutes: 60,
+    totalQuestions: 100,
+    targetColleges: 'State Bank of India Junior Associates',
+    goodScore: '80+',
+    seoTitle: 'Free SBI Clerk Mock Test 2026 | Online Practice Series',
+    seoDescription: 'Boost your speed with SBI Clerk Prelims mock test. 100 questions in 60 minutes. Realistic SBI-style simulation.',
+    sections: [
+      { id: 'english', label: 'English', questionCount: 30 },
+      { id: 'quant', label: 'Quant', questionCount: 35 },
+      { id: 'reasoning', label: 'Reasoning', questionCount: 35 }
+    ]
+  },
+  {
+    id: 'rbi-assistant',
+    slug: 'rbi-assistant',
+    name: 'RBI Assistant 2026',
+    durationMinutes: 60,
+    totalQuestions: 100,
+    targetColleges: 'Reserve Bank of India Offices',
+    goodScore: '90+',
+    seoTitle: 'Free RBI Assistant Mock Test 2026 | High Speed Banking Prep',
+    seoDescription: 'Practice for RBI Assistant Prelims. 100 questions with a focus on speed and accuracy. Free full-length mock series.',
+    sections: [
+      { id: 'english', label: 'English', questionCount: 30 },
+      { id: 'quant', label: 'Quant', questionCount: 35 },
+      { id: 'reasoning', label: 'Reasoning', questionCount: 35 }
+    ]
+  },
+  {
+    id: 'rrb-alp',
+    slug: 'rrb-alp',
+    name: 'RRB ALP 2026',
+    durationMinutes: 60,
+    totalQuestions: 75,
+    targetColleges: 'Indian Railways (Loco Pilot)',
+    goodScore: '55+',
+    seoTitle: 'Free RRB ALP Mock Test 2026 | Assistant Loco Pilot Prep',
+    seoDescription: 'Mock test for RRB ALP CBT 1. 75 questions in 60 minutes covering Science, Math, and Reasoning.',
+    sections: [
+      { id: 'math', label: 'Mathematics', questionCount: 20 },
+      { id: 'reasoning', label: 'Mental Ability', questionCount: 25 },
+      { id: 'science', label: 'General Science', questionCount: 20 },
+      { id: 'ga-ca', label: 'General Awareness', questionCount: 10 }
+    ]
+  },
+  {
+    id: 'upsc-epfo',
+    slug: 'upsc-epfo',
+    name: 'UPSC EPFO 2026',
+    durationMinutes: 120,
+    totalQuestions: 120,
+    targetColleges: 'Enforcement Officer / Accounts Officer',
+    goodScore: '80+',
+    seoTitle: 'Free UPSC EPFO Mock Test 2026 | Officer Grade Practice',
+    seoDescription: 'UPSC EPFO RT Exam mock test. 120 questions on Labor Laws, Accounts, English, and General Science.',
+    sections: [
+      { id: 'english', label: 'English', questionCount: 20 },
+      { id: 'labor-laws', label: 'Labor Laws & Social Security', questionCount: 25 },
+      { id: 'accounts', label: 'General Accounting Principles', questionCount: 15 },
+      { id: 'gs-quant', label: 'GS & Quant', questionCount: 60 }
+    ]
+  },
+  {
+    id: 'lic-aao',
+    slug: 'lic-aao',
+    name: 'LIC AAO 2026',
+    durationMinutes: 60,
+    totalQuestions: 100,
+    targetColleges: 'Life Insurance Corporation of India',
+    goodScore: '60+',
+    seoTitle: 'Free LIC AAO Mock Test 2026 | Insurance Officer Prep',
+    seoDescription: 'Practice for LIC AAO Prelims with our free mock test. 100 questions on Reasoning, Quant, and English (qualifying).',
+    sections: [
+      { id: 'reasoning', label: 'Reasoning', questionCount: 35 },
+      { id: 'quant', label: 'Quant', questionCount: 35 },
+      { id: 'english', label: 'English (Qualifying)', questionCount: 30 }
+    ]
+  },
+  {
+    id: 'nabard-grade-a',
+    slug: 'nabard-grade-a',
+    name: 'NABARD Grade A 2026',
+    durationMinutes: 120,
+    totalQuestions: 200,
+    targetColleges: 'NABARD Offices',
+    goodScore: '100+',
+    seoTitle: 'Free NABARD Grade A Mock Test 2026 | RDBS Prep',
+    seoDescription: 'Full length mock test for NABARD Grade A. 200 questions including ARD and ESI sections.',
+    sections: [
+      { id: 'ard', label: 'Agriculture & Rural Development', questionCount: 40 },
+      { id: 'esi', label: 'Economic & Social Issues', questionCount: 40 },
+      { id: 'ga', label: 'General Awareness', questionCount: 20 },
+      { id: 'other', label: 'Reasoning, English, Quant & IT', questionCount: 100 }
+    ]
+  },
+  {
+    id: 'cds',
+    slug: 'cds',
+    name: 'CDS (Elementary Maths) 2026',
+    durationMinutes: 120,
+    totalQuestions: 100,
+    targetColleges: 'IMA, OTA, AFA, INA',
+    goodScore: '60+',
+    seoTitle: 'Free CDS Mock Test 2026 | Combined Defence Services Prep',
+    seoDescription: 'Take CDS Elementary Maths mock test. 100 questions in 2 hours. Practice for UPSC CDS exams.',
+    sections: [
+      { id: 'arithmetic', label: 'Arithmetic', questionCount: 40 },
+      { id: 'algebra', label: 'Algebra & Geometry', questionCount: 40 },
+      { id: 'trig-stat', label: 'Trigonometry & Statistics', questionCount: 20 }
+    ]
+  },
+  {
+    id: 'afcat',
+    slug: 'afcat',
+    name: 'AFCAT 2026',
+    durationMinutes: 120,
+    totalQuestions: 100,
+    targetColleges: 'Indian Air Force Officers',
+    goodScore: '180+',
+    seoTitle: 'Free AFCAT Mock Test 2026 | Air Force Common Admission',
+    seoDescription: 'Practice for AFCAT 2026 online. 100 questions covering English, GK, Maths, and Military Reasoning. Get your AFCAT score now.',
+    sections: [
+      { id: 'english', label: 'English', questionCount: 30 },
+      { id: 'gk', label: 'General Knowledge', questionCount: 25 },
+      { id: 'quant', label: 'Numerical Ability', questionCount: 20 },
+      { id: 'reasoning', label: 'Reasoning & Military Aptitude', questionCount: 25 }
+    ]
+  },
+  {
+    id: 'reet',
+    slug: 'reet',
+    name: 'REET Level 1 2026',
+    durationMinutes: 150,
+    totalQuestions: 150,
+    targetColleges: 'Rajasthan Primary Teachers',
+    goodScore: '125+',
+    seoTitle: 'Free REET Mock Test 2026 | Rajasthan Teacher Exam',
+    seoDescription: 'Mock test for REET 2026 Level 1. 150 questions on CDP, Rajasthan GK, Hindi/English, and EVS.',
+    sections: [
+      { id: 'cdp', label: 'Child Development', questionCount: 30 },
+      { id: 'lang1', label: 'Language 1', questionCount: 30 },
+      { id: 'lang2', label: 'Language 2', questionCount: 30 },
+      { id: 'maths', label: 'Mathematics', questionCount: 30 },
+      { id: 'evs', label: 'EVS', questionCount: 30 }
+    ]
+  },
+  {
+    id: 'rpsc-ras',
+    slug: 'rpsc-ras',
+    name: 'RPSC RAS Prelims 2026',
+    durationMinutes: 180,
+    totalQuestions: 150,
+    targetColleges: 'Rajasthan Administrative Services',
+    goodScore: '90+',
+    seoTitle: 'Free RPSC RAS Mock Test 2026 | Rajasthan Prelims GS',
+    seoDescription: 'Full length RAS prelims mock test. 150 questions with special focus on Rajasthan Economy and Culture.',
+    sections: [
+      { id: 'raj-special', label: 'Rajasthan Arts, History & Economy', questionCount: 50 },
+      { id: 'indian-gs', label: 'Indian History & Polity', questionCount: 50 },
+      { id: 'quant-lr', label: 'Mental Ability & Maths', questionCount: 20 },
+      { id: 'ca-science', label: 'Science & Current Affairs', questionCount: 30 }
+    ]
+  },
+  {
+    id: 'uppsc-pcs',
+    slug: 'uppsc-pcs',
+    name: 'UPPSC PCS Prelims 2026',
+    durationMinutes: 120,
+    totalQuestions: 150,
+    targetColleges: 'UP State Civil Services',
+    goodScore: '95+',
+    seoTitle: 'Free UPPSC Mock Test 2026 | Uttar Pradesh Civil Services',
+    seoDescription: 'Practice for UPPSC PCS Paper 1 online. 150 questions covering UP Special and General GS.',
+    sections: [
+      { id: 'gs-general', label: 'General Studies', questionCount: 120 },
+      { id: 'up-special', label: 'UP Special GK', questionCount: 30 }
+    ]
+  },
+  {
+    id: 'bpsc',
+    slug: 'bpsc',
+    name: 'BPSC Prelims 2026',
+    durationMinutes: 120,
+    totalQuestions: 150,
+    targetColleges: 'Bihar Administrative Services',
+    goodScore: '100+',
+    seoTitle: 'Free BPSC Mock Test 2026 | Bihar Civil Services Prep',
+    seoDescription: 'Attempt the BPSC 71st/72nd Prelims mock test. 150 questions on Bihar History, Science, and Current Affairs.',
+    sections: [
+      { id: 'history-bihar', label: 'History & Bihar Special', questionCount: 50 },
+      { id: 'science', label: 'General Science', questionCount: 30 },
+      { id: 'ca-other', label: 'Current Affairs & Other GS', questionCount: 70 }
+    ]
+  },
+  {
+    id: 'upsssc-pet',
+    slug: 'upsssc-pet',
+    name: 'UPSSSC PET 2026',
+    durationMinutes: 120,
+    totalQuestions: 100,
+    targetColleges: 'UP Group C & D Govt Jobs',
+    goodScore: '80+',
+    seoTitle: 'Free UPSSSC PET Mock Test 2026 | UP Prelims Practice',
+    seoDescription: 'Mock test for UPSSSC PET. 100 questions covering Table/Graph analysis and GS.',
+    sections: [
+      { id: 'gs-history', label: 'History & Geography', questionCount: 20 },
+      { id: 'hindi-english', label: 'Hindi & English', questionCount: 15 },
+      { id: 'quant-lr', label: 'Maths & Reasoning', questionCount: 15 },
+      { id: 'graph-table', label: 'Graph & Table Analysis', questionCount: 20 },
+      { id: 'ca-gs', label: 'Current Affairs & GS', questionCount: 30 }
+    ]
+  },
+  {
+    id: 'dsssb',
+    slug: 'dsssb',
+    name: 'DSSSB PRT/TGT 2026',
+    durationMinutes: 120,
+    totalQuestions: 200,
+    targetColleges: 'Delhi Govt Teaching & Admin Roles',
+    goodScore: '140+',
+    seoTitle: 'Free DSSSB Mock Test 2026 | Delhi Selection Board Prep',
+    seoDescription: 'Mock test for DSSSB exams. 200 questions including General Paper and Teaching Methodology.',
+    sections: [
+      { id: 'gen-paper', label: 'General Awareness, Reasoning & Quant', questionCount: 60 },
+      { id: 'lang', label: 'Hindi & English Language', questionCount: 40 },
+      { id: 'subject', label: 'Subject Knowledge/Pedagogy', questionCount: 100 }
+    ]
   }
 ];
 

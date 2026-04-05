@@ -26,15 +26,23 @@ export async function generateMetadata({ params }: { params: Promise<{ examSlug:
   };
 }
 
-export default async function ExamMockTestPage({ params }: { params: Promise<{ examSlug: string }> }) {
+export default async function ExamMockTestPage({ 
+  params, 
+  searchParams 
+}: { 
+  params: Promise<{ examSlug: string }>,
+  searchParams: Promise<{ set?: string }>
+}) {
   const resolvedParams = await params;
+  const resolvedSearchParams = await searchParams;
   const config = EXAM_CONFIGS.find(c => c.slug === resolvedParams.examSlug);
   
   if (!config) {
     notFound();
   }
 
-  const questions = generateMockQuestions(config);
+  const setNumber = parseInt(resolvedSearchParams.set || '1') || 1;
+  const questions = generateMockQuestions(config, setNumber);
 
   const jsonLd: any = {
     "@context": "https://schema.org",
