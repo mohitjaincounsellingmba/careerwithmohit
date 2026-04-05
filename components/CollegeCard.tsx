@@ -32,7 +32,7 @@ export function CollegeCard({ college }: { college: CollegeMetadata }) {
       <div className="p-8 flex flex-col flex-grow">
         {/* College Identity */}
         <div className="mb-8 pt-4">
-          <Link href={`/colleges/${college.slug}`} className="block group/link">
+          <Link href={`/colleges/${college.slug}`} prefetch={false} className="block group/link">
             <h3 className="text-2xl font-black text-slate-900 group-hover/link:text-blue-600 transition-colors mb-3 leading-tight tracking-tighter">
               {college.name}
             </h3>
@@ -154,6 +154,7 @@ export function CollegeCard({ college }: { college: CollegeMetadata }) {
               </button>
               <Link
                 href={`/colleges/${college.slug}`}
+                prefetch={false}
                 className="flex items-center gap-2 bg-slate-900 text-white px-6 py-4 rounded-2xl font-black text-xs uppercase tracking-widest hover:bg-blue-600 transition-all shadow-xl shadow-slate-200 group/btn"
               >
                 Profile 

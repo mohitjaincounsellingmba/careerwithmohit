@@ -96,6 +96,7 @@ export function Footer() {
               <li><Link href="/tools/jee-main-mock-test" className="text-gray-400 hover:text-white transition-colors">JEE Main</Link></li>
               <li><Link href="/tools/jee-advanced-mock-test" className="text-primary font-black hover:text-white transition-colors">JEE Advanced 🚀</Link></li>
               <li><Link href="/tools/bitsat-mock-test" className="text-gray-400 hover:text-white transition-colors">BITSAT Prep</Link></li>
+              <li><Link href="/tools/mock-test/viteee" className="text-cyan-400 font-black hover:scale-105 transition-transform inline-block">VITEEE 2026 🎯</Link></li>
               <li><Link href="/tools/mhcet-mock-test" className="text-secondary font-black hover:text-white transition-colors">MHCET MBA Hub</Link></li>
               <li><Link href="/tools/mock-test/neet" className="text-[9px] text-gray-500 hover:text-white transition-colors italic">NEET Test Series</Link></li>
             </ul>

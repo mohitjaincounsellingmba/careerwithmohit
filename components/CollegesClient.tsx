@@ -569,6 +569,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                 <Link
                   key={post.slug}
                   href={`/blog/${post.slug}`}
+                  prefetch={false}
                   className="group flex flex-col justify-between bg-white border border-slate-100 rounded-2xl p-5 hover:border-blue-200 hover:shadow-lg hover:shadow-blue-50 transition-all duration-200 hover:-translate-y-1"
                 >
                   <div>

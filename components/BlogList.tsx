@@ -162,6 +162,7 @@ export function BlogList({ initialPosts }: { initialPosts: PostData[] }) {
             <Link 
               key={slug} 
               href={`/blog/${slug}`} 
+              prefetch={false}
               className="group flex flex-col rounded-xl border-4 border-foreground bg-white p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 hover:bg-gray-50 h-full shadow-[6px_6px_0px_0px_rgba(59,130,246,1)]"
             >
               <div className="mb-6 inline-block rounded-full bg-accent px-4 py-1 text-sm font-bold uppercase tracking-widest text-foreground border-2 border-foreground self-start">
