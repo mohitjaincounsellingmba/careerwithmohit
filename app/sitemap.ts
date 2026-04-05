@@ -27,7 +27,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/ai-skills',
     '/tools/mhcet-mock-test',
     '/tools/hashtag-generator',
-    '/tools/instagram-followers-generator',
     '/services',
     '/sell-your-coaching-online',
   ].map((route) => ({
