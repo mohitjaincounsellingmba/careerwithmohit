@@ -92,6 +92,13 @@ For those looking to pursue their **MBA overseas** (International B-schools).
 
 ---
 
+### **6. Maharashtra State Scholarships (MAH MBA CET)**
+If you are appearing for MAH CET and seeking admission in Maharashtra, you might be eligible for state-specific fee reimbursements (EBC, SC/ST/OBC schemes) via the MahaDBT portal.
+
+[👉 View Detail Guide: MAH MBA CET Scholarship 2026 Eligibility & Process](/mah-mba-cet-scholarship-2026-eligibility-application-process)
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Can I apply for multiple MBA scholarships?

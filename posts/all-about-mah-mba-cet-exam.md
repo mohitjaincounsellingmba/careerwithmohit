@@ -77,4 +77,9 @@ To get into JBIMS, a percentile of **99.99** is typically required, which usuall
 ### 4. Which are the top colleges accepting CET scores in Pune?
 Top colleges in Pune include **PUMBA, Indira Institute of Management, and COEP**.
 
+### 5. Can I get a scholarship for MBA via MAH CET?
+Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.
+
+[👉 Read our detailed MAH MBA CET Scholarship Guide 2026](/mah-mba-cet-scholarship-2026-eligibility-application-process)
+
 [👉 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)
