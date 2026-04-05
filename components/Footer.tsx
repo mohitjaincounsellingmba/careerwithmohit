@@ -87,6 +87,7 @@ export function Footer() {
             <h3 className="font-black text-[10px] uppercase tracking-[0.2em] text-primary underline decoration-2 underline-offset-4">Mock Test Hub</h3>
             <ul className="grid grid-cols-1 gap-4 text-[10px] font-bold uppercase tracking-wider">
               <li><Link href="/tools/cat-mock-test" className="text-orange-400 font-black hover:scale-105 transition-transform inline-block">CAT 2026 🔥</Link></li>
+              <li><Link href="/tools/nmat-mock-test" className="text-secondary font-black hover:scale-105 transition-transform inline-block">NMAT 2026 ✨</Link></li>
               <li><Link href="/tools/jee-main-mock-test" className="text-gray-400 hover:text-white transition-colors">JEE Main</Link></li>
               <li><Link href="/tools/jee-advanced-mock-test" className="text-primary font-black hover:text-white transition-colors">JEE Advanced 🚀</Link></li>
               <li><Link href="/tools/bitsat-mock-test" className="text-gray-400 hover:text-white transition-colors">BITSAT Prep</Link></li>

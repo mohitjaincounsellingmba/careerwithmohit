@@ -280,6 +280,58 @@ export const EXAM_CONFIGS: ExamConfig[] = [
         content: 'CAT follows a strict marking scheme: +3 marks for every correct answer and -1 mark for every incorrect MCQ. TITA (Type in The Answer) questions do not have negative marking. It is crucial to maximize accuracy in VARC, choose the right sets in DILR, and manage time smartly in QA.'
       }
     ]
+  },
+  {
+    id: 'nmat',
+    slug: 'nmat',
+    name: 'NMAT 2026',
+    durationMinutes: 120,
+    totalQuestions: 108,
+    targetColleges: 'NMIMS Mumbai, SPJIMR, ISB, VIT, XIMB',
+    goodScore: '230+',
+    seoTitle: 'Free NMAT Mock Test 2026 | NMIMS Admission Practice Tool',
+    seoDescription: 'Take our free adaptive-style NMAT 2026 mock test. 108 questions across Language, Quants, and Logic. Benchmarked for NMIMS Mumbai and top B-schools.',
+    sections: [
+      { id: 'language', label: 'Language Skills', questionCount: 36 },
+      { id: 'quant', label: 'Quantitative Skills', questionCount: 36 },
+      { id: 'logic', label: 'Logical Reasoning', questionCount: 36 }
+    ],
+    features: [
+      'Realistic NMAT 2026 Exam Simulation',
+      'Sectional Timings (28m, 52m, 40m)',
+      'No Negative Marking Pattern',
+      'Instant Scaled Score Estimation',
+      'NMIMS Mumbai Cutoff Analysis',
+      'Detailed Step-by-Step Solutions'
+    ],
+    faqs: [
+      {
+        question: 'What is the pattern of NMAT 2026?',
+        answer: 'NMAT 2026 consists of 108 questions to be answered in 120 minutes. The sections are Language Skills (36 questions, 28 mins), Quantitative Skills (36 questions, 52 mins), and Logical Reasoning (36 questions, 40 mins).'
+      },
+      {
+        question: 'Is there negative marking in NMAT?',
+        answer: 'No, NMAT does not have negative marking. This makes it unique compared to CAT or XAT, allowing students to attempt all questions.'
+      },
+      {
+        question: 'Which colleges accept NMAT scores?',
+        answer: 'The primary college is NMIMS (Mumbai, Bengaluru, Hyderabad). Other top colleges include SPJIMR (PGMPW), ISB (Advanced Management), VIT University, and XIMB.'
+      },
+      {
+        question: 'Can I choose the order of sections in NMAT?',
+        answer: 'Yes, NMAT allows you to choose the order in which you want to attempt the three sections. However, once a section is submitted, you cannot go back to it.'
+      }
+    ],
+    examDetails: [
+      {
+        title: 'The Adaptive Nature of NMAT',
+        content: 'NMAT by GMAC is a computer-adaptive test. This means the difficulty of the next question depends on whether you answered the previous one correctly. Our mock test simulates this difficulty progression to give you a realistic score.'
+      },
+      {
+        title: 'Strategy for NMAT Success',
+        content: 'Since there is no negative marking, never leave a question unattempted. However, NMAT is a high-speed exam. Managing your time per question is critical, especially in the Language section where you have less than a minute per question.'
+      }
+    ]
   }
 ];
 
