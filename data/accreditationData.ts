@@ -28,6 +28,9 @@ export const aiuApprovedPGDM: CollegeRecord[] = [
   { name: "Prin. L.N. Welingkar Institute of Management Development & Research", state: "Maharashtra", city: "Mumbai", validTill: "2025" },
   { name: "S. P. Jain Institute of Management & Research", state: "Maharashtra", city: "Mumbai", validTill: "2025" },
   { name: "JIMS Rohini", state: "Delhi", city: "New Delhi", validTill: "2025" },
+  { name: "XIME (Xavier Institute of Management and Entrepreneurship)", state: "Karnataka", city: "Bangalore", validTill: "2026" },
+  { name: "XIME (Xavier Institute of Management and Entrepreneurship)", state: "Kerala", city: "Kochi", validTill: "2026" },
+  { name: "XIME (Xavier Institute of Management and Entrepreneurship)", state: "Tamil Nadu", city: "Chennai", validTill: "2026" },
 ];
 
 export const aicteApproved: CollegeRecord[] = [
@@ -42,6 +45,9 @@ export const aicteApproved: CollegeRecord[] = [
   { name: "Manipal Institute of Technology", state: "Karnataka", city: "Manipal", category: "Engineering" },
   { name: "Delhi Technological University (DTU)", state: "Delhi", city: "New Delhi", category: "Engineering" },
   { name: "Netaji Subhas University of Technology (NSUT)", state: "Delhi", city: "New Delhi", category: "Engineering" },
+  { name: "XIME Bangalore", state: "Karnataka", city: "Bangalore", category: "Management" },
+  { name: "XIME Kochi", state: "Kerala", city: "Kochi", category: "Management" },
+  { name: "XIME Chennai", state: "Tamil Nadu", city: "Chennai", category: "Management" },
 ];
 
 export const nbaAccredited: CollegeRecord[] = [
@@ -52,6 +58,7 @@ export const nbaAccredited: CollegeRecord[] = [
   { name: "College of Engineering Guindy", state: "Tamil Nadu", city: "Chennai", category: "B.Tech IT" },
   { name: "Harcourt Butler Technical University", state: "Uttar Pradesh", city: "Kanpur", category: "B.Tech Chemical" },
   { name: "Walchand College of Engineering", state: "Maharashtra", city: "Sangli", category: "B.Tech Electrical" },
+  { name: "XIME Bangalore", state: "Karnataka", city: "Bangalore", category: "PGDM" },
 ];
 
 export const naacAplusPlus: CollegeRecord[] = [
