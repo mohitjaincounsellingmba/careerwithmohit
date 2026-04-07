@@ -5,12 +5,12 @@ import { CheckCircle2, Zap, Clock, HelpCircle, BarChart3, GraduationCap, PieChar
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Free NMAT Mock Test 2026 | NMIMS Mumbai 230+ Score Prep',
-  description: 'Take our free full-length NMAT 2026 mock test. 108 questions, 120 minutes, no negative marking. Experience adaptive simulation for NMIMS, SPJIMR, and ISB.',
-  keywords: 'Free NMAT mock test 2026, NMIMS Mumbai mock test, NMAT practice paper free, NMAT 2026 exam pattern, scaled score NMAT, NMAT preparation Mumbai, adaptive mock test NMAT',
+  title: 'Free NMAT Mock Test 2026 | NMIMS Mumbai Admission 2027 Batch',
+  description: 'Take our free full-length NMAT 2026 mock test. Get admission in 2027 batch. 108 questions, 120 minutes, no negative marking. Experience adaptive simulation for NMIMS.',
+  keywords: 'Free NMAT mock test 2026, NMIMS Mumbai admission 2027 batch, NMAT practice paper free, NMAT 2026 exam pattern, scaled score NMAT, NMAT preparation Mumbai, adaptive mock test NMAT',
   openGraph: {
-    title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai',
-    description: 'Master the NMAT by GMAC with our realistic mock tool. 108 questions across Language, Quants, and Logic with sectional timers.',
+    title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai 2027 Batch',
+    description: 'Master the NMAT by GMAC with our realistic mock tool to secure admission in 2027. 108 questions across Language, Quants, and Logic with sectional timers.',
     type: 'website',
   }
 };
@@ -51,6 +51,9 @@ export default function NmatMockTestPage() {
           <h1 className="text-5xl md:text-7xl font-black uppercase mb-4 leading-none">
             NMAT <span className="text-secondary italic">2026</span> Mock Test
           </h1>
+          <h2 className="text-2xl md:text-3xl font-bold uppercase mb-6 text-gray-700 tracking-wide">
+            Get Admission <span className="text-primary">2027 Batch</span>
+          </h2>
           <div className="inline-block bg-primary px-6 py-2 border-4 border-foreground transform rotate-1">
             <p className="font-bold uppercase tracking-widest text-lg md:text-xl text-white">Full-Length 120 Minute NMIMS Simulation</p>
           </div>

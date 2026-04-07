@@ -284,13 +284,13 @@ export const EXAM_CONFIGS: ExamConfig[] = [
   {
     id: 'nmat',
     slug: 'nmat',
-    name: 'NMAT 2026',
+    name: 'NMAT 2026 (For Admission 2027)',
     durationMinutes: 120,
     totalQuestions: 108,
     targetColleges: 'NMIMS Mumbai, SPJIMR, ISB, VIT, XIMB',
     goodScore: '230+',
-    seoTitle: 'Free NMAT Mock Test 2026 | NMIMS Admission Practice Tool',
-    seoDescription: 'Take our free adaptive-style NMAT 2026 mock test. 108 questions across Language, Quants, and Logic. Benchmarked for NMIMS Mumbai and top B-schools.',
+    seoTitle: 'Free NMAT Mock Test 2026 | NMIMS Admission 2027 Practice Tool',
+    seoDescription: 'Take our free adaptive-style NMAT 2026 mock test for 2027 admissions. 108 questions across Language, Quants, and Logic. Benchmarked for NMIMS Mumbai and top B-schools.',
     sections: [
       { id: 'language', label: 'Language Skills', questionCount: 36 },
       { id: 'quant', label: 'Quantitative Skills', questionCount: 36 },
