@@ -22,8 +22,8 @@ NTA has provided a short window for candidates to raise objections against any d
 | Event | Date |
 | :--- | :--- |
 | **Response Sheet Release Date** | April 11, 2026 |
-| **Answer Key Challenge Window** | April 11 – April 13, 2026 (Till 11:50 PM) |
-| **Last Date for Fee Payment** | April 13, 2026 |
+| **Answer Key Challenge Window** | April 11 – April 14, 2026 |
+| **Last Date for Fee Payment** | April 14, 2026 (up to 10:00 AM) |
 | **Final Answer Key & Result** | Expected by 3rd Week of April 2026 |
 
 ---
