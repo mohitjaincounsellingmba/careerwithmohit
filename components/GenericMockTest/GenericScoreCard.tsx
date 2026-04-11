@@ -162,6 +162,62 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
         </div>
       </div>
 
+      {/* Detailed Question Review */}
+      <div className="bg-white border-4 border-foreground p-8 md:p-12 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+        <h3 className="text-3xl font-black uppercase mb-10 flex items-center gap-3 border-b-4 border-foreground pb-4">
+          <RotateCcw className="w-8 h-8 text-secondary" /> Complete Question Review
+        </h3>
+        
+        <div className="space-y-12">
+          {questions.map((q, idx) => {
+            const isCorrect = answers[q.id] === q.correctAnswer;
+            const isUnanswered = answers[q.id] === undefined;
+            
+            return (
+              <div key={idx} className={`p-6 border-4 ${isCorrect ? 'border-green-500 bg-green-50/30' : isUnanswered ? 'border-gray-300 bg-gray-50/30' : 'border-red-500 bg-red-50/30'}`}>
+                <div className="flex justify-between items-start mb-4">
+                  <span className={`px-4 py-1 text-xs font-black uppercase border-2 ${isCorrect ? 'border-green-500 text-green-700 bg-green-100' : isUnanswered ? 'border-gray-400 text-gray-500 bg-gray-100' : 'border-red-500 text-red-700 bg-red-100'}`}>
+                    Q{idx + 1}: {isCorrect ? 'Correct' : isUnanswered ? 'Skipped' : 'Incorrect'}
+                  </span>
+                  <span className="text-xs font-bold text-gray-400 uppercase tracking-widest">{q.sectionId}</span>
+                </div>
+                
+                <h4 className="text-xl font-bold mb-6 leading-tight">{q.text}</h4>
+                
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                  {q.options.map((option, optIdx) => (
+                    <div 
+                      key={optIdx} 
+                      className={`p-4 border-2 font-medium flex items-center gap-4 ${
+                        optIdx === q.correctAnswer 
+                          ? 'border-green-500 bg-green-100 text-green-900' 
+                          : answers[q.id] === optIdx 
+                            ? 'border-red-500 bg-red-100 text-red-900' 
+                            : 'border-gray-200'
+                      }`}
+                    >
+                      <span className={`w-8 h-8 flex items-center justify-center shrink-0 font-black border-2 ${
+                        optIdx === q.correctAnswer ? 'bg-green-600 text-white border-green-600' : 'bg-white border-gray-300'
+                      }`}>
+                        {String.fromCharCode(65 + optIdx)}
+                      </span>
+                      {option}
+                    </div>
+                  ))}
+                </div>
+
+                {q.explanation && (
+                  <div className="mt-4 p-4 bg-white border-2 border-dashed border-gray-300">
+                    <p className="text-sm font-black uppercase text-gray-400 mb-2 tracking-widest">Detailed Explanation</p>
+                    <p className="text-gray-700 font-medium">{q.explanation}</p>
+                  </div>
+                )}
+              </div>
+            );
+          })}
+        </div>
+      </div>
+
       <div className="flex flex-col md:flex-row gap-6 pt-8">
         <button
           onClick={onReset}

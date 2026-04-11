@@ -765,24 +765,66 @@ export const EXAM_CONFIGS: ExamConfig[] = [
   }
 ];
 
+import { CDS_QUESTIONS } from './cds-questions';
+
 export function generateMockQuestions(config: ExamConfig, setNumber: number = 1): GenericQuestion[] {
   let questions: GenericQuestion[] = [];
   let idCounter = 1 + (setNumber - 1) * 1000;
+  
+  // Custom logic for Exams with real data
+  const realData = config.slug === 'cds' ? CDS_QUESTIONS : null;
+
   config.sections.forEach(section => {
+    const sectionQuestions = realData ? realData[section.id] : undefined;
+    
     for (let i = 0; i < section.questionCount; i++) {
-      questions.push({
-        id: idCounter,
-        sectionId: section.id,
-        text: `(Set ${setNumber}) Sample ${section.label} Question ${i + 1} for ${config.name}?`,
-        options: [
-          `Set ${setNumber} Option A for Q${idCounter}`,
-          `Set ${setNumber} Option B for Q${idCounter}`,
-          `Set ${setNumber} Option C for Q${idCounter}`,
-          `Set ${setNumber} Option D for Q${idCounter}`
-        ],
-        correctAnswer: ((idCounter + setNumber) % 4),
-        explanation: `This is the solution and explanation for ${section.label} Set ${setNumber} question ${i + 1}.`
-      });
+      // Check if we have real data for this section and index
+      const realQ = sectionQuestions ? sectionQuestions[i] : undefined;
+      
+      if (realQ) {
+        questions.push({
+          ...realQ,
+          id: idCounter, // Keep sequential IDs for the UI
+        });
+      } else {
+        // Fallback to improved simulated questions
+        const topics: Record<string, string[]> = {
+          'maths': ['Arithmetic', 'Algebra', 'Geometry', 'Calculus', 'Probability'],
+          'quant': ['Profit & Loss', 'Time & Work', 'Percentages', 'Ratios', 'Speed & Distance'],
+          'arithmetic': ['Number System', 'HCF & LCM', 'Simplification', 'Averages', 'Interest'],
+          'algebra': ['Linear Equations', 'Quadratic Expressions', 'Polynomials', 'Indices'],
+          'trig': ['Identities', 'Heights & Distances', 'Ratios', 'Circular Measures'],
+          'english': ['Grammar', 'Vocabulary', 'Reading Comprehension', 'Sentence Completion'],
+          'verbc': ['Critical Reasoning', 'Para Jumbles', 'Odd One Out', 'Inference'],
+          'gk': ['National Affairs', 'Awards', 'International Summits', 'Economic Policies'],
+          'ga': ['Static GK', 'Monthly Current Affairs', 'Sports News', 'Science & Tech'],
+          'logic': ['Coding-Decoding', 'Blood Relations', 'Syllogisms', 'Sitting Arrangements'],
+          'reasoning': ['Series Completion', 'Analogies', 'Puzzles', 'Direction Sense']
+        };
+
+        const sectionLower = section.id.toLowerCase();
+        let topic = 'Concept';
+        for (const [key, list] of Object.entries(topics)) {
+          if (sectionLower.includes(key)) {
+            topic = list[i % list.length];
+            break;
+          }
+        }
+
+        questions.push({
+          id: idCounter,
+          sectionId: section.id,
+          text: `(Practice Set ${setNumber}) ${config.name} ${section.label}: Which of the following best describes a fundamental principle of ${topic}?`,
+          options: [
+            `Key Characteristic of ${topic} Option A`,
+            `Primary Application of ${topic} Option B`,
+            `Theoretical Basis of ${topic} Option C`,
+            `Standard Framework for ${topic} Option D`
+          ],
+          correctAnswer: (i % 4),
+          explanation: `This question tests your understanding of ${topic} in the context of ${section.label} for the ${config.name} exam. Comprehensive mastery of ${topic} is essential for a high score.`
+        });
+      }
       idCounter++;
     }
   });

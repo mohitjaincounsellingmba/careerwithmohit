@@ -52,13 +52,9 @@ export function GenericQuizInterface({ config, questions, onComplete }: GenericQ
     if (currentIdx < questions.length - 1) {
       const nextQ = questions[currentIdx + 1];
       if (nextQ.sectionId !== currentQuestion.sectionId) {
-        if (isSectionComplete) {
-          setUnlockedSections(prev => new Set([...prev, nextQ.sectionId]));
-          setActiveSection(nextQ.sectionId);
-          setCurrentIdx(currentIdx + 1);
-        } else {
-          alert('Please answer all questions in the current section before moving to the next.');
-        }
+        setUnlockedSections(prev => new Set([...prev, nextQ.sectionId]));
+        setActiveSection(nextQ.sectionId);
+        setCurrentIdx(currentIdx + 1);
       } else {
         setCurrentIdx(currentIdx + 1);
       }
@@ -77,13 +73,10 @@ export function GenericQuizInterface({ config, questions, onComplete }: GenericQ
     const qIdx = questions.findIndex(q => q.id === id);
     if (qIdx !== -1) {
       const targetSection = questions[qIdx].sectionId;
-      if (unlockedSections.has(targetSection)) {
-        setCurrentIdx(qIdx);
-        setActiveSection(targetSection);
-        setShowMobileSidebar(false);
-      } else {
-        alert('This section is locked. Please complete previous sections first.');
-      }
+      setUnlockedSections(prev => new Set([...prev, targetSection]));
+      setCurrentIdx(qIdx);
+      setActiveSection(targetSection);
+      setShowMobileSidebar(false);
     }
   };
 
