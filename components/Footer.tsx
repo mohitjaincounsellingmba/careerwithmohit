@@ -81,6 +81,11 @@ export function Footer() {
                   CUET UG 2026 Checker
                 </Link>
               </li>
+              <li>
+                <Link href="/calculator/mhcet-mba-2026" className="text-pink-500 font-black flex flex-col group italic animate-pulse">
+                  MHCET MBA Predictor 🔥
+                </Link>
+              </li>
               <li><Link href="/tools/cuet-pg-mba-predictor" className="text-blue-500 hover:text-white transition-colors">CUET Predictor</Link></li>
               <li><Link href="/tools/btech-college-predictor" className="text-yellow-500 hover:text-white transition-colors">B.Tech Predictor</Link></li>
               <li><Link href="/tools/accreditation-checker" className="text-rose-400 font-black hover:text-white transition-colors italic border-b border-rose-500/30 pb-1">Accreditation Audit</Link></li>
