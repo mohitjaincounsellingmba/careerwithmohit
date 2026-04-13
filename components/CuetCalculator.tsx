@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X } from "lucide-react";
+import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X, ShieldCheck } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
 
 export function CuetCalculator() {
@@ -239,10 +239,22 @@ export function CuetCalculator() {
 
                             {analysisResult && (
                                 <div id="verification-grid" className="bg-white border-4 border-primary p-4 animate-in slide-in-from-top-4 duration-500">
-                                    <div className="flex items-center justify-between gap-2 mb-6 border-b-2 border-slate-100 pb-4">
-                                        <div className="flex items-center gap-2 text-primary font-black uppercase text-xs">
-                                            <Zap className="w-4 h-4" />
-                                            Questions Scanned: {analysisResult.answeredCount} Answered
+                                    <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mb-6 border-b-2 border-slate-100 pb-4">
+                                        <div className="flex flex-wrap items-center gap-3 text-[10px] md:text-xs font-black uppercase">
+                                            <div className="flex items-center gap-1.5 text-primary">
+                                                <Zap className="w-4 h-4" />
+                                                {analysisResult.answeredCount} Answered
+                                            </div>
+                                            <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
+                                            <div className="flex items-center gap-1.5 text-green-600">
+                                                <ShieldCheck className="w-4 h-4" />
+                                                {correct || 0} Correct
+                                            </div>
+                                            <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
+                                            <div className="flex items-center gap-1.5 text-rose-600">
+                                                <X className="w-4 h-4 text-rose-500" />
+                                                {incorrect || 0} Incorrect
+                                            </div>
                                         </div>
                                         <button 
                                             onClick={() => {
@@ -349,9 +361,14 @@ export function CuetCalculator() {
                             />
                         </div>
 
-                        <div className="flex items-center justify-between">
-                            <div className="text-xs font-black uppercase text-slate-500">
-                                Unattempted: <span className="text-foreground">{unattempted || 0}</span>
+                        <div className="flex flex-wrap items-center justify-between gap-4">
+                            <div className="flex gap-4">
+                                <div className="text-xs font-black uppercase text-slate-500">
+                                    Attempted: <span className="text-primary">{(Number(correct) || 0) + (Number(incorrect) || 0)}</span>
+                                </div>
+                                <div className="text-xs font-black uppercase text-slate-500">
+                                    Unattempted: <span className="text-foreground">{unattempted || 0}</span>
+                                </div>
                             </div>
                             <button
                                 onClick={reset}

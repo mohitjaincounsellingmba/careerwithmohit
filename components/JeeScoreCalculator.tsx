@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X } from "lucide-react";
+import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X, ShieldCheck } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
 
 export function JeeScoreCalculator() {
@@ -15,8 +15,12 @@ export function JeeScoreCalculator() {
     // Inquiry popup state
     const [showInquiry, setShowInquiry] = useState(false);
 
-    // Response Sheet URL State
-    const [responseSheetUrl, setResponseSheetUrl] = useState("");
+    const [isAnalyzing, setIsAnalyzing] = useState(false);
+    const [analysisResult, setAnalysisResult] = useState<any>(null);
+    const [verifications, setVerifications] = useState<Record<string, 'correct' | 'incorrect' | null>>({});
+    const [pageSource, setPageSource] = useState("");
+    const [isParsing, setIsParsing] = useState(false);
+    const [parseError, setParseError] = useState("");
 
     // Lead Form State
     const [showLeadForm, setShowLeadForm] = useState(false);
@@ -29,6 +33,93 @@ export function JeeScoreCalculator() {
     });
 
     const totalQuestions = 75; // JEE Main standard attempt (20 MCQs + 5 NVQs per subject)
+
+    const handleAnalyzeUrl = async () => {
+        if (!responseSheetUrl) return alert("Please paste a URL first.");
+        
+        setIsAnalyzing(true);
+        setParseError("");
+        setAnalysisResult(null);
+        setVerifications({});
+
+        try {
+            const res = await fetch('/api/analyze-link', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ url: responseSheetUrl })
+            });
+
+            const result = await res.json();
+            
+            if (!res.ok) throw new Error(result.error || "Analysis failed");
+
+            setAnalysisResult(result.data);
+            setUnattempted(result.data.unansweredCount);
+            setCalculationMethod("url");
+            
+            const verif = document.getElementById('verification-grid');
+            if (verif) verif.scrollIntoView({ behavior: 'smooth' });
+        } catch (err: any) {
+            setParseError(err.message);
+        } finally {
+            setIsAnalyzing(false);
+        }
+    };
+
+    const toggleVerification = (qId: string, status: 'correct' | 'incorrect') => {
+        setVerifications(prev => {
+            const current = prev[qId];
+            const next = current === status ? null : status;
+            const newVerif = { ...prev, [qId]: next };
+            
+            const correctCount = Object.values(newVerif).filter(v => v === 'correct').length;
+            const incorrectCount = Object.values(newVerif).filter(v => v === 'incorrect').length;
+            
+            setCorrect(correctCount || "");
+            setIncorrect(incorrectCount || "");
+            
+            return newVerif;
+        });
+    };
+
+    const handleParseSource = async () => {
+        if (!pageSource) return alert("Please paste page source first.");
+        setIsParsing(true);
+        setParseError("");
+        try {
+            const html = pageSource;
+            const questionMatches = Array.from(html.matchAll(/Question ID ?: ?<\/td><td[^>]*>(\d+)<\/td>/g)).map(m => m[1]);
+            const statusMatches = Array.from(html.matchAll(/Status ?: ?<\/td><td[^>]*>(Answered|Not Answered|Marked for Review)<\/td>/g)).map(m => m[1]);
+            const optionMatches = Array.from(html.matchAll(/Chosen Option ?: ?<\/td><td[^>]*>(.*?)<\/td>/g)).map(m => m[1].replace(/&nbsp;/g, '').trim());
+
+            if (questionMatches.length === 0) {
+                throw new Error("No question data found. Please ensure you copied the full page source.");
+            }
+
+            const answeredCount = statusMatches.filter(s => s === 'Answered').length;
+
+            setAnalysisResult({
+                totalFetched: questionMatches.length,
+                answeredCount: answeredCount,
+                unansweredCount: questionMatches.length - answeredCount,
+                questions: questionMatches.map((mid, i) => ({
+                    questionId: mid,
+                    status: statusMatches[i] || 'Unknown',
+                    chosenOption: optionMatches[i] || '--'
+                }))
+            });
+
+            setUnattempted(questionMatches.length - answeredCount);
+            setCalculationMethod("url");
+            
+            const verif = document.getElementById('verification-grid');
+            if (verif) verif.scrollIntoView({ behavior: 'smooth' });
+        } catch (err: any) {
+            setParseError(err.message || "Failed to parse source.");
+        } finally {
+            setIsParsing(false);
+        }
+    };
 
     const stats = useMemo(() => {
         const c = Number(correct) || 0;
@@ -57,6 +148,11 @@ export function JeeScoreCalculator() {
         setCorrect("");
         setIncorrect("");
         setUnattempted("");
+        setResponseSheetUrl("");
+        setPageSource("");
+        setAnalysisResult(null);
+        setVerifications({});
+        setCalculationMethod("manual");
     };
 
     const handleCorrectChange = (val: string) => {
@@ -128,28 +224,112 @@ export function JeeScoreCalculator() {
                     </div>
 
                     <div className="mb-8">
-                        <label className="block text-xs font-black uppercase text-slate-500 mb-2">Paste your JEE Response Sheet URL</label>
-                        <div className="flex flex-col md:flex-row gap-4">
-                            <input
-                                type="url"
-                                value={responseSheetUrl}
-                                onChange={(e) => setResponseSheetUrl(e.target.value)}
-                                placeholder="https://cdn3.digialm.com///per/g01/pub/..."
-                                className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
+                            <div className="flex flex-col md:flex-row gap-4 mb-4">
+                                <input
+                                    type="url"
+                                    value={responseSheetUrl}
+                                    onChange={(e) => setResponseSheetUrl(e.target.value)}
+                                    placeholder="Paste your cdn3.digialm.com URL here..."
+                                    className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
+                                />
+                                <button
+                                    onClick={handleAnalyzeUrl}
+                                    disabled={isAnalyzing}
+                                    className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
+                                >
+                                    {isAnalyzing ? "Scanning..." : "Analyze URL"}
+                                </button>
+                            </div>
+                            
+                            {parseError && <p className="text-rose-600 font-black text-xs uppercase mb-4 flex items-center gap-2">
+                                <AlertCircle className="w-4 h-4" />
+                                {parseError}
+                            </p>}
+
+                            {analysisResult && (
+                                <div id="verification-grid" className="bg-white border-4 border-primary p-4 animate-in slide-in-from-top-4 duration-500">
+                                    <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mb-6 border-b-2 border-slate-100 pb-4">
+                                        <div className="flex flex-wrap items-center gap-3 text-[10px] md:text-xs font-black uppercase">
+                                            <div className="flex items-center gap-1.5 text-primary">
+                                                <Zap className="w-4 h-4" />
+                                                {analysisResult.answeredCount} Answered
+                                            </div>
+                                            <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
+                                            <div className="flex items-center gap-1.5 text-green-600">
+                                                <ShieldCheck className="w-4 h-4" />
+                                                {correct || 0} Correct
+                                            </div>
+                                            <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
+                                            <div className="flex items-center gap-1.5 text-rose-600">
+                                                <X className="w-4 h-4 text-rose-500" />
+                                                {incorrect || 0} Incorrect
+                                            </div>
+                                        </div>
+                                        <button 
+                                            onClick={() => {
+                                                const c = Math.floor(analysisResult.answeredCount * 0.85);
+                                                const i = analysisResult.answeredCount - c;
+                                                setCorrect(c);
+                                                setIncorrect(i);
+                                            }}
+                                            className="text-[10px] font-black bg-primary text-white px-3 py-1 uppercase hover:bg-black transition-colors"
+                                        >
+                                            Quick Estimate
+                                        </button>
+                                    </div>
+
+                                    <div className="max-h-[300px] overflow-y-auto mb-6 pr-2 custom-scrollbar">
+                                        <div className="grid grid-cols-1 gap-2">
+                                            {analysisResult.questions.filter((q: any) => q.status === 'Answered').map((q: any, idx: number) => (
+                                                <div key={q.questionId} className="flex items-center justify-between p-3 border-2 border-slate-100 hover:border-primary/20 transition-colors bg-slate-50/50">
+                                                    <div className="flex items-center gap-4">
+                                                        <span className="text-[10px] font-black text-slate-400 w-6">#{idx + 1}</span>
+                                                        <div>
+                                                            <div className="text-[10px] font-black uppercase text-slate-500">QID: {q.questionId}</div>
+                                                            <div className="text-xs font-bold">Your Opt: <span className="text-primary font-black">{q.chosenOption}</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <div className="flex gap-2">
+                                                        <button 
+                                                            onClick={() => toggleVerification(q.questionId, 'correct')}
+                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'correct' ? 'bg-green-500 border-green-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-green-500'}`}
+                                                        >
+                                                            <Zap className="w-4 h-4" />
+                                                        </button>
+                                                        <button 
+                                                            onClick={() => toggleVerification(q.questionId, 'incorrect')}
+                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'incorrect' ? 'bg-rose-500 border-rose-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-rose-500'}`}
+                                                        >
+                                                            <X className="w-4 h-4" />
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            ))}
+                                        </div>
+                                    </div>
+                                    <p className="text-[10px] font-bold text-slate-400 leading-tight uppercase text-center italic">
+                                        *TIPS: Mark Correct/Incorrect from key to see final score below.
+                                    </p>
+                                </div>
+                            )}
+                        </div>
+
+                        <div className="border-t-2 border-slate-200 pt-6">
+                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Option 2: Paste Page Source (Backup)</label>
+                            <textarea
+                                value={pageSource}
+                                onChange={(e) => setPageSource(e.target.value)}
+                                placeholder="Backup: Open Sheet -> View Page Source -> Copy all -> Paste here."
+                                className="w-full h-24 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all mb-4"
                             />
                             <button
-                                onClick={() => {
-                                    setCalculationMethod("url");
-                                    setShowLeadForm(true);
-                                }}
-                                className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+                                onClick={handleParseSource}
+                                disabled={isParsing}
+                                className="w-full bg-slate-800 text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
                             >
-                                Check Now
+                                {isParsing ? "Scanning Source..." : "Parse Source Code"}
                             </button>
                         </div>
-                    </div>
-
-                    <div className="border-t-2 border-slate-200 pt-6">
                         <button
                             onClick={(e) => {
                                 const el = (e.currentTarget.nextElementSibling as HTMLElement);
@@ -206,13 +386,23 @@ export function JeeScoreCalculator() {
                             />
                         </div>
 
-                        <button
-                            onClick={reset}
-                            className="flex items-center gap-2 text-sm font-black uppercase tracking-widest text-primary hover:underline group"
-                        >
-                            <RefreshCw className="w-4 h-4 group-hover:rotate-180 transition-transform duration-500" />
-                            Clear Inputs
-                        </button>
+                        <div className="flex flex-wrap items-center justify-between gap-4">
+                            <div className="flex gap-4">
+                                <div className="text-xs font-black uppercase text-slate-500">
+                                    Attempted: <span className="text-primary">{(Number(correct) || 0) + (Number(incorrect) || 0)}</span>
+                                </div>
+                                <div className="text-xs font-black uppercase text-slate-500">
+                                    Unattempted: <span className="text-foreground">{unattempted || 0}</span>
+                                </div>
+                            </div>
+                            <button
+                                onClick={reset}
+                                className="flex items-center gap-2 text-sm font-black uppercase tracking-widest text-primary hover:underline group"
+                            >
+                                <RefreshCw className="w-4 h-4 group-hover:rotate-180 transition-transform duration-500" />
+                                Clear Inputs
+                            </button>
+                        </div>
 
                         <div className="bg-amber-50 border-4 border-amber-200 p-6 flex gap-4">
                             <AlertCircle className="w-6 h-6 text-amber-600 flex-shrink-0" />
@@ -331,11 +521,30 @@ export function JeeScoreCalculator() {
                                     <Trophy className="w-32 h-32" />
                                 </div>
                                 <div className="relative z-10">
-                                    <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block">
-                                        Net Raw Score
+                                    <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block animate-pulse">
+                                        Verified Score Report
                                     </span>
-                                    <div className="text-8xl font-black mb-2">{stats.score}</div>
-                                    <div className="text-xl font-bold text-slate-400">/ 300 marks</div>
+                                    { (Number(correct) > 0 || Number(incorrect) > 0) ? (
+                                        <>
+                                            <div className="text-8xl font-black mb-2">{stats.score}</div>
+                                            <div className="text-xl font-bold text-slate-400">Total Marks / 300 Max</div>
+                                            <div className="mt-4 grid grid-cols-2 gap-4">
+                                                <div className="bg-green-500/20 p-2 border-l-4 border-green-500">
+                                                    <div className="text-[10px] uppercase font-black">Correct</div>
+                                                    <div className="text-xl font-black">+{correct}</div>
+                                                </div>
+                                                <div className="bg-rose-500/20 p-2 border-l-4 border-rose-500">
+                                                    <div className="text-[10px] uppercase font-black">Incorrect</div>
+                                                    <div className="text-xl font-black">-{incorrect}</div>
+                                                </div>
+                                            </div>
+                                        </>
+                                    ) : (
+                                        <>
+                                            <div className="text-4xl font-black mb-2 uppercase">Awaiting Input</div>
+                                            <div className="text-sm font-bold text-slate-400">Please verify questions or enter counts manually</div>
+                                        </>
+                                    )}
                                 </div>
                             </div>
                         )}
