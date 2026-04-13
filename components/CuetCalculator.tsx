@@ -453,7 +453,10 @@ export function CuetCalculator() {
                                                 <option value="" className="text-black">Your 2026 Goal?</option>
                                                 <option value="MBA" className="text-black">MBA Admission</option>
                                                 <option value="MCA" className="text-black">MCA Admission</option>
-                                                <option value="General Counselling" className="text-black">Career Counselling</option>
+                                                <option value="MA" className="text-black">MA Admission</option>
+                                                <option value="MTech" className="text-black">MTech Admission</option>
+                                                <option value="MCom" className="text-black">M.Com Admission</option>
+                                                <option value="Other" className="text-black">Other</option>
                                             </select>
                                         </div>
                                         <button
