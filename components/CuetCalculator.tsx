@@ -19,6 +19,24 @@ export function CuetCalculator() {
     const [analysisResult, setAnalysisResult] = useState<any>(null);
     const [verifications, setVerifications] = useState<Record<string, 'correct' | 'incorrect' | null>>({});
 
+    // Response Sheet URL State
+    const [responseSheetUrl, setResponseSheetUrl] = useState("");
+    const [pageSource, setPageSource] = useState("");
+    const [isParsing, setIsParsing] = useState(false);
+    const [parseError, setParseError] = useState("");
+
+    // Lead Form State
+    const [showLeadForm, setShowLeadForm] = useState(false);
+    const [isUnlocked, setIsUnlocked] = useState(false);
+    const [leadData, setLeadData] = useState({
+        name: "",
+        number: "",
+        email: "",
+        location: ""
+    });
+
+    const totalQuestions = 75;
+
     const handleAnalyzeUrl = async () => {
         if (!responseSheetUrl) return alert("Please paste a URL first.");
         
@@ -73,11 +91,35 @@ export function CuetCalculator() {
         setIsParsing(true);
         setParseError("");
         try {
-            // Mock parsing logic
-            setUnattempted(10);
-            setCalculationMethod("manual");
+            const html = pageSource;
+            const questionMatches = Array.from(html.matchAll(/Question ID ?: ?<\/td><td[^>]*>(\d+)<\/td>/g)).map(m => m[1]);
+            const statusMatches = Array.from(html.matchAll(/Status ?: ?<\/td><td[^>]*>(Answered|Not Answered|Marked for Review)<\/td>/g)).map(m => m[1]);
+            const optionMatches = Array.from(html.matchAll(/Chosen Option ?: ?<\/td><td[^>]*>(.*?)<\/td>/g)).map(m => m[1].replace(/&nbsp;/g, '').trim());
+
+            if (questionMatches.length === 0) {
+                throw new Error("No question data found. Please ensure you copied the full page source.");
+            }
+
+            const answeredCount = statusMatches.filter(s => s === 'Answered').length;
+
+            setAnalysisResult({
+                totalFetched: questionMatches.length,
+                answeredCount: answeredCount,
+                unansweredCount: questionMatches.length - answeredCount,
+                questions: questionMatches.map((mid, i) => ({
+                    questionId: mid,
+                    status: statusMatches[i] || 'Unknown',
+                    chosenOption: optionMatches[i] || '--'
+                }))
+            });
+
+            setUnattempted(questionMatches.length - answeredCount);
+            setCalculationMethod("url");
+            
+            const verif = document.getElementById('verification-grid');
+            if (verif) verif.scrollIntoView({ behavior: 'smooth' });
         } catch (err: any) {
-            setParseError("Failed to parse source.");
+            setParseError(err.message || "Failed to parse source.");
         } finally {
             setIsParsing(false);
         }
