@@ -26,11 +26,11 @@ export function Header() {
           <span className="font-display text-2xl font-bold tracking-tight text-foreground uppercase">Mohit Jain</span>
         </Link>
         <nav className="hidden md:flex items-center gap-8 text-base font-bold text-foreground">
-          <Link href="/" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Home Page">Home</Link>
-          <Link href="/about" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="About Mohit Jain">About</Link>
-          <Link href="/blog" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
-          <Link href="/colleges" className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Explore Top Colleges">Colleges</Link>
-          <Link href="/online-degree-certification" className="hover:text-primary hover:-translate-y-0.5 transition-transform text-cyan-600 font-extrabold" title="Online Degrees & Certifications">Online Degrees</Link>
+          <Link href="/" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Home Page">Home</Link>
+          <Link href="/about" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="About Mohit Jain">About</Link>
+          <Link href="/blog" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
+          <Link href="/colleges" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Explore Top Colleges">Colleges</Link>
+          <Link href="/online-degree-certification" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform text-cyan-600 font-extrabold" title="Online Degrees & Certifications">Online Degrees</Link>
 
         </nav>
         <div className="flex items-center gap-4">
@@ -59,19 +59,19 @@ export function Header() {
               <SearchInput isMobile={true} onSearch={() => setIsMobileMenuOpen(false)} />
             </div>
             
-            <Link href="/" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
+            <Link href="/" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Home
             </Link>
-            <Link href="/about" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
+            <Link href="/about" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>About
             </Link>
-            <Link href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
+            <Link href="/blog" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Blog
             </Link>
-            <Link href="/colleges" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
+            <Link href="/colleges" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Colleges
             </Link>
-            <Link href="/online-degree-certification" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-cyan-600 font-extrabold">
+            <Link href="/online-degree-certification" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-cyan-600 font-extrabold">
               <span className="w-2 h-2 rounded-full bg-cyan-500 mr-3 inline-block"></span>Online Degrees
             </Link>
 

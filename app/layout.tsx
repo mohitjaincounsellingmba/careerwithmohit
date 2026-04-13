@@ -6,7 +6,6 @@ import { Footer } from "@/components/Footer";
 import { InquiryPopup } from "@/components/InquiryPopup";
 import { LeadMagnetBar } from "@/components/LeadMagnetBar";
 import { JsonLd } from "@/components/JsonLd";
-import { GoogleAnalytics } from '@next/third-parties/google';
 import Script from "next/script";
 
 const outfit = Outfit({
@@ -139,20 +138,18 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
-        {process.env.NEXT_PUBLIC_GA_ID && (
-          <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
-        )}
-        {/* Google Ads Tag (gtag.js) */}
+        {/* Combined Google Analytics and Ads Tag */}
         <Script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=AW-18052249575"
+          src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID || "G-448JRKP87B"}`}
           strategy="afterInteractive"
         />
-        <Script id="google-ads-gtag" strategy="afterInteractive">
+        <Script id="google-analytics-ads" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
+            gtag('config', '${process.env.NEXT_PUBLIC_GA_ID || "G-448JRKP87B"}');
             gtag('config', 'AW-18052249575');
           `}
         </Script>

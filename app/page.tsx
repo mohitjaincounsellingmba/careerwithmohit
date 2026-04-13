@@ -66,10 +66,10 @@ export default function Home() {
             <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto rounded-md bg-foreground px-8 py-4 text-xl font-bold text-white transition-all hover:scale-105 hover:bg-gray-800 border-4 border-foreground text-center flex items-center justify-center gap-2">
               Connect on WhatsApp
             </a>
-            <Link href="#services" className="w-full sm:w-auto rounded-md bg-transparent px-8 py-4 text-xl font-bold text-white transition-all hover:bg-white hover:text-primary border-4 border-white text-center">
+            <Link href="#services" prefetch={false} className="w-full sm:w-auto rounded-md bg-transparent px-8 py-4 text-xl font-bold text-white transition-all hover:bg-white hover:text-primary border-4 border-white text-center">
               View Our Services
             </Link>
-            <Link href="/inquiry" className="w-full sm:w-auto rounded-md bg-accent px-8 py-4 text-xl font-black text-foreground transition-all hover:scale-105 hover:bg-white border-4 border-foreground text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+            <Link href="/inquiry" prefetch={false} className="w-full sm:w-auto rounded-md bg-accent px-8 py-4 text-xl font-black text-foreground transition-all hover:scale-105 hover:bg-white border-4 border-foreground text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
               Inquiry
             </Link>
           </div>
@@ -128,7 +128,7 @@ export default function Home() {
                 Flash updates on MBA admissions, entrance exams, and college deadlines.
               </p>
             </div>
-            <Link href="/news" className="inline-flex h-14 items-center justify-center rounded-md bg-accent px-8 py-3 text-lg font-bold text-foreground transition-all hover:bg-white hover:scale-105 border-4 border-foreground whitespace-nowrap shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+            <Link href="/news" prefetch={false} className="inline-flex h-14 items-center justify-center rounded-md bg-accent px-8 py-3 text-lg font-bold text-foreground transition-all hover:bg-white hover:scale-105 border-4 border-foreground whitespace-nowrap shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
               All News Updates &rarr;
             </Link>
           </div>
@@ -155,6 +155,7 @@ export default function Home() {
                 </p>
                 <Link
                   href="/news"
+                  prefetch={false}
                   className="inline-flex items-center font-bold text-primary hover:text-foreground transition-colors group-hover:translate-x-1 transition-transform"
                 >
                   Open <ArrowRight className="ml-2 h-4 w-4" />
@@ -182,7 +183,7 @@ export default function Home() {
                 Top-rated B-Schools in Delhi NCR for undergraduate management degrees.
               </p>
             </div>
-            <Link href="/colleges" className="mt-8 md:mt-0 inline-flex items-center text-lg font-black uppercase text-primary hover:text-foreground transition-colors group">
+            <Link href="/colleges" prefetch={false} className="mt-8 md:mt-0 inline-flex items-center text-lg font-black uppercase text-primary hover:text-foreground transition-colors group">
               View All Colleges
               <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" strokeWidth={3} />
             </Link>
@@ -201,6 +202,7 @@ export default function Home() {
               <Link 
                 key={idx} 
                 href={college.link}
+                prefetch={false}
                 className={`group relative flex flex-col justify-between h-48 rounded-xl border-4 border-foreground ${college.color} p-6 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]`}
               >
                 <div>
@@ -220,6 +222,7 @@ export default function Home() {
             {/* Call to action "Consult Now" card specifically bridging the gap */}
             <Link 
               href="/inquiry"
+              prefetch={false}
               className="group relative flex flex-col justify-center items-center h-48 rounded-xl border-4 border-dashed border-primary bg-white p-6 transition-all duration-200 hover:bg-primary hover:border-solid hover:scale-[1.02] cursor-pointer"
             >
               <Target className="h-10 w-10 text-primary group-hover:text-white mb-3" strokeWidth={2.5} />
@@ -242,7 +245,7 @@ export default function Home() {
                 {allPostsData.length} Total
               </span>
             </h2>
-            <Link href="/blog" className="inline-flex h-14 items-center justify-center rounded-md bg-foreground px-8 py-3 text-lg font-bold text-white transition-all hover:bg-primary hover:scale-105 border-4 border-foreground whitespace-nowrap">
+            <Link href="/blog" prefetch={false} className="inline-flex h-14 items-center justify-center rounded-md bg-foreground px-8 py-3 text-lg font-bold text-white transition-all hover:bg-primary hover:scale-105 border-4 border-foreground whitespace-nowrap">
               View All Articles &rarr;
             </Link>
           </div>
@@ -252,6 +255,7 @@ export default function Home() {
               <Link
                 key={slug}
                 href={`/blog/${slug}`}
+                prefetch={false}
                 className="group flex flex-col rounded-xl border-4 border-foreground bg-white p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 hover:bg-gray-50 h-full"
               >
                 <div className="mb-6 inline-block rounded-full bg-accent px-4 py-1 text-sm font-bold uppercase tracking-widest text-foreground border-2 border-foreground self-start">

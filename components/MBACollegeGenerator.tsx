@@ -229,7 +229,7 @@ export function MBACollegeGenerator() {
                 <p className="text-slate-600 font-bold">
                   Found <span className="text-violet-600 font-black text-xl">{results.length}</span> MBA programs matching your profile
                 </p>
-                <Link href="/inquiry" className="text-xs font-black uppercase tracking-widest text-violet-600 hover:text-slate-900 flex items-center gap-1 transition-colors">
+                <Link href="/inquiry" prefetch={false} className="text-xs font-black uppercase tracking-widest text-violet-600 hover:text-slate-900 flex items-center gap-1 transition-colors">
                   Get Expert Help <ArrowRight className="w-3 h-3" />
                 </Link>
               </div>
@@ -290,6 +290,7 @@ export function MBACollegeGenerator() {
                             {college.slug ? (
                               <Link
                                 href={`/${college.slug}`}
+                                prefetch={false}
                                 className="flex items-center justify-between text-xs font-black uppercase tracking-widest text-violet-600 hover:text-violet-800 transition-colors group"
                               >
                                 View Full Review
@@ -298,6 +299,7 @@ export function MBACollegeGenerator() {
                             ) : (
                               <Link
                                 href="/inquiry"
+                                prefetch={false}
                                 className="flex items-center justify-between text-xs font-black uppercase tracking-widest text-slate-400 hover:text-violet-600 transition-colors group"
                               >
                                 Get Admission Guidance
@@ -320,7 +322,7 @@ export function MBACollegeGenerator() {
                   Get Mohit Jain's personalized MBA shortlist with direct admission strategies — trusted by 15,000+ students.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <Link href="/inquiry" className="bg-white text-violet-700 font-black uppercase tracking-widest text-xs px-8 py-4 rounded-2xl hover:bg-violet-50 transition-all shadow-lg">
+                  <Link href="/inquiry" prefetch={false} className="bg-white text-violet-700 font-black uppercase tracking-widest text-xs px-8 py-4 rounded-2xl hover:bg-violet-50 transition-all shadow-lg">
                     Free MBA Counselling →
                   </Link>
                   <a href="https://wa.me/919560020771" className="border-2 border-white/40 text-white font-black uppercase tracking-widest text-xs px-8 py-4 rounded-2xl hover:bg-white/10 transition-all">

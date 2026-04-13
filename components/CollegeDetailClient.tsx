@@ -354,6 +354,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
             <div className="flex flex-col sm:flex-row gap-3 w-full md:w-auto flex-shrink-0">
               <Link
                 href="/inquiry"
+                prefetch={false}
                 className="inline-flex items-center justify-center px-8 py-4 bg-slate-900 text-white font-black uppercase tracking-widest text-xs rounded-2xl hover:bg-blue-600 transition-all shadow-xl shadow-slate-200"
               >
                 Apply Now
@@ -454,7 +455,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
                           <div className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-0.5">Total Fees</div>
                           <div className="text-sm font-black text-blue-600">{prog.fees}</div>
                         </div>
-                        <Link href="/inquiry" className="hidden sm:flex items-center gap-2 px-5 py-2.5 bg-slate-900 text-white text-[10px] font-black uppercase tracking-widest rounded-xl hover:bg-blue-600 transition-all">
+                        <Link href="/inquiry" prefetch={false} className="hidden sm:flex items-center gap-2 px-5 py-2.5 bg-slate-900 text-white text-[10px] font-black uppercase tracking-widest rounded-xl hover:bg-blue-600 transition-all">
                           Apply
                         </Link>
                       </div>
@@ -655,11 +656,11 @@ export function CollegeDetailClient({ college }: { college: College }) {
               Connect with Mohit Jain&apos;s expert team for fee structure, scholarship, and seat availability.
             </p>
             <div className="space-y-3 relative z-10">
-              <Link href="/inquiry" className="w-full bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-[0.2em] text-[10px] py-4 px-6 rounded-2xl flex items-center justify-center transition-all shadow-lg shadow-blue-900">
+              <Link href="/inquiry" prefetch={false} className="w-full bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-[0.2em] text-[10px] py-4 px-6 rounded-2xl flex items-center justify-center transition-all shadow-lg shadow-blue-900">
                 Get Expert Advice
                 <ChevronRight className="w-4 h-4 ml-2" />
               </Link>
-              <Link href="/inquiry" className="w-full bg-white/5 hover:bg-white/10 text-white font-black uppercase tracking-[0.2em] text-[10px] py-4 px-6 rounded-2xl border border-white/10 transition-all flex items-center justify-center">
+              <Link href="/inquiry" prefetch={false} className="w-full bg-white/5 hover:bg-white/10 text-white font-black uppercase tracking-[0.2em] text-[10px] py-4 px-6 rounded-2xl border border-white/10 transition-all flex items-center justify-center">
                 WhatsApp Now
               </Link>
             </div>

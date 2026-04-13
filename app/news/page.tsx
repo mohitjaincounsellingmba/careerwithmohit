@@ -45,7 +45,7 @@ export default function NewsPage() {
 
               <div className="sm:w-3/4 flex flex-col justify-center">
                 <h2 className="font-display text-3xl font-extrabold tracking-tight text-foreground mb-4 group-hover:text-primary transition-colors leading-tight">
-                  <Link href={item.link}>{item.title}</Link>
+                  <Link href={item.link} prefetch={false}>{item.title}</Link>
                 </h2>
                 <p className="text-gray-600 text-lg font-medium leading-relaxed max-w-3xl mb-6">
                   {item.excerpt}

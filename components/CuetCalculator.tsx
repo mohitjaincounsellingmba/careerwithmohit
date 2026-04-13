@@ -17,6 +17,9 @@ export function CuetCalculator() {
 
     // Response Sheet URL State
     const [responseSheetUrl, setResponseSheetUrl] = useState("");
+    const [pageSource, setPageSource] = useState("");
+    const [isParsing, setIsParsing] = useState(false);
+    const [parseError, setParseError] = useState("");
 
     // Lead Form State
     const [showLeadForm, setShowLeadForm] = useState(false);
@@ -28,14 +31,13 @@ export function CuetCalculator() {
         location: ""
     });
 
-    const totalQuestions = 75; // Most common pattern for 2024/2025
+    const totalQuestions = 75;
 
     const stats = useMemo(() => {
         const c = Number(correct) || 0;
         const i = Number(incorrect) || 0;
         const score = (c * 4) - (i * 1);
 
-        // Percentile prediction (Approximation based on 2024 trends)
         let percentile = 0;
         if (score >= 230) percentile = 99.9;
         else if (score >= 200) percentile = 99.0;
@@ -51,10 +53,42 @@ export function CuetCalculator() {
         return { score, percentile, accuracy };
     }, [correct, incorrect]);
 
+    const handleParseSource = () => {
+        if (!pageSource) {
+            setParseError("Please paste the page source code first.");
+            return;
+        }
+
+        setIsParsing(true);
+        setParseError("");
+
+        try {
+            // Count "Answered" vs "Not Answered" from NTA response sheet structure
+            const answeredCount = (pageSource.match(/Status :<\/td><td[^>]*>Answered/g) || []).length;
+            const notAnsweredCount = (pageSource.match(/Status :<\/td><td[^>]*>Not Answered/g) || []).length;
+            
+            if (answeredCount === 0 && notAnsweredCount === 0) {
+                throw new Error("Could not find any question status in the pasted content. Make sure you pasted the full page source.");
+            }
+
+            // We can't know correct/incorrect without the key, so we just set unattempted
+            setUnattempted(totalQuestions - answeredCount);
+            setCalculationMethod("url");
+            setShowLeadForm(true);
+        } catch (err: any) {
+            setParseError(err.message);
+        } finally {
+            setIsParsing(false);
+        }
+    };
+
     const reset = () => {
         setCorrect("");
         setIncorrect("");
         setUnattempted("");
+        setPageSource("");
+        setResponseSheetUrl("");
+        setCalculationMethod("manual");
     };
 
     const handleCorrectChange = (val: string) => {
@@ -74,7 +108,6 @@ export function CuetCalculator() {
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
 
-        // Direct Activepieces Webhook Call
         try {
             const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
                 method: 'POST',
@@ -122,32 +155,58 @@ export function CuetCalculator() {
                 <div className="mb-12 bg-slate-50 border-4 border-foreground p-6 md:p-8">
                     <div className="flex items-center gap-3 mb-6">
                         <Zap className="w-6 h-6 text-primary animate-pulse" />
-                        <h3 className="text-xl font-black uppercase tracking-tight">Option 1: Auto-Calculate via Response Sheet</h3>
+                        <h3 className="text-xl font-black uppercase tracking-tight">Step 1: Auto-Calculate via Response Sheet</h3>
                     </div>
 
-                    <div className="mb-8">
-                        <label className="block text-xs font-black uppercase text-slate-500 mb-2">Paste your NTA Response Sheet URL here</label>
-                        <div className="flex flex-col md:flex-row gap-4">
-                            <input
-                                type="url"
-                                value={responseSheetUrl}
-                                onChange={(e) => setResponseSheetUrl(e.target.value)}
-                                placeholder="https://cdn3.digialm.com///per/g01/pub/..."
-                                className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
+                    <div className="space-y-6">
+                        <div>
+                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: Submit Response Sheet URL (Analysis via WhatsApp)</label>
+                            <div className="flex flex-col md:flex-row gap-4">
+                                <input
+                                    type="url"
+                                    value={responseSheetUrl}
+                                    onChange={(e) => setResponseSheetUrl(e.target.value)}
+                                    placeholder="Paste your NTA URL here..."
+                                    className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
+                                />
+                                <button
+                                    onClick={() => {
+                                        if (!responseSheetUrl) return alert("Please paste a URL first.");
+                                        setCalculationMethod("url");
+                                        setShowLeadForm(true);
+                                    }}
+                                    className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+                                >
+                                    Analyze URL
+                                </button>
+                            </div>
+                        </div>
+
+                        <div className="h-px bg-slate-200"></div>
+
+                        <div>
+                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method B: Paste Page Source (Instant Attempt Summary)</label>
+                            <textarea
+                                value={pageSource}
+                                onChange={(e) => setPageSource(e.target.value)}
+                                placeholder="Instructions: Open your response sheet -> Right click -> 'View Page Source' -> Ctrl+A -> Ctrl+C -> Paste here."
+                                className="w-full h-32 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all mb-4"
                             />
+                            {parseError && <p className="text-rose-600 font-black text-xs uppercase mb-4 flex items-center gap-2">
+                                <AlertCircle className="w-4 h-4" />
+                                {parseError}
+                            </p>}
                             <button
-                                onClick={() => {
-                                    setCalculationMethod("url");
-                                    setShowLeadForm(true);
-                                }}
-                                className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+                                onClick={handleParseSource}
+                                disabled={isParsing}
+                                className="w-full bg-slate-800 text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
                             >
-                                Submit URL
+                                {isParsing ? "Scanning..." : "Parse My Attempts"}
                             </button>
                         </div>
                     </div>
 
-                    <div className="border-t-2 border-slate-200 pt-6">
+                    <div className="border-t-2 border-slate-200 mt-8 pt-6">
                         <button
                             onClick={(e) => {
                                 const el = (e.currentTarget.nextElementSibling as HTMLElement);
@@ -156,23 +215,24 @@ export function CuetCalculator() {
                             className="text-xs font-black uppercase text-primary hover:underline flex items-center gap-2"
                         >
                             <HelpCircle className="w-4 h-4" />
-                            How to get my Response Sheet URL?
+                            Help: How to get the Page Source?
                         </button>
                         <div className="hidden mt-4 bg-white border-2 border-slate-200 p-4 space-y-3">
                             <ol className="list-decimal list-inside text-sm font-bold text-slate-700 space-y-2">
-                                <li>Log in to the official **NTA CUET PG portal**.</li>
-                                <li>Click on **'View Response Sheet'** button.</li>
-                                <li>The sheet will open in a new tab. **Copy the full URL** from the address bar.</li>
-                                <li>Paste it in the box above and click submit.</li>
+                                <li>Open your **NTA Response Sheet** in a browser.</li>
+                                <li>Right-click anywhere on the page and select **"View Page Source"**.</li>
+                                <li>Press **Ctrl + A** (PC) or **Cmd + A** (Mac) to select all text.</li>
+                                <li>Press **Ctrl + C** (PC) or **Cmd + C** (Mac) to copy it.</li>
+                                <li>Paste it into the box above.</li>
                             </ol>
-                            <p className="text-[10px] font-black uppercase text-slate-400">Note: We only use the URL to parse your score. Your data remains private.</p>
+                            <p className="text-[10px] font-black uppercase text-slate-400">Security Note: We parse the text locally in your browser. No HTML is stored on our servers.</p>
                         </div>
                     </div>
                 </div>
 
                 <div className="flex items-center gap-3 mb-10">
                     <div className="h-1 flex-1 bg-slate-200"></div>
-                    <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">OR USE MANUAL INPUT</span>
+                    <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">STEP 2: VERIFY & CALCULATE SCORE</span>
                     <div className="h-1 flex-1 bg-slate-200"></div>
                 </div>
 
@@ -181,56 +241,52 @@ export function CuetCalculator() {
                     <div className="space-y-8">
                         <div>
                             <label className="block text-sm font-black uppercase tracking-widest mb-3 text-slate-500">
-                                Correct Answers (+4 each)
+                                Correct Answers (+4)
                             </label>
                             <input
                                 type="number"
                                 value={correct}
                                 onChange={(e) => handleCorrectChange(e.target.value)}
-                                placeholder="0"
+                                placeholder="Count from official key"
                                 className="w-full bg-slate-50 border-4 border-foreground p-5 text-2xl font-black focus:bg-white focus:outline-none transition-all"
                             />
                         </div>
 
                         <div>
                             <label className="block text-sm font-black uppercase tracking-widest mb-3 text-slate-500">
-                                Incorrect Answers (-1 each)
+                                Incorrect Answers (-1)
                             </label>
                             <input
                                 type="number"
                                 value={incorrect}
                                 onChange={(e) => handleIncorrectChange(e.target.value)}
-                                placeholder="0"
+                                placeholder="Count from official key"
                                 className="w-full bg-slate-50 border-4 border-foreground p-5 text-2xl font-black focus:bg-white focus:outline-none transition-all"
                             />
                         </div>
 
-                        <button
-                            onClick={reset}
-                            className="flex items-center gap-2 text-sm font-black uppercase tracking-widest text-primary hover:underline group"
-                        >
-                            <RefreshCw className="w-4 h-4 group-hover:rotate-180 transition-transform duration-500" />
-                            Reset All Fields
-                        </button>
-
-                        <div className="bg-amber-50 border-4 border-amber-200 p-6 flex gap-4">
-                            <AlertCircle className="w-6 h-6 text-amber-600 flex-shrink-0" />
-                            <p className="text-sm font-bold text-amber-900 leading-tight">
-                                This calculator uses the official NTA marking scheme: +4 for correct, -1 for incorrect.
-                                Based on the 75-question pattern (300 total marks).
-                            </p>
+                        <div className="flex items-center justify-between">
+                            <div className="text-xs font-black uppercase text-slate-500">
+                                Unattempted: <span className="text-foreground">{unattempted || 0}</span>
+                            </div>
+                            <button
+                                onClick={reset}
+                                className="flex items-center gap-2 text-sm font-black uppercase tracking-widest text-primary hover:underline group"
+                            >
+                                <RefreshCw className="w-4 h-4 group-hover:rotate-180 transition-transform duration-500" />
+                                Clear
+                            </button>
                         </div>
 
                         {!isUnlocked && !showLeadForm && (
                             <button
                                 onClick={() => {
-                                    setCalculationMethod("manual");
                                     setShowLeadForm(true);
                                 }}
                                 className="w-full bg-foreground text-white border-4 border-primary px-8 py-5 text-xl font-black uppercase hover:bg-black transition-all shadow-[8px_8px_0px_0px_rgba(37,99,235,1)] flex items-center justify-center gap-3"
                             >
                                 <Calculator className="w-6 h-6" />
-                                Predict Score & Percentile
+                                Predict My Percentile
                             </button>
                         )}
                     </div>
@@ -245,16 +301,13 @@ export function CuetCalculator() {
                                 {!showLeadForm ? (
                                     <div className="relative z-10 transition-all">
                                         <Zap className="w-16 h-16 text-primary mx-auto mb-6 animate-pulse" />
-                                        <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Your Score is Ready!</h3>
-                                        <p className="text-slate-400 font-bold mb-8">Submit your details to unlock your full score and predicted percentile.</p>
+                                        <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Predictions Ready!</h3>
+                                        <p className="text-slate-400 font-bold mb-8">Submit your details to see your predicted percentile and college cutoffs.</p>
                                         <button
-                                            onClick={() => {
-                                                setCalculationMethod("manual");
-                                                setShowLeadForm(true);
-                                            }}
+                                            onClick={() => setShowLeadForm(true)}
                                             className="bg-primary text-white border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-white hover:text-primary transition-all shadow-[8px_8px_0px_0px_rgba(255,255,255,0.2)]"
                                         >
-                                            Unlock Now
+                                            Get Full Report
                                         </button>
                                     </div>
                                 ) : (
@@ -266,7 +319,7 @@ export function CuetCalculator() {
                                                 placeholder="Full Name"
                                                 value={leadData.name}
                                                 onChange={(e) => setLeadData({ ...leadData, name: e.target.value })}
-                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none placeholder-shown:italic"
                                             />
                                         </div>
                                         <div>
@@ -276,7 +329,7 @@ export function CuetCalculator() {
                                                 placeholder="WhatsApp Number"
                                                 value={leadData.number}
                                                 onChange={(e) => setLeadData({ ...leadData, number: e.target.value })}
-                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none placeholder-shown:italic"
                                             />
                                         </div>
                                         <div>
@@ -286,54 +339,40 @@ export function CuetCalculator() {
                                                 placeholder="Email Address"
                                                 value={leadData.email}
                                                 onChange={(e) => setLeadData({ ...leadData, email: e.target.value })}
-                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none placeholder-shown:italic"
                                             />
                                         </div>
                                         <div>
-                                            <input
+                                            <select
                                                 required
-                                                type="text"
-                                                placeholder="Your Location"
                                                 value={leadData.location}
                                                 onChange={(e) => setLeadData({ ...leadData, location: e.target.value })}
-                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
-                                            />
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white focus:bg-white/20 focus:outline-none"
+                                            >
+                                                <option value="" className="text-black">Select Your Goal 2026</option>
+                                                <option value="MBA" className="text-black">MBA Admission</option>
+                                                <option value="MCA" className="text-black">MCA Admission</option>
+                                                <option value="MA" className="text-black">M.A. Admission</option>
+                                                <option value="MSC" className="text-black">M.Sc. Admission</option>
+                                                <option value="Counseling" className="text-black">Career Counselling</option>
+                                            </select>
                                         </div>
                                         <button
                                             type="submit"
-                                            className="w-full bg-primary text-white p-4 font-black uppercase hover:bg-white hover:text-primary transition-all"
+                                            className="w-full bg-primary text-white p-4 font-black uppercase hover:bg-white hover:text-primary transition-all flex items-center justify-center gap-2 shadow-[4px_4px_0px_0px_rgba(255,255,255,0.3)]"
                                         >
-                                            Show My Results
+                                            Predict My Results
+                                            <ChevronRight className="w-5 h-5" />
                                         </button>
                                         <button
                                             type="button"
                                             onClick={() => setShowLeadForm(false)}
-                                            className="w-full text-xs font-bold text-white/50 uppercase hover:text-white transition-colors"
+                                            className="w-full text-[10px] font-black text-white/40 uppercase hover:text-white transition-colors text-center"
                                         >
-                                            Back
+                                            ← Adjust Score
                                         </button>
                                     </form>
                                 )}
-                            </div>
-                        ) : calculationMethod === "url" ? (
-                            <div className="bg-blue-600 text-white p-10 border-b-[12px] border-foreground relative overflow-hidden animate-in fade-in zoom-in duration-500 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-                                <div className="absolute top-0 right-0 p-4 opacity-10">
-                                    <Zap className="w-40 h-40" />
-                                </div>
-                                <div className="relative z-10 text-center space-y-6">
-                                    <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 animate-spin">
-                                        <RefreshCw className="w-8 h-8 text-white relative z-10" />
-                                    </div>
-                                    <h3 className="text-2xl md:text-3xl font-black uppercase mb-2 leading-tight">
-                                        Analyzing Response Sheet...
-                                    </h3>
-                                    <p className="text-white/80 font-bold text-sm md:text-base leading-relaxed border-t-2 border-white/20 pt-6">
-                                        We have received your NTA Response Sheet URL successfully. Our system is mapping your answers against the official key.
-                                    </p>
-                                    <div className="bg-black/30 p-4 rounded-xl border-2 border-white/10 text-sm font-black tracking-widest uppercase">
-                                        We will WhatsApp your exact score shortly! 🎓
-                                    </div>
-                                </div>
                             </div>
                         ) : (
                             <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden animate-in fade-in zoom-in duration-500">
@@ -341,17 +380,25 @@ export function CuetCalculator() {
                                     <Trophy className="w-32 h-32" />
                                 </div>
                                 <div className="relative z-10">
-                                    <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block">
-                                        Estimated Raw Score
+                                    <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block animate-pulse">
+                                        Verified Raw Score
                                     </span>
                                     <div className="text-8xl font-black mb-2">{stats.score}</div>
-                                    <div className="text-xl font-bold text-slate-400">out of 300 marks</div>
+                                    <div className="text-xl font-bold text-slate-400">Total Points / 300 Max</div>
+                                    
+                                    {calculationMethod === "url" && (
+                                        <div className="mt-8 bg-blue-500/20 border-2 border-blue-500/50 p-4 rounded-lg">
+                                            <p className="text-sm font-bold text-blue-100 italic">
+                                                *Sheet URL submitted for background analysis. We will notify you on WhatsApp if any normalization applies.
+                                            </p>
+                                        </div>
+                                    )}
                                 </div>
                             </div>
                         )}
 
                         <div className="grid grid-cols-2 gap-6">
-                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${!isUnlocked ? "blur-[6px] grayscale-[0.5] opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Target className="w-4 h-4" />
                                     Accuracy
@@ -359,7 +406,7 @@ export function CuetCalculator() {
                                 <div className="text-3xl font-black text-foreground">{stats.accuracy.toFixed(1)}%</div>
                             </div>
 
-                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${!isUnlocked ? "blur-[6px] grayscale-[0.5] opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Trophy className="w-4 h-4" />
                                     Percentile
@@ -370,7 +417,7 @@ export function CuetCalculator() {
 
                         <button
                             onClick={() => setShowInquiry(true)}
-                            className="w-full bg-primary text-white p-8 border-4 border-foreground flex items-center justify-between group cursor-pointer hover:bg-black transition-colors text-left"
+                            className="w-full bg-primary text-white p-8 border-4 border-foreground flex items-center justify-between group cursor-pointer hover:bg-black transition-colors text-left shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]"
                         >
                             <div>
                                 <div className="text-sm font-black uppercase tracking-widest mb-1">Targeting Top B-Schools?</div>
