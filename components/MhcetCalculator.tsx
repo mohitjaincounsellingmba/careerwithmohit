@@ -20,6 +20,42 @@ export function MhcetCalculator() {
     const [isParsing, setIsParsing] = useState(false);
     const [parseError, setParseError] = useState("");
 
+    const [isAnalyzing, setIsAnalyzing] = useState(false);
+    const [analysisResult, setAnalysisResult] = useState<any>(null);
+
+    const handleAnalyzeUrl = async () => {
+        if (!responseSheetUrl) return alert("Please enter your Application No.");
+        
+        setIsAnalyzing(true);
+        setParseError("");
+        setAnalysisResult(null);
+
+        // For MHCET, we often need roll number + dob, so the URL might be different
+        // But for this project's logic, we'll try to analyze whatever the user provides
+        try {
+            const res = await fetch('/api/analyze-link', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ url: responseSheetUrl })
+            });
+
+            const result = await res.json();
+            
+            if (!res.ok) throw new Error(result.error || "Analysis failed");
+
+            setAnalysisResult(result.data);
+            setUnattempted(result.data.unansweredCount);
+            setCalculationMethod("url");
+            
+            const step2 = document.getElementById('step-2-section-mhcet');
+            if (step2) step2.scrollIntoView({ behavior: 'smooth' });
+        } catch (err: any) {
+            setParseError(err.message);
+        } finally {
+            setIsAnalyzing(false);
+        }
+    };
+
     // Lead Form State
     const [showLeadForm, setShowLeadForm] = useState(false);
     const [isUnlocked, setIsUnlocked] = useState(false);
@@ -93,6 +129,7 @@ export function MhcetCalculator() {
         setPageSource("");
         setResponseSheetUrl("");
         setCalculationMethod("manual");
+        setAnalysisResult(null);
     };
 
     const handleCorrectChange = (val: string) => {
@@ -153,31 +190,47 @@ export function MhcetCalculator() {
                 <div className="mb-12 bg-slate-50 border-4 border-foreground p-6 md:p-8">
                     <div className="flex items-center gap-3 mb-6">
                         <Zap className="w-6 h-6 text-secondary animate-pulse" />
-                        <h3 className="text-xl font-black uppercase tracking-tight">Step 1: Auto-Calculate via Answer Key</h3>
+                        <h3 className="text-xl font-black uppercase tracking-tight">Step 1: Auto-Scan Your Answer Key</h3>
                     </div>
 
                     <div className="space-y-6">
                         <div>
-                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: Application Details for Background Parse</label>
-                            <div className="flex flex-col md:flex-row gap-4">
+                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: Answer Key Link (Instant Fetch)</label>
+                            <div className="flex flex-col md:flex-row gap-4 mb-4">
                                 <input
                                     type="text"
                                     value={responseSheetUrl}
                                     onChange={(e) => setResponseSheetUrl(e.target.value)}
-                                    placeholder="Roll Number / Application No."
+                                    placeholder="Paste Link / Application No."
                                     className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-secondary/20 transition-all"
                                 />
                                 <button
-                                    onClick={() => {
-                                        if (!responseSheetUrl) return alert("Please enter your Application No.");
-                                        setCalculationMethod("url");
-                                        setShowLeadForm(true);
-                                    }}
-                                    className="bg-secondary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+                                    onClick={handleAnalyzeUrl}
+                                    disabled={isAnalyzing}
+                                    className="bg-secondary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
                                 >
-                                    Get Score
+                                    {isAnalyzing ? "Scanning..." : "Get Score"}
                                 </button>
                             </div>
+
+                            {analysisResult && (
+                                <div className="bg-white border-4 border-secondary p-4 animate-in slide-in-from-top-4 duration-500">
+                                    <div className="flex items-center gap-2 text-secondary font-black uppercase text-xs mb-4">
+                                        <Zap className="w-4 h-4" />
+                                        MHCET Data Scanned!
+                                    </div>
+                                    <div className="grid grid-cols-2 gap-4">
+                                        <div className="bg-slate-50 p-3 border-2 border-slate-200">
+                                            <div className="text-[10px] font-black text-slate-400 uppercase">Total Items</div>
+                                            <div className="text-xl font-black">{analysisResult.totalFetched}</div>
+                                        </div>
+                                        <div className="bg-pink-50 p-3 border-2 border-pink-200">
+                                            <div className="text-[10px] font-black text-pink-600 uppercase">Answered</div>
+                                            <div className="text-xl font-black">{analysisResult.answeredCount}</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            )}
                         </div>
 
                         <div className="h-px bg-slate-200"></div>
@@ -187,8 +240,8 @@ export function MhcetCalculator() {
                             <textarea
                                 value={pageSource}
                                 onChange={(e) => setPageSource(e.target.value)}
-                                placeholder="Instructions: Open Objection Tracking -> View Response -> Right click -> 'View Page Source' -> Ctrl+A -> Ctrl+C -> Paste here."
-                                className="w-full h-32 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-secondary/20 transition-all mb-4"
+                                placeholder="Backup: Paste page source code here..."
+                                className="w-full h-24 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-secondary/20 transition-all mb-4"
                             />
                             {parseError && <p className="text-rose-600 font-black text-xs uppercase mb-4 flex items-center gap-2">
                                 <AlertCircle className="w-4 h-4" />
@@ -203,32 +256,9 @@ export function MhcetCalculator() {
                             </button>
                         </div>
                     </div>
-
-                    <div className="border-t-2 border-slate-200 mt-8 pt-6">
-                        <button
-                            onClick={(e) => {
-                                const el = (e.currentTarget.nextElementSibling as HTMLElement);
-                                el.classList.toggle('hidden');
-                            }}
-                            className="text-xs font-black uppercase text-secondary hover:underline flex items-center gap-2"
-                        >
-                            <HelpCircle className="w-4 h-4" />
-                            How to check MHCET MBA Official Answer Key?
-                        </button>
-                        <div className="hidden mt-4 bg-white border-2 border-slate-200 p-4 space-y-3">
-                            <ol className="list-decimal list-inside text-sm font-bold text-slate-700 space-y-2">
-                                <li>Visit **cetcell.mahacet.org**.</li>
-                                <li>Login with your **Application Number** and **Password**.</li>
-                                <li>Click on **'Objection Tracking'** or **'View Response'**.</li>
-                                <li>Once open, right-click and select **'View Page Source'**.</li>
-                                <li>Copy all text and paste it in the box above.</li>
-                            </ol>
-                            <p className="text-[10px] font-black uppercase text-slate-400">Note: Answer Key is usually released 5-7 days after Phase 2.</p>
-                        </div>
-                    </div>
                 </div>
 
-                <div className="flex items-center gap-3 mb-10">
+                <div id="step-2-section-mhcet" className="flex items-center gap-3 mb-10 transition-all">
                     <div className="h-1 flex-1 bg-slate-200"></div>
                     <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">STEP 2: VERIFY & PREDICT RANK</span>
                     <div className="h-1 flex-1 bg-slate-200"></div>
@@ -246,7 +276,7 @@ export function MhcetCalculator() {
                                 value={correct}
                                 onChange={(e) => handleCorrectChange(e.target.value)}
                                 placeholder="0"
-                                className="w-full bg-slate-50 border-4 border-foreground p-5 text-2xl font-black focus:bg-white focus:outline-none transition-all"
+                                className="w-full bg-slate-50 border-4 border-foreground p-5 text-2xl font-black focus:bg-white focus:outline-none transition-all ring-secondary/20 ring-offset-4"
                             />
                             <p className="text-[10px] mt-2 font-bold text-slate-400 uppercase italic">*No Negative marking in MHCET MBA</p>
                         </div>
@@ -288,20 +318,20 @@ export function MhcetCalculator() {
                     {/* Results Section */}
                     <div className="flex flex-col justify-between space-y-8">
                         {!isUnlocked ? (
-                            <div className="bg-foreground text-white p-10 border-b-[12px] border-secondary relative overflow-hidden flex flex-col items-center text-center justify-center min-h-[300px]">
+                            <div className="bg-foreground text-white p-10 border-b-[12px] border-secondary relative overflow-hidden flex flex-col items-center text-center justify-center min-h-[350px]">
                                 <div className="absolute top-0 right-0 p-4 opacity-10">
                                     <Trophy className="w-32 h-32" />
                                 </div>
                                 {!showLeadForm ? (
                                     <div className="relative z-10 transition-all">
                                         <Zap className="w-16 h-16 text-secondary mx-auto mb-6 animate-pulse" />
-                                        <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Predict Percentile</h3>
-                                        <p className="text-slate-400 font-bold mb-8">Get insights into JBIMS/SIMSREE cutoffs.</p>
+                                        <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Predict Results Now</h3>
+                                        <p className="text-slate-400 font-bold mb-8 italic text-sm">Based on your score, we have a custom report for JBIMS/SIMSREE cutoffs.</p>
                                         <button
                                             onClick={() => setShowLeadForm(true)}
                                             className="bg-secondary text-white border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-white hover:text-secondary transition-all shadow-[8px_8px_0px_0px_rgba(255,255,255,0.2)]"
                                         >
-                                            Show Results
+                                            See My Score
                                         </button>
                                     </div>
                                 ) : (
@@ -350,7 +380,7 @@ export function MhcetCalculator() {
                                             type="submit"
                                             className="w-full bg-secondary text-white p-4 font-black uppercase hover:bg-white hover:text-secondary transition-all flex items-center justify-center gap-2"
                                         >
-                                            Lock Data & View
+                                            Show My Score
                                             <ChevronRight className="w-5 h-5" />
                                         </button>
                                         <button
@@ -370,18 +400,18 @@ export function MhcetCalculator() {
                                 </div>
                                 <div className="relative z-10">
                                     <span className="text-sm font-black uppercase tracking-[0.2em] text-secondary mb-4 block animate-pulse">
-                                        Total Marks
+                                        Total Marks Result
                                     </span>
                                     <div className="text-8xl font-black mb-2">{stats.score}</div>
                                     <div className="text-xl font-bold text-slate-400">out of 200</div>
 
-                                    {calculationMethod === "url" && (
-                                        <div className="mt-8 bg-pink-500/20 border-2 border-pink-500/50 p-4 rounded-lg">
-                                            <p className="text-sm font-bold text-pink-100 italic">
-                                                *Manual verification requested. We will check against official shift difficulty and notify you.
-                                            </p>
-                                        </div>
-                                    )}
+                                    <div className="mt-8 bg-pink-500/20 border-2 border-pink-500/50 p-4 rounded-lg">
+                                        <p className="text-xs font-bold text-pink-100 italic leading-tight">
+                                            {calculationMethod === "url" 
+                                                ? "*Scanned from link. Attempts fetched instantly. Predictions based on shift trends." 
+                                                : "*Calculated from your inputs. Check cutoffs below."}
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         )}

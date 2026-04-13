@@ -15,70 +15,37 @@ export function CuetCalculator() {
     // Inquiry popup state
     const [showInquiry, setShowInquiry] = useState(false);
 
-    // Response Sheet URL State
-    const [responseSheetUrl, setResponseSheetUrl] = useState("");
-    const [pageSource, setPageSource] = useState("");
-    const [isParsing, setIsParsing] = useState(false);
-    const [parseError, setParseError] = useState("");
+    const [isAnalyzing, setIsAnalyzing] = useState(false);
+    const [analysisResult, setAnalysisResult] = useState<any>(null);
 
-    // Lead Form State
-    const [showLeadForm, setShowLeadForm] = useState(false);
-    const [isUnlocked, setIsUnlocked] = useState(false);
-    const [leadData, setLeadData] = useState({
-        name: "",
-        number: "",
-        email: "",
-        location: ""
-    });
-
-    const totalQuestions = 75;
-
-    const stats = useMemo(() => {
-        const c = Number(correct) || 0;
-        const i = Number(incorrect) || 0;
-        const score = (c * 4) - (i * 1);
-
-        let percentile = 0;
-        if (score >= 230) percentile = 99.9;
-        else if (score >= 200) percentile = 99.0;
-        else if (score >= 180) percentile = 95.0;
-        else if (score >= 150) percentile = 90.0;
-        else if (score >= 120) percentile = 80.0;
-        else if (score >= 100) percentile = 70.0;
-        else if (score >= 80) percentile = 60.0;
-        else percentile = 50.0;
-
-        const accuracy = c + i > 0 ? (c / (c + i)) * 100 : 0;
-
-        return { score, percentile, accuracy };
-    }, [correct, incorrect]);
-
-    const handleParseSource = () => {
-        if (!pageSource) {
-            setParseError("Please paste the page source code first.");
-            return;
-        }
-
-        setIsParsing(true);
+    const handleAnalyzeUrl = async () => {
+        if (!responseSheetUrl) return alert("Please paste a URL first.");
+        
+        setIsAnalyzing(true);
         setParseError("");
+        setAnalysisResult(null);
 
         try {
-            // Count "Answered" vs "Not Answered" from NTA response sheet structure
-            const answeredCount = (pageSource.match(/Status :<\/td><td[^>]*>Answered/g) || []).length;
-            const notAnsweredCount = (pageSource.match(/Status :<\/td><td[^>]*>Not Answered/g) || []).length;
-            
-            if (answeredCount === 0 && notAnsweredCount === 0) {
-                throw new Error("Could not find any question status in the pasted content. Make sure you pasted the full page source.");
-            }
+            const res = await fetch('/api/analyze-link', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ url: responseSheetUrl })
+            });
 
-            // We can't know correct/incorrect without the key, so we just set unattempted
-            setUnattempted(totalQuestions - answeredCount);
+            const result = await res.json();
+            
+            if (!res.ok) throw new Error(result.error || "Analysis failed");
+
+            setAnalysisResult(result.data);
+            setUnattempted(result.data.unansweredCount);
             setCalculationMethod("url");
-            setShowLeadForm(true);
+            // Highlight step 2
+            const step2 = document.getElementById('step-2-section');
+            if (step2) step2.scrollIntoView({ behavior: 'smooth' });
         } catch (err: any) {
             setParseError(err.message);
         } finally {
-            setIsParsing(false);
+            setIsAnalyzing(false);
         }
     };
 
@@ -89,6 +56,7 @@ export function CuetCalculator() {
         setPageSource("");
         setResponseSheetUrl("");
         setCalculationMethod("manual");
+        setAnalysisResult(null);
     };
 
     const handleCorrectChange = (val: string) => {
@@ -155,42 +123,65 @@ export function CuetCalculator() {
                 <div className="mb-12 bg-slate-50 border-4 border-foreground p-6 md:p-8">
                     <div className="flex items-center gap-3 mb-6">
                         <Zap className="w-6 h-6 text-primary animate-pulse" />
-                        <h3 className="text-xl font-black uppercase tracking-tight">Step 1: Auto-Calculate via Response Sheet</h3>
+                        <h3 className="text-xl font-black uppercase tracking-tight">Step 1: Auto-Fetch Your Attempts</h3>
                     </div>
 
                     <div className="space-y-6">
                         <div>
-                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: Submit Response Sheet URL (Analysis via WhatsApp)</label>
-                            <div className="flex flex-col md:flex-row gap-4">
+                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: Response Sheet URL (Instant Scan)</label>
+                            <div className="flex flex-col md:flex-row gap-4 mb-4">
                                 <input
                                     type="url"
                                     value={responseSheetUrl}
                                     onChange={(e) => setResponseSheetUrl(e.target.value)}
-                                    placeholder="Paste your NTA URL here..."
+                                    placeholder="Paste NTA URL here..."
                                     className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
                                 />
                                 <button
-                                    onClick={() => {
-                                        if (!responseSheetUrl) return alert("Please paste a URL first.");
-                                        setCalculationMethod("url");
-                                        setShowLeadForm(true);
-                                    }}
-                                    className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+                                    onClick={handleAnalyzeUrl}
+                                    disabled={isAnalyzing}
+                                    className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
                                 >
-                                    Analyze URL
+                                    {isAnalyzing ? "Scanning..." : "Analyze Link"}
                                 </button>
                             </div>
+                            
+                            {analysisResult && (
+                                <div className="bg-white border-4 border-primary p-4 animate-in slide-in-from-top-4 duration-500">
+                                    <div className="flex items-center gap-2 text-primary font-black uppercase text-xs mb-4">
+                                        <Zap className="w-4 h-4" />
+                                        Sheet Scanned Successfully!
+                                    </div>
+                                    <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                                        <div className="bg-slate-50 p-3 border-2 border-slate-200">
+                                            <div className="text-[10px] font-black text-slate-400 uppercase">Questions Found</div>
+                                            <div className="text-xl font-black">{analysisResult.totalFetched}</div>
+                                        </div>
+                                        <div className="bg-green-50 p-3 border-2 border-green-200">
+                                            <div className="text-[10px] font-black text-green-600 uppercase">Attempted</div>
+                                            <div className="text-xl font-black">{analysisResult.answeredCount}</div>
+                                        </div>
+                                        <div className="bg-slate-50 p-3 border-2 border-slate-200">
+                                            <div className="text-[10px] font-black text-slate-400 uppercase">Unattempted</div>
+                                            <div className="text-xl font-black">{analysisResult.unansweredCount}</div>
+                                        </div>
+                                    </div>
+                                    <p className="mt-4 text-[10px] font-bold text-slate-600 leading-tight uppercase">
+                                        *To see your predicted score, please check your correct answers using the official key and enter the count in Step 2 below.
+                                    </p>
+                                </div>
+                            )}
                         </div>
 
                         <div className="h-px bg-slate-200"></div>
 
                         <div>
-                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method B: Paste Page Source (Instant Attempt Summary)</label>
+                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method B: Paste Page Source (Backup)</label>
                             <textarea
                                 value={pageSource}
                                 onChange={(e) => setPageSource(e.target.value)}
-                                placeholder="Instructions: Open your response sheet -> Right click -> 'View Page Source' -> Ctrl+A -> Ctrl+C -> Paste here."
-                                className="w-full h-32 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all mb-4"
+                                placeholder="Backup: If URL fetch fails, paste page source here..."
+                                className="w-full h-24 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all mb-4"
                             />
                             {parseError && <p className="text-rose-600 font-black text-xs uppercase mb-4 flex items-center gap-2">
                                 <AlertCircle className="w-4 h-4" />
@@ -201,38 +192,15 @@ export function CuetCalculator() {
                                 disabled={isParsing}
                                 className="w-full bg-slate-800 text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
                             >
-                                {isParsing ? "Scanning..." : "Parse My Attempts"}
+                                {isParsing ? "Scanning Source..." : "Parse My Attempts"}
                             </button>
-                        </div>
-                    </div>
-
-                    <div className="border-t-2 border-slate-200 mt-8 pt-6">
-                        <button
-                            onClick={(e) => {
-                                const el = (e.currentTarget.nextElementSibling as HTMLElement);
-                                el.classList.toggle('hidden');
-                            }}
-                            className="text-xs font-black uppercase text-primary hover:underline flex items-center gap-2"
-                        >
-                            <HelpCircle className="w-4 h-4" />
-                            Help: How to get the Page Source?
-                        </button>
-                        <div className="hidden mt-4 bg-white border-2 border-slate-200 p-4 space-y-3">
-                            <ol className="list-decimal list-inside text-sm font-bold text-slate-700 space-y-2">
-                                <li>Open your **NTA Response Sheet** in a browser.</li>
-                                <li>Right-click anywhere on the page and select **"View Page Source"**.</li>
-                                <li>Press **Ctrl + A** (PC) or **Cmd + A** (Mac) to select all text.</li>
-                                <li>Press **Ctrl + C** (PC) or **Cmd + C** (Mac) to copy it.</li>
-                                <li>Paste it into the box above.</li>
-                            </ol>
-                            <p className="text-[10px] font-black uppercase text-slate-400">Security Note: We parse the text locally in your browser. No HTML is stored on our servers.</p>
                         </div>
                     </div>
                 </div>
 
-                <div className="flex items-center gap-3 mb-10">
+                <div id="step-2-section" className="flex items-center gap-3 mb-10 transition-all">
                     <div className="h-1 flex-1 bg-slate-200"></div>
-                    <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">STEP 2: VERIFY & CALCULATE SCORE</span>
+                    <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">STEP 2: ENER COUNTS FOR INSTANT SCORE</span>
                     <div className="h-1 flex-1 bg-slate-200"></div>
                 </div>
 
@@ -247,8 +215,8 @@ export function CuetCalculator() {
                                 type="number"
                                 value={correct}
                                 onChange={(e) => handleCorrectChange(e.target.value)}
-                                placeholder="Count from official key"
-                                className="w-full bg-slate-50 border-4 border-foreground p-5 text-2xl font-black focus:bg-white focus:outline-none transition-all"
+                                placeholder="Enter count from offficial key"
+                                className="w-full bg-slate-50 border-4 border-foreground p-5 text-2xl font-black focus:bg-white focus:outline-none transition-all ring-primary/20 ring-offset-4"
                             />
                         </div>
 
@@ -260,7 +228,7 @@ export function CuetCalculator() {
                                 type="number"
                                 value={incorrect}
                                 onChange={(e) => handleIncorrectChange(e.target.value)}
-                                placeholder="Count from official key"
+                                placeholder="Enter count from offficial key"
                                 className="w-full bg-slate-50 border-4 border-foreground p-5 text-2xl font-black focus:bg-white focus:outline-none transition-all"
                             />
                         </div>
@@ -294,20 +262,20 @@ export function CuetCalculator() {
                     {/* Results Section */}
                     <div className="flex flex-col justify-between space-y-8">
                         {!isUnlocked ? (
-                            <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden flex flex-col items-center text-center justify-center min-h-[300px]">
+                            <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden flex flex-col items-center text-center justify-center min-h-[350px]">
                                 <div className="absolute top-0 right-0 p-4 opacity-10">
                                     <Trophy className="w-32 h-32" />
                                 </div>
                                 {!showLeadForm ? (
                                     <div className="relative z-10 transition-all">
                                         <Zap className="w-16 h-16 text-primary mx-auto mb-6 animate-pulse" />
-                                        <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Predictions Ready!</h3>
-                                        <p className="text-slate-400 font-bold mb-8">Submit your details to see your predicted percentile and college cutoffs.</p>
+                                        <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Instant Report Ready!</h3>
+                                        <p className="text-slate-400 font-bold mb-8 italic">Based on your input, we have calculated your score and percentile. Unlock to see it.</p>
                                         <button
                                             onClick={() => setShowLeadForm(true)}
                                             className="bg-primary text-white border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-white hover:text-primary transition-all shadow-[8px_8px_0px_0px_rgba(255,255,255,0.2)]"
                                         >
-                                            Get Full Report
+                                            View My Score
                                         </button>
                                     </div>
                                 ) : (
@@ -347,21 +315,19 @@ export function CuetCalculator() {
                                                 required
                                                 value={leadData.location}
                                                 onChange={(e) => setLeadData({ ...leadData, location: e.target.value })}
-                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white focus:bg-white/20 focus:outline-none"
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white focus:bg-white/20 focus:outline-none uppercase text-xs"
                                             >
-                                                <option value="" className="text-black">Select Your Goal 2026</option>
+                                                <option value="" className="text-black">Your 2026 Goal?</option>
                                                 <option value="MBA" className="text-black">MBA Admission</option>
                                                 <option value="MCA" className="text-black">MCA Admission</option>
-                                                <option value="MA" className="text-black">M.A. Admission</option>
-                                                <option value="MSC" className="text-black">M.Sc. Admission</option>
-                                                <option value="Counseling" className="text-black">Career Counselling</option>
+                                                <option value="General Counselling" className="text-black">Career Counselling</option>
                                             </select>
                                         </div>
                                         <button
                                             type="submit"
                                             className="w-full bg-primary text-white p-4 font-black uppercase hover:bg-white hover:text-primary transition-all flex items-center justify-center gap-2 shadow-[4px_4px_0px_0px_rgba(255,255,255,0.3)]"
                                         >
-                                            Predict My Results
+                                            Get Instant Score
                                             <ChevronRight className="w-5 h-5" />
                                         </button>
                                         <button
@@ -381,18 +347,18 @@ export function CuetCalculator() {
                                 </div>
                                 <div className="relative z-10">
                                     <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block animate-pulse">
-                                        Verified Raw Score
+                                        Verified Score Result
                                     </span>
                                     <div className="text-8xl font-black mb-2">{stats.score}</div>
                                     <div className="text-xl font-bold text-slate-400">Total Points / 300 Max</div>
                                     
-                                    {calculationMethod === "url" && (
-                                        <div className="mt-8 bg-blue-500/20 border-2 border-blue-500/50 p-4 rounded-lg">
-                                            <p className="text-sm font-bold text-blue-100 italic">
-                                                *Sheet URL submitted for background analysis. We will notify you on WhatsApp if any normalization applies.
-                                            </p>
-                                        </div>
-                                    )}
+                                    <div className="mt-8 bg-blue-500/20 border-2 border-blue-500/50 p-4 rounded-lg">
+                                        <p className="text-xs font-bold text-blue-100 leading-tight">
+                                            {calculationMethod === "url" 
+                                                ? "*Scanned from link. We've fetched your attempt data instantly. Predicted percentile is based on current trends." 
+                                                : "*Calculated from manual entry. Predicted percentile is based on your correct/incorrect counts."}
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         )}
