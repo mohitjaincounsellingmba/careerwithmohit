@@ -225,130 +225,133 @@ export function JeeScoreCalculator() {
                     </div>
 
                     <div className="mb-8">
-                            <div className="flex flex-col md:flex-row gap-4 mb-4">
-                                <input
-                                    type="url"
-                                    value={responseSheetUrl}
-                                    onChange={(e) => setResponseSheetUrl(e.target.value)}
-                                    placeholder="Paste your cdn3.digialm.com URL here..."
-                                    className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
-                                />
-                                <button
-                                    onClick={handleAnalyzeUrl}
-                                    disabled={isAnalyzing}
-                                    className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
-                                >
-                                    {isAnalyzing ? "Scanning..." : "Analyze URL"}
-                                </button>
-                            </div>
-                            
-                            {parseError && <p className="text-rose-600 font-black text-xs uppercase mb-4 flex items-center gap-2">
+                        <div className="flex flex-col md:flex-row gap-4 mb-4">
+                            <input
+                                type="url"
+                                value={responseSheetUrl}
+                                onChange={(e) => setResponseSheetUrl(e.target.value)}
+                                placeholder="Paste your cdn3.digialm.com URL here..."
+                                className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all"
+                            />
+                            <button
+                                onClick={handleAnalyzeUrl}
+                                disabled={isAnalyzing}
+                                className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
+                            >
+                                {isAnalyzing ? "Scanning..." : "Analyze URL"}
+                            </button>
+                        </div>
+
+                        {parseError && (
+                            <p className="text-rose-600 font-black text-xs uppercase mb-4 flex items-center gap-2">
                                 <AlertCircle className="w-4 h-4" />
                                 {parseError}
-                            </p>}
+                            </p>
+                        )}
 
-                            {analysisResult && (
-                                <div id="verification-grid" className="bg-white border-4 border-primary p-4 animate-in slide-in-from-top-4 duration-500">
-                                    <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mb-6 border-b-2 border-slate-100 pb-4">
-                                        <div className="flex flex-wrap items-center gap-3 text-[10px] md:text-xs font-black uppercase">
-                                            <div className="flex items-center gap-1.5 text-primary">
-                                                <Zap className="w-4 h-4" />
-                                                {analysisResult.answeredCount} Answered
-                                            </div>
-                                            <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
-                                            <div className="flex items-center gap-1.5 text-green-600">
-                                                <ShieldCheck className="w-4 h-4" />
-                                                {correct || 0} Correct
-                                            </div>
-                                            <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
-                                            <div className="flex items-center gap-1.5 text-rose-600">
-                                                <X className="w-4 h-4 text-rose-500" />
-                                                {incorrect || 0} Incorrect
-                                            </div>
+                        {analysisResult && (
+                            <div id="verification-grid" className="bg-white border-4 border-primary p-4 animate-in slide-in-from-top-4 duration-500">
+                                <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mb-6 border-b-2 border-slate-100 pb-4">
+                                    <div className="flex flex-wrap items-center gap-3 text-[10px] md:text-xs font-black uppercase">
+                                        <div className="flex items-center gap-1.5 text-primary">
+                                            <Zap className="w-4 h-4" />
+                                            {analysisResult.answeredCount} Answered
                                         </div>
-                                        <button 
-                                            onClick={() => {
-                                                const c = Math.floor(analysisResult.answeredCount * 0.85);
-                                                const i = analysisResult.answeredCount - c;
-                                                setCorrect(c);
-                                                setIncorrect(i);
-                                            }}
-                                            className="text-[10px] font-black bg-primary text-white px-3 py-1 uppercase hover:bg-black transition-colors"
-                                        >
-                                            Quick Estimate
-                                        </button>
+                                        <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
+                                        <div className="flex items-center gap-1.5 text-green-600">
+                                            <ShieldCheck className="w-4 h-4" />
+                                            {correct || 0} Correct
+                                        </div>
+                                        <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
+                                        <div className="flex items-center gap-1.5 text-rose-600">
+                                            <X className="w-4 h-4 text-rose-500" />
+                                            {incorrect || 0} Incorrect
+                                        </div>
                                     </div>
+                                    <button
+                                        onClick={() => {
+                                            const c = Math.floor(analysisResult.answeredCount * 0.85);
+                                            const i = analysisResult.answeredCount - c;
+                                            setCorrect(c);
+                                            setIncorrect(i);
+                                        }}
+                                        className="text-[10px] font-black bg-primary text-white px-3 py-1 uppercase hover:bg-black transition-colors"
+                                    >
+                                        Quick Estimate
+                                    </button>
+                                </div>
 
-                                    <div className="max-h-[300px] overflow-y-auto mb-6 pr-2 custom-scrollbar">
-                                        <div className="grid grid-cols-1 gap-2">
-                                            {analysisResult.questions.filter((q: any) => q.status === 'Answered').map((q: any, idx: number) => (
+                                <div className="max-h-[300px] overflow-y-auto mb-6 pr-2 custom-scrollbar">
+                                    <div className="grid grid-cols-1 gap-2">
+                                        {analysisResult.questions
+                                            .filter((q: any) => q.status === "Answered")
+                                            .map((q: any, idx: number) => (
                                                 <div key={q.questionId} className="flex items-center justify-between p-3 border-2 border-slate-100 hover:border-primary/20 transition-colors bg-slate-50/50">
                                                     <div className="flex items-center gap-4">
                                                         <span className="text-[10px] font-black text-slate-400 w-6">#{idx + 1}</span>
                                                         <div>
                                                             <div className="text-[10px] font-black uppercase text-slate-500">QID: {q.questionId}</div>
-                                                            <div className="text-xs font-bold">Your Opt: <span className="text-primary font-black">{q.chosenOption}</span></div>
+                                                            <div className="text-xs font-bold">
+                                                                Your Opt: <span className="text-primary font-black">{q.chosenOption}</span>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                     <div className="flex gap-2">
-                                                        <button 
-                                                            onClick={() => toggleVerification(q.questionId, 'correct')}
-                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'correct' ? 'bg-green-500 border-green-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-green-500'}`}
+                                                        <button
+                                                            onClick={() => toggleVerification(q.questionId, "correct")}
+                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === "correct" ? "bg-green-500 border-green-600 text-white" : "bg-white border-slate-200 text-slate-300 hover:text-green-500"}`}
                                                         >
                                                             <Zap className="w-4 h-4" />
                                                         </button>
-                                                        <button 
-                                                            onClick={() => toggleVerification(q.questionId, 'incorrect')}
-                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'incorrect' ? 'bg-rose-500 border-rose-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-rose-500'}`}
+                                                        <button
+                                                            onClick={() => toggleVerification(q.questionId, "incorrect")}
+                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === "incorrect" ? "bg-rose-500 border-rose-600 text-white" : "bg-white border-slate-200 text-slate-300 hover:text-rose-500"}`}
                                                         >
                                                             <X className="w-4 h-4" />
                                                         </button>
                                                     </div>
                                                 </div>
                                             ))}
-                                        </div>
                                     </div>
-                                    <p className="text-[10px] font-bold text-slate-400 leading-tight uppercase text-center italic">
-                                        *TIPS: Mark Correct/Incorrect from key to see final score below.
-                                    </p>
                                 </div>
-                            )}
-                        </div>
+                                <p className="text-[10px] font-bold text-slate-400 leading-tight uppercase text-center italic">*TIPS: Mark Correct/Incorrect from key to see final score below.</p>
+                            </div>
+                        )}
+                    </div>
 
-                        <div className="border-t-2 border-slate-200 pt-6">
-                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Option 2: Paste Page Source (Backup)</label>
-                            <textarea
-                                value={pageSource}
-                                onChange={(e) => setPageSource(e.target.value)}
-                                placeholder="Backup: Open Sheet -> View Page Source -> Copy all -> Paste here."
-                                className="w-full h-24 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all mb-4"
-                            />
-                            <button
-                                onClick={handleParseSource}
-                                disabled={isParsing}
-                                className="w-full bg-slate-800 text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
-                            >
-                                {isParsing ? "Scanning Source..." : "Parse Source Code"}
-                            </button>
-                        </div>
+                    <div className="border-t-2 border-slate-200 pt-6">
+                        <label className="block text-xs font-black uppercase text-slate-500 mb-2">Option 2: Paste Page Source (Backup)</label>
+                        <textarea
+                            value={pageSource}
+                            onChange={(e) => setPageSource(e.target.value)}
+                            placeholder="Backup: Open Sheet -> View Page Source -> Copy all -> Paste here."
+                            className="w-full h-24 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all mb-4"
+                        />
                         <button
-                            onClick={(e) => {
-                                const el = (e.currentTarget.nextElementSibling as HTMLElement);
-                                el.classList.toggle('hidden');
-                            }}
-                            className="text-xs font-black uppercase text-primary hover:underline flex items-center gap-2"
+                            onClick={handleParseSource}
+                            disabled={isParsing}
+                            className="w-full bg-slate-800 text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
                         >
-                            <HelpCircle className="w-4 h-4" />
-                            How to get my Response Sheet URL?
+                            {isParsing ? "Scanning Source..." : "Parse Source Code"}
                         </button>
-                        <div className="hidden mt-4 bg-white border-2 border-slate-200 p-4 space-y-3">
-                            <ol className="list-decimal list-inside text-sm font-bold text-slate-700 space-y-2">
-                                <li>Log in to the official **NTA JEE portal**.</li>
-                                <li>Click on **'View Question Paper / Response Sheet'**.</li>
-                                <li>The sheet will open in a new tab. **Copy the full URL** from the browser address bar.</li>
-                                <li>Paste it above and hit 'Check Now'.</li>
-                            </ol>
-                        </div>
+                    </div>
+                    <button
+                        onClick={(e) => {
+                            const el = e.currentTarget.nextElementSibling as HTMLElement;
+                            el.classList.toggle("hidden");
+                        }}
+                        className="text-xs font-black uppercase text-primary hover:underline flex items-center gap-2"
+                    >
+                        <HelpCircle className="w-4 h-4" />
+                        How to get my Response Sheet URL?
+                    </button>
+                    <div className="hidden mt-4 bg-white border-2 border-slate-200 p-4 space-y-3">
+                        <ol className="list-decimal list-inside text-sm font-bold text-slate-700 space-y-2">
+                            <li>Log in to the official **NTA JEE portal**.</li>
+                            <li>Click on **'View Question Paper / Response Sheet'**.</li>
+                            <li>The sheet will open in a new tab. **Copy the full URL** from the browser address bar.</li>
+                            <li>Paste it above and hit 'Check Now'.</li>
+                        </ol>
                     </div>
                 </div>
 
@@ -362,9 +365,7 @@ export function JeeScoreCalculator() {
                     {/* Inputs Section */}
                     <div className="space-y-8">
                         <div>
-                            <label className="block text-sm font-black uppercase tracking-widest mb-3 text-slate-500">
-                                Correct Responses (+4)
-                            </label>
+                            <label className="block text-sm font-black uppercase tracking-widest mb-3 text-slate-500">Correct Responses (+4)</label>
                             <input
                                 type="number"
                                 value={correct}
@@ -375,9 +376,7 @@ export function JeeScoreCalculator() {
                         </div>
 
                         <div>
-                            <label className="block text-sm font-black uppercase tracking-widest mb-3 text-slate-500">
-                                Incorrect Responses (-1)
-                            </label>
+                            <label className="block text-sm font-black uppercase tracking-widest mb-3 text-slate-500">Incorrect Responses (-1)</label>
                             <input
                                 type="number"
                                 value={incorrect}
@@ -396,10 +395,7 @@ export function JeeScoreCalculator() {
                                     Unattempted: <span className="text-foreground">{unattempted || 0}</span>
                                 </div>
                             </div>
-                            <button
-                                onClick={reset}
-                                className="flex items-center gap-2 text-sm font-black uppercase tracking-widest text-primary hover:underline group"
-                            >
+                            <button onClick={reset} className="flex items-center gap-2 text-sm font-black uppercase tracking-widest text-primary hover:underline group">
                                 <RefreshCw className="w-4 h-4 group-hover:rotate-180 transition-transform duration-500" />
                                 Clear Inputs
                             </button>
@@ -407,9 +403,7 @@ export function JeeScoreCalculator() {
 
                         <div className="bg-amber-50 border-4 border-amber-200 p-6 flex gap-4">
                             <AlertCircle className="w-6 h-6 text-amber-600 flex-shrink-0" />
-                            <p className="text-sm font-bold text-amber-900 leading-tight">
-                                This tool uses the official **Session 2** marking scheme. Percentile approximations are based on the latest difficulty analysis.
-                            </p>
+                            <p className="text-sm font-bold text-amber-900 leading-tight">This tool uses the official **Session 2** marking scheme. Percentile approximations are based on the latest difficulty analysis.</p>
                         </div>
 
                         {!isUnlocked && !showLeadForm && (
@@ -490,10 +484,7 @@ export function JeeScoreCalculator() {
                                                 className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
                                             />
                                         </div>
-                                        <button
-                                            type="submit"
-                                            className="w-full bg-primary text-white p-4 font-black uppercase hover:bg-white hover:text-primary transition-all"
-                                        >
+                                        <button type="submit" className="w-full bg-primary text-white p-4 font-black uppercase hover:bg-white hover:text-primary transition-all">
                                             Show Results
                                         </button>
                                     </form>
@@ -505,15 +496,9 @@ export function JeeScoreCalculator() {
                                     <Zap className="w-40 h-40" />
                                 </div>
                                 <div className="relative z-10 text-center space-y-6">
-                                    <h3 className="text-2xl md:text-3xl font-black uppercase mb-2 leading-tight">
-                                        URL Received Successfully
-                                    </h3>
-                                    <p className="text-white/80 font-bold text-sm md:text-base leading-relaxed border-t-2 border-white/20 pt-6">
-                                        Our analysis engine is now mapping your responses to the Session 2 key.
-                                    </p>
-                                    <div className="bg-black/30 p-4 rounded-xl border-2 border-white/10 text-sm font-black tracking-widest uppercase">
-                                        Check WhatsApp for your full score report! 🚀
-                                    </div>
+                                    <h3 className="text-2xl md:text-3xl font-black uppercase mb-2 leading-tight">URL Received Successfully</h3>
+                                    <p className="text-white/80 font-bold text-sm md:text-base leading-relaxed border-t-2 border-white/20 pt-6">Our analysis engine is now mapping your responses to the Session 2 key.</p>
+                                    <div className="bg-black/30 p-4 rounded-xl border-2 border-white/10 text-sm font-black tracking-widest uppercase">Check WhatsApp for your full score report!</div>
                                 </div>
                             </div>
                         ) : (
@@ -522,10 +507,8 @@ export function JeeScoreCalculator() {
                                     <Trophy className="w-32 h-32" />
                                 </div>
                                 <div className="relative z-10">
-                                    <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block animate-pulse">
-                                        Verified Score Report
-                                    </span>
-                                    { (Number(correct) > 0 || Number(incorrect) > 0) ? (
+                                    <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block animate-pulse">Verified Score Report</span>
+                                    {Number(correct) > 0 || Number(incorrect) > 0 ? (
                                         <>
                                             <div className="text-8xl font-black mb-2">{stats.score}</div>
                                             <div className="text-xl font-bold text-slate-400">Total Marks / 300 Max</div>
@@ -551,7 +534,7 @@ export function JeeScoreCalculator() {
                         )}
 
                         <div className="grid grid-cols-2 gap-6">
-                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${!isUnlocked || calculationMethod === "url" ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Zap className="w-4 h-4" />
                                     Accuracy
@@ -559,7 +542,7 @@ export function JeeScoreCalculator() {
                                 <div className="text-3xl font-black text-foreground">{stats.accuracy.toFixed(1)}%</div>
                             </div>
 
-                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${!isUnlocked || calculationMethod === "url" ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Target className="w-4 h-4" />
                                     Percentile
@@ -582,7 +565,6 @@ export function JeeScoreCalculator() {
                 </div>
             </div>
 
-            {/* Inquiry Modal */}
             {showInquiry && (
                 <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-foreground/60 backdrop-blur-sm animate-in fade-in duration-300">
                     <div className="relative w-full max-w-4xl max-h-[90vh] overflow-y-auto shadow-[32px_32px_0px_0px_rgba(0,0,0,1)] border-8 border-foreground">
