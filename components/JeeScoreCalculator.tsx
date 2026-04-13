@@ -18,6 +18,7 @@ export function JeeScoreCalculator() {
     const [isAnalyzing, setIsAnalyzing] = useState(false);
     const [analysisResult, setAnalysisResult] = useState<any>(null);
     const [verifications, setVerifications] = useState<Record<string, 'correct' | 'incorrect' | null>>({});
+    const [responseSheetUrl, setResponseSheetUrl] = useState("");
     const [pageSource, setPageSource] = useState("");
     const [isParsing, setIsParsing] = useState(false);
     const [parseError, setParseError] = useState("");
