@@ -8,6 +8,7 @@ export function CuetCalculator() {
     const [correct, setCorrect] = useState<number | "">("");
     const [incorrect, setIncorrect] = useState<number | "">("");
     const [unattempted, setUnattempted] = useState<number | "">("");
+    const [targetGoal, setTargetGoal] = useState<string>("MBA");
 
     // Setup calculation method to conditionally render the results UI
     const [calculationMethod, setCalculationMethod] = useState<"manual" | "url">("manual");
@@ -155,9 +156,32 @@ export function CuetCalculator() {
         const i = Number(incorrect) || 0;
         const score = (c * 4) - i;
         const accuracy = (c + i) > 0 ? (c / (c + i)) * 100 : 0;
-        const percentile = score > 200 ? 99.9 : score > 150 ? 95 : 80;
+        
+        // Universal Percentile Logic (Goal Specific)
+        let percentile = 80;
+        if (targetGoal === "MBA") {
+            if (score > 240) percentile = 99.9;
+            else if (score > 210) percentile = 99.0;
+            else if (score > 180) percentile = 95.0;
+            else if (score > 150) percentile = 90.0;
+        } else if (targetGoal === "MCA") {
+            if (score > 220) percentile = 99.9;
+            else if (score > 190) percentile = 99.0;
+            else if (score > 160) percentile = 95.0;
+            else if (score > 140) percentile = 90.0;
+        } else if (targetGoal === "LLM") {
+            if (score > 250) percentile = 99.9;
+            else if (score > 220) percentile = 99.0;
+            else if (score > 190) percentile = 95.0;
+            else if (score > 160) percentile = 90.0;
+        } else {
+            if (score > 200) percentile = 99.5;
+            else if (score > 170) percentile = 95.0;
+            else if (score > 140) percentile = 90.0;
+        }
+
         return { score, accuracy, percentile };
-    }, [correct, incorrect]);
+    }, [correct, incorrect, targetGoal]);
 
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
@@ -203,6 +227,27 @@ export function CuetCalculator() {
                     <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tighter">
                         CUET PG 2026 Score Calculator
                     </h2>
+                </div>
+
+                <div className="mb-10 p-6 bg-slate-900 text-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(37,99,235,1)]">
+                    <label className="block text-sm font-black uppercase tracking-widest mb-4 flex items-center gap-2">
+                        <Target className="w-5 h-5 text-primary" />
+                        Please Select Your 2026 Admission Goal
+                    </label>
+                    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
+                        {["MBA", "MCA", "LLM", "MA", "M.Tech", "Other"].map((goal) => (
+                            <button
+                                key={goal}
+                                onClick={() => {
+                                    setTargetGoal(goal);
+                                    setLeadData(prev => ({ ...prev, location: goal }));
+                                }}
+                                className={`p-3 text-xs font-black uppercase border-2 transition-all ${targetGoal === goal ? 'bg-primary border-white text-white scale-105' : 'bg-white/10 border-white/20 text-white/60 hover:bg-white/20'}`}
+                            >
+                                {goal}
+                            </button>
+                        ))}
+                    </div>
                 </div>
 
                 {/* Response Sheet URL Section */}
@@ -444,20 +489,14 @@ export function CuetCalculator() {
                                             />
                                         </div>
                                         <div>
-                                            <select
+                                            <input
                                                 required
-                                                value={leadData.location}
-                                                onChange={(e) => setLeadData({ ...leadData, location: e.target.value })}
-                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white focus:bg-white/20 focus:outline-none uppercase text-xs"
-                                            >
-                                                <option value="" className="text-black">Your 2026 Goal?</option>
-                                                <option value="MBA" className="text-black">MBA Admission</option>
-                                                <option value="MCA" className="text-black">MCA Admission</option>
-                                                <option value="MA" className="text-black">MA Admission</option>
-                                                <option value="MTech" className="text-black">MTech Admission</option>
-                                                <option value="MCom" className="text-black">M.Com Admission</option>
-                                                <option value="Other" className="text-black">Other</option>
-                                            </select>
+                                                readOnly
+                                                type="text"
+                                                value={targetGoal}
+                                                className="w-full bg-white/20 border-2 border-primary p-3 font-bold text-primary focus:outline-none uppercase text-xs cursor-not-allowed"
+                                                title="Goal selected already"
+                                            />
                                         </div>
                                         <button
                                             type="submit"
