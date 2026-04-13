@@ -1,3 +1,5 @@
+'use client';
+
 import { useState, useEffect, useMemo } from 'react';
 import { Question } from '@/lib/mhcet-questions';
 import { ChevronLeft, ChevronRight, Clock, Flag, CheckCircle2, LayoutGrid, ArrowRightCircle } from 'lucide-react';

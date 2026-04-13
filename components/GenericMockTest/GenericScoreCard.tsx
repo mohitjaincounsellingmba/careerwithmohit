@@ -1,3 +1,5 @@
+'use client';
+
 import { useEffect, useMemo } from 'react';
 import { Trophy, Target, Zap, Download, RotateCcw } from 'lucide-react';
 import { GenericQuestion, ExamConfig } from '@/lib/mock-test-data';

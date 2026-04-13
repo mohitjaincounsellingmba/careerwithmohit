@@ -1,3 +1,5 @@
+'use client';
+
 import { useState, useEffect, useMemo } from 'react';
 import { ChevronLeft, ChevronRight, Clock, Flag, LayoutGrid } from 'lucide-react';
 import { GenericQuestion, ExamConfig } from '@/lib/mock-test-data';

@@ -1,3 +1,5 @@
+'use client';
+
 import { useEffect, useMemo } from 'react';
 import { Question } from '@/lib/mhcet-questions';
 import { StudentInfo } from './RegistrationForm';
