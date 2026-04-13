@@ -152,7 +152,7 @@ export function CuetCalculator() {
                                         <Zap className="w-4 h-4" />
                                         Sheet Scanned Successfully!
                                     </div>
-                                    <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                                    <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                                         <div className="bg-slate-50 p-3 border-2 border-slate-200">
                                             <div className="text-[10px] font-black text-slate-400 uppercase">Questions Found</div>
                                             <div className="text-xl font-black">{analysisResult.totalFetched}</div>
@@ -165,9 +165,23 @@ export function CuetCalculator() {
                                             <div className="text-[10px] font-black text-slate-400 uppercase">Unattempted</div>
                                             <div className="text-xl font-black">{analysisResult.unansweredCount}</div>
                                         </div>
+                                        <div className="bg-primary/10 p-3 border-2 border-primary/20 flex flex-col justify-center">
+                                            <button 
+                                                onClick={() => {
+                                                    const c = Math.floor(analysisResult.answeredCount * 0.9);
+                                                    const i = analysisResult.answeredCount - c;
+                                                    setCorrect(c);
+                                                    setIncorrect(i);
+                                                    setUnattempted(analysisResult.unansweredCount);
+                                                }}
+                                                className="text-[10px] font-black text-primary uppercase hover:underline text-center"
+                                            >
+                                                Estimate Score? (90% Acc)
+                                            </button>
+                                        </div>
                                     </div>
                                     <p className="mt-4 text-[10px] font-bold text-slate-600 leading-tight uppercase">
-                                        *To see your predicted score, please check your correct answers using the official key and enter the count in Step 2 below.
+                                        *To see your predicted score, please check your correct answers using the official key and enter the count in Step 2 below. <strong>Or use the Estimate button for a quick guess.</strong>
                                     </p>
                                 </div>
                             )}
@@ -200,7 +214,7 @@ export function CuetCalculator() {
 
                 <div id="step-2-section" className="flex items-center gap-3 mb-10 transition-all">
                     <div className="h-1 flex-1 bg-slate-200"></div>
-                    <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">STEP 2: ENER COUNTS FOR INSTANT SCORE</span>
+                    <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">STEP 2: ENTER COUNTS FOR INSTANT SCORE</span>
                     <div className="h-1 flex-1 bg-slate-200"></div>
                 </div>
 
@@ -244,6 +258,12 @@ export function CuetCalculator() {
                                 <RefreshCw className="w-4 h-4 group-hover:rotate-180 transition-transform duration-500" />
                                 Clear
                             </button>
+                        </div>
+
+                        <div className="bg-primary/5 border-2 border-primary/20 p-4 rounded-lg">
+                            <p className="text-xs font-bold text-slate-600 leading-tight">
+                                <strong>Pro Tip:</strong> Compare your response sheet IDs with the Official Answer Key PDF to get exact counts.
+                            </p>
                         </div>
 
                         {!isUnlocked && !showLeadForm && (
@@ -349,8 +369,17 @@ export function CuetCalculator() {
                                     <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block animate-pulse">
                                         Verified Score Result
                                     </span>
-                                    <div className="text-8xl font-black mb-2">{stats.score}</div>
-                                    <div className="text-xl font-bold text-slate-400">Total Points / 300 Max</div>
+                                    { (Number(correct) > 0 || Number(incorrect) > 0) ? (
+                                        <>
+                                            <div className="text-8xl font-black mb-2">{stats.score}</div>
+                                            <div className="text-xl font-bold text-slate-400">Total Points / 300 Max</div>
+                                        </>
+                                    ) : (
+                                        <>
+                                            <div className="text-4xl font-black mb-2 uppercase">Awaiting Comparison</div>
+                                            <div className="text-sm font-bold text-slate-400">Please enter correct/incorrect count from key</div>
+                                        </>
+                                    )}
                                     
                                     <div className="mt-8 bg-blue-500/20 border-2 border-blue-500/50 p-4 rounded-lg">
                                         <p className="text-xs font-bold text-blue-100 leading-tight">

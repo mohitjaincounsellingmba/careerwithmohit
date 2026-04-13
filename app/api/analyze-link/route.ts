@@ -13,42 +13,40 @@ export async function POST(req: NextRequest) {
             return NextResponse.json({ error: 'Please provide a valid NTA Response Sheet URL.' }, { status: 400 });
         }
 
-        const response = await fetch(url);
+        const response = await fetch(url, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+            }
+        });
+        
         if (!response.ok) {
-            return NextResponse.json({ error: 'Failed to fetch the response sheet. The link might be expired or protected.' }, { status: 400 });
+            return NextResponse.json({ error: 'Failed to access the response sheet. NTA servers might be busy or the link is private.' }, { status: 400 });
         }
 
         const html = await response.text();
 
-        // Regex patterns for NTA response sheets
-        // Question ID : </td><td class="tf">(\d+)</td>
-        // Status : </td><td class="tf">(Answered|Not Answered)</td>
-        // Chosen Option : </td><td class="tf">(\d+| -- )</td>
+        // More robust patterns matching the specific bold class structure
+        const questionMatches = Array.from(html.matchAll(/Question ID ?: ?<\/td><td[^>]*>(\d+)<\/td>/g)).map(m => m[1]);
+        const statusMatches = Array.from(html.matchAll(/Status ?: ?<\/td><td[^>]*>(Answered|Not Answered|Marked for Review)<\/td>/g)).map(m => m[1]);
+        const optionMatches = Array.from(html.matchAll(/Chosen Option ?: ?<\/td><td[^>]*>(.*?)<\/td>/g)).map(m => m[1].replace(/&nbsp;/g, '').trim());
 
-        const questionMatches = html.matchAll(/Question ID ?: ?<\/td><td[^>]*>(\d+)<\/td>/g);
-        const statusMatches = html.matchAll(/Status ?: ?<\/td><td[^>]*>(Answered|Not Answered|Marked for Review)<\/td>/g);
-        const optionMatches = html.matchAll(/Chosen Option ?: ?<\/td><td[^>]*>(\d+| -- |&nbsp;)<\/td>/g);
-
-        const questions = Array.from(questionMatches).map(m => m[1]);
-        const statuses = Array.from(statusMatches).map(m => m[1]);
-        const options = Array.from(optionMatches).map(m => m[1].trim());
-
-        if (questions.length === 0) {
-            return NextResponse.json({ error: 'Could not find question data in the provided URL. Make sure it is the correct response sheet page.' }, { status: 400 });
+        if (questionMatches.length === 0) {
+            return NextResponse.json({ error: 'No question data found. Please ensure you are pasting the correct Response Sheet URL.' }, { status: 400 });
         }
 
-        const answeredCount = statuses.filter(s => s === 'Answered').length;
+        const answeredCount = statusMatches.filter(s => s === 'Answered').length;
 
         return NextResponse.json({
             success: true,
             data: {
-                totalFetched: questions.length,
+                totalFetched: questionMatches.length,
                 answeredCount: answeredCount,
-                unansweredCount: questions.length - answeredCount,
-                questions: questions.map((qId, i) => ({
-                    questionId: qId,
-                    status: statuses[i] || 'Unknown',
-                    chosenOption: options[i] || '--'
+                unansweredCount: questionMatches.length - answeredCount,
+                questions: questionMatches.map((mid, i) => ({
+                    questionId: mid,
+                    status: statusMatches[i] || 'Unknown',
+                    chosenOption: optionMatches[i] || '--'
                 }))
             }
         });
