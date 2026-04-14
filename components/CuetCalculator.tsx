@@ -140,13 +140,20 @@ export function CuetCalculator() {
     const handleCorrectChange = (val: string) => {
         const num = parseInt(val);
         if (val === "" || (num >= 0 && num <= totalQuestions)) {
+            const newCorrect = val === "" ? 0 : num;
             setCorrect(val === "" ? "" : num);
+            // Re-clamp incorrect so correct + incorrect never exceeds totalQuestions
+            const maxIncorrect = totalQuestions - newCorrect;
+            if (Number(incorrect) > maxIncorrect) {
+                setIncorrect(maxIncorrect);
+            }
         }
     };
 
     const handleIncorrectChange = (val: string) => {
         const num = parseInt(val);
-        if (val === "" || (num >= 0 && num <= totalQuestions - (Number(correct) || 0))) {
+        const maxIncorrect = totalQuestions - (Number(correct) || 0);
+        if (val === "" || (num >= 0 && num <= maxIncorrect)) {
             setIncorrect(val === "" ? "" : num);
         }
     };
@@ -154,31 +161,25 @@ export function CuetCalculator() {
     const stats = useMemo(() => {
         const c = Number(correct) || 0;
         const i = Number(incorrect) || 0;
-        const score = (c * 4) - i;
+        // Official NTA CUET PG Marking: +4 per correct, -1 per incorrect
+        // Formula: (Correct × 4) - (Incorrect × 1)
+        const score = (c * 4) - (i * 1);
         const accuracy = (c + i) > 0 ? (c / (c + i)) * 100 : 0;
         
-        // Universal Percentile Logic (Goal Specific)
-        let percentile = 80;
-        if (targetGoal === "MBA") {
-            if (score > 240) percentile = 99.9;
-            else if (score > 210) percentile = 99.0;
-            else if (score > 180) percentile = 95.0;
-            else if (score > 150) percentile = 90.0;
-        } else if (targetGoal === "MCA") {
-            if (score > 220) percentile = 99.9;
-            else if (score > 190) percentile = 99.0;
-            else if (score > 160) percentile = 95.0;
-            else if (score > 140) percentile = 90.0;
-        } else if (targetGoal === "LLM") {
-            if (score > 250) percentile = 99.9;
-            else if (score > 220) percentile = 99.0;
-            else if (score > 190) percentile = 95.0;
-            else if (score > 160) percentile = 90.0;
-        } else {
-            if (score > 200) percentile = 99.5;
-            else if (score > 170) percentile = 95.0;
-            else if (score > 140) percentile = 90.0;
-        }
+        // Percentile Logic — aligned with NTA CUET PG 2026 Score vs Percentile table
+        // Consistent with reference table: 230-250 → 99.9+, 200-229 → 99.0-99.85,
+        // 180-199 → 95-98.99, 150-179 → 90-94.99, 120-149 → 80-89.99
+        let percentile = 0;
+        if (score >= 230) percentile = 99.9;
+        else if (score >= 200) percentile = 99.0;
+        else if (score >= 180) percentile = 95.0;
+        else if (score >= 150) percentile = 90.0;
+        else if (score >= 120) percentile = 80.0;
+        else if (score >= 90)  percentile = 70.0;
+        else if (score >= 60)  percentile = 60.0;
+        else if (score >= 30)  percentile = 50.0;
+        else if (score >= 0)   percentile = 40.0;
+        else percentile = 20.0; // negative score range
 
         return { score, accuracy, percentile };
     }, [correct, incorrect, targetGoal]);
@@ -424,40 +425,74 @@ export function CuetCalculator() {
                             </button>
                         </div>
 
-                        {!isUnlocked && !showLeadForm && (
-                            <button
-                                onClick={() => {
-                                    setShowLeadForm(true);
-                                }}
-                                className="w-full bg-foreground text-white border-4 border-primary px-8 py-5 text-xl font-black uppercase hover:bg-black transition-all shadow-[8px_8px_0px_0px_rgba(37,99,235,1)] flex items-center justify-center gap-3"
-                            >
-                                <Calculator className="w-6 h-6" />
-                                Predict My Percentile
-                            </button>
-                        )}
+
                     </div>
 
                     {/* Results Section */}
                     <div className="flex flex-col justify-between space-y-8">
+
+                        {/* ── ALWAYS VISIBLE: Raw Score Card ── */}
+                        <div className="bg-foreground text-white p-8 border-b-[12px] border-primary relative overflow-hidden">
+                            <div className="absolute top-0 right-0 p-4 opacity-10">
+                                <Trophy className="w-32 h-32" />
+                            </div>
+                            <div className="relative z-10">
+                                <span className="text-xs font-black uppercase tracking-[0.2em] text-primary mb-3 block">
+                                    Raw Score (NTA Formula)
+                                </span>
+                                { (Number(correct) > 0 || Number(incorrect) > 0) ? (
+                                    <>
+                                        <div className={`text-8xl font-black mb-1 ${stats.score < 0 ? 'text-rose-400' : 'text-white'}`}>
+                                            {stats.score}
+                                        </div>
+                                        <div className="text-sm font-bold text-slate-400 mb-4">out of 300</div>
+                                        {/* Formula breakdown */}
+                                        <div className="bg-white/10 border border-white/20 px-4 py-2 text-xs font-black font-mono mb-4">
+                                            ({Number(correct)} × 4) − ({Number(incorrect)} × 1) = <span className={stats.score < 0 ? 'text-rose-300' : 'text-primary'}>{stats.score}</span>
+                                        </div>
+                                        <div className="grid grid-cols-2 gap-3">
+                                            <div className="bg-green-500/20 p-2 border-l-4 border-green-500">
+                                                <div className="text-[10px] uppercase font-black">Correct (+4 each)</div>
+                                                <div className="text-xl font-black">+{(Number(correct) * 4)}</div>
+                                            </div>
+                                            <div className="bg-rose-500/20 p-2 border-l-4 border-rose-500">
+                                                <div className="text-[10px] uppercase font-black">Incorrect (−1 each)</div>
+                                                <div className="text-xl font-black">−{Number(incorrect)}</div>
+                                            </div>
+                                        </div>
+                                        {stats.score < 0 && (
+                                            <div className="mt-3 bg-rose-500/20 border border-rose-500/50 p-2 text-xs font-bold text-rose-200">
+                                                ⚠ Negative score is valid per NTA rules. Incorrect answers reduce your raw score.
+                                            </div>
+                                        )}
+                                    </>
+                                ) : (
+                                    <>
+                                        <div className="text-3xl font-black mb-2 uppercase text-slate-400">Enter Your Counts</div>
+                                        <div className="text-sm font-bold text-slate-500">Fill correct &amp; incorrect answers on the left to see your score instantly.</div>
+                                    </>
+                                )}
+                            </div>
+                        </div>
+
+                        {/* ── GATED: Percentile Prediction ── */}
                         {!isUnlocked ? (
-                            <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden flex flex-col items-center text-center justify-center min-h-[350px]">
-                                <div className="absolute top-0 right-0 p-4 opacity-10">
-                                    <Trophy className="w-32 h-32" />
-                                </div>
+                            <div className="bg-slate-900 text-white p-6 border-4 border-dashed border-primary/40 relative overflow-hidden flex flex-col items-center text-center justify-center min-h-[180px]">
                                 {!showLeadForm ? (
                                     <div className="relative z-10 transition-all">
-                                        <Zap className="w-16 h-16 text-primary mx-auto mb-6 animate-pulse" />
-                                        <h3 className="text-2xl font-black uppercase mb-4 leading-tight">Instant Report Ready!</h3>
-                                        <p className="text-slate-400 font-bold mb-8 italic">Based on your input, we have calculated your score and percentile. Unlock to see it.</p>
+                                        <Zap className="w-10 h-10 text-primary mx-auto mb-3 animate-pulse" />
+                                        <h3 className="text-lg font-black uppercase mb-2 leading-tight">Unlock Percentile Prediction</h3>
+                                        <p className="text-slate-400 font-bold mb-4 text-sm">Get your predicted percentile &amp; college cutoff chances.</p>
                                         <button
                                             onClick={() => setShowLeadForm(true)}
-                                            className="bg-primary text-white border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-white hover:text-primary transition-all shadow-[8px_8px_0px_0px_rgba(255,255,255,0.2)]"
+                                            className="bg-primary text-white border-4 border-white px-6 py-3 text-sm font-black uppercase hover:bg-white hover:text-primary transition-all"
                                         >
-                                            View My Score
+                                            Predict My Percentile
                                         </button>
                                     </div>
                                 ) : (
-                                    <form onSubmit={handleLeadSubmit} className="relative z-10 w-full space-y-4 text-left">
+                                    <form onSubmit={handleLeadSubmit} className="relative z-10 w-full space-y-3 text-left">
+                                        <p className="text-xs font-black text-primary uppercase mb-2">Enter details to unlock percentile →</p>
                                         <div>
                                             <input
                                                 required
@@ -500,9 +535,9 @@ export function CuetCalculator() {
                                         </div>
                                         <button
                                             type="submit"
-                                            className="w-full bg-primary text-white p-4 font-black uppercase hover:bg-white hover:text-primary transition-all flex items-center justify-center gap-2 shadow-[4px_4px_0px_0px_rgba(255,255,255,0.3)]"
+                                            className="w-full bg-primary text-white p-3 font-black uppercase hover:bg-white hover:text-primary transition-all flex items-center justify-center gap-2"
                                         >
-                                            Get Instant Score
+                                            Get My Percentile
                                             <ChevronRight className="w-5 h-5" />
                                         </button>
                                         <button
@@ -510,49 +545,22 @@ export function CuetCalculator() {
                                             onClick={() => setShowLeadForm(false)}
                                             className="w-full text-[10px] font-black text-white/40 uppercase hover:text-white transition-colors text-center"
                                         >
-                                            ← Adjust Score
+                                            ← Back
                                         </button>
                                     </form>
                                 )}
                             </div>
                         ) : (
-                            <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden animate-in fade-in zoom-in duration-500">
-                                <div className="absolute top-0 right-0 p-4 opacity-10">
-                                    <Trophy className="w-32 h-32" />
-                                </div>
-                                <div className="relative z-10">
-                                    <span className="text-sm font-black uppercase tracking-[0.2em] text-primary mb-4 block animate-pulse">
-                                        Verified Score Result
-                                    </span>
-                                    { (Number(correct) > 0 || Number(incorrect) > 0) ? (
-                                        <>
-                                            <div className="text-8xl font-black mb-2">{stats.score}</div>
-                                            <div className="text-xl font-bold text-slate-400">Total Points / 300 Max</div>
-                                            <div className="mt-4 grid grid-cols-2 gap-4">
-                                                <div className="bg-green-500/20 p-2 border-l-4 border-green-500">
-                                                    <div className="text-[10px] uppercase font-black">Correct</div>
-                                                    <div className="text-xl font-black">+{correct}</div>
-                                                </div>
-                                                <div className="bg-rose-500/20 p-2 border-l-4 border-rose-500">
-                                                    <div className="text-[10px] uppercase font-black">Incorrect</div>
-                                                    <div className="text-xl font-black">-{incorrect}</div>
-                                                </div>
-                                            </div>
-                                        </>
-                                    ) : (
-                                        <>
-                                            <div className="text-4xl font-black mb-2 uppercase">Awaiting Comparison</div>
-                                            <div className="text-sm font-bold text-slate-400">Please enter correct/incorrect count from key</div>
-                                        </>
-                                    )}
-                                    
-                                    <div className="mt-8 bg-blue-500/20 border-2 border-blue-500/50 p-4 rounded-lg">
-                                        <p className="text-xs font-bold text-blue-100 leading-tight">
-                                            {calculationMethod === "url" 
-                                                ? "*Scanned from link. Correct/Incorrect counts verified via your selection. Percentile predicted from trends." 
-                                                : "*Calculated from manual entry. Predicted percentile is based on your correct/incorrect counts."}
-                                        </p>
-                                    </div>
+                            <div className="bg-slate-900 text-white p-6 border-4 border-primary animate-in fade-in zoom-in duration-500">
+                                <span className="text-xs font-black uppercase tracking-[0.2em] text-primary mb-3 block animate-pulse">
+                                    Percentile Prediction Unlocked ✓
+                                </span>
+                                <div className="bg-blue-500/20 border-2 border-blue-500/50 p-3">
+                                    <p className="text-xs font-bold text-blue-100 leading-tight">
+                                        {calculationMethod === "url" 
+                                            ? "*Scanned from response sheet. Mark each question Correct/Incorrect using the answer key above to refine your score." 
+                                            : "*Calculated from manual entry. This is your estimated raw score before NTA normalization."}
+                                    </p>
                                 </div>
                             </div>
                         )}
