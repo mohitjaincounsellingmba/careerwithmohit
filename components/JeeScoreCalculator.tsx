@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X, ShieldCheck } from "lucide-react";
+import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X, ShieldCheck, Send, Compass } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
 
 export function JeeScoreCalculator() {
@@ -81,6 +81,65 @@ export function JeeScoreCalculator() {
             
             return newVerif;
         });
+    };
+
+    const handleCorrectChange = (val: string) => {
+        const num = val === "" ? "" : Math.min(75, Math.max(0, parseInt(val) || 0));
+        setCorrect(num);
+    };
+
+    const handleIncorrectChange = (val: string) => {
+        const num = val === "" ? "" : Math.min(75, Math.max(0, parseInt(val) || 0));
+        setIncorrect(num);
+    };
+
+    const reset = () => {
+        setCorrect("");
+        setIncorrect("");
+        setUnattempted("");
+        setResponseSheetUrl("");
+        setPageSource("");
+        setAnalysisResult(null);
+        setVerifications({});
+    };
+
+    const stats = useMemo(() => {
+        const s = (Number(correct) || 0) * 4 - (Number(incorrect) || 0) * 1;
+        const score = s < 0 ? 0 : s;
+        
+        let percentile = 0;
+        if (score >= 280) percentile = 99.9;
+        else if (score >= 240) percentile = 99.8;
+        else if (score >= 200) percentile = 99.5;
+        else if (score >= 180) percentile = 99.0;
+        else if (score >= 150) percentile = 98.0;
+        else if (score >= 120) percentile = 95.0;
+        else if (score >= 100) percentile = 90.0;
+        else percentile = Math.max(1, (score / 300) * 100);
+
+        const accuracy = ((Number(correct) || 0) / (((Number(correct) || 0) + (Number(incorrect) || 0)) || 1)) * 100;
+        
+        return { score, percentile: percentile.toFixed(2), accuracy };
+    }, [correct, incorrect]);
+
+    const handleLeadSubmit = async (e: React.FormEvent) => {
+        e.preventDefault();
+        try {
+            await fetch("https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    ...leadData,
+                    score: stats.score,
+                    percentile: stats.percentile,
+                    exam: "JEE Main 2026 Session 2"
+                })
+            });
+            setIsUnlocked(true);
+        } catch (err) {
+            console.error("Lead submission failed", err);
+            setIsUnlocked(true);
+        }
     };
 
     const handleParseSource = async () => {
@@ -625,7 +684,7 @@ export function JeeScoreCalculator() {
                 </div>
             )}
             
-            <style jsx global>{`
+            <style>{`
                 @keyframes progress {
                     0% { width: 0%; }
                     100% { width: 80%; }
@@ -654,7 +713,5 @@ export function JeeScoreCalculator() {
                 }
             `}</style>
         </div>
-    );
-}
     );
 }
