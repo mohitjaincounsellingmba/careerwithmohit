@@ -7,7 +7,19 @@ import { notFound } from 'next/navigation';
 export const metadata: Metadata = {
   title: 'Free CAT Mock Test 2026 | IIM 99+ Percentile Mock Tool',
   description: 'Take our free full-length CAT 2026 mock test. 66 questions, 120 minutes, with sectional 40-minute timers. Get instant percentile prediction, VARC analysis, and IIM admission guide.',
-  keywords: 'Free CAT mock test 2026, IIM mock test free, CAT 2026 practice paper, MBA preparation Mumbai, CAT mock test Pune, percentile predictor CAT, VARC questions CAT, DILR mock test, Quant practice for CAT',
+  keywords: [
+    'CAT 2026 mock test', 'CAT 2026 test series', 'Best mock test for CAT 2026', 'CAT 2026 preparation material', 
+    'Online CAT coaching 2026', 'CAT exam 2026 date', 'CAT 2026 syllabus PDF', 'Free CAT mock test 2026', 
+    'CAT 2026 free study material', 'CAT previous year question papers with solutions', 'Free sectional tests for CAT 2026', 
+    'CAT 2026 exam pattern', 'CAT formula book PDF', 'CAT 2026 VARC practice questions', 'DILR sets for CAT 2026 with solutions', 
+    'Quantitative Aptitude mock test 2026', 'CAT 2026 Reading Comprehension passages', 'Logical Reasoning puzzles for CAT', 
+    'Data Interpretation practice for CAT', 'How to score 99 percentile in CAT 2026', 'CAT 2026 preparation strategy for beginners', 
+    'CAT 2026 study plan for working professionals', 'CAT score vs percentile 2026', 'IIM admission criteria 2027', 
+    'CAT 2026 registration process', 'TIME AIMCAT 2026 vs IMS SimCAT 2026', 'Career Launcher CDC 2026 review', 
+    'Cracku vs Rodha CAT test series', 'Best online test series for CAT 2026', 'Toughness level of different CAT mocks', 
+    'CAT 2026 expected cut-offs for IIMs', 'Adaptive mock tests for CAT 2026', 'Non-engineer strategy for CAT 2026', 
+    'CAT 2026 notification updates', 'Daily targets for CAT 2026 preparation', 'MBA entrance exams 2026 list'
+  ],
   openGraph: {
     title: 'Free CAT Mock Test 2026 | Master the IIM Admissions',
     description: 'Master the Common Admission Test (CAT) with our realistic mock tool. Experience 2-hour intense management testing with AI analysis and sectional reports.',
@@ -223,6 +235,86 @@ export default function CatMockTestPage() {
                   </p>
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Popular CAT 2026 Search Phrases (SEO Section) */}
+          <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
+              <BookOpen className="w-10 h-10 text-primary" /> CAT 2026: Popular Topics & Resources
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+               <div className="space-y-4">
+                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
+                 <ul className="space-y-2 text-sm font-bold text-gray-600 italic">
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 mock test</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 test series</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Best mock test for CAT 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 preparation material</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Online CAT coaching 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT exam 2026 date</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 syllabus PDF</li>
+                 </ul>
+               </div>
+               
+               <div className="space-y-4">
+                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Free Study Material</h4>
+                 <ul className="space-y-2 text-sm font-bold text-gray-600 italic">
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Free CAT mock test 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 free study material</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT previous year question papers</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Free sectional tests for CAT 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 exam pattern</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT formula book PDF</li>
+                 </ul>
+               </div>
+
+               <div className="space-y-4">
+                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Sectional Practice</h4>
+                 <ul className="space-y-2 text-sm font-bold text-gray-600 italic">
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 VARC practice questions</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> DILR sets for CAT 2026 with solutions</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Quantitative Aptitude mock test 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 Reading Comprehension</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Logical Reasoning puzzles for CAT</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Data Interpretation practice for CAT</li>
+                 </ul>
+               </div>
+
+               <div className="space-y-4">
+                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Intent & Strategy</h4>
+                 <ul className="space-y-2 text-sm font-bold text-gray-600 italic">
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> How to score 99 percentile in CAT 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Preparation strategy for beginners</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Study plan for working professionals</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT score vs percentile 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> IIM admission criteria 2027</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 registration process</li>
+                 </ul>
+               </div>
+
+               <div className="space-y-4">
+                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Comparisons & Brands</h4>
+                 <ul className="space-y-2 text-sm font-bold text-gray-600 italic">
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> TIME AIMCAT 2026 vs IMS SimCAT 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Career Launcher CDC 2026 review</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Cracku vs Rodha CAT test series</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Best online test series for CAT 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Toughness level of different mocks</li>
+                 </ul>
+               </div>
+
+               <div className="space-y-4">
+                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">LSI & Long-Tail</h4>
+                 <ul className="space-y-2 text-sm font-bold text-gray-600 italic">
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 expected cut-offs for IIMs</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Adaptive mock tests for CAT 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Non-engineer strategy for CAT 2026</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> CAT 2026 notification updates</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> Daily targets for CAT 2026 preparation</li>
+                   <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> MBA entrance exams 2026 list</li>
+                 </ul>
+               </div>
             </div>
           </section>
 
