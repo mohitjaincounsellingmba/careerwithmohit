@@ -13,6 +13,33 @@ export interface PostData {
   keywords?: string[];
   content?: string;
   faqs?: { question: string; answer: string }[];
+  category?: string;
+}
+
+function inferCategory(data: any, slug: string): string {
+  if (data.category && data.category.trim() !== '') {
+    // If it's a broad category we already map, keep it, otherwise maybe normalize.
+    const rawCategory = data.category.toLowerCase();
+    if (rawCategory.includes('mba') || rawCategory.includes('pgdm')) return 'MBA';
+    if (rawCategory.includes('bba')) return 'BBA';
+    if (rawCategory.includes('btech') || rawCategory.includes('b.tech')) return 'B.Tech';
+    if (rawCategory.includes('job') || rawCategory.includes('career')) return 'Jobs & Careers';
+    if (rawCategory.includes('exam')) return 'Exams';
+    if (rawCategory.includes('online')) return 'Online Degrees';
+    return data.category;
+  }
+
+  const textToSearch = `${slug} ${data.title} ${(data.keywords || []).join(' ')}`.toLowerCase();
+  
+  if (textToSearch.includes('hiring') || textToSearch.includes('job') || textToSearch.includes('salary') || textToSearch.includes('recruit')) return 'Jobs & Careers';
+  if (textToSearch.includes('mba') || textToSearch.includes('pgdm') || textToSearch.includes('iim')) return 'MBA';
+  if (textToSearch.includes('bba') || textToSearch.includes('bms')) return 'BBA';
+  if (textToSearch.includes('btech') || textToSearch.includes('b.tech') || textToSearch.includes('engineering') || textToSearch.includes('jee')) return 'B.Tech';
+  if (textToSearch.includes('law') || textToSearch.includes('llb') || textToSearch.includes('clat')) return 'Law';
+  if (textToSearch.includes('exam') || textToSearch.includes('mock test') || textToSearch.includes('cet') || textToSearch.includes('cuet') || textToSearch.includes('result')) return 'Exams';
+  if (textToSearch.includes('bca') || textToSearch.includes('mca')) return 'BCA/MCA';
+  
+  return 'General';
 }
 
 export const getSortedPostsData = cache(() => {
@@ -44,6 +71,7 @@ export const getSortedPostsData = cache(() => {
         date: matterResult.data.date,
         description: matterResult.data.description,
         keywords: matterResult.data.keywords || [],
+        category: inferCategory(matterResult.data, slug),
       };
     });
 
@@ -67,6 +95,7 @@ export function getPostData(slug: string): PostData | null {
       keywords: matterResult.data.keywords || [],
       content: matterResult.content,
       faqs: matterResult.data.faqs || [],
+      category: inferCategory(matterResult.data, slug),
     };
   } catch (e) {
     return null;
