@@ -6,25 +6,36 @@ import { ShieldCheck, Zap, HelpCircle, BookOpen, GraduationCap, Calendar, Trendi
 import Link from "next/link";
 
 export const metadata: Metadata = {
-    title: "CUET UG 2026 Score Calculator & Response Sheet Parser | Results & Predictor",
-    description: "Free CUET UG 2026 score calculator. Calculate subject-wise raw scores for Language, Domain Subjects, and General Test with official NTA marking (+5/-1). Predict percentile and check college cutoffs.",
+    title: "CUET UG 2026 Score Calculator & Percentile Predictor | NTA Score",
+    description: "Free NTA CUET UG 2026 score calculator. Calculate CUET UG raw score, predict percentile, and compare CUET 2026 Marks vs Percentile for DU and BHU admissions.",
     keywords: [
-        "CUET UG calculator",
-        "CUET UG 2026 score calculator",
-        "CUET UG response sheet calculator",
-        "CUET UG marks calculator",
-        "CUET UG rank predictor 2026",
-        "CUET UG percentile predictor",
-        "CUET UG marks vs percentile",
-        "DU admission 2026",
-        "BHU cutoff 2026",
-        "JNU UG admission",
-        "calculate my cuet ug score",
-        "NTA CUET UG marking scheme"
+        "CUET UG 2026 Score Calculator",
+        "CUET Score Predictor 2026",
+        "Calculate CUET UG Raw Score",
+        "CUET 2026 Marks vs Percentile Calculator",
+        "NTA CUET UG Score Calculator",
+        "CUET Percentile Predictor 2026",
+        "How to calculate CUET UG score 2026",
+        "CUET UG 2026 marking scheme",
+        "CUET normalization process explained",
+        "How to use CUET response sheet to calculate marks",
+        "CUET 2026 negative marking formula",
+        "Calculating CUET percentile from raw marks",
+        "Good score in CUET UG 2026",
+        "CUET marks vs percentile for DU",
+        "What is a safe score for BHU in CUET 2026?",
+        "CUET 2026 expected cut-off for top universities",
+        "CUET score required for North Campus DU",
+        "CUET 700+ marks vs percentile",
+        "CUET UG answer key 2026 download",
+        "NTA normalization formula CUET 2026",
+        "CUET subject-wise score calculator (Domain + General Test)",
+        "CUET 2026 score calculator for Science/Commerce/Arts",
+        "Calculate CUET score without official answer key"
     ],
     openGraph: {
-        title: "CUET UG 2026 Score Calculator & Predictor",
-        description: "Calculate your CUET UG raw score instantly. Predict percentile and check admission chances for top central universities.",
+        title: "NTA CUET UG 2026 Score Calculator & Predictor",
+        description: "Calculate your CUET UG raw score instantly. Predict percentile and check admission chances for top central universities like DU and BHU.",
         type: "website",
     },
 };
@@ -36,34 +47,34 @@ export default function CuetUgCalculatorPage() {
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the marking scheme for CUET UG 2026?",
+                "name": "What is the CUET 2026 negative marking formula?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The CUET UG 2026 marking scheme awards +5 marks for every correct answer and deducts -1 mark for every incorrect answer. Unattempted questions carry zero marks."
+                    "text": "Each wrong MCQ response results in a deduction of 1 mark (-1) according to the official NTA CUET UG marking scheme."
                 }
             },
             {
                 "@type": "Question",
-                "name": "How is the raw score calculated in CUET UG?",
+                "name": "How to use CUET response sheet to calculate marks?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The raw score is calculated by: (Number of Correct Answers × 5) - (Number of Incorrect Answers × 1). This is calculated separately for each subject."
+                    "text": "To calculate, tally your valid correct and incorrect responses. Multiply correct answers by 5 and subtract the number of incorrect answers. Our tool automates this subject-wise score calculator process."
                 }
             },
             {
                 "@type": "Question",
-                "name": "What are the total marks for each section in CUET UG?",
+                "name": "Can I use the CUET 2026 score calculator for Science/Commerce/Arts?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "For Languages and Domain Subjects, the total marks are 200 (40 questions × 5). For the General Test, the total marks are 250 (50 questions × 5)."
+                    "text": "Yes, our calculator supports all streams including Science, Arts, and Commerce by letting you add as many domain subjects as you attempted alongside the General Test."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Is there a limit on how many subjects I can add to the calculator?",
+                "name": "What is the NTA normalization formula CUET 2026?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "No, our calculator allows you to add as many subjects as you appeared for, giving you a comprehensive total score for your target courses."
+                    "text": "The CUET normalization process explained: NTA uses the 'Equipercentile method' to level the playing field across different test shifts of varying difficulty. Calculating CUET percentile from raw marks depends on the performance of all candidates in your specific shift."
                 }
             }
         ]
@@ -79,12 +90,11 @@ export default function CuetUgCalculatorPage() {
                     <Breadcrumbs />
                     <div className="mt-8 max-w-4xl">
                         <h1 className="text-5xl md:text-7xl lg:text-8xl font-black uppercase tracking-tighter leading-[0.9] mb-8 text-foreground">
-                            Score Your <br />
-                            <span className="text-primary underline decoration-[12px] underline-offset-8 italic">CUET UG</span> 2026.
+                            NTA <span className="text-primary underline decoration-[12px] underline-offset-8 italic">CUET UG 2026</span> <br /> Score Calculator.
                         </h1>
                         <p className="text-xl md:text-2xl font-bold text-slate-600 leading-tight border-l-[12px] border-primary pl-8 italic">
-                            The most comprehensive CUET UG 2026 score calculator. 
-                            Parse your response sheet or enter subject-wise marks to predict your central university admission chances.
+                            The most accurate CUET 2026 Marks vs Percentile Calculator. 
+                            Calculate CUET UG raw score subject-wise, parse your response sheet, and use our CUET percentile predictor 2026 to evaluate admission chances for top universities.
                         </p>
                     </div>
                 </div>
@@ -98,11 +108,12 @@ export default function CuetUgCalculatorPage() {
                 <div className="mt-32 max-w-4xl">
                     <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4 text-foreground">
                         <BookOpen className="w-10 h-10 text-primary" />
-                        CUET UG 2026 Marking Explained
+                        CUET UG 2026 Marking Scheme
                     </h2>
                     <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+                        <h3 className="text-2xl font-bold mb-4 text-foreground">How to calculate CUET UG score 2026?</h3>
                         <p className="font-bold text-slate-700 leading-relaxed text-lg italic">
-                            Understanding your raw score is crucial before the official results are out. NTA follows a standardized marking scheme across all shifts.
+                            Understanding how to calculate CUET UG score 2026 with the official CUET 2026 negative marking formula is crucial before calculating your marks without the official answer key. NTA follows a standardized marking scheme across all shifts.
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-10">
@@ -153,7 +164,7 @@ export default function CuetUgCalculatorPage() {
                 <div className="mt-32 max-w-4xl">
                     <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4 text-foreground">
                         <TrendingUp className="w-10 h-10 text-primary" />
-                        Target Scores for Top Universities
+                        CUET 2026 Expected Cut-off For Top Universities
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                         {[
@@ -170,22 +181,38 @@ export default function CuetUgCalculatorPage() {
                     </div>
                 </div>
 
+                {/* Target Scores Detail Section */}
+                <div className="mt-16 max-w-4xl bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                    <h3 className="text-2xl font-black uppercase mb-6 text-foreground">What is a Good Score in CUET UG 2026?</h3>
+                    <p className="font-bold text-slate-600 mb-6 italic">A "good score" depends heavily on your category and course choice. For elite courses, achieving a 700+ marks limit is often required. Understanding CUET marks vs percentile for DU is key for setting safe targets.</p>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                         <div className="border border-slate-200 p-4 bg-slate-50">
+                             <h4 className="font-black text-slate-800 uppercase text-sm mb-2">CUET Score Required for North Campus DU</h4>
+                             <p className="text-sm font-bold text-slate-600">Typically, top colleges like SRCC, Hindu, and Hansraj demand a percentile of 98-99%+, often equating to ~780/800 marks for General category.</p>
+                         </div>
+                         <div className="border border-slate-200 p-4 bg-slate-50">
+                             <h4 className="font-black text-slate-800 uppercase text-sm mb-2">What is a safe score for BHU in CUET 2026?</h4>
+                             <p className="text-sm font-bold text-slate-600">For BA Social Sciences, scores around 240+ out of 350 are generally safe, varying slightly between main campus and affiliated colleges.</p>
+                         </div>
+                    </div>
+                </div>
+
                 {/* Features Section */}
                 <div className="mt-32 grid grid-cols-1 md:grid-cols-3 gap-12">
                     <div className="p-8 border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(59,130,246,1)]">
                         <ShieldCheck className="w-12 h-12 text-primary mb-6" />
                         <h4 className="text-xl font-black uppercase mb-4 text-foreground tracking-tight">Verified Algorithm</h4>
-                        <p className="font-bold text-slate-600 italic">Updated logic for the 2026 examination cycle with support for all domain subjects.</p>
+                        <p className="font-bold text-slate-600 italic">Updated logic for the NTA CUET UG score calculator with support for all domain subjects.</p>
                     </div>
                     <div className="p-8 border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(34,197,94,1)]">
                         <Zap className="w-12 h-12 text-emerald-500 mb-6" />
-                        <h4 className="text-xl font-black uppercase mb-4 text-foreground tracking-tight">Response Sheet Parser</h4>
-                        <p className="font-bold text-slate-600 italic">Simply paste your NTA URL and get an instant subject-wise report via WhatsApp.</p>
+                        <h4 className="text-xl font-black uppercase mb-4 text-foreground tracking-tight">CUET Subject-wise Score (Domain + General Test)</h4>
+                        <p className="font-bold text-slate-600 italic">Learn how to use CUET response sheet to calculate marks. Fast parsing once the CUET UG answer key 2026 download is available.</p>
                     </div>
                     <div className="p-8 border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(245,158,11,1)]">
                         <GraduationCap className="w-12 h-12 text-amber-500 mb-6" />
-                        <h4 className="text-xl font-black uppercase mb-4 text-foreground tracking-tight">Admission Insights</h4>
-                        <p className="font-bold text-slate-600 italic">Get raw score vs admission insights for North Campus, BHU Main Campus, and JNU.</p>
+                        <h4 className="text-xl font-black uppercase mb-4 text-foreground tracking-tight">CUET 700+ Marks vs Percentile</h4>
+                        <p className="font-bold text-slate-600 italic">Get insights using our CUET 2026 score calculator for Science/Commerce/Arts for top colleges.</p>
                     </div>
                 </div>
 
@@ -197,10 +224,10 @@ export default function CuetUgCalculatorPage() {
                     </h2>
                     <div className="space-y-6">
                         {[
-                            { q: "What is the penalty for wrong answers?", a: "Each wrong MCQ response results in a deduction of 1 mark (-1)." },
-                            { q: "How many subjects can I calculate?", a: "Our tool supports infinite subjects. You can add Languages, Domains, and the General Test simultaneously." },
-                            { q: "How many marks for General Test?", a: "The General Test consists of 60 questions, out of which 50 must be attempted. Total marks are 250." },
-                            { q: "Is normalization applicable?", a: "Yes, since CUET UG is conducted over many days, NTA will normalize scores into percentiles. Our calculator provides a 'Predicted Percentile' based on the current raw score." }
+                            { q: "What is the CUET 2026 negative marking formula?", a: "Each wrong MCQ response results in a deduction of 1 mark (-1) according to the official NTA CUET UG marking scheme." },
+                            { q: "How to use CUET response sheet to calculate marks?", a: "To calculate, tally your valid correct and incorrect responses. Multiply correct answers by 5 and subtract the number of incorrect answers. Our tool automates this subject-wise score calculator process." },
+                            { q: "Can I use the CUET 2026 score calculator for Science/Commerce/Arts?", a: "Yes, our calculator supports all streams including Science, Arts, and Commerce by letting you add as many domain subjects as you attempted alongside the General Test." },
+                            { q: "What is the NTA normalization formula CUET 2026?", a: "The CUET normalization process explained: NTA uses the 'Equipercentile method' to level the playing field across different test shifts of varying difficulty. Calculating CUET percentile from raw marks depends on the performance of all candidates in your specific shift." }
                         ].map((faq, i) => (
                             <div key={i} className="bg-white border-4 border-foreground p-8 group hover:bg-slate-50 transition-colors">
                                 <h3 className="text-xl font-black uppercase mb-3 text-foreground tracking-tighter italic flex items-center gap-3">
