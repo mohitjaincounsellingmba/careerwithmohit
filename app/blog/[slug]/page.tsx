@@ -232,6 +232,8 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                     src={srcString} 
                     alt={alt || "Logo"} 
                     className="inline-block" 
+                    loading="lazy"
+                    decoding="async"
                     style={{ height: 'auto', maxWidth: '100%', borderRadius: '8px' }} 
                     {...props} 
                   />;

@@ -3,10 +3,12 @@ import { Outfit } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
-import { InquiryPopup } from "@/components/InquiryPopup";
-import { LeadMagnetBar } from "@/components/LeadMagnetBar";
 import { JsonLd } from "@/components/JsonLd";
 import Script from "next/script";
+import dynamic from 'next/dynamic';
+
+const InquiryPopup = dynamic(() => import('@/components/InquiryPopup').then(mod => mod.InquiryPopup), { ssr: false });
+const LeadMagnetBar = dynamic(() => import('@/components/LeadMagnetBar').then(mod => mod.LeadMagnetBar), { ssr: false });
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -142,9 +144,9 @@ export default function RootLayout({
         <Script
           async
           src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID || "G-448JRKP87B"}`}
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
-        <Script id="google-analytics-ads" strategy="afterInteractive">
+        <Script id="google-analytics-ads" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}

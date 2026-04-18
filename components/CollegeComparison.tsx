@@ -87,7 +87,7 @@ export function CollegeComparison({ colleges }: CollegeComparisonProps) {
                             <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/5 rounded-full blur-3xl -mt-20 -mr-20 pointer-events-none" />
                             <div className="w-20 h-20 bg-white rounded-2xl shadow-sm border border-slate-100 flex items-center justify-center p-3 mb-6 relative z-10">
                                 {collegeA.logo ? (
-                                    <img src={collegeA.logo} alt={collegeA.name} className="w-full h-full object-contain" />
+                                    <img src={collegeA.logo} alt={collegeA.name} className="w-full h-full object-contain" loading="lazy" decoding="async" />
                                 ) : <GraduationCap className="w-10 h-10 text-blue-300" />}
                             </div>
                             <h2 className="text-2xl md:text-4xl font-black tracking-tight leading-tight mb-3 text-slate-900 relative z-10">{collegeA.name}</h2>
@@ -99,7 +99,7 @@ export function CollegeComparison({ colleges }: CollegeComparisonProps) {
                             <div className="absolute top-0 left-0 w-64 h-64 bg-purple-500/5 rounded-full blur-3xl -mt-20 -ml-20 pointer-events-none" />
                             <div className="w-20 h-20 bg-white rounded-2xl shadow-sm border border-slate-100 flex items-center justify-center p-3 mb-6 relative z-10">
                                 {collegeB.logo ? (
-                                    <img src={collegeB.logo} alt={collegeB.name} className="w-full h-full object-contain" />
+                                    <img src={collegeB.logo} alt={collegeB.name} className="w-full h-full object-contain" loading="lazy" decoding="async" />
                                 ) : <GraduationCap className="w-10 h-10 text-purple-300" />}
                             </div>
                             <h2 className="text-2xl md:text-4xl font-black tracking-tight leading-tight mb-3 text-slate-900 relative z-10">{collegeB.name}</h2>

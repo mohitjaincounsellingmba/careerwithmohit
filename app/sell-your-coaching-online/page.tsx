@@ -1,6 +1,7 @@
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { 
   Smartphone, 
   Lock, 
@@ -123,9 +124,12 @@ export default function LeadGenLandingPage() {
             <div className="hidden lg:block relative">
               <div className="absolute inset-0 bg-white/10 rounded-3xl -rotate-3 border-4 border-foreground translate-x-4 translate-y-4" />
               <div className="relative bg-white p-2 rounded-3xl border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] overflow-hidden">
-                <img 
+                <Image 
                   src="/images/coaching-app-mockup.png" 
                   alt="Branded Coaching App Mockup" 
+                  width={800}
+                  height={800}
+                  priority
                   className="w-full h-auto rounded-2xl border-2 border-gray-100"
                 />
                 <div className="mt-6 px-6 pb-6 flex items-center justify-between border-t-2 border-gray-100 pt-6">
