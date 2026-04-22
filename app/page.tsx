@@ -154,7 +154,7 @@ export default function Home() {
                   {item.excerpt}
                 </p>
                 <Link
-                  href="/news"
+                  href={item.link}
                   prefetch={false}
                   className="inline-flex items-center font-bold text-primary hover:text-foreground transition-colors group-hover:translate-x-1 transition-transform"
                 >
