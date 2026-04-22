@@ -9,6 +9,14 @@ export interface NewsItem {
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
+    id: 7,
+    title: "Sports Management & IPL Careers 2026: Roadmap and Top Colleges",
+    category: "Career Counselling",
+    date: "April 23, 2026",
+    excerpt: "With the IPL ecosystem growing, professional sports management has become a high-paying career path. Discover the best colleges in Mumbai, Pune, and Bangalore for the 2026 session.",
+    link: "/blog/how-to-start-career-in-sports-management-ipl-2026"
+  },
+  {
     id: 1,
     title: "JEE Main 2026 Session 2 Result Declared: NTA Cutoff & AIR Out",
     category: "B.Tech Admission",
