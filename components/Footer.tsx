@@ -94,8 +94,9 @@ export function Footer() {
 
           {/* Column 4: Mock Test Hub */}
           <div className="space-y-8">
-            <h3 className="font-black text-[10px] uppercase tracking-[0.2em] text-primary underline decoration-2 underline-offset-4">Mock Test Hub</h3>
+            <h3 className="font-black text-[10px] uppercase tracking-[0.2em] text-primary underline decoration-2 underline-offset-4">Exam Resources</h3>
             <ul className="grid grid-cols-1 gap-4 text-[10px] font-bold uppercase tracking-wider">
+              <li><Link href="/previous-year-papers" prefetch={false} className="text-emerald-400 font-black hover:scale-105 transition-transform inline-block underline decoration-2 underline-offset-4">PYQ Papers 📄</Link></li>
               <li><Link href="/tools/cat-mock-test" prefetch={false} className="text-orange-400 font-black hover:scale-105 transition-transform inline-block">CAT 2026 🔥</Link></li>
               <li><Link href="/tools/govt-exams-mock-test" prefetch={false} className="text-yellow-400 font-black hover:scale-105 transition-transform inline-block underline decoration-2 underline-offset-4">Govt Exams Hub 🏛️</Link></li>
               <li><Link href="/tools/nmat-mock-test" prefetch={false} className="text-secondary font-black hover:scale-105 transition-transform inline-block">NMAT 2026 (Batch '27) ✨</Link></li>
