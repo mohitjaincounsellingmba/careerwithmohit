@@ -9,6 +9,14 @@ export interface NewsItem {
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
+    id: 8,
+    title: "UP Board 10th & 12th Result 2026 Declared: Girls Outshine Boys Again",
+    category: "Board Results",
+    date: "April 23, 2026",
+    excerpt: "UPMSP has released the results for Class 10 and 12. Sitapur's Shikha Verma tops Class 12 with 97.60%. Check your scorecard now at upresults.nic.in.",
+    link: "/blog/up-board-10th-12th-result-2026-declared"
+  },
+  {
     id: 7,
     title: "Sports Management & IPL Careers 2026: Roadmap and Top Colleges",
     category: "Career Counselling",
