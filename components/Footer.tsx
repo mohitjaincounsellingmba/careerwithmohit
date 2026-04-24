@@ -116,17 +116,6 @@ export function Footer() {
                 <li><Link href="/tools/hashtag-generator" prefetch={false} className="text-blue-500 hover:text-white transition-colors group italic">Hashtag Generator 🔥</Link></li>
               </ul>
             </div>
-
-            <div className="pt-8 border-t border-gray-800">
-              <h3 className="font-black text-[10px] uppercase tracking-[0.2em] text-primary underline decoration-2 underline-offset-4">Learn Skills</h3>
-              <ul className="mt-4 space-y-4 text-xs font-bold">
-                <li><Link href="/learn-skills/html" prefetch={false} className="text-emerald-400 hover:text-white transition-colors">HTML Tutorial</Link></li>
-                <li><Link href="/learn-skills/css" prefetch={false} className="text-yellow-400 hover:text-white transition-colors">CSS Tutorial</Link></li>
-                <li><Link href="/learn-skills/javascript" prefetch={false} className="text-cyan-400 hover:text-white transition-colors">JavaScript</Link></li>
-                <li><Link href="/learn-skills/python" prefetch={false} className="text-orange-400 hover:text-white transition-colors">Python</Link></li>
-                <li><Link href="/learn-skills" prefetch={false} className="text-gray-400 hover:text-white transition-colors italic underline underline-offset-4 decoration-primary/30">View All Skills</Link></li>
-              </ul>
-            </div>
           </div>
 
           {/* Column 6: Careers & Business */}
