@@ -32,6 +32,8 @@ export function GovtJobsList() {
             key={job.id} 
             href={job.link}
             prefetch={false}
+            target={job.link.startsWith('http') ? '_blank' : '_self'}
+            rel={job.link.startsWith('http') ? 'noopener noreferrer' : ''}
             className="flex items-center justify-between p-4 hover:bg-gray-50 group border-b border-gray-100 last:border-0 transition-colors"
           >
             <div className="flex flex-col gap-1">
