@@ -120,6 +120,7 @@ export function Footer() {
           <div className="space-y-8">
             <h3 className="font-black text-[10px] uppercase tracking-[0.2em] text-primary underline decoration-2 underline-offset-4">Careers HUB</h3>
             <ul className="space-y-4 text-xs font-bold">
+              <li><Link href="/govt-jobs" prefetch={false} className="text-secondary font-black hover:text-white transition-colors flex items-center gap-2">Govt Jobs & Results <span className="bg-primary text-[8px] px-1 rounded italic text-white">New</span></Link></li>
               <li><Link href="/internships" prefetch={false} className="text-gray-400 hover:text-white transition-colors">Internships</Link></li>
               <li><Link href="/jobs" prefetch={false} className="text-gray-400 hover:text-white transition-colors">Job Placement</Link></li>
               <li><Link href="/certifications" prefetch={false} className="text-gray-400 hover:text-white transition-colors">Certifications</Link></li>
