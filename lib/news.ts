@@ -9,6 +9,14 @@ export interface NewsItem {
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
+    id: 9,
+    title: "B.Tech Lateral Entry (DSE) Pune 2026: Admission Guide for Diploma Holders",
+    category: "B.Tech Admission",
+    date: "April 24, 2026",
+    excerpt: "The Direct Second Year (DSE) admission process for Pune engineering colleges is gearing up. Learn about the CAP rounds, eligibility for Diploma/B.Sc students, and top colleges like COEP and PICT.",
+    link: "/blog/direct-second-year-dse-btech-pune-admission-guide-2026"
+  },
+  {
     id: 8,
     title: "UP Board 10th & 12th Result 2026 Declared: Girls Outshine Boys Again",
     category: "Board Results",
