@@ -9,6 +9,14 @@ export interface NewsItem {
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
+    id: 10,
+    title: "CUET PG 2026 Result Declared: Scorecard Link Active at exams.nta.nic.in",
+    category: "Entrance Exams",
+    date: "April 25, 2026",
+    excerpt: "NTA has officially released the results for CUET PG 2026. Candidates can now download their scorecards using their application number and date of birth. Counseling to begin soon for participating universities.",
+    link: "/blog/cuet-pg-2026-result-declared-check-scorecard-link"
+  },
+  {
     id: 9,
     title: "B.Tech Lateral Entry (DSE) Pune 2026: Admission Guide for Diploma Holders",
     category: "B.Tech Admission",
