@@ -14,7 +14,7 @@ If you are an engineering aspirant targeting admission in 2026, navigating the n
 
 > 🎓 **Compare Top Engineering Colleges & Get Admission Guidance!**
 >
-> [👉 Find My Dream College Now](https://cvadm.com/RPMdHf)
+> [👉 Find My Dream College Now](/inquiry)
 
 ---
 
@@ -109,7 +109,7 @@ To get into the top engineering colleges in Delhi, you must primarily focus on t
 
 Confused about choice filling in JAC Delhi or GGSIPU counselling? Unsure which college or branch to prefer based on your JEE Main rank? Let our expert counsellors guide you.
 
-[👉 Get Free B.Tech Admission Counselling 2026](https://cvadm.com/RPMdHf)
+[👉 Get Free B.Tech Admission Counselling 2026](/inquiry)
 
 ---
 
