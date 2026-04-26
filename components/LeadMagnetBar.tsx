@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { Phone, ArrowRight, MessageSquare, Sparkles } from "lucide-react";
+import { Phone, ArrowRight, MessageSquare } from "lucide-react";
 
 export function LeadMagnetBar() {
     const [isVisible, setIsVisible] = useState(false);
@@ -23,9 +23,7 @@ export function LeadMagnetBar() {
                     <div className="absolute bottom-0 left-0 w-32 h-32 bg-blue-500/10 blur-3xl rounded-full"></div>
 
                     <div className="flex items-center gap-5 relative z-10">
-                        <div className="w-14 h-14 bg-emerald-500 rounded-2xl flex items-center justify-center flex-shrink-0 animate-pulse shadow-lg shadow-emerald-500/20">
-                            <Sparkles className="w-7 h-7 text-white" />
-                        </div>
+
                         <div className="text-center md:text-left">
                             <h4 className="text-lg md:text-xl font-black text-white uppercase tracking-tight leading-none mb-1">
                                 Seeking MBA Admission <span className="text-emerald-500">2026?</span>
