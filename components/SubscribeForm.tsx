@@ -18,17 +18,13 @@ export function SubscribeForm() {
     setErrorObj(null);
 
     try {
-      // Direct Activepieces Webhook Call
-      const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+      // Route through our backend API instead of direct Webhook
+      const response = await fetch('/api/subscribe', {
         method: 'POST',
-        mode: 'cors',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          name: 'Blog Subscriber',
           value: value,
-          method: method,
-          source: `Blog Subscription (${method})`,
-          timestamp: new Date().toISOString()
+          method: method
         }),
       });
 

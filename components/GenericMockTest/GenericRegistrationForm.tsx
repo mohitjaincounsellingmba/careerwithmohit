@@ -36,7 +36,7 @@ export function GenericRegistrationForm({ config, onRegister }: GenericRegistrat
     if (formData.name && formData.email && formData.phone) {
       setIsSubmitting(true);
       try {
-        await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+        await fetch('/api/leads', {
           method: 'POST',
           mode: 'cors',
           headers: { 'Content-Type': 'application/json' },

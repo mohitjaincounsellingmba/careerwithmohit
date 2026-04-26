@@ -55,7 +55,7 @@ export function InquiryForm() {
 
     // 1. Direct Activepieces Webhook Call (Dedicated for Inquiry Form)
     try {
-      const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3', {
+      const response = await fetch('/api/leads', {
         method: 'POST',
         mode: 'cors',
         headers: { 'Content-Type': 'application/json' },

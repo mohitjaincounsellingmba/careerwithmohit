@@ -188,7 +188,7 @@ export function CuetCalculator() {
         e.preventDefault();
 
         try {
-            const response = await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+            const response = await fetch('/api/leads', {
                 method: 'POST',
                 mode: 'cors',
                 headers: { 'Content-Type': 'application/json' },

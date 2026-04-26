@@ -35,7 +35,7 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
       setIsSubmitting(true);
       try {
         // Switch to direct webhook submission (matching JeeCalculator for reliability)
-        await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+        await fetch('/api/leads', {
           method: 'POST',
           mode: 'cors',
           headers: { 'Content-Type': 'application/json' },

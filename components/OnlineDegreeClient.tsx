@@ -607,7 +607,7 @@ function InquiryModal({ college, onClose }: { college: typeof COLLEGES[0]; onClo
     e.preventDefault();
     setStatus('submitting');
     try {
-      await fetch('https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3', {
+      await fetch('/api/leads', {
         method: 'POST',
         mode: 'cors',
         headers: { 'Content-Type': 'application/json' },

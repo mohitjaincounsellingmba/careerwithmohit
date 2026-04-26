@@ -125,7 +125,7 @@ export function JeeScoreCalculator() {
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
         try {
-            await fetch("https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F", {
+            await fetch("/api/leads", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({

@@ -45,7 +45,7 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
   useEffect(() => {
     const sendResults = async () => {
       try {
-        await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+        await fetch('/api/leads', {
           method: 'POST',
           mode: 'cors',
           headers: { 'Content-Type': 'application/json' },
