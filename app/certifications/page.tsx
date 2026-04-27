@@ -106,6 +106,58 @@ const CERTIFICATIONS: Course[] = [
     icon: BookOpen,
     color: "bg-emerald-600",
     externalLink: "https://www.elearnmarkets.com/courses/display/advanced-excel-tutorial?aff_code=ELMAFF2497&utm_source=ELMAFF2497&utm_medium=affiliate"
+  },
+  {
+    id: 'iide-pg-digital-marketing',
+    title: "PG in Digital Marketing & Business Strategy",
+    provider: "IIDE",
+    price: "Premium",
+    duration: "11 Months",
+    type: 'paid',
+    description: "Earn a PG in Digital Marketing & Business Strategy from India's #1 Digital Business School.",
+    features: ["MBA Level Program", "Job Assistance", "D2C Brands"],
+    icon: TrendingUp,
+    color: "bg-blue-600",
+    externalLink: "https://iide.co/pg-digital-marketing-business-strategy/?ref=MOH825"
+  },
+  {
+    id: 'iide-bachelors-digital-business',
+    title: "Bachelors in Digital Business & Entrepreneurship",
+    provider: "IIDE",
+    price: "Premium",
+    duration: "3 Years",
+    type: 'paid',
+    description: "Join India's 1st 3-Year UG Bachelor's in Digital Business program.",
+    features: ["Digital-Driven Curriculum", "100% Placement Assistance", "UG Degree"],
+    icon: BookOpen,
+    color: "bg-indigo-600",
+    externalLink: "https://iide.co/bachelors-in-digital-business-program?ref=MOH825"
+  },
+  {
+    id: 'iide-ai-course',
+    title: "Professional Online AI Course",
+    provider: "IIDE",
+    price: "Premium",
+    duration: "Self-Paced",
+    type: 'paid',
+    description: "Gain hands-on experience with AI tools & techniques from industry experts.",
+    features: ["AI Tools", "Real Projects", "Certification"],
+    icon: Zap,
+    color: "bg-purple-600",
+    externalLink: "https://iide.co/ai-courses/online?ref=MOH825"
+  },
+  {
+    id: 'iide-online-digital-marketing',
+    title: "Online Digital Marketing Course",
+    provider: "IIDE",
+    price: "Premium",
+    duration: "4-6 Months",
+    type: 'paid',
+    description: "India's best online digital marketing courses with AI-powered training.",
+    features: ["AI-powered training", "100% placement assistance", "Online"],
+    icon: TrendingUp,
+    color: "bg-rose-600",
+    externalLink: "https://iide.co/online-digital-marketing-course?ref=MOH825"
   }
 ];
 
