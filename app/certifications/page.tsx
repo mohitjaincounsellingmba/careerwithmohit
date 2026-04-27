@@ -267,7 +267,7 @@ export default function CertificationsPage() {
                       rel="noopener noreferrer"
                       className="block w-full text-center bg-white border-4 border-foreground py-3 text-lg font-black uppercase hover:bg-emerald-500 hover:text-white transition-colors flex items-center justify-center gap-2"
                     >
-                      {course.type === 'paid' ? 'Enroll on Elearn Market' : 'Enroll on LearnVern'} <ExternalLink className="w-5 h-5" />
+                      {`Enroll on ${course.provider}`} <ExternalLink className="w-5 h-5" />
                     </a>
                   ) : (
                     <a
