@@ -8,7 +8,6 @@ import Script from "next/script";
 import dynamic from 'next/dynamic';
 
 const InquiryPopup = dynamic(() => import('@/components/InquiryPopup').then(mod => mod.InquiryPopup));
-const LeadMagnetBar = dynamic(() => import('@/components/LeadMagnetBar').then(mod => mod.LeadMagnetBar));
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -135,7 +134,6 @@ export default function RootLayout({
       >
         <Header />
         <InquiryPopup />
-        <LeadMagnetBar />
         <main className="flex-grow pb-24 md:pb-32">
           {children}
         </main>
