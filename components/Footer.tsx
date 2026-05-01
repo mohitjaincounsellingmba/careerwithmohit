@@ -92,6 +92,14 @@ export function Footer() {
             </ul>
           </div>
 
+          {/* Column 4: Mock Test Hub */}
+          <div className="space-y-8">
+            <h3 className="font-black text-[10px] uppercase tracking-[0.2em] text-primary underline decoration-2 underline-offset-4">Exam Resources</h3>
+            <ul className="grid grid-cols-1 gap-4 text-[10px] font-bold uppercase tracking-wider">
+              <li><Link href="/mock-tests" prefetch={false} className="text-white bg-primary/20 px-2 py-1 border border-primary/30 rounded inline-block hover:bg-primary hover:text-white transition-all">Mock Test Hub 🎯</Link></li>
+              <li><Link href="/previous-year-papers" prefetch={false} className="text-emerald-400 font-black hover:scale-105 transition-transform inline-block underline decoration-2 underline-offset-4">PYQ Papers 📄</Link></li>
+            </ul>
+          </div>
 
           <div className="space-y-8">
             <div>
