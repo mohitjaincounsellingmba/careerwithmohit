@@ -29,8 +29,6 @@ export function Header() {
           <Link href="/" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Home Page">Home</Link>
           <Link href="/about" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="About Mohit Jain">About</Link>
           <Link href="/blog" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
-          <Link href="/colleges" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Explore Top Colleges">Colleges</Link>
-          <Link href="/online-degree-certification" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform text-cyan-600 font-extrabold" title="Online Degrees & Certifications">Online Degrees</Link>
 
         </nav>
         <div className="flex items-center gap-4">
@@ -67,12 +65,6 @@ export function Header() {
             </Link>
             <Link href="/blog" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Blog
-            </Link>
-            <Link href="/colleges" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
-              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Colleges
-            </Link>
-            <Link href="/online-degree-certification" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-cyan-600 font-extrabold">
-              <span className="w-2 h-2 rounded-full bg-cyan-500 mr-3 inline-block"></span>Online Degrees
             </Link>
 
 
