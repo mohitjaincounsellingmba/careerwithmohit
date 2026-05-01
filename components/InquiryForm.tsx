@@ -2,27 +2,7 @@
 
 import { useState } from 'react';
 
-const BUDGET_OPTIONS = [
-  '0-5 lacs',
-  '5 to 10 lacs',
-  '10 lacs and above'
-];
-
-const COURSE_OPTIONS = [
-  'MBA',
-  'PGDM',
-  'BBA',
-  'BCA',
-  'BTech',
-  'Online MBA',
-  'Abroad Education',
-  'Online BBA',
-  'MCA',
-  'MBBS',
-  'M.Tech',
-  'LLB',
-  'LLM'
-];
+import { BUDGET_OPTIONS, COURSE_OPTIONS } from '@/lib/constants';
 
 export function InquiryForm() {
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');

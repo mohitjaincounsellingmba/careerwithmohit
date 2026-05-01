@@ -8,6 +8,7 @@ import Script from "next/script";
 import dynamic from 'next/dynamic';
 
 const InquiryPopup = dynamic(() => import('@/components/InquiryPopup').then(mod => mod.InquiryPopup));
+const BotInquiryPopup = dynamic(() => import('@/components/BotInquiryPopup').then(mod => mod.BotInquiryPopup));
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -134,6 +135,7 @@ export default function RootLayout({
       >
         <Header />
         <InquiryPopup />
+        <BotInquiryPopup />
         <main className="flex-grow pb-24 md:pb-32">
           {children}
         </main>
