@@ -948,6 +948,12 @@ export const COLLEGES_DATA = [
     "fees": "₹3.5 Lakhs"
   },
   {
+    "name": "NL Dalmia Institute of Management Studies and Research",
+    "avg": "₹9.0 LPA - ₹14.3 LPA",
+    "highest": "₹17.0 LPA - ₹25.5 LPA",
+    "fees": "₹16.5 Lakhs"
+  },
+  {
     "name": "NMIMS Bangalore",
     "avg": "₹14.0 LPA",
     "highest": "₹20.0 LPA",
