@@ -18,30 +18,47 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   if (!postData) return {};
 
-  const postTitle = `${postData.title} | Updated Guide 2026`;
-  const postDescription = postData.description || `Expert guide on ${postData.title}. Detailed insights, placements 2025, and admission strategy for 2026 by Mohit Jain.`;
-  const postUrl = `/blog/${slug}`;
+  const postTitle = `${postData.title} | Expert Guide 2026`;
+  
+  // Fallback description from content if frontmatter description is missing
+  let postDescription = postData.description;
+  if (!postDescription && postData.content) {
+    postDescription = postData.content.substring(0, 160).replace(/[#*`]/g, '').trim() + "...";
+  }
+  postDescription = postDescription || `Expert analysis on ${postData.title}. Detailed insights, placements 2025, and admission strategy for 2026 by Mohit Jain.`;
+  
+  const postUrl = `https://www.careerwithmohit.online/blog/${slug}`;
 
   return {
     title: postTitle,
     description: postDescription,
-    keywords: [...(postData.keywords || []), "MBA Admissions 2026", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India"],
+    keywords: [...(postData.keywords || []), "MBA Admissions 2026", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"],
     openGraph: {
       title: postTitle,
       description: postDescription,
       type: "article",
       publishedTime: postData.date,
+      modifiedTime: postData.date,
       authors: ["Mohit Jain"],
       url: postUrl,
       siteName: "CareerWithMohit",
+      images: [
+        {
+          url: "/og-image.webp",
+          width: 1200,
+          height: 630,
+          alt: postData.title,
+        }
+      ]
     },
     twitter: {
       card: "summary_large_image",
       title: postTitle,
       description: postDescription,
+      images: ["/og-image.webp"],
     },
     alternates: {
-      canonical: postUrl,
+      canonical: `/blog/${slug}`,
     },
   };
 }
@@ -65,7 +82,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": postData.title,
-    "description": postData.description,
+    "description": postData.description || postData.content?.substring(0, 160),
     "image": `https://www.careerwithmohit.online/og-image.webp`,
     "datePublished": postData.date,
     "dateModified": postData.date,
@@ -88,6 +105,31 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     }
   };
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.careerwithmohit.online/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": postData.title,
+        "item": `https://www.careerwithmohit.online/blog/${slug}`
+      }
+    ]
+  };
+
   const faqData = postData.faqs && postData.faqs.length > 0 ? {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -104,6 +146,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   return (
     <article className="w-full bg-slate-50 pb-24 font-body">
       <JsonLd data={articleData} />
+      <JsonLd data={breadcrumbSchema} />
       {faqData && <JsonLd data={faqData} />}
 
       {/* HEADER SECTION - ULTRA PREMIUM */}

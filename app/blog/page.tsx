@@ -19,8 +19,31 @@ export const metadata = {
 export default function BlogPage() {
   const allPostsData = getSortedPostsData();
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.careerwithmohit.online/blog"
+      }
+    ]
+  };
+
   return (
     <div className="w-full bg-muted min-h-screen px-6 py-24 sm:px-12 sm:py-32 border-t-8 border-foreground">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <div className="mx-auto max-w-7xl">
         <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8 text-center md:text-left">
           <div className="max-w-3xl">

@@ -20,8 +20,32 @@ export function Breadcrumbs() {
 
     if (breadcrumbs.length === 0) return null;
 
+    // Schema.org BreadcrumbList
+    const breadcrumbListSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.careerwithmohit.online/"
+            },
+            ...breadcrumbs.map((breadcrumb, index) => ({
+                "@type": "ListItem",
+                "position": index + 2,
+                "name": breadcrumb.label,
+                "item": `https://www.careerwithmohit.online${breadcrumb.href}`
+            }))
+        ]
+    };
+
     return (
         <nav aria-label="Breadcrumb" className="mb-6">
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbListSchema) }}
+            />
             <ol className="flex flex-wrap items-center gap-2 text-sm font-bold uppercase tracking-wider text-slate-500">
                 <li className="flex items-center">
                     <Link href="/" className="hover:text-primary flex items-center gap-1 transition-colors">

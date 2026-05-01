@@ -91,3 +91,6 @@ Most close by **mid-January**. It is better to apply *before* the CAT result is 
 A 75 percentile can still lead to a ₹12 LPA career if you choose the right college. Mohit Jain specializes in profile-mapping—finding the college that values *you* beyond just your CAT score.
 
 [👉 Get My Profile Mapping Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+### Check Your Current Percentile:
+Not sure where you stand? Take our **[Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)** and get an immediate percentile prediction and section-wise analysis.

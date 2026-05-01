@@ -75,3 +75,8 @@ While there is no "official" syllabus, CAT consistently tests **VARC, DILR, and 
 Yes, colleges like **GIM Goa, BIMTECH, and FORE School of Management** often accept students in the 85-92 percentile range.
 
 [👉 Need help preparing a winning strategy for CAT 2026? Speak to our MBA admission experts today!](/inquiry)
+
+### Useful Resources:
+* **[Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)**
+* **[CAT 2026 Preparation Strategy & Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates)**
+* **[Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)**

@@ -20,10 +20,28 @@ export const metadata: Metadata = {
     'CAT 2026 expected cut-offs for IIMs', 'Adaptive mock tests for CAT 2026', 'Non-engineer strategy for CAT 2026', 
     'CAT 2026 notification updates', 'Daily targets for CAT 2026 preparation', 'MBA entrance exams 2026 list'
   ],
+  alternates: {
+    canonical: '/tools/cat-mock-test',
+  },
   openGraph: {
     title: 'Free CAT Mock Test 2026 | Master the IIM Admissions',
     description: 'Master the Common Admission Test (CAT) with our realistic mock tool. Experience 2-hour intense management testing with AI analysis and sectional reports.',
     type: 'website',
+    url: 'https://www.careerwithmohit.online/tools/cat-mock-test',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'CAT 2026 Mock Test Tool',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free CAT Mock Test 2026 | Master the IIM Admissions',
+    description: 'Realistic 66-question CAT mock test for IIM aspirants. Includes sectional 40-minute timers and a percentile predictor.',
+    images: ['/og-image.webp'],
   }
 };
 
@@ -36,7 +54,7 @@ export default function CatMockTestPage() {
 
   const questions = generateMockQuestions(config);
 
-  const jsonLd = {
+  const softwareSchema = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
     "name": "CAT 2026 Mock Test Tool",
@@ -50,11 +68,40 @@ export default function CatMockTestPage() {
     }
   };
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tools",
+        "item": "https://www.careerwithmohit.online/tools"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "CAT Mock Test",
+        "item": "https://www.careerwithmohit.online/tools/cat-mock-test"
+      }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       
       <div className="mx-auto max-w-5xl">
@@ -212,6 +259,8 @@ export default function CatMockTestPage() {
               </p>
               <ul className="space-y-4">
                 <li><a href="/blog/iims-list-courses-placements-cutoffs-admission" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Comprehensive IIM Guide 2026</a></li>
+                <li><a href="/blog/cat-2026-preparation-strategy-syllabus-dates" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> CAT 2026 Preparation Roadmap</a></li>
+                <li><a href="/blog/why-take-our-free-cat-mock-test-2026-online" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> How to Analyze CAT Mocks</a></li>
                 <li><a href="/blog/top-mba-colleges-mumbai-roi-placements-direct-admission" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Top MBA Colleges in Mumbai</a></li>
                 <li><a href="/blog/top-mba-colleges-pune-direct-admission-fees-placement" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Management Hub: Pune</a></li>
               </ul>

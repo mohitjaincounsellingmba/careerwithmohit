@@ -20,12 +20,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/internships',
     '/inquiry',
     '/online-degree-certification',
+    '/tools/cat-mock-test',
+    '/tools/nmat-mock-test',
+    '/tools/mhcet-mock-test',
     '/tools/btech-college-predictor',
     '/tools/cuet-pg-mba-predictor',
     '/tools/college-comparison',
     '/tools/accreditation-checker',
     '/tools/ai-skills',
-    '/tools/mhcet-mock-test',
     '/tools/hashtag-generator',
     '/tools/govt-exams-mock-test',
     '/services',
@@ -34,7 +36,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: route === '' ? 1 : (route.includes('/tools/') ? 0.8 : 0.7),
+    priority: route === '' ? 1 : (route.includes('/tools/') ? 0.9 : 0.7),
   }));
 
   // Dynamic blog routes
