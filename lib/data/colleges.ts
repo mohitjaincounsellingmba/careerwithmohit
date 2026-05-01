@@ -1258,5 +1258,59 @@ export const COLLEGES_DATA = [
     "avg": "₹10.0 LPA",
     "highest": "₹25.0 LPA",
     "fees": "₹12.9 Lakhs"
+  },
+  {
+    "name": "Intellipaat - S-Vyasa University (Bangalore)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹17.0 Lakhs"
+  },
+  {
+    "name": "Intellipaat - Yenepoya University (Bangalore)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹12.0 Lakhs"
+  },
+  {
+    "name": "Intellipaat - AMET University (Chennai)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹9.0 Lakhs"
+  },
+  {
+    "name": "Intellipaat - Sandip University (Nashik)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹10.0 Lakhs"
+  },
+  {
+    "name": "Intellipaat - VGU University (Jaipur)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹8.5 Lakhs"
+  },
+  {
+    "name": "Intellipaat - Sushant University (Delhi)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹11.0 Lakhs"
+  },
+  {
+    "name": "Intellipaat - Guru Nanak University (Hyderabad)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹12.0 Lakhs"
+  },
+  {
+    "name": "Intellipaat - DY Patil University (Pune)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹15.0 Lakhs"
+  },
+  {
+    "name": "Intellipaat - HRIT University (Ghaziabad)",
+    "avg": "₹8.0 - ₹12.0 LPA",
+    "highest": "₹30.0+ LPA",
+    "fees": "₹8.0 Lakhs"
   }
 ];
