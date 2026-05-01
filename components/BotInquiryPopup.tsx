@@ -68,7 +68,8 @@ export function BotInquiryPopup() {
     if (!isOpen) {
       const timer = setTimeout(() => {
         setIsOpen(true);
-        addBotMessage(steps[0].question);
+        const initialQuestion = steps[0].question;
+        addBotMessage(typeof initialQuestion === 'function' ? initialQuestion('') : initialQuestion);
       }, 10000); // Show after 10 seconds
       return () => clearTimeout(timer);
     }
@@ -115,7 +116,7 @@ export function BotInquiryPopup() {
       setCurrentStep(nextStep);
       const nextStepData = steps[nextStep];
       const question = typeof nextStepData.question === 'function' 
-        ? nextStepData.question(newFormData.name) 
+        ? nextStepData.question(newFormData.name || '') 
         : nextStepData.question;
       
       addBotMessage(question, nextStepData.options, nextStepData.field);
