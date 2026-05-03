@@ -28,6 +28,7 @@ export interface ExamConfig {
   features?: string[];
   faqs?: FAQItem[];
   examDetails?: ExamDetail[];
+  topCollegesList?: { name: string; cutoff: string; link?: string }[];
 }
 
 export interface GenericQuestion {
@@ -54,6 +55,13 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'physics', label: 'Physics', questionCount: 30 },
       { id: 'chemistry', label: 'Chemistry', questionCount: 30 },
       { id: 'maths', label: 'Mathematics', questionCount: 30 }
+    ],
+    topCollegesList: [
+      { name: 'NIT Trichy', cutoff: '99.8+ %ile' },
+      { name: 'NIT Surathkal', cutoff: '99.5+ %ile' },
+      { name: 'NIT Rourkela', cutoff: '99.2+ %ile' },
+      { name: 'IIIT Hyderabad', cutoff: '99.9+ %ile' },
+      { name: 'IIIT Delhi', cutoff: '98.5+ %ile' }
     ]
   },
   {
@@ -209,6 +217,13 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'chemistry', label: 'Chemistry', questionCount: 50 },
       { id: 'botany', label: 'Botany', questionCount: 50 },
       { id: 'zoology', label: 'Zoology', questionCount: 50 }
+    ],
+    topCollegesList: [
+      { name: 'AIIMS New Delhi', cutoff: '705+ Marks' },
+      { name: 'MAMC Delhi', cutoff: '695+ Marks' },
+      { name: 'VMMC Delhi', cutoff: '690+ Marks' },
+      { name: 'JIPMER Puducherry', cutoff: '685+ Marks' },
+      { name: 'KGMU Lucknow', cutoff: '675+ Marks' }
     ]
   },
   {
@@ -243,6 +258,13 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'varc', label: 'Verbal Ability & Reading Comprehension', questionCount: 24 },
       { id: 'dilr', label: 'Data Interpretation & Logical Reasoning', questionCount: 20 },
       { id: 'quant', label: 'Quantitative Ability', questionCount: 22 }
+    ],
+    topCollegesList: [
+      { name: 'IIM Ahmedabad', cutoff: '99.5+ %ile' },
+      { name: 'IIM Bangalore', cutoff: '99.2+ %ile' },
+      { name: 'IIM Calcutta', cutoff: '99+ %ile' },
+      { name: 'FMS Delhi', cutoff: '98.5+ %ile' },
+      { name: 'SPJIMR Mumbai', cutoff: '95+ %ile' }
     ],
     features: [
       'Latest CAT 2026 Exam Pattern',
@@ -295,6 +317,13 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'language', label: 'Language Skills', questionCount: 36 },
       { id: 'quant', label: 'Quantitative Skills', questionCount: 36 },
       { id: 'logic', label: 'Logical Reasoning', questionCount: 36 }
+    ],
+    topCollegesList: [
+      { name: 'NMIMS Mumbai (Core)', cutoff: '232+ Score' },
+      { name: 'NMIMS Bangalore', cutoff: '220+ Score' },
+      { name: 'NMIMS Hyderabad', cutoff: '215+ Score' },
+      { name: 'XIMB (HRM)', cutoff: '210+ Score' },
+      { name: 'K J Somaiya', cutoff: '200+ Score' }
     ],
     features: [
       'Realistic NMAT 2026 Exam Simulation',
@@ -779,6 +808,13 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'quant', label: 'QA & Data Interpretation', questionCount: 28 },
       { id: 'gk', label: 'General Knowledge', questionCount: 25 }
     ],
+    topCollegesList: [
+      { name: 'XLRI Jamshedpur (BM)', cutoff: '95+ %ile' },
+      { name: 'XLRI Jamshedpur (HRM)', cutoff: '93+ %ile' },
+      { name: 'SPJIMR Mumbai', cutoff: '92+ %ile' },
+      { name: 'XIMB Bhubaneswar', cutoff: '90+ %ile' },
+      { name: 'IMT Ghaziabad', cutoff: '85+ %ile' }
+    ],
     features: [
       'Realistic Decision Making Section',
       'XAT 2026 Negative Marking Pattern',
@@ -817,6 +853,13 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'english', label: 'General English', questionCount: 15 },
       { id: 'logic', label: 'Analytical & Logical Reasoning', questionCount: 25 },
       { id: 'quant', label: 'Quant, DI & DS', questionCount: 20 }
+    ],
+    topCollegesList: [
+      { name: 'SIBM Pune', cutoff: '98+ %ile' },
+      { name: 'SCMHRD Pune', cutoff: '96+ %ile' },
+      { name: 'SIIB Pune', cutoff: '92+ %ile' },
+      { name: 'SIBM Bangalore', cutoff: '90+ %ile' },
+      { name: 'SIDTM Pune', cutoff: '85+ %ile' }
     ]
   },
   {

@@ -155,6 +155,36 @@ export default async function ExamMockTestPage({
             <p className="mt-6 font-bold text-gray-500 italic">** Note: Exam pattern is based on standard notification guidelines.</p>
           </section>
 
+          {/* Top Colleges & Cutoffs Section */}
+          {config.topCollegesList && config.topCollegesList.length > 0 && (
+            <section id="colleges">
+              <h2 className="text-4xl font-black uppercase mb-12 flex items-center gap-4 text-foreground">
+                <Target className="w-10 h-10 text-primary" /> Top Colleges & Expected Cutoffs
+              </h2>
+              <div className="overflow-x-auto border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(var(--primary-rgb),0.3)]">
+                <table className="w-full text-left border-collapse">
+                  <thead className="bg-primary text-white uppercase text-sm font-black tracking-widest">
+                    <tr>
+                      <th className="p-6 border-r border-white/20">Target Institute</th>
+                      <th className="p-6">Expected Cutoff</th>
+                    </tr>
+                  </thead>
+                  <tbody className="text-lg font-bold">
+                    {config.topCollegesList.map((clg, idx) => (
+                      <tr key={idx} className={`border-b-2 border-foreground/10 hover:bg-primary/5 transition-colors ${idx % 2 !== 0 ? 'bg-slate-50' : ''}`}>
+                        <td className="p-6 border-r-2 border-foreground/10 flex items-center gap-3">
+                          <CheckCircle2 className="w-5 h-5 text-secondary shrink-0" />
+                          {clg.name}
+                        </td>
+                        <td className="p-6 text-primary font-black uppercase italic">{clg.cutoff}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </section>
+          )}
+
           {/* Local Advantage section generalized */}
           <section id="local-focus" className="bg-foreground text-white p-10 transform md:-rotate-1 shadow-[12px_12px_0px_0px_rgba(var(--primary-rgb),1)]">
             <h2 className="text-3xl font-black uppercase mb-6 text-primary">Aiming for a Good Score?</h2>
