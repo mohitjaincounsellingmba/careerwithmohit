@@ -842,13 +842,13 @@ export const EXAM_CONFIGS: ExamConfig[] = [
   {
     id: 'snap',
     slug: 'snap',
-    name: 'SNAP 2026-27',
+    name: 'SNAP Dec 2026',
     durationMinutes: 60,
     totalQuestions: 60,
     targetColleges: 'SIBM Pune, SCMHRD, SIIB, SIOM',
     goodScore: '40+',
-    seoTitle: 'Free SNAP Mock Test 2026-27 | SIBM Pune Admission Prep',
-    seoDescription: 'Master the SNAP 2026-27 exam with our free full-length mock test. 60 questions in 60 minutes. Simulate the actual SIBM Pune and SCMHRD entrance interface.',
+    seoTitle: 'Free SNAP Dec 2026 Mock Test | 2026-27 Exam Practice',
+    seoDescription: 'Master the SNAP December 2026 exam with our free full-length mock test. 60 questions in 60 minutes. Simulate the actual SIBM Pune and SCMHRD entrance interface for the 2026-27 cycle.',
     sections: [
       { id: 'english', label: 'General English', questionCount: 15 },
       { id: 'logic', label: 'Analytical & Logical Reasoning', questionCount: 25 },
