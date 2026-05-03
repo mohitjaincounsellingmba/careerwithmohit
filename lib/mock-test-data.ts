@@ -762,6 +762,94 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'lang', label: 'Hindi & English Language', questionCount: 40 },
       { id: 'subject', label: 'Subject Knowledge/Pedagogy', questionCount: 100 }
     ]
+  },
+  {
+    id: 'xat',
+    slug: 'xat',
+    name: 'XAT 2026',
+    durationMinutes: 210,
+    totalQuestions: 100,
+    targetColleges: 'XLRI Jamshedpur, SPJIMR, IMT, XIMB',
+    goodScore: '35+',
+    seoTitle: 'Free XAT Mock Test 2026 | Decision Making & Verbal Practice',
+    seoDescription: 'Take a full-length XAT 2026 mock test. Includes Decision Making, Verbal & Logical Ability, QA & DI. Experience the actual XLRI exam interface.',
+    sections: [
+      { id: 'varc', label: 'Verbal & Logical Ability', questionCount: 26 },
+      { id: 'dm', label: 'Decision Making', questionCount: 22 },
+      { id: 'quant', label: 'QA & Data Interpretation', questionCount: 28 },
+      { id: 'gk', label: 'General Knowledge', questionCount: 25 }
+    ],
+    features: [
+      'Realistic Decision Making Section',
+      'XAT 2026 Negative Marking Pattern',
+      'Sectional Timing Simulation',
+      'XLRI Jamshedpur Percentile Predictor',
+      'Detailed Post-Exam Analysis'
+    ]
+  },
+  {
+    id: 'gmat',
+    slug: 'gmat',
+    name: 'GMAT Focus Edition 2026',
+    durationMinutes: 135,
+    totalQuestions: 64,
+    targetColleges: 'ISB, IIMs (One Year), Harvard, INSEAD',
+    goodScore: '655+',
+    seoTitle: 'Free GMAT Focus Edition Mock Test 2026 | Adaptive Practice',
+    seoDescription: 'Master the GMAT Focus Edition 2026 with our free mock test. Practice Quantitative, Verbal, and Data Insights sections with instant scaled scores.',
+    sections: [
+      { id: 'quant', label: 'Quantitative Reasoning', questionCount: 21 },
+      { id: 'verbal', label: 'Verbal Reasoning', questionCount: 23 },
+      { id: 'di', label: 'Data Insights', questionCount: 20 }
+    ]
+  },
+  {
+    id: 'snap',
+    slug: 'snap',
+    name: 'SNAP 2025-26',
+    durationMinutes: 60,
+    totalQuestions: 60,
+    targetColleges: 'SIBM Pune, SCMHRD, SIIB, SIOM',
+    goodScore: '40+',
+    seoTitle: 'Free SNAP Mock Test 2025-26 | SIBM Pune Admission Prep',
+    seoDescription: 'Speed-based SNAP mock test for 2025-26. 60 questions in 60 minutes. Practice for SIBM Pune and SCMHRD admission.',
+    sections: [
+      { id: 'english', label: 'General English', questionCount: 15 },
+      { id: 'logic', label: 'Analytical & Logical Reasoning', questionCount: 25 },
+      { id: 'quant', label: 'Quant, DI & DS', questionCount: 20 }
+    ]
+  },
+  {
+    id: 'ipu-cet-ug',
+    slug: 'ipu-cet-ug',
+    name: 'IPU CET / CUET UG 2026',
+    durationMinutes: 60,
+    totalQuestions: 60,
+    targetColleges: 'MSIT, MAIT, VIPS, JIMS (GGSIPU)',
+    goodScore: '50+',
+    seoTitle: 'Free IPU CET / CUET UG Mock Test 2026 | BBA & BCA Prep',
+    seoDescription: 'Practice for IPU CET and CUET UG 2026. General Test simulation for BBA, BCA, and B.Com admission in Delhi GGSIPU colleges.',
+    sections: [
+      { id: 'gk-ca', label: 'GK & Current Affairs', questionCount: 20 },
+      { id: 'mental-ability', label: 'Mental Ability', questionCount: 20 },
+      { id: 'numerical', label: 'Numerical Ability', questionCount: 20 }
+    ]
+  },
+  {
+    id: 'ipu-cet-pg',
+    slug: 'ipu-cet-pg',
+    name: 'IPU CET / CUET PG 2026',
+    durationMinutes: 105,
+    totalQuestions: 75,
+    targetColleges: 'USMS, USICT, CDAC, GGSIPU MBA/MCA',
+    goodScore: '60+',
+    seoTitle: 'Free IPU CET / CUET PG Mock Test 2026 | MBA & MCA Prep',
+    seoDescription: 'Master the IPU CET and CUET PG 2026. Realistic simulation for MBA, MCA, and Law PG admissions in GGSIPU.',
+    sections: [
+      { id: 'language', label: 'Language Comprehension', questionCount: 25 },
+      { id: 'quant', label: 'Mathematical/Quant Ability', questionCount: 25 },
+      { id: 'reasoning', label: 'Logical Reasoning', questionCount: 25 }
+    ]
   }
 ];
 

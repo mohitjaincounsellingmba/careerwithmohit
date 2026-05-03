@@ -30,8 +30,11 @@ const categories = [
     borderColor: "border-orange-200",
     exams: [
       { name: "CAT 2026", slug: "/tools/cat-mock-test", tag: "Hot", tagColor: "bg-red-500", desc: "For IIMs & FMS" },
+      { name: "XAT 2026", slug: "/tools/mock-test/xat", tag: "Expert", tagColor: "bg-primary", desc: "For XLRI & SPJIMR" },
+      { name: "GMAT Focus", slug: "/tools/mock-test/gmat", desc: "For ISB & Global MBA" },
+      { name: "SNAP 2025", slug: "/tools/mock-test/snap", desc: "For SIBM & SCMHRD" },
       { name: "NMAT 2026", slug: "/tools/nmat-mock-test", tag: "New", tagColor: "bg-blue-500", desc: "For NMIMS & SPJIMR" },
-      { name: "MHCET MBA", slug: "/tools/mhcet-mock-test", tag: "Popular", tagColor: "bg-purple-500", desc: "For JBIMS & SIMSREE" },
+      { name: "MHCET MBA", slug: "/tools/mhcet-mock-test", desc: "For JBIMS & SIMSREE" },
     ]
   },
   {
@@ -58,6 +61,8 @@ const categories = [
       { name: "NEET UG", slug: "/tools/mock-test/neet", tag: "Crucial", tagColor: "bg-emerald-600", desc: "For MBBS/BDS" },
       { name: "CLAT 2026", slug: "/tools/mock-test/clat", desc: "For NLUs" },
       { name: "CUET UG", slug: "/tools/mock-test/cuet-ug", desc: "For Central Universities" },
+      { name: "IPU CET (UG)", slug: "/tools/mock-test/ipu-cet-ug", tag: "Delhi", tagColor: "bg-orange-500", desc: "For BBA, BCA, B.Com" },
+      { name: "IPU CET (PG)", slug: "/tools/mock-test/ipu-cet-pg", desc: "For MBA, MCA, Law" },
     ]
   },
   {
