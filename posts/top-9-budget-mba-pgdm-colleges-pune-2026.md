@@ -12,19 +12,19 @@ If you are looking for colleges with a fee structure between **₹4 Lakhs to ₹
 
 ---
 
-## 📊 Quick Comparison: Top 9 Budget B-Schools in Pune (2026)
+## 📊 Quick Comparison: Top 9 Budget B-Schools in Pune (Batch 2026-28)
 
-| College | Program | Approx. Fees | Avg. Placement |
-| :--- | :--- | :--- | :--- |
-| **Akemi Business School** | MBA | ₹4.5 - 5.0 Lakhs | ₹5.5 LPA |
-| **ASM IIBR** | MBA / PGDM | ₹6.5 - 8.0 Lakhs | ₹6.0 LPA |
-| **RIIM Pune** | MBA / PGDM | ₹5.5 - 7.5 Lakhs | ₹6.5 LPA |
-| **ISMS Pune** | MBA / PGDM | ₹6.0 - 8.0 Lakhs | ₹5.5 LPA |
-| **DY Patil B-School** | PGDM | ₹8.5 - 9.5 Lakhs | ₹7.0 LPA |
-| **Pune Business School (PBS)** | PGDM | ₹6.0 - 6.5 Lakhs | ₹6.5 LPA |
-| **Lexicon MILE** | PGDM | ₹9.0 - 10.5 Lakhs | ₹7.5 LPA |
-| **FUEL Business School** | MBA | ₹4.5 - 5.5 Lakhs | ₹5.0 LPA |
-| **IIEBM Pune** | PGDM | ₹8.0 - 9.0 Lakhs | ₹7.2 LPA |
+| College | Program | Approx. Fees | Avg. Placement | Highest Placement |
+| :--- | :--- | :--- | :--- | :--- |
+| **Akemi Business School** | MBA | ₹4.5 - 5.0 Lakhs | ₹6.5 LPA | ₹18.0 LPA |
+| **ASM IIBR** | MBA / PGDM | ₹6.5 - 8.0 Lakhs | ₹7.5 LPA | ₹24.0 LPA |
+| **RIIM Pune** | MBA / PGDM | ₹5.5 - 7.5 Lakhs | ₹7.2 LPA | ₹27.0 LPA |
+| **ISMS Pune** | MBA / PGDM | ₹6.0 - 8.0 Lakhs | ₹7.0 LPA | ₹19.0 LPA |
+| **DY Patil B-School** | PGDM | ₹8.5 - 9.5 Lakhs | ₹8.2 LPA | ₹24.0 LPA |
+| **Pune Business School (PBS)** | PGDM | ₹6.0 - 6.5 Lakhs | ₹7.1 LPA | ₹27.0 LPA |
+| **Lexicon MILE** | PGDM | ₹9.0 - 10.5 Lakhs | ₹8.5 LPA | ₹49.0 LPA |
+| **FUEL Business School** | MBA | ₹4.5 - 5.5 Lakhs | ₹6.0 LPA | ₹12.0 LPA |
+| **IIEBM Pune** | PGDM | ₹8.0 - 9.0 Lakhs | ₹10.2 LPA | ₹34.0 LPA |
 
 ---
 
