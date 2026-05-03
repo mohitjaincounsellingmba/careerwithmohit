@@ -9,6 +9,14 @@ The Common Admission Test (CAT) is undeniably the biggest and most competitive M
 
 If you are serious about pursuing an MBA in India, CAT is the non-negotiable benchmark.
 
+---
+
+> 🎯 **Score 99+ Percentile with our AI-Powered Simulation**
+>
+> [👉 Start Your Free CAT 2026 Mock Test Now](https://www.careerwithmohit.online/tools/cat-mock-test)
+
+---
+
 Here is everything you need to know about the CAT exam for 2026 admissions:
 
 ## Exam Overview & Conducting Body

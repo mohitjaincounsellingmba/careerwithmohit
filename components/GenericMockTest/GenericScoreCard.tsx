@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useMemo } from 'react';
-import { Trophy, Target, Zap, Download, RotateCcw } from 'lucide-react';
+import { Trophy, Target, Zap, Download, RotateCcw, MessageCircle, Linkedin, Share2 } from 'lucide-react';
 import { GenericQuestion, ExamConfig } from '@/lib/mock-test-data';
 import { GenericStudentInfo } from './GenericRegistrationForm';
 
@@ -100,12 +100,37 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
             </div>
           </div>
 
-          <p className="text-xl font-bold text-gray-600 max-w-2xl mx-auto mb-10">
+          <p className="text-xl font-bold text-gray-600 max-w-2xl mx-auto mb-6">
             Based on this performance, your projected level is approximately 
             <span className="text-foreground font-black underline ml-2">
               {percentage >= 90 ? 'Top 1%' : percentage >= 80 ? 'Top 5%' : percentage >= 70 ? 'Top 10%' : 'Need Improvement'}
             </span>
           </p>
+
+          {/* Viral Sharing Section */}
+          <div className="flex flex-col items-center space-y-4 mb-4">
+            <p className="text-sm font-black uppercase text-primary animate-pulse tracking-[0.2em]">🔥 Challenge your friends!</p>
+            <div className="flex flex-wrap justify-center gap-4">
+              <button
+                onClick={() => {
+                  const text = `I just scored ${correct}/${total} in the ${config.name} 2026 Mock Test on CareerWithMohit! 🚀 My projected accuracy is ${percentage}%. Can you beat me? Take the test here: https://www.careerwithmohit.online/tools/${config.slug}-mock-test`;
+                  window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank');
+                }}
+                className="bg-[#25D366] text-white px-6 py-3 border-4 border-foreground font-black uppercase flex items-center gap-2 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 hover:shadow-none transition-all"
+              >
+                <MessageCircle className="w-5 h-5 fill-white" /> WhatsApp
+              </button>
+              <button
+                onClick={() => {
+                  const text = `Thrilled to share my ${config.name} 2026 Mock Test results! I scored ${correct}/${total} with ${percentage}% accuracy on CareerWithMohit. The simulation was incredibly realistic! 🎯 Check your percentile here: https://www.careerwithmohit.online/tools/${config.slug}-mock-test`;
+                  window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent('https://www.careerwithmohit.online/tools/' + config.slug + '-mock-test')}&summary=${encodeURIComponent(text)}`, '_blank');
+                }}
+                className="bg-[#0077b5] text-white px-6 py-3 border-4 border-foreground font-black uppercase flex items-center gap-2 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 hover:shadow-none transition-all"
+              >
+                <Linkedin className="w-5 h-5 fill-white" /> LinkedIn
+              </button>
+            </div>
+          </div>
         </div>
       </div>
 
