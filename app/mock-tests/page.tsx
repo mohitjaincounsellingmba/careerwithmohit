@@ -17,8 +17,9 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Mock Test Hub 2026 - Free Online Practice Papers | CareerWithMohit',
-  description: 'Practice free online mock tests for CAT, JEE, NEET, NMAT, and Govt Exams. Access high-quality practice papers with instant analysis and All India Ranking.',
+  title: 'Mock Test Hub 2026 - 50+ Free Online Practice Papers | CareerWithMohit',
+  description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE, NEET, NMAT, and Govt Exams. High-quality practice papers with AI analysis, percentile prediction, and official exam interfaces.',
+  keywords: ['free mock test series 2026', 'cat mock test free', 'jee main mock test online', 'neet ug practice papers', 'gmat focus edition free mock', 'ipu cet mock test online', 'ssc cgl tier 1 mock test free'],
 };
 
 const categories = [

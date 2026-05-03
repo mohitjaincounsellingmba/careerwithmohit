@@ -23,7 +23,9 @@ export function Footer() {
       { name: 'B.Tech Predictor', href: '/tools/btech-college-predictor', color: 'text-yellow-400' },
     ],
     resources: [
-      { name: 'Mock Test Hub', href: '/mock-tests', badge: 'New' },
+      { name: 'Mock Test Hub', href: '/mock-tests', badge: 'Popular' },
+      { name: 'Free CAT Mock 2026', href: '/tools/cat-mock-test' },
+      { name: 'Free JEE Mock 2026', href: '/tools/jee-main-mock-test' },
       { name: 'PYQ Papers', href: '/previous-year-papers' },
       { name: 'Online Degrees', href: '/online-degree-certification' },
       { name: 'Certifications', href: '/certifications' },
