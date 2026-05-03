@@ -233,7 +233,11 @@ export function GenericQuizInterface({ config, questions, onComplete }: GenericQ
             </button>
             <div className="flex gap-4">
               <button
-                onClick={() => setAnswers({ ...answers, [currentQuestion.id]: undefined })}
+                onClick={() => {
+                  const newAnswers = { ...answers };
+                  delete newAnswers[currentQuestion.id];
+                  setAnswers(newAnswers);
+                }}
                 className="px-6 py-4 rounded-2xl text-gray-400 font-black uppercase text-xs tracking-widest hover:text-red-500 transition-colors"
               >
                 Clear Response
