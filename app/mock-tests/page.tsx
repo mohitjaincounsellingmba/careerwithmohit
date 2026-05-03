@@ -33,7 +33,7 @@ const categories = [
       { name: "CAT 2026", slug: "/tools/cat-mock-test", tag: "Hot", tagColor: "bg-red-500", desc: "For IIMs & FMS" },
       { name: "XAT 2026", slug: "/tools/mock-test/xat", tag: "Expert", tagColor: "bg-primary", desc: "For XLRI & SPJIMR" },
       { name: "GMAT Focus", slug: "/tools/mock-test/gmat", desc: "For ISB & Global MBA" },
-      { name: "SNAP 2025", slug: "/tools/mock-test/snap", desc: "For SIBM & SCMHRD" },
+      { name: "SNAP 2026-27", slug: "/tools/mock-test/snap", desc: "For SIBM & SCMHRD" },
       { name: "NMAT 2026", slug: "/tools/nmat-mock-test", tag: "New", tagColor: "bg-blue-500", desc: "For NMIMS & SPJIMR" },
       { name: "MHCET MBA", slug: "/tools/mhcet-mock-test", desc: "For JBIMS & SIMSREE" },
     ]
