@@ -102,7 +102,7 @@ export function GenericRegistrationForm({ config, onRegister }: GenericRegistrat
           </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="grid grid-cols-1 gap-6">
           <div>
             <label className="block text-sm font-black uppercase mb-2">Location (City)</label>
             <input
@@ -113,20 +113,6 @@ export function GenericRegistrationForm({ config, onRegister }: GenericRegistrat
               onChange={(e) => setFormData({ ...formData, location: e.target.value })}
               placeholder="City, State"
             />
-          </div>
-          <div>
-            <label className="block text-sm font-black uppercase mb-2">Select Mock Test Set</label>
-            <select
-              className="w-full border-4 border-foreground p-3 focus:outline-none focus:ring-4 focus:ring-primary/20 font-bold"
-              value={formData.selectedSet}
-              onChange={(e) => setFormData({ ...formData, selectedSet: parseInt(e.target.value) })}
-            >
-              {[...Array(30)].map((_, i) => (
-                <option key={i + 1} value={i + 1}>
-                  {config.name} - Paper Set {i + 1}
-                </option>
-              ))}
-            </select>
           </div>
         </div>
 

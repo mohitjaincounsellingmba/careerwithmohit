@@ -945,15 +945,15 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
         questions.push({
           id: idCounter,
           sectionId: section.id,
-          text: `(Practice Set ${setNumber}) ${config.name} ${section.label}: Which of the following best describes a fundamental principle of ${topic}?`,
+          text: `Which of the following best describes the core concepts and fundamental principles of ${topic} in the context of the ${config.name} ${section.label} examination?`,
           options: [
-            `Key Characteristic of ${topic} Option A`,
-            `Primary Application of ${topic} Option B`,
-            `Theoretical Basis of ${topic} Option C`,
-            `Standard Framework for ${topic} Option D`
+            `Comprehensive Overview of ${topic}`,
+            `Advanced Application of ${topic}`,
+            `Theoretical Foundation of ${topic}`,
+            `Practical Implementation of ${topic}`
           ],
           correctAnswer: (i % 4),
-          explanation: `This question tests your understanding of ${topic} in the context of ${section.label} for the ${config.name} exam. Comprehensive mastery of ${topic} is essential for a high score.`
+          explanation: `This question evaluates your proficiency in ${topic} as required for the ${section.label} section of the ${config.name}. Mastering these concepts is critical for achieving a high percentile.`
         });
       }
       idCounter++;

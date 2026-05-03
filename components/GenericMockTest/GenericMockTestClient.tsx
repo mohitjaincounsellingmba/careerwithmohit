@@ -19,7 +19,7 @@ export function GenericMockTestClient({ config, questions }: GenericMockTestClie
 
   const handleRegister = (info: GenericStudentInfo) => {
     setStudent(info);
-    setActiveQuestions(generateMockQuestions(config, info.selectedSet));
+    setActiveQuestions(generateMockQuestions(config, 1));
     setStep('quiz');
   };
 
