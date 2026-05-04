@@ -107,3 +107,11 @@ Admission to the NMIMS Online MBA is merit-based. You don't need a CAT/NMAT scor
 Confused between NMIMS, Amity, or LPU? Don't make a decision in haste. We help you find the best ROI college based on your profile.
 
 **[👉 Speak to an Honest Consultant Now!](/inquiry)** | **[💬 WhatsApp Us](https://wa.me/919560020771)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

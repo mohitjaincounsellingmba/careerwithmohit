@@ -91,3 +91,11 @@ Registrations usually start in **April/May**. The entrance test (LUVET) is typic
 Lucknow offers value and authority. Don't waste your degree at a college that doesn't have a functional computer lab. Mohit Jain provides a "Lucknow Tech Audit"—helping you pick the college that puts you on the radar of HCL, TCS, and the UP IT City hubs.
 
 [👉 Book My Lucknow BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

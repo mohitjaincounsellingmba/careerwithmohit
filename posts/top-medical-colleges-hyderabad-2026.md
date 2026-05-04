@@ -92,3 +92,11 @@ Counselling registrations typically open in **July** after the national MCC coun
 Hyderabad offers authority and innovation. Don't waste your score on a college without a stable hospital reputation. Mohit Jain provides a "Hyderabad Medical Audit"—helping you pick the college that matches your goals for clinical research or high-end surgery.
 
 [👉 Book My Hyderabad Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

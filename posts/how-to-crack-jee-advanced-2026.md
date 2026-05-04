@@ -77,3 +77,11 @@ Planning your B.Tech journey involves knowing your current milestones. Use our s
 JEE Advanced is as much a test of your temperament as your intelligence. Stay calm, stay consistent, and remember: *Consistency beats talent when talent doesn’t work hard.*
 
 **Safe Journey to IIT!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

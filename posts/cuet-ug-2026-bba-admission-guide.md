@@ -94,3 +94,11 @@ Typically held in **May/June 2026** across multiple shifts.
 CUET is a game of strategy, not just knowledge. Don't waste your score on a university without a stable placement history. Mohit Jain provides a **"CUET Management Audit"**—helping you choose the right domain subjects to maximize your eligibility for India's best central universities.
 
 [👉 Book My CUET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

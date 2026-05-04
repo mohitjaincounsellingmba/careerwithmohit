@@ -208,3 +208,11 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 **Scored 90–95 percentile in CAT and confused between Baby IIMs, New IIMs, and private B-schools? Get personalized guidance based on your profile.**
 
 [👉 Book a Free Counselling Session with Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -86,3 +86,11 @@ If you have stayed away from logic and maths, start your CLAT prep at least **12
 India's best lawyers aren't necessarily math geniuses. Don't let the "10 marks of maths" in CLAT scare you. Mohit Jain provides a "Non-Maths Legal Strategy"—helping you maximize your scores in Logic and Reading so you can walk into a Top NLU without ever solving a quadratic equation.
 
 [👉 Book My Non-Maths Law Consultation](/inquiry) | [💬 Talk to Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

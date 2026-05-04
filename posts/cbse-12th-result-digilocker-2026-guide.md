@@ -82,3 +82,11 @@ Explore our resources to plan your career:
 Our expert career counselors specialize in helping students navigate admissions for MBA, B.Tech, and other professional courses.
 
 [👉 Get Expert Career Counseling Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

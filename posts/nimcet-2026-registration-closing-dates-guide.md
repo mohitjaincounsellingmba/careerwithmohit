@@ -69,3 +69,11 @@ With the exam scheduled for **June 6, 2026**, you have roughly six weeks left:
 Explore our detailed guide on the **[Top MCA Colleges in Delhi NCR 2026](/blog/top-mca-colleges-delhi-ncr-2026)** or book a personalized session with our experts.
 
 [👉 Book a Career Counselling Session](/inquiry) | [💬 Chat for Admission Strategy](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

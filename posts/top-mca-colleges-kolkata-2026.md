@@ -86,3 +86,11 @@ Usually held in **July**. Registrations typically open in May.
 Kolkata offers value and excellence. Don't waste your years at a college without a functional coding club. Mohit Jain provides an "Eastern India Tech Audit"—helping you pick the college that matches your goals for academic computer science or high-end product engineering.
 
 [👉 Book My Kolkata MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

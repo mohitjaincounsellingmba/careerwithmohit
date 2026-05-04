@@ -116,3 +116,11 @@ If ROI is your ultimate metric, nothing beats Delhi University.
 *   **If you are appearing for CUET PG:** Target the MBA in Business Analytics through the Department of Commerce. It's an incredible emerging program. 
 
 *Disclaimer: Fees and cutoffs are based on the latest available predictions and trends for the 2025-26 cycle. Always verify exact figures with official Delhi University bulletins prior to admission.*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

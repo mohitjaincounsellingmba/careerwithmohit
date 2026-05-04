@@ -131,3 +131,11 @@ Uttarakhand's state universities provide affordable engineering with a focus on 
 - [Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026)
 - [Lowest Fee B.Tech Colleges in India (National List)](/blog/lowest-fee-btech-colleges-india-2026)
 - [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

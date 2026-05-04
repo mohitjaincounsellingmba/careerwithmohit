@@ -60,3 +60,11 @@ Explore other Christ Campuses:
 While Kengeri is further from the city hub, it is well-connected by the Bangalore Metro. At **CareerWithMohit**, we help you decide if the peaceful environment of Kengeri is better suited for your academic focus than the busy Central Campus.
 
 [👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

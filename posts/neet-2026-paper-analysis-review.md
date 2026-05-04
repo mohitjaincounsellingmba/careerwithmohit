@@ -87,3 +87,11 @@ Given the difficulty level and the increasing number of candidates, we expect th
 Mohit Jain provides personalized career counselling for medical aspirants. Whether it's choosing between MBBS/BDS or finding the best college within your budget, we are here to help.
 
 [👉 Book a Post-NEET Counselling Session](/inquiry) | [💬 Chat with Mohit on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -97,3 +97,11 @@ Yes. You can claim deduction for medical insurance premiums paid for parents, re
 Tax-saving instruments should solve two problems: reduce your tax today and grow your wealth for tomorrow. Don't buy a random insurance policy just to save tax. Mohit Jain provides a **"Portfolio Efficiency Audit"**—helping you pick the right mix of ELSS, NPS, and Health Insurance to ensure your money works as hard as you do.
 
 [👉 Book My Investment Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

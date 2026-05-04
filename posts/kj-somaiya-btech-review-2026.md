@@ -57,3 +57,11 @@ KJSCE is unparalleled when it comes to campus life.
 If you are a Mumbai local or looking to experience one of the best integrated private engineering cultures across tier-1 cities—and finances permit it—K. J. Somaiya represents an outstanding B.Tech launching pad.
 
 For more regional comparisons, view our deep dive into the **[Top B.Tech Colleges in Pune](/blog/top-btech-colleges-pune)**.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

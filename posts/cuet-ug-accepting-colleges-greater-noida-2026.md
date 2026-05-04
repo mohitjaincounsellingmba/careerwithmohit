@@ -42,3 +42,11 @@ Offers a wide variety of management and computer application courses.
 [👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
 
 **Confused about Sharda vs Galgotias? Link up with our CUET consultants for free!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

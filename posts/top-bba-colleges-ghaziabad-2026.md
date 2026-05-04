@@ -59,3 +59,11 @@ For students who want the prestige of a South Indian university but in Delhi NCR
 Choosing between ROI and Brand? Let's analyze your future goals (MBA? Job? Startup?) and choose the right base.
 
 [👉 Build My Ghaziabad Roadmap](/inquiry) | [💬 Schedule a Private Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

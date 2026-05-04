@@ -22,3 +22,11 @@ ASM's Institute of International Business and Research (IIBR) is the specialized
 The total fee remains similar to the group standards, ranging from **₹6.0 - ₹8.0 Lakhs** for the two-year PGDM course. 
 
 [👉 Learn more about ASM IIBR's international PGDM program!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

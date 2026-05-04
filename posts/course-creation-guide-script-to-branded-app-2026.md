@@ -87,3 +87,11 @@ Hosted platforms and branded apps provide **Dynamic Watermarking** (showing the 
 A course is an asset that works for you 24/7. Don't waste your expertise on one-off classes. Mohit Jain provides a **"Curriculum & Launch Audit"**—helping you structure your course for maximum student success and building the branded app that makes your academy look world-class.
 
 [👉 Start Building My Digital Academy](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -90,3 +90,11 @@ Usually held in **July/August**. Registrations typically open in May/June.
 Bangalore is the big league. Don't waste your years at a college with zero placement records. Mohit Jain provides a "Bangalore Tech Roadmap"—ensuring you pick the college that actually transforms you into a Software Architect.
 
 [👉 Book My Bangalore MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

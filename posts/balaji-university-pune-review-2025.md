@@ -41,3 +41,11 @@ Yes, Balaji University accepts **CAT, MAT, XAT, CMAT, and MAH CET** scores.
 The university operates on a **365-day model** with strict attendance and professional grooming standards to make students corporate-ready.
 
 [👉 Take the first step toward Sri Balaji University! Click for admission help.](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

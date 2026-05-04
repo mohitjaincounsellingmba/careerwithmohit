@@ -61,3 +61,11 @@ Ensure that the following details on your provisional result are correct. If you
 Choosing between Science, Commerce, and Arts after 10th can be overwhelming. At **CareerWithMohit**, we help students identify their strengths and map out a successful path towards rewarding careers in MBA, B.Tech, or Government jobs.
 
 [👉 Connect with our expert counselors for free guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

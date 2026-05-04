@@ -98,3 +98,11 @@ No. They are separate programs. You cannot "exit" a 5-year course with just a BA
 Don't pick a degree just because it sounds prestigious. Mohit Jain provides a "Legal Aptitude Mapping"—analyzing your academic background and logical skills to see if you are a "5-Year Explorer" or a "3-Year Strategist."
 
 [👉 Book My Legal Career Call](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

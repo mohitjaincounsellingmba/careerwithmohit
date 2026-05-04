@@ -176,3 +176,11 @@ Symbiosis Institutes are neatly categorized by percentiles:
 **A note on fees:** While the absolute fees for SIBM Pune and SCMHRD seem high (crossing ₹30 Lakhs), their average packages hovering above ₹21 Lakhs make the ROI highly justifiable compared to many private universities. 
 
 *Disclaimer: Fee structures and cutoffs are based on latest available data for 2025-2026 admissions. Always verify with official Symbiosis admissions portals before applying.*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

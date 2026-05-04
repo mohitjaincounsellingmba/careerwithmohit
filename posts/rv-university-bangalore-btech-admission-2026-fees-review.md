@@ -52,3 +52,11 @@ Explore other engineering options in Bangalore:
 Choosing between the high cutoffs of RVCE and the modern flexibility of RVU can be tough. At **CareerWithMohit**, we help you decide based on your rank and your preference for a traditional academic environment vs. a new-age university experience.
 
 [👉 Get Expert Admission Guidance for RV University!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

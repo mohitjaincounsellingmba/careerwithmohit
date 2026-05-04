@@ -38,3 +38,11 @@ Our mock test is meticulously designed based on the latest CAT pattern to give y
 Looking for more help with your MBA journey? Check out our **[Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)** or explore the **[Top MBA Colleges in Pune](/blog/top-mba-colleges-pune)** for your backup options.
 
 Taking regular mock tests is the single most important part of your CAT preparation journey. Start today and stay ahead of the curve!
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

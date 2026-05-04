@@ -47,3 +47,11 @@ Looking for other engineering seat details? Check our category-wise guides:
 Choosing between a "Top 10 NIT with a second-tier branch" and a "Newer NIT with Computer Science" is a tough decision. At **CareerWithMohit**, we help students analyze placement trends, fees, and campus life to make the right choice.
 
 [👉 Get Expert NIT Admission Guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

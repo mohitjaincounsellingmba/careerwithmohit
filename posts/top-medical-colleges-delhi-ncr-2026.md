@@ -99,3 +99,11 @@ Usually starts in **July/August**, conducted by the Medical Counselling Committe
 Delhi medical life is high-pressure and high-reward. Don't waste your score on a college with empty hospital beds. Mohit Jain provides a "NCR Medical Hub Audit"—helping you identify the college that puts you on the frontlines of India's healthcare.
 
 [👉 Book My Delhi NCR Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -56,3 +56,11 @@ In this guide, we break down **12 key differences** to help you decide which pat
 > A degree or a diploma is just the start. Let's map out which specific college will give you the best ROI for your career.
 
 [👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

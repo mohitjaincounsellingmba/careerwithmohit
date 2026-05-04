@@ -300,3 +300,11 @@ In this guide, we break down the **top recruiters, average packages, and key ski
 **Talk to our experts for a free career counselling session:**
 
 [👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

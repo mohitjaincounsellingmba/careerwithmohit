@@ -60,3 +60,11 @@ With fees around ₹9 Lakhs and an average package between ₹7–8 LPA, student
 **Final Verdict**: A solid choice for students looking for a strong brand name in Greater Noida with top-tier infrastructure and a high volume of placements.
 
 [👉 Apply to GNIOT](/inquiry) | [👉 Get Free Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -78,3 +78,11 @@ Most government-affiliated colleges in Kota accept **CMAT** or the **RMAP** proc
 - **For Modern Skills:** **Career Point University** is the best private pick.
 
 [👉 Still confused about which college to pick in Kota? Chat with us for a free counselling session!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

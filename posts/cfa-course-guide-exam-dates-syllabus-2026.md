@@ -92,3 +92,11 @@ The starting salary for a full Charterholder (Level 3 + Experience) in India ran
 The CFA designation is more than just an exam; it’s a commitment to professional excellence. Don't waste your registration fee on a sub-par prep strategy. Mohit Jain provides a **"CFA Selection Audit"**—helping you decide when to register and building a study plan that ensures you don't fall into the "50% failure rate" trap.
 
 [👉 Book My CFA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

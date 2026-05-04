@@ -96,3 +96,11 @@ If you are certain about a career in management, the **IPM (Integrated Program i
 
 **Confused about your career path?**
 [👉 Talk to our experts for a personalized Career Roadmap!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -58,3 +58,11 @@ Ensure you verify the following details on your provisional scorecard:
 Choosing the right stream (PCM, PCB, Commerce, or Arts) after the 10th board is often the most confusing part for students. Our expert counselors at **CareerWithMohit** provide personalized mentorship to help you choose the best path based on your interests and marks.
 
 [👉 Get Personalised Career Guidance Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

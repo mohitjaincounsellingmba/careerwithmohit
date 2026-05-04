@@ -54,3 +54,11 @@ FMS consistently matches or beats the average packages of IIM Ahmedabad, Bangalo
 
 ---
 [👉 Need help preparing for the rigorous FMS Extempore and Personal Interview? Connect with Mohit Jain for expert guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

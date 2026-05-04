@@ -93,3 +93,11 @@ Usually, the scholarship is discontinued if you fail. However, if you are promot
 [👉 Get help with your Maharashtra Scholarship Documentation](/inquiry)
 
 **Need more clarity on your eligibility? Leave a comment below or book a consultation call!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

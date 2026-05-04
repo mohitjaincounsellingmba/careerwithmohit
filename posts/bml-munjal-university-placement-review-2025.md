@@ -33,3 +33,11 @@ BML Munjal University (BMU), founded by the Hero Group, has set its focus on exp
 *   [MICA Ahmedabad Placement Review 2026](/blog/mica-ahmedabad-review-2026)
 
 [👉 Get Admission Consultation for BML Munjal University!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -12,6 +12,7 @@ export function Footer() {
       { name: 'Top Colleges', href: '/colleges' },
       { name: 'Latest News', href: '/blog' },
       { name: 'Counselling', href: '/services' },
+      { name: 'Backlink Collab', href: '/backlink-collaboration' },
       { name: 'Contact Us', href: '/inquiry' },
       { name: 'About Mohit', href: '/about' },
     ],

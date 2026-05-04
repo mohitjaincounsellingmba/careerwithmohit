@@ -32,3 +32,11 @@ keywords: ["RMS Business School review 2026", "RMS Gurgaon placements", "RMS Bus
 
 [👉 Apply to RMS Business School](/inquiry)
 [👉 View More B-Schools in Gurgaon](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -96,3 +96,11 @@ Most private universities start their intake in **January - March** for the upco
 *   [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg)
 *   [Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
 *   [MBA PGDM Colleges Under 10 Lakhs in Delhi NCR](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

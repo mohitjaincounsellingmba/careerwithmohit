@@ -61,3 +61,11 @@ Yes, IMI Delhi has a good mix of both freshers and students with work experience
 - [Direct MBA Admission India 2026 Profile Weights](/blog/direct-mba-admission-india)
 
 [👉 Want to secure your seat at IMI Delhi? Speak to our admission experts today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -64,3 +64,11 @@ Here is the list of top-ranked and highly reputed institutions in Jaipur where y
 
 ---
 [👉 Ready to secure your direct admission seat? Contact our Career Counselling team for free guidance and campus visit arrangements!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

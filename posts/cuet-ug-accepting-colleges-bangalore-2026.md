@@ -47,3 +47,11 @@ A top-tier technical institute that considers CUET scores for specific programs.
 [👉 View Full Citywise CUET University List](/cuet-ug-university-list-2026-citywise)
 
 **Confused about subject combinations for Bangalore 2026? Connect with our experts today!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

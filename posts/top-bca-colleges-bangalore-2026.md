@@ -92,3 +92,11 @@ Data Science, Artificial Intelligence (AI), and Cloud Computing are the highest-
 Bangalore is competitive. Don't waste your years at a college with zero placement records. Mohit Jain provides a "Coding Potential Audit"—helping you pick the Bangalore college that actually transforms you into a developer.
 
 [👉 Book My Bangalore BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

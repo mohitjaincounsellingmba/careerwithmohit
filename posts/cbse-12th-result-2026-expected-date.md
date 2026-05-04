@@ -59,3 +59,11 @@ If your marks don't meet your expectations, don't panic. CBSE offers:
 Confused about which career path to choose after Class 12? Our expert counselors can help you find the best colleges based on your marks and interests.
 
 [👉 Get Personalised Admission Guidance Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

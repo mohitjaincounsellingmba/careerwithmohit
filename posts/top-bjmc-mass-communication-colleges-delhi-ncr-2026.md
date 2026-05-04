@@ -92,3 +92,11 @@ Graduating from a top college in Delhi NCR opens doors to various booming sector
 Navigating the choices between IP University colleges and private universities can be overwhelming. Some colleges are great for journalism, while others excel in PR and advertising. Let our experts guide you.
 
 [👉 Get Free Career & Admission Counselling](/inquiry) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

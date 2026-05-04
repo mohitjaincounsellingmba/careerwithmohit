@@ -50,3 +50,11 @@ Make sure to check the details for all VIT campuses before filling your counsell
 Securing a rank under 10,000 is essential for getting a Category 1 or 2 seat in Chennai. Our experts at **CareerWithMohit** provide personalized mock test analysis and preparation strategies to help you reach your target.
 
 [👉 Get Expert VIT Admission Guidance Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

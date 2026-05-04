@@ -87,3 +87,11 @@ Maintaining **Professional Skepticism**. You have to assume everything is wrong 
 Forensic accounting is where ethics meets intelligence. Don't waste your career in a routine audit role if you have the "Investigative Itch." Mohit Jain provides a **"Forensic Career Audit"**—helping you master the data tools and legal frameworks needed to land a role in the Big 4 Forensic departments.
 
 [👉 Book My Forensic Audit Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

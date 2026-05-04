@@ -89,3 +89,11 @@ Admission to IBMR Gurgaon is straightforward and primarily merit-based:
 *   **KR Mangalam:** Better if you prefer a large university campus experience with more diverse extra-curriculars.
 
 [👉 Apply to IBMR Gurgaon BBA 2026](/inquiry) | [💬 Get Free Career Counselling for Gurgaon Colleges](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -69,3 +69,11 @@ Securing a management quota seat in a top university requires proper guidance to
 If you are looking to secure a seat in SRM University under the management quota, our expert counselors can guide you through the official process, provide accurate fee details, and help you choose the right campus and branch.
 
 [👉 Submit your inquiry form here for personalized admission guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

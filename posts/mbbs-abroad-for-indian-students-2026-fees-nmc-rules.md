@@ -94,3 +94,11 @@ Most universities have their primary intake in **September/October**. Some also 
 Agents push colleges where they get the highest commission. Don't be a statistic. Mohit Jain provides a **"Global Medical Audit"**—verifying the actual student feedback on the ground and helping you pick a university that ensures you pass the NEXT exam in your first attempt.
 
 [👉 Book My Global Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

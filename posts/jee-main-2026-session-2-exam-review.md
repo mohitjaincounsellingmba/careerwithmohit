@@ -69,3 +69,11 @@ If your exam went well, you should immediately pivot your focus toward JEE Advan
 Don't let a low percentile stop you from pursuing your dream course. There are excellent engineering colleges available that match your profile and budget. Get expert guidance from our career counsellors.
 
 [👉 Get Free Engineering Admission Guidance Today!](/inquiry) | [💬 Talk to Our Expert on WhatsApp](https://wa.me/919560020771)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

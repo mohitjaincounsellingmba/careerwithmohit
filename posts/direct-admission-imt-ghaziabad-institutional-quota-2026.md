@@ -61,3 +61,11 @@ For the regular PGDM, CAT or XAT is mandatory. For NRI candidates, GMAT is accep
 - [Direct MBA Admission India 2026 FAQs](/blog/direct-mba-admission-india)
 
 [👉 Want to secure your seat at IMT Ghaziabad? Book a profile evaluation session today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

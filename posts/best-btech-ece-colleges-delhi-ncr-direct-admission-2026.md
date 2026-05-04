@@ -69,3 +69,11 @@ As with any Direct Admission route, acting quickly is vital.
 *   [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
 
 [👉 Connect with our expert counselors today for 100% transparent direct admission support in top ECE colleges!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

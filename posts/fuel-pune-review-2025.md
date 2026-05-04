@@ -22,3 +22,11 @@ FUEL Business School (Friends Union for Energising Lives) is a unique institutio
 With a total two-year fee ranging from **₹5.5 Lakhs to ₹8.0 Lakhs**, FUEL is an excellent choice for students looking for high-quality instruction with a mission-driven approach.
 
 [👉 Explore scholarships at FUEL Business School Pune!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

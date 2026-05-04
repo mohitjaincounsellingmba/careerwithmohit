@@ -79,3 +79,11 @@ The best way to know where you stand is to take a realistic simulation.
 - [How to Analyze CAT Mocks Like a Topper](/blog/why-take-our-free-cat-mock-test-2026-online)
 - [CAT Score vs Percentile 2026 Projections](/tools/cat-mock-test#marks)
 - [Top IIM Admissions Guide 2026](/blog/iims-list-courses-placements-cutoffs-admission)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

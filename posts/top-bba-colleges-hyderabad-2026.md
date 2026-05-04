@@ -61,3 +61,11 @@ Here are the **Top BBA Colleges in Hyderabad for 2026**.
 Woxsen or IBS? Budget or Brand? Let's analyze your profile and find the perfect match.
 
 [👉 Build My Hyderabad Roadmap](/inquiry) | [💬 Schedule a Profile Review Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -63,3 +63,11 @@ IIT Delhi works hard to accommodate all students, but priority is given based on
 **3. What is the fee for B.Tech at IIT Delhi per semester?**
 The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC students, with full waivers for SC/ST and income-based concessions for others.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

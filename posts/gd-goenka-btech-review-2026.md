@@ -88,3 +88,11 @@ Admissions are based on a mix of entrance scores and personal interaction:
 *   **GD Goenka vs. Amity Noida:** Amity has a larger alumni network, but Goenka offers a less crowded, more personalized campus experience in Gurgaon.
 
 [👉 Apply to GD Goenka BTech 2026](/inquiry) | [💬 Chat with an Engineering Career Expert](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

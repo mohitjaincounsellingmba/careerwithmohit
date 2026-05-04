@@ -92,3 +92,11 @@ Usually in **May**, immediately after the CBSE and local board results are decla
 Chandigarh offers discipline and branding. Don't waste your precious 3 years at a college that doesn't have a software lab. Mohit Jain provides an honest, data-backed audit of Chandigarh tech schools—ensuring you pick a college that is recognized by the global IT world.
 
 [👉 Book My Chandigarh BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

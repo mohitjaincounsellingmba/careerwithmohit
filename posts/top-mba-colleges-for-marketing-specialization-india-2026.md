@@ -87,3 +87,11 @@ In a Tier-2 college, expect ₹6L to ₹9L. In Tier-1 (IIM/MDI/XLRI), freshers s
 Marketing isn't just about ads; it's about numbers and empathy. Don't waste your creativity at a finance-heavy college. Mohit Jain provides a "Specialization Audit"—helping you decide if your traits align with a successful Marketing career.
 
 [👉 Book My Marketing Career Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

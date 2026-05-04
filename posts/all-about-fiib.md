@@ -54,3 +54,11 @@ FIIB provides outsourced hostel facilities near the campus (within 2-3 km) with 
 **Final Verdict**: FIIB is ideal for students aiming for careers in international trades, consulting, or large-scale MNC operations in South Delhi.
 
 [👉 Apply to FIIB](/inquiry) | [👉 Get Free Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

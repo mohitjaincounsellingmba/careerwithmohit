@@ -88,3 +88,11 @@ JKBS does not offer direct admission on marks alone. They follow a holistic sele
 *   **IBMR Gurgaon:** Preferred if you are on a tight budget and want a more integrated tech-management (BCA+UGPM) course.
 
 [👉 Apply to JKBS Gurgaon BCA 2026](/inquiry) | [💬 Get Expert IT Career Guidance](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

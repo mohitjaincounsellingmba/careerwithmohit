@@ -31,3 +31,11 @@ keywords: ["IILM Lodhi Road review 2026", "IILM Delhi placement", "IILM Lodhi Ro
 
 [👉 Apply to IILM Lodhi Road](/inquiry)
 [👉 View More B-Schools in Delhi](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

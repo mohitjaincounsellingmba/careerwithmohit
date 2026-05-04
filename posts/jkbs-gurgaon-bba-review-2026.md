@@ -91,3 +91,11 @@ The selection process at JKBS is more rigorous than many other undergraduate col
 *   **GD Goenka:** Better if you want a massive campus, international exposure, and a more vibrant social/extra-curricular life.
 
 [👉 Apply to JKBS Gurgaon BBA 2026](/inquiry) | [💬 Schedule a Private Profile Review with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

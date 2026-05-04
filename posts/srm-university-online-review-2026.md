@@ -59,3 +59,11 @@ Absolutely. All online programs from SRM IST (Deemed to be University) are **UGC
 
 ---
 [👉 Thinking about SRM? Talk to our expert counselors for the latest scholarships and enrollment details!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

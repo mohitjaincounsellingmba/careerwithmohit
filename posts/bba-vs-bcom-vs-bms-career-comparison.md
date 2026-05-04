@@ -100,3 +100,11 @@ Most BBA/BMS entrance exam forms (IPMAT, CUET) open in **February 2026**. B.Com 
 Your undergraduate degree is the most critical decision of your life. Don't waste your score on a degree that doesn't match your patient-career philosophy. Mohit Jain provides a **"Nomenclatures Audit"**—helping you choose between BBA, BMS, and B.Com based on your 5-year career goal.
 
 [👉 Book My Business Career Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

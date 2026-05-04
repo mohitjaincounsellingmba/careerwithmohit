@@ -101,3 +101,11 @@ Don't guess your career. Build a winning roadmap with Mohit Jain.
 
 [👉 Book My Personalised Counselling Session](/inquiry) | [💬 WhatsApp Support](https://wa.me/919560020771)
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

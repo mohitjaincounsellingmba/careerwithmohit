@@ -60,3 +60,11 @@ Yes, high achievers with 95+ percentile in JEE or 95%+ in 10+2 (best of 3) are e
 **3. Which group owns Bennett University?**
 The university is owned and backed by the Times of India Group.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

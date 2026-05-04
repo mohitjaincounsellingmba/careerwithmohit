@@ -85,3 +85,11 @@ Register for **Round 1** of either MCC or State counselling. By Round 3 (Stray V
 A management quota seat is a massive investment of your family's hard-earned money. Don't waste it on a college with a dying hospital. Mohit Jain provides a **"Safe Medical Seat Audit"**—verifying the BCI and NMC records of the college and helping you secure a legal, fraud-free admission.
 
 [👉 Book My Safe Medical Admission Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

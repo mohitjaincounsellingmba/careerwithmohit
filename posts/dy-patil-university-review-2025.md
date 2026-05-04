@@ -22,3 +22,11 @@ The Global Business School & Research Centre (GBSRC) is the flagship management 
 The fee structure is mid-to-high, reflecting the premium university status. It is a perfect choice for students looking for a comprehensive university experience with a solid placement track record.
 
 [👉 Join the elite circle at DY Patil University. Apply now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

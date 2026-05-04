@@ -77,3 +77,11 @@ Finding an **under 5 lacs MBA college in Pune (direct admission)** is entirely p
 
 ---
 [👉 Confused about which affordable Pune college offers the best placements? Contact Career with Mohit for a FREE direct admission consultation today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -57,3 +57,11 @@ The window for institutional seats in Bangalore usually opens early. By the time
 
 **Ready to start your journey in India's Silicon Valley?**
 [👉 Consult Our Bangalore Expert](/inquiry) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

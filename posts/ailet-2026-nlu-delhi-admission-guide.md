@@ -94,3 +94,11 @@ Ideally, you should start along with CLAT prep (around **12 months before exam**
 The margin of error in AILET is zero. One wrong logic set and you are out. Mohit Jain provides an "AILET Precision Audit"—helping you identify the specific logic types (Syllogisms, Blood relations, Inference) that are slowing you down.
 
 [👉 Book My NLU Delhi Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

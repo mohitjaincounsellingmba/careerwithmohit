@@ -155,3 +155,11 @@ JIIT charges approximately ₹2.1 Lakhs per year. Total B.Tech programme cost is
 ---
 
 **[👉 Want expert help choosing the best Noida B.Tech college for your rank? Talk to Mohit for FREE!](/inquiry)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

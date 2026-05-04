@@ -85,3 +85,11 @@ Corporate Finance. Every company needs a finance team. Only a few top banks and 
 Choosing between these two is about lifestyle, not just money. Don't waste your energy in a high-stress bank if your heart is in corporate strategy. Mohit Jain provides a **"Finance Persona Audit"**—helping you decide if you are a "Dealmaker" or an "Operator" and positioning you for the right interviews.
 
 [👉 Book My Finance Career Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

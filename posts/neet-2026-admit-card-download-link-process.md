@@ -61,3 +61,11 @@ As you finalize your NEET preparation, it's also wise to understand the broader 
 Navigating NEET counselling and medical college admissions can be complex. Ensure you make the best choices for your medical career with expert advice.
 
 [👉 Book a Personalized Counselling Session with Mohit Jain!](/inquiry) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

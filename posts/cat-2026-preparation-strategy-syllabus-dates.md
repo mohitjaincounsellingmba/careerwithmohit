@@ -109,3 +109,11 @@ Yes. Dedicate 2 hours daily and 6-8 hours on weekends. Many toppers are working 
 Stop following generic advice. Mohit Jain provides a **Personalized CAT Roadmap** based on your current diagnostic mock scores. Let's fix your strategy before you waste another mock.
 
 [👉 Get My Personal CAT Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

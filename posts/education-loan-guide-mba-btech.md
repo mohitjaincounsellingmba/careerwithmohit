@@ -81,3 +81,11 @@ Education loans are rarely given to the student's bank account. The bank will di
 
 ---
 [👉 Confused about which bank loan is best for your specific college? Let us guide you through the financial planning process!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

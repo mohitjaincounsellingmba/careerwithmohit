@@ -68,3 +68,11 @@ IILM Jaipur has a profile-based admission process but relies on standard managem
 IILM Jaipur provides standard management education at an affordable price bracket. With a robust alumni network and access to centralized IILM placements, the ROI is commendable. If you are comparing the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), IILM is a highly practical choice.
 
 [👉 Secure Your Seat! Get Free Admission Guidance for IILM Jaipur](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

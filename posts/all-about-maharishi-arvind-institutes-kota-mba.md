@@ -40,3 +40,11 @@ Yes, the group has a centralized placement cell that works with local industries
 **Our Verdict**: If you are looking for a trusted private brand with dual-campus flexibility and affordable fees, **Maharishi Arvind is a strong contender in Kota.**
 
 [👉 Apply to Maharishi Arvind](/inquiry) | [👉 Get Expert Support](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

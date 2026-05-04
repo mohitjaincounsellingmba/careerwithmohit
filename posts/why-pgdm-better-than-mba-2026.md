@@ -74,3 +74,11 @@ However, if you are looking for a **lower fee structure** or primarily want to p
 - [Top AIU Approved PGDM Colleges in India](/blog/aiu-approved-pgdm-colleges-india-2026)
 - [Low Fees High Placement MBA Colleges in India 2026](/blog/low-fees-high-placement-mba-colleges-2026)
 - [Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -147,3 +147,11 @@ In this expanded guide, we provide **20 trending GD topics for 2026** with struc
 Don't leave your selection to chance. Our experts provide mock interviews and feedback tailored for 2026 admissions.
 
 [**Inquiry Now for GDPI 2026 Coaching**](/inquiry) | [**Explore Career Roadmaps**](/blog/career-roadmaps-2025)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

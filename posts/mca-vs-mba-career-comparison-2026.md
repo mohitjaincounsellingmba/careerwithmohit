@@ -94,3 +94,11 @@ Massive. With the rise of AI and Automation, companies need people who can *buil
 Don't pick a degree based on your neighbor's advice. Mohit Jain provides a "Career Fitment Audit"—analyzing your technical aptitude vs. your management potential to help you pick the path that makes you a millionaire by 30.
 
 [👉 Book My MCA vs MBA Consultation](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

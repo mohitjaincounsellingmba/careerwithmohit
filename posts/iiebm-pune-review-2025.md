@@ -22,3 +22,11 @@ IIEBM (Indus Business School) is one of Pune's most established PGDM institutes,
 The total tuition fee is **₹9.15 Lakhs** for PGDM and **₹11.9 Lakhs** for the specialized SAP integrated program. If you are looking for a tech-heavy management career, IIEBM is a standout choice.
 
 [👉 Learn more about the SAP advantage at IIEBM Pune!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

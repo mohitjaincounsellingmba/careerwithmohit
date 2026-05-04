@@ -92,3 +92,11 @@ Perfect for students looking for a foothold in the Bangalore tech and retail lan
 - **For a balanced ROI:** **XIME and Christ University** offer excellent value.
 
 [👉 Need help choosing between a main campus and a satellite campus in Bangalore? Get expert advice from Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

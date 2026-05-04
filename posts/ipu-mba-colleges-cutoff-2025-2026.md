@@ -96,3 +96,11 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 ---
 
 **[👉 Unsure if you can clear the IPU MBA cutoff with your score? Get a FREE analysis and admission plan with Mohit!](/inquiry)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

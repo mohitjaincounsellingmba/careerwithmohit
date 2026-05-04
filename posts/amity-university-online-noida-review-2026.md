@@ -67,3 +67,11 @@ To better understand your options, check out these related guides:
 Don't navigate the complex admission process alone. At **CareerWithMohit**, we provide 100% verified guidance to help you choose the right specialization and secure your seat in the 2026 batch.
 
 [👉 Get Expert Admission Help Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

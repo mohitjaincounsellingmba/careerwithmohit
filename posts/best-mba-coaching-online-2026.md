@@ -64,3 +64,11 @@ The GMAT is globally recognized and follows a different pattern (GMAT Focus Edit
 Choosing the right coaching depends on your learning style—whether you need the discipline of a scheduled live class or the flexibility of recorded modules. **Most of these platforms offer free demo classes—make sure to take one before enrolling!**
 
 Need help deciding which exam to target? **Connect with us for a personalized career strategy session.**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -91,3 +91,11 @@ Most exams (IPMAT, NPAT, SET) are held in **May/June 2026**.
 BBA is the foundation of leadership. Don't waste your score on a college without a corporate placement cell. Mohit Jain provides a "BBA Excellence Audit"—helping you pick the college that matches your goals for investment banking or marketing.
 
 [👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

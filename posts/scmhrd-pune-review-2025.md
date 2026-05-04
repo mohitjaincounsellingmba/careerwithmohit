@@ -22,3 +22,11 @@ SCMHRD (Symbiosis Centre for Management and Human Resource Development) is a pre
 The total academic fee for the flagship MBA program is approximately **₹22.0 Lakhs**. Given the median package is close to ₹20 LPA, it remains one of the most prestigious high-ROI choices in the Symbiosis family.
 
 [👉 Get a free profile evaluation for SCMHRD Pune!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

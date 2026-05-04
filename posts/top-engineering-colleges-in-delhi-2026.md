@@ -117,3 +117,11 @@ Confused about choice filling in JAC Delhi or GGSIPU counselling? Unsure which c
 - [IPU B.Tech Admissions Guide 2026](/blog/ipu-btech-admissions-guide)
 - [Direct B.Tech Admission in Pune](/blog/btech-lateral-entry-guide)
 - [Top B.Tech Colleges in India: NIRF Rankings](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -70,3 +70,11 @@ Competition is at an all-time high. To stay ahead:
 If you are confused between Banking, SSC, or private sector roles, our expert counselors can help you map out your strengths and choose the right path.
 
 [👉 Get One-on-One Career Consultation Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

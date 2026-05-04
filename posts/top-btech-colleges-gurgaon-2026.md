@@ -76,3 +76,11 @@ If you are looking for colleges with specific quotas or slightly lower fee struc
 Securing a seat in top colleges like Amity, NCU, or BML Munjal can be competitive. Sometimes, institutional and management quotas are available for deserving candidates.
 
 [👉 Check Your Eligibility Now](/calculator/jee-main-2026) | [👉 Get Direct Admission Guidance](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

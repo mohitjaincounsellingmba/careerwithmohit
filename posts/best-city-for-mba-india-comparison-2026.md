@@ -151,3 +151,11 @@ It is important to note that **College Tier** matters more than the city. Howeve
 - [MBA vs PGDM: Ultimate Guide 2026](/blog/mba-vs-pgdm-2026-ultimate-guide)
 - [Low Fees High Placement MBA Colleges in India](/blog/low-fees-high-placement-mba-colleges-2026)
 - [Direct MBA Admission Guide 2026](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

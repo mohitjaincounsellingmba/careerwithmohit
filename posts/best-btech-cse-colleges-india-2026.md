@@ -91,3 +91,11 @@ Government colleges (IITs/NITs) cost around ₹8L - ₹12L for 4 years. Private 
 CSE is about speed and logic. Don't waste your score on a college without a functional coding club. Mohit Jain provides a "National CSE Hub Audit"—helping you identify the college that puts you on the radar of NVIDIA, Google, and the global AI giants.
 
 [👉 Book My National CSE Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

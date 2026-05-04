@@ -52,3 +52,11 @@ If you want the **best possible NAAC rating at an unbeatable price**, **Guru Kas
 **Read Also:**
 *   [Lovely Professional University (LPU) Online MBA Review](/blog/lovely-professional-university-lpu-online-mba-review-2026)
 *   [Sikkim Manipal University Online MBA Review](/blog/sikkim-manipal-university-online-mba-review-2026)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -56,3 +56,11 @@ The admission cycle typically begins in **December/January** for the July intake
 - [Direct MBA Admission in India 2026](/blog/direct-mba-admission-india)
 
 [👉 Get expert help for your Christ University application today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

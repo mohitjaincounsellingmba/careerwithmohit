@@ -71,3 +71,11 @@ Most of these universities conduct their own entrance exams or accept scores fro
 Confused between two private universities? Our team can help you analyze the faculty, campus placement reports, and alumni feedback for free.
 
 [👉 Get Free Career Counselling](/inquiry) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

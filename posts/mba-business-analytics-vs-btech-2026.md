@@ -89,3 +89,11 @@ Choosing between staying in pure engineering or moving to Business Analytics dep
 
 **Ready to start your MBA journey?**
 [👉 Get a Personalized Career Roadmap from our Experts](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

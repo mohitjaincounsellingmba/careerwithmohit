@@ -26,3 +26,11 @@ The International School of Business & Media (ISB&M) is known for its "lifestyle
 The total fee for the 2026-28 batch is approximately **₹14.29 Lakhs**. If you are looking for a modernized, freedom-oriented education with strong salary outcomes, ISB&M is a top contender.
 
 [👉 Get a direct consultation for ISB&M Pune admissions!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

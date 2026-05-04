@@ -57,3 +57,11 @@ COER is older and more traditionally engineering-focused, while Quantum is known
 **3. What is the highest package at COER?**
 The highest package recorded for the recent batch was ₹44 LPA.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

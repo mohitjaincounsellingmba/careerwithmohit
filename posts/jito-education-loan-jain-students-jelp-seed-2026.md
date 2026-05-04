@@ -80,3 +80,11 @@ Securing funding is just one part of your higher education journey. Deciding whi
 *   [Check Career Roadmaps for 2026](/blog/career-roadmaps-2026)
 
 [👉 Need guidance on MBA admissions or dealing with high fees? Contact our Career Counselling team today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

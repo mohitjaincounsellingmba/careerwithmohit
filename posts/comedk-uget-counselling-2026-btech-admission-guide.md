@@ -62,3 +62,11 @@ KCET is for Karnataka residents (for both government and private seats), while C
 **3. What is the top college in COMEDK?**
 RV College of Engineering (RVCE) Bangalore is consistently ranked as the #1 preference.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

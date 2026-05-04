@@ -80,3 +80,11 @@ Apart from the 21 IIMs, several other institutes accept CAT scores:
 * [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates)
 * [Top 10 MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026)
 * [CAT vs CMAT vs NMAT: Which Exam is Easier?](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -96,3 +96,11 @@ Ideal for students looking for consistent growth and a solid entry into the Mumb
 - **If you have an NMAT score:** **NMIMS** is the gold standard.
 
 [👉 Confused about Mumbai city life or which college fits your budget? Get a free profile evaluation from Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

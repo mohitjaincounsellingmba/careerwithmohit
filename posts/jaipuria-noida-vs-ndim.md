@@ -59,3 +59,11 @@ If you want a higher average package, unparalleled networking opportunities in t
 Ensure you make the smartest choice for your career.
 
 [👉 Apply for NDIM Delhi Direct Admission](/inquiry) | [👉 Compare More Colleges](/tools/college-comparison)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

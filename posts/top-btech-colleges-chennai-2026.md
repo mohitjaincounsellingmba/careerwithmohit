@@ -152,3 +152,11 @@ Government-aided college fees are low (₹50,000–₹1 L/yr). Private deemed un
 ---
 
 **[👉 Need expert help choosing a Chennai B.Tech college? Book a FREE counselling session with Mohit!](/inquiry)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

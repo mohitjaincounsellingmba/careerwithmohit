@@ -85,3 +85,11 @@ The "Golden Window" is between **April and May** (after board exams). By June/Ju
 Don't guess with your future. Mohit Jain provides a **Safe Seat Audit**—verifying the college's placement claims and ensuring your direct admission is 100% legal and beneficial for your career.
 
 [👉 Book My Safe Admission Session](/inquiry) | [💬 Verify a College on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

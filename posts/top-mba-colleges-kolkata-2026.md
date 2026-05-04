@@ -99,3 +99,11 @@ Tier-1 closes by December/January. State colleges through JEMAT continue their p
 Kolkata offers branding that spans decades. Don't be fooled by shiny brochures. Mohit Jain provides an honest, data-backed audit of Kolkata B-schools to ensure you don't waste your precious 2 years.
 
 [👉 Book My Kolkata Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

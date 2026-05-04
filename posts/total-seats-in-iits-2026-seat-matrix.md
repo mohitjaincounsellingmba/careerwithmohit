@@ -53,3 +53,11 @@ If you are looking for other top engineering institutes, check our detailed seat
 Navigating the JoSAA choice-filling process can be overwhelming. Choosing the right branch vs. a better IIT is a common dilemma. Our expert counselors at **CareerWithMohit** provide personalized guidance to help you secure the best possible seat based on your JEE Advanced rank.
 
 [👉 Get Expert IIT Admission Support!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

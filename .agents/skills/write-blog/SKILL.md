@@ -32,12 +32,17 @@ Once the post is written and verified for quality:
 - Run `git commit -m "feat: add blog post about [Topic Name]"`
 - Run `git push origin main` to deploy/update the blog.
 
-### 5. Social Media Automation
+### 5. Backlink Automation
+After the post is written and before pushing:
+- Run `node scripts/automate-backlinks.mjs` to ensure the niche website backlink is included.
+
+### 6. Social Media Automation
 After the post is pushed and the site is updated:
 - Run `node scripts/social-share.mjs` to automatically post to Instagram, Facebook, and LinkedIn.
 - Wait for the graphics to be generated and shared.
 
 ## Critical Reminders
 - Ensure `INSTAGRAM_BUSINESS_ID`, `INSTAGRAM_ACCESS_TOKEN`, `FB_PAGE_ID`, and `LINKEDIN_ACCESS_TOKEN` are set in your environment or `.env` file.
+- Every post MUST have a backlink to the niche website (run the automation script).
 - Do NOT guess college data; if unsure, perform a web search to get accurate fees, placements, and dates.
 - Always check if a similar post already exists to avoid duplication or to provide a better internal link.

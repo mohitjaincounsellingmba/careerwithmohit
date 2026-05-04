@@ -87,3 +87,11 @@ The admission process is designed to be accessible yet competitive:
 *   **Sushant University:** Better for students who want a more traditional, large-scale campus experience with a higher fee structure.
 
 [👉 Apply to IBMR Gurgaon BCA 2026](/inquiry) | [💬 Get Free IT Career Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

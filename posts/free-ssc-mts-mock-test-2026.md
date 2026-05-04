@@ -72,3 +72,11 @@ SSC MTS is the gateway to a secure government career for millions. With the righ
 
 ---
 [👉 Want guidance on which SSC exam is right for you based on your qualification? Talk to our experts!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

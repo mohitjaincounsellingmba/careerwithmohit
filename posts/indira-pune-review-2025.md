@@ -26,3 +26,11 @@ The Indira Group of Institutes (IGI) is a household name in Pune's management ed
 The total tuition fee for the MBA program is approximately **₹3.4 - ₹5.0 Lakhs** (for Govt Seats) and up to **₹9.0 Lakhs** for PGDM/Private seats. It is an excellent mid-tier choice for students with a 70-90 percentile range.
 
 [👉 Check the latest Indira Pune cut-offs and seat availability!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

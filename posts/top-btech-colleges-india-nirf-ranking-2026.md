@@ -154,3 +154,11 @@ For CSE and electronics in private sector placements, BITS Pilani (Pilani campus
 ---
 
 **[👉 Get expert counselling to choose the right B.Tech college for your JEE rank & budget!](/inquiry)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

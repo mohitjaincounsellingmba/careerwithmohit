@@ -69,3 +69,11 @@ Your audience is already waiting for a more structured way to learn from you. St
 *   [How to Sell Your Coaching Online in 2026](/blog/how-to-sell-your-coaching-online-2026)
 *   [How to Start Digital Marketing from Scratch](/blog/how-to-start-digital-marketing-from-scratch-2026)
 *   [Top Online Coaching for MBA 2026](/blog/best-mba-coaching-online-2026)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

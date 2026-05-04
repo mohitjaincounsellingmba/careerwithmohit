@@ -87,3 +87,11 @@ The scope is identical to B.Tech. Engineering is about **Problem Solving**. As l
 The best engineers come from the best labs, not the best degree names. Mohit Jain provides a "Degree Nomenclature Audit"—helping you focus on the college's placement record and lab quality rather than the B.E. vs B.Tech label.
 
 [👉 Book My Engineering Career Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

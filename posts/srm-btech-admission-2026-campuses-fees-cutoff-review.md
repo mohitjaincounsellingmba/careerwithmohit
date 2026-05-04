@@ -66,3 +66,11 @@ Explore more about SRM and other top engineering options:
 Whether you should choose SRM KTR or a mid-tier NIT is a critical decision. Our expert counselors at **CareerWithMohit** analyze your SRMJEEE and JEE Main scores to provide you with the best ROI-based admission advice.
 
 [👉 Get Personalised Admission Guidance Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

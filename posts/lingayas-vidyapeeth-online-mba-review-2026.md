@@ -50,3 +50,11 @@ By choosing the Lingayas Vidyapeeth Online MBA, you are setting yourself up for 
 If you are serious about advancing your career without pausing your current job, the **Lingayas Vidyapeeth Online MBA** is an undeniably strong, positive investment in your future. Its blend of flexibility, renowned faculty, and dedicated career guidance creates a perfect ecosystem for success.
 
 [👉 Apply for Lingayas Vidyapeeth Online MBA](/inquiry) | [💬 Schedule a Details Call with Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

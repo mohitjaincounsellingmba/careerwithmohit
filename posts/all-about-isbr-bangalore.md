@@ -55,3 +55,11 @@ Thanks to its proximity to tech giants and startups, ISBR brings excellent profi
 
 ---
 [👉 Thinking of studying in Bangalore? Compare ISBR with other top colleges by talking to our experts!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

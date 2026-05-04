@@ -81,3 +81,11 @@ Immediately after confirmation, your **VITEEE 2026 Admit Card** will be generate
 * [Top B.Tech Colleges in Pune](/blog/top-btech-colleges-pune)
 
 Good luck with your slot booking and your VITEEE preparation! If you need comprehensive career counselling or help with the admission process, you can always reach out for a [profile evaluation](/inquiry).
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

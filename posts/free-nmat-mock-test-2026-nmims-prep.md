@@ -47,3 +47,11 @@ Taking regular mock tests is essential to master the time-management required fo
 
 ---
 [👉 Need help with your NMIMS application? Contact our career experts for a profile evaluation!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

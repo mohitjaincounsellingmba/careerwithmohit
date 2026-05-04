@@ -86,3 +86,11 @@ The "Golden Window" is **May to June** (after your final semester exams). By Aug
 Don't gamble with your tech future. Mohit Jain provides a **Safe Tech Seat Audit**—verifying the college's actual placement records and helping you secure a seat in a UGC-recognized institution that actually has a pipeline to the IT industry.
 
 [👉 Book My Safe MCA Admission Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

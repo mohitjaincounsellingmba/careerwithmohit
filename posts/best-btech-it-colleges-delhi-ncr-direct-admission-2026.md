@@ -70,3 +70,11 @@ The management quota process is heavily time-sensitive. Counseling and document 
 *   [Education Loan Guide for B.Tech](/blog/education-loan-guide-mba-btech)
 
 [👉 Missed the CSE cut-off? B.Tech IT is the next best path. Connect with our admission experts for guaranteed legal guidance.](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

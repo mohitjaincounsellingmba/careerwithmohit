@@ -67,3 +67,11 @@ JECRC University follows a merit plus entrance-based admission process.
 If affordability with a high chance of placement is your primary criteria, JECRC University is a solid pick. Considering the tuition fee stays around ₹5 Lakhs and the average package sits comfortably at ₹6 LPA, the ROI is excellent. For those searching for the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), JECRC brings the perfect mix of campus life and career security.
 
 [👉 Secure Your Seat! Get Free Admission Guidance for JECRC University](/inquiry) | [💬 Talk to Expert Career Counsellor Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

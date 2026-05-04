@@ -47,3 +47,11 @@ No, it is a legitimate, AICTE-approved institution. However, the gap between the
 Don't rely on just one review. Our career counselors have spoken to hundreds of students from Pune colleges. We can give you the "inside story" of any college before you take the leap.
 
 [👉 Talk to a Career Expert for an Unbiased Review!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

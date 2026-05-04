@@ -64,3 +64,11 @@ No. Most exams see an 85% to 90% attendance rate. Factors like fear of preparati
 At **CareerWithMohit**, we teach you to focus on your own accuracy, not the 3 Lakh other people. In a competition of millions, only those with a strategy survive.
 
 [👉 Book Your CAT/XAT Preparation Strategy Session!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

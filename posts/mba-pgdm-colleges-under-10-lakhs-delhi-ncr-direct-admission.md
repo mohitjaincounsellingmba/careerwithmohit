@@ -57,3 +57,11 @@ Yes. Once you are part of the program, placements are entirely driven by your sk
 *   [👉 Need Guidance? Book a Free Admission Strategy Call!](/inquiry)
 
 *At **CareerWithMohit**, we evaluate your profile carefully to help you crack the best B-school in Delhi NCR without getting trapped by misleading consultants.*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

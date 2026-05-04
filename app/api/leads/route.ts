@@ -25,7 +25,7 @@ export async function GET(req: Request) {
 export async function POST(req: Request) {
     try {
         const lead = await req.json();
-        const { name, number, email, location, source, ...details } = lead;
+        const { name, number, email, location, source, message, ...details } = lead;
 
         if (!name || !number) {
             return NextResponse.json({ error: 'Name and number are required' }, { status: 400 });
@@ -38,6 +38,7 @@ export async function POST(req: Request) {
             email: email || '',
             location: location || '',
             source: source || 'Unknown',
+            message: message || '',
             details: details || {},
             timestamp: new Date().toISOString()
         };
@@ -104,6 +105,7 @@ export async function POST(req: Request) {
                         <p><strong>Email:</strong> ${email || 'N/A'}</p>
                         <p><strong>Location:</strong> ${location || 'N/A'}</p>
                         <p><strong>Source:</strong> ${source}</p>
+                        ${message ? `<p><strong>Message:</strong> ${message}</p>` : ''}
                         ${Object.entries(details).length > 0 ? `<p><strong>Details:</strong> ${JSON.stringify(details)}</p>` : ''}
                         <hr/>
                         <p><em>Lead ID: ${newLead.id}</em></p>

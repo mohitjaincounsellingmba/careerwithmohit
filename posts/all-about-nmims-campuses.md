@@ -369,3 +369,11 @@ NMIMS runs a partially centralized placement system. Students from newer campuse
 - [Best MBA Colleges in Mumbai 2026](/blog/best-mba-colleges-in-mumbai-2026)
 - [Best MBA Colleges in Bangalore 2026](/blog/best-mba-colleges-in-bangalore-2026)
 - [MBA vs PGDM: What's the Difference?](/blog/mba-vs-pgdm-difference)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

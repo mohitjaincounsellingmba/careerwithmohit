@@ -67,3 +67,11 @@ After shortlisting, candidates must clear the Group Discussion (GD) and Personal
 FMS IRM is a solid choice for students seeking a reputed B-School in the region. If you are looking among the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), its legacy, experienced faculty, and established recruiter network make it a reliable option for a steady start in the corporate world.
 
 [👉 Check your chances and get admission guidance for FMS IRM Jaipur](/inquiry) | [💬 Speak to Expert Counsellor Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -51,3 +51,11 @@ SRM Delhi-NCR campus is a major private university that considers several nation
 Comparing AKTU-affiliated colleges vs. top private universities is crucial for your career. Get expert advice from our Ghaziabad admission consultants today!
 
 [👉 Get Ghaziabad Admission Counseling Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

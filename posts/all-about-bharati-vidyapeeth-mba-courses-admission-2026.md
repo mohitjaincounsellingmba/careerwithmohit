@@ -96,3 +96,11 @@ BVP CET is generally considered moderately difficult, focusing more on speed and
 ---
 
 [👉 Still confused about which BVP campus to choose? Connect with our expert career counselors for a personalized 1-on-1 session!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

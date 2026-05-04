@@ -82,3 +82,11 @@ With more private and state universities joining the CUET umbrella this year, th
 * [Top CUET UG Accepting Colleges in Delhi NCR 2026](/blog/top-cuet-ug-colleges-delhi-ncr)
 * [How to Calculate CUET 2026 Scores: Step-by-Step Guide](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile-predictor)
 * [CUET PG 2026: Result and Expected Cutoffs](/blog/cuet-pg-2026-result-expected-date)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

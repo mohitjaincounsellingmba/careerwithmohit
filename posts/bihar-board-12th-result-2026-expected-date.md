@@ -52,3 +52,11 @@ Ensure that the following details are correct on your downloaded Bihar Board 12t
 Bihar Board students often aim for top universities across India. If you need help with college admissions, entrance exam forms (CUET, JEE, etc.), or career selection, our experts are here to mentor you.
 
 [👉 Get Personalised Admission Guidance Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

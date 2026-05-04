@@ -91,3 +91,11 @@ Expected to start in the **second week of June**, following the JEE Advanced res
 Don't guess with your career. A "Safe Allotment" depends on your rank, category, and home-state quota. Mohit Jain provides a **"JoSAA Precision Audit"**—building your choice list to ensure you don't miss out on a seat because of a technical error in choice filling.
 
 [👉 Book My JoSAA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

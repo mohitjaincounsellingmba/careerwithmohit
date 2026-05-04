@@ -86,3 +86,11 @@ A stock that gives returns multiple times its cost (e.g., a stock that goes from
 Investing is a journey of discipline. Don't waste your capital on "get rich quick" schemes. Mohit Jain provides a **"Beginner Portfolio Audit"**—helping you pick the right asset allocation between Gold, Debt, and Equity to ensure you reach your financial milestones without taking uncalculated risks.
 
 [👉 Book My Investment Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -46,3 +46,11 @@ A major pain point for many out-of-state students is confusing **Sai Balaji (SBI
 Don't rely on just one review or flashy brochures. Our career counselors have spoken to hundreds of students from Pune colleges and can help you match your profile with the best possible MBA college.
 
 [👉 Talk to a Career Expert for an Unbiased Review!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

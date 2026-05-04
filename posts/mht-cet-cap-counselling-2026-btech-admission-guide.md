@@ -67,3 +67,11 @@ Usually around ₹800 for general candidates.
 **3. How many CAP rounds are held?**
 Typically there are three CAP rounds followed by an additional institutional-level round for vacant seats.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -80,3 +80,11 @@ Our experts have categorized over 1,500 institutes into B-Schools and University
 At the end of the day, recruiters hire **talent**, not just a certificate. Whether you choose an MBA or a PGDM, focus on a college with a strong reputation, good faculty, and a curriculum that challenges you.
 
 **Your success depends on the brand you build for yourself!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

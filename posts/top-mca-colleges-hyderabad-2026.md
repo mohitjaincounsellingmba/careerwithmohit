@@ -90,3 +90,11 @@ Usually held in **June**. Registrations typically open in March.
 Hyderabad offers authority and value. Don't waste your years at a college with zero placement records. Mohit Jain provides a "Hyderabad IT Audit"—ensuring you pick the college that puts you on the radar of Microsoft, Google, and the Hyderabad Tech SEZs.
 
 [👉 Book My Hyderabad MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

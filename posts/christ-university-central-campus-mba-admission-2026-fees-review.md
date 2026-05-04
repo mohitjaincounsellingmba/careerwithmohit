@@ -60,3 +60,11 @@ Explore other Christ Campuses:
 While Central Campus is the urban heart, Kengeri offers a lush, sprawling environment with similar placement opportunities. At **CareerWithMohit**, we help you decide based on your specialization and learning style.
 
 [👉 Get Expert MBA Admission Support for Christ University!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

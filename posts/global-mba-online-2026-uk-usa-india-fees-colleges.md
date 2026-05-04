@@ -338,3 +338,11 @@ Our expert counselors have guided 1 lakh+ students across 100+ universities. Get
 - [1-Year Online MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2026)
 - [MBA Distance Education 2026 – Top Universities](/blog/mba-distance-education-2026-top-universities-fees-admission)
 - [Top Global MBA Programs](/blog/top-global-mba-programs)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

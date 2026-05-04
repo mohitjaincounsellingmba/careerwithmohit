@@ -84,3 +84,11 @@ Absolutely! Careers in Data Science, Biotechnology, Pharmacy, and AI-driven Engi
 
 **Q3. Which is better: B.Tech or B.Sc?**
 B.Tech is a professional degree focused on applied engineering, while B.Sc is an academic degree focused on theoretical concepts and research. Choose based on your career goal (Job vs. Research).
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

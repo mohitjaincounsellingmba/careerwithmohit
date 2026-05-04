@@ -32,3 +32,11 @@ keywords: ["NDIM Delhi review 2026", "NDIM MBA placements 2025", "NDIM Delhi inf
 
 [👉 Apply to NDIM Delhi](/inquiry)
 [👉 View More B-Schools in Delhi](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -32,3 +32,11 @@ keywords: ["IILM Greater Noida review 2026", "IILM Greater Noida placement 2025"
 
 [👉 Apply to IILM Greater Noida](/inquiry)
 [👉 View More B-Schools in Greater Noida](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

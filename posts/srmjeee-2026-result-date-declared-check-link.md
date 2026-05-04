@@ -131,3 +131,11 @@ A: SRM Kattankulathur alone has 10,000+ seats across all branches, making it one
 ---
 
 *This article will be updated as soon as SRMIST officially declares the SRMJEEE 2026 result date. Bookmark this page and check back regularly.*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

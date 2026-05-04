@@ -90,3 +90,11 @@ Usually held on the **first Sunday of May**. Registrations typically open in Jan
 Don't pick a college just because it's near your house. A medical degree is about clinical exposure. Mohit Jain provides a "National Medical Audit"—helping you pick the college that ensures you become a specialist, not just a graduate.
 
 [👉 Book My National Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

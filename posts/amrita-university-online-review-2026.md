@@ -59,3 +59,11 @@ Yes. All online programs from Amrita Vishwa Vidyapeetham are **UGC-DEB approved*
 
 ---
 [👉 Thinking about Amrita? Talk to our expert counselors for a detailed fee breakdown and enrollment guide today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

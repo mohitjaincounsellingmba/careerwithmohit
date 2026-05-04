@@ -59,3 +59,11 @@ Yes, the degree (PGDM) and all placement opportunities are identical for all stu
 - [MAH MBA CET 2026 Review & Cutoffs](/blog/all-about-mah-mba-cet-exam)
 
 [👉 Secure your seat at Welingkar! Click for expert admission assistance.](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

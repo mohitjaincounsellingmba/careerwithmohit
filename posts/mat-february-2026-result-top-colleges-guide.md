@@ -76,3 +76,11 @@ Use these benchmarks to estimate your percentile based on your composite score:
 
 **Confused about your MAT score?**
 [💬 Get Expert Admission Guidance](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

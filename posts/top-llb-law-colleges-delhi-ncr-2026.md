@@ -71,3 +71,11 @@ Vivekananda Institute of Professional Studies is the top choice for students app
 Confused between Litigation vs. Corporate Law? Or trying to decide between a local NCR college vs. an NLU? Our legal mentors can help you map your future.
 
 [👉 Get Free Law Counselling](/inquiry) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

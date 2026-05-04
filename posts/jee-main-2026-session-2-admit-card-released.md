@@ -44,3 +44,11 @@ Once you have appeared for the exam, it's time to start planning for your colleg
 With thousands of engineering colleges in India, choosing the right branch and college can be overwhelming. Get expert guidance on B.Tech admissions 2026 today.
 
 [👉 Book a Personalized Counselling Session!](/inquiry) | [💬 Chat with Our Expert on WhatsApp](https://wa.me/919560020771)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

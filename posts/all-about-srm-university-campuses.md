@@ -62,3 +62,11 @@ The SRM Career Centre conducts massive centralized placement drives for all camp
 
 ---
 [👉 Confused between SRM KTR and SRM AP? Get expert counselling for your SRMJEEE rank!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

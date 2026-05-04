@@ -58,3 +58,11 @@ Explore more engineering colleges in Pune:
 Unlike many other Pune colleges, MIT-WPU has its own registration portal and deadlines. At **CareerWithMohit**, we help students navigate the direct application process and understand the difference between a JEE-based offer vs. an MHT-CET based offer.
 
 [👉 Get Expert Admission Guidance for MIT-WPU!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

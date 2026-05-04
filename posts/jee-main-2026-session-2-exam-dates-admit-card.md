@@ -50,3 +50,11 @@ Once the results are out, the next big challenge is choosing the right college b
 Whether you get 99 percentile or 80 percentile, there are excellent college options available. Our expert counselors help students find the best-fitting engineering colleges across India based on fees, placements, and location.
 
 [👉 Get Expert Engineering Admission Guidance Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

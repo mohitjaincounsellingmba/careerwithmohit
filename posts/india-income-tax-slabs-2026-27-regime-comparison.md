@@ -92,3 +92,11 @@ The deadline for individual taxpayers whose accounts don't need to be audited is
 Taxation is not just about payments; it's about optimizing your disposable income. Don't waste your hard-earned money by picking the wrong regime. Mohit Jain provides a **"Financial Precision Audit"**—helping you build an investment portfolio that maximizes tax benefits while securing your long-term goals.
 
 [👉 Book My Tax Planning Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -42,3 +42,11 @@ Known for its management education legacy.
 [👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
 
 **Confused about Amity vs NIU? Talk to our CUET consultants today!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

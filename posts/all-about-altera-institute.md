@@ -54,3 +54,11 @@ The ALAT process is highly practical, often involving a case presentation or a m
 **Final Verdict**: The dream destination for students who are serious about a career in high-end Marketing and want to learn from the giants of the industry.
 
 [👉 Apply to Altera Institute](/inquiry) | [👉 Get Free Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

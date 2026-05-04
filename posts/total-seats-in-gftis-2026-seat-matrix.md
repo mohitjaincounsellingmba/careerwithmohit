@@ -45,3 +45,11 @@ Check out other engineering college seat guides:
 Many established GFTIs like PEC Chandigarh or BIT Mesra are often ranked higher in terms of placements and industrial heritage than newer NITs. At **CareerWithMohit**, we clarify these nuances to help you choose the best return on investment for your career.
 
 [👉 Get Expert GFTI Admission Guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

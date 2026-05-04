@@ -86,3 +86,11 @@ Ideal for students looking for decent placements with moderate entrance scores.
 - **If you want the best ROI:** **IMS Ghaziabad or G.L. Bajaj** offer excellent value for money.
 
 [👉 Still confused about which college fits your percentile? Get a free profile evaluation from Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

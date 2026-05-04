@@ -60,3 +60,11 @@ Taking regular mock tests is the difference between scoring 210 and pushing past
 Don't wait until the last month to start practicing. Assess your benchmark today completely free of charge.
 
 👉 **[Launch the Free NMAT 2026 Mock Test Now](/tools/nmat-mock-test)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

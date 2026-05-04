@@ -22,3 +22,11 @@ Pune Business School (PBS) is part of the PCET group (Pimpri Chinchwad Education
 While specific 2026 fees are being finalized, the current structure is highly competitive for the Pune market. PBS is ideal for students who want a strong placement-oriented brand without the overly high fees of ultra-premium B-schools.
 
 [👉 Get expert advice on PBS Pune admissions and scholarship options!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

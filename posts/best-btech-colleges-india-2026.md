@@ -133,3 +133,11 @@ Do not just follow rankings blindly. Consider these 4 factors:
 - [JEE Main 2026 College Predictor](/blog/jee-main-college-predictor-2026-btech-top-colleges)
 - [Lowest Fee B.Tech Colleges in India](/blog/lowest-fee-btech-colleges-india-2026)
 - [B.Tech Specializations & Salary Guide 2026](/blog/btech-specializations-skills-salary-2026-guide)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

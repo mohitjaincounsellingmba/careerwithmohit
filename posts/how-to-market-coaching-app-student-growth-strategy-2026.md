@@ -84,3 +84,11 @@ Partnering with smaller "Niche Educators" for account takeovers or shoutouts is 
 Marketing is not about shouting; it’s about being the obvious solution to a student's problem. Don't waste your budget on generic ads. Mohit Jain provides a **"Growth & Acquisition Audit"**—helping you build the YouTube-to-App funnel that automates your student intake and scales your digital academy 10x.
 
 [👉 Build My Growth Funnel](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

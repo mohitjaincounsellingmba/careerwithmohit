@@ -71,3 +71,11 @@ Finishing 10th or 12th is just the beginning. Check out our high-authority caree
 Confused about Science vs Commerce? Or thinking about the best college for your marks? Our expert counselors help thousands of students every year make the right choice.
 
 [👉 Get Free Career Guidance for 2026 Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -62,3 +62,11 @@ SNAP scores are primarily accepted by the institutes under the Symbiosis umbrell
 
 ---
 [👉 Confused between SIBM Pune and SCMHRD? We can help you pick the right specialization. Contact us today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

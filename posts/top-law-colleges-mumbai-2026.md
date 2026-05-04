@@ -96,3 +96,11 @@ The 5-year CET is usually in **May**, and the 3-year CET is in **June**.
 Mumbai is about the hustle. Don't waste your years at a college without a law firm connection. Mohit Jain provides a "Financial District Legal Audit"—helping you pick the college that actually gets you into the offices of AZB, Trilegal, or the Bombay High Court.
 
 [👉 Book My Mumbai Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

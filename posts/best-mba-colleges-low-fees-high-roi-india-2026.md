@@ -96,3 +96,11 @@ NO. Government ROI colleges (FMS, JBIMS, PUMBA) have no management quota. Admiss
 Don't fall for the "Expensive = Best" trap. Mohit Jain specializes in finding high-ROI tracks that fit your budget and career goals. Let's find your FMS equivalent.
 
 [👉 Book My ROI Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

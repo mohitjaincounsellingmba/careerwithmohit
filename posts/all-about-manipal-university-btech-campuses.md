@@ -53,3 +53,11 @@ Situated on the serene banks of the river Teesta in Majitar, Sikkim, **SMIT** is
 4. **Choose SMIT Sikkim** if you're seeking a budget-friendly Manipal tag with gorgeous terrain and a calm atmosphere away from city distractions.
 
 Are you still confused about where to secure your B.Tech seat? Familiarize yourself with the various [B.Tech Specializations Available in 2026](/blog/btech-specializations-skills-salary-2026-guide) or test your engineering preparation levels completely free using our [Online JEE Main Mock Test Evaluator](/tools/jee-main-mock-test).
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

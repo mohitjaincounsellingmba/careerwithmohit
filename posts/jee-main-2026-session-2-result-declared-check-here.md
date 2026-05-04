@@ -56,3 +56,11 @@ The cutoff for JEE Advanced is determined based on the performance of all candid
 Choosing the right branch and college during JoSAA counseling can be tricky. Our expert counselors provide personalized guidance to help you secure the best possible seat based on your rank.
 
 [👉 Get Expert Counseling Guidance for NIT/IIIT Admissions!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

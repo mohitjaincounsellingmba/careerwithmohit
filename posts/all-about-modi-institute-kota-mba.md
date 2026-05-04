@@ -41,3 +41,11 @@ They primarily accept **CMAT** and **RMAP** rankings. Candidates with MAT and ot
 **Our Verdict**: For students who want a balanced experience of academics and field-based placement opportunities, **MIMT is a highly reliable choice in Kota.**
 
 [👉 Apply to MIMT Kota](/inquiry) | [👉 Get Expert Support](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

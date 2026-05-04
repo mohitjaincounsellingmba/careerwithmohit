@@ -75,3 +75,11 @@ Its combination of **competitive fees**, **IIM-affiliated certifications**, and 
 Comparing fee structures and real placement data can be tricky. At **CareerWithMohit**, we verify the data so you don't have to.
 
 **[👉 Get a Free Profile Audit & Pune College Comparison!](/inquiry)** | **[💬 WhatsApp Our Experts](https://wa.me/919560020771)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

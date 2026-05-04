@@ -90,3 +90,11 @@ Based on NIRF rankings and placement records, here are the top NLUs you should a
 Whether it's choosing the right NLU or understanding the difference between NLU Delhi (AILET) and other NLUs (CLAT), we are here to help.
 
 [👉 Book a Law Career Counselling Session with Mohit Jain](/inquiry) | [💬 Chat with Our Admission Experts](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

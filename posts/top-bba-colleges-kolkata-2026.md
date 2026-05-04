@@ -61,3 +61,11 @@ If you seek a corporate job in East India, **NSHM** and **JD Birla** offer great
 Choosing a college is the first step toward your CEO journey. Let's make sure it's the right one.
 
 [👉 Build My Kolkata Roadmap](/inquiry) | [💬 Schedule a Private Counselling Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

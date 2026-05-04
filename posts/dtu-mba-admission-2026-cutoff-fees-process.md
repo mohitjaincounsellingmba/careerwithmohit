@@ -80,3 +80,11 @@ If you are looking for a state-university recognized MBA with fantastic ROI, str
 
 ---
 [👉 Confused about MBA admissions or CMAC counseling? Connect with Mohit Jain for expert, personalized guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

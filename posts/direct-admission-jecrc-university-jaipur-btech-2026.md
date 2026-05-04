@@ -144,3 +144,11 @@ JECRC University has been improving its placement record year on year, with a fo
 **Need help deciding between JECRC, Poornima, SKIT or Manipal Jaipur for B.Tech?**
 
 [👉 Book a Free Counselling Session with Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

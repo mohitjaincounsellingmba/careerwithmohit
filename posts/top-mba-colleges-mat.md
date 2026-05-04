@@ -90,3 +90,11 @@ Unlike CAT, which is a once-a-year battle, MAT gives you **multiple chances** to
 Let’s build your admission roadmap together. 
 
 [👉 Book My Session](/inquiry) | [💬 Book Private Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

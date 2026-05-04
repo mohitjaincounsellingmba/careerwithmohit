@@ -23,3 +23,11 @@ The National Institute of Bank Management (NIBM) Pune, established by the Reserv
 The total academic fee (including hostel and alumni charges) is approximately **₹17.64 Lakhs**. With a guaranteed 100% placement track and a median salary of ₹15 LPA, it is a gold standard for Finance.
 
 [👉 Apply for NIBM Pune with your CAT/CMAT score today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

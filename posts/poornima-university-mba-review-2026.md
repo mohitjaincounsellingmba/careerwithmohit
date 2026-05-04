@@ -65,3 +65,11 @@ Gaining admission into Poornima University’s MBA program is straightforward, p
 Poornima University is an excellent choice for students looking for an **affordable MBA with a decent ROI**. Given that the tuition fee is barely ₹2 to ₹3 Lakhs, securing an average package of ₹4.5 LPA ensures that students recover their investment in less than a year. It stands as one of the most accessible yet rewarding options among the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026).
 
 [👉 Check your eligibility and get free admission assistance for Poornima University](/inquiry) | [💬 Speak with Mohit Jain for Career Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

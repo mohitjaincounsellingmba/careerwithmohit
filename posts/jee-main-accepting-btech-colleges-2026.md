@@ -134,3 +134,11 @@ Having a valid JEE Main score is like holding a master key, but you must know wh
 - [Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026)
 - [B.Tech Admission Without JEE Main 2026](/blog/btech-admission-without-jee-2026-all-options)
 - [Lowest Fee B.Tech Colleges in India](/blog/lowest-fee-btech-colleges-india-2026)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

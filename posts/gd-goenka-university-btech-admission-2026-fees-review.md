@@ -59,3 +59,11 @@ Yes, the university has integrated internship cycles with many MNCs in the Gurug
 **3. What is the GATA exam?**
 GATA is the university's entrance test used for merit selection and scholarship allocation.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

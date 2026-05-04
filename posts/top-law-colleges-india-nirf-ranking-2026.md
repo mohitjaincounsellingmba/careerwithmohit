@@ -89,3 +89,11 @@ CLAT is usually held on the **first Sunday of December** (e.g., Dec 2025 for the
 India's legal education is highly competitive. Choosing the wrong NLU tier can cost you a high-paying corporate career. Mohit Jain provides a "Law Career Mapping Session"—helping you pick the college that matches your personality, whether it's for the Supreme Court or a Corporate Boardroom.
 
 [👉 Book My Law Admission Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

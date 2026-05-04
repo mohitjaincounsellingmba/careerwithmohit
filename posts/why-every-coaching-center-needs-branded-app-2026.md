@@ -58,3 +58,11 @@ We specialize in helping coaching institutes like yours launch their own state-o
 *   [How to Sell Your Coaching Online in 2026](/blog/how-to-sell-your-coaching-online-2026)
 *   [How YouTubers Can Monetize Their Audience](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026)
 *   [Direct MBA Admission Guide 2026](/blog/direct-mba-admission-india)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

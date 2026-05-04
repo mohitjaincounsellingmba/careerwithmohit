@@ -95,3 +95,11 @@ Admissions usually start in December and peak by March/April. Management quota s
 Bangalore's B-school landscape is crowded. Avoid getting lost. Mohit Jain provides verified, non-sponsored feedback on every Bangalore B-school.
 
 [👉 Book My Bangalore Admission Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

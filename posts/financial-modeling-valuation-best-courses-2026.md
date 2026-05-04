@@ -85,3 +85,11 @@ As an Associate or Junior Analyst, you can expect **₹6L to ₹12L** in Tier-2 
 A financial model is a map of the future. Don't waste your score on a career without the core technical tools. Mohit Jain provides a **"Technical Modeling Audit"**—reviewing your Excel logic and helping you build a professional "Deal Deck" that gets you noticed in high-finance interviews.
 
 [👉 Book My Financial Modeling Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

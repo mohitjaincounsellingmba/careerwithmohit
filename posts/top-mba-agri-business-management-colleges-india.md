@@ -152,3 +152,11 @@ Major recruiters include FMCG giants (ITC, Nestle), Agri-Input companies (UPL, B
 Choosing between a premium IIM or a specialized institute like MANAGE depends on your background and career goals. At **CareerWithMohit**, we help you navigate entrances like CAT, CMAT, and CUET-PG to secure your seat.
 
 [**Inquiry Now for Personalized Counselling**](/inquiry) | [**Explore More Career Guides**](/posts)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

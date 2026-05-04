@@ -110,3 +110,11 @@ Looking for a college in your preferred city?
 > 💡 **Need PG Admission Assistance?**
 > Confused about forms, eligibility, or backup options? Our expert counselors can guide you through the PG admission maze.
 > [👉 Connect with a Counselor Today](https://cvadm.com/RPMdHf)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

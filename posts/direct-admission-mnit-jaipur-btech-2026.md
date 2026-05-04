@@ -157,3 +157,11 @@ If your JEE Main rank doesn't make the cut for MNIT Jaipur, consider these legit
 **Still confused about your options after JEE Main results? We will help you find the best college for your rank, budget, and career goals.**
 
 [👉 Book a Free Counselling Session with Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

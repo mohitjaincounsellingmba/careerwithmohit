@@ -86,3 +86,11 @@ The 5-year CET is usually in **May**, and the 3-year CET is in **June**.
 Pune isn't just about Vada Pav; it's about the law that runs the nation. Don't waste your years at a college without a mooting culture. Mohit Jain provides a "Pune Legal Audit"—helping you pick the college that puts you in the offices of India's Top Law Firms.
 
 [👉 Book My Pune Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

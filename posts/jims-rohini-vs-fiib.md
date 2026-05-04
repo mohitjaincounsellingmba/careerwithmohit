@@ -93,3 +93,11 @@ While both institutions check the boxes for a solid management education under 1
 ---
 
 [👉 Get Free Personal Counselling for MBA Admissions](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

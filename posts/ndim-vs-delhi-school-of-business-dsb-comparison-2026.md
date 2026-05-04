@@ -74,3 +74,11 @@ Yes. NDIM has unique collaborations, including the "Japan-India Institute for Ma
 At **CareerWithMohit**, we help you navigate the noisy MBA market to find an institution that actually builds your future brand.
 
 [👉 Get Expert Admission Help for NDIM!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -52,3 +52,11 @@ Many growing private universities in the Mumbai metropolitan region (MMR) use CU
 Choosing the right Mumbai college requires balancing your career specialization with the campus culture. Get expert advice today!
 
 [👉 Get Mumbai Admission Counseling Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

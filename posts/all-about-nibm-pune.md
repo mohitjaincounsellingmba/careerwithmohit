@@ -51,3 +51,11 @@ NIBM boasts an almost 100% placement record year after year, exclusively within 
 
 ---
 [👉 Is your CMAT score enough for NIBM Pune? Ask our admissions experts today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

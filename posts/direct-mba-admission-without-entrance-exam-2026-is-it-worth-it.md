@@ -94,3 +94,11 @@ Recruiters generally don't care how you entered the college. They focus on your 
 Don't guess with your future. Mohit Jain provides a **Verification Service**—he verifies if a college's management quota is genuine and if the placement data they show is real.
 
 [👉 Book My Safe Admission Session](/inquiry) | [💬 Verify a College on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

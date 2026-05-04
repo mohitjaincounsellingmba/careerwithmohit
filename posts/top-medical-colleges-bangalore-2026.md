@@ -93,3 +93,11 @@ Usually starts in **July** after the NEET results are announced.
 Bangalore is the city of innovation. Don't waste your score on a college without a stable hospital reputation. Mohit Jain provides a "Bangalore Medical Audit"—helping you pick the college that matches your goals for clinical research or high-end surgery.
 
 [👉 Book My Bangalore Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

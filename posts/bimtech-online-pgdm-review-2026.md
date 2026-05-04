@@ -65,3 +65,11 @@ Plan your management journey with our expert resources:
 Selecting the right PGDM can be life-changing. At **CareerWithMohit**, we provide 100% unbiased guidance to help you find the best ROI college for your profile.
 
 [👉 Get Expert Advice on Your PGDM Journey!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

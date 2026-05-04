@@ -57,3 +57,11 @@ Located near Jaipur/Chittorgarh, Mewar University is a large private institution
 Choosing between CURAJ and a top private university like VGU/SGVU depends on your career goals and specializations. Connect with our Jaipur admission experts today!
 
 [👉 Get Jaipur Admission Counseling Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

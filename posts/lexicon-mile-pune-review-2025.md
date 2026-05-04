@@ -22,3 +22,11 @@ Lexicon Management Institute of Leadership & Excellence (MILE) is part of the Le
 The total fee for the PGDM program is approximately **₹10.8 Lakhs**, while the Global MBA programs are highly competitive. It is an excellent choice for students aiming for elite consultancy and finance roles.
 
 [👉 Fast-track your career with Lexicon MILE. Click for admission help!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

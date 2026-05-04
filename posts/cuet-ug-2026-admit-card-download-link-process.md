@@ -76,3 +76,11 @@ After the exams, the focus will shift to university preferences and counseling. 
 * [CUET UG 2026 Expected Exam Date & Schedule](/blog/cuet-ug-2026-expected-exam-date)
 * [How to Download NEET 2026 Admit Card](/blog/neet-2026-admit-card-download-link-process)
 * [Top MBA Colleges Accepting CUET PG Scores](/blog/top-mba-colleges-cuet-pg)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

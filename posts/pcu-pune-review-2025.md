@@ -22,3 +22,11 @@ Pimpri Chinchwad University (PCU) is a rising star in Pune's higher education la
 The total fee for the MBA program is approximately **₹5.2 - ₹7.4 Lakhs**. PCU is perfect for students who want a future-forward education backed by a trusted education legacy.
 
 [👉 Book your seat for the next batch at PCU Pune!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

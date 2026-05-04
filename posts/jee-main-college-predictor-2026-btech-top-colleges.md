@@ -66,3 +66,11 @@ When choosing a B.Tech college, the **location** is just as important as the bra
 
 **Need help with your counselling strategy?**
 [👉 Book Your B.Tech Admission Session](/inquiry) | [💬 WhatsApp Support](https://wa.me/919560020771)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

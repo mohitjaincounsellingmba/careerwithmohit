@@ -77,3 +77,11 @@ Scoring below 90 percentile doesn't mean your MBA dream is over. Many private in
 - [Direct MBA Admission in Mumbai 2026](/blog/direct-mba-admission-mumbai-2026)
 
 For personalized admission support, feel free to fill out the [Inquiry Form](/mhcet-mba-colleges-list) and our experts will reach out to you within 24 hours.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

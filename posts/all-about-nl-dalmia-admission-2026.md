@@ -78,3 +78,11 @@ The institute is a regular hunting ground for global financial giants:
 ---
 
 [👉 Check out other Top MBA Colleges in Mumbai](/posts/best-mba-colleges-in-mumbai-2026) | [💬 Get a Free Profile Evaluation from Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

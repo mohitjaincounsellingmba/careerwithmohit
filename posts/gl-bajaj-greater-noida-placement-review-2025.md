@@ -33,3 +33,11 @@ GL Bajaj Institute of Management and Research (GLBIMR) at Greater Noida is a pow
 *   [NDIM Placement Review 2025](/blog/ndim-placement-review-2025)
 
 [👉 Get Admission Guidance for GL Bajaj Greater Noida!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

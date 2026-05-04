@@ -26,3 +26,11 @@ Our platform provides a simulated computer-based test (CBT) environment designed
 - **Speed over Depth:** Questions are generally more direct compared to JEE Main.
 
 Looking to compare VIT with other top private universities? Read our guide on [All about VIT University Campuses](/blog/all-about-vit-university-campuses). If you're stressed about securing a seat, consider looking at our [Direct Admission Guide for Manipal University](/blog/direct-admission-manipal-university-jaipur-btech-2026) or [Top B.Tech Specializations in 2026](/blog/btech-specializations-skills-salary-2026-guide).
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

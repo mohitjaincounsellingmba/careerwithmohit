@@ -90,3 +90,11 @@ Since these seats are limited, start your preparation at least **8-12 months** b
 A high-end tech career doesn't require a ₹10 Lakh loan. Don't waste your money on marketing hype. Mohit Jain provides an "ROI Audit"—helping you identify the government and subsidized seats that provide a Tier-1 career at a Tier-3 price.
 
 [👉 Book My High ROI MCA Consultation](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

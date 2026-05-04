@@ -22,3 +22,11 @@ RIIM (Ramachandran International Institute of Management) is often dubbed as one
 The total fee is approximately **₹6.5 - ₹7.5 Lakhs**. For students who want a solid start in the corporate world with a manageable financial burden, RIIM is an excellent strategic choice.
 
 [👉 Compare RIIM Pune with other high-ROI colleges. Join our counseling!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

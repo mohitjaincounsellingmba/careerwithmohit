@@ -69,3 +69,11 @@ While Tier-1 B-Schools prefer CAT/XAT, many excellent Tier-2 and PGDM colleges a
 
 ---
 [👉 Thinking of taking MAT as a backup? Evaluate your college options with our admission experts!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

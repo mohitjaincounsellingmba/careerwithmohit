@@ -70,3 +70,11 @@ Ensure you verify the following details on your online marksheet:
 With so many options available, choosing the right career path can be overwhelming. At **CareerWithMohit**, we provide expert guidance to help you secure admission into top MBA, B.Tech, and BBA colleges across India.
 
 [👉 Book a Free Career Counselling Session Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

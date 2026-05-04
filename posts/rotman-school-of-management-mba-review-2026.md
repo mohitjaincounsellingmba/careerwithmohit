@@ -67,3 +67,11 @@ Getting into Rotman School of Management requires more than just a stellar GMAT/
 Drafting the perfect application for global elite schools like Rotman School of Management takes precision. Our experts help you curate a winning narrative, tackle the essays, and conquer the interviews.
 
 [👉 Consult Mohit Jain for Global MBA Strategy](/inquiry) | [💬 Chat with us on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

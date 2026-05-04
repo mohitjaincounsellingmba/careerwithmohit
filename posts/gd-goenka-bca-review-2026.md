@@ -88,3 +88,11 @@ Selection is holistic and depends on more than just your 12th marks:
 *   **KR Mangalam:** Better for students who want a balanced university life with equal focus on extra-curriculars and academics.
 
 [👉 Apply to GD Goenka BCA 2026](/inquiry) | [💬 Chat with a Career Expert for Gurgaon Admissions](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

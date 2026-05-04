@@ -112,3 +112,11 @@ You must obtain a "Bonafide Certificate" and a detailed "Fee Structure" document
 No reputable, top-tier B-school will charge extra for processing DRCC applications. However, since the government disburses the loan directly to the college in installments, some colleges might require you to pay the first semester's admission fee upfront to block your seat, which is later adjusted or refunded once the DRCC funds arrive. 
 
 *Disclaimer: The DRCC eligibility of private institutions is subject to dynamic government reviews based on NAAC/NBA renewals. Always verify the college's current DRCC/MNSSBY portal status with their admission office before paying your booking amount.*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

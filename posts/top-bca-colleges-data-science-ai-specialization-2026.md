@@ -86,3 +86,11 @@ Top students in colleges like **Bennett or Jain** have cleared ₹12L-₹15L pac
 AI is the biggest buzzword in 2026. Don't fall for a marketing trick. Mohit Jain provides a "Data Career Audit"—helping you identify if you actually have the aptitude for high-end analytics or if a creative IT role suits you better.
 
 [👉 Book My Data Science BCA Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

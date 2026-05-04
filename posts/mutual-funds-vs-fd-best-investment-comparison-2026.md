@@ -84,3 +84,11 @@ Do **both**. Use FDs for your "Emergency Fund" (6 months of expenses) and SIPs f
 Money sitting in a savings account or a low-interest FD is losing value every day. Don't waste your effort by picking sub-par assets. Mohit Jain provides a **"Yield Optimization Audit"**—helping you move from "Saving" to "Investing" by picking a mix of safe and growth assets that beat inflation consistently.
 
 [👉 Book My Wealth Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

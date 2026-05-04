@@ -95,3 +95,11 @@ Usually held in **June**. Applications typically open in March.
 Hyderabad offers authority and innovation. Don't waste your years at a college without a project-based legal curriculum. Mohit Jain provides a "Hyderabad Legal Snapshot"—helping you pick the college that matches your ambitions for corporate boardrooms or high-court chambers.
 
 [👉 Book My Hyderabad Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

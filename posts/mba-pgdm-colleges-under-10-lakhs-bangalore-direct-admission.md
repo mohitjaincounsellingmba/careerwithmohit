@@ -54,3 +54,11 @@ Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 La
 *   [👉 Overwhelmed with options? Book an Admission Audit Today!](/inquiry)
 
 *At **CareerWithMohit**, our goal is transparent, data-driven career counseling. Don't compromise on your college choice because of a bad exam day.*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

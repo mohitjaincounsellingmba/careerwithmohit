@@ -59,3 +59,11 @@ Yes. All online programs from Parul University are **UGC-DEB approved** and reco
 
 ---
 [👉 Looking for scholarship info or current enrollment deadlines for Parul Online? Talk to our expert counselors today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

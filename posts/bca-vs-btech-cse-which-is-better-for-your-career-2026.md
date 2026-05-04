@@ -98,3 +98,11 @@ With the rise of AI and Automation, **B.Tech CSE** has a slight edge in high-end
 Don't pick a degree just because your friends are doing it. Mohit Jain provides a "Technical Career Audit"—analyzing your 12th marks and coding aptitude to see which path will actually lead to success for YOU.
 
 [👉 Book My Career Strategy Call](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

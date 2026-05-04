@@ -95,3 +95,11 @@ Registrations for merit-based seats usually open in **June** after the HS and CB
 Kolkata offers heritage and excellence. Don't waste your years at a college without a functional moot society. Mohit Jain provides an "Eastern India Legal Audit"—helping you pick the college that matches your goals for academic law or corporate litigation.
 
 [👉 Book My Kolkata Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

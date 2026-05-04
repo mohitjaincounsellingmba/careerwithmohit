@@ -65,3 +65,11 @@ There is no strict fixed cutoff, as overall profiling (work experience + entranc
 If you are evaluating the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), Taxila Business School should be on your list for its strong ROI. With total expenses staying around ₹12-13 Lakhs (including hostel) and an average package crossing ₹11 LPA, candidates can expect to recover their investments within 1-2 years.
 
 [👉 Get Free Personal Counselling for Taxila Business School Admissions!](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

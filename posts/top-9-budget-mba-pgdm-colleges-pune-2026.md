@@ -96,3 +96,11 @@ While these colleges are great for starting your career, here is what you need t
 Don't rely on brochures alone. Speak to someone who has visited these campuses and tracked their placements for years.
 
 [👉 Book My Free Career Counseling Session](/inquiry) | [💬 Chat with Mohit on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -86,3 +86,11 @@ Most campus hiring happens in **December-January**, while lateral hiring (for ex
 Investment Banking is not just a job; it’s a lifestyle change. Don't waste your effort by applying without the right technical toolkit. Mohit Jain provides an **"IB Readiness Audit"**—helping you master the financial models and presentation styles that get you noticed by the recruiters at J.P. Morgan and Goldman Sachs.
 
 [👉 Book My IB Career Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

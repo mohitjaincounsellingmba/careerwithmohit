@@ -97,3 +97,11 @@ TANCET usually happens in **March**. It is the gateway for MBA admissions into n
 Chennai's B-schools are known for discipline and academic rigour. Mohit Jain provides a non-sponsored audit of every Chennai campus-from hostel life to actual median packages in 2025.
 
 [👉 Book My Chennai Shortlist Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

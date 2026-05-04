@@ -54,3 +54,11 @@ In the world of admissions, we see this meme everywhere:
 The digital space is changing fast. Whether it’s AI meme creation or advanced SEO, knowing the "pulse" of the internet is the key to high-paying roles.
 
 [👉 Connect with our Digital Career Counselors!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

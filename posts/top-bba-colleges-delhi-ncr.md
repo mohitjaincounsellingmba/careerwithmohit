@@ -96,3 +96,11 @@ These universities offer world-class infrastructure, global exposure, and a mode
 Selection depends on your profile, career goals, and entrance scores. Let's build your roadmap together.
 
 [👉 Build My BBA Roadmap with Mohit Jain](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

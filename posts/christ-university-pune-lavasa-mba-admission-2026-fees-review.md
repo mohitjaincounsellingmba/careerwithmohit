@@ -59,3 +59,11 @@ Explore other Christ Campuses:
 While Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, we help you decide if the focused environment of Pune Lavasa is the right catalyst for your management career compared to the urban chaos of other campuses.
 
 [👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

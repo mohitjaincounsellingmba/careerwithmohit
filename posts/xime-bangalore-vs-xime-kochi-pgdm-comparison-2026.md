@@ -182,3 +182,11 @@ For students with **70+ percentile in CAT/CMAT** who want a genuine PGDM from an
 - [Welingkar vs TAPMI: Full Comparison](/welingkar-vs-tapmi-mba-comparison)
 - [All About ISBR Bangalore](/all-about-isbr-bangalore)
 - [MBA vs PGDM — What's the Real Difference?](/mba-vs-pgdm-difference)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

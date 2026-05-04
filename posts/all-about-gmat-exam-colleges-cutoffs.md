@@ -57,3 +57,11 @@ You can take the GMAT up to **5 times within a floating 12-month period** and a 
 **Final Strategy**: If you plan to target Round 1 (Sept-Oct) or Round 2 (Jan) for 2026-27 admissions, aim to finish your GMAT by **June 2026**.
 
 [👉 Start your GMAT Journey](/inquiry) | [👉 Get Profile Evaluation](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -62,3 +62,11 @@ The placement statistics of IIIT Hyderabad and IIIT Allahabad routinely match or
 
 ---
 [👉 Torn between a top NIT and an elite IIIT? Contact us to evaluate your JEE Main rank options!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

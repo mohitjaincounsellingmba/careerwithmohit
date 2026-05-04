@@ -74,3 +74,11 @@ Every brand in the world today is a digital brand. A specialist who understands 
 A specialization is not just a subject; it is your professional identity. Don't waste your score on a general degree if you have a specific passion for finance or tech. Mohit Jain provides a **"Specialization Audit"**—helping you pick the track that maximizes your career ROI.
 
 [👉 Book My Specialization Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

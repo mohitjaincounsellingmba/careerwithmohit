@@ -121,3 +121,11 @@ To secure a seat in these top programs for 2026, keep these tips in mind:
 Navigating through fee structures and placement records can be overwhelming. At **CareerWithMohit**, we provide personalized counselling to help you choose the right college based on your budget and career goals.
 
 [**Inquiry Now for Personalized Counselling**](/inquiry) | [**Explore More Colleges**](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

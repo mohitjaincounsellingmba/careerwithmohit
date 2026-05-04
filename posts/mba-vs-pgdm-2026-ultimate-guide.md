@@ -76,3 +76,11 @@ This is where most students get confused.
 Still not sure if you should choose a University Degree or an Autonomous Diploma? My team and I have helped 5000+ students map their career paths.
 
 [👉 Get Free MBA/PGDM Counselling](/inquiry) | [💬 Book a Private Strategy Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

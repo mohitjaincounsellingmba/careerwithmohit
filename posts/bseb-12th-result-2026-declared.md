@@ -65,3 +65,11 @@ Check the following details carefully on your provisional certificate:
 Whether it’s choosing the right B.Tech branch or finding the best BBA/BCA college, **CareerWithMohit** provides personalized counseling to help you navigate the competitive landscape of Indian higher education.
 
 [👉 Get Expert Career Counseling Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

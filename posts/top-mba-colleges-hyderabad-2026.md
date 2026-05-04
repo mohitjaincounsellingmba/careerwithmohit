@@ -91,3 +91,11 @@ The Telangana Integrated Common Entrance Test (TS ICET) usually happens in May. 
 Don't just pick a name from a brochure. Get the ground reality of Hyderabad B-schools—from campus climate to actual placement audit. Mohit Jain provides 1-on-1 verified admission counselling.
 
 [👉 Book My Hyderabad Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -26,3 +26,11 @@ JEE Advanced evaluates your deep conceptual understanding rather than your speed
 - The exam pattern changes every year. Our mock test adopts the standard distribution pattern, preparing you for the unknown.
 
 For an extensive understanding of how to crack the exam, check out our guide on [How to Crack JEE Advanced 2026](/blog/how-to-crack-jee-advanced-2026). Want to look at other top institutes? Don't miss our analysis of the [Top B.Tech Colleges in Pune](/blog/top-btech-colleges-pune) or read up on [IIMs List and Admission Process](/blog/iims-list-courses-placements-cutoffs-admission) to widen your long-term career viewpoint to an MBA.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

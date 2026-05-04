@@ -60,3 +60,11 @@ Explore other engineering options in Pune:
 Choosing between a "traditional" university degree and a "skills-based" one from Symbiosis is a major decision. If your goal is to be employable immediately after graduation without extra coaching, SSPU is a strong contender. At **CareerWithMohit**, we help you decide if the "Skill University" model is the right fit for your personality.
 
 [👉 Get Expert Admission Guidance for SSPU!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

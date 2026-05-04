@@ -94,3 +94,11 @@ A 75 percentile can still lead to a ₹12 LPA career if you choose the right col
 
 ### Check Your Current Percentile:
 Not sure where you stand? Take our **[Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)** and get an immediate percentile prediction and section-wise analysis.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

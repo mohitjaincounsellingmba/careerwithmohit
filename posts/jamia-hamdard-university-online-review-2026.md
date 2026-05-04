@@ -59,3 +59,11 @@ Yes. All online programs from Jamia Hamdard University are **UGC-DEB approved** 
 
 ---
 [👉 Looking for scholarship info or current enrollment deadlines for Jamia Hamdard Online? Talk to our expert counselors today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -83,3 +83,11 @@ For MBA aspirants looking for a modernized, freedom-oriented education with stro
 [👉 Check your chances of getting into ISB&M Nande Pune! Use our free MBA College Predictor.](/cuet-pg-predictor-2026-mba-colleges)
 
 Want alternatives? Read our guide on the [Best MBA Colleges in Pune 2026](/best-mba-colleges-in-pune-2026).
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

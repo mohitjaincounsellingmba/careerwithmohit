@@ -47,3 +47,11 @@ Known for its engineering and architecture focus.
 [👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
 
 **Need help deciding between Manipal Jaipur and Poornima? Let our experts guide you!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

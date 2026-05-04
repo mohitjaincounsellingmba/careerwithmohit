@@ -54,3 +54,11 @@ Explore more engineering options in Bangalore:
 MSRUAS is often the preferred choice for students looking at niche branches like Automotive or Aerospace Engineering. At **CareerWithMohit**, we help you choose between MSRIT and MSRUAS based on your specific career goals and your performance in COMEDK or KCET.
 
 [👉 Get Expert Admission Guidance for MSRUAS!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -59,3 +59,11 @@ Yes. All online programs from Jain University are **UGC-DEB approved** and recog
 
 ---
 [👉 Looking for special discounts or early-bird offers? Talk to our Jain University counselors!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

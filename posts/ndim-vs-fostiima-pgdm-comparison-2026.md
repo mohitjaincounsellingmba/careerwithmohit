@@ -63,3 +63,11 @@ Yes, both NDIM and FOSTIIMA offer PGDM programs that are AIU-approved and recogn
 At **CareerWithMohit**, we know that percentiles don't define your future—your choice of college does. Let us help you pick between NDIM's legacy and FOSTIIMA's growth.
 
 [👉 Get Expert MBA Admission Guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

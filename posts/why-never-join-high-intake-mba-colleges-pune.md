@@ -91,3 +91,11 @@ Check the **AICTE Extension of Approval (EoA)** letter on the college website. T
 *   [Best MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2026)
 *   [The Pool Placement Trap: Why You Should Never Join](/blog/why-never-join-pool-placement-colleges-mba-pgdm)
 *   [Direct Admission in Pune MBA Colleges 2026](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

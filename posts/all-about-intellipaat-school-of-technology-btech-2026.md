@@ -64,3 +64,11 @@ Admission to the Intellipaat School of Technology is highly selective and involv
 
 ---
 [👉 Still confused about which IST campus to choose? Connect with our experts for a personalized career roadmap!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

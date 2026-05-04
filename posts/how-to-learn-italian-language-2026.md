@@ -43,3 +43,10 @@ Why should you learn **Italian**? Because top global companies are actively look
 Thinking about moving abroad or landing a job in a specific MNC? Our expert mentors can help you choose the right language and career path to maximize your salary.
 
 [👉 Get Free Career Mentorship Today!](/inquiry)
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

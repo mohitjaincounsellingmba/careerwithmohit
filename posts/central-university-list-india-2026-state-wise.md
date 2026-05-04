@@ -310,3 +310,11 @@ If you're planning to apply to a Central University through CUET 2026 and need p
 - [CUET PG 2026: Top MBA Colleges List](/blog/cuet-pg-mba-colleges-list-2026)
 - [Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026)
 - [FMS Delhi MBA Admission 2026](/blog/all-about-fms-delhi)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

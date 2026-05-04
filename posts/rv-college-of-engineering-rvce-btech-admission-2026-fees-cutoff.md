@@ -48,3 +48,11 @@ Explore more engineering colleges in Bangalore:
 Deciding between the "top brand" of an NIT and the "top branch" of RVCE is a common dilemma. At **CareerWithMohit**, we analyze your ROI and career aspirations to help you make the right choice.
 
 [👉 Get Expert Admission Guidance for RVCE!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

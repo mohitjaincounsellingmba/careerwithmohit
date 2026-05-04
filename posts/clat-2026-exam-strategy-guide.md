@@ -102,3 +102,11 @@ Absolutely. In fact, many CLAT toppers are from Commerce and Humanities backgrou
 CLAT is a test of stamina. Don't waste your months on the wrong material. Mohit Jain provides a "CLAT Strategy Audit"—analyzing your mock scores and helping you build a personalized plan to jump 20 marks in just 30 days.
 
 [👉 Book My CLAT Prep Strategy](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

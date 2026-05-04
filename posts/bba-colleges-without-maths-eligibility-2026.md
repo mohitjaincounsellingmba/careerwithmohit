@@ -82,3 +82,11 @@ The corporate world hires for **Problem Solving and Communication**. Non-math BB
 A management mind is about strategy, not just numbers. Don't waste your score on a college that doesn't respect your stream. Mohit Jain provides a **"Non-Math Success Roadmap"**—helping you pick the college that offers the best bridge courses and placement support for non-math graduates.
 
 [👉 Book My Non-Math BBA Strategy](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -62,3 +62,11 @@ If you are aiming for MBA programs, many top universities and private B-schools 
 Navigating the counseling process for multiple universities can be confusing. From choosing the right university to filling out preference forms, get expert guidance.
 
 [👉 Get Expert Admission Guidance - Connect with Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

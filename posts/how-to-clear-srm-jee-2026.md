@@ -203,3 +203,11 @@ Once you crack the exam, you'll go through **counselling and campus/branch allot
 ---
 
 *Consistency + Smart Strategy = SRMJEEE Success. Start today, and your SRM offer letter will follow.*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

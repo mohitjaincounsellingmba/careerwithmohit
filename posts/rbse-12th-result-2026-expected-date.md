@@ -55,3 +55,11 @@ Ensure you check that all personal and academic details are correct on your prov
 The competition for top universities and colleges is fierce. At **CareerWithMohit**, we help students navigate the complex world of admissions, providing personalized guidance for MBA, B.Tech, and BBA programs across India.
 
 [👉 Get Expert Career Counselling Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

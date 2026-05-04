@@ -73,3 +73,11 @@ If you apply for 4 major exams (CAT, XAT, NMAT, SNAP), expect to spend around **
 At **CareerWithMohit**, we analyze your strengths (Quants vs. Verbal) to suggest the best exam strategy for your dream B-school.
 
 [👉 Book a Personalized Strategy Session!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -151,3 +151,11 @@ Fresh B.Tech ME graduates earn ₹4–8 LPA in private sector. Government PSU (v
 ---
 
 **[👉 Not sure if Mechanical Engineering at your target college is worth it? Get expert counselling from Mohit — FREE!](/inquiry)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -75,3 +75,11 @@ Don't just look at the solution. Try to solve each question for at least 15 minu
 [👉 Talk to our IITian Mentors for Doubt Clearing](/inquiry)
 
 **Stay Hungry, Stay Focused!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

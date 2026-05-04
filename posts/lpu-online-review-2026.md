@@ -59,3 +59,11 @@ Yes. All online programs from Lovely Professional University are **UGC-DEB appro
 
 ---
 [👉 Thinking about LPU? Talk to our admission counselors for the latest scholarships and fee discounts!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

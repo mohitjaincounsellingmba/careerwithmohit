@@ -46,3 +46,11 @@ Expand your research to other engineering colleges:
 With many new IIITs established in the last few years, choosing the right one requires careful research on permanent campus availability, faculty, and industry connect. At **CareerWithMohit**, we help students differentiate between established IIITs and newer ones to ensure long-term career success.
 
 [👉 Get Expert IIIT Admission Help!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

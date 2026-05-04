@@ -71,3 +71,11 @@ No, JIMS Rohini is a standalone building with no playground or open sports facil
 Don't let marketing brochures decide your future. At **CareerWithMohit**, we provide an honest 1-on-1 comparison of the internal culture and placement truth of all JIMS campuses.
 
 [👉 Get Expert MBA Admission Guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

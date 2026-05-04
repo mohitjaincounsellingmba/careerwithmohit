@@ -65,3 +65,11 @@ The fee is ₹1,000 for all candidates.
 **3. Can outside-UP students apply for government seats in AKTU?**
 No, government college seats are reserved for students with UP domicile. Outside state students are eligible for private college seats.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

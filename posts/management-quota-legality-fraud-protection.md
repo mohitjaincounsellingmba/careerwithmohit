@@ -77,3 +77,11 @@ Management quota is a legitimate pathway to enter your dream college if you have
 
 **Facing issues or need a verified admission path?**
 [👉 Talk to our Legal & Admission Experts Now](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

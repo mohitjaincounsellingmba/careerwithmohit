@@ -59,3 +59,11 @@ Students get access to IBM-curated curriculum, software tools, and direct indust
 **3. Is hostel mandatory at KRMU?**
 No, but many students prefer it due to the campus's modern facilities and distance from the city center.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

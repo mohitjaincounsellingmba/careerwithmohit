@@ -32,3 +32,11 @@ keywords: ["JKBS Gurgaon review 2026", "JK Business School placements 2024", "JK
 
 [👉 Apply to JKBS Gurgaon](/inquiry)
 [👉 View More B-Schools in Gurgaon](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

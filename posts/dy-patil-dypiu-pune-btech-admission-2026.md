@@ -57,3 +57,11 @@ Explore other engineering options in Pune:
 Unlike traditional engineering colleges, DYPIU uses a **Personal Interaction (PI)** round for final selection. Our experts at **CareerWithMohit** provide mock interview prep and profile-building strategies to help you secure your seat.
 
 [👉 Get Expert Admission Guidance for DYPIU!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

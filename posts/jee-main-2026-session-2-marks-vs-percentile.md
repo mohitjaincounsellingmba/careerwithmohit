@@ -56,3 +56,11 @@ To sit for the JEE Advanced exam (May 2026), students must finish in the top 2.5
 Scored lower than expected? Don't worry. There are excellent options in the Delhi NCR region (DTU, NSUT, IIIT-D) that have specific reservation and relaxation policies for Delhi residents. Our experts can help you optimize your counselling choices.
 
 [👉 Get JEE Counselling Support](/inquiry) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

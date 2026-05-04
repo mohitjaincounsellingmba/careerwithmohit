@@ -43,3 +43,11 @@ Absolutely. While located in India, ISB’s pedagogy, global faculty, and intern
 **Decision Tip**: If your goal is to work in the USA, a 2-year US program is superior due to the **STEM-OPT** extension which allows for a 3-year work permit.
 
 [👉 Get Your Global MBA Shortlist](/inquiry) | [👉 Book Profile Evaluation](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

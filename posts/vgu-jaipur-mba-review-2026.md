@@ -66,3 +66,11 @@ VGU provides multiple entry pathways into its MBA program.
 Vivekananda Global University is an excellent choice for a mid-budget MBA. With total fees (including hostel) around ₹6.5 Lakhs and an average placement of over ₹6.5 LPA, it offers a solid, risk-free return on investment. If you are comparing the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), VGU's vast infrastructure and growing industry reputation make it a strong contender.
 
 [👉 Secure Your Admission at VGU Jaipur - Get Free Counselling!](/inquiry) | [💬 Talk to Career Counsellor Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

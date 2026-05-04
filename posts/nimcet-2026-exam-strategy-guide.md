@@ -88,3 +88,11 @@ Ideally, 4 months before the exam. Don't wait to finish the syllabus. Start with
 NIMCET is a math-war. Don't get lost in English or Computers. Mohit Jain provides a "NIMCET Precision Audit"—analyzing your current math scores and helping you build the "80/20" plan to master the topics that bring 600 marks.
 
 [👉 Book My NIMCET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

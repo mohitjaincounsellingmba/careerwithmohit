@@ -93,3 +93,11 @@ If you are still confused, check our comparison guides:
 *   **GD Goenka vs. Bennett University:** Both are premium; Bennett is stronger for Tech-integrated business, while Goenka is great for core Marketing and Finance.
 
 [👉 Apply to GD Goenka BBA 2026](/inquiry) | [💬 Get a Private Career Counselling Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

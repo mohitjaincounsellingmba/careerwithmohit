@@ -190,3 +190,11 @@ Yes. JIIT offers 50% of its seats based on Class 12 merit (Physics, Maths, and o
 
 **5. Which college is better for core engineering branches like ECE or Mechanical?**
 For core branches (ECE, Mechanical, Civil), the cutoff difference narrows significantly. KIET's ECE placements are respectable and the lower fee makes it a more attractive proposition for core branch students.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

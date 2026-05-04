@@ -81,3 +81,11 @@ Registration usually starts in **late December or early January**.
 MAT and CMAT are the smart student's bypass. Many students Mohit Jain has counselled have turned an average MAT score into a career at a Tier-1 private B-school. Let's find your bypass.
 
 [👉 Plan My CMAT/MAT Admission](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

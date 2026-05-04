@@ -115,3 +115,11 @@ These law schools are known for their international collaborations, modern infra
 Choosing between a 5-year integrated law degree or a 3-year LLB can be tricky. Let's find your perfect fit.
 
 [👉 Build My Law Roadmap with Mohit Jain](/inquiry) | [💬 Schedule a Law Career Counselling Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

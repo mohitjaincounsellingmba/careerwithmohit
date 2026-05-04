@@ -32,3 +32,11 @@ New Delhi Institute of Management (NDIM) has established itself as one of the mo
 *   [Direct Admission in IMT Ghaziabad Guide](/blog/direct-admission-imt-ghaziabad-institutional-quota-2026)
 
 [👉 Get Expert Guidance for NDIM Delhi Admissions!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

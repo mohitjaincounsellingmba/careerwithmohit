@@ -126,3 +126,11 @@ When making your final decision, look beyond the highest package:
 - [MBA vs PGDM: Which is better in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide)
 - [Low Fees High Placement MBA Colleges](/blog/low-fees-high-placement-mba-colleges-2026)
 - [Best Online MBA Colleges in India](/blog/best-online-mba-colleges-india-2026)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

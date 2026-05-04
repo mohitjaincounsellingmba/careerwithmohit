@@ -54,3 +54,11 @@ Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates in
 *   [👉 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 
 *At **CareerWithMohit**, we believe that geographic strategy is key to ROI. Need help picking a Jaipur B-School? [Book a Strategy Session!](/inquiry)*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

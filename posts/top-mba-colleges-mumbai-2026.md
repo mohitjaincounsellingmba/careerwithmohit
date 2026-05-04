@@ -98,3 +98,11 @@ Most Mumbai B-schools have limited hostels. Use areas like Kurla, Santacruz, or 
 Mumbai is competitive. Don't be just another applicant. Get Mohit's direct industry feedback on which Mumbai college actually delivers on its placement promises.
 
 [👉 Get My Mumbai Shortlist Session](/inquiry) | [💬 Talk to Mohit Over WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

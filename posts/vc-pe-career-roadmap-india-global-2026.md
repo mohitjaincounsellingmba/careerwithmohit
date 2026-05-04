@@ -90,3 +90,11 @@ Rarely for front-end investment roles. However, they may hire from Tier-2 school
 The Buy-Side is where the real power in finance lies. Don't waste your effort by applying with a generic resume. Mohit Jain provides a **"Buy-Side Selection Audit"**—helping you build the "Investment Memorandums" and sourcing strategies that prove you have the "Investor Instinct" needed for VC and PE.
 
 [👉 Book My High-Finance Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -22,3 +22,11 @@ MIT-WPU (MIT World Peace University) is one of the most prominent private univer
 The total fee for the two-year MBA program is approximately **₹9.0 - ₹12.0 Lakhs**, depending on the specialization. It is a solid choice for students seeking a premium campus experience and diverse career opportunities.
 
 [👉 Book a campus tour or profile evaluation for MIT-WPU Pune!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

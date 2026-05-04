@@ -57,3 +57,11 @@ Yes, JBIMS accepts CAT and CMAT scores for All India Category seats through the 
 - [Top 10 High-ROI MBA Colleges in India](/blog/mba-vs-pgdm-difference)
 
 [👉 Confused about the JBIMS CAP process? Book a session with our Mumbai admission experts!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

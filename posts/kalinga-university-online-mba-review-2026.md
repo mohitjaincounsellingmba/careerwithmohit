@@ -50,3 +50,11 @@ By choosing the Kalinga University Online MBA, you are setting yourself up for a
 If you are serious about advancing your career without pausing your current job, the **Kalinga University Online MBA** is an undeniably strong, positive investment in your future. Its blend of flexibility, renowned faculty, and dedicated career guidance creates a perfect ecosystem for success.
 
 [👉 Apply for Kalinga University Online MBA](/inquiry) | [💬 Schedule a Details Call with Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

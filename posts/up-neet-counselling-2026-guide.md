@@ -98,3 +98,11 @@ Usually 15-20 days after the Round 1 result. Round 2 is often when the "Category
 UP counselling is a game of strategy. One wrong move and your security deposit is forfeited or you end up in a college with zero patient load. Mohit Jain provides a "UP NEET Strategy Audit"—helping you build a choice list that maximizes your score and secures your career.
 
 [👉 Book My UP NEET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

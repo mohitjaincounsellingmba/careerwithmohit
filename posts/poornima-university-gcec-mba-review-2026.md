@@ -69,3 +69,11 @@ They maintain a selective, smaller batch size to ensure personalized mentorship 
 At **CareerWithMohit**, we help you identify the right "Niche" colleges that match your specific career goals in Finance or Entrepreneurship.
 
 [👉 Book a Personalized Admission Audit!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

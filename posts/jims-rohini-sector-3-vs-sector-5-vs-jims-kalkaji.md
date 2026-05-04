@@ -78,3 +78,11 @@ Navigating the cutoffs for MAT/CAT or IPU-CET can be tricky. At **CareerWithMohi
 
 ---
 *Note: Placement data is based on 2025-26 projections and may vary based on specialization.*
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

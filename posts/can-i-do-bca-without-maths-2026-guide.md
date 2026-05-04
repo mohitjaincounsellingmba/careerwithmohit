@@ -88,3 +88,11 @@ Yes, but you will need to take the **NIMCET** or other state exams, which typica
 Many of India's top developers came from non-science backgrounds. Don't let a "Maths Compulsory" brochure discourage you. Mohit Jain specializes in finding "Bridge Pathways"—colleges that value your logic more than your 12th-grade mark sheet.
 
 [👉 Book My Non-Maths BCA Consultation](/inquiry) | [💬 Talk to Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

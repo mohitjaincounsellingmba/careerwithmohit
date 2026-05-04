@@ -92,3 +92,11 @@ Yes. NIBM usually takes students in the **85-95 percentile** range of CAT/XAT/CM
 Finance is a game of credibility. Don't waste your degree at a college that big banks don't recognize. Mohit Jain provides a "Finance Audit" to see if your personality and academics fit the rigid world of Investment Banking and Treasury.
 
 [👉 Book My Finance Career Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

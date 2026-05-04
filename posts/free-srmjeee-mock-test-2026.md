@@ -26,3 +26,11 @@ Our interactive platform offers a highly realistic replica of the SRMJEEE comput
 - **Concept Recall:** The questions generally test your immediate memory and core concepts instead of deep derivations.
 
 To plan your B.Tech journey better, it is advised to familiarize yourself with [All about SRM University Campuses](/blog/all-about-srm-university-campuses). Need a safety net? Check out our article on [Direct Admission Process for SRM University](/blog/direct-admission-srm-university-2026) or explore the top [B.Tech Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026).
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

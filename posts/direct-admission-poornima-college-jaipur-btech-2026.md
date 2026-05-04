@@ -146,3 +146,11 @@ Poornima College has an active Training & Placement Cell (TPC) with good connect
 **Confused between REAP counselling and management quota for Poornima College?**
 
 [👉 Get Free Personalised Counselling from Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

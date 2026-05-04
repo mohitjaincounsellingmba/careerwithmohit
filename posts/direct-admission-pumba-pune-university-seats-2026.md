@@ -60,3 +60,11 @@ The primary exam is **MAH MBA CET**. For All India seats, CAT and CMAT scores ar
 - [PUMBA Pune Review 2025: Placements & Life](/blog/pumba-pune-review-2025)
 
 [👉 Need help with your PUMBA application? Book a free profile evaluation with our Pune experts!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

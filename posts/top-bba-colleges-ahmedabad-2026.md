@@ -88,3 +88,11 @@ For top-tier colleges like Nirma and AU, the average package ranges from ₹6L t
 Ahmedabad is about resilience and scaling. Don't waste your score on a college without a stable industry link. Mohit Jain provides an **"Ahmedabad Management Audit"**—helping you pick the college that puts you on the radar of Adani, Reliance, and the global GIFT City firms.
 
 [👉 Book My Ahmedabad BBA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

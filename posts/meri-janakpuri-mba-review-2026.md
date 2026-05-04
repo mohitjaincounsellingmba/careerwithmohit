@@ -81,3 +81,11 @@ Admission to the MERI MBA program is competitive and follows the GGSIPU guidelin
 *   [All About CMAT Exam 2026](/blog/all-about-cmat-exam)
 
 [💬 Still Confused? Book a Private Counseling Session with Mohit Jain](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

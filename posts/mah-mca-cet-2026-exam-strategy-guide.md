@@ -96,3 +96,11 @@ Ideally, 4 months before the exam (November/December). If you start in January, 
 MAH MCA CET is a race against time. Don't get stuck on one math problem. Mohit Jain provides a "CET Speed Audit"—helping you identify the logic hacks that save you 15 minutes in the final exam.
 
 [👉 Book My MAH MCA CET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

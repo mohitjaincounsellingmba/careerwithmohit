@@ -81,3 +81,11 @@ Securing a management quota seat in B.Tech CSE requires timely action, as seats 
 **Avoid Fraudulent Agents:** Never hand over cash to agents claiming guaranteed seats in IITs or NITs—these institutions *DO NOT* have management quotas. Private universities and state-affiliated private colleges are the only legal routes for this admission process.
 
 [👉 Secure your B.Tech CSE seat today. Connect with our Career Counsellors for 100% transparent admission guidance!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

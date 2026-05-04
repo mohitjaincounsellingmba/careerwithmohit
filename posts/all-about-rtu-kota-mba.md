@@ -41,3 +41,11 @@ The total fee is exceptionally affordable at approximately **₹1.29 Lakhs** for
 **Our Verdict**: If you have a solid academic record and want the most respected government brand in Rajasthan with a massive placement upside, **RTU Kota is your #1 choice.**
 
 [👉 Apply to RTU Kota](/inquiry) | [👉 Get Expert Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

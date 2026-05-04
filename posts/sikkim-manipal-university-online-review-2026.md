@@ -59,3 +59,11 @@ Yes. All online programs from SMU are **UGC-DEB approved** and recognized by the
 
 ---
 [👉 Thinking about SMU? Talk to our expert counselors to get a detailed fee breakdown and enrollment guide today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

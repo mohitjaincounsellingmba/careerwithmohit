@@ -65,3 +65,11 @@ Nearly 1,000+ AICTE-approved B-Schools accept CMAT. The top tier includes:
 
 ---
 [👉 Want to maximize your CMAT score to guarantee a top college? Book an expert counseling session now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

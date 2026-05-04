@@ -147,3 +147,11 @@ VITEEE is considerably easier than JEE Main in terms of difficulty level. It is 
 ---
 
 **[👉 Confused about B.Tech admission without JEE? Get a FREE expert counselling session with Mohit!](/inquiry)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

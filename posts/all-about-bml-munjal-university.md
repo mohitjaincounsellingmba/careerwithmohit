@@ -31,3 +31,11 @@ keywords: ["BML Munjal University review 2026", "BMU MBA placements 2025", "BML 
 
 [👉 Apply to BML Munjal University](/inquiry)
 [👉 View More B-Schools in Gurgaon](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

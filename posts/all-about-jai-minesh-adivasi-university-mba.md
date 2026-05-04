@@ -40,3 +40,11 @@ The university has strong links in the **Service and Hospitality sectors**, with
 **Our Verdict**: If you are looking for a modern university experience with dual specialization and specialized hospitality links at a very low cost, **JMAU is a hidden gem in Kota.**
 
 [👉 Apply to JMAU Kota](/inquiry) | [👉 Get Free Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

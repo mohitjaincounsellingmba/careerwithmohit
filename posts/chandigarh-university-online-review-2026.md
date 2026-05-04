@@ -57,3 +57,11 @@ Absolutely. All online programs from Chandigarh University are **UGC-DEB approve
 
 ---
 [👉 Talk to our experts to get the latest scholarship details for Chandigarh University!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

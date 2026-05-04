@@ -87,3 +87,11 @@ Absolutely. Your dashboard should allow you to download a monthly CSV/Excel file
 Every hour you spend reconciling bank statements is an hour you’re not spending on your curriculum. Don't let operational friction stop your growth. Mohit Jain provides a **"Financial Operations Audit"**—helping you set up automated gateways and GST systems that run in the background while you focus on scaling your students.
 
 [👉 Automate My Coaching Business](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

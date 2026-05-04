@@ -100,3 +100,11 @@ Choosing the right college based on your percentile can be tricky. Don't waste y
 * [Top MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2026)
 * [JBIMS Cutoff & Admission Guide](/blog/direct-admission-jbims-mumbai-institute-level-seats-2026)
 * [MBA vs PGDM: Which is better?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

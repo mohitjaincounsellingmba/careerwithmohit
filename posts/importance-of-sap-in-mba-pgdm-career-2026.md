@@ -68,3 +68,11 @@ Yes. Many colleges have institutional tie-ups where you can take the certificati
 At **CareerWithMohit**, we help you choose the right PGDM specializations and certifications that lead directly to high-package placements.
 
 [👉 Book a Personalized Career Audit Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

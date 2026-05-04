@@ -83,3 +83,11 @@ Ideally in **June/July** after the 12th results are out and the first few merit 
 Direct admission is a massive investment in your career. Don't waste it on a college with zero corporate tie-ups. Mohit Jain provides a **"Safe BBA Seat Audit"**—verifying the official quota records and helping you secure a legal, fraud-free admission in India’s leading business hubs.
 
 [👉 Book My Safe BBA Admission Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -74,3 +74,11 @@ Even with a moderate CET score, you can get into reputable private B-schools tha
 [👉 View Top MBA Colleges in Mumbai accepting CET](/best-mba-colleges-in-mumbai-2026)
 
 **Confused about your percentile vs college chances? Book a free 1-on-1 counseling session with Mohit Jain today!**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

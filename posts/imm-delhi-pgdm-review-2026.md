@@ -78,3 +78,11 @@ If you are considering IMM Delhi, you are likely also looking at:
 *   [**Top PGDM Colleges in Delhi NCR under 10 Lakhs**](/blog/private-pgdm-colleges-under-10-lakhs-delhi-ncr)
 
 [👉 Need help with IMM Delhi Direct Admission? Talk to our experts!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

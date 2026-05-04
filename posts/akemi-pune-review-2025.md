@@ -22,3 +22,11 @@ AKEMI Business School in Pune is a growing management institute located in the e
 The total fee for the MBA program is very competitive, making it accessible to a wide range of students. It serves as a reliable entry point for students looking to start their corporate careers in Pune.
 
 [👉 Get direct admission guidance for AKEMI Pune!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

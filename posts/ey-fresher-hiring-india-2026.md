@@ -71,3 +71,11 @@ The recruitment process is structured into 3-4 key stages:
 - [GDPI Interview Topics and Solutions for 2026](/blog/gdpi-interview-topics-solutions-mba)
 
 [👉 Get Personalised Career Guidance Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

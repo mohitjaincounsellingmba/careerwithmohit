@@ -32,3 +32,11 @@ keywords: ["Mangalmay Institute review 2026", "MIMT Greater Noida placements", "
 
 [👉 Apply to Mangalmay Group](/inquiry)
 [👉 View More B-Schools in Greater Noida](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -96,3 +96,11 @@ Entrance-based admissions close by **March-April**. Direct merit-based admission
 Bangalore is competitive. Don't waste your years at a college with zero corporate ties. Mohit Jain provides a "Bangalore Legal Audit"—helping you pick the college that actually gets you an internship at a Tier-1 law firm.
 
 [👉 Book My Bangalore Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

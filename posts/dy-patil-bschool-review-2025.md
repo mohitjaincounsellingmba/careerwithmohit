@@ -22,3 +22,11 @@ DY Patil B-School is one of Pune's most modern and rapidly growing management in
 The total fee for the two-year program ranges from **₹8.5 Lakhs to ₹11.0 Lakhs**, depending on the chosen specialization. It is a solid investment for students looking for a premium experience in one of Pune's educational powerhouses.
 
 [👉 Apply for direct admission or scholarship at DY Patil B-School!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

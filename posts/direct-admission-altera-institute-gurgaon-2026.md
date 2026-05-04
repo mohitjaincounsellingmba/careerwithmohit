@@ -59,3 +59,11 @@ Minimum 50% in graduation and a valid score in ALNAT or any national entrance ex
 - [Direct MBA Admission India 2026](/blog/direct-mba-admission-india)
 
 [👉 Take the next step in your career at Altera! Get started today.](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

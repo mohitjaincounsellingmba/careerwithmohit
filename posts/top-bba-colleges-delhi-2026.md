@@ -75,3 +75,11 @@ The annual fee for top BBA colleges under IP University (like MAIMS or MSIT) ran
 Some private colleges offer direct admission based on Class 12 marks, but top-ranked institutes strictly require entrance exam scores.
 
 [👉 Build My Delhi BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

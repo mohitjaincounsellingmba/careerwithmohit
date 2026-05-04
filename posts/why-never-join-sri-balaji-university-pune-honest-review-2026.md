@@ -72,3 +72,11 @@ Before you lock your seat at Balaji, compare it with these:
 Don't let marketing brochures decide your future. Speak to our expert counselors for an unbiased profile evaluation.
 
 [👉 Get a Free Career Counselling Session Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

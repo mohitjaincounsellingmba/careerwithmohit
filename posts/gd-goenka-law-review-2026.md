@@ -88,3 +88,11 @@ Selection is competitive and relies on national and internal assessment:
 *   **GD Goenka vs. Bennett:** Both are premium; Bennett is stronger for "modern digital" law, while Goenka is great for core corporate and civil legal training.
 
 [👉 Apply to GD Goenka Law 2026](/inquiry) | [💬 Chat with an Expert for Law Admissions](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -54,3 +54,11 @@ If you value your career and your parents' hard-earned money, avoid the "Lonaval
 Want to know which companies actually hire from iFEEL and what the pass-outs are doing? Our counselors at **CareerWithMohit** have the real data that colleges hide.
 
 [👉 Stop! Before You Pay, Talk to Us!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

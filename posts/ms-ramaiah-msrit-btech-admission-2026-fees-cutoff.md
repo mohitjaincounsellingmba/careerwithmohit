@@ -46,3 +46,11 @@ Make sure to check the difference between the Institute and the University:
 MSRIT is often preferred by students who want a more diverse academic environment and a slightly larger campus located in the heart of North Bangalore. At **CareerWithMohit**, we help you choose between MSRIT, RVCE, and BMSCE based on your specific branch preference and future career goals.
 
 [👉 Get Expert Admission Guidance for MSRIT!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -69,3 +69,11 @@ When analyzing direct admissions, you must separate standard tuition fees from o
 *   [How to Avoid Management Quota Scams](/blog/management-quota-legality-fraud-protection)
 
 [👉 Fast-track your career in Data Science! Contact our admission counselors today for genuine Direct Admission guidance.](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

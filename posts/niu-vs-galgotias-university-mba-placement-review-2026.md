@@ -71,3 +71,11 @@ Yes, NIU accepts CAT, MAT, XAT, and CMAT scores for its MBA program, followed by
 At **CareerWithMohit**, we help you navigate the noisy Noida market to find an MBA program that actually values YOUR career growth.
 
 [👉 Get Expert Admission Help for NIU Noida!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -100,3 +100,11 @@ Most private institutions in Greater Noida offer merit-based scholarships of **�
 Noida and Greater Noida are industrial hubs with massive IT and FMCG presence, which often leads to more internship opportunities compared to some parts of Delhi.
 
 An MBA under ₹10 Lakhs in the NCR region is highly achievable and strategically sound if you aim for institutions that prioritize skill-building over lavish campus aesthetics!
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

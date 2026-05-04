@@ -51,3 +51,11 @@ There is no limit. You can take the IELTS as many times as you want until you ac
 **Preparation Tip**: Focus on the **Computer-Delivered IELTS** as it offers faster results (3-5 days) and the Retake flexibility!
 
 [👉 Book your IELTS Slot](/inquiry) | [👉 Get Free Study Abroad Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

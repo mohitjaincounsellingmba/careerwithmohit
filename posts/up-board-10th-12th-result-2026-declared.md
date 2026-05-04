@@ -62,3 +62,11 @@ Congratulations on clearing your boards! Now is the time to make the most import
 If you are not satisfied with your results, the UP Board will soon open the portal for **Scrutiny (Re-evaluation)** and **Compartment Exams**. Stay tuned for updates on application dates.
 
 [👉 Need Career Counselling? Connect with Mohit Jain Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

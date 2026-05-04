@@ -54,3 +54,11 @@ The total academic fee for the 2-year PGDM program (2026-28 batch) at JIMS Rohin
 **Final Verdict**: JIMS Rohini is the go-to institute for serious aspirants targeting top-tier consulting, finance, or tech roles in North India.
 
 [👉 Apply to JIMS Rohini](/inquiry) | [👉 Get Free Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

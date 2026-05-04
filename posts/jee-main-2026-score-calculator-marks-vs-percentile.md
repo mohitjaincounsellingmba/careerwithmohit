@@ -89,3 +89,11 @@ Choosing the right engineering branch (CSE, AIML, ECE) is as important as choosi
 [👉 Get Free Engineering Admission Guidance Today!](/inquiry) | [💬 Talk to Our Expert on WhatsApp](https://wa.me/919560020771)
 
 ---
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

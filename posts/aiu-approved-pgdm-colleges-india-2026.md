@@ -113,3 +113,11 @@ This equivalence is crucial for students who wish to pursue higher education abr
 All fee and placement figures mentioned in this guide have been cross-verified with **Shiksha.com 2024-25 and 2025-26 reports**. Management college data is subject to change based on batch size and market conditions, so always consider these as the latest benchmarks for the current academic cycle.
 
 [🚀 Need help choosing the right PGDM tier for your score and profile? Click here for a free evaluation!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

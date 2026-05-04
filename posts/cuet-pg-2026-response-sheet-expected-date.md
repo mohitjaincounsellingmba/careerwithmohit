@@ -55,3 +55,11 @@ Once you have your raw score, you can predict your percentile using our speciali
 Counseling registration starts shortly after results. If you are unsure which university fits your raw score, our experts can provide a personalized college list based on 2025 cutoff data.
 
 [👉 Get Expert Guidance for CUET PG Counseling!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

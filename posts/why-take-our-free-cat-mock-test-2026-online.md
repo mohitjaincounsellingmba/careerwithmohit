@@ -59,3 +59,11 @@ The road to an IIM starts with a single mock. Don't wait until November to feel 
 - [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates)
 - [How many students take MBA exams?](/blog/how-many-students-take-mba-entrance-exams-2026)
 - [Top IIMs: Courses, Placements & Cutoffs](/blog/iims-list-courses-placements-cutoffs-admission)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

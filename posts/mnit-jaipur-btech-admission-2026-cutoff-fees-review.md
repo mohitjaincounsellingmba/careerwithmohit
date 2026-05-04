@@ -60,3 +60,11 @@ Looking for more engineering insights? Check out our other popular guides:
 Rajasthan students have a significant advantage through the Home State quota at MNIT Jaipur. If you are struggling to decide between MNIT Jaipur and an older NIT like Rourkela, our expert counselors at **CareerWithMohit** can help you analyze branch superiority vs. location advantage.
 
 [👉 Get Expert Admission Guidance for MNIT Jaipur!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

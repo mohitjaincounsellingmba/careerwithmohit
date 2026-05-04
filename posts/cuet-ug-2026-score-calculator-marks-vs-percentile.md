@@ -83,3 +83,11 @@ Whether you're targeting Delhi University, BHU, or JMI, head over to the **[CUET
 Navigating the exact course cut-offs, normalization processes, and preference sheets (like DU CSAS) is complex. If you need clarity on your admission chances:
 
 [💬 Schedule a Career Counselling Session](/inquiry) | [👉 Explore Top Universities](/colleges)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

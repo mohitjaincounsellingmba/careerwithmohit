@@ -100,3 +100,11 @@ It usually starts in **September/October**, following the completion of the main
 Ayurveda and Homeopathy are the future of personalized medicine. Don't waste your score on a lower-tier MBBS if you can be a topper in a prestigious BAMS institute. Mohit Jain provides an **"AYUSH Career Audit"**—helping you choose between BAMS and BHMS based on your patient-care philosophy.
 
 [👉 Book My AYUSH Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

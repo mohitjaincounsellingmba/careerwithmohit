@@ -80,3 +80,11 @@ Usually held in **April/May**. Result and counselling follow in June.
 Kolkata is about intellect and equality. Don't waste your score on a college without a supportive female alumni network. Mohit Jain provides a "Girls in STEM Audit"—helping you pick the college that offers the best safety, scholarship, and career mentorship in East India.
 
 [👉 Book My Kolkata Girls Tech Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

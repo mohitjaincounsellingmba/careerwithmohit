@@ -71,3 +71,11 @@ Now that you have a clear idea of your marks, it is time to plan your university
 The post-result counseling process can be tricky with multiple university registration links and cutoffs. Get personalized help from Mohit Jain to secure your seat in the best possible college.
 
 [👉 Get Admission Guidance - Contact Us](https://wa.me/919560020771) | [📞 Call: +91 95600 20771](tel:+919560020771)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

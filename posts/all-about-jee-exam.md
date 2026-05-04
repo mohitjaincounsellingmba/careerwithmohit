@@ -62,3 +62,11 @@ Candidates must usually secure at least **75% marks** in their Class 12 Board ex
 Candidates can attempt JEE Advanced a maximum of **two times in two consecutive years**.
 
 [👉 Looking for expert guidance to navigate your B.Tech admissions? Connect with our counsellors today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

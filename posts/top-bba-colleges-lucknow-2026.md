@@ -88,3 +88,11 @@ For top-tier colleges like Jaipuria and LU, the average package ranges from **�
 Lucknow is about growth and heritage. Don't waste your score on a college without a stable industry link. Mohit Jain provides a **"Lucknow Management Audit"**—helping you pick the college that matches your goals for a corporate hub or a regional leadership role.
 
 [👉 Book My Lucknow BBA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

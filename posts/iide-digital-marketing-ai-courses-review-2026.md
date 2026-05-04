@@ -92,3 +92,11 @@ You will learn SEO, SEM, Social Media Marketing, and Email Automation—all inte
 Whether you are looking for an [MBA alternative](/blog/mba-brand-management-complete-review), an undergraduate degree, or a quick professional upskilling course, IIDE provides some of the highest ROI (Return on Investment) programs in India right now. 
 
 Ready to level up your career? **[Explore all our curated certification courses](/certifications)** to find the perfect fit for your professional growth!
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

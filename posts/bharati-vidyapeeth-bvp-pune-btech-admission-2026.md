@@ -62,3 +62,11 @@ Explore other engineering options in Pune:
 BVP CET is a time-bound exam that demands high accuracy. At **CareerWithMohit**, we help students understand the exam pattern and provide guidance on choosing the right branch based on your final rank.
 
 [👉 Get Expert Admission Guidance for Bharati Vidyapeeth!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

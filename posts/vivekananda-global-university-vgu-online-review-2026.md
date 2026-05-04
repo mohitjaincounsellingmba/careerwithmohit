@@ -59,3 +59,11 @@ Yes. All online programs from Vivekananda Global University are **UGC-DEB approv
 
 ---
 [👉 Looking for scholarship info or current enrollment deadlines for VGU Online? Talk to our expert counselors today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

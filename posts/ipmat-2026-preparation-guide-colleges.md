@@ -93,3 +93,11 @@ Typically held in **May 2026**, soon after the 12th standard board exams are ove
 IPMAT is about speed, precision, and endurance. Don't waste your attempt on a sub-par strategy. Mohit Jain provides a **"Selection Audit"**—evaluating your raw aptitude and building a study plan that ensures you get the "IIM Tag" before you even graduate.
 
 [👉 Book My IPMAT Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

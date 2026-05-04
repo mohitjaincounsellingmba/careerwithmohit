@@ -60,3 +60,11 @@ The current average package is approximately **₹15.19 LPA**.
 - [Comparison: MBA vs PGDM ROI](/blog/mba-vs-pgdm-difference)
 
 [👉 Need guidance for your Maharashtra MBA CAP registration? Book a free session!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

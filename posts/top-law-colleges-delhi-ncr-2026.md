@@ -88,3 +88,11 @@ AILET is usually held on the **second Sunday of December**.
 Delhi's legal market is all about networking. Don't waste your degree at a college that doesn't have a presence in the courts or firms. Mohit Jain provides a "Capital Legal Audit"—helping you pick the college that puts you on the radar of the Supreme Court and Tier-1 firms.
 
 [👉 Book My Delhi NCR Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

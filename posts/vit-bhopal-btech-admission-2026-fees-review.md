@@ -55,3 +55,11 @@ Compare VIT Bhopal with other campuses to make an informed choice:
 Choosing the right branch vs. the right fee category is the biggest challenge in VIT counselling. At **CareerWithMohit**, we help you analyze your VITEEE rank to decide if **Category 1 CSE at Bhopal** is better for you than **Category 4 ECE at Vellore**.
 
 [👉 Get Expert VIT Admission Support Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

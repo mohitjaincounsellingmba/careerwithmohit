@@ -93,3 +93,11 @@ Absolutely. Pune is known as a safe, student-friendly city with a large populati
 Don't gamble with your career. Speak to Mohit Jain for a verified placement report of Pune B-schools.
 
 [👉 Book My Free Strategy Call](/inquiry) | [💬 Chat with Mohit on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

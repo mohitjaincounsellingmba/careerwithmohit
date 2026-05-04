@@ -13,7 +13,8 @@ export function InquiryForm() {
     location: '',
     preferredLocation: '',
     budget: '',
-    course: ''
+    course: '',
+    message: ''
   });
 
   // v3.0 - Activepieces Webhook Only (Clean & Direct)
@@ -30,6 +31,7 @@ export function InquiryForm() {
       budget: formData.budget,
       preferredLocation: formData.preferredLocation,
       course: formData.course,
+      message: formData.message,
       timestamp: new Date().toISOString()
     };
 
@@ -56,7 +58,8 @@ export function InquiryForm() {
         location: '',
         preferredLocation: '',
         budget: '',
-        course: ''
+        course: '',
+        message: ''
       });
     } catch (e) {
       console.error('Activepieces Webhook Error:', e);
@@ -212,6 +215,20 @@ export function InquiryForm() {
               </option>
             ))}
           </select>
+        </div>
+
+        {/* Message */}
+        <div className="space-y-3 md:col-span-2">
+          <label htmlFor="message" className="block text-xl font-black uppercase tracking-tight text-foreground">Message / Additional Details (Optional)</label>
+          <textarea
+            id="message"
+            name="message"
+            rows={4}
+            placeholder="Tell us more about your career goals or specific questions..."
+            value={formData.message}
+            onChange={(e) => setFormData({ ...formData, message: e.target.value })}
+            className="w-full bg-gray-50 border-4 border-foreground p-6 text-lg font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md resize-none"
+          />
         </div>
       </div>
 

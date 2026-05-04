@@ -47,3 +47,11 @@ Absolutely not. It is an AICTE-approved institution with AIU equivalence and EFM
 Don't rely on just one review. Our career counselors track actual placement records and student feedback without the marketing fluff. We can help you analyze if XIME Kochi is the right fit for your profile.
 
 [👉 Talk to a Career Expert for an Unbiased Review!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

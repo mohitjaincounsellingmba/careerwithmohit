@@ -72,3 +72,11 @@ Following a recent amendment, there is currently **no limit** on the number of a
 While the majority of questions (roughly 95%+) are directly based on NCERT textbooks, some conceptual application questions may require a slightly deeper understanding of the topics.
 
 [👉 Confused about medical admissions and NEET counselling? Get expert advice from Mohit Jain today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

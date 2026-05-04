@@ -64,3 +64,11 @@ Since there is no exam, your **Document Verification** is the most critical stag
 If you have high marks but aren't sure which department's merit list you can top, our counselors can help you analyze your scores against previous cut-offs.
 
 [👉 Get Expert Career Counseling Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -92,3 +92,11 @@ Yes, but you will need to pass the Bar exam of that country (e.g., the New York 
 Corporate Law is a high-reward, high-stress career. Don't jump in without understanding the lifestyle. Mohit Jain provides a "Corporate Legal Roadmap"—helping you build the skill set and the resume that attracts India's Top Law Firms.
 
 [👉 Book My Corporate Law Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

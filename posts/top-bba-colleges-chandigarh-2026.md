@@ -59,3 +59,11 @@ If you have a strong academic record (90%+ in 12th), GDSD College is the best fo
 Don't get confused by the marketing! Let's analyze the real placement data and choose the best one for you.
 
 [👉 Build My Chandigarh Roadmap](/inquiry) | [💬 Schedule a Private Session](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

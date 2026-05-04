@@ -69,3 +69,11 @@ While waiting for the scrutiny results, start exploring your future options:
 Competition is high, but with the right guidance, you can land in your dream college. At **CareerWithMohit**, we help students with admissions into top B.Tech, BBA, and MBA programs.
 
 [👉 Get Professional Career Counselling Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

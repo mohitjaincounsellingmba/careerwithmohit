@@ -57,3 +57,11 @@ Looking for other top-tier B.Tech options? Check out our guides:
 Unlike JoSAA colleges, DA-IICT requires a separate application form on their official website. Missing this deadline means losing the chance to get into one of India’s top ICT institutes. At **CareerWithMohit**, we help students track all major private university deadlines and choose between an NIT core branch and DA-IICT ICT.
 
 [👉 Get Personalised Admission Guidance for DA-IICT!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

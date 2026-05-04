@@ -60,3 +60,11 @@ As per GGSIPU norms, 10% of total seats are reserved for management quota admiss
 **3. Does MAIT provide on-campus hostels?**
 Yes, MAIT provides separate hostel facilities for boys and girls with both AC and Non-AC options.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

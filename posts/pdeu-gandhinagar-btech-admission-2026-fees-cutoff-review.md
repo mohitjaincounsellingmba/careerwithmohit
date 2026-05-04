@@ -59,3 +59,11 @@ Looking for more on Gujarat's top colleges? Check out:
 Many students prefer PDEU over newer NITs due to its state-of-the-art infrastructure and placement ties with giant energy firms like Reliance and ONGC. At **CareerWithMohit**, we help you decide the best fit based on your branch preference and long-term career goals.
 
 [👉 Get Expert Admission Guidance for PDEU Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

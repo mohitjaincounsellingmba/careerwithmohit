@@ -170,3 +170,11 @@ Some private colleges offer management quota seats, but top colleges like PUMBA 
 The average package for Sri Balaji University (BIMM) is approximately **₹8.75 LPA**.
 
 [👉 Confused about which Pune college fits your profile and budget? Get a free profile evaluation from Mohit Jain!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -55,3 +55,11 @@ The average package for the 2025 batch stood at **₹8.95 LPA**, with the top 10
 **Final Verdict**: One of the absolute best choices for PGDM aspirants in the NCR region who want a premium experience and top-tier corporate linkages.
 
 [👉 Apply to Jaipuria Noida](/inquiry) | [👉 Get Free Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

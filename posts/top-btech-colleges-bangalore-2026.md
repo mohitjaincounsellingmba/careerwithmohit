@@ -91,3 +91,11 @@ Also, ensure you keep track of [B.Tech Admissions FAQ 2026](/blog/btech-admissio
 Choosing between RVCE, BMSCE, and MSRIT can be tough based on your rank and budget. Let our experts guide you.
 
 [👉 Build My Bangalore B.Tech Roadmap](/inquiry) | [💬 Schedule a Profile Evaluation](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

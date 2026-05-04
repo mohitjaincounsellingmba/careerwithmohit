@@ -26,3 +26,11 @@ Our interactive platform provides a highly realistic replica of the NEET setup, 
 - **Physics Formulas:** Keep a formula sheet handy for final revisions; speed on numerical computations is essentially what separates a top-tier ranker from the rest.
 
 Understanding exams like NEET is fundamental to your success. Read our comprehensive report [All About NEET Exam 2026](/blog/all-about-neet-exam) to see full eligibility metrics. Additionally, view how the [Total Seats in IITs](/blog/total-seats-in-iits-2026-seat-matrix) compare to top medical seat numbers or discover opportunities in other healthcare degrees at the [Top Healthcare Management Colleges](/blog/top-healthcare-management-colleges-india-2026).
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

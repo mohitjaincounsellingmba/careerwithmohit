@@ -65,3 +65,11 @@ Teaching is a noble profession, and CTET is your entry ticket. Start your prepar
 
 ---
 [👉 Need guidance on which subject to specialise in for a teaching career? Our counsellors can help!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

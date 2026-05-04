@@ -95,3 +95,11 @@ Start today. Open a blank spreadsheet, type "Revenue," and begin your journey to
 Mohit Jain provides personalized **Financial Modelling Mentorship** for MBA students and working professionals. We help you build "Deal-Ready" models and polish your interview case studies.
 
 [👉 Get Your Personalized Finance Roadmap](/inquiry) | [💬 Chat on WhatsApp](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

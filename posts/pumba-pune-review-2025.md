@@ -22,3 +22,11 @@ The Department of Management Sciences (PUMBA) at Savitribai Phule Pune Universit
 The fee for Maharashtra state candidates is very low (approx **₹1.2 - ₹2.4 Lakhs** total). Admission is primarily through MAH-CET, and competition is fierce.
 
 [👉 Check the latest MAH-CET cut-offs for PUMBA Pune!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

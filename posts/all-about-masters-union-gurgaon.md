@@ -77,3 +77,11 @@ MU-BAAT is an aptitude test that evaluates critical thinking, logical reasoning,
 **Our Verdict:** Masters' Union is for bold risk-takers. If you want a traditional MBA degree with a massive green campus, look away. But if your goal is to break into elite Product Management, VC, or Consulting roles, and you want to network with actual industry titans, Masters' Union is arguably giving ISB a run for its money.
 
 [👉 Apply to Masters' Union](/inquiry) | [👉 Get Free Counselling](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -51,3 +51,11 @@ While D.Y. Patil often has its own entrance tests, many of its constituent units
 Our Pune admission experts can help you compare colleges like Indira vs. PCU vs. Alard to find the best fit for your career goals.
 
 [👉 Get Pune Admission Counseling Now!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

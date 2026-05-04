@@ -58,3 +58,11 @@ BIMTECH is one of the top institutes in India for **PGDM-Insurance Business**, o
 - [Direct MBA Admission India Master List](/blog/direct-mba-admission-india)
 
 [👉 Secure your future at BIMTECH! Click for expert admission guidance.](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

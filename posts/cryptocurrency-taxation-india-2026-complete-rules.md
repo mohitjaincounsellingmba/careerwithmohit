@@ -84,3 +84,11 @@ Non-disclosure of VDA can lead to a penalty of **up to 300%** of the tax evaded,
 Crypto is the future, but tax compliance is the present reality. Don't risk your portfolio by ignoring the IRS/Income Tax rules. Mohit Jain provides a **"Digital Asset Tax Audit"**—helping you reconcile your exchange statements and ensuring your ITR reporting is accurate to avoid future notices from the tax department.
 
 [👉 Book My Crypto Tax Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -175,3 +175,11 @@ MET 2026 applications are typically open till April–May 2026. Check the [offic
 At **CareerWithMohit**, we provide personalised counselling to help you evaluate your options honestly — without any agent bias.
 
 [👉 Book a Free Counselling Session with Mohit Jain Today!](/inquiry)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
