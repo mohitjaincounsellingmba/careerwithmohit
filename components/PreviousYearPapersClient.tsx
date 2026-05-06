@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Download, FileText, Lock, CheckCircle2, Search, ArrowRight, GraduationCap } from 'lucide-react';
+import { Download, FileText, Lock, CheckCircle2, Search, ArrowRight, GraduationCap, ExternalLink } from 'lucide-react';
 import { LeadGenForm } from '@/components/LeadGenForm';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { QuestionCard } from '@/components/QuestionCard';
