@@ -4,6 +4,8 @@ import { useState } from 'react';
 import { Download, FileText, Lock, CheckCircle2, Search, ArrowRight, GraduationCap } from 'lucide-react';
 import { LeadGenForm } from '@/components/LeadGenForm';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
+import { QuestionCard } from '@/components/QuestionCard';
+import { CAT_QUESTIONS } from '@/data/cat_questions';
 
 const EXAMS = [
   {
@@ -111,6 +113,7 @@ export default function PreviousYearPapersClient() {
   const [isUnlocked, setIsUnlocked] = useState(false);
   const [showForm, setShowForm] = useState(false);
   const [activePaper, setActivePaper] = useState<any>(null);
+  const [questions, setQuestions] = useState<any[]>([]);
 
   const handleDownloadClick = (paper: any) => {
     if (isUnlocked) {
@@ -124,6 +127,14 @@ export default function PreviousYearPapersClient() {
   const handleSuccess = () => {
     setIsUnlocked(true);
     setShowForm(false);
+    
+    // Load relevant questions based on selected exam
+    if (selectedExam.id === 'cat') {
+      setQuestions(CAT_QUESTIONS);
+    } else {
+      setQuestions([]); // Add other exam questions here later
+    }
+
     if (activePaper) {
       window.open(activePaper.link, '_blank');
     }
@@ -231,6 +242,39 @@ export default function PreviousYearPapersClient() {
                 ))}
               </div>
             </div>
+
+            {/* Questions Section - Visible after unlock */}
+            {isUnlocked && questions.length > 0 && (
+              <div className="mt-20 animate-in fade-in slide-in-from-bottom-8 duration-700">
+                <div className="flex items-center gap-4 mb-10">
+                  <div className="h-1 bg-foreground flex-grow"></div>
+                  <h3 className="text-3xl font-black uppercase italic text-foreground whitespace-nowrap">
+                    Sample Questions & <span className="text-primary">Answers</span>
+                  </h3>
+                  <div className="h-1 bg-foreground flex-grow"></div>
+                </div>
+
+                <div className="space-y-8">
+                  {questions.map((q, index) => (
+                    <QuestionCard key={q.id} question={q} index={index} />
+                  ))}
+                  
+                  <div className="bg-primary/5 border-4 border-primary/20 p-8 rounded-2xl text-center">
+                    <p className="text-xl font-bold text-slate-600 mb-6">
+                      Want to practice more actual {selectedExam.name} questions with video solutions?
+                    </p>
+                    <a 
+                      href="https://online.2iim.com/CAT-question-paper/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-3 px-8 py-4 bg-primary text-white font-black uppercase tracking-widest rounded-xl border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 active:translate-y-1 transition-all"
+                    >
+                      Visit 2IIM Question Bank <ExternalLink className="w-6 h-6" />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
         </div>
       </div>
@@ -245,6 +289,21 @@ export default function PreviousYearPapersClient() {
               onClose={() => setShowForm(false)}
             />
           </div>
+          {questions.length > 0 && (
+            <div className="mt-12 p-8 bg-primary/5 border-4 border-dashed border-primary/30 rounded-2xl text-center">
+              <h3 className="text-2xl font-black mb-4">Want more practice?</h3>
+              <p className="text-slate-600 mb-6 max-w-xl mx-auto">
+                We have a vast library of previous year questions and mock tests for all major exams. 
+                Get personalized career counseling and exam preparation strategy today!
+              </p>
+              <button 
+                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                className="bg-primary text-white px-8 py-3 rounded-xl font-black border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all"
+              >
+                Book a Free Consultation
+              </button>
+            </div>
+          )}
         </div>
       )}
     </div>
