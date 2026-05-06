@@ -897,63 +897,109 @@ export const EXAM_CONFIGS: ExamConfig[] = [
 ];
 
 import { CDS_QUESTIONS } from './cds-questions';
+import { REAL_EXAM_QUESTIONS } from './real-exam-questions';
+import { MHCET_QUESTIONS } from './mhcet-questions';
+import { CAT_QUESTIONS } from '@/data/cat_questions';
 
 export function generateMockQuestions(config: ExamConfig, setNumber: number = 1): GenericQuestion[] {
   let questions: GenericQuestion[] = [];
   let idCounter = 1 + (setNumber - 1) * 1000;
   
   // Custom logic for Exams with real data
-  const realData = config.slug === 'cds' ? CDS_QUESTIONS : null;
+  let realData: any = null;
+  
+  if (config.slug === 'cds') realData = CDS_QUESTIONS;
+  else if (config.slug === 'mhcet') {
+    const mhcetMap: any = {};
+    MHCET_QUESTIONS.forEach(q => {
+      const sectionKey = q.section.toLowerCase();
+      if (!mhcetMap[sectionKey]) mhcetMap[sectionKey] = [];
+      mhcetMap[sectionKey].push({ ...q, sectionId: sectionKey });
+    });
+    realData = mhcetMap;
+  }
+  else if (REAL_EXAM_QUESTIONS[config.slug]) {
+    realData = REAL_EXAM_QUESTIONS[config.slug];
+  }
+  else if (config.slug === 'cat') {
+    const catMap: any = {};
+    CAT_QUESTIONS.forEach(q => {
+      const sectionKey = q.section.toLowerCase();
+      if (!catMap[sectionKey]) catMap[sectionKey] = [];
+      catMap[sectionKey].push({
+        id: q.id,
+        sectionId: sectionKey,
+        text: q.questionText,
+        options: q.options,
+        correctAnswer: q.options.indexOf(q.correctAnswer),
+        explanation: `Source: 2IIM. View explanation at ${q.explanationUrl}`
+      });
+    });
+    realData = catMap;
+  }
+
+  // Add a random offset based on setNumber and time to ensure variation
+  const seed = setNumber + Math.floor(Date.now() / 10000); 
 
   config.sections.forEach(section => {
-    const sectionQuestions = realData ? realData[section.id] : undefined;
+    const sectionKey = section.id.toLowerCase();
+    const sectionQuestions = realData ? realData[sectionKey] : undefined;
     
+    // Shuffle section questions if they exist to avoid same order
+    let availableRealQs = sectionQuestions ? [...sectionQuestions] : [];
+    if (availableRealQs.length > 0) {
+      availableRealQs.sort(() => Math.random() - 0.5);
+    }
+
     for (let i = 0; i < section.questionCount; i++) {
-      // Check if we have real data for this section and index
-      const realQ = sectionQuestions ? sectionQuestions[i] : undefined;
-      
-      if (realQ) {
+      // Use real question if available and not yet used in this section
+      if (i < availableRealQs.length) {
+        const realQ = availableRealQs[i];
         questions.push({
           ...realQ,
-          id: idCounter, // Keep sequential IDs for the UI
+          id: idCounter,
         });
       } else {
-        // Fallback to improved simulated questions
         const topics: Record<string, string[]> = {
-          'maths': ['Arithmetic', 'Algebra', 'Geometry', 'Calculus', 'Probability'],
-          'quant': ['Profit & Loss', 'Time & Work', 'Percentages', 'Ratios', 'Speed & Distance'],
-          'arithmetic': ['Number System', 'HCF & LCM', 'Simplification', 'Averages', 'Interest'],
-          'algebra': ['Linear Equations', 'Quadratic Expressions', 'Polynomials', 'Indices'],
-          'trig': ['Identities', 'Heights & Distances', 'Ratios', 'Circular Measures'],
-          'english': ['Grammar', 'Vocabulary', 'Reading Comprehension', 'Sentence Completion'],
-          'verbc': ['Critical Reasoning', 'Para Jumbles', 'Odd One Out', 'Inference'],
-          'gk': ['National Affairs', 'Awards', 'International Summits', 'Economic Policies'],
-          'ga': ['Static GK', 'Monthly Current Affairs', 'Sports News', 'Science & Tech'],
-          'logic': ['Coding-Decoding', 'Blood Relations', 'Syllogisms', 'Sitting Arrangements'],
-          'reasoning': ['Series Completion', 'Analogies', 'Puzzles', 'Direction Sense']
+          'maths': ['Calculus', 'Algebra', 'Trigonometry', 'Probability', 'Coordinate Geometry', 'Vectors', 'Matrices', 'Complex Numbers'],
+          'quant': ['Profit & Loss', 'Time & Work', 'Percentages', 'Ratios & Proportions', 'Speed, Time & Distance', 'Averages', 'Simple & Compound Interest'],
+          'arithmetic': ['Number Systems', 'LCM & HCF', 'Simplification', 'Averages', 'Percentages', 'Ratios'],
+          'algebra': ['Linear Equations', 'Quadratic Equations', 'Logarithms', 'Sequences & Series', 'Permutations & Combinations'],
+          'trig': ['Trigonometric Identities', 'Heights & Distances', 'Inverse Trigonometric Functions'],
+          'english': ['Grammar', 'Vocabulary', 'Reading Comprehension', 'Sentence Correction', 'Idioms & Phrases'],
+          'verbc': ['Critical Reasoning', 'Para Jumbles', 'Odd One Out', 'Critical Inference'],
+          'gk': ['Indian Polity', 'Modern History', 'Geography', 'Economics', 'Current Affairs', 'Awards & Honors'],
+          'ga': ['Static GK', 'Monthly Current Affairs', 'Sports', 'Science & Technology', 'Environment'],
+          'logic': ['Coding-Decoding', 'Blood Relations', 'Syllogisms', 'Seating Arrangement', 'Data Sufficiency'],
+          'reasoning': ['Series Completion', 'Analogies', 'Puzzles', 'Direction Sense', 'Input-Output']
         };
 
-        const sectionLower = section.id.toLowerCase();
-        let topic = 'Concept';
-        for (const [key, list] of Object.entries(topics)) {
-          if (sectionLower.includes(key)) {
-            topic = list[i % list.length];
-            break;
-          }
-        }
+        let topicList = topics[Object.keys(topics).find(k => sectionKey.includes(k)) || 'maths'] || ['Concept'];
+        const topic = topicList[(i + seed) % topicList.length];
+
+        const templates = [
+          `In the context of ${config.name} ${section.label}, which of the following is a fundamental application of ${topic}?`,
+          `According to the standard curriculum for ${section.label}, what is the primary objective of studying ${topic}?`,
+          `A student preparing for ${config.name} is asked to analyze ${topic}. Which principle is most critical for this analysis?`,
+          `Which of the following scenarios best illustrates the practical utility of ${topic} in the ${section.label} section?`,
+          `Identify the most accurate statement regarding the role of ${topic} in achieving a high percentile in ${config.name}.`,
+          `When solving problems related to ${topic} in ${section.label}, which of these factors must be prioritized?`
+        ];
+        
+        const template = templates[(i + seed) % templates.length];
 
         questions.push({
           id: idCounter,
           sectionId: section.id,
-          text: `Which of the following best describes the core concepts and fundamental principles of ${topic} in the context of the ${config.name} ${section.label} examination?`,
+          text: template,
           options: [
-            `Comprehensive Overview of ${topic}`,
-            `Advanced Application of ${topic}`,
-            `Theoretical Foundation of ${topic}`,
-            `Practical Implementation of ${topic}`
+            `Comprehensive understanding of ${topic} principles`,
+            `Advanced analytical application in ${section.label}`,
+            `Theoretical optimization of ${topic} models`,
+            `Practical implementation in ${config.name} scenarios`
           ],
-          correctAnswer: (i % 4),
-          explanation: `This question evaluates your proficiency in ${topic} as required for the ${section.label} section of the ${config.name}. Mastering these concepts is critical for achieving a high percentile.`
+          correctAnswer: (i + seed) % 4,
+          explanation: `This evaluation focuses on your proficiency in ${topic} for the ${section.label} section of the ${config.name}. Mastery of these concepts is vital for a top score.`
         });
       }
       idCounter++;
