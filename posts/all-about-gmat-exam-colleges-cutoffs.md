@@ -38,6 +38,11 @@ The GMAT Focus Edition comprises three equally weighted sections, each lasting 4
 | **ISB (India)** | 655 - 675+ | 710 - 730 |
 | **IIM A/B/C (Exec)** | 665+ | 720+ |
 | **SPJIMR / MDI** | 625+ | 680+ |
+| **IMT / GIM / TAPMI** | 615+ | 670+ |
+
+---
+
+### 📍 Detailed List: [Top MBA Colleges in India Accepting GMAT Scores 2026](/blog/top-mba-colleges-india-accepting-gmat-2026)
 
 ---
 
