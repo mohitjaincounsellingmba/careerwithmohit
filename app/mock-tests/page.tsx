@@ -36,6 +36,7 @@ const categories = [
       { name: "SNAP Dec 2026", slug: "/tools/mock-test/snap", desc: "For SIBM & SCMHRD" },
       { name: "NMAT 2026", slug: "/tools/nmat-mock-test", tag: "New", tagColor: "bg-blue-500", desc: "For NMIMS & SPJIMR" },
       { name: "MHCET MBA", slug: "/tools/mhcet-mock-test", desc: "For JBIMS & SIMSREE" },
+      { name: "ATMA 2026", slug: "/tools/atma-mock-test", tag: "Latest", tagColor: "bg-emerald-500", desc: "For JBIMS & PUMBA" },
     ]
   },
   {

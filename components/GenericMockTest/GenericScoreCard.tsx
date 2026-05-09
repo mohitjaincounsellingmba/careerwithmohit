@@ -14,8 +14,9 @@ interface GenericScoreCardProps {
 }
 
 export function GenericScoreCard({ config, questions, answers, student, onReset }: GenericScoreCardProps) {
-  const { total, correct, sectionWise, percentage } = useMemo(() => {
+  const { total, correct, score, sectionWise, percentage } = useMemo(() => {
     let correctCount = 0;
+    let incorrectCount = 0;
     const sectionWise: Record<string, { correct: number; total: number; label: string }> = {};
     
     config.sections.forEach(sec => {
@@ -26,17 +27,26 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
       if(sectionWise[q.sectionId]) {
         sectionWise[q.sectionId].total += 1;
       }
-      if (answers[q.id] === q.correctAnswer) {
-        correctCount += 1;
-        if(sectionWise[q.sectionId]) {
-          sectionWise[q.sectionId].correct += 1;
+      if (answers[q.id] !== undefined) {
+        if (answers[q.id] === q.correctAnswer) {
+          correctCount += 1;
+          if(sectionWise[q.sectionId]) {
+            sectionWise[q.sectionId].correct += 1;
+          }
+        } else {
+          incorrectCount += 1;
         }
       }
     });
 
+    const marks = config.markingScheme 
+      ? (correctCount * config.markingScheme.correct) - (incorrectCount * config.markingScheme.negative)
+      : correctCount;
+
     return { 
       total: questions.length, 
       correct: correctCount, 
+      score: marks,
       sectionWise,
       percentage: Math.round((correctCount / questions.length) * 100)
     };
@@ -92,7 +102,7 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
           </div>
           
           <h2 className="text-6xl md:text-8xl font-black text-slate-900 leading-none">
-            {correct}<span className="text-slate-200">/</span><span className="text-slate-300 text-4xl md:text-5xl">{total}</span>
+            {score}<span className="text-slate-200">/</span><span className="text-slate-300 text-4xl md:text-5xl">{config.markingScheme ? config.totalQuestions * config.markingScheme.correct : total}</span>
           </h2>
           
           <div className="flex flex-wrap justify-center gap-6">

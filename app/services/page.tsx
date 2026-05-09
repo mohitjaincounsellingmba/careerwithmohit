@@ -7,18 +7,75 @@ import {
   Target,
   Handshake,
   Award,
-  Plane
+  Plane,
+  ArrowRight
 } from 'lucide-react';
 
 const SERVICES = [
-  { title: "MBA/PGDM Admission", icon: GraduationCap, description: "Strategic guidance for top-tier management programs.", color: "bg-blue-50", accent: "text-primary" },
-  { title: "B.Tech Admission", icon: Cpu, description: "Engineering admissions consulting for premier institutes.", color: "bg-emerald-50", accent: "text-secondary" },
-  { title: "BBA/BCA Admission", icon: LineChart, description: "Foundation mapping for early professional degrees.", color: "bg-amber-50", accent: "text-accent" },
-  { title: "Online MBA", icon: Globe, description: "Navigating flexible, global management education.", color: "bg-purple-50", accent: "text-purple-600" },
-  { title: "Abroad Education", icon: Plane, description: "Comprehensive guidance for international university admissions.", color: "bg-rose-50", accent: "text-rose-600" },
-  { title: "Internship Support", icon: Target, description: "Securing high-impact internships to build your profile.", color: "bg-cyan-50", accent: "text-cyan-600" },
-  { title: "Placement Support", icon: Handshake, description: "End-to-end interview prep and placement strategy.", color: "bg-indigo-50", accent: "text-indigo-600" },
-  { title: "Scholarship Support", icon: Award, description: "Identifying and applying for merit and need-based aid.", color: "bg-fuchsia-50", accent: "text-fuchsia-600" },
+  { 
+    title: "MBA/PGDM Admission", 
+    icon: GraduationCap, 
+    description: "Strategic guidance for top-tier management programs.", 
+    color: "bg-blue-50", 
+    accent: "text-primary",
+    href: "/colleges"
+  },
+  { 
+    title: "B.Tech Admission", 
+    icon: Cpu, 
+    description: "Engineering admissions consulting for premier institutes.", 
+    color: "bg-emerald-50", 
+    accent: "text-secondary",
+    href: "/colleges"
+  },
+  { 
+    title: "BBA/BCA Admission", 
+    icon: LineChart, 
+    description: "Foundation mapping for early professional degrees.", 
+    color: "bg-amber-50", 
+    accent: "text-accent",
+    href: "/colleges"
+  },
+  { 
+    title: "Online MBA", 
+    icon: Globe, 
+    description: "Navigating flexible, global management education.", 
+    color: "bg-purple-50", 
+    accent: "text-purple-600",
+    href: "/online-degree-certification"
+  },
+  { 
+    title: "Abroad Education", 
+    icon: Plane, 
+    description: "Comprehensive guidance for international university admissions.", 
+    color: "bg-rose-50", 
+    accent: "text-rose-600",
+    href: "/inquiry"
+  },
+  { 
+    title: "Internship Support", 
+    icon: Target, 
+    description: "Securing high-impact internships to build your profile.", 
+    color: "bg-cyan-50", 
+    accent: "text-cyan-600",
+    href: "/internships"
+  },
+  { 
+    title: "Placement Support", 
+    icon: Handshake, 
+    description: "End-to-end interview prep and placement strategy.", 
+    color: "bg-indigo-50", 
+    accent: "text-indigo-600",
+    href: "/jobs"
+  },
+  { 
+    title: "Scholarship Support", 
+    icon: Award, 
+    description: "Identifying and applying for merit and need-based aid.", 
+    color: "bg-fuchsia-50", 
+    accent: "text-fuchsia-600",
+    href: "/inquiry"
+  },
 ];
 
 export const metadata = {
@@ -49,20 +106,34 @@ export default function ServicesPage() {
           {SERVICES.map((service, idx) => {
             const Icon = service.icon;
             return (
-              <div
+              <Link
                 key={idx}
-                className={`group relative overflow-hidden rounded-xl border-4 border-foreground ${service.color} p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer`}
+                href={service.href}
+                prefetch={false}
+                className={`group relative overflow-hidden rounded-xl border-4 border-foreground ${service.color} p-8 transition-all duration-300 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] flex flex-col h-full`}
               >
-                <div className="mb-8 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white border-4 border-foreground transition-transform group-hover:scale-110">
-                  <Icon className={`h-8 w-8 ${service.accent}`} strokeWidth={2.5} />
+                {/* Decorative element */}
+                <div className="absolute top-0 right-0 -mt-4 -mr-4 h-16 w-16 rotate-45 bg-foreground/5 transition-transform group-hover:rotate-90 group-hover:bg-foreground/10" />
+                
+                <div className="mb-8 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white border-4 border-foreground transition-all duration-300 group-hover:scale-110 group-hover:-rotate-6 group-hover:bg-accent">
+                  <Icon className={`h-8 w-8 ${service.accent} group-hover:text-foreground`} strokeWidth={2.5} />
                 </div>
-                <h3 className="font-display text-2xl font-bold tracking-tight text-foreground mb-4">
+                
+                <h3 className="font-display text-2xl font-black tracking-tight text-foreground mb-4 group-hover:text-primary transition-colors">
                   {service.title}
                 </h3>
-                <p className="text-base font-medium text-gray-800 leading-relaxed">
+                
+                <p className="text-base font-bold text-gray-700 leading-relaxed italic mb-8">
                   {service.description}
                 </p>
-              </div>
+                
+                <div className="mt-auto flex items-center justify-between pt-4 border-t-2 border-foreground/10">
+                  <span className="text-xs font-black uppercase tracking-widest text-foreground/60 group-hover:text-primary transition-colors">
+                    Consult Now
+                  </span>
+                  <ArrowRight className="h-5 w-5 text-foreground transition-transform group-hover:translate-x-2" strokeWidth={3} />
+                </div>
+              </Link>
             );
           })}
         </div>

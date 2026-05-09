@@ -29,6 +29,10 @@ export interface ExamConfig {
   faqs?: FAQItem[];
   examDetails?: ExamDetail[];
   topCollegesList?: { name: string; cutoff: string; link?: string }[];
+  markingScheme?: {
+    correct: number;
+    negative: number;
+  };
 }
 
 export interface GenericQuestion {
@@ -62,7 +66,8 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { name: 'NIT Rourkela', cutoff: '99.2+ %ile' },
       { name: 'IIIT Hyderabad', cutoff: '99.9+ %ile' },
       { name: 'IIIT Delhi', cutoff: '98.5+ %ile' }
-    ]
+    ],
+    markingScheme: { correct: 4, negative: 1 }
   },
   {
     id: 'jee-advanced',
@@ -224,7 +229,8 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { name: 'VMMC Delhi', cutoff: '690+ Marks' },
       { name: 'JIPMER Puducherry', cutoff: '685+ Marks' },
       { name: 'KGMU Lucknow', cutoff: '675+ Marks' }
-    ]
+    ],
+    markingScheme: { correct: 4, negative: 1 }
   },
   {
     id: 'clat',
@@ -301,7 +307,8 @@ export const EXAM_CONFIGS: ExamConfig[] = [
         title: 'Marking Scheme & Sectional Strategy',
         content: 'CAT follows a strict marking scheme: +3 marks for every correct answer and -1 mark for every incorrect MCQ. TITA (Type in The Answer) questions do not have negative marking. It is crucial to maximize accuracy in VARC, choose the right sets in DILR, and manage time smartly in QA.'
       }
-    ]
+    ],
+    markingScheme: { correct: 3, negative: 1 }
   },
   {
     id: 'nmat',
@@ -893,9 +900,44 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { id: 'quant', label: 'Mathematical/Quant Ability', questionCount: 25 },
       { id: 'reasoning', label: 'Logical Reasoning', questionCount: 25 }
     ]
+  },
+  {
+    id: 'atma',
+    slug: 'atma',
+    name: 'ATMA 2026',
+    durationMinutes: 180,
+    totalQuestions: 180,
+    targetColleges: 'JBIMS, SIMSREE, PUMBA, Welingkar',
+    goodScore: '120+',
+    seoTitle: 'Free ATMA Mock Test 2026 | MBA Admission Practice Tool',
+    seoDescription: 'Take our free full-length ATMA 2026 mock test. 180 questions, 180 minutes pattern with 6 specialized sections. Get instant analytics and college cutoffs.',
+    sections: [
+      { id: 'analytical-1', label: 'Analytical Reasoning Skills I', questionCount: 30 },
+      { id: 'analytical-2', label: 'Analytical Reasoning Skills II', questionCount: 30 },
+      { id: 'verbal-1', label: 'Verbal Skills I', questionCount: 30 },
+      { id: 'verbal-2', label: 'Verbal Skills II', questionCount: 30 },
+      { id: 'quant-1', label: 'Quantitative Skills I', questionCount: 30 },
+      { id: 'quant-2', label: 'Quantitative Skills II', questionCount: 30 }
+    ],
+    features: [
+      'Strictly follows ATMA 2026 pattern (6 Sections)',
+      '30-Minute Sectional Timers',
+      'Negative Marking Simulation (-0.25)',
+      'Detailed Performance Report',
+      'Target College Cutoff Tracker'
+    ],
+    topCollegesList: [
+      { name: 'JBIMS Mumbai', cutoff: '99.9+ %ile' },
+      { name: 'SIMSREE Mumbai', cutoff: '99.7+ %ile' },
+      { name: 'PUMBA Pune', cutoff: '98+ %ile' },
+      { name: 'Welingkar Mumbai', cutoff: '97+ %ile' },
+      { name: 'MET Mumbai', cutoff: '95+ %ile' }
+    ],
+    markingScheme: { correct: 1, negative: 0.25 }
   }
 ];
 
+import { ATMA_QUESTIONS } from './atma-questions';
 import { CDS_QUESTIONS } from './cds-questions';
 import { REAL_EXAM_QUESTIONS } from './real-exam-questions';
 import { MHCET_QUESTIONS } from './mhcet-questions';
@@ -936,6 +978,9 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
       });
     });
     realData = catMap;
+  }
+  else if (config.slug === 'atma') {
+    realData = ATMA_QUESTIONS;
   }
 
   // Add a random offset based on setNumber and time to ensure variation
