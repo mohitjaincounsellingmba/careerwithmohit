@@ -33,6 +33,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/govt-exams-mock-test',
     '/services',
     '/sell-your-coaching-online',
+    '/partner-with-us',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
