@@ -13,7 +13,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Dehradun for 2026** to he
 
 ## 🏆 Top 10 BBA Colleges in Dehradun (2026 Rankings)
 
-### 1. UPES Dehradun
+### 1. [UPES Dehradun](/colleges/upes-dehradun)
 - **Approximate Annual Fees:** ₹2.5 Lakhs
 - **Entrance Exam / Admission Process:** Merit / UPESMET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -38,7 +38,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Dehradun for 2026** to he
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 6. Doon Business School
+### 6. [Doon Business School](/colleges/doon-business-school)
 - **Approximate Annual Fees:** ₹1.6 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

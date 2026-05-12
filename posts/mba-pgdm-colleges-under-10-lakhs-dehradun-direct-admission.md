@@ -2,7 +2,7 @@
 title: "Top MBA & PGDM Colleges Under 10 Lakhs in Dehradun (Direct Admission 2026)"
 date: "2026-03-26"
 description: "Escape the city rush. Explore the top MBA and PGDM colleges under 10 Lakhs in Dehradun, featuring DBS, UPES, Graphic Era, and DIT with direct admission details."
-keywords: ["MBA colleges under 10 lakhs in Dehradun", "PGDM direct admission Dehradun 2026", "Doon Business School placement", "Graphic Era MBA fees", "management quota MBA Uttarakhand", "best ROI MBA Dehradun"]
+keywords: ["MBA colleges under 10 lakhs in Dehradun", "PGDM direct admission Dehradun 2026", "[Doon Business School](/colleges/doon-business-school) placement", "Graphic Era MBA fees", "management quota MBA Uttarakhand", "best ROI MBA Dehradun"]
 ---
 
 Dehradun has evolved into a premium educational hub that offers a serene, pollution-free academic environment perfectly blended with rigorous management training. Dehradun's proximity to Delhi NCR adds to the robust placement drives handled by top institutions.
@@ -16,7 +16,7 @@ DBS is arguably the most famous name in Dehradun specifically for management edu
 *   **Why Choose**: High focus on agribusiness alongside core management, great practical exposure, global certifications (like SAP).
 *   **Admission Mode**: Profile-based direct admission via their internal GD/PI shortlisting. (MAT/CAT used as a weightage factor).
 
-### **2. Graphic Era (Deemed to be University)**
+### **2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)**
 Graphic Era is synonymous with Dehradun's education scene. It’s an enormous, vibrant campus that commands high respect amongst North Indian recruiters.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹7.50 Lakhs 
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA

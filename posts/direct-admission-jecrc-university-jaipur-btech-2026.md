@@ -1,5 +1,5 @@
 ---
-title: "Direct Admission in JECRC University Jaipur for B.Tech 2026: Fees, Management Quota & Process"
+title: "Direct Admission in [JECRC University](/colleges/jecrc-jaipur) Jaipur for B.Tech 2026: Fees, Management Quota & Process"
 date: "2026-04-02"
 description: "Complete guide to direct admission in JECRC University Jaipur for B.Tech 2026. Understand the merit-based process, management quota reality, fee structure, scholarships, and placement stats."
 keywords: ["direct admission JECRC University Jaipur BTech", "JECRC BTech admission 2026", "JECRC management quota", "JECRC University fees 2026", "JECRC Jaipur placements", "BTech admission Jaipur 2026"]
@@ -135,7 +135,7 @@ JECRC University has been improving its placement record year on year, with a fo
 
 - [REAP Counselling 2026 – Rajasthan B.Tech Admission Guide](/blog/reap-counselling-2026-rajasthan-btech-admission)
 - [JECRC University MBA Review 2026](/blog/jecrc-university-mba-review-2026)
-- [Direct Admission in Manipal University Jaipur for B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
+- [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) for B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
 - [All About JEE Exam – Complete Guide](/blog/all-about-jee-exam)
 - [B.Tech Specializations, Skills & Salary Guide](/blog/btech-specializations-skills-salary-2026-guide)
 

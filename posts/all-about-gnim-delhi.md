@@ -1,7 +1,7 @@
 ---
 title: "GNIM Delhi Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
-description: "Review of Guru Nanak Institute of Management (GNIM). Explore 2024 placement data, Punjabi Bagh campus, and faculty expertise."
+description: "Review of [Guru Nanak Institute of Management (GNIM)](/colleges/gnim-delhi). Explore 2024 placement data, Punjabi Bagh campus, and faculty expertise."
 keywords: ["GNIM Delhi review 2026", "GNIM placement 2024", "GNIM Delhi infrastructure", "IPU MBA colleges Delhi"]
 ---
 

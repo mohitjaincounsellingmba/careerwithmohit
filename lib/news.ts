@@ -14,7 +14,7 @@ export const NEWS_ITEMS: NewsItem[] = [
     category: "Board Results",
     date: "May 12, 2026",
     excerpt: "The wait for CBSE Class 12 results is nearing its end as DigiLocker and UMANG apps update status to 'Coming Soon'. Results are expected to be announced by May 15-18. Keep your admit card ready for verification.",
-    link: "/blog/cbse-12th-result-2026-expected-date.md"
+    link: "/blog/cbse-12th-result-2026-expected-date"
   },
   {
     id: 11,

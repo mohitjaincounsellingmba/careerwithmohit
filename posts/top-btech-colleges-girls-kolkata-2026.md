@@ -32,7 +32,7 @@ The most prestigious institution in West Bengal. For girls, JU offers an incredi
 - **Scholarships:** Access to the **Kanyashree Prakalpa** (Govt. of WB) for eligible female students.
 - **Safety:** One of the most active and inclusive student communities in East India.
 
-### 2. Sister Nivedita University (SNU)
+### 2. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU)
 A new-age private university specifically focused on modern tech stacks like AI, Data Science, and Cybersecurity. They have excellent high-security hostels specifically for female students within the campus.
 - **Top Recruiters:** Google, Microsoft, and global consulting firms.
 

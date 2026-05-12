@@ -48,8 +48,8 @@ The 200 questions are split equally among five distinct sections (40 questions e
 
 Colleges usually look at either the Composite Score (out of 800) or the overall Percentile.
 
-- **BIMTECH (Retail/Insurance), XIME Bangalore:** 85.0+ to 90.0+ Percentile (~650+ Score)
-- **Christ University, PUMBA Pune:** 80.0+ to 85.0+ Percentile (~600+ Score)
+- **BIMTECH (Retail/Insurance), [XIME Bangalore](/colleges/xime-bangalore):** 85.0+ to 90.0+ Percentile (~650+ Score)
+- **Christ University, [PUMBA Pune](/colleges/pumba-pune):** 80.0+ to 85.0+ Percentile (~600+ Score)
 - **NDIM Delhi, Jaipuria Institute, ITM Navi Mumbai:** 75.0+ to 80.0+ Percentile (~550+ Score)
 - **Tier-3 B-Schools:** Accept scores ranging from 50.0 to 70.0 Percentile.
 
@@ -65,7 +65,7 @@ While Tier-1 B-Schools prefer CAT/XAT, many excellent Tier-2 and PGDM colleges a
 - NDIM (New Delhi Institute of Management), Delhi
 - ITM Business School, Navi Mumbai
 - PIBM (Pune Institute of Business Management), Pune
-- Jagan Institute of Management Studies (JIMS), Rohini, Delhi
+- [Jagan Institute of Management Studies (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi), Delhi
 
 ---
 [👉 Thinking of taking MAT as a backup? Evaluate your college options with our admission experts!](/inquiry)

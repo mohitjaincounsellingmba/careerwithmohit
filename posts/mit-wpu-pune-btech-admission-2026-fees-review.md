@@ -1,7 +1,7 @@
 ---
 title: "MIT-WPU Pune B.Tech Admission 2026: Fees, Cutoffs & Placement Review"
 date: "2026-03-24"
-description: "Planning for B.Tech at MIT World Peace University (MIT-WPU) Pune? Get the latest on JEE Main/MHT-CET cutoffs, semester-wise fees, and its incredible ₹51 LPA placement record."
+description: "Planning for B.Tech at [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune) Pune? Get the latest on JEE Main/MHT-CET cutoffs, semester-wise fees, and its incredible ₹51 LPA placement record."
 keywords: ["MIT-WPU Pune BTech admission 2026", "MIT Pune BTech fees", "MIT-WPU JEE Main cutoff rank", "MIT-WPU MHT-CET cutoff", "MIT-WPU placement 2025 review", "MIT World Peace University average package", "MIT-WPU engineering placements"]
 ---
 

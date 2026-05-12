@@ -2,7 +2,7 @@
 title: "Best MBA Colleges with Low Fees & High ROI 2026 — FMS, JBIMS, TISS & More"
 date: "2026-04-21"
 category: "MBA Admissions"
-description: "Looking for an MBA that won't break the bank? Discover the top low-fee, high-ROI MBA colleges in India. Compare FMS Delhi, JBIMS, TISS, and PUMBA with placement-to-fee ratios."
+description: "Looking for an MBA that won't break the bank? Discover the top low-fee, high-ROI MBA colleges in India. Compare [FMS Delhi](/colleges/fms-delhi), JBIMS, TISS, and PUMBA with placement-to-fee ratios."
 keywords: ["best mba colleges with low fees and high roi 2026", "high roi mba india", "cheap mba colleges india fees", "fms delhi roi", "jbims mumbai roi", "tiss mumbai fees", "pumba pune fees roi", "government mba colleges in india with low fees"]
 ---
 
@@ -17,11 +17,11 @@ The answer is a resounding **YES**. India is home to several elite, government-r
 | College | Total Fees (2 Yrs) | Avg. Placement | ROI % (Approx) |
 |---|---|---|---|
 | **FMS Delhi** | ₹2.0 Lakhs | ₹34.10 LPA | **1700%** |
-| **JBIMS Mumbai** | ₹6.0 Lakhs | ₹28.02 LPA | **460%** |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | ₹6.0 Lakhs | ₹28.02 LPA | **460%** |
 | **TISS Mumbai** | ₹1.8 Lakhs | ₹27.22 LPA | **1500%** |
 | **DSE Delhi** | ₹0.5 Lakhs | ₹14.50 LPA | **2900%** |
 | **SIMSREE Mumbai** | ₹1.4 Lakhs | ₹15.20 LPA | **1000%** |
-| **PUMBA Pune** | ₹1.5 Lakhs | ₹9.40 LPA | **600%** |
+| **[PUMBA Pune](/colleges/pumba-pune)** | ₹1.5 Lakhs | ₹9.40 LPA | **600%** |
 | **SRCC (GBO)** | ₹6.4 Lakhs | ₹12.73 LPA | **200%** |
 | **DFS (Delhi Univ)**| ₹0.3 Lakhs | ₹14.50 LPA | **4800%** |
 

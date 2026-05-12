@@ -16,13 +16,13 @@ If you want to work on projects like ChatGPT, self-driving algorithms, or global
 
 | College | Specialization Offered | Entrance Exam | Avg. Package |
 |---|---|---|---|
-| **VIT Vellore** | AI & Machine Learning | VITMEE | ₹8.5 - 14.5 LPA |
+| **[VIT Vellore](/colleges/vit-vellore)** | AI & Machine Learning | VITMEE | ₹8.5 - 14.5 LPA |
 | **MIT-WPU Pune** | Data Science & Cloud | MIT-WPU CET | ₹7.0 - 11.5 LPA |
 | **PES University** | Big Data & Analytics | PESSAT / PGCET| ₹8.0 - 13.0 LPA |
 | **SICSR Pune** | Data Science & NLP | SNAP / Merit | ₹7.5 - 11.0 LPA |
 | **SRM IST** | Artificial Intelligence | SRM JEE-M | ₹7.0 - 10.5 LPA |
 | **Bennett Univ** | Generative AI & Cloud | Merit / CUET | ₹6.5 - 9.5 LPA |
-| **Amity University** | Data Science | Merit-based | ₹5.5 - 8.5 LPA |
+| **[Amity University](/colleges/amity-noida)** | Data Science | Merit-based | ₹5.5 - 8.5 LPA |
 
 ---
 

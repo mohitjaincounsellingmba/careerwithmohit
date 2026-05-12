@@ -111,7 +111,7 @@ Cognizant, Infosys, IBM, Capgemini, TCS, Adani Power, Wipro, HCL, Tech Mahindra
 
 ### **SKIT Jaipur vs. Other Jaipur Engineering Colleges**
 
-| Parameter | SKIT Jaipur | Poornima College | JECRC University | MUJ |
+| Parameter | SKIT Jaipur | Poornima College | [JECRC University](/colleges/jecrc-jaipur) | MUJ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Affiliation** | RTU | RTU | Private Univ. | Deemed Univ. |
 | **Total 4-Year Fees** | ₹4.6–5.2 L | ₹3.5–5 L | ~₹9.8 L | ₹12.6–18 L |

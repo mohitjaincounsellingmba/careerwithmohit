@@ -58,7 +58,7 @@ In states like **Karnataka and Maharashtra**, private unaided colleges (affiliat
 **Q1. is direct BBA admission legal?**
 Yes. Private and Deemed universities are legally allowed to have a management or NRI quota as per the Supreme Court of India guidelines. However, it must be reported to the respective state education body.
 
-**Q2. does Christ University Bangalore have management quota?**
+**Q2. does [Christ University Bangalore](/colleges/christ-university-bangalore) have management quota?**
 Christ University has a very limited "Institutional Preference" and "Management Quota." It is strictly based on high 12th marks and a personal interview with the management. Don't believe outside agents promising "guaranteed seats" for Christ.
 
 **Q3. can I get NMIMS Mumbai BBA through management quota?**

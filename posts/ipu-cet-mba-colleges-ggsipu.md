@@ -29,7 +29,7 @@ Consistently ranked #1 among private affiliates for academics and discipline.
 - **Avg. Placement**: ₹7.0 LPA
 - **Top Recruiters**: KPMG, Infosys, Accenture, Federal Bank, TCS.
 
-#### 3. Jagan Institute of Management Studies (JIMS), Rohini
+#### 3. [Jagan Institute of Management Studies (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
 Famous for its placement cell and massive industry network.
 - **Fees**: ₹3.50 Lakhs (Total)
 - **Avg. Placement**: ₹7.5 LPA
@@ -65,7 +65,7 @@ Accredited with 'A' Grade, known for its academic rigor.
 - **Avg. Placement**: ₹5.5 LPA
 - **Top Recruiters**: Amazon, Flipkart, IndusInd Bank, Zomato.
 
-#### 9. Tecnia Institute of Advanced Studies, Rohini
+#### 9. [Tecnia Institute of Advanced Studies](/colleges/tecnia-institute-of-advanced-studies-delhi), Rohini
 Centrally located with a focus on modern pedagogy and industry visits.
 - **Fees**: ₹3.00 Lakhs (Total)
 - **Avg. Placement**: ₹5.2 LPA

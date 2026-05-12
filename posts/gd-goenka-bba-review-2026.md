@@ -89,8 +89,8 @@ Admissions for the 2026 cycle are currently open. The selection process is more 
 
 ## ❓ Comparison: GD Goenka vs. Others
 If you are still confused, check our comparison guides:
-*   **GD Goenka vs. Amity University:** Amity has a larger brand, but Goenka offers a more personalized "campus-life" experience.
-*   **GD Goenka vs. Bennett University:** Both are premium; Bennett is stronger for Tech-integrated business, while Goenka is great for core Marketing and Finance.
+*   **GD Goenka vs. [Amity University](/colleges/amity-noida):** Amity has a larger brand, but Goenka offers a more personalized "campus-life" experience.
+*   **GD Goenka vs. [Bennett University](/colleges/bennett-greater-noida):** Both are premium; Bennett is stronger for Tech-integrated business, while Goenka is great for core Marketing and Finance.
 
 [👉 Apply to GD Goenka BBA 2026](/inquiry) | [💬 Get a Private Career Counselling Session](/inquiry)
 

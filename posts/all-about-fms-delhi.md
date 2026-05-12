@@ -1,5 +1,5 @@
 ---
-title: "All About FMS Delhi: Fees, Placements, Cutoff & True ROI Review 2026"
+title: "All About [FMS Delhi](/colleges/fms-delhi): Fees, Placements, Cutoff & True ROI Review 2026"
 date: "2026-03-13"
 description: "The ultimate guide to the Faculty of Management Studies (FMS), Delhi University. Discover MBA fees, CAT cutoffs, staggering placement packages, and what makes FMS the highest ROI B-School in India."
 keywords: ["FMS Delhi review", "FMS Delhi placements 2026", "FMS MBA fees", "FMS cutoff CAT", "Faculty of Management Studies Delhi University", "highest ROI MBA India", "top MBA colleges in Delhi"]
@@ -37,7 +37,7 @@ FMS offers a highly customizable curriculum with electives across:
 
 ## Placement Statistics (2025-2026)
 
-FMS consistently matches or beats the average packages of IIM Ahmedabad, Bangalore, and Calcutta.
+FMS consistently matches or beats the average packages of [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta.
 
 - **Highest Placement Package:** ₹1.23 Crores (Domestic/International)
 - **Average Placement Package:** ₹34.10 LPA

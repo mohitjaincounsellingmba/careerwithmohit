@@ -60,7 +60,7 @@ For a 2026 Law student, Mumbai offers a distinct edge:
 ## 🏗️ Direct Law Admission in Mumbai 2026
 
 If you miss the MAH CET or CLAT deadlines, several private universities in the greater Mumbai area offer merit-based direct entry:
-- **Amity University (Navi Mumbai):** High-end campus with global tie-ups.
+- **[Amity University](/colleges/amity-noida) (Navi Mumbai):** High-end campus with global tie-ups.
 - **School of Law, DY Patil (Nerul):** Good brand value and decent placements in the Navi Mumbai and Thane regions.
 - **Somaiya University:** A growing law school with strong traditional academic values.
 

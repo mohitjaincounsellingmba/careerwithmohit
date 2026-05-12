@@ -1,7 +1,7 @@
 ---
 title: "Sparsh Global Business School Review 2026: Placements & ROI"
 date: "2026-03-18"
-description: "Read our deep-dive review of Sparsh Global Business School (SGBS) for 2026. Explore the modern campus, 2025 placement success (avg ₹12 LPA), and industry mentorship."
+description: "Read our deep-dive review of [Sparsh Global Business School (SGBS)](/colleges/sparsh-global-greater-noida) for 2026. Explore the modern campus, 2025 placement success (avg ₹12 LPA), and industry mentorship."
 keywords: ["Sparsh Global Business School review", "SGBS Greater Noida placement", "Sparsh Global fees 2026", "Best PGDM in Greater Noida"]
 ---
 

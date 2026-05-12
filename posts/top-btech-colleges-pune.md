@@ -30,12 +30,12 @@ COEP is a legacy institution and one of the oldest engineering colleges in Asia.
 - **Expected Cutoff (CSE):** 99.5+ Percentile
 - **Top Recruiters:** Google, Microsoft, Tata Motors, Bajaj Auto.
 
-## 💻 2. Pune Institute of Computer Technology (PICT)
+## 💻 2. [Pune Institute of Computer Technology (PICT)](/colleges/pict-pune)
 If your goal is to land a job at a FAANG or a top-tier startup, PICT is the place to be. It is strictly focused on Computer Engineering, IT, and Electronics.
 - **Highest Package (2026 Trend):** ₹95.5 LPA (International)
 - **USP:** A rigorous academic environment that produces some of the best coders in Maharashtra.
 
-## 🌍 3. MIT World Peace University (MIT-WPU)
+## 🌍 3. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)
 Located in the heart of Kothrud, MIT-WPU is a private powerhouse. It offers a premium campus life and has one of the largest engineering student intakes in the city.
 - **CSE Total Fees:** ~₹16.5 Lakhs
 - **USP:** World-class infrastructure and massive industry-academia collaborations with global firms.

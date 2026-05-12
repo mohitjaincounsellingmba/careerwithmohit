@@ -23,7 +23,7 @@ In 2026, an online MBA from a **UGC-DEB approved university** is legally equival
 
 ---
 
-## 2. Amity University Online
+## 2. [Amity University](/colleges/amity-noida) Online
 Amity is a pioneer in digital education in India and holds several global accreditations (like WASC and QAA).
 
 *   **Key Highlights:** Offers diverse specializations, global faculty, and robust placement assistance through a dedicated career cell.

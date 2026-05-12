@@ -1,5 +1,5 @@
 ---
-title: "ISMS Pune review 2025: Placements, Fees and ROI"
+title: "[ISMS Pune](/colleges/isms-pune) review 2025: Placements, Fees and ROI"
 date: "2026-03-14"
 description: "Review of ISMS Pune MBA/PGDM: explore placements 2025, fees for international programs and why students choose it for marketing and business."
 keywords: ["ISMS Pune review 2025", "ISMS Pune placements", "ISMS Pune fees", "PGDM in ISMS Pune", "best ROI MBA college Pune", "ISMS Pune average package 2025"]

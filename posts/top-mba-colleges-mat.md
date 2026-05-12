@@ -46,7 +46,7 @@ These are the most sought-after B-schools for MAT aspirants:
 
 ### College Admission Statistics
 
-- **BIMTECH, Greater Noida**
+- **[BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)**
     - **Expected Cutoff**: 90+ Percentile
     - **Total Fees**: ₹18.5 - 19.5 Lakhs
     - **Avg. Placement**: ₹10.90 LPA
@@ -78,7 +78,7 @@ These are the most sought-after B-schools for MAT aspirants:
 Unlike CAT, which is a once-a-year battle, MAT gives you **multiple chances** to improve your score. However, many students fail to convert their scores into admissions because they apply to the wrong colleges.
 
 ### Key Takeaways for Aspirants:
-- **ROI vs. Brand**: Colleges like IMI Kolkata and Jaipuria offer exceptional ROI compared to high-fee private universities.
+- **ROI vs. Brand**: Colleges like [IMI Kolkata](/colleges/imi-kolkata) and Jaipuria offer exceptional ROI compared to high-fee private universities.
 - **Location Advantage**: Target colleges in hubs like Bangalore, Delhi-NCR, and Pune for better internship and job opportunities.
 - **Scholarships**: Many MAT-accepting colleges offer significant scholarships for 90+ percentilers.
 

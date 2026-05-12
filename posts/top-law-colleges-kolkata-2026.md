@@ -22,7 +22,7 @@ Choosing a Law school in Kolkata means access to the biggest law firms in East I
 | **Faculty of Law, CU** | WB JELET / Merit | ₹0.3 - 0.6 Lakhs | ₹4.0 - 6.0 LPA |
 | **School of Law, Amity** | Merit-based | ₹9.5 - 12.0 Lakhs | ₹3.8 - 6.5 LPA |
 | **St. Xavier's University** | Merit-based | ₹5.5 - 8.5 Lakhs | ₹4.2 - 6.0 LPA |
-| **Techno India University** | Merit-based | ₹4.5 - 7.5 Lakhs | ₹3.5 - 5.0 LPA |
+| **[Techno India University](/colleges/techno-india-university-kolkata)** | Merit-based | ₹4.5 - 7.5 Lakhs | ₹3.5 - 5.0 LPA |
 
 ---
 
@@ -59,7 +59,7 @@ For a 2026 Law student, Kolkata offers distinct advantages:
 ## 🏗️ Direct Law Admission in Kolkata 2026
 
 If you miss the CLAT or WB-specific merit deadlines, several reputable private universities offer merit-based direct entry:
-- **Amity University Kolkata:** A premium campus with global linkages and high-end moot labs.
+- **[Amity University](/colleges/amity-noida) Kolkata:** A premium campus with global linkages and high-end moot labs.
 - **Brainware University:** Focuses on affordable law degrees with a practical legal training component.
 - **TIU Kolkata:** Known for its diverse alumni base and strong connections with the local legal chambers.
 

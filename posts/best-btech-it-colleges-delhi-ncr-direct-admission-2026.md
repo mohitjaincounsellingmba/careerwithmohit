@@ -33,7 +33,7 @@ Delhi NCR is home to highly respected IPU-affiliated colleges and large private 
 *   **Management Quota:** Follows the 10% IPU direct admission guidelines. IT is slightly easier to secure here compared to MSIT/MAIT.
 *   **Average Package:** ₹6 - ₹8 LPA.
 
-### 3. Jaypee Institute of Information Technology (JIIT), Noida
+### 3. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida), Noida
 *   **The IT Advantage:** Jaypee is literally branded around Information Technology. Its rigorous curriculum creates robust coders capable of cracking high-tier product-based company interviews.
 *   **Admission Process:** Direct/NRI sponsored seats exist but require high board marks and timely application directly to the university.
 *   **Average Package:** ₹8 - ₹11 LPA.

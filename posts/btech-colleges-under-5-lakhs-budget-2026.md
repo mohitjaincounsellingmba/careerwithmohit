@@ -23,7 +23,7 @@ Delhi is home to some of the most subsidized engineering education in India, pri
 
 | College Name | Approx. Total Fees (4 Years) | Admission Path |
 |---|---|---|
-| **Jamia Millia Islamia (JMI)** | ~₹65,000 | JMI Entrance / JEE Main |
+| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | ~₹65,000 | JMI Entrance / JEE Main |
 | **USICT (IP University, Delhi)** | ~₹3.5 - 4 Lakhs | JEE Main (IPU Counselling) |
 | **G.B. Pant Govt. Engineering College** | ~₹2 - 2.5 Lakhs | JEE Main (JAC Delhi) |
 | **Ch. Brahm Prakash Govt. Engg. College**| ~₹2 - 2.5 Lakhs | JEE Main (JAC Delhi) |
@@ -93,7 +93,7 @@ Jaipur and surrounding areas offer several state-affiliated colleges with highly
 
 | College Name | Approx. Total Fees (4 Years) | Admission Path |
 |---|---|---|
-| **MNIT Jaipur (with TFW/Scholarship)** | ~₹2 - 5 Lakhs | JEE Main (JoSAA) |
+| **[MNIT Jaipur](/colleges/mnit-jaipur) (with TFW/Scholarship)** | ~₹2 - 5 Lakhs | JEE Main (JoSAA) |
 | **University College of Engg. (RTU Kota)**| ~₹2.5 - 3.5 Lakhs | REAP / JEE Main |
 | **MBM Engineering College (Jodhpur)** | ~₹1.5 - 2 Lakhs | REAP / JEE Main |
 | **Govt. Engineering College (Ajmer)** | ~₹2.5 - 3.5 Lakhs | REAP / JEE Main |

@@ -45,7 +45,7 @@ Unlike CAT, NMAT has equal weightage and an equal number of questions per sectio
 NMIMS evaluates candidates based on overall scaled scores as well as strict sectional cutoffs.
 
 - **NMIMS Mumbai (Flagship MBA / Core HR):** 235 - 245+ Score
-- **NMIMS Bangalore / Navi Mumbai:** 220 - 230+ Score
+- **[NMIMS Bangalore](/colleges/nmims-bangalore) / Navi Mumbai:** 220 - 230+ Score
 - **K. J. Somaiya (Mumbai), XIMB (HR Program):** 225+ Score
 - **TAPMI Manipal, Great Lakes, SOIL Gurgaon:** 200 - 215+ Score
 
@@ -59,7 +59,7 @@ NMIMS evaluates candidates based on overall scaled scores as well as strict sect
 - Great Lakes Institute of Management (GLIM), Chennai
 - SOIL (School of Inspired Leadership), Gurgaon
 - IFMR Graduate School of Business (Krea University)
-- BML Munjal University, Gurgaon
+- [BML Munjal University](/colleges/bml-munjal-gurgaon), Gurgaon
 
 ---
 [👉 Not sure if you should retake the NMAT? Talk to our experts to analyze your score!](/inquiry)

@@ -2,7 +2,7 @@
 title: "Free VITEEE Mock Test 2026: VIT Engineering Entrance Practice"
 date: "2026-04-01"
 description: "Take our free VITEEE 2026 mock test to boost your engineering entrance rank. Practice 125 questions in 150 minutes covering Maths, Physics, Chemistry, English, and Aptitude."
-keywords: ["VITEEE mock test 2026", "VIT Vellore admission", "VIT engineering entrance exam", "VITEEE online practice paper", "BTech in VIT", "free VIT mock test"]
+keywords: ["VITEEE mock test 2026", "[VIT Vellore](/colleges/vit-vellore) admission", "VIT engineering entrance exam", "VITEEE online practice paper", "BTech in VIT", "free VIT mock test"]
 ---
 
 The **VIT Engineering Entrance Examination (VITEEE)** is the official entrance gateway to secure your seat at Vellore Institute of Technology (VIT) campuses across Vellore, Chennai, AP, and Bhopal. VIT is consistently ranked among the top private engineering universities in India.

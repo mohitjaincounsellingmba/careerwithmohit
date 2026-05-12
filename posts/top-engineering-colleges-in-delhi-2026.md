@@ -73,7 +73,7 @@ IGDTUW is India's premier technical university exclusively for women. The univer
 * **Highest Placement:** ₹82.0 LPA
 * **Top Recruiters:** Google, Microsoft, Uber, Atlassian, Intuit
 
-## 7. Jamia Millia Islamia (JMI)
+## 7. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
 A central university with a rich history, Jamia Millia Islamia offers highly subsidized engineering education with excellent ROI. It consistently ranks in the top 20 engineering colleges in the NIRF rankings.
 
 * **Exams Accepted:** JEE Main

@@ -238,7 +238,7 @@ One of the biggest advantages of Central Universities over private colleges is t
 | 4 | Banaras Hindu University (BHU) | Varanasi |
 | 5 | Aligarh Muslim University (AMU) | Aligarh |
 | 6 | University of Hyderabad (UoH) | Hyderabad |
-| 7 | Jamia Millia Islamia (JMI) | New Delhi |
+| 7 | [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) | New Delhi |
 | 8 | Tezpur University (TU) | Assam |
 | 9 | Visva-Bharati University (VBU) | West Bengal |
 | 10 | Pondicherry University (PU) | Puducherry |

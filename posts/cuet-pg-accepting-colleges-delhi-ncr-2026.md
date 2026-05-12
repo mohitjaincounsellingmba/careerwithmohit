@@ -22,7 +22,7 @@ JNU is globally renowned for its research and social sciences programs. Its **At
 *   **Top Programs:** MA (International Relations), MSc, MBA.
 *   **Admission Process:** CUET PG score (weightage varies by department).
 
-### **3. Jamia Millia Islamia (JMI)**
+### **3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)**
 While Jamia has its own entrance for many courses, it has integrated CUET PG for several specific postgraduate programs.
 *   **Programs:** MA Persian, MA Sanskrit, MSc Disaster Management, etc. (Always check the latest list as it expands annually).
 
@@ -36,10 +36,10 @@ A state university focused on social sciences, humanities, and management. It is
 
 ### **6. Top Private Universities in Delhi NCR**
 Several top-tier private universities in Noida, Greater Noida, and Gurugram also accept CUET PG scores for admissions into their MBA and other PG programs.
-*   **Amity University (Noida/Gurugram)**
+*   **[Amity University](/colleges/amity-noida) (Noida/Gurugram)**
 *   **Galgotias University (Greater Noida)**
-*   **Sharda University (Greater Noida)**
-*   **BML Munjal University (Gurugram)**
+*   **[Sharda University](/colleges/sharda-greater-noida) (Greater Noida)**
+*   **[BML Munjal University](/colleges/bml-munjal-gurgaon) (Gurugram)**
 *   **K.R. Mangalam University (Gurugram)**
 
 ---

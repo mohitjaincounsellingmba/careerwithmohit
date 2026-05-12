@@ -13,8 +13,8 @@ tags: ["GMAT 2026", "MBA Admissions", "ISB", "IIM PGPX", "Study in India", "GMAT
 | Business School | Primary Program | GMAT Type Accepted | Approx. Cutoff (Focus) |
 | :--- | :--- | :--- | :--- |
 | **ISB Hyderabad/Mohali** | PGP (1-Year) | Focus & Classic | 665+ |
-| **IIM Ahmedabad** | PGPX (Exec) | Focus & Classic | 685+ |
-| **SPJIMR Mumbai** | PGDM / PGPM | Focus & Classic | 645+ |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | PGPX (Exec) | Focus & Classic | 685+ |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | PGDM / PGPM | Focus & Classic | 645+ |
 | **Great Lakes** | PGPM / PGDM | Focus & Classic | 615+ |
 | **XLRI Jamshedpur** | PGDM (Exec) | Focus & Classic | 665+ |
 
@@ -43,8 +43,8 @@ ISB is the most prominent GMAT-accepting school in India. Its flagship **PGP (Po
 ### **IIM Executive MBA Programs**
 Most top IIMs (Ahmedabad, Bangalore, Calcutta, Lucknow, Indore) accept GMAT for their 1-year full-time residential programs.
 - **IIM Ahmedabad (PGPX):** Requires 4+ years of work-ex.
-- **IIM Bangalore (EPGP):** Focuses heavily on professional achievements.
-- **IIM Calcutta (MBAEx):** Known for its analytical rigour.
+- **[IIM Bangalore](/colleges/iim-bangalore) (EPGP):** Focuses heavily on professional achievements.
+- **[IIM Calcutta](/colleges/iim-calcutta) (MBAEx):** Known for its analytical rigour.
 
 ### **SPJIMR Mumbai**
 SPJIMR is unique because it accepts GMAT for its two-year flagship PGDM program for Indian residents, not just NRIs.
@@ -57,7 +57,7 @@ For students targeting regular 2-year programs, the following colleges accept GM
 
 | College | Location | Exams Accepted | Avg. Package |
 | :--- | :--- | :--- | :--- |
-| **MDI Gurgaon** | Gurgaon | CAT / GMAT (NRI/Intl) | ₹27.67 LPA |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | Gurgaon | CAT / GMAT (NRI/Intl) | ₹27.67 LPA |
 | **IMT Ghaziabad** | Ghaziabad | CAT / XAT / GMAT | ₹17.35 LPA |
 | **XIMB** | Bhubaneswar | CAT / XAT / GMAT / X-GMT | ₹20.03 LPA |
 | **GIM Goa** | Goa | CAT / XAT / GMAT / CMAT | ₹14.87 LPA |
@@ -70,7 +70,7 @@ If you are looking for an accelerated career path, these colleges are excellent 
 
 1.  **Great Lakes Institute of Management (Chennai & Gurgaon):** Their PGPM program is highly rated for candidates with 2-8 years of experience.
 2.  **Masters' Union (Gurgaon):** A new-age business school focusing on technology and leadership, accepting GMAT for its PGP TBM.
-3.  **SOIL Institute of Management (Gurgaon):** Focuses on leadership and social responsibility.
+3.  **[SOIL Institute of Management](/colleges/soil-institute-gurgaon) (Gurgaon):** Focuses on leadership and social responsibility.
 
 ---
 

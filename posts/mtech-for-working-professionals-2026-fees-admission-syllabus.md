@@ -70,7 +70,7 @@ A **2-year postgraduate engineering program** in hybrid format — online live s
 
 ---
 
-### 4. Lingaya's Vidyapeeth
+### 4. [Lingaya's Vidyapeeth](/colleges/lingayas-faridabad)
 
 | Feature | Details |
 |---|---|

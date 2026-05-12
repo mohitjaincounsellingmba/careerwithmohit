@@ -16,7 +16,7 @@ AIMS is consistently ranked among the top private B-schools in South India. Know
 *   **Why Choose**: High academic discipline, excellent startup incubation, and dual-specialization options.
 *   **Admission Mode**: Direct admission/institute-level seats through profile evaluation (MAT/KMAT scores accepted).
 
-### **2. ISBR Business School (International School of Business & Research)**
+### **2. [ISBR Business School](/colleges/isbr-bangalore) (International School of Business & Research)**
 ISBR has seen a massive surge in popularity, especially for its new-age PGDM programs focused on Data Science and Business Analytics.
 *   **Total Fees (Approx.)**: ₹9.00 - ₹10.00 Lakhs (Depending on program chosen)
 *   **Average Placement**: ₹7.5 LPA - ₹8.5 LPA

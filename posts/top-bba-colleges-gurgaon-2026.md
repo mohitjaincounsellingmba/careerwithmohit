@@ -13,21 +13,21 @@ Here are the **Top BBA Colleges in Gurgaon for 2026**.
 
 ## 🏛️ Top BBA Institutions in Gurgaon
 
-### 1. BML Munjal University (Hero Group)
+### 1. [BML Munjal University](/colleges/bml-munjal-gurgaon) (Hero Group)
 - **Rank:** NIRF #37 (Management)
 - **Approx. Fees:** ₹3.0 - 4.5 Lakhs (Annual)
 - **Average Placement:** ₹6 - 8 LPA (Highest ₹12 LPA+)
 - **Entrance Exam:** BMU-MAT / Merit-based
 - **USP:** Supported by the Hero Group; heavy focus on experiential learning and mentors from Imperial College London.
 
-### 2. Amity University, Gurugram
+### 2. [Amity University](/colleges/amity-noida), Gurugram
 - **Rank:** #24 (IIRF 2025)
 - **Approx. Fees:** ₹1.6 - 2.5 Lakhs (Annual)
 - **Average Placement:** ₹4 - 6 LPA (Highest ₹61 LPA)
 - **Entrance Exam:** Amity Entrance / Interview
 - **USP:** Premium infrastructure and a record of placing students in top-tier global consulting firms.
 
-### 3. GD Goenka University, Gurgaon
+### 3. [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon)
 - **Approx. Fees:** ₹2.0 - 2.5 Lakhs (Annual)
 - **Average Placement:** ₹4 - 5 LPA
 - **Entrance Exam:** GD Goenka Test (GATA)

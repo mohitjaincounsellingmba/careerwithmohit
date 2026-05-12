@@ -1,5 +1,5 @@
 ---
-title: "All About Masters' Union, Gurgaon: Fees, Placements, and Reality Check (2026)"
+title: "All About [Masters' Union, Gurgaon](/colleges/masters-union-gurgaon): Fees, Placements, and Reality Check (2026)"
 date: "2026-03-13"
 description: "Is Masters' Union worth the hype? Read our comprehensive review covering PGP TBM fees, MU-BAAT cutoff, staggering placement records, and the reality of this disruptive B-school."
 keywords: ["Masters Union review", "Masters Union placements 2026", "Masters Union fees", "MU-BAAT exam cutoff", "PGP TBM Masters Union", "Masters Union highest package", "Masters Union vs ISB"]

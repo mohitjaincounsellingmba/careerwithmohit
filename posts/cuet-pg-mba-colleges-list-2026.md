@@ -50,8 +50,8 @@ These universities offer modern infrastructure and specialized management tracks
 *   **Chandigarh University**, Mohali
 *   **Siksha 'O' Anusandhan (SOA) University**, Bhubaneswar
 *   **Graphic Era University**, Dehradun
-*   **BML Munjal University**, Gurgaon
-*   **Sharda University**, Greater Noida
+*   **[BML Munjal University](/colleges/bml-munjal-gurgaon)**, Gurgaon
+*   **[Sharda University](/colleges/sharda-greater-noida)**, Greater Noida
 *   **Tezpur University**, Assam
 *   **Alliance University**, Bangalore
 

@@ -26,7 +26,7 @@ Based on the latest trends, here is how your **raw score (out of 300)** translat
 
 | Raw Score (Out of 300) | Predicted Percentile | Admission Tier | Top Colleges to Target |
 | :--- | :--- | :--- | :--- |
-| **245+** | 99.8+ %ile | **Elite Tier** | TISS Mumbai (HRM), FMS Delhi |
+| **245+** | 99.8+ %ile | **Elite Tier** | TISS Mumbai (HRM), [FMS Delhi](/colleges/fms-delhi) |
 | **230 - 244** | 99+ %ile | **Elite Tier** | JNU Delhi, TISS (ODCL) |
 | **205 - 229** | 96 - 98%ile | **Top Tier** | BHU Varanasi, DAVV Indore |
 | **160 - 204** | 88 - 95%ile | **Mid Tier** | Pondicherry University, CU Rajasthan |

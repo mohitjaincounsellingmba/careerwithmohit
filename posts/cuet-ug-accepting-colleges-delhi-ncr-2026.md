@@ -20,7 +20,7 @@ The University of Delhi is the primary reason why CUET exists today. With over 7
 While famous for its PG courses, JNU offers exceptional BA (Hons.) in Foreign Languages for UG students through CUET.
 *   **Languages Offered:** French, Spanish, German, Japanese, Chinese, Persian, and more.
 
-### **3. Jamia Millia Islamia (JMI)**
+### **3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)**
 JMI accepts CUET scores for several high-demand UG programs including BA (Hons.) Economics, History, and Foreign Languages.
 *   **Note:** Not all programs in Jamia are under CUET; some still require their own entrance test.
 

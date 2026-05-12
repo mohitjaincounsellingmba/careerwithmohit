@@ -11,6 +11,8 @@ import {
   ArrowRight
 } from 'lucide-react';
 
+import { JsonLd } from "@/components/JsonLd";
+
 const SERVICES = [
   { 
     title: "MBA/PGDM Admission", 
@@ -88,8 +90,46 @@ export const metadata = {
 };
 
 export default function ServicesPage() {
+  const serviceSchema = {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Career Counselling & Admissions Consulting",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "CareerWithMohit",
+      "url": "https://www.careerwithmohit.online",
+      "logo": "https://www.careerwithmohit.online/logo.webp",
+      "image": "https://www.careerwithmohit.online/og-image.webp",
+      "telephone": "+91-9560020771",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Delhi NCR",
+        "addressCountry": "IN"
+      }
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Career Counselling Services",
+      "itemListElement": SERVICES.map((service, index) => ({
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": service.title,
+          "description": service.description
+        },
+        "position": index + 1
+      }))
+    }
+  };
+
   return (
     <div className="w-full bg-muted min-h-screen px-6 py-24 sm:px-12 sm:py-32 border-t-8 border-foreground">
+      <JsonLd data={serviceSchema} />
       <div className="mx-auto max-w-7xl">
         <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
           <div className="max-w-3xl">

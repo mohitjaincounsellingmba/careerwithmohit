@@ -1,7 +1,7 @@
 ---
 title: "Symbiosis MBA Institutes: Fees, Placements & SNAP Cutoffs (2025-2026)"
 date: "2026-03-16"
-excerpt: "A complete guide to all 16 Symbiosis MBA institutes including SIBM Pune, SCMHRD, and SIIB. Compare their fees, average packages, and expected SNAP cutoffs for 2026 admissions."
+excerpt: "A complete guide to all 16 Symbiosis MBA institutes including [SIBM Pune](/colleges/sibm-pune), SCMHRD, and SIIB. Compare their fees, average packages, and expected SNAP cutoffs for 2026 admissions."
 coverImage: "/images/blog/symbiosis-mba-campuses.jpg"
 author: "Mohit Jain"
 category: "Colleges"
@@ -156,7 +156,7 @@ For sports enthusiasts looking to enter the business side of sports franchises, 
 ## Quick Comparison: Top 8 Symbiosis Institutes
 
 *   **SIBM Pune:** Fees ~₹30L | Avg Package: ₹28.83 LPA | Cutoff: 98+
-*   **SCMHRD Pune:** Fees ~₹24L-₹30L | Avg Package: ₹21.47 LPA | Cutoff: 95+
+*   **[SCMHRD Pune](/colleges/scmhrd-pune):** Fees ~₹24L-₹30L | Avg Package: ₹21.47 LPA | Cutoff: 95+
 *   **SIIB Pune:** Fees ~₹13-₹22L | Avg Package: ₹16.20 LPA | Cutoff: 93+
 *   **SIBM Bengaluru:** Fees ~₹26.5L | Highest Package: ₹23.50 LPA | Cutoff: 90
 *   **SIOM Nashik:** Fees ~₹19L | Avg Package: ₹13.90 LPA | Cutoff: 87

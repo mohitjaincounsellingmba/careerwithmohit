@@ -28,7 +28,7 @@ Guru Gobind Singh Indraprastha University (GGSIPU) is a powerhouse for professio
 
 | College Name | Location | Approx. Fees (Annual) | Avg. Placement |
 | :--- | :--- | :--- | :--- |
-| **Maharaja Surajmal Institute (MSI)** | Janakpuri | ₹1.1 Lakhs | ₹4.5 - 6 LPA |
+| **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | Janakpuri | ₹1.1 Lakhs | ₹4.5 - 6 LPA |
 | **Maharaja Agrasen Institute (MAIMS)** | Rohini | ₹1.1 Lakhs | ₹4.5 - 5.5 LPA |
 | **Jagan Institute of Management Studies (JIMS)** | Rohini | ₹1.1 Lakhs | ₹4.2 - 5 LPA |
 | **IITM** | Janakpuri | ₹1.0 Lakhs | ₹3.5 - 4.5 LPA |
@@ -46,7 +46,7 @@ These universities offer world-class infrastructure, global exposure, and a mode
 - **Entrance Exam:** SET (Symbiosis Entrance Test)
 - **USP:** Part of the prestigious Symbiosis International brand; excellent for personality development and global networking.
 
-### 2. Bennett University, Greater Noida
+### 2. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
 - **Fees:** ₹2.5 - 3.2 Lakhs (Annual)
 - **Average Placement:** ₹5.3 LPA (Highest ₹21.5 LPA)
 - **Entrance Exam:** SAT India, CUET, or Merit-based.

@@ -2,7 +2,7 @@
 title: "Christ University (Central Campus) Bangalore MBA Admission 2026: Fees & Placements"
 date: "2026-03-24"
 description: "Planning for MBA at Christ University (Central Campus) Bangalore? Get the latest on MAT/CAT 2026 cutoffs, the rigorous selection process, detailed fee structure, and its ₹32 LPA placement record."
-keywords: ["Christ University Bangalore MBA admission 2026", "Christ University MBA fees 2026", "Christ University MBA cutoff 2025", "Christ University MBA placement review", "MBA at Christ Central Campus", "MAT score for Christ University MBA"]
+keywords: ["[Christ University Bangalore](/colleges/christ-university-bangalore) MBA admission 2026", "Christ University MBA fees 2026", "Christ University MBA cutoff 2025", "Christ University MBA placement review", "MBA at Christ Central Campus", "MAT score for Christ University MBA"]
 ---
 
 **Christ (Deemed to be University)**, particularly its Central Campus on Hosur Road, Bangalore, is a top-tier destination for MBA aspirants in India. Known for its strict discipline, industry-oriented curriculum, and high-tech urban campus, the **School of Business and Management (SBM)** at Christ is consistently ranked among the top private B-schools.

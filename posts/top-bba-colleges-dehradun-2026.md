@@ -2,7 +2,7 @@
 title: "Top BBA Colleges in Dehradun 2026: Rankings, Fees, and Placements"
 date: "2026-03-15"
 description: "Explore the best BBA colleges in Dehradun for 2026. Compare UPES, Graphic Era, and IMS Unison with detailed fee structures and placement reports."
-keywords: ["top BBA colleges Dehradun", "best BBA colleges in Dehradun", "UPES Dehradun BBA fees", "Graphic Era BBA placements", "BBA admission Dehradun 2026"]
+keywords: ["top BBA colleges Dehradun", "best BBA colleges in Dehradun", "[UPES Dehradun](/colleges/upes-dehradun) BBA fees", "Graphic Era BBA placements", "BBA admission Dehradun 2026"]
 ---
 
 Dehradun has long been known as the school capital of India, but it is now equally famous for its higher education institutes. Nestled in the foothills of the Himalayas, it offers a peaceful yet competitive environment for BBA students.
@@ -19,7 +19,7 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 - **Entrance Exam:** UPESMET-UG / CUET
 - **USP:** Focused on niche specializations like Digital Business and Logistics.
 
-### 2. Graphic Era (Deemed to be University)
+### 2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)
 - **Rank:** NAAC A+ Rated
 - **Approx. Fees:** ₹1.15 - 1.45 Lakhs (Annual)
 - **Average Placement:** ₹4.7 - 7.4 LPA (Highest ₹53 LPA)

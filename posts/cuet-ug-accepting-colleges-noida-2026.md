@@ -11,7 +11,7 @@ If you are a student targeting **Noida for the 2026-27 session**, here are the t
 
 ---
 
-### **1. Amity University, Noida**
+### **1. [Amity University, Noida](/colleges/amity-university-noida)**
 One of the most expansive and high-tech private universities in India.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, BA, B.Sc.
 *   **USP:** World-class infrastructure and high-tier placements.
@@ -21,7 +21,7 @@ While technical, JIIT offers several multidisciplinary tracks through various en
 *   **Programs:** Integrated B.Tech, BBA, B.Sc.
 *   **USP:** A top-tier institute known for its high academic standards in technology.
 
-### **3. Noida International University (NIU)**
+### **3. [Noida International University (NIU)](/colleges/niu-greater-noida)**
 Located in Greater Noida East, this university offers multidisciplinary education.
 *   **Programs:** BA (Hons), B.Com (Hons), B.Sc, B.Tech.
 *   **USP:** Global exposure and a large international student community.

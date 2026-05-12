@@ -56,7 +56,7 @@ For an MCA student, Bangalore offers more than just a degree:
 If you miss the PGCET deadlines, several top-tier private universities offer merit-based direct entry:
 - **Alliance University:** Premium labs and global exposure.
 - **Presidency University:** Good technical pods with affordable private fees.
-- **Reva University:** One of the fastest-growing private MCA campuses in North Bangalore.
+- **[Reva University](/colleges/reva-university-bangalore):** One of the fastest-growing private MCA campuses in North Bangalore.
 
 ---
 

@@ -44,7 +44,7 @@ Because there is no negative marking, cutoffs for top colleges skyrocket.
 
 - **JBIMS (Jamnalal Bajaj), Mumbai:** 99.99 Percentile (Score: ~145+ out of 200)
 - **SIMSREE (Sydenham), Mumbai:** 99.95 Percentile (Score: ~135+ out of 200)
-- **Welingkar & PUMBA Pune:** 99.50+ Percentile (Score: ~125+ out of 200)
+- **Welingkar & [PUMBA Pune](/colleges/pumba-pune):** 99.50+ Percentile (Score: ~125+ out of 200)
 - **Chetana's, MET, SIES (Mumbai):** 98.00+ to 99.00+ Percentile
 - **Tier-2 Pune/Mumbai Colleges:** 90.00+ Percentile
 

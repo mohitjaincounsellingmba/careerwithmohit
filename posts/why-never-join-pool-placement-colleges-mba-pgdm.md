@@ -44,7 +44,7 @@ Frequently, students on satellite campuses have to travel hours to the main camp
 If you are considering any of the following institutes, check if you are being admitted to the **Flagship Campus**. If not, be extremely cautious about the "Common Pool" promise:
 
 1.  **Christ University**: All campuses (Bangalore Central, Kengeri, Yeshwanthpur, Pune Lavasa, Delhi-NCR) participate in a centralized placement process.
-2.  **Amity University**: Amity Noida acts as the hub, with students from Gurgaon, Gwalior, and Jaipur often pooled for major recruitment drives.
+2.  **[Amity University](/colleges/amity-noida)**: Amity Noida acts as the hub, with students from Gurgaon, Gwalior, and Jaipur often pooled for major recruitment drives.
 3.  **Jaipuria Institute of Management**: Its campuses in Noida, Lucknow, Jaipur, and Indore operate under a "Unanimous Placement" model.
 4.  **IBS (ICFAI Business School)**: Famous for its centralized "Mega Placement" event where thousands of students from all 9 campuses descend upon Hyderabad.
 5.  **IILM University**: Students from Lodhi Road, Gurugram, and Greater Noida are often combined for corporate drives.

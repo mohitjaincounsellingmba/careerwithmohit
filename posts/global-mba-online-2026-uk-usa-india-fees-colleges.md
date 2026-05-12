@@ -286,8 +286,8 @@ If you prefer an Indian IIM-level brand with global outlook, these are the top N
 
 | Rank | Institution |
 |---|---|
-| 🥇 1 | IIM Ahmedabad |
-| 🥈 2 | IIM Bangalore |
+| 🥇 1 | [IIM Ahmedabad](/colleges/iim-ahmedabad) |
+| 🥈 2 | [IIM Bangalore](/colleges/iim-bangalore) |
 | 🥉 3 | IIM Kozhikode |
 | 4 | IIT Delhi (DMS) |
 | 5 | IIM Lucknow |

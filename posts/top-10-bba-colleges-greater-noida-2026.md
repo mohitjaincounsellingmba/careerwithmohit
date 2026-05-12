@@ -18,7 +18,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 - **Entrance Exam / Admission Process:** CUET / Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. Sharda University
+### 2. [Sharda University](/colleges/sharda-greater-noida)
 - **Approximate Annual Fees:** ₹1.8 Lakhs
 - **Entrance Exam / Admission Process:** SUAT / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -33,7 +33,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 5. Lloyd Business School
+### 5. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -43,7 +43,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 7. Accurate Institute of Management
+### 7. [Accurate Institute of Management](/colleges/accurate-greater-noida)
 - **Approximate Annual Fees:** ₹1.0 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -53,7 +53,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 9. Noida Institute of Engineering and Technology (NIET)
+### 9. [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

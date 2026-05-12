@@ -21,7 +21,7 @@ However, here is the secret: **Some of India's best private B-schools thrive in 
 | **FORE School**| New Delhi | ₹17.5 Lakhs | ₹14.50 LPA |
 | **GIM Goa** | Goa | ₹18.5 Lakhs | ₹14.80 LPA |
 | **Great Lakes**| Chennai | ₹19.5 Lakhs | ₹14.50 LPA |
-| **XIME Bangalore**| Bangalore | ₹12.5 Lakhs | ₹10.30 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore)**| Bangalore | ₹12.5 Lakhs | ₹10.30 LPA |
 | **NDIM Delhi** | New Delhi | ₹10.5 Lakhs | ₹9.50 LPA |
 | **KIIT School** | Bhubaneswar| ₹14.5 Lakhs | ₹9.0 LPA |
 
@@ -29,7 +29,7 @@ However, here is the secret: **Some of India's best private B-schools thrive in 
 
 ## 🏛️ The "Safe Bets" in Delhi NCR
 
-### 1. BIMTECH, Greater Noida
+### 1. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)
 Consistently ranks among the top private B-schools in North India. While their flagship PGDM might require higher scores, their MBA/PGDM in **Insurance or Retail Management** often accepts students in the 70-75 range.
 - **Top Recruiters:** Infosys, ICICI Bank, Maruti Suzuki.
 

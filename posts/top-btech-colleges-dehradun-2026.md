@@ -16,13 +16,13 @@ This guide covers the **top B.Tech colleges in Dehradun and Uttarakhand for 2026
 
 | College | Type | Annual Fees | Avg Package | Entrance Exam |
 |---|---|---|---|---|
-| UPES Dehradun | Private Deemed | ₹2.5 L/yr | ₹5–10 LPA | UPESEAT / JEE |
+| [UPES Dehradun](/colleges/upes-dehradun) | Private Deemed | ₹2.5 L/yr | ₹5–10 LPA | UPESEAT / JEE |
 | Graphic Era University | Private Deemed | ₹1.8 L/yr | ₹5–8 LPA | GEEAT / JEE |
 | Graphic Era Hill University | Private | ₹1.4 L/yr | ₹4–7 LPA | GEEAT / Direct |
 | DIT University | Private | ₹1.5 L/yr | ₹4–7 LPA | UASET / Direct |
 | Doon University | State Govt | ₹0.70 L/yr | ₹4–7 LPA | JEE Main / UASET |
 | Dev Bhoomi Uttarakhand Univ. | Private | ₹1.2 L/yr | ₹4–6 LPA | Direct |
-| Quantum University | Private | ₹1.0 L/yr | ₹4–6 LPA | Direct / JEE |
+| [Quantum University](/colleges/quantum-university-roorkee) | Private | ₹1.0 L/yr | ₹4–6 LPA | Direct / JEE |
 | COER University, Roorkee | Private | ₹1.0 L/yr | ₹4–6 LPA | Direct / JEE |
 
 ---

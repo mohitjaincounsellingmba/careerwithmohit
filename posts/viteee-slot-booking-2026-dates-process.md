@@ -2,7 +2,7 @@
 title: "VITEEE Slot Booking 2026 Starts: Complete Guide to OTBS, Dates, and Process"
 date: "2026-04-18"
 description: "VITEEE 2026 slot booking is now live via the OTBS portal! Learn the step-by-step process, important dates, and how to download your VITEEE admit card before the deadline."
-keywords: ["VITEEE slot booking 2026", "VIT OTBS portal", "VITEEE admit card download", "VITEEE 2026 exam dates", "how to book VIT slot", "VIT Vellore BTech admission"]
+keywords: ["VITEEE slot booking 2026", "VIT OTBS portal", "VITEEE admit card download", "VITEEE 2026 exam dates", "how to book VIT slot", "[VIT Vellore](/colleges/vit-vellore) BTech admission"]
 ---
 
 The Vellore Institute of Technology (VIT) has officially commenced the **VITEEE Slot Booking 2026** process. Candidates aiming for B.Tech admissions across VIT campuses must use the Online Test Booking System (OTBS) to select their preferred exam date, time, and test city. 

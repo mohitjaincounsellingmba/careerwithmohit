@@ -17,9 +17,9 @@ These colleges offer the best salary-to-fee ratio in the country:
 
 | Institute | Total Fees (Approx) | Avg Placement (2025) | ROI Factor |
 | :--- | :--- | :--- | :--- |
-| **FMS Delhi** | ₹2.0 Lakhs | ₹34.10 LPA | ⭐⭐⭐⭐⭐ |
-| **PUMBA Pune** | ₹1.3 Lakhs | ₹8.85 LPA | ⭐⭐⭐⭐⭐ |
-| **JBIMS Mumbai** | ₹6.0 Lakhs | ₹28.02 LPA | ⭐⭐⭐⭐⭐ |
+| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.0 Lakhs | ₹34.10 LPA | ⭐⭐⭐⭐⭐ |
+| **[PUMBA Pune](/colleges/pumba-pune)** | ₹1.3 Lakhs | ₹8.85 LPA | ⭐⭐⭐⭐⭐ |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | ₹6.0 Lakhs | ₹28.02 LPA | ⭐⭐⭐⭐⭐ |
 | **SIMSREE Mumbai** | ₹1.4 Lakhs | ₹15.19 LPA | ⭐⭐⭐⭐⭐ |
 | **UBS Chandigarh** | ₹1.0 Lakhs | ₹13.70 LPA | ⭐⭐⭐⭐ |
 

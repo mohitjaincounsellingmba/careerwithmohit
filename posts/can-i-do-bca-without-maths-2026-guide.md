@@ -23,8 +23,8 @@ If you didn't have Maths in 12th, these are your best national-level targets:
 
 | College | Location | Admission Type | Bridge Course |
 |---|---|---|---|
-| **Manipal University Jaipur** | Jaipur | Merit-based | Yes |
-| **Amity University** | Multiple Locations| Merit / Interview | Yes |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Jaipur | Merit-based | Yes |
+| **[Amity University](/colleges/amity-noida)** | Multiple Locations| Merit / Interview | Yes |
 | **LPU (Lovely Professional)** | Punjab | LPUNEST / Merit | Yes |
 | **Galgotias University** | Greater Noida | Merit-based | Yes |
 | **SRM University** | Chennai/NCR | Merit-based | Yes |

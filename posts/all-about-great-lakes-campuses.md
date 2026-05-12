@@ -77,7 +77,7 @@ Cutoffs for Gurgaon are slightly more relaxed than Chennai but are climbing rapi
 
 ## Quick Comparison: Chennai vs Gurgaon
 
-| Parameter | Great Lakes Chennai | Great Lakes Gurgaon |
+| Parameter | Great Lakes Chennai | [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) |
 | :--- | :--- | :--- |
 | **Status** | Flagship Campus | Growing Corporate Hub |
 | **PGPM (1-Yr) Avg. Package** | ₹17.80 LPA | ₹15.10 LPA |

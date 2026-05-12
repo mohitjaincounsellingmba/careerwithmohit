@@ -2,7 +2,7 @@
 title: "Top MBA & PGDM Colleges Under 10 Lakhs in Pune (Direct Admission 2026)"
 date: "2026-03-26"
 description: "Discover Pune's best MBA and PGDM colleges under 10 Lakhs fees. Get details on direct admission for RIIM, Indira, Lexicon MILE, and PIBM for the 2026 batch."
-keywords: ["MBA colleges under 10 lakhs in Pune", "PGDM direct admission Pune 2026", "RIIM Pune placement", "Indira Institute of Management fees", "PIBM direct admission", "management quota MBA Pune"]
+keywords: ["MBA colleges under 10 lakhs in Pune", "PGDM direct admission Pune 2026", "[RIIM Pune](/colleges/riim-pune) placement", "Indira Institute of Management fees", "PIBM direct admission", "management quota MBA Pune"]
 ---
 
 Pune, famously known as the "Oxford of the East," is one of the most preferred destinations for MBA aspirants. With a booming IT sector and an expanding manufacturing hub, Pune offers excellent corporate exposure.

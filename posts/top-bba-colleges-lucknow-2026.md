@@ -36,7 +36,7 @@ IIM Lucknow is one of the top 4 IIMs in India. While they don't have a tradition
 The heritage choice. LU’s BBA program is known for its academic rigour and its massive alumni network in the UP state government and regional banking sectors.
 - **Selection:** Admission is primarily through its own entrance test (LURAT) or CUET.
 
-### 3. Jaipuria & Amity University
+### 3. Jaipuria & [Amity University](/colleges/amity-noida)
 These are the leaders in the private management space in Lucknow. Jaipuria is world-renowned for its modern curriculum and corporate tie-ups, while Amity offers a high-end campus life and global internship opportunities.
 
 ---

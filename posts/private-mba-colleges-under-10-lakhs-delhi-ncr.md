@@ -71,8 +71,8 @@ JIMS Rohini is NBA and AIU-accredited, making it one of the most credible mid-bu
 Greater Noida, specifically the Knowledge Park area, is famous for its massive private university campuses. While some full-time, premium MBA programs at these universities exceed ₹10 Lakhs, they often offer specialized or slightly scaled-down MBA variants that fit the budget:
 
 *   **Galgotias University**
-*   **Sharda University**
-*   **Noida Institute of Engineering and Technology (NIET)**
+*   **[Sharda University](/colleges/sharda-greater-noida)**
+*   **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)**
 
 *Ensure you check their latest 2026 fee structures, as private university tuition can fluctuate annually.*
 

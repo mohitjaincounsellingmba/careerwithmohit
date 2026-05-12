@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { Award, BookOpen, CheckCircle2, Star, Zap, Briefcase, History, TrendingUp, Users } from 'lucide-react';
 import type { Metadata } from 'next';
+import { JsonLd } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "About Mohit Jain | Expert Career Counsellor",
@@ -94,8 +95,40 @@ const INTERNSHIPS = [
 ];
 
 export default function AboutPage() {
+  const aboutSchema = {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Mohit Jain",
+      "description": "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
+      "image": "https://www.careerwithmohit.online/logo.webp",
+      "jobTitle": "Career Counsellor & MBA Admissions Expert",
+      "url": "https://www.careerwithmohit.online/about",
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "IIM Bangalore"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "FMS Delhi"
+        }
+      ],
+      "knowsAbout": [
+        "Career Counselling",
+        "MBA Admissions",
+        "B.Tech Admissions",
+        "Digital Marketing",
+        "Six Sigma",
+        "Business Analytics"
+      ]
+    }
+  };
+
   return (
     <div className="w-full bg-muted min-h-screen">
+      <JsonLd data={aboutSchema} />
       {/* Hero Section */}
       <section className="bg-white border-b-8 border-foreground py-20 px-6 sm:px-12">
         <div className="mx-auto max-w-7xl">

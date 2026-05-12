@@ -1,5 +1,5 @@
 ---
-title: "Manipal University Jaipur Online MBA Review 2026: Placements, Fees & Admission"
+title: "[Manipal University Jaipur](/colleges/manipal-university-jaipur) Online MBA Review 2026: Placements, Fees & Admission"
 date: "2026-03-26"
 category: "Online MBA"
 description: "Looking for an honest, highly positive review of the Manipal University Jaipur Online MBA program? Discover its curriculum, placement support, and why it is an excellent choice for working professionals."

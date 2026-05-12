@@ -19,8 +19,8 @@ Whether you are targeting the legendary placements of Sukhdev or the modern camp
 | **SSCBS (Shaheed Sukhdev)** | Govt | CUET | ₹0.3 - 0.5 Lakhs | ₹10.5 - 25.5 LPA |
 | **IIM Rohtak (IPM)** | Central | IPMAT | ₹5.0 - 6.5 Lakhs | ₹16.0 - 22.0 LPA |
 | **Deen Dayal Upadhyaya** | Govt | CUET | ₹0.3 - 0.5 Lakhs | ₹5.5 - 7.5 LPA |
-| **Amity University Noida**| Private | Merit/Intv | ₹3.5 - 4.5 Lakhs | ₹4.5 - 6.5 LPA |
-| **Bennett University** | Private | Merit/CUET | ₹3.2 - 4.0 Lakhs | ₹5.0 - 7.5 LPA |
+| **[Amity University](/colleges/amity-noida) Noida**| Private | Merit/Intv | ₹3.5 - 4.5 Lakhs | ₹4.5 - 6.5 LPA |
+| **[Bennett University](/colleges/bennett-greater-noida)** | Private | Merit/CUET | ₹3.2 - 4.0 Lakhs | ₹5.0 - 7.5 LPA |
 | **IP University (VIPS/MSIT)**| State Gov | IPU CET | ₹1.0 - 1.5 Lakhs | ₹4.0 - 6.0 LPA |
 
 ---

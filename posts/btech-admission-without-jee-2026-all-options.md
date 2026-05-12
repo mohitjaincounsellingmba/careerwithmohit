@@ -54,7 +54,7 @@ Top private universities conduct their own exams — **independent of JEE Main**
 
 | University | Own Entrance Exam | Annual Fees | Avg Package |
 |---|---|---|---|
-| VIT Vellore / Chennai | VITEEE | ₹2.1 L | ₹8–14 LPA |
+| [VIT Vellore](/colleges/vit-vellore) / Chennai | VITEEE | ₹2.1 L | ₹8–14 LPA |
 | SRM University | SRMJEEE | ₹2.0 L | ₹7–12 LPA |
 | BITS Pilani | BITSAT | ₹5.5 L | ₹15–22 LPA |
 | Manipal MIT | MU OET | ₹2.3 L | ₹7–12 LPA |
@@ -63,7 +63,7 @@ Top private universities conduct their own exams — **independent of JEE Main**
 | Chitkara University | Chitkara SEAT | ₹2.0 L | ₹5–9 LPA |
 | DAIICT Gandhinagar | DAIICT Entrance | ₹2.2 L | ₹10–18 LPA |
 | LPU (Lovely Professional) | LPUNEST | ₹1.8 L | ₹4–8 LPA |
-| UPES Dehradun | UPESEAT / Board Merit | ₹2.5 L | ₹5–8 LPA |
+| [UPES Dehradun](/colleges/upes-dehradun) | UPESEAT / Board Merit | ₹2.5 L | ₹5–8 LPA |
 
 ---
 
@@ -78,15 +78,15 @@ The simplest route: Management Quota / Board Merit Seats at private AICTE-approv
 4. No entrance exam required at all
 
 **Colleges offering direct admission:**
-- Bennett University (Greater Noida)
-- Amity University (Noida, Lucknow, Jaipur)
+- [Bennett University](/colleges/bennett-greater-noida) (Greater Noida)
+- [Amity University](/colleges/amity-noida) (Noida, Lucknow, Jaipur)
 - Shoolini University (Himachal Pradesh)
-- Quantum University (Roorkee)
+- [Quantum University](/colleges/quantum-university-roorkee) (Roorkee)
 - UPES Dehradun
 - GL Bajaj (15% management quota, AKTU)
 - Chandigarh University (Mohali)
 - VGU Jaipur, JECRC Jaipur
-- Manipal University Jaipur
+- [Manipal University Jaipur](/colleges/manipal-university-jaipur)
 
 [Read: B.Tech Direct Admission Management Quota — Is It Legal?](/blog/management-quota-legality-fraud-protection)
 

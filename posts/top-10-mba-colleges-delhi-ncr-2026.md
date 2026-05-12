@@ -1,7 +1,7 @@
 ---
 title: "Top 10 MBA Colleges in Delhi NCR 2026: Fees, Cutoffs, and Placements"
 date: "2026-05-10"
-description: "Discover the top 10 MBA colleges in Delhi NCR for 2026. Get verified details on FMS, MDI Gurgaon, IIFT, IMT Ghaziabad, average placements, fees, and entrance exams."
+description: "Discover the top 10 MBA colleges in Delhi NCR for 2026. Get verified details on FMS, [MDI Gurgaon](/colleges/mdi-gurgaon), IIFT, IMT Ghaziabad, average placements, fees, and entrance exams."
 keywords: ["top 10 mba colleges in delhi ncr 2026", "best mba colleges in delhi ncr", "mba in delhi with low fees", "fms delhi mba", "mdi gurgaon placement", "imt ghaziabad cutoff", "delhi ncr top b-schools", "mba admission delhi 2026"]
 ---
 
@@ -17,16 +17,16 @@ If you are planning your MBA journey for the upcoming academic year, we have com
 
 | Rank | College | Total Fees | Avg. Package | Exams Accepted |
 |---|---|---|---|---|
-| 1 | **FMS Delhi** | ₹2.32 Lakhs | ₹34.10 LPA | CAT |
+| 1 | **[FMS Delhi](/colleges/fms-delhi)** | ₹2.32 Lakhs | ₹34.10 LPA | CAT |
 | 2 | **MDI Gurgaon** | ₹25.50 Lakhs | ₹27.67 LPA | CAT |
-| 3 | **IIFT Delhi** | ₹21.80 Lakhs | ₹29.10 LPA | CAT |
+| 3 | **[IIFT Delhi](/colleges/iift-delhi)** | ₹21.80 Lakhs | ₹29.10 LPA | CAT |
 | 4 | **DMS, IIT Delhi** | ₹11.20 Lakhs | ₹25.82 LPA | CAT |
 | 5 | **IMI New Delhi** | ₹23.50 Lakhs | ₹17.90 LPA | CAT, XAT, GMAT |
 | 6 | **IMT Ghaziabad** | ₹21.50 Lakhs | ₹17.35 LPA | CAT, XAT, GMAT |
 | 7 | **FORE School, Delhi** | ₹20.70 Lakhs | ₹16.40 LPA | CAT, XAT, GMAT |
 | 8 | **LBSIM Delhi** | ₹15.50 Lakhs | ₹12.42 LPA | CAT, XAT, GMAT |
 | 9 | **BIMTECH Greater Noida**| ₹14.00 Lakhs | ₹11.10 LPA | CAT, XAT, CMAT, MAT |
-| 10 | **Great Lakes Gurgaon** | ₹11.50 Lakhs | ₹11.80 LPA | CAT, XAT, CMAT |
+| 10 | **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | ₹11.50 Lakhs | ₹11.80 LPA | CAT, XAT, CMAT |
 
 ---
 
@@ -70,7 +70,7 @@ Famous as the "Marketing Hub" of North India, IMT Ghaziabad has a massive alumni
 - **Why Choose It:** Unbeatable alumni network for Sales & Marketing career paths.
 - **Compare:** [IMT Ghaziabad vs IMT Nagpur Comparison](/blog/imt-ghaziabad-vs-imt-nagpur-pgdm-comparison-2026)
 
-### 7. FORE School of Management, Delhi
+### 7. [FORE School of Management](/colleges/fore-school-delhi), Delhi
 A highly respected institution located in South Delhi, FORE offers great corporate internships and robust placement records.
 - **Estimated Fees:** ₹20.70 Lakhs
 - **Average Package:** ₹16.40 LPA

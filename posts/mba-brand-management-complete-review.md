@@ -38,7 +38,7 @@ If you are serious about becoming a Global Brand Manager, these are the target c
 ### 1. MICA, Ahmedabad
 Known as the "Mecca of Marketing," MICA is the leader in advertising and brand management. Its focus on creative leadership and consumer culture is unmatched.
 
-### 2. IIM Ahmedabad, Bangalore, & Calcutta
+### 2. [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, & Calcutta
 For strategic depth and high-level corporate connections, the top IIMs remain the gold standard for FMCG giants like HUL and P&G.
 
 ### 3. SPJIMR, Mumbai

@@ -20,7 +20,7 @@ Here is a complete breakdown of DU’s MBA ecosystem for the 2025-2026 admission
 
 These institutes are fiercely competitive, accepting elite percentiles through CAT (or their own specific exams). They offer some of the best management education in India with extremely low tuition fees.
 
-### 1. FMS Delhi (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
 Often debated as the "Red Building of Dreams," FMS competes neck-and-neck with the top three IIMs (A, B, C) but charges a fraction of their fee.
 *   **Fees:** ₹2.30 Lakhs
 *   **Entrance Exam:** CAT (99.5+ Percentile expected)

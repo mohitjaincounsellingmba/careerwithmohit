@@ -18,7 +18,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 - **Entrance Exam / Admission Process:** CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. Jamia Millia Islamia (JMI)
+### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
 - **Approximate Annual Fees:** ₹13,000
 - **Entrance Exam / Admission Process:** JMI Entrance
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -43,7 +43,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 - **Entrance Exam / Admission Process:** CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 7. Maharaja Surajmal Institute (MSI)
+### 7. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam / Admission Process:** IPU CET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

@@ -29,7 +29,7 @@ Sunstone has a wide network of partner colleges across major educational hubs in
 
 ### **North India (Delhi NCR, Jaipur, Punjab/Haryana)**
 *   **Delhi NCR:** GD Goenka University (Gurugram), HIERANK Business School (Noida), Delhi Technical Campus (Greater Noida)
-*   **Jaipur:** JECRC University, Vivekananda Global University (VGU), Jaipur National University
+*   **Jaipur:** [JECRC University](/colleges/jecrc-jaipur), Vivekananda Global University (VGU), Jaipur National University
 *   **Punjab/Chandigarh:** Rayat-Bahra University (Mohali)
 *   **Lucknow:** Shri Ramswaroop Memorial University
 

@@ -143,7 +143,7 @@ Uttaranchal University is UGC, AICTE, AIU, WES, NAAC A+, and ISO approved. One o
 
 ---
 
-### 7. Amity University Online — Executive MBA
+### 7. [Amity University](/colleges/amity-noida) Online — Executive MBA
 
 Amity Online is globally accredited (WASC, QAA) and one of India's largest and most recognized private universities. Excellent for professionals wanting variety in specializations.
 

@@ -17,7 +17,7 @@ Whether you want the prestige of a state university or a high-end private campus
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
 | **Lucknow University** | LU Entrance (LUVET)| ₹2.1 - 2.8 Lakhs | ₹3.5 - 5.0 LPA |
-| **Amity University Lucknow** | Merit / Interview | ₹5.0 - 7.5 Lakhs | ₹4.2 - 6.5 LPA |
+| **[Amity University](/colleges/amity-noida) Lucknow** | Merit / Interview | ₹5.0 - 7.5 Lakhs | ₹4.2 - 6.5 LPA |
 | **BBD University (BBDU)** | Merit-based | ₹2.8 - 3.8 Lakhs | ₹3.5 - 5.2 LPA |
 | **Integral University** | IUET / Merit | ₹2.2 - 3.0 Lakhs | ₹3.2 - 4.5 LPA |
 | **SRMU (Ramswaroop)** | Merit-based | ₹2.4 - 3.2 Lakhs | ₹3.5 - 4.8 LPA |

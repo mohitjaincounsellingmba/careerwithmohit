@@ -103,7 +103,7 @@ Manipal Online provides:
 **Q1. Is Manipal Online MBA worth the higher fee compared to other options?**
 If you need global recognition (QS ranked + NAAC A++) and the best LMS experience in India, yes. If you are primarily cost-conscious, CU Online or LPU Online offer similar credibility at significantly lower fees.
 
-**Q2. Is Manipal MAHE Online MBA and Manipal University Jaipur Online MBA the same?**
+**Q2. Is Manipal MAHE Online MBA and [Manipal University Jaipur](/colleges/manipal-university-jaipur) Online MBA the same?**
 No. **MAHE** (Manipal Academy of Higher Education) is the Manipal, Karnataka campus — NAAC A++ and QS ranked. **MUJ** (Manipal University Jaipur) is a different entity with different accreditation. The MAHE program is more prestigious.
 
 **Q3. Does Manipal Online MBA require any entrance exam?**

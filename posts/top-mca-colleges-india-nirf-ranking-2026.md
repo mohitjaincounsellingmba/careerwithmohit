@@ -21,7 +21,7 @@ If you want to be treated on par with B.Tech CSE graduates in terms of salary an
 | **3** | **JNU Delhi** | New Delhi | CUET PG | ₹10.5 - 16.0 LPA |
 | **4** | **NIT Warangal** | Warangal | NIMCET | ₹11.0 - 18.0 LPA |
 | **5** | **BHU Varanasi** | Varanasi | CUET PG | ₹8.0 - 14.5 LPA |
-| **6** | **VIT Vellore** | Vellore | VITMEE | ₹7.5 - 12.0 LPA |
+| **6** | **[VIT Vellore](/colleges/vit-vellore)** | Vellore | VITMEE | ₹7.5 - 12.0 LPA |
 | **7** | **MNNIT Allahabad**| Prayagraj | NIMCET | ₹10.5 - 15.0 LPA |
 | **8** | **University of Hyderabad** | Hyderabad | NIMCET | ₹8.5 - 13.5 LPA |
 

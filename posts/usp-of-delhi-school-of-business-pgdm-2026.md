@@ -155,7 +155,7 @@ This triple credential at under ₹11 Lakhs makes DSB genuinely exceptional valu
 ✅ North Delhi residents who want a strong B-school close to home  
 ✅ Students who value **NBA accreditation** for government job eligibility  
 
-❌ Not ideal if you want the highest average package — Jaipuria Noida or SOIL are stronger  
+❌ Not ideal if you want the highest average package — [Jaipuria Noida](/colleges/jaipuria-noida) or SOIL are stronger  
 ❌ Not ideal if you want Gurgaon or South Delhi campus location  
 ❌ Not ideal if you need AACSB/NIRF ranking — FIIB or Jaipuria are better  
 

@@ -1,5 +1,5 @@
 ---
-title: "IMI Delhi vs IMI Kolkata 2026: Is the High Fee Worth It?"
+title: "[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata) 2026: Is the High Fee Worth It?"
 date: "2026-03-25"
 description: "Choosing between IMI Delhi and its Kolkata campus? Read our 2026 comparison on CAT/XAT cutoffs, ₹32L high-fee reality, and average placement packages."
 keywords: ["IMI Delhi vs IMI Kolkata", "IMI Delhi average package 2026", "IMI Kolkata CAT cutoff 2025", "IMI Delhi fees 2026", "IMI Kolkata placement review", "MBA at IMI Delhi vs Kolkata"]

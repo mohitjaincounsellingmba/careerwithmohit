@@ -21,7 +21,7 @@ In 2026, many students are realizing that their management potential is not defi
 | **St. Xavier’s** | Mumbai | XET | ₹0.6 - 0.8 Lakhs | **NO** (Only for BMS)|
 | **Mount Carmel (MCC)** | Bangalore | Merit | ₹1.8 - 2.5 Lakhs | **NO** |
 | **Jain (CMS)** | Bangalore | JET | ₹3.2 - 4.5 Lakhs | **NO** |
-| **Amity University** | Noida/Lucknow | Merit | ₹2.5 - 3.8 Lakhs | **NO** |
+| **[Amity University](/colleges/amity-noida)** | Noida/Lucknow | Merit | ₹2.5 - 3.8 Lakhs | **NO** |
 | **Loyola College** | Chennai | Merit | ₹0.8 - 1.2 Lakhs | **NO** |
 
 ---
@@ -63,7 +63,7 @@ NMIMS Mumbai usually mandates **Math/Statistics** in 12th for its BBA program. H
 **Q3. Which BBA specialization is best for non-math students?**
 **Marketing, Human Resource Management (HRM), and International Business** are excellent specializations that do not require heavy quantitative analysis.
 
-**Q4. does Christ University Bangalore require Math?**
+**Q4. does [Christ University Bangalore](/colleges/christ-university-bangalore) require Math?**
 No. For the general BBA and BBA (Finance/IB/Law) programs, Math in 12th is not a mandatory eligibility criterion.
 
 **Q5. What is the scope for BBA non-math students?**

@@ -63,7 +63,7 @@ export default function CollegesPage() {
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": colleges.length,
-      "itemListElement": colleges.slice(0, 50).map((college, index) => ({
+      "itemListElement": colleges.map((college, index) => ({
         "@type": "ListItem",
         "position": index + 1,
         "name": college.name,

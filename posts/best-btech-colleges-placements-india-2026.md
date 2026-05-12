@@ -26,7 +26,7 @@ This expert guide gives you **honest, verified placement data for India's best B
 | NIT Tiruchirappalli | ~1,200 | ~82% | ₹10–14 LPA | ₹55 LPA | Amazon, Zoho, Goldman Sachs |
 | Thapar University | ~2,000 | ~75% | ₹10–13 LPA | ₹60 LPA | Microsoft, Sprinklr, Uber India |
 | NIT Warangal | ~1,200 | ~80% | ₹9–12 LPA | ₹45 LPA | TCS, Wipro, Microsoft |
-| VIT Vellore | ~10,000 | ~70% | ₹7–10 LPA | ₹70 LPA | TCS, Wipro, Amazon, Zoho |
+| [VIT Vellore](/colleges/vit-vellore) | ~10,000 | ~70% | ₹7–10 LPA | ₹70 LPA | TCS, Wipro, Amazon, Zoho |
 | SRM Kattankulathur | ~8,000 | ~65% | ₹6–9 LPA | ₹60 LPA | TCS, Infosys, Cognizant |
 | JIIT Noida | ~2,000 | ~75% | ₹8–10 LPA | ₹45 LPA | Amazon, Adobe, Samsung |
 | Chandigarh University | ~6,000 | ~65% | ₹5–8 LPA | ₹42 LPA | TCS, HCL, Wipro, IBM |

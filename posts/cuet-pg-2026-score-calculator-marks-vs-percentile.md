@@ -26,7 +26,7 @@ In CUET PG, your raw score is converted into a percentile through a normalizatio
 
 | Raw Score (Out of 300) | Predicted Percentile | Target Colleges |
 | :--- | :--- | :--- |
-| **245 - 275** | 99.8 - 100%ile | **TISS Mumbai (HRM), FMS Delhi** |
+| **245 - 275** | 99.8 - 100%ile | **TISS Mumbai (HRM), [FMS Delhi](/colleges/fms-delhi)** |
 | **215 - 244** | 98 - 99.7%ile | **JNU, BHU, TISS (ODCL)** |
 | **185 - 214** | 95 - 97.9%ile | **DAVV Indore, UoH, JMI** |
 | **145 - 184** | 85 - 94.9%ile | **Pondicherry University, CU Rajasthan** |

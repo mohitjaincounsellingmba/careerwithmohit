@@ -16,11 +16,11 @@ Whether you want a premium private university or a traditional state-affiliated 
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **Manipal University Jaipur** | Merit / Interview | ₹4.5 - 6.0 Lakhs | ₹4.5 - 7.0 LPA |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Merit / Interview | ₹4.5 - 6.0 Lakhs | ₹4.5 - 7.0 LPA |
 | **University of Rajasthan** | URATPG / Merit | ₹0.6 - 1.2 Lakhs | ₹3.5 - 5.0 LPA |
 | **Jaipur National Univ.** | JNU CET / Merit | ₹2.5 - 3.5 Lakhs | ₹3.2 - 4.8 LPA |
-| **Poornima University** | Merit / Interview | ₹2.2 - 3.0 Lakhs | ₹3.8 - 5.5 LPA |
-| **JECRC University** | Merit-based | ₹2.8 - 3.8 Lakhs | ₹4.0 - 6.5 LPA |
+| **[Poornima University](/colleges/poornima-jaipur)** | Merit / Interview | ₹2.2 - 3.0 Lakhs | ₹3.8 - 5.5 LPA |
+| **[JECRC University](/colleges/jecrc-jaipur)** | Merit-based | ₹2.8 - 3.8 Lakhs | ₹4.0 - 6.5 LPA |
 | **Kanoria College (Women)** | Merit-based | ₹1.2 - 1.8 Lakhs | ₹3.0 - 4.2 LPA |
 | **S.S. Jain Subodh College** | Merit-based | ₹1.0 - 1.5 Lakhs | ₹3.2 - 4.5 LPA |
 

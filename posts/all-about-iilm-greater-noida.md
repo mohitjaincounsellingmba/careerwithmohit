@@ -1,7 +1,7 @@
 ---
 title: "IILM Greater Noida Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
-description: "Detailed review of IILM Institute for Higher Education, Greater Noida. Check 2025 placement packages, lush campus, and industry faculty."
+description: "Detailed review of [IILM Institute for Higher Education](/colleges/iilm-delhi), Greater Noida. Check 2025 placement packages, lush campus, and industry faculty."
 keywords: ["IILM Greater Noida review 2026", "IILM Greater Noida placement 2025", "IILM university faculty", "MBA in Greater Noida"]
 ---
 

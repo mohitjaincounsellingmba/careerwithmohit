@@ -2,7 +2,7 @@
 title: "Top Medical Colleges in Delhi NCR 2026 — Fees, Cutoffs & Admission"
 date: "2026-04-21"
 category: "Medical Admissions"
-description: "Planning your MBBS in the National Capital? Compare the best medical colleges in Delhi NCR for 2026. Detailed guide on MAMC, VMMC, Jamia Hamdard, and SGT."
+description: "Planning your MBBS in the National Capital? Compare the best medical colleges in Delhi NCR for 2026. Detailed guide on MAMC, VMMC, [Jamia Hamdard](/colleges/jamia-hamdard-delhi), and SGT."
 keywords: ["top medical colleges in delhi ncr 2026", "best mbbs colleges delhi", "mamc delhi cutoff 2026", "vmmc safdarjung fees", "jamia hamdard mbbs admission", "medical colleges near gurgaon noida", "sgt university mbbs fees", "direct mbbs admission delhi ncr"]
 ---
 
@@ -22,7 +22,7 @@ Whether you are targeting a 700+ score for the Delhi University quota or looking
 | **LHMC (Women only)**| State Gov | NEET | ₹1,500 | 690 - 700 |
 | **Jamia Hamdard** | Deemed | NEET | ₹15.5 - 18.0 Lakhs | 580 - 610 |
 | **SGT Medical (Ggn)** | Private | NEET | ₹18.0 - 22.0 Lakhs | 450 - 520 |
-| **Sharda University** | Private | NEET | ₹12.5 - 16.0 Lakhs | 480 - 550 |
+| **[Sharda University](/colleges/sharda-greater-noida)** | Private | NEET | ₹12.5 - 16.0 Lakhs | 480 - 550 |
 
 ---
 

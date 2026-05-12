@@ -13,7 +13,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Rajasthan for 2026** to h
 
 ## 🏆 Top 10 BBA Colleges in Rajasthan (2026 Rankings)
 
-### 1. Manipal University Jaipur
+### 1. [Manipal University Jaipur](/colleges/manipal-university-jaipur)
 - **Approximate Annual Fees:** ₹2.0 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -23,12 +23,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Rajasthan for 2026** to h
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 3. JECRC University, Jaipur
+### 3. [JECRC University](/colleges/jecrc-jaipur), Jaipur
 - **Approximate Annual Fees:** ₹1.5 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 4. Poornima University, Jaipur
+### 4. [Poornima University](/colleges/poornima-jaipur), Jaipur
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -38,7 +38,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Rajasthan for 2026** to h
 - **Entrance Exam / Admission Process:** Merit / VGUCET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 6. Amity University Jaipur
+### 6. [Amity University](/colleges/amity-noida) Jaipur
 - **Approximate Annual Fees:** ₹1.8 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

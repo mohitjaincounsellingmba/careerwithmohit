@@ -28,14 +28,14 @@ If brand value and campus life are your priorities, Christ University's Ghaziaba
 *   **Average Placement:** ₹5.5 LPA
 *   **USP:** The "Christ" brand name, international exchange programs, and a highly disciplined environment.
 
-### 3. ITS - Institute of Technology and Science, Ghaziabad
+### 3. [ITS - Institute of Technology and Science, Ghaziabad](/colleges/its-ghaziabad)
 ITS is a legacy institution in Ghaziabad, offering great value for money and a strong focus on personality development.
 
 *   **Approx. Fees (Annual):** ₹1.4 Lakhs
 *   **Average Placement:** ₹4 - 5 LPA
 *   **USP:** Excellent alumni network and frequent "Corporate Connect" sessions.
 
-### 4. KIET Group of Institutions
+### 4. [KIET Group of Institutions](/colleges/kiet-ghaziabad)
 While famous for engineering, KIET has established a very strong management wing for undergraduate students.
 
 *   **Approx. Fees (Annual):** ₹1.2 Lakhs

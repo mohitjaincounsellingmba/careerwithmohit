@@ -58,7 +58,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Mumbai for 2026** to help
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 10. Amity University Mumbai
+### 10. [Amity University Mumbai](/colleges/amity-mumbai)
 - **Approximate Annual Fees:** ₹2.5 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -78,7 +78,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Mumbai for 2026** to help
 | **7** | **K.J. Somaiya College of Arts & Commerce** | Merit | ₹60,000 |
 | **8** | **Sydenham College** | Merit | ₹30,000 |
 | **9** | **R.A. Podar College** | Merit | ₹35,000 |
-| **10** | **Amity University Mumbai** | Merit | ₹2.5 Lakhs |
+| **10** | **[Amity University](/colleges/amity-noida) Mumbai** | Merit | ₹2.5 Lakhs |
 
 
 ---

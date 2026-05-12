@@ -32,7 +32,7 @@ Many leading private universities like **Amity, Galgotias, and LPU** have done a
 |---|---|---|---|
 | **Alliance University** | Bangalore | ₹6.0 - 8.0 Lakhs | ₹4.5 - 7.0 LPA |
 | **Galgotias University** | Greater Noida | ₹2.2 - 3.5 Lakhs | ₹3.5 - 5.5 LPA |
-| **Poornima University** | Jaipur | ₹2.2 - 3.0 Lakhs | ₹3.8 - 5.5 LPA |
+| **[Poornima University](/colleges/poornima-jaipur)** | Jaipur | ₹2.2 - 3.0 Lakhs | ₹3.8 - 5.5 LPA |
 | **GD Goenka University** | Gurgaon | ₹3.5 - 5.0 Lakhs | ₹3.8 - 5.2 LPA |
 | **Indira College** | Pune | ₹2.5 - 3.2 Lakhs | ₹3.5 - 5.0 LPA |
 | **SRM University** | Multiple | ₹4.5 - 6.0 Lakhs | ₹4.0 - 6.0 LPA |
@@ -63,7 +63,7 @@ Yes. Degrees from UGC-recognized private universities that offer direct admissio
 **Q2. What is the minimum percentage for direct BCA admission?**
 Most reputable private colleges require a minimum of **50% to 60%** aggregate marks in your 12th Board results.
 
-**Q3. Can I get direct admission in Christ University Bangalore?**
+**Q3. Can I get direct admission in [Christ University Bangalore](/colleges/christ-university-bangalore)?**
 No. Christ University strictly uses its own entrance test (CUET). They do NOT generally offer management quota seats for BCA.
 
 **Q4. Does direct admission mean a lower placement?**

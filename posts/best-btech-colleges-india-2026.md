@@ -52,7 +52,7 @@ BITS Pilani is arguably the only private engineering college that rivals the top
 - **Top Specialization:** Computer Science, Electronics
 
 ### 🥈 2. Vellore Institute of Technology (VIT), Vellore
-VIT Vellore is famous for its massive campus, diverse student crowd, and the legendary centralized placement process where top IT giants hire in bulk.
+[VIT Vellore](/colleges/vit-vellore) is famous for its massive campus, diverse student crowd, and the legendary centralized placement process where top IT giants hire in bulk.
 - **Exams Accepted:** VITEEE
 - **Fees:** ₹8-20 Lakhs (Category based)
 - **Top Specialization:** CSE with Bioinformatics, AI & ML
@@ -83,7 +83,7 @@ For students looking to study in the IT hub of North India, here are the best op
 2. **Delhi Technological University (DTU)** (Via JEE Main / JAC Delhi)
 3. **NSUT Delhi** (Via JEE Main / JAC Delhi)
 4. **IIIT Delhi** (Via JEE Main / JAC Delhi)
-5. **Amity University Noida** (Direct / Entrance based)
+5. **[Amity University](/colleges/amity-noida) Noida** (Direct / Entrance based)
 
 [👉 Read our full guide on Best Engineering Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
 
@@ -94,9 +94,9 @@ For students looking to study in the IT hub of North India, here are the best op
 Maharashtra has a thriving tech ecosystem. The best B.Tech colleges here include:
 
 1. **IIT Bombay** (Powai, Mumbai)
-2. **COEP Technological University** (Pune - via MHT CET)
+2. **[COEP Technological University](/colleges/coep-pune)** (Pune - via MHT CET)
 3. **VJTI Mumbai** (Via MHT CET)
-4. **Pune Institute of Computer Technology (PICT)** (Via MHT CET / JEE Main)
+4. **[Pune Institute of Computer Technology (PICT)](/colleges/pict-pune)** (Via MHT CET / JEE Main)
 5. **MIT WPU Pune** (Private)
 
 [👉 Read our full guide on Top B.Tech Colleges in Pune](/blog/top-btech-colleges-pune)

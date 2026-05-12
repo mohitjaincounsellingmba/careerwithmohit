@@ -32,12 +32,12 @@ The 21 IIMs in India are broadly divided into three generations:
 | IIM | Location | Avg Package | Total Fees | CAT Cutoff (Gen) | Mentor IIM |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IIM Amritsar** | Amritsar, Punjab | ₹16.5 LPA | ~₹17.60 L | 92+ %ile | IIM Lucknow |
-| **IIM Bodh Gaya** | Bodh Gaya, Bihar | ₹15.8 LPA | ~₹17.00 L | 92+ %ile | IIM Calcutta |
+| **IIM Bodh Gaya** | Bodh Gaya, Bihar | ₹15.8 LPA | ~₹17.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
 | **IIM Jammu** | Jammu, J&K | ₹16.4 LPA | ~₹18.00 L | 92+ %ile | IIM Calcutta |
-| **IIM Nagpur** | Nagpur, Maharashtra | ₹16.7 LPA | ~₹17.40 L | 92+ %ile | IIM Ahmedabad |
+| **IIM Nagpur** | Nagpur, Maharashtra | ₹16.7 LPA | ~₹17.40 L | 92+ %ile | [IIM Ahmedabad](/colleges/iim-ahmedabad) |
 | **IIM Sambalpur** | Sambalpur, Odisha | ₹16.6 LPA | ~₹17.50 L | 92+ %ile | IIM Indore |
 | **IIM Sirmaur** | Paonta Sahib, HP | ₹14.5 LPA | ~₹17.00 L | 90+ %ile | IIM Lucknow |
-| **IIM Visakhapatnam** | Vizag, Andhra Pradesh | ₹16.0 LPA | ~₹17.20 L | 92+ %ile | IIM Bangalore |
+| **IIM Visakhapatnam** | Vizag, Andhra Pradesh | ₹16.0 LPA | ~₹17.20 L | 92+ %ile | [IIM Bangalore](/colleges/iim-bangalore) |
 
 ---
 

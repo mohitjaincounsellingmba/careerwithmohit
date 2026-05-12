@@ -37,7 +37,7 @@ An **Online M.Sc** is a 2-year postgraduate science degree delivered entirely th
 
 ## Top Online M.Sc Universities in India 2026
 
-### 🥇 1. Amity University Online — M.Sc
+### 🥇 1. [Amity University](/colleges/amity-noida) Online — M.Sc
 
 Amity is India's most globally recognized private university with UGC-DEB, AICTE, NIRF, WES, and QS World Rankings accreditation. Their Online M.Sc offers the widest range of specializations.
 

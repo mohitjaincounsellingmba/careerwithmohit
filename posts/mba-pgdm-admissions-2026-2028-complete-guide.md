@@ -16,7 +16,7 @@ The Indian MBA admission cycle is a rigorous year-long process involving multipl
 To enter the 2026-2028 batch, you will be taking exams conducted in late 2025 and early 2026. 
 
 ### CAT 2025 (Common Admission Test)
-The biggest and most important management exam in India, acting as the sole gateway to the prestigious 21 IIMs, FMS Delhi, IITs, and hundreds of top private institutes.
+The biggest and most important management exam in India, acting as the sole gateway to the prestigious 21 IIMs, [FMS Delhi](/colleges/fms-delhi), IITs, and hundreds of top private institutes.
 *   **Notification Release:** Late July 2025
 *   **Registration Window:** August 1, 2025 – Mid-September 2025
 *   **Admit Card Release:** November 12, 2025 (Expected)
@@ -30,7 +30,7 @@ The gateway to XLRI Jamshedpur, SPJIMR (Mumbai), XIMB, and IMT Ghaziabad. Often 
 *   **Results:** Late January 2026
 
 ### SNAP 2025 (Symbiosis National Aptitude Test)
-Mandatory for all 16 institutes under the Symbiosis International University umbrella (including SIBM Pune and SCMHRD).
+Mandatory for all 16 institutes under the Symbiosis International University umbrella (including [SIBM Pune](/colleges/sibm-pune) and SCMHRD).
 *   **Registration:** August 2025 – November 2025
 *   **Exam Dates:** Three testing windows in December 2025. You can take the test up to three times!
 
@@ -49,7 +49,7 @@ Required for NMIMS (Mumbai and other campuses), K J Somaiya, and XIMB (specific 
 
 *Do not wait for your CAT/XAT results to apply!* This is a massive mistake many students make.
 
-Top non-IIM institutes (like SPJIMR, MDI Gurgaon, NMIMS, and Symbiosis institutes) require you to submit their separate, specific application forms *before* the entrance exams even take place. 
+Top non-IIM institutes (like SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon), NMIMS, and Symbiosis institutes) require you to submit their separate, specific application forms *before* the entrance exams even take place. 
 *   **Early Application Window:** September 2025 – November 2025. 
 *   **Post-Result Applications:** December 2025 – February 2026 (For tier-2 and tier-3 colleges, or IIT MBA programs).
 

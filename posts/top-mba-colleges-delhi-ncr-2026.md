@@ -16,9 +16,9 @@ Whether you are aiming for the "Red Building" of FMS or looking for a high-ROI p
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **FMS Delhi (The ROI Champion)**| CAT | ₹2.0 Lakhs | ₹34.10 LPA |
-| **MDI Gurgaon** | CAT | ₹25.5 Lakhs | ₹27.67 LPA |
-| **IIFT Delhi** | CAT (new for 2026) | ₹21.0 Lakhs | ₹29.10 LPA |
+| **[FMS Delhi](/colleges/fms-delhi) (The ROI Champion)**| CAT | ₹2.0 Lakhs | ₹34.10 LPA |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | CAT | ₹25.5 Lakhs | ₹27.67 LPA |
+| **[IIFT Delhi](/colleges/iift-delhi)** | CAT (new for 2026) | ₹21.0 Lakhs | ₹29.10 LPA |
 | **DMS, IIT Delhi** | CAT | ₹11.2 Lakhs | ₹25.82 LPA |
 | **IMI New Delhi**| CAT / XAT | ₹20.5 Lakhs | ₹17.01 LPA |
 | **LBSIM Delhi** | CAT / GMAT | ₹14.5 Lakhs | ₹12.42 LPA |
@@ -52,7 +52,7 @@ If you are a 90+ percentile CAT/XAT holder, these Delhi NCR colleges are high-va
 
 - **IMT Ghaziabad:** India's #1 college for **Marketing** specializations after the Top 5 IIMs.
 - **DMS, IIT Delhi:** Best for tech-management roles and ROI.
-- **FORE School of Management:** Located in the heart of South Delhi (Qutub Institutional Area), known for great industry internships.
+- **[FORE School of Management](/colleges/fore-school-delhi):** Located in the heart of South Delhi (Qutub Institutional Area), known for great industry internships.
 
 ---
 
@@ -68,7 +68,7 @@ Students from UP, Bihar, and Rajasthan often target Greater Noida for its afford
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. Is FMS Delhi better than IIM Ahmedabad?**
+**Q1. Is FMS Delhi better than [IIM Ahmedabad](/colleges/iim-ahmedabad)?**
 For **ROI**, FMS is the winner. For **Global Branding**, IIM-A is ahead. For most Indian students, FMS is a preferred choice because it has ZERO debt post-graduation.
 
 **Q2. Can I get direct admission in MBA Delhi NCR?**

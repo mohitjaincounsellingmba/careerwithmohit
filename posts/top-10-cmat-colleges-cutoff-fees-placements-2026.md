@@ -23,7 +23,7 @@ Here is the **definitive list of top 10 CMAT colleges in 2026**, their expected 
 | 5 | GIM, Goa | 95+ | ₹21 Lakhs | ₹12–13 LPA |
 | 6 | Welingkar (WeSchool), Mumbai | 90–95+ | ₹13–15 Lakhs | ₹9–11 LPA |
 | 7 | NIBM, Pune | 85–95+ | ₹10–12 Lakhs | ₹8–10 LPA |
-| 8 | BIMTECH, Greater Noida | 85–90+ | ₹14–16 Lakhs | ₹11–12 LPA |
+| 8 | [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) | 85–90+ | ₹14–16 Lakhs | ₹11–12 LPA |
 | 9 | IFMR GSB (Krea University), Chennai | 85+ | ₹18–20 Lakhs | ₹10–12 LPA |
 | 10 | XISS, Ranchi | 90–95+ | ₹7–9 Lakhs | ₹8–10 LPA |
 

@@ -58,9 +58,9 @@ IP University strictly centralizes the counselling process for all its affiliate
 - VIPS (Vivekananda Institute of Professional Studies), Pitampura
 - NDIM (New Delhi Institute of Management) - *Only the IPU affiliated MBA wing*
 - RDIAS (Rukmini Devi Institute of Advanced Studies), Rohini
-- Gitarattan International Business School (GIBS), Rohini
+- [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi), Rohini
 - Banarsidas Chandiwala Institute of Professional Studies (BCIPS), Dwarka
-- BPIT (Bhagwan Parshuram Institute of Technology), Rohini
+- [BPIT (Bhagwan Parshuram Institute of Technology)](/colleges/bpit-delhi), Rohini
 
 ---
 [👉 Confused about IP University Delhi Quota vs Outside Delhi counseling? Talk to Mohit Jain!](/inquiry)

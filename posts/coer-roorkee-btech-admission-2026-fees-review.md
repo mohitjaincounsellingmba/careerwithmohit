@@ -2,7 +2,7 @@
 title: "COER University (COER Roorkee) B.Tech Admission 2026: Fees & Review"
 date: "2026-03-24"
 description: "Planning for B.Tech at COER Roorkee (CORE)? Get the latest on JEE Main 2026 cutoffs, specialized technical tracks, detailed fee structure, and its ₹44 LPA placement record."
-keywords: ["COER Roorkee BTech admission 2026", "College of Engineering Roorkee cutoff", "COER University fees 2026", "COER placement review 2025", "BTech admission Roorkee", "COER vs Quantum University"]
+keywords: ["COER Roorkee BTech admission 2026", "College of Engineering Roorkee cutoff", "COER University fees 2026", "COER placement review 2025", "BTech admission Roorkee", "COER vs [Quantum University](/colleges/quantum-university-roorkee)"]
 ---
 
 **COER University** (formerly known as the College of Engineering Roorkee - CORE), established in 1998, is one of the oldest and most respected private engineering colleges in Uttarakhand. Located near Roorkee (the hub of world-class technical education), COER is known for its academic heritage and strong placement record.

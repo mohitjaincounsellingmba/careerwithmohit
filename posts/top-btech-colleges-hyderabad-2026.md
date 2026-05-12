@@ -24,7 +24,7 @@ This guide covers the **top B.Tech colleges in Hyderabad for 2026**, including f
 | VIT-AP (Amaravati) | Private Deemed | ₹2.1 L/yr | ₹6–10 LPA | VITEEE / Boards |
 | Mahindra University | Private | ₹3.5 L/yr | ₹8–14 LPA | MU-OET / JEE |
 | CBIT Hyderabad | Private (Autonomous) | ₹1.5 L/yr | ₹5–9 LPA | TS EAMCET |
-| CVR College of Engineering | Private | ₹1.2 L/yr | ₹4–7 LPA | TS EAMCET |
+| [CVR College of Engineering](/colleges/cvr-college-of-engineering) | Private | ₹1.2 L/yr | ₹4–7 LPA | TS EAMCET |
 | MVSR Engineering College | Private | ₹1.1 L/yr | ₹4–6 LPA | TS EAMCET |
 
 ---

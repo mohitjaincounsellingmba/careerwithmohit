@@ -11,7 +11,7 @@ If you are a PG aspirant targeting **Ghaziabad for the 2026-27 academic session*
 
 ---
 
-### **1. ITS Engineering College (Ghaziabad)**
+### **1. [ITS Engineering College](/colleges/its-engineering-greater-noida) (Ghaziabad)**
 ITS Group is one of the most recognized names in Ghaziabad's education sector. They accept CUET PG scores for their MBA and MCA programs.
 *   **Top Programs:** MBA (Marketing/Finance/HR/IT), MCA.
 *   **Admission Process:** They consider CUET PG scores as part of the AKTU-led counseling process or direct admission rounds.

@@ -1,7 +1,7 @@
 ---
 title: "IIEBM Pune Review 2025: PGDM with SAP (PGPERP) Advantage"
 date: "2026-03-14"
-description: "Thinking of IIEBM Pune? Read our review on IIEBM (Indus Business School) placements 2025, verified fees, and the unique SAP integration advantage."
+description: "Thinking of IIEBM Pune? Read our review on [IIEBM (Indus Business School)](/colleges/iiebm-pune) placements 2025, verified fees, and the unique SAP integration advantage."
 keywords: ["IIEBM Pune review 2025", "Indus Business School placements", "IIEBM Pune fees", "PGDM with SAP in Pune", "IIEBM Pune SAP certifications", "IIEBM Pune average package 2025"]
 ---
 

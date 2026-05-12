@@ -76,7 +76,7 @@ India's infrastructure spending is at an all-time high:
 | NIT Warangal | ~18,000 |
 | NIT Surathkal | ~20,000 |
 | NIT Calicut | ~22,000 |
-| MNIT Jaipur | ~25,000 |
+| [MNIT Jaipur](/colleges/mnit-jaipur) | ~25,000 |
 | NIT Rourkela | ~28,000 |
 
 ---

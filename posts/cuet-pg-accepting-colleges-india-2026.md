@@ -80,13 +80,13 @@ For IT and software aspirants, the MCA paper in CUET PG (Paper Code: SCQP09) pro
 
 Many premium private universities have partnered with NTA to accept CUET PG scores, offering great infrastructure and specialized PG programs:
 
-1. **Amity University** (Noida, Gurugram, Lucknow)
-2. **Bennett University**, Greater Noida
+1. **[Amity University](/colleges/amity-noida)** (Noida, Gurugram, Lucknow)
+2. **[Bennett University](/colleges/bennett-greater-noida)**, Greater Noida
 3. **Galgotias University**, Greater Noida
 4. **GD Goenka University**, Gurugram
 5. **K.R. Mangalam University**, Gurugram
 6. **Lovely Professional University (LPU)**, Punjab
-7. **Sharda University**, Greater Noida
+7. **[Sharda University](/colleges/sharda-greater-noida)**, Greater Noida
 
 ---
 

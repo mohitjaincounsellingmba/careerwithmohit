@@ -5,7 +5,7 @@ description: "Is AKEMI Pune good for MBA? Explore our 2025 review of AKEMI Pune 
 keywords: ["AKEMI Pune review 2025", "AKEMI Pune placements", "AKEMI Pune fees", "AKEMI Pune MBA code", "best management college in Tathawade", "AKEMI Pune average package 2025"]
 ---
 
-AKEMI Business School in Pune is a growing management institute located in the educational hub of Tathawade. It has gained popularity for its personalized approach to student grooming and its strong corporate interface.
+[AKEMI Business School](/colleges/akemi-business-school) in Pune is a growing management institute located in the educational hub of Tathawade. It has gained popularity for its personalized approach to student grooming and its strong corporate interface.
 
 ### **Quick Highlights (2025 Batch):**
 *   **Avg Placement**: ₹5.00 - ₹6.00 LPA

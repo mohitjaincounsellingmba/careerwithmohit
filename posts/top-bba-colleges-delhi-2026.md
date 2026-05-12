@@ -26,7 +26,7 @@ Here are the **Top BBA Colleges in Delhi for 2026**.
 - **Entrance Exam:** GGSIPU CET / CUET
 - **USP:** Top-ranked college under IP University known for its discipline and academic results.
 
-### 3. Jamia Millia Islamia (JMI), Delhi
+### 3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia), Delhi
 - **Approx. Fees:** ₹13,000 (Annual)
 - **Average Placement:** ₹4 - 5 LPA
 - **Entrance Exam:** JMI Entrance Exam

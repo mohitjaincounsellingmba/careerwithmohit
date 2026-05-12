@@ -1,7 +1,7 @@
 ---
 title: "NIET Greater Noida Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
-description: "Review of Noida Institute of Engineering and Technology (NIET) MBA. Explore 2025 placements, high-tech campus, and industry faculty."
+description: "Review of [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida) MBA. Explore 2025 placements, high-tech campus, and industry faculty."
 keywords: ["NIET Greater Noida review 2026", "NIET MBA placements 2025", "NIET infra review", "best B-school in Greater Noida"]
 ---
 

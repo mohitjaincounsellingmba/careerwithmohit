@@ -2,7 +2,7 @@
 title: "VIT Chennai B.Tech Admission 2026: Fees, Category-wise Cutoffs & Placement Review"
 date: "2026-03-24"
 description: "Everything you need to know about VIT Chennai B.Tech admission 2026. Get the latest details on VITEEE cutoffs for CSE, category-wise fee structure, and a comparison with the Vellore campus."
-keywords: ["VIT Chennai BTech admission 2026", "VIT Chennai fees category 1 to 5", "VIT Chennai CSE cutoff rank", "VITEEE 2026 Chennai", "VIT Chennai placement review 2025", "VIT Vellore vs VIT Chennai", "VIT Chennai BTech average package"]
+keywords: ["VIT Chennai BTech admission 2026", "VIT Chennai fees category 1 to 5", "VIT Chennai CSE cutoff rank", "VITEEE 2026 Chennai", "VIT Chennai placement review 2025", "[VIT Vellore](/colleges/vit-vellore) vs VIT Chennai", "VIT Chennai BTech average package"]
 ---
 
 While **VIT Vellore** is the flagship campus, **VIT Chennai** has rapidly emerged as a top-tier engineering destination, often preferred by students who want closer proximity to the industrial hub of Chennai. Offering the same degree, centralized placements, and the flexible FFCS system, VIT Chennai is a powerhouse in its own right.

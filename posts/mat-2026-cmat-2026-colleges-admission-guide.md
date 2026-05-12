@@ -16,14 +16,14 @@ If you want an MBA but don't want to deal with the extreme difficulty of CAT, th
 
 | College | Exam Accepted | Cutoff (Approx) | Avg. Package |
 |---|---|---|---|
-| **JBIMS Mumbai** | CMAT | 99.9+ Percentile| ₹28.02 LPA |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | CMAT | 99.9+ Percentile| ₹28.02 LPA |
 | **SIMSREE Mumbai** | CMAT | 99.8+ Percentile| ₹15.20 LPA |
-| **PUMBA Pune** | CMAT | 99+ Percentile | ₹9.40 LPA |
+| **[PUMBA Pune](/colleges/pumba-pune)** | CMAT | 99+ Percentile | ₹9.40 LPA |
 | **GIM Goa** | CMAT | 95+ Percentile | ₹14.80 LPA |
 | **K J Somaiya** | CMAT | 95+ Percentile | ₹12.30 LPA |
 | **Great Lakes** | CMAT | 90+ Percentile | ₹14.50 LPA |
 | **BIMTECH** | MAT/CMAT | 85+ Percentile | ₹11.20 LPA |
-| **XIME Bangalore** | MAT/CMAT | 80+ Percentile | ₹10.30 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore)** | MAT/CMAT | 80+ Percentile | ₹10.30 LPA |
 
 ---
 

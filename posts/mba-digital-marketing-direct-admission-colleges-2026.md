@@ -20,9 +20,9 @@ This list includes colleges that offer a specialized MBA in Digital Marketing or
 
 | College Name | Location | Approx. Fees (2 Years) | Admission Mode |
 | :--- | :--- | :--- | :--- |
-| **Amity University** | Noida, Delhi NCR | ₹12.50 Lakhs | Direct / Interview |
+| **[Amity University](/colleges/amity-noida)** | Noida, Delhi NCR | ₹12.50 Lakhs | Direct / Interview |
 | **Jain University** | Bangalore | ₹9.80 Lakhs | JET / Direct |
-| **GIBS Business School** | Bangalore | ₹8.25 Lakhs | Profile Based / Direct |
+| **[GIBS Business School](/colleges/gibs-bangalore)** | Bangalore | ₹8.25 Lakhs | Profile Based / Direct |
 | **ITM Business School** | Mumbai/Navi Mumbai | ₹12.45 Lakhs | Direct / Profile |
 | **LPU (Lovely Professional Univ)**| Phagwara, Punjab | ₹7.60 Lakhs | LPUNEST / Direct |
 | **Parul University** | Vadodara, Gujarat | ₹4.50 Lakhs | Direct Admission |

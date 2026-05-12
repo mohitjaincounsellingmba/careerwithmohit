@@ -30,7 +30,7 @@ When looking for direct admission, focusing on ROI ensures you don't take on cru
 Here is a curated list of institutions where you can secure direct admission (or apply via profile-based calls) that offer fantastic placements compared to their fee structure.
 
 ### 1. FOSTIIMA Business School, Delhi
-Founded by IIM Ahmedabad alumni, FOSTIIMA focuses heavily on corporate networking and rigorous training. 
+Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, FOSTIIMA focuses heavily on corporate networking and rigorous training. 
 - **Estimated Tuition Fee:** ₹11.50 Lakhs
 - **Average Placement:** ₹11.10 Lakhs
 - **Why it has High ROI:** The placement package comfortably matches the tuition fee. Since it has strong corporate backing, the conversion rate for good profiles is high.
@@ -58,7 +58,7 @@ NDIM is renowned for its industry linkage and having one of the largest corporat
 - **Why it has High ROI:** Consistent placements and heavy recruitment by Finance and Marketing giants. 
 - **Admission Mode:** A dedicated percentage of seats is reserved for Management Quota.
 
-### 5. FIIB (Fortune Institute of International Business), Delhi
+### 5. [FIIB (Fortune Institute of International Business), Delhi](/colleges/fiib-delhi)
 FIIB offers a robust curriculum focused on international business and sustainability.
 - **Estimated Tuition Fee:** ₹12.85 Lakhs
 - **Average Placement:** ₹8.50 – ₹9.00 Lakhs
@@ -72,7 +72,7 @@ A premium Tier-2 college with excellent infrastructure right in the heart of Noi
 - **Why it has High ROI:** Strong alumni base and premium MNC placements (Deloitte, HDFC, Amazon). 
 - **Admission Mode:** Management quota is strictly monitored but available for candidates with strong communication skills and academics.
 
-### 7. Accurate Institute of Management & Technology, Greater Noida
+### 7. [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology, Greater Noida
 A budget-friendly option for students targeting the Noida/Greater Noida IT hub.
 - **Estimated Tuition Fee:** ₹6.50 Lakhs
 - **Average Placement:** ₹6.00 – ₹7.00 Lakhs
@@ -86,7 +86,7 @@ A budget-friendly option for students targeting the Noida/Greater Noida IT hub.
 Taking direct admission via Management Quota is 100% legal, but the market is full of scammers. Follow these rules:
 
 1. **Never Pay in Cash:** All management quota fees should be paid directly to the college's official bank account via DD or NEFT.
-2. **Beware of Fake Promises:** If an agent promises you direct admission in FMS Delhi or IIT Delhi, it is a scam. These colleges **do not** have management quotas.
+2. **Beware of Fake Promises:** If an agent promises you direct admission in [FMS Delhi](/colleges/fms-delhi) or IIT Delhi, it is a scam. These colleges **do not** have management quotas.
 3. **Check Approvals:** Ensure the college is AICTE approved and the MBA degree is UGC recognized.
 4. **Use Expert Guidance:** Speak to verified career counsellors who have official tie-ups with the universities.
 

@@ -70,7 +70,7 @@ Mumbai's job market is so large that even mid-tier colleges provide fantastic pl
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. Is JBIMS Mumbai better than IIM Ahmedabad?**
+**Q1. Is [JBIMS Mumbai](/colleges/jbims-mumbai) better than [IIM Ahmedabad](/colleges/iim-ahmedabad)?**
 For **Marketing & Consultancy**, IIM-A is ahead. For **Finance & ROI**, JBIMS is often preferred because of its location in South Mumbai (Churchgate) and minimal fees.
 
 **Q2. Can I get direct admission in MBA Mumbai colleges?**

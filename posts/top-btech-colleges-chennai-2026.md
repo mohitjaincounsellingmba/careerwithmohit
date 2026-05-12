@@ -53,7 +53,7 @@ One of India's oldest and most respected engineering colleges, CEG is part of An
 
 ## Tier 2 — Top Private/Deemed Universities in Chennai
 
-### 3. SRM Institute of Science and Technology, Kattankulathur
+### 3. [SRM Institute of Science and Technology, Kattankulathur](/colleges/srm-institute-of-science-and-technology-kattankulathur)
 SRM (Kattankulathur) is one of the largest private engineering universities in India with 50,000+ students, and a remarkable placement record particularly in IT and software.
 
 - **Courses:** CSE, ECE, EEE, Mechanical, Biomedical, Robotics, Data Science, AIML

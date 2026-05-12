@@ -33,7 +33,7 @@ CAT remains the most populated exam in India. While registrations touched a reco
 XAT saw an unprecedented **40% jump** in registrations in recent years. More students are choosing XAT as a serious alternative to CAT because top colleges like XLRI, SPJIMR, and IMT provide excellent placements outside the IIM umbrella.
 
 #### **3. SNAP: High Multiple Attempts**
-SNAP allows up to **three attempts**. Most of the 1.4 Lakh candidates take at least two attempts to improve their speed, making the internal competition for SIBM Pune extremely fierce.
+SNAP allows up to **three attempts**. Most of the 1.4 Lakh candidates take at least two attempts to improve their speed, making the internal competition for [SIBM Pune](/colleges/sibm-pune) extremely fierce.
 
 #### **4. NMAT: The Corporate Favorite**
 With around 75,000 to 80,000 aspirants, NMAT has a lower "raw" volume compared to CAT, but the quality of competition is very high since the target is primarily **NMIMS Mumbai**—one of India's best private B-schools.

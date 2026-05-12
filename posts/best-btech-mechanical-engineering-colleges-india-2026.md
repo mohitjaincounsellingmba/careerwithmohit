@@ -25,7 +25,7 @@ This guide covers the **best B.Tech Mechanical Engineering colleges in India for
 | NIT Warangal (ME) | Central Govt | ₹1.5 L | ₹8–12 LPA | JEE Main |
 | NIT Surathkal (ME) | Central Govt | ₹1.5 L | ₹7–11 LPA | JEE Main |
 | BITS Pilani (ME) | Private Deemed | ₹5.5 L | ₹10–18 LPA | BITSAT |
-| VIT Vellore (ME) | Private Deemed | ₹2.1 L | ₹5–9 LPA | VITEEE |
+| [VIT Vellore](/colleges/vit-vellore) (ME) | Private Deemed | ₹2.1 L | ₹5–9 LPA | VITEEE |
 | Manipal Institute (ME) | Private Deemed | ₹2.3 L | ₹5–9 LPA | MU OET |
 | Thapar University (ME) | Private | ₹4.0 L | ₹7–12 LPA | JEE Main |
 | Jadavpur University (ME) | State Govt | ₹0.40 L | ₹6–10 LPA | WBJEE |
@@ -71,7 +71,7 @@ This guide covers the **best B.Tech Mechanical Engineering colleges in India for
 | NIT Warangal | ~8,000 |
 | NIT Surathkal | ~10,000 |
 | NIT Calicut | ~12,000 |
-| MNIT Jaipur | ~15,000 |
+| [MNIT Jaipur](/colleges/mnit-jaipur) | ~15,000 |
 | NIT Rourkela | ~18,000 |
 | MNNIT Allahabad | ~20,000 |
 | NIT Delhi | ~22,000 |

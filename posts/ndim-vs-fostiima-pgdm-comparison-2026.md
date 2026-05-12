@@ -5,7 +5,7 @@ description: "Confused between NDIM Delhi and FOSTIIMA for your PGDM? Compare 20
 keywords: ["NDIM vs FOSTIIMA", "NDIM Delhi average package 2026", "FOSTIIMA average package 2026", "NDIM vs FOSTIIMA fees", "FOSTIIMA CAT cutoff 2025", "best PGDM in Delhi under 12 Lakhs"]
 ---
 
-For MBA aspirants scoring in the **60 to 75 percentile range**, Delhi offers two strong contenders: the **New Delhi Institute of Management (NDIM)** and **FOSTIIMA Business School**. While FOSTIIMA is a rising star founded by IIM Ahmedabad alumni, NDIM remains the undisputed heavyweight champion in terms of awards, legacy, and industry recognition.
+For MBA aspirants scoring in the **60 to 75 percentile range**, Delhi offers two strong contenders: the **New Delhi Institute of Management (NDIM)** and **FOSTIIMA Business School**. While FOSTIIMA is a rising star founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, NDIM remains the undisputed heavyweight champion in terms of awards, legacy, and industry recognition.
 
 In this 2026-28 batch comparison, we breakdown why NDIM's premium positioning and FOSTIIMA's aggressive placement model are the two choices you need to weigh.
 

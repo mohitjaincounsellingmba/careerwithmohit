@@ -20,7 +20,7 @@ This expert-curated guide covers India's **best private B.Tech engineering colle
 | BITS Pilani (Goa) | Goa | ₹5.5 L | ₹14–20 LPA | BITSAT |
 | BITS Pilani (Hyderabad) | Telangana | ₹5.5 L | ₹15–20 LPA | BITSAT |
 | Thapar University | Punjab | ₹4.0 L | ₹10–18 LPA | JEE Main / Boards |
-| VIT Vellore | Tamil Nadu | ₹2.1 L | ₹7–14 LPA | VITEEE |
+| [VIT Vellore](/colleges/vit-vellore) | Tamil Nadu | ₹2.1 L | ₹7–14 LPA | VITEEE |
 | Manipal Institute of Technology | Karnataka | ₹2.3 L | ₹7–12 LPA | MU OET / JEE |
 | Amrita Vishwa Vidyapeetham | Tamil Nadu | ₹1.8 L | ₹6–10 LPA | AEEE / JEE Main |
 | SRM Institute (Kattankulathur) | Tamil Nadu | ₹2.0 L | ₹6–12 LPA | SRMJEEE |
@@ -28,9 +28,9 @@ This expert-curated guide covers India's **best private B.Tech engineering colle
 | Symbiosis Institute of Technology | Maharashtra | ₹2.5 L | ₹6–10 LPA | SITEEE / JEE |
 | KJ Somaiya (Mumbai) | Maharashtra | ₹2.1 L | ₹8–15 LPA | MHT CET / JEE |
 | Mahindra University | Telangana | ₹3.5 L | ₹8–14 LPA | MU-OET / JEE |
-| Bennett University | UP | ₹2.2 L | ₹8–11 LPA | JEE Main / Boards |
+| [Bennett University](/colleges/bennett-greater-noida) | UP | ₹2.2 L | ₹8–11 LPA | JEE Main / Boards |
 | Shiv Nadar University | UP | ₹3.5 L | ₹8–14 LPA | SNUAT / JEE Main |
-| BML Munjal University | Haryana | ₹2.5 L | ₹6–10 LPA | JEE Main / Boards |
+| [BML Munjal University](/colleges/bml-munjal-gurgaon) | Haryana | ₹2.5 L | ₹6–10 LPA | JEE Main / Boards |
 
 ---
 

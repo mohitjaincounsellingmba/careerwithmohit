@@ -19,7 +19,7 @@ Whether you are targeting an autonomous institution or a MAKAUT-affiliated colle
 | **St. Xavier's College (Autonomous)**| Merit-based | ₹2.8 - 3.5 Lakhs | ₹4.5 - 6.5 LPA |
 | **IEM Kolkata (Salt Lake)** | IEMJEE / Merit | ₹3.5 - 4.5 Lakhs | ₹4.2 - 6.8 LPA |
 | **Heritage Institute of Tech** | Merit-based | ₹3.0 - 4.2 Lakhs | ₹4.0 - 6.2 LPA |
-| **Techno India University** | Merit-based | ₹2.8 - 4.0 Lakhs | ₹3.8 - 5.5 LPA |
+| **[Techno India University](/colleges/techno-india-university-kolkata)** | Merit-based | ₹2.8 - 4.0 Lakhs | ₹3.8 - 5.5 LPA |
 | **Brainware University** | Merit-based | ₹2.5 - 3.2 Lakhs | ₹3.5 - 5.0 LPA |
 | **Asutosh College** | Merit-based | ₹0.9 - 1.4 Lakhs | ₹3.2 - 4.2 LPA |
 | **Future Institute of Tech** | Merit-based | ₹2.2 - 3.0 Lakhs | ₹3.2 - 4.8 LPA |

@@ -41,7 +41,7 @@ In this guide, we break down **12 key differences** to help you decide which pat
 - **IIMs (Ahmedabad, Bangalore, Calcutta, etc.)** — Note: Most IIMs now award MBA degrees, but follow a PGDM-style pedagogy.
 - **XLRI, Jamshedpur**
 - **SPJIMR, Mumbai**
-- **BIMTECH, Greater Noida**
+- **[BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)**
 - **XIME, Bangalore**
 - **IMI, New Delhi**
 

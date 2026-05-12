@@ -20,7 +20,7 @@ Known for its high academic standards in the social science domain.
 India’s first university for women with multiple campuses across Mumbai and Maharashtra.
 *   **Popular Degrees:** BA, B.Sc (Home Science), B.Com.
 
-### **3. Amity University, Mumbai**
+### **3. [Amity University, Mumbai](/colleges/amity-university-mumbai)**
 A sprawling private campus on the Mumbai-Pune Expressway with high-tech facilities.
 *   **Degrees Offered:** BA J&MC (Journalism), BBA, B.Com, B.Sc.
 *   **USP:** Global semester exchange and placement industry connect.

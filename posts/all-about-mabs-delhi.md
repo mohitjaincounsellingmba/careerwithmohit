@@ -1,7 +1,7 @@
 ---
 title: "MABS Delhi Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
-description: "Review of Maharaja Agrasen Business School (MABS). Explore the 1.13 Cr highest package claim, modern infra, and faculty review."
+description: "Review of [Maharaja Agrasen Business School (MABS)](/colleges/mabs-delhi). Explore the 1.13 Cr highest package claim, modern infra, and faculty review."
 keywords: ["MABS Delhi review 2026", "Maharaja Agrasen Business School placements", "MABS faculty review", "best MBA in Delhi ROI"]
 ---
 

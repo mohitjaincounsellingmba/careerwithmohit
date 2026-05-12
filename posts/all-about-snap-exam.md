@@ -1,8 +1,8 @@
 ---
-title: "All About SNAP Exam 2026: SIBM Pune Cutoffs, Pattern, Marks & Top Colleges"
+title: "All About SNAP Exam 2026: [SIBM Pune](/colleges/sibm-pune) Cutoffs, Pattern, Marks & Top Colleges"
 date: "2026-03-13"
 description: "The complete guide to the Symbiosis National Aptitude Test (SNAP). Discover the lightning-fast exam pattern, total marks, cutoffs for SIBM/SCMHRD, and top colleges."
-keywords: ["SNAP exam 2026", "SNAP total marks", "SNAP exam pattern", "SIBM Pune cutoff SNAP", "top colleges accepting SNAP", "SCMHRD Pune cutoff"]
+keywords: ["SNAP exam 2026", "SNAP total marks", "SNAP exam pattern", "SIBM Pune cutoff SNAP", "top colleges accepting SNAP", "[SCMHRD Pune](/colleges/scmhrd-pune) cutoff"]
 ---
 
 The Symbiosis National Aptitude Test (SNAP) is a highly specialized management entrance exam conducted exclusively for admission into the 16 MBA institutes operating under the Symbiosis International (Deemed) University (SIU). 
@@ -45,7 +45,7 @@ Symbiosis institutes rely heavily on extremely high percentile groupings due to 
 
 - **SIBM Pune (Flagship MBA):** 98.0+ to 98.5+ Percentile (~40 to 44 Marks)
 - **SCMHRD Pune (Flagship MBA & HR):** 97.0+ to 97.5+ Percentile (~38 to 41 Marks)
-- **SIIB Pune, SIBM Bangalore:** 90.0+ to 93.0+ Percentile (~35 Marks)
+- **SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore):** 90.0+ to 93.0+ Percentile (~35 Marks)
 - **SSBF, SIOM Nashik, SICSR:** 80.0+ to 85.0+ Percentile
 
 ## Top Colleges Accepting SNAP Scores

@@ -34,7 +34,7 @@ keywords: ["UPTAC Counselling 2026 dates", "AKTU BTech admission 2026", "UPTAC r
 2.  **KNIT Sultanpur** (Kamla Nehru Institute of Technology).
 3.  **BIET Jhansi** (Bundelkhand Institute of Engineering & Technology).
 4.  **JSS Academy of Technical Education, Noida**.
-5.  **KIET Group of Institutions, Ghaziabad**.
+5.  **[KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad**.
 6.  **GL Bajaj Institute of Technology & Management, Greater Noida**.
 7.  **Galgotias College of Engineering & Technology, Greater Noida**.
 

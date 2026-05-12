@@ -47,7 +47,7 @@ Often called "Cyberabad," Hyderabad is a strong competitor to Bangalore, especia
 ### 3. Delhi NCR: The Corporate & Multi-Sector Hub
 Delhi, Noida, and Gurgaon offer a diverse ecosystem suitable for **Tech, Electronics, and Civil Engineering**.
 
-*   **Top Colleges:** IIT Delhi, DTU, NSUT, IIIT Delhi, Amity University, JIIT Noida.
+*   **Top Colleges:** IIT Delhi, DTU, NSUT, IIIT Delhi, [Amity University](/colleges/amity-noida), JIIT Noida.
 *   **Pros:** Home to top government-funded institutes and HQs of multinational corporations in Gurgaon/Noida.
 *   **Cons:** High pollution levels and extreme weather conditions.
 *   **Average Salary (Top Colleges):** ₹11 - ₹20+ LPA.
@@ -59,7 +59,7 @@ Delhi, Noida, and Gurgaon offer a diverse ecosystem suitable for **Tech, Electro
 ### 4. Pune: The Oxford of the East & Auto Hub
 Pune is the go-to city for **Mechanical, Automotive, and IT Services**.
 
-*   **Top Colleges:** COEP Tech University, PICT, MIT-WPU, VIT Pune, Army Institute of Technology (AIT).
+*   **Top Colleges:** COEP Tech University, PICT, MIT-WPU, VIT Pune, [Army Institute of Technology (AIT)](/colleges/ait-pune).
 *   **Pros:** Strong automotive industrial base (Tata Motors, Volkswagen) and a very student-friendly culture.
 *   **Cons:** Public transport infrastructure is still catching up with the city's growth.
 *   **Average Salary (Top Colleges):** ₹8 - ₹15+ LPA.
@@ -95,7 +95,7 @@ While expensive, Mumbai remains a top choice for **Chemical Engineering and Tech
 ### 7. Jaipur: The Emerging Educational Hub
 Perfect for students looking for **Quality Education at an Affordable Cost**.
 
-*   **Top Colleges:** MNIT Jaipur, LNMIIT, JECRC University, Manipal University Jaipur.
+*   **Top Colleges:** [MNIT Jaipur](/colleges/mnit-jaipur), LNMIIT, [JECRC University](/colleges/jecrc-jaipur), [Manipal University Jaipur](/colleges/manipal-university-jaipur).
 *   **Pros:** Very low cost of living, peaceful environment, and emerging as a hub for IT startups and education.
 *   **Cons:** Smaller local job market compared to Tier 1 metros.
 *   **Average Salary:** ₹6 - ₹14+ LPA.

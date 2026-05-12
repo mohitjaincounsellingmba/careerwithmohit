@@ -15,7 +15,7 @@ If you have missed an entrance deadline or need a guaranteed seat in a premium B
 
 | Institute | Popular Program | Direct Seat Type | Average Package |
 | :--- | :--- | :--- | :--- |
-| **JBIMS Mumbai** | MSc Finance / MMS | Institutional Level | ₹28.02 LPA |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | MSc Finance / MMS | Institutional Level | ₹28.02 LPA |
 | **SIMREE Mumbai** | MMS / PGDM | Institute Level | ₹15.19 LPA |
 | **ITM Navi Mumbai** | PGDM iConnect | Mgmt Quota / Merit | ₹8.65 LPA |
 | **SIES Navi Mumbai** | PGDM | Institutional Seats | ₹9.10 LPA |

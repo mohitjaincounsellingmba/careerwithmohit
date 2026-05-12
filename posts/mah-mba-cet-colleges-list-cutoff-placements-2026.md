@@ -56,7 +56,7 @@ Even with a low percentile, you can secure admission through the CAP rounds. Whi
 | :--- | :--- | :--- |
 | **JSPM Narhe Campus** | 50.48 | Pune |
 | **NSCT's IBMR** | 49.38 | Chakan |
-| **ASM IBMR** | 48.17 | Pune |
+| **[ASM IBMR](/colleges/asm-ibmr)** | 48.17 | Pune |
 | **Sinhgad SIBAR** | 49.33 | Pune |
 | **GH Raisoni** | 45.63 | Nagpur |
 | **Sandip Institute** | 45.61 | Nashik |

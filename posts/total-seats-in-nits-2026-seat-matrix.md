@@ -18,7 +18,7 @@ While NIT seats remain fairly stable, minor adjustments are made every year for 
 | **NIT Surathkal (Karnataka)** | 900+ |
 | **NIT Warangal (Telangana)** | 950+ |
 | **NIT Rourkela (Odisha)** | 1,150+ |
-| **MNIT Jaipur (Rajasthan)** | 800+ |
+| **[MNIT Jaipur](/colleges/mnit-jaipur) (Rajasthan)** | 800+ |
 | **VNIT Nagpur (Maharashtra)** | 900+ |
 | **NIT Calicut (Kerala)** | 1,150+ |
 | **MNNIT Allahabad (UP)** | 1,000+ |

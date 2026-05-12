@@ -50,7 +50,7 @@ Several institutes have pioneered sports management education in India. Here are
 | **NASM (National Academy of Sports Management)** | Mumbai/Delhi | BBA, MBA, Diploma |
 | **Symbiosis School of Sports Sciences (SSSS)** | Pune | MBA (Sports Mgmt) |
 | **KJ Somaiya Institute of Management** | Mumbai | MBA (Sports Mgmt) |
-| **Bennett University** | Greater Noida | BBA (Sports Mgmt) |
+| **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | BBA (Sports Mgmt) |
 | **Jain University (CMS)** | Bangalore | MBA (Sports Mgmt) |
 
 *Looking for colleges in the financial capital? Check:* [Best MBA Colleges in Mumbai 2026](/blog/best-mba-colleges-in-mumbai-2026)

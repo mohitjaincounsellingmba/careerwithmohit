@@ -152,7 +152,7 @@ BITS Pilani breaks the IIT/NIT monopoly to claim the #10 spot — the only priva
 |---|---|---|
 | IIT BHU Varanasi | ~11 | Mining, Metallurgy, CSE |
 | IIT Indore | ~13 | Rising fast, strong AI/CS |
-| VIT Vellore | ~14 (private) | Mass placements, large network |
+| [VIT Vellore](/colleges/vit-vellore) | ~14 (private) | Mass placements, large network |
 | NIT Surathkal | ~15 | Excellent ECE/CSE/Mech |
 | Jadavpur University | ~16 | West Bengal's pride, affordable |
 | IIIT Hyderabad | ~17 | Best for CS pure research |

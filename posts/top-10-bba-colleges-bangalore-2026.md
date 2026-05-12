@@ -18,7 +18,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Bangalore for 2026** to h
 - **Entrance Exam / Admission Process:** CUET (Christ)
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. NMIMS Bangalore
+### 2. [NMIMS Bangalore](/colleges/nmims-bangalore)
 - **Approximate Annual Fees:** ₹3.0 Lakhs
 - **Entrance Exam / Admission Process:** NPAT
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

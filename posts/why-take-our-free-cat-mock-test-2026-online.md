@@ -40,7 +40,7 @@ Taking a mock test without analyzing it is like going to the gym and not lifting
 ---
 
 ## 🔥 The "Viral" CAT Challenge
-Think you have what it takes to get into IIM Ahmedabad? 
+Think you have what it takes to get into [IIM Ahmedabad](/colleges/iim-ahmedabad)? 
 1.  Take the **[Free CAT Mock Test here](https://www.careerwithmohit.online/tools/cat-mock-test)**.
 2.  Get your Projected Percentile.
 3.  **Share your score card** on WhatsApp or LinkedIn using the buttons on the results page.

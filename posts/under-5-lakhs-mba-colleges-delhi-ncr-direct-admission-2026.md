@@ -23,7 +23,7 @@ Students from neighboring states like Uttar Pradesh, Rajasthan, Haryana, and Bih
 ## Direct Admission vs. Management Quota
 
 Before looking at the colleges, it's important to clarify how "Direct Admission" works in Delhi NCR:
-- Colleges like FMS Delhi or Delhi School of Economics have entirely merit-based admission (via CAT/CUET) and do not have management quotas.
+- Colleges like [FMS Delhi](/colleges/fms-delhi) or Delhi School of Economics have entirely merit-based admission (via CAT/CUET) and do not have management quotas.
 - However, many top private B-schools approved by AICTE in Greater Noida, Ghaziabad, and Gurugram offer **Management Quota Seats** (usually 15-20% of the total intake).
 - These seats are filled based on your graduation marks, profile, and a personal interview, allowing you to bypass strict entrance test cutoffs.
 

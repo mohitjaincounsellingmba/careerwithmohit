@@ -62,8 +62,8 @@ If your exam went well, you should immediately pivot your focus toward JEE Advan
 
 *   [JEE Main College Predictor 2026: Find Your Best B.Tech College](/blog/jee-main-college-predictor-2026-btech-top-colleges)
 *   [How to Crack JEE Advanced 2026: Strategy for Top IITs](/blog/how-to-crack-jee-advanced-2026)
-*   [Direct Admission in Manipal University Jaipur B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
-*   [Direct Admission in JECRC University B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
+*   [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
+*   [Direct Admission in [JECRC University](/colleges/jecrc-jaipur) B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
 
 **Confused About B.Tech Admissions?**
 Don't let a low percentile stop you from pursuing your dream course. There are excellent engineering colleges available that match your profile and budget. Get expert guidance from our career counsellors.

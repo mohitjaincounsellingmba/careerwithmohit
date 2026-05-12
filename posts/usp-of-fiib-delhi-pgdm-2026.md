@@ -30,7 +30,7 @@ In this post, we break down the **10 real USPs of FIIB Delhi** — the factors t
 
 ### 1. 🌍 AACSB Accreditation — Top 6% of B-Schools Globally
 
-FIIB holds **AACSB (Association to Advance Collegiate Schools of Business)** accreditation — a distinction held by only **6% of business schools worldwide**. This is the same accreditation that IIM Ahmedabad, IIM Bangalore, and the world's top business schools hold.
+FIIB holds **AACSB (Association to Advance Collegiate Schools of Business)** accreditation — a distinction held by only **6% of business schools worldwide**. This is the same accreditation that [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), and the world's top business schools hold.
 
 What AACSB accreditation means for you:
 - **Global recognition** of your degree — especially valuable if you plan to work abroad
@@ -170,9 +170,9 @@ FIIB is the **right fit** if:
 - ✅ You are targeting **consulting, FMCG, or BFSI** roles
 
 FIIB may **not be ideal** if:
-- ❌ You are aiming for the highest domestic average packages — FOSTIIMA or Jaipuria Noida may edge ahead
+- ❌ You are aiming for the highest domestic average packages — FOSTIIMA or [Jaipuria Noida](/colleges/jaipuria-noida) may edge ahead
 - ❌ You want the lowest possible fee — JKBS or JIMS would be better
-- ❌ Your percentile is above 85 — aim for NDIM, LBSIM, or MDI Gurgaon
+- ❌ Your percentile is above 85 — aim for NDIM, LBSIM, or [MDI Gurgaon](/colleges/mdi-gurgaon)
 
 ---
 

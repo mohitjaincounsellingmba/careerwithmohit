@@ -21,7 +21,7 @@ Whether you are aiming for the state-of-the-art labs of NLU Delhi or the global 
 | **VIPS (GGSIPU)** | New Delhi | CLAT / IPU CET | ₹6.5 - 8.5 Lakhs | ₹5.5 - 8.0 LPA |
 | **Amity Law School** | Noida | Merit-based | ₹12.0 - 15.0 Lakhs | ₹4.5 - 7.5 LPA |
 | **Faculty of Law (DU)** | New Delhi | CUET PG | ₹0.15 - 0.25 Lakhs | ₹10.0 - 15.0 LPA |
-| **Bennett University** | Greater Noida | Merit / CLAT | ₹12.5 - 16.0 Lakhs | ₹5.0 - 8.5 LPA |
+| **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | Merit / CLAT | ₹12.5 - 16.0 Lakhs | ₹5.0 - 8.5 LPA |
 | **JIMS (GGSIPU)** | New Delhi | CLAT / IPU CET | ₹5.5 - 7.5 Lakhs | ₹4.5 - 6.5 LPA |
 
 ---

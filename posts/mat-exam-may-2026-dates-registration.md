@@ -59,7 +59,7 @@ A score of **80+ percentile** in MAT is exceptional and opens doors to top-rated
 
 Some of the most prominent colleges you can apply to using your MAT May 2026 score include:
 - **[BIMTECH Greater Noida](/blog/bimtech-greater-noida-placement-review-2025)**
-- **XIME Bangalore, Chennai, Kochi**
+- **[XIME Bangalore](/colleges/xime-bangalore), Chennai, Kochi**
 - **Christ University, Bengaluru**
 - **[Jaipuria Institute of Management (Lucknow, Noida, Jaipur, Indore)](/blog/all-about-jaipuria-institute-of-management)**
 - **[JIMS Rohini, Delhi](/blog/all-about-jims-rohini)**

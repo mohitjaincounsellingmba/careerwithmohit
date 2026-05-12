@@ -37,7 +37,7 @@ Mumbai is the undisputed king for students aiming for **Finance, Investment Bank
 ### 2. Bangalore: The Silicon Valley of India
 If you are interested in **Business Analytics, Product Management, or Startups**, Bangalore is your destination.
 
-*   **Top Colleges:** IIM Bangalore, SIBM Bangalore, Christ University, ISBR.
+*   **Top Colleges:** [IIM Bangalore](/colleges/iim-bangalore), [SIBM Bangalore](/colleges/sibm-bangalore), Christ University, ISBR.
 *   **Pros:** Thriving startup culture, pleasant weather, and proximity to tech giants like Google, Amazon, and Infosys.
 *   **Cons:** Heavy traffic congestion and rising rent prices.
 *   **Fresher Salary:** ₹10 - ₹34+ LPA (Tier 1).
@@ -49,7 +49,7 @@ If you are interested in **Business Analytics, Product Management, or Startups**
 ### 3. Delhi NCR: The Corporate & Policy Hub
 Delhi, Noida, and Gurgaon form a massive corporate corridor perfect for **Consulting, Marketing, and General Management**.
 
-*   **Top Colleges:** FMS Delhi, MDI Gurgaon, IIFT, IMT Ghaziabad, FORE School of Management.
+*   **Top Colleges:** [FMS Delhi](/colleges/fms-delhi), [MDI Gurgaon](/colleges/mdi-gurgaon), IIFT, IMT Ghaziabad, [FORE School of Management](/colleges/fore-school-delhi).
 *   **Pros:** Hub for consulting firms (McKinsey, BCG) and HQs of Fortune 500 companies in Gurgaon.
 *   **Cons:** Extreme weather (heat & cold) and high pollution levels.
 *   **Fresher Salary:** ₹11 - ₹34+ LPA (Tier 1).
@@ -61,7 +61,7 @@ Delhi, Noida, and Gurgaon form a massive corporate corridor perfect for **Consul
 ### 4. Pune: The Oxford of the East & HR Capital
 Pune is a favorite for students looking for **HR, Manufacturing, and Automotive** sectors.
 
-*   **Top Colleges:** SIBM Pune, SCMHRD, PUMBA, BIMM, Indira Group.
+*   **Top Colleges:** [SIBM Pune](/colleges/sibm-pune), SCMHRD, PUMBA, BIMM, Indira Group.
 *   **Pros:** "HR Capital of India," strong manufacturing base (Tata Motors, Mercedes), and a student-friendly environment with a lower cost of living than Mumbai.
 *   **Cons:** Fewer "Elite" Finance/Consulting roles compared to Mumbai/Delhi.
 *   **Fresher Salary:** ₹8 - ₹26+ LPA (Tier 1).
@@ -85,7 +85,7 @@ Ideal for students wanting to build a career in **Operations, Supply Chain, and 
 ### 6. Kolkata: The Analytics & Traditional Industrial Base
 Kolkata offers a mix of elite education and a rich cultural heritage, with a focus on **Analytics and Finance**.
 
-*   **Top Colleges:** IIM Calcutta, IIFT Kolkata, IMI Kolkata, IISWBM.
+*   **Top Colleges:** [IIM Calcutta](/colleges/iim-calcutta), IIFT Kolkata, [IMI Kolkata](/colleges/imi-kolkata), IISWBM.
 *   **Pros:** Home to IIM-C (best for Finance/Quant), low cost of living, and proximity to major ports and industries.
 *   **Cons:** Fewer new-age startup opportunities compared to Bangalore.
 *   **Fresher Salary:** ₹10 - ₹35+ LPA (Tier 1).
@@ -97,7 +97,7 @@ Kolkata offers a mix of elite education and a rich cultural heritage, with a foc
 ### 7. Jaipur: The Emerging Hub
 Jaipur is becoming a popular choice for **Cost-Effective MBA** programs and localized business roles.
 
-*   **Top Colleges:** Jaipuria Institute of Management, Taxila Business School, MNIT Jaipur, IIHMR.
+*   **Top Colleges:** Jaipuria Institute of Management, [Taxila Business School](/colleges/taxila-jaipur), [MNIT Jaipur](/colleges/mnit-jaipur), IIHMR.
 *   **Pros:** Very affordable cost of living, peaceful environment, and good ROI for mid-tier colleges.
 *   **Cons:** Limited exposure to large-scale multinational corporate offices.
 *   **Fresher Salary:** ₹6 - ₹12+ LPA.

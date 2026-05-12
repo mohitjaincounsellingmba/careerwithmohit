@@ -13,7 +13,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Gurgaon for 2026** to hel
 
 ## 🏆 Top 10 BBA Colleges in Gurgaon (2026 Rankings)
 
-### 1. BML Munjal University
+### 1. [BML Munjal University](/colleges/bml-munjal-gurgaon)
 - **Approximate Annual Fees:** ₹3.0 Lakhs
 - **Entrance Exam / Admission Process:** CUET / UGAT
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -28,7 +28,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Gurgaon for 2026** to hel
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 4. Amity University, Gurugram
+### 4. [Amity University](/colleges/amity-noida), Gurugram
 - **Approximate Annual Fees:** ₹2.8 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

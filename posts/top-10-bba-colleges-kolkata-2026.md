@@ -33,12 +33,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 5. Techno India University
+### 5. [Techno India University](/colleges/techno-india-university-kolkata)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 6. Amity University Kolkata
+### 6. [Amity University](/colleges/amity-noida) Kolkata
 - **Approximate Annual Fees:** ₹2.0 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -48,7 +48,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 8. Sister Nivedita University
+### 8. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata)
 - **Approximate Annual Fees:** ₹1.0 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

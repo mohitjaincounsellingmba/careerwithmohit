@@ -26,7 +26,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 | IIT Hyderabad (EE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
 | BITS Pilani (EEE) | Private Deemed | ₹5.5 L | ₹10–18 LPA | BITSAT |
 | Thapar University (EEE) | Private | ₹4.0 L | ₹7–12 LPA | JEE Main |
-| VIT Vellore (EEE) | Private Deemed | ₹2.1 L | ₹5–9 LPA | VITEEE |
+| [VIT Vellore](/colleges/vit-vellore) (EEE) | Private Deemed | ₹2.1 L | ₹5–9 LPA | VITEEE |
 | NIT Surathkal (EE) | Central Govt | ₹1.5 L | ₹7–11 LPA | JEE Main |
 
 ---
@@ -70,7 +70,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 | NIT Warangal | ~14,000 |
 | NIT Surathkal | ~16,000 |
 | NIT Calicut | ~18,000 |
-| MNIT Jaipur | ~22,000 |
+| [MNIT Jaipur](/colleges/mnit-jaipur) | ~22,000 |
 | NIT Delhi | ~20,000 |
 
 ---

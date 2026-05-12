@@ -35,7 +35,7 @@ DSU is highly regarded for its management and technical departments in Bangalore
 ### **5. Other Private Universities in Bangalore**
 Many growing private universities in the city use CUET PG to diversify their student intake.
 *   **Presidency University (Bangalore)**
-*   **Reva University (Bangalore)**
+*   **[Reva University](/colleges/reva-university-bangalore) (Bangalore)**
 
 ---
 

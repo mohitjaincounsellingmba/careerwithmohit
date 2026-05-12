@@ -60,9 +60,9 @@ With the exam date roughly 6 months away, May-June is the perfect time to start 
 
 ## 5. Top Colleges Accepting CAT 2026 Scores
 Apart from the 21 IIMs, several other institutes accept CAT scores:
-*   **FMS Delhi** (High ROI)
-*   **SPJIMR Mumbai** (Profile-based calls)
-*   **MDI Gurgaon**
+*   **[FMS Delhi](/colleges/fms-delhi)** (High ROI)
+*   **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** (Profile-based calls)
+*   **[MDI Gurgaon](/colleges/mdi-gurgaon)**
 *   **IITs (DoMS)**
 *   **IMT Ghaziabad**
 

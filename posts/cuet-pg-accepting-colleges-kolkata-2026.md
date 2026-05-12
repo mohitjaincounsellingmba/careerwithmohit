@@ -2,7 +2,7 @@
 title: "Top CUET PG Accepting Colleges in Kolkata 2026: Complete List"
 date: "2026-04-05"
 description: "Planning your PG in Kolkata? Discover the top colleges in the city accepting CUET PG 2026 scores, including top private and state universities."
-keywords: ["CUET PG colleges in Kolkata 2026", "Visva-Bharati CUET PG admission", "RKMVERI Kolkata CUET PG", "Amity University Kolkata CUET PG", "best PG colleges in Kolkata under CUET"]
+keywords: ["CUET PG colleges in Kolkata 2026", "Visva-Bharati CUET PG admission", "RKMVERI Kolkata CUET PG", "[Amity University](/colleges/amity-noida) Kolkata CUET PG", "best PG colleges in Kolkata under CUET"]
 ---
 
 Kolkata, the "Cultural Capital" of India, has long been a center for academic excellence. With the **CUET PG 2026** score becoming a primary admission criterion for many postgraduate programs, Kolkata’s top universities have integrated the CUET score into their admission process.

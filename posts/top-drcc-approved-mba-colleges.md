@@ -26,12 +26,12 @@ Delhi NCR boasts the largest concentration of DRCC-eligible private B-schools, o
 *   **IMS Ghaziabad** (University Courses & PGDM)
 *   **IILM University / Graduate School of Management** – Greater Noida
 *   **Galgotias University** – Greater Noida
-*   **Sharda University (School of Business Studies)** – Greater Noida
+*   **[Sharda University](/colleges/sharda-greater-noida) (School of Business Studies)** – Greater Noida
 *   **GL Bajaj Institute of Management & Technology** – Greater Noida
 *   **GNIOT Institute of Management Studies (GIMS)** – Greater Noida
 *   **Noida Institute of Engineering & Technology (NIET)** – Greater Noida
-*   **Bennett University** – Greater Noida
-*   **Lloyd Business School** – Greater Noida
+*   **[Bennett University](/colleges/bennett-greater-noida)** – Greater Noida
+*   **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** – Greater Noida
 
 ---
 
@@ -51,7 +51,7 @@ Pune, the "Oxford of the East," and Mumbai, India's financial capital, are premi
 *   **Lexicon MILE (Management Institute of Leadership & Excellence)** – Pune
 *   **ITM Business School** – Navi Mumbai
 *   **Dr. D.Y. Patil Vidyapeeth** – Pune
-*   **MIT World Peace University (MIT-WPU)** – Pune
+*   **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)** – Pune
 
 ---
 
@@ -65,7 +65,7 @@ Jaipur has quietly emerged as an excellent hub for management studies, offering 
 *   **Vivekananda Global University (VGU)** – Jaipur
 *   **Suresh Gyan Vihar University (SGVU)** – Jaipur
 *   **Jagan Nath University** – Jaipur
-*   **Poornima University** – Jaipur
+*   **[Poornima University](/colleges/poornima-jaipur)** – Jaipur
 
 ---
 
@@ -75,7 +75,7 @@ For students seeking a serene, distraction-free environment without compromising
 
 ### Top DRCC Approved Colleges in Dehradun:
 *   **UPES (University of Petroleum and Energy Studies)** – Dehradun
-*   **Doon Business School (DBS)** – Dehradun
+*   **[Doon Business School](/colleges/doon-business-school) (DBS)** – Dehradun
 *   **Graphic Era University** – Dehradun
 *   **Tulas Institute** – Dehradun
 *   **Uttaranchal University** – Dehradun
@@ -90,7 +90,7 @@ Bangalore's unmatched IT and startup ecosystem makes it a highly desirable desti
 *   **XIME (Xavier Institute of Management and Entrepreneurship)** – Bangalore
 *   **SIBM Bengaluru** – Electronic City
 *   **Alliance University** – Bangalore
-*   **ISBR Business School** – Bangalore
+*   **[ISBR Business School](/colleges/isbr-bangalore)** – Bangalore
 *   **LPU (Lovely Professional University)** – Jalandhar, Punjab
 *   **Chandigarh University** – Mohali, Punjab
 *   **KIIT School of Management (KSOM)** – Bhubaneswar, Odisha

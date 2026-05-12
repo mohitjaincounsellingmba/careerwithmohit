@@ -32,7 +32,7 @@ Universities like **Amity, Galgotias, Bennett, and LPU** often fill their seats 
 |---|---|---|---|
 | **Alliance University** | Bangalore | ₹15.5 - 18.0 Lakhs | ₹5.5 - 8.2 LPA |
 | **Amity Law School** | Noida | ₹12.0 - 15.0 Lakhs | ₹4.5 - 7.5 LPA |
-| **Bennett University** | Greater Noida | ₹12.5 - 16.0 Lakhs | ₹5.0 - 8.5 LPA |
+| **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | ₹12.5 - 16.0 Lakhs | ₹5.0 - 8.5 LPA |
 | **Loyola Academy** | Hyderabad | ₹6.5 - 9.0 Lakhs | ₹4.0 - 6.5 LPA |
 | **MIT-WPU Law** | Pune | ₹10.5 - 12.5 Lakhs | ₹4.0 - 6.5 LPA |
 | **School of Law, Presidency**| Bangalore | ₹7.5 - 10.5 Lakhs | ₹3.8 - 5.5 LPA |

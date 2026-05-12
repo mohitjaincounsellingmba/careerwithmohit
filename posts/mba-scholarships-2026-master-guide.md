@@ -33,7 +33,7 @@ A highly prestigious merit-based award for students at top-tier B-schools.
 
 *   **Scholarship Amount**: ₹3 Lakhs per annum.
 *   **Eligibility**:
-    *   Students of **IIM Ahmedabad, Bangalore, Kolkata, Lucknow, Indore, Kozhikode, and XLRI Jamshedpur**.
+    *   Students of **[IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Kolkata, Lucknow, Indore, Kozhikode, and XLRI Jamshedpur**.
     *   Only the **top 20 students** from each of these institutes (based on entrance ranks) are invited to apply.
     *   Selection is based on academic excellence, leadership traits, and essays.
 *   **Application Process**:

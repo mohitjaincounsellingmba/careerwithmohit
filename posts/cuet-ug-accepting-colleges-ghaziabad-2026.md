@@ -21,7 +21,7 @@ A premier institute in Ghaziabad, known for its undergraduate management and tec
 *   **Programs:** BBA, BCA, B.Sc (Hons) Biotechnology, B.Sc (Hons) Microbiology.
 *   **USP:** Solid placement record and corporate interfaces.
 
-### **3. KIET Group of Institutions (Specific Programs)**
+### **3. [KIET Group of Institutions](/colleges/kiet-ghaziabad) (Specific Programs)**
 A top-tier technical institute that considers CUET scores for specific multidisciplinary tracks.
 *   **Programs:** B.Pharm, BBA, BCA.
 *   **USP:** High placement rates and excellent infrastructure.

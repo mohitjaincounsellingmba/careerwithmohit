@@ -19,11 +19,11 @@ This guide covers the **top B.Tech engineering colleges in Kolkata for 2026**, w
 | Jadavpur University | State Govt (Autonomous) | ₹0.40 L/yr | ₹6–12 LPA | WBJEE |
 | IIEST Shibpur | Central Govt | ₹1.0 L/yr | ₹6–10 LPA | JEE Main / WBJEE |
 | Heritage Institute of Tech. | Private | ₹1.4 L/yr | ₹5–9 LPA | WBJEE |
-| Techno India University | Private | ₹1.0 L/yr | ₹4–7 LPA | WBJEE / Direct |
+| [Techno India University](/colleges/techno-india-university-kolkata) | Private | ₹1.0 L/yr | ₹4–7 LPA | WBJEE / Direct |
 | RCC Institute of Information Tech. | Private | ₹0.85 L/yr | ₹4–7 LPA | WBJEE |
 | MAKAUT (WBUT) Affiliated Colleges | Private | ₹0.75 L/yr | ₹3.5–6 LPA | WBJEE |
 | JIS University | Private | ₹1.0 L/yr | ₹4–7 LPA | WBJEE / Direct |
-| Sister Nivedita University | Private | ₹1.1 L/yr | ₹4–6 LPA | Direct |
+| [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) | Private | ₹1.1 L/yr | ₹4–6 LPA | Direct |
 
 ---
 

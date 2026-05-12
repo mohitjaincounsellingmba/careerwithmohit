@@ -17,7 +17,7 @@ At **CareerWithMohit**, we help you navigate these options to ensure you get the
 
 Here is a comprehensive list of the most popular private universities in the Delhi NCR region that participate in CUET PG and offer direct admission opportunities.
 
-#### **1. Amity University, Noida**
+#### **1. [Amity University, Noida](/colleges/amity-university-noida)**
 Amity is one of the most recognized global brands in education. While they accept CUET PG scores, most students join through their internal selection process which includes a test and an interview.
 *   **Total Fees**: ₹13.5 Lakhs – ₹15.8 Lakhs
 *   **Average Placement**: ₹7.65 LPA
@@ -29,7 +29,7 @@ Known for its industry-connected faculty and central location in the Knowledge P
 *   **Average Placement**: ₹8.6 LPA
 *   **Highest Package**: ₹24 LPA
 
-#### **3. Bennett University, Greater Noida**
+#### **3. [Bennett University](/colleges/bennett-greater-noida), Greater Noida**
 Backed by the Times of India Group, this university offers incredible corporate exposure and a modern curriculum.
 *   **Total Fees**: ₹12 Lakhs – ₹14.3 Lakhs
 *   **Average Placement**: ₹7.41 LPA
@@ -41,7 +41,7 @@ The best option for students looking for a decent brand name at a relatively low
 *   **Average Placement**: ₹5.25 LPA
 *   **Highest Package**: ₹15 LPA
 
-#### **5. GNIOT (Greater Noida Institute of Technology)**
+#### **5. [GNIOT (Greater Noida Institute of Technology)](/colleges/gniot-greater-noida)**
 A solid choice for students focusing on core placement opportunities in the IT and Manufacturing sectors.
 *   **Total Fees**: ₹5.0 Lakhs
 *   **Average Placement**: ₹7.25 LPA
@@ -53,13 +53,13 @@ A solid choice for students focusing on core placement opportunities in the IT a
 
 | College Name | Total Fees (Approx) | Avg. Placement (LPA) | Direct Admission Status |
 | :--- | :--- | :--- | :--- |
-| **Amity University, Noida** | ₹13.5L - ₹15.8L | ₹7.65 LPA | Open (Merit/Interview) |
+| **[Amity University](/colleges/amity-noida), Noida** | ₹13.5L - ₹15.8L | ₹7.65 LPA | Open (Merit/Interview) |
 | **IILM University** | ₹9.9L - ₹12.4L | ₹8.60 LPA | Open (CUET/Direct) |
 | **Bennett University** | ₹12.0L - ₹14.3L | ₹7.41 LPA | Open (Apply Directly) |
 | **GNIOT, Greater Noida** | ₹5.00 Lakhs | ₹7.25 LPA | Open (Direct/CUET) |
-| **Sharda University** | ₹8.7L - ₹9.9L | ₹6.00 LPA | Open (Interview Based) |
+| **[Sharda University](/colleges/sharda-greater-noida)** | ₹8.7L - ₹9.9L | ₹6.00 LPA | Open (Interview Based) |
 | **Galgotias University** | ₹2.7L - ₹3.8L | ₹5.25 LPA | Open (Merit/CUET) |
-| **Jaypee Business School** | ₹8.00 Lakhs | ₹6.50 LPA | Open (Apply Directly) |
+| **[Jaypee Business School](/colleges/jaypee-business-school-noida)** | ₹8.00 Lakhs | ₹6.50 LPA | Open (Apply Directly) |
 | **K.R. Mangalam Univ.** | ₹6.00 Lakhs | ₹5.00 LPA | Open (Direct Admission) |
 
 ---

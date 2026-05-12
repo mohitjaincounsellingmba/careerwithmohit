@@ -2,7 +2,7 @@
 title: "Alliance University B.Tech Review: 5 Honest Cons You Should Know"
 date: "2026-04-15"
 category: "BTech Admissions"
-description: "Is Alliance University Bangalore good for B.Tech? Read this honest review highlighting the negative points, placement realities, and high fee structure before you take admission."
+description: "Is [Alliance University Bangalore](/colleges/alliance-university-bangalore) good for B.Tech? Read this honest review highlighting the negative points, placement realities, and high fee structure before you take admission."
 keywords: ["alliance university btech review", "alliance university negative points", "alliance university btech cons", "alliance university bangalore review", "alliance university btech placements"]
 ---
 

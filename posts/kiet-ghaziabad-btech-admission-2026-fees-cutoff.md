@@ -1,5 +1,5 @@
 ---
-title: "KIET Group of Institutions Ghaziabad B.Tech Admission 2026: Cutoffs, Fees & Review"
+title: "[KIET Group of Institutions](/colleges/kiet-ghaziabad) Ghaziabad B.Tech Admission 2026: Cutoffs, Fees & Review"
 date: "2026-03-24"
 description: "Everything you need to know about KIET Ghaziabad B.Tech admission 2026. Get the latest on JEE Main cutoffs, AKTU counselling (UPTAC), fee structure, and its incredible ₹1.78 Crore highest package."
 keywords: ["KIET Ghaziabad BTech admission 2026", "KIET Ghaziabad cutoff for CSE", "KIET UPTAC cutoff", "KIET Group of Institutions fees 2026", "KIET placement review 2025", "KIET vs GL Bajaj comparison", "AKTU engineering colleges Ghaziabad"]

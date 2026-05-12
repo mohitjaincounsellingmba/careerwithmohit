@@ -3,7 +3,7 @@ title: "Top 9 Budget MBA/PGDM Colleges in Pune 2026 — Fees, Placements & Hones
 date: "2026-05-04"
 category: "MBA Admissions"
 description: "Looking for an affordable MBA or PGDM in Pune? Compare the top 9 budget-friendly B-schools including Akemi, RIIM, ISMS, and more. Check 2026 fees and placement reality."
-keywords: ["budget MBA colleges Pune 2026", "affordable PGDM Pune", "Akemi Pune MBA fees", "RIIM Pune PGDM placements", "ISMS Pune review", "DY Patil B-School Pune", "PBS Pune PGDM", "Lexicon MILE Pune fees", "FUEL Business School Pune", "IIEBM Pune PGDM", "best ROI MBA Pune"]
+keywords: ["budget MBA colleges Pune 2026", "affordable PGDM Pune", "Akemi Pune MBA fees", "[RIIM Pune](/colleges/riim-pune) PGDM placements", "[ISMS Pune](/colleges/isms-pune) review", "DY Patil B-School Pune", "PBS Pune PGDM", "Lexicon MILE Pune fees", "[FUEL Business School](/colleges/fuel-business-school) Pune", "IIEBM Pune PGDM", "best ROI MBA Pune"]
 ---
 
 Pune is often called the "Oxford of the East," and for good reason. While giants like SIBM and SCMHRD take the limelight, a large majority of students look for **affordable MBA/PGDM colleges in Pune** that offer a decent start to their corporate careers without a 25-lakh price tag.
@@ -17,7 +17,7 @@ If you are looking for colleges with a fee structure between **₹4 Lakhs to ₹
 | College | Program | Approx. Fees | Avg. Placement | Highest Placement |
 | :--- | :--- | :--- | :--- | :--- |
 | **Akemi Business School** | MBA | ₹4.5 - 5.0 Lakhs | ₹6.5 LPA | ₹18.0 LPA |
-| **ASM IIBR** | MBA / PGDM | ₹6.5 - 8.0 Lakhs | ₹7.5 LPA | ₹24.0 LPA |
+| **[ASM IIBR](/colleges/asm-iibr)** | MBA / PGDM | ₹6.5 - 8.0 Lakhs | ₹7.5 LPA | ₹24.0 LPA |
 | **RIIM Pune** | MBA / PGDM | ₹5.5 - 7.5 Lakhs | ₹7.2 LPA | ₹27.0 LPA |
 | **ISMS Pune** | MBA / PGDM | ₹6.0 - 8.0 Lakhs | ₹7.0 LPA | ₹19.0 LPA |
 | **DY Patil B-School** | PGDM | ₹8.5 - 9.5 Lakhs | ₹8.2 LPA | ₹24.0 LPA |
@@ -54,7 +54,7 @@ ISMS positions itself as an "International" school. While the building is compac
 One of the most premium names in the "Budget" list. It offers great infrastructure and a very strong corporate network in Pune and Mumbai.
 - **Best For:** Overall Brand Name in Maharashtra.
 
-### 6. PBS (Pune Business School)
+### 6. [PBS (Pune Business School)](/colleges/pbs-pune)
 A part of the PCET group, PBS has gained rapid popularity due to its strong placement cell and affordable PGDM curriculum.
 - **Best For:** Placements in manufacturing and core sectors.
 - **[Read Detailed PBS Review](/blog/pbs-pune-review-2025)**

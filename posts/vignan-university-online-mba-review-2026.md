@@ -6,7 +6,7 @@ description: "Honest review of Vignan University Online MBA 2026. Check real fee
 keywords: ["Vignan University online MBA review 2026", "Vignan online MBA fees 2026", "vignanonline.com MBA admission", "Vignan University NAAC A+ online MBA", "online MBA South India 2026", "Vignan online MBA specializations placement", "is Vignan online MBA valid 2026"]
 ---
 
-**Vignan University** (Vignan's Foundation for Science, Technology and Research), based in **Guntur, Andhra Pradesh**, offers a highly affordable online MBA through [vignanonline.com](https://vignanonline.com). With **NAAC A+ accreditation**, NIRF ranking, AICTE approval, and a total fee as low as **₹90,000**, Vignan is one of South India's most credible budget-tier online MBA options in 2026.
+**Vignan University** ([Vignan's Foundation for Science, Technology and Research](/colleges/vignan-s-foundation-for-science-technology-and-research)), based in **Guntur, Andhra Pradesh**, offers a highly affordable online MBA through [vignanonline.com](https://vignanonline.com). With **NAAC A+ accreditation**, NIRF ranking, AICTE approval, and a total fee as low as **₹90,000**, Vignan is one of South India's most credible budget-tier online MBA options in 2026.
 
 ---
 

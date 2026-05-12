@@ -20,7 +20,7 @@ There are three primary legal routes to securing a seat without a national entra
 Most private and minority-affiliated B-schools in India (Noida, Pune, Mumbai, Bangalore) have a legally allotted **Management Quota**. These seats are filled directly by the institute based on merit and individual student profiles.
 
 ### 2. Institute-Level Entrance Tests
-Colleges like **Alliance University, LPU, and Amity University** conduct their own internal exams (AMAT, LPUNEST) which are often more accessible and profile-centric than the CAT.
+Colleges like **Alliance University, LPU, and [Amity University](/colleges/amity-noida)** conduct their own internal exams (AMAT, LPUNEST) which are often more accessible and profile-centric than the CAT.
 
 ### 3. Admission Based on Graduation Marks
 Several AICTE-approved colleges in Delhi NCR and Bangalore offer seats to students with a "Consistent Academic Record" (CAR)—meaning 60%+ in 10th, 12th, and Graduation.
@@ -36,7 +36,7 @@ Several AICTE-approved colleges in Delhi NCR and Bangalore offer seats to studen
 | **Galgotias Univ.** | Gr. Noida | ₹4.5 Lakhs | ₹5.2 LPA |
 | **Sushant University** | Gurgaon | ₹6.5 Lakhs | ₹6.0 LPA |
 | **PIBM (Profile-based)**| Pune | ₹7.95 Lakhs | ₹7.1 LPA |
-| **ISMS Pune** | Pune | ₹5.50 Lakhs | ₹5.2 LPA |
+| **[ISMS Pune](/colleges/isms-pune)** | Pune | ₹5.50 Lakhs | ₹5.2 LPA |
 | **ITS Ghaziabad** | Ghaziabad | ₹5.5 Lakhs | ₹6.5 LPA |
 
 ---

@@ -2,7 +2,7 @@ import { getSortedPostsData } from '@/lib/markdown';
 
 export async function GET() {
   const posts = getSortedPostsData();
-  const siteUrl = 'https://careerwithmohit.com'; // Adjust if different
+  const siteUrl = 'https://www.careerwithmohit.online';
 
   const feedItems = posts.map((post) => {
     return `

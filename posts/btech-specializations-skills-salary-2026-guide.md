@@ -73,7 +73,7 @@ A B.Tech degree alone is often not enough to crack top-tier companies. Adding th
 | Tier | College Category | Examples | Admission Mode |
 | :--- | :--- | :--- | :--- |
 | **Tier 1** | Premier National Institutes | IITs, NITs, IIITs, BITS Pilani | JEE Main / JEE Advanced / BITSAT |
-| **Tier 2** | Top Private & State Univ | VIT Vellore, SRM, Thapar, DTU/NSIT | VITEEE / SRMJEEE / JEE Main |
+| **Tier 2** | Top Private & State Univ | [VIT Vellore](/colleges/vit-vellore), SRM, Thapar, DTU/NSIT | VITEEE / SRMJEEE / JEE Main |
 | **Tier 3** | Regional Private Colleges | Amity, GL Bajaj, Galgotias, Bennett | 12th Marks / Management Quota |
 
 *Read more:* [Best B.Tech CSE Colleges in Delhi NCR for Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)

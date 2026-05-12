@@ -2,10 +2,10 @@
 title: "CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs"
 date: "2026-03-17"
 description: "Everything you need to know about CAT 2026. Explore the latest registration dates, exam pattern, section-wise syllabus PDF, and expected IIM cutoffs for 2026-28 batch."
-keywords: ["CAT exam 2026", "CAT exam registration", "CAT syllabus PDF", "CAT pattern 2026", "IIM admission 2026", "CAT cutoff IIM Ahmedabad"]
+keywords: ["CAT exam 2026", "CAT exam registration", "CAT syllabus PDF", "CAT pattern 2026", "IIM admission 2026", "CAT cutoff [IIM Ahmedabad](/colleges/iim-ahmedabad)"]
 ---
 
-The Common Admission Test (CAT) is undeniably the biggest and most competitive MBA entrance exam in India. It is the absolute primary gateway to the prestigious Indian Institutes of Management (IIMs) and other top-tier business schools like FMS Delhi and SPJIMR. 
+The Common Admission Test (CAT) is undeniably the biggest and most competitive MBA entrance exam in India. It is the absolute primary gateway to the prestigious Indian Institutes of Management (IIMs) and other top-tier business schools like [FMS Delhi](/colleges/fms-delhi) and SPJIMR. 
 
 If you are serious about pursuing an MBA in India, CAT is the non-negotiable benchmark.
 
@@ -52,7 +52,7 @@ CAT scores are calculated as percentiles relative to all test-takers (usually 3 
 
 - **IIM Ahmedabad, Bangalore, Calcutta:** 99.5+ Percentile
 - **Other Old IIMs (Lucknow, Indore, Kozhikode) & FMS Delhi:** 99.0+ Percentile
-- **New IIMs & Top Tier-1 Colleges (SPJIMR, MDI Gurgaon):** 95.0+ to 98.0+ Percentile
+- **New IIMs & Top Tier-1 Colleges (SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon)):** 95.0+ to 98.0+ Percentile
 - **Baby IIMs & Good Tier-2 Colleges:** 85.0+ to 90.0+ Percentile
 
 ## Top Colleges Accepting CAT Scores
@@ -80,7 +80,7 @@ Typically, a percentile of **99.5+** is required for General category students t
 While there is no "official" syllabus, CAT consistently tests **VARC, DILR, and Quantitative Aptitude** based on graduate-level logic and high-school mathematics.
 
 ### 4. Can I get a top college with 90 percentile in CAT?
-Yes, colleges like **GIM Goa, BIMTECH, and FORE School of Management** often accept students in the 85-92 percentile range.
+Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges/fore-school-delhi)** often accept students in the 85-92 percentile range.
 
 [👉 Need help preparing a winning strategy for CAT 2026? Speak to our MBA admission experts today!](/inquiry)
 

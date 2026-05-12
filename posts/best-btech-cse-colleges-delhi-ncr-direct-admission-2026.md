@@ -27,7 +27,7 @@ It allows students who scored well in their board exams (above 60% in PCM) but u
 
 Here is a curated list of top colleges known for excellent CSE placements, infrastructure, and brand value in the Delhi-NCR region that offer direct admissions:
 
-### 1. Jaypee Institute of Information Technology (JIIT), Noida
+### 1. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida), Noida
 *   **Why Choose JIIT:** Known as a powerhouse for IT and CSE placements in Sector-62 Noida. It consistently attracts massive recruiters like Amazon, Adobe, and Microsoft.
 *   **Admission Process:** Merit-based entry through 10+2 marks for specific NRI/Direct Quota seats. Most seats are JEE-based, so direct seats are limited and highly competitive.
 *   **Average CSE Package:** ₹8 - ₹12 LPA.
@@ -37,7 +37,7 @@ Here is a curated list of top colleges known for excellent CSE placements, infra
 *   **Management Quota:** 10% of seats are reserved under the IPU Management Quota guidelines. Counselors assist with the direct counseling and document verification phase.
 *   **Average CSE Package:** ₹7 - ₹10 LPA.
 
-### 3. Bennett University, Greater Noida
+### 3. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
 *   **Why Choose Bennett:** Backed by the Times Group, Bennett has an ultra-modern campus, heavy funding for startups, and strong ties with Silicon Valley giants.
 *   **Admission Process:** Pro-active direct admission based on 12th board marks (usually requiring >70% PCM) alongside SAT/CUET/JEE valid scores.
 *   **Average CSE Package:** ₹8 - ₹11 LPA.
@@ -47,12 +47,12 @@ Here is a curated list of top colleges known for excellent CSE placements, infra
 *   **Management Quota:** Seats are available under the 15% AKTU management quota rule on a first-come, first-serve basis.
 *   **Average CSE Package:** ₹6 - ₹8 LPA.
 
-### 5. Amity University, Noida
+### 5. [Amity University, Noida](/colleges/amity-university-noida)
 *   **Why Choose Amity:** Vast 1200-acre campus, phenomenal infrastructure, and a huge alumni network. Highly attractive for those wanting a dynamic campus life.
 *   **Admission Process:** Conducts an internal video interview or fast-track direct admission for students scoring >80% in CBSE/ICSE boards.
 *   **Average CSE Package:** ₹5 - ₹8 LPA.
 
-### 6. KIET Group of Institutions, Ghaziabad
+### 6. [KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad
 *   **Why Choose KIET:** Consistently ranks alongside GL Bajaj under AKTU for the best academic results and strict discipline favoring core IT placements.
 *   **Management Quota:** 15% Management quota seats are filled usually right after board exam results.
 *   **Average CSE Package:** ₹5.5 - ₹7.5 LPA.

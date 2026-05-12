@@ -1,7 +1,7 @@
 ---
 title: "Top BBA Colleges in Kolkata 2026: Rankings, Fees, and Placements"
 date: "2026-03-15"
-description: "Find the best BBA colleges in Kolkata for 2026. Detailed guide on JD Birla, St. Xavier's, and NSHM Knowledge Campus with fee and placement info."
+description: "Find the best BBA colleges in Kolkata for 2026. Detailed guide on JD Birla, St. Xavier's, and [NSHM Knowledge Campus](/colleges/nshm-kolkata) with fee and placement info."
 keywords: ["top BBA colleges Kolkata", "best BBA colleges in Kolkata", "JD Birla BBA fees", "St. Xavier's Kolkata BBA", "NSHM Kolkata placements", "BBA admission Kolkata 2026"]
 ---
 

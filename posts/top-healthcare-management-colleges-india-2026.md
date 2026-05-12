@@ -61,7 +61,7 @@ Here is the definitive list of institutions to target for the 2026 academic sess
     *   **Highlights**: Excellent research facilities and southern industry links.
 
 #### 4. Specialized Private Universities
-*   **Amity University, Noida**
+*   **[Amity University, Noida](/colleges/amity-university-noida)**
     *   **Approx Fees**: ₹3–7 lakh
     *   **Highlights**: Flexible programs and strong emphasis on corporate networking.
 *   **DY Patil University, Navi Mumbai**

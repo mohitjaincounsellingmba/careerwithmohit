@@ -2,7 +2,7 @@
 title: "Top MBA Colleges in Kolkata 2026 — Fees, Placements & ROI"
 date: "2026-04-21"
 category: "MBA Admissions"
-description: "Planning an MBA in Kolkata? Compare the best B-schools like IIM Calcutta, VGSOM, and IMI Kolkata. Check 2026 fees, CAT/XAT cutoffs, and verified placement packages for East India."
+description: "Planning an MBA in Kolkata? Compare the best B-schools like [IIM Calcutta](/colleges/iim-calcutta), VGSOM, and [IMI Kolkata](/colleges/imi-kolkata). Check 2026 fees, CAT/XAT cutoffs, and verified placement packages for East India."
 keywords: ["top mba colleges in kolkata 2026", "best b-schools kolkata", "iim calcutta mba fees 2026", "imi kolkata placement 2025", "jadavpur university mba fees", "mba admission kolkata 2026", "direct admission mba kolkata", "mba kolkata under 10 lakhs", "vgsom iit kharagpur mba fees"]
 ---
 
@@ -21,7 +21,7 @@ Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI g
 | **IMI Kolkata** | CAT/XAT/GMAT | ₹14.5 Lakhs | ₹10.65 LPA |
 | **IISWBM** | CAT / MAT | ₹6.0 Lakhs | ₹8.5 LPA |
 | **Jadavpur University** | CAT / MAT | ₹0.50 Lakhs | ₹6.5 LPA |
-| **Globsyn Business School**| CAT/MAT/CMAT | ₹8.5 Lakhs | ₹7.4 LPA |
+| **[Globsyn Business School](/colleges/globsyn-kolkata)**| CAT/MAT/CMAT | ₹8.5 Lakhs | ₹7.4 LPA |
 | **Heritage Business School**| MAT/CMAT/JEMAT | ₹6.5 Lakhs | ₹5.2 LPA |
 | **Calcutta University** | JEMAT / CAT | ₹0.40 Lakhs | ₹5.0 LPA |
 
@@ -65,7 +65,7 @@ Many students from West Bengal and Bihar target Kolkata for reliable private B-s
 
 - **Globsyn Business School:** Well-known for its **Knowledge Management** based pedagogy and strong IT sector placements.
 - **Heritage Business School:** Part of the famous Heritage group. Known for a disciplined academic environment.
-- **Techno India University:** Offer massive scaling and direct admission options for students with mid-range graduation marks.
+- **[Techno India University](/colleges/techno-india-university-kolkata):** Offer massive scaling and direct admission options for students with mid-range graduation marks.
 
 ---
 

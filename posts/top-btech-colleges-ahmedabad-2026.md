@@ -19,7 +19,7 @@ This guide covers the **top B.Tech colleges in Ahmedabad and Gujarat for 2026** 
 | IIT Gandhinagar | Gandhinagar | ₹2.5 L/yr | ₹16–22 LPA | JEE Advanced |
 | DAIICT Gandhinagar | Gandhinagar | ₹2.2 L/yr | ₹10–18 LPA | DAIICT Entrance |
 | PDEU Gandhinagar | Gandhinagar | ₹1.8 L/yr | ₹7–12 LPA | ACPC / JEE Main |
-| Nirma University | Ahmedabad | ₹2.5 L/yr | ₹6–12 LPA | ACPC / Direct |
+| [Nirma University](/colleges/nirma-university) | Ahmedabad | ₹2.5 L/yr | ₹6–12 LPA | ACPC / Direct |
 | SVNIT Surat | Surat | ₹1.5 L/yr | ₹6–10 LPA | JEE Main |
 | LD Engineering College | Ahmedabad | ₹0.55 L/yr | ₹5–8 LPA | ACPC |
 | VGEC Ahmedabad | Ahmedabad | ₹0.60 L/yr | ₹5–8 LPA | ACPC |

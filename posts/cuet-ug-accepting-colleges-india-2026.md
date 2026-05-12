@@ -39,7 +39,7 @@ BHU is one of the largest residential universities in Asia, famous for its B.A.,
 ### 3. Jawaharlal Nehru University (JNU), New Delhi
 JNU is renowned globally for its specialized B.A. (Hons) in Foreign Languages and integrated programs.
 
-### 4. Jamia Millia Islamia (JMI), New Delhi
+### 4. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia), New Delhi
 JMI accepts CUET UG scores for selected undergraduate courses including B.A. (Hons) Economics, B.Sc. Biotechnology, and B.A. (Hons) History.
 
 ### 5. Aligarh Muslim University (AMU), Aligarh
@@ -70,9 +70,9 @@ Many state governments have integrated their premier state universities with CUE
 
 If you miss out on top Central Universities, don't worry. Many of India's elite private universities now accept CUET UG scores for B.Tech, BBA, BCA, and Law programs, offering world-class infrastructure and massive placement drives.
 
-1. **Amity University** (Noida, Gurugram, Jaipur, Lucknow)
-2. **Bennett University**, Greater Noida
-3. **BML Munjal University**, Gurugram
+1. **[Amity University](/colleges/amity-noida)** (Noida, Gurugram, Jaipur, Lucknow)
+2. **[Bennett University](/colleges/bennett-greater-noida)**, Greater Noida
+3. **[BML Munjal University](/colleges/bml-munjal-gurgaon)**, Gurugram
 4. **Galgotias University**, Greater Noida
 5. **GD Goenka University**, Gurugram
 6. **K.R. Mangalam University**, Gurugram

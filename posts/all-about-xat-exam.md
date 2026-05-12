@@ -57,7 +57,7 @@ XAT is known for its lengthy reading passages and its unique inclusion of an ess
 - TAPMI (T. A. Pai Management Institute), Manipal
 - Great Lakes Institute of Management, Chennai
 - K. J. Somaiya Institute of Management, Mumbai
-- FORE School of Management, New Delhi
+- [FORE School of Management](/colleges/fore-school-delhi), New Delhi
 
 ---
 [👉 Struggling with the XAT Decision Making section? Get expert mentoring right here!](/inquiry)

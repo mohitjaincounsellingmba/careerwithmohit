@@ -22,7 +22,7 @@ Choosing an MCA college in Mumbai means you are at the heart of India's commerci
 | **Somaiya (K J Somaiya)** | MAH MCA CET | ₹3.5 - 4.5 Lakhs | ₹6.0 - 9.5 LPA |
 | **Vidyalankar (VIT)** | MAH MCA CET | ₹2.8 - 3.8 Lakhs | ₹5.0 - 8.0 LPA |
 | **Thakur Institute (TIMSR)**| MAH MCA CET | ₹2.5 - 3.5 Lakhs | ₹4.5 - 7.5 LPA |
-| **Amity University Mumbai**| Merit-based | ₹4.5 - 6.5 Lakhs | ₹4.2 - 7.5 LPA |
+| **[Amity University Mumbai](/colleges/amity-mumbai)**| Merit-based | ₹4.5 - 6.5 Lakhs | ₹4.2 - 7.5 LPA |
 
 ---
 
@@ -56,7 +56,7 @@ For an MCA student, Mumbai offers a distinct career path:
 If you miss the MAH MCA CET or the regular university deadlines, several reputable private universities in Navi Mumbai and Suburban Mumbai offer merit-based direct entry:
 - **Somaiya Institute (Sion/Vidyavihar):** High brand value and decent placements in the Mumbai-Thane region.
 - **School of Law, DY Patil (Navi Mumbai):** High-end infrastructure with a focus on modern software stacks.
-- **Amity University (Navi Mumbai):** A growing hub for students looking for global exposure and research-driven MCA degrees.
+- **[Amity University](/colleges/amity-noida) (Navi Mumbai):** A growing hub for students looking for global exposure and research-driven MCA degrees.
 
 ---
 

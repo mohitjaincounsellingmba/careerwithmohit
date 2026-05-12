@@ -57,7 +57,7 @@ Located in Gurugram, India's corporate capital, JKBS offers student access to ma
 
 ---
 
-## 4. EMPI Business School, Delhi
+## 4. [EMPI Business School](/colleges/empi-delhi), Delhi
 
 Operating formally near the Chattarpur belt of South Delhi, EMPI focuses intensely on experiential learning and corporate co-developed course structures.
 
@@ -68,7 +68,7 @@ Operating formally near the Chattarpur belt of South Delhi, EMPI focuses intense
 
 ---
 
-## 5. Asian Business School (ABS), Noida
+## 5. [Asian Business School (ABS)](/colleges/asian-business-school-noida), Noida
 
 ABS is renowned for its dual-specialization PGDM programs and heavy focus on international networking (often offering Oxford residential programs).
 

@@ -30,7 +30,7 @@ To help you plan your budget and preparation strategy, we have compiled the ulti
 The "Gold Standard" of Indian MBA exams.
 *   **Difficulty**: Very High. Requires deep logical thinking and time management.
 *   **Fees**: Increased recently to ₹2,600 for General category.
-*   **Why Take It?**: It is the only way to get into the IIMs. Even a 95+ percentile opens doors to top non-IIM colleges like MDI Gurgaon.
+*   **Why Take It?**: It is the only way to get into the IIMs. Even a 95+ percentile opens doors to top non-IIM colleges like [MDI Gurgaon](/colleges/mdi-gurgaon).
 
 #### **2. XAT (Xavier Aptitude Test)**
 Known for its unique **Decision Making** section.
@@ -48,7 +48,7 @@ The most candidate-friendly exam.
 Quick-fire 60-minute exam.
 *   **Difficulty**: Moderate. It tests speed more than depth.
 *   **Fees**: ₹2,250 per attempt.
-*   **Why Take It?**: SIBM Pune and SCMHRD are elite names in Marketing and HR.
+*   **Why Take It?**: [SIBM Pune](/colleges/sibm-pune) and SCMHRD are elite names in Marketing and HR.
 
 ---
 

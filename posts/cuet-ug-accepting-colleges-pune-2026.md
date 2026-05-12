@@ -11,7 +11,7 @@ If you are appearing for **CUET UG 2026**, here are the top institutions in Pune
 
 ---
 
-### **1. MIT World Peace University (MIT-WPU)**
+### **1. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)**
 One of the most prominent private universities in Pune with a state-of-the-art campus.
 *   **Popular Degrees:** BBA, B.Com (Hons), B.Sc. in Computer Science.
 *   **USP:** Global industrial connections and an innovative curriculum.

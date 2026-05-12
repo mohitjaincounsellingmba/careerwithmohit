@@ -19,7 +19,7 @@ Whether you are targeting the high-ROI colleges of IP University or the speciali
 | **MSI Janakpuri (IPU)** | IPU CET / CUET | ₹2.8 - 3.5 Lakhs | ₹4.5 - 6.5 LPA |
 | **VIPS Pitampura (IPU)** | IPU CET / CUET | ₹3.0 - 3.8 Lakhs | ₹4.2 - 6.0 LPA |
 | **Bennett Univ. (Noida)** | Merit / Interview | ₹5.5 - 7.5 Lakhs | ₹5.0 - 8.5 LPA |
-| **Amity University (Noida)**| Merit-based | ₹6.0 - 9.0 Lakhs | ₹4.5 - 7.0 LPA |
+| **[Amity University](/colleges/amity-noida) (Noida)**| Merit-based | ₹6.0 - 9.0 Lakhs | ₹4.5 - 7.0 LPA |
 | **JIMS Rohini (IPU)** | IPU CET / CUET | ₹2.6 - 3.2 Lakhs | ₹3.8 - 5.5 LPA |
 | **Galgotias Univ. (Noida)**| Merit / Interview | ₹2.2 - 3.5 Lakhs | ₹3.5 - 5.5 LPA |
 | **GD Goenka Univ. (GGN)** | Merit / Interview | ₹3.5 - 5.0 Lakhs | ₹3.8 - 5.2 LPA |
@@ -29,7 +29,7 @@ Whether you are targeting the high-ROI colleges of IP University or the speciali
 ## 🏛️ Tier 1: The IP University (GGSIPU) Hub
 
 Admission to IP University colleges is the top priority for Delhi students due to the high brand value and excellent placement records.
-- **Top Pick:** **Maharaja Surajmal Institute (MSI)** is consistently ranked among the top 5 BCA colleges in India.
+- **Top Pick:** **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** is consistently ranked among the top 5 BCA colleges in India.
 - **Second Best:** **Vivekananda Institute of Professional Studies (VIPS)** offers state-of-the-art tech labs and a very vibrant corporate interface.
 - **Admission Strategy:** 100% focus on **IPU CET 2026**. If you miss this, **CUET UG** is the only secondary gateway.
 
@@ -39,13 +39,13 @@ Admission to IP University colleges is the top priority for Delhi students due t
 
 If you are looking for early specialization in AI, Cyber Security, or Cloud Computing, these private colleges offer a more dynamic "Industry-First" curriculum:
 
-### 1. Bennett University, Greater Noida
+### 1. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
 Backed by the Times Group, Bennett offers one of the most premium BCA programs in the country. Their placement cell works directly with Top MNCs to ensure BCA students get "Developer" roles rather than just "Technical Associate" roles.
 
 ### 2. GD Goenka & K R Mangalam (Gurgaon)
 Strategically located near the Gurgaon Cyber Hub, these universities provide direct access to weekend hackathons and internship projects at startups in Gurgaon.
 
-### 3. Shiv Nadar University (SNU), Dadri
+### 3. [Shiv Nadar University (SNU)](/colleges/snu-greater-noida), Dadri
 While their admission is highly selective, SNU offers a research-heavy BCA/B.Sc. computing environment that is perfect for students planning for MS or MCA abroad.
 
 ---

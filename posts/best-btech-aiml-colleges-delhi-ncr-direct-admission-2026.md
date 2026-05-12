@@ -23,12 +23,12 @@ While Core CSE teaches general software engineering, opting for an AI & ML speci
 
 The following premier institutions in Noida, Greater Noida, and Delhi offer B.Tech in Artificial Intelligence & Machine Learning with available Management Quota provisions:
 
-### 1. Bennett University, Greater Noida
+### 1. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
 *   **The AI Advantage:** Perhaps one of the strongest AI curriculums in North India. Bennett features a super-computing lab tied with NVIDIA and boasts a highly specialized faculty array dedicated to AI research.
 *   **Admission Process:** Direct admission is available for students with strong 12th board scores (>75%). Fast-track admissions open right after board examinations.
 *   **Average AI Package:** ₹8 - ₹12 LPA.
 
-### 2. Jaypee Institute of Information Technology (JIIT), Noida
+### 2. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida), Noida
 *   **The AI Advantage:** JIIT offers a modernized curriculum balancing core computer science with advanced ML algorithms. Very prestigious among tech recruiters.
 *   **Admission Process:** Operates primarily via JEE Main but maintains specific NRI-sponsored and direct quota seats. Competition for these limited seats is exceptionally high.
 *   **Average AI Package:** ₹8 - ₹10 LPA.
@@ -43,7 +43,7 @@ The following premier institutions in Noida, Greater Noida, and Delhi offer B.Te
 *   **Management Quota:** 15% AKTU management quota seats. Direct admission is straightforward for students meeting the 60% PCM criteria.
 *   **Average AI Package:** ₹6 - ₹8 LPA.
 
-### 5. KIET Group of Institutions, Ghaziabad
+### 5. [KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad
 *   **The AI Advantage:** Highly disciplined and placement-oriented. KIET's AI branch receives strong industry collaborations for internships in their 3rd and 4th years.
 *   **Management Quota:** Accessible via AKTU’s standard 15% quota system before standard UPSEE counseling ends.
 *   **Average AI Package:** ₹6 - ₹7.5 LPA.

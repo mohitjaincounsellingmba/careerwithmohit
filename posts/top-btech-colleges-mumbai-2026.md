@@ -89,7 +89,7 @@ TSEC is Bandra-based and consistently ranked in Mumbai's top 10, especially popu
 - **Admission:** MHT CET | **Fee:** ₹35,000/yr | **Avg Package:** ₹5–9 LPA
 
 ### 8. Vidyalankar Institute of Technology (VIT Mumbai)
-Not to be confused with VIT Vellore. VIT Mumbai is located in Wadala and is well-regarded for practical training, labs, and placement support.
+Not to be confused with [VIT Vellore](/colleges/vit-vellore). VIT Mumbai is located in Wadala and is well-regarded for practical training, labs, and placement support.
 
 - **Admission:** MHT CET / Direct Quota | **Fee:** ₹1.4 L/yr | **Avg Package:** ₹5–8 LPA
 

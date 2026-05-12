@@ -26,7 +26,7 @@ The **MAT February 2026** testing window has closed. Here is your quick referenc
 Use these benchmarks to estimate your percentile based on your composite score:
 
 *   **750+ Score**: 99+ Percentile — Target Tier 1 (BIMTECH, XIME, PUMBA)
-*   **700–750 Score**: 95.00–98.99 Percentile — Target Tier 1/2 (JAGSoM, IMI Kolkata)
+*   **700–750 Score**: 95.00–98.99 Percentile — Target Tier 1/2 (JAGSoM, [IMI Kolkata](/colleges/imi-kolkata))
 *   **650–700 Score**: 90.00–94.99 Percentile — Target Tier 2 (Jaipuria, IBA, AIMS)
 *   **600–650 Score**: 80.00–89.99 Percentile — Target Tier 2/3 (NDIM, ISBR, IILM)
 *   **Below 600 Score**: Below 80 Percentile — Target Regional MBA/PGDM Institutes
@@ -37,7 +37,7 @@ Use these benchmarks to estimate your percentile based on your composite score:
 
 ### Tier 1 B-Schools (90+ Percentile)
 *   **BIMTECH (Specialized)**, Greater Noida — Avg. Package: ₹11.20 LPA
-*   **XIME Bangalore**, Bangalore — Avg. Package: ₹10.36 LPA
+*   **[XIME Bangalore](/colleges/xime-bangalore)**, Bangalore — Avg. Package: ₹10.36 LPA
 *   **Jaipuria Institute**, Noida/Lucknow — Avg. Package: ₹11.29 LPA
 *   **PUMBA (Dept. MS)**, Pune — Avg. Package: ₹8.85 LPA
 

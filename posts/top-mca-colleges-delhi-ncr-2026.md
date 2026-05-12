@@ -22,7 +22,7 @@ Whether you are looking for the financial efficiency of a **Government College**
 | **GGSIPU (USICT)** | NIMCET | ₹2.2 - 3.5 Lakhs | ₹8.5 - 12.0 LPA |
 | **IPU (MSI Janakpuri)** | NIMCET / CET | ₹2.4 - 3.6 Lakhs | ₹6.5 - 9.5 LPA |
 | **KIET Ghaziabad** | UPTAC / CUET PG | ₹2.1 - 2.8 Lakhs | ₹5.5 - 9.0 LPA |
-| **Amity University Noida** | Merit-based | ₹5.5 - 7.5 Lakhs | ₹5.5 - 8.5 LPA |
+| **[Amity University](/colleges/amity-noida) Noida** | Merit-based | ₹5.5 - 7.5 Lakhs | ₹5.5 - 8.5 LPA |
 
 ---
 
@@ -42,13 +42,13 @@ Consisting of USICT (Campus) and top colleges like MSI and JIMS.
 
 If you are looking for early specialization in AI, Cyber Security, or Cloud Computing, these private colleges offer a more dynamic "Industry-First" curriculum:
 
-### 1. KIET Group of Institutions, Ghaziabad
+### 1. [KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad
 Consistently outperforming many government colleges in placements. Their "Innovation Cell" has direct ties with companies like HCL and Infosys.
 
-### 2. Amity University, Noida
+### 2. [Amity University, Noida](/colleges/amity-university-noida)
 The most corporate-ready campus. Their MCA students often get PPOs (Pre-Placement Offers) from firms like Capgemini and Accenture during their 3rd semester.
 
-### 3. Bennett University, Greater Noida
+### 3. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
 Backed by the Times Group, Bennett offers one of the most premium and high-tech MCA environments in North India, focusing on Full Stack and Cloud.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Direct Admission in IMI Delhi 2026: Institutional Quota & Fees"
+title: "Direct Admission in [IMI Delhi](/colleges/imi-delhi) 2026: Institutional Quota & Fees"
 date: "2026-03-17"
 description: "Planning for IMI Delhi 2026? Learn about direct admission via merit-linked institutional seats, NRI quota, latest CAT/XAT cutoffs, and 2025 placement reports for the 2026-28 batch."
 keywords: ["IMI Delhi direct admission", "IMI Delhi management quota", "IMI Delhi fees 2026", "International Management Institute Delhi admission", "direct admission in IMI"]

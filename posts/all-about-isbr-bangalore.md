@@ -1,5 +1,5 @@
 ---
-title: "All About ISBR Business School, Bangalore: Fees, ROI, and Placements (2026)"
+title: "All About [ISBR Business School](/colleges/isbr-bangalore), Bangalore: Fees, ROI, and Placements (2026)"
 date: "2026-03-13"
 description: "A complete review of ISBR Bangalore (International School of Business & Research). Check PGDM fees, CAT/MAT/KMAT cutoffs, highest placements, and real student feedback."
 keywords: ["ISBR Bangalore review", "ISBR Bangalore placements 2026", "ISBR PGDM fees", "ISBR Bangalore cutoff", "top MBA colleges in Electronic City", "ISBR average package", "International School of Business and Research"]

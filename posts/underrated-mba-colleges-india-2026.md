@@ -13,8 +13,8 @@ If you are looking for colleges with low tuition fees, rigorous academic structu
 
 These institutions are government-backed or university-affiliated, which keeps their fee structure incredibly low while still attracting top-tier recruiters.
 
-*   **FMS Delhi (Faculty of Management Studies):** While arguably not "underrated" by experts, it is often missed by beginners. FMS is the undisputed king of ROI in India. With fees under ₹2–3 Lakh for the entire program, it offers placements that rival IIM Ahmedabad and Bangalore.
-*   **JBIMS Mumbai (Jamnalal Bajaj Institute of Management Studies):** Known as the "CEO Factory," JBIMS leverages its location in India's financial capital. The fees are nominal, and it consistently places students in top investment banks and consulting firms.
+*   **[FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies):** While arguably not "underrated" by experts, it is often missed by beginners. FMS is the undisputed king of ROI in India. With fees under ₹2–3 Lakh for the entire program, it offers placements that rival [IIM Ahmedabad](/colleges/iim-ahmedabad) and Bangalore.
+*   **[JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj Institute of Management Studies):** Known as the "CEO Factory," JBIMS leverages its location in India's financial capital. The fees are nominal, and it consistently places students in top investment banks and consulting firms.
 *   **TISS Mumbai (MA in HRM & LR):** Though technically an MA rather than an MBA, the Human Resource Management program at Tata Institute of Social Sciences is recruited on par with XLRI. The fees are negligible, and the outcomes are elite.
 *   **DFS & DBE (Delhi University):** The Department of Financial Studies and Department of Business Economics offer highly specialized programs. They are extremely affordable and have a rock-solid reputation in the finance and analytics sectors.
 *   **SIMSREE Mumbai:** Similar to JBIMS, Sydenham Institute of Management Studies offers an incredibly affordable program with excellent placements in the Mumbai corporate market.

@@ -27,10 +27,10 @@ According to industry reports, **90% of new software roles** now involve some le
 |---|---|---|---|
 | **SICSR Pune** | Pune | Data Science & Cloud | ₹5.5 - 7.5 LPA |
 | **Jain University (SET)** | Bangalore | AI & Machine Learning | ₹5.0 - 7.0 LPA |
-| **Bennett University** | Greater Noida | AI & Data Science | ₹5.5 - 8.5 LPA |
+| **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | AI & Data Science | ₹5.5 - 8.5 LPA |
 | **MIT-WPU Pune** | Pune | AI & Data Analytics | ₹4.8 - 6.5 LPA |
 | **Alliance University** | Bangalore | Applied Data Science | ₹4.5 - 7.0 LPA |
-| **Amity University** | Multiple | AI & Blockchain | ₹4.5 - 6.8 LPA |
+| **[Amity University](/colleges/amity-noida)** | Multiple | AI & Blockchain | ₹4.5 - 6.8 LPA |
 | **Woxsen University** | Hyderabad | Data Science & AI | ₹5.0 - 7.5 LPA |
 
 ---

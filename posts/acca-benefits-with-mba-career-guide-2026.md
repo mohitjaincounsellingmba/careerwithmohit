@@ -47,7 +47,7 @@ In 2026, the starting salary for an MBA in Finance from a mid-tier college is ar
 The number of exemptions depends on the university's curriculum. Typically:
 *   **MBA Finance Graduates**: Eligible for up to 9 exemptions (Applied Knowledge & Applied Skills levels).
 *   **General MBA**: Eligible for 3-5 exemptions.
-*   **Integrated Programs**: Some colleges (like Poornima University or Jain University) offer MBA programs where ACCA is integrated into the syllabus.
+*   **Integrated Programs**: Some colleges (like [Poornima University](/colleges/poornima-jaipur) or Jain University) offer MBA programs where ACCA is integrated into the syllabus.
 
 > [!TIP]
 > Always check the **[ACCA Exemption Calculator](https://www.accaglobal.com/gb/en/help/exemptions-calculator.html)** to see exactly how many papers you can skip based on your specific university degree.

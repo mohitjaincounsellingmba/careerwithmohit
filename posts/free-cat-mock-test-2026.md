@@ -26,7 +26,7 @@ Our mock test is meticulously designed based on the latest CAT pattern to give y
 
 - **Real Exam Interface:** Familiarize yourself with the navigation and UI before the big day.
 - **Instant Sectional Analysis:** Identify whether your VARC or DILR is holding you back.
-- **IIM Target Score:** Aim for a 99+ percentile to secure calls from IIM Ahmedabad, Bangalore, and Calcutta.
+- **IIM Target Score:** Aim for a 99+ percentile to secure calls from [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta.
 - **Speed & Accuracy:** Practice managing 66 questions under the pressure of a 120-minute timer.
 
 ## Pro Tips for CAT 2026 Success

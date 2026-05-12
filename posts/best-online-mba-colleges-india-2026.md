@@ -50,7 +50,7 @@ NMIMS is the **gold standard** in online management education in India. With 40+
 
 ---
 
-### 🥈 2. Amity University Online
+### 🥈 2. [Amity University](/colleges/amity-noida) Online
 
 Amity Online is one of India's most reputed distance/online education providers, globally accredited (WASC, QAA) and approved by UGC-DEB. Excellent for students who want variety in specializations.
 

@@ -26,7 +26,7 @@ Established by the KR Mangalam group, it offers multidisciplinary education.
 *   **Programs:** B.Tech, BBA, B.Com (Hons).
 *   **USP:** Global exposure and a large international student community.
 
-### **4. BML Munjal University**
+### **4. [BML Munjal University](/colleges/bml-munjal-gurgaon)**
 Named after the Hero Group visionary, it offers multidisciplinary education.
 *   **Programs:** B.Tech, BBA, B.Com (Hons).
 *   **USP:** Focus on professional ethics and practical skills.

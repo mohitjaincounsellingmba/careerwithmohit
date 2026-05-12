@@ -18,7 +18,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Pune for 2026** to help y
 - **Entrance Exam / Admission Process:** SET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. MIT World Peace University (MIT-WPU)
+### 2. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)
 - **Approximate Annual Fees:** ₹3.1 Lakhs
 - **Entrance Exam / Admission Process:** MIT-WPU CET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

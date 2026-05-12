@@ -44,7 +44,7 @@ Whether you're a working professional looking to upskill without quitting your j
 - **Fees:** ₹1.30 Lakhs – ₹2.80 Lakhs
 - **Duration:** 2 years
 - **Specializations:** 15+ specializations including International Business, Digital Marketing, Agri Business
-- **Why Choose:** Amity University is NAAC A+ accredited. One of the most flexible and affordable UGC-approved online MBAs in India.
+- **Why Choose:** [Amity University](/colleges/amity-noida) is NAAC A+ accredited. One of the most flexible and affordable UGC-approved online MBAs in India.
 - **Best For:** Students wanting maximum specialization choice at minimal cost.
 
 ---

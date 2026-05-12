@@ -1,5 +1,5 @@
 ---
-title: "All About PIBM Pune: Fees, Placements, Cutoffs & Honest Review (2026)"
+title: "All About [PIBM Pune](/colleges/pibm-pune): Fees, Placements, Cutoffs & Honest Review (2026)"
 date: "2026-03-13"
 description: "Everything you need to know about Pune Institute of Business Management (PIBM). Discover PGDM/MBA fees, CAT/MAT/CMAT cutoffs, placements, and top recruiters in 2026."
 keywords: ["PIBM Pune review", "PIBM Pune placements 2026", "PIBM MBA fees", "PIBM Pune cutoff CMAT", "Pune Institute of Business Management", "PIBM average package", "MBA colleges in Pune"]

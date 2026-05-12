@@ -34,7 +34,7 @@ Universities like **Amity, SRM, LPU, and Galgotias** often fill their seats base
 | **BMS College of Engg** | Bangalore | ₹4.2 - 6.5 Lakhs | ₹7.5 - 10.5 LPA |
 | **SICSR (Symbiosis)** | Pune | ₹4.5 - 6.5 Lakhs | ₹7.0 - 11.0 LPA |
 | **MIT-WPU Pune** | Pune | ₹4.0 - 5.5 Lakhs | ₹6.5 - 9.0 LPA |
-| **Amity University** | Noida | ₹5.5 - 7.5 Lakhs | ₹5.5 - 8.5 LPA |
+| **[Amity University](/colleges/amity-noida)** | Noida | ₹5.5 - 7.5 Lakhs | ₹5.5 - 8.5 LPA |
 | **SRM IST** | Chennai | ₹4.5 - 6.5 Lakhs | ₹6.5 - 10.5 LPA |
 
 ---
@@ -64,7 +64,7 @@ Yes. Recruiting giants like TCS, Infosys, and Google look for your **Skills and 
 **Q2. What is the minimum percentage for direct MCA admission?**
 Most reputable private colleges require a minimum of **50% to 60%** in your graduation (BCA/B.Sc. IT).
 
-**Q3. Can I get direct admission in VIT Vellore for MCA?**
+**Q3. Can I get direct admission in [VIT Vellore](/colleges/vit-vellore) for MCA?**
 VIT primarily uses the **VITMEE** exam. However, for their other campuses or specific categories, they sometimes have specialized admission tracks—always check with an official counsellor.
 
 **Q4. Does direct admission cost more?**

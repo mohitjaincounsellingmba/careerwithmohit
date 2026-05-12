@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { ArrowRight, Calendar } from 'lucide-react';
 
 import { NEWS_ITEMS } from '@/lib/news';
+import { JsonLd } from "@/components/JsonLd";
 
 export const metadata = {
   title: "Latest News | Education & Career Updates",
@@ -13,8 +14,31 @@ export const metadata = {
 };
 
 export default function NewsPage() {
+  const newsSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Education & Career News Updates",
+    "description": "Latest education news, admission alerts, and career growth insights.",
+    "url": "https://www.careerwithmohit.online/news",
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": NEWS_ITEMS.map((item, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "item": {
+          "@type": "NewsArticle",
+          "headline": item.title,
+          "description": item.excerpt,
+          "datePublished": item.date,
+          "url": `https://www.careerwithmohit.online${item.link}`
+        }
+      }))
+    }
+  };
+
   return (
     <div className="w-full bg-muted min-h-screen px-6 py-24 sm:px-12 sm:py-32 border-t-8 border-foreground">
+      <JsonLd data={newsSchema} />
       <div className="mx-auto max-w-7xl">
         <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
           <div className="max-w-3xl">

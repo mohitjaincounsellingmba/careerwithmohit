@@ -14,7 +14,7 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 ### **1. The Big Players: National MBA Entrance Exams**
 
 #### **CAT (Common Admission Test) - The Gold Standard**
-*   **Best For**: 21 IIMs, FMS Delhi, SPJIMR, MDI, and IITs.
+*   **Best For**: 21 IIMs, [FMS Delhi](/colleges/fms-delhi), SPJIMR, MDI, and IITs.
 *   **Conducting Body**: IIMs (on rotation).
 *   **Exam Date**: November 30, 2025 (Tentative).
 *   **Registration**: August - September 2025.
@@ -40,7 +40,7 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 *   **Placements**: NMIMS Mumbai average package is ~₹25 LPA.
 
 #### **SNAP (Symbiosis National Aptitude Test)**
-*   **Best For**: 16 Symbiosis Institutes (SIBM Pune, SCMHRD).
+*   **Best For**: 16 Symbiosis Institutes ([SIBM Pune](/colleges/sibm-pune), SCMHRD).
 *   **Conducting Body**: Symbiosis International University.
 *   **Exam Dates**: Multiple dates in December 2025.
 *   **Frequency**: Up to 3 attempts allowed.
@@ -86,10 +86,10 @@ Applying for these exams usually happens online via their official portals. Foll
 
 | College | Entrance Exam | Approx. Fees | Median Placement |
 | :--- | :--- | :--- | :--- |
-| **IIM Ahmedabad** | CAT | ₹25 Lakhs | ₹33 LPA |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | CAT | ₹25 Lakhs | ₹33 LPA |
 | **FMS Delhi** | CAT | ₹2 Lakhs | ₹31 LPA |
 | **XLRI Jamshedpur** | XAT | ₹26 Lakhs | ₹30 LPA |
-| **SPJIMR Mumbai** | CAT/XAT | ₹22 Lakhs | ₹32 LPA |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT/XAT | ₹22 Lakhs | ₹32 LPA |
 | **SIBM Pune** | SNAP | ₹24 Lakhs | ₹24 LPA |
 
 ---

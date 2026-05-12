@@ -14,7 +14,7 @@ Bangalore, India's Silicon Valley, offers unparalleled opportunities for MBA gra
 | College | Specialized In | Seat Availability | Avg Placement (2025) |
 | :--- | :--- | :--- | :--- |
 | **Christ University** | Finance/Marketing | Management Quota | ₹7.97 LPA |
-| **XIME Bangalore** | Operations/HR | Institutional Level | ₹10.36 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore)** | Operations/HR | Institutional Level | ₹10.36 LPA |
 | **JAGSoM** | Data Science/Marketing | Merit-Based Profile | ₹10.21 LPA |
 | **Alliance University** | Business Analytics | Management Quota | ₹8.50 LPA |
 | **ISBR Bangalore** | International Business | Institutional Seats | ₹7.50 LPA |

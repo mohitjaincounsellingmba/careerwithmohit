@@ -2,7 +2,7 @@
 title: "All IIM Cut Off 2026-28: CAT 2025 Expected Qualifying & Final Calling Percentiles"
 date: "2026-05-06"
 description: "Detailed guide on IIM cutoffs for 2026-28 admission. Compare qualifying vs final interview call cutoffs for General, OBC, SC, ST & EWS categories across all 21 IIMs."
-keywords: ["IIM Cut off 2026", "IIM admission 2026-28", "CAT 2025 cutoff for IIM", "IIM Ahmedabad cutoff", "IIM Bangalore cutoff", "IIM Calcutta cutoff", "IIM sectional cutoffs 2026", "new IIMs cutoff 2026", "baby IIMs cutoff 2026", "IIM admission process 2026"]
+keywords: ["IIM Cut off 2026", "IIM admission 2026-28", "CAT 2025 cutoff for IIM", "[IIM Ahmedabad](/colleges/iim-ahmedabad) cutoff", "[IIM Bangalore](/colleges/iim-bangalore) cutoff", "[IIM Calcutta](/colleges/iim-calcutta) cutoff", "IIM sectional cutoffs 2026", "new IIMs cutoff 2026", "baby IIMs cutoff 2026", "IIM admission process 2026"]
 ---
 
 For any MBA aspirant, the journey to the prestigious Indian Institutes of Management (IIMs) begins with understanding the **CAT Cutoff**. However, there is often a massive confusion between **Qualifying Cutoffs** and **Final Calling Cutoffs**.

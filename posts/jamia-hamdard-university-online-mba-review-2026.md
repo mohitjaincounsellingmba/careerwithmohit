@@ -1,5 +1,5 @@
 ---
-title: "Jamia Hamdard University Online MBA Review 2026: Delhi's Trusted Choice"
+title: "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) University Online MBA Review 2026: Delhi's Trusted Choice"
 date: "2026-03-26"
 category: "Online MBA"
 description: "Looking for an honest review of Jamia Hamdard Online MBA 2026? Check out fees, eligibility, NAAC A ranking, and why it's a top choice in Delhi NCR."

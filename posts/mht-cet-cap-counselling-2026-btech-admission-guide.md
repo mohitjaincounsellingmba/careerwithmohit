@@ -31,7 +31,7 @@ keywords: ["MHT-CET CAP 2026 dates", "MHT-CET registration fee", "COEP Pune cuto
     *   NRI/OCI/PIO: ₹5,000.
 
 ### **Top Participating Colleges in MHT-CET 2026**
-1.  **COEP Technological University, Pune** - *Top Choice.*
+1.  **[COEP Technological University](/colleges/coep-pune), Pune** - *Top Choice.*
 2.  **VJTI (Veermata Jijabai Technological Institute), Mumbai**.
 3.  **ICT (Institute of Chemical Technology), Mumbai**.
 4.  **Sardar Patel Institute of Technology (SPIT), Mumbai**.

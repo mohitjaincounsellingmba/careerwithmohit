@@ -24,7 +24,7 @@ When we talk about direct admission for BBA, there are usually two routes availa
 
 Here is the list of top-ranked and highly reputed institutions in Jaipur where you can secure a BBA seat directly based on 12th marks or institutional quotas.
 
-### 1. JECRC University, Jaipur
+### 1. [JECRC University](/colleges/jecrc-jaipur), Jaipur
 - **Approximate Fees:** ₹2.5 Lakh – ₹3.5 Lakh (Total 3 Years)
 - **Why Choose It:** JECRC is an absolute giant in Rajasthan for placements. Even though BTech is their flagship, the BBA crowd gets to leverage the same massive corporate networking and placement drives.
 - **Admission Process:** Direct admission is available for students with strong Class 12th marks. Early applicants often bypass any difficult screening tests.
@@ -34,12 +34,12 @@ Here is the list of top-ranked and highly reputed institutions in Jaipur where y
 - **Why Choose It:** VGU has excellent campus life, a modern curriculum, and international tie-ups. They offer specialized BBA tracks like International Business and Entrepreneurship.
 - **Admission Process:** They accept VGUCET, but a massive chunk of intake is done directly via merit-based counseling on campus.
 
-### 3. Poornima University
+### 3. [Poornima University](/colleges/poornima-jaipur)
 - **Approximate Fees:** ₹2.1 Lakh – ₹2.8 Lakh (Total 3 Years)
 - **Why Choose It:** Poornima focuses heavily on discipline and structured learning. If you want a no-nonsense environment with decent ROI, it's a solid choice.
 - **Admission Process:** Walk-in direct admission is available based on 12th board results, followed by a brief counseling session.
 
-### 4. Amity University Rajasthan (Jaipur Campus)
+### 4. [Amity University](/colleges/amity-noida) Rajasthan (Jaipur Campus)
 - **Approximate Fees:** ₹4.5 Lakh – ₹6.0 Lakh (Total 3 Years)
 - **Why Choose It:** If budget is not an issue, Amity offers a premium 150+ acre campus, incredible infrastructure, and global branding. 
 - **Admission Process:** While they have their own interview process and English language test, they heavily favor direct admission for students scoring above 80% in boards (bypassing written tests).

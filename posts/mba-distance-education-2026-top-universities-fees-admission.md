@@ -75,7 +75,7 @@ NMIMS is India's top brand for distance and online management education. With 40
 
 ---
 
-### 🥈 2. Amity University Online/Distance
+### 🥈 2. [Amity University](/colleges/amity-noida) Online/Distance
 
 Amity is globally accredited (WASC, QAA) and one of India's largest private universities. Its distance MBA offers 15+ specializations — the widest choice among Indian distance MBA programs.
 

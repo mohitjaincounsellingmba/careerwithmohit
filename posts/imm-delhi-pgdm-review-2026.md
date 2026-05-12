@@ -1,11 +1,11 @@
 ---
 title: "IMM Delhi PGDM Review 2026: Placements, Fees & Honest Insights"
 date: "2026-05-03"
-description: "Is IMM Delhi worth it for PGDM in 2026? Explore an honest review of Institute of Marketing & Management (IMM) including 2025 placement stats, fees, and ROI."
+description: "Is IMM Delhi worth it for PGDM in 2026? Explore an honest review of [Institute of Marketing & Management (IMM)](/colleges/imm-delhi) including 2025 placement stats, fees, and ROI."
 keywords: ["IMM Delhi review 2026", "IMM Delhi PGDM placements 2025", "Institute of Marketing and Management Delhi fees", "best PGDM colleges in Delhi NCR", "IMM Delhi vs NDIM", "IMM Delhi ranking"]
 ---
 
-Founded in 1969, the **Institute of Marketing and Management (IMM) Delhi** is one of the oldest B-schools in India. Located in the prestigious Qutub Institutional Area, it sits alongside elite institutions like IIFT and FORE School of Management. 
+Founded in 1969, the **Institute of Marketing and Management (IMM) Delhi** is one of the oldest B-schools in India. Located in the prestigious Qutub Institutional Area, it sits alongside elite institutions like IIFT and [FORE School of Management](/colleges/fore-school-delhi). 
 
 But does its legacy translate into modern-day career success? In this review, we break down the **IMM Delhi PGDM program for the 2026-28 batch**.
 

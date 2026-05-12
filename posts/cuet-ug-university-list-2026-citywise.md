@@ -17,11 +17,11 @@ Delhi NCR remains the biggest hub for CUET-based admissions, led by top-tier cen
 
 *   **University of Delhi (DU):** The most popular choice for Arts, Science, and Commerce.
 *   **Jawaharlal Nehru University (JNU):** Known for language and social science courses.
-*   **Jamia Millia Islamia (JMI):** Offers a wide range of UG programs in various domains.
+*   **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia):** Offers a wide range of UG programs in various domains.
 *   **Dr. B.R. Ambedkar University Delhi (AUD):** A state university focused on humanities.
 *   **Guru Gobind Singh Indraprastha University (GGSIPU):** Uses CUET for several professional courses.
 *   **Galgotias University (Greater Noida):** A leading private choice for modern specializations.
-*   **Bennett University (Greater Noida):** Known for its media and tech programs.
+*   **[Bennett University](/colleges/bennett-greater-noida) (Greater Noida):** Known for its media and tech programs.
 
 [👉 Detailed Guide: CUET UG Accepting Colleges in Delhi NCR 2026](/cuet-ug-accepting-colleges-delhi-ncr-2026)
 
@@ -34,7 +34,7 @@ Mumbai offers a mix of prestigious public institutes and state-of-the-art privat
 
 *   **Tata Institute of Social Sciences (TISS):** Premier institute for social sciences.
 *   **SNDT Women’s University:** India’s first women’s university.
-*   **Amity University, Mumbai:** Offers diverse UG programs with global exposure.
+*   **[Amity University, Mumbai](/colleges/amity-university-mumbai):** Offers diverse UG programs with global exposure.
 *   **Chhatrapati Shivaji Maharaj University:** A growing hub for multidisciplinary studies.
 *   **Somaiya Vidyavihar University:** Known for its engineering and management focus.
 
@@ -47,7 +47,7 @@ Mumbai offers a mix of prestigious public institutes and state-of-the-art privat
 ## 3. CUET Universities in Pune
 Pune, the "Oxford of the East," has several private and deemed universities integrating CUET.
 
-*   **MIT World Peace University (MIT-WPU):** A top-tier private university with a vast campus.
+*   **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune):** A top-tier private university with a vast campus.
 *   **Symbiosis International (Deemed University):** Accepts CUET for specific programs alongside SET.
 *   **Dr. D.Y. Patil International University:** Known for its professional and application-oriented courses.
 *   **Pimpri Chinchwad University (PCU):** Emerging choice for tech and management UG courses.
@@ -61,11 +61,11 @@ Pune, the "Oxford of the East," has several private and deemed universities inte
 ## 4. CUET Universities in Jaipur
 Jaipur provides some of the best ROI-based private education in North India.
 
-*   **Manipal University Jaipur:** Known for its world-class campus and diverse UG courses.
-*   **JECRC University:** A popular choice for B.Tech and design courses.
+*   **[Manipal University Jaipur](/colleges/manipal-university-jaipur):** Known for its world-class campus and diverse UG courses.
+*   **[JECRC University](/colleges/jecrc-jaipur):** A popular choice for B.Tech and design courses.
 *   **Jaipur National University (JNU Jaipur):** Offers a wide variety of professional degrees.
 *   **Vivekananda Global University (VGU):** Focuses on innovative and skill-based learning.
-*   **Poornima University:** A key player in engineering and management education.
+*   **[Poornima University](/colleges/poornima-jaipur):** A key player in engineering and management education.
 
 [👉 Detailed Guide: CUET UG Accepting Colleges in Jaipur 2026](/cuet-ug-accepting-colleges-jaipur-2026)
 

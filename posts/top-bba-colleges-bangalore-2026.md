@@ -19,8 +19,8 @@ Whether you are targeting the legendary discipline of Christ University or the e
 | **Christ (Central)** | Private | CUET/ET | ₹2.8 - 3.5 Lakhs | ₹6.5 - 9.5 LPA |
 | **St. Joseph’s (SJC)** | Private | Merit/ET | ₹1.2 - 1.8 Lakhs | ₹5.5 - 8.0 LPA |
 | **Jain (CMS)** | Deemed | JET | ₹3.5 - 4.5 Lakhs | ₹5.0 - 7.5 LPA |
-| **NMIMS Bangalore** | Deemed | NPAT | ₹3.2 - 3.8 Lakhs | ₹8.5 - 12.0 LPA |
-| **IIM Bangalore (DI)** | Central | IPMAT/JIPMAT | ₹5.5 - 6.5 Lakhs | ₹18.0 - 25.0 LPA|
+| **[NMIMS Bangalore](/colleges/nmims-bangalore)** | Deemed | NPAT | ₹3.2 - 3.8 Lakhs | ₹8.5 - 12.0 LPA |
+| **[IIM Bangalore](/colleges/iim-bangalore) (DI)** | Central | IPMAT/JIPMAT | ₹5.5 - 6.5 Lakhs | ₹18.0 - 25.0 LPA|
 | **Mount Carmel (MCC)** | Women | Merit | ₹1.8 - 2.5 Lakhs | ₹5.0 - 7.0 LPA |
 
 ---

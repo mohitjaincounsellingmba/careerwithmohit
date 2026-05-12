@@ -56,7 +56,7 @@ The DGME will release a state merit list. Based on your rank, you will fill your
 - **GSVM, Kanpur**
 
 ### Private Hubs (Open to All India)
-- **Sharda University (Greater Noida)**
+- **[Sharda University](/colleges/sharda-greater-noida) (Greater Noida)**
 - **Hind Institute (Barabanki/Lucknow)**
 - **SRMS (Bareilly)**
 - **Subharti Medical (Meerut)**

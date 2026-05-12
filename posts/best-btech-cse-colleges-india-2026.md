@@ -73,7 +73,7 @@ To get CSE at IIT Bombay or Delhi, you generally need an **AIR under 100-200** i
 Yes. Colleges like **BITS Pilani, RVCE Bangalore, and DA-IICT** consistently place their CSE graduates in the ₹15L - ₹30L bracket.
 
 **Q4. is B.Tech CSE possible without JEE?**
-Yes. Many universities like **BML Munjal, Bennett University, and LPU** offer admission based on CUET or Class 12 Boards, provided you meet their technical aptitude criteria.
+Yes. Many universities like **BML Munjal, [Bennett University](/colleges/bennett-greater-noida), and LPU** offer admission based on CUET or Class 12 Boards, provided you meet their technical aptitude criteria.
 
 **Q5. What is the average cost of a CSE degree in 2026?**
 Government colleges (IITs/NITs) cost around ₹8L - ₹12L for 4 years. Private universities range from ₹15L to ₹25L.

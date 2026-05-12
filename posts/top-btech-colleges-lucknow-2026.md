@@ -19,7 +19,7 @@ This guide covers the **top B.Tech colleges in Lucknow for 2026** with fees, AKT
 | IET Lucknow (HBTU) | State Govt (Autonomous) | ₹0.70 L/yr | ₹5–9 LPA | JEE Main / UPTAC |
 | BBAU Lucknow | Central Govt University | ₹0.80 L/yr | ₹4–7 LPA | CUET UG / Boards |
 | KNIT Sultanpur | Govt (near Lucknow) | ₹1.0 L/yr | ₹4–7 LPA | JEE Main |
-| Amity University Lucknow | Private | ₹1.5 L/yr | ₹5–8 LPA | JEE / Boards |
+| [Amity University](/colleges/amity-noida) Lucknow | Private | ₹1.5 L/yr | ₹5–8 LPA | JEE / Boards |
 | Integral University | Private | ₹0.90 L/yr | ₹4–6 LPA | UPTAC / Direct |
 | SRMCEM Lucknow | Private | ₹0.85 L/yr | ₹4–6 LPA | UPTAC / Direct |
 | Shri Ramswaroop College (SRCEM) | Private | ₹0.80 L/yr | ₹3.5–6 LPA | UPTAC |
