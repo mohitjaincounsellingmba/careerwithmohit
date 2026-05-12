@@ -64,16 +64,21 @@ export const getSortedPostsData = cache(() => {
       // Use gray-matter to parse the post metadata section
       const matterResult = matter(fileContents);
 
+      // Ensure title and date are strings
+      const title = matterResult.data.title ? String(matterResult.data.title) : 'Untitled Post';
+      const date = matterResult.data.date ? (matterResult.data.date instanceof Date ? matterResult.data.date.toISOString().split('T')[0] : String(matterResult.data.date)) : new Date().toISOString().split('T')[0];
+
       // Combine the data with the id
       return {
         slug,
-        title: matterResult.data.title,
-        date: matterResult.data.date,
-        description: matterResult.data.description,
+        title,
+        date,
+        description: matterResult.data.description || '',
         keywords: matterResult.data.keywords || [],
         category: inferCategory(matterResult.data, slug),
       };
-    });
+    })
+    .filter(post => post.title !== 'Untitled Post'); // Filter out potentially broken files
 
   // Sort posts by date
   return allPostsData.sort((a, b) => (a.date < b.date ? 1 : -1));

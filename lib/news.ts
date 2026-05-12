@@ -9,6 +9,22 @@ export interface NewsItem {
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
+    id: 12,
+    title: "CBSE 12th Result 2026: DigiLocker Shows 'Coming Soon' Status",
+    category: "Board Results",
+    date: "May 12, 2026",
+    excerpt: "The wait for CBSE Class 12 results is nearing its end as DigiLocker and UMANG apps update status to 'Coming Soon'. Results are expected to be announced by May 15-18. Keep your admit card ready for verification.",
+    link: "/blog/cbse-12th-result-2026-expected-date.md"
+  },
+  {
+    id: 11,
+    title: "NEET UG 2026 Exam Cancelled: NTA Announces Re-Test Official Dates",
+    category: "Entrance Exams",
+    date: "May 12, 2026",
+    excerpt: "Following a series of official reviews, the NTA has announced the cancellation and subsequent re-test of the NEET UG 2026 examination. Detailed schedule and preparation strategies are now available for all aspirants.",
+    link: "/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates"
+  },
+  {
     id: 10,
     title: "CUET PG 2026 Result Declared: Scorecard Link Active at exams.nta.nic.in",
     category: "Entrance Exams",

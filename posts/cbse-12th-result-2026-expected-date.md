@@ -69,7 +69,7 @@ Keep your Admit Card handy. You will need:
 **Confused about your college options based on your marks?**
 Don't worry! Mohit Jain provides specialized career counselling to help you find the best college and course that fits your profile and interests.
 
-[👉 Get Expert Admission Guidance Now!](/inquiry) | [💬 Chat with Mohit on WhatsApp](/inquiry)
+[👉 Get Expert Admission Guidance Now!](/inquiry) | [💬 Chat with Mohit on WhatsApp](https://wa.me/919560020771)
 
 ---
 
