@@ -75,7 +75,7 @@ Ideal for students looking for consistent growth and a solid entry into the Mumb
 - **Fees:** ₹16.5 Lakhs
 - **Average Placement:** ₹9.0 - ₹14.3 LPA
 - **USP:** Famous for its "Bloomberg Lab" and high placements in the Finance and Research sectors.
-- **Detailed Review:** [Read all about NL Dalmia PGDM Admission 2026](/posts/all-about-nl-dalmia-admission-2026)
+- **Detailed Review:** [Read all about NL Dalmia PGDM Admission 2026](/blog/all-about-nl-dalmia-admission-2026)
 
 ### 9. MET Mumbai (MET Institute of Management)
 - **Fees:** ₹4.5 - ₹6.0 Lakhs

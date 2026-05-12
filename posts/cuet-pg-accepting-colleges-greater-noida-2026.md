@@ -49,9 +49,9 @@ IILM has a strong reputation for management education and accepts CUET PG scores
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [All about GL Bajaj Greater Noida](/posts/all-about-gl-bajaj-greater-noida)
-- [BIMTECH Greater Noida Placement Review 2025](/posts/bimtech-greater-noida-placement-review-2025)
-- [CUET PG MBA Colleges List 2026](/posts/cuet-pg-mba-colleges-list-2026)
+- [All about GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida)
+- [BIMTECH Greater Noida Placement Review 2025](/blog/bimtech-greater-noida-placement-review-2025)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
 
 **Confused between Galgotias vs. Sharda?**
 Choosing the right Greater Noida college requires balancing your career specialization with the campus culture. Get expert advice today!

@@ -46,9 +46,9 @@ Many growing private universities in the city use CUET PG to diversify their stu
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Noida](/posts/best-mba-colleges-in-noida-ghaziabad-2026)
-- [Amity University Noida B.Tech Admission 2026](/posts/amity-university-noida-btech-admission-2026-fees-review)
-- [CUET PG MBA Colleges List 2026](/posts/cuet-pg-mba-colleges-list-2026)
+- [Top MBA Colleges in Noida](/blog/best-mba-colleges-in-noida-ghaziabad-2026)
+- [Amity University Noida B.Tech Admission 2026](/blog/amity-university-noida-btech-admission-2026-fees-review)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
 
 **Confused between Amity vs. JIIT?**
 Choosing the right Noida college requires balancing your career specialization with the campus culture. Get expert advice today!

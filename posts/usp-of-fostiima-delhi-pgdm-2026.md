@@ -142,8 +142,8 @@ Yes — by the 1973 batch of IIM Ahmedabad. FOSTIIMA stands for "Friends Of Seve
 ---
 
 [👉 Apply to FOSTIIMA — Get Free Guidance](/inquiry)  
-[👉 Compare FOSTIIMA vs NDIM vs FIIB](/posts/ndim-vs-fostiima-pgdm-comparison-2026)  
-[👉 Top MBA Colleges in Delhi 2026](/posts/best-mba-colleges-in-delhi-2026)
+[👉 Compare FOSTIIMA vs NDIM vs FIIB](/blog/ndim-vs-fostiima-pgdm-comparison-2026)  
+[👉 Top MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
 
 ---
 

@@ -189,8 +189,8 @@ Yes — DSB offers a dedicated full-time **PGDM (FinTech)** program, one of the 
 ---
 
 [👉 Apply to Delhi School of Business — Get Free Guidance](/inquiry)  
-[👉 Compare NDIM vs DSB VIPS](/posts/ndim-vs-delhi-school-of-business-dsb-comparison-2026)  
-[👉 Best MBA Colleges in Delhi 2026](/posts/best-mba-colleges-in-delhi-2026)
+[👉 Compare NDIM vs DSB VIPS](/blog/ndim-vs-delhi-school-of-business-dsb-comparison-2026)  
+[👉 Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
 
 ---
 

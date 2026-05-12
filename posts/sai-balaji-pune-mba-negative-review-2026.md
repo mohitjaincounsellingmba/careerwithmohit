@@ -37,10 +37,10 @@ A major pain point for many out-of-state students is confusing **Sai Balaji (SBI
 **Sai Balaji Pune is not a scam**; it is an AICTE-approved legitimate group of institutes. It can be a decent backup option if you are aiming purely for a Marketing/Sales career, want strict discipline, and failed to crack top B-schools. However, if you are looking for high ROI, core finance profiles, or a relaxed campus life, you might want to reconsider.
 
 ### **Explore Better Alternatives Before Deciding:**
-* [Sri Balaji University Pune (BIMM) Review 2025: Placements & Fees](/posts/balaji-university-pune-review-2025)
-* [Best MBA Colleges in Pune 2026: The Ultimate List](/posts/best-mba-colleges-in-pune-2026)
-* [Why Never Join High-Intake MBA Colleges in Pune](/posts/why-never-join-high-intake-mba-colleges-pune)
-* [Top Under 5 Lakhs MBA Colleges in Pune](/posts/under-5-lakhs-mba-colleges-pune-direct-admission-2026)
+* [Sri Balaji University Pune (BIMM) Review 2025: Placements & Fees](/blog/balaji-university-pune-review-2025)
+* [Best MBA Colleges in Pune 2026: The Ultimate List](/blog/best-mba-colleges-in-pune-2026)
+* [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
+* [Top Under 5 Lakhs MBA Colleges in Pune](/blog/under-5-lakhs-mba-colleges-pune-direct-admission-2026)
 
 **Still Unclear? Get an Unbiased Opinion!**
 Don't rely on just one review or flashy brochures. Our career counselors have spoken to hundreds of students from Pune colleges and can help you match your profile with the best possible MBA college.

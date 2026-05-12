@@ -153,8 +153,8 @@ Yes — placing it in the top 6% of B-schools globally.
 ---
 
 [👉 Apply to Jaipuria Noida — Get Free Guidance](/inquiry)  
-[👉 Read: Jaipuria Noida Placement Review 2025](/posts/jaipuria-noida-placement-review-2025)  
-[👉 Top MBA Colleges in Noida & Ghaziabad 2026](/posts/best-mba-colleges-in-noida-ghaziabad-2026)
+[👉 Read: Jaipuria Noida Placement Review 2025](/blog/jaipuria-noida-placement-review-2025)  
+[👉 Top MBA Colleges in Noida & Ghaziabad 2026](/blog/best-mba-colleges-in-noida-ghaziabad-2026)
 
 ---
 

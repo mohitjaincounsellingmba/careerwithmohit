@@ -27,7 +27,7 @@ BVP conducts its own national-level entrance tests for most of its programs. Her
 ### 1. Management (MBA/BBA)
 The MBA program at BVP is highly sought after, especially at the Pune (IMED) and Delhi (BVIMR) campuses.
 - **Entrance Exam:** **B-MAT** (Bharati Vidyapeeth Management Aptitude Test).
-- **Other Accepted Exams:** While B-MAT is primary, check for [CAT 2026](/posts/all-about-cat-exam.md) or [MAT 2026](/posts/all-about-mat-exam.md) score acceptance in specific categories.
+- **Other Accepted Exams:** While B-MAT is primary, check for [CAT 2026](/blog/all-about-cat-exam.md) or [MAT 2026](/blog/all-about-mat-exam.md) score acceptance in specific categories.
 - **MBA Fees:** Approx. ₹8 Lakhs (Total for 2 years).
 - **Average Placement:** ₹5 LPA - ₹9 LPA.
 
@@ -88,10 +88,10 @@ It is a **Deemed to be University** (Private), recognized by UGC and accredited 
 Direct admission is possible for certain courses under the **Management Quota**, but for programs like MBA, B.Tech, and Medical, appearing for the respective entrance exam is mandatory.
 
 ### 3. Is BVP Pune good for MBA?
-Yes, **IMED Pune** (Institute of Management and Entrepreneurship Development) is a top-ranked institute with excellent ROI and placements. You can also compare it with other [top MBA colleges in Pune](/posts/best-mba-colleges-in-pune-2026).
+Yes, **IMED Pune** (Institute of Management and Entrepreneurship Development) is a top-ranked institute with excellent ROI and placements. You can also compare it with other [top MBA colleges in Pune](/blog/best-mba-colleges-in-pune-2026).
 
 ### 4. What is the difficulty level of BVP CET?
-BVP CET is generally considered moderately difficult, focusing more on speed and basic concepts compared to [JEE Main](/posts/all-about-jee-exam.md) or [CAT](/posts/all-about-cat-exam.md).
+BVP CET is generally considered moderately difficult, focusing more on speed and basic concepts compared to [JEE Main](/blog/all-about-jee-exam.md) or [CAT](/blog/all-about-cat-exam.md).
 
 ---
 

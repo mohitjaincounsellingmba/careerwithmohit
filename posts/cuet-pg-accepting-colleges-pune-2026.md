@@ -43,9 +43,9 @@ While D.Y. Patil often has its own entrance tests, many of its constituent units
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [All about MAH MBA CET Exam](/posts/all-about-mah-mba-cet-exam)
-- [CUET PG MBA Colleges List 2026](/posts/cuet-pg-mba-colleges-list-2026)
-- [Top 10 High ROI MBA Colleges via CUET PG](/posts/top-mba-colleges-cuet-pg)
+- [All about MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
+- [Top 10 High ROI MBA Colleges via CUET PG](/blog/top-mba-colleges-cuet-pg)
 
 **Planning your MBA in Pune?**
 Our Pune admission experts can help you compare colleges like Indira vs. PCU vs. Alard to find the best fit for your career goals.

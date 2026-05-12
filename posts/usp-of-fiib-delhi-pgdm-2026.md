@@ -206,9 +206,9 @@ FIIB typically accepts candidates with 60–75 percentile in CAT/XAT, along with
 
 [👉 Apply to FIIB Delhi — Get Free Admission Guidance](/inquiry)
 
-[👉 Compare FIIB with NDIM, FOSTIIMA & More](/posts/all-about-fiib)
+[👉 Compare FIIB with NDIM, FOSTIIMA & More](/blog/all-about-fiib)
 
-[👉 Explore Top MBA Colleges in Delhi 2026](/posts/best-mba-colleges-in-delhi-2026)
+[👉 Explore Top MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
 
 ---
 

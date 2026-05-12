@@ -43,9 +43,9 @@ SRM Delhi-NCR campus is a major private university that considers several nation
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Noida/Ghaziabad](/posts/best-mba-colleges-in-noida-ghaziabad-2026)
-- [CUET PG MBA Colleges List 2026](/posts/cuet-pg-mba-colleges-list-2026)
-- [CUET PG 2026 Result Expected Date](/posts/cuet-pg-2026-result-expected-date)
+- [Top MBA Colleges in Noida/Ghaziabad](/blog/best-mba-colleges-in-noida-ghaziabad-2026)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
 
 **Confused about which Ghaziabad college to pick?**
 Comparing AKTU-affiliated colleges vs. top private universities is crucial for your career. Get expert advice from our Ghaziabad admission consultants today!

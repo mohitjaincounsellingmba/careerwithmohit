@@ -41,9 +41,9 @@ While MAKAUT has its own entrance for many courses, some affiliated private coll
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top BBA Colleges in Kolkata 2026](/posts/top-bba-colleges-kolkata-2026)
-- [CUET PG MBA Colleges List 2026](/posts/cuet-pg-mba-colleges-list-2026)
-- [CUET PG 2026 Result Expected Date](/posts/cuet-pg-2026-result-expected-date)
+- [Top BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
 
 **Planning your MBA in the Cultural Capital?**
 Choosing between a central university like Visva-Bharati and a top private university like Amity is crucial for your career. Get expert advice from our Kolkata admission consultants today!

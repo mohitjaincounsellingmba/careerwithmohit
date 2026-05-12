@@ -46,17 +46,17 @@ Several top-tier private universities in Noida, Greater Noida, and Gurugram also
 
 ### **City-Wise Breakdown within NCR**
 If you want to dive deeper into specific cities within the National Capital Region, check out our dedicated guides:
-*   [CUET PG Colleges in Noida 2026](/posts/cuet-pg-accepting-colleges-noida-2026)
-*   [CUET PG Colleges in Greater Noida 2026](/posts/cuet-pg-accepting-colleges-greater-noida-2026)
-*   [CUET PG Colleges in Ghaziabad 2026](/posts/cuet-pg-accepting-colleges-ghaziabad-2026)
-*   [CUET PG Colleges in Gurugram 2026](/posts/cuet-pg-accepting-colleges-gurugram-2026)
+*   [CUET PG Colleges in Noida 2026](/blog/cuet-pg-accepting-colleges-noida-2026)
+*   [CUET PG Colleges in Greater Noida 2026](/blog/cuet-pg-accepting-colleges-greater-noida-2026)
+*   [CUET PG Colleges in Ghaziabad 2026](/blog/cuet-pg-accepting-colleges-ghaziabad-2026)
+*   [CUET PG Colleges in Gurugram 2026](/blog/cuet-pg-accepting-colleges-gurugram-2026)
 
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [CUET PG MBA Colleges List 2026](/posts/cuet-pg-mba-colleges-list-2026)
-- [CUET PG 2026 Result Expected Date](/posts/cuet-pg-2026-result-expected-date)
-- [How to Check CUET PG 2026 Response Sheet](/posts/how-to-check-cuet-pg-2026-response-sheet-marks)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
+- [How to Check CUET PG 2026 Response Sheet](/blog/how-to-check-cuet-pg-2026-response-sheet-marks)
 
 **Need help with DU CSAS PG Registration or JNU Admission?**
 Our expert counselors can guide you through the complex preference filling and document verification process.

@@ -182,8 +182,8 @@ Top 10% of the batch averaged ₹13.39 LPA; top 25% averaged ₹12.10 LPA. Highe
 ---
 
 [👉 Apply to BML Munjal University — Get Free Guidance](/inquiry)  
-[👉 Read: BML Munjal University Placement Review 2025](/posts/bml-munjal-university-placement-review-2025)  
-[👉 Best MBA Colleges in Delhi NCR 2026](/posts/best-mba-colleges-in-delhi-2026)
+[👉 Read: BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)  
+[👉 Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
 
 ---
 

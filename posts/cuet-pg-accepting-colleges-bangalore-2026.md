@@ -47,9 +47,9 @@ Many growing private universities in the city use CUET PG to diversify their stu
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Bangalore 2026](/posts/best-mba-colleges-in-bangalore-2026)
-- [CUET PG MBA Colleges List 2026](/posts/cuet-pg-mba-colleges-list-2026)
-- [How to Check CUET PG 2026 Response Sheet](/posts/how-to-check-cuet-pg-2026-response-sheet-marks)
+- [Top MBA Colleges in Bangalore 2026](/blog/best-mba-colleges-in-bangalore-2026)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
+- [How to Check CUET PG 2026 Response Sheet](/blog/how-to-check-cuet-pg-2026-response-sheet-marks)
 
 **Confused between Alliance vs. RV University?**
 Choosing the right Bangalore college requires balancing your career specialization with the campus culture. Get expert advice today!

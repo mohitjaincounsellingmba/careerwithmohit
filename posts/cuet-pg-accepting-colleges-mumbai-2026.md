@@ -44,9 +44,9 @@ Many growing private universities in the Mumbai metropolitan region (MMR) use CU
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [CUET PG MBA Colleges List 2026](/posts/cuet-pg-mba-colleges-list-2026)
-- [How to Check CUET PG 2026 Response Sheet](/posts/how-to-check-cuet-pg-2026-response-sheet-marks)
-- [Top 10 High ROI MBA Colleges via CUET PG](/posts/top-mba-colleges-cuet-pg)
+- [CUET PG MBA Colleges List 2026](/blog/cuet-pg-mba-colleges-list-2026)
+- [How to Check CUET PG 2026 Response Sheet](/blog/how-to-check-cuet-pg-2026-response-sheet-marks)
+- [Top 10 High ROI MBA Colleges via CUET PG](/blog/top-mba-colleges-cuet-pg)
 
 **Confused between TISS vs. Somaiya?**
 Choosing the right Mumbai college requires balancing your career specialization with the campus culture. Get expert advice today!

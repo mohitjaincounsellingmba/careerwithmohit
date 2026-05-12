@@ -89,7 +89,7 @@ Getting a high CAT percentile is only 50-60% of the battle. Most IIMs use a **Co
 If you fall in the 80-90 percentile range, don't lose hope. While the top IIMs might be out of reach, you can still target:
 *   **Baby IIMs** (via CAP if you have a strong profile/diversity).
 *   **Top Private B-Schools** like FORE, GIM, or Great Lakes.
-*   Check our guide on **[Top MBA Colleges Accepting 70-80 Percentile](/posts/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026)**.
+*   Check our guide on **[Top MBA Colleges Accepting 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026)**.
 
 ---
 
@@ -97,7 +97,7 @@ If you fall in the 80-90 percentile range, don't lose hope. While the top IIMs m
 
 1.  **Don't ignore the WAT-PI:** Once you get a call, everyone is on a level playing field. Prepare for current affairs and your undergraduate subjects.
 2.  **Check Individual Admission Policies:** Every year, IIMs tweak their weightage. IIM Calcutta might focus more on Quants, while IIM Ahmedabad focuses on academic consistency.
-3.  **Target the New/Baby IIMs via CAP:** The **Common Admission Process (CAP)** is a great way to secure an IIM seat with a single interview for 10+ institutes. Read our **[Baby IIMs Honest Review](/posts/baby-iims-review-2026-honest-analysis)** for more details.
+3.  **Target the New/Baby IIMs via CAP:** The **Common Admission Process (CAP)** is a great way to secure an IIM seat with a single interview for 10+ institutes. Read our **[Baby IIMs Honest Review](/blog/baby-iims-review-2026-honest-analysis)** for more details.
 
 ---
 
@@ -110,8 +110,8 @@ At **CareerWithMohit**, we help you navigate the complex IIM admission process w
 ---
 
 ### **Related Reading**
-*   [Complete List of 21 IIMs: Courses & Placements](/posts/iims-list-courses-placements-cutoffs-admission)
-*   [All About CAT Exam: Syllabus, Dates & Preparation](/posts/all-about-cat-exam)
-*   [MBA vs PGDM: Which is Better for You?](/posts/mba-vs-pgdm-2026-ultimate-guide)
+*   [Complete List of 21 IIMs: Courses & Placements](/blog/iims-list-courses-placements-cutoffs-admission)
+*   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam)
+*   [MBA vs PGDM: Which is Better for You?](/blog/mba-vs-pgdm-2026-ultimate-guide)
 
 ---

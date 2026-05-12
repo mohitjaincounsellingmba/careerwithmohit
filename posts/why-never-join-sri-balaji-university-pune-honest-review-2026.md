@@ -63,10 +63,10 @@ While the campus is modern, the sheer number of students makes it feel overcrowd
 
 ### **Better Alternatives in Pune?**
 Before you lock your seat at Balaji, compare it with these:
-*   [Best MBA Colleges in Pune 2026: The Ultimate List](/posts/best-mba-colleges-in-pune-2026)
-*   [Why Never Join High-Intake MBA Colleges in Pune](/posts/why-never-join-high-intake-mba-colleges-pune)
-*   [PUMBA Pune Review: High ROI Alternative](/posts/pumba-pune-review-2025)
-*   [NIBM Pune: The Best for Banking & Finance](/posts/all-about-nibm-pune)
+*   [Best MBA Colleges in Pune 2026: The Ultimate List](/blog/best-mba-colleges-in-pune-2026)
+*   [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
+*   [PUMBA Pune Review: High ROI Alternative](/blog/pumba-pune-review-2025)
+*   [NIBM Pune: The Best for Banking & Finance](/blog/all-about-nibm-pune)
 
 **Confused about your MBA choice?**
 Don't let marketing brochures decide your future. Speak to our expert counselors for an unbiased profile evaluation.
