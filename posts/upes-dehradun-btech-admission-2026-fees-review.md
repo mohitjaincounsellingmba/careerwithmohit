@@ -1,7 +1,7 @@
 ---
 title: "[UPES Dehradun](/colleges/upes-dehradun) B.Tech Admission 2026: Fees, Cutoffs & Placement Review"
 date: "2026-03-24"
-description: "Planning for B.Tech at UPES Dehradun? Get the latest on UPESEAT/JEE Main 2026 cutoffs, specialized energy and IT programs, detailed fee structure, and its ₹52 LPA placement record."
+description: "Planning for B.Tech at [UPES Dehradun](/colleges/upes-dehradun)? Get the latest on UPESEAT/JEE Main 2026 cutoffs, specialized energy and IT programs, detailed fee structure, and its ₹52 LPA placement record."
 keywords: ["UPES Dehradun BTech admission 2026", "UPES Dehradun CSE cutoff 2025", "UPESEAT 2026 exam dates", "UPES Dehradun fees for BTech", "UPES placement review 2025", "UPES Energy Engineering", "BTech admissions Dehradun"]
 ---
 

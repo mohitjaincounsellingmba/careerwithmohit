@@ -1,7 +1,7 @@
 ---
 title: "Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) for B.Tech 2026: Fees, Process & Truth About Management Quota"
 date: "2026-04-02"
-description: "Complete guide to direct admission in Manipal University Jaipur (MUJ) for B.Tech 2026. Know the real admission process via MET/JEE Main, fee structure, NRI quota, placements, and why there is no management quota at MUJ."
+description: "Complete guide to direct admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ) for B.Tech 2026. Know the real admission process via MET/JEE Main, fee structure, NRI quota, placements, and why there is no management quota at MUJ."
 keywords: ["direct admission Manipal University Jaipur BTech", "MUJ BTech admission 2026", "Manipal Jaipur management quota", "Manipal Jaipur BTech fees", "MET exam 2026", "Manipal Jaipur NRI quota BTech", "direct admission engineering Jaipur 2026"]
 ---
 

@@ -27,7 +27,7 @@ Here are the **10 real USPs of FOSTIIMA Delhi** for the 2026-28 batch.
 
 ## 10 Unique Selling Points (USPs) of FOSTIIMA Delhi
 
-### 1. 🎓 Founded & Managed by IIM Ahmedabad Alumni
+### 1. 🎓 Founded & Managed by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni
 
 **FOSTIIMA** = *Friends Of Seventy-Three batch of IIM Ahmedabad*. The institute is conceived, funded, and governed by IIM-A alumni with decades of corporate and academic experience. The academic philosophy, faculty standards, and curriculum rigor are directly benchmarked against IIM-A's flagship PGDM program.
 

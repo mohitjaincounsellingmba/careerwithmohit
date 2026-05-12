@@ -69,10 +69,10 @@ Here is a curated list of the **Top 10 BBA Colleges in Gurgaon for 2026** to hel
 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
-| **1** | **BML Munjal University** | CUET / UGAT | ₹3.0 Lakhs |
+| **1** | **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | CUET / UGAT | ₹3.0 Lakhs |
 | **2** | **GD Goenka University** | CUET | ₹2.5 Lakhs |
 | **3** | **NorthCap University** | Merit | ₹2.2 Lakhs |
-| **4** | **Amity University, Gurugram** | Merit | ₹2.8 Lakhs |
+| **4** | **[Amity University](/colleges/amity-noida), Gurugram** | Merit | ₹2.8 Lakhs |
 | **5** | **IILM University, Gurugram** | Merit | ₹2.5 Lakhs |
 | **6** | **Sushant University** | Merit | ₹2.0 Lakhs |
 | **7** | **K.R. Mangalam University** | CUET / Merit | ₹1.8 Lakhs |

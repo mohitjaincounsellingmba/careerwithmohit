@@ -43,7 +43,7 @@ These are the absolute best Business Schools in the country. Graduating from her
 
 Not everyone wants to take a ₹25 Lakh education loan. If you are looking for the best Return on Investment (ROI), these are the best MBA colleges in India:
 
-### 1. FMS Delhi (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
 - **Fees:** ~₹2 Lakhs
 - **Average Package:** ₹34.10 LPA
 - **Exam:** CAT (Requires 99+ Percentile)

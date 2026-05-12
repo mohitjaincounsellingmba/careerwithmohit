@@ -2,7 +2,7 @@
 title: "[Sharda University](/colleges/sharda-greater-noida) Online MBA Review 2026: Placements, Fees & Admission"
 date: "2026-03-26"
 category: "Online MBA"
-description: "Looking for an honest, highly positive review of the Sharda University Online MBA program? Discover its curriculum, placement support, and why it is an excellent choice for working professionals."
+description: "Looking for an honest, highly positive review of the [Sharda University](/colleges/sharda-greater-noida) Online MBA program? Discover its curriculum, placement support, and why it is an excellent choice for working professionals."
 keywords: ["Sharda University online MBA review", "Sharda Online MBA placements", "best online MBA in India 2026", "Sharda University distance MBA fees"]
 ---
 

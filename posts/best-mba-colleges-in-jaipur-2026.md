@@ -14,7 +14,7 @@ In this guide, we feature the **Best MBA Colleges in Jaipur** based on their aca
 ## Tier 1: The Specialized & High-Growth Schools
 These colleges are leaders in specific domains or offer significantly higher placement packages in the region.
 
-### 1. Taxila Business School, Jaipur
+### 1. [Taxila Business School](/colleges/taxila-jaipur), Jaipur
 - **Fees:** ₹9.5 Lakhs
 - **Average Placement:** ₹11.50 LPA (Highest ₹28.6 LPA)
 - **Entrance Exam:** CAT, XAT, MAT, CMAT
@@ -38,7 +38,7 @@ These colleges are leaders in specific domains or offer significantly higher pla
 ## Tier 2: Government & Established Institutions
 These institutions offer the security of a government brand or a long-standing academic reputation.
 
-### 4. MNIT Jaipur (Malaviya National Institute of Technology)
+### 4. [MNIT Jaipur](/colleges/mnit-jaipur) (Malaviya National Institute of Technology)
 - **Status:** A premier government institute (NIT).
 - **Fees:** ₹3.27 Lakhs (Total)
 - **Average Placement:** ₹7.5 LPA

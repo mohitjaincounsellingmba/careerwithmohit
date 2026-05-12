@@ -2,7 +2,7 @@
 title: "[PUMBA Pune](/colleges/pumba-pune) MBA Review 2024-25: The King of ROI"
 date: "2026-03-14"
 description: "Low fees, high returns. Discover why PUMBA (Department of Management Sciences, SPPU) is the top choice for MBA in Pune with 2024-25 placement data."
-keywords: ["PUMBA Pune review 2025", "PUMBA MBA placements", "PUMBA fees 2025", "MAH MBA CET cut off for PUMBA", "best ROI MBA college in Pune", "PUMBA average package 2024"]
+keywords: ["[PUMBA Pune](/colleges/pumba-pune) review 2025", "PUMBA MBA placements", "PUMBA fees 2025", "MAH MBA CET cut off for PUMBA", "best ROI MBA college in Pune", "PUMBA average package 2024"]
 ---
 
 The Department of Management Sciences (PUMBA) at Savitribai Phule Pune University is one of the oldest and most respected management departments in India. It is famous nationwide for providing "Tier 1 Placements at Tier 3 Fees."

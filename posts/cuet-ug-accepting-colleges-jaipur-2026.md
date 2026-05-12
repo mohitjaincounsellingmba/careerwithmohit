@@ -16,7 +16,7 @@ Known for its massive campus and highly industry-aligned curriculum.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, B.Sc (Hons).
 *   **USP:** World-class infrastructure and top-tier placements.
 
-### **2. JECRC University**
+### **2. [JECRC University](/colleges/jecrc-jaipur)**
 A hub for technical and professional education in Jaipur.
 *   **Programs:** B.Tech, B.Sc, Design, Liberal Arts.
 *   **USP:** Focus on employability and practical learning.

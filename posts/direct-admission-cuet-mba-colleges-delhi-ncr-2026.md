@@ -55,7 +55,7 @@ A solid choice for students focusing on core placement opportunities in the IT a
 | :--- | :--- | :--- | :--- |
 | **[Amity University](/colleges/amity-noida), Noida** | ₹13.5L - ₹15.8L | ₹7.65 LPA | Open (Merit/Interview) |
 | **IILM University** | ₹9.9L - ₹12.4L | ₹8.60 LPA | Open (CUET/Direct) |
-| **Bennett University** | ₹12.0L - ₹14.3L | ₹7.41 LPA | Open (Apply Directly) |
+| **[Bennett University](/colleges/bennett-greater-noida)** | ₹12.0L - ₹14.3L | ₹7.41 LPA | Open (Apply Directly) |
 | **GNIOT, Greater Noida** | ₹5.00 Lakhs | ₹7.25 LPA | Open (Direct/CUET) |
 | **[Sharda University](/colleges/sharda-greater-noida)** | ₹8.7L - ₹9.9L | ₹6.00 LPA | Open (Interview Based) |
 | **Galgotias University** | ₹2.7L - ₹3.8L | ₹5.25 LPA | Open (Merit/CUET) |

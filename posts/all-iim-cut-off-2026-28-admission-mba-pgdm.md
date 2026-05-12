@@ -18,7 +18,7 @@ Before looking at the numbers, you must understand these two terms:
 1.  **Qualifying Cutoff (Eligibility):** This is the minimum percentile set by an IIM to even consider your application. Meeting this does **NOT** guarantee an interview call.
 2.  **Final Call Cutoff (Shortlist):** This is the actual percentile at which IIMs send out interview invites. This is always significantly higher than the qualifying cutoff.
 
-For example, IIM Ahmedabad might have a qualifying cutoff of 95, but the actual calls for General category candidates usually start at **99.5+ percentile**.
+For example, [IIM Ahmedabad](/colleges/iim-ahmedabad) might have a qualifying cutoff of 95, but the actual calls for General category candidates usually start at **99.5+ percentile**.
 
 ---
 
@@ -27,8 +27,8 @@ For example, IIM Ahmedabad might have a qualifying cutoff of 95, but the actual 
 | IIM Category | Institute | Qualifying Cutoff | Expected Call Cutoff |
 | :--- | :--- | :--- | :--- |
 | **Old IIMs (BLACKI)** | IIM Ahmedabad | 95 | 99.5+ |
-| | IIM Bangalore | 85 | 99.0+ |
-| | IIM Calcutta | 85 | 99.5+ |
+| | [IIM Bangalore](/colleges/iim-bangalore) | 85 | 99.0+ |
+| | [IIM Calcutta](/colleges/iim-calcutta) | 85 | 99.5+ |
 | | IIM Lucknow | 90 | 98.5+ |
 | | IIM Indore | 90 | 98.0+ |
 | | IIM Kozhikode | 85 | 98.0+ |

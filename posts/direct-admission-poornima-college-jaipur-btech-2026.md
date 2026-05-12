@@ -136,7 +136,7 @@ Poornima College has an active Training & Placement Cell (TPC) with good connect
 ### **Explore More Resources**
 
 - [REAP Counselling 2026 – Rajasthan B.Tech Admission Guide](/blog/reap-counselling-2026-rajasthan-btech-admission)
-- [Direct Admission in JECRC University Jaipur for B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
+- [Direct Admission in [JECRC University](/colleges/jecrc-jaipur) Jaipur for B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
 - [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) for B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
 - [Poornima University MBA Review 2026](/blog/poornima-university-mba-review-2026)
 - [B.Tech Specializations, Skills & Salary Guide](/blog/btech-specializations-skills-salary-2026-guide)

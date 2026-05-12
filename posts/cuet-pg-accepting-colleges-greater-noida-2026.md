@@ -17,7 +17,7 @@ Galgotias is one of Greater Noida’s largest private universities with its own 
 *   **Admission Process:** They consider CUET PG scores for their postgraduate admissions alongside other national management tests.
 *   **Why Choose Galgotias?** Strong industry-academic collaboration and high-quality infrastructure.
 
-### **2. Sharda University (Greater Noida)**
+### **2. [Sharda University](/colleges/sharda-greater-noida) (Greater Noida)**
 Known for its international diversity and multi-disciplinary academic environment.
 *   **Top Programs:** MBA, MCA, MA, MSc.
 *   **Admission Process:** Sharda University accepts CUET PG scores for admissions to several of its PG programs.

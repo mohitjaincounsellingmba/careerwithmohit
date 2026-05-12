@@ -18,7 +18,7 @@ If you are planning your MBA journey for the upcoming academic year, we have com
 | Rank | College | Total Fees | Avg. Package | Exams Accepted |
 |---|---|---|---|---|
 | 1 | **[FMS Delhi](/colleges/fms-delhi)** | ₹2.32 Lakhs | ₹34.10 LPA | CAT |
-| 2 | **MDI Gurgaon** | ₹25.50 Lakhs | ₹27.67 LPA | CAT |
+| 2 | **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.50 Lakhs | ₹27.67 LPA | CAT |
 | 3 | **[IIFT Delhi](/colleges/iift-delhi)** | ₹21.80 Lakhs | ₹29.10 LPA | CAT |
 | 4 | **DMS, IIT Delhi** | ₹11.20 Lakhs | ₹25.82 LPA | CAT |
 | 5 | **IMI New Delhi** | ₹23.50 Lakhs | ₹17.90 LPA | CAT, XAT, GMAT |
@@ -32,7 +32,7 @@ If you are planning your MBA journey for the upcoming academic year, we have com
 
 ## Detailed Review of the Top 10 MBA Colleges
 
-### 1. FMS Delhi (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
 The undisputed **ROI King of India**. FMS Delhi is known globally for providing an IIM-A level education at a fraction of the cost.
 - **Estimated Fees:** ₹2.32 Lakhs
 - **Average Package:** ₹34.10 LPA
@@ -45,7 +45,7 @@ Located strategically in the corporate hub of Gurgaon, MDI is consistently ranke
 - **Average Package:** ₹27.67 LPA
 - **Why Choose It:** Unmatched corporate proximity; excellent for Marketing and Strategy consulting roles.
 
-### 3. IIFT Delhi (Indian Institute of Foreign Trade)
+### 3. [IIFT Delhi](/colleges/iift-delhi) (Indian Institute of Foreign Trade)
 The premier institute for **International Business** in India. Recently, IIFT transitioned to accepting CAT scores instead of conducting its own exam.
 - **Estimated Fees:** ₹21.80 Lakhs
 - **Average Package:** ₹29.10 LPA
@@ -90,7 +90,7 @@ A part of the Birla legacy, BIMTECH offers a massive campus and strong specializ
 - **Why Choose It:** Accepts multiple exams (CAT/XAT/CMAT/MAT) and provides consistent placements with a highly disciplined academic environment.
 
 ### 10. Great Lakes Institute of Management, Gurgaon
-With a strong focus on Data Science and Analytics, Great Lakes Gurgaon has quickly risen through the ranks as a top B-school for modern tech-management roles.
+With a strong focus on Data Science and Analytics, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) has quickly risen through the ranks as a top B-school for modern tech-management roles.
 - **Estimated Fees:** ₹11.50 Lakhs
 - **Average Package:** ₹11.80 LPA
 - **Why Choose It:** Modern, analytics-driven curriculum designed for the tech-heavy Gurgaon corporate landscape.

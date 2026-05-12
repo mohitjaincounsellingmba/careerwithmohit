@@ -45,7 +45,7 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 *   **Exam Dates**: Multiple dates in December 2025.
 *   **Frequency**: Up to 3 attempts allowed.
 *   **Application Fee**: ~₹2,250 per attempt.
-*   **Placements**: SIBM Pune average package is ~₹26 LPA.
+*   **Placements**: [SIBM Pune](/colleges/sibm-pune) average package is ~₹26 LPA.
 
 ---
 
@@ -87,7 +87,7 @@ Applying for these exams usually happens online via their official portals. Foll
 | College | Entrance Exam | Approx. Fees | Median Placement |
 | :--- | :--- | :--- | :--- |
 | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | CAT | ₹25 Lakhs | ₹33 LPA |
-| **FMS Delhi** | CAT | ₹2 Lakhs | ₹31 LPA |
+| **[FMS Delhi](/colleges/fms-delhi)** | CAT | ₹2 Lakhs | ₹31 LPA |
 | **XLRI Jamshedpur** | XAT | ₹26 Lakhs | ₹30 LPA |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT/XAT | ₹22 Lakhs | ₹32 LPA |
 | **SIBM Pune** | SNAP | ₹24 Lakhs | ₹24 LPA |

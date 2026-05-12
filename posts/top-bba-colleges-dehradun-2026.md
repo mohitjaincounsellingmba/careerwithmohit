@@ -13,7 +13,7 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 
 ## 🏛️ Premier BBA Institutes in Dehradun
 
-### 1. UPES Dehradun (School of Business)
+### 1. [UPES Dehradun](/colleges/upes-dehradun) (School of Business)
 - **Approx. Fees:** ₹3.5 - 4.5 Lakhs (Annual)
 - **Average Placement:** ₹4.2 LPA (Highest ₹7.5 LPA)
 - **Entrance Exam:** UPESMET-UG / CUET

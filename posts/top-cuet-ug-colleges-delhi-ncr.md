@@ -38,7 +38,7 @@ Delhi NCR is home to several other heavyweights that accept CUET UG scores for s
 
 ### Central Universities
 - **Jawaharlal Nehru University (JNU)**: Premier institution for language and social science undergraduate programs.
-- **Jamia Millia Islamia (JMI)**: Known for Excellence in Law, Mass Communication, and Social Sciences.
+- **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)**: Known for Excellence in Law, Mass Communication, and Social Sciences.
 - **Central University of Haryana**: A great alternative with modern infrastructure.
 
 ### State & Technical Universities

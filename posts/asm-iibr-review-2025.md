@@ -1,7 +1,7 @@
 ---
 title: "[ASM IIBR](/colleges/asm-iibr) Pune Review 2025: Specialized PGDM Training"
 date: "2026-03-14"
-description: "Thinking of ASM IIBR? Explore 2025 PGDM placements, specialized corporate fees, and the ASM group's academic trust in Pune."
+description: "Thinking of [ASM IIBR](/colleges/asm-iibr)? Explore 2025 PGDM placements, specialized corporate fees, and the ASM group's academic trust in Pune."
 keywords: ["ASM IIBR Pune review 2025", "ASM IIBR placements", "ASM IIBR fees", "ASM IIBR vs IBMR", "PGDM in ASM IIBR", "ASM IIBR average package 2025"]
 ---
 

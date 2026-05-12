@@ -16,7 +16,7 @@ Not every college with a "Finance" degree is valued by investment banks. This 20
 
 | College | Primary Exam | Avg. Finance Package | Top Role Offered |
 |---|---|---|---|
-| **IIM Calcutta** | CAT | ₹35.07 LPA | Investment Banking Associate |
+| **[IIM Calcutta](/colleges/iim-calcutta)** | CAT | ₹35.07 LPA | Investment Banking Associate |
 | **[JBIMS Mumbai](/colleges/jbims-mumbai)** | MAH CET | ₹28.02 LPA | Equity Research / Treasury |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT | ₹33.00 LPA | Private Equity / BFSI |
 | **[IIM Bangalore](/colleges/iim-bangalore)**| CAT | ₹35.31 LPA | Management Consulting (Finance)|
@@ -29,7 +29,7 @@ Not every college with a "Finance" degree is valued by investment banks. This 20
 ### 1. IIM Calcutta (The Quant King)
 IIM-C is widely regarded as the best institute for Finance in Asia. Its proximity to Kolkata’s intellectual finance tradition and its focus on pure mathematics and statistics make it the #1 choice.
 
-### 2. JBIMS Mumbai (The CEO Factory)
+### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (The CEO Factory)
 Located in South Mumbai, minutes away from the RBI and major bank HQs. 
 - **USP:** Real-world training by adjunct faculty who are actually MDs and CEOs of major banks.
 

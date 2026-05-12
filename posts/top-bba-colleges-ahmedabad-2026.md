@@ -16,7 +16,7 @@ Whether you are targeting the academic rigor of Nirma or the liberal arts approa
 
 | College | Type | Entrance Exam | 1st Yr Fees | Avg. Package |
 |---|---|---|---|---|
-| **Nirma University** | Private | IPMAT Indore | ₹3.5 - 4.5 Lakhs | ₹6.5 - 10.5 LPA |
+| **[Nirma University](/colleges/nirma-university)** | Private | IPMAT Indore | ₹3.5 - 4.5 Lakhs | ₹6.5 - 10.5 LPA |
 | **Ahmedabad Univ (AU)** | Private | Merit/Intv | ₹3.8 - 4.8 Lakhs | ₹5.5 - 9.0 LPA |
 | **PDEU Gandhinagar** | Private | Merit/Entrance| ₹2.5 - 3.2 Lakhs | ₹5.0 - 7.5 LPA |
 | **GLS University** | Private | Merit | ₹0.8 - 1.2 Lakhs | ₹3.5 - 5.5 LPA |

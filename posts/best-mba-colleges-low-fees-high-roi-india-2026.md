@@ -16,7 +16,7 @@ The answer is a resounding **YES**. India is home to several elite, government-r
 
 | College | Total Fees (2 Yrs) | Avg. Placement | ROI % (Approx) |
 |---|---|---|---|
-| **FMS Delhi** | ₹2.0 Lakhs | ₹34.10 LPA | **1700%** |
+| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.0 Lakhs | ₹34.10 LPA | **1700%** |
 | **[JBIMS Mumbai](/colleges/jbims-mumbai)** | ₹6.0 Lakhs | ₹28.02 LPA | **460%** |
 | **TISS Mumbai** | ₹1.8 Lakhs | ₹27.22 LPA | **1500%** |
 | **DSE Delhi** | ₹0.5 Lakhs | ₹14.50 LPA | **2900%** |
@@ -40,7 +40,7 @@ Technically an **MA in HRM & LR**, but it is treated exactly like an MBA by recr
 - **Fees:** Very subsidized hostel and tuition fees.
 - **Highest Package:** ~₹49 LPA.
 
-### 3. JBIMS Mumbai (Jamnalal Bajaj)
+### 3. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj)
 Located right in the heart of South Mumbai. Affiliated with Mumbai University.
 - **Niche:** It produces more banking CEOs than any other institute in India.
 

@@ -29,18 +29,18 @@ Whether you are aiming for the "Red Building" of FMS or looking for a high-ROI p
 
 ## 🏛️ Tier 1: The Best in India (Top 10 Rankings)
 
-### 1. FMS Delhi (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
 Known globally for having the **highest ROI of any MBA program in the world**. 
 - **Total Fees:** ~₹2 Lakhs for 2 years.
 - **Top Recruiters:** BCG, McKinsey, Morgan Stanley, Google.
 - **Why Choose It:** You get IIM-ABC level placements at the cost of a basic hatchback.
 
-### 2. MDI Gurgaon
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon)
 Located in the corporate hub of Gurgaon. MDI is consistently ranked among India's top 10 B-schools.
 - **Why Choose It:** Unmatched proximity to companies like Google, Zomato, and Deloitte.
 - **Niche:** Excellent for Marketing and Consulting.
 
-### 3. IIFT Delhi (Indian Institute of Foreign Trade)
+### 3. [IIFT Delhi](/colleges/iift-delhi) (Indian Institute of Foreign Trade)
 The premier institute for **International Business**. Recently switched from its own entrance exam to CAT scores.
 - **USP:** Global trade specialization and international placement opportunities.
 

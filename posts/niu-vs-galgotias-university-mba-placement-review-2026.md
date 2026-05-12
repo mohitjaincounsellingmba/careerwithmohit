@@ -9,7 +9,7 @@ When choosing an MBA in Noida or Greater Noida, many students get blinded by the
 
 ### **Head-to-Head: 2026-28 Course Audit**
 
-| Feature | Noida International University (NIU) | Galgotias University (Mass Intake) |
+| Feature | [Noida International University (NIU)](/colleges/niu-greater-noida) | Galgotias University (Mass Intake) |
 | :--- | :--- | :--- |
 | **Academic Model** | Elite & Data-Driven (IBM Tie-ups) | Mass Enrollment Model |
 | **Total Fees (2026-28)** | **₹4.0 Lakhs - ₹7.0 Lakhs** | **₹2.7 Lakhs - ₹3.8 Lakhs** |

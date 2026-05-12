@@ -11,7 +11,7 @@ If you are a 12th-grade student targeting **Kolkata for the 2026-27 academic ses
 
 ---
 
-### **1. Sister Nivedita University (SNU)**
+### **1. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU)**
 A premier private university in Kolkata, part of the Techno India Group.
 *   **Programs:** BA (Hons) English, BBA, B.Com (Hons), B.Sc.
 *   **Admission Process:** Uses CUET scores followed by an interview process.

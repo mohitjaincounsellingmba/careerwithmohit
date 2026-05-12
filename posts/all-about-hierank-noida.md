@@ -2,7 +2,7 @@
 title: "Hierank Noida Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
 description: "Review of [Hierank Business School](/colleges/hierank-noida), Noida. Explore the 2024 placement data, campus infrastructure, and faculty expertise."
-keywords: ["Hierank Business School review 2026", "Hierank Noida placements", "MBA in Noida Sector 62", "Hierank faculty review"]
+keywords: ["[Hierank Business School](/colleges/hierank-noida) review 2026", "Hierank Noida placements", "MBA in Noida Sector 62", "Hierank faculty review"]
 ---
 
 ### **College Review: Hierank Business School**

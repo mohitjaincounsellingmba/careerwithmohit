@@ -11,19 +11,19 @@ In this comprehensive guide, we list every IIM separately with all the essential
 
 ---
 
-### 1. IIM Ahmedabad (IIMA)
+### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad) (IIMA)
 *   **Flagship Courses:** PGP (MBA), PGP-FABM (Agri-Business), PGPX (1-Year Executive).
 *   **Placements (Avg):** ₹32.7 LPA – ₹34.0 LPA.
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Sectional 80+).
 *   **Admission Rounds:** AWT (Analytical Writing Test) & Personal Interview (PI).
 
-### 2. IIM Bangalore (IIMB)
+### 2. [IIM Bangalore](/colleges/iim-bangalore) (IIMB)
 *   **Flagship Courses:** PGP, PGP-BA (Business Analytics), EPGP.
 *   **Placements (Avg):** ₹35.3 LPA.
 *   **Expected CAT Cut-off:** 99.0+ Percentile (High weightage on academics).
 *   **Admission Rounds:** WAT (Written Ability Test) & Personal Interview (PI).
 
-### 3. IIM Calcutta (IIMC)
+### 3. [IIM Calcutta](/colleges/iim-calcutta) (IIMC)
 *   **Flagship Courses:** MBA, PGDBA (Business Analytics).
 *   **Placements (Avg):** ₹35.0 LPA.
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Focus on Quants).

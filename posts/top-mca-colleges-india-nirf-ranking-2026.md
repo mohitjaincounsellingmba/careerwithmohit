@@ -56,7 +56,7 @@ If you are a 2026 aspirant, keep these factors in mind:
 ## 🏗️ Top Private MCA Frameworks
 
 While NITs are hard to crack, private giants like **VIT, SRM, and BITS** offer incredible infrastructure for those who can afford the higher fee structure:
-- **VIT Vellore:** High-volume recruitment from mass recruiters like Accenture/Infosys as well as niche tech firms.
+- **[VIT Vellore](/colleges/vit-vellore):** High-volume recruitment from mass recruiters like Accenture/Infosys as well as niche tech firms.
 - **Manipal (MIT):** Known for its research-driven computer application curriculum.
 
 ---

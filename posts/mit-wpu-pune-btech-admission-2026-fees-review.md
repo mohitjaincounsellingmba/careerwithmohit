@@ -5,7 +5,7 @@ description: "Planning for B.Tech at [MIT World Peace University (MIT-WPU)](/col
 keywords: ["MIT-WPU Pune BTech admission 2026", "MIT Pune BTech fees", "MIT-WPU JEE Main cutoff rank", "MIT-WPU MHT-CET cutoff", "MIT-WPU placement 2025 review", "MIT World Peace University average package", "MIT-WPU engineering placements"]
 ---
 
-**MIT World Peace University (MIT-WPU)**, located in the prestigious Kothrud area of Pune, is one of the most popular private engineering universities in India. Formerly known as MIT Pune, it rebranded into a university and is renowned for its state-of-the-art infrastructure, high-quality faculty, and strong corporate connections.
+**[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)**, located in the prestigious Kothrud area of Pune, is one of the most popular private engineering universities in India. Formerly known as MIT Pune, it rebranded into a university and is renowned for its state-of-the-art infrastructure, high-quality faculty, and strong corporate connections.
 
 If you are an engineering aspirant looking at **MIT-WPU B.Tech 2026 admission**, here is everything you need to know about the process, cutoffs, and ROI.
 

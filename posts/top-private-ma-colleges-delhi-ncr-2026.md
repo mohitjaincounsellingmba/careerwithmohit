@@ -17,7 +17,7 @@ In this guide, we dive deep into the top-rated private MA colleges across Noida,
 | :--- | :--- | :--- |
 | **Economics** | **Ashoka University / Shiv Nadar** | Exceptional research focus & corporate placements. |
 | **International Relations** | **O.P. Jindal Global University** | World-class faculty and global credit transfers. |
-| **Clinical Psychology** | **Amity University / GD Goenka** | Established labs and mandatory clinical internships. |
+| **Clinical Psychology** | **[Amity University](/colleges/amity-noida) / GD Goenka** | Established labs and mandatory clinical internships. |
 | **English & Liberal Arts** | **[Bennett University](/colleges/bennett-greater-noida) / Ashoka** | Critical thinking and contemporary literature focus. |
 | **Media & Journalism** | **SGT University / Sharda** | Massive production studios and industry tie-ups. |
 

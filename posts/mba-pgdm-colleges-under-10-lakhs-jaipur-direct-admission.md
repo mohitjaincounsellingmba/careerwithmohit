@@ -9,14 +9,14 @@ Jaipur is fast emerging as an educational hub for North India. It offers a uniqu
 
 For students seeking top-tier MBA programs that deliver high ROI without the exorbitant price tag, Jaipur has a robust lineup of colleges with total fees **well under ₹10 Lakhs**. Better yet, profile-based direct admissions are readily available for the 2026 batch.
 
-### **1. Taxila Business School (TBS)**
+### **1. [Taxila Business School](/colleges/taxila-jaipur) (TBS)**
 Often regarded as one of the most intense B-schools in North India, Taxila demands highly dedicated students but routinely delivers exceptional placements, often crossing the 10 Lakh mark on average.
 *   **Total Fees (Approx.)**: ₹9.50 Lakhs
 *   **Average Placement**: ₹9.0 LPA - ₹11.5 LPA
 *   **Why Choose**: Elite corporate placements, a rigorous dual-specialization curriculum (PGDM + SAP), and 14-hour daily schedules mirroring corporate life.
 *   **Admission Mode**: Profile-based direct admission after stringent PI and aptitude evaluations.
 
-### **2. GCEC Global Foundation (Poornima University)**
+### **2. GCEC Global Foundation ([Poornima University](/colleges/poornima-jaipur))**
 GCEC (Global Centre for Entrepreneurship and Commerce) is rapidly becoming the gold standard for global finance and startup-focused MBAs in Rajasthan.
 *   **Total Fees (Approx.)**: ₹6.00 Lakhs
 *   **Average Placement**: ₹7.0 LPA - ₹10.0 LPA

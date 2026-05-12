@@ -31,7 +31,7 @@ Whether you are targeting the legendary discipline of Christ University or the e
 Consistently ranked among the top 3 BBA programs in India. Christ is famous for its strict discipline, holistic skill development, and its own "Entrance Test" (CUET—not to be confused with the national CUET).
 - **Placement Secret:** Most graduates secure placements in Big 4 consulting firms (EY, KPMG, Deloitte, PwC).
 
-### 2. NMIMS Bangalore (Bannerghatta)
+### 2. [NMIMS Bangalore](/colleges/nmims-bangalore) (Bannerghatta)
 While NMIMS is synonymous with Mumbai, its Bangalore campus has emerged as a specialization powerhouse for Finance and Business Analytics.
 - **Top Choice:** For students who want an elite brand name with a modern tech-integrated curriculum.
 

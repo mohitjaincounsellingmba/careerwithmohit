@@ -1,7 +1,7 @@
 ---
 title: "[Poornima University](/colleges/poornima-jaipur) Jaipur MBA Review 2026: Placements, Fees & Cutoff"
 date: "2026-03-20"
-description: "Read the complete 2026 review for the MBA program at Poornima University Jaipur. Understand the fee structure, placement stats, and the admission process."
+description: "Read the complete 2026 review for the MBA program at [Poornima University](/colleges/poornima-jaipur) Jaipur. Understand the fee structure, placement stats, and the admission process."
 keywords: ["Poornima University Jaipur MBA review", "Poornima MBA fees 2026", "Poornima University placements", "Poornima University cutoff", "affordable MBA colleges in Jaipur"]
 ---
 

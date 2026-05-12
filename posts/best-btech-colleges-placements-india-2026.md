@@ -75,7 +75,7 @@ Strong placements in software and core engineering, particularly for CS and ECE 
 
 ## Tier 4 — Top Private: Best for Mass Placements
 
-### VIT Vellore — India's Largest Placement Operation
+### [VIT Vellore](/colleges/vit-vellore) — India's Largest Placement Operation
 20,000+ students, 600+ recruiting companies, ₹7–10 LPA average. Best for students who want placement certainty over prestige.
 
 ### Thapar University — Best Private for High Packages

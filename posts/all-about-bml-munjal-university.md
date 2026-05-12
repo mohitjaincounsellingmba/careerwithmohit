@@ -1,7 +1,7 @@
 ---
 title: "[BML Munjal University](/colleges/bml-munjal-gurgaon) Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
-description: "Detailed review of BML Munjal University MBA. Check the 2024-25 placement packages, world-class infra, and industry-led faculty."
+description: "Detailed review of [BML Munjal University](/colleges/bml-munjal-gurgaon) MBA. Check the 2024-25 placement packages, world-class infra, and industry-led faculty."
 keywords: ["BML Munjal University review 2026", "BMU MBA placements 2025", "BML Munjal infrastructure", "Hero Group university Gurgaon"]
 ---
 

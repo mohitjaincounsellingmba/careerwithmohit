@@ -22,7 +22,7 @@ Known for its academic rigor and holistic postgraduate programs.
 *   **Top Programs:** MSc in Environment Management, MSc in Rural Development.
 *   **Admission Process:** They consider CUET PG scores as part of their eligibility criteria for several of their PG programs.
 
-### **3. Amity University (Kolkata)**
+### **3. [Amity University](/colleges/amity-noida) (Kolkata)**
 Amity Kolkata is known for its modern infrastructure and diverse PG courses in management and information technology.
 *   **Top Programs:** MBA, MCA, MA, MSc.
 *   **Admission Process:** They consider various national scores including CUET PG for several of their postgraduate departments.

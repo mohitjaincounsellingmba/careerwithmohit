@@ -16,7 +16,7 @@ Whether you're aimimg for a Tier-1 brand or a high-ROI private institute, this g
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **IIM Bangalore** | CAT | ₹25.0 Lakhs | ₹35.31 LPA |
+| **[IIM Bangalore](/colleges/iim-bangalore)** | CAT | ₹25.0 Lakhs | ₹35.31 LPA |
 | **IISc (DoMS)** | CAT / GMAT | ₹4.5 Lakhs | ₹28.00 LPA |
 | **[SIBM Bangalore](/colleges/sibm-bangalore)** | SNAP | ₹21.0 Lakhs | ₹18.20 LPA |
 | **[NMIMS Bangalore](/colleges/nmims-bangalore)** | NMAT | ₹22.0 Lakhs | ₹19.20 LPA |
@@ -39,7 +39,7 @@ The hidden gem for those who want a data-driven, research-focused MBA (M.Mgmt). 
 - **Fees:** ~₹4.5 Lakhs for 2 years.
 - **Avg. Package:** ₹25-28 LPA.
 
-### 3. SIBM & NMIMS Bangalore
+### 3. SIBM & [NMIMS Bangalore](/colleges/nmims-bangalore)
 Both are powerhouses for Marketing and Operations specializations. They offer high-end corporate exposure and modern pedagogy.
 - **NMIMS Tip:** Known for strong Finance placements in the IT hub.
 
@@ -50,7 +50,7 @@ Both are powerhouses for Marketing and Operations specializations. They offer hi
 If your CAT percentile is between 70-85, Bangalore offers fantastic private options:
 
 - **TAPMI (Manipal/Bangalore):** Triple-accredited (AACSB, AMBA, EQUIS). Known for its strict academic rigour.
-- **XIME Bangalore:** Excellent for International Business and female aspirants (diverse batch).
+- **[XIME Bangalore](/colleges/xime-bangalore):** Excellent for International Business and female aspirants (diverse batch).
 - **IFIM (Jagdish Sheth School of Management):** Located right in Electronic City, ensuring students are always close to the action.
 
 ---

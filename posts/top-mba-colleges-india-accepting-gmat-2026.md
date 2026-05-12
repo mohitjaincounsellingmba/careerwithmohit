@@ -42,11 +42,11 @@ ISB is the most prominent GMAT-accepting school in India. Its flagship **PGP (Po
 
 ### **IIM Executive MBA Programs**
 Most top IIMs (Ahmedabad, Bangalore, Calcutta, Lucknow, Indore) accept GMAT for their 1-year full-time residential programs.
-- **IIM Ahmedabad (PGPX):** Requires 4+ years of work-ex.
+- **[IIM Ahmedabad](/colleges/iim-ahmedabad) (PGPX):** Requires 4+ years of work-ex.
 - **[IIM Bangalore](/colleges/iim-bangalore) (EPGP):** Focuses heavily on professional achievements.
 - **[IIM Calcutta](/colleges/iim-calcutta) (MBAEx):** Known for its analytical rigour.
 
-### **SPJIMR Mumbai**
+### **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**
 SPJIMR is unique because it accepts GMAT for its two-year flagship PGDM program for Indian residents, not just NRIs.
 - **Why Choose SPJIMR?** Exceptional ROI and location advantage in Mumbai.
 

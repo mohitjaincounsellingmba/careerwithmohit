@@ -14,14 +14,14 @@ If you are aiming for B.Tech admission in 2026, here is our comprehensive list o
 
 ---
 
-### **1. Amity University, Gurugram**
+### **1. [Amity University](/colleges/amity-noida), Gurugram**
 Amity is a premier private university known for its ultra-modern infrastructure, global exposure, and strong industry ties. It offers diverse B.Tech specializations including AI, Data Science, and Cybersecurity.
 *   **Entrance Exam**: JEE Main, Amity JEE.
 *   **Estimated Fees**: ₹8.5 - ₹12 Lakhs (Total).
 *   **Placement Highlight**: Excellent networking and an average package around ₹5-6 LPA, with highest packages crossing ₹30 LPA.
 
 ### **2. [BML Munjal University](/colleges/bml-munjal-gurgaon)**
-Founded by the promoters of the Hero Group, BML Munjal University focuses on experiential learning and practical engineering over pure theory. It is mentored by Imperial College London.
+Founded by the promoters of the Hero Group, [BML Munjal University](/colleges/bml-munjal-gurgaon) focuses on experiential learning and practical engineering over pure theory. It is mentored by Imperial College London.
 *   **Entrance Exam**: JEE Main, CUET, SAT.
 *   **Estimated Fees**: ~₹12 - ₹14 Lakhs (Total).
 *   **Placement Highlight**: High recruitment by tech startups and core mechanical/automobile companies. Strong average package nearing ₹8 LPA.

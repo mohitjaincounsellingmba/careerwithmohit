@@ -16,7 +16,7 @@ Whether you are targeting Tier 1 B-schools or looking for **direct admission in 
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **SIBM Pune** | SNAP | ₹25.28 Lakhs | ₹28.83 LPA |
+| **[SIBM Pune](/colleges/sibm-pune)** | SNAP | ₹25.28 Lakhs | ₹28.83 LPA |
 | **SCMHRD** | SNAP | ₹23.76 Lakhs | ₹23.71 LPA |
 | **PUMBA** | MAH CET / CMAT | ₹1.45 Lakhs | ₹9.40 LPA |
 | **BIMM (Balaji)** | CAT/MAT/CET | ₹11.90 Lakhs | ₹8.50 LPA |
@@ -57,7 +57,7 @@ If you have a MAT/CMAT score between 70-90 percentile, these colleges offer the 
 ## 💰 Budget-Friendly Options: MBA in Pune Under 5 Lakhs
 
 For students targeting direct admission or looking for affordable options, consider:
-- **ISMS Pune:** Focused on international internships and affordable PGDM.
+- **[ISMS Pune](/colleges/isms-pune):** Focused on international internships and affordable PGDM.
 - **ASM Group (ASM’s IBMR):** One of the oldest in Pune with strong domestic ties.
 - **Indira Group:** Diverse campus and decent placement support for freshers.
 

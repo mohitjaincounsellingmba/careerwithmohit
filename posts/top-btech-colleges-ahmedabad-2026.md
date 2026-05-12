@@ -61,7 +61,7 @@ A Gujarat state-funded university specialising in energy and petroleum engineeri
 
 ## Tier 2 — Top Private Colleges in Ahmedabad
 
-### 4. Nirma University, Ahmedabad
+### 4. [Nirma University](/colleges/nirma-university), Ahmedabad
 One of Gujarat's premium private universities with excellent placement records in CSE, Chemical, and Mechanical Engineering.
 
 - **Courses:** CSE, ECE, Chemical, Mechanical, Civil, Biotechnology

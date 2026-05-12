@@ -58,7 +58,7 @@ While most top institutes are co-ed, several private universities in the Rajarha
 **Q2. is Jadavpur University safe for girls?**
 Yes. JU has a very strong and vocal student union system that prioritizes student safety. The surrounding area of Jadavpur is also very student-friendly.
 
-**Q3. What is the fee for B.Tech in Sister Nivedita University?**
+**Q3. What is the fee for B.Tech in [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata)?**
 Total annual fees for CSE/AIML range from ₹1.8 Lakhs to ₹2.2 Lakhs. They offer significant merit-based scholarships for girls.
 
 **Q4. Do colleges in Kolkata provide good hostels for girls?**

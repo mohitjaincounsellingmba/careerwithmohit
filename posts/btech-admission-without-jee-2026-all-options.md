@@ -82,7 +82,7 @@ The simplest route: Management Quota / Board Merit Seats at private AICTE-approv
 - [Amity University](/colleges/amity-noida) (Noida, Lucknow, Jaipur)
 - Shoolini University (Himachal Pradesh)
 - [Quantum University](/colleges/quantum-university-roorkee) (Roorkee)
-- UPES Dehradun
+- [UPES Dehradun](/colleges/upes-dehradun)
 - GL Bajaj (15% management quota, AKTU)
 - Chandigarh University (Mohali)
 - VGU Jaipur, JECRC Jaipur
@@ -122,7 +122,7 @@ Some universities have started accepting **CUET UG** scores for B.Tech admission
 Yes, completely valid. AICTE recognises all routes — state exams, private exams, and management quota admissions — as legally valid for B.Tech degrees.
 
 **Q2. Which good college gives B.Tech without JEE?**
-VIT Vellore, SRM, Manipal MIT, BITS Pilani (BITSAT), Chandigarh University, Amrita University, and Bennett University all offer admission through their own processes without JEE.
+[VIT Vellore](/colleges/vit-vellore), SRM, Manipal MIT, BITS Pilani (BITSAT), Chandigarh University, Amrita University, and [Bennett University](/colleges/bennett-greater-noida) all offer admission through their own processes without JEE.
 
 **Q3. Can I get NIT without JEE Main?**
 No. NITs, IITs, IIITs, and GFTIs admit students exclusively through JEE Main/Advanced via JoSAA. These colleges cannot be accessed without a JEE score.

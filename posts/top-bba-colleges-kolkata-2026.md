@@ -26,7 +26,7 @@ Here are the **Top BBA Colleges in Kolkata for 2026**.
 - **Entrance Exam:** Entrance Exam conducted by the college
 - **USP:** One of India’s most prestigious brands; focuses heavily on ethics and discipline.
 
-### 3. NSHM Knowledge Campus, Kolkata
+### 3. [NSHM Knowledge Campus](/colleges/nshm-kolkata), Kolkata
 - **Rank:** #31 in India (TOI 2025)
 - **Approx. Fees:** ₹1.0 - 1.8 Lakhs (Annual)
 - **Average Placement:** ₹5.8 LPA (Highest 10 LPA+)

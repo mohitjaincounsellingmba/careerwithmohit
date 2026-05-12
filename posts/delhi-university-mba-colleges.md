@@ -72,7 +72,7 @@ Business Analytics is the fastest-growing sector in management, and DU's dedicat
 *   **Highest Package:** ₹25.00 LPA
 *   **Top Recruiters:** Deloitte, KPMG, IBM, BCG.
 
-### 7. FMS Delhi (MBA Executive / MBA Executive HCA)
+### 7. [FMS Delhi](/colleges/fms-delhi) (MBA Executive / MBA Executive HCA)
 Designed specifically for working professionals, requiring substantial corporate experience. 
 *   **Fees:** ₹2.32 Lakhs - ₹2.43 Lakhs
 *   **Eligibility:** Minimum 5 years of post-qualification administrative/managerial experience.

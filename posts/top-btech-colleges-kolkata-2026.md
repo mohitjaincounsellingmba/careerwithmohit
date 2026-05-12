@@ -56,7 +56,7 @@ Consistently Kolkata's top private engineering college, affiliated with MAKAUT (
 
 - **Admission:** WBJEE | **Fee:** ₹1.4 L/yr | **Avg Package:** ₹5–9 LPA
 
-### 4. Techno India University, Salt Lake
+### 4. [Techno India University](/colleges/techno-india-university-kolkata), Salt Lake
 Located in Kolkata's Salt Lake tech hub (home to TCS, Wipro, Infosys campuses), Techno India offers IT-focused education with strong proximity to placement opportunities.
 
 - **Admission:** WBJEE / Direct | **Fee:** ₹1.0 L/yr | **Avg Package:** ₹4–7 LPA

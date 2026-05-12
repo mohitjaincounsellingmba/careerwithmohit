@@ -20,7 +20,7 @@ Whether you are targeting a 700+ score for the Delhi University quota or looking
 | **MAMC Delhi** | State Gov | NEET | ₹4,500 | 705+ |
 | **VMMC (Safdarjung)**| Central/IP | NEET | ₹35,000 | 700+ |
 | **LHMC (Women only)**| State Gov | NEET | ₹1,500 | 690 - 700 |
-| **Jamia Hamdard** | Deemed | NEET | ₹15.5 - 18.0 Lakhs | 580 - 610 |
+| **[Jamia Hamdard](/colleges/jamia-hamdard-delhi)** | Deemed | NEET | ₹15.5 - 18.0 Lakhs | 580 - 610 |
 | **SGT Medical (Ggn)** | Private | NEET | ₹18.0 - 22.0 Lakhs | 450 - 520 |
 | **[Sharda University](/colleges/sharda-greater-noida)** | Private | NEET | ₹12.5 - 16.0 Lakhs | 480 - 550 |
 
@@ -47,7 +47,7 @@ If you miss the government cutoffs but have the budget, these private/deemed cam
 ### 1. Jamia Hamdard (HIMSR), Delhi
 A deemed university with a high reputation for research and ethical medical practice. It is one of the few private-style options located within the main Delhi city limits.
 
-### 2. Sharda University (School of Medical Sciences), Greater Noida
+### 2. [Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences), Greater Noida
 Connected to the Sharda Hospital, which serves a massive rural/urban population of UP. It is a preferred choice for students from North India targeting direct admission via secure NEET ranks.
 
 ---

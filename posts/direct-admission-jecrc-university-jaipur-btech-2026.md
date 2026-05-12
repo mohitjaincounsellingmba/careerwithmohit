@@ -1,7 +1,7 @@
 ---
 title: "Direct Admission in [JECRC University](/colleges/jecrc-jaipur) Jaipur for B.Tech 2026: Fees, Management Quota & Process"
 date: "2026-04-02"
-description: "Complete guide to direct admission in JECRC University Jaipur for B.Tech 2026. Understand the merit-based process, management quota reality, fee structure, scholarships, and placement stats."
+description: "Complete guide to direct admission in [JECRC University](/colleges/jecrc-jaipur) Jaipur for B.Tech 2026. Understand the merit-based process, management quota reality, fee structure, scholarships, and placement stats."
 keywords: ["direct admission JECRC University Jaipur BTech", "JECRC BTech admission 2026", "JECRC management quota", "JECRC University fees 2026", "JECRC Jaipur placements", "BTech admission Jaipur 2026"]
 ---
 

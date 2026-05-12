@@ -33,7 +33,7 @@ The gold standard for computer applications in UP. Their BCA degree is highly va
 - **Selection:** LUVET Entrance Test.
 - **Top Recruiters:** TCS, Infosys, HCL, Wipro.
 
-### 2. Amity University, Lucknow
+### 2. [Amity University](/colleges/amity-noida), Lucknow
 The most "Corporate-Ready" campus in the city. Known for its global infrastructure and massive placement drives.
 - **USP:** Industry-aligned labs and frequent guest lectures from HCL tech leads.
 - **Admission:** Merit-based + Personal Interview.

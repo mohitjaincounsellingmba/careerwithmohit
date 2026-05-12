@@ -70,7 +70,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Pune for 2026** to help y
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
 | **1** | **Symbiosis Centre for Management Studies (SCMS)** | SET | ₹3.5 Lakhs |
-| **2** | **MIT World Peace University (MIT-WPU)** | MIT-WPU CET | ₹3.1 Lakhs |
+| **2** | **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)** | MIT-WPU CET | ₹3.1 Lakhs |
 | **3** | **Christ University, Pune Lavasa** | CUET (Christ) | ₹2.2 Lakhs |
 | **4** | **Brihan Maharashtra College of Commerce (BMCC)** | Merit | ₹50,000 |
 | **5** | **Bharati Vidyapeeth (BUMAT)** | BUMAT | ₹1.5 Lakhs |

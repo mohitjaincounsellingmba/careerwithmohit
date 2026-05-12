@@ -13,7 +13,7 @@ In this comprehensive guide, we cover the top 20 institutions in India for MBA/P
 
 ### 1. Tier-1 & Premium Institutes (The "Ivy League" of ABM)
 
-#### **IIM Ahmedabad (PGP-FABM)**
+#### **[IIM Ahmedabad](/colleges/iim-ahmedabad) (PGP-FABM)**
 *   **Avg Placement**: ₹22.21 LPA (Highest: ₹41.83 LPA)
 *   **Top Recruiters**: Amul, Nestlé, PepsiCo, P&G, Accenture, PI Industries, Godrej Agrovet.
 *   **Designations**: Category Manager, Product Manager, Supply Chain Consultant, Agri-Investment Analyst.

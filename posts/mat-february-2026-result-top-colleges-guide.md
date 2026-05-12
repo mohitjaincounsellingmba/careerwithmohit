@@ -43,7 +43,7 @@ Use these benchmarks to estimate your percentile based on your composite score:
 
 ### Tier 2 B-Schools (80–90 Percentile)
 *   **JAGSoM**, Bangalore — Avg. Package: ₹10.21 LPA
-*   **IMI Kolkata**, Kolkata — Avg. Package: ₹10.67 LPA
+*   **[IMI Kolkata](/colleges/imi-kolkata)**, Kolkata — Avg. Package: ₹10.67 LPA
 *   **IBA Bangalore**, Bangalore — Avg. Package: ₹7.96 LPA
 *   **NDIM**, New Delhi — Avg. Package: ₹6.50 LPA
 *   **FIIB**, New Delhi — Avg. Package: ₹6.40 LPA

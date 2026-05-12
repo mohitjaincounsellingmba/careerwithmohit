@@ -1,7 +1,7 @@
 ---
 title: "Direct Admission in [PUMBA Pune](/colleges/pumba-pune): University Seats & CAP Guide 2026"
 date: "2026-03-17"
-description: "Looking for direct admission in PUMBA Pune for 2026? Understand the SPPU admission process, university-level seats, MAH-CET cutoffs, and latest placement stats."
+description: "Looking for direct admission in [PUMBA Pune](/colleges/pumba-pune) for 2026? Understand the SPPU admission process, university-level seats, MAH-CET cutoffs, and latest placement stats."
 keywords: ["PUMBA Pune direct admission", "PUMBA management quota", "PUMBA Pune MBA fees 2026", "department of management sciences pune university admission", "PUMBA NRI quota"]
 ---
 

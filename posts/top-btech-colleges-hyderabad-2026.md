@@ -91,7 +91,7 @@ One of Hyderabad's most reputed private engineering colleges under OU affiliatio
 
 ## Tier 3 — Mid-Range Private Engineering Colleges
 
-### 7. CVR College of Engineering
+### 7. [CVR College of Engineering](/colleges/cvr-college-of-engineering)
 Known for discipline, academics, and a consistent placement record in the Hyderabad EAMCET circuit.
 
 - **Admission:** TS EAMCET

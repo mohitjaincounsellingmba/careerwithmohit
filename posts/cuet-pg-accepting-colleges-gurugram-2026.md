@@ -11,13 +11,13 @@ If you are planning to pursue **MBA, MCA, or MSc in Gurugram**, here is your det
 
 ---
 
-### **1. BML Munjal University (Gurugram)**
+### **1. [BML Munjal University](/colleges/bml-munjal-gurgaon) (Gurugram)**
 Founded by the Hero Group, BML Munjal is highly respected for its industry-aligned curriculum.
 *   **Top Programs:** MBA (Marketing/Finance/HR/Business Analytics), MSc (Economics).
 *   **Admission Process:** They consider various national scores including CUET PG for several of their postgraduate programs.
 *   **Why Choose BML?** Strong industry-academic collaboration and high-quality teaching standards.
 
-### **2. Amity University (Gurugram/Panchgaon)**
+### **2. [Amity University](/colleges/amity-noida) (Gurugram/Panchgaon)**
 Amity Gurugram is known for its world-class infrastructure and focus on research-driven PG courses.
 *   **Top Programs:** MBA, MCA, MA, MSc.
 *   **Admission Process:** They consider CUET PG scores as part of the initial screening for postgraduate programs.

@@ -73,10 +73,10 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 | **2** | **J.D. Birla Institute** | Merit | ₹1.0 Lakhs |
 | **3** | **Bhawanipur Education Society** | Merit | ₹60,000 |
 | **4** | **Scottish Church College** | Merit | ₹50,000 |
-| **5** | **Techno India University** | Merit | ₹1.2 Lakhs |
-| **6** | **Amity University Kolkata** | Merit | ₹2.0 Lakhs |
+| **5** | **[Techno India University](/colleges/techno-india-university-kolkata)** | Merit | ₹1.2 Lakhs |
+| **6** | **[Amity University](/colleges/amity-noida) Kolkata** | Merit | ₹2.0 Lakhs |
 | **7** | **UEM Kolkata** | Merit | ₹1.1 Lakhs |
-| **8** | **Sister Nivedita University** | Merit | ₹1.0 Lakhs |
+| **8** | **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata)** | Merit | ₹1.0 Lakhs |
 | **9** | **Brainware University** | Merit | ₹90,000 |
 | **10** | **Adamas University** | Merit | ₹1.1 Lakhs |
 

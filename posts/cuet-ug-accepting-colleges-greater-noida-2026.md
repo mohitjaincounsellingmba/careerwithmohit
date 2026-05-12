@@ -11,7 +11,7 @@ If you are a student targeting **Greater Noida for the 2026-27 session**, here a
 
 ---
 
-### **1. Sharda University**
+### **1. [Sharda University](/colleges/sharda-greater-noida)**
 One of the most expansive and high-tech private universities in India.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, BA, B.Sc.
 *   **USP:** World-class infrastructure and high-tier placements.

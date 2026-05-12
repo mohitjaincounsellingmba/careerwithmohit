@@ -14,7 +14,7 @@ In this guide, we have ranked the **20 Best MBA Colleges in Pune** into three ti
 ## Tier 1: The Elite & High ROI B-Schools
 These are the most prestigious institutions in Pune, known for their national rankings and high-tier placement records.
 
-### 1. SIBM Pune (Symbiosis Institute of Business Management)
+### 1. [SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management)
 - **Status:** The flagship institute of Symbiosis International.
 - **Fees:** ₹17.2 Lakh - ₹24.2 Lakh
 - **Average Placement:** ₹26.77 LPA - ₹28.16 LPA

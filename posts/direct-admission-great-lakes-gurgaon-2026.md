@@ -1,7 +1,7 @@
 ---
 title: "Direct Admission in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) 2026: Merit & Profile Facts"
 date: "2026-03-17"
-description: "Discover the direct admission process for Great Lakes Gurgaon for 2026. Learn about the profile-based selection, CAT/XAT requirements, and ROI for the 2026-28 batch."
+description: "Discover the direct admission process for [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) for 2026. Learn about the profile-based selection, CAT/XAT requirements, and ROI for the 2026-28 batch."
 keywords: ["Great Lakes Gurgaon direct admission", "Great Lakes Gurgaon management quota", "Great Lakes Gurgaon fees 2026", "GLIM Gurgaon admission 2026", "direct admission in GLIM Gurgaon"]
 ---
 

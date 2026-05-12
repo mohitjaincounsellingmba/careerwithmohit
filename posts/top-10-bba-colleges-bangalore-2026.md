@@ -70,7 +70,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Bangalore for 2026** to h
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
 | **1** | **Christ University** | CUET (Christ) | ₹2.5 Lakhs |
-| **2** | **NMIMS Bangalore** | NPAT | ₹3.0 Lakhs |
+| **2** | **[NMIMS Bangalore](/colleges/nmims-bangalore)** | NPAT | ₹3.0 Lakhs |
 | **3** | **Jain University** | JET | ₹2.0 Lakhs |
 | **4** | **Mount Carmel College** | Merit | ₹1.5 Lakhs |
 | **5** | **St. Joseph's College of Commerce** | Merit | ₹1.2 Lakhs |

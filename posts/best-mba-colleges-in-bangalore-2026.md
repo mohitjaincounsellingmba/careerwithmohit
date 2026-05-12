@@ -14,14 +14,14 @@ In this guide, we rank the **Best MBA Colleges in Bangalore** based on their pla
 ## Tier 1: The Tech & Strategy Hubs (Elite)
 These institutions are at the top of the pyramid, known for their academic rigor and elite salary packages.
 
-### 1. IIM Bangalore (Indian Institute of Management)
+### 1. [IIM Bangalore](/colleges/iim-bangalore) (Indian Institute of Management)
 - **Status:** One of the top 3 B-schools in India.
 - **Fees:** ₹26.0 Lakhs
 - **Average Placement:** ₹35.9 LPA (Highest ₹55 LPA)
 - **Entrance Exam:** CAT (99.5+ Percentile)
 - **USP:** Global recognition and the best ecosystem for entrepreneurship and strategy roles.
 
-### 2. SIBM Bangalore (Symbiosis Institute of Business Management)
+### 2. [SIBM Bangalore](/colleges/sibm-bangalore) (Symbiosis Institute of Business Management)
 - **Fees:** ₹21.0 Lakhs
 - **Average Placement:** ₹14.5 LPA
 - **Entrance Exam:** SNAP (90+ Percentile)
@@ -51,7 +51,7 @@ These colleges have established deep roots in the Bangalore corporate world.
 - **Entrance Exam:** CAT, XAT, GMAT, MAT, NMAT
 - **USP:** Known for "Professional Grooming" and strong global interface.
 
-### 6. XIME Bangalore (Xavier Institute of Management)
+### 6. [XIME Bangalore](/colleges/xime-bangalore) (Xavier Institute of Management)
 - **Fees:** ₹12.9 Lakhs
 - **Average Placement:** ₹10.0 LPA
 - **Entrance Exam:** CAT, XAT, MAT, CMAT, GMAT

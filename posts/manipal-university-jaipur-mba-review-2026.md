@@ -1,7 +1,7 @@
 ---
 title: "[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ) MBA Review 2026: Placements, Fees & Cutoff"
 date: "2026-03-20"
-description: "Comprehensive 2026 review of Manipal University Jaipur (MUJ) MBA program. Explore fees, highest packages, top recruiters, and admission process."
+description: "Comprehensive 2026 review of [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ) MBA program. Explore fees, highest packages, top recruiters, and admission process."
 keywords: ["Manipal University Jaipur MBA review", "MUJ MBA fees 2026", "Manipal Jaipur placements", "MUJ CAT cutoff", "best MBA colleges in Jaipur"]
 ---
 

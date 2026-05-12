@@ -69,12 +69,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Dehradun for 2026** to he
 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
-| **1** | **UPES Dehradun** | Merit / UPESMET | ₹2.5 Lakhs |
+| **1** | **[UPES Dehradun](/colleges/upes-dehradun)** | Merit / UPESMET | ₹2.5 Lakhs |
 | **2** | **Graphic Era University** | Merit | ₹1.8 Lakhs |
 | **3** | **DIT University** | Merit | ₹1.5 Lakhs |
 | **4** | **Uttaranchal University** | Merit | ₹1.2 Lakhs |
 | **5** | **IMS Unison University** | Merit | ₹1.4 Lakhs |
-| **6** | **Doon Business School** | Merit | ₹1.6 Lakhs |
+| **6** | **[Doon Business School](/colleges/doon-business-school)** | Merit | ₹1.6 Lakhs |
 | **7** | **BFIT Group of Institutions** | Merit | ₹80,000 |
 | **8** | **Swami Rama Himalayan University** | Merit | ₹1.0 Lakhs |
 | **9** | **Tula's Institute** | Merit | ₹90,000 |

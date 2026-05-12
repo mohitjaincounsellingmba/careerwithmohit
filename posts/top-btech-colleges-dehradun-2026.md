@@ -29,7 +29,7 @@ This guide covers the **top B.Tech colleges in Dehradun and Uttarakhand for 2026
 
 ## Tier 1 — Top Private Universities in Dehradun
 
-### 1. UPES Dehradun — University of Petroleum and Energy Studies
+### 1. [UPES Dehradun](/colleges/upes-dehradun) — University of Petroleum and Energy Studies
 UPES is Dehradun's most career-focused private university, known for specialised programmes in oil & gas, aviation, power, cybersecurity, and data science. Strong industry connections with ONGC, GAIL, TCS, and Airbus.
 
 - **Courses:** CSE (Specialised: Cybersecurity, Data Science, DevOps, Blockchain), ECE, Mechanical (Energy/Aerospace), Chemical (Oil & Gas), Civil, Power Engineering
@@ -66,7 +66,7 @@ Uttarakhand's premier state government university offering B.Tech in CSE and all
 
 - **Admission:** JEE Main / UASET | **Fee:** ₹70,000/yr | **Avg Package:** ₹4–7 LPA
 
-### 6. Quantum University, Roorkee
+### 6. [Quantum University](/colleges/quantum-university-roorkee), Roorkee
 Well-known in Uttarakhand for affordable fees and direct admission with growing placement support.
 
 - **Admission:** Direct / JEE Main | **Fee:** ₹1.0 L/yr | **Avg Package:** ₹4–6 LPA

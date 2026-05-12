@@ -11,7 +11,7 @@ If you are planning to pursue **MBA, MCA, MA, or MSc in Noida**, here is your de
 
 ---
 
-### **1. Amity University (Noida)**
+### **1. [Amity University](/colleges/amity-noida) (Noida)**
 Amity is one of India's largest and most modern private universities. It accepts CUET PG scores for several of its postgraduate programs.
 *   **Top Programs:** MBA (Various Specializations), MCA, MA (Media), MSc.
 *   **Admission Process:** They consider CUET PG scores alongside their own interview process (where applicable).

@@ -16,7 +16,7 @@ This is the most honest, data-backed comparison of **SRM Institute of Science an
 
 ## ⚡ Quick Snapshot: SRM vs VIT at a Glance
 
-| Parameter | VIT Vellore | SRM (KTR, Chennai) |
+| Parameter | [VIT Vellore](/colleges/vit-vellore) | SRM (KTR, Chennai) |
 |---|---|---|
 | **NIRF Rank 2025 (Engg)** | 16th | 14th |
 | **NAAC Grade** | A++ | A++ |

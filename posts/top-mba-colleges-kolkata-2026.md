@@ -6,7 +6,7 @@ description: "Planning an MBA in Kolkata? Compare the best B-schools like [IIM C
 keywords: ["top mba colleges in kolkata 2026", "best b-schools kolkata", "iim calcutta mba fees 2026", "imi kolkata placement 2025", "jadavpur university mba fees", "mba admission kolkata 2026", "direct admission mba kolkata", "mba kolkata under 10 lakhs", "vgsom iit kharagpur mba fees"]
 ---
 
-Kolkata, the "City of Joy" and the gateway to East India, is home to India's first IIM—IIM Calcutta. For MBA students, Kolkata offers a unique combination of rich intellectual heritage and proximity to major industrial clusters in West Bengal, Odisha, and Bihar.
+Kolkata, the "City of Joy" and the gateway to East India, is home to India's first IIM—[IIM Calcutta](/colleges/iim-calcutta). For MBA students, Kolkata offers a unique combination of rich intellectual heritage and proximity to major industrial clusters in West Bengal, Odisha, and Bihar.
 
 Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI government options like Jadavpur University, this guide covers the **top MBA colleges in Kolkata** for the 2026 batch.
 
@@ -18,7 +18,7 @@ Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI g
 |---|---|---|---|
 | **IIM Calcutta** | CAT | ₹25.0 Lakhs | ₹35.07 LPA |
 | **VGSOM, IIT Kharagpur**| CAT | ₹11.5 Lakhs | ₹22.13 LPA |
-| **IMI Kolkata** | CAT/XAT/GMAT | ₹14.5 Lakhs | ₹10.65 LPA |
+| **[IMI Kolkata](/colleges/imi-kolkata)** | CAT/XAT/GMAT | ₹14.5 Lakhs | ₹10.65 LPA |
 | **IISWBM** | CAT / MAT | ₹6.0 Lakhs | ₹8.5 LPA |
 | **Jadavpur University** | CAT / MAT | ₹0.50 Lakhs | ₹6.5 LPA |
 | **[Globsyn Business School](/colleges/globsyn-kolkata)**| CAT/MAT/CMAT | ₹8.5 Lakhs | ₹7.4 LPA |
@@ -63,7 +63,7 @@ One of India's most prestigious public universities.
 
 Many students from West Bengal and Bihar target Kolkata for reliable private B-schools:
 
-- **Globsyn Business School:** Well-known for its **Knowledge Management** based pedagogy and strong IT sector placements.
+- **[Globsyn Business School](/colleges/globsyn-kolkata):** Well-known for its **Knowledge Management** based pedagogy and strong IT sector placements.
 - **Heritage Business School:** Part of the famous Heritage group. Known for a disciplined academic environment.
 - **[Techno India University](/colleges/techno-india-university-kolkata):** Offer massive scaling and direct admission options for students with mid-range graduation marks.
 

@@ -74,7 +74,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi NCR for 2026** to h
 | **3** | **Christ University (Delhi NCR Campus)** | CUET (Christ) | ₹2.5 Lakhs |
 | **4** | **Maharaja Agrasen Institute of Management Studies (MAIMS)** | IPU CET | ₹1.1 Lakhs |
 | **5** | **[Amity University](/colleges/amity-noida), Noida** | Merit | ₹3.8 Lakhs |
-| **6** | **BML Munjal University, Gurgaon** | UGAT | ₹3.0 Lakhs |
+| **6** | **[BML Munjal University](/colleges/bml-munjal-gurgaon), Gurgaon** | UGAT | ₹3.0 Lakhs |
 | **7** | **Galgotias University, Greater Noida** | CUET | ₹1.2 Lakhs |
 | **8** | **IMS Ghaziabad** | Merit | ₹1.6 Lakhs |
 | **9** | **Jagan Institute of Management Studies (JIMS Rohini)** | IPU CET | ₹1.2 Lakhs |

@@ -138,7 +138,7 @@ It is important to note that **College Tier** matters more than the city. Howeve
 *   **Choose Bangalore** if you want to build the next big Unicorn or work in Data Science.
 *   **Choose Delhi NCR** if you want to work with top Consulting firms or Multinational HQs.
 *   **Choose Pune** if you are passionate about HR or the Automotive industry.
-*   **Choose Kolkata** if you want to dive deep into Financial Quant or Analytics at IIM Calcutta.
+*   **Choose Kolkata** if you want to dive deep into Financial Quant or Analytics at [IIM Calcutta](/colleges/iim-calcutta).
 *   **Choose Jaipur/Chennai** if you are looking for specific regional industries or a high ROI with lower living costs.
 
 **Still undecided?** We can help you find the best city and college based on your profile!

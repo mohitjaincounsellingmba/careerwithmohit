@@ -8,7 +8,7 @@ category: "Colleges"
 tags: ["Symbiosis", "MBA", "SNAP", "SIBM", "SCMHRD", "Top Colleges"]
 ---
 
-Symbiosis International (Deemed University) is one of India’s most prestigious educational networks, renowned for its diverse, industry-aligned MBA programs. With **16 distinct institutes** located across the country—from the flagship SIBM Pune to highly specialized campuses like SIOM Nashik and SIDTM Pune—Symbiosis offers something for every MBA aspirant.
+Symbiosis International (Deemed University) is one of India’s most prestigious educational networks, renowned for its diverse, industry-aligned MBA programs. With **16 distinct institutes** located across the country—from the flagship [SIBM Pune](/colleges/sibm-pune) to highly specialized campuses like SIOM Nashik and SIDTM Pune—Symbiosis offers something for every MBA aspirant.
 
 Admission to all Symbiosis MBA programs is conducted exclusively through the **Symbiosis National Aptitude Test (SNAP)**. 
 

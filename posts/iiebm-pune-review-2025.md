@@ -5,7 +5,7 @@ description: "Thinking of IIEBM Pune? Read our review on [IIEBM (Indus Business 
 keywords: ["IIEBM Pune review 2025", "Indus Business School placements", "IIEBM Pune fees", "PGDM with SAP in Pune", "IIEBM Pune SAP certifications", "IIEBM Pune average package 2025"]
 ---
 
-IIEBM (Indus Business School) is one of Pune's most established PGDM institutes, known for its rigorous academic standards and a unique focus on ERP training through SAP integration.
+[IIEBM (Indus Business School)](/colleges/iiebm-pune) is one of Pune's most established PGDM institutes, known for its rigorous academic standards and a unique focus on ERP training through SAP integration.
 
 ### **Quick Highlights (2025 Batch):**
 *   **Avg Placement**: ₹7.95 LPA (General) | ₹10.25 LPA (SAP Batch)

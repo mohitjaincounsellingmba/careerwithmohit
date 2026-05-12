@@ -18,12 +18,12 @@ If you are looking for colleges with a fee structure between **₹4 Lakhs to ₹
 | :--- | :--- | :--- | :--- | :--- |
 | **Akemi Business School** | MBA | ₹4.5 - 5.0 Lakhs | ₹6.5 LPA | ₹18.0 LPA |
 | **[ASM IIBR](/colleges/asm-iibr)** | MBA / PGDM | ₹6.5 - 8.0 Lakhs | ₹7.5 LPA | ₹24.0 LPA |
-| **RIIM Pune** | MBA / PGDM | ₹5.5 - 7.5 Lakhs | ₹7.2 LPA | ₹27.0 LPA |
-| **ISMS Pune** | MBA / PGDM | ₹6.0 - 8.0 Lakhs | ₹7.0 LPA | ₹19.0 LPA |
+| **[RIIM Pune](/colleges/riim-pune)** | MBA / PGDM | ₹5.5 - 7.5 Lakhs | ₹7.2 LPA | ₹27.0 LPA |
+| **[ISMS Pune](/colleges/isms-pune)** | MBA / PGDM | ₹6.0 - 8.0 Lakhs | ₹7.0 LPA | ₹19.0 LPA |
 | **DY Patil B-School** | PGDM | ₹8.5 - 9.5 Lakhs | ₹8.2 LPA | ₹24.0 LPA |
 | **Pune Business School (PBS)** | PGDM | ₹6.0 - 6.5 Lakhs | ₹7.1 LPA | ₹27.0 LPA |
 | **Lexicon MILE** | PGDM | ₹9.0 - 10.5 Lakhs | ₹8.5 LPA | ₹49.0 LPA |
-| **FUEL Business School** | MBA | ₹4.5 - 5.5 Lakhs | ₹6.0 LPA | ₹12.0 LPA |
+| **[FUEL Business School](/colleges/fuel-business-school)** | MBA | ₹4.5 - 5.5 Lakhs | ₹6.0 LPA | ₹12.0 LPA |
 | **IIEBM Pune** | PGDM | ₹8.0 - 9.0 Lakhs | ₹10.2 LPA | ₹34.0 LPA |
 
 ---
@@ -35,7 +35,7 @@ Located in Tathawade, Akemi is known for its personalized mentoring. It’s a so
 - **Best For:** Marketing & Operations.
 - **[Read Detailed Akemi Review](/blog/akemi-pune-review-2025)**
 
-### 2. ASM IIBR (MBA / PGDM)
+### 2. [ASM IIBR](/colleges/asm-iibr) (MBA / PGDM)
 Part of the legacy ASM Group, IIBR offers industry-integrated programs with certifications from AWS, SAP, and Microsoft.
 - **Best For:** IT & Supply Chain Management.
 - **[Read Detailed ASM IIBR Review](/blog/asm-iibr-review-2025)**

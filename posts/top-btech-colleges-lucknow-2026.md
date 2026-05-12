@@ -49,7 +49,7 @@ BBAU is a central government university (like JNU) offering B.Tech in CSE and al
 
 ## Tier 2 — Top Private Engineering Colleges in Lucknow
 
-### 3. Amity University, Lucknow Campus
+### 3. [Amity University](/colleges/amity-noida), Lucknow Campus
 Amity's Lucknow campus is a smaller version of the Noida campus with similar branding and curriculum. Good option for students wanting the Amity degree at Lucknow.
 
 - **Courses:** CSE, ECE, Mechanical, Civil

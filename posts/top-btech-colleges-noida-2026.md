@@ -17,7 +17,7 @@ This expert guide covers the **best B.Tech engineering colleges in Noida and Gre
 | College | Location | Annual Fees | Avg Package | Entrance Exam |
 |---|---|---|---|---|
 | JIIT (Jaypee Noida) | Noida Sector 62 | ₹2.1 L/yr | ₹8–12 LPA | JEE Main / JIIT Direct |
-| Amity University | Noida | ₹2.5 L/yr | ₹5–8 LPA | JEE / Boards / AUCET |
+| [Amity University](/colleges/amity-noida) | Noida | ₹2.5 L/yr | ₹5–8 LPA | JEE / Boards / AUCET |
 | NIET Greater Noida | Greater Noida | ₹1.0 L/yr | ₹4–7 LPA | AKTU |
 | GL Bajaj Institute | Greater Noida | ₹0.95 L/yr | ₹5–8 LPA | AKTU |
 | GNIOT Greater Noida | Greater Noida | ₹0.90 L/yr | ₹4–6 LPA | AKTU |
@@ -52,7 +52,7 @@ Backed by HCL's founder, Shiv Nadar University is one of India's most research-i
 - **Avg Package:** ₹8–14 LPA
 - **Best For:** Students targeting research, US higher education, or product roles
 
-### 3. Bennett University, Greater Noida
+### 3. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
 Times Group-backed Bennett has modern infrastructure, startup incubators, and strong placement support for CSE, ECE, and Data Science branches.
 
 - **Courses:** CSE (core, AI/ML, Data Science, Cybersecurity), ECE, Mechanical

@@ -28,7 +28,7 @@ Whether you want a premium private university or a traditional state-affiliated 
 
 ## 🏛️ Tier 1: The Jaipur Leaders
 
-### 1. Manipal University Jaipur (MUJ)
+### 1. [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)
 The most premium BCA program in Rajasthan. MUJ offers a state-of-the-art campus and an industry-aligned curriculum that is highly respected by global MNCs.
 - **Top Recruiters:** Microsoft, Amazon, Infosys, Dell.
 - **USP:** Massive campus life and incredible global exchange opportunities.
@@ -36,7 +36,7 @@ The most premium BCA program in Rajasthan. MUJ offers a state-of-the-art campus 
 ### 2. University of Rajasthan (UniRaj)
 For those looking for high brand value at almost zero fees. Being a state university, it is highly respected across North India for government jobs and MCA admissions.
 
-### 3. JECRC University
+### 3. [JECRC University](/colleges/jecrc-jaipur)
 A name synonymous with engineering in Rajasthan. Their BCA program benefits from the same centralized placement cell that works with hundreds of IT companies.
 
 ---
@@ -54,7 +54,7 @@ BCA students in Jaipur have unique access to:
 
 If you miss entrance deadlines, several reputable institutions offer merit-based direct entry:
 - **Jaipur National University (JNU):** Known for its research facilities and diverse student crowd.
-- **Poornima University:** A great focus on "Project-Based Learning" and technical workshops.
+- **[Poornima University](/colleges/poornima-jaipur):** A great focus on "Project-Based Learning" and technical workshops.
 - **Subodh College:** The best choice for students looking for high ROI and disciplined education in the main city area.
 
 ---

@@ -16,8 +16,8 @@ Not all MBA programs are created equal. Some excel in finance, others in tech. T
 
 | College | Primary Exam | Avg. Marketing Package | Top Role Offered |
 |---|---|---|---|
-| **IIM Ahmedabad** | CAT | ₹34.36 LPA | Brand Manager (Global) |
-| **MDI Gurgaon** | CAT | ₹27.67 LPA | Area Sales Manager (FMCG) |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | CAT | ₹34.36 LPA | Brand Manager (Global) |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | CAT | ₹27.67 LPA | Area Sales Manager (FMCG) |
 | **IMT Ghaziabad** | CAT/XAT/GMAT | ₹17.35 LPA | Digital Marketing Head |
 | **XLRI Jamshedpur**| XAT | ₹32.73 LPA | Product Management |
 | **MICA Ahmedabad** | CAT/XAT + MICAT| ₹20.10 LPA | Creative Strategist |

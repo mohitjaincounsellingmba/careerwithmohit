@@ -1,7 +1,7 @@
 ---
 title: "Direct Admission in [JBIMS Mumbai](/colleges/jbims-mumbai): Institute-Level Seats & NRI Quota 2026"
 date: "2026-03-17"
-description: "Targeting JBIMS Mumbai? Discover how 'Direct Admission' via Institute-level seats and NRI quota works. Get the facts on CAP rounds, JBIMS fees, and placements for 2026."
+description: "Targeting [JBIMS Mumbai](/colleges/jbims-mumbai)? Discover how 'Direct Admission' via Institute-level seats and NRI quota works. Get the facts on CAP rounds, JBIMS fees, and placements for 2026."
 keywords: ["JBIMS Mumbai direct admission", "JBIMS institute level seats", "JBIMS management quota", "JBIMS NRI quota 2026", "JBIMS Mumbai MBA fees", "Jamnalal Bajaj admission"]
 ---
 

@@ -9,7 +9,7 @@ Dehradun has evolved into a premium educational hub that offers a serene, pollut
 
 If you are looking for a high-quality MBA/PGDM program without stretching beyond a ₹10 Lakh budget, Dehradun has multiple fantastic options that provide **direct admission** for the 2026 session.
 
-### **1. Doon Business School (DBS)**
+### **1. [Doon Business School](/colleges/doon-business-school) (DBS)**
 DBS is arguably the most famous name in Dehradun specifically for management education (PGDM & MBA). It consistently features high on ROI lists.
 *   **Total Fees (Approx.)**: ₹7.50 - ₹8.50 Lakhs
 *   **Average Placement**: ₹6.0 LPA - ₹7.0 LPA

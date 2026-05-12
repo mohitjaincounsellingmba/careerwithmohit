@@ -78,7 +78,7 @@ Here is a quick breakdown of the fees and duration for top Online MBA programs i
 - **NMIMS Online MBA (NMIMS)**
   - **Fees:** ₹2.5 Lakhs
   - **Duration:** 2 years
-- **Amity Online MBA (Amity University)**
+- **Amity Online MBA ([Amity University](/colleges/amity-noida))**
   - **Fees:** ₹2.8 Lakhs
   - **Duration:** 2 years
 - **Manipal Online MBA (MAHE)**

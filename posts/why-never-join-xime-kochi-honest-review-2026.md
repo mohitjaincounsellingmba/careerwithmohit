@@ -22,7 +22,7 @@ Location is a major factor in PGDM networking and corporate exposure. The XIME K
 A common complaint found in student forums and alumni reviews is the feeling that XIME Kochi is treated as a secondary priority compared to the flagship Bangalore campus. Whether it's the quality of visiting guest faculty, the allocation of campus resources, or the speed of administrative responses, the Kochi and Chennai campuses often play catch-up with Bangalore.
 
 ### **5. Peer Quality and Brand Perception**
-Because XIME Bangalore takes the top cream of applicants, the Kochi campus inevitably receives students with slightly lower entrance test percentiles. While this doesn't strictly define capability, it does impact the overall peer learning environment, classroom discussions, and the brand perception among recruiters who clearly distinguish between "XIME Bangalore" and "XIME Kochi" graduates.
+Because [XIME Bangalore](/colleges/xime-bangalore) takes the top cream of applicants, the Kochi campus inevitably receives students with slightly lower entrance test percentiles. While this doesn't strictly define capability, it does impact the overall peer learning environment, classroom discussions, and the brand perception among recruiters who clearly distinguish between "XIME Bangalore" and "XIME Kochi" graduates.
 
 ### **Comparison: XIME Kochi vs. XIME Bangalore**
 Before finalizing, see how the sibling campuses compare:

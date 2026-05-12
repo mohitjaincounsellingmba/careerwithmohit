@@ -1,7 +1,7 @@
 ---
 title: "[Bennett University](/colleges/bennett-greater-noida) Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
-description: "Review of Bennett University (Times Group) MBA. Explore the world-class campus, 2025 placement stats, and elite faculty."
+description: "Review of [Bennett University](/colleges/bennett-greater-noida) (Times Group) MBA. Explore the world-class campus, 2025 placement stats, and elite faculty."
 keywords: ["Bennett University MBA review", "Bennett placement 2025", "Bennett University infrastructure", "Best MBA in Greater Noida"]
 ---
 

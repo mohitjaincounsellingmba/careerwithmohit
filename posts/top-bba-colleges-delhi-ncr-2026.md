@@ -37,7 +37,7 @@ IIM Rohtak offers a 5-year IPM. It is the only IIM in the NCR region offering ma
 - **Top Choice:** For students who want an IIM tag without the uncertainties of CAT.
 - **Selection:** IPMAT Rohtak (usually held in May).
 
-### 3. Bennett & Amity University
+### 3. Bennett & [Amity University](/colleges/amity-noida)
 These universities are the giants of private management education in Noida. They offer specialized BBA tracks in **International Business, Artificial Intelligence, and Financial Markets**.
 - **USP:** Global immersion programs and corporate tie-ups with firms like KPMG and Microsoft.
 

@@ -1,7 +1,7 @@
 ---
 title: "[Amity University](/colleges/amity-noida) Noida B.Tech Admission 2026: Fees & Review"
 date: "2026-03-24"
-description: "Planning for B.Tech at Amity University Noida? Get the latest on JEE Main/10+2 merit 2026 cutoffs, specialized industry labs, detailed fee structure, and its ₹35 LPA placement record."
+description: "Planning for B.Tech at [Amity University](/colleges/amity-noida) Noida? Get the latest on JEE Main/10+2 merit 2026 cutoffs, specialized industry labs, detailed fee structure, and its ₹35 LPA placement record."
 keywords: ["Amity University Noida BTech admission 2026", "Amity Noida cutoff for CSE", "Amity Noida BTech fees 2026", "Amity placement review 2025", "Amity University average package", "BTech admission Noida"]
 ---
 

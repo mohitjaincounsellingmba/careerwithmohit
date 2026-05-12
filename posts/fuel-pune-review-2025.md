@@ -2,7 +2,7 @@
 title: "[FUEL Business School](/colleges/fuel-business-school) Pune Review 2025: Skill-Based Management"
 date: "2026-03-14"
 description: "Reviewing FUEL Pune: Discover their skill-focused PGDM program, 2025 placement support, and social impact-driven fees."
-keywords: ["FUEL Pune review 2025", "FUEL Business School placements", "FUEL Pune fees", "FUEL Pune PGDM review", "best upcoming management college Pune", "FUEL Pune average package 2025"]
+keywords: ["FUEL Pune review 2025", "[FUEL Business School](/colleges/fuel-business-school) placements", "FUEL Pune fees", "FUEL Pune PGDM review", "best upcoming management college Pune", "FUEL Pune average package 2025"]
 ---
 
 FUEL Business School (Friends Union for Energising Lives) is a unique institution that evolved from a massive social skill-building organization. It is known for its focus on grooming students from diverse socioeconomic backgrounds for elite corporate roles.

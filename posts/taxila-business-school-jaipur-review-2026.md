@@ -1,7 +1,7 @@
 ---
 title: "[Taxila Business School](/colleges/taxila-jaipur) Jaipur PGDM Review 2026: Fees, Placements & Admission"
 date: "2026-03-20"
-description: "Looking for an MBA/PGDM in Jaipur? Read our complete 2026 review on Taxila Business School Jaipur covering fees, placements, courses, and cutoffs."
+description: "Looking for an MBA/PGDM in Jaipur? Read our complete 2026 review on [Taxila Business School](/colleges/taxila-jaipur) Jaipur covering fees, placements, courses, and cutoffs."
 keywords: ["Taxila Business School Jaipur review", "Taxila PGDM fees 2026", "Taxila Business School placements", "best MBA colleges in Jaipur 2026", "Taxila average package"]
 ---
 

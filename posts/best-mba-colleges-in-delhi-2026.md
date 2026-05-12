@@ -2,7 +2,7 @@
 title: "Best MBA Colleges in Delhi 2026: Fees, Placements & ROI Ranking"
 date: "2026-03-17"
 description: "Explore the best MBA colleges in Delhi NCR 2026. Compare [FMS Delhi](/colleges/fms-delhi), IIT Delhi, [MDI Gurgaon](/colleges/mdi-gurgaon), and IMI by their latest average placements, fees, and ROI."
-keywords: ["best MBA colleges in Delhi 2026", "top MBA colleges in Delhi NCR", "FMS Delhi fees", "MDI Gurgaon placements", "MBA colleges in Delhi low fees", "IIT Delhi MBA cutoff"]
+keywords: ["best MBA colleges in Delhi 2026", "top MBA colleges in Delhi NCR", "[FMS Delhi](/colleges/fms-delhi) fees", "[MDI Gurgaon](/colleges/mdi-gurgaon) placements", "MBA colleges in Delhi low fees", "IIT Delhi MBA cutoff"]
 ---
 
 ### [InquiryCard title="Targeting Delhi NCR B-Schools?" description="Confused between MDI, IMI, FORE, or LBSIM? Get a personalized preference list based on your CAT/XAT score and budget." cta="Get Delhi Admission Strategy" type="career"]

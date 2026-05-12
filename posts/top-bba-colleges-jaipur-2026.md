@@ -13,7 +13,7 @@ Here is our list of the **Top BBA Colleges in Jaipur for 2026**.
 
 ## 🏛️ Top BBA Institutes in Jaipur
 
-### 1. Manipal University Jaipur (MUJ)
+### 1. [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)
 - **Approx. Fees:** ₹1.5 - 2.0 Lakhs (Annual)
 - **Average Placement:** ₹4 - 6 LPA (Highest ₹10 LPA+)
 - **Entrance Exam:** MET / Merit-based

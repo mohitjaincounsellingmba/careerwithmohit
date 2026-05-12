@@ -1,7 +1,7 @@
 ---
 title: "[Lloyd Business School](/colleges/lloyd-business-school-greater-noida) Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
-description: "In-depth review of Lloyd Business School Greater Noida. Explore the IBM-collab labs, 2025 placements, and 5-star hostel life."
+description: "In-depth review of [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) Greater Noida. Explore the IBM-collab labs, 2025 placements, and 5-star hostel life."
 keywords: ["Lloyd Business School review 2026", "Lloyd Greater Noida placement 2025", "Lloyd faculty review", "IBM collaboration B-school India"]
 ---
 

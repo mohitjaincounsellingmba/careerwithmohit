@@ -103,7 +103,7 @@ Top private deemed universities for B.Tech include:
 | University | Entrance | Annual Fee | Best For |
 |---|---|---|---|
 | BITS Pilani (3 campuses) | BITSAT | ₹5.5 L | CS, Elec, Chem |
-| VIT Vellore | VITEEE | ₹2.1 L | CS, ECE, BioTech |
+| [VIT Vellore](/colleges/vit-vellore) | VITEEE | ₹2.1 L | CS, ECE, BioTech |
 | Thapar University | JEE Main/Boards | ₹4.0 L | CS, EEE, Chem |
 | Manipal Institute of Tech | MU OET / JEE | ₹2.3 L | CS, ECE, Mech |
 | SRM Kattankulathur | SRMJEEE | ₹2.0 L | CS, ECE, Biomedical |

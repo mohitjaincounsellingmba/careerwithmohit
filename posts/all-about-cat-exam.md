@@ -50,8 +50,8 @@ The CAT exam tests candidates strictly on speed, accuracy, and logical deduction
 
 CAT scores are calculated as percentiles relative to all test-takers (usually 3 Lakh+ students).
 
-- **IIM Ahmedabad, Bangalore, Calcutta:** 99.5+ Percentile
-- **Other Old IIMs (Lucknow, Indore, Kozhikode) & FMS Delhi:** 99.0+ Percentile
+- **[IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Calcutta:** 99.5+ Percentile
+- **Other Old IIMs (Lucknow, Indore, Kozhikode) & [FMS Delhi](/colleges/fms-delhi):** 99.0+ Percentile
 - **New IIMs & Top Tier-1 Colleges (SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon)):** 95.0+ to 98.0+ Percentile
 - **Baby IIMs & Good Tier-2 Colleges:** 85.0+ to 90.0+ Percentile
 

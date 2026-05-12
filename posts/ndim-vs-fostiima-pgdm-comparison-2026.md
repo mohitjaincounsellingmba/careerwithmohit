@@ -29,7 +29,7 @@ In this 2026-28 batch comparison, we breakdown why NDIM's premium positioning an
 
 ### **2. The FOSTIIMA Edge: IIM Pedigree & Value**
 **FOSTIIMA** continues to disrupt the Delhi market with its "IIM Alumni for All" promise. 
-*   **Instruction by Masters**: The core value proposition is that you are taught by those who have been through the IIM Ahmedabad system.
+*   **Instruction by Masters**: The core value proposition is that you are taught by those who have been through the [IIM Ahmedabad](/colleges/iim-ahmedabad) system.
 *   **Aggressive Packages**: FOSTIIMA currently reports an average package of **₹11.15 LPA**, making it a very strong competitor for those who prioritize immediate salary numbers over long-term legacy.
 *   **ROI Factor**: With a total fee of ₹11.5 Lakhs, it remains one of the most cost-effective premium PGDM options in Delhi-NCR for the 2026 batch.
 

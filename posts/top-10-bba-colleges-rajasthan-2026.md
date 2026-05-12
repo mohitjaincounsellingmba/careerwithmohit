@@ -69,12 +69,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Rajasthan for 2026** to h
 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
-| **1** | **Manipal University Jaipur** | Merit | ₹2.0 Lakhs |
+| **1** | **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Merit | ₹2.0 Lakhs |
 | **2** | **Mody University (Sikar)** | Merit | ₹2.2 Lakhs |
-| **3** | **JECRC University, Jaipur** | Merit | ₹1.5 Lakhs |
-| **4** | **Poornima University, Jaipur** | Merit | ₹1.2 Lakhs |
+| **3** | **[JECRC University](/colleges/jecrc-jaipur), Jaipur** | Merit | ₹1.5 Lakhs |
+| **4** | **[Poornima University](/colleges/poornima-jaipur), Jaipur** | Merit | ₹1.2 Lakhs |
 | **5** | **Vivekananda Global University (VGU)** | Merit / VGUCET | ₹1.2 Lakhs |
-| **6** | **Amity University Jaipur** | Merit | ₹1.8 Lakhs |
+| **6** | **[Amity University](/colleges/amity-noida) Jaipur** | Merit | ₹1.8 Lakhs |
 | **7** | **Sir Padampat Singhania University (Udaipur)** | Merit | ₹1.5 Lakhs |
 | **8** | **Mohanlal Sukhadia University (Udaipur)** | Merit | ₹50,000 |
 | **9** | **Jaipur National University** | Merit | ₹1.1 Lakhs |

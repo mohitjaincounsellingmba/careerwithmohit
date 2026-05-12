@@ -1,7 +1,7 @@
 ---
 title: "[Asian Business School (ABS)](/colleges/asian-business-school-noida) Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
-description: "Detailed review of Asian Business School (ABS) Noida. Explore the 100% placement record, state-of-the-art infra, and faculty review."
+description: "Detailed review of [Asian Business School (ABS)](/colleges/asian-business-school-noida) Noida. Explore the 100% placement record, state-of-the-art infra, and faculty review."
 keywords: ["Asian Business School review 2026", "ABS Noida placements 2025", "Asian Business School infrastructure", "Best PGDM in Noida"]
 ---
 

@@ -71,14 +71,14 @@ Here is a curated list of the **Top 10 BBA Colleges in Noida for 2026** to help 
 | :--- | :--- | :--- | :--- |
 | **1** | **Symbiosis Centre for Management Studies (SCMS Noida)** | SET | ₹3.5 Lakhs |
 | **2** | **[Amity University](/colleges/amity-noida), Noida** | Merit / CUET | ₹3.8 Lakhs |
-| **3** | **Jaypee Institute of Information Technology (JIIT)** | Merit / CUET | ₹2.5 Lakhs |
+| **3** | **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)** | Merit / CUET | ₹2.5 Lakhs |
 | **4** | **IMS Noida** | IPU CET | ₹1.5 Lakhs |
 | **5** | **Asian School of Business (ASB)** | Merit | ₹1.8 Lakhs |
-| **6** | **Hierank Business School** | Merit | ₹1.1 Lakhs |
+| **6** | **[Hierank Business School](/colleges/hierank-noida)** | Merit | ₹1.1 Lakhs |
 | **7** | **JSS Academy of Higher Education** | Merit | ₹1.5 Lakhs |
 | **8** | **FDDI Noida** | FDDI AIST | ₹1.2 Lakhs |
 | **9** | **Chetan Anand Institute** | Merit | ₹1 Lakhs |
-| **10** | **Noida International University (NIU)** | Merit / CUET | ₹1.2 Lakhs |
+| **10** | **[Noida International University (NIU)](/colleges/niu-greater-noida)** | Merit / CUET | ₹1.2 Lakhs |
 
 
 ---

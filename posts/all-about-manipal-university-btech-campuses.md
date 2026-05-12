@@ -27,7 +27,7 @@ The Bengaluru campus is the newest major addition to the MAHE umbrella, specific
 - **Fees:** Very similar to the Manipal main campus, standing at approximately **₹18 - ₹20 Lakhs** for engineering tuition.
 - **Placements:** Being located in Yelahanka, Bengaluru, provides immense internship opportunities. Placements are typically pooled with the main campus, giving students an identical platform to secure tier-1 IT jobs.
 
-## 3. Manipal University Jaipur (MUJ)
+## 3. [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)
 Located in Dehmi Kalan, Jaipur, **MUJ** operates as a separate state university but carries the profound Manipal legacy. It features one of India's most breathtaking, modern campus infrastructures and an elite socio-cultural student life.
 
 - **Admission Process:** Admissions occur via **MET**, direct board marks evaluation (for select branches), and Management Quota. 

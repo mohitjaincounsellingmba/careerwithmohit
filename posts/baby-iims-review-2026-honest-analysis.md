@@ -33,7 +33,7 @@ The 21 IIMs in India are broadly divided into three generations:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IIM Amritsar** | Amritsar, Punjab | ₹16.5 LPA | ~₹17.60 L | 92+ %ile | IIM Lucknow |
 | **IIM Bodh Gaya** | Bodh Gaya, Bihar | ₹15.8 LPA | ~₹17.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
-| **IIM Jammu** | Jammu, J&K | ₹16.4 LPA | ~₹18.00 L | 92+ %ile | IIM Calcutta |
+| **IIM Jammu** | Jammu, J&K | ₹16.4 LPA | ~₹18.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
 | **IIM Nagpur** | Nagpur, Maharashtra | ₹16.7 LPA | ~₹17.40 L | 92+ %ile | [IIM Ahmedabad](/colleges/iim-ahmedabad) |
 | **IIM Sambalpur** | Sambalpur, Odisha | ₹16.6 LPA | ~₹17.50 L | 92+ %ile | IIM Indore |
 | **IIM Sirmaur** | Paonta Sahib, HP | ₹14.5 LPA | ~₹17.00 L | 90+ %ile | IIM Lucknow |
@@ -84,7 +84,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹16.7 LPA | **Highest**: ~₹38+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: Personal Interview (PI)
 - **Campus**: Permanent campus in Nagpur
-- **Mentor**: **IIM Ahmedabad** — the most prestigious mentorship among Baby IIMs
+- **Mentor**: **[IIM Ahmedabad](/colleges/iim-ahmedabad)** — the most prestigious mentorship among Baby IIMs
 - **Verdict**: **Arguably the strongest Baby IIM** due to IIM Ahmedabad mentorship. Academic standards are exceptionally high. Nagpur is a growing corporate hub — adds recruiter access.
 
 ---
@@ -118,7 +118,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹16.0 LPA | **Highest**: ~₹32+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: Personal Interview (PI)
 - **Campus**: Permanent campus in Vizag
-- **Mentor**: **IIM Bangalore** — highly respected mentorship
+- **Mentor**: **[IIM Bangalore](/colleges/iim-bangalore)** — highly respected mentorship
 - **Verdict**: IIM Bangalore mentorship elevates its academic credibility significantly. Vizag's growing IT and pharma sector provides good industry exposure. One of the better Baby IIM choices.
 
 ---

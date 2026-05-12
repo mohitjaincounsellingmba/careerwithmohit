@@ -29,7 +29,7 @@ Akemi’s placement record is consistently impressive, rivaling even the most es
 
 ---
 
-## 📊 Comparison: Akemi Pune vs. ISMS Pune vs. RIIM Pune
+## 📊 Comparison: Akemi Pune vs. [ISMS Pune](/colleges/isms-pune) vs. [RIIM Pune](/colleges/riim-pune)
 
 For a student deciding between these three, here is the breakdown:
 

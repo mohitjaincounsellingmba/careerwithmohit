@@ -1,7 +1,7 @@
 ---
 title: "[Amity University](/colleges/amity-noida) Online Review 2026: MBA, MCA, BBA & BCA Fees & Placements"
 date: "2026-04-05"
-description: "Is Amity University Online worth it in 2026? Check the latest fees, UGC-DEB approvals, NAAC A+ ranking, and placement reviews for MBA, MCA, BBA, and BCA programs."
+description: "Is [Amity University](/colleges/amity-noida) Online worth it in 2026? Check the latest fees, UGC-DEB approvals, NAAC A+ ranking, and placement reviews for MBA, MCA, BBA, and BCA programs."
 keywords: ["Amity University Online review 2026", "Amity online MBA fees", "Amity online MCA admission", "Amity online BBA BCA", "UGC approved online degree Amity", "Amity online degree validity"]
 ---
 

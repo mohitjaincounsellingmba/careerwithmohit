@@ -2,7 +2,7 @@
 title: "[Amity University](/colleges/amity-noida) Online MBA Review 2026: Fees, Specializations & Placement Reality"
 date: "2026-05-10"
 category: "Online MBA"
-description: "Honest review of Amity University Online MBA 2026. Check fees (₹1,99,000 total), 15+ specializations, UGC-DEB status, NAAC A+ rating, placement support, and who should actually enroll."
+description: "Honest review of [Amity University](/colleges/amity-noida) Online MBA 2026. Check fees (₹1,99,000 total), 15+ specializations, UGC-DEB status, NAAC A+ rating, placement support, and who should actually enroll."
 keywords: ["Amity University online MBA review 2026", "Amity Online MBA fees 2026", "Amity online MBA specializations", "Amity University UGC DEB approved online MBA", "Amity online MBA placement review", "amityonline.com MBA admission 2026", "is Amity online MBA worth it"]
 ---
 
@@ -16,7 +16,7 @@ This is a detailed, honest review covering real fees, placement outcomes, and wh
 
 | Feature | Details |
 | :--- | :--- |
-| **University** | Amity University, Noida |
+| **University** | [Amity University, Noida](/colleges/amity-university-noida) |
 | **NAAC Grade** | **A+** |
 | **UGC-DEB Approved** | ✅ Yes |
 | **Duration** | 2 Years (4 Semesters) |

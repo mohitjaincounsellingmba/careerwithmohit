@@ -14,7 +14,7 @@ Here is the complete breakdown of the B.Tech program across all four VIT campuse
 - **Establishment:** 1984 (as Vellore Engineering College); deemed university status in 2001.
 - **Legacy & USP:** The pioneer of the Fully Flexible Credit System (FFCS) in India, allowing students to choose their own schedule, subjects, and faculty. Highly structured and disciplined academic environment.
 - **Campuses:**
-  - **VIT Vellore (Main & Best Campus)**
+  - **[VIT Vellore](/colleges/vit-vellore) (Main & Best Campus)**
   - **VIT Chennai (Highly Ranked)**
   - **VIT AP (Amaravati)**
   - **VIT Bhopal**
