@@ -5,7 +5,13 @@ description: "Is the CBSE Class 12 Board Result 2026 out? DigiLocker and UMANG a
 keywords: ["CBSE 12th result 2026 date", "CBSE 12th expected result date 2026", "DigiLocker CBSE result coming soon", "how to check CBSE 12th result", "CBSE 2026 result news", "CBSE class 12 marksheet download"]
 ---
 
-**Update (May 12, 2026):** The wait for millions of students is almost over. Digital platforms like **DigiLocker and the UMANG app** have updated their status to **"Coming Soon"** for the CBSE Class 12 Result 2026. This typically indicates that the results are prepared and could be announced within the next 2-3 days.
+**Update (May 13, 2026):** The **CBSE Class 12 Result 2026 has been officially declared today!** Students can now check their results using the official link below.
+
+### 🔴 [CLICK HERE TO CHECK CBSE 12TH RESULT 2026 (OFFICIAL)](/blog/cbse-12th-result-2026-declared)
+
+---
+
+**Original Post (May 12, 2026):** The wait for millions of students is almost over. Digital platforms like **DigiLocker and the UMANG app** have updated their status to **"Coming Soon"** for the CBSE Class 12 Result 2026. This typically indicates that the results are prepared and could be announced within the next 2-3 days.
 
 Whether you're planning for engineering, medical, or management entrance exams, your CBSE 12th result is a crucial milestone. Here is the most up-to-date information on the declaration.
 
