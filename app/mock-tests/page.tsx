@@ -80,6 +80,16 @@ const categories = [
       { name: "UPSC CSE", slug: "/tools/mock-test/upsc-cse", desc: "Civil Services" },
       { name: "Visit Hub", slug: "/tools/govt-exams-mock-test", tag: "30+ Exams", tagColor: "bg-foreground", desc: "All Govt Exams Hub" },
     ]
+  },
+  {
+    title: "Abroad Education",
+    description: "Prepare for global universities with specialized IELTS and English proficiency mocks.",
+    icon: <BookOpen className="w-8 h-8 text-indigo-500" />,
+    color: "from-indigo-50 to-white",
+    borderColor: "border-indigo-200",
+    exams: [
+      { name: "IELTS Academic", slug: "/tools/mock-test/ielts", tag: "Band 7+", tagColor: "bg-indigo-500", desc: "For Study Abroad" },
+    ]
   }
 ];
 

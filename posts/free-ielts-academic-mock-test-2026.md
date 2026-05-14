@@ -34,4 +34,12 @@ The Reading section comprises three long texts ranging from the descriptive and 
 
 ## Take the Test Now!
 
-Don't wait until the last minute. Start your preparation today by taking our **[Free IELTS Academic Mock Test](/mock-tests/ielts)**. It's the perfect tool to assess your readiness and chart a path to success.
+Don't wait until the last minute. Start your preparation today by taking our **[Free IELTS Academic Mock Test](/tools/mock-test/ielts)**. It's the perfect tool to assess your readiness and chart a path to success.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
