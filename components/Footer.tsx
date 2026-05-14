@@ -40,7 +40,7 @@ export function Footer({ instagramGallery }: { instagramGallery?: React.ReactNod
     { icon: <Linkedin size={20} />, href: "https://www.linkedin.com/company/career-with-mohit", label: "LinkedIn", color: "hover:bg-blue-700" },
     { icon: <Facebook size={20} />, href: "https://www.facebook.com/profile.php?id=61575525271998", label: "Facebook", color: "hover:bg-blue-600" },
     { icon: <Youtube size={20} />, href: "https://www.youtube.com/@careerwithmohit.online", label: "YouTube", color: "hover:bg-red-600" },
-    { icon: <Github size={20} />, href: "https://github.com/mohitjaincounsellingmba/career-portfolio", label: "GitHub", color: "hover:bg-gray-800" }
+    { icon: <Github size={20} />, href: "https://github.com/mohitjaincounsellingmba/careerwithmohit", label: "GitHub", color: "hover:bg-gray-800" }
   ];
 
   return (
