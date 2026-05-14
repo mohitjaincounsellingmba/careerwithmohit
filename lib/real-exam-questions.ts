@@ -49,5 +49,15 @@ export const REAL_EXAM_QUESTIONS: Record<string, Partial<Record<string, GenericQ
       { id: 801, sectionId: 'zoology', text: "Chambers in a human heart?", options: ["4", "2", "3", "1"], correctAnswer: 0, explanation: "2 atria, 2 ventricles." },
       { id: 802, sectionId: 'zoology', text: "Emergency hormone?", options: ["Adrenaline", "Insulin", "Thyroxine", "Estrogen"], correctAnswer: 0, explanation: "Flight or fight response." }
     ]
+  },
+  'ielts': {
+    'listening': [
+      { id: 901, sectionId: 'listening', text: "What time is the flight departing according to the announcement? (Audio transcript: 'Attention passengers, flight 402 to London will depart at 14:30 from gate 6.')", options: ["2:30 PM", "4:02 PM", "6:00 PM", "4:30 PM"], correctAnswer: 0, explanation: "14:30 is 2:30 PM on a 12-hour clock." },
+      { id: 902, sectionId: 'listening', text: "According to the speaker, what is the main advantage of the new library system? (Audio transcript: 'While the new system is slightly more expensive, its main benefit is the significantly faster search capability.')", options: ["It is cheaper", "It has more books", "It searches faster", "It is easier to learn"], correctAnswer: 2, explanation: "The speaker explicitly states the main benefit is 'significantly faster search capability'." }
+    ],
+    'reading': [
+      { id: 1001, sectionId: 'reading', text: "Passage excerpt: 'The discovery of penicillin revolutionized modern medicine, turning previously fatal infections into treatable conditions.'\nQuestion: True, False, or Not Given? Penicillin made fatal infections treatable.", options: ["True", "False", "Not Given", "N/A"], correctAnswer: 0, explanation: "The passage directly states that it turned previously fatal infections into treatable conditions." },
+      { id: 1002, sectionId: 'reading', text: "Passage excerpt: 'Solar energy adoption has increased by 40% in the last decade, primarily due to falling installation costs.'\nQuestion: What is the main reason for the increase in solar energy adoption?", options: ["Government subsidies", "Falling installation costs", "Environmental awareness", "Improved technology"], correctAnswer: 1, explanation: "The passage explicitly credits 'falling installation costs' as the primary reason." }
+    ]
   }
 };

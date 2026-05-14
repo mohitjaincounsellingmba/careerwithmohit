@@ -934,6 +934,29 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { name: 'MET Mumbai', cutoff: '95+ %ile' }
     ],
     markingScheme: { correct: 1, negative: 0.25 }
+  },
+  {
+    id: 'ielts',
+    slug: 'ielts',
+    name: 'IELTS Academic 2026',
+    durationMinutes: 120,
+    totalQuestions: 80,
+    targetColleges: 'Top Universities in USA, UK, Canada, Australia',
+    goodScore: 'Band 7.0+',
+    seoTitle: 'Free IELTS Academic Mock Test 2026 | Band 7+ Prep',
+    seoDescription: 'Take our free full-length IELTS Academic mock test. Practice Listening and Reading sections with real exam-like questions to achieve a Band 7.0+ score.',
+    sections: [
+      { id: 'listening', label: 'Listening', questionCount: 40 },
+      { id: 'reading', label: 'Reading', questionCount: 40 }
+    ],
+    features: [
+      'Strictly follows IELTS Academic Pattern',
+      'Realistic Listening & Reading Simulation',
+      'Instant Band Score Estimation',
+      'Detailed Performance Analytics',
+      'No Negative Marking Simulation'
+    ],
+    markingScheme: { correct: 1, negative: 0 }
   }
 ];
 
@@ -1016,7 +1039,9 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
           'gk': ['Indian Polity', 'Modern History', 'Geography', 'Economics', 'Current Affairs', 'Awards & Honors'],
           'ga': ['Static GK', 'Monthly Current Affairs', 'Sports', 'Science & Technology', 'Environment'],
           'logic': ['Coding-Decoding', 'Blood Relations', 'Syllogisms', 'Seating Arrangement', 'Data Sufficiency'],
-          'reasoning': ['Series Completion', 'Analogies', 'Puzzles', 'Direction Sense', 'Input-Output']
+          'reasoning': ['Series Completion', 'Analogies', 'Puzzles', 'Direction Sense', 'Input-Output'],
+          'listening': ['Short Conversations', 'Monologues', 'Academic Discussions', 'Form Completion', 'Matching Information'],
+          'reading': ['True/False/Not Given', 'Matching Headings', 'Multiple Choice', 'Summary Completion', 'Diagram Labeling']
         };
 
         let topicList = topics[Object.keys(topics).find(k => sectionKey.includes(k)) || 'maths'] || ['Concept'];
