@@ -957,6 +957,75 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       'No Negative Marking Simulation'
     ],
     markingScheme: { correct: 1, negative: 0 }
+  },
+  {
+    id: 'sat',
+    slug: 'sat',
+    name: 'Digital SAT 2026',
+    durationMinutes: 134,
+    totalQuestions: 98,
+    targetColleges: 'Ivy League, MIT, Stanford, Global Universities',
+    goodScore: '1400+',
+    seoTitle: 'Free Digital SAT Mock Test 2026 | Full Length Practice',
+    seoDescription: 'Take our free full-length Digital SAT mock test. Practice Reading and Writing & Math modules with realistic questions to boost your score to 1400+.',
+    sections: [
+      { id: 'rw', label: 'Reading & Writing', questionCount: 54 },
+      { id: 'maths', label: 'Math', questionCount: 44 }
+    ],
+    features: [
+      'Strictly follows Digital SAT Pattern',
+      'Realistic Reading, Writing & Math Simulation',
+      'Instant Scaled Score Estimation',
+      'Detailed Performance Analytics',
+      'No Negative Marking Simulation'
+    ],
+    markingScheme: { correct: 1, negative: 0 }
+  },
+  {
+    id: 'toefl',
+    slug: 'toefl',
+    name: 'TOEFL iBT 2026',
+    durationMinutes: 116,
+    totalQuestions: 68,
+    targetColleges: 'Top Universities in USA, UK, Canada, Australia',
+    goodScore: '100+',
+    seoTitle: 'Free TOEFL iBT Mock Test 2026 | Score 100+ Prep',
+    seoDescription: 'Take our free TOEFL iBT mock test. Practice Reading and Listening sections with real exam-like questions to achieve a 100+ score for study abroad.',
+    sections: [
+      { id: 'reading', label: 'Reading', questionCount: 40 },
+      { id: 'listening', label: 'Listening', questionCount: 28 }
+    ],
+    features: [
+      'Strictly follows new TOEFL iBT Pattern',
+      'Realistic Reading & Listening Simulation',
+      'Instant Score Estimation',
+      'Detailed Performance Analytics',
+      'No Negative Marking Simulation'
+    ],
+    markingScheme: { correct: 1, negative: 0 }
+  },
+  {
+    id: 'gre',
+    slug: 'gre',
+    name: 'GRE General Test 2026',
+    durationMinutes: 118,
+    totalQuestions: 54,
+    targetColleges: 'Top Graduate & Business Schools Worldwide',
+    goodScore: '320+',
+    seoTitle: 'Free GRE Mock Test 2026 | Verbal & Quant Prep',
+    seoDescription: 'Take our free full-length GRE mock test. Practice Verbal Reasoning and Quantitative Reasoning with realistic questions for MS/MBA abroad.',
+    sections: [
+      { id: 'verbal', label: 'Verbal Reasoning', questionCount: 27 },
+      { id: 'quant', label: 'Quantitative Reasoning', questionCount: 27 }
+    ],
+    features: [
+      'Strictly follows New GRE General Test Pattern',
+      'Realistic Verbal & Quant Simulation',
+      'Instant Score Estimation',
+      'Detailed Performance Analytics',
+      'No Negative Marking Simulation'
+    ],
+    markingScheme: { correct: 1, negative: 0 }
   }
 ];
 
@@ -1041,7 +1110,9 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
           'logic': ['Coding-Decoding', 'Blood Relations', 'Syllogisms', 'Seating Arrangement', 'Data Sufficiency'],
           'reasoning': ['Series Completion', 'Analogies', 'Puzzles', 'Direction Sense', 'Input-Output'],
           'listening': ['Short Conversations', 'Monologues', 'Academic Discussions', 'Form Completion', 'Matching Information'],
-          'reading': ['True/False/Not Given', 'Matching Headings', 'Multiple Choice', 'Summary Completion', 'Diagram Labeling']
+          'reading': ['True/False/Not Given', 'Matching Headings', 'Multiple Choice', 'Summary Completion', 'Diagram Labeling'],
+          'rw': ['Information and Ideas', 'Craft and Structure', 'Expression of Ideas', 'Standard English Conventions', 'Vocabulary in Context'],
+          'verbal': ['Reading Comprehension', 'Text Completion', 'Sentence Equivalence', 'Vocabulary', 'Argument Analysis']
         };
 
         let topicList = topics[Object.keys(topics).find(k => sectionKey.includes(k)) || 'maths'] || ['Concept'];

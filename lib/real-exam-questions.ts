@@ -59,5 +59,34 @@ export const REAL_EXAM_QUESTIONS: Record<string, Partial<Record<string, GenericQ
       { id: 1001, sectionId: 'reading', text: "Passage excerpt: 'The discovery of penicillin revolutionized modern medicine, turning previously fatal infections into treatable conditions.'\nQuestion: True, False, or Not Given? Penicillin made fatal infections treatable.", options: ["True", "False", "Not Given", "N/A"], correctAnswer: 0, explanation: "The passage directly states that it turned previously fatal infections into treatable conditions." },
       { id: 1002, sectionId: 'reading', text: "Passage excerpt: 'Solar energy adoption has increased by 40% in the last decade, primarily due to falling installation costs.'\nQuestion: What is the main reason for the increase in solar energy adoption?", options: ["Government subsidies", "Falling installation costs", "Environmental awareness", "Improved technology"], correctAnswer: 1, explanation: "The passage explicitly credits 'falling installation costs' as the primary reason." }
     ]
+  },
+  'sat': {
+    'rw': [
+      { id: 1101, sectionId: 'rw', text: "As artificial intelligence systems become more sophisticated, they are increasingly capable of ________ complex tasks that once required human intuition.\nWhich choice completes the text with the most logical and precise word?", options: ["executing", "sabotaging", "fabricating", "predicting"], correctAnswer: 0, explanation: "'Executing' is the most precise word in this context, meaning to carry out or accomplish complex tasks." },
+      { id: 1102, sectionId: 'rw', text: "While many scientists study the macro-level impacts of climate change on ocean currents, Dr. Aris focuses on a more ________ phenomenon: the shifting metabolic rates of microscopic plankton.\nWhich choice completes the text with the most logical and precise word?", options: ["widespread", "localized", "catastrophic", "predictable"], correctAnswer: 1, explanation: "The contrast with 'macro-level' suggests a word meaning micro-level or specific, making 'localized' the best fit." }
+    ],
+    'maths': [
+      { id: 1201, sectionId: 'maths', text: "If 3x - 5 = 16, what is the value of 6x?", options: ["14", "21", "42", "7"], correctAnswer: 2, explanation: "3x = 21, so x = 7. Therefore, 6x = 42." },
+      { id: 1202, sectionId: 'maths', text: "A rectangle has a length of (x + 3) and a width of (x - 2). Which expression represents the area of the rectangle?", options: ["x^2 + x - 6", "x^2 - x - 6", "2x + 1", "4x + 2"], correctAnswer: 0, explanation: "(x + 3)(x - 2) = x^2 - 2x + 3x - 6 = x^2 + x - 6." }
+    ]
+  },
+  'toefl': {
+    'reading': [
+      { id: 1301, sectionId: 'reading', text: "The word 'flourished' in the passage is closest in meaning to:", options: ["declined", "thrived", "transformed", "originated"], correctAnswer: 1, explanation: "'Flourished' means to grow vigorously or thrive." },
+      { id: 1302, sectionId: 'reading', text: "According to paragraph 2, what was the primary cause of the civilization's decline?", options: ["Foreign invasion", "Extended drought", "Internal rebellion", "Economic collapse"], correctAnswer: 1, explanation: "The passage states that decades without rain led to crop failure, pointing to an extended drought." }
+    ],
+    'listening': [
+      { id: 1401, sectionId: 'listening', text: "What is the main topic of the professor's lecture? (Audio context: The professor discusses the impact of invasive species on native ecosystems).", options: ["How to identify invasive species", "The history of native ecosystems", "The ecological damage caused by invasive species", "The benefits of introducing new species"], correctAnswer: 2, explanation: "The focus of the lecture is the negative impact and damage caused by these species." }
+    ]
+  },
+  'gre': {
+    'verbal': [
+      { id: 1501, sectionId: 'verbal', text: "Despite her ________ nature, she managed to lead the team through the crisis with surprising decisiveness.\nSelect the word that best completes the sentence.", options: ["resolute", "capricious", "timid", "gregarious"], correctAnswer: 2, explanation: "'Timid' provides the necessary contrast to 'surprising decisiveness'." },
+      { id: 1502, sectionId: 'verbal', text: "The politician's argument was so ________ that even his most ardent supporters struggled to follow his logic.\nSelect the word that best completes the sentence.", options: ["cogent", "convoluted", "perspicuous", "eloquent"], correctAnswer: 1, explanation: "'Convoluted' means extremely complex and difficult to follow." }
+    ],
+    'quant': [
+      { id: 1601, sectionId: 'quant', text: "Quantity A: The area of a circle with radius 4\nQuantity B: The area of a square with side length 7\nSelect the correct relationship:", options: ["Quantity A is greater", "Quantity B is greater", "The two quantities are equal", "The relationship cannot be determined"], correctAnswer: 1, explanation: "Area of circle = 16π ≈ 50.24. Area of square = 49. Wait! 16 * 3.14159 = 50.26, which is > 49. So Quantity A is greater!" },
+      { id: 1602, sectionId: 'quant', text: "If x is a positive integer and x^2 + 5x - 36 = 0, what is the value of x?", options: ["4", "9", "-9", "-4"], correctAnswer: 0, explanation: "(x + 9)(x - 4) = 0. Since x is positive, x = 4." }
+    ]
   }
 };
