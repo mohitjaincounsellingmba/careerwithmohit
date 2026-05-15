@@ -156,7 +156,7 @@ export const ABROAD_COLLEGES = [
     mode: 'Online / Blended',
     approvals: 'AACSB, TEQSA, WES',
     whatsapp: '919560020771',
-    country: 'Australia / Dubai',
+    country: 'Dubai',
   },
   ...USA_COLLEGES,
   ...CANADA_COLLEGES,
@@ -166,7 +166,7 @@ export const ABROAD_COLLEGES = [
   ...NEW_ZEALAND_COLLEGES,
 ];
 
-const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'New Zealand', 'Australia / Dubai', 'India (Global)'];
+const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'New Zealand', 'Australia', 'Dubai', 'India (Global)'];
 const FEE_RANGES = [
   { label: 'All', min: 0, max: Infinity },
   { label: 'Under ₹15 Lakhs', min: 0, max: 1500000 },
