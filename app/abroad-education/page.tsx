@@ -7,33 +7,33 @@ const PAGE_PATH = '/abroad-education';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'Top Global MBA & Abroad Education 2026 | UK, USA, Australia | CareerWithMohit',
+  title: 'Top Global MBA & Abroad Education 2026 | UK, USA, Canada, Australia | CareerWithMohit',
   description:
-    'Explore and compare top global MBA programs and universities abroad (UK, USA, Australia, Dubai) for 2026. Find fees, WES/AACSB accreditations, and get free expert admission assistance.',
+    'Explore and compare 380+ top global programs and universities abroad (UK, USA, Canada, Australia, New Zealand, Ireland, Germany, Dubai) for 2026. Find fees, accreditations, and get free expert admission assistance.',
   keywords: [
     'study abroad 2026',
     'global MBA online 2026',
     'MBA in UK from India',
     'MBA in USA online fees',
+    'study in Canada 2026',
+    'study in Germany free',
+    'study in Ireland 2026',
+    'study in New Zealand',
     'WES approved degrees India',
     'AACSB accredited MBA online',
     'study in Australia 2026',
     'study in Dubai 2026',
     'best abroad education consultant',
     'international MBA for Indian students',
-    'Liverpool John Moores University MBA',
-    'Golden Gate University MBA India',
-    'OP Jindal global MBA',
-    'IIM global MBA online',
     'abroad admission assistance',
   ],
   alternates: {
     canonical: PAGE_URL,
   },
   openGraph: {
-    title: 'Top Global MBA & Abroad Education 2026 | Study in UK, USA, Australia',
+    title: 'Top Global MBA & Abroad Education 2026 | Study in UK, USA, Canada, Australia',
     description:
-      'Compare top international universities. Fees, accreditations (AACSB, WES), and global programs. Get free counselling by Mohit Jain.',
+      'Compare 380+ top international universities. Fees, accreditations (AACSB, WES), and global programs. Get free counselling by Mohit Jain.',
     url: PAGE_URL,
     siteName: 'CareerWithMohit',
     type: 'website',
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Top Global MBA & Abroad Education 2026',
     description:
-      'Compare global universities in UK, USA, Australia & more. Fees, WES/AACSB approvals. Free counselling by Mohit Jain.',
+      'Compare 380+ global universities in UK, USA, Canada, Australia & more. Fees, WES/AACSB approvals. Free counselling by Mohit Jain.',
     images: [`${BASE_URL}/og-abroad-education.png`],
     creator: '@careerwithmohit',
   },
@@ -64,9 +64,9 @@ const jsonLd = {
       '@type': 'WebPage',
       '@id': PAGE_URL,
       url: PAGE_URL,
-      name: 'Top Global MBA & Abroad Education 2026 | Study in UK, USA, Australia',
+      name: 'Top Global MBA & Abroad Education 2026 | Study in UK, USA, Canada, Australia',
       description:
-        'Explore and compare top global MBA programs and universities abroad for 2026. Find fees, accreditations, and get free expert counselling.',
+        'Explore and compare 380+ top global MBA programs and universities abroad for 2026. Find fees, accreditations, and get free expert counselling.',
       isPartOf: { '@id': `${BASE_URL}/#website` },
       breadcrumb: {
         '@type': 'BreadcrumbList',
@@ -79,15 +79,15 @@ const jsonLd = {
     {
       '@type': 'ItemList',
       name: 'Top Global Universities for Indian Students 2026',
-      description: 'List of top global universities offering MBA and other programs in UK, USA, and Australia.',
+      description: 'List of top global universities offering MBA and other programs in UK, USA, Canada, Australia, Ireland, Germany, and New Zealand.',
       url: PAGE_URL,
-      numberOfItems: 8,
+      numberOfItems: 380,
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Liverpool John Moores University (UK)', url: PAGE_URL },
         { '@type': 'ListItem', position: 2, name: 'Golden Gate University (USA)', url: PAGE_URL },
-        { '@type': 'ListItem', position: 3, name: 'IIM Visakhapatnam (Global MBA)', url: PAGE_URL },
-        { '@type': 'ListItem', position: 4, name: 'IIM Sirmaur (Global MBA)', url: PAGE_URL },
-        { '@type': 'ListItem', position: 5, name: 'OP Jindal Global University', url: PAGE_URL },
+        { '@type': 'ListItem', position: 3, name: 'University of Toronto (Canada)', url: PAGE_URL },
+        { '@type': 'ListItem', position: 4, name: 'University of Melbourne (Australia)', url: PAGE_URL },
+        { '@type': 'ListItem', position: 5, name: 'Technical University of Munich (Germany)', url: PAGE_URL },
       ],
     },
     {
@@ -191,14 +191,14 @@ export default function AbroadEducationPage() {
               </span>
             </h1>
             <p className="text-white/70 text-lg md:text-2xl max-w-3xl mx-auto leading-relaxed font-medium mb-12">
-              Earn a world-class degree from top universities in the UK, USA, Australia, and Dubai. 
+              Earn a world-class degree from top universities in the UK, USA, Canada, Australia, New Zealand, Ireland, Germany, and Dubai. 
               Globally recognized, WES-approved, and career-transforming.
             </p>
 
             {/* Stats */}
             <div className="mt-14 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-3xl mx-auto">
               {[
-                { num: '50+', label: 'Global Univ' },
+                { num: '380+', label: 'Global Univ' },
                 { num: '₹1.8L', label: 'Starting Fee' },
                 { num: '100%', label: 'WES Approved' },
                 { num: 'AACSB', label: 'Accredited' },
@@ -240,7 +240,7 @@ export default function AbroadEducationPage() {
               {[
                 { icon: <Globe className="text-emerald-500" />, title: 'WES & Privy Council Recognition', desc: 'Degrees are fully valid for Canadian PR (WES) and UK Skilled Worker Visas. Global recognition guaranteed.' },
                 { icon: <Award className="text-blue-500" />, title: 'AACSB Triple Crown Status', desc: 'Study from the top 5% of business schools worldwide. Gold standard in global management education.' },
-                { icon: <Plane className="text-teal-500" />, title: 'International Immigration', desc: 'Boost your CRS points and eligibility for settling in UK, USA, Canada, or Australia with a recognized degree.' },
+                { icon: <Plane className="text-teal-500" />, title: 'International Immigration', desc: 'Boost your CRS points and eligibility for settling in UK, USA, Canada, Australia, or Germany with a recognized degree.' },
                 { icon: <Building2 className="text-indigo-500" />, title: 'Top Global MNC Network', desc: 'Connect with alumni working at Google, Amazon, McKinsey, and Goldman Sachs across the globe.' },
                 { icon: <Star className="text-amber-500" />, title: 'Silicon Valley Curriculum', desc: 'Learn cutting-edge business strategy and AI integration from professors in the heart of global innovation.' },
                 { icon: <BadgeCheck className="text-rose-500" />, title: '90% Cost Saving', desc: 'Get the same degree as on-campus students at a fraction of the cost. No relocation or living expenses.' },
@@ -272,8 +272,8 @@ export default function AbroadEducationPage() {
             <div className="space-y-6">
               {[
                 { step: '01', title: 'Free Global Profile Assessment', desc: 'Our experts evaluate your academic background and career goals to suggest the best countries and universities.' },
-                { step: '02', title: 'Compare Fees & Accreditations', desc: 'Filter through 50+ options based on your budget and whether you need WES/AACSB recognition.' },
-                { step: '03', title: 'Direct Merit-Based Admission', desc: 'Many of our partner universities offer simplified admissions based on your profile, often waiving GMAT/IELTS.' },
+                { step: '02', title: 'Compare Fees & Accreditations', desc: 'Filter through 380+ options based on your budget and whether you need WES/AACSB recognition.' },
+                { step: '03', title: 'Direct Merit-Based Admission', desc: 'Many of our partner universities offer simplified admissions based on your profile, often waiving GMAT/IELTS/GRE.' },
                 { step: '04', title: 'Financial Aid & Education Loans', desc: 'We help you secure 0% EMI options and education loans to make your global dream affordable.' },
                 { step: '05', title: 'Enrollment & Global Networking', desc: 'Get your student ID, access the global LMS, and start networking with peers from 50+ countries.' },
               ].map((item) => (

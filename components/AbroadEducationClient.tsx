@@ -432,7 +432,7 @@ export default function AbroadEducationClient() {
               Explore Global Universities ✈️
             </h2>
             <p className="text-gray-500 font-medium max-w-xl">
-              Compare top universities from the UK, USA, Australia, and Dubai. Filter by budget, country, and accreditation to find your perfect match.
+              Compare 380+ top universities from the UK, USA, Canada, Australia, New Zealand, Ireland, Germany, and Dubai. Filter by budget, country, and accreditation to find your perfect match.
             </p>
           </div>
           <button
