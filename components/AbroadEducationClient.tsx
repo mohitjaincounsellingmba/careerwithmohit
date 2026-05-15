@@ -167,7 +167,7 @@ const FEE_RANGES = [
 /* ── Inquiry Modal ── */
 function InquiryModal({ college, onClose }: { college: typeof ABROAD_COLLEGES[0]; onClose: () => void }) {
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success'>('idle');
-  const [form, setForm] = useState({ name: '', number: '', email: '' });
+  const [form, setForm] = useState({ name: '', number: '', email: '', location: '', program: '' });
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -189,7 +189,7 @@ function InquiryModal({ college, onClose }: { college: typeof ABROAD_COLLEGES[0]
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4" onClick={onClose}>
       <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" />
       <div
-        className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md p-8 z-10"
+        className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md p-8 z-10 max-h-[90vh] overflow-y-auto"
         onClick={(e) => e.stopPropagation()}
       >
         <button onClick={onClose} className="absolute top-4 right-4 text-gray-400 hover:text-gray-700 transition-colors">
@@ -210,8 +210,14 @@ function InquiryModal({ college, onClose }: { college: typeof ABROAD_COLLEGES[0]
         ) : (
           <>
             <h3 className="text-lg font-black text-[#0f172a] mb-1">Inquire Now</h3>
-            <p className="text-sm text-gray-500 mb-6">Get free abroad education counselling for <span className="font-semibold text-indigo-600">{college.name}</span></p>
+            <p className="text-sm text-gray-500 mb-6">Get free admission assistance for <span className="font-semibold text-indigo-600">{college.name}</span></p>
             <form onSubmit={handleSubmit} className="space-y-4">
+              <div className="space-y-1">
+                <label className="text-xs font-bold text-gray-500 uppercase">University</label>
+                <input type="text" value={college.name} readOnly
+                  className="w-full border-2 border-gray-100 bg-gray-50 rounded-xl px-4 py-3 text-sm font-bold text-gray-600 cursor-not-allowed"
+                />
+              </div>
               <input required type="text" placeholder="Full Name" value={form.name}
                 onChange={e => setForm({ ...form, name: e.target.value })}
                 className="w-full border-2 border-gray-200 rounded-xl px-4 py-3 text-sm font-medium focus:outline-none focus:border-indigo-500 transition-colors"
@@ -224,8 +230,22 @@ function InquiryModal({ college, onClose }: { college: typeof ABROAD_COLLEGES[0]
                 onChange={e => setForm({ ...form, email: e.target.value })}
                 className="w-full border-2 border-gray-200 rounded-xl px-4 py-3 text-sm font-medium focus:outline-none focus:border-indigo-500 transition-colors"
               />
+              <input required type="text" placeholder="Your City/Location" value={form.location}
+                onChange={e => setForm({ ...form, location: e.target.value })}
+                className="w-full border-2 border-gray-200 rounded-xl px-4 py-3 text-sm font-medium focus:outline-none focus:border-indigo-500 transition-colors"
+              />
+              <select required value={form.program}
+                onChange={e => setForm({ ...form, program: e.target.value })}
+                className="w-full border-2 border-gray-200 rounded-xl px-4 py-3 text-sm font-medium focus:outline-none focus:border-indigo-500 transition-colors bg-white appearance-none"
+              >
+                <option value="" disabled>Select Program of Interest</option>
+                {college.programs.map(p => (
+                  <option key={p} value={p}>{p}</option>
+                ))}
+                <option value="Other / Not Sure">Other / Not Sure</option>
+              </select>
               <button type="submit" disabled={status === 'submitting'}
-                className="w-full bg-gradient-to-r from-indigo-600 to-violet-600 text-white font-bold py-3.5 rounded-xl hover:opacity-90 transition-opacity text-sm"
+                className="w-full bg-gradient-to-r from-indigo-600 to-violet-600 text-white font-bold py-3.5 rounded-xl hover:opacity-90 transition-opacity text-sm mt-2"
               >
                 {status === 'submitting' ? 'Sending...' : 'Submit Free Inquiry →'}
               </button>
