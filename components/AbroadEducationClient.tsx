@@ -8,6 +8,7 @@ import {
 } from 'lucide-react';
 import { USA_COLLEGES } from '@/data/usaColleges';
 import { CANADA_COLLEGES } from '@/data/canadaColleges';
+import { UK_COLLEGES } from '@/data/ukColleges';
 
 export const ABROAD_COLLEGES = [
   {
@@ -156,6 +157,7 @@ export const ABROAD_COLLEGES = [
   },
   ...USA_COLLEGES,
   ...CANADA_COLLEGES,
+  ...UK_COLLEGES,
 ];
 
 const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Australia / Dubai', 'India (Global)'];
