@@ -6,6 +6,7 @@ import {
   X, SlidersHorizontal, Phone, ChevronDown, BookOpen,
   Building2, Star, Award, Globe, Plane
 } from 'lucide-react';
+import { USA_COLLEGES } from '@/data/usaColleges';
 
 export const ABROAD_COLLEGES = [
   {
@@ -151,7 +152,8 @@ export const ABROAD_COLLEGES = [
     approvals: 'AACSB, TEQSA, WES',
     whatsapp: '919560020771',
     country: 'Australia / Dubai',
-  }
+  },
+  ...USA_COLLEGES,
 ];
 
 const COUNTRIES = ['All', 'USA', 'UK', 'Australia / Dubai', 'India (Global)'];
