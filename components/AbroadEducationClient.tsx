@@ -11,6 +11,7 @@ import { CANADA_COLLEGES } from '@/data/canadaColleges';
 import { UK_COLLEGES } from '@/data/ukColleges';
 import { IRELAND_COLLEGES } from '@/data/irelandColleges';
 import { AUSTRALIA_COLLEGES } from '@/data/australiaColleges';
+import { NEW_ZEALAND_COLLEGES } from '@/data/newZealandColleges';
 
 export const ABROAD_COLLEGES = [
   {
@@ -162,9 +163,10 @@ export const ABROAD_COLLEGES = [
   ...UK_COLLEGES,
   ...IRELAND_COLLEGES,
   ...AUSTRALIA_COLLEGES,
+  ...NEW_ZEALAND_COLLEGES,
 ];
 
-const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'Australia / Dubai', 'India (Global)'];
+const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'New Zealand', 'Australia / Dubai', 'India (Global)'];
 const FEE_RANGES = [
   { label: 'All', min: 0, max: Infinity },
   { label: 'Under ₹15 Lakhs', min: 0, max: 1500000 },
@@ -390,6 +392,7 @@ const getCountryEmoji = (c: string) => {
   if (c.includes('UK')) return '🇬🇧';
   if (c.includes('Ireland')) return '🇮🇪';
   if (c.includes('Australia')) return '🇦🇺';
+  if (c.includes('New Zealand')) return '🇳🇿';
   if (c.includes('Dubai')) return '🇦🇪';
   if (c.includes('India')) return '🇮🇳';
   return '🌍';
