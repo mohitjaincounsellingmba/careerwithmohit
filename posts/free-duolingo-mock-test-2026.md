@@ -52,3 +52,11 @@ Start your preparation today by taking our **[Free Duolingo English Test Mock 20
 Looking for more resources? **[Explore Our Mock Test Hub 2026](https://www.careerwithmohit.online/mock-tests)** to get real-time exam experience for over 50+ different entrance tests.
 
 ---
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
