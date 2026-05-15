@@ -86,6 +86,12 @@ export default function ResumeAnalyzer() {
   // --- Audit Logic ---
   const performAudit = () => {
     if (!resumeText.trim() && !uploadedFile) return;
+    setIsAnalyzing(true);
+
+    setTimeout(() => {
+      const text = resumeText.toLowerCase();
+      const sections: AuditSection[] = [];
+      let totalScore = 0;
 
       // 1. Contact Info Check
       const hasEmail = /[\w\.-]+@[\w\.-]+\.\w+/.test(text);
