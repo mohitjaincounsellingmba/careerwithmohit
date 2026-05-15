@@ -382,6 +382,17 @@ function CollegeDetailModal({ college, onClose, onInquire }: {
   );
 }
 
+const getCountryEmoji = (c: string) => {
+  if (c.includes('USA')) return '🇺🇸';
+  if (c.includes('Canada')) return '🇨🇦';
+  if (c.includes('UK')) return '🇬🇧';
+  if (c.includes('Ireland')) return '🇮🇪';
+  if (c.includes('Australia')) return '🇦🇺';
+  if (c.includes('Dubai')) return '🇦🇪';
+  if (c.includes('India')) return '🇮🇳';
+  return '🌍';
+};
+
 /* ── Main Client Component ── */
 export default function AbroadEducationClient() {
   const [search, setSearch] = useState('');
@@ -410,7 +421,7 @@ export default function AbroadEducationClient() {
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-8 mb-12">
           <div>
             <h2 className="display-font text-3xl md:text-5xl font-black text-[#0f172a] mb-4">
-              Explore Global Universities
+              Explore Global Universities ✈️
             </h2>
             <p className="text-gray-500 font-medium max-w-xl">
               Compare top universities from the UK, USA, Australia, and Dubai. Filter by budget, country, and accreditation to find your perfect match.
@@ -428,39 +439,39 @@ export default function AbroadEducationClient() {
         {/* ── Filters ── */}
         <div className={`grid grid-cols-1 md:grid-cols-3 gap-6 mb-12 ${showFilters ? 'block' : 'hidden md:grid'}`}>
           {/* Search */}
-          <div className="relative">
-            <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
+          <div className="relative group">
+            <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 group-focus-within:text-indigo-500 transition-colors" size={18} />
             <input
               type="text"
               placeholder="Search university or program..."
-              className="w-full bg-white border-2 border-gray-100 rounded-2xl pl-12 pr-4 py-4 focus:outline-none focus:border-indigo-500 transition-all text-sm font-medium shadow-sm"
+              className="w-full bg-white border-2 border-transparent hover:border-gray-100 rounded-2xl pl-12 pr-4 py-4 focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-50 transition-all text-sm font-bold text-gray-700 shadow-sm"
               value={search}
               onChange={(e) => setSearch(e.target.value)}
             />
           </div>
 
           {/* Country Select */}
-          <div className="relative">
-            <Globe className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
+          <div className="relative group">
+            <Globe className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 group-focus-within:text-indigo-500 transition-colors" size={18} />
             <select
-              className="w-full bg-white border-2 border-gray-100 rounded-2xl pl-12 pr-4 py-4 focus:outline-none focus:border-indigo-500 transition-all text-sm font-medium shadow-sm appearance-none"
+              className="w-full bg-white border-2 border-transparent hover:border-gray-100 rounded-2xl pl-12 pr-4 py-4 focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-50 transition-all text-sm font-bold text-gray-700 shadow-sm appearance-none"
               value={country}
               onChange={(e) => setCountry(e.target.value)}
             >
-              {COUNTRIES.map(c => <option key={c} value={c}>{c === 'All' ? 'Select Country' : c}</option>)}
+              {COUNTRIES.map(c => <option key={c} value={c}>{getCountryEmoji(c)} {c === 'All' ? 'All Locations' : c}</option>)}
             </select>
             <ChevronDown className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={18} />
           </div>
 
           {/* Fee Filter */}
-          <div className="relative">
-            <IndianRupee className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
+          <div className="relative group">
+            <IndianRupee className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 group-focus-within:text-indigo-500 transition-colors" size={18} />
             <select
-              className="w-full bg-white border-2 border-gray-100 rounded-2xl pl-12 pr-4 py-4 focus:outline-none focus:border-indigo-500 transition-all text-sm font-medium shadow-sm appearance-none"
+              className="w-full bg-white border-2 border-transparent hover:border-gray-100 rounded-2xl pl-12 pr-4 py-4 focus:outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-50 transition-all text-sm font-bold text-gray-700 shadow-sm appearance-none"
               value={feeRange}
               onChange={(e) => setFeeRange(Number(e.target.value))}
             >
-              {FEE_RANGES.map((r, i) => <option key={r.label} value={i}>{r.label === 'All' ? 'Filter by Fee' : r.label}</option>)}
+              {FEE_RANGES.map((r, i) => <option key={r.label} value={i}>💰 {r.label === 'All' ? 'Any Budget' : r.label}</option>)}
             </select>
             <ChevronDown className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" size={18} />
           </div>
@@ -472,48 +483,58 @@ export default function AbroadEducationClient() {
             {filtered.map((college) => (
               <div
                 key={college.name}
-                className="group bg-white rounded-3xl border border-gray-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden"
+                className="group bg-white rounded-3xl border border-gray-100 shadow-[0_8px_30px_rgb(0,0,0,0.04)] hover:shadow-[0_20px_40px_rgb(0,0,0,0.08)] hover:-translate-y-2 transition-all duration-300 overflow-hidden relative"
               >
+                {/* Decorative Accent */}
+                <div className="absolute top-0 right-0 w-32 h-32 bg-white/10 rounded-full blur-3xl -mr-10 -mt-10 z-0 pointer-events-none" />
+
                 {/* Card Header */}
-                <div className={`h-24 bg-gradient-to-br ${college.gradeColor} p-6 relative`}>
-                  <div className="flex justify-between items-start">
-                    <span className="bg-white/20 text-white text-[10px] font-bold uppercase tracking-widest px-2.5 py-1 rounded-full backdrop-blur-md">
+                <div className={`h-28 bg-gradient-to-br ${college.gradeColor} p-6 relative overflow-hidden`}>
+                  {/* Background pattern */}
+                  <div className="absolute inset-0 opacity-20 bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:16px_16px]" />
+                  
+                  <div className="flex justify-between items-start relative z-10">
+                    <span className="bg-white/20 text-white text-[10px] font-black uppercase tracking-widest px-3 py-1.5 rounded-xl backdrop-blur-md border border-white/30 shadow-sm flex items-center gap-1.5">
                       {college.badge}
                     </span>
-                    <span className="bg-white/20 text-white text-[10px] font-bold uppercase tracking-widest px-2.5 py-1 rounded-full backdrop-blur-md">
-                      {college.country}
+                    <span className="bg-black/20 text-white text-[11px] font-black uppercase tracking-widest px-3 py-1.5 rounded-xl backdrop-blur-md flex items-center gap-1.5 shadow-sm">
+                      {getCountryEmoji(college.country)} {college.country}
                     </span>
                   </div>
                 </div>
 
                 {/* Card Body */}
-                <div className="p-6">
-                  <h3 className="text-xl font-black text-[#0f172a] mb-1 line-clamp-1 group-hover:text-indigo-600 transition-colors">
+                <div className="p-6 relative z-10 bg-white">
+                  <h3 className="text-xl font-black text-[#0f172a] mb-2 line-clamp-1 group-hover:text-indigo-600 transition-colors">
                     {college.name}
                   </h3>
-                  <div className="flex items-center gap-1.5 text-gray-400 text-xs font-bold mb-5">
-                    <MapPin size={12} className="text-indigo-400" />
+                  <div className="flex items-center gap-1.5 text-gray-500 text-xs font-bold mb-6">
+                    <MapPin size={14} className="text-rose-500" />
                     <span>{college.location}</span>
                   </div>
 
-                  <div className="space-y-3 mb-6">
+                  <div className="space-y-4 mb-8 bg-gray-50/50 rounded-2xl p-4 border border-gray-100/50">
                     <div className="flex items-center justify-between text-sm">
-                      <span className="text-gray-400 font-medium flex items-center gap-2">
-                        <IndianRupee size={14} /> Estimated Fee
+                      <span className="text-gray-400 font-bold flex items-center gap-2">
+                        💰 Estimated Fee
                       </span>
-                      <span className="font-black text-[#0f172a]">{college.fee}</span>
+                      <span className="font-black text-[#0f172a] bg-white px-2 py-1 rounded-md shadow-sm border border-gray-100">{college.fee}</span>
                     </div>
                     <div className="flex items-center justify-between text-sm">
-                      <span className="text-gray-400 font-medium flex items-center gap-2">
-                        <GraduationCap size={14} /> Programs
+                      <span className="text-gray-400 font-bold flex items-center gap-2">
+                        🎓 Programs
                       </span>
-                      <span className="font-black text-[#0f172a]">{college.programs[0]}{college.programs.length > 1 ? ` +${college.programs.length - 1}` : ''}</span>
+                      <span className="font-bold text-[#0f172a] text-xs bg-indigo-50 text-indigo-700 px-2 py-1 rounded-md">
+                        {college.programs[0]}{college.programs.length > 1 ? ` +${college.programs.length - 1}` : ''}
+                      </span>
                     </div>
                     <div className="flex items-center justify-between text-sm">
-                      <span className="text-gray-400 font-medium flex items-center gap-2">
-                        <Award size={14} /> Accreditation
+                      <span className="text-gray-400 font-bold flex items-center gap-2">
+                        🏆 Accreditation
                       </span>
-                      <span className="font-black text-[#0f172a] truncate max-w-[120px]">{college.accreditation.split('|')[0]}</span>
+                      <span className="font-black text-emerald-700 text-xs bg-emerald-50 px-2 py-1 rounded-md truncate max-w-[110px]">
+                        {college.accreditation.split('|')[0]}
+                      </span>
                     </div>
                   </div>
 
