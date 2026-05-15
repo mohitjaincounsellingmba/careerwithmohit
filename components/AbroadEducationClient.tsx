@@ -10,6 +10,7 @@ import { USA_COLLEGES } from '@/data/usaColleges';
 import { CANADA_COLLEGES } from '@/data/canadaColleges';
 import { UK_COLLEGES } from '@/data/ukColleges';
 import { IRELAND_COLLEGES } from '@/data/irelandColleges';
+import { AUSTRALIA_COLLEGES } from '@/data/australiaColleges';
 
 export const ABROAD_COLLEGES = [
   {
@@ -160,6 +161,7 @@ export const ABROAD_COLLEGES = [
   ...CANADA_COLLEGES,
   ...UK_COLLEGES,
   ...IRELAND_COLLEGES,
+  ...AUSTRALIA_COLLEGES,
 ];
 
 const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'Australia / Dubai', 'India (Global)'];
