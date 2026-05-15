@@ -165,9 +165,10 @@ export const ABROAD_COLLEGES = [
 const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'Australia / Dubai', 'India (Global)'];
 const FEE_RANGES = [
   { label: 'All', min: 0, max: Infinity },
-  { label: 'Under ₹5L', min: 0, max: 500000 },
-  { label: '₹5L – ₹10L', min: 500000, max: 1000000 },
-  { label: 'Above ₹10L', min: 1000000, max: Infinity },
+  { label: 'Under ₹15 Lakhs', min: 0, max: 1500000 },
+  { label: '₹15L – ₹25 Lakhs', min: 1500000, max: 2500000 },
+  { label: '₹25L – ₹35 Lakhs', min: 2500000, max: 3500000 },
+  { label: 'Above ₹35 Lakhs', min: 3500000, max: Infinity },
 ];
 
 /* ── Inquiry Modal ── */
