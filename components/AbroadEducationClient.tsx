@@ -9,6 +9,7 @@ import {
 import { USA_COLLEGES } from '@/data/usaColleges';
 import { CANADA_COLLEGES } from '@/data/canadaColleges';
 import { UK_COLLEGES } from '@/data/ukColleges';
+import { IRELAND_COLLEGES } from '@/data/irelandColleges';
 
 export const ABROAD_COLLEGES = [
   {
@@ -158,9 +159,10 @@ export const ABROAD_COLLEGES = [
   ...USA_COLLEGES,
   ...CANADA_COLLEGES,
   ...UK_COLLEGES,
+  ...IRELAND_COLLEGES,
 ];
 
-const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Australia / Dubai', 'India (Global)'];
+const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'Australia / Dubai', 'India (Global)'];
 const FEE_RANGES = [
   { label: 'All', min: 0, max: Infinity },
   { label: 'Under ₹5L', min: 0, max: 500000 },
