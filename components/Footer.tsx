@@ -29,6 +29,7 @@ export function Footer({ instagramGallery }: { instagramGallery?: React.ReactNod
       { name: 'Free CAT Mock 2026', href: '/tools/cat-mock-test' },
       { name: 'Free JEE Mock 2026', href: '/tools/jee-main-mock-test' },
       { name: 'PYQ Papers', href: '/previous-year-papers' },
+      { name: 'Resume Score & Audit', href: '/tools/resume-analyzer', badge: 'New' },
       { name: 'Online Degrees', href: '/online-degree-certification' },
       { name: 'Certifications', href: '/certifications' },
       { name: 'Govt Jobs', href: '/govt-jobs' },
