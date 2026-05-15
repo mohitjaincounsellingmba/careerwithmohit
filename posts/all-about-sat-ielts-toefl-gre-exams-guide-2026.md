@@ -18,6 +18,7 @@ For students planning their international education journey in 2026, understandi
 | **IELTS** | English Proficiency (UK, CAN, AUS, USA) | 2h 45m | ₹19,000 |
 | **TOEFL** | English Proficiency (USA, Global) | ~2h | ₹18,000 |
 | **GRE** | Graduate Admissions (MS, MBA, PhD) | 1h 58m | ₹22,500 |
+| **Duolingo** | English Proficiency (USA, Global) | < 1h | ₹5,500 |
 
 ---
 
@@ -54,6 +55,17 @@ If you are planning for a Master's (MS), PhD, or even an MBA abroad, the GRE is 
 *   **Shorter GRE:** The exam is now under 2 hours, making it less exhausting for students.
 *   **Sections:** Analytical Writing, Verbal Reasoning, and Quantitative Reasoning.
 *   **Internal Link:** Planning for an MBA? Check if the [GMAT Exam](/blog/all-about-gmat-exam-colleges-cutoffs) is a better fit for your target B-Schools.
+
+---
+
+## 5. Duolingo English Test (DET)
+The Duolingo English Test is the fastest-growing English proficiency test, known for its convenience and affordability.
+
+*   **Convenience:** Take the test online from home at any time.
+*   **Duration:** Under 1 hour.
+*   **Cost:** Approx. ₹5,500 (much cheaper than IELTS/TOEFL).
+*   **Acceptance:** Accepted by over 5,000 institutions globally, including top US universities.
+*   **Mock Test:** Practice for free with our [Duolingo Mock Test Series](/tools/mock-test/duolingo).
 
 ---
 

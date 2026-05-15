@@ -89,6 +89,7 @@ const categories = [
     borderColor: "border-indigo-200",
     exams: [
       { name: "IELTS Academic", slug: "/tools/mock-test/ielts", tag: "Band 7+", tagColor: "bg-indigo-500", desc: "For Study Abroad" },
+      { name: "Duolingo English Test", slug: "/tools/mock-test/duolingo", tag: "120+", tagColor: "bg-emerald-500", desc: "Adaptive Test Prep" },
       { name: "Digital SAT", slug: "/tools/mock-test/sat", tag: "1400+", tagColor: "bg-blue-600", desc: "For US Undergrad" },
       { name: "TOEFL iBT", slug: "/tools/mock-test/toefl", desc: "English Proficiency" },
       { name: "GRE General", slug: "/tools/mock-test/gre", tag: "320+", tagColor: "bg-purple-600", desc: "For MS & Global MBA" },

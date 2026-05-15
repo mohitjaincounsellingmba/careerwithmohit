@@ -1026,6 +1026,41 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       'No Negative Marking Simulation'
     ],
     markingScheme: { correct: 1, negative: 0 }
+  },
+  {
+    id: 'duolingo',
+    slug: 'duolingo',
+    name: 'Duolingo English Test 2026',
+    durationMinutes: 60,
+    totalQuestions: 60,
+    targetColleges: 'Universities in USA, UK, Canada, Australia & Europe',
+    goodScore: '125+',
+    seoTitle: 'Free Duolingo English Test Mock 2026 | Full Length Practice',
+    seoDescription: 'Take our free full-length Duolingo English Test (DET) mock test. Practice Literacy, Comprehension, Conversation, and Production sections with realistic adaptive-style questions.',
+    sections: [
+      { id: 'literacy', label: 'Literacy (Reading/Writing)', questionCount: 15 },
+      { id: 'comprehension', label: 'Comprehension (Reading/Listening)', questionCount: 15 },
+      { id: 'conversation', label: 'Conversation (Listening/Speaking)', questionCount: 15 },
+      { id: 'production', label: 'Production (Writing/Speaking)', questionCount: 15 }
+    ],
+    features: [
+      'Strictly follows Duolingo English Test Pattern',
+      'Realistic Adaptive Question Simulation',
+      'Instant Score Estimation (10-160 Scale)',
+      'Detailed Performance Analytics',
+      'No Negative Marking Simulation'
+    ],
+    faqs: [
+      {
+        question: 'How is the Duolingo English Test scored?',
+        answer: 'The DET is scored on a scale from 10 to 160 in 5-point increments. A score above 120 is generally considered very good for top university admissions.'
+      },
+      {
+        question: 'Is the DET accepted by all universities?',
+        answer: 'Most universities in the USA, UK, and Canada now accept DET scores as an alternative to IELTS or TOEFL. However, always check the specific university website for the latest requirements.'
+      }
+    ],
+    markingScheme: { correct: 1, negative: 0 }
   }
 ];
 
@@ -1112,7 +1147,10 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
           'listening': ['Short Conversations', 'Monologues', 'Academic Discussions', 'Form Completion', 'Matching Information'],
           'reading': ['True/False/Not Given', 'Matching Headings', 'Multiple Choice', 'Summary Completion', 'Diagram Labeling'],
           'rw': ['Information and Ideas', 'Craft and Structure', 'Expression of Ideas', 'Standard English Conventions', 'Vocabulary in Context'],
-          'verbal': ['Reading Comprehension', 'Text Completion', 'Sentence Equivalence', 'Vocabulary', 'Argument Analysis']
+          'verbal': ['Reading Comprehension', 'Text Completion', 'Sentence Equivalence', 'Vocabulary', 'Argument Analysis'],
+          'literacy': ['Read and Complete', 'Read and Select', 'Writing Sample', 'Dictation'],
+          'comprehension': ['Listen and Select', 'Listen and Type', 'Read and Select'],
+          'production': ['Speak About the Photo', 'Write About the Photo', 'Read, then Speak', 'Listen, then Speak']
         };
 
         let topicList = topics[Object.keys(topics).find(k => sectionKey.includes(k)) || 'maths'] || ['Concept'];
