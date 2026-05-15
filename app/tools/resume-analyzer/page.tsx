@@ -1,6 +1,5 @@
-import React from 'react';
 import ResumeAnalyzer from '@/components/ResumeAnalyzer';
-import { Metadata } from 'next';
+import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'AI Resume Score & ATS Audit Tool 2026 | CareerWithMohit',

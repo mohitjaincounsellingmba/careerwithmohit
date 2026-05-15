@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { 
   FileText, 
   CheckCircle, 
@@ -20,14 +20,16 @@ import {
 } from 'lucide-react';
 
 // --- Types ---
+interface AuditSection {
+  title: string;
+  score: number;
+  feedback: string[];
+  status: 'good' | 'warning' | 'critical';
+}
+
 interface AuditResult {
   score: number;
-  sections: {
-    title: string;
-    score: number;
-    feedback: string[];
-    status: 'good' | 'warning' | 'critical';
-  }[];
+  sections: AuditSection[];
   suggestions: string[];
 }
 
@@ -67,7 +69,7 @@ export default function ResumeAnalyzer() {
     // Simulate API/Heavy processing
     setTimeout(() => {
       const text = resumeText.toLowerCase();
-      const sections = [];
+      const sections: AuditSection[] = [];
       let totalScore = 0;
 
       // 1. Contact Info Check
