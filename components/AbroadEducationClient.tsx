@@ -7,6 +7,7 @@ import {
   Building2, Star, Award, Globe, Plane
 } from 'lucide-react';
 import { USA_COLLEGES } from '@/data/usaColleges';
+import { CANADA_COLLEGES } from '@/data/canadaColleges';
 
 export const ABROAD_COLLEGES = [
   {
@@ -154,9 +155,10 @@ export const ABROAD_COLLEGES = [
     country: 'Australia / Dubai',
   },
   ...USA_COLLEGES,
+  ...CANADA_COLLEGES,
 ];
 
-const COUNTRIES = ['All', 'USA', 'UK', 'Australia / Dubai', 'India (Global)'];
+const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Australia / Dubai', 'India (Global)'];
 const FEE_RANGES = [
   { label: 'All', min: 0, max: Infinity },
   { label: 'Under ₹5L', min: 0, max: 500000 },
