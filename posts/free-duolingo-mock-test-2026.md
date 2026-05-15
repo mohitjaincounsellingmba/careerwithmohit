@@ -10,6 +10,8 @@ image: "/images/blog/duolingo-mock-test.jpg"
 
 The Duolingo English Test (DET) has revolutionized the way students prove their English proficiency for international admissions. Our newly launched **[Free Duolingo English Test Mock 2026](/tools/mock-test/duolingo)** is designed to provide you with the most realistic simulation of the adaptive test environment.
 
+For a complete breakdown of the exam, check out our [All About Duolingo English Test 2026](/blog/all-about-duolingo-english-test-2026) guide.
+
 ## Why Take Our Duolingo Mock Test?
 
 The Duolingo English Test is accepted by over 5,000 institutions globally, including top-tier universities in the USA, UK, Canada, and Australia. Its convenience—being able to take it from home—makes it a top choice for Indian students.
