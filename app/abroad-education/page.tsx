@@ -1,17 +1,20 @@
 import { Metadata } from 'next';
 import { BadgeCheck, Phone, ChevronDown, Globe, Plane, Award, Building2, Star } from 'lucide-react';
 import AbroadEducationClient from '@/components/AbroadEducationClient';
+import { ABROAD_COLLEGES } from '@/data/abroadColleges';
+
 
 const BASE_URL = 'https://www.careerwithmohit.online';
 const PAGE_PATH = '/abroad-education';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'Top Global MBA & Abroad Education 2026 | UK, USA, Canada, Australia | CareerWithMohit',
+  title: 'Top Global MBA & Study Abroad 2026 | UK, USA, Canada, Australia | CareerWithMohit',
   description:
     'Explore and compare 380+ top global programs and universities abroad (UK, USA, Canada, Australia, New Zealand, Ireland, Germany, Dubai) for 2026. Find fees, accreditations, and get free expert admission assistance.',
   keywords: [
     'study abroad 2026',
+    'study abroad consultants',
     'global MBA online 2026',
     'MBA in UK from India',
     'MBA in USA online fees',
@@ -30,8 +33,21 @@ export const metadata: Metadata = {
   alternates: {
     canonical: PAGE_URL,
   },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  authors: [{ name: 'Mohit Jain', url: BASE_URL }],
+  publisher: 'CareerWithMohit',
   openGraph: {
-    title: 'Top Global MBA & Abroad Education 2026 | Study in UK, USA, Canada, Australia',
+    title: 'Top Global MBA & Study Abroad 2026 | Study in UK, USA, Canada, Australia',
     description:
       'Compare 380+ top international universities. Fees, accreditations (AACSB, WES), and global programs. Get free counselling by Mohit Jain.',
     url: PAGE_URL,
@@ -42,13 +58,13 @@ export const metadata: Metadata = {
         url: `${BASE_URL}/og-abroad-education.png`,
         width: 1200,
         height: 630,
-        alt: 'Top Global MBA & Abroad Education 2026 - CareerWithMohit',
+        alt: 'Top Global MBA & Study Abroad 2026 - CareerWithMohit',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Top Global MBA & Abroad Education 2026',
+    title: 'Top Global MBA & Study Abroad 2026',
     description:
       'Compare 380+ global universities in UK, USA, Canada, Australia & more. Fees, WES/AACSB approvals. Free counselling by Mohit Jain.',
     images: [`${BASE_URL}/og-abroad-education.png`],
@@ -64,7 +80,7 @@ const jsonLd = {
       '@type': 'WebPage',
       '@id': PAGE_URL,
       url: PAGE_URL,
-      name: 'Top Global MBA & Abroad Education 2026 | Study in UK, USA, Canada, Australia',
+      name: 'Top Global MBA & Study Abroad 2026 | Study in UK, USA, Canada, Australia',
       description:
         'Explore and compare 380+ top global MBA programs and universities abroad for 2026. Find fees, accreditations, and get free expert counselling.',
       isPartOf: { '@id': `${BASE_URL}/#website` },
@@ -81,14 +97,13 @@ const jsonLd = {
       name: 'Top Global Universities for Indian Students 2026',
       description: 'List of top global universities offering MBA and other programs in UK, USA, Canada, Australia, Ireland, Germany, and New Zealand.',
       url: PAGE_URL,
-      numberOfItems: 380,
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Liverpool John Moores University (UK)', url: PAGE_URL },
-        { '@type': 'ListItem', position: 2, name: 'Golden Gate University (USA)', url: PAGE_URL },
-        { '@type': 'ListItem', position: 3, name: 'University of Toronto (Canada)', url: PAGE_URL },
-        { '@type': 'ListItem', position: 4, name: 'University of Melbourne (Australia)', url: PAGE_URL },
-        { '@type': 'ListItem', position: 5, name: 'Technical University of Munich (Germany)', url: PAGE_URL },
-      ],
+      numberOfItems: ABROAD_COLLEGES.length,
+      itemListElement: ABROAD_COLLEGES.map((college, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: college.name,
+        url: PAGE_URL,
+      })),
     },
     {
       '@type': 'FAQPage',
@@ -187,7 +202,7 @@ export default function AbroadEducationPage() {
               Study Abroad
               <br />
               <span className="bg-gradient-to-r from-emerald-300 to-teal-300 bg-clip-text text-transparent">
-                Elevate Globally
+                Admissions 2026
               </span>
             </h1>
             <p className="text-white/70 text-lg md:text-2xl max-w-3xl mx-auto leading-relaxed font-medium mb-12">
