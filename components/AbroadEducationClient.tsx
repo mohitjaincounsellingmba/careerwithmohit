@@ -8,7 +8,7 @@ import {
 } from 'lucide-react';
 import { ABROAD_COLLEGES } from '@/data/abroadColleges';
 
-const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'Germany', 'Sweden', 'New Zealand', 'Australia', 'Dubai', 'India (Global)'];
+const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'Germany', 'Sweden', 'Netherlands', 'New Zealand', 'Australia', 'Dubai', 'India (Global)'];
 const FEE_RANGES = [
   { label: 'All', min: 0, max: Infinity },
   { label: 'Under ₹15 Lakhs', min: 0, max: 1500000 },
@@ -237,6 +237,7 @@ const getCountryEmoji = (c: string) => {
   if (c.includes('New Zealand')) return '🇳🇿';
   if (c.includes('Germany')) return '🇩🇪';
   if (c.includes('Sweden')) return '🇸🇪';
+  if (c.includes('Netherlands')) return '🇳🇱';
   if (c.includes('Dubai')) return '🇦🇪';
   if (c.includes('India')) return '🇮🇳';
   return '🌍';
@@ -273,7 +274,7 @@ export default function AbroadEducationClient() {
               Explore Global Universities ✈️
             </h2>
             <p className="text-gray-500 font-medium max-w-xl">
-              Compare 380+ top universities from the UK, USA, Canada, Australia, New Zealand, Ireland, Germany, Sweden, and Dubai. Filter by budget, country, and accreditation to find your perfect match.
+              Compare 380+ top universities from the UK, USA, Canada, Australia, New Zealand, Ireland, Germany, Sweden, Netherlands, and Dubai. Filter by budget, country, and accreditation to find your perfect match.
             </p>
           </div>
           <button
