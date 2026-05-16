@@ -1,0 +1,26 @@
+export const MALTA_COLLEGES = [
+  { name: 'Queen Mary University of London, Malta Campus', location: 'Gozo, Malta', programs: ['Medicine (MBBS Malta)', 'Biomedical Sciences'], country: 'Malta', fee: '₹28,00,000 / yr', feeNum: 2800000 },
+  { name: 'Idea Academy', location: 'Mosta, Malta', programs: ['Business Management', 'Health Sciences', 'Education', 'Hospitality', 'Computing'], country: 'Malta', fee: '₹7,50,000 / yr', feeNum: 750000 },
+  { name: 'College De Paris, Malta Campus (Ascencia Business School)', location: 'Floriana, Malta', programs: ['Business Administration', 'International Management', 'MBA', 'Marketing'], country: 'Malta', fee: '₹8,50,000 / yr', feeNum: 850000 },
+  { name: 'London School of Commerce, Malta Campus', location: 'Floriana, Malta', programs: ['MBA', 'Business Studies', 'Management', 'Computing'], country: 'Malta', fee: '₹6,50,000 / yr', feeNum: 650000 },
+  { name: 'Global College Malta', location: 'SmartCity, Malta', programs: ['Business Administration', 'Management', 'Foundation Programs'], country: 'Malta', fee: '₹6,00,000 / yr', feeNum: 600000 },
+  { name: 'Saint Martin’s Institute of Higher Education', location: 'Hamrun, Malta', programs: ['Computing', 'Information Systems', 'Business & Commerce', 'Game Design'], country: 'Malta', fee: '₹7,00,000 / yr', feeNum: 700000 },
+  { name: 'Global Business School (GBS), Malta Campus', location: 'St. Julian’s, Malta', programs: ['Business Management', 'Health & Social Care', 'IT', 'Accounting'], country: 'Malta', fee: '₹6,80,000 / yr', feeNum: 680000 },
+  { name: 'Learnkey Training Institute', location: 'Birkirkara, Malta', programs: ['IT', 'Business', 'Accounting', 'Health & Safety', 'Hospitality'], country: 'Malta', fee: '₹5,50,000 / yr', feeNum: 550000 },
+  { name: 'Yhank Institute', location: 'Malta', programs: ['Business Management', 'IT', 'Health Care', 'Tourism'], country: 'Malta', fee: '₹6,00,000 / yr', feeNum: 600000 },
+  { name: 'European Business School, Malta', location: 'St. Julian’s, Malta', programs: ['Business', 'Management', 'Marketing', 'Finance'], country: 'Malta', fee: '₹7,50,000 / yr', feeNum: 750000 },
+  { name: 'European Global Institute of Innovations & Technology (EGIIT)', location: 'St. Julian’s, Malta', programs: ['Engineering', 'IT', 'Innovation Management', 'Entrepreneurship'], country: 'Malta', fee: '₹8,00,000 / yr', feeNum: 800000 },
+  { name: 'La Vallette Institute', location: 'Ta’ Xbiex, Malta', programs: ['Business', 'Maritime Studies', 'Management', 'IT'], country: 'Malta', fee: '₹6,50,000 / yr', feeNum: 650000 }
+].map(u => ({
+  ...u,
+  accreditation: 'MFHEA Accredited',
+  badge: 'Malta Focus',
+  grade: 'A',
+  gradeColor: 'from-red-500 to-red-700',
+  about: `Top institution in ${u.location}. Explore programs including ${u.programs.join(', ')}. Malta offers affordable European education, English as an official language, and a booming tech & gaming industry.`,
+  highlights: ['Schengen Area Member', 'English Speaking Country', 'Affordable Tuition & Living', 'Post-Study Work Opportunities'],
+  duration: '1–2 years (PG) / 3 years (UG)',
+  mode: 'On-Campus',
+  approvals: 'Malta Further and Higher Education Authority (MFHEA)',
+  whatsapp: '919560020771',
+}));
