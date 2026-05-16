@@ -22,7 +22,7 @@ export const FINLAND_COLLEGES = [
   grade: 'A',
   gradeColor: 'from-blue-400 to-blue-600',
   about: `Prestigious institution in ${u.location}, Finland. Explore high-quality programs including ${u.programs.join(', ')}. Finland is known for the world's best education system, safety, and innovation.`,
-  highlights: ['World\\'s Happiest Country', 'Post-Study Work Visa (up to 2 years)', 'High-Quality Education System', 'Strong Tech & IT Industry'],
+  highlights: ["World's Happiest Country", 'Post-Study Work Visa (up to 2 years)', 'High-Quality Education System', 'Strong Tech & IT Industry'],
   duration: '1–2 years (PG) / 3.5-4 years (UG)',
   mode: 'On-Campus',
   approvals: 'Finnish Education Evaluation Centre (FINEEC)',
