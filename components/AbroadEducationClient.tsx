@@ -7,6 +7,8 @@ import {
   Building2, Star, Award, Globe, Plane
 } from 'lucide-react';
 import { ABROAD_COLLEGES } from '@/data/abroadColleges';
+import Link from 'next/link';
+import { generateCollegeSlug } from '@/lib/slugify';
 
 const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'Germany', 'Sweden', 'Netherlands', 'France', 'Finland', 'Denmark', 'Malta', 'Hungary', 'Spain', 'Poland', 'Malaysia', 'New Zealand', 'Australia'];
 const FEE_RANGES = [
@@ -395,12 +397,12 @@ export default function AbroadEducationClient() {
                   </div>
 
                   <div className="grid grid-cols-2 gap-3">
-                    <button
-                      onClick={() => setSelectedCollege(college)}
-                      className="w-full bg-[#f8f7f4] text-[#0f172a] font-bold py-3.5 rounded-xl text-xs hover:bg-gray-100 transition-colors"
+                    <Link
+                      href={`/abroad-education/${generateCollegeSlug(college.name, college.location)}`}
+                      className="w-full bg-[#f8f7f4] text-[#0f172a] font-bold py-3.5 rounded-xl text-xs hover:bg-gray-100 transition-colors flex items-center justify-center"
                     >
                       View Details
-                    </button>
+                    </Link>
                     <button
                       onClick={() => {
                         setSelectedCollege(college);
