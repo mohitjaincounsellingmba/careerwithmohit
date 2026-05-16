@@ -5,6 +5,7 @@ import { IRELAND_COLLEGES } from '@/data/irelandColleges';
 import { AUSTRALIA_COLLEGES } from '@/data/australiaColleges';
 import { NEW_ZEALAND_COLLEGES } from '@/data/newZealandColleges';
 import { GERMANY_COLLEGES } from '@/data/germanyColleges';
+import { SWEDEN_COLLEGES } from '@/data/swedenColleges';
 
 export const ABROAD_COLLEGES = [
   {
@@ -158,4 +159,5 @@ export const ABROAD_COLLEGES = [
   ...AUSTRALIA_COLLEGES,
   ...NEW_ZEALAND_COLLEGES,
   ...GERMANY_COLLEGES,
+  ...SWEDEN_COLLEGES,
 ];
