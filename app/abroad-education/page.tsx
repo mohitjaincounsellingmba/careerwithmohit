@@ -11,7 +11,7 @@ const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 export const metadata: Metadata = {
   title: 'Top Global MBA & Study Abroad 2026 | UK, USA, Canada, Australia | CareerWithMohit',
   description:
-    'Explore and compare 380+ top global programs and universities abroad (UK, USA, Canada, Australia, New Zealand, Ireland, Germany, Dubai) for 2026. Find fees, accreditations, and get free expert admission assistance.',
+    'Explore and compare 380+ top global programs and universities abroad (UK, USA, Canada, Australia, New Zealand, Europe, Malaysia) for 2026. Find fees, accreditations, and get free expert admission assistance.',
   keywords: [
     'study abroad 2026',
     'study abroad consultants',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     'WES approved degrees India',
     'AACSB accredited MBA online',
     'study in Australia 2026',
-    'study in Dubai 2026',
+    'study in Europe 2026',
     'best abroad education consultant',
     'international MBA for Indian students',
     'abroad admission assistance',
@@ -206,7 +206,7 @@ export default function AbroadEducationPage() {
               </span>
             </h1>
             <p className="text-white/70 text-lg md:text-2xl max-w-3xl mx-auto leading-relaxed font-medium mb-12">
-              Earn a world-class degree from top universities in the UK, USA, Canada, Australia, New Zealand, Ireland, Germany, and Dubai. 
+              Earn a world-class degree from top universities in the UK, USA, Canada, Australia, New Zealand, Europe, and Malaysia. 
               Globally recognized, WES-approved, and career-transforming.
             </p>
 
@@ -214,7 +214,7 @@ export default function AbroadEducationPage() {
             <div className="mt-14 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-3xl mx-auto">
               {[
                 { num: '380+', label: 'Global Univ' },
-                { num: '₹1.8L', label: 'Starting Fee' },
+                { num: '₹65K', label: 'Starting Fee' },
                 { num: '100%', label: 'WES Approved' },
                 { num: 'AACSB', label: 'Accredited' },
               ].map((s) => (
