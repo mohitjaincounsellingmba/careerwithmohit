@@ -23,6 +23,10 @@ export const metadata: Metadata = {
     template: "%s | CareerWithMohit",
   },
   description: "Expert career guidance, MBA admissions consulting, and interview prep by Mohit Jain. Uncompromised strategies for CAT 2026 & professional success.",
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+  },
   keywords: [
     "career counselling", "MBA admissions 2026", "B.Tech admissions", "Engineering colleges Delhi NCR",
     "CAT 2026 preparation", "Direct MBA admission", "MBA specializations 2026", "ROI MBA colleges",
