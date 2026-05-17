@@ -213,8 +213,8 @@ export default function AbroadEducationPage() {
             {/* Stats */}
             <div className="mt-14 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-3xl mx-auto">
               {[
-                { num: '380+', label: 'Global Univ' },
-                { num: '₹65K', label: 'Starting Fee' },
+                { num: '520+', label: 'Global Univ' },
+                { num: '₹3.5L', label: 'Starting Fee' },
                 { num: '100%', label: 'WES Approved' },
                 { num: 'AACSB', label: 'Accredited' },
               ].map((s) => (
