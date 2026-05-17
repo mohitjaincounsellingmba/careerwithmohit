@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="bg-grad" cx="50%" cy="50%" r="70%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </radialGradient>
+    
+    <!-- Metallic Gold Gradient -->
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCE881"/>
+      <stop offset="30%" stop-color="#C5A02B"/>
+      <stop offset="70%" stop-color="#FEEA9A"/>
+      <stop offset="100%" stop-color="#B38728"/>
+    </linearGradient>
+
+    <!-- Deep Blue Accent Gradient -->
+    <linearGradient id="blue-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Circular Outer Background -->
+  <circle cx="256" cy="256" r="240" fill="url(#bg-grad)" stroke="url(#gold-grad)" stroke-width="8"/>
+  
+  <!-- Outer Compass Ring -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="url(#gold-grad)" stroke-width="4" stroke-dasharray="12 8"/>
+  
+  <!-- Compass Points (North, South, East, West) -->
+  <!-- North Point -->
+  <polygon points="256,20 270,60 256,52" fill="url(#gold-grad)"/>
+  <polygon points="256,20 242,60 256,52" fill="#B38728"/>
+  
+  <!-- South Point -->
+  <polygon points="256,492 270,452 256,460" fill="url(#gold-grad)"/>
+  <polygon points="256,492 242,452 256,460" fill="#B38728"/>
+  
+  <!-- East Point -->
+  <polygon points="492,256 452,270 460,256" fill="url(#gold-grad)"/>
+  <polygon points="492,256 452,242 460,256" fill="#B38728"/>
+  
+  <!-- West Point -->
+  <polygon points="20,256 60,270 52,256" fill="url(#gold-grad)"/>
+  <polygon points="20,256 60,242 52,256" fill="#B38728"/>
+  
+  <!-- Inner Compass Rose Star -->
+  <g transform="translate(256, 256) scale(1.4)">
+    <!-- Diagonal Points -->
+    <polygon points="0,0 12,-35 0,-80" fill="url(#gold-grad)" opacity="0.8"/>
+    <polygon points="0,0 -12,-35 0,-80" fill="#B38728" opacity="0.8"/>
+    
+    <polygon points="0,0 12,35 0,80" fill="url(#gold-grad)" opacity="0.8"/>
+    <polygon points="0,0 -12,35 0,80" fill="#B38728" opacity="0.8"/>
+
+    <polygon points="0,0 35,-12 80,0" fill="url(#gold-grad)" opacity="0.8"/>
+    <polygon points="0,0 35,12 80,0" fill="#B38728" opacity="0.8"/>
+
+    <polygon points="0,0 -35,-12 -80,0" fill="url(#gold-grad)" opacity="0.8"/>
+    <polygon points="0,0 -35,12 -80,0" fill="#B38728" opacity="0.8"/>
+  </g>
+
+  <!-- Central Graduation Cap -->
+  <!-- Cap Diamond Board -->
+  <polygon points="256,120 420,180 256,240 92,180" fill="url(#blue-grad)" stroke="url(#gold-grad)" stroke-width="8" stroke-linejoin="round"/>
+  
+  <!-- Cap Skull Base -->
+  <path d="M160,205 L160,270 C160,310 352,310 352,270 L352,205" fill="url(#blue-grad)" stroke="url(#gold-grad)" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- Tassel Button -->
+  <circle cx="256" cy="180" r="10" fill="url(#gold-grad)"/>
+  
+  <!-- Tassel Cord and Fringe -->
+  <path d="M256,180 Q320,190 350,230" fill="none" stroke="url(#gold-grad)" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="350,230 338,260 362,260" fill="url(#gold-grad)"/>
+</svg>
