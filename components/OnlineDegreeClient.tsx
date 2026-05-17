@@ -572,8 +572,8 @@ export const COLLEGES = [
   {
     name: 'Birchwood University (USA)',
     location: 'Florida, USA',
-    fee: '₹65,500',
-    feeNum: 65500,
+    fee: '₹4,03,000',
+    feeNum: 403000,
     accreditation: 'Florida CIE | CECU | QAHE',
     programs: ['Global MBA', 'DBA', 'M.Sc Data Science'],
     badge: 'Affordable US',

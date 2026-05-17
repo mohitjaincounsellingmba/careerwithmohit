@@ -17,7 +17,7 @@ As we move into the 2026-27 academy session, Birchwood University Online is a to
 | **Global Recognition** | WES Approved (PR-Ready) |
 | **Total Programs** | Global MBA, DBA, M.Sc Data Science |
 | **Learning Mode** | 100% Online (Taught by Industry-Experienced US Faculty) |
-| **Starting Fee** | Approx. ₹70,000 (Total program) |
+| **Starting Fee** | Approx. ₹4,03,000 (Total program) |
 | **Key Advantage** | Most Affordable Genuine US Online Degree |
 
 👉 **[Start Your US Career Journey with Birchwood Online](/inquiry)**
@@ -28,17 +28,17 @@ Birchwood's online programs are optimized for the 2026 global workforce:
 ### 1. Global MBA (Postgraduate)
 - **Specializations:** Business Strategy, Data Analytics, Fintech, International Business.
 - **Duration:** 15-18 Months.
-- **Approx. Fee:** ₹65,500 (Total).
+- **Approx. Fee:** ₹4,03,000 (Total).
 - **USP:** Focused on building managerial competence for global SMEs and startups.
 
 ### 2. M.Sc Data Science / AI
 - **Duration:** 15-18 Months.
-- **Approx. Fee:** ₹75,000.
+- **Approx. Fee:** ₹8,84,000.
 - **USP:** Industry-ready tech curriculum with strong US faculty support.
 
 ### 3. Doctor of Business Administration (DBA)
 - **Duration:** 2-3 Years.
-- **Approx. Fee:** ₹2,50,000.
+- **Approx. Fee:** ₹6,00,000.
 - **USP:** Highest academic level US credential for senior executives seeking global leadership positions.
 
 ## Why Choose Birchwood University Online?
