@@ -7,7 +7,7 @@ import { JsonLd } from '@/components/JsonLd';
 import Link from 'next/link';
 
 interface Props {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }
 
 export async function generateStaticParams() {
@@ -17,8 +17,9 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
   const college = ABROAD_COLLEGES.find(
-    (c) => generateCollegeSlug(c.name, c.location) === params.slug
+    (c) => generateCollegeSlug(c.name, c.location) === slug
   );
 
   if (!college) {
@@ -43,9 +44,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export default function CollegePage({ params }: Props) {
+export default async function CollegePage({ params }: Props) {
+  const { slug } = await params;
   const college = ABROAD_COLLEGES.find(
-    (c) => generateCollegeSlug(c.name, c.location) === params.slug
+    (c) => generateCollegeSlug(c.name, c.location) === slug
   );
 
   if (!college) {
@@ -56,7 +58,7 @@ export default function CollegePage({ params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'CollegeOrUniversity',
     name: college.name,
-    url: `https://www.careerwithmohit.online/abroad-education/${params.slug}`,
+    url: `https://www.careerwithmohit.online/abroad-education/${slug}`,
     location: {
       '@type': 'Place',
       name: college.location,
