@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Instagram, Linkedin, Facebook, Youtube, Github, Send, ArrowRight, ExternalLink, Phone, Mail } from 'lucide-react';
 
-export function Footer({ instagramGallery }: { instagramGallery?: React.ReactNode }) {
+export function Footer() {
   const currentYear = new Date().getFullYear();
 
   const footerLinks = {
@@ -81,7 +81,7 @@ export function Footer({ instagramGallery }: { instagramGallery?: React.ReactNod
       </div>
 
       <div className="mx-auto max-w-7xl px-6 py-16 sm:px-12 relative z-10">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 lg:gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
           {/* Column 1: Brand */}
           <div className="space-y-8">
             <div className="flex flex-col gap-6">
@@ -194,12 +194,6 @@ export function Footer({ instagramGallery }: { instagramGallery?: React.ReactNod
             </ul>
           </div>
 
-          {/* Column 5: Instagram Gallery */}
-          {instagramGallery && (
-            <div className="lg:col-span-1 md:col-span-2 lg:col-span-1">
-              {instagramGallery}
-            </div>
-          )}
         </div>
 
         {/* BOTTOM BAR */}
