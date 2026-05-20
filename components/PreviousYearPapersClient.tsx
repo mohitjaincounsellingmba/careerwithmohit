@@ -18,7 +18,7 @@ const EXAMS = [
       { year: 2023, slot: 'Slot 1, 2 & 3', link: '/papers/cat-2023.pdf' },
       { year: 2022, slot: 'Slot 1, 2 & 3', link: '/papers/cat-2022.pdf' },
       { year: 2021, slot: 'Slot 1, 2 & 3', link: '/papers/cat-2021.pdf' },
-      { year: 2020, slot: 'Slot 1, 2 & 3', link: '/papers/cat-2020.pdf' },
+      { year: 2020, slot: 'Slot 1, 2 & 3', link: 'https://drive.google.com/file/d/1zXc7FLgv7_gp3_rzj0q2wHGbW_sB9w28/view?usp=drive_link' },
       { year: 2019, slot: 'Slot 1 & 2', link: 'https://drive.google.com/file/d/1PCIFXKoHJBnJa9EnWwX7VlJ9jTeloFBr/view?usp=drive_link' },
       { year: 2018, slot: 'Slot 1 & 2', link: '/papers/cat-2018.pdf' },
       { year: 2017, slot: 'Slot 1 & 2', link: '/papers/cat-2017.pdf' },
