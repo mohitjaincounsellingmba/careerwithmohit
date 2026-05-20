@@ -18,9 +18,7 @@ export function QuestionCard({ question, index }: QuestionCardProps) {
 
   return (
     <div className="bg-white border-4 border-foreground p-6 rounded-xl shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 transition-all relative overflow-hidden">
-      <div className="absolute top-0 right-0 bg-slate-100 text-slate-500 text-[10px] font-black uppercase px-3 py-1 rounded-bl-lg border-l-2 border-b-2 border-slate-200">
-        Source: 2IIM
-      </div>
+
       <div className="flex items-start gap-4 mb-6">
         <div className="bg-primary text-white w-10 h-10 rounded-lg flex items-center justify-center font-black flex-shrink-0 border-2 border-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
           {index + 1}
@@ -73,7 +71,7 @@ export function QuestionCard({ question, index }: QuestionCardProps) {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-primary font-bold hover:underline"
             >
-              View detailed video solution on 2IIM <ExternalLink className="w-4 h-4" />
+              View detailed video solution <ExternalLink className="w-4 h-4" />
             </a>
           </div>
         )}

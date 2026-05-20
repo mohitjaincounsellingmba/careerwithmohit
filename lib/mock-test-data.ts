@@ -1101,7 +1101,7 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
         text: q.questionText,
         options: q.options,
         correctAnswer: q.options.indexOf(q.correctAnswer),
-        explanation: `Source: 2IIM. View explanation at ${q.explanationUrl}`
+        explanation: `View explanation at ${q.explanationUrl}`
       });
     });
     realData = catMap;

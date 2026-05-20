@@ -259,19 +259,7 @@ export default function PreviousYearPapersClient() {
                     <QuestionCard key={q.id} question={q} index={index} />
                   ))}
                   
-                  <div className="bg-primary/5 border-4 border-primary/20 p-8 rounded-2xl text-center">
-                    <p className="text-xl font-bold text-slate-600 mb-6">
-                      Want to practice more actual {selectedExam.name} questions with video solutions?
-                    </p>
-                    <a 
-                      href="https://online.2iim.com/CAT-question-paper/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-3 px-8 py-4 bg-primary text-white font-black uppercase tracking-widest rounded-xl border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 active:translate-y-1 transition-all"
-                    >
-                      Visit 2IIM Question Bank <ExternalLink className="w-6 h-6" />
-                    </a>
-                  </div>
+
                 </div>
               </div>
             )}
