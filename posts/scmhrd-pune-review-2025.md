@@ -2,7 +2,7 @@
 title: "[SCMHRD Pune](/colleges/scmhrd-pune) MBA Review 2025: Placements, Fees, and HR Core"
 date: "2026-03-14"
 description: "Is SCMHRD the best for HR? Explore [SCMHRD Pune](/colleges/scmhrd-pune) MBA placements 2025, verified fees, SNAP cut-offs, and why it ranks among India's top B-schools."
-keywords: ["SCMHRD Pune review 2025", "SCMHRD Pune MBA placements", "SCMHRD Pune fees", "SNAP cut off for SCMHRD", "best HR MBA college in India", "SCMHRD Pune average package 2025"]
+keywords: ["[SCMHRD Pune](/colleges/scmhrd-pune) review 2025", "SCMHRD Pune MBA placements", "SCMHRD Pune fees", "SNAP cut off for SCMHRD", "best HR MBA college in India", "SCMHRD Pune average package 2025"]
 ---
 
 SCMHRD (Symbiosis Centre for Management and Human Resource Development) is a premier institute renowned specifically for its Human Resources (HR) program, often ranked as one of the best in Asia. However, its Business Analytics and Infrastructure Management programs are also gaining significant traction.

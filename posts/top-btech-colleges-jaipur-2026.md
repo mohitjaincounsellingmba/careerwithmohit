@@ -16,8 +16,8 @@ This guide covers the **top B.Tech colleges in Jaipur for 2026** with fees, REAP
 
 | College | Type | Annual Fees | Avg Package | Entrance Exam |
 |---|---|---|---|---|
-| MNIT Jaipur | Central Govt (NIT) | ₹1.7 L/yr | ₹8–14 LPA | JEE Main |
-| Manipal University Jaipur | Private Deemed | ₹2.3 L/yr | ₹6–10 LPA | MU OET / JEE |
+| [MNIT Jaipur](/colleges/mnit-jaipur) | Central Govt (NIT) | ₹1.7 L/yr | ₹8–14 LPA | JEE Main |
+| [Manipal University Jaipur](/colleges/manipal-university-jaipur) | Private Deemed | ₹2.3 L/yr | ₹6–10 LPA | MU OET / JEE |
 | [JECRC University](/colleges/jecrc-jaipur) | Private | ₹1.2 L/yr | ₹5–8 LPA | REAP / Direct |
 | Poornima College of Engg. | Private (Autonomous) | ₹1.1 L/yr | ₹4–7 LPA | REAP / Direct |
 | SKIT Jaipur | Private | ₹1.0 L/yr | ₹4–7 LPA | REAP / Direct |
@@ -111,7 +111,7 @@ If your REAP rank isn't enough for your desired college, management quota is ava
 ## FAQs — B.Tech Colleges in Jaipur 2026
 
 **Q1. Which is the best B.Tech college in Jaipur?**
-MNIT Jaipur is the top government engineering college. Among private colleges, Manipal University Jaipur is the highest-ranked, followed by JECRC University.
+MNIT Jaipur is the top government engineering college. Among private colleges, Manipal University Jaipur is the highest-ranked, followed by [JECRC University](/colleges/jecrc-jaipur).
 
 **Q2. What JEE Main rank is needed for MNIT Jaipur CSE?**
 For the general category, a JEE Main rank below 3,500 (CRL) is typically required for CSE at MNIT Jaipur.

@@ -33,7 +33,7 @@ Akemi’s placement record is consistently impressive, rivaling even the most es
 
 For a student deciding between these three, here is the breakdown:
 
-| Feature | **Akemi Business School** | **ISMS Pune** | **RIIM Pune** |
+| Feature | **Akemi Business School** | **[ISMS Pune](/colleges/isms-pune)** | **[RIIM Pune](/colleges/riim-pune)** |
 | :--- | :--- | :--- | :--- |
 | **Primary Strength** | Personal Mentoring & Digital Edge | International Exposure | High Return on Investment (ROI) |
 | **Typical Fees** | ₹5.90 Lakhs | ₹7.50 Lakhs | ₹7.20 Lakhs |

@@ -29,7 +29,7 @@ Whether you're aimimg for a Tier-1 brand or a high-ROI private institute, this g
 
 ## 🏛️ Tier 1: The Leaders (Top 1% in India)
 
-### 1. IIM Bangalore (IIM-B)
+### 1. [IIM Bangalore](/colleges/iim-bangalore) (IIM-B)
 Often fighting for the #1 spot in India with [IIM Ahmedabad](/colleges/iim-ahmedabad). IIM-B's placement records are legendary, especially in Consulting and Finance.
 - **Top Recruiters:** BCG, McKinsey, Goldman Sachs, Bain & Co.
 - **Why Choose It:** If you have the CAT percentile (99.8+), there is no better choice.

@@ -2,7 +2,7 @@
 title: "DTU Delhi BBA Admission 2026: Fees, Placements & CUET Guide"
 date: "2026-05-15"
 category: "BBA Admissions"
-description: "Planning to join DTU (Delhi Technological University) for BBA in 2026? Learn about the admission process via CUET, latest fees, and strong placements."
+description: "Planning to join [DTU (Delhi Technological University)](/colleges/dtu-delhi) for BBA in 2026? Learn about the admission process via CUET, latest fees, and strong placements."
 keywords: ["dtu delhi bba admission 2026", "dtu bba fees", "dtu bba placement 2026", "dtu usme bba admission", "best bba college in delhi", "dtu cuet cutoff 2026"]
 ---
 

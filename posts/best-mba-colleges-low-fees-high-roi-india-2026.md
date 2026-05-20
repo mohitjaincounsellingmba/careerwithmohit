@@ -29,7 +29,7 @@ The answer is a resounding **YES**. India is home to several elite, government-r
 
 ## 🏛️ The "Big Three" of ROI
 
-### 1. FMS Delhi (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
 The undisputed king of ROI globally. FMS belongs to the University of Delhi. 
 - **Fees:** ~₹1 Lakh per year.
 - **Top Recruiters:** Goldman Sachs, BCG, Microsoft, HUL.

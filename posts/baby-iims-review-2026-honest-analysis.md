@@ -60,7 +60,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹15.8 LPA | **Highest**: ~₹30+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: CAP Interview
 - **Campus**: Permanent campus in Bodh Gaya, Bihar
-- **Mentor**: IIM Calcutta — rigorous quantitative pedagogy
+- **Mentor**: [IIM Calcutta](/colleges/iim-calcutta) — rigorous quantitative pedagogy
 - **Special Feature**: **SAPS (Special Aptitude Process for Students)** for girl candidates, promoting gender diversity
 - **Verdict**: IIM Calcutta mentorship brings academic rigour. Bihar location limits some recruiter access, but placement numbers are improving.
 
@@ -85,7 +85,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **CAT Cutoff**: 92+ Percentile | **Admission**: Personal Interview (PI)
 - **Campus**: Permanent campus in Nagpur
 - **Mentor**: **[IIM Ahmedabad](/colleges/iim-ahmedabad)** — the most prestigious mentorship among Baby IIMs
-- **Verdict**: **Arguably the strongest Baby IIM** due to IIM Ahmedabad mentorship. Academic standards are exceptionally high. Nagpur is a growing corporate hub — adds recruiter access.
+- **Verdict**: **Arguably the strongest Baby IIM** due to [IIM Ahmedabad](/colleges/iim-ahmedabad) mentorship. Academic standards are exceptionally high. Nagpur is a growing corporate hub — adds recruiter access.
 
 ---
 
@@ -119,7 +119,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **CAT Cutoff**: 92+ Percentile | **Admission**: Personal Interview (PI)
 - **Campus**: Permanent campus in Vizag
 - **Mentor**: **[IIM Bangalore](/colleges/iim-bangalore)** — highly respected mentorship
-- **Verdict**: IIM Bangalore mentorship elevates its academic credibility significantly. Vizag's growing IT and pharma sector provides good industry exposure. One of the better Baby IIM choices.
+- **Verdict**: [IIM Bangalore](/colleges/iim-bangalore) mentorship elevates its academic credibility significantly. Vizag's growing IT and pharma sector provides good industry exposure. One of the better Baby IIM choices.
 
 ---
 

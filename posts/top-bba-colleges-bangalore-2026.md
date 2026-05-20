@@ -65,7 +65,7 @@ Absolutely. Christ BBA focuses on case studies, presentations, and corporate eti
 **Q2. When is the Christ University BBA entrance 2026?**
 The entrance tests (CUET) are usually held in **March/April** in multiple slots.
 
-**Q3. What is the average package at NMIMS Bangalore BBA?**
+**Q3. What is the average package at [NMIMS Bangalore](/colleges/nmims-bangalore) BBA?**
 The average package for the 2025 batch was approximately **₹10.5 LPA**, with the highest hitting ₹20L+.
 
 **Q4. does Mount Carmel College offer BBA for boys?**

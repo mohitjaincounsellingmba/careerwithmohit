@@ -42,7 +42,7 @@ In this 2026-28 batch comparison, we breakdown why NDIM's premium positioning an
 
 #### **Choose FOSTIIMA IF:**
 - You are looking for a **high-ROI placement** and are comfortable with a newer, faster-growing brand.
-- You want a curriculum modeled strictly on the **IIM Ahmedabad** system.
+- You want a curriculum modeled strictly on the **[IIM Ahmedabad](/colleges/iim-ahmedabad)** system.
 - You prefer a campus in **Dwarka** with a more compact, focused learning group.
 
 ---

@@ -73,7 +73,7 @@ CAT scores are calculated as percentiles relative to all test-takers (usually 3 
 ### 1. What is the CAT 2026 exam date?
 CAT 2026 is expected to be held on **November 29, 2026** (the last Sunday of November).
 
-### 2. What is the minimum percentile for IIM Ahmedabad?
+### 2. What is the minimum percentile for [IIM Ahmedabad](/colleges/iim-ahmedabad)?
 Typically, a percentile of **99.5+** is required for General category students to receive an interview call from IIM Ahmedabad.
 
 ### 3. Is CAT syllabus fixed?

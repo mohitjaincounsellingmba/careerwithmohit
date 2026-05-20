@@ -94,7 +94,7 @@ After UPTAC counselling is complete, unsold/leftover seats at private AKTU colle
 ## FAQs — B.Tech Colleges in Lucknow 2026
 
 **Q1. Which is the best B.Tech college in Lucknow?**
-IET Lucknow (HBTU) is Lucknow's top engineering institution for government education. Among private colleges, Amity University Lucknow is the most recognised brand.
+IET Lucknow (HBTU) is Lucknow's top engineering institution for government education. Among private colleges, [Amity University](/colleges/amity-noida) Lucknow is the most recognised brand.
 
 **Q2. What UPTAC rank is needed for IET Lucknow CSE?**
 Approximately a UP State Merit Rank of 2,000 or below (General category) is needed for Computer Science at IET Lucknow (HBTU).

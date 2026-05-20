@@ -21,7 +21,7 @@ In this comprehensive guide, we break down all 16 Symbiosis MBA institutes, deta
 These three institutes are the crown jewels of Symbiosis, commanding the highest SNAP cutoffs and offering the best return on investment (ROI).
 
 ### 1. SIBM, Pune (Symbiosis Institute of Business Management)
-Established in 1978, SIBM Pune is the flagship institute and consistently ranks among the top 15 B-schools in India.
+Established in 1978, [SIBM Pune](/colleges/sibm-pune) is the flagship institute and consistently ranks among the top 15 B-schools in India.
 * **Flagship Program:** MBA (General), MBA (Innovation & Entrepreneurship)
 * **Total Fees:** ₹30.24 Lakhs (including hostel/mess)
 * **Expected SNAP Cutoff:** 98 - 99 Percentile (41+ marks)

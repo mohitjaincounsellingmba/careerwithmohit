@@ -38,7 +38,7 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 
 | College Name | Annual Fees | Top Recruiters | Rating |
 | :--- | :--- | :--- | :--- |
-| **UPES Dehradun** | ₹4.0 Lakhs | Accenture, Amazon | ⭐⭐⭐⭐ |
+| **[UPES Dehradun](/colleges/upes-dehradun)** | ₹4.0 Lakhs | Accenture, Amazon | ⭐⭐⭐⭐ |
 | **Graphic Era** | ₹1.3 Lakhs | Infosys, Wipro | ⭐⭐⭐⭐⭐ |
 | **Doon Univ** | ₹0.5 Lakhs | Local Firms | ⭐⭐⭐⭐ |
 

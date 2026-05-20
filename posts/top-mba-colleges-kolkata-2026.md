@@ -16,7 +16,7 @@ Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI g
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **IIM Calcutta** | CAT | ₹25.0 Lakhs | ₹35.07 LPA |
+| **[IIM Calcutta](/colleges/iim-calcutta)** | CAT | ₹25.0 Lakhs | ₹35.07 LPA |
 | **VGSOM, IIT Kharagpur**| CAT | ₹11.5 Lakhs | ₹22.13 LPA |
 | **[IMI Kolkata](/colleges/imi-kolkata)** | CAT/XAT/GMAT | ₹14.5 Lakhs | ₹10.65 LPA |
 | **IISWBM** | CAT / MAT | ₹6.0 Lakhs | ₹8.5 LPA |
@@ -38,7 +38,7 @@ The "Joka" campus is arguably the best B-school in Asia for **Finance and Quanti
 Technically located in Kharagpur (2 hours from Kolkata), its placements and brand are deeply integrated with the Kolkata corporate ecosystem.
 - **ROI Tip:** For a fee of ~₹11 Lakhs, getting a ₹22 LPA average is one of India's best ROI stories.
 
-### 3. IMI Kolkata
+### 3. [IMI Kolkata](/colleges/imi-kolkata)
 The sibling of the famous IMI New Delhi. It has quickly built a reputation for its corporate connections in the manufacturing and IT sectors of North and East India.
 
 ---

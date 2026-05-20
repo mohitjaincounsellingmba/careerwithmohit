@@ -160,7 +160,7 @@ Perfect for students looking for decent placements with moderate entrance scores
 ### 1. Which is the best MBA college in Pune for high ROI?
 **PUMBA** is the best college for ROI, with fees around ₹1.3 Lakh and average placements near ₹9 LPA.
 
-### 2. Is SIBM Pune better than SCMHRD?
+### 2. Is [SIBM Pune](/colleges/sibm-pune) better than SCMHRD?
 Both are elite. **SIBM** is generally preferred for Marketing and General Management, while **SCMHRD** is a national leader in HR.
 
 ### 3. Can I get direct admission in Pune MBA colleges?

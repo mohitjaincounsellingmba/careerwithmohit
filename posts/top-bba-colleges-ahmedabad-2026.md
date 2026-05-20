@@ -27,7 +27,7 @@ Whether you are targeting the academic rigor of Nirma or the liberal arts approa
 
 ## 🏛️ The Ahmedabad Powerhouses
 
-### 1. Nirma University (Institute of Management)
+### 1. [Nirma University](/colleges/nirma-university) (Institute of Management)
 The flagship BBA program in Gujarat. Nirma is famous for its **Integrated BBA-MBA (5 years)** and its separate 3-year BBA program.
 - **Top Choice:** For students targeting rigorous corporate management roles.
 - **Selection:** Nirma uses **IPMAT (Indore)** scores for its BBA-MBA program, making it a Tier-1 destination.

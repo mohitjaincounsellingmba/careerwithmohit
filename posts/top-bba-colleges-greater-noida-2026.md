@@ -19,7 +19,7 @@ Here are the **Top BBA Colleges in Greater Noida for 2026**.
 - **Entrance Exam:** Merit-based / CUET
 - **USP:** Massive popularity, very strong placement cell, and one of the most vibrant student cultures in NCR.
 
-### 2. Bennett University (Times of India Group)
+### 2. [Bennett University](/colleges/bennett-greater-noida) (Times of India Group)
 - **Approx. Fees:** ₹3.5 - 4.0 Lakhs (Annual)
 - **Average Placement:** ₹6 - 8 LPA (Highest ₹15 LPA+)
 - **Entrance Exam:** Merit-based (12th Score) / SAT

@@ -16,14 +16,14 @@ In this guide, we have categorized the **20 Best MBA Colleges in Delhi NCR** int
 ## Tier 1: The Elite & Global Leaders
 These institutions are globally recognized and offer the highest Return on Investment (ROI) or premium corporate paths.
 
-### 1. FMS Delhi (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
 - **Status:** The ROI King of India.
 - **Fees:** ₹2.32 Lakhs (Total)
 - **Average Placement:** ₹30.1 LPA (Highest ₹1.01 Cr)
 - **Entrance Exam:** CAT (99.8+ Percentile)
 - **USP:** Extremely low fees with packages at par with top IIMs.
 
-### 2. MDI Gurgaon (Management Development Institute)
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
 - **Status:** One of the oldest and most respected private B-schools.
 - **Fees:** ₹25.0 Lakhs
 - **Average Placement:** ₹27.6 LPA

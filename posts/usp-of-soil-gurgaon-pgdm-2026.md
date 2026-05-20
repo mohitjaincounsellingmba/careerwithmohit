@@ -9,7 +9,7 @@ If you've been shortlisting B-schools in Delhi-NCR and wondering why **[SOIL Ins
 
 SOIL doesn't compete on the traditional B-school metrics of CAT cutoffs and campus size. It competes on **the kind of leader it produces** — and that's a distinction very few institutes in India can claim.
 
-Here are the **10 real USPs of SOIL Institute of Management, Gurgaon** for the 2026-28 batch.
+Here are the **10 real USPs of [SOIL Institute of Management](/colleges/soil-institute-gurgaon), Gurgaon** for the 2026-28 batch.
 
 ---
 

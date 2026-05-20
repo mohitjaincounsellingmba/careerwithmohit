@@ -7,7 +7,7 @@ keywords: ["SNAP exam 2026", "SNAP total marks", "SNAP exam pattern", "[SIBM Pun
 
 The Symbiosis National Aptitude Test (SNAP) is a highly specialized management entrance exam conducted exclusively for admission into the 16 MBA institutes operating under the Symbiosis International (Deemed) University (SIU). 
 
-If you are aiming for prestigious campuses like SIBM Pune or [SCMHRD Pune](/colleges/scmhrd-pune), cracking SNAP is your only way in.
+If you are aiming for prestigious campuses like [SIBM Pune](/colleges/sibm-pune) or [SCMHRD Pune](/colleges/scmhrd-pune), cracking SNAP is your only way in.
 
 Here is the ultimate guide to the SNAP exam for 2026 admissions:
 
@@ -44,7 +44,7 @@ SNAP is famously known as a "test of speed." It gives you the least amount of ti
 Symbiosis institutes rely heavily on extremely high percentile groupings due to the 60-mark structure.
 
 - **SIBM Pune (Flagship MBA):** 98.0+ to 98.5+ Percentile (~40 to 44 Marks)
-- **SCMHRD Pune (Flagship MBA & HR):** 97.0+ to 97.5+ Percentile (~38 to 41 Marks)
+- **[SCMHRD Pune](/colleges/scmhrd-pune) (Flagship MBA & HR):** 97.0+ to 97.5+ Percentile (~38 to 41 Marks)
 - **SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore):** 90.0+ to 93.0+ Percentile (~35 Marks)
 - **SSBF, SIOM Nashik, SICSR:** 80.0+ to 85.0+ Percentile
 

@@ -2,7 +2,7 @@
 title: "[Poornima University](/colleges/poornima-jaipur) GCEC MBA Review 2026: The Best ROI in Jaipur?"
 date: "2026-03-25"
 description: "Is [Poornima University](/colleges/poornima-jaipur)’s GCEC MBA the right choice for entrepreneurs? Explore specializations in International Finance (ACCA/CMA) and Sustainability, fees, and placements in our 2026 review."
-keywords: ["Poornima University GCEC MBA review 2026", "GCEC Jaipur MBA placement package", "MBA International Finance ACCA Jaipur", "Poornima University MBA fees 2026", "Global Centre for Entrepreneurship and Commerce reviews", "best MBA for entrepreneurship in Rajasthan"]
+keywords: ["[Poornima University](/colleges/poornima-jaipur) GCEC MBA review 2026", "GCEC Jaipur MBA placement package", "MBA International Finance ACCA Jaipur", "Poornima University MBA fees 2026", "Global Centre for Entrepreneurship and Commerce reviews", "best MBA for entrepreneurship in Rajasthan"]
 ---
 
 Rajasthan is rapidly becoming a hub for startups and specialized education. Leading this change is the **Global Centre for Entrepreneurship and Commerce (GCEC)**, in collaboration with **Poornima University, Jaipur**. 

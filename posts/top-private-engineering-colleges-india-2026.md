@@ -64,7 +64,7 @@ Thapar is one of North India's best private engineering universities, with a str
 
 ### 3. [VIT Vellore](/colleges/vit-vellore) — India's Largest Private Engineering University
 
-VIT Vellore (Vellore Institute of Technology) is Asia's largest private technical university with 20,000+ B.Tech students. Known for consistent mass placements.
+[VIT Vellore](/colleges/vit-vellore) (Vellore Institute of Technology) is Asia's largest private technical university with 20,000+ B.Tech students. Known for consistent mass placements.
 
 - **Courses:** 60+ B.Tech programmes across all major branches + emerging tech
 - **Admission:** VITEEE (online exam, conducted April every year)

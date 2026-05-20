@@ -27,7 +27,7 @@ In this guide, we dive deep into the top-rated private MA colleges across Noida,
 
 ### 1. Noida & Greater Noida: The Hub of Diversity
 The Noida region is home to some of the largest private educational setups in India.
-*   **Amity University (Noida):** The most sought-after for **MA Clinical Psychology**. It has a dedicated Institute of Psychology (AIPS) with extensive lab facilities.
+*   **[Amity University](/colleges/amity-noida) (Noida):** The most sought-after for **MA Clinical Psychology**. It has a dedicated Institute of Psychology (AIPS) with extensive lab facilities.
 *   **Shiv Nadar University (Greater Noida):** Known for its "Multidisciplinary Research University" status, it is a top choice for students aiming for a PhD in Economics or Sociology.
 *   **Galgotias & Sharda:** Great for students looking for regular MA programs in Political Science, History, and Sociology with affordable fee structures compared to elite private schools.
 

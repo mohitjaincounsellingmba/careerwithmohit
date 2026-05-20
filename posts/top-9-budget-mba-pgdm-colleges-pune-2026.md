@@ -38,14 +38,14 @@ Located in Tathawade, Akemi is known for its personalized mentoring. It’s a so
 ### 2. [ASM IIBR](/colleges/asm-iibr) (MBA / PGDM)
 Part of the legacy ASM Group, IIBR offers industry-integrated programs with certifications from AWS, SAP, and Microsoft.
 - **Best For:** IT & Supply Chain Management.
-- **[Read Detailed ASM IIBR Review](/blog/asm-iibr-review-2025)**
+- **[Read Detailed [ASM IIBR](/colleges/asm-iibr) Review](/blog/asm-iibr-review-2025)**
 
-### 3. RIIM Pune (MBA / PGDM)
+### 3. [RIIM Pune](/colleges/riim-pune) (MBA / PGDM)
 RIIM is famous for its "Corporate Residency" program and heavy emphasis on soft skills and personality development.
 - **Best For:** High ROI and Sales roles.
 - **[Read Detailed RIIM Pune Review](/blog/riim-pune-review-2025)**
 
-### 4. ISMS Pune (MBA / PGDM)
+### 4. [ISMS Pune](/colleges/isms-pune) (MBA / PGDM)
 ISMS positions itself as an "International" school. While the building is compact, they focus heavily on grooming students for MNC roles.
 - **Warning:** Be careful about specialization pressure.
 - **[Read Honest ISMS Review](/blog/why-never-join-isms-pune-honest-review-2026)**
@@ -64,7 +64,7 @@ Lexicon MILE offers a more "premium" experience in the budget category. They foc
 - **Best For:** Finance and Digital Marketing.
 - **[Read Detailed MILE Review](/blog/lexicon-mile-pune-review-2025)**
 
-### 8. FUEL Business School (MBA)
+### 8. [FUEL Business School](/colleges/fuel-business-school) (MBA)
 FUEL (Friends Union for Energising Lives) is unique because of its social mission and strong tie-ups with CSR wings of top MNCs.
 - **Best For:** Students looking for ethical management and CSR-linked roles.
 - **[Read Detailed FUEL Review](/blog/fuel-pune-review-2025)**

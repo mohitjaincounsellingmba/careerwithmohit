@@ -130,7 +130,7 @@ BITS Pilani (Pilani campus) consistently has the best private college CSE/ECE/Ch
 **Q4. What average salary can I expect from a top NIT?**
 From NIT Trichy, NIT Warangal, or NIT Surathkal for CSE, you can expect ₹10–16 LPA average. For ECE and Mechanical, ₹6–12 LPA.
 
-**Q5. Is VIT Vellore good for placements despite the large batch size?**
+**Q5. Is [VIT Vellore](/colleges/vit-vellore) good for placements despite the large batch size?**
 Yes — but with caveats. VIT places ~70% of its 10,000 students. The average is ₹7–10 LPA. For mass IT companies, placement is near-certain. For product companies (Google, Amazon direct), competition is intense.
 
 ---

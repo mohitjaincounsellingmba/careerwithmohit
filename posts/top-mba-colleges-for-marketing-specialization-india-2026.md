@@ -26,11 +26,11 @@ Not all MBA programs are created equal. Some excel in finance, others in tech. T
 
 ## 🏛️ The Legends of Brand Management
 
-### 1. IIM Ahmedabad
+### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad)
 The gold standard. If you want to work at HUL, P&G, or Loreal in a leadership role, IIM-A is the gateway. 
 - **USP:** The Case-Study method forces you to think like a CMO from Day 1.
 
-### 2. MDI Gurgaon
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon)
 Located in the hub of consumer companies. MDI is often the second stop (after IIM-ABC) for high-end marketing recruiters.
 - **Why Choose It:** Unmatched exposure to Gurgaon’s massive FMCG and Retail sector.
 

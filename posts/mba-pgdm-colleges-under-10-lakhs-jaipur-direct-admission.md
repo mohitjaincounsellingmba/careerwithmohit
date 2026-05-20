@@ -46,7 +46,7 @@ With many private universities dominating the landscape in Rajasthan, admission 
 **1. Why are Jaipur colleges cheaper than Delhi NCR?**
 The baseline cost of real estate and infrastructure operations is lower in Rajasthan. Thus, universities pass on this cost benefit to students, providing high ROI.
 
-**2. Is Poornima University’s GCEC degree valid globally?**
+**2. Is [Poornima University](/colleges/poornima-jaipur)’s GCEC degree valid globally?**
 Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates international professional bodies like ACCA, giving you direct global mobility.
 
 **Explore More Insights:**

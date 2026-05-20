@@ -34,7 +34,7 @@ Located in Dehmi Kalan, Jaipur, **MUJ** operates as a separate state university 
 - **Top Courses:** CSE (AI & ML), CSE (Data Science), Information Technology.
 - **Fees:** The total B.Tech tuition fee costs around **₹16 - ₹18 Lakhs**, with luxury hostel options pushing total expenses up.
 - **Placements:** Growing exceptionally fast. Top coders secure packages above **₹40 LPA** with Amazon, Microsoft, and Dell. Average CSE placements sit comfortably at **₹8 - ₹10 LPA**.
-- **Direct Admission Info:** Since MUJ operates slightly differently, students with lower MET scores often seek premium branch entries here. Read our extensive guide on [Direct Admission in Manipal University Jaipur B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026) for exact protocols.
+- **Direct Admission Info:** Since MUJ operates slightly differently, students with lower MET scores often seek premium branch entries here. Read our extensive guide on [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026) for exact protocols.
 
 ## 4. Sikkim Manipal Institute of Technology (SMIT)
 Situated on the serene banks of the river Teesta in Majitar, Sikkim, **SMIT** is the oldest off-campus institute of the Manipal group. It provides a peaceful, pollution-free, and highly disciplined academic environment.

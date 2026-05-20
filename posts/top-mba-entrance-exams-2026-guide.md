@@ -90,7 +90,7 @@ Applying for these exams usually happens online via their official portals. Foll
 | **[FMS Delhi](/colleges/fms-delhi)** | CAT | ₹2 Lakhs | ₹31 LPA |
 | **XLRI Jamshedpur** | XAT | ₹26 Lakhs | ₹30 LPA |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT/XAT | ₹22 Lakhs | ₹32 LPA |
-| **SIBM Pune** | SNAP | ₹24 Lakhs | ₹24 LPA |
+| **[SIBM Pune](/colleges/sibm-pune)** | SNAP | ₹24 Lakhs | ₹24 LPA |
 
 ---
 

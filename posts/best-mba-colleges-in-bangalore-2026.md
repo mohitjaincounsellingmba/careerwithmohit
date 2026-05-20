@@ -87,8 +87,8 @@ Perfect for students looking for a foothold in the Bangalore tech and retail lan
 
 ## Conclusion: Is Bangalore Right for Your MBA?
 
-- **If you want a career in Strategy/Consulting:** Aim for **IIM Bangalore**.
-- **For E-commerce and Tech roles:** **SIBM Bangalore and JAGSoM** are top choices.
+- **If you want a career in Strategy/Consulting:** Aim for **[IIM Bangalore](/colleges/iim-bangalore)**.
+- **For E-commerce and Tech roles:** **[SIBM Bangalore](/colleges/sibm-bangalore) and JAGSoM** are top choices.
 - **For a balanced ROI:** **XIME and Christ University** offer excellent value.
 
 [👉 Need help choosing between a main campus and a satellite campus in Bangalore? Get expert advice from Mohit Jain!](/inquiry)

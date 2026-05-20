@@ -2,7 +2,7 @@
 title: "All About [FMS Delhi](/colleges/fms-delhi): Fees, Placements, Cutoff & True ROI Review 2026"
 date: "2026-03-13"
 description: "The ultimate guide to the Faculty of Management Studies (FMS), Delhi University. Discover MBA fees, CAT cutoffs, staggering placement packages, and what makes FMS the highest ROI B-School in India."
-keywords: ["[FMS Delhi](/colleges/fms-delhi) review", "FMS Delhi placements 2026", "FMS MBA fees", "FMS cutoff CAT", "Faculty of Management Studies Delhi University", "highest ROI MBA India", "top MBA colleges in Delhi"]
+keywords: ["[FMS Delhi](/colleges/fms-delhi) review", "[FMS Delhi](/colleges/fms-delhi) placements 2026", "FMS MBA fees", "FMS cutoff CAT", "Faculty of Management Studies Delhi University", "highest ROI MBA India", "top MBA colleges in Delhi"]
 ---
 
 The Faculty of Management Studies (FMS), affiliated with the prestigious University of Delhi, needs no introduction. Widely known as the "Red Building of Dreams," FMS offers arguably the highest Return on Investment (ROI) of any business school on the planet.

@@ -112,7 +112,7 @@ DAIICT is a private autonomous institute funded by the Reliance/Ambani trust. It
 **Q4. Can I get B.Tech in Ahmedabad without JEE Main?**
 Yes. DAIICT has its own entrance test. Private colleges like Silver Oak, Parul, and GLS offer direct admission based on Class 12 marks without requiring JEE.
 
-**Q5. What is the fee for B.Tech at Nirma University Ahmedabad?**
+**Q5. What is the fee for B.Tech at [Nirma University](/colleges/nirma-university) Ahmedabad?**
 Nirma University charges approximately ₹2.5 Lakhs per year for engineering programmes. Total programme cost is approximately ₹10–11 Lakhs.
 
 ---

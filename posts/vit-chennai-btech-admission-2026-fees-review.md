@@ -33,7 +33,7 @@ The biggest advantage of VIT Chennai is its **centralized placements**. Students
 *   **Prominent Recruiters**: Microsoft, Amazon, PayPal, Uber, Adobe, and Intel.
 *   **Placement Rate**: Consistently above 95% for core branches (CSE, ECE, IT).
 
-### **VIT Vellore vs. VIT Chennai: Which to Choose?**
+### **[VIT Vellore](/colleges/vit-vellore) vs. VIT Chennai: Which to Choose?**
 This is the most common question among aspirants. Here is the comparison:
 *   **Degree**: Identical. You get a "VIT" degree regardless of the campus.
 *   **Placements**: Centralized. Same companies, same opportunities.

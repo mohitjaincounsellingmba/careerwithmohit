@@ -20,7 +20,7 @@ Galgotias is one of Greater Noida’s largest private universities with its own 
 ### **2. [Sharda University](/colleges/sharda-greater-noida) (Greater Noida)**
 Known for its international diversity and multi-disciplinary academic environment.
 *   **Top Programs:** MBA, MCA, MA, MSc.
-*   **Admission Process:** Sharda University accepts CUET PG scores for admissions to several of its PG programs.
+*   **Admission Process:** [Sharda University](/colleges/sharda-greater-noida) accepts CUET PG scores for admissions to several of its PG programs.
 
 ### **3. BIMTECH (Birla Institute of Management Technology)**
 BIMTECH is one of the top-ranked private management institutes in Greater Noida. While their flagship PGDM primarily uses CAT/XAT/MAT, they sometimes integrate CUET PG scores for specific programs or scholarships.

@@ -26,7 +26,7 @@ For example, [IIM Ahmedabad](/colleges/iim-ahmedabad) might have a qualifying cu
 
 | IIM Category | Institute | Qualifying Cutoff | Expected Call Cutoff |
 | :--- | :--- | :--- | :--- |
-| **Old IIMs (BLACKI)** | IIM Ahmedabad | 95 | 99.5+ |
+| **Old IIMs (BLACKI)** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | 95 | 99.5+ |
 | | [IIM Bangalore](/colleges/iim-bangalore) | 85 | 99.0+ |
 | | [IIM Calcutta](/colleges/iim-calcutta) | 85 | 99.5+ |
 | | IIM Lucknow | 90 | 98.5+ |
@@ -77,7 +77,7 @@ Almost all IIMs have **Sectional Cutoffs**. If you score a 99.9 percentile overa
 Getting a high CAT percentile is only 50-60% of the battle. Most IIMs use a **Composite Score (CS)** for shortlisting, which includes:
 
 1.  **CAT 2025 Score:** (40% - 60% weightage)
-2.  **Class 10th & 12th Marks:** High weightage at IIM Bangalore and Indore.
+2.  **Class 10th & 12th Marks:** High weightage at [IIM Bangalore](/colleges/iim-bangalore) and Indore.
 3.  **Graduation Scores:** Diversity in background (Non-engineers often get extra points).
 4.  **Work Experience:** Usually 2-4 years is the "sweet spot" for maximum points.
 5.  **Gender Diversity:** Many IIMs (like IIM Kozhikode and IIM Rohtak) give extra points to female and transgender candidates.
@@ -96,7 +96,7 @@ If you fall in the 80-90 percentile range, don't lose hope. While the top IIMs m
 ### **Expert Tips for IIM Admission 2026-28**
 
 1.  **Don't ignore the WAT-PI:** Once you get a call, everyone is on a level playing field. Prepare for current affairs and your undergraduate subjects.
-2.  **Check Individual Admission Policies:** Every year, IIMs tweak their weightage. IIM Calcutta might focus more on Quants, while IIM Ahmedabad focuses on academic consistency.
+2.  **Check Individual Admission Policies:** Every year, IIMs tweak their weightage. [IIM Calcutta](/colleges/iim-calcutta) might focus more on Quants, while IIM Ahmedabad focuses on academic consistency.
 3.  **Target the New/Baby IIMs via CAP:** The **Common Admission Process (CAP)** is a great way to secure an IIM seat with a single interview for 10+ institutes. Read our **[Baby IIMs Honest Review](/blog/baby-iims-review-2026-honest-analysis)** for more details.
 
 ---

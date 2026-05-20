@@ -28,7 +28,7 @@ Whether you are targeting Tier 1 B-schools or looking for **direct admission in 
 
 ## 🏛️ Tier 1: The Giants of Pune (Symbiosis & PUMBA)
 
-### 1. SIBM Pune (Symbiosis Institute of Business Management)
+### 1. [SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management)
 Widely considered Pune's #1 MBA college and among the Top 15 in India. SIBM is legendary for its Marketing and Strategy placements.
 - **Top Recruiters:** Aditya Birla Group, Bain & Co, Google, ITC, Microsoft.
 - **Why Choose It:** Best-in-class campus life and a massive alumni network in global MNCs.
@@ -85,7 +85,7 @@ Absolutely. Pune is known as a safe, student-friendly city with a large populati
 ### Useful Links:
 - [Top MHCET MBA Colleges 2026 Guide](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees)
 - [MBA Admission Without CAT — Is it worth it?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [Why ISMS Pune is popular for MBA/PGDM 2026](/blog/why-never-join-isms-pune-honest-review-2026)
+- [Why [ISMS Pune](/colleges/isms-pune) is popular for MBA/PGDM 2026](/blog/why-never-join-isms-pune-honest-review-2026)
 
 ---
 

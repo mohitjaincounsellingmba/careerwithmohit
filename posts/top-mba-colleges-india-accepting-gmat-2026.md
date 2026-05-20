@@ -80,7 +80,7 @@ If you are looking for an accelerated career path, these colleges are excellent 
 Yes, but primarily for the **1-year Executive MBA (PGPX/EPGP/MBAEx)**. For the regular 2-year PGP, IIMs only accept CAT for Indian residents. International/NRI candidates can use GMAT for the 2-year program.
 
 ### **2. What is a good GMAT Focus score for Indian B-schools?**
-For top-tier schools like ISB or IIM Ahmedabad, aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score between **615-645** is usually sufficient.
+For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad), aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score between **615-645** is usually sufficient.
 
 ### **3. Does XLRI accept GMAT?**
 XLRI accepts GMAT for its **PGDM (General Management)** program, which is a 15-month executive course. For the flagship BM and HRM programs, only XAT and GMAT (for NRIs) are accepted.

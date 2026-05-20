@@ -26,7 +26,7 @@ Not every college with a "Finance" degree is valued by investment banks. This 20
 
 ## 🏛️ The Specialists: Why They Win
 
-### 1. IIM Calcutta (The Quant King)
+### 1. [IIM Calcutta](/colleges/iim-calcutta) (The Quant King)
 IIM-C is widely regarded as the best institute for Finance in Asia. Its proximity to Kolkata’s intellectual finance tradition and its focus on pure mathematics and statistics make it the #1 choice.
 
 ### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (The CEO Factory)

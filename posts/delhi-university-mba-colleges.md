@@ -99,7 +99,7 @@ Ideal for students who want to pursue their MBA via distance education without l
 
 | College | Exam | Total Fees | Average Package | 
 | :--- | :--- | :--- | :--- |
-| **FMS Delhi** | CAT | ₹2.30 Lakhs | ₹30.10 LPA |
+| **[FMS Delhi](/colleges/fms-delhi)** | CAT | ₹2.30 Lakhs | ₹30.10 LPA |
 | **DFS** | CAT | ₹24,000 | ₹17.10 LPA |
 | **DSE (IB/HRD)** | CAT | ₹53,980 | ~₹14.00 LPA |
 | **DBE** | CAT | ₹99,700 | ₹15.12 LPA |

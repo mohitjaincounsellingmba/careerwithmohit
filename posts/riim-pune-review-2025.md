@@ -1,7 +1,7 @@
 ---
 title: "[RIIM Pune](/colleges/riim-pune) Review 2025: High ROI & Practical Learning"
 date: "2026-03-14"
-description: "Is [RIIM Pune](/colleges/riim-pune) good for MBA/PGDM? Discover why RIIM Pune is famous for its ROI, 2025 placements, and the intensive employability training."
+description: "Is [RIIM Pune](/colleges/riim-pune) good for MBA/PGDM? Discover why [RIIM Pune](/colleges/riim-pune) is famous for its ROI, 2025 placements, and the intensive employability training."
 keywords: ["RIIM Pune review 2025", "RIIM Pune placements", "RIIM Pune fees", "RIIM Pune average package 2025", "best ROI MBA college in Pune", "RIIM Pune reviews"]
 ---
 

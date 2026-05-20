@@ -68,7 +68,7 @@ Students from UP, Bihar, and Rajasthan often target Greater Noida for its afford
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. Is FMS Delhi better than [IIM Ahmedabad](/colleges/iim-ahmedabad)?**
+**Q1. Is [FMS Delhi](/colleges/fms-delhi) better than [IIM Ahmedabad](/colleges/iim-ahmedabad)?**
 For **ROI**, FMS is the winner. For **Global Branding**, IIM-A is ahead. For most Indian students, FMS is a preferred choice because it has ZERO debt post-graduation.
 
 **Q2. Can I get direct admission in MBA Delhi NCR?**

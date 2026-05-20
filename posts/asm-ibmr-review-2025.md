@@ -1,7 +1,7 @@
 ---
 title: "[ASM IBMR](/colleges/asm-ibmr) Pune Review 2025: Legacy & Placements"
 date: "2026-03-14"
-description: "Is [ASM IBMR](/colleges/asm-ibmr) good for MBA? Read our 2025 review on placements, fees, and the industrial legacy of ASM IBMR Pune."
+description: "Is [ASM IBMR](/colleges/asm-ibmr) good for MBA? Read our 2025 review on placements, fees, and the industrial legacy of [ASM IBMR](/colleges/asm-ibmr) Pune."
 keywords: ["ASM IBMR Pune review 2025", "ASM IBMR placements", "ASM IBMR fees", "ASM IBMR Pune reviews", "best management college in Chinchwad", "ASM IBMR average package 2025"]
 ---
 

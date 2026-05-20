@@ -44,7 +44,7 @@ One of the oldest and most respected medical colleges for women in India. Locate
 
 If you miss the government cutoffs but have the budget, these private/deemed campuses offer world-class infrastructure and high hospital bed capacity:
 
-### 1. Jamia Hamdard (HIMSR), Delhi
+### 1. [Jamia Hamdard](/colleges/jamia-hamdard-delhi) (HIMSR), Delhi
 A deemed university with a high reputation for research and ethical medical practice. It is one of the few private-style options located within the main Delhi city limits.
 
 ### 2. [Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences), Greater Noida

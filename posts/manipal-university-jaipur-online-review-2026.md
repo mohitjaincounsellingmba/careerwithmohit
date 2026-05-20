@@ -2,7 +2,7 @@
 title: "[Manipal University Jaipur](/colleges/manipal-university-jaipur) Online Review 2026: MBA, MCA, BBA & BCA Fee Structure"
 date: "2026-04-05"
 description: "Is [Manipal University Jaipur](/colleges/manipal-university-jaipur) Online worth it in 2026? Check the latest fees, UGC-DEB status, NAAC A+ ranking, and globally recognized Manipal degree reviews."
-keywords: ["Manipal University Jaipur Online review 2026", "Manipal online MBA fees", "MUJ online MCA admission", "Manipal online BBA BCA", "UGC approved online degree Manipal", "Manipal online degree validity"]
+keywords: ["[Manipal University Jaipur](/colleges/manipal-university-jaipur) Online review 2026", "Manipal online MBA fees", "MUJ online MCA admission", "Manipal online BBA BCA", "UGC approved online degree Manipal", "Manipal online degree validity"]
 ---
 
 **Manipal University Jaipur (MUJ) Online** is a part of the world-renowned **Manipal Education Group**, which has a legacy of over 70 years in higher education. Based in the Pink City, MUJ's online programs bring the same academic excellence and high-tech infrastructure that Manipal is known for globally, now with 100% digital accessibility.

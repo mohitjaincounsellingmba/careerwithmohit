@@ -37,7 +37,7 @@ This is the most honest, data-backed comparison of **SRM Institute of Science an
 
 Both universities are **NAAC A++** accredited and consistently rank in the **top 20 private engineering colleges** in India.
 
-| Ranking Body | VIT Vellore | SRM KTR |
+| Ranking Body | [VIT Vellore](/colleges/vit-vellore) | SRM KTR |
 |---|---|---|
 | **NIRF 2025 (Engineering)** | 16th | 14th |
 | **India Today 2025** | Top 10 Private | Top 10 Private |

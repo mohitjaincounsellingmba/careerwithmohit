@@ -33,13 +33,13 @@ If you are planning your MBA journey for the upcoming academic year, we have com
 ## Detailed Review of the Top 10 MBA Colleges
 
 ### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
-The undisputed **ROI King of India**. FMS Delhi is known globally for providing an IIM-A level education at a fraction of the cost.
+The undisputed **ROI King of India**. [FMS Delhi](/colleges/fms-delhi) is known globally for providing an IIM-A level education at a fraction of the cost.
 - **Estimated Fees:** ₹2.32 Lakhs
 - **Average Package:** ₹34.10 LPA
 - **Why Choose It:** Zero debt post-graduation and top-tier placements in Consulting, Finance, and General Management.
 - **Read More:** [Best MBA Colleges in Delhi 2026 Guide](/blog/best-mba-colleges-in-delhi-2026)
 
-### 2. MDI Gurgaon (Management Development Institute)
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
 Located strategically in the corporate hub of Gurgaon, MDI is consistently ranked among India's elite B-schools.
 - **Estimated Fees:** ₹25.50 Lakhs
 - **Average Package:** ₹27.67 LPA
