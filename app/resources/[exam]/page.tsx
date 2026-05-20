@@ -23,7 +23,8 @@ const EXAM_DATA: Record<string, { name: string; description: string; papers: Pap
             { year: "2023", title: "CAT 2023 Question Paper (Slot 1, 2 & 3)", url: "https://cracku.in/cat-2023-question-paper-with-solutions-pdf" },
             { year: "2022", title: "CAT 2022 Question Paper (All Slots)", url: "https://cracku.in/cat-2022-question-paper-with-solutions-pdf" },
             { year: "2021", title: "CAT 2021 Question Paper (All Slots)", url: "https://cracku.in/cat-2021-question-paper-with-solutions-pdf" },
-            { year: "2020", title: "CAT 2020 Question Paper", url: "https://cracku.in/cat-2020-question-paper-with-solutions-pdf" }
+            { year: "2020", title: "CAT 2020 Question Paper", url: "https://cracku.in/cat-2020-question-paper-with-solutions-pdf" },
+            { year: "2019", title: "CAT 2019 Question Paper (Slot 1 & 2)", url: "https://drive.google.com/file/d/1PCIFXKoHJBnJa9EnWwX7VlJ9jTeloFBr/view?usp=drive_link" }
         ]
     },
     "xat": {
