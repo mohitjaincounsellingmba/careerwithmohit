@@ -35,6 +35,8 @@ export function Footer() {
       { name: 'Certifications', href: '/certifications' },
       { name: 'Govt Jobs', href: '/govt-jobs' },
       { name: 'Academic Calculators', href: '/tools/academic-calculators', badge: 'Tools' },
+      { name: 'Roadmap Calculator', href: '/tools/roadmap-calculator', badge: 'New' },
+      { name: 'Jobs', href: '/jobs' },
     ]
   };
 
