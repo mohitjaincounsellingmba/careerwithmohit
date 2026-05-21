@@ -48,3 +48,11 @@ If you enjoyed this deep dive into the "Cockroge Janta Party", share your favori
 **Author**: Mohit Jain
 
 **Date**: 2026-05-21
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
