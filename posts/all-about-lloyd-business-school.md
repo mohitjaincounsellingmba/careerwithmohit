@@ -5,7 +5,7 @@ description: "In-depth review of [Lloyd Business School](/colleges/lloyd-busines
 keywords: ["[Lloyd Business School](/colleges/lloyd-business-school-greater-noida) review 2026", "Lloyd Greater Noida placement 2025", "Lloyd faculty review", "IBM collaboration B-school India"]
 ---
 
-### **College Review: Lloyd Business School**
+### **College Review: [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)**
 *   **Industrial Tie-ups**: Famous for its specialization collaborations with giants like IBM for Supply Chain and Business Analytics.
 *   **Modern Prep**: Focused on providing "Next-Gen" skills including data-driven decision making.
 *   **Campus Culture**: Offers a highly professional environment that mirrors a modern corporate office.

@@ -5,7 +5,7 @@ description: "Planning for B.Tech at [BML Munjal University](/colleges/bml-munja
 keywords: ["[BML Munjal University](/colleges/bml-munjal-gurgaon) BTech admission 2026", "BMU Gurugram cutoff", "BML Munjal BTech fees 2026", "BML Munjal placement review 2025", "BMU SAT 2026", "BMU-SAT entrance exam 2026"]
 ---
 
-**BML Munjal University (BMU)**, promoted by the Hero Group, is a high-profile private university in Gurugram (Manesar). Unique in its mentorship by **Imperial College London**, BMU focuses on an experiential learning model where 45% of the curriculum is practical/hands-on.
+**[BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU)**, promoted by the Hero Group, is a high-profile private university in Gurugram (Manesar). Unique in its mentorship by **Imperial College London**, BMU focuses on an experiential learning model where 45% of the curriculum is practical/hands-on.
 
 ### **BML Munjal Admission Channels 2026**
 1.  **Selection Base**: Valid scores in **JEE Main 2026**, **SAT**, **CUET UG**, or the university's own **BMU-SAT**.

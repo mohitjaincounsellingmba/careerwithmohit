@@ -2,7 +2,7 @@
 title: "Direct Admission in [IMI Delhi](/colleges/imi-delhi) 2026: Institutional Quota & Fees"
 date: "2026-03-17"
 description: "Planning for [IMI Delhi](/colleges/imi-delhi) 2026? Learn about direct admission via merit-linked institutional seats, NRI quota, latest CAT/XAT cutoffs, and 2025 placement reports for the 2026-28 batch."
-keywords: ["[IMI Delhi](/colleges/imi-delhi) direct admission", "IMI Delhi management quota", "IMI Delhi fees 2026", "International Management Institute Delhi admission", "direct admission in IMI"]
+keywords: ["[IMI Delhi](/colleges/imi-delhi) direct admission", "[IMI Delhi](/colleges/imi-delhi) management quota", "IMI Delhi fees 2026", "International Management Institute Delhi admission", "direct admission in IMI"]
 ---
 
 International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2026-28 batch, **Direct Admission in IMI Delhi** is a merit-linked process focusing on profile diversity and the institutional category.

@@ -66,7 +66,7 @@ For students targeting direct admission or looking for affordable options, consi
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q1. Which is the best MBA college in Pune for placements?**
-SIBM Pune is the best, with an average package of ₹28.83 LPA. For mid-range budgets, Balaji (BIMM) and PIBM are excellent.
+[SIBM Pune](/colleges/sibm-pune) is the best, with an average package of ₹28.83 LPA. For mid-range budgets, Balaji (BIMM) and PIBM are excellent.
 
 **Q2. Can I get direct admission in MBA Pune without CAT?**
 Yes. Many private institutes like PIBM, ISMS, and Indira offer merit-based direct admission through MAT, CMAT, or management quota seats.

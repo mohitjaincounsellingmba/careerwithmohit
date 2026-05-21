@@ -2,7 +2,7 @@
 title: "[Christ University Bangalore](/colleges/christ-university-bangalore) BBA Admission 2026: Fees, Placements & CUET"
 date: "2026-05-15"
 category: "BBA Admissions"
-description: "Everything about BBA at Christ University Bangalore for 2026. Learn about the Entrance Test, Personal Interview process, latest fees, and campus placements."
+description: "Everything about BBA at [Christ University Bangalore](/colleges/christ-university-bangalore) for 2026. Learn about the Entrance Test, Personal Interview process, latest fees, and campus placements."
 keywords: ["christ university bba admission 2026", "christ university bba fees", "christ university bba placement", "christ university entrance test 2026", "best bba college bangalore", "christ university central campus bba"]
 ---
 

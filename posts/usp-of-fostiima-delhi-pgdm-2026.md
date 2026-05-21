@@ -134,7 +134,7 @@ Students connect with senior professionals from all 20 IIMs and multiple IITs th
 ₹11.15 LPA average for the 2025 batch; highest at ₹30 LPA.
 
 **Q2. Is it really founded by IIM alumni?**
-Yes — by the 1973 batch of IIM Ahmedabad. FOSTIIMA stands for "Friends Of Seventy-Three IIM Ahmedabad."
+Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad). FOSTIIMA stands for "Friends Of Seventy-Three IIM Ahmedabad."
 
 **Q3. What is the total fee?**
 ₹11.5 Lakhs for the 2026-28 PGDM batch.

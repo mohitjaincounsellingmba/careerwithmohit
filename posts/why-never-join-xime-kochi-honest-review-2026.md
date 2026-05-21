@@ -24,7 +24,7 @@ A common complaint found in student forums and alumni reviews is the feeling tha
 ### **5. Peer Quality and Brand Perception**
 Because [XIME Bangalore](/colleges/xime-bangalore) takes the top cream of applicants, the Kochi campus inevitably receives students with slightly lower entrance test percentiles. While this doesn't strictly define capability, it does impact the overall peer learning environment, classroom discussions, and the brand perception among recruiters who clearly distinguish between "[XIME Bangalore](/colleges/xime-bangalore)" and "XIME Kochi" graduates.
 
-### **Comparison: XIME Kochi vs. XIME Bangalore**
+### **Comparison: XIME Kochi vs. [XIME Bangalore](/colleges/xime-bangalore)**
 Before finalizing, see how the sibling campuses compare:
 
 | Feature | XIME Bangalore | XIME Kochi |

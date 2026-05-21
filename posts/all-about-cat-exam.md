@@ -74,7 +74,7 @@ CAT scores are calculated as percentiles relative to all test-takers (usually 3 
 CAT 2026 is expected to be held on **November 29, 2026** (the last Sunday of November).
 
 ### 2. What is the minimum percentile for [IIM Ahmedabad](/colleges/iim-ahmedabad)?
-Typically, a percentile of **99.5+** is required for General category students to receive an interview call from IIM Ahmedabad.
+Typically, a percentile of **99.5+** is required for General category students to receive an interview call from [IIM Ahmedabad](/colleges/iim-ahmedabad).
 
 ### 3. Is CAT syllabus fixed?
 While there is no "official" syllabus, CAT consistently tests **VARC, DILR, and Quantitative Aptitude** based on graduate-level logic and high-school mathematics.

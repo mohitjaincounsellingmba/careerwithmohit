@@ -2,7 +2,7 @@
 title: "All About [PIBM Pune](/colleges/pibm-pune): Fees, Placements, Cutoffs & Honest Review (2026)"
 date: "2026-03-13"
 description: "Everything you need to know about Pune Institute of Business Management (PIBM). Discover PGDM/MBA fees, CAT/MAT/CMAT cutoffs, placements, and top recruiters in 2026."
-keywords: ["[PIBM Pune](/colleges/pibm-pune) review", "[PIBM Pune](/colleges/pibm-pune) placements 2026", "PIBM MBA fees", "PIBM Pune cutoff CMAT", "Pune Institute of Business Management", "PIBM average package", "MBA colleges in Pune"]
+keywords: ["[PIBM Pune](/colleges/pibm-pune) review", "[PIBM Pune](/colleges/pibm-pune) placements 2026", "PIBM MBA fees", "[PIBM Pune](/colleges/pibm-pune) cutoff CMAT", "Pune Institute of Business Management", "PIBM average package", "MBA colleges in Pune"]
 ---
 
 Pune Institute of Business Management (PIBM) is one of the fastest-growing B-Schools in Maharashtra. Known for its rigorous corporate training and unique SCPS (Sector, Company, Product/Service) pedagogy, PIBM aims to produce industry-ready managers who don't need hand-holding on day one of the job.

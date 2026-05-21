@@ -2,7 +2,7 @@
 title: "[Jaipuria Noida](/colleges/jaipuria-noida) Review 2026: Placements & Infrastructure Highlights"
 date: "2026-03-15"
 description: "In-depth review of Jaipuria Institute of Management, Noida. Explore the 98% placement record, premium campus infra, and industry-led faculty."
-keywords: ["[Jaipuria Noida](/colleges/jaipuria-noida) review 2026", "[Jaipuria Noida](/colleges/jaipuria-noida) placements 2025", "Jaipuria Noida infrastructure", "best PGDM in Noida ranked"]
+keywords: ["[Jaipuria Noida](/colleges/jaipuria-noida) review 2026", "[Jaipuria Noida](/colleges/jaipuria-noida) placements 2025", "[Jaipuria Noida](/colleges/jaipuria-noida) infrastructure", "best PGDM in Noida ranked"]
 ---
 
 ### **College Review: Jaipuria Institute of Management, Noida**

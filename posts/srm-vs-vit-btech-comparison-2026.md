@@ -50,7 +50,7 @@ Both universities are **NAAC A++** accredited and consistently rank in the **top
 
 ## 💰 2. Fee Structure Comparison
 
-### VIT Vellore – Category-Based Fee System
+### [VIT Vellore](/colleges/vit-vellore) – Category-Based Fee System
 VIT has a unique sliding-scale fee model based on your VITEEE rank. The better your rank, the lower your fee.
 
 | Category | VITEEE Rank (CSE) | 4-Year Total Fee |

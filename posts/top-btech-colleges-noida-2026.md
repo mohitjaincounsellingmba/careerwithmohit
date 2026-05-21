@@ -137,7 +137,7 @@ In recent years, the AKTU state merit rank for GL Bajaj CSE in OC category has r
 Yes, JIIT consistently outperforms Amity in CSE/IT placements (avg ₹8–12 LPA vs ₹5–8 LPA) and has a more focused tech campus culture. Amity has a larger campus and more diverse programmes.
 
 **Q4. Can I get B.Tech in Noida without JEE Main?**
-Yes. Bennett University, Amity University, IILM, and several AKTU colleges accept students without a JEE score through board merit or direct admission for management quota seats.
+Yes. [Bennett University](/colleges/bennett-greater-noida), [Amity University](/colleges/amity-noida), IILM, and several AKTU colleges accept students without a JEE score through board merit or direct admission for management quota seats.
 
 **Q5. What is the fee for B.Tech at JIIT Noida?**
 JIIT charges approximately ₹2.1 Lakhs per year. Total B.Tech programme cost is around ₹8.5–₹9 Lakhs.

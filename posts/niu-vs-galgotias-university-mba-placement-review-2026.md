@@ -43,7 +43,7 @@ The lower fee structure of Galgotias (starting at ₹2.7 Lakhs) reflects its **m
 
 ### **Which One Should You Join?**
 
-#### **Join Noida International University (NIU) IF:**
+#### **Join [Noida International University (NIU)](/colleges/niu-greater-noida) IF:**
 - You want a **management degree** where professors know you by name.
 - You are looking for a **High-ROI** program under ₹10 Lakhs.
 - You want a college that is proactive in the upcoming Jewar industrial corridor.

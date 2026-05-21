@@ -81,7 +81,7 @@ If you passed Class 11 and 12 from a school located in Delhi, you are eligible f
 Almost negligible. Fees at MAMC, VMMC, and LHMC range from ₹1,000 to ₹35,000 per year.
 
 **Q4. Can I get a medical seat in Delhi with 550 marks?**
-In government colleges, NO (General Category). However, at 550+ marks, you are in a very strong position for **Jamia Hamdard** or top-tier private medical colleges in Uttar Pradesh through the open state quota.
+In government colleges, NO (General Category). However, at 550+ marks, you are in a very strong position for **[Jamia Hamdard](/colleges/jamia-hamdard-delhi)** or top-tier private medical colleges in Uttar Pradesh through the open state quota.
 
 **Q5. When is the Delhi NEET 2026 counselling?**
 Usually starts in **July/August**, conducted by the Medical Counselling Committee (MCC) for central seats and Guru Gobind Singh Indraprastha University (GGSIPU) for state seats.

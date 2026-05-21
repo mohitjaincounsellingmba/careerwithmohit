@@ -2,7 +2,7 @@
 title: "[Amity University](/colleges/amity-noida) Noida BBA Admission 2026: Fees, Placements & Review"
 date: "2026-05-15"
 category: "BBA Admissions"
-description: "Everything you need to know about BBA at Amity University Noida for 2026. Get latest info on fees, placement packages, and the admission process."
+description: "Everything you need to know about BBA at [Amity University](/colleges/amity-noida) Noida for 2026. Get latest info on fees, placement packages, and the admission process."
 keywords: ["amity university noida bba admission 2026", "amity noida bba fees", "amity noida bba placement 2026", "amity university direct admission 2026", "best private bba college in noida", "amity bba specializations"]
 ---
 

@@ -29,7 +29,7 @@ Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI g
 
 ## 🏛️ Tier 1: The Global Authority
 
-### 1. IIM Calcutta (IIM-C)
+### 1. [IIM Calcutta](/colleges/iim-calcutta) (IIM-C)
 The "Joka" campus is arguably the best B-school in Asia for **Finance and Quantitative Analytics**.
 - **Top Recruiters:** Goldman Sachs, JP Morgan, Morgan Stanley, BCG.
 - **Why Choose It:** If you love numbers and dream of Wall Street or Dalal Street, IIM-C is the absolute pinnacle.

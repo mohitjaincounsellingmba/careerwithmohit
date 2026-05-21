@@ -68,7 +68,7 @@ Yes. Initially, most marketing roles involve **Sales and Field Work**. You have 
 **Q3. Can I get a marketing job as a fresher?**
 Absolutely. In fact, Marketing is the most "fresher-friendly" specialization compared to Finance or Consulting, which often value work experience.
 
-**Q4. Does MDI Gurgaon accept MAT?**
+**Q4. Does [MDI Gurgaon](/colleges/mdi-gurgaon) accept MAT?**
 No. MDI Gurgaon accepts only **CAT** scores.
 
 **Q5. What is the average package for marketing freshers?**

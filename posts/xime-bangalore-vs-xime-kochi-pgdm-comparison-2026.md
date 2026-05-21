@@ -3,7 +3,7 @@ title: "[XIME Bangalore](/colleges/xime-bangalore) vs XIME Kochi: Which Campus i
 date: "2026-04-06"
 category: "College Reviews"
 description: "A detailed comparison of [XIME Bangalore](/colleges/xime-bangalore) vs XIME Kochi — fees, placements, cutoff, location, accreditation, and which campus suits you best for PGDM 2026-28."
-keywords: ["[XIME Bangalore](/colleges/xime-bangalore) vs XIME Kochi", "XIME Kochi vs XIME Bangalore", "XIME PGDM 2026", "XIME Bangalore fees placements", "XIME Kochi fees placements", "XIME admission 2026", "best MBA college Bangalore Kochi", "XIME PGDM comparison", "Xavier Institute of Management"]
+keywords: ["[XIME Bangalore](/colleges/xime-bangalore) vs XIME Kochi", "XIME Kochi vs [XIME Bangalore](/colleges/xime-bangalore)", "XIME PGDM 2026", "XIME Bangalore fees placements", "XIME Kochi fees placements", "XIME admission 2026", "best MBA college Bangalore Kochi", "XIME PGDM comparison", "Xavier Institute of Management"]
 ---
 
 If you have cleared the XIME GDPI and are now weighing your campus options, you are not alone. Every year, hundreds of MBA aspirants find themselves asking: **XIME Bangalore or XIME Kochi — which one should I choose?**

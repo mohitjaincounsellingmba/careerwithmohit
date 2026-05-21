@@ -7,7 +7,7 @@ keywords: ["[FMS Delhi](/colleges/fms-delhi) review", "[FMS Delhi](/colleges/fms
 
 The Faculty of Management Studies (FMS), affiliated with the prestigious University of Delhi, needs no introduction. Widely known as the "Red Building of Dreams," FMS offers arguably the highest Return on Investment (ROI) of any business school on the planet.
 
-If you are an elite CAT scorer, here is why FMS Delhi is often chosen over top IIMs:
+If you are an elite CAT scorer, here is why [FMS Delhi](/colleges/fms-delhi) is often chosen over top IIMs:
 
 ## Key Highlights
 

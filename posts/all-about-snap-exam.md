@@ -43,7 +43,7 @@ SNAP is famously known as a "test of speed." It gives you the least amount of ti
 
 Symbiosis institutes rely heavily on extremely high percentile groupings due to the 60-mark structure.
 
-- **SIBM Pune (Flagship MBA):** 98.0+ to 98.5+ Percentile (~40 to 44 Marks)
+- **[SIBM Pune](/colleges/sibm-pune) (Flagship MBA):** 98.0+ to 98.5+ Percentile (~40 to 44 Marks)
 - **[SCMHRD Pune](/colleges/scmhrd-pune) (Flagship MBA & HR):** 97.0+ to 97.5+ Percentile (~38 to 41 Marks)
 - **SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore):** 90.0+ to 93.0+ Percentile (~35 Marks)
 - **SSBF, SIOM Nashik, SICSR:** 80.0+ to 85.0+ Percentile

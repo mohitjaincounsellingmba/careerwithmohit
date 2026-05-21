@@ -64,7 +64,7 @@ If your CAT percentile is in the 70-85 range, these are your best financial care
 YES. While the math can be tough, most Finance roles in **Investment Banking and Wealth Management** value diverse backgrounds like Commerce, CA, and Economics.
 
 **Q2. Which MBA college has the highest package for Finance?**
-**IIM Calcutta** and **SPJIMR** consistently record the highest packages for finance roles, often exceeding ₹50 LPA for domestic frontend roles.
+**[IIM Calcutta](/colleges/iim-calcutta)** and **SPJIMR** consistently record the highest packages for finance roles, often exceeding ₹50 LPA for domestic frontend roles.
 
 **Q3. Do I need a CFA to get into a top Finance MBA?**
 It is not mandatory, but having a **CFA Level 1 or 2** significantly improves your chances during the shortlisting process at IIMs and SPJIMR.

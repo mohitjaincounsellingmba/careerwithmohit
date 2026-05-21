@@ -62,7 +62,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Campus**: Permanent campus in Bodh Gaya, Bihar
 - **Mentor**: [IIM Calcutta](/colleges/iim-calcutta) — rigorous quantitative pedagogy
 - **Special Feature**: **SAPS (Special Aptitude Process for Students)** for girl candidates, promoting gender diversity
-- **Verdict**: IIM Calcutta mentorship brings academic rigour. Bihar location limits some recruiter access, but placement numbers are improving.
+- **Verdict**: [IIM Calcutta](/colleges/iim-calcutta) mentorship brings academic rigour. Bihar location limits some recruiter access, but placement numbers are improving.
 
 ---
 

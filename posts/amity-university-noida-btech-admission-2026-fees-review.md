@@ -2,7 +2,7 @@
 title: "[Amity University](/colleges/amity-noida) Noida B.Tech Admission 2026: Fees & Review"
 date: "2026-03-24"
 description: "Planning for B.Tech at [Amity University](/colleges/amity-noida) Noida? Get the latest on JEE Main/10+2 merit 2026 cutoffs, specialized industry labs, detailed fee structure, and its ₹35 LPA placement record."
-keywords: ["[Amity University](/colleges/amity-noida) Noida BTech admission 2026", "Amity Noida cutoff for CSE", "Amity Noida BTech fees 2026", "Amity placement review 2025", "Amity University average package", "BTech admission Noida"]
+keywords: ["[Amity University](/colleges/amity-noida) Noida BTech admission 2026", "Amity Noida cutoff for CSE", "Amity Noida BTech fees 2026", "Amity placement review 2025", "[Amity University](/colleges/amity-noida) average package", "BTech admission Noida"]
 ---
 
 **Amity University Noida** is one of India's most prominent private universities, established in 2005. Accredited with **NAAC Grade 'A+'**, Amity is known for its world-class infrastructure, global exposure, and strong placement network across diverse sectors. In the 2025 NIRF rankings, it secured the 37th position for B.Tech and 49th overall in India.

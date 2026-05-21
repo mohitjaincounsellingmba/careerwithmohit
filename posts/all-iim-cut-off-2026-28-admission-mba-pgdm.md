@@ -96,7 +96,7 @@ If you fall in the 80-90 percentile range, don't lose hope. While the top IIMs m
 ### **Expert Tips for IIM Admission 2026-28**
 
 1.  **Don't ignore the WAT-PI:** Once you get a call, everyone is on a level playing field. Prepare for current affairs and your undergraduate subjects.
-2.  **Check Individual Admission Policies:** Every year, IIMs tweak their weightage. [IIM Calcutta](/colleges/iim-calcutta) might focus more on Quants, while IIM Ahmedabad focuses on academic consistency.
+2.  **Check Individual Admission Policies:** Every year, IIMs tweak their weightage. [IIM Calcutta](/colleges/iim-calcutta) might focus more on Quants, while [IIM Ahmedabad](/colleges/iim-ahmedabad) focuses on academic consistency.
 3.  **Target the New/Baby IIMs via CAP:** The **Common Admission Process (CAP)** is a great way to secure an IIM seat with a single interview for 10+ institutes. Read our **[Baby IIMs Honest Review](/blog/baby-iims-review-2026-honest-analysis)** for more details.
 
 ---

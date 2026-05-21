@@ -2,7 +2,7 @@
 title: "Direct Admission in [PUMBA Pune](/colleges/pumba-pune): University Seats & CAP Guide 2026"
 date: "2026-03-17"
 description: "Looking for direct admission in [PUMBA Pune](/colleges/pumba-pune) for 2026? Understand the SPPU admission process, university-level seats, MAH-CET cutoffs, and latest placement stats."
-keywords: ["[PUMBA Pune](/colleges/pumba-pune) direct admission", "PUMBA management quota", "PUMBA Pune MBA fees 2026", "department of management sciences pune university admission", "PUMBA NRI quota"]
+keywords: ["[PUMBA Pune](/colleges/pumba-pune) direct admission", "PUMBA management quota", "[PUMBA Pune](/colleges/pumba-pune) MBA fees 2026", "department of management sciences pune university admission", "PUMBA NRI quota"]
 ---
 
 The Department of Management Sciences (PUMBA), Savitribai Phule Pune University, is one of the top government MBA colleges in India. Known for its academic excellence and high ROI, PUMBA is a top choice for CET aspirants. If you are targetting **Direct Admission in PUMBA Pune for 2026**, here is everything you need to know about the process.

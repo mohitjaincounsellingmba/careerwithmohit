@@ -99,8 +99,8 @@ With a strong focus on Data Science and Analytics, [Great Lakes Gurgaon](/colleg
 
 ## How to Choose the Right Delhi NCR B-School?
 
-- **For Maximum ROI:** **FMS Delhi** and **DMS IIT Delhi** are the absolute winners.
-- **For Gurgaon Corporate Roles:** **MDI Gurgaon** and **Great Lakes** provide direct access to top tech and consulting firms.
+- **For Maximum ROI:** **[FMS Delhi](/colleges/fms-delhi)** and **DMS IIT Delhi** are the absolute winners.
+- **For Gurgaon Corporate Roles:** **[MDI Gurgaon](/colleges/mdi-gurgaon)** and **Great Lakes** provide direct access to top tech and consulting firms.
 - **For Marketing & FMCG:** **IMT Ghaziabad** is the top recommendation.
 - **For Finance:** **IMI New Delhi** and **LBSIM** are the strongest contenders.
 

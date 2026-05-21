@@ -2,7 +2,7 @@
 title: "Direct Admission in [Christ University Bangalore](/colleges/christ-university-bangalore) 2026: Management Quota & Fees"
 date: "2026-03-17"
 description: "Secure your MBA seat at [Christ University Bangalore](/colleges/christ-university-bangalore) for 2026. Explore direct admission via management quota, NRI seats, CUET requirements, and the latest fee structure."
-keywords: ["direct admission in [Christ University Bangalore](/colleges/christ-university-bangalore)", "Christ University MBA management quota", "Christ University Bangalore MBA fees", "CUET for Christ University", "management quota MBA Bangalore"]
+keywords: ["direct admission in [Christ University Bangalore](/colleges/christ-university-bangalore)", "Christ University MBA management quota", "[Christ University Bangalore](/colleges/christ-university-bangalore) MBA fees", "CUET for Christ University", "management quota MBA Bangalore"]
 ---
 
 Christ University, Bangalore, is one of the most prestigious private universities in India. Known for its rigorous academic discipline and excellent placement records, it is a top choice for MBA aspirants. If you missed out on high-percentile entrance scores, securing a seat through **Direct Admission or Management Quota** is a viable option for the 2026-28 batch.

@@ -3,7 +3,7 @@ title: "[Amity University](/colleges/amity-noida) Online MBA Review 2026: Fees, 
 date: "2026-05-10"
 category: "Online MBA"
 description: "Honest review of [Amity University](/colleges/amity-noida) Online MBA 2026. Check fees (₹1,99,000 total), 15+ specializations, UGC-DEB status, NAAC A+ rating, placement support, and who should actually enroll."
-keywords: ["[Amity University](/colleges/amity-noida) online MBA review 2026", "Amity Online MBA fees 2026", "Amity online MBA specializations", "Amity University UGC DEB approved online MBA", "Amity online MBA placement review", "amityonline.com MBA admission 2026", "is Amity online MBA worth it"]
+keywords: ["[Amity University](/colleges/amity-noida) online MBA review 2026", "Amity Online MBA fees 2026", "Amity online MBA specializations", "[Amity University](/colleges/amity-noida) UGC DEB approved online MBA", "Amity online MBA placement review", "amityonline.com MBA admission 2026", "is Amity online MBA worth it"]
 ---
 
 **Amity University Online MBA** is one of the most recognized online management programs in India, offered by [Amity University, Noida](/colleges/amity-university-noida) — which holds **NAAC A+ accreditation**. With 15+ specializations and a globally recognized degree, it remains a top choice for working professionals in 2026.

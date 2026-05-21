@@ -138,7 +138,7 @@ Not all private engineering colleges deliver on their promises. Watch out for:
 ## FAQs — Private Engineering Colleges India
 
 **Q1. Which is the best private engineering college in India?**
-BITS Pilani (Pilani Campus) consistently holds the top position among private engineering institutions, followed by Thapar University and VIT Vellore for overall value and placements.
+BITS Pilani (Pilani Campus) consistently holds the top position among private engineering institutions, followed by Thapar University and [VIT Vellore](/colleges/vit-vellore) for overall value and placements.
 
 **Q2. Is a private engineering college worth it?**
 Yes — if the college has NAAC A+ grade, NBA accreditation, consistent placement above ₹6 LPA average, and fees under ₹3 Lakhs/year, the ROI is generally positive.

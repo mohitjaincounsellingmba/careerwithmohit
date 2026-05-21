@@ -3,7 +3,7 @@ title: "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) University Online MBA Rev
 date: "2026-03-26"
 category: "Online MBA"
 description: "Looking for an honest review of [Jamia Hamdard](/colleges/jamia-hamdard-delhi) Online MBA 2026? Check out fees, eligibility, NAAC A ranking, and why it's a top choice in Delhi NCR."
-keywords: ["[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online MBA review", "Jamia Hamdard online fees", "best online MBA in Delhi", "Jamia Hamdard distance MBA review"]
+keywords: ["[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online MBA review", "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online fees", "best online MBA in Delhi", "Jamia Hamdard distance MBA review"]
 ---
 
 **Jamia Hamdard** is a name that commands respect in India's capital, New Delhi. Known for its strong heritage in Pharmacy, Unani medicine, and Management, it has successfully transitioned its academic excellence into the online domain. The **Jamia Hamdard Online MBA** is a highly credible, NAAC 'A' rated program.

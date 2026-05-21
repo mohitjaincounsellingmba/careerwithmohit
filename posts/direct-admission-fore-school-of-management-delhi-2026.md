@@ -2,7 +2,7 @@
 title: "Direct Admission in [FORE School of Management](/colleges/fore-school-delhi) 2026: Delhi Quota Facts"
 date: "2026-03-17"
 description: "Looking for direct admission in [FORE School of Management](/colleges/fore-school-delhi) Delhi for 2026? Learn about institutional seats, merit-based management quota, latest fees, and placement reports."
-keywords: ["FORE Delhi direct admission", "[FORE School of Management](/colleges/fore-school-delhi) management quota", "FORE Delhi MBA fees 2026", "direct admission in FORE School of Management", "FORE Delhi NRI quota"]
+keywords: ["FORE Delhi direct admission", "[FORE School of Management](/colleges/fore-school-delhi) management quota", "FORE Delhi MBA fees 2026", "direct admission in [FORE School of Management](/colleges/fore-school-delhi)", "FORE Delhi NRI quota"]
 ---
 
 Foundation for Organisational Research and Education (FORE) School of Management, located in the prominent Institutional Area of South Delhi, is a top-ranked B-school known for its academic excellence and robust corporate linkages. For the 2026-28 batch, **Direct Admission in FORE School of Management** is a popular topic for students eyeing high-ROI careers in the capital.

@@ -60,7 +60,7 @@ If you miss the entrance exam cutoffs, direct admission is possible in **GLS, In
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. is Nirma University BBA worth the high fees?**
+**Q1. is [Nirma University](/colleges/nirma-university) BBA worth the high fees?**
 Yes. In terms of **Placement Brand Value** in Western India, Nirma is second only to [IIM Ahmedabad](/colleges/iim-ahmedabad) (which doesn't have an undergraduate program).
 
 **Q2. When is the Ahmedabad University admission 2026 starting?**

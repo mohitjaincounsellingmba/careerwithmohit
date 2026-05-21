@@ -155,7 +155,7 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 
 ## Conclusion: How to Choose the Right Delhi College?
 
-- **For the best ROI:** **FMS Delhi or SRCC GBO** should be your top choices.
+- **For the best ROI:** **[FMS Delhi](/colleges/fms-delhi) or SRCC GBO** should be your top choices.
 - **For Corporate Gurgaon Roles:** **MDI, Masters' Union, and Great Lakes** are ideal.
 - **For Marketing Enthusiasts:** **IMT Ghaziabad and FORE** are heavily recommended.
 - **For moderate scores (75-85 percentile):** **JIMS, BIMTECH, and NDIM** provide excellent career launches.
@@ -164,7 +164,7 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Which MBA college in Delhi has the best placements?
-**FMS Delhi** and **MDI Gurgaon** consistently offer the best placements, with average packages exceeding ₹27-30 LPA.
+**FMS Delhi** and **[MDI Gurgaon](/colleges/mdi-gurgaon)** consistently offer the best placements, with average packages exceeding ₹27-30 LPA.
 
 ### 2. Can I get into FMS Delhi with a low CAT score?
 No, FMS Delhi is highly competitive and usually requires a **99.8+ percentile** in CAT for the general category.

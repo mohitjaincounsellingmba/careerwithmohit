@@ -43,7 +43,7 @@ Part of the legacy ASM Group, IIBR offers industry-integrated programs with cert
 ### 3. [RIIM Pune](/colleges/riim-pune) (MBA / PGDM)
 RIIM is famous for its "Corporate Residency" program and heavy emphasis on soft skills and personality development.
 - **Best For:** High ROI and Sales roles.
-- **[Read Detailed RIIM Pune Review](/blog/riim-pune-review-2025)**
+- **[Read Detailed [RIIM Pune](/colleges/riim-pune) Review](/blog/riim-pune-review-2025)**
 
 ### 4. [ISMS Pune](/colleges/isms-pune) (MBA / PGDM)
 ISMS positions itself as an "International" school. While the building is compact, they focus heavily on grooming students for MNC roles.

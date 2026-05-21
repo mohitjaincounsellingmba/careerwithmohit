@@ -2,7 +2,7 @@
 title: "[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata) 2026: Is the High Fee Worth It?"
 date: "2026-03-25"
 description: "Choosing between [IMI Delhi](/colleges/imi-delhi) and its Kolkata campus? Read our 2026 comparison on CAT/XAT cutoffs, ₹32L high-fee reality, and average placement packages."
-keywords: ["[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata)", "IMI Delhi average package 2026", "[IMI Kolkata](/colleges/imi-kolkata) CAT cutoff 2025", "IMI Delhi fees 2026", "IMI Kolkata placement review", "MBA at IMI Delhi vs Kolkata"]
+keywords: ["[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata)", "[IMI Delhi](/colleges/imi-delhi) average package 2026", "[IMI Kolkata](/colleges/imi-kolkata) CAT cutoff 2025", "IMI Delhi fees 2026", "[IMI Kolkata](/colleges/imi-kolkata) placement review", "MBA at IMI Delhi vs Kolkata"]
 ---
 
 The **International Management Institute (IMI)** is one of the "Old Guard" in Indian management education, with its Delhi campus consistently ranking in the Top 30 nationwide. But with the high fees at its **Delhi** flagship campus and the competitive metropolitan edge of its **Kolkata** campus, aspirants are asking: **"Which is the real winner in 2026?"**

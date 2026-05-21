@@ -104,7 +104,7 @@ COER is a growing private university near Roorkee (IIT Roorkee's city) offering 
 **Q1. Which is the best B.Tech college in Dehradun?**
 [UPES Dehradun](/colleges/upes-dehradun) is the top private university in Dehradun for specialised engineering programmes (petroleum, energy, cybersecurity). Graphic Era University is the best overall private option for CSE/ECE.
 
-**Q2. Is UPES Dehradun good for B.Tech placements?**
+**Q2. Is [UPES Dehradun](/colleges/upes-dehradun) good for B.Tech placements?**
 Yes. UPES has strong industry ties particularly in oil & gas (ONGC, GAIL), aerospace (Airbus), and IT (TCS). Average packages range from ₹5–10 LPA depending on specialisation.
 
 **Q3. Can I get B.Tech in Dehradun without JEE?**

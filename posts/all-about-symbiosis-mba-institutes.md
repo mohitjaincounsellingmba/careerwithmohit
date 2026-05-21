@@ -36,7 +36,7 @@ Known as one of India's premier institutes for HR, SCMHRD also excels in Sales &
 * **Expected SNAP Cutoff:** 95 - 97 Percentile (42+ marks)
 * **Average Package:** ₹21.47 LPA
 * **Highest Package:** ₹35.90 LPA (International highest: ₹67.60 LPA in past years)
-* **The Verdict:** Go here if you want a top-tier career in HR or Analytics. The competition is fierce, trailing just slightly behind SIBM Pune.
+* **The Verdict:** Go here if you want a top-tier career in HR or Analytics. The competition is fierce, trailing just slightly behind [SIBM Pune](/colleges/sibm-pune).
 
 ### 3. SIIB, Pune (Symbiosis Institute of International Business)
 SIIB focuses heavily on global business practices, offering specialized programs that are highly valued by MNCs and consulting firms.
