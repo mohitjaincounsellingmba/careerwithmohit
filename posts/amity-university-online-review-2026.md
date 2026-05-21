@@ -9,7 +9,7 @@ keywords: ["[Amity University](/colleges/amity-noida) Online review 2026", "Amit
 
 Thinking of enrolling? Here is everything you need to know about India’s most trusted online university.
 
-## 📊 Amity University Online: Key Highlights 2026
+## 📊 [Amity University](/colleges/amity-noida) Online: Key Highlights 2026
 
 | Parameter | Details |
 | :--- | :--- |

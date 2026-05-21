@@ -5,7 +5,7 @@ description: "Planning for B.Tech at [Amity University](/colleges/amity-noida) N
 keywords: ["[Amity University](/colleges/amity-noida) Noida BTech admission 2026", "Amity Noida cutoff for CSE", "Amity Noida BTech fees 2026", "Amity placement review 2025", "[Amity University](/colleges/amity-noida) average package", "BTech admission Noida"]
 ---
 
-**Amity University Noida** is one of India's most prominent private universities, established in 2005. Accredited with **NAAC Grade 'A+'**, Amity is known for its world-class infrastructure, global exposure, and strong placement network across diverse sectors. In the 2025 NIRF rankings, it secured the 37th position for B.Tech and 49th overall in India.
+**[Amity University](/colleges/amity-noida) Noida** is one of India's most prominent private universities, established in 2005. Accredited with **NAAC Grade 'A+'**, Amity is known for its world-class infrastructure, global exposure, and strong placement network across diverse sectors. In the 2025 NIRF rankings, it secured the 37th position for B.Tech and 49th overall in India.
 
 ### **Amity Noida Admission Channels 2026**
 1.  **Selection Base**: Valid scores in **JEE Main 2026**, **CUET UG**, or the university's own entrance process.

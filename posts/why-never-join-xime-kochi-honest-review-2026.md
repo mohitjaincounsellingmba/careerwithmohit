@@ -27,7 +27,7 @@ Because [XIME Bangalore](/colleges/xime-bangalore) takes the top cream of applic
 ### **Comparison: XIME Kochi vs. [XIME Bangalore](/colleges/xime-bangalore)**
 Before finalizing, see how the sibling campuses compare:
 
-| Feature | XIME Bangalore | XIME Kochi |
+| Feature | [XIME Bangalore](/colleges/xime-bangalore) | XIME Kochi |
 | :--- | :--- | :--- |
 | **Establishment** | Older, Flagship Status | Newer, Secondary |
 | **Placement Access** | Immediate (On Campus) | Requires Travel to Bangalore |

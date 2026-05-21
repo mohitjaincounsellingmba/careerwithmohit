@@ -2,7 +2,7 @@
 title: "[SIBM Pune](/colleges/sibm-pune) Review 2025: Placement Stats, SNAP Cutoff & MBA Fees"
 date: "2026-03-17"
 description: "Is [SIBM Pune](/colleges/sibm-pune) worth the high fees? Explore our deep-dive review of [SIBM Pune](/colleges/sibm-pune) MBA placements 2025, SNAP cutoffs, and the stunning Lavale campus life."
-keywords: ["[SIBM Pune](/colleges/sibm-pune) review 2025", "SIBM Pune placements", "SNAP cutoff for SIBM", "SIBM Pune fees", "best MBA college in Pune", "SIBM Pune average package"]
+keywords: ["[SIBM Pune](/colleges/sibm-pune) review 2025", "[SIBM Pune](/colleges/sibm-pune) placements", "SNAP cutoff for SIBM", "SIBM Pune fees", "best MBA college in Pune", "SIBM Pune average package"]
 ---
 
 SIBM Pune (Symbiosis Institute of Business Management) is consistently ranked among the Top 10 private B-schools in India. Known for its world-class Lavale campus and "Student-Driven" culture, it is the flagship institute of Symbiosis International University.

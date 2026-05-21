@@ -21,7 +21,7 @@ Before planning your strategy, review the structure of the exam:
 | **General English** | 15 | 8–10 Minutes | Grammar, vocabulary, fill-in-the-blanks, idioms |
 | **Analytical & Logical Reasoning (ALR)** | 25 | 22–25 Minutes | Series, coding-decoding, blood relations, puzzles |
 | **Quantitative, DI & DS** | 20 | 25–28 Minutes | Arithmetic, basic algebra, data caselets |
-| **Total** | **60** | **60 Minutes** | **Target Score: 42+ for SIBM Pune** |
+| **Total** | **60** | **60 Minutes** | **Target Score: 42+ for [SIBM Pune](/colleges/sibm-pune)** |
 
 *Note: There is no General Knowledge section in SNAP.*
 

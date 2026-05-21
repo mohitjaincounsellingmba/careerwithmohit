@@ -50,7 +50,7 @@ If you decide to register for multiple attempts, do not treat them as separate e
 
 The simple answer is **yes, if your budget permits**. 
 
-According to past candidate statistics, **over 70% of students who took 3 attempts saw a score increase of 4 to 8 marks** between their first and best attempt. In SNAP's competitive structure, a 4-mark increase can be the difference between a 90 percentile and a 98.5 percentile (the cutoff for SIBM Pune).
+According to past candidate statistics, **over 70% of students who took 3 attempts saw a score increase of 4 to 8 marks** between their first and best attempt. In SNAP's competitive structure, a 4-mark increase can be the difference between a 90 percentile and a 98.5 percentile (the cutoff for [SIBM Pune](/colleges/sibm-pune)).
 
 ### The Budget Consideration
 If you cannot register for all three, register for **two attempts** (preferably Slot 1 and Slot 2). This gives you the safety net of a second attempt while keeping costs manageable.

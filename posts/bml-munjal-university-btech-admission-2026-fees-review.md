@@ -21,7 +21,7 @@ BMU looks at a holistic profile, not just exam scores.
 | **Class 10+2 (PCM-English)**| 60% - 70%+ | 60% - 65% |
 | **SAT Score** | 1200+ | 1100+ |
 
-### **BML Munjal University B.Tech Fee Structure 2026**
+### **[BML Munjal University](/colleges/bml-munjal-gurgaon) B.Tech Fee Structure 2026**
 BMU provides a premium global campus experience, and its fee structure reflects the high investment in its experiential pedagogy.
 *   **Annual Tuition Fee (CSE)**: approx. ₹4.10 Lakhs.
 *   **Total 4-Year Tuition Fees**: **₹14.0 Lakhs - ₹15.2 Lakhs**.

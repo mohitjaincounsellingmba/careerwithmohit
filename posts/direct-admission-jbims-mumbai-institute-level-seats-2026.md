@@ -37,7 +37,7 @@ A dedicated percentage of seats are reserved for NRI and foreign national candid
 
 ### Frequently Asked Questions (FAQ)
 
-### 1. Is there a management quota in JBIMS Mumbai?
+### 1. Is there a management quota in [JBIMS Mumbai](/colleges/jbims-mumbai)?
 No, JBIMS is a government-run institute and does not offer donation-based management quota seats.
 
 ### 2. How can I get direct admission in JBIMS?

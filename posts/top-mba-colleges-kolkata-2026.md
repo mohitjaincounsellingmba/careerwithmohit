@@ -72,7 +72,7 @@ Many students from West Bengal and Bihar target Kolkata for reliable private B-s
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q1. Is Kolkata good for MBA finance?**
-It is the BEST. With **IIM Calcutta** leading the way, the city has a massive ecosystem of finance professionals and legacy industry ties.
+It is the BEST. With **[IIM Calcutta](/colleges/iim-calcutta)** leading the way, the city has a massive ecosystem of finance professionals and legacy industry ties.
 
 **Q2. What is the JEMAT exam?**
 The Joint Entrance Management Aptitude Test (JEMAT) is the state-level entrance exam for MBA/PGDM seats in West Bengal government and private colleges.

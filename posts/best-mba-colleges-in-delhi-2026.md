@@ -164,7 +164,7 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Which MBA college in Delhi has the best placements?
-**FMS Delhi** and **[MDI Gurgaon](/colleges/mdi-gurgaon)** consistently offer the best placements, with average packages exceeding ₹27-30 LPA.
+**[FMS Delhi](/colleges/fms-delhi)** and **[MDI Gurgaon](/colleges/mdi-gurgaon)** consistently offer the best placements, with average packages exceeding ₹27-30 LPA.
 
 ### 2. Can I get into FMS Delhi with a low CAT score?
 No, FMS Delhi is highly competitive and usually requires a **99.8+ percentile** in CAT for the general category.
@@ -172,7 +172,7 @@ No, FMS Delhi is highly competitive and usually requires a **99.8+ percentile** 
 ### 3. Are there good MBA colleges in Delhi with fees under 10 Lakhs?
 Yes, **FMS Delhi** (₹2 Lakhs) and **SRCC GBO** (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
 
-### 4. Is MDI Gurgaon better than new IIMs?
+### 4. Is [MDI Gurgaon](/colleges/mdi-gurgaon) better than new IIMs?
 Yes, **MDI Gurgaon** is widely considered better than most "New" and "Baby" IIMs due to its legacy and location advantage.
 
 [👉 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry)

@@ -69,7 +69,7 @@ Yes. Initially, most marketing roles involve **Sales and Field Work**. You have 
 Absolutely. In fact, Marketing is the most "fresher-friendly" specialization compared to Finance or Consulting, which often value work experience.
 
 **Q4. Does [MDI Gurgaon](/colleges/mdi-gurgaon) accept MAT?**
-No. MDI Gurgaon accepts only **CAT** scores.
+No. [MDI Gurgaon](/colleges/mdi-gurgaon) accepts only **CAT** scores.
 
 **Q5. What is the average package for marketing freshers?**
 In a Tier-2 college, expect ₹6L to ₹9L. In Tier-1 (IIM/MDI/XLRI), freshers start at ₹15L to ₹25L.

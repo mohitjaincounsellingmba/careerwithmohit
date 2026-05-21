@@ -61,7 +61,7 @@ VIT has a unique sliding-scale fee model based on your VITEEE rank. The better y
 | **Category 4** | 15,000 – 30,000 | ₹17.80 Lakhs |
 | **Category 5** | Above 30,000 | ₹19.80 Lakhs |
 
-> **Key Point:** If you crack VITEEE in the top 1,500, VIT Vellore (Cat 1) at ₹7.8L total is one of the **best ROI deals** in private engineering.
+> **Key Point:** If you crack VITEEE in the top 1,500, [VIT Vellore](/colleges/vit-vellore) (Cat 1) at ₹7.8L total is one of the **best ROI deals** in private engineering.
 
 ---
 

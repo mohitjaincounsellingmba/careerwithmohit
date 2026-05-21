@@ -72,7 +72,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹16.4 LPA | **Highest**: ~₹32+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: CAP Interview
 - **Campus**: Permanent campus in Jammu
-- **Mentor**: IIM Calcutta
+- **Mentor**: [IIM Calcutta](/colleges/iim-calcutta)
 - **Special Feature**: Significant scholarships available for J&K domicile students
 - **Verdict**: One of the newer Baby IIMs with actively improving placements. Geographical remoteness remains a challenge for some recruiters, but the IIM brand is strong.
 

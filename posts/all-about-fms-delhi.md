@@ -50,7 +50,7 @@ FMS consistently matches or beats the average packages of [IIM Ahmedabad](/colle
 - **Pros:** The ultimate ROI—spending ₹2 Lakhs to get an average package of ₹34 Lakhs is unmatched globally. A highly intellectual peer group scoring 99+ in CAT. The unparalleled legacy and the vibrant culture of Delhi University’s North Campus. No debt burden upon graduation.
 - **Cons:** The infrastructure is very old. It operates out of a single red brick building without a sprawling green campus or modern hostels dedicated solely to FMS students.
 
-**Our Verdict:** FMS Delhi is the holy grail for MBA aspirants. If you score 99+ percentile in CAT and secure a seat here, you do not think twice. While you will miss out on the lavish 100-acre IIM campuses, graduating debt-free with a job at MBB (McKinsey, BCG, Bain) or top FMCG firms makes FMS an absolute no-brainer.
+**Our Verdict:** [FMS Delhi](/colleges/fms-delhi) is the holy grail for MBA aspirants. If you score 99+ percentile in CAT and secure a seat here, you do not think twice. While you will miss out on the lavish 100-acre IIM campuses, graduating debt-free with a job at MBB (McKinsey, BCG, Bain) or top FMCG firms makes FMS an absolute no-brainer.
 
 ---
 [👉 Need help preparing for the rigorous FMS Extempore and Personal Interview? Connect with Mohit Jain for expert guidance!](/inquiry)

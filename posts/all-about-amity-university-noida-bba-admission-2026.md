@@ -36,7 +36,7 @@ Admission to Amity BBA is typically based on merit and a personal interview.
 **Q1. Is there an entrance exam for BBA in Amity Noida?**
 Amity typically does not conduct a nationwide entrance exam for BBA; instead, it relies on Class 12 merit and a personal interview/video response.
 
-**Q2. Is Amity University Noida UGC recognized?**
+**Q2. Is [Amity University](/colleges/amity-noida) Noida UGC recognized?**
 Yes, Amity University is recognized by the University Grants Commission (UGC) and has various other national and international accreditations.
 
 **Q3. Can I change my specialization after the first year?**

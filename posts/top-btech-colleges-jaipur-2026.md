@@ -30,7 +30,7 @@ This guide covers the **top B.Tech colleges in Jaipur for 2026** with fees, REAP
 ## Tier 1 — [MNIT Jaipur](/colleges/mnit-jaipur) (Government Excellence)
 
 ### 1. Malaviya National Institute of Technology (MNIT), Jaipur
-MNIT Jaipur is Rajasthan's premier government engineering institution and one of India's top NITs. Getting into MNIT CSE is a dream for thousands of Rajasthan JEE aspirants.
+[MNIT Jaipur](/colleges/mnit-jaipur) is Rajasthan's premier government engineering institution and one of India's top NITs. Getting into MNIT CSE is a dream for thousands of Rajasthan JEE aspirants.
 
 - **Courses:** CSE, ECE, EEE, Mechanical, Civil, Chemical, Architecture
 - **Admission:** JEE Main → JoSAA Counselling
@@ -111,7 +111,7 @@ If your REAP rank isn't enough for your desired college, management quota is ava
 ## FAQs — B.Tech Colleges in Jaipur 2026
 
 **Q1. Which is the best B.Tech college in Jaipur?**
-MNIT Jaipur is the top government engineering college. Among private colleges, Manipal University Jaipur is the highest-ranked, followed by [JECRC University](/colleges/jecrc-jaipur).
+MNIT Jaipur is the top government engineering college. Among private colleges, [Manipal University Jaipur](/colleges/manipal-university-jaipur) is the highest-ranked, followed by [JECRC University](/colleges/jecrc-jaipur).
 
 **Q2. What JEE Main rank is needed for MNIT Jaipur CSE?**
 For the general category, a JEE Main rank below 3,500 (CRL) is typically required for CSE at MNIT Jaipur.

@@ -30,7 +30,7 @@ MUJ offers an intensive 2-year full-time MBA program. The fee structure has seen
 | **MBA (General Category)** | ₹10.45 Lakhs - ₹11.71 Lakhs |
 | **MBA (NRI Category)** | ₹26.65 Lakhs - ₹27.18 Lakhs |
 
-*Note: Hostel fees at Manipal University Jaipur are approximately ₹3.63 Lakhs (depending on the room type) over and above the tuition fee.*
+*Note: Hostel fees at [Manipal University Jaipur](/colleges/manipal-university-jaipur) are approximately ₹3.63 Lakhs (depending on the room type) over and above the tuition fee.*
 
 ---
 

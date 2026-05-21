@@ -61,7 +61,7 @@ SNAP scores are primarily accepted by the institutes under the Symbiosis umbrell
 - SIBM (Symbiosis Institute of Business Management), Hyderabad
 
 ---
-[👉 Confused between SIBM Pune and SCMHRD? We can help you pick the right specialization. Contact us today!](/inquiry)
+[👉 Confused between [SIBM Pune](/colleges/sibm-pune) and SCMHRD? We can help you pick the right specialization. Contact us today!](/inquiry)
 
 ---
 

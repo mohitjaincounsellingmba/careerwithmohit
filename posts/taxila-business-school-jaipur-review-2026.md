@@ -5,7 +5,7 @@ description: "Looking for an MBA/PGDM in Jaipur? Read our complete 2026 review o
 keywords: ["[Taxila Business School](/colleges/taxila-jaipur) Jaipur review", "Taxila PGDM fees 2026", "[Taxila Business School](/colleges/taxila-jaipur) placements", "best MBA colleges in Jaipur 2026", "Taxila average package"]
 ---
 
-Taxila Business School (TBS) Jaipur is ranked among the top emerging B-Schools in India, well-known for its intensive pedagogy, corporate-focused curriculum, and impressive placement records. If you are aiming for management education in Jaipur, TBS offers a compelling PGDM program.
+[Taxila Business School](/colleges/taxila-jaipur) (TBS) Jaipur is ranked among the top emerging B-Schools in India, well-known for its intensive pedagogy, corporate-focused curriculum, and impressive placement records. If you are aiming for management education in Jaipur, TBS offers a compelling PGDM program.
 
 Below is a complete breakdown of Taxila Business School's PGDM program, fees, and placements for the 2026-2028 batch.
 

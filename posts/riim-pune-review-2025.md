@@ -2,7 +2,7 @@
 title: "[RIIM Pune](/colleges/riim-pune) Review 2025: High ROI & Practical Learning"
 date: "2026-03-14"
 description: "Is [RIIM Pune](/colleges/riim-pune) good for MBA/PGDM? Discover why [RIIM Pune](/colleges/riim-pune) is famous for its ROI, 2025 placements, and the intensive employability training."
-keywords: ["[RIIM Pune](/colleges/riim-pune) review 2025", "RIIM Pune placements", "RIIM Pune fees", "RIIM Pune average package 2025", "best ROI MBA college in Pune", "RIIM Pune reviews"]
+keywords: ["[RIIM Pune](/colleges/riim-pune) review 2025", "[RIIM Pune](/colleges/riim-pune) placements", "RIIM Pune fees", "RIIM Pune average package 2025", "best ROI MBA college in Pune", "RIIM Pune reviews"]
 ---
 
 RIIM (Ramachandran International Institute of Management) is often dubbed as one of Pune's best "ROI" (Return on Investment) institutions. It focuses heavily on employability training to ensure students from all backgrounds can crack top-tier corporate roles.
