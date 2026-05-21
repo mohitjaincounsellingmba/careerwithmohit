@@ -1,6 +1,14 @@
-# COCKROGE JANTA PARTY
-
-> **Note:** This is a draft blog post for the "COCKROGE JANTA PARTY" topic. It follows the SEO guidelines defined in the `write-blog` skill.
+---
+title: "Cockroge Janta Party"
+date: 2026-05-21
+author: "Mohit Jain"
+draft: false
+description: "Discover the origins, cultural impact, and online spread of the Cockroge Janta Party meme."
+tags:
+  - meme
+  - social media
+  - India
+---
 
 ## Introduction
 
