@@ -83,3 +83,11 @@ JIMS Rohini offers an industry-centric BBA curriculum under IP University with a
 - [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026)
 - [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet)
 - [How to Get Into Top BBA Colleges Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

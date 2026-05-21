@@ -61,3 +61,11 @@ An internship is where you apply classroom learning to real corporate problems.
 - [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026)
 - [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
 - [Best BBA Colleges in Delhi NCR for Girls: Safety & Placements](/blog/best-bba-colleges-delhi-ncr-girls-safety-infrastructure-placements)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

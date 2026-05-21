@@ -125,3 +125,11 @@ JMI is a central university offering one of the most affordable BBA programs in 
 - [Best Affordable BBA Colleges in Delhi NCR under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
 - [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
 - [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
