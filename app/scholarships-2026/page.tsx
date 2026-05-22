@@ -61,11 +61,20 @@ const CATEGORIES = [
 
 const SCHOLARSHIPS = [
   {
-    name: 'Reliance Foundation Undergraduate Scholarships 2025-26',
+    name: 'National Scholarship Portal (NSP) - Central Schemes',
+    award: 'Variable (Govt Funded)',
+    eligibility: 'All Indian students (SC/ST/OBC/Minority/General)',
+    deadline: 'Multiple Deadlines',
+    category: 'Government',
+    applyLink: 'https://scholarships.gov.in/',
+  },
+  {
+    name: 'Reliance Foundation Undergraduate Scholarships',
     award: 'Up to INR 2 Lakhs',
     eligibility: 'Class 12 Passed (Min 60%)',
     deadline: 'October 2025',
     category: 'Merit-cum-Means',
+    applyLink: 'https://www.scholarships.reliancefoundation.org/',
   },
   {
     name: 'HDFC Bank Parivartan ECSS Programme',
@@ -73,6 +82,7 @@ const SCHOLARSHIPS = [
     eligibility: 'UG / PG Students',
     deadline: 'September 2025',
     category: 'Means-Based',
+    applyLink: 'https://www.buddy4study.com/page/hdfc-bank-parivartan-ecss-programme',
   },
   {
     name: 'SBI Asha Scholarship Program',
@@ -80,6 +90,7 @@ const SCHOLARSHIPS = [
     eligibility: 'MBA / PGDM Students (Top IIMs/IITs)',
     deadline: 'November 2025',
     category: 'Management',
+    applyLink: 'https://www.buddy4study.com/page/sbi-asha-scholarship-program',
   },
   {
     name: 'Kotak Kanya Scholarship',
@@ -87,6 +98,7 @@ const SCHOLARSHIPS = [
     eligibility: 'Girls pursuing professional grad courses',
     deadline: 'August 2025',
     category: 'For Women',
+    applyLink: 'https://www.buddy4study.com/page/kotak-kanya-scholarship',
   },
   {
     name: 'Tata Trust Medical and Healthcare Scholarship',
@@ -94,6 +106,7 @@ const SCHOLARSHIPS = [
     eligibility: 'MBBS / Healthcare students',
     deadline: 'December 2025',
     category: 'Medical',
+    applyLink: 'https://www.tatatrusts.org/our-work/individual-grants-initiative/education-grants',
   },
   {
     name: 'Chevening Scholarships (UK)',
@@ -101,6 +114,7 @@ const SCHOLARSHIPS = [
     eligibility: 'Graduates looking for Masters in UK',
     deadline: 'November 2025',
     category: 'Study Abroad',
+    applyLink: 'https://www.chevening.org/',
   },
 ];
 
@@ -184,7 +198,8 @@ export default function ScholarshipsPage() {
                   <th className="p-6 border-r border-white/20">Category</th>
                   <th className="p-6 border-r border-white/20">Award</th>
                   <th className="p-6 border-r border-white/20">Eligibility</th>
-                  <th className="p-6">Expected Deadline</th>
+                  <th className="p-6 border-r border-white/20">Expected Deadline</th>
+                  <th className="p-6">Action</th>
                 </tr>
               </thead>
               <tbody className="text-sm font-bold">
@@ -204,8 +219,18 @@ export default function ScholarshipsPage() {
                     <td className="p-6 border-r-4 border-foreground text-slate-600">
                       {schol.eligibility}
                     </td>
-                    <td className="p-6 text-rose-600 font-black">
+                    <td className="p-6 border-r-4 border-foreground text-rose-600 font-black">
                       {schol.deadline}
+                    </td>
+                    <td className="p-6">
+                      <a 
+                        href={schol.applyLink}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 bg-foreground text-white border-2 border-foreground px-4 py-2 text-xs font-black uppercase hover:bg-white hover:text-foreground transition-colors shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] active:shadow-none active:translate-x-0.5 active:translate-y-0.5"
+                      >
+                        Apply Here <ArrowUpRight className="w-3 h-3" />
+                      </a>
                     </td>
                   </tr>
                 ))}
