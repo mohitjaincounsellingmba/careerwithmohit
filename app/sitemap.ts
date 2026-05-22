@@ -20,6 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/inquiry',
     '/online-degree-certification',
     '/mock-tests',
+    '/scholarships-2026',
     '/tools/cat-mock-test',
     '/tools/nmat-mock-test',
     '/tools/mhcet-mock-test',
