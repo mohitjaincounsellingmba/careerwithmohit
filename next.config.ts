@@ -16,6 +16,11 @@ const nextConfig: NextConfig = {
         destination: '/blog/:slug',
         permanent: true,
       },
+      {
+        source: '/tools/roadmap-calculator',
+        destination: '/calculator/career-roadmap',
+        permanent: true,
+      },
     ];
   },
 };
