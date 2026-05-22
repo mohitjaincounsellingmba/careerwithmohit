@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
+import { useSearchParams } from 'next/navigation';
 import Link from "next/link";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CollegeCard } from "@/components/CollegeCard";
@@ -18,6 +19,7 @@ interface TrendingBlog {
 
 export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: CollegeMetadata[]; trendingBlogs?: TrendingBlog[] }) {
   const [searchQuery, setSearchQuery] = useState("");
+  const searchParams = useSearchParams();
   const [selectedCategory, setSelectedCategory] = useState("All Streams");
   const [selectedCourse, setSelectedCourse] = useState("All Courses");
   const [selectedSpecialization, setSelectedSpecialization] = useState("All Specializations");
@@ -29,6 +31,12 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   const [selectedRanking, setSelectedRanking] = useState("All Rankings");
   const [showFiltersMobile, setShowFiltersMobile] = useState(false);
   const [visibleCount, setVisibleCount] = useState(20);
+
+  // Initialize searchQuery from URL query param on mount
+  useEffect(() => {
+    const q = searchParams?.get('search') || '';
+    if (q) setSearchQuery(q);
+  }, [searchParams]);
 
   // Specialization options keyed by category
   const specializationMap: Record<string, string[]> = {
@@ -220,8 +228,8 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
     console.log('Filtered colleges count:', filteredColleges.length);
   }, [filteredColleges]);
 
-  // Handle visible count reset when filters change
-  useMemo(() => {
+  // Reset visible count when filters change
+  useEffect(() => {
     setVisibleCount(20);
   }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking]);
 

@@ -1,6 +1,9 @@
+// Server component
 import Link from 'next/link';
+
 import type { Metadata } from 'next';
 import { getSortedPostsData } from '@/lib/markdown';
+import HomeSearch from '@/components/HomeSearch';
 import { NEWS_ITEMS } from '@/lib/news';
 export const revalidate = 300; // 5 minutes
 import {
@@ -102,6 +105,7 @@ import { DynamicHeroText } from '@/components/DynamicHeroText';
 
 export default function Home() {
   const allPostsData = getSortedPostsData();
+    // Search functionality moved to HomeSearch component
 
   return (
     <div className="w-full">
@@ -116,6 +120,9 @@ export default function Home() {
             Best <DynamicHeroText /> Colleges <br className="hidden sm:block" />
             <span className="bg-accent text-foreground px-4 py-1 inline-block mt-4 -rotate-2 border-4 border-foreground">Admission 2026</span>
           </h1>
+          <div className="mt-8 flex justify-center">
+            <HomeSearch />
+          </div>
           <p className="mx-auto mt-10 max-w-2xl text-xl font-bold leading-relaxed text-blue-50">
             Expert career counselling, interview preparation, and bold strategies to help you dominate your professional goals.
           </p>
