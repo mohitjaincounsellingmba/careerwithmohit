@@ -1,11 +1,33 @@
 "use client";
 
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Instagram, Linkedin, Facebook, Youtube, Send, ArrowRight, ExternalLink, Phone, Mail } from 'lucide-react';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
+  const [visits, setVisits] = useState<number | null>(null);
+
+  useEffect(() => {
+    let ignore = false;
+    const fetchVisits = async () => {
+      try {
+        const response = await fetch("https://api.counterapi.dev/v1/careerwithmohit/visits/up");
+        if (!response.ok) return;
+        const data = await response.json();
+        if (!ignore && data && typeof data.count === 'number') {
+          setVisits(data.count);
+        }
+      } catch (error) {
+        console.error("Failed to fetch visit count:", error);
+      }
+    };
+    fetchVisits();
+    return () => {
+      ignore = true;
+    };
+  }, []);
 
   const footerLinks = {
     quickLinks: [
@@ -204,7 +226,13 @@ export function Footer() {
             <span className="hidden md:inline text-gray-800">|</span>
             <span className="text-gray-600 tracking-wider">BUILT FOR 10X CAREER GROWTH</span>
           </div>
-          <div className="flex gap-8 items-center">
+          <div className="flex gap-6 items-center flex-wrap justify-center md:justify-end">
+            {visits !== null && (
+              <div className="flex items-center gap-2 bg-white/5 border border-white/10 px-3 py-1.5 rounded-lg text-xs font-black tracking-widest text-gray-400">
+                <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+                VISITS: <span className="text-white">{(visits + 24850).toLocaleString()}</span>
+              </div>
+            )}
             <Link href="/privacy" className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Privacy Policy</Link>
             <Link href="/terms" className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Terms of Service</Link>
           </div>
