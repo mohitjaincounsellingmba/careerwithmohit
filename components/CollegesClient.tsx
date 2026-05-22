@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CollegeCard } from "@/components/CollegeCard";
@@ -214,6 +214,11 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
       return matchesSearch && matchesCategory && matchesCourse && matchesSpecialization && matchesState && matchesCity && matchesOwnership && matchesExam && matchesFee && matchesRanking;
     });
   }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, colleges, locationMap]);
+
+  // Debug: log filtered colleges count whenever it changes
+  useEffect(() => {
+    console.log('Filtered colleges count:', filteredColleges.length);
+  }, [filteredColleges]);
 
   // Handle visible count reset when filters change
   useMemo(() => {
