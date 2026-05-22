@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { Compass, Menu, X, Phone } from 'lucide-react';
+import { Compass, Menu, X, Phone, ChevronDown } from 'lucide-react';
 import Image from 'next/image';
 import { SearchInput } from './SearchInput';
 
@@ -29,8 +29,24 @@ export function Header() {
           <Link href="/" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Home Page">Home</Link>
           <Link href="/about" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="About Mohit Jain">About</Link>
           <Link href="/blog" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
-          <Link href="/colleges" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Explore Top Colleges">Colleges</Link>
-          <Link href="/online-degree-certification" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform text-cyan-600 font-extrabold" title="Online Degrees & Certifications">Online Degrees</Link>
+          
+          <div className="relative group">
+            <button className="flex items-center gap-1 hover:text-primary hover:-translate-y-0.5 transition-transform font-bold outline-none">
+              Admission
+              <ChevronDown className="w-4 h-4 transition-transform group-hover:-rotate-180" />
+            </button>
+            <div className="absolute top-full left-0 mt-2 w-56 bg-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50 flex flex-col">
+              <Link href="/colleges" prefetch={false} className="px-5 py-3 hover:bg-slate-50 border-b-2 border-slate-100 transition-colors font-bold flex items-center gap-2">
+                <span className="w-2 h-2 bg-primary rounded-full"></span> Top Colleges
+              </Link>
+              <Link href="/online-degree-certification" prefetch={false} className="px-5 py-3 hover:bg-cyan-50 border-b-2 border-slate-100 transition-colors font-bold text-cyan-700 flex items-center gap-2">
+                <span className="w-2 h-2 bg-cyan-500 rounded-full"></span> Online Degrees
+              </Link>
+              <Link href="/abroad-education" prefetch={false} className="px-5 py-3 hover:bg-emerald-50 transition-colors font-bold text-emerald-700 flex items-center gap-2">
+                <span className="w-2 h-2 bg-emerald-500 rounded-full"></span> Abroad Education
+              </Link>
+            </div>
+          </div>
         </nav>
         <div className="flex items-center gap-4">
           <SearchInput />
@@ -67,12 +83,23 @@ export function Header() {
             <Link href="/blog" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
               <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Blog
             </Link>
-            <Link href="/colleges" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
-              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Colleges
-            </Link>
-            <Link href="/online-degree-certification" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-cyan-600 font-extrabold">
-              <span className="w-2 h-2 rounded-full bg-cyan-500 mr-3 inline-block"></span>Online Degrees
-            </Link>
+            
+            <div className="flex flex-col gap-4">
+              <div className="flex items-center text-slate-500 text-sm tracking-widest uppercase">
+                Admission
+              </div>
+              <div className="pl-4 flex flex-col gap-5 border-l-2 border-slate-100 ml-1">
+                <Link href="/colleges" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
+                  <span className="w-1.5 h-1.5 rounded-full bg-primary mr-3 inline-block"></span>Top Colleges
+                </Link>
+                <Link href="/online-degree-certification" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-cyan-600 font-extrabold">
+                  <span className="w-1.5 h-1.5 rounded-full bg-cyan-500 mr-3 inline-block"></span>Online Degrees
+                </Link>
+                <Link href="/abroad-education" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-emerald-600 font-extrabold">
+                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 mr-3 inline-block"></span>Abroad Education
+                </Link>
+              </div>
+            </div>
 
             <Link 
               href="tel:+919560020771" 
