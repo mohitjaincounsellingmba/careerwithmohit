@@ -40,6 +40,7 @@ export function Footer() {
       { name: 'About Mohit', href: '/about' },
     ],
     predictors: [
+      { name: 'CAT Score Calculator', href: '/tools/cat-score-calculator', color: 'text-amber-400' },
       { name: 'JEE Main Predictor', href: '/calculator/jee-main-2026', color: 'text-red-400' },
       { name: 'CUET PG Tool', href: '/calculator/cuet-pg-2026', color: 'text-cyan-400' },
       { name: 'CUET UG Predictor', href: '/calculator/cuet-ug-2026', color: 'text-emerald-400' },

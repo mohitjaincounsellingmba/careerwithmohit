@@ -30,6 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/ai-skills',
     '/tools/hashtag-generator',
     '/tools/govt-exams-mock-test',
+    '/tools/cat-score-calculator',
     '/services',
     '/sell-your-coaching-online',
     '/partner-with-us',
