@@ -130,6 +130,68 @@ export function CatScoreCalculator() {
   const [showInquiry, setShowInquiry] = useState(false);
   const [activeTab, setActiveTab] = useState<SectionKey>("varc");
 
+  // Link & Page Source parsing state
+  const [responseSheetUrl, setResponseSheetUrl] = useState("");
+  const [pageSource, setPageSource] = useState("");
+  const [isParsing, setIsParsing] = useState(false);
+  const [parseError, setParseError] = useState("");
+  const [isAnalyzing, setIsAnalyzing] = useState(false);
+  const [analysisResult, setAnalysisResult] = useState<any>(null);
+
+  const handleAnalyzeUrl = async () => {
+    if (!responseSheetUrl) return alert("Please enter the response sheet URL.");
+    
+    setIsAnalyzing(true);
+    setParseError("");
+    setAnalysisResult(null);
+
+    try {
+        const res = await fetch('/api/analyze-link', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ url: responseSheetUrl })
+        });
+
+        const result = await res.json();
+        
+        if (!res.ok) throw new Error(result.error || "Analysis failed");
+
+        setAnalysisResult(result.data);
+    } catch (err: any) {
+        setParseError(err.message);
+    } finally {
+        setIsAnalyzing(false);
+    }
+  };
+
+  const handleParseSource = () => {
+    if (!pageSource) {
+        setParseError("Please paste the page source code first.");
+        return;
+    }
+
+    setIsParsing(true);
+    setParseError("");
+
+    try {
+        const answeredCount = (pageSource.match(/Answered/g) || []).length;
+        const totalFetched = (pageSource.match(/Question ID/g) || []).length;
+        
+        if (answeredCount === 0 && totalFetched === 0) {
+            throw new Error("Could not find any 'Answered' status in the pasted content. Make sure you pasted the full page source.");
+        }
+
+        setAnalysisResult({
+            totalFetched: totalFetched || 66,
+            answeredCount: answeredCount
+        });
+    } catch (err: any) {
+        setParseError(err.message);
+    } finally {
+        setIsParsing(false);
+    }
+  };
+
   const stats = useMemo(() => {
     const sections = SECTIONS.map((s) => {
       const raw = calcSectionRaw(inputs[s.key as SectionKey]);
@@ -173,6 +235,9 @@ export function CatScoreCalculator() {
     setInputs({ varc: { ...defaultSection }, dilr: { ...defaultSection }, qa: { ...defaultSection } });
     setIsUnlocked(false);
     setShowLeadForm(false);
+    setAnalysisResult(null);
+    setResponseSheetUrl("");
+    setPageSource("");
   };
 
   const handleLeadSubmit = async (e: React.FormEvent) => {
@@ -246,6 +311,87 @@ export function CatScoreCalculator() {
         </div>
 
         <div className="p-8 md:p-10">
+          {/* Response Sheet URL Section */}
+          <div className="mb-12 bg-slate-50 border-4 border-foreground p-6 md:p-8">
+            <div className="flex items-center gap-3 mb-6">
+              <Zap className="w-6 h-6 text-amber-500 animate-pulse" />
+              <h3 className="text-xl font-black uppercase tracking-tight">Step 1: Scan Your Answer Key</h3>
+            </div>
+
+            <div className="space-y-6">
+              <div>
+                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: Answer Key Link</label>
+                <div className="flex flex-col md:flex-row gap-4 mb-4">
+                  <input
+                    type="text"
+                    value={responseSheetUrl}
+                    onChange={(e) => setResponseSheetUrl(e.target.value)}
+                    placeholder="Paste your Answer Key Link here..."
+                    className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-amber-300 transition-all"
+                  />
+                  <button
+                    onClick={handleAnalyzeUrl}
+                    disabled={isAnalyzing}
+                    className="bg-amber-400 text-foreground border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-foreground hover:text-white transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
+                  >
+                    {isAnalyzing ? "Scanning..." : "Get Attempts"}
+                  </button>
+                </div>
+
+                {analysisResult && (
+                  <div className="bg-white border-4 border-amber-300 p-4 animate-in slide-in-from-top-4 duration-500">
+                    <div className="flex items-center gap-2 text-amber-600 font-black uppercase text-xs mb-4">
+                      <Zap className="w-4 h-4" />
+                      Answer Key Scanned!
+                    </div>
+                    <div className="grid grid-cols-2 gap-4">
+                      <div className="bg-slate-50 p-3 border-2 border-slate-200">
+                        <div className="text-[10px] font-black text-slate-400 uppercase">Total Detected</div>
+                        <div className="text-xl font-black">{analysisResult.totalFetched}</div>
+                      </div>
+                      <div className="bg-emerald-50 p-3 border-2 border-emerald-200">
+                        <div className="text-[10px] font-black text-emerald-600 uppercase">Answered</div>
+                        <div className="text-xl font-black">{analysisResult.answeredCount}</div>
+                      </div>
+                    </div>
+                    <p className="text-[10px] font-bold text-slate-400 uppercase italic mt-3 text-center">
+                      Now distribute your {analysisResult.answeredCount} answered questions across the sections below.
+                    </p>
+                  </div>
+                )}
+              </div>
+
+              <div className="h-px bg-slate-200"></div>
+
+              <div>
+                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method B: Paste Page Source (Backup)</label>
+                <textarea
+                  value={pageSource}
+                  onChange={(e) => setPageSource(e.target.value)}
+                  placeholder="Backup: Paste page source code here..."
+                  className="w-full h-24 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-amber-300 transition-all mb-4"
+                />
+                {parseError && <p className="text-rose-600 font-black text-xs uppercase mb-4 flex items-center gap-2">
+                  <AlertCircle className="w-4 h-4" />
+                  {parseError}
+                </p>}
+                <button
+                  onClick={handleParseSource}
+                  disabled={isParsing}
+                  className="w-full bg-slate-800 text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
+                >
+                  {isParsing ? "Scanning..." : "Parse My Score"}
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-3 mb-10 transition-all">
+              <div className="h-1 flex-1 bg-slate-200"></div>
+              <span className="text-xs font-black uppercase text-slate-400 tracking-widest px-4">STEP 2: ENTER SECTION MARKS</span>
+              <div className="h-1 flex-1 bg-slate-200"></div>
+          </div>
+
           {/* Section Tabs */}
           <div className="flex border-4 border-foreground mb-8 overflow-hidden">
             {SECTIONS.map((s) => {
