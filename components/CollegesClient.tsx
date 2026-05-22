@@ -413,7 +413,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                     type="text"
                     placeholder="Search colleges by name, courses, or exams..."
                     value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
+                    onChange={(e) => { console.log('Search input changed:', e.target.value); setSearchQuery(e.target.value); }}
                     className="w-full pl-14 pr-12 py-4 bg-slate-50 border border-slate-100 rounded-2xl focus:outline-none focus:ring-4 focus:ring-blue-100/50 focus:bg-white transition-all text-base font-bold text-slate-900 placeholder:text-slate-400"
                   />
                   {searchQuery && (
