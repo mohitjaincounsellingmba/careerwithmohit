@@ -54,7 +54,7 @@ GCEC has maintained an impressive record, especially given its niche focus.
 ---
 
 ### **Frequently Asked Questions (FAQ)**
-**1. Is GCEC Poornima University degree valid?**
+**1. Is GCEC [Poornima University](/colleges/poornima-jaipur) degree valid?**
 Yes. The degree is awarded by Poornima University, which is a UGC-recognized private university in Rajasthan.
 
 **2. How many ACCA exemptions do I get in the GCEC MBA?**

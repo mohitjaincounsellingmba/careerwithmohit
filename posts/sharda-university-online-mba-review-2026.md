@@ -12,7 +12,7 @@ Designed to empower ambitious professionals and fresh graduates, the **Sharda On
 
 ---
 
-## 📊 Sharda University Online MBA Snapshot
+## 📊 [Sharda University](/colleges/sharda-greater-noida) Online MBA Snapshot
 
 | Feature | Details |
 | :--- | :--- |

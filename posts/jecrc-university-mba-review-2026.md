@@ -23,7 +23,7 @@ Whether you are targeting general management or specialized fields like Fintech,
 
 ### **MBA Fee Structure (2026 Intake)**
 
-JECRC University offers the standard MBA as well as specialized industry-integrated MBA programs (like Fintech). The fees are quite affordable compared to many private universities.
+[JECRC University](/colleges/jecrc-jaipur) offers the standard MBA as well as specialized industry-integrated MBA programs (like Fintech). The fees are quite affordable compared to many private universities.
 
 | Specialization | Estimated Total Course Fees |
 | :--- | :--- |

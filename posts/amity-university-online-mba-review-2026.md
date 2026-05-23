@@ -72,7 +72,7 @@ Amity Online offers one of the widest specialization menus in India:
 ## ✅ Why Amity Online MBA Stands Out
 
 ### 1. Globally Recognized Degree
-Amity University holds memberships with **WES (Canada/USA)**, **QS World Rankings**, and other global bodies. This makes the Amity Online MBA valid for immigration, higher studies, and global employment.
+[Amity University](/colleges/amity-noida) holds memberships with **WES (Canada/USA)**, **QS World Rankings**, and other global bodies. This makes the Amity Online MBA valid for immigration, higher studies, and global employment.
 
 ### 2. Maximum Specialization Flexibility
 With **15+ specializations** (vs 4–6 offered by most competitors), Amity gives you the widest variety to align your MBA with your career goal.

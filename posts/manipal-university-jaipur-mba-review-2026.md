@@ -68,7 +68,7 @@ Admission to the MUJ MBA program is transparent and depends heavily on entrance 
 
 [Manipal University Jaipur](/colleges/manipal-university-jaipur) provides a spectacular campus life, excellent networking opportunities, and a strong brand name. While the fees are slightly on the higher side (nearing ₹14-15 Lakhs with hostel), the infrastructure, faculty quality, and placement consistency justify the investment. If you are targeting the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), MUJ is a premium and safe bet.
 
-[👉 Get Free Personal Counselling for Manipal University Jaipur Admissions!](/inquiry) | [💬 Talk to Mohit Jain Today](/inquiry)
+[👉 Get Free Personal Counselling for [Manipal University Jaipur](/colleges/manipal-university-jaipur) Admissions!](/inquiry) | [💬 Talk to Mohit Jain Today](/inquiry)
 
 ---
 

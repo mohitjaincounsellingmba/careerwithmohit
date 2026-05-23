@@ -102,7 +102,7 @@ VIT has a unique sliding-scale fee model based on your VITEEE rank. The better y
 
 This is the most important parameter. Let's break it down honestly.
 
-### VIT Vellore Placements 2025-26
+### [VIT Vellore](/colleges/vit-vellore) Placements 2025-26
 | Metric | Data |
 |---|---|
 | **Students Registered** | ~5,000+ |

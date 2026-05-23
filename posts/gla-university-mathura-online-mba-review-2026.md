@@ -12,7 +12,7 @@ Designed to empower ambitious professionals and fresh graduates, the **GLA Onlin
 
 ---
 
-## 📊 GLA University (Mathura) Online MBA Snapshot
+## 📊 [GLA University](/colleges/gla-university) (Mathura) Online MBA Snapshot
 
 | Feature | Details |
 | :--- | :--- |

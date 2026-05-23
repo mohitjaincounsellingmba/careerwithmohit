@@ -12,7 +12,7 @@ Designed to empower ambitious professionals and fresh graduates, the **MUJ Onlin
 
 ---
 
-## 📊 Manipal University Jaipur Online MBA Snapshot
+## 📊 [Manipal University Jaipur](/colleges/manipal-university-jaipur) Online MBA Snapshot
 
 | Feature | Details |
 | :--- | :--- |

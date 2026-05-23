@@ -2,7 +2,7 @@
 title: "[Bennett University](/colleges/bennett-greater-noida) B.Tech Admission 2026: Fees, Cutoffs & Placement Review"
 date: "2026-03-24"
 description: "Everything you need to know about [Bennett University](/colleges/bennett-greater-noida) Greater Noida B.Tech admission 2026. Get the latest on JEE Main/10+2 merit cutoffs, fee structure, and its incredible ₹1.37 Crore highest package."
-keywords: ["[Bennett University](/colleges/bennett-greater-noida) BTech admission 2026", "[Bennett University](/colleges/bennett-greater-noida) Greater Noida cutoff", "[Bennett University](/colleges/bennett-greater-noida) fees 2026", "Bennett placement review 2025", "[Bennett University](/colleges/bennett-greater-noida) average package", "Times of India Bennett University admission"]
+keywords: ["[Bennett University](/colleges/bennett-greater-noida) BTech admission 2026", "[Bennett University](/colleges/bennett-greater-noida) Greater Noida cutoff", "[Bennett University](/colleges/bennett-greater-noida) fees 2026", "Bennett placement review 2025", "[Bennett University](/colleges/bennett-greater-noida) average package", "Times of India [Bennett University](/colleges/bennett-greater-noida) admission"]
 ---
 
 **Bennett University**, established by the Times of India Group, has quickly become one of India's most high-profile private universities in the Delhi-NCR (Greater Noida). Known for its futuristic curriculum, world-class infrastructure, and a strong emphasis on entrepreneurship and AI, Bennett is a top choice for students who want a tech-lifestyle campus experience.

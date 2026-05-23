@@ -47,7 +47,7 @@ While Noida and Lucknow are the flagship campuses with the highest placement ave
 ### 2. Is there a management quota in [Jaipuria Noida](/colleges/jaipuria-noida)?
 Jaipuria follows a transparent, merit-based admission process. However, for specific queries regarding seat availability and institutional scholarships, you can reach out to our counselling team.
 
-### 3. What is the Jaipuria Noida PGDM average package for 2025?
+### 3. What is the [Jaipuria Noida](/colleges/jaipuria-noida) PGDM average package for 2025?
 The average package for the 2025 batch stood at **₹8.95 LPA**, with the top 10% of the batch securing packages above **₹15 LPA**.
 
 ---

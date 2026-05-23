@@ -2,7 +2,7 @@
 title: "[ASM IBMR](/colleges/asm-ibmr) Pune Review 2025: Legacy & Placements"
 date: "2026-03-14"
 description: "Is [ASM IBMR](/colleges/asm-ibmr) good for MBA? Read our 2025 review on placements, fees, and the industrial legacy of [ASM IBMR](/colleges/asm-ibmr) Pune."
-keywords: ["[ASM IBMR](/colleges/asm-ibmr) Pune review 2025", "[ASM IBMR](/colleges/asm-ibmr) placements", "[ASM IBMR](/colleges/asm-ibmr) fees", "ASM IBMR Pune reviews", "best management college in Chinchwad", "ASM IBMR average package 2025"]
+keywords: ["[ASM IBMR](/colleges/asm-ibmr) Pune review 2025", "[ASM IBMR](/colleges/asm-ibmr) placements", "[ASM IBMR](/colleges/asm-ibmr) fees", "[ASM IBMR](/colleges/asm-ibmr) Pune reviews", "best management college in Chinchwad", "ASM IBMR average package 2025"]
 ---
 
 ASM's Institute of Business Management & Research (IBMR) is one of the oldest management institutes in Pune. Located in the industrial heart of Chinchwad, it has been a cornerstone of management education for decades.

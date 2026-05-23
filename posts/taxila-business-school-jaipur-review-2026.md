@@ -35,7 +35,7 @@ TBS offers a flagship 2-year full-time PGDM program along with an Executive PGDM
 
 ### **Placement Records & Top Recruiters**
 
-Taxila Business School boasts a **100% placement rate** for its PGDM batches, ensuring that candidates secure high-paying jobs across different sectors. 
+[Taxila Business School](/colleges/taxila-jaipur) boasts a **100% placement rate** for its PGDM batches, ensuring that candidates secure high-paying jobs across different sectors. 
 
 *   **Highest Package**: ~₹28.60 LPA
 *   **Average Package**: ~₹11.50 LPA

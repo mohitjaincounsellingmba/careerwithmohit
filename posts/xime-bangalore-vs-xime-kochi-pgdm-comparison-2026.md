@@ -14,7 +14,7 @@ This guide breaks it all down — clearly and honestly.
 
 ---
 
-## 📊 Quick Comparison: XIME Bangalore vs XIME Kochi
+## 📊 Quick Comparison: [XIME Bangalore](/colleges/xime-bangalore) vs XIME Kochi
 
 | Feature | XIME Bangalore | XIME Kochi |
 | :--- | :--- | :--- |

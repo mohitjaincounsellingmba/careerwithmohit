@@ -55,7 +55,7 @@ While NITs offer lower fees, UPES provides niche specializations in Energy and A
 [👉 Get Expert Admission Support for UPES!](/inquiry)
 
 ### **Frequently Asked Questions (FAQ)**
-**1. Is UPES Dehradun good for Computer Science?**
+**1. Is [UPES Dehradun](/colleges/upes-dehradun) good for Computer Science?**
 Yes, UPES is highly rated for its specialized CSE programs, particularly in AI, Cyber Security, and Cloud Computing.
 
 **2. What is UPESEAT?**

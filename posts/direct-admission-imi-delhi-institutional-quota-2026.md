@@ -7,7 +7,7 @@ keywords: ["[IMI Delhi](/colleges/imi-delhi) direct admission", "[IMI Delhi](/co
 
 International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2026-28 batch, **Direct Admission in [IMI Delhi](/colleges/imi-delhi)** is a merit-linked process focusing on profile diversity and the institutional category.
 
-## Why IMI Delhi is a Top Management Choice?
+## Why [IMI Delhi](/colleges/imi-delhi) is a Top Management Choice?
 
 - **Corporate Legacy**: Strongly connected with the industry, providing excellent corporate mentorship and guest lectures.
 - **Top Programs**: PGDM, PGDM-HRM, and PGDM-B&FS (Banking & Financial Services).

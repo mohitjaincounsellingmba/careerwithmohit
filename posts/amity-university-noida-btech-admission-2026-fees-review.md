@@ -29,7 +29,7 @@ Amity offers premium facilities at an annual fee comparable to other top-tier NC
 *   **Hostel Fee**: ₹1.0 Lakhs to ₹2.04 Lakhs per year (AC mandatory for some rooms).
 
 ### **Placement Review: A Global Career Launcher**
-Amity University Noida is proud of its high placement percentages across circuit branch graduates.
+[Amity University](/colleges/amity-noida) Noida is proud of its high placement percentages across circuit branch graduates.
 *   **Highest Package (2025/2026 Batch)**: ₹35.90 LPA (Microsoft) / ₹61.7 LPA (Overall highest).
 *   **Average Package (B.Tech Overall)**: ₹9.60 LPA (CSE) / ₹6.5 LPA (Overall).
 *   **Top Recruiters**: Microsoft India, Amazon, LinkedIn, IBM, TCS, Deloitte, and Genpact.

@@ -7,7 +7,7 @@ keywords: ["[Poornima University](/colleges/poornima-jaipur) Jaipur MBA review",
 
 **[Poornima University](/colleges/poornima-jaipur) (PU), Jaipur** is a well-established private university known for delivering quality higher education with a strong emphasis on practical skills, entrepreneurship, and industry readiness. Its MBA program attracts a wide range of students seeking a balance of affordability and decent placement outcomes.
 
-If you are evaluating Poornima University for your MBA aspirations, here is a detailed breakdown of what to expect for the 2026 incoming batch.
+If you are evaluating [Poornima University](/colleges/poornima-jaipur) for your MBA aspirations, here is a detailed breakdown of what to expect for the 2026 incoming batch.
 
 ---
 

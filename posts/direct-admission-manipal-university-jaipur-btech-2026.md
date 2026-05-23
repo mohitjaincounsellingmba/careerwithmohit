@@ -28,7 +28,7 @@ keywords: ["direct admission [Manipal University Jaipur](/colleges/manipal-unive
 
 This is the most commonly asked question — and the answer requires clarity:
 
-**No traditional management quota exists at MUJ.** Unlike many state-level private engineering colleges, Manipal University Jaipur does NOT offer seats through:
+**No traditional management quota exists at MUJ.** Unlike many state-level private engineering colleges, [Manipal University Jaipur](/colleges/manipal-university-jaipur) does NOT offer seats through:
 - Donation-based or capitation fee seats
 - Agent-facilitated "guaranteed admission" against payment
 

@@ -2,7 +2,7 @@
 title: "[ISMS Pune](/colleges/isms-pune) review 2025: Placements, Fees and ROI"
 date: "2026-03-14"
 description: "Review of [ISMS Pune](/colleges/isms-pune) MBA/PGDM: explore placements 2025, fees for international programs and why students choose it for marketing and business."
-keywords: ["[ISMS Pune](/colleges/isms-pune) review 2025", "[ISMS Pune](/colleges/isms-pune) placements", "[ISMS Pune](/colleges/isms-pune) fees", "PGDM in [ISMS Pune](/colleges/isms-pune)", "best ROI MBA college Pune", "ISMS Pune average package 2025"]
+keywords: ["[ISMS Pune](/colleges/isms-pune) review 2025", "[ISMS Pune](/colleges/isms-pune) placements", "[ISMS Pune](/colleges/isms-pune) fees", "PGDM in [ISMS Pune](/colleges/isms-pune)", "best ROI MBA college Pune", "[ISMS Pune](/colleges/isms-pune) average package 2025"]
 ---
 
 ISMS (International School of Management Studies) Pune is known for its strong emphasis on global management practices and corporate exposure. It offers a mix of domestic and international management programs that cater to diverse student aspirations.

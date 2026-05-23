@@ -23,7 +23,7 @@ As we move into the 2026-27 session, a degree from [Manipal University Jaipur](/
 👉 **[Start Your Enrollment for MUJ Online](/inquiry)**
 
 ## Popular Programs & Fee Structure
-Manipal University Jaipur's online programs are designed for the 2026 workforce:
+[Manipal University Jaipur](/colleges/manipal-university-jaipur)'s online programs are designed for the 2026 workforce:
 
 ### 1. Online MBA (Postgraduate)
 - **Specializations:** Data Science, Fintech, HR, Finance, Retail, Operations.

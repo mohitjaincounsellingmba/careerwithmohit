@@ -28,7 +28,7 @@ Here are the **10 real USPs of [BML Munjal University](/colleges/bml-munjal-gurg
 
 ---
 
-## 10 Unique Selling Points (USPs) of BML Munjal University
+## 10 Unique Selling Points (USPs) of [BML Munjal University](/colleges/bml-munjal-gurgaon)
 
 ### 1. 🏭 Hero Group Founding Legacy — India's Most Trusted Industrial Brand
 

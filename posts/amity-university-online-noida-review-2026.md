@@ -13,7 +13,7 @@ keywords: ["[Amity University](/colleges/amity-noida) Online Noida review", "Ami
   </a>
 </div>
 
-Whether you are a working professional looking for an MBA or a student aiming for a BCA or BBA, Amity University Online provides the flexibility and credibility needed to succeed in the modern corporate world.
+Whether you are a working professional looking for an MBA or a student aiming for a BCA or BBA, [Amity University](/colleges/amity-noida) Online provides the flexibility and credibility needed to succeed in the modern corporate world.
 
 ## **Amity University Online Rankings & Recognition**
 

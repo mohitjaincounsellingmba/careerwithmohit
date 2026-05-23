@@ -13,7 +13,7 @@ Foundation for Organisational Research and Education (FORE) School of Management
 - **Academic Rigor**: Known for its data-driven decision-making curriculum and global immersion programs.
 - **Placements**: The average package for the latest batch arrived at **₹15.4 LPA**, with top global brands as frequent recruiters.
 
-## Is there a Management Quota in FORE School of Management?
+## Is there a Management Quota in [FORE School of Management](/colleges/fore-school-delhi)?
 
 FORE School of Management follows a strictly merit-linked admission policy, but here is how the alternative seat categories function for 2026:
 

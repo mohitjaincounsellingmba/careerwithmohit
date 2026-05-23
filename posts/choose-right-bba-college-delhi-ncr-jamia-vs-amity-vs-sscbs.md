@@ -33,7 +33,7 @@ Amity Noida is a massive, premium private university. It offers state-of-the-art
 
 ## 📊 Side-by-Side Head-to-Head Comparison
 
-| Parameter | SSCBS (DU) | Jamia Millia Islamia (JMI) | [Amity University](/colleges/amity-noida), Noida |
+| Parameter | SSCBS (DU) | [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) | [Amity University](/colleges/amity-noida), Noida |
 | :--- | :--- | :--- | :--- |
 | **Course Offered** | BMS / BBA (FIA) | BBA | BBA (General / Specialized) |
 | **Admission Basis** | CUET UG Merit | JMI Entrance Exam | Class 12th Merit + PI |
@@ -47,7 +47,7 @@ Amity Noida is a massive, premium private university. It offers state-of-the-art
 ## 🧠 Deep-Dive Comparison
 
 ### Placements and Corporate Value
-If placements are your primary objective, **SSCBS** is the unmatched winner. Recruiters like McKinsey & Co., BCG, Bain Capability Network, and DE Shaw recruit directly from SSCBS. **Amity University** provides excellent placement assistance and brings in massive numbers of recruiters, but the sheer batch size makes competition intense. **Jamia Millia Islamia** offers steady placements, especially in retail, logistics, and traditional marketing.
+If placements are your primary objective, **SSCBS** is the unmatched winner. Recruiters like McKinsey & Co., BCG, Bain Capability Network, and DE Shaw recruit directly from SSCBS. **[Amity University](/colleges/amity-noida)** provides excellent placement assistance and brings in massive numbers of recruiters, but the sheer batch size makes competition intense. **Jamia Millia Islamia** offers steady placements, especially in retail, logistics, and traditional marketing.
 
 ### Campus Life and Culture
 - **Amity** offers a sprawling campus with Olympic-sized swimming pools, high-end libraries, and frequent celebrity visits/festivals.

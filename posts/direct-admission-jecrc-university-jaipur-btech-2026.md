@@ -7,7 +7,7 @@ keywords: ["direct admission [JECRC University](/colleges/jecrc-jaipur) Jaipur B
 
 [JECRC University](/colleges/jecrc-jaipur), Jaipur, is one of Rajasthan's most recognized private universities for engineering. Students across the state search for **direct admission in JECRC for B.Tech** — either through management quota or on the basis of 12th marks. Here is everything you need to know about the real admission process, fees, and placements at [JECRC University](/colleges/jecrc-jaipur) for 2026.
 
-> **Note:** There are two separate institutions — **JECRC University** (private university) and **JECRC Foundation** (affiliated college). This post covers **JECRC University** admissions. Confirm which entity you are looking at before applying.
+> **Note:** There are two separate institutions — **[JECRC University](/colleges/jecrc-jaipur)** (private university) and **JECRC Foundation** (affiliated college). This post covers **JECRC University** admissions. Confirm which entity you are looking at before applying.
 
 ---
 

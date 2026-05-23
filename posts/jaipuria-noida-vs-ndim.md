@@ -39,7 +39,7 @@ In this comprehensive review, we dive deep into fees, placements, location advan
 NDIM Delhi, situated in the heart of South Delhi, has consistently proven itself as a powerhouse for PGDM placements. Known for its **100% placement legacy**, NDIM is our top recommendation for several crucial reasons.
 
 #### **1. Superior ROI and Average Placements**
-While Jaipuria Noida boasts a higher *peak* package (₹36 LPA), these are often outlier international offers. NDIM shines where it matters most: the **Average Package**. With a median/average package of **₹9.50 LPA**, NDIM provides a significantly higher baseline for its students, ensuring that the majority of the batch secures a lucrative corporate role.
+While [Jaipuria Noida](/colleges/jaipuria-noida) boasts a higher *peak* package (₹36 LPA), these are often outlier international offers. NDIM shines where it matters most: the **Average Package**. With a median/average package of **₹9.50 LPA**, NDIM provides a significantly higher baseline for its students, ensuring that the majority of the batch secures a lucrative corporate role.
 
 #### **2. The "South Delhi" Corporate Advantage**
 Location plays a massive role in MBA networking. Being situated in Tughlakabad, NDIM is a stone's throw away from India's biggest corporate hubs in South Delhi and easily accessible from Gurugram. This translates into more frequent corporate visits, live projects, and weekend internships compared to a strictly Noida-based campus. 

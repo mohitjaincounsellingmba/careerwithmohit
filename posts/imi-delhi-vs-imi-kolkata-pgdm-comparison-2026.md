@@ -9,7 +9,7 @@ The **International Management Institute (IMI)** is one of the "Old Guard" in In
 
 ### **Quick Comparison: 2026 PGDM Batch**
 
-| Feature | IMI Delhi (Flagship) | [IMI Kolkata](/colleges/imi-kolkata) (Established) |
+| Feature | [IMI Delhi](/colleges/imi-delhi) (Flagship) | [IMI Kolkata](/colleges/imi-kolkata) (Established) |
 | :--- | :--- | :--- |
 | **CAT/XAT Cutoff** | 88 - 92+ Percentile | 70 - 80 Percentile |
 | **CMAT Cutoff** | Not Accepted | 80+ Percentile |
@@ -30,7 +30,7 @@ Both campuses have reported **100% placement** for the 2024-25 batches.
 *   **[IMI Kolkata](/colleges/imi-kolkata)**: Increasingly strong for **FMCG and E-commerce**, with recruiters like HDFC Bank and Amazon visiting consistently.
 
 ### **3. The Cutoff Advantage**
-If your CAT score is in the **75-80 percentile range**, IMI Kolkata is one of the best "Brand-Name" options you can apply to. Many students prefer the brand prestige of IMI (Kolkata) over unknown smaller institutes in the same percentile bracket. For the 90+ percentile club, **IMI Delhi** remains a must-apply choice.
+If your CAT score is in the **75-80 percentile range**, [IMI Kolkata](/colleges/imi-kolkata) is one of the best "Brand-Name" options you can apply to. Many students prefer the brand prestige of IMI (Kolkata) over unknown smaller institutes in the same percentile bracket. For the 90+ percentile club, **IMI Delhi** remains a must-apply choice.
 
 ---
 

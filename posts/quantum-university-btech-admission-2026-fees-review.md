@@ -7,7 +7,7 @@ keywords: ["[Quantum University](/colleges/quantum-university-roorkee) Roorkee B
 
 **[Quantum University](/colleges/quantum-university-roorkee)** in Roorkee (Uttarakhand) is a modern private university established in 2017, known for its unique interdisciplinary approach and "Passion Program" (PROPS) that allows students to study subjects beyond engineering. In a short span, it has established itself as an affordable and tech-savvy destination for engineering aspirants.
 
-### **Quantum University Admission Channels 2026**
+### **[Quantum University](/colleges/quantum-university-roorkee) Admission Channels 2026**
 1.  **Selection Base**: Valid scores in **JEE Main 2026**, **CUET UG**, or the university's own **Q-Care** (Quantum Entrance-cum-Scholarship Test).
 2.  **Assessment**: Includes a Personal Interview (PI) based on your Q-Care score or JEE percentile.
 3.  **Specializations**: B.Tech in CSE (Core), with specialized tracks in AI & ML, Cyber Security, and Cloud Computing.

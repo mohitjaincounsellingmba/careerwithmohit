@@ -173,7 +173,7 @@ Symbiosis Institutes are neatly categorized by percentiles:
 2.  **If you score 80-90 percentile:** Target SIBM Bengaluru, SIOM Nashik (if engineer), SICSR, and SIDTM. 
 3.  **If you score 50-75 percentile:** Target the newer SIBM campuses (Nagpur, Hyderabad) or specialized institutes like SIMC, SIHS, SSBF, or SSSS depending entirely on your industry interest.
 
-**A note on fees:** While the absolute fees for SIBM Pune and SCMHRD seem high (crossing ₹30 Lakhs), their average packages hovering above ₹21 Lakhs make the ROI highly justifiable compared to many private universities. 
+**A note on fees:** While the absolute fees for [SIBM Pune](/colleges/sibm-pune) and SCMHRD seem high (crossing ₹30 Lakhs), their average packages hovering above ₹21 Lakhs make the ROI highly justifiable compared to many private universities. 
 
 *Disclaimer: Fee structures and cutoffs are based on latest available data for 2025-2026 admissions. Always verify with official Symbiosis admissions portals before applying.*
 

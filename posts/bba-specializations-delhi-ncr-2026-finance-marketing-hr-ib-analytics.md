@@ -36,7 +36,7 @@ Focuses on data strategy, business intelligence, SQL, Python for business, and d
 
 ### 4. International Business (IB)
 Covers global logistics, cross-border trade, international finance, and global supply chain management.
-- **Top Delhi NCR Colleges:** SCMS Noida, Amity University, JIMS Rohini.
+- **Top Delhi NCR Colleges:** SCMS Noida, [Amity University](/colleges/amity-noida), JIMS Rohini.
 - **Best for:** Students interested in global trade compliance, export-import industries, or foreign markets.
 - **Top Career Profiles:** International Trade Specialist, Logistics Coordinator, Export Manager.
 
