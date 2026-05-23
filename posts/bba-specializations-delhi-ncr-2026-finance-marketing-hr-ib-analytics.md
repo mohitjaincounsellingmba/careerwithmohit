@@ -30,7 +30,7 @@ Covers consumer behavior, brand management, digital advertising, SEO, and sales 
 
 ### 3. Business Analytics & Data Science
 Focuses on data strategy, business intelligence, SQL, Python for business, and data visualization.
-- **Top Delhi NCR Colleges:** [BML Munjal University](/colleges/bml-munjal-gurgaon), GD Goenka, Amity University, [Bennett University](/colleges/bennett-greater-noida).
+- **Top Delhi NCR Colleges:** [BML Munjal University](/colleges/bml-munjal-gurgaon), GD Goenka, [Amity University](/colleges/amity-noida), [Bennett University](/colleges/bennett-greater-noida).
 - **Best for:** Analytical minds interested in tech integrations, statistics, and data-driven management.
 - **Top Career Profiles:** Business Analyst, Data Strategist, Operations Analyst.
 

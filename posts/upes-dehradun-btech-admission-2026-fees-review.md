@@ -5,7 +5,7 @@ description: "Planning for B.Tech at [UPES Dehradun](/colleges/upes-dehradun)? G
 keywords: ["[UPES Dehradun](/colleges/upes-dehradun) BTech admission 2026", "[UPES Dehradun](/colleges/upes-dehradun) CSE cutoff 2025", "UPESEAT 2026 exam dates", "[UPES Dehradun](/colleges/upes-dehradun) fees for BTech", "UPES placement review 2025", "UPES Energy Engineering", "BTech admissions Dehradun"]
 ---
 
-**UPES Dehradun**, officially the University of Petroleum and Energy Studies, is an globally recognized private university in Uttarakhand. Established in 2003, it has grown from a specialized energy institute into a multidisciplinary powerhouse (Accredited NAAC Grade 'A').
+**[UPES Dehradun](/colleges/upes-dehradun)**, officially the University of Petroleum and Energy Studies, is an globally recognized private university in Uttarakhand. Established in 2003, it has grown from a specialized energy institute into a multidisciplinary powerhouse (Accredited NAAC Grade 'A').
 
 If you are an engineering aspirant looking at the **UPES B.Tech 2026 batch**, here is the complete breakdown of admissions, fees, and placements.
 

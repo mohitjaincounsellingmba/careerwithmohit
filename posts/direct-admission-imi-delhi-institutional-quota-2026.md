@@ -5,7 +5,7 @@ description: "Planning for [IMI Delhi](/colleges/imi-delhi) 2026? Learn about di
 keywords: ["[IMI Delhi](/colleges/imi-delhi) direct admission", "[IMI Delhi](/colleges/imi-delhi) management quota", "[IMI Delhi](/colleges/imi-delhi) fees 2026", "International Management Institute Delhi admission", "direct admission in IMI"]
 ---
 
-International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2026-28 batch, **Direct Admission in IMI Delhi** is a merit-linked process focusing on profile diversity and the institutional category.
+International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2026-28 batch, **Direct Admission in [IMI Delhi](/colleges/imi-delhi)** is a merit-linked process focusing on profile diversity and the institutional category.
 
 ## Why IMI Delhi is a Top Management Choice?
 

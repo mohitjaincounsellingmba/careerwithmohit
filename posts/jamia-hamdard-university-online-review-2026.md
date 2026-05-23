@@ -2,7 +2,7 @@
 title: "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) University Online Review 2026: MBA, MCA, BBA & BCA Fee Structure"
 date: "2026-04-05"
 description: "Is [Jamia Hamdard](/colleges/jamia-hamdard-delhi) Online a good choice in 2026? Check the latest fees, UGC-DEB status, NAAC A grade, and legacy Delhi-based placement reviews."
-keywords: ["[Jamia Hamdard](/colleges/jamia-hamdard-delhi) University Online review 2026", "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online MBA fees", "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online MCA admission", "Jamia Hamdard online BBA BCA", "UGC approved online degree Jamia Hamdard", "Jamia Hamdard online degree validity"]
+keywords: ["[Jamia Hamdard](/colleges/jamia-hamdard-delhi) University Online review 2026", "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online MBA fees", "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online MCA admission", "[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online BBA BCA", "UGC approved online degree Jamia Hamdard", "Jamia Hamdard online degree validity"]
 ---
 
 **Jamia Hamdard University Online** has emerged as one of Delhi’s most respected institutions for specialized digital education. Based in the capital city, Jamia Hamdard's online division brings that same academic rigor and heritage directly to you. With a prestigious **NAAC A accreditation**, Jamia Hamdard offers some of the most specialized online degrees in India for 2026.

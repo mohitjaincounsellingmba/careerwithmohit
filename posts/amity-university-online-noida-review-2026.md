@@ -5,7 +5,7 @@ description: "Is [Amity University](/colleges/amity-noida) Online Noida worth it
 keywords: ["[Amity University](/colleges/amity-noida) Online Noida review", "Amity Online MBA fees 2026", "Amity Online BBA placements", "[Amity University](/colleges/amity-noida) online degree value", "Amity Online MCA admission 2026", "[Amity University](/colleges/amity-noida) online ranking", "best online universities in India 2026"]
 ---
 
-Amity University Online is recognized as one of India's premier private institutions for distance and online learning. With prestigious approvals from **UGC-DEB, AICTE, and NAAC A++**, it offers a world-class education that is on par with regular on-campus programs. In 2026, Amity continues to dominate the online education space with its industry-aligned curriculum and robust placement support.
+[Amity University](/colleges/amity-noida) Online is recognized as one of India's premier private institutions for distance and online learning. With prestigious approvals from **UGC-DEB, AICTE, and NAAC A++**, it offers a world-class education that is on par with regular on-campus programs. In 2026, Amity continues to dominate the online education space with its industry-aligned curriculum and robust placement support.
 
 <div style="margin: 40px 0; text-align: center;">
   <a href="https://cvadm.com/TRntvT" style="display: inline-block; background-color: #000; color: #fff; padding: 20px 40px; font-size: 24px; font-weight: 900; text-transform: uppercase; text-decoration: none; border: 6px solid #000; box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);">

@@ -63,7 +63,7 @@ To qualify for application, you must meet the minimum board percentage:
 | **Delhi University (DU)** | Mathematics / Applied Maths | 60% | No |
 | **IP University (GGSIPU)** | English + Best 4 subjects | 50% | **Yes** |
 | **Symbiosis (SET)** | English + Best 4 subjects | 50% | **Yes** |
-| **Amity University** | Any stream subjects | 55% (Non-sponsored) | **Yes** |
+| **[Amity University](/colleges/amity-noida)** | Any stream subjects | 55% (Non-sponsored) | **Yes** |
 | **Jamia Millia (JMI)** | Any stream subjects | 50% | **Yes** |
 
 ---

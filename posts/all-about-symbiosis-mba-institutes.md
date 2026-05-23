@@ -169,7 +169,7 @@ For sports enthusiasts looking to enter the business side of sports franchises, 
 ## Final Verdict & Admission Strategy
 
 Symbiosis Institutes are neatly categorized by percentiles:
-1.  **If you score 95-99+ percentile:** Target the big three—SIBM Pune, SCMHRD, and SIIB. These are Tier-1 institutes offering massive ROI.
+1.  **If you score 95-99+ percentile:** Target the big three—[SIBM Pune](/colleges/sibm-pune), SCMHRD, and SIIB. These are Tier-1 institutes offering massive ROI.
 2.  **If you score 80-90 percentile:** Target SIBM Bengaluru, SIOM Nashik (if engineer), SICSR, and SIDTM. 
 3.  **If you score 50-75 percentile:** Target the newer SIBM campuses (Nagpur, Hyderabad) or specialized institutes like SIMC, SIHS, SSBF, or SSSS depending entirely on your industry interest.
 

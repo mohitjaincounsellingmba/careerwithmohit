@@ -9,7 +9,7 @@ keywords: ["[Manipal University Jaipur](/colleges/manipal-university-jaipur) Onl
 
 As we move into the 2026-27 session, a degree from [Manipal University Jaipur](/colleges/manipal-university-jaipur) Online is one of the most respected credentials for students aiming for both Indian and international career growth.
 
-## 📊 Manipal University Jaipur Online: Key Highlights 2026
+## 📊 [Manipal University Jaipur](/colleges/manipal-university-jaipur) Online: Key Highlights 2026
 
 | Parameter | Details |
 | :--- | :--- |

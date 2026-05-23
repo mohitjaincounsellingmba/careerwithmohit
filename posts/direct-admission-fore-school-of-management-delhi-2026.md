@@ -7,7 +7,7 @@ keywords: ["FORE Delhi direct admission", "[FORE School of Management](/colleges
 
 Foundation for Organisational Research and Education (FORE) School of Management, located in the prominent Institutional Area of South Delhi, is a top-ranked B-school known for its academic excellence and robust corporate linkages. For the 2026-28 batch, **Direct Admission in [FORE School of Management](/colleges/fore-school-delhi)** is a popular topic for students eyeing high-ROI careers in the capital.
 
-## Why FORE School of Management is a Top Delhi B-School?
+## Why [FORE School of Management](/colleges/fore-school-delhi) is a Top Delhi B-School?
 
 - **Prime Location**: Located in South Delhi, providing unmatched access to corporate events and networking.
 - **Academic Rigor**: Known for its data-driven decision-making curriculum and global immersion programs.

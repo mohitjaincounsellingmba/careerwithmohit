@@ -31,7 +31,7 @@ keywords: ["[Bennett University](/colleges/bennett-greater-noida) MBA review", "
 
 ---
 
-### 📊 Bennett University 2026 Snapshot
+### 📊 [Bennett University](/colleges/bennett-greater-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

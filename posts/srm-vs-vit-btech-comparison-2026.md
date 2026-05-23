@@ -82,7 +82,7 @@ VIT has a unique sliding-scale fee model based on your VITEEE rank. The better y
 
 ## 🎓 3. Admission Process
 
-### VIT Vellore
+### [VIT Vellore](/colleges/vit-vellore)
 - Entrance: **VITEEE** (online, 125 MCQs)
 - No management quota / no direct admission
 - Slots booked via online portal based on rank

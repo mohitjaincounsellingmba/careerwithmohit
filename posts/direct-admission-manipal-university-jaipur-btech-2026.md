@@ -24,7 +24,7 @@ keywords: ["direct admission [Manipal University Jaipur](/colleges/manipal-unive
 
 ---
 
-### **Does Manipal University Jaipur Offer Direct Admission or Management Quota for B.Tech?**
+### **Does [Manipal University Jaipur](/colleges/manipal-university-jaipur) Offer Direct Admission or Management Quota for B.Tech?**
 
 This is the most commonly asked question — and the answer requires clarity:
 

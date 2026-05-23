@@ -2,7 +2,7 @@
 title: "[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata) 2026: Is the High Fee Worth It?"
 date: "2026-03-25"
 description: "Choosing between [IMI Delhi](/colleges/imi-delhi) and its Kolkata campus? Read our 2026 comparison on CAT/XAT cutoffs, ₹32L high-fee reality, and average placement packages."
-keywords: ["[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata)", "[IMI Delhi](/colleges/imi-delhi) average package 2026", "[IMI Kolkata](/colleges/imi-kolkata) CAT cutoff 2025", "[IMI Delhi](/colleges/imi-delhi) fees 2026", "[IMI Kolkata](/colleges/imi-kolkata) placement review", "MBA at IMI Delhi vs Kolkata"]
+keywords: ["[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata)", "[IMI Delhi](/colleges/imi-delhi) average package 2026", "[IMI Kolkata](/colleges/imi-kolkata) CAT cutoff 2025", "[IMI Delhi](/colleges/imi-delhi) fees 2026", "[IMI Kolkata](/colleges/imi-kolkata) placement review", "MBA at [IMI Delhi](/colleges/imi-delhi) vs Kolkata"]
 ---
 
 The **International Management Institute (IMI)** is one of the "Old Guard" in Indian management education, with its Delhi campus consistently ranking in the Top 30 nationwide. But with the high fees at its **Delhi** flagship campus and the competitive metropolitan edge of its **Kolkata** campus, aspirants are asking: **"Which is the real winner in 2026?"**
@@ -27,7 +27,7 @@ The **International Management Institute (IMI)** is one of the "Old Guard" in In
 ### **2. Placement Performance**
 Both campuses have reported **100% placement** for the 2024-25 batches. 
 *   **IMI Delhi**: Strong in **BFSI and Consulting**, with nearly 40% of the batch joining top-tier banks and firms like Barclays, EY, and Shell.
-*   **IMI Kolkata**: Increasingly strong for **FMCG and E-commerce**, with recruiters like HDFC Bank and Amazon visiting consistently.
+*   **[IMI Kolkata](/colleges/imi-kolkata)**: Increasingly strong for **FMCG and E-commerce**, with recruiters like HDFC Bank and Amazon visiting consistently.
 
 ### **3. The Cutoff Advantage**
 If your CAT score is in the **75-80 percentile range**, IMI Kolkata is one of the best "Brand-Name" options you can apply to. Many students prefer the brand prestige of IMI (Kolkata) over unknown smaller institutes in the same percentile bracket. For the 90+ percentile club, **IMI Delhi** remains a must-apply choice.

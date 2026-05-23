@@ -2,7 +2,7 @@
 title: "[ASM IIBR](/colleges/asm-iibr) Pune Review 2025: Specialized PGDM Training"
 date: "2026-03-14"
 description: "Thinking of [ASM IIBR](/colleges/asm-iibr)? Explore 2025 PGDM placements, specialized corporate fees, and the ASM group's academic trust in Pune."
-keywords: ["[ASM IIBR](/colleges/asm-iibr) Pune review 2025", "[ASM IIBR](/colleges/asm-iibr) placements", "[ASM IIBR](/colleges/asm-iibr) fees", "ASM IIBR vs IBMR", "PGDM in ASM IIBR", "ASM IIBR average package 2025"]
+keywords: ["[ASM IIBR](/colleges/asm-iibr) Pune review 2025", "[ASM IIBR](/colleges/asm-iibr) placements", "[ASM IIBR](/colleges/asm-iibr) fees", "[ASM IIBR](/colleges/asm-iibr) vs IBMR", "PGDM in ASM IIBR", "ASM IIBR average package 2025"]
 ---
 
 ASM's Institute of International Business and Research (IIBR) is the specialized PGDM arm of the ASM group. It focuses on international business standards and high-growth industry niches.

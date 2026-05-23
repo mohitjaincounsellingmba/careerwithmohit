@@ -42,7 +42,7 @@ Amity offers a wide range of undergraduate and postgraduate programs. The most s
 - **Approx. Fee:** ₹1,50,000 - ₹1,80,000.
 - **USP:** Built-in placement assistance and soft-skills training.
 
-## Why Choose Amity University Online?
+## Why Choose [Amity University](/colleges/amity-noida) Online?
 
 - **Global Brand Value:** Amity is one of the few Indian online universities with **WES (World Education Services)** approval, ensuring your degree is recognized in Canada, the USA, and beyond.
 - **Advanced Learning Platform:** Their LMS provides 24/7 access to recorded lectures, e-libraries, and interactive discussion forums.

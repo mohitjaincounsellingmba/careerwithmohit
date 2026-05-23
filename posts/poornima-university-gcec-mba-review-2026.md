@@ -36,7 +36,7 @@ GCEC has maintained an impressive record, especially given its niche focus.
 *   **Highest Package**: Touched **₹15 - ₹18 LPA** in recent drives.
 *   **Top Recruiters**: Global giants like **EY, KPMG, PWC, Barclays, and HDFC Bank** are frequent visitors for their finance and analytics graduates.
 
-*Note: While Poornima University's overall average is around ₹4-5 LPA, the specialized GCEC/FIRE department often sees much higher placement density due to global certifications.*
+*Note: While [Poornima University](/colleges/poornima-jaipur)'s overall average is around ₹4-5 LPA, the specialized GCEC/FIRE department often sees much higher placement density due to global certifications.*
 
 ---
 

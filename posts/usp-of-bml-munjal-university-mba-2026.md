@@ -13,7 +13,7 @@ Here are the **10 real USPs of [BML Munjal University](/colleges/bml-munjal-gurg
 
 ---
 
-## Quick Snapshot: BML Munjal University MBA 2026-28
+## Quick Snapshot: [BML Munjal University](/colleges/bml-munjal-gurgaon) MBA 2026-28
 
 | Parameter | Details |
 | :--- | :--- |

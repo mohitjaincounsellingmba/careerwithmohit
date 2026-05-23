@@ -55,7 +55,7 @@ Amity is a premium private university boasting state-of-the-art campus infrastru
 - **Key Advantage:** Vast choice of custom specializations and international semester options.
 
 ### 6. [BML Munjal University](/colleges/bml-munjal-gurgaon), Gurgaon
-Backed by the Hero Group, BML Munjal University offers a modern BBA program mentored by Imperial College London, emphasizing experiential learning.
+Backed by the Hero Group, [BML Munjal University](/colleges/bml-munjal-gurgaon) offers a modern BBA program mentored by Imperial College London, emphasizing experiential learning.
 - **Approximate Annual Fees:** ₹3.0 Lakhs
 - **Entrance Exam:** CUET / SAT / UGAT or Aptitude Test
 - **Average Placement Package:** ₹5.8 LPA
@@ -106,10 +106,10 @@ JMI is a central university offering one of the most affordable BBA programs in 
 | **4** | **MAIMS, Delhi** | IPU CET / CUET | ₹1.1 Lakhs | ₹4.5 LPA |
 | **5** | **[Amity University](/colleges/amity-noida), Noida** | Merit / Interview | ₹4.0 Lakhs | ₹5.5 LPA |
 | **6** | **BML Munjal University, Gurgaon** | UGAT / CUET / SAT | ₹3.0 Lakhs | ₹5.8 LPA |
-| **7** | **Maharaja Surajmal Institute (MSI)** | IPU CET | ₹1.1 Lakhs | ₹4.8 LPA |
+| **7** | **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET | ₹1.1 Lakhs | ₹4.8 LPA |
 | **8** | **Galgotias University** | CUET / Merit | ₹1.2 Lakhs | ₹4.2 LPA |
 | **9** | **JIMS Rohini** | IPU CET | ₹1.2 Lakhs | ₹4.5 LPA |
-| **10** | **Jamia Millia Islamia (JMI)** | JMI Entrance | ₹13,000 | ₹5.0 LPA |
+| **10** | **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance | ₹13,000 | ₹5.0 LPA |
 
 ---
 

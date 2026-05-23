@@ -19,12 +19,12 @@ SSCBS is a premier constituent college of Delhi University. It is widely conside
 - **Vibe:** Highly competitive, academically rigorous, corporate-focused.
 - **Best for:** Placements in Consulting, Investment Banking, and Analytics.
 
-### 2. Jamia Millia Islamia (JMI)
+### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
 JMI is a historic central university in Delhi. It offers a classic university experience with a highly diverse student base and a solid reputation for general management education.
 - **Vibe:** Socially diverse, traditional campus life, public university structure.
 - **Best for:** Marketing, HR, Public Sector preparation, and affordable learning.
 
-### 3. Amity University, Noida
+### 3. [Amity University, Noida](/colleges/amity-university-noida)
 Amity Noida is a massive, premium private university. It offers state-of-the-art campus facilities, flexible academic pathways, and international collaboration options.
 - **Vibe:** Modern lifestyle, networking-heavy, corporate ties, expansive infrastructure.
 - **Best for:** Entrepreneurship, family businesses, and global study options.
@@ -33,7 +33,7 @@ Amity Noida is a massive, premium private university. It offers state-of-the-art
 
 ## 📊 Side-by-Side Head-to-Head Comparison
 
-| Parameter | SSCBS (DU) | Jamia Millia Islamia (JMI) | Amity University, Noida |
+| Parameter | SSCBS (DU) | Jamia Millia Islamia (JMI) | [Amity University](/colleges/amity-noida), Noida |
 | :--- | :--- | :--- | :--- |
 | **Course Offered** | BMS / BBA (FIA) | BBA | BBA (General / Specialized) |
 | **Admission Basis** | CUET UG Merit | JMI Entrance Exam | Class 12th Merit + PI |

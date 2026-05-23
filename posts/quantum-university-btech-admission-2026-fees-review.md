@@ -5,7 +5,7 @@ description: "Planning for B.Tech at [Quantum University](/colleges/quantum-univ
 keywords: ["[Quantum University](/colleges/quantum-university-roorkee) Roorkee BTech admission 2026", "[Quantum University](/colleges/quantum-university-roorkee) cutoff", "[Quantum University](/colleges/quantum-university-roorkee) BTech fees 2026", "Quantum placement review 2025", "Q-Care entrance exam 2026", "BTech admission Roorkee"]
 ---
 
-**Quantum University** in Roorkee (Uttarakhand) is a modern private university established in 2017, known for its unique interdisciplinary approach and "Passion Program" (PROPS) that allows students to study subjects beyond engineering. In a short span, it has established itself as an affordable and tech-savvy destination for engineering aspirants.
+**[Quantum University](/colleges/quantum-university-roorkee)** in Roorkee (Uttarakhand) is a modern private university established in 2017, known for its unique interdisciplinary approach and "Passion Program" (PROPS) that allows students to study subjects beyond engineering. In a short span, it has established itself as an affordable and tech-savvy destination for engineering aspirants.
 
 ### **Quantum University Admission Channels 2026**
 1.  **Selection Base**: Valid scores in **JEE Main 2026**, **CUET UG**, or the university's own **Q-Care** (Quantum Entrance-cum-Scholarship Test).

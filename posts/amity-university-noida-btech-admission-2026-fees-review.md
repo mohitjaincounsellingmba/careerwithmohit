@@ -21,7 +21,7 @@ Amity Noida is reachable for aspirants with decent Class 12 percentages or JEE r
 | **Class 10+2 (Aggregate)** | 70% - 80%+ | 60% - 70% |
 | **Class 10+2 (PCM)** | 70% - 80%+ | 60% - 70% |
 
-### **Amity University Noida B.Tech Fee Structure 2026**
+### **[Amity University](/colleges/amity-noida) Noida B.Tech Fee Structure 2026**
 Amity offers premium facilities at an annual fee comparable to other top-tier NCR private universities.
 *   **Annual Tuition Fee (CSE Non-Sponsored)**: approx. ₹4.18 Lakhs.
 *   **Total 4-Year Tuition Fees**: **₹16.7 Lakhs - ₹18.0 Lakhs**.

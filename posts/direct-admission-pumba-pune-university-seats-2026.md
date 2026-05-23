@@ -7,7 +7,7 @@ keywords: ["[PUMBA Pune](/colleges/pumba-pune) direct admission", "PUMBA managem
 
 The Department of Management Sciences (PUMBA), Savitribai Phule Pune University, is one of the top government MBA colleges in India. Known for its academic excellence and high ROI, PUMBA is a top choice for CET aspirants. If you are targetting **Direct Admission in [PUMBA Pune](/colleges/pumba-pune) for 2026**, here is everything you need to know about the process.
 
-## Why PUMBA Pune is a High-Priority College?
+## Why [PUMBA Pune](/colleges/pumba-pune) is a High-Priority College?
 
 - **Low Fee Structure**: Being a University Department, the total fee for 2 years is very affordable (approx. **₹1.3 Lakhs to ₹1.5 Lakhs** for Open category).
 - **Strong Placements**: Average package is around **₹9.4 LPA**, making it one of the best ROI colleges in Pune.

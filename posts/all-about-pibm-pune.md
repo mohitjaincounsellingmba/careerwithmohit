@@ -49,7 +49,7 @@ PIBM has partnered with over 650+ corporate recruiters, ensuring a massive influ
 - **Pros:** The practical training is exceptional. The campus is vibrant and located in a scenic valley on the outskirts of Pune. High volume of companies visiting for placements.
 - **Cons:** The curriculum is incredibly rigorous and leaves very little free time. Strict rules and dress code policies on campus. Location is a bit far from the main Pune city.
 
-**Our Verdict:** PIBM Pune is an excellent option for Tier-2 B-School aspirants. It offers a solid ROI, especially for Finance and Marketing students. If you are willing to embrace a rigorous, demanding two years of corporate preparation, PIBM will guarantee you a solid launchpad for your career.
+**Our Verdict:** [PIBM Pune](/colleges/pibm-pune) is an excellent option for Tier-2 B-School aspirants. It offers a solid ROI, especially for Finance and Marketing students. If you are willing to embrace a rigorous, demanding two years of corporate preparation, PIBM will guarantee you a solid launchpad for your career.
 
 ---
 [👉 Need help clearing the PIBM interview? Request a free 1-on-1 strategy session with us!](/inquiry)

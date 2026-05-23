@@ -12,7 +12,7 @@ This is a detailed, honest review covering real fees, placement outcomes, and wh
 
 ---
 
-## 📊 Amity University Online MBA: Key Snapshot (2026)
+## 📊 [Amity University](/colleges/amity-noida) Online MBA: Key Snapshot (2026)
 
 | Feature | Details |
 | :--- | :--- |

@@ -7,7 +7,7 @@ keywords: ["[Jaipuria Noida](/colleges/jaipuria-noida) placement 2025", "[Jaipur
 
 Jaipuria Institute of Management, Noida, is widely regarded as one of Northern India's top private PGDM campuses. With over 275+ recruiters and international opportunities, it has become a hotbed for ambitious management students.
 
-### 📊 Jaipuria Noida 2025 Snapshot
+### 📊 [Jaipuria Noida](/colleges/jaipuria-noida) 2025 Snapshot
 
 | Category | Details |
 | :--- | :--- |
