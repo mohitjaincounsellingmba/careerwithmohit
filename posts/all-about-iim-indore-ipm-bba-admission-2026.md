@@ -59,3 +59,6 @@ IIM Indore’s exam is known for its tough Math section. Mohit Jain’s "IPM 100
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium IPMAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the latest short-answer question formats.
+
+
+Source: Shiksha.com

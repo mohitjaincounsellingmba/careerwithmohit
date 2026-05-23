@@ -1,0 +1,64 @@
+{
+  "top_mba_colleges": [
+    {"college": "FMS, Delhi University", "fees": "~₹2 Lakhs", "avg_salary": "~₹30 LPA"},
+    {"college": "DMS, IIT Delhi", "fees": "~₹12-21 Lakhs", "avg_salary": "~₹21 LPA"},
+    {"college": "MDI Gurgaon", "fees": "~₹19-26 Lakhs", "avg_salary": "~₹26 LPA"},
+    {"college": "IIFT Delhi", "fees": "~₹17-22 Lakhs", "avg_salary": "~₹29 LPA"},
+    {"college": "IMI New Delhi", "fees": "~₹20-22 Lakhs", "avg_salary": "~₹17 LPA"},
+    {"college": "IMT Ghaziabad", "fees": "~₹20 Lakhs", "avg_salary": "~₹17 LPA"},
+    {"college": "Jamia Millia Islamia", "fees": "~₹0.5-2 Lakhs", "avg_salary": "~₹15 LPA"},
+    {"college": "LBSIM Delhi", "fees": "Varies", "avg_salary": "~₹12 LPA"}
+  ],
+  "mba_without_cat": {
+    "fee_range": "₹3 Lakh to ₹6 Lakh",
+    "notable_institutes": [
+      {"college": "GNIT College of Management", "fees": "₹2.88 L"},
+      {"college": "Mangalmay Institute", "fees": "≈₹3 L"},
+      {"college": "IIMT College of Management", "fees": "Varies"},
+      {"college": "GGSIPU affiliated colleges", "fees": "Varies"},
+      {"college": "Amity University", "fees": "Varies"},
+      {"college": "Galgotias University", "fees": "Varies"}
+    ]
+  },
+  "best_placements": [
+    {"college": "FMS Delhi", "fees": "~₹2.0 Lakhs", "avg_placement": "~₹32-34 LPA"},
+    {"college": "MDI Gurgaon", "fees": "₹19-26 Lakhs", "avg_placement": "~₹26-27 LPA"},
+    {"college": "IIFT Delhi", "fees": "₹17-22 Lakhs", "avg_placement": "~₹29 LPA"},
+    {"college": "DMS IIT Delhi", "fees": "₹11-12 Lakhs", "avg_placement": "~₹25 LPA"},
+    {"college": "IMI New Delhi", "fees": "₹20-22 Lakhs", "avg_placement": "~₹17 LPA"},
+    {"college": "IMT Ghaziabad", "fees": "₹20-21 Lakhs", "avg_placement": "~₹17 LPA"},
+    {"college": "FORE School of Management", "fees": "₹17-20 Lakhs", "avg_placement": "~₹14-15 LPA"},
+    {"college": "LBSIM Delhi", "fees": "₹14-15 Lakhs", "avg_placement": "~₹12 LPA"}
+  ],
+  "low_fees_mba": [
+    {"college": "FMS Delhi", "fees": "~₹2 Lakhs", "avg_salary": "~₹30 LPA"},
+    {"college": "Jamia Millia Islamia", "fees": "~₹0.5-2 Lakhs", "avg_salary": "~₹15 LPA"},
+    {"college": "GNIT College of Management", "fees": "₹2.88 Lakhs"},
+    {"college": "Mangalmay Institute", "fees": "≈₹3 Lakhs"}
+  ],
+  "mat_accepting": {
+    "colleges": [
+      {"college": "BIMTECH Greater Noida", "mat_cutoff": "65%"},
+      {"college": "GNIOT Greater Noida", "mat_cutoff": "62%"},
+      {"college": "International Management Institute (IMI) New Delhi", "mat_cutoff": "70%"},
+      {"college": "LBSIM Delhi", "mat_cutoff": "68%"},
+      {"college": "Maharshi Dayananand University (MDU) Rohtak (Delhi‑NCR satellite)", "mat_cutoff": "60%"},
+      {"college": "IGNOU – MBA (Online)", "mat_cutoff": "55%"}
+    ]
+  },
+  "direct_admission": {
+    "colleges": [
+      {"college": "BIMTECH Greater Noida", "management_quota_seats": 30, "fees": "₹5.8 L", "avg_package": "₹9.3 LPA"},
+      {"college": "GNIOT Greater Noida", "management_quota_seats": 25, "fees": "₹6.5 L", "avg_package": "₹8.7 LPA"},
+      {"college": "International Management Institute (IMI) New Delhi", "management_quota_seats": 20, "fees": "₹9.2 L", "avg_package": "₹15.0 LPA"},
+      {"college": "LBSIM Delhi", "management_quota_seats": 15, "fees": "₹8.0 L", "avg_package": "₹13.5 LPA"},
+      {"college": "Maharshi Dayananand University (MDU) – Rohtak (NCR Satellite)", "management_quota_seats": 10, "fees": "₹4.2 L", "avg_package": "₹7.5 LPA"}
+    ]
+  },
+  "fms_fee_details": {
+    "total_fee": "₹2.43 Lakhs",
+    "semester_fee": "₹60,818",
+    "application_fee_general": "₹1,000",
+    "application_fee_sc_st": "₹350"
+  }
+}

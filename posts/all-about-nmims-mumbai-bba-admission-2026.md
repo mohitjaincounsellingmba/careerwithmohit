@@ -58,3 +58,6 @@ NPAT is all about answering 120 questions in 100 minutes. Mohit Jain’s "NPAT S
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium NPAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to improve your speed and accuracy before the big day.
+
+
+Source: Shiksha.com

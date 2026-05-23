@@ -58,3 +58,6 @@ MSI is the hardest IPU college to get into. Mohit Jain’s "IPU Masterclass" hel
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium IPU CET Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice with the specific timing and question level of the Indraprastha University exam.
+
+
+Source: Shiksha.com

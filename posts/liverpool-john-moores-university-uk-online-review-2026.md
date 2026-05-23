@@ -66,3 +66,6 @@ Yes. All programs from Liverpool John Moores University are **WES recognized** a
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+Source: Shiksha.com

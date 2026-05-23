@@ -67,3 +67,6 @@ Yes, students with very high 10+2 marks can apply for direct merit-based admissi
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+Source: Shiksha.com

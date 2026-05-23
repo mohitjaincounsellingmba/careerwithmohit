@@ -59,3 +59,6 @@ Both use the JIPMAT exam but have different campus cultures and location advanta
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium JIPMAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the specific difficulty level of the JIPMAT exam.
+
+
+Source: Shiksha.com

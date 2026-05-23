@@ -59,3 +59,6 @@ While IPMAT is tougher on Math, SAT is more logic-driven. Mohit Jain’s "IPM Sc
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium IPMAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the specific difficulty level of IIM Indore’s exam.
+
+
+Source: Shiksha.com

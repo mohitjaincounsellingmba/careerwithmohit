@@ -38,3 +38,6 @@ Placement records are a key factor when choosing an MBA program. In 2026, the De
 ---
 
 *Ready to aim for a high‑paying MBA? Explore our detailed college comparison guides and start preparing your applications today.*
+
+
+Source: Shiksha.com

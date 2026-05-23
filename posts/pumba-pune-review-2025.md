@@ -30,3 +30,6 @@ The fee for Maharashtra state candidates is very low (approx **₹1.2 - ₹2.4 L
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+Source: Shiksha.com

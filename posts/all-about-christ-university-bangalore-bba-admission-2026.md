@@ -60,3 +60,6 @@ Christ University is unique for its "90-second" Micro Presentation round. Mohit 
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium Christ Entrance Test Mock Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the specific pattern used by Christ University.
+
+
+Source: Shiksha.com

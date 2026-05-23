@@ -59,3 +59,6 @@ JIPMAT is different from IPMAT Indore in its focus on Data Interpretation. Mohit
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium JIPMAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the exact pattern of the NTA-conducted exam.
+
+
+Source: Shiksha.com

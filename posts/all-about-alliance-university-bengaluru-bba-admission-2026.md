@@ -59,3 +59,6 @@ Alliance is the only BBA college in Bangalore with multiple international accred
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium AUSAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the specific pattern and difficulty of the Alliance University exam.
+
+
+Source: Shiksha.com

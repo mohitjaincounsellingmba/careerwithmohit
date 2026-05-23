@@ -77,3 +77,6 @@ While Tier-1 B-Schools prefer CAT/XAT, many excellent Tier-2 and PGDM colleges a
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+Source: Shiksha.com

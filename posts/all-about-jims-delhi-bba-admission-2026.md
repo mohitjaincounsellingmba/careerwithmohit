@@ -58,3 +58,6 @@ Both campuses are in Rohini but offer different vibes and placement stats. Mohit
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium IPU CET Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice with the latest question patterns and timing for the Indraprastha University exam.
+
+
+Source: Shiksha.com

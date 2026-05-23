@@ -59,3 +59,6 @@ While both are IIMs, their exam patterns and placement cultures differ. Mohit Ja
 
 ### 🚀 Boost Your Preparation
 Looking for more resources? **[Explore Our Premium IPMAT Rohtak Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the specific time-management required for Rohtak's pattern.
+
+
+Source: Shiksha.com

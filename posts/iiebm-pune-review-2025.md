@@ -30,3 +30,6 @@ The total tuition fee is **₹9.15 Lakhs** for PGDM and **₹11.9 Lakhs** for th
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+Source: Shiksha.com

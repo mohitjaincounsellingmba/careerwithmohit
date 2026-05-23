@@ -192,3 +192,6 @@ Top 10% of the batch averaged ₹13.39 LPA; top 25% averaged ₹12.10 LPA. Highe
 **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** for real-time exam practice and detailed analytics.
 
 ---
+
+
+Source: Shiksha.com
