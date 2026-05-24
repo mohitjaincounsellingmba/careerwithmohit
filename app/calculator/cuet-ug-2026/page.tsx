@@ -1,9 +1,13 @@
 import type { Metadata } from "next";
+import { useState } from 'react';
 import { CuetUgCalculator } from "@/components/CuetUgCalculator";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
+import { InquiryForm } from '@/components/InquiryForm';
 import { ShieldCheck, Zap, HelpCircle, BookOpen, GraduationCap, Calendar, TrendingUp } from "lucide-react";
 import Link from "next/link";
+
+
 
 export const metadata: Metadata = {
     title: "CUET UG 2026 Score Calculator & Percentile Predictor | NTA Score",
@@ -41,6 +45,7 @@ export const metadata: Metadata = {
 };
 
 export default function CuetUgCalculatorPage() {
+  const [activeTab, setActiveTab] = useState<'score' | 'inquiry'>('score');
     const faqSchema = {
         "@context": "https://schema.org",
         "@type": "FAQPage",
@@ -100,9 +105,35 @@ export default function CuetUgCalculatorPage() {
                 </div>
             </div>
 
-            {/* Main Calculator Section */}
-            <div className="max-w-7xl mx-auto px-6 py-20">
-                <CuetUgCalculator />
+            {/* Tab Navigation */}
+<div className="flex gap-4 mb-8">
+  <button
+    className={`px-6 py-2 rounded-t-lg ${activeTab === 'score' ? 'bg-primary text-white' : 'bg-gray-200 text-gray-800'}`}
+    onClick={() => setActiveTab('score')}
+  >
+    Score Check
+  </button>
+  <button
+    className={`px-6 py-2 rounded-t-lg ${activeTab === 'inquiry' ? 'bg-primary text-white' : 'bg-gray-200 text-gray-800'}`}
+    onClick={() => setActiveTab('inquiry')}
+  >
+    Inquiry
+  </button>
+</div>
+{/* Main Content Conditional */}
+            {activeTab === 'score' && (
+              <>
+                {/* Main Calculator Section */}
+                <div className="max-w-7xl mx-auto px-6 py-20">
+                  <CuetUgCalculator />
+                </div>
+              </>
+            )}
+            {activeTab === 'inquiry' && (
+              <div className="max-w-7xl mx-auto px-6 py-20">
+                <InquiryForm />
+              </div>
+            )}
 
                 {/* Exam Breakdown Section */}
                 <div className="mt-32 max-w-4xl">
