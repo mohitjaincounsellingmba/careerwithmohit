@@ -33,7 +33,8 @@ export function CuetUgCalculator() {
         name: "",
         number: "",
         email: "",
-        location: ""
+        location: "",
+        course: ""
     });
 
     const addSubject = () => {
@@ -107,6 +108,7 @@ export function CuetUgCalculator() {
                     number: leadData.number,
                     email: leadData.email,
                     location: leadData.location,
+                    course: leadData.course,
                     source: `CUET UG 2026 Calculator`,
                     score: stats.score,
                     maxMarks: stats.maxMarks,
@@ -362,6 +364,16 @@ export function CuetUgCalculator() {
                                                 placeholder="Your Location"
                                                 value={leadData.location}
                                                 onChange={(e) => setLeadData({ ...leadData, location: e.target.value })}
+                                                className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
+                                            />
+                                        </div>
+                                        <div>
+                                            <input
+                                                required
+                                                type="text"
+                                                placeholder="Target Course (e.g. B.Com, BBA)"
+                                                value={leadData.course}
+                                                onChange={(e) => setLeadData({ ...leadData, course: e.target.value })}
                                                 className="w-full bg-white/10 border-2 border-white/20 p-3 font-bold text-white placeholder:text-white/40 focus:bg-white/20 focus:outline-none"
                                             />
                                         </div>
