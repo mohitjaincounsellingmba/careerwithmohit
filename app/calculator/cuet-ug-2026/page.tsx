@@ -27,7 +27,12 @@ export const metadata: Metadata = {
         "NTA normalization formula CUET 2026",
         "CUET subject-wise score calculator (Domain + General Test)",
         "CUET 2026 score calculator for Science/Commerce/Arts",
-        "Calculate CUET score without official answer key"
+        "Calculate CUET score without official answer key",
+        "CUET UG 2026 Score Calculator – Check Marks & Percentile",
+        "Free NTA CUET UG 2026 Score Calculator & Rank Predictor",
+        "CUET UG 2026 Marks Calculator with Percentile Prediction",
+        "Calculate CUET UG 2026 Score Online Instantly",
+        "CUET 2026 Score & Percentile Calculator by NTA Pattern"
     ],
     openGraph: {
         title: "NTA CUET UG 2026 Score Calculator & Predictor",
