@@ -6,7 +6,6 @@ import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
 import Script from "next/script";
 import dynamic from 'next/dynamic';
-import { GoogleAdSense } from '@next/third-parties/google';
 
 const InquiryPopup = dynamic(() => import('@/components/InquiryPopup').then(mod => mod.InquiryPopup));
 const BotInquiryPopup = dynamic(() => import('@/components/BotInquiryPopup').then(mod => mod.BotInquiryPopup));
@@ -163,7 +162,12 @@ export default function RootLayout({
             gtag('config', 'AW-18052249575');
           `}
         </Script>
-        <GoogleAdSense publisherId={process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-4699585931687069"} />
+        <Script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID || "ca-pub-4699585931687069"}`}
+          crossOrigin="anonymous"
+          strategy="lazyOnload"
+        />
       </body>
     </html>
   );
