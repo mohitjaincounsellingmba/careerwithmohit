@@ -1,5 +1,4 @@
-import Image from 'next/image';
-import { Award, BookOpen, CheckCircle2, Star, Zap, Briefcase, History, TrendingUp, Users } from 'lucide-react';
+import { Award, BookOpen, CheckCircle2, Zap, Briefcase, History, TrendingUp, Users, ArrowRight } from 'lucide-react';
 import type { Metadata } from 'next';
 import { JsonLd } from "@/components/JsonLd";
 
@@ -56,42 +55,12 @@ const WORK_EXPERIENCE = [
 ];
 
 const INTERNSHIPS = [
-  {
-    role: "Portfolio Management",
-    company: "Aditya Birla",
-    icon: Award,
-    color: "bg-blue-500"
-  },
-  {
-    role: "Digital Marketing Internship",
-    company: "Eye Wear Labs",
-    icon: TrendingUp,
-    color: "bg-emerald-500"
-  },
-  {
-    role: "Social Media Marketing",
-    company: "Finladder",
-    icon: Users,
-    color: "bg-purple-500"
-  },
-  {
-    role: "Business Development Management",
-    company: "BOLO",
-    icon: Zap,
-    color: "bg-amber-500"
-  },
-  {
-    role: "Social Media Intern",
-    company: "Mind Rank Venture",
-    icon: Users,
-    color: "bg-rose-500"
-  },
-  {
-    role: "Digital Marketing Intern",
-    company: "Thunderpod",
-    icon: Briefcase,
-    color: "bg-indigo-500"
-  }
+  { role: "Portfolio Management", company: "Aditya Birla" },
+  { role: "Digital Marketing", company: "Eye Wear Labs" },
+  { role: "Social Media Marketing", company: "Finladder" },
+  { role: "Business Development", company: "BOLO" },
+  { role: "Social Media Intern", company: "Mind Rank Venture" },
+  { role: "Digital Marketing Intern", company: "Thunderpod" }
 ];
 
 export default function AboutPage() {
@@ -102,18 +71,11 @@ export default function AboutPage() {
       "@type": "Person",
       "name": "Mohit Jain",
       "description": "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
-      "image": "https://www.careerwithmohit.online/logo.webp",
       "jobTitle": "Career Counsellor & MBA Admissions Expert",
       "url": "https://www.careerwithmohit.online/about",
       "alumniOf": [
-        {
-          "@type": "CollegeOrUniversity",
-          "name": "IIM Bangalore"
-        },
-        {
-          "@type": "CollegeOrUniversity",
-          "name": "FMS Delhi"
-        }
+        { "@type": "CollegeOrUniversity", "name": "IIM Bangalore" },
+        { "@type": "CollegeOrUniversity", "name": "FMS Delhi" }
       ],
       "knowsAbout": [
         "Career Counselling",
@@ -127,190 +89,159 @@ export default function AboutPage() {
   };
 
   return (
-    <div className="w-full bg-muted min-h-screen">
+    <div className="w-full bg-yellow-50 min-h-screen selection:bg-foreground selection:text-white">
       <JsonLd data={aboutSchema} />
-      {/* Hero Section */}
-      <section className="bg-white border-b-8 border-foreground py-20 px-6 sm:px-12">
-        <div className="mx-auto max-w-7xl">
-          <div className="flex flex-col lg:flex-row gap-16 items-center">
-            <div className="lg:w-1/2">
-              <h1 className="font-display text-5xl font-black uppercase tracking-tighter text-foreground sm:text-7xl mb-8 leading-none">
-                Meet <br />
-                <span className="bg-primary text-white px-4 py-1 -rotate-2 inline-block border-4 border-foreground mt-2">Mohit Jain</span>
-              </h1>
-              <p className="text-2xl font-bold text-gray-700 leading-tight mb-8 border-l-8 border-accent pl-6">
-                A mission-driven career counsellor dedicated to providing uncompromised, strategic guidance for the next generation of leaders.
-              </p>
-              <div className="flex gap-4">
-                <div className="bg-foreground text-white p-4 font-black uppercase tracking-widest text-sm border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(59,130,246,1)]">
-                  Expert Consultant
-                </div>
-                <div className="bg-white text-foreground p-4 font-black uppercase tracking-widest text-sm border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(244,63,94,1)]">
-                  MBA Specialist
-                </div>
-              </div>
-            </div>
-            <div className="lg:w-1/2 relative">
-              <div className="aspect-square bg-accent border-8 border-foreground rounded-2xl shadow-[20px_20px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center p-12 overflow-hidden">
-                <Star className="w-full h-full text-white opacity-20 absolute -top-10 -right-10 rotate-12" />
-                <div className="relative z-10 text-center">
-                  <div className="w-32 h-32 bg-white border-4 border-foreground rounded-full mx-auto mb-6 flex items-center justify-center">
-                    <Award className="w-16 h-16 text-primary" strokeWidth={2.5} />
-                  </div>
-                  <h3 className="text-3xl font-black text-foreground uppercase tracking-tight">Trust. Strategy. Growth.</h3>
-                </div>
-              </div>
-            </div>
+      
+      {/* Typography-Driven Hero Section */}
+      <section className="bg-white border-b-8 border-foreground py-20 px-6 sm:px-12 relative overflow-hidden">
+        {/* Background Grid Pattern */}
+        <div className="absolute inset-0 opacity-[0.03] bg-[linear-gradient(to_right,#000_1px,transparent_1px),linear-gradient(to_bottom,#000_1px,transparent_1px)] bg-[size:4rem_4rem]"></div>
+        
+        <div className="mx-auto max-w-6xl relative z-10 text-center">
+          <div className="inline-block bg-foreground text-white font-black uppercase tracking-widest text-sm px-6 py-2 mb-8 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(59,130,246,1)] rotate-2">
+            Expert Consultant • MBA Specialist
           </div>
+          
+          <h1 className="font-display text-6xl sm:text-8xl md:text-9xl font-black uppercase tracking-tighter text-foreground mb-10 leading-[0.9]">
+            Meet <br />
+            <span className="inline-block bg-primary text-white px-8 pb-4 pt-2 -rotate-3 border-8 border-foreground mt-4 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 hover:scale-105 transition-all duration-300">
+              Mohit Jain
+            </span>
+          </h1>
+          
+          <p className="text-2xl md:text-4xl font-bold text-gray-800 leading-tight max-w-4xl mx-auto mt-12 bg-yellow-300 p-6 sm:p-10 border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            A mission-driven career counsellor dedicated to providing <span className="underline decoration-wavy decoration-primary underline-offset-4">uncompromised, strategic guidance</span> for the next generation of leaders.
+          </p>
         </div>
       </section>
 
       {/* Experience & Mission */}
-      <section className="py-24 px-6 sm:px-12 border-b-8 border-foreground bg-white">
-        <div className="mx-auto max-w-4xl">
-          <h2 className="font-display text-4xl font-extrabold uppercase mb-12 flex items-center gap-4">
-            <span className="w-12 h-12 bg-primary rounded-full border-4 border-foreground flex items-center justify-center text-white italic">M</span>
+      <section className="py-24 px-6 sm:px-12 border-b-8 border-foreground bg-accent">
+        <div className="mx-auto max-w-5xl">
+          <h2 className="font-display text-5xl md:text-7xl font-black uppercase mb-16 text-white drop-shadow-[4px_4px_0px_rgba(0,0,0,1)] text-center">
             My Professional Mission
           </h2>
-          <div className="prose prose-xl max-w-none">
-            <p className="font-bold text-gray-800 leading-relaxed mb-8">
-              With a certification background from India's most prestigious institutions like IIM Bangalore and FMS Delhi, I bring a data-driven yet deeply human approach to career counselling.
-            </p>
-            <p className="font-medium text-gray-600 leading-relaxed mb-8">
-              My experience spans across digital marketing, business analytics, and operational excellence. I believe that every student has a unique trajectory, and my role is to help you find the shortest, most effective path to your goals.
-            </p>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-12">
-              <div className="bg-blue-50 border-4 border-foreground p-8 rounded-xl">
-                <h4 className="font-black text-xl uppercase mb-4 text-primary italic">Admission Expert</h4>
-                <p className="font-bold text-gray-700">Specializing in MBA, PGDM, and B.Tech admissions for top-tier Indian and Global B-Schools.</p>
+          
+          <div className="grid md:grid-cols-2 gap-12 items-center">
+            <div className="bg-white border-8 border-foreground p-10 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] -rotate-1">
+              <p className="font-bold text-2xl text-foreground leading-relaxed mb-6">
+                With a certification background from India's most prestigious institutions like IIM Bangalore and FMS Delhi, I bring a data-driven yet deeply human approach to career counselling.
+              </p>
+              <p className="font-bold text-xl text-gray-600 leading-relaxed">
+                My experience spans across digital marketing, business analytics, and operational excellence. Every student has a unique trajectory—my role is to find your shortest, most effective path.
+              </p>
+            </div>
+            
+            <div className="flex flex-col gap-6">
+              <div className="bg-blue-400 border-4 border-foreground p-8 rotate-2 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-transform cursor-crosshair">
+                <h4 className="font-black text-2xl uppercase mb-2 text-foreground">Admission Expert</h4>
+                <p className="font-bold text-gray-900 text-lg">Specializing in MBA, PGDM, and B.Tech admissions for top-tier Indian and Global B-Schools.</p>
               </div>
-              <div className="bg-emerald-50 border-4 border-foreground p-8 rounded-xl">
-                <h4 className="font-black text-xl uppercase mb-4 text-emerald-600 italic">Process Specialist</h4>
-                <p className="font-bold text-gray-700">Six Sigma certified professional focusing on optimizing your application and interview performance.</p>
+              <div className="bg-emerald-400 border-4 border-foreground p-8 -rotate-1 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-transform cursor-crosshair">
+                <h4 className="font-black text-2xl uppercase mb-2 text-foreground">Process Specialist</h4>
+                <p className="font-bold text-gray-900 text-lg">Six Sigma certified professional focusing on optimizing your application and interview performance.</p>
               </div>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Professional Experience */}
-      <section className="py-24 px-6 sm:px-12 bg-muted border-b-8 border-foreground">
-        <div className="mx-auto max-w-7xl">
-          <div className="text-center mb-20">
-            <h2 className="font-display text-4xl font-black uppercase sm:text-6xl mb-6">
-              Professional <span className="text-primary italic">Journey</span>
-            </h2>
-            <div className="h-2 w-48 bg-foreground mx-auto"></div>
-          </div>
+      {/* Professional Journey (Timeline Alternative) */}
+      <section className="py-24 px-6 sm:px-12 bg-white border-b-8 border-foreground">
+        <div className="mx-auto max-w-6xl">
+          <h2 className="font-display text-5xl md:text-7xl font-black uppercase mb-20 text-center tracking-tight">
+            The <span className="bg-primary text-white px-4 border-4 border-foreground inline-block shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] -rotate-2">Journey</span>
+          </h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
-            {WORK_EXPERIENCE.map((exp, idx) => {
-              const Icon = exp.icon;
-              return (
-                <div key={idx} className="bg-white border-4 border-foreground p-8 sm:p-12 relative shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-1 hover:translate-y-1 transition-all">
-                  <div className={`absolute -top-6 -right-6 w-16 h-16 ${exp.color} border-4 border-foreground flex items-center justify-center rotate-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]`}>
-                    <Icon className="text-white w-8 h-8" />
+          <div className="flex flex-col gap-8">
+            {WORK_EXPERIENCE.map((exp, idx) => (
+              <div key={idx} className="group flex flex-col md:flex-row gap-6 items-center bg-gray-50 border-4 border-foreground p-6 md:p-8 hover:bg-yellow-200 transition-colors shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:translate-x-2">
+                <div className={`shrink-0 w-24 h-24 ${exp.color} border-4 border-foreground flex items-center justify-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] group-hover:scale-110 transition-transform`}>
+                  <exp.icon className="text-white w-12 h-12" />
+                </div>
+                <div className="flex-grow text-center md:text-left">
+                  <div className="inline-block bg-foreground text-white px-3 py-1 font-bold text-sm tracking-widest uppercase mb-3">
+                    {exp.period}
                   </div>
-                  <div className="mb-6">
-                    <span className="bg-foreground text-white px-3 py-1 font-bold text-sm tracking-widest uppercase mb-4 inline-block">
-                      {exp.period}
-                    </span>
-                    <h3 className="text-3xl font-black text-foreground uppercase tracking-tight leading-none mb-2">
-                      {exp.role}
-                    </h3>
-                    <p className="text-xl font-bold text-primary italic">
-                      {exp.company}
-                    </p>
-                  </div>
-                  <p className="text-gray-600 text-lg font-medium leading-relaxed">
+                  <h3 className="text-3xl font-black text-foreground uppercase tracking-tight leading-none mb-2">
+                    {exp.role}
+                  </h3>
+                  <p className="text-2xl font-black text-primary uppercase">
+                    @ {exp.company}
+                  </p>
+                </div>
+                <div className="md:w-1/3 text-center md:text-right border-t-4 md:border-t-0 md:border-l-4 border-foreground pt-6 md:pt-0 md:pl-6 mt-2 md:mt-0">
+                  <p className="font-bold text-gray-700 text-lg leading-snug">
                     {exp.description}
                   </p>
                 </div>
-              );
-            })}
+              </div>
+            ))}
           </div>
         </div>
       </section>
 
-      {/* Internships Section */}
-      <section className="py-24 px-6 sm:px-12 bg-white border-b-8 border-foreground">
+      {/* Dual Section: Certifications & Internships */}
+      <section className="py-24 px-6 sm:px-12 bg-blue-50 border-b-8 border-foreground">
         <div className="mx-auto max-w-7xl">
-          <div className="text-center mb-16">
-            <h2 className="font-display text-3xl font-black uppercase sm:text-5xl mb-6 text-foreground">
-              Early Career <span className="text-accent italic">& Internships</span>
-            </h2>
-            <div className="h-1.5 w-32 bg-foreground mx-auto"></div>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-            {INTERNSHIPS.map((intern, idx) => {
-              const Icon = intern.icon;
-              return (
-                <div key={idx} className="group bg-muted border-4 border-foreground p-8 rounded-xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transition-all hover:translate-x-0.5 hover:translate-y-0.5 hover:shadow-none">
-                  <div className="flex items-center gap-5">
-                    <div className={`w-14 h-14 ${intern.color} border-4 border-foreground rounded-lg flex items-center justify-center -rotate-3 group-hover:rotate-0 transition-transform`}>
-                      <Icon className="text-white w-7 h-7" />
+          <div className="grid lg:grid-cols-2 gap-16">
+            
+            {/* Certifications */}
+            <div>
+              <h2 className="font-display text-4xl md:text-5xl font-black uppercase mb-12 border-b-8 border-foreground pb-4 inline-block">
+                Certifications
+              </h2>
+              <div className="flex flex-col gap-6">
+                {CERTIFICATIONS.map((cert, idx) => (
+                  <div key={idx} className="bg-white border-4 border-foreground p-6 flex items-center gap-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 transition-transform">
+                    <div className={`w-16 h-16 shrink-0 ${cert.color} border-4 border-foreground flex items-center justify-center`}>
+                      <cert.icon className="text-white w-8 h-8" strokeWidth={3} />
                     </div>
                     <div>
-                      <h3 className="text-xl font-black text-foreground uppercase tracking-tight leading-tight">
-                        {intern.role}
-                      </h3>
-                      <p className="text-lg font-bold text-gray-500 italic">
-                        {intern.company}
-                      </p>
+                      <h3 className="text-2xl font-black uppercase leading-tight">{cert.title}</h3>
+                      <p className="text-lg font-bold text-gray-600">{cert.organization}</p>
                     </div>
                   </div>
-                </div>
-              );
-            })}
-          </div>
-        </div>
-      </section>
+                ))}
+              </div>
+            </div>
 
-      {/* Certifications Grid */}
-      <section className="py-24 px-6 sm:px-12 bg-accent/10">
-        <div className="mx-auto max-w-7xl">
-          <div className="text-center mb-20">
-            <h2 className="font-display text-4xl font-black uppercase sm:text-6xl mb-6">Certifications <span className="text-primary italic">& Achievements</span></h2>
-            <div className="h-2 w-48 bg-foreground mx-auto"></div>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
-            {CERTIFICATIONS.map((cert, idx) => {
-              const Icon = cert.icon;
-              return (
-                <div key={idx} className="group bg-white border-4 border-foreground p-10 rounded-2xl shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transition-all hover:-translate-y-2 hover:-translate-x-1 hover:shadow-[14px_14px_0px_0px_rgba(0,0,0,1)]">
-                  <div className={`w-16 h-16 ${cert.color} border-4 border-foreground rounded-xl mb-8 flex items-center justify-center -rotate-3 group-hover:rotate-3 transition-transform`}>
-                    <Icon className="text-white w-8 h-8" strokeWidth={3} />
+            {/* Internships */}
+            <div>
+              <h2 className="font-display text-4xl md:text-5xl font-black uppercase mb-12 border-b-8 border-foreground pb-4 inline-block">
+                Early Career
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                {INTERNSHIPS.map((intern, idx) => (
+                  <div key={idx} className="bg-accent/20 border-4 border-foreground p-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:bg-accent hover:text-white transition-colors group cursor-default">
+                    <h3 className="text-xl font-black uppercase leading-tight mb-2 group-hover:text-white">{intern.role}</h3>
+                    <p className="font-bold text-foreground group-hover:text-white">@ {intern.company}</p>
                   </div>
-                  <h3 className="text-2xl font-black text-foreground mb-2 leading-tight uppercase">
-                    {cert.title}
-                  </h3>
-                  <p className="text-xl font-bold text-gray-500 italic">
-                    {cert.organization}
-                  </p>
-                </div>
-              );
-            })}
+                ))}
+              </div>
+            </div>
+            
           </div>
         </div>
       </section>
 
       {/* CTA Section */}
-      <section className="bg-foreground text-white py-24 px-6 sm:px-12">
-        <div className="mx-auto max-w-4xl text-center">
-          <h2 className="font-display text-4xl sm:text-6xl font-black uppercase mb-10 leading-none">
-            Ready to build <br /><span className="text-primary">Your success story?</span>
+      <section className="bg-foreground py-24 px-6 sm:px-12 overflow-hidden relative">
+        <div className="absolute -left-20 top-10 opacity-10">
+          <Award className="w-96 h-96 text-white" />
+        </div>
+        <div className="mx-auto max-w-5xl text-center relative z-10">
+          <h2 className="font-display text-6xl sm:text-8xl md:text-9xl font-black uppercase mb-8 leading-[0.8] text-white">
+            Ready to <br />
+            <span className="text-primary block mt-4">Succeed?</span>
           </h2>
-          <p className="text-2xl font-bold text-gray-300 mb-12">
+          <p className="text-2xl sm:text-3xl font-bold text-gray-300 mb-12 max-w-3xl mx-auto">
             Don't just apply. Strategize with a professional who understands the metrics of success.
           </p>
-          <div className="flex flex-col sm:flex-row gap-6 justify-center">
-            <a href="/inquiry" className="bg-primary border-4 border-white px-10 py-5 text-xl font-black uppercase tracking-widest hover:bg-white hover:text-primary transition-colors hover:scale-105">
-              Let's Get Started
-            </a>
-            <a href="/inquiry" className="bg-transparent border-4 border-white px-10 py-5 text-xl font-black uppercase tracking-widest hover:bg-white hover:text-foreground transition-colors hover:scale-105">
-              Inquiry Form
+          <div className="flex flex-col sm:flex-row gap-8 justify-center items-center">
+            <a href="/inquiry" className="group bg-primary border-4 border-white px-10 py-6 text-2xl font-black uppercase tracking-widest text-white hover:bg-white hover:text-primary hover:border-primary transition-all hover:scale-110 shadow-[8px_8px_0px_0px_rgba(255,255,255,1)] hover:shadow-none flex items-center gap-4">
+              Let's Start
+              <ArrowRight className="w-8 h-8 group-hover:translate-x-2 transition-transform" strokeWidth={3} />
             </a>
           </div>
         </div>
