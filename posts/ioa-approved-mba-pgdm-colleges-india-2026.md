@@ -56,7 +56,13 @@ Known for its strong industry tie-ups, JECRC offers specialized data science man
 *   **Key Highlights:** Focus on practical learning with hands-on projects, preparing students for roles like Data Analyst, BI Manager, and Consultant.
 *   **Estimated Fees:** ₹2 Lakhs - ₹3 Lakhs.
 
-### 3. Other Emerging Universities
+### 3. JK Business School (JKBS), Gurgaon
+JKBS Gurgaon offers a dynamic learning environment with a focus on modern business analytics and data sciences.
+*   **Program:** PGDM with a specialization in Business Analytics
+*   **Key Highlights:** A robust curriculum that integrates real-world data challenges, preparing students for analytical roles in top MNCs.
+*   **Estimated Fees:** ₹7 Lakhs - ₹8 Lakhs.
+
+### 4. Other Emerging Universities
 Many private universities are adopting the IoA curriculum to boost their analytics offerings. When researching colleges, always verify their current official IoA partnership status on their official websites. Look out for universities offering:
 *   MBA in Data Science & Analytics
 *   PGDM in Business Intelligence
