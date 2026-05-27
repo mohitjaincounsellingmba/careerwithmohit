@@ -33,8 +33,6 @@ export const metadata = {
   },
 };
 
-export const revalidate = 3600;
-
 export default function CollegesPage() {
   const colleges = getAllColleges();
 

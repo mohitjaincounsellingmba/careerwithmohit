@@ -12,7 +12,6 @@ export const metadata = {
     canonical: "/news",
   },
 };
-export const revalidate = 3600;
 export default function NewsPage() {
   const newsSchema = {
     "@context": "https://schema.org",

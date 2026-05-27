@@ -15,7 +15,6 @@ export const metadata = {
     type: 'website',
   },
 };
-export const revalidate = 3600;
 export default function BlogPage() {
   const allPostsData = getSortedPostsData();
 

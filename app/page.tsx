@@ -5,7 +5,6 @@ import type { Metadata } from 'next';
 import { getSortedPostsData } from '@/lib/markdown';
 import HomeSearch from '@/components/HomeSearch';
 import { NEWS_ITEMS } from '@/lib/news';
-export const revalidate = 300; // 5 minutes
 import {
   GraduationCap,
   Cpu,

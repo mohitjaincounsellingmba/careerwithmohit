@@ -95,6 +95,7 @@ export function Footer() {
             </div>
             <Link 
               href="/inquiry" 
+              prefetch={false}
               className="bg-white text-foreground px-8 py-4 rounded-full font-black uppercase tracking-widest hover:scale-105 transition-all shadow-xl flex items-center gap-3 shrink-0"
             >
               Get Started Now <ArrowRight size={20} />
@@ -108,7 +109,7 @@ export function Footer() {
           {/* Column 1: Brand */}
           <div className="space-y-8">
             <div className="flex flex-col gap-6">
-              <Link href="/" className="flex items-center gap-3 w-fit">
+              <Link href="/" prefetch={false} className="flex items-center gap-3 w-fit">
                 <div className="bg-white p-2 rounded-xl shadow-lg border-2 border-primary">
                   <Image 
                     src="/logo.webp" 
@@ -162,6 +163,7 @@ export function Footer() {
                 <li key={idx}>
                   <Link 
                     href={link.href} 
+                    prefetch={false}
                     className="text-gray-400 hover:text-white transition-all flex items-center gap-2 group text-sm font-bold"
                   >
                     <ArrowRight size={14} className="opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-primary" />
@@ -182,6 +184,7 @@ export function Footer() {
                 <li key={idx}>
                   <Link 
                     href={link.href} 
+                    prefetch={false}
                     className={`${link.color || 'text-gray-400'} hover:text-white transition-all flex items-center gap-2 group text-sm font-black italic`}
                   >
                     <ArrowRight size={14} className="opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-white" />
@@ -202,6 +205,7 @@ export function Footer() {
                 <li key={idx}>
                   <Link 
                     href={link.href} 
+                    prefetch={false}
                     className="text-gray-400 hover:text-white transition-all flex items-center gap-2 group text-sm font-bold"
                   >
                     <ArrowRight size={14} className="opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-accent" />
@@ -233,8 +237,8 @@ export function Footer() {
                 VISITS: <span className="text-white">{(visits + 24850).toLocaleString()}</span>
               </div>
             )}
-            <Link href="/privacy" className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Privacy Policy</Link>
-            <Link href="/terms" className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Terms of Service</Link>
+            <Link href="/privacy" prefetch={false} className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Privacy Policy</Link>
+            <Link href="/terms" prefetch={false} className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Terms of Service</Link>
           </div>
         </div>
       </div>
