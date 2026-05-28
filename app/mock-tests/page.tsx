@@ -20,7 +20,32 @@ export const metadata: Metadata = {
   title: 'Mock Test Hub 2026 - 50+ Free Online Practice Papers | CareerWithMohit',
   description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE, NEET, NMAT, and Govt Exams. High-quality practice papers with AI analysis, percentile prediction, and official exam interfaces.',
   keywords: ['free mock test series 2026', 'cat mock test free', 'jee main mock test online', 'neet ug practice papers', 'gmat focus edition free mock', 'ipu cet mock test online', 'ssc cgl tier 1 mock test free'],
+  alternates: {
+    canonical: '/mock-tests',
+  },
+  openGraph: {
+    title: 'Mock Test Hub 2026 - 50+ Free Online Practice Papers | CareerWithMohit',
+    description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE, NEET, NMAT, and Govt Exams. Get instant score analysis and percentile predictions.',
+    url: 'https://www.careerwithmohit.online/mock-tests',
+    type: 'website',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'Mock Test Hub 2026',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Mock Test Hub 2026 - 50+ Free Online Practice Papers | CareerWithMohit',
+    description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE, NEET, NMAT, and Govt Exams.',
+    images: ['/og-image.webp'],
+  },
 };
+
+import { JsonLd } from '@/components/JsonLd';
 
 const categories = [
   {
@@ -98,8 +123,68 @@ const categories = [
 ];
 
 export default function MockTestHubPage() {
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests"
+      }
+    ]
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Are the mock tests on CareerWithMohit free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, all mock tests on CareerWithMohit are 100% free to access. There are no hidden fees or charges for attempting any of the practice papers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which exams are covered in the Mock Test Hub?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Mock Test Hub covers a wide range of exams including MBA Entrances (CAT, XAT, NMAT, SNAP, GMAT, ATMA, MHCET), B.Tech Entrances (JEE Main, JEE Advanced, BITSAT, VITEEE, SRMJEEE), Medical (NEET UG), Law (CLAT), Central Universities (CUET UG & PG), Study Abroad (IELTS, TOEFL, Duolingo, GRE, SAT), and Government Exams (SSC CGL, IBPS PO, UPSC CSE, RBI Grade B, etc.)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do these mock tests mimic actual exam conditions?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Our mock tests simulate actual exam interfaces, feature timed sections where applicable, and are designed based on the latest 2026 exam patterns to provide an authentic testing experience."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I get score analysis after taking a test?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. Immediately upon submitting a test, you receive detailed performance analytics, including section-wise score breakdown, accuracy rates, and percentile predictions."
+        }
+      }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-slate-50 pt-24 pb-20">
+      <JsonLd data={breadcrumbSchema} />
+      <JsonLd data={faqSchema} />
       <div className="mx-auto max-w-7xl px-6 sm:px-12">
         {/* Hero Section */}
         <div className="relative mb-20 text-center">

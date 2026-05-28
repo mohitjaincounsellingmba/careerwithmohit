@@ -21,6 +21,11 @@ const nextConfig: NextConfig = {
         destination: '/calculator/career-roadmap',
         permanent: true,
       },
+      {
+        source: '/tools/mock-tests',
+        destination: '/mock-tests',
+        permanent: true,
+      },
     ];
   },
 };
