@@ -147,7 +147,7 @@ The Online MBA uses a live LMS with real-time classes, while Distance MBA was an
 
 ---
 
-[👉 Apply for Amity University Online MBA – Talk to an Expert](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Apply for [Amity University](/colleges/amity-noida) Online MBA – Talk to an Expert](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
 
 ---
 

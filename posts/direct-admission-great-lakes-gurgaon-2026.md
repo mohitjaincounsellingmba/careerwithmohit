@@ -15,7 +15,7 @@ Great Lakes Institute of Management (GLIM) Gurgaon is a sister campus of the leg
 
 ## Is there a Management Quota in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)?
 
-As per official guidelines, Great Lakes Gurgaon is a strictly merit-based institution. However, students often use "Direct Admission" keywords to find the institutional selection process:
+As per official guidelines, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) is a strictly merit-based institution. However, students often use "Direct Admission" keywords to find the institutional selection process:
 
 ### 1. Cycle-Based Direct Shortlist
 Great Lakes follows a 4-cycle admission process. 

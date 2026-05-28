@@ -29,7 +29,7 @@ Candidates from the NRI category follow a profile-based selection. This is a dir
 FORE actively encourages students from across India and from different academic streams (Arts, Commerce, Science). This diversity focus often leads to direct shortlists for candidates who bring unique perspectives to the classroom.
 
 ## Fee Structure for 2026
-The total academic fee for the two-year program at FORE School of Management is approximately **₹18 Lakhs to ₹20 Lakhs**. This includes the global immersion costs and top-tier facility access.
+The total academic fee for the two-year program at [FORE School of Management](/colleges/fore-school-delhi) is approximately **₹18 Lakhs to ₹20 Lakhs**. This includes the global immersion costs and top-tier facility access.
 
 ## Selection Process (2026 Batch)
 Even for institutional seats, the standards are high:

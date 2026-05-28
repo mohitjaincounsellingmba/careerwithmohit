@@ -21,7 +21,7 @@ ASM's Institute of Business Management & Research (IBMR) is one of the oldest ma
 ### **Fee Structure:**
 The total fee is **₹8.25 Lakhs** for PGDM and around **₹4.80 Lakhs** for MBA. It's a solid choice for students looking for a stable, legacy-backed education.
 
-[👉 Secure your seat at ASM IBMR Pune today!](/inquiry)
+[👉 Secure your seat at [ASM IBMR](/colleges/asm-ibmr) Pune today!](/inquiry)
 
 ---
 

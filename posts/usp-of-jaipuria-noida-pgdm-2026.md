@@ -25,7 +25,7 @@ Here are the **10 real USPs of Jaipuria Institute of Management, Noida** for the
 
 ---
 
-## 10 Unique Selling Points (USPs) of Jaipuria Noida
+## 10 Unique Selling Points (USPs) of [Jaipuria Noida](/colleges/jaipuria-noida)
 
 ### 1. 🌍 AACSB Accreditation — Global Top 6% of B-Schools
 

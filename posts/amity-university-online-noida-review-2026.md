@@ -36,7 +36,7 @@ Amity Online provides a diverse range of undergraduate and postgraduate programs
 
 ## **Amity Online Placement Support & Career Impact**
 
-Amity University Online goes beyond academics to ensure job readiness:
+[Amity University](/colleges/amity-noida) Online goes beyond academics to ensure job readiness:
 *   **1,00,000+ Opportunities:** Access to a vast job portal with over one lakh placement opportunities.
 *   **Virtual Job Fairs:** Regular virtual hiring events in collaboration with top recruiting partners.
 *   **Corporate Partners:** Tie-ups with industry leaders like **HCLTech, TCSiON**, and Ivy League universities for global exposure.

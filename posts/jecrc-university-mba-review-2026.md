@@ -53,7 +53,7 @@ Whether you are targeting general management or specialized fields like Fintech,
 
 ### **Admission Process & Cutoffs**
 
-JECRC University follows a merit plus entrance-based admission process. 
+[JECRC University](/colleges/jecrc-jaipur) follows a merit plus entrance-based admission process. 
 
 1.  **Eligibility**: Candidates must hold a bachelor's degree with a minimum of 60% aggregate marks.
 2.  **Entrance Exam Score**: Valid scores in [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), or XAT are mandatory.

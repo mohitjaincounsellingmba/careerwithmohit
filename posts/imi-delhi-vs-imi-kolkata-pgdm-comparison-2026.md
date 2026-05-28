@@ -26,7 +26,7 @@ The **International Management Institute (IMI)** is one of the "Old Guard" in In
 
 ### **2. Placement Performance**
 Both campuses have reported **100% placement** for the 2024-25 batches. 
-*   **IMI Delhi**: Strong in **BFSI and Consulting**, with nearly 40% of the batch joining top-tier banks and firms like Barclays, EY, and Shell.
+*   **[IMI Delhi](/colleges/imi-delhi)**: Strong in **BFSI and Consulting**, with nearly 40% of the batch joining top-tier banks and firms like Barclays, EY, and Shell.
 *   **[IMI Kolkata](/colleges/imi-kolkata)**: Increasingly strong for **FMCG and E-commerce**, with recruiters like HDFC Bank and Amazon visiting consistently.
 
 ### **3. The Cutoff Advantage**
@@ -47,7 +47,7 @@ If your CAT score is in the **75-80 percentile range**, [IMI Kolkata](/colleges/
 ---
 
 ### **Frequently Asked Questions (FAQ)**
-**1. Is IMI Kolkata placements as good as Delhi?**
+**1. Is [IMI Kolkata](/colleges/imi-kolkata) placements as good as Delhi?**
 No. While IMI Kolkata is an excellent choice, the average package in Delhi is about ₹5-6 LPA higher. However, remember the fee in Delhi is also double.
 
 **2. Does IMI accept CMAT?**

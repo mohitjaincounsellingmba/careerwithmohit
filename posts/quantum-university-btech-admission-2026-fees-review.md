@@ -28,7 +28,7 @@ Quantum offers premium facilities at an annual fee comparable to other top-tier 
 *   **Hostel Fee**: ₹90,000 to ₹1.1 Lakhs per year.
 
 ### **Placement Review: A Robust Career Launcher**
-Quantum University is proud of its placement percentages, especially for the core engineering and IT branches.
+[Quantum University](/colleges/quantum-university-roorkee) is proud of its placement percentages, especially for the core engineering and IT branches.
 *   **Highest Package (On-Campus-2025/2026 Batch)**: ₹33.50 LPA.
 *   **Highest Off-Campus Package**: Up to ₹68.0 LPA.
 *   **Average Package (B.Tech Overall)**: ₹5.80 LPA to ₹7.2 LPA.

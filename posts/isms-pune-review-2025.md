@@ -21,7 +21,7 @@ ISMS (International School of Management Studies) Pune is known for its strong e
 ### **Fee Structure:**
 The total fee for the PGDM program is approximately **₹7.50 Lakhs**. Given the salary benchmarks, it is a highly reliable mid-tier institution for students focusing on Marketing and Finance.
 
-[👉 Get ISMS Pune admission assistance and fee details!](/inquiry)
+[👉 Get [ISMS Pune](/colleges/isms-pune) admission assistance and fee details!](/inquiry)
 
 ---
 

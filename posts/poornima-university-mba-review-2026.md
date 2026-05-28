@@ -36,7 +36,7 @@ If you are evaluating [Poornima University](/colleges/poornima-jaipur) for your 
 
 ### **Placement Records & Recruiters**
 
-Poornima University holds a steady placement record. For candidates looking for a secure foundation in sales, marketing, and HR, PU brings a host of mid-tier and top-tier recruiters.
+[Poornima University](/colleges/poornima-jaipur) holds a steady placement record. For candidates looking for a secure foundation in sales, marketing, and HR, PU brings a host of mid-tier and top-tier recruiters.
 
 *   **Highest Package**: Between ₹13.13 LPA and ₹18.00 LPA
 *   **Average/Median Package**: ₹4.01 LPA - ₹5.00 LPA

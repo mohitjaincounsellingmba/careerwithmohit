@@ -13,7 +13,7 @@ ASM's Institute of International Business and Research (IIBR) is the specialized
 *   **Placement Rate**: Strong industry connect
 *   **Entrance Exam**: CAT / XAT / CMAT / ATMA / MAH CET
 
-### **Why Choose ASM IIBR?**
+### **Why Choose [ASM IIBR](/colleges/asm-iibr)?**
 *   **Global Curriculum**: The program is designed to include international business certifications and foreign language training.
 *   **Industry 4.0 Focus**: Integrates digital business and new-age tech trends into the traditional management syllabus.
 *   **Common Placements**: Students benefit from the group's centralized placement cell, which has massive reach across the Chinchwad-Pune industrial belt.

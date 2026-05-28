@@ -59,7 +59,7 @@ Return on Investment (ROI) is calculated by comparing the total 2-year tuition f
 
 | College Name | Total Fees (2 Years) | Avg Placement Package | Pure ROI Ratio |
 | :--- | :--- | :--- | :--- |
-| **FMS Delhi** | ₹2.0 Lakhs | **₹34.10 LPA** | **17.0x (Exceptional)** |
+| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.0 Lakhs | **₹34.10 LPA** | **17.0x (Exceptional)** |
 | **Jamia Millia (JMI)** | ₹47,000 | **₹8.00 LPA** | **17.0x (Exceptional)** |
 | **DMS, IIT Delhi** | ₹11.2 Lakhs | **₹25.82 LPA** | **2.3x (Very Good)** |
 | **DSM, DTU Delhi** | ₹4.5 Lakhs | **₹9.50 LPA** | **2.1x (Very Good)** |

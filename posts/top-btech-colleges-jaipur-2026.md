@@ -129,7 +129,7 @@ Private engineering college fees in Jaipur range from ₹90,000 to ₹2.5 Lakhs 
 
 ## Useful Resources
 
-- [Direct Admission in MNIT Jaipur B.Tech 2026](/blog/direct-admission-mnit-jaipur-btech-2026)
+- [Direct Admission in [MNIT Jaipur](/colleges/mnit-jaipur) B.Tech 2026](/blog/direct-admission-mnit-jaipur-btech-2026)
 - [REAP Counselling 2026 Guide](/blog/reap-counselling-2026-rajasthan-btech-admission)
 - [Manipal University Jaipur B.Tech Direct Admission 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
 - [JECRC University Jaipur Direct Admission 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)

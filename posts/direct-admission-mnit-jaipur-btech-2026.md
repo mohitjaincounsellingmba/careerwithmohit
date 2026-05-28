@@ -9,7 +9,7 @@ Malaviya National Institute of Technology (MNIT) Jaipur is one of the 31 NITs in
 
 ---
 
-### **Quick Highlights — MNIT Jaipur B.Tech 2026**
+### **Quick Highlights — [MNIT Jaipur](/colleges/mnit-jaipur) B.Tech 2026**
 
 | Parameter | Details |
 | :--- | :--- |

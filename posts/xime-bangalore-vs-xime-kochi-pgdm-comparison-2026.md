@@ -32,7 +32,7 @@ This guide breaks it all down — clearly and honestly.
 
 ---
 
-## 🏛️ 1. XIME Bangalore — Overview
+## 🏛️ 1. [XIME Bangalore](/colleges/xime-bangalore) — Overview
 
 XIME Bangalore is the **mothership** of the XIME group. Founded in 1991 by the Jesuit-inspired Xavier tradition, it has built over three decades of academic credibility and corporate relationships in India's Silicon Valley — Bengaluru.
 

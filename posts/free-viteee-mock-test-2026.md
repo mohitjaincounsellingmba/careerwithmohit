@@ -27,7 +27,7 @@ faqs:
   - question: What rank is required to get CSE in Category 1 at [VIT Vellore](/colleges/vit-vellore)?
     answer: >-
       To secure Computer Science Engineering (CSE) in Category 1 (lowest fee
-      category) at VIT Vellore, candidates usually need a rank under 1,000.
+      category) at [VIT Vellore](/colleges/vit-vellore), candidates usually need a rank under 1,000.
 ---
 The **VIT Engineering Entrance Examination (VITEEE)** is the official entrance gateway to secure your seat at Vellore Institute of Technology (VIT) campuses across Vellore, Chennai, AP, and Bhopal. VIT is consistently ranked among the top private engineering universities in India.
 

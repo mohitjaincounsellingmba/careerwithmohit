@@ -26,7 +26,7 @@ Designed to empower ambitious professionals and fresh graduates, the **Sharda On
 ## ✅ Why the [Sharda University](/colleges/sharda-greater-noida) Online MBA is a Phenomenal Choice
 
 ### 1. Superior Academic Flexibility
-One of the most praised aspects of Sharda University is its flexibility. It allows working professionals to balance their job responsibilities while pursuing a premium degree. The **world-class Learning Management System (LMS)** ensures that recorded lectures, study materials, and assignments are accessible 24/7 from anywhere in the world.
+One of the most praised aspects of [Sharda University](/colleges/sharda-greater-noida) is its flexibility. It allows working professionals to balance their job responsibilities while pursuing a premium degree. The **world-class Learning Management System (LMS)** ensures that recorded lectures, study materials, and assignments are accessible 24/7 from anywhere in the world.
 
 ### 2. High-Impact, Industry-Aligned Curriculum
 The coursework isn't just theoretical. The Sharda University Online MBA delivers an **industry-aligned curriculum** that prepares students for the exact challenges faced in modern business environments. With cutting-edge specializations like Marketing, Finance, Human Resources, and Business Analytics, the program is incredibly relevant.

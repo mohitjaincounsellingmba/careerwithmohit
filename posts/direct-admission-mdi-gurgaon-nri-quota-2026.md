@@ -18,7 +18,7 @@ keywords: ["[MDI Gurgaon](/colleges/mdi-gurgaon) NRI quota 2026", "[MDI Gurgaon]
 ---
 
 ## 2. Eligibility for NRI/Foreign National Category
-For the 2026-28 batch, MDI Gurgaon follows strict AICTE norms for specialized category seats:
+For the 2026-28 batch, [MDI Gurgaon](/colleges/mdi-gurgaon) follows strict AICTE norms for specialized category seats:
 *   **NRI Candidates:** Must have resided outside India for at least 180 days in a calendar year.
 *   **Foreign Nationals:** Candidates holding a passport of a country other than India.
 *   **Academic Bar:** Minimum 10+2+3 years of education with at least 50% Marks throughout.

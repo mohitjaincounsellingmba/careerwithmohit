@@ -70,7 +70,7 @@ MUJ's fee varies by branch and category. Below is an approximate breakdown:
 
 ---
 
-### **B.Tech Branches Offered at Manipal University Jaipur**
+### **B.Tech Branches Offered at [Manipal University Jaipur](/colleges/manipal-university-jaipur)**
 
 MUJ offers a wide range of engineering programs:
 

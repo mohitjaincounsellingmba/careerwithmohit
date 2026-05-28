@@ -171,7 +171,7 @@ This flexible entry makes BMU accessible to students with varied exam profiles.
 It's a full **university MBA degree**, recognised by UGC — not a PGDM diploma.
 
 **Q2. What is BMU's NIRF ranking?**
-NIRF 2025 ranked BML Munjal University **#77 in the Management category**.
+NIRF 2025 ranked [BML Munjal University](/colleges/bml-munjal-gurgaon) **#77 in the Management category**.
 
 **Q3. What is the average package at BML Munjal?**
 Top 10% of the batch averaged ₹13.39 LPA; top 25% averaged ₹12.10 LPA. Highest was ₹17 LPA.

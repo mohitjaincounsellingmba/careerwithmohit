@@ -7,7 +7,7 @@ keywords: ["[Bennett University](/colleges/bennett-greater-noida) BTech admissio
 
 **[Bennett University](/colleges/bennett-greater-noida)**, established by the Times of India Group, has quickly become one of India's most high-profile private universities in the Delhi-NCR (Greater Noida). Known for its futuristic curriculum, world-class infrastructure, and a strong emphasis on entrepreneurship and AI, Bennett is a top choice for students who want a tech-lifestyle campus experience.
 
-### **Bennett University Admission Process 2026**
+### **[Bennett University](/colleges/bennett-greater-noida) Admission Process 2026**
 1.  **Selection Channels**: Admission is based on your **JEE Main 2026** percentile, **SAT** scores, **CUET**, or your **Class 12** Marks (Best of 3 subjects).
 2.  **Specializations**: The flagship program is B.Tech in Computer Science & Engineering, with minors in AI, Cyber Security, Blockchain, and Gaming.
 3.  **Application**: Round 1 applications typically close in March 2026.

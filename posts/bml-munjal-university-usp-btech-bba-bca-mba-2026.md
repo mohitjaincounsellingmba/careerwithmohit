@@ -55,7 +55,7 @@ Whether you're in BTech, BBA, BCA, or MBA, BMU integrates **Artificial Intellige
 
 ---
 
-## USP of BML Munjal University — BTech (2026)
+## USP of [BML Munjal University](/colleges/bml-munjal-gurgaon) — BTech (2026)
 
 ### Program Overview
 

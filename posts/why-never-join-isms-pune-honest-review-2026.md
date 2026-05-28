@@ -2,7 +2,7 @@
 title: "ISMS PUNE REVIEW"
 date: "2026-03-29"
 description: "Looking for [ISMS Pune](/colleges/isms-pune) MBA honest review? Read why some students warn against joining [ISMS Pune](/colleges/isms-pune), including placement quality, specialized pressure, and hidden campus reality."
-keywords: ["[ISMS Pune](/colleges/isms-pune) negative review", "[ISMS Pune](/colleges/isms-pune) placement reality 2026", "why never join [ISMS Pune](/colleges/isms-pune) MBA", "[ISMS Pune](/colleges/isms-pune) student complaints", "[ISMS Pune](/colleges/isms-pune) vs other MBA colleges Pune", "[ISMS Pune](/colleges/isms-pune) honest feedback", "ISMS Pune specialization change pressure"]
+keywords: ["[ISMS Pune](/colleges/isms-pune) negative review", "[ISMS Pune](/colleges/isms-pune) placement reality 2026", "why never join [ISMS Pune](/colleges/isms-pune) MBA", "[ISMS Pune](/colleges/isms-pune) student complaints", "[ISMS Pune](/colleges/isms-pune) vs other MBA colleges Pune", "[ISMS Pune](/colleges/isms-pune) honest feedback", "[ISMS Pune](/colleges/isms-pune) specialization change pressure"]
 ---
 
 While many reviews highlight the "International" aspect of **ISMS (International School of Management Studies) Pune**, the ground reality for many students is often quite different. Before you pay the admission fee based on flashy brochures, it is critical to look at the negative feedback and common complaints that current students and alumni often discuss.

@@ -15,7 +15,7 @@ International Management Institute (IMI) Delhi is India's first corporate-sponso
 
 ## Understanding Direct Admission at [IMI Delhi](/colleges/imi-delhi)
 
-IMI Delhi is often perceived as a merit-only school, but here are the facts on how alternative seats work:
+[IMI Delhi](/colleges/imi-delhi) is often perceived as a merit-only school, but here are the facts on how alternative seats work:
 
 ### 1. Management / Institutional Quota
 IMI Delhi reserves a small percentage of seats (approx. 5-10%) as institutional seats. 

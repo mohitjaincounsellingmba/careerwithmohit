@@ -54,7 +54,7 @@ For students scoring in the 85-95 percentile bracket in CAT/XAT, these colleges 
 
 | College Name | Average Placement Package | Highest Package Offered | Top Recruiting Sectors |
 | :--- | :--- | :--- | :--- |
-| **FMS Delhi** | **₹34.10 LPA** | ₹1.2 Crore | Management Consulting / Investment Banking |
+| **[FMS Delhi](/colleges/fms-delhi)** | **₹34.10 LPA** | ₹1.2 Crore | Management Consulting / Investment Banking |
 | **[IIFT Delhi](/colleges/iift-delhi)** | **₹29.10 LPA** | ₹85.00 LPA | International Trade / Consulting |
 | **MDI Gurugram** | **₹27.67 LPA** | ₹65.00 LPA | FMCG Marketing / Strategy Consulting |
 | **IMT Ghaziabad** | **₹17.35 LPA** | ₹60.25 LPA | Retail Marketing / Sales / IT |

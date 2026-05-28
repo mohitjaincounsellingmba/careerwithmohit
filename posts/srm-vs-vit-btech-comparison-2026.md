@@ -158,7 +158,7 @@ This is the most important parameter. Let's break it down honestly.
 
 ## 🔬 6. Research & Faculty
 
-| Parameter | VIT Vellore | SRM KTR |
+| Parameter | [VIT Vellore](/colleges/vit-vellore) | SRM KTR |
 |---|---|---|
 | **SIRO Recognition** | ✅ Yes | ✅ Yes |
 | **PhD Faculty** | 80%+ | 70%+ |

@@ -11,7 +11,7 @@ keywords: ["direct admission [JECRC University](/colleges/jecrc-jaipur) Jaipur B
 
 ---
 
-### **Quick Highlights — JECRC University B.Tech 2026**
+### **Quick Highlights — [JECRC University](/colleges/jecrc-jaipur) B.Tech 2026**
 
 | Parameter | Details |
 | :--- | :--- |
