@@ -13,7 +13,7 @@ International Management Institute (IMI) Delhi is India's first corporate-sponso
 - **Top Programs**: PGDM, PGDM-HRM, and PGDM-B&FS (Banking & Financial Services).
 - **Placements**: The average package for the 2025 batch was approximately **₹17.1 LPA**, with top recruiters like BCG, McKinsey, and Reliance.
 
-## Understanding Direct Admission at IMI Delhi
+## Understanding Direct Admission at [IMI Delhi](/colleges/imi-delhi)
 
 IMI Delhi is often perceived as a merit-only school, but here are the facts on how alternative seats work:
 

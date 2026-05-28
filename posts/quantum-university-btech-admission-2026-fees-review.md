@@ -21,7 +21,7 @@ Quantum is reachable for aspirants with decent Class 12 percentages or JEE score
 | **Class 10+2 (PCM-English)**| 75% - 85%+ | 80% - 90% |
 | **Q-Care Score** | 80th Percentile+ | 85th Percentile+ |
 
-### **Quantum University B.Tech Fee Structure 2026**
+### **[Quantum University](/colleges/quantum-university-roorkee) B.Tech Fee Structure 2026**
 Quantum offers premium facilities at an annual fee comparable to other top-tier Uttarakhand private universities.
 *   **Annual Tuition Fee (CSE Core)**: approx. ₹1.49 Lakhs.
 *   **Total 4-Year Tuition Fees**: **₹5.58 Lakhs - ₹6.62 Lakhs** (for the entire duration).

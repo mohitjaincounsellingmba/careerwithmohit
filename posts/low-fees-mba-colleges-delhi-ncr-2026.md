@@ -17,7 +17,7 @@ Here is your comprehensive guide to the **Low Fees MBA Colleges in Delhi NCR for
 These institutions keep tuition fees low via government subsidies and university structures while providing recruitment access to top corporate companies.
 
 ### 1. Faculty of Management Studies (FMS) - Delhi University (DU)
-FMS Delhi is legendary. It offers the **highest ROI of any MBA program globally**, matching elite IIMs in recruitment quality at a fraction of the cost.
+[FMS Delhi](/colleges/fms-delhi) is legendary. It offers the **highest ROI of any MBA program globally**, matching elite IIMs in recruitment quality at a fraction of the cost.
 - **Total Fees (2 Years):** ~₹2.0 Lakhs
 - **Average Placement Package:** **₹34.10 LPA**
 - **Entrance Exam:** CAT UG / CAT

@@ -135,7 +135,7 @@ This is the most important parameter. Let's break it down honestly.
 
 ## 🏫 5. Campus Life & Culture
 
-### VIT Vellore
+### [VIT Vellore](/colleges/vit-vellore)
 - Fully Flexible Credit System (**FFCS**) – choose your own faculty and timetable
 - 220+ student clubs and technical societies
 - **Strict hostel rules** – curfew, limited outing permissions

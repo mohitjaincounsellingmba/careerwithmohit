@@ -17,7 +17,7 @@ Here is a detailed analysis of the **Best MBA Colleges with Placement in Delhi N
 These premier institutions are highly selective, matching the best IIMs in terms of recruitments, salaries, and corporate roles.
 
 ### 1. Faculty of Management Studies (FMS) - Delhi University
-FMS Delhi is a placement powerhouse, consistently placing 100% of its students in record time.
+[FMS Delhi](/colleges/fms-delhi) is a placement powerhouse, consistently placing 100% of its students in record time.
 - **Average Placement Package:** **₹34.10 LPA**
 - **Highest Salary Package:** **₹1.2 Crore**
 - **Top Recruiters:** McKinsey & Company, BCG, Bain & Company, Morgan Stanley, Goldman Sachs, and Google.
@@ -45,7 +45,7 @@ For students scoring in the 85-95 percentile bracket in CAT/XAT, these colleges 
 
 - **IMT Ghaziabad:** The #1 marketing B-school in Delhi NCR, placing students in top FMCG firms like ITC, HUL, and L'Oreal with an average package of **₹17.35 LPA**.
 - **IMI New Delhi:** Ranks closely behind IMT, with strong finance and consulting recruitments offering an average package of **₹17.01 LPA**.
-- **FORE School of Management, Delhi:** A highly popular college in South Delhi, offering an average package of **₹14.50 LPA** with strong placements in corporate finance and marketing.
+- **[FORE School of Management](/colleges/fore-school-delhi), Delhi:** A highly popular college in South Delhi, offering an average package of **₹14.50 LPA** with strong placements in corporate finance and marketing.
 - **LBSIM Delhi (Dwarka):** Noted for its finance placements, offering an average package of **₹12.42 LPA**.
 
 ---
@@ -55,7 +55,7 @@ For students scoring in the 85-95 percentile bracket in CAT/XAT, these colleges 
 | College Name | Average Placement Package | Highest Package Offered | Top Recruiting Sectors |
 | :--- | :--- | :--- | :--- |
 | **FMS Delhi** | **₹34.10 LPA** | ₹1.2 Crore | Management Consulting / Investment Banking |
-| **IIFT Delhi** | **₹29.10 LPA** | ₹85.00 LPA | International Trade / Consulting |
+| **[IIFT Delhi](/colleges/iift-delhi)** | **₹29.10 LPA** | ₹85.00 LPA | International Trade / Consulting |
 | **MDI Gurugram** | **₹27.67 LPA** | ₹65.00 LPA | FMCG Marketing / Strategy Consulting |
 | **IMT Ghaziabad** | **₹17.35 LPA** | ₹60.25 LPA | Retail Marketing / Sales / IT |
 | **IMI New Delhi** | **₹17.01 LPA** | ₹50.00 LPA | Corporate Finance / HR Consulting |

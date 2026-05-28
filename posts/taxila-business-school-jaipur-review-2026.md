@@ -50,7 +50,7 @@ TBS offers a flagship 2-year full-time PGDM program along with an Executive PGDM
 
 ### **Admission Process & Cutoffs**
 
-Admission to Taxila Business School is competitive and profile-based.
+Admission to [Taxila Business School](/colleges/taxila-jaipur) is competitive and profile-based.
 
 1.  **Entrance Exam**: Must have a valid score in [CAT](/blog/all-about-cat-exam), [CMAT](/blog/all-about-cmat-exam), XAT, or MAT.
 2.  **Personal Interview (PI)**: Shortlisted candidates go through rigorous PI rounds.

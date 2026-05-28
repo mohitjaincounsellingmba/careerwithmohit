@@ -1,5 +1,5 @@
 ---
-title: "Jamia Millia Islamia (JMI) Review 2026: Fees, Placements & CUET Cutoff"
+title: "[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) Review 2026: Fees, Placements & CUET Cutoff"
 date: "2026-05-24"
 description: "Thinking about joining Jamia Millia Islamia? Get the latest 2026 updates on JMI fees, placements, CUET cutoffs, and hostel admission details."
 keywords: ["Jamia Millia Islamia 2026", "JMI CUET cutoff 2026", "JMI placement 2026", "JMI fees", "JMI hostel admission"]

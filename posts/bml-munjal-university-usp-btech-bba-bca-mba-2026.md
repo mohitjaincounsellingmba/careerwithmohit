@@ -11,7 +11,7 @@ This post breaks down the **USPs of each program** at [BML Munjal University](/c
 
 ---
 
-## Quick Snapshot: BML Munjal University 2026
+## Quick Snapshot: [BML Munjal University](/colleges/bml-munjal-gurgaon) 2026
 
 | Parameter | Details |
 | :--- | :--- |

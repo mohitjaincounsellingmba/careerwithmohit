@@ -13,9 +13,9 @@ Placement records are a key factor when choosing an MBA program. In 2026, the De
 | College | Avg. Package (₹ LPA) | Top Recruiters | Placement Rate |
 |---|---|---|---|
 | **IIM‑A (Delhi Campus)** | 23.5 | McKinsey, BCG, Google, Amazon | 98% |
-| **MDI Gurgaon** | 18.8 | Deloitte, Accenture, JPMorgan | 95% |
-| **FMS Delhi** | 16.2 | KPMG, Morgan Stanley, Infosys | 94% |
-| **IIFT Delhi** | 15.3 | HSBC, DHL, Tata Steel | 92% |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | 18.8 | Deloitte, Accenture, JPMorgan | 95% |
+| **[FMS Delhi](/colleges/fms-delhi)** | 16.2 | KPMG, Morgan Stanley, Infosys | 94% |
+| **[IIFT Delhi](/colleges/iift-delhi)** | 15.3 | HSBC, DHL, Tata Steel | 92% |
 | **IMT Ghaziabad** | 14.0 | Nestlé, L&T, Capgemini | 90% |
 
 ## Why These Colleges Excel

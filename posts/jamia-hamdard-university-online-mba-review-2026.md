@@ -10,7 +10,7 @@ keywords: ["[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online MBA review", "
 
 ---
 
-## 📊 Jamia Hamdard Online MBA Snapshot
+## 📊 [Jamia Hamdard](/colleges/jamia-hamdard-delhi) Online MBA Snapshot
 
 | Feature | Details |
 | :--- | :--- |

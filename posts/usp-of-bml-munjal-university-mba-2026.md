@@ -151,7 +151,7 @@ This flexible entry makes BMU accessible to students with varied exam profiles.
 
 ---
 
-## Who Should Choose BML Munjal University?
+## Who Should Choose [BML Munjal University](/colleges/bml-munjal-gurgaon)?
 
 ✅ Students who want a **full university MBA degree** (not a PGDM diploma)  
 ✅ Aspirants drawn to the **Hero Group corporate legacy** and its network  

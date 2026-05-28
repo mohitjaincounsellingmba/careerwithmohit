@@ -114,7 +114,7 @@ If your REAP rank isn't enough for your desired college, management quota is ava
 [MNIT Jaipur](/colleges/mnit-jaipur) is the top government engineering college. Among private colleges, [Manipal University Jaipur](/colleges/manipal-university-jaipur) is the highest-ranked, followed by [JECRC University](/colleges/jecrc-jaipur).
 
 **Q2. What JEE Main rank is needed for [MNIT Jaipur](/colleges/mnit-jaipur) CSE?**
-For the general category, a JEE Main rank below 3,500 (CRL) is typically required for CSE at MNIT Jaipur.
+For the general category, a JEE Main rank below 3,500 (CRL) is typically required for CSE at [MNIT Jaipur](/colleges/mnit-jaipur).
 
 **Q3. Can I get B.Tech admission in Jaipur without JEE?**
 Yes. All private colleges in Jaipur accept students through REAP (based on 12th board marks) or via direct admission for management quota seats.

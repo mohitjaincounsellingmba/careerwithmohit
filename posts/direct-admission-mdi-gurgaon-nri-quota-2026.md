@@ -5,7 +5,7 @@ description: "Everything about NRI/Foreign National admission at [MDI Gurgaon](/
 keywords: ["[MDI Gurgaon](/colleges/mdi-gurgaon) NRI quota 2026", "[MDI Gurgaon](/colleges/mdi-gurgaon) direct admission", "[MDI Gurgaon](/colleges/mdi-gurgaon) GMAT cutoff", "[MDI Gurgaon](/colleges/mdi-gurgaon) management quota", "study at [MDI Gurgaon](/colleges/mdi-gurgaon)"]
 ---
 
-### 📊 MDI Gurgaon NRI/FN 2026 Snapshot
+### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon) NRI/FN 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

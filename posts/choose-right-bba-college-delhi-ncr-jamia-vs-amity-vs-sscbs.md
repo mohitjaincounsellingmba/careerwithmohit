@@ -63,7 +63,7 @@ If placements are your primary objective, **SSCBS** is the unmatched winner. Rec
 
 - **Choose SSCBS if:** You have a strong background in Mathematics, want top-tier placements in Consulting or Finance, and seek the absolute best ROI in undergraduate education.
 - **Choose Jamia Millia Islamia if:** You are looking for a central university brand with nominal fees and want a general management foundation without needing Class 12th Mathematics.
-- **Choose Amity University if:** You want premium infrastructure, flexible global study choices, value personal networking, and have a budget to support private tuition.
+- **Choose [Amity University](/colleges/amity-noida) if:** You want premium infrastructure, flexible global study choices, value personal networking, and have a budget to support private tuition.
 
 ---
 

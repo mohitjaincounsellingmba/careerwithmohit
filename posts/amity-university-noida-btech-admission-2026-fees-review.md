@@ -51,7 +51,7 @@ Amity offers choice-based seat allocation under two categories. At **CareerWithM
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is Amity Noida the main campus?**
-Yes, the Noida campus is the flagship campus of Amity University.
+Yes, the Noida campus is the flagship campus of [Amity University](/colleges/amity-noida).
 
 **2. What is the average package at Amity Noida for B.Tech?**
 The average package for CSE students is around ₹9.6 LPA, with an overall campus average of ₹6.5 LPA.

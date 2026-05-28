@@ -21,7 +21,7 @@ Most elite and mid-range private B-schools in Delhi NCR accept multiple national
 - **Difficulty:** Comparable to CAT, testing quantitative ability, decision making, and language skills.
 
 ### 2. NMAT by GMAC
-- **Top Acceptors:** NMIMS (Noida Campus), [SOIL Institute of Management](/colleges/soil-institute-gurgaon), and Bennett University.
+- **Top Acceptors:** NMIMS (Noida Campus), [SOIL Institute of Management](/colleges/soil-institute-gurgaon), and [Bennett University](/colleges/bennett-greater-noida).
 - **USP:** Speed-based adaptive test allowing up to three attempts.
 
 ### 3. SNAP (Symbiosis National Aptitude Test)

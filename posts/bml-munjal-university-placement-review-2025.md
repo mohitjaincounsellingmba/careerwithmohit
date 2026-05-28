@@ -32,7 +32,7 @@ keywords: ["[BML Munjal University](/colleges/bml-munjal-gurgaon) MBA placements
 *   [Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)
 *   [MICA Ahmedabad Placement Review 2026](/blog/mica-ahmedabad-review-2026)
 
-[👉 Get Admission Consultation for BML Munjal University!](/inquiry)
+[👉 Get Admission Consultation for [BML Munjal University](/colleges/bml-munjal-gurgaon)!](/inquiry)
 
 ---
 

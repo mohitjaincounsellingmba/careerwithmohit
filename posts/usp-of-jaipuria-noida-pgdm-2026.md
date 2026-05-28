@@ -11,7 +11,7 @@ Here are the **10 real USPs of Jaipuria Institute of Management, Noida** for the
 
 ---
 
-## Quick Snapshot: Jaipuria Noida 2026-28
+## Quick Snapshot: [Jaipuria Noida](/colleges/jaipuria-noida) 2026-28
 
 | Parameter | Details |
 | :--- | :--- |

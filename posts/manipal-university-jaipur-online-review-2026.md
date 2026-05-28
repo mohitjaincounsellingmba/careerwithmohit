@@ -42,7 +42,7 @@ As we move into the 2026-27 session, a degree from [Manipal University Jaipur](/
 - **Approx. Fee:** ₹1,35,000 - ₹1,65,000.
 - **USP:** Foundation for a high-impact professional career starting from Day 1.
 
-## Why Choose Manipal University Jaipur Online?
+## Why Choose [Manipal University Jaipur](/colleges/manipal-university-jaipur) Online?
 
 - **Global Brand Image:** The Manipal name is a blue-chip asset on any resume, immediately recognized by HR teams worldwide.
 - **Career Support:** MUJ provides comprehensive placement assistance, including soft skills training, mock interviews, and access to virtual job fairs.

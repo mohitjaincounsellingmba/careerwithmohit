@@ -13,7 +13,7 @@ Great Lakes Institute of Management (GLIM) Gurgaon is a sister campus of the leg
 - **Analytics Focus**: Recognized as one of the best campuses for students pursuing Business Analytics and AI in management.
 - **Placements**: The average package for the 2025 batch was approximately **₹11.6 LPA** (PGDM) and **₹15.8 LPA** (PGPM).
 
-## Is there a Management Quota in Great Lakes Gurgaon?
+## Is there a Management Quota in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)?
 
 As per official guidelines, Great Lakes Gurgaon is a strictly merit-based institution. However, students often use "Direct Admission" keywords to find the institutional selection process:
 

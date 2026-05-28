@@ -2,7 +2,7 @@
 title: "[PIBM Pune](/colleges/pibm-pune) Review 2025: Industry-Focused Placements & Training"
 date: "2026-03-14"
 description: "Is [PIBM Pune](/colleges/pibm-pune) worth it for MBA? Read our 2025 review on [PIBM Pune](/colleges/pibm-pune) placements, uniquely high average packages, fees, and training model."
-keywords: ["[PIBM Pune](/colleges/pibm-pune) review 2025", "[PIBM Pune](/colleges/pibm-pune) MBA placements", "[PIBM Pune](/colleges/pibm-pune) fees", "placement cell of [PIBM Pune](/colleges/pibm-pune)", "admission in PIBM Pune", "PIBM Pune average package 2025"]
+keywords: ["[PIBM Pune](/colleges/pibm-pune) review 2025", "[PIBM Pune](/colleges/pibm-pune) MBA placements", "[PIBM Pune](/colleges/pibm-pune) fees", "placement cell of [PIBM Pune](/colleges/pibm-pune)", "admission in [PIBM Pune](/colleges/pibm-pune)", "PIBM Pune average package 2025"]
 ---
 
 PIBM (Pune Institute of Business Management) has carved a niche for itself by focusing heavily on "practical" training rather than just theory. Their logic is simple: train students exactly for the roles that companies need.

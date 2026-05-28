@@ -16,7 +16,7 @@ This guide breaks it all down — clearly and honestly.
 
 ## 📊 Quick Comparison: [XIME Bangalore](/colleges/xime-bangalore) vs XIME Kochi
 
-| Feature | XIME Bangalore | XIME Kochi |
+| Feature | [XIME Bangalore](/colleges/xime-bangalore) | XIME Kochi |
 | :--- | :--- | :--- |
 | **Established** | 1991 (35+ Years) | 2013 (Off-campus centre) |
 | **Location** | Electronics City, Bengaluru | Kalamassery, Kochi (KINFRA Hi-Tech Park) |

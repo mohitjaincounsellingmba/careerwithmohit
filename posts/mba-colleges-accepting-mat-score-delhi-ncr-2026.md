@@ -35,7 +35,7 @@ A highly respectable option in North-West Delhi, offering a structured PGDM curr
 - **Average Placement Package:** ₹8.30 LPA
 
 ### 4. Jaipuria Institute of Management - Noida
-Jaipuria Noida is a corporate-focused B-school known for its state-of-the-art infrastructure and extensive corporate connections.
+[Jaipuria Noida](/colleges/jaipuria-noida) is a corporate-focused B-school known for its state-of-the-art infrastructure and extensive corporate connections.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹13.5 Lakhs
 - **Average Placement Package:** ₹8.90 LPA

@@ -101,7 +101,7 @@ Planning your **bca admission 2026**? Here is a quick overview of the college la
 |---|---|---|---|
 | **Christ University** | Bangalore | ₹2.0–2.5 Lakhs | ₹4.0–6.0 LPA |
 | **Symbiosis Institute of Computer Studies** | Pune | ₹1.8–2.2 Lakhs | ₹4.5–6.5 LPA |
-| **Amity University** | Noida/Mumbai | ₹1.5–2.0 Lakhs | ₹3.5–5.5 LPA |
+| **[Amity University](/colleges/amity-noida)** | Noida/Mumbai | ₹1.5–2.0 Lakhs | ₹3.5–5.5 LPA |
 | **GD Goenka University** | Gurgaon | ₹1.2–1.8 Lakhs | ₹3.5–5.0 LPA |
 
 Understanding **bca fees in india** is important — total 3-year costs range from ₹30,000 (government) to ₹6+ Lakhs (top private). If you want flexibility, an **online bca degree** from UGC-approved universities like LPU Online or Chandigarh University is a great alternative.

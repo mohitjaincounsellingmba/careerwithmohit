@@ -20,7 +20,7 @@ The **International Management Institute (IMI)** is one of the "Old Guard" in In
 ---
 
 ### **1. The Financial Reality: High Fees vs Metropolitan Life**
-**IMI Delhi** comes with one of the steepest price tags in the country. At **₹32 Lakhs (approx)** for 2 years, the pressure to land a high-paying job is immense. If you don't secure at least a ₹20 LPA CTC, the student loans can be a long-term burden. 
+**[IMI Delhi](/colleges/imi-delhi)** comes with one of the steepest price tags in the country. At **₹32 Lakhs (approx)** for 2 years, the pressure to land a high-paying job is immense. If you don't secure at least a ₹20 LPA CTC, the student loans can be a long-term burden. 
 *   **The Delhi Advantage**: Incredible industry connects, elite faculty, and proximity to major corporate headquarters in Gurugram.
 *   **The Kolkata Reality**: Located in the heart of Alipore, Kolkata, this campus offers a much leaner fee structure (approx. **₹15-17 Lakhs**) for a very respectable industry presence in East India.
 
@@ -40,7 +40,7 @@ If your CAT score is in the **75-80 percentile range**, [IMI Kolkata](/colleges/
 *   ✅ **Pros**: Top 30 NIRF rank, elite alumni network, high corporate brand recall.
 *   ❌ **Cons**: Extremely expensive (₹32L+), ROI is lower if you land an average package.
 
-#### **IMI Kolkata**
+#### **[IMI Kolkata](/colleges/imi-kolkata)**
 *   ✅ **Pros**: Lower fees (Good ROI), metropolitan location, same-branded degree.
 *   ❌ **Cons**: Placement peak is lower than Delhi, smaller alumni footprint.
 

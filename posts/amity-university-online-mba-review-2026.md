@@ -107,7 +107,7 @@ Amity Online provides **placement assistance** — not guaranteed placements. He
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. Is Amity University online MBA valid for government jobs?**
+**Q1. Is [Amity University](/colleges/amity-noida) online MBA valid for government jobs?**
 Yes. Since it is UGC-DEB approved and NAAC A+ accredited, the Amity Online MBA is fully valid for government jobs, PSU applications, and all regulatory purposes.
 
 **Q2. Does Amity Online MBA require CAT or any entrance exam?**

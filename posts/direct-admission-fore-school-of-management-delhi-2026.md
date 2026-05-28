@@ -15,7 +15,7 @@ Foundation for Organisational Research and Education (FORE) School of Management
 
 ## Is there a Management Quota in [FORE School of Management](/colleges/fore-school-delhi)?
 
-FORE School of Management follows a strictly merit-linked admission policy, but here is how the alternative seat categories function for 2026:
+[FORE School of Management](/colleges/fore-school-delhi) follows a strictly merit-linked admission policy, but here is how the alternative seat categories function for 2026:
 
 ### 1. Institutional Seats (Merit-Category)
 FORE reserves a specific number of seats as Institutional Category seats. 

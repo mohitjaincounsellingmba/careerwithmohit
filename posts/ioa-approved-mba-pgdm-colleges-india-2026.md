@@ -50,13 +50,13 @@ Jain University is one of the pioneers in offering IoA-accredited programs in In
 *   **Key Highlights:** Comprehensive coverage of Big Data, Predictive Analytics, and AI in Business. Graduates get direct Associate Membership to IoA.
 *   **Estimated Fees:** ₹1.5 Lakhs - ₹2.5 Lakhs (varies between Online and On-campus modes).
 
-### 2. JECRC University, Jaipur
+### 2. [JECRC University](/colleges/jecrc-jaipur), Jaipur
 Known for its strong industry tie-ups, JECRC offers specialized data science management programs.
 *   **Program:** MBA in Data Analytics / Business Analytics (in association with IoA)
 *   **Key Highlights:** Focus on practical learning with hands-on projects, preparing students for roles like Data Analyst, BI Manager, and Consultant.
 *   **Estimated Fees:** ₹2 Lakhs - ₹3 Lakhs.
 
-### 3. JK Business School (JKBS), Gurgaon
+### 3. [JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)
 JKBS Gurgaon offers a dynamic learning environment with a focus on modern business analytics and data sciences.
 *   **Program:** PGDM with a specialization in Business Analytics
 *   **Key Highlights:** A robust curriculum that integrates real-world data challenges, preparing students for analytical roles in top MNCs.

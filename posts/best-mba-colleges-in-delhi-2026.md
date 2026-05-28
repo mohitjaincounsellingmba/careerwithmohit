@@ -170,7 +170,7 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 No, [FMS Delhi](/colleges/fms-delhi) is highly competitive and usually requires a **99.8+ percentile** in CAT for the general category.
 
 ### 3. Are there good MBA colleges in Delhi with fees under 10 Lakhs?
-Yes, **FMS Delhi** (₹2 Lakhs) and **SRCC GBO** (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
+Yes, **[FMS Delhi](/colleges/fms-delhi)** (₹2 Lakhs) and **SRCC GBO** (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
 
 ### 4. Is [MDI Gurgaon](/colleges/mdi-gurgaon) better than new IIMs?
 Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than most "New" and "Baby" IIMs due to its legacy and location advantage.

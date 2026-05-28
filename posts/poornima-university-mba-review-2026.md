@@ -23,7 +23,7 @@ If you are evaluating [Poornima University](/colleges/poornima-jaipur) for your 
 
 ### **Courses & Fee Structure**
 
-Poornima University offers a highly affordable MBA when compared to other private universities in the region. 
+[Poornima University](/colleges/poornima-jaipur) offers a highly affordable MBA when compared to other private universities in the region. 
 
 | Program | Estimated Total Tuition Fees |
 | :--- | :--- |

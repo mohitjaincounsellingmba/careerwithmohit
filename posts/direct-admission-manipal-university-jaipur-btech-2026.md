@@ -55,7 +55,7 @@ This is the most commonly asked question — and the answer requires clarity:
 
 ---
 
-### **B.Tech Fee Structure at Manipal University Jaipur (2025–2026)**
+### **B.Tech Fee Structure at [Manipal University Jaipur](/colleges/manipal-university-jaipur) (2025–2026)**
 
 MUJ's fee varies by branch and category. Below is an approximate breakdown:
 

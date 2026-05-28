@@ -37,7 +37,7 @@ Whether you are targeting general management or specialized fields like Fintech,
 
 ### **Placement Records & Top Recruiters**
 
-JECRC University is renowned for hosting mega placement drives. With over 140+ companies visiting the campus, the placement rate hovers around a remarkable **89-90%** for management students.
+[JECRC University](/colleges/jecrc-jaipur) is renowned for hosting mega placement drives. With over 140+ companies visiting the campus, the placement rate hovers around a remarkable **89-90%** for management students.
 
 *   **Top Package (Recent Batch)**: ₹33.00 LPA (Amazon)
 *   **Average Package**: ₹6.00 LPA

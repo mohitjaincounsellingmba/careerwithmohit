@@ -46,7 +46,7 @@ keywords: ["[Bennett University](/colleges/bennett-greater-noida) MBA review", "
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Bennett University](/colleges/bennett-greater-noida) good for MBA?
-Yes, Bennett University is a premium destination for MBA, especially for those interested in Media Management, Digital Marketing, and Finance, leveraging its strong Times Group network.
+Yes, [Bennett University](/colleges/bennett-greater-noida) is a premium destination for MBA, especially for those interested in Media Management, Digital Marketing, and Finance, leveraging its strong Times Group network.
 
 ### 2. What is the MBA fee at Bennett University for 2026?
 The total academic fee for the 2-year MBA program at Bennett University is approximately **₹10.50 Lakhs**. This excludes hostel and other incidental charges.

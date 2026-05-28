@@ -52,7 +52,7 @@ NDIM is famously backed by a board of seasoned industry professionals and former
 ---
 
 ### **Final Verdict: Why NDIM is the Better Choice**
-While Jaipuria Noida is a fantastic institute with great infrastructure, **NDIM Delhi offers a stronger, more reliable career trajectory**. 
+While [Jaipuria Noida](/colleges/jaipuria-noida) is a fantastic institute with great infrastructure, **NDIM Delhi offers a stronger, more reliable career trajectory**. 
 
 If you want a higher average package, unparalleled networking opportunities in the heart of the national capital, and a rock-solid placement guarantee, **NDIM is the definitive choice.** The slight difference in fees is vastly overshadowed by the superior corporate exposure and ROI that NDIM delivers. 
 

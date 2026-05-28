@@ -15,7 +15,7 @@ keywords: ["[Amity University](/colleges/amity-noida) Online Noida review", "Ami
 
 Whether you are a working professional looking for an MBA or a student aiming for a BCA or BBA, [Amity University](/colleges/amity-noida) Online provides the flexibility and credibility needed to succeed in the modern corporate world.
 
-## **Amity University Online Rankings & Recognition**
+## **[Amity University](/colleges/amity-noida) Online Rankings & Recognition**
 
 Amity's excellence is reflected in its global and national rankings:
 *   **QS World University Rankings 2025:** Ranked in the band of #1001-1200 globally.
