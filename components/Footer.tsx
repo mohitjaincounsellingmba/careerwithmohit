@@ -33,6 +33,7 @@ export function Footer() {
     quickLinks: [
       { name: 'Top Colleges', href: '/colleges' },
       { name: 'Latest News', href: '/blog' },
+      { name: 'All Tools', href: '/tools' },
       { name: 'Counselling', href: '/services' },
       { name: 'Partner With Us', href: '/partner-with-us' },
       { name: 'Backlink Collab', href: '/backlink-collaboration' },
@@ -49,6 +50,7 @@ export function Footer() {
       { name: 'B.Tech Predictor', href: '/tools/btech-college-predictor', color: 'text-yellow-400' },
     ],
     resources: [
+      { name: 'Free File Converter', href: '/tools/file-converter', badge: 'Free' },
       { name: 'Mock Test Hub', href: '/mock-tests', badge: 'Popular' },
       { name: 'Free CAT Mock 2026', href: '/tools/cat-mock-test' },
       { name: 'Free JEE Mock 2026', href: '/tools/jee-main-mock-test' },
