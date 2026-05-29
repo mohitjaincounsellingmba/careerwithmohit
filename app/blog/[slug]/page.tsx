@@ -10,6 +10,7 @@ import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { InquiryCard } from "@/components/InquiryCard";
+import { AdUnit } from "@/components/AdUnit";
 
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -300,6 +301,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             {postData.content || ''}
           </ReactMarkdown>
         </div>
+
+        {/* Display Ad unit under the blog article */}
+        <AdUnit slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_BLOG_POST || "9876543210"} />
 
         {/* RELATED CONTENT - TAXILA STYLE */}
         <div className="mt-20 border-t-4 border-foreground pt-12">

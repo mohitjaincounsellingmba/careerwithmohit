@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/markdown';
 import { BlogList } from '@/components/BlogList';
+import { AdUnit } from '@/components/AdUnit';
 
 export const metadata = {
   title: 'Blog | CareerWithMohit',
@@ -57,6 +58,9 @@ export default function BlogPage() {
             </p>
           </div>
         </div>
+
+        {/* Display Ad unit on main Blog listing page */}
+        <AdUnit slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_BLOG_LIST || "5687069123"} />
 
         <BlogList initialPosts={allPostsData} />
       </div>
