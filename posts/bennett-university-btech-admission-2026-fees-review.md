@@ -21,7 +21,7 @@ Bennett is accessible but requires high merit for its top specializations and sc
 | **Class 10+2 (Best of 3)** | 90% - 95% | 85% - 92% |
 | **CUET Score** | 90th Percentile+ | 85th Percentile+ |
 
-### **Bennett University B.Tech Fee Structure 2026**
+### **[Bennett University](/colleges/bennett-greater-noida) B.Tech Fee Structure 2026**
 Bennett offers premium facilities, and its fee structure reflects the global-standard facilities provided.
 *   **Annual Tuition Fee**: ₹3.5 Lakhs - ₹4.15 Lakhs.
 *   **Registration/Misc**: ₹45,000 (one-time).

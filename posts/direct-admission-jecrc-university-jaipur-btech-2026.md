@@ -25,7 +25,7 @@ keywords: ["direct admission [JECRC University](/colleges/jecrc-jaipur) Jaipur B
 
 ---
 
-### **Does JECRC University Have Direct Admission or Management Quota?**
+### **Does [JECRC University](/colleges/jecrc-jaipur) Have Direct Admission or Management Quota?**
 
 This is the most searched question. Here is the honest answer:
 

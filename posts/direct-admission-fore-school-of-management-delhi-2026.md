@@ -41,7 +41,7 @@ Even for institutional seats, the standards are high:
 
 ### Frequently Asked Questions (FAQ)
 
-### 1. Can I get direct admission in FORE School of Management?
+### 1. Can I get direct admission in [FORE School of Management](/colleges/fore-school-delhi)?
 Direct admission is available through the **Institutional Merit category** and the **NRI quota**, which focus on a holistic profile evaluation alongside entrance scores.
 
 ### 2. Does FORE Delhi accept CMAT scores?

@@ -19,7 +19,7 @@ One of the unique selling points (USPs) of **[ASM IIBR](/colleges/asm-iibr)** is
 *   **Harvard Business School (HBX Online)**: Access to core management modules developed by HBS faculty.
 
 ### **3. Strategic Location (PCMC Industrial Hub, Pune)**
-ASM IIBR is located in the **Pimpri-Chinchwad (PCMC)** industrial belt. This area is home to thousands of manufacturing, IT, and automobile giants (Tata Motors, Mercedes-Benz, Infosys, etc.). Being at the heart of the industry means easier access to guest lectures, industrial visits, and, most importantly, **internships**.
+[ASM IIBR](/colleges/asm-iibr) is located in the **Pimpri-Chinchwad (PCMC)** industrial belt. This area is home to thousands of manufacturing, IT, and automobile giants (Tata Motors, Mercedes-Benz, Infosys, etc.). Being at the heart of the industry means easier access to guest lectures, industrial visits, and, most importantly, **internships**.
 
 ### **4. Massive ROI (Strong Placements vs. Moderate Fees)**
 For students concerned about education loans, ASM IIBR offers an excellent **Return on Investment (ROI)**.

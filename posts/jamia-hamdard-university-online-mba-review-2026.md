@@ -25,7 +25,7 @@ keywords: ["[Jamia Hamdard](/colleges/jamia-hamdard-delhi) online MBA review", "
 ## ✅ Why [Jamia Hamdard](/colleges/jamia-hamdard-delhi) is a Solid Pick
 
 ### 1. Trusted Institutional Legacy
-Jamia Hamdard is a **Category-1 Deemed University** with decades of history. For students, this means a degree that is recognized by every major recruiter and governmental body in India.
+[Jamia Hamdard](/colleges/jamia-hamdard-delhi) is a **Category-1 Deemed University** with decades of history. For students, this means a degree that is recognized by every major recruiter and governmental body in India.
 
 ### 2. Balanced and Practical Curriculum
 The Online MBA curriculum is designed to balance theoretical foundations with practical applications. It covers core management pillars while allowing students to specialize in areas like Marketing and Human Resource Management.

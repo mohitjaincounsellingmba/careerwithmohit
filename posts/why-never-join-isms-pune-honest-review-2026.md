@@ -7,7 +7,7 @@ keywords: ["[ISMS Pune](/colleges/isms-pune) negative review", "[ISMS Pune](/col
 
 While many reviews highlight the "International" aspect of **ISMS (International School of Management Studies) Pune**, the ground reality for many students is often quite different. Before you pay the admission fee based on flashy brochures, it is critical to look at the negative feedback and common complaints that current students and alumni often discuss.
 
-Here is an honest, critical review of ISMS Pune to help you decide if it’s truly worth your investment.
+Here is an honest, critical review of [ISMS Pune](/colleges/isms-pune) to help you decide if it’s truly worth your investment.
 
 ### **1. The Placement Pressure: Specialization 'Shifting'**
 One of the most alarming complaints from students is the pressure to change specializations. Students who enroll for **Finance** or **HR** often report being "suggested" or pressured to shift to **Marketing** because the placement cell finds it easier to bring sales roles. If you are dead-set on a core Finance role, you might find yourself competing for insurance sales or FMCG marketing positions instead.

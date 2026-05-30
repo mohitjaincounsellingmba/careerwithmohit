@@ -27,7 +27,7 @@ For the 2026-28 batch, [MDI Gurgaon](/colleges/mdi-gurgaon) follows strict AICTE
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Does MDI Gurgaon have a Management Quota?
+### 1. Does [MDI Gurgaon](/colleges/mdi-gurgaon) have a Management Quota?
 No. MDI Gurgaon is a merit-based private institution. It does **not** offer donation-based seats. The only way to bypass the CAT is the NRI/International route using a valid GMAT score.
 
 ### 2. Can Indian residents apply via the GMAT?

@@ -104,7 +104,7 @@ BMU offers merit-based scholarships linked to JEE Main percentile and Class 12 b
 
 ---
 
-## USP of BML Munjal University — BBA (2026)
+## USP of [BML Munjal University](/colleges/bml-munjal-gurgaon) — BBA (2026)
 
 ### Program Overview
 

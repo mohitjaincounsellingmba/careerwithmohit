@@ -50,7 +50,7 @@ As we move into the 2026-27 session, a degree from [Manipal University Jaipur](/
 - **Accreditation Excellence:** With NAAC A+ and NIRF rankings, you are assured of world-class academic standards.
 
 ## Is [Manipal University Jaipur](/colleges/manipal-university-jaipur) Online Degree Valid?
-Yes. All online programs from Manipal University Jaipur are **UGC-DEB approved** and hold the highest degree of academic and corporate credibility. They are fully valid for all government exams, higher education, and corporate roles in India and abroad.
+Yes. All online programs from [Manipal University Jaipur](/colleges/manipal-university-jaipur) are **UGC-DEB approved** and hold the highest degree of academic and corporate credibility. They are fully valid for all government exams, higher education, and corporate roles in India and abroad.
 
 ## Your Path Forward
 - **Compare:** Check [Amity Online 2026](/blog/amity-university-online-review-2026) vs [LPU Online 2026](/blog/lpu-online-review-2026).

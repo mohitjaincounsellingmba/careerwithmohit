@@ -47,7 +47,7 @@ Explore other top engineering options in Uttarakhand:
 **Confused About the Quantum Interdisciplinary Advantage?**
 Quantum's "Passion Programs" are a major draw for students interested in arts, music, or sports while pursuing a B.Tech degree. At **CareerWithMohit**, we help you decide if an interdisciplinary engineering model is the right fit for your personality.
 
-[👉 Get Expert Admission Guidance for Quantum University!](/inquiry)
+[👉 Get Expert Admission Guidance for [Quantum University](/colleges/quantum-university-roorkee)!](/inquiry)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. What are Passion Programs at Quantum?**

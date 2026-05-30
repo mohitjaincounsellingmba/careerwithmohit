@@ -30,7 +30,7 @@ Both campuses have reported **100% placement** for the 2024-25 batches.
 *   **[IMI Kolkata](/colleges/imi-kolkata)**: Increasingly strong for **FMCG and E-commerce**, with recruiters like HDFC Bank and Amazon visiting consistently.
 
 ### **3. The Cutoff Advantage**
-If your CAT score is in the **75-80 percentile range**, [IMI Kolkata](/colleges/imi-kolkata) is one of the best "Brand-Name" options you can apply to. Many students prefer the brand prestige of IMI (Kolkata) over unknown smaller institutes in the same percentile bracket. For the 90+ percentile club, **IMI Delhi** remains a must-apply choice.
+If your CAT score is in the **75-80 percentile range**, [IMI Kolkata](/colleges/imi-kolkata) is one of the best "Brand-Name" options you can apply to. Many students prefer the brand prestige of IMI (Kolkata) over unknown smaller institutes in the same percentile bracket. For the 90+ percentile club, **[IMI Delhi](/colleges/imi-delhi)** remains a must-apply choice.
 
 ---
 
@@ -48,7 +48,7 @@ If your CAT score is in the **75-80 percentile range**, [IMI Kolkata](/colleges/
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is [IMI Kolkata](/colleges/imi-kolkata) placements as good as Delhi?**
-No. While IMI Kolkata is an excellent choice, the average package in Delhi is about ₹5-6 LPA higher. However, remember the fee in Delhi is also double.
+No. While [IMI Kolkata](/colleges/imi-kolkata) is an excellent choice, the average package in Delhi is about ₹5-6 LPA higher. However, remember the fee in Delhi is also double.
 
 **2. Does IMI accept CMAT?**
 IMI Delhi does not accept CMAT scores. However, IMI Kolkata and IMI Bhubaneswar do accept CMAT, usually requiring a 80+ percentile score.

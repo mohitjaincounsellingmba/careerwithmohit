@@ -35,7 +35,7 @@ Jaipuria Institute holds **AACSB accreditation** — the same standard as [IIM A
 
 ### 2. 📊 NIRF Ranked #41 in Management — Top 50 in India
 
-Among hundreds of private B-schools, Jaipuria Noida is **NIRF ranked #41 in the Management category (2025)** — placing it comfortably among India's top 50 management institutes. This ranking reflects:
+Among hundreds of private B-schools, [Jaipuria Noida](/colleges/jaipuria-noida) is **NIRF ranked #41 in the Management category (2025)** — placing it comfortably among India's top 50 management institutes. This ranking reflects:
 - Research output and faculty quality
 - Graduate outcomes and placements
 - Peer perception among academics and recruiters

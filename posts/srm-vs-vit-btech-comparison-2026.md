@@ -173,7 +173,7 @@ This is the most important parameter. Let's break it down honestly.
 
 ## 🗺️ 7. Campus Location & Infrastructure
 
-### VIT Vellore
+### [VIT Vellore](/colleges/vit-vellore)
 - Located in **Vellore, Tamil Nadu** – a Tier 2 city
 - 360-acre main campus – self-contained
 - State-of-the-art labs, central library with 1M+ books

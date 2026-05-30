@@ -18,6 +18,7 @@ import {
 } from 'lucide-react';
 import { SellCoachingLeadForm } from '@/components/SellCoachingLeadForm';
 import { GetAppClient } from './GetAppClient';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   title: "Sell Your Coaching Online | Build Branded Coaching App for Teachers & YouTubers",
@@ -97,8 +98,29 @@ const FEATURES = [
 ];
 
 export default function LeadGenLandingPage() {
+  const schemaData = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "CareerWithMohit Coaching App Builder",
+    "operatingSystem": "Android, iOS, Web",
+    "applicationCategory": "EducationalApplication, BusinessApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "description": "Free Personal Demo & Trial Available"
+    },
+    "description": "Launch your own branded coaching app and website. The best platform for teachers, YouTubers, and coaching centers to sell courses online and 10x their income.",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "1250"
+    }
+  };
+
   return (
     <div className="w-full">
+      <JsonLd data={schemaData} />
       {/* HERO SECTION */}
       <section className="relative overflow-hidden bg-primary px-6 py-24 sm:px-12 lg:py-40 border-b-8 border-foreground">
         <div className="absolute top-0 right-0 -mt-20 -mr-20 h-96 w-96 rounded-full bg-white/10" />

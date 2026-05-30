@@ -18,7 +18,7 @@ International Management Institute (IMI) Delhi is India's first corporate-sponso
 [IMI Delhi](/colleges/imi-delhi) is often perceived as a merit-only school, but here are the facts on how alternative seats work:
 
 ### 1. Management / Institutional Quota
-IMI Delhi reserves a small percentage of seats (approx. 5-10%) as institutional seats. 
+[IMI Delhi](/colleges/imi-delhi) reserves a small percentage of seats (approx. 5-10%) as institutional seats. 
 - **The Process**: These seats are filled based on a combination of academic merit and interview performance. 
 - **Cutoff Flexibility**: While General cutoffs are high (88-90+ Percentile), institutional quota applicants with a percentile of **75-80** and a stellar academic profile are considered.
 

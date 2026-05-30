@@ -28,7 +28,7 @@ The institute actively seeks students with diverse backgrounds (engineers vs. no
 Similar to the Chennai campus, there is a provision for NRI students and candidates sponsored by corporate entities. These seats are filled based on profile strength and GMAT scores.
 
 ## Fee Structure for 2026
-The total academic fee for the two-year PGDM at Great Lakes Gurgaon is approximately **₹18 Lakhs to ₹19 Lakhs**. The ROI is excellent given the package-to-fee ratio in the Gurgaon region.
+The total academic fee for the two-year PGDM at [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) is approximately **₹18 Lakhs to ₹19 Lakhs**. The ROI is excellent given the package-to-fee ratio in the Gurgaon region.
 
 ## Steps to Apply for 2026
 

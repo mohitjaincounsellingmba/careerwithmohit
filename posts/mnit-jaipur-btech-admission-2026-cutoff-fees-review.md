@@ -7,7 +7,7 @@ keywords: ["[MNIT Jaipur](/colleges/mnit-jaipur) BTech admission 2026", "[MNIT J
 
 Malaviya National Institute of Technology (MNIT) Jaipur is one of the oldest and most prestigious NITs in India. Known for its world-class infrastructure and strong placement records, it remains a top choice for students from Rajasthan and across India. 
 
-For the **2026 B.Tech admissions**, MNIT Jaipur will fill its seats through the **JoSAA (Joint Seat Allocation Authority)** based on **JEE Main** performance. Here is your complete guide to the admission process, expected cutoffs, and ROI.
+For the **2026 B.Tech admissions**, [MNIT Jaipur](/colleges/mnit-jaipur) will fill its seats through the **JoSAA (Joint Seat Allocation Authority)** based on **JEE Main** performance. Here is your complete guide to the admission process, expected cutoffs, and ROI.
 
 ### **MNIT Jaipur Admission Process 2026**
 1.  **Entrance Exam**: Appear for **JEE Main 2026** (Session 1 or Session 2).

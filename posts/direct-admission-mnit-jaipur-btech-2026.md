@@ -25,7 +25,7 @@ Malaviya National Institute of Technology (MNIT) Jaipur is one of the 31 NITs in
 
 ---
 
-### **The Truth About Direct Admission or Management Quota in MNIT Jaipur**
+### **The Truth About Direct Admission or Management Quota in [MNIT Jaipur](/colleges/mnit-jaipur)**
 
 Let's be absolutely clear:
 

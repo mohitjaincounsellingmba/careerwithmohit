@@ -52,7 +52,7 @@ If you are evaluating [Poornima University](/colleges/poornima-jaipur) for your 
 
 ### **Admission Process & Cutoffs**
 
-Gaining admission into Poornima University’s MBA program is straightforward, primarily based on merit and entrance exams.
+Gaining admission into [Poornima University](/colleges/poornima-jaipur)’s MBA program is straightforward, primarily based on merit and entrance exams.
 
 1.  **Eligibility**: A bachelor's degree with a minimum of 50% aggregate (45% for reserved categories). For the Sustainability & Entrepreneurship track, 55% is required.
 2.  **Entrance Exam**: The university accepts [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), [CMAT](/blog/all-about-cmat-exam), or XAT. Alternatively, candidates can take the university's in-house entrance exam.

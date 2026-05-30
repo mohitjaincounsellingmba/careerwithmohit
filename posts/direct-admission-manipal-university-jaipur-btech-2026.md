@@ -89,7 +89,7 @@ MUJ offers a wide range of engineering programs:
 
 ---
 
-### **Manipal University Jaipur B.Tech Placement Review (2025)**
+### **[Manipal University Jaipur](/colleges/manipal-university-jaipur) B.Tech Placement Review (2025)**
 
 MUJ has built a strong centralised placement ecosystem backed by the Manipal brand name. Here's a snapshot of placements:
 

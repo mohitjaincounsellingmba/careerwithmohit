@@ -29,7 +29,7 @@ Designed to empower ambitious professionals and fresh graduates, the **GLA Onlin
 One of the most praised aspects of [GLA University](/colleges/gla-university) (Mathura) is its flexibility. It allows working professionals to balance their job responsibilities while pursuing a premium degree. The **world-class Learning Management System (LMS)** ensures that recorded lectures, study materials, and assignments are accessible 24/7 from anywhere in the world.
 
 ### 2. High-Impact, Industry-Aligned Curriculum
-The coursework isn't just theoretical. The GLA University (Mathura) Online MBA delivers an **industry-aligned curriculum** that prepares students for the exact challenges faced in modern business environments. With cutting-edge specializations like Marketing, Finance, Human Resources, and Business Analytics, the program is incredibly relevant.
+The coursework isn't just theoretical. The [GLA University](/colleges/gla-university) (Mathura) Online MBA delivers an **industry-aligned curriculum** that prepares students for the exact challenges faced in modern business environments. With cutting-edge specializations like Marketing, Finance, Human Resources, and Business Analytics, the program is incredibly relevant.
 
 ### 3. Exceptional Placement Support & Networking
 A common myth about online MBAs is the lack of career support—but GLA University (Mathura) shatters this. The institution provides **dedicated placement assistance**, resume-building workshops, and mock interviews. The vast alumni network and corporate partnerships mean students get premium access to lucrative job opportunities across top MNCs.
