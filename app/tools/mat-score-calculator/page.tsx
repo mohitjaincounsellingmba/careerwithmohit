@@ -9,6 +9,7 @@ import {
   BookOpen,
   TrendingUp,
   Target,
+  ArrowRight,
 } from "lucide-react";
 import Link from "next/link";
 
