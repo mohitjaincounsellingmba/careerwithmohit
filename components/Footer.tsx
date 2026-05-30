@@ -230,8 +230,6 @@ export function Footer() {
         <div className="mt-16 pt-8 flex flex-col md:flex-row items-center justify-between border-t border-white/10 gap-8">
           <div className="text-xs font-bold text-gray-500 flex flex-col md:flex-row items-center gap-4 text-center md:text-left">
             <span>© {currentYear} Mohit Jain Admission Hub. All rights reserved.</span>
-            <span className="hidden md:inline text-gray-800">|</span>
-            <span className="text-gray-600 tracking-wider">BUILT FOR 10X CAREER GROWTH</span>
           </div>
           <div className="flex gap-6 items-center flex-wrap justify-center md:justify-end">
             {visits !== null && (
@@ -243,6 +241,15 @@ export function Footer() {
             <Link href="/privacy" prefetch={false} className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Privacy Policy</Link>
             <Link href="/terms" prefetch={false} className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Terms of Service</Link>
           </div>
+        </div>
+      </div>
+
+      {/* Show under the footer section */}
+      <div className="w-full bg-black/40 border-t border-white/10 py-6 relative z-10 text-center">
+        <div className="max-w-7xl mx-auto px-6">
+          <p className="font-display text-sm md:text-base font-black tracking-[0.3em] uppercase bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent inline-block">
+            Built for 10x Career Growth
+          </p>
         </div>
       </div>
     </footer>
