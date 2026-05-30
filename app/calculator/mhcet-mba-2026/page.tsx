@@ -6,8 +6,8 @@ import { ShieldCheck, Zap, BarChart3, HelpCircle, BookOpen, GraduationCap, Calen
 import Link from "next/link";
 
 export const metadata: Metadata = {
-    title: "MHCET MBA 2026 Score Calculator & Rank Predictor | Marks vs Percentile",
-    description: "Free MHCET MBA 2026 score calculator. Instantly calculate your raw marks, predict percentile for JBIMS, SIMSREE, PUMBA, and check marks vs rank vs top MBA colleges in Maharashtra.",
+    title: "MHCET MBA 2026 Score Calculator & Rank Predictor | Marks vs Percentile | Maharashtra CET Result",
+    description: "Free MHCET MBA 2026 score calculator. Instantly calculate your raw marks, predict percentile for JBIMS, SIMSREE, PUMBA. Check Maharashtra CET result 2026, marks vs rank vs top MBA colleges in Maharashtra.",
     keywords: [
         "MHCET MBA calculator",
         "MHCET MBA 2026 score calculator",
@@ -21,6 +21,13 @@ export const metadata: Metadata = {
         "MAH CET answer key 2026",
         "calculate mhcet mba score",
         "mhcet percentile vs rank",
+        "maharastra cet result",
+        "maharashtra cet result 2026",
+        "maharashtra mba cet result 2026",
+        "mah mba cet result 2026",
+        "mhcet mba result 2026",
+        "mhcet result check link",
+        "maharastra mba result",
     ],
     openGraph: {
         title: "MHCET MBA 2026 Score Calculator & Rank Predictor",
