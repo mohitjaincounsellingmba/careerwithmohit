@@ -5,7 +5,7 @@ date: "2026-05-30"
 tags: ["MAT", "Score Calculator", "MBA Admissions", "2026"]
 ---
 
-![MAT Score Calculator Guide](/Users/mohitjain/.gemini/antigravity/brain/215ef476-8439-4ae0-8e9a-5973f8279d1a/mat_score_blog_feature_1780151831949.png)
+![MAT Score Calculator Guide](/images/mat-score-blog-feature.png)
 
 # How to Use the MAT May 2026 Score Calculator
 
