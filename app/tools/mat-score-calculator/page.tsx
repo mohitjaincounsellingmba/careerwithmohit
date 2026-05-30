@@ -153,6 +153,12 @@ export default function MatScoreCalculatorPage() {
       {/* Calculator */}
       <div className="max-w-7xl mx-auto px-6 py-20">
         <MatScoreCalculator />
+          {/* CTA to Blog */}
+          <div className="mt-8 text-center">
+            <Link href="/blog/mat-score-calculator-guide" className="inline-flex items-center gap-2 bg-amber-500 text-white px-4 py-2 rounded font-black uppercase hover:bg-amber-600 transition-colors">
+              Read the Full MAT Score Calculator Guide <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
 
         {/* About MAT 2026 */}
         <div className="mt-32 max-w-4xl">
