@@ -150,3 +150,11 @@ Uttarakhand Post‑Test Admission Counseling (UPTAC) for AKTU 2026:
 Staying updated with the latest cut‑off trends is crucial for strategic counselling and college selection. Bookmark this guide, share it with peers, and follow our **CareerwithMohan** blog for future updates on engineering admissions.
 
 *Ready to start your engineering journey?* **[Explore our counselling services](https://careerwithmohit.online/counselling)** today.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

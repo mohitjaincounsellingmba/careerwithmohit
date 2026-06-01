@@ -54,3 +54,11 @@ The **MAT May 2026 Score Calculator** helps you instantly compute your composite
 ## Share This Guide
 
 If you found this guide helpful, share it on social media using the image above. Let your peers know how to boost their MBA admission chances with the **MAT May 2026 Score Calculator**!
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
