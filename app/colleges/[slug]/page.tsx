@@ -118,6 +118,9 @@ export default async function CollegeDetailPage({ params }: PageProps) {
     notFound();
   }
 
+  // Fetch all colleges for the Similar Colleges widget (server-side, cheap)
+  const allColleges = getAllColleges();
+
   const jsonLdOrg = {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
@@ -197,7 +200,7 @@ export default async function CollegeDetailPage({ params }: PageProps) {
       <JsonLd data={jsonLdOrg} />
       <JsonLd data={jsonLdFaQ} />
       <JsonLd data={jsonLdBreadcrumb} />
-      <CollegeDetailClient college={college} />
+      <CollegeDetailClient college={college} allColleges={allColleges} />
     </>
   );
 }

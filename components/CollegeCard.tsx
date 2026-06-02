@@ -2,7 +2,15 @@ import Link from "next/link";
 import { GraduationCap, MapPin, Award, IndianRupee, Briefcase, ChevronRight, Bookmark, TrendingUp, Building2, Zap } from "lucide-react";
 import { CollegeMetadata } from "@/lib/colleges";
 
-export function CollegeCard({ college }: { college: CollegeMetadata }) {
+export function CollegeCard({ 
+  college,
+  onCompareToggle,
+  isCompared
+}: { 
+  college: CollegeMetadata;
+  onCompareToggle?: (slug: string) => void;
+  isCompared?: boolean;
+}) {
   // Parsing placement numbers for the meter
   const getNumericalValue = (val: string) => {
     const match = val.match(/₹?([\d.]+)\s*(?:LPA|L)/i);
@@ -22,6 +30,30 @@ export function CollegeCard({ college }: { college: CollegeMetadata }) {
   return (
     <div className="group bg-white rounded-[2.5rem] border border-slate-200 overflow-hidden hover:border-blue-500 hover:shadow-2xl hover:shadow-blue-500/10 transition-all duration-500 flex flex-col h-full relative">
       
+      {/* Compare Button */}
+      {onCompareToggle && (
+        <button
+          onClick={(e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            onCompareToggle(college.slug);
+          }}
+          className={`absolute top-5 left-5 z-20 flex items-center gap-2 px-3.5 py-2 rounded-full font-black text-[9px] uppercase tracking-widest transition-all cursor-pointer ${
+            isCompared 
+              ? 'bg-blue-600 text-white border border-blue-500 shadow-md shadow-blue-500/20' 
+              : 'bg-white/90 backdrop-blur-md text-slate-700 border border-slate-200/80 hover:bg-white hover:border-slate-300 shadow-sm'
+          }`}
+        >
+          <input 
+            type="checkbox" 
+            checked={isCompared || false} 
+            readOnly
+            className="w-3.5 h-3.5 rounded border-slate-300 text-blue-600 focus:ring-blue-500 cursor-pointer pointer-events-none" 
+          />
+          <span>{isCompared ? 'Added' : 'Compare'}</span>
+        </button>
+      )}
+
       {/* Dynamic Badge Banner */}
       <div className="absolute top-5 right-5 z-10 flex gap-2">
         <span className="bg-slate-900/90 backdrop-blur-md text-white text-[9px] font-black uppercase px-3 py-1.5 rounded-full border border-white/10 shadow-lg tracking-widest">

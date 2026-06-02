@@ -8,7 +8,6 @@ import {
   Calendar,
   Award,
   IndianRupee,
-  Briefcase,
   GraduationCap,
   Sparkles,
   CheckCircle2,
@@ -18,7 +17,6 @@ import {
   ShieldCheck,
   Target,
   BookOpen,
-  Users,
   Star,
   ArrowUpRight,
   Layers,
@@ -30,9 +28,13 @@ import {
   Bus,
 } from "lucide-react";
 import Link from "next/link";
-import { College } from "@/lib/colleges";
+import { College, CollegeMetadata } from "@/lib/colleges";
 import { JsonLd } from "./JsonLd";
 import { Breadcrumbs } from "./Breadcrumbs";
+import { ReviewSection } from "./ReviewSection";
+import { CutoffsSection } from "./CutoffsSection";
+import { FAQSection } from "./FAQSection";
+import { SimilarColleges } from "./SimilarColleges";
 
 function getRegionFromLocation(location: string): string {
   const loc = location.toLowerCase();
@@ -137,7 +139,7 @@ function extractAbout(content: string): string {
   return firstPara?.trim() || "";
 }
 
-export function CollegeDetailClient({ college }: { college: College }) {
+export function CollegeDetailClient({ college, allColleges = [] }: { college: College; allColleges?: CollegeMetadata[] }) {
   const [activeTab, setActiveTab] = useState("Overview");
 
   const addressRegion = getRegionFromLocation(college.location);
@@ -304,7 +306,7 @@ export function CollegeDetailClient({ college }: { college: College }) {
     ],
   };
 
-  const tabs = ["Overview", "Programs & Fees", "Placements", "Admissions", "Campus Life"];
+  const tabs = ["Overview", "Programs & Fees", "Placements", "Cutoffs", "Admissions", "Campus Life", "Reviews"];
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
@@ -642,12 +644,27 @@ export function CollegeDetailClient({ college }: { college: College }) {
             </Section>
           )}
 
+          {/* ── CUTOFFS ── */}
+          {(activeTab === "Overview" || activeTab === "Cutoffs") && (
+            <CutoffsSection exams={college.exams || []} collegeName={college.name} />
+          )}
+
+          {/* ── REVIEWS SECTION ── */}
+          {(activeTab === "Overview" || activeTab === "Reviews") && (
+            <ReviewSection college={college} />
+          )}
+
+          {/* ── FAQ ── */}
+          {(activeTab === "Overview" || activeTab === "Admissions") && (
+            <FAQSection college={college} />
+          )}
+
         </div>
 
         {/* Right Sidebar */}
-        <div className="lg:w-[360px] flex-shrink-0 space-y-6">
+        <div className="lg:w-[360px] flex-shrink-0 space-y-6 lg:sticky lg:top-28 lg:h-fit">
           {/* CTA Card */}
-          <div className="bg-slate-900 rounded-[2.5rem] p-8 text-white shadow-2xl sticky top-28 overflow-hidden group">
+          <div className="bg-slate-900 rounded-[2.5rem] p-8 text-white shadow-2xl overflow-hidden group">
             <div className="absolute -top-20 -right-20 w-56 h-56 bg-blue-600/20 rounded-full blur-3xl group-hover:bg-blue-600/30 transition-all duration-700" />
             <h3 className="text-2xl font-black uppercase tracking-tight mb-3 leading-tight italic relative z-10">
               Get Personalized <br /><span className="text-blue-400">Admission Guidance</span>
@@ -703,6 +720,11 @@ export function CollegeDetailClient({ college }: { college: College }) {
               </a>
             )}
           </div>
+
+          {/* Similar Colleges Widget */}
+          {allColleges.length > 0 && (
+            <SimilarColleges current={college} all={allColleges} />
+          )}
         </div>
       </div>
     </div>

@@ -1,13 +1,14 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams, useRouter } from 'next/navigation';
 import Link from "next/link";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CollegeCard } from "@/components/CollegeCard";
 import { BTechCollegeGenerator } from "@/components/BTechCollegeGenerator";
 import { MBACollegeGenerator } from "@/components/MBACollegeGenerator";
 import { BBACollegeGenerator } from "@/components/BBACollegeGenerator";
+import { CompareDrawer } from "@/components/CompareDrawer";
 import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, ArrowRight, Layers } from "lucide-react";
 
 interface TrendingBlog {
@@ -18,6 +19,8 @@ interface TrendingBlog {
 }
 
 export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: CollegeMetadata[]; trendingBlogs?: TrendingBlog[] }) {
+  const router = useRouter();
+  const [comparedColleges, setComparedColleges] = useState<CollegeMetadata[]>([]);
   const [searchQuery, setSearchQuery] = useState("");
   const searchParams = useSearchParams();
   const [selectedCategory, setSelectedCategory] = useState("All Streams");
@@ -31,6 +34,28 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   const [selectedRanking, setSelectedRanking] = useState("All Rankings");
   const [showFiltersMobile, setShowFiltersMobile] = useState(false);
   const [visibleCount, setVisibleCount] = useState(20);
+
+  const handleCompareToggle = (slug: string) => {
+    setComparedColleges((prev) => {
+      const exists = prev.some((c) => c.slug === slug);
+      if (exists) {
+        return prev.filter((c) => c.slug !== slug);
+      }
+      if (prev.length >= 4) {
+        alert("You can compare up to 4 colleges at a time!");
+        return prev;
+      }
+      const collegeToAdd = colleges.find((c) => c.slug === slug);
+      return collegeToAdd ? [...prev, collegeToAdd] : prev;
+    });
+  };
+
+  const handleClearAllCompare = () => setComparedColleges([]);
+
+  const handleCompareNow = () => {
+    const slugsStr = comparedColleges.map((c) => c.slug).join(",");
+    router.push(`/colleges/compare?slugs=${slugsStr}`);
+  };
 
   // Initialize searchQuery from URL query param on mount
   useEffect(() => {
@@ -483,7 +508,12 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
             {/* College Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
               {visibleColleges.map((college) => (
-                <CollegeCard key={college.slug} college={college} />
+                <CollegeCard 
+                  key={college.slug} 
+                  college={college} 
+                  onCompareToggle={handleCompareToggle}
+                  isCompared={comparedColleges.some((c) => c.slug === college.slug)}
+                />
               ))}
             </div>
 
@@ -557,6 +587,12 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
           </main>
         </div>
       </div>
+      <CompareDrawer
+        selectedColleges={comparedColleges}
+        onRemove={handleCompareToggle}
+        onClearAll={handleClearAllCompare}
+        onCompare={handleCompareNow}
+      />
     </div>
   );
 }
