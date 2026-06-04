@@ -14,7 +14,7 @@ The **Indian Institute of Technology (IIT) Delhi** is consistently ranked as the
 4.  **Reporting**: Physical reporting and fee payment at the Hauz Khas campus.
 
 ### **Expected JEE Advanced Cutoffs 2026 (Closing Ranks)**
-Competition for IIT Delhi is the toughest in the country along with IIT Bombay.
+Competition for IIT Delhi is the toughest in the country along with [IIT Bombay](/colleges/iit-bombay).
 
 | Branch | General (All India Rank) |
 | :--- | :--- |

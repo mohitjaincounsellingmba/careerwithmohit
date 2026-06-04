@@ -65,7 +65,7 @@ If you miss the MAH MCA CET or the regular university deadlines, several reputab
 **Q1. Is VJTI better than NITs for MCA?**
 For **Fintech and Banking roles**, VJTI is better than many mid-tier NITs. However, NIT Trichy or Surathkal still hold a slightly higher national brand value for pure product development.
 
-**Q2. Does NMIMS Mumbai accept CUET PG?**
+**Q2. Does [NMIMS Mumbai](/colleges/nmims-mumbai) accept CUET PG?**
 In 2026, most NMIMS campuses prefer **MAH MCA CET** or their own internal selection process. Always check the official NMIMS portal in February for the specific 2026 intake notification.
 
 **Q3. What is the average fee for MCA in government colleges in Mumbai?**

@@ -206,7 +206,7 @@ This is the most important parameter. Let's break it down honestly.
 
 ## 🏆 Final Verdict: SRM vs VIT – Which Should YOU Choose?
 
-### ✅ Choose VIT Vellore if:
+### ✅ Choose [VIT Vellore](/colleges/vit-vellore) if:
 - You can crack **VITEEE in top 5,000** (Category 1/2/3) – the fee advantage is massive
 - You prefer **academic discipline and freedom via FFCS**
 - You want to pursue **research, core engineering roles, or international companies**

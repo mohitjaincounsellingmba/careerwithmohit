@@ -90,7 +90,7 @@ To crack CAT in your first attempt, divide your preparation into three phases:
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### Q1. Can a student with average academics crack CAT?
-Yes! While old IIMs have high academic weightage, colleges like **FMS Delhi, XLRI (via XAT), and several new IIMs** focus heavily on your raw CAT score. A high percentile (99.5+) can easily offset average past academics.
+Yes! While old IIMs have high academic weightage, colleges like **[FMS Delhi](/colleges/fms-delhi), XLRI (via XAT), and several new IIMs** focus heavily on your raw CAT score. A high percentile (99.5+) can easily offset average past academics.
 
 ### Q2. How many mock tests should I attempt before CAT 2026?
 An ideal target is **25 to 30 full-length mocks** along with 40+ sectional tests. What matters more than the number of mocks is the depth of your post-mock analysis.

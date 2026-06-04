@@ -1,5 +1,5 @@
 ---
-title: 'Free NMAT Mock Test 2026: NMIMS Mumbai Prep & Adaptive Practice Online'
+title: 'Free NMAT Mock Test 2026: [NMIMS Mumbai](/colleges/nmims-mumbai) Prep & Adaptive Practice Online'
 date: '2026-04-05'
 description: >-
   Take our comprehensive Free NMAT 2026 Mock Test. 108 questions, 120 minutes,

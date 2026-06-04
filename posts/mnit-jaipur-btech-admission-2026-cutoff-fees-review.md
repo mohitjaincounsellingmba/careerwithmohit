@@ -9,7 +9,7 @@ Malaviya National Institute of Technology (MNIT) Jaipur is one of the oldest and
 
 For the **2026 B.Tech admissions**, [MNIT Jaipur](/colleges/mnit-jaipur) will fill its seats through the **JoSAA (Joint Seat Allocation Authority)** based on **JEE Main** performance. Here is your complete guide to the admission process, expected cutoffs, and ROI.
 
-### **MNIT Jaipur Admission Process 2026**
+### **[MNIT Jaipur](/colleges/mnit-jaipur) Admission Process 2026**
 1.  **Entrance Exam**: Appear for **JEE Main 2026** (Session 1 or Session 2).
 2.  **Counselling**: Register for **JoSAA 2026** counselling (expected to start in June).
 3.  **Seat Allotment**: Seats are allotted based on your JEE Main Rank, Category, and Home State/Other State quota.

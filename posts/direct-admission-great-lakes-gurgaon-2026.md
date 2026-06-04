@@ -40,7 +40,7 @@ The total academic fee for the two-year PGDM at [Great Lakes Gurgaon](/colleges/
 
 ### Frequently Asked Questions (FAQ)
 
-### 1. Does Great Lakes Gurgaon offer direct admission?
+### 1. Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) offer direct admission?
 Official direct admission (donation-based) is not available. All admissions are via the merit portal based on entrance scores and profile assessment.
 
 ### 2. What is the cutoff for Great Lakes Gurgaon?

@@ -18,7 +18,7 @@ This guide covers the **top B.Tech colleges in Hyderabad for 2026**, including f
 |---|---|---|---|---|
 | IIT Hyderabad | Government (IIT) | ₹2.5 L/yr | ₹18–25 LPA | JEE Advanced |
 | IIIT Hyderabad | Deemed (Autonomous) | ₹2.5 L/yr | ₹16–22 LPA | DASA / JEE Main |
-| BITS Pilani – Hyderabad | Deemed Private | ₹5.5 L/yr | ₹15–20 LPA | BITSAT |
+| [BITS Pilani](/colleges/bits-pilani) – Hyderabad | Deemed Private | ₹5.5 L/yr | ₹15–20 LPA | BITSAT |
 | Osmania University | Government State | ₹0.50 L/yr | ₹5–8 LPA | TS EAMCET |
 | JNTUH | Government State | ₹0.60 L/yr | ₹4–7 LPA | TS EAMCET |
 | VIT-AP (Amaravati) | Private Deemed | ₹2.1 L/yr | ₹6–10 LPA | VITEEE / Boards |

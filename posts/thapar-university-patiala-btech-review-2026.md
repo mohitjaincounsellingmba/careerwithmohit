@@ -1,7 +1,7 @@
 ---
 title: "Thapar University Patiala B.Tech Review 2026: Fees, Placements & Direct Admission"
 date: "2026-04-02"
-description: "An honest 2026 review of Thapar Institute of Engineering and Technology (TIET) Patiala. Explore B.Tech admission modes, high ROI placements, detailed fee structure, and hostel life."
+description: "An honest 2026 review of [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET) Patiala. Explore B.Tech admission modes, high ROI placements, detailed fee structure, and hostel life."
 keywords: ["Thapar University BTech review", "TIET Patiala placement 2026", "Thapar BTech admission process", "Thapar University fees", "Thapar cutoff 2026", "Thapar direct admission", "is Thapar better than NIT"]
 ---
 

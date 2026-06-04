@@ -16,7 +16,7 @@ tags: ["GMAT 2026", "MBA Admissions", "ISB", "IIM PGPX", "Study in India", "GMAT
 | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | PGPX (Exec) | Focus & Classic | 685+ |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | PGDM / PGPM | Focus & Classic | 645+ |
 | **Great Lakes** | PGPM / PGDM | Focus & Classic | 615+ |
-| **XLRI Jamshedpur** | PGDM (Exec) | Focus & Classic | 665+ |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | PGDM (Exec) | Focus & Classic | 665+ |
 
 ---
 

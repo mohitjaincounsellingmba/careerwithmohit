@@ -2,7 +2,7 @@
 title: "How to Crack NMAT Exam 2026: Strategy, Section-wise Tips & Scaled Scores"
 date: "2026-06-04"
 category: "MBA"
-description: "Planning to crack NMAT 2026? Learn how to achieve a 240+ scaled score, tackle the computer-adaptive pattern, and secure admission into NMIMS Mumbai."
+description: "Planning to crack NMAT 2026? Learn how to achieve a 240+ scaled score, tackle the computer-adaptive pattern, and secure admission into [NMIMS Mumbai](/colleges/nmims-mumbai)."
 keywords: ["how to crack nmat exam", "crack nmat 2026", "nmat scaled score strategy", "nmat preparation strategy", "nmims mumbai cutoff nmat", "nmat by gmac"]
 ---
 
@@ -70,7 +70,7 @@ LR in NMAT is a mix of verbal reasoning and analytical reasoning.
 | College | Expected Cutoff (Scaled Score) | Highlight |
 |:---|:---:|:---|
 | **NMIMS Mumbai (Core/HR)** | 235 - 240+ | Flagship program, high corporate reputation |
-| **NMIMS Bangalore / Navi Mumbai** | 220 - 225+ | Excellent placement records in IT & finance |
+| **[NMIMS Bangalore](/colleges/nmims-bangalore) / Navi Mumbai** | 220 - 225+ | Excellent placement records in IT & finance |
 | **K. J. Somaiya (Mumbai)** | 225+ | Great ROI, massive alumni network |
 | **TAPMI Manipal** | 200 - 215+ | Triple Crown accredited B-school |
 | **XIMB (Bhubaneswar)** | 215+ | Accepted only for the specialized HR program |

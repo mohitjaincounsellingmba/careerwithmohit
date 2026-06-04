@@ -2,7 +2,7 @@
 title: "All About NMIMS Campuses: Fees, Placements, Rankings, Cutoffs & Reviews 2026"
 date: "2026-03-16"
 description: "Complete guide to all 8 NMIMS campuses – Mumbai, Navi Mumbai, Bengaluru, Hyderabad, Indore, Chandigarh, Shirpur & Dhule. Check MBA/PGDM fees, NMAT cutoffs, placement stats, specializations, and honest student reviews."
-keywords: ["NMIMS campuses review", "NMIMS Mumbai fees", "NMIMS placements 2026", "NMAT cutoff 2026", "[NMIMS Bangalore](/colleges/nmims-bangalore) placements", "NMIMS Hyderabad review", "NMIMS Indore placements", "NMIMS Navi Mumbai MBA", "NMIMS ranking NIRF", "NMIMS Shirpur review", "NMIMS Chandigarh MBA", "best NMIMS campus for MBA"]
+keywords: ["NMIMS campuses review", "[NMIMS Mumbai](/colleges/nmims-mumbai) fees", "NMIMS placements 2026", "NMAT cutoff 2026", "[NMIMS Bangalore](/colleges/nmims-bangalore) placements", "NMIMS Hyderabad review", "NMIMS Indore placements", "NMIMS Navi Mumbai MBA", "NMIMS ranking NIRF", "NMIMS Shirpur review", "NMIMS Chandigarh MBA", "best NMIMS campus for MBA"]
 ---
 
 SVKM's Narsee Monjee Institute of Management Studies (NMIMS) is one of India's most respected deemed-to-be universities. With its flagship Mumbai campus consistently ranked among the top 25 B-Schools in the country and an expanding footprint across 8 cities, NMIMS is a powerhouse for MBA, PGDM, and professional education.

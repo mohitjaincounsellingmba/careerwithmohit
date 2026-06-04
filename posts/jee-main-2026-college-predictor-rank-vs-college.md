@@ -70,7 +70,7 @@ A 98 percentile corresponds to a rank of approx **25,000 - 30,000**. At this ran
 For the General category, CSE and ECE are unlikely. However, you can realistically target **Mechanical, Production, or Civil Engineering** at NIT Trichy.
 
 **Q3. Can I use my JEE Main rank for VIT or BITS?**
-**VIT** has its own exam (VITEEE). **BITS Pilani** uses BITSAT. However, universities like **Thapar, LNMIIT, and Jaypee (JIIT)** give direct preference to students with JEE Main ranks under 1 Lakh.
+**VIT** has its own exam (VITEEE). **[BITS Pilani](/colleges/bits-pilani)** uses BITSAT. However, universities like **Thapar, LNMIIT, and Jaypee (JIIT)** give direct preference to students with JEE Main ranks under 1 Lakh.
 
 **Q4. What is the benefit of the Female Supernumerary Quota?**
 Female candidates have an extra **5-10% rank buffer** at all NITs and IITs. This means if a branch closes at 5,000 for boys, it may stay open until 8,000-10,000 for girls.

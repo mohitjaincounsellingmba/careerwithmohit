@@ -10,7 +10,7 @@ Entering the world of engineering can be overwhelming. With dozens of entrance e
 ### **Entrance Exams & Eligibility**
 
 **1. What are the main entrance exams for B.Tech in India?**
-JEE Main (for NITs, IIITs, GFTIs) and JEE Advanced (for IITs) are the primary exams. Other popular ones include BITSAT (for BITS Pilani), VITEEE, SRMJEEE, and state-level exams like MHT-CET, KCET, and WBJEE.
+JEE Main (for NITs, IIITs, GFTIs) and JEE Advanced (for IITs) are the primary exams. Other popular ones include BITSAT (for [BITS Pilani](/colleges/bits-pilani)), VITEEE, SRMJEEE, and state-level exams like MHT-CET, KCET, and WBJEE.
 
 **2. What is the 75% criteria for JEE Main?**
 To get admission into NITs, IIITs, and CFTIs through the JoSAA counseling, General/OBC candidates must score at least 75% in their Class 12th board exams (65% for SC/ST).

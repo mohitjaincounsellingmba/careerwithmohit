@@ -102,7 +102,7 @@ Uttarakhand Post‑Test Admission Counseling (UPTAC) for AKTU 2026:
 |---------|--------|--------------|
 | JSS Academy of Technical Education | CSE | 1800 |
 | AKGEC (AKTU) | CSE | 2100 |
-| KIET Group of Institutions | CSE | 2400 |
+| [KIET Group of Institutions](/colleges/kiet-ghaziabad) | CSE | 2400 |
 | JSS Academy | ECE | 2200 |
 | AKGEC | ECE | 2500 |
 | KIET | ECE | 2800 |

@@ -17,7 +17,7 @@ This guide explains how to secure a **Direct BBA admission** safely and legally 
 In India, direct admission is legally available through the following categories:
 
 ### 1. Institutional Merit Quota (Deemed Universities)
-Colleges like **NMIMS Mumbai, Symbiosis Pune, and Jain University** reserve a small percentage of seats for direct admission. These are sanctioned by the university and are strictly based on the vacancy after the main merit rounds.
+Colleges like **[NMIMS Mumbai](/colleges/nmims-mumbai), Symbiosis Pune, and Jain University** reserve a small percentage of seats for direct admission. These are sanctioned by the university and are strictly based on the vacancy after the main merit rounds.
 - **Process:** You must have applied for the university entrance exam (NPAT, SET, etc.) and then apply separately for the institutional quota if the merit list is closed.
 
 ### 2. Management Quota (State-Affiliated Private Colleges)

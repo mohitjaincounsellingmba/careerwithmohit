@@ -29,7 +29,7 @@ Candidates applying from abroad or with NRI status can secure admission via a pr
 Candidates with 2+ years of work experience can be sponsored by their organizations, providing a more direct entry pathway into the specialized PGDM programs.
 
 ## Fee Structure for 2026
-The total academic fee for the two-year program at IMI Delhi is approximately **₹20 Lakhs to ₹22 Lakhs**. For management quota or NRI seats, there is often a higher institutional fee structure.
+The total academic fee for the two-year program at [IMI Delhi](/colleges/imi-delhi) is approximately **₹20 Lakhs to ₹22 Lakhs**. For management quota or NRI seats, there is often a higher institutional fee structure.
 
 ## Selection Process for 2026
 Even for the institutional category, IMI Delhi maintains high standards:

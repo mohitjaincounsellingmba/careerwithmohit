@@ -40,10 +40,10 @@ The JEE is conducted in two distinct stages:
 
 ## Top Engineering Colleges Accepting JEE Scores
 
-1. **IIT Bombay, IIT Delhi, IIT Madras, IIT Kanpur** (Through JEE Advanced)
+1. **[IIT Bombay](/colleges/iit-bombay), IIT Delhi, IIT Madras, IIT Kanpur** (Through JEE Advanced)
 2. **NIT Trichy, NIT Surathkal, NIT Warangal** (Through JEE Main)
 3. **IIIT Hyderabad, IIIT Bangalore, IIIT Delhi** (Through JEE Main)
-4. **BITS Pilani, Goa, Hyderabad** (Note: BITS has its own exam, BITSAT, but some categories use JEE scores for direct admission).
+4. **[BITS Pilani](/colleges/bits-pilani), Goa, Hyderabad** (Note: BITS has its own exam, BITSAT, but some categories use JEE scores for direct admission).
 5. **DTU & NSUT, Delhi** (Through JEE Main & JAC Delhi Counselling)
 
 ---

@@ -39,7 +39,7 @@ In India, no university can offer distance or online degrees without authorizati
 Students are often confused by whether they need UGC approval, AICTE approval, or both. Let's simplify this:
 
 ### 1. Universities (UGC Entitlement is Primary)
-If you are enrolling in a recognized university (e.g., Amity University Online, Manipal University Online, Chandigarh University Online), the **primary regulator is the UGC**. While AICTE alignment is preferred and AICTE issues norms for management education, the university's degree is legally granted under the UGC Act.
+If you are enrolling in a recognized university (e.g., [Amity University](/colleges/amity-noida) Online, Manipal University Online, Chandigarh University Online), the **primary regulator is the UGC**. While AICTE alignment is preferred and AICTE issues norms for management education, the university's degree is legally granted under the UGC Act.
 
 ### 2. Standalone Institutions (AICTE Approval is Mandatory)
 If you are enrolling in a standalone business school or institute that offers an **Online Post Graduate Diploma in Management (PGDM)** (such as IMT CDL or BIMTECH Online), it is NOT a university. For these standalone institutes, **AICTE approval is mandatory**. Without AICTE approval, an online PGDM has no corporate or legal value.

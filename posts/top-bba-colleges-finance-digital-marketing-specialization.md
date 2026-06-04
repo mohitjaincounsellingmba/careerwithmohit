@@ -55,7 +55,7 @@ Currently, **Business Analytics and FinTech** specializations offer the highest 
 **Q3. is BBA Finance tough?**
 It involves a significant amount of **Mathematics and Statistics**. If you are not comfortable with numbers, Marketing or HR might be a better fit.
 
-**Q4. does NMIMS Mumbai offer specialized BBA?**
+**Q4. does [NMIMS Mumbai](/colleges/nmims-mumbai) offer specialized BBA?**
 Yes. NMIMS offers BBA in Finance, Marketing, and specialized tracks via their Honors program.
 
 **Q5. What is the scope for BBA in Digital Marketing?**

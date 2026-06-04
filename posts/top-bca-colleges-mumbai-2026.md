@@ -16,7 +16,7 @@ Choosing the right BCA college in Mumbai means starting your career in the same 
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **NMIMS Mumbai (West)** | NPAT | ₹6.0 - 12.0 Lakhs | ₹5.5 - 9.0 LPA |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai) (West)** | NPAT | ₹6.0 - 12.0 Lakhs | ₹5.5 - 9.0 LPA |
 | **K J Somaiya (Vidyavihar)** | Merit-based | ₹3.5 - 5.5 Lakhs | ₹4.5 - 7.5 LPA |
 | **Mithibai College (Vile Parle)**| Merit-based | ₹2.5 - 3.5 Lakhs | ₹4.0 - 6.5 LPA |
 | **SNDT Women's Univ.** | Merit-based | ₹0.8 - 1.2 Lakhs | ₹3.5 - 5.0 LPA |

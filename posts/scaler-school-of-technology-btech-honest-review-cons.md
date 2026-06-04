@@ -15,7 +15,7 @@ If you are planning to spend your next 4 years at Scaler, here are the **5 major
 ## 1. It is NOT a UGC-Recognized University
 The biggest misconception is that Scaler School of Technology is a university. **It is not.**
 *   Scaler is a private institute/bootcamp-style academy. It does **not** have the authority to grant a B.Tech degree on its own.
-*   The "B.Tech" you get is actually a parallel online degree (usually a B.Sc in Computer Science) from partner institutions like **BITS Pilani** or **IIT Madras**.
+*   The "B.Tech" you get is actually a parallel online degree (usually a B.Sc in Computer Science) from partner institutions like **[BITS Pilani](/colleges/bits-pilani)** or **IIT Madras**.
 *   While these degrees are valid, they are **not traditional on-campus B.Tech degrees**, which might matter for certain government jobs or specific high-tier global MS programs.
 
 ---

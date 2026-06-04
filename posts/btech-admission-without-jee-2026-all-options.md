@@ -56,7 +56,7 @@ Top private universities conduct their own exams — **independent of JEE Main**
 |---|---|---|---|
 | [VIT Vellore](/colleges/vit-vellore) / Chennai | VITEEE | ₹2.1 L | ₹8–14 LPA |
 | SRM University | SRMJEEE | ₹2.0 L | ₹7–12 LPA |
-| BITS Pilani | BITSAT | ₹5.5 L | ₹15–22 LPA |
+| [BITS Pilani](/colleges/bits-pilani) | BITSAT | ₹5.5 L | ₹15–22 LPA |
 | Manipal MIT | MU OET | ₹2.3 L | ₹7–12 LPA |
 | Amrita University | AEEE | ₹1.8 L | ₹6–10 LPA |
 | Chandigarh University | CUCET | ₹1.5 L | ₹5–9 LPA |

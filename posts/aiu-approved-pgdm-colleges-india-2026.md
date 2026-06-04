@@ -37,7 +37,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 ### Tier 1: Elite Institutions (Avg Placement: ₹25 LPA+)
 *   **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**: NIRF #20 | Avg Placement: ₹33.75 LPA | Fees: ₹26.5 Lakhs. [Read More](/blog/best-mba-colleges-in-mumbai-2026)
 *   **IIM Mumbai**: NIRF #7 | Avg Placement: ₹29.44 LPA | Fees: ₹21.0 Lakhs
-*   **NMIMS Mumbai**: NIRF #21 | Avg Placement: ₹25.13 LPA | Fees: ₹24.0 Lakhs
+*   **[NMIMS Mumbai](/colleges/nmims-mumbai)**: NIRF #21 | Avg Placement: ₹25.13 LPA | Fees: ₹24.0 Lakhs
 
 ### Tier 2: Strong Career Trajectories (Avg: ₹10 LPA - ₹15 LPA)
 *   **Welingkar (WeSchool) Mumbai**: NIRF #73 | Avg Placement: ₹12.52 LPA | Fees: ₹14.0 Lakhs
@@ -101,7 +101,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 ---
 
 ## Other Elite AIU Approved PGDM Colleges
-*   **XLRI Jamshedpur (Tier 1)**: The HR King. Avg: ₹31.08 LPA | Fees: ₹26L+
+*   **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Tier 1)**: The HR King. Avg: ₹31.08 LPA | Fees: ₹26L+
 *   **GIM Goa (Tier 2)**: Data Analytics Hub. Avg: ₹15.13 LPA | Fees: ₹19.4 Lakhs
 *   **Great Lakes Chennai (Tier 1/2)**: Avg: ₹15.0 LPA | Fees: ₹16.03 Lakhs
 *   **IRMA Anand (Tier 2)**: Rural Management Leader. Avg: ₹15.5 LPA | Fees: ₹19.78 Lakhs

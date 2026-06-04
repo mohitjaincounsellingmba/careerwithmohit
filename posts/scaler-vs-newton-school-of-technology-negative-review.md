@@ -16,7 +16,7 @@ However, behind the high-budget YouTube ads and flashy brochures, there are seve
 The biggest risk is the validity of the degree. **Neither Scaler nor Newton is a UGC-recognized university.**
 *   They are private training institutes that have partnered with other universities to provide a degree.
 *   **Newton School** often provides a degree from **GGU (Golden Gate University, USA)** or **Rishihood University**.
-*   **Scaler School** provides a parallel degree from **BITS Pilani** or **IIT Madras** (usually an online B.Sc/BS).
+*   **Scaler School** provides a parallel degree from **[BITS Pilani](/colleges/bits-pilani)** or **IIT Madras** (usually an online B.Sc/BS).
 *   **The Problem:** In India, for many government jobs (UPSC, PSU) or higher studies abroad (some MS programs), a traditional 4-year on-campus B.Tech from an AICTE/UGC university is the "Gold Standard." These online/parallel degrees might face scrutiny in traditional sectors.
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "How to Crack NMAT 2026: 90-Day Strategy for a 240+ Score"
 date: "2026-05-12"
-description: "Aiming for NMIMS Mumbai? Learn the proven 90-day strategy to score 240+ in NMAT 2026. Detailed sectional breakdown, time management tips, and best resources."
+description: "Aiming for [NMIMS Mumbai](/colleges/nmims-mumbai)? Learn the proven 90-day strategy to score 240+ in NMAT 2026. Detailed sectional breakdown, time management tips, and best resources."
 keywords: ["NMAT 2026 preparation strategy", "how to score 240 in NMAT", "NMAT exam pattern 2026", "NMIMS Mumbai NMAT cutoff", "NMAT adaptive test strategy", "best NMAT mock tests"]
 ---
 

@@ -36,7 +36,7 @@ This guide breaks it all down — clearly and honestly.
 
 [XIME Bangalore](/colleges/xime-bangalore) is the **mothership** of the XIME group. Founded in 1991 by the Jesuit-inspired Xavier tradition, it has built over three decades of academic credibility and corporate relationships in India's Silicon Valley — Bengaluru.
 
-### ✅ Why Choose XIME Bangalore?
+### ✅ Why Choose [XIME Bangalore](/colleges/xime-bangalore)?
 
 - **Location is a career accelerator:** Electronics City is home to Infosys, Wipro, Tech Mahindra, Bosch, and hundreds of MNCs. Proximity means more live projects, internships, and recruiter walk-ins.
 - **Stronger legacy & alumni network:** 35+ years of alumni spread across top Indian and global companies gives XIME Bangalore a deeper corporate connect.

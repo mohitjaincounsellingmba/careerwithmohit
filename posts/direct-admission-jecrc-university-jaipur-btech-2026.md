@@ -29,7 +29,7 @@ keywords: ["direct admission [JECRC University](/colleges/jecrc-jaipur) Jaipur B
 
 This is the most searched question. Here is the honest answer:
 
-**JECRC University does offer some flexibility in its admission process** compared to government institutions. Admissions happen via two routes:
+**[JECRC University](/colleges/jecrc-jaipur) does offer some flexibility in its admission process** compared to government institutions. Admissions happen via two routes:
 
 1. **JEE Main Score Based**: Preferred and gets scholarship benefits.
 2. **12th Board Marks Based**: Students without a JEE rank can still apply based on 12th aggregate — this is effectively the "direct admission" most students seek.

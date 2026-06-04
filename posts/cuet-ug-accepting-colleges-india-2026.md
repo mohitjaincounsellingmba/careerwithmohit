@@ -76,7 +76,7 @@ If you miss out on top Central Universities, don't worry. Many of India's elite 
 4. **Galgotias University**, Greater Noida
 5. **GD Goenka University**, Gurugram
 6. **K.R. Mangalam University**, Gurugram
-7. **LPU (Lovely Professional University)**, Phagwara
+7. **LPU ([Lovely Professional University](/colleges/lovely-professional-university))**, Phagwara
 8. **SRM University** (Delhi NCR Sonepat)
 9. **UPES**, Dehradun
 

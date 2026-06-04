@@ -16,7 +16,7 @@ This guide covers the **best B.Tech ECE colleges in India for 2026** with fees, 
 
 | College | Type | Annual Fees | Avg ECE Package | Entrance Exam |
 |---|---|---|---|---|
-| IIT Bombay (EE/ECE) | Central Govt | ₹2.5 L | ₹16–24 LPA | JEE Advanced |
+| [IIT Bombay](/colleges/iit-bombay) (EE/ECE) | Central Govt | ₹2.5 L | ₹16–24 LPA | JEE Advanced |
 | IIT Delhi (ECE) | Central Govt | ₹2.5 L | ₹15–22 LPA | JEE Advanced |
 | IIT Madras (ECE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
 | IIT Kanpur (EE/ECE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
@@ -25,7 +25,7 @@ This guide covers the **best B.Tech ECE colleges in India for 2026** with fees, 
 | NIT Tiruchirappalli (ECE) | Central Govt | ₹2.0 L | ₹8–14 LPA | JEE Main |
 | NIT Warangal (ECE) | Central Govt | ₹1.5 L | ₹7–12 LPA | JEE Main |
 | NIT Surathkal (ECE) | Central Govt | ₹1.5 L | ₹7–12 LPA | JEE Main |
-| BITS Pilani (ECE) | Private Deemed | ₹5.5 L | ₹12–20 LPA | BITSAT |
+| [BITS Pilani](/colleges/bits-pilani) (ECE) | Private Deemed | ₹5.5 L | ₹12–20 LPA | BITSAT |
 | Thapar University (ECE) | Private | ₹4.0 L | ₹8–14 LPA | JEE Main |
 | [VIT Vellore](/colleges/vit-vellore) (ECE) | Private Deemed | ₹2.1 L | ₹6–11 LPA | VITEEE |
 | Manipal MIT (ECE) | Private Deemed | ₹2.3 L | ₹6–10 LPA | MU OET |

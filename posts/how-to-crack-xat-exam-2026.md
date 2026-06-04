@@ -2,7 +2,7 @@
 title: "How to Crack XAT Exam 2026: Preparation Strategy & Decision Making Tips"
 date: "2026-06-04"
 category: "MBA"
-description: "Looking to crack XAT 2026? Learn how to master the Decision Making section, VALR, and QADI to score a 95+ percentile and secure a seat in XLRI Jamshedpur."
+description: "Looking to crack XAT 2026? Learn how to master the Decision Making section, VALR, and QADI to score a 95+ percentile and secure a seat in [XLRI Jamshedpur](/colleges/xlri-jamshedpur)."
 keywords: ["how to crack xat exam", "crack xat 2026", "xat decision making strategy", "xat preparation strategy", "xlri cutoff xat", "score 95 percentile in xat"]
 ---
 

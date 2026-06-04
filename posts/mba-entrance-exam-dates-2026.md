@@ -33,7 +33,7 @@ Preparing for an MBA? Knowing the exact dates of the major entrance exams is the
 - **Why it matters:** Used by 115+ B‑schools across India.
 
 ### 2. XAT 2026
-- **Conducted by:** XLRI Jamshedpur.
+- **Conducted by:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
 - **Sections:** Verbal & Logical Ability, Decision Making, Quantitative Ability, and General Knowledge.
 - **Unique:** Decision‑Making section distinguishes XAT from other exams.
 

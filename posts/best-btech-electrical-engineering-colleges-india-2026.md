@@ -16,7 +16,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 
 | College | Type | Annual Fees | Avg EE Package | Entrance Exam |
 |---|---|---|---|---|
-| IIT Bombay (EE) | Central Govt | ₹2.5 L | ₹16–24 LPA | JEE Advanced |
+| [IIT Bombay](/colleges/iit-bombay) (EE) | Central Govt | ₹2.5 L | ₹16–24 LPA | JEE Advanced |
 | IIT Delhi (EE) | Central Govt | ₹2.5 L | ₹15–22 LPA | JEE Advanced |
 | IIT Madras (EE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
 | IIT Kanpur (EE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
@@ -24,7 +24,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 | NIT Tiruchirappalli (EEE) | Central Govt | ₹2.0 L | ₹7–12 LPA | JEE Main |
 | NIT Warangal (EEE) | Central Govt | ₹1.5 L | ₹7–11 LPA | JEE Main |
 | IIT Hyderabad (EE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
-| BITS Pilani (EEE) | Private Deemed | ₹5.5 L | ₹10–18 LPA | BITSAT |
+| [BITS Pilani](/colleges/bits-pilani) (EEE) | Private Deemed | ₹5.5 L | ₹10–18 LPA | BITSAT |
 | Thapar University (EEE) | Private | ₹4.0 L | ₹7–12 LPA | JEE Main |
 | [VIT Vellore](/colleges/vit-vellore) (EEE) | Private Deemed | ₹2.1 L | ₹5–9 LPA | VITEEE |
 | NIT Surathkal (EE) | Central Govt | ₹1.5 L | ₹7–11 LPA | JEE Main |

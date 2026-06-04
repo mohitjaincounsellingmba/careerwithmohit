@@ -23,7 +23,7 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 *   **Placements**: Average package at top IIMs ranges from ₹28 LPA to ₹35 LPA.
 
 #### **XAT (Xavier Aptitude Test) - The Decision Maker**
-*   **Best For**: XLRI Jamshedpur/Delhi, XIMB, IMT Ghaziabad, and 800+ others.
+*   **Best For**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur)/Delhi, XIMB, IMT Ghaziabad, and 800+ others.
 *   **Conducting Body**: XLRI Jamshedpur.
 *   **Exam Date**: January 4, 2026 (Tentative).
 *   **Registration**: July - December 2025.
@@ -32,7 +32,7 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 *   **Placements**: XLRI median package is around ₹30 LPA.
 
 #### **NMAT by GMAC - The Flexible Choice**
-*   **Best For**: NMIMS Mumbai/Bangalore, XIMB, K J Somaiya.
+*   **Best For**: [NMIMS Mumbai](/colleges/nmims-mumbai)/Bangalore, XIMB, K J Somaiya.
 *   **Conducting Body**: GMAC.
 *   **Exam Window**: November – December 2025 (Select your own date).
 *   **Frequency**: Multiple attempts allowed (up to 3).

@@ -25,7 +25,7 @@ PIBM (Pune Institute of Business Management) has carved a niche for itself by fo
 ### **Fee Structure:**
 The total fee for the MBA/PGDM program is approx **₹9.45 Lakhs**. For students who are ready to work hard and want a guaranteed industry-ready profile, PIBM is an excellent value-for-money choice.
 
-[👉 Start your journey with PIBM Pune. Click for admission help!](/inquiry)
+[👉 Start your journey with [PIBM Pune](/colleges/pibm-pune). Click for admission help!](/inquiry)
 
 ---
 

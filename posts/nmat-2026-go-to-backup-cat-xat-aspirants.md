@@ -2,7 +2,7 @@
 title: "Why NMAT 2026 Is Becoming the Go‑To Backup for CAT & XAT Aspirants"
 date: "2026-05-21"
 description: "Discover why NMAT by GMAC is the perfect safety net for CAT and XAT test-takers. Compare syllabus overlap, attempt policies, and placements."
-keywords: ["NMAT backup exam","CAT vs NMAT","NMIMS Mumbai placements","MBA entrance exams 2026","admission backup plan"]
+keywords: ["NMAT backup exam","CAT vs NMAT","[NMIMS Mumbai](/colleges/nmims-mumbai) placements","MBA entrance exams 2026","admission backup plan"]
 ---
 Every year, over 3 lakh candidates register for the Common Admission Test (CAT) in India, competing for a limited number of seats at the top IIMs. Due to the high competition and the unpredictable nature of CAT, many high-potential candidates struggle on exam day. 
 

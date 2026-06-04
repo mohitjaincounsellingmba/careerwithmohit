@@ -80,7 +80,7 @@ Some private universities like **SNDT (Women) or Somaiya** have their own select
 ### Useful Links:
 - [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
 - [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Admission in NMIMS Mumbai — NPAT Guide](/blog/nmims-npat-preparation-strategy-2026)
+- [Admission in [NMIMS Mumbai](/colleges/nmims-mumbai) — NPAT Guide](/blog/nmims-npat-preparation-strategy-2026)
 
 ---
 

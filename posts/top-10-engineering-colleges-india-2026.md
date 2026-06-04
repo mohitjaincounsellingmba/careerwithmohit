@@ -2,7 +2,7 @@
 title: "Top 10 Engineering Colleges in India 2026 — NIRF, Placements & Fees"
 date: "2026-04-20"
 category: "B.Tech Admissions"
-description: "Definitive list of India's Top 10 engineering colleges in 2026 based on NIRF ranking, placement packages, research output & fees. IITs, NITs, BITS Pilani compared."
+description: "Definitive list of India's Top 10 engineering colleges in 2026 based on NIRF ranking, placement packages, research output & fees. IITs, NITs, [BITS Pilani](/colleges/bits-pilani) compared."
 keywords: ["top 10 engineering colleges in india 2026", "top engineering colleges india nirf ranking 2026", "best engineering college india 2026", "iit ranking india 2026", "top 10 iit colleges india", "top engineering institutions india list", "india best btech college 2026", "nirf top 10 engineering ranking"]
 ---
 
@@ -16,7 +16,7 @@ Every year after NIRF rankings are announced, students and parents across India 
 |---|---|---|---|---|---|
 | #1 | IIT Madras | Chennai | Govt (IIT) | ₹20–30 LPA | JEE Advanced |
 | #2 | IIT Delhi | New Delhi | Govt (IIT) | ₹20–28 LPA | JEE Advanced |
-| #3 | IIT Bombay | Mumbai | Govt (IIT) | ₹22–35 LPA | JEE Advanced |
+| #3 | [IIT Bombay](/colleges/iit-bombay) | Mumbai | Govt (IIT) | ₹22–35 LPA | JEE Advanced |
 | #4 | IIT Kanpur | Kanpur | Govt (IIT) | ₹18–28 LPA | JEE Advanced |
 | #5 | IIT Kharagpur | Kharagpur | Govt (IIT) | ₹16–25 LPA | JEE Advanced |
 | #6 | IIT Roorkee | Roorkee | Govt (IIT) | ₹16–22 LPA | JEE Advanced |

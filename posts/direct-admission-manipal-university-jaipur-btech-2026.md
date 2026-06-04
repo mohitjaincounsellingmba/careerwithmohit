@@ -128,7 +128,7 @@ Amazon, Microsoft, Dell, Adobe, Cisco, Deloitte, Accenture, Infosys, TCS, Wipro,
 **Q: Can I get admission in MUJ without JEE Main?**
 Yes. You can appear for MET (Manipal Entrance Test), which is MUJ's own entrance exam. It is far less competitive than JEE Main.
 
-**Q: Is there a management quota in Manipal University Jaipur?**
+**Q: Is there a management quota in [Manipal University Jaipur](/colleges/manipal-university-jaipur)?**
 No. MUJ does not have a traditional management quota or donation seat system. All admissions are merit-based via MET or JEE Main.
 
 **Q: What is the minimum percentage required for MUJ BTech?**
@@ -154,7 +154,7 @@ MET 2026 applications are typically open till April–May 2026. Check the [offic
 **Cons:**
 - Fee structure is on the higher side (especially for CSE specialisations)
 - No traditional management quota — students with very low scores may struggle to secure admission
-- Competition from BITS Pilani (Pilani) and IITs for top-tier placements
+- Competition from [BITS Pilani](/colleges/bits-pilani) (Pilani) and IITs for top-tier placements
 
 **Verdict**: If you score reasonably in MET or JEE Main and can manage the fees, MUJ is one of the **best private engineering university choices in Rajasthan**. The ROI is strong for CSE branches. For other branches like Mechanical or Civil, do a careful ROI analysis before deciding.
 

@@ -48,7 +48,7 @@ If you are considering any of the following institutes, check if you are being a
 3.  **Jaipuria Institute of Management**: Its campuses in Noida, Lucknow, Jaipur, and Indore operate under a "Unanimous Placement" model.
 4.  **IBS (ICFAI Business School)**: Famous for its centralized "Mega Placement" event where thousands of students from all 9 campuses descend upon Hyderabad.
 5.  **IILM University**: Students from Lodhi Road, Gurugram, and Greater Noida are often combined for corporate drives.
-6.  **Lovely Professional University (LPU)**: Massive centralized placements with exceptionally high student volume.
+6.  **[Lovely Professional University](/colleges/lovely-professional-university) (LPU)**: Massive centralized placements with exceptionally high student volume.
 7.  **Chandigarh University**: Similar to LPU, it operates on a high-volume centralized model.
 8.  **JIMS (Jagannath Institute)**: While campuses like Rohini and Kalkaji have their own cells, they often pool for the biggest MNC recruiters.
 9.  **Indira Group (Pune)**: Multiple campuses under the Indira brand (ISBS, IIMP, etc.) often share a common placement pool.

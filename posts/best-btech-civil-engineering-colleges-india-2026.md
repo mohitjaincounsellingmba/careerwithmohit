@@ -16,7 +16,7 @@ This guide covers the **best B.Tech Civil Engineering colleges in India for 2026
 
 | College | Type | Annual Fees | Avg CE Package | Entrance Exam |
 |---|---|---|---|---|
-| IIT Bombay (Civil) | Central Govt | ₹2.5 L | ₹12–18 LPA | JEE Advanced |
+| [IIT Bombay](/colleges/iit-bombay) (Civil) | Central Govt | ₹2.5 L | ₹12–18 LPA | JEE Advanced |
 | IIT Delhi (Civil) | Central Govt | ₹2.5 L | ₹11–16 LPA | JEE Advanced |
 | IIT Madras (Civil) | Central Govt | ₹2.5 L | ₹10–16 LPA | JEE Advanced |
 | IIT Roorkee (Civil) | Central Govt | ₹2.5 L | ₹9–14 LPA | JEE Advanced |
@@ -26,7 +26,7 @@ This guide covers the **best B.Tech Civil Engineering colleges in India for 2026
 | COEP Pune (Civil) | State Govt | ₹0.60 L | ₹5–9 LPA | MHT CET |
 | Jadavpur University (Civil) | State Govt | ₹0.40 L | ₹5–9 LPA | WBJEE |
 | NIT Surathkal (Civil) | Central Govt | ₹1.5 L | ₹6–9 LPA | JEE Main |
-| BITS Pilani (Civil) | Private Deemed | ₹5.5 L | ₹8–14 LPA | BITSAT |
+| [BITS Pilani](/colleges/bits-pilani) (Civil) | Private Deemed | ₹5.5 L | ₹8–14 LPA | BITSAT |
 | SRM Kattankulathur (Civil) | Private Deemed | ₹2.0 L | ₹4–7 LPA | SRMJEEE |
 
 ---

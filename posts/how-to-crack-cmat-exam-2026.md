@@ -2,7 +2,7 @@
 title: "How to Crack CMAT Exam 2026: Strategy, Syllabus & Cutoffs"
 date: "2026-06-04"
 category: "MBA"
-description: "Planning to crack CMAT 2026? Learn how to tackle the Innovation & Entrepreneurship section, score 340+ marks, and secure admission into JBIMS Mumbai."
+description: "Planning to crack CMAT 2026? Learn how to tackle the Innovation & Entrepreneurship section, score 340+ marks, and secure admission into [JBIMS Mumbai](/colleges/jbims-mumbai)."
 keywords: ["how to crack cmat exam", "crack cmat 2026", "cmat preparation strategy", "cmat innovation and entrepreneurship", "cmat cutoff jbims", "score 99 percentile in cmat"]
 ---
 
@@ -77,7 +77,7 @@ This section is highly scoring.
 | **SIMSREE Mumbai** | 99.9+ Percentile (~330+ Marks) | High ROI, excellent finance placements |
 | **Great Lakes Chennai** | 95.0 - 98.0+ Percentile | Renowned 1-year MBA program |
 | **GIM Goa** | 95.0 - 97.0+ Percentile | Beautiful campus, excellent corporate exposure |
-| **PUMBA Pune** | 95.0+ Percentile | Low fees, good placements in Pune region |
+| **[PUMBA Pune](/colleges/pumba-pune)** | 95.0+ Percentile | Low fees, good placements in Pune region |
 
 ---
 

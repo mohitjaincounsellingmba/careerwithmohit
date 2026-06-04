@@ -72,7 +72,7 @@ Used primarily to cross the "glass ceiling" into Director or VP roles.
 |---|---|---|---|
 | **Chandigarh University Online** | ₹1.3 Lakhs | ✅ Yes (Virtual Job Fair) | **9 – 12 Months** |
 | **Manipal University Online** | ₹1.7 Lakhs | ✅ Yes (Industry Ties) | **10 – 13 Months** |
-| **Amity University Online** | ₹2.2 Lakhs | ✅ Yes (Strong Portal) | **11 – 14 Months** |
+| **[Amity University](/colleges/amity-noida) Online** | ₹2.2 Lakhs | ✅ Yes (Strong Portal) | **11 – 14 Months** |
 | **Jain University Online** | ₹1.5 Lakhs | ✅ Yes (Tech Roles) | **8 – 11 Months** |
 
 [InquiryCard title="Calculate Your Personal ROI" description="Want to know how much your salary could increase based on your current profile? Share your details with Mohit Jain for an objective ROI assessment." cta="Get Free Profile Review" type="counseling"]

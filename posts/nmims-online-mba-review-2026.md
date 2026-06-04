@@ -31,7 +31,7 @@ But does the brand name translate to real-world value? In this honest and data-d
 ## ✅ Why Choose NMIMS for Your Online MBA?
 
 ### 1. The Heritage of Excellence
-NMIMS Mumbai is a household name in management education. While the online program is different from the regular on-campus MBA, it inherits the same rigorous academic standards and industry-aligned curriculum that the brand is known for.
+[NMIMS Mumbai](/colleges/nmims-mumbai) is a household name in management education. While the online program is different from the regular on-campus MBA, it inherits the same rigorous academic standards and industry-aligned curriculum that the brand is known for.
 
 ### 2. Industry-Relevant Specializations
 NMIMS offers a wide array of specializations that are updated for the 2026 job market:

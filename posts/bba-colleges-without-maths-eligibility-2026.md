@@ -57,7 +57,7 @@ Most state-level private colleges (affiliated with GGSIPU, Mumbai University, or
 **Q1. is Math mandatory for BBA IPM (IIM)?**
 For **IIM Indore**, the exam has a heavy "Higher Math" section. While a non-math student can theoretically give the exam, it is extremely difficult to clear the cutoff. For **IIM Rohtak**, the math level is slightly lower, making it more accessible.
 
-**Q2. Can I get into NMIMS Mumbai without Math?**
+**Q2. Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai) without Math?**
 NMIMS Mumbai usually mandates **Math/Statistics** in 12th for its BBA program. However, their other programs like B.Des or specialized tracks might be more flexible—always check the 2026 NPAT brochure.
 
 **Q3. Which BBA specialization is best for non-math students?**

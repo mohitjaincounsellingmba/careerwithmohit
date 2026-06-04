@@ -61,7 +61,7 @@ CAT scores are calculated as percentiles relative to all test-takers (usually 3 
 - FMS, Delhi University
 - SPJIMR (S. P. Jain Institute of Management and Research), Mumbai
 - MDI (Management Development Institute), Gurgaon
-- IITs (Department of Management Studies at IIT Bombay, Delhi, Madras, etc.)
+- IITs (Department of Management Studies at [IIT Bombay](/colleges/iit-bombay), Delhi, Madras, etc.)
 - NITIE (Now IIM Mumbai)
 - IMI (International Management Institute), New Delhi
 - IMT (Institute of Management Technology), Ghaziabad

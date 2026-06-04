@@ -35,7 +35,7 @@ If you are pursuing **Computer Science (CSE), AI, or Data Science**, Bangalore i
 ### 2. Hyderabad: The Rising Tech & Semiconductor Hub
 Often called "Cyberabad," Hyderabad is a strong competitor to Bangalore, especially for **Tech and Hardware Research**.
 
-*   **Top Colleges:** IIT Hyderabad, IIIT Hyderabad, BITS Pilani (Hyderabad Campus), JNTU.
+*   **Top Colleges:** IIT Hyderabad, IIIT Hyderabad, [BITS Pilani](/colleges/bits-pilani) (Hyderabad Campus), JNTU.
 *   **Pros:** Better infrastructure/roads than Bangalore, slightly lower cost of living, and a massive presence of Microsoft, Google, and Amazon.
 *   **Cons:** Intense summer heat and a rapidly increasing population.
 *   **Average Salary (Top Colleges):** ₹15 - ₹32+ LPA.
@@ -83,7 +83,7 @@ If you are into **Mechanical, Automotive, or Civil Engineering**, Chennai offers
 ### 6. Mumbai: The Financial & High-Tech Core
 While expensive, Mumbai remains a top choice for **Chemical Engineering and Tech**.
 
-*   **Top Colleges:** IIT Bombay, VJTI, ICT Mumbai, Thadomal Shahani.
+*   **Top Colleges:** [IIT Bombay](/colleges/iit-bombay), VJTI, ICT Mumbai, Thadomal Shahani.
 *   **Pros:** Best in class education (IIT-B) and proximity to corporate headquarters and financial tech companies.
 *   **Cons:** Extremely high rent and very small living spaces for students.
 *   **Average Salary (Top Colleges):** ₹15 - ₹30+ LPA.

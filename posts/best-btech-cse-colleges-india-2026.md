@@ -16,7 +16,7 @@ This guide ranks the **best B.Tech CSE colleges in India for 2026** based on pla
 
 | Rank | College | Status | Highest Package (Est.) | Avg. CSE Package |
 |---|---|---|---|---|
-| **1** | **IIT Bombay** | Legend | ₹3.5+ Crore | ₹35.5 LPA |
+| **1** | **[IIT Bombay](/colleges/iit-bombay)** | Legend | ₹3.5+ Crore | ₹35.5 LPA |
 | **2** | **IIT Delhi** | Legend | ₹3.2+ Crore | ₹34.0 LPA |
 | **3** | **IIIT Hyderabad** | Coding Hub| ₹1.2+ Crore | ₹32.5 LPA |
 | **4** | **IIT Madras** | Research | ₹2.8+ Crore | ₹31.0 LPA |
@@ -38,7 +38,7 @@ Unlike broad engineering colleges, IIITs focuses almost exclusively on **Informa
 ### 2. IIT Bombay & Delhi (The Ecosystem)
 It’s not just the curriculum; it’s the network. Being in South Delhi or Powai (Mumbai) puts you at the center of the startup hubs. Most "Unicorn" founders in India are alumni of these two programs.
 
-### 3. BITS Pilani (The 'No Attendance' Merit)
+### 3. [BITS Pilani](/colleges/bits-pilani) (The 'No Attendance' Merit)
 Famous for its flexible academic policy and no-reservation system. BITS graduates are often preferred by product-based startups for their self-driven and innovative culture.
 
 ---

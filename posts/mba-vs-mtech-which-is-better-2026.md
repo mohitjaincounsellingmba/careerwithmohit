@@ -19,7 +19,7 @@ Both paths offer incredible career growth, high salaries, and distinct professio
 | **Core Focus** | Leadership, Strategy, Finance, Marketing, HR | Engineering Research, Systems, R&D, Design |
 | **Duration** | 2 Years | 2 Years |
 | **Top Entrance Exams** | [CAT](/blog/all-about-cat-exam), XAT, NMAT, SNAP, GMAT | [GATE](/blog/all-about-gate-exam) |
-| **Top Colleges in India** | IIMs, FMS Delhi, XLRI, SPJIMR | IITs, IISc Bangalore, NITs, IIITs |
+| **Top Colleges in India** | IIMs, [FMS Delhi](/colleges/fms-delhi), XLRI, SPJIMR | IITs, IISc Bangalore, NITs, IIITs |
 | **Average Fees (Tier 1)**| ₹15 Lakhs - ₹28 Lakhs (Except FMS) | ₹2 Lakhs - ₹5 Lakhs |
 | **Average Starting Salary**| ₹18 LPA - ₹35 LPA (Tier-1) | ₹10 LPA - ₹24 LPA (Tier-1) |
 | **Ideal For** | Outgoing personalities, strategic thinkers | Tech-savvy builders, research enthusiasts |

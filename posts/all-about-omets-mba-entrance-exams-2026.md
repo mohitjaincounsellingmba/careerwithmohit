@@ -7,7 +7,7 @@ keywords: ["OMET MBA entrance exams 2026", "What is OMET", "XAT NMAT SNAP CMAT M
 
 For Indian MBA aspirants, the Common Admission Test (CAT) is often seen as the ultimate hurdle. However, placing all your eggs in one basket can be a risky strategy. This is where **OMETs (Other Management Entrance Tests)** come into play.
 
-OMETs represent the full suite of national and institute-specific management entrance exams outside of CAT. For many candidates, these exams serve as excellent backup options or even primary targets, as they open doors to premier institutions like XLRI Jamshedpur, NMIMS Mumbai, SIBM Pune, and JBIMS Mumbai.
+OMETs represent the full suite of national and institute-specific management entrance exams outside of CAT. For many candidates, these exams serve as excellent backup options or even primary targets, as they open doors to premier institutions like [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [NMIMS Mumbai](/colleges/nmims-mumbai), [SIBM Pune](/colleges/sibm-pune), and [JBIMS Mumbai](/colleges/jbims-mumbai).
 
 Here is a complete guide to understanding OMETs, their exam patterns, admission processes, accepting colleges, and expected cutoffs for the 2026 academic season.
 
@@ -44,14 +44,14 @@ The mandatory entrance test for Narsee Monjee Institute of Management Studies (N
 A 60-minute, speed-based MCQ exam conducted for entry into the 16 management institutes under Symbiosis International University (SIU).
 
 *   **Held In:** December (Up to 3 attempts)
-*   **Top Colleges:** SIBM Pune, SCMHRD Pune, SIIB Pune, SIBM Bangalore.
+*   **Top Colleges:** SIBM Pune, [SCMHRD Pune](/colleges/scmhrd-pune), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore).
 *   **Key Cutoffs:** 97.5 - 98.5+ Percentile for SIBM Pune flagship MBA; 96+ Percentile for SCMHRD.
 
 ### 4. CMAT (Common Management Admission Test)
 CMAT is an AICTE-approved national test conducted by the National Testing Agency (NTA). It features 100 questions to be solved in 3 hours, offering ample time per question.
 
 *   **Held In:** April / May (Once a year)
-*   **Top Colleges:** JBIMS Mumbai, SIMSREE Mumbai, PUMBA Pune, K. J. Somaiya Mumbai, Great Lakes, BIMTECH.
+*   **Top Colleges:** JBIMS Mumbai, SIMSREE Mumbai, [PUMBA Pune](/colleges/pumba-pune), K. J. Somaiya Mumbai, Great Lakes, BIMTECH.
 *   **Key Cutoffs:** 99.9+ Percentile for JBIMS; 99.5+ for SIMSREE.
 
 ### 5. MAH MBA CET

@@ -24,7 +24,7 @@ The biggest and most important management exam in India, acting as the sole gate
 *   **Results:** Mid to Late December 2025
 
 ### XAT 2026 (Xavier Aptitude Test)
-The gateway to XLRI Jamshedpur, SPJIMR (Mumbai), XIMB, and IMT Ghaziabad. Often considered tougher than CAT due to its unique Decision Making section.
+The gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), SPJIMR (Mumbai), XIMB, and IMT Ghaziabad. Often considered tougher than CAT due to its unique Decision Making section.
 *   **Registration Window:** Mid-July 2025 – Early December 2025
 *   **Exam Date:** First Sunday of January 2026
 *   **Results:** Late January 2026

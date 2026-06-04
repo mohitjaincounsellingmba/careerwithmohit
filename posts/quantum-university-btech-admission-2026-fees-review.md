@@ -53,7 +53,7 @@ Quantum's "Passion Programs" are a major draw for students interested in arts, m
 **1. What are Passion Programs at Quantum?**
 These allow students to major in engineering while minoring in areas like music, dance, photography, or theatre.
 
-**2. Is Quantum University good for CSE?**
+**2. Is [Quantum University](/colleges/quantum-university-roorkee) good for CSE?**
 It is highly popular for its AI and Machine Learning specializations.
 
 **3. Does Quantum offer direct admission?**

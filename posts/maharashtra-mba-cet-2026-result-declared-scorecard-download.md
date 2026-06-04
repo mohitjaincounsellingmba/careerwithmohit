@@ -56,9 +56,9 @@ Since there is **no negative marking** in MAH MBA CET, the cutoffs for top colle
 
 | Raw Score (out of 200) | Expected Percentile | Target College |
 |------------------------|---------------------|----------------|
-| 160+ | 99.99+ | JBIMS Mumbai |
+| 160+ | 99.99+ | [JBIMS Mumbai](/colleges/jbims-mumbai) |
 | 148–160 | 99.95–99.99 | SIMSREE Mumbai |
-| 135–148 | 99.80–99.95 | PUMBA Pune, Welingkar |
+| 135–148 | 99.80–99.95 | [PUMBA Pune](/colleges/pumba-pune), Welingkar |
 | 120–135 | 99.50–99.80 | COEP, XIMR, SIES |
 | 100–120 | 98.00–99.50 | Chetana's, MET, NIBM |
 | 80–100 | 95.00–98.00 | Mid-tier Mumbai/Pune colleges |

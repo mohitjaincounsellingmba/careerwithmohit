@@ -29,7 +29,7 @@ These are the absolute best Business Schools in the country. Graduating from her
 | **1** | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | CAT | ₹34.36 LPA | ₹25 Lakhs |
 | **2** | **[IIM Bangalore](/colleges/iim-bangalore)** | CAT | ₹35.31 LPA | ₹24.5 Lakhs |
 | **3** | **[IIM Calcutta](/colleges/iim-calcutta)** | CAT | ₹35.07 LPA | ₹25 Lakhs |
-| **4** | **XLRI Jamshedpur** | XAT | ₹32.70 LPA | ₹23 Lakhs |
+| **4** | **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | XAT | ₹32.70 LPA | ₹23 Lakhs |
 | **5** | **ISB Hyderabad** | GMAT / GRE | ₹34.21 LPA | ₹41 Lakhs |
 | **6** | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT / GMAT | ₹33.02 LPA | ₹22 Lakhs |
 | **7** | **IIM Lucknow** | CAT | ₹32.20 LPA | ₹20 Lakhs |
@@ -78,7 +78,7 @@ Not everyone wants to take a ₹25 Lakh education loan. If you are looking for t
 If you scored between 70 to 90 percentile in CAT, XAT, or CMAT, you still have excellent options among the top private institutions.
 
 1. **Symbiosis Institute of Business Management (SIBM), Pune** (Exam: SNAP)
-2. **NMIMS Mumbai** (Exam: NMAT)
+2. **[NMIMS Mumbai](/colleges/nmims-mumbai)** (Exam: NMAT)
 3. **IMT Ghaziabad** (Exam: CAT, XAT)
 4. **Great Lakes Institute of Management (GLIM), Chennai** (Exam: CAT, XAT, CMAT)
 5. **GIM Goa (Goa Institute of Management)** (Exam: CAT, XAT, CMAT)

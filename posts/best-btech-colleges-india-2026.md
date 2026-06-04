@@ -28,12 +28,12 @@ Based on NIRF parameters, global rankings, and placement statistics, the list of
 |---|---|---|---|---|
 | **1** | **IIT Madras** | Chennai | ₹21.48 LPA | JEE Advanced |
 | **2** | **IIT Delhi** | New Delhi | ₹22.00 LPA | JEE Advanced |
-| **3** | **IIT Bombay** | Mumbai | ₹23.50 LPA | JEE Advanced |
+| **3** | **[IIT Bombay](/colleges/iit-bombay)** | Mumbai | ₹23.50 LPA | JEE Advanced |
 | **4** | **IIT Kanpur** | Kanpur | ₹20.50 LPA | JEE Advanced |
 | **5** | **IIT Roorkee** | Roorkee | ₹19.00 LPA | JEE Advanced |
 | **6** | **IIT Kharagpur** | Kharagpur | ₹20.00 LPA | JEE Advanced |
 | **7** | **NIT Trichy** | Tiruchirappalli | ₹12.50 LPA | JEE Main |
-| **8** | **BITS Pilani** | Pilani | ₹20.36 LPA | BITSAT |
+| **8** | **[BITS Pilani](/colleges/bits-pilani)** | Pilani | ₹20.36 LPA | BITSAT |
 | **9** | **IIT Hyderabad** | Hyderabad | ₹20.07 LPA | JEE Advanced |
 | **10** | **NIT Surathkal** | Mangalore | ₹13.00 LPA | JEE Main |
 
@@ -68,7 +68,7 @@ SRM KTR offers incredible exposure and massive placement drives. Their semester 
 - **Exams Accepted:** SRMJEEE
 - **Fees:** ₹10-18 Lakhs
 
-### 5. Thapar Institute of Engineering and Technology (TIET), Patiala
+### 5. [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET), Patiala
 TIET is highly respected in North India and is known for rigorous academics and excellent placements in the core tech sector.
 - **Exams Accepted:** JEE Main
 - **Fees:** ~₹16-18 Lakhs

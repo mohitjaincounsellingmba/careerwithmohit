@@ -69,7 +69,7 @@ If you target a **Corporate/Management career**, BBA is better because of its pr
 **Q2. does IIM Indore give BBA degree?**
 In the IPM program, you get a **BA (Foundations of Management)** after 3 years and an **MBA** after 5 years. However, socially and professionally, it is treated as an integrated BBA+MBA pathway.
 
-**Q3. What is the fee for BBA in NMIMS Mumbai?**
+**Q3. What is the fee for BBA in [NMIMS Mumbai](/colleges/nmims-mumbai)?**
 The annual tuition fee for the BBA program at NMIMS (Anil Surendra Modi School of Commerce) is approximately **₹3.2 Lakhs to ₹3.5 Lakhs**.
 
 **Q4. can I get into SSCBS Delhi with 90% in boards?**

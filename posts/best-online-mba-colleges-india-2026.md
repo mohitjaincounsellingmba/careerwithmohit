@@ -104,7 +104,7 @@ CU Online is backed by one of India's fastest-growing universities with QS Ranki
 
 ---
 
-### 5. Lovely Professional University (LPU Online)
+### 5. [Lovely Professional University](/colleges/lovely-professional-university) (LPU Online)
 
 LPU Online is NAAC A++ and has one of the largest student bodies in India. Known for its interactive live sessions and wide geographic presence.
 

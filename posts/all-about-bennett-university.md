@@ -51,7 +51,7 @@ Yes, [Bennett University](/colleges/bennett-greater-noida) is a premium destinat
 ### 2. What is the MBA fee at [Bennett University](/colleges/bennett-greater-noida) for 2026?
 The total academic fee for the 2-year MBA program at [Bennett University](/colleges/bennett-greater-noida) is approximately **₹10.50 Lakhs**. This excludes hostel and other incidental charges.
 
-### 3. Does Bennett University have good placements?
+### 3. Does [Bennett University](/colleges/bennett-greater-noida) have good placements?
 Bennett has a very strong corporate relations team. For the 2025 batch, the highest package was **₹33 LPA**, with several students joining Big 4 and top FMCG firms.
 
 ---

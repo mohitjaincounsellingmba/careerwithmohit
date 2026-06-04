@@ -2,7 +2,7 @@
 title: "All About IITs: B.Tech Fees, Cutoffs, Placements & Legacy 2026"
 date: "2026-03-13"
 description: "The complete guide to Indian Institutes of Technology (IITs). Discover B.Tech fees, JEE Advanced cutoffs, placement packages, and what makes the old IITs the best in India."
-keywords: ["IIT review 2026", "IIT Bombay placements", " आईआईटी IIT BTech fees", "JEE Advanced cutoff IIT Delhi", "top IITs in India", "IIT highest package", "IIT Madras vs IIT Bombay"]
+keywords: ["IIT review 2026", "[IIT Bombay](/colleges/iit-bombay) placements", " आईआईटी IIT BTech fees", "JEE Advanced cutoff IIT Delhi", "top IITs in India", "IIT highest package", "IIT Madras vs IIT Bombay"]
 ---
 
 The Indian Institutes of Technology (IITs) are the most prestigious engineering institutions in India. Recognized globally for their rigorous academics, brilliant peer groups, and astronomical placement figures, getting into an older IIT (Bombay, Delhi, Madras, Kanpur, Kharagpur) is a dream for millions of students.

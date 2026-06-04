@@ -43,7 +43,7 @@ Here is the ultimate breakdown of the elite IIITs (Hyderabad, Allahabad, Bangalo
 
 ## Placement Statistics (2025-2026 for Top IIITs)
 
-The placement statistics of IIIT Hyderabad and IIIT Allahabad routinely match or beat those of IIT Bombay and IIT Delhi for computer science profiles.
+The placement statistics of IIIT Hyderabad and IIIT Allahabad routinely match or beat those of [IIT Bombay](/colleges/iit-bombay) and IIT Delhi for computer science profiles.
 
 - **Highest Placement Package:** ₹1.02 Crores (Domestic) / ₹1.30 Crores+ (International)
 - **Average Placement Package (CSE specifically):** 

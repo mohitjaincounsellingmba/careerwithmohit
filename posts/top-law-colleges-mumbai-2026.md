@@ -71,7 +71,7 @@ If you miss the MAH CET or CLAT deadlines, several private universities in the g
 **Q1. Is GLC Mumbai better than NLUs?**
 For **Litigation**, GLC is as good as Top 3 NLUs because of its location in South Mumbai. For **Corporate Law placements**, Top 5 NLUs may have a slight brand edge, but GLC remains a top recruiter hub.
 
-**Q2. Does NMIMS Mumbai accept CLAT?**
+**Q2. Does [NMIMS Mumbai](/colleges/nmims-mumbai) accept CLAT?**
 Yes. NMIMS accepts both **NLAT** and **CLAT** scores for its law programs, but they have their own merit list based on these scores.
 
 **Q3. What is the fee for BA LLB in GLC Mumbai?**

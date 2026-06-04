@@ -2,7 +2,7 @@
 title: "Total Seats in IITs 2026: Institute-wise Seat Matrix for JEE Advanced Aspirants"
 date: "2026-03-24"
 description: "Planning for IIT admission? Check the total number of seats in 23 IITs for 2026 JoSAA counselling. Get the latest seat matrix, category-wise breakdown, and previous year trends."
-keywords: ["total seats in IIT 2026", "IIT seat matrix JoSAA", "number of seats in IIT Bombay", "IIT Delhi total seats", "JEE Advanced total seats 2026", "IIT admission 2026 seats", "IIT Kharagpur seats", "IIT Madras seat matrix"]
+keywords: ["total seats in IIT 2026", "IIT seat matrix JoSAA", "number of seats in [IIT Bombay](/colleges/iit-bombay)", "IIT Delhi total seats", "JEE Advanced total seats 2026", "IIT admission 2026 seats", "IIT Kharagpur seats", "IIT Madras seat matrix"]
 ---
 
 Getting into an **Indian Institute of Technology (IIT)** is the ultimate dream for millions of engineering aspirants. However, with intense competition, knowing the exact number of seats available is crucial for planning your JoSAA counselling strategy.

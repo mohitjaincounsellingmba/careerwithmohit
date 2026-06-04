@@ -18,14 +18,14 @@ This comprehensive guide covers **India's top B.Tech engineering colleges for 20
 |---|---|---|---|---|---|
 | #1 | IIT Madras | Central Govt | ₹2.5 L | ₹20–30 LPA | JEE Advanced |
 | #2 | IIT Delhi | Central Govt | ₹2.5 L | ₹20–28 LPA | JEE Advanced |
-| #3 | IIT Bombay | Central Govt | ₹2.5 L | ₹22–35 LPA | JEE Advanced |
+| #3 | [IIT Bombay](/colleges/iit-bombay) | Central Govt | ₹2.5 L | ₹22–35 LPA | JEE Advanced |
 | #4 | IIT Kanpur | Central Govt | ₹2.5 L | ₹18–25 LPA | JEE Advanced |
 | #5 | IIT Kharagpur | Central Govt | ₹2.5 L | ₹16–22 LPA | JEE Advanced |
 | #6 | IIT Roorkee | Central Govt | ₹2.5 L | ₹16–20 LPA | JEE Advanced |
 | #7 | IIT Guwahati | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
 | #8 | IIT Hyderabad | Central Govt | ₹2.5 L | ₹18–25 LPA | JEE Advanced |
 | #9 | NIT Tiruchirappalli | Central Govt (NIT) | ₹2.0 L | ₹8–14 LPA | JEE Main |
-| #10 | BITS Pilani | Private Deemed | ₹5.5 L | ₹15–20 LPA | BITSAT |
+| #10 | [BITS Pilani](/colleges/bits-pilani) | Private Deemed | ₹5.5 L | ₹15–20 LPA | BITSAT |
 | #11 | NIT Surathkal | Central Govt (NIT) | ₹1.5 L | ₹8–13 LPA | JEE Main |
 | #12 | IIT BHU Varanasi | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
 | #13 | [VIT Vellore](/colleges/vit-vellore) | Private Deemed | ₹2.1 L | ₹7–14 LPA | VITEEE |

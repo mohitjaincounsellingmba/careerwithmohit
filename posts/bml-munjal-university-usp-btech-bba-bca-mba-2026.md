@@ -152,7 +152,7 @@ BMU's BBA Digital Marketing specialization is updated with **current industry pr
 
 ---
 
-## USP of BML Munjal University — BCA (2026)
+## USP of [BML Munjal University](/colleges/bml-munjal-gurgaon) — BCA (2026)
 
 ### Program Overview
 

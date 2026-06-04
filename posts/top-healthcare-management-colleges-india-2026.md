@@ -53,7 +53,7 @@ Here is the definitive list of institutions to target for the 2026 academic sess
 *   **Chandigarh University, Chandigarh**
     *   **Approx Fees**: ₹4–6 lakh
     *   **Highlights**: Rapidly growing placement records and modern infra.
-*   **Lovely Professional University (LPU), Punjab**
+*   **[Lovely Professional University](/colleges/lovely-professional-university) (LPU), Punjab**
     *   **Approx Fees**: ₹7–9 lakh
     *   **Highlights**: Global diversity and strong tech-integrated learning.
 *   **SRM Institute of Science and Technology, Chennai**

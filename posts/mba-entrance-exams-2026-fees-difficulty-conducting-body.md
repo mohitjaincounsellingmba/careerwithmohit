@@ -14,7 +14,7 @@ To help you plan your budget and preparation strategy, we have compiled the ulti
 | Exam | Conducting Body | App. Fee (Approx.) | Difficulty | Best For... |
 | :--- | :--- | :--- | :--- | :--- |
 | **CAT** | IIMs (On Rotation) | ₹2,600 | **High** | All 21 IIMs, FMS, MDI, SPJIMR |
-| **XAT** | XLRI Jamshedpur | ₹2,200 | **High** | XLRI, SPJIMR, IMT, XIMB |
+| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | ₹2,200 | **High** | XLRI, SPJIMR, IMT, XIMB |
 | **NMAT** | GMAC | ₹3,000 | **Moderate** | NMIMS campuses, K J Somaiya |
 | **SNAP** | Symbiosis (SIU) | ₹2,250 | **Moderate** | 16 Symbiosis Institutes (SIBM, SCMHRD) |
 | **GMAT** | GMAC | ₹25,000+ | **High** | ISB, SPJIMR, Global B-Schools |
@@ -42,7 +42,7 @@ Known for its unique **Decision Making** section.
 The most candidate-friendly exam.
 *   **Difficulty**: Moderate. Adaptive format (if you answer correctly, the next question is tougher).
 *   **Fees**: ₹3,000. It is one of the most expensive exams because it allows **up to 3 attempts**.
-*   **Why Take It?**: NMIMS Mumbai is a top-tier brand. The ability to choose your exam date is a huge advantage.
+*   **Why Take It?**: [NMIMS Mumbai](/colleges/nmims-mumbai) is a top-tier brand. The ability to choose your exam date is a huge advantage.
 
 #### **4. SNAP (Symbiosis National Aptitude Test)**
 Quick-fire 60-minute exam.

@@ -36,7 +36,7 @@ In the eyes of the government and global bodies:
 ## 🚀 2. Industry Perception in 2026
 
 ### The Tech Sector (IT & Software)
-Tech giants like **Google, Microsoft, and Amazon** do not differentiate between B.E. and B.Tech. They focus on your **DSA (Data Structures & Algorithms)** skills and project portfolio. Whether you graduated from BITS Pilani (which gives a B.E. degree) or IIT Bombay (which gives a B.Tech), your package will be determined by your technical round performance.
+Tech giants like **Google, Microsoft, and Amazon** do not differentiate between B.E. and B.Tech. They focus on your **DSA (Data Structures & Algorithms)** skills and project portfolio. Whether you graduated from [BITS Pilani](/colleges/bits-pilani) (which gives a B.E. degree) or [IIT Bombay](/colleges/iit-bombay) (which gives a B.Tech), your package will be determined by your technical round performance.
 
 ### The Core Sector (Mechanical, Civil, EEE)
 In some traditional manufacturing or R&D roles, a B.E. might be seen as having a "stronger fundamental base," while a B.Tech might be seen as "more hands-on." Again, this is a minor perception that disappears after your first 2 years of work experience.

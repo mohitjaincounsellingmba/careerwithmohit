@@ -18,8 +18,8 @@ Whether you are looking for the absolute best ROI (under ₹2 Lakhs fees) or a g
 |---|---|---|---|
 | **JBIMS (The CEO Factory)**| MAH CET / CAT | ₹6.0 Lakhs | ₹28.02 LPA |
 | **SPJIMR** | CAT / GMAT | ₹24.0 Lakhs | ₹33.00 LPA |
-| **SJSOM (IIT Bombay)** | CAT | ₹12.0 Lakhs | ₹28.88 LPA |
-| **NMIMS Mumbai (SBM)** | NMAT | ₹26.0 Lakhs | ₹26.63 LPA |
+| **SJSOM ([IIT Bombay](/colleges/iit-bombay))** | CAT | ₹12.0 Lakhs | ₹28.88 LPA |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)** | NMAT | ₹26.0 Lakhs | ₹26.63 LPA |
 | **SIMSREE (Sydenham)** | MAH CET / CMAT | ₹1.4 Lakhs | ₹15.20 LPA |
 | **KJ Somaiya** | CAT/XAT/NMAT | ₹21.0 Lakhs | ₹12.30 LPA |
 | **Welingkar (WeSchool)** | CAT/MAT/CET | ₹14.0 Lakhs | ₹10.50 LPA |

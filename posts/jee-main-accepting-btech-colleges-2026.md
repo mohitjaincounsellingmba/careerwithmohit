@@ -90,7 +90,7 @@ Top AKTU-affiliated colleges accept JEE Main:
 
 If you prefer private universities with ultra-modern infrastructure, global tie-ups, and massive placement drives, many elite private institutions reserve a percentage of their seats for JEE Main candidates.
 
-### 1. Thapar Institute of Engineering and Technology (TIET), Patiala
+### 1. [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET), Patiala
 One of the oldest and most respected private colleges. A large chunk of their seats is filled via JEE Main percentile.
 - **Average Package:** ~₹11 LPA
 - **Status:** Highly Recommended

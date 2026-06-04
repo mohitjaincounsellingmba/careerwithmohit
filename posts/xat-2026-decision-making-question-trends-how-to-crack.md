@@ -6,7 +6,7 @@ keywords: ["XAT Decision Making","XAT exam 2026","XLRI shortlisting","Decision M
 ---
 The Xavier Aptitude Test (XAT) is widely considered one of the most challenging MBA entrance exams in India. While it shares sections like Quantitative Aptitude and Verbal Ability with the CAT, the defining feature of XAT is its **Decision Making (DM)** section. 
 
-DM accounts for about 21 questions of the main paper and is the primary make-or-break factor for getting into XLRI Jamshedpur—the premier institute for Human Resources and Business Management.
+DM accounts for about 21 questions of the main paper and is the primary make-or-break factor for getting into [XLRI Jamshedpur](/colleges/xlri-jamshedpur)—the premier institute for Human Resources and Business Management.
 
 In this guide, we will analyze the latest trends in the XAT Decision Making section, explain the core concepts tested, and outline a step-by-step methodology to crack these questions.
 

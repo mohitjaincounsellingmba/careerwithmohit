@@ -44,7 +44,7 @@ Among hundreds of private B-schools, [Jaipuria Noida](/colleges/jaipuria-noida) 
 
 ### 3. 💼 275+ Recruiters — One of NCR's Largest Placement Networks
 
-Jaipuria Noida's annual placement drive attracts **275+ companies**, making it one of the largest recruiter bases among private B-schools in Delhi-NCR:
+[Jaipuria Noida](/colleges/jaipuria-noida)'s annual placement drive attracts **275+ companies**, making it one of the largest recruiter bases among private B-schools in Delhi-NCR:
 
 | Metric | Data |
 | :--- | :--- |

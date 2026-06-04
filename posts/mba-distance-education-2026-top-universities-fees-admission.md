@@ -126,7 +126,7 @@ CU Online is one of India's fastest-growing universities with NAAC A++ and QS ra
 
 ---
 
-### 5. Lovely Professional University (LPU) Online
+### 5. [Lovely Professional University](/colleges/lovely-professional-university) (LPU) Online
 
 LPU Online has a massive student community and NAAC A++ status. Known for interactive online support and a wide network of learners across India.
 

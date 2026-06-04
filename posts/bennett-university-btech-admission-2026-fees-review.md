@@ -29,7 +29,7 @@ Bennett offers premium facilities, and its fee structure reflects the global-sta
 *   **Hostel Fee**: ₹1.6 Lakhs to ₹2.1 Lakhs per year (AC mandatory).
 
 ### **Placement Review: Global & Domestic Success**
-Bennett University leverages the Times Group's massive corporate network to bring in top-tier recruiters.
+[Bennett University](/colleges/bennett-greater-noida) leverages the Times Group's massive corporate network to bring in top-tier recruiters.
 *   **Highest Package (2025/2026 Batch)**: ₹1.37 Crore (International).
 *   **Highest Domestic Package**: ₹64.0 LPA.
 *   **Average Package (B.Tech Overall)**: ₹11.10 LPA.

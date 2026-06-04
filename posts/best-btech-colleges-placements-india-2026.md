@@ -16,11 +16,11 @@ This expert guide gives you **honest, verified placement data for India's best B
 
 | College | Batch Size | % Placed | Avg Package (All Branches) | Highest Package | Top Recruiters |
 |---|---|---|---|---|---|
-| IIT Bombay | ~1,200 | ~85% | ₹22–25 LPA | ₹3.67 Cr | Google, Microsoft, Goldman Sachs |
+| [IIT Bombay](/colleges/iit-bombay) | ~1,200 | ~85% | ₹22–25 LPA | ₹3.67 Cr | Google, Microsoft, Goldman Sachs |
 | IIT Delhi | ~1,000 | ~85% | ₹20–23 LPA | ₹2.8 Cr | Uber, DE Shaw, McKinsey |
 | IIT Madras | ~1,100 | ~80% | ₹18–22 LPA | ₹1.8 Cr | Apple, Qualcomm, Amazon |
 | IIT Kanpur | ~900 | ~80% | ₹18–22 LPA | ₹2.5 Cr | Google, Schlumberger, D.E. Shaw |
-| BITS Pilani | ~1,000 | ~80% | ₹15–18 LPA | ₹2.5 Cr | Microsoft, Goldman Sachs, Nvidia |
+| [BITS Pilani](/colleges/bits-pilani) | ~1,000 | ~80% | ₹15–18 LPA | ₹2.5 Cr | Microsoft, Goldman Sachs, Nvidia |
 | IIT Roorkee | ~1,000 | ~78% | ₹15–18 LPA | ₹1.5 Cr | Amazon, Qualcomm, DRDO |
 | IIIT Hyderabad | ~250 | ~85% | ₹16–20 LPA | ₹1+ Cr | Google, Facebook, Microsoft |
 | NIT Tiruchirappalli | ~1,200 | ~82% | ₹10–14 LPA | ₹55 LPA | Amazon, Zoho, Goldman Sachs |

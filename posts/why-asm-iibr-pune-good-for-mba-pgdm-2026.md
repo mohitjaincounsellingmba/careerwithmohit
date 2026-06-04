@@ -22,7 +22,7 @@ One of the unique selling points (USPs) of **[ASM IIBR](/colleges/asm-iibr)** is
 [ASM IIBR](/colleges/asm-iibr) is located in the **Pimpri-Chinchwad (PCMC)** industrial belt. This area is home to thousands of manufacturing, IT, and automobile giants (Tata Motors, Mercedes-Benz, Infosys, etc.). Being at the heart of the industry means easier access to guest lectures, industrial visits, and, most importantly, **internships**.
 
 ### **4. Massive ROI (Strong Placements vs. Moderate Fees)**
-For students concerned about education loans, ASM IIBR offers an excellent **Return on Investment (ROI)**.
+For students concerned about education loans, [ASM IIBR](/colleges/asm-iibr) offers an excellent **Return on Investment (ROI)**.
 *   **Avg Placement**: Range of ₹5.5 LPA to ₹7.5 LPA.
 *   **Highest Package**: Up to ₹18 LPA in recent batches.
 *   **Fees**: Generally between **₹5.50 Lakhs to ₹6.90 Lakhs** for PGDM/MBA, which is significantly lower than some high-intake "brand" colleges in Pune.

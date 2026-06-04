@@ -45,7 +45,7 @@ Even for institutional seats, the standards are high:
 Direct admission is available through the **Institutional Merit category** and the **NRI quota**, which focus on a holistic profile evaluation alongside entrance scores.
 
 ### 2. Does FORE Delhi accept CMAT scores?
-No, FORE School of Management accepts only **CAT, XAT, and GMAT** scores for its PGDM admissions.
+No, [FORE School of Management](/colleges/fore-school-delhi) accepts only **CAT, XAT, and GMAT** scores for its PGDM admissions.
 
 ### 3. What is the average salary at FORE Delhi?
 The average package for the recent batch is approximately **₹15.4 LPA**.

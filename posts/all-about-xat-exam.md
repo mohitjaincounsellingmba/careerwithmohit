@@ -5,7 +5,7 @@ description: "Complete guide to the Xavier Aptitude Test (XAT). Uncover details 
 keywords: ["XAT exam 2026", "XAT pattern and syllabus", "XAT total marks", "XAT cutoff XLRI", "Decision Making XAT", "top colleges accepting XAT"]
 ---
 
-The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to XLRI Jamshedpur, a Mecca for HR and Business Management.
+The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), a Mecca for HR and Business Management.
 
 Here is the complete breakdown of the XAT exam for 2026 admissions:
 

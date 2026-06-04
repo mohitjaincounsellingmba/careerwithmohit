@@ -1,5 +1,5 @@
 ---
-title: 'Free BITSAT Mock Test 2026: BITS Pilani Preparation Platform'
+title: 'Free BITSAT Mock Test 2026: [BITS Pilani](/colleges/bits-pilani) Preparation Platform'
 date: '2026-04-01'
 description: >-
   Maximize your BITSAT 2026 score with our free full-length mock test. Practice

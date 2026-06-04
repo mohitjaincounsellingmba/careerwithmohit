@@ -46,7 +46,7 @@ State universities provide excellent regional exposure and are often the best ch
 These universities offer modern infrastructure and specialized management tracks that are often faster at adapting to industry trends.
 
 *   **Galgotias University**, Greater Noida
-*   **Lovely Professional University (LPU)**, Phagwara
+*   **[Lovely Professional University](/colleges/lovely-professional-university) (LPU)**, Phagwara
 *   **Chandigarh University**, Mohali
 *   **Siksha 'O' Anusandhan (SOA) University**, Bhubaneswar
 *   **Graphic Era University**, Dehradun

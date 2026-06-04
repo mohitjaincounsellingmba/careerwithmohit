@@ -16,7 +16,7 @@ This guide covers the **best B.Tech Mechanical Engineering colleges in India for
 
 | College | Type | Annual Fees | Avg ME Package | Entrance Exam |
 |---|---|---|---|---|
-| IIT Bombay (ME) | Central Govt | ₹2.5 L | ₹15–22 LPA | JEE Advanced |
+| [IIT Bombay](/colleges/iit-bombay) (ME) | Central Govt | ₹2.5 L | ₹15–22 LPA | JEE Advanced |
 | IIT Delhi (ME) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
 | IIT Madras (ME) | Central Govt | ₹2.5 L | ₹13–18 LPA | JEE Advanced |
 | IIT Kharagpur (ME) | Central Govt | ₹2.5 L | ₹12–18 LPA | JEE Advanced |
@@ -24,7 +24,7 @@ This guide covers the **best B.Tech Mechanical Engineering colleges in India for
 | NIT Tiruchirappalli (ME) | Central Govt | ₹2.0 L | ₹8–13 LPA | JEE Main |
 | NIT Warangal (ME) | Central Govt | ₹1.5 L | ₹8–12 LPA | JEE Main |
 | NIT Surathkal (ME) | Central Govt | ₹1.5 L | ₹7–11 LPA | JEE Main |
-| BITS Pilani (ME) | Private Deemed | ₹5.5 L | ₹10–18 LPA | BITSAT |
+| [BITS Pilani](/colleges/bits-pilani) (ME) | Private Deemed | ₹5.5 L | ₹10–18 LPA | BITSAT |
 | [VIT Vellore](/colleges/vit-vellore) (ME) | Private Deemed | ₹2.1 L | ₹5–9 LPA | VITEEE |
 | Manipal Institute (ME) | Private Deemed | ₹2.3 L | ₹5–9 LPA | MU OET |
 | Thapar University (ME) | Private | ₹4.0 L | ₹7–12 LPA | JEE Main |

@@ -24,7 +24,7 @@ These institutions are government-backed or university-affiliated, which keeps t
 The Departments of Management Studies (DMS) at various IITs are significantly underrated. They benefit from the prestigious IIT brand, superior technical infrastructure, and highly qualified faculty.
 
 *   **DMS, IIT Delhi**
-*   **SJMSOM, IIT Bombay**
+*   **SJMSOM, [IIT Bombay](/colleges/iit-bombay)**
 *   **VGSoM, IIT Kharagpur**
 *   **DoMS, IIT Madras**
 *   **IIT Roorkee / IIT Kanpur (IME)**

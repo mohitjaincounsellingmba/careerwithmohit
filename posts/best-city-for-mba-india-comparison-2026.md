@@ -25,7 +25,7 @@ In this guide, we compare the top MBA hubs in India—**Mumbai, Bangalore, Delhi
 ### 1. Mumbai: The Financial Capital
 Mumbai is the undisputed king for students aiming for **Finance, Investment Banking, and FMCG** roles.
 
-*   **Top Colleges:** SPJIMR, NMIMS Mumbai, JBIMS, NITIE (IIM Mumbai), K J Somaiya.
+*   **Top Colleges:** SPJIMR, [NMIMS Mumbai](/colleges/nmims-mumbai), JBIMS, NITIE (IIM Mumbai), K J Somaiya.
 *   **Pros:** Home to BSE, NSE, and HQs of top banks and FMCG giants like HUL. Unmatched corporate exposure.
 *   **Cons:** Extremely high cost of living and long commutes.
 *   **Fresher Salary:** ₹12 - ₹35+ LPA (Tier 1).

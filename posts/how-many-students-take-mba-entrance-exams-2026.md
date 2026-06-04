@@ -36,7 +36,7 @@ XAT saw an unprecedented **40% jump** in registrations in recent years. More stu
 SNAP allows up to **three attempts**. Most of the 1.4 Lakh candidates take at least two attempts to improve their speed, making the internal competition for [SIBM Pune](/colleges/sibm-pune) extremely fierce.
 
 #### **4. NMAT: The Corporate Favorite**
-With around 75,000 to 80,000 aspirants, NMAT has a lower "raw" volume compared to CAT, but the quality of competition is very high since the target is primarily **NMIMS Mumbai**—one of India's best private B-schools.
+With around 75,000 to 80,000 aspirants, NMAT has a lower "raw" volume compared to CAT, but the quality of competition is very high since the target is primarily **[NMIMS Mumbai](/colleges/nmims-mumbai)**—one of India's best private B-schools.
 
 #### **5. MAT & CMAT: The Tier-2 Lifeline**
 MAT is unique because it is conducted multiple times a year (Feb, May, Sept, Dec). Cumulatively, it handles over **3 Lakh aspirants** annually, providing a steady stream of students for the 600+ B-schools that accept MAT scores.

@@ -91,7 +91,7 @@ Bangalore's unmatched IT and startup ecosystem makes it a highly desirable desti
 *   **SIBM Bengaluru** – Electronic City
 *   **Alliance University** – Bangalore
 *   **[ISBR Business School](/colleges/isbr-bangalore)** – Bangalore
-*   **LPU (Lovely Professional University)** – Jalandhar, Punjab
+*   **LPU ([Lovely Professional University](/colleges/lovely-professional-university))** – Jalandhar, Punjab
 *   **Chandigarh University** – Mohali, Punjab
 *   **KIIT School of Management (KSOM)** – Bhubaneswar, Odisha
 

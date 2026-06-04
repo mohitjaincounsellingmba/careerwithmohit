@@ -1,7 +1,7 @@
 ---
 title: "All About NMAT Exam 2026: NMIMS Cutoffs, Pattern, Marks & Top Colleges"
 date: "2026-03-13"
-description: "A complete guide to NMAT by GMAC. Learn about the adaptive exam pattern, total marks, expected cutoffs for NMIMS Mumbai, and other top accepting colleges."
+description: "A complete guide to NMAT by GMAC. Learn about the adaptive exam pattern, total marks, expected cutoffs for [NMIMS Mumbai](/colleges/nmims-mumbai), and other top accepting colleges."
 keywords: ["NMAT exam 2026", "NMAT exam pattern", "NMIMS Mumbai cutoff NMAT", "NMAT total marks", "top colleges accepting NMAT", "NMAT by GMAC"]
 ---
 
