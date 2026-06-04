@@ -61,6 +61,17 @@ const EXAMS = [
     ]
   },
   {
+    id: 'snap',
+    name: 'SNAP',
+    fullName: 'Symbiosis National Aptitude Test',
+    description: 'SNAP memory-based previous year question papers to boost speed and accuracy.',
+    papers: [
+      { year: 2023, slot: 'Memory Based Paper', link: '/papers/snap-2023.pdf' },
+      { year: 2022, slot: 'Memory Based Paper', link: '/papers/snap-2022.pdf' },
+      { year: 2021, slot: 'Memory Based Paper', link: '/papers/snap-2021.pdf' },
+    ]
+  },
+  {
     id: 'mat',
     name: 'MAT',
     fullName: 'Management Aptitude Test',

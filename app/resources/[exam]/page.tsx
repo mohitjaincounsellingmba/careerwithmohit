@@ -43,6 +43,24 @@ const EXAM_DATA: Record<string, { name: string; description: string; papers: Pap
             { year: "2023", title: "CMAT 2023 Question Paper", url: "https://cracku.in/cmat-previous-year-papers" }
         ]
     },
+    "snap": {
+        name: "SNAP (Symbiosis National Aptitude Test)",
+        description: "Solve memory-based SNAP previous year papers to master the speed-test format.",
+        papers: [
+            { year: "2023", title: "SNAP 2023 Memory Based Paper", url: "/papers/snap-2023.pdf" },
+            { year: "2022", title: "SNAP 2022 Memory Based Paper", url: "/papers/snap-2022.pdf" },
+            { year: "2021", title: "SNAP 2021 Memory Based Paper", url: "/papers/snap-2021.pdf" }
+        ]
+    },
+    "nmat": {
+        name: "NMAT (NMAT by GMAC)",
+        description: "Official guide samples and past analyses for NMAT exam preparation.",
+        papers: [
+            { year: "2024", title: "NMAT 2024 Official Guide Sample", url: "/papers/nmat-sample-2024.pdf" },
+            { year: "2023", title: "NMAT 2023 Official Guide Sample", url: "/papers/nmat-sample-2023.pdf" },
+            { year: "2022", title: "NMAT 2022 Previous Year Analysis", url: "/papers/nmat-2022.pdf" }
+        ]
+    },
     "mah-mba-cet": {
         name: "MAH MBA CET",
         description: "Maharashtra CET previous year papers for JBIMS, Sydenham, and PUMBA aspirants.",

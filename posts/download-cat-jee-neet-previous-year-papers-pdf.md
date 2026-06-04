@@ -35,12 +35,62 @@ The Common Admission Test (CAT) has evolved significantly over the years. Below 
 
 ---
 
+## XAT Previous Year Papers (2018 - 2024)
+
+Practice decision making and quantitative ability sections with official XAT papers:
+
+| Year | Available Format | Status |
+| :--- | :--- | :--- |
+| **XAT 2024** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **XAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **XAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **XAT 2021** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **XAT 2020** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **XAT 2019** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **XAT 2018** | Official Question Paper | [Download Now](/previous-year-papers) |
+
+---
+
+## SNAP Previous Year Papers (2021 - 2023)
+
+Since SNAP is a computer-based speed test, these memory-based question papers are highly curated:
+
+| Year | Paper Type | Status |
+| :--- | :--- | :--- |
+| **SNAP 2023** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
+| **SNAP 2022** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
+| **SNAP 2021** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
+
+---
+
+## NMAT Previous Year Papers (2022 - 2024)
+
+Get familiar with adaptive exam formats using official guide mock tests and analyses:
+
+| Year | Paper Type | Status |
+| :--- | :--- | :--- |
+| **NMAT 2024** | Official Guide Sample | [Download Now](/previous-year-papers) |
+| **NMAT 2023** | Official Guide Sample | [Download Now](/previous-year-papers) |
+| **NMAT 2022** | Past Analysis Paper | [Download Now](/previous-year-papers) |
+
+---
+
+## CMAT Previous Year Papers (2022 - 2023)
+
+CMAT requires high speed and accuracy, check out past papers:
+
+| Year | Paper Type | Status |
+| :--- | :--- | :--- |
+| **CMAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **CMAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
+
+---
+
 ## JEE Main & NEET Previous Year Papers
 
 Engineering and Medical aspirants can now access official papers for:
--   **JEE Main:** All shifts from 2023 and 2024.
--   **NEET UG:** Code-wise papers from the last 5 years.
--   **NMAT by GMAC:** Sample papers and memory-based questions.
+-   **JEE Main:** All shifts from 2021 to 2024.
+-   **NEET UG:** Code-wise papers from 2021 to 2024.
 
 [👉 Visit our Previous Year Papers Hub to unlock all PDFs for free!](/previous-year-papers)
 
