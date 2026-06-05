@@ -189,7 +189,7 @@ Just like other BMU programs, BCA includes mandatory **industry internship semes
 
 ---
 
-## USP of BML Munjal University — MBA (2026)
+## USP of [BML Munjal University](/colleges/bml-munjal-gurgaon) — MBA (2026)
 
 ### Program Overview
 

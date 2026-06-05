@@ -31,7 +31,7 @@ Let's be absolutely clear:
 
 **There is NO management quota, NO direct admission, and NO donation-based seat at [MNIT Jaipur](/colleges/mnit-jaipur) — period.**
 
-MNIT Jaipur is a **centrally funded government institution** under the Ministry of Education, Government of India. Its entire admission process is governed by:
+[MNIT Jaipur](/colleges/mnit-jaipur) is a **centrally funded government institution** under the Ministry of Education, Government of India. Its entire admission process is governed by:
 - **JEE Main** (mandatory entrance exam)
 - **JoSAA (Joint Seat Allocation Authority)** — centralized online counselling
 - **CSAB (Central Seat Allocation Board)** — for special rounds

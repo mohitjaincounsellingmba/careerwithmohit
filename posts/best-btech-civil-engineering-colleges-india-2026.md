@@ -55,7 +55,7 @@ India's infrastructure spending is at an all-time high:
 
 | IIT | General Category Closing Rank (Civil) |
 |---|---|
-| IIT Bombay | ~7,000 |
+| [IIT Bombay](/colleges/iit-bombay) | ~7,000 |
 | IIT Delhi | ~8,000 |
 | IIT Madras | ~7,500 |
 | IIT Roorkee | ~6,500 |

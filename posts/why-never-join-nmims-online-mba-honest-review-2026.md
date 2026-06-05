@@ -14,7 +14,7 @@ Here is the unfiltered truth about why you should probably **Skip the NMIMS Onli
 ---
 
 ### **1. The 'Prestige' Trap: Mumbai vs. Global**
-NMIMS Mumbai (SBM) is a powerhouse. It is ranked among India's Top 10 B-schools. However, **NMIMS Online is a completely different entity.**
+[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM) is a powerhouse. It is ranked among India's Top 10 B-schools. However, **NMIMS Online is a completely different entity.**
 *   **The Reality**: Employers know the difference. When you list "NMIMS MBA" on your LinkedIn, but it’s from the online portal, you are not getting the prestige of the Mumbai campus. In fact, it can sometimes work against you as it shows you "settled" for a lower-hurdle degree.
 
 ### **2. The 'Zero Placement' Guarantee**

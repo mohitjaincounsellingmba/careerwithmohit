@@ -49,7 +49,7 @@ India has **23 IITs** offering B.Tech programs. Admission is through **JEE Advan
 
 | IIT | JEE Advanced CSE Closing Rank (2025) |
 |---|---|
-| IIT Bombay | ~100 |
+| [IIT Bombay](/colleges/iit-bombay) | ~100 |
 | IIT Delhi | ~120 |
 | IIT Madras | ~150 |
 | IIT Kanpur | ~210 |
@@ -102,7 +102,7 @@ Top private deemed universities for B.Tech include:
 
 | University | Entrance | Annual Fee | Best For |
 |---|---|---|---|
-| BITS Pilani (3 campuses) | BITSAT | ₹5.5 L | CS, Elec, Chem |
+| [BITS Pilani](/colleges/bits-pilani) (3 campuses) | BITSAT | ₹5.5 L | CS, Elec, Chem |
 | [VIT Vellore](/colleges/vit-vellore) | VITEEE | ₹2.1 L | CS, ECE, BioTech |
 | Thapar University | JEE Main/Boards | ₹4.0 L | CS, EEE, Chem |
 | Manipal Institute of Tech | MU OET / JEE | ₹2.3 L | CS, ECE, Mech |

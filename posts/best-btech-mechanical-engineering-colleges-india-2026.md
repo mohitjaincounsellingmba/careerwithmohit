@@ -50,7 +50,7 @@ This guide covers the **best B.Tech Mechanical Engineering colleges in India for
 
 | IIT | General Category Closing Rank (ME) |
 |---|---|
-| IIT Bombay | ~2,800 |
+| [IIT Bombay](/colleges/iit-bombay) | ~2,800 |
 | IIT Delhi | ~3,500 |
 | IIT Madras | ~3,200 |
 | IIT Kanpur | ~3,800 |
@@ -80,7 +80,7 @@ This guide covers the **best B.Tech Mechanical Engineering colleges in India for
 
 ## Best Private Colleges for Mechanical Engineering
 
-### 1. BITS Pilani (Mechanical Engineering)
+### 1. [BITS Pilani](/colleges/bits-pilani) (Mechanical Engineering)
 BITS Pilani's ME programme is renowned for its strong mathematics and manufacturing foundation. The Practice School (PS) industrial training places students directly in engineering companies.
 
 - **Avg ME Package:** ₹10–18 LPA

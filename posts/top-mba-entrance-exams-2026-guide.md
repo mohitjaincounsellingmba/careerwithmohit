@@ -24,7 +24,7 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 
 #### **XAT (Xavier Aptitude Test) - The Decision Maker**
 *   **Best For**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur)/Delhi, XIMB, IMT Ghaziabad, and 800+ others.
-*   **Conducting Body**: XLRI Jamshedpur.
+*   **Conducting Body**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
 *   **Exam Date**: January 4, 2026 (Tentative).
 *   **Registration**: July - December 2025.
 *   **Frequency**: Once a year.
@@ -37,7 +37,7 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 *   **Exam Window**: November – December 2025 (Select your own date).
 *   **Frequency**: Multiple attempts allowed (up to 3).
 *   **Application Fee**: ~₹3,000 per attempt.
-*   **Placements**: NMIMS Mumbai average package is ~₹25 LPA.
+*   **Placements**: [NMIMS Mumbai](/colleges/nmims-mumbai) average package is ~₹25 LPA.
 
 #### **SNAP (Symbiosis National Aptitude Test)**
 *   **Best For**: 16 Symbiosis Institutes ([SIBM Pune](/colleges/sibm-pune), SCMHRD).

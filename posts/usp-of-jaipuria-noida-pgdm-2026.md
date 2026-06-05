@@ -88,7 +88,7 @@ Jaipuria's pedagogy is built around 360-degree student development:
 
 ### 7. 📍 Sector 62 Noida — Heart of NCR's IT & Corporate Belt
 
-Jaipuria Noida is located in **Sector 62, Noida** — one of NCR's most active corporate zones:
+[Jaipuria Noida](/colleges/jaipuria-noida) is located in **Sector 62, Noida** — one of NCR's most active corporate zones:
 - Surrounded by offices of **Infosys, HCL, NIIT, and dozens of MNCs**
 - Easy metro access via **Aqua Line** (Noida Sector 62 station)
 - Close to **Greater Noida Expressway** corporate corridor

@@ -122,7 +122,7 @@ Some universities have started accepting **CUET UG** scores for B.Tech admission
 Yes, completely valid. AICTE recognises all routes — state exams, private exams, and management quota admissions — as legally valid for B.Tech degrees.
 
 **Q2. Which good college gives B.Tech without JEE?**
-[VIT Vellore](/colleges/vit-vellore), SRM, Manipal MIT, BITS Pilani (BITSAT), Chandigarh University, Amrita University, and [Bennett University](/colleges/bennett-greater-noida) all offer admission through their own processes without JEE.
+[VIT Vellore](/colleges/vit-vellore), SRM, Manipal MIT, [BITS Pilani](/colleges/bits-pilani) (BITSAT), Chandigarh University, Amrita University, and [Bennett University](/colleges/bennett-greater-noida) all offer admission through their own processes without JEE.
 
 **Q3. Can I get NIT without JEE Main?**
 No. NITs, IITs, IIITs, and GFTIs admit students exclusively through JEE Main/Advanced via JoSAA. These colleges cannot be accessed without a JEE score.

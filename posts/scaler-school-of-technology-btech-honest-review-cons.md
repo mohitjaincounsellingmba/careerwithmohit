@@ -38,7 +38,7 @@ One of the most important aspects of an engineering degree is the "campus experi
 ## 4. The "Parallel Degree" Workload
 Because Scaler isn't a university, you have to manage two things simultaneously:
 1.  **Scaler's Intensive Curriculum:** 8-10 hours of rigorous coding and projects daily.
-2.  **External University Exams:** You still have to clear the exams and assignments of the degree-granting partner (e.g., BITS Pilani).
+2.  **External University Exams:** You still have to clear the exams and assignments of the degree-granting partner (e.g., [BITS Pilani](/colleges/bits-pilani)).
 *   This can lead to significant burnout for students who are not prepared for a high-pressure environment.
 
 ---

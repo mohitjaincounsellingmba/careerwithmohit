@@ -32,7 +32,7 @@ Candidates with 2+ years of work experience can be sponsored by their organizati
 The total academic fee for the two-year program at [IMI Delhi](/colleges/imi-delhi) is approximately **₹20 Lakhs to ₹22 Lakhs**. For management quota or NRI seats, there is often a higher institutional fee structure.
 
 ## Selection Process for 2026
-Even for the institutional category, IMI Delhi maintains high standards:
+Even for the institutional category, [IMI Delhi](/colleges/imi-delhi) maintains high standards:
 1. **Entrance**: Valid CAT or XAT score.
 2. **Shortlist**: Based on academics (10th, 12th, Graduation) and entrance score.
 3. **Interview Rounds**: Comprehensive GD and PI rounds to evaluate leadership potential.

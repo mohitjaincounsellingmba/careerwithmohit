@@ -6,7 +6,7 @@ description: "Planning to crack NMAT 2026? Learn how to achieve a 240+ scaled sc
 keywords: ["how to crack nmat exam", "crack nmat 2026", "nmat scaled score strategy", "nmat preparation strategy", "nmims mumbai cutoff nmat", "nmat by gmac"]
 ---
 
-The NMAT by GMAC is unique compared to other management exams in India. It is highly student-friendly, allowing you to choose your section order, schedule your test date, and even retake the exam up to three times to improve your score. However, don't let this flexibility fool you. NMAT is the mandatory gateway to the flagship MBA program at **NMIMS Mumbai**, and securing a seat there requires a scaled score of 235+.
+The NMAT by GMAC is unique compared to other management exams in India. It is highly student-friendly, allowing you to choose your section order, schedule your test date, and even retake the exam up to three times to improve your score. However, don't let this flexibility fool you. NMAT is the mandatory gateway to the flagship MBA program at **[NMIMS Mumbai](/colleges/nmims-mumbai)**, and securing a seat there requires a scaled score of 235+.
 
 To crack NMAT 2026, you need a strategy tailored specifically to its **computer-adaptive format** and strict speed limits.
 

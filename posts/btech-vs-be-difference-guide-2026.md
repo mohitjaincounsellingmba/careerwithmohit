@@ -53,7 +53,7 @@ In some traditional manufacturing or R&D roles, a B.E. might be seen as having a
 **Choose a B.E. if:**
 - You are interested in high-level research or want to pursue a **PhD**.
 - You want to understand the deep mathematical and scientific foundations of engineering.
-- The college you really want to join (like BITS Pilani or Jadavpur University) happen to offer a B.E.
+- The college you really want to join (like [BITS Pilani](/colleges/bits-pilani) or Jadavpur University) happen to offer a B.E.
 
 ---
 

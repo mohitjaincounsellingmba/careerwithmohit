@@ -53,7 +53,7 @@ MAT is unique because it is conducted multiple times a year (Feb, May, Sept, Dec
 Approximately 2.9 Lakh to 3.0 Lakh students actually appear for the CAT exam on the center, while registrations hover around 3.3 Lakhs.
 
 **2. Is NMAT easier to crack because of lower student volume?**
-Not necessarily. While the volume is lower (~80k), the exam is adaptive and the top-tier NMIMS Mumbai cutoff remains very high (systematically filtered).
+Not necessarily. While the volume is lower (~80k), the exam is adaptive and the top-tier [NMIMS Mumbai](/colleges/nmims-mumbai) cutoff remains very high (systematically filtered).
 
 **3. Does every student who registers appear for the exam?**
 No. Most exams see an 85% to 90% attendance rate. Factors like fear of preparation gaps or distance to the center often lead to a 10-15% dropout on the exam day.

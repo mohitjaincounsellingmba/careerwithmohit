@@ -5,7 +5,7 @@ description: "A complete guide to NMAT by GMAC. Learn about the adaptive exam pa
 keywords: ["NMAT exam 2026", "NMAT exam pattern", "NMIMS Mumbai cutoff NMAT", "NMAT total marks", "top colleges accepting NMAT", "NMAT by GMAC"]
 ---
 
-The NMAT by GMAC (Graduate Management Admission Council) is one of the most student-friendly MBA entrance exams in India. It is primarily known as the mandatory gateway to NMIMS Mumbai, but its scores are accepted by dozens of other top business schools.
+The NMAT by GMAC (Graduate Management Admission Council) is one of the most student-friendly MBA entrance exams in India. It is primarily known as the mandatory gateway to [NMIMS Mumbai](/colleges/nmims-mumbai), but its scores are accepted by dozens of other top business schools.
 
 Unlike CAT or XAT, NMAT allows candidates to take the test up to three times during a testing window, giving them the flexibility to improve their scores.
 

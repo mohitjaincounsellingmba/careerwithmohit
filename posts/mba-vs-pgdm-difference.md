@@ -35,7 +35,7 @@ In this guide, we break down **12 key differences** to help you decide which pat
 - **JBIMS (Jamnalal Bajaj Institute of Management Studies), Mumbai**
 - **DMS, IIT Delhi / [IIT Bombay](/colleges/iit-bombay)**
 - **PUMBA, Pune University**
-- **SJMSOM, IIT Bombay**
+- **SJMSOM, [IIT Bombay](/colleges/iit-bombay)**
 
 ### Top PGDM Colleges in India
 - **IIMs (Ahmedabad, Bangalore, Calcutta, etc.)** — Note: Most IIMs now award MBA degrees, but follow a PGDM-style pedagogy.

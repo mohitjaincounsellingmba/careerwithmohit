@@ -46,7 +46,7 @@ NMAT is a test of speed. The time available per question is extremely low:
 | **Language Skills (LS)** | 36 | 28 Minutes | **46 Seconds** | 76+ |
 | **Quantitative Skills (QS)** | 36 | 52 Minutes | **86 Seconds** | 74+ |
 | **Logical Reasoning (LR)** | 36 | 40 Minutes | **66 Seconds** | 78+ |
-| **Total** | **108** | **120 Minutes** | **66 Seconds (Avg)** | **235+ (NMIMS Mumbai)** |
+| **Total** | **108** | **120 Minutes** | **66 Seconds (Avg)** | **235+ ([NMIMS Mumbai](/colleges/nmims-mumbai))** |
 
 ### Language Skills
 Focus on speed-reading. The section contains short RC passages and grammar/vocabulary. Do not spend more than 30 seconds on vocabulary questions.

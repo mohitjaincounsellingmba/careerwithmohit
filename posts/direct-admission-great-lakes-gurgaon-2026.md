@@ -43,7 +43,7 @@ The total academic fee for the two-year PGDM at [Great Lakes Gurgaon](/colleges/
 ### 1. Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) offer direct admission?
 Official direct admission (donation-based) is not available. All admissions are via the merit portal based on entrance scores and profile assessment.
 
-### 2. What is the cutoff for Great Lakes Gurgaon?
+### 2. What is the cutoff for [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)?
 For the PGDM program, the expected cutoff is usually around the **80-85 percentile** in CAT or XAT.
 
 ### 3. Is Gurgaon campus as good as Chennai?

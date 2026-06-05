@@ -23,7 +23,7 @@ Every year after NIRF rankings are announced, students and parents across India 
 | #7 | IIT Guwahati | Guwahati | Govt (IIT) | ₹14–20 LPA | JEE Advanced |
 | #8 | IIT Hyderabad | Hyderabad | Govt (IIT) | ₹16–22 LPA | JEE Advanced |
 | #9 | NIT Tiruchirappalli | Trichy | Govt (NIT) | ₹10–16 LPA | JEE Main |
-| #10 | BITS Pilani | Pilani | Private Deemed | ₹15–22 LPA | BITSAT |
+| #10 | [BITS Pilani](/colleges/bits-pilani) | Pilani | Private Deemed | ₹15–22 LPA | BITSAT |
 
 ---
 
@@ -56,7 +56,7 @@ IIT Delhi's location in India's capital gives it unparalleled access to governme
 
 ---
 
-## #3 — IIT Bombay, Mumbai
+## #3 — [IIT Bombay](/colleges/iit-bombay), Mumbai
 
 **NIRF Rank: #3 — but #1 for placements and entrepreneurship**
 

@@ -27,7 +27,7 @@ While CAT is known for high conceptual difficulty and strict sectional time limi
 ## Top OMET Exams: A Quick Breakdown
 
 ### 1. XAT (Xavier Aptitude Test)
-Conducted by XLRI Jamshedpur, XAT is considered the second-most prestigious MBA entrance exam in India. It is highly concept-driven and features a unique **Decision Making** section that evaluates business ethics and managerial logic.
+Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XAT is considered the second-most prestigious MBA entrance exam in India. It is highly concept-driven and features a unique **Decision Making** section that evaluates business ethics and managerial logic.
 
 *   **Held In:** January (Once a year)
 *   **Top Colleges:** XLRI Jamshedpur, XIMB Bhubaneswar, IMT Ghaziabad, GIM Goa, Great Lakes Chennai, TAPMI Manipal.
@@ -37,28 +37,28 @@ Conducted by XLRI Jamshedpur, XAT is considered the second-most prestigious MBA 
 The mandatory entrance test for Narsee Monjee Institute of Management Studies (NMIMS). It is candidate-friendly, allowing you to choose your section order and schedule the test window.
 
 *   **Held In:** October to December (Up to 3 attempts)
-*   **Top Colleges:** NMIMS Mumbai (Flagship), NMIMS Bengaluru, K. J. Somaiya Mumbai, XIMB (HR program only).
+*   **Top Colleges:** [NMIMS Mumbai](/colleges/nmims-mumbai) (Flagship), NMIMS Bengaluru, K. J. Somaiya Mumbai, XIMB (HR program only).
 *   **Key Cutoffs:** 235 - 245+ scaled score for NMIMS Mumbai core MBA.
 
 ### 3. SNAP (Symbiosis National Aptitude Test)
 A 60-minute, speed-based MCQ exam conducted for entry into the 16 management institutes under Symbiosis International University (SIU).
 
 *   **Held In:** December (Up to 3 attempts)
-*   **Top Colleges:** SIBM Pune, [SCMHRD Pune](/colleges/scmhrd-pune), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore).
+*   **Top Colleges:** [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore).
 *   **Key Cutoffs:** 97.5 - 98.5+ Percentile for SIBM Pune flagship MBA; 96+ Percentile for SCMHRD.
 
 ### 4. CMAT (Common Management Admission Test)
 CMAT is an AICTE-approved national test conducted by the National Testing Agency (NTA). It features 100 questions to be solved in 3 hours, offering ample time per question.
 
 *   **Held In:** April / May (Once a year)
-*   **Top Colleges:** JBIMS Mumbai, SIMSREE Mumbai, [PUMBA Pune](/colleges/pumba-pune), K. J. Somaiya Mumbai, Great Lakes, BIMTECH.
+*   **Top Colleges:** [JBIMS Mumbai](/colleges/jbims-mumbai), SIMSREE Mumbai, [PUMBA Pune](/colleges/pumba-pune), K. J. Somaiya Mumbai, Great Lakes, BIMTECH.
 *   **Key Cutoffs:** 99.9+ Percentile for JBIMS; 99.5+ for SIMSREE.
 
 ### 5. MAH MBA CET
 A state-level exam conducted by Maharashtra's CET Cell. While it is highly favorable for Maharashtra state candidates, it provides All India (AI) seats for top-tier colleges.
 
 *   **Held In:** March / May (Once a year)
-*   **Top Colleges:** JBIMS Mumbai, SIMSREE, PUMBA Pune, Welingkar Mumbai.
+*   **Top Colleges:** JBIMS Mumbai, SIMSREE, [PUMBA Pune](/colleges/pumba-pune), Welingkar Mumbai.
 *   **Key Cutoffs:** 99.9+ Percentile for All-India candidates aiming for JBIMS Mumbai.
 
 ---
@@ -83,7 +83,7 @@ If you miss out on a 99+ percentile in CAT, target these top-tier institutions u
 2.  **JBIMS Mumbai:** Accepts **CMAT** or **MAH CET** (99.9+ Percentile). Famous for high ROI and finance placements.
 3.  **NMIMS Mumbai:** Accepts **NMAT** (~235+ Scaled Score). Massive batch size but excellent corporate relationships.
 4.  **SIBM Pune:** Accepts **SNAP** (~98+ Percentile). Premier campus life and great FMCG / Consulting placements.
-5.  **SCMHRD Pune:** Accepts **SNAP** (~96+ Percentile). Renowned for HR and Infrastructure Management.
+5.  **[SCMHRD Pune](/colleges/scmhrd-pune):** Accepts **SNAP** (~96+ Percentile). Renowned for HR and Infrastructure Management.
 
 ---
 

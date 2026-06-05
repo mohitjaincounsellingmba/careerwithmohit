@@ -142,7 +142,7 @@ MET 2026 applications are typically open till April–May 2026. Check the [offic
 
 ---
 
-### **Is Manipal University Jaipur Worth It for B.Tech?**
+### **Is [Manipal University Jaipur](/colleges/manipal-university-jaipur) Worth It for B.Tech?**
 
 **Pros:**
 - Strong Manipal brand with national recognition

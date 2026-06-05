@@ -52,7 +52,7 @@ Unlike JEE Main, BITSAT has a uniquely diverse format that introduces English Pr
 - **Logical Reasoning is your safety net:** 20 questions can make or break your score. They are faster to solve than math problems and carry the same weight.
 - **Accuracy matters:** BITSAT carries severe negative penalties (-1) for incorrect guesses compared to its +3 point reward. Do not blindly guess on BITSAT.
 
-Check out our review for more information regarding [All about BITS Pilani Campuses](/blog/all-about-bits-pilani-campuses). Trying to decide between BITS or NITs? Review exactly how the total [Total Seats in NITs](/blog/total-seats-in-nits-2026-seat-matrix) are distributed across India, or explore [Direct B.Tech Admission in India](/blog/direct-admission-manipal-university-jaipur-btech-2026).
+Check out our review for more information regarding [All about [BITS Pilani](/colleges/bits-pilani) Campuses](/blog/all-about-bits-pilani-campuses). Trying to decide between BITS or NITs? Review exactly how the total [Total Seats in NITs](/blog/total-seats-in-nits-2026-seat-matrix) are distributed across India, or explore [Direct B.Tech Admission in India](/blog/direct-admission-manipal-university-jaipur-btech-2026).
 
 ---
 

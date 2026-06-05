@@ -45,7 +45,7 @@ Not everyone can crack the highly competitive JEE Advanced. Fortunately, India i
 
 If you are looking for the **best private B.Tech colleges**, these should be on your radar:
 
-### 🥇 1. BITS Pilani (Birla Institute of Technology and Science)
+### 🥇 1. [BITS Pilani](/colleges/bits-pilani) (Birla Institute of Technology and Science)
 BITS Pilani is arguably the only private engineering college that rivals the top 5 IITs. It boasts a massive alumni network, 0% attendance policy, and world-class coding culture.
 - **Exams Accepted:** BITSAT
 - **Fees:** ~₹20-22 Lakhs
@@ -93,7 +93,7 @@ For students looking to study in the IT hub of North India, here are the best op
 
 Maharashtra has a thriving tech ecosystem. The best B.Tech colleges here include:
 
-1. **IIT Bombay** (Powai, Mumbai)
+1. **[IIT Bombay](/colleges/iit-bombay)** (Powai, Mumbai)
 2. **[COEP Technological University](/colleges/coep-pune)** (Pune - via MHT CET)
 3. **VJTI Mumbai** (Via MHT CET)
 4. **[Pune Institute of Computer Technology (PICT)](/colleges/pict-pune)** (Via MHT CET / JEE Main)

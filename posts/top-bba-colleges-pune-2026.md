@@ -61,7 +61,7 @@ If you miss the SET or BUMAT cutoffs, direct admission in Pune is possible under
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q1. is Symbiosis Pune BBA better than [NMIMS Mumbai](/colleges/nmims-mumbai)?**
-In terms of **Campus Life and Culture**, Symbiosis Pune is often preferred. In terms of **pure Financial Placements**, NMIMS Mumbai holds a slight edge due to its location.
+In terms of **Campus Life and Culture**, Symbiosis Pune is often preferred. In terms of **pure Financial Placements**, [NMIMS Mumbai](/colleges/nmims-mumbai) holds a slight edge due to its location.
 
 **Q2. does MIT-WPU require CET for BBA?**
 Yes. You generally need to appear for **MIT-WPU CET**. However, students with high scores in other national exams may be exempted—always check the latest 2026 brochure.

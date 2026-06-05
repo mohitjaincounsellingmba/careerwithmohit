@@ -51,7 +51,7 @@ If your CAT score is in the **75-80 percentile range**, [IMI Kolkata](/colleges/
 No. While [IMI Kolkata](/colleges/imi-kolkata) is an excellent choice, the average package in Delhi is about ₹5-6 LPA higher. However, remember the fee in Delhi is also double.
 
 **2. Does IMI accept CMAT?**
-IMI Delhi does not accept CMAT scores. However, [IMI Kolkata](/colleges/imi-kolkata) and IMI Bhubaneswar do accept CMAT, usually requiring a 80+ percentile score.
+[IMI Delhi](/colleges/imi-delhi) does not accept CMAT scores. However, [IMI Kolkata](/colleges/imi-kolkata) and IMI Bhubaneswar do accept CMAT, usually requiring a 80+ percentile score.
 
 **3. Which campus is better for Finance?**
 IMI Delhi is widely considered better for Finance due to its heavy recruitment cycles from top global investment banks.

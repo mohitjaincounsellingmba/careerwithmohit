@@ -15,7 +15,7 @@ While the final JoSAA 2026 seat matrix will be released in June, here is the app
 | Name of IIT | Tentative Total Seats |
 | :--- | :--- |
 | **IIT Kharagpur** | 1,900+ |
-| **IIT Bombay** | 1,350+ |
+| **[IIT Bombay](/colleges/iit-bombay)** | 1,350+ |
 | **IIT Delhi** | 1,200+ |
 | **IIT Madras** | 1,150+ |
 | **IIT Kanpur** | 1,200+ |

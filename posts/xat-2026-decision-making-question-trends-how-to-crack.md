@@ -53,7 +53,7 @@ Choose the option that offers a sustainable, long-term solution that minimizes d
 
 ## How Decision Making Affects XLRI Shortlists
 
-XLRI Jamshedpur evaluates candidates on both overall percentiles and strict **sectional cutoffs**. 
+[XLRI Jamshedpur](/colleges/xlri-jamshedpur) evaluates candidates on both overall percentiles and strict **sectional cutoffs**. 
 
 - For the Business Management (BM) program, the DM cutoff is typically around **75 to 80 percentile** for General category male candidates.
 - For the Human Resource Management (HRM) program, the DM cutoff is around **70 to 75 percentile**.

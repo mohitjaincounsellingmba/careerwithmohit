@@ -30,7 +30,7 @@ faqs:
       The primary college is NMIMS (Mumbai, Bengaluru, Hyderabad). Other top
       colleges include SPJIMR, ISB, VIT University, and XIMB.
 ---
-The **NMAT by GMAC** is one of the most strategic MBA entrance exams in India. While CAT focuses on deep logic, NMAT is a high-speed, adaptive test that requires a completely different approach. If you are aiming for **NMIMS Mumbai**, cracking the NMAT with a 235+ scaled score is your only ticket to the flagship MBA or HR programs.
+The **NMAT by GMAC** is one of the most strategic MBA entrance exams in India. While CAT focuses on deep logic, NMAT is a high-speed, adaptive test that requires a completely different approach. If you are aiming for **[NMIMS Mumbai](/colleges/nmims-mumbai)**, cracking the NMAT with a 235+ scaled score is your only ticket to the flagship MBA or HR programs.
 
 Are you ready for the speed challenge? Test your strategy with our **[Free NMAT 2026 Full-Length Mock Test](/tools/nmat-mock-test)**.
 

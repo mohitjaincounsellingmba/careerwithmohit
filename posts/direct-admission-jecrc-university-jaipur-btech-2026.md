@@ -36,7 +36,7 @@ This is the most searched question. Here is the honest answer:
 
 The university does have a **management quota** for a limited number of seats, but admission through this route still requires meeting the basic eligibility criteria. **Avoid unauthorized agents** claiming to guarantee seats — always deal directly with the JECRC admissions office.
 
-> **⚠️ Beware of Fraud**: Do not pay any agent or middleman for a "confirmed seat." Contact the official admissions team directly via the JECRC University website.
+> **⚠️ Beware of Fraud**: Do not pay any agent or middleman for a "confirmed seat." Contact the official admissions team directly via the [JECRC University](/colleges/jecrc-jaipur) website.
 
 ---
 

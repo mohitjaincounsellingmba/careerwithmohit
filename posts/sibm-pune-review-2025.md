@@ -31,7 +31,7 @@ The total academic fee for the 2025-27 batch is approximately **₹27.77 Lakhs**
 ### 1. What is the SNAP cutoff for [SIBM Pune](/colleges/sibm-pune)?
 For the MBA flagship program, the SNAP cutoff is typically **98.5+ percentile**.
 
-### 2. Is SIBM Pune better than IIMs?
+### 2. Is [SIBM Pune](/colleges/sibm-pune) better than IIMs?
 SIBM Pune is often compared to the **Top 10-15 IIMs** (New IIMs and some Old IIMs) due to its elite placement record and corporate reputation.
 
 ### 3. What is the total fee for SIBM Pune?

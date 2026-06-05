@@ -35,7 +35,7 @@ These colleges are globally ranked and offer the best corporate exposure in Fina
 - **Entrance Exam:** CAT (99+ Percentile)
 - **USP:** Excellent for Supply Chain, IT Management, and Analytical roles.
 
-### 4. NMIMS Mumbai (SBM)
+### 4. [NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)
 - **Status:** A massive private university with global recognition.
 - **Fees:** ₹24.0 Lakhs (Total)
 - **Average Placement:** ₹26.6 LPA

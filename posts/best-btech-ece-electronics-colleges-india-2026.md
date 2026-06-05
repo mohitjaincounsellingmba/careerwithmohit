@@ -51,7 +51,7 @@ This guide covers the **best B.Tech ECE colleges in India for 2026** with fees, 
 
 | IIT | ECE Closing Rank |
 |---|---|
-| IIT Bombay | ~700 |
+| [IIT Bombay](/colleges/iit-bombay) | ~700 |
 | IIT Delhi | ~850 |
 | IIT Madras | ~900 |
 | IIT Kanpur | ~1,200 |
@@ -93,7 +93,7 @@ This guide covers the **best B.Tech ECE colleges in India for 2026** with fees, 
 
 ## Top Private Colleges for ECE
 
-### 1. BITS Pilani (ECE)
+### 1. [BITS Pilani](/colleges/bits-pilani) (ECE)
 BITS Pilani's ECE programme is legendary for VLSI, RF, and telecom placements. The Practice School exposes students to Qualcomm, Texas Instruments, and semiconductor companies globally.
 
 - **BITSAT Score for ECE:** ~280+/390

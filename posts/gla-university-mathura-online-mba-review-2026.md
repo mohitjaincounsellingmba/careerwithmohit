@@ -35,7 +35,7 @@ The coursework isn't just theoretical. The [GLA University](/colleges/gla-univer
 A common myth about online MBAs is the lack of career support—but [GLA University](/colleges/gla-university) (Mathura) shatters this. The institution provides **dedicated placement assistance**, resume-building workshops, and mock interviews. The vast alumni network and corporate partnerships mean students get premium access to lucrative job opportunities across top MNCs.
 
 ### 4. Global Recognition and Credibility
-As an established and fully accredited institution, an online degree from GLA University (Mathura) carries immense weight in the corporate sector. Hiring managers highly value the proactive approach and time-management skills demonstrated by professionals who complete this rigorous program.
+As an established and fully accredited institution, an online degree from [GLA University](/colleges/gla-university) (Mathura) carries immense weight in the corporate sector. Hiring managers highly value the proactive approach and time-management skills demonstrated by professionals who complete this rigorous program.
 
 ---
 

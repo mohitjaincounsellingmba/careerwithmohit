@@ -33,27 +33,32 @@ function optimize() {
     let content = fs.readFileSync(postPath, 'utf8');
     let originalContent = content;
 
+    // Separate frontmatter from body to avoid replacing keywords/titles in YAML
+    const parts = content.split('---');
+    let frontmatter = '';
+    let body = content;
+    let hasFrontmatter = false;
+
+    if (parts.length >= 3 && content.trim().startsWith('---')) {
+      frontmatter = parts[1];
+      body = parts.slice(2).join('---');
+      hasFrontmatter = true;
+    }
+
     // Sort colleges by name length descending to avoid partial matches (e.g., "IMS" vs "IMS Noida")
     colleges.sort((a, b) => b.name.length - a.name.length);
 
     colleges.forEach(college => {
       // Avoid linking if already linked or in a heading
-      // This is a simple regex, could be improved
-      // We look for the name not preceded by [ and not followed by ]
-      // and also not part of another word
       const escapedName = college.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      
-      // Look for the name specifically when it's NOT inside a markdown link [text](url)
-      // and NOT inside a markdown heading #, ##, etc.
-      // Negative lookbehind for [ and negative lookahead for ]( are hard in JS regex without more complex logic
       
       // Simple approach: replace first occurrence that isn't already a link
       const regex = new RegExp(`(?<!\\[)${escapedName}(?!\\])`, 'g');
       
-      if (content.match(regex)) {
+      if (body.match(regex)) {
         // Only link the first occurrence
         let count = 0;
-        content = content.replace(regex, (match) => {
+        body = body.replace(regex, (match) => {
           if (count === 0) {
             count++;
             totalLinksAdded++;
@@ -63,6 +68,12 @@ function optimize() {
         });
       }
     });
+
+    if (hasFrontmatter) {
+      content = parts[0] + '---' + frontmatter + '---' + body;
+    } else {
+      content = body;
+    }
 
     if (content !== originalContent) {
       fs.writeFileSync(postPath, content);

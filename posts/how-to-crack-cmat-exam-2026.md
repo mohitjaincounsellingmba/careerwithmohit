@@ -6,7 +6,7 @@ description: "Planning to crack CMAT 2026? Learn how to tackle the Innovation & 
 keywords: ["how to crack cmat exam", "crack cmat 2026", "cmat preparation strategy", "cmat innovation and entrepreneurship", "cmat cutoff jbims", "score 99 percentile in cmat"]
 ---
 
-The Common Management Admission Test (CMAT) is a national-level entrance exam conducted by the National Testing Agency (NTA). It is one of the most popular MBA exams in India because its scores are accepted by over 1,000+ AICTE-approved B-schools. Additionally, CMAT is the primary gateway to the legendary **JBIMS Mumbai** (often called the CEO factory of India) for non-MH-CET candidates.
+The Common Management Admission Test (CMAT) is a national-level entrance exam conducted by the National Testing Agency (NTA). It is one of the most popular MBA exams in India because its scores are accepted by over 1,000+ AICTE-approved B-schools. Additionally, CMAT is the primary gateway to the legendary **[JBIMS Mumbai](/colleges/jbims-mumbai)** (often called the CEO factory of India) for non-MH-CET candidates.
 
 Unlike CAT or SNAP, CMAT is not a speed test. It provides a generous **180 minutes for 100 questions**. To crack CMAT 2026, the key focus is **absolute accuracy and mastering specialized sections**.
 

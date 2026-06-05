@@ -14,7 +14,7 @@ Here is the unfiltered data on all four BITS campuses for 2026 admissions:
 - **Establishment:** 1964 (Pilani Campus)
 - **Legacy & USP:** No reservation policy—admissions are 100% pure merit-based through BITSAT. The "0% Attendance Requirement" fosters massive entrepreneurial and extracurricular growth. The "Practice School (PS)" provides guaranteed paid internships at top MNCs.
 - **Campuses:**
-  - **BITS Pilani (The Original & Most Prestigious)**
+  - **[BITS Pilani](/colleges/bits-pilani) (The Original & Most Prestigious)**
   - **BITS Goa (K.K. Birla Campus)**
   - **BITS Hyderabad**
   - **BITS Dubai (Separate admission process via 12th Marks/SAT)**

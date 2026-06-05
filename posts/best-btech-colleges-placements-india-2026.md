@@ -48,7 +48,7 @@ IITs dominate because of:
 
 ---
 
-## Tier 2 — BITS Pilani: Best Private College Placements
+## Tier 2 — [BITS Pilani](/colleges/bits-pilani): Best Private College Placements
 
 BITS Pilani's **Practice School (PS)** programme is its biggest placement advantage — students spend 6 months at companies like Microsoft, Goldman Sachs, and Schlumberger before graduation, often converting to full-time offers.
 
@@ -109,7 +109,7 @@ Amazon, Adobe, Samsung, Qualcomm visit JIIT for Delhi NCR tech hiring. Strong CS
 |---|---|---|---|
 | CSE | ₹8–35 LPA | Very High | All IITs, BITS, NITs |
 | ECE | ₹7–24 LPA | High | IITs, BITS, NIT-T |
-| Electrical (EE) | ₹7–22 LPA | Medium | IIT Delhi, IIT Bombay |
+| Electrical (EE) | ₹7–22 LPA | Medium | IIT Delhi, [IIT Bombay](/colleges/iit-bombay) |
 | Mechanical | ₹5–18 LPA | Medium | IIT Bombay, NIT-T, BITS |
 | Civil | ₹4–14 LPA | Low (private) | IIT Roorkee, NIT-T |
 | Chemical | ₹5–15 LPA | Low | IIT Bombay, BITS Pilani |

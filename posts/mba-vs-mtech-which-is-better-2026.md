@@ -61,7 +61,7 @@ If you are already working and cannot commit to full-time on-campus classes, you
 The financial investment required for these two paths varies drastically.
 
 * **M.Tech ROI (Low Investment, Stable Return):** M.Tech programs in IITs and NITs are heavily subsidized by the government. The fees are low, and students who qualify through GATE receive a monthly stipend (approx. ₹12,400/month). This makes M.Tech virtually free or highly affordable, resulting in a fantastic ROI.
-* **MBA ROI (High Investment, High Reward):** Top B-schools (with the exception of FMS Delhi) charge substantial tuition fees, often ranging from ₹15 Lakhs to ₹28 Lakhs. Most students take out education loans. However, the starting placement packages at Tier-1 MBA colleges easily justify the cost, with average packages crossing ₹25 LPA.
+* **MBA ROI (High Investment, High Reward):** Top B-schools (with the exception of [FMS Delhi](/colleges/fms-delhi)) charge substantial tuition fees, often ranging from ₹15 Lakhs to ₹28 Lakhs. Most students take out education loans. However, the starting placement packages at Tier-1 MBA colleges easily justify the cost, with average packages crossing ₹25 LPA.
 
 ---
 

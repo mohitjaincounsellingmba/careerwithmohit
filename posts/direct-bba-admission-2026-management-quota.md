@@ -61,7 +61,7 @@ Yes. Private and Deemed universities are legally allowed to have a management or
 **Q2. does [Christ University Bangalore](/colleges/christ-university-bangalore) have management quota?**
 Christ University has a very limited "Institutional Preference" and "Management Quota." It is strictly based on high 12th marks and a personal interview with the management. Don't believe outside agents promising "guaranteed seats" for Christ.
 
-**Q3. can I get NMIMS Mumbai BBA through management quota?**
+**Q3. can I get [NMIMS Mumbai](/colleges/nmims-mumbai) BBA through management quota?**
 NMIMS has an **NRI and Corporate Quota**. The fees are significantly higher than the general merit fees. You must qualify for the minimum eligibility in 12th boards.
 
 **Q4. is the BBA degree different for management quota students?**

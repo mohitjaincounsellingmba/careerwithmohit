@@ -49,7 +49,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 
 | IIT | General Category Closing Rank (EE) |
 |---|---|
-| IIT Bombay | ~700 |
+| [IIT Bombay](/colleges/iit-bombay) | ~700 |
 | IIT Delhi | ~850 |
 | IIT Madras | ~1,000 |
 | IIT Kanpur | ~1,200 |

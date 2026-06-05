@@ -16,7 +16,7 @@ This expert-curated guide covers India's **best private B.Tech engineering colle
 
 | College | Location | Annual Fees | Avg Package | Entrance Exam |
 |---|---|---|---|---|
-| BITS Pilani (Pilani) | Rajasthan | ₹5.5 L | ₹15–22 LPA | BITSAT |
+| [BITS Pilani](/colleges/bits-pilani) (Pilani) | Rajasthan | ₹5.5 L | ₹15–22 LPA | BITSAT |
 | BITS Pilani (Goa) | Goa | ₹5.5 L | ₹14–20 LPA | BITSAT |
 | BITS Pilani (Hyderabad) | Telangana | ₹5.5 L | ₹15–20 LPA | BITSAT |
 | Thapar University | Punjab | ₹4.0 L | ₹10–18 LPA | JEE Main / Boards |

@@ -28,7 +28,7 @@ Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoff
 
 ## NMAT Cutoff (Expected 2026)
 
-- **NMIMS Mumbai (SBM):** 209+ overall | Sectional cutoff: 62 in each section (Language, Quantitative, Logical Reasoning)
+- **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM):** 209+ overall | Sectional cutoff: 62 in each section (Language, Quantitative, Logical Reasoning)
 - **NMIMS Navi Mumbai:** 200+ overall
 - **NMIMS Bengaluru:** 200+ overall
 - **NMIMS Hyderabad:** 200+ overall

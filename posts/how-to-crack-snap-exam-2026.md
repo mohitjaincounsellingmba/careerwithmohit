@@ -8,7 +8,7 @@ keywords: ["how to crack snap exam", "crack snap 2026", "snap speed strategy", "
 
 The Symbiosis National Aptitude Test (SNAP) is the absolute fastest management entrance exam in India. While exams like CAT and XAT give you 2 to 3 minutes per question, SNAP challenges you to solve **60 questions in just 60 minutes**. 
 
-It is the exclusive gateway to the prestigious MBA programs under Symbiosis International University, including the highly ranked **SIBM Pune** and **[SCMHRD Pune](/colleges/scmhrd-pune)**. 
+It is the exclusive gateway to the prestigious MBA programs under Symbiosis International University, including the highly ranked **[SIBM Pune](/colleges/sibm-pune)** and **[SCMHRD Pune](/colleges/scmhrd-pune)**. 
 
 To crack SNAP 2026, you must throw away standard exam strategies and adopt a pure speed-hacking approach.
 

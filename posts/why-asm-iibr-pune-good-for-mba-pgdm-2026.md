@@ -28,7 +28,7 @@ For students concerned about education loans, [ASM IIBR](/colleges/asm-iibr) off
 *   **Fees**: Generally between **₹5.50 Lakhs to ₹6.90 Lakhs** for PGDM/MBA, which is significantly lower than some high-intake "brand" colleges in Pune.
 
 ### **5. Centralized Placement Cell**
-Unlike standalone colleges, ASM IIBR students benefit from a **centralized placement cell** of the ASM Group. This means students get access to the corporate drive across the group, giving them a larger pool of companies to choose from, ranging from banking (ICICI, HDFC) to IT (TCS, Wipro) and FMCG (HUL, ITC).
+Unlike standalone colleges, [ASM IIBR](/colleges/asm-iibr) students benefit from a **centralized placement cell** of the ASM Group. This means students get access to the corporate drive across the group, giving them a larger pool of companies to choose from, ranging from banking (ICICI, HDFC) to IT (TCS, Wipro) and FMCG (HUL, ITC).
 
 ### **Comparison: MBA vs. PGDM at ASM IIBR**
 While both programs are strong, we generally recommend the **PGDM** at IIBR for students looking for more practical exposure and the **MBA (SPPU affiliated)** for those looking for a government-university degree at a lower cost.

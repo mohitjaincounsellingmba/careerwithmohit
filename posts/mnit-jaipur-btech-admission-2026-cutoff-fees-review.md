@@ -15,7 +15,7 @@ For the **2026 B.Tech admissions**, [MNIT Jaipur](/colleges/mnit-jaipur) will fi
 3.  **Seat Allotment**: Seats are allotted based on your JEE Main Rank, Category, and Home State/Other State quota.
 4.  **CSAB Special Rounds**: If seats remain vacant, they are filled through **CSAB Special Rounds** in August.
 
-### **MNIT Jaipur B.Tech Fees 2026**
+### **[MNIT Jaipur](/colleges/mnit-jaipur) B.Tech Fees 2026**
 MNIT Jaipur offers one of the most affordable high-quality engineering educations in India.
 
 | Fee Component | Approx. Annual Amount |

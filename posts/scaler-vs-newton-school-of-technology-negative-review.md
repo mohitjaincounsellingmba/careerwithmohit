@@ -70,7 +70,7 @@ While they show impressive "internship" data, the **full 4-year batch placement 
 | Feature | Scaler School of Tech | Newton School of Tech |
 | :--- | :--- | :--- |
 | **Main Con** | Small campus & Admin delays | Management mismatch & Strict rules |
-| **Degree Partner** | BITS Pilani / IIT Madras | GGU (USA) / Rishihood |
+| **Degree Partner** | [BITS Pilani](/colleges/bits-pilani) / IIT Madras | GGU (USA) / Rishihood |
 | **Fees** | ₹25L - ₹28L | ₹24L - ₹30L |
 | **Risk** | Parallel online degree validity | New institution credibility |
 

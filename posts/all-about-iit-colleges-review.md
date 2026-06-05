@@ -16,7 +16,7 @@ Here is a comprehensive overview of the IIT system focusing on the top-tier inst
 - **Top 5 Institutes (The "Old IITs"):**
   - IIT Madras (Consistent NIRF Rank #1)
   - IIT Delhi
-  - IIT Bombay
+  - [IIT Bombay](/colleges/iit-bombay)
   - IIT Kanpur
   - IIT Kharagpur
 

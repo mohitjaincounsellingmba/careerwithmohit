@@ -30,7 +30,7 @@ faqs:
       The primary college is NMIMS (Mumbai, Bengaluru, Hyderabad). Other top
       colleges include SPJIMR, ISB, VIT University, and XIMB.
 ---
-Are you targeting NMIMS Mumbai for the 2027 batch? If so, cracking the **NMAT by GMAC** is your primary hurdle. Unlike the CAT exam which tests deep conceptual knowledge and logic over hours, NMAT is a high-octane speed test. 
+Are you targeting [NMIMS Mumbai](/colleges/nmims-mumbai) for the 2027 batch? If so, cracking the **NMAT by GMAC** is your primary hurdle. Unlike the CAT exam which tests deep conceptual knowledge and logic over hours, NMAT is a high-octane speed test. 
 
 To help students adjust to this unique, adaptive format, we have launched our comprehensive, fully interactive **[Free NMAT 2026 Mock Test](/tools/nmat-mock-test)**!
 

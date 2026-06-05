@@ -5,7 +5,7 @@ description: "Aiming for [NMIMS Mumbai](/colleges/nmims-mumbai)? Learn the prove
 keywords: ["NMAT 2026 preparation strategy", "how to score 240 in NMAT", "NMAT exam pattern 2026", "NMIMS Mumbai NMAT cutoff", "NMAT adaptive test strategy", "best NMAT mock tests"]
 ---
 
-The NMAT by GMAC™ is one of the most student-friendly entrance exams in India, but don't let its "friendly" reputation fool you. To get into the prestigious **NMIMS Mumbai**, you need a score of **240+** (scaled), which requires a unique blend of speed, accuracy, and strategic decision-making.
+The NMAT by GMAC™ is one of the most student-friendly entrance exams in India, but don't let its "friendly" reputation fool you. To get into the prestigious **[NMIMS Mumbai](/colleges/nmims-mumbai)**, you need a score of **240+** (scaled), which requires a unique blend of speed, accuracy, and strategic decision-making.
 
 Since NMAT is an **adaptive test**, your performance on each question determines the difficulty of the next. Here is your definitive roadmap to mastering NMAT 2026.
 

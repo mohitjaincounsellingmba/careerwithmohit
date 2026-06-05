@@ -41,7 +41,7 @@ The #2 ROI choice in Mumbai. Affiliated with Mumbai University.
 - **Total Fees:** ~₹1.4 Lakhs for 2 years.
 - **Avg. Package:** ₹15 LPA+. That is a 10x return!
 
-### 3. SJMSOM, IIT Bombay
+### 3. SJMSOM, [IIT Bombay](/colleges/iit-bombay)
 Located inside the scenic Powai campus. Best for those with an engineering background wanting a tech-management blend.
 - **Avg. Package:** ₹28 Lakhs+.
 
@@ -53,7 +53,7 @@ Located inside the scenic Powai campus. Best for those with an engineering backg
 A non-IIM that consistently ranks among India's Top 5 B-schools. It places heavy weight on **profile and extracurriculars** rather than just exam scores.
 - **USP:** Autumn Internships and Global Fast Track (GFT) programs.
 
-### 5. NMIMS Mumbai (Vile Parle)
+### 5. [NMIMS Mumbai](/colleges/nmims-mumbai) (Vile Parle)
 The pioneer of the NMAT exam. NMIMS offers one of the largest batches in India with incredibly strong results in **Banking & Financial Services (BFSI)** and **FMCG**.
 
 ---

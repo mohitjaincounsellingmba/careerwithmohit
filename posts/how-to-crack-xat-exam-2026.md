@@ -6,7 +6,7 @@ description: "Looking to crack XAT 2026? Learn how to master the Decision Making
 keywords: ["how to crack xat exam", "crack xat 2026", "xat decision making strategy", "xat preparation strategy", "xlri cutoff xat", "score 95 percentile in xat"]
 ---
 
-The Xavier Aptitude Test (XAT) is widely considered one of the most intellectually demanding management exams in India. Conducted by XLRI Jamshedpur, XAT is the sole gateway to the prestigious XLRI campuses and over 150+ other premium business schools like XIMB, IMT Ghaziabad, and GIM Goa. 
+The Xavier Aptitude Test (XAT) is widely considered one of the most intellectually demanding management exams in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XAT is the sole gateway to the prestigious XLRI campuses and over 150+ other premium business schools like XIMB, IMT Ghaziabad, and GIM Goa. 
 
 While CAT tests pure speed and structure, XAT evaluates **holistic thinking, ethical reasoning, and endurance** through its unique sections and longer test duration.
 
