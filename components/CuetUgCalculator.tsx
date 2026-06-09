@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X, Plus, Trash2 } from "lucide-react";
+import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X, Plus, Trash2, ShieldCheck } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
 
 interface Subject {
@@ -25,6 +25,12 @@ export function CuetUgCalculator() {
 
     // Response Sheet URL State
     const [responseSheetUrl, setResponseSheetUrl] = useState("");
+    const [isAnalyzing, setIsAnalyzing] = useState(false);
+    const [analysisResult, setAnalysisResult] = useState<any>(null);
+    const [verifications, setVerifications] = useState<Record<string, 'correct' | 'incorrect' | null>>({});
+    const [pageSource, setPageSource] = useState("");
+    const [isParsing, setIsParsing] = useState(false);
+    const [parseError, setParseError] = useState("");
 
     // Lead Form State
     const [showLeadForm, setShowLeadForm] = useState(false);
@@ -57,7 +63,105 @@ export function CuetUgCalculator() {
         }));
     };
 
+    const handleAnalyzeUrl = async () => {
+        if (!responseSheetUrl) return alert("Please paste a URL first.");
+        
+        setIsAnalyzing(true);
+        setParseError("");
+        setAnalysisResult(null);
+        setVerifications({});
+
+        try {
+            const res = await fetch('/api/analyze-link', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ url: responseSheetUrl })
+            });
+
+            const result = await res.json();
+            
+            if (!res.ok) throw new Error(result.error || "Analysis failed");
+
+            setAnalysisResult(result.data);
+            setCalculationMethod("url");
+            
+            const verif = document.getElementById('verification-grid');
+            if (verif) verif.scrollIntoView({ behavior: 'smooth' });
+        } catch (err: any) {
+            setParseError(err.message);
+        } finally {
+            setIsAnalyzing(false);
+        }
+    };
+
+    const toggleVerification = (qId: string, status: 'correct' | 'incorrect') => {
+        setVerifications(prev => {
+            const current = prev[qId];
+            const next = current === status ? null : status;
+            return { ...prev, [qId]: next };
+        });
+    };
+
+    const handleParseSource = async () => {
+        if (!pageSource) return alert("Please paste page source first.");
+        setIsParsing(true);
+        setParseError("");
+        try {
+            const html = pageSource;
+            const questionMatches = Array.from(html.matchAll(/Question ID ?: ?<\/td><td[^>]*>(\d+)<\/td>/g)).map(m => m[1]);
+            const statusMatches = Array.from(html.matchAll(/Status ?: ?<\/td><td[^>]*>(Answered|Not Answered|Marked for Review)<\/td>/g)).map(m => m[1]);
+            const optionMatches = Array.from(html.matchAll(/Chosen Option ?: ?<\/td><td[^>]*>(.*?)<\/td>/g)).map(m => m[1].replace(/&nbsp;/g, '').trim());
+
+            if (questionMatches.length === 0) {
+                throw new Error("No question data found. Please ensure you copied the full page source.");
+            }
+
+            const answeredCount = statusMatches.filter(s => s === 'Answered').length;
+
+            setAnalysisResult({
+                totalFetched: questionMatches.length,
+                answeredCount: answeredCount,
+                unansweredCount: questionMatches.length - answeredCount,
+                questions: questionMatches.map((mid, i) => ({
+                    questionId: mid,
+                    status: statusMatches[i] || 'Unknown',
+                    chosenOption: optionMatches[i] || '--'
+                }))
+            });
+
+            setCalculationMethod("url");
+            
+            const verif = document.getElementById('verification-grid');
+            if (verif) verif.scrollIntoView({ behavior: 'smooth' });
+        } catch (err: any) {
+            setParseError(err.message || "Failed to parse source.");
+        } finally {
+            setIsParsing(false);
+        }
+    };
+
     const stats = useMemo(() => {
+        if (calculationMethod === "url" && analysisResult) {
+            const correctCount = Object.values(verifications).filter(v => v === 'correct').length;
+            const incorrectCount = Object.values(verifications).filter(v => v === 'incorrect').length;
+            const score = (correctCount * 5) - (incorrectCount * 1);
+            const maxMarks = 800; // Common target for DU
+            const attempted = correctCount + incorrectCount;
+            const accuracy = attempted > 0 ? (correctCount / attempted) * 100 : 0;
+            
+            let percentile = 0;
+            const percentage = (score / maxMarks) * 100;
+            if (percentage >= 95) percentile = 99.9;
+            else if (percentage >= 90) percentile = 99.0;
+            else if (percentage >= 85) percentile = 95.0;
+            else if (percentage >= 75) percentile = 90.0;
+            else if (percentage >= 60) percentile = 80.0;
+            else if (percentage >= 50) percentile = 70.0;
+            else percentile = 50.0;
+
+            return { score, maxMarks, percentile, accuracy };
+        }
+
         let totalScore = 0;
         let totalMaxMarks = 0;
         let totalAttempted = 0;
@@ -75,7 +179,7 @@ export function CuetUgCalculator() {
 
         // Percentile prediction (Approximation based on 2024/25 trends)
         let percentile = 0;
-        const percentage = (totalScore / totalMaxMarks) * 100;
+        const percentage = totalMaxMarks > 0 ? (totalScore / totalMaxMarks) * 100 : 0;
         
         if (percentage >= 95) percentile = 99.9;
         else if (percentage >= 90) percentile = 99.0;
@@ -88,10 +192,15 @@ export function CuetUgCalculator() {
         const accuracy = totalAttempted > 0 ? (totalCorrect / totalAttempted) * 100 : 0;
 
         return { score: totalScore, maxMarks: totalMaxMarks, percentile, accuracy };
-    }, [subjects]);
+    }, [subjects, calculationMethod, analysisResult, verifications]);
 
     const reset = () => {
         setSubjects([{ id: "1", name: "Language / Domain 1", type: "domain", correct: "", incorrect: "" }]);
+        setResponseSheetUrl("");
+        setPageSource("");
+        setAnalysisResult(null);
+        setVerifications({});
+        setCalculationMethod("manual");
     };
 
     const handleLeadSubmit = async (e: React.FormEvent) => {
@@ -150,29 +259,123 @@ export function CuetUgCalculator() {
                         <h3 className="text-xl font-black uppercase tracking-tight text-foreground">Option 1: Auto-Calculate via Response Sheet</h3>
                     </div>
 
-                    <div className="mb-8">
-                        <label className="block text-xs font-black uppercase text-slate-500 mb-2">Paste your NTA Response Sheet URL here</label>
-                        <div className="flex flex-col md:flex-row gap-4">
-                            <input
-                                type="url"
-                                value={responseSheetUrl}
-                                onChange={(e) => setResponseSheetUrl(e.target.value)}
-                                placeholder="https://cdn3.digialm.com///per/g01/pub/..."
-                                className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all text-foreground"
+                    <div className="space-y-6">
+                        <div>
+                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: Submit Response Sheet URL (Instant Scan)</label>
+                            <div className="flex flex-col md:flex-row gap-4 mb-4">
+                                <input
+                                    type="url"
+                                    value={responseSheetUrl}
+                                    onChange={(e) => setResponseSheetUrl(e.target.value)}
+                                    placeholder="https://cdn3.digialm.com///per/g01/pub/..."
+                                    className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all text-foreground"
+                                />
+                                <button
+                                    onClick={handleAnalyzeUrl}
+                                    disabled={isAnalyzing}
+                                    className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
+                                >
+                                    {isAnalyzing ? "Scanning..." : "Analyze URL"}
+                                </button>
+                            </div>
+
+                            {parseError && <p className="text-rose-600 font-black text-xs uppercase mb-4 flex items-center gap-2">
+                                <AlertCircle className="w-4 h-4" />
+                                {parseError}
+                            </p>}
+
+                            {analysisResult && (
+                                <div id="verification-grid" className="bg-white border-4 border-primary p-4 animate-in slide-in-from-top-4 duration-500 mb-6 text-foreground">
+                                    <div className="flex flex-wrap items-center justify-between gap-x-4 gap-y-2 mb-6 border-b-2 border-slate-100 pb-4">
+                                        <div className="flex flex-wrap items-center gap-3 text-[10px] md:text-xs font-black uppercase">
+                                            <div className="flex items-center gap-1.5 text-primary">
+                                                <Zap className="w-4 h-4" />
+                                                {analysisResult.answeredCount} Answered
+                                            </div>
+                                            <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
+                                            <div className="flex items-center gap-1.5 text-emerald-600">
+                                                <ShieldCheck className="w-4 h-4" />
+                                                {Object.values(verifications).filter(v => v === 'correct').length} Correct
+                                            </div>
+                                            <div className="w-1.5 h-1.5 bg-slate-200 rounded-full hidden md:block"></div>
+                                            <div className="flex items-center gap-1.5 text-rose-600">
+                                                <X className="w-4 h-4 text-rose-500" />
+                                                {Object.values(verifications).filter(v => v === 'incorrect').length} Incorrect
+                                            </div>
+                                        </div>
+                                        <button 
+                                            onClick={() => {
+                                                const c = Math.floor(analysisResult.answeredCount * 0.9);
+                                                const i = analysisResult.answeredCount - c;
+                                                const newVerif: Record<string, 'correct' | 'incorrect'> = {};
+                                                analysisResult.questions.filter((q: any) => q.status === 'Answered').forEach((q: any, idx: number) => {
+                                                    newVerif[q.questionId] = idx < c ? 'correct' : 'incorrect';
+                                                });
+                                                setVerifications(newVerif);
+                                            }}
+                                            className="text-[10px] font-black bg-primary text-white px-3 py-1 uppercase hover:bg-black transition-colors"
+                                        >
+                                            Quick Estimate (90% Acc)
+                                        </button>
+                                    </div>
+
+                                    <div className="max-h-[300px] overflow-y-auto mb-6 pr-2 custom-scrollbar">
+                                        <div className="grid grid-cols-1 gap-2">
+                                            {analysisResult.questions.filter((q: any) => q.status === 'Answered').map((q: any, idx: number) => (
+                                                <div key={q.questionId} className="flex items-center justify-between p-3 border-2 border-slate-100 hover:border-primary/20 transition-colors bg-slate-50/50">
+                                                    <div className="flex items-center gap-4">
+                                                        <span className="text-[10px] font-black text-slate-400 w-6">#{idx + 1}</span>
+                                                        <div>
+                                                            <div className="text-[10px] font-black uppercase text-slate-500">QID: {q.questionId}</div>
+                                                            <div className="text-xs font-bold">Your Opt: <span className="text-primary font-black">{q.chosenOption}</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <div className="flex gap-2">
+                                                        <button 
+                                                            onClick={() => toggleVerification(q.questionId, 'correct')}
+                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'correct' ? 'bg-green-500 border-green-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-green-500'}`}
+                                                        >
+                                                            <Zap className="w-4 h-4" />
+                                                        </button>
+                                                        <button 
+                                                            onClick={() => toggleVerification(q.questionId, 'incorrect')}
+                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'incorrect' ? 'bg-rose-500 border-rose-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-rose-500'}`}
+                                                        >
+                                                            <X className="w-4 h-4" />
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            ))}
+                                        </div>
+                                    </div>
+                                    <p className="text-[10px] font-bold text-slate-400 leading-tight uppercase text-center italic">
+                                        *TIPS: Quickly Mark Correct/Incorrect from key to see final score in real-time below.
+                                    </p>
+                                </div>
+                            )}
+                        </div>
+
+                        <div className="h-px bg-slate-200"></div>
+
+                        <div>
+                            <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method B: Paste Page Source (Instant Attempt Summary)</label>
+                            <textarea
+                                value={pageSource}
+                                onChange={(e) => setPageSource(e.target.value)}
+                                placeholder="Backup: Instructions: Open Sheet -> View Page Source -> Copy all -> Paste here."
+                                className="w-full h-24 bg-white border-4 border-foreground p-4 font-bold text-sm focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all mb-4 text-foreground"
                             />
                             <button
-                                onClick={() => {
-                                    setCalculationMethod("url");
-                                    setShowLeadForm(true);
-                                }}
-                                className="bg-primary text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+                                onClick={handleParseSource}
+                                disabled={isParsing}
+                                className="w-full bg-slate-800 text-white border-4 border-foreground px-8 py-4 font-black uppercase hover:bg-black transition-colors shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] disabled:opacity-50"
                             >
-                                Submit URL
+                                {isParsing ? "Scanning Source..." : "Parse My Attempts"}
                             </button>
                         </div>
                     </div>
 
-                    <div className="border-t-2 border-slate-200 pt-6">
+                    <div className="border-t-2 border-slate-200 pt-6 mt-6">
                         <button
                             onClick={(e) => {
                                 const el = (e.currentTarget.nextElementSibling as HTMLElement);
@@ -292,7 +495,6 @@ export function CuetUgCalculator() {
                         {!isUnlocked && !showLeadForm && (
                             <button
                                 onClick={() => {
-                                    setCalculationMethod("manual");
                                     setShowLeadForm(true);
                                 }}
                                 className="w-full bg-foreground text-white border-4 border-primary px-8 py-5 text-xl font-black uppercase hover:bg-black transition-all shadow-[8px_8px_0px_0px_rgba(37,99,235,1)] flex items-center justify-center gap-3"
@@ -317,7 +519,6 @@ export function CuetUgCalculator() {
                                         <p className="text-slate-400 font-bold mb-8">Submit your details to unlock your full score and predicted percentile.</p>
                                         <button
                                             onClick={() => {
-                                                setCalculationMethod("manual");
                                                 setShowLeadForm(true);
                                             }}
                                             className="bg-primary text-white border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-white hover:text-primary transition-all shadow-[8px_8px_0px_0px_rgba(255,255,255,0.2)]"
@@ -393,26 +594,6 @@ export function CuetUgCalculator() {
                                     </form>
                                 )}
                             </div>
-                        ) : calculationMethod === "url" ? (
-                            <div className="bg-blue-600 text-white p-10 border-b-[12px] border-foreground relative overflow-hidden animate-in fade-in zoom-in duration-500 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-                                <div className="absolute top-0 right-0 p-4 opacity-10">
-                                    <Zap className="w-40 h-40" />
-                                </div>
-                                <div className="relative z-10 text-center space-y-6">
-                                    <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-4 animate-spin">
-                                        <RefreshCw className="w-8 h-8 text-white relative z-10" />
-                                    </div>
-                                    <h3 className="text-2xl md:text-3xl font-black uppercase mb-2 leading-tight">
-                                        Parsing UG Response Sheet...
-                                    </h3>
-                                    <p className="text-white/80 font-bold text-sm md:text-base leading-relaxed border-t-2 border-white/20 pt-6">
-                                        We have received your NTA CUET UG Response Sheet URL. Our engine is calculating subject-wise scores based on the latest answer keys.
-                                    </p>
-                                    <div className="bg-black/30 p-4 rounded-xl border-2 border-white/10 text-sm font-black tracking-widest uppercase">
-                                        We will WhatsApp your detailed report shortly! 🎓
-                                    </div>
-                                </div>
-                            </div>
                         ) : (
                             <div className="bg-foreground text-white p-10 border-b-[12px] border-primary relative overflow-hidden animate-in fade-in zoom-in duration-500">
                                 <div className="absolute top-0 right-0 p-4 opacity-10">
@@ -424,12 +605,17 @@ export function CuetUgCalculator() {
                                     </span>
                                     <div className="text-8xl font-black mb-2">{stats.score}</div>
                                     <div className="text-xl font-bold text-slate-400">out of {stats.maxMarks} marks</div>
+                                    {calculationMethod === "url" && (
+                                        <p className="text-xs text-slate-300 mt-4 italic">
+                                            *Scanned from response sheet. Mark each question Correct/Incorrect in the verification grid above to update.
+                                        </p>
+                                    )}
                                 </div>
                             </div>
                         )}
 
                         <div className="grid grid-cols-2 gap-6">
-                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(255,193,7,1)] transition-all ${!isUnlocked ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Target className="w-4 h-4" />
                                     Accuracy
@@ -437,7 +623,7 @@ export function CuetUgCalculator() {
                                 <div className="text-3xl font-black text-foreground">{stats.accuracy.toFixed(1)}%</div>
                             </div>
 
-                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${(!isUnlocked || calculationMethod === "url") ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
+                            <div className={`bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] transition-all ${!isUnlocked ? "blur-sm grayscale pointer-events-none opacity-50" : ""}`}>
                                 <div className="flex items-center gap-2 text-xs font-black uppercase text-slate-500 mb-2">
                                     <Trophy className="w-4 h-4" />
                                     Percentile
