@@ -26,28 +26,35 @@ export async function POST(req: NextRequest) {
 
         const html = await response.text();
 
-        // More robust patterns matching the specific bold class structure
-        const questionMatches = Array.from(html.matchAll(/Question ID ?: ?<\/td><td[^>]*>(\d+)<\/td>/g)).map(m => m[1]);
-        const statusMatches = Array.from(html.matchAll(/Status ?: ?<\/td><td[^>]*>(Answered|Not Answered|Marked for Review)<\/td>/g)).map(m => m[1]);
-        const optionMatches = Array.from(html.matchAll(/Chosen Option ?: ?<\/td><td[^>]*>(.*?)<\/td>/g)).map(m => m[1].replace(/&nbsp;/g, '').trim());
+        const segments = html.split(/Question\s*ID\s*:/i);
+        const questionBlocks = segments.slice(1);
 
-        if (questionMatches.length === 0) {
+        const questionsList = questionBlocks.map((block) => {
+            const idMatch = block.match(/(?:<\/td>\s*<td[^>]*>)?\s*(\d+)/i);
+            const questionId = idMatch ? idMatch[1] : 'Unknown';
+
+            const statusMatch = block.match(/Status\s*:\s*(?:<\/td>\s*<td[^>]*>)?\s*([^<>\n\r]+?)\s*(?:<\/td>)?(?:\s*<|\s*\n|\s*\r|$)/i);
+            const status = statusMatch ? statusMatch[1].replace(/&nbsp;/g, '').trim() : 'Unknown';
+
+            const optionMatch = block.match(/Chosen\s*Option\s*:\s*(?:<\/td>\s*<td[^>]*>)?\s*([^<>\n\r]+?)\s*(?:<\/td>)?(?:\s*<|\s*\n|\s*\r|$)/i);
+            const chosenOption = optionMatch ? optionMatch[1].replace(/&nbsp;/g, '').trim() : '--';
+
+            return { questionId, status, chosenOption };
+        }).filter(q => q.questionId !== 'Unknown');
+
+        if (questionsList.length === 0) {
             return NextResponse.json({ error: 'No question data found. Please ensure you are pasting the correct Response Sheet URL.' }, { status: 400 });
         }
 
-        const answeredCount = statusMatches.filter(s => s === 'Answered').length;
+        const answeredCount = questionsList.filter(q => q.status === 'Answered').length;
 
         return NextResponse.json({
             success: true,
             data: {
-                totalFetched: questionMatches.length,
+                totalFetched: questionsList.length,
                 answeredCount: answeredCount,
-                unansweredCount: questionMatches.length - answeredCount,
-                questions: questionMatches.map((mid, i) => ({
-                    questionId: mid,
-                    status: statusMatches[i] || 'Unknown',
-                    chosenOption: optionMatches[i] || '--'
-                }))
+                unansweredCount: questionsList.length - answeredCount,
+                questions: questionsList
             }
         });
 
