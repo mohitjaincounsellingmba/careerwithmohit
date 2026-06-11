@@ -8,6 +8,7 @@
   --accent: #F59E0B; /* Amber 500 */
   --muted: #F3F4F6; /* Gray 100 */
   --border: #E5E7EB; /* Gray 200 */
+  --primary-brand: #F47062; /* Coral red brand color from KollegeApply */
 }
 
 @theme inline {
@@ -18,6 +19,7 @@
   --color-accent: var(--accent);
   --color-muted: var(--muted);
   --color-border-subtle: var(--border);
+  --color-primary-brand: var(--primary-brand);
   --font-display: var(--font-outfit);
   --font-body: var(--font-outfit);
 }
