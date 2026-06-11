@@ -1,4 +1,7 @@
 export const USA_COLLEGES = [
+  { name: 'Duke University', location: 'Durham, North Carolina', programs: ['CS, MBA, Biomedical Eng.', 'Undergraduate & Graduate'], website: 'duke.edu', country: 'USA', fee: '₹70,50,000 / yr', feeNum: 7050000 },
+  { name: 'Boston University', location: 'Boston, Massachusetts', programs: ['Data Science, Comm, Econ', 'Undergraduate & Graduate'], website: 'bu.edu', country: 'USA', fee: '₹68,00,000 / yr', feeNum: 6800000 },
+  { name: 'Tufts University', location: 'Medford/Somerville, Massachusetts', programs: ['IR, Engineering, Medicine', 'Undergraduate & Graduate'], website: 'tufts.edu', country: 'USA', fee: '₹69,70,000 / yr', feeNum: 6970000 },
   { name: 'University of Connecticut', location: 'Storrs, Connecticut', programs: ['Public Ivy'], website: 'uconn.edu', country: 'USA', fee: '₹31,50,000 / yr', feeNum: 3150000 },
   { name: 'MAHE & American University of Antigua', location: 'Udupi, India → Antigua', programs: ['Medical programs (BSc → MD, Pre-Med → MD)'], website: 'auamed.org', country: 'USA', fee: '₹18,00,000 / yr', feeNum: 1800000 },
   { name: 'Johns Hopkins University', location: 'Baltimore, Maryland', programs: ['School of Engineering – PG only'], website: 'jhu.edu', country: 'USA', fee: '₹49,80,000 / yr', feeNum: 4980000 },
