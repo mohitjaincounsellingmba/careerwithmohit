@@ -26,27 +26,42 @@ export async function POST(req: NextRequest) {
 
         const html = await response.text();
 
-        const segments = html.split(/Question\s*ID\s*:/i);
+        // Split by question-pnl class to correctly associate Q numbers with question details
+        const segments = html.split(/<div\s+class="question-pnl"/i);
         const questionBlocks = segments.slice(1);
 
         const questionsList = questionBlocks.map((block) => {
-            const idMatch = block.match(/(?:<\/td>\s*<td[^>]*>)?\s*(\d+)/i);
+            // Extract Q. number label (like Q.1, Q.2, etc.)
+            const qNumMatch = block.match(/Q\.\s*(\d+)/i);
+            const qNum = qNumMatch ? qNumMatch[1] : 'Unknown';
+
+            // Extract Question ID
+            const idMatch = block.match(/Question\s*ID\s*:\s*(?:<\/td>\s*<td[^>]*>)?\s*(\d+)/i);
             const questionId = idMatch ? idMatch[1] : 'Unknown';
 
+            // Extract Status
             const statusMatch = block.match(/Status\s*:\s*(?:<\/td>\s*<td[^>]*>)?\s*([^<>\n\r]+?)\s*(?:<\/td>)?(?:\s*<|\s*\n|\s*\r|$)/i);
             const status = statusMatch ? statusMatch[1].replace(/&nbsp;/g, '').trim() : 'Unknown';
 
+            // Extract Chosen Option
             const optionMatch = block.match(/Chosen\s*Option\s*:\s*(?:<\/td>\s*<td[^>]*>)?\s*([^<>\n\r]+?)\s*(?:<\/td>)?(?:\s*<|\s*\n|\s*\r|$)/i);
             const chosenOption = optionMatch ? optionMatch[1].replace(/&nbsp;/g, '').trim() : '--';
 
-            return { questionId, status, chosenOption };
+            return { qNum, questionId, status, chosenOption };
         }).filter(q => q.questionId !== 'Unknown');
 
         if (questionsList.length === 0) {
             return NextResponse.json({ error: 'No question data found. Please ensure you are pasting the correct Response Sheet URL.' }, { status: 400 });
         }
 
-        const answeredCount = questionsList.filter(q => q.status === 'Answered').length;
+        // A question is answered if status contains 'answered' or chosenOption is not '--'
+        const isAnswered = (status: string, chosenOption: string) => {
+            const s = status.toLowerCase();
+            const opt = chosenOption.trim();
+            return s.includes('answered') || (opt !== '--' && opt !== '');
+        };
+
+        const answeredCount = questionsList.filter(q => isAnswered(q.status, q.chosenOption)).length;
 
         return NextResponse.json({
             success: true,

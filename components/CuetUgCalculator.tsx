@@ -108,11 +108,15 @@ export function CuetUgCalculator() {
         setParseError("");
         try {
             const html = pageSource;
-            const segments = html.split(/Question\s*ID\s*:/i);
+            // Split by question-pnl class to correctly associate Q numbers with question details
+            const segments = html.split(/<div\s+class="question-pnl"/i);
             const questionBlocks = segments.slice(1);
 
             const questionsList = questionBlocks.map((block) => {
-                const idMatch = block.match(/(?:<\/td>\s*<td[^>]*>)?\s*(\d+)/i);
+                const qNumMatch = block.match(/Q\.\s*(\d+)/i);
+                const qNum = qNumMatch ? qNumMatch[1] : 'Unknown';
+
+                const idMatch = block.match(/Question\s*ID\s*:\s*(?:<\/td>\s*<td[^>]*>)?\s*(\d+)/i);
                 const questionId = idMatch ? idMatch[1] : 'Unknown';
 
                 const statusMatch = block.match(/Status\s*:\s*(?:<\/td>\s*<td[^>]*>)?\s*([^<>\n\r]+?)\s*(?:<\/td>)?(?:\s*<|\s*\n|\s*\r|$)/i);
@@ -121,14 +125,20 @@ export function CuetUgCalculator() {
                 const optionMatch = block.match(/Chosen\s*Option\s*:\s*(?:<\/td>\s*<td[^>]*>)?\s*([^<>\n\r]+?)\s*(?:<\/td>)?(?:\s*<|\s*\n|\s*\r|$)/i);
                 const chosenOption = optionMatch ? optionMatch[1].replace(/&nbsp;/g, '').trim() : '--';
 
-                return { questionId, status, chosenOption };
+                return { qNum, questionId, status, chosenOption };
             }).filter(q => q.questionId !== 'Unknown');
 
             if (questionsList.length === 0) {
                 throw new Error("No question data found. Please ensure you copied the full page source.");
             }
 
-            const answeredCount = questionsList.filter(q => q.status === 'Answered').length;
+            const isAnswered = (status: string, chosenOption: string) => {
+                const s = status.toLowerCase();
+                const opt = chosenOption.trim();
+                return s.includes('answered') || (opt !== '--' && opt !== '');
+            };
+
+            const answeredCount = questionsList.filter(q => isAnswered(q.status, q.chosenOption)).length;
 
             setAnalysisResult({
                 totalFetched: questionsList.length,
@@ -153,7 +163,29 @@ export function CuetUgCalculator() {
             const correctCount = Object.values(verifications).filter(v => v === 'correct').length;
             const incorrectCount = Object.values(verifications).filter(v => v === 'incorrect').length;
             const score = (correctCount * 5) - (incorrectCount * 1);
-            const maxMarks = subjects.reduce((sum, s) => sum + (s.type === "domain" ? 200 : 250), 0) || 800;
+            
+            // Calculate max marks dynamically from parsed sections
+            let sectionsCount = 0;
+            let currentSectionQsCount = 0;
+            let lastNum = 0;
+            let parsedSections: number[] = [];
+            
+            analysisResult.questions.forEach((q: any) => {
+                const num = parseInt(q.qNum) || 0;
+                if (num <= lastNum && num !== 0) {
+                    if (currentSectionQsCount > 0) {
+                        parsedSections.push(currentSectionQsCount);
+                    }
+                    currentSectionQsCount = 0;
+                }
+                currentSectionQsCount++;
+                lastNum = num;
+            });
+            if (currentSectionQsCount > 0) {
+                parsedSections.push(currentSectionQsCount);
+            }
+            
+            const maxMarks = parsedSections.reduce((sum, count) => sum + (count >= 55 ? 250 : 200), 0) || 200;
             const attempted = correctCount + incorrectCount;
             const accuracy = attempted > 0 ? (correctCount / attempted) * 100 : 0;
             
@@ -201,6 +233,36 @@ export function CuetUgCalculator() {
 
         return { score: totalScore, maxMarks: totalMaxMarks, percentile, accuracy };
     }, [subjects, calculationMethod, analysisResult, verifications]);
+
+    const groupedQuestions = useMemo(() => {
+        if (!analysisResult || !analysisResult.questions) return [];
+        
+        let sections: { name: string; questions: any[] }[] = [];
+        let lastNum = 0;
+        let currentSectionQs: any[] = [];
+        
+        analysisResult.questions.forEach((q: any) => {
+            const num = parseInt(q.qNum) || 0;
+            if (num <= lastNum && num !== 0) {
+                if (currentSectionQs.length > 0) {
+                    sections.push({
+                        name: `Subject / Section ${sections.length + 1}`,
+                        questions: currentSectionQs
+                    });
+                }
+                currentSectionQs = [];
+            }
+            currentSectionQs.push(q);
+            lastNum = num;
+        });
+        if (currentSectionQs.length > 0) {
+            sections.push({
+                name: `Subject / Section ${sections.length + 1}`,
+                questions: currentSectionQs
+            });
+        }
+        return sections;
+    }, [analysisResult]);
 
     const reset = () => {
         setSubjects([{ id: "1", name: "Language / Domain 1", type: "domain", correct: "", incorrect: "" }]);
@@ -316,7 +378,12 @@ export function CuetUgCalculator() {
                                                 const c = Math.floor(analysisResult.answeredCount * 0.9);
                                                 const i = analysisResult.answeredCount - c;
                                                 const newVerif: Record<string, 'correct' | 'incorrect'> = {};
-                                                analysisResult.questions.filter((q: any) => q.status === 'Answered').forEach((q: any, idx: number) => {
+                                                const isAnswered = (status: string, chosenOption: string) => {
+                                                    const s = status.toLowerCase();
+                                                    const opt = chosenOption.trim();
+                                                    return s.includes('answered') || (opt !== '--' && opt !== '');
+                                                };
+                                                analysisResult.questions.filter((q: any) => isAnswered(q.status, q.chosenOption)).forEach((q: any, idx: number) => {
                                                     newVerif[q.questionId] = idx < c ? 'correct' : 'incorrect';
                                                 });
                                                 setVerifications(newVerif);
@@ -327,34 +394,53 @@ export function CuetUgCalculator() {
                                         </button>
                                     </div>
 
-                                    <div className="max-h-[300px] overflow-y-auto mb-6 pr-2 custom-scrollbar">
-                                        <div className="grid grid-cols-1 gap-2">
-                                            {analysisResult.questions.filter((q: any) => q.status === 'Answered').map((q: any, idx: number) => (
-                                                <div key={q.questionId} className="flex items-center justify-between p-3 border-2 border-slate-100 hover:border-primary/20 transition-colors bg-slate-50/50">
-                                                    <div className="flex items-center gap-4">
-                                                        <span className="text-[10px] font-black text-slate-400 w-6">#{idx + 1}</span>
-                                                        <div>
-                                                            <div className="text-[10px] font-black uppercase text-slate-500">QID: {q.questionId}</div>
-                                                            <div className="text-xs font-bold">Your Opt: <span className="text-primary font-black">{q.chosenOption}</span></div>
-                                                        </div>
+                                    <div className="max-h-[400px] overflow-y-auto mb-6 pr-2 custom-scrollbar space-y-6">
+                                        {groupedQuestions.map((section, sIdx) => {
+                                            const isAnswered = (status: string, chosenOption: string) => {
+                                                const s = status.toLowerCase();
+                                                const opt = chosenOption.trim();
+                                                return s.includes('answered') || (opt !== '--' && opt !== '');
+                                            };
+                                            const answeredInSec = section.questions.filter((q: any) => isAnswered(q.status, q.chosenOption));
+                                            
+                                            if (answeredInSec.length === 0) return null;
+                                            
+                                            return (
+                                                <div key={sIdx} className="space-y-2">
+                                                    <div className="bg-slate-100 border-2 border-foreground px-3 py-2 text-xs font-black uppercase tracking-tight text-foreground flex justify-between">
+                                                        <span>{section.name}</span>
+                                                        <span className="text-primary">{answeredInSec.length} / {section.questions.length} Qs Answered</span>
                                                     </div>
-                                                    <div className="flex gap-2">
-                                                        <button 
-                                                            onClick={() => toggleVerification(q.questionId, 'correct')}
-                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'correct' ? 'bg-green-500 border-green-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-green-500'}`}
-                                                        >
-                                                            <Zap className="w-4 h-4" />
-                                                        </button>
-                                                        <button 
-                                                            onClick={() => toggleVerification(q.questionId, 'incorrect')}
-                                                            className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'incorrect' ? 'bg-rose-500 border-rose-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-rose-500'}`}
-                                                        >
-                                                            <X className="w-4 h-4" />
-                                                        </button>
+                                                    <div className="grid grid-cols-1 gap-2">
+                                                        {answeredInSec.map((q: any) => (
+                                                            <div key={q.questionId} className="flex items-center justify-between p-3 border-2 border-slate-100 hover:border-primary/20 transition-colors bg-slate-50/50">
+                                                                <div className="flex items-center gap-4">
+                                                                    <span className="text-[10px] font-black text-slate-400 w-8">#{q.qNum}</span>
+                                                                    <div>
+                                                                        <div className="text-[10px] font-black uppercase text-slate-500">QID: {q.questionId}</div>
+                                                                        <div className="text-xs font-bold">Your Opt: <span className="text-primary font-black">{q.chosenOption}</span></div>
+                                                                    </div>
+                                                                </div>
+                                                                <div className="flex gap-2">
+                                                                    <button 
+                                                                        onClick={() => toggleVerification(q.questionId, 'correct')}
+                                                                        className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'correct' ? 'bg-green-500 border-green-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-green-500'}`}
+                                                                    >
+                                                                        <Zap className="w-4 h-4" />
+                                                                    </button>
+                                                                    <button 
+                                                                        onClick={() => toggleVerification(q.questionId, 'incorrect')}
+                                                                        className={`p-2 border-2 transition-all ${verifications[q.questionId] === 'incorrect' ? 'bg-rose-500 border-rose-600 text-white' : 'bg-white border-slate-200 text-slate-300 hover:text-rose-500'}`}
+                                                                    >
+                                                                        <X className="w-4 h-4" />
+                                                                    </button>
+                                                                </div>
+                                                            </div>
+                                                        ))}
                                                     </div>
                                                 </div>
-                                            ))}
-                                        </div>
+                                            );
+                                        })}
                                     </div>
                                     <p className="text-[10px] font-bold text-slate-400 leading-tight uppercase text-center italic">
                                         *TIPS: Quickly Mark Correct/Incorrect from key to see final score in real-time below.
