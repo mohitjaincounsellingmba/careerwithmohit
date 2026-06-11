@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import AuthClient from "./AuthClient";
 
 export const metadata: Metadata = {
@@ -12,6 +13,7 @@ export const metadata: Metadata = {
 export default function AuthPage() {
   return (
     <div className="mx-auto max-w-7xl px-6 py-12 sm:px-12">
+      <Script src="https://accounts.google.com/gsi/client" strategy="beforeInteractive" />
       <AuthClient />
     </div>
   );
