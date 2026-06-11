@@ -41,7 +41,7 @@ Even for the institutional category, [IMI Delhi](/colleges/imi-delhi) maintains 
 
 ### Frequently Asked Questions (FAQ)
 
-### 1. Is there a management quota in IMI Delhi?
+### 1. Is there a management quota in [IMI Delhi](/colleges/imi-delhi)?
 Yes, IMI Delhi has provision for institutional quota seats which are filled transparently based on merit and profile assessment.
 
 ### 2. Does IMI Delhi accept CMAT scores?

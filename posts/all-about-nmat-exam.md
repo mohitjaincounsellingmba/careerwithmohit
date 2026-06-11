@@ -44,7 +44,7 @@ Unlike CAT, NMAT has equal weightage and an equal number of questions per sectio
 
 NMIMS evaluates candidates based on overall scaled scores as well as strict sectional cutoffs.
 
-- **NMIMS Mumbai (Flagship MBA / Core HR):** 235 - 245+ Score
+- **[NMIMS Mumbai](/colleges/nmims-mumbai) (Flagship MBA / Core HR):** 235 - 245+ Score
 - **[NMIMS Bangalore](/colleges/nmims-bangalore) / Navi Mumbai:** 220 - 230+ Score
 - **K. J. Somaiya (Mumbai), XIMB (HR Program):** 225+ Score
 - **TAPMI Manipal, Great Lakes, SOIL Gurgaon:** 200 - 215+ Score

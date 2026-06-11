@@ -64,7 +64,7 @@ This section is highly scoring.
 ## 💡 3. Key Tips to Score 340+ in CMAT 2026
 
 *   **Patience is Key:** With 3 hours for 100 questions, time pressure is non-existent. Take your time to calculate, check options, and double-verify answers before submitting.
-*   **The 99.9 Percentile Rule:** Because CMAT is relatively easy, the competition at the top is fierce. To get into JBIMS Mumbai, you need to score around **340+ marks out of 400**.
+*   **The 99.9 Percentile Rule:** Because CMAT is relatively easy, the competition at the top is fierce. To get into [JBIMS Mumbai](/colleges/jbims-mumbai), you need to score around **340+ marks out of 400**.
 *   **GK & I&E First:** Complete these two sections in the first 25 minutes. This leaves you with a massive 155 minutes to solve the 60 questions of Quant, LR, and English.
 
 ---

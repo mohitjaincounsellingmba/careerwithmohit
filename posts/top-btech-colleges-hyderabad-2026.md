@@ -62,7 +62,7 @@ One of the oldest and most respected state engineering colleges in Andhra Prades
 ## Tier 2 — Top Private/Deemed Universities
 
 ### 4. [BITS Pilani](/colleges/bits-pilani) – Hyderabad Campus
-BITS Pilani's Hyderabad campus shares the same curriculum, brand, and placement network as the Pilani campus. Highly recommended for students targeting software, analytics, and research.
+[BITS Pilani](/colleges/bits-pilani)'s Hyderabad campus shares the same curriculum, brand, and placement network as the Pilani campus. Highly recommended for students targeting software, analytics, and research.
 
 - **Courses:** B.E. (CSE, ECE, Chemical, Mechanical, EEE, Civil) + Dual Degree
 - **Admission:** BITSAT 2026 (score typically needed: 290+ for CSE)

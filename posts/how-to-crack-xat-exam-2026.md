@@ -65,7 +65,7 @@ This section is generally considered more wordy and logic-intensive than CAT.
 
 | College | Expected Cutoff (Percentile) | Key Specializations |
 |:---|:---:|:---|
-| **XLRI Jamshedpur** | 93.0 - 96.0+ | HR Management (World-Class), Business Management |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | 93.0 - 96.0+ | HR Management (World-Class), Business Management |
 | **XIMB (Bhubaneswar)** | 90.0+ | Business Management, Human Resources |
 | **IMT Ghaziabad** | 90.0+ | Marketing, Finance, IT |
 | **Goa Institute of Management (GIM)** | 85.0+ | Big Data Analytics, Healthcare Management |

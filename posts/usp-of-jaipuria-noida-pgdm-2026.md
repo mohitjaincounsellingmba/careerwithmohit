@@ -98,7 +98,7 @@ Jaipuria's pedagogy is built around 360-degree student development:
 
 ### 8. 🤝 Strong BFSI Placement Pipeline — 25–40% of Batch
 
-Jaipuria Noida has one of the strongest **BFSI (Banking, Financial Services & Insurance)** placement pipelines among private B-schools:
+[Jaipuria Noida](/colleges/jaipuria-noida) has one of the strongest **BFSI (Banking, Financial Services & Insurance)** placement pipelines among private B-schools:
 - Regular recruiters include HDFC Bank, ICICI Bank, BNY Mellon, Bajaj Allianz, and BlackRock
 - Finance and Banking specialization is particularly strong
 - Students targeting **investment banking, corporate banking, or insurance** have a clear pathway

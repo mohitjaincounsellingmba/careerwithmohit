@@ -40,7 +40,7 @@ The university does have a **management quota** for a limited number of seats, b
 
 ---
 
-### **JECRC University B.Tech Admission Process 2026 (Step-by-Step)**
+### **[JECRC University](/colleges/jecrc-jaipur) B.Tech Admission Process 2026 (Step-by-Step)**
 
 1. **Apply Online**: Visit [jecrcuniversity.edu.in](https://jecrcuniversity.edu.in) and pay the ₹850 application fee.
 2. **Submit Scores**: Provide your JEE Main score or 12th board percentage.

@@ -8,7 +8,7 @@ keywords: ["nmims mumbai bba admission 2026", "asmsoc nmims fees", "nmims npat s
 
 The Anil Surendra Modi School of Commerce (ASMSOC) at [NMIMS Mumbai](/colleges/nmims-mumbai) is widely considered one of the top private BBA colleges in India. Located in the financial capital, it offers students unparalleled access to the corporate world through guest lectures, internships, and a modern curriculum.
 
-## 🏛️ Why Choose NMIMS Mumbai (ASMSOC) in 2026?
+## 🏛️ Why Choose [NMIMS Mumbai](/colleges/nmims-mumbai) (ASMSOC) in 2026?
 NMIMS is famous for its **"Corporate Readiness"** program. The BBA here is not just about textbooks; it’s about networking and professional grooming.
 - **Strategic Location:** Situated in Vile Parle, Mumbai, close to India's biggest corporate offices.
 - **Industry Exposure:** Compulsory internships and industry projects every semester.

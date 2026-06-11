@@ -58,7 +58,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 | IIT Guwahati | ~3,500 |
 | IIT Hyderabad | ~4,000 |
 
-> **Note:** IIT Bombay EE is consistently one of the most coveted programmes after CSE, attracting students from the top 1,000 JEE Advanced ranks.
+> **Note:** [IIT Bombay](/colleges/iit-bombay) EE is consistently one of the most coveted programmes after CSE, attracting students from the top 1,000 JEE Advanced ranks.
 
 ---
 

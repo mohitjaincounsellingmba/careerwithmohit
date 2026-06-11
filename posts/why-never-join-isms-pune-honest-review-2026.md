@@ -24,7 +24,7 @@ While the curriculum is theoretically sound, students have voiced concerns about
 ### **5. Internal Politics and Student Management**
 Negative reviews on platforms like Quora and Careers360 often mention internal campus politics. Students have reported that the administration can be rigid, and feedback regarding improvements in the canteen or placement process is not always handled constructively.
 
-### **Comparison: ISMS Pune vs. Alternatives**
+### **Comparison: [ISMS Pune](/colleges/isms-pune) vs. Alternatives**
 Before finalizing ISMS, compare it with other mid-tier colleges in Pune that might offer better stability:
 
 | Feature | ISMS Pune | Better Alternatives (e.g., PUMBA/PIBM) |

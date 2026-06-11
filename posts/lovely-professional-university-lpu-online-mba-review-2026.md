@@ -14,7 +14,7 @@ keywords: ["LPU online MBA review 2026", "LPU Online MBA fees 2026", "lpuonline.
 
 | Feature | Details |
 | :--- | :--- |
-| **University** | Lovely Professional University (LPU), Phagwara |
+| **University** | [Lovely Professional University](/colleges/lovely-professional-university) (LPU), Phagwara |
 | **NAAC Grade** | **A++ (Score: 3.68/4 — Highest)** |
 | **UGC-DEB Approved** | ✅ Yes |
 | **NIRF Ranked** | ✅ Yes (Top private universities list) |

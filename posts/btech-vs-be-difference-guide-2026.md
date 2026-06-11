@@ -59,7 +59,7 @@ In some traditional manufacturing or R&D roles, a B.E. might be seen as having a
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. is BITS Pilani B.E. degree less valuable than IIT B.Tech?**
+**Q1. is [BITS Pilani](/colleges/bits-pilani) B.E. degree less valuable than IIT B.Tech?**
 ABSOLUTELY NOT. BITS Pilani is one of the top 3 engineering hubs in India. Its B.E. degree is highly prestigious and globally recognized. The nomenclature "B.E." is simply a legacy of how the university was founded.
 
 **Q2. does B.E. have more subjects than B.Tech?**

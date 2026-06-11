@@ -46,7 +46,7 @@ Not everyone can crack the highly competitive JEE Advanced. Fortunately, India i
 If you are looking for the **best private B.Tech colleges**, these should be on your radar:
 
 ### 🥇 1. [BITS Pilani](/colleges/bits-pilani) (Birla Institute of Technology and Science)
-BITS Pilani is arguably the only private engineering college that rivals the top 5 IITs. It boasts a massive alumni network, 0% attendance policy, and world-class coding culture.
+[BITS Pilani](/colleges/bits-pilani) is arguably the only private engineering college that rivals the top 5 IITs. It boasts a massive alumni network, 0% attendance policy, and world-class coding culture.
 - **Exams Accepted:** BITSAT
 - **Fees:** ~₹20-22 Lakhs
 - **Top Specialization:** Computer Science, Electronics

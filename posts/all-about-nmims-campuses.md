@@ -45,7 +45,7 @@ Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoff
 
 ---
 
-### 1. NMIMS Mumbai (Vile Parle West, Mumbai – The Flagship)
+### 1. [NMIMS Mumbai](/colleges/nmims-mumbai) (Vile Parle West, Mumbai – The Flagship)
 
 **Fee Structure (2-Year MBA):**
 - Total Tuition Fees: ₹25.50 Lakhs – ₹27.00 Lakhs

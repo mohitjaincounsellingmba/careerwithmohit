@@ -81,7 +81,7 @@ This guide covers the **best B.Tech Mechanical Engineering colleges in India for
 ## Best Private Colleges for Mechanical Engineering
 
 ### 1. [BITS Pilani](/colleges/bits-pilani) (Mechanical Engineering)
-BITS Pilani's ME programme is renowned for its strong mathematics and manufacturing foundation. The Practice School (PS) industrial training places students directly in engineering companies.
+[BITS Pilani](/colleges/bits-pilani)'s ME programme is renowned for its strong mathematics and manufacturing foundation. The Practice School (PS) industrial training places students directly in engineering companies.
 
 - **Avg ME Package:** ₹10–18 LPA
 - **Top Recruiters:** Schlumberger (now SLB), ONGC, L&T, Siemens, Honeywell
@@ -127,7 +127,7 @@ GATE (Graduate Aptitude Test in Engineering) is the gateway to government PSU jo
 Yes, especially with the EV revolution, defence modernisation (HAL, DRDO), aerospace (Airbus, SpaceX India), and growing PSU hiring. ME remains a high-value branch for students interested in core engineering.
 
 **Q2. Which IIT is best for Mechanical Engineering?**
-IIT Bombay, IIT Delhi, and IIT Madras are the top 3 IITs for Mechanical Engineering based on research output, faculty, and placements.
+[IIT Bombay](/colleges/iit-bombay), IIT Delhi, and IIT Madras are the top 3 IITs for Mechanical Engineering based on research output, faculty, and placements.
 
 **Q3. Which NIT is best for Mechanical Engineering?**
 NIT Tiruchirappalli (NIT-T) is consistently the top NIT for ME, followed by NIT Warangal and NIT Surathkal.

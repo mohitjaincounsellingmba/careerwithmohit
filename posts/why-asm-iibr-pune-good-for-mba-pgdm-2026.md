@@ -30,7 +30,7 @@ For students concerned about education loans, [ASM IIBR](/colleges/asm-iibr) off
 ### **5. Centralized Placement Cell**
 Unlike standalone colleges, [ASM IIBR](/colleges/asm-iibr) students benefit from a **centralized placement cell** of the ASM Group. This means students get access to the corporate drive across the group, giving them a larger pool of companies to choose from, ranging from banking (ICICI, HDFC) to IT (TCS, Wipro) and FMCG (HUL, ITC).
 
-### **Comparison: MBA vs. PGDM at ASM IIBR**
+### **Comparison: MBA vs. PGDM at [ASM IIBR](/colleges/asm-iibr)**
 While both programs are strong, we generally recommend the **PGDM** at IIBR for students looking for more practical exposure and the **MBA (SPPU affiliated)** for those looking for a government-university degree at a lower cost.
 
 ### **Explore More About ASM Group:**

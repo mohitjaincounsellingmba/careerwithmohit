@@ -67,7 +67,7 @@ If you don't secure a top rank in JEE Main or BITSAT, several top-tier private u
 For **Pure Coding and Software Development**, IIIT Hyderabad holds a slight edge. For **Overall Brand and Diversity**, NIT Trichy is preferred by many public sector and core engineering giants.
 
 **Q2. What is a "Safe Rank" for CSE in Top IITs?**
-To get CSE at IIT Bombay or Delhi, you generally need an **AIR under 100-200** in JEE Advanced. For mid-tier IITs, ranks up to 800-1,200 are acceptable.
+To get CSE at [IIT Bombay](/colleges/iit-bombay) or Delhi, you generally need an **AIR under 100-200** in JEE Advanced. For mid-tier IITs, ranks up to 800-1,200 are acceptable.
 
 **Q3. Do private colleges have high CSE packages?**
 Yes. Colleges like **[BITS Pilani](/colleges/bits-pilani), RVCE Bangalore, and DA-IICT** consistently place their CSE graduates in the ₹15L - ₹30L bracket.

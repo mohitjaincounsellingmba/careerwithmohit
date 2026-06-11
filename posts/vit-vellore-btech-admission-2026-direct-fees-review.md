@@ -17,7 +17,7 @@ Unlike many private universities, [VIT Vellore](/colleges/vit-vellore) strictly 
 *Note: Appearing for VITEEE is mandatory for all Indian nationals seeking admission to the B.Tech program.*
 
 ### **The Truth About Direct Admission in [VIT Vellore](/colleges/vit-vellore)**
-Many students search for "**direct admission in VIT Vellore**" or "**management quota in VIT**." Here is the official status:
+Many students search for "**direct admission in [VIT Vellore](/colleges/vit-vellore)**" or "**management quota in VIT**." Here is the official status:
 1.  **No Direct Admission without VITEEE**: VIT does not offer seats based purely on 12th board marks for Indian students. Every student must have a valid VITEEE rank.
 2.  **Management Quota (Category Admissions)**: VIT uses a unique sliding fee scale (Categories 1 to 5). While there is no "formal" management quota, students with lower VITEEE ranks can still secure a seat by opting for **higher fee categories (Category 4 or 5)**.
 3.  **NRI & Foreign Quota**: Candidates under the NRI/Foreign category can apply directly on the VIT portal without appearing for VITEEE, provided they meet the eligibility criteria.

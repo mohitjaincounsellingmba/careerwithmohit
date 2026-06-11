@@ -61,7 +61,7 @@ This guide covers the **best B.Tech ECE colleges in India for 2026** with fees, 
 | IIT Hyderabad | ~4,500 |
 | IIT BHU Varanasi | ~5,500 |
 
-> IIT Bombay EE/ECE is one of India's most sought-after programmes — producing VLSI engineers at Qualcomm, RF engineers at Apple, and research scientists at Google.
+> [IIT Bombay](/colleges/iit-bombay) EE/ECE is one of India's most sought-after programmes — producing VLSI engineers at Qualcomm, RF engineers at Apple, and research scientists at Google.
 
 ---
 
@@ -94,7 +94,7 @@ This guide covers the **best B.Tech ECE colleges in India for 2026** with fees, 
 ## Top Private Colleges for ECE
 
 ### 1. [BITS Pilani](/colleges/bits-pilani) (ECE)
-BITS Pilani's ECE programme is legendary for VLSI, RF, and telecom placements. The Practice School exposes students to Qualcomm, Texas Instruments, and semiconductor companies globally.
+[BITS Pilani](/colleges/bits-pilani)'s ECE programme is legendary for VLSI, RF, and telecom placements. The Practice School exposes students to Qualcomm, Texas Instruments, and semiconductor companies globally.
 
 - **BITSAT Score for ECE:** ~280+/390
 - **Annual Fee:** ₹5.5 Lakhs | **Avg Package:** ₹12–20 LPA

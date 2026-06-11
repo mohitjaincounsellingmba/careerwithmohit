@@ -30,7 +30,7 @@ While CAT is known for high conceptual difficulty and strict sectional time limi
 Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XAT is considered the second-most prestigious MBA entrance exam in India. It is highly concept-driven and features a unique **Decision Making** section that evaluates business ethics and managerial logic.
 
 *   **Held In:** January (Once a year)
-*   **Top Colleges:** XLRI Jamshedpur, XIMB Bhubaneswar, IMT Ghaziabad, GIM Goa, Great Lakes Chennai, TAPMI Manipal.
+*   **Top Colleges:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XIMB Bhubaneswar, IMT Ghaziabad, GIM Goa, Great Lakes Chennai, TAPMI Manipal.
 *   **Key Cutoffs:** 95-96+ Percentile for XLRI Business Management (BM), 93-94+ for Human Resource Management (HRM).
 
 ### 2. NMAT by GMAC
@@ -38,14 +38,14 @@ The mandatory entrance test for Narsee Monjee Institute of Management Studies (N
 
 *   **Held In:** October to December (Up to 3 attempts)
 *   **Top Colleges:** [NMIMS Mumbai](/colleges/nmims-mumbai) (Flagship), NMIMS Bengaluru, K. J. Somaiya Mumbai, XIMB (HR program only).
-*   **Key Cutoffs:** 235 - 245+ scaled score for NMIMS Mumbai core MBA.
+*   **Key Cutoffs:** 235 - 245+ scaled score for [NMIMS Mumbai](/colleges/nmims-mumbai) core MBA.
 
 ### 3. SNAP (Symbiosis National Aptitude Test)
 A 60-minute, speed-based MCQ exam conducted for entry into the 16 management institutes under Symbiosis International University (SIU).
 
 *   **Held In:** December (Up to 3 attempts)
 *   **Top Colleges:** [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore).
-*   **Key Cutoffs:** 97.5 - 98.5+ Percentile for SIBM Pune flagship MBA; 96+ Percentile for SCMHRD.
+*   **Key Cutoffs:** 97.5 - 98.5+ Percentile for [SIBM Pune](/colleges/sibm-pune) flagship MBA; 96+ Percentile for SCMHRD.
 
 ### 4. CMAT (Common Management Admission Test)
 CMAT is an AICTE-approved national test conducted by the National Testing Agency (NTA). It features 100 questions to be solved in 3 hours, offering ample time per question.
@@ -58,7 +58,7 @@ CMAT is an AICTE-approved national test conducted by the National Testing Agency
 A state-level exam conducted by Maharashtra's CET Cell. While it is highly favorable for Maharashtra state candidates, it provides All India (AI) seats for top-tier colleges.
 
 *   **Held In:** March / May (Once a year)
-*   **Top Colleges:** JBIMS Mumbai, SIMSREE, [PUMBA Pune](/colleges/pumba-pune), Welingkar Mumbai.
+*   **Top Colleges:** [JBIMS Mumbai](/colleges/jbims-mumbai), SIMSREE, [PUMBA Pune](/colleges/pumba-pune), Welingkar Mumbai.
 *   **Key Cutoffs:** 99.9+ Percentile for All-India candidates aiming for JBIMS Mumbai.
 
 ---

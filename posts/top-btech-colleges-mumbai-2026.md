@@ -16,7 +16,7 @@ This guide covers the **top B.Tech colleges in Mumbai for 2026** with verified f
 
 | College | Type | Annual Fees | Avg Package | Entrance Exam |
 |---|---|---|---|---|
-| IIT Bombay | Government (IIT) | ₹2.5 L/yr | ₹22–35 LPA | JEE Advanced |
+| [IIT Bombay](/colleges/iit-bombay) | Government (IIT) | ₹2.5 L/yr | ₹22–35 LPA | JEE Advanced |
 | VJTI Mumbai | Government (Autonomous) | ₹0.25 L/yr | ₹7–12 LPA | MHT CET / JEE Main |
 | SPCE (SPIT) | Government Aided | ₹0.30 L/yr | ₹6–10 LPA | MHT CET |
 | DJ Sanghvi | Private Aided | ₹0.35 L/yr | ₹6–10 LPA | MHT CET |

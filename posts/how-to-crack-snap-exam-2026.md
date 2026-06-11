@@ -14,7 +14,7 @@ To crack SNAP 2026, you must throw away standard exam strategies and adopt a pur
 
 ---
 
-### [InquiryCard title="Targeting SIBM Pune or SCMHRD?" description="Maximize your speed and accuracy for SNAP 2026. Get expert tips, shortcuts, and mock test access under the guidance of Mohit Jain." cta="Book Free Counselling Slot" type="admission"]
+### [InquiryCard title="Targeting [SIBM Pune](/colleges/sibm-pune) or SCMHRD?" description="Maximize your speed and accuracy for SNAP 2026. Get expert tips, shortcuts, and mock test access under the guidance of Mohit Jain." cta="Book Free Counselling Slot" type="admission"]
 
 ---
 

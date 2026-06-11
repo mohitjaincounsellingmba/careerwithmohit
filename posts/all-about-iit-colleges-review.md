@@ -53,7 +53,7 @@ IITs attract global tech giants, high-frequency trading (HFT) firms, and top-tie
 ## Student Reviews & Verdict
 
 **What Students Say:**
-- **Pros:** The peer group is the absolute best in the country. The brand value is permanent; the tag "IITian" opens doors globally. World-class research facilities, massive 500+ acre green campuses, and iconic cultural fests (like Mood Indigo at IIT Bombay).
+- **Pros:** The peer group is the absolute best in the country. The brand value is permanent; the tag "IITian" opens doors globally. World-class research facilities, massive 500+ acre green campuses, and iconic cultural fests (like Mood Indigo at [IIT Bombay](/colleges/iit-bombay)).
 - **Cons:** Extremely high pressure and a toxic competitive environment for grading. The curriculum in some older branches can feel outdated compared to the fast-paced tech industry.
 
 **Our Verdict:** There is no debate. If you clear JEE Advanced with a rank good enough for an old IIT or even a core branch in a newer IIT (like Hyderabad, Indore, or BHU), you take it. The ROI, the networking, and the respect commanded by the IIT tag are unparalleled.

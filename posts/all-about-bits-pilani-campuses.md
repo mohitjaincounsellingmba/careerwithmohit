@@ -43,7 +43,7 @@ Here is the unfiltered data on all four BITS campuses for 2026 admissions:
 
 ## Placement Statistics (2025-2026)
 
-BITS Pilani operates parallel to top IITs, bringing the absolute best tech and finance firms to all three Indian campuses.
+[BITS Pilani](/colleges/bits-pilani) operates parallel to top IITs, bringing the absolute best tech and finance firms to all three Indian campuses.
 
 - **Highest Placement Package:** ₹1.40 Crores+ (International) / ₹60.00 LPA+ (Domestic)
 - **Average Placement Package:** 

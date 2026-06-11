@@ -41,7 +41,7 @@ As an established and fully accredited institution, an online degree from [GLA U
 
 ## 💼 Career Outcomes & ROI
 
-By choosing the GLA University (Mathura) Online MBA, you are setting yourself up for an outstanding **Return on Investment (ROI)**. The program is cost-effective compared to traditional on-campus alternatives, yet it yields similar, if not equivalent, salary hikes, promotions, and career pivots into leadership roles.
+By choosing the [GLA University](/colleges/gla-university) (Mathura) Online MBA, you are setting yourself up for an outstanding **Return on Investment (ROI)**. The program is cost-effective compared to traditional on-campus alternatives, yet it yields similar, if not equivalent, salary hikes, promotions, and career pivots into leadership roles.
 
 ---
 

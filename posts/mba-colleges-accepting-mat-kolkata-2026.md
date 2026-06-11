@@ -62,7 +62,7 @@ Spacious campus with diverse PGDM options and strong student support facilities.
 
 ## 💡 Crucial Tips for MAT Admissions in Kolkata
 
-1. IMI Kolkata is the premier private institute accepting MAT in Eastern India.
+1. [IMI Kolkata](/colleges/imi-kolkata) is the premier private institute accepting MAT in Eastern India.
 1. Many colleges in Kolkata offer specialized training programs in logistics, banking, and retail.
 1. Confirm application dates early, as Kolkata colleges usually fill seats by July.
 

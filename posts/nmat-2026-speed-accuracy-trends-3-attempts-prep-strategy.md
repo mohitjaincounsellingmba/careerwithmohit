@@ -77,7 +77,7 @@ To make the most of this policy, schedule your attempts as follows:
 - **Goal:** Last-mile effort.
 - **Benefit:** Taken after the CAT exam. You will be at your peak academic level, making this the best time to maximize your score.
 
-*Note: Some institutes (including NMIMS Mumbai) only accept the **first attempt score** for specific programs, while others accept the best score. Check the latest college guidelines before planning your attempts.*
+*Note: Some institutes (including [NMIMS Mumbai](/colleges/nmims-mumbai)) only accept the **first attempt score** for specific programs, while others accept the best score. Check the latest college guidelines before planning your attempts.*
 
 To evaluate your readiness, take our [Free NMAT Mock Test](/blog/free-nmat-mock-test-2026-nmims-prep) or check our [NMAT 2026 Preparation Guide](/blog/nmat-2026-preparation-strategy-240-score).
 

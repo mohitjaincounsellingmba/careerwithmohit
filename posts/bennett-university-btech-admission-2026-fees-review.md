@@ -51,7 +51,7 @@ Bennett offers generous scholarships up to 100% of the tuition fee for high achi
 [👉 Get Expert Admission Support for [Bennett University](/colleges/bennett-greater-noida)!](/inquiry)
 
 ### **Frequently Asked Questions (FAQ)**
-**1. Is Bennett University worth the high fees?**
+**1. Is [Bennett University](/colleges/bennett-greater-noida) worth the high fees?**
 If your goal is top-tier placement and a global tech environment, Bennett offers excellent ROI with its massive industry connections.
 
 **2. Can I get a 100% scholarship at Bennett?**

@@ -43,7 +43,7 @@ XAT is known for its lengthy reading passages and its unique inclusion of an ess
 ## Expected Cut-offs (Percentile)
 
 - **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Business Management):** 96.0+ Percentile (Male) / 91.0+ Percentile (Female)
-- **XLRI Jamshedpur (Human Resource Management):** 93.0+ Percentile (Male) / 90.0+ Percentile (Female)
+- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Human Resource Management):** 93.0+ Percentile (Male) / 90.0+ Percentile (Female)
 - **XIMB, IMT Ghaziabad, IMI New Delhi:** 90.0+ Percentile
 - **GIM Goa, Great Lakes Chennai, TAPMI:** 80.0+ to 85.0+ Percentile
 

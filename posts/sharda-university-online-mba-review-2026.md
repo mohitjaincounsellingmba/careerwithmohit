@@ -41,7 +41,7 @@ As an established and fully accredited institution, an online degree from [Shard
 
 ## 💼 Career Outcomes & ROI
 
-By choosing the Sharda University Online MBA, you are setting yourself up for an outstanding **Return on Investment (ROI)**. The program is cost-effective compared to traditional on-campus alternatives, yet it yields similar, if not equivalent, salary hikes, promotions, and career pivots into leadership roles.
+By choosing the [Sharda University](/colleges/sharda-greater-noida) Online MBA, you are setting yourself up for an outstanding **Return on Investment (ROI)**. The program is cost-effective compared to traditional on-campus alternatives, yet it yields similar, if not equivalent, salary hikes, promotions, and career pivots into leadership roles.
 
 ---
 

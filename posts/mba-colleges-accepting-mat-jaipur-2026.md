@@ -62,7 +62,7 @@ Extremely cost-effective college with excellent local industry networking.
 
 ## 💡 Crucial Tips for MAT Admissions in Jaipur
 
-1. Jaipuria Jaipur is the premier management college in the city; keep it as your primary choice if scoring above 70 percentile.
+1. [Jaipuria Jaipur](/colleges/jaipuria-jaipur) is the premier management college in the city; keep it as your primary choice if scoring above 70 percentile.
 1. Living expenses in Jaipur are significantly lower than in Delhi or Mumbai, which helps overall budget planning.
 1. Confirm the AIU approval status of the colleges to ensure your PGDM is equivalent to an MBA.
 

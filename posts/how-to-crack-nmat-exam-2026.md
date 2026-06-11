@@ -12,7 +12,7 @@ To crack NMAT 2026, you need a strategy tailored specifically to its **computer-
 
 ---
 
-### [InquiryCard title="Aiming for NMIMS Mumbai?" description="Learn how to score 240+ on your first attempt. Speak with Mohit Jain for NMAT exam strategy, scheduling tips, and profile evaluation." cta="Schedule Free Counselling Session" type="admission"]
+### [InquiryCard title="Aiming for [NMIMS Mumbai](/colleges/nmims-mumbai)?" description="Learn how to score 240+ on your first attempt. Speak with Mohit Jain for NMAT exam strategy, scheduling tips, and profile evaluation." cta="Schedule Free Counselling Session" type="admission"]
 
 ---
 

@@ -40,7 +40,7 @@ This guide breaks it all down — clearly and honestly.
 
 - **Location is a career accelerator:** Electronics City is home to Infosys, Wipro, Tech Mahindra, Bosch, and hundreds of MNCs. Proximity means more live projects, internships, and recruiter walk-ins.
 - **Stronger legacy & alumni network:** 35+ years of alumni spread across top Indian and global companies gives [XIME Bangalore](/colleges/xime-bangalore) a deeper corporate connect.
-- **PGDM in Business Analytics:** XIME Bangalore uniquely offers a **PGDM-BA (Business Analytics)** program — a specialized track aligned with data science, AI/ML, and emerging tech. XIME Kochi does not offer this.
+- **PGDM in Business Analytics:** [XIME Bangalore](/colleges/xime-bangalore) uniquely offers a **PGDM-BA (Business Analytics)** program — a specialized track aligned with data science, AI/ML, and emerging tech. XIME Kochi does not offer this.
 - **International accreditation — ACBSP:** The ACBSP accreditation from the USA adds global credibility, especially useful if you plan to explore international career paths.
 - **Higher placement ceiling:** While averages are similar, XIME Bangalore tends to attract a slightly higher-paying recruiter cohort, with top packages touching ₹20–22 LPA.
 

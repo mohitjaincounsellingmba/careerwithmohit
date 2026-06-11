@@ -54,7 +54,7 @@ No. While [IMI Kolkata](/colleges/imi-kolkata) is an excellent choice, the avera
 [IMI Delhi](/colleges/imi-delhi) does not accept CMAT scores. However, [IMI Kolkata](/colleges/imi-kolkata) and IMI Bhubaneswar do accept CMAT, usually requiring a 80+ percentile score.
 
 **3. Which campus is better for Finance?**
-IMI Delhi is widely considered better for Finance due to its heavy recruitment cycles from top global investment banks.
+[IMI Delhi](/colleges/imi-delhi) is widely considered better for Finance due to its heavy recruitment cycles from top global investment banks.
 
 [👉 Compare IMI campuses with IMT and other B-Schools!](/tools/college-comparison)
 
