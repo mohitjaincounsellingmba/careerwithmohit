@@ -54,12 +54,6 @@ export function Header() {
         <div className="flex items-center gap-4">
           <SearchInput />
           <Link 
-            href="/auth" 
-            className="hidden md:inline-flex h-12 items-center justify-center rounded-md bg-white border-2 border-foreground px-5 py-2 text-base font-bold text-foreground transition-all hover:bg-slate-50 hover:scale-105 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]"
-          >
-            Login / Sign Up
-          </Link>
-          <Link 
             href="tel:+919560020771" 
             className="hidden lg:inline-flex h-12 items-center justify-center gap-2 rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
           >
@@ -114,17 +108,9 @@ export function Header() {
             </div>
 
             <Link 
-              href="/auth" 
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-4 flex h-14 w-full items-center justify-center gap-3 rounded-md bg-white border-4 border-foreground px-4 py-2 text-lg font-bold text-foreground transition-all hover:bg-slate-50 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
-            >
-              Sign Up / Login
-            </Link>
-
-            <Link 
               href="tel:+919560020771" 
               onClick={() => setIsMobileMenuOpen(false)}
-              className="flex h-14 w-full items-center justify-center gap-3 rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
+              className="mt-4 flex h-14 w-full items-center justify-center gap-3 rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
             >
               <Phone className="h-5 w-5 text-primary" />
               Call Now
