@@ -58,7 +58,7 @@ No. While [IMI Kolkata](/colleges/imi-kolkata) is an excellent choice, the avera
 
 [👉 Compare IMI campuses with IMT and other B-Schools!](/tools/college-comparison)
 
-**Struggling to justify the loan for IMI Delhi?**
+**Struggling to justify the loan for [IMI Delhi](/colleges/imi-delhi)?**
 At **CareerWithMohit**, we help you calculate your individual ROI and career trajectory to ensure you make the right investment.
 
 [👉 Get Expert MBA Admission Guidance!](/inquiry)

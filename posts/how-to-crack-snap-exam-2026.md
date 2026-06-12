@@ -91,7 +91,7 @@ Yes, especially if you have already prepared for CAT. The core concepts are the 
 ---
 
 ### Related Articles:
-*   [All About SNAP Exam 2026: SIBM Pune Cutoffs & Colleges](/blog/all-about-snap-exam)
+*   [All About SNAP Exam 2026: [SIBM Pune](/colleges/sibm-pune) Cutoffs & Colleges](/blog/all-about-snap-exam)
 *   [Symbiosis MBA Institutes: Fees, Placements & Rankings](/blog/all-about-symbiosis-mba-institutes)
 *   [Top MBA Entrance Exams 2026: Syllabus & Dates](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body)
 

@@ -60,7 +60,7 @@ IIT Delhi's location in India's capital gives it unparalleled access to governme
 
 **NIRF Rank: #3 — but #1 for placements and entrepreneurship**
 
-[IIT Bombay](/colleges/iit-bombay) has India's most active startup ecosystem (connects to Mumbai's fintech and VC ecosystem) and consistently records India's highest placement packages. Microsoft Japan's ₹3.67 Crore offer came to an IIT Bombay student in 2024.
+[IIT Bombay](/colleges/iit-bombay) has India's most active startup ecosystem (connects to Mumbai's fintech and VC ecosystem) and consistently records India's highest placement packages. Microsoft Japan's ₹3.67 Crore offer came to an [IIT Bombay](/colleges/iit-bombay) student in 2024.
 
 - **Founded:** 1958 | **Campus:** 550 acres (Powai Lake campus)
 - **JEE Advanced CSE Cutoff:** ~100 CRL
@@ -139,7 +139,7 @@ NIT Trichy is the pinnacle of NIT excellence — consistently India's top-ranked
 
 **India's #1 Private Engineering Institution**
 
-BITS Pilani breaks the IIT/NIT monopoly to claim the #10 spot — the only private institution that consistently competes with government IITs in placements, research, and brand value.
+[BITS Pilani](/colleges/bits-pilani) breaks the IIT/NIT monopoly to claim the #10 spot — the only private institution that consistently competes with government IITs in placements, research, and brand value.
 
 - **BITSAT Score for CSE:** 290+/390 | **Annual Fee:** ₹5.5 L
 - **Avg CSE Package:** ₹15–22 LPA | **Practice School:** India's best internship programme

@@ -144,7 +144,7 @@ This is set to create 100,000+ direct semiconductor jobs in the next decade — 
 ## FAQs — Best B.Tech ECE Colleges India 2026
 
 **Q1. Which is the best ECE college in India?**
-IIT Bombay's EE (which includes ECE) and IIT Delhi ECE are consistently ranked best. IIIT Hyderabad is the top choice for specialised electronics/communications research.
+[IIT Bombay](/colleges/iit-bombay)'s EE (which includes ECE) and IIT Delhi ECE are consistently ranked best. IIIT Hyderabad is the top choice for specialised electronics/communications research.
 
 **Q2. Is ECE a better choice than EEE for 2026?**
 ECE focuses on electronics/communication/VLSI which has strong private sector demand. EEE focuses on power/energy which is excellent for PSU jobs. Choose based on your career target.

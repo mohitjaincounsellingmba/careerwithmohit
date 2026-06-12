@@ -50,7 +50,7 @@ The university does have a **management quota** for a limited number of seats, b
 
 ---
 
-### **B.Tech Fee Structure at JECRC University (2025–2026)**
+### **B.Tech Fee Structure at [JECRC University](/colleges/jecrc-jaipur) (2025–2026)**
 
 | Cost Component | Amount (Approx.) |
 | :--- | :--- |

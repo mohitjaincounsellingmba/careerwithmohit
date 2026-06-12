@@ -61,7 +61,7 @@ LR in NMAT is a mix of verbal reasoning and analytical reasoning.
 
 *   **Plan Your First Attempt Early (October):** Schedule your first attempt in October. This gives you ample time to take a second or third attempt in November/December if your score is below the NMIMS cutoff.
 *   **The 15-Day Gap Rule:** Remember, you must wait at least 15 days between consecutive NMAT attempts.
-*   **Check College Acceptance Policies:** While NMAT allows three attempts, **NMIMS Mumbai only accepts the score of your first attempt** for its flagship MBA core program. Make your first attempt count!
+*   **Check College Acceptance Policies:** While NMAT allows three attempts, **[NMIMS Mumbai](/colleges/nmims-mumbai) only accepts the score of your first attempt** for its flagship MBA core program. Make your first attempt count!
 
 ---
 

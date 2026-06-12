@@ -42,7 +42,7 @@ This guide breaks it all down — clearly and honestly.
 - **Stronger legacy & alumni network:** 35+ years of alumni spread across top Indian and global companies gives [XIME Bangalore](/colleges/xime-bangalore) a deeper corporate connect.
 - **PGDM in Business Analytics:** [XIME Bangalore](/colleges/xime-bangalore) uniquely offers a **PGDM-BA (Business Analytics)** program — a specialized track aligned with data science, AI/ML, and emerging tech. XIME Kochi does not offer this.
 - **International accreditation — ACBSP:** The ACBSP accreditation from the USA adds global credibility, especially useful if you plan to explore international career paths.
-- **Higher placement ceiling:** While averages are similar, XIME Bangalore tends to attract a slightly higher-paying recruiter cohort, with top packages touching ₹20–22 LPA.
+- **Higher placement ceiling:** While averages are similar, [XIME Bangalore](/colleges/xime-bangalore) tends to attract a slightly higher-paying recruiter cohort, with top packages touching ₹20–22 LPA.
 
 ### ❌ Things to Consider:
 - **Higher fees:** At ~₹12.90 Lakhs, it costs about ₹3 Lakhs more than the Kochi campus.

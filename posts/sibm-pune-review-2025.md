@@ -34,7 +34,7 @@ For the MBA flagship program, the SNAP cutoff is typically **98.5+ percentile**.
 ### 2. Is [SIBM Pune](/colleges/sibm-pune) better than IIMs?
 [SIBM Pune](/colleges/sibm-pune) is often compared to the **Top 10-15 IIMs** (New IIMs and some Old IIMs) due to its elite placement record and corporate reputation.
 
-### 3. What is the total fee for SIBM Pune?
+### 3. What is the total fee for [SIBM Pune](/colleges/sibm-pune)?
 The total academic fee for the 2-year MBA program is approximately **₹27.77 Lakhs**.
 
 ### 4. Does SIBM Pune have 100% placements?

@@ -36,7 +36,7 @@ Admission to NMIMS BBA is strictly through the **NMIMS-NPAT (National Test for P
 **Q1. Is Maths compulsory for BBA in NMIMS?**
 Yes, Mathematics is a mandatory subject in Class 12 for admission to the BBA program at NMIMS ASMSOC.
 
-**Q2. Can I get direct admission in NMIMS Mumbai for BBA?**
+**Q2. Can I get direct admission in [NMIMS Mumbai](/colleges/nmims-mumbai) for BBA?**
 No, NMIMS does not have a management quota for BBA. All admissions are through the merit list of the NPAT exam.
 
 **Q3. Which is the best campus of NMIMS for BBA?**

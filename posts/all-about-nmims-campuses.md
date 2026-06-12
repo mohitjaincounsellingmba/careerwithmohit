@@ -77,7 +77,7 @@ Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoff
 - **Pros:** Unmatched brand value in western India. Alumni network is legendary (CXOs across BFSI, FMCG, Pharma). Mumbai location = massive internship & networking opportunities. AACSB accredited. Consistently the top non-IIM B-School in Maharashtra.
 - **Cons:** Very high fees (₹27 Lakhs+). Hostel availability is limited. Intense competition for top placements within the batch.
 
-**Our Verdict:** NMIMS Mumbai (SBM) is a clear Tier-1 B-School. If you score 209+ on NMAT and clear the GDPI, this is a no-brainer pick — especially for Finance and Marketing roles. The ₹25 LPA average package justifies the investment.
+**Our Verdict:** [NMIMS Mumbai](/colleges/nmims-mumbai) (SBM) is a clear Tier-1 B-School. If you score 209+ on NMAT and clear the GDPI, this is a no-brainer pick — especially for Finance and Marketing roles. The ₹25 LPA average package justifies the investment.
 
 ---
 

@@ -277,7 +277,7 @@ The presence of **Deloitte US and BNY Mellon** as recruiters signals BMU's succe
 
 ## FAQs
 
-**Q1. Does BML Munjal University offer BCA?**  
+**Q1. Does [BML Munjal University](/colleges/bml-munjal-gurgaon) offer BCA?**  
 Yes, BCA is offered at BMU alongside BTech, BBA, MBA, Law, and Liberal Arts programs. Verify the latest program status and fees on [bmu.edu.in](https://www.bmu.edu.in) before applying.
 
 **Q2. What is the BTech highest package at BML Munjal University?**  

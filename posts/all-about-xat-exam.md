@@ -49,7 +49,7 @@ XAT is known for its lengthy reading passages and its unique inclusion of an ess
 
 ## Top Colleges Accepting XAT Scores
 
-- XLRI Jamshedpur & XLRI Delhi-NCR
+- [XLRI Jamshedpur](/colleges/xlri-jamshedpur) & XLRI Delhi-NCR
 - XIMB (Xavier Institute of Management, Bhubaneswar)
 - IMT (Institute of Management Technology), Ghaziabad
 - IMI (International Management Institute), New Delhi

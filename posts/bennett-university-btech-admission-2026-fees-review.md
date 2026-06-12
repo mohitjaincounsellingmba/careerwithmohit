@@ -57,7 +57,7 @@ If your goal is top-tier placement and a global tech environment, Bennett offers
 **2. Can I get a 100% scholarship at Bennett?**
 Yes, high achievers with 95+ percentile in JEE or 95%+ in 10+2 (best of 3) are eligible for significant tuition fee waivers.
 
-**3. Which group owns Bennett University?**
+**3. Which group owns [Bennett University](/colleges/bennett-greater-noida)?**
 The university is owned and backed by the Times of India Group.
 
 

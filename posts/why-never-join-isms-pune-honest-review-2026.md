@@ -27,7 +27,7 @@ Negative reviews on platforms like Quora and Careers360 often mention internal c
 ### **Comparison: [ISMS Pune](/colleges/isms-pune) vs. Alternatives**
 Before finalizing ISMS, compare it with other mid-tier colleges in Pune that might offer better stability:
 
-| Feature | ISMS Pune | Better Alternatives (e.g., PUMBA/PIBM) |
+| Feature | [ISMS Pune](/colleges/isms-pune) | Better Alternatives (e.g., PUMBA/PIBM) |
 | :--- | :--- | :--- |
 | **Fees** | ₹7.50 Lakhs+ | ₹1.5 Lakhs (PUMBA) / ₹8 Lakhs (PIBM) |
 | **Campus Size** | Small (Building-based) | Large/Moderate |

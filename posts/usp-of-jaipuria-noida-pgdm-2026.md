@@ -115,7 +115,7 @@ Jaipuria offers **merit-based scholarships** of up to ₹5 Lakhs for high-scorin
 
 ### 10. 🏛️ AACSB + AICTE + AIU — Triple Credentialing
 
-Jaipuria Noida's PGDM is:
+[Jaipuria Noida](/colleges/jaipuria-noida)'s PGDM is:
 - **AICTE approved** — Indian government recognition
 - **AIU approved** as MBA equivalent — government jobs eligible
 - **AACSB accredited** — globally recognised quality standard

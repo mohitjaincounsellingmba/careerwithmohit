@@ -110,7 +110,7 @@ India's solar and wind capacity expansion needs electrical engineers for grid in
 Yes. The EV revolution, semiconductor boom, renewable energy push, and continued strength of power PSUs make Electrical Engineering one of the best branches for 2026.
 
 **Q2. Which IIT is best for Electrical Engineering?**
-IIT Bombay's EE department is widely considered the best in India, followed by IIT Delhi and IIT Madras.
+[IIT Bombay](/colleges/iit-bombay)'s EE department is widely considered the best in India, followed by IIT Delhi and IIT Madras.
 
 **Q3. What GATE score is needed for NTPC recruitment?**
 A GATE EE score of at least 700–750/1000 is needed for a reasonable chance at NTPC. PowerGrid cutoffs are similar.

@@ -20,7 +20,7 @@ As we move into the 2026-27 academy session, [Jamia Hamdard](/colleges/jamia-ham
 | **Starting Fee** | Approx. ₹25,000 - ₹50,000 per semester |
 | **Key Advantage** | Delhi-Based Heritage + Strongest Value in the Capital |
 
-👉 **[Launch Your Admission Journey at Jamia Hamdard University Online](/inquiry)**
+👉 **[Launch Your Admission Journey at [Jamia Hamdard](/colleges/jamia-hamdard-delhi) University Online](/inquiry)**
 
 ## Popular Programs & Fee Structure
 Jamia Hamdard's online programs are optimized for the 2026 workforce:

@@ -73,7 +73,7 @@ This section is highly scoring.
 
 | College | Expected CMAT Cutoff | Placement Highlight |
 |:---|:---:|:---|
-| **JBIMS Mumbai** | 99.99 Percentile (~345+ Marks) | Average Placement: **₹27+ LPA** (Low Fee Structure) |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | 99.99 Percentile (~345+ Marks) | Average Placement: **₹27+ LPA** (Low Fee Structure) |
 | **SIMSREE Mumbai** | 99.9+ Percentile (~330+ Marks) | High ROI, excellent finance placements |
 | **Great Lakes Chennai** | 95.0 - 98.0+ Percentile | Renowned 1-year MBA program |
 | **GIM Goa** | 95.0 - 97.0+ Percentile | Beautiful campus, excellent corporate exposure |

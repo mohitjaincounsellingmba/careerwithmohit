@@ -40,7 +40,7 @@ While both programs are strong, we generally recommend the **PGDM** at IIBR for 
 *   [MBA PGDM Colleges Under 10 Lakhs in Pune](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission)
 
 **Need a Direct Comparison?**
-Deciding between ASM IIBR and other Pune options like RIIM or ISMS? Our expert counselors provide a side-by-side comparison of placements, hidden costs, and student culture.
+Deciding between [ASM IIBR](/colleges/asm-iibr) and other Pune options like RIIM or ISMS? Our expert counselors provide a side-by-side comparison of placements, hidden costs, and student culture.
 
 [👉 Talk to our ASM IIBR Expert Counselor today!](/inquiry)
 

@@ -112,7 +112,7 @@ Amazon, Adobe, Samsung, Qualcomm visit JIIT for Delhi NCR tech hiring. Strong CS
 | Electrical (EE) | ₹7–22 LPA | Medium | IIT Delhi, [IIT Bombay](/colleges/iit-bombay) |
 | Mechanical | ₹5–18 LPA | Medium | [IIT Bombay](/colleges/iit-bombay), NIT-T, BITS |
 | Civil | ₹4–14 LPA | Low (private) | IIT Roorkee, NIT-T |
-| Chemical | ₹5–15 LPA | Low | IIT Bombay, BITS Pilani |
+| Chemical | ₹5–15 LPA | Low | [IIT Bombay](/colleges/iit-bombay), [BITS Pilani](/colleges/bits-pilani) |
 
 ---
 

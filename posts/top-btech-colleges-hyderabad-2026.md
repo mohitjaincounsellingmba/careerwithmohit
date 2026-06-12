@@ -141,7 +141,7 @@ If your JEE / EAMCET rank isn't high enough, management quota or NRI seats are a
 ## FAQs — B.Tech Colleges in Hyderabad 2026
 
 **Q1. Which is the best B.Tech college in Hyderabad?**
-IIT Hyderabad and IIIT Hyderabad are the top-ranked institutions, followed by BITS Pilani Hyderabad Campus for private colleges.
+IIT Hyderabad and IIIT Hyderabad are the top-ranked institutions, followed by [BITS Pilani](/colleges/bits-pilani) Hyderabad Campus for private colleges.
 
 **Q2. What is the TS EAMCET cutoff for top Hyderabad colleges?**
 For CBIT Engineering CSE, the TS EAMCET OC rank cutoff is typically under 3,000. Osmania University Engineering requires a rank under 1,500 for CSE.

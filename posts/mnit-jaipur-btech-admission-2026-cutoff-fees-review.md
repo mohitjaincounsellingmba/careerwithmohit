@@ -28,7 +28,7 @@ For the **2026 B.Tech admissions**, [MNIT Jaipur](/colleges/mnit-jaipur) will fi
 *Note: 100% Tuition Fee waiver is available for SC/ST/PwD candidates and economically backward students (income < 1 Lakh).*
 
 ### **Expected JEE Main Cutoffs 2026 (Closing Ranks)**
-The competition for MNIT Jaipur is intense, especially for the **Computer Science (CSE)** branch.
+The competition for [MNIT Jaipur](/colleges/mnit-jaipur) is intense, especially for the **Computer Science (CSE)** branch.
 
 | Branch | General (Home State) | General (Other State) |
 | :--- | :--- | :--- |
