@@ -80,7 +80,7 @@ A state-level exam conducted by Maharashtra's CET Cell. While it is highly favor
 If you miss out on a 99+ percentile in CAT, target these top-tier institutions using OMET scores:
 
 1.  **[XLRI Jamshedpur](/colleges/xlri-jamshedpur):** Accepts **XAT** (~95+ Percentile). Known as the best institute for HR in the Asia-Pacific.
-2.  **JBIMS Mumbai:** Accepts **CMAT** or **MAH CET** (99.9+ Percentile). Famous for high ROI and finance placements.
+2.  **[JBIMS Mumbai](/colleges/jbims-mumbai):** Accepts **CMAT** or **MAH CET** (99.9+ Percentile). Famous for high ROI and finance placements.
 3.  **[NMIMS Mumbai](/colleges/nmims-mumbai):** Accepts **NMAT** (~235+ Scaled Score). Massive batch size but excellent corporate relationships.
 4.  **[SIBM Pune](/colleges/sibm-pune):** Accepts **SNAP** (~98+ Percentile). Premier campus life and great FMCG / Consulting placements.
 5.  **[SCMHRD Pune](/colleges/scmhrd-pune):** Accepts **SNAP** (~96+ Percentile). Renowned for HR and Infrastructure Management.

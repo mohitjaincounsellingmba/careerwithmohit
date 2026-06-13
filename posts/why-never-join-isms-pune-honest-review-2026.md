@@ -34,7 +34,7 @@ Before finalizing ISMS, compare it with other mid-tier colleges in Pune that mig
 | **Placement Core** | Heavy Marketing/Sales | Balanced Specializations |
 | **Brand Value** | Emerging/International Link | Established in Maharashtra |
 
-### **Is ISMS Pune a Scam?**
+### **Is [ISMS Pune](/colleges/isms-pune) a Scam?**
 No, it is a legitimate, AICTE-approved institution. However, the gap between the **marketing promises** and the **student experience** is what leads to the negative reviews. It works well for students who are purely looking for a Marketing career and are okay with a smaller setup, but for Finance or HR aspirants, the risks are high.
 
 ### **Explore More Before You Decide:**

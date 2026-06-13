@@ -52,7 +52,7 @@ This guide breaks it all down — clearly and honestly.
 
 ## 🏛️ 2. XIME Kochi — Overview
 
-XIME Kochi was established in 2013 as an extension of the XIME Bangalore campus. Situated in the **KINFRA Hi-Tech Park in Kalamassery**, it brings the same XIME pedagogy to Kerala — a state with a rapidly evolving tech and business ecosystem.
+XIME Kochi was established in 2013 as an extension of the [XIME Bangalore](/colleges/xime-bangalore) campus. Situated in the **KINFRA Hi-Tech Park in Kalamassery**, it brings the same XIME pedagogy to Kerala — a state with a rapidly evolving tech and business ecosystem.
 
 ### ✅ Why Choose XIME Kochi?
 

@@ -127,7 +127,7 @@ Top private deemed universities for B.Tech include:
 IIT Madras has been ranked #1 by NIRF for 6 consecutive years (2019–2024). IIT Delhi and [IIT Bombay](/colleges/iit-bombay) follow closely.
 
 **Q2. What JEE rank is needed for [IIT Bombay](/colleges/iit-bombay) CSE?**
-Approximately CRL rank under 100 in JEE Advanced is needed for CSE at IIT Bombay in the open category.
+Approximately CRL rank under 100 in JEE Advanced is needed for CSE at [IIT Bombay](/colleges/iit-bombay) in the open category.
 
 **Q3. Which NIT is best for computer science?**
 NIT Tiruchirappalli (NIT-T) is consistently the top NIT for CSE, followed by NIT Surathkal and NIT Warangal.

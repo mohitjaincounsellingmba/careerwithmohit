@@ -38,7 +38,7 @@ The competition for [MNIT Jaipur](/colleges/mnit-jaipur) is intense, especially 
 | **Electrical Engineering** | 18,000 - 22,000 | 15,000 - 18,000 |
 | **Mechanical Engineering** | 30,000 - 35,000 | 25,000 - 28,000 |
 
-### **Placement Review: Why MNIT Jaipur Stands Out**
+### **Placement Review: Why [MNIT Jaipur](/colleges/mnit-jaipur) Stands Out**
 MNIT Jaipur consistently delivers top-tier placement results for its B.Tech graduates.
 *   **Highest Package for 2025/2026**: ₹64.00 LPA.
 *   **Average Package (B.Tech Overall)**: ₹19.81 LPA.

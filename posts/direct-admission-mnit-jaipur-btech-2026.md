@@ -38,7 +38,7 @@ Let's be absolutely clear:
 
 Any individual, agent, or website claiming to offer admission to [MNIT Jaipur](/colleges/mnit-jaipur) without JEE Main — for a fee — is running a **SCAM**. Do not pay anyone for such services.
 
-> **⚠️ Fraud Alert**: If anyone promises you a seat in [MNIT Jaipur](/colleges/mnit-jaipur) through a "management quota" or "direct payment," it is 100% fraudulent. Report such cases to the nearest cyber crime cell or directly to MNIT Jaipur at [mnit.ac.in](https://mnit.ac.in).
+> **⚠️ Fraud Alert**: If anyone promises you a seat in [MNIT Jaipur](/colleges/mnit-jaipur) through a "management quota" or "direct payment," it is 100% fraudulent. Report such cases to the nearest cyber crime cell or directly to [MNIT Jaipur](/colleges/mnit-jaipur) at [mnit.ac.in](https://mnit.ac.in).
 
 ---
 

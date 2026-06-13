@@ -23,7 +23,7 @@ As we move into the 2026-27 academy session, [Jamia Hamdard](/colleges/jamia-ham
 👉 **[Launch Your Admission Journey at [Jamia Hamdard](/colleges/jamia-hamdard-delhi) University Online](/inquiry)**
 
 ## Popular Programs & Fee Structure
-Jamia Hamdard's online programs are optimized for the 2026 workforce:
+[Jamia Hamdard](/colleges/jamia-hamdard-delhi)'s online programs are optimized for the 2026 workforce:
 
 ### 1. Online MBA (Postgraduate)
 - **Specializations:** Business Analytics, Fintech, HR, Finance, Marketing.

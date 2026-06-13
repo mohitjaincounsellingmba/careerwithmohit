@@ -280,7 +280,7 @@ The presence of **Deloitte US and BNY Mellon** as recruiters signals BMU's succe
 **Q1. Does [BML Munjal University](/colleges/bml-munjal-gurgaon) offer BCA?**  
 Yes, BCA is offered at BMU alongside BTech, BBA, MBA, Law, and Liberal Arts programs. Verify the latest program status and fees on [bmu.edu.in](https://www.bmu.edu.in) before applying.
 
-**Q2. What is the BTech highest package at BML Munjal University?**  
+**Q2. What is the BTech highest package at [BML Munjal University](/colleges/bml-munjal-gurgaon)?**  
 The highest BTech package reported is **₹59.35 LPA**, with the top 10% of the batch averaging ₹19.38 LPA.
 
 **Q3. Which entrance exam is accepted for BMU BTech?**  

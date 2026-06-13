@@ -36,7 +36,7 @@ This expert-curated guide covers India's **best private B.Tech engineering colle
 
 ## Detailed Reviews — Top Private Engineering Colleges
 
-### 1. BITS Pilani — India's Best Private Engineering Institution
+### 1. [BITS Pilani](/colleges/bits-pilani) — India's Best Private Engineering Institution
 
 BITS Pilani is often termed "the IIT of private colleges." With three campuses (Pilani, Goa, Hyderabad), it maintains a highly standardised curriculum and is India's top private institution in multiple global rankings.
 

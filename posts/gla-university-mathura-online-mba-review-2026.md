@@ -49,7 +49,7 @@ By choosing the [GLA University](/colleges/gla-university) (Mathura) Online MBA,
 
 If you are serious about advancing your career without pausing your current job, the **[GLA University](/colleges/gla-university) (Mathura) Online MBA** is an undeniably strong, positive investment in your future. Its blend of flexibility, renowned faculty, and dedicated career guidance creates a perfect ecosystem for success.
 
-[👉 Apply for GLA University (Mathura) Online MBA](/inquiry) | [💬 Schedule a Details Call with Mohit Jain](/inquiry)
+[👉 Apply for [GLA University](/colleges/gla-university) (Mathura) Online MBA](/inquiry) | [💬 Schedule a Details Call with Mohit Jain](/inquiry)
 
 ---
 

@@ -37,7 +37,7 @@ For the MBA flagship program, the SNAP cutoff is typically **98.5+ percentile**.
 ### 3. What is the total fee for [SIBM Pune](/colleges/sibm-pune)?
 The total academic fee for the 2-year MBA program is approximately **₹27.77 Lakhs**.
 
-### 4. Does SIBM Pune have 100% placements?
+### 4. Does [SIBM Pune](/colleges/sibm-pune) have 100% placements?
 Yes, SIBM Pune consistently achieves **100% placements** with top-tier companies across consulting, finance, and FMCG.
 
 [👉 Check your SIBM Pune admission chances based on SNAP score!](/inquiry)

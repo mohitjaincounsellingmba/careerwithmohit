@@ -119,7 +119,7 @@ Amazon, Adobe, Samsung, Qualcomm visit JIIT for Delhi NCR tech hiring. Strong CS
 ## FAQs — Best B.Tech Colleges for Placements India 2026
 
 **Q1. Which Indian engineering college has the best overall placements?**
-IIT Bombay leads for highest packages (avg ₹22–25 LPA). NIT Tiruchirappalli leads for best NIT placements. BITS Pilani leads for best private college placements.
+[IIT Bombay](/colleges/iit-bombay) leads for highest packages (avg ₹22–25 LPA). NIT Tiruchirappalli leads for best NIT placements. [BITS Pilani](/colleges/bits-pilani) leads for best private college placements.
 
 **Q2. Is 100% placement in engineering college real?**
 Rarely. Most "100% placement" claims count internships, deferred offers, or pool placements. Always ask for the specific number of students placed on-campus with confirmed joining dates.

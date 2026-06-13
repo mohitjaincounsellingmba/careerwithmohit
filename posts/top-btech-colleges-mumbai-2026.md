@@ -32,7 +32,7 @@ This guide covers the **top B.Tech colleges in Mumbai for 2026** with verified f
 ## Tier 1 — IIT & Government Elite
 
 ### 1. [IIT Bombay](/colleges/iit-bombay) (IITB)
-IIT Bombay is India's #1 ranked engineering institution (NIRF 2024) and consistently among Asia's best universities. Its placements and alumni network are unmatched in the country.
+[IIT Bombay](/colleges/iit-bombay) is India's #1 ranked engineering institution (NIRF 2024) and consistently among Asia's best universities. Its placements and alumni network are unmatched in the country.
 
 - **Courses:** B.Tech in CSE, EE, ME, Chemical, Civil, Aerospace, Engineering Physics + Dual Degrees
 - **Admission:** JEE Advanced → JoSAA Counselling

@@ -44,7 +44,7 @@ Even for the institutional category, [IMI Delhi](/colleges/imi-delhi) maintains 
 ### 1. Is there a management quota in [IMI Delhi](/colleges/imi-delhi)?
 Yes, [IMI Delhi](/colleges/imi-delhi) has provision for institutional quota seats which are filled transparently based on merit and profile assessment.
 
-### 2. Does IMI Delhi accept CMAT scores?
+### 2. Does [IMI Delhi](/colleges/imi-delhi) accept CMAT scores?
 No, IMI Delhi only accepts **CAT** or **XAT** for its flagship PGDM programs.
 
 ### 3. What is the average package for IMI Delhi?

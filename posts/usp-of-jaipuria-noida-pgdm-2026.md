@@ -124,7 +124,7 @@ Very few private B-schools in India carry all three credentials simultaneously.
 
 ---
 
-## Who Should Choose Jaipuria Noida?
+## Who Should Choose [Jaipuria Noida](/colleges/jaipuria-noida)?
 
 ✅ 70–80 percentile aspirants wanting a NIRF-ranked, AACSB-accredited institute  
 ✅ Students targeting **BFSI or Consulting** careers  

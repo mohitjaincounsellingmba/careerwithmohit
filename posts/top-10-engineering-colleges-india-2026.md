@@ -162,9 +162,9 @@ NIT Trichy is the pinnacle of NIT excellence — consistently India's top-ranked
 ## FAQs — Top Engineering Colleges India 2026
 
 **Q1. Which is the #1 engineering college in India in 2026?**
-IIT Madras has been ranked #1 by NIRF for 6 consecutive years. For placements, IIT Bombay is often considered #1. For pure computer science prestige, IIT Delhi is #1 among employers.
+IIT Madras has been ranked #1 by NIRF for 6 consecutive years. For placements, [IIT Bombay](/colleges/iit-bombay) is often considered #1. For pure computer science prestige, IIT Delhi is #1 among employers.
 
-**Q2. Is BITS Pilani better than NITs for engineering?**
+**Q2. Is [BITS Pilani](/colleges/bits-pilani) better than NITs for engineering?**
 BITS Pilani's placements for CSE and ECE are generally comparable or better than the top NITs (Trichy, Warangal). Its Practice School gives it a significant advantage for industry exposure.
 
 **Q3. What is the total fee for B.Tech at IITs?**

@@ -275,7 +275,7 @@ Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoff
 
 ## Quick Comparison: All NMIMS Campuses at a Glance
 
-**1. NMIMS Mumbai**
+**1. [NMIMS Mumbai](/colleges/nmims-mumbai)**
 - 📍 Location: Vile Parle (West), Mumbai, Maharashtra
 - 💰 Total MBA Fees: ₹25 – ₹27 Lakhs
 - 📊 Average Package: ₹25.13 LPA

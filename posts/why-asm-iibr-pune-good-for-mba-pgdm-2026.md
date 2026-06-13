@@ -42,7 +42,7 @@ While both programs are strong, we generally recommend the **PGDM** at IIBR for 
 **Need a Direct Comparison?**
 Deciding between [ASM IIBR](/colleges/asm-iibr) and other Pune options like RIIM or ISMS? Our expert counselors provide a side-by-side comparison of placements, hidden costs, and student culture.
 
-[👉 Talk to our ASM IIBR Expert Counselor today!](/inquiry)
+[👉 Talk to our [ASM IIBR](/colleges/asm-iibr) Expert Counselor today!](/inquiry)
 
 ---
 

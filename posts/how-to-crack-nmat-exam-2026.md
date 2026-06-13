@@ -69,7 +69,7 @@ LR in NMAT is a mix of verbal reasoning and analytical reasoning.
 
 | College | Expected Cutoff (Scaled Score) | Highlight |
 |:---|:---:|:---|
-| **NMIMS Mumbai (Core/HR)** | 235 - 240+ | Flagship program, high corporate reputation |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai) (Core/HR)** | 235 - 240+ | Flagship program, high corporate reputation |
 | **[NMIMS Bangalore](/colleges/nmims-bangalore) / Navi Mumbai** | 220 - 225+ | Excellent placement records in IT & finance |
 | **K. J. Somaiya (Mumbai)** | 225+ | Great ROI, massive alumni network |
 | **TAPMI Manipal** | 200 - 215+ | Triple Crown accredited B-school |
