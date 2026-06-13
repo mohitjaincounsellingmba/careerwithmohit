@@ -9,6 +9,22 @@ export interface NewsItem {
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
+    id: 14,
+    title: "GGSIPU MBA Counselling 2026: Registration Deadline Extended",
+    category: "MBA Admission",
+    date: "June 12, 2026",
+    excerpt: "GGSIPU has extended the last date to register and pay the counselling participation fee for MBA admissions to June 17, 2026. Online choice filling and document verification schedules are also updated.",
+    link: "/blog/ggsipu-mba-counselling-dates-2026"
+  },
+  {
+    id: 13,
+    title: "CUET UG Result 2026: Objection Window Closed; Results in July",
+    category: "Entrance Exams",
+    date: "June 12, 2026",
+    excerpt: "NTA closed the objection submission window for the CUET UG 2026 provisional answer key on June 11. The final answer key is expected in mid-June, followed by result declaration in the first week of July.",
+    link: "/blog/cuet-ug-result-date-2026"
+  },
+  {
     id: 12,
     title: "CBSE 12th Result 2026: DigiLocker Shows 'Coming Soon' Status",
     category: "Board Results",
