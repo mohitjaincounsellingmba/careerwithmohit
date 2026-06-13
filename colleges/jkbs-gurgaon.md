@@ -9,7 +9,7 @@ established: 2006
 ownership: "Private"
 ranking: "Top Private B-Schools (CSR-GHRDC)"
 fees: "₹8.5 Lakhs"
-avg_placement: "₹8.5 LPA"
+avg_placement: "₹9.0 LPA"
 highest_placement: "₹24.0 LPA"
 exams: ["CAT", "MAT", "XAT", "CMAT"]
 website: "https://jkbschool.org"
@@ -30,7 +30,7 @@ The flagship PGDM program at JKBS is designed with a futuristic approach.
 
 ### Placements 2024
 - **Highest Package**: ₹24.00 LPA
-- **Average Package**: ₹8.00 LPA
+- **Average Package**: ₹9.00 LPA
 - **Top Recruiters**: EY, KPMG, Berger Paints, Decathlon, Flipkart, Quintica, HDFC Bank, Axis Bank.
 
 ### Admission Process

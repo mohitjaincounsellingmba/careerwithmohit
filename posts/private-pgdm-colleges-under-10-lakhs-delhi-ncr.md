@@ -51,7 +51,7 @@ A highly recognized name in the Knowledge Park technical hub, GLBIMR is known fo
 Located in Gurugram, India's corporate capital, JKBS offers student access to massive multinational corporations right in their backyard.
 
 *   **Total PGDM Fees (2026-28):** ~₹8.50 Lakhs
-*   **Average Placement:** ~₹8.60 LPA
+*   **Average Placement:** ~₹9.00 LPA
 *   **Highest Placement:** ₹24.00 LPA
 *   **The Verdict:** An incredibly strong option for aspirants specifically targeting Gurugram-based roles in consulting, IT, and FMCG without spending ₹15+ Lakhs elsewhere.
 
@@ -84,7 +84,7 @@ ABS is renowned for its dual-specialization PGDM programs and heavy focus on int
 | College | Fee (approx.) | Avg Package | USP |
 | :--- | :--- | :--- | :--- |
 | **GL Bajaj** | ₹7.95 L | ₹8.50 LPA | Technical Pedagogy |
-| **JKBS** | ₹8.50 L | ₹8.60 LPA | Gurugram Industry Link |
+| **JKBS** | ₹8.50 L | ₹9.00 LPA | Gurugram Industry Link |
 | **GNIOT** | ₹8.95 L | ₹7.50 LPA | Modern Infra |
 | **EMPI** | ₹9.75 L | ₹8.75 LPA | South Delhi Location |
 | **Asian** | ₹9.90 L | ₹8.00 LPA | Oxford Exposure |

@@ -38,7 +38,7 @@ Located in the heart of Gurgaon, offering dual specialization and high corporate
 Focuses on technology-driven business applications, business analytics, and digital learning.
 - **MAT Cutoff Percentile:** 65+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹8.00 Lakhs
-- **Average Placement Package:** ₹7.00 LPA
+- **Average Placement Package:** ₹9.00 LPA
 
 ### 5. [BML Munjal University](/colleges/bml-munjal-gurgaon)
 Founded by the Hero Group, offering excellent campus facilities and strong placement partnerships.
@@ -55,7 +55,7 @@ Founded by the Hero Group, offering excellent campus facilities and strong place
 | **Great Lakes Institute of Management** | 75+ Percentile | ₹19.8 Lakhs | **₹17.5 LPA** |
 | **[SOIL Institute of Management](/colleges/soil-institute-gurgaon)** | 70+ Percentile | ₹15.5 Lakhs | **₹11.5 LPA** |
 | **IBMR Group of Institutions** | 60+ Percentile | ₹7.50 Lakhs | **₹6.50 LPA** |
-| **JK Business School (JKBS)** | 65+ Percentile | ₹8.00 Lakhs | **₹7.00 LPA** |
+| **JK Business School (JKBS)** | 65+ Percentile | ₹8.00 Lakhs | **₹9.00 LPA** |
 | **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | 65+ Percentile | ₹13.5 Lakhs | **₹9.40 LPA** |
 
 ---

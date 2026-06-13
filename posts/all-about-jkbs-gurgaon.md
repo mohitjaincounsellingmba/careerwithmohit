@@ -12,7 +12,7 @@ keywords: ["JKBS Gurgaon review 2026", "JK Business School placements 2024", "JK
 
 ### **Placement Review (2024-2025 Batch)**
 *   **Highest Package**: **₹24 LPA**.
-*   **Average Package**: **₹7 LPA**.
+*   **Average Package**: **₹9 LPA**.
 *   **Placement Success**: 80-90% of eligible students placed in well-known firms.
 *   **Top Recruiters**: Deloitte, HDFC Bank, ITC, Extramarks, and Big Bazaar.
 *   **Skill Training**: The placement cell conducts intensive resume-building and mock interview sessions.

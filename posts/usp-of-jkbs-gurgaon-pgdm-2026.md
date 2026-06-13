@@ -20,7 +20,7 @@ Here are the **10 real USPs of [JK Business School (JKBS), Gurgaon](/colleges/jk
 | **Programs** | PGDM / PGDM (FinTech) / PGDM (Data Analytics) |
 | **Total Fees (PGDM)** | ₹8.95 Lakhs |
 | **Total Fees (Specialized)** | ₹9.95 Lakhs |
-| **Average Package** | ₹6.2 – ₹8 LPA |
+| **Average Package** | ₹9 LPA |
 | **Highest Package** | ₹24 LPA |
 | **Location** | Gurgaon, Haryana |
 | **Campus Size** | 10 Acres |
@@ -143,7 +143,7 @@ Despite its budget fee structure, JKBS has delivered a **highest package of ₹2
 | Metric | Data |
 | :--- | :--- |
 | Highest Package | ₹24 LPA |
-| Average Package | ₹6.2 – ₹8 LPA |
+| Average Package | ₹9 LPA |
 | Top Recruiters | Deloitte, EY, KPMG, HDFC Bank, Nestlé, Decathlon, Berger Paints, Axis Bank, TCS |
 
 The ₹24 LPA peak demonstrates that JKBS can produce top performers — the average is held down by the wide batch diversity, not by ceiling constraints.

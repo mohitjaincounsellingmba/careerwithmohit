@@ -50,7 +50,7 @@ Placements for BBA at JKBS are supported by the same Corporate Resource Centre t
 *   **Average Package:** **₹3.5 - ₹5.5 LPA**
 *   **Highest Package for BBA:** Reported up to **₹8 LPA**.
 *   **Top Recruiters:** Nestlé, Decathlon, HDFC Bank, Axis Bank, and ITC.
-*   **The Reality:** While the PGDM batch sees higher packages (Avg ₹7 LPA), BBA students get good entry-level roles in sales, operations, and analysis.
+*   **The Reality:** While the PGDM batch sees higher packages (Avg ₹9 LPA), BBA students get good entry-level roles in sales, operations, and analysis.
 
 ---
 

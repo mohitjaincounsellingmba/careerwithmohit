@@ -769,7 +769,7 @@ export const COLLEGES_DATA = [
   },
   {
     "name": "JK Business School (JKBS), Gurgaon",
-    "avg": "₹8.5 LPA",
+    "avg": "₹9 LPA",
     "highest": "₹24.0 LPA",
     "fees": "₹8.5 Lakhs"
   },
