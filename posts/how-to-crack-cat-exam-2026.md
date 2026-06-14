@@ -101,6 +101,7 @@ No. Many self-studying students crack CAT using online resources, standard books
 ---
 
 ### Related Articles:
+*   [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
 *   [CAT 2026 Preparation Roadmap (Month-by-Month)](/blog/cat-2026-preparation-strategy-syllabus-dates)
 *   [10 Proven Tips to Crack CAT 2026: The Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026)
 *   [All About CAT Exam 2026: Pattern, Syllabus & Cutoffs](/blog/all-about-cat-exam)

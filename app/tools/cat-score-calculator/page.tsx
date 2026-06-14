@@ -30,11 +30,15 @@ export const metadata: Metadata = {
     "IIM admission score calculator",
     "cat varc dilr qa score",
   ],
+  alternates: {
+    canonical: "/tools/cat-score-calculator",
+  },
   openGraph: {
     title: "CAT Score Calculator 2026 | Raw Score & Percentile Predictor",
     description:
       "Free CAT 2026 Score Calculator. Instantly calculate raw score, scaled score, and expected percentile for IIM admissions.",
     type: "website",
+    url: "https://www.careerwithmohit.online/tools/cat-score-calculator",
   },
 };
 
@@ -150,6 +154,44 @@ export default function CatScoreCalculatorPage() {
       {/* Calculator */}
       <div className="max-w-7xl mx-auto px-6 py-20">
         <CatScoreCalculator />
+
+        {/* Deep Dive SEO Content */}
+        <div className="mt-32 max-w-4xl space-y-12 animate-in fade-in duration-700">
+          {/* Normalization */}
+          <div>
+            <h2 className="text-4xl font-black uppercase tracking-tight mb-6 flex items-center gap-4">
+              <TrendingUp className="w-10 h-10 text-amber-500" />
+              How CAT 2026 Raw Score is Normalized to Scaled Score
+            </h2>
+            <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
+              <p className="font-bold text-slate-700 leading-relaxed">
+                Since the <strong>CAT 2026 exam</strong> is conducted in multiple slots (usually Slot 1, Slot 2, and Slot 3) across the country, the difficulty level of the test papers varies slightly. To ensure fairness, IIMs employ a scientific <strong>normalization process</strong>.
+              </p>
+              <p className="font-bold text-slate-700 leading-relaxed">
+                The normalization is based on a gating formula that equates the mean and standard deviation of scores across different slots. The resulting <strong>scaled score</strong> is what determines your final CAT percentile. Our <strong>CAT percentile predictor 2026</strong> utilizes statistical trends from past years to give you the closest estimate.
+              </p>
+            </div>
+          </div>
+
+          {/* Marks vs Percentile */}
+          <div>
+            <h2 className="text-4xl font-black uppercase tracking-tight mb-6 flex items-center gap-4">
+              <BarChart3 className="w-10 h-10 text-blue-600" />
+              CAT 2026 Marks vs Percentile Projection
+            </h2>
+            <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
+              <p className="font-bold text-slate-700 leading-relaxed">
+                To achieve a 99+ percentile in <strong>CAT Exam 2026</strong>, a student typically needs a raw score around 100-110 marks, depending on slot difficulty. This table highlights historical trends:
+              </p>
+              <ul className="list-disc pl-6 font-bold text-slate-600 space-y-2">
+                <li><strong>99.9+ Percentile:</strong> Raw Score ~155+ (Excellent profile checks for IIM A, B, C calls)</li>
+                <li><strong>99.0+ Percentile:</strong> Raw Score ~105-110 (Strong chances for Baby/New IIMs and Tier-1 colleges)</li>
+                <li><strong>95.0+ Percentile:</strong> Raw Score ~75-80 (Good for MDI Gurgaon, SPJIMR profiles, IITs)</li>
+                <li><strong>90.0+ Percentile:</strong> Raw Score ~60-65 (Opens doors to top Tier-2 MBA programs)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
 
         {/* About CAT 2026 */}
         <div className="mt-32 max-w-4xl">

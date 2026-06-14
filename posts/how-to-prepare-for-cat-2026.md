@@ -78,7 +78,7 @@ The Common Admission Test (CAT) is the gateway to India’s top MBA programs. Wi
 ---
 
 ## Call to Action
-Ready to start your CAT 2026 journey? **[Download our free CAT preparation checklist](/inquiry)** or join the **[Free CAT Mock Test Series 2026](/tools/mock-tests)** to gauge your readiness today.
+Ready to start your CAT 2026 journey? **[Download our free CAT preparation checklist](/inquiry)**, check your potential scores with our **[CAT Score Calculator 2026](/tools/cat-score-calculator)**, or join the **[Free CAT Mock Test Series 2026](/tools/mock-tests)** to gauge your readiness today.
 
 ---
 

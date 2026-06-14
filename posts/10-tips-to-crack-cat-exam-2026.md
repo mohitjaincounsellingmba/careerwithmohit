@@ -75,6 +75,7 @@ The best way to know where you stand is to take a realistic simulation.
 ---
 
 ### Related Articles:
+- [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
 - [CAT 2026 Preparation Roadmap (Month-by-Month)](/blog/cat-2026-preparation-strategy-syllabus-dates)
 - [How to Analyze CAT Mocks Like a Topper](/blog/why-take-our-free-cat-mock-test-2026-online)
 - [CAT Score vs Percentile 2026 Projections](/tools/cat-mock-test#marks)

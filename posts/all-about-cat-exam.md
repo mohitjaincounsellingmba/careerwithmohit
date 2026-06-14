@@ -85,6 +85,7 @@ Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges
 [👉 Need help preparing a winning strategy for CAT 2026? Speak to our MBA admission experts today!](/inquiry)
 
 ### Useful Resources:
+* **[CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)**
 * **[Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)**
 * **[CAT 2026 Preparation Strategy & Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates)**
 * **[Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)**
