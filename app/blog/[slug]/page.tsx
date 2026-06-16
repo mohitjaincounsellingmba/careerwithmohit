@@ -11,6 +11,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { InquiryCard } from "@/components/InquiryCard";
 import { AdUnit } from "@/components/AdUnit";
+import { BlogViewCounter } from "@/components/BlogViewCounter";
 
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -176,6 +177,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               <div className="bg-accent text-foreground px-5 py-2 text-sm font-black uppercase tracking-widest rotate-1 border-4 border-foreground">
                 Expert Analysis
               </div>
+              <BlogViewCounter slug={slug} publishDate={postData.date} />
             </div>
 
             <h1 className="font-display text-5xl font-black tracking-tight text-foreground sm:text-7xl md:text-8xl mb-12 leading-[0.95] uppercase">
