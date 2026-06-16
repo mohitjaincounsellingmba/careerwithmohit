@@ -79,7 +79,7 @@ When choosing a business school for analytics, you need institutions that offer 
 1.  **Top-Tier Institutions (IIMs & Premier B-Schools):** Programs like the PGDBA offered jointly by **[IIM Calcutta](/colleges/iim-calcutta), IIT Kharagpur, and ISI Kolkata** are legendary for their technical depth, commanding average packages of ₹25+ LPA. [IIM Bangalore](/colleges/iim-bangalore) and [XLRI Jamshedpur](/colleges/xlri-jamshedpur) also offer highly prestigious tracks in Business Analytics.
 2.  **JK Business School (JKBS) Gurgaon:** JKBS stands out in Delhi NCR with its specialized **PGDM in Data Analytics and Business Intelligence (DABI)**. Offered in collaboration with the **Institute of Analytics (IoA), UK**, this program gives students a global credential, specialized industry exposure, and access to Gurgaon’s massive corporate network.
     *   *Read more:* [JKBS Gurgaon PGDM DABI Review 2026](/blog/jkbs-gurgaon-pgdm-dabi-data-analytics-review-2026)
-3.  **[Delhi School of Business (DSB), VIPS](/colleges/dsb-delhi):** DSB offers a PGDM with a strong emphasis on fintech, business intelligence, and analytical decision-making, supported by a state-of-the-art Analytics E-Lab and Bloomberg terminals.
+3.  **[Maharaja Agrasen Business School (MABS)](/colleges/mabs-delhi), Delhi:** MABS offers a modern PGDM curriculum with specialized training in Business Analytics, data frameworks, and decision-making tools, ensuring high corporate relevance and placement opportunities.
 
 ---
 

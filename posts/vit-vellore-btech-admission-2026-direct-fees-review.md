@@ -43,7 +43,7 @@ VIT’s fee structure depends on your VITEEE rank. The higher the rank, the lowe
 *   **Top Recruiters**: Microsoft, Amazon, Google, PayPal, Cisco, and Bank of America.
 *   **Mass Recruiters**: TCS (hired 4,000+ students in one go), Wipro, and Cognizant.
 
-### **Is VIT Vellore Worth It? (A Honest Review)**
+### **Is [VIT Vellore](/colleges/vit-vellore) Worth It? (A Honest Review)**
 **Pros:**
 *   **FFCS (Fully Flexible Credit System)**: You can choose your own timetable and professors.
 *   **Infrastructure**: World-class labs, massive libraries, and excellent sports facilities.

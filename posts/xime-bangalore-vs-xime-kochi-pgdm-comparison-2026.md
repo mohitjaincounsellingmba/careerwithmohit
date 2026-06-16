@@ -88,7 +88,7 @@ One of the biggest strengths of the XIME group is its **centralized, unified pla
 
 - **Average Package**: ~₹10–10.8 LPA across both campuses
 - **Top Recruiters (Both Campuses)**: Infosys, EY, KPMG, Accenture, Wipro, Deloitte, TCS, HDFC Bank, Amazon, Cognizant
-- **XIME Bangalore Edge**: Slightly higher top-end packages (₹20–22 LPA) due to deeper Bengaluru corporate penetration
+- **[XIME Bangalore](/colleges/xime-bangalore) Edge**: Slightly higher top-end packages (₹20–22 LPA) due to deeper Bengaluru corporate penetration
 - **XIME Kochi Edge**: Strong placements in BFSI, IT Services, and Gulf-facing sectors
 
 > For most students, placements will be largely similar. The edge Bangalore holds is at the **higher salary bracket**, not the median.

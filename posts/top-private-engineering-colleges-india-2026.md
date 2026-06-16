@@ -116,7 +116,7 @@ Shiv Nadar University (backed by HCL founder Shiv Nadar) offers one of the best 
 |---|---|---|
 | Under ₹2 Lakhs/yr | Amrita, SRM, VIT | ₹6–12 LPA |
 | ₹2–3 Lakhs/yr | MIT Manipal, KJ Somaiya, Bennett | ₹7–15 LPA |
-| ₹3–5 Lakhs/yr | BITS Pilani, Thapar, Shiv Nadar | ₹10–22 LPA |
+| ₹3–5 Lakhs/yr | [BITS Pilani](/colleges/bits-pilani), Thapar, Shiv Nadar | ₹10–22 LPA |
 | Above ₹5 Lakhs/yr | Ashoka, Jindal (Engineering) | Variable |
 
 ---

@@ -48,7 +48,7 @@ Any individual, agent, or website claiming to offer admission to [MNIT Jaipur](/
 2. **Check Eligibility**: 75% in 10+2 (or top 20 percentile of your state board) with Physics and Mathematics as mandatory subjects.
 3. **JoSAA Counselling**: Register at [josaa.nic.in](https://josaa.nic.in) after JEE Main results. Fill college and branch preferences.
 4. **Seat Allocation**: Based on your JEE Main rank, category, and preferences — seats are offered across multiple JoSAA rounds.
-5. **Document Verification & Fee Payment**: Report to MNIT Jaipur or complete online verification as per JoSAA guidelines.
+5. **Document Verification & Fee Payment**: Report to [MNIT Jaipur](/colleges/mnit-jaipur) or complete online verification as per JoSAA guidelines.
 
 ---
 

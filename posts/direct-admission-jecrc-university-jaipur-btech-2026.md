@@ -78,7 +78,7 @@ The university does have a **management quota** for a limited number of seats, b
 
 ---
 
-### **B.Tech Branches at JECRC University**
+### **B.Tech Branches at [JECRC University](/colleges/jecrc-jaipur)**
 
 - Computer Science & Engineering (CSE)
 - CSE with AI & Machine Learning

@@ -40,7 +40,7 @@ The total academic fee for the 2-year MBA program is approximately **₹27.77 La
 ### 4. Does [SIBM Pune](/colleges/sibm-pune) have 100% placements?
 Yes, [SIBM Pune](/colleges/sibm-pune) consistently achieves **100% placements** with top-tier companies across consulting, finance, and FMCG.
 
-[👉 Check your SIBM Pune admission chances based on SNAP score!](/inquiry)
+[👉 Check your [SIBM Pune](/colleges/sibm-pune) admission chances based on SNAP score!](/inquiry)
 
 ---
 

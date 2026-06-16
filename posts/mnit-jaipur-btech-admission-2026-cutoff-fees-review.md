@@ -57,7 +57,7 @@ Looking for more engineering insights? Check out our other popular guides:
 *   [Best Engineering Colleges in Jaipur: NIRF Rankings](/blog/best-mba-colleges-in-jaipur-2026) *(Relevant for Jaipur context)*
 
 **Confused About Home State vs. Other State Quota?**
-Rajasthan students have a significant advantage through the Home State quota at MNIT Jaipur. If you are struggling to decide between MNIT Jaipur and an older NIT like Rourkela, our expert counselors at **CareerWithMohit** can help you analyze branch superiority vs. location advantage.
+Rajasthan students have a significant advantage through the Home State quota at [MNIT Jaipur](/colleges/mnit-jaipur). If you are struggling to decide between MNIT Jaipur and an older NIT like Rourkela, our expert counselors at **CareerWithMohit** can help you analyze branch superiority vs. location advantage.
 
 [👉 Get Expert Admission Guidance for MNIT Jaipur!](/inquiry)
 

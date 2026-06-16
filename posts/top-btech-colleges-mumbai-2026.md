@@ -133,7 +133,7 @@ If your MHT CET score is below the cutoff, management quota (15% of seats) is av
 ## FAQs — B.Tech Colleges in Mumbai 2026
 
 **Q1. Which is the best B.Tech college in Mumbai?**
-IIT Bombay is the #1 ranked engineering college in India. For state-level government colleges, VJTI Mumbai is the gold standard. Among private colleges, KJ Somaiya and NMIMS MPSTME are highly regarded.
+[IIT Bombay](/colleges/iit-bombay) is the #1 ranked engineering college in India. For state-level government colleges, VJTI Mumbai is the gold standard. Among private colleges, KJ Somaiya and NMIMS MPSTME are highly regarded.
 
 **Q2. What MHT CET score is needed for VJTI Mumbai CSE?**
 Typically, a percentile of 99.5+ or a raw score above 135/150 is needed for VJTI CSE in open category. Competition is extremely high.

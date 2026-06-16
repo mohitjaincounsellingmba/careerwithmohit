@@ -171,7 +171,7 @@ IIT Madras has been ranked #1 by NIRF for 6 consecutive years. For placements, [
 All IITs charge ₹2.5 Lakhs per year (₹10 Lakhs total for 4 years). Students with parental income below ₹5 Lakhs get full tuition waiver. These are among the lowest fees for a world-class engineering education anywhere.
 
 **Q4. Can I get into top 10 engineering colleges without JEE?**
-No — the top 9 (IITs and NIT Trichy) require JEE Advanced or JEE Main. Only BITS Pilani (#10) has its own entrance exam (BITSAT) — making it the only top-10 college accessible without a JEE score.
+No — the top 9 (IITs and NIT Trichy) require JEE Advanced or JEE Main. Only [BITS Pilani](/colleges/bits-pilani) (#10) has its own entrance exam (BITSAT) — making it the only top-10 college accessible without a JEE score.
 
 **Q5. Which IIT should I prefer if I have rank 1,000 in JEE Advanced?**
 With a JEE Advanced rank of ~1,000, you can target IIT Kharagpur CSE, IIT Roorkee CSE, or IIT Guwahati CSE. Check the latest JoSAA opening/closing ranks for the most accurate guidance.

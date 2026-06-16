@@ -348,7 +348,7 @@ Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoff
 
 ## Frequently Asked Questions (FAQs)
 
-**Q1. Is NMIMS Mumbai better than newer IIMs?**
+**Q1. Is [NMIMS Mumbai](/colleges/nmims-mumbai) better than newer IIMs?**
 In terms of placements and industry reputation, NMIMS Mumbai (SBM) competes with IIM Udaipur, IIM Trichy, and IIM Kashipur. The ₹25 LPA average package is comparable, and NMIMS has a far stronger alumni network in BFSI and Pharma sectors.
 
 **Q2. Does NMIMS accept CAT scores?**

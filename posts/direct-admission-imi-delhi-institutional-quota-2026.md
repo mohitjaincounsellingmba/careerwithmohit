@@ -47,7 +47,7 @@ Yes, [IMI Delhi](/colleges/imi-delhi) has provision for institutional quota seat
 ### 2. Does [IMI Delhi](/colleges/imi-delhi) accept CMAT scores?
 No, [IMI Delhi](/colleges/imi-delhi) only accepts **CAT** or **XAT** for its flagship PGDM programs.
 
-### 3. What is the average package for IMI Delhi?
+### 3. What is the average package for [IMI Delhi](/colleges/imi-delhi)?
 The latest average package for the PGDM batch is approximately **₹17.1 LPA**.
 
 ### 4. Can freshers apply for IMI Delhi?

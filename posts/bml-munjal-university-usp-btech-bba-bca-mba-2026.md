@@ -297,7 +297,7 @@ Yes — merit-based scholarships linked to JEE Main percentile and Class 12 scor
 
 ---
 
-[👉 Apply to BML Munjal University — Get Free Guidance](/inquiry)  
+[👉 Apply to [BML Munjal University](/colleges/bml-munjal-gurgaon) — Get Free Guidance](/inquiry)  
 [👉 Read: BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)  
 [👉 Best BTech Colleges in Gurgaon 2026](/blog/top-btech-colleges-gurgaon-2026)  
 [👉 Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)  

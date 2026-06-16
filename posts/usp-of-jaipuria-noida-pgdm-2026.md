@@ -141,7 +141,7 @@ Very few private B-schools in India carry all three credentials simultaneously.
 **Q1. What is [Jaipuria Noida](/colleges/jaipuria-noida)'s NIRF ranking?**
 NIRF 2025 ranked Jaipuria Institute of Management, Noida at **#41 in Management** — top 50 in India.
 
-**Q2. What is the highest package at Jaipuria Noida?**
+**Q2. What is the highest package at [Jaipuria Noida](/colleges/jaipuria-noida)?**
 ₹24.11 LPA for the 2026 batch.
 
 **Q3. Does Jaipuria have AACSB accreditation?**
