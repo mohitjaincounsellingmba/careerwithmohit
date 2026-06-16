@@ -165,7 +165,7 @@ NIT Trichy is the pinnacle of NIT excellence — consistently India's top-ranked
 IIT Madras has been ranked #1 by NIRF for 6 consecutive years. For placements, [IIT Bombay](/colleges/iit-bombay) is often considered #1. For pure computer science prestige, IIT Delhi is #1 among employers.
 
 **Q2. Is [BITS Pilani](/colleges/bits-pilani) better than NITs for engineering?**
-BITS Pilani's placements for CSE and ECE are generally comparable or better than the top NITs (Trichy, Warangal). Its Practice School gives it a significant advantage for industry exposure.
+[BITS Pilani](/colleges/bits-pilani)'s placements for CSE and ECE are generally comparable or better than the top NITs (Trichy, Warangal). Its Practice School gives it a significant advantage for industry exposure.
 
 **Q3. What is the total fee for B.Tech at IITs?**
 All IITs charge ₹2.5 Lakhs per year (₹10 Lakhs total for 4 years). Students with parental income below ₹5 Lakhs get full tuition waiver. These are among the lowest fees for a world-class engineering education anywhere.

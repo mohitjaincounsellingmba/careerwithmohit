@@ -75,7 +75,7 @@ XIME Kochi was established in 2013 as an extension of the [XIME Bangalore](/coll
 
 This is where the **decision gets practical**.
 
-- **XIME Bangalore**: ~₹12.90 Lakhs (2-year tuition) + hostel (~₹1.2–1.6L/year) = **Total outlay: ~₹15.5–16.1 Lakhs**
+- **[XIME Bangalore](/colleges/xime-bangalore)**: ~₹12.90 Lakhs (2-year tuition) + hostel (~₹1.2–1.6L/year) = **Total outlay: ~₹15.5–16.1 Lakhs**
 - **XIME Kochi**: ~₹9.90 Lakhs (2-year tuition) + hostel (~₹1.2–1.6L/year) = **Total outlay: ~₹12.5–13.1 Lakhs**
 
 > 💡 If you are taking an education loan, the **~₹3 Lakh difference** in tuition alone can save you significant EMI and interest burden over 5 years.

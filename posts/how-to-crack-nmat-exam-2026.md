@@ -83,7 +83,7 @@ LR in NMAT is a mix of verbal reasoning and analytical reasoning.
 Your raw marks are converted into a scaled score ranging from 36 to 360. This scaling ensures that scores are comparable across different test slots and difficulty levels.
 
 ### Q2. Does NMAT have sectional cutoffs?
-Yes! NMIMS Mumbai has strict sectional cutoffs (typically around 75+ in Language, 72+ in Quant, and 72+ in Logical Reasoning). You must perform consistently across all three sections.
+Yes! [NMIMS Mumbai](/colleges/nmims-mumbai) has strict sectional cutoffs (typically around 75+ in Language, 72+ in Quant, and 72+ in Logical Reasoning). You must perform consistently across all three sections.
 
 ### Q3. Can I prepare for NMAT alongside CAT?
 Absolutely. The syllabus is virtually identical. The only shift required is practicing NMAT mock tests to adapt to the speed (108 questions in 120 minutes) and learning how to solve Data Sufficiency and Input-Output questions.

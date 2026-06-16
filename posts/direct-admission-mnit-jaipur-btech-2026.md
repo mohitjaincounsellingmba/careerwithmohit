@@ -42,7 +42,7 @@ Any individual, agent, or website claiming to offer admission to [MNIT Jaipur](/
 
 ---
 
-### **MNIT Jaipur B.Tech Admission Process 2026 (The Only Legitimate Route)**
+### **[MNIT Jaipur](/colleges/mnit-jaipur) B.Tech Admission Process 2026 (The Only Legitimate Route)**
 
 1. **Appear for JEE Main 2026**: Register at [jeemain.nta.nic.in](https://jeemain.nta.nic.in). Both Session 1 and Session 2 are valid. Best of two scores is considered.
 2. **Check Eligibility**: 75% in 10+2 (or top 20 percentile of your state board) with Physics and Mathematics as mandatory subjects.

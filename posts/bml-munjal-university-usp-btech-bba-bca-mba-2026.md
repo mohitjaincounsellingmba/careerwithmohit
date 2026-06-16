@@ -290,7 +290,7 @@ JEE Main, CUET, SAT, and BMU-SAT (university's own test) are all accepted for BT
 It's a full **UGC-recognised university MBA degree** — not a PGDM diploma.
 
 **Q5. What is BMU's NIRF ranking?**  
-NIRF 2025 ranked BML Munjal University **#77 in the Management category**.
+NIRF 2025 ranked [BML Munjal University](/colleges/bml-munjal-gurgaon) **#77 in the Management category**.
 
 **Q6. Does BMU offer scholarships for BTech?**  
 Yes — merit-based scholarships linked to JEE Main percentile and Class 12 scores can cover up to **100% of tuition fees** for high performers.

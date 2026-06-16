@@ -125,7 +125,7 @@ Amazon, Adobe, Samsung, Qualcomm visit JIIT for Delhi NCR tech hiring. Strong CS
 Rarely. Most "100% placement" claims count internships, deferred offers, or pool placements. Always ask for the specific number of students placed on-campus with confirmed joining dates.
 
 **Q3. Which private engineering college has the best placements in India?**
-BITS Pilani (Pilani campus) consistently has the best private college CSE/ECE/Chemical placements. Thapar University and JIIT Noida follow for North India.
+[BITS Pilani](/colleges/bits-pilani) (Pilani campus) consistently has the best private college CSE/ECE/Chemical placements. Thapar University and JIIT Noida follow for North India.
 
 **Q4. What average salary can I expect from a top NIT?**
 From NIT Trichy, NIT Warangal, or NIT Surathkal for CSE, you can expect ₹10–16 LPA average. For ECE and Mechanical, ₹6–12 LPA.

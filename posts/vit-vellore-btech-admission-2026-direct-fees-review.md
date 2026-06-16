@@ -36,7 +36,7 @@ VIT’s fee structure depends on your VITEEE rank. The higher the rank, the lowe
 *Hostel and mess charges are additional, ranging from ₹1.2 Lakhs to ₹2.5 Lakhs per year depending on the room type (AC/Non-AC).*
 
 ### **[VIT Vellore](/colleges/vit-vellore) Placement Review (2025-2026)**
-VIT Vellore is a placement powerhouse. The centralized placement process ensures high-volume opportunities for all students.
+[VIT Vellore](/colleges/vit-vellore) is a placement powerhouse. The centralized placement process ensures high-volume opportunities for all students.
 *   **Highest Package for 2025 Batch**: ₹1.02 Crore (International) / ₹88 LPA (Domestic).
 *   **Overall Average CTC**: ₹9.9 LPA to ₹10.2 LPA.
 *   **B.Tech CSE Average**: Over ₹14.5 LPA.

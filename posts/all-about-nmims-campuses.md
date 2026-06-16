@@ -335,7 +335,7 @@ Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoff
 
 ## Which NMIMS Campus Should You Choose?
 
-- **For the best placements & brand value → NMIMS Mumbai** (clear #1, worth every rupee)
+- **For the best placements & brand value → [NMIMS Mumbai](/colleges/nmims-mumbai)** (clear #1, worth every rupee)
 - **For best ROI after Mumbai → NMIMS Bengaluru** (₹72 LPA highest package, tech city advantage)
 - **For value-for-money in the Mumbai region → NMIMS Navi Mumbai** (NMIMS tag at lower fees)
 - **For South India with IT focus → NMIMS Hyderabad** (decent packages, lower living costs)

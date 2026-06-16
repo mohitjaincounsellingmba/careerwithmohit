@@ -8,7 +8,7 @@ keywords: ["JKBS Gurgaon PGDM DABI", "JK Business School Data Analytics fees", "
 
 In the modern corporate ecosystem of 2026, business strategy is driven by data. Organizations across consulting, marketing, retail, and finance are seeking management professionals who can decode complex data patterns, build predictive models, and drive strategic growth. As a result, standard general management degrees are giving way to tech-aligned specializations. 
 
-Recognizing this shift, **JK Business School (JKBS), Gurgaon** offers a specialized **PGDM in Data Analytics and Business Intelligence (DABI)** for the 2026-28 cohort. 
+Recognizing this shift, **[JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)** offers a specialized **PGDM in Data Analytics and Business Intelligence (DABI)** for the 2026-28 cohort. 
 
 This program merges classical MBA core subjects with advanced mathematical analysis, database queries, and machine learning models, equipping students with highly in-demand analytical skills.
 

@@ -99,7 +99,7 @@ Not to be confused with [VIT Vellore](/colleges/vit-vellore). VIT Mumbai is loca
 
 | Exam | Applicable Colleges | Exam Month |
 |---|---|---|
-| JEE Advanced 2026 | IIT Bombay | May 2026 |
+| JEE Advanced 2026 | [IIT Bombay](/colleges/iit-bombay) | May 2026 |
 | MHT CET 2026 | VJTI, SPIT, DJSCE, TSEC, FCRIT | Apr–May 2026 |
 | NMIMS NPAT 2026 | NMIMS MPSTME | Apr 2026 |
 | JEE Main 2026 | KJ Somaiya (Merit) | Jan, Apr 2026 |

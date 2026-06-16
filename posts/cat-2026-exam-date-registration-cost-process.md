@@ -6,7 +6,7 @@ description: "Looking for the CAT 2026 exam date, registration schedule, fee (co
 keywords: ["CAT 2026 exam date", "CAT 2026 registration date", "CAT 2026 registration cost", "CAT 2026 application process", "how to register for CAT 2026"]
 ---
 
-The **Common Admission Test (CAT) 2026** is the ultimate gateway for MBA and PGDM aspirants in India. Conducted by one of the top Indian Institutes of Management (IIMs), securing a high score in CAT is mandatory to secure admission into the 21 IIMs, FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, IITs, and other premier business schools.
+The **Common Admission Test (CAT) 2026** is the ultimate gateway for MBA and PGDM aspirants in India. Conducted by one of the top Indian Institutes of Management (IIMs), securing a high score in CAT is mandatory to secure admission into the 21 IIMs, [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), IITs, and other premier business schools.
 
 If you are planning to take the CAT 2026 exam, staying ahead of the timeline, understanding the registration fee (cost), and knowing the exact step-by-step process is crucial to avoid last-minute errors. 
 

@@ -66,7 +66,7 @@ The university does have a **management quota** for a limited number of seats, b
 
 ### **Scholarships at [JECRC University](/colleges/jecrc-jaipur) for B.Tech**
 
-JECRC University offers merit-based scholarships that can significantly reduce your fee burden:
+[JECRC University](/colleges/jecrc-jaipur) offers merit-based scholarships that can significantly reduce your fee burden:
 
 | JEE Main Percentile / 12th % | Scholarship |
 | :--- | :--- |
