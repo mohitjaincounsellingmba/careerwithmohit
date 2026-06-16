@@ -18,6 +18,14 @@ In 2026, several globally accredited and UGC-recognized universities now offer *
 
 ---
 
+> 📊 **Compare UGC-Approved Online Universities in 2 Minutes!**
+>
+> Compare 34+ top online universities on fees, NAAC grades, and courses. Filter and choose the best one.
+>
+> [👉 Compare & Filter Online MBA Colleges Now](/online-degree-certification)
+
+---
+
 ## What is a 1-Year Online MBA?
 
 A **1-Year Online MBA** is a full master's program in business administration compressed into 12 months, delivered entirely online. It covers core management subjects — Strategy, Finance, Marketing, HR, Operations — along with a chosen specialization.
@@ -175,6 +183,8 @@ A 1-year online MBA is the perfect fit for:
 | **Campus Required** | No | Sometimes (weekend modules) |
 | **Focus** | Broad Management | Leadership & Strategy |
 | **Accreditation** | UGC / International | Varies |
+
+[InquiryCard title="Looking for a 1-Year Online MBA?" description="Get absolute clarity on fees, recognition, and global validity (WES/AACSB) of 1-year online MBAs. Talk to Mohit Jain for a free counselling session." cta="Get Free Counselling Now" type="admission"]
 
 ---
 

@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { BadgeCheck, Phone, ChevronDown } from 'lucide-react';
 import OnlineDegreeClient from '@/components/OnlineDegreeClient';
+import OnlineDegreeLeadForm from '@/components/OnlineDegreeLeadForm';
 import { COLLEGES } from '@/data/onlineColleges';
 
 const BASE_URL = 'https://www.careerwithmohit.online';
@@ -273,6 +274,11 @@ export default function OnlineDegreePage() {
           </a>
         </div>
 
+        {/* ── LEAD CAPTURE FORM ── */}
+        <section className="px-6 py-8 bg-[#f8f7f4]">
+          <OnlineDegreeLeadForm />
+        </section>
+
         {/* ── WHY CHOOSE ONLINE — SEO H2 SECTION ── */}
         <section className="bg-white py-16 md:py-20">
           <div className="max-w-5xl mx-auto px-6">
@@ -303,6 +309,87 @@ export default function OnlineDegreePage() {
 
         {/* ── INTERACTIVE CLIENT SECTION ── */}
         <OnlineDegreeClient />
+
+        {/* ── STATIC COMPARISON TABLE FOR SEO ── */}
+        <section className="bg-white py-16 md:py-20 border-t border-gray-100">
+          <div className="max-w-5xl mx-auto px-6">
+            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4 text-center">
+              Top UGC-Approved Online Universities Comparison (2026)
+            </h2>
+            <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto text-sm md:text-base font-medium">
+              Below is the comprehensive comparison of top-rated online degrees on fees, duration, NAAC accreditation grades, and UGC-DEB recognition status.
+            </p>
+            <div className="overflow-x-auto border-[4px] border-[#0f172a] rounded-2xl shadow-[8px_8px_0px_0px_rgba(15,23,42,1)]">
+              <table className="w-full text-left border-collapse min-w-[700px]">
+                <thead>
+                  <tr className="bg-[#0f172a] text-white font-bold text-xs uppercase tracking-widest border-b-[4px] border-[#0f172a]">
+                    <th className="px-6 py-4">University Name</th>
+                    <th className="px-6 py-4 text-center">NAAC Grade</th>
+                    <th className="px-6 py-4">Approx. Fees (2 Years)</th>
+                    <th className="px-6 py-4">Top Programs</th>
+                    <th className="px-6 py-4 text-center">UGC Status</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y-2 divide-gray-100 font-medium text-gray-700 text-sm">
+                  {[
+                    { name: 'Amity University Online', grade: 'A+ Rated', fee: '₹1.99 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com', status: 'UGC-DEB Approved' },
+                    { name: 'Jain University Online', grade: 'A++ Rated', fee: '₹1.96 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Com', status: 'UGC-DEB Approved' },
+                    { name: 'LPU Online', grade: 'A++ Rated', fee: '₹1.61 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Sc', status: 'UGC-DEB Approved' },
+                    { name: 'Chandigarh University Online', grade: 'A+ Rated', fee: '₹1.65 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com', status: 'UGC-DEB Approved' },
+                    { name: 'Manipal University Jaipur Online', grade: 'A+ Rated', fee: '₹1.75 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com', status: 'UGC-DEB Approved' },
+                    { name: 'NMIMS Online', grade: 'A+ Rated', fee: '₹2.00 Lakhs', programs: 'MBA, BBA, B.Com, Diploma', status: 'UGC-DEB Approved' },
+                    { name: 'Andhra University Online', grade: 'A Rated', fee: '₹62,200', programs: 'MBA, MCA, B.Com, BA', status: 'UGC-DEB Approved' },
+                    { name: 'SRM University Online', grade: 'A++ Rated', fee: '₹1.00 Lakhs', programs: 'MBA, MCA, BBA, BCA', status: 'UGC-DEB Approved' },
+                    { name: 'D.Y Patil University Online (Pune)', grade: 'A++ Rated', fee: '₹1.89 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Sc', status: 'UGC-DEB Approved' },
+                    { name: 'Galgotias University Online', grade: 'A+ Rated', fee: '₹90,000', programs: 'MBA, MCA, BBA, BCA', status: 'UGC-DEB Approved' }
+                  ].map((univ, idx) => (
+                    <tr key={idx} className="hover:bg-gray-50 transition-colors">
+                      <td className="px-6 py-4 font-bold text-[#0f172a]">{univ.name}</td>
+                      <td className="px-6 py-4 text-center"><span className="bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full text-xs font-bold border border-indigo-100">{univ.grade}</span></td>
+                      <td className="px-6 py-4 font-bold text-green-700">{univ.fee}</td>
+                      <td className="px-6 py-4 text-xs font-semibold text-gray-500">{univ.programs}</td>
+                      <td className="px-6 py-4 text-center"><span className="bg-emerald-50 text-emerald-700 px-3 py-1 rounded-full text-xs font-bold border border-emerald-100">{univ.status}</span></td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        {/* ── UGC VALIDITY & REGULATIONS INFO SECTION ── */}
+        <section className="bg-[#f8f7f4] py-16 md:py-20 border-t border-b border-gray-200">
+          <div className="max-w-4xl mx-auto px-6">
+            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-6 text-center">
+              Are Online Degrees Valid for Government Jobs &amp; Abroad?
+            </h2>
+            <div className="prose prose-slate max-w-none text-gray-600 font-medium text-sm md:text-base space-y-6">
+              <p>
+                A common question students ask is: <strong>&quot;Is an online degree recognized by employers and government bodies in India?&quot;</strong> The short answer is <strong>Yes</strong>, provided it is from a university approved by the UGC-DEB.
+              </p>
+              <div className="bg-white border-l-[8px] border-indigo-500 p-6 rounded-r-2xl shadow-sm">
+                <h3 className="font-black text-[#0f172a] text-lg mb-2">UGC Notification on Equivalence</h3>
+                <p className="text-sm leading-relaxed">
+                  As per the <strong>UGC Regulations 2020</strong> published in the Gazette of India, degrees acquired through Open and Distance Learning (ODL) and Online modes are treated as <strong>equivalent to corresponding degrees</strong> offered through conventional physical classrooms.
+                </p>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-4">
+                <div className="bg-white p-6 rounded-2xl border border-gray-200/60 shadow-sm">
+                  <h4 className="font-black text-[#0f172a] mb-2">Government &amp; PSU Jobs Eligibility</h4>
+                  <p className="text-xs md:text-sm leading-relaxed text-gray-500">
+                    Students holding UGC-DEB approved online degrees are eligible to sit for UPSC, bank exams (SBI, IBPS), SSC CGL, and other state/central government recruitment examinations. They also hold equivalent eligibility for public sector units (PSUs).
+                  </p>
+                </div>
+                <div className="bg-white p-6 rounded-2xl border border-gray-200/60 shadow-sm">
+                  <h4 className="font-black text-[#0f172a] mb-2">Global Validity &amp; WES Approval</h4>
+                  <p className="text-xs md:text-sm leading-relaxed text-gray-500">
+                    If you are planning to immigrate (e.g. to Canada under Express Entry) or pursue higher education abroad, choosing a WES-approved online university like Amity, Jain, or LPU is critical. The World Education Services (WES) evaluates these credentials as equivalent to a physical Canadian/US degree.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
         {/* ── HOW TO CHOOSE SECTION ── */}
         <section className="bg-white py-16 md:py-20">
