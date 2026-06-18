@@ -9,38 +9,13 @@ import { BTechCollegeGenerator } from "@/components/BTechCollegeGenerator";
 import { MBACollegeGenerator } from "@/components/MBACollegeGenerator";
 import { BBACollegeGenerator } from "@/components/BBACollegeGenerator";
 import { CompareDrawer } from "@/components/CompareDrawer";
-import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, Layers, Check, Award, ShieldCheck } from "lucide-react";
+import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, Layers, Check } from "lucide-react";
 
 interface TrendingBlog {
   slug: string;
   title: string;
   date: string;
   description?: string;
-}
-
-// Helpers to calculate ROI (average placement / fees)
-function parsePlacementNum(val: string): number {
-  if (!val) return 0;
-  const clean = val.replace(/[₹,\s]/g, "").toLowerCase();
-  const match = clean.match(/([\d.]+)\s*(?:lpa|l|k)?/);
-  if (match) {
-    let num = parseFloat(match[1]);
-    if (clean.includes("k")) num = num / 100;
-    return num;
-  }
-  return 0;
-}
-
-function parseFeesNum(val: string): number {
-  if (!val) return 0;
-  const clean = val.replace(/[₹,\s]/g, "").toLowerCase();
-  const match = clean.match(/([\d.]+)\s*(?:lakhs|lakh|l|cr)?/);
-  if (match) {
-    let num = parseFloat(match[1]);
-    if (clean.includes("cr")) num = num * 100;
-    return num;
-  }
-  return 0;
 }
 
 export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: CollegeMetadata[]; trendingBlogs?: TrendingBlog[] }) {
@@ -86,27 +61,6 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
     const q = searchParams?.get('search') || '';
     if (q) setSearchQuery(q);
   }, [searchParams]);
-
-  // Dynamic counts for each category
-  const managementCount = useMemo(() => colleges.filter(c => c.category === "Management").length, [colleges]);
-  const engineeringCount = useMemo(() => colleges.filter(c => c.category === "Engineering").length, [colleges]);
-  const ugCount = useMemo(() => colleges.filter(c => c.category === "UG Courses").length, [colleges]);
-  const totalCount = colleges.length;
-
-  // Dynamically extract Top 4 ROI choices
-  const featuredColleges = useMemo(() => {
-    return [...colleges]
-      .map(c => {
-        const placement = parsePlacementNum(c.avg_placement);
-        const fees = parseFeesNum(c.fees);
-        const roi = fees > 0 ? placement / fees : 0;
-        return { college: c, roi };
-      })
-      .filter(item => item.roi > 0 && item.college.avg_placement !== "Not Disclosed")
-      .sort((a, b) => b.roi - a.roi)
-      .slice(0, 4)
-      .map(item => item.college);
-  }, [colleges]);
 
   // Specialization options keyed by category
   const specializationMap: Record<string, string[]> = {
@@ -294,6 +248,10 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, colleges, locationMap]);
 
   useEffect(() => {
+    console.log('Filtered colleges count:', filteredColleges.length);
+  }, [filteredColleges]);
+
+  useEffect(() => {
     setVisibleCount(20);
   }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking]);
 
@@ -327,96 +285,51 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   return (
     <div className="min-h-screen bg-slate-50/50 pb-32">
       {/* Premium Hero Section */}
-      <section className="relative pt-24 pb-28 overflow-hidden bg-primary border-b-8 border-foreground">
-        {/* Flat Geometric Decoration */}
-        <div className="absolute top-0 right-0 -mt-20 -mr-20 h-96 w-96 rounded-full bg-white/10" />
-        <div className="absolute bottom-0 left-0 -mb-20 -ml-20 h-64 w-64 rotate-45 bg-white/10" />
+      <section className="relative pt-20 pb-28 overflow-hidden bg-slate-900">
+        <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
+        <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-primary-brand/10 to-transparent"></div>
         
-        <div className="max-w-7xl mx-auto px-6 sm:px-12 relative z-10 text-center">
-          <div className="inline-flex items-center gap-2 px-4 py-2 bg-accent text-foreground border-2 border-foreground rounded-md text-[10px] font-black uppercase tracking-widest mb-6 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
-            <Sparkles className="w-4 h-4 stroke-[2.5px]" />
-            <span>Admissions Directory 2026</span>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary-brand/10 border border-primary-brand/20 text-primary-brand text-xs font-bold uppercase tracking-widest mb-6">
+            <Sparkles className="w-3.5 h-3.5" />
+            <span>AI-Powered Admissions Predictor</span>
           </div>
           
-          <h1 className="text-4xl md:text-7xl font-extrabold text-white mb-6 tracking-tight uppercase leading-none">
-            Find the Best College <br />
-            <span className="bg-white text-foreground px-4 py-1.5 inline-block -rotate-1 border-4 border-foreground shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] mt-2">
-              For Your Future
-            </span>
+          <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-6 tracking-tight">
+            Find the Best College for <span className="text-primary-brand">Your Future</span>
           </h1>
           
-          <p className="text-lg text-blue-50 max-w-2xl mx-auto font-bold italic leading-relaxed">
-            Explore 260+ verified premium institutions in India. Uncompromised fee structures, authentic average placement audits, and cutoffs.
+          <p className="text-lg text-slate-300 max-w-2xl mx-auto font-medium">
+            Explore 200+ verified premium institutions in India. Check rankings, cut-offs, fee structures, and placement details.
           </p>
-
-          {/* Statistics Ticker */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto mt-12 bg-white border-4 border-foreground p-6 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
-            {[
-              { label: "Verified Colleges", value: `${totalCount}+`, icon: "🏢" },
-              { label: "Fee Structures", value: "100% Clear", icon: "💰" },
-              { label: "Placement Audits", value: "Verified 2025", icon: "📈" },
-              { label: "Counselling Desk", value: "15k+ Dominated", icon: "🚀" }
-            ].map((ticker, index) => (
-              <div key={index} className="flex items-center gap-3 justify-center md:justify-start">
-                <span className="text-3xl">{ticker.icon}</span>
-                <div className="text-left">
-                  <div className="text-lg font-black text-foreground leading-none">{ticker.value}</div>
-                  <div className="text-[9px] font-black text-slate-400 uppercase tracking-widest mt-1">{ticker.label}</div>
-                </div>
-              </div>
-            ))}
-          </div>
         </div>
       </section>
 
       {/* Main Filter & Dashboard Area */}
-      <div className="max-w-7xl mx-auto px-6 sm:px-12 -mt-10 relative z-30">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-10 relative z-30">
         
-        {/* Stream Selector Pill Grid */}
-        <div className="bg-white rounded-2xl border-4 border-foreground p-6 mb-8 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] space-y-6">
-          
-          {/* Custom Neo-Brutalist Category Switches */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {[
-              { id: "All Streams", label: "All Streams", count: totalCount, icon: "🌐" },
-              { id: "Management", label: "MBA & PGDM", count: managementCount, icon: "🎓" },
-              { id: "UG Courses", label: "BBA & UG", count: ugCount, icon: "📈" },
-              { id: "Engineering", label: "B.Tech & Engg", count: engineeringCount, icon: "💻" }
-            ].map((stream) => {
-              const isActive = selectedCategory === stream.id;
+        {/* Stream Selector Tab & Search Bar Container */}
+        <div className="bg-white rounded-2xl shadow-xl border border-slate-100 p-5 mb-8 space-y-5">
+          {/* Category Tabs */}
+          <div className="flex border-b border-slate-100 overflow-x-auto no-scrollbar gap-6 pb-2">
+            {categories.map((cat) => {
+              const isActive = selectedCategory === cat;
               return (
                 <button
-                  key={stream.id}
+                  key={cat}
                   onClick={() => {
-                    setSelectedCategory(stream.id);
+                    setSelectedCategory(cat);
                     setSelectedCourse("All Courses");
                     setSelectedExam("All Exams");
                     setSelectedSpecialization("All Specializations");
-                    setSelectedState("All States");
-                    setSelectedCity("All Cities");
-                    setSelectedFeeRange("All Fees");
-                    setSelectedRanking("All Rankings");
                   }}
-                  className={`flex items-center justify-between p-4 border-2 border-foreground transition-all rounded-xl cursor-pointer ${
+                  className={`pb-3 text-sm font-bold border-b-2 transition-all whitespace-nowrap cursor-pointer ${
                     isActive 
-                      ? "bg-accent text-foreground shadow-none translate-x-[2px] translate-y-[2px]" 
-                      : `bg-white hover:bg-slate-50 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:translate-x-[1px] hover:translate-y-[1px]`
+                      ? "border-primary-brand text-primary-brand" 
+                      : "border-transparent text-slate-500 hover:text-slate-800"
                   }`}
                 >
-                  <div className="flex items-center gap-3">
-                    <span className="text-2xl">{stream.icon}</span>
-                    <div className="text-left">
-                      <span className="block text-xs font-black uppercase tracking-tight text-foreground leading-none">
-                        {stream.label}
-                      </span>
-                      <span className="text-[10px] font-bold text-slate-400">
-                        Explore
-                      </span>
-                    </div>
-                  </div>
-                  <span className="bg-foreground text-white border border-foreground text-[10px] font-black px-2 py-0.5 rounded-md">
-                    {stream.count}
-                  </span>
+                  {cat}
                 </button>
               );
             })}
@@ -425,13 +338,13 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
           {/* Search Action Bar */}
           <div className="flex flex-col sm:flex-row gap-3">
             <div className="relative flex-grow">
-              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-foreground w-5 h-5 stroke-[2.5px]" />
+              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 w-5 h-5" />
               <input
                 type="text"
                 placeholder="Search colleges by name, city, courses, or exams..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-12 pr-10 py-3.5 bg-slate-50 border-2 border-foreground focus:outline-none focus:bg-white transition-all text-sm font-black text-foreground placeholder:text-slate-400"
+                className="w-full pl-12 pr-10 py-3.5 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-brand/20 focus:bg-white transition-all text-sm font-bold text-slate-800 placeholder:text-slate-400"
               />
               {searchQuery && (
                 <button onClick={() => setSearchQuery("")} className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600">
@@ -440,59 +353,31 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
               )}
             </div>
 
-            <button className="bg-foreground hover:bg-slate-800 text-white font-black text-xs uppercase tracking-widest px-8 py-3.5 border-2 border-foreground shadow-[3px_3px_0px_0px_rgba(59,130,246,1)] hover:shadow-none hover:translate-x-[2px] hover:translate-y-[2px] transition-all">
+            <button className="bg-primary-brand hover:bg-primary-brand/90 text-white font-bold text-sm px-8 py-3.5 rounded-xl transition-all shadow-md shadow-primary-brand/10">
               Search
             </button>
           </div>
         </div>
-
-        {/* Featured Showcase */}
-        {featuredColleges.length > 0 && selectedCategory === "All Streams" && searchQuery === "" && (
-          <div className="mb-12 border-4 border-foreground bg-accent/5 p-6 sm:p-8 rounded-2xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
-            <div className="flex items-center justify-between mb-6 border-b-2 border-foreground pb-4 border-dashed">
-              <div className="flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-accent stroke-[2.5px]" />
-                <h3 className="text-lg font-black uppercase tracking-tight text-foreground italic">
-                  Top Featured Choices · High ROI Picks
-                </h3>
-              </div>
-              <span className="bg-accent text-foreground text-[9px] font-black px-3 py-1 border-2 border-foreground rounded-md uppercase tracking-wider">
-                2026 Admissions
-              </span>
-            </div>
-            
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-              {featuredColleges.map((college) => (
-                <CollegeCard 
-                  key={college.slug} 
-                  college={college} 
-                  onCompareToggle={handleCompareToggle}
-                  isCompared={comparedColleges.some((c) => c.slug === college.slug)}
-                />
-              ))}
-            </div>
-          </div>
-        )}
 
         {/* Layout Grid */}
         <div className="flex flex-col lg:flex-row gap-8">
           
           {/* Sidebar Filters */}
           <aside className={`lg:w-1/4 shrink-0 ${showFiltersMobile ? 'block' : 'hidden lg:block'}`}>
-            <div className="bg-white rounded-2xl border-4 border-foreground p-5 lg:sticky lg:top-24 max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar space-y-6 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+            <div className="bg-white rounded-2xl border border-slate-100 p-5 lg:sticky lg:top-24 max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar space-y-6">
               
-              <div className="flex items-center justify-between border-b-2 border-foreground pb-4">
-                <h3 className="text-sm font-black text-foreground uppercase tracking-wider flex items-center gap-2">
-                  <Filter className="w-4 h-4 text-foreground stroke-[2.5px]" /> Filter Panel
+              <div className="flex items-center justify-between border-b border-slate-100 pb-4">
+                <h3 className="text-base font-bold text-slate-800 flex items-center gap-2">
+                  <Filter className="w-4 h-4 text-primary-brand" /> Filters
                 </h3>
                 {activeFiltersCount > 0 && (
-                  <button onClick={resetFilters} className="text-xs font-black text-rose-600 hover:underline uppercase tracking-wide">
+                  <button onClick={resetFilters} className="text-xs font-bold text-rose-500 hover:underline">
                     Reset
                   </button>
                 )}
               </div>
 
-              {/* Styled Select Box Accordions */}
+              {/* Accordions */}
               <div className="space-y-4">
                 <FilterGroup label="Course" icon={<GraduationCap className="w-3.5 h-3.5" />}>
                   <select 
@@ -501,7 +386,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                       setSelectedCourse(e.target.value);
                       setSelectedSpecialization("All Specializations");
                     }}
-                    className="w-full bg-white border-2 border-foreground rounded-none py-2 px-3 focus:outline-none focus:bg-accent/10 text-foreground font-black text-xs cursor-pointer shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1px] hover:translate-y-[1px] transition-all"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {courseOptionsForCategory.map(course => <option key={course} value={course}>{course}</option>)}
                   </select>
@@ -512,7 +397,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                     <select
                       value={selectedSpecialization}
                       onChange={(e) => setSelectedSpecialization(e.target.value)}
-                      className="w-full bg-white border-2 border-foreground rounded-none py-2 px-3 focus:outline-none focus:bg-accent/10 text-foreground font-black text-xs cursor-pointer shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1px] hover:translate-y-[1px] transition-all"
+                      className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
                     >
                       {specializationOptions.map(s => <option key={s} value={s}>{s}</option>)}
                     </select>
@@ -526,7 +411,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                       setSelectedState(e.target.value);
                       setSelectedCity("All Cities");
                     }}
-                    className="w-full bg-white border-2 border-foreground rounded-none py-2 px-3 focus:outline-none focus:bg-accent/10 text-foreground font-black text-xs cursor-pointer shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1px] hover:translate-y-[1px] transition-all"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {states.map(state => <option key={state} value={state}>{state}</option>)}
                   </select>
@@ -537,68 +422,41 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                     value={selectedCity}
                     onChange={(e) => setSelectedCity(e.target.value)}
                     disabled={selectedState === "All States" && cities.length <= 1}
-                    className="w-full bg-white border-2 border-foreground rounded-none py-2 px-3 focus:outline-none focus:bg-accent/10 text-foreground font-black text-xs cursor-pointer shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1px] hover:translate-y-[1px] transition-all disabled:opacity-50"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs disabled:opacity-50 cursor-pointer"
                   >
                     {cities.map(city => <option key={city} value={city}>{city}</option>)}
                   </select>
                 </FilterGroup>
 
-                <FilterGroup label="Fees Budget" icon={<IndianRupee className="w-3.5 h-3.5" />}>
+                <FilterGroup label="Fees" icon={<IndianRupee className="w-3.5 h-3.5" />}>
                   <select 
                     value={selectedFeeRange}
                     onChange={(e) => setSelectedFeeRange(e.target.value)}
-                    className="w-full bg-white border-2 border-foreground rounded-none py-2 px-3 focus:outline-none focus:bg-accent/10 text-foreground font-black text-xs cursor-pointer shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1px] hover:translate-y-[1px] transition-all"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {feeRanges.map(range => <option key={range} value={range}>{range}</option>)}
                   </select>
                 </FilterGroup>
 
-                <FilterGroup label="Entrance Exam" icon={<Award className="w-3.5 h-3.5" />}>
+                <FilterGroup label="Exam">
                   <select 
                     value={selectedExam}
                     onChange={(e) => setSelectedExam(e.target.value)}
-                    className="w-full bg-white border-2 border-foreground rounded-none py-2 px-3 focus:outline-none focus:bg-accent/10 text-foreground font-black text-xs cursor-pointer shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1px] hover:translate-y-[1px] transition-all"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {allPossibleExams.map(exam => <option key={exam} value={exam}>{exam}</option>)}
                   </select>
                 </FilterGroup>
 
-                <FilterGroup label="Ownership Type">
+                <FilterGroup label="Ownership">
                   <select 
                     value={selectedOwnership}
                     onChange={(e) => setSelectedOwnership(e.target.value)}
-                    className="w-full bg-white border-2 border-foreground rounded-none py-2 px-3 focus:outline-none focus:bg-accent/10 text-foreground font-black text-xs cursor-pointer shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1px] hover:translate-y-[1px] transition-all"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {ownershipTypes.map(type => <option key={type} value={type}>{type}</option>)}
                   </select>
                 </FilterGroup>
-              </div>
-
-              {/* Counselor Hotline Banner */}
-              <div className="border-4 border-foreground bg-accent p-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] relative overflow-hidden group border-dashed">
-                <div className="absolute top-0 right-0 -mt-6 -mr-6 w-16 h-16 bg-white/10 rounded-full rotate-45" />
-                <h4 className="text-xl font-black uppercase leading-none mb-2 tracking-tight italic">
-                  Admission <br />Guidance Desk
-                </h4>
-                <div className="w-16 h-1 bg-foreground mb-4" />
-                <p className="text-xs font-bold text-foreground/80 leading-snug mb-6 italic">
-                  Confused about placement rates, direct admission, or scholarship budgets? Contact Mohit Jain's counsel.
-                </p>
-                
-                <div className="space-y-3">
-                  <Link 
-                    href="/inquiry" 
-                    className="block w-full text-center py-3 bg-foreground text-white font-black uppercase tracking-widest text-[10px] border-2 border-foreground hover:bg-white hover:text-foreground transition-all shadow-[3px_3px_0px_0px_rgba(255,255,255,1)] hover:shadow-none hover:translate-x-[1.5px] hover:translate-y-[1.5px]"
-                  >
-                    Get Free Advice &rarr;
-                  </Link>
-                  <a 
-                    href="https://wa.me/919560020771" 
-                    className="block w-full text-center py-3 bg-white text-foreground font-black uppercase tracking-widest text-[10px] border-2 border-foreground hover:bg-slate-50 transition-all shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1.5px] hover:translate-y-[1.5px]"
-                  >
-                    WhatsApp Helpline
-                  </a>
-                </div>
               </div>
 
             </div>
@@ -609,12 +467,12 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
             
             {/* Results Header */}
             <div className="mb-6 flex items-center justify-between">
-              <h2 className="text-lg font-black text-foreground uppercase tracking-tight italic">
-                Colleges Directory <span className="bg-primary text-white border-2 border-foreground px-3 py-0.5 rounded-md text-xs font-black ml-2 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">{filteredColleges.length} Verified</span>
+              <h2 className="text-lg font-bold text-slate-800">
+                Top Colleges List <span className="text-primary-brand bg-primary-brand/10 px-2.5 py-0.5 rounded-full text-xs font-black ml-2">{filteredColleges.length} Found</span>
               </h2>
               <button 
                 onClick={() => setShowFiltersMobile(!showFiltersMobile)}
-                className="lg:hidden flex items-center gap-1.5 px-4 py-2 bg-foreground text-white border-2 border-foreground rounded-lg font-black text-xs"
+                className="lg:hidden flex items-center gap-1.5 px-4 py-2 bg-slate-800 text-white rounded-lg font-bold text-xs"
               >
                 <Filter className="w-3.5 h-3.5" />
                 Filters
@@ -635,13 +493,13 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
 
             {/* Empty State */}
             {filteredColleges.length === 0 && (
-              <div className="py-20 text-center bg-white border-4 border-foreground p-6 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+              <div className="py-20 text-center bg-white rounded-2xl border border-slate-200/60 p-6">
                 <Search className="w-12 h-12 text-slate-300 mx-auto mb-4" />
-                <h3 className="text-lg font-black text-foreground uppercase mb-1">No colleges match your filter</h3>
-                <p className="text-slate-400 text-xs font-bold mb-6 max-w-sm mx-auto">Try clearing one or more active filters to view results.</p>
+                <h3 className="text-lg font-bold text-slate-800 mb-1">No colleges match your filter</h3>
+                <p className="text-slate-400 text-sm mb-6 max-w-sm mx-auto">Try clearing one or more active filters to view results.</p>
                 <button 
                   onClick={resetFilters}
-                  className="px-6 py-2.5 bg-accent text-foreground border-2 border-foreground font-black text-xs uppercase tracking-widest shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1.5px] hover:translate-y-[1.5px]"
+                  className="px-6 py-2.5 bg-primary-brand text-white rounded-xl font-bold text-xs uppercase tracking-wider"
                 >
                   Clear Filters
                 </button>
@@ -653,7 +511,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
               <div className="flex justify-center mt-10">
                 <button 
                   onClick={() => setVisibleCount(prev => prev + 20)}
-                  className="px-8 py-3.5 bg-white border-2 border-foreground text-foreground hover:bg-slate-50 font-black text-xs uppercase tracking-widest transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[2.5px] hover:translate-y-[2.5px]"
+                  className="px-8 py-3 bg-white border border-primary-brand text-primary-brand hover:bg-primary-brand/5 rounded-xl font-bold text-xs uppercase tracking-wider transition-all"
                 >
                   Load More ({filteredColleges.length - visibleCount} remaining)
                 </button>
@@ -662,10 +520,10 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
 
             {/* Trending Blogs */}
             {trendingBlogs && trendingBlogs.length > 0 && (
-              <div className="mt-16 border-t-4 border-foreground border-dashed pt-10">
-                <div className="flex items-center gap-2 mb-6 text-foreground">
-                  <TrendingUp className="w-5 h-5 text-primary stroke-[2.5px]" />
-                  <span className="text-sm font-black uppercase tracking-widest">Trending Insights & Strategy</span>
+              <div className="mt-16 border-t border-slate-100 pt-10">
+                <div className="flex items-center gap-2 mb-6 text-primary-brand">
+                  <TrendingUp className="w-5 h-5" />
+                  <span className="text-sm font-black uppercase tracking-wider">Top Admission Insights</span>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   {trendingBlogs.slice(0, 4).map((post) => (
@@ -673,12 +531,12 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                       key={post.slug}
                       href={`/blog/${post.slug}`}
                       prefetch={false}
-                      className="group block bg-white border-2 border-foreground p-5 hover:bg-slate-50 transition-all shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-[1.5px] hover:translate-y-[1.5px]"
+                      className="group block bg-white border border-slate-100 rounded-2xl p-5 hover:border-primary-brand/20 transition-all"
                     >
-                      <span className="text-[9px] font-black text-slate-400 block mb-2 uppercase tracking-wider">
+                      <span className="text-[10px] font-bold text-primary-brand/80 block mb-2">
                         {new Date(post.date).toLocaleDateString('en-IN', { month: 'long', year: 'numeric' })}
                       </span>
-                      <h4 className="text-sm font-black text-foreground leading-snug group-hover:text-primary transition-colors">
+                      <h4 className="text-sm font-bold text-slate-800 leading-snug group-hover:text-primary-brand transition-colors">
                         {post.title}
                       </h4>
                     </Link>
@@ -710,7 +568,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
 function FilterGroup({ label, icon, children }: { label: string, icon?: React.ReactNode, children: React.ReactNode }) {
   return (
     <div className="space-y-2">
-      <label className="text-[9px] font-black uppercase tracking-widest text-slate-400 flex items-center gap-1.5 ml-1">
+      <label className="text-[10px] font-black uppercase tracking-wider text-slate-400 flex items-center gap-1.5 ml-1">
         {icon}
         {label}
       </label>
