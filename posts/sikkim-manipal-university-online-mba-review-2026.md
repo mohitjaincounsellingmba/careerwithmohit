@@ -1,9 +1,42 @@
 ---
-title: "Sikkim Manipal University Online MBA Review 2026: Fees ₹1,00,000-₹1,20,000 | SMU DDE"
-date: "2026-05-10"
-category: "Online MBA"
-description: "Honest review of Sikkim Manipal University (SMU) online MBA 2026. Know real fees (₹1,00,000–₹1,20,000), dual specializations, NAAC A+ status, and who should choose SMU over costlier alternatives."
-keywords: ["Sikkim Manipal University online MBA review 2026", "SMU online MBA fees 2026", "SMU DDE MBA 2026", "Sikkim Manipal online MBA specializations", "SMU NAAC A+ online MBA", "cheapest branded online MBA India 2026", "is SMU online MBA valid 2026"]
+title: >-
+  Sikkim Manipal University Online MBA Review 2026: Fees ₹1,00,000-₹1,20,000 |
+  SMU DDE
+date: '2026-05-10'
+category: Online MBA
+description: >-
+  Honest review of Sikkim Manipal University (SMU) online MBA 2026. Know real
+  fees (₹1,00,000–₹1,20,000), dual specializations, NAAC A+ status, and who
+  should choose SMU over costlier alternatives.
+keywords:
+  - Sikkim Manipal University online MBA review 2026
+  - SMU online MBA fees 2026
+  - SMU DDE MBA 2026
+  - Sikkim Manipal online MBA specializations
+  - SMU NAAC A+ online MBA
+  - cheapest branded online MBA India 2026
+  - is SMU online MBA valid 2026
+faqs:
+  - question: What is the difference between SMU DDE MBA and SMU Online MBA?
+    answer: >-
+      SMU DDE (Distance Education) is the older correspondence-based model. The
+      newer online program uses a digital LMS (via the Online Manipal platform)
+      with live sessions and digital content. Both are from the same
+      institution.
+  - question: Is SMU the same as Manipal MAHE?
+    answer: >-
+      No. SMU (Sikkim campus) and MAHE (Manipal, Karnataka) are different
+      institutions under the Manipal Group. MAHE holds NAAC A++ and a QS ranking
+      — making its degree more premium. SMU holds NAAC A+.
+  - question: Why is SMU MBA so cheap compared to others?
+    answer: >-
+      SMU has maintained affordable fees as part of its mission to make quality
+      education accessible. The trade-off is less placement support and lower
+      corporate brand recognition compared to NMIMS or Manipal MAHE.
+  - question: Can I do dual specialization in SMU online MBA?
+    answer: >-
+      Yes — and this is actually included in the base fee, which is rare. You
+      can combine Finance + Marketing, HR + Finance, etc.
 ---
 
 **Sikkim Manipal University (SMU)** is one of India's oldest and most trusted distance/online education institutions, operating via its **SMU-DDE (Directorate of Distance Education)**. With over 25 years of experience, **NAAC A+ accreditation**, and a total program fee starting from just **₹1,00,000**, the SMU Online MBA is the most affordable branded option in India for 2026.
@@ -158,10 +191,18 @@ Yes — and this is actually included in the base fee, which is rare. You can co
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

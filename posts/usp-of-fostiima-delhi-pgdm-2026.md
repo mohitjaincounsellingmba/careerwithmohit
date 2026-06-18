@@ -1,8 +1,30 @@
 ---
-title: "USP of FOSTIIMA Delhi 2026: 10 Reasons Why This IIM-A Alumni B-School Stands Out"
-date: "2026-05-11"
-description: "Discover the unique selling points of FOSTIIMA Business School Delhi for the 2026-28 PGDM batch — IIM-A alumni leadership, ₹11.15 LPA average package, and best-in-class ROI. Find out why FOSTIIMA is Delhi's most exciting rising B-school."
-keywords: ["USP of FOSTIIMA Delhi", "FOSTIIMA unique selling points", "FOSTIIMA PGDM 2026", "FOSTIIMA Delhi placements 2026", "why choose FOSTIIMA", "FOSTIIMA IIM alumni", "FOSTIIMA review 2026", "best PGDM college Delhi 2026"]
+title: >-
+  USP of FOSTIIMA Delhi 2026: 10 Reasons Why This IIM-A Alumni B-School Stands
+  Out
+date: '2026-05-11'
+description: >-
+  Discover the unique selling points of FOSTIIMA Business School Delhi for the
+  2026-28 PGDM batch — IIM-A alumni leadership, ₹11.15 LPA average package, and
+  best-in-class ROI. Find out why FOSTIIMA is Delhi's most exciting rising
+  B-school.
+keywords:
+  - USP of FOSTIIMA Delhi
+  - FOSTIIMA unique selling points
+  - FOSTIIMA PGDM 2026
+  - FOSTIIMA Delhi placements 2026
+  - why choose FOSTIIMA
+  - FOSTIIMA IIM alumni
+  - FOSTIIMA review 2026
+  - best PGDM college Delhi 2026
+faqs:
+  - question: Is it really founded by IIM alumni?
+    answer: >-
+      Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad).
+      FOSTIIMA stands for "Friends Of Seventy-Three [IIM
+      Ahmedabad](/colleges/iim-ahmedabad)."
+  - question: What is the total fee?
+    answer: ₹11.5 Lakhs for the 2026-28 PGDM batch.
 ---
 
 In the crowded Delhi PGDM market, **FOSTIIMA Business School** has carved a unique identity — it's the only private B-school in Delhi **founded, funded, and managed by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni**. Since its inception, FOSTIIMA has attracted students who want IIM-quality thinking at a fee that makes financial sense.
@@ -149,9 +171,17 @@ Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad). FOSTIIMA 
 
 ### 🚀 Boost Your MBA Preparation
 
-**[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** for real-time exam practice and analytics.
+**[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** for real-time exam practice and analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

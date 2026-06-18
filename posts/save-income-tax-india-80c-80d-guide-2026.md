@@ -1,9 +1,37 @@
 ---
-title: "How to Save Tax Under Section 80C & 80D — 2026 Ultimate Guide"
-date: "2026-04-21"
-category: "Finance"
-description: "Master the art of legal tax saving in India. Discover the best 80C and 80D investment options for 2026, including ELSS, PPF, NPS, and Health Insurance benefits."
-keywords: ["how to save tax in india 2026", "safe tax 80c and 80d", "best 80c investment options 2026", "elss vs ppf comparison 2026", "nps tax benefit section 80cc", "section 80d medical insurance limit", "tax saving tips for salaried individuals"]
+title: How to Save Tax Under Section 80C & 80D — 2026 Ultimate Guide
+date: '2026-04-21'
+category: Finance
+description: >-
+  Master the art of legal tax saving in India. Discover the best 80C and 80D
+  investment options for 2026, including ELSS, PPF, NPS, and Health Insurance
+  benefits.
+keywords:
+  - how to save tax in india 2026
+  - safe tax 80c and 80d
+  - best 80c investment options 2026
+  - elss vs ppf comparison 2026
+  - nps tax benefit section 80cc
+  - section 80d medical insurance limit
+  - tax saving tips for salaried individuals
+faqs:
+  - question: is PPF interest taxable?
+    answer: >-
+      No. PPF falls under the **EEE (Exempt-Exempt-Exempt)** category, meaning
+      the investment, the interest, and the maturity amount are all tax-free.
+  - question: Should I buy an FD for tax saving?
+    answer: >-
+      Tax-saving FDs have a lock-in of 5 years. While safe, the interest earned
+      is **fully taxable** as per your slab, making the effective (post-tax)
+      return very low.
+  - question: Can I claim 80D for my parents if they are not dependent?
+    answer: >-
+      Yes. You can claim deduction for medical insurance premiums paid for
+      parents, regardless of whether they are dependent on you or not.
+  - question: What is the best month to start tax saving?
+    answer: >-
+      **April.** Start a Monthly SIP in ELSS from April to avoid the last-minute
+      liquidity crunch in March.
 ---
 
 Tax saving is often left for the last quarter of the financial year, leading to rushed decisions and sub-par investment returns. In 2026, with the rising costs of living and higher inflation, optimizing your **Section 80C and 80D** deductions is essential to increasing your take-home salary and building long-term wealth.
@@ -102,9 +130,17 @@ Tax-saving instruments should solve two problems: reduce your tax today and grow
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

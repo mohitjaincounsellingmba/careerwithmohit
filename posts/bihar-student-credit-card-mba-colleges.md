@@ -1,8 +1,35 @@
 ---
-title: "Bihar Student Credit Card (DRCC) MBA Colleges Pan India 2026-28: Complete City-Wise List"
-date: "2026-03-25"
-description: "Updated city-wise list of top private MBA colleges accepting the Bihar Student Credit Card (DRCC/BSCC) scheme for 2026-28. Learn how to get up to ₹4 Lakhs at 0% interest for MBA in Pune, Delhi, & Bangalore."
-keywords: ["Bihar Student Credit Card top MBA colleges 2026", "DRCC approved MBA colleges list", "BSCC scheme 0 percent interest MBA", "MBA colleges for Bihar students in Pune", "Bihar education loan 2026 for PGDM", "DRCC approved colleges Bangalore", "how to apply for BSCC for MBA outside Bihar"]
+title: >-
+  Bihar Student Credit Card (DRCC) MBA Colleges Pan India 2026-28: Complete
+  City-Wise List
+date: '2026-03-25'
+description: >-
+  Updated city-wise list of top private MBA colleges accepting the Bihar Student
+  Credit Card (DRCC/BSCC) scheme for 2026-28. Learn how to get up to ₹4 Lakhs at
+  0% interest for MBA in Pune, Delhi, & Bangalore.
+keywords:
+  - Bihar Student Credit Card top MBA colleges 2026
+  - DRCC approved MBA colleges list
+  - BSCC scheme 0 percent interest MBA
+  - MBA colleges for Bihar students in Pune
+  - Bihar education loan 2026 for PGDM
+  - DRCC approved colleges Bangalore
+  - how to apply for BSCC for MBA outside Bihar
+faqs:
+  - question: Is the Bihar Student Credit Card really interest-free in 2026?
+    answer: >-
+      Yes! As per the September 2025 update, the interest rate is **0% for all
+      applicants** for the 2026-28 batch.
+  - question: Can I apply for DRCC if I am studying outside Bihar?
+    answer: >-
+      Yes. The scheme is designed for residents of Bihar to pursue higher
+      education anywhere in India, provided the college/course is recognized.
+  - question: What if I don't get a job after my MBA?
+    answer: >-
+      You can submit a self-declaration of unemployment to the DRCC to extend
+      your grace period.
+  - question: How long does the verification process take?
+    answer: Usually **45 to 60 days** from the date of your DRCC office visit.
 ---
 
 If you are a student from Bihar planning to pursue an MBA in the **2026-28 session**, the **Bihar Student Credit Card (BSCC)** scheme is your most powerful financial tool. Managed through **District Registration & Counselling Centres (DRCC)**, it has recently been updated to offer even better terms for students.
@@ -146,9 +173,17 @@ Usually **45 to 60 days** from the date of your DRCC office visit.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

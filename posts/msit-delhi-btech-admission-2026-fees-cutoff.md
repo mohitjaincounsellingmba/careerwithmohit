@@ -1,8 +1,33 @@
 ---
-title: "Maharaja Surajmal Institute of Technology (MSIT) B.Tech Admission 2026: Cutoffs & Review"
-date: "2026-03-24"
-description: "Planning for B.Tech at MSIT Delhi? Get the latest on JEE Main 2026 cutoffs, IPU counselling process, detailed fee structure, and its ₹50 LPA placement record."
-keywords: ["MSIT Delhi BTech admission 2026", "Maharaja Surajmal Institute of Technology cutoff", "MSIT IPU cutoff for CSE", "MSIT Delhi fees 2026", "MSIT placement review 2025", "MSIT vs MAIT comparison", "GGSIPU counselling MSIT"]
+title: >-
+  Maharaja Surajmal Institute of Technology (MSIT) B.Tech Admission 2026:
+  Cutoffs & Review
+date: '2026-03-24'
+description: >-
+  Planning for B.Tech at MSIT Delhi? Get the latest on JEE Main 2026 cutoffs,
+  IPU counselling process, detailed fee structure, and its ₹50 LPA placement
+  record.
+keywords:
+  - MSIT Delhi BTech admission 2026
+  - Maharaja Surajmal Institute of Technology cutoff
+  - MSIT IPU cutoff for CSE
+  - MSIT Delhi fees 2026
+  - MSIT placement review 2025
+  - MSIT vs MAIT comparison
+  - GGSIPU counselling MSIT
+faqs:
+  - question: How is the metro connectivity for MSIT?
+    answer: >-
+      MSIT is located in Janakpuri, within walking distance from the Janakpuri
+      West and Janakpuri East metro stations, making it very accessible.
+  - question: What is the fee for B.Tech at MSIT Delhi in 2026?
+    answer: >-
+      The annual tuition fee is approximately ₹1.17 Lakhs, which is consistent
+      across most GGSIPU private colleges.
+  - question: Is there a dress code at MSIT?
+    answer: >-
+      MSIT maintains a decent academic environment, and while there isn't a
+      strict uniform, students are expected to follow basic campus decorum.
 ---
 
 **Maharaja Surajmal Institute of Technology (MSIT)** is a top-ranked engineering college in Delhi, affiliated with Guru Gobind Singh Indraprastha University (GGSIPU). Located in Janakpuri (West Delhi), MSIT is known for its academic discipline, high faculty standards, and excellent connectivity to the Delhi Metro.
@@ -67,9 +92,17 @@ MSIT maintains a decent academic environment, and while there isn't a strict uni
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -1,9 +1,40 @@
 ---
-title: "[Amity University](/colleges/amity-noida) Online MBA Review 2026: Fees, Specializations & Placement Reality"
-date: "2026-05-10"
-category: "Online MBA"
-description: "Honest review of [Amity University](/colleges/amity-noida) Online MBA 2026. Check fees (₹1,99,000 total), 15+ specializations, UGC-DEB status, NAAC A+ rating, placement support, and who should actually enroll."
-keywords: ["[Amity University](/colleges/amity-noida) online MBA review 2026", "Amity Online MBA fees 2026", "Amity online MBA specializations", "[Amity University](/colleges/amity-noida) UGC DEB approved online MBA", "Amity online MBA placement review", "amityonline.com MBA admission 2026", "is Amity online MBA worth it"]
+title: >-
+  [Amity University](/colleges/amity-noida) Online MBA Review 2026: Fees,
+  Specializations & Placement Reality
+date: '2026-05-10'
+category: Online MBA
+description: >-
+  Honest review of [Amity University](/colleges/amity-noida) Online MBA 2026.
+  Check fees (₹1,99,000 total), 15+ specializations, UGC-DEB status, NAAC A+
+  rating, placement support, and who should actually enroll.
+keywords:
+  - '[Amity University](/colleges/amity-noida) online MBA review 2026'
+  - Amity Online MBA fees 2026
+  - Amity online MBA specializations
+  - '[Amity University](/colleges/amity-noida) UGC DEB approved online MBA'
+  - Amity online MBA placement review
+  - amityonline.com MBA admission 2026
+  - is Amity online MBA worth it
+faqs:
+  - question: Does Amity Online MBA require CAT or any entrance exam?
+    answer: >-
+      No. Admission is purely merit-based on your graduation marks. No CAT, MAT,
+      or GMAT is required.
+  - question: Can I pursue Amity Online MBA while working a full-time job?
+    answer: >-
+      Absolutely — that is the primary design of the program. All sessions are
+      available in live and recorded formats, with self-paced study.
+  - question: Is the Amity Online MBA degree mentioned as "online" on the certificate?
+    answer: >-
+      This depends on the batch and policy year. From 2023 onwards, UGC mandates
+      that online degrees are labeled accordingly. Verify current policy with
+      the admissions team.
+  - question: What is the difference between Amity Online MBA and Amity Distance MBA?
+    answer: >-
+      The Online MBA uses a live LMS with real-time classes, while Distance MBA
+      was an older correspondence model. Amity has now primarily shifted to
+      online mode.
 ---
 
 **[Amity University](/colleges/amity-noida) Online MBA** is one of the most recognized online management programs in India, offered by [Amity University, Noida](/colleges/amity-university-noida) — which holds **NAAC A+ accreditation**. With 15+ specializations and a globally recognized degree, it remains a top choice for working professionals in 2026.
@@ -153,10 +184,18 @@ The Online MBA uses a live LMS with real-time classes, while Distance MBA was an
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

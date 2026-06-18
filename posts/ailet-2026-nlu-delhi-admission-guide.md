@@ -1,9 +1,39 @@
 ---
-title: "AILET 2026 — NLU Delhi Entrance Guide & Strategy"
-date: "2026-04-21"
-category: "Law Admissions"
-description: "Aiming for NLU Delhi in 2026? Learn about the AILET 2026 exam pattern, syllabus, and preparation tips. Compare AILET vs CLAT to optimize your Law admission strategy."
-keywords: ["ailet 2026 notification", "nlu delhi admission 2026", "ailet syllabus 2026", "ailet vs clat which is tougher", "how to prepare for ailet 2026", "nlu delhi cutoff 2026", "ailet result date 2026"]
+title: AILET 2026 — NLU Delhi Entrance Guide & Strategy
+date: '2026-04-21'
+category: Law Admissions
+description: >-
+  Aiming for NLU Delhi in 2026? Learn about the AILET 2026 exam pattern,
+  syllabus, and preparation tips. Compare AILET vs CLAT to optimize your Law
+  admission strategy.
+keywords:
+  - ailet 2026 notification
+  - nlu delhi admission 2026
+  - ailet syllabus 2026
+  - ailet vs clat which is tougher
+  - how to prepare for ailet 2026
+  - nlu delhi cutoff 2026
+  - ailet result date 2026
+faqs:
+  - question: Is AILET open to all categories?
+    answer: >-
+      Yes. Seats are reserved for SC, ST, OBC, PWD, and EWS categories as per
+      government regulations.
+  - question: Does NLU Delhi have a 3-Year LLB course?
+    answer: >-
+      NLU Delhi traditionally offered only the 5-year Integrated BA LLB.
+      However, they have recently introduced a **multi-disciplinary**
+      approach—always check the latest 2026 brochure in August.
+  - question: What is the cutoff for NLU Delhi?
+    answer: >-
+      For the General category, a score of **85-95 out of 150** is usually
+      required to stay in the safe zone, but this varies significantly based on
+      paper difficulty.
+  - question: When is the best time to start AILET prep?
+    answer: >-
+      Ideally, you should start along with CLAT prep (around **12 months before
+      exam**). Since the syllabus overlaps by 80%, you just need to adjust your
+      logic speed for AILET in the final 3 months.
 ---
 
 While CLAT is the gateway to 24 NLUs, **AILET (All India Law Entrance Test)** is the exclusive gateway to just one: **NLU Delhi**. Ranked consistently among the top 3 law schools in India, NLU Delhi has a legacy of producing elite judicial and litigation professionals.
@@ -99,9 +129,17 @@ The margin of error in AILET is zero. One wrong logic set and you are out. Mohit
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -1,9 +1,37 @@
 ---
-title: "Can I do BCA Without Maths? — Schools & Eligibility Guide 2026"
-date: "2026-04-21"
-category: "BCA Admissions"
-description: "Confused if you can do BCA without Mathematics in 12th? The answer is YES. Discover the best BCA colleges for non-maths students and how to start your IT career in 2026."
-keywords: ["can i do bca without maths in 12th", "bca colleges for non maths students 2026", "bca without math eligibility", "is maths compulsory for bca in christ university", "how to do bca if i had commerce without maths", "bca with bridge course"]
+title: Can I do BCA Without Maths? — Schools & Eligibility Guide 2026
+date: '2026-04-21'
+category: BCA Admissions
+description: >-
+  Confused if you can do BCA without Mathematics in 12th? The answer is YES.
+  Discover the best BCA colleges for non-maths students and how to start your IT
+  career in 2026.
+keywords:
+  - can i do bca without maths in 12th
+  - bca colleges for non maths students 2026
+  - bca without math eligibility
+  - is maths compulsory for bca in christ university
+  - how to do bca if i had commerce without maths
+  - bca with bridge course
+faqs:
+  - question: Does Guru Gobind Singh Indraprastha University (GGSIPU) require Maths?
+    answer: >-
+      Yes. For BCA in IP University (Delhi), you must have either **Mathematics
+      or Web Applications/IP** in your 12th standard.
+  - question: Will I get a job if I do BCA without Maths?
+    answer: >-
+      Absolutely. Software companies like TCS, Infosys, and startups care about
+      your **Coding Skills and Project Portfolio**, not whether you scored 90 in
+      12th-grade Calculus.
+  - question: Is BCA harder for non-maths students?
+    answer: >-
+      Only for the first 3-6 months. Once you understand the "Logic of
+      Programming," the disadvantage of not having maths in school disappears.
+  - question: Can I do MCA after BCA if I didn't have maths in 12th?
+    answer: >-
+      Yes, but you will need to take the **NIMCET** or other state exams, which
+      typically have a Mathematics section. You will have to work harder on your
+      maths prep during your BCA years.
 ---
 
 One of the most common myths in the Indian education system is that you need "Mathematics" to build a career in software. While many top-tier government colleges still maintain strict maths eligibility, the landscape has changed drastically in 2026.
@@ -93,9 +121,17 @@ Many of India's top developers came from non-science backgrounds. Don't let a "M
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

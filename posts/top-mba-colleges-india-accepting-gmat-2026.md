@@ -1,11 +1,42 @@
 ---
-title: "Top MBA Colleges in India Accepting GMAT Scores 2026: Cutoffs & Fees"
-date: "2026-05-06"
-excerpt: "Looking for GMAT accepting colleges in India? Explore the comprehensive list of top B-schools like ISB, IIMs, and SPJIMR that accept GMAT Focus Edition scores for 2026-27 admissions."
-coverImage: "/images/blog/gmat-colleges-india.jpg"
-author: "Mohit Jain"
-category: "MBA"
-tags: ["GMAT 2026", "MBA Admissions", "ISB", "IIM PGPX", "Study in India", "GMAT Focus Edition"]
+title: 'Top MBA Colleges in India Accepting GMAT Scores 2026: Cutoffs & Fees'
+date: '2026-05-06'
+excerpt: >-
+  Looking for GMAT accepting colleges in India? Explore the comprehensive list
+  of top B-schools like ISB, IIMs, and SPJIMR that accept GMAT Focus Edition
+  scores for 2026-27 admissions.
+coverImage: /images/blog/gmat-colleges-india.jpg
+author: Mohit Jain
+category: MBA
+tags:
+  - GMAT 2026
+  - MBA Admissions
+  - ISB
+  - IIM PGPX
+  - Study in India
+  - GMAT Focus Edition
+description: "\U0001F4CA Quick GMAT 2026 Snapshot for Indian B-Schools | Business School | Primary Program | GMAT Type Accepted | Approx. Cutoff (Focus) | | :--- | :--- | :--- |..."
+keywords:
+  - MBA admission 2026
+  - best MBA colleges
+  - MBA placements
+  - CAT preparation
+faqs:
+  - question: Can I get into IIM with GMAT?
+    answer: >-
+      Yes, but primarily for the **1-year Executive MBA (PGPX/EPGP/MBAEx)**. For
+      the regular 2-year PGP, IIMs only accept CAT for Indian residents.
+      International/NRI candidates can use GMAT for the 2-year program.
+  - question: What is a good GMAT Focus score for Indian B-schools?
+    answer: >-
+      For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad),
+      aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score
+      between **615-645** is usually sufficient.
+  - question: Does XLRI accept GMAT?
+    answer: >-
+      XLRI accepts GMAT for its **PGDM (General Management)** program, which is
+      a 15-month executive course. For the flagship BM and HRM programs, only
+      XAT and GMAT (for NRIs) are accepted.
 ---
 
 ### 📊 Quick GMAT 2026 Snapshot for Indian B-Schools
@@ -99,9 +130,17 @@ If you are a working professional with 2+ years of experience, the GMAT is often
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

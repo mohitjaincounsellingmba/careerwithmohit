@@ -1,8 +1,33 @@
 ---
-title: "Direct Admission in LBSIM Delhi 2026: Management Quota & Facts"
-date: "2026-03-17"
-description: "Planning for LBSIM Delhi 2026? Learn how to secure direct admission through the management quota and institutional seats. Get facts on the 2026 PGDM fees and placements."
-keywords: ["LBSIM Delhi direct admission", "LBSIM Delhi management quota", "LBSIM Delhi PGDM fees 2026", "Lal Bahadur Shastri Institute of Management admission", "direct admission in LBSIM"]
+title: 'Direct Admission in LBSIM Delhi 2026: Management Quota & Facts'
+date: '2026-03-17'
+description: >-
+  Planning for LBSIM Delhi 2026? Learn how to secure direct admission through
+  the management quota and institutional seats. Get facts on the 2026 PGDM fees
+  and placements.
+keywords:
+  - LBSIM Delhi direct admission
+  - LBSIM Delhi management quota
+  - LBSIM Delhi PGDM fees 2026
+  - Lal Bahadur Shastri Institute of Management admission
+  - direct admission in LBSIM
+faqs:
+  - question: Does LBSIM Delhi have a management quota?
+    answer: >-
+      Yes, LBSIM offers admission through the institutional merit category for a
+      limited number of seats.
+  - question: What entrance exams does LBSIM accept for 2026?
+    answer: >-
+      LBSIM accepts only **CAT, XAT, and GMAT** scores for its regular PGDM
+      programs.
+  - question: What is the average stipend for LBSIM students?
+    answer: >-
+      The average summer internship stipend at LBSIM is approximately **₹60,000
+      to ₹80,000** for two months.
+  - question: Is direct admission in LBSIM donation-based?
+    answer: >-
+      No, it is a transparent, merit-linked process conducted through official
+      institutional channels.
 ---
 
 Lal Bahadur Shastri Institute of Management (LBSIM), Delhi, is an elite B-school known for its academic excellence, ethics-based education, and high-ROI programs. Located in Dwarka, New Delhi, LBSIM is a top choice for students focusing on Finance and General Management. For the 2026-28 batch, **Direct Admission in LBSIM Delhi** is a merit-linked institutional process.
@@ -65,9 +90,17 @@ No, it is a transparent, merit-linked process conducted through official institu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

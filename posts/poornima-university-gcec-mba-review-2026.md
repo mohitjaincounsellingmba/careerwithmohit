@@ -1,8 +1,31 @@
 ---
-title: "[Poornima University](/colleges/poornima-jaipur) GCEC MBA Review 2026: The Best ROI in Jaipur?"
-date: "2026-03-25"
-description: "Is [Poornima University](/colleges/poornima-jaipur)’s GCEC MBA the right choice for entrepreneurs? Explore specializations in International Finance (ACCA/CMA) and Sustainability, fees, and placements in our 2026 review."
-keywords: ["[Poornima University](/colleges/poornima-jaipur) GCEC MBA review 2026", "GCEC Jaipur MBA placement package", "MBA International Finance ACCA Jaipur", "[Poornima University](/colleges/poornima-jaipur) MBA fees 2026", "Global Centre for Entrepreneurship and Commerce reviews", "best MBA for entrepreneurship in Rajasthan"]
+title: >-
+  [Poornima University](/colleges/poornima-jaipur) GCEC MBA Review 2026: The
+  Best ROI in Jaipur?
+date: '2026-03-25'
+description: >-
+  Is [Poornima University](/colleges/poornima-jaipur)’s GCEC MBA the right
+  choice for entrepreneurs? Explore specializations in International Finance
+  (ACCA/CMA) and Sustainability, fees, and placements in our 2026 review.
+keywords:
+  - '[Poornima University](/colleges/poornima-jaipur) GCEC MBA review 2026'
+  - GCEC Jaipur MBA placement package
+  - MBA International Finance ACCA Jaipur
+  - '[Poornima University](/colleges/poornima-jaipur) MBA fees 2026'
+  - Global Centre for Entrepreneurship and Commerce reviews
+  - best MBA for entrepreneurship in Rajasthan
+faqs:
+  - question: 'Is GCEC [Poornima University](/colleges/poornima-jaipur) degree valid?'
+    answer: >-
+      Yes. The degree is awarded by [Poornima
+      University](/colleges/poornima-jaipur), which is a UGC-recognized private
+      university in Rajasthan.
+  - question: How many ACCA exemptions do I get in the GCEC MBA?
+    answer: >-
+      Students can get up to **9 paper exemptions** out of the 13 required for
+      ACCA (UK) certification, saving nearly 2 years of study time.
+  - question: What is the intake for the GCEC MBA 2026 batch?
+    answer: "They maintain a selective, smaller batch size to ensure personalized mentorship for startup ideas and placement grooming.\n\n[\U0001F449 Compare GCEC with Other Jaipur B-Schools!](/tools/college-comparison)\n\n**Ready to Build Your Own Empire?**\nAt **CareerWithMohit**, we help you identify the right \"Niche\" colleges that match your specific career goals in Finance or Entrepreneurship.\n\n[\U0001F449 Book a Personalized Admission Audit!](/inquiry)"
 ---
 
 Rajasthan is rapidly becoming a hub for startups and specialized education. Leading this change is the **Global Centre for Entrepreneurship and Commerce (GCEC)**, in collaboration with **[Poornima University](/colleges/poornima-jaipur), Jaipur**. 
@@ -74,9 +97,17 @@ At **CareerWithMohit**, we help you identify the right "Niche" colleges that mat
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

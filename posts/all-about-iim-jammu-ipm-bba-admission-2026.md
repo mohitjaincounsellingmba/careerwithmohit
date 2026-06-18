@@ -1,9 +1,26 @@
 ---
-title: "IIM Jammu IPM Admission 2026: Fees, Placements, and JIPMAT Guide"
-date: "2026-05-15"
-category: "BBA Admissions"
-description: "Everything you need to know about the 5-Year Integrated Programme in Management (IPM) at IIM Jammu for 2026. Get latest on JIPMAT, fees, and placements."
-keywords: ["iim jammu ipm admission 2026", "iim jammu ipmat fees", "iim jammu placement 2026", "jipmat 2026 exam strategy", "iim jammu integrated mba", "best bba program in india"]
+title: 'IIM Jammu IPM Admission 2026: Fees, Placements, and JIPMAT Guide'
+date: '2026-05-15'
+category: BBA Admissions
+description: >-
+  Everything you need to know about the 5-Year Integrated Programme in
+  Management (IPM) at IIM Jammu for 2026. Get latest on JIPMAT, fees, and
+  placements.
+keywords:
+  - iim jammu ipm admission 2026
+  - iim jammu ipmat fees
+  - iim jammu placement 2026
+  - jipmat 2026 exam strategy
+  - iim jammu integrated mba
+  - best bba program in india
+faqs:
+  - question: Does IIM Jammu accept SAT scores for IPM?
+    answer: >-
+      Generally, IIM Jammu focuses on JIPMAT for its Indian intake. Candidates
+      should check the latest brochure for any international/NRI specific
+      criteria involving SAT.
+  - question: What is the intake capacity for IPM 2026?
+    answer: The intake is approximately 120 seats for the 2026 batch.
 ---
 
 IIM Jammu, located in the scenic city of temples, is a prominent member of the third-generation IIMs offering the 5-Year Integrated Programme in Management (IPM). In 2026, it offers a blend of top-tier academic rigor and unique cultural exposure.
@@ -58,7 +75,15 @@ Both use the JIPMAT exam but have different campus cultures and location advanta
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium JIPMAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the specific difficulty level of the JIPMAT exam.
+Looking for more resources? **[Explore Our Premium JIPMAT Mock Test Series 2026](/mock-tests)** to practice the specific difficulty level of the JIPMAT exam.
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

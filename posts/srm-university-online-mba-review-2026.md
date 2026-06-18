@@ -1,9 +1,40 @@
 ---
-title: "SRM University Online MBA Review 2026: Fees ₹1,89,000 | Specializations & Placement"
-date: "2026-05-10"
-category: "Online MBA"
-description: "Is SRM University online MBA worth it in 2026? Check real fees (₹1,89,000 total), 9 specializations, NAAC A++ rating, UGC-DEB status, and honest placement assessment before enrolling."
-keywords: ["SRM University online MBA review 2026", "SRMIST online MBA fees 2026", "srmonline.in MBA admission", "SRM online MBA specializations", "SRM University NAAC A++ online MBA", "SRM online MBA placement 2026", "is SRM online MBA worth it"]
+title: >-
+  SRM University Online MBA Review 2026: Fees ₹1,89,000 | Specializations &
+  Placement
+date: '2026-05-10'
+category: Online MBA
+description: >-
+  Is SRM University online MBA worth it in 2026? Check real fees (₹1,89,000
+  total), 9 specializations, NAAC A++ rating, UGC-DEB status, and honest
+  placement assessment before enrolling.
+keywords:
+  - SRM University online MBA review 2026
+  - SRMIST online MBA fees 2026
+  - srmonline.in MBA admission
+  - SRM online MBA specializations
+  - SRM University NAAC A++ online MBA
+  - SRM online MBA placement 2026
+  - is SRM online MBA worth it
+faqs:
+  - question: What is the difference between SRM on-campus and online MBA?
+    answer: >-
+      The on-campus MBA (Kattankulathur) offers physical placement drives,
+      residential experience, and networking on campus. The online MBA is 100%
+      virtual with career assistance support.
+  - question: Can I join SRM online MBA without a CAT score?
+    answer: >-
+      Yes. SRM Online MBA does not require CAT, MAT, or any entrance score.
+      Admission is based on graduation marks.
+  - question: Is SRM online MBA NAAC A++ certified?
+    answer: >-
+      Yes. SRMIST holds NAAC A++ — the highest possible accreditation. This
+      applies to the institutional recognition of the degree.
+  - question: How is SRM Online MBA different from Chandigarh University or Amity?
+    answer: >-
+      SRM focuses on niche specializations (AI, Healthcare) and has stronger
+      tech sector ties. Amity offers more specializations (15+), while CU Online
+      is more affordable. Compare based on your career target.
 ---
 
 **SRM Institute of Science and Technology (SRMIST)** — one of India's most reputed private universities — offers an online MBA program through **SRM Online** (srmonline.in). With a **NAAC A++ grade** and AICTE recognition, it is a credible option for working professionals seeking a branded degree in 2026.
@@ -147,10 +178,18 @@ SRM focuses on niche specializations (AI, Healthcare) and has stronger tech sect
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

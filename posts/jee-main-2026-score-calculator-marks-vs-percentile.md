@@ -1,15 +1,34 @@
 ---
-title: "JEE Main 2026 Score Calculator: How to Check Your Marks & Percentile"
-date: "2026-04-13"
-description: "Calculate your JEE Main 2026 Session 2 score instantly with our response sheet checker. Get accurate marks vs percentile predictions and plan your NIT/IIIT admission."
-keywords: ["JEE Main 2026 score calculator", "JEE Main marks vs percentile 2026", "JEE Main response sheet checker", "JEE Main 2026 rank predictor", "JEE Main session 2 marks calculator", "NTA JEE Main 2026 marking scheme"]
+title: 'JEE Main 2026 Score Calculator: How to Check Your Marks & Percentile'
+date: '2026-04-13'
+description: >-
+  Calculate your JEE Main 2026 Session 2 score instantly with our response sheet
+  checker. Get accurate marks vs percentile predictions and plan your NIT/IIIT
+  admission.
+keywords:
+  - JEE Main 2026 score calculator
+  - JEE Main marks vs percentile 2026
+  - JEE Main response sheet checker
+  - JEE Main 2026 rank predictor
+  - JEE Main session 2 marks calculator
+  - NTA JEE Main 2026 marking scheme
 faqs:
-  - question: "How to calculate JEE Main 2026 score from response sheet?"
-    answer: "You can calculate your JEE Main 2 score by using our online calculator. Simply paste your response sheet URL from the NTA portal, and our tool will automatically map your answers to the official key, giving you a raw score out of 300."
-  - question: "What is a good score in JEE Main 2026 Session 2?"
-    answer: "A score of 180+ is generally considered good for getting into top NITs. For the 99 percentile, you usually need a score between 190-210, depending on the shift difficulty."
-  - question: "Is there negative marking in JEE Main 2026 Numerical Questions?"
-    answer: "Yes, as per the latest NTA guidelines, both MCQs and Numerical Value Questions (NVQs) have negative marking. You get +4 for a correct answer and -1 for an incorrect one."
+  - question: How to calculate JEE Main 2026 score from response sheet?
+    answer: >-
+      You can calculate your JEE Main 2 score by using our online calculator.
+      Simply paste your response sheet URL from the NTA portal, and our tool
+      will automatically map your answers to the official key, giving you a raw
+      score out of 300.
+  - question: What is a good score in JEE Main 2026 Session 2?
+    answer: >-
+      A score of 180+ is generally considered good for getting into top NITs.
+      For the 99 percentile, you usually need a score between 190-210, depending
+      on the shift difficulty.
+  - question: Is there negative marking in JEE Main 2026 Numerical Questions?
+    answer: >-
+      Yes, as per the latest NTA guidelines, both MCQs and Numerical Value
+      Questions (NVQs) have negative marking. You get +4 for a correct answer
+      and -1 for an incorrect one.
 ---
 
 The **JEE Main 2026 Session 2 (April Attempt)** is one of the most critical exams for engineering aspirants in India. Once the exam is over, the first thing every student wants to know is: *"How many marks did I score?"* and *"What will be my percentile?"*
@@ -94,9 +113,17 @@ Choosing the right engineering branch (CSE, AIML, ECE) is as important as choosi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -1,9 +1,37 @@
 ---
-title: "Top BCA Colleges in Kolkata 2026 — Fees, Placements & Admission"
-date: "2026-04-21"
-category: "BCA Admissions"
-description: "Planning a BCA in Kolkata? Discover the best colleges like Heritage, IEM, and St. Xavier's. Compare 2026 fees, MAKAUT admission, and verified tech placement stats for East India."
-keywords: ["top bca colleges in kolkata 2026", "best bca colleges kolkata", "heritage kolkata bca fees", "iem kolkata bca placements", "st xaviers kolkata bca admission", "bca admission kolkata 2026", "techno india bca fees", "direct bca admission kolkata"]
+title: 'Top BCA Colleges in Kolkata 2026 — Fees, Placements & Admission'
+date: '2026-04-21'
+category: BCA Admissions
+description: >-
+  Planning a BCA in Kolkata? Discover the best colleges like Heritage, IEM, and
+  St. Xavier's. Compare 2026 fees, MAKAUT admission, and verified tech placement
+  stats for East India.
+keywords:
+  - top bca colleges in kolkata 2026
+  - best bca colleges kolkata
+  - heritage kolkata bca fees
+  - iem kolkata bca placements
+  - st xaviers kolkata bca admission
+  - bca admission kolkata 2026
+  - techno india bca fees
+  - direct bca admission kolkata
+faqs:
+  - question: Does Heritage Kolkata require Maths for BCA?
+    answer: >-
+      Yes. A background in Mathematics at the 10+2 level is mandatory for most
+      MAKAUT-affiliated colleges in West Bengal.
+  - question: What is the average fee for BCA in Kolkata?
+    answer: >-
+      Government-aided colleges cost around ₹40,000 to ₹70,000 per year. Top
+      private autonomous institutes range from ₹90,000 to ₹1.5 Lakhs per year.
+  - question: Can BCA graduates work in PwC or Deloitte Kolkata?
+    answer: >-
+      Yes. Kolkata is one of the global HQs for the Big 4. They hire BCA
+      graduates for technical analyst and support roles.
+  - question: When is the Kolkata BCA admission 2026 starting?
+    answer: >-
+      Usually in **May/June**, immediately after the WBHSE and CBSE Board
+      results are declared.
 ---
 
 Kolkata, the "City of Joy" and the tech-gateway to East India, is a massive hub for computer application studies. With Sector V (Salt Lake) and Rajarhat housing global delivery centers of TCS, Cognizant, and IBM, Kolkata provides a unique mix of high-quality technical education and an affordable cost of living.
@@ -96,9 +124,17 @@ Kolkata offers branding that spans decades. Don't waste your precious 3 years at
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

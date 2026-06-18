@@ -1,8 +1,33 @@
 ---
-title: "Direct Admission in IMT Ghaziabad 2026: NRI & Merit Quota Facts"
-date: "2026-03-17"
-description: "Targeting IMT Ghaziabad 2026? Learn about direct admission via institutional seats, NRI quota, CAT/XAT cutoffs, and placement reports for the 2026-28 batch."
-keywords: ["IMT Ghaziabad direct admission", "IMT Ghaziabad management quota", "IMT Ghaziabad fees 2026", "Institute of Management Technology Ghaziabad admission", "direct admission in IMT"]
+title: 'Direct Admission in IMT Ghaziabad 2026: NRI & Merit Quota Facts'
+date: '2026-03-17'
+description: >-
+  Targeting IMT Ghaziabad 2026? Learn about direct admission via institutional
+  seats, NRI quota, CAT/XAT cutoffs, and placement reports for the 2026-28
+  batch.
+keywords:
+  - IMT Ghaziabad direct admission
+  - IMT Ghaziabad management quota
+  - IMT Ghaziabad fees 2026
+  - Institute of Management Technology Ghaziabad admission
+  - direct admission in IMT
+faqs:
+  - question: Does IMT Ghaziabad has a management quota?
+    answer: >-
+      Yes, IMT Ghaziabad offers institutional seats and NRI quota seats for its
+      PGDM programs, which are filled based on merit and profile assessment.
+  - question: What is the cutoff for IMT Ghaziabad?
+    answer: >-
+      For the flagship PGDM, the general category cutoff is usually around
+      **90-93 percentile** in CAT/XAT.
+  - question: Is IMT Ghaziabad good for Finance?
+    answer: >-
+      While legendary for Marketing, IMT Ghaziabad has a very strong Finance
+      curriculum and consistently attracts top investment banks for placements.
+  - question: Can I get direct admission in IMT without CAT?
+    answer: >-
+      For the regular PGDM, CAT or XAT is mandatory. For NRI candidates, GMAT is
+      accepted.
 ---
 
 Institute of Management Technology (IMT) Ghaziabad is a premier B-school in India, especially recognized for its excellence in **Marketing**. Known for its massive alumni network and industry-aligned pedagogy, it is a top destination for PGDM aspirants. For the 2026-28 batch, **Direct Admission in IMT Ghaziabad** is a structured path through institutional and NRI categories.
@@ -66,9 +91,17 @@ For the regular PGDM, CAT or XAT is mandatory. For NRI candidates, GMAT is accep
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

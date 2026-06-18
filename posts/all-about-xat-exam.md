@@ -1,10 +1,34 @@
 ---
-title: "All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Top Colleges"
-date: "2026-03-13"
-description: "Complete guide to the Xavier Aptitude Test (XAT). Uncover details on the XLRI conducting body, unique exam pattern, total marks, cutoffs, and top MBA colleges accepting XAT."
-keywords: ["XAT exam 2026", "XAT pattern and syllabus", "XAT total marks", "XAT cutoff XLRI", "Decision Making XAT", "top colleges accepting XAT"]
+title: 'All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Top Colleges'
+date: '2026-03-13'
+description: >-
+  Complete guide to the Xavier Aptitude Test (XAT). Uncover details on the XLRI
+  conducting body, unique exam pattern, total marks, cutoffs, and top MBA
+  colleges accepting XAT.
+keywords:
+  - XAT exam 2026
+  - XAT pattern and syllabus
+  - XAT total marks
+  - XAT cutoff XLRI
+  - Decision Making XAT
+  - top colleges accepting XAT
+faqs:
+  - question: How do I check my exam results online?
+    answer: >-
+      You can check results on the official website of the conducting bodies
+      (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations)
+      using your application registration number.
+  - question: Are mock tests helpful in exam preparation?
+    answer: >-
+      Yes, attempting mock tests helps candidates build speed and accuracy,
+      understand the exam pattern, and perform detailed analytics of strong and
+      weak sections.
+  - question: What is the significance of negative marking in entrance exams?
+    answer: >-
+      Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
+      Candidates should avoid guessing to maintain accuracy and prevent score
+      drops.
 ---
-
 The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), a Mecca for HR and Business Management.
 
 Here is the complete breakdown of the XAT exam for 2026 admissions:
@@ -64,11 +88,33 @@ XAT is known for its lengthy reading passages and its unique inclusion of an ess
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### How do I check my exam results online?
+You can check results on the official website of the conducting bodies (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations) using your application registration number.
+
+### Are mock tests helpful in exam preparation?
+Yes, attempting mock tests helps candidates build speed and accuracy, understand the exam pattern, and perform detailed analytics of strong and weak sections.
+
+### What is the significance of negative marking in entrance exams?
+Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candidates should avoid guessing to maintain accuracy and prevent score drops.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

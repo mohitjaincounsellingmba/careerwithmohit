@@ -1,9 +1,40 @@
 ---
-title: "Top Medical Colleges in Chennai 2026 — Fees, Cutoffs & Admission"
-date: "2026-04-21"
-category: "Medical Admissions"
-description: "Planning your MBBS in the Healthcare Capital of India? Compare the best medical colleges in Chennai for 2026. Detailed guide on MMC, Stanley, and Sri Ramachandra."
-keywords: ["top medical colleges in chennai 2026", "best mbbs colleges chennai", "madras medical college cutoff 2026", "stanley medical college admission", "sri ramachandra medical college fees", "srm medical college chennai admission", "tn neet counselling 2026", "direct mbbs admission chennai"]
+title: 'Top Medical Colleges in Chennai 2026 — Fees, Cutoffs & Admission'
+date: '2026-04-21'
+category: Medical Admissions
+description: >-
+  Planning your MBBS in the Healthcare Capital of India? Compare the best
+  medical colleges in Chennai for 2026. Detailed guide on MMC, Stanley, and Sri
+  Ramachandra.
+keywords:
+  - top medical colleges in chennai 2026
+  - best mbbs colleges chennai
+  - madras medical college cutoff 2026
+  - stanley medical college admission
+  - sri ramachandra medical college fees
+  - srm medical college chennai admission
+  - tn neet counselling 2026
+  - direct mbbs admission chennai
+faqs:
+  - question: Are government medical seats in Tamil Nadu open to outside students?
+    answer: >-
+      Only the **15% All India Quota (AIQ)** seats in state government colleges
+      are open to students from other states. The 85% state quota is strictly
+      for TN candidates.
+  - question: What is the fee for MBBS in Sri Ramachandra Chennai?
+    answer: >-
+      Sri Ramachandra is a premium Deemed university. The annual tuition fee is
+      around ₹25 Lakhs to ₹28 Lakhs per year.
+  - question: Does SRM Chennai have good medical placements?
+    answer: >-
+      "Placements" for doctors are different from engineering. As an SRM
+      graduate, you get incredible clinical experience and their hospital is
+      very well-connected, helping you secure residency or join top hospital
+      chains.
+  - question: When is the Tamil Nadu Medical admission 2026 starting?
+    answer: >-
+      Counselling registrations typically open in **July** after the NEET
+      results.
 ---
 
 Chennai, the "Healthcare Capital of India," is a global leader in medical services. With heritage institutes like Madras Medical College (est. 1835) and world-renowned private health systems like Sri Ramachandra, Chennai offers medical students a clinical exposure that is both traditionally deep and technologically advanced.
@@ -100,9 +131,17 @@ Chennai is about discipline and depth. Don't waste your score on a college witho
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

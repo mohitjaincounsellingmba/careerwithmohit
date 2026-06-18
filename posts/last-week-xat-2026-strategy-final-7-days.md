@@ -1,8 +1,31 @@
 ---
-title: "Last‑Week XAT 2026 Strategy: What to Do in the Final 7 Days"
-date: "2026-05-21"
-description: "Get a day-by-day preparation strategy for the final 7 days before XAT 2026. Learn tips for mock revision, Decision Making, GK, and essay writing."
-keywords: ["XAT 2026 preparation","last week XAT strategy","XAT exam day tips","Decision Making revision","XLRI essay writing"]
+title: 'Last‑Week XAT 2026 Strategy: What to Do in the Final 7 Days'
+date: '2026-05-21'
+description: >-
+  Get a day-by-day preparation strategy for the final 7 days before XAT 2026.
+  Learn tips for mock revision, Decision Making, GK, and essay writing.
+keywords:
+  - XAT 2026 preparation
+  - last week XAT strategy
+  - XAT exam day tips
+  - Decision Making revision
+  - XLRI essay writing
+faqs:
+  - question: How do I check my exam results online?
+    answer: >-
+      You can check results on the official website of the conducting bodies
+      (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations)
+      using your application registration number.
+  - question: Are mock tests helpful in exam preparation?
+    answer: >-
+      Yes, attempting mock tests helps candidates build speed and accuracy,
+      understand the exam pattern, and perform detailed analytics of strong and
+      weak sections.
+  - question: What is the significance of negative marking in entrance exams?
+    answer: >-
+      Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
+      Candidates should avoid guessing to maintain accuracy and prevent score
+      drops.
 ---
 The final week leading up to the Xavier Aptitude Test (XAT) is often filled with anxiety. Unlike CAT, which is held in November, XAT takes place in early January. This gives candidates an extra month of preparation, but it also increases the pressure to perform, as XAT is often the final opportunity to secure a seat at a premier Tier-1 business school like [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
 
@@ -72,11 +95,33 @@ For a review of other speed-based exams that take place around this time, read o
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### How do I check my exam results online?
+You can check results on the official website of the conducting bodies (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations) using your application registration number.
+
+### Are mock tests helpful in exam preparation?
+Yes, attempting mock tests helps candidates build speed and accuracy, understand the exam pattern, and perform detailed analytics of strong and weak sections.
+
+### What is the significance of negative marking in entrance exams?
+Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candidates should avoid guessing to maintain accuracy and prevent score drops.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

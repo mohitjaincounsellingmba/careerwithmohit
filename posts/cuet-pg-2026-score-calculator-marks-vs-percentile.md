@@ -1,17 +1,39 @@
 ---
-title: "CUET PG 2026 Score Calculator: Marks vs Percentile & Rank Predictor"
-date: "2026-03-24"
-description: "Calculate your CUET PG 2026 raw score with our free online calculator. Understand the marks vs percentile trends for DU, JNU, BHU, and TISS admissions."
-keywords: ["CUET PG 2026 score calculator", "CUET PG marks vs percentile 2026", "CUET PG rank predictor 2026", "calculate cuet pg score online", "nta cuet pg marking scheme", "good score in cuet pg 2026", "predict cuet pg percentile", "cuet pg score calculation formula"]
+title: 'CUET PG 2026 Score Calculator: Marks vs Percentile & Rank Predictor'
+date: '2026-03-24'
+description: >-
+  Calculate your CUET PG 2026 raw score with our free online calculator.
+  Understand the marks vs percentile trends for DU, JNU, BHU, and TISS
+  admissions.
+keywords:
+  - CUET PG 2026 score calculator
+  - CUET PG marks vs percentile 2026
+  - CUET PG rank predictor 2026
+  - calculate cuet pg score online
+  - nta cuet pg marking scheme
+  - good score in cuet pg 2026
+  - predict cuet pg percentile
+  - cuet pg score calculation formula
 faqs:
-  - question: "How is the CUET PG 2026 raw score calculated?"
-    answer: "The raw score is calculated using the formula: (Number of Correct Answers × 4) - (Number of Incorrect Answers × 1). Unattempted questions carry zero marks."
-  - question: "What is the difference between raw score and percentile in CUET PG?"
-    answer: "The raw score is your actual marks out of 300. The percentile indicates the percentage of candidates who scored equal to or less than you in that specific shift."
-  - question: "What is a safe raw score for TISS Mumbai HRM?"
-    answer: "For TISS Mumbai HRM, a safe raw score is typically 240+ out of 300, which usually corresponds to a 99.5+ percentile."
-  - question: "Does CUET PG have section-wise cutoffs?"
-    answer: "Most universities like DU and BHU consider the total score. However, TISS may have specific shortlisting criteria for their TISS-RAT/Interview rounds based on sectional performance."
+  - question: How is the CUET PG 2026 raw score calculated?
+    answer: >-
+      The raw score is calculated using the formula: (Number of Correct Answers
+      × 4) - (Number of Incorrect Answers × 1). Unattempted questions carry zero
+      marks.
+  - question: What is the difference between raw score and percentile in CUET PG?
+    answer: >-
+      The raw score is your actual marks out of 300. The percentile indicates
+      the percentage of candidates who scored equal to or less than you in that
+      specific shift.
+  - question: What is a safe raw score for TISS Mumbai HRM?
+    answer: >-
+      For TISS Mumbai HRM, a safe raw score is typically 240+ out of 300, which
+      usually corresponds to a 99.5+ percentile.
+  - question: Does CUET PG have section-wise cutoffs?
+    answer: >-
+      Most universities like DU and BHU consider the total score. However, TISS
+      may have specific shortlisting criteria for their TISS-RAT/Interview
+      rounds based on sectional performance.
 ---
 
 Did you just finish your CUET PG 2026 exam and are wondering how much you’ll score? With the official NTA answer keys on the horizon, knowing your **raw score** is the first step toward securing a seat in top central universities like DU, JNU, and BHU.
@@ -77,9 +99,17 @@ Unlike other exams, CUET PG has a high "penalty" for wrong guesses. For every in
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

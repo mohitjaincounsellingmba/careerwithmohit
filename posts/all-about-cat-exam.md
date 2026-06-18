@@ -1,8 +1,36 @@
 ---
-title: "CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs"
-date: "2026-03-17"
-description: "Everything you need to know about CAT 2026. Explore the latest registration dates, exam pattern, section-wise syllabus PDF, and expected IIM cutoffs for 2026-28 batch."
-keywords: ["CAT exam 2026", "CAT exam registration", "CAT syllabus PDF", "CAT pattern 2026", "IIM admission 2026", "CAT cutoff [IIM Ahmedabad](/colleges/iim-ahmedabad)"]
+title: 'CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs'
+date: '2026-03-17'
+description: >-
+  Everything you need to know about CAT 2026. Explore the latest registration
+  dates, exam pattern, section-wise syllabus PDF, and expected IIM cutoffs for
+  2026-28 batch.
+keywords:
+  - CAT exam 2026
+  - CAT exam registration
+  - CAT syllabus PDF
+  - CAT pattern 2026
+  - IIM admission 2026
+  - 'CAT cutoff [IIM Ahmedabad](/colleges/iim-ahmedabad)'
+faqs:
+  - question: What is the CAT 2026 exam date?
+    answer: >-
+      CAT 2026 is expected to be held on **November 29, 2026** (the last Sunday
+      of November).
+  - question: >-
+      What is the minimum percentile for [IIM
+      Ahmedabad](/colleges/iim-ahmedabad)?
+    answer: >-
+      Typically, a percentile of **99.5+** is required for General category
+      students to receive an interview call from [IIM
+      Ahmedabad](/colleges/iim-ahmedabad).
+  - question: Is CAT syllabus fixed?
+    answer: >-
+      While there is no "official" syllabus, CAT consistently tests **VARC,
+      DILR, and Quantitative Aptitude** based on graduate-level logic and
+      high-school mathematics.
+  - question: Can I get a top college with 90 percentile in CAT?
+    answer: "Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges/fore-school-delhi)** often accept students in the 85-92 percentile range.\n\n[\U0001F449 Need help preparing a winning strategy for CAT 2026? Speak to our MBA admission experts today!](/inquiry)"
 ---
 
 The Common Admission Test (CAT) is undeniably the biggest and most competitive MBA entrance exam in India. It is the absolute primary gateway to the prestigious Indian Institutes of Management (IIMs) and other top-tier business schools like [FMS Delhi](/colleges/fms-delhi) and SPJIMR. 
@@ -94,9 +122,17 @@ Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

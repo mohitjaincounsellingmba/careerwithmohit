@@ -1,8 +1,34 @@
 ---
-title: "[MDI Gurgaon](/colleges/mdi-gurgaon) NRI Quota Admission 2026: GMAT Cutoffs & Fees"
-date: "2026-03-18"
-description: "Everything about NRI/Foreign National admission at [MDI Gurgaon](/colleges/mdi-gurgaon) for 2026. Learn about GMAT score requirements (665+ Focus), application process, and latest fees in USD."
-keywords: ["[MDI Gurgaon](/colleges/mdi-gurgaon) NRI quota 2026", "[MDI Gurgaon](/colleges/mdi-gurgaon) direct admission", "[MDI Gurgaon](/colleges/mdi-gurgaon) GMAT cutoff", "[MDI Gurgaon](/colleges/mdi-gurgaon) management quota", "study at [MDI Gurgaon](/colleges/mdi-gurgaon)"]
+title: >-
+  [MDI Gurgaon](/colleges/mdi-gurgaon) NRI Quota Admission 2026: GMAT Cutoffs &
+  Fees
+date: '2026-03-18'
+description: >-
+  Everything about NRI/Foreign National admission at [MDI
+  Gurgaon](/colleges/mdi-gurgaon) for 2026. Learn about GMAT score requirements
+  (665+ Focus), application process, and latest fees in USD.
+keywords:
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon) NRI quota 2026'
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon) direct admission'
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon) GMAT cutoff'
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon) management quota'
+  - 'study at [MDI Gurgaon](/colleges/mdi-gurgaon)'
+faqs:
+  - question: 'Does [MDI Gurgaon](/colleges/mdi-gurgaon) have a Management Quota?'
+    answer: >-
+      No. [MDI Gurgaon](/colleges/mdi-gurgaon) is a merit-based private
+      institution. It does **not** offer donation-based seats. The only way to
+      bypass the CAT is the NRI/International route using a valid GMAT score.
+  - question: Can Indian residents apply via the GMAT?
+    answer: >-
+      No, Indian residents must apply through the **CAT (Common Admission
+      Test)**. The GMAT is strictly reserved for NRIs, PIOs, and Foreign
+      Nationals for the flagship PGDM programs.
+  - question: What is the GMAT Focus cutoff for MDI in 2026?
+    answer: >-
+      A score of **665+ on the GMAT Focus Edition** is considered safe for the
+      NRI/FN category. However, a strong professional profile and academic
+      record can sometimes compensate for a slightly lower score (645+).
 ---
 
 ### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon) NRI/FN 2026 Snapshot
@@ -44,9 +70,17 @@ A score of **665+ on the GMAT Focus Edition** is considered safe for the NRI/FN 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

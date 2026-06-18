@@ -1,9 +1,39 @@
 ---
-title: "Top Medical Colleges in Lucknow 2026 — Fees, Cutoffs & Admission"
-date: "2026-04-21"
-category: "Medical Admissions"
-description: "Planning your MBBS in the Heart of Uttar Pradesh? Compare the best medical colleges in Lucknow for 2026. Detailed guide on KGMU, RMLIMS, and Hind Medical."
-keywords: ["top medical colleges in lucknow 2026", "best mbbs colleges lucknow", "kgmu lucknow cutoff 2026", "rmlims lucknow mbbs admission", "hind medical college lucknow fees", "era medical college lucknow fees", "up neet counselling 2026", "direct mbbs admission lucknow"]
+title: 'Top Medical Colleges in Lucknow 2026 — Fees, Cutoffs & Admission'
+date: '2026-04-21'
+category: Medical Admissions
+description: >-
+  Planning your MBBS in the Heart of Uttar Pradesh? Compare the best medical
+  colleges in Lucknow for 2026. Detailed guide on KGMU, RMLIMS, and Hind
+  Medical.
+keywords:
+  - top medical colleges in lucknow 2026
+  - best mbbs colleges lucknow
+  - kgmu lucknow cutoff 2026
+  - rmlims lucknow mbbs admission
+  - hind medical college lucknow fees
+  - era medical college lucknow fees
+  - up neet counselling 2026
+  - direct mbbs admission lucknow
+faqs:
+  - question: Does Era Medical College have different fees for Minority quota?
+    answer: >-
+      Era is a Muslim Minority institution. While they have a minority quota,
+      the fees are usually higher than regular private medical colleges, but the
+      infrastructure is exceptional.
+  - question: What is the fee for MBBS in UP Government colleges?
+    answer: >-
+      For government seats through UP NEET, the annual tuition fee is around
+      ₹30,000 to ₹50,000.
+  - question: >-
+      Can a student from Rajasthan/Delhi get a seat in Lucknow’s private
+      colleges?
+    answer: >-
+      YES. Uttar Pradesh is an **Open State**. You can apply for seats in
+      Lucknow private colleges through the UP NEET portal even without a UP
+      domicile.
+  - question: When is the UP NEET 2026 counselling?
+    answer: Usually starts late **June/July** after the NEET results.
 ---
 
 Lucknow, the capital of Uttar Pradesh, is home to one of India’s most iconic medical institutes—King George’s Medical University (KGMU). As a major healthcare referral center for North India, Lucknow offers medical students an unparalleled variety of clinical cases, especially in the government sector.
@@ -97,9 +127,17 @@ Lucknow offers clinical depth and authority. Don't waste your score on a college
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

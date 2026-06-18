@@ -1,9 +1,37 @@
 ---
-title: "Top MBA Colleges for CAT 70-80 Percentile 2026 — Placements & Fees"
-date: "2026-04-21"
-category: "MBA Admissions"
-description: "Scored between 70-80 percentile in CAT 2026? Don't worry! Discover the best B-schools you can still get into, including BIMTECH, LBSIM, GIM, and FORE School."
-keywords: ["colleges for 70 percentile cat 2026", "mba colleges for 80 percentile cat", "b-schools for 75 percentile in cat", "best mba colleges with cat 70-80 percentile", "bimtech cutoff cat", "lbsim delhi cat cutoff", "gim goa cat cutoff 2026"]
+title: Top MBA Colleges for CAT 70-80 Percentile 2026 — Placements & Fees
+date: '2026-04-21'
+category: MBA Admissions
+description: >-
+  Scored between 70-80 percentile in CAT 2026? Don't worry! Discover the best
+  B-schools you can still get into, including BIMTECH, LBSIM, GIM, and FORE
+  School.
+keywords:
+  - colleges for 70 percentile cat 2026
+  - mba colleges for 80 percentile cat
+  - b-schools for 75 percentile in cat
+  - best mba colleges with cat 70-80 percentile
+  - bimtech cutoff cat
+  - lbsim delhi cat cutoff
+  - gim goa cat cutoff 2026
+faqs:
+  - question: Are placements good in 70-80 percentile colleges?
+    answer: >-
+      Yes. Most colleges listed here have average packages between ₹10L and
+      ₹14L. Companies like Deloitte, E&Y, and ICICI recruit heavily from these
+      campuses.
+  - question: Does BIMTECH accept MAT or CMAT?
+    answer: >-
+      Yes. For certain specialized PGDM programs (Insurance, Retail), BIMTECH
+      accepts MAT and CMAT scores alongside CAT.
+  - question: Can I get a bank loan for these colleges?
+    answer: >-
+      Absolutely. Almost all banks offer loans up to ₹15-20 Lakhs for these
+      verified, AICTE-approved B-schools.
+  - question: When do these colleges close their applications?
+    answer: >-
+      Most close by **mid-January**. It is better to apply *before* the CAT
+      result is out if you are reasonably confident of your score.
 ---
 
 Scoring between a **70 and 80 percentile in CAT** can feel like being in a "no man's land." You are far above the average, but still just short of the 95+ percentile needed for IIMs. 
@@ -99,9 +127,17 @@ Not sure where you stand? Take our **[Free CAT 2026 Full-Length Mock Test](/tool
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

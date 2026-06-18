@@ -1,8 +1,31 @@
 ---
-title: "IIFT NRI & Foreign National Admission 2026: GMAT Cutoffs"
-date: "2026-03-18"
-description: "Everything about NRI/Foreign National admission at [IIFT Delhi](/colleges/iift-delhi) & Kolkata for 2026. Learn about the GMAT entry route, application deadlines, and latest placement highlights."
-keywords: ["IIFT NRI quota 2026", "IIFT direct admission", "[IIFT Delhi](/colleges/iift-delhi) GMAT cutoff", "IIFT MBA IB admission", "study at [IIFT Delhi](/colleges/iift-delhi)"]
+title: 'IIFT NRI & Foreign National Admission 2026: GMAT Cutoffs'
+date: '2026-03-18'
+description: >-
+  Everything about NRI/Foreign National admission at [IIFT
+  Delhi](/colleges/iift-delhi) & Kolkata for 2026. Learn about the GMAT entry
+  route, application deadlines, and latest placement highlights.
+keywords:
+  - IIFT NRI quota 2026
+  - IIFT direct admission
+  - '[IIFT Delhi](/colleges/iift-delhi) GMAT cutoff'
+  - IIFT MBA IB admission
+  - 'study at [IIFT Delhi](/colleges/iift-delhi)'
+faqs:
+  - question: Can NRIs apply through CAT for IIFT?
+    answer: >-
+      NRIs who are residing in India at the time of the Common Admission Test
+      (CAT) can apply through the general merit route. However, those residing
+      abroad are eligible to apply through the GMAT route.
+  - question: Is there a Management Quota in IIFT?
+    answer: >-
+      No. IIFT is a government-regulated autonomous institution. All seats,
+      including those for NRIs and Foreign Nationals, are filled strictly on
+      merit (GMAT score + Profile + Interview).
+  - question: What documents are required for the NRI category?
+    answer: >-
+      You will typically need a valid Passport, proof of NRI status (e.g.,
+      Parent's working visa/PR), and an official GMAT score report from GMAC.
 ---
 
 ### 📊 IIFT Foreign National/NRI 2026 Snapshot
@@ -44,9 +67,17 @@ You will typically need a valid Passport, proof of NRI status (e.g., Parent's wo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -1,9 +1,44 @@
 ---
-title: "Top B.Tech Colleges in Kolkata 2026 — Fees, Cutoff & Placements"
-date: "2026-04-20"
-category: "B.Tech Admissions"
-description: "Find the best B.Tech engineering colleges in Kolkata 2026 with fees, WBJEE cutoffs, placement records and direct admission options. Expert-verified guide for West Bengal students."
-keywords: ["top btech colleges in kolkata", "best engineering colleges kolkata 2026", "wbjee cutoff 2026 kolkata", "engineering admission kolkata 2026", "Jadavpur University btech", "IIT Kharagpur near kolkata", "private engineering college kolkata fees", "direct admission btech kolkata"]
+title: 'Top B.Tech Colleges in Kolkata 2026 — Fees, Cutoff & Placements'
+date: '2026-04-20'
+category: B.Tech Admissions
+description: >-
+  Find the best B.Tech engineering colleges in Kolkata 2026 with fees, WBJEE
+  cutoffs, placement records and direct admission options. Expert-verified guide
+  for West Bengal students.
+keywords:
+  - top btech colleges in kolkata
+  - best engineering colleges kolkata 2026
+  - wbjee cutoff 2026 kolkata
+  - engineering admission kolkata 2026
+  - Jadavpur University btech
+  - IIT Kharagpur near kolkata
+  - private engineering college kolkata fees
+  - direct admission btech kolkata
+faqs:
+  - question: Which is the best B.Tech college in Kolkata?
+    answer: >-
+      Jadavpur University is Kolkata's #1 engineering college and among India's
+      top government institutions. For private colleges, Heritage Institute of
+      Technology is Kolkata's best-regarded option.
+  - question: What WBJEE rank is needed for Jadavpur University CSE?
+    answer: >-
+      A WBJEE rank in the top 150 (General category) is typically required for
+      Jadavpur University CSE — one of the most competitive cutoffs in India.
+  - question: Is IIEST Shibpur better than private colleges in Kolkata?
+    answer: >-
+      Yes. IIEST Shibpur's central government funding, historical alumni
+      network, and GATE performance make it far superior to private colleges for
+      core engineering.
+  - question: Can I get B.Tech in Kolkata without WBJEE?
+    answer: >-
+      JEE Main qualifiers can apply to IIEST Shibpur through JoSAA. Private
+      colleges like Techno India and JIS University accept students via direct
+      admission without WBJEE.
+  - question: What is the fee for B.Tech at Jadavpur University?
+    answer: >-
+      Jadavpur University charges approximately ₹40,000 per year — one of the
+      lowest fees for a top-quality engineering education in India.
 ---
 
 Kolkata is home to some of India's most prestigious engineering institutions — including Jadavpur University, IIEST Shibpur (one of India's oldest engineering colleges), and strong private universities. West Bengal's manufacturing, IT, and port-based industries ensure solid placement opportunities for engineering graduates.
@@ -128,9 +163,17 @@ Jadavpur University charges approximately ₹40,000 per year — one of the lowe
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

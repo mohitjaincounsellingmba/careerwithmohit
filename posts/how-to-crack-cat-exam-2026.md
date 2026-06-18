@@ -1,9 +1,35 @@
 ---
-title: "How to Crack CAT Exam 2026: Strategy, Syllabus & Section-wise Tips"
-date: "2026-06-04"
-category: "MBA"
-description: "Planning to crack CAT 2026? Follow this expert study strategy, section-wise tips for VARC, DILR, and Quant, and learn how to secure a 99+ percentile in the exam."
-keywords: ["how to crack cat exam", "crack cat 2026", "cat preparation strategy", "score 99 percentile in cat", "cat exam strategy 2026", "cat study plan"]
+title: 'How to Crack CAT Exam 2026: Strategy, Syllabus & Section-wise Tips'
+date: '2026-06-04'
+category: MBA
+description: >-
+  Planning to crack CAT 2026? Follow this expert study strategy, section-wise
+  tips for VARC, DILR, and Quant, and learn how to secure a 99+ percentile in
+  the exam.
+keywords:
+  - how to crack cat exam
+  - crack cat 2026
+  - cat preparation strategy
+  - score 99 percentile in cat
+  - cat exam strategy 2026
+  - cat study plan
+faqs:
+  - question: Can a student with average academics crack CAT?
+    answer: >-
+      Yes! While old IIMs have high academic weightage, colleges like **[FMS
+      Delhi](/colleges/fms-delhi), XLRI (via XAT), and several new IIMs** focus
+      heavily on your raw CAT score. A high percentile (99.5+) can easily offset
+      average past academics.
+  - question: How many mock tests should I attempt before CAT 2026?
+    answer: >-
+      An ideal target is **25 to 30 full-length mocks** along with 40+ sectional
+      tests. What matters more than the number of mocks is the depth of your
+      post-mock analysis.
+  - question: Is coaching mandatory to crack CAT?
+    answer: >-
+      No. Many self-studying students crack CAT using online resources, standard
+      books (like Arun Sharma), and quality mock test series. Consistency and
+      self-discipline are the actual keys.
 ---
 
 The Common Admission Test (CAT) is more than just a test of mathematical formulas or grammar rules. It is a **test of decision-making, speed, accuracy, and mental stamina** under high pressure. With over 3 lakh aspirants aiming for a limited number of seats in the elite Indian Institutes of Management (IIMs), your preparation strategy needs to be highly optimized.
@@ -105,6 +131,14 @@ No. Many self-studying students crack CAT using online resources, standard books
 *   [CAT 2026 Preparation Roadmap (Month-by-Month)](/blog/cat-2026-preparation-strategy-syllabus-dates)
 *   [10 Proven Tips to Crack CAT 2026: The Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026)
 *   [All About CAT Exam 2026: Pattern, Syllabus & Cutoffs](/blog/all-about-cat-exam)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
 
 ---
 

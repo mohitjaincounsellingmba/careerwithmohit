@@ -1,10 +1,35 @@
 ---
-title: "How to Make Viral ‘Bachcha Hai Tu Mera’ Memes from Dhurandhar 2: AI Step-by-Step Guide"
-date: "2026-03-30"
-description: "Master the trending 'Bachcha Hai Tu Mera' meme from Dhurandhar 2. Learn how to use AI tools like Gemini and Bing to create viral Jameel Jamali posters for your brand or social media."
-keywords: ["Bachcha Hai Tu Mera meme tutorial", "Dhurandhar 2 Jameel Jamali AI prompts", "viral AI meme trend 2026", "how to make Bachcha Hai Tu Mera memes", "Rakesh Bedi Dhurandhar 2 dialogue", "AI meme generation prompts"]
+title: >-
+  How to Make Viral ‘Bachcha Hai Tu Mera’ Memes from Dhurandhar 2: AI
+  Step-by-Step Guide
+date: '2026-03-30'
+description: >-
+  Master the trending 'Bachcha Hai Tu Mera' meme from Dhurandhar 2. Learn how to
+  use AI tools like Gemini and Bing to create viral Jameel Jamali posters for
+  your brand or social media.
+keywords:
+  - Bachcha Hai Tu Mera meme tutorial
+  - Dhurandhar 2 Jameel Jamali AI prompts
+  - viral AI meme trend 2026
+  - how to make Bachcha Hai Tu Mera memes
+  - Rakesh Bedi Dhurandhar 2 dialogue
+  - AI meme generation prompts
+faqs:
+  - question: How can I choose the right college for higher studies?
+    answer: >-
+      Consider critical factors such as UGC/AICTE accreditations, historical
+      placement reports, fee structure vs ROI, faculty quality, and location.
+  - question: What is the role of a career counsellor?
+    answer: >-
+      A career counsellor helps students evaluate their strengths, interests,
+      and career options, providing personalized guidance to secure admissions
+      and achieve long-term professional goals.
+  - question: How important is NAAC accreditation for a university?
+    answer: >-
+      NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
+      of education, infrastructure, and research at a university, serving as a
+      reliable benchmark for students.
 ---
-
 If you have been scrolling through Instagram or X (Twitter) lately, you must have seen the iconic **Jameel Jamali** (played by Rakesh Bedi) pointing at something and saying, **“Bachcha Hai Tu Mera.”** This trend from the movie *Dhurandhar 2* has taken the internet by storm, with everyone from local shops to global brands joining the viral wave.
 
 But how do you create these professional-looking posters with customized objects in Jameel Jamali’s hand? The secret lies in **AI Image Generation**.
@@ -57,11 +82,33 @@ The digital space is changing fast. Whether it’s AI meme creation or advanced 
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### How can I choose the right college for higher studies?
+Consider critical factors such as UGC/AICTE accreditations, historical placement reports, fee structure vs ROI, faculty quality, and location.
+
+### What is the role of a career counsellor?
+A career counsellor helps students evaluate their strengths, interests, and career options, providing personalized guidance to secure admissions and achieve long-term professional goals.
+
+### How important is NAAC accreditation for a university?
+NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

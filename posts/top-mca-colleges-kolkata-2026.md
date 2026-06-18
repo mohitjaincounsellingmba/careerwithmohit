@@ -1,9 +1,36 @@
 ---
-title: "Top MCA Colleges in Kolkata 2026 — Fees, Placements & Admission"
-date: "2026-04-21"
-category: "MCA Admissions"
-description: "Planning your MCA in East India's gateway? Compare the best MCA colleges in Kolkata for 2026. Detailed guide on Jadavpur University (JU), Heritage, and Techno India."
-keywords: ["top mca colleges in kolkata 2026", "best mca colleges kolkata", "jadavpur university mca fees", "heritage kolkata mca placements", "techno india university mca admission", "mca admission kolkata 2026", "makaut mca fees", "direct mca admission kolkata"]
+title: 'Top MCA Colleges in Kolkata 2026 — Fees, Placements & Admission'
+date: '2026-04-21'
+category: MCA Admissions
+description: >-
+  Planning your MCA in East India's gateway? Compare the best MCA colleges in
+  Kolkata for 2026. Detailed guide on Jadavpur University (JU), Heritage, and
+  Techno India.
+keywords:
+  - top mca colleges in kolkata 2026
+  - best mca colleges kolkata
+  - jadavpur university mca fees
+  - heritage kolkata mca placements
+  - techno india university mca admission
+  - mca admission kolkata 2026
+  - makaut mca fees
+  - direct mca admission kolkata
+faqs:
+  - question: Does University of Calcutta accept WB JECA?
+    answer: >-
+      Previously CU had its separate entrance, but for many MCA colleges in West
+      Bengal, **WB JECA** remains the primary gateway. Always check the official
+      MAKAUT and CU portals in March for the 2026 intake.
+  - question: What is the average fee for MCA in Heritage Kolkata?
+    answer: >-
+      Heritage is a private institute, so the fees are around ₹1.2 Lakhs to ₹1.6
+      Lakhs per year.
+  - question: Can I get a job at Google después de doing MCA from JU?
+    answer: >-
+      Yes. Google and other global tech giants regularly visit Jadavpur
+      University for their flagship software engineering roles.
+  - question: When is the WB JECA 2026 exam?
+    answer: Usually held in **July**. Registrations typically open in May.
 ---
 
 Kolkata, the "City of Joy" and East India's primary educational hub, offers some of the most specialized and affordable MCA (Master of Computer Applications) programs in the country. With Jadavpur University leading the way and Salt Lake Sector V housing thousands of IT firms, Kolkata provides a launchpad for students targeting Tier-1 software roles without the high living costs of Mumbai or Bangalore.
@@ -91,9 +118,17 @@ Kolkata offers value and excellence. Don't waste your years at a college without
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

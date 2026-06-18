@@ -1,9 +1,37 @@
 ---
-title: "CUET UG 2026 — Top BBA & BMS Colleges, Syllabus & Strategy"
-date: "2026-04-21"
-category: "BBA Admissions"
-description: "Planning to crack CUET 2026 for BBA? Discover the best universities including DU, BHU, and AU. Get the latest syllabus, domain subject choice, and admission guide."
-keywords: ["cuet ug 2026 bba colleges", "du bba admission through cuet", "cuet bba syllabus 2026", "shaheed sukhdev cuet cutoff", "bms admission delhi university cuet", "best universities for bba cuet", "cuet general test for bba strategy", "bhu bba admission 2026"]
+title: 'CUET UG 2026 — Top BBA & BMS Colleges, Syllabus & Strategy'
+date: '2026-04-21'
+category: BBA Admissions
+description: >-
+  Planning to crack CUET 2026 for BBA? Discover the best universities including
+  DU, BHU, and AU. Get the latest syllabus, domain subject choice, and admission
+  guide.
+keywords:
+  - cuet ug 2026 bba colleges
+  - du bba admission through cuet
+  - cuet bba syllabus 2026
+  - shaheed sukhdev cuet cutoff
+  - bms admission delhi university cuet
+  - best universities for bba cuet
+  - cuet general test for bba strategy
+  - bhu bba admission 2026
+faqs:
+  - question: is CUET mandatory for all BBA colleges in 2026?
+    answer: >-
+      No. CUET is for **Central and participating Private Universities**.
+      Autonomous colleges like Christ and Symbiosis still have their own
+      entrance exams.
+  - question: What is the safe bucket of marks for SSCBS in CUET?
+    answer: >-
+      For a General category student, you generally need a score of **600+ out
+      of 650** (depending on the normalization of that year) to secure a seat in
+      the first list.
+  - question: Does Jamia Millia Islamia have BBA placements?
+    answer: >-
+      Yes. Jamia is one of the best ROI colleges in India. Fees are very low,
+      and placements in firms like KPMG and Amazon have been reported.
+  - question: When is the CUET 2026 exam?
+    answer: Typically held in **May/June 2026** across multiple shifts.
 ---
 
 With the introduction of the **Common University Entrance Test (CUET)**, the landscape of BBA and BMS admissions in India has changed forever. No longer do you need multiple applications for different central universities; one score now unlocks access to the prestigious **Delhi University (SSCBS)**, **BHU**, **Jamia Millia**, and over 40+ other central and private universities.
@@ -99,9 +127,17 @@ CUET is a game of strategy, not just knowledge. Don't waste your score on a univ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

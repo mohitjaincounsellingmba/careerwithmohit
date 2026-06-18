@@ -1,8 +1,30 @@
 ---
-title: "B.Tech at Doon Institute (DIET) Dehradun: Admission 2026, Fees & Review"
-date: "2026-03-24"
-description: "Everything you need to know about Doon Institute of Engineering and Technology (DIET) Dehradun B.Tech admission 2026. Check the latest JEE Main cutoffs, affordable fee structure, and placement review."
-keywords: ["Doon Institute of Engineering and Technology BTech admission 2026", "DIET Dehradun fees", "Doon Institute placement review 2025", "BTech admission Uttarakhand", "JEE Main cutoff Doon Institute Dehradun", "Affordable BTech Dehradun"]
+title: 'B.Tech at Doon Institute (DIET) Dehradun: Admission 2026, Fees & Review'
+date: '2026-03-24'
+description: >-
+  Everything you need to know about Doon Institute of Engineering and Technology
+  (DIET) Dehradun B.Tech admission 2026. Check the latest JEE Main cutoffs,
+  affordable fee structure, and placement review.
+keywords:
+  - Doon Institute of Engineering and Technology BTech admission 2026
+  - DIET Dehradun fees
+  - Doon Institute placement review 2025
+  - BTech admission Uttarakhand
+  - JEE Main cutoff Doon Institute Dehradun
+  - Affordable BTech Dehradun
+faqs:
+  - question: Is Doon Institute affordable?
+    answer: >-
+      Yes, it is one of the most budget-friendly private engineering options in
+      Dehradun with a total fee under ₹4 Lakhs.
+  - question: Is it affiliated with a government university?
+    answer: >-
+      Yes, it is affiliated with Uttarakhand Technical University (UTU),
+      Dehradun.
+  - question: What is the placement scenario at DIET?
+    answer: >-
+      Placements are solid for local industries, with top service companies
+      frequently recruiting through pool drives.
 ---
 
 **Doon Institute of Engineering and Technology (DIET)**, located in the scenic surroundings of Dehradun (Rishikesh), is a prominent constituent of the Doon Group of Institutions. Affiliated with Uttarakhand Technical University (UTU) and approved by AICTE, DIET is known for providing quality technical education at an affordable price point compared to premium private universities in the region.
@@ -54,9 +76,17 @@ Placements are solid for local industries, with top service companies frequently
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

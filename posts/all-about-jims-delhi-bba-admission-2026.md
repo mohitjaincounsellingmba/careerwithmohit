@@ -1,9 +1,26 @@
 ---
-title: "JIMS Delhi BBA Admission 2026: Rohini & Kalkaji Campuses Guide"
-date: "2026-05-15"
-category: "BBA Admissions"
-description: "Everything about BBA at Jagan Institute of Management Studies (JIMS) Delhi for 2026. Get latest on IPU CET, fees, placements, and campus reviews."
-keywords: ["jims delhi bba admission 2026", "jims rohini bba fees", "jims kalkaji bba placement 2026", "ipu cet 2026 strategy", "best bba college in delhi ncr", "jims rohini vs jims kalkaji"]
+title: 'JIMS Delhi BBA Admission 2026: Rohini & Kalkaji Campuses Guide'
+date: '2026-05-15'
+category: BBA Admissions
+description: >-
+  Everything about BBA at Jagan Institute of Management Studies (JIMS) Delhi for
+  2026. Get latest on IPU CET, fees, placements, and campus reviews.
+keywords:
+  - jims delhi bba admission 2026
+  - jims rohini bba fees
+  - jims kalkaji bba placement 2026
+  - ipu cet 2026 strategy
+  - best bba college in delhi ncr
+  - jims rohini vs jims kalkaji
+faqs:
+  - question: Does JIMS offer BBA in shifts?
+    answer: >-
+      Yes, both Rohini and Kalkaji campuses usually operate in two shifts: First
+      Shift (Morning) and Second Shift (Afternoon).
+  - question: Is there a hostel facility at JIMS?
+    answer: >-
+      JIMS provides assistance and tie-ups for hostel and PG accommodations for
+      outstation students near its campuses.
 ---
 
 Jagan Institute of Management Studies (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
@@ -57,7 +74,15 @@ Both campuses are in Rohini but offer different vibes and placement stats. Mohit
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium IPU CET Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice with the latest question patterns and timing for the Indraprastha University exam.
+Looking for more resources? **[Explore Our Premium IPU CET Mock Test Series 2026](/mock-tests)** to practice with the latest question patterns and timing for the Indraprastha University exam.
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

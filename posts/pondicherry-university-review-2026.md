@@ -1,10 +1,32 @@
 ---
-title: "Pondicherry University Review 2026: Fees, Placements & Admission Process"
-date: "2026-05-24"
-description: "Considering Pondicherry University? Get complete details for 2026 on fees, placements, CUET cutoffs, admission process, and hostel facilities."
-keywords: ["Pondicherry University admission 2026", "Pondicherry University fees", "Pondicherry University placements", "CUET cutoff Pondicherry University", "Pondicherry University hostel"]
+title: 'Pondicherry University Review 2026: Fees, Placements & Admission Process'
+date: '2026-05-24'
+description: >-
+  Considering Pondicherry University? Get complete details for 2026 on fees,
+  placements, CUET cutoffs, admission process, and hostel facilities.
+keywords:
+  - Pondicherry University admission 2026
+  - Pondicherry University fees
+  - Pondicherry University placements
+  - CUET cutoff Pondicherry University
+  - Pondicherry University hostel
+faqs:
+  - question: How do I check my exam results online?
+    answer: >-
+      You can check results on the official website of the conducting bodies
+      (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations)
+      using your application registration number.
+  - question: Are mock tests helpful in exam preparation?
+    answer: >-
+      Yes, attempting mock tests helps candidates build speed and accuracy,
+      understand the exam pattern, and perform detailed analytics of strong and
+      weak sections.
+  - question: What is the significance of negative marking in entrance exams?
+    answer: >-
+      Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
+      Candidates should avoid guessing to maintain accuracy and prevent score
+      drops.
 ---
-
 Pondicherry University is a central university established in 1985 that offers a vast range of undergraduate (UG), postgraduate (PG), and doctoral programs. Recognized for its affordability, quality education, and vibrant campus life, it attracts students from across the country.
 
 ### 📝 Admission Process 2026
@@ -54,8 +76,30 @@ Hostel accommodation at Pondicherry University is highly sought after but limite
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### How do I check my exam results online?
+You can check results on the official website of the conducting bodies (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations) using your application registration number.
+
+### Are mock tests helpful in exam preparation?
+Yes, attempting mock tests helps candidates build speed and accuracy, understand the exam pattern, and perform detailed analytics of strong and weak sections.
+
+### What is the significance of negative marking in entrance exams?
+Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candidates should avoid guessing to maintain accuracy and prevent score drops.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium CUET Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -1,9 +1,26 @@
 ---
-title: "KIIT School of Management (KSOM) BBA Admission 2026: KIITEE Guide"
-date: "2026-05-15"
-category: "BBA Admissions"
-description: "Everything you need to know about BBA at KIIT School of Management (KSOM) Bhubaneswar for 2026. Get latest info on KIITEE, fees, and placements."
-keywords: ["kiit bba admission 2026", "ksom bhubaneswar bba fees", "kiit bba placement 2026", "kiitee 2026 strategy", "best bba college in odisha", "kiit school of management review"]
+title: 'KIIT School of Management (KSOM) BBA Admission 2026: KIITEE Guide'
+date: '2026-05-15'
+category: BBA Admissions
+description: >-
+  Everything you need to know about BBA at KIIT School of Management (KSOM)
+  Bhubaneswar for 2026. Get latest info on KIITEE, fees, and placements.
+keywords:
+  - kiit bba admission 2026
+  - ksom bhubaneswar bba fees
+  - kiit bba placement 2026
+  - kiitee 2026 strategy
+  - best bba college in odisha
+  - kiit school of management review
+faqs:
+  - question: Does KIIT offer any scholarships for BBA?
+    answer: >-
+      Yes, KIIT offers various merit-based scholarships (KIIT Merit Scholarship)
+      based on your KIITEE rank and Class 12 performance.
+  - question: Is KIIT University UGC recognized?
+    answer: >-
+      Yes, KIIT is a Deemed to be University recognized by the UGC and has been
+      granted the 'Institution of Eminence' status.
 ---
 
 KIIT School of Management (KSOM), part of the Kalinga Institute of Industrial Technology (KIIT) Deemed to be University, is one of the most prestigious management schools in Eastern India. Known for its world-class infrastructure and high-quality faculty, KSOM is a top choice for BBA aspirants in 2026.
@@ -58,7 +75,15 @@ KIITEE is known for its tricky logic questions. Mohit Jain’s "KIITEE Accelerat
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium KIITEE Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the specific pattern and timing of the KIIT University exam.
+Looking for more resources? **[Explore Our Premium KIITEE Mock Test Series 2026](/mock-tests)** to practice the specific pattern and timing of the KIIT University exam.
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

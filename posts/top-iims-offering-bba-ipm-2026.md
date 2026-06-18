@@ -1,9 +1,30 @@
 ---
-title: "Top IIMs Offering BBA (IPM) in 2026: Fees, Placements, and Admission Process"
-date: "2026-05-20"
-category: "BBA Admissions"
-description: "Looking for the top IIMs offering BBA or 5-Year Integrated Program in Management (IPM) in 2026? Check out the list of IIMs, fees, placements, and IPMAT details."
-keywords: ["top iim offering bba", "iim bba program fees", "iim bba placements", "ipm programs in iims 2026", "iim indore bba", "jipmat bba colleges"]
+title: 'Top IIMs Offering BBA (IPM) in 2026: Fees, Placements, and Admission Process'
+date: '2026-05-20'
+category: BBA Admissions
+description: >-
+  Looking for the top IIMs offering BBA or 5-Year Integrated Program in
+  Management (IPM) in 2026? Check out the list of IIMs, fees, placements, and
+  IPMAT details.
+keywords:
+  - top iim offering bba
+  - iim bba program fees
+  - iim bba placements
+  - ipm programs in iims 2026
+  - iim indore bba
+  - jipmat bba colleges
+faqs:
+  - question: Is Class 12 Mathematics compulsory for IIM BBA programs?
+    answer: >-
+      Class 12 Math is compulsory for **IIM Shillong** and **IIM Amritsar**. For
+      other IIMs, it is not mandatory to have Math in Class 12, though you will
+      need to clear the math section of the respective IPMAT/JIPMAT exam.
+  - question: How is the return on investment (ROI) for IIM BBA?
+    answer: >-
+      The ROI is exceptionally high. While the fees range between ₹30 to ₹40
+      Lakhs for 5 years, the average placements for top IIMs like Indore (₹25.6
+      LPA) and Shillong (₹26.1 LPA) mean you can recover the costs within 2
+      years of starting your career.
 ---
 
 Over the last few years, the **Integrated Programme in Management (IPM)** has emerged as one of the most prestigious career pathways for Class 12 students in India. Instead of pursuing a traditional BBA and then competing in the highly competitive CAT exam for an MBA, students can secure their seats at a top-tier Indian Institute of Management (IIM) right after high school.
@@ -113,9 +134,17 @@ Preparing for IPMAT requires a clear understanding of sectional cutoffs and spee
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

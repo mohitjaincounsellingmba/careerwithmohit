@@ -1,9 +1,38 @@
 ---
-title: "Investment Banking Career Path 2026 — Salary, Skills & Entry Guide"
-date: "2026-04-21"
-category: "Finance"
-description: "Dreaming of Wall Street or Dalal Street? Explore the Investment Banking career path for 2026. Discover the skills required, salary expectations, and how to get in."
-keywords: ["investment banking career path 2026", "how to become investment banker india", "investment banking salary for freshers", "investment banking analyst to md hierarchy", "ma and dcm ib roles", "top investment banks in india 2026", "skills for investment banking"]
+title: 'Investment Banking Career Path 2026 — Salary, Skills & Entry Guide'
+date: '2026-04-21'
+category: Finance
+description: >-
+  Dreaming of Wall Street or Dalal Street? Explore the Investment Banking career
+  path for 2026. Discover the skills required, salary expectations, and how to
+  get in.
+keywords:
+  - investment banking career path 2026
+  - how to become investment banker india
+  - investment banking salary for freshers
+  - investment banking analyst to md hierarchy
+  - ma and dcm ib roles
+  - top investment banks in india 2026
+  - skills for investment banking
+faqs:
+  - question: is it possible to work in IB with a 40-hour week?
+    answer: >-
+      No. Investment Banking is notorious for its grueling hours. Expect to work
+      12-14 hours on weekdays and often on weekends during a deal.
+  - question: does IB require high-level Math?
+    answer: >-
+      It requires **proficiency in arithmetic and statistics**. You don't need
+      advanced calculus, but you must be lightning-fast with ratios,
+      percentages, and financial logic.
+  - question: What is the "Boutique Bank" advantage?
+    answer: >-
+      In a smaller bank, you get to work on every stage of the deal (from
+      origination to closing), providing much faster learning than being a small
+      cog in a massive global bank.
+  - question: When is the hiring season for IB?
+    answer: >-
+      Most campus hiring happens in **December-January**, while lateral hiring
+      (for experienced professionals) happens year-round based on deal flow.
 ---
 
 Investment Banking (IB) remains the most coveted and high-paying career path in the financial world. Known for its intense hours, elite networking, and multi-million dollar deals, IB is where capital meets strategy. In 2026, as the Indian economy integrates more deeply with global markets, the demand for Investment Bankers in M&A (Mergers & Acquisitions) and IPO management is at an all-time high.
@@ -91,9 +120,17 @@ Investment Banking is not just a job; it’s a lifestyle change. Don't waste you
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -1,8 +1,29 @@
 ---
-title: "JIMS Rohini Review 2026: Placements & Infrastructure Highlights"
-date: "2026-03-15"
-description: "Review of JIMS Rohini. Explore the 100% placement record, top-tier recruiters, and extensive academic infrastructure."
-keywords: ["JIMS Rohini review 2026", "JIMS Rohini placement 2024", "JIMS Rohini infrastructure", "best B-schools in North Delhi"]
+title: 'JIMS Rohini Review 2026: Placements & Infrastructure Highlights'
+date: '2026-03-15'
+description: >-
+  Review of JIMS Rohini. Explore the 100% placement record, top-tier recruiters,
+  and extensive academic infrastructure.
+keywords:
+  - JIMS Rohini review 2026
+  - JIMS Rohini placement 2024
+  - JIMS Rohini infrastructure
+  - best B-schools in North Delhi
+faqs:
+  - question: Is JIMS Rohini good for PGDM?
+    answer: >-
+      Yes, JIMS Rohini is one of the most respected private B-schools in North
+      Delhi. It is known for its academic rigour, high discipline, and
+      consistently strong placements in consulting and finance.
+  - question: Can I get direct admission in JIMS Rohini?
+    answer: >-
+      JIMS Rohini primarily admits students through MAT, CAT, and CMAT scores
+      followed by GD/PI. For guidance on institutional categories or vacant
+      seats, you can contact our expert counsellors.
+  - question: What is the fee structure for JIMS Rohini PGDM 2026?
+    answer: >-
+      The total academic fee for the 2-year PGDM program (2026-28 batch) at JIMS
+      Rohini is approximately **₹9.25 Lakhs**.
 ---
 
 ### **College Review: JIMS Rohini**
@@ -59,9 +80,17 @@ The total academic fee for the 2-year PGDM program (2026-28 batch) at JIMS Rohin
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -1,9 +1,42 @@
 ---
-title: "Top MBA Colleges in Kolkata 2026 — Fees, Placements & ROI"
-date: "2026-04-21"
-category: "MBA Admissions"
-description: "Planning an MBA in Kolkata? Compare the best B-schools like [IIM Calcutta](/colleges/iim-calcutta), VGSOM, and [IMI Kolkata](/colleges/imi-kolkata). Check 2026 fees, CAT/XAT cutoffs, and verified placement packages for East India."
-keywords: ["top mba colleges in kolkata 2026", "best b-schools kolkata", "iim calcutta mba fees 2026", "imi kolkata placement 2025", "jadavpur university mba fees", "mba admission kolkata 2026", "direct admission mba kolkata", "mba kolkata under 10 lakhs", "vgsom iit kharagpur mba fees"]
+title: 'Top MBA Colleges in Kolkata 2026 — Fees, Placements & ROI'
+date: '2026-04-21'
+category: MBA Admissions
+description: >-
+  Planning an MBA in Kolkata? Compare the best B-schools like [IIM
+  Calcutta](/colleges/iim-calcutta), VGSOM, and [IMI
+  Kolkata](/colleges/imi-kolkata). Check 2026 fees, CAT/XAT cutoffs, and
+  verified placement packages for East India.
+keywords:
+  - top mba colleges in kolkata 2026
+  - best b-schools kolkata
+  - iim calcutta mba fees 2026
+  - imi kolkata placement 2025
+  - jadavpur university mba fees
+  - mba admission kolkata 2026
+  - direct admission mba kolkata
+  - mba kolkata under 10 lakhs
+  - vgsom iit kharagpur mba fees
+faqs:
+  - question: What is the JEMAT exam?
+    answer: >-
+      The Joint Entrance Management Aptitude Test (JEMAT) is the state-level
+      entrance exam for MBA/PGDM seats in West Bengal government and private
+      colleges.
+  - question: Can I get direct admission in MBA Kolkata without CAT?
+    answer: >-
+      Yes. Private universities like Techno India, Amity Kolkata, and Globsyn
+      offer seats through MAT, CMAT, or management quota based on your
+      graduation scores.
+  - question: Which college has the best ROI in Kolkata?
+    answer: >-
+      **Jadavpur University** and **Calcutta University** are the winners. You
+      can finish your MBA for under ₹1 Lakh and get a decent package of ₹5L to
+      ₹7L.
+  - question: When is the admission season for Kolkata B-schools?
+    answer: >-
+      Tier-1 closes by December/January. State colleges through JEMAT continue
+      their process until June/July.
 ---
 
 Kolkata, the "City of Joy" and the gateway to East India, is home to India's first IIM—[IIM Calcutta](/colleges/iim-calcutta). For MBA students, Kolkata offers a unique combination of rich intellectual heritage and proximity to major industrial clusters in West Bengal, Odisha, and Bihar.
@@ -104,9 +137,17 @@ Kolkata offers branding that spans decades. Don't be fooled by shiny brochures. 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

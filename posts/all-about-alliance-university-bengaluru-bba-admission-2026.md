@@ -1,9 +1,27 @@
 ---
-title: "Alliance University Bengaluru BBA Admission 2026: Fees & AUSAT Guide"
-date: "2026-05-15"
-category: "BBA Admissions"
-description: "Everything you need to know about BBA at Alliance University Bengaluru for 2026. Get latest info on AUSAT, fees, and placement packages."
-keywords: ["alliance university bba admission 2026", "alliance university bba fees", "alliance university placement 2026", "ausat 2026 strategy", "best private bba college in bangalore", "alliance school of business review"]
+title: 'Alliance University Bengaluru BBA Admission 2026: Fees & AUSAT Guide'
+date: '2026-05-15'
+category: BBA Admissions
+description: >-
+  Everything you need to know about BBA at Alliance University Bengaluru for
+  2026. Get latest info on AUSAT, fees, and placement packages.
+keywords:
+  - alliance university bba admission 2026
+  - alliance university bba fees
+  - alliance university placement 2026
+  - ausat 2026 strategy
+  - best private bba college in bangalore
+  - alliance school of business review
+faqs:
+  - question: Does Alliance University have a dress code?
+    answer: >-
+      Yes, Alliance University typically has a professional dress code for its
+      management students to prepare them for the corporate world.
+  - question: Is the BBA degree from Alliance University recognized globally?
+    answer: >-
+      Yes, due to its international accreditations and UGC recognition, the BBA
+      degree from Alliance is widely accepted for higher studies and jobs
+      globally.
 ---
 
 Alliance University, Bengaluru, is a top-ranked private university in India, known for its flagship Alliance School of Business. With its beautiful 50-acre green campus and international focus, it is a premier choice for BBA aspirants in 2026 who want a global management education experience.
@@ -58,7 +76,15 @@ Alliance is the only BBA college in Bangalore with multiple international accred
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium AUSAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the specific pattern and difficulty of the Alliance University exam.
+Looking for more resources? **[Explore Our Premium AUSAT Mock Test Series 2026](/mock-tests)** to practice the specific pattern and difficulty of the Alliance University exam.
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

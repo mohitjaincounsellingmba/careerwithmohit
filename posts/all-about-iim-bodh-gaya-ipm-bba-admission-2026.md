@@ -1,9 +1,24 @@
 ---
-title: "IIM Bodh Gaya IPM Admission 2026: Fees, Placements, and JIPMAT Guide"
-date: "2026-05-15"
-category: "BBA Admissions"
-description: "Everything you need to know about the 5-Year Integrated Programme in Management (IPM) at IIM Bodh Gaya for 2026. Fees, placements, and JIPMAT exam."
-keywords: ["iim bodh gaya ipm admission 2026", "iim bodh gaya ipmat fees", "iim bodh gaya placement 2026", "jipmat 2026 strategy", "iim bodh gaya integrated mba", "best bba program in india"]
+title: 'IIM Bodh Gaya IPM Admission 2026: Fees, Placements, and JIPMAT Guide'
+date: '2026-05-15'
+category: BBA Admissions
+description: >-
+  Everything you need to know about the 5-Year Integrated Programme in
+  Management (IPM) at IIM Bodh Gaya for 2026. Fees, placements, and JIPMAT exam.
+keywords:
+  - iim bodh gaya ipm admission 2026
+  - iim bodh gaya ipmat fees
+  - iim bodh gaya placement 2026
+  - jipmat 2026 strategy
+  - iim bodh gaya integrated mba
+  - best bba program in india
+faqs:
+  - question: Does IIM Bodh Gaya accept IPMAT Indore scores?
+    answer: >-
+      No, IIM Bodh Gaya (along with IIM Jammu) primarily uses JIPMAT for its IPM
+      admissions.
+  - question: What is the intake capacity for IPM 2026?
+    answer: The intake is approximately 120 seats for the 2026 batch.
 ---
 
 IIM Bodh Gaya, located in the land of enlightenment, is one of the third-generation IIMs to offer the 5-Year Integrated Programme in Management (IPM). With its modern campus and growing reputation, it is a significant player in the undergraduate management space in 2026.
@@ -58,7 +73,15 @@ JIPMAT is different from IPMAT Indore in its focus on Data Interpretation. Mohit
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium JIPMAT Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to practice the exact pattern of the NTA-conducted exam.
+Looking for more resources? **[Explore Our Premium JIPMAT Mock Test Series 2026](/mock-tests)** to practice the exact pattern of the NTA-conducted exam.
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

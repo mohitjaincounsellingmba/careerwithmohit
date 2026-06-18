@@ -1,8 +1,44 @@
 ---
-title: "How to Check MAT May 2026 CBT Score – Scorecard Download, Result Date & Calculator"
-date: "2026-06-02"
-description: "Complete guide to check your MAT May 2026 Computer-Based Test (CBT) score on mat.aima.in. Know the exact result date, scorecard download steps, and use the free MAT score calculator to estimate your composite score and percentile."
-keywords: ["MAT May 2026 CBT score", "check MAT CBT result 2026", "MAT CBT scorecard download", "mat.aima.in CBT result", "MAT May 2026 computer based test result", "AIMA MAT CBT score June 2026", "MAT score calculator", "MAT CBT result date 2026"]
+title: >-
+  How to Check MAT May 2026 CBT Score – Scorecard Download, Result Date &
+  Calculator
+date: '2026-06-02'
+description: >-
+  Complete guide to check your MAT May 2026 Computer-Based Test (CBT) score on
+  mat.aima.in. Know the exact result date, scorecard download steps, and use the
+  free MAT score calculator to estimate your composite score and percentile.
+keywords:
+  - MAT May 2026 CBT score
+  - check MAT CBT result 2026
+  - MAT CBT scorecard download
+  - mat.aima.in CBT result
+  - MAT May 2026 computer based test result
+  - AIMA MAT CBT score June 2026
+  - MAT score calculator
+  - MAT CBT result date 2026
+faqs:
+  - question: How to check MAT CBT scorecard online?
+    answer: >-
+      Log in at **[mat.aima.in](https://mat.aima.in)** → Candidate Dashboard →
+      Scorecard section.
+  - question: Is the CBT score different from the PBT score?
+    answer: >-
+      No. Scores from all MAT modes (PBT, CBT, IBT) are scaled to the same
+      800-point composite and are treated equally by all colleges.
+  - question: How many colleges can I send my MAT CBT score to?
+    answer: >-
+      During registration, you can select up to **5 colleges** for score
+      sharing. After the result, you can send your scorecard to additional
+      colleges directly.
+  - question: Can I appear in both CBT and IBT in the same session?
+    answer: >-
+      Yes. AIMA allows candidates to appear in multiple modes (e.g., CBT + IBT)
+      in the same May session at a combined fee. Your best score is typically
+      considered.
+  - question: Is a CBT score accepted for all MBA colleges accepting MAT?
+    answer: >-
+      Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT
+      scores interchangeably.
 ---
 
 The **MAT May 2026 Computer-Based Test (CBT)** is scheduled for **June 14, 2026** at designated test centres across India. If you have registered for the CBT mode — or have already appeared — this guide tells you exactly when to expect your result, how to download your scorecard, and how to use your CBT score for MBA admissions in 2026.
@@ -228,6 +264,14 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 **Need personalised MBA counselling based on your MAT CBT score?** Connect with **Mohit Jain** for expert guidance on selecting the right college, preparing for GD/PI, and securing your admission.
 
 📞 **[Book a Free Counselling Session → careerwithmohit.com](https://www.careerwithmohit.com/contact)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
 
 ---
 

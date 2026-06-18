@@ -1,10 +1,36 @@
 ---
-title: "Babasaheb Bhimrao Ambedkar University (BBAU) Review 2026: Fees, Placements & CUET Cutoffs"
-date: "2026-05-24"
-description: "Planning to join BBAU in 2026? Find comprehensive details on BBAU fees, placements, CUET UG & PG cutoffs, hostel facilities, and the full admission process."
-keywords: ["BBAU admission 2026", "BBAU fees", "BBAU placements 2026", "BBAU CUET cutoff", "BBAU Lucknow review", "Babasaheb Bhimrao Ambedkar University"]
+title: >-
+  Babasaheb Bhimrao Ambedkar University (BBAU) Review 2026: Fees, Placements &
+  CUET Cutoffs
+date: '2026-05-24'
+description: >-
+  Planning to join BBAU in 2026? Find comprehensive details on BBAU fees,
+  placements, CUET UG & PG cutoffs, hostel facilities, and the full admission
+  process.
+keywords:
+  - BBAU admission 2026
+  - BBAU fees
+  - BBAU placements 2026
+  - BBAU CUET cutoff
+  - BBAU Lucknow review
+  - Babasaheb Bhimrao Ambedkar University
+faqs:
+  - question: What are the career options after BBA?
+    answer: >-
+      BBA graduates can enter fields like digital marketing, sales, business
+      analysis, operations, human resource management, or opt for higher studies
+      like an MBA.
+  - question: Is mathematics compulsory for BBA admissions?
+    answer: >-
+      No, many universities and colleges offer BBA admissions to students from
+      non-maths backgrounds, though some premier institutes like SSCBS Delhi
+      might require maths or applied maths.
+  - question: Which BBA specialization has the scope in 2026?
+    answer: >-
+      Specializations in Business Analytics, Digital Marketing, Finance, and
+      International Business are highly in demand and offer strong career
+      progression.
 ---
-
 Babasaheb Bhimrao Ambedkar University (BBAU), located in Lucknow, is a renowned Central University known for its focus on providing quality education, especially to marginalized communities. With admissions primarily driven by the **Common University Entrance Test (CUET)**, BBAU has become a highly sought-after destination for undergraduate and postgraduate studies.
 
 ### 📝 Admission Process 2026
@@ -55,8 +81,30 @@ BBAU provides on-campus hostel facilities for both boys and girls, ensuring a sa
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### What are the career options after BBA?
+BBA graduates can enter fields like digital marketing, sales, business analysis, operations, human resource management, or opt for higher studies like an MBA.
+
+### Is mathematics compulsory for BBA admissions?
+No, many universities and colleges offer BBA admissions to students from non-maths backgrounds, though some premier institutes like SSCBS Delhi might require maths or applied maths.
+
+### Which BBA specialization has the scope in 2026?
+Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium CUET Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

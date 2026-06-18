@@ -1,9 +1,39 @@
 ---
-title: "Chandigarh University Online MBA Review 2026: Fees, Specializations & Placement Reality"
-date: "2026-05-10"
-category: "Online MBA"
-description: "Honest, data-driven review of Chandigarh University Online MBA 2026. Know the real fees (₹1,65,000), 23 specializations, NAAC A+ status, 300+ placement partners, and who should enroll."
-keywords: ["Chandigarh University online MBA review 2026", "CU online MBA fees 2026", "onlinecu.in MBA admission 2026", "Chandigarh University online MBA specializations", "CU online MBA placement", "Chandigarh University UGC DEB approved MBA", "is CU online MBA worth it 2026"]
+title: >-
+  Chandigarh University Online MBA Review 2026: Fees, Specializations &
+  Placement Reality
+date: '2026-05-10'
+category: Online MBA
+description: >-
+  Honest, data-driven review of Chandigarh University Online MBA 2026. Know the
+  real fees (₹1,65,000), 23 specializations, NAAC A+ status, 300+ placement
+  partners, and who should enroll.
+keywords:
+  - Chandigarh University online MBA review 2026
+  - CU online MBA fees 2026
+  - onlinecu.in MBA admission 2026
+  - Chandigarh University online MBA specializations
+  - CU online MBA placement
+  - Chandigarh University UGC DEB approved MBA
+  - is CU online MBA worth it 2026
+faqs:
+  - question: Does CU Online MBA need CAT score?
+    answer: >-
+      No entrance exam is required. Admission is based on graduation marks
+      alone.
+  - question: Can I specialize in two subjects?
+    answer: >-
+      Yes. CU offers a dual specialization option. Verify eligibility and
+      additional fees at [onlinecu.in](https://onlinecu.in).
+  - question: What is the difference between CU regular MBA and CU Online MBA?
+    answer: >-
+      The regular MBA involves campus attendance and physical placements. The
+      Online MBA is 100% virtual with career assistance instead of campus
+      placement drives.
+  - question: Is Chandigarh University NAAC A++ or A+?
+    answer: >-
+      CU holds **NAAC A+** (not A++). Do not confuse it with other universities
+      — always verify accreditation at [naac.gov.in](https://naac.gov.in).
 ---
 
 **Chandigarh University (CU) Online MBA** is one of India's most affordable and prestigious online management programs in 2026. Backed by **NAAC A+ accreditation**, a QS World University Ranking, and a network of 300+ placement partners, CU Online is a top contender for working professionals and fresh graduates alike.
@@ -154,10 +184,18 @@ CU holds **NAAC A+** (not A++). Do not confuse it with other universities — al
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

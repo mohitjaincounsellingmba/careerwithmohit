@@ -1,9 +1,37 @@
 ---
-title: "GST Basics for Beginners 2026 — Filing, Rates & SAC Codes Guide"
-date: "2026-04-21"
-category: "Finance"
-description: "New to the world of GST? Discover the basics of Goods and Services Tax in 2026. Learn about CGST, SGST, IGST, HSN codes, and the step-by-step GST return process."
-keywords: ["gst basics for beginners 2026", "what is cgst sgst igst", "gst return filing process india", "gst rates 2026 list", "hsn vs sac codes guide", "input tax credit gst explained", "how to register for gst 2026"]
+title: 'GST Basics for Beginners 2026 — Filing, Rates & SAC Codes Guide'
+date: '2026-04-21'
+category: Finance
+description: >-
+  New to the world of GST? Discover the basics of Goods and Services Tax in
+  2026. Learn about CGST, SGST, IGST, HSN codes, and the step-by-step GST return
+  process.
+keywords:
+  - gst basics for beginners 2026
+  - what is cgst sgst igst
+  - gst return filing process india
+  - gst rates 2026 list
+  - hsn vs sac codes guide
+  - input tax credit gst explained
+  - how to register for gst 2026
+faqs:
+  - question: does a freelancer need GST?
+    answer: >-
+      If you provide services to clients outside your state (Inter-state) or
+      your global services exceed ₹20L per year, you generally need to register
+      for GST.
+  - question: is the GST 18% or 9%?
+    answer: >-
+      For intra-state sales, it is split: **9% CGST and 9% SGST**. The total
+      burden on the customer remains 18%.
+  - question: Can I claim GST on my office petrol?
+    answer: >-
+      No. Petroleum products are currently outside the scope of GST, so you
+      cannot claim Input Tax Credit on them.
+  - question: What happens if I file GST late?
+    answer: >-
+      Late fees can range from ₹50 to ₹100 per day of delay, plus **18%
+      interest** on the unpaid tax amount.
 ---
 
 The implementation of the Goods and Services Tax (GST) has consolidated India into a "One Nation, One Tax" economy. However, for a student, a freelancer, or a new business owner in 2026, the technicalities of GST can still be confusing. Understanding HSN codes, Input Tax Credit (ITC), and the nuances between IGST and CGST is essential to stay compliant and avoid heavy penalties.
@@ -94,9 +122,17 @@ GST is the legal language of Indian business. Don't let technical errors block y
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

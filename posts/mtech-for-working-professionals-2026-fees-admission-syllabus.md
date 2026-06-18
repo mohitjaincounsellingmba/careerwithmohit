@@ -1,11 +1,38 @@
 ---
-title: "M.Tech for Working Professionals 2026 – Top Colleges, Fees, Syllabus & Admission Guide"
-date: "2026-04-25"
-category: "Online Degrees"
-description: "Complete guide to M.Tech for Working Professionals 2026. Compare IIT Jammu, IIT Jodhpur, Sanskriti University & more. Check fees, syllabus, eligibility and get 15% discount on admission."
-keywords: ["M.Tech for working professionals 2026", "MTech working professionals India", "part time MTech India 2026", "IIT MTech working professionals", "MTech fees India 2026", "MTech without GATE working professionals", "best MTech colleges working professionals India", "MTech hybrid program 2026"]
+title: >-
+  M.Tech for Working Professionals 2026 – Top Colleges, Fees, Syllabus &
+  Admission Guide
+date: '2026-04-25'
+category: Online Degrees
+description: >-
+  Complete guide to M.Tech for Working Professionals 2026. Compare IIT Jammu,
+  IIT Jodhpur, Sanskriti University & more. Check fees, syllabus, eligibility
+  and get 15% discount on admission.
+keywords:
+  - M.Tech for working professionals 2026
+  - MTech working professionals India
+  - part time MTech India 2026
+  - IIT MTech working professionals
+  - MTech fees India 2026
+  - MTech without GATE working professionals
+  - best MTech colleges working professionals India
+  - MTech hybrid program 2026
+faqs:
+  - question: Is an online MBA degree recognized by the government?
+    answer: >-
+      Yes, online degrees from UGC-DEB approved and AICTE recognized
+      universities are fully valid for private sector employment, government
+      exams, and higher studies.
+  - question: Do online degrees offer placement support?
+    answer: >-
+      Many top-tier universities provide dedicated online placement portals,
+      virtual job fairs, and resume building support, similar to regular
+      on-campus programs.
+  - question: Are online examinations conducted in proctored mode?
+    answer: >-
+      Yes, universities typically conduct online semester exams using AI-enabled
+      or human-proctored systems to maintain academic integrity.
 ---
-
 For engineers seeking senior technical roles, R&D leadership, or a pathway to academia — an **M.Tech for Working Professionals** is the most strategic qualification in 2026. Designed for **employed engineers**, it combines weekend/evening classes with hybrid delivery so you never need to leave your job.
 
 ---
@@ -159,12 +186,34 @@ A **2-year postgraduate engineering program** in hybrid format — online live s
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### Is an online MBA degree recognized by the government?
+Yes, online degrees from UGC-DEB approved and AICTE recognized universities are fully valid for private sector employment, government exams, and higher studies.
+
+### Do online degrees offer placement support?
+Many top-tier universities provide dedicated online placement portals, virtual job fairs, and resume building support, similar to regular on-campus programs.
+
+### Are online examinations conducted in proctored mode?
+Yes, universities typically conduct online semester exams using AI-enabled or human-proctored systems to maintain academic integrity.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

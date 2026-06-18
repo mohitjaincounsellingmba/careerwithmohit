@@ -1,11 +1,42 @@
 ---
-title: "All About GMAT Focus Edition 2026: Top Colleges, Fees & Cutoffs"
-date: "2026-03-18"
-excerpt: "Master the GMAT Focus Edition for 2026 admissions. Explore the updated scoring (205-805), section-wise breakdown, latest fees in India, and top global/Indian B-school cutoffs."
-coverImage: "/images/blog/gmat-exam-guide.jpg"
-author: "Mohit Jain"
-category: "Exams"
-tags: ["GMAT 2026", "MBA Abroad", "ISB Admission", "GMAT Focus Edition", "Study Abroad"]
+title: 'All About GMAT Focus Edition 2026: Top Colleges, Fees & Cutoffs'
+date: '2026-03-18'
+excerpt: >-
+  Master the GMAT Focus Edition for 2026 admissions. Explore the updated scoring
+  (205-805), section-wise breakdown, latest fees in India, and top global/Indian
+  B-school cutoffs.
+coverImage: /images/blog/gmat-exam-guide.jpg
+author: Mohit Jain
+category: Exams
+tags:
+  - GMAT 2026
+  - MBA Abroad
+  - ISB Admission
+  - GMAT Focus Edition
+  - Study Abroad
+description: "\U0001F4CA GMAT Focus Edition 2026 Snapshot | Category | Details | | :--- | :--- | | Duration | 2 Hours 15 Minutes (3 Sections) | | Scoring Scale | 205 – 805 (10-p..."
+keywords:
+  - career counselling
+  - admissions 2026
+  - placements 2025
+faqs:
+  - question: What is a good GMAT Focus score for ISB in 2026?
+    answer: >-
+      For the flagship PGP program at ISB, a score of **665 or higher** on the
+      Focus Edition is considered highly competitive (equivalent to 720 on the
+      old scale). However, ISB is profile-heavy, so even a 645 can get an admit
+      with strong work-ex.
+  - question: Is GMAT harder than CAT?
+    answer: >-
+      GMAT is adaptive and focuses on logic and data interpretation, whereas CAT
+      is a fixed-difficulty test with a more rigorous Quantitative section. GMAT
+      is generally preferred by those targeting global careers or executive MBAs
+      in India.
+  - question: How many times can I take the GMAT in 2026?
+    answer: >-
+      You can take the GMAT up to **5 times within a floating 12-month period**
+      and a maximum of 8 times in your lifetime. There must be at least 16 days
+      between two attempts.
 ---
 
 ### 📊 GMAT Focus Edition 2026 Snapshot
@@ -67,9 +98,17 @@ You can take the GMAT up to **5 times within a floating 12-month period** and a 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

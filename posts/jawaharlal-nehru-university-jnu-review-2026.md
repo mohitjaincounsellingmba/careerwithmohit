@@ -1,10 +1,32 @@
 ---
-title: "Jawaharlal Nehru University (JNU) Review 2026: Fees, Placements & CUET Cutoff"
-date: "2026-05-24"
-description: "Thinking about joining Jawaharlal Nehru University? Get the latest 2026 updates on JNU fees, placements, CUET cutoffs, and hostel admission details."
-keywords: ["Jawaharlal Nehru University 2026", "JNU CUET cutoff 2026", "JNU placement 2026", "JNU fees", "JNU hostel admission"]
+title: 'Jawaharlal Nehru University (JNU) Review 2026: Fees, Placements & CUET Cutoff'
+date: '2026-05-24'
+description: >-
+  Thinking about joining Jawaharlal Nehru University? Get the latest 2026
+  updates on JNU fees, placements, CUET cutoffs, and hostel admission details.
+keywords:
+  - Jawaharlal Nehru University 2026
+  - JNU CUET cutoff 2026
+  - JNU placement 2026
+  - JNU fees
+  - JNU hostel admission
+faqs:
+  - question: How do I check my exam results online?
+    answer: >-
+      You can check results on the official website of the conducting bodies
+      (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations)
+      using your application registration number.
+  - question: Are mock tests helpful in exam preparation?
+    answer: >-
+      Yes, attempting mock tests helps candidates build speed and accuracy,
+      understand the exam pattern, and perform detailed analytics of strong and
+      weak sections.
+  - question: What is the significance of negative marking in entrance exams?
+    answer: >-
+      Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
+      Candidates should avoid guessing to maintain accuracy and prevent score
+      drops.
 ---
-
 Jawaharlal Nehru University (JNU) stands as a beacon of research, liberal arts, and social sciences in India. Located in New Delhi, it is renowned for its intellectual environment, highly subsidized education, and vibrant student politics. If you're aiming for JNU in 2026, here is a detailed overview of what to expect.
 
 ## 📊 JNU 2026 Placement & Fee Snapshot
@@ -51,6 +73,28 @@ JNU is inherently residential, but getting a hostel is competitive.
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### How do I check my exam results online?
+You can check results on the official website of the conducting bodies (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations) using your application registration number.
+
+### Are mock tests helpful in exam preparation?
+Yes, attempting mock tests helps candidates build speed and accuracy, understand the exam pattern, and perform detailed analytics of strong and weak sections.
+
+### What is the significance of negative marking in entrance exams?
+Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candidates should avoid guessing to maintain accuracy and prevent score drops.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Cracking JNU requires top percentiles. **[Explore Our Premium CUET Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to secure your admission!
+Cracking JNU requires top percentiles. **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to secure your admission!
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

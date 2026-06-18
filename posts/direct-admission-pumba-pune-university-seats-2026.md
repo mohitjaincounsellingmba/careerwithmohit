@@ -1,8 +1,35 @@
 ---
-title: "Direct Admission in [PUMBA Pune](/colleges/pumba-pune): University Seats & CAP Guide 2026"
-date: "2026-03-17"
-description: "Looking for direct admission in [PUMBA Pune](/colleges/pumba-pune) for 2026? Understand the SPPU admission process, university-level seats, MAH-CET cutoffs, and latest placement stats."
-keywords: ["[PUMBA Pune](/colleges/pumba-pune) direct admission", "PUMBA management quota", "[PUMBA Pune](/colleges/pumba-pune) MBA fees 2026", "department of management sciences pune university admission", "PUMBA NRI quota"]
+title: >-
+  Direct Admission in [PUMBA Pune](/colleges/pumba-pune): University Seats & CAP
+  Guide 2026
+date: '2026-03-17'
+description: >-
+  Looking for direct admission in [PUMBA Pune](/colleges/pumba-pune) for 2026?
+  Understand the SPPU admission process, university-level seats, MAH-CET
+  cutoffs, and latest placement stats.
+keywords:
+  - '[PUMBA Pune](/colleges/pumba-pune) direct admission'
+  - PUMBA management quota
+  - '[PUMBA Pune](/colleges/pumba-pune) MBA fees 2026'
+  - department of management sciences pune university admission
+  - PUMBA NRI quota
+faqs:
+  - question: Can I get direct admission in PUMBA for MBA?
+    answer: >-
+      Direct admission is only possible through the merit-based **Against-CAP
+      rounds** or the **NRI quota**. There is no donation quota.
+  - question: Does PUMBA accept CMAT?
+    answer: >-
+      Yes, PUMBA accepts CAT, CMAT, and ATMA scores for its All India Quota
+      seats.
+  - question: What is the best ROI college in Pune?
+    answer: >-
+      **PUMBA** is widely considered the best ROI MBA college in Pune due to its
+      low fees (₹1.3L) and high average placement (₹9.4 LPA).
+  - question: Which entrance exam is needed for PUMBA?
+    answer: >-
+      The primary exam is **MAH MBA CET**. For All India seats, CAT and CMAT
+      scores are also valid.
 ---
 
 The Department of Management Sciences (PUMBA), Savitribai Phule Pune University, is one of the top government MBA colleges in India. Known for its academic excellence and high ROI, PUMBA is a top choice for CET aspirants. If you are targetting **Direct Admission in [PUMBA Pune](/colleges/pumba-pune) for 2026**, here is everything you need to know about the process.
@@ -65,9 +92,17 @@ The primary exam is **MAH MBA CET**. For All India seats, CAT and CMAT scores ar
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

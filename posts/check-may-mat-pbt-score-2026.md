@@ -1,8 +1,40 @@
 ---
-title: "How to Check MAT May 2026 PBT Score – Scorecard Download, Result Date & Calculator"
-date: "2026-06-02"
-description: "Step-by-step guide to check your MAT May 2026 Paper-Based Test (PBT) score on mat.aima.in. Know the result date, scorecard download process, and use our free MAT score calculator to estimate your composite score and percentile."
-keywords: ["MAT May 2026 PBT score", "check MAT PBT result 2026", "MAT PBT scorecard download", "mat.aima.in PBT result", "MAT May 2026 paper based test result", "AIMA MAT PBT score 2026", "MAT score calculator", "MAT PBT result date June 2026"]
+title: >-
+  How to Check MAT May 2026 PBT Score – Scorecard Download, Result Date &
+  Calculator
+date: '2026-06-02'
+description: >-
+  Step-by-step guide to check your MAT May 2026 Paper-Based Test (PBT) score on
+  mat.aima.in. Know the result date, scorecard download process, and use our
+  free MAT score calculator to estimate your composite score and percentile.
+keywords:
+  - MAT May 2026 PBT score
+  - check MAT PBT result 2026
+  - MAT PBT scorecard download
+  - mat.aima.in PBT result
+  - MAT May 2026 paper based test result
+  - AIMA MAT PBT score 2026
+  - MAT score calculator
+  - MAT PBT result date June 2026
+faqs:
+  - question: Where can I check my MAT PBT scorecard?
+    answer: >-
+      Only at the official AIMA portal: **[mat.aima.in](https://mat.aima.in)** →
+      Candidate Login → Dashboard → Scorecard.
+  - question: Is the scorecard sent by email?
+    answer: >-
+      No. AIMA does not email or post scorecards. You must log in and download
+      it yourself.
+  - question: Can I use my MAT PBT score for CBT-mode colleges?
+    answer: >-
+      Yes. MAT score is mode-agnostic — colleges accept scores regardless of
+      whether you took PBT, CBT, or IBT.
+  - question: How long is the MAT PBT score valid?
+    answer: Your score is valid for **12 months** from the date of declaration.
+  - question: What is the maximum composite score in MAT?
+    answer: >-
+      The maximum composite score is **800** (200 per section × 4 sections: LC,
+      ICR, MS, DA).
 ---
 
 The **MAT May 2026 Paper-Based Test (PBT)** was held on **May 31, 2026** across multiple test centres in India. If you appeared for the PBT mode, you are now eagerly waiting for your official scorecard. This guide covers everything — the result date, how to check and download your PBT scorecard, and how to make sense of your score.
@@ -216,6 +248,14 @@ The maximum composite score is **800** (200 per section × 4 sections: LC, ICR, 
 **Need personalised MBA admission guidance?** Connect with **Mohit Jain** for expert counselling. With extensive experience helping students secure admissions into top PGDM and MBA programs using MAT scores, we'll help you identify the best colleges for your profile, score, and budget.
 
 📞 **[Book a Free Counselling Session → careerwithmohit.com](https://www.careerwithmohit.com/contact)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
 
 ---
 

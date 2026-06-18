@@ -1,9 +1,36 @@
 ---
-title: "CLAT 2026 — Exam Dates, Syllabus & Preparation Strategy"
-date: "2026-04-21"
-category: "Law Admissions"
-description: "Aiming for a top NLU in 2026? Get the complete breakdown of CLAT 2026. Explore the latest syllabus, expected exam dates, and a monthly study plan to score 100+ marks."
-keywords: ["clat 2026 notification", "clat 2026 preparation strategy", "clat syllabus 2026", "clat 2026 exam date", "best clat coaching india", "clat current affairs 2026", "how to crack clat 2026", "clat mock test series"]
+title: 'CLAT 2026 — Exam Dates, Syllabus & Preparation Strategy'
+date: '2026-04-21'
+category: Law Admissions
+description: >-
+  Aiming for a top NLU in 2026? Get the complete breakdown of CLAT 2026. Explore
+  the latest syllabus, expected exam dates, and a monthly study plan to score
+  100+ marks.
+keywords:
+  - clat 2026 notification
+  - clat 2026 preparation strategy
+  - clat syllabus 2026
+  - clat 2026 exam date
+  - best clat coaching india
+  - clat current affairs 2026
+  - how to crack clat 2026
+  - clat mock test series
+faqs:
+  - question: Is CLAT 2026 online or offline?
+    answer: >-
+      Historically, CLAT is an **Offline (Pen & Paper)** exam. You mark your
+      answers on an OMR sheet.
+  - question: What is a good score for NLSIU Bangalore?
+    answer: >-
+      For the general category, a score of **100+ out of 120** is usually
+      required to be in the top-50 rank bracket for NLSIU.
+  - question: Are there any negative marks in CLAT?
+    answer: Yes. **0.25 marks** are deducted for every wrong answer.
+  - question: Can a Commerce student clear CLAT?
+    answer: >-
+      Absolutely. In fact, many CLAT toppers are from Commerce and Humanities
+      backgrounds as they are comfortable with general studies and business
+      logic.
 ---
 
 The Common Law Admission Test (CLAT) is the gateway to 24 National Law Universities (NLUs) and over 60 premier private Law schools in India. In 2026, the competition is expected to be more intense than ever, with over 1 lakh students fighting for just 3,000+ NLU seats.
@@ -107,9 +134,17 @@ CLAT is a test of stamina. Don't waste your months on the wrong material. Mohit 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

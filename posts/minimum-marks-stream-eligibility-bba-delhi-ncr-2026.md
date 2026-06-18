@@ -1,11 +1,33 @@
 ---
-title: "Minimum Marks & Stream Eligibility for BBA in Delhi NCR Colleges 2026"
-date: "2026-05-21"
-category: "BBA Admissions"
-description: "Confused about BBA eligibility? Read our 2026 guide on minimum marks, stream eligibility (Science/Commerce/Arts), and maths requirements in Delhi NCR."
-keywords: ["bba eligibility 2026", "can arts students do bba", "bba without maths eligibility", "minimum marks for bba delhi", "sscbs eligibility"]
+title: Minimum Marks & Stream Eligibility for BBA in Delhi NCR Colleges 2026
+date: '2026-05-21'
+category: BBA Admissions
+description: >-
+  Confused about BBA eligibility? Read our 2026 guide on minimum marks, stream
+  eligibility (Science/Commerce/Arts), and maths requirements in Delhi NCR.
+keywords:
+  - bba eligibility 2026
+  - can arts students do bba
+  - bba without maths eligibility
+  - minimum marks for bba delhi
+  - sscbs eligibility
+faqs:
+  - question: What are the career options after BBA?
+    answer: >-
+      BBA graduates can enter fields like digital marketing, sales, business
+      analysis, operations, human resource management, or opt for higher studies
+      like an MBA.
+  - question: Is mathematics compulsory for BBA admissions?
+    answer: >-
+      No, many universities and colleges offer BBA admissions to students from
+      non-maths backgrounds, though some premier institutes like SSCBS Delhi
+      might require maths or applied maths.
+  - question: Which BBA specialization has the scope in 2026?
+    answer: >-
+      Specializations in Business Analytics, Digital Marketing, Finance, and
+      International Business are highly in demand and offer strong career
+      progression.
 ---
-
 One of the most common questions undergraduate management aspirants ask is: *"Am I eligible for a BBA program if I am from the Arts or Science stream?"* or *"Do I need Mathematics in Class 12 to pursue BBA in Delhi NCR?"*
 
 Eligibility rules vary significantly between universities. To help you plan your admissions, here is a complete breakdown of **minimum marks, stream eligibility, and subject requirements for BBA in Delhi NCR for 2026**.
@@ -75,11 +97,33 @@ To qualify for application, you must meet the minimum board percentage:
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### What are the career options after BBA?
+BBA graduates can enter fields like digital marketing, sales, business analysis, operations, human resource management, or opt for higher studies like an MBA.
+
+### Is mathematics compulsory for BBA admissions?
+No, many universities and colleges offer BBA admissions to students from non-maths backgrounds, though some premier institutes like SSCBS Delhi might require maths or applied maths.
+
+### Which BBA specialization has the scope in 2026?
+Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

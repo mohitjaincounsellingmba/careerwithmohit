@@ -1,8 +1,41 @@
 ---
-title: "Direct Admission in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) 2026: Merit & Profile Facts"
-date: "2026-03-17"
-description: "Discover the direct admission process for [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) for 2026. Learn about the profile-based selection, CAT/XAT requirements, and ROI for the 2026-28 batch."
-keywords: ["[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) direct admission", "[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) management quota", "[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) fees 2026", "GLIM Gurgaon admission 2026", "direct admission in GLIM Gurgaon"]
+title: >-
+  Direct Admission in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) 2026:
+  Merit & Profile Facts
+date: '2026-03-17'
+description: >-
+  Discover the direct admission process for [Great Lakes
+  Gurgaon](/colleges/great-lakes-gurgaon) for 2026. Learn about the
+  profile-based selection, CAT/XAT requirements, and ROI for the 2026-28 batch.
+keywords:
+  - '[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) direct admission'
+  - '[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) management quota'
+  - '[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) fees 2026'
+  - GLIM Gurgaon admission 2026
+  - direct admission in GLIM Gurgaon
+faqs:
+  - question: >-
+      Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) offer direct
+      admission?
+    answer: >-
+      Official direct admission (donation-based) is not available. All
+      admissions are via the merit portal based on entrance scores and profile
+      assessment.
+  - question: >-
+      What is the cutoff for [Great Lakes
+      Gurgaon](/colleges/great-lakes-gurgaon)?
+    answer: >-
+      For the PGDM program, the expected cutoff is usually around the **80-85
+      percentile** in CAT or XAT.
+  - question: Is Gurgaon campus as good as Chennai?
+    answer: >-
+      Yes, both campuses share the same curriculum and placement support, with
+      the Gurgaon campus offering a slight edge in terms of Corporate proximity
+      in NCR.
+  - question: When are the application deadlines for 2026?
+    answer: >-
+      Cycle 1 usually ends in **January**, with subsequent rounds ending in
+      March or April.
 ---
 
 Great Lakes Institute of Management (GLIM) Gurgaon is a sister campus of the legendary Chennai school, offering the same academic excellence in India's corporate heartland. Known for its strong industry integration and focus on Analytics, it is a high-priority college for Delhi-NCR aspirants. For students looking for **Direct Admission in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) 2026**, here are the facts on how to secure your seat.
@@ -65,9 +98,17 @@ Cycle 1 usually ends in **January**, with subsequent rounds ending in March or A
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

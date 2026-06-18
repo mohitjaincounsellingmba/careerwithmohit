@@ -1,8 +1,36 @@
 ---
-title: "Direct Admission in [IMI Delhi](/colleges/imi-delhi) 2026: Institutional Quota & Fees"
-date: "2026-03-17"
-description: "Planning for [IMI Delhi](/colleges/imi-delhi) 2026? Learn about direct admission via merit-linked institutional seats, NRI quota, latest CAT/XAT cutoffs, and 2025 placement reports for the 2026-28 batch."
-keywords: ["[IMI Delhi](/colleges/imi-delhi) direct admission", "[IMI Delhi](/colleges/imi-delhi) management quota", "[IMI Delhi](/colleges/imi-delhi) fees 2026", "International Management Institute Delhi admission", "direct admission in IMI"]
+title: >-
+  Direct Admission in [IMI Delhi](/colleges/imi-delhi) 2026: Institutional Quota
+  & Fees
+date: '2026-03-17'
+description: >-
+  Planning for [IMI Delhi](/colleges/imi-delhi) 2026? Learn about direct
+  admission via merit-linked institutional seats, NRI quota, latest CAT/XAT
+  cutoffs, and 2025 placement reports for the 2026-28 batch.
+keywords:
+  - '[IMI Delhi](/colleges/imi-delhi) direct admission'
+  - '[IMI Delhi](/colleges/imi-delhi) management quota'
+  - '[IMI Delhi](/colleges/imi-delhi) fees 2026'
+  - International Management Institute Delhi admission
+  - direct admission in IMI
+faqs:
+  - question: 'Is there a management quota in [IMI Delhi](/colleges/imi-delhi)?'
+    answer: >-
+      Yes, [IMI Delhi](/colleges/imi-delhi) has provision for institutional
+      quota seats which are filled transparently based on merit and profile
+      assessment.
+  - question: 'Does [IMI Delhi](/colleges/imi-delhi) accept CMAT scores?'
+    answer: >-
+      No, [IMI Delhi](/colleges/imi-delhi) only accepts **CAT** or **XAT** for
+      its flagship PGDM programs.
+  - question: 'What is the average package for [IMI Delhi](/colleges/imi-delhi)?'
+    answer: >-
+      The latest average package for the PGDM batch is approximately **₹17.1
+      LPA**.
+  - question: 'Can freshers apply for [IMI Delhi](/colleges/imi-delhi)?'
+    answer: >-
+      Yes, IMI Delhi has a good mix of both freshers and students with work
+      experience in its PGDM programs.
 ---
 
 International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2026-28 batch, **Direct Admission in [IMI Delhi](/colleges/imi-delhi)** is a merit-linked process focusing on profile diversity and the institutional category.
@@ -50,7 +78,7 @@ No, [IMI Delhi](/colleges/imi-delhi) only accepts **CAT** or **XAT** for its fla
 ### 3. What is the average package for [IMI Delhi](/colleges/imi-delhi)?
 The latest average package for the PGDM batch is approximately **₹17.1 LPA**.
 
-### 4. Can freshers apply for IMI Delhi?
+### 4. Can freshers apply for [IMI Delhi](/colleges/imi-delhi)?
 Yes, IMI Delhi has a good mix of both freshers and students with work experience in its PGDM programs.
 
 ---
@@ -66,9 +94,17 @@ Yes, IMI Delhi has a good mix of both freshers and students with work experience
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

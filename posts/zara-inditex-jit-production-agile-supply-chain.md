@@ -1,10 +1,33 @@
 ---
-title: "Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain"
-date: "2026-05-28"
-description: "Dive into Zara's agile supply chain. Discover how Inditex utilizes Just-in-Time (JIT) production and real-time customer feedback loops to deliver fashion in 15 days."
-keywords: ["Zara supply chain case study", "Zara JIT production fast fashion", "Inditex agile supply chain", "fashion retail inventory management", "Just In Time case study MBA"]
+title: 'Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain'
+date: '2026-05-28'
+description: >-
+  Dive into Zara's agile supply chain. Discover how Inditex utilizes
+  Just-in-Time (JIT) production and real-time customer feedback loops to deliver
+  fashion in 15 days.
+keywords:
+  - Zara supply chain case study
+  - Zara JIT production fast fashion
+  - Inditex agile supply chain
+  - fashion retail inventory management
+  - Just In Time case study MBA
+faqs:
+  - question: What is the typical fee structure for MBA programs in India?
+    answer: >-
+      The fee structure varies widely. Government-aided institutes like FMS
+      Delhi have low fees (around INR 2 Lakhs), while top-tier private
+      institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+  - question: Is it possible to pursue an MBA without clearing CAT?
+    answer: >-
+      Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT,
+      or CMAT. Additionally, direct admission options under management quota are
+      available in several private B-schools.
+  - question: What is the difference between an MBA and a PGDM?
+    answer: >-
+      An MBA is a degree awarded by universities affiliated with UGC, whereas a
+      PGDM is a post-graduate diploma offered by autonomous institutes approved
+      by AICTE. Both are highly valued in the job market.
 ---
-
 In the traditional fashion retail industry, the journey of a garment from a designer’s sketchpad to a retail store shelf takes anywhere between **six to nine months**. Designers anticipate trends almost a year in advance, outsource manufacturing to low-cost developing countries in massive bulk orders, and pray that consumers will buy them when the season arrives. 
 
 If they guess wrong, they are forced to run heavy discount sales to clear unsold inventory.
@@ -103,6 +126,28 @@ By transforming their supply chain into an agile, real-time feedback loop and ma
 *   [Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets](/blog/southwest-airlines-indigo-ultra-fast-turnaround-fleet-standardization)
 
 [👉 Want to specialize in Retail & Supply Chain Management? Schedule a counselling session with Mohit Jain!](/inquiry)
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### What is the typical fee structure for MBA programs in India?
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+
+### Is it possible to pursue an MBA without clearing CAT?
+Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
+
+### What is the difference between an MBA and a PGDM?
+An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
+
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
 
 ---
 

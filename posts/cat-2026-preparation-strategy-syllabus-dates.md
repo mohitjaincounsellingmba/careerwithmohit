@@ -1,9 +1,38 @@
 ---
-title: "CAT 2026 Preparation Strategy — Syllabus, Dates & 6-Month Roadmap"
-date: "2026-04-21"
-category: "MBA Admissions"
-description: "Planning to crack CAT 2026? Follow our ultimate 6-month preparation roadmap. Get section-wise tips for VARC, DILR, and Quant, plus the latest syllabus and exam dates."
-keywords: ["cat 2026 preparation strategy", "cat 2026 roadmap", "cat syllabus 2026 pdf", "how to start cat preparation", "cat exam dates 2026", "best books for cat 2026", "cat preparation for beginners", "cracking cat in 6 months"]
+title: 'CAT 2026 Preparation Strategy — Syllabus, Dates & 6-Month Roadmap'
+date: '2026-04-21'
+category: MBA Admissions
+description: >-
+  Planning to crack CAT 2026? Follow our ultimate 6-month preparation roadmap.
+  Get section-wise tips for VARC, DILR, and Quant, plus the latest syllabus and
+  exam dates.
+keywords:
+  - cat 2026 preparation strategy
+  - cat 2026 roadmap
+  - cat syllabus 2026 pdf
+  - how to start cat preparation
+  - cat exam dates 2026
+  - best books for cat 2026
+  - cat preparation for beginners
+  - cracking cat in 6 months
+faqs:
+  - question: Are books by Arun Sharma still relevant for CAT 2026?
+    answer: >-
+      Yes. Arun Sharma’s series (especially Quant and LRDI) is the industry
+      standard. However, supplementing them with online mock series from
+      IMS/TIME is mandatory.
+  - question: Can an average student crack CAT?
+    answer: >-
+      Absolutely. CAT isn't an IQ test; it is a **Strategy and Discipline
+      test**. Consistent practice beats raw intelligence in this exam.
+  - question: What is the minimum percentile for IIMs?
+    answer: >-
+      For general category students, you usually need a **98.5+ percentile** for
+      a call from an old IIM (A,B,C,L,K,I).
+  - question: Can I prepare for CAT while working?
+    answer: >-
+      Yes. Dedicate 2 hours daily and 6-8 hours on weekends. Many toppers are
+      working professionals.
 ---
 
 The **Common Admission Test (CAT)** is the gateway to the elite IIMs and hundreds of top B-schools in India. But with over 3 Lakh applicants fighting for a few thousand seats, "hard work" isn't enough—you need a **Strategic Framework.**
@@ -115,9 +144,17 @@ Stop following generic advice. Mohit Jain provides a **Personalized CAT Roadmap*
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

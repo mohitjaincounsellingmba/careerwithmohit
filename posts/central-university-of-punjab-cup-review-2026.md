@@ -1,10 +1,34 @@
 ---
-title: "Central University of Punjab (CUP) Review 2026: Fees, Placements & CUET Cutoffs"
-date: "2026-05-24"
-description: "Everything you need to know about Central University of Punjab (CUP) for 2026: admission process, CUET UG & PG cutoffs, fees, hostel charges, and placements."
-keywords: ["Central University of Punjab admission 2026", "CUP fees", "CUP placements", "Central University of Punjab CUET cutoff", "CUP hostel fees"]
+title: >-
+  Central University of Punjab (CUP) Review 2026: Fees, Placements & CUET
+  Cutoffs
+date: '2026-05-24'
+description: >-
+  Everything you need to know about Central University of Punjab (CUP) for 2026:
+  admission process, CUET UG & PG cutoffs, fees, hostel charges, and placements.
+keywords:
+  - Central University of Punjab admission 2026
+  - CUP fees
+  - CUP placements
+  - Central University of Punjab CUET cutoff
+  - CUP hostel fees
+faqs:
+  - question: How do I check my exam results online?
+    answer: >-
+      You can check results on the official website of the conducting bodies
+      (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations)
+      using your application registration number.
+  - question: Are mock tests helpful in exam preparation?
+    answer: >-
+      Yes, attempting mock tests helps candidates build speed and accuracy,
+      understand the exam pattern, and perform detailed analytics of strong and
+      weak sections.
+  - question: What is the significance of negative marking in entrance exams?
+    answer: >-
+      Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
+      Candidates should avoid guessing to maintain accuracy and prevent score
+      drops.
 ---
-
 The Central University of Punjab (CUP) is a highly respected institution known for its strong focus on research, modern curriculum, and affordable, high-quality education. For students targeting Central Universities in 2026, CUP remains a top choice.
 
 ### 📝 Admission Process 2026
@@ -50,8 +74,30 @@ The active placement cell at CUP consistently works to improve industry connecti
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### How do I check my exam results online?
+You can check results on the official website of the conducting bodies (e.g., NTA for JEE/NEET/CUET, or respective boards/testing organizations) using your application registration number.
+
+### Are mock tests helpful in exam preparation?
+Yes, attempting mock tests helps candidates build speed and accuracy, understand the exam pattern, and perform detailed analytics of strong and weak sections.
+
+### What is the significance of negative marking in entrance exams?
+Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candidates should avoid guessing to maintain accuracy and prevent score drops.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium CUET Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

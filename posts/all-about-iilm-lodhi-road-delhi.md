@@ -1,10 +1,31 @@
 ---
-title: "IILM Lodhi Road Delhi Review 2026: Placements & Infrastructure Highlights"
-date: "2026-03-15"
-description: "Review of IILM Lodhi Road (New Delhi). Explore the premium placement stats, heritage campus, and elite faculty."
-keywords: ["IILM Lodhi Road review 2026", "IILM Delhi placement", "IILM Lodhi Road vs Gurugram", "MBA in South Delhi"]
+title: 'IILM Lodhi Road Delhi Review 2026: Placements & Infrastructure Highlights'
+date: '2026-03-15'
+description: >-
+  Review of IILM Lodhi Road (New Delhi). Explore the premium placement stats,
+  heritage campus, and elite faculty.
+keywords:
+  - IILM Lodhi Road review 2026
+  - IILM Delhi placement
+  - IILM Lodhi Road vs Gurugram
+  - MBA in South Delhi
+faqs:
+  - question: What is the typical fee structure for MBA programs in India?
+    answer: >-
+      The fee structure varies widely. Government-aided institutes like FMS
+      Delhi have low fees (around INR 2 Lakhs), while top-tier private
+      institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+  - question: Is it possible to pursue an MBA without clearing CAT?
+    answer: >-
+      Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT,
+      or CMAT. Additionally, direct admission options under management quota are
+      available in several private B-schools.
+  - question: What is the difference between an MBA and a PGDM?
+    answer: >-
+      An MBA is a degree awarded by universities affiliated with UGC, whereas a
+      PGDM is a post-graduate diploma offered by autonomous institutes approved
+      by AICTE. Both are highly valued in the job market.
 ---
-
 ### **College Review: IILM Lodhi Road**
 *   **Prestigious Address**: One of the most premium B-school locations in the heart of the national capital.
 *   **Corporate Legacy**: Decades of history in shaping some of India's top management professionals.
@@ -34,11 +55,33 @@ keywords: ["IILM Lodhi Road review 2026", "IILM Delhi placement", "IILM Lodhi Ro
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### What is the typical fee structure for MBA programs in India?
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+
+### Is it possible to pursue an MBA without clearing CAT?
+Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
+
+### What is the difference between an MBA and a PGDM?
+An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
+
+
+---
+
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

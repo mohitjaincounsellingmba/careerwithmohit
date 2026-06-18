@@ -1,8 +1,32 @@
 ---
-title: "[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata) 2026: Is the High Fee Worth It?"
-date: "2026-03-25"
-description: "Choosing between [IMI Delhi](/colleges/imi-delhi) and its Kolkata campus? Read our 2026 comparison on CAT/XAT cutoffs, ₹32L high-fee reality, and average placement packages."
-keywords: ["[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata)", "[IMI Delhi](/colleges/imi-delhi) average package 2026", "[IMI Kolkata](/colleges/imi-kolkata) CAT cutoff 2025", "[IMI Delhi](/colleges/imi-delhi) fees 2026", "[IMI Kolkata](/colleges/imi-kolkata) placement review", "MBA at [IMI Delhi](/colleges/imi-delhi) vs Kolkata"]
+title: >-
+  [IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata) 2026:
+  Is the High Fee Worth It?
+date: '2026-03-25'
+description: >-
+  Choosing between [IMI Delhi](/colleges/imi-delhi) and its Kolkata campus? Read
+  our 2026 comparison on CAT/XAT cutoffs, ₹32L high-fee reality, and average
+  placement packages.
+keywords:
+  - '[IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata)'
+  - '[IMI Delhi](/colleges/imi-delhi) average package 2026'
+  - '[IMI Kolkata](/colleges/imi-kolkata) CAT cutoff 2025'
+  - '[IMI Delhi](/colleges/imi-delhi) fees 2026'
+  - '[IMI Kolkata](/colleges/imi-kolkata) placement review'
+  - 'MBA at [IMI Delhi](/colleges/imi-delhi) vs Kolkata'
+faqs:
+  - question: 'Is [IMI Kolkata](/colleges/imi-kolkata) placements as good as Delhi?'
+    answer: >-
+      No. While [IMI Kolkata](/colleges/imi-kolkata) is an excellent choice, the
+      average package in Delhi is about ₹5-6 LPA higher. However, remember the
+      fee in Delhi is also double.
+  - question: Does IMI accept CMAT?
+    answer: >-
+      [IMI Delhi](/colleges/imi-delhi) does not accept CMAT scores. However,
+      [IMI Kolkata](/colleges/imi-kolkata) and IMI Bhubaneswar do accept CMAT,
+      usually requiring a 80+ percentile score.
+  - question: Which campus is better for Finance?
+    answer: "[IMI Delhi](/colleges/imi-delhi) is widely considered better for Finance due to its heavy recruitment cycles from top global investment banks.\n\n[\U0001F449 Compare IMI campuses with IMT and other B-Schools!](/tools/college-comparison)\n\n**Struggling to justify the loan for [IMI Delhi](/colleges/imi-delhi)?**\nAt **CareerWithMohit**, we help you calculate your individual ROI and career trajectory to ensure you make the right investment.\n\n[\U0001F449 Get Expert MBA Admission Guidance!](/inquiry)"
 ---
 
 The **International Management Institute (IMI)** is one of the "Old Guard" in Indian management education, with its Delhi campus consistently ranking in the Top 30 nationwide. But with the high fees at its **Delhi** flagship campus and the competitive metropolitan edge of its **Kolkata** campus, aspirants are asking: **"Which is the real winner in 2026?"**
@@ -67,9 +91,17 @@ At **CareerWithMohit**, we help you calculate your individual ROI and career tra
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

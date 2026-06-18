@@ -1,9 +1,38 @@
 ---
-title: "Can I do Law Without Maths? — Schools & Prep Guide 2026"
-date: "2026-04-21"
-category: "Law Admissions"
-description: "Confused if you can study Law without Mathematics in 12th? The answer is a massive YES. Learn about CLAT without Maths, top law colleges for Arts students, and career prospects in 2026."
-keywords: ["can i do law without maths in 12th", "law colleges for non maths students 2026", "is maths compulsory for clat", "law eligibility without maths", "ca llb without maths", "career in law for arts students", "maths in ailet exam"]
+title: Can I do Law Without Maths? — Schools & Prep Guide 2026
+date: '2026-04-21'
+category: Law Admissions
+description: >-
+  Confused if you can study Law without Mathematics in 12th? The answer is a
+  massive YES. Learn about CLAT without Maths, top law colleges for Arts
+  students, and career prospects in 2026.
+keywords:
+  - can i do law without maths in 12th
+  - law colleges for non maths students 2026
+  - is maths compulsory for clat
+  - law eligibility without maths
+  - ca llb without maths
+  - career in law for arts students
+  - maths in ailet exam
+faqs:
+  - question: Is there any Law specialization that requires Maths?
+    answer: >-
+      **Taxation Law** and **Securities Law (Stock Market)** involve some
+      financial calculations, but it's nothing that a basic calculator and logic
+      cannot solve.
+  - question: Does NLSIU Bangalore require Maths in 12th?
+    answer: >-
+      NO. NLSIU requires you to have passed 12th standard from any stream. Your
+      CLAT rank is the only criteria for selection.
+  - question: Is Law harder for Commerce students without Maths?
+    answer: >-
+      No. In fact, Commerce students find "Corporate Law" and "Contract Law"
+      much easier because they already know the basics of business.
+  - question: When should I start preparing if I am weak in logic?
+    answer: >-
+      If you have stayed away from logic and maths, start your CLAT prep at
+      least **12 months before the exam** to build the thinking patterns
+      required for the test.
 ---
 
 One of the biggest concerns for Humanities, Arts, and Commerce (without Maths) students is: **"Is Mathematics mandatory for a career in Law?"**
@@ -91,9 +120,17 @@ India's best lawyers aren't necessarily math geniuses. Don't let the "10 marks o
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

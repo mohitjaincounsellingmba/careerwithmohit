@@ -1,10 +1,35 @@
 ---
-title: "Aravind Eye Care System: Assembly-Line Healthcare & The Cross-Subsidization Model"
-date: "2026-05-28"
-description: "Learn how Aravind Eye Care System adapted McDonald's assembly-line efficiency to social healthcare to cure blindness using a self-sustaining cross-subsidization model."
-keywords: ["Aravind Eye Care System case study", "assembly line healthcare model", "healthcare cross subsidization", "social entrepreneurship MBA", "business models in healthcare"]
+title: >-
+  Aravind Eye Care System: Assembly-Line Healthcare & The Cross-Subsidization
+  Model
+date: '2026-05-28'
+description: >-
+  Learn how Aravind Eye Care System adapted McDonald's assembly-line efficiency
+  to social healthcare to cure blindness using a self-sustaining
+  cross-subsidization model.
+keywords:
+  - Aravind Eye Care System case study
+  - assembly line healthcare model
+  - healthcare cross subsidization
+  - social entrepreneurship MBA
+  - business models in healthcare
+faqs:
+  - question: What is the typical fee structure for MBA programs in India?
+    answer: >-
+      The fee structure varies widely. Government-aided institutes like FMS
+      Delhi have low fees (around INR 2 Lakhs), while top-tier private
+      institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+  - question: Is it possible to pursue an MBA without clearing CAT?
+    answer: >-
+      Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT,
+      or CMAT. Additionally, direct admission options under management quota are
+      available in several private B-schools.
+  - question: What is the difference between an MBA and a PGDM?
+    answer: >-
+      An MBA is a degree awarded by universities affiliated with UGC, whereas a
+      PGDM is a post-graduate diploma offered by autonomous institutes approved
+      by AICTE. Both are highly valued in the job market.
 ---
-
 How can an organization provide world-class, state-of-the-art surgical care to millions of impoverished patients for completely free, receive absolutely no government grants or foreign donations, and still remain highly profitable and debt-free? 
 
 The answer lies in the **Aravind Eye Care System**. 
@@ -115,6 +140,28 @@ For future leaders, it is a timeless lesson: **when you optimize processes for m
 *   [Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets](/blog/southwest-airlines-indigo-ultra-fast-turnaround-fleet-standardization)
 
 [👉 Preparing for an MBA interview in Operations? Get mock interview prep with Mohit Jain!](/inquiry)
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### What is the typical fee structure for MBA programs in India?
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+
+### Is it possible to pursue an MBA without clearing CAT?
+Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
+
+### What is the difference between an MBA and a PGDM?
+An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
+
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
 
 ---
 

@@ -1,9 +1,38 @@
 ---
-title: "Top Law Colleges in Kolkata 2026 — Fees, Placements & Admission"
-date: "2026-04-21"
-category: "Law Admissions"
-description: "Planning a Law career in East India's gateway? Compare the best Law schools in Kolkata for 2026. Detailed guide on WBNUJS, Heritage, and South Calcutta Law College."
-keywords: ["top law colleges in kolkata 2026", "best law colleges kolkata", "wbnujs kolkata admission 2026", "heritage law college fees", "south calcutta law college admission", "amity kolkata law placement", "sxaviers law kolkata", "direct law admission kolkata"]
+title: 'Top Law Colleges in Kolkata 2026 — Fees, Placements & Admission'
+date: '2026-04-21'
+category: Law Admissions
+description: >-
+  Planning a Law career in East India's gateway? Compare the best Law schools in
+  Kolkata for 2026. Detailed guide on WBNUJS, Heritage, and South Calcutta Law
+  College.
+keywords:
+  - top law colleges in kolkata 2026
+  - best law colleges kolkata
+  - wbnujs kolkata admission 2026
+  - heritage law college fees
+  - south calcutta law college admission
+  - amity kolkata law placement
+  - sxaviers law kolkata
+  - direct law admission kolkata
+faqs:
+  - question: Does University of Calcutta (CU) have an entrance exam?
+    answer: >-
+      Previously CU had its separate entrance, but for many Law colleges,
+      admission is now primarily based on **12th-grade merit or WB-state level
+      admission tests**. Always check the latest CU Gazette for the 2026 intake.
+  - question: What is the fee for Law in St. Xavier's Kolkata?
+    answer: >-
+      St. Xavier's University (New Town) charges around ₹1 Lakh to ₹1.5 Lakhs
+      per year for its 5-year integrated law courses.
+  - question: Can I practice in other states after Law from Kolkata?
+    answer: >-
+      YES. A law degree from any BCI-recognized college in Kolkata allows you to
+      practice anywhere in India after clearing the All India Bar Exam (AIBE).
+  - question: When is the Kolkata Law admission 2026 starting?
+    answer: >-
+      Registrations for merit-based seats usually open in **June** after the HS
+      and CBSE results.
 ---
 
 Kolkata, the "City of Joy" and a historic bastion of the Indian legal system, remains a top destination for legal studies. With the presence of WBNUJS—one of India's top 3 law schools—and the legendary Calcutta High Court, the city offers a blend of high-end corporate placements and traditional litigation excellence.
@@ -100,9 +129,17 @@ Kolkata offers heritage and excellence. Don't waste your years at a college with
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -1,8 +1,32 @@
 ---
-title: "IIT Delhi B.Tech Admission 2026: Cutoffs, Fees & Placement Review"
-date: "2026-03-24"
-description: "Aiming for IIT Delhi? Get the latest on JEE Advanced 2026 expected cutoffs for CSE,JoSAA counselling process, detailed fee structure, and its legendary ₹2 Crore+ international placement record."
-keywords: ["IIT Delhi BTech admission 2026", "IIT Delhi JEE Advanced cutoff", "IIT Delhi fees for BTech", "IIT Delhi CSE closing rank 2025", "JoSAA counselling IIT Delhi", "IIT Delhi placement review 2025", "NIRF ranking IIT Delhi"]
+title: 'IIT Delhi B.Tech Admission 2026: Cutoffs, Fees & Placement Review'
+date: '2026-03-24'
+description: >-
+  Aiming for IIT Delhi? Get the latest on JEE Advanced 2026 expected cutoffs for
+  CSE,JoSAA counselling process, detailed fee structure, and its legendary ₹2
+  Crore+ international placement record.
+keywords:
+  - IIT Delhi BTech admission 2026
+  - IIT Delhi JEE Advanced cutoff
+  - IIT Delhi fees for BTech
+  - IIT Delhi CSE closing rank 2025
+  - JoSAA counselling IIT Delhi
+  - IIT Delhi placement review 2025
+  - NIRF ranking IIT Delhi
+faqs:
+  - question: What JEE Advanced rank is needed for IIT Delhi CSE?
+    answer: >-
+      For the general category, an All India Rank (AIR) under 100 is typically
+      required for CSE at IIT Delhi.
+  - question: Is there a hostel shortage at IIT Delhi?
+    answer: >-
+      IIT Delhi works hard to accommodate all students, but priority is given
+      based on seniority and distance from home.
+  - question: What is the fee for B.Tech at IIT Delhi per semester?
+    answer: >-
+      The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC
+      students, with full waivers for SC/ST and income-based concessions for
+      others.
 ---
 
 The **Indian Institute of Technology (IIT) Delhi** is consistently ranked as the #2 engineering institute in India (NIRF 2025). Located in the heart of South Delhi (Hauz Khas), it is the ultimate dream for millions of JEE aspirants. Known for its rigorous academics, world-class research, and a billionaire-producing alumni network, IIT Delhi is the pinnacle of engineering education in India.
@@ -68,9 +92,17 @@ The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC studen
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
 
 Source: Shiksha.com
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
