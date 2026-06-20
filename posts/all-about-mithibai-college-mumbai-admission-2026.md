@@ -1,10 +1,13 @@
 ---
-title: 'Mithibai College Mumbai Admission 2026: Courses, Selection Process, Cutoff & Review'
+title: >-
+  Mithibai College Mumbai Admission 2026: Courses, Selection Process, Cutoff &
+  Review
 date: '2026-06-19'
 category: College Reviews
 description: >-
-  Planning to apply to Mithibai College, Mumbai in 2026? Read this ultimate guide
-  covering all UG & PG courses, the selection process, cutoffs, placements, fees, and an honest review of the campus life.
+  Planning to apply to Mithibai College, Mumbai in 2026? Read this ultimate
+  guide covering all UG & PG courses, the selection process, cutoffs,
+  placements, fees, and an honest review of the campus life.
 keywords:
   - mithibai college mumbai admission 2026
   - mithibai college bms selection process
@@ -15,13 +18,18 @@ keywords:
 faqs:
   - question: Is Maths compulsory for BMS/BBA in Mithibai College?
     answer: >-
-      Yes, for management programs like BMS and BBA at Mithibai College, Mathematics in Class 12 is a mandatory eligibility criterion.
+      Yes, for management programs like BMS and BBA at Mithibai College,
+      Mathematics in Class 12 is a mandatory eligibility criterion.
   - question: Does Mithibai College have a management quota?
     answer: >-
-      Mithibai College does have some seats under the management/NRI quota, but the majority of admissions are strictly merit-based. Additionally, 50% of the seats are reserved for the Gujarati linguistic minority community.
+      Mithibai College does have some seats under the management/NRI quota, but
+      the majority of admissions are strictly merit-based. Additionally, 50% of
+      the seats are reserved for the Gujarati linguistic minority community.
   - question: Which entrance exam is required for BMS at Mithibai College?
     answer: >-
-      Starting from the recent academic sessions, BBA and BMS admissions in Maharashtra are governed by the State CET Cell, and candidates must appear for the MAH-BBA/BMS-CET to be eligible.
+      Starting from the recent academic sessions, BBA and BMS admissions in
+      Maharashtra are governed by the State CET Cell, and candidates must appear
+      for the MAH-BBA/BMS-CET to be eligible.
 ---
 
 Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (popularly known as **Mithibai College**) is one of India's most prestigious and sought-after undergraduate colleges. Located in the lively suburb of Vile Parle West in Mumbai, it is known for its stellar academics, celebrity alumni, fashion-forward crowd, and a highly competitive admission process.
@@ -131,6 +139,6 @@ Each of these top colleges has a completely different selection criteria and cam
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

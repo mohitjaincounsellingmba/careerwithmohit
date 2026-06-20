@@ -1,9 +1,13 @@
 ---
-title: 'CUET UG 2026 Result Declared: Direct Link to Download NTA Scorecard at cuet.nta.nic.in'
+title: >-
+  CUET UG 2026 Result Declared: Direct Link to Download NTA Scorecard at
+  cuet.nta.nic.in
 date: '2026-06-19'
 category: Entrance Exams
 description: >-
-  The National Testing Agency (NTA) has officially declared the CUET UG 2026 results. Get the direct link to check your scorecard, steps to download, marks vs percentile, and DU CSAS counselling registration updates.
+  The National Testing Agency (NTA) has officially declared the CUET UG 2026
+  results. Get the direct link to check your scorecard, steps to download, marks
+  vs percentile, and DU CSAS counselling registration updates.
 keywords:
   - CUET UG result 2026 declared
   - CUET UG scorecard download link 2026
@@ -14,13 +18,18 @@ keywords:
 faqs:
   - question: How do I check my CUET UG 2026 result?
     answer: >-
-      You can check your result on the official NTA portal (cuet.nta.nic.in) using your Application Number, Date of Birth, and the security captcha pin.
+      You can check your result on the official NTA portal (cuet.nta.nic.in)
+      using your Application Number, Date of Birth, and the security captcha
+      pin.
   - question: What details are mentioned on the CUET scorecard?
     answer: >-
-      The scorecard includes candidate details, subject-wise percentiles, normalized scores, category, and roll number.
+      The scorecard includes candidate details, subject-wise percentiles,
+      normalized scores, category, and roll number.
   - question: What is the next step after the CUET UG result is out?
     answer: >-
-      Candidates must register separately on the admission portals of their target universities (e.g., DU CSAS portal, IP University portal, BHU, JNU) and submit their course and college preferences.
+      Candidates must register separately on the admission portals of their
+      target universities (e.g., DU CSAS portal, IP University portal, BHU, JNU)
+      and submit their course and college preferences.
 ---
 
 The **National Testing Agency (NTA)** has officially declared the **CUET UG 2026 Results today, June 19, 2026**. Millions of students who appeared for the Common University Entrance Test (Undergraduate) can now access and download their scorecards from the official NTA portal.
@@ -123,6 +132,6 @@ Choosing the right course-college combination can determine your career path. Mo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
