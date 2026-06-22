@@ -1,5 +1,5 @@
 ---
-title: DU UG & BCom Admission 2026: Counselling Dates, Eligibility, and Cut-off Guide
+title: "DU UG & BCom Admission 2026: Counselling Dates, Eligibility, and Cut-off Guide"
 date: '2026-06-22'
 description: >-
   Looking for Delhi University DU BCom and UG admission updates? Get the complete breakdown of DU CSAS 2026 counselling dates, eligibility requirements, and expected cut-offs.
