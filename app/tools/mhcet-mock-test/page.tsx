@@ -5,7 +5,12 @@ import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Pres
 export const metadata: Metadata = {
   title: 'Free MAH MBA CET Mock Test 2026 | #1 Tool for Maharashtra & MP Aspirants',
   description: 'Take a full-length MAH MBA CET 2026 mock test online. 200 questions, 150 minutes, sectional breakdown, and percentile predictor. Best practice tool for Maharashtra (Mumbai, Pune, Nagpur) and Madhya Pradesh (Indore, Bhopal) students.',
-  keywords: 'MAH MBA CET mock test 2026, free MHCET MBA mock test, MBA CET practice test Mumbai, MHCET mock test Pune, MHCET for MP students, MBA CET Nagpur, MAH CET test series 2026, MBA entrance exam preparation Maharashtra',
+  keywords: [
+    'MAH MBA CET mock test 2026', 'free MHCET MBA mock test', 'MBA CET practice test Mumbai', 
+    'MHCET mock test Pune', 'MHCET for MP students', 'MBA CET Nagpur', 
+    'MAH CET test series 2026', 'MBA entrance exam preparation Maharashtra',
+    'MAH MBA CET syllabus pattern', 'MHCET MBA score vs percentile', 'direct admission JBIMS cutoffs'
+  ],
   openGraph: {
     title: 'Free MAH MBA CET Mock Test 2026 | Rank #1 in Maharashtra',
     description: 'Master the MAH MBA CET with our full-length 200-question mock test. Ideal for aspirants in Maharashtra and Madhya Pradesh. Real exam experience with instant results.',
@@ -302,6 +307,42 @@ export default function MhcetMockTestPage() {
                   </p>
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Popular Search Phrases (SEO Section) */}
+          <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
+              <BookOpen className="w-10 h-10 text-primary" /> MAH MBA CET 2026: Popular Topics & Resources
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> MAH MBA CET mock test 2026</li>
+                  <li><span className="text-primary font-black">→</span> Free MHCET MBA mock test</li>
+                  <li><span className="text-primary font-black">→</span> MBA CET practice test Mumbai</li>
+                  <li><span className="text-primary font-black">→</span> MHCET mock test Pune</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Maharashtra & MP Focus</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> MHCET for MP students</li>
+                  <li><span className="text-primary font-black">→</span> MBA CET Nagpur centers</li>
+                  <li><span className="text-primary font-black">→</span> MAH CET test series 2026</li>
+                  <li><span className="text-primary font-black">→</span> MBA entrance preparation Maharashtra</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Cutoffs & Colleges</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> JBIMS Mumbai direct admission cutoff</li>
+                  <li><span className="text-primary font-black">→</span> SIMSREE Mumbai MMS admission seats</li>
+                  <li><span className="text-primary font-black">→</span> PUMBA Pune MBA cutoffs 2026</li>
+                  <li><span className="text-primary font-black">→</span> MAH MBA CET score vs percentile</li>
+                </ul>
+              </div>
             </div>
           </section>
 

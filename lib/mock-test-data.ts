@@ -25,6 +25,7 @@ export interface ExamConfig {
   goodScore: string;
   seoTitle: string;
   seoDescription: string;
+  keywords?: string[];
   features?: string[];
   faqs?: FAQItem[];
   examDetails?: ExamDetail[];
@@ -55,6 +56,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '200+',
     seoTitle: 'Free IIT JEE Main Mock Test 2026 | Full Length Practice',
     seoDescription: 'Take a free full-length IIT JEE Main 2026 mock test. 90 questions, 180 minutes pattern with Physics, Chemistry, and Mathematics.',
+    keywords: ['JEE Main mock test 2026', 'free JEE main practice paper', 'online JEE Main test series', 'JEE mains question paper free', 'IIT JEE Main preparation online', 'JEE Mains Paper 1 mock test', 'JEE rank predictor free', 'NTA JEE main syllabus check'],
     sections: [
       { id: 'physics', label: 'Physics', questionCount: 30 },
       { id: 'chemistry', label: 'Chemistry', questionCount: 30 },
@@ -79,6 +81,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '140+',
     seoTitle: 'Free IIT JEE Advanced Mock Test 2026 | Full Length Practice Paper',
     seoDescription: 'Master the IIT JEE Advanced 2026 with our free full-length mock tests. Practice Paper 1 and Paper 2 patterns with multi-correct, integer-type, and matrix-match questions.',
+    keywords: ['JEE Advanced mock test 2026', 'free JEE advanced test series', 'JEE Advanced Paper 1 and Paper 2 free mock', 'IIT JEE Advanced practice paper', 'JEE Advanced pattern with solutions', 'JEE advanced rank predictor', 'IIT Roorkee JEE Advanced preparation'],
     sections: [
       { id: 'physics', label: 'Physics', questionCount: 18 },
       { id: 'chemistry', label: 'Chemistry', questionCount: 18 },
@@ -131,6 +134,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '90+',
     seoTitle: 'Free VITEEE Mock Test 2026 | VIT Engineering Entrance',
     seoDescription: 'Take our free VITEEE mock test to boost your rank. 125 questions in 150 minutes covering Maths, Physics, Chemistry, Aptitude & English.',
+    keywords: ['VITEEE mock test 2026', 'VIT engineering entrance practice paper', 'free VIT mock test series', 'VIT Vellore exam preparation online', 'VITEEE sample papers with solutions', 'VITEEE chemistry physics maths test'],
     sections: [
       { id: 'maths', label: 'Mathematics/Biology', questionCount: 40 },
       { id: 'physics', label: 'Physics', questionCount: 35 },
@@ -149,6 +153,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '95+',
     seoTitle: 'Free SRMJEEE Mock Test 2026 | SRM Joint Engineering Exam',
     seoDescription: 'Practice the official SRMJEEE pattern online. 125 questions across Physics, Chemistry, Maths, English & Aptitude. Get instant percentiles.',
+    keywords: ['SRMJEEE mock test 2026', 'SRM Joint Engineering mock paper', 'free SRM entrance test series', 'SRMJEEE exam practice online', 'SRM Katankulathur admission mock', 'SRMJEEE physics chemistry maths paper'],
     sections: [
       { id: 'physics', label: 'Physics', questionCount: 35 },
       { id: 'chemistry', label: 'Chemistry', questionCount: 35 },
@@ -167,6 +172,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '270+',
     seoTitle: 'Free BITSAT Mock Test 2026 | Simulation for BITS Pilani Prep',
     seoDescription: 'Master the BITSAT 2026 with our free full-length mock test. 130 questions in 3 hours covering Physics, Chemistry, English, and Logical Reasoning.',
+    keywords: ['BITSAT mock test 2026', 'BITS Pilani mock test free', 'free BITSAT online test series', 'BITSAT English logical reasoning practice', 'BITSAT score calculator dynamic', 'BITS Goa and Hyderabad admission test'],
     sections: [
       { id: 'physics', label: 'Physics', questionCount: 30 },
       { id: 'chemistry', label: 'Chemistry', questionCount: 30 },
@@ -217,6 +223,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '650+',
     seoTitle: 'Free NEET Mock Test 2026 | 200 Minutes NTA Pattern',
     seoDescription: 'Prepare for NEET 2026 with our full-length mock exam. 200 questions across Physics, Chemistry, Botany, and Zoology. Free online practice.',
+    keywords: ['NEET mock test 2026', 'free NEET online practice papers', 'NEET UG biology physics chemistry mock', 'NTA NEET sample papers with solutions', 'NEET raw score to rank predictor', 'AIIMS and JIPMER medical exam prep'],
     sections: [
       { id: 'physics', label: 'Physics', questionCount: 50 },
       { id: 'chemistry', label: 'Chemistry', questionCount: 50 },
@@ -242,6 +249,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '90+',
     seoTitle: 'Free CLAT Mock Test 2026 | NLU Entrance Practice Paper',
     seoDescription: 'Take a comprehensive CLAT mock test. 120 questions, 120 minutes. Test Legal Reasoning, Current Affairs, English, and Logic.',
+    keywords: ['CLAT mock test 2026', 'free CLAT online test series', 'NLU entrance practice paper free', 'CLAT legal reasoning questions', 'CLAT English and logical aptitude mock', 'CLAT GK current affairs practice sets'],
     sections: [
       { id: 'english', label: 'English Language', questionCount: 24 },
       { id: 'current', label: 'Current Affairs & GK', questionCount: 28 },
@@ -260,6 +268,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '99+ Percentile',
     seoTitle: 'Free CAT Mock Test 2026 | Best Online Test Series for IIM Prep',
     seoDescription: 'Attempt the best Free CAT Mock Test 2026 based on the latest IIM exam pattern. Get AI analytics, all India percentile, and section-wise VARC, DILR, QA analysis.',
+    keywords: ['CAT mock test 2026', 'free CAT online test series', 'best mock test for CAT 2026', 'IIM preparation VARC DILR QA', 'CAT score vs percentile predictor', 'CAT previous year questions with solutions'],
     sections: [
       { id: 'varc', label: 'Verbal Ability & Reading Comprehension', questionCount: 24 },
       { id: 'dilr', label: 'Data Interpretation & Logical Reasoning', questionCount: 20 },
@@ -320,6 +329,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '230+',
     seoTitle: 'Free NMAT Mock Test 2026 | NMIMS Admission 2027 Practice Tool',
     seoDescription: 'Take our free adaptive-style NMAT 2026 mock test for 2027 admissions. 108 questions across Language, Quants, and Logic. Benchmarked for NMIMS Mumbai and top B-schools.',
+    keywords: ['NMAT mock test 2026', 'NMIMS Mumbai admission test series', 'NMAT practice paper free', 'adaptive NMAT mock test online', 'NMAT scaled score predictor', 'NMAT Language and logic prep tool'],
     sections: [
       { id: 'language', label: 'Language Skills', questionCount: 36 },
       { id: 'quant', label: 'Quantitative Skills', questionCount: 36 },
@@ -809,6 +819,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '35+',
     seoTitle: 'Free XAT Mock Test 2026 | Decision Making & Verbal Practice',
     seoDescription: 'Take a full-length XAT 2026 mock test. Includes Decision Making, Verbal & Logical Ability, QA & DI. Experience the actual XLRI exam interface.',
+    keywords: ['XAT mock test 2026', 'XLRI Jamshedpur decision making practice', 'free XAT online test series', 'XAT verbal logical quantitative aptitude', 'XAT exam pattern with solutions', 'XAT score vs percentile predictor'],
     sections: [
       { id: 'varc', label: 'Verbal & Logical Ability', questionCount: 26 },
       { id: 'dm', label: 'Decision Making', questionCount: 22 },
@@ -840,6 +851,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '655+',
     seoTitle: 'Free GMAT Focus Edition Mock Test 2026 | Adaptive Practice',
     seoDescription: 'Master the GMAT Focus Edition 2026 with our free mock test. Practice Quantitative, Verbal, and Data Insights sections with instant scaled scores.',
+    keywords: ['GMAT Focus Edition mock test 2026', 'free GMAT practice test online', 'GMAT quantitative verbal data insights mock', 'GMAT scaled score estimation tool', 'ISB and Harvard MBA preparation online'],
     sections: [
       { id: 'quant', label: 'Quantitative Reasoning', questionCount: 21 },
       { id: 'verbal', label: 'Verbal Reasoning', questionCount: 23 },
@@ -856,6 +868,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '40+',
     seoTitle: 'Free SNAP Dec 2026 Mock Test | 2026-27 Exam Practice',
     seoDescription: 'Master the SNAP December 2026 exam with our free full-length mock test. 60 questions in 60 minutes. Simulate the actual SIBM Pune and SCMHRD entrance interface for the 2026-27 cycle.',
+    keywords: ['SNAP mock test 2026', 'SIBM Pune SCMHRD mock test free', 'SNAP December exam practice paper', 'SNAP general English logic quantitative mock', 'SNAP score to percentile calculator'],
     sections: [
       { id: 'english', label: 'General English', questionCount: 15 },
       { id: 'logic', label: 'Analytical & Logical Reasoning', questionCount: 25 },
@@ -879,6 +892,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '50+',
     seoTitle: 'Free IPU CET / CUET UG Mock Test 2026 | BBA & BCA Prep',
     seoDescription: 'Practice for IPU CET and CUET UG 2026. General Test simulation for BBA, BCA, and B.Com admission in Delhi GGSIPU colleges.',
+    keywords: ['IPU CET mock test 2026', 'CUET UG general test mock test', 'GGSIPU BBA and BCA admission mock', 'free IPU CET test series online', 'IPU CET sample papers with solutions'],
     sections: [
       { id: 'gk-ca', label: 'GK & Current Affairs', questionCount: 20 },
       { id: 'mental-ability', label: 'Mental Ability', questionCount: 20 },
@@ -895,6 +909,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '60+',
     seoTitle: 'Free IPU CET / CUET PG Mock Test 2026 | MBA & MCA Prep',
     seoDescription: 'Master the IPU CET and CUET PG 2026. Realistic simulation for MBA, MCA, and Law PG admissions in GGSIPU.',
+    keywords: ['IPU CET PG mock test 2026', 'CUET PG MBA MCA practice paper', 'GGSIPU post graduate admission mock', 'free IPU CET PG online test series', 'IPU CET PG syllabus details'],
     sections: [
       { id: 'language', label: 'Language Comprehension', questionCount: 25 },
       { id: 'quant', label: 'Mathematical/Quant Ability', questionCount: 25 },
@@ -911,6 +926,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '120+',
     seoTitle: 'Free ATMA Mock Test 2026 | MBA Admission Practice Tool',
     seoDescription: 'Take our free full-length ATMA 2026 mock test. 180 questions, 180 minutes pattern with 6 specialized sections. Get instant analytics and college cutoffs.',
+    keywords: ['ATMA mock test 2026', 'AIMS ATMA exam practice online', 'free ATMA test series', 'ATMA analytical verbal quantitative mock', 'ATMA score vs percentile predictor', 'JBIMS and PUMBA ATMA cutoff'],
     sections: [
       { id: 'analytical-1', label: 'Analytical Reasoning Skills I', questionCount: 30 },
       { id: 'analytical-2', label: 'Analytical Reasoning Skills II', questionCount: 30 },
@@ -945,6 +961,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: 'Band 7.0+',
     seoTitle: 'Free IELTS Academic Mock Test 2026 | Band 7+ Prep',
     seoDescription: 'Take our free full-length IELTS Academic mock test. Practice Listening and Reading sections with real exam-like questions to achieve a Band 7.0+ score.',
+    keywords: ['IELTS Academic mock test 2026', 'free IELTS listening reading practice', 'IELTS Band 7 plus exam preparation', 'IELTS academic mock paper with answers', 'study abroad English proficiency test mock'],
     sections: [
       { id: 'listening', label: 'Listening', questionCount: 40 },
       { id: 'reading', label: 'Reading', questionCount: 40 }
@@ -968,6 +985,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '1400+',
     seoTitle: 'Free Digital SAT Mock Test 2026 | Full Length Practice',
     seoDescription: 'Take our free full-length Digital SAT mock test. Practice Reading and Writing & Math modules with realistic questions to boost your score to 1400+.',
+    keywords: ['Digital SAT mock test 2026', 'free Digital SAT reading writing math practice', 'Digital SAT score estimation tool online', 'Ivy league MIT admission test prep', 'SAT practice questions with solutions'],
     sections: [
       { id: 'rw', label: 'Reading & Writing', questionCount: 54 },
       { id: 'maths', label: 'Math', questionCount: 44 }
@@ -991,6 +1009,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '100+',
     seoTitle: 'Free TOEFL iBT Mock Test 2026 | Score 100+ Prep',
     seoDescription: 'Take our free TOEFL iBT mock test. Practice Reading and Listening sections with real exam-like questions to achieve a 100+ score for study abroad.',
+    keywords: ['TOEFL iBT mock test 2026', 'free TOEFL reading listening practice paper', 'TOEFL score 100 plus preparation online', 'English proficiency test for study abroad', 'TOEFL internet-based test sample questions'],
     sections: [
       { id: 'reading', label: 'Reading', questionCount: 40 },
       { id: 'listening', label: 'Listening', questionCount: 28 }
@@ -1014,6 +1033,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '320+',
     seoTitle: 'Free GRE Mock Test 2026 | Verbal & Quant Prep',
     seoDescription: 'Take our free full-length GRE mock test. Practice Verbal Reasoning and Quantitative Reasoning with realistic questions for MS/MBA abroad.',
+    keywords: ['GRE General Test mock test 2026', 'free GRE verbal quantitative reasoning practice', 'GRE score 320 plus exam prep online', 'GRE mock paper for MS abroad admissions', 'GRE sample questions with answers'],
     sections: [
       { id: 'verbal', label: 'Verbal Reasoning', questionCount: 27 },
       { id: 'quant', label: 'Quantitative Reasoning', questionCount: 27 }
@@ -1037,6 +1057,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     goodScore: '125+',
     seoTitle: 'Free Duolingo English Test Mock 2026 | Full Length Practice',
     seoDescription: 'Take our free full-length Duolingo English Test (DET) mock test. Practice Literacy, Comprehension, Conversation, and Production sections with realistic adaptive-style questions.',
+    keywords: ['Duolingo English Test mock 2026', 'free DET adaptive practice test online', 'Duolingo English score 120 plus prep', 'DET literacy comprehension conversation production', 'Duolingo English sample test questions'],
     sections: [
       { id: 'literacy', label: 'Literacy (Reading/Writing)', questionCount: 15 },
       { id: 'comprehension', label: 'Comprehension (Reading/Listening)', questionCount: 15 },

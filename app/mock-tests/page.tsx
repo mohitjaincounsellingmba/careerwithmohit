@@ -17,15 +17,21 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Mock Test Hub 2026 - 50+ Free Online Practice Papers | CareerWithMohit',
-  description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE, NEET, NMAT, and Govt Exams. High-quality practice papers with AI analysis, percentile prediction, and official exam interfaces.',
-  keywords: ['free mock test series 2026', 'cat mock test free', 'jee main mock test online', 'neet ug practice papers', 'gmat focus edition free mock', 'ipu cet mock test online', 'ssc cgl tier 1 mock test free'],
+  title: 'Free Mock Test Series 2026 - 50+ Online Practice Papers | CareerWithMohit',
+  description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams. Simulate real exam conditions with instant AI score analysis and percentile predictions.',
+  keywords: [
+    'free mock test series 2026', 'online mock test free', 'free online test series', 
+    'cat mock test free', 'jee main mock test online', 'neet ug practice papers', 
+    'gmat focus edition free mock', 'ipu cet mock test online', 'ssc cgl tier 1 mock test free',
+    'free practice papers for competitive exams', 'xat free mock test', 'nmat practice paper online',
+    'bank po free mock test', 'railway NTPC practice set', 'best online test series india'
+  ],
   alternates: {
     canonical: '/mock-tests',
   },
   openGraph: {
-    title: 'Mock Test Hub 2026 - 50+ Free Online Practice Papers | CareerWithMohit',
-    description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE, NEET, NMAT, and Govt Exams. Get instant score analysis and percentile predictions.',
+    title: 'Free Mock Test Series 2026 - 50+ Online Practice Papers | CareerWithMohit',
+    description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams. Get instant score analysis and percentile predictions.',
     url: 'https://www.careerwithmohit.online/mock-tests',
     type: 'website',
     images: [
@@ -39,8 +45,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Mock Test Hub 2026 - 50+ Free Online Practice Papers | CareerWithMohit',
-    description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE, NEET, NMAT, and Govt Exams.',
+    title: 'Free Mock Test Series 2026 - 50+ Online Practice Papers | CareerWithMohit',
+    description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams.',
     images: ['/og-image.webp'],
   },
 };
@@ -281,6 +287,54 @@ export default function MockTestHubPage() {
             </div>
           </div>
         </div>
+
+        {/* Popular Search Topics & Resources (SEO section) */}
+        <section id="popular-searches" className="mt-24 bg-white border-4 border-foreground p-8 md:p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+          <h2 className="text-3xl font-black uppercase mb-8 flex items-center gap-3">
+            <BookOpen className="w-8 h-8 text-primary" /> Frequently Searched Free Mock Tests & Resources
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div className="space-y-3">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2 text-sm">MBA Mocks</h4>
+              <ul className="space-y-1.5 text-xs font-bold text-gray-500 uppercase tracking-tight">
+                <li><Link href="/tools/cat-mock-test" className="hover:text-primary">→ Free CAT mock test 2026</Link></li>
+                <li><Link href="/tools/nmat-mock-test" className="hover:text-primary">→ NMIMS NMAT practice paper</Link></li>
+                <li><Link href="/tools/mock-test/xat" className="hover:text-primary">→ XAT decision making mock</Link></li>
+                <li><Link href="/tools/mock-test/snap" className="hover:text-primary">→ SNAP SIBM Pune test series</Link></li>
+                <li><Link href="/tools/mhcet-mock-test" className="hover:text-primary">→ MAH MBA CET online prep</Link></li>
+              </ul>
+            </div>
+            <div className="space-y-3">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2 text-sm">Engineering & Medical</h4>
+              <ul className="space-y-1.5 text-xs font-bold text-gray-500 uppercase tracking-tight">
+                <li><Link href="/tools/jee-main-mock-test" className="hover:text-primary">→ IIT JEE Main mock test free</Link></li>
+                <li><Link href="/tools/jee-advanced-mock-test" className="hover:text-primary">→ JEE Advanced paper simulation</Link></li>
+                <li><Link href="/tools/bitsat-mock-test" className="hover:text-primary">→ BITSAT Pilani practice test</Link></li>
+                <li><Link href="/tools/mock-test/neet" className="hover:text-primary">→ NEET UG biology physics chemistry</Link></li>
+                <li><Link href="/tools/mock-test/viteee" className="hover:text-primary">→ VITEEE Vellore entrance mock</Link></li>
+              </ul>
+            </div>
+            <div className="space-y-3">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2 text-sm">Study Abroad</h4>
+              <ul className="space-y-1.5 text-xs font-bold text-gray-500 uppercase tracking-tight">
+                <li><Link href="/tools/mock-test/ielts" className="hover:text-primary">→ IELTS academic practice test</Link></li>
+                <li><Link href="/tools/mock-test/sat" className="hover:text-primary">→ Digital SAT reading math prep</Link></li>
+                <li><Link href="/tools/mock-test/gre" className="hover:text-primary">→ GRE general test practice free</Link></li>
+                <li><Link href="/tools/mock-test/toefl" className="hover:text-primary">→ TOEFL listening reading mock</Link></li>
+                <li><Link href="/tools/mock-test/duolingo" className="hover:text-primary">→ Duolingo English test online</Link></li>
+              </ul>
+            </div>
+            <div className="space-y-3 col-span-1 md:col-span-2 lg:col-span-3">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2 text-sm">Government Job Exams</h4>
+              <ul className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-1.5 text-xs font-bold text-gray-500 uppercase tracking-tight">
+                <li><Link href="/tools/mock-test/ssc-cgl" className="hover:text-primary">→ SSC CGL Tier 1 free mock series</Link></li>
+                <li><Link href="/tools/mock-test/ibps-po" className="hover:text-primary">→ IBPS bank PO prelims practice</Link></li>
+                <li><Link href="/tools/mock-test/upsc-cse" className="hover:text-primary">→ UPSC Prelims GS Paper mock test</Link></li>
+                <li><Link href="/tools/govt-exams-mock-test" className="hover:text-primary">→ 30+ Govt Exams practice hub</Link></li>
+              </ul>
+            </div>
+          </div>
+        </section>
 
         {/* Footer Text */}
         <div className="mt-20 text-center border-t-2 border-gray-200 pt-12">

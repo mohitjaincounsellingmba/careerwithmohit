@@ -7,7 +7,12 @@ import { notFound } from 'next/navigation';
 export const metadata: Metadata = {
   title: 'Free JEE Main Mock Test 2026 | Full Length PCM Tool',
   description: 'Boost your percentile with our free full-length JEE Main 2026 mock test. 90 questions, 180 minutes, with detailed performance analytics for Physics, Chemistry, and Maths.',
-  keywords: 'JEE Main mock test 2026, free NTA mock test, JEE Main practice tool, B.Tech career counselling, NIT admission 2026, JEE Main Paper 1 online test, JEE Main rank predictor, JEE Main syllabus overview',
+  keywords: [
+    'JEE Main mock test 2026', 'free NTA mock test', 'JEE Main practice tool', 
+    'B.Tech career counselling', 'NIT admission 2026', 'JEE Main Paper 1 online test', 
+    'JEE Main rank predictor', 'JEE Main syllabus overview', 'free JEE main online test series', 
+    'best mock test for JEE main 2026', 'physics chemistry maths practice questions'
+  ],
   openGraph: {
     title: 'Free JEE Main Mock Test 2026 | Performance & Analytics Tool',
     description: 'Master the JEE Main with our advanced mock test tool. Full-length practice paper with detailed analysis and rank predictor for NIT and IIIT admissions.',
@@ -179,6 +184,42 @@ export default function JeeMainMockTestPage() {
                   </p>
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Popular Search Phrases (SEO Section) */}
+          <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
+              <BookOpen className="w-10 h-10 text-primary" /> JEE Main 2026: Popular Topics & Resources
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> JEE Main mock test 2026</li>
+                  <li><span className="text-primary font-black">→</span> Free NTA JEE Main practice paper</li>
+                  <li><span className="text-primary font-black">→</span> Online JEE Main test series 2026</li>
+                  <li><span className="text-primary font-black">→</span> JEE Mains Paper 1 mock test</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Syllabus & Subjects</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> JEE Main syllabus check PDF</li>
+                  <li><span className="text-primary font-black">→</span> JEE physics formula sheet</li>
+                  <li><span className="text-primary font-black">→</span> Chemistry NCERT practice questions</li>
+                  <li><span className="text-primary font-black">→</span> Maths coordinate geometry mock</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Admissions & Analytics</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> JEE Main rank predictor online</li>
+                  <li><span className="text-primary font-black">→</span> NIT Trichy expected cutoff 2026</li>
+                  <li><span className="text-primary font-black">→</span> JEE Main raw score vs percentile</li>
+                  <li><span className="text-primary font-black">→</span> IIT JEE Main career counselling</li>
+                </ul>
+              </div>
             </div>
           </section>
 

@@ -1,13 +1,18 @@
 import { Metadata } from 'next';
 import { GenericMockTestClient } from '@/components/GenericMockTest/GenericMockTestClient';
 import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
-import { CheckCircle2, Zap, Clock, HelpCircle, BarChart3, GraduationCap, PieChart, Activity } from 'lucide-react';
+import { CheckCircle2, Zap, Clock, HelpCircle, BarChart3, GraduationCap, PieChart, Activity, BookOpen } from 'lucide-react';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
   title: 'Free NMAT Mock Test 2026 | NMIMS Mumbai Admission 2027 Batch',
   description: 'Take our free full-length NMAT 2026 mock test. Get admission in 2027 batch. 108 questions, 120 minutes, no negative marking. Experience adaptive simulation for NMIMS.',
-  keywords: 'Free NMAT mock test 2026, NMIMS Mumbai admission 2027 batch, NMAT practice paper free, NMAT 2026 exam pattern, scaled score NMAT, NMAT preparation Mumbai, adaptive mock test NMAT',
+  keywords: [
+    'Free NMAT mock test 2026', 'NMIMS Mumbai admission 2027 batch', 'NMAT practice paper free', 
+    'NMAT 2026 exam pattern', 'scaled score NMAT', 'NMAT preparation Mumbai', 
+    'adaptive mock test NMAT', 'best mock test for NMAT 2026', 'NMAT logical reasoning online practice',
+    'NMAT language skills mock test', 'NMAT score vs percentile NMIMS'
+  ],
   openGraph: {
     title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai 2027 Batch',
     description: 'Master the NMAT by GMAC with our realistic mock tool to secure admission in 2027. 108 questions across Language, Quants, and Logic with sectional timers.',
@@ -226,6 +231,42 @@ export default function NmatMockTestPage() {
                   </p>
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Popular Search Phrases (SEO Section) */}
+          <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
+              <BookOpen className="w-10 h-10 text-secondary" /> NMAT 2026: Popular Topics & Resources
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-secondary font-black">→</span> Free NMAT mock test 2026</li>
+                  <li><span className="text-secondary font-black">→</span> NMIMS Mumbai admission 2027 batch</li>
+                  <li><span className="text-secondary font-black">→</span> NMAT preparation strategy</li>
+                  <li><span className="text-secondary font-black">→</span> NMAT practice paper free download</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Pattern & Scoring</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-secondary font-black">→</span> NMAT 2026 exam pattern</li>
+                  <li><span className="text-secondary font-black">→</span> NMAT scaled score calculator</li>
+                  <li><span className="text-secondary font-black">→</span> Adaptive mock test NMAT</li>
+                  <li><span className="text-secondary font-black">→</span> NMAT sectional time limit tips</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Sectional Focus</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-secondary font-black">→</span> NMAT language skills practice</li>
+                  <li><span className="text-secondary font-black">→</span> NMAT logical reasoning sample questions</li>
+                  <li><span className="text-secondary font-black">→</span> Quantitative skills mock for NMAT</li>
+                  <li><span className="text-secondary font-black">→</span> NMIMS Mumbai core cutoff score</li>
+                </ul>
+              </div>
             </div>
           </section>
 

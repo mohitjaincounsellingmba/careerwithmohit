@@ -7,7 +7,11 @@ import { notFound } from 'next/navigation';
 export const metadata: Metadata = {
   title: 'Free BITSAT Mock Test 2026 | BITS Pilani Preparation Platform',
   description: 'Practice for BITSAT 2026 with our free full-length mock test. 130 questions in 3 hours covering Physics, Chemistry, English, and Logical Reasoning. Get BITS Goa and Hyderabad campus rank prediction.',
-  keywords: 'BITSAT mock test free 2026, BITS Pilani online test, BITSAT practice paper, BITSAT English and Logic, BITSAT score calculator, BITS session 1 mock test, engineering admission BITSAT',
+  keywords: [
+    'BITSAT mock test free 2026', 'BITS Pilani online test', 'BITSAT practice paper', 
+    'BITSAT English and Logic', 'BITSAT score calculator', 'BITS session 1 mock test', 
+    'engineering admission BITSAT', 'best mock test for BITSAT 2026', 'BITS Goa and Hyderabad cutoffs'
+  ],
   openGraph: {
     title: 'Free BITSAT Mock Test 2026 | Simulation & BITS Campus Predictor',
     description: 'Master the BITSAT with our advanced CBT interface. Simulation for English Proficiency and Logical Reasoning for high-rank BITS Pilani candidates.',
@@ -195,6 +199,42 @@ export default function BitsatMockTestPage() {
                   </p>
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Popular Search Phrases (SEO Section) */}
+          <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
+              <BookOpen className="w-10 h-10 text-primary" /> BITSAT 2026: Popular Topics & Resources
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> BITSAT mock test free 2026</li>
+                  <li><span className="text-primary font-black">→</span> BITS Pilani online mock test</li>
+                  <li><span className="text-primary font-black">→</span> BITSAT practice paper free</li>
+                  <li><span className="text-primary font-black">→</span> BITSAT English and Logical reasoning</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Exam Structure & Prep</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> BITSAT score calculator online</li>
+                  <li><span className="text-primary font-black">→</span> BITS Pilani exam pattern 2026</li>
+                  <li><span className="text-primary font-black">→</span> BITSAT bonus questions strategy</li>
+                  <li><span className="text-primary font-black">→</span> BITSAT physics chemistry maths prep</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Cutoffs & Admissions</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> BITS Pilani Computer Science cutoff</li>
+                  <li><span className="text-primary font-black">→</span> BITS Goa and Hyderabad safe scores</li>
+                  <li><span className="text-primary font-black">→</span> BITSAT rank vs score analysis</li>
+                  <li><span className="text-primary font-black">→</span> Engineering admissions BITS Pilani</li>
+                </ul>
+              </div>
             </div>
           </section>
 

@@ -7,7 +7,12 @@ import { notFound } from 'next/navigation';
 export const metadata: Metadata = {
   title: 'Free IIT JEE Advanced Mock Test 2026 | Paper 1 & 2 Full Length Tool',
   description: 'Practice for the toughest exam in India with our free full-length IIT JEE Advanced 2026 mock test. Experience multi-correct, integer, and matrix-match questions with real-time analysis.',
-  keywords: 'JEE Advanced mock test 2026, free IIT JEE mock test, JEE Advanced Paper 1 online test, B.Tech career guidance, IIT Roorkee exam pattern, JEE Advanced syllabus Class 12, rank predictor JEE Advanced',
+  keywords: [
+    'JEE Advanced mock test 2026', 'free IIT JEE mock test', 'JEE Advanced Paper 1 online test', 
+    'B.Tech career guidance', 'IIT Roorkee exam pattern', 'JEE Advanced syllabus Class 12', 
+    'rank predictor JEE Advanced', 'free JEE advanced test series', 'IIT exam practice paper free', 
+    'physics chemistry maths advanced questions'
+  ],
   openGraph: {
     title: 'Free IIT JEE Advanced Mock Test 2026 | Simulation & Analytics',
     description: 'Master the JEE Advanced with our advanced CBT mock test interface. Detailed solutions, rank predictor, and syllabus-wise breakdown for Physics, Chemistry, and Mathematics.',
@@ -216,6 +221,42 @@ export default function JeeAdvancedMockTestPage() {
                   </p>
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Popular Search Phrases (SEO Section) */}
+          <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
+              <BookOpen className="w-10 h-10 text-primary" /> JEE Advanced 2026: Popular Topics & Resources
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> JEE Advanced mock test 2026</li>
+                  <li><span className="text-primary font-black">→</span> Free IIT JEE advanced practice test</li>
+                  <li><span className="text-primary font-black">→</span> JEE Advanced Paper 1 online mock</li>
+                  <li><span className="text-primary font-black">→</span> JEE Advanced Paper 2 mock test free</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Syllabus & Pattern</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> IIT Roorkee exam pattern guidelines</li>
+                  <li><span className="text-primary font-black">→</span> Multiple correct questions practice</li>
+                  <li><span className="text-primary font-black">→</span> Integer type math questions JEE</li>
+                  <li><span className="text-primary font-black">→</span> Matrix match type chemistry questions</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Cutoffs & Ranks</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> JEE Advanced rank vs marks trends</li>
+                  <li><span className="text-primary font-black">→</span> IIT Delhi expected cutoff ranks</li>
+                  <li><span className="text-primary font-black">→</span> IIT Bombay CS branch cutoff marks</li>
+                  <li><span className="text-primary font-black">→</span> JEE advanced rank predictor online</li>
+                </ul>
+              </div>
             </div>
           </section>
 

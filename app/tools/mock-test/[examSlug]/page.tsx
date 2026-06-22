@@ -18,6 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ examSlug:
   return {
     title: config.seoTitle,
     description: config.seoDescription,
+    keywords: config.keywords || [],
     openGraph: {
       title: config.seoTitle,
       description: config.seoDescription,
@@ -244,6 +245,23 @@ export default async function ExamMockTestPage({
                       {faq.answer}
                     </div>
                   </details>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* Popular Search Phrases (SEO Section) */}
+          {config.keywords && config.keywords.length > 0 && (
+            <section id="popular-searches" className="bg-white border-4 border-foreground p-8 md:p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+              <h2 className="text-3xl font-black uppercase mb-6 flex items-center gap-4">
+                <BookOpen className="w-8 h-8 text-primary" /> {config.name}: Popular Topics & Practice Queries
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {config.keywords.map((kw, i) => (
+                  <div key={i} className="flex items-center gap-3 font-bold text-gray-600 text-sm italic">
+                    <span className="text-primary font-black">→</span>
+                    <span>{kw}</span>
+                  </div>
                 ))}
               </div>
             </section>

@@ -1,11 +1,16 @@
 import { Metadata } from 'next';
 import { EXAM_CONFIGS } from '@/lib/mock-test-data';
 import { GovtExamHubClient } from '@/components/GovtExamHub/GovtExamHubClient';
-import { ShieldCheck, Trophy, Target, Globe } from 'lucide-react';
+import { ShieldCheck, Trophy, Target, Globe, BookOpen } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'All Govt Exam Mock Tests - 30+ Sets for Each Exam',
-  description: 'Practice free online mock tests for SSC, Banking, Railways, UPSC, and State Exams. Access 30 different question papers for every government body.',
+  title: 'Free Government Exam Mock Tests 2026 | SSC, Banking, Railways, UPSC',
+  description: 'Practice 100% free online mock tests for SSC CGL, IBPS PO, RRB NTPC, SBI PO, UPSC CSE, and other state govt exams. Access 30+ full-length practice sets with detailed solutions.',
+  keywords: [
+    'free government exam mock tests', 'SSC CGL free mock test series', 'IBPS PO online mock test', 
+    'RRB NTPC free practice paper', 'SBI PO prelims mock test', 'UPSC CSE GS practice papers', 
+    'government jobs test series 2026', 'banking exam free mock test', 'railway entrance exam prep'
+  ],
 };
 
 export default function GovtExamHubPage() {
@@ -87,6 +92,43 @@ export default function GovtExamHubPage() {
             </div>
           </section>
         </div>
+
+        {/* Popular Search Phrases (SEO Section) */}
+        <section id="popular-searches" className="mt-24 bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+          <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
+            <BookOpen className="w-10 h-10 text-primary" /> Govt Exams: Popular Topics & Resources
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div className="space-y-4">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">SSC & Railways</h4>
+              <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                <li><span className="text-primary font-black">→</span> SSC CGL free mock test series 2026</li>
+                <li><span className="text-primary font-black">→</span> SSC CHSL Tier 1 practice papers</li>
+                <li><span className="text-primary font-black">→</span> RRB NTPC online mock test free</li>
+                <li><span className="text-primary font-black">→</span> Railway ALP CBT exam practice</li>
+              </ul>
+            </div>
+            <div className="space-y-4">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Banking Careers</h4>
+              <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                <li><span className="text-primary font-black">→</span> IBPS PO prelims online test series</li>
+                <li><span className="text-primary font-black">→</span> SBI PO high difficulty mock test</li>
+                <li><span className="text-primary font-black">→</span> RBI Grade B Phase 1 mock exam</li>
+                <li><span className="text-primary font-black">→</span> Bank clerk free practice sets</li>
+              </ul>
+            </div>
+            <div className="space-y-4">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">UPSC & State PSC</h4>
+              <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                <li><span className="text-primary font-black">→</span> UPSC CSE Prelims GS mock test</li>
+                <li><span className="text-primary font-black">→</span> Civil Services IAS test series free</li>
+                <li><span className="text-primary font-black">→</span> BPSC prelims practice set online</li>
+                <li><span className="text-primary font-black">→</span> UPPSC PCS general studies mock</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
       </div>
     </main>
   );

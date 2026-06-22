@@ -10,7 +10,8 @@ export const metadata: Metadata = {
   keywords: [
     'ATMA 2026 mock test', 'ATMA exam practice 2026', 'Free ATMA test series', 'ATMA preparation material',
     'ATMA analytical reasoning questions', 'ATMA verbal skills practice', 'ATMA quantitative skills mock',
-    'AIMS ATMA 2026 exam pattern', 'ATMA score vs percentile', 'JBIMS ATMA cutoff 2026'
+    'AIMS ATMA 2026 exam pattern', 'ATMA score vs percentile', 'JBIMS ATMA cutoff 2026',
+    'best mock test for ATMA 2026', 'free ATMA practice paper with solutions', 'AIMS MBA entrance preparation'
   ],
   alternates: {
     canonical: '/tools/atma-mock-test',
@@ -167,6 +168,42 @@ export default function AtmaMockTestPage() {
                   </p>
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Popular Search Phrases (SEO Section) */}
+          <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
+              <BookOpen className="w-10 h-10 text-primary" /> ATMA 2026: Popular Topics & Resources
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> ATMA 2026 mock test</li>
+                  <li><span className="text-primary font-black">→</span> ATMA exam practice online 2026</li>
+                  <li><span className="text-primary font-black">→</span> Free ATMA test series</li>
+                  <li><span className="text-primary font-black">→</span> ATMA preparation material</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Syllabus & Pattern</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> AIMS ATMA exam pattern</li>
+                  <li><span className="text-primary font-black">→</span> ATMA analytical reasoning questions</li>
+                  <li><span className="text-primary font-black">→</span> ATMA verbal skills practice</li>
+                  <li><span className="text-primary font-black">→</span> ATMA quantitative skills mock</li>
+                </ul>
+              </div>
+              <div className="space-y-4">
+                <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Percentile & Target Colleges</h4>
+                <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
+                  <li><span className="text-primary font-black">→</span> ATMA score vs percentile 2026</li>
+                  <li><span className="text-primary font-black">→</span> JBIMS ATMA cutoff 2026</li>
+                  <li><span className="text-primary font-black">→</span> PUMBA Pune admission ATMA</li>
+                  <li><span className="text-primary font-black">→</span> Welingkar Mumbai ATMA cutoff score</li>
+                </ul>
+              </div>
             </div>
           </section>
 
