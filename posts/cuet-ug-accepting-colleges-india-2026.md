@@ -96,8 +96,8 @@ If you miss out on top Central Universities, don't worry. Many of India's elite 
 1. **[Amity University](/colleges/amity-noida)** (Noida, Gurugram, Jaipur, Lucknow)
 2. **[Bennett University](/colleges/bennett-greater-noida)**, Greater Noida
 3. **[BML Munjal University](/colleges/bml-munjal-gurgaon)**, Gurugram
-4. **Galgotias University**, Greater Noida
-5. **GD Goenka University**, Gurugram
+4. **[Galgotias University](/colleges/galgotias-university)**, Greater Noida
+5. **[GD Goenka University](/colleges/gd-goenka-university)**, Gurugram
 6. **K.R. Mangalam University**, Gurugram
 7. **LPU ([Lovely Professional University](/colleges/lovely-professional-university))**, Phagwara
 8. **SRM University** (Delhi NCR Sonepat)
@@ -152,37 +152,14 @@ A career counsellor helps students evaluate their strengths, interests, and care
 NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

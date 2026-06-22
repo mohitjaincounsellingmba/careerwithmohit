@@ -79,7 +79,7 @@ No, [IMI Delhi](/colleges/imi-delhi) only accepts **CAT** or **XAT** for its fla
 The latest average package for the PGDM batch is approximately **₹17.1 LPA**.
 
 ### 4. Can freshers apply for [IMI Delhi](/colleges/imi-delhi)?
-Yes, IMI Delhi has a good mix of both freshers and students with work experience in its PGDM programs.
+Yes, [IMI Delhi](/colleges/imi-delhi) has a good mix of both freshers and students with work experience in its PGDM programs.
 
 ---
 
@@ -90,37 +90,14 @@ Yes, IMI Delhi has a good mix of both freshers and students with work experience
 
 [👉 Want to secure your seat at IMI Delhi? Speak to our admission experts today!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

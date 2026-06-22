@@ -116,35 +116,10 @@ The essay is evaluated during the second stage of selection. Spend 15 minutes dr
 *   [All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Colleges](/blog/all-about-xat-exam)
 *   [Last Week XAT Strategy: 7 Days to Go](/blog/last-week-xat-2026-strategy-final-7-days)
 *   [Top MBA Entrance Exams 2026: Fees & Placements](/blog/top-mba-entrance-exams-2026-guide)
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

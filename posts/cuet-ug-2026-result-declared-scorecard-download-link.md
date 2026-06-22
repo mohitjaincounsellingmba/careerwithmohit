@@ -125,29 +125,10 @@ Candidates must register separately on the admission portals of their target uni
 Choosing the right course-college combination can determine your career path. Mohit Jain’s expert admissions counselling helps you target the best institutions based on your CUET scorecard.
 
 [👉 Book My CUET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
----
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

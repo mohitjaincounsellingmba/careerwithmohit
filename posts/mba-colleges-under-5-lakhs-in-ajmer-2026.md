@@ -119,28 +119,10 @@ Most state-affiliated and government colleges in Ajmer accept scores from CAT, C
 
 ### Is pursuing an MBA under 5 Lakhs in Ajmer worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 5 Lakhs and average placement packages ranging from 4 LPA to 8 LPA, graduates can recover their educational expenses in less than a year.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

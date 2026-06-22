@@ -80,9 +80,9 @@ IP University assigns ranks based on the total 400 marks. Top colleges usually c
 IP University strictly centralizes the counselling process for all its affiliated Management institutes.
 
 - USMS (University School of Management Studies) - GGSIPU Main Dwarka Campus
-- MAIMS (Maharaja Agrasen Institute of Management Studies), Rohini
+- MAIMS (Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies)), Rohini
 - VIPS (Vivekananda Institute of Professional Studies), Pitampura
-- NDIM (New Delhi Institute of Management) - *Only the IPU affiliated MBA wing*
+- NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)) - *Only the IPU affiliated MBA wing*
 - RDIAS (Rukmini Devi Institute of Advanced Studies), Rohini
 - [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi), Rohini
 - Banarsidas Chandiwala Institute of Professional Studies (BCIPS), Dwarka
@@ -105,37 +105,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

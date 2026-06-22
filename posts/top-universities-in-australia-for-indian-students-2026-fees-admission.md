@@ -59,7 +59,7 @@ Australia is the **3rd most popular study destination** for Indian students glob
 | University of Wollongong (UOW) | Wollongong & Sydney | PG | ₹19,00,000 |
 | The University of Newcastle | Newcastle, Central Coast, Sydney | UG & PG | ₹18,50,000 |
 | Deakin University | Melbourne, Geelong, Warrnambool | UG & PG | ₹19,50,000 |
-| Chitkara University + Deakin University | Chandigarh → Melbourne | UG Pathway (Twinning) | ₹14,00,000 |
+| [Chitkara University](/colleges/chitkara-university) + Deakin University | Chandigarh → Melbourne | UG Pathway (Twinning) | ₹14,00,000 |
 | Queensland University of Technology (QUT) | Brisbane | UG & PG | ₹20,00,000 |
 | La Trobe University | Melbourne & Sydney | UG & PG | ₹19,00,000 |
 | Griffith University | Brisbane & Gold Coast | UG & PG | ₹18,00,000 |
@@ -176,37 +176,14 @@ A career counsellor helps students evaluate their strengths, interests, and care
 NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

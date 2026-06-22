@@ -74,7 +74,7 @@ Here is the definitive list of institutions to target for the 2026 academic sess
 *   **Symbiosis Institute of Health Sciences, Pune**
     *   **Approx Fees**: ₹11–12 lakh
     *   **Highlights**: Highly focused on hospital operations and clinical research management.
-*   **IIHMR University, Jaipur**
+*   **[IIHMR University](/colleges/iihmr-university), Jaipur**
     *   **Approx Fees**: ₹9–12 lakh
     *   **Highlights**: A pioneer in health research and specialized management training.
 *   **SGT University, Gurugram**
@@ -154,37 +154,14 @@ Navigating through fee structures and placement records can be overwhelming. At 
 
 [**Inquiry Now for Personalized Counselling**](/inquiry) | [**Explore More Colleges**](/colleges)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

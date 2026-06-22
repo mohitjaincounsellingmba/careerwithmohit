@@ -46,7 +46,7 @@ These colleges are globally ranked and offer the best corporate exposure in Fina
 - **Entrance Exam:** CAT, GMAT
 - **USP:** Famous for its "Non-Classroom Learning" and specialization-based admission process.
 
-### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj Institute of Management Studies)
+### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
 - **Status:** Known as the "CEO Factory of India."
 - **Fees:** ₹6.0 Lakhs (Approx for 2 years)
 - **Average Placement:** ₹28.0 LPA
@@ -136,37 +136,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

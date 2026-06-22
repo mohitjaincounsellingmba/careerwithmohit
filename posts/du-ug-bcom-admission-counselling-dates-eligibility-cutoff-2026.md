@@ -138,12 +138,13 @@ To be eligible for BCom (Hons), candidates must pass Class 12 and appear in CUET
 ### What is a safe CUET score for BCom (Hons) at SRCC and Hindu College?
 For general category students, a safe CUET UG score for SRCC is 780-800+, and for Hindu College, it is 760-790+. These are estimated based on past merit trends.
 
+
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
-
-Source: Shiksha.com

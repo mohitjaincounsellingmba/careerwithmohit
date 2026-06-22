@@ -61,9 +61,9 @@ Many leading private universities like **Amity, Galgotias, and LPU** have done a
 | College | Location | Total Fees | Avg. Placement |
 |---|---|---|---|
 | **Alliance University** | Bangalore | ₹6.0 - 8.0 Lakhs | ₹4.5 - 7.0 LPA |
-| **Galgotias University** | Greater Noida | ₹2.2 - 3.5 Lakhs | ₹3.5 - 5.5 LPA |
+| **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | ₹2.2 - 3.5 Lakhs | ₹3.5 - 5.5 LPA |
 | **[Poornima University](/colleges/poornima-jaipur)** | Jaipur | ₹2.2 - 3.0 Lakhs | ₹3.8 - 5.5 LPA |
-| **GD Goenka University** | Gurgaon | ₹3.5 - 5.0 Lakhs | ₹3.8 - 5.2 LPA |
+| **[GD Goenka University](/colleges/gd-goenka-university)** | Gurgaon | ₹3.5 - 5.0 Lakhs | ₹3.8 - 5.2 LPA |
 | **Indira College** | Pune | ₹2.5 - 3.2 Lakhs | ₹3.5 - 5.0 LPA |
 | **SRM University** | Multiple | ₹4.5 - 6.0 Lakhs | ₹4.0 - 6.0 LPA |
 
@@ -116,37 +116,14 @@ Don't guess with your future. Mohit Jain provides a **Safe Seat Audit**—verify
 
 [👉 Book My Safe Admission Session](/inquiry) | [💬 Verify a College on WhatsApp](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

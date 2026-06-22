@@ -28,7 +28,7 @@ faqs:
       and emotional intelligence are highly valued soft skills across all
       industries.
 ---
-Fortune Institute of International Business (FIIB) Delhi is a fast-growing B-school known for its intense focus on experiential learning and global exposure. With a consistent 96% placement rate, it remains a strong choice for management aspirants.
+[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Delhi is a fast-growing B-school known for its intense focus on experiential learning and global exposure. With a consistent 96% placement rate, it remains a strong choice for management aspirants.
 
 ### 📊 FIIB Delhi 2025 SnapShot
 
@@ -71,37 +71,14 @@ Professional certifications (like SAP, Advanced Excel, Financial Modeling, or Di
 Communication skills, problem-solving, team collaboration, adaptability, and emotional intelligence are highly valued soft skills across all industries.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

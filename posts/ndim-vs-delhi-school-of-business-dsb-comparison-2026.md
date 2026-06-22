@@ -27,7 +27,7 @@ faqs:
     answer: "Yes. NDIM has unique collaborations, including the \"Japan-India Institute for Manufacturing\" (JIM), offering students international perspectives and specialized technical-management training.\n\n[\U0001F449 Compare NDIM with FOSTIIMA and IMI!](/tools/college-comparison)\n\n**Make the Legacy Move.**\nAt **CareerWithMohit**, we help you navigate the noisy MBA market to find an institution that actually builds your future brand.\n\n[\U0001F449 Get Expert Admission Help for NDIM!](/inquiry)"
 ---
 
-When it comes to choosing the right PGDM program in the national capital, two names often come up: **New Delhi Institute of Management (NDIM)** and **Delhi School of Business (DSB)**. 
+When it comes to choosing the right PGDM program in the national capital, two names often come up: **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** and **Delhi School of Business (DSB)**. 
 
 While both offer good infrastructure and corporate locations, at **CareerWithMohit**, we’ve analyzed the data for the **2026 admission cycle**, and the conclusion is clear: **The NDIM Legacy is the safer and more profitable investment for your career.**
 
@@ -97,37 +97,14 @@ At **CareerWithMohit**, we help you navigate the noisy MBA market to find an ins
 
 [👉 Get Expert Admission Help for NDIM!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

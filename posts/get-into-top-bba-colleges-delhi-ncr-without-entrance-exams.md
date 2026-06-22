@@ -62,7 +62,7 @@ If you want to skip the entrance exams, consider targeting these institutions:
 Amity offers direct admission to its popular BBA program for students with excellent academic records.
 - **Criteria:** Direct admission (without test/interview) is often offered to candidates scoring above 80% to 85% aggregate in Class 12th. Other candidates undergo an English test and PI.
 
-### 2. Galgotias University, Greater Noida
+### 2. [Galgotias University](/colleges/galgotias-university), Greater Noida
 Galgotias is popular for its dynamic placements and offers direct admission based on board performance.
 - **Criteria:** Minimum 50% to 60% aggregate in Class 12th boards. Selection is merit-based.
 
@@ -118,37 +118,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

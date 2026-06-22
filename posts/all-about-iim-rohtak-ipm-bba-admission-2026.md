@@ -69,35 +69,10 @@ The intake is approximately 180 students for the 2026 batch.
 While both are IIMs, their exam patterns and placement cultures differ. Mohit Jain provides a "Deep-Dive Comparison"—helping you decide which IIM aligns better with your career goals in Finance or Marketing.
 
 [👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
----
-
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium IPMAT Rohtak Mock Test Series 2026](/mock-tests)** to practice the specific time-management required for Rohtak's pattern.
-
-
-Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

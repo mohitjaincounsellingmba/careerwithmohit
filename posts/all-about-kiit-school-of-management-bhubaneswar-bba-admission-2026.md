@@ -71,35 +71,10 @@ Yes, KIIT is a Deemed to be University recognized by the UGC and has been grante
 KIITEE is known for its tricky logic questions. Mohit Jain’s "KIITEE Accelerator" helps you master the shortcuts to solve complex reasoning sets in record time.
 
 [👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
----
-
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium KIITEE Mock Test Series 2026](/mock-tests)** to practice the specific pattern and timing of the KIIT University exam.
-
-
-Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

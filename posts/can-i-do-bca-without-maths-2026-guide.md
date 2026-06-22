@@ -54,10 +54,10 @@ If you didn't have Maths in 12th, these are your best national-level targets:
 | **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Jaipur | Merit-based | Yes |
 | **[Amity University](/colleges/amity-noida)** | Multiple Locations| Merit / Interview | Yes |
 | **LPU (Lovely Professional)** | Punjab | LPUNEST / Merit | Yes |
-| **Galgotias University** | Greater Noida | Merit-based | Yes |
+| **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | Merit-based | Yes |
 | **SRM University** | Chennai/NCR | Merit-based | Yes |
 | **Chandigarh University** | Chandigarh | CUCET / Merit | Yes |
-| **GD Goenka University** | Gurgaon | Merit-based | Yes |
+| **[GD Goenka University](/colleges/gd-goenka-university)** | Gurgaon | Merit-based | Yes |
 
 ---
 
@@ -117,37 +117,14 @@ Many of India's top developers came from non-science backgrounds. Don't let a "M
 
 [👉 Book My Non-Maths BCA Consultation](/inquiry) | [💬 Talk to Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

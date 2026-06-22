@@ -72,35 +72,10 @@ Yes, due to its international accreditations and UGC recognition, the BBA degree
 Alliance is the only BBA college in Bangalore with multiple international accreditations. Mohit Jain’s "Global Career Audit" helps you decide if Alliance is the right launchpad for your Masters in the USA or UK.
 
 [👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
----
-
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium AUSAT Mock Test Series 2026](/mock-tests)** to practice the specific pattern and difficulty of the Alliance University exam.
-
-
-Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

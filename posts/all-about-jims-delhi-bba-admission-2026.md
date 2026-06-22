@@ -23,7 +23,7 @@ faqs:
       outstation students near its campuses.
 ---
 
-Jagan Institute of Management Studies (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
+[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
 
 ## 🏛️ Why Choose JIMS Delhi for BBA in 2026?
 JIMS offers a practical approach to management education, focusing on skill development and industry readiness.
@@ -70,35 +70,10 @@ JIMS provides assistance and tie-ups for hostel and PG accommodations for outsta
 Both campuses are in Rohini but offer different vibes and placement stats. Mohit Jain’s "JIMS Campus Audit" helps you pick the right one based on your preferred specialization in Marketing or HR.
 
 [👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
----
-
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium IPU CET Mock Test Series 2026](/mock-tests)** to practice with the latest question patterns and timing for the Indraprastha University exam.
-
-
-Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

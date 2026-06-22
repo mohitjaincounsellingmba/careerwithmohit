@@ -104,7 +104,7 @@ One of Mumbai's most reputed private engineering institutions with a strong CSE 
 - **Avg Package:** ₹8–15 LPA | Highest: ₹45 LPA (Goldman Sachs)
 - **NAAC Rating:** A+
 
-### 5. NMIMS MPSTME (Narsee Monjee Institute of Management Studies — School of Technology)
+### 5. NMIMS MPSTME (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) — School of Technology)
 Part of the NMIMS Deemed University, MPSTME offers excellent industry connections particularly in fintech, banking tech, and AI.
 
 - **Courses:** B.Tech CSE (specialisations: AI, Data Science, Blockchain), ECE, Mechanical
@@ -196,37 +196,14 @@ A few private colleges have started accepting CUET scores as part of their merit
 
 **[👉 Confused between Mumbai B.Tech college options? Get a FREE expert counselling session with Mohit!](/inquiry)**
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

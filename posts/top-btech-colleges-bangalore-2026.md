@@ -72,7 +72,7 @@ If you are aiming for B.Tech admission in 2026, here is your comprehensive guide
 | College Name | Top Entrance Exam | Avg. Placement | Key Strength |
 | :--- | :--- | :--- | :--- |
 | **RVCE** | COMEDK / KCET | ₹11 LPA | Industry Legacy |
-| **PES University** | PESSAT / KCET | ₹10.5 LPA | Research Focus |
+| **[PES University](/colleges/pes-university)** | PESSAT / KCET | ₹10.5 LPA | Research Focus |
 | **BMSCE** | COMEDK / KCET | ₹8.5 LPA | Alumni Network |
 | **MSRIT** | COMEDK / KCET | ₹8 LPA | Corporate Ties |
 
@@ -130,37 +130,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

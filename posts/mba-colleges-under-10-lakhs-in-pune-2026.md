@@ -60,7 +60,7 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Well-known for rigorous corporate training and high marketing/finance placement ratios.
 
-### 4. RIIM Pune
+### 4. [RIIM Pune](/colleges/riim-pune)
 - **Approximate Fees:** ₹5.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CMAT / MAT / CAT
 - **Average Placement Package:** **₹5.8 LPA**
@@ -134,28 +134,10 @@ Most state-affiliated and government colleges in Pune accept scores from CAT, CM
 
 ### Is pursuing an MBA under 10 Lakhs in Pune worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 10 Lakhs and average placement packages ranging from 5 LPA to 12 LPA, graduates can recover their educational expenses in a very short duration.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

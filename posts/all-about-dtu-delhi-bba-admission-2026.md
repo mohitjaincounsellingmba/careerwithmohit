@@ -71,35 +71,10 @@ No, all admissions are strictly through the CUET merit list for the specified ye
 While SSCBS is the gold standard for finance, DTU USME offers a modern approach focused on entrepreneurship and tech-management. Mohit Jain’s "Delhi Management Audit" helps you decide which campus culture fits your personality.
 
 [👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
----
-
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to practice with the latest question patterns and timing.
-
-
-Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

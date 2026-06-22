@@ -123,35 +123,10 @@ Yes. Since the difficulty level is moderate, you can easily crack CMAT by studyi
 *   [All About CMAT Exam 2026: Pattern, Innovation, Cutoff & Colleges](/blog/all-about-cmat-exam)
 *   [MAT & CMAT Admissions: Top Acceptable Colleges](/blog/mat-2026-cmat-2026-colleges-admission-guide)
 *   [Top MBA Colleges with Low Fees & High ROI](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

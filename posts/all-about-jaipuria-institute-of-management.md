@@ -31,7 +31,7 @@ faqs:
       top 10% of the batch securing packages above **₹15 LPA**.
 ---
 
-### **College Review: Jaipuria Institute of Management, Noida**
+### **College Review: [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida**
 *   **National Repute**: consistently ranked among the top private B-schools in India by NIRF and other major agencies.
 *   **Unison Learning**: A unique multi-campus system that allows students to access resources across Noida, Lucknow, Jaipur, and Indore.
 *   **Corporate Branding**: Known for its premium positioning and high degree of corporate integration.
@@ -82,37 +82,14 @@ The average package for the 2025 batch stood at **₹8.95 LPA**, with the top 10
 
 [👉 Apply to Jaipuria Noida](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

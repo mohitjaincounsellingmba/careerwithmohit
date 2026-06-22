@@ -71,7 +71,7 @@ Delhi NCR is home to several other heavyweights that accept CUET UG scores for s
 
 ### State & Technical Universities
 - **Delhi Technological University (DTU)**: While famous for B.Tech, it also accepts CUET for Management/Commerce courses.
-- **Netaji Subhas University of Technology (NSUT)**: Top technical brand offering management under CUET.
+- **[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)**: Top technical brand offering management under CUET.
 - **Guru Gobind Singh Indraprastha University (GGSIPU)**: Accepts CUET for several professional programs (BBA, BCA).
 
 ---
@@ -125,37 +125,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

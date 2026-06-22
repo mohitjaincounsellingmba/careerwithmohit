@@ -42,7 +42,7 @@ For engineering aspirants targeting the 2026 academic batch on a budget, we have
 
 These institutions keep their total program tuition fees under ₹10 Lakhs while offering robust laboratory infrastructure, experienced faculty members, and active recruitment drives.
 
-### 1. KIET Group of Institutions
+### 1. [KIET Group of Institutions](/colleges/kiet-ghaziabad)
 - **Approximate Tuition Fees:** ₹5.2 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main (UPTAC)
 - **Average Placement Package:** **₹6.5 LPA**
@@ -54,7 +54,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹6.2 LPA**
 - **Key Highlight:** Highly disciplined academic environment with specialized industry-sponsored laboratories.
 
-### 3. ABES Engineering College
+### 3. [ABES Engineering College](/colleges/abes-ghaziabad)
 - **Approximate Tuition Fees:** ₹5.6 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main (UPTAC)
 - **Average Placement Package:** **₹5.8 LPA**
@@ -133,12 +133,3 @@ Most government-aided and state university affiliated engineering colleges in Gh
 
 ### Is pursuing a B.Tech under 10 Lakhs in Ghaziabad worth it?
 Absolutely. Pursuing a B.Tech under a total tuition budget of 10 Lakhs offers an exceptional Return on Investment (ROI). With moderate fees and average starting salaries ranging from 4.5 LPA to 12 LPA, most students can recover their educational expenses within 1 to 2 years of graduation.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

@@ -42,7 +42,7 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹5 Lakhs (either total program fee or annual fees matching a budget-friendly layout) while offering solid placement opportunities.
 
-### 1. Galgotias University (BBA Program)
+### 1. [Galgotias University](/colleges/galgotias-university) (BBA Program)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Merit
 - **Average Placement Package:** **₹4.2 LPA**
@@ -54,13 +54,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹4.0 LPA**
 - **Key Highlight:** Focus on corporate alignment, soft skills, and mock interviews.
 
-### 3. GNIOT Institute of Management Studies
+### 3. GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹3.8 LPA**
 - **Key Highlight:** Affordable business education in Knowledge Park II.
 
-### 4. Noida Institute of Engineering and Technology (NIET)
+### 4. [Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)
 - **Approximate Fees:** ₹1.0 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹3.6 LPA**
@@ -133,12 +133,3 @@ Most institutions in Greater Noida accept scores from CUET-UG, state-level entra
 
 ### Is pursuing a BBA under 5 Lakhs in Greater Noida a good choice?
 Yes, BBA programs under 5 Lakhs provide an exceptional Return on Investment (ROI). With moderate tuition fees, students can secure average placement packages ranging from 3 LPA to 6 LPA, facilitating a quick career start with minimal student debt.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

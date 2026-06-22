@@ -60,13 +60,13 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹11.0 LPA**
 - **Key Highlight:** Top private institution with premium industry partnerships and active research labs.
 
-### 4. Bangalore Institute of Technology (BIT)
+### 4. [Bangalore Institute of Technology (BIT)](/colleges/bit-bangalore)
 - **Approximate Tuition Fees:** ₹4.0 Lakhs (Total)
 - **Accepted Entrance Exams:** KCET / COMEDK
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Pioneered computer science education in Karnataka with solid alumni placements.
 
-### 5. PES University (RR Campus - KCET Quota)
+### 5. [PES University](/colleges/pes-university) (RR Campus - KCET Quota)
 - **Approximate Tuition Fees:** ₹4.8 Lakhs (Total)
 - **Accepted Entrance Exams:** KCET
 - **Average Placement Package:** **₹12.0 LPA**
@@ -140,12 +140,3 @@ Most government-aided and state university affiliated engineering colleges in Ba
 
 ### Is pursuing a B.Tech under 10 Lakhs in Bangalore worth it?
 Absolutely. Pursuing a B.Tech under a total tuition budget of 10 Lakhs offers an exceptional Return on Investment (ROI). With moderate fees and average starting salaries ranging from 4.5 LPA to 12 LPA, most students can recover their educational expenses within 1 to 2 years of graduation.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

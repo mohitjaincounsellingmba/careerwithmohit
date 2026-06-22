@@ -65,7 +65,7 @@ MSI Janakpuri is highly regarded for its disciplined academics and reliable plac
 - **Entrance Exam:** IPU CET
 - **Verdict:** Very reliable mid-budget option with stable campus recruitment.
 
-### 5. Maharaja Agrasen Institute of Management Studies (MAIMS) - Rohini, GGSIPU
+### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) - Rohini, GGSIPU
 MAIMS Rohini offers structured IP University education within a reasonable budget.
 - **Total Program Fees (3 Years):** ~₹3.3 Lakhs
 - **Average Placement Package:** ₹4.5 LPA
@@ -126,37 +126,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

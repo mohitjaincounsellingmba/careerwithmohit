@@ -72,7 +72,7 @@ Why should you choose a college that offers an IoA-approved MBA in Business Anal
 Several top universities and business schools in India have partnered with the Institute of Analytics, UK (often facilitated by educational partners like ISDC) to offer specialized MBA programs.
 
 ### 1. Jain (Deemed-to-be University), Bangalore
-Jain University is one of the pioneers in offering IoA-accredited programs in India. 
+[Jain University](/colleges/jain-university) is one of the pioneers in offering IoA-accredited programs in India. 
 *   **Program:** MBA in Business Intelligence & Analytics (Integrated with IoA, UK)
 *   **Mode:** Available on-campus (e.g., Bangalore, Kochi) and through **Jain Online**.
 *   **Key Highlights:** Comprehensive coverage of Big Data, Predictive Analytics, and AI in Business. Graduates get direct Associate Membership to IoA.
@@ -145,27 +145,3 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 Are you targeting top MBA colleges for Business Analytics this year? 
 **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to practice for CAT, MAT, and CMAT with real-time analytics and improve your chances of securing a seat in an elite institution!
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

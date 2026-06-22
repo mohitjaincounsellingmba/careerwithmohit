@@ -69,35 +69,10 @@ The intake is approximately 120 seats for the 2026 batch.
 JIPMAT is different from IPMAT Indore in its focus on Data Interpretation. Mohit Jain’s "JIPMAT Accelerator" program helps you master the calculation-heavy DI sets to ensure you clear the cutoff for IIM Bodh Gaya.
 
 [👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
----
-
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium JIPMAT Mock Test Series 2026](/mock-tests)** to practice the exact pattern of the NTA-conducted exam.
-
-
-Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

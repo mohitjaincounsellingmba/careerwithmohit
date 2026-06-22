@@ -46,13 +46,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹9.8 LPA**
 - **Key Highlight:** The best undergraduate business school in India under Delhi University with exceptional ROI.
 
-### 2. Jamia Millia Islamia (JMI)
+### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
 - **Approximate Fees:** ₹13,000 (Annual)
 - **Accepted Entrance Exams:** JMI Entrance Exam
 - **Average Placement Package:** **₹6.0 LPA**
 - **Key Highlight:** Highly reputed central university offering premium courses at minimal fees.
 
-### 3. Maharaja Agrasen Institute of Management Studies (MAIMS)
+### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET
 - **Average Placement Package:** **₹4.5 LPA**
@@ -64,13 +64,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹4.6 LPA**
 - **Key Highlight:** Known for premium infrastructure, great faculty, and active student societies.
 
-### 5. Maharaja Surajmal Institute (MSI)
+### 5. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Ranked among the top IPU BBA colleges with consistent placement tracks.
 
-### 6. Jagan Institute of Management Studies (JIMS Rohini)
+### 6. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** IPU CET / CUET
 - **Average Placement Package:** **₹4.2 LPA**
@@ -145,12 +145,3 @@ Most institutions in Delhi accept scores from CUET-UG, state-level entrance exam
 
 ### Is pursuing a BBA under 5 Lakhs in Delhi a good choice?
 Yes, BBA programs under 5 Lakhs provide an exceptional Return on Investment (ROI). With moderate tuition fees, students can secure average placement packages ranging from 3 LPA to 6 LPA, facilitating a quick career start with minimal student debt.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

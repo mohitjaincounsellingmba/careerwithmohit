@@ -46,19 +46,19 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹4.0 LPA**
 - **Key Highlight:** Located in Noida's institutional area, popular choice for undergraduate management.
 
-### 2. Hierank Business School
+### 2. [Hierank Business School](/colleges/hierank-noida)
 - **Approximate Fees:** ₹1.1 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹3.8 LPA**
 - **Key Highlight:** Affordable fee structure with focus on practical business exposure.
 
-### 3. Noida International University (NIU)
+### 3. [Noida International University (NIU)](/colleges/niu-greater-noida)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹3.5 LPA**
 - **Key Highlight:** Diverse campus environment with various global partnerships.
 
-### 4. Jaypee Institute of Information Technology (JIIT)
+### 4. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)
 - **Approximate Fees:** ₹1.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹4.5 LPA**
@@ -131,12 +131,3 @@ Most institutions in Noida accept scores from CUET-UG, state-level entrance exam
 
 ### Is pursuing a BBA under 5 Lakhs in Noida a good choice?
 Yes, BBA programs under 5 Lakhs provide an exceptional Return on Investment (ROI). With moderate tuition fees, students can secure average placement packages ranging from 3 LPA to 6 LPA, facilitating a quick career start with minimal student debt.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

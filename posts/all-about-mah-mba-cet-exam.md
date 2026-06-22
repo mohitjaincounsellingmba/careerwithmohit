@@ -34,7 +34,7 @@ faqs:
     answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2026](/mah-mba-cet-scholarship-2026-eligibility-application-process)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)"
 ---
 
-The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj Institute of Management Studies (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
+The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
 
 Here is the complete overview of the MAH MBA CET exam for 2026 admissions:
 
@@ -113,37 +113,14 @@ Yes! Maharashtra domicile students admitted through CAP rounds can apply for **E
 
 [👉 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

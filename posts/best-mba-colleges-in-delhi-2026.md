@@ -135,7 +135,7 @@ These colleges are known for their modern curriculum and strong ties with Gurgao
 ## Tier 3: Value-for-Money & Career Starters
 Ideal for students with moderate entrance scores looking for solid placement starts.
 
-### 14. [NDIM Delhi (New Delhi Institute of Management)](/colleges/ndim-delhi)
+### 14. [NDIM Delhi ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management))](/colleges/ndim-delhi)
 - **Fees:** ₹12.7 Lakhs
 - **Average Placement:** ₹9.50 LPA
 - **USP:** Recognized for global industry link; 100% placements for decades.
@@ -202,37 +202,14 @@ Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than m
 
 [👉 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

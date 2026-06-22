@@ -27,7 +27,7 @@ faqs:
       scholarship allocation.
 ---
 
-**GD Goenka University (GDGU)**, located in the corporate hub of Gurugram (Sohna Road), is a premier multidisciplinary private university. Accredited with **NAAC Grade 'A+'**, it is recognized for its industry-integrated engineering programs and specialized tracks in AI, Machine Learning, and Robotics.
+**[GD Goenka University](/colleges/gd-goenka-university) (GDGU)**, located in the corporate hub of Gurugram (Sohna Road), is a premier multidisciplinary private university. Accredited with **NAAC Grade 'A+'**, it is recognized for its industry-integrated engineering programs and specialized tracks in AI, Machine Learning, and Robotics.
 
 ### **GD Goenka Admission Channels 2026**
 1.  **Entrance Route**: Based on scores in **JEE Main 2026**, **CUET UG**, or the university's own **GATA** (Goenka Aptitude Test for Admission).
@@ -82,37 +82,14 @@ Yes, the university has integrated internship cycles with many MNCs in the Gurug
 GATA is the university's entrance test used for merit selection and scholarship allocation.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -52,7 +52,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹6.8 LPA**
 - **Key Highlight:** Renowned for delivering top-tier placement counts in software engineering roles across Delhi NCR.
 
-### 2. Galgotias University (School of Engineering)
+### 2. [Galgotias University](/colleges/galgotias-university) (School of Engineering)
 - **Approximate Tuition Fees:** ₹6.4 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main / Merit
 - **Average Placement Package:** **₹5.5 LPA**
@@ -64,7 +64,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Affordable business-technical ecosystem focusing on practical training in Knowledge Park II.
 
-### 4. Sharda University (School of Engineering & Technology)
+### 4. [Sharda University](/colleges/sharda-greater-noida) (School of Engineering & Technology)
 - **Approximate Tuition Fees:** ₹8.8 Lakhs (Total)
 - **Accepted Entrance Exams:** SUAT / JEE Main
 - **Average Placement Package:** **₹5.0 LPA**
@@ -137,12 +137,3 @@ Most government-aided and state university affiliated engineering colleges in Gr
 
 ### Is pursuing a B.Tech under 10 Lakhs in Greater Noida worth it?
 Absolutely. Pursuing a B.Tech under a total tuition budget of 10 Lakhs offers an exceptional Return on Investment (ROI). With moderate fees and average starting salaries ranging from 4.5 LPA to 12 LPA, most students can recover their educational expenses within 1 to 2 years of graduation.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

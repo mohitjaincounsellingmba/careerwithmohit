@@ -129,8 +129,6 @@ Planning to target top-tier BBA programs across India? **[Access our Free Mock T
 
 ---
 
----
-
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What are the career options after BBA?
@@ -146,27 +144,3 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 ---
 
 Source: Shiksha.com
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

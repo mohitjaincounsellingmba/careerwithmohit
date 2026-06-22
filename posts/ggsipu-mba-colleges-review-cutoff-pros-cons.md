@@ -71,7 +71,7 @@ Ranked #1 among private affiliates.
 *   **Pros:** Highly disciplined, strong alumni network in tech and consulting.
 *   **Cons:** High pressure on academics, feels a bit "school-like."
 
-### 4. [Jagan Institute of Management Studies (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+### 4. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
 Known for its industry-ready curriculum and placement drives.
 *   **Placement:** ₹7.5 - 9.0 LPA Average.
 *   **Pros:** Excellent corporate relations, active student life.
@@ -139,36 +139,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

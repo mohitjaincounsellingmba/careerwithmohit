@@ -45,14 +45,14 @@ These colleges are leaders in specific domains or offer significantly higher pla
 - **Entrance Exam:** CAT, XAT, MAT, CMAT
 - **USP:** Famous for its "15-hour work shift" culture and 100% placement record with high-tier salaries.
 
-### 2. IIHMR University, Jaipur
+### 2. [IIHMR University](/colleges/iihmr-university), Jaipur
 - **Status:** Nationally ranked for Healthcare and Hospital Management.
 - **Fees:** ₹10.5 Lakhs
 - **Average Placement:** ₹6.0 LPA (Highest ₹17 LPA)
 - **Entrance Exam:** CAT, MAT, XAT, CMAT, ATMA
 - **USP:** No other college in India beats IIHMR for specialized Healthcare and Pharmaceutical management.
 
-### 3. Jaipuria Institute of Management, Jaipur
+### 3. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Jaipur
 - **Fees:** ₹12.0 Lakhs
 - **Average Placement:** ₹8.5 LPA
 - **Entrance Exam:** CAT, XAT, MAT, CMAT
@@ -70,7 +70,7 @@ These institutions offer the security of a government brand or a long-standing a
 - **Entrance Exam:** CAT, GMAT
 - **USP:** High ROI (Low fees) and the prestigious "NIT" brand name.
 
-### 5. IRM Jaipur (Institute of Rural Management)
+### 5. IRM Jaipur ([Institute of Rural Management](/colleges/institute-of-rural-management))
 - **Fees:** ₹7.5 Lakhs
 - **Average Placement:** ₹6.5 LPA
 - **Entrance Exam:** CAT, XAT, MAT, CMAT
@@ -120,37 +120,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

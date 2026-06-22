@@ -143,35 +143,10 @@ Yes. Many finance professionals transition by learning data analytics, Python, o
 Choosing between core operations and tech innovation requires looking at your individual academic strengths and lifestyle goals. Mohit Jain offers personalized career counselling sessions to help you evaluate B-schools, polish your portfolio, and target the right profile.
 
 [👉 Book My Finance Career Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

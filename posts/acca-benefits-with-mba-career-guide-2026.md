@@ -71,7 +71,7 @@ In 2026, the starting salary for an MBA in Finance from a mid-tier college is ar
 The number of exemptions depends on the university's curriculum. Typically:
 *   **MBA Finance Graduates**: Eligible for up to 9 exemptions (Applied Knowledge & Applied Skills levels).
 *   **General MBA**: Eligible for 3-5 exemptions.
-*   **Integrated Programs**: Some colleges (like [Poornima University](/colleges/poornima-jaipur) or Jain University) offer MBA programs where ACCA is integrated into the syllabus.
+*   **Integrated Programs**: Some colleges (like [Poornima University](/colleges/poornima-jaipur) or [Jain University](/colleges/jain-university)) offer MBA programs where ACCA is integrated into the syllabus.
 
 > [!TIP]
 > Always check the **[ACCA Exemption Calculator](https://www.accaglobal.com/gb/en/help/exemptions-calculator.html)** to see exactly how many papers you can skip based on your specific university degree.
@@ -109,37 +109,14 @@ Professional certifications (like SAP, Advanced Excel, Financial Modeling, or Di
 Communication skills, problem-solving, team collaboration, adaptability, and emotional intelligence are highly valued soft skills across all industries.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

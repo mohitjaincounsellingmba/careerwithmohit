@@ -105,36 +105,13 @@ If you are evaluating colleges for your child, make sure you check these paramet
 - [Is an Online BBA Degree Valid for Government Jobs, UPSC, and Bank Exams?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams)
 - [Earning While Learning: Best Part-Time Jobs for BBA Students](/blog/earning-while-learning-part-time-jobs-freelance-gigs-online-bba)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

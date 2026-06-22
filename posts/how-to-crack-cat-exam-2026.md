@@ -131,35 +131,10 @@ No. Many self-studying students crack CAT using online resources, standard books
 *   [CAT 2026 Preparation Roadmap (Month-by-Month)](/blog/cat-2026-preparation-strategy-syllabus-dates)
 *   [10 Proven Tips to Crack CAT 2026: The Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026)
 *   [All About CAT Exam 2026: Pattern, Syllabus & Cutoffs](/blog/all-about-cat-exam)
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

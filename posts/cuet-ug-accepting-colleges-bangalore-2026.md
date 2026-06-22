@@ -48,12 +48,12 @@ Established by the RV Educational Group, it focuses on tech and management UG co
 *   **Programs:** BA (Hons), B.Com (Hons).
 *   **USP:** Focus on employability and practical learning.
 
-### **4. Jain University**
+### **4. [Jain University](/colleges/jain-university)**
 Known for its management education legacy and sports focus.
 *   **Programs:** BA (Hons), B.Com (Hons), B.Tech.
 *   **USP:** Research-led teaching and corporate interface.
 
-### **5. PES University**
+### **5. [PES University](/colleges/pes-university)**
 A top-tier technical institute that considers CUET scores for specific programs.
 *   **Programs:** BBA, B.Com (Hons).
 *   **USP:** High placement rates and excellent infrastructure.
@@ -84,37 +84,14 @@ Yes, attempting mock tests helps candidates build speed and accuracy, understand
 Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candidates should avoid guessing to maintain accuracy and prevent score drops.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -29,7 +29,7 @@ faqs:
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
 ---
-**NMIMS Global Access (NMIMS Online)** is arguably India's most prestigious online management institution, backed by the legendary **Narsee Monjee Institute of Management Studies (Mumbai)**. As a top-5 private business school brand, NMIMS brings its academic rigor and heavy corporate influence to students across India.
+**NMIMS Global Access (NMIMS Online)** is arguably India's most prestigious online management institution, backed by the legendary **Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (Mumbai)**. As a top-5 private business school brand, NMIMS brings its academic rigor and heavy corporate influence to students across India.
 
 Enrolling in the 2026 session gives you access to a premium ecosystem with an elite brand that hiring managers and HR teams immediately recognize.
 
@@ -92,38 +92,15 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

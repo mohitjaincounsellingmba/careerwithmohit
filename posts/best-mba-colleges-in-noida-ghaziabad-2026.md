@@ -46,7 +46,7 @@ These institutes are nationally ranked and are the primary choice for students s
 - **Entrance Exam:** CAT, XAT, GMAT
 - **USP:** Known as the "Marketing Hub" of North India with an unparalleled alumni network.
 
-### 2. BIMTECH Greater Noida (Birla Institute of Management Technology)
+### 2. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))
 - **Status:** A premier institute backed by the Birla legacy.
 - **Fees:** ₹14.0 Lakhs
 - **Average Placement:** ₹10.5 LPA (International ₹24.4 LPA)
@@ -58,7 +58,7 @@ These institutes are nationally ranked and are the primary choice for students s
 ## Tier 2: Strong Industrial Interface
 These colleges offer a great balance of academic rigor and corporate connectivity.
 
-### 3. Jaipuria Institute of Management, Noida
+### 3. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida
 - **Fees:** ₹15.7 Lakhs
 - **Average Placement:** ₹9.50 LPA
 - **Entrance Exam:** CAT, XAT, MAT, CMAT
@@ -92,7 +92,7 @@ Ideal for students looking for decent placements with moderate entrance scores.
 - **Average Placement:** ₹10.0 LPA
 - **USP:** A global university with diverse peer groups and interdisciplinary learning opportunities.
 
-### 8. Galgotias University, Greater Noida
+### 8. [Galgotias University](/colleges/galgotias-university), Greater Noida
 - **Fees:** ₹3.5 Lakhs (MBA)
 - **Average Placement:** ₹5.25 LPA
 - **USP:** Modern pedagogy and strong focus on technology-driven management roles.
@@ -126,37 +126,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

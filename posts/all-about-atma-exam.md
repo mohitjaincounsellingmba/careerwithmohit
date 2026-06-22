@@ -81,11 +81,11 @@ Over 600+ AICTE-approved management institutes and university departments accept
 - Welingkar Institute of Management Development and Research (MMS & PGDM)
 - SIES College of Management Studies, Navi Mumbai
 - Christ University, Bangalore
-- NDIM (New Delhi Institute of Management), Delhi
+- NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)), Delhi
 - IBS (ICFAI Business Schools) across major cities like Hyderabad and Bangalore
-- N. L. Dalmia Institute of Management Studies and Research, Mumbai
-- IPE (Institute of Public Enterprise), Hyderabad
-- Jaipuria Institute of Management (Noida, Lucknow, Jaipur, Indore)
+- N. L. Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies) and Research, Mumbai
+- IPE ([Institute of Public Enterprise](/colleges/institute-of-public-enterprise)), Hyderabad
+- [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida, Lucknow, Jaipur, Indore)
 
 ---
 [👉 Is ATMA accepted by the college of your dreams? Ask us for a personalized college mapping session!](/inquiry)
@@ -104,37 +104,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

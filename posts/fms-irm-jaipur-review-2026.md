@@ -28,7 +28,7 @@ faqs:
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
 ---
-The **Institute of Rural Management (FMS IRM), Jaipur**, established in 1994, is a highly regarded business school offering rigorous management and rural management programs. It is known for its strong corporate connections and legacy of excellence in PGDM education.
+The **[Institute of Rural Management](/colleges/institute-of-rural-management) (FMS IRM), Jaipur**, established in 1994, is a highly regarded business school offering rigorous management and rural management programs. It is known for its strong corporate connections and legacy of excellence in PGDM education.
 
 If you are considering FMS IRM Jaipur for your management studies, here is a detailed review covering the fee structure, placement stats, and entrance exams.
 
@@ -105,37 +105,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

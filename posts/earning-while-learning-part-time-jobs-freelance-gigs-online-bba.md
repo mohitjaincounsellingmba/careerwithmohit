@@ -105,36 +105,13 @@ When you apply for a job or an MBA after your BBA, your work experience will be 
 - [Is an Online BBA Degree Valid for Government Jobs, UPSC, and Bank Exams?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams)
 - [Online BBA in Digital Marketing vs. Business Analytics](/blog/online-bba-digital-marketing-vs-business-analytics)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

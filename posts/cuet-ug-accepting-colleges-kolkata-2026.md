@@ -37,11 +37,11 @@ If you are a 12th-grade student targeting **Kolkata for the 2026-27 academic ses
 ---
 
 ### **1. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU)**
-A premier private university in Kolkata, part of the Techno India Group.
+A premier private university in Kolkata, part of the [Techno India Group](/colleges/techno-india-group).
 *   **Programs:** BA (Hons) English, BBA, B.Com (Hons), B.Sc.
 *   **Admission Process:** Uses CUET scores followed by an interview process.
 
-### **2. Adamas University**
+### **2. [Adamas University](/colleges/adamas-university)**
 Known for its multidisciplinary approach and world-class campus in Barasat.
 *   **Programs:** BA (Hons), B.Com (Hons), B.Sc, B.Tech.
 *   **USP:** Research-led teaching and corporate interface.
@@ -87,37 +87,14 @@ Yes, attempting mock tests helps candidates build speed and accuracy, understand
 Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candidates should avoid guessing to maintain accuracy and prevent score drops.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

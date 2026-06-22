@@ -149,7 +149,7 @@ Planning your **bca admission 2026**? Here is a quick overview of the college la
 | **Christ University** | Bangalore | ₹2.0–2.5 Lakhs | ₹4.0–6.0 LPA |
 | **Symbiosis Institute of Computer Studies** | Pune | ₹1.8–2.2 Lakhs | ₹4.5–6.5 LPA |
 | **[Amity University](/colleges/amity-noida)** | Noida/Mumbai | ₹1.5–2.0 Lakhs | ₹3.5–5.5 LPA |
-| **GD Goenka University** | Gurgaon | ₹1.2–1.8 Lakhs | ₹3.5–5.0 LPA |
+| **[GD Goenka University](/colleges/gd-goenka-university)** | Gurgaon | ₹1.2–1.8 Lakhs | ₹3.5–5.0 LPA |
 
 Understanding **bca fees in india** is important — total 3-year costs range from ₹30,000 (government) to ₹6+ Lakhs (top private). If you want flexibility, an **online bca degree** from UGC-approved universities like LPU Online or Chandigarh University is a great alternative.
 
@@ -203,37 +203,14 @@ Don't pick a degree just because your friends are doing it. Mohit Jain provides 
 
 [👉 Book My Career Strategy Call](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

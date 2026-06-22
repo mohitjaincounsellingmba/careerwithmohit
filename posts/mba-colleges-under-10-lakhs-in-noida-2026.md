@@ -48,13 +48,13 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹5.5 LPA**
 - **Key Highlight:** Popular affiliated campus in Noida Sector 62 with strong corporate network.
 
-### 2. Hierank Business School
+### 2. [Hierank Business School](/colleges/hierank-noida)
 - **Approximate Fees:** ₹4.5 Lakhs (Total)
 - **Accepted Entrance Exams:** Merit / CAT / MAT
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Located near Noida's IT hub, offering practical corporate preparation.
 
-### 3. Amity University (Subsidized/Direct MBA)
+### 3. [Amity University](/colleges/amity-noida) (Subsidized/Direct MBA)
 - **Approximate Fees:** ₹8.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.5 LPA**
@@ -120,28 +120,10 @@ Most state-affiliated and government colleges in Noida accept scores from CAT, C
 
 ### Is pursuing an MBA under 10 Lakhs in Noida worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 10 Lakhs and average placement packages ranging from 5 LPA to 12 LPA, graduates can recover their educational expenses in a very short duration.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

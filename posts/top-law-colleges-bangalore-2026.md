@@ -92,7 +92,7 @@ For a 2026 Law student, Bangalore offers niche opportunities:
 
 If you miss the CLAT/SLAT deadlines, several reputable private universities offer merit-based direct entry:
 - **Alliance University:** Premium infrastructure with a focus on BBA LLB and global law specializations.
-- **Presidency University:** Good technical pods with affordable private fees.
+- **[Presidency University](/colleges/presidency-university):** Good technical pods with affordable private fees.
 - **REVA University:** One of the fastest-growing private law campuses in North Bangalore.
 
 ---
@@ -128,37 +128,14 @@ Bangalore is competitive. Don't waste your years at a college with zero corporat
 
 [👉 Book My Bangalore Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -28,7 +28,7 @@ faqs:
     answer: The current average package is approximately **₹15.19 LPA**.
 ---
 
-Sydenham Institute of Management Studies, Research and Entrepreneurship Education (SIMSREE), Mumbai, is legendary for offering the best ROI in India after [FMS Delhi](/colleges/fms-delhi). For the 2026 admissions cycle, students often ask about **Direct Admission or Management Quota** at SIMSREE. As a government institute, SIMSREE has a unique, merit-focused approach to institutional seats.
+Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies), Research and Entrepreneurship Education (SIMSREE), Mumbai, is legendary for offering the best ROI in India after [FMS Delhi](/colleges/fms-delhi). For the 2026 admissions cycle, students often ask about **Direct Admission or Management Quota** at SIMSREE. As a government institute, SIMSREE has a unique, merit-focused approach to institutional seats.
 
 ## Why SIMSREE is Exceptional?
 
@@ -84,37 +84,14 @@ The current average package is approximately **₹15.19 LPA**.
 
 [👉 Need guidance for your Maharashtra MBA CAP registration? Book a free session!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

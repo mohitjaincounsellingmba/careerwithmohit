@@ -53,7 +53,7 @@ This edge includes:
 Sunstone has a wide network of partner colleges across major educational hubs in India. Here are some of the prominent partner campuses for the BBA program:
 
 ### **North India (Delhi NCR, Jaipur, Punjab/Haryana)**
-*   **Delhi NCR:** GD Goenka University (Gurugram), HIERANK Business School (Noida), Delhi Technical Campus (Greater Noida)
+*   **Delhi NCR:** [GD Goenka University](/colleges/gd-goenka-university) (Gurugram), HIERANK Business School (Noida), Delhi Technical Campus (Greater Noida)
 *   **Jaipur:** [JECRC University](/colleges/jecrc-jaipur), Vivekananda Global University (VGU), Jaipur National University
 *   **Punjab/Chandigarh:** Rayat-Bahra University (Mohali)
 *   **Lucknow:** Shri Ramswaroop Memorial University
@@ -144,37 +144,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

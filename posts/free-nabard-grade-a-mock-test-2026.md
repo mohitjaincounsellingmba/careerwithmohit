@@ -37,6 +37,8 @@ NABARD Grade A is conducted for the **Rural Development Banking Service (RDBS)**
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the NABARD Grade A Prelims exam?
@@ -54,29 +56,5 @@ Yes, there is a penalty of -0.25 (1/4th) of the marks assigned to that question 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

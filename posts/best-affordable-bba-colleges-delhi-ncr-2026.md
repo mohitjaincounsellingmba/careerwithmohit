@@ -50,7 +50,7 @@ As a central university, Jamia Millia Islamia offers an incredibly low fee struc
 - **Entrance Exam:** JMI Entrance Exam
 - **Why it fits:** Extremely affordable with solid placements in marketing, HR, and consulting.
 
-### 3. Maharaja Agrasen Institute of Management Studies (MAIMS) - Delhi
+### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) - Delhi
 MAIMS, affiliated with GGSIPU, is an excellent choice for student seeking structured IP University education within a reasonable budget.
 - **Total Program Fees (3 Years):** ~₹3.3 Lakhs
 - **Average Placement Package:** ₹4.5 LPA
@@ -120,37 +120,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

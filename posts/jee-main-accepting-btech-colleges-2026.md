@@ -84,7 +84,7 @@ Many states have scrapped their own entrance exams and completely rely on JEE Ma
 ### 1. JAC Delhi (Delhi Government Colleges)
 Some of the absolute best engineering colleges in India take admission via JEE Main through JAC Counseling:
 - **Delhi Technological University (DTU)**
-- **Netaji Subhas University of Technology (NSUT)**
+- **[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)**
 - **Indraprastha Institute of Information Technology (IIIT Delhi)**
 - **IGDTUW** (For Women)
 
@@ -134,7 +134,7 @@ An elite institute dedicated to Information and Communication Technology with ph
 A rapidly growing private institute that rivals newer NITs in terms of coding culture and placement statistics.
 - **Admission:** Direct application using JEE Main score.
 
-### 6. [Amity University, Noida](/colleges/amity-university-noida) / [Bennett University](/colleges/bennett-greater-noida) / Galgotias University
+### 6. [Amity University, Noida](/colleges/amity-university-noida) / [Bennett University](/colleges/bennett-greater-noida) / [Galgotias University](/colleges/galgotias-university)
 These mega-universities offer direct admission opportunities and scholarships based on your JEE Main percentile.
 
 ---
@@ -172,37 +172,14 @@ Computer Science and Engineering (CSE), along with emerging fields like Artifici
 B.Tech (Bachelor of Technology) is generally more practical and application-oriented, whereas B.E. (Bachelor of Engineering) tends to focus more on theoretical concepts and foundation sciences.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -90,7 +90,7 @@ Used primarily to cross the "glass ceiling" into Director or VP roles.
 | **Chandigarh University Online** | ₹1.3 Lakhs | ✅ Yes (Virtual Job Fair) | **9 – 12 Months** |
 | **Manipal University Online** | ₹1.7 Lakhs | ✅ Yes (Industry Ties) | **10 – 13 Months** |
 | **[Amity University](/colleges/amity-noida) Online** | ₹2.2 Lakhs | ✅ Yes (Strong Portal) | **11 – 14 Months** |
-| **Jain University Online** | ₹1.5 Lakhs | ✅ Yes (Tech Roles) | **8 – 11 Months** |
+| **[Jain University](/colleges/jain-university) Online** | ₹1.5 Lakhs | ✅ Yes (Tech Roles) | **8 – 11 Months** |
 
 [InquiryCard title="Calculate Your Personal ROI" description="Want to know how much your salary could increase based on your current profile? Share your details with Mohit Jain for an objective ROI assessment." cta="Get Free Profile Review" type="counseling"]
 
@@ -101,36 +101,13 @@ Used primarily to cross the "glass ceiling" into Director or VP roles.
 - [How to Verify if an Online MBA is UGC-Entitled and AICTE-Approved](/blog/how-to-verify-online-mba-ugc-entitled-aicte-approved)
 - [Do Top Employers Value Online MBAs the Same as On-Campus Degrees?](/blog/do-top-employers-value-online-mbas-same-as-on-campus-degrees)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

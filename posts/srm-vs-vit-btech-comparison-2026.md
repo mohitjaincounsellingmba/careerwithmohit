@@ -293,13 +293,7 @@ Still confused between SRM and VIT? Your ideal college depends on your **VITEEE/
 - [B.Tech Admission Without JEE 2026 – All Options](/blog/btech-admission-without-jee-2026-all-options)
 - [Best B.Tech Colleges India 2026 – Complete NIRF Ranking](/blog/best-btech-colleges-india-2026)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 ---
 
@@ -318,27 +312,10 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 ---
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

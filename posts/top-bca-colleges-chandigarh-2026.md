@@ -47,7 +47,7 @@ Whether you want the prestige of Panjab University or the corporate-driven vibes
 | **Panjab University (PU)** | PUCET / Merit | ₹1.2 - 1.8 Lakhs | ₹4.5 - 6.5 LPA |
 | **GGDSD College (SD College)**| Merit-based | ₹1.8 - 2.4 Lakhs | ₹4.2 - 6.0 LPA |
 | **Chandigarh University (CU)**| CUCET | ₹3.5 - 5.0 Lakhs | ₹4.8 - 7.5 LPA |
-| **Chitkara University** | Merit-based | ₹3.8 - 5.5 Lakhs | ₹4.5 - 7.0 LPA |
+| **[Chitkara University](/colleges/chitkara-university)** | Merit-based | ₹3.8 - 5.5 Lakhs | ₹4.5 - 7.0 LPA |
 | **DAV College (Sector 10)** | Merit-based | ₹1.5 - 2.2 Lakhs | ₹3.8 - 5.2 LPA |
 | **MCM DAV (Women)** | Merit-based | ₹1.4 - 2.0 Lakhs | ₹3.5 - 5.0 LPA |
 | **Chandigarh Group (CGC)** | Merit-based | ₹2.8 - 3.5 Lakhs | ₹3.5 - 5.5 LPA |
@@ -121,37 +121,14 @@ Chandigarh offers discipline and branding. Don't waste your precious 3 years at 
 
 [👉 Book My Chandigarh BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

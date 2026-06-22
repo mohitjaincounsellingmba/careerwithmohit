@@ -77,7 +77,7 @@ For an MCA student, Kolkata offers distinct benefits:
 ## 🏗️ Direct MCA Admission in Kolkata 2026
 
 If you miss the WB JECA dates, several reputable colleges offer merit-based direct entry:
-- **Techno India Group:** A massive conglomerate with multiple campuses and a centralized placement cell.
+- **[Techno India Group](/colleges/techno-india-group):** A massive conglomerate with multiple campuses and a centralized placement cell.
 - **Brainware University:** Focuses on job-ready skills and affordable private MCA programs.
 - **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU):** A growing brand in New Town with high-end labs and industry tie-ups.
 
@@ -114,37 +114,14 @@ Kolkata offers value and excellence. Don't waste your years at a college without
 
 [👉 Book My Kolkata MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

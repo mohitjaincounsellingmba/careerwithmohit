@@ -44,12 +44,12 @@ This list includes colleges that offer a specialized MBA in Digital Marketing or
 | College Name | Location | Approx. Fees (2 Years) | Admission Mode |
 | :--- | :--- | :--- | :--- |
 | **[Amity University](/colleges/amity-noida)** | Noida, Delhi NCR | ₹12.50 Lakhs | Direct / Interview |
-| **Jain University** | Bangalore | ₹9.80 Lakhs | JET / Direct |
+| **[Jain University](/colleges/jain-university)** | Bangalore | ₹9.80 Lakhs | JET / Direct |
 | **[GIBS Business School](/colleges/gibs-bangalore)** | Bangalore | ₹8.25 Lakhs | Profile Based / Direct |
 | **ITM Business School** | Mumbai/Navi Mumbai | ₹12.45 Lakhs | Direct / Profile |
 | **LPU (Lovely Professional Univ)**| Phagwara, Punjab | ₹7.60 Lakhs | LPUNEST / Direct |
 | **Parul University** | Vadodara, Gujarat | ₹4.50 Lakhs | Direct Admission |
-| **Galgotias University** | Greater Noida | ₹4.20 Lakhs | Merit Based / Direct |
+| **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | ₹4.20 Lakhs | Merit Based / Direct |
 | **NIU (Noida International Univ)**| Greater Noida | ₹3.80 Lakhs | Direct Admission |
 | **CMR University** | Bangalore | ₹6.00 Lakhs | Direct Admission |
 | **IIKM Business School** | Chennai | ₹5.50 Lakhs | Direct Admission |
@@ -123,37 +123,14 @@ A career counsellor helps students evaluate their strengths, interests, and care
 NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

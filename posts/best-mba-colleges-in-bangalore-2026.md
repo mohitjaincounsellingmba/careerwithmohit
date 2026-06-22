@@ -70,7 +70,7 @@ These institutions are at the top of the pyramid, known for their academic rigor
 ## Tier 2: Strong Corporate Network & ROI
 These colleges have established deep roots in the Bangalore corporate world.
 
-### 5. JAGSoM (Jagdish Sheth School of Management)
+### 5. JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))
 - **Fees:** ₹17.5 Lakhs
 - **Average Placement:** ₹10.9 LPA (Highest ₹51 LPA)
 - **Entrance Exam:** CAT, XAT, GMAT, MAT, NMAT
@@ -132,37 +132,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

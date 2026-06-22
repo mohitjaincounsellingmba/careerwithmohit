@@ -44,7 +44,7 @@ Here are the **Top BBA Colleges in Delhi for 2026**.
 - **Entrance Exam:** CUET (Common University Entrance Test)
 - **USP:** The "IIM of Undergraduate Management." Best ROI in India with placements matching top MBA colleges.
 
-### 2. Maharaja Agrasen Institute of Management Studies (MAIMS)
+### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
 - **Approx. Fees:** ₹1.0 - 1.2 Lakhs (Annual)
 - **Average Placement:** ₹4 - 6 LPA
 - **Entrance Exam:** GGSIPU CET / CUET
@@ -100,37 +100,14 @@ Some private colleges offer direct admission based on Class 12 marks, but top-ra
 
 [👉 Build My Delhi BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

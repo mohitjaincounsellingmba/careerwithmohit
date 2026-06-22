@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 // --- CONFIGURATION ---
-const NICHE_WEBSITE_URL = 'https://www.careerwithmohit.online/tools/mock-tests'; // Default placeholder, user can update
+const NICHE_WEBSITE_URL = '/mock-tests'; 
 const ANCHOR_TEXT = 'Explore Our Premium MBA Mock Test Series 2026';
 const SECTION_TITLE = '🚀 Boost Your Preparation';
 // ---------------------
@@ -28,8 +28,16 @@ function automateBacklinks() {
     const filePath = path.join(POSTS_DIR, file);
     let content = fs.readFileSync(filePath, 'utf8');
 
-    // Check if the link already exists
-    if (content.includes(NICHE_WEBSITE_URL)) {
+    // Check if the backlink already exists in any format
+    const hasBacklink = content.includes('Boost Your Preparation') ||
+                        content.includes('Explore Our Premium MBA Mock Test Series') ||
+                        content.includes('Explore Our Free Online Mock Test Series') ||
+                        content.includes('(/mock-tests)') ||
+                        content.includes('(/tools/mock-tests)') ||
+                        content.includes('(https://www.careerwithmohit.online/tools/mock-tests)') ||
+                        content.includes('(https://www.careerwithmohit.online/mock-tests)');
+
+    if (hasBacklink) {
       skippedCount++;
       return;
     }

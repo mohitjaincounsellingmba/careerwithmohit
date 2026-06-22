@@ -55,7 +55,7 @@ Formerly known as ITM Gurgaon, NCU is highly respected in the Delhi NCR region f
 *   **Estimated Fees**: ~₹10.5 Lakhs (Total).
 *   **Placement Highlight**: Excellent local tech-park placements, with nearly 90%+ students placed in reputed software firms.
 
-### **4. GD Goenka University**
+### **4. [GD Goenka University](/colleges/gd-goenka-university)**
 With a beautiful 60-acre campus against the backdrop of the Aravalli hills, GD Goenka offers a variety of specialized engineering courses in collaboration with international institutions.
 *   **Entrance Exam**: JEE Main, Goenka Aptitude Test for Admission (GATA).
 *   **Estimated Fees**: ₹8 - ₹10 Lakhs (Total).
@@ -114,37 +114,14 @@ Computer Science and Engineering (CSE), along with emerging fields like Artifici
 B.Tech (Bachelor of Technology) is generally more practical and application-oriented, whereas B.E. (Bachelor of Engineering) tends to focus more on theoretical concepts and foundation sciences.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

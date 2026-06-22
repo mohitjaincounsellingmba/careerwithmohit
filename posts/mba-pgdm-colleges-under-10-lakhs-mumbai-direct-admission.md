@@ -48,7 +48,7 @@ IES MCRC is another stellar choice that consistently outranks heavily advertised
 *   **Why Choose**: Solid reputation in Finance and Marketing roles, vast alumni network in Mumbai.
 *   **Admission Mode**: Valid scores prioritized,, but profile-based institute-level admissions are available.
 
-### **4. Atharva Institute of Management Studies (AIMS), Malad**
+### **4. Atharva [Institute of Management Studies](/colleges/institute-of-management-studies) (AIMS), Malad**
 For students looking for a very budget-friendly option without compromising the Mumbai experience, Atharva is an elite choice.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹6.50 Lakhs
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA
@@ -68,42 +68,19 @@ Yes. Your mode of admission is strictly administrative. The placement cell does 
 Finance and Marketing reign supreme in Mumbai due to the sheer concentration of banks, PE firms, and FMCG headquarters. Operations/SCM is also growing rapidly due to the port and logistics expansion in Navi Mumbai.
 
 **Explore More Insights:**
-*   [👉 Unbiased Reviews: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Unbiased Reviews: Why Never Join [Galgotias University](/colleges/galgotias-university) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 *   [👉 Confused between PGDM and MMS? Get Your Free Profile Audit!](/inquiry)
 
 *At **CareerWithMohit**, we cut out the noise. Don't fall for flashy advertisements. Stick to the legacy names that deliver real placements.*
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

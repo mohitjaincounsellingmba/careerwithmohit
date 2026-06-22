@@ -74,13 +74,13 @@ Private colleges, specifically those affiliated with Guru Gobind Singh Indrapras
 - **Why it’s top-ranked:** Amity offers a hyper-modern campus with its own fully functional community radio station and massive production studios. It is ideal for students looking for global exposure and high-end infrastructure.
 - **Placements:** Great push for PR, advertising, and corporate communications.
 
-### 3. Jagan Institute of Management Studies (JIMS), Vasant Kunj
+### 3. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS), Vasant Kunj
 - **Why it’s top-ranked:** Affiliated with IP University, JIMS Vasant Kunj is renowned for its excellent faculty and strong media connections, ensuring high-quality internships for its students.
 
 ### 4. [Trinity Institute of Professional Studies](/colleges/trinity-institute-of-professional-studies-delhi) (TIPS), Dwarka
 - **Why it’s top-ranked:** Another heavy hitter under IP University, known for practical journalism and high success rates in placements.
 
-### 5. Galgotias University & [Sharda University](/colleges/sharda-greater-noida) (Greater Noida)
+### 5. [Galgotias University](/colleges/galgotias-university) & [Sharda University](/colleges/sharda-greater-noida) (Greater Noida)
 - **Why it’s top-ranked:** These major private universities offer holistic mass communication programs focusing not just on traditional media, but on digital marketing, podcasting, and new-age influencer management.
 
 ---
@@ -133,37 +133,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

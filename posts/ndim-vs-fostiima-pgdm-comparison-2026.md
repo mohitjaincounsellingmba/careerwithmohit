@@ -26,7 +26,7 @@ faqs:
     answer: "Yes, both NDIM and FOSTIIMA offer PGDM programs that are AIU-approved and recognized as equivalent to an MBA in India and abroad.\n\n[\U0001F449 Compare NDIM, FOSTIIMA, and JIMS Here!](/tools/college-comparison)\n\n**Still Deciding?**\nAt **CareerWithMohit**, we know that percentiles don't define your future—your choice of college does. Let us help you pick between NDIM's legacy and FOSTIIMA's growth.\n\n[\U0001F449 Get Expert MBA Admission Guidance!](/inquiry)"
 ---
 
-For MBA aspirants scoring in the **60 to 75 percentile range**, Delhi offers two strong contenders: the **New Delhi Institute of Management (NDIM)** and **FOSTIIMA Business School**. While FOSTIIMA is a rising star founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, NDIM remains the undisputed heavyweight champion in terms of awards, legacy, and industry recognition.
+For MBA aspirants scoring in the **60 to 75 percentile range**, Delhi offers two strong contenders: the **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** and **FOSTIIMA Business School**. While FOSTIIMA is a rising star founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, NDIM remains the undisputed heavyweight champion in terms of awards, legacy, and industry recognition.
 
 In this 2026-28 batch comparison, we breakdown why NDIM's premium positioning and FOSTIIMA's aggressive placement model are the two choices you need to weigh.
 
@@ -85,37 +85,14 @@ At **CareerWithMohit**, we know that percentiles don't define your future—your
 
 [👉 Get Expert MBA Admission Guidance!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

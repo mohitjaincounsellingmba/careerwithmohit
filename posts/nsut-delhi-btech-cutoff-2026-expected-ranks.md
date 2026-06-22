@@ -29,7 +29,7 @@ faqs:
       candidates from Delhi often get branches under 1.5 Lakh rank.
 ---
 
-**Netaji Subhas University of Technology (NSUT)**, formerly known as NSIT, is one of the most prestigious engineering institutions in India. Located in Dwarka, New Delhi, NSUT is renowned for its exceptional placement records, especially in the tech and software sectors. Along with DTU and IIIT Delhi, it forms the "Golden Triangle" of engineering education in the national capital.
+**[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)**, formerly known as NSIT, is one of the most prestigious engineering institutions in India. Located in Dwarka, New Delhi, NSUT is renowned for its exceptional placement records, especially in the tech and software sectors. Along with DTU and IIIT Delhi, it forms the "Golden Triangle" of engineering education in the national capital.
 
 ### **NSUT Delhi B.Tech Admission Process 2026**
 Admissions to NSUT are conducted through the **Joint Admission Committee (JAC) Delhi** counselling process.
@@ -109,27 +109,3 @@ Need help with entrance exams? **[Explore Our Premium Mock Test Series](/mock-te
 
 
 Source: Shiksha.com
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

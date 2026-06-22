@@ -52,7 +52,7 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹4.2 LPA**
 - **Key Highlight:** Affiliated to CCS University, featuring consistent corporate linkages.
 
-### 3. KIET Group of Institutions (BBA)
+### 3. [KIET Group of Institutions](/colleges/kiet-ghaziabad) (BBA)
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** Merit / CUET
 - **Average Placement Package:** **₹4.0 LPA**
@@ -131,12 +131,3 @@ Most institutions in Ghaziabad accept scores from CUET-UG, state-level entrance 
 
 ### Is pursuing a BBA under 5 Lakhs in Ghaziabad a good choice?
 Yes, BBA programs under 5 Lakhs provide an exceptional Return on Investment (ROI). With moderate tuition fees, students can secure average placement packages ranging from 3 LPA to 6 LPA, facilitating a quick career start with minimal student debt.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

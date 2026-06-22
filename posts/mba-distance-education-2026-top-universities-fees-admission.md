@@ -202,7 +202,7 @@ IGNOU is India's largest public university. The MBA from IGNOU is recognized by 
 
 ### 8. BIMTECH Online — Distance PGDM
 
-BIMTECH (Birla Institute of Management Technology) Greater Noida offers a highly respected distance/online PGDM — one of the few AICTE-approved distance management programs from a premium B-school.
+BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology)) Greater Noida offers a highly respected distance/online PGDM — one of the few AICTE-approved distance management programs from a premium B-school.
 
 | Feature | Details |
 |---|---|
@@ -376,38 +376,15 @@ Many top-tier universities provide dedicated online placement portals, virtual j
 Yes, universities typically conduct online semester exams using AI-enabled or human-proctored systems to maintain academic integrity.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -48,7 +48,7 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹34.1 LPA**
 - **Key Highlight:** Legendary ROI, comparable to top IIMs at a fraction of the fee.
 
-### 2. Jamia Millia Islamia (JMI)
+### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
 - **Approximate Fees:** ₹47,000 (Total)
 - **Accepted Entrance Exams:** JMI Entrance Exam
 - **Average Placement Package:** **₹8.0 LPA**
@@ -66,13 +66,13 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹9.5 LPA**
 - **Key Highlight:** Strong engineering interface and tech-management ecosystem.
 
-### 5. JIMS Rohini (Jagannath Institute of Management Studies)
+### 5. JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies))
 - **Approximate Fees:** ₹8.7 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Fully AICTE approved PGDM program with strong corporate ties in North Delhi.
 
-### 6. Fortune Institute of International Business (FIIB)
+### 6. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)
 - **Approximate Fees:** ₹8.9 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹7.4 LPA**
@@ -141,28 +141,10 @@ Most state-affiliated and government colleges in Delhi accept scores from CAT, C
 
 ### Is pursuing an MBA under 10 Lakhs in Delhi worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 10 Lakhs and average placement packages ranging from 5 LPA to 12 LPA, graduates can recover their educational expenses in a very short duration.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

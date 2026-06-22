@@ -55,7 +55,7 @@ Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI g
 | **IISWBM** | CAT / MAT | ₹6.0 Lakhs | ₹8.5 LPA |
 | **Jadavpur University** | CAT / MAT | ₹0.50 Lakhs | ₹6.5 LPA |
 | **[Globsyn Business School](/colleges/globsyn-kolkata)**| CAT/MAT/CMAT | ₹8.5 Lakhs | ₹7.4 LPA |
-| **Heritage Business School**| MAT/CMAT/JEMAT | ₹6.5 Lakhs | ₹5.2 LPA |
+| **[Heritage Business School](/colleges/heritage-business-school)**| MAT/CMAT/JEMAT | ₹6.5 Lakhs | ₹5.2 LPA |
 | **Calcutta University** | JEMAT / CAT | ₹0.40 Lakhs | ₹5.0 LPA |
 
 ---
@@ -133,37 +133,14 @@ Kolkata offers branding that spans decades. Don't be fooled by shiny brochures. 
 
 [👉 Book My Kolkata Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

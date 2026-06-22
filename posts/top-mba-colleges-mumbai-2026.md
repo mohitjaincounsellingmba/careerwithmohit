@@ -62,7 +62,7 @@ Whether you are looking for the absolute best ROI (under ₹2 Lakhs fees) or a g
 
 Mumbai is famous for its high-ROI colleges where you pay less but earn like royalty.
 
-### 1. JBIMS (Jamnalal Bajaj Institute of Management Studies)
+### 1. JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
 Known as the **"CEO Factory of India."** Highly competitive.
 - **Why Choose It:** Almost zero tuition fee compared to IIMs, but placements are identical.
 - **Top Recruiters:** BCG, McKinsey, Morgan Stanley, HSBC.
@@ -130,37 +130,14 @@ Mumbai is competitive. Don't be just another applicant. Get Mohit's direct indus
 
 [👉 Get My Mumbai Shortlist Session](/inquiry) | [💬 Talk to Mohit Over WhatsApp](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

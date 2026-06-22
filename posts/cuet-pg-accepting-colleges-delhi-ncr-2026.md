@@ -62,7 +62,7 @@ A state university focused on social sciences, humanities, and management. It is
 ### **6. Top Private Universities in Delhi NCR**
 Several top-tier private universities in Noida, Greater Noida, and Gurugram also accept CUET PG scores for admissions into their MBA and other PG programs.
 *   **[Amity University](/colleges/amity-noida) (Noida/Gurugram)**
-*   **Galgotias University (Greater Noida)**
+*   **[Galgotias University](/colleges/galgotias-university) (Greater Noida)**
 *   **[Sharda University](/colleges/sharda-greater-noida) (Greater Noida)**
 *   **[BML Munjal University](/colleges/bml-munjal-gurgaon) (Gurugram)**
 *   **K.R. Mangalam University (Gurugram)**
@@ -102,37 +102,14 @@ Yes, attempting mock tests helps candidates build speed and accuracy, understand
 Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candidates should avoid guessing to maintain accuracy and prevent score drops.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

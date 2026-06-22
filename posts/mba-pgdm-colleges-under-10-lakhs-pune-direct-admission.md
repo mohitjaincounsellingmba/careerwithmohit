@@ -41,7 +41,7 @@ The Indira Group is an absolute giant in Pune's management education scene, offe
 *   **Why Choose**: Tremendous brand value in Maharashtra, top-tier recruiters like Deloitte, HDFC, and TCS, excellent campus life.
 *   **Admission Mode**: Institute-level seats available for direct admission/management quota.
 
-### **3. Lexicon Management Institute of Leadership & Excellence (Lexicon MILE)**
+### **3. [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (Lexicon MILE)**
 Lexicon MILE has gained massive popularity for its global approach to PGDM and dual-degree programs.
 *   **Total Fees (Approx.)**: ₹8.50 - ₹9.50 Lakhs
 *   **Average Placement**: ₹7.0 LPA - ₹8.5 LPA
@@ -75,37 +75,14 @@ Absolutely not. Companies recruit based on skills, communication, and aptitude. 
 
 *At **CareerWithMohit**, we break down the real ROI of Pune colleges so you don't overpay for an average degree.*
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -48,7 +48,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹15.0 LPA**
 - **Key Highlight:** One of the premier engineering institutions in India with a stellar ROI and tech environment.
 
-### 2. Netaji Subhas University of Technology (NSUT)
+### 2. [Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)
 - **Approximate Tuition Fees:** ₹6.6 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main (JAC Delhi)
 - **Average Placement Package:** **₹14.0 LPA**
@@ -72,7 +72,7 @@ These institutions keep their total program tuition fees under ₹10 Lakhs while
 - **Average Placement Package:** **₹7.0 LPA**
 - **Key Highlight:** Reputed IPU college offering clean infrastructure and great academic support in West Delhi.
 
-### 6. Jamia Millia Islamia (JMI)
+### 6. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
 - **Approximate Tuition Fees:** ₹64,000 (Total)
 - **Accepted Entrance Exams:** JEE Main
 - **Average Placement Package:** **₹9.5 LPA**
@@ -147,12 +147,3 @@ Most government-aided and state university affiliated engineering colleges in De
 
 ### Is pursuing a B.Tech under 10 Lakhs in Delhi worth it?
 Absolutely. Pursuing a B.Tech under a total tuition budget of 10 Lakhs offers an exceptional Return on Investment (ROI). With moderate fees and average starting salaries ranging from 4.5 LPA to 12 LPA, most students can recover their educational expenses within 1 to 2 years of graduation.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

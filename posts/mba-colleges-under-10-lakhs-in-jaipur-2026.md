@@ -42,13 +42,13 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹10 Lakhs (either total or annual, fitting well within a moderate budget) while offering solid placement opportunities.
 
-### 1. Jaipuria Institute of Management, Jaipur
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Jaipur
 - **Approximate Fees:** ₹9.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹7.4 LPA**
 - **Key Highlight:** Premium PGDM institute with high-profile corporate placements and national ranking.
 
-### 2. Taxila Business School
+### 2. [Taxila Business School](/colleges/taxila-jaipur)
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CMAT / MAT / CAT
 - **Average Placement Package:** **₹12.0 LPA**
@@ -60,13 +60,13 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹6.5 LPA**
 - **Key Highlight:** State-of-the-art campus infrastructure and excellent placement support.
 
-### 4. IIHMR University
+### 4. [IIHMR University](/colleges/iihmr-university)
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.8 LPA**
 - **Key Highlight:** Top healthcare and hospital management institute in India.
 
-### 5. JECRC University
+### 5. [JECRC University](/colleges/jecrc-jaipur)
 - **Approximate Fees:** ₹3.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹5.0 LPA**
@@ -80,7 +80,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Jaipuria Institute of Management, Jaipur** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹7.4 LPA** |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Jaipur** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹7.4 LPA** |
 | **Taxila Business School** | CMAT / MAT / CAT | ₹9.0 Lakhs (Total) | **₹12.0 LPA** |
 | **Manipal University, Jaipur** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹6.5 LPA** |
 | **IIHMR University** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.8 LPA** |
@@ -134,28 +134,10 @@ Most state-affiliated and government colleges in Jaipur accept scores from CAT, 
 
 ### Is pursuing an MBA under 10 Lakhs in Jaipur worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 10 Lakhs and average placement packages ranging from 5 LPA to 12 LPA, graduates can recover their educational expenses in a very short duration.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -120,28 +120,10 @@ Most state-affiliated and government colleges in Bhopal accept scores from CAT, 
 
 ### Is pursuing an MBA under 10 Lakhs in Bhopal worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 10 Lakhs and average placement packages ranging from 5 LPA to 12 LPA, graduates can recover their educational expenses in a very short duration.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -54,7 +54,7 @@ These institutions keep tuition fees under ₹5 Lakhs (either total or annual, f
 - **Average Placement Package:** **₹5.0 LPA**
 - **Key Highlight:** Vibrant campus in Hennur with excellent business lab setup.
 
-### 3. PES University (Subsidized Quota)
+### 3. [PES University](/colleges/pes-university) (Subsidized Quota)
 - **Approximate Fees:** ₹4.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** Karnataka PGCET / PESSAT
 - **Average Placement Package:** **₹6.5 LPA**
@@ -120,28 +120,10 @@ Most state-affiliated and government colleges in Bangalore accept scores from CA
 
 ### Is pursuing an MBA under 5 Lakhs in Bangalore worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 5 Lakhs and average placement packages ranging from 4 LPA to 8 LPA, graduates can recover their educational expenses in less than a year.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

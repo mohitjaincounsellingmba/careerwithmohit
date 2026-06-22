@@ -41,7 +41,7 @@ Here are the **Top BBA Colleges in Chandigarh and its vicinity for 2026**.
 - **Entrance Exam:** CUCET (Mandatory for Scholarships)
 - **USP:** Massive campus, diverse student body, and highest number of recruiters in the region.
 
-### 2. Chitkara University
+### 2. [Chitkara University](/colleges/chitkara-university)
 - **Approx. Fees:** ₹1.2 - 1.8 Lakhs (Annual)
 - **Average Placement:** ₹4 - 5 LPA
 - **Entrance Exam:** Merit-based / Personal Interview
@@ -96,37 +96,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

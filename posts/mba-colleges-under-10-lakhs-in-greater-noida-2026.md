@@ -45,19 +45,19 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹10 Lakhs (either total or annual, fitting well within a moderate budget) while offering solid placement opportunities.
 
-### 1. GNIOT Institute of Management Studies (GIMS)
+### 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.8 LPA**
 - **Key Highlight:** Fully AICTE approved PGDM program located in Knowledge Park II.
 
-### 2. Galgotias University (MBA Program)
+### 2. [Galgotias University](/colleges/galgotias-university) (MBA Program)
 - **Approximate Fees:** ₹4.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CUET-PG / CMAT
 - **Average Placement Package:** **₹5.2 LPA**
 - **Key Highlight:** Highly vibrant campus life with substantial recruiter base and modern infrastructure.
 
-### 3. GL Bajaj Institute of Technology and Management
+### 3. [GL Bajaj Institute of Technology and Management](/colleges/gl-bajaj-greater-noida)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** UPSEE / CMAT / CAT
 - **Average Placement Package:** **₹6.0 LPA**
@@ -130,28 +130,10 @@ Most state-affiliated and government colleges in Greater Noida accept scores fro
 
 ### Is pursuing an MBA under 10 Lakhs in Greater Noida worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 10 Lakhs and average placement packages ranging from 5 LPA to 12 LPA, graduates can recover their educational expenses in a very short duration.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

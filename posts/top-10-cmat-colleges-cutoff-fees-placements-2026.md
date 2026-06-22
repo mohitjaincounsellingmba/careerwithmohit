@@ -64,7 +64,7 @@ Here is the **definitive list of top 10 CMAT colleges in 2026**, their expected 
 
 ## 🏛️ Detailed College Profiles
 
-### 1. JBIMS — Jamnalal Bajaj Institute of Management Studies, Mumbai
+### 1. JBIMS — Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies), Mumbai
 
 **CMAT Cutoff:** 99.99+ Percentile  
 **Total Fees:** ₹6–7 Lakhs (Government-aided)  
@@ -169,7 +169,7 @@ NIBM is a **specialized banking and finance institute** backed by the Reserve Ba
 
 ---
 
-### 8. BIMTECH — Birla Institute of Management Technology, Greater Noida
+### 8. BIMTECH — [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology), Greater Noida
 
 **CMAT Cutoff:** 85–90+ Percentile  
 **Total Fees:** ₹14–16 Lakhs  
@@ -281,37 +281,14 @@ For top-tier colleges in Maharashtra, CMAT is the gateway exam. MAT is better fo
 
 [👉 Book a Free CMAT College Selection Session](/inquiry) | [💬 Chat on WhatsApp](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

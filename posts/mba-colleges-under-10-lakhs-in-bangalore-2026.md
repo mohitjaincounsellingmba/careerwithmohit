@@ -55,19 +55,19 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 - **Average Placement Package:** **₹6.8 LPA**
 - **Key Highlight:** Vibrant campus in Hennur with excellent business lab setup.
 
-### 3. ISBR Business School
+### 3. [ISBR Business School](/colleges/isbr-bangalore)
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / PGCET
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Award-winning campus in Electronic City with global partnerships.
 
-### 4. Indus Business Academy (IBA)
+### 4. [Indus Business Academy (IBA)](/colleges/iba-bangalore)
 - **Approximate Fees:** ₹9.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹7.8 LPA**
 - **Key Highlight:** Beautiful residential campus focusing on analytical and strategic thinking.
 
-### 5. Acharya Bangalore B-School (ABBS)
+### 5. [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school) (ABBS)
 - **Approximate Fees:** ₹8.9 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / PGCET
 - **Average Placement Package:** **₹7.2 LPA**
@@ -83,8 +83,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Canara Bank School of Management Studies, Bangalore University** | Karnataka PGCET | ₹1.5 Lakhs (Total) | **₹6.0 LPA** |
 | **Kristu Jayanti College (MBA)** | KMAT / PGCET / MAT | ₹8.5 Lakhs (Total) | **₹6.8 LPA** |
-| **ISBR Business School** | MAT / CMAT / PGCET | ₹9.0 Lakhs (Total) | **₹7.5 LPA** |
-| **Indus Business Academy (IBA)** | CAT / XAT / CMAT / MAT | ₹9.5 Lakhs (Total) | **₹7.8 LPA** |
+| **[ISBR Business School](/colleges/isbr-business-school)** | MAT / CMAT / PGCET | ₹9.0 Lakhs (Total) | **₹7.5 LPA** |
+| **[Indus Business Academy](/colleges/indus-business-academy) (IBA)** | CAT / XAT / CMAT / MAT | ₹9.5 Lakhs (Total) | **₹7.8 LPA** |
 | **Acharya Bangalore B-School (ABBS)** | MAT / CMAT / PGCET | ₹8.9 Lakhs (Total) | **₹7.2 LPA** |
 
 ---
@@ -135,28 +135,10 @@ Most state-affiliated and government colleges in Bangalore accept scores from CA
 
 ### Is pursuing an MBA under 10 Lakhs in Bangalore worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 10 Lakhs and average placement packages ranging from 5 LPA to 12 LPA, graduates can recover their educational expenses in a very short duration.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

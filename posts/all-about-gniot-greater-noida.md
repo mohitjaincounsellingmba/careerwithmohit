@@ -69,7 +69,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is GNIOT good for PGDM?
-Yes, the GIMS (GNIOT Institute of Management Studies) PGDM is highly rated for its focus on 4.0 Industry skills, including certifications in Python, Tableau, and Advanced Excel.
+Yes, the GIMS (GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)) PGDM is highly rated for its focus on 4.0 Industry skills, including certifications in Python, Tableau, and Advanced Excel.
 
 ### 2. Does GNIOT accept MAT scores?
 Yes, GNIOT accepts MAT, CMAT, CAT, and XAT scores. Students can also appear for their internal GAT (GNIOT Aptitude Test) for scholarship eligibility.
@@ -83,37 +83,14 @@ With fees around ₹9 Lakhs and an average package between ₹7–8 LPA, student
 
 [👉 Apply to GNIOT](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -52,7 +52,7 @@ These institutions keep tuition fees under ₹5 Lakhs (either total program fee 
 - **Average Placement Package:** **₹3.0 LPA - ₹4.2 LPA**
 - **Key Highlight:** Affordable education catering to local students with standard graduate facilities.
 
-### 3. Mysore Institute of Management Studies (CIMS)
+### 3. Mysore [Institute of Management Studies](/colleges/institute-of-management-studies) (CIMS)
 - **Approximate Fees:** ₹1.2 Lakhs - ₹1.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET / Institute Merit
 - **Average Placement Package:** **₹3.5 LPA - ₹4.5 LPA**
@@ -124,12 +124,3 @@ Most institutions in Mysore accept scores from CUET-UG, state-level entrance exa
 
 ### Is pursuing a BBA under 5 Lakhs in Mysore a good choice?
 Yes, BBA programs under 5 Lakhs provide an exceptional Return on Investment (ROI). With moderate tuition fees, students can secure average placement packages ranging from 3 LPA to 6 LPA, facilitating a quick career start with minimal student debt.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

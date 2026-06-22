@@ -128,7 +128,7 @@ When filling your choices, prioritize the colleges based on cutoffs, placements,
 1. **USMS Dwarka (University Main Campus)** — Best ROI (Fees ~₹2.4 Lakhs, Avg package ~₹9-10 LPA).
 2. **USMS East Campus (Surajmal Vihar)** — Highly modern infrastructure, great for entrepreneurship and analytics.
 3. **Maharaja Agrasen Institute of Technology (MAIT), Rohini** — Top private affiliate (Avg package ~₹7.5 - 8.5 LPA).
-4. **[Jagan Institute of Management Studies (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)** — Highly corporate-connected (Avg package ~₹7.5 - 9 LPA).
+4. **[Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)** — Highly corporate-connected (Avg package ~₹7.5 - 9 LPA).
 5. **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi), Janakpuri** — Strong academic record and decent placements.
 
 For a deeper dive into these colleges, check out our honest review of [IPU MBA Colleges Review & Cutoff 2026](/blog/ggsipu-mba-colleges-expected-cut-off-fees-placements-pros-cons-2026).
@@ -158,49 +158,20 @@ No. GGSIPU CET is only conducted to fill vacant seats left after CAT and CMAT ro
 
 ---
 
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
-
----
-
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like FMS Delhi have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
 
 ### What is the difference between an MBA and a PGDM?
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

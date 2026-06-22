@@ -52,7 +52,7 @@ The United States of America remains the **#1 study abroad destination** for Ind
 | Johns Hopkins University | Baltimore, Maryland | Engineering – PG | ₹49,80,000 |
 | Arizona State University | Tempe, Arizona & LA | UG & Graduate | ₹27,30,000 |
 | UMass Amherst | Amherst, Massachusetts | Masters Programs | ₹30,70,000 |
-| Chitkara University & Arizona State | Chandigarh → Arizona | BE – Computer Science | ₹15,00,000 |
+| [Chitkara University](/colleges/chitkara-university) & Arizona State | Chandigarh → Arizona | BE – Computer Science | ₹15,00,000 |
 | University of California, Riverside | Riverside, California | Business & Engineering | ₹36,50,000 |
 | Virginia Tech Language & Culture | Blacksburg, Virginia | UG and PG Pathways | ₹26,50,000 |
 | University of South Florida | Tampa, FL | UG only | ₹14,50,000 |
@@ -230,37 +230,14 @@ A career counsellor helps students evaluate their strengths, interests, and care
 NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

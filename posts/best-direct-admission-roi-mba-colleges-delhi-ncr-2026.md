@@ -81,21 +81,21 @@ If you are looking for an affordable PGDM program, GL Bajaj is a dominant player
 - **Why it has High ROI:** The fees are extremely competitive, yet it attracts major IT and corporate recruiters from Noida and Gurgaon.
 - **Admission Mode:** Direct admission is available through management quota.
 
-### 4. NDIM (New Delhi Institute of Management), Delhi
+### 4. NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)), Delhi
 NDIM is renowned for its industry linkage and having one of the largest corporate mentoring panels in India.
 - **Estimated Tuition Fee:** ₹13.85 Lakhs
 - **Average Placement:** ₹9.50 – ₹10.00 Lakhs
 - **Why it has High ROI:** Consistent placements and heavy recruitment by Finance and Marketing giants. 
 - **Admission Mode:** A dedicated percentage of seats is reserved for Management Quota.
 
-### 5. [FIIB (Fortune Institute of International Business), Delhi](/colleges/fiib-delhi)
+### 5. [FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/colleges/fiib-delhi)
 FIIB offers a robust curriculum focused on international business and sustainability.
 - **Estimated Tuition Fee:** ₹12.85 Lakhs
 - **Average Placement:** ₹8.50 – ₹9.00 Lakhs
 - **Why it has High ROI:** The quality of roles and long-term career growth in export/import and global MNCs makes it highly valuable.
 - **Admission Mode:** Direct admission screening available.
 
-### 6. Jaipuria Institute of Management, Noida
+### 6. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida
 A premium Tier-2 college with excellent infrastructure right in the heart of Noida's corporate sector.
 - **Estimated Tuition Fee:** ₹15.00 – ₹16.50 Lakhs
 - **Average Placement:** ₹11.50 Lakhs
@@ -145,37 +145,14 @@ It depends on the college. Some institutes charge a premium "donation" fee for M
 
 *Explore more at [careerwithmohit.online](https://www.careerwithmohit.online)*
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -156,7 +156,7 @@ Both campuses follow the same admission process:
 
 ### 🎓 Accreditation Snapshot
 
-| Body | XIME Bangalore | XIME Kochi |
+| Body | [XIME Bangalore](/colleges/xime-bangalore) | XIME Kochi |
 | :--- | :--- | :--- |
 | AICTE | ✅ | ✅ |
 | NBA | ✅ | ✅ |
@@ -225,37 +225,14 @@ A career counsellor helps students evaluate their strengths, interests, and care
 NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

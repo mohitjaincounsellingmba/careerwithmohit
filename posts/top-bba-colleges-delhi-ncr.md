@@ -56,7 +56,7 @@ Guru Gobind Singh Indraprastha University (GGSIPU) is a powerhouse for professio
 | :--- | :--- | :--- | :--- |
 | **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | Janakpuri | ₹1.1 Lakhs | ₹4.5 - 6 LPA |
 | **Maharaja Agrasen Institute (MAIMS)** | Rohini | ₹1.1 Lakhs | ₹4.5 - 5.5 LPA |
-| **Jagan Institute of Management Studies (JIMS)** | Rohini | ₹1.1 Lakhs | ₹4.2 - 5 LPA |
+| **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS)** | Rohini | ₹1.1 Lakhs | ₹4.2 - 5 LPA |
 | **IITM** | Janakpuri | ₹1.0 Lakhs | ₹3.5 - 4.5 LPA |
 
 - **Entrance Exam:** IPU CET (Primary) or CUET (for vacant seats).
@@ -137,37 +137,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

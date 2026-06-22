@@ -73,7 +73,7 @@ Ranked #1 among the private affiliated colleges of GGSIPU, MAIT is known for its
 * **Pros:** Highly disciplined academic environment, strong corporate relationships, and active campus placements.
 * **Cons:** The environment can feel highly academic and structured, somewhat like a school.
 
-### 3. [Jagan Institute of Management Studies (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+### 3. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
 JIMS Rohini is highly reputed for its corporate connections, industry-oriented pedagogy, and dedicated placement cell.
 * **Expected CAT Cut-off:** 68 - 75+ Percentile
 * **Expected CMAT Cut-off:** 86 - 90+ Percentile
@@ -133,7 +133,7 @@ Centrally located and well-connected by metro, Tecnia offers a good platform for
 * **Pros:** Metro connectivity, affordable fees, and active management events.
 * **Cons:** Average placement package is on the lower side; campus infrastructure is compact.
 
-### 9. Management Education & Research Institute (MERI), Janakpuri
+### 9. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri), Janakpuri
 MERI Janakpuri is one of the oldest management institutes in West Delhi, offering a balanced MBA experience.
 * **Expected CAT Cut-off:** 45 - 50+ Percentile
 * **Expected CMAT Cut-off:** 65 - 70+ Percentile
@@ -216,36 +216,10 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 
 ### What is the difference between an MBA and a PGDM?
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

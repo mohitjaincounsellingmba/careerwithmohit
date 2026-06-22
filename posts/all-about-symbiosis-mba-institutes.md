@@ -146,7 +146,7 @@ India's leading institute for management careers in Telecom, IT, and Digital tec
 * **Average Package:** ₹12.7 LPA - ₹13.08 LPA
 * **Highest Package:** ₹29.04 LPA
 
-### 12. SIMS, Pune (Symbiosis Institute of Management Studies)
+### 12. SIMS, Pune (Symbiosis [Institute of Management Studies](/colleges/institute-of-management-studies))
 **Note:** Primarily for dependents of Defence Personnel, with a small percentage of seats open to civilians.
 * **Expected SNAP Cutoff:** 76 - 80 Percentile
 * **MBA Fees:** ₹8 - ₹11 Lakhs (Tuition)
@@ -222,37 +222,14 @@ A career counsellor helps students evaluate their strengths, interests, and care
 NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

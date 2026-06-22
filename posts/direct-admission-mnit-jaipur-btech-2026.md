@@ -96,7 +96,7 @@ Cutoffs vary by branch, category, and quota (Home State — Rajasthan vs. Other 
 
 ---
 
-### **B.Tech Fee Structure at MNIT Jaipur (2025–2026)**
+### **B.Tech Fee Structure at [MNIT Jaipur](/colleges/mnit-jaipur) (2025–2026)**
 
 MNIT Jaipur fees are government-regulated and extremely affordable compared to private institutions:
 
@@ -184,13 +184,7 @@ If your JEE Main rank doesn't make the cut for MNIT Jaipur, consider these legit
 
 [👉 Book a Free Counselling Session with Mohit Jain!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 ---
 
@@ -209,27 +203,10 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 ---
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

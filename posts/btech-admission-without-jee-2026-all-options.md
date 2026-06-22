@@ -98,7 +98,7 @@ Top private universities conduct their own exams — **independent of JEE Main**
 | Manipal MIT | MU OET | ₹2.3 L | ₹7–12 LPA |
 | Amrita University | AEEE | ₹1.8 L | ₹6–10 LPA |
 | Chandigarh University | CUCET | ₹1.5 L | ₹5–9 LPA |
-| Chitkara University | Chitkara SEAT | ₹2.0 L | ₹5–9 LPA |
+| [Chitkara University](/colleges/chitkara-university) | Chitkara SEAT | ₹2.0 L | ₹5–9 LPA |
 | DAIICT Gandhinagar | DAIICT Entrance | ₹2.2 L | ₹10–18 LPA |
 | LPU (Lovely Professional) | LPUNEST | ₹1.8 L | ₹4–8 LPA |
 | [UPES Dehradun](/colleges/upes-dehradun) | UPESEAT / Board Merit | ₹2.5 L | ₹5–8 LPA |
@@ -186,37 +186,14 @@ VITEEE is considerably easier than JEE Main in terms of difficulty level. It is 
 
 **[👉 Confused about B.Tech admission without JEE? Get a FREE expert counselling session with Mohit!](/inquiry)**
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

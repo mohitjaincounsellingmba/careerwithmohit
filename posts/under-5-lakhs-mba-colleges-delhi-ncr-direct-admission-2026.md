@@ -55,13 +55,13 @@ Before looking at the colleges, it's important to clarify how "Direct Admission"
 
 Here are some of the most reputable institutions where the total tuition fee for the 2-year MBA/PGDM program sits comfortably under the ₹5 Lakh mark.
 
-### 1. GNIOT Institute of Management Studies (GIMS), Greater Noida
+### 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
 - **Approximate Fees:** ₹4.0 Lakh - ₹5.0 Lakh
 - **Status:** AICTE Approved, PGDM.
 - **Why Choose It:** GNIOT has heavily upgraded its infrastructure and placement cell. It attracts companies from various sectors offering decent median packages for freshers.
 - **Admission Route:** Standard admission via MAT/CMAT, with institute-level seats available for direct applicants based on merit.
 
-### 2. Galgotias University, Greater Noida
+### 2. [Galgotias University](/colleges/galgotias-university), Greater Noida
 - **Approximate Fees:** ~₹4.0 Lakh
 - **Why Choose It:** A massive campus with a deeply diverse student crowd from Bihar, UP, and Haryana. Excellent brand recall and massive placement drives.
 
@@ -70,7 +70,7 @@ Here are some of the most reputable institutions where the total tuition fee for
 - **Status:** Affiliated to AKTU.
 - **Why Choose It:** One of the most affordable MBA programs with decent regional connectivity. Great for those who want a formal MBA degree with minimal financial burden.
 
-### 4. Management Education & Research Institute (MERI), Janakpuri, Delhi
+### 4. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri), Janakpuri, Delhi
 - **Approximate Fees:** ~₹3.5 Lakh - ₹4.0 Lakh
 - **Status:** Affiliated to GGSIPU (IP University).
 - **Why Choose It:** Located right in the heart of Delhi, giving you fantastic access to urban corporate networking. While IPU primarily takes through IPU-CET/CAT/CMAT, management quota seats are applicable.
@@ -112,37 +112,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

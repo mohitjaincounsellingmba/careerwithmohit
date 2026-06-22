@@ -48,13 +48,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total or annual, f
 - **Average Placement Package:** **₹5.2 LPA**
 - **Key Highlight:** Affiliated to AKTU with a very strong corporate recruitment record.
 
-### 2. KIET Group of Institutions (MBA)
+### 2. [KIET Group of Institutions](/colleges/kiet-ghaziabad) (MBA)
 - **Approximate Fees:** ₹2.6 Lakhs (Total)
 - **Accepted Entrance Exams:** UPSEE / CMAT
 - **Average Placement Package:** **₹4.8 LPA**
 - **Key Highlight:** Highly ranked engineering and management campus in Ghaziabad.
 
-### 3. ABES Engineering College (Department of MBA)
+### 3. [ABES Engineering College](/colleges/abes-ghaziabad) (Department of MBA)
 - **Approximate Fees:** ₹2.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CMAT / Merit
 - **Average Placement Package:** **₹4.5 LPA**
@@ -120,28 +120,10 @@ Most state-affiliated and government colleges in Ghaziabad accept scores from CA
 
 ### Is pursuing an MBA under 5 Lakhs in Ghaziabad worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 5 Lakhs and average placement packages ranging from 4 LPA to 8 LPA, graduates can recover their educational expenses in less than a year.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

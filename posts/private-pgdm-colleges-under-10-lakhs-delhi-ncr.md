@@ -59,7 +59,7 @@ If you're hunting for high-value PGDM programs for the 2026-2028 batch, here are
 
 ---
 
-## 1. GNIOT Institute of Management Studies (GIMS), Greater Noida
+## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
 
 GIMS continues to emerge as a dominant player in Greater Noida, balancing an incredibly practical PGDM pedagogy with reasonable fees.
 
@@ -149,37 +149,14 @@ When evaluating PGDM programs under ₹10 Lakhs:
 **Confused about which budget B-school to pick?**
 [👉 Talk to our experts today](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -57,7 +57,7 @@ The Noida region is home to some of the largest private educational setups in In
 *   **Galgotias & Sharda:** Great for students looking for regular MA programs in Political Science, History, and Sociology with affordable fee structures compared to elite private schools.
 
 ### 2. Gurgaon (Gurugram): Corporate & Clinical Focus
-*   **GD Goenka University:** Their **MA in Counselling Psychology** is highly rated for its practical approach.
+*   **[GD Goenka University](/colleges/gd-goenka-university):** Their **MA in Counselling Psychology** is highly rated for its practical approach.
 *   **K.R. Mangalam University:** Offers a very flexible MA program with special emphasis on English and Economics.
 *   **SGT University:** A medical and research-heavy university that provides great exposure for MA students in Allied Health sciences and Mass Communication.
 
@@ -111,37 +111,14 @@ A career counsellor helps students evaluate their strengths, interests, and care
 NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

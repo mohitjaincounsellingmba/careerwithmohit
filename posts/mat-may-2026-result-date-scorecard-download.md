@@ -179,27 +179,3 @@ For more updates on MBA entrance exams and admissions, read:
 ### 🚀 Boost Your Score in the Next Session
 
 Not satisfied with your result? **[Explore Our Free MBA Mock Test Series](/mock-tests)** to practice for MAT September 2026 with real exam-pattern questions and detailed analytics.
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

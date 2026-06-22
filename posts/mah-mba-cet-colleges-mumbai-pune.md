@@ -65,7 +65,7 @@ Here is a comprehensive list of top colleges in Pune and Mumbai that accept the 
     *   **MAH CET Cutoff**: 80+ Percentile
     *   **Total Fees**: ₹10.80 Lakhs
     *   **Avg. Placement**: ₹8.75 LPA
-*   **Suryadatta Institute of Management (SIMMC)**
+*   **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) (SIMMC)**
     *   **MAH CET Cutoff**: 75-80 Percentile
     *   **Total Fees**: ₹7.50 Lakhs
     *   **Avg. Placement**: ₹5.50 LPA
@@ -73,7 +73,7 @@ Here is a comprehensive list of top colleges in Pune and Mumbai that accept the 
     *   **MAH CET Cutoff**: 70-75 Percentile
     *   **Total Fees**: ₹2.50 Lakhs
     *   **Avg. Placement**: ₹4.50 LPA
-*   **ASM Institute of Business Management and Research**
+*   **ASM [Institute of Business Management and Research](/colleges/institute-of-business-management-and-research)**
     *   **MAH CET Cutoff**: 80+ Percentile
     *   **Total Fees**: ₹4.80 Lakhs
     *   **Avg. Placement**: ₹5.00 LPA
@@ -89,7 +89,7 @@ Here is a comprehensive list of top colleges in Pune and Mumbai that accept the 
 Mumbai, the financial capital of India, is home to some of the highest-ranked B-schools in the country.
 
 ### Top Government / University Colleges
-*   **[Jamnalal Bajaj Institute of Management Studies (JBIMS)](/colleges/jbims-mumbai)**
+*   **[Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS)](/colleges/jbims-mumbai)**
     *   **MAH CET Cutoff**: 99.99 Percentile
     *   **Total Fees**: ₹6.50 Lakhs
     *   **Avg. Placement**: ₹28.00 LPA
@@ -155,37 +155,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

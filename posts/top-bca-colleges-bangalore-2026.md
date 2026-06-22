@@ -47,7 +47,7 @@ Choosing the right BCA college in Bangalore can determine whether you start as a
 | College | Entrance Exam | Total Fees | Avg. Placement |
 |---|---|---|---|
 | **Christ University (Main)**| CUET | ₹2.5 - 3.5 Lakhs | ₹4.5 - 6.5 LPA |
-| **Jain University (CMS)** | JET | ₹2.8 - 3.6 Lakhs | ₹4.0 - 6.0 LPA |
+| **[Jain University](/colleges/jain-university) (CMS)** | JET | ₹2.8 - 3.6 Lakhs | ₹4.0 - 6.0 LPA |
 | **MS Ramaiah (MSRCASC)** | Merit-based | ₹2.5 - 3.0 Lakhs | ₹3.5 - 5.5 LPA |
 | **St. Joseph's University** | SJU Entrance | ₹2.2 - 2.8 Lakhs | ₹3.5 - 5.0 LPA |
 | **Kristu Jayanti College** | Merit / Interview | ₹1.8 - 2.5 Lakhs | ₹3.2 - 4.8 LPA |
@@ -123,37 +123,14 @@ Bangalore is competitive. Don't waste your years at a college with zero placemen
 
 [👉 Book My Bangalore BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

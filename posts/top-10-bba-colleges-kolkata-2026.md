@@ -80,7 +80,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 10. Adamas University
+### 10. [Adamas University](/colleges/adamas-university)
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -134,36 +134,10 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 
 ### Which BBA specialization has the scope in 2026?
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
-
-
----
-
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
-
-Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

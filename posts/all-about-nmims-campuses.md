@@ -37,7 +37,7 @@ faqs:
       exposure.
 ---
 
-SVKM's Narsee Monjee Institute of Management Studies (NMIMS) is one of India's most respected deemed-to-be universities. With its flagship Mumbai campus consistently ranked among the top 25 B-Schools in the country and an expanding footprint across 8 cities, NMIMS is a powerhouse for MBA, PGDM, and professional education.
+SVKM's Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) is one of India's most respected deemed-to-be universities. With its flagship Mumbai campus consistently ranked among the top 25 B-Schools in the country and an expanding footprint across 8 cities, NMIMS is a powerhouse for MBA, PGDM, and professional education.
 
 Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoffs, specializations, rankings, and real student reviews for 2026 admissions:
 
@@ -402,37 +402,14 @@ NMIMS runs a partially centralized placement system. Students from newer campuse
 - [Best MBA Colleges in Bangalore 2026](/blog/best-mba-colleges-in-bangalore-2026)
 - [MBA vs PGDM: What's the Difference?](/blog/mba-vs-pgdm-difference)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

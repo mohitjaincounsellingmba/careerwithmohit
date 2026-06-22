@@ -45,7 +45,7 @@ For an MCA student, being in Bangalore means you are just a 20-minute drive away
 |---|---|---|---|
 | **RV College of Engg (RVCE)** | PGCET / KMAT | ₹2.5 - 3.5 Lakhs | ₹8.5 - 12.0 LPA |
 | **BMS College of Engg (BMSCE)**| PGCET / KMAT | ₹2.2 - 3.2 Lakhs | ₹7.5 - 10.5 LPA |
-| **PES University** | PESSAT / PGCET| ₹4.5 - 6.5 Lakhs | ₹7.0 - 11.0 LPA |
+| **[PES University](/colleges/pes-university)** | PESSAT / PGCET| ₹4.5 - 6.5 Lakhs | ₹7.0 - 11.0 LPA |
 | **M S Ramaiah (MSRIT)** | PGCET / KMAT | ₹2.4 - 3.4 Lakhs | ₹6.5 - 9.5 LPA |
 | **Christ University** | CUET | ₹3.5 - 4.5 Lakhs | ₹5.5 - 8.5 LPA |
 | **Dayananda Sagar (DSCE)** | PGCET / KMAT | ₹2.2 - 3.0 Lakhs | ₹5.0 - 8.0 LPA |
@@ -82,7 +82,7 @@ For an MCA student, Bangalore offers more than just a degree:
 
 If you miss the PGCET deadlines, several top-tier private universities offer merit-based direct entry:
 - **Alliance University:** Premium labs and global exposure.
-- **Presidency University:** Good technical pods with affordable private fees.
+- **[Presidency University](/colleges/presidency-university):** Good technical pods with affordable private fees.
 - **[Reva University](/colleges/reva-university-bangalore):** One of the fastest-growing private MCA campuses in North Bangalore.
 
 ---
@@ -118,37 +118,14 @@ Bangalore is the big league. Don't waste your years at a college with zero place
 
 [👉 Book My Bangalore MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

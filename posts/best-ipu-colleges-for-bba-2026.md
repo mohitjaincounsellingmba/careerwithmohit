@@ -42,7 +42,7 @@ MSI is widely regarded as the gold standard of IP University colleges. Located i
 - **Tuition Fee:** ~₹1.1 Lakhs per year.
 - **Key Feature:** Exceptional discipline and reliable campus placements in top corporate houses like Deloitte, EY, and PwC.
 
-### 2. Maharaja Agrasen Institute of Management Studies (MAIMS) - Rohini
+### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) - Rohini
 MAIMS is MSI's primary competitor. Located in Rohini, North-West Delhi, it features a sprawling campus with outstanding infrastructure and highly qualified faculty.
 - **Tuition Fee:** ~₹1.1 Lakhs per year.
 - **Key Feature:** Strong emphasis on industrial visits, corporate grooming, and management conferences.
@@ -52,7 +52,7 @@ VIPS is famous for its premium infrastructure, tech-enabled classrooms, and a hi
 - **Tuition Fee:** ~₹1.2 Lakhs per year.
 - **Key Feature:** Excellent extracurricular activities, student clubs, and soft skills training programs.
 
-### 4. Jagan Institute of Management Studies (JIMS) - Rohini
+### 4. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) - Rohini
 JIMS Rohini is a highly reputable boutique college that focuses heavily on industry-ready curricula and practical business projects.
 - **Tuition Fee:** ~₹1.2 Lakhs per year.
 - **Key Feature:** Excellent industry collaborations, frequent guest lectures, and dedicated career counseling.
@@ -132,37 +132,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

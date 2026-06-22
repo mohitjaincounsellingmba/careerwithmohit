@@ -52,7 +52,7 @@ According to industry reports, **90% of new software roles** now involve some le
 | College | Location | Specialization Focus | Avg. Package |
 |---|---|---|---|
 | **SICSR Pune** | Pune | Data Science & Cloud | ₹5.5 - 7.5 LPA |
-| **Jain University (SET)** | Bangalore | AI & Machine Learning | ₹5.0 - 7.0 LPA |
+| **[Jain University](/colleges/jain-university) (SET)** | Bangalore | AI & Machine Learning | ₹5.0 - 7.0 LPA |
 | **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | AI & Data Science | ₹5.5 - 8.5 LPA |
 | **MIT-WPU Pune** | Pune | AI & Data Analytics | ₹4.8 - 6.5 LPA |
 | **Alliance University** | Bangalore | Applied Data Science | ₹4.5 - 7.0 LPA |
@@ -113,37 +113,14 @@ AI is the biggest buzzword in 2026. Don't fall for a marketing trick. Mohit Jain
 
 [👉 Book My Data Science BCA Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

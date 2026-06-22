@@ -30,7 +30,7 @@ faqs:
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
 ---
-Lexicon Management Institute of Leadership & Excellence (MILE) is part of the Lexicon Group, which is known for its strong focus on "Leadership" and personalized learning. Its recent placement reports have put it on the map as a rising powerhouse.
+[Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (MILE) is part of the Lexicon Group, which is known for its strong focus on "Leadership" and personalized learning. Its recent placement reports have put it on the map as a rising powerhouse.
 
 ### **Quick Highlights (2025 Batch):**
 *   **Avg Placement**: ₹9.00 LPA (PGDM) | ₹30.00 LPA (Global MBA)
@@ -62,37 +62,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

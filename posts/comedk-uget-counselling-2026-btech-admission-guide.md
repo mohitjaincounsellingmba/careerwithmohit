@@ -52,9 +52,9 @@ faqs:
 1.  **RV College of Engineering (RVCE), Bangalore** - *Top Choice.*
 2.  **[M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore), Bangalore**.
 3.  **B.M.S. College of Engineering (BMSCE), Bangalore**.
-4.  **PES University, Bangalore**.
+4.  **[PES University](/colleges/pes-university), Bangalore**.
 5.  **[Dayananda Sagar College of Engineering (DSCE)](/colleges/dsce-bangalore), Bangalore**.
-6.  **Siddaganga Institute of Technology (SIT), Tumkur**.
+6.  **[Siddaganga Institute of Technology](/colleges/siddaganga-institute-of-technology) (SIT), Tumkur**.
 7.  **[Bangalore Institute of Technology (BIT)](/colleges/bit-bangalore), Bangalore**.
 
 ### **Step-by-Step COMEDK Online Counselling Procedure**
@@ -86,37 +86,14 @@ KCET is for Karnataka residents (for both government and private seats), while C
 RV College of Engineering (RVCE) Bangalore is consistently ranked as the #1 preference.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

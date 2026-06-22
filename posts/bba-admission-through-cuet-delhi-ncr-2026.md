@@ -68,7 +68,7 @@ Guru Gobind Singh Indraprastha University accepts CUET scores for BBA admissions
 ### 3. Renowned Private Universities
 - **[BML Munjal University](/colleges/bml-munjal-gurgaon), Gurgaon:** Accepts CUET UG scores for direct entry and scholarship allocations.
 - **[Bennett University](/colleges/bennett-greater-noida), Greater Noida:** Uses CUET scores alongside Class 12 merit.
-- **Galgotias University, Greater Noida:** Popular private college accepting CUET.
+- **[Galgotias University](/colleges/galgotias-university), Greater Noida:** Popular private college accepting CUET.
 
 ---
 
@@ -123,37 +123,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

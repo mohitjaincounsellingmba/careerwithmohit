@@ -48,7 +48,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 *   **[FORE School of Management](/colleges/fore-school-delhi)**: NIRF #63 | Avg Placement: ₹16.4 LPA | Fees: ₹20.7 Lakhs
 *   **BIMTECH Greater Noida**: NIRF #55 | Avg Placement: ₹10.74 LPA | Fees: ₹16.0 Lakhs
 *   **LBSIM Delhi**: NIRF #100-125 | Avg Placement: ₹12.25 LPA | Fees: ₹17.25 Lakhs
-*   **Jaipuria Institute of Management, Noida**: NIRF #41 | Avg Placement: ₹11.1 LPA | Fees: ₹15.75 Lakhs
+*   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida**: NIRF #41 | Avg Placement: ₹11.1 LPA | Fees: ₹15.75 Lakhs
 
 ### Tier 3: Value for Money & Growth (Avg: ₹6 LPA - ₹10 LPA)
 *   **NDIM Delhi**: AIU Equivalent | Avg Placement: ₹9.5 LPA | Fees: ₹12.7 Lakhs
@@ -120,7 +120,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 ### Jaipur
 *   **[Jaipuria Jaipur](/colleges/jaipuria-jaipur) (Tier 2)**: NIRF #74 | Avg: ₹9.5 LPA | Fees: ₹12.75 Lakhs. [Read More](/blog/best-mba-colleges-in-jaipur-2026)
 *   **[Taxila Business School](/colleges/taxila-jaipur) (Tier 1/2)**: Avg: ₹11.5 LPA | Fees: ₹9.5 Lakhs
-*   **IIHMR University (Tier 2)**: Healthcare Focused | Avg: ₹7.8 LPA | Fees: ₹12.5 Lakhs
+*   **[IIHMR University](/colleges/iihmr-university) (Tier 2)**: Healthcare Focused | Avg: ₹7.8 LPA | Fees: ₹12.5 Lakhs
 *   **JIMS Jaipur (Tier 3)**: Avg: ₹7.5 LPA | Fees: ₹6.95 Lakhs
 
 ---
@@ -153,37 +153,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

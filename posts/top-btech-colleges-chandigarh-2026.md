@@ -54,7 +54,7 @@ This guide covers the **top B.Tech colleges in Chandigarh and the Tricity region
 | PEC Chandigarh | Chandigarh | ₹1.5 L/yr | ₹7–12 LPA | JEE Main |
 | Thapar University | Patiala (near CHD) | ₹4.0 L/yr | ₹10–18 LPA | JEE Main |
 | Chandigarh University (CU) | Mohali | ₹1.5 L/yr | ₹5–9 LPA | CUCET / JEE |
-| Chitkara University | Rajpura (Mohali) | ₹2.0 L/yr | ₹5–9 LPA | CUCET / JEE |
+| [Chitkara University](/colleges/chitkara-university) | Rajpura (Mohali) | ₹2.0 L/yr | ₹5–9 LPA | CUCET / JEE |
 | CGC Jhanjeri | Mohali | ₹1.0 L/yr | ₹4–7 LPA | JEE / Boards |
 | UIET Chandigarh | Chandigarh | ₹0.60 L/yr | ₹5–8 LPA | JEE Main |
 | NITTTR Chandigarh | Chandigarh | ₹0.70 L/yr | ₹5–8 LPA | JEE Main |
@@ -156,37 +156,14 @@ Yes — Chandigarh University, Chitkara, CGC, and Rayat Bahra offer direct admis
 
 **[👉 Confused between Chandigarh B.Tech options? Get expert guidance from Mohit — FREE!](/inquiry)**
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

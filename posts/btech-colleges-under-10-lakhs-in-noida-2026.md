@@ -42,7 +42,7 @@ For engineering aspirants targeting the 2026 academic batch on a budget, we have
 
 These institutions keep their total program tuition fees under ₹10 Lakhs while offering robust laboratory infrastructure, experienced faculty members, and active recruitment drives.
 
-### 1. JSS Academy of Technical Education (JSSATE)
+### 1. [JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)
 - **Approximate Tuition Fees:** ₹4.8 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main (UPTAC)
 - **Average Placement Package:** **₹6.5 LPA**
@@ -133,12 +133,3 @@ Most government-aided and state university affiliated engineering colleges in No
 
 ### Is pursuing a B.Tech under 10 Lakhs in Noida worth it?
 Absolutely. Pursuing a B.Tech under a total tuition budget of 10 Lakhs offers an exceptional Return on Investment (ROI). With moderate fees and average starting salaries ranging from 4.5 LPA to 12 LPA, most students can recover their educational expenses within 1 to 2 years of graduation.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

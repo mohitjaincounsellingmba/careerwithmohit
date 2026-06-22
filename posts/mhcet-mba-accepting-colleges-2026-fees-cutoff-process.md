@@ -44,7 +44,7 @@ These institutes offer unmatched return on investment (ROI) due to heavily subsi
 
 | College Name | Location | Expected Cutoff (Percentile) | Approx. Total Fees (2 Yrs) |
 | :--- | :--- | :--- | :--- |
-| **JBIMS (Jamnalal Bajaj Institute of Management Studies)** | Mumbai | 99.98+ | ₹6.0 Lakhs |
+| **JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))** | Mumbai | 99.98+ | ₹6.0 Lakhs |
 | **SIMSREE (Sydenham Institute of Management Studies)** | Mumbai | 99.95+ | ₹1.4 Lakhs |
 | **PUMBA (Department of Management Sciences, Pune Univ.)** | Pune | 99.80+ | ₹1.3 Lakhs |
 
@@ -110,37 +110,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

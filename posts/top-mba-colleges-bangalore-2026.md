@@ -81,7 +81,7 @@ If your CAT percentile is between 70-85, Bangalore offers fantastic private opti
 
 - **TAPMI (Manipal/Bangalore):** Triple-accredited (AACSB, AMBA, EQUIS). Known for its strict academic rigour.
 - **[XIME Bangalore](/colleges/xime-bangalore):** Excellent for International Business and female aspirants (diverse batch).
-- **IFIM (Jagdish Sheth School of Management):** Located right in Electronic City, ensuring students are always close to the action.
+- **IFIM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)):** Located right in Electronic City, ensuring students are always close to the action.
 
 ---
 
@@ -126,37 +126,14 @@ Bangalore's B-school landscape is crowded. Avoid getting lost. Mohit Jain provid
 
 [👉 Book My Bangalore Admission Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

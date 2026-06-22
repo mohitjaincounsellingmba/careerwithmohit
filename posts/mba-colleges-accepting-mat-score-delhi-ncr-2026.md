@@ -38,25 +38,25 @@ For business aspirants in the Delhi National Capital Region (NCR), several highl
 
 These institutions are highly popular among MAT test-takers, offering a blend of strong academic mentoring and stable placements.
 
-### 1. Birla Institute of Management Technology (BIMTECH) - Greater Noida
+### 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH) - Greater Noida
 BIMTECH is a premier B-school in Greater Noida. While it accepts CAT/XAT for its core PGDM, it accepts MAT scores for its specialized PGDM in **Retail Management** and **Insurance Business Management**.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹14.0 - ₹15.0 Lakhs
 - **Average Placement Package:** ₹11.0 LPA
 
-### 2. New Delhi Institute of Management (NDIM) - New Delhi
+### 2. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) - New Delhi
 NDIM is consistently ranked among the top private B-schools in India for product marketing and corporate internships.
 - **MAT Cutoff Percentile:** 70-75 Percentile
 - **Approx Tuition Fees (2 Years):** ₹11.5 Lakhs
 - **Average Placement Package:** ₹8.20 LPA
 
-### 3. Jagan Institute of Management Studies (JIMS) - Rohini, Delhi
+### 3. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) - Rohini, Delhi
 A highly respectable option in North-West Delhi, offering a structured PGDM curriculum and dedicated industry mentoring.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹9.25 Lakhs
 - **Average Placement Package:** ₹8.30 LPA
 
-### 4. Jaipuria Institute of Management - Noida
+### 4. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) - Noida
 [Jaipuria Noida](/colleges/jaipuria-noida) is a corporate-focused B-school known for its state-of-the-art infrastructure and extensive corporate connections.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹13.5 Lakhs
@@ -132,36 +132,10 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 
 ### What is the difference between an MBA and a PGDM?
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -42,7 +42,7 @@ In this guide, we break down the **Top MAH CET MBA Colleges** by their latest cu
 
 If you are looking for the absolute best value for your money, these three government-backed institutes are the gold standard.
 
-### 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj Institute of Management Studies)
+### 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
 - **Status**: The "CEO Factory" of India.
 - **Estimated Cutoff (Gen)**: 99.98+ Percentile
 - **Total Fees**: ~₹6.0 Lakhs
@@ -132,37 +132,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

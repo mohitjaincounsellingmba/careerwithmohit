@@ -84,7 +84,7 @@ Designing data pipelines and visual reports for executive leadership.
 ## 🎓 Top Indian Universities for Online MBA in Data Analytics & AI
 
 Several premium universities offer high-quality online degrees in this domain:
-- **Jain University Online:** Known for its robust curriculum in Data Science & analytics tools.
+- **[Jain University](/colleges/jain-university) Online:** Known for its robust curriculum in Data Science & analytics tools.
 - **Manipal University Online (MAHE):** Offers advanced LMS modules with tech-industry partnerships.
 - **Amity Online:** Highly flexible schedule with a global curriculum.
 
@@ -97,36 +97,13 @@ Several premium universities offer high-quality online degrees in this domain:
 - [How to Verify if an Online MBA is UGC-Entitled and AICTE-Approved](/blog/how-to-verify-online-mba-ugc-entitled-aicte-approved)
 - [Calculating Online MBA ROI: Average Salary Hikes vs. Total Tuition Costs](/blog/calculating-online-mba-roi-salary-hikes-vs-tuition-costs)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

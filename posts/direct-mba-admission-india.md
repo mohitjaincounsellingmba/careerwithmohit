@@ -125,8 +125,6 @@ Direct admission doesn't mean "anyone can get in." Top colleges still follow a r
 > **Key Takeaway:** Focus on your Interview prep. In direct admission, your personality and confidence matter more than your entrance exam percentile.
 
 ---
-
----
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Can I get direct MBA admission without CAT?
@@ -146,37 +144,14 @@ Our experts help you navigate the management quota process with 100% transparenc
 
 [👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

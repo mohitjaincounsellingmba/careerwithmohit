@@ -31,7 +31,7 @@ faqs:
     answer: Yes. The program is 100% online and accessible from any location in India.
 ---
 
-**Uttaranchal University**, based in **Dehradun, Uttarakhand**, offers an affordable online MBA through its digital education platform (uttaranchaluniversityonline.com). Holding a **NAAC A+ grade** and UGC-DEB recognition, Uttaranchal University positions itself as a strong mid-budget option — particularly for students in North India and Himalayan states who need a recognized degree at under ₹1.5 Lakhs.
+**[Uttaranchal University](/colleges/uttaranchal-university)**, based in **Dehradun, Uttarakhand**, offers an affordable online MBA through its digital education platform (uttaranchaluniversityonline.com). Holding a **NAAC A+ grade** and UGC-DEB recognition, Uttaranchal University positions itself as a strong mid-budget option — particularly for students in North India and Himalayan states who need a recognized degree at under ₹1.5 Lakhs.
 
 ---
 
@@ -163,38 +163,15 @@ Yes. The program is 100% online and accessible from any location in India.
 - [Online MBA India 2026: Full Guide](/blog/online-mba-india-2026)
 - [Top MBA Colleges in Dehradun 2026](/blog/mba-pgdm-colleges-under-10-lakhs-dehradun-direct-admission)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

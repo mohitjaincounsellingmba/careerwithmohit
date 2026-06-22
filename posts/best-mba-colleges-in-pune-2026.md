@@ -98,7 +98,7 @@ These colleges are known for their massive intake and excellent corporate connec
 - **Entrance Exam:** CAT, XAT, NMAT, GMAT, CMAT
 - **USP:** World-class infrastructure and a holistic approach combining technology and management.
 
-### 9. ISB&M Pune (International School of Business & Media)
+### 9. ISB&M Pune ([International School of Business & Media](/colleges/international-school-of-business-media))
 - **Fees:** ₹13.6 Lakh - ₹14.3 Lakh
 - **Average Placement:** ₹11.40 LPA
 - **Entrance Exam:** CAT, XAT, CMAT
@@ -195,37 +195,14 @@ The average package for Sri Balaji University (BIMM) is approximately **₹8.75 
 
 [👉 Confused about which Pune college fits your profile and budget? Get a free profile evaluation from Mohit Jain!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

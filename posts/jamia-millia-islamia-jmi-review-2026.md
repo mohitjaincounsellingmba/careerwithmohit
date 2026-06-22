@@ -91,27 +91,3 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 ### 🚀 Boost Your Preparation
 
 Don't leave your admission to chance! **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to score high and secure your spot at JMI.
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

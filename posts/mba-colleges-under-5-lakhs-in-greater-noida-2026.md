@@ -44,13 +44,13 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹5 Lakhs (either total or annual, fitting well within a moderate budget) while offering solid placement opportunities.
 
-### 1. GNIOT Institute of Management Studies
+### 1. GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)
 - **Approximate Fees:** ₹3.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.5 LPA**
 - **Key Highlight:** Well-established campus in Knowledge Park II.
 
-### 2. Galgotias University (MBA Program)
+### 2. [Galgotias University](/colleges/galgotias-university) (MBA Program)
 - **Approximate Fees:** ₹3.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CUET-PG / CMAT
 - **Average Placement Package:** **₹5.0 LPA**
@@ -122,28 +122,10 @@ Most state-affiliated and government colleges in Greater Noida accept scores fro
 
 ### Is pursuing an MBA under 5 Lakhs in Greater Noida worth it?
 Yes, because it offers an excellent Return on Investment (ROI). With a total fee of under 5 Lakhs and average placement packages ranging from 4 LPA to 8 LPA, graduates can recover their educational expenses in less than a year.
-
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

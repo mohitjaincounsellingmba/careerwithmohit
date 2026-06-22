@@ -42,7 +42,7 @@ GCEC (Global Centre for Entrepreneurship and Commerce) is rapidly becoming the g
 *   **Why Choose**: Unbeatable ROI, integrated ACCA (UK) / CMA (US) courses, and heavily practical 18-month internships instead of pure theory.
 *   **Admission Mode**: Profile and interview-based direct selection emphasizing entrepreneurial spirit.
 
-### **3. FMS Institute of Rural Management (FMS IRM)**
+### **3. FMS [Institute of Rural Management](/colleges/institute-of-rural-management) (FMS IRM)**
 If you are aiming for specialized roles in Rural Management, Agribusiness, or even standard PGDM operations, FMS IRM is a highly respected legacy institution.
 *   **Total Fees (Approx.)**: ₹5.50 - ₹6.50 Lakhs
 *   **Average Placement**: ₹6.0 LPA - ₹7.0 LPA
@@ -70,41 +70,18 @@ Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates in
 
 **Explore More Insights:**
 *   [👉 Deep Dive: [Poornima University](/colleges/poornima-jaipur) GCEC MBA Review 2026](/blog/poornima-university-gcec-mba-review-2026)
-*   [👉 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 
 *At **CareerWithMohit**, we believe that geographic strategy is key to ROI. Need help picking a Jaipur B-School? [Book a Strategy Session!](/inquiry)*
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

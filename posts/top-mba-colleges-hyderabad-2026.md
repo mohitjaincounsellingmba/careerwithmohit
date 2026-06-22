@@ -86,7 +86,7 @@ If you have a CAT/XAT score between 75-90 percentile, Hyderabad offers excellent
 
 Hyderabad has several hidden gems that are safe bets for students with mid-range academic profiles:
 
-- **IPE Hyderabad (Institute of Public Enterprise):** Located in the heart of the city (Osmania University Campus). Incredible history and strong placements particularly in PSUs and Banks.
+- **IPE Hyderabad ([Institute of Public Enterprise](/colleges/institute-of-public-enterprise)):** Located in the heart of the city (Osmania University Campus). Incredible history and strong placements particularly in PSUs and Banks.
 - **Woxsen University:** A premium private university with world-class faculty and industry-first curriculum in Business and AI.
 - **Osmania University (DoMS):** The ROI champion of Hyderabad. Fees are almost negligible compared to private players.
 
@@ -123,37 +123,14 @@ Don't just pick a name from a brochure. Get the ground reality of Hyderabad B-sc
 
 [👉 Book My Hyderabad Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

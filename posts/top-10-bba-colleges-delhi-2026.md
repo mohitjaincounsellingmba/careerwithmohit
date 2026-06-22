@@ -45,7 +45,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 - **Entrance Exam / Admission Process:** JMI Entrance
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 3. Maharaja Agrasen Institute of Management Studies (MAIMS)
+### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam / Admission Process:** IPU CET / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -70,7 +70,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 - **Entrance Exam / Admission Process:** IPU CET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 8. Jagan Institute of Management Studies (JIMS Rohini)
+### 8. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** IPU CET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -134,36 +134,10 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 
 ### Which BBA specialization has the scope in 2026?
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
-
-
----
-
-### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
-
-Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

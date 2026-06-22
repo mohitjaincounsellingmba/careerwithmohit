@@ -51,7 +51,7 @@ This guide explains how to secure a **Direct BBA admission** safely and legally 
 In India, direct admission is legally available through the following categories:
 
 ### 1. Institutional Merit Quota (Deemed Universities)
-Colleges like **[NMIMS Mumbai](/colleges/nmims-mumbai), Symbiosis Pune, and Jain University** reserve a small percentage of seats for direct admission. These are sanctioned by the university and are strictly based on the vacancy after the main merit rounds.
+Colleges like **[NMIMS Mumbai](/colleges/nmims-mumbai), Symbiosis Pune, and [Jain University](/colleges/jain-university)** reserve a small percentage of seats for direct admission. These are sanctioned by the university and are strictly based on the vacancy after the main merit rounds.
 - **Process:** You must have applied for the university entrance exam (NPAT, SET, etc.) and then apply separately for the institutional quota if the merit list is closed.
 
 ### 2. Management Quota (State-Affiliated Private Colleges)
@@ -118,37 +118,14 @@ Direct admission is a massive investment in your career. Don't waste it on a col
 
 [👉 Book My Safe BBA Admission Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -36,7 +36,7 @@ Here are the **Top BBA Colleges in Greater Noida for 2026**.
 
 ## 🏛️ Premier BBA Institutes in Greater Noida
 
-### 1. Galgotias University, Greater Noida
+### 1. [Galgotias University](/colleges/galgotias-university), Greater Noida
 - **Approx. Fees:** ₹1.0 - 1.5 Lakhs (Annual)
 - **Average Placement:** ₹4 - 6 LPA
 - **Entrance Exam:** Merit-based / CUET
@@ -99,37 +99,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

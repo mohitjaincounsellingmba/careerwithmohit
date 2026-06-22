@@ -67,7 +67,7 @@ If you are considering any of the following institutes, check if you are being a
 
 1.  **Christ University**: All campuses (Bangalore Central, Kengeri, Yeshwanthpur, Pune Lavasa, Delhi-NCR) participate in a centralized placement process.
 2.  **[Amity University](/colleges/amity-noida)**: Amity Noida acts as the hub, with students from Gurgaon, Gwalior, and Jaipur often pooled for major recruitment drives.
-3.  **Jaipuria Institute of Management**: Its campuses in Noida, Lucknow, Jaipur, and Indore operate under a "Unanimous Placement" model.
+3.  **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)**: Its campuses in Noida, Lucknow, Jaipur, and Indore operate under a "Unanimous Placement" model.
 4.  **IBS (ICFAI Business School)**: Famous for its centralized "Mega Placement" event where thousands of students from all 9 campuses descend upon Hyderabad.
 5.  **IILM University**: Students from Lodhi Road, Gurugram, and Greater Noida are often combined for corporate drives.
 6.  **[Lovely Professional University](/colleges/lovely-professional-university) (LPU)**: Massive centralized placements with exceptionally high student volume.
@@ -106,37 +106,14 @@ At **CareerWithMohit**, we help you find "Independent" colleges where you get pe
 
 [👉 Get an Honest Review of Your Shortlisted Colleges!](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

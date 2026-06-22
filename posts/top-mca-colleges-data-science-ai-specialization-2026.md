@@ -49,7 +49,7 @@ If you want to work on projects like ChatGPT, self-driving algorithms, or global
 |---|---|---|---|
 | **[VIT Vellore](/colleges/vit-vellore)** | AI & Machine Learning | VITMEE | ₹8.5 - 14.5 LPA |
 | **MIT-WPU Pune** | Data Science & Cloud | MIT-WPU CET | ₹7.0 - 11.5 LPA |
-| **PES University** | Big Data & Analytics | PESSAT / PGCET| ₹8.0 - 13.0 LPA |
+| **[PES University](/colleges/pes-university)** | Big Data & Analytics | PESSAT / PGCET| ₹8.0 - 13.0 LPA |
 | **SICSR Pune** | Data Science & NLP | SNAP / Merit | ₹7.5 - 11.0 LPA |
 | **SRM IST** | Artificial Intelligence | SRM JEE-M | ₹7.0 - 10.5 LPA |
 | **Bennett Univ** | Generative AI & Cloud | Merit / CUET | ₹6.5 - 9.5 LPA |
@@ -114,37 +114,14 @@ The industry is changing. Don't graduate with a degree that's already obsolete. 
 
 [👉 Book My Specialized MCA Consultation](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

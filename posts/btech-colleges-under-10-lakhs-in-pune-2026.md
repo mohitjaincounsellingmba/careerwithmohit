@@ -42,19 +42,19 @@ For engineering aspirants targeting the 2026 academic batch on a budget, we have
 
 These institutions keep their total program tuition fees under ₹10 Lakhs while offering robust laboratory infrastructure, experienced faculty members, and active recruitment drives.
 
-### 1. COEP Technological University
+### 1. [COEP Technological University](/colleges/coep-pune)
 - **Approximate Tuition Fees:** ₹4.8 Lakhs (Total)
 - **Accepted Entrance Exams:** MHT-CET
 - **Average Placement Package:** **₹11.5 LPA**
 - **Key Highlight:** One of the oldest technical colleges in Asia with autonomous university status and legacy placements.
 
-### 2. Pune Institute of Computer Technology (PICT)
+### 2. [Pune Institute of Computer Technology (PICT)](/colleges/pict-pune)
 - **Approximate Tuition Fees:** ₹3.8 Lakhs (Total)
 - **Accepted Entrance Exams:** MHT-CET / JEE Main
 - **Average Placement Package:** **₹12.0 LPA**
 - **Key Highlight:** Nationally recognized coding hub famous for computer science and IT-specific placements.
 
-### 3. Pimpri Chinchwad College of Engineering (PCCOE)
+### 3. [Pimpri Chinchwad College of Engineering (PCCOE)](/colleges/pccoe-pune)
 - **Approximate Tuition Fees:** ₹5.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MHT-CET / JEE Main
 - **Average Placement Package:** **₹7.2 LPA**
@@ -133,12 +133,3 @@ Most government-aided and state university affiliated engineering colleges in Pu
 
 ### Is pursuing a B.Tech under 10 Lakhs in Pune worth it?
 Absolutely. Pursuing a B.Tech under a total tuition budget of 10 Lakhs offers an exceptional Return on Investment (ROI). With moderate fees and average starting salaries ranging from 4.5 LPA to 12 LPA, most students can recover their educational expenses within 1 to 2 years of graduation.
-
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

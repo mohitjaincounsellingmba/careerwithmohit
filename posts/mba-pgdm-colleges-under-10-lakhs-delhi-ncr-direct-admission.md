@@ -27,7 +27,7 @@ With the soaring costs of management education, finding a B-school that offers a
 Here is a curated list of the **top MBA and PGDM colleges in Delhi NCR with a fee structure under ₹10 Lakhs** that offer direct admission for the 2026-28 batch.
 
 ### **1. JIMS (Kalkaji & Rohini)**
-Jagannath International Management School (JIMS) is a brand name in Delhi, known for its strong corporate connect and excellent PGDM programs.
+[Jagannath International Management School](/colleges/jagannath-international-management-school) (JIMS) is a brand name in Delhi, known for its strong corporate connect and excellent PGDM programs.
 *   **Total Fees (Approx.)**: ₹9.00 - ₹9.50 Lakhs
 *   **Average Placement**: ₹7.5 LPA - ₹8.5 LPA
 *   **Why Choose**: High academic rigor, robust alumni network, and specialization in International Business and Retail.
@@ -70,42 +70,19 @@ For profile-based direct admission, the fees remain the same. However, if applyi
 Yes. Once you are part of the program, placements are entirely driven by your skills and academic performance during the MBA/PGDM. Keep in mind that securing direct admission guarantees a seat, not a placement.
 
 **Explore More Insights:**
-*   [👉 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
 *   [👉 Need Guidance? Book a Free Admission Strategy Call!](/inquiry)
 
 *At **CareerWithMohit**, we evaluate your profile carefully to help you crack the best B-school in Delhi NCR without getting trapped by misleading consultants.*
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

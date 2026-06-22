@@ -61,7 +61,7 @@ Consistently ranked #1 among private affiliates for academics and discipline.
 - **Avg. Placement**: ₹7.0 LPA
 - **Top Recruiters**: KPMG, Infosys, Accenture, Federal Bank, TCS.
 
-#### 3. [Jagan Institute of Management Studies (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+#### 3. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
 Famous for its placement cell and massive industry network.
 - **Fees**: ₹3.50 Lakhs (Total)
 - **Avg. Placement**: ₹7.5 LPA
@@ -85,7 +85,7 @@ Steady placement growth and strong faculty pool.
 - **Avg. Placement**: ₹6.0 LPA
 - **Top Recruiters**: Genpact, Yamaha, L&T Infotech, HCL, Capgemini.
 
-#### 7. Management Education & Research Institute (MERI), Janakpuri
+#### 7. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri), Janakpuri
 One of the oldest and most trusted management colleges in West Delhi.
 - **Fees**: ₹3.10 Lakhs (Total)
 - **Avg. Placement**: ₹5.8 LPA
@@ -180,37 +180,14 @@ Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMA
 An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -146,35 +146,10 @@ Most good Business Analytics programs will introduce you to basic Python or R sc
 Deciding between the strategic layer of Business Analytics and the technical depth of Data Analytics requires analyzing your career goals and technical strengths. Mohit Jain offers personalized career counselling sessions to help you evaluate B-schools, understand the curriculum, and map out your admission strategy.
 
 [👉 Book My MBA Career Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

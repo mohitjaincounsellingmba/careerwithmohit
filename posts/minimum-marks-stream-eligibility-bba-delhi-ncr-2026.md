@@ -55,7 +55,7 @@ Admissions to elite Delhi University management programs (BMS and BBA in Financi
 
 ### 2. Where Mathematics is NOT Required
 Most private universities and state-affiliated colleges in Delhi NCR do not require Mathematics in Class 12.
-- **Key Colleges:** Symbiosis (SCMS Noida), IP University colleges (MAIMS, MSI, VIPS), [Amity University](/colleges/amity-noida), Galgotias University, [BML Munjal University](/colleges/bml-munjal-gurgaon).
+- **Key Colleges:** Symbiosis (SCMS Noida), IP University colleges (MAIMS, MSI, VIPS), [Amity University](/colleges/amity-noida), [Galgotias University](/colleges/galgotias-university), [BML Munjal University](/colleges/bml-munjal-gurgaon).
 - **Rule:** General eligibility is based on total aggregate score, regardless of whether you took Mathematics.
 
 ---
@@ -109,37 +109,14 @@ No, many universities and colleges offer BBA admissions to students from non-mat
 Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
 
 
----
 
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
 
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
