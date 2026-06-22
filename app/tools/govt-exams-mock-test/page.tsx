@@ -4,6 +4,9 @@ import { GovtExamHubClient } from '@/components/GovtExamHub/GovtExamHubClient';
 import { ShieldCheck, Trophy, Target, Globe, BookOpen } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/tools/govt-exams-mock-test',
+  },
   title: 'Free Government Exam Mock Tests 2026 | SSC, Banking, Railways, UPSC',
   description: 'Practice 100% free online mock tests for SSC CGL, IBPS PO, RRB NTPC, SBI PO, UPSC CSE, and other state govt exams. Access 30+ full-length practice sets with detailed solutions.',
   keywords: [

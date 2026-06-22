@@ -17,6 +17,9 @@ export async function generateMetadata({ params }: { params: Promise<{ examSlug:
   
   return {
     title: config.seoTitle,
+    alternates: {
+      canonical: `/tools/mock-test/${resolvedParams.examSlug}`,
+    },
     description: config.seoDescription,
     keywords: config.keywords || [],
     openGraph: {

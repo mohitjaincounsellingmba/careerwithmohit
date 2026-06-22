@@ -6,6 +6,9 @@ import { ShieldCheck, Zap, BarChart3, HelpCircle, BookOpen, GraduationCap, Calen
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/tools/btech-college-predictor',
+  },
     title: "JEE Main 2026 College Predictor | B.Tech Admission Predictor",
     description: "Free JEE Main 2026 college predictor for B.Tech. Predict your engineering college based on percentile. Check cutoffs for DTU, NSUT, NITs, IIITs, and top private institutes in Pune, Bangalore & Delhi.",
     keywords: [

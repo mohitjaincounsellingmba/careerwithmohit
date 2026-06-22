@@ -5,6 +5,9 @@ import { ArrowLeft, GraduationCap, MapPin, Award, IndianRupee, Trophy, Building2
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 
 export const metadata = {
+  alternates: {
+    canonical: '/colleges/compare',
+  },
   title: "Compare Top Colleges side‑by‑side 2026: Fees, Placements & Ranking | CareerWithMohit",
   description: "Compare fees structure, average placement records, NIRF rankings, and cutoffs side‑by‑side for top MBA, B.Tech, and BBA colleges in India for 2026 admission.",
 };

@@ -6,6 +6,9 @@ import { Download, FileText, School, GraduationCap, CheckCircle2 } from "lucide-
 import { CtaScrollButton } from "@/components/CtaScrollButton";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/mhcet-mba-colleges-list',
+  },
     title: "MHCET MBA 2026 Colleges List & Answer Key PDF | Direct Admission",
     description: "Download the complete MHCET MBA 2026 colleges list with cutoffs, fees, and placements. Get the official answer key PDF and expert counseling for JBIMS, SIMSREE, and top maharashtra MBA institutes.",
     keywords: [

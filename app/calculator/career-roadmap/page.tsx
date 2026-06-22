@@ -5,6 +5,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { Map, Sparkles, Users, BookOpen } from "lucide-react";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/calculator/career-roadmap',
+  },
     title: "Career Roadmap Calculator 2026 | MBA & BTech Skills, Certifications & Companies",
     description: "Get your personalized career roadmap for MBA or BTech specializations. Find required skills, top certifications, leading companies, and salary packages for Finance, CS, HR, Marketing, and more.",
     keywords: ["career roadmap MBA", "BTech career roadmap", "MBA specialization guide", "career after MBA finance", "career after BTech CSE", "skills for finance MBA", "certifications for MBA", "top companies MBA placements"],

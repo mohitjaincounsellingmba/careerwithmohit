@@ -5,6 +5,9 @@ import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Pres
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/tools/jee-advanced-mock-test',
+  },
   title: 'Free IIT JEE Advanced Mock Test 2026 | Paper 1 & 2 Full Length Tool',
   description: 'Practice for the toughest exam in India with our free full-length IIT JEE Advanced 2026 mock test. Experience multi-correct, integer, and matrix-match questions with real-time analysis.',
   keywords: [

@@ -2,6 +2,9 @@ import { Metadata } from 'next';
 import PreviousYearPapersClient from '@/components/PreviousYearPapersClient';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/previous-year-papers',
+  },
   title: 'Previous Year Question Papers | CAT, NMAT, XAT, JEE, NEET | Mohit Jain',
   description: 'Download free previous year question papers for CAT, NMAT, XAT, CMAT, MAT, JEE Main, JEE Advanced, and NEET. Boost your exam preparation with authentic resources.',
   keywords: 'previous year papers, CAT papers, NMAT question papers, XAT previous papers, JEE Main papers, NEET papers, Mohit Jain admission hub',

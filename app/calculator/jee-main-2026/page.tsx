@@ -6,6 +6,9 @@ import { ShieldCheck, Zap, BarChart3, HelpCircle, BookOpen, GraduationCap, Calen
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/calculator/jee-main-2026',
+  },
     title: "JEE Main 2026 Score Calculator & Response Sheet Checker | Session 2 Predictor",
     description: "Use our free JEE Main 2026 Session 2 score calculator. Instantly check your raw marks with official NTA marking scheme (+4/-1), parse your response sheet URL, and get predicted percentile for NIT/IIIT admissions.",
     keywords: [

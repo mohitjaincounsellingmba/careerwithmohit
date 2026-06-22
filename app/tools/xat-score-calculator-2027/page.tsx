@@ -13,6 +13,9 @@ import {
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/tools/xat-score-calculator-2027',
+  },
   title: "XAT Score Calculator 2027 – Predict Percentile & Expected Score",
   description:
     "Use the XAT Score Calculator 2027 to predict your percentile, estimate marks, analyze response sheets, and check expected XLRI cutoffs instantly.",

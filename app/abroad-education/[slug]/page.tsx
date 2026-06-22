@@ -28,6 +28,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: `${college.name} Fees, Admissions & Programs 2026 | CareerWithMohit`,
+    alternates: {
+      canonical: `/abroad-education/${slug}`,
+    },
     description: `Explore admissions, fees (${college.fee}), programs, and accreditations (${college.accreditation}) for ${college.name} located in ${college.location}. Get expert admission assistance.`,
     keywords: [
       `${college.name} admissions 2026`,

@@ -5,6 +5,9 @@ import { CheckCircle2, Zap, Clock, HelpCircle, BarChart3, GraduationCap, PieChar
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/tools/nmat-mock-test',
+  },
   title: 'Free NMAT Mock Test 2026 | NMIMS Mumbai Admission 2027 Batch',
   description: 'Take our free full-length NMAT 2026 mock test. Get admission in 2027 batch. 108 questions, 120 minutes, no negative marking. Experience adaptive simulation for NMIMS.',
   keywords: [

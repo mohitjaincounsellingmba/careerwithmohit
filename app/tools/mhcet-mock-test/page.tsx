@@ -3,6 +3,9 @@ import { MhcetMockTestClient } from '@/components/MockTest/MhcetMockTestClient';
 import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Presentation } from 'lucide-react';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/tools/mhcet-mock-test',
+  },
   title: 'Free MAH MBA CET Mock Test 2026 | #1 Tool for Maharashtra & MP Aspirants',
   description: 'Take a full-length MAH MBA CET 2026 mock test online. 200 questions, 150 minutes, sectional breakdown, and percentile predictor. Best practice tool for Maharashtra (Mumbai, Pune, Nagpur) and Madhya Pradesh (Indore, Bhopal) students.',
   keywords: [

@@ -6,6 +6,9 @@ import { ShieldCheck, Zap, BarChart3, HelpCircle, BookOpen, GraduationCap, Calen
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/calculator/mhcet-mba-2026',
+  },
     title: "MHCET MBA 2026 Score Calculator & Rank Predictor | Marks vs Percentile | Maharashtra CET Result",
     description: "Free MHCET MBA 2026 score calculator. Instantly calculate your raw marks, predict percentile for JBIMS, SIMSREE, PUMBA. Check Maharashtra CET result 2026, marks vs rank vs top MBA colleges in Maharashtra.",
     keywords: [

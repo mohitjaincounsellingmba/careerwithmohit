@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { CuetUgPageContent } from "./CuetUgPageContent";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/calculator/cuet-ug-2026',
+  },
     title: "CUET UG 2026 Score Calculator & Percentile Predictor | NTA Score",
     description: "Free NTA CUET UG 2026 score calculator. Calculate CUET UG raw score, predict percentile, and compare CUET 2026 Marks vs Percentile for DU and BHU admissions.",
     keywords: [

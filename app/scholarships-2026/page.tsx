@@ -4,6 +4,9 @@ import { Award, GraduationCap, Globe2, HeartHandshake, BookOpen, HandCoins, Buil
 import Link from 'next/link';
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/scholarships-2026',
+  },
   title: 'Top Scholarships 2026 | National & International Funding',
   description: 'Explore the complete list of 2026 scholarships for Indian students. Find merit-based, means-based, MBA, engineering, and study abroad scholarships.',
 };

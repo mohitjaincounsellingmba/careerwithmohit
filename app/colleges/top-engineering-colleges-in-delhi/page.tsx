@@ -7,6 +7,9 @@ import { CtaScrollButton } from "@/components/CtaScrollButton";
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/colleges/top-engineering-colleges-in-delhi',
+  },
     title: "Top Engineering Colleges in Delhi 2026: Ranking, Fees, Placements",
     description: "Discover the top B.Tech engineering colleges in Delhi NCR for 2026. Compare IIT Delhi, DTU, NSUT, IIIT Delhi, and top private GGSIPU colleges like MAIT and MSIT.",
     keywords: [

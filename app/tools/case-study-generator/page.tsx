@@ -5,6 +5,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { BookOpen, GraduationCap, Lightbulb, Target, FileText, Download, Award } from "lucide-react";
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: '/tools/case-study-generator',
+  },
     title: "MBA Case Study Solution Generator | Free PGDM Case Analysis Tool 2026",
     description: "Type your case study name and get a structured MBA-grade solution. Features include SWOT analysis, problem identification, and strategic recommendations for PGDM students.",
     keywords: ["mba case study generator", "pgdm case solution", "management case analysis tool", "free mba tools", "case study solver", "career with mohit"],
