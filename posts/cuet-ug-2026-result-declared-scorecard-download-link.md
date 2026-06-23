@@ -2,7 +2,7 @@
 title: >-
   CUET UG 2026 Result Declared: Direct Link to Download NTA Scorecard at
   cuet.nta.nic.in
-date: '2026-06-19'
+date: '2026-06-23'
 category: Entrance Exams
 description: >-
   The National Testing Agency (NTA) has officially declared the CUET UG 2026
@@ -32,7 +32,7 @@ faqs:
       and submit their course and college preferences.
 ---
 
-The **National Testing Agency (NTA)** has officially declared the **CUET UG 2026 Results today, June 19, 2026**. Millions of students who appeared for the Common University Entrance Test (Undergraduate) can now access and download their scorecards from the official NTA portal.
+The **National Testing Agency (NTA)** has officially declared the **CUET UG 2026 Results today, June 23, 2026**. Millions of students who appeared for the Common University Entrance Test (Undergraduate) can now access and download their scorecards from the official NTA portal.
 
 With the results declared, the admission window for premier central universities like Delhi University (DU), Banaras Hindu University (BHU), Jawaharlal Nehru University (JNU), and Jamia Millia Islamia has officially opened. Candidates will need their normalized scores to register on individual university counselling portals.
 
@@ -52,7 +52,7 @@ Let’s review the key highlights of the CUET UG 2026 results, direct download l
 | Event / Parameter | Details |
 | :--- | :--- |
 | **CUET UG 2026 Exam Dates** | May 15 to May 24, 2026 (Hybrid Mode) |
-| **Result Declaration Date** | **June 19, 2026** |
+| **Result Declaration Date** | **June 23, 2026** |
 | **Number of Candidates** | 13+ Lakhs (Approx.) |
 | **Mode of Result** | Online (PDF Scorecard format) |
 | **Official Website Link** | **[cuet.nta.nic.in](https://cuet.nta.nic.in)** |
