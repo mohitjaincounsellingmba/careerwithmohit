@@ -63,7 +63,7 @@ Consistently ranked India’s #1 BCA college. Christ University offers a rigorou
 - **Selection Process:** Christ University Entrance Test (CUET) + Micro Presentation + PI.
 - **Top Recruiters:** SAP, Oracle, Deloitte, Infosys, Wipro.
 
-### 2. Jain University (CMS)
+### 2. [Jain University](/colleges/jain-university) (CMS)
 Known for its industry-aligned IT specializations in **Mobile Applications and Cloud Computing**. 
 - **USP:** Strong focus on entrepreneurship and internships after every semester.
 - **Admission:** JET (Jain Entrance Test).

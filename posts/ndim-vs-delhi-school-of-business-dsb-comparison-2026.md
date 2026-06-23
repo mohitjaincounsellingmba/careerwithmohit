@@ -33,7 +33,7 @@ While both offer good infrastructure and corporate locations, at **CareerWithMoh
 
 ### **Quick Comparison: 2026 Projections**
 
-| Feature | New Delhi Institute of Management (NDIM) | Delhi School of Business (DSB/VIPS) |
+| Feature | [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) | Delhi School of Business (DSB/VIPS) |
 | :--- | :--- | :--- |
 | **Legacy & Brand** | **34 Years (Est. 1992)** | ~12 Years (Est. 2012) |
 | **National Ranking** | **Best B-School (ASSOCHAM 3 Years Row)** | Emerging Tier-2 |

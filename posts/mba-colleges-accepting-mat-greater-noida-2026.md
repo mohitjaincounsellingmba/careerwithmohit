@@ -79,7 +79,7 @@ Focuses on corporate grooming, extensive internships, and interactive classroom 
 
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
-| **Birla Institute of Management Technology (BIMTECH)** | 75+ Percentile | ₹14.0 Lakhs | **₹11.0 LPA** |
+| **[Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH)** | 75+ Percentile | ₹14.0 Lakhs | **₹11.0 LPA** |
 | **GNIOT Group of Institutions** | 65+ Percentile | ₹7.38 Lakhs | **₹6.50 LPA** |
 | **[Accurate Institute of Management](/colleges/accurate-greater-noida) and Technology** | 60+ Percentile | ₹6.50 Lakhs | **₹6.00 LPA** |
 | **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)** | 60+ Percentile | ₹6.20 Lakhs | **₹5.80 LPA** |

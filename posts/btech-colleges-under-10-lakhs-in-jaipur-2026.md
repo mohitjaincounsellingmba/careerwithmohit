@@ -80,7 +80,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Malaviya National Institute of Technology (MNIT Jaipur)** | JEE Main | ₹5.4 Lakhs (Total) | **₹12.4 LPA** |
+| **Malaviya National Institute of Technology ([MNIT Jaipur](/colleges/mnit-jaipur))** | JEE Main | ₹5.4 Lakhs (Total) | **₹12.4 LPA** |
 | **Swami Keshvanand Institute of Technology (SKIT)** | REAP / JEE Main | ₹3.6 Lakhs (Total) | **₹5.2 LPA** |
 | **JECRC Foundation & University** | REAP / JEE Main | ₹4.8 - ₹6.0 Lakhs (Total) | **₹6.0 LPA** |
 | **Poornima College of Engineering** | REAP / JEE Main | ₹3.2 Lakhs (Total) | **₹4.8 LPA** |

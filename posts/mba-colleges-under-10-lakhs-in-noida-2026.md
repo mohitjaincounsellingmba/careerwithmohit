@@ -69,8 +69,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **IMS Noida** | CMAT / MAT | ₹7.9 Lakhs (Total) | **₹5.5 LPA** |
-| **Hierank Business School** | Merit / CAT / MAT | ₹4.5 Lakhs (Total) | **₹4.8 LPA** |
-| **Amity University (Subsidized/Direct MBA)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.5 LPA** |
+| **[Hierank Business School](/colleges/hierank-noida)** | Merit / CAT / MAT | ₹4.5 Lakhs (Total) | **₹4.8 LPA** |
+| **[Amity University](/colleges/amity-noida) (Subsidized/Direct MBA)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.5 LPA** |
 
 ---
 

@@ -73,9 +73,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **IMS Noida** | Merit / CUET | ₹1.5 Lakhs (Annual) | **₹4.0 LPA** |
-| **Hierank Business School** | Merit / CUET | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
-| **Noida International University (NIU)** | Merit / CUET | ₹1.2 Lakhs (Annual) | **₹3.5 LPA** |
-| **Jaypee Institute of Information Technology (JIIT)** | Merit / CUET | ₹1.8 Lakhs (Annual) | **₹4.5 LPA** |
+| **[Hierank Business School](/colleges/hierank-noida)** | Merit / CUET | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
+| **[Noida International University (NIU)](/colleges/niu-greater-noida)** | Merit / CUET | ₹1.2 Lakhs (Annual) | **₹3.5 LPA** |
+| **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)** | Merit / CUET | ₹1.8 Lakhs (Annual) | **₹4.5 LPA** |
 
 ---
 

@@ -35,7 +35,7 @@ In this **GD Goenka BBA Review 2026**, we break down everything from costs to ca
 ---
 
 ## 🏫 GD Goenka School of Management: Overview
-The School of Management at GD Goenka University is known for its industry-aligned curriculum and a focus on holistic student development. Being part of a 60-acre lush green campus, BBA students here enjoy a vibrant life alongside peers from Law, Tech, and Design.
+The School of Management at [GD Goenka University](/colleges/gd-goenka-university) is known for its industry-aligned curriculum and a focus on holistic student development. Being part of a 60-acre lush green campus, BBA students here enjoy a vibrant life alongside peers from Law, Tech, and Design.
 
 ### **Key Highlights**
 *   **Location:** Sohna Road, Gurgaon (Delhi NCR).

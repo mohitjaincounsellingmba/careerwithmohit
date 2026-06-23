@@ -74,9 +74,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **KIET Group of Institutions** | JEE Main (UPTAC) | ₹5.2 Lakhs (Total) | **₹6.5 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad)** | JEE Main (UPTAC) | ₹5.2 Lakhs (Total) | **₹6.5 LPA** |
 | **Ajay Kumar Garg Engineering College (AKGEC)** | JEE Main (UPTAC) | ₹5.6 Lakhs (Total) | **₹6.2 LPA** |
-| **ABES Engineering College** | JEE Main (UPTAC) | ₹5.6 Lakhs (Total) | **₹5.8 LPA** |
+| **[ABES Engineering College](/colleges/abes-ghaziabad)** | JEE Main (UPTAC) | ₹5.6 Lakhs (Total) | **₹5.8 LPA** |
 | **Raj Kumar Goel Institute of Technology (RKGIT)** | JEE Main / UPTAC | ₹4.4 Lakhs (Total) | **₹4.5 LPA** |
 
 ---

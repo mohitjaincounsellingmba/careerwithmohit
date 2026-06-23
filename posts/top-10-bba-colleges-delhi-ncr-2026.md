@@ -100,7 +100,7 @@ Galgotias is popular for its dynamic campus environment, modern pedagogy, and st
 - **Highest Package:** ₹8.2 LPA
 - **Key Advantage:** Strong placement drive with over 500 recruiters visiting campus annually.
 
-### 9. [Jagan Institute of Management Studies (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+### 9. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
 JIMS Rohini is a well-established GGSIPU institute known for its industry-aligned BBA program and focused placement preparation.
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam:** IPU CET
@@ -129,7 +129,7 @@ JMI is a central university offering one of the most affordable BBA programs in 
 | **5** | **[Amity University](/colleges/amity-noida), Noida** | Merit / Interview | ₹4.0 Lakhs | ₹5.5 LPA |
 | **6** | **[BML Munjal University](/colleges/bml-munjal-gurgaon), Gurgaon** | UGAT / CUET / SAT | ₹3.0 Lakhs | ₹5.8 LPA |
 | **7** | **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET | ₹1.1 Lakhs | ₹4.8 LPA |
-| **8** | **Galgotias University** | CUET / Merit | ₹1.2 Lakhs | ₹4.2 LPA |
+| **8** | **[Galgotias University](/colleges/galgotias-university)** | CUET / Merit | ₹1.2 Lakhs | ₹4.2 LPA |
 | **9** | **JIMS Rohini** | IPU CET | ₹1.2 Lakhs | ₹4.5 LPA |
 | **10** | **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance | ₹13,000 | ₹5.0 LPA |
 

@@ -123,7 +123,7 @@ Mumbai, the financial capital of India, is home to some of the highest-ranked B-
     *   **MAH CET Cutoff**: 94 Percentile
     *   **Total Fees**: ₹3.20 Lakhs
     *   **Avg. Placement**: ₹5.50 LPA
-*   **Rizvi Institute of Management Studies**
+*   **Rizvi [Institute of Management Studies](/colleges/institute-of-management-studies)**
     *   **MAH CET Cutoff**: 96 Percentile
     *   **Total Fees**: ₹3.80 Lakhs
     *   **Avg. Placement**: ₹6.00 LPA

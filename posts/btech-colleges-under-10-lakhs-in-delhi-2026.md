@@ -87,11 +87,11 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Delhi Technological University (DTU)** | JEE Main (JAC Delhi) | ₹6.6 Lakhs (Total) | **₹15.0 LPA** |
-| **Netaji Subhas University of Technology (NSUT)** | JEE Main (JAC Delhi) | ₹6.6 Lakhs (Total) | **₹14.0 LPA** |
+| **[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)** | JEE Main (JAC Delhi) | ₹6.6 Lakhs (Total) | **₹14.0 LPA** |
 | **University School of ICT (USICT), GGSIPU** | JEE Main (IPU Counselling) | ₹4.8 Lakhs (Total) | **₹9.0 LPA** |
 | **Maharaja Agrasen Institute of Technology (MAIT)** | JEE Main | ₹5.6 Lakhs (Total) | **₹8.0 LPA** |
 | **Bharati Vidyapeeth's College of Engineering (BVCOE)** | JEE Main | ₹5.2 Lakhs (Total) | **₹7.0 LPA** |
-| **Jamia Millia Islamia (JMI)** | JEE Main | ₹64,000 (Total) | **₹9.5 LPA** |
+| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JEE Main | ₹64,000 (Total) | **₹9.5 LPA** |
 
 ---
 

@@ -30,7 +30,7 @@ faqs:
 ---
 **[Chitkara University](/colleges/chitkara-university) Online** has emerged as one of North India’s most specialized private institutions for innovation-led digital education. Based in the education hub of Rajpura, Punjab, Chitkara's online division brings that same academic rigor and industry-aligned focus directly to you. With a prestigious **NAAC A+ accreditation**, Chitkara offers some of the most specialized online degrees in India for 2026.
 
-As we move into the 2026-27 academy session, Chitkara University Online is a top-tier choice for students and working professionals seeking to boost their careers with a recognized degree at a highly competitive price point.
+As we move into the 2026-27 academy session, [Chitkara University](/colleges/chitkara-university) Online is a top-tier choice for students and working professionals seeking to boost their careers with a recognized degree at a highly competitive price point.
 
 ## 📊 Chitkara University Online: Key Highlights 2026
 

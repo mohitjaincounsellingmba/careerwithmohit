@@ -43,7 +43,7 @@ GD Goenka is accessible to merit-based candidates with decent JEE scores or high
 | **Class 10+2 (PCM)** | 80% - 90% | 70% - 80% |
 | **CUET Score** | 80th Percentile+ | 75th Percentile+ |
 
-### **GD Goenka University B.Tech Fee Structure 2026**
+### **[GD Goenka University](/colleges/gd-goenka-university) B.Tech Fee Structure 2026**
 GDGU offers premium facilities at an annual fee comparable to other top-tier Gurugram private universities.
 *   **Annual Tuition Fee (CSE)**: approx. ₹2.75 Lakhs.
 *   **Total 4-Year Tuition Cost**: **₹11.1 Lakhs - ₹13.3 Lakhs** (for Aerospace/CSE).

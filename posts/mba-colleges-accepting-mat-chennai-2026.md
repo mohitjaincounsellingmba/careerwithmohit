@@ -77,7 +77,7 @@ Phenomenal ROI, beautiful campus, and dedicated placement cell for top MNCs.
 | **LIBA Chennai (Loyola Institute of Business Administration)** | 75+ Percentile | ₹16.00 Lakhs | **₹11.0 LPA** |
 | **SRM Institute of Science and Technology** | 65+ Percentile | ₹8.00 Lakhs | **₹7.20 LPA** |
 | **VIT Business School Chennai** | 65+ Percentile | ₹7.50 Lakhs | **₹6.80 LPA** |
-| **SSN School of Management** | 70+ Percentile | ₹6.00 Lakhs | **₹7.20 LPA** |
+| **[SSN School of Management](/colleges/ssn-school-of-management)** | 70+ Percentile | ₹6.00 Lakhs | **₹7.20 LPA** |
 
 ---
 

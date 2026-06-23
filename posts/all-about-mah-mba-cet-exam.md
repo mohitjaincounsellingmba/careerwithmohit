@@ -81,7 +81,7 @@ Because there is no negative marking, cutoffs for top colleges skyrocket.
 
 The Centralised Admission Process (CAP) manages counselling for nearly 300+ institutes across Maharashtra.
 
-- JBIMS (Jamnalal Bajaj Institute of Management Studies), Mumbai
+- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies)), Mumbai
 - SIMSREE (Sydenham Institute), Mumbai
 - Welingkar Institute of Management (WeSchool), Mumbai
 - PUMBA (Pune University Department of Management Sciences)

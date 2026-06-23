@@ -97,7 +97,7 @@ One of India's most prestigious public universities.
 Many students from West Bengal and Bihar target Kolkata for reliable private B-schools:
 
 - **[Globsyn Business School](/colleges/globsyn-kolkata):** Well-known for its **Knowledge Management** based pedagogy and strong IT sector placements.
-- **Heritage Business School:** Part of the famous Heritage group. Known for a disciplined academic environment.
+- **[Heritage Business School](/colleges/heritage-business-school):** Part of the famous Heritage group. Known for a disciplined academic environment.
 - **[Techno India University](/colleges/techno-india-university-kolkata):** Offer massive scaling and direct admission options for students with mid-range graduation marks.
 
 ---

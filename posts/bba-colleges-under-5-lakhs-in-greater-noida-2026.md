@@ -74,10 +74,10 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Galgotias University (BBA Program)** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
+| **[Galgotias University](/colleges/galgotias-university) (BBA Program)** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
 | **GL Bajaj Institute of Management** | Merit / CUET | ₹1.3 Lakhs (Annual) | **₹4.0 LPA** |
-| **GNIOT Institute of Management Studies** | Merit / CUET | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
-| **Noida Institute of Engineering and Technology (NIET)** | Merit / CUET | ₹1.0 Lakhs (Annual) | **₹3.6 LPA** |
+| **GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)** | Merit / CUET | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
+| **[Noida Institute of Engineering and Technology (NIET)](/colleges/niet-greater-noida)** | Merit / CUET | ₹1.0 Lakhs (Annual) | **₹3.6 LPA** |
 
 ---
 

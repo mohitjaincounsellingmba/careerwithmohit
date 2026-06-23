@@ -140,7 +140,7 @@ The university does have a **management quota** for a limited number of seats, b
 
 ---
 
-### **Is JECRC University Worth It for B.Tech?**
+### **Is [JECRC University](/colleges/jecrc-jaipur) Worth It for B.Tech?**
 
 **Pros:**
 - Affordable fee structure compared to premium private universities

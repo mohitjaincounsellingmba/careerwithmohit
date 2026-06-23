@@ -81,10 +81,10 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Jaipur** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹7.4 LPA** |
-| **Taxila Business School** | CMAT / MAT / CAT | ₹9.0 Lakhs (Total) | **₹12.0 LPA** |
+| **[Taxila Business School](/colleges/taxila-jaipur)** | CMAT / MAT / CAT | ₹9.0 Lakhs (Total) | **₹12.0 LPA** |
 | **Manipal University, Jaipur** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹6.5 LPA** |
-| **IIHMR University** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.8 LPA** |
-| **JECRC University** | CAT / MAT / CMAT | ₹3.5 Lakhs (Total) | **₹5.0 LPA** |
+| **[IIHMR University](/colleges/iihmr-university)** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.8 LPA** |
+| **[JECRC University](/colleges/jecrc-jaipur)** | CAT / MAT / CMAT | ₹3.5 Lakhs (Total) | **₹5.0 LPA** |
 
 ---
 

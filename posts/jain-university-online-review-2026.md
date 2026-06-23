@@ -28,7 +28,7 @@ faqs:
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
 ---
-**[Jain University](/colleges/jain-university) Online** is a pioneer in the digital education space, based in Bangalore – India’s Silicon Valley. With the highest possible **NAAC A++ accreditation**, Jain University offers specialized online degrees with a heavy focus on technology, innovation, and entrepreneurship.
+**[Jain University](/colleges/jain-university) Online** is a pioneer in the digital education space, based in Bangalore – India’s Silicon Valley. With the highest possible **NAAC A++ accreditation**, [Jain University](/colleges/jain-university) offers specialized online degrees with a heavy focus on technology, innovation, and entrepreneurship.
 
 As we look toward the 2026 session, Jain’s online programs are a top pick for students wanting a modern, tech-forward degree with global recognition.
 

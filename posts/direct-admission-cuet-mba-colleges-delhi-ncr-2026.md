@@ -83,7 +83,7 @@ A solid choice for students focusing on core placement opportunities in the IT a
 | **[Bennett University](/colleges/bennett-greater-noida)** | ₹12.0L - ₹14.3L | ₹7.41 LPA | Open (Apply Directly) |
 | **GNIOT, Greater Noida** | ₹5.00 Lakhs | ₹7.25 LPA | Open (Direct/CUET) |
 | **[Sharda University](/colleges/sharda-greater-noida)** | ₹8.7L - ₹9.9L | ₹6.00 LPA | Open (Interview Based) |
-| **Galgotias University** | ₹2.7L - ₹3.8L | ₹5.25 LPA | Open (Merit/CUET) |
+| **[Galgotias University](/colleges/galgotias-university)** | ₹2.7L - ₹3.8L | ₹5.25 LPA | Open (Merit/CUET) |
 | **[Jaypee Business School](/colleges/jaypee-business-school-noida)** | ₹8.00 Lakhs | ₹6.50 LPA | Open (Apply Directly) |
 | **K.R. Mangalam Univ.** | ₹6.00 Lakhs | ₹5.00 LPA | Open (Direct Admission) |
 

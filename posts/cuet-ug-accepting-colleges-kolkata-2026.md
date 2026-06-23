@@ -52,7 +52,7 @@ A top-tier private university in Kolkata focusing on vocational and professional
 *   **USP:** Solid placement record and corporate interfaces.
 
 ### **4. [Techno India University](/colleges/techno-india-university-kolkata) (TIU)**
-Part of the Techno India Group, this university offers multidisciplinary education.
+Part of the [Techno India Group](/colleges/techno-india-group), this university offers multidisciplinary education.
 *   **Programs:** BA (Hons), B.Com (Hons), B.Sc, B.Tech.
 *   **USP:** Global exposure and a large international student community.
 

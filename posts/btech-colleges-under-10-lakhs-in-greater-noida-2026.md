@@ -79,9 +79,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **GL Bajaj Institute of Technology & Management** | JEE Main (UPTAC) | ₹5.6 Lakhs (Total) | **₹6.8 LPA** |
-| **Galgotias University (School of Engineering)** | JEE Main / Merit | ₹6.4 Lakhs (Total) | **₹5.5 LPA** |
+| **[Galgotias University](/colleges/galgotias-university) (School of Engineering)** | JEE Main / Merit | ₹6.4 Lakhs (Total) | **₹5.5 LPA** |
 | **GNIOT Group of Institutions (Engineering Campus)** | JEE Main / UPTAC | ₹4.8 Lakhs (Total) | **₹4.8 LPA** |
-| **Sharda University (School of Engineering & Technology)** | SUAT / JEE Main | ₹8.8 Lakhs (Total) | **₹5.0 LPA** |
+| **[Sharda University](/colleges/sharda-greater-noida) (School of Engineering & Technology)** | SUAT / JEE Main | ₹8.8 Lakhs (Total) | **₹5.0 LPA** |
 
 ---
 

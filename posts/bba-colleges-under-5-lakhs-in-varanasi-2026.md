@@ -68,7 +68,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Department of Commerce & Management, University of Varanasi** | CUET / Merit-Based | ₹30,000 - ₹90,000 (Total) | **₹3.8 LPA - ₹5.0 LPA** |
 | **Government PG College, Varanasi** | Class 12th Marks (Merit) | ₹15,000 - ₹45,000 (Total) | **₹3.0 LPA - ₹4.2 LPA** |
-| **Varanasi Institute of Management Studies (CIMS)** | CUET / Institute Merit | ₹1.2 Lakhs - ₹1.8 Lakhs (Annual) | **₹3.5 LPA - ₹4.5 LPA** |
+| **Varanasi [Institute of Management Studies](/colleges/institute-of-management-studies) (CIMS)** | CUET / Institute Merit | ₹1.2 Lakhs - ₹1.8 Lakhs (Annual) | **₹3.5 LPA - ₹4.5 LPA** |
 
 ---
 

@@ -74,7 +74,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **IMS Ghaziabad (University Courses Campus)** | Merit / CUET | ₹1.5 Lakhs (Annual) | **₹4.5 LPA** |
 | **ITS Ghaziabad (Mohan Nagar)** | Merit / CUET | ₹1.4 Lakhs (Annual) | **₹4.2 LPA** |
-| **KIET Group of Institutions (BBA)** | Merit / CUET | ₹1.2 Lakhs (Annual) | **₹4.0 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad) (BBA)** | Merit / CUET | ₹1.2 Lakhs (Annual) | **₹4.0 LPA** |
 | **Mewar Institute of Management** | Merit / CUET | ₹80,000 (Annual) | **₹3.5 LPA** |
 
 ---

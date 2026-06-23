@@ -70,8 +70,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **GNIOT Institute of Management Studies** | MAT / CMAT / CAT | ₹3.2 Lakhs (Total) | **₹5.5 LPA** |
-| **Galgotias University (MBA Program)** | CUET-PG / CMAT | ₹3.0 Lakhs (Total) | **₹5.0 LPA** |
+| **GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)** | MAT / CMAT / CAT | ₹3.2 Lakhs (Total) | **₹5.5 LPA** |
+| **[Galgotias University](/colleges/galgotias-university) (MBA Program)** | CUET-PG / CMAT | ₹3.0 Lakhs (Total) | **₹5.0 LPA** |
 | **Mangalmay Institute of Management & Technology** | CMAT / MAT / Merit | ₹2.8 Lakhs (Total) | **₹4.8 LPA** |
 
 ---

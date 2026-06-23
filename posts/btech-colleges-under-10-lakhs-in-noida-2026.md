@@ -74,7 +74,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **JSS Academy of Technical Education (JSSATE)** | JEE Main (UPTAC) | ₹4.8 Lakhs (Total) | **₹6.5 LPA** |
+| **[JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)** | JEE Main (UPTAC) | ₹4.8 Lakhs (Total) | **₹6.5 LPA** |
 | **Noida Institute of Engineering & Technology (NIET)** | JEE Main / UPTAC | ₹4.8 Lakhs (Total) | **₹5.0 LPA** |
 | **Galgotias College of Engineering & Technology (GCET)** | JEE Main (UPTAC) | ₹5.2 Lakhs (Total) | **₹6.0 LPA** |
 | **Amity School of Engineering & Technology (Subsidized entry/Core)** | Amity JEE / JEE Main | ₹9.6 Lakhs (Total) | **₹6.0 LPA** |

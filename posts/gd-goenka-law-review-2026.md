@@ -36,7 +36,7 @@ In this **GD Goenka Law Review 2026**, we break down the costs, placement succes
 ---
 
 ## ⚖️ GD Goenka School of Law: Overview
-Accredited and approved by the **Bar Council of India (BCI)**, the School of Law at GD Goenka University (GDGU) aims to produce global legal professionals with a strong understanding of corporate and civil law.
+Accredited and approved by the **Bar Council of India (BCI)**, the School of Law at [GD Goenka University](/colleges/gd-goenka-university) (GDGU) aims to produce global legal professionals with a strong understanding of corporate and civil law.
 
 ### **Key Highlights**
 *   **Infrastructure:** A dedicated School of Law building with its own specialized law library and state-of-the-art Moot Courtrooms.

@@ -83,8 +83,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | **RV College of Engineering (RVCE - KCET Quota)** | KCET / COMEDK | ₹4.8 Lakhs (Total) | **₹14.5 LPA** |
 | **BMS College of Engineering (BMSCE - KCET Quota)** | KCET / COMEDK | ₹4.8 Lakhs (Total) | **₹12.0 LPA** |
 | **M.S. Ramaiah Institute of Technology (MSRIT - KCET Quota)** | KCET / COMEDK | ₹4.8 Lakhs (Total) | **₹11.0 LPA** |
-| **Bangalore Institute of Technology (BIT)** | KCET / COMEDK | ₹4.0 Lakhs (Total) | **₹7.5 LPA** |
-| **PES University (RR Campus - KCET Quota)** | KCET | ₹4.8 Lakhs (Total) | **₹12.0 LPA** |
+| **[Bangalore Institute of Technology (BIT)](/colleges/bit-bangalore)** | KCET / COMEDK | ₹4.0 Lakhs (Total) | **₹7.5 LPA** |
+| **[PES University](/colleges/pes-university) (RR Campus - KCET Quota)** | KCET | ₹4.8 Lakhs (Total) | **₹12.0 LPA** |
 
 ---
 

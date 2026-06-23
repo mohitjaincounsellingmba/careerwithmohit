@@ -85,11 +85,11 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Shaheed Sukhdev College of Business Studies (SSCBS)** | CUET-UG | ₹20,000 (Annual) | **₹9.8 LPA** |
-| **Jamia Millia Islamia (JMI)** | JMI Entrance Exam | ₹13,000 (Annual) | **₹6.0 LPA** |
-| **Maharaja Agrasen Institute of Management Studies (MAIMS)** | IPU CET / CUET | ₹1.1 Lakhs (Annual) | **₹4.5 LPA** |
+| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance Exam | ₹13,000 (Annual) | **₹6.0 LPA** |
+| **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** | IPU CET / CUET | ₹1.1 Lakhs (Annual) | **₹4.5 LPA** |
 | **Vivekananda Institute of Professional Studies (VIPS)** | IPU CET / CUET | ₹1.2 Lakhs (Annual) | **₹4.6 LPA** |
-| **Maharaja Surajmal Institute (MSI)** | IPU CET / CUET | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
-| **Jagan Institute of Management Studies (JIMS Rohini)** | IPU CET / CUET | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
+| **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET / CUET | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
+| **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)** | IPU CET / CUET | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
 
 ---
 

@@ -35,7 +35,7 @@ In this **GD Goenka BTech Review 2026**, we analyze the placements, infrastructu
 ---
 
 ## 🛠️ Engineering at GD Goenka: Overview
-GD Goenka University focuses on "industry-integrated" learning. Their engineering school is particularly popular for Computer Science (CSE) due to the proximity to the Gurgaon IT hub (Cyber City, Udyog Vihar).
+[GD Goenka University](/colleges/gd-goenka-university) focuses on "industry-integrated" learning. Their engineering school is particularly popular for Computer Science (CSE) due to the proximity to the Gurgaon IT hub (Cyber City, Udyog Vihar).
 
 ### **Key Highlights**
 *   **Accreditation:** NAAC Grade 'A+' (Highest possible category).

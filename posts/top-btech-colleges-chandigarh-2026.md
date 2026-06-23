@@ -103,7 +103,7 @@ The fastest-growing private university in North India with 30,000+ students, mul
 - **Avg Package:** ₹5–9 LPA | Highest: ₹42 LPA
 - **Top Recruiters:** TCS, Wipro, Infosys, HCL, Cognizant
 
-### 5. Chitkara University, Rajpura (Mohali)
+### 5. [Chitkara University](/colleges/chitkara-university), Rajpura (Mohali)
 Chitkara is a fast-rising private university known for its industry-integrated programmes, IBM and Microsoft partnerships, and affordable fees.
 
 - **Courses:** CSE (AI, Data Science, Cloud), ECE, Mechanical, Civil

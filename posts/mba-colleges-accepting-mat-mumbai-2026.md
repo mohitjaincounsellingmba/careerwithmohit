@@ -76,7 +76,7 @@ Offers global standard business curriculum with strong marketing and analytics l
 | **Welingkar Institute of Management (WeSchool)** | 80+ Percentile | ₹14.0 Lakhs | **₹12.5 LPA** |
 | **ITM Business School (Navi Mumbai)** | 70+ Percentile | ₹11.95 Lakhs | **₹8.60 LPA** |
 | **Universal AI University** | 65+ Percentile | ₹11.80 Lakhs | **₹8.20 LPA** |
-| **N. L. Dalmia Institute of Management Studies** | 75+ Percentile | ₹13.20 Lakhs | **₹10.2 LPA** |
+| **N. L. Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies)** | 75+ Percentile | ₹13.20 Lakhs | **₹10.2 LPA** |
 | **JAGSoM (Vijaybhoomi University Campus)** | 70+ Percentile | ₹12.00 Lakhs | **₹8.50 LPA** |
 
 ---

@@ -96,7 +96,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Chandigarh for 2026** to 
 | **3** | **MCM DAV College for Women** | Merit | ₹35,000 |
 | **4** | **Post Graduate Government College (PGGC)** | Merit | ₹25,000 |
 | **5** | **Chandigarh University (Mohali)** | CUCET | ₹1.6 Lakhs |
-| **6** | **Chitkara University (Rajpura)** | Merit | ₹1.5 Lakhs |
+| **6** | **[Chitkara University](/colleges/chitkara-university) (Rajpura)** | Merit | ₹1.5 Lakhs |
 | **7** | **Panjab University (UBS affiliated)** | PU MET | ₹50,000 |
 | **8** | **University of Fraser Valley (Chandigarh Campus)** | Merit | ₹4.0 Lakhs |
 | **9** | **Rayat Bahra University** | Merit | ₹1.0 Lakhs |

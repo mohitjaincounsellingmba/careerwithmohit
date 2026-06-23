@@ -100,7 +100,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 | **7** | **UEM Kolkata** | Merit | ₹1.1 Lakhs |
 | **8** | **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata)** | Merit | ₹1.0 Lakhs |
 | **9** | **Brainware University** | Merit | ₹90,000 |
-| **10** | **Adamas University** | Merit | ₹1.1 Lakhs |
+| **10** | **[Adamas University](/colleges/adamas-university)** | Merit | ₹1.1 Lakhs |
 
 
 ---

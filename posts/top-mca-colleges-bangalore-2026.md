@@ -63,7 +63,7 @@ Arguably the best non-NIT college for MCA in India. RVCE’s MCA department has 
 ### 2. BMS College of Engineering (BMSCE)
 Located in Bull Temple Road, BMSCE is a brand name that recruiters trust. Their MCA program is very practical, with strong ties to Bangalore's startup hubs (Indiranagar/Koramangala).
 
-### 3. PES University (Ring Road Campus)
+### 3. [PES University](/colleges/pes-university) (Ring Road Campus)
 Known for its high-intensity curriculum and incredible technical infrastructure.
 - **USP:** Their placement cell works across all campuses, bringing in over 400+ tech companies annually.
 

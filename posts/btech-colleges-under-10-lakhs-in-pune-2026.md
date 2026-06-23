@@ -74,9 +74,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Accepted Entrance Exams | Approximate Fees (Total) | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **COEP Technological University** | MHT-CET | ₹4.8 Lakhs (Total) | **₹11.5 LPA** |
-| **Pune Institute of Computer Technology (PICT)** | MHT-CET / JEE Main | ₹3.8 Lakhs (Total) | **₹12.0 LPA** |
-| **Pimpri Chinchwad College of Engineering (PCCOE)** | MHT-CET / JEE Main | ₹5.2 Lakhs (Total) | **₹7.2 LPA** |
+| **[COEP Technological University](/colleges/coep-pune)** | MHT-CET | ₹4.8 Lakhs (Total) | **₹11.5 LPA** |
+| **[Pune Institute of Computer Technology (PICT)](/colleges/pict-pune)** | MHT-CET / JEE Main | ₹3.8 Lakhs (Total) | **₹12.0 LPA** |
+| **[Pimpri Chinchwad College of Engineering (PCCOE)](/colleges/pccoe-pune)** | MHT-CET / JEE Main | ₹5.2 Lakhs (Total) | **₹7.2 LPA** |
 | **Vishwakarma Institute of Technology (VIT Pune)** | MHT-CET / JEE Main | ₹7.2 Lakhs (Total) | **₹8.0 LPA** |
 
 ---

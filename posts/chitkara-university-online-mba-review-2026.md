@@ -33,7 +33,7 @@ Here is our comprehensive review for 2026.
 
 ---
 
-## 📊 Chitkara University Online MBA Snapshot
+## 📊 [Chitkara University](/colleges/chitkara-university) Online MBA Snapshot
 
 | Feature | Details |
 | :--- | :--- |

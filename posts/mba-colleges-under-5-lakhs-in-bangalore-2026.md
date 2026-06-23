@@ -70,7 +70,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Canara Bank School of Management Studies, Bangalore University** | Karnataka PGCET | ₹1.4 Lakhs (Total) | **₹5.5 LPA** |
 | **Kristu Jayanti College (MBA)** | KMAT / PGCET / MAT | ₹3.8 Lakhs (Annual) | **₹5.0 LPA** |
-| **PES University (Subsidized Quota)** | Karnataka PGCET / PESSAT | ₹4.8 Lakhs (Annual) | **₹6.5 LPA** |
+| **[PES University](/colleges/pes-university) (Subsidized Quota)** | Karnataka PGCET / PESSAT | ₹4.8 Lakhs (Annual) | **₹6.5 LPA** |
 
 ---
 

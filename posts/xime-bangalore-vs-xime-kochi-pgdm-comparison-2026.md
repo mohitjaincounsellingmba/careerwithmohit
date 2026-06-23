@@ -164,7 +164,7 @@ Both campuses follow the same admission process:
 | ACBSP (USA) | ✅ | ❌ |
 | EFMD (Europe) | ❌ | ✅ |
 
-Both campuses are strongly accredited. XIME Bangalore leans towards the **US accreditation ecosystem** (ACBSP), while XIME Kochi has recently aligned with the **European framework** (EFMD). If you have aspirations for a stint abroad, pick based on your target geography.
+Both campuses are strongly accredited. [XIME Bangalore](/colleges/xime-bangalore) leans towards the **US accreditation ecosystem** (ACBSP), while XIME Kochi has recently aligned with the **European framework** (EFMD). If you have aspirations for a stint abroad, pick based on your target geography.
 
 ---
 

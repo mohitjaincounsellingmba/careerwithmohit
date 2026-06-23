@@ -79,7 +79,7 @@ JBIMS is the **crown jewel of CMAT admissions**. With placements rivalling IIM-C
 
 ---
 
-### 2. SIMSREE — Sydenham Institute of Management Studies, Mumbai
+### 2. SIMSREE — Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies), Mumbai
 
 **CMAT Cutoff:** 99.9+ Percentile  
 **Total Fees:** ₹70,000–₹2 Lakhs (Government)  

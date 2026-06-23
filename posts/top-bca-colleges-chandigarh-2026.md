@@ -66,7 +66,7 @@ Consistently ranked India’s elite. It is widely considered the #1 college in C
 - **Selection:** Extremely high merit cut-offs. You need 90%+ for a safe seat.
 - **Advantage:** Massive corporate exposure and an unbeatable placement cell.
 
-### 3. Chandigarh University (CU) & Chitkara University
+### 3. Chandigarh University (CU) & [Chitkara University](/colleges/chitkara-university)
 These private universities dominate the **Placement Volume** in North India. They bring over 900+ companies to the Tricity campuses every year.
 - **Admission:** CUCET for CU; Merit for Chitkara.
 

@@ -67,7 +67,7 @@ Known as the **"CEO Factory of India."** Highly competitive.
 - **Why Choose It:** Almost zero tuition fee compared to IIMs, but placements are identical.
 - **Top Recruiters:** BCG, McKinsey, Morgan Stanley, HSBC.
 
-### 2. SIMSREE (Sydenham Institute of Management Studies)
+### 2. SIMSREE (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))
 The #2 ROI choice in Mumbai. Affiliated with Mumbai University.
 - **Total Fees:** ~₹1.4 Lakhs for 2 years.
 - **Avg. Package:** ₹15 LPA+. That is a 10x return!

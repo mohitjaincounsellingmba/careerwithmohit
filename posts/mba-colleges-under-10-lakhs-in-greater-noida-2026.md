@@ -77,9 +77,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **GNIOT Institute of Management Studies (GIMS)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.8 LPA** |
-| **Galgotias University (MBA Program)** | CUET-PG / CMAT | ₹4.5 Lakhs (Total) | **₹5.2 LPA** |
-| **GL Bajaj Institute of Technology and Management** | UPSEE / CMAT / CAT | ₹6.0 Lakhs (Total) | **₹6.0 LPA** |
+| **[GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.8 LPA** |
+| **[Galgotias University](/colleges/galgotias-university) (MBA Program)** | CUET-PG / CMAT | ₹4.5 Lakhs (Total) | **₹5.2 LPA** |
+| **[GL Bajaj Institute of Technology and Management](/colleges/gl-bajaj-greater-noida)** | UPSEE / CMAT / CAT | ₹6.0 Lakhs (Total) | **₹6.0 LPA** |
 | **IILM Graduate School of Management** | CAT / MAT / CMAT | ₹7.5 Lakhs (Total) | **₹6.5 LPA** |
 
 ---

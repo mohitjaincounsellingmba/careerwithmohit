@@ -72,8 +72,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **JECRC University** | Merit / CUET | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
-| **Poornima University** | Merit-Based | ₹1.0 Lakhs (Annual) | **₹3.8 LPA** |
+| **[JECRC University](/colleges/jecrc-jaipur)** | Merit / CUET | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
+| **[Poornima University](/colleges/poornima-jaipur)** | Merit-Based | ₹1.0 Lakhs (Annual) | **₹3.8 LPA** |
 | **Vivekananda Global University (VGU)** | VGUCET / Merit | ₹1.1 Lakhs (Annual) | **₹3.6 LPA** |
 | **Jaipur National University** | Merit / Entrance | ₹1.0 Lakhs (Annual) | **₹3.5 LPA** |
 

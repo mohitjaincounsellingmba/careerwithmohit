@@ -67,7 +67,7 @@ If you have the 60-70 percentile rank and a ₹10-12 Lakh budget, don't waste it
 ---
 
 ### **Frequently Asked Questions (FAQ)**
-**1. Is Galgotias University bad for MBA?**
+**1. Is [Galgotias University](/colleges/galgotias-university) bad for MBA?**
 It isn't "bad" if you just want a degree. But if you want a **management career** with a high-package placement, the mass-intake model of Galgotias makes it extremely difficult for an average student to succeed.
 
 **2. What is the average package of MBA at Galgotias 2026?**

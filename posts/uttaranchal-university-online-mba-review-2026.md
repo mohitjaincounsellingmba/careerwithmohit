@@ -31,7 +31,7 @@ faqs:
     answer: Yes. The program is 100% online and accessible from any location in India.
 ---
 
-**[Uttaranchal University](/colleges/uttaranchal-university)**, based in **Dehradun, Uttarakhand**, offers an affordable online MBA through its digital education platform (uttaranchaluniversityonline.com). Holding a **NAAC A+ grade** and UGC-DEB recognition, Uttaranchal University positions itself as a strong mid-budget option — particularly for students in North India and Himalayan states who need a recognized degree at under ₹1.5 Lakhs.
+**[Uttaranchal University](/colleges/uttaranchal-university)**, based in **Dehradun, Uttarakhand**, offers an affordable online MBA through its digital education platform (uttaranchaluniversityonline.com). Holding a **NAAC A+ grade** and UGC-DEB recognition, [Uttaranchal University](/colleges/uttaranchal-university) positions itself as a strong mid-budget option — particularly for students in North India and Himalayan states who need a recognized degree at under ₹1.5 Lakhs.
 
 ---
 

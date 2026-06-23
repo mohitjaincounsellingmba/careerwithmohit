@@ -77,7 +77,7 @@ Manipal is known for its academic excellence and its advanced Learning Managemen
 ---
 
 ## 4. [Jain University](/colleges/jain-university) Online
-Jain University is a popular choice for students looking for modern specializations like Data Science, Digital Marketing, and Fintech.
+[Jain University](/colleges/jain-university) is a popular choice for students looking for modern specializations like Data Science, Digital Marketing, and Fintech.
 
 *   **Key Highlights:** 30+ elective options and a strong focus on practical skills.
 *   **Fees:** Approx. ₹1,40,000 – ₹1,60,000.

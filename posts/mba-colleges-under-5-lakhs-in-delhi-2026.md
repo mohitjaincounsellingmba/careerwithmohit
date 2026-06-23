@@ -74,7 +74,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Faculty of Management Studies (FMS) - Delhi University** | CAT | ₹2.0 Lakhs (Total) | **₹34.1 LPA** |
-| **Jamia Millia Islamia (JMI)** | JMI Entrance Exam | ₹47,000 (Total) | **₹8.0 LPA** |
+| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance Exam | ₹47,000 (Total) | **₹8.0 LPA** |
 | **University School of Management Studies (USMS), GGSIPU** | CAT / CMAT | ₹2.2 Lakhs (Total) | **₹6.5 LPA** |
 | **Delhi School of Management (DSM), DTU** | CAT | ₹4.5 Lakhs (Total) | **₹9.5 LPA** |
 

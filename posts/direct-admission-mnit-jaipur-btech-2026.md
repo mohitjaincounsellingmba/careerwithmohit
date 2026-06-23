@@ -98,7 +98,7 @@ Cutoffs vary by branch, category, and quota (Home State — Rajasthan vs. Other 
 
 ### **B.Tech Fee Structure at [MNIT Jaipur](/colleges/mnit-jaipur) (2025–2026)**
 
-MNIT Jaipur fees are government-regulated and extremely affordable compared to private institutions:
+[MNIT Jaipur](/colleges/mnit-jaipur) fees are government-regulated and extremely affordable compared to private institutions:
 
 | Fee Category | Annual Amount | 4-Year Total |
 | :--- | :--- | :--- |

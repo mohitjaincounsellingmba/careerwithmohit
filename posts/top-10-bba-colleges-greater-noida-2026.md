@@ -91,7 +91,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Greater Noida for 2026** 
 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
-| **1** | **Galgotias University** | CUET / Merit | ₹1.2 Lakhs |
+| **1** | **[Galgotias University](/colleges/galgotias-university)** | CUET / Merit | ₹1.2 Lakhs |
 | **2** | **[Sharda University](/colleges/sharda-greater-noida)** | SUAT / CUET | ₹1.8 Lakhs |
 | **3** | **GL Bajaj Institute of Management** | Merit | ₹1.3 Lakhs |
 | **4** | **GNIOT Institute of Management** | Merit | ₹1.1 Lakhs |

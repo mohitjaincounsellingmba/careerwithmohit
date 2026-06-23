@@ -157,7 +157,7 @@ Golden Gate University, San Francisco, is AACSB accredited and offers a premium 
 
 ### 6. [Uttaranchal University](/colleges/uttaranchal-university) Online — Executive MBA
 
-Uttaranchal University is UGC, AICTE, AIU, WES, NAAC A+, and ISO approved. One of the most affordable Executive MBA options from a multi-accredited Indian university.
+[Uttaranchal University](/colleges/uttaranchal-university) is UGC, AICTE, AIU, WES, NAAC A+, and ISO approved. One of the most affordable Executive MBA options from a multi-accredited Indian university.
 
 | Feature | Details |
 |---|---|

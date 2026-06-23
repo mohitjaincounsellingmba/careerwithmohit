@@ -44,7 +44,7 @@ Here's our honest, data-backed review of whether it's the right choice for you.
 
 ---
 
-## 📊 Galgotias University Online MBA: Key Snapshot (2026)
+## 📊 [Galgotias University](/colleges/galgotias-university) Online MBA: Key Snapshot (2026)
 
 | Feature | Details |
 | :--- | :--- |

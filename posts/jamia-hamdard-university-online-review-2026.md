@@ -84,7 +84,7 @@ Yes. All online programs from [Jamia Hamdard](/colleges/jamia-hamdard-delhi) Uni
 - **Personalized Advice:** Not sure how to pivot your career? [Consult with Mohit Jain today!](/inquiry)
 
 ---
-[👉 Looking for scholarship info or current enrollment deadlines for Jamia Hamdard Online? Talk to our expert counselors today!](/inquiry)
+[👉 Looking for scholarship info or current enrollment deadlines for [Jamia Hamdard](/colleges/jamia-hamdard-delhi) Online? Talk to our expert counselors today!](/inquiry)
 
 ---
 

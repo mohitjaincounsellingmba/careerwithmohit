@@ -93,7 +93,7 @@ DIAS is a long-standing, NAAC 'A' grade accredited college that is especially po
 * **Pros:** Highly qualified faculty, strong academic results, and focused training for financial sectors.
 * **Cons:** The campus is relatively small, with limited scope for sports and grand extracurricular events.
 
-### 5. Maharaja Agrasen Institute of Management Studies (MAIMS), Rohini
+### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS), Rohini
 Located adjacent to MAIT, MAIMS shares a massive campus and provides a great learning environment with a focus on holistic student development.
 * **Expected CAT Cut-off:** 60 - 65+ Percentile
 * **Expected CMAT Cut-off:** 80 - 85+ Percentile

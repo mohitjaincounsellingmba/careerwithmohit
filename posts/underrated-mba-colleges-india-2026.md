@@ -41,7 +41,7 @@ These institutions are government-backed or university-affiliated, which keeps t
 *   **[JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies)):** Known as the "CEO Factory," JBIMS leverages its location in India's financial capital. The fees are nominal, and it consistently places students in top investment banks and consulting firms.
 *   **TISS Mumbai (MA in HRM & LR):** Though technically an MA rather than an MBA, the Human Resource Management program at Tata Institute of Social Sciences is recruited on par with XLRI. The fees are negligible, and the outcomes are elite.
 *   **DFS & DBE (Delhi University):** The Department of Financial Studies and Department of Business Economics offer highly specialized programs. They are extremely affordable and have a rock-solid reputation in the finance and analytics sectors.
-*   **SIMSREE Mumbai:** Similar to JBIMS, Sydenham Institute of Management Studies offers an incredibly affordable program with excellent placements in the Mumbai corporate market.
+*   **SIMSREE Mumbai:** Similar to JBIMS, Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies) offers an incredibly affordable program with excellent placements in the Mumbai corporate market.
 
 ### 2. IIT-Based B-Schools: The Tech & Management Blend
 

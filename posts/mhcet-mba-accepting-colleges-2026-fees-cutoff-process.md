@@ -45,7 +45,7 @@ These institutes offer unmatched return on investment (ROI) due to heavily subsi
 | College Name | Location | Expected Cutoff (Percentile) | Approx. Total Fees (2 Yrs) |
 | :--- | :--- | :--- | :--- |
 | **JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))** | Mumbai | 99.98+ | ₹6.0 Lakhs |
-| **SIMSREE (Sydenham Institute of Management Studies)** | Mumbai | 99.95+ | ₹1.4 Lakhs |
+| **SIMSREE (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))** | Mumbai | 99.95+ | ₹1.4 Lakhs |
 | **PUMBA (Department of Management Sciences, Pune Univ.)** | Pune | 99.80+ | ₹1.3 Lakhs |
 
 ### 2. Top Autonomous & Private Colleges

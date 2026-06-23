@@ -40,7 +40,7 @@ In this comprehensive review, we dive deep into fees, placements, location advan
 
 ### 📊 Head-to-Head Comparison (2026 Expected)
 
-| Feature | New Delhi Institute of Management (NDIM) | [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida |
+| Feature | [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) | [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida |
 | :--- | :--- | :--- |
 | **Location** | Tughlakabad, South Delhi | Sector 62, Noida |
 | **Total Fees (Approx.)** | ₹11.50 Lakhs | ₹11.25 Lakhs |

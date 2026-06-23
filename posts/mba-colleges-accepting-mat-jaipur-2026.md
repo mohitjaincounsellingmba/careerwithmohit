@@ -74,7 +74,7 @@ Extremely cost-effective college with excellent local industry networking.
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)** | 70+ Percentile | ₹11.5 Lakhs | **₹7.80 LPA** |
-| **FMS-IRM (Institute of Rural Management)** | 60+ Percentile | ₹6.50 Lakhs | **₹6.20 LPA** |
+| **FMS-IRM ([Institute of Rural Management](/colleges/institute-of-rural-management))** | 60+ Percentile | ₹6.50 Lakhs | **₹6.20 LPA** |
 | **[JECRC University](/colleges/jecrc-jaipur)** | 60+ Percentile | ₹5.50 Lakhs | **₹5.50 LPA** |
 | **[Taxila Business School](/colleges/taxila-jaipur)** | 65+ Percentile | ₹9.00 Lakhs | **₹11.5 LPA** |
 | **Poddar Group of Institutions** | 60+ Percentile | ₹3.50 Lakhs | **₹4.80 LPA** |
