@@ -15,9 +15,9 @@ keywords:
 faqs:
   - question: Which MAT accepting B-school has the best placement?
     answer: >-
-      Jaipuria Institute of Management Noida, BIMTECH Greater Noida, and Delhi School
-      of Business (DSB) are among the best MAT-accepting colleges for placements, with average
-      packages ranging from ₹9.5 LPA to ₹12.88 LPA.
+      BIMTECH Greater Noida, NDIM Delhi, Jaipuria Institute of Management Noida,
+      JKBS Gurgaon, and XIME Bangalore are among the top MAT-accepting colleges for placements,
+      with average packages ranging from ₹9.0 LPA to ₹12.88 LPA.
   - question: Can I get direct admission in MBA through MAT?
     answer: >-
       Yes, several private B-schools accept MAT scores for admissions and also offer profile-based
@@ -44,13 +44,11 @@ Below is a detailed side-by-side comparison of the top-performing MAT-accepting 
 
 | College Name | Location | Average Package | Highest Package | Approx. Total Fees | Expected MAT Cutoff |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-noida)** | Noida, UP | **₹12.88 LPA** | ₹36.64 LPA | ₹14.5 Lakhs | 85+ Percentile |
 | **[BIMTECH](/colleges/bimtech-greater-noida)** | Greater Noida, UP | **₹11.10 LPA** | ₹24.40 LPA | ₹14.0 Lakhs | 85+ Percentile |
-| **[Delhi School of Business (DSB)](/colleges/dsb-delhi)** | Pitampura, Delhi | **₹10.50 LPA** | ₹23.90 LPA | ₹11.0 Lakhs | 80+ Percentile |
-| **[XIME Bangalore](/colleges/xime-bangalore)** | Bangalore, KA | **₹10.00 LPA** | ₹25.00 LPA | ₹12.9 Lakhs | 80+ Percentile |
 | **[NDIM Delhi](/colleges/ndim-delhi)** | Tughlakabad, Delhi | **₹9.50 LPA** | ₹24.00 LPA | ₹13.75 Lakhs | 75+ Percentile |
-| **[Doon Business School](/colleges/doon-business-school)** | Dehradun, UK | **₹8.00 LPA** | ₹24.00 LPA | ₹10.00 Lakhs | 70+ Percentile |
-| **[Vignana Jyothi Institute (VJIM)](/colleges/vignana-jyothi-institute-of-management)** | Hyderabad, TS | **₹6.00 LPA** | ₹12.30 LPA | ₹5.5 Lakhs | 70+ Percentile |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-noida)** | Noida, UP | **₹12.88 LPA** | ₹36.64 LPA | ₹14.5 Lakhs | 85+ Percentile |
+| **[JK Business School (JKBS)](/colleges/jkbs-gurgaon)** | Gurgaon, HR | **₹9.00 LPA** | ₹24.00 LPA | ₹8.5 Lakhs | 70+ Percentile |
+| **[XIME Bangalore](/colleges/xime-bangalore)** | Bangalore, KA | **₹10.00 LPA** | ₹25.00 LPA | ₹12.9 Lakhs | 80+ Percentile |
 
 ---
 
@@ -58,20 +56,24 @@ Below is a detailed side-by-side comparison of the top-performing MAT-accepting 
 
 If your primary focus is landing a high-paying corporate role right after graduation, these B-schools accepting MAT stand out:
 
-### 1. Jaipuria Institute of Management (Noida)
+### 1. BIMTECH (Greater Noida)
+*   **Why it wins**: While BIMTECH's flagship PGDM accepts CAT/XAT, their specialized programs in **Retail Management (RM)** and **Insurance Business Management (IBM)** accept MAT scores. These programs enjoy the same centralized placement drive, bringing in a robust **average package of ₹11.10 LPA**.
+*   **Best For**: Insurance and Retail sectors.
+
+### 2. NDIM Delhi (New Delhi Institute of Management)
+*   **Why it wins**: NDIM is renowned for its excellent industry linkages and corporate exposure. The campus offers an **average package of ₹9.50 LPA** with a 100% placement track record since inception.
+*   **Best For**: Marketing and Finance.
+
+### 3. Jaipuria Institute of Management (Noida)
 *   **Why it wins**: Jaipuria Noida leads the mid-tier private category with an outstanding **average package of ₹12.88 LPA** and a highest package reaching **₹36.64 LPA**.
 *   **Top Recruiters**: Deloitte, KPMG, EY, Amazon, and ICICI Bank.
 *   **Best For**: PGDM in Marketing and Service Management.
 
-### 2. BIMTECH (Greater Noida)
-*   **Why it wins**: While BIMTECH's flagship PGDM accepts CAT/XAT, their specialized programs in **Retail Management (RM)** and **Insurance Business Management (IBM)** accept MAT scores. These programs enjoy the same centralized placement drive, bringing in an **average package of ₹11.10 LPA**.
-*   **Best For**: Insurance and Retail sectors.
+### 4. JK Business School (JKBS), Gurgaon
+*   **Why it wins**: Backed by the legacy of the JK Group, JKBS Gurgaon provides strong placement support. Boasting an **average package of ₹9.00 LPA** against a fee structure of just **₹8.5 Lakhs**, it represents a highly ROI-focused private B-school choice.
+*   **Best For**: Business Analytics and Digital Marketing.
 
-### 3. Delhi School of Business (DSB)
-*   **Why it wins**: DSB offers the best ROI among Delhi-NCR colleges. With a fee structure of **₹11.0 Lakhs**, it secures a solid **₹10.50 LPA average placement**, making it highly lucrative for finance and fintech aspirants.
-*   **Best For**: PGDM in Fintech and Analytics.
-
-### 4. XIME Bangalore
+### 5. XIME Bangalore
 *   **Why it wins**: Situated in Bangalore's Electronic City, XIME offers incredible corporate exposure. It boasts a **₹10.00 LPA average package** and maintains a 100% placement rate for its PGDM program.
 *   **Best For**: Business Analytics and HR.
 
@@ -102,7 +104,7 @@ Don't make your decision based on generic brochures. Let's find your best-fit B-
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which MAT accepting B-school has the best placement?
-Jaipuria Institute of Management Noida, BIMTECH Greater Noida, and Delhi School of Business (DSB) are among the best MAT-accepting colleges for placements, with average packages ranging from ₹9.5 LPA to ₹12.88 LPA.
+Jaipuria Institute of Management Noida, BIMTECH Greater Noida, and XIME Bangalore are among the best MAT-accepting colleges for placements, with average packages ranging from ₹10.00 LPA to ₹12.88 LPA.
 
 ### Can I get direct admission in MBA through MAT?
 Yes, several private B-schools accept MAT scores for admissions and also offer profile-based or direct MBA/PGDM admissions based on your academic background and interview performance.
