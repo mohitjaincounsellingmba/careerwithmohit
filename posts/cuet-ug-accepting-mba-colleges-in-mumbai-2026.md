@@ -50,7 +50,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Narsee Monjee Institute of Management Studies (NMIMS) - Integrated MBA** | NPAT / CUET-UG | ₹3.5 Lakhs (Annual) | **₹9.5 LPA** |
+| **Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) - Integrated MBA** | NPAT / CUET-UG | ₹3.5 Lakhs (Annual) | **₹9.5 LPA** |
 | **Mithibai College - Integrated Management Pathway** | CUET-UG / Merit | ₹65,000 (Annual) | **₹7.2 LPA** |
 
 ---

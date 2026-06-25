@@ -56,7 +56,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Jain University - Integrated BBA + MBA** | CUET-UG / JET | ₹2.2 Lakhs (Annual) | **₹6.2 LPA** |
+| **[Jain University](/colleges/jain-university) - Integrated BBA + MBA** | CUET-UG / JET | ₹2.2 Lakhs (Annual) | **₹6.2 LPA** |
 | **RV University - Integrated Management Pathway** | CUET-UG / RVSAT | ₹2.5 Lakhs (Annual) | **₹6.8 LPA** |
 | **REVA University - Integrated BBA + MBA** | CUET-UG / REE | ₹2.0 Lakhs (Annual) | **₹5.8 LPA** |
 

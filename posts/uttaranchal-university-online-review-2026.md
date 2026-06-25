@@ -45,7 +45,7 @@ Based in the serene education hub of Dehradun, [Uttaranchal University](/college
 | **Starting Fee** | Approx. ₹15,000 - ₹30,000 per semester |
 | **Key Advantage** | Most Affordable NAAC A+ Option in India |
 
-👉 **[Start Your Admission Journey at Uttaranchal University Online](/inquiry)**
+👉 **[Start Your Admission Journey at [Uttaranchal University](/colleges/uttaranchal-university) Online](/inquiry)**
 
 ## Popular Programs & Fee Structure
 Uttaranchal University’s online programs are optimized for the 2026 workforce:

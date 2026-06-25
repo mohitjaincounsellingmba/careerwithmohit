@@ -56,8 +56,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **BML Munjal University - Integrated MBA** | CUET-UG / UGAT | ₹3.0 Lakhs (Annual) | **₹7.5 LPA** |
-| **GD Goenka University - Integrated MBA** | CUET-UG / GATA | ₹2.5 Lakhs (Annual) | **₹5.8 LPA** |
+| **[BML Munjal University](/colleges/bml-munjal-gurgaon) - Integrated MBA** | CUET-UG / UGAT | ₹3.0 Lakhs (Annual) | **₹7.5 LPA** |
+| **[GD Goenka University](/colleges/gd-goenka-university) - Integrated MBA** | CUET-UG / GATA | ₹2.5 Lakhs (Annual) | **₹5.8 LPA** |
 | **K.R. Mangalam University - Integrated BBA + MBA** | CUET-UG | ₹1.8 Lakhs (Annual) | **₹5.0 LPA** |
 
 ---

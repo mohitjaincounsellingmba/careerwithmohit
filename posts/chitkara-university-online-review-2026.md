@@ -43,7 +43,7 @@ As we move into the 2026-27 academy session, [Chitkara University](/colleges/chi
 | **Starting Fee** | Approx. ₹40,000 - ₹60,000 per semester |
 | **Key Advantage** | High-Quality Innovation Ecosystem + Strongest Punjab Brand |
 
-👉 **[Launch Your Admission Journey at Chitkara University Online](/inquiry)**
+👉 **[Launch Your Admission Journey at [Chitkara University](/colleges/chitkara-university) Online](/inquiry)**
 
 ## Popular Programs & Fee Structure
 Chitkara's online programs are optimized for the 2026 workforce:

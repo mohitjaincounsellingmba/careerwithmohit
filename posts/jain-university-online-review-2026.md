@@ -65,7 +65,7 @@ Jain's online programs are highly market-relevant for 2026:
 - **Approx. Fee:** ₹1,50,000 - ₹1,80,000.
 - **USP:** Emphasis on entrepreneurship and tech-readiness from day one.
 
-## Why Choose Jain University Online?
+## Why Choose [Jain University](/colleges/jain-university) Online?
 
 - **Top-Tier Ranking:** The NAAC A++ grade confirms academic quality and global standing.
 - **WES Approved:** Jain is a WES-recognized institution, crucial for students looking to move abroad for work or higher studies (PR/Visa points).

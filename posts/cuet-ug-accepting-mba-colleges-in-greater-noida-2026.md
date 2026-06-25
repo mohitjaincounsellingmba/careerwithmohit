@@ -56,9 +56,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Galgotias University - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹5.2 LPA** |
-| **Sharda University - Integrated BBA + MBA** | CUET-UG / SUAT | ₹1.8 Lakhs (Annual) | **₹5.5 LPA** |
-| **Bennett University - Integrated MBA** | CUET-UG | ₹3.5 Lakhs (Annual) | **₹7.0 LPA** |
+| **[Galgotias University](/colleges/galgotias-university) - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹5.2 LPA** |
+| **[Sharda University](/colleges/sharda-greater-noida) - Integrated BBA + MBA** | CUET-UG / SUAT | ₹1.8 Lakhs (Annual) | **₹5.5 LPA** |
+| **[Bennett University](/colleges/bennett-greater-noida) - Integrated MBA** | CUET-UG | ₹3.5 Lakhs (Annual) | **₹7.0 LPA** |
 
 ---
 

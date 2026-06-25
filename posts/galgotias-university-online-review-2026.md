@@ -44,7 +44,7 @@ As we move into the 2026-27 academy session, [Galgotias University](/colleges/ga
 | **Starting Fee** | Approx. ₹30,000 - ₹50,000 per semester |
 | **Key Advantage** | Greater Noida Hub + High Brand Value in NCR |
 
-👉 **[Launch Your Admission Journey at Galgotias University Online](/inquiry)**
+👉 **[Launch Your Admission Journey at [Galgotias University](/colleges/galgotias-university) Online](/inquiry)**
 
 ## Popular Programs & Fee Structure
 Galgotias' online programs are optimized for the 2026 workforce:

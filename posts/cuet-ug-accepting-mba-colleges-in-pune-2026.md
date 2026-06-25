@@ -50,7 +50,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **MIT World Peace University (MIT-WPU) - Integrated MBA** | CUET-UG / MIT-WPU CET | ₹2.8 Lakhs (Annual) | **₹6.5 LPA** |
+| **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune) - Integrated MBA** | CUET-UG / MIT-WPU CET | ₹2.8 Lakhs (Annual) | **₹6.5 LPA** |
 | **DY Patil University - Integrated BBA + MBA** | CUET-UG / DPU CET | ₹2.0 Lakhs (Annual) | **₹5.5 LPA** |
 
 ---

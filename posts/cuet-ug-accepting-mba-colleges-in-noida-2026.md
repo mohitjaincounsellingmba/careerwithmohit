@@ -51,7 +51,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **[Amity University](/colleges/amity-noida), Noida - Integrated BBA + MBA** | CUET-UG / Amity Test | ₹3.5 Lakhs (Annual) | **₹6.5 LPA** |
-| **Noida International University (NIU) - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.5 LPA** |
+| **[Noida International University (NIU)](/colleges/niu-greater-noida) - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.5 LPA** |
 
 ---
 

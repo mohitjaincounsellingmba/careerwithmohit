@@ -97,7 +97,7 @@ Galgotias Online MBA typically covers the following specializations:
 Most NAAC A+ universities charge ₹1.5–2 Lakhs for their online MBA. Galgotias delivers the same accreditation at **₹90,000** — an undeniable value proposition for budget-conscious students.
 
 ### 2. Delhi NCR Corporate Connectivity
-Galgotias University is embedded in **Greater Noida** — home to MNCs, manufacturing clusters, and FMCG companies. This geographic advantage translates into **industry-integrated curriculum** and relevant live case studies from real Delhi NCR businesses.
+[Galgotias University](/colleges/galgotias-university) is embedded in **Greater Noida** — home to MNCs, manufacturing clusters, and FMCG companies. This geographic advantage translates into **industry-integrated curriculum** and relevant live case studies from real Delhi NCR businesses.
 
 ### 3. UGC-DEB + AICTE Dual Approval
 Like all leading online MBAs, Galgotias is approved by both UGC-DEB and AICTE — ensuring full validity for government jobs, PSU applications, and private sector hiring.

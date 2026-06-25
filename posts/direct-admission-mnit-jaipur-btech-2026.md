@@ -125,7 +125,7 @@ Cutoffs vary by branch, category, and quota (Home State — Rajasthan vs. Other 
 
 ---
 
-### **MNIT Jaipur Placement Review (2024–2025)**
+### **[MNIT Jaipur](/colleges/mnit-jaipur) Placement Review (2024–2025)**
 
 MNIT Jaipur has a strong Placement & Training Cell with consistent high-quality placements, especially for CSE and ECE.
 

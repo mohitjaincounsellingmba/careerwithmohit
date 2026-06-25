@@ -104,7 +104,7 @@ Don't make your decision based on generic brochures. Let's find your best-fit B-
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which MAT accepting B-school has the best placement?
-[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur) Noida, BIMTECH Greater Noida, and XIME Bangalore are among the best MAT-accepting colleges for placements, with average packages ranging from ₹10.00 LPA to ₹12.88 LPA.
+[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur) Noida, BIMTECH Greater Noida, and [XIME Bangalore](/colleges/xime-bangalore) are among the best MAT-accepting colleges for placements, with average packages ranging from ₹10.00 LPA to ₹12.88 LPA.
 
 ### Can I get direct admission in MBA through MAT?
 Yes, several private B-schools accept MAT scores for admissions and also offer profile-based or direct MBA/PGDM admissions based on your academic background and interview performance.

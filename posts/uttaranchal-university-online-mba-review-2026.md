@@ -39,7 +39,7 @@ faqs:
 
 | Feature | Details |
 | :--- | :--- |
-| **University** | Uttaranchal University, Dehradun |
+| **University** | [Uttaranchal University](/colleges/uttaranchal-university), Dehradun |
 | **NAAC Grade** | **A+** |
 | **UGC-DEB Approved** | ✅ Yes |
 | **Duration** | 2 Years (4 Semesters) |
