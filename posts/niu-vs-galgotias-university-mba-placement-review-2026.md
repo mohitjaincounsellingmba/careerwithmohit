@@ -73,7 +73,7 @@ The lower fee structure of Galgotias (starting at ₹2.7 Lakhs) reflects its **m
 - You are looking for a **High-ROI** program under ₹10 Lakhs.
 - You want a college that is proactive in the upcoming Jewar industrial corridor.
 
-#### **Join Galgotias University ONLY IF:**
+#### **Join [Galgotias University](/colleges/galgotias-university) ONLY IF:**
 - You don't mind being part of a 2,000-student batch.
 - You value "Mass Presence" over individualized career strategy.
 - Your budget allows for higher fees without prioritizing personalized placement mentoring.

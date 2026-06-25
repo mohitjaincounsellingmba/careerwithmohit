@@ -84,6 +84,12 @@ These universities offer world-class infrastructure, global exposure, and a mode
 - **Entrance Exam:** Christ University Entrance Test (CUET) + PI + MP.
 - **USP:** Rigorous academic discipline and a diverse, multi-cultural environment.
 
+### 4. K.R. Mangalam University, Gurugram
+- **Fees:** ₹1.85 Lakhs (Annual)
+- **Average Placement:** ₹4.5 - 5.0 LPA
+- **Entrance Exam:** KREE (K.R. Mangalam Entrance Exam) / CUET UG / Merit-based
+- **USP:** NAAC Grade 'A' accredited campus with state-of-the-art infrastructure and industry-partnered BBA specializations.
+
 ---
 
 ## 📈 Summary Comparison Table (2026 Outlook)

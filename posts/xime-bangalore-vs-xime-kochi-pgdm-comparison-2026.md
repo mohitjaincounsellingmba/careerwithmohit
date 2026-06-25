@@ -172,7 +172,7 @@ Both campuses are strongly accredited. [XIME Bangalore](/colleges/xime-bangalore
 
 Both are excellent B-schools. Your decision should come down to your specific circumstances:
 
-**Choose XIME Bangalore If:**
+**Choose [XIME Bangalore](/colleges/xime-bangalore) If:**
 - You want to work in the **tech, consulting, or analytics** sector — Bengaluru's ecosystem is unmatched.
 - You are interested in the **PGDM-Business Analytics** program.
 - You don't mind paying slightly more for a **stronger alumni network** and a **higher placement ceiling**.

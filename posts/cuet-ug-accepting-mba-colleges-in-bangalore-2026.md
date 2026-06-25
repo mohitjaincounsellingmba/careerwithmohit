@@ -30,7 +30,7 @@ If you are a student targeting **Bangalore** for your management education, this
 
 These institutions in **Bangalore** accept CUET UG scores for their integrated management tracks, providing a smooth pathway from undergraduate study to a full post-graduate MBA degree.
 
-### 1. Jain University - Integrated BBA + MBA
+### 1. [Jain University](/colleges/jain-university) - Integrated BBA + MBA
 - **Approximate Fees:** ₹2.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / JET
 - **Average Placement Package:** **₹6.2 LPA**

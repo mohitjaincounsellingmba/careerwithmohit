@@ -153,7 +153,7 @@ The university does have a **management quota** for a limited number of seats, b
 - Less brand recognition nationally compared to VIT, Manipal, or SRM
 - Management quota seats have limited transparency — always get written confirmation
 
-**Verdict**: JECRC University is a solid, budget-friendly option for B.Tech in Jaipur, especially for CSE. For students who missed JEE but have decent 12th marks, it offers a legitimate direct admission pathway without the need for capitation fees.
+**Verdict**: [JECRC University](/colleges/jecrc-jaipur) is a solid, budget-friendly option for B.Tech in Jaipur, especially for CSE. For students who missed JEE but have decent 12th marks, it offers a legitimate direct admission pathway without the need for capitation fees.
 
 ---
 

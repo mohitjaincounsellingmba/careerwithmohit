@@ -89,7 +89,7 @@ The Centralised Admission Process (CAP) manages counselling for nearly 300+ inst
 - Chetana’s Institute of Management and Research, Mumbai
 - MET Institute of Management, Mumbai
 - XIMR (Xavier Institute of Management & Research), Mumbai
-- Rizvi Institute of Management Studies and Research, Mumbai
+- Rizvi [Institute of Management Studies](/colleges/institute-of-management-studies) and Research, Mumbai
 
 ---
 ## Frequently Asked Questions (FAQ)

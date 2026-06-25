@@ -30,13 +30,13 @@ If you are a student targeting **Gurgaon** for your management education, this c
 
 These institutions in **Gurgaon** accept CUET UG scores for their integrated management tracks, providing a smooth pathway from undergraduate study to a full post-graduate MBA degree.
 
-### 1. BML Munjal University - Integrated MBA
+### 1. [BML Munjal University](/colleges/bml-munjal-gurgaon) - Integrated MBA
 - **Approximate Fees:** ₹3.0 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / UGAT
 - **Average Placement Package:** **₹7.5 LPA**
 - **Key Highlight:** Mentored by Imperial College London, offering deep practical exposure and case study methods.
 
-### 2. GD Goenka University - Integrated MBA
+### 2. [GD Goenka University](/colleges/gd-goenka-university) - Integrated MBA
 - **Approximate Fees:** ₹2.5 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / GATA
 - **Average Placement Package:** **₹5.8 LPA**

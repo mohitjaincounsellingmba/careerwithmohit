@@ -168,7 +168,7 @@ Golden Gate University, San Francisco, is AACSB accredited and offers a premium 
 | **Specializations** | Finance, Marketing, HR, Operations |
 | **Best For** | Budget-conscious professionals seeking a multi-accredited EMBA under ₹1 Lakh |
 
-[👉 Apply to Uttaranchal University EMBA – Get 15% Discount](https://cvadm.com/xvHLPw)
+[👉 Apply to [Uttaranchal University](/colleges/uttaranchal-university) EMBA – Get 15% Discount](https://cvadm.com/xvHLPw)
 
 ---
 

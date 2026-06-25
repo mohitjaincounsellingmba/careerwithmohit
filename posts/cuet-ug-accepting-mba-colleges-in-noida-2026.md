@@ -30,13 +30,13 @@ If you are a student targeting **Noida** for your management education, this com
 
 These institutions in **Noida** accept CUET UG scores for their integrated management tracks, providing a smooth pathway from undergraduate study to a full post-graduate MBA degree.
 
-### 1. Amity University, Noida - Integrated BBA + MBA
+### 1. [Amity University, Noida](/colleges/amity-university-noida) - Integrated BBA + MBA
 - **Approximate Fees:** ₹3.5 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Amity Test
 - **Average Placement Package:** **₹6.5 LPA**
 - **Key Highlight:** Offers an option to exit after 3 years with a BBA degree or continue for a full MBA with corporate recruitment.
 
-### 2. Noida International University (NIU) - Integrated MBA
+### 2. [Noida International University (NIU)](/colleges/niu-greater-noida) - Integrated MBA
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Merit
 - **Average Placement Package:** **₹4.5 LPA**
@@ -50,7 +50,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Amity University, Noida - Integrated BBA + MBA** | CUET-UG / Amity Test | ₹3.5 Lakhs (Annual) | **₹6.5 LPA** |
+| **[Amity University](/colleges/amity-noida), Noida - Integrated BBA + MBA** | CUET-UG / Amity Test | ₹3.5 Lakhs (Annual) | **₹6.5 LPA** |
 | **Noida International University (NIU) - Integrated MBA** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.5 LPA** |
 
 ---

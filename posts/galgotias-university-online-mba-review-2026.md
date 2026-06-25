@@ -48,7 +48,7 @@ Here's our honest, data-backed review of whether it's the right choice for you.
 
 | Feature | Details |
 | :--- | :--- |
-| **University** | Galgotias University, Greater Noida |
+| **University** | [Galgotias University](/colleges/galgotias-university), Greater Noida |
 | **NAAC Grade** | **A+** |
 | **UGC-DEB Approved** | ✅ Yes |
 | **AICTE Approved** | ✅ Yes |

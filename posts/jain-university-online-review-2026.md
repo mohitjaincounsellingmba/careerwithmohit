@@ -32,7 +32,7 @@ faqs:
 
 As we look toward the 2026 session, Jain’s online programs are a top pick for students wanting a modern, tech-forward degree with global recognition.
 
-## 📊 Jain University Online: Key Highlights 2026
+## 📊 [Jain University](/colleges/jain-university) Online: Key Highlights 2026
 
 | Parameter | Details |
 | :--- | :--- |

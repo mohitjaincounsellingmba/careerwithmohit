@@ -35,7 +35,7 @@ faqs:
 
 ---
 
-## 📊 Uttaranchal University Online MBA: Key Snapshot (2026)
+## 📊 [Uttaranchal University](/colleges/uttaranchal-university) Online MBA: Key Snapshot (2026)
 
 | Feature | Details |
 | :--- | :--- |

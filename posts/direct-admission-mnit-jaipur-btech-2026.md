@@ -112,7 +112,7 @@ Cutoffs vary by branch, category, and quota (Home State — Rajasthan vs. Other 
 
 ---
 
-### **B.Tech Branches at MNIT Jaipur**
+### **B.Tech Branches at [MNIT Jaipur](/colleges/mnit-jaipur)**
 
 - Computer Science & Engineering (CSE)
 - Electronics & Communication Engineering (ECE)

@@ -32,7 +32,7 @@ faqs:
 
 As we move into the 2026-27 academy session, [Chitkara University](/colleges/chitkara-university) Online is a top-tier choice for students and working professionals seeking to boost their careers with a recognized degree at a highly competitive price point.
 
-## 📊 Chitkara University Online: Key Highlights 2026
+## 📊 [Chitkara University](/colleges/chitkara-university) Online: Key Highlights 2026
 
 | Parameter | Details |
 | :--- | :--- |

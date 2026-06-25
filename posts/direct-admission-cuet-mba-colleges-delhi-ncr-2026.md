@@ -107,7 +107,7 @@ While "Direct Admission" is legal through management quotas in private universit
 Yes. Amity conducts its own interview and assessment. A CUET score is one of many ways to apply, but it is not the only gatekeeper.
 
 **2. Which is the most affordable MBA college in Delhi NCR with good placement?**
-**Galgotias University** and **GNIOT** offer a great balance between low fees (under ₹5 Lakhs) and decent placement packages.
+**[Galgotias University](/colleges/galgotias-university)** and **GNIOT** offer a great balance between low fees (under ₹5 Lakhs) and decent placement packages.
 
 **3. Is "Direct Admission" the same as Management Quota?**
 In private universities, they are often used interchangeably. It essentially means you are admitted based on the university's internal criteria rather than an all-India pool cutoff.

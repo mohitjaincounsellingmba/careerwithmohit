@@ -30,7 +30,7 @@ If you are a student targeting **Pune** for your management education, this comp
 
 These institutions in **Pune** accept CUET UG scores for their integrated management tracks, providing a smooth pathway from undergraduate study to a full post-graduate MBA degree.
 
-### 1. MIT World Peace University (MIT-WPU) - Integrated MBA
+### 1. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune) - Integrated MBA
 - **Approximate Fees:** ₹2.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / MIT-WPU CET
 - **Average Placement Package:** **₹6.5 LPA**

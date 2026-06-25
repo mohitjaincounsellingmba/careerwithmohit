@@ -68,7 +68,7 @@ DSB is a good college, especially since it is part of the **VIPS (Vivekananda In
 
 ### **Which One Should You Choose?**
 
-#### **Join New Delhi Institute of Management (NDIM) IF:**
+#### **Join [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) IF:**
 - You want the **proven brand power** and premium corporate access of a 34-year-old legacy.
 - You are targeting **Double Specializations** to match 2026 tech trends.
 - You want the highest possible starting package (₹12 LPA+) and a global alumni reach.

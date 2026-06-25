@@ -34,7 +34,7 @@ faqs:
 
 Based in the serene education hub of Dehradun, [Uttaranchal University](/colleges/uttaranchal-university) Online is a top-tier choice for students and working professionals seeking to boost their careers with a recognized degree at a minimal cost.
 
-## 📊 Uttaranchal University Online: Key Highlights 2026
+## 📊 [Uttaranchal University](/colleges/uttaranchal-university) Online: Key Highlights 2026
 
 | Parameter | Details |
 | :--- | :--- |
