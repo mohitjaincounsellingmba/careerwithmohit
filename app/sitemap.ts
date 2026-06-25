@@ -2,6 +2,8 @@ import { MetadataRoute } from 'next';
 import { getSortedPostsData } from '@/lib/markdown';
 import fs from 'fs';
 import path from 'path';
+import { ABROAD_COLLEGES } from '@/data/abroadColleges';
+import { generateCollegeSlug } from '@/lib/slugify';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.careerwithmohit.online';
@@ -105,5 +107,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...routes, ...blogRoutes, ...collegeRoutes, ...examRoutes];
+  // Dynamic exam resources routes
+  const examSlugs = ['cat', 'xat', 'cmat', 'snap', 'nmat', 'mah-mba-cet', 'cuet-pg'];
+  const resourceRoutes = examSlugs.map((exam) => ({
+    url: `${baseUrl}/resources/${exam}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  // Dynamic abroad education college routes
+  const abroadRoutes = ABROAD_COLLEGES.map((college) => ({
+    url: `${baseUrl}/abroad-education/${generateCollegeSlug(college.name, college.location)}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  return [...routes, ...blogRoutes, ...collegeRoutes, ...examRoutes, ...resourceRoutes, ...abroadRoutes];
 }
