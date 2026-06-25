@@ -60,9 +60,7 @@ export const metadata: Metadata = {
     description: "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
     images: ["/og-image.webp"],
   },
-  alternates: {
-    canonical: "/",
-  },
+
   robots: {
     index: true,
     follow: true,

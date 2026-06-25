@@ -99,7 +99,7 @@ If you are passionate about news, storytelling, and media production.
 ### Final Thoughts
 Your success in the arts stream depends on your ability to communicate, think critically, and adapt to new digital tools. The possibilities are endless in 2026.
 
-**Confused about which course is right for you?** Drop a message for a [personalized career counselling session](/#contact)!
+**Confused about which course is right for you?** Drop a message for a [personalized career counselling session](/inquiry)!
 
 ---
 

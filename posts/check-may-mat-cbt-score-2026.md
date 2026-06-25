@@ -263,7 +263,7 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 
 **Need personalised MBA counselling based on your MAT CBT score?** Connect with **Mohit Jain** for expert guidance on selecting the right college, preparing for GD/PI, and securing your admission.
 
-📞 **[Book a Free Counselling Session → careerwithmohit.com](https://www.careerwithmohit.com/contact)**
+📞 **[Book a Free Counselling Session → careerwithmohit.online](https://www.careerwithmohit.online/inquiry)**
 ---
 
 ### 🚀 Boost Your Preparation

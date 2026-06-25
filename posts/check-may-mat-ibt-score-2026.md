@@ -287,7 +287,7 @@ Immediately on the day of result declaration. Download the scorecard and start a
 
 **Want personalised advice on the best MBA college for your MAT IBT score?** Connect with **Mohit Jain** for expert admission counselling tailored to your score, budget, and career goals.
 
-📞 **[Book a Free Counselling Session → careerwithmohit.com](https://www.careerwithmohit.com/contact)**
+📞 **[Book a Free Counselling Session → careerwithmohit.online](https://www.careerwithmohit.online/inquiry)**
 ---
 
 ### 🚀 Boost Your Preparation

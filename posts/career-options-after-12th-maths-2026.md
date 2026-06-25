@@ -91,7 +91,7 @@ Mathematics is the foundation of structural design and stability.
 ### Final Thoughts
 Mathematics is a versatile subject that opens more doors than any other stream. It's not just about solving equations; it's about developing the logical mind that the world of 2026 values above all else.
 
-**Confused about your journey?** Reach out for a [personalized career counselling session](/#contact)!
+**Confused about your journey?** Reach out for a [personalized career counselling session](/inquiry)!
 
 ---
 

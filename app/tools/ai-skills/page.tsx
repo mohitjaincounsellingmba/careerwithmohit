@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'AI Skills Training & Certification | Career with Mohit',
   description: 'Learn in-demand skills like Power BI, Tableau, SQL, AWS, and more. Get AI-driven training, appear for tests, and earn certificates.',
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/ai-skills'
+    canonical: '/tools/ai-skills'
   }
 };
 

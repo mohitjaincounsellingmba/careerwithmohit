@@ -247,7 +247,7 @@ The maximum composite score is **800** (200 per section × 4 sections: LC, ICR, 
 
 **Need personalised MBA admission guidance?** Connect with **Mohit Jain** for expert counselling. With extensive experience helping students secure admissions into top PGDM and MBA programs using MAT scores, we'll help you identify the best colleges for your profile, score, and budget.
 
-📞 **[Book a Free Counselling Session → careerwithmohit.com](https://www.careerwithmohit.com/contact)**
+📞 **[Book a Free Counselling Session → careerwithmohit.online](https://www.careerwithmohit.online/inquiry)**
 ---
 
 ### 🚀 Boost Your Preparation

@@ -55,12 +55,12 @@ export default function InquiryPage() {
     "@type": "ContactPage",
     "name": "Admission Inquiry & Profile Evaluation",
     "description": "Form to request admission guidance and profile evaluation from Mohit Jain Career Counselling.",
-    "url": "https://careerwithmohit.com/inquiry",
+    "url": "https://www.careerwithmohit.online/inquiry",
     "mainEntity": {
       "@type": "Organization",
       "name": "CareerWithMohit",
-      "url": "https://careerwithmohit.com",
-      "logo": "https://careerwithmohit.com/logo.png",
+      "url": "https://www.careerwithmohit.online",
+      "logo": "https://www.careerwithmohit.online/logo.webp",
       "contactPoint": {
         "@type": "ContactPoint",
         "telephone": "+91-XXXXXXXXXX",

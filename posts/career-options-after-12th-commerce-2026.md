@@ -118,7 +118,7 @@ For those who love hospitality and travel. This field offers international expos
 ### Final Thoughts
 Your career after 12th commerce is not just about a degree; it's about building a skillset. Start preparing early, stay updated with industry trends, and choose a path that aligns with your passion.
 
-**Still confused about your next step?** Drop a comment below or [contact our career counsellors](/#contact) for a one-on-one session!
+**Still confused about your next step?** Drop a comment below or [contact our career counsellors](/inquiry) for a one-on-one session!
 
 ---
 

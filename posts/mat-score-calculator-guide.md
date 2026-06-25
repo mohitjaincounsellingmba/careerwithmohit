@@ -141,7 +141,7 @@ Looking for more resources to check your readiness? **[Explore Our Premium MBA M
 
 Need customized advice on college admissions based on your MAT score? Book a free consultation with career coach **Mohit Jain**.
 
-📞 **[Book a Free Counselling Session → careerwithmohit.com](https://www.careerwithmohit.com/contact)**
+📞 **[Book a Free Counselling Session → careerwithmohit.online](https://www.careerwithmohit.online/inquiry)**
 
 
 

@@ -90,7 +90,7 @@ Combining biology with technology to solve global issues like diseases and food 
 ### Final Thoughts
 Science is a versatile stream that allows you to switch to Management (BBA/MBA) or Law (LLB) later if you change your mind. The key is to build a strong foundation in your 12th standard and keep exploring the latest tech trends.
 
-**Confused between PCM and PCB?** Reach out for a [personalized counselling session](/#contact) today!
+**Confused between PCM and PCB?** Reach out for a [personalized counselling session](/inquiry) today!
 
 ---
 

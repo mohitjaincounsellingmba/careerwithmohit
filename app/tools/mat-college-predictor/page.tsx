@@ -21,12 +21,12 @@ export const metadata: Metadata = {
         "career with mohit mat tool"
     ],
     alternates: {
-        canonical: "https://careerwithmohit.com/tools/mat-college-predictor",
+        canonical: "/tools/mat-college-predictor",
     },
     openGraph: {
         title: "MAT College Predictor 2026 | Predict Your B-School",
         description: "Interactive AIMA MAT 2026 College Predictor. Map your MAT score to top MBA/PGDM colleges and check expected cutoffs based on real data.",
-        url: "https://careerwithmohit.com/tools/mat-college-predictor",
+        url: "https://www.careerwithmohit.online/tools/mat-college-predictor",
         siteName: "Career With Mohit",
         images: [
             {
