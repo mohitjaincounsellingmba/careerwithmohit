@@ -21,7 +21,7 @@ faqs:
       The Xavier Aptitude Test (XAT) 2027 will be conducted on the first Sunday of January 2027 (typically January 3, 2027). Registrations will open in mid-July 2026 and run until the end of November 2026.
 ---
 
-The Xavier Aptitude Test (XAT) is widely regarded as one of the most intellectually stimulating MBA entrance exams in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), **XAT 2027** is the gateway to **XLRI Jamshedpur**, XLRI Delhi-NCR, and over 150 top-tier private management institutes for the **2027-28 academic batch**.
+The Xavier Aptitude Test (XAT) is widely regarded as one of the most intellectually stimulating MBA entrance exams in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), **XAT 2027** is the gateway to **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, XLRI Delhi-NCR, and over 150 top-tier private management institutes for the **2027-28 academic batch**.
 
 Here is an in-depth prep guide covering the syllabus structure, crucial test sections like Decision Making, target cut-offs, and strategies for candidates in **Jammu**.
 

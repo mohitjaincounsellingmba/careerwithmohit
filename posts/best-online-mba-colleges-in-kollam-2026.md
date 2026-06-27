@@ -145,7 +145,7 @@ Yes, absolutely. The UGC (University Grants Commission) mandates that online MBA
 No. The primary advantage of an online MBA is its self-paced learning structure. All lectures are delivered online via a learning management system (LMS) with recorded sessions and weekend live classes, allowing you to manage your work and studies simultaneously.
 
 ### Which is the most affordable online MBA college for students in Kollam?
-[Lovely Professional University](/colleges/lovely-professional-university) (LPU) Online and Jain University Online are among the most budget-friendly options on the list, offering a total two-year course fee starting around ₹1,60,000, along with easy zero-cost monthly EMI options.
+[Lovely Professional University](/colleges/lovely-professional-university) (LPU) Online and [Jain University](/colleges/jain-university) Online are among the most budget-friendly options on the list, offering a total two-year course fee starting around ₹1,60,000, along with easy zero-cost monthly EMI options.
 
 ---
 

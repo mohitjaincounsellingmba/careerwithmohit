@@ -134,7 +134,7 @@ Cutoffs vary by branch, category, and quota (Home State — Rajasthan vs. Other 
 - **Highest Package**: ₹60 LPA+ (international offers in select years)
 - **Placement Percentage**: 85–92% (eligible students)
 
-**Top Recruiters at MNIT Jaipur:**
+**Top Recruiters at [MNIT Jaipur](/colleges/mnit-jaipur):**
 Microsoft, Amazon, Google, Goldman Sachs, Qualcomm, Samsung, Texas Instruments, Bosch, Deloitte, Infosys, TCS, Wipro, ISRO, DRDO (for core branches)
 
 ---

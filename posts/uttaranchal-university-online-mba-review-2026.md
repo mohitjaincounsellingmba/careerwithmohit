@@ -122,7 +122,7 @@ Yes. It is UGC-DEB approved and NAAC A+ accredited — fully valid for governmen
 **Q2. Is Uttaranchal better than Kalinga for an online MBA?**
 Both are budget options. Uttaranchal holds **NAAC A+** (vs Kalinga's B+) — making it the better pick for corporate credibility at a similar price point (₹94K vs ₹80K).
 
-**Q3. Is Uttaranchal University online MBA better than Galgotias online MBA?**
+**Q3. Is [Uttaranchal University](/colleges/uttaranchal-university) online MBA better than Galgotias online MBA?**
 Both hold NAAC A+ and similar fee ranges (₹90K–₹94K). Galgotias has a Delhi NCR industry advantage; Uttaranchal has a North India/Himalayan belt strength. Choose based on geography and employer network fit.
 
 **Q4. Can I pursue Uttaranchal Online MBA from outside Uttarakhand?**

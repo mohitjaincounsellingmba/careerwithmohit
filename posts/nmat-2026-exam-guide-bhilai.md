@@ -90,7 +90,7 @@ Confused about the registration process or scheduling retakes? Let our local exp
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which are the best NMAT accepting colleges for students in Bhilai?
-The premier target is NMIMS Mumbai (School of Business Management). Other top colleges accepting NMAT scores include K J Somaiya (Mumbai), XIMB (Bhubaneswar - HR program), SDA Bocconi (Mumbai), SOIL (Gurgaon), and Alliance University (Bangalore).
+The premier target is [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management). Other top colleges accepting NMAT scores include K J Somaiya (Mumbai), XIMB (Bhubaneswar - HR program), SDA Bocconi (Mumbai), SOIL (Gurgaon), and Alliance University (Bangalore).
 
 ### How many times can I attempt the NMAT 2026 exam?
 You can attempt NMAT 2026 up to three times during the testing window (1 main attempt and 2 retakes). However, note that top institutes like NMIMS Mumbai only accept the score of your first attempt for their final selection process.

@@ -73,7 +73,7 @@ Jain's online programs are highly market-relevant for 2026:
 - **LMS Innovation:** Their learning platform is sleek and optimized for mobile, offering high-quality video lectures and interactive webinars.
 
 ## Is [Jain University](/colleges/jain-university) Online Degree Valid?
-Yes. All online programs from Jain University are **UGC-DEB approved** and recognized by major global accreditation bodies. They are suitable for all government jobs, PSU recruitment, and higher studies both within India and internationally.
+Yes. All online programs from [Jain University](/colleges/jain-university) are **UGC-DEB approved** and recognized by major global accreditation bodies. They are suitable for all government jobs, PSU recruitment, and higher studies both within India and internationally.
 
 ## Your Path to Graduation
 - **Compare:** Check [Amity Online 2026](/blog/amity-university-online-review-2026) vs [LPU Online 2026](/blog/lpu-online-review-2026).

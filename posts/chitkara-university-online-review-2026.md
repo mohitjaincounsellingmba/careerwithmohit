@@ -72,7 +72,7 @@ Chitkara's online programs are optimized for the 2026 workforce:
 - **Career Growth:** Access to a premium corporate partner network for virtual career fairs and leadership grooming sessions.
 - **Premium Learning Experience:** Features a state-of-the-art LMS and high-touch support for online learners.
 
-## Is Chitkara University Online Degree Valid?
+## Is [Chitkara University](/colleges/chitkara-university) Online Degree Valid?
 Yes. All online programs from Chitkara University are **UGC-DEB approved** and recognized by the **Association of Indian Universities (AIU)**. They are fully valid for all government exams, higher studies (India & Abroad), and corporate leadership roles.
 
 ## Next Step in Your Career
