@@ -116,7 +116,7 @@ The program uses live weekend sessions and recorded lectures — ideal for profe
 
 ## ❓ Frequently Asked Questions
 
-**Q1. Is Uttaranchal University online MBA valid for government jobs?**
+**Q1. Is [Uttaranchal University](/colleges/uttaranchal-university) online MBA valid for government jobs?**
 Yes. It is UGC-DEB approved and NAAC A+ accredited — fully valid for government and private sector employment across India.
 
 **Q2. Is Uttaranchal better than Kalinga for an online MBA?**

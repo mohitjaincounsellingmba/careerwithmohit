@@ -65,7 +65,7 @@ Chitkara's online programs are optimized for the 2026 workforce:
 - **Approx. Fee:** ₹1,50,000 - ₹1,80,000.
 - **USP:** Perfect for fresh graduates seeking immediate industry employability.
 
-## Why Choose Chitkara University Online?
+## Why Choose [Chitkara University](/colleges/chitkara-university) Online?
 
 - **NAAC A+ Accreditation:** Confirms world-class academic quality and infrastructure, ensuring your degree is highly respected in the corporate sector.
 - **Innovation & Research:** Benefit from Chitkara's strong focus on R&D and industry 4.0 aligned curriculum.

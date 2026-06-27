@@ -46,7 +46,7 @@ Here is a quick overview of the top-ranked online BBA providers available for st
 
 ## 🏆 Review of Top Online BBA Colleges for Rajapalayam Candidates
 
-### 1. Amity University Online (Noida)
+### 1. [Amity University](/colleges/amity-noida) Online (Noida)
 Amity Online is a pioneer in digital learning in India, holding a premium **NAAC A+ rating**.
 - **Estimated Tuition Fees:** ~₹1,50,000 (Full 3-year payment) or ~₹25,000 per semester.
 - **Accreditations:** UGC-DEB, AICTE, QS World Rankings.
@@ -65,12 +65,12 @@ Chandigarh University is a fast-growing education brand with high NIRF rankings 
 - **Key Highlight:** Balanced curriculum blending core business administrative skills with digital marketing basics.
 
 ### 4. Online Manipal ([Manipal University Jaipur](/colleges/manipal-university-jaipur))
-Manipal University Jaipur (MUJ) provides a highly prestigious online BBA program designed to bring elite learning directly to your screen.
+[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ) provides a highly prestigious online BBA program designed to bring elite learning directly to your screen.
 - **Estimated Tuition Fees:** ~₹1,35,000 total (convenient semester EMI plans available).
 - **Accreditations:** UGC-DEB, AICTE, NAAC A+.
 - **Key Highlight:** Direct access to Manipal's prestigious global alumni base and elite placement assistance cells.
 
-### 5. Jain University Online (Bengaluru)
+### 5. [Jain University](/colleges/jain-university) Online (Bengaluru)
 Jain Online is popular for its industry-aligned BBA curriculum, holding a stellar **NAAC A++ grade**.
 - **Estimated Tuition Fees:** ~₹1,20,000 total.
 - **Elective Choices:** Offers unique dual specializations and integrated professional training certificates.

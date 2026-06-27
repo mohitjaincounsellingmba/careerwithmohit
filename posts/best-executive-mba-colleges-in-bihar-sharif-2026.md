@@ -64,7 +64,7 @@ IMT Ghaziabad's distance wing offers a highly structured PGDM (Executive) progra
 - **Program Duration:** 15 Months.
 - **Why Choose:** Known for its intensive case study assignments and curriculum designed by industry experts.
 
-### 4. Amity University Online (Noida)
+### 4. [Amity University](/colleges/amity-noida) Online (Noida)
 Amity Online offers a fully digital, 2-year Executive MBA program with extensive international accreditations.
 - **Estimated Tuition Fees:** ~₹2,20,000 total.
 - **Accreditations:** UGC-DEB, AICTE, WES (World Education Services) approved.
@@ -77,7 +77,7 @@ LPU Online offers an executive-oriented MBA program holding a premier **NAAC A++
 - **Why Choose:** Best for professionals wanting active virtual classes and network building.
 
 ### 6. Online Manipal ([Manipal University Jaipur](/colleges/manipal-university-jaipur))
-Manipal University Jaipur provides a highly valued Executive PGCP/MBA program bringing top academic instruction to your screen.
+[Manipal University Jaipur](/colleges/manipal-university-jaipur) provides a highly valued Executive PGCP/MBA program bringing top academic instruction to your screen.
 - **Estimated Tuition Fees:** ~₹2,00,000 total.
 - **Accreditations:** UGC-DEB, AICTE, NAAC A+.
 - **Why Choose:** Recommended for senior executives aiming for strategic corporate connections and elite mentorship.

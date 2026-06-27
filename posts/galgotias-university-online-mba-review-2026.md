@@ -136,7 +136,7 @@ Be realistic about limitations:
 
 ## ❓ Frequently Asked Questions
 
-**Q1. Is Galgotias University online MBA valid?**
+**Q1. Is [Galgotias University](/colleges/galgotias-university) online MBA valid?**
 Yes. It is UGC-DEB approved, AICTE recognized, and backed by a NAAC A+ institution — fully valid for government and private sector employment.
 
 **Q2. Why is Galgotias online MBA so cheap?**

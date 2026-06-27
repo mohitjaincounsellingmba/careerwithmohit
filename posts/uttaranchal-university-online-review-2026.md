@@ -48,7 +48,7 @@ Based in the serene education hub of Dehradun, [Uttaranchal University](/college
 👉 **[Start Your Admission Journey at [Uttaranchal University](/colleges/uttaranchal-university) Online](/inquiry)**
 
 ## Popular Programs & Fee Structure
-Uttaranchal University’s online programs are optimized for the 2026 workforce:
+[Uttaranchal University](/colleges/uttaranchal-university)’s online programs are optimized for the 2026 workforce:
 
 ### 1. Online MBA (Postgraduate)
 - **Specializations:** Business Analytics, Fintech, HR, Finance, Marketing.

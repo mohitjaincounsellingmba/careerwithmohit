@@ -72,7 +72,7 @@ Jain's online programs are highly market-relevant for 2026:
 - **Bangalore Connection:** Being headquartered in Bangalore, Jain offers unparalleled industry insights and networking opportunities with tech leaders.
 - **LMS Innovation:** Their learning platform is sleek and optimized for mobile, offering high-quality video lectures and interactive webinars.
 
-## Is Jain University Online Degree Valid?
+## Is [Jain University](/colleges/jain-university) Online Degree Valid?
 Yes. All online programs from Jain University are **UGC-DEB approved** and recognized by major global accreditation bodies. They are suitable for all government jobs, PSU recruitment, and higher studies both within India and internationally.
 
 ## Your Path to Graduation
