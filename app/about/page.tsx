@@ -134,11 +134,11 @@ export default function AboutPage() {
             
             <div className="flex flex-col gap-6">
               <div className="bg-blue-400 border-4 border-foreground p-8 rotate-2 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-transform cursor-crosshair">
-                <h4 className="font-black text-2xl uppercase mb-2 text-foreground">Admission Expert</h4>
+                <h3 className="font-black text-2xl uppercase mb-2 text-foreground">Admission Expert</h3>
                 <p className="font-bold text-gray-900 text-lg">Specializing in MBA, PGDM, and B.Tech admissions for top-tier Indian and Global B-Schools.</p>
               </div>
               <div className="bg-emerald-400 border-4 border-foreground p-8 -rotate-1 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:rotate-0 transition-transform cursor-crosshair">
-                <h4 className="font-black text-2xl uppercase mb-2 text-foreground">Process Specialist</h4>
+                <h3 className="font-black text-2xl uppercase mb-2 text-foreground">Process Specialist</h3>
                 <p className="font-bold text-gray-900 text-lg">Six Sigma certified professional focusing on optimizing your application and interview performance.</p>
               </div>
             </div>
