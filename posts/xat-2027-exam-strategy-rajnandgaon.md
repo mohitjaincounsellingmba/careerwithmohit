@@ -70,7 +70,7 @@ Decision Making can make or break your XLRI calls. Follow these tips to master t
 
 ## 🏆 Target Cut-offs for XLRI Admissions 2027-28
 
-For XLRI Jamshedpur (Business Management - BM, and Human Resource Management - HRM programs), target these approximate overall percentiles:
+For [XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Business Management - BM, and Human Resource Management - HRM programs), target these approximate overall percentiles:
 
 - **XLRI Jamshedpur BM (Male):** 96.0+ Percentile
 - **XLRI Jamshedpur BM (Female):** 93.0+ Percentile

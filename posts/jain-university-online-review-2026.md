@@ -81,7 +81,7 @@ Yes. All online programs from [Jain University](/colleges/jain-university) are *
 - **Consultation:** Not sure which specialization fits your profile? [Get a free roadmap from Mohit Jain!](/inquiry)
 
 ---
-[👉 Looking for special discounts or early-bird offers? Talk to our Jain University counselors!](/inquiry)
+[👉 Looking for special discounts or early-bird offers? Talk to our [Jain University](/colleges/jain-university) counselors!](/inquiry)
 
 ---
 

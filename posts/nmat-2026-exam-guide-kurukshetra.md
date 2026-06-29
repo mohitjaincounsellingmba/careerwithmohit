@@ -93,7 +93,7 @@ Confused about the registration process or scheduling retakes? Let our local exp
 The premier target is [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management). Other top colleges accepting NMAT scores include K J Somaiya (Mumbai), XIMB (Bhubaneswar - HR program), SDA Bocconi (Mumbai), SOIL (Gurgaon), and Alliance University (Bangalore).
 
 ### How many times can I attempt the NMAT 2026 exam?
-You can attempt NMAT 2026 up to three times during the testing window (1 main attempt and 2 retakes). However, note that top institutes like NMIMS Mumbai only accept the score of your first attempt for their final selection process.
+You can attempt NMAT 2026 up to three times during the testing window (1 main attempt and 2 retakes). However, note that top institutes like [NMIMS Mumbai](/colleges/nmims-mumbai) only accept the score of your first attempt for their final selection process.
 
 ### What is a safe score in NMAT 2026 for NMIMS Mumbai MBA Core?
 A safe cut-off score for the MBA Core program at NMIMS Mumbai is typically around 230-235+ marks, along with balanced sectional cut-offs in Language Skills, Logical Reasoning, and Quantitative Skills.

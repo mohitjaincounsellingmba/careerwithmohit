@@ -74,7 +74,7 @@ Based in the serene education hub of Dehradun, [Uttaranchal University](/college
 - **LMS Excellence:** Features a dedicated student portal with recorded videos, interactive assignments, and e-books in a single interface.
 - **Career Support:** UU online learners get access to virtual placement assistance and industry-specific soft-skill workshops.
 
-## Is Uttaranchal University Online Degree Valid?
+## Is [Uttaranchal University](/colleges/uttaranchal-university) Online Degree Valid?
 Yes. All online programs from Uttaranchal University are **UGC-DEB approved** and hold the same validity as regular on-campus degrees. They are fully valid for all government exams, higher studies (India & Abroad), and corporate roles.
 
 ## Next Steps for You

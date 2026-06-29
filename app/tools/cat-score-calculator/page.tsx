@@ -369,6 +369,12 @@ export default function CatScoreCalculatorPage() {
               <span>Free CAT 2026 Mock Test →</span>
             </Link>
             <Link
+              href="/blog/cat-2026-score-calculator-marks-vs-percentile"
+              className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
+            >
+              <span>CAT 2026 Marks vs Percentile Guide →</span>
+            </Link>
+            <Link
               href="/previous-year-papers"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >

@@ -139,7 +139,7 @@ Microsoft, Amazon, Google, Goldman Sachs, Qualcomm, Samsung, Texas Instruments, 
 
 ---
 
-### **MNIT Jaipur vs. Private Engineering Colleges in Jaipur**
+### **[MNIT Jaipur](/colleges/mnit-jaipur) vs. Private Engineering Colleges in Jaipur**
 
 | Parameter | MNIT Jaipur | MUJ | SKIT Jaipur |
 | :--- | :--- | :--- | :--- |
