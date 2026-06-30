@@ -63,7 +63,7 @@ export default function InquiryPage() {
       "logo": "https://www.careerwithmohit.online/logo.webp",
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+91-XXXXXXXXXX",
+        "telephone": "+91-9560020771",
         "contactType": "customer service",
         "areaServed": "IN",
         "availableLanguage": ["English", "Hindi"]

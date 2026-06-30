@@ -167,7 +167,7 @@ export default async function CollegePage({ params }: Props) {
             <a 
               href={`https://wa.me/${college.whatsapp}?text=Hi Mohit! I'm interested in applying to ${college.name}. Please guide me.`}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="inline-block bg-emerald-500 text-white font-black px-8 py-4 rounded-xl hover:bg-emerald-600 transition-colors shadow-lg shadow-emerald-200"
             >
               Talk to Expert on WhatsApp

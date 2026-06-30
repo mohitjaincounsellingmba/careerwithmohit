@@ -115,6 +115,7 @@ export default function AccreditationCheckerPage() {
                   key={j} 
                   href={link.url} 
                   target="_blank" 
+                  rel="noopener noreferrer"
                   className="bg-white/10 backdrop-blur-md px-6 py-4 rounded-2xl border border-white/20 hover:bg-white text-blue-900 font-black hover:text-blue-600 transition-all flex items-center gap-2 whitespace-nowrap shadow-lg"
                 >
                   {link.name} <ExternalLink size={18} />
