@@ -26,6 +26,7 @@ export default function HomeSearch() {
         <Search className="h-6 w-6 text-gray-500 stroke-[2.5px] pointer-events-none" />
         <input
           type="text"
+          aria-label="Search colleges"
           placeholder="Search colleges..."
           value={homeSearch}
           onChange={(e) => setHomeSearch(e.target.value)}

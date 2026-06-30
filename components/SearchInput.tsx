@@ -31,6 +31,7 @@ function SearchInputInner({ isMobile = false, onSearch }: { isMobile?: boolean, 
         <Search className="h-5 w-5 text-gray-500 stroke-[2.5px] pointer-events-none" />
         <input
           type="text"
+          aria-label="Search site content"
           placeholder="Search..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}

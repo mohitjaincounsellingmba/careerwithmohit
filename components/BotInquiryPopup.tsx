@@ -174,6 +174,7 @@ export function BotInquiryPopup() {
             </div>
             <button 
               onClick={() => setIsMinimized(true)}
+              aria-label="Minimize chat assistant"
               className="p-1 hover:bg-white/20 rounded transition-colors"
             >
               <X size={20} className="text-white" />
@@ -271,6 +272,7 @@ export function BotInquiryPopup() {
       {/* Bubble Icon */}
       <button 
         onClick={() => setIsMinimized(!isMinimized)}
+        aria-label={isMinimized ? "Open chat assistant" : "Close chat assistant"}
         className={`w-16 h-16 rounded-full border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center transition-all hover:scale-110 active:scale-95 group relative ${
           isMinimized ? 'bg-primary text-white' : 'bg-white text-primary'
         }`}

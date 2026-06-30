@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Compass, Menu, X, Phone, ChevronDown } from 'lucide-react';
 import Image from 'next/image';
@@ -8,6 +8,17 @@ import { SearchInput } from './SearchInput';
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
+  useEffect(() => {
+    if (isMobileMenuOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, [isMobileMenuOpen]);
 
   return (
     <header className="sticky top-0 z-50 w-full border-b-2 border-gray-200 bg-white" role="banner">
@@ -74,8 +85,8 @@ export function Header() {
       </div>
 
       {isMobileMenuOpen && (
-        <div className="md:hidden absolute top-20 left-0 w-full border-b-2 border-gray-200 bg-white shadow-xl z-50 h-[calc(100vh-80px)] overflow-y-auto">
-          <nav className="flex flex-col px-6 py-8 gap-6 text-lg font-bold text-foreground">
+        <div className="md:hidden fixed top-20 inset-x-0 bottom-0 border-b-2 border-gray-200 bg-white shadow-xl z-50 overflow-y-auto">
+          <nav className="flex flex-col px-6 py-8 gap-6 text-lg font-bold text-foreground text-left">
             <div className="mb-2 block lg:hidden">
               <SearchInput isMobile={true} onSearch={() => setIsMobileMenuOpen(false)} />
             </div>
