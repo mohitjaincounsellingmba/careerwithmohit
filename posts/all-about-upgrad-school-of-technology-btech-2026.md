@@ -11,7 +11,7 @@ keywords:
   - upGrad School of Technology placements
   - uGNET entrance exam 2026
   - upGrad B.Tech CSE specializations
-  - upGrad partner campuses SSAHE MRDU ADYPU
+  - upGrad partner campuses SSAHE ADYPU
   - direct admission in B.Tech computer science
 faqs:
   - question: What is the admission test for upGrad School of Technology?
@@ -19,7 +19,7 @@ faqs:
       Admissions are conducted through the uGNET (upGrad School of Technology National Entrance Test), which is a 120-minute online aptitude-based exam.
   - question: Which universities award the B.Tech degree for uGSOT?
     answer: >-
-      The B.Tech degree is awarded by upGrad's partner universities, including Sri Siddhartha Academy of Higher Education (SSAHE), Malla Reddy Deemed to be University (MRDU), and Ajeenkya DY Patil University (ADYPU).
+      The B.Tech degree is awarded by upGrad's partner universities, including Sri Siddhartha Academy of Higher Education (SSAHE) and Ajeenkya DY Patil University (ADYPU).
   - question: What is the age limit for uGSOT B.Tech admission?
     answer: >-
       Candidates must be under 20 years of age as of July 2026 to be eligible for admission.
@@ -63,7 +63,6 @@ The following are the active partner campuses and their estimated tuition fees f
 | Partner University | Campus Location | Semester-wise Tuition Fees (Approx.) | Key CSE Specializations |
 | :--- | :--- | :--- | :--- |
 | **Sri Siddhartha Academy of Higher Education (SSAHE)** | Tumkur, Karnataka (Near Bangalore) | Semester 1: ₹2.00 Lakhs<br>Semester 2-8: ₹2.50 Lakhs per semester | Generative AI & ML, Full-Stack Development |
-| **Malla Reddy Deemed to be University (MRDU)** | Secunderabad, Telangana (Hyderabad) | Semester 1: ₹1.90 Lakhs<br>Subsequent: alternating ₹2.35 L - ₹2.40 L | Quantum Computing, Full-Stack AI & Cloud |
 | **Ajeenkya DY Patil University (ADYPU)** | Pune, Maharashtra | Semester 1: ₹2.00 Lakhs<br>Subsequent: ₹2.40 Lakhs - ₹2.50 Lakhs | CSE (AI & Machine Learning) |
 
 ### Additional Costs to Expect:
@@ -148,7 +147,7 @@ Admissions to upGrad School of Technology are holistic and aptitude-based.
 Admissions are conducted through the uGNET (upGrad School of Technology National Entrance Test), which is a 120-minute online aptitude-based exam testing mathematical, logical, and verbal skills.
 
 ### Which universities award the B.Tech degree for uGSOT?
-The B.Tech degree is awarded by upGrad's partner universities, which include Sri Siddhartha Academy of Higher Education (SSAHE), Malla Reddy Deemed to be University (MRDU), and Ajeenkya DY Patil University (ADYPU).
+The B.Tech degree is awarded by upGrad's partner universities, which include Sri Siddhartha Academy of Higher Education (SSAHE) and Ajeenkya DY Patil University (ADYPU).
 
 ### What is the age limit for uGSOT B.Tech admission?
 Candidates must be under 20 years of age as of July 2026 to be eligible for admission.
