@@ -42,7 +42,13 @@ function inferCategory(data: any, slug: string): string {
   return 'General';
 }
 
+let postsCache: PostData[] | null = null;
+
 export const getSortedPostsData = cache(() => {
+  if (process.env.NODE_ENV === 'production' && postsCache) {
+    return postsCache;
+  }
+
   // Ensure the directory exists
   if (!fs.existsSync(postsDirectory)) {
     return [];
@@ -81,7 +87,9 @@ export const getSortedPostsData = cache(() => {
     .filter(post => post.title !== 'Untitled Post'); // Filter out potentially broken files
 
   // Sort posts by date
-  return allPostsData.sort((a, b) => (a.date < b.date ? 1 : -1));
+  const sorted = allPostsData.sort((a, b) => (a.date < b.date ? 1 : -1));
+  postsCache = sorted;
+  return sorted;
 });
 
 export function getPostData(slug: string): PostData | null {

@@ -29,7 +29,13 @@ export interface College extends CollegeMetadata {
   content: string;
 }
 
+let collegesCache: CollegeMetadata[] | null = null;
+
 export function getAllColleges(): CollegeMetadata[] {
+  if (process.env.NODE_ENV === 'production' && collegesCache) {
+    return collegesCache;
+  }
+
   if (!fs.existsSync(collegesDirectory)) {
     return [];
   }
@@ -48,7 +54,9 @@ export function getAllColleges(): CollegeMetadata[] {
       };
     });
 
-  return allCollegesData.sort((a, b) => (a.name > b.name ? 1 : -1));
+  const sorted = allCollegesData.sort((a, b) => (a.name > b.name ? 1 : -1));
+  collegesCache = sorted;
+  return sorted;
 }
 
 export async function getCollegeBySlug(slug: string): Promise<College | null> {
