@@ -21,8 +21,72 @@ export default function GovtExamHubPage() {
     ['ssc', 'ibps', 'sbi', 'rrb', 'upsc', 'ctet', 'rbi', 'nda', 'cuet', 'lic', 'nabard', 'cds', 'afcat', 'reet', 'rpsc', 'uppsc', 'bpsc', 'upsssc', 'dsssb'].some(prefix => exam.slug.startsWith(prefix))
   );
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Government Exams Mock Test Hub",
+        "item": "https://www.careerwithmohit.online/tools/govt-exams-mock-test"
+      }
+    ]
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Are these mock tests free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, all 30 sets for every government exam on this platform are completely free for aspirants."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is the pattern updated for 2026?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. We constantly monitor exam notifications to ensure our mock tests reflect the latest syllabus and marking schemes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I re-take a test?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, you can re-take any test multiple times to improve your score and speed."
+        }
+      }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-[#f8f9fa] pt-24 pb-20 px-4 md:px-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <div className="mx-auto max-w-7xl">
         {/* Header Section */}
         <div className="text-center mb-16">

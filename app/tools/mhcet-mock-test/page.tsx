@@ -67,6 +67,31 @@ export default function MhcetMockTestPage() {
     ]
   };
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "MAH MBA CET Mock Test",
+        "item": "https://www.careerwithmohit.online/tools/mhcet-mock-test"
+      }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
       <script
@@ -76,6 +101,10 @@ export default function MhcetMockTestPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       
       <div className="mx-auto max-w-5xl">

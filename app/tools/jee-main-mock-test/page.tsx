@@ -46,12 +46,60 @@ export default function JeeMainMockTestPage() {
     }
   };
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "JEE Main Mock Test",
+        "item": "https://www.careerwithmohit.online/tools/jee-main-mock-test"
+      }
+    ]
+  };
+
+  const faqSchema = config.faqs && config.faqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": config.faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  } : null;
+
   return (
     <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       
       <div className="mx-auto max-w-5xl">
         {/* Hero Section */}

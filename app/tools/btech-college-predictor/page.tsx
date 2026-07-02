@@ -253,9 +253,9 @@ export default function BtechPredictorPage() {
                 <div className="mt-32 pt-16 border-t-8 border-[#18181b]">
                      <h3 className="text-2xl font-black uppercase mb-12 italic underline decoration-blue-500 underline-offset-8">Read Before Counselling</h3>
                      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                         <Link href="/blog/best-engineering-colleges-in-delhi-2026" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Top Engg. Colleges in Delhi →</Link>
-                         <Link href="/blog/direct-admission-in-btech-pune" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Direct Admission in Pune B.Tech →</Link>
-                         <Link href="/blog/rvce-bangalore-management-quota" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">RVCE Management Quota Guide →</Link>
+                         <Link href="/blog/top-engineering-colleges-in-delhi-2026" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Top Engg. Colleges in Delhi →</Link>
+                         <Link href="/blog/top-btech-colleges-pune" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Top B.Tech Colleges in Pune →</Link>
+                         <Link href="/blog/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">RVCE Management Quota Guide →</Link>
                          <Link href="/tools/college-comparison" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Compare Colleges →</Link>
                      </div>
                 </div>

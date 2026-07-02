@@ -45,12 +45,40 @@ export default function NmatMockTestPage() {
       "priceCurrency": "INR"
     }
   };
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "NMAT Mock Test",
+        "item": "https://www.careerwithmohit.online/tools/nmat-mock-test"
+      }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       
       <div className="mx-auto max-w-5xl">
@@ -211,8 +239,8 @@ export default function NmatMockTestPage() {
               </p>
               <ul className="space-y-4">
                 <li><a href="/blog/all-about-nmat-exam" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> NMAT 2026 Ultimate Guide</a></li>
-                <li><a href="/blog/top-mba-colleges-mumbai-roi-placements-direct-admission" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Colleges in Mumbai</a></li>
-                <li><a href="/blog/how-to-crack-nmims-interviews" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> CD/PI Preparation for NMIMS</a></li>
+                <li><a href="/blog/top-mba-colleges-mumbai-2026" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Colleges in Mumbai</a></li>
+                <li><a href="/blog/gdpi-interview-topics-solutions-mba" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> CD/PI Preparation for NMIMS</a></li>
               </ul>
             </div>
           </section>

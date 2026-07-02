@@ -62,6 +62,29 @@ export default async function ExamMockTestPage({
           "price": "0",
           "priceCurrency": "INR"
         }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.careerwithmohit.online/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Mock Tests",
+            "item": "https://www.careerwithmohit.online/mock-tests"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": `${config.name} Mock Test`,
+            "item": `https://www.careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}`
+          }
+        ]
       }
     ]
   };

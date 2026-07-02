@@ -81,8 +81,8 @@ export default function CatMockTestPage() {
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Tools",
-        "item": "https://www.careerwithmohit.online/tools"
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests"
       },
       {
         "@type": "ListItem",
@@ -295,8 +295,8 @@ export default function CatMockTestPage() {
                 <li><a href="/blog/iims-list-courses-placements-cutoffs-admission" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Comprehensive IIM Guide 2026</a></li>
                 <li><a href="/blog/cat-2026-preparation-strategy-syllabus-dates" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> CAT 2026 Preparation Roadmap</a></li>
                 <li><a href="/blog/why-take-our-free-cat-mock-test-2026-online" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> How to Analyze CAT Mocks</a></li>
-                <li><a href="/blog/top-mba-colleges-mumbai-roi-placements-direct-admission" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Top MBA Colleges in Mumbai</a></li>
-                <li><a href="/blog/top-mba-colleges-pune-direct-admission-fees-placement" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Management Hub: Pune</a></li>
+                <li><a href="/blog/top-mba-colleges-mumbai-2026" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Top MBA Colleges in Mumbai</a></li>
+                <li><a href="/blog/top-mba-colleges-pune" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Management Hub: Pune</a></li>
               </ul>
             </div>
           </section>
