@@ -33,6 +33,127 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
+        source: '/blog/why-never-join-ifeel-pune-honest-review-2026',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/backlink-collaboration',
+        destination: '/partner-with-us',
+        permanent: true,
+      },
+      {
+        source: '/blog/bba-colleges-delhi-ncr-2026-cuet-ipu-fees-placements',
+        destination: '/blog/top-bba-colleges-delhi-ncr-2026',
+        permanent: true,
+      },
+      {
+        source: '/govt-jobs',
+        destination: '/tools/govt-exams-mock-test',
+        permanent: true,
+      },
+      {
+        source: '/learn-skills/:path*',
+        destination: '/tools',
+        permanent: true,
+      },
+      {
+        source: '/tools/backlink-generator',
+        destination: '/partner-with-us',
+        permanent: true,
+      },
+      {
+        source: '/calculator/startup',
+        destination: '/calculator/career-roadmap',
+        permanent: true,
+      },
+      {
+        source: '/tools/mba-roi-calculator',
+        destination: '/tools',
+        permanent: true,
+      },
+      {
+        source: '/blog/best-bdes-design-colleges-india-2026-citywise',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/mer-janakpuri-review',
+        destination: '/blog/meri-janakpuri-mba-review-2026',
+        permanent: true,
+      },
+      {
+        source: '/blog/why-asm-iibs-pune-good-for-mba-pgdm-2026',
+        destination: '/blog/why-asm-iibr-pune-good-for-mba-pgdm-2026',
+        permanent: true,
+      },
+      {
+        source: '/blog/the-truth-about-mba-admission-commissions-to-consultants',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/tools/salary-auditor',
+        destination: '/tools/salary-slip-generator',
+        permanent: true,
+      },
+      {
+        source: '/tools/resume-generator',
+        destination: '/tools/resume-analyzer',
+        permanent: true,
+      },
+      {
+        source: '/colleges/first-bridge-gurgaon',
+        destination: '/colleges',
+        permanent: true,
+      },
+      {
+        source: '/blog/top-cmat-colleges-delhi-ncr',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/blog/first-post',
+        destination: '/blog',
+        permanent: true,
+      },
+      // Redirect duplicate dynamic mock tests to static custom ones
+      {
+        source: '/tools/mock-test/cat',
+        destination: '/tools/cat-mock-test',
+        permanent: true,
+      },
+      {
+        source: '/tools/mock-test/nmat',
+        destination: '/tools/nmat-mock-test',
+        permanent: true,
+      },
+      {
+        source: '/tools/mock-test/mhcet',
+        destination: '/tools/mhcet-mock-test',
+        permanent: true,
+      },
+      {
+        source: '/tools/mock-test/atma',
+        destination: '/tools/atma-mock-test',
+        permanent: true,
+      },
+      {
+        source: '/tools/mock-test/jee-main',
+        destination: '/tools/jee-main-mock-test',
+        permanent: true,
+      },
+      {
+        source: '/tools/mock-test/jee-advanced',
+        destination: '/tools/jee-advanced-mock-test',
+        permanent: true,
+      },
+      {
+        source: '/tools/mock-test/bitsat',
+        destination: '/tools/bitsat-mock-test',
+        permanent: true,
+      },
+      {
         source: '/brochures/jaipuria-jaipur-2025.pdf',
         destination: '/colleges/jaipuria-jaipur',
         permanent: true,

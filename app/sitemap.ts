@@ -100,12 +100,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic generic mock tests
   // Utilizing the mocked config array to scale dynamic routes correctly
   const { EXAM_CONFIGS } = require('@/lib/mock-test-data');
-  const examRoutes = EXAM_CONFIGS.map((config: any) => ({
-    url: `${baseUrl}/tools/mock-test/${config.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
-  }));
+  const customStaticSlugs = ['cat', 'nmat', 'bitsat', 'jee-main', 'jee-advanced', 'atma', 'mhcet'];
+  const examRoutes = EXAM_CONFIGS
+    .filter((config: any) => !customStaticSlugs.includes(config.slug))
+    .map((config: any) => ({
+      url: `${baseUrl}/tools/mock-test/${config.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    }));
 
   // Dynamic exam resources routes
   const examSlugs = ['cat', 'xat', 'cmat', 'snap', 'nmat', 'mah-mba-cet', 'cuet-pg'];
