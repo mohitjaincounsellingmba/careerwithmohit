@@ -43,8 +43,8 @@ In this comprehensive review, we dive deep into fees, placements, location advan
 | Feature | [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) | [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida |
 | :--- | :--- | :--- |
 | **Location** | Tughlakabad, South Delhi | Sector 62, Noida |
-| **Total Fees (Approx.)** | ₹11.50 Lakhs | ₹11.25 Lakhs |
-| **Average Package (2025)** | **₹9.50 LPA** | ₹8.95 LPA |
+| **Total Fees (Approx.)** | **₹13.75 Lakhs** | ₹14.50 Lakhs |
+| **Average Package (2025)** | **₹9.50 - ₹10.00 LPA** | ₹8.95 LPA |
 | **Highest Package** | ₹23.80 LPA | ₹36.00 LPA |
 | **Core Strength** | Unmatched Corporate Connect in South Delhi | Multi-Campus Unison Learning |
 | **Top Domains** | Marketing, Finance, Consulting | General Management, Retail |

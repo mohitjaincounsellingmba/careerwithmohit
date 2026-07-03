@@ -78,14 +78,14 @@ If your primary constraint is budget, but you still want an established platform
 
 ## 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), Delhi
 
-*Note: NDIM's fees occasionally cross the ₹10 Lakh threshold slightly based on the specialization, but its ROI justifies its inclusion.*
+*Note: NDIM's fees have revised to ₹13.75 Lakhs for the 2026-28 batch, but its premium corporate placement ROI makes it a must-include for serious aspirants.*
 
 Situated in the heart of Delhi, NDIM is heavily networked with industry bodies like FICCI, ASSOCHAM, and CII.
 
-*   **Estimated Total Fees:** ~₹10.75 - ₹11.50 Lakhs
-*   **Average Placement:** ~₹6.70 - ₹8.00 LPA
-*   **Highest Placement:** ₹16.50 LPA+
-*   **The Verdict:** While it brushes the top end of the ₹10 Lakh budget, NDIM's strategic location in South Delhi and deep corporate alliances make it an incredibly safe bet for stable placements.
+*   **Estimated Total Fees:** ₹13.75 Lakhs
+*   **Average Placement:** **₹9.50 - ₹10.00 LPA**
+*   **Highest Placement:** ₹24.00 LPA (Domestic)
+*   **The Verdict:** While it requires a slightly higher investment, NDIM's strategic location in South Delhi, AICTE-CII industry-linked curriculum, and deep corporate alliances make it an incredibly safe bet for stable, high-package placements.
 
 ---
 
