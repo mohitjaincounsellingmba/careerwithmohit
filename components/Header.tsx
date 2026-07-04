@@ -43,10 +43,13 @@ export function Header() {
           
           <div className="relative group">
             <button className="flex items-center gap-1 hover:text-primary hover:-translate-y-0.5 transition-transform font-bold outline-none">
-              Admission
+              Admissions
               <ChevronDown className="w-4 h-4 transition-transform group-hover:-rotate-180" />
             </button>
             <div className="absolute top-full left-0 mt-2 w-56 bg-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50 flex flex-col">
+              <Link href="/admissions" prefetch={false} className="px-5 py-3 hover:bg-slate-50 border-b-2 border-slate-100 transition-colors font-bold flex items-center gap-2 text-primary-brand">
+                <span className="w-2 h-2 bg-primary-brand rounded-full animate-pulse"></span> Admissions Portal
+              </Link>
               <Link href="/colleges" prefetch={false} className="px-5 py-3 hover:bg-slate-50 border-b-2 border-slate-100 transition-colors font-bold flex items-center gap-2">
                 <span className="w-2 h-2 bg-primary rounded-full"></span> Top Colleges
               </Link>
@@ -103,9 +106,12 @@ export function Header() {
             
             <div className="flex flex-col gap-4">
               <div className="flex items-center text-slate-500 text-sm tracking-widest uppercase">
-                Admission
+                Admissions
               </div>
               <div className="pl-4 flex flex-col gap-5 border-l-2 border-slate-100 ml-1">
+                <Link href="/admissions" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-primary-brand font-extrabold">
+                  <span className="w-1.5 h-1.5 rounded-full bg-primary-brand mr-3 inline-block animate-pulse"></span>Admissions Portal
+                </Link>
                 <Link href="/colleges" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
                   <span className="w-1.5 h-1.5 rounded-full bg-primary mr-3 inline-block"></span>Top Colleges
                 </Link>
