@@ -39,7 +39,22 @@ export const metadata: Metadata = {
       "Free CAT 2026 Score Calculator. Instantly calculate raw score, scaled score, and expected percentile for IIM admissions.",
     type: "website",
     url: "https://www.careerwithmohit.online/tools/cat-score-calculator",
+    siteName: "CareerWithMohit",
+    images: [
+      {
+        url: "/og-image.webp",
+        width: 1200,
+        height: 630,
+        alt: "CAT Score Calculator Tool",
+      },
+    ],
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "CAT Score Calculator 2026 | Raw Score & Percentile Predictor",
+    description: "Free CAT 2026 Score Calculator. Instantly calculate raw score, scaled score, and expected percentile.",
+    images: ["/og-image.webp"],
+  }
 };
 
 export default function CatScoreCalculatorPage() {

@@ -15,17 +15,34 @@ export async function generateMetadata({ params }: { params: Promise<{ examSlug:
   const config = EXAM_CONFIGS.find(c => c.slug === resolvedParams.examSlug);
   if (!config) return {};
   
+  const pageUrl = `https://www.careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}`;
   return {
     title: config.seoTitle,
+    description: config.seoDescription,
+    keywords: config.keywords || [],
     alternates: {
       canonical: `/tools/mock-test/${resolvedParams.examSlug}`,
     },
-    description: config.seoDescription,
-    keywords: config.keywords || [],
     openGraph: {
       title: config.seoTitle,
       description: config.seoDescription,
       type: 'website',
+      url: pageUrl,
+      siteName: 'CareerWithMohit',
+      images: [
+        {
+          url: '/og-image.webp',
+          width: 1200,
+          height: 630,
+          alt: `${config.name} Mock Test Tool`,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: config.seoTitle,
+      description: config.seoDescription,
+      images: ['/og-image.webp'],
     }
   };
 }

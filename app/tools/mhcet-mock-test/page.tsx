@@ -18,6 +18,22 @@ export const metadata: Metadata = {
     title: 'Free MAH MBA CET Mock Test 2026 | Rank #1 in Maharashtra',
     description: 'Master the MAH MBA CET with our full-length 200-question mock test. Ideal for aspirants in Maharashtra and Madhya Pradesh. Real exam experience with instant results.',
     type: 'website',
+    url: 'https://www.careerwithmohit.online/tools/mhcet-mock-test',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'MAH MBA CET Mock Test Tool',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free MAH MBA CET Mock Test 2026 | Rank #1 in Maharashtra',
+    description: 'Master the MAH MBA CET with our full-length 200-question mock test.',
+    images: ['/og-image.webp'],
   }
 };
 

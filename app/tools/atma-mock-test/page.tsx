@@ -15,6 +15,27 @@ export const metadata: Metadata = {
   ],
   alternates: {
     canonical: '/tools/atma-mock-test',
+  },
+  openGraph: {
+    title: 'Free ATMA Mock Test 2026 | MBA Entrance Exam Practice Tool',
+    description: 'Master the ATMA exam with our realistic mock tool. Experience 180 questions with sectional timers and a percentile predictor.',
+    type: 'website',
+    url: 'https://www.careerwithmohit.online/tools/atma-mock-test',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'ATMA Mock Test Tool',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free ATMA Mock Test 2026 | MBA Entrance Exam Practice Tool',
+    description: 'Realistic 180-question ATMA mock test for MBA aspirants. Experience sectional timers and percentile predictor.',
+    images: ['/og-image.webp'],
   }
 };
 
@@ -210,27 +231,14 @@ export default function AtmaMockTestPage() {
               <HelpCircle className="w-10 h-10 text-primary" /> ATMA Exam FAQs
             </h2>
             <div className="space-y-8">
-              {[
-                {
-                  q: "What is the marking scheme for ATMA 2026?",
-                  a: "ATMA follows a +1 for correct answer and -0.25 for incorrect answer marking scheme. There is no penalty for unattempted questions."
-                },
-                {
-                  q: "Is there a sectional time limit in ATMA?",
-                  a: "Yes, each of the six sections has a strict 30-minute time limit. You cannot move back and forth between sections."
-                },
-                {
-                  q: "Which MBA colleges accept ATMA scores?",
-                  a: "Over 500+ MBA colleges in India accept ATMA scores, including top institutes like JBIMS, SIMSREE, PUMBA, and Welingkar (primarily for OMS candidates or specific quotas)."
-                }
-              ].map((faq, i) => (
+              {config.faqs?.map((faq, i) => (
                 <div key={i} className="border-b-4 border-gray-50 pb-8 last:border-0 border-double">
                   <h4 className="text-xl font-bold uppercase mb-4 flex items-start gap-4">
                     <span className="bg-foreground text-white text-xs px-2 py-0.5 mt-1 shrink-0">Q</span>
-                    {faq.q}
+                    {faq.question}
                   </h4>
                   <p className="text-lg text-gray-600 font-medium leading-relaxed italic ml-10">
-                    {faq.a}
+                    {faq.answer}
                   </p>
                 </div>
               ))}

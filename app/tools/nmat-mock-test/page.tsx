@@ -20,6 +20,22 @@ export const metadata: Metadata = {
     title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai 2027 Batch',
     description: 'Master the NMAT by GMAC with our realistic mock tool to secure admission in 2027. 108 questions across Language, Quants, and Logic with sectional timers.',
     type: 'website',
+    url: 'https://www.careerwithmohit.online/tools/nmat-mock-test',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'NMAT Mock Test Tool',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai 2027 Batch',
+    description: 'Master the NMAT by GMAC with our realistic mock tool to secure admission in 2027.',
+    images: ['/og-image.webp'],
   }
 };
 
@@ -70,6 +86,19 @@ export default function NmatMockTestPage() {
     ]
   };
 
+  const faqSchema = config.faqs && config.faqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": config.faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  } : null;
+
   return (
     <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
       <script
@@ -80,6 +109,12 @@ export default function NmatMockTestPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       
       <div className="mx-auto max-w-5xl">
         {/* Hero Section */}

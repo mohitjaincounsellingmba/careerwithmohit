@@ -14,6 +14,27 @@ export const metadata: Metadata = {
     'RRB NTPC free practice paper', 'SBI PO prelims mock test', 'UPSC CSE GS practice papers', 
     'government jobs test series 2026', 'banking exam free mock test', 'railway entrance exam prep'
   ],
+  openGraph: {
+    title: 'Free Government Exam Mock Tests 2026 | CareerWithMohit',
+    description: 'Practice free online mock tests for SSC, Banking, Railways, UPSC and other state exams. Access 30+ full-length practice sets.',
+    type: 'website',
+    url: 'https://www.careerwithmohit.online/tools/govt-exams-mock-test',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'Govt Exams Mock Test Hub',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free Government Exam Mock Tests 2026 | CareerWithMohit',
+    description: 'Practice free online mock tests for SSC, Banking, Railways, UPSC and other state exams.',
+    images: ['/og-image.webp'],
+  }
 };
 
 export default function GovtExamHubPage() {

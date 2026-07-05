@@ -20,6 +20,22 @@ export const metadata: Metadata = {
     title: 'Free JEE Main Mock Test 2026 | Performance & Analytics Tool',
     description: 'Master the JEE Main with our advanced mock test tool. Full-length practice paper with detailed analysis and rank predictor for NIT and IIIT admissions.',
     type: 'website',
+    url: 'https://www.careerwithmohit.online/tools/jee-main-mock-test',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'JEE Main Mock Test Tool',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free JEE Main Mock Test 2026 | Performance & Analytics Tool',
+    description: 'Master the JEE Main with our advanced mock test tool. Full-length practice paper with Physics, Chemistry, and Maths.',
+    images: ['/og-image.webp'],
   }
 };
 
@@ -220,18 +236,14 @@ export default function JeeMainMockTestPage() {
               <HelpCircle className="w-10 h-10 text-primary" /> Engineering Aspirant FAQs
             </h2>
             <div className="space-y-10">
-              {[
-                { q: "Is this JEE Main mock test free?", a: "Yes, it is 100% free and based on the latest NTA exam pattern with full-length PCM coverage." },
-                { q: "Does it help in rank prediction?", a: "The tool provides a projection of your performance based on historical NIT cutoffs and marks vs percentile trends." },
-                { q: "Can I take this test on mobile?", a: "Yes, our interface is fully responsive, though for a real CBT experience, we recommend using a desktop." }
-              ].map((faq, i) => (
+              {config.faqs?.map((faq, i) => (
                 <div key={i} className="border-b-2 border-gray-100 pb-8 last:border-0 border-dashed">
                   <h4 className="text-xl font-bold uppercase mb-4 flex items-start gap-4">
                     <span className="bg-primary text-white text-xs px-2 py-0.5 mt-1 shrink-0">Q</span>
-                    {faq.q}
+                    {faq.question}
                   </h4>
                   <p className="text-lg text-gray-600 font-medium leading-relaxed italic ml-10">
-                    {faq.a}
+                    {faq.answer}
                   </p>
                 </div>
               ))}

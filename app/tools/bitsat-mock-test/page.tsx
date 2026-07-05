@@ -19,6 +19,22 @@ export const metadata: Metadata = {
     title: 'Free BITSAT Mock Test 2026 | Simulation & BITS Campus Predictor',
     description: 'Master the BITSAT with our advanced CBT interface. Simulation for English Proficiency and Logical Reasoning for high-rank BITS Pilani candidates.',
     type: 'website',
+    url: 'https://www.careerwithmohit.online/tools/bitsat-mock-test',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'BITSAT Mock Test Tool',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free BITSAT Mock Test 2026 | Simulation & BITS Campus Predictor',
+    description: 'Master the BITSAT with our advanced CBT interface covering Physics, Chemistry, English, and Logical Reasoning.',
+    images: ['/og-image.webp'],
   }
 };
 

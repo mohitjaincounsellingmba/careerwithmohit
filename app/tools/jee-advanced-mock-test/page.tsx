@@ -20,6 +20,22 @@ export const metadata: Metadata = {
     title: 'Free IIT JEE Advanced Mock Test 2026 | Simulation & Analytics',
     description: 'Master the JEE Advanced with our advanced CBT mock test interface. Detailed solutions, rank predictor, and syllabus-wise breakdown for Physics, Chemistry, and Mathematics.',
     type: 'website',
+    url: 'https://www.careerwithmohit.online/tools/jee-advanced-mock-test',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: '/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'JEE Advanced Mock Test Tool',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free IIT JEE Advanced Mock Test 2026 | Simulation & Analytics',
+    description: 'Master the JEE Advanced with our advanced CBT mock test interface. Detailed solutions, rank predictor, and syllabus breakdown.',
+    images: ['/og-image.webp'],
   }
 };
 

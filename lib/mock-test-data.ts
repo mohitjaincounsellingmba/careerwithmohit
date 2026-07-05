@@ -69,6 +69,20 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { name: 'IIIT Hyderabad', cutoff: '99.9+ %ile' },
       { name: 'IIIT Delhi', cutoff: '98.5+ %ile' }
     ],
+    faqs: [
+      {
+        question: "Is this JEE Main mock test free?",
+        answer: "Yes, it is 100% free and based on the latest NTA exam pattern with full-length PCM coverage."
+      },
+      {
+        question: "Does it help in rank prediction?",
+        answer: "The tool provides a projection of your performance based on historical NIT cutoffs and marks vs percentile trends."
+      },
+      {
+        question: "Can I take this test on mobile?",
+        answer: "Yes, our interface is fully responsive, though for a real CBT experience, we recommend using a desktop."
+      }
+    ],
     markingScheme: { correct: 4, negative: 1 }
   },
   {
@@ -948,6 +962,20 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { name: 'PUMBA Pune', cutoff: '98+ %ile' },
       { name: 'Welingkar Mumbai', cutoff: '97+ %ile' },
       { name: 'MET Mumbai', cutoff: '95+ %ile' }
+    ],
+    faqs: [
+      {
+        question: "What is the marking scheme for ATMA 2026?",
+        answer: "ATMA follows a +1 for correct answer and -0.25 for incorrect answer marking scheme. There is no penalty for unattempted questions."
+      },
+      {
+        question: "Is there a sectional time limit in ATMA?",
+        answer: "Yes, each of the six sections has a strict 30-minute time limit. You cannot move back and forth between sections."
+      },
+      {
+        question: "Which MBA colleges accept ATMA scores?",
+        answer: "Over 500+ MBA colleges in India accept ATMA scores, including top institutes like JBIMS, SIMSREE, PUMBA, and Welingkar (primarily for OMS candidates or specific quotas)."
+      }
     ],
     markingScheme: { correct: 1, negative: 0.25 }
   },
