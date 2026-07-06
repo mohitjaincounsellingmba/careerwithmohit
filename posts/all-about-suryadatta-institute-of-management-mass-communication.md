@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Suryadatta Institute of Management & Mass Communication**
+### **College Review: [Suryadatta Institute of Management & Mass Communication](/colleges/suryadatta-institute-of-management-mass-communication)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 Suryadatta Institute of Management & Mass Communication 2026 Snapshot
+### 📊 [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) & Mass Communication 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

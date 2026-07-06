@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Xavier Alwar Institute of Professional Studies**
+### **College Review: [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-institute-of-professional-studies)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.

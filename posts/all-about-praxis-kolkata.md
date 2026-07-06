@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, XAT, CMAT, MAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Praxis Business School**
+### **College Review: [Praxis Business School](/colleges/praxis-kolkata)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.

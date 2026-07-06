@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including Entrance Exam, Portfolio, Interview for the PGDM and MBA admissions.
 ---
 
-### **College Review: Pearl Academy, Delhi**
+### **College Review: [Pearl Academy, Delhi](/colleges/pearl-academy-delhi)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.

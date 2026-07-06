@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including MAH CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: J.S. Kothari Business School**
+### **College Review: [J.S. Kothari Business School](/colleges/js-kothari-mumbai)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.

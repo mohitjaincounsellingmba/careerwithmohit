@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, KMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: International Institute of Business Studies (IIBS)**
+### **College Review: [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 International Institute of Business Studies (IIBS) 2026 Snapshot
+### 📊 [International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

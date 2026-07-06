@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, GMAT, XAT, NMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Atlas SkillTech University**
+### **College Review: [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.

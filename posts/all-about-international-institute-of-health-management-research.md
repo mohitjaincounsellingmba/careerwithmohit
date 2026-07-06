@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: International Institute of Health Management Research**
+### **College Review: [International Institute of Health Management Research](/colleges/international-institute-of-health-management-research)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 International Institute of Health Management Research 2026 Snapshot
+### 📊 International [Institute of Health Management Research](/colleges/institute-of-health-management-research) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

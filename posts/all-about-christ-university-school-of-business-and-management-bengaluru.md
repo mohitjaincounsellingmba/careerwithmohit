@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Christ University - School of Business and Management**
+### **College Review: [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 Christ University - School of Business and Management 2026 Snapshot
+### 📊 [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Christ University - School of Business and Management a good option for PGDM/MBA?
+### 1. Is [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management) a good option for PGDM/MBA?
 Yes, Christ University - School of Business and Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Christ University - School of Business and Management?

@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, Amity JEE for the PGDM and MBA admissions.
 ---
 
-### **College Review: Amity University Mumbai**
+### **College Review: [Amity University Mumbai](/colleges/amity-mumbai)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 Amity University Mumbai 2026 Snapshot
+### 📊 [Amity University](/colleges/amity-noida) Mumbai 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

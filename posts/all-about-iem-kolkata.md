@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, JEMAT, MAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Institute of Engineering and Management (IEM)**
+### **College Review: [Institute of Engineering and Management (IEM)](/colleges/iem-kolkata)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.

@@ -141,7 +141,7 @@ Microsoft, Amazon, Google, Goldman Sachs, Qualcomm, Samsung, Texas Instruments, 
 
 ### **[MNIT Jaipur](/colleges/mnit-jaipur) vs. Private Engineering Colleges in Jaipur**
 
-| Parameter | MNIT Jaipur | MUJ | SKIT Jaipur |
+| Parameter | [MNIT Jaipur](/colleges/mnit-jaipur) | MUJ | SKIT Jaipur |
 | :--- | :--- | :--- | :--- |
 | **Type** | Govt. (NIT) | Private Deemed | Private (RTU) |
 | **4-Year Fees** | ~₹5 Lakhs | ₹12.6–18 Lakhs | ₹4.6–5.2 Lakhs |

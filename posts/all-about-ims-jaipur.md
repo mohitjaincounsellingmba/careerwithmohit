@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Institute of Management Studies (IIIM)**
+### **College Review: [Institute of Management Studies (IIIM)](/colleges/ims-jaipur)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 Institute of Management Studies (IIIM) 2026 Snapshot
+### 📊 [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

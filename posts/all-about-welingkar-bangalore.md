@@ -20,7 +20,7 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, XAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Welingkar (WeSchool) Bangalore**
+### **College Review: [Welingkar (WeSchool) Bangalore](/colleges/welingkar-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.

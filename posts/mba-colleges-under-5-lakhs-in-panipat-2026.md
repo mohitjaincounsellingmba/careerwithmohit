@@ -48,7 +48,7 @@ These institutions keep tuition fees under ₹5 Lakhs (either total or annual, f
 - **Average Placement Package:** **₹4.5 LPA - ₹6.0 LPA**
 - **Key Highlight:** Affiliated directly with the government state university, offering the highest ROI and subsidised hostel accommodation.
 
-### 2. Panipat Institute of Management and Technology (CIMT)
+### 2. [Panipat Institute of Management](/colleges/panipat-institute-of-management) and Technology (CIMT)
 - **Approximate Fees:** ₹1.8 Lakhs - ₹2.5 Lakhs (Annual)
 - **Accepted Entrance Exams:** MAT / CMAT / Merit
 - **Average Placement Package:** **₹4.0 LPA - ₹5.2 LPA**

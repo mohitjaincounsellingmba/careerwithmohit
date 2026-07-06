@@ -72,7 +72,7 @@ Decision Making can make or break your XLRI calls. Follow these tips to master t
 
 For [XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Business Management - BM, and Human Resource Management - HRM programs), target these approximate overall percentiles:
 
-- **XLRI Jamshedpur BM (Male):** 96.0+ Percentile
+- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) BM (Male):** 96.0+ Percentile
 - **XLRI Jamshedpur BM (Female):** 93.0+ Percentile
 - **XLRI Jamshedpur HRM (Male):** 93.0+ Percentile
 - **XLRI Jamshedpur HRM (Female):** 91.0+ Percentile

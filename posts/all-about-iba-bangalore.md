@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Indus Business Academy (IBA)**
+### **College Review: [Indus Business Academy (IBA)](/colleges/iba-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 Indus Business Academy (IBA) 2026 Snapshot
+### 📊 [Indus Business Academy](/colleges/indus-business-academy) (IBA) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

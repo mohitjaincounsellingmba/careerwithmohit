@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: International School of Business & Media, Bangalore**
+### **College Review: [International School of Business & Media, Bangalore](/colleges/international-school-of-business-media-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 International School of Business & Media, Bangalore 2026 Snapshot
+### 📊 [International School of Business & Media](/colleges/international-school-of-business-media), Bangalore 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

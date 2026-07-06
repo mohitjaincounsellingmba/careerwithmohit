@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: ISBR Business School**
+### **College Review: [ISBR Business School](/colleges/isbr-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 ISBR Business School 2026 Snapshot
+### 📊 [ISBR Business School](/colleges/isbr-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

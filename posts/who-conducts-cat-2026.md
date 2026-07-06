@@ -60,7 +60,7 @@ Here is a quick look at the historical timeline of CAT conducting bodies:
 
 ## 2. What to Expect from IIM Indore as the Organizing Body?
 IIM Indore has a reputation for executing highly standardized, well-organized examinations. Historically, when IIM Indore conducts the CAT exam, there are a few patterns observed:
-* **Balanced Paper Difficulty:** Unlike IIM Ahmedabad (which is known for historically challenging Quantitative Aptitude sections) or IIM Calcutta (known for tough DILR sections), IIM Indore generally sets a balanced paper across VARC, DILR, and QA.
+* **Balanced Paper Difficulty:** Unlike [IIM Ahmedabad](/colleges/iim-ahmedabad) (which is known for historically challenging Quantitative Aptitude sections) or [IIM Calcutta](/colleges/iim-calcutta) (known for tough DILR sections), IIM Indore generally sets a balanced paper across VARC, DILR, and QA.
 * **Streamlined Registration:** The online portal is kept highly intuitive and responsive to handle over 3 lakh registrations smoothly.
 * **Test Center Coordination:** IIM Indore has successfully expanded test locations in previous years to ensure accessibility for rural and semi-urban candidates.
 

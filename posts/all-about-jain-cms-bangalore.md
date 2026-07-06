@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including JET, MAT, CAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: Jain University (CMS) Bangalore**
+### **College Review: [Jain University (CMS) Bangalore](/colleges/jain-cms-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 Jain University (CMS) Bangalore 2026 Snapshot
+### 📊 [Jain University](/colleges/jain-university) (CMS) Bangalore 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

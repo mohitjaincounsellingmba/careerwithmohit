@@ -20,14 +20,14 @@ faqs:
       The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: RL Institute of Management Studies**
+### **College Review: [RL Institute of Management Studies](/colleges/rl-institute-of-management-studies)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 RL Institute of Management Studies 2026 Snapshot
+### 📊 RL [Institute of Management Studies](/colleges/institute-of-management-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
