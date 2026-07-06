@@ -9,6 +9,7 @@ import {
   BookOpen,
   TrendingUp,
   Target,
+  ArrowRight,
 } from "lucide-react";
 import Link from "next/link";
 
@@ -29,6 +30,29 @@ export const metadata: Metadata = {
     "cat marks vs percentile 2026",
     "IIM admission score calculator",
     "cat varc dilr qa score",
+    "CAT score vs percentile 2026",
+    "CAT scaled score vs percentile 2026",
+    "CAT raw score vs scaled score",
+    "CAT score calculator by slot",
+    "CAT 2026 answer key calculator",
+    "CAT response sheet score calculator",
+    "CAT sectional marks vs percentile",
+    "CAT VARC raw score vs percentile",
+    "CAT DILR raw score vs percentile",
+    "CAT QA raw score vs percentile",
+    "CAT score calculator 2026 slot 1",
+    "CAT score calculator 2026 slot 2",
+    "CAT score calculator 2026 slot 3",
+    "CAT score vs percentile analysis",
+    "Expected CAT score for 99 percentile",
+    "Expected CAT score for 95 percentile",
+    "Expected CAT score for 90 percentile",
+    "CAT expected percentile 2026",
+    "CAT 2026 score vs percentile",
+    "CAT normalization process 2026",
+    "IIM admission cut-offs 2026",
+    "CAT normalisation calculator",
+    "iim call predictor 2026"
   ],
   alternates: {
     canonical: "/tools/cat-score-calculator",
@@ -368,6 +392,48 @@ export default function CatScoreCalculatorPage() {
                 <p className="mt-4 font-bold text-slate-600 leading-relaxed">{a}</p>
               </details>
             ))}
+          </div>
+        </div>
+
+        {/* Popular Searches & Related Keywords */}
+        <div className="mt-32 max-w-4xl">
+          <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
+            <BookOpen className="w-10 h-10 text-amber-500" />
+            CAT 2026: Popular Searches & Related Keywords
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="bg-white border-4 border-foreground p-6 space-y-4 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Score vs Percentile</h4>
+              <ul className="space-y-2 text-sm font-bold text-slate-600 italic">
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT score vs percentile 2026</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT marks vs percentile 2026</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> Expected score for 99 percentile</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> Expected score for 95 percentile</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT expected percentile 2026</li>
+              </ul>
+            </div>
+
+            <div className="bg-white border-4 border-foreground p-6 space-y-4 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Normalization & Scaling</h4>
+              <ul className="space-y-2 text-sm font-bold text-slate-600 italic">
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT scaled score vs percentile</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT raw score vs scaled score</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT normalisation calculator</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT normalization process 2026</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT score calculator slot-wise</li>
+              </ul>
+            </div>
+
+            <div className="bg-white border-4 border-foreground p-6 space-y-4 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Predictors & Cut-offs</h4>
+              <ul className="space-y-2 text-sm font-bold text-slate-600 italic">
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT 2026 percentile predictor</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT 2026 answer key calculator</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT response sheet calculator</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> IIM admission score calculator</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> IIM call predictor 2026</li>
+              </ul>
+            </div>
           </div>
         </div>
 
