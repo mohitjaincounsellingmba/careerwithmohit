@@ -252,6 +252,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   }, [filteredColleges]);
 
   useEffect(() => {
+    console.log("Search input changed:", searchQuery);
     setVisibleCount(20);
   }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking]);
 
@@ -341,7 +342,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 w-5 h-5" />
               <input
                 type="text"
-                placeholder="Search colleges by name, city, courses, or exams..."
+                placeholder="Search colleges by name, courses, or exams..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 className="w-full pl-12 pr-10 py-3.5 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-brand/20 focus:bg-white transition-all text-sm font-bold text-slate-800 placeholder:text-slate-400"
@@ -468,7 +469,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
             {/* Results Header */}
             <div className="mb-6 flex items-center justify-between">
               <h2 className="text-lg font-bold text-slate-800">
-                Top Colleges List <span className="text-primary-brand bg-primary-brand/10 px-2.5 py-0.5 rounded-full text-xs font-black ml-2">{filteredColleges.length} Found</span>
+                Top Colleges in India <span className="text-primary-brand bg-primary-brand/10 px-2.5 py-0.5 rounded-full text-xs font-black ml-2">{filteredColleges.length} Found</span>
               </h2>
               <button 
                 onClick={() => setShowFiltersMobile(!showFiltersMobile)}
