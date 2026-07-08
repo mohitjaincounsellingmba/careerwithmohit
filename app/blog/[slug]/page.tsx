@@ -65,6 +65,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const posts = getSortedPostsData();
   return posts.map((post) => ({
