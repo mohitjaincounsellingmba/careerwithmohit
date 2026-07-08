@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 CMR University, School of Mgmt 2026 Snapshot
+### 📊 [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

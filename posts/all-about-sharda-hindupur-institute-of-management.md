@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Hindupur Institute of Management 2026 Snapshot
+### 📊 [Sharda Hindupur Institute of Management](/colleges/sharda-hindupur-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

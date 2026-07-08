@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Srikakulam Institute of Business Studies 2026 Snapshot
+### 📊 [Galgotias Srikakulam Institute of Business Studies](/colleges/galgotias-srikakulam-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

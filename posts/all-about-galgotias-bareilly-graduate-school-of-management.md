@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Bareilly Graduate School of Management 2026 Snapshot
+### 📊 [Galgotias Bareilly Graduate School of Management](/colleges/galgotias-bareilly-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

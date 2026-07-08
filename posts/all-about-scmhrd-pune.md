@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 SCMHRD Pune 2026 Snapshot
+### 📊 [SCMHRD Pune](/colleges/scmhrd-pune) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

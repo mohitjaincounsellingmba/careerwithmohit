@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Bharuch Institute of Management 2026 Snapshot
+### 📊 [Galgotias Bharuch Institute of Management](/colleges/galgotias-bharuch-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

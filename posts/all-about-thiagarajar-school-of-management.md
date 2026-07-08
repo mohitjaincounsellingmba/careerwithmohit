@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Thiagarajar School of Management 2026 Snapshot
+### 📊 [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

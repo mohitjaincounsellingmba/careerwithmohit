@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ISBS Gurgaon (ISB&M) 2026 Snapshot
+### 📊 [ISBS Gurgaon (ISB&M)](/colleges/isbs-gurgaon) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

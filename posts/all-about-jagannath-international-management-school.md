@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Jagannath International Management School 2026 Snapshot
+### 📊 [Jagannath International Management School](/colleges/jagannath-international-management-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

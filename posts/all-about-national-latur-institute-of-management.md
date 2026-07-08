@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Latur Institute of Management 2026 Snapshot
+### 📊 [National Latur Institute of Management](/colleges/national-latur-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

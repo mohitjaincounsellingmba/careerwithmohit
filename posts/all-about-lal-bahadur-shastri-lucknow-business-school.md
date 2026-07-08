@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Lucknow Business School 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Lucknow Business School](/colleges/lal-bahadur-shastri-lucknow-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

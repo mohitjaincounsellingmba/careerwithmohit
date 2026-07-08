@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Christ University Bangalore 2026 Snapshot
+### 📊 [Christ University Bangalore](/colleges/christ-university-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Dindigul Institute of Management 2026 Snapshot
+### 📊 [Dindigul Institute of Management](/colleges/dindigul-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

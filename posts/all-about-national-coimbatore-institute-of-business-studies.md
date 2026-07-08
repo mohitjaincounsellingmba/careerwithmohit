@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Coimbatore Institute of Business Studies 2026 Snapshot
+### 📊 [National Coimbatore Institute of Business Studies](/colleges/national-coimbatore-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

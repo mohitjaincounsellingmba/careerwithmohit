@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 NMIMS Bangalore 2026 Snapshot
+### 📊 [NMIMS Bangalore](/colleges/nmims-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

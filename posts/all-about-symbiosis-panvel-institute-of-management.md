@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Panvel Institute of Management 2026 Snapshot
+### 📊 [Symbiosis Panvel Institute of Management](/colleges/symbiosis-panvel-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

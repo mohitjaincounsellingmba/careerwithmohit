@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Amravati Institute of Management 2026 Snapshot
+### 📊 [International Amravati Institute of Management](/colleges/international-amravati-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

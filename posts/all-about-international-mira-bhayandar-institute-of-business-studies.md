@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Mira-Bhayandar Institute of Business Studies 2026 Snapshot
+### 📊 [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

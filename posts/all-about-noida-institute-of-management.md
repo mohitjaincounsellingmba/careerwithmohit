@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Noida Institute of Management 2026 Snapshot
+### 📊 [Noida Institute of Management](/colleges/noida-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Nalgonda Institute of Professional Studies 2026 Snapshot
+### 📊 [International Nalgonda Institute of Professional Studies](/colleges/international-nalgonda-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

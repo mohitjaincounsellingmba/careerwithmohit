@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Regional College of Management (RCM) 2026 Snapshot
+### 📊 [Regional College of Management (RCM)](/colleges/rcm-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

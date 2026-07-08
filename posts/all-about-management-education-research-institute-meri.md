@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Management Education & Research Institute (MERI) 2026 Snapshot
+### 📊 [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

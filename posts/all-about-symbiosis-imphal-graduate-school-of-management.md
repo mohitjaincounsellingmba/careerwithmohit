@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Imphal Graduate School of Management 2026 Snapshot
+### 📊 [Symbiosis Imphal Graduate School of Management](/colleges/symbiosis-imphal-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 CB Bhandari Jain College 2026 Snapshot
+### 📊 [CB Bhandari Jain College](/colleges/cb-bhandari-jain-college) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

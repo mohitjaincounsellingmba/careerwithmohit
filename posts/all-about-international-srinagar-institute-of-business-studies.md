@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Srinagar Institute of Business Studies 2026 Snapshot
+### 📊 [International Srinagar Institute of Business Studies](/colleges/international-srinagar-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

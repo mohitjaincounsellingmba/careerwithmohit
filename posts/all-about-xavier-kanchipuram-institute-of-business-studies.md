@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Kanchipuram Institute of Business Studies 2026 Snapshot
+### 📊 [Xavier Kanchipuram Institute of Business Studies](/colleges/xavier-kanchipuram-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

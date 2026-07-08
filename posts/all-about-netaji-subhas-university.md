@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Netaji Subhas University 2026 Snapshot
+### 📊 [Netaji Subhas University](/colleges/netaji-subhas-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

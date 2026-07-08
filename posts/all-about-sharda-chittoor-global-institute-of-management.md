@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Chittoor Global Institute of Management 2026 Snapshot
+### 📊 [Sharda Chittoor Global Institute of Management](/colleges/sharda-chittoor-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

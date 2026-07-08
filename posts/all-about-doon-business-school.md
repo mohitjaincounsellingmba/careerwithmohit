@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Doon Business School 2026 Snapshot
+### 📊 [Doon Business School](/colleges/doon-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

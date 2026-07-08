@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Malegaon Institute of Management & Technology 2026 Snapshot
+### 📊 [National Malegaon Institute of Management & Technology](/colleges/national-malegaon-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

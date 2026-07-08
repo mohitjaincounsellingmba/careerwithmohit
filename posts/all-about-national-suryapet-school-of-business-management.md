@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Suryapet School of Business & Management 2026 Snapshot
+### 📊 [National Suryapet School of Business & Management](/colleges/national-suryapet-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

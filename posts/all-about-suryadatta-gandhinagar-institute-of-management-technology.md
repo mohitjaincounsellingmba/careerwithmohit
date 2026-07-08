@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Gandhinagar Institute of Management & Technology 2026 Snapshot
+### 📊 [Suryadatta Gandhinagar Institute of Management & Technology](/colleges/suryadatta-gandhinagar-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

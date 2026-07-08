@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Khammam Institute of Management 2026 Snapshot
+### 📊 [International Khammam Institute of Management](/colleges/international-khammam-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

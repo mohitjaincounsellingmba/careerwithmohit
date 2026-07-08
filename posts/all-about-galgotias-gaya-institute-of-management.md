@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Gaya Institute of Management 2026 Snapshot
+### 📊 [Galgotias Gaya Institute of Management](/colleges/galgotias-gaya-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

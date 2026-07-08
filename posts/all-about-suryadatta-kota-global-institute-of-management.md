@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Kota Global Institute of Management 2026 Snapshot
+### 📊 [Suryadatta Kota Global Institute of Management](/colleges/suryadatta-kota-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

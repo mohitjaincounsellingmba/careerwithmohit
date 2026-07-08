@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Kayamkulam Graduate School of Management 2026 Snapshot
+### 📊 [Amity Kayamkulam Graduate School of Management](/colleges/amity-kayamkulam-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Delhi School of Business (VIPS-TC) 2026 Snapshot
+### 📊 [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

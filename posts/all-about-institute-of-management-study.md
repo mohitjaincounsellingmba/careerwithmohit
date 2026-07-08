@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Institute of Management Study 2026 Snapshot
+### 📊 [Institute of Management Study](/colleges/institute-of-management-study) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

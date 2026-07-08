@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Tirunelveli School of Business & Management 2026 Snapshot
+### 📊 [Tirunelveli School of Business & Management](/colleges/tirunelveli-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

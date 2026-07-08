@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Institute of Engineering and Management (IEM) 2026 Snapshot
+### 📊 [Institute of Engineering and Management (IEM)](/colleges/iem-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lloyd Business School 2026 Snapshot
+### 📊 [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

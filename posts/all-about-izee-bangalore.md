@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IZee Business School 2026 Snapshot
+### 📊 [IZee Business School](/colleges/izee-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

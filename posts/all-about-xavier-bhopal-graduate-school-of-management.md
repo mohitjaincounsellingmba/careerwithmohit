@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Bhopal Graduate School of Management 2026 Snapshot
+### 📊 [Xavier Bhopal Graduate School of Management](/colleges/xavier-bhopal-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

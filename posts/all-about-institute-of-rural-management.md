@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Institute of Rural Management 2026 Snapshot
+### 📊 [Institute of Rural Management](/colleges/institute-of-rural-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Palakkad Business School 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Palakkad Business School](/colleges/lal-bahadur-shastri-palakkad-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 NSB Academy 2026 Snapshot
+### 📊 [NSB Academy](/colleges/nsb-academy) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Madanapalle Institute of Professional Studies 2026 Snapshot
+### 📊 [Sharda Madanapalle Institute of Professional Studies](/colleges/sharda-madanapalle-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

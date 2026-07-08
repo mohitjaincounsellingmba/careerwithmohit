@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 SCMS Cochin School of Business 2026 Snapshot
+### 📊 [SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

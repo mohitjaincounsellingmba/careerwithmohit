@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Mulshi Institute of Business Management 2026 Snapshot
+### 📊 [Mulshi Institute of Business Management](/colleges/mulshi-institute-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

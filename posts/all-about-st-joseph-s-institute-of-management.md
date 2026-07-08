@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 St Joseph's Institute of Management 2026 Snapshot
+### 📊 [St Joseph's Institute of Management](/colleges/st-joseph-s-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

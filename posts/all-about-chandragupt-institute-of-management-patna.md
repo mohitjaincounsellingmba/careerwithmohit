@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Chandragupt Institute of Management Patna 2026 Snapshot
+### 📊 [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

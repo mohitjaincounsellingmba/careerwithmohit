@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Chennai Institute of Professional Studies 2026 Snapshot
+### 📊 [Xavier Chennai Institute of Professional Studies](/colleges/xavier-chennai-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

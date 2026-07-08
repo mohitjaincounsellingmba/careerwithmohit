@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Mumbai Institute of Professional Studies 2026 Snapshot
+### 📊 [Mumbai Institute of Professional Studies](/colleges/mumbai-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Crescent School of Business, 2026 Snapshot
+### 📊 [Crescent School of Business,](/colleges/crescent-school-of-business) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

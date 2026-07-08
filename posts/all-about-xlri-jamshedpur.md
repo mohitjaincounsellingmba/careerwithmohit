@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 XLRI Jamshedpur 2026 Snapshot
+### 📊 [XLRI Jamshedpur](/colleges/xlri-jamshedpur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

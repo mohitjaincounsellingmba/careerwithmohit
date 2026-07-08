@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Siksha 'O' Anusandhan University 2026 Snapshot
+### 📊 [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

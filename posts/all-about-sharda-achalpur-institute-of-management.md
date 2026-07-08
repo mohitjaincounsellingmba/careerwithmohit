@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Achalpur Institute of Management 2026 Snapshot
+### 📊 [Sharda Achalpur Institute of Management](/colleges/sharda-achalpur-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Adoni Institute of Management & Technology 2026 Snapshot
+### 📊 [Sharda Adoni Institute of Management & Technology](/colleges/sharda-adoni-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

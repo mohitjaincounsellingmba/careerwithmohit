@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 FORE School of Management 2026 Snapshot
+### 📊 [FORE School of Management](/colleges/fore-school-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Vapi Institute of Business Studies 2026 Snapshot
+### 📊 [Vapi Institute of Business Studies](/colleges/vapi-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

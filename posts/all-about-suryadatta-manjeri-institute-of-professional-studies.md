@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Manjeri Institute of Professional Studies 2026 Snapshot
+### 📊 [Suryadatta Manjeri Institute of Professional Studies](/colleges/suryadatta-manjeri-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

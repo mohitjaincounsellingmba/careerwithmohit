@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Cuttack Institute of Business Studies 2026 Snapshot
+### 📊 [Sharda Cuttack Institute of Business Studies](/colleges/sharda-cuttack-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Jaipuria Jaipur 2026 Snapshot
+### 📊 [Jaipuria Jaipur](/colleges/jaipuria-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Siddipet Institute of Business Studies 2026 Snapshot
+### 📊 [National Siddipet Institute of Business Studies](/colleges/national-siddipet-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

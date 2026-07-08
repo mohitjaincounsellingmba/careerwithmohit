@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 NSHM Knowledge Campus 2026 Snapshot
+### 📊 [NSHM Knowledge Campus](/colleges/nshm-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

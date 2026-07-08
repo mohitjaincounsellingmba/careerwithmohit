@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Asian Business School (ABS) 2026 Snapshot
+### 📊 [Asian Business School (ABS)](/colleges/asian-business-school-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

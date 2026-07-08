@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Sangli School of Business & Management 2026 Snapshot
+### 📊 [National Sangli School of Business & Management](/colleges/national-sangli-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

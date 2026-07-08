@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Alwar Institute of Professional Studies 2026 Snapshot
+### 📊 [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

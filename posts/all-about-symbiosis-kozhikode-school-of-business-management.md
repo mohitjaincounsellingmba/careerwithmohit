@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Kozhikode School of Business & Management 2026 Snapshot
+### 📊 [Symbiosis Kozhikode School of Business & Management](/colleges/symbiosis-kozhikode-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

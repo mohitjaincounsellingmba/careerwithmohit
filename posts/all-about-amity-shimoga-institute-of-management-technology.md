@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Shimoga Institute of Management & Technology 2026 Snapshot
+### 📊 [Amity Shimoga Institute of Management & Technology](/colleges/amity-shimoga-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

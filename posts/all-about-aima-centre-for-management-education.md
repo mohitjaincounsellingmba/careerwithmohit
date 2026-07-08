@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 AIMA-Centre for Management Education 2026 Snapshot
+### 📊 [AIMA-Centre for Management Education](/colleges/aima-centre-for-management-education) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

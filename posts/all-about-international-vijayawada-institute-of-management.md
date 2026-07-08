@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Vijayawada Institute of Management 2026 Snapshot
+### 📊 [International Vijayawada Institute of Management](/colleges/international-vijayawada-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

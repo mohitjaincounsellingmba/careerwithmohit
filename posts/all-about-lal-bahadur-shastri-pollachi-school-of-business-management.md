@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Pollachi School of Business & Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Pollachi School of Business & Management](/colleges/lal-bahadur-shastri-pollachi-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

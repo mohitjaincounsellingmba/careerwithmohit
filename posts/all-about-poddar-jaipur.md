@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Poddar Business School 2026 Snapshot
+### 📊 [Poddar Business School](/colleges/poddar-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

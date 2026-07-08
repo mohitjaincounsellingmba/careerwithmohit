@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Faculty of Management Studies - IRM 2026 Snapshot
+### 📊 [Faculty of Management Studies - IRM](/colleges/fms-irm-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

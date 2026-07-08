@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ITM Vocational University 2026 Snapshot
+### 📊 [ITM Vocational University](/colleges/itm-vocational-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

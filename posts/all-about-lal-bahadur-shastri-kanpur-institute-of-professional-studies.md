@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Kanpur Institute of Professional Studies 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Kanpur Institute of Professional Studies](/colleges/lal-bahadur-shastri-kanpur-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

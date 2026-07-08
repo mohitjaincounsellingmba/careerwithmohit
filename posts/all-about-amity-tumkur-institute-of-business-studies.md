@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Tumkur Institute of Business Studies 2026 Snapshot
+### 📊 [Amity Tumkur Institute of Business Studies](/colleges/amity-tumkur-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

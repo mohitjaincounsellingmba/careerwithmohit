@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Welingkar (WeSchool) Bangalore 2026 Snapshot
+### 📊 [Welingkar (WeSchool) Bangalore](/colleges/welingkar-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

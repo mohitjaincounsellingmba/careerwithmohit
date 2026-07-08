@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Barshi Global Institute of Management 2026 Snapshot
+### 📊 [Sharda Barshi Global Institute of Management](/colleges/sharda-barshi-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

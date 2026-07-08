@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Cuddalore Institute of Professional Studies 2026 Snapshot
+### 📊 [Xavier Cuddalore Institute of Professional Studies](/colleges/xavier-cuddalore-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

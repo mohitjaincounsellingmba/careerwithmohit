@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Veraval School of Business & Management 2026 Snapshot
+### 📊 [Veraval School of Business & Management](/colleges/veraval-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

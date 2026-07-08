@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias University 2026 Snapshot
+### 📊 [Galgotias University](/colleges/galgotias-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Chitkara University 2026 Snapshot
+### 📊 [Chitkara University](/colleges/chitkara-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

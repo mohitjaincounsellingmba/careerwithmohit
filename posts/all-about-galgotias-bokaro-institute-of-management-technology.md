@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Bokaro Institute of Management & Technology 2026 Snapshot
+### 📊 [Galgotias Bokaro Institute of Management & Technology](/colleges/galgotias-bokaro-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

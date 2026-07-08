@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Eluru Business School 2026 Snapshot
+### 📊 [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

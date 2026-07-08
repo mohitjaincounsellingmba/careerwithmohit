@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Eastern Institute for Integrated Learning in Management (EIILM) 2026 Snapshot
+### 📊 [Eastern Institute for Integrated Learning in Management (EIILM)](/colleges/eiilm-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

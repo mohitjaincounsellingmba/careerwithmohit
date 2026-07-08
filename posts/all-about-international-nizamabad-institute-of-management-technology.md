@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Nizamabad Institute of Management & Technology 2026 Snapshot
+### 📊 [International Nizamabad Institute of Management & Technology](/colleges/international-nizamabad-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

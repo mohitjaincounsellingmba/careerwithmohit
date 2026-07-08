@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Nagercoil Institute of Business Studies 2026 Snapshot
+### 📊 [Nagercoil Institute of Business Studies](/colleges/nagercoil-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

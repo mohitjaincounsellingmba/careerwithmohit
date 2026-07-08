@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Jaipur Business School 2026 Snapshot
+### 📊 [Xavier Jaipur Business School](/colleges/xavier-jaipur-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

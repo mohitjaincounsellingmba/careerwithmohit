@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Udgir Institute of Professional Studies 2026 Snapshot
+### 📊 [Sharda Udgir Institute of Professional Studies](/colleges/sharda-udgir-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

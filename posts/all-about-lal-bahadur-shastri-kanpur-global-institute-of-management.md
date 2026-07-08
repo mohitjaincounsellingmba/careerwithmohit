@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Kanpur Global Institute of Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Kanpur Global Institute of Management](/colleges/lal-bahadur-shastri-kanpur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

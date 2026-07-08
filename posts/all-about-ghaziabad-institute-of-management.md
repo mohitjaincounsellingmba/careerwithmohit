@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Ghaziabad Institute of Management 2026 Snapshot
+### 📊 [Ghaziabad Institute of Management](/colleges/ghaziabad-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Proddatur Institute of Business Studies 2026 Snapshot
+### 📊 [Sharda Proddatur Institute of Business Studies](/colleges/sharda-proddatur-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

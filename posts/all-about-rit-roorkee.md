@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Roorkee Institute of Technology (RIT) 2026 Snapshot
+### 📊 [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

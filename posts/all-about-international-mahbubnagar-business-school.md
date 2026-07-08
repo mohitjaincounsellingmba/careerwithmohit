@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Mahbubnagar Business School 2026 Snapshot
+### 📊 [International Mahbubnagar Business School](/colleges/international-mahbubnagar-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

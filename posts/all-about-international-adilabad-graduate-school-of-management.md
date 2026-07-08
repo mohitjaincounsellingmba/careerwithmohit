@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Adilabad Graduate School of Management 2026 Snapshot
+### 📊 [International Adilabad Graduate School of Management](/colleges/international-adilabad-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

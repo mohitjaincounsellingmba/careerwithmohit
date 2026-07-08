@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 SIBM Pune 2026 Snapshot
+### 📊 [SIBM Pune](/colleges/sibm-pune) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

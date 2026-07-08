@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Neyveli Business School 2026 Snapshot
+### 📊 [Xavier Neyveli Business School](/colleges/xavier-neyveli-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

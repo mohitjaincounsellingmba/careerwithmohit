@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Ranipet Business School 2026 Snapshot
+### 📊 [Ranipet Business School](/colleges/ranipet-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Gangtok Institute of Management & Technology 2026 Snapshot
+### 📊 [Sharda Gangtok Institute of Management & Technology](/colleges/sharda-gangtok-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

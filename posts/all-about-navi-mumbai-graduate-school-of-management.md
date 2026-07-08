@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Navi Mumbai Graduate School of Management 2026 Snapshot
+### 📊 [Navi Mumbai Graduate School of Management](/colleges/navi-mumbai-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

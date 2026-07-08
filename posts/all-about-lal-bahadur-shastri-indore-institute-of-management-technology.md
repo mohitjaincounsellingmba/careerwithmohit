@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Indore Institute of Management & Technology 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Indore Institute of Management & Technology](/colleges/lal-bahadur-shastri-indore-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

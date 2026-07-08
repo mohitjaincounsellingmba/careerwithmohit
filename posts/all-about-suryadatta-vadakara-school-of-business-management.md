@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Vadakara School of Business & Management 2026 Snapshot
+### 📊 [Suryadatta Vadakara School of Business & Management](/colleges/suryadatta-vadakara-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

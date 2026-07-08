@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IIM Ahmedabad 2026 Snapshot
+### 📊 [IIM Ahmedabad](/colleges/iim-ahmedabad) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

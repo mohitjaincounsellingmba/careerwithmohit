@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Nagpur Global Institute of Management 2026 Snapshot
+### 📊 [Amity Nagpur Global Institute of Management](/colleges/amity-nagpur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

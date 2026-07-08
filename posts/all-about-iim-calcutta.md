@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IIM Calcutta 2026 Snapshot
+### 📊 [IIM Calcutta](/colleges/iim-calcutta) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

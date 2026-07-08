@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Kollam Global Institute of Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Kollam Global Institute of Management](/colleges/lal-bahadur-shastri-kollam-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

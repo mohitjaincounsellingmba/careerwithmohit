@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Osmanabad Graduate School of Management 2026 Snapshot
+### 📊 [Sharda Osmanabad Graduate School of Management](/colleges/sharda-osmanabad-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

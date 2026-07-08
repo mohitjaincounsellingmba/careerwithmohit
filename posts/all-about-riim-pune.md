@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 RIIM Pune 2026 Snapshot
+### 📊 [RIIM Pune](/colleges/riim-pune) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

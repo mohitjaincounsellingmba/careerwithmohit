@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Kolhapur Institute of Professional Studies 2026 Snapshot
+### 📊 [International Kolhapur Institute of Professional Studies](/colleges/international-kolhapur-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

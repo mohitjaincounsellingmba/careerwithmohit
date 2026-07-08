@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Birla Global University 2026 Snapshot
+### 📊 [Birla Global University](/colleges/birla-global-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

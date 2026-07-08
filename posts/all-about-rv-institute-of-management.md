@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 RV Institute of Management 2026 Snapshot
+### 📊 [RV Institute of Management](/colleges/rv-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

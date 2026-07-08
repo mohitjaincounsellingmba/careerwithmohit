@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Mancherial Institute of Management 2026 Snapshot
+### 📊 [National Mancherial Institute of Management](/colleges/national-mancherial-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

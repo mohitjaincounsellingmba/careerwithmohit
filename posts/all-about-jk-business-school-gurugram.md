@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 JK Business School,Gurugram 2026 Snapshot
+### 📊 [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

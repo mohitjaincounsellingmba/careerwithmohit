@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 JAGSoM (Jagdish Sheth) 2026 Snapshot
+### 📊 [JAGSoM (Jagdish Sheth)](/colleges/jagsom-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Pearl Academy, Delhi 2026 Snapshot
+### 📊 [Pearl Academy, Delhi](/colleges/pearl-academy-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

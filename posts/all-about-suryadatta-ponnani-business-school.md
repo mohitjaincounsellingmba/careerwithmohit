@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Ponnani Business School 2026 Snapshot
+### 📊 [Suryadatta Ponnani Business School](/colleges/suryadatta-ponnani-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

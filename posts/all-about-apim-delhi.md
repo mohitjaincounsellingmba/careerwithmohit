@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Asia Pacific Institute of Management (APIM) 2026 Snapshot
+### 📊 [Asia Pacific Institute of Management (APIM)](/colleges/apim-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

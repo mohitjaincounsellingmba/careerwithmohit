@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 T M Bhagalpur University, Department of Commerce & Business Administration 2026 Snapshot
+### 📊 [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

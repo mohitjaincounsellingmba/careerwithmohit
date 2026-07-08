@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 SOIL Institute of Management 2026 Snapshot
+### 📊 [SOIL Institute of Management](/colleges/soil-institute-gurgaon) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

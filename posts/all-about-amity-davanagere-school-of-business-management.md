@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Davanagere School of Business & Management 2026 Snapshot
+### 📊 [Amity Davanagere School of Business & Management](/colleges/amity-davanagere-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ASM IBMR 2026 Snapshot
+### 📊 [ASM IBMR](/colleges/asm-ibmr) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Saharanpur Institute of Business Studies 2026 Snapshot
+### 📊 [Saharanpur Institute of Business Studies](/colleges/saharanpur-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

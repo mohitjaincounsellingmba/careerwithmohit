@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Mysore School of Business & Management 2026 Snapshot
+### 📊 [National Mysore School of Business & Management](/colleges/national-mysore-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

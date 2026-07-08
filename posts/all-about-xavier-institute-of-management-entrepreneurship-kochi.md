@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Institute of Management & Entrepreneurship, Kochi 2026 Snapshot
+### 📊 [Xavier Institute of Management & Entrepreneurship, Kochi](/colleges/xavier-institute-of-management-entrepreneurship-kochi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

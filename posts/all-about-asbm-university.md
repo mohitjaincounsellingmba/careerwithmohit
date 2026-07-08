@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ASBM University 2026 Snapshot
+### 📊 [ASBM University](/colleges/asbm-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

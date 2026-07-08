@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Wardha Institute of Business Studies 2026 Snapshot
+### 📊 [Sharda Wardha Institute of Business Studies](/colleges/sharda-wardha-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

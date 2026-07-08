@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 EMPI Institutions 2026 Snapshot
+### 📊 [EMPI Institutions](/colleges/empi-institutions) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

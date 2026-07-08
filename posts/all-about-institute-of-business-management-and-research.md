@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Institute of Business Management and Research 2026 Snapshot
+### 📊 [Institute of Business Management and Research](/colleges/institute-of-business-management-and-research) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

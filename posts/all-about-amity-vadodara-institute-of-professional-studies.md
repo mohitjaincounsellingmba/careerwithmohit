@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Vadodara Institute of Professional Studies 2026 Snapshot
+### 📊 [Amity Vadodara Institute of Professional Studies](/colleges/amity-vadodara-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Navi Mumbai Institute of Business Studies 2026 Snapshot
+### 📊 [Xavier Navi Mumbai Institute of Business Studies](/colleges/xavier-navi-mumbai-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

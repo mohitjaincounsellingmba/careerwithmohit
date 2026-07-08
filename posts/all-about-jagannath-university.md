@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Jagannath University 2026 Snapshot
+### 📊 [Jagannath University](/colleges/jagannath-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

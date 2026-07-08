@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Agra Graduate School of Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Agra Graduate School of Management](/colleges/lal-bahadur-shastri-agra-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

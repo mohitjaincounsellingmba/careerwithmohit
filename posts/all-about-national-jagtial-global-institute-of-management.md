@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Jagtial Global Institute of Management 2026 Snapshot
+### 📊 [National Jagtial Global Institute of Management](/colleges/national-jagtial-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

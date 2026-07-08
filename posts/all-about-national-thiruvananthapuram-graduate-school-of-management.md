@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Thiruvananthapuram Graduate School of Management 2026 Snapshot
+### 📊 [National Thiruvananthapuram Graduate School of Management](/colleges/national-thiruvananthapuram-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

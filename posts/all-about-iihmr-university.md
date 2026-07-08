@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IIHMR University 2026 Snapshot
+### 📊 [IIHMR University](/colleges/iihmr-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

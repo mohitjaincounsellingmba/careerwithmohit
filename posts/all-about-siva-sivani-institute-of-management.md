@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Siva Sivani Institute of Management 2026 Snapshot
+### 📊 [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

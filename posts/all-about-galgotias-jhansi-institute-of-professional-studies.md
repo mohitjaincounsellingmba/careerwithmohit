@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Jhansi Institute of Professional Studies 2026 Snapshot
+### 📊 [Galgotias Jhansi Institute of Professional Studies](/colleges/galgotias-jhansi-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Ambala Institute of Business Studies 2026 Snapshot
+### 📊 [Xavier Ambala Institute of Business Studies](/colleges/xavier-ambala-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

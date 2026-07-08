@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Ludhiana Institute of Professional Studies 2026 Snapshot
+### 📊 [Suryadatta Ludhiana Institute of Professional Studies](/colleges/suryadatta-ludhiana-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

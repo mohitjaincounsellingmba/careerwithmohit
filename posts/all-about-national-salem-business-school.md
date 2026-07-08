@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Salem Business School 2026 Snapshot
+### 📊 [National Salem Business School](/colleges/national-salem-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

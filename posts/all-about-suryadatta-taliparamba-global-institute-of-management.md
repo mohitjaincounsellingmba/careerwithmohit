@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Taliparamba Global Institute of Management 2026 Snapshot
+### 📊 [Suryadatta Taliparamba Global Institute of Management](/colleges/suryadatta-taliparamba-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

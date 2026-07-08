@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Rourkela Global Institute of Management 2026 Snapshot
+### 📊 [Sharda Rourkela Global Institute of Management](/colleges/sharda-rourkela-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

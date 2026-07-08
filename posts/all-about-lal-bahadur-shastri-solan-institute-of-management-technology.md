@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Solan Institute of Management & Technology 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Solan Institute of Management & Technology](/colleges/lal-bahadur-shastri-solan-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

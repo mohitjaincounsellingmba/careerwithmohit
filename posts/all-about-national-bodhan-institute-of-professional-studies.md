@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Bodhan Institute of Professional Studies 2026 Snapshot
+### 📊 [National Bodhan Institute of Professional Studies](/colleges/national-bodhan-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Agra Institute of Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Agra Institute of Management](/colleges/lal-bahadur-shastri-agra-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

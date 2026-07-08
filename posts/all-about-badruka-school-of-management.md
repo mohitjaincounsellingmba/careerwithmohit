@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Badruka School of Management 2026 Snapshot
+### 📊 [Badruka School of Management](/colleges/badruka-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

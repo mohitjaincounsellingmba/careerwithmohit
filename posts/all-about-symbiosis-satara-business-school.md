@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Satara Business School 2026 Snapshot
+### 📊 [Symbiosis Satara Business School](/colleges/symbiosis-satara-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

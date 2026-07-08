@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Vishwa Vishwani Institute of Systems & Management 2026 Snapshot
+### 📊 [Vishwa Vishwani Institute of Systems & Management](/colleges/vishwa-vishwani-institute-of-systems-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

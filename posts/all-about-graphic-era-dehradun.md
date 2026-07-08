@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Graphic Era (Deemed to be University) 2026 Snapshot
+### 📊 [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

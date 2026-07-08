@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 DSBS Bangalore 2026 Snapshot
+### 📊 [DSBS Bangalore](/colleges/dsbs-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

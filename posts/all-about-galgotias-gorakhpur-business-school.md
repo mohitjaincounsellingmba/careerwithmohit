@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Gorakhpur Business School 2026 Snapshot
+### 📊 [Galgotias Gorakhpur Business School](/colleges/galgotias-gorakhpur-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

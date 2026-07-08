@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Hassan Graduate School of Management 2026 Snapshot
+### 📊 [Amity Hassan Graduate School of Management](/colleges/amity-hassan-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

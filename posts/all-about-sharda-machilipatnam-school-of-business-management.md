@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Machilipatnam School of Business & Management 2026 Snapshot
+### 📊 [Sharda Machilipatnam School of Business & Management](/colleges/sharda-machilipatnam-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

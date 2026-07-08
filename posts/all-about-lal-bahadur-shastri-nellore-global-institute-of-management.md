@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Nellore Global Institute of Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Nellore Global Institute of Management](/colleges/lal-bahadur-shastri-nellore-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

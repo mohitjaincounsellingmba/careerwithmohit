@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Institute of Insurance and Risk Management 2026 Snapshot
+### 📊 [Institute of Insurance and Risk Management](/colleges/institute-of-insurance-and-risk-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

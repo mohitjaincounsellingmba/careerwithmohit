@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 SIBM Bangalore 2026 Snapshot
+### 📊 [SIBM Bangalore](/colleges/sibm-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

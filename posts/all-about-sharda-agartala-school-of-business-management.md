@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Agartala School of Business & Management 2026 Snapshot
+### 📊 [Sharda Agartala School of Business & Management](/colleges/sharda-agartala-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

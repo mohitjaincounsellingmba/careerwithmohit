@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Kochi Institute of Professional Studies 2026 Snapshot
+### 📊 [National Kochi Institute of Professional Studies](/colleges/national-kochi-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

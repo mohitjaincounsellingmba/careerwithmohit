@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Mathura Global Institute of Management 2026 Snapshot
+### 📊 [Mathura Global Institute of Management](/colleges/mathura-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

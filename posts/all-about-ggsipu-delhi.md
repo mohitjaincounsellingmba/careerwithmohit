@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 GGSIPU (Guru Gobind Singh Indraprastha University) 2026 Snapshot
+### 📊 [GGSIPU (Guru Gobind Singh Indraprastha University)](/colleges/ggsipu-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

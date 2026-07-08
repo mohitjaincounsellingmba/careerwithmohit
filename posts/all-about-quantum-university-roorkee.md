@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Quantum University 2026 Snapshot
+### 📊 [Quantum University](/colleges/quantum-university-roorkee) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

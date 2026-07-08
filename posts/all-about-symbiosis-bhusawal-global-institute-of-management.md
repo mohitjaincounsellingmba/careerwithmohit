@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Bhusawal Global Institute of Management 2026 Snapshot
+### 📊 [Symbiosis Bhusawal Global Institute of Management](/colleges/symbiosis-bhusawal-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Fortune Institute of International Business 2026 Snapshot
+### 📊 [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

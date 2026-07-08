@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lexicon Management Institute of Leadership & Excellence 2026 Snapshot
+### 📊 [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

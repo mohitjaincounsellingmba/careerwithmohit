@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Morbi Institute of Business Studies 2026 Snapshot
+### 📊 [Galgotias Morbi Institute of Business Studies](/colleges/galgotias-morbi-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

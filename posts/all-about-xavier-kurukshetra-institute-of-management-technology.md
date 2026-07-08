@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Kurukshetra Institute of Management & Technology 2026 Snapshot
+### 📊 [Xavier Kurukshetra Institute of Management & Technology](/colleges/xavier-kurukshetra-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

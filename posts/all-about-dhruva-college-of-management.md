@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Dhruva College of Management 2026 Snapshot
+### 📊 [Dhruva College of Management](/colleges/dhruva-college-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

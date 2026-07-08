@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 GIBS Business School 2026 Snapshot
+### 📊 [GIBS Business School](/colleges/gibs-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

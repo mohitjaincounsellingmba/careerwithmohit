@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Karaikudi Institute of Management 2026 Snapshot
+### 📊 [Xavier Karaikudi Institute of Management](/colleges/xavier-karaikudi-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

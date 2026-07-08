@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Beed Institute of Professional Studies 2026 Snapshot
+### 📊 [Symbiosis Beed Institute of Professional Studies](/colleges/symbiosis-beed-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

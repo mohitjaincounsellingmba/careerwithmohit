@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Jabalpur Global Institute of Management 2026 Snapshot
+### 📊 [Symbiosis Jabalpur Global Institute of Management](/colleges/symbiosis-jabalpur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Solapur Global Institute of Management 2026 Snapshot
+### 📊 [International Solapur Global Institute of Management](/colleges/international-solapur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

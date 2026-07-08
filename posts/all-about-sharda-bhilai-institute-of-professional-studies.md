@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Bhilai Institute of Professional Studies 2026 Snapshot
+### 📊 [Sharda Bhilai Institute of Professional Studies](/colleges/sharda-bhilai-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

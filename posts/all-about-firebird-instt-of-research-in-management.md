@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Firebird Instt of Research in Management 2026 Snapshot
+### 📊 [Firebird Instt of Research in Management](/colleges/firebird-instt-of-research-in-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

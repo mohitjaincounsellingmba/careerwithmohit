@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 RVIM Bangalore 2026 Snapshot
+### 📊 [RVIM Bangalore](/colleges/rvim-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

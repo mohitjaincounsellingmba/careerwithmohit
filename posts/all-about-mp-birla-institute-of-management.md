@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 MP Birla Institute of Management 2026 Snapshot
+### 📊 [MP Birla Institute of Management](/colleges/mp-birla-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

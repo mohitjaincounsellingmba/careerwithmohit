@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 FIIB (Fortune Institute of International Business), Delhi 2026 Snapshot
+### 📊 [FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/colleges/fiib-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Prayagraj Institute of Management & Technology 2026 Snapshot
+### 📊 [Amity Prayagraj Institute of Management & Technology](/colleges/amity-prayagraj-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

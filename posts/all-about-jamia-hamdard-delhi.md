@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Jamia Hamdard 2026 Snapshot
+### 📊 [Jamia Hamdard](/colleges/jamia-hamdard-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

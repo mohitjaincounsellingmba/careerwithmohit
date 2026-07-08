@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 PBS (Pune Business School) 2026 Snapshot
+### 📊 [PBS (Pune Business School)](/colleges/pbs-pune) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

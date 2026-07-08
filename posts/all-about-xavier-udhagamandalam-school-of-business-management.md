@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Udhagamandalam School of Business & Management 2026 Snapshot
+### 📊 [Xavier Udhagamandalam School of Business & Management](/colleges/xavier-udhagamandalam-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

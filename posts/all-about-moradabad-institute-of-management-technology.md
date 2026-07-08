@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Moradabad Institute of Management & Technology 2026 Snapshot
+### 📊 [Moradabad Institute of Management & Technology](/colleges/moradabad-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

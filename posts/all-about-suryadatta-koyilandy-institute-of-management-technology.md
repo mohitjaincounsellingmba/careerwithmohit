@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Koyilandy Institute of Management & Technology 2026 Snapshot
+### 📊 [Suryadatta Koyilandy Institute of Management & Technology](/colleges/suryadatta-koyilandy-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

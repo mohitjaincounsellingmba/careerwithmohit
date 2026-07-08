@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Anand School of Business & Management 2026 Snapshot
+### 📊 [Galgotias Anand School of Business & Management](/colleges/galgotias-anand-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

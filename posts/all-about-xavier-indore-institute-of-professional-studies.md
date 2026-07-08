@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Indore Institute of Professional Studies 2026 Snapshot
+### 📊 [Xavier Indore Institute of Professional Studies](/colleges/xavier-indore-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

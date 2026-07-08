@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Bhagalpur Global Institute of Management 2026 Snapshot
+### 📊 [Galgotias Bhagalpur Global Institute of Management](/colleges/galgotias-bhagalpur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

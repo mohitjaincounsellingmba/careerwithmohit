@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 St. Wilfred’s Institute of Management 2026 Snapshot
+### 📊 [St. Wilfred’s Institute of Management](/colleges/st-wilfreds-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

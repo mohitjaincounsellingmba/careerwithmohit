@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ISME Bangalore 2026 Snapshot
+### 📊 [ISME Bangalore](/colleges/isme-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

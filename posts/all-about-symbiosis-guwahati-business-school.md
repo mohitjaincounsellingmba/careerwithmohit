@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Guwahati Business School 2026 Snapshot
+### 📊 [Symbiosis Guwahati Business School](/colleges/symbiosis-guwahati-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

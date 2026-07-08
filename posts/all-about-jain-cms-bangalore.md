@@ -55,8 +55,8 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Jain University (CMS) Bangalore a good option for PGDM/MBA?
-Yes, Jain University (CMS) Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Jain University (CMS) Bangalore](/colleges/jain-cms-bangalore) a good option for PGDM/MBA?
+Yes, [Jain University](/colleges/jain-university) (CMS) Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Jain University (CMS) Bangalore?
 The average placement package at Jain University (CMS) Bangalore is approximately ₹8.5 LPA, with the highest package reaching up to ₹22.0 LPA.

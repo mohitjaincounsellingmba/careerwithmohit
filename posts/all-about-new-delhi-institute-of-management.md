@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 New Delhi Institute of Management 2026 Snapshot
+### 📊 [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

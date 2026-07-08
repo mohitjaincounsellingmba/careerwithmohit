@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IISc (DoMS) Bangalore 2026 Snapshot
+### 📊 [IISc (DoMS) Bangalore](/colleges/iisc-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

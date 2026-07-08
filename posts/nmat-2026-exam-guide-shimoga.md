@@ -96,7 +96,7 @@ The premier target is [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business
 You can attempt NMAT 2026 up to three times during the testing window (1 main attempt and 2 retakes). However, note that top institutes like [NMIMS Mumbai](/colleges/nmims-mumbai) only accept the score of your first attempt for their final selection process.
 
 ### What is a safe score in NMAT 2026 for [NMIMS Mumbai](/colleges/nmims-mumbai) MBA Core?
-A safe cut-off score for the MBA Core program at NMIMS Mumbai is typically around 230-235+ marks, along with balanced sectional cut-offs in Language Skills, Logical Reasoning, and Quantitative Skills.
+A safe cut-off score for the MBA Core program at [NMIMS Mumbai](/colleges/nmims-mumbai) is typically around 230-235+ marks, along with balanced sectional cut-offs in Language Skills, Logical Reasoning, and Quantitative Skills.
 
 ---
 

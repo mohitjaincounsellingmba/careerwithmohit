@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Apex University 2026 Snapshot
+### 📊 [Apex University](/colleges/apex-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

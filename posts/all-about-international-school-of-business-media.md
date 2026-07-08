@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International School of Business & Media 2026 Snapshot
+### 📊 [International School of Business & Media](/colleges/international-school-of-business-media) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

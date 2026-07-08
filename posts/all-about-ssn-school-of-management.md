@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 SSN School of Management 2026 Snapshot
+### 📊 [SSN School of Management](/colleges/ssn-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

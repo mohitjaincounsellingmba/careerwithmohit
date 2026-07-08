@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Entrepreneurship Development Institute of India 2026 Snapshot
+### 📊 [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

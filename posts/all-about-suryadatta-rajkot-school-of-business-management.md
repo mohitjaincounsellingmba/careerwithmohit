@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Rajkot School of Business & Management 2026 Snapshot
+### 📊 [Suryadatta Rajkot School of Business & Management](/colleges/suryadatta-rajkot-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

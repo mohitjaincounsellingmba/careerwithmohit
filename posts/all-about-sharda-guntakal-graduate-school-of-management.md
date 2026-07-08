@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Guntakal Graduate School of Management 2026 Snapshot
+### 📊 [Sharda Guntakal Graduate School of Management](/colleges/sharda-guntakal-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

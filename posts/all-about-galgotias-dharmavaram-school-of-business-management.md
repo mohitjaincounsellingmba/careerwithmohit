@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Dharmavaram School of Business & Management 2026 Snapshot
+### 📊 [Galgotias Dharmavaram School of Business & Management](/colleges/galgotias-dharmavaram-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

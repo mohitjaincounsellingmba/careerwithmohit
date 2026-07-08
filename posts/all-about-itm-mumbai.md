@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ITM Mumbai 2026 Snapshot
+### 📊 [ITM Mumbai](/colleges/itm-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

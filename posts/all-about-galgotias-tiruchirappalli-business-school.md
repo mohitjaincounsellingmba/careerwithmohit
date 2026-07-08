@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Tiruchirappalli Business School 2026 Snapshot
+### 📊 [Galgotias Tiruchirappalli Business School](/colleges/galgotias-tiruchirappalli-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

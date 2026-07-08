@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Panipat Institute of Management 2026 Snapshot
+### 📊 [Panipat Institute of Management](/colleges/panipat-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

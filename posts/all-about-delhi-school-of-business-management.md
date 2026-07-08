@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Delhi School of Business & Management 2026 Snapshot
+### 📊 [Delhi School of Business & Management](/colleges/delhi-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Kalyan-Dombivli School of Business & Management 2026 Snapshot
+### 📊 [International Kalyan-Dombivli School of Business & Management](/colleges/international-kalyan-dombivli-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

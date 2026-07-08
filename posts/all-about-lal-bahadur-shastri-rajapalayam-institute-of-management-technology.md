@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Rajapalayam Institute of Management & Technology 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Rajapalayam Institute of Management & Technology](/colleges/lal-bahadur-shastri-rajapalayam-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

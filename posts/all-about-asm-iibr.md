@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ASM IIBR 2026 Snapshot
+### 📊 [ASM IIBR](/colleges/asm-iibr) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

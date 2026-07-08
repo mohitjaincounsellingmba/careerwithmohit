@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Kothagudem Business School 2026 Snapshot
+### 📊 [National Kothagudem Business School](/colleges/national-kothagudem-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

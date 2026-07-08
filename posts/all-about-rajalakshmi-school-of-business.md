@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Rajalakshmi School of Business 2026 Snapshot
+### 📊 [Rajalakshmi School of Business](/colleges/rajalakshmi-school-of-business) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

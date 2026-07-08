@@ -69,7 +69,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Department of Business Administration, University of Panipat** | CAT / CMAT / State Entrance | ₹80,000 - ₹1.5 Lakhs (Total) | **₹4.5 LPA - ₹6.0 LPA** |
-| **Panipat Institute of Management and Technology (CIMT)** | MAT / CMAT / Merit | ₹1.8 Lakhs - ₹2.5 Lakhs (Annual) | **₹4.0 LPA - ₹5.2 LPA** |
+| **[Panipat Institute of Management](/colleges/panipat-institute-of-management) and Technology (CIMT)** | MAT / CMAT / Merit | ₹1.8 Lakhs - ₹2.5 Lakhs (Annual) | **₹4.0 LPA - ₹5.2 LPA** |
 | **Government College of Engineering & Management, Panipat** | State Entrance / CMAT | ₹60,000 - ₹1.2 Lakhs (Total) | **₹4.2 LPA - ₹5.5 LPA** |
 
 ---

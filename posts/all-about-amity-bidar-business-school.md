@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Bidar Business School 2026 Snapshot
+### 📊 [Amity Bidar Business School](/colleges/amity-bidar-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

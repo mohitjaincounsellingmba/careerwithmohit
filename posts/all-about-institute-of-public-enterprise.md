@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Institute of Public Enterprise 2026 Snapshot
+### 📊 [Institute of Public Enterprise](/colleges/institute-of-public-enterprise) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

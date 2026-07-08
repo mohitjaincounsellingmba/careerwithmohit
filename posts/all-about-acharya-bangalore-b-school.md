@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Acharya Bangalore B-School 2026 Snapshot
+### 📊 [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

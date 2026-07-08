@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 JIS University, JIS School of Business Management 2026 Snapshot
+### 📊 [JIS University, JIS School of Business Management](/colleges/jis-university-jis-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 XIME Bangalore 2026 Snapshot
+### 📊 [XIME Bangalore](/colleges/xime-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ABBS School of Management 2026 Snapshot
+### 📊 [ABBS School of Management](/colleges/abbs-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

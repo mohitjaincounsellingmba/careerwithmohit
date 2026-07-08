@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Junagadh Institute of Professional Studies 2026 Snapshot
+### 📊 [Galgotias Junagadh Institute of Professional Studies](/colleges/galgotias-junagadh-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

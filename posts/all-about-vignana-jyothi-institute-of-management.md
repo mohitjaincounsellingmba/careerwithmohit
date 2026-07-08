@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Vignana Jyothi Institute of Management 2026 Snapshot
+### 📊 [Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

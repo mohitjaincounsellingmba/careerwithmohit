@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 J.S. Kothari Business School 2026 Snapshot
+### 📊 [J.S. Kothari Business School](/colleges/js-kothari-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

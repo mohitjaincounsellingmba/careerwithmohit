@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Bilaspur Business School 2026 Snapshot
+### 📊 [Sharda Bilaspur Business School](/colleges/sharda-bilaspur-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

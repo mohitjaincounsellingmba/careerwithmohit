@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 GNIOT (MBA Institute) 2026 Snapshot
+### 📊 [GNIOT (MBA Institute)](/colleges/gniot-mba-institute-greater-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

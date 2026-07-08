@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Delhi Global Institute of Management 2026 Snapshot
+### 📊 [Delhi Global Institute of Management](/colleges/delhi-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

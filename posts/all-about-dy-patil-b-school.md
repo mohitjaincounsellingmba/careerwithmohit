@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 DY Patil B School 2026 Snapshot
+### 📊 [DY Patil B School](/colleges/dy-patil-b-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

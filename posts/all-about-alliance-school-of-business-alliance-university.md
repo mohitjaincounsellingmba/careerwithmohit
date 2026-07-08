@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Alliance School of Business , Alliance University 2026 Snapshot
+### 📊 [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

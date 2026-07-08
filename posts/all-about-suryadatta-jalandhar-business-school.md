@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Jalandhar Business School 2026 Snapshot
+### 📊 [Suryadatta Jalandhar Business School](/colleges/suryadatta-jalandhar-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

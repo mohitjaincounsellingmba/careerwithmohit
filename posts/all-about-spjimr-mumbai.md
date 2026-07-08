@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 SPJIMR Mumbai 2026 Snapshot
+### 📊 [SPJIMR Mumbai](/colleges/spjimr-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

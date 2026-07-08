@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IQ City United World School of Business (UWSB) 2026 Snapshot
+### 📊 [IQ City United World School of Business (UWSB)](/colleges/iq-city-uwsb-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

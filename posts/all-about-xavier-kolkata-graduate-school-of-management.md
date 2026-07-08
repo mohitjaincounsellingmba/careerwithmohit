@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Kolkata Graduate School of Management 2026 Snapshot
+### 📊 [Xavier Kolkata Graduate School of Management](/colleges/xavier-kolkata-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Hari Shankar Singhania School of Business, JK Lakshmipat University 2026 Snapshot
+### 📊 [Hari Shankar Singhania School of Business, JK Lakshmipat University](/colleges/hari-shankar-singhania-school-of-business-jk-lakshmipat-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

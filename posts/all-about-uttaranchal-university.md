@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Uttaranchal University 2026 Snapshot
+### 📊 [Uttaranchal University](/colleges/uttaranchal-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

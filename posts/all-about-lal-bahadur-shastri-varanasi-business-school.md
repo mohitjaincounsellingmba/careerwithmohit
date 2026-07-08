@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Varanasi Business School 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Varanasi Business School](/colleges/lal-bahadur-shastri-varanasi-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Dr Gaur Hari Singhania Institute of Management & Research 2026 Snapshot
+### 📊 [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

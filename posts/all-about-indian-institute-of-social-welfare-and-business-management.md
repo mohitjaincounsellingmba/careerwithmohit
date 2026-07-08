@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Indian Institute of Social Welfare and Business Management 2026 Snapshot
+### 📊 [Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

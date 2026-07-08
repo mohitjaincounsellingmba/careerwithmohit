@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Gudivada Institute of Management & Technology 2026 Snapshot
+### 📊 [Galgotias Gudivada Institute of Management & Technology](/colleges/galgotias-gudivada-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

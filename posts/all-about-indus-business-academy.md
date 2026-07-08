@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Indus Business Academy 2026 Snapshot
+### 📊 [Indus Business Academy](/colleges/indus-business-academy) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

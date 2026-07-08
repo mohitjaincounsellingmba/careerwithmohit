@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Prayagraj Institute of Professional Studies 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Prayagraj Institute of Professional Studies](/colleges/lal-bahadur-shastri-prayagraj-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

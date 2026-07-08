@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ITM University 2026 Snapshot
+### 📊 [ITM University](/colleges/itm-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

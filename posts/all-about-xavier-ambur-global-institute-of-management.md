@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Ambur Global Institute of Management 2026 Snapshot
+### 📊 [Xavier Ambur Global Institute of Management](/colleges/xavier-ambur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

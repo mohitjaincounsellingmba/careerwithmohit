@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Varanasi School of Business & Management 2026 Snapshot
+### 📊 [Amity Varanasi School of Business & Management](/colleges/amity-varanasi-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

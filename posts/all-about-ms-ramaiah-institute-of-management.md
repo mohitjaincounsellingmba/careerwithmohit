@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 MS Ramaiah Institute of Management 2026 Snapshot
+### 📊 [MS Ramaiah Institute of Management](/colleges/ms-ramaiah-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

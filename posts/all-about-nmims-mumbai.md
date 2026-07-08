@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 NMIMS Mumbai 2026 Snapshot
+### 📊 [NMIMS Mumbai](/colleges/nmims-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

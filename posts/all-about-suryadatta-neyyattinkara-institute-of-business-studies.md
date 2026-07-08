@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Neyyattinkara Institute of Business Studies 2026 Snapshot
+### 📊 [Suryadatta Neyyattinkara Institute of Business Studies](/colleges/suryadatta-neyyattinkara-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

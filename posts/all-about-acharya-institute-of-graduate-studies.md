@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Acharya Institute of Graduate Studies 2026 Snapshot
+### 📊 [Acharya Institute of Graduate Studies](/colleges/acharya-institute-of-graduate-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

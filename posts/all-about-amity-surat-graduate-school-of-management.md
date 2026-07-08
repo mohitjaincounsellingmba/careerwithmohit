@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Surat Graduate School of Management 2026 Snapshot
+### 📊 [Amity Surat Graduate School of Management](/colleges/amity-surat-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Jammu Institute of Management & Technology 2026 Snapshot
+### 📊 [International Jammu Institute of Management & Technology](/colleges/international-jammu-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

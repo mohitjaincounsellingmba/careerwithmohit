@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Muzaffarpur Institute of Business Studies 2026 Snapshot
+### 📊 [Galgotias Muzaffarpur Institute of Business Studies](/colleges/galgotias-muzaffarpur-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

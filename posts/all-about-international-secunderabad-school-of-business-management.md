@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Secunderabad School of Business & Management 2026 Snapshot
+### 📊 [International Secunderabad School of Business & Management](/colleges/international-secunderabad-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

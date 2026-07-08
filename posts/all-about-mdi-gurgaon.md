@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 MDI Gurgaon 2026 Snapshot
+### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Nandurbar Business School 2026 Snapshot
+### 📊 [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

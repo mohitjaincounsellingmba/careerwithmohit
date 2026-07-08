@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 AIMS Institutes Bangalore 2026 Snapshot
+### 📊 [AIMS Institutes Bangalore](/colleges/aims-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

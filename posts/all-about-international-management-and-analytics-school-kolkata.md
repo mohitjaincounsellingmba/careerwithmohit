@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Management and Analytics School Kolkata 2026 Snapshot
+### 📊 [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

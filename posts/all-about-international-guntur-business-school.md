@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Guntur Business School 2026 Snapshot
+### 📊 [International Guntur Business School](/colleges/international-guntur-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

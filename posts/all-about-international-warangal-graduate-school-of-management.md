@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Warangal Graduate School of Management 2026 Snapshot
+### 📊 [International Warangal Graduate School of Management](/colleges/international-warangal-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

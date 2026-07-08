@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Jamshedpur Graduate School of Management 2026 Snapshot
+### 📊 [Sharda Jamshedpur Graduate School of Management](/colleges/sharda-jamshedpur-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

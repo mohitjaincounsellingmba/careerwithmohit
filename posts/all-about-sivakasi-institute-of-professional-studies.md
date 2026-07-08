@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sivakasi Institute of Professional Studies 2026 Snapshot
+### 📊 [Sivakasi Institute of Professional Studies](/colleges/sivakasi-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

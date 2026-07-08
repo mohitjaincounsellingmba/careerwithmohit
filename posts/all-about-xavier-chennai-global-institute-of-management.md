@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Chennai Global Institute of Management 2026 Snapshot
+### 📊 [Xavier Chennai Global Institute of Management](/colleges/xavier-chennai-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

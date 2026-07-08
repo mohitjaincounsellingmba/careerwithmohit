@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sparsh Global Business School (SGBS) 2026 Snapshot
+### 📊 [Sparsh Global Business School (SGBS)](/colleges/sparsh-global-greater-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

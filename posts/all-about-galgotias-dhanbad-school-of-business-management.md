@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Dhanbad School of Business & Management 2026 Snapshot
+### 📊 [Galgotias Dhanbad School of Business & Management](/colleges/galgotias-dhanbad-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

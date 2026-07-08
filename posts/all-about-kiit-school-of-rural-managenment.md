@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 KIIT- School of Rural Managenment 2026 Snapshot
+### 📊 [KIIT- School of Rural Managenment](/colleges/kiit-school-of-rural-managenment) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

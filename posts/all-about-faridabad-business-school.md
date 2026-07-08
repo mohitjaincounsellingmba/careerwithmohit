@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Faridabad Business School 2026 Snapshot
+### 📊 [Faridabad Business School](/colleges/faridabad-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

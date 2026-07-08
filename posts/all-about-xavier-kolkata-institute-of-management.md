@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Kolkata Institute of Management 2026 Snapshot
+### 📊 [Xavier Kolkata Institute of Management](/colleges/xavier-kolkata-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

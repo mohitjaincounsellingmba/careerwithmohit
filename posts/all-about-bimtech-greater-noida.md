@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 BIMTECH, Greater Noida 2026 Snapshot
+### 📊 [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Karnal School of Business & Management 2026 Snapshot
+### 📊 [Xavier Karnal School of Business & Management](/colleges/xavier-karnal-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

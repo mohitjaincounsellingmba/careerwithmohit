@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Pudukkottai Institute of Business Studies 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Pudukkottai Institute of Business Studies](/colleges/lal-bahadur-shastri-pudukkottai-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

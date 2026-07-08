@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 NITTE School of Management 2026 Snapshot
+### 📊 [NITTE School of Management](/colleges/nitte-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

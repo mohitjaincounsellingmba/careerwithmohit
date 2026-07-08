@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 MCC Boyd Tandon School of Business 2026 Snapshot
+### 📊 [MCC Boyd Tandon School of Business](/colleges/mcc-boyd-tandon-school-of-business) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

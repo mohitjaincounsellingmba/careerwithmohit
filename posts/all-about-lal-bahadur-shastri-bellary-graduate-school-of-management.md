@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Bellary Graduate School of Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Bellary Graduate School of Management](/colleges/lal-bahadur-shastri-bellary-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

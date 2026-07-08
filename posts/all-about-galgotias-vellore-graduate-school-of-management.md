@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Vellore Graduate School of Management 2026 Snapshot
+### 📊 [Galgotias Vellore Graduate School of Management](/colleges/galgotias-vellore-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

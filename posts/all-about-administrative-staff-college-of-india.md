@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Administrative Staff College of India 2026 Snapshot
+### 📊 [Administrative Staff College of India](/colleges/administrative-staff-college-of-india) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

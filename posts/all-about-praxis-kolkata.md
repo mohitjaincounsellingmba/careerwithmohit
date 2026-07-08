@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Praxis Business School 2026 Snapshot
+### 📊 [Praxis Business School](/colleges/praxis-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -55,8 +55,8 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Institute of Management Studies (IIIM) a good option for PGDM/MBA?
-Yes, Institute of Management Studies (IIIM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Institute of Management Studies (IIIM)](/colleges/ims-jaipur) a good option for PGDM/MBA?
+Yes, [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Institute of Management Studies (IIIM)?
 The average placement package at Institute of Management Studies (IIIM) is approximately ₹4.0 LPA, with the highest package reaching up to ₹8.0 LPA.

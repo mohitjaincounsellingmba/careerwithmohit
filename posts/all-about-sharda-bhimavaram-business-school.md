@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Bhimavaram Business School 2026 Snapshot
+### 📊 [Sharda Bhimavaram Business School](/colleges/sharda-bhimavaram-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

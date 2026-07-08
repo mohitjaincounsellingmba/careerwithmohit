@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IILM University Greater Noida 2026 Snapshot
+### 📊 [IILM University Greater Noida](/colleges/iilm-university-greater-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

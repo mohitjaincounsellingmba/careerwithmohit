@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Erode Institute of Professional Studies 2026 Snapshot
+### 📊 [Galgotias Erode Institute of Professional Studies](/colleges/galgotias-erode-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

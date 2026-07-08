@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Ernakulam Business School 2026 Snapshot
+### 📊 [Amity Ernakulam Business School](/colleges/amity-ernakulam-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Navsari Graduate School of Management 2026 Snapshot
+### 📊 [Galgotias Navsari Graduate School of Management](/colleges/galgotias-navsari-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

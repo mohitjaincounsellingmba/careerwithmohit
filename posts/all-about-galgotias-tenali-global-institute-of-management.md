@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Tenali Global Institute of Management 2026 Snapshot
+### 📊 [Galgotias Tenali Global Institute of Management](/colleges/galgotias-tenali-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

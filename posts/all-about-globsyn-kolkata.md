@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Globsyn Business School 2026 Snapshot
+### 📊 [Globsyn Business School](/colleges/globsyn-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

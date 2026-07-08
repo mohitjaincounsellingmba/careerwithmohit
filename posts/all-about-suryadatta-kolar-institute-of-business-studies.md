@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Kolar Institute of Business Studies 2026 Snapshot
+### 📊 [Suryadatta Kolar Institute of Business Studies](/colleges/suryadatta-kolar-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

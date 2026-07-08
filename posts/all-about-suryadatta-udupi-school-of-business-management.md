@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Udupi School of Business & Management 2026 Snapshot
+### 📊 [Suryadatta Udupi School of Business & Management](/colleges/suryadatta-udupi-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

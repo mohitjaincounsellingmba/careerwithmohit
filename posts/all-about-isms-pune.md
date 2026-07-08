@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ISMS Pune 2026 Snapshot
+### 📊 [ISMS Pune](/colleges/isms-pune) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

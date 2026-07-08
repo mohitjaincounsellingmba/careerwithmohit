@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 JAGSoM (IFIM) Bangalore 2026 Snapshot
+### 📊 [JAGSoM (IFIM) Bangalore](/colleges/jagsom-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

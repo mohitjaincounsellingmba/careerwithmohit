@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Mehsana Institute of Management & Technology 2026 Snapshot
+### 📊 [Galgotias Mehsana Institute of Management & Technology](/colleges/galgotias-mehsana-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

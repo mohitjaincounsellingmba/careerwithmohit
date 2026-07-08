@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Hyderabad Business School 2026 Snapshot
+### 📊 [Xavier Hyderabad Business School](/colleges/xavier-hyderabad-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

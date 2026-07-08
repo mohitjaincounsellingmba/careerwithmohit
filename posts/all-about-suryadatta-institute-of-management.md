@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Institute of Management 2026 Snapshot
+### 📊 [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

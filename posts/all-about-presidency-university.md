@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Presidency University 2026 Snapshot
+### 📊 [Presidency University](/colleges/presidency-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

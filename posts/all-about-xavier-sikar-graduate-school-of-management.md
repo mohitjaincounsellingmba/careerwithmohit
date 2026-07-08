@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Sikar Graduate School of Management 2026 Snapshot
+### 📊 [Xavier Sikar Graduate School of Management](/colleges/xavier-sikar-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

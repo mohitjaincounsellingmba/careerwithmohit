@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Development Management Institute 2026 Snapshot
+### 📊 [Development Management Institute](/colleges/development-management-institute) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -63,9 +63,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **GL Bajaj Institute of Management** | Merit / CUET-UG | ₹1.3 Lakhs (Annual) | **₹4.0 LPA** |
-| **GNIOT Institute of Management Studies** | Merit / CUET-UG | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
-| **Accurate Institute of Management & Technology** | Merit / CUET-UG | ₹1.0 Lakhs (Annual) | **₹3.5 LPA** |
-| **Lloyd Business School** | Merit / CUET-UG | ₹1.2 Lakhs (Annual) | **₹3.8 LPA** |
+| **GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)** | Merit / CUET-UG | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
+| **[Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology** | Merit / CUET-UG | ₹1.0 Lakhs (Annual) | **₹3.5 LPA** |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Merit / CUET-UG | ₹1.2 Lakhs (Annual) | **₹3.8 LPA** |
 
 ---
 

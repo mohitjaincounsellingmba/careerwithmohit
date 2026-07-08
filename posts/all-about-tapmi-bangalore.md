@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 TAPMI Bengaluru 2026 Snapshot
+### 📊 [TAPMI Bengaluru](/colleges/tapmi-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

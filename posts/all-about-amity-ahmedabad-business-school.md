@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Ahmedabad Business School 2026 Snapshot
+### 📊 [Amity Ahmedabad Business School](/colleges/amity-ahmedabad-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

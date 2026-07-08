@@ -55,8 +55,8 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is RL Institute of Management Studies a good option for PGDM/MBA?
-Yes, RL Institute of Management Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [RL Institute of Management Studies](/colleges/rl-institute-of-management-studies) a good option for PGDM/MBA?
+Yes, RL [Institute of Management Studies](/colleges/institute-of-management-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at RL Institute of Management Studies?
 The average placement package at RL Institute of Management Studies is approximately ₹5.1 LPA, with the highest package reaching up to ₹11.1 LPA.

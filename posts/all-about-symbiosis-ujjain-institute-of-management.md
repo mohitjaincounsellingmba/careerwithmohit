@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Ujjain Institute of Management 2026 Snapshot
+### 📊 [Symbiosis Ujjain Institute of Management](/colleges/symbiosis-ujjain-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

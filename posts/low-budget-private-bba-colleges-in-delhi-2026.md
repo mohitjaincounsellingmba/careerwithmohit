@@ -74,11 +74,11 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Maharaja Agrasen Institute of Management Studies (MAIMS)** | IPU CET / CUET-UG | ₹1.1 Lakhs (Annual) | **₹4.5 LPA** |
+| **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** | IPU CET / CUET-UG | ₹1.1 Lakhs (Annual) | **₹4.5 LPA** |
 | **Vivekananda Institute of Professional Studies (VIPS)** | IPU CET / CUET-UG | ₹1.2 Lakhs (Annual) | **₹4.6 LPA** |
-| **Maharaja Surajmal Institute (MSI)** | IPU CET / CUET-UG | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
-| **Jagan Institute of Management Studies (JIMS Rohini)** | IPU CET / CUET-UG | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
-| **Trinity Institute of Professional Studies (TIPS Dwarka)** | IPU CET / CUET-UG | ₹1.0 Lakhs (Annual) | **₹3.8 LPA** |
+| **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET / CUET-UG | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
+| **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)** | IPU CET / CUET-UG | ₹1.2 Lakhs (Annual) | **₹4.2 LPA** |
+| **[Trinity Institute of Professional Studies](/colleges/trinity-institute-of-professional-studies-delhi) (TIPS Dwarka)** | IPU CET / CUET-UG | ₹1.0 Lakhs (Annual) | **₹3.8 LPA** |
 | **Rukmini Devi Institute of Advanced Studies (RDIAS)** | IPU CET / CUET-UG | ₹95,000 (Annual) | **₹3.6 LPA** |
 
 ---

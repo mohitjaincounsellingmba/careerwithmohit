@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Bijapur Global Institute of Management 2026 Snapshot
+### 📊 [Amity Bijapur Global Institute of Management](/colleges/amity-bijapur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

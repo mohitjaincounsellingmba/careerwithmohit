@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Ongole Institute of Professional Studies 2026 Snapshot
+### 📊 [Symbiosis Ongole Institute of Professional Studies](/colleges/symbiosis-ongole-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

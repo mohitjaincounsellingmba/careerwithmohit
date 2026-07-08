@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sonipat Business School 2026 Snapshot
+### 📊 [Sonipat Business School](/colleges/sonipat-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Bengal Institute of Business Studies (BIBS) 2026 Snapshot
+### 📊 [Bengal Institute of Business Studies (BIBS)](/colleges/bibs-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

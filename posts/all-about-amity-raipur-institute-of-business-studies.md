@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Raipur Institute of Business Studies 2026 Snapshot
+### 📊 [Amity Raipur Institute of Business Studies](/colleges/amity-raipur-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

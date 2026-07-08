@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Changanassery Institute of Management 2026 Snapshot
+### 📊 [Suryadatta Changanassery Institute of Management](/colleges/suryadatta-changanassery-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

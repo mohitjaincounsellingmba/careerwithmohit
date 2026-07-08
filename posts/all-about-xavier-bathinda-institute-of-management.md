@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Bathinda Institute of Management 2026 Snapshot
+### 📊 [Xavier Bathinda Institute of Management](/colleges/xavier-bathinda-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

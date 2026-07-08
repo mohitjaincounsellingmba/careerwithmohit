@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Thanjavur Global Institute of Management 2026 Snapshot
+### 📊 [Thanjavur Global Institute of Management](/colleges/thanjavur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

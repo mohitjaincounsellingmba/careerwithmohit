@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Techno India Group 2026 Snapshot
+### 📊 [Techno India Group](/colleges/techno-india-group) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

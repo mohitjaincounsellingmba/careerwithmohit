@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Udaipur Institute of Business Studies 2026 Snapshot
+### 📊 [Suryadatta Udaipur Institute of Business Studies](/colleges/suryadatta-udaipur-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

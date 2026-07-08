@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 AIMS IBS Business School Bengaluru 2026 Snapshot
+### 📊 [AIMS IBS Business School Bengaluru](/colleges/aims-ibs-business-school-bengaluru) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ICBM School of Business Excellence 2026 Snapshot
+### 📊 [ICBM School of Business Excellence](/colleges/icbm-school-of-business-excellence) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

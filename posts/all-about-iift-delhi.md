@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IIFT Delhi 2026 Snapshot
+### 📊 [IIFT Delhi](/colleges/iift-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

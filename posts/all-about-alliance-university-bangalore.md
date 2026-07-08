@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Alliance University Bangalore 2026 Snapshot
+### 📊 [Alliance University Bangalore](/colleges/alliance-university-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

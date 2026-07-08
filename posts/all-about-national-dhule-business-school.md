@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Dhule Business School 2026 Snapshot
+### 📊 [National Dhule Business School](/colleges/national-dhule-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

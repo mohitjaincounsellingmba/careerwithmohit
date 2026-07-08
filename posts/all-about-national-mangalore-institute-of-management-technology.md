@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Mangalore Institute of Management & Technology 2026 Snapshot
+### 📊 [National Mangalore Institute of Management & Technology](/colleges/national-mangalore-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

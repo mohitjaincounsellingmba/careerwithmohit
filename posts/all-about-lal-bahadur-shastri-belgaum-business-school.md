@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Belgaum Business School 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Belgaum Business School](/colleges/lal-bahadur-shastri-belgaum-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

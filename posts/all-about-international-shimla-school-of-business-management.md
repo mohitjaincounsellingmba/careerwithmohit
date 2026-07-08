@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Shimla School of Business & Management 2026 Snapshot
+### 📊 [International Shimla School of Business & Management](/colleges/international-shimla-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

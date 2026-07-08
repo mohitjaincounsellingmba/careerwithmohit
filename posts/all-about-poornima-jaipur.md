@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Poornima University 2026 Snapshot
+### 📊 [Poornima University](/colleges/poornima-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

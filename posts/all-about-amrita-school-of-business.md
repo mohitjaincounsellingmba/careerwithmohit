@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amrita School of Business 2026 Snapshot
+### 📊 [Amrita School of Business](/colleges/amrita-school-of-business) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

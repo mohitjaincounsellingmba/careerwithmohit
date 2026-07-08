@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Great Lakes Gurgaon 2026 Snapshot
+### 📊 [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

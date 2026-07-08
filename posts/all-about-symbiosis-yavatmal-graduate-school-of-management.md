@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Yavatmal Graduate School of Management 2026 Snapshot
+### 📊 [Symbiosis Yavatmal Graduate School of Management](/colleges/symbiosis-yavatmal-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

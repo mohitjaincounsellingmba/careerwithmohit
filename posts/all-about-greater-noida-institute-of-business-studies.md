@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Greater Noida Institute of Business Studies 2026 Snapshot
+### 📊 [Greater Noida Institute of Business Studies](/colleges/greater-noida-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

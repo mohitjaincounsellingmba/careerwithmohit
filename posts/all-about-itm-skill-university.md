@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ITM Skill University 2026 Snapshot
+### 📊 [ITM Skill University](/colleges/itm-skill-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

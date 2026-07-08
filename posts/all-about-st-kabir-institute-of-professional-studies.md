@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 St Kabir Institute of Professional Studies 2026 Snapshot
+### 📊 [St Kabir Institute of Professional Studies](/colleges/st-kabir-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

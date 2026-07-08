@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 St. Andrews Institute of Technology and Management, Gurgaon 2026 Snapshot
+### 📊 [St. Andrews Institute of Technology and Management, Gurgaon](/colleges/st-andrews-gurgaon) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

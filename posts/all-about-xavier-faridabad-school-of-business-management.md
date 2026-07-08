@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Faridabad School of Business & Management 2026 Snapshot
+### 📊 [Xavier Faridabad School of Business & Management](/colleges/xavier-faridabad-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

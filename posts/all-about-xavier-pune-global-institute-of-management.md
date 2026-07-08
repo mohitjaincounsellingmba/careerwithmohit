@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Pune Global Institute of Management 2026 Snapshot
+### 📊 [Xavier Pune Global Institute of Management](/colleges/xavier-pune-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 ASM Apeejay School of Management 2026 Snapshot
+### 📊 [ASM Apeejay School of Management](/colleges/asm-apeejay-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

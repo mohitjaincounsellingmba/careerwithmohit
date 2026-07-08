@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 LBSIM Delhi (Lal Bahadur Shastri Institute of Management) 2026 Snapshot
+### 📊 [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

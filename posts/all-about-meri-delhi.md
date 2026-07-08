@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 MERI Janakpuri (Management Education and Research Institute) 2026 Snapshot
+### 📊 [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

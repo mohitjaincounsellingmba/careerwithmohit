@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Pune School of Business & Management 2026 Snapshot
+### 📊 [Xavier Pune School of Business & Management](/colleges/xavier-pune-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

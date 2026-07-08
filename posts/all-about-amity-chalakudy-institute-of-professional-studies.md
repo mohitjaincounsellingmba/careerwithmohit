@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Chalakudy Institute of Professional Studies 2026 Snapshot
+### 📊 [Amity Chalakudy Institute of Professional Studies](/colleges/amity-chalakudy-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

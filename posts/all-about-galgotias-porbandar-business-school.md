@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Porbandar Business School 2026 Snapshot
+### 📊 [Galgotias Porbandar Business School](/colleges/galgotias-porbandar-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

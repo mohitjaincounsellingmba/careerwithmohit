@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Malappuram School of Business & Management 2026 Snapshot
+### 📊 [Amity Malappuram School of Business & Management](/colleges/amity-malappuram-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

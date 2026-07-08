@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Vizianagaram Institute of Management 2026 Snapshot
+### 📊 [Symbiosis Vizianagaram Institute of Management](/colleges/symbiosis-vizianagaram-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

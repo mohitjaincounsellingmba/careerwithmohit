@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Heritage Business School 2026 Snapshot
+### 📊 [Heritage Business School](/colleges/heritage-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Patna Graduate School of Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Patna Graduate School of Management](/colleges/lal-bahadur-shastri-patna-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

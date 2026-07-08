@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 NERIM Group of Institutions 2026 Snapshot
+### 📊 [NERIM Group of Institutions](/colleges/nerim-group-of-institutions) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Taxila Business School 2026 Snapshot
+### 📊 [Taxila Business School](/colleges/taxila-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

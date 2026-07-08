@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Hospet Institute of Professional Studies 2026 Snapshot
+### 📊 [Amity Hospet Institute of Professional Studies](/colleges/amity-hospet-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

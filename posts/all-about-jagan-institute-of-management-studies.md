@@ -55,8 +55,8 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Jagan Institute of Management Studies a good option for PGDM/MBA?
-Yes, Jagan Institute of Management Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) a good option for PGDM/MBA?
+Yes, Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Jagan Institute of Management Studies?
 The average placement package at Jagan Institute of Management Studies is approximately ₹9.72 LPA, with the highest package reaching up to ₹24 LPA.

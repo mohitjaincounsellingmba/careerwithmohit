@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Gondia School of Business & Management 2026 Snapshot
+### 📊 [Sharda Gondia School of Business & Management](/colleges/sharda-gondia-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

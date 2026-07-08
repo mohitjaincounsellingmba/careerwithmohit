@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Mangalmay Institute of Management (MIMT) 2026 Snapshot
+### 📊 [Mangalmay Institute of Management (MIMT)](/colleges/mangalmay-greater-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

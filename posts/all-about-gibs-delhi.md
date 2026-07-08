@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Gitarattan International Business School (GIBS) 2026 Snapshot
+### 📊 [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

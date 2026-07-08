@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Jain University 2026 Snapshot
+### 📊 [Jain University](/colleges/jain-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Miryalaguda Institute of Management & Technology 2026 Snapshot
+### 📊 [National Miryalaguda Institute of Management & Technology](/colleges/national-miryalaguda-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

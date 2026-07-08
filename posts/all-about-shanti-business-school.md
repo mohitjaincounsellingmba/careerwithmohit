@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Shanti Business School 2026 Snapshot
+### 📊 [Shanti Business School](/colleges/shanti-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

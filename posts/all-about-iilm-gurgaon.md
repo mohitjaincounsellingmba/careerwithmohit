@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IILM University, Gurgaon 2026 Snapshot
+### 📊 [IILM University, Gurgaon](/colleges/iilm-gurgaon) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

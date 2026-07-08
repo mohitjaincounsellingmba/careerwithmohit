@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Kannur Institute of Management & Technology 2026 Snapshot
+### 📊 [Amity Kannur Institute of Management & Technology](/colleges/amity-kannur-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

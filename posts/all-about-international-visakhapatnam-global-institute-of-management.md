@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Visakhapatnam Global Institute of Management 2026 Snapshot
+### 📊 [International Visakhapatnam Global Institute of Management](/colleges/international-visakhapatnam-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

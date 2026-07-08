@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 JECRC University 2026 Snapshot
+### 📊 [JECRC University](/colleges/jecrc-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

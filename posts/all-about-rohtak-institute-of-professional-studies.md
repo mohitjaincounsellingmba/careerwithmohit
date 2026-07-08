@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Rohtak Institute of Professional Studies 2026 Snapshot
+### 📊 [Rohtak Institute of Professional Studies](/colleges/rohtak-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

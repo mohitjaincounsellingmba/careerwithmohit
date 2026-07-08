@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Ajmer Business School 2026 Snapshot
+### 📊 [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

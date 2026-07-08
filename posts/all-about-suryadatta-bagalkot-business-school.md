@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Bagalkot Business School 2026 Snapshot
+### 📊 [Suryadatta Bagalkot Business School](/colleges/suryadatta-bagalkot-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

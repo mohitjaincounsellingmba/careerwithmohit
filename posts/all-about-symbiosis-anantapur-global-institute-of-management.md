@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Anantapur Global Institute of Management 2026 Snapshot
+### 📊 [Symbiosis Anantapur Global Institute of Management](/colleges/symbiosis-anantapur-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IMI Delhi 2026 Snapshot
+### 📊 [IMI Delhi](/colleges/imi-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

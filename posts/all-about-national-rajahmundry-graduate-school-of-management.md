@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Rajahmundry Graduate School of Management 2026 Snapshot
+### 📊 [National Rajahmundry Graduate School of Management](/colleges/national-rajahmundry-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

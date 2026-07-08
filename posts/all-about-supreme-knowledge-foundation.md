@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Supreme Knowledge Foundation 2026 Snapshot
+### 📊 [Supreme Knowledge Foundation](/colleges/supreme-knowledge-foundation) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

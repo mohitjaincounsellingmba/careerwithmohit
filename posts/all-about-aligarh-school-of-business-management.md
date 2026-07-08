@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Aligarh School of Business & Management 2026 Snapshot
+### 📊 [Aligarh School of Business & Management](/colleges/aligarh-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

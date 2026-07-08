@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 NICMAR University 2026 Snapshot
+### 📊 [NICMAR University](/colleges/nicmar-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

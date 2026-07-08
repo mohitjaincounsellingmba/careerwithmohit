@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Ranchi School of Business & Management 2026 Snapshot
+### 📊 [Amity Ranchi School of Business & Management](/colleges/amity-ranchi-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

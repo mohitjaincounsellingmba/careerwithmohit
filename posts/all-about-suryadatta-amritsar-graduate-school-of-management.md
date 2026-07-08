@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Amritsar Graduate School of Management 2026 Snapshot
+### 📊 [Suryadatta Amritsar Graduate School of Management](/colleges/suryadatta-amritsar-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

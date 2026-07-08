@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Ichalkaranji Institute of Management & Technology 2026 Snapshot
+### 📊 [Symbiosis Ichalkaranji Institute of Management & Technology](/colleges/symbiosis-ichalkaranji-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

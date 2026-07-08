@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Atlas SkillTech University 2026 Snapshot
+### 📊 [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

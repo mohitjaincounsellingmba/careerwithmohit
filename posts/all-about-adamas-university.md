@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Adamas University 2026 Snapshot
+### 📊 [Adamas University](/colleges/adamas-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 BMSCE Bangalore 2026 Snapshot
+### 📊 [BMSCE Bangalore](/colleges/bmsce-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

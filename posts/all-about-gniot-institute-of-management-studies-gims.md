@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 GNIOT Institute of Management Studies (GIMS) 2026 Snapshot
+### 📊 [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

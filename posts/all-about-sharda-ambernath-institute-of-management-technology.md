@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Ambernath Institute of Management & Technology 2026 Snapshot
+### 📊 [Sharda Ambernath Institute of Management & Technology](/colleges/sharda-ambernath-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

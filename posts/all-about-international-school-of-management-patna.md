@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International School of Management Patna 2026 Snapshot
+### 📊 [International School of Management Patna](/colleges/international-school-of-management-patna) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

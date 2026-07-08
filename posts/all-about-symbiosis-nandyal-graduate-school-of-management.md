@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Nandyal Graduate School of Management 2026 Snapshot
+### 📊 [Symbiosis Nandyal Graduate School of Management](/colleges/symbiosis-nandyal-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Chikmagalur Institute of Management 2026 Snapshot
+### 📊 [Suryadatta Chikmagalur Institute of Management](/colleges/suryadatta-chikmagalur-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

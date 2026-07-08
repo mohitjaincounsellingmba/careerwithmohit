@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Institute of Marketing & Management (IMM) 2026 Snapshot
+### 📊 [Institute of Marketing & Management (IMM)](/colleges/imm-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

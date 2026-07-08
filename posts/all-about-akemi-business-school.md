@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 AKEMI Business School 2026 Snapshot
+### 📊 [AKEMI Business School](/colleges/akemi-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

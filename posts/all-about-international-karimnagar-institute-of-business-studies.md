@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Karimnagar Institute of Business Studies 2026 Snapshot
+### 📊 [International Karimnagar Institute of Business Studies](/colleges/international-karimnagar-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

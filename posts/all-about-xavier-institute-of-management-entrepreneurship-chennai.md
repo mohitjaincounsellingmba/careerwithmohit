@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Institute of Management & Entrepreneurship, Chennai 2026 Snapshot
+### 📊 [Xavier Institute of Management & Entrepreneurship, Chennai](/colleges/xavier-institute-of-management-entrepreneurship-chennai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

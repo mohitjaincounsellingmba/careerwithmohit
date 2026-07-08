@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Galgotias Nadiad Global Institute of Management 2026 Snapshot
+### 📊 [Galgotias Nadiad Global Institute of Management](/colleges/galgotias-nadiad-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

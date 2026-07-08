@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Hosur Institute of Management & Technology 2026 Snapshot
+### 📊 [Xavier Hosur Institute of Management & Technology](/colleges/xavier-hosur-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

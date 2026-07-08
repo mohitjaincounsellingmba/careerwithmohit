@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Jalgaon Institute of Business Studies 2026 Snapshot
+### 📊 [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

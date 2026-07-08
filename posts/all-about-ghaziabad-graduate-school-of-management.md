@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Ghaziabad Graduate School of Management 2026 Snapshot
+### 📊 [Ghaziabad Graduate School of Management](/colleges/ghaziabad-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

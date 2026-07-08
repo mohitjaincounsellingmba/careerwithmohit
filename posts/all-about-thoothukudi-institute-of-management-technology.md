@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Thoothukudi Institute of Management & Technology 2026 Snapshot
+### 📊 [Thoothukudi Institute of Management & Technology](/colleges/thoothukudi-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

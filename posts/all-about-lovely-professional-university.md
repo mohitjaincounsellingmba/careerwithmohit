@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lovely Professional University 2026 Snapshot
+### 📊 [Lovely Professional University](/colleges/lovely-professional-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Gurgaon Institute of Professional Studies 2026 Snapshot
+### 📊 [Gurgaon Institute of Professional Studies](/colleges/gurgaon-institute-of-professional-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

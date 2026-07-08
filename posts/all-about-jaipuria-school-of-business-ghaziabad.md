@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Jaipuria School of Business 2026 Snapshot
+### 📊 [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Mumbai Institute of Management & Technology 2026 Snapshot
+### 📊 [Xavier Mumbai Institute of Management & Technology](/colleges/xavier-mumbai-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

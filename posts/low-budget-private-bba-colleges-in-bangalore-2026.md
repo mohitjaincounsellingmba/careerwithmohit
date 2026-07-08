@@ -65,7 +65,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | **St. Joseph's College of Commerce (SJCC)** | SJCC Entrance | ₹1.2 Lakhs (Annual) | **₹5.2 LPA** |
 | **Kristu Jayanti College** | Merit-Based | ₹1.1 Lakhs (Annual) | **₹4.8 LPA** |
 | **Mount Carmel College (MCC)** | Merit-Based | ₹1.5 Lakhs (Annual) | **₹5.5 LPA** |
-| **Acharya Institute of Graduate Studies** | Merit-Based | ₹1.0 Lakhs (Annual) | **₹4.0 LPA** |
+| **[Acharya Institute of Graduate Studies](/colleges/acharya-institute-of-graduate-studies)** | Merit-Based | ₹1.0 Lakhs (Annual) | **₹4.0 LPA** |
 
 ---
 

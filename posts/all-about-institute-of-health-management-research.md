@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Institute of Health Management Research 2026 Snapshot
+### 📊 [Institute of Health Management Research](/colleges/institute-of-health-management-research) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

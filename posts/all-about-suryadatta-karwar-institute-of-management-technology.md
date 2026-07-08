@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Suryadatta Karwar Institute of Management & Technology 2026 Snapshot
+### 📊 [Suryadatta Karwar Institute of Management & Technology](/colleges/suryadatta-karwar-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

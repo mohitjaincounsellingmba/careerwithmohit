@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Nashik Institute of Management 2026 Snapshot
+### 📊 [Amity Nashik Institute of Management](/colleges/amity-nashik-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

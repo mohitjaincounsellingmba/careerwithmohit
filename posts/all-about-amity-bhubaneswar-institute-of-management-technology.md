@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Bhubaneswar Institute of Management & Technology 2026 Snapshot
+### 📊 [Amity Bhubaneswar Institute of Management & Technology](/colleges/amity-bhubaneswar-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Kadapa Institute of Business Studies 2026 Snapshot
+### 📊 [Symbiosis Kadapa Institute of Business Studies](/colleges/symbiosis-kadapa-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 FUEL Business School 2026 Snapshot
+### 📊 [FUEL Business School](/colleges/fuel-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

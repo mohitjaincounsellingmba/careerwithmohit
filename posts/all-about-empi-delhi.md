@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 EMPI Business School 2026 Snapshot
+### 📊 [EMPI Business School](/colleges/empi-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

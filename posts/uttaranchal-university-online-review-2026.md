@@ -83,7 +83,7 @@ Yes. All online programs from [Uttaranchal University](/colleges/uttaranchal-uni
 - **Personalized Help:** Not sure about which specialization to pick? [Consult with Mohit Jain today!](/inquiry)
 
 ---
-[👉 Looking for scholarly info or current enrollment deadlines for Uttaranchal University? Talk to our expert counselors today!](/inquiry)
+[👉 Looking for scholarly info or current enrollment deadlines for [Uttaranchal University](/colleges/uttaranchal-university)? Talk to our expert counselors today!](/inquiry)
 
 ---
 

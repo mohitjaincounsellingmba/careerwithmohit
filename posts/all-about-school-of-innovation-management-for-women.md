@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 School of Innovation & Management (for Women) 2026 Snapshot
+### 📊 [School of Innovation & Management (for Women)](/colleges/school-of-innovation-management-for-women) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 I.T.S - School of Management 2026 Snapshot
+### 📊 [I.T.S - School of Management](/colleges/i-t-s-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

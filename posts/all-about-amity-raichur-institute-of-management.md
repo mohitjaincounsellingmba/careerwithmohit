@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Raichur Institute of Management 2026 Snapshot
+### 📊 [Amity Raichur Institute of Management](/colleges/amity-raichur-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

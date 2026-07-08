@@ -56,7 +56,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Ludhiana Institute of Management Studies (CIMS)** | CUET-UG / Merit-Based | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
+| **Ludhiana [Institute of Management Studies](/colleges/institute-of-management-studies) (CIMS)** | CUET-UG / Merit-Based | ₹1.1 Lakhs (Annual) | **₹3.8 LPA** |
 | **Apex College of Management, Ludhiana** | Merit-Based / State Exam | ₹90,000 (Annual) | **₹3.5 LPA** |
 | **Suryadatta Group of Institutions, Ludhiana Campus** | CUET-UG / Merit | ₹1.2 Lakhs (Annual) | **₹4.0 LPA** |
 

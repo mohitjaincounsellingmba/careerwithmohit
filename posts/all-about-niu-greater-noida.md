@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Noida International University (NIU) 2026 Snapshot
+### 📊 [Noida International University (NIU)](/colleges/niu-greater-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

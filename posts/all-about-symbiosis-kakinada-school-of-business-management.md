@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Kakinada School of Business & Management 2026 Snapshot
+### 📊 [Symbiosis Kakinada School of Business & Management](/colleges/symbiosis-kakinada-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Institute of Business Studies 2026 Snapshot
+### 📊 [International Institute of Business Studies](/colleges/international-institute-of-business-studies) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

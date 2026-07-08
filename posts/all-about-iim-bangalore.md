@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IIM Bangalore 2026 Snapshot
+### 📊 [IIM Bangalore](/colleges/iim-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

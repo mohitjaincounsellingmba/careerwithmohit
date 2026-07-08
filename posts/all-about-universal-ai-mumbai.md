@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Universal AI University (UBS) 2026 Snapshot
+### 📊 [Universal AI University (UBS)](/colleges/universal-ai-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

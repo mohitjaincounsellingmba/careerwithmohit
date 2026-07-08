@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 MSRIM (Ramaiah) Bangalore 2026 Snapshot
+### 📊 [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

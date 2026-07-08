@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Vasai-Virar Institute of Management & Technology 2026 Snapshot
+### 📊 [International Vasai-Virar Institute of Management & Technology](/colleges/international-vasai-virar-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

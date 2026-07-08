@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 JBIMS Mumbai 2026 Snapshot
+### 📊 [JBIMS Mumbai](/colleges/jbims-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

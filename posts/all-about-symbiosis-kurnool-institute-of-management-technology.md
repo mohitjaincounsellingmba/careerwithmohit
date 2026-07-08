@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Kurnool Institute of Management & Technology 2026 Snapshot
+### 📊 [Symbiosis Kurnool Institute of Management & Technology](/colleges/symbiosis-kurnool-institute-of-management-technology) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

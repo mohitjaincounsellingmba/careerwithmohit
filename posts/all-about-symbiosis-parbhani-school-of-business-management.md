@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Symbiosis Parbhani School of Business & Management 2026 Snapshot
+### 📊 [Symbiosis Parbhani School of Business & Management](/colleges/symbiosis-parbhani-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

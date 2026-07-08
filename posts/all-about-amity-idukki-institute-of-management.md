@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Idukki Institute of Management 2026 Snapshot
+### 📊 [Amity Idukki Institute of Management](/colleges/amity-idukki-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Karur Graduate School of Management 2026 Snapshot
+### 📊 [Karur Graduate School of Management](/colleges/karur-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

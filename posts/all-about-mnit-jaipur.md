@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 MNIT Jaipur 2026 Snapshot
+### 📊 [MNIT Jaipur](/colleges/mnit-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

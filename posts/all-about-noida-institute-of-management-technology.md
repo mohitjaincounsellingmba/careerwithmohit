@@ -55,8 +55,8 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Noida Institute of Management & Technology a good option for PGDM/MBA?
-Yes, Noida Institute of Management & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Noida Institute of Management & Technology](/colleges/noida-institute-of-management-technology) a good option for PGDM/MBA?
+Yes, [Noida Institute of Management](/colleges/noida-institute-of-management) & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Noida Institute of Management & Technology?
 The average placement package at Noida Institute of Management & Technology is approximately ₹5.7 LPA, with the highest package reaching up to ₹12.5 LPA.

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Lal Bahadur Shastri Chandigarh School of Business & Management 2026 Snapshot
+### 📊 [Lal Bahadur Shastri Chandigarh School of Business & Management](/colleges/lal-bahadur-shastri-chandigarh-school-of-business-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

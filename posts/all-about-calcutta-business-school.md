@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Calcutta Business School 2026 Snapshot
+### 📊 [Calcutta Business School](/colleges/calcutta-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 PES University 2026 Snapshot
+### 📊 [PES University](/colleges/pes-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

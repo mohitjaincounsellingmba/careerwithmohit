@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Sharda Sambalpur Institute of Management 2026 Snapshot
+### 📊 [Sharda Sambalpur Institute of Management](/colleges/sharda-sambalpur-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Patiala Global Institute of Management 2026 Snapshot
+### 📊 [Xavier Patiala Global Institute of Management](/colleges/xavier-patiala-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

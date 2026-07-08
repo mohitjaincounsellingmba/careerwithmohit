@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 IMI Kolkata 2026 Snapshot
+### 📊 [IMI Kolkata](/colleges/imi-kolkata) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Azim Premji University 2026 Snapshot
+### 📊 [Azim Premji University](/colleges/azim-premji-university) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

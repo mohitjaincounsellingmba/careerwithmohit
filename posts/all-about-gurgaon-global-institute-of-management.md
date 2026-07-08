@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Gurgaon Global Institute of Management 2026 Snapshot
+### 📊 [Gurgaon Global Institute of Management](/colleges/gurgaon-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

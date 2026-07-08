@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Jagdish Sheth School of Management 2026 Snapshot
+### 📊 [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

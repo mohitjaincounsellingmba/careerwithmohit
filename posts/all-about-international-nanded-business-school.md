@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 International Nanded Business School 2026 Snapshot
+### 📊 [International Nanded Business School](/colleges/international-nanded-business-school) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

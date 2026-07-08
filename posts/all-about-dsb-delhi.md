@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Delhi School of Business (DSB), VIPS 2026 Snapshot
+### 📊 [Delhi School of Business (DSB), VIPS](/colleges/dsb-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

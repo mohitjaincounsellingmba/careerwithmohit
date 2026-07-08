@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 PUMBA Pune 2026 Snapshot
+### 📊 [PUMBA Pune](/colleges/pumba-pune) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

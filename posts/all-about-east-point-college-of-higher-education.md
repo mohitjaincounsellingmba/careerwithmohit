@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 East Point College of Higher Education 2026 Snapshot
+### 📊 [East Point College of Higher Education](/colleges/east-point-college-of-higher-education) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

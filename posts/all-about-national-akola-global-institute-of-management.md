@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 National Akola Global Institute of Management 2026 Snapshot
+### 📊 [National Akola Global Institute of Management](/colleges/national-akola-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Xavier Bangalore Institute of Management 2026 Snapshot
+### 📊 [Xavier Bangalore Institute of Management](/colleges/xavier-bangalore-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

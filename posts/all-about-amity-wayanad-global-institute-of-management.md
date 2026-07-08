@@ -27,7 +27,7 @@ faqs:
 
 ---
 
-### 📊 Amity Wayanad Global Institute of Management 2026 Snapshot
+### 📊 [Amity Wayanad Global Institute of Management](/colleges/amity-wayanad-global-institute-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
