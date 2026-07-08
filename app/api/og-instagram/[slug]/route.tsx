@@ -1,14 +1,7 @@
 import { ImageResponse } from 'next/og';
-import { getPostData, getSortedPostsData } from '@/lib/markdown';
+import { getPostData } from '@/lib/markdown';
 
-export const dynamicParams = false;
-
-export async function generateStaticParams() {
-  const posts = getSortedPostsData();
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
-}
+export const dynamic = 'force-dynamic';
 
 export async function GET(
   request: Request,
