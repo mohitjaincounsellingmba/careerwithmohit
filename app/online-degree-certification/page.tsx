@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import Link from 'next/link';
 import { BadgeCheck, Phone, ChevronDown } from 'lucide-react';
 import OnlineDegreeClient from '@/components/OnlineDegreeClient';
 import OnlineDegreeLeadForm from '@/components/OnlineDegreeLeadForm';
@@ -246,6 +247,26 @@ export default function OnlineDegreePage() {
               Compare India&apos;s top online universities on fees, accreditation, and programs.
               Search, filter, and make the smartest choice for your career in 2026.
             </p>
+
+            {/* Quick Links */}
+            <div className="mt-8 flex flex-wrap justify-center gap-3 max-w-3xl mx-auto relative z-20">
+              {[
+                { name: 'Online MBA', slug: 'online-mba' },
+                { name: 'Online BBA', slug: 'online-bba' },
+                { name: 'Online MCA', slug: 'online-mca' },
+                { name: 'Online BCA', slug: 'online-bca' },
+                { name: 'Online B.Com', slug: 'online-bcom' },
+                { name: 'Online M.Com', slug: 'online-mcom' }
+              ].map((link) => (
+                <Link
+                  key={link.slug}
+                  href={`/online-degree-certification/${link.slug}`}
+                  className="bg-white/10 hover:bg-indigo-600 hover:border-indigo-500 text-white border border-white/20 rounded-full px-4 py-2 text-xs font-semibold tracking-wider transition-all"
+                >
+                  {link.name}
+                </Link>
+              ))}
+            </div>
 
             {/* Stats */}
             <div className="mt-14 grid grid-cols-3 gap-4 max-w-lg mx-auto">

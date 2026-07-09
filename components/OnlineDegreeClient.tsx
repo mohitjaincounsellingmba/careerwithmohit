@@ -241,11 +241,11 @@ function CollegeDetailModal({ college, onClose, onInquire }: {
 }
 
 /* ── Main Client Component ── */
-export default function OnlineDegreeClient() {
+export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialCourse?: string } = {}) {
   const [search, setSearch] = useState('');
   const [grade, setGrade] = useState('All');
   const [feeRange, setFeeRange] = useState(0);
-  const [course, setCourse] = useState('All');
+  const [course, setCourse] = useState(initialCourse);
   const [showFilters, setShowFilters] = useState(false);
   const [selectedCollege, setSelectedCollege] = useState<typeof COLLEGES[0] | null>(null);
   const [showInquiry, setShowInquiry] = useState(false);
