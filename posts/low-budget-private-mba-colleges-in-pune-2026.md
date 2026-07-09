@@ -64,7 +64,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Indira School of Business Studies (ISBS)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.8 LPA** |
 | **Pune Institute of Business Management (PIBM)** | CAT / CMAT / PMAT | ₹8.5 Lakhs (Total) | **₹7.5 LPA** |
-| **RIIM Pune** | CMAT / MAT / CAT | ₹5.5 Lakhs (Total) | **₹5.8 LPA** |
+| **[RIIM Pune](/colleges/riim-pune)** | CMAT / MAT / CAT | ₹5.5 Lakhs (Total) | **₹5.8 LPA** |
 | **DY Patil Institute of Management, Akurdi** | MAH CET / MAT / CMAT | ₹3.5 Lakhs (Total) | **₹5.2 LPA** |
 
 ---

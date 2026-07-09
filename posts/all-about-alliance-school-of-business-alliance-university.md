@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Alliance School of Business , Alliance University a good option for PGDM/MBA?
+### 1. Is [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) a good option for PGDM/MBA?
 Yes, Alliance School of Business , Alliance University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Alliance School of Business , Alliance University?

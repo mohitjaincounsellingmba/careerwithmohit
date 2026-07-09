@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is IIM Ahmedabad a good option for PGDM/MBA?
+### 1. Is [IIM Ahmedabad](/colleges/iim-ahmedabad) a good option for PGDM/MBA?
 Yes, IIM Ahmedabad is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at IIM Ahmedabad?

@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Symbiosis Satara Business School a good option for PGDM/MBA?
+### 1. Is [Symbiosis Satara Business School](/colleges/symbiosis-satara-business-school) a good option for PGDM/MBA?
 Yes, Symbiosis Satara Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Symbiosis Satara Business School?

@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Symbiosis Ujjain Institute of Management a good option for PGDM/MBA?
+### 1. Is [Symbiosis Ujjain Institute of Management](/colleges/symbiosis-ujjain-institute-of-management) a good option for PGDM/MBA?
 Yes, Symbiosis Ujjain Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Symbiosis Ujjain Institute of Management?

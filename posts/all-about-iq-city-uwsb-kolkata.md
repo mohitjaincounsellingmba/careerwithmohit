@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is IQ City United World School of Business (UWSB) a good option for PGDM/MBA?
+### 1. Is [IQ City United World School of Business (UWSB)](/colleges/iq-city-uwsb-kolkata) a good option for PGDM/MBA?
 Yes, IQ City United World School of Business (UWSB) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at IQ City United World School of Business (UWSB)?

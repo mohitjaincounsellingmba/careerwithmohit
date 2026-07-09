@@ -154,7 +154,7 @@ Microsoft, Amazon, Google, Goldman Sachs, Qualcomm, Samsung, Texas Instruments, 
 
 ### **Frequently Asked Questions — [MNIT Jaipur](/colleges/mnit-jaipur) Admission**
 
-**Q: Can I get into MNIT Jaipur without JEE Main?**
+**Q: Can I get into [MNIT Jaipur](/colleges/mnit-jaipur) without JEE Main?**
 No. JEE Main is the only valid entry route for B.Tech at MNIT Jaipur. There is no alternative.
 
 **Q: What is the minimum JEE Main rank needed for MNIT Jaipur CSE?**

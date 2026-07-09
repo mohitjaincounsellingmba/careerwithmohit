@@ -68,9 +68,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **JIMS Rohini (Jagannath Institute of Management Studies)** | CAT / MAT / CMAT | ₹8.7 Lakhs (Total) | **₹7.5 LPA** |
-| **Fortune Institute of International Business (FIIB)** | CAT / MAT / CMAT | ₹8.9 Lakhs (Total) | **₹7.4 LPA** |
-| **JIMS Kalkaji (Jagannath International Management School)** | CAT / MAT / CMAT / XAT | ₹8.7 Lakhs (Total) | **₹7.2 LPA** |
+| **JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies))** | CAT / MAT / CMAT | ₹8.7 Lakhs (Total) | **₹7.5 LPA** |
+| **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)** | CAT / MAT / CMAT | ₹8.9 Lakhs (Total) | **₹7.4 LPA** |
+| **[JIMS Kalkaji ([Jagannath International Management School](/colleges/jagannath-international-management-school))](/colleges/jims-kalkaji)** | CAT / MAT / CMAT / XAT | ₹8.7 Lakhs (Total) | **₹7.2 LPA** |
 | **FOSTIIMA Business School** | CAT / MAT / CMAT / XAT | ₹9.0 Lakhs (Total) | **₹8.0 LPA** |
 | **Asia-Pacific Institute of Management (APIM Delhi)** | CAT / CMAT / MAT / GMAT | ₹9.5 Lakhs (Total) | **₹7.5 LPA** |
 

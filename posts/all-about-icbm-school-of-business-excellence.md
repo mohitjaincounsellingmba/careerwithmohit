@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is ICBM School of Business Excellence a good option for PGDM/MBA?
+### 1. Is [ICBM School of Business Excellence](/colleges/icbm-school-of-business-excellence) a good option for PGDM/MBA?
 Yes, ICBM School of Business Excellence is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at ICBM School of Business Excellence?

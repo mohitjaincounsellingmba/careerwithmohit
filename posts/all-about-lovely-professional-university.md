@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Lovely Professional University a good option for PGDM/MBA?
+### 1. Is [Lovely Professional University](/colleges/lovely-professional-university) a good option for PGDM/MBA?
 Yes, Lovely Professional University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Lovely Professional University?

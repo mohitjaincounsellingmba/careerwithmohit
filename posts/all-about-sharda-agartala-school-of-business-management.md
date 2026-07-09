@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Sharda Agartala School of Business & Management a good option for PGDM/MBA?
+### 1. Is [Sharda Agartala School of Business & Management](/colleges/sharda-agartala-school-of-business-management) a good option for PGDM/MBA?
 Yes, Sharda Agartala School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Sharda Agartala School of Business & Management?

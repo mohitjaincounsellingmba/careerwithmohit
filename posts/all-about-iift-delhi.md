@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is IIFT Delhi a good option for PGDM/MBA?
+### 1. Is [IIFT Delhi](/colleges/iift-delhi) a good option for PGDM/MBA?
 Yes, IIFT Delhi is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at IIFT Delhi?

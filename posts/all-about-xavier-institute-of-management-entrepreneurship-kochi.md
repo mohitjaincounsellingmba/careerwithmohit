@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Xavier Institute of Management & Entrepreneurship, Kochi a good option for PGDM/MBA?
+### 1. Is [Xavier Institute of Management & Entrepreneurship, Kochi](/colleges/xavier-institute-of-management-entrepreneurship-kochi) a good option for PGDM/MBA?
 Yes, Xavier Institute of Management & Entrepreneurship, Kochi is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Xavier Institute of Management & Entrepreneurship, Kochi?

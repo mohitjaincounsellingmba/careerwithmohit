@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Xavier Kurukshetra Institute of Management & Technology a good option for PGDM/MBA?
+### 1. Is [Xavier Kurukshetra Institute of Management & Technology](/colleges/xavier-kurukshetra-institute-of-management-technology) a good option for PGDM/MBA?
 Yes, Xavier Kurukshetra Institute of Management & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Xavier Kurukshetra Institute of Management & Technology?

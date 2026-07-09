@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Poddar Business School a good option for PGDM/MBA?
+### 1. Is [Poddar Business School](/colleges/poddar-jaipur) a good option for PGDM/MBA?
 Yes, Poddar Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Poddar Business School?

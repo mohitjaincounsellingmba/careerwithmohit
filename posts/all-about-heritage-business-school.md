@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Heritage Business School a good option for PGDM/MBA?
+### 1. Is [Heritage Business School](/colleges/heritage-business-school) a good option for PGDM/MBA?
 Yes, Heritage Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Heritage Business School?

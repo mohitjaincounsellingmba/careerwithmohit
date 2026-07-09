@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Administrative Staff College of India a good option for PGDM/MBA?
+### 1. Is [Administrative Staff College of India](/colleges/administrative-staff-college-of-india) a good option for PGDM/MBA?
 Yes, Administrative Staff College of India is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Administrative Staff College of India?

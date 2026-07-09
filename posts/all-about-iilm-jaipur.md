@@ -58,8 +58,8 @@ faqs:
 ### 1. Is [IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning) a good option for PGDM/MBA?
 Yes, [IILM Academy of Higher Learning](/colleges/iilm-jaipur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at IILM Academy of Higher Learning?
-The average placement package at IILM Academy of Higher Learning is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
+### 2. What is the average package offered at [IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning)?
+The average placement package at [IILM Academy of Higher Learning](/colleges/iilm-jaipur) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
 
 ### 3. What entrance exams are accepted by IILM Academy of Higher Learning?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

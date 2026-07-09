@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Sparsh Global Business School (SGBS) a good option for PGDM/MBA?
+### 1. Is [Sparsh Global Business School (SGBS)](/colleges/sparsh-global-greater-noida) a good option for PGDM/MBA?
 Yes, Sparsh Global Business School (SGBS) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Sparsh Global Business School (SGBS)?

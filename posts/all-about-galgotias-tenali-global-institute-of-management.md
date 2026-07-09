@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Galgotias Tenali Global Institute of Management a good option for PGDM/MBA?
+### 1. Is [Galgotias Tenali Global Institute of Management](/colleges/galgotias-tenali-global-institute-of-management) a good option for PGDM/MBA?
 Yes, Galgotias Tenali Global Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Galgotias Tenali Global Institute of Management?

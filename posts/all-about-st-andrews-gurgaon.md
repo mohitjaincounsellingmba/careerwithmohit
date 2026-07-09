@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is St. Andrews Institute of Technology and Management, Gurgaon a good option for PGDM/MBA?
+### 1. Is [St. Andrews Institute of Technology and Management, Gurgaon](/colleges/st-andrews-gurgaon) a good option for PGDM/MBA?
 Yes, St. Andrews Institute of Technology and Management, Gurgaon is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at St. Andrews Institute of Technology and Management, Gurgaon?

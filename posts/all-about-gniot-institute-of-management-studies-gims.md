@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is GNIOT Institute of Management Studies (GIMS) a good option for PGDM/MBA?
+### 1. Is [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims) a good option for PGDM/MBA?
 Yes, GNIOT Institute of Management Studies (GIMS) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at GNIOT Institute of Management Studies (GIMS)?

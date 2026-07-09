@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is East Point College of Higher Education a good option for PGDM/MBA?
+### 1. Is [East Point College of Higher Education](/colleges/east-point-college-of-higher-education) a good option for PGDM/MBA?
 Yes, East Point College of Higher Education is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at East Point College of Higher Education?

@@ -58,8 +58,8 @@ faqs:
 ### 1. Is [IILM Institute for Higher Education](/colleges/iilm-delhi) a good option for PGDM/MBA?
 Yes, [IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at IILM Institute for Higher Education?
-The average placement package at IILM Institute for Higher Education is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.2 LPA.
+### 2. What is the average package offered at [IILM Institute for Higher Education](/colleges/iilm-delhi)?
+The average placement package at [IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education) is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.2 LPA.
 
 ### 3. What entrance exams are accepted by IILM Institute for Higher Education?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

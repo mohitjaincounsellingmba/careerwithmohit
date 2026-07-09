@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Amity Tumkur Institute of Business Studies a good option for PGDM/MBA?
+### 1. Is [Amity Tumkur Institute of Business Studies](/colleges/amity-tumkur-institute-of-business-studies) a good option for PGDM/MBA?
 Yes, Amity Tumkur Institute of Business Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Amity Tumkur Institute of Business Studies?

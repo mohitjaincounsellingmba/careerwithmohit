@@ -58,7 +58,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Patiala Institute of Management & Technology (CIMT)** | MAT / CMAT / CAT | ₹4.5 Lakhs - ₹6.5 Lakhs (Total) | **₹4.8 LPA - ₹6.2 LPA** |
 | **Apex Business School, Patiala** | CAT / CMAT / Merit-Based | ₹3.5 Lakhs - ₹5.0 Lakhs (Total) | **₹4.2 LPA - ₹5.5 LPA** |
-| **Suryadatta Institute of Management, Patiala Campus** | MAT / CMAT / State Entrance | ₹4.0 Lakhs - ₹6.0 Lakhs (Total) | **₹4.5 LPA - ₹5.8 LPA** |
+| **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management), Patiala Campus** | MAT / CMAT / State Entrance | ₹4.0 Lakhs - ₹6.0 Lakhs (Total) | **₹4.5 LPA - ₹5.8 LPA** |
 
 ---
 

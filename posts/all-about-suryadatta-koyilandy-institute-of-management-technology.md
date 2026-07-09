@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Suryadatta Koyilandy Institute of Management & Technology a good option for PGDM/MBA?
+### 1. Is [Suryadatta Koyilandy Institute of Management & Technology](/colleges/suryadatta-koyilandy-institute-of-management-technology) a good option for PGDM/MBA?
 Yes, Suryadatta Koyilandy Institute of Management & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Suryadatta Koyilandy Institute of Management & Technology?

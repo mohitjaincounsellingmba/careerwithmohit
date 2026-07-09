@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Welingkar (WeSchool) Bangalore a good option for PGDM/MBA?
+### 1. Is [Welingkar (WeSchool) Bangalore](/colleges/welingkar-bangalore) a good option for PGDM/MBA?
 Yes, Welingkar (WeSchool) Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Welingkar (WeSchool) Bangalore?

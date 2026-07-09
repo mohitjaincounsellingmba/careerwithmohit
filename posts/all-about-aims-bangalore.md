@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is AIMS Institutes Bangalore a good option for PGDM/MBA?
+### 1. Is [AIMS Institutes Bangalore](/colleges/aims-bangalore) a good option for PGDM/MBA?
 Yes, AIMS Institutes Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at AIMS Institutes Bangalore?

@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Vishwa Vishwani Institute of Systems & Management a good option for PGDM/MBA?
+### 1. Is [Vishwa Vishwani Institute of Systems & Management](/colleges/vishwa-vishwani-institute-of-systems-management) a good option for PGDM/MBA?
 Yes, Vishwa Vishwani Institute of Systems & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Vishwa Vishwani Institute of Systems & Management?

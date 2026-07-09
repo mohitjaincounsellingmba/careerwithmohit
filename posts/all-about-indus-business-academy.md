@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Indus Business Academy a good option for PGDM/MBA?
+### 1. Is [Indus Business Academy](/colleges/indus-business-academy) a good option for PGDM/MBA?
 Yes, Indus Business Academy is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Indus Business Academy?

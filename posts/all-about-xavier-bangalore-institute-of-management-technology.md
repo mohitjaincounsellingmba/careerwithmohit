@@ -58,8 +58,8 @@ faqs:
 ### 1. Is [Xavier Bangalore Institute of Management & Technology](/colleges/xavier-bangalore-institute-of-management-technology) a good option for PGDM/MBA?
 Yes, [Xavier Bangalore Institute of Management](/colleges/xavier-bangalore-institute-of-management) & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Xavier Bangalore Institute of Management & Technology?
-The average placement package at Xavier Bangalore Institute of Management & Technology is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
+### 2. What is the average package offered at [Xavier Bangalore Institute of Management & Technology](/colleges/xavier-bangalore-institute-of-management-technology)?
+The average placement package at [Xavier Bangalore Institute of Management](/colleges/xavier-bangalore-institute-of-management) & Technology is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
 
 ### 3. What entrance exams are accepted by Xavier Bangalore Institute of Management & Technology?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

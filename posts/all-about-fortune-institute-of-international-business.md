@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Fortune Institute of International Business a good option for PGDM/MBA?
+### 1. Is [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) a good option for PGDM/MBA?
 Yes, Fortune Institute of International Business is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Fortune Institute of International Business?

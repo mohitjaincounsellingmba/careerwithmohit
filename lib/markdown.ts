@@ -14,6 +14,7 @@ export interface PostData {
   content?: string;
   faqs?: { question: string; answer: string }[];
   category?: string;
+  image?: string;
 }
 
 function inferCategory(data: any, slug: string): string {
@@ -82,6 +83,7 @@ export const getSortedPostsData = cache(() => {
         description: matterResult.data.description || '',
         keywords: matterResult.data.keywords || [],
         category: inferCategory(matterResult.data, slug),
+        image: matterResult.data.image || '',
       };
     })
     .filter(post => post.title !== 'Untitled Post'); // Filter out potentially broken files
@@ -109,6 +111,7 @@ export function getPostData(slug: string): PostData | null {
       content: matterResult.content,
       faqs: matterResult.data.faqs || [],
       category: inferCategory(matterResult.data, slug),
+      image: matterResult.data.image || '',
     };
   } catch (e) {
     return null;

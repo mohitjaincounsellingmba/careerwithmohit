@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is T M Bhagalpur University, Department of Commerce & Business Administration a good option for PGDM/MBA?
+### 1. Is [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration) a good option for PGDM/MBA?
 Yes, T M Bhagalpur University, Department of Commerce & Business Administration is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at T M Bhagalpur University, Department of Commerce & Business Administration?

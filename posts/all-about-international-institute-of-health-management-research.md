@@ -58,8 +58,8 @@ faqs:
 ### 1. Is [International Institute of Health Management Research](/colleges/international-institute-of-health-management-research) a good option for PGDM/MBA?
 Yes, International [Institute of Health Management Research](/colleges/institute-of-health-management-research) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at International Institute of Health Management Research?
-The average placement package at International Institute of Health Management Research is approximately ₹25 LPA, with the highest package reaching up to ₹50 LPA.
+### 2. What is the average package offered at [International Institute of Health Management Research](/colleges/international-institute-of-health-management-research)?
+The average placement package at International [Institute of Health Management Research](/colleges/institute-of-health-management-research) is approximately ₹25 LPA, with the highest package reaching up to ₹50 LPA.
 
 ### 3. What entrance exams are accepted by International Institute of Health Management Research?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

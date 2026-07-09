@@ -58,8 +58,8 @@ faqs:
 ### 1. Is [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon) a good option for PGDM/MBA?
 Yes, [GD Goenka University](/colleges/gd-goenka-university), Gurgaon is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at GD Goenka University, Gurgaon?
-The average placement package at GD Goenka University, Gurgaon is approximately ₹9.0 LPA, with the highest package reaching up to ₹35.0 LPA.
+### 2. What is the average package offered at [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon)?
+The average placement package at [GD Goenka University](/colleges/gd-goenka-university), Gurgaon is approximately ₹9.0 LPA, with the highest package reaching up to ₹35.0 LPA.
 
 ### 3. What entrance exams are accepted by GD Goenka University, Gurgaon?
 The college accepts scores from national level entrance examinations including CAT, MAT, GMAT, Goenka Aptitude Test for the PGDM and MBA admissions.

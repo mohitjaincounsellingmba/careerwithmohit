@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Asian Business School (ABS) a good option for PGDM/MBA?
+### 1. Is [Asian Business School (ABS)](/colleges/asian-business-school-noida) a good option for PGDM/MBA?
 Yes, Asian Business School (ABS) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Asian Business School (ABS)?

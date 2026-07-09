@@ -63,8 +63,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **ITS Ghaziabad (Mohan Nagar)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.2 LPA** |
-| **KIET Group of Institutions (MBA)** | UPSEE / CMAT | ₹2.8 Lakhs (Total) | **₹5.0 LPA** |
-| **ABES Engineering College (Department of MBA)** | CMAT / Merit | ₹3.0 Lakhs (Total) | **₹4.8 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad) (MBA)** | UPSEE / CMAT | ₹2.8 Lakhs (Total) | **₹5.0 LPA** |
+| **[ABES Engineering College](/colleges/abes-ghaziabad) (Department of MBA)** | CMAT / Merit | ₹3.0 Lakhs (Total) | **₹4.8 LPA** |
 | **Christ University (Ghaziabad/NCR Campus)** | CAT / XAT / CMAT | ₹8.5 Lakhs (Total) | **₹7.2 LPA** |
 
 ---

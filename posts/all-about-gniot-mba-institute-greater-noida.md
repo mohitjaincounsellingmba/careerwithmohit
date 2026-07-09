@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is GNIOT (MBA Institute) a good option for PGDM/MBA?
+### 1. Is [GNIOT (MBA Institute)](/colleges/gniot-mba-institute-greater-noida) a good option for PGDM/MBA?
 Yes, GNIOT (MBA Institute) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at GNIOT (MBA Institute)?

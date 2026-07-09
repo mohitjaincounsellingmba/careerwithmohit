@@ -61,12 +61,12 @@ Yes, [Christ University - School of Business and Management](/colleges/christ-un
 ### 2. What is the average package offered at [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune)?
 The average placement package at [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management) is approximately ₹10 LPA, with the highest package reaching up to ₹87.50 LPA.
 
-### 3. What entrance exams are accepted by Christ University - School of Business and Management?
+### 3. What entrance exams are accepted by [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: Christ University - School of Business and Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Christ University - School of Business and Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

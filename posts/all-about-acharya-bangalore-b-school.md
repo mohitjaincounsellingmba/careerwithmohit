@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Acharya Bangalore B-School a good option for PGDM/MBA?
+### 1. Is [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school) a good option for PGDM/MBA?
 Yes, Acharya Bangalore B-School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Acharya Bangalore B-School?

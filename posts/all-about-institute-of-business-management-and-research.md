@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Institute of Business Management and Research a good option for PGDM/MBA?
+### 1. Is [Institute of Business Management and Research](/colleges/institute-of-business-management-and-research) a good option for PGDM/MBA?
 Yes, Institute of Business Management and Research is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Institute of Business Management and Research?

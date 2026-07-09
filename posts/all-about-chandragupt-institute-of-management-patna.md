@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Chandragupt Institute of Management Patna a good option for PGDM/MBA?
+### 1. Is [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) a good option for PGDM/MBA?
 Yes, Chandragupt Institute of Management Patna is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Chandragupt Institute of Management Patna?

@@ -107,7 +107,7 @@ Looking for more resources? **[Explore Our Premium Mock Test Series 2026 (CUET/I
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best low budget private BBA college in Kurukshetra?
-In Kurukshetra, the top affordable private choices include institutes like Kurukshetra Institute of Management Studies (CIMS) which offer annual BBA tuition fees ranging from ₹90,000 to ₹1.5 Lakhs, coupled with consistent local corporate placement support.
+In Kurukshetra, the top affordable private choices include institutes like Kurukshetra [Institute of Management Studies](/colleges/institute-of-management-studies) (CIMS) which offer annual BBA tuition fees ranging from ₹90,000 to ₹1.5 Lakhs, coupled with consistent local corporate placement support.
 
 ### Can I get direct admission in cheap private BBA colleges in Kurukshetra?
 Yes, many private BBA institutions in Kurukshetra offer direct admissions based on Class 12th board marks (merit-based) or via management quota, though some require standard exam scores like CUET-UG or state-level entrance scores.

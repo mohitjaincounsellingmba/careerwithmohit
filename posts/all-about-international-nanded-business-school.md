@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is International Nanded Business School a good option for PGDM/MBA?
+### 1. Is [International Nanded Business School](/colleges/international-nanded-business-school) a good option for PGDM/MBA?
 Yes, International Nanded Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Nanded Business School?

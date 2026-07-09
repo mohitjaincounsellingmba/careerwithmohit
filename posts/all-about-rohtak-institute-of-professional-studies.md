@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Rohtak Institute of Professional Studies a good option for PGDM/MBA?
+### 1. Is [Rohtak Institute of Professional Studies](/colleges/rohtak-institute-of-professional-studies) a good option for PGDM/MBA?
 Yes, Rohtak Institute of Professional Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Rohtak Institute of Professional Studies?

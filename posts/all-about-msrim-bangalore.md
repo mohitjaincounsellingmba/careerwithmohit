@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is MSRIM (Ramaiah) Bangalore a good option for PGDM/MBA?
+### 1. Is [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) a good option for PGDM/MBA?
 Yes, MSRIM (Ramaiah) Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at MSRIM (Ramaiah) Bangalore?

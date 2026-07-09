@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is MERI Janakpuri (Management Education and Research Institute) a good option for PGDM/MBA?
+### 1. Is [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi) a good option for PGDM/MBA?
 Yes, MERI Janakpuri (Management Education and Research Institute) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at MERI Janakpuri (Management Education and Research Institute)?

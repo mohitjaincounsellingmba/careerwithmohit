@@ -14,27 +14,42 @@ import { AdUnit } from "@/components/AdUnit";
 import { BlogViewCounter } from "@/components/BlogViewCounter";
 
 
+function cleanMarkdown(text: string | undefined): string {
+  if (!text) return "";
+  return text
+    // Replace markdown links: [text](url) -> text
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    // Remove other formatting characters
+    .replace(/[*_#`~]/g, '')
+    .trim();
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const postData = getPostData(slug);
 
   if (!postData) return {};
 
-  const postTitle = `${postData.title} | Expert Guide 2026`;
+  const cleanedTitle = cleanMarkdown(postData.title);
+  const postTitle = `${cleanedTitle} | Expert Guide 2026`;
   
   // Fallback description from content if frontmatter description is missing
-  let postDescription = postData.description;
+  let postDescription = postData.description ? cleanMarkdown(postData.description) : "";
   if (!postDescription && postData.content) {
-    postDescription = postData.content.substring(0, 160).replace(/[#*`]/g, '').trim() + "...";
+    postDescription = cleanMarkdown(postData.content.substring(0, 160)) + "...";
   }
-  postDescription = postDescription || `Expert analysis on ${postData.title}. Detailed insights, placements 2025, and admission strategy for 2026 by Mohit Jain.`;
+  postDescription = postDescription || `Expert analysis on ${cleanedTitle}. Detailed insights, placements 2025, and admission strategy for 2026 by Mohit Jain.`;
   
   const postUrl = `https://www.careerwithmohit.online/blog/${slug}`;
+  const cleanedKeywords = (postData.keywords || []).map(kw => cleanMarkdown(kw));
+
+  // Dynamic OG image: if postData.image is specified, use it. Otherwise fallback to /og-image.webp.
+  const ogImageUrl = postData.image || "/og-image.webp";
 
   return {
     title: postTitle,
     description: postDescription,
-    keywords: [...(postData.keywords || []), "MBA Admissions 2026", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"],
+    keywords: [...cleanedKeywords, "MBA Admissions 2026", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"],
     openGraph: {
       title: postTitle,
       description: postDescription,
@@ -46,10 +61,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       siteName: "CareerWithMohit",
       images: [
         {
-          url: "/og-image.webp",
+          url: ogImageUrl,
           width: 1200,
           height: 630,
-          alt: postData.title,
+          alt: cleanedTitle,
         }
       ]
     },
@@ -57,7 +72,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       card: "summary_large_image",
       title: postTitle,
       description: postDescription,
-      images: ["/og-image.webp"],
+      images: [ogImageUrl],
     },
     alternates: {
       canonical: `/blog/${slug}`,
@@ -82,12 +97,17 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     notFound();
   }
 
+  const cleanedTitle = cleanMarkdown(postData.title);
+  const articleImage = postData.image 
+    ? (postData.image.startsWith('http') ? postData.image : `https://www.careerwithmohit.online${postData.image}`)
+    : `https://www.careerwithmohit.online/og-image.webp`;
+
   const articleData = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
-    "headline": postData.title,
-    "description": postData.description || postData.content?.substring(0, 160),
-    "image": `https://www.careerwithmohit.online/og-image.webp`,
+    "headline": cleanedTitle,
+    "description": cleanMarkdown(postData.description || postData.content?.substring(0, 160)),
+    "image": articleImage,
     "datePublished": postData.date,
     "dateModified": postData.date,
     "author": {
@@ -128,7 +148,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       {
         "@type": "ListItem",
         "position": 3,
-        "name": postData.title,
+        "name": cleanedTitle,
         "item": `https://www.careerwithmohit.online/blog/${slug}`
       }
     ]
@@ -183,12 +203,12 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             </div>
 
             <h1 className="font-display text-5xl font-black tracking-tight text-foreground sm:text-7xl md:text-8xl mb-12 leading-[0.95] uppercase">
-              {postData.title}
+              {cleanedTitle}
             </h1>
 
             {postData.description && (
               <p className="text-2xl md:text-3xl font-bold text-gray-700 leading-tight max-w-3xl border-l-[12px] border-primary pl-8 py-2">
-                {postData.description}
+                {cleanMarkdown(postData.description)}
               </p>
             )}
           </header>
@@ -196,6 +216,18 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       </div>
 
       <div className="mx-auto max-w-4xl px-6 sm:px-12 mt-20 pb-20">
+        {postData.image && (
+          <div className="mb-16 relative w-full h-[400px] md:h-[500px] border-8 border-foreground rounded-xl overflow-hidden shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+            <Image
+              src={postData.image}
+              alt={cleanedTitle}
+              fill
+              className="object-cover"
+              sizes="(max-w-7xl) 100vw, 800px"
+              priority
+            />
+          </div>
+        )}
         <div className="prose prose-xl prose-slate max-w-none">
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}

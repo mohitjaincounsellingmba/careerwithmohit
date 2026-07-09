@@ -62,9 +62,9 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Taxila Business School** | CMAT / MAT / CAT | ₹9.0 Lakhs (Total) | **₹12.0 LPA** |
-| **IIHMR University** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.8 LPA** |
-| **JECRC University** | CAT / MAT / CMAT | ₹3.5 Lakhs (Total) | **₹5.0 LPA** |
+| **[Taxila Business School](/colleges/taxila-jaipur)** | CMAT / MAT / CAT | ₹9.0 Lakhs (Total) | **₹12.0 LPA** |
+| **[IIHMR University](/colleges/iihmr-university)** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.8 LPA** |
+| **[JECRC University](/colleges/jecrc-jaipur)** | CAT / MAT / CMAT | ₹3.5 Lakhs (Total) | **₹5.0 LPA** |
 | **Poddar Group of Institutions (MBA Department)** | Merit / CMAT / CAT | ₹2.5 Lakhs (Total) | **₹4.5 LPA** |
 
 ---

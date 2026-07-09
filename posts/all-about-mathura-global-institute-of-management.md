@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Mathura Global Institute of Management a good option for PGDM/MBA?
+### 1. Is [Mathura Global Institute of Management](/colleges/mathura-global-institute-of-management) a good option for PGDM/MBA?
 Yes, Mathura Global Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Mathura Global Institute of Management?

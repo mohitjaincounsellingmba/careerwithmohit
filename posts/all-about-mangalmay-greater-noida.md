@@ -55,7 +55,7 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is Mangalmay Institute of Management (MIMT) a good option for PGDM/MBA?
+### 1. Is [Mangalmay Institute of Management (MIMT)](/colleges/mangalmay-greater-noida) a good option for PGDM/MBA?
 Yes, Mangalmay Institute of Management (MIMT) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Mangalmay Institute of Management (MIMT)?
