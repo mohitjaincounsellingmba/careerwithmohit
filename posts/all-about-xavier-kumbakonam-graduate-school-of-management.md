@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Xavier Kumbakonam Graduate School of Management](/colleges/xavier-kumbakonam-graduate-school-of-management) a good option for PGDM/MBA?
-Yes, Xavier Kumbakonam Graduate School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Xavier Kumbakonam Graduate School of Management](/colleges/xavier-kumbakonam-graduate-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Xavier Kumbakonam Graduate School of Management?
 The average placement package at Xavier Kumbakonam Graduate School of Management is approximately ₹5.7 LPA, with the highest package reaching up to ₹18.5 LPA.

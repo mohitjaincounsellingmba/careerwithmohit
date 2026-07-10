@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi) a good option for PGDM/MBA?
-Yes, LBSIM Delhi (Lal Bahadur Shastri Institute of Management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at LBSIM Delhi (Lal Bahadur Shastri Institute of Management)?
 The average placement package at LBSIM Delhi (Lal Bahadur Shastri Institute of Management) is approximately ₹12.00 LPA, with the highest package reaching up to ₹24.75 LPA.

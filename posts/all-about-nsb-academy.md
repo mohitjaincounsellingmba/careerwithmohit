@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [NSB Academy](/colleges/nsb-academy) a good option for PGDM/MBA?
-Yes, NSB Academy is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [NSB Academy](/colleges/nsb-academy) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at NSB Academy?
 The average placement package at NSB Academy is approximately ₹6.6 LPA, with the highest package reaching up to ₹17.1 LPA.

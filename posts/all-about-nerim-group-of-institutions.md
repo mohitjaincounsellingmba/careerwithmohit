@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [NERIM Group of Institutions](/colleges/nerim-group-of-institutions) a good option for PGDM/MBA?
-Yes, NERIM Group of Institutions is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [NERIM Group of Institutions](/colleges/nerim-group-of-institutions) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at NERIM Group of Institutions?
 The average placement package at NERIM Group of Institutions is approximately ₹5.1 LPA, with the highest package reaching up to ₹13.3 LPA.

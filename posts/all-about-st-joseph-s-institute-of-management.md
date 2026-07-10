@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [St Joseph's Institute of Management](/colleges/st-joseph-s-institute-of-management) a good option for PGDM/MBA?
-Yes, St Joseph's Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [St Joseph's Institute of Management](/colleges/st-joseph-s-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at St Joseph's Institute of Management?
 The average placement package at St Joseph's Institute of Management is approximately ₹6.7 LPA, with the highest package reaching up to ₹16.6 LPA.

@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) a good option for PGDM/MBA?
-Yes, Suryadatta Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Suryadatta Institute of Management?
 The average placement package at Suryadatta Institute of Management is approximately ₹6.9 LPA, with the highest package reaching up to ₹17.2 LPA.

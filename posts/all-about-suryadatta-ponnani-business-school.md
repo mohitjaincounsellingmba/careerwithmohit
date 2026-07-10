@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Suryadatta Ponnani Business School](/colleges/suryadatta-ponnani-business-school) a good option for PGDM/MBA?
-Yes, Suryadatta Ponnani Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Suryadatta Ponnani Business School](/colleges/suryadatta-ponnani-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Suryadatta Ponnani Business School?
 The average placement package at Suryadatta Ponnani Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.

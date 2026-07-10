@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Institute of Engineering and Management (IEM)](/colleges/iem-kolkata) a good option for PGDM/MBA?
-Yes, Institute of Engineering and Management (IEM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Institute of Engineering and Management (IEM)](/colleges/iem-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Institute of Engineering and Management (IEM)?
 The average placement package at Institute of Engineering and Management (IEM) is approximately ₹6.5 LPA, with the highest package reaching up to ₹15.0 LPA.

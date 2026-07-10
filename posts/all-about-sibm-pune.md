@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [SIBM Pune](/colleges/sibm-pune) a good option for PGDM/MBA?
-Yes, SIBM Pune is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [SIBM Pune](/colleges/sibm-pune) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at SIBM Pune?
 The average placement package at SIBM Pune is approximately ₹28.1 LPA, with the highest package reaching up to ₹82.2 LPA.

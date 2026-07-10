@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International Kalyan-Dombivli School of Business & Management](/colleges/international-kalyan-dombivli-school-of-business-management) a good option for PGDM/MBA?
-Yes, International Kalyan-Dombivli School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International Kalyan-Dombivli School of Business & Management](/colleges/international-kalyan-dombivli-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Kalyan-Dombivli School of Business & Management?
 The average placement package at International Kalyan-Dombivli School of Business & Management is approximately ₹6.4 LPA, with the highest package reaching up to ₹11.0 LPA.

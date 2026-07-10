@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [PUMBA Pune](/colleges/pumba-pune) a good option for PGDM/MBA?
-Yes, PUMBA Pune is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [PUMBA Pune](/colleges/pumba-pune) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at PUMBA Pune?
 The average placement package at PUMBA Pune is approximately ₹8.1 LPA, with the highest package reaching up to ₹18.5 LPA.

@@ -61,12 +61,12 @@ Yes, [ISBR Business School](/colleges/isbr-business-school) is a highly respecte
 ### 2. What is the average package offered at [ISBR Business School](/colleges/isbr-bangalore)?
 The average placement package at [ISBR Business School](/colleges/isbr-business-school) is approximately ₹6.2 LPA, with the highest package reaching up to ₹14.7 LPA.
 
-### 3. What entrance exams are accepted by ISBR Business School?
+### 3. What entrance exams are accepted by [ISBR Business School](/colleges/isbr-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: ISBR Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [ISBR Business School](/colleges/isbr-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to ISBR Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

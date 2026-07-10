@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Galgotias University](/colleges/galgotias-university) a good option for PGDM/MBA?
-Yes, Galgotias University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Galgotias University](/colleges/galgotias-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Galgotias University?
 The average placement package at Galgotias University is approximately ₹60 LPA, with the highest package reaching up to ₹5.4 LPA.

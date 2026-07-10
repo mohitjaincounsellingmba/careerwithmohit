@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [SIBM Bangalore](/colleges/sibm-bangalore) a good option for PGDM/MBA?
-Yes, SIBM Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [SIBM Bangalore](/colleges/sibm-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at SIBM Bangalore?
 The average placement package at SIBM Bangalore is approximately ₹14.5 LPA, with the highest package reaching up to ₹24.0 LPA.

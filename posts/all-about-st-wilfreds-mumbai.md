@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [St. Wilfred’s Institute of Management](/colleges/st-wilfreds-mumbai) a good option for PGDM/MBA?
-Yes, St. Wilfred’s Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [St. Wilfred’s Institute of Management](/colleges/st-wilfreds-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at St. Wilfred’s Institute of Management?
 The average placement package at St. Wilfred’s Institute of Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.

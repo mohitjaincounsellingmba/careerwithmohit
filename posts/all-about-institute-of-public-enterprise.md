@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Institute of Public Enterprise](/colleges/institute-of-public-enterprise) a good option for PGDM/MBA?
-Yes, Institute of Public Enterprise is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Institute of Public Enterprise](/colleges/institute-of-public-enterprise) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Institute of Public Enterprise?
 The average placement package at Institute of Public Enterprise is approximately ₹5.9 LPA, with the highest package reaching up to ₹14.7 LPA.

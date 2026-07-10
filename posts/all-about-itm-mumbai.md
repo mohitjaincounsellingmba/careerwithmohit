@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [ITM Mumbai](/colleges/itm-mumbai) a good option for PGDM/MBA?
-Yes, ITM Mumbai is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [ITM Mumbai](/colleges/itm-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at ITM Mumbai?
 The average placement package at ITM Mumbai is approximately ₹10.5 LPA, with the highest package reaching up to ₹25.0 LPA.

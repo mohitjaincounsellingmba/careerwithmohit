@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [CB Bhandari Jain College](/colleges/cb-bhandari-jain-college) a good option for PGDM/MBA?
-Yes, CB Bhandari Jain College is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [CB Bhandari Jain College](/colleges/cb-bhandari-jain-college) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at CB Bhandari Jain College?
 The average placement package at CB Bhandari Jain College is approximately ₹6.8 LPA, with the highest package reaching up to ₹15.5 LPA.

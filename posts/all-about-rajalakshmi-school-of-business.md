@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Rajalakshmi School of Business](/colleges/rajalakshmi-school-of-business) a good option for PGDM/MBA?
-Yes, Rajalakshmi School of Business is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Rajalakshmi School of Business](/colleges/rajalakshmi-school-of-business) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Rajalakshmi School of Business?
 The average placement package at Rajalakshmi School of Business is approximately ₹5.1 LPA, with the highest package reaching up to ₹11.9 LPA.

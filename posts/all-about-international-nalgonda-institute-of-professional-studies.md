@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International Nalgonda Institute of Professional Studies](/colleges/international-nalgonda-institute-of-professional-studies) a good option for PGDM/MBA?
-Yes, International Nalgonda Institute of Professional Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International Nalgonda Institute of Professional Studies](/colleges/international-nalgonda-institute-of-professional-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Nalgonda Institute of Professional Studies?
 The average placement package at International Nalgonda Institute of Professional Studies is approximately ₹5.0 LPA, with the highest package reaching up to ₹20.0 LPA.

@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Symbiosis Thrissur Institute of Management & Technology](/colleges/symbiosis-thrissur-institute-of-management-technology) a good option for PGDM/MBA?
-Yes, Symbiosis Thrissur Institute of Management & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Symbiosis Thrissur Institute of Management & Technology](/colleges/symbiosis-thrissur-institute-of-management-technology) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Symbiosis Thrissur Institute of Management & Technology?
 The average placement package at Symbiosis Thrissur Institute of Management & Technology is approximately ₹7.1 LPA, with the highest package reaching up to ₹21.5 LPA.

@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business) a good option for PGDM/MBA?
-Yes, SCMS Cochin School of Business is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at SCMS Cochin School of Business?
 The average placement package at SCMS Cochin School of Business is approximately ₹5.7 LPA, with the highest package reaching up to ₹13.8 LPA.

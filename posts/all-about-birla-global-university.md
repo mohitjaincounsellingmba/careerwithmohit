@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Birla Global University](/colleges/birla-global-university) a good option for PGDM/MBA?
-Yes, Birla Global University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Birla Global University](/colleges/birla-global-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Birla Global University?
 The average placement package at Birla Global University is approximately ₹6.01 LPA, with the highest package reaching up to ₹16.42 LPA.

@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International Nanded Business School](/colleges/international-nanded-business-school) a good option for PGDM/MBA?
-Yes, International Nanded Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International Nanded Business School](/colleges/international-nanded-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Nanded Business School?
 The average placement package at International Nanded Business School is approximately ₹5.7 LPA, with the highest package reaching up to ₹18.5 LPA.

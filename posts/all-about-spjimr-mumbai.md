@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [SPJIMR Mumbai](/colleges/spjimr-mumbai) a good option for PGDM/MBA?
-Yes, SPJIMR Mumbai is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [SPJIMR Mumbai](/colleges/spjimr-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at SPJIMR Mumbai?
 The average placement package at SPJIMR Mumbai is approximately ₹33.0 LPA, with the highest package reaching up to ₹77.8 LPA.

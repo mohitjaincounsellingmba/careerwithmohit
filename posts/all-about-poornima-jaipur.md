@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Poornima University](/colleges/poornima-jaipur) a good option for PGDM/MBA?
-Yes, Poornima University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Poornima University](/colleges/poornima-jaipur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Poornima University?
 The average placement package at Poornima University is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.

@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [ASM IIBR](/colleges/asm-iibr) a good option for PGDM/MBA?
-Yes, ASM IIBR is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [ASM IIBR](/colleges/asm-iibr) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at ASM IIBR?
 The average placement package at ASM IIBR is approximately ₹4.5 LPA, with the highest package reaching up to ₹16.0 LPA.

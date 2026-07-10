@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Symbiosis Bhusawal Global Institute of Management](/colleges/symbiosis-bhusawal-global-institute-of-management) a good option for PGDM/MBA?
-Yes, Symbiosis Bhusawal Global Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Symbiosis Bhusawal Global Institute of Management](/colleges/symbiosis-bhusawal-global-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Symbiosis Bhusawal Global Institute of Management?
 The average placement package at Symbiosis Bhusawal Global Institute of Management is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.

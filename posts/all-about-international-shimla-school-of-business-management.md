@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International Shimla School of Business & Management](/colleges/international-shimla-school-of-business-management) a good option for PGDM/MBA?
-Yes, International Shimla School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International Shimla School of Business & Management](/colleges/international-shimla-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Shimla School of Business & Management?
 The average placement package at International Shimla School of Business & Management is approximately ₹7.8 LPA, with the highest package reaching up to ₹11.0 LPA.

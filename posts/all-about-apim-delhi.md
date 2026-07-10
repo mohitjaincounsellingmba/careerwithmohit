@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Asia Pacific Institute of Management (APIM)](/colleges/apim-delhi) a good option for PGDM/MBA?
-Yes, Asia Pacific Institute of Management (APIM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Asia Pacific Institute of Management (APIM)](/colleges/apim-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Asia Pacific Institute of Management (APIM)?
 The average placement package at Asia Pacific Institute of Management (APIM) is approximately ₹8.11 LPA, with the highest package reaching up to ₹22.0 LPA.

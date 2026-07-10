@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Adamas University](/colleges/adamas-university) a good option for PGDM/MBA?
-Yes, Adamas University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Adamas University](/colleges/adamas-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Adamas University?
 The average placement package at Adamas University is approximately ₹8.48 LPA, with the highest package reaching up to ₹6 LPA.

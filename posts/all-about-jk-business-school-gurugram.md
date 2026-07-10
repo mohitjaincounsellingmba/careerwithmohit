@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) a good option for PGDM/MBA?
-Yes, JK Business School,Gurugram is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at JK Business School,Gurugram?
 The average placement package at JK Business School,Gurugram is approximately ₹6.20 LPA, with the highest package reaching up to ₹24 LPA.

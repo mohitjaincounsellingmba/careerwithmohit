@@ -121,7 +121,7 @@ Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best low budget private MBA college in Delhi?
-In Delhi, the top affordable private choices include institutes like JIMS Rohini (Jagannath Institute of Management Studies) which offer total MBA/PGDM tuition fees ranging from ₹3.5 Lakhs to ₹8.5 Lakhs, coupled with consistent local corporate placement support.
+In Delhi, the top affordable private choices include institutes like JIMS Rohini (Jagannath [Institute of Management Studies](/colleges/institute-of-management-studies)) which offer total MBA/PGDM tuition fees ranging from ₹3.5 Lakhs to ₹8.5 Lakhs, coupled with consistent local corporate placement support.
 
 ### Can I get direct admission in cheap private MBA colleges in Delhi?
 Yes, many private MBA institutions in Delhi offer direct admissions based on graduation merit (management quota) or via scores from exams like MAT, CMAT, CAT, or regional exams.

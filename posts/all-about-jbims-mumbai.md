@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [JBIMS Mumbai](/colleges/jbims-mumbai) a good option for PGDM/MBA?
-Yes, JBIMS Mumbai is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [JBIMS Mumbai](/colleges/jbims-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at JBIMS Mumbai?
 The average placement package at JBIMS Mumbai is approximately ₹28.0 LPA, with the highest package reaching up to ₹44.0 LPA.

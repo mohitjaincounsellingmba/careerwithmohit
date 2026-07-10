@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) a good option for PGDM/MBA?
-Yes, Lloyd Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Lloyd Business School?
 The average placement package at Lloyd Business School is approximately ₹6.0 LPA, with the highest package reaching up to ₹18.0 LPA.

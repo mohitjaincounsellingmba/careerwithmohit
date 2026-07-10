@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [MCC Boyd Tandon School of Business](/colleges/mcc-boyd-tandon-school-of-business) a good option for PGDM/MBA?
-Yes, MCC Boyd Tandon School of Business is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [MCC Boyd Tandon School of Business](/colleges/mcc-boyd-tandon-school-of-business) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at MCC Boyd Tandon School of Business?
 The average placement package at MCC Boyd Tandon School of Business is approximately ₹6.6 LPA, with the highest package reaching up to ₹12 LPA.

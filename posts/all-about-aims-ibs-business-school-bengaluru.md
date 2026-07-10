@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [AIMS IBS Business School Bengaluru](/colleges/aims-ibs-business-school-bengaluru) a good option for PGDM/MBA?
-Yes, AIMS IBS Business School Bengaluru is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [AIMS IBS Business School Bengaluru](/colleges/aims-ibs-business-school-bengaluru) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at AIMS IBS Business School Bengaluru?
 The average placement package at AIMS IBS Business School Bengaluru is approximately ₹7.2 LPA, with the highest package reaching up to ₹17.4 LPA.

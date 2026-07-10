@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) a good option for PGDM/MBA?
-Yes, Entrepreneurship Development Institute of India is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Entrepreneurship Development Institute of India?
 The average placement package at Entrepreneurship Development Institute of India is approximately ₹4.9 LPA, with the highest package reaching up to ₹12.2 LPA.

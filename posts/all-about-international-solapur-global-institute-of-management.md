@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International Solapur Global Institute of Management](/colleges/international-solapur-global-institute-of-management) a good option for PGDM/MBA?
-Yes, International Solapur Global Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International Solapur Global Institute of Management](/colleges/international-solapur-global-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Solapur Global Institute of Management?
 The average placement package at International Solapur Global Institute of Management is approximately ₹8.5 LPA, with the highest package reaching up to ₹15.5 LPA.

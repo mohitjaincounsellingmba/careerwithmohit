@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [GIBS Business School](/colleges/gibs-bangalore) a good option for PGDM/MBA?
-Yes, GIBS Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [GIBS Business School](/colleges/gibs-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at GIBS Business School?
 The average placement package at GIBS Business School is approximately ₹9.5 LPA, with the highest package reaching up to ₹22.0 LPA.

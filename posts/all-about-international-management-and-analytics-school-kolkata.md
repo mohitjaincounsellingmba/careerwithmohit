@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) a good option for PGDM/MBA?
-Yes, International Management and Analytics School Kolkata is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Management and Analytics School Kolkata?
 The average placement package at International Management and Analytics School Kolkata is approximately ₹16.40 LPA, with the highest package reaching up to ₹30 LPA.

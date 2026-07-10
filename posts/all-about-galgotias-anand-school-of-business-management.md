@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Galgotias Anand School of Business & Management](/colleges/galgotias-anand-school-of-business-management) a good option for PGDM/MBA?
-Yes, Galgotias Anand School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Galgotias Anand School of Business & Management](/colleges/galgotias-anand-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Galgotias Anand School of Business & Management?
 The average placement package at Galgotias Anand School of Business & Management is approximately ₹7.8 LPA, with the highest package reaching up to ₹14.0 LPA.

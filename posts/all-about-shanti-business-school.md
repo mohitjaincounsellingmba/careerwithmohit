@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Shanti Business School](/colleges/shanti-business-school) a good option for PGDM/MBA?
-Yes, Shanti Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Shanti Business School](/colleges/shanti-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Shanti Business School?
 The average placement package at Shanti Business School is approximately ₹5.1 LPA, with the highest package reaching up to ₹12.7 LPA.

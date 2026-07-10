@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [IIM Bangalore](/colleges/iim-bangalore) a good option for PGDM/MBA?
-Yes, IIM Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [IIM Bangalore](/colleges/iim-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at IIM Bangalore?
 The average placement package at IIM Bangalore is approximately ₹35.9 LPA, with the highest package reaching up to ₹1.15 Crore.

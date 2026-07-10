@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Universal AI University (UBS)](/colleges/universal-ai-mumbai) a good option for PGDM/MBA?
-Yes, Universal AI University (UBS) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Universal AI University (UBS)](/colleges/universal-ai-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Universal AI University (UBS)?
 The average placement package at Universal AI University (UBS) is approximately ₹10.5 LPA, with the highest package reaching up to ₹42.0 LPA.

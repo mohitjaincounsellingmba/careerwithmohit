@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Galgotias Dhanbad School of Business & Management](/colleges/galgotias-dhanbad-school-of-business-management) a good option for PGDM/MBA?
-Yes, Galgotias Dhanbad School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Galgotias Dhanbad School of Business & Management](/colleges/galgotias-dhanbad-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Galgotias Dhanbad School of Business & Management?
 The average placement package at Galgotias Dhanbad School of Business & Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹14.0 LPA.

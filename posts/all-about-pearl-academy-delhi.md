@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Pearl Academy, Delhi](/colleges/pearl-academy-delhi) a good option for PGDM/MBA?
-Yes, Pearl Academy, Delhi is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Pearl Academy, Delhi](/colleges/pearl-academy-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Pearl Academy, Delhi?
 The average placement package at Pearl Academy, Delhi is approximately ₹10.5 LPA, with the highest package reaching up to ₹26.0 LPA.

@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [ITM Vocational University](/colleges/itm-vocational-university) a good option for PGDM/MBA?
-Yes, ITM Vocational University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [ITM Vocational University](/colleges/itm-vocational-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at ITM Vocational University?
 The average placement package at ITM Vocational University is approximately ₹5.8 LPA, with the highest package reaching up to ₹13.0 LPA.

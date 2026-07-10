@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Techno India Group](/colleges/techno-india-group) a good option for PGDM/MBA?
-Yes, Techno India Group is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Techno India Group](/colleges/techno-india-group) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Techno India Group?
 The average placement package at Techno India Group is approximately ₹5.6 LPA, with the highest package reaching up to ₹13.6 LPA.

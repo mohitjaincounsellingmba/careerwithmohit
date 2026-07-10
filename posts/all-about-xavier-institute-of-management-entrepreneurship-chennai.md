@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Xavier Institute of Management & Entrepreneurship, Chennai](/colleges/xavier-institute-of-management-entrepreneurship-chennai) a good option for PGDM/MBA?
-Yes, Xavier Institute of Management & Entrepreneurship, Chennai is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Xavier Institute of Management & Entrepreneurship, Chennai](/colleges/xavier-institute-of-management-entrepreneurship-chennai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Xavier Institute of Management & Entrepreneurship, Chennai?
 The average placement package at Xavier Institute of Management & Entrepreneurship, Chennai is approximately ₹5.7 LPA, with the highest package reaching up to ₹11.7 LPA.

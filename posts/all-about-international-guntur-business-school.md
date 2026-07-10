@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International Guntur Business School](/colleges/international-guntur-business-school) a good option for PGDM/MBA?
-Yes, International Guntur Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International Guntur Business School](/colleges/international-guntur-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Guntur Business School?
 The average placement package at International Guntur Business School is approximately ₹7.1 LPA, with the highest package reaching up to ₹18.5 LPA.

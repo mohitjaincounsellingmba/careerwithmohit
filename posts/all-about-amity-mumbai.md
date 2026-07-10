@@ -61,12 +61,12 @@ Yes, [Amity University](/colleges/amity-noida) Mumbai is a highly respected inst
 ### 2. What is the average package offered at [Amity University Mumbai](/colleges/amity-mumbai)?
 The average placement package at [Amity University](/colleges/amity-noida) Mumbai is approximately ₹7.0 LPA, with the highest package reaching up to ₹15.0 LPA.
 
-### 3. What entrance exams are accepted by Amity University Mumbai?
+### 3. What entrance exams are accepted by [Amity University Mumbai](/colleges/amity-mumbai)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, Amity JEE for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: Amity University Mumbai is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Amity University](/colleges/amity-noida) Mumbai is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Amity University Mumbai](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

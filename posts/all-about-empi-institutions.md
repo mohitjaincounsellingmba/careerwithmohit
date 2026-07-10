@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [EMPI Institutions](/colleges/empi-institutions) a good option for PGDM/MBA?
-Yes, EMPI Institutions is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [EMPI Institutions](/colleges/empi-institutions) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at EMPI Institutions?
 The average placement package at EMPI Institutions is approximately ₹6.5 LPA, with the highest package reaching up to ₹12.0 LPA.

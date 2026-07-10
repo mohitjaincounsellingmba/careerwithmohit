@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [IMI Kolkata](/colleges/imi-kolkata) a good option for PGDM/MBA?
-Yes, IMI Kolkata is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [IMI Kolkata](/colleges/imi-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at IMI Kolkata?
 The average placement package at IMI Kolkata is approximately ₹10.5 LPA, with the highest package reaching up to ₹20.3 LPA.

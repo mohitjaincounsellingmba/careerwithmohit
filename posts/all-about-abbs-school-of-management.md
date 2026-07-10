@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [ABBS School of Management](/colleges/abbs-school-of-management) a good option for PGDM/MBA?
-Yes, ABBS School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [ABBS School of Management](/colleges/abbs-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at ABBS School of Management?
 The average placement package at ABBS School of Management is approximately ₹7.5 LPA, with the highest package reaching up to ₹7.5 LPA.

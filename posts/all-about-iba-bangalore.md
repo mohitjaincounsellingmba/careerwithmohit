@@ -61,12 +61,12 @@ Yes, [Indus Business Academy](/colleges/indus-business-academy) (IBA) is a highl
 ### 2. What is the average package offered at [Indus Business Academy (IBA)](/colleges/iba-bangalore)?
 The average placement package at [Indus Business Academy](/colleges/indus-business-academy) (IBA) is approximately ₹9.2 LPA, with the highest package reaching up to ₹18.0 LPA.
 
-### 3. What entrance exams are accepted by Indus Business Academy (IBA)?
+### 3. What entrance exams are accepted by [Indus Business Academy (IBA)](/colleges/iba-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: Indus Business Academy (IBA) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Indus Business Academy](/colleges/indus-business-academy) (IBA) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Indus Business Academy (IBA)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

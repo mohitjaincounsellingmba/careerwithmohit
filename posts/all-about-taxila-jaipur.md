@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Taxila Business School](/colleges/taxila-jaipur) a good option for PGDM/MBA?
-Yes, Taxila Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Taxila Business School](/colleges/taxila-jaipur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Taxila Business School?
 The average placement package at Taxila Business School is approximately ₹10.5 LPA, with the highest package reaching up to ₹28.0 LPA.

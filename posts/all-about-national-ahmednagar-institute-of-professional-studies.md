@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [National Ahmednagar Institute of Professional Studies](/colleges/national-ahmednagar-institute-of-professional-studies) a good option for PGDM/MBA?
-Yes, National Ahmednagar Institute of Professional Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [National Ahmednagar Institute of Professional Studies](/colleges/national-ahmednagar-institute-of-professional-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at National Ahmednagar Institute of Professional Studies?
 The average placement package at National Ahmednagar Institute of Professional Studies is approximately ₹7.8 LPA, with the highest package reaching up to ₹17.0 LPA.

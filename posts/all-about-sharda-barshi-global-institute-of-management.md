@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Sharda Barshi Global Institute of Management](/colleges/sharda-barshi-global-institute-of-management) a good option for PGDM/MBA?
-Yes, Sharda Barshi Global Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Sharda Barshi Global Institute of Management](/colleges/sharda-barshi-global-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Sharda Barshi Global Institute of Management?
 The average placement package at Sharda Barshi Global Institute of Management is approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.

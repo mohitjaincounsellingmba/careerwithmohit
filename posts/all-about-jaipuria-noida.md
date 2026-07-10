@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Jaipuria Noida](/colleges/jaipuria-noida) a good option for PGDM/MBA?
-Yes, Jaipuria Noida is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Jaipuria Noida](/colleges/jaipuria-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Jaipuria Noida?
 The average placement package at Jaipuria Noida is approximately ₹12.88 LPA, with the highest package reaching up to ₹36.64 LPA.

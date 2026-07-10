@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) a good option for PGDM/MBA?
-Yes, Vignana Jyothi Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Vignana Jyothi Institute of Management?
 The average placement package at Vignana Jyothi Institute of Management is approximately ₹6.0 LPA, with the highest package reaching up to ₹12.3 LPA.

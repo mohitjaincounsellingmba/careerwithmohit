@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Christ University Bangalore](/colleges/christ-university-bangalore) a good option for PGDM/MBA?
-Yes, Christ University Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Christ University Bangalore](/colleges/christ-university-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Christ University Bangalore?
 The average placement package at Christ University Bangalore is approximately ₹7.7 LPA, with the highest package reaching up to ₹15.0 LPA.

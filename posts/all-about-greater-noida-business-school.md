@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Greater Noida Business School](/colleges/greater-noida-business-school) a good option for PGDM/MBA?
-Yes, Greater Noida Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Greater Noida Business School](/colleges/greater-noida-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Greater Noida Business School?
 The average placement package at Greater Noida Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹18.5 LPA.

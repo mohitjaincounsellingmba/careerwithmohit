@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi) a good option for PGDM/MBA?
-Yes, Gitarattan International Business School (GIBS) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Gitarattan International Business School (GIBS)?
 The average placement package at Gitarattan International Business School (GIBS) is approximately ₹5.5 LPA, with the highest package reaching up to ₹10.0 LPA.

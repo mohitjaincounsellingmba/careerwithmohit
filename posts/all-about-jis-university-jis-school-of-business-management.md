@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [JIS University, JIS School of Business Management](/colleges/jis-university-jis-school-of-business-management) a good option for PGDM/MBA?
-Yes, JIS University, JIS School of Business Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [JIS University, JIS School of Business Management](/colleges/jis-university-jis-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at JIS University, JIS School of Business Management?
 The average placement package at JIS University, JIS School of Business Management is approximately ₹5.1 LPA, with the highest package reaching up to ₹9.0 LPA.

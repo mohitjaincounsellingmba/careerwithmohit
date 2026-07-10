@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Suryadatta Udaipur Institute of Business Studies](/colleges/suryadatta-udaipur-institute-of-business-studies) a good option for PGDM/MBA?
-Yes, Suryadatta Udaipur Institute of Business Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Suryadatta Udaipur Institute of Business Studies](/colleges/suryadatta-udaipur-institute-of-business-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Suryadatta Udaipur Institute of Business Studies?
 The average placement package at Suryadatta Udaipur Institute of Business Studies is approximately ₹7.8 LPA, with the highest package reaching up to ₹17.0 LPA.

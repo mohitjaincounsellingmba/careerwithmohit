@@ -61,12 +61,12 @@ Yes, [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-mana
 ### 2. What is the average package offered at [Suryadatta Institute of Management & Mass Communication](/colleges/suryadatta-institute-of-management-mass-communication)?
 The average placement package at [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) & Mass Communication is approximately ₹6.0 LPA, with the highest package reaching up to ₹13.3 LPA.
 
-### 3. What entrance exams are accepted by Suryadatta Institute of Management & Mass Communication?
+### 3. What entrance exams are accepted by [Suryadatta Institute of Management & Mass Communication](/colleges/suryadatta-institute-of-management-mass-communication)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: Suryadatta Institute of Management & Mass Communication is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) & Mass Communication is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Suryadatta Institute of Management & Mass Communication](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

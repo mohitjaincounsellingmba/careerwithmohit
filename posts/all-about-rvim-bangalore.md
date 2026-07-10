@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [RVIM Bangalore](/colleges/rvim-bangalore) a good option for PGDM/MBA?
-Yes, RVIM Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [RVIM Bangalore](/colleges/rvim-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at RVIM Bangalore?
 The average placement package at RVIM Bangalore is approximately ₹7.2 LPA, with the highest package reaching up to ₹15.0 LPA.

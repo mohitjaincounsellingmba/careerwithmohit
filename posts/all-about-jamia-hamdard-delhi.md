@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Jamia Hamdard](/colleges/jamia-hamdard-delhi) a good option for PGDM/MBA?
-Yes, Jamia Hamdard is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Jamia Hamdard](/colleges/jamia-hamdard-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Jamia Hamdard?
 The average placement package at Jamia Hamdard is approximately ₹5.52 LPA, with the highest package reaching up to ₹10.00 LPA.

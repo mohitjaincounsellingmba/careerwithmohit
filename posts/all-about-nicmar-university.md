@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [NICMAR University](/colleges/nicmar-university) a good option for PGDM/MBA?
-Yes, NICMAR University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [NICMAR University](/colleges/nicmar-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at NICMAR University?
 The average placement package at NICMAR University is approximately ₹6.8 LPA, with the highest package reaching up to ₹16.1 LPA.

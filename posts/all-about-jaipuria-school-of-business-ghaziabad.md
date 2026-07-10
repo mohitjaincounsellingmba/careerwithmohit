@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) a good option for PGDM/MBA?
-Yes, Jaipuria School of Business is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Jaipuria School of Business?
 The average placement package at Jaipuria School of Business is approximately ₹7.0 LPA, with the highest package reaching up to ₹15.0 LPA.

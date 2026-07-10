@@ -61,12 +61,12 @@ Yes, Ramaiah [Institute of Management Studies](/colleges/institute-of-management
 ### 2. What is the average package offered at [Ramaiah Institute of Management Studies](/colleges/ramaiah-institute-of-management-studies)?
 The average placement package at Ramaiah [Institute of Management Studies](/colleges/institute-of-management-studies) is approximately ₹6.7 LPA, with the highest package reaching up to ₹14.8 LPA.
 
-### 3. What entrance exams are accepted by Ramaiah Institute of Management Studies?
+### 3. What entrance exams are accepted by [Ramaiah Institute of Management Studies](/colleges/ramaiah-institute-of-management-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: Ramaiah Institute of Management Studies is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: Ramaiah [Institute of Management Studies](/colleges/institute-of-management-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Ramaiah Institute of Management Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

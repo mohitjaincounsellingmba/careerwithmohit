@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Globsyn Business School](/colleges/globsyn-kolkata) a good option for PGDM/MBA?
-Yes, Globsyn Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Globsyn Business School](/colleges/globsyn-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Globsyn Business School?
 The average placement package at Globsyn Business School is approximately ₹7.5 LPA, with the highest package reaching up to ₹23.0 LPA.

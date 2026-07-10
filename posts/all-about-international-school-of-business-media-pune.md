@@ -61,12 +61,12 @@ Yes, [International School of Business & Media](/colleges/international-school-o
 ### 2. What is the average package offered at [International School of Business & Media, Pune](/colleges/international-school-of-business-media-pune)?
 The average placement package at [International School of Business & Media](/colleges/international-school-of-business-media), Pune is approximately ₹6.8 LPA, with the highest package reaching up to ₹16.6 LPA.
 
-### 3. What entrance exams are accepted by International School of Business & Media, Pune?
+### 3. What entrance exams are accepted by [International School of Business & Media, Pune](/colleges/international-school-of-business-media-pune)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: International School of Business & Media, Pune is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [International School of Business & Media](/colleges/international-school-of-business-media), Pune is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to International School of Business & Media, Pune](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Amity Bidar Business School](/colleges/amity-bidar-business-school) a good option for PGDM/MBA?
-Yes, Amity Bidar Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Amity Bidar Business School](/colleges/amity-bidar-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Amity Bidar Business School?
 The average placement package at Amity Bidar Business School is approximately ₹5.7 LPA, with the highest package reaching up to ₹24.5 LPA.

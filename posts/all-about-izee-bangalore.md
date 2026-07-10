@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [IZee Business School](/colleges/izee-bangalore) a good option for PGDM/MBA?
-Yes, IZee Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [IZee Business School](/colleges/izee-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at IZee Business School?
 The average placement package at IZee Business School is approximately ₹6.5 LPA, with the highest package reaching up to ₹15.0 LPA.

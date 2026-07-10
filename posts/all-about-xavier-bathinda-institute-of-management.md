@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Xavier Bathinda Institute of Management](/colleges/xavier-bathinda-institute-of-management) a good option for PGDM/MBA?
-Yes, Xavier Bathinda Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Xavier Bathinda Institute of Management](/colleges/xavier-bathinda-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Xavier Bathinda Institute of Management?
 The average placement package at Xavier Bathinda Institute of Management is approximately ₹6.4 LPA, with the highest package reaching up to ₹14.0 LPA.

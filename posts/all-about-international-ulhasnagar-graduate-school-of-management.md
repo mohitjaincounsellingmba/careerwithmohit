@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International Ulhasnagar Graduate School of Management](/colleges/international-ulhasnagar-graduate-school-of-management) a good option for PGDM/MBA?
-Yes, International Ulhasnagar Graduate School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International Ulhasnagar Graduate School of Management](/colleges/international-ulhasnagar-graduate-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International Ulhasnagar Graduate School of Management?
 The average placement package at International Ulhasnagar Graduate School of Management is approximately ₹7.1 LPA, with the highest package reaching up to ₹21.5 LPA.

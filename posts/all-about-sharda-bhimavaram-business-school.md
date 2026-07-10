@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Sharda Bhimavaram Business School](/colleges/sharda-bhimavaram-business-school) a good option for PGDM/MBA?
-Yes, Sharda Bhimavaram Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Sharda Bhimavaram Business School](/colleges/sharda-bhimavaram-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Sharda Bhimavaram Business School?
 The average placement package at Sharda Bhimavaram Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹24.5 LPA.

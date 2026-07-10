@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Xavier Bangalore Institute of Management](/colleges/xavier-bangalore-institute-of-management) a good option for PGDM/MBA?
-Yes, Xavier Bangalore Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Xavier Bangalore Institute of Management](/colleges/xavier-bangalore-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Xavier Bangalore Institute of Management?
 The average placement package at Xavier Bangalore Institute of Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹14.0 LPA.

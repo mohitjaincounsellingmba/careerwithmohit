@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [ITM Skill University](/colleges/itm-skill-university) a good option for PGDM/MBA?
-Yes, ITM Skill University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [ITM Skill University](/colleges/itm-skill-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at ITM Skill University?
 The average placement package at ITM Skill University is approximately ₹6.1 LPA, with the highest package reaching up to ₹13.7 LPA.

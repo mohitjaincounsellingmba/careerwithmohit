@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Mangalmay Institute of Management (MIMT)](/colleges/mangalmay-greater-noida) a good option for PGDM/MBA?
-Yes, Mangalmay Institute of Management (MIMT) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Mangalmay Institute of Management (MIMT)](/colleges/mangalmay-greater-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Mangalmay Institute of Management (MIMT)?
 The average placement package at Mangalmay Institute of Management (MIMT) is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.4 LPA.

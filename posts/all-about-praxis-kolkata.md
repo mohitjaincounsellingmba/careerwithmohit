@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Praxis Business School](/colleges/praxis-kolkata) a good option for PGDM/MBA?
-Yes, Praxis Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Praxis Business School](/colleges/praxis-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Praxis Business School?
 The average placement package at Praxis Business School is approximately ₹9.0 LPA, with the highest package reaching up to ₹17.6 LPA.

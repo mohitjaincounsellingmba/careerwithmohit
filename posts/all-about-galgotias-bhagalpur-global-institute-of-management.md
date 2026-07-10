@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Galgotias Bhagalpur Global Institute of Management](/colleges/galgotias-bhagalpur-global-institute-of-management) a good option for PGDM/MBA?
-Yes, Galgotias Bhagalpur Global Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Galgotias Bhagalpur Global Institute of Management](/colleges/galgotias-bhagalpur-global-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Galgotias Bhagalpur Global Institute of Management?
 The average placement package at Galgotias Bhagalpur Global Institute of Management is approximately ₹7.1 LPA, with the highest package reaching up to ₹18.5 LPA.

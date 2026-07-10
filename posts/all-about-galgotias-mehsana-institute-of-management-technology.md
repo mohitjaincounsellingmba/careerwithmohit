@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Galgotias Mehsana Institute of Management & Technology](/colleges/galgotias-mehsana-institute-of-management-technology) a good option for PGDM/MBA?
-Yes, Galgotias Mehsana Institute of Management & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Galgotias Mehsana Institute of Management & Technology](/colleges/galgotias-mehsana-institute-of-management-technology) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Galgotias Mehsana Institute of Management & Technology?
 The average placement package at Galgotias Mehsana Institute of Management & Technology is approximately ₹8.5 LPA, with the highest package reaching up to ₹15.5 LPA.

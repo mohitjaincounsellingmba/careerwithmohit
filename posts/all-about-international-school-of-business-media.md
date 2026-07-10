@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [International School of Business & Media](/colleges/international-school-of-business-media) a good option for PGDM/MBA?
-Yes, International School of Business & Media is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [International School of Business & Media](/colleges/international-school-of-business-media) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at International School of Business & Media?
 The average placement package at International School of Business & Media is approximately ₹6 LPA, with the highest package reaching up to ₹10 LPA.

@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Xavier Udhagamandalam School of Business & Management](/colleges/xavier-udhagamandalam-school-of-business-management) a good option for PGDM/MBA?
-Yes, Xavier Udhagamandalam School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Xavier Udhagamandalam School of Business & Management](/colleges/xavier-udhagamandalam-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Xavier Udhagamandalam School of Business & Management?
 The average placement package at Xavier Udhagamandalam School of Business & Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹23.0 LPA.

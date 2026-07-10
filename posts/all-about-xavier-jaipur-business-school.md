@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Xavier Jaipur Business School](/colleges/xavier-jaipur-business-school) a good option for PGDM/MBA?
-Yes, Xavier Jaipur Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Xavier Jaipur Business School](/colleges/xavier-jaipur-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Xavier Jaipur Business School?
 The average placement package at Xavier Jaipur Business School is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.

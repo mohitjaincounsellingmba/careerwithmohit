@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Poddar Business School](/colleges/poddar-jaipur) a good option for PGDM/MBA?
-Yes, Poddar Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Poddar Business School](/colleges/poddar-jaipur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Poddar Business School?
 The average placement package at Poddar Business School is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.0 LPA.

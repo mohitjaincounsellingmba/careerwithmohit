@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) a good option for PGDM/MBA?
-Yes, Siva Sivani Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Siva Sivani Institute of Management?
 The average placement package at Siva Sivani Institute of Management is approximately ₹4.9 LPA, with the highest package reaching up to ₹10.5 LPA.

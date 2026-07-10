@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Development Management Institute](/colleges/development-management-institute) a good option for PGDM/MBA?
-Yes, Development Management Institute is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Development Management Institute](/colleges/development-management-institute) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at Development Management Institute?
 The average placement package at Development Management Institute is approximately ₹5 LPA, with the highest package reaching up to ₹8.2 LPA.

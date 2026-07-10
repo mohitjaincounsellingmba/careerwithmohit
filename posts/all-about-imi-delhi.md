@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [IMI Delhi](/colleges/imi-delhi) a good option for PGDM/MBA?
-Yes, IMI Delhi is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [IMI Delhi](/colleges/imi-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at IMI Delhi?
 The average placement package at IMI Delhi is approximately ₹16.56 LPA, with the highest package reaching up to ₹40.0 LPA.

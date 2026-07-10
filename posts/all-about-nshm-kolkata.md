@@ -56,7 +56,7 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [NSHM Knowledge Campus](/colleges/nshm-kolkata) a good option for PGDM/MBA?
-Yes, NSHM Knowledge Campus is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [NSHM Knowledge Campus](/colleges/nshm-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at NSHM Knowledge Campus?
 The average placement package at NSHM Knowledge Campus is approximately ₹6.0 LPA, with the highest package reaching up to ₹12.0 LPA.
