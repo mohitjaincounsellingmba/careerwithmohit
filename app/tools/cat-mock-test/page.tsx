@@ -1,12 +1,13 @@
 import { Metadata } from 'next';
+import Link from 'next/link';
 import { GenericMockTestClient } from '@/components/GenericMockTest/GenericMockTestClient';
 import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
 import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Presentation, Award, GraduationCap, ShieldCheck, PieChart } from 'lucide-react';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Free CAT Mock Test 2026 | IIM 99+ Percentile Mock Tool',
-  description: 'Take our free full-length CAT 2026 mock test. 66 questions, 120 minutes, with sectional 40-minute timers. Get instant percentile prediction, VARC analysis, and IIM admission guide.',
+  title: 'Free CAT Mock Test 2026 | Best Online IIM Practice Exam',
+  description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 66-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
   keywords: [
     'CAT 2026 mock test', 'CAT 2026 test series', 'Best mock test for CAT 2026', 'CAT 2026 preparation material', 
     'Online CAT coaching 2026', 'CAT exam 2026 date', 'CAT 2026 syllabus PDF', 'Free CAT mock test 2026', 
@@ -21,11 +22,11 @@ export const metadata: Metadata = {
     'CAT 2026 notification updates', 'Daily targets for CAT 2026 preparation', 'MBA entrance exams 2026 list'
   ],
   alternates: {
-    canonical: '/tools/cat-mock-test',
+    canonical: 'https://www.careerwithmohit.online/tools/cat-mock-test',
   },
   openGraph: {
-    title: 'Free CAT Mock Test 2026 | Master the IIM Admissions',
-    description: 'Master the Common Admission Test (CAT) with our realistic mock tool. Experience 2-hour intense management testing with AI analysis and sectional reports.',
+    title: 'Free CAT Mock Test 2026 | Best Online IIM Practice Exam',
+    description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 66-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/cat-mock-test',
     images: [
@@ -39,8 +40,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free CAT Mock Test 2026 | Master the IIM Admissions',
-    description: 'Realistic 66-question CAT mock test for IIM aspirants. Includes sectional 40-minute timers and a percentile predictor.',
+    title: 'Free CAT Mock Test 2026 | Best Online IIM Practice Exam',
+    description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 66-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
     images: ['/og-image.webp'],
   }
 };
@@ -58,14 +59,57 @@ export default function CatMockTestPage() {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
     "name": "CAT 2026 Mock Test Tool",
-    "operatingSystem": "Web",
+    "operatingSystem": "Windows, macOS, Android, iOS, Web",
     "applicationCategory": "EducationalApplication",
+    "softwareVersion": "2026.1.0",
     "description": "Realistic 66-question CAT mock test for IIM aspirants. Includes sectional 40-minute timers and a percentile predictor for top management institutes like FMS and XLRI.",
     "offers": {
       "@type": "Offer",
       "price": "0",
       "priceCurrency": "INR"
     }
+  };
+
+  const quizSchema = {
+    "@context": "https://schema.org",
+    "@type": "Quiz",
+    "name": "CAT 2026 Full-Length Mock Test",
+    "description": "Realistic 66-question Common Admission Test simulation with VARC, DILR, and QA sections.",
+    "about": {
+      "@type": "Thing",
+      "name": "Common Admission Test (CAT)"
+    },
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalLevel",
+      "targetName": "Postgraduate Management Admissions (IIMs)"
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Verbal Ability & Reading Comprehension Section",
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "targetName": "English Language & Reading Comprehension"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Data Interpretation & Logical Reasoning Section",
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "targetName": "Logical Reasoning & Data Interpretation"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quantitative Ability Section",
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "targetName": "Mathematics & Quantitative Aptitude"
+        }
+      }
+    ]
   };
 
   const breadcrumbSchema = {
@@ -114,6 +158,10 @@ export default function CatMockTestPage() {
       />
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(quizSchema) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       {faqSchema && (
@@ -127,7 +175,7 @@ export default function CatMockTestPage() {
         {/* Hero Section */}
         <div className="mb-12 text-center">
           <h1 className="text-5xl md:text-7xl font-black uppercase mb-4 leading-none">
-            CAT <span className="text-primary italic">2026</span> Mock Test
+            Free CAT <span className="text-primary italic">2026</span> Mock Test
           </h1>
           <div className="inline-block bg-accent px-6 py-2 border-4 border-foreground transform -rotate-2">
             <p className="font-bold uppercase tracking-widest text-lg md:text-xl">Full-Length 120 Minute IIM Practice Simulation</p>
@@ -169,7 +217,7 @@ export default function CatMockTestPage() {
           <section id="marks" className="bg-white border-4 border-foreground p-10 shadow-[12px_12px_0px_0px_rgba(var(--primary-rgb),1)]">
             <div className="flex items-center gap-4 mb-8">
               <BarChart3 className="w-10 h-10 text-primary" strokeWidth={3} />
-              <h2 className="text-3xl font-black uppercase tracking-tighter">CAT 2026: Score vs Percentile Chart</h2>
+              <h2 className="text-3xl font-black uppercase tracking-tighter">CAT 2026 Score vs Percentile Chart & Projections</h2>
             </div>
             <p className="mb-8 text-gray-600 font-medium leading-relaxed">
               Based on historical data from IIM Lucknow (2023) and IIM Calcutta (2024), here is the projected raw score required (out of 198) to hit your dream percentile.
@@ -197,7 +245,7 @@ export default function CatMockTestPage() {
           {/* Top Colleges & Cutoffs Section */}
           <section id="colleges">
             <h2 className="text-4xl font-black uppercase mb-12 flex items-center gap-4 text-foreground">
-              <Target className="w-10 h-10 text-primary" strokeWidth={3} /> Top IIMs & Expected Cutoffs
+              <Target className="w-10 h-10 text-primary" strokeWidth={3} /> Top IIMs & Expected Cutoffs for CAT 2026
             </h2>
             <div className="overflow-x-auto border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(var(--primary-rgb),0.3)]">
               <table className="w-full text-left border-collapse">
@@ -231,7 +279,7 @@ export default function CatMockTestPage() {
 
           <section id="sections">
             <h2 className="text-4xl font-black uppercase mb-12 flex items-center gap-4">
-              <PieChart className="w-10 h-10 text-primary" /> CAT Sectional Strategies
+              <PieChart className="w-10 h-10 text-primary" /> Section-wise Prep Strategy: VARC, DILR, and QA
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {[
@@ -323,7 +371,7 @@ export default function CatMockTestPage() {
           {/* FAQs Section */}
           <section id="faq" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
             <h2 className="text-3xl font-black uppercase mb-12 flex items-center gap-4">
-              <HelpCircle className="w-10 h-10 text-primary" /> Management Hub FAQs
+              <HelpCircle className="w-10 h-10 text-primary" /> CAT Mock Test 2026: Frequently Asked Questions
             </h2>
             <div className="space-y-8">
               {config.faqs?.map((faq, i) => (
@@ -338,6 +386,39 @@ export default function CatMockTestPage() {
                 </div>
               ))}
             </div>
+          </section>
+
+          {/* Legacy Test Series Comparison Section (AIMCAT, SimCAT, CDC) */}
+          <section id="comparison" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h2 className="text-3xl font-black uppercase mb-6 flex items-center gap-4">
+              <Presentation className="w-10 h-10 text-primary" strokeWidth={3} /> CAT 2026 Mock Test vs. Legacy Test Series
+            </h2>
+            <p className="mb-6 text-gray-600 font-medium leading-relaxed">
+              When preparing for CAT, aspirants frequently compare leading national test series like <strong>TIME's AIMCAT</strong>, <strong>IMS's SimCAT</strong>, and <strong>Career Launcher's (CL) CDC</strong>. Below is a realistic breakdown of how our free online practice simulator compares to these legacy offerings:
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              <div className="border-4 border-foreground p-6 bg-slate-50">
+                <h4 className="font-extrabold uppercase mb-2 text-primary">Legacy Test Series (AIMCAT / SimCAT / CDC)</h4>
+                <ul className="space-y-2 text-sm font-semibold text-gray-600 list-disc list-inside">
+                  <li><strong>Target:</strong> Large-scale national bench-marking with high percentile scaling.</li>
+                  <li><strong>Toughness:</strong> Often deliberately harder than the actual exam to build resistance.</li>
+                  <li><strong>Price:</strong> Highly premium (ranges between ₹5,000 to ₹10,000+).</li>
+                  <li><strong>Analytics:</strong> General score percentiles but lacking dynamic personalized study roadmaps.</li>
+                </ul>
+              </div>
+              <div className="border-4 border-foreground p-6 bg-primary/5">
+                <h4 className="font-extrabold uppercase mb-2 text-primary">Our Free CAT Mock Simulation Tool</h4>
+                <ul className="space-y-2 text-sm font-semibold text-gray-800 list-disc list-inside">
+                  <li><strong>Target:</strong> Realistic toughness level matching recent IIM papers (2023 & 2024).</li>
+                  <li><strong>Toughness:</strong> Curated moderate-to-tough balance that reflects the actual exam structure.</li>
+                  <li><strong>Price:</strong> 100% Free - no subscription or credit card details required.</li>
+                  <li><strong>Analytics:</strong> Dynamic score calculation, instant percentile prediction, and profile evaluation.</li>
+                </ul>
+              </div>
+            </div>
+            <p className="mt-6 text-sm text-gray-500 font-bold italic">
+              *While legacy test series are crucial for final benchmarking, our free simulator is the perfect daily utility tool to evaluate your prep level, practice sectional timings, and get instant admissions profiling without any cost.
+            </p>
           </section>
 
           {/* Popular CAT 2026 Search Phrases (SEO Section) */}
@@ -417,6 +498,33 @@ export default function CatMockTestPage() {
                    <li><ArrowRight className="inline w-3 h-3 mr-1 text-primary"/> MBA entrance exams 2026 list</li>
                  </ul>
                </div>
+            </div>
+          </section>
+
+          {/* Related MBA Prep Tools (SEO Cross-Linking) */}
+          <section id="related-tools" className="mt-12">
+            <h2 className="text-3xl font-black uppercase mb-6 flex items-center gap-4">
+              <Award className="w-10 h-10 text-primary" strokeWidth={3} /> Related MBA Prep Tools & Resources
+            </h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+              {[
+                { name: 'CAT Score Calculator', desc: 'Convert raw marks to percentile', href: '/tools/cat-score-calculator' },
+                { name: 'NMAT Mock Test', desc: 'Attempt adaptive NMAT practice sets', href: '/tools/nmat-mock-test' },
+                { name: 'MHCET MBA Mock Test', desc: 'Practice for Maharashtra CET MBA', href: '/tools/mhcet-mock-test' },
+                { name: 'ATMA Mock Test 2026', desc: 'Free full-length ATMA simulation', href: '/tools/atma-mock-test' }
+              ].map((tool, idx) => (
+                <Link
+                  key={idx}
+                  href={tool.href}
+                  className="bg-white border-4 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-none hover:translate-x-1 hover:translate-y-1 transition-all flex flex-col justify-between group"
+                >
+                  <div>
+                    <h4 className="font-extrabold text-lg uppercase group-hover:text-primary transition-colors">{tool.name}</h4>
+                    <p className="text-xs font-semibold text-gray-500 mt-2 italic">{tool.desc}</p>
+                  </div>
+                  <span className="font-black text-sm text-primary uppercase mt-4 inline-block group-hover:underline">Launch Tool &rarr;</span>
+                </Link>
+              ))}
             </div>
           </section>
 
