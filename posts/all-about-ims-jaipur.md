@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to Institute of Management Studies (IIIM)](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Sharda Guntakal Graduate School of Management](/colleges/sharda-guntakal-graduate-school-of-management) a good option for PGDM/MBA?
 Yes, [Sharda Guntakal Graduate School of Management](/colleges/sharda-guntakal-graduate-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Sharda Guntakal Graduate School of Management?
+### 2. What is the average package offered at [Sharda Guntakal Graduate School of Management](/colleges/sharda-guntakal-graduate-school-of-management)?
 The average placement package at Sharda Guntakal Graduate School of Management is approximately ₹5.7 LPA, with the highest package reaching up to ₹12.5 LPA.
 
 ### 3. What entrance exams are accepted by Sharda Guntakal Graduate School of Management?

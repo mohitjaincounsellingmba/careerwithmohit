@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Jain University](/colleges/jain-university) a good option for PGDM/MBA?
 Yes, [Jain University](/colleges/jain-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Jain University?
+### 2. What is the average package offered at [Jain University](/colleges/jain-university)?
 The average placement package at Jain University is approximately ₹6.2 LPA, with the highest package reaching up to ₹15.8 LPA.
 
 ### 3. What entrance exams are accepted by Jain University?

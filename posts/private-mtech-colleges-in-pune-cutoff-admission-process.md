@@ -66,7 +66,7 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **MIT World Peace University (MIT-WPU)** | GATE / MIT-WPU PG Test | ₹2.1 Lakhs/year | **₹7.2 LPA** |
+| **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)** | GATE / MIT-WPU PG Test | ₹2.1 Lakhs/year | **₹7.2 LPA** |
 | **Vishwakarma Institute of Technology (VIT Pune)** | GATE / CAP Counseling | ₹1.4 Lakhs/year | **₹8.0 LPA** |
 | **Symbiosis Institute of Technology (SIT Pune)** | GATE / SIT Entrance Exam | ₹1.9 Lakhs/year | **₹7.0 LPA** |
 | **DY Patil College of Engineering (Akurdi)** | GATE / CAP Rounds | ₹1.2 Lakhs/year | **₹5.5 LPA** |

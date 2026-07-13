@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [Amity University](/colleges/amity-noida) Mumbai is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to Amity University Mumbai](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [Amity University](/colleges/amity-noida) Mumbai](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

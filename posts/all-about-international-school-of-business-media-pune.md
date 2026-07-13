@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [International School of Business & Media](/colleges/international-school-of-business-media), Pune is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to International School of Business & Media, Pune](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [International School of Business & Media](/colleges/international-school-of-business-media), Pune](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

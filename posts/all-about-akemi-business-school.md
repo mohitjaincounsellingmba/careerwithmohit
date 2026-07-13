@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [AKEMI Business School](/colleges/akemi-business-school) a good option for PGDM/MBA?
 Yes, [AKEMI Business School](/colleges/akemi-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at AKEMI Business School?
+### 2. What is the average package offered at [AKEMI Business School](/colleges/akemi-business-school)?
 The average placement package at AKEMI Business School is approximately ₹4.3 L - ₹7.5 LPA, with the highest package reaching up to ₹18.0 LPA.
 
 ### 3. What entrance exams are accepted by AKEMI Business School?

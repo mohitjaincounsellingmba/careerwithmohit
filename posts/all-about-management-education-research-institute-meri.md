@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri) a good option for PGDM/MBA?
 Yes, [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Management Education & Research Institute (MERI)?
+### 2. What is the average package offered at [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri)?
 The average placement package at Management Education & Research Institute (MERI) is approximately ₹8 LPA, with the highest package reaching up to ₹14 LPA.
 
 ### 3. What entrance exams are accepted by Management Education & Research Institute (MERI)?

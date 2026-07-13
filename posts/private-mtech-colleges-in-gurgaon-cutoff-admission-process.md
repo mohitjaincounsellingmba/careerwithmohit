@@ -59,9 +59,9 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **The NorthCap University (NCU)** | GATE / NCU Entrance Exam | ₹1.7 Lakhs/year | **₹6.2 LPA** |
+| **[The NorthCap University (NCU)](/colleges/ncu-gurgaon)** | GATE / NCU Entrance Exam | ₹1.7 Lakhs/year | **₹6.2 LPA** |
 | **Sushant University (School of Engineering)** | GATE / University Test & Interview | ₹1.4 Lakhs/year | **₹5.0 LPA** |
-| **GD Goenka University** | GATE / Goenka Aptitude Test | ₹1.3 Lakhs/year | **₹4.8 LPA** |
+| **[GD Goenka University](/colleges/gd-goenka-university)** | GATE / Goenka Aptitude Test | ₹1.3 Lakhs/year | **₹4.8 LPA** |
 
 ---
 

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Institute of Health Management Research](/colleges/institute-of-health-management-research) a good option for PGDM/MBA?
 Yes, [Institute of Health Management Research](/colleges/institute-of-health-management-research) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Institute of Health Management Research?
+### 2. What is the average package offered at [Institute of Health Management Research](/colleges/institute-of-health-management-research)?
 The average placement package at Institute of Health Management Research is approximately ₹4.5 LPA, with the highest package reaching up to ₹8.5 LPA.
 
 ### 3. What entrance exams are accepted by Institute of Health Management Research?

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Xavier Kanchipuram Institute of Business Studies](/colleges/xavier-kanchipuram-institute-of-business-studies) a good option for PGDM/MBA?
 Yes, [Xavier Kanchipuram Institute of Business Studies](/colleges/xavier-kanchipuram-institute-of-business-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Xavier Kanchipuram Institute of Business Studies?
+### 2. What is the average package offered at [Xavier Kanchipuram Institute of Business Studies](/colleges/xavier-kanchipuram-institute-of-business-studies)?
 The average placement package at Xavier Kanchipuram Institute of Business Studies is approximately ₹6.4 LPA, with the highest package reaching up to ₹11.0 LPA.
 
 ### 3. What entrance exams are accepted by Xavier Kanchipuram Institute of Business Studies?

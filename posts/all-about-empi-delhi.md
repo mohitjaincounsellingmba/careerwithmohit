@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [EMPI Business School](/colleges/empi-delhi) a good option for PGDM/MBA?
 Yes, [EMPI Business School](/colleges/empi-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at EMPI Business School?
+### 2. What is the average package offered at [EMPI Business School](/colleges/empi-delhi)?
 The average placement package at EMPI Business School is approximately ₹6.5 LPA, with the highest package reaching up to ₹12.0 LPA.
 
 ### 3. What entrance exams are accepted by EMPI Business School?

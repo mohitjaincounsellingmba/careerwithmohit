@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [FUEL Business School](/colleges/fuel-business-school) a good option for PGDM/MBA?
 Yes, [FUEL Business School](/colleges/fuel-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at FUEL Business School?
+### 2. What is the average package offered at [FUEL Business School](/colleges/fuel-business-school)?
 The average placement package at FUEL Business School is approximately ₹7.5 LPA, with the highest package reaching up to ₹16.0 LPA.
 
 ### 3. What entrance exams are accepted by FUEL Business School?

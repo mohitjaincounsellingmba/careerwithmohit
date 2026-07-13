@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Acharya Institute of Graduate Studies](/colleges/acharya-institute-of-graduate-studies) a good option for PGDM/MBA?
 Yes, [Acharya Institute of Graduate Studies](/colleges/acharya-institute-of-graduate-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Acharya Institute of Graduate Studies?
+### 2. What is the average package offered at [Acharya Institute of Graduate Studies](/colleges/acharya-institute-of-graduate-studies)?
 The average placement package at Acharya Institute of Graduate Studies is approximately ₹6.8 LPA, with the highest package reaching up to ₹14.0 LPA.
 
 ### 3. What entrance exams are accepted by Acharya Institute of Graduate Studies?

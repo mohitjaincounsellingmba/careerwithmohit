@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Hari Shankar Singhania School of Business, JK Lakshmipat University](/colleges/hari-shankar-singhania-school-of-business-jk-lakshmipat-university) a good option for PGDM/MBA?
 Yes, [Hari Shankar Singhania School of Business, JK Lakshmipat University](/colleges/hari-shankar-singhania-school-of-business-jk-lakshmipat-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Hari Shankar Singhania School of Business, JK Lakshmipat University?
+### 2. What is the average package offered at [Hari Shankar Singhania School of Business, JK Lakshmipat University](/colleges/hari-shankar-singhania-school-of-business-jk-lakshmipat-university)?
 The average placement package at Hari Shankar Singhania School of Business, JK Lakshmipat University is approximately ₹5.9 LPA, with the highest package reaching up to ₹13.8 LPA.
 
 ### 3. What entrance exams are accepted by Hari Shankar Singhania School of Business, JK Lakshmipat University?

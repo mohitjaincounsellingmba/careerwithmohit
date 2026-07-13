@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon-institute-of-business-studies) a good option for PGDM/MBA?
 Yes, [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon-institute-of-business-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at National Jalgaon Institute of Business Studies?
+### 2. What is the average package offered at [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon-institute-of-business-studies)?
 The average placement package at National Jalgaon Institute of Business Studies is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
 
 ### 3. What entrance exams are accepted by National Jalgaon Institute of Business Studies?

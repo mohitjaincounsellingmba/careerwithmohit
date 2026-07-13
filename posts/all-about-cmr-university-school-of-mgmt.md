@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) a good option for PGDM/MBA?
 Yes, [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at CMR University, School of Mgmt?
+### 2. What is the average package offered at [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt)?
 The average placement package at CMR University, School of Mgmt is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.6 LPA.
 
 ### 3. What entrance exams are accepted by CMR University, School of Mgmt?

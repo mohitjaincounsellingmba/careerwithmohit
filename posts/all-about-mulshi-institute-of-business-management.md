@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Mulshi Institute of Business Management](/colleges/mulshi-institute-of-business-management) a good option for PGDM/MBA?
 Yes, [Mulshi Institute of Business Management](/colleges/mulshi-institute-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Mulshi Institute of Business Management?
+### 2. What is the average package offered at [Mulshi Institute of Business Management](/colleges/mulshi-institute-of-business-management)?
 The average placement package at Mulshi Institute of Business Management is approximately ₹6.5 LPA, with the highest package reaching up to ₹14.2 LPA.
 
 ### 3. What entrance exams are accepted by Mulshi Institute of Business Management?

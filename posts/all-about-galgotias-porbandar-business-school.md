@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Galgotias Porbandar Business School](/colleges/galgotias-porbandar-business-school) a good option for PGDM/MBA?
 Yes, [Galgotias Porbandar Business School](/colleges/galgotias-porbandar-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Galgotias Porbandar Business School?
+### 2. What is the average package offered at [Galgotias Porbandar Business School](/colleges/galgotias-porbandar-business-school)?
 The average placement package at Galgotias Porbandar Business School is approximately ₹7.1 LPA, with the highest package reaching up to ₹21.5 LPA.
 
 ### 3. What entrance exams are accepted by Galgotias Porbandar Business School?

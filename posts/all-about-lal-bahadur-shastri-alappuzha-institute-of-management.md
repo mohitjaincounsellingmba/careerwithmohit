@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Lal Bahadur Shastri Alappuzha Institute of Management](/colleges/lal-bahadur-shastri-alappuzha-institute-of-management) a good option for PGDM/MBA?
 Yes, [Lal Bahadur Shastri Alappuzha Institute of Management](/colleges/lal-bahadur-shastri-alappuzha-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Lal Bahadur Shastri Alappuzha Institute of Management?
+### 2. What is the average package offered at [Lal Bahadur Shastri Alappuzha Institute of Management](/colleges/lal-bahadur-shastri-alappuzha-institute-of-management)?
 The average placement package at Lal Bahadur Shastri Alappuzha Institute of Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
 
 ### 3. What entrance exams are accepted by Lal Bahadur Shastri Alappuzha Institute of Management?

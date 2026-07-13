@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Uttaranchal University](/colleges/uttaranchal-university) a good option for PGDM/MBA?
 Yes, [Uttaranchal University](/colleges/uttaranchal-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Uttaranchal University?
+### 2. What is the average package offered at [Uttaranchal University](/colleges/uttaranchal-university)?
 The average placement package at Uttaranchal University is approximately ₹4 LPA, with the highest package reaching up to ₹150 LPA.
 
 ### 3. What entrance exams are accepted by Uttaranchal University?

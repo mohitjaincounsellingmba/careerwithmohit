@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) a good option for PGDM/MBA?
 Yes, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Great Lakes Gurgaon?
+### 2. What is the average package offered at [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)?
 The average placement package at Great Lakes Gurgaon is approximately ₹11.8 LPA, with the highest package reaching up to ₹25.5 LPA.
 
 ### 3. What entrance exams are accepted by Great Lakes Gurgaon?

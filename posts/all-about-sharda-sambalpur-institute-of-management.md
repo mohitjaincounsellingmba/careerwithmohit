@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Sharda Sambalpur Institute of Management](/colleges/sharda-sambalpur-institute-of-management) a good option for PGDM/MBA?
 Yes, [Sharda Sambalpur Institute of Management](/colleges/sharda-sambalpur-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Sharda Sambalpur Institute of Management?
+### 2. What is the average package offered at [Sharda Sambalpur Institute of Management](/colleges/sharda-sambalpur-institute-of-management)?
 The average placement package at Sharda Sambalpur Institute of Management is approximately ₹6.4 LPA, with the highest package reaching up to ₹23.0 LPA.
 
 ### 3. What entrance exams are accepted by Sharda Sambalpur Institute of Management?

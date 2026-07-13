@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) a good option for PGDM/MBA?
 Yes, [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Chandragupt Institute of Management Patna?
+### 2. What is the average package offered at [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna)?
 The average placement package at Chandragupt Institute of Management Patna is approximately ₹7.50 LPA, with the highest package reaching up to ₹24.80 LPA.
 
 ### 3. What entrance exams are accepted by Chandragupt Institute of Management Patna?

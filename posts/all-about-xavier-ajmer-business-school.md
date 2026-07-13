@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) a good option for PGDM/MBA?
 Yes, [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Xavier Ajmer Business School?
+### 2. What is the average package offered at [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school)?
 The average placement package at Xavier Ajmer Business School is approximately ₹7.1 LPA, with the highest package reaching up to ₹15.5 LPA.
 
 ### 3. What entrance exams are accepted by Xavier Ajmer Business School?

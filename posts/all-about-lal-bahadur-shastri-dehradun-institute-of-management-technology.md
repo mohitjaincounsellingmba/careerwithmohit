@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [Lal Bahadur Shastri Dehradun Institute of Management](/colleges/lal-bahadur-shastri-dehradun-institute-of-management) & Technology is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to Lal Bahadur Shastri Dehradun Institute of Management & Technology](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [Lal Bahadur Shastri Dehradun Institute of Management](/colleges/lal-bahadur-shastri-dehradun-institute-of-management) & Technology](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Moradabad Institute of Management & Technology](/colleges/moradabad-institute-of-management-technology) a good option for PGDM/MBA?
 Yes, [Moradabad Institute of Management & Technology](/colleges/moradabad-institute-of-management-technology) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Moradabad Institute of Management & Technology?
+### 2. What is the average package offered at [Moradabad Institute of Management & Technology](/colleges/moradabad-institute-of-management-technology)?
 The average placement package at Moradabad Institute of Management & Technology is approximately ₹7.1 LPA, with the highest package reaching up to ₹12.5 LPA.
 
 ### 3. What entrance exams are accepted by Moradabad Institute of Management & Technology?

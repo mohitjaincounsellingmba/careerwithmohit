@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Galgotias Gorakhpur Business School](/colleges/galgotias-gorakhpur-business-school) a good option for PGDM/MBA?
 Yes, [Galgotias Gorakhpur Business School](/colleges/galgotias-gorakhpur-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Galgotias Gorakhpur Business School?
+### 2. What is the average package offered at [Galgotias Gorakhpur Business School](/colleges/galgotias-gorakhpur-business-school)?
 The average placement package at Galgotias Gorakhpur Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.
 
 ### 3. What entrance exams are accepted by Galgotias Gorakhpur Business School?

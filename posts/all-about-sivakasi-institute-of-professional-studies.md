@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Sivakasi Institute of Professional Studies](/colleges/sivakasi-institute-of-professional-studies) a good option for PGDM/MBA?
 Yes, [Sivakasi Institute of Professional Studies](/colleges/sivakasi-institute-of-professional-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Sivakasi Institute of Professional Studies?
+### 2. What is the average package offered at [Sivakasi Institute of Professional Studies](/colleges/sivakasi-institute-of-professional-studies)?
 The average placement package at Sivakasi Institute of Professional Studies is approximately ₹7.8 LPA, with the highest package reaching up to ₹20.0 LPA.
 
 ### 3. What entrance exams are accepted by Sivakasi Institute of Professional Studies?

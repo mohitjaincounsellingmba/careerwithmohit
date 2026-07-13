@@ -75,8 +75,8 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 | :--- | :--- | :--- | :--- |
 | **RV College of Engineering (RVCE)** | GATE / Karnataka PGCET | ₹1.5 Lakhs/year (PGCET) / ₹3.0 Lakhs (Mgmt) | **₹12.5 LPA** |
 | **BMS College of Engineering (BMSCE)** | GATE / Karnataka PGCET | ₹1.4 Lakhs/year (PGCET) / ₹2.8 Lakhs (Mgmt) | **₹11.0 LPA** |
-| **M.S. Ramaiah Institute of Technology (MSRIT)** | GATE / Karnataka PGCET | ₹1.4 Lakhs/year (PGCET) / ₹2.8 Lakhs (Mgmt) | **₹10.2 LPA** |
-| **PES University (RR Campus)** | GATE / Karnataka PGCET / PESSAT | ₹2.2 Lakhs/year | **₹11.5 LPA** |
+| **[M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore)** | GATE / Karnataka PGCET | ₹1.4 Lakhs/year (PGCET) / ₹2.8 Lakhs (Mgmt) | **₹10.2 LPA** |
+| **[PES University](/colleges/pes-university) (RR Campus)** | GATE / Karnataka PGCET / PESSAT | ₹2.2 Lakhs/year | **₹11.5 LPA** |
 | **Alliance School of Engineering & Design** | GATE / Alliance Test & Interview | ₹2.0 Lakhs/year | **₹6.8 LPA** |
 
 ---

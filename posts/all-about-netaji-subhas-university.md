@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Netaji Subhas University](/colleges/netaji-subhas-university) a good option for PGDM/MBA?
 Yes, [Netaji Subhas University](/colleges/netaji-subhas-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Netaji Subhas University?
+### 2. What is the average package offered at [Netaji Subhas University](/colleges/netaji-subhas-university)?
 The average placement package at Netaji Subhas University is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.3 LPA.
 
 ### 3. What entrance exams are accepted by Netaji Subhas University?

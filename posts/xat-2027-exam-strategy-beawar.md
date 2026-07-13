@@ -98,7 +98,7 @@ Preparing for XAT along with CAT can be complex. Let our admission cell evaluate
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which are the best colleges accepting XAT scores for the 2027-28 batch?
-XLRI Jamshedpur and XLRI Delhi-NCR are the premier institutions. Other top colleges accepting XAT scores include SPJIMR (Mumbai), IMT Ghaziabad, XIMB (Bhubaneswar), GIM (Goa), Great Lakes (Chennai), and TAPMI (Manipal).
+[XLRI Jamshedpur](/colleges/xlri-jamshedpur) and XLRI Delhi-NCR are the premier institutions. Other top colleges accepting XAT scores include SPJIMR (Mumbai), IMT Ghaziabad, XIMB (Bhubaneswar), GIM (Goa), Great Lakes (Chennai), and TAPMI (Manipal).
 
 ### Why is the Decision Making section unique in XAT?
 The Decision Making (DM) section is unique because it does not test direct mathematical or linguistic rules. Instead, it tests business ethics, management vision, and logical resolution of real-world corporate conflicts. Consistent practice of past XAT DM sets is key to clearing sectional cut-offs.

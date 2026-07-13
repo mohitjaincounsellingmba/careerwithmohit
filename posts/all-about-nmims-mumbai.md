@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [NMIMS Mumbai](/colleges/nmims-mumbai) a good option for PGDM/MBA?
 Yes, [NMIMS Mumbai](/colleges/nmims-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at NMIMS Mumbai?
+### 2. What is the average package offered at [NMIMS Mumbai](/colleges/nmims-mumbai)?
 The average placement package at NMIMS Mumbai is approximately ₹22.5 LPA, with the highest package reaching up to ₹42 LPA.
 
 ### 3. What entrance exams are accepted by NMIMS Mumbai?

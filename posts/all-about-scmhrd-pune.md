@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [SCMHRD Pune](/colleges/scmhrd-pune) a good option for PGDM/MBA?
 Yes, [SCMHRD Pune](/colleges/scmhrd-pune) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at SCMHRD Pune?
+### 2. What is the average package offered at [SCMHRD Pune](/colleges/scmhrd-pune)?
 The average placement package at SCMHRD Pune is approximately ₹23.7 LPA, with the highest package reaching up to ₹38.5 LPA.
 
 ### 3. What entrance exams are accepted by SCMHRD Pune?

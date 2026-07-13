@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Mathura Global Institute of Management](/colleges/mathura-global-institute-of-management) a good option for PGDM/MBA?
 Yes, [Mathura Global Institute of Management](/colleges/mathura-global-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Mathura Global Institute of Management?
+### 2. What is the average package offered at [Mathura Global Institute of Management](/colleges/mathura-global-institute-of-management)?
 The average placement package at Mathura Global Institute of Management is approximately ₹8.5 LPA, with the highest package reaching up to ₹15.5 LPA.
 
 ### 3. What entrance exams are accepted by Mathura Global Institute of Management?

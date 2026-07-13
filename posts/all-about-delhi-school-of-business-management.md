@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Delhi School of Business & Management](/colleges/delhi-school-of-business-management) a good option for PGDM/MBA?
 Yes, [Delhi School of Business & Management](/colleges/delhi-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Delhi School of Business & Management?
+### 2. What is the average package offered at [Delhi School of Business & Management](/colleges/delhi-school-of-business-management)?
 The average placement package at Delhi School of Business & Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
 
 ### 3. What entrance exams are accepted by Delhi School of Business & Management?

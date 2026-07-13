@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Symbiosis Nandyal Graduate School of Management](/colleges/symbiosis-nandyal-graduate-school-of-management) a good option for PGDM/MBA?
 Yes, [Symbiosis Nandyal Graduate School of Management](/colleges/symbiosis-nandyal-graduate-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Symbiosis Nandyal Graduate School of Management?
+### 2. What is the average package offered at [Symbiosis Nandyal Graduate School of Management](/colleges/symbiosis-nandyal-graduate-school-of-management)?
 The average placement package at Symbiosis Nandyal Graduate School of Management is approximately ₹8.5 LPA, with the highest package reaching up to ₹15.5 LPA.
 
 ### 3. What entrance exams are accepted by Symbiosis Nandyal Graduate School of Management?

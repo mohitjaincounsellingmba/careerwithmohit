@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [GD Goenka University](/colleges/gd-goenka-university), Gurgaon is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to GD Goenka University, Gurgaon](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [GD Goenka University](/colleges/gd-goenka-university), Gurgaon](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

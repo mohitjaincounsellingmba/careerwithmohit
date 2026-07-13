@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [SSN School of Management](/colleges/ssn-school-of-management) a good option for PGDM/MBA?
 Yes, [SSN School of Management](/colleges/ssn-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at SSN School of Management?
+### 2. What is the average package offered at [SSN School of Management](/colleges/ssn-school-of-management)?
 The average placement package at SSN School of Management is approximately ₹5.1 LPA, with the highest package reaching up to ₹11.9 LPA.
 
 ### 3. What entrance exams are accepted by SSN School of Management?

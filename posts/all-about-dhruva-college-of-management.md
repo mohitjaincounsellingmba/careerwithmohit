@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Dhruva College of Management](/colleges/dhruva-college-of-management) a good option for PGDM/MBA?
 Yes, [Dhruva College of Management](/colleges/dhruva-college-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Dhruva College of Management?
+### 2. What is the average package offered at [Dhruva College of Management](/colleges/dhruva-college-of-management)?
 The average placement package at Dhruva College of Management is approximately ₹10 LPA, with the highest package reaching up to ₹5.5 LPA.
 
 ### 3. What entrance exams are accepted by Dhruva College of Management?

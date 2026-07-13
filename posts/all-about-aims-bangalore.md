@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [AIMS Institutes Bangalore](/colleges/aims-bangalore) a good option for PGDM/MBA?
 Yes, [AIMS Institutes Bangalore](/colleges/aims-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at AIMS Institutes Bangalore?
+### 2. What is the average package offered at [AIMS Institutes Bangalore](/colleges/aims-bangalore)?
 The average placement package at AIMS Institutes Bangalore is approximately ₹9.0 LPA, with the highest package reaching up to ₹18.0 LPA.
 
 ### 3. What entrance exams are accepted by AIMS Institutes Bangalore?

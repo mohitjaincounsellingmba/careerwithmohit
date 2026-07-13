@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Amity Bijapur Global Institute of Management](/colleges/amity-bijapur-global-institute-of-management) a good option for PGDM/MBA?
 Yes, [Amity Bijapur Global Institute of Management](/colleges/amity-bijapur-global-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Amity Bijapur Global Institute of Management?
+### 2. What is the average package offered at [Amity Bijapur Global Institute of Management](/colleges/amity-bijapur-global-institute-of-management)?
 The average placement package at Amity Bijapur Global Institute of Management is approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.
 
 ### 3. What entrance exams are accepted by Amity Bijapur Global Institute of Management?

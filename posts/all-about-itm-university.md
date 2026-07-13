@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [ITM University](/colleges/itm-university) a good option for PGDM/MBA?
 Yes, [ITM University](/colleges/itm-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at ITM University?
+### 2. What is the average package offered at [ITM University](/colleges/itm-university)?
 The average placement package at ITM University is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.2 LPA.
 
 ### 3. What entrance exams are accepted by ITM University?

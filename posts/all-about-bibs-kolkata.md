@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Bengal Institute of Business Studies (BIBS)](/colleges/bibs-kolkata) a good option for PGDM/MBA?
 Yes, [Bengal Institute of Business Studies (BIBS)](/colleges/bibs-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Bengal Institute of Business Studies (BIBS)?
+### 2. What is the average package offered at [Bengal Institute of Business Studies (BIBS)](/colleges/bibs-kolkata)?
 The average placement package at Bengal Institute of Business Studies (BIBS) is approximately ₹6.5 LPA, with the highest package reaching up to ₹13.6 LPA.
 
 ### 3. What entrance exams are accepted by Bengal Institute of Business Studies (BIBS)?

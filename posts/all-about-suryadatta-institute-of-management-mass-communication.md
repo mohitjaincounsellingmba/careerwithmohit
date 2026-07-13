@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) & Mass Communication is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to Suryadatta Institute of Management & Mass Communication](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) & Mass Communication](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

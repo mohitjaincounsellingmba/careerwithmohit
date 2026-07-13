@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Institute of Insurance and Risk Management](/colleges/institute-of-insurance-and-risk-management) a good option for PGDM/MBA?
 Yes, [Institute of Insurance and Risk Management](/colleges/institute-of-insurance-and-risk-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Institute of Insurance and Risk Management?
+### 2. What is the average package offered at [Institute of Insurance and Risk Management](/colleges/institute-of-insurance-and-risk-management)?
 The average placement package at Institute of Insurance and Risk Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹13.0 LPA.
 
 ### 3. What entrance exams are accepted by Institute of Insurance and Risk Management?

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [East Point College of Higher Education](/colleges/east-point-college-of-higher-education) a good option for PGDM/MBA?
 Yes, [East Point College of Higher Education](/colleges/east-point-college-of-higher-education) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at East Point College of Higher Education?
+### 2. What is the average package offered at [East Point College of Higher Education](/colleges/east-point-college-of-higher-education)?
 The average placement package at East Point College of Higher Education is approximately ₹6.5 LPA, with the highest package reaching up to ₹14.8 LPA.
 
 ### 3. What entrance exams are accepted by East Point College of Higher Education?

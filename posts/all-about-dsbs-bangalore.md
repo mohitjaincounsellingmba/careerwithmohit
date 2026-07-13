@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [DSBS Bangalore](/colleges/dsbs-bangalore) a good option for PGDM/MBA?
 Yes, [DSBS Bangalore](/colleges/dsbs-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at DSBS Bangalore?
+### 2. What is the average package offered at [DSBS Bangalore](/colleges/dsbs-bangalore)?
 The average placement package at DSBS Bangalore is approximately ₹9.0 LPA, with the highest package reaching up to ₹20.0 LPA.
 
 ### 3. What entrance exams are accepted by DSBS Bangalore?

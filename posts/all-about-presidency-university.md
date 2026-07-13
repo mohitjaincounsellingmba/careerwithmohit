@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Presidency University](/colleges/presidency-university) a good option for PGDM/MBA?
 Yes, [Presidency University](/colleges/presidency-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Presidency University?
+### 2. What is the average package offered at [Presidency University](/colleges/presidency-university)?
 The average placement package at Presidency University is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.1 LPA.
 
 ### 3. What entrance exams are accepted by Presidency University?

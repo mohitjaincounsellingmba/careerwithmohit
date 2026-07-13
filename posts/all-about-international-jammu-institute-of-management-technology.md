@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [International Jammu Institute of Management & Technology](/colleges/international-jammu-institute-of-management-technology) a good option for PGDM/MBA?
 Yes, [International Jammu Institute of Management & Technology](/colleges/international-jammu-institute-of-management-technology) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at International Jammu Institute of Management & Technology?
+### 2. What is the average package offered at [International Jammu Institute of Management & Technology](/colleges/international-jammu-institute-of-management-technology)?
 The average placement package at International Jammu Institute of Management & Technology is approximately ₹8.5 LPA, with the highest package reaching up to ₹12.5 LPA.
 
 ### 3. What entrance exams are accepted by International Jammu Institute of Management & Technology?

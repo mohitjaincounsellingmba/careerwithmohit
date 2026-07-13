@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-institute-of-professional-studies) a good option for PGDM/MBA?
 Yes, [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-institute-of-professional-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Xavier Alwar Institute of Professional Studies?
+### 2. What is the average package offered at [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-institute-of-professional-studies)?
 The average placement package at Xavier Alwar Institute of Professional Studies is approximately ₹7.8 LPA, with the highest package reaching up to ₹17.0 LPA.
 
 ### 3. What entrance exams are accepted by Xavier Alwar Institute of Professional Studies?

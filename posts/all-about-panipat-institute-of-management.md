@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Panipat Institute of Management](/colleges/panipat-institute-of-management) a good option for PGDM/MBA?
 Yes, [Panipat Institute of Management](/colleges/panipat-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Panipat Institute of Management?
+### 2. What is the average package offered at [Panipat Institute of Management](/colleges/panipat-institute-of-management)?
 The average placement package at Panipat Institute of Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹17.0 LPA.
 
 ### 3. What entrance exams are accepted by Panipat Institute of Management?

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [IILM University Greater Noida](/colleges/iilm-university-greater-noida) a good option for PGDM/MBA?
 Yes, [IILM University Greater Noida](/colleges/iilm-university-greater-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at IILM University Greater Noida?
+### 2. What is the average package offered at [IILM University Greater Noida](/colleges/iilm-university-greater-noida)?
 The average placement package at IILM University Greater Noida is approximately ₹5.9 LPA, with the highest package reaching up to ₹14.4 LPA.
 
 ### 3. What entrance exams are accepted by IILM University Greater Noida?

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [PES University](/colleges/pes-university) a good option for PGDM/MBA?
 Yes, [PES University](/colleges/pes-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at PES University?
+### 2. What is the average package offered at [PES University](/colleges/pes-university)?
 The average placement package at PES University is approximately ₹7.65 LPA, with the highest package reaching up to ₹12.50 LPA.
 
 ### 3. What entrance exams are accepted by PES University?

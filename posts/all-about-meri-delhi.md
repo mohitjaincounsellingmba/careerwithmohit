@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi) a good option for PGDM/MBA?
 Yes, [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at MERI Janakpuri (Management Education and Research Institute)?
+### 2. What is the average package offered at [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi)?
 The average placement package at MERI Janakpuri (Management Education and Research Institute) is approximately ₹7.5 LPA, with the highest package reaching up to ₹20.0 LPA.
 
 ### 3. What entrance exams are accepted by MERI Janakpuri (Management Education and Research Institute)?

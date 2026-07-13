@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Regional College of Management (RCM)](/colleges/rcm-bangalore) a good option for PGDM/MBA?
 Yes, [Regional College of Management (RCM)](/colleges/rcm-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Regional College of Management (RCM)?
+### 2. What is the average package offered at [Regional College of Management (RCM)](/colleges/rcm-bangalore)?
 The average placement package at Regional College of Management (RCM) is approximately ₹8.5 LPA, with the highest package reaching up to ₹27.0 LPA.
 
 ### 3. What entrance exams are accepted by Regional College of Management (RCM)?

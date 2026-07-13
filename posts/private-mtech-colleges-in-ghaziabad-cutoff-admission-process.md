@@ -60,8 +60,8 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Ajay Kumar Garg Engineering College (AKGEC)** | GATE / UPTAC Counseling | ₹1.2 Lakhs/year | **₹6.0 LPA** |
-| **KIET Group of Institutions** | GATE / UPTAC Counseling | ₹1.1 Lakhs/year | **₹5.8 LPA** |
-| **ABES Engineering College** | GATE / UPTAC Counseling / Direct | ₹1.2 Lakhs/year | **₹5.2 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad)** | GATE / UPTAC Counseling | ₹1.1 Lakhs/year | **₹5.8 LPA** |
+| **[ABES Engineering College](/colleges/abes-ghaziabad)** | GATE / UPTAC Counseling / Direct | ₹1.2 Lakhs/year | **₹5.2 LPA** |
 
 ---
 

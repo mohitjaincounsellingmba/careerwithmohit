@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Jagannath International Management School](/colleges/jagannath-international-management-school) a good option for PGDM/MBA?
 Yes, [Jagannath International Management School](/colleges/jagannath-international-management-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Jagannath International Management School?
+### 2. What is the average package offered at [Jagannath International Management School](/colleges/jagannath-international-management-school)?
 The average placement package at Jagannath International Management School is approximately ₹6.7 LPA, with the highest package reaching up to ₹16.0 LPA.
 
 ### 3. What entrance exams are accepted by Jagannath International Management School?

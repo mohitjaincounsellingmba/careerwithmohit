@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) a good option for PGDM/MBA?
 Yes, [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at New Delhi Institute of Management?
+### 2. What is the average package offered at [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)?
 The average placement package at New Delhi Institute of Management is approximately ₹9.75 LPA, with the highest package reaching up to ₹24.00 LPA.
 
 ### 3. What entrance exams are accepted by New Delhi Institute of Management?

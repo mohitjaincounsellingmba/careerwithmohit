@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) a good option for PGDM/MBA?
 Yes, [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Fortune Institute of International Business?
+### 2. What is the average package offered at [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)?
 The average placement package at Fortune Institute of International Business is approximately ₹6.1 LPA, with the highest package reaching up to ₹14.5 LPA.
 
 ### 3. What entrance exams are accepted by Fortune Institute of International Business?

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [IIM Calcutta](/colleges/iim-calcutta) a good option for PGDM/MBA?
 Yes, [IIM Calcutta](/colleges/iim-calcutta) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at IIM Calcutta?
+### 2. What is the average package offered at [IIM Calcutta](/colleges/iim-calcutta)?
 The average placement package at IIM Calcutta is approximately ₹35.0 LPA, with the highest package reaching up to ₹1.20 Crore.
 
 ### 3. What entrance exams are accepted by IIM Calcutta?

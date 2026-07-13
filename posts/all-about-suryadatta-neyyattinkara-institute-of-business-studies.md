@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Suryadatta Neyyattinkara Institute of Business Studies](/colleges/suryadatta-neyyattinkara-institute-of-business-studies) a good option for PGDM/MBA?
 Yes, [Suryadatta Neyyattinkara Institute of Business Studies](/colleges/suryadatta-neyyattinkara-institute-of-business-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Suryadatta Neyyattinkara Institute of Business Studies?
+### 2. What is the average package offered at [Suryadatta Neyyattinkara Institute of Business Studies](/colleges/suryadatta-neyyattinkara-institute-of-business-studies)?
 The average placement package at Suryadatta Neyyattinkara Institute of Business Studies is approximately ₹6.4 LPA, with the highest package reaching up to ₹17.0 LPA.
 
 ### 3. What entrance exams are accepted by Suryadatta Neyyattinkara Institute of Business Studies?

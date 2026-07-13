@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [National Madurai Global Institute of Management](/colleges/national-madurai-global-institute-of-management) a good option for PGDM/MBA?
 Yes, [National Madurai Global Institute of Management](/colleges/national-madurai-global-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at National Madurai Global Institute of Management?
+### 2. What is the average package offered at [National Madurai Global Institute of Management](/colleges/national-madurai-global-institute-of-management)?
 The average placement package at National Madurai Global Institute of Management is approximately ₹7.1 LPA, with the highest package reaching up to ₹12.5 LPA.
 
 ### 3. What entrance exams are accepted by National Madurai Global Institute of Management?

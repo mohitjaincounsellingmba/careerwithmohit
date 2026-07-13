@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [JAGSoM (Jagdish Sheth)](/colleges/jagsom-mumbai) a good option for PGDM/MBA?
 Yes, [JAGSoM (Jagdish Sheth)](/colleges/jagsom-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at JAGSoM (Jagdish Sheth)?
+### 2. What is the average package offered at [JAGSoM (Jagdish Sheth)](/colleges/jagsom-mumbai)?
 The average placement package at JAGSoM (Jagdish Sheth) is approximately ₹11.0 LPA, with the highest package reaching up to ₹25.0 LPA.
 
 ### 3. What entrance exams are accepted by JAGSoM (Jagdish Sheth)?

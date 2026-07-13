@@ -61,7 +61,7 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 | :--- | :--- | :--- | :--- |
 | **Heritage Institute of Technology (HIT)** | GATE / WB PGET | ₹1.1 Lakhs/year | **₹5.6 LPA** |
 | **Institute of Engineering & Management (IEM)** | GATE / WB PGET | ₹1.2 Lakhs/year | **₹5.8 LPA** |
-| **Techno India University** | GATE / WB PGET / Direct exam | ₹1.3 Lakhs/year | **₹4.8 LPA** |
+| **[Techno India University](/colleges/techno-india-university-kolkata)** | GATE / WB PGET / Direct exam | ₹1.3 Lakhs/year | **₹4.8 LPA** |
 
 ---
 

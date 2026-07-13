@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-school) a good option for PGDM/MBA?
 Yes, [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Sharda Nandurbar Business School?
+### 2. What is the average package offered at [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-school)?
 The average placement package at Sharda Nandurbar Business School is approximately ₹5.7 LPA, with the highest package reaching up to ₹24.5 LPA.
 
 ### 3. What entrance exams are accepted by Sharda Nandurbar Business School?

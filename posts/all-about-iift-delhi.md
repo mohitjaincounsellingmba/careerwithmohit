@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [IIFT Delhi](/colleges/iift-delhi) a good option for PGDM/MBA?
 Yes, [IIFT Delhi](/colleges/iift-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at IIFT Delhi?
+### 2. What is the average package offered at [IIFT Delhi](/colleges/iift-delhi)?
 The average placement package at IIFT Delhi is approximately ₹26.00 LPA, with the highest package reaching up to ₹85.0 LPA.
 
 ### 3. What entrance exams are accepted by IIFT Delhi?

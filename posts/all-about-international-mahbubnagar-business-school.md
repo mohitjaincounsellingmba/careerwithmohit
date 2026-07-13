@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [International Mahbubnagar Business School](/colleges/international-mahbubnagar-business-school) a good option for PGDM/MBA?
 Yes, [International Mahbubnagar Business School](/colleges/international-mahbubnagar-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at International Mahbubnagar Business School?
+### 2. What is the average package offered at [International Mahbubnagar Business School](/colleges/international-mahbubnagar-business-school)?
 The average placement package at International Mahbubnagar Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹18.5 LPA.
 
 ### 3. What entrance exams are accepted by International Mahbubnagar Business School?

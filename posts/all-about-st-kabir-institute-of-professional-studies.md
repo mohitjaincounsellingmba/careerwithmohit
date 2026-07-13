@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [St Kabir Institute of Professional Studies](/colleges/st-kabir-institute-of-professional-studies) a good option for PGDM/MBA?
 Yes, [St Kabir Institute of Professional Studies](/colleges/st-kabir-institute-of-professional-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at St Kabir Institute of Professional Studies?
+### 2. What is the average package offered at [St Kabir Institute of Professional Studies](/colleges/st-kabir-institute-of-professional-studies)?
 The average placement package at St Kabir Institute of Professional Studies is approximately ₹5.0 LPA, with the highest package reaching up to ₹12.8 LPA.
 
 ### 3. What entrance exams are accepted by St Kabir Institute of Professional Studies?

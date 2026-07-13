@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management) a good option for PGDM/MBA?
 Yes, [Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Indian Institute of Social Welfare and Business Management?
+### 2. What is the average package offered at [Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management)?
 The average placement package at Indian Institute of Social Welfare and Business Management is approximately ₹11.5 LPA, with the highest package reaching up to ₹16 LPA.
 
 ### 3. What entrance exams are accepted by Indian Institute of Social Welfare and Business Management?

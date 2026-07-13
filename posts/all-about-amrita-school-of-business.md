@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Amrita School of Business](/colleges/amrita-school-of-business) a good option for PGDM/MBA?
 Yes, [Amrita School of Business](/colleges/amrita-school-of-business) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Amrita School of Business?
+### 2. What is the average package offered at [Amrita School of Business](/colleges/amrita-school-of-business)?
 The average placement package at Amrita School of Business is approximately ₹8.32 LPA, with the highest package reaching up to ₹7 LPA.
 
 ### 3. What entrance exams are accepted by Amrita School of Business?

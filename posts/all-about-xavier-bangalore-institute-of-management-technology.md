@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [Xavier Bangalore Institute of Management](/colleges/xavier-bangalore-institute-of-management) & Technology is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to Xavier Bangalore Institute of Management & Technology](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [Xavier Bangalore Institute of Management](/colleges/xavier-bangalore-institute-of-management) & Technology](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

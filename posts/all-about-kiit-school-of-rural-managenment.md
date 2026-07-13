@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [KIIT- School of Rural Managenment](/colleges/kiit-school-of-rural-managenment) a good option for PGDM/MBA?
 Yes, [KIIT- School of Rural Managenment](/colleges/kiit-school-of-rural-managenment) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at KIIT- School of Rural Managenment?
+### 2. What is the average package offered at [KIIT- School of Rural Managenment](/colleges/kiit-school-of-rural-managenment)?
 The average placement package at KIIT- School of Rural Managenment is approximately ₹6.5 LPA, with the highest package reaching up to ₹6.5 LPA.
 
 ### 3. What entrance exams are accepted by KIIT- School of Rural Managenment?

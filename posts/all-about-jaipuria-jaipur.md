@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Jaipuria Jaipur](/colleges/jaipuria-jaipur) a good option for PGDM/MBA?
 Yes, [Jaipuria Jaipur](/colleges/jaipuria-jaipur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Jaipuria Jaipur?
+### 2. What is the average package offered at [Jaipuria Jaipur](/colleges/jaipuria-jaipur)?
 The average placement package at Jaipuria Jaipur is approximately ₹8.5 LPA, with the highest package reaching up to ₹22.0 LPA.
 
 ### 3. What entrance exams are accepted by Jaipuria Jaipur?

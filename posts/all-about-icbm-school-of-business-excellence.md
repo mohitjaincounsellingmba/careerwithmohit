@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [ICBM School of Business Excellence](/colleges/icbm-school-of-business-excellence) a good option for PGDM/MBA?
 Yes, [ICBM School of Business Excellence](/colleges/icbm-school-of-business-excellence) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at ICBM School of Business Excellence?
+### 2. What is the average package offered at [ICBM School of Business Excellence](/colleges/icbm-school-of-business-excellence)?
 The average placement package at ICBM School of Business Excellence is approximately ₹5.5 LPA, with the highest package reaching up to ₹13.9 LPA.
 
 ### 3. What entrance exams are accepted by ICBM School of Business Excellence?

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Apex University](/colleges/apex-jaipur) a good option for PGDM/MBA?
 Yes, [Apex University](/colleges/apex-jaipur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Apex University?
+### 2. What is the average package offered at [Apex University](/colleges/apex-jaipur)?
 The average placement package at Apex University is approximately ₹4.5 LPA, with the highest package reaching up to ₹9.0 LPA.
 
 ### 3. What entrance exams are accepted by Apex University?

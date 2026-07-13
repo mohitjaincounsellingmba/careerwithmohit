@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Indus Business Academy](/colleges/indus-business-academy) a good option for PGDM/MBA?
 Yes, [Indus Business Academy](/colleges/indus-business-academy) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Indus Business Academy?
+### 2. What is the average package offered at [Indus Business Academy](/colleges/indus-business-academy)?
 The average placement package at Indus Business Academy is approximately ₹6.6 LPA, with the highest package reaching up to ₹13.5 LPA.
 
 ### 3. What entrance exams are accepted by Indus Business Academy?

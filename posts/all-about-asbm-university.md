@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [ASBM University](/colleges/asbm-university) a good option for PGDM/MBA?
 Yes, [ASBM University](/colleges/asbm-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at ASBM University?
+### 2. What is the average package offered at [ASBM University](/colleges/asbm-university)?
 The average placement package at ASBM University is approximately ₹5 LPA, with the highest package reaching up to ₹3.5 LPA.
 
 ### 3. What entrance exams are accepted by ASBM University?

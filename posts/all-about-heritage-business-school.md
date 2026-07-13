@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Heritage Business School](/colleges/heritage-business-school) a good option for PGDM/MBA?
 Yes, [Heritage Business School](/colleges/heritage-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Heritage Business School?
+### 2. What is the average package offered at [Heritage Business School](/colleges/heritage-business-school)?
 The average placement package at Heritage Business School is approximately ₹5.4 LPA, with the highest package reaching up to ₹5.4 LPA.
 
 ### 3. What entrance exams are accepted by Heritage Business School?

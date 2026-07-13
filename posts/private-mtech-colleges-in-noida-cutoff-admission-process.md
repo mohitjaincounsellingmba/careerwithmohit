@@ -59,9 +59,9 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Jaypee Institute of Information Technology (JIIT)** | GATE / JIIT Entrance Test | ₹1.8 Lakhs/year | **₹7.5 LPA** |
-| **Amity School of Engineering & Technology (Amity University)** | Amity Test & Interview | ₹2.2 Lakhs/year | **₹6.0 LPA** |
-| **JSS Academy of Technical Education (JSSATE)** | GATE / UPTAC Counseling | ₹1.2 Lakhs/year | **₹5.5 LPA** |
+| **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)** | GATE / JIIT Entrance Test | ₹1.8 Lakhs/year | **₹7.5 LPA** |
+| **Amity School of Engineering & Technology ([Amity University](/colleges/amity-noida))** | Amity Test & Interview | ₹2.2 Lakhs/year | **₹6.0 LPA** |
+| **[JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)** | GATE / UPTAC Counseling | ₹1.2 Lakhs/year | **₹5.5 LPA** |
 
 ---
 

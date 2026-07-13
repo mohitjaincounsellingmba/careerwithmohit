@@ -66,9 +66,9 @@ Here is a quick snapshot comparing the fee structures, entrance criteria, and av
 
 | College Name | Accepted Entrance Exams | Approximate Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **Galgotias University (School of Engineering)** | GATE / Merit-based Direct Interview | ₹1.1 Lakhs/year | **₹5.8 LPA** |
-| **Sharda University (School of Engineering & Technology)** | GATE / SUAT Entrance Exam | ₹1.5 Lakhs/year | **₹5.2 LPA** |
-| **Bennett University (School of Engineering)** | GATE / Merit + Interview | ₹2.1 Lakhs/year | **₹6.8 LPA** |
+| **[Galgotias University](/colleges/galgotias-university) (School of Engineering)** | GATE / Merit-based Direct Interview | ₹1.1 Lakhs/year | **₹5.8 LPA** |
+| **[Sharda University](/colleges/sharda-greater-noida) (School of Engineering & Technology)** | GATE / SUAT Entrance Exam | ₹1.5 Lakhs/year | **₹5.2 LPA** |
+| **[Bennett University](/colleges/bennett-greater-noida) (School of Engineering)** | GATE / Merit + Interview | ₹2.1 Lakhs/year | **₹6.8 LPA** |
 | **GL Bajaj Institute of Technology & Management** | GATE / UPTAC Counseling | ₹1.2 Lakhs/year | **₹6.5 LPA** |
 
 ---

@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Hisar Graduate School of Management](/colleges/hisar-graduate-school-of-management) a good option for PGDM/MBA?
 Yes, [Hisar Graduate School of Management](/colleges/hisar-graduate-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Hisar Graduate School of Management?
+### 2. What is the average package offered at [Hisar Graduate School of Management](/colleges/hisar-graduate-school-of-management)?
 The average placement package at Hisar Graduate School of Management is approximately ₹7.1 LPA, with the highest package reaching up to ₹21.5 LPA.
 
 ### 3. What entrance exams are accepted by Hisar Graduate School of Management?

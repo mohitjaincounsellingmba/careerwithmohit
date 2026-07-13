@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [ASM IBMR](/colleges/asm-ibmr) a good option for PGDM/MBA?
 Yes, [ASM IBMR](/colleges/asm-ibmr) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at ASM IBMR?
+### 2. What is the average package offered at [ASM IBMR](/colleges/asm-ibmr)?
 The average placement package at ASM IBMR is approximately ₹7.5 LPA, with the highest package reaching up to ₹24.0 LPA.
 
 ### 3. What entrance exams are accepted by ASM IBMR?

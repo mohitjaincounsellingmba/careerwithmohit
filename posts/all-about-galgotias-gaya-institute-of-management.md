@@ -58,7 +58,7 @@ faqs:
 ### 1. Is [Galgotias Gaya Institute of Management](/colleges/galgotias-gaya-institute-of-management) a good option for PGDM/MBA?
 Yes, [Galgotias Gaya Institute of Management](/colleges/galgotias-gaya-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at Galgotias Gaya Institute of Management?
+### 2. What is the average package offered at [Galgotias Gaya Institute of Management](/colleges/galgotias-gaya-institute-of-management)?
 The average placement package at Galgotias Gaya Institute of Management is approximately ₹7.8 LPA, with the highest package reaching up to ₹20.0 LPA.
 
 ### 3. What entrance exams are accepted by Galgotias Gaya Institute of Management?
