@@ -59,7 +59,7 @@ faqs:
 Yes, [PBS (Pune Business School)](/colleges/pbs-pune) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [PBS (Pune Business School)](/colleges/pbs-pune)?
-The average placement package at PBS (Pune Business School) is approximately ₹7.4 LPA, with the highest package reaching up to ₹27.0 LPA.
+The average placement package at [PBS (Pune Business School)](/colleges/pbs-pune) is approximately ₹7.4 LPA, with the highest package reaching up to ₹27.0 LPA.
 
 ### 3. What entrance exams are accepted by PBS (Pune Business School)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.

@@ -59,7 +59,7 @@ faqs:
 Yes, [Sharda Achalpur Institute of Management](/colleges/sharda-achalpur-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Sharda Achalpur Institute of Management](/colleges/sharda-achalpur-institute-of-management)?
-The average placement package at Sharda Achalpur Institute of Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹23.0 LPA.
+The average placement package at [Sharda Achalpur Institute of Management](/colleges/sharda-achalpur-institute-of-management) is approximately ₹5.0 LPA, with the highest package reaching up to ₹23.0 LPA.
 
 ### 3. What entrance exams are accepted by Sharda Achalpur Institute of Management?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

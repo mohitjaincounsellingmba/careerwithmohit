@@ -59,7 +59,7 @@ faqs:
 Yes, [Poornima University](/colleges/poornima-jaipur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Poornima University](/colleges/poornima-jaipur)?
-The average placement package at Poornima University is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
+The average placement package at [Poornima University](/colleges/poornima-jaipur) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
 
 ### 3. What entrance exams are accepted by Poornima University?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, CUET PG for the PGDM and MBA admissions.

@@ -59,7 +59,7 @@ faqs:
 Yes, [Firebird Instt of Research in Management](/colleges/firebird-instt-of-research-in-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Firebird Instt of Research in Management](/colleges/firebird-instt-of-research-in-management)?
-The average placement package at Firebird Instt of Research in Management is approximately ₹8 LPA, with the highest package reaching up to ₹9 LPA.
+The average placement package at [Firebird Instt of Research in Management](/colleges/firebird-instt-of-research-in-management) is approximately ₹8 LPA, with the highest package reaching up to ₹9 LPA.
 
 ### 3. What entrance exams are accepted by Firebird Instt of Research in Management?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

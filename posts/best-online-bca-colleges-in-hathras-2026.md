@@ -46,7 +46,7 @@ Here is a quick overview of the top-ranked online BCA providers available for st
 
 ## 🏆 Review of Top Online BCA Colleges for Hathras Candidates
 
-### 1. Amity University Online (Noida)
+### 1. [Amity University](/colleges/amity-noida) Online (Noida)
 Amity Online is a pioneer in digital learning in India, holding a premium **NAAC A+ rating**.
 - **Estimated Tuition Fees:** ~₹1,50,000 (Full 3-year payment) or ~₹25,000 per semester.
 - **Accreditations:** UGC-DEB, AICTE, QS World Rankings.
@@ -70,7 +70,7 @@ Sikkim Manipal has a massive legacy in IT and computer application courses. This
 - **Accreditations:** UGC-DEB, AIU, NAAC A+.
 - **Why Choose:** Recommended for students looking for an affordable, highly-reputed IT degree with robust distance-learning heritage.
 
-### 5. Jain University Online (Bengaluru)
+### 5. [Jain University](/colleges/jain-university) Online (Bengaluru)
 Jain Online is popular for its industry-aligned computer applications curriculum, holding a stellar **NAAC A++ grade**.
 - **Estimated Tuition Fees:** ~₹1,20,000 total.
 - **Specializations:** Offers electives in Cloud Computing, Cybersecurity, and Data Science.
@@ -136,7 +136,7 @@ Yes, absolutely. The UGC (University Grants Commission) mandates that online deg
 The basic eligibility is completing your 10+2 (Higher Secondary education) from a recognized state or central board (CBSE, ICSE, NIOS, etc.) with a minimum of 45-50% marks. While some universities prefer students who had mathematics or computer science in 10+2, many open universities admit students from commerce and arts streams as well.
 
 ### Which is the most affordable online BCA college for students in Hathras?
-Lovely Professional University (LPU) Online and Sikkim Manipal University (SMU) Online are very affordable options, offering a total three-year course fee starting around ₹90,000 to ₹1,20,000, along with easy zero-cost monthly EMI options starting from ₹3,000 to ₹4,000.
+[Lovely Professional University](/colleges/lovely-professional-university) (LPU) Online and Sikkim Manipal University (SMU) Online are very affordable options, offering a total three-year course fee starting around ₹90,000 to ₹1,20,000, along with easy zero-cost monthly EMI options starting from ₹3,000 to ₹4,000.
 
 ---
 

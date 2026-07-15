@@ -59,7 +59,7 @@ faqs:
 Yes, [Alliance University Bangalore](/colleges/alliance-university-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Alliance University Bangalore](/colleges/alliance-university-bangalore)?
-The average placement package at Alliance University Bangalore is approximately ₹10.5 LPA, with the highest package reaching up to ₹40.0 LPA.
+The average placement package at [Alliance University Bangalore](/colleges/alliance-university-bangalore) is approximately ₹10.5 LPA, with the highest package reaching up to ₹40.0 LPA.
 
 ### 3. What entrance exams are accepted by Alliance University Bangalore?
 The college accepts scores from national level entrance examinations including CAT, AMAT, MAT for the PGDM and MBA admissions.

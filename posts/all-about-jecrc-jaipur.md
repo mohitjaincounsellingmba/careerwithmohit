@@ -59,7 +59,7 @@ faqs:
 Yes, [JECRC University](/colleges/jecrc-jaipur) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [JECRC University](/colleges/jecrc-jaipur)?
-The average placement package at JECRC University is approximately ₹6.0 LPA, with the highest package reaching up to ₹12.0 LPA.
+The average placement package at [JECRC University](/colleges/jecrc-jaipur) is approximately ₹6.0 LPA, with the highest package reaching up to ₹12.0 LPA.
 
 ### 3. What entrance exams are accepted by JECRC University?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

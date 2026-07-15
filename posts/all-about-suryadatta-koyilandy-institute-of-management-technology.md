@@ -59,7 +59,7 @@ faqs:
 Yes, [Suryadatta Koyilandy Institute of Management & Technology](/colleges/suryadatta-koyilandy-institute-of-management-technology) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Suryadatta Koyilandy Institute of Management & Technology](/colleges/suryadatta-koyilandy-institute-of-management-technology)?
-The average placement package at Suryadatta Koyilandy Institute of Management & Technology is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
+The average placement package at [Suryadatta Koyilandy Institute of Management & Technology](/colleges/suryadatta-koyilandy-institute-of-management-technology) is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
 
 ### 3. What entrance exams are accepted by Suryadatta Koyilandy Institute of Management & Technology?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

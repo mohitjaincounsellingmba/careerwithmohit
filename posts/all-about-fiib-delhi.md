@@ -59,7 +59,7 @@ faqs:
 Yes, [FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/colleges/fiib-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/colleges/fiib-delhi)?
-The average placement package at FIIB (Fortune Institute of International Business), Delhi is approximately ₹8.5 LPA, with the highest package reaching up to ₹25.92 LPA.
+The average placement package at [FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/colleges/fiib-delhi) is approximately ₹8.5 LPA, with the highest package reaching up to ₹25.92 LPA.
 
 ### 3. What entrance exams are accepted by FIIB (Fortune Institute of International Business), Delhi?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

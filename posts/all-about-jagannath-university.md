@@ -59,7 +59,7 @@ faqs:
 Yes, [Jagannath University](/colleges/jagannath-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Jagannath University](/colleges/jagannath-university)?
-The average placement package at Jagannath University is approximately ₹3 LPA, with the highest package reaching up to ₹5 LPA.
+The average placement package at [Jagannath University](/colleges/jagannath-university) is approximately ₹3 LPA, with the highest package reaching up to ₹5 LPA.
 
 ### 3. What entrance exams are accepted by Jagannath University?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

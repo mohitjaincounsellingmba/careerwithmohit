@@ -59,7 +59,7 @@ faqs:
 Yes, [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)?
-The average placement package at BIMTECH, Greater Noida is approximately ₹11.1 LPA, with the highest package reaching up to ₹24.4 LPA.
+The average placement package at [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) is approximately ₹11.1 LPA, with the highest package reaching up to ₹24.4 LPA.
 
 ### 3. What entrance exams are accepted by BIMTECH, Greater Noida?
 The college accepts scores from national level entrance examinations including CAT, XAT, MAT, CMAT for the PGDM and MBA admissions.

@@ -59,7 +59,7 @@ faqs:
 Yes, [RIIM Pune](/colleges/riim-pune) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [RIIM Pune](/colleges/riim-pune)?
-The average placement package at RIIM Pune is approximately ₹7.84 LPA, with the highest package reaching up to ₹35.0 LPA.
+The average placement package at [RIIM Pune](/colleges/riim-pune) is approximately ₹7.84 LPA, with the highest package reaching up to ₹35.0 LPA.
 
 ### 3. What entrance exams are accepted by RIIM Pune?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.

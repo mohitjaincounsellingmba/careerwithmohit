@@ -59,7 +59,7 @@ faqs:
 Yes, [Administrative Staff College of India](/colleges/administrative-staff-college-of-india) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Administrative Staff College of India](/colleges/administrative-staff-college-of-india)?
-The average placement package at Administrative Staff College of India is approximately ₹5.5 LPA, with the highest package reaching up to ₹13.1 LPA.
+The average placement package at [Administrative Staff College of India](/colleges/administrative-staff-college-of-india) is approximately ₹5.5 LPA, with the highest package reaching up to ₹13.1 LPA.
 
 ### 3. What entrance exams are accepted by Administrative Staff College of India?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

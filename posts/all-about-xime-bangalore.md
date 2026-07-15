@@ -59,7 +59,7 @@ faqs:
 Yes, [XIME Bangalore](/colleges/xime-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [XIME Bangalore](/colleges/xime-bangalore)?
-The average placement package at XIME Bangalore is approximately ₹10.0 LPA, with the highest package reaching up to ₹25.0 LPA.
+The average placement package at [XIME Bangalore](/colleges/xime-bangalore) is approximately ₹10.0 LPA, with the highest package reaching up to ₹25.0 LPA.
 
 ### 3. What entrance exams are accepted by XIME Bangalore?
 The college accepts scores from national level entrance examinations including CAT, XAT, MAT, CMAT, ATMA for the PGDM and MBA admissions.

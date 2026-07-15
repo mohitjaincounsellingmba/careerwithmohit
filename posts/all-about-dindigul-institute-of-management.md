@@ -59,7 +59,7 @@ faqs:
 Yes, [Dindigul Institute of Management](/colleges/dindigul-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Dindigul Institute of Management](/colleges/dindigul-institute-of-management)?
-The average placement package at Dindigul Institute of Management is approximately ₹6.4 LPA, with the highest package reaching up to ₹17.0 LPA.
+The average placement package at [Dindigul Institute of Management](/colleges/dindigul-institute-of-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹17.0 LPA.
 
 ### 3. What entrance exams are accepted by Dindigul Institute of Management?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

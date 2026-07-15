@@ -59,7 +59,7 @@ faqs:
 Yes, [Amity Patna Institute of Business Studies](/colleges/amity-patna-institute-of-business-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Amity Patna Institute of Business Studies](/colleges/amity-patna-institute-of-business-studies)?
-The average placement package at Amity Patna Institute of Business Studies is approximately ₹6.4 LPA, with the highest package reaching up to ₹20.0 LPA.
+The average placement package at [Amity Patna Institute of Business Studies](/colleges/amity-patna-institute-of-business-studies) is approximately ₹6.4 LPA, with the highest package reaching up to ₹20.0 LPA.
 
 ### 3. What entrance exams are accepted by Amity Patna Institute of Business Studies?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

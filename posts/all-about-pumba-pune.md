@@ -59,7 +59,7 @@ faqs:
 Yes, [PUMBA Pune](/colleges/pumba-pune) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [PUMBA Pune](/colleges/pumba-pune)?
-The average placement package at PUMBA Pune is approximately ₹8.1 LPA, with the highest package reaching up to ₹18.5 LPA.
+The average placement package at [PUMBA Pune](/colleges/pumba-pune) is approximately ₹8.1 LPA, with the highest package reaching up to ₹18.5 LPA.
 
 ### 3. What entrance exams are accepted by PUMBA Pune?
 The college accepts scores from national level entrance examinations including MAH-CET, CAT, CMAT for the PGDM and MBA admissions.

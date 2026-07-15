@@ -59,7 +59,7 @@ faqs:
 Yes, [Thanjavur Global Institute of Management](/colleges/thanjavur-global-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Thanjavur Global Institute of Management](/colleges/thanjavur-global-institute-of-management)?
-The average placement package at Thanjavur Global Institute of Management is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
+The average placement package at [Thanjavur Global Institute of Management](/colleges/thanjavur-global-institute-of-management) is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
 
 ### 3. What entrance exams are accepted by Thanjavur Global Institute of Management?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

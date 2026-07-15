@@ -59,7 +59,7 @@ faqs:
 Yes, [TAPMI Bengaluru](/colleges/tapmi-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [TAPMI Bengaluru](/colleges/tapmi-bangalore)?
-The average placement package at TAPMI Bengaluru is approximately ₹14.6 LPA, with the highest package reaching up to ₹32.0 LPA.
+The average placement package at [TAPMI Bengaluru](/colleges/tapmi-bangalore) is approximately ₹14.6 LPA, with the highest package reaching up to ₹32.0 LPA.
 
 ### 3. What entrance exams are accepted by TAPMI Bengaluru?
 The college accepts scores from national level entrance examinations including CAT, XAT, NMAT for the PGDM and MBA admissions.

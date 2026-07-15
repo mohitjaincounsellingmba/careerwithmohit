@@ -59,7 +59,7 @@ faqs:
 Yes, [SOIL Institute of Management](/colleges/soil-institute-gurgaon) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [SOIL Institute of Management](/colleges/soil-institute-gurgaon)?
-The average placement package at SOIL Institute of Management is approximately ₹10.3 LPA, with the highest package reaching up to ₹19.3 LPA.
+The average placement package at [SOIL Institute of Management](/colleges/soil-institute-gurgaon) is approximately ₹10.3 LPA, with the highest package reaching up to ₹19.3 LPA.
 
 ### 3. What entrance exams are accepted by SOIL Institute of Management?
 The college accepts scores from national level entrance examinations including CAT, GMAT, XAT for the PGDM and MBA admissions.

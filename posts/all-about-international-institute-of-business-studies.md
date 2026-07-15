@@ -59,7 +59,7 @@ faqs:
 Yes, [International Institute of Business Studies](/colleges/international-institute-of-business-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [International Institute of Business Studies](/colleges/international-institute-of-business-studies)?
-The average placement package at International Institute of Business Studies is approximately ₹8.9 LPA, with the highest package reaching up to ₹48.0 LPA.
+The average placement package at [International Institute of Business Studies](/colleges/international-institute-of-business-studies) is approximately ₹8.9 LPA, with the highest package reaching up to ₹48.0 LPA.
 
 ### 3. What entrance exams are accepted by International Institute of Business Studies?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

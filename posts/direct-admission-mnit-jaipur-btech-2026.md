@@ -160,7 +160,7 @@ No. JEE Main is the only valid entry route for B.Tech at [MNIT Jaipur](/colleges
 **Q: What is the minimum JEE Main rank needed for [MNIT Jaipur](/colleges/mnit-jaipur) CSE?**
 For the General category (Other State quota), you typically need a rank under 5,000. Rajasthan Home State quota requires a rank under 3,500.
 
-**Q: Are there any reserved seats for Rajasthan students at MNIT Jaipur?**
+**Q: Are there any reserved seats for Rajasthan students at [MNIT Jaipur](/colleges/mnit-jaipur)?**
 Yes. A Home State quota is available for Rajasthan domicile students through JoSAA. These seats have lower cutoffs.
 
 **Q: Is there a donation seat or NRI quota at MNIT Jaipur?**

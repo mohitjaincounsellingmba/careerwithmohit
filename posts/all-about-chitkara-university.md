@@ -59,7 +59,7 @@ faqs:
 Yes, [Chitkara University](/colleges/chitkara-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Chitkara University](/colleges/chitkara-university)?
-The average placement package at Chitkara University is approximately ₹11 LPA, with the highest package reaching up to ₹44 LPA.
+The average placement package at [Chitkara University](/colleges/chitkara-university) is approximately ₹11 LPA, with the highest package reaching up to ₹44 LPA.
 
 ### 3. What entrance exams are accepted by Chitkara University?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

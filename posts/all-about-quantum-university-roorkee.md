@@ -59,7 +59,7 @@ faqs:
 Yes, [Quantum University](/colleges/quantum-university-roorkee) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Quantum University](/colleges/quantum-university-roorkee)?
-The average placement package at Quantum University is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.0 LPA.
+The average placement package at [Quantum University](/colleges/quantum-university-roorkee) is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.0 LPA.
 
 ### 3. What entrance exams are accepted by Quantum University?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.

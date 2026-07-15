@@ -59,7 +59,7 @@ faqs:
 Yes, [Eastern Institute for Integrated Learning in Management (EIILM)](/colleges/eiilm-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Eastern Institute for Integrated Learning in Management (EIILM)](/colleges/eiilm-kolkata)?
-The average placement package at Eastern Institute for Integrated Learning in Management (EIILM) is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.0 LPA.
+The average placement package at [Eastern Institute for Integrated Learning in Management (EIILM)](/colleges/eiilm-kolkata) is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.0 LPA.
 
 ### 3. What entrance exams are accepted by Eastern Institute for Integrated Learning in Management (EIILM)?
 The college accepts scores from national level entrance examinations including CAT, MAT, ATMA, VUMAT for the PGDM and MBA admissions.

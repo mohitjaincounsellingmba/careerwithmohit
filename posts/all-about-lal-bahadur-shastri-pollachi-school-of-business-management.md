@@ -59,7 +59,7 @@ faqs:
 Yes, [Lal Bahadur Shastri Pollachi School of Business & Management](/colleges/lal-bahadur-shastri-pollachi-school-of-business-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Lal Bahadur Shastri Pollachi School of Business & Management](/colleges/lal-bahadur-shastri-pollachi-school-of-business-management)?
-The average placement package at Lal Bahadur Shastri Pollachi School of Business & Management is approximately ₹6.4 LPA, with the highest package reaching up to ₹20.0 LPA.
+The average placement package at [Lal Bahadur Shastri Pollachi School of Business & Management](/colleges/lal-bahadur-shastri-pollachi-school-of-business-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹20.0 LPA.
 
 ### 3. What entrance exams are accepted by Lal Bahadur Shastri Pollachi School of Business & Management?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

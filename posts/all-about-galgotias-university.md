@@ -59,7 +59,7 @@ faqs:
 Yes, [Galgotias University](/colleges/galgotias-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Galgotias University](/colleges/galgotias-university)?
-The average placement package at Galgotias University is approximately ₹60 LPA, with the highest package reaching up to ₹5.4 LPA.
+The average placement package at [Galgotias University](/colleges/galgotias-university) is approximately ₹60 LPA, with the highest package reaching up to ₹5.4 LPA.
 
 ### 3. What entrance exams are accepted by Galgotias University?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

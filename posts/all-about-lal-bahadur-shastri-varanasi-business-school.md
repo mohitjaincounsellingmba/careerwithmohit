@@ -59,7 +59,7 @@ faqs:
 Yes, [Lal Bahadur Shastri Varanasi Business School](/colleges/lal-bahadur-shastri-varanasi-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Lal Bahadur Shastri Varanasi Business School](/colleges/lal-bahadur-shastri-varanasi-business-school)?
-The average placement package at Lal Bahadur Shastri Varanasi Business School is approximately ₹7.1 LPA, with the highest package reaching up to ₹12.5 LPA.
+The average placement package at [Lal Bahadur Shastri Varanasi Business School](/colleges/lal-bahadur-shastri-varanasi-business-school) is approximately ₹7.1 LPA, with the highest package reaching up to ₹12.5 LPA.
 
 ### 3. What entrance exams are accepted by Lal Bahadur Shastri Varanasi Business School?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

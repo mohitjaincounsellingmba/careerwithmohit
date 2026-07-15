@@ -59,7 +59,7 @@ faqs:
 Yes, [ITM Mumbai](/colleges/itm-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [ITM Mumbai](/colleges/itm-mumbai)?
-The average placement package at ITM Mumbai is approximately ₹10.5 LPA, with the highest package reaching up to ₹25.0 LPA.
+The average placement package at [ITM Mumbai](/colleges/itm-mumbai) is approximately ₹10.5 LPA, with the highest package reaching up to ₹25.0 LPA.
 
 ### 3. What entrance exams are accepted by ITM Mumbai?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT, NMAT for the PGDM and MBA admissions.

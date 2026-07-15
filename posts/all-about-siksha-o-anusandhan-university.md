@@ -59,7 +59,7 @@ faqs:
 Yes, [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university)?
-The average placement package at Siksha 'O' Anusandhan University is approximately ₹6.0 LPA, with the highest package reaching up to ₹15.0 LPA.
+The average placement package at [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university) is approximately ₹6.0 LPA, with the highest package reaching up to ₹15.0 LPA.
 
 ### 3. What entrance exams are accepted by Siksha 'O' Anusandhan University?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

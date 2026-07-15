@@ -59,7 +59,7 @@ faqs:
 Yes, [IIHMR University](/colleges/iihmr-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [IIHMR University](/colleges/iihmr-university)?
-The average placement package at IIHMR University is approximately ₹5.3 LPA, with the highest package reaching up to ₹10.7 LPA.
+The average placement package at [IIHMR University](/colleges/iihmr-university) is approximately ₹5.3 LPA, with the highest package reaching up to ₹10.7 LPA.
 
 ### 3. What entrance exams are accepted by IIHMR University?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

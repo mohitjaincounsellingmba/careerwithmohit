@@ -59,7 +59,7 @@ faqs:
 Yes, [Sharda Hindupur Institute of Management](/colleges/sharda-hindupur-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Sharda Hindupur Institute of Management](/colleges/sharda-hindupur-institute-of-management)?
-The average placement package at Sharda Hindupur Institute of Management is approximately ₹7.8 LPA, with the highest package reaching up to ₹23.0 LPA.
+The average placement package at [Sharda Hindupur Institute of Management](/colleges/sharda-hindupur-institute-of-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹23.0 LPA.
 
 ### 3. What entrance exams are accepted by Sharda Hindupur Institute of Management?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

@@ -59,7 +59,7 @@ faqs:
 Yes, [ASM IIBR](/colleges/asm-iibr) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [ASM IIBR](/colleges/asm-iibr)?
-The average placement package at ASM IIBR is approximately ₹4.5 LPA, with the highest package reaching up to ₹16.0 LPA.
+The average placement package at [ASM IIBR](/colleges/asm-iibr) is approximately ₹4.5 LPA, with the highest package reaching up to ₹16.0 LPA.
 
 ### 3. What entrance exams are accepted by ASM IIBR?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.

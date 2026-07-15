@@ -59,7 +59,7 @@ faqs:
 Yes, [Galgotias Junagadh Institute of Professional Studies](/colleges/galgotias-junagadh-institute-of-professional-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Galgotias Junagadh Institute of Professional Studies](/colleges/galgotias-junagadh-institute-of-professional-studies)?
-The average placement package at Galgotias Junagadh Institute of Professional Studies is approximately ₹7.8 LPA, with the highest package reaching up to ₹23.0 LPA.
+The average placement package at [Galgotias Junagadh Institute of Professional Studies](/colleges/galgotias-junagadh-institute-of-professional-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹23.0 LPA.
 
 ### 3. What entrance exams are accepted by Galgotias Junagadh Institute of Professional Studies?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

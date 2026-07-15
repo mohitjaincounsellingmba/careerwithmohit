@@ -59,7 +59,7 @@ faqs:
 Yes, [Amity Ahmedabad Business School](/colleges/amity-ahmedabad-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Amity Ahmedabad Business School](/colleges/amity-ahmedabad-business-school)?
-The average placement package at Amity Ahmedabad Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹24.5 LPA.
+The average placement package at [Amity Ahmedabad Business School](/colleges/amity-ahmedabad-business-school) is approximately ₹8.5 LPA, with the highest package reaching up to ₹24.5 LPA.
 
 ### 3. What entrance exams are accepted by Amity Ahmedabad Business School?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

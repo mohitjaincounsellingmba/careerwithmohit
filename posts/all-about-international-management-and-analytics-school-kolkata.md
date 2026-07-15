@@ -59,7 +59,7 @@ faqs:
 Yes, [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata)?
-The average placement package at International Management and Analytics School Kolkata is approximately ₹16.40 LPA, with the highest package reaching up to ₹30 LPA.
+The average placement package at [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) is approximately ₹16.40 LPA, with the highest package reaching up to ₹30 LPA.
 
 ### 3. What entrance exams are accepted by International Management and Analytics School Kolkata?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

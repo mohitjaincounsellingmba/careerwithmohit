@@ -59,7 +59,7 @@ faqs:
 Yes, [Amity Shimoga Institute of Management & Technology](/colleges/amity-shimoga-institute-of-management-technology) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Amity Shimoga Institute of Management & Technology](/colleges/amity-shimoga-institute-of-management-technology)?
-The average placement package at Amity Shimoga Institute of Management & Technology is approximately ₹7.1 LPA, with the highest package reaching up to ₹18.5 LPA.
+The average placement package at [Amity Shimoga Institute of Management & Technology](/colleges/amity-shimoga-institute-of-management-technology) is approximately ₹7.1 LPA, with the highest package reaching up to ₹18.5 LPA.
 
 ### 3. What entrance exams are accepted by Amity Shimoga Institute of Management & Technology?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

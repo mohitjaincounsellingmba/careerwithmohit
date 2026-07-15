@@ -59,7 +59,7 @@ faqs:
 Yes, [National Dhule Business School](/colleges/national-dhule-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [National Dhule Business School](/colleges/national-dhule-business-school)?
-The average placement package at National Dhule Business School is approximately ₹7.1 LPA, with the highest package reaching up to ₹15.5 LPA.
+The average placement package at [National Dhule Business School](/colleges/national-dhule-business-school) is approximately ₹7.1 LPA, with the highest package reaching up to ₹15.5 LPA.
 
 ### 3. What entrance exams are accepted by National Dhule Business School?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

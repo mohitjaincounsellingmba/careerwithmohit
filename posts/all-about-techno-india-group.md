@@ -59,7 +59,7 @@ faqs:
 Yes, [Techno India Group](/colleges/techno-india-group) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Techno India Group](/colleges/techno-india-group)?
-The average placement package at Techno India Group is approximately ₹5.6 LPA, with the highest package reaching up to ₹13.6 LPA.
+The average placement package at [Techno India Group](/colleges/techno-india-group) is approximately ₹5.6 LPA, with the highest package reaching up to ₹13.6 LPA.
 
 ### 3. What entrance exams are accepted by Techno India Group?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

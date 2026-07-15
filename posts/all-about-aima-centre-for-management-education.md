@@ -59,7 +59,7 @@ faqs:
 Yes, [AIMA-Centre for Management Education](/colleges/aima-centre-for-management-education) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [AIMA-Centre for Management Education](/colleges/aima-centre-for-management-education)?
-The average placement package at AIMA-Centre for Management Education is approximately ₹8 LPA, with the highest package reaching up to ₹20 LPA.
+The average placement package at [AIMA-Centre for Management Education](/colleges/aima-centre-for-management-education) is approximately ₹8 LPA, with the highest package reaching up to ₹20 LPA.
 
 ### 3. What entrance exams are accepted by AIMA-Centre for Management Education?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

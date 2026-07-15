@@ -59,7 +59,7 @@ faqs:
 Yes, [IMI Delhi](/colleges/imi-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [IMI Delhi](/colleges/imi-delhi)?
-The average placement package at IMI Delhi is approximately ₹16.56 LPA, with the highest package reaching up to ₹40.0 LPA.
+The average placement package at [IMI Delhi](/colleges/imi-delhi) is approximately ₹16.56 LPA, with the highest package reaching up to ₹40.0 LPA.
 
 ### 3. What entrance exams are accepted by IMI Delhi?
 The college accepts scores from national level entrance examinations including CAT, XAT, GMAT for the PGDM and MBA admissions.

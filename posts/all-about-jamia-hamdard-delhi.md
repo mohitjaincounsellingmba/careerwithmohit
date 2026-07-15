@@ -59,7 +59,7 @@ faqs:
 Yes, [Jamia Hamdard](/colleges/jamia-hamdard-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Jamia Hamdard](/colleges/jamia-hamdard-delhi)?
-The average placement package at Jamia Hamdard is approximately ₹5.52 LPA, with the highest package reaching up to ₹10.00 LPA.
+The average placement package at [Jamia Hamdard](/colleges/jamia-hamdard-delhi) is approximately ₹5.52 LPA, with the highest package reaching up to ₹10.00 LPA.
 
 ### 3. What entrance exams are accepted by Jamia Hamdard?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.

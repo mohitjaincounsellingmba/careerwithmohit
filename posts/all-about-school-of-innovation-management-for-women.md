@@ -59,7 +59,7 @@ faqs:
 Yes, [School of Innovation & Management (for Women)](/colleges/school-of-innovation-management-for-women) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [School of Innovation & Management (for Women)](/colleges/school-of-innovation-management-for-women)?
-The average placement package at School of Innovation & Management (for Women) is approximately ₹4.9 LPA, with the highest package reaching up to ₹12.7 LPA.
+The average placement package at [School of Innovation & Management (for Women)](/colleges/school-of-innovation-management-for-women) is approximately ₹4.9 LPA, with the highest package reaching up to ₹12.7 LPA.
 
 ### 3. What entrance exams are accepted by School of Innovation & Management (for Women)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.

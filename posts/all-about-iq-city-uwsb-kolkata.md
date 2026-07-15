@@ -59,7 +59,7 @@ faqs:
 Yes, [IQ City United World School of Business (UWSB)](/colleges/iq-city-uwsb-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [IQ City United World School of Business (UWSB)](/colleges/iq-city-uwsb-kolkata)?
-The average placement package at IQ City United World School of Business (UWSB) is approximately ₹6.0 LPA, with the highest package reaching up to ₹14.0 LPA.
+The average placement package at [IQ City United World School of Business (UWSB)](/colleges/iq-city-uwsb-kolkata) is approximately ₹6.0 LPA, with the highest package reaching up to ₹14.0 LPA.
 
 ### 3. What entrance exams are accepted by IQ City United World School of Business (UWSB)?
 The college accepts scores from national level entrance examinations including CAT, CMAT, MAT, JEMAT for the PGDM and MBA admissions.

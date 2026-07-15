@@ -59,7 +59,7 @@ faqs:
 Yes, [Lal Bahadur Shastri Kottayam Institute of Professional Studies](/colleges/lal-bahadur-shastri-kottayam-institute-of-professional-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Lal Bahadur Shastri Kottayam Institute of Professional Studies](/colleges/lal-bahadur-shastri-kottayam-institute-of-professional-studies)?
-The average placement package at Lal Bahadur Shastri Kottayam Institute of Professional Studies is approximately ₹6.4 LPA, with the highest package reaching up to ₹14.0 LPA.
+The average placement package at [Lal Bahadur Shastri Kottayam Institute of Professional Studies](/colleges/lal-bahadur-shastri-kottayam-institute-of-professional-studies) is approximately ₹6.4 LPA, with the highest package reaching up to ₹14.0 LPA.
 
 ### 3. What entrance exams are accepted by Lal Bahadur Shastri Kottayam Institute of Professional Studies?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
