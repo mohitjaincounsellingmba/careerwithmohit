@@ -61,7 +61,7 @@ Yes, [Amity Malappuram School of Business & Management](/colleges/amity-malappur
 ### 2. What is the average package offered at [Amity Malappuram School of Business & Management](/colleges/amity-malappuram-school-of-business-management)?
 The average placement package at [Amity Malappuram School of Business & Management](/colleges/amity-malappuram-school-of-business-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹17.0 LPA.
 
-### 3. What entrance exams are accepted by Amity Malappuram School of Business & Management?
+### 3. What entrance exams are accepted by [Amity Malappuram School of Business & Management](/colleges/amity-malappuram-school-of-business-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

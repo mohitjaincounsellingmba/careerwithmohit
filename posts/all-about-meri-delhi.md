@@ -61,7 +61,7 @@ Yes, [MERI Janakpuri (Management Education and Research Institute)](/colleges/me
 ### 2. What is the average package offered at [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi)?
 The average placement package at [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi) is approximately ₹7.5 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by MERI Janakpuri (Management Education and Research Institute)?
+### 3. What entrance exams are accepted by [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi)?
 The college accepts scores from national level entrance examinations including IPU CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

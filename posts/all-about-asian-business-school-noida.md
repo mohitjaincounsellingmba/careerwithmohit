@@ -61,7 +61,7 @@ Yes, [Asian Business School (ABS)](/colleges/asian-business-school-noida) is a h
 ### 2. What is the average package offered at [Asian Business School (ABS)](/colleges/asian-business-school-noida)?
 The average placement package at [Asian Business School (ABS)](/colleges/asian-business-school-noida) is approximately ₹7.5 LPA, with the highest package reaching up to ₹30.0 LPA.
 
-### 3. What entrance exams are accepted by Asian Business School (ABS)?
+### 3. What entrance exams are accepted by [Asian Business School (ABS)](/colleges/asian-business-school-noida)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

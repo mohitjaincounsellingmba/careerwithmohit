@@ -61,7 +61,7 @@ Yes, [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-scho
 ### 2. What is the average package offered at [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-school)?
 The average placement package at [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-school) is approximately ₹5.7 LPA, with the highest package reaching up to ₹24.5 LPA.
 
-### 3. What entrance exams are accepted by Sharda Nandurbar Business School?
+### 3. What entrance exams are accepted by [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Symbiosis Guwahati Business School](/colleges/symbiosis-guwahati-business-
 ### 2. What is the average package offered at [Symbiosis Guwahati Business School](/colleges/symbiosis-guwahati-business-school)?
 The average placement package at [Symbiosis Guwahati Business School](/colleges/symbiosis-guwahati-business-school) is approximately ₹5.7 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by Symbiosis Guwahati Business School?
+### 3. What entrance exams are accepted by [Symbiosis Guwahati Business School](/colleges/symbiosis-guwahati-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

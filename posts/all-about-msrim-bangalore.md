@@ -61,7 +61,7 @@ Yes, [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) is a highly respecte
 ### 2. What is the average package offered at [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore)?
 The average placement package at [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) is approximately ₹9.2 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by MSRIM (Ramaiah) Bangalore?
+### 3. What entrance exams are accepted by [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore)?
 The college accepts scores from national level entrance examinations including MAT, CMAT, CAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Galgotias Erode Institute of Professional Studies](/colleges/galgotias-ero
 ### 2. What is the average package offered at [Galgotias Erode Institute of Professional Studies](/colleges/galgotias-erode-institute-of-professional-studies)?
 The average placement package at [Galgotias Erode Institute of Professional Studies](/colleges/galgotias-erode-institute-of-professional-studies) is approximately ₹6.4 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Erode Institute of Professional Studies?
+### 3. What entrance exams are accepted by [Galgotias Erode Institute of Professional Studies](/colleges/galgotias-erode-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

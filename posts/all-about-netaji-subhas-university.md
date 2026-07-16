@@ -61,7 +61,7 @@ Yes, [Netaji Subhas University](/colleges/netaji-subhas-university) is a highly 
 ### 2. What is the average package offered at [Netaji Subhas University](/colleges/netaji-subhas-university)?
 The average placement package at [Netaji Subhas University](/colleges/netaji-subhas-university) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.3 LPA.
 
-### 3. What entrance exams are accepted by Netaji Subhas University?
+### 3. What entrance exams are accepted by [Netaji Subhas University](/colleges/netaji-subhas-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

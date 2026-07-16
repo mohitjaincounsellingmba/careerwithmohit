@@ -61,7 +61,7 @@ Yes, [International School of Management Patna](/colleges/international-school-o
 ### 2. What is the average package offered at [International School of Management Patna](/colleges/international-school-of-management-patna)?
 The average placement package at [International School of Management Patna](/colleges/international-school-of-management-patna) is approximately ₹6 LPA, with the highest package reaching up to ₹19 LPA.
 
-### 3. What entrance exams are accepted by International School of Management Patna?
+### 3. What entrance exams are accepted by [International School of Management Patna](/colleges/international-school-of-management-patna)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

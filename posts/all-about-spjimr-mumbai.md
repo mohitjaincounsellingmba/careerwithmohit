@@ -61,7 +61,7 @@ Yes, [SPJIMR Mumbai](/colleges/spjimr-mumbai) is a highly respected institution 
 ### 2. What is the average package offered at [SPJIMR Mumbai](/colleges/spjimr-mumbai)?
 The average placement package at [SPJIMR Mumbai](/colleges/spjimr-mumbai) is approximately ₹33.0 LPA, with the highest package reaching up to ₹77.8 LPA.
 
-### 3. What entrance exams are accepted by SPJIMR Mumbai?
+### 3. What entrance exams are accepted by [SPJIMR Mumbai](/colleges/spjimr-mumbai)?
 The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
 
 ---

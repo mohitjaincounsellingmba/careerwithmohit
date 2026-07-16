@@ -61,7 +61,7 @@ Yes, [Symbiosis Gwalior Institute of Business Studies](/colleges/symbiosis-gwali
 ### 2. What is the average package offered at [Symbiosis Gwalior Institute of Business Studies](/colleges/symbiosis-gwalior-institute-of-business-studies)?
 The average placement package at [Symbiosis Gwalior Institute of Business Studies](/colleges/symbiosis-gwalior-institute-of-business-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by Symbiosis Gwalior Institute of Business Studies?
+### 3. What entrance exams are accepted by [Symbiosis Gwalior Institute of Business Studies](/colleges/symbiosis-gwalior-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

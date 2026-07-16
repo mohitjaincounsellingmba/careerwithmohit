@@ -61,7 +61,7 @@ Yes, [SIBM Bangalore](/colleges/sibm-bangalore) is a highly respected institutio
 ### 2. What is the average package offered at [SIBM Bangalore](/colleges/sibm-bangalore)?
 The average placement package at [SIBM Bangalore](/colleges/sibm-bangalore) is approximately ₹14.5 LPA, with the highest package reaching up to ₹24.0 LPA.
 
-### 3. What entrance exams are accepted by SIBM Bangalore?
+### 3. What entrance exams are accepted by [SIBM Bangalore](/colleges/sibm-bangalore)?
 The college accepts scores from national level entrance examinations including SNAP for the PGDM and MBA admissions.
 
 ---

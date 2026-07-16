@@ -61,7 +61,7 @@ Yes, [Galgotias Tiruppur Institute of Management](/colleges/galgotias-tiruppur-i
 ### 2. What is the average package offered at [Galgotias Tiruppur Institute of Management](/colleges/galgotias-tiruppur-institute-of-management)?
 The average placement package at [Galgotias Tiruppur Institute of Management](/colleges/galgotias-tiruppur-institute-of-management) is approximately ₹5.0 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Tiruppur Institute of Management?
+### 3. What entrance exams are accepted by [Galgotias Tiruppur Institute of Management](/colleges/galgotias-tiruppur-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

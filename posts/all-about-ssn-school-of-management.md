@@ -61,7 +61,7 @@ Yes, [SSN School of Management](/colleges/ssn-school-of-management) is a highly 
 ### 2. What is the average package offered at [SSN School of Management](/colleges/ssn-school-of-management)?
 The average placement package at [SSN School of Management](/colleges/ssn-school-of-management) is approximately ₹5.1 LPA, with the highest package reaching up to ₹11.9 LPA.
 
-### 3. What entrance exams are accepted by SSN School of Management?
+### 3. What entrance exams are accepted by [SSN School of Management](/colleges/ssn-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

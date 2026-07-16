@@ -61,7 +61,7 @@ Yes, [International Adilabad Graduate School of Management](/colleges/internatio
 ### 2. What is the average package offered at [International Adilabad Graduate School of Management](/colleges/international-adilabad-graduate-school-of-management)?
 The average placement package at [International Adilabad Graduate School of Management](/colleges/international-adilabad-graduate-school-of-management) is approximately ₹5.7 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by International Adilabad Graduate School of Management?
+### 3. What entrance exams are accepted by [International Adilabad Graduate School of Management](/colleges/international-adilabad-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

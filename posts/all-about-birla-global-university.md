@@ -61,7 +61,7 @@ Yes, [Birla Global University](/colleges/birla-global-university) is a highly re
 ### 2. What is the average package offered at [Birla Global University](/colleges/birla-global-university)?
 The average placement package at [Birla Global University](/colleges/birla-global-university) is approximately ₹6.01 LPA, with the highest package reaching up to ₹16.42 LPA.
 
-### 3. What entrance exams are accepted by Birla Global University?
+### 3. What entrance exams are accepted by [Birla Global University](/colleges/birla-global-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

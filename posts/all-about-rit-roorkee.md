@@ -61,7 +61,7 @@ Yes, [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) is a highly 
 ### 2. What is the average package offered at [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee)?
 The average placement package at [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
 
-### 3. What entrance exams are accepted by Roorkee Institute of Technology (RIT)?
+### 3. What entrance exams are accepted by [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Presidency University](/colleges/presidency-university) is a highly respec
 ### 2. What is the average package offered at [Presidency University](/colleges/presidency-university)?
 The average placement package at [Presidency University](/colleges/presidency-university) is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.1 LPA.
 
-### 3. What entrance exams are accepted by Presidency University?
+### 3. What entrance exams are accepted by [Presidency University](/colleges/presidency-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

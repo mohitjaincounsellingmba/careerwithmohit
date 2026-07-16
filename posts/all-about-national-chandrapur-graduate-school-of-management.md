@@ -61,7 +61,7 @@ Yes, [National Chandrapur Graduate School of Management](/colleges/national-chan
 ### 2. What is the average package offered at [National Chandrapur Graduate School of Management](/colleges/national-chandrapur-graduate-school-of-management)?
 The average placement package at [National Chandrapur Graduate School of Management](/colleges/national-chandrapur-graduate-school-of-management) is approximately ₹8.5 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by National Chandrapur Graduate School of Management?
+### 3. What entrance exams are accepted by [National Chandrapur Graduate School of Management](/colleges/national-chandrapur-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Christ University Bangalore](/colleges/christ-university-bangalore) is a h
 ### 2. What is the average package offered at [Christ University Bangalore](/colleges/christ-university-bangalore)?
 The average placement package at [Christ University Bangalore](/colleges/christ-university-bangalore) is approximately ₹7.7 LPA, with the highest package reaching up to ₹15.0 LPA.
 
-### 3. What entrance exams are accepted by Christ University Bangalore?
+### 3. What entrance exams are accepted by [Christ University Bangalore](/colleges/christ-university-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [IZee Business School](/colleges/izee-bangalore) is a highly respected inst
 ### 2. What is the average package offered at [IZee Business School](/colleges/izee-bangalore)?
 The average placement package at [IZee Business School](/colleges/izee-bangalore) is approximately ₹6.5 LPA, with the highest package reaching up to ₹15.0 LPA.
 
-### 3. What entrance exams are accepted by IZee Business School?
+### 3. What entrance exams are accepted by [IZee Business School](/colleges/izee-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, KMAT for the PGDM and MBA admissions.
 
 ---

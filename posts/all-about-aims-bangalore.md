@@ -61,7 +61,7 @@ Yes, [AIMS Institutes Bangalore](/colleges/aims-bangalore) is a highly respected
 ### 2. What is the average package offered at [AIMS Institutes Bangalore](/colleges/aims-bangalore)?
 The average placement package at [AIMS Institutes Bangalore](/colleges/aims-bangalore) is approximately ₹9.0 LPA, with the highest package reaching up to ₹18.0 LPA.
 
-### 3. What entrance exams are accepted by AIMS Institutes Bangalore?
+### 3. What entrance exams are accepted by [AIMS Institutes Bangalore](/colleges/aims-bangalore)?
 The college accepts scores from national level entrance examinations including MAT, CAT, CMAT for the PGDM and MBA admissions.
 
 ---

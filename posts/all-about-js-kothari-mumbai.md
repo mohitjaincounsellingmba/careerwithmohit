@@ -61,7 +61,7 @@ Yes, [J.S. Kothari Business School](/colleges/js-kothari-mumbai) is a highly res
 ### 2. What is the average package offered at [J.S. Kothari Business School](/colleges/js-kothari-mumbai)?
 The average placement package at [J.S. Kothari Business School](/colleges/js-kothari-mumbai) is approximately ₹5.5 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by J.S. Kothari Business School?
+### 3. What entrance exams are accepted by [J.S. Kothari Business School](/colleges/js-kothari-mumbai)?
 The college accepts scores from national level entrance examinations including MAH CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

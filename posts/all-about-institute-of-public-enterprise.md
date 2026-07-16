@@ -61,7 +61,7 @@ Yes, [Institute of Public Enterprise](/colleges/institute-of-public-enterprise) 
 ### 2. What is the average package offered at [Institute of Public Enterprise](/colleges/institute-of-public-enterprise)?
 The average placement package at [Institute of Public Enterprise](/colleges/institute-of-public-enterprise) is approximately ₹5.9 LPA, with the highest package reaching up to ₹14.7 LPA.
 
-### 3. What entrance exams are accepted by Institute of Public Enterprise?
+### 3. What entrance exams are accepted by [Institute of Public Enterprise](/colleges/institute-of-public-enterprise)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

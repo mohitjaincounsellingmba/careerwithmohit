@@ -61,7 +61,7 @@ Yes, [Adamas University](/colleges/adamas-university) is a highly respected inst
 ### 2. What is the average package offered at [Adamas University](/colleges/adamas-university)?
 The average placement package at [Adamas University](/colleges/adamas-university) is approximately ₹8.48 LPA, with the highest package reaching up to ₹6 LPA.
 
-### 3. What entrance exams are accepted by Adamas University?
+### 3. What entrance exams are accepted by [Adamas University](/colleges/adamas-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

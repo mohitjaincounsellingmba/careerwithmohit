@@ -61,7 +61,7 @@ Yes, [SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business) 
 ### 2. What is the average package offered at [SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business)?
 The average placement package at [SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business) is approximately ₹5.7 LPA, with the highest package reaching up to ₹13.8 LPA.
 
-### 3. What entrance exams are accepted by SCMS Cochin School of Business?
+### 3. What entrance exams are accepted by [SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

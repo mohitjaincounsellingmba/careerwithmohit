@@ -61,7 +61,7 @@ Yes, [International Guntur Business School](/colleges/international-guntur-busin
 ### 2. What is the average package offered at [International Guntur Business School](/colleges/international-guntur-business-school)?
 The average placement package at [International Guntur Business School](/colleges/international-guntur-business-school) is approximately ₹7.1 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by International Guntur Business School?
+### 3. What entrance exams are accepted by [International Guntur Business School](/colleges/international-guntur-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

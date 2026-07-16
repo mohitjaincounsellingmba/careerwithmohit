@@ -61,7 +61,7 @@ Yes, [International School of Business & Media](/colleges/international-school-o
 ### 2. What is the average package offered at [International School of Business & Media](/colleges/international-school-of-business-media)?
 The average placement package at [International School of Business & Media](/colleges/international-school-of-business-media) is approximately ₹6 LPA, with the highest package reaching up to ₹10 LPA.
 
-### 3. What entrance exams are accepted by International School of Business & Media?
+### 3. What entrance exams are accepted by [International School of Business & Media](/colleges/international-school-of-business-media)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi) is 
 ### 2. What is the average package offered at [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi)?
 The average placement package at [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi) is approximately ₹5.5 LPA, with the highest package reaching up to ₹10.0 LPA.
 
-### 3. What entrance exams are accepted by Gitarattan International Business School (GIBS)?
+### 3. What entrance exams are accepted by [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi)?
 The college accepts scores from national level entrance examinations including IPU CET, CAT, CMAT for the PGDM and MBA admissions.
 
 ---

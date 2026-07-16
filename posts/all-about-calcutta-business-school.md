@@ -61,7 +61,7 @@ Yes, [Calcutta Business School](/colleges/calcutta-business-school) is a highly 
 ### 2. What is the average package offered at [Calcutta Business School](/colleges/calcutta-business-school)?
 The average placement package at [Calcutta Business School](/colleges/calcutta-business-school) is approximately ₹6.5 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by Calcutta Business School?
+### 3. What entrance exams are accepted by [Calcutta Business School](/colleges/calcutta-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT, JEMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Universal AI University (UBS)](/colleges/universal-ai-mumbai) is a highly 
 ### 2. What is the average package offered at [Universal AI University (UBS)](/colleges/universal-ai-mumbai)?
 The average placement package at [Universal AI University (UBS)](/colleges/universal-ai-mumbai) is approximately ₹10.5 LPA, with the highest package reaching up to ₹42.0 LPA.
 
-### 3. What entrance exams are accepted by Universal AI University (UBS)?
+### 3. What entrance exams are accepted by [Universal AI University (UBS)](/colleges/universal-ai-mumbai)?
 The college accepts scores from national level entrance examinations including CAT, GMAT, CMAT, MAH CET for the PGDM and MBA admissions.
 
 ---

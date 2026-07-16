@@ -61,7 +61,7 @@ Yes, [RVIM Bangalore](/colleges/rvim-bangalore) is a highly respected institutio
 ### 2. What is the average package offered at [RVIM Bangalore](/colleges/rvim-bangalore)?
 The average placement package at [RVIM Bangalore](/colleges/rvim-bangalore) is approximately ₹7.2 LPA, with the highest package reaching up to ₹15.0 LPA.
 
-### 3. What entrance exams are accepted by RVIM Bangalore?
+### 3. What entrance exams are accepted by [RVIM Bangalore](/colleges/rvim-bangalore)?
 The college accepts scores from national level entrance examinations including PGCET, MAT for the PGDM and MBA admissions.
 
 ---

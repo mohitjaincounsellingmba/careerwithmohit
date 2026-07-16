@@ -61,7 +61,7 @@ Yes, [JAGSoM (IFIM) Bangalore](/colleges/jagsom-bangalore) is a highly respected
 ### 2. What is the average package offered at [JAGSoM (IFIM) Bangalore](/colleges/jagsom-bangalore)?
 The average placement package at [JAGSoM (IFIM) Bangalore](/colleges/jagsom-bangalore) is approximately ₹10.9 LPA, with the highest package reaching up to ₹43.0 LPA.
 
-### 3. What entrance exams are accepted by JAGSoM (IFIM) Bangalore?
+### 3. What entrance exams are accepted by [JAGSoM (IFIM) Bangalore](/colleges/jagsom-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, XAT, GMAT for the PGDM and MBA admissions.
 
 ---

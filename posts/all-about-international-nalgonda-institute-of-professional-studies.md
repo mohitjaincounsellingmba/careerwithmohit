@@ -61,7 +61,7 @@ Yes, [International Nalgonda Institute of Professional Studies](/colleges/intern
 ### 2. What is the average package offered at [International Nalgonda Institute of Professional Studies](/colleges/international-nalgonda-institute-of-professional-studies)?
 The average placement package at [International Nalgonda Institute of Professional Studies](/colleges/international-nalgonda-institute-of-professional-studies) is approximately ₹5.0 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by International Nalgonda Institute of Professional Studies?
+### 3. What entrance exams are accepted by [International Nalgonda Institute of Professional Studies](/colleges/international-nalgonda-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

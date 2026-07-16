@@ -61,7 +61,7 @@ Yes, [Ranipet Business School](/colleges/ranipet-business-school) is a highly re
 ### 2. What is the average package offered at [Ranipet Business School](/colleges/ranipet-business-school)?
 The average placement package at [Ranipet Business School](/colleges/ranipet-business-school) is approximately ₹7.1 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by Ranipet Business School?
+### 3. What entrance exams are accepted by [Ranipet Business School](/colleges/ranipet-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Institute of Business Management and Research](/colleges/institute-of-busi
 ### 2. What is the average package offered at [Institute of Business Management and Research](/colleges/institute-of-business-management-and-research)?
 The average placement package at [Institute of Business Management and Research](/colleges/institute-of-business-management-and-research) is approximately ₹16.40 LPA, with the highest package reaching up to ₹10 LPA.
 
-### 3. What entrance exams are accepted by Institute of Business Management and Research?
+### 3. What entrance exams are accepted by [Institute of Business Management and Research](/colleges/institute-of-business-management-and-research)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

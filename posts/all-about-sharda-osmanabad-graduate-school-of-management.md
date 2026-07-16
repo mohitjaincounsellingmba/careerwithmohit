@@ -61,7 +61,7 @@ Yes, [Sharda Osmanabad Graduate School of Management](/colleges/sharda-osmanabad
 ### 2. What is the average package offered at [Sharda Osmanabad Graduate School of Management](/colleges/sharda-osmanabad-graduate-school-of-management)?
 The average placement package at [Sharda Osmanabad Graduate School of Management](/colleges/sharda-osmanabad-graduate-school-of-management) is approximately ₹7.1 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by Sharda Osmanabad Graduate School of Management?
+### 3. What entrance exams are accepted by [Sharda Osmanabad Graduate School of Management](/colleges/sharda-osmanabad-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

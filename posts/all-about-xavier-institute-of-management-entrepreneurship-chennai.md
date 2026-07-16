@@ -61,7 +61,7 @@ Yes, [Xavier Institute of Management & Entrepreneurship, Chennai](/colleges/xavi
 ### 2. What is the average package offered at [Xavier Institute of Management & Entrepreneurship, Chennai](/colleges/xavier-institute-of-management-entrepreneurship-chennai)?
 The average placement package at [Xavier Institute of Management & Entrepreneurship, Chennai](/colleges/xavier-institute-of-management-entrepreneurship-chennai) is approximately ₹5.7 LPA, with the highest package reaching up to ₹11.7 LPA.
 
-### 3. What entrance exams are accepted by Xavier Institute of Management & Entrepreneurship, Chennai?
+### 3. What entrance exams are accepted by [Xavier Institute of Management & Entrepreneurship, Chennai](/colleges/xavier-institute-of-management-entrepreneurship-chennai)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

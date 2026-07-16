@@ -61,7 +61,7 @@ Yes, [Sharda Bhilai Institute of Professional Studies](/colleges/sharda-bhilai-i
 ### 2. What is the average package offered at [Sharda Bhilai Institute of Professional Studies](/colleges/sharda-bhilai-institute-of-professional-studies)?
 The average placement package at [Sharda Bhilai Institute of Professional Studies](/colleges/sharda-bhilai-institute-of-professional-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by Sharda Bhilai Institute of Professional Studies?
+### 3. What entrance exams are accepted by [Sharda Bhilai Institute of Professional Studies](/colleges/sharda-bhilai-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

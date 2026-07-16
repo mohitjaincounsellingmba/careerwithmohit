@@ -61,7 +61,7 @@ Yes, [Jaipuria Jaipur](/colleges/jaipuria-jaipur) is a highly respected institut
 ### 2. What is the average package offered at [Jaipuria Jaipur](/colleges/jaipuria-jaipur)?
 The average placement package at [Jaipuria Jaipur](/colleges/jaipuria-jaipur) is approximately ₹8.5 LPA, with the highest package reaching up to ₹22.0 LPA.
 
-### 3. What entrance exams are accepted by Jaipuria Jaipur?
+### 3. What entrance exams are accepted by [Jaipuria Jaipur](/colleges/jaipuria-jaipur)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

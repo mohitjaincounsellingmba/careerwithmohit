@@ -61,7 +61,7 @@ Yes, [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) is a h
 ### 2. What is the average package offered at [JK Business School,Gurugram](/colleges/jk-business-school-gurugram)?
 The average placement package at [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) is approximately ₹6.20 LPA, with the highest package reaching up to ₹24 LPA.
 
-### 3. What entrance exams are accepted by JK Business School,Gurugram?
+### 3. What entrance exams are accepted by [JK Business School,Gurugram](/colleges/jk-business-school-gurugram)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

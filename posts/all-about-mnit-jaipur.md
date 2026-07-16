@@ -61,7 +61,7 @@ Yes, [MNIT Jaipur](/colleges/mnit-jaipur) is a highly respected institution know
 ### 2. What is the average package offered at [MNIT Jaipur](/colleges/mnit-jaipur)?
 The average placement package at [MNIT Jaipur](/colleges/mnit-jaipur) is approximately ₹7.5 LPA, with the highest package reaching up to ₹16.0 LPA.
 
-### 3. What entrance exams are accepted by MNIT Jaipur?
+### 3. What entrance exams are accepted by [MNIT Jaipur](/colleges/mnit-jaipur)?
 The college accepts scores from national level entrance examinations including CAT, CMAT for the PGDM and MBA admissions.
 
 ---

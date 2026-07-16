@@ -61,7 +61,7 @@ Yes, [Xavier Jaipur Business School](/colleges/xavier-jaipur-business-school) is
 ### 2. What is the average package offered at [Xavier Jaipur Business School](/colleges/xavier-jaipur-business-school)?
 The average placement package at [Xavier Jaipur Business School](/colleges/xavier-jaipur-business-school) is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
 
-### 3. What entrance exams are accepted by Xavier Jaipur Business School?
+### 3. What entrance exams are accepted by [Xavier Jaipur Business School](/colleges/xavier-jaipur-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

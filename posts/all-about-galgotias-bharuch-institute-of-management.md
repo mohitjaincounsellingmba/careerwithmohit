@@ -61,7 +61,7 @@ Yes, [Galgotias Bharuch Institute of Management](/colleges/galgotias-bharuch-ins
 ### 2. What is the average package offered at [Galgotias Bharuch Institute of Management](/colleges/galgotias-bharuch-institute-of-management)?
 The average placement package at [Galgotias Bharuch Institute of Management](/colleges/galgotias-bharuch-institute-of-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Bharuch Institute of Management?
+### 3. What entrance exams are accepted by [Galgotias Bharuch Institute of Management](/colleges/galgotias-bharuch-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

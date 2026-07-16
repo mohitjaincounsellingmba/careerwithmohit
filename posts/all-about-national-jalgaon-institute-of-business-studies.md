@@ -61,7 +61,7 @@ Yes, [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon
 ### 2. What is the average package offered at [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon-institute-of-business-studies)?
 The average placement package at [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon-institute-of-business-studies) is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by National Jalgaon Institute of Business Studies?
+### 3. What entrance exams are accepted by [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

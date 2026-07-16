@@ -61,7 +61,7 @@ Yes, [Xavier Ambur Global Institute of Management](/colleges/xavier-ambur-global
 ### 2. What is the average package offered at [Xavier Ambur Global Institute of Management](/colleges/xavier-ambur-global-institute-of-management)?
 The average placement package at [Xavier Ambur Global Institute of Management](/colleges/xavier-ambur-global-institute-of-management) is approximately ₹7.1 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by Xavier Ambur Global Institute of Management?
+### 3. What entrance exams are accepted by [Xavier Ambur Global Institute of Management](/colleges/xavier-ambur-global-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon
 ### 2. What is the average package offered at [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence)?
 The average placement package at [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) is approximately ₹6.5 LPA, with the highest package reaching up to ₹13.3 LPA.
 
-### 3. What entrance exams are accepted by Lexicon Management Institute of Leadership & Excellence?
+### 3. What entrance exams are accepted by [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

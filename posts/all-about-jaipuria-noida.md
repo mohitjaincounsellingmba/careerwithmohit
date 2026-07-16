@@ -61,7 +61,7 @@ Yes, [Jaipuria Noida](/colleges/jaipuria-noida) is a highly respected institutio
 ### 2. What is the average package offered at [Jaipuria Noida](/colleges/jaipuria-noida)?
 The average placement package at [Jaipuria Noida](/colleges/jaipuria-noida) is approximately ₹12.88 LPA, with the highest package reaching up to ₹36.64 LPA.
 
-### 3. What entrance exams are accepted by Jaipuria Noida?
+### 3. What entrance exams are accepted by [Jaipuria Noida](/colleges/jaipuria-noida)?
 The college accepts scores from national level entrance examinations including CAT, XAT, MAT, CMAT, ATMA for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Lal Bahadur Shastri Jaipur School of Business & Management](/colleges/lal-
 ### 2. What is the average package offered at [Lal Bahadur Shastri Jaipur School of Business & Management](/colleges/lal-bahadur-shastri-jaipur-school-of-business-management)?
 The average placement package at [Lal Bahadur Shastri Jaipur School of Business & Management](/colleges/lal-bahadur-shastri-jaipur-school-of-business-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by Lal Bahadur Shastri Jaipur School of Business & Management?
+### 3. What entrance exams are accepted by [Lal Bahadur Shastri Jaipur School of Business & Management](/colleges/lal-bahadur-shastri-jaipur-school-of-business-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

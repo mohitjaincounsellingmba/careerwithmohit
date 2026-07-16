@@ -61,7 +61,7 @@ Yes, [Amity Kannur Institute of Management & Technology](/colleges/amity-kannur-
 ### 2. What is the average package offered at [Amity Kannur Institute of Management & Technology](/colleges/amity-kannur-institute-of-management-technology)?
 The average placement package at [Amity Kannur Institute of Management & Technology](/colleges/amity-kannur-institute-of-management-technology) is approximately ₹8.5 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by Amity Kannur Institute of Management & Technology?
+### 3. What entrance exams are accepted by [Amity Kannur Institute of Management & Technology](/colleges/amity-kannur-institute-of-management-technology)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

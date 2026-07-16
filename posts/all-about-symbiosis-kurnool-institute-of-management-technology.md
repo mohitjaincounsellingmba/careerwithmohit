@@ -61,7 +61,7 @@ Yes, [Symbiosis Kurnool Institute of Management & Technology](/colleges/symbiosi
 ### 2. What is the average package offered at [Symbiosis Kurnool Institute of Management & Technology](/colleges/symbiosis-kurnool-institute-of-management-technology)?
 The average placement package at [Symbiosis Kurnool Institute of Management & Technology](/colleges/symbiosis-kurnool-institute-of-management-technology) is approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by Symbiosis Kurnool Institute of Management & Technology?
+### 3. What entrance exams are accepted by [Symbiosis Kurnool Institute of Management & Technology](/colleges/symbiosis-kurnool-institute-of-management-technology)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

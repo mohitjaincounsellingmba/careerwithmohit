@@ -61,7 +61,7 @@ Yes, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) is a
 ### 2. What is the average package offered at [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)?
 The average placement package at [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) is approximately ₹6.0 LPA, with the highest package reaching up to ₹18.0 LPA.
 
-### 3. What entrance exams are accepted by Lloyd Business School?
+### 3. What entrance exams are accepted by [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Xavier Bathinda Institute of Management](/colleges/xavier-bathinda-institu
 ### 2. What is the average package offered at [Xavier Bathinda Institute of Management](/colleges/xavier-bathinda-institute-of-management)?
 The average placement package at [Xavier Bathinda Institute of Management](/colleges/xavier-bathinda-institute-of-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by Xavier Bathinda Institute of Management?
+### 3. What entrance exams are accepted by [Xavier Bathinda Institute of Management](/colleges/xavier-bathinda-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

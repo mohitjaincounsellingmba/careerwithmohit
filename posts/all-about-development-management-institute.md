@@ -61,7 +61,7 @@ Yes, [Development Management Institute](/colleges/development-management-institu
 ### 2. What is the average package offered at [Development Management Institute](/colleges/development-management-institute)?
 The average placement package at [Development Management Institute](/colleges/development-management-institute) is approximately ₹5 LPA, with the highest package reaching up to ₹8.2 LPA.
 
-### 3. What entrance exams are accepted by Development Management Institute?
+### 3. What entrance exams are accepted by [Development Management Institute](/colleges/development-management-institute)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

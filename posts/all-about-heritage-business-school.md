@@ -61,7 +61,7 @@ Yes, [Heritage Business School](/colleges/heritage-business-school) is a highly 
 ### 2. What is the average package offered at [Heritage Business School](/colleges/heritage-business-school)?
 The average placement package at [Heritage Business School](/colleges/heritage-business-school) is approximately ₹5.4 LPA, with the highest package reaching up to ₹5.4 LPA.
 
-### 3. What entrance exams are accepted by Heritage Business School?
+### 3. What entrance exams are accepted by [Heritage Business School](/colleges/heritage-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

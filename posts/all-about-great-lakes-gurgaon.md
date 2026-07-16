@@ -61,7 +61,7 @@ Yes, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) is a highly respected 
 ### 2. What is the average package offered at [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)?
 The average placement package at [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) is approximately ₹11.8 LPA, with the highest package reaching up to ₹25.5 LPA.
 
-### 3. What entrance exams are accepted by Great Lakes Gurgaon?
+### 3. What entrance exams are accepted by [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)?
 The college accepts scores from national level entrance examinations including CAT, XAT, GMAT, CMAT for the PGDM and MBA admissions.
 
 ---

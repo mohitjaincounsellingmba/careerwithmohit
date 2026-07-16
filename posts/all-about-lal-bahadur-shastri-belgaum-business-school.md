@@ -61,7 +61,7 @@ Yes, [Lal Bahadur Shastri Belgaum Business School](/colleges/lal-bahadur-shastri
 ### 2. What is the average package offered at [Lal Bahadur Shastri Belgaum Business School](/colleges/lal-bahadur-shastri-belgaum-business-school)?
 The average placement package at [Lal Bahadur Shastri Belgaum Business School](/colleges/lal-bahadur-shastri-belgaum-business-school) is approximately ₹8.5 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by Lal Bahadur Shastri Belgaum Business School?
+### 3. What entrance exams are accepted by [Lal Bahadur Shastri Belgaum Business School](/colleges/lal-bahadur-shastri-belgaum-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

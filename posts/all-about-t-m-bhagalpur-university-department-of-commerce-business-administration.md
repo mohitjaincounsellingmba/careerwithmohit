@@ -61,7 +61,7 @@ Yes, [T M Bhagalpur University, Department of Commerce & Business Administration
 ### 2. What is the average package offered at [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration)?
 The average placement package at [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration) is approximately ₹5.0 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by T M Bhagalpur University, Department of Commerce & Business Administration?
+### 3. What entrance exams are accepted by [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

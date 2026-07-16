@@ -61,7 +61,7 @@ Yes, [NMIMS Mumbai](/colleges/nmims-mumbai) is a highly respected institution kn
 ### 2. What is the average package offered at [NMIMS Mumbai](/colleges/nmims-mumbai)?
 The average placement package at [NMIMS Mumbai](/colleges/nmims-mumbai) is approximately ₹22.5 LPA, with the highest package reaching up to ₹42 LPA.
 
-### 3. What entrance exams are accepted by NMIMS Mumbai?
+### 3. What entrance exams are accepted by [NMIMS Mumbai](/colleges/nmims-mumbai)?
 The college accepts scores from national level entrance examinations including NMAT, CAT for the PGDM and MBA admissions.
 
 ---

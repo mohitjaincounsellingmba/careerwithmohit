@@ -61,7 +61,7 @@ Yes, [GIBS Business School](/colleges/gibs-bangalore) is a highly respected inst
 ### 2. What is the average package offered at [GIBS Business School](/colleges/gibs-bangalore)?
 The average placement package at [GIBS Business School](/colleges/gibs-bangalore) is approximately ₹9.5 LPA, with the highest package reaching up to ₹22.0 LPA.
 
-### 3. What entrance exams are accepted by GIBS Business School?
+### 3. What entrance exams are accepted by [GIBS Business School](/colleges/gibs-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT for the PGDM and MBA admissions.
 
 ---

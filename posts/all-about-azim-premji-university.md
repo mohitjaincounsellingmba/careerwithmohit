@@ -61,7 +61,7 @@ Yes, [Azim Premji University](/colleges/azim-premji-university) is a highly resp
 ### 2. What is the average package offered at [Azim Premji University](/colleges/azim-premji-university)?
 The average placement package at [Azim Premji University](/colleges/azim-premji-university) is approximately ₹22 LPA, with the highest package reaching up to ₹12 LPA.
 
-### 3. What entrance exams are accepted by Azim Premji University?
+### 3. What entrance exams are accepted by [Azim Premji University](/colleges/azim-premji-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

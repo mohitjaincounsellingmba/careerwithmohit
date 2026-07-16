@@ -61,7 +61,7 @@ Yes, [Suryadatta Ranibennur Institute of Professional Studies](/colleges/suryada
 ### 2. What is the average package offered at [Suryadatta Ranibennur Institute of Professional Studies](/colleges/suryadatta-ranibennur-institute-of-professional-studies)?
 The average placement package at [Suryadatta Ranibennur Institute of Professional Studies](/colleges/suryadatta-ranibennur-institute-of-professional-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by Suryadatta Ranibennur Institute of Professional Studies?
+### 3. What entrance exams are accepted by [Suryadatta Ranibennur Institute of Professional Studies](/colleges/suryadatta-ranibennur-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

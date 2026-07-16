@@ -61,7 +61,7 @@ Yes, [Poddar Business School](/colleges/poddar-jaipur) is a highly respected ins
 ### 2. What is the average package offered at [Poddar Business School](/colleges/poddar-jaipur)?
 The average placement package at [Poddar Business School](/colleges/poddar-jaipur) is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.0 LPA.
 
-### 3. What entrance exams are accepted by Poddar Business School?
+### 3. What entrance exams are accepted by [Poddar Business School](/colleges/poddar-jaipur)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

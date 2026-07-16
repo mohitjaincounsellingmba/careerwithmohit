@@ -61,7 +61,7 @@ Yes, [National Miryalaguda Institute of Management & Technology](/colleges/natio
 ### 2. What is the average package offered at [National Miryalaguda Institute of Management & Technology](/colleges/national-miryalaguda-institute-of-management-technology)?
 The average placement package at [National Miryalaguda Institute of Management & Technology](/colleges/national-miryalaguda-institute-of-management-technology) is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
 
-### 3. What entrance exams are accepted by National Miryalaguda Institute of Management & Technology?
+### 3. What entrance exams are accepted by [National Miryalaguda Institute of Management & Technology](/colleges/national-miryalaguda-institute-of-management-technology)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

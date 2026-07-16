@@ -61,7 +61,7 @@ Yes, [Management Education & Research Institute (MERI)](/colleges/management-edu
 ### 2. What is the average package offered at [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri)?
 The average placement package at [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri) is approximately ₹8 LPA, with the highest package reaching up to ₹14 LPA.
 
-### 3. What entrance exams are accepted by Management Education & Research Institute (MERI)?
+### 3. What entrance exams are accepted by [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

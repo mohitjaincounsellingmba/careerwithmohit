@@ -61,7 +61,7 @@ Yes, [GGSIPU (Guru Gobind Singh Indraprastha University)](/colleges/ggsipu-delhi
 ### 2. What is the average package offered at [GGSIPU (Guru Gobind Singh Indraprastha University)](/colleges/ggsipu-delhi)?
 The average placement package at [GGSIPU (Guru Gobind Singh Indraprastha University)](/colleges/ggsipu-delhi) is approximately ₹6.18 LPA, with the highest package reaching up to ₹12.00 LPA.
 
-### 3. What entrance exams are accepted by GGSIPU (Guru Gobind Singh Indraprastha University)?
+### 3. What entrance exams are accepted by [GGSIPU (Guru Gobind Singh Indraprastha University)](/colleges/ggsipu-delhi)?
 The college accepts scores from national level entrance examinations including IPU CET, CAT, CMAT for the PGDM and MBA admissions.
 
 ---

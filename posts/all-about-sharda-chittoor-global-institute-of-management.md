@@ -61,7 +61,7 @@ Yes, [Sharda Chittoor Global Institute of Management](/colleges/sharda-chittoor-
 ### 2. What is the average package offered at [Sharda Chittoor Global Institute of Management](/colleges/sharda-chittoor-global-institute-of-management)?
 The average placement package at [Sharda Chittoor Global Institute of Management](/colleges/sharda-chittoor-global-institute-of-management) is approximately ₹7.1 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by Sharda Chittoor Global Institute of Management?
+### 3. What entrance exams are accepted by [Sharda Chittoor Global Institute of Management](/colleges/sharda-chittoor-global-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

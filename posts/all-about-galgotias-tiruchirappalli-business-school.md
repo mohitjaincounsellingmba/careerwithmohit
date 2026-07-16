@@ -61,7 +61,7 @@ Yes, [Galgotias Tiruchirappalli Business School](/colleges/galgotias-tiruchirapp
 ### 2. What is the average package offered at [Galgotias Tiruchirappalli Business School](/colleges/galgotias-tiruchirappalli-business-school)?
 The average placement package at [Galgotias Tiruchirappalli Business School](/colleges/galgotias-tiruchirappalli-business-school) is approximately ₹5.7 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Tiruchirappalli Business School?
+### 3. What entrance exams are accepted by [Galgotias Tiruchirappalli Business School](/colleges/galgotias-tiruchirappalli-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

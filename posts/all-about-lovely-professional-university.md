@@ -61,7 +61,7 @@ Yes, [Lovely Professional University](/colleges/lovely-professional-university) 
 ### 2. What is the average package offered at [Lovely Professional University](/colleges/lovely-professional-university)?
 The average placement package at [Lovely Professional University](/colleges/lovely-professional-university) is approximately ₹5.8 LPA, with the highest package reaching up to ₹42 LPA.
 
-### 3. What entrance exams are accepted by Lovely Professional University?
+### 3. What entrance exams are accepted by [Lovely Professional University](/colleges/lovely-professional-university)?
 The college accepts scores from national level entrance examinations including LPUNEST, JEE Main, CUET for the PGDM and MBA admissions.
 
 ---

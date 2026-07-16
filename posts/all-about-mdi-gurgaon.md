@@ -61,7 +61,7 @@ Yes, [MDI Gurgaon](/colleges/mdi-gurgaon) is a highly respected institution know
 ### 2. What is the average package offered at [MDI Gurgaon](/colleges/mdi-gurgaon)?
 The average placement package at [MDI Gurgaon](/colleges/mdi-gurgaon) is approximately ₹27.6 LPA, with the highest package reaching up to ₹60.0 LPA.
 
-### 3. What entrance exams are accepted by MDI Gurgaon?
+### 3. What entrance exams are accepted by [MDI Gurgaon](/colleges/mdi-gurgaon)?
 The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
 
 ---

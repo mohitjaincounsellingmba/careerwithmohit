@@ -61,7 +61,7 @@ Yes, [Lal Bahadur Shastri Hubli Institute of Business Studies](/colleges/lal-bah
 ### 2. What is the average package offered at [Lal Bahadur Shastri Hubli Institute of Business Studies](/colleges/lal-bahadur-shastri-hubli-institute-of-business-studies)?
 The average placement package at [Lal Bahadur Shastri Hubli Institute of Business Studies](/colleges/lal-bahadur-shastri-hubli-institute-of-business-studies) is approximately ₹6.4 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by Lal Bahadur Shastri Hubli Institute of Business Studies?
+### 3. What entrance exams are accepted by [Lal Bahadur Shastri Hubli Institute of Business Studies](/colleges/lal-bahadur-shastri-hubli-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

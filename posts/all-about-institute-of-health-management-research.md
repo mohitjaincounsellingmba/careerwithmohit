@@ -61,7 +61,7 @@ Yes, [Institute of Health Management Research](/colleges/institute-of-health-man
 ### 2. What is the average package offered at [Institute of Health Management Research](/colleges/institute-of-health-management-research)?
 The average placement package at [Institute of Health Management Research](/colleges/institute-of-health-management-research) is approximately ₹4.5 LPA, with the highest package reaching up to ₹8.5 LPA.
 
-### 3. What entrance exams are accepted by Institute of Health Management Research?
+### 3. What entrance exams are accepted by [Institute of Health Management Research](/colleges/institute-of-health-management-research)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

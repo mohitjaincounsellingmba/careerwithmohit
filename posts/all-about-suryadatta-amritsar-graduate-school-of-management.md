@@ -61,7 +61,7 @@ Yes, [Suryadatta Amritsar Graduate School of Management](/colleges/suryadatta-am
 ### 2. What is the average package offered at [Suryadatta Amritsar Graduate School of Management](/colleges/suryadatta-amritsar-graduate-school-of-management)?
 The average placement package at [Suryadatta Amritsar Graduate School of Management](/colleges/suryadatta-amritsar-graduate-school-of-management) is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
 
-### 3. What entrance exams are accepted by Suryadatta Amritsar Graduate School of Management?
+### 3. What entrance exams are accepted by [Suryadatta Amritsar Graduate School of Management](/colleges/suryadatta-amritsar-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

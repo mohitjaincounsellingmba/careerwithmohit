@@ -61,7 +61,7 @@ Yes, [BMSCE Bangalore](/colleges/bmsce-bangalore) is a highly respected institut
 ### 2. What is the average package offered at [BMSCE Bangalore](/colleges/bmsce-bangalore)?
 The average placement package at [BMSCE Bangalore](/colleges/bmsce-bangalore) is approximately ₹9.2 LPA, with the highest package reaching up to ₹25.0 LPA.
 
-### 3. What entrance exams are accepted by BMSCE Bangalore?
+### 3. What entrance exams are accepted by [BMSCE Bangalore](/colleges/bmsce-bangalore)?
 The college accepts scores from national level entrance examinations including PGCET, KMAT for the PGDM and MBA admissions.
 
 ---

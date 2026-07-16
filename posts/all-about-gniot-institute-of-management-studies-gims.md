@@ -61,7 +61,7 @@ Yes, [GNIOT [Institute of Management Studies](/colleges/institute-of-management-
 ### 2. What is the average package offered at [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)?
 The average placement package at [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims) is approximately ₹5.72 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by GNIOT Institute of Management Studies (GIMS)?
+### 3. What entrance exams are accepted by [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

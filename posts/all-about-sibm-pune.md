@@ -61,7 +61,7 @@ Yes, [SIBM Pune](/colleges/sibm-pune) is a highly respected institution known fo
 ### 2. What is the average package offered at [SIBM Pune](/colleges/sibm-pune)?
 The average placement package at [SIBM Pune](/colleges/sibm-pune) is approximately ₹28.1 LPA, with the highest package reaching up to ₹82.2 LPA.
 
-### 3. What entrance exams are accepted by SIBM Pune?
+### 3. What entrance exams are accepted by [SIBM Pune](/colleges/sibm-pune)?
 The college accepts scores from national level entrance examinations including SNAP for the PGDM and MBA admissions.
 
 ---

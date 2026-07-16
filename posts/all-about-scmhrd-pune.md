@@ -61,7 +61,7 @@ Yes, [SCMHRD Pune](/colleges/scmhrd-pune) is a highly respected institution know
 ### 2. What is the average package offered at [SCMHRD Pune](/colleges/scmhrd-pune)?
 The average placement package at [SCMHRD Pune](/colleges/scmhrd-pune) is approximately ₹23.7 LPA, with the highest package reaching up to ₹38.5 LPA.
 
-### 3. What entrance exams are accepted by SCMHRD Pune?
+### 3. What entrance exams are accepted by [SCMHRD Pune](/colleges/scmhrd-pune)?
 The college accepts scores from national level entrance examinations including SNAP for the PGDM and MBA admissions.
 
 ---

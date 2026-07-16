@@ -61,7 +61,7 @@ Yes, [Sharda Gondia School of Business & Management](/colleges/sharda-gondia-sch
 ### 2. What is the average package offered at [Sharda Gondia School of Business & Management](/colleges/sharda-gondia-school-of-business-management)?
 The average placement package at [Sharda Gondia School of Business & Management](/colleges/sharda-gondia-school-of-business-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹17.0 LPA.
 
-### 3. What entrance exams are accepted by Sharda Gondia School of Business & Management?
+### 3. What entrance exams are accepted by [Sharda Gondia School of Business & Management](/colleges/sharda-gondia-school-of-business-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

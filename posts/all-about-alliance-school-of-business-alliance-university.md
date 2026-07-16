@@ -61,7 +61,7 @@ Yes, [Alliance School of Business , Alliance University](/colleges/alliance-scho
 ### 2. What is the average package offered at [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university)?
 The average placement package at [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) is approximately ₹6.3 LPA, with the highest package reaching up to ₹15.7 LPA.
 
-### 3. What entrance exams are accepted by Alliance School of Business , Alliance University?
+### 3. What entrance exams are accepted by [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

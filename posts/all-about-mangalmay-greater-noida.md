@@ -61,7 +61,7 @@ Yes, [Mangalmay Institute of Management (MIMT)](/colleges/mangalmay-greater-noid
 ### 2. What is the average package offered at [Mangalmay Institute of Management (MIMT)](/colleges/mangalmay-greater-noida)?
 The average placement package at [Mangalmay Institute of Management (MIMT)](/colleges/mangalmay-greater-noida) is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.4 LPA.
 
-### 3. What entrance exams are accepted by Mangalmay Institute of Management (MIMT)?
+### 3. What entrance exams are accepted by [Mangalmay Institute of Management (MIMT)](/colleges/mangalmay-greater-noida)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, UPSEE for the PGDM and MBA admissions.
 
 ---

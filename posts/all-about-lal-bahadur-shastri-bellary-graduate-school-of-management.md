@@ -61,7 +61,7 @@ Yes, [Lal Bahadur Shastri Bellary Graduate School of Management](/colleges/lal-b
 ### 2. What is the average package offered at [Lal Bahadur Shastri Bellary Graduate School of Management](/colleges/lal-bahadur-shastri-bellary-graduate-school-of-management)?
 The average placement package at [Lal Bahadur Shastri Bellary Graduate School of Management](/colleges/lal-bahadur-shastri-bellary-graduate-school-of-management) is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
 
-### 3. What entrance exams are accepted by Lal Bahadur Shastri Bellary Graduate School of Management?
+### 3. What entrance exams are accepted by [Lal Bahadur Shastri Bellary Graduate School of Management](/colleges/lal-bahadur-shastri-bellary-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [ICBM School of Business Excellence](/colleges/icbm-school-of-business-exce
 ### 2. What is the average package offered at [ICBM School of Business Excellence](/colleges/icbm-school-of-business-excellence)?
 The average placement package at [ICBM School of Business Excellence](/colleges/icbm-school-of-business-excellence) is approximately ₹5.5 LPA, with the highest package reaching up to ₹13.9 LPA.
 
-### 3. What entrance exams are accepted by ICBM School of Business Excellence?
+### 3. What entrance exams are accepted by [ICBM School of Business Excellence](/colleges/icbm-school-of-business-excellence)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

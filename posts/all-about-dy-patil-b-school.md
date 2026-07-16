@@ -61,7 +61,7 @@ Yes, [DY Patil B School](/colleges/dy-patil-b-school) is a highly respected inst
 ### 2. What is the average package offered at [DY Patil B School](/colleges/dy-patil-b-school)?
 The average placement package at [DY Patil B School](/colleges/dy-patil-b-school) is approximately ₹8.0 LPA, with the highest package reaching up to ₹24.0 LPA.
 
-### 3. What entrance exams are accepted by DY Patil B School?
+### 3. What entrance exams are accepted by [DY Patil B School](/colleges/dy-patil-b-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

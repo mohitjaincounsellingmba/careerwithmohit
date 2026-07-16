@@ -61,7 +61,7 @@ Yes, [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school) is a hig
 ### 2. What is the average package offered at [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school)?
 The average placement package at [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school) is approximately ₹16.43 LPA, with the highest package reaching up to ₹7.46 LPA.
 
-### 3. What entrance exams are accepted by Acharya Bangalore B-School?
+### 3. What entrance exams are accepted by [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

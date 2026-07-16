@@ -61,7 +61,7 @@ Yes, [National Siddipet Institute of Business Studies](/colleges/national-siddip
 ### 2. What is the average package offered at [National Siddipet Institute of Business Studies](/colleges/national-siddipet-institute-of-business-studies)?
 The average placement package at [National Siddipet Institute of Business Studies](/colleges/national-siddipet-institute-of-business-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by National Siddipet Institute of Business Studies?
+### 3. What entrance exams are accepted by [National Siddipet Institute of Business Studies](/colleges/national-siddipet-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

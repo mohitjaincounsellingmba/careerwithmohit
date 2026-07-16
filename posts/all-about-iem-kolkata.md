@@ -61,7 +61,7 @@ Yes, [Institute of Engineering and Management (IEM)](/colleges/iem-kolkata) is a
 ### 2. What is the average package offered at [Institute of Engineering and Management (IEM)](/colleges/iem-kolkata)?
 The average placement package at [Institute of Engineering and Management (IEM)](/colleges/iem-kolkata) is approximately ₹6.5 LPA, with the highest package reaching up to ₹15.0 LPA.
 
-### 3. What entrance exams are accepted by Institute of Engineering and Management (IEM)?
+### 3. What entrance exams are accepted by [Institute of Engineering and Management (IEM)](/colleges/iem-kolkata)?
 The college accepts scores from national level entrance examinations including CAT, JEMAT, MAT for the PGDM and MBA admissions.
 
 ---

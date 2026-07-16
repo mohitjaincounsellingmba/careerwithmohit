@@ -61,7 +61,7 @@ Yes, [ASM IBMR](/colleges/asm-ibmr) is a highly respected institution known for 
 ### 2. What is the average package offered at [ASM IBMR](/colleges/asm-ibmr)?
 The average placement package at [ASM IBMR](/colleges/asm-ibmr) is approximately ₹7.5 LPA, with the highest package reaching up to ₹24.0 LPA.
 
-### 3. What entrance exams are accepted by ASM IBMR?
+### 3. What entrance exams are accepted by [ASM IBMR](/colleges/asm-ibmr)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

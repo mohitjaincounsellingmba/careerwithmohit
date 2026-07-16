@@ -61,7 +61,7 @@ Yes, [Institute of Marketing & Management (IMM)](/colleges/imm-delhi) is a highl
 ### 2. What is the average package offered at [Institute of Marketing & Management (IMM)](/colleges/imm-delhi)?
 The average placement package at [Institute of Marketing & Management (IMM)](/colleges/imm-delhi) is approximately ₹9.5 LPA, with the highest package reaching up to ₹19.75 LPA.
 
-### 3. What entrance exams are accepted by Institute of Marketing & Management (IMM)?
+### 3. What entrance exams are accepted by [Institute of Marketing & Management (IMM)](/colleges/imm-delhi)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT, ATMA for the PGDM and MBA admissions.
 
 ---

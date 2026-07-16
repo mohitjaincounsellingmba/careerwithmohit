@@ -61,7 +61,7 @@ Yes, [EMPI Business School](/colleges/empi-delhi) is a highly respected institut
 ### 2. What is the average package offered at [EMPI Business School](/colleges/empi-delhi)?
 The average placement package at [EMPI Business School](/colleges/empi-delhi) is approximately ₹6.5 LPA, with the highest package reaching up to ₹12.0 LPA.
 
-### 3. What entrance exams are accepted by EMPI Business School?
+### 3. What entrance exams are accepted by [EMPI Business School](/colleges/empi-delhi)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

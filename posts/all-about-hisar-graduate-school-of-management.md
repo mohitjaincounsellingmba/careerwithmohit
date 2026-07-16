@@ -61,7 +61,7 @@ Yes, [Hisar Graduate School of Management](/colleges/hisar-graduate-school-of-ma
 ### 2. What is the average package offered at [Hisar Graduate School of Management](/colleges/hisar-graduate-school-of-management)?
 The average placement package at [Hisar Graduate School of Management](/colleges/hisar-graduate-school-of-management) is approximately ₹7.1 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by Hisar Graduate School of Management?
+### 3. What entrance exams are accepted by [Hisar Graduate School of Management](/colleges/hisar-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

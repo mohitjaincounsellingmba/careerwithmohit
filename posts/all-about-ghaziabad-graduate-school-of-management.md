@@ -61,7 +61,7 @@ Yes, [Ghaziabad Graduate School of Management](/colleges/ghaziabad-graduate-scho
 ### 2. What is the average package offered at [Ghaziabad Graduate School of Management](/colleges/ghaziabad-graduate-school-of-management)?
 The average placement package at [Ghaziabad Graduate School of Management](/colleges/ghaziabad-graduate-school-of-management) is approximately ₹5.7 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by Ghaziabad Graduate School of Management?
+### 3. What entrance exams are accepted by [Ghaziabad Graduate School of Management](/colleges/ghaziabad-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

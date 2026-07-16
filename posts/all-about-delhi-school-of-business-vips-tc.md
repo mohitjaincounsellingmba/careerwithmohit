@@ -61,7 +61,7 @@ Yes, [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vip
 ### 2. What is the average package offered at [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)?
 The average placement package at [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc) is approximately ₹11.3 LPA, with the highest package reaching up to ₹22.3 LPA.
 
-### 3. What entrance exams are accepted by Delhi School of Business (VIPS-TC)?
+### 3. What entrance exams are accepted by [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

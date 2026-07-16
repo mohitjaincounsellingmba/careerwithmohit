@@ -61,7 +61,7 @@ Yes, [St Joseph's Institute of Management](/colleges/st-joseph-s-institute-of-ma
 ### 2. What is the average package offered at [St Joseph's Institute of Management](/colleges/st-joseph-s-institute-of-management)?
 The average placement package at [St Joseph's Institute of Management](/colleges/st-joseph-s-institute-of-management) is approximately ₹6.7 LPA, with the highest package reaching up to ₹16.6 LPA.
 
-### 3. What entrance exams are accepted by St Joseph's Institute of Management?
+### 3. What entrance exams are accepted by [St Joseph's Institute of Management](/colleges/st-joseph-s-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

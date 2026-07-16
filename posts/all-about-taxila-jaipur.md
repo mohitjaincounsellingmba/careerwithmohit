@@ -61,7 +61,7 @@ Yes, [Taxila Business School](/colleges/taxila-jaipur) is a highly respected ins
 ### 2. What is the average package offered at [Taxila Business School](/colleges/taxila-jaipur)?
 The average placement package at [Taxila Business School](/colleges/taxila-jaipur) is approximately ₹10.5 LPA, with the highest package reaching up to ₹28.0 LPA.
 
-### 3. What entrance exams are accepted by Taxila Business School?
+### 3. What entrance exams are accepted by [Taxila Business School](/colleges/taxila-jaipur)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Galgotias Nadiad Global Institute of Management](/colleges/galgotias-nadia
 ### 2. What is the average package offered at [Galgotias Nadiad Global Institute of Management](/colleges/galgotias-nadiad-global-institute-of-management)?
 The average placement package at [Galgotias Nadiad Global Institute of Management](/colleges/galgotias-nadiad-global-institute-of-management) is approximately ₹5.7 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Nadiad Global Institute of Management?
+### 3. What entrance exams are accepted by [Galgotias Nadiad Global Institute of Management](/colleges/galgotias-nadiad-global-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

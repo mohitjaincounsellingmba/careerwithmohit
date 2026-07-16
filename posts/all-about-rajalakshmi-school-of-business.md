@@ -61,7 +61,7 @@ Yes, [Rajalakshmi School of Business](/colleges/rajalakshmi-school-of-business) 
 ### 2. What is the average package offered at [Rajalakshmi School of Business](/colleges/rajalakshmi-school-of-business)?
 The average placement package at [Rajalakshmi School of Business](/colleges/rajalakshmi-school-of-business) is approximately ₹5.1 LPA, with the highest package reaching up to ₹11.9 LPA.
 
-### 3. What entrance exams are accepted by Rajalakshmi School of Business?
+### 3. What entrance exams are accepted by [Rajalakshmi School of Business](/colleges/rajalakshmi-school-of-business)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [International Kolhapur Institute of Professional Studies](/colleges/intern
 ### 2. What is the average package offered at [International Kolhapur Institute of Professional Studies](/colleges/international-kolhapur-institute-of-professional-studies)?
 The average placement package at [International Kolhapur Institute of Professional Studies](/colleges/international-kolhapur-institute-of-professional-studies) is approximately ₹6.4 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by International Kolhapur Institute of Professional Studies?
+### 3. What entrance exams are accepted by [International Kolhapur Institute of Professional Studies](/colleges/international-kolhapur-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [XLRI Jamshedpur](/colleges/xlri-jamshedpur) is a highly respected institut
 ### 2. What is the average package offered at [XLRI Jamshedpur](/colleges/xlri-jamshedpur)?
 The average placement package at [XLRI Jamshedpur](/colleges/xlri-jamshedpur) is approximately ₹30.5 LPA, with the highest package reaching up to ₹80 LPA.
 
-### 3. What entrance exams are accepted by XLRI Jamshedpur?
+### 3. What entrance exams are accepted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur)?
 The college accepts scores from national level entrance examinations including XAT, GMAT for the PGDM and MBA admissions.
 
 ---

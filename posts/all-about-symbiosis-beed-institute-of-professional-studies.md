@@ -61,7 +61,7 @@ Yes, [Symbiosis Beed Institute of Professional Studies](/colleges/symbiosis-beed
 ### 2. What is the average package offered at [Symbiosis Beed Institute of Professional Studies](/colleges/symbiosis-beed-institute-of-professional-studies)?
 The average placement package at [Symbiosis Beed Institute of Professional Studies](/colleges/symbiosis-beed-institute-of-professional-studies) is approximately ₹5.0 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by Symbiosis Beed Institute of Professional Studies?
+### 3. What entrance exams are accepted by [Symbiosis Beed Institute of Professional Studies](/colleges/symbiosis-beed-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

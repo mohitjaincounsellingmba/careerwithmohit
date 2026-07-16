@@ -61,7 +61,7 @@ Yes, [Shanti Business School](/colleges/shanti-business-school) is a highly resp
 ### 2. What is the average package offered at [Shanti Business School](/colleges/shanti-business-school)?
 The average placement package at [Shanti Business School](/colleges/shanti-business-school) is approximately ₹5.1 LPA, with the highest package reaching up to ₹12.7 LPA.
 
-### 3. What entrance exams are accepted by Shanti Business School?
+### 3. What entrance exams are accepted by [Shanti Business School](/colleges/shanti-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [ITM Vocational University](/colleges/itm-vocational-university) is a highl
 ### 2. What is the average package offered at [ITM Vocational University](/colleges/itm-vocational-university)?
 The average placement package at [ITM Vocational University](/colleges/itm-vocational-university) is approximately ₹5.8 LPA, with the highest package reaching up to ₹13.0 LPA.
 
-### 3. What entrance exams are accepted by ITM Vocational University?
+### 3. What entrance exams are accepted by [ITM Vocational University](/colleges/itm-vocational-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

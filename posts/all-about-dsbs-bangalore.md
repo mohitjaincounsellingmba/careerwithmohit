@@ -61,7 +61,7 @@ Yes, [DSBS Bangalore](/colleges/dsbs-bangalore) is a highly respected institutio
 ### 2. What is the average package offered at [DSBS Bangalore](/colleges/dsbs-bangalore)?
 The average placement package at [DSBS Bangalore](/colleges/dsbs-bangalore) is approximately ₹9.0 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by DSBS Bangalore?
+### 3. What entrance exams are accepted by [DSBS Bangalore](/colleges/dsbs-bangalore)?
 The college accepts scores from national level entrance examinations including MAT, CAT, CMAT for the PGDM and MBA admissions.
 
 ---

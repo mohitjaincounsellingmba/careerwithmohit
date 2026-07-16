@@ -61,7 +61,7 @@ Yes, [Xavier Neyveli Business School](/colleges/xavier-neyveli-business-school) 
 ### 2. What is the average package offered at [Xavier Neyveli Business School](/colleges/xavier-neyveli-business-school)?
 The average placement package at [Xavier Neyveli Business School](/colleges/xavier-neyveli-business-school) is approximately ₹8.5 LPA, with the highest package reaching up to ₹15.5 LPA.
 
-### 3. What entrance exams are accepted by Xavier Neyveli Business School?
+### 3. What entrance exams are accepted by [Xavier Neyveli Business School](/colleges/xavier-neyveli-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

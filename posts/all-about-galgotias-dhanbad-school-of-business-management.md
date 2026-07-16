@@ -61,7 +61,7 @@ Yes, [Galgotias Dhanbad School of Business & Management](/colleges/galgotias-dha
 ### 2. What is the average package offered at [Galgotias Dhanbad School of Business & Management](/colleges/galgotias-dhanbad-school-of-business-management)?
 The average placement package at [Galgotias Dhanbad School of Business & Management](/colleges/galgotias-dhanbad-school-of-business-management) is approximately ₹5.0 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Dhanbad School of Business & Management?
+### 3. What entrance exams are accepted by [Galgotias Dhanbad School of Business & Management](/colleges/galgotias-dhanbad-school-of-business-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

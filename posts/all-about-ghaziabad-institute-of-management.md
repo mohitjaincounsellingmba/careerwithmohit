@@ -61,7 +61,7 @@ Yes, [Ghaziabad Institute of Management](/colleges/ghaziabad-institute-of-manage
 ### 2. What is the average package offered at [Ghaziabad Institute of Management](/colleges/ghaziabad-institute-of-management)?
 The average placement package at [Ghaziabad Institute of Management](/colleges/ghaziabad-institute-of-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹17.0 LPA.
 
-### 3. What entrance exams are accepted by Ghaziabad Institute of Management?
+### 3. What entrance exams are accepted by [Ghaziabad Institute of Management](/colleges/ghaziabad-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

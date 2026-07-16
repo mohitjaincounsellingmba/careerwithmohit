@@ -61,7 +61,7 @@ Yes, [National Latur Institute of Management](/colleges/national-latur-institute
 ### 2. What is the average package offered at [National Latur Institute of Management](/colleges/national-latur-institute-of-management)?
 The average placement package at [National Latur Institute of Management](/colleges/national-latur-institute-of-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by National Latur Institute of Management?
+### 3. What entrance exams are accepted by [National Latur Institute of Management](/colleges/national-latur-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

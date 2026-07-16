@@ -61,7 +61,7 @@ Yes, [Galgotias Jhansi Institute of Professional Studies](/colleges/galgotias-jh
 ### 2. What is the average package offered at [Galgotias Jhansi Institute of Professional Studies](/colleges/galgotias-jhansi-institute-of-professional-studies)?
 The average placement package at [Galgotias Jhansi Institute of Professional Studies](/colleges/galgotias-jhansi-institute-of-professional-studies) is approximately ₹5.0 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Jhansi Institute of Professional Studies?
+### 3. What entrance exams are accepted by [Galgotias Jhansi Institute of Professional Studies](/colleges/galgotias-jhansi-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [International Srinagar Institute of Business Studies](/colleges/internatio
 ### 2. What is the average package offered at [International Srinagar Institute of Business Studies](/colleges/international-srinagar-institute-of-business-studies)?
 The average placement package at [International Srinagar Institute of Business Studies](/colleges/international-srinagar-institute-of-business-studies) is approximately ₹5.0 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by International Srinagar Institute of Business Studies?
+### 3. What entrance exams are accepted by [International Srinagar Institute of Business Studies](/colleges/international-srinagar-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

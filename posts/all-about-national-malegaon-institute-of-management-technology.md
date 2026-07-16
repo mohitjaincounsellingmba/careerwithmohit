@@ -61,7 +61,7 @@ Yes, [National Malegaon Institute of Management & Technology](/colleges/national
 ### 2. What is the average package offered at [National Malegaon Institute of Management & Technology](/colleges/national-malegaon-institute-of-management-technology)?
 The average placement package at [National Malegaon Institute of Management & Technology](/colleges/national-malegaon-institute-of-management-technology) is approximately ₹8.5 LPA, with the highest package reaching up to ₹24.5 LPA.
 
-### 3. What entrance exams are accepted by National Malegaon Institute of Management & Technology?
+### 3. What entrance exams are accepted by [National Malegaon Institute of Management & Technology](/colleges/national-malegaon-institute-of-management-technology)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

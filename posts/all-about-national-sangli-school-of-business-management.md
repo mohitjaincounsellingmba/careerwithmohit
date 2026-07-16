@@ -61,7 +61,7 @@ Yes, [National Sangli School of Business & Management](/colleges/national-sangli
 ### 2. What is the average package offered at [National Sangli School of Business & Management](/colleges/national-sangli-school-of-business-management)?
 The average placement package at [National Sangli School of Business & Management](/colleges/national-sangli-school-of-business-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by National Sangli School of Business & Management?
+### 3. What entrance exams are accepted by [National Sangli School of Business & Management](/colleges/national-sangli-school-of-business-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

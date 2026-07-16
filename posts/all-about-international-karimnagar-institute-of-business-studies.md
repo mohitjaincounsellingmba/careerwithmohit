@@ -61,7 +61,7 @@ Yes, [International Karimnagar Institute of Business Studies](/colleges/internat
 ### 2. What is the average package offered at [International Karimnagar Institute of Business Studies](/colleges/international-karimnagar-institute-of-business-studies)?
 The average placement package at [International Karimnagar Institute of Business Studies](/colleges/international-karimnagar-institute-of-business-studies) is approximately ₹6.4 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by International Karimnagar Institute of Business Studies?
+### 3. What entrance exams are accepted by [International Karimnagar Institute of Business Studies](/colleges/international-karimnagar-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

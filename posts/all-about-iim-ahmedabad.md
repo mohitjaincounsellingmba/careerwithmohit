@@ -61,7 +61,7 @@ Yes, [IIM Ahmedabad](/colleges/iim-ahmedabad) is a highly respected institution 
 ### 2. What is the average package offered at [IIM Ahmedabad](/colleges/iim-ahmedabad)?
 The average placement package at [IIM Ahmedabad](/colleges/iim-ahmedabad) is approximately ₹35.0 LPA, with the highest package reaching up to ₹1.15 Crore.
 
-### 3. What entrance exams are accepted by IIM Ahmedabad?
+### 3. What entrance exams are accepted by [IIM Ahmedabad](/colleges/iim-ahmedabad)?
 The college accepts scores from national level entrance examinations including CAT for the PGDM and MBA admissions.
 
 ---

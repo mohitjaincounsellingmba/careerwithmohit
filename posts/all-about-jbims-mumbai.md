@@ -61,7 +61,7 @@ Yes, [JBIMS Mumbai](/colleges/jbims-mumbai) is a highly respected institution kn
 ### 2. What is the average package offered at [JBIMS Mumbai](/colleges/jbims-mumbai)?
 The average placement package at [JBIMS Mumbai](/colleges/jbims-mumbai) is approximately ₹28.0 LPA, with the highest package reaching up to ₹44.0 LPA.
 
-### 3. What entrance exams are accepted by JBIMS Mumbai?
+### 3. What entrance exams are accepted by [JBIMS Mumbai](/colleges/jbims-mumbai)?
 The college accepts scores from national level entrance examinations including MAH-CET, CAT, CMAT for the PGDM and MBA admissions.
 
 ---

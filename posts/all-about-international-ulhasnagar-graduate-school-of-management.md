@@ -61,7 +61,7 @@ Yes, [International Ulhasnagar Graduate School of Management](/colleges/internat
 ### 2. What is the average package offered at [International Ulhasnagar Graduate School of Management](/colleges/international-ulhasnagar-graduate-school-of-management)?
 The average placement package at [International Ulhasnagar Graduate School of Management](/colleges/international-ulhasnagar-graduate-school-of-management) is approximately ₹7.1 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by International Ulhasnagar Graduate School of Management?
+### 3. What entrance exams are accepted by [International Ulhasnagar Graduate School of Management](/colleges/international-ulhasnagar-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

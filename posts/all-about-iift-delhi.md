@@ -61,7 +61,7 @@ Yes, [IIFT Delhi](/colleges/iift-delhi) is a highly respected institution known 
 ### 2. What is the average package offered at [IIFT Delhi](/colleges/iift-delhi)?
 The average placement package at [IIFT Delhi](/colleges/iift-delhi) is approximately ₹26.00 LPA, with the highest package reaching up to ₹85.0 LPA.
 
-### 3. What entrance exams are accepted by IIFT Delhi?
+### 3. What entrance exams are accepted by [IIFT Delhi](/colleges/iift-delhi)?
 The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
 
 ---

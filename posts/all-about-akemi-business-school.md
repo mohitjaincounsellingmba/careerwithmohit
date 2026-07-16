@@ -61,7 +61,7 @@ Yes, [AKEMI Business School](/colleges/akemi-business-school) is a highly respec
 ### 2. What is the average package offered at [AKEMI Business School](/colleges/akemi-business-school)?
 The average placement package at [AKEMI Business School](/colleges/akemi-business-school) is approximately ₹4.3 L - ₹7.5 LPA, with the highest package reaching up to ₹18.0 LPA.
 
-### 3. What entrance exams are accepted by AKEMI Business School?
+### 3. What entrance exams are accepted by [AKEMI Business School](/colleges/akemi-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

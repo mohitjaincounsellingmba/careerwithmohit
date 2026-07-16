@@ -61,7 +61,7 @@ Yes, [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-ga
 ### 2. What is the average package offered at [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research)?
 The average placement package at [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research) is approximately ₹4.9 LPA, with the highest package reaching up to ₹12.2 LPA.
 
-### 3. What entrance exams are accepted by Dr Gaur Hari Singhania Institute of Management & Research?
+### 3. What entrance exams are accepted by [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

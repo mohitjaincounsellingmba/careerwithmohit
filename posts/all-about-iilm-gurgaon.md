@@ -61,7 +61,7 @@ Yes, [IILM University, Gurgaon](/colleges/iilm-gurgaon) is a highly respected in
 ### 2. What is the average package offered at [IILM University, Gurgaon](/colleges/iilm-gurgaon)?
 The average placement package at [IILM University, Gurgaon](/colleges/iilm-gurgaon) is approximately ₹8.6 LPA, with the highest package reaching up to ₹26.0 LPA.
 
-### 3. What entrance exams are accepted by IILM University, Gurgaon?
+### 3. What entrance exams are accepted by [IILM University, Gurgaon](/colleges/iilm-gurgaon)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

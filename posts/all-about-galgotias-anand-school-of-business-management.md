@@ -61,7 +61,7 @@ Yes, [Galgotias Anand School of Business & Management](/colleges/galgotias-anand
 ### 2. What is the average package offered at [Galgotias Anand School of Business & Management](/colleges/galgotias-anand-school-of-business-management)?
 The average placement package at [Galgotias Anand School of Business & Management](/colleges/galgotias-anand-school-of-business-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Anand School of Business & Management?
+### 3. What entrance exams are accepted by [Galgotias Anand School of Business & Management](/colleges/galgotias-anand-school-of-business-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

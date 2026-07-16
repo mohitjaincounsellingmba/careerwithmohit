@@ -61,7 +61,7 @@ Yes, [Sharda Ambernath Institute of Management & Technology](/colleges/sharda-am
 ### 2. What is the average package offered at [Sharda Ambernath Institute of Management & Technology](/colleges/sharda-ambernath-institute-of-management-technology)?
 The average placement package at [Sharda Ambernath Institute of Management & Technology](/colleges/sharda-ambernath-institute-of-management-technology) is approximately ₹7.1 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by Sharda Ambernath Institute of Management & Technology?
+### 3. What entrance exams are accepted by [Sharda Ambernath Institute of Management & Technology](/colleges/sharda-ambernath-institute-of-management-technology)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

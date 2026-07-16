@@ -61,7 +61,7 @@ Yes, [Uttaranchal University](/colleges/uttaranchal-university) is a highly resp
 ### 2. What is the average package offered at [Uttaranchal University](/colleges/uttaranchal-university)?
 The average placement package at [Uttaranchal University](/colleges/uttaranchal-university) is approximately ₹4 LPA, with the highest package reaching up to ₹150 LPA.
 
-### 3. What entrance exams are accepted by Uttaranchal University?
+### 3. What entrance exams are accepted by [Uttaranchal University](/colleges/uttaranchal-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

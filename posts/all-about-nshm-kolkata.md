@@ -61,7 +61,7 @@ Yes, [NSHM Knowledge Campus](/colleges/nshm-kolkata) is a highly respected insti
 ### 2. What is the average package offered at [NSHM Knowledge Campus](/colleges/nshm-kolkata)?
 The average placement package at [NSHM Knowledge Campus](/colleges/nshm-kolkata) is approximately ₹6.0 LPA, with the highest package reaching up to ₹12.0 LPA.
 
-### 3. What entrance exams are accepted by NSHM Knowledge Campus?
+### 3. What entrance exams are accepted by [NSHM Knowledge Campus](/colleges/nshm-kolkata)?
 The college accepts scores from national level entrance examinations including CAT, MAT, JEMAT for the PGDM and MBA admissions.
 
 ---

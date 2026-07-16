@@ -61,7 +61,7 @@ Yes, [Jagannath International Management School](/colleges/jagannath-internation
 ### 2. What is the average package offered at [Jagannath International Management School](/colleges/jagannath-international-management-school)?
 The average placement package at [Jagannath International Management School](/colleges/jagannath-international-management-school) is approximately ₹6.7 LPA, with the highest package reaching up to ₹16.0 LPA.
 
-### 3. What entrance exams are accepted by Jagannath International Management School?
+### 3. What entrance exams are accepted by [Jagannath International Management School](/colleges/jagannath-international-management-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

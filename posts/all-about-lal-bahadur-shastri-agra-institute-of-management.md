@@ -61,7 +61,7 @@ Yes, [Lal Bahadur Shastri Agra Institute of Management](/colleges/lal-bahadur-sh
 ### 2. What is the average package offered at [Lal Bahadur Shastri Agra Institute of Management](/colleges/lal-bahadur-shastri-agra-institute-of-management)?
 The average placement package at [Lal Bahadur Shastri Agra Institute of Management](/colleges/lal-bahadur-shastri-agra-institute-of-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by Lal Bahadur Shastri Agra Institute of Management?
+### 3. What entrance exams are accepted by [Lal Bahadur Shastri Agra Institute of Management](/colleges/lal-bahadur-shastri-agra-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

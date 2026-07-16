@@ -61,7 +61,7 @@ Yes, [Suryadatta Udaipur Institute of Business Studies](/colleges/suryadatta-uda
 ### 2. What is the average package offered at [Suryadatta Udaipur Institute of Business Studies](/colleges/suryadatta-udaipur-institute-of-business-studies)?
 The average placement package at [Suryadatta Udaipur Institute of Business Studies](/colleges/suryadatta-udaipur-institute-of-business-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹17.0 LPA.
 
-### 3. What entrance exams are accepted by Suryadatta Udaipur Institute of Business Studies?
+### 3. What entrance exams are accepted by [Suryadatta Udaipur Institute of Business Studies](/colleges/suryadatta-udaipur-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

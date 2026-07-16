@@ -61,7 +61,7 @@ Yes, [Apex University](/colleges/apex-jaipur) is a highly respected institution 
 ### 2. What is the average package offered at [Apex University](/colleges/apex-jaipur)?
 The average placement package at [Apex University](/colleges/apex-jaipur) is approximately ₹4.5 LPA, with the highest package reaching up to ₹9.0 LPA.
 
-### 3. What entrance exams are accepted by Apex University?
+### 3. What entrance exams are accepted by [Apex University](/colleges/apex-jaipur)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, CUET PG for the PGDM and MBA admissions.
 
 ---

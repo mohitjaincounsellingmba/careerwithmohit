@@ -61,7 +61,7 @@ Yes, [Symbiosis Nandyal Graduate School of Management](/colleges/symbiosis-nandy
 ### 2. What is the average package offered at [Symbiosis Nandyal Graduate School of Management](/colleges/symbiosis-nandyal-graduate-school-of-management)?
 The average placement package at [Symbiosis Nandyal Graduate School of Management](/colleges/symbiosis-nandyal-graduate-school-of-management) is approximately ₹8.5 LPA, with the highest package reaching up to ₹15.5 LPA.
 
-### 3. What entrance exams are accepted by Symbiosis Nandyal Graduate School of Management?
+### 3. What entrance exams are accepted by [Symbiosis Nandyal Graduate School of Management](/colleges/symbiosis-nandyal-graduate-school-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

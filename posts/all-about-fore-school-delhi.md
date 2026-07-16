@@ -61,7 +61,7 @@ Yes, [FORE School of Management](/colleges/fore-school-delhi) is a highly respec
 ### 2. What is the average package offered at [FORE School of Management](/colleges/fore-school-delhi)?
 The average placement package at [FORE School of Management](/colleges/fore-school-delhi) is approximately ₹15.10 LPA, with the highest package reaching up to ₹30.00 LPA.
 
-### 3. What entrance exams are accepted by FORE School of Management?
+### 3. What entrance exams are accepted by [FORE School of Management](/colleges/fore-school-delhi)?
 The college accepts scores from national level entrance examinations including CAT, XAT, GMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [GNIOT (MBA Institute)](/colleges/gniot-mba-institute-greater-noida) is a h
 ### 2. What is the average package offered at [GNIOT (MBA Institute)](/colleges/gniot-mba-institute-greater-noida)?
 The average placement package at [GNIOT (MBA Institute)](/colleges/gniot-mba-institute-greater-noida) is approximately ₹5.0 LPA, with the highest package reaching up to ₹12.0 LPA.
 
-### 3. What entrance exams are accepted by GNIOT (MBA Institute)?
+### 3. What entrance exams are accepted by [GNIOT (MBA Institute)](/colleges/gniot-mba-institute-greater-noida)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, UPSEE for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Suryadatta Taliparamba Global Institute of Management](/colleges/suryadatt
 ### 2. What is the average package offered at [Suryadatta Taliparamba Global Institute of Management](/colleges/suryadatta-taliparamba-global-institute-of-management)?
 The average placement package at [Suryadatta Taliparamba Global Institute of Management](/colleges/suryadatta-taliparamba-global-institute-of-management) is approximately ₹7.1 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by Suryadatta Taliparamba Global Institute of Management?
+### 3. What entrance exams are accepted by [Suryadatta Taliparamba Global Institute of Management](/colleges/suryadatta-taliparamba-global-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

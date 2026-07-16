@@ -61,7 +61,7 @@ Yes, [NMIMS Bangalore](/colleges/nmims-bangalore) is a highly respected institut
 ### 2. What is the average package offered at [NMIMS Bangalore](/colleges/nmims-bangalore)?
 The average placement package at [NMIMS Bangalore](/colleges/nmims-bangalore) is approximately ₹14.0 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by NMIMS Bangalore?
+### 3. What entrance exams are accepted by [NMIMS Bangalore](/colleges/nmims-bangalore)?
 The college accepts scores from national level entrance examinations including NMAT for the PGDM and MBA admissions.
 
 ---

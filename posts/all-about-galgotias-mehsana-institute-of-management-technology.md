@@ -61,7 +61,7 @@ Yes, [Galgotias Mehsana Institute of Management & Technology](/colleges/galgotia
 ### 2. What is the average package offered at [Galgotias Mehsana Institute of Management & Technology](/colleges/galgotias-mehsana-institute-of-management-technology)?
 The average placement package at [Galgotias Mehsana Institute of Management & Technology](/colleges/galgotias-mehsana-institute-of-management-technology) is approximately ₹8.5 LPA, with the highest package reaching up to ₹15.5 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Mehsana Institute of Management & Technology?
+### 3. What entrance exams are accepted by [Galgotias Mehsana Institute of Management & Technology](/colleges/galgotias-mehsana-institute-of-management-technology)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

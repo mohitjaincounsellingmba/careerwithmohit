@@ -61,7 +61,7 @@ Yes, [Xavier Faridabad School of Business & Management](/colleges/xavier-faridab
 ### 2. What is the average package offered at [Xavier Faridabad School of Business & Management](/colleges/xavier-faridabad-school-of-business-management)?
 The average placement package at [Xavier Faridabad School of Business & Management](/colleges/xavier-faridabad-school-of-business-management) is approximately ₹6.4 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by Xavier Faridabad School of Business & Management?
+### 3. What entrance exams are accepted by [Xavier Faridabad School of Business & Management](/colleges/xavier-faridabad-school-of-business-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

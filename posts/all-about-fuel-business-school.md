@@ -61,7 +61,7 @@ Yes, [FUEL Business School](/colleges/fuel-business-school) is a highly respecte
 ### 2. What is the average package offered at [FUEL Business School](/colleges/fuel-business-school)?
 The average placement package at [FUEL Business School](/colleges/fuel-business-school) is approximately ₹7.5 LPA, with the highest package reaching up to ₹16.0 LPA.
 
-### 3. What entrance exams are accepted by FUEL Business School?
+### 3. What entrance exams are accepted by [FUEL Business School](/colleges/fuel-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

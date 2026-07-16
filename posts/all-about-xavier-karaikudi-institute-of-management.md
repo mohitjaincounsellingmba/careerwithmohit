@@ -61,7 +61,7 @@ Yes, [Xavier Karaikudi Institute of Management](/colleges/xavier-karaikudi-insti
 ### 2. What is the average package offered at [Xavier Karaikudi Institute of Management](/colleges/xavier-karaikudi-institute-of-management)?
 The average placement package at [Xavier Karaikudi Institute of Management](/colleges/xavier-karaikudi-institute-of-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by Xavier Karaikudi Institute of Management?
+### 3. What entrance exams are accepted by [Xavier Karaikudi Institute of Management](/colleges/xavier-karaikudi-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [JIS University, JIS School of Business Management](/colleges/jis-universit
 ### 2. What is the average package offered at [JIS University, JIS School of Business Management](/colleges/jis-university-jis-school-of-business-management)?
 The average placement package at [JIS University, JIS School of Business Management](/colleges/jis-university-jis-school-of-business-management) is approximately ₹5.1 LPA, with the highest package reaching up to ₹9.0 LPA.
 
-### 3. What entrance exams are accepted by JIS University, JIS School of Business Management?
+### 3. What entrance exams are accepted by [JIS University, JIS School of Business Management](/colleges/jis-university-jis-school-of-business-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

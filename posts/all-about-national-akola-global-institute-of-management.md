@@ -61,7 +61,7 @@ Yes, [National Akola Global Institute of Management](/colleges/national-akola-gl
 ### 2. What is the average package offered at [National Akola Global Institute of Management](/colleges/national-akola-global-institute-of-management)?
 The average placement package at [National Akola Global Institute of Management](/colleges/national-akola-global-institute-of-management) is approximately ₹5.7 LPA, with the highest package reaching up to ₹12.5 LPA.
 
-### 3. What entrance exams are accepted by National Akola Global Institute of Management?
+### 3. What entrance exams are accepted by [National Akola Global Institute of Management](/colleges/national-akola-global-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

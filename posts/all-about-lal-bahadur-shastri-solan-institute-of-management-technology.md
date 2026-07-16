@@ -61,7 +61,7 @@ Yes, [Lal Bahadur Shastri Solan Institute of Management & Technology](/colleges/
 ### 2. What is the average package offered at [Lal Bahadur Shastri Solan Institute of Management & Technology](/colleges/lal-bahadur-shastri-solan-institute-of-management-technology)?
 The average placement package at [Lal Bahadur Shastri Solan Institute of Management & Technology](/colleges/lal-bahadur-shastri-solan-institute-of-management-technology) is approximately ₹5.7 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by Lal Bahadur Shastri Solan Institute of Management & Technology?
+### 3. What entrance exams are accepted by [Lal Bahadur Shastri Solan Institute of Management & Technology](/colleges/lal-bahadur-shastri-solan-institute-of-management-technology)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

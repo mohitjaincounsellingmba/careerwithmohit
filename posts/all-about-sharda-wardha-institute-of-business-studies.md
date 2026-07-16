@@ -61,7 +61,7 @@ Yes, [Sharda Wardha Institute of Business Studies](/colleges/sharda-wardha-insti
 ### 2. What is the average package offered at [Sharda Wardha Institute of Business Studies](/colleges/sharda-wardha-institute-of-business-studies)?
 The average placement package at [Sharda Wardha Institute of Business Studies](/colleges/sharda-wardha-institute-of-business-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹20.0 LPA.
 
-### 3. What entrance exams are accepted by Sharda Wardha Institute of Business Studies?
+### 3. What entrance exams are accepted by [Sharda Wardha Institute of Business Studies](/colleges/sharda-wardha-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

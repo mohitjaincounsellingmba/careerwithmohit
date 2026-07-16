@@ -61,7 +61,7 @@ Yes, [St. Andrews Institute of Technology and Management, Gurgaon](/colleges/st-
 ### 2. What is the average package offered at [St. Andrews Institute of Technology and Management, Gurgaon](/colleges/st-andrews-gurgaon)?
 The average placement package at [St. Andrews Institute of Technology and Management, Gurgaon](/colleges/st-andrews-gurgaon) is approximately ₹4.5 LPA, with the highest package reaching up to ₹12.0 LPA.
 
-### 3. What entrance exams are accepted by St. Andrews Institute of Technology and Management, Gurgaon?
+### 3. What entrance exams are accepted by [St. Andrews Institute of Technology and Management, Gurgaon](/colleges/st-andrews-gurgaon)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, Merit for the PGDM and MBA admissions.
 
 ---

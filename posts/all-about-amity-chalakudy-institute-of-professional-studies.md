@@ -61,7 +61,7 @@ Yes, [Amity Chalakudy Institute of Professional Studies](/colleges/amity-chalaku
 ### 2. What is the average package offered at [Amity Chalakudy Institute of Professional Studies](/colleges/amity-chalakudy-institute-of-professional-studies)?
 The average placement package at [Amity Chalakudy Institute of Professional Studies](/colleges/amity-chalakudy-institute-of-professional-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by Amity Chalakudy Institute of Professional Studies?
+### 3. What entrance exams are accepted by [Amity Chalakudy Institute of Professional Studies](/colleges/amity-chalakudy-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Amity Prayagraj Institute of Management & Technology](/colleges/amity-pray
 ### 2. What is the average package offered at [Amity Prayagraj Institute of Management & Technology](/colleges/amity-prayagraj-institute-of-management-technology)?
 The average placement package at [Amity Prayagraj Institute of Management & Technology](/colleges/amity-prayagraj-institute-of-management-technology) is approximately ₹5.7 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by Amity Prayagraj Institute of Management & Technology?
+### 3. What entrance exams are accepted by [Amity Prayagraj Institute of Management & Technology](/colleges/amity-prayagraj-institute-of-management-technology)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

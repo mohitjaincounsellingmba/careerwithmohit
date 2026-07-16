@@ -61,7 +61,7 @@ Yes, [Noida International University (NIU)](/colleges/niu-greater-noida) is a hi
 ### 2. What is the average package offered at [Noida International University (NIU)](/colleges/niu-greater-noida)?
 The average placement package at [Noida International University (NIU)](/colleges/niu-greater-noida) is approximately ₹5.0 LPA, with the highest package reaching up to ₹12.0 LPA.
 
-### 3. What entrance exams are accepted by Noida International University (NIU)?
+### 3. What entrance exams are accepted by [Noida International University (NIU)](/colleges/niu-greater-noida)?
 The college accepts scores from national level entrance examinations including CUET PG, CAT, MAT for the PGDM and MBA admissions.
 
 ---

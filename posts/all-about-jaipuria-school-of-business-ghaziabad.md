@@ -61,7 +61,7 @@ Yes, [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziab
 ### 2. What is the average package offered at [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad)?
 The average placement package at [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) is approximately ₹7.0 LPA, with the highest package reaching up to ₹15.0 LPA.
 
-### 3. What entrance exams are accepted by Jaipuria School of Business?
+### 3. What entrance exams are accepted by [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---

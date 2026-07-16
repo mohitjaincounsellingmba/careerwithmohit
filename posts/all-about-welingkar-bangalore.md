@@ -61,7 +61,7 @@ Yes, [Welingkar (WeSchool) Bangalore](/colleges/welingkar-bangalore) is a highly
 ### 2. What is the average package offered at [Welingkar (WeSchool) Bangalore](/colleges/welingkar-bangalore)?
 The average placement package at [Welingkar (WeSchool) Bangalore](/colleges/welingkar-bangalore) is approximately ₹12.0 LPA, with the highest package reaching up to ₹22.0 LPA.
 
-### 3. What entrance exams are accepted by Welingkar (WeSchool) Bangalore?
+### 3. What entrance exams are accepted by [Welingkar (WeSchool) Bangalore](/colleges/welingkar-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

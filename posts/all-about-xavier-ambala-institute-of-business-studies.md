@@ -61,7 +61,7 @@ Yes, [Xavier Ambala Institute of Business Studies](/colleges/xavier-ambala-insti
 ### 2. What is the average package offered at [Xavier Ambala Institute of Business Studies](/colleges/xavier-ambala-institute-of-business-studies)?
 The average placement package at [Xavier Ambala Institute of Business Studies](/colleges/xavier-ambala-institute-of-business-studies) is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by Xavier Ambala Institute of Business Studies?
+### 3. What entrance exams are accepted by [Xavier Ambala Institute of Business Studies](/colleges/xavier-ambala-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

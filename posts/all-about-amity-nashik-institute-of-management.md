@@ -61,7 +61,7 @@ Yes, [Amity Nashik Institute of Management](/colleges/amity-nashik-institute-of-
 ### 2. What is the average package offered at [Amity Nashik Institute of Management](/colleges/amity-nashik-institute-of-management)?
 The average placement package at [Amity Nashik Institute of Management](/colleges/amity-nashik-institute-of-management) is approximately ₹7.8 LPA, with the highest package reaching up to ₹23.0 LPA.
 
-### 3. What entrance exams are accepted by Amity Nashik Institute of Management?
+### 3. What entrance exams are accepted by [Amity Nashik Institute of Management](/colleges/amity-nashik-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [NERIM Group of Institutions](/colleges/nerim-group-of-institutions) is a h
 ### 2. What is the average package offered at [NERIM Group of Institutions](/colleges/nerim-group-of-institutions)?
 The average placement package at [NERIM Group of Institutions](/colleges/nerim-group-of-institutions) is approximately ₹5.1 LPA, with the highest package reaching up to ₹13.3 LPA.
 
-### 3. What entrance exams are accepted by NERIM Group of Institutions?
+### 3. What entrance exams are accepted by [NERIM Group of Institutions](/colleges/nerim-group-of-institutions)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

@@ -61,7 +61,7 @@ Yes, [Vishwa Vishwani Institute of Systems & Management](/colleges/vishwa-vishwa
 ### 2. What is the average package offered at [Vishwa Vishwani Institute of Systems & Management](/colleges/vishwa-vishwani-institute-of-systems-management)?
 The average placement package at [Vishwa Vishwani Institute of Systems & Management](/colleges/vishwa-vishwani-institute-of-systems-management) is approximately ₹5.9 LPA, with the highest package reaching up to ₹14.9 LPA.
 
-### 3. What entrance exams are accepted by Vishwa Vishwani Institute of Systems & Management?
+### 3. What entrance exams are accepted by [Vishwa Vishwani Institute of Systems & Management](/colleges/vishwa-vishwani-institute-of-systems-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

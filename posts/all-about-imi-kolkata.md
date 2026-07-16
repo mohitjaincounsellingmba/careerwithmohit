@@ -61,7 +61,7 @@ Yes, [IMI Kolkata](/colleges/imi-kolkata) is a highly respected institution know
 ### 2. What is the average package offered at [IMI Kolkata](/colleges/imi-kolkata)?
 The average placement package at [IMI Kolkata](/colleges/imi-kolkata) is approximately ₹10.5 LPA, with the highest package reaching up to ₹20.3 LPA.
 
-### 3. What entrance exams are accepted by IMI Kolkata?
+### 3. What entrance exams are accepted by [IMI Kolkata](/colleges/imi-kolkata)?
 The college accepts scores from national level entrance examinations including CAT, XAT, GMAT, CMAT for the PGDM and MBA admissions.
 
 ---

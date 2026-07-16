@@ -61,7 +61,7 @@ Yes, [Suryadatta Ponnani Business School](/colleges/suryadatta-ponnani-business-
 ### 2. What is the average package offered at [Suryadatta Ponnani Business School](/colleges/suryadatta-ponnani-business-school)?
 The average placement package at [Suryadatta Ponnani Business School](/colleges/suryadatta-ponnani-business-school) is approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.
 
-### 3. What entrance exams are accepted by Suryadatta Ponnani Business School?
+### 3. What entrance exams are accepted by [Suryadatta Ponnani Business School](/colleges/suryadatta-ponnani-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

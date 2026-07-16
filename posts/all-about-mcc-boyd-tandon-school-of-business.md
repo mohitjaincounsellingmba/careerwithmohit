@@ -61,7 +61,7 @@ Yes, [MCC Boyd Tandon School of Business](/colleges/mcc-boyd-tandon-school-of-bu
 ### 2. What is the average package offered at [MCC Boyd Tandon School of Business](/colleges/mcc-boyd-tandon-school-of-business)?
 The average placement package at [MCC Boyd Tandon School of Business](/colleges/mcc-boyd-tandon-school-of-business) is approximately ₹6.6 LPA, with the highest package reaching up to ₹12 LPA.
 
-### 3. What entrance exams are accepted by MCC Boyd Tandon School of Business?
+### 3. What entrance exams are accepted by [MCC Boyd Tandon School of Business](/colleges/mcc-boyd-tandon-school-of-business)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

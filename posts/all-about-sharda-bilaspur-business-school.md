@@ -61,7 +61,7 @@ Yes, [Sharda Bilaspur Business School](/colleges/sharda-bilaspur-business-school
 ### 2. What is the average package offered at [Sharda Bilaspur Business School](/colleges/sharda-bilaspur-business-school)?
 The average placement package at [Sharda Bilaspur Business School](/colleges/sharda-bilaspur-business-school) is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
 
-### 3. What entrance exams are accepted by Sharda Bilaspur Business School?
+### 3. What entrance exams are accepted by [Sharda Bilaspur Business School](/colleges/sharda-bilaspur-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

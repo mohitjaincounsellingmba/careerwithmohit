@@ -61,7 +61,7 @@ Yes, [Galgotias Muzaffarpur Institute of Business Studies](/colleges/galgotias-m
 ### 2. What is the average package offered at [Galgotias Muzaffarpur Institute of Business Studies](/colleges/galgotias-muzaffarpur-institute-of-business-studies)?
 The average placement package at [Galgotias Muzaffarpur Institute of Business Studies](/colleges/galgotias-muzaffarpur-institute-of-business-studies) is approximately ₹6.4 LPA, with the highest package reaching up to ₹17.0 LPA.
 
-### 3. What entrance exams are accepted by Galgotias Muzaffarpur Institute of Business Studies?
+### 3. What entrance exams are accepted by [Galgotias Muzaffarpur Institute of Business Studies](/colleges/galgotias-muzaffarpur-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

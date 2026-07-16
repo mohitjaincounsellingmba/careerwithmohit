@@ -61,7 +61,7 @@ Yes, [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-ins
 ### 2. What is the average package offered at [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-institute-of-professional-studies)?
 The average placement package at [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-institute-of-professional-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹17.0 LPA.
 
-### 3. What entrance exams are accepted by Xavier Alwar Institute of Professional Studies?
+### 3. What entrance exams are accepted by [Xavier Alwar Institute of Professional Studies](/colleges/xavier-alwar-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

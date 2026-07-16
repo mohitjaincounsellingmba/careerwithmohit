@@ -61,7 +61,7 @@ Yes, [International Visakhapatnam Global Institute of Management](/colleges/inte
 ### 2. What is the average package offered at [International Visakhapatnam Global Institute of Management](/colleges/international-visakhapatnam-global-institute-of-management)?
 The average placement package at [International Visakhapatnam Global Institute of Management](/colleges/international-visakhapatnam-global-institute-of-management) is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
 
-### 3. What entrance exams are accepted by International Visakhapatnam Global Institute of Management?
+### 3. What entrance exams are accepted by [International Visakhapatnam Global Institute of Management](/colleges/international-visakhapatnam-global-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

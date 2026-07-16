@@ -61,7 +61,7 @@ Yes, [ITM Skill University](/colleges/itm-skill-university) is a highly respecte
 ### 2. What is the average package offered at [ITM Skill University](/colleges/itm-skill-university)?
 The average placement package at [ITM Skill University](/colleges/itm-skill-university) is approximately ₹6.1 LPA, with the highest package reaching up to ₹13.7 LPA.
 
-### 3. What entrance exams are accepted by ITM Skill University?
+### 3. What entrance exams are accepted by [ITM Skill University](/colleges/itm-skill-university)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

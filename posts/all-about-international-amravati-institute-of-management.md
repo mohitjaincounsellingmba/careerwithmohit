@@ -61,7 +61,7 @@ Yes, [International Amravati Institute of Management](/colleges/international-am
 ### 2. What is the average package offered at [International Amravati Institute of Management](/colleges/international-amravati-institute-of-management)?
 The average placement package at [International Amravati Institute of Management](/colleges/international-amravati-institute-of-management) is approximately ₹5.0 LPA, with the highest package reaching up to ₹17.0 LPA.
 
-### 3. What entrance exams are accepted by International Amravati Institute of Management?
+### 3. What entrance exams are accepted by [International Amravati Institute of Management](/colleges/international-amravati-institute-of-management)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

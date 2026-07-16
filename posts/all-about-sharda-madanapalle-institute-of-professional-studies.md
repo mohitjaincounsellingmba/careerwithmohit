@@ -61,7 +61,7 @@ Yes, [Sharda Madanapalle Institute of Professional Studies](/colleges/sharda-mad
 ### 2. What is the average package offered at [Sharda Madanapalle Institute of Professional Studies](/colleges/sharda-madanapalle-institute-of-professional-studies)?
 The average placement package at [Sharda Madanapalle Institute of Professional Studies](/colleges/sharda-madanapalle-institute-of-professional-studies) is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
 
-### 3. What entrance exams are accepted by Sharda Madanapalle Institute of Professional Studies?
+### 3. What entrance exams are accepted by [Sharda Madanapalle Institute of Professional Studies](/colleges/sharda-madanapalle-institute-of-professional-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

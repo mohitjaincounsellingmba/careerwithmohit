@@ -61,7 +61,7 @@ Yes, [International Nanded Business School](/colleges/international-nanded-busin
 ### 2. What is the average package offered at [International Nanded Business School](/colleges/international-nanded-business-school)?
 The average placement package at [International Nanded Business School](/colleges/international-nanded-business-school) is approximately ₹5.7 LPA, with the highest package reaching up to ₹18.5 LPA.
 
-### 3. What entrance exams are accepted by International Nanded Business School?
+### 3. What entrance exams are accepted by [International Nanded Business School](/colleges/international-nanded-business-school)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---

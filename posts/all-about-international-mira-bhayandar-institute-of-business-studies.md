@@ -61,7 +61,7 @@ Yes, [International Mira-Bhayandar Institute of Business Studies](/colleges/inte
 ### 2. What is the average package offered at [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies)?
 The average placement package at [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies) is approximately ₹7.8 LPA, with the highest package reaching up to ₹14.0 LPA.
 
-### 3. What entrance exams are accepted by International Mira-Bhayandar Institute of Business Studies?
+### 3. What entrance exams are accepted by [International Mira-Bhayandar Institute of Business Studies](/colleges/international-mira-bhayandar-institute-of-business-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
 
 ---
