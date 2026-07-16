@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Sharda Bhimavaram Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Sharda Bhimavaram Business School](/colleges/sharda-bhimavaram-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Sharda Bhimavaram Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

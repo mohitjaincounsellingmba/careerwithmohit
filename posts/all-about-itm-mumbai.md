@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: ITM Mumbai is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [ITM Mumbai](/colleges/itm-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to ITM Mumbai](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

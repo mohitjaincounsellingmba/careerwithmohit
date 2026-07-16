@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: RIIM Pune is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [RIIM Pune](/colleges/riim-pune) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to RIIM Pune](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Symbiosis Guwahati Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Symbiosis Guwahati Business School](/colleges/symbiosis-guwahati-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Symbiosis Guwahati Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

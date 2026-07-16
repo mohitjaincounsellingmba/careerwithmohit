@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Administrative Staff College of India is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Administrative Staff College of India](/colleges/administrative-staff-college-of-india) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Administrative Staff College of India](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

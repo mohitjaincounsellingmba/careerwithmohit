@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: International Secunderabad School of Business & Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [International Secunderabad School of Business & Management](/colleges/international-secunderabad-school-of-business-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to International Secunderabad School of Business & Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

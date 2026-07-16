@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: East Point College of Higher Education is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [East Point College of Higher Education](/colleges/east-point-college-of-higher-education) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to East Point College of Higher Education](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

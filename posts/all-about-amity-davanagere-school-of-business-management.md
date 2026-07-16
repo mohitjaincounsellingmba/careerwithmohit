@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Amity Davanagere School of Business & Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Amity Davanagere School of Business & Management](/colleges/amity-davanagere-school-of-business-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Amity Davanagere School of Business & Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

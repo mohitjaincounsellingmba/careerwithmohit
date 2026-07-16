@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Suryadatta Ludhiana Institute of Professional Studies is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Suryadatta Ludhiana Institute of Professional Studies](/colleges/suryadatta-ludhiana-institute-of-professional-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Suryadatta Ludhiana Institute of Professional Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

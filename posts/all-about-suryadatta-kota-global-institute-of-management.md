@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Suryadatta Kota Global Institute of Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Suryadatta Kota Global Institute of Management](/colleges/suryadatta-kota-global-institute-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Suryadatta Kota Global Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

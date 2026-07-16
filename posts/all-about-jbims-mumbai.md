@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including M
 
 ---
 
-**Final Verdict**: JBIMS Mumbai is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [JBIMS Mumbai](/colleges/jbims-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to JBIMS Mumbai](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

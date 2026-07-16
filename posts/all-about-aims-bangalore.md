@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including M
 
 ---
 
-**Final Verdict**: AIMS Institutes Bangalore is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [AIMS Institutes Bangalore](/colleges/aims-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to AIMS Institutes Bangalore](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

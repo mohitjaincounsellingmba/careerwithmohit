@@ -1,6 +1,6 @@
 ---
 title: 'Top MBA Finance Colleges in Chandigarh 2026 — Placements & Fees'
-date: '2026-06-25'
+date: '2026-07-16'
 category: MBA Admissions
 description: 'Find the best MBA Finance colleges in Chandigarh. Check fees, placements, and packages for UBS Chandigarh, Chandigarh University, and Chitkara in 2026.'
 keywords:

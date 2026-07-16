@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Symbiosis Eluru Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Symbiosis Eluru Business School](/colleges/symbiosis-eluru-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Symbiosis Eluru Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

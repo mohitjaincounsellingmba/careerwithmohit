@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Xavier Ajmer Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Xavier Ajmer Business School](/colleges/xavier-ajmer-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Xavier Ajmer Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

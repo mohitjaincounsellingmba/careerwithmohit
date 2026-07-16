@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Symbiosis Yavatmal Graduate School of Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Symbiosis Yavatmal Graduate School of Management](/colleges/symbiosis-yavatmal-graduate-school-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Symbiosis Yavatmal Graduate School of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

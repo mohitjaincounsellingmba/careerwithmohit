@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Galgotias Tiruchirappalli Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Galgotias Tiruchirappalli Business School](/colleges/galgotias-tiruchirappalli-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Galgotias Tiruchirappalli Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

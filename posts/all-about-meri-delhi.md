@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including I
 
 ---
 
-**Final Verdict**: MERI Janakpuri (Management Education and Research Institute) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to MERI Janakpuri (Management Education and Research Institute)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

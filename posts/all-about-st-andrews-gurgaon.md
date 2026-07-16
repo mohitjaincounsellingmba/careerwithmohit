@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: St. Andrews Institute of Technology and Management, Gurgaon is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [St. Andrews Institute of Technology and Management, Gurgaon](/colleges/st-andrews-gurgaon) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to St. Andrews Institute of Technology and Management, Gurgaon](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

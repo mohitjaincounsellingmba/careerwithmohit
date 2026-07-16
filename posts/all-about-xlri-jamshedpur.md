@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including X
 
 ---
 
-**Final Verdict**: XLRI Jamshedpur is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to XLRI Jamshedpur](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

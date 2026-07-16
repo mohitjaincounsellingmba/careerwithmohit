@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: T M Bhagalpur University, Department of Commerce & Business Administration is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to T M Bhagalpur University, Department of Commerce & Business Administration](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -1,6 +1,6 @@
 ---
 title: 'Top MBA Finance Colleges in Noida 2026 — Placements & Fees'
-date: '2026-06-25'
+date: '2026-07-16'
 category: MBA Admissions
 description: 'Looking for top MBA Finance colleges in Noida? Compare fees, placements, and programs for Jaipuria Noida, Amity, and IMS Noida in this 2026 guide.'
 keywords:

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Alliance School of Business , Alliance University is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Alliance School of Business , Alliance University](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

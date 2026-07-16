@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including M
 
 ---
 
-**Final Verdict**: MSRIM (Ramaiah) Bangalore is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [MSRIM (Ramaiah) Bangalore](/colleges/msrim-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to MSRIM (Ramaiah) Bangalore](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

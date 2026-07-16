@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Sharda Bilaspur Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Sharda Bilaspur Business School](/colleges/sharda-bilaspur-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Sharda Bilaspur Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

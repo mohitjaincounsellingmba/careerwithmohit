@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including M
 
 ---
 
-**Final Verdict**: PUMBA Pune is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [PUMBA Pune](/colleges/pumba-pune) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to PUMBA Pune](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: CB Bhandari Jain College is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [CB Bhandari Jain College](/colleges/cb-bhandari-jain-college) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to CB Bhandari Jain College](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: CMR University, School of Mgmt is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to CMR University, School of Mgmt](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

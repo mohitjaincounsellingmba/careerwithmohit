@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including M
 
 ---
 
-**Final Verdict**: J.S. Kothari Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [J.S. Kothari Business School](/colleges/js-kothari-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to J.S. Kothari Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

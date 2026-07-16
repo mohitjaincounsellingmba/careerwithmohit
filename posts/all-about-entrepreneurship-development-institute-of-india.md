@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Entrepreneurship Development Institute of India is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Entrepreneurship Development Institute of India](/colleges/entrepreneurship-development-institute-of-india) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Entrepreneurship Development Institute of India](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

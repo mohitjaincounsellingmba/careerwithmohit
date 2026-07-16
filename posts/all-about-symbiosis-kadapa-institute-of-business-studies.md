@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Symbiosis Kadapa Institute of Business Studies is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Symbiosis Kadapa Institute of Business Studies](/colleges/symbiosis-kadapa-institute-of-business-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Symbiosis Kadapa Institute of Business Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

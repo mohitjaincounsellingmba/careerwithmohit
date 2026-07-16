@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Delhi School of Business (VIPS-TC) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Delhi School of Business (VIPS-TC)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

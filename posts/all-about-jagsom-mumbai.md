@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: JAGSoM (Jagdish Sheth) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [JAGSoM (Jagdish Sheth)](/colleges/jagsom-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to JAGSoM (Jagdish Sheth)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

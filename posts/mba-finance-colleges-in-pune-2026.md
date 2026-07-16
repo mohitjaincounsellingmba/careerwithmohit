@@ -1,6 +1,6 @@
 ---
 title: 'Top MBA Finance Colleges in Pune 2026 — Placements & Fees'
-date: '2026-06-25'
+date: '2026-07-16'
 category: MBA Admissions
 description: 'Looking for top B-schools for Finance in Pune? Compare fees, MAH CET cutoffs, and placements for SIBM, NIBM, PUMBA, and PIBM Pune in this 2026 guide.'
 keywords:

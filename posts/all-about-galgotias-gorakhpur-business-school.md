@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Galgotias Gorakhpur Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Galgotias Gorakhpur Business School](/colleges/galgotias-gorakhpur-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Galgotias Gorakhpur Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

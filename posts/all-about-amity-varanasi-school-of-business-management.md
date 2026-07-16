@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Amity Varanasi School of Business & Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Amity Varanasi School of Business & Management](/colleges/amity-varanasi-school-of-business-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Amity Varanasi School of Business & Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

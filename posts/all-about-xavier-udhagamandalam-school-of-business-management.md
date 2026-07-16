@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Xavier Udhagamandalam School of Business & Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Xavier Udhagamandalam School of Business & Management](/colleges/xavier-udhagamandalam-school-of-business-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Xavier Udhagamandalam School of Business & Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

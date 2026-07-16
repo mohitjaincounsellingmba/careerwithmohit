@@ -337,7 +337,7 @@ if (!fs.existsSync(postsDir)) {
 let generatedCount = 0;
 
 citiesData.forEach(data => {
-  const date = "2026-06-25";
+  const date = new Date().toISOString().split('T')[0];
   const category = "MBA Admissions";
 
   // Build the markdown content

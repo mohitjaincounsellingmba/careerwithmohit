@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Institute of Public Enterprise is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Institute of Public Enterprise](/colleges/institute-of-public-enterprise) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Institute of Public Enterprise](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

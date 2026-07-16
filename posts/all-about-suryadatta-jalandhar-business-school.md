@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Suryadatta Jalandhar Business School is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Suryadatta Jalandhar Business School](/colleges/suryadatta-jalandhar-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Suryadatta Jalandhar Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

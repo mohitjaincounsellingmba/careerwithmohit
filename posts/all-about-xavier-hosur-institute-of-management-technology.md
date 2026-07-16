@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Xavier Hosur Institute of Management & Technology is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Xavier Hosur Institute of Management & Technology](/colleges/xavier-hosur-institute-of-management-technology) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Xavier Hosur Institute of Management & Technology](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

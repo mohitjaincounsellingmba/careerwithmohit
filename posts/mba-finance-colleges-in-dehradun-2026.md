@@ -1,6 +1,6 @@
 ---
 title: 'Top MBA Finance Colleges in Dehradun 2026 — Placements & Fees'
-date: '2026-06-25'
+date: '2026-07-16'
 category: MBA Admissions
 description: 'Explore the best MBA colleges for Finance in Dehradun. Read our 2026 guide on UPES, Doon Business School, and Graphic Era fees, packages, and eligibility.'
 keywords:

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: IQ City United World School of Business (UWSB) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [IQ City United World School of Business (UWSB)](/colleges/iq-city-uwsb-kolkata) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to IQ City United World School of Business (UWSB)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: ISBS Gurgaon (ISB&M) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [ISBS Gurgaon (ISB&M)](/colleges/isbs-gurgaon) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to ISBS Gurgaon (ISB&M)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Galgotias Navsari Graduate School of Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Galgotias Navsari Graduate School of Management](/colleges/galgotias-navsari-graduate-school-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Galgotias Navsari Graduate School of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Sharda Hindupur Institute of Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Sharda Hindupur Institute of Management](/colleges/sharda-hindupur-institute-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Sharda Hindupur Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

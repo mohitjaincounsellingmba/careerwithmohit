@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: National Jalgaon Institute of Business Studies is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [National Jalgaon Institute of Business Studies](/colleges/national-jalgaon-institute-of-business-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to National Jalgaon Institute of Business Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

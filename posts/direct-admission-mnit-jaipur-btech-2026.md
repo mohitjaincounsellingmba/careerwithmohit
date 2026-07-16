@@ -164,7 +164,7 @@ For the General category (Other State quota), you typically need a rank under 5,
 Yes. A Home State quota is available for Rajasthan domicile students through JoSAA. These seats have lower cutoffs.
 
 **Q: Is there a donation seat or NRI quota at [MNIT Jaipur](/colleges/mnit-jaipur)?**
-No. MNIT Jaipur does not have an NRI quota, donation seat, or management quota of any kind.
+No. [MNIT Jaipur](/colleges/mnit-jaipur) does not have an NRI quota, donation seat, or management quota of any kind.
 
 ---
 

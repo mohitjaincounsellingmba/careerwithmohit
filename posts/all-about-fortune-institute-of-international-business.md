@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Fortune Institute of International Business is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Fortune Institute of International Business](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

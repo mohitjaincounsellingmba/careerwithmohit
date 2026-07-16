@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Lal Bahadur Shastri Solan Institute of Management & Technology is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Lal Bahadur Shastri Solan Institute of Management & Technology](/colleges/lal-bahadur-shastri-solan-institute-of-management-technology) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Lal Bahadur Shastri Solan Institute of Management & Technology](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

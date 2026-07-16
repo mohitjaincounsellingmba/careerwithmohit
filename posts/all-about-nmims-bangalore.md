@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including N
 
 ---
 
-**Final Verdict**: NMIMS Bangalore is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [NMIMS Bangalore](/colleges/nmims-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to NMIMS Bangalore](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

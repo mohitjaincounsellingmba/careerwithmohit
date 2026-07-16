@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: AIMA-Centre for Management Education is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [AIMA-Centre for Management Education](/colleges/aima-centre-for-management-education) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to AIMA-Centre for Management Education](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

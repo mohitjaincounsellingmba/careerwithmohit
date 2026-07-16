@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including S
 
 ---
 
-**Final Verdict**: SCMHRD Pune is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [SCMHRD Pune](/colleges/scmhrd-pune) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to SCMHRD Pune](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

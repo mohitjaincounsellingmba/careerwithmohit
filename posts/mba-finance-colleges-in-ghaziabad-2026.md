@@ -1,6 +1,6 @@
 ---
 title: 'Top MBA Finance Colleges in Ghaziabad 2026 — Placements & Fees'
-date: '2026-06-25'
+date: '2026-07-16'
 category: MBA Admissions
 description: 'Check out the top MBA Finance colleges in Ghaziabad. Read details on IMT Ghaziabad, ITS Mohan Nagar, and Jaipuria School of Business fees & average salary.'
 keywords:

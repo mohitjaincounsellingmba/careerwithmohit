@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: LBSIM Delhi (Lal Bahadur Shastri Institute of Management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

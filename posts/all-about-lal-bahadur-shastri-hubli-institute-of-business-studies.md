@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: Lal Bahadur Shastri Hubli Institute of Business Studies is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Lal Bahadur Shastri Hubli Institute of Business Studies](/colleges/lal-bahadur-shastri-hubli-institute-of-business-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Lal Bahadur Shastri Hubli Institute of Business Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

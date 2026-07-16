@@ -1,6 +1,6 @@
 ---
 title: 'Top MBA Finance Colleges in Greater Noida 2026 — Placements & Fees'
-date: '2026-06-25'
+date: '2026-07-16'
 category: MBA Admissions
 description: 'Compare the best MBA Finance colleges in Greater Noida. Get details on fees, placements, and cutoffs for BIMTECH, GNIOT, and GL Bajaj.'
 keywords:

@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including M
 
 ---
 
-**Final Verdict**: St. Wilfred’s Institute of Management is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [St. Wilfred’s Institute of Management](/colleges/st-wilfreds-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to St. Wilfred’s Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

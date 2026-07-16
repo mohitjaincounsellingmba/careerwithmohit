@@ -66,7 +66,7 @@ The college accepts scores from national level entrance examinations including C
 
 ---
 
-**Final Verdict**: KIIT- School of Rural Managenment is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [KIIT- School of Rural Managenment](/colleges/kiit-school-of-rural-managenment) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to KIIT- School of Rural Managenment](/inquiry) | [👉 Get Free Counselling](/inquiry)
 

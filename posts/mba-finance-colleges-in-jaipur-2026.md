@@ -1,6 +1,6 @@
 ---
 title: 'Top MBA Finance Colleges in Jaipur 2026 — Placements & Fees'
-date: '2026-06-25'
+date: '2026-07-16'
 category: MBA Admissions
 description: 'Compare the best MBA Finance colleges in Jaipur for the 2026 batch. Get details on fees, placements, and cutoffs for Jaipuria, Taxila, and Manipal Jaipur.'
 keywords:
