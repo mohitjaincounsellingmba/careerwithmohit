@@ -10,7 +10,7 @@ keywords:
   - sibm pune mba hr fees
   - pumba pune hr placements
 faqs:
-  - question: Which Symbiosis college is better for HR: SIBM or SCMHRD?
+  - question: 'Which Symbiosis college is better for HR: SIBM or SCMHRD?'
     answer: >-
       SCMHRD Pune is specifically famous for its flagship HR specialization and has historically been ranked alongside XLRI and TISS for HR. However, SIBM Pune is the flagship Symbiosis B-school and offers excellent placement opportunities for all specializations, including HR.
   - question: What is the average placement package at SCMHRD Pune for HR?
