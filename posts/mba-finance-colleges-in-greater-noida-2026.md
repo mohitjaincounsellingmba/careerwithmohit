@@ -50,13 +50,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Greater Noida
 
-### 1. BIMTECH (Birla Institute of Management Technology)
+### 1. BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT / CMAT
 - **Average Placement Package:** **₹11.20 LPA**
 - **Key Highlight:** Elite business school with deep roots in insurance, risk management, and retail banking.
 
-### 2. GNIOT (GIMS - GNIOT Institute of Management Studies)
+### 2. GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.80 LPA**

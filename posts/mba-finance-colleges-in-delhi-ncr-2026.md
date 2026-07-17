@@ -64,7 +64,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹15.50 LPA**
 - **Key Highlight:** Highly specialized public university department focusing strictly on Financial Studies.
 
-### 3. MDI Gurgaon (Management Development Institute)
+### 3. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
 - **Approximate Fees:** ₹25.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹27.60 LPA**
@@ -76,7 +76,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹17.30 LPA**
 - **Key Highlight:** Vibrant corporate relationships, excellent for BFSI and marketing profiles.
 
-### 5. LBSIM Delhi (Lal Bahadur Shastri Institute of Management)
+### 5. [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)
 - **Approximate Fees:** ₹15.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹12.40 LPA**

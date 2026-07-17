@@ -103,7 +103,7 @@ Source: Shiksha.com
 The total fee is around INR 13.5 Lakhs, which covers the entire two-year program along with standard training certifications.
 
 ### Is Amity Noida good for Finance?
-Yes, Amity University Noida has a large, proactive placement cell that attracts many leading banks and financial firms.
+Yes, [Amity University](/colleges/amity-noida) Noida has a large, proactive placement cell that attracts many leading banks and financial firms.
 
 ### Does IMS Noida accept MAT?
 Yes, IMS Noida accepts MAT and CMAT scores for its management admissions.

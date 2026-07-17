@@ -62,7 +62,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.20 LPA**
 - **Key Highlight:** Affiliated with AKTU, delivering solid local placement packages and banking relationships.
 
-### 3. Jaipuria School of Business, Ghaziabad
+### 3. [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad), Ghaziabad
 - **Approximate Fees:** ₹7.9 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.80 LPA**

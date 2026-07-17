@@ -57,7 +57,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹7.40 LPA**
 - **Key Highlight:** Vibrant campus with a unified corporate placement cell spanning multiple branches.
 
-### 2. Taxila Business School
+### 2. [Taxila Business School](/colleges/taxila-jaipur)
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹11.50 LPA**
@@ -69,7 +69,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.50 LPA**
 - **Key Highlight:** Ultra-modern university campus with a proactive training and placement department.
 
-### 4. IIHMR University, Jaipur
+### 4. [IIHMR University](/colleges/iihmr-university), Jaipur
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.80 LPA**
