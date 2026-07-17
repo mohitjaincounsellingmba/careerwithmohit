@@ -117,9 +117,9 @@ Source: Shiksha.com
 NIBM Pune is established by the Reserve Bank of India (RBI) and is a specialized institute focused entirely on Banking and Financial Services, making it top-tier for credit risk and treasury management.
 
 ### Which MBA college in Pune has the best placements for Finance?
-SIBM Pune offers the highest average package (exceeding INR 28 LPA) with top consulting firms and investment banks visiting the campus.
+[SIBM Pune](/colleges/sibm-pune) offers the highest average package (exceeding INR 28 LPA) with top consulting firms and investment banks visiting the campus.
 
-### What is the fee structure for PUMBA Pune?
+### What is the fee structure for [PUMBA Pune](/colleges/pumba-pune)?
 PUMBA Pune has extremely low fees (approximately INR 65,000 per year for Maharashtra candidates), offering one of the best ROI packages in the country.
 
 

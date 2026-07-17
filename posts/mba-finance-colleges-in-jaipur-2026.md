@@ -109,7 +109,7 @@ Source: Shiksha.com
 ### Which is the highest-ranked MBA college in Jaipur?
 [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-lucknow) is highly ranked and widely recognized for its management training and corporate tie-ups.
 
-### Is Taxila Business School good for Finance?
+### Is [Taxila Business School](/colleges/taxila-jaipur) good for Finance?
 Yes, Taxila is known for its rigorous academic curriculum and heavy emphasis on financial analytics and tech tools.
 
 ### Are direct admissions available for Jaipur MBA colleges?

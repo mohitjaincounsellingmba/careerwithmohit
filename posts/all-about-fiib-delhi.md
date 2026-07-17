@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/colleges/fiib-delhi) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to FIIB (Fortune Institute of International Business), Delhi](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

@@ -52,19 +52,19 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Mumbai
 
-### 1. JBIMS Mumbai (Jamnalal Bajaj Institute of Management Studies)
+### 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹28.02 LPA**
 - **Key Highlight:** The legendary 'CEO Factory' offering exceptional brand management placements and industry-expert faculty.
 
-### 2. SPJIMR Mumbai
+### 2. [SPJIMR Mumbai](/colleges/spjimr-mumbai)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / GMAT
 - **Average Placement Package:** **₹33.00 LPA**
 - **Key Highlight:** Renowned for its value-based leadership and unmatched recruiter interest from top FMCG companies.
 
-### 3. NMIMS Mumbai (School of Business Management)
+### 3. [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** NMAT
 - **Average Placement Package:** **₹26.63 LPA**

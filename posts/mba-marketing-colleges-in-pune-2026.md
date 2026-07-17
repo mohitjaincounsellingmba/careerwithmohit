@@ -52,13 +52,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Pune
 
-### 1. SIBM Pune (Symbiosis Institute of Business Management)
+### 1. [SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹28.16 LPA**
 - **Key Highlight:** Flagship Symbiosis campus offering premium placements across top consumer durables and FMCG firms.
 
-### 2. PUMBA Pune (Department of Management Sciences, Pune University)
+### 2. [PUMBA Pune](/colleges/pumba-pune) (Department of Management Sciences, Pune University)
 - **Approximate Fees:** ₹1.3 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT / CMAT
 - **Average Placement Package:** **₹8.85 LPA**
@@ -70,7 +70,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.50 LPA**
 - **Key Highlight:** Popular regional B-school with solid placements in corporate sales and trade marketing.
 
-### 4. PIBM Pune (Pune Institute of Business Management)
+### 4. [PIBM Pune](/colleges/pibm-pune) (Pune Institute of Business Management)
 - **Approximate Fees:** ₹8.75 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹7.50 LPA**

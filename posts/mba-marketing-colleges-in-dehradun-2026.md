@@ -50,13 +50,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Dehradun
 
-### 1. UPES Dehradun (School of Business)
+### 1. [UPES Dehradun](/colleges/upes-dehradun) (School of Business)
 - **Approximate Fees:** ₹16.5 Lakhs (Total)
 - **Accepted Entrance Exams:** UPESMET / CAT / MAT / CMAT
 - **Average Placement Package:** **₹8.40 LPA**
 - **Key Highlight:** Industry-first specializations in digital marketing, product management, and energy marketing.
 
-### 2. Doon Business School (DBS)
+### 2. [Doon Business School](/colleges/doon-business-school) (DBS)
 - **Approximate Fees:** ₹8.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.90 LPA**

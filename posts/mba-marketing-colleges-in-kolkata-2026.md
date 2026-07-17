@@ -40,7 +40,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ## 🚀 Why Choose Kolkata for an MBA in Marketing?
 
-Kolkata possesses a rich legacy in commerce and corporate operations. From the premier business schools like IIM Calcutta to high-ROI heritage institutions, Kolkata remains a top destination for serious marketing students who want to build a career in consumer retail, services marketing, and strategy.
+Kolkata possesses a rich legacy in commerce and corporate operations. From the premier business schools like [IIM Calcutta](/colleges/iim-calcutta) to high-ROI heritage institutions, Kolkata remains a top destination for serious marketing students who want to build a career in consumer retail, services marketing, and strategy.
 
 Choosing a B-school in this region offers key advantages:
 - **Corporate Hub Proximity:** Direct access to internship programs, corporate site visits, and industry guest lectures.
@@ -57,7 +57,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹35.07 LPA**
 - **Key Highlight:** Elite premier B-school with exceptional placement packages and rich legacy in strategy and marketing.
 
-### 2. IMI Kolkata (International Management Institute)
+### 2. [IMI Kolkata](/colleges/imi-kolkata) (International Management Institute)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹10.45 LPA**
@@ -69,7 +69,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹8.50 LPA**
 - **Key Highlight:** India's first B-school offering strong regional corporate brand reputation and high ROI.
 
-### 4. Heritage Business School
+### 4. [Heritage Business School](/colleges/heritage-business-school)
 - **Approximate Fees:** ₹6.5 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.50 LPA**

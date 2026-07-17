@@ -106,10 +106,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is MDI Gurgaon highly sought after for Finance?
+### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly sought after for Finance?
 MDI Gurgaon has an exceptional reputation, elite faculty, and its strategic location in the NCR corporate hub brings in top investment banks, consultancies, and MNCs.
 
-### Does Great Lakes Gurgaon accept CMAT?
+### Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accept CMAT?
 Yes, Great Lakes Gurgaon accepts CAT, XAT, CMAT, and GMAT scores.
 
 ### What is the USP of JK Business School?

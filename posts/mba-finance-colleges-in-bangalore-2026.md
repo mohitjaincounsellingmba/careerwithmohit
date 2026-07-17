@@ -116,7 +116,7 @@ Source: Shiksha.com
 ### What makes Bangalore a great destination for MBA Finance?
 Bangalore is the headquarters of major tech companies, e-commerce giants, and houses extensive offices of top international investment banks like Goldman Sachs, HSBC, and Standard Chartered.
 
-### What is the minimum cutoff for SIBM Bangalore?
+### What is the minimum cutoff for [SIBM Bangalore](/colleges/sibm-bangalore)?
 SIBM Bangalore typically shortlists SNAP candidates around the 88-92 percentile range.
 
 ### Is Christ University good for Finance placements?

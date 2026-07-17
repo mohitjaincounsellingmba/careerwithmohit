@@ -51,7 +51,7 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Kolkata
 
-### 1. IIM Calcutta (Indian Institute of Management)
+### 1. [IIM Calcutta](/colleges/iim-calcutta) (Indian Institute of Management)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹35.07 LPA**

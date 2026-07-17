@@ -68,7 +68,7 @@ The college accepts scores from national level entrance examinations including C
 
 **Final Verdict**: [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to GNIOT Institute of Management Studies (GIMS)](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 
 Source: Shiksha.com
 ---

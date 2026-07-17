@@ -58,7 +58,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹34.10 LPA**
 - **Key Highlight:** Legendary ROI champion and absolute premium recruitment hub for top FMCG brands.
 
-### 2. MDI Gurgaon (Management Development Institute)
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
 - **Approximate Fees:** ₹25.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹27.60 LPA**
@@ -70,13 +70,13 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹17.30 LPA**
 - **Key Highlight:** Widely acknowledged as one of the best campuses in India for sales and marketing specializations.
 
-### 4. FORE School of Management, Delhi
+### 4. [FORE School of Management](/colleges/fore-school-delhi), Delhi
 - **Approximate Fees:** ₹16.9 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹14.50 LPA**
 - **Key Highlight:** Strong corporate connections and excellent curriculum in digital marketing and consumer behaviour.
 
-### 5. LBSIM Delhi (Lal Bahadur Shastri Institute of Management)
+### 5. [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)
 - **Approximate Fees:** ₹15.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹12.40 LPA**
