@@ -1,6 +1,7 @@
 export const COLLEGES = [
   {
     name: 'Amity University Online',
+    universitySlug: 'amity-university-online',
     location: 'Noida, UP',
     fee: '₹1,99,000',
     feeNum: 199000,
@@ -19,6 +20,7 @@ export const COLLEGES = [
   },
   {
     name: 'Chandigarh University Online',
+    universitySlug: 'chandigarh-university-online',
     location: 'Chandigarh',
     fee: '₹1,65,000',
     feeNum: 165000,
@@ -37,6 +39,7 @@ export const COLLEGES = [
   },
   {
     name: 'D.Y Patil University - Online (Pune)',
+    universitySlug: 'd-y-patil-university-online-pune',
     location: 'Pune, Maharashtra',
     fee: '₹1,89,400',
     feeNum: 189400,
@@ -55,6 +58,7 @@ export const COLLEGES = [
   },
   {
     name: 'Jain University Online',
+    universitySlug: 'jain-university-online',
     location: 'Bangalore, Karnataka',
     fee: '₹1,96,000',
     feeNum: 196000,
@@ -73,6 +77,7 @@ export const COLLEGES = [
   },
   {
     name: 'Lovely Professional University (LPU) Online',
+    universitySlug: 'lovely-professional-university-lpu-online',
     location: 'Phagwara, Punjab',
     fee: '₹1,61,600',
     feeNum: 161600,
@@ -91,6 +96,7 @@ export const COLLEGES = [
   },
   {
     name: 'Manipal University Jaipur Online',
+    universitySlug: 'manipal-university-jaipur-online',
     location: 'Jaipur, Rajasthan',
     fee: '₹1,75,000',
     feeNum: 175000,
@@ -109,6 +115,7 @@ export const COLLEGES = [
   },
   {
     name: 'Jaipuria Institute of Management - Online PGDM',
+    universitySlug: 'jaipuria-institute-of-management-online',
     location: 'Noida (Corporate Office)',
     fee: '₹1,40,000',
     feeNum: 140000,
@@ -118,7 +125,7 @@ export const COLLEGES = [
     grade: 'A',
     gradeColor: 'from-orange-500 to-orange-700',
     about: 'Jaipuria Institute of Management is one of India\'s premier management institutes. Its Online PGDM is AICTE-approved and recognized by AIU as equivalent to an MBA. The program is designed for working professionals seeking high-quality management education with flexible weekend live sessions.',
-    highlights: ['AICTE approved & AIU recognized (MBA equivalent)', 'AACSB Business Education Alliance Member', 'Top-50 NIRF ranked management institute legacy', 'Dual specialization in Marketing, HR, Finance, Analytics', '12 hours of live sessions per course'],
+    highlights: ['AICTE approved & AIU recognized (MBA equivalent)', 'AACSB Business Education Alliance Member', 'Top-50 NIRF ranked management legacy', 'Dual specialization in Marketing, HR, Finance, Analytics', '12 hours of live sessions per course'],
     duration: '2 Years (PG)',
     mode: 'Online (Weekend Live + Recorded)',
     approvals: 'AICTE, NBA, NAAC A, AIU, NIRF',
@@ -127,6 +134,7 @@ export const COLLEGES = [
   },
   {
     name: 'Sikkim Manipal University Online',
+    universitySlug: 'sikkim-manipal-university-online',
     location: 'Gangtok, Sikkim',
     fee: '₹1,10,000',
     feeNum: 110000,
@@ -145,6 +153,7 @@ export const COLLEGES = [
   },
   {
     name: 'NMIMS Online',
+    universitySlug: 'nmims-online',
     location: 'Mumbai, Maharashtra',
     fee: '₹2,00,000',
     feeNum: 200000,
@@ -163,6 +172,7 @@ export const COLLEGES = [
   },
   {
     name: 'Uttaranchal University Online',
+    universitySlug: 'uttaranchal-university-online',
     location: 'Dehradun, Uttarakhand',
     fee: '₹98,000',
     feeNum: 98000,
@@ -181,6 +191,7 @@ export const COLLEGES = [
   },
   {
     name: 'Vivekananda Global University Online',
+    universitySlug: 'vivekananda-global-university-online',
     location: 'Jaipur, Rajasthan',
     fee: '₹1,50,000',
     feeNum: 150000,
@@ -199,6 +210,7 @@ export const COLLEGES = [
   },
   {
     name: 'Parul University Online',
+    universitySlug: 'parul-university-online',
     location: 'Vadodara, Gujarat',
     fee: '₹1,50,000',
     feeNum: 150000,
@@ -217,6 +229,7 @@ export const COLLEGES = [
   },
   {
     name: 'Andhra University Online',
+    universitySlug: 'andhra-university-online',
     location: 'Visakhapatnam, AP',
     fee: '₹62,200',
     feeNum: 62200,
@@ -235,6 +248,7 @@ export const COLLEGES = [
   },
   {
     name: 'Shoolini University Online',
+    universitySlug: 'shoolini-university-online',
     location: 'Solan, Himachal Pradesh',
     fee: '₹1,10,000',
     feeNum: 110000,
@@ -253,6 +267,7 @@ export const COLLEGES = [
   },
   {
     name: 'SRM University Online',
+    universitySlug: 'srm-university-online',
     location: 'Chennai, Tamil Nadu',
     fee: '₹1,00,000',
     feeNum: 100000,
@@ -271,6 +286,7 @@ export const COLLEGES = [
   },
   {
     name: 'Galgotias University Online',
+    universitySlug: 'galgotias-university-online',
     location: 'Greater Noida, UP',
     fee: '₹90,000',
     feeNum: 90000,
@@ -289,6 +305,7 @@ export const COLLEGES = [
   },
   {
     name: 'Vignan University Online',
+    universitySlug: 'vignan-university-online',
     location: 'Guntur, Andhra Pradesh',
     fee: '₹1,00,000',
     feeNum: 100000,
@@ -307,6 +324,7 @@ export const COLLEGES = [
   },
   {
     name: 'Kalinga University Online',
+    universitySlug: 'kalinga-university-online',
     location: 'Raipur, Chhattisgarh',
     fee: '₹80,000',
     feeNum: 80000,
@@ -325,6 +343,7 @@ export const COLLEGES = [
   },
   {
     name: 'Chitkara University Online',
+    universitySlug: 'chitkara-university-online',
     location: 'Rajpura, Punjab',
     fee: '₹2,00,000',
     feeNum: 200000,
@@ -343,6 +362,7 @@ export const COLLEGES = [
   },
   {
     name: 'OP Jindal Global University Online',
+    universitySlug: 'op-jindal-global-university-online',
     location: 'Sonipat, Haryana',
     fee: '₹1,80,000',
     feeNum: 180000,
@@ -361,6 +381,7 @@ export const COLLEGES = [
   },
   {
     name: 'Jamia Hamdard University Online',
+    universitySlug: 'jamia-hamdard-university-online',
     location: 'New Delhi',
     fee: '₹1,03,500',
     feeNum: 103500,
@@ -379,6 +400,7 @@ export const COLLEGES = [
   },
   {
     name: 'Manav Rachna University Online',
+    universitySlug: 'manav-rachna-university-online',
     location: 'Faridabad, Haryana',
     fee: '₹1,28,000',
     feeNum: 128000,
@@ -397,6 +419,7 @@ export const COLLEGES = [
   },
   {
     name: 'Mody University Online',
+    universitySlug: 'mody-university-online',
     location: 'Lakshmangarh, Rajasthan',
     fee: '₹90,000',
     feeNum: 90000,
@@ -415,6 +438,7 @@ export const COLLEGES = [
   },
   {
     name: 'Guru Kashi University Online',
+    universitySlug: 'guru-kashi-university-online',
     location: 'Bathinda, Punjab',
     fee: '₹1,00,000',
     feeNum: 100000,
@@ -433,6 +457,7 @@ export const COLLEGES = [
   },
   {
     name: 'SASTRA University Online',
+    universitySlug: 'sastra-university-online',
     location: 'Thanjavur, Tamil Nadu',
     fee: '₹2,20,000',
     feeNum: 220000,
@@ -451,6 +476,7 @@ export const COLLEGES = [
   },
   {
     name: 'Kurukshetra University Online',
+    universitySlug: 'kurukshetra-university-online',
     location: 'Kurukshetra, Haryana',
     fee: '₹98,545',
     feeNum: 98545,
@@ -469,6 +495,7 @@ export const COLLEGES = [
   },
   {
     name: 'UPES Online',
+    universitySlug: 'upes-online',
     location: 'Dehradun, Uttarakhand',
     fee: '₹1,80,000',
     feeNum: 180000,
@@ -487,6 +514,7 @@ export const COLLEGES = [
   },
   {
     name: 'Symbiosis Centre for Distance Learning (SCDL)',
+    universitySlug: 'scdl-symbiosis-online',
     location: 'Pune, Maharashtra',
     fee: '₹74,000',
     feeNum: 74000,
@@ -505,6 +533,7 @@ export const COLLEGES = [
   },
   {
     name: 'Amrita Vishwa Vidyapeetham Online',
+    universitySlug: 'amrita-university-online',
     location: 'Coimbatore, Tamil Nadu',
     fee: '₹1,70,000',
     feeNum: 170000,
@@ -523,6 +552,7 @@ export const COLLEGES = [
   },
   {
     name: 'KL University Online',
+    universitySlug: 'kl-university-online',
     location: 'Vijayawada/Guntur, AP',
     fee: '₹1,20,000',
     feeNum: 120000,
@@ -541,6 +571,7 @@ export const COLLEGES = [
   },
   {
     name: 'DY Patil Vidyapeeth Online (Navi Mumbai)',
+    universitySlug: 'd-y-patil-university-online-mumbai',
     location: 'Navi Mumbai, MH',
     fee: '₹1,40,000',
     feeNum: 140000,
@@ -559,6 +590,7 @@ export const COLLEGES = [
   },
   {
     name: 'Golden Gate University (USA)',
+    universitySlug: 'golden-gate-university-online',
     location: 'San Francisco, California',
     fee: '₹3,00,000',
     feeNum: 300000,
@@ -577,6 +609,7 @@ export const COLLEGES = [
   },
   {
     name: 'Liverpool John Moores University (UK)',
+    universitySlug: 'liverpool-john-moores-university-online',
     location: 'Liverpool, United Kingdom',
     fee: '₹2,50,000',
     feeNum: 250000,
@@ -595,6 +628,7 @@ export const COLLEGES = [
   },
   {
     name: 'Birchwood University (USA)',
+    universitySlug: 'birchwood-university-online',
     location: 'Florida, USA',
     fee: '₹4,03,000',
     feeNum: 403000,

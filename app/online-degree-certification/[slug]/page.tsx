@@ -172,6 +172,7 @@ const findCollegeBySlugPart = (part: string) => {
 
 export async function generateStaticParams() {
   const courseSlugs = Object.keys(COURSE_MAP);
+  const universitySlugs = COLLEGES.map((c) => c.universitySlug).filter(Boolean);
   
   // Popular comparisons that are high-traffic
   const comparisonSlugs = [
@@ -187,7 +188,7 @@ export async function generateStaticParams() {
     'scdl-vs-nmims'
   ];
 
-  const allSlugs = [...courseSlugs, ...comparisonSlugs];
+  const allSlugs = [...courseSlugs, ...universitySlugs, ...comparisonSlugs];
 
   return allSlugs.map((slug) => ({
     slug: slug,
@@ -248,6 +249,31 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         }
       };
     }
+  }
+
+  // 3. University Metadata (Case C)
+  const college = COLLEGES.find((c) => c.universitySlug === slug);
+  if (college) {
+    const title = `${college.name} Online Admission 2026 | Fees, Approvals & Degrees`;
+    const desc = `Explore online programs at ${college.name}. Check detailed fee structures, NAAC grade (${college.grade}), UGC approvals, and admission criteria for 2026.`;
+
+    return {
+      title,
+      description: desc,
+      alternates: { canonical: PAGE_URL },
+      openGraph: {
+        title,
+        description: desc,
+        url: PAGE_URL,
+        siteName: 'CareerWithMohit',
+        type: 'website',
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description: desc,
+      }
+    };
   }
 
   return {
@@ -816,6 +842,315 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
         </div>
       );
     }
+  }
+
+  // ── Render Case C: University Hub Page ──
+  const college = COLLEGES.find((c) => c.universitySlug === slug);
+  if (college) {
+    // Find popular comparisons involving this college
+    const matchingComparisons = [
+      'amity-vs-jain',
+      'lpu-vs-chandigarh',
+      'amity-vs-lpu',
+      'jain-vs-lpu',
+      'nmims-vs-amity',
+      'manipal-vs-amity',
+      'chandigarh-vs-lpu',
+      'dy-patil-vs-jain',
+      'sastra-vs-amrita',
+      'scdl-vs-nmims'
+    ].filter(comp => {
+      const parts = comp.split('-vs-');
+      const namePart = college.name.toLowerCase();
+      return parts.some(part => namePart.includes(part));
+    });
+
+    const univJsonLd = {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'EducationalOrganization',
+          '@id': `${PAGE_URL}#organization`,
+          "url": PAGE_URL,
+          "name": college.name,
+          "description": college.about,
+          "logo": `${BASE_URL}/logo.png`,
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": college.location
+          }
+        },
+        {
+          '@type': 'FAQPage',
+          "mainEntity": [
+            {
+              '@type': 'Question',
+              "name": `Is an online degree from ${college.name} valid?`,
+              "acceptedAnswer": {
+                '@type': 'Answer',
+                "text": `Yes. Online degrees from ${college.name} are fully approved by the UGC-DEB and recognized by employers, government departments, and higher study evaluations like WES.`
+              }
+            },
+            {
+              '@type': 'Question',
+              "name": `What are the approvals held by ${college.name} Online?`,
+              "acceptedAnswer": {
+                '@type': 'Answer',
+                "text": `${college.name} holds approvals from ${college.approvals}.`
+              }
+            }
+          ]
+        }
+      ]
+    };
+
+    return (
+      <div className="bg-[#f8f7f4] min-h-screen">
+        <style>{`
+          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600&display=swap');
+          .page-font { font-family: 'DM Sans', sans-serif; }
+          .display-font { font-family: 'Playfair Display', serif; }
+          .hero-bg {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+            position: relative;
+            overflow: hidden;
+          }
+          .hero-bg::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(99,102,241,0.18) 0%, transparent 70%);
+          }
+          .hero-grid {
+            background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+                              linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+            background-size: 48px 48px;
+            position: absolute;
+            inset: 0;
+          }
+          .stat-card {
+            background: linear-gradient(135deg, #1e293b, #0f172a);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+          }
+          .cta-strip {
+            background: linear-gradient(90deg, #4f46e5, #7c3aed);
+          }
+        `}</style>
+
+        <div className="page-font">
+          {/* Hero */}
+          <section className="hero-bg py-20 relative">
+            <div className="hero-grid" />
+            <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
+              <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-8 backdrop-blur-sm">
+                <BadgeCheck size={14} className="text-indigo-400" />
+                UGC-DEB Recognized · 2026 Admission Profile
+              </span>
+              <h1 className="display-font text-4xl md:text-6xl font-black text-white leading-tight mb-6">
+                {college.name}
+              </h1>
+              <p className="text-white/60 text-base md:text-lg max-w-3xl mx-auto leading-relaxed font-medium">
+                {college.about}
+              </p>
+
+              {/* Stats */}
+              <div className="mt-10 grid grid-cols-3 gap-4 max-w-xl mx-auto">
+                <div className="stat-card px-4 py-4">
+                  <p className="display-font text-xl md:text-2xl font-black text-white">{college.grade}</p>
+                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">NAAC Grade</p>
+                </div>
+                <div className="stat-card px-4 py-4">
+                  <p className="display-font text-xl md:text-2xl font-black text-white">{college.fee}</p>
+                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Total Fee Est.</p>
+                </div>
+                <div className="stat-card px-4 py-4">
+                  <p className="display-font text-[10px] md:text-xs font-black text-white uppercase break-all leading-tight pt-1.5">{college.location}</p>
+                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Campus Location</p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* CTA Strip */}
+          <div className="cta-strip py-4 text-center text-white">
+            <a
+              href={`https://wa.me/${college.whatsapp}?text=Hi%2C%20I%20want%20to%20know%20more%20about%20admissions%20at%20${encodeURIComponent(college.name)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 font-semibold text-sm hover:underline underline-offset-2 transition-all"
+            >
+              <Phone size={15} />
+              Speak with a Counselor for {college.name} on WhatsApp
+            </a>
+          </div>
+
+          {/* Lead Capture */}
+          <section className="px-6 py-6 bg-[#f8f7f4]">
+            <div className="max-w-4xl mx-auto">
+              <OnlineDegreeLeadForm />
+            </div>
+          </section>
+
+          {/* Detailed Info Grid */}
+          <section className="bg-white py-16">
+            <div className="max-w-4xl mx-auto px-6">
+              <h2 className="display-font text-3xl font-black text-[#0f172a] mb-6 text-center">
+                Accreditations &amp; Global Recognitions
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
+                <div className="bg-[#f8f7f4] p-6 rounded-2xl border border-gray-100">
+                  <h3 className="font-black text-[#0f172a] text-lg mb-3 flex items-center gap-2">
+                    <Award size={18} className="text-indigo-500" /> Government Approvals
+                  </h3>
+                  <p className="text-gray-600 text-sm leading-relaxed mb-4">
+                    The degree is fully approved by all national higher education councils in India.
+                  </p>
+                  <div className="flex flex-wrap gap-2">
+                    {college.approvals.split(',').map((app, idx) => (
+                      <span key={idx} className="bg-emerald-50 text-emerald-800 border border-emerald-100 text-xs font-bold px-3 py-1.5 rounded-lg">
+                        {app.trim()}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+
+                <div className="bg-[#f8f7f4] p-6 rounded-2xl border border-gray-100">
+                  <h3 className="font-black text-[#0f172a] text-lg mb-3 flex items-center gap-2">
+                    <ShieldCheck size={18} className="text-indigo-500" /> Key Highlights &amp; Benefits
+                  </h3>
+                  <ul className="space-y-2.5">
+                    {college.highlights.map((h, i) => (
+                      <li key={i} className="flex items-start gap-2 text-xs font-semibold text-gray-600">
+                        <span className="text-emerald-500 mt-0.5">✔</span>
+                        <span>{h}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+
+              {/* Course-Specific Detailed Blocks */}
+              <h2 className="display-font text-3xl font-black text-[#0f172a] mb-8 text-center pt-8 border-t border-gray-100">
+                Online Programs &amp; Tuition Fees Breakdown
+              </h2>
+              <div className="space-y-6">
+                {college.programs.map((prog, idx) => (
+                  <div key={idx} className="bg-[#f8f7f4] border border-gray-100 rounded-2xl p-6 md:p-8 hover:shadow-md transition-shadow">
+                    <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-4">
+                      <h3 className="font-black text-xl text-[#0f172a] flex items-center gap-2">
+                        <GraduationCap size={22} className="text-indigo-500" /> Online {prog}
+                      </h3>
+                      <span className="bg-indigo-50 text-indigo-700 border border-indigo-100 text-xs font-bold px-3 py-1.5 rounded-full">
+                        {college.duration}
+                      </span>
+                    </div>
+                    <p className="text-gray-500 text-sm leading-relaxed mb-4">
+                      Pursue {prog} from {college.name} Online. It features weekend live mentoring, self-paced LMS structures, and dynamic exams.
+                    </p>
+                    <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 pt-2">
+                      <div className="bg-white p-3.5 rounded-xl border border-gray-200/50">
+                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Estimated Fee</p>
+                        <p className="text-base font-black text-green-700 mt-0.5">{college.fee}</p>
+                      </div>
+                      <div className="bg-white p-3.5 rounded-xl border border-gray-200/50">
+                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Eligibility</p>
+                        <p className="text-xs font-semibold text-gray-700 mt-1">{prog === 'MBA' || prog === 'MCA' || prog === 'M.Com' || prog === 'MA' ? 'Graduation (50%)' : '10+2 (45%)+'}</p>
+                      </div>
+                      <div className="bg-white p-3.5 rounded-xl border border-gray-200/50 col-span-2 sm:col-span-1">
+                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Accreditation</p>
+                        <p className="text-xs font-semibold text-indigo-600 mt-1">NAAC {college.grade} Rated</p>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              {/* Side-by-Side Comparison Suggestions */}
+              {matchingComparisons.length > 0 && (
+                <div className="mt-16 pt-12 border-t border-gray-100">
+                  <h3 className="display-font text-2xl font-black text-[#0f172a] text-center mb-6">
+                    Compare {college.name} Side-By-Side
+                  </h3>
+                  <p className="text-gray-500 text-center mb-8 text-sm">
+                    How does {college.name} compare with other top-rated UGC-approved universities? Check out these deep comparisons:
+                  </p>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    {matchingComparisons.map((comp) => {
+                      const parts = comp.split('-vs-');
+                      const peerSlug = parts.find(p => !college.name.toLowerCase().includes(p));
+                      const peerName = peerSlug ? peerSlug.toUpperCase() : 'Peer';
+                      return (
+                        <a
+                          key={comp}
+                          href={`/online-degree-certification/${comp}`}
+                          className="bg-[#f8f7f4] border border-gray-100 hover:border-indigo-300 hover:bg-indigo-50/20 text-slate-800 font-bold text-sm px-6 py-4 rounded-xl flex items-center justify-between transition-all"
+                        >
+                          <span>{college.name} vs {peerName} Online</span>
+                          <span className="text-indigo-600">Compare →</span>
+                        </a>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
+            </div>
+          </section>
+
+          {/* Quick FAQ Section */}
+          <section className="bg-[#f8f7f4] py-16 border-t border-gray-100">
+            <div className="max-w-3xl mx-auto px-6">
+              <h3 className="display-font text-3xl font-black text-[#0f172a] mb-8 text-center">
+                Frequently Asked Questions
+              </h3>
+              <div className="space-y-4">
+                <details className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
+                    <span>Is the online degree from {college.name} equivalent to a regular degree?</span>
+                    <ChevronDown size={18} className="text-indigo-400 shrink-0 transition-transform group-open:rotate-180" />
+                  </summary>
+                  <div className="px-6 pb-5 text-gray-500 text-sm leading-relaxed border-t border-gray-50 pt-4">
+                    Yes. As per UGC Regulations 2020, degrees earned through online mode from UGC-DEB approved universities like {college.name} are fully valid and equivalent to regular campus degrees for recruitments and promotions.
+                  </div>
+                </details>
+                <details className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
+                    <span>What is the total fee structure for {college.name} Online courses?</span>
+                    <ChevronDown size={18} className="text-indigo-400 shrink-0 transition-transform group-open:rotate-180" />
+                  </summary>
+                  <div className="px-6 pb-5 text-gray-500 text-sm leading-relaxed border-t border-gray-50 pt-4">
+                    The total fee averages around {college.fee}. You can pay semester-wise or avail of interest-free EMI facilities to pay in monthly chunks of around ₹3,000–₹8,000.
+                  </div>
+                </details>
+              </div>
+            </div>
+          </section>
+
+          {/* Call to Action Direct Chat */}
+          <section className="bg-[#0f172a] py-16 text-center text-white px-6">
+            <h4 className="display-font text-2xl font-black mb-4">
+              Need detailed scholarship booklets?
+            </h4>
+            <p className="text-white/50 mb-8 max-w-lg mx-auto">
+              Get in touch directly with our admission guide Mohit Jain to check active discount structures, fee waivers, and apply directly.
+            </p>
+            <a
+              href={`https://wa.me/${college.whatsapp}?text=Hi%2C%20I%20want%20to%20apply%20for%20admissions%20at%20${encodeURIComponent(college.name)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold text-base px-8 py-4 rounded-xl shadow-lg transition-colors"
+            >
+              <Phone size={16} /> Contact Advisor on WhatsApp
+            </a>
+          </section>
+        </div>
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(univJsonLd) }}
+        />
+      </div>
+    );
   }
 
   // Slugs that don't match any config or valid colleges trigger 404

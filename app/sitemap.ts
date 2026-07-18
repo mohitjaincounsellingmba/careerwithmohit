@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { ABROAD_COLLEGES } from '@/data/abroadColleges';
 import { generateCollegeSlug } from '@/lib/slugify';
+import { COLLEGES } from '@/data/onlineColleges';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.careerwithmohit.online';
@@ -146,5 +147,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...routes, ...blogRoutes, ...collegeRoutes, ...examRoutes, ...resourceRoutes, ...abroadRoutes];
+  // Dynamic online university hubs routes (Case C)
+  const onlineUniversityRoutes = COLLEGES.map((c) => ({
+    url: `${baseUrl}/online-degree-certification/${c.universitySlug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }));
+
+  return [
+    ...routes,
+    ...blogRoutes,
+    ...collegeRoutes,
+    ...examRoutes,
+    ...resourceRoutes,
+    ...abroadRoutes,
+    ...onlineUniversityRoutes,
+  ];
 }
