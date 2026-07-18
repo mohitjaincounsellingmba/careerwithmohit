@@ -125,6 +125,29 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     faqs: [
       { q: 'Which is the cheapest university for an online BA?', a: 'State universities like Andhra University offer highly affordable online BA degrees, with complete 3-year fees around ₹40,000.' }
     ]
+  },
+  'online-pgdm': {
+    name: 'Online PGDM',
+    searchToken: 'PGDM',
+    title: 'Top Online PGDM Colleges in India 2026 | AICTE Approved Fees',
+    desc: 'Compare leading AICTE approved online PGDM universities in India. Find tuition fees, NAAC grades, placement assistance, and specialization details.',
+    h1: 'Online PGDM Colleges in India 2026',
+    aboutText: 'An Online PGDM (Post Graduate Diploma in Management) is a 2-year postgraduate program equivalent to an MBA, regulated by AICTE. It focuses heavily on industry-ready practical curriculum, dynamic case studies, and corporate applications.',
+    faqs: [
+      { q: 'Is PGDM equal to MBA?', a: 'Yes. AICTE-approved PGDM programs from recognized institutions are treated as equivalent to an MBA degree for jobs and higher education.' },
+      { q: 'Which universities offer online PGDM?', a: 'Top-tier institutions like Jaipuria Institute of Management and NMIMS offer highly recognized online PGDM programs.' }
+    ]
+  },
+  'online-msc': {
+    name: 'Online M.Sc',
+    searchToken: 'M.Sc',
+    title: 'Best Online M.Sc Colleges in India 2026 | UGC Approved Fees',
+    desc: 'Compare the best UGC-DEB approved online M.Sc programs. Find tuition fees, NAAC grades, and specialty details.',
+    h1: 'Online M.Sc Colleges in India 2026',
+    aboutText: 'An Online M.Sc (Master of Science) is a 2-year post-graduate degree focusing on technical and scientific specializations like Information Technology, Data Science, and Mathematics. Ideal for upgrading technical skills.',
+    faqs: [
+      { q: 'What is the eligibility for online M.Sc?', a: 'Candidates must hold a Bachelor\'s degree (B.Sc, BCA, or equivalent) from a recognized university.' }
+    ]
   }
 };
 

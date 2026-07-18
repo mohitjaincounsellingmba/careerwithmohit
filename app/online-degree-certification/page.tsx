@@ -296,7 +296,12 @@ export default function OnlineDegreePage() {
                 { name: 'Online MCA', slug: 'online-mca', tag: 'PG' },
                 { name: 'Online BCA', slug: 'online-bca', tag: 'UG' },
                 { name: 'Online B.Com', slug: 'online-bcom', tag: 'UG' },
-                { name: 'Online M.Com', slug: 'online-mcom', tag: 'PG' }
+                { name: 'Online M.Com', slug: 'online-mcom', tag: 'PG' },
+                { name: 'Online MA', slug: 'online-ma', tag: 'PG' },
+                { name: 'Online BA', slug: 'online-ba', tag: 'UG' },
+                { name: 'Online B.Sc', slug: 'online-bsc', tag: 'UG' },
+                { name: 'Online M.Sc', slug: 'online-msc', tag: 'PG' },
+                { name: 'Online PGDM', slug: 'online-pgdm', tag: 'PG' }
               ].map((link) => (
                 <Link
                   key={link.slug}
