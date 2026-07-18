@@ -180,13 +180,24 @@ function CollegeDetailModal({ college, onClose, onInquire }: {
           {/* Programs */}
           <div>
             <h3 className="flex items-center gap-2 text-sm font-black uppercase tracking-widest text-gray-400 mb-3">
-              <GraduationCap size={14} /> Programs Offered
+              <GraduationCap size={14} /> Programs Offered &amp; Specializations
             </h3>
-            <div className="flex flex-wrap gap-2">
+            <div className="space-y-3">
               {college.programs.map((p) => (
-                <span key={p} className="bg-indigo-50 text-indigo-700 border border-indigo-100 text-xs font-bold px-3 py-1.5 rounded-lg">
-                  {p}
-                </span>
+                <div key={p} className="bg-indigo-50/40 border border-indigo-100/50 rounded-2xl p-4 transition-all hover:bg-indigo-50/70">
+                  <span className="bg-indigo-600 text-white text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-md">
+                    {p}
+                  </span>
+                  {college.specializations && college.specializations[p] && (
+                    <div className="mt-3 flex flex-wrap gap-1.5">
+                      {college.specializations[p].map((spec) => (
+                        <span key={spec} className="bg-white text-slate-700 border border-slate-200/60 text-[10px] font-bold px-2 py-0.5 rounded shadow-sm">
+                          {spec}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                </div>
               ))}
             </div>
           </div>

@@ -195,11 +195,11 @@ export default function OnlineDegreePage() {
   return (
     <div className="bg-[#f8f7f4] min-h-screen">
       <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600;700&display=swap');
         .page-font { font-family: 'DM Sans', sans-serif; }
         .display-font { font-family: 'Playfair Display', serif; }
         .hero-bg {
-          background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+          background: linear-gradient(135deg, #090d16 0%, #111827 50%, #090d16 100%);
           position: relative;
           overflow: hidden;
         }
@@ -207,77 +207,118 @@ export default function OnlineDegreePage() {
           content: '';
           position: absolute;
           inset: 0;
-          background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(99,102,241,0.18) 0%, transparent 70%);
+          background: radial-gradient(circle 800px at 50% -200px, rgba(79, 70, 229, 0.22) 0%, transparent 80%);
         }
         .hero-grid {
-          background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-                            linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-          background-size: 48px 48px;
+          background-image: linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+                            linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+          background-size: 40px 40px;
           position: absolute;
           inset: 0;
         }
+        .glow-orb {
+          position: absolute;
+          width: 300px;
+          height: 300px;
+          background: radial-gradient(circle, rgba(124, 58, 237, 0.15) 0%, transparent 70%);
+          filter: blur(40px);
+          border-radius: 50%;
+        }
         .stat-card {
-          background: linear-gradient(135deg, #1e293b, #0f172a);
-          border: 1px solid rgba(255,255,255,0.08);
-          border-radius: 16px;
+          background: rgba(30, 41, 59, 0.4);
+          border: 1px solid rgba(255, 255, 255, 0.08);
+          backdrop-filter: blur(12px);
+          border-radius: 20px;
+          transition: transform 0.3s ease, border-color 0.3s ease;
+        }
+        .stat-card:hover {
+          transform: translateY(-2px);
+          border-color: rgba(99, 102, 241, 0.3);
         }
         .cta-strip {
-          background: linear-gradient(90deg, #4f46e5, #7c3aed);
+          background: linear-gradient(90deg, #4f46e5 0%, #7c3aed 50%, #4f46e5 100%);
+          background-size: 200% auto;
+          animation: shine 4s linear infinite;
+        }
+        @keyframes shine {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        .premium-card {
+          background: #ffffff;
+          border: 1px solid rgba(15, 23, 42, 0.06);
+          border-radius: 24px;
+          transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s ease;
+        }
+        .premium-card:hover {
+          transform: translateY(-6px);
+          box-shadow: 0 22px 40px -10px rgba(15, 23, 42, 0.08);
+        }
+        .badge-gradient {
+          background: linear-gradient(135deg, #e0e7ff 0%, #f5f3ff 100%);
+          border: 1px solid #c7d2fe;
+          color: #4338ca;
         }
       `}</style>
 
       <div className="page-font">
 
         {/* ── HERO ── */}
-        <section className="hero-bg py-24 md:py-36 relative">
+        <section className="hero-bg py-28 md:py-40 relative">
           <div className="hero-grid" />
+          <div className="glow-orb -top-20 -left-20" />
+          <div className="glow-orb top-40 -right-20" />
+          
           <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
-            <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-8 backdrop-blur-sm">
+            <span className="inline-flex items-center gap-2 bg-white/5 border border-white/10 text-white/90 text-xs font-bold uppercase tracking-widest px-5 py-2.5 rounded-full mb-8 backdrop-blur-md shadow-inner">
               <BadgeCheck size={14} className="text-indigo-400" />
-              UGC-DEB Approved Universities · 2026 Edition
+              UGC-DEB Approved Universities · 2026 Directory
             </span>
-            <h1 className="display-font text-5xl md:text-7xl font-black text-white leading-tight mb-6">
-              Online Degrees
+            
+            <h1 className="display-font text-5xl md:text-8xl font-black text-white leading-none tracking-tight mb-8">
+              Compare Online
               <br />
-              <span className="bg-gradient-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent">
-                &amp; Certifications
+              <span className="bg-gradient-to-r from-indigo-400 via-violet-400 to-indigo-400 bg-clip-text text-transparent">
+                Degrees &amp; Colleges
               </span>
             </h1>
-            <p className="text-white/60 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed font-medium">
-              Compare India&apos;s top online universities on fees, accreditation, and programs.
-              Search, filter, and make the smartest choice for your career in 2026.
+            
+            <p className="text-white/60 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed font-medium mb-12">
+              Compare India&apos;s leading UGC-approved online universities side-by-side. Inspect detailed fee schedules, NAAC accreditation classes, and find the perfect course for your career.
             </p>
 
             {/* Quick Links */}
-            <div className="mt-8 flex flex-wrap justify-center gap-3 max-w-3xl mx-auto relative z-20">
+            <div className="flex flex-wrap justify-center gap-3 max-w-4xl mx-auto relative z-20">
               {[
-                { name: 'Online MBA', slug: 'online-mba' },
-                { name: 'Online BBA', slug: 'online-bba' },
-                { name: 'Online MCA', slug: 'online-mca' },
-                { name: 'Online BCA', slug: 'online-bca' },
-                { name: 'Online B.Com', slug: 'online-bcom' },
-                { name: 'Online M.Com', slug: 'online-mcom' }
+                { name: 'Online MBA', slug: 'online-mba', tag: 'PG' },
+                { name: 'Online BBA', slug: 'online-bba', tag: 'UG' },
+                { name: 'Online MCA', slug: 'online-mca', tag: 'PG' },
+                { name: 'Online BCA', slug: 'online-bca', tag: 'UG' },
+                { name: 'Online B.Com', slug: 'online-bcom', tag: 'UG' },
+                { name: 'Online M.Com', slug: 'online-mcom', tag: 'PG' }
               ].map((link) => (
                 <Link
                   key={link.slug}
                   href={`/online-degree-certification/${link.slug}`}
-                  className="bg-white/10 hover:bg-indigo-600 hover:border-indigo-500 text-white border border-white/20 rounded-full px-4 py-2 text-xs font-semibold tracking-wider transition-all"
+                  className="bg-white/5 hover:bg-indigo-600 hover:border-indigo-500 text-white border border-white/10 rounded-full px-5 py-2.5 text-xs font-bold tracking-wider transition-all backdrop-blur-md shadow-md flex items-center gap-1.5"
                 >
-                  {link.name}
+                  <span>{link.name}</span>
+                  <span className="opacity-40 text-[9px] font-black tracking-widest">{link.tag}</span>
                 </Link>
               ))}
             </div>
 
             {/* Stats */}
-            <div className="mt-14 grid grid-cols-3 gap-4 max-w-lg mx-auto">
+            <div className="mt-16 grid grid-cols-3 gap-6 max-w-2xl mx-auto">
               {[
-                { num: `${COLLEGES.length}+`, label: 'Universities' },
-                { num: '₹62K', label: 'Starting Fee' },
-                { num: '100%', label: 'UGC Approved' },
+                { num: `${COLLEGES.length}+`, label: 'Universities listed' },
+                { num: '₹62,200', label: 'Starting total fee' },
+                { num: '100%', label: 'UGC-DEB Compliant' },
               ].map((s) => (
-                <div key={s.label} className="stat-card px-4 py-5">
-                  <p className="display-font text-2xl font-black text-white">{s.num}</p>
-                  <p className="text-white/50 text-xs font-semibold uppercase tracking-widest mt-1">{s.label}</p>
+                <div key={s.label} className="stat-card px-6 py-6 text-center">
+                  <p className="display-font text-2xl md:text-3xl font-black text-white">{s.num}</p>
+                  <p className="text-white/40 text-[10px] font-bold uppercase tracking-widest mt-1.5">{s.label}</p>
                 </div>
               ))}
             </div>
@@ -285,43 +326,45 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── CTA STRIP ── */}
-        <div className="cta-strip py-4 text-center text-white">
+        <div className="cta-strip py-4.5 text-center text-white shadow-lg relative z-25">
           <a
             href="tel:+919560020771"
-            className="inline-flex items-center gap-2 font-semibold text-sm hover:underline underline-offset-2 transition-all"
+            className="inline-flex items-center gap-2.5 font-bold text-sm hover:underline underline-offset-4 tracking-wider uppercase transition-all"
           >
             <Phone size={15} />
-            Talk to a free counsellor · Call +91 95600 20771
+            Connect with a counsellor directly · Call +91 95600 20771
           </a>
         </div>
 
         {/* ── LEAD CAPTURE FORM ── */}
-        <section className="px-6 py-8 bg-[#f8f7f4]">
+        <section className="px-6 py-10 bg-[#f8f7f4] relative z-10 -mt-6">
           <OnlineDegreeLeadForm />
         </section>
 
-        {/* ── WHY CHOOSE ONLINE — SEO H2 SECTION ── */}
-        <section className="bg-white py-16 md:py-20">
+        {/* ── WHY CHOOSE ONLINE ── */}
+        <section className="bg-white py-20 md:py-28 border-t border-gray-100">
           <div className="max-w-5xl mx-auto px-6">
-            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center">
-              Why Choose an Online Degree in 2026?
+            <span className="block text-center text-xs font-black text-indigo-600 uppercase tracking-widest mb-3">Accreditations &amp; Value</span>
+            <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4 text-center">
+              Why pursue an Online Degree in 2026?
             </h2>
-            <p className="text-gray-500 text-center mb-12 max-w-2xl mx-auto">
-              Online education has transformed — UGC-DEB approval means these degrees carry the same weight as a regular degree, at a fraction of the cost.
+            <p className="text-gray-500 text-center mb-16 max-w-2xl mx-auto font-medium">
+              UGC regulations dictate that degrees acquired online from approved institutions carry identical weight to traditional classroom programs.
             </p>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
-                { icon: '🎓', title: 'UGC-DEB Valid Degree', desc: 'Fully recognized by UGC, government bodies, and employers. Valid for PSU jobs and higher studies.' },
-                { icon: '💸', title: 'Fees from ₹62,200', desc: 'Save up to 10x vs regular MBA costs. No relocation, no hostel — study from home.' },
-                { icon: '🌐', title: 'WES Approved Options', desc: 'Universities like Amity, Jain, LPU, D.Y.Patil offer WES-recognized degrees for Canada/USA jobs.' },
-                { icon: '⏰', title: 'Study While Working', desc: 'Weekend batches, live + recorded lectures. Complete your PG degree without pausing your career.' },
-                { icon: '🏆', title: 'NAAC A++ Universities', desc: 'Choose from LPU, Jain, SRM, Parul, Guru Kashi — all NAAC A++ at online-friendly fees.' },
-                { icon: '📊', title: 'Placement Support', desc: 'Top universities offer dedicated placement cells, internship portals, and industry mentorships.' },
+                { icon: '🎓', title: 'UGC-DEB Certified', desc: 'Legally equivalent to regular degrees. Valid for UPSC, bank exams, central government recruitments, and higher studies.' },
+                { icon: '💸', title: 'Affordable Tuition', desc: 'Save up to 8x on course fees compared to physical programs. Pay in low monthly EMIs starting at ₹4,000.' },
+                { icon: '🌐', title: 'WES Globally Recognized', desc: 'Top universities (Amity, LPU, Jain) hold WES evaluation approval, crucial for jobs and study abroad in Canada/US.' },
+                { icon: '⏰', title: 'Work-Study Balance', desc: 'Attend self-paced classes and online examinations. Keep working your full-time job without career gaps.' },
+                { icon: '🏆', title: 'NAAC A++ Accredited', desc: 'Compare and select options holding the highest NAAC A++ grades for superior curriculum standards.' },
+                { icon: '📊', title: 'Digital Placements', desc: 'Gain access to virtual job portals, resume mentorship sessions, mock interviews, and active hiring drives.' },
               ].map((item) => (
-                <div key={item.title} className="bg-[#f8f7f4] rounded-2xl p-6 border border-gray-100">
-                  <div className="text-3xl mb-3">{item.icon}</div>
-                  <h3 className="font-black text-[#0f172a] mb-2 text-base">{item.title}</h3>
-                  <p className="text-gray-500 text-sm leading-relaxed">{item.desc}</p>
+                <div key={item.title} className="premium-card p-8 flex flex-col gap-4">
+                  <div className="text-4xl">{item.icon}</div>
+                  <h3 className="font-black text-[#0f172a] text-lg tracking-tight">{item.title}</h3>
+                  <p className="text-gray-500 text-sm leading-relaxed font-medium">{item.desc}</p>
                 </div>
               ))}
             </div>
@@ -329,47 +372,56 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── INTERACTIVE CLIENT SECTION ── */}
-        <OnlineDegreeClient />
+        <div className="border-t border-gray-100">
+          <OnlineDegreeClient />
+        </div>
 
-        {/* ── STATIC COMPARISON TABLE FOR SEO ── */}
-        <section className="bg-white py-16 md:py-20 border-t border-gray-100">
+        {/* ── STATIC COMPARISON TABLE ── */}
+        <section className="bg-white py-20 md:py-28 border-t border-gray-100">
           <div className="max-w-5xl mx-auto px-6">
-            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4 text-center">
-              Top UGC-Approved Online Universities Comparison (2026)
+            <span className="block text-center text-xs font-black text-indigo-600 uppercase tracking-widest mb-3">Quick Compare</span>
+            <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4 text-center">
+              Top Online Universities ROI Matrix
             </h2>
-            <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto text-sm md:text-base font-medium">
-              Below is the comprehensive comparison of top-rated online degrees on fees, duration, NAAC accreditation grades, and UGC-DEB recognition status.
+            <p className="text-gray-500 text-center mb-16 max-w-2xl mx-auto font-medium">
+              A comprehensive view of fee structures, specializations scope, and accreditations of the country&apos;s leading digital brands.
             </p>
-            <div className="overflow-x-auto border-[4px] border-[#0f172a] rounded-2xl shadow-[8px_8px_0px_0px_rgba(15,23,42,1)]">
-              <table className="w-full text-left border-collapse min-w-[700px]">
+            
+            <div className="overflow-x-auto border-[5px] border-[#0f172a] rounded-[2rem] shadow-[12px_12px_0px_0px_rgba(15,23,42,1)] bg-white">
+              <table className="w-full text-left border-collapse min-w-[800px]">
                 <thead>
                   <tr className="bg-[#0f172a] text-white font-bold text-xs uppercase tracking-widest border-b-[4px] border-[#0f172a]">
-                    <th className="px-6 py-4">University Name</th>
-                    <th className="px-6 py-4 text-center">NAAC Grade</th>
-                    <th className="px-6 py-4">Approx. Fees (2 Years)</th>
-                    <th className="px-6 py-4">Top Programs</th>
-                    <th className="px-6 py-4 text-center">UGC Status</th>
+                    <th className="px-8 py-5">University Name</th>
+                    <th className="px-8 py-5 text-center">NAAC Rating</th>
+                    <th className="px-8 py-5">Est. Total Fees</th>
+                    <th className="px-8 py-5">Key Programs</th>
+                    <th className="px-8 py-5 text-center">Value Badge</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y-2 divide-gray-100 font-medium text-gray-700 text-sm">
                   {[
-                    { name: 'Amity University Online', grade: 'A+ Rated', fee: '₹1.99 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com', status: 'UGC-DEB Approved' },
-                    { name: 'Jain University Online', grade: 'A++ Rated', fee: '₹1.96 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Com', status: 'UGC-DEB Approved' },
-                    { name: 'LPU Online', grade: 'A++ Rated', fee: '₹1.61 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Sc', status: 'UGC-DEB Approved' },
-                    { name: 'Chandigarh University Online', grade: 'A+ Rated', fee: '₹1.65 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com', status: 'UGC-DEB Approved' },
-                    { name: 'Manipal University Jaipur Online', grade: 'A+ Rated', fee: '₹1.75 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com', status: 'UGC-DEB Approved' },
-                    { name: 'NMIMS Online', grade: 'A+ Rated', fee: '₹2.00 Lakhs', programs: 'MBA, BBA, B.Com, Diploma', status: 'UGC-DEB Approved' },
-                    { name: 'Andhra University Online', grade: 'A Rated', fee: '₹62,200', programs: 'MBA, MCA, B.Com, BA', status: 'UGC-DEB Approved' },
-                    { name: 'SRM University Online', grade: 'A++ Rated', fee: '₹1.00 Lakhs', programs: 'MBA, MCA, BBA, BCA', status: 'UGC-DEB Approved' },
-                    { name: 'D.Y Patil University Online (Pune)', grade: 'A++ Rated', fee: '₹1.89 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Sc', status: 'UGC-DEB Approved' },
-                    { name: 'Galgotias University Online', grade: 'A+ Rated', fee: '₹90,000', programs: 'MBA, MCA, BBA, BCA', status: 'UGC-DEB Approved' }
+                    { name: 'Amity University Online', grade: 'A+ Rated', fee: '₹1.99 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com, MA', badge: 'Global Brand', badgeColor: 'bg-indigo-50 text-indigo-700 border-indigo-100' },
+                    { name: 'Jain University Online', grade: 'A++ Rated', fee: '₹1.96 Lakhs', programs: 'MBA, BBA, MCA, BCA, MA, M.Com', badge: 'Tech Specialized', badgeColor: 'bg-purple-50 text-purple-700 border-purple-100' },
+                    { name: 'LPU Online', grade: 'A++ Rated', fee: '₹1.61 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Sc, MA', badge: 'LMS King', badgeColor: 'bg-emerald-50 text-emerald-700 border-emerald-100' },
+                    { name: 'Chandigarh University Online', grade: 'A+ Rated', fee: '₹1.65 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Com', badge: 'Placements Support', badgeColor: 'bg-blue-50 text-blue-700 border-blue-100' },
+                    { name: 'Manipal University Jaipur Online', grade: 'A+ Rated', fee: '₹1.75 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Com', badge: 'Top Brand ROI', badgeColor: 'bg-amber-50 text-amber-700 border-amber-100' },
+                    { name: 'NMIMS Online', grade: 'A+ Rated', fee: '₹2.00 Lakhs', programs: 'MBA, BBA, B.Com, Diploma', badge: 'Business Focus', badgeColor: 'bg-rose-50 text-rose-700 border-rose-100' },
+                    { name: 'Andhra University Online', grade: 'A Rated', fee: '₹62,200', programs: 'MBA, MCA, B.Com, BA', badge: 'Lowest Fee King', badgeColor: 'bg-green-50 text-green-700 border-green-100' }
                   ].map((univ, idx) => (
-                    <tr key={idx} className="hover:bg-gray-50 transition-colors">
-                      <td className="px-6 py-4 font-bold text-[#0f172a]">{univ.name}</td>
-                      <td className="px-6 py-4 text-center"><span className="bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full text-xs font-bold border border-indigo-100">{univ.grade}</span></td>
-                      <td className="px-6 py-4 font-bold text-green-700">{univ.fee}</td>
-                      <td className="px-6 py-4 text-xs font-semibold text-gray-500">{univ.programs}</td>
-                      <td className="px-6 py-4 text-center"><span className="bg-emerald-50 text-emerald-700 px-3 py-1 rounded-full text-xs font-bold border border-emerald-100">{univ.status}</span></td>
+                    <tr key={idx} className="hover:bg-slate-50/50 transition-colors">
+                      <td className="px-8 py-5 font-bold text-[#0f172a]">{univ.name}</td>
+                      <td className="px-8 py-5 text-center">
+                        <span className="bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full text-xs font-bold border border-indigo-100">
+                          {univ.grade}
+                        </span>
+                      </td>
+                      <td className="px-8 py-5 font-black text-emerald-700">{univ.fee}</td>
+                      <td className="px-8 py-5 text-xs font-semibold text-gray-500">{univ.programs}</td>
+                      <td className="px-8 py-5 text-center">
+                        <span className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-wider border ${univ.badgeColor}`}>
+                          {univ.badge}
+                        </span>
+                      </td>
                     </tr>
                   ))}
                 </tbody>
@@ -379,14 +431,14 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── UGC VALIDITY & REGULATIONS INFO SECTION ── */}
-        <section className="bg-[#f8f7f4] py-16 md:py-20 border-t border-b border-gray-200">
+        <section className="bg-[#f8f7f4] py-20 md:py-28 border-t border-b border-gray-200">
           <div className="max-w-4xl mx-auto px-6">
-            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-6 text-center">
-              Are Online Degrees Valid for Government Jobs &amp; Abroad?
+            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-8 text-center uppercase tracking-tight">
+              Is an online degree officially accepted?
             </h2>
             <div className="prose prose-slate max-w-none text-gray-600 font-medium text-sm md:text-base space-y-6">
               <p>
-                A common question students ask is: <strong>&quot;Is an online degree recognized by employers and government bodies in India?&quot;</strong> The short answer is <strong>Yes</strong>, provided it is from a university approved by the UGC-DEB.
+                A primary question students evaluate is: <strong>&quot;Will employers and government boards recognize my online qualification?&quot;</strong> The response is <strong>Yes</strong>, provided it is from a university approved by the UGC-DEB.
               </p>
               <div className="bg-white border-l-[8px] border-indigo-500 p-6 rounded-r-2xl shadow-sm">
                 <h3 className="font-black text-[#0f172a] text-lg mb-2">UGC Notification on Equivalence</h3>
@@ -395,13 +447,13 @@ export default function OnlineDegreePage() {
                 </p>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-4">
-                <div className="bg-white p-6 rounded-2xl border border-gray-200/60 shadow-sm">
+                <div className="bg-white p-8 rounded-3xl border border-gray-200/60 shadow-sm">
                   <h4 className="font-black text-[#0f172a] mb-2">Government &amp; PSU Jobs Eligibility</h4>
                   <p className="text-xs md:text-sm leading-relaxed text-gray-500">
                     Students holding UGC-DEB approved online degrees are eligible to sit for UPSC, bank exams (SBI, IBPS), SSC CGL, and other state/central government recruitment examinations. They also hold equivalent eligibility for public sector units (PSUs).
                   </p>
                 </div>
-                <div className="bg-white p-6 rounded-2xl border border-gray-200/60 shadow-sm">
+                <div className="bg-white p-8 rounded-3xl border border-gray-200/60 shadow-sm">
                   <h4 className="font-black text-[#0f172a] mb-2">Global Validity &amp; WES Approval</h4>
                   <p className="text-xs md:text-sm leading-relaxed text-gray-500">
                     If you are planning to immigrate (e.g. to Canada under Express Entry) or pursue higher education abroad, choosing a WES-approved online university like Amity, Jain, or LPU is critical. The World Education Services (WES) evaluates these credentials as equivalent to a physical Canadian/US degree.
@@ -413,27 +465,27 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── HOW TO CHOOSE SECTION ── */}
-        <section className="bg-white py-16 md:py-20">
+        <section className="bg-white py-20 md:py-28">
           <div className="max-w-4xl mx-auto px-6">
-            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center">
-              How to Choose the Right Online University?
+            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center uppercase tracking-tight">
+              Simple guide to choosing the right university
             </h2>
-            <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-              With {COLLEGES.length}+ options, the right choice depends on your goals, budget, and career field. Here&apos;s a simple guide:
+            <p className="text-gray-500 text-center mb-16 max-w-2xl mx-auto font-medium">
+              With {COLLEGES.length}+ options, the right choice depends on your budget, stream preference, and career milestones.
             </p>
             <div className="space-y-4">
               {[
-                { step: '01', title: 'Check UGC-DEB Approval First', desc: 'Always verify that the university appears on the UGC-DEB approved list. This is non-negotiable for degree validity.' },
+                { step: '01', title: 'Verify UGC-DEB Approval First', desc: 'Always verify that the university appears on the UGC-DEB approved list. This is non-negotiable for degree validity.' },
                 { step: '02', title: 'Compare NAAC Grade & Accreditation', desc: 'Prefer NAAC A++ or A+ universities. Higher grades indicate better academic quality, infrastructure, and outcomes.' },
                 { step: '03', title: 'Match Programs to Your Career Goal', desc: 'MBA for management, MCA for tech careers, BBA/BCA for undergrads. Pick a university strong in your specialization.' },
-                { step: '04', title: 'Evaluate Total Fee vs. Brand Value', desc: 'A ₹1L fee from SRM NAAC A++ may beat a ₹2L fee from a lesser brand. Compare ROI, not just sticker price.' },
-                { step: '05', title: 'Consider WES Approval for Global Careers', desc: 'If you plan to work or study abroad (Canada, USA, UAE), prioritize WES-approved universities like Amity, LPU, D.Y.Patil, Manipal Jaipur.' },
+                { step: '04', title: 'Evaluate Total Fee vs. Brand Value', desc: 'A ₹1.2L fee from LPU NAAC A++ may beat a ₹2L fee from a lesser brand. Compare ROI, not just sticker price.' },
+                { step: '05', title: 'Consider WES Approval for Global Careers', desc: 'If you plan to work or study abroad (Canada, USA, UAE), prioritize WES-approved universities like Amity, LPU, Jain.' },
               ].map((item) => (
-                <div key={item.step} className="flex gap-5 items-start bg-[#f8f7f4] rounded-2xl p-5 border border-gray-100">
-                  <span className="display-font text-3xl font-black text-indigo-200 shrink-0 leading-none">{item.step}</span>
+                <div key={item.step} className="flex gap-6 items-start bg-[#f8f7f4] rounded-[2rem] p-6 border border-gray-100">
+                  <span className="display-font text-4xl font-black text-indigo-200 shrink-0 leading-none">{item.step}</span>
                   <div>
-                    <h3 className="font-black text-[#0f172a] text-base mb-1">{item.title}</h3>
-                    <p className="text-gray-500 text-sm leading-relaxed">{item.desc}</p>
+                    <h3 className="font-black text-[#0f172a] text-lg mb-1">{item.title}</h3>
+                    <p className="text-gray-500 text-sm leading-relaxed font-medium">{item.desc}</p>
                   </div>
                 </div>
               ))}
@@ -441,13 +493,13 @@ export default function OnlineDegreePage() {
           </div>
         </section>
 
-        {/* ── FAQ SECTION (targets FAQ rich result) ── */}
-        <section className="bg-[#f8f7f4] py-16 md:py-20">
+        {/* ── FAQ SECTION ── */}
+        <section className="bg-[#f8f7f4] py-20 md:py-28">
           <div className="max-w-3xl mx-auto px-6">
-            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center">
+            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center uppercase tracking-tight">
               Frequently Asked Questions
             </h2>
-            <p className="text-gray-500 text-center mb-10">
+            <p className="text-gray-500 text-center mb-16 font-medium">
               Everything you need to know about online degrees in India.
             </p>
             <div className="space-y-3">
@@ -470,21 +522,22 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── BOTTOM CTA BANNER ── */}
-        <section className="bg-[#0f172a] py-16 md:py-20">
-          <div className="max-w-3xl mx-auto px-6 text-center">
-            <h2 className="display-font text-3xl md:text-4xl font-black text-white mb-4">
+        <section className="bg-[#090d16] py-20 md:py-28 relative overflow-hidden">
+          <div className="absolute inset-0 bg-gradient-to-b from-indigo-500/5 to-transparent pointer-events-none" />
+          <div className="max-w-3xl mx-auto px-6 text-center relative z-10">
+            <h2 className="display-font text-3xl md:text-5xl font-black text-white mb-6 tracking-tight">
               Not sure which university to pick?
             </h2>
-            <p className="text-white/50 mb-8 text-lg">
-              Get a free 1-on-1 call with Mohit Jain and find the right program based on your goals + budget.
+            <p className="text-white/50 mb-10 text-lg max-w-xl mx-auto leading-relaxed">
+              Get a free 1-on-1 profile evaluation call with Mohit Jain and find the right program based on your budget + career goals.
             </p>
             <a
               href="https://wa.me/919560020771?text=Hi%2C%20I%20want%20to%20know%20more%20about%20online%20degrees"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block bg-gradient-to-r from-indigo-500 to-violet-600 text-white font-bold text-lg px-10 py-4 rounded-2xl hover:opacity-90 transition-opacity shadow-xl shadow-indigo-900/40"
+              className="inline-block bg-gradient-to-r from-indigo-500 to-violet-600 text-white font-bold text-lg px-12 py-4.5 rounded-2xl hover:opacity-90 transition-all shadow-xl shadow-indigo-900/30 transform hover:-translate-y-0.5"
             >
-              Get Free Counselling →
+              Get Free Counselling Now →
             </a>
           </div>
         </section>

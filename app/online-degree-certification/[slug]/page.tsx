@@ -1062,6 +1062,18 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
                         <p className="text-xs font-semibold text-indigo-600 mt-1">NAAC {college.grade} Rated</p>
                       </div>
                     </div>
+                    {college.specializations && college.specializations[prog] && (
+                      <div className="mt-5 pt-5 border-t border-gray-200/70">
+                        <p className="text-[10px] text-indigo-500 font-black uppercase tracking-wider mb-2.5">Available Specializations</p>
+                        <div className="flex flex-wrap gap-1.5">
+                          {college.specializations[prog].map((spec) => (
+                            <span key={spec} className="bg-indigo-50/70 text-indigo-800 border border-indigo-100 text-[10px] font-bold px-2.5 py-1 rounded-md transition-colors hover:bg-indigo-100">
+                              {spec}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                   </div>
                 ))}
               </div>

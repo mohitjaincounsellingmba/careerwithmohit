@@ -1,4 +1,25 @@
-export const COLLEGES = [
+export interface College {
+  name: string;
+  universitySlug: string;
+  location: string;
+  fee: string;
+  feeNum: number;
+  accreditation: string;
+  programs: string[];
+  badge: string;
+  grade: string;
+  gradeColor: string;
+  about: string;
+  highlights: string[];
+  duration: string;
+  mode: string;
+  approvals: string;
+  whatsapp: string;
+  slug: string;
+  specializations?: Record<string, string[]>;
+}
+
+export const COLLEGES: College[] = [
   {
     name: 'Amity University Online',
     universitySlug: 'amity-university-online',
@@ -17,6 +38,14 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, AICTE, NAAC A+, WES, AIU',
     whatsapp: '919560020771',
     slug: 'amity-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing & Sales', 'Finance & Accounting', 'Human Resource Management', 'Business Analytics', 'Information Technology', 'Operations Management', 'Retail Management'],
+      'BBA': ['Marketing', 'Finance', 'Human Resources', 'Retail Management'],
+      'MCA': ['Artificial Intelligence', 'Data Science', 'Software Engineering', 'Cyber Security'],
+      'BCA': ['Cloud Computing', 'Cyber Security', 'Data Analytics'],
+      'B.Com': ['Accounting & Finance'],
+      'MA': ['Journalism & Mass Comm', 'English Literature']
+    }
   },
   {
     name: 'Chandigarh University Online',
@@ -36,6 +65,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, QS Ranked, NIRF',
     whatsapp: '919560020771',
     slug: 'chandigarh-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'Human Resource Management', 'Information Technology', 'International Business', 'Operations Management'],
+      'BBA': ['General Management', 'Marketing', 'Finance'],
+      'MCA': ['Software Engineering', 'Cloud Computing'],
+      'BCA': ['Software Development', 'Data Science'],
+      'M.Com': ['Professional Accounting']
+    }
   },
   {
     name: 'D.Y Patil University - Online (Pune)',
@@ -55,6 +91,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, AICTE, NIRF, WES',
     whatsapp: '919560020771',
     slug: 'd-y-patil-university-pune-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'Project Management', 'Operations Management', 'Healthcare & Hospital Management'],
+      'BBA': ['Marketing', 'Finance', 'Human Resources'],
+      'MCA': ['Software Development', 'System Administration'],
+      'BCA': ['Web Development', 'Mobile App Development'],
+      'B.Sc': ['Hospitality Management']
+    }
   },
   {
     name: 'Jain University Online',
@@ -74,6 +117,14 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, AICTE, NIRF, WES',
     whatsapp: '919560020771',
     slug: 'jain-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'Human Resource Management', 'Systems and Operations', 'Aviation Management', 'Logistics and Supply Chain Management', 'Data Science', 'Business Intelligence'],
+      'BBA': ['Finance', 'Marketing', 'Human Resources', 'Data Science', 'Logistics'],
+      'MCA': ['Artificial Intelligence', 'Data Science', 'Cloud Computing', 'Cyber Security', 'Full Stack Development'],
+      'BCA': ['Cloud Computing', 'Cyber Security', 'Data Science', 'Full Stack Dev'],
+      'MA': ['Economics', 'Public Policy'],
+      'M.Com': ['Financial Analysis', 'International Business']
+    }
   },
   {
     name: 'Lovely Professional University (LPU) Online',
@@ -93,6 +144,14 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, AICTE, NIRF, AIU',
     whatsapp: '919560020771',
     slug: 'lovely-professional-university-lpu-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'Human Resource Management', 'Information Technology', 'Data Science', 'Operations Management', 'International Business'],
+      'BBA': ['General Management', 'Marketing', 'Finance'],
+      'MCA': ['Software Development', 'Data Science', 'Artificial Intelligence'],
+      'BCA': ['Web Development', 'Cyber Security', 'Mobile Applications'],
+      'M.Sc': ['Information Technology', 'Mathematics'],
+      'MA': ['English Literature', 'History', 'Political Science']
+    }
   },
   {
     name: 'Manipal University Jaipur Online',
@@ -112,6 +171,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE, NIRF, WES',
     whatsapp: '919560020771',
     slug: 'manipal-university-jaipur-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Analytics & Data Science', 'Retail Management', 'Operations Management', 'IT & FinTech'],
+      'BBA': ['General BBA', 'Marketing', 'Finance'],
+      'MCA': ['Cloud Computing', 'Data Science', 'Application Development'],
+      'BCA': ['Full Stack Dev', 'Cloud Security'],
+      'M.Com': ['Professional Accounting', 'Finance']
+    }
   },
   {
     name: 'Jaipuria Institute of Management - Online PGDM',
@@ -131,6 +197,9 @@ export const COLLEGES = [
     approvals: 'AICTE, NBA, NAAC A, AIU, NIRF',
     whatsapp: '919560020771',
     slug: 'jaipuria-institute-of-management-online-pgdm-review-2026',
+    specializations: {
+      'PGDM': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Business Analytics', 'Operations & Supply Chain']
+    }
   },
   {
     name: 'Sikkim Manipal University Online',
@@ -150,6 +219,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, NIRF',
     whatsapp: '919560020771',
     slug: 'sikkim-manipal-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Information Systems'],
+      'BBA': ['General Management', 'Retail'],
+      'MCA': ['Software Systems', 'Network Security'],
+      'BCA': ['Web Technologies', 'Software Engineering'],
+      'M.Com': ['Finance & Accounting']
+    }
   },
   {
     name: 'NMIMS Online',
@@ -169,6 +245,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE',
     whatsapp: '919560020771',
     slug: 'nmims-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Operations Management', 'Information Technology & Systems', 'Supply Chain Management'],
+      'BBA': ['General Management', 'Finance'],
+      'B.Com': ['General Commerce'],
+      'Diploma': ['Business Management', 'Financial Management', 'Marketing Management']
+    }
   },
   {
     name: 'Uttaranchal University Online',
@@ -188,6 +270,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE',
     whatsapp: '919560020771',
     slug: 'uttaranchal-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Information Technology'],
+      'BBA': ['General Management'],
+      'MCA': ['Software Development'],
+      'BCA': ['Software Engineering'],
+      'BA': ['English', 'Economics']
+    }
   },
   {
     name: 'Vivekananda Global University Online',
@@ -207,6 +296,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE',
     whatsapp: '919560020771',
     slug: 'vivekananda-global-university-vgu-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Agribusiness', 'Logistics'],
+      'BBA': ['General Management'],
+      'MCA': ['Data Science'],
+      'BCA': ['Cloud Computing'],
+      'M.Com': ['Accounting & Audit']
+    }
   },
   {
     name: 'Parul University Online',
@@ -226,6 +322,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, NIRF',
     whatsapp: '919560020771',
     slug: 'parul-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing Management', 'Finance Management', 'Human Resource Management', 'Information Technology', 'Project Management', 'Operations Management'],
+      'BBA': ['General Management'],
+      'MCA': ['Cyber Security'],
+      'BCA': ['Full Stack Development'],
+      'MA': ['English', 'Clinical Psychology']
+    }
   },
   {
     name: 'Andhra University Online',
@@ -245,6 +348,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A, NIRF',
     whatsapp: '919560020771',
     slug: 'andhra-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Finance', 'Marketing', 'Human Resources'],
+      'MCA': ['General MCA'],
+      'B.Com': ['General Accounting'],
+      'BA': ['History, Economics, Political Science']
+    }
   },
   {
     name: 'Shoolini University Online',
@@ -264,6 +373,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A, NIRF',
     whatsapp: '919560020771',
     slug: 'shoolini-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Biotechnology Management'],
+      'BBA': ['General Management'],
+      'B.Com': ['Finance & Accounts'],
+      'BA': ['Journalism', 'English'],
+      'MA': ['English Literature']
+    }
   },
   {
     name: 'SRM University Online',
@@ -283,6 +399,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, AICTE, NIRF',
     whatsapp: '919560020771',
     slug: 'srm-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Systems Management'],
+      'MCA': ['Software Engineering'],
+      'BBA': ['General BBA'],
+      'BCA': ['Web Technologies']
+    }
   },
   {
     name: 'Galgotias University Online',
@@ -302,6 +424,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE',
     whatsapp: '919560020771',
     slug: 'galgotias-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Information Technology'],
+      'MCA': ['Software Development'],
+      'BBA': ['General Management'],
+      'BCA': ['Full Stack Development']
+    }
   },
   {
     name: 'Vignan University Online',
@@ -321,6 +449,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE, NIRF',
     whatsapp: '919560020771',
     slug: 'vignan-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Finance', 'Marketing', 'Human Resource Management', 'Logistics'],
+      'BBA': ['General Management'],
+      'MCA': ['General MCA'],
+      'BCA': ['Web Development']
+    }
   },
   {
     name: 'Kalinga University Online',
@@ -340,6 +474,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC B+, AICTE',
     whatsapp: '919560020771',
     slug: 'kalinga-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Finance', 'Marketing', 'Human Resource Management'],
+      'MCA': ['General MCA'],
+      'BBA': ['General BBA'],
+      'BCA': ['General BCA']
+    }
   },
   {
     name: 'Chitkara University Online',
@@ -359,6 +499,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE, NIRF',
     whatsapp: '919560020771',
     slug: 'chitkara-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing & Sales', 'Finance & Banking', 'Human Resource Management'],
+      'BBA': ['General BBA'],
+      'MCA': ['Software Engineering'],
+      'BCA': ['Web Technologies']
+    }
   },
   {
     name: 'OP Jindal Global University Online',
@@ -378,6 +524,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A, AACSB, QS World',
     whatsapp: '919560020771',
     slug: 'op-jindal-global-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'Human Resources', 'International Business'],
+      'BBA': ['Family Business', 'Marketing'],
+      'MA': ['Public Policy', 'Diplomacy'],
+      'BA': ['Liberal Arts']
+    }
   },
   {
     name: 'Jamia Hamdard University Online',
@@ -397,6 +549,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A, AICTE',
     whatsapp: '919560020771',
     slug: 'jamia-hamdard-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Healthcare Management'],
+      'BBA': ['General BBA'],
+      'MCA': ['General MCA'],
+      'BCA': ['Web Development']
+    }
   },
   {
     name: 'Manav Rachna University Online',
@@ -416,6 +574,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A, AICTE',
     whatsapp: '919560020771',
     slug: 'manav-rachna-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Information Technology'],
+      'BBA': ['General BBA'],
+      'MCA': ['General MCA'],
+      'BCA': ['Web Development']
+    }
   },
   {
     name: 'Mody University Online',
@@ -435,6 +599,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE',
     whatsapp: '919560020771',
     slug: 'mody-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR'],
+      'BBA': ['General Management'],
+      'MCA': ['Software Development'],
+      'BCA': ['Cloud Security']
+    }
   },
   {
     name: 'Guru Kashi University Online',
@@ -454,6 +624,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, ISO 9001',
     whatsapp: '919560020771',
     slug: 'guru-kashi-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Agribusiness'],
+      'BBA': ['General Management'],
+      'MCA': ['General MCA'],
+      'BCA': ['General BCA']
+    }
   },
   {
     name: 'SASTRA University Online',
@@ -473,6 +649,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, NIRF',
     whatsapp: '919560020771',
     slug: 'sastra-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Finance', 'Marketing', 'HR'],
+      'MCA': ['General MCA'],
+      'M.Com': ['Finance & Auditing'],
+      'B.Com': ['General Accounting']
+    }
   },
   {
     name: 'Kurukshetra University Online',
@@ -492,6 +674,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A+, AICTE',
     whatsapp: '919560020771',
     slug: 'kurukshetra-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR'],
+      'MCA': ['General MCA'],
+      'BBA': ['General Management'],
+      'BCA': ['General BCA']
+    }
   },
   {
     name: 'UPES Online',
@@ -511,6 +699,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A, AICTE, NIRF',
     whatsapp: '919560020771',
     slug: 'upes-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Power Management', 'Oil & Gas', 'Aviation Management', 'Logistics & Supply Chain', 'Infrastructure Management'],
+      'BBA': ['Oil & Gas Marketing', 'Aviation Operations'],
+      'MCA': ['General MCA'],
+      'B.Tech': ['Computer Science & Engineering']
+    }
   },
   {
     name: 'Symbiosis Centre for Distance Learning (SCDL)',
@@ -530,6 +724,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, AICTE, NAAC A++, ISO',
     whatsapp: '919560020771',
     slug: 'scdl-symbiosis-online-review-2026',
+    specializations: {
+      'MBA': ['Business Administration', 'Marketing', 'Finance', 'HR'],
+      'PGDBA': ['Finance', 'Marketing', 'HR', 'Operations', 'IT Management'],
+      'PG Diploma': ['Customer Relationship', 'Insurance Management'],
+      'Diploma': ['Business Management']
+    }
   },
   {
     name: 'Amrita Vishwa Vidyapeetham Online',
@@ -549,6 +749,13 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, AICTE, NIRF, WES',
     whatsapp: '919560020771',
     slug: 'amrita-university-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Operations', 'General Management'],
+      'MCA': ['Cyber Security', 'Data Science'],
+      'BBA': ['General Management'],
+      'BCA': ['General BCA'],
+      'M.Com': ['Finance & Accounting']
+    }
   },
   {
     name: 'KL University Online',
@@ -568,6 +775,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, AICTE, NIRF',
     whatsapp: '919560020771',
     slug: 'kl-university-online-review-2026',
+    specializations: {
+      'MBA': ['Marketing', 'Finance', 'HR', 'Digital Marketing'],
+      'MCA': ['Software Development'],
+      'BBA': ['General BBA'],
+      'BCA': ['Web Development']
+    }
   },
   {
     name: 'DY Patil Vidyapeeth Online (Navi Mumbai)',
@@ -587,6 +800,12 @@ export const COLLEGES = [
     approvals: 'UGC-DEB, NAAC A++, AICTE, NIRF, WES',
     whatsapp: '919560020771',
     slug: 'd-y-patil-university-mumbai-online-mba-review-2026',
+    specializations: {
+      'MBA': ['Marketing Management', 'Finance Management', 'HR Management', 'Hospitality Management', 'Logistics Management'],
+      'BBA': ['General Management', 'Retail'],
+      'B.Sc Hotel Mgmt': ['Hospitality & Catering'],
+      'Executive MBA': ['General Management']
+    }
   },
   {
     name: 'Golden Gate University (USA)',
@@ -606,6 +825,11 @@ export const COLLEGES = [
     approvals: 'AACSB, WSCUC, WES, AIU',
     whatsapp: '919560020771',
     slug: 'golden-gate-university-usa-online-review-2026',
+    specializations: {
+      'Global MBA': ['General Management', 'Marketing', 'Finance'],
+      'MS Business Analytics': ['Data Science', 'Business Intelligence'],
+      'DBA': ['Doctor of Business Administration']
+    }
   },
   {
     name: 'Liverpool John Moores University (UK)',
@@ -625,6 +849,11 @@ export const COLLEGES = [
     approvals: 'Privy Council, QAA, AACSB, WES',
     whatsapp: '919560020771',
     slug: 'liverpool-john-moores-university-uk-online-review-2026',
+    specializations: {
+      'Global MBA': ['Management & Strategy'],
+      'M.Sc Data Science': ['Big Data & Analytics'],
+      'M.Sc AI': ['Machine Learning & Robotics']
+    }
   },
   {
     name: 'Birchwood University (USA)',
@@ -644,5 +873,10 @@ export const COLLEGES = [
     approvals: 'Florida CIE, CECU, QAHE',
     whatsapp: '919560020771',
     slug: 'birchwood-university-usa-online-review-2026',
+    specializations: {
+      'Global MBA': ['Global Business', 'Finance'],
+      'DBA': ['Business Administration'],
+      'M.Sc Data Science': ['Analytics & Statistics']
+    }
   },
 ];
