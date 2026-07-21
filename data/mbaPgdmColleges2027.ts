@@ -1052,6 +1052,156 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     specializations: {
       'MBA': ['Digital Marketing & Sales', 'Corporate Finance & Banking', 'Human Capital Capital', 'Business Analytics & IT', 'Services Management']
     }
+  },
+  {
+    name: 'ISBR Business School (Bangalore)',
+    universitySlug: 'isbr-bangalore',
+    location: 'Electronic City, Bangalore',
+    fee: '₹8.00L - ₹9.00L (Total)',
+    feeNum: 900000,
+    accreditation: 'AICTE Approved · NBA Accredited',
+    programs: ['MBA', 'PGDM'],
+    badge: 'Electronic City Hub',
+    grade: 'NBA Acc.',
+    gradeColor: 'from-blue-600 to-indigo-800',
+    about: 'ISBR Business School is located in the primary technology zone of Electronic City, Bangalore. ISBR offers PGDM and university MBA programs co-designed with global business bodies, showcasing strong placement ratios and global study exchanges.',
+    highlights: ['Strategic location in Electronic City IT Hub', 'Active student exchange with European universities', 'NBA Accredited flagship PGDM program', 'Strong corporate networking opportunities'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Corporate Immersion',
+    approvals: 'AICTE Approved, NBA Accredited, affiliated to Bangalore University',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      'PGDM': ['Business Analytics', 'Digital Media Marketing', 'FinTech & Banking', 'Human Capital Strategy', 'Supply Chain Operations']
+    }
+  },
+  {
+    name: 'International Institute of Business Studies (IIBS)',
+    universitySlug: 'iibs-bangalore',
+    location: 'Airport Road, Bangalore',
+    fee: '₹4.50L - ₹8.45L (Total)',
+    feeNum: 845000,
+    accreditation: 'AICTE Approved · Bangalore University Affiliated',
+    programs: ['MBA', 'PGDM'],
+    badge: 'High ROI B-School',
+    grade: 'Approved',
+    gradeColor: 'from-amber-500 to-orange-700',
+    about: 'IIBS Bangalore is an established management institute located near the Bangalore International Airport zone. Supplying affordable MBA and premium PGDM programs, IIBS features modern smart classrooms and extensive corporate placements.',
+    highlights: ['Very affordable university MBA and premium PGDM', 'Lush green campus close to airport corridor', 'Intensive live projects and industry attachments', 'Dedicated student tutoring and grooming cell'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Outbound Learning',
+    approvals: 'AICTE Approved, Affiliated to Bangalore University',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'International Business'],
+      'PGDM': ['Digital Business Strategy', 'Corporate Finance', 'Human Capital Analytics', 'Logistics Management']
+    }
+  },
+  {
+    name: 'GIBS Business School',
+    universitySlug: 'gibs-bangalore',
+    location: 'Bannerghatta Road, Bangalore',
+    fee: '₹8.90 Lakhs (Total)',
+    feeNum: 890000,
+    accreditation: 'AICTE Approved · Global Innovation B-School',
+    programs: ['MBA', 'PGDM'],
+    badge: 'Bannerghatta Campus',
+    grade: 'Approved',
+    gradeColor: 'from-purple-600 to-violet-800',
+    about: 'GIBS Business School (Global Institute of Business Studies) is highly regarded for its action-oriented, practical curriculum. Located on Bannerghatta Road, GIBS features dynamic corporate mentoring, entrepreneurship support, and dual specializations.',
+    highlights: ['Includes 10+ corporate value certifications', 'Dedicated Innovation & Incubation Center on campus', 'Frequent speaker series and industrial panels', '100% placement support in tier-1 MNCs'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Action Learning Labs',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'Systems Management'],
+      'PGDM': ['Business Analytics', 'Digital Marketing', 'FinTech & Banking', 'Supply Chain Management']
+    }
+  },
+  {
+    name: 'Alliance University (Alliance School of Business)',
+    universitySlug: 'alliance-bangalore',
+    location: 'Anekal Campus, Bangalore',
+    fee: '₹15.00 Lakhs (Total)',
+    feeNum: 1500000,
+    accreditation: 'UGC Approved · AACSB Member',
+    programs: ['MBA'],
+    badge: 'Elite Private University',
+    grade: 'Approved',
+    gradeColor: 'from-rose-500 to-red-700',
+    about: 'Alliance School of Business is one of South India\'s premier private management brands. Supplying an elite MBA program with a massive residential green campus, global university links, and AACSB membership, it is a top corporate recruitment hub.',
+    highlights: ['Lush residential campus with world-class facilities', 'AACSB Business Alliance Member', 'Elite placement packages in global consultancies & banks', 'Mentorship and leadership tracks co-designed with corporate veterans'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & International Modules',
+    approvals: 'UGC Approved, Alliance University, AACSB Member',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing & Product Strategy', 'Finance & Wealth Management', 'Strategic Human Resources', 'Business Analytics & IT', 'International Business']
+    }
+  },
+  {
+    name: 'ISME Bangalore (School of Management Excellence)',
+    universitySlug: 'isme-bangalore',
+    location: 'Sarjapur Road, Bangalore',
+    fee: '₹9.40 Lakhs (Total)',
+    feeNum: 940000,
+    accreditation: 'AICTE Approved · Global Academic Collaborations',
+    programs: ['PGDM'],
+    badge: 'Global Academic Tie-Ups',
+    grade: 'Approved',
+    gradeColor: 'from-emerald-500 to-teal-700',
+    about: 'ISME Bangalore is highly recognized for its global academic standards. Supplying autonomous PGDM courses in its Sarjapur campus, it features collaborations with London School of Economics (LSE) modules and Canadian universities.',
+    highlights: ['Collaborated with LSE and Carleton University modules', 'Strategic campus on Sarjapur technology corridor', 'Excellent placements in tech consulting & analytics firms', 'Strong domain specialization options'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & International Study Tracks',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Brand Analytics', 'FinTech & Banking', 'Human Capital Strategy', 'Business Analytics & IT', 'Logistics Management']
+    }
+  },
+  {
+    name: 'Indus Business Academy (IBA Bangalore)',
+    universitySlug: 'iba-bangalore',
+    location: 'Kanakapura Road, Bangalore',
+    fee: '₹9.75 Lakhs (Total)',
+    feeNum: 975000,
+    accreditation: 'AICTE Approved · IACBE (USA) Accredited B-School',
+    programs: ['PGDM'],
+    badge: 'IACBE USA Accredited',
+    grade: 'Approved',
+    gradeColor: 'from-cyan-500 to-blue-700',
+    about: 'Indus Business Academy (IBA) Kanakapura Road is a premium management institution carrying international IACBE (USA) accreditation. IBA features a large residential green campus and stellar placement pathways.',
+    highlights: ['IACBE (USA) internationally accredited', 'Spacious residential campus on Kanakapura road', 'Highly active corporate panel and guest speakers', '100% placement track with prominent domestic and global firms'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Case-study Approach',
+    approvals: 'AICTE Approved, IACBE Accredited, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Digital Media', 'Corporate Finance & Valuation', 'Human Resource Management', 'Business Analytics & IT', 'Retail Management']
+    }
+  },
+  {
+    name: 'JAGSoM Bangalore (Jagdish Sheth School of Management)',
+    universitySlug: 'jagsom-bangalore',
+    location: 'Electronic City, Bangalore',
+    fee: '₹15.95 Lakhs (Total)',
+    feeNum: 1595000,
+    accreditation: 'AICTE Approved · AACSB Accredited (Top 5% Globally)',
+    programs: ['PGDM'],
+    badge: 'AACSB Accredited (Top 5%)',
+    grade: 'AACSB Acc.',
+    gradeColor: 'from-rose-500 to-rose-700',
+    about: 'JAGSoM Bangalore (Jagdish Sheth School of Management), located in Electronic City, is a prestigious AACSB-accredited business school. Ranked in QS World University rankings, it offers domain-led specialist PGDM programs mentored by global corporate veterans.',
+    highlights: ['AACSB accredited (Top 5% Business Schools globally)', 'QS World University Rankings listed', 'Top placement averages in IT, Consulting, and FinTech MNCs', 'Premium campus in Electronic City IT Hub'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Specialized Domain Labs',
+    approvals: 'AICTE Approved, AACSB Accredited, AIU Equivalent',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Digital Marketing & Sales', 'Corporate Finance & Banking', 'Human Capital Strategy', 'Business Analytics & IT', 'Services Management']
+    }
   }
 ];
 
