@@ -35,7 +35,11 @@ Here is a curated list of the **Top 10 BBA Colleges in Mumbai for 2026** to help
 
 ## 🏆 Top 10 BBA Colleges in Mumbai (2026 Rankings)
 
-### 1. NMIMS Anil Surendra Modi School of Commerce
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. NMIMS Anil Surendra Modi School of Commerce
 - **Approximate Annual Fees:** ₹3.5 Lakhs
 - **Entrance Exam / Admission Process:** NPAT
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

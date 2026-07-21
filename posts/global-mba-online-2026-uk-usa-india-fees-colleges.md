@@ -54,7 +54,11 @@ In 2026, you no longer need to travel abroad or spend ₹50–80 Lakhs on an int
 
 A **Global MBA** is a Master of Business Administration program with a strong emphasis on **international business, global strategy, cross-cultural management, and worldwide economic trends**. It is offered by universities in the UK, USA, Dubai, Australia, and India — and is now available in fully online mode.
 
-### Why is a Global MBA Different?
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## Why is a Global MBA Different?
 - 🌐 **International curriculum** — covers global markets, international finance, and cross-border strategy
 - 🏛️ **World-ranked universities** — degree from a UK/USA institution recognized globally
 - 🤝 **Global alumni network** — peers from 50+ countries

@@ -39,6 +39,10 @@ Jawaharlal Nehru University (JNU) stands as a beacon of research, liberal arts, 
 | **Admission Basis** | CUET UG / CUET PG / JEE Main / JNUEE |
 | **Highest Package (Engg/Mgmt)** | Up to ₹33 LPA |
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## **Admission Process & Cutoffs 2026**
 
 JNU is highly selective, utilizing national-level exams for its intake:

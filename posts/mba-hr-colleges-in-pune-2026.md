@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Pune for an MBA in HR?
 
 Known as the educational capital of Maharashtra, Pune is a massive industrial, automobile, and IT hub. For students aiming to build a career in Human Resources, Pune hosts Symbiosis campuses like SCMHRD (which is globally renowned for HR specializations) and SIBM Pune, alongside prestigious departments like PUMBA that provide a solid launching pad into corporate employee relations and organization development roles.

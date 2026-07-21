@@ -35,7 +35,11 @@ faqs:
 3.  **Merit Route**: Based on Class 12 marks (minimum 50% aggregate in PCM).
 4.  **Specializations**: B.Tech in CSE (Core), with tracks in AI, Cyber Security, and Data Science.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 IILM is an accessible option for students with decent 10+2 marks or middle-range JEE percentiles.
 
 | Admission Route | CSE (Core) Requirement | Other Core Engineering |

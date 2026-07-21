@@ -40,7 +40,11 @@ TISS Mumbai is the dream destination for aspirants of HRM & LR, ODCL, and social
 *   **Admission Process:** CUET PG scores (COQP12) are mandatory for shortlisting, followed by a personal interview (TISS PI).
 *   **Why Choose TISS?** Unmatched ROI and industry reputation in the HR domain.
 
-### **2. Somaiya Vidyavihar University (Mumbai)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Somaiya Vidyavihar University (Mumbai)**
 Somaiya is one of Mumbai’s largest private universities with a multi-disciplinary campus in Vidyavihar and Sion.
 *   **Top Programs:** MBA, MA (Philosophy), MSc (Journalism).
 *   **Admission Process:** They consider various national scores including CUET PG for several of their postgraduate departments.

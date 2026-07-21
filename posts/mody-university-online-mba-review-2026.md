@@ -43,6 +43,10 @@ Located in the serene town of Lakshmangarh, Rajasthan, **Mody University** has c
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## ✅ Why Mody University is a "Hidden Gem"
 
 ### 1. NAAC A+ Quality at Budget Pricing

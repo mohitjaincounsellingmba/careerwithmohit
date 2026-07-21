@@ -27,7 +27,11 @@ faqs:
 
 ---
 
-### 📊 [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) 2026 Snapshot
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📊 [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

@@ -54,6 +54,10 @@ Both DSM and USME offer rigorous two-year, full-time MBA programs. While DSM foc
 - Operations and Supply Chain Management
 - Information Technology (IT)
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. DTU MBA Admission Process 2026
 
 The admission process for DTU’s MBA program is managed through a centralized counseling system known as **CMAC (Common Management Admission Committee)**, which often conducts combined admissions for DTU, NSUT, and IGDTUW.

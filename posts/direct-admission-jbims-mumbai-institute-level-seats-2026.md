@@ -40,6 +40,10 @@ Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-manageme
 - **Top Placements**: Average package for the 2025 batch was **₹27.63 LPA**, with the highest domestic package touching **₹43 LPA**.
 - **Location**: Situated in the heart of Mumbai’s financial district (Churchgate), providing access to top industry leaders as visiting faculty.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Understanding Direct Admission at JBIMS
 
 JBIMS follows the MAH-CET Centralised Admission Process (CAP), but here is how the alternative seats work:

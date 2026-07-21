@@ -38,7 +38,11 @@ If you are looking at the **RVU Bangalore B.Tech 2026 batch**, here is the compl
 3.  **JEE Main / SAT**: For direct admissions and scholarships.
 4.  **Management Quota**: Direct entry for merit-based candidates.
 
-### **B.Tech (Hons) Computer Science Specializations**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **B.Tech (Hons) Computer Science Specializations**
 RVU is heavily focused on current industry trends, and its B.Tech curriculum includes:
 *   B.Tech (Hons) in Artificial Intelligence & Machine Learning
 *   B.Tech (Hons) in Cybersecurity

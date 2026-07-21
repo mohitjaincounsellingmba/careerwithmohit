@@ -39,7 +39,11 @@ In this guide, we rank the **Best MBA Colleges in Bangalore** based on their pla
 ## Tier 1: The Tech & Strategy Hubs (Elite)
 These institutions are at the top of the pyramid, known for their academic rigor and elite salary packages.
 
-### 1. [IIM Bangalore](/colleges/iim-bangalore) (Indian Institute of Management)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [IIM Bangalore](/colleges/iim-bangalore) (Indian Institute of Management)
 - **Status:** One of the top 3 B-schools in India.
 - **Fees:** ₹26.0 Lakhs
 - **Average Placement:** ₹35.9 LPA (Highest ₹55 LPA)

@@ -51,7 +51,11 @@ Here is your 3-step blueprint to mastering CAT 2026 using realistic mocks.
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the pattern of the CAT 2026 exam?
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## What is the pattern of the CAT 2026 exam?
 CAT 2026 is a 120-minute computer-based test with 3 sections: VARC (24 questions), DILR (20 questions), and Quantitative Ability (22 questions).
 
 ### Is there negative marking in CAT 2026?

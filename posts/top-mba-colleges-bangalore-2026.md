@@ -57,6 +57,10 @@ Whether you're aimimg for a Tier-1 brand or a high-ROI private institute, this g
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Tier 1: The Leaders (Top 1% in India)
 
 ### 1. [IIM Bangalore](/colleges/iim-bangalore) (IIM-B)

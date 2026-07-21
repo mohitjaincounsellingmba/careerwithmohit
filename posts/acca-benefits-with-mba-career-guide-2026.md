@@ -38,7 +38,11 @@ But is it worth the effort? In this guide, we explore the massive benefits, exem
 ### **Why Combine ACCA with MBA?**
 While an **MBA** (Master of Business Administration) provides you with a broad understanding of business management, leadership, and networking, **ACCA** gives you technical mastery in global accounting standards (IFRS), audit, and taxation.
 
-#### **Key Highlights for 2026**
+##
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Key Highlights for 2026**
 | Feature | MBA Only | MBA + ACCA |
 | :--- | :--- | :--- |
 | **Focus** | Management & Strategy | Management + Global Finance |

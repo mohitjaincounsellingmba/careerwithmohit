@@ -32,6 +32,10 @@ Alliance School of Business is one of the few in India with international accred
 - **Green Campus:** One of the most beautiful and sustainable university campuses in India.
 - **Industry Immersion:** Strong focus on internships, live projects, and interactions with global business leaders.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💰 Latest Fee Structure (2026)
 As a premium private university, the fees reflect its high-end infrastructure and faculty. For 2026:
 - **Annual Tuition Fee:** ₹2,50,000 – ₹3,00,000 per year.

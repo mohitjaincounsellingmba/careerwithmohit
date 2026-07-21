@@ -39,7 +39,11 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 
 ### **1. The Big Players: National MBA Entrance Exams**
 
-#### **CAT (Common Admission Test) - The Gold Standard**
+##
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **CAT (Common Admission Test) - The Gold Standard**
 *   **Best For**: 21 IIMs, [FMS Delhi](/colleges/fms-delhi), SPJIMR, MDI, and IITs.
 *   **Conducting Body**: IIMs (on rotation).
 *   **Exam Date**: November 30, 2025 (Tentative).

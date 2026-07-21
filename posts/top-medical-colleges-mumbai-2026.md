@@ -55,6 +55,10 @@ Whether you are targeting the legacy of GS Medical College or looking for high-e
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ The Mumbai Giants (Government)
 
 ### 1. GS Medical College & KEM Hospital (Parel)

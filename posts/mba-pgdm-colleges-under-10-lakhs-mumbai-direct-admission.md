@@ -34,7 +34,11 @@ SIES stands as one of the most respected management institutes in the state, off
 *   **Why Choose**: High caliber faculty, strong MSME and corporate tie-ups, and legendary brand value in Mumbai.
 *   **Admission Mode**: Institute-level seats are available through profile shortlisting.
 
-### **2. Chetana's Institute of Management & Research (CIMR), Bandra**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Chetana's Institute of Management & Research (CIMR), Bandra**
 Located in the heart of Mumbai, Chetana is known for its discipline and consistently decent ROI.
 *   **Total Fees (Approx.)**: ₹8.00 - ₹9.00 Lakhs
 *   **Average Placement**: ₹7.0 LPA - ₹8.0 LPA

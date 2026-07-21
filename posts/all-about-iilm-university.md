@@ -31,7 +31,11 @@ faqs:
 *   **Dynamic Learning**: Focuses on liberal education mixed with technical management skills.
 *   **Multi-Campus**: Advantage of campuses in New Delhi (Lodhi Road), Gurugram, and Greater Noida.
 
-### **Placement Review (2025 Batch)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Placement Review (2025 Batch)**
 *   **Gurugram Campus**: Reported **100% placements** with a highest package of **₹26 LPA**.
 *   **Average Package**: ₹7 - 8.6 LPA (depending on the campus and branch).
 *   **Top Recruiters**: Deloitte, KPMG, E&Y, PwC, Google, and Amazon.

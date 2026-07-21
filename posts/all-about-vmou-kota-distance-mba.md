@@ -39,6 +39,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🎓 Why VMOU is the King of Distance MBA in Rajasthan?
 VMOU is a pioneer in open and distance learning (ODL) and is often the first choice for working professionals and government employees in Rajasthan.
 *   **Self-Paced Learning:** Study at your own convenience without leaving your current job.

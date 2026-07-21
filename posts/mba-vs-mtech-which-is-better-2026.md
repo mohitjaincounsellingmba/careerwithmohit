@@ -51,6 +51,10 @@ Both paths offer incredible career growth, high salaries, and distinct professio
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ 1. The Core Focus: Managing Business vs. Designing Technology
 
 ### The MBA Route (The Generalist & Leader)

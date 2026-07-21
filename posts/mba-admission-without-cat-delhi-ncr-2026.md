@@ -40,7 +40,11 @@ Here is a comprehensive guide to **MBA Admission Without CAT in Delhi NCR for 20
 
 Most elite and mid-range private B-schools in Delhi NCR accept multiple national entrance test scores. You can target these prominent alternatives:
 
-### 1. XAT (Xavier Aptitude Test)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. XAT (Xavier Aptitude Test)
 - **Top Acceptors:** [IMT Ghaziabad](/colleges/imt-ghaziabad), [FORE School of Management](/colleges/fore-school-delhi), [IMI New Delhi](/colleges/imi-delhi), and [LBSIM Delhi](/colleges/lbsim-delhi).
 - **Difficulty:** Comparable to CAT, testing quantitative ability, decision making, and language skills.
 

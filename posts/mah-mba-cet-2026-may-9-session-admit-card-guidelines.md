@@ -44,6 +44,10 @@ The admit card for the May 9 session was officially released on **May 2, 2026**.
 
 > **Important:** Your admit card contains your specific venue, reporting time, and shift details. Double-check these immediately!
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. Exam Day Guidelines & Mandatory Documents
 To ensure a smooth entry into the examination hall, carry the following:
 - **Printed Admit Card:** With a recent photograph pasted on it (same as the one uploaded).

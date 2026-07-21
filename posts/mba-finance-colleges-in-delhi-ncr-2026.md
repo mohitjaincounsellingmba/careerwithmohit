@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Delhi NCR for an MBA in Finance?
 
 Delhi National Capital Region (NCR) is one of the most prominent educational and corporate hubs in India. For MBA students looking to specialize in Finance, Delhi NCR offers access to legendary public departments like FMS and DFS, as well as premium private institutions with unmatched corporate placement records.

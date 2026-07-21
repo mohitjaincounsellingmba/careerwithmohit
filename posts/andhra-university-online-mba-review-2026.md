@@ -45,6 +45,10 @@ Here is an honest review of the Andhra University Online MBA for the 2026 sessio
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## ✅ Key Highlights of the Program
 
 ### 1. Unbeatable Affordability

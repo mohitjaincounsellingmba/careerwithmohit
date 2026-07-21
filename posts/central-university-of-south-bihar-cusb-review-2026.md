@@ -41,6 +41,10 @@ faqs:
 | **Top Recruiters** | Azim Premji Foundation, Edu Academies |
 | **Hostel Fees** | ~₹16,000 (1st Sem), ~₹9,000 (Subsequent) |
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Admission Process & CUET Cutoff
 
 CUSB conducts its admission entirely through the **CUET** framework via the SAMARTH portal.

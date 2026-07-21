@@ -36,6 +36,10 @@ NMIMS is famous for its **"Corporate Readiness"** program. The BBA here is not j
 - **Industry Exposure:** Compulsory internships and industry projects every semester.
 - **Global Alumni Base:** Thousands of alumni working in top global firms.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💰 Latest Fee Structure (2026)
 NMIMS is a premium private university. For the 2026 session, the approximate fees for the BBA program are:
 - **Annual Tuition Fee:** ₹3,25,000 – ₹3,50,000 per year.

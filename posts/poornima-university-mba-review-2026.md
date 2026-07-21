@@ -46,7 +46,11 @@ If you are evaluating [Poornima University](/colleges/poornima-jaipur) for your 
 
 ---
 
-### **Courses & Fee Structure**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Courses & Fee Structure**
 
 [Poornima University](/colleges/poornima-jaipur) offers a highly affordable MBA when compared to other private universities in the region. 
 

@@ -52,6 +52,10 @@ Whether you're a working professional looking to upskill without quitting your j
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Top Online MBA Programs in India (2026)
 
 ### 🏆 Tier 1: Premium Online MBAs (Highest Brand Value)

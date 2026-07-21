@@ -50,7 +50,11 @@ These are the government-affiliated departments where fees are low and placement
 
 ---
 
-### **2. Tier-1 Private Institutes (95 to 99 Percentile)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Tier-1 Private Institutes (95 to 99 Percentile)**
 
 These institutes offer a great blend of infrastructure and corporate connections. Most of these have a massive intake via CAP.
 

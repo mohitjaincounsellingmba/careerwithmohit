@@ -57,6 +57,10 @@ Whether you are aiming for the "Red Building" of FMS or looking for a high-ROI p
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Tier 1: The Best in India (Top 10 Rankings)
 
 ### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)

@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Greater Noida for an MBA in HR?
 
 Greater Noida’s dedicated Knowledge Park is one of the most structured educational zones in India. The region is home to major business schools that feature expansive campuses, specialized management laboratories, and close industry ties that facilitate corporate internships and placements.

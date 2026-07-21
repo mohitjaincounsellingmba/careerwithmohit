@@ -40,6 +40,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Why RTU Kota is the "Granddaddy" of Technical MBAs?
 Rajasthan Technical University (RTU) isn't just a college; it's the governing body for technical education in Rajasthan. Pursuing an MBA from the main campus in Kota provides several unique advantages:
 *   **Engineering-Management Synergy:** Excellent for B.Tech graduates looking for an MBA-Tech hybrid profile.

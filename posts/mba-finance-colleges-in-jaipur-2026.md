@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Jaipur for an MBA in Finance?
 
 Jaipur is emerging as a critical regional corporate and fintech center in Northern India. The city features several top-class private business schools offering advanced curricula in financial analytics, investment planning, and business intelligence, combined with robust residential amenities.

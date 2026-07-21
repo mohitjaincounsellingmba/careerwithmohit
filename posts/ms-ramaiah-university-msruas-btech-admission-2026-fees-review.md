@@ -40,7 +40,11 @@ If you are looking at the **MSRUAS Bangalore B.Tech 2026 batch**, here is the co
 3.  **RUASAT**: The university's own entrance exam for direct admission.
 4.  **Management Quota**: For merit-based direct entry.
 
-### **Specialized B.Tech Specializations at MSRUAS**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Specialized B.Tech Specializations at MSRUAS**
 MSRUAS is unique for its "Applied Sciences" approach, offering branches that are rare in other Bangalore colleges:
 *   B.Tech in Artificial Intelligence & Machine Learning (AI & ML)
 *   B.Tech in Automotive Engineering (Specialization)

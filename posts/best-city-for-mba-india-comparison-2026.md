@@ -49,7 +49,11 @@ In this guide, we compare the top MBA hubs in India—**Mumbai, Bangalore, Delhi
 
 ## City-Wise Comparison: Pros, Cons & Top Colleges
 
-### 1. Mumbai: The Financial Capital
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Mumbai: The Financial Capital
 Mumbai is the undisputed king for students aiming for **Finance, Investment Banking, and FMCG** roles.
 
 *   **Top Colleges:** SPJIMR, [NMIMS Mumbai](/colleges/nmims-mumbai), JBIMS, NITIE (IIM Mumbai), K J Somaiya.

@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Mumbai for an MBA in HR?
 
 Mumbai is the financial capital of India, hosting headquarters of major corporate conglomerates, banking institutions, and manufacturing organizations. The density of corporate offices in BKC, Lower Parel, and Nariman Point creates an immense demand for specialized human resource management experts who can steer complex organizational systems and talent strategies.

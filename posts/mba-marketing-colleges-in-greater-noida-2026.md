@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Greater Noida for an MBA in Marketing?
 
 Greater Noida's Knowledge Park is a highly organized educational hub. Known for its massive campuses and industrial proximity, it is a key site for management programs offering high corporate interaction and dedicated marketing tracks.

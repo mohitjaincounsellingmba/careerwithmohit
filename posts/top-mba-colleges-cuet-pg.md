@@ -47,7 +47,11 @@ If you are looking for an MBA that doesn't cost ₹25 Lakhs but still places you
 
 For a serious MBA aspirant, these are the 'Big Four' categories you should aim for:
 
-### 1. The Elite Tier (99+ Percentile)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. The Elite Tier (99+ Percentile)
 These institutions are at par with top IIMs in terms of brand value and placement quality.
 
 *   **TISS Mumbai (Tata Institute of Social Sciences)**: 

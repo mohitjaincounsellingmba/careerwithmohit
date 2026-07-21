@@ -45,6 +45,10 @@ Located in the bustling university town of Manipal, Karnataka, the main campus (
 - **Fees:** The 4-year tuition fee for CS-related branches is around **₹18 Lakhs to ₹20 Lakhs**.
 - **Placements (2026 Est.):** Phenomenal. The highest packages routinely breach the **₹50+ LPA** threshold, with the average package for CSE hovering around **₹14 - ₹16 LPA**.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. Manipal Institute of Technology (MIT), Bengaluru
 The Bengaluru campus is the newest major addition to the MAHE umbrella, specifically tailored to capitalize on the profound IT ecosystem of "India’s Silicon Valley".
 

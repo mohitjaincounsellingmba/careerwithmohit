@@ -42,7 +42,11 @@ Unlike traditional MBA programs that focus primarily on theory, GCEC (under the 
 
 ---
 
-### **MBA Specializations & Fees (2026-28 Batch)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **MBA Specializations & Fees (2026-28 Batch)**
 
 | Specialization | Key Focus | Total Fees (Approx.) |
 | :--- | :--- | :--- |

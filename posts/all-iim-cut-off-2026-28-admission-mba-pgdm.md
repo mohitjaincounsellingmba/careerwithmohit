@@ -52,7 +52,11 @@ For example, [IIM Ahmedabad](/colleges/iim-ahmedabad) might have a qualifying cu
 
 ---
 
-### **IIM Cut Offs 2026-28: Expected Percentiles (General Category)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **IIM Cut Offs 2026-28: Expected Percentiles (General Category)**
 
 | IIM Category | Institute | Qualifying Cutoff | Expected Call Cutoff |
 | :--- | :--- | :--- | :--- |

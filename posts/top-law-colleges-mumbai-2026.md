@@ -53,6 +53,10 @@ Choosing a Law school in Mumbai means being at the heart of **Corporate Law, Mar
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ The Mumbai Legend: GLC
 
 ### 1. Government Law College (GLC), Mumbai

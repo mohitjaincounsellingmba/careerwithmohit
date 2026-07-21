@@ -46,6 +46,10 @@ Often referred to as the "Harvard of the South," Duke University is one of the m
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💰 Fees Breakdown (Converted to INR)
 
 The estimated annual budget for attending Duke University in the 2026 academic year:

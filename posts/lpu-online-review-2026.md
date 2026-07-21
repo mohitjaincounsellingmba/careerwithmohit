@@ -48,6 +48,10 @@ As one of India's largest and most innovative universities, LPU offers a world-c
 
 👉 **[Launch Your Admission Journey at LPU Online](/inquiry)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Popular Programs & Fee Structure
 LPU's online programs are designed to meet the needs of the 2026 job market:
 

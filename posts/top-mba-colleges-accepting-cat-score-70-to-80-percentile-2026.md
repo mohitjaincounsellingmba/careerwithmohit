@@ -55,6 +55,10 @@ However, here is the secret: **Some of India's best private B-schools thrive in 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ The "Safe Bets" in Delhi NCR
 
 ### 1. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)

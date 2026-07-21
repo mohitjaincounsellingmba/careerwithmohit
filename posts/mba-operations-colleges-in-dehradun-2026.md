@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Dehradun for an MBA in Operations?
 
 Dehradun has developed into a prominent educational hub in Northern India. The quiet, student-friendly environment paired with modern university campuses makes Dehradun a popular choice for management aspirants aiming to specialize in operations management, logistics, and global supply chain channels.

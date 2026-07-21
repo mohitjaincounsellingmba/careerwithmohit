@@ -47,7 +47,11 @@ While GGSIPU primarily accepts **CAT** and **CMAT** scores, the **IPU CET (Commo
 
 Here is the comprehensive list of popular and top-rated MBA colleges under GGSIPU, categorized by location for your convenience.
 
-### 📍 Delhi (Core Campus & Top Affiliates)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📍 Delhi (Core Campus & Top Affiliates)
 
 #### 1. University School of Management Studies (USMS), Dwarka
 The flagship main campus offering the best ROI in the entire university.

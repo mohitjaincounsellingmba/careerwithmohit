@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Delhi NCR for an MBA in Operations?
 
 Delhi National Capital Region (NCR) stands as a prominent corporate and administrative center, hosting major e-commerce hubs, logistics enterprises, manufacturing facilities, and consulting agencies. Pursuing an MBA or PGDM in Operations Management or Supply Chain Management in Delhi NCR offers direct proximity to industrial corridors and corporate headquarters. Proximity to offices in Gurgaon, Noida, and New Delhi enables students to engage in live supply chain projects, secure internships, and bag corporate roles in logistics, operations strategy, and procurement.

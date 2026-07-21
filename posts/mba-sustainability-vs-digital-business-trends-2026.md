@@ -38,7 +38,11 @@ With global regulations tightening around climate change and businesses racing t
 ## 🌱 Option 1: MBA in Sustainability (ESG)
 This specialization is for those who want to lead the "Green Revolution" in the corporate world. It focuses on Environmental, Social, and Governance (ESG) frameworks.
 
-### Why choose it in 2026?
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## Why choose it in 2026?
 *   **Regulatory Push:** Governments worldwide are making ESG reporting mandatory for all large corporations.
 *   **Green Finance:** Billions of dollars are being funneled into sustainable projects, requiring experts to manage them.
 *   **Roles:** ESG Consultant, Chief Sustainability Officer (CSO), Sustainable Supply Chain Manager.

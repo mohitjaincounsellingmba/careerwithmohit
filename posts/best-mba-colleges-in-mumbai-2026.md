@@ -39,7 +39,11 @@ In this guide, we rank the **Best MBA Colleges in Mumbai** based on their indust
 ## Tier 1: The Financial Giants (Elite)
 These colleges are globally ranked and offer the best corporate exposure in Finance, Consulting, and Operations.
 
-### 1. [SPJIMR Mumbai](/colleges/spjimr-mumbai) (S.P. Jain Institute of Management)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [SPJIMR Mumbai](/colleges/spjimr-mumbai) (S.P. Jain Institute of Management)
 - **Status:** Consistently ranked among the Top 5-10 B-schools in India.
 - **Fees:** ₹22.5 Lakhs
 - **Average Placement:** ₹33.0 LPA (Highest ₹89 LPA)

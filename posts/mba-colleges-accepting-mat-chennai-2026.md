@@ -37,7 +37,11 @@ Chennai, the 'Detroit of India,' is a major industrial and manufacturing hub wit
 
 Here is the detailed overview of the top management institutes in Chennai accepting MAT scores for the 2026 admission cycle:
 
-### 1. Great Lakes Institute of Management
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Great Lakes Institute of Management
 Accepts MAT for specific specialized profiles, offering some of the best placement figures in India.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹19.80 Lakhs

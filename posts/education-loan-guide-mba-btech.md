@@ -55,6 +55,10 @@ Interest rates vary heavily based on the reputation of the college. Premier inst
 
 *Note: Female students generally get a 0.50% concession on interest rates across most Public Sector Banks.*
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Documents Required for Education Loan
 
 Ensure you have two sets of photocopies and the originals ready before approaching the bank.

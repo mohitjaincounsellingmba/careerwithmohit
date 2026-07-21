@@ -42,7 +42,11 @@ For engineering aspirants targeting the 2026 academic batch on a budget, we have
 
 These institutions keep their total program tuition fees under ₹10 Lakhs while offering robust laboratory infrastructure, experienced faculty members, and active recruitment drives.
 
-### 1. Veermata Jijabai Technological Institute (VJTI)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Veermata Jijabai Technological Institute (VJTI)
 - **Approximate Tuition Fees:** ₹3.4 Lakhs (Total)
 - **Accepted Entrance Exams:** MHT-CET
 - **Average Placement Package:** **₹15.0 LPA**

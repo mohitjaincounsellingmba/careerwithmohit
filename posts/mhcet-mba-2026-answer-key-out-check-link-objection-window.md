@@ -49,6 +49,10 @@ The CET Cell has provided a very short window for candidates to review their res
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## How to Download MHCET MBA 2026 Response Sheet?
 
 Follow these steps to access your individual response sheet and official answer key:

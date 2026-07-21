@@ -45,6 +45,10 @@ Here is the complete overview of the MAH MBA CET exam for 2026 admissions:
 - **Frequency:** Once a year (Usually in March)
 - **Mode of Exam:** Computer Based Test (CBT)
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Exam Pattern & Total Marks
 
 MAH CET is the ultimate test of raw speed. You have barely 45 seconds to solve each question.

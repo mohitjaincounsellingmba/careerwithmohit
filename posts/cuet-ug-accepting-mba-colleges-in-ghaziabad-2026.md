@@ -30,7 +30,11 @@ If you are a student targeting **Ghaziabad** for your management education, this
 
 These institutions in **Ghaziabad** accept CUET UG scores for their integrated management tracks, providing a smooth pathway from undergraduate study to a full post-graduate MBA degree.
 
-### 1. Christ University (Delhi NCR Campus) - Integrated Management Pathway
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Christ University (Delhi NCR Campus) - Integrated Management Pathway
 - **Approximate Fees:** ₹2.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Christ Entrance
 - **Average Placement Package:** **₹8.0 LPA**

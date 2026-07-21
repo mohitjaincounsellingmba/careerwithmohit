@@ -42,6 +42,10 @@ Alliance is one of the more expensive private universities in Bangalore.
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. Historical Management Disputes
 One of the unique "red flags" in Alliance's history is its internal management and family disputes.
 *   A few years ago, the university witnessed significant administrative instability due to legal battles between the founding members.

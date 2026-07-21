@@ -36,6 +36,10 @@ Sydenham [Institute of Management Studies](/colleges/institute-of-management-stu
 - **High Placements**: Average CTC for the 2024 batch reached **₹15.19 LPA**, with top recruiters like Barclays, JP Morgan, and Godrej.
 - **Mumbai Advantage**: Located at Churchgate, just like JBIMS, it offers unparalleled corporate interaction.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Is there Direct Admission at SIMSREE?
 
 It is important to understand the hierarchy of seats to avoid misinformation:

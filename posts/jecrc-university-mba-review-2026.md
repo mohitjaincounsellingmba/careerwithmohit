@@ -46,7 +46,11 @@ Whether you are targeting general management or specialized fields like Fintech,
 
 ---
 
-### **MBA Fee Structure (2026 Intake)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **MBA Fee Structure (2026 Intake)**
 
 [JECRC University](/colleges/jecrc-jaipur) offers the standard MBA as well as specialized industry-integrated MBA programs (like Fintech). The fees are quite affordable compared to many private universities.
 

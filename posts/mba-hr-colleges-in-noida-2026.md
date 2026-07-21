@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Noida for an MBA in HR?
 
 Noida has developed into a major industrial and corporate hub, hosting extensive IT, telecommunications, and financial technology campuses. Management students pursuing human resources in Noida benefit from high corporate interaction, guest lectures from industrial experts, and active placement records in corporate human capital management.

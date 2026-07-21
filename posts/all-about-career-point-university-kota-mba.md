@@ -38,6 +38,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Why CPU Kota is the Private Leader in Kota?
 Career Point University (CPU) brings the legacy of the Career Point coaching empire into the university space, offering a highly corporate and result-oriented MBA environment.
 *   **New-Age Specializations:** Choose from Data Analytics, Digital Marketing, and Finance with heavy tech integration.

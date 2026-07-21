@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Pune for an MBA in Digital Marketing?
 
 Pune is a booming hub for Information Technology, Automobile Manufacturing, and FMCG operations. For management aspirants looking to specialize in digital marketing, social media strategy, and brand management, Pune offers excellent options ranging from flagship Symbiosis B-schools to highly affordable university departments, ensuring high corporate interaction and placement records.

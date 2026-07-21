@@ -54,7 +54,11 @@ faqs:
 
 ---
 
-### **Does [Manipal University Jaipur](/colleges/manipal-university-jaipur) Offer Direct Admission or Management Quota for B.Tech?**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Does [Manipal University Jaipur](/colleges/manipal-university-jaipur) Offer Direct Admission or Management Quota for B.Tech?**
 
 This is the most commonly asked question — and the answer requires clarity:
 

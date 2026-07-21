@@ -55,7 +55,11 @@ Central Universities are funded by the Government of India, offering the lowest 
 
 ---
 
-### **🏛️ Participating State Government Universities**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **🏛️ Participating State Government Universities**
 State universities provide excellent regional exposure and are often the best choice for students within that state.
 
 1.  **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**, Lucknow (Associated Colleges)

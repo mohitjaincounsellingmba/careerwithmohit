@@ -33,7 +33,11 @@ The **Kengeri Campus** of Christ (Deemed to be University) in Bangalore is a bea
 2.  **Selection Path**: Mandatory **Micro Presentation (MP)**, **Group Discussion (GD)**, and a **Personal Interview (PI)**.
 3.  **Application Deadline**: Round 1 applications typically close in late January 2026.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 Kengeri shares its cutoff pool with the central campus.
 
 | Entrance Exam | Expected Cutoff (Score/Percentile) |

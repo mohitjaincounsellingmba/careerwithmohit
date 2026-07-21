@@ -34,7 +34,11 @@ Here are the **top MBA/PGDM colleges in Pune under ₹10 Lakhs** for the 2026 ad
 *   **Why Choose**: High ROI, intensive corporate grooming, and certifications like SAP, Digital Marketing, and Business Analytics included.
 *   **Admission Mode**: Profile-based direct admission via their internal GD/PI rounds.
 
-### **2. Indira Institute of Management (IIMP/ISBS)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Indira Institute of Management (IIMP/ISBS)**
 The Indira Group is an absolute giant in Pune's management education scene, offering outstanding industry connections.
 *   **Total Fees (Approx.)**: ₹7.00 - ₹8.00 Lakhs
 *   **Average Placement**: ₹6.5 LPA - ₹8.0 LPA

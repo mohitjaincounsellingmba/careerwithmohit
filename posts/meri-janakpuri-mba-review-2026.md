@@ -37,7 +37,11 @@ In this **MERI Janakpuri MBA Review 2026**, we dive deep into why this institute
 ## 🏫 MERI Delhi: The NAAC A+ Legacy
 MERI isn't just another private institute; it is an institution built on a legacy of 30+ years. Being an **"A" category institute** of GGSIPU, it consistently ranks among the top B-schools in Delhi NCR.
 
-### **Key Reasons to Choose MERI**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Key Reasons to Choose MERI**
 *   **Prime Location:** Situated in Janakpuri, West Delhi, the campus is incredibly well-connected via the Delhi Metro (Blue & Magenta lines).
 *   **Academic Excellence:** Faculty members include PhD holders and industry veterans who prioritize practical learning over rote memorization.
 *   **Global Exposure:** MERI has a strong track record of international collaborations and student exchange programs.

@@ -49,6 +49,10 @@ Most Central Universities now use **CUET UG / CUET PG** scores for admissions. T
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📍 State-Wise List of All Central Universities in India 2026
 
 ### 🏛️ Delhi (7 Central Universities)

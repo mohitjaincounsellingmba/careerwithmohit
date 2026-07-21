@@ -36,7 +36,11 @@ The admission process is centralized through the **Common University Entrance Te
 *   **Application:** After the CUET results are announced, candidates must register on the Pondicherry University official website (`pondiuni.edu.in`) for the university’s counseling process.
 *   **Selection:** The university releases a provisional rank list followed by multiple selection rounds. Allocation is based on merit, CUET scores, and seat availability.
 
-### 📊 CUET Cutoff Trends
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📊 CUET Cutoff Trends
 
 The cutoffs at Pondicherry University vary significantly depending on the course and applicant category.
 *   **General Cutoffs:** Competitive scores typically range from **150 to 350+**, though highly sought-after programs may have more rigorous requirements.

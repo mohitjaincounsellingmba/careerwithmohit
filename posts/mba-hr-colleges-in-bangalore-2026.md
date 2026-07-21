@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Bangalore for an MBA in HR?
 
 Bangalore, the tech startup capital of India, employs one of the largest corporate workforces in the country. Naturally, the demand for highly skilled human resource professionals who can manage talent acquisition, employee wellness, retention, and HR analytics is exceptionally high. B-schools in Bangalore offer direct proximity to corporate setups in Electronic City and Whitefield, yielding premium internships and placement drives.

@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Delhi NCR for an MBA in Digital Marketing?
 
 Delhi National Capital Region (NCR) stands as the business hub of India, hosting headquarters of global consultancies, marketing agencies, e-commerce firms, and FMCG brands. Pursuing an MBA or PGDM in Digital Marketing in Delhi NCR provides direct exposure to the digital business landscape. With major corporate setups in Gurgaon and Noida, students benefit from regular guest lectures by Chief Marketing Officers (CMOs), modern projects in digital campaigns, and excellent campus placements in SEO, social media marketing, and brand strategy.

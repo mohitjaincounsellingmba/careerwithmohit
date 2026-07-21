@@ -56,6 +56,10 @@ Not every college with a "Finance" degree is valued by investment banks. This 20
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ The Specialists: Why They Win
 
 ### 1. [IIM Calcutta](/colleges/iim-calcutta) (The Quant King)

@@ -31,7 +31,11 @@ faqs:
 *   **Academic Diversity**: Houses multiple schools (Management, Design, Tech), offering a rich interdisciplinary environment.
 *   **Corporate Hub**: Located in a prime area of Gurgaon, facilitating easy industry visits and networking.
 
-### **Placement Review (2024-2025 Batch)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Placement Review (2024-2025 Batch)**
 *   **Highest Package**: **₹14.10 LPA** (2025).
 *   **Average Package**: **₹7.30 - 8.20 LPA**.
 *   **Top Recruiters**: KPMG, Adobe, HCL, Berger, ITC, and PwC.

@@ -44,7 +44,11 @@ Before diving into the numbers, understand why seat intake is crucial:
 
 ---
 
-### **📊 MBA/PGDM Seat Intake 2026: Delhi NCR**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **📊 MBA/PGDM Seat Intake 2026: Delhi NCR**
 Delhi NCR remains the top choice for students due to its massive corporate hub. Here is the seat matrix for top direct-admission-friendly colleges.
 
 | B-School Name | Location | PGDM/MBA Intake | Direct Admission Status |

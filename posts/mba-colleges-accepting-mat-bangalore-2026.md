@@ -37,7 +37,11 @@ Bangalore (Bengaluru), the Silicon Valley of India, is the startup capital and a
 
 Here is the detailed overview of the top management institutes in Bangalore accepting MAT scores for the 2026 admission cycle:
 
-### 1. [XIME Bangalore](/colleges/xime-bangalore)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [XIME Bangalore](/colleges/xime-bangalore)
 Accredited by ACBSP, offering globally recognized PGDM with excellent student exchange options.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹12.50 Lakhs

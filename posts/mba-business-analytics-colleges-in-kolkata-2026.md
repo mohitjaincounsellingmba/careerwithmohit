@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Kolkata for an MBA in Business Analytics?
 
 Kolkata is highly regarded for its quantitative management education. The city hosts some of India's absolute best programs in data science and business analytics, combining legacy statistical training with modern data modeling tools to yield premium placements in leading consulting firms.

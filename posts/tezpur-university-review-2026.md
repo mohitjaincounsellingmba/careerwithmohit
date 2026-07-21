@@ -40,6 +40,10 @@ faqs:
 | **Average Package** | ~₹6.00 LPA |
 | **Top Recruiters** | TCS, Amazon, Wipro, Oil India |
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Admission Process & Cutoff
 
 *   **B.Tech Admissions**: Conducted via JEE Main ranks through JoSAA/CSAB. CSE closing ranks often fall in the 56k-57k range for certain categories.

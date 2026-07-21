@@ -53,6 +53,10 @@ Should you stick to the classic pathways of investment banking and corporate tre
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ 1. Understanding MBA in Finance (The Traditional Core)
 
 An MBA in Finance focuses on the management of money, assets, and liabilities. The curriculum is designed to teach students how to optimize capital, manage risk, and maximize shareholder value.

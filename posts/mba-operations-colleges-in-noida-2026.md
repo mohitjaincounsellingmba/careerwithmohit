@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Noida for an MBA in Operations?
 
 Noida is a major IT and commercial zone hosting extensive campuses for software firms, telecom providers, and financial companies. Aspiring operations professionals in Noida benefit from direct corporate link-ups, specialized workshops, and regular placement recruitment cycles in operations brand management.

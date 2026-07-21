@@ -45,6 +45,10 @@ The fundamental difference lies in the end goal of your daily work:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. Why Do B.Tech Students Excel in Business Analytics?
 
 Engineering students have a natural advantage when pursuing an MBA in Business Analytics. Here is why:

@@ -52,6 +52,10 @@ Choosing an MCA college in Mumbai means you are at the heart of India's commerci
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Tier 1: The Mumbai Icons
 
 ### 1. Veermata Jijabai Technological Institute (VJTI)

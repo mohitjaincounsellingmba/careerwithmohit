@@ -49,6 +49,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. Europe: Global Diversity & High ROI
 European MBA programs are famously diverse and are known for their rapid, intense 10-15 month curriculums. This means you enter the workforce faster, significantly reducing your opportunity cost.
 

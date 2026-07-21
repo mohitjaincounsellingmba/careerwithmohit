@@ -45,7 +45,11 @@ While both programs aim to build future leaders, their approach, cost, and indus
 
 ---
 
-### **2. Pros & Cons: Which Path Fits You?**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Pros & Cons: Which Path Fits You?**
 
 #### **A. Business School (PGDM Path)**
 *   **Pros**:

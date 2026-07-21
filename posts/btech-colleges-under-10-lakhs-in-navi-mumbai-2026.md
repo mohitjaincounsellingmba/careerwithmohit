@@ -44,7 +44,11 @@ For engineering aspirants targeting the 2026 academic batch on a budget, we have
 
 These institutions keep their total program tuition fees under ₹10 Lakhs while offering robust laboratory infrastructure, experienced faculty members, and active recruitment drives.
 
-### 1. University College of Engineering, Navi Mumbai
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. University College of Engineering, Navi Mumbai
 - **Approximate Tuition Fees:** ₹1.5 Lakhs - ₹3.5 Lakhs (Total)
 - **Accepted Entrance Exams:** JEE Main / State Counselling
 - **Average Placement Package:** **₹5.5 LPA - ₹7.0 LPA**

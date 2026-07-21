@@ -47,6 +47,10 @@ As we move into the 2026-27 academy session, Amrita University Online is a top-t
 
 👉 **[Launch Your Admission Journey at Amrita University Online](/inquiry)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Popular Programs & Fee Structure
 Amrita's online programs are optimized for the 2026 workforce:
 

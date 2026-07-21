@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Jaipur for an MBA in Digital Marketing?
 
 Jaipur is emerging as a critical corporate, IT services, and fintech destination in Rajasthan. B-schools in Jaipur offer specialized marketing curricula that emphasize search engine optimization, content marketing, social media metrics, and e-commerce strategies, helping students secure placements in top firms.

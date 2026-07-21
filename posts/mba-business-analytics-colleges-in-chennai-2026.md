@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Chennai for an MBA in Business Analytics?
 
 Chennai is a major hub for automobile manufacturing, software services, financial institutions, and global back-offices. Pursuing an MBA in Business Analytics in Chennai exposes students to a quantitative culture. Local business schools emphasize statistical methods, data analysis, and predictive modeling, producing highly skilled analysts for top consultancies.

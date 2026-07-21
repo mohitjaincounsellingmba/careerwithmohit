@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Ghaziabad for an MBA in HR?
 
 Ghaziabad is a major industrial hub within Delhi NCR, hosting a large number of heavy manufacturing and engineering operations. Pursuing a human resource management degree here provides unique insights into workforce management, labor union relations, workplace health and safety, and strategic training.

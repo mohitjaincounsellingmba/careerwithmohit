@@ -49,6 +49,10 @@ Whether you are aiming for an Ivy-plus experience or a high-ROI state university
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Deep Dive: The Elite Trio
 
 ### 1. Duke University (Durham, NC)

@@ -40,7 +40,11 @@ Admissions at CURaj are primarily managed through the **Common University Entran
 *   **Counselling:** Participate in the university's online counselling process based on merit lists released by the university.
 *   **Final Step:** Complete document verification and pay the admission fee to secure your seat.
 
-### 📊 CUET Cutoff Trends
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📊 CUET Cutoff Trends
 
 The cutoffs at CURaj are subject to change annually based on applicant volume and seat availability.
 *   **UG Programs:** Competitive scores for popular programs often range from **450 to 600+** for the General category, though this varies significantly by subject.

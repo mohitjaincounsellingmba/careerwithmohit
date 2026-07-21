@@ -34,7 +34,11 @@ faqs:
 2.  **Merit Route**: 10+2 marks (minimum 50-60% aggregate in PCM).
 3.  **Specializations**: B.Tech Hons in CSE is the highlight, with industry tie-ups for niche tracks.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 GD Goenka is accessible to merit-based candidates with decent JEE scores or high 12th percentages.
 
 | Admission Route | CSE (Core) Requirement | Core Engineering |

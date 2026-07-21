@@ -42,7 +42,11 @@ UoH follows a streamlined, entrance-based admission process through the SAMARTH 
     *   **MCA:** Admission through **NIMCET** scores.
     *   **B.Tech + M.Tech:** Admission through **JEE Main** via JoSAA counselling.
 
-### 📊 CUET Cutoff (Expected 2026)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📊 CUET Cutoff (Expected 2026)
 
 Cutoffs are competitive and released post-CUET results:
 *   **Trend:** For many popular integrated programmes, a score in the range of **130–210+** (out of 250) is often considered competitive for general category candidates.

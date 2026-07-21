@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Kolkata for an MBA in Finance?
 
 Kolkata possesses a rich legacy in commerce and banking, being the birthplace of India's oldest stock exchange. From the undisputed quantitative leader [IIM Calcutta](/colleges/iim-calcutta) to high-ROI heritage institutions, Kolkata remains a top destination for serious finance students.

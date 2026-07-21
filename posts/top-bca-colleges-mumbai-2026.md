@@ -56,6 +56,10 @@ Choosing the right BCA college in Mumbai means starting your career in the same 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Tier 1: The Mumbai Establishments
 
 ### 1. NMIMS (School of Commerce/SBM)

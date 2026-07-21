@@ -61,6 +61,10 @@ This is a detailed, honest review covering real fees, placement outcomes, and wh
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💸 Amity Online MBA Fee Structure 2026
 
 The total program fee is approximately **₹1,99,000** for 2 years.

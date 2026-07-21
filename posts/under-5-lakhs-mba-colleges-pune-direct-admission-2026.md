@@ -44,6 +44,10 @@ Before we dive into the list, it is crucial to understand what "Direct Admission
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Top Budget-Friendly MBA Colleges in Pune (Under 5 Lakhs)
 
 If you are looking for an affordable MBA with potential options for institute-level admission (subject to availability), here are some of the most reputable options with tuition fees under ₹5 Lakhs.

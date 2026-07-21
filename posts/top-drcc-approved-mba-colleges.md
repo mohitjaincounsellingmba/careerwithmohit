@@ -60,7 +60,11 @@ If you are planning to pursue an MBA or PGDM using the DRCC scheme, here is a co
 
 Delhi NCR boasts the largest concentration of DRCC-eligible private B-schools, offering massive corporate exposure and diverse specialization options.
 
-### Top DRCC Approved Colleges in NCR:
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## Top DRCC Approved Colleges in NCR:
 *   **BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))** – Greater Noida
 *   **NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management))** – Delhi
 *   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** – Noida & Ghaziabad campuses

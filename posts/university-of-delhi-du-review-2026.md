@@ -39,6 +39,10 @@ University of Delhi (DU) remains one of India's most prestigious and sought-afte
 | **Top Recruiters** | Deloitte, KPMG, McKinsey, Goldman Sachs, Google |
 | **Admission Basis** | CUET UG 2026 / CUET PG |
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## **Admission Process & CUET Cutoffs 2026**
 
 Admissions to DU's undergraduate programs are strictly conducted through the **Common University Entrance Test (CUET)**. Following the exam, students must register on the Common Seat Allocation System (CSAS) portal to select their course and college preferences.

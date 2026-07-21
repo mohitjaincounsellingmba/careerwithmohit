@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Delhi NCR for an MBA in Business Analytics?
 
 Delhi National Capital Region (NCR) stands as a prominent corporate and administrative center, housing the headquarters of major tech companies, consumer giants, consultancies, and rising start-ups. For management aspirants looking to build a career in data science, big data, and data-driven decision making, Delhi NCR offers excellent access to modern corporate systems. Proximity to offices in Gurgaon, Noida, and New Delhi allows students to participate in live industry projects, secure premium summer internships, and secure final placements as business analysts, data consultants, and strategy specialists.

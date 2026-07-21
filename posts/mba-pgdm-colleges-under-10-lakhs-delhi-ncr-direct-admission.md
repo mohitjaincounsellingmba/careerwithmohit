@@ -33,7 +33,11 @@ Here is a curated list of the **top MBA and PGDM colleges in Delhi NCR with a fe
 *   **Why Choose**: High academic rigor, robust alumni network, and specialization in International Business and Retail.
 *   **Admission Mode**: Profile-based direct admission, score in CMAT/MAT/XAT/CAT considered for shortlisting.
 
-### **2. GL Bajaj Institute of Management & Research, Greater Noida**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. GL Bajaj Institute of Management & Research, Greater Noida**
 GL Bajaj is undoubtedly one of the most cost-effective institutions in the NCR region, boasting some of the best placement numbers for its fee bracket.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹7.00 Lakhs
 *   **Average Placement**: ₹6.5 LPA - ₹7.0 LPA

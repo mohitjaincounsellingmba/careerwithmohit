@@ -50,6 +50,10 @@ IP University does not conduct its own exam as the primary gateway. Instead, it 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Expected IPU MBA Cutoffs 2025-2026 (Percentile-wise)
 
 Since IPU releases "Ranks" after registration, the percentile requirements fluctuate. Based on previous years' trends, here are the expected cutoffs for the **General Category (Delhi Region)**.

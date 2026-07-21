@@ -42,6 +42,10 @@ Before diving into the books, keep these tentative exam dates on your radar for 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📈 Section-Wise Preparation Strategy for Ambala Aspirants
 
 The CAT exam pattern has remained consistent, featuring 66 questions spread across three sections over a duration of 120 minutes. Here is how you should tackle them:

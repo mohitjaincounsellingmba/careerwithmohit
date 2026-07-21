@@ -52,6 +52,10 @@ Below is a detailed side-by-side comparison of the top-performing MAT-accepting 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏆 Which Colleges Are Best for Placement?
 
 If your primary focus is landing a high-paying corporate role right after graduation, these B-schools accepting MAT stand out:

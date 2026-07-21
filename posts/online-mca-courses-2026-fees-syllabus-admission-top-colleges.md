@@ -51,7 +51,11 @@ Whether you're a BCA/B.Sc graduate looking to deepen your tech expertise, or a w
 
 An **Online MCA (Master of Computer Applications)** is a 2-year postgraduate program covering advanced computer science concepts — delivered fully through an online learning platform. It is equivalent to a regular MCA degree when earned from a UGC-DEB recognized university.
 
-### Core Areas Covered:
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## Core Areas Covered:
 - Advanced Programming (Java, Python, C++)
 - Software Engineering & System Design
 - Database Management Systems (DBMS)

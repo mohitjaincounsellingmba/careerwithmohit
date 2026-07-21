@@ -32,7 +32,11 @@ faqs:
 2.  **Merit Route**: Based on Class 12 PCM marks (minimum 50% aggregate).
 3.  **Specializations**: B.Tech in CSE (Core), with specialized tracks in AI & ML, Cyber Security, and Digital Manufacturing.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 Sushant is reachable for aspirants with decent Class 12 percentages or JEE ranks.
 
 | Admission Route | CSE (Core) Requirement | AI / Cyber Security |

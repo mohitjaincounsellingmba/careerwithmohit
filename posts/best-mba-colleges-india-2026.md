@@ -76,6 +76,10 @@ These are the absolute best Business Schools in the country. Graduating from her
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Best MBA Colleges with High ROI (Low Fees, Great Placements)
 
 Not everyone wants to take a ₹25 Lakh education loan. If you are looking for the best Return on Investment (ROI) and specifically searching for **mba colleges with low fees**, these are the best MBA colleges in India:

@@ -53,7 +53,11 @@ An **Executive MBA** is a postgraduate management program specifically designed 
 
 In 2026, top Executive MBA programs are available in **fully online mode**, making them accessible from anywhere in India or the world.
 
-### Key Features of an Executive MBA:
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## Key Features of an Executive MBA:
 - 🎯 Designed for **mid-to-senior professionals** (not freshers)
 - 📱 **Fully online or hybrid** — no mandatory campus attendance
 - 🧠 Focus on **Leadership, Strategy, and Global Business**

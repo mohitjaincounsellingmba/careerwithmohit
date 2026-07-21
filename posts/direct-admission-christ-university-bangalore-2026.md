@@ -46,6 +46,10 @@ Christ University offers a multi-disciplinary environment with a strong focus on
 - **Placements**: Average package ranges between **₹8.5 LPA to ₹10 LPA**, with top recruiters like Deloitte, KPMG, and Amazon.
 - **Global Exposure**: Strong international collaborations and industry-aligned curriculum.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Direct Admission Path: Management Quota
 
 Christ University reserves a percentage of seats for candidates under the Management or NRI category. This is ideal for students who have a strong academic profile but might have fallen short in competitive exams like CAT or MAT.

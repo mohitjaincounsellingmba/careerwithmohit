@@ -45,6 +45,10 @@ The Management Aptitude Test (MAT) remains one of India's most popular entrance 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📅 MAT 2026 Result Timelines
 
 MAT results are typically released **3 to 4 weeks** after the testing window concludes. Here are the expected dates based on the AIMA schedule:

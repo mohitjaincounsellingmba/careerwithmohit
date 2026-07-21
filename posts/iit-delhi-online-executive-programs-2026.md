@@ -46,6 +46,10 @@ If you are looking to upskill without leaving your job, here is a comprehensive 
 *   **Networking:** Join a legacy of distinguished alumni who lead Fortune 500 companies and successful startups.
 *   **International Tie-ups:** Collaborations with 100+ premier universities in over 40 countries ensure a global perspective in learning.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## **Top Online Executive Programs Offered**
 
 IIT Delhi offers a wide range of executive certificate and PG diploma programs through its online and continuing education platforms. Popular specializations include:

@@ -36,6 +36,10 @@ Amity offers a massive range of BBA specializations, including Business Analytic
 - **Corporate Exposure:** Regular guest lectures, industrial visits, and corporate competitions.
 - **Global Campus Network:** Opportunities for "Study Abroad" programs at Amity's international campuses in Dubai, London, and Singapore.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💰 Latest Fee Structure (2026)
 As a premium private university, the fees at Amity are on the higher side. For 2026:
 - **BBA (General/International Business):** ₹3,00,000 – ₹4,50,000 per year (depending on the specific program/specialization).

@@ -44,6 +44,10 @@ faqs:
 | **Median PG Package** | ₹6.20 LPA |
 | **Top Sectors** | Education, NGOs, Banking, IT |
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Admission Process & CUET Cutoff
 
 *   **Admissions**: Conducted exclusively through **CUET**. Candidates register at `vbadmission.in` post CUET results.

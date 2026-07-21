@@ -44,7 +44,11 @@ Understanding the student volume (or "test-taker density") for each exam helps y
 
 ---
 
-### **Detailed Competition Analysis**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Detailed Competition Analysis**
 
 #### **1. CAT: The High-Stake Giant**
 CAT remains the most populated exam in India. While registrations touched a record **3.3 Lakhs** in 2023, the 2024 and 2025 cycles saw a stabilization around the 3 Lakh mark. 

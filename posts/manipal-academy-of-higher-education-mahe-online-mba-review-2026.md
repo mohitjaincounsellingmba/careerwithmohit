@@ -62,6 +62,10 @@ However, at ₹2,92,000 — the highest total fee among Indian online MBAs — i
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💸 Manipal Online MBA Fee Structure 2026
 
 | Payment Option | Amount |

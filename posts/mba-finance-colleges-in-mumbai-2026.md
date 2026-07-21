@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Mumbai for an MBA in Finance?
 
 Mumbai is the financial capital of India, housing the headquarters of the RBI, SEBI, major public and private banks, and international investment firms. Pursuing an MBA in Finance in Mumbai offers direct access to the corporate world, guest lectures from top financial executives, and extensive networking opportunities.

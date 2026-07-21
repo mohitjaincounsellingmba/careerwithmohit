@@ -31,7 +31,11 @@ faqs:
 *   **Multi-Disciplinary Exposure**: Offers a vibrant environment with students from various streams like Tech, Design, and Law.
 *   **Global Collaborations**: Strong ties with international universities for exchange programs.
 
-### **Placement Review (2024-2025 Batch)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Placement Review (2024-2025 Batch)**
 *   **Highest Package**: **₹35 LPA** (School of Management).
 *   **Average Package**: **₹5.36 LPA** (Overall Management).
 *   **Placement Rate**: Consistently ranges between 85% to 95%.

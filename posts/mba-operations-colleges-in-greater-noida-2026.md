@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Greater Noida for an MBA in Operations?
 
 Greater Noida's educational corridor, Knowledge Park, is a structured education hub. Management students specializing in operations in this region have access to modern management laboratories, computer systems, and active placement connections with major corporate firms.

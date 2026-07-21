@@ -40,7 +40,11 @@ The biggest USP of Balaji is its discipline. But for many, this feels more like 
 *   **Strict Rules**: Mandatory uniforms, high fines for low attendance, and a rigid schedule from 9:00 AM to 9:00 PM (sometimes later) can stifle personal growth and creativity.
 *   **Lack of Autonomy**: If you are looking for a typical college life with fests, freedom, and time for self-exploration, SBUP might feel like a "corporate jail."
 
-### **2. Massive Intake and Intense Internal Competition**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Massive Intake and Intense Internal Competition**
 Sri Balaji University operates four institutes on the same campus: **BIMM, BITM, BIIB, and BIMHRD**.
 *   **Total Intake**: The combined intake is huge (often exceeding 1000+ students). 
 *   **Placement Pressure**: When 1000+ students sit for placements together, the competition is cut-throat. Even a minor slip-up can leave you without a job or with a sub-par offer.

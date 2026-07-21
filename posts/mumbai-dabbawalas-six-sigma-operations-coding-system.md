@@ -40,7 +40,11 @@ For MBA students and B-school aspirants, the Dabbawala model is the ultimate pro
 
 Established in 1890, the *Nutan Mumbai Tiffin Box Suppliers Association* is a cooperative of over **5,000 Dabbawalas** who deliver more than **200,000 home-cooked meals** daily from residential suburbs to workplaces across Mumbai, and then return the empty containers back to the respective homes before evening. 
 
-### **The Scale of Operations at a Glance**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **The Scale of Operations at a Glance**
 | Operational Metric | Value / Detail |
 | :--- | :--- |
 | **Daily Deliveries** | ~200,000 tiffins (400,000 transactions/day) |

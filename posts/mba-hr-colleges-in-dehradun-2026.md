@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Dehradun for an MBA in HR?
 
 Dehradun has emerged as a premium educational center in Northern India. The quiet, academic-friendly environment combined with modern management programs makes Dehradun an attractive choice for MBA students specializing in human resource management, workforce planning, and organizational psychology.

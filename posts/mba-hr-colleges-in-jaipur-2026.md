@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Jaipur for an MBA in HR?
 
 Jaipur is rapidly transforming into a prominent corporate and educational hub in Rajasthan. The city offers private business schools and modern universities that provide specialized curricula in Human Resource Management, organizational behavior, talent analytics, and leadership dynamics, alongside active placement assistance.

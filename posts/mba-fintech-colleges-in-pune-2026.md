@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Pune for an MBA in FinTech?
 
 Pune is a booming hub for Information Technology, corporate banking, and financial services operations. For management aspirants looking to specialize in digital finance, blockchain strategy, and financial analytics, Pune offers excellent options ranging from flagship Symbiosis B-schools (like SIBM and SCMHRD Pune) to highly affordable Panjab-University equivalents like PUMBA.

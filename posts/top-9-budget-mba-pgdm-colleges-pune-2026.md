@@ -59,6 +59,10 @@ If you are looking for colleges with a fee structure between **₹4 Lakhs to ₹
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏫 Deep Dive: Which One Should You Choose?
 
 ### 1. Akemi Business School (MBA)

@@ -84,6 +84,10 @@ Here is a comprehensive list of top colleges in Pune and Mumbai that accept the 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🌊 MBA Colleges in Mumbai (Accepting MAH MBA CET)
 
 Mumbai, the financial capital of India, is home to some of the highest-ranked B-schools in the country.

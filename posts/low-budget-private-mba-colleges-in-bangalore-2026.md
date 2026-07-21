@@ -30,7 +30,11 @@ For students planning their admissions for the 2026 academic year, here is a det
 
 These private business schools keep their total tuition fees under ₹10 Lakhs (or offer highly competitive packages) while maintaining active corporate relations and placement support.
 
-### 1. Kristu Jayanti College (MBA)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Kristu Jayanti College (MBA)
 - **Approximate Fees:** ₹8.5 Lakhs (Total)
 - **Accepted Entrance Exams:** KMAT / PGCET / MAT
 - **Average Placement Package:** **₹6.8 LPA**

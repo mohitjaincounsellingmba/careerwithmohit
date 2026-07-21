@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Chennai for an MBA in Digital Marketing?
 
 Chennai is a major manufacturing, commercial, and financial service hub. B-schools in the Chennai region possess a legacy of deep analytical training, combining core marketing principles with digital data and predictive analytics, making it a hot spot for services marketing and digital brand strategy.

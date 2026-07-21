@@ -44,6 +44,10 @@ Here is a quick snapshot of the top-ranked Executive MBA options available for p
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏆 Review of Top Executive MBA Colleges for Visakhapatnam Professionals
 
 ### 1. NMIMS Global Access School (Mumbai/Online)

@@ -39,7 +39,11 @@ If you are considering Thapar for your B.Tech in 2026, here is an honest, compre
 
 Thapar University does NOT conduct its own separate entrance exam for B.Tech. Instead, admissions are strictly based on two primary modes:
 
-### 1. Via JEE Main Score
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Via JEE Main Score
 The majority of seats are filled through the Joint Entrance Examination (JEE) Main score. 
 - You must sit for JEE Main. Ensure you evaluate your current level by solving our **[Free JEE Main Mock Test 2026](/tools/jee-main-mock-test)**.
 - There is a 50% state quota reserved for candidates who have passed their 10+2 from Punjab, and the remaining 50% is for outside-Punjab candidates.

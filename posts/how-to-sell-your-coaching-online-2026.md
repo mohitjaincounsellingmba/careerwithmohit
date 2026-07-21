@@ -42,7 +42,11 @@ In 2026, relying on third-party platforms that take a huge cut of your hard-earn
 
 Many educators start by selling courses on aggregated marketplaces or using basic video-sharing tools. While these are good starting points, they lack the professional touch and take away your independence. Here is why you need your own platform:
 
-#### 1. Keep 100% of Your Revenue
+##
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Keep 100% of Your Revenue
 Stop sharing your revenue with third-party marketplaces. When you own the app, whatever you earn from your courses, live classes, and test series comes directly into your bank account.
 
 #### 2. Build Massive Trust and Authority

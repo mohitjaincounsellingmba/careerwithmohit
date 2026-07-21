@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Pune for an MBA in Operations?
 
 Pune, known as the manufacturing and automobile hub of Maharashtra, is also home to major IT parks and logistics centers. For management aspirants looking to specialize in operations, infrastructure development, and supply chain management, Pune offers excellent options ranging from flagship Symbiosis B-schools (like SCMHRD and SIBM Pune) to highly affordable Panjab-University equivalents like PUMBA.

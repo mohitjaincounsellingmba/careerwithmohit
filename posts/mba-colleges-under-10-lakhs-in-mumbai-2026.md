@@ -42,7 +42,11 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹10 Lakhs (either total or annual, fitting well within a moderate budget) while offering solid placement opportunities.
 
-### 1. Sydenham Institute of Management (SIMSREE)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Sydenham Institute of Management (SIMSREE)
 - **Approximate Fees:** ₹1.36 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹12.3 LPA**

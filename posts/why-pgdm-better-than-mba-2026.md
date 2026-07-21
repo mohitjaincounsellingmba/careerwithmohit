@@ -50,6 +50,10 @@ The biggest advantage of a PGDM is **Autonomy**.
 *   **MBA:** University-affiliated colleges must follow a syllabus set by the university, which is often updated once in every 3–5 years.
 *   **PGDM:** Since PGDM institutes are autonomous, they can update their curriculum **every year**. In 2026, this means PGDM students are already learning about **Generative AI in Business, Fintech, and ESG Analytics**, while many MBA students might still be stuck with decade-old textbooks.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. Practical Pedagogy over Theory
 University MBAs tend to be more academic and theory-heavy, focusing on exams and research. In contrast, PGDM programs are designed for **corporate readiness**.
 *   The focus is on **Case Studies (Harvard/Ivey cases)**, Business Simulations, Live Projects, and Industry Internships.

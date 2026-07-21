@@ -52,6 +52,10 @@ Should you join a massive marketplace like Udemy, use a standard LMS like Teacha
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ 1. The Marketplace Route (Udemy, Skillshare)
 
 Marketplaces are great for beginners who have no audience.

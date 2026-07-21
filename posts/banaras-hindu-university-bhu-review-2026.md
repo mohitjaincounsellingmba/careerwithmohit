@@ -39,6 +39,10 @@ Banaras Hindu University (BHU), located in the holy city of Varanasi, is one of 
 | **Admission Basis** | CUET UG / CUET PG |
 | **Campus Size** | 1,300+ Acres |
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## **Admission Process & CUET Cutoffs 2026**
 
 For UG and most PG programs, BHU admits students through the **Common University Entrance Test (CUET)**. 

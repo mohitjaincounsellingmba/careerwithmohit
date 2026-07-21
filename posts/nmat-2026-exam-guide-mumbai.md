@@ -41,6 +41,10 @@ Unlike CAT, NMAT is conducted over a long testing window between October and Dec
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📝 NMAT Exam Pattern: Understanding the Adaptive Format
 
 NMAT is a computer-adaptive test, meaning the difficulty of the next question is determined by whether you answered the current question correctly. The exam consists of **108 questions** with a total time limit of **120 minutes**:

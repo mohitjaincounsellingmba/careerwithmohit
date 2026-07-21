@@ -72,6 +72,10 @@ Here are the confirmed and expected dates for GGSIPU MBA Counselling 2026:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚦 The GGSIPU MBA Admission Priority Order
 Remember, IPU does not treat all entrance exams equally. Seats in top-tier colleges like **USMS Dwarka** and **MAIT Rohini** are filled in a strict sequence:
 

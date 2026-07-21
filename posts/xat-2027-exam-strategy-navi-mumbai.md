@@ -42,6 +42,10 @@ Keep these crucial registration and exam dates marked as you plan your study sch
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📊 XAT Exam Structure & Sectional Breakdown
 
 XAT is a computer-based test divided into two parts with a total duration of 3 hours 30 minutes:

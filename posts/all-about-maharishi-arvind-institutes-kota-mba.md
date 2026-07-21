@@ -39,6 +39,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Why Choose Maharishi Arvind in Kota?
 The Maharishi Arvind Group is a massive name in Rajasthan's education sector, and its Kota campuses (MAIIT and MACET) provide a stable, industry-aligned MBA curriculum.
 *   **Two Specialized Campuses:** Choose between the International Institute (MAIIT) or the Engineering Campus (MACET) based on your interest and seat availability.

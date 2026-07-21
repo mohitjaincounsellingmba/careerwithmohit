@@ -55,6 +55,10 @@ Delhi NCR remains the biggest hub for CUET-based admissions, led by top-tier cen
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. CUET Universities in Mumbai
 Mumbai offers a mix of prestigious public institutes and state-of-the-art private universities.
 

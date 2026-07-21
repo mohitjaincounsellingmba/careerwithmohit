@@ -47,6 +47,10 @@ For the 2026 session, D.Y. Patil Online stands as one of the most credible optio
 
 👉 **[Start Your Higher Studies Journey at D.Y. Patil Online](/inquiry)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Popular Programs & Fee Structure
 D.Y. Patil’s online programs are designed for the global workforce of 2026:
 

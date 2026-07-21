@@ -37,7 +37,11 @@ The admission cycle for the 2026 batch is already underway.
 2.  **Selection Process**: Includes a **Micro Presentation (MP)**, **Group Discussion (GD)**, and a **Personal Interview (PI)**.
 3.  **Application Deadline**: Round 1 applications typically close in late January 2026.
 
-### **Expected Cutoffs 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Cutoffs 2026**
 Christ University looks for a holistic profile, but a baseline entrance score is mandatory.
 
 | Entrance Exam | Expected Cutoff (Percentile/Score) |

@@ -37,7 +37,11 @@ Mumbai, the financial capital of India, is home to headquarters of leading banks
 
 Here is the detailed overview of the top management institutes in Mumbai accepting MAT scores for the 2026 admission cycle:
 
-### 1. Welingkar Institute of Management (WeSchool)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Welingkar Institute of Management (WeSchool)
 Known for design thinking, business design programs, and top placement profiles.
 - **MAT Cutoff Percentile:** 80+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹14.0 Lakhs

@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Mumbai for an MBA in Digital Marketing?
 
 Mumbai, the financial capital of India, hosts the corporate offices of major conglomerates, banks, and advertising consultancies. The density of corporate offices in BKC, Lower Parel, and Nariman Point creates an immense demand for specialized digital marketing professionals who can steer brand strategy and implement digital campaigns.

@@ -39,6 +39,10 @@ Aligarh Muslim University (AMU) is a historic central university recognized for 
 | **Top Recruiters** | TCS, Adobe, IBM, HDFC |
 | **Admission Basis** | AMU Entrance Exams / CUET UG |
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## **Admission Process & Cutoffs 2026**
 
 AMU follows a dual admission approach:

@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Noida for an MBA in Marketing?
 
 Noida has transformed into a massive corporate base, housing offices of major MNCs, consumer retail brands, and marketing agencies. For MBA Marketing students, Noida offers great regional access, modern business curricula, and substantial placement records.

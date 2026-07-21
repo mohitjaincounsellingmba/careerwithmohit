@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Pune for an MBA in Business Analytics?
 
 Pune, known as the 'Oxford of the East,' is a thriving industrial, automobile, and IT hub. For students aiming to build a career in data intelligence and business analytics, Pune offers some of India's most prestigious B-schools. The presence of Symbiosis campuses like SCMHRD (which has a dedicated, highly-ranked MBA-BA course) and SIBM Pune, along with highly affordable university departments like PUMBA, makes it a premier destination for analytics education.

@@ -37,7 +37,11 @@ Jaipur, the Pink City, is not only a tourist attraction but also a rapidly growi
 
 Here is the detailed overview of the top management institutes in Jaipur accepting MAT scores for the 2026 admission cycle:
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)
 Accredited by NBA and AIU, [Jaipuria Jaipur](/colleges/jaipuria-jaipur) is known for corporate-readiness and excellent faculty.
 - **MAT Cutoff Percentile:** 70+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹11.5 Lakhs

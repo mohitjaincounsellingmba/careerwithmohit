@@ -32,6 +32,10 @@ Christ University offers several BBA specializations (General, Finance & Interna
 - **Strong Alumni Network:** A vast network in Bangalore's tech and finance sectors.
 - **Multicultural Campus:** One of the most diverse student populations in India.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💰 Latest Fee Structure (2026)
 The fees at Christ University vary by campus and specialization. For the 2026 session:
 - **BBA (General/Finance):** ₹2,20,000 – ₹3,00,000 per year (for non-Karnataka students).

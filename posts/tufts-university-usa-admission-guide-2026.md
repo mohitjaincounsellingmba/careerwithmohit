@@ -46,6 +46,10 @@ Tufts University offers a unique combination of a liberal arts college feel with
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💰 Fees Breakdown (Converted to INR)
 
 The estimated annual budget for attending Tufts University in the 2026 academic year:

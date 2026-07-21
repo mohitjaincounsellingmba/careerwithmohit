@@ -55,6 +55,10 @@ These are the Tier-1 institutes in Maharashtra. Admissions here are extremely co
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Mid-Tier MBA Colleges (70 - 90 Percentile)
 
 If you score in the 70-90 percentile range, you still have access to several reputable institutes that offer decent placements and strong industry connections in cities like Pune, Nashik, and Aurangabad.

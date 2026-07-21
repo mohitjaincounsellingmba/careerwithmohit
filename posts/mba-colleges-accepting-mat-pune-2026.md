@@ -37,7 +37,11 @@ Pune, the 'Oxford of the East,' is one of India's most beloved student cities. I
 
 Here is the detailed overview of the top management institutes in Pune accepting MAT scores for the 2026 admission cycle:
 
-### 1. PUMBA (Department of Management Sciences)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. PUMBA (Department of Management Sciences)
 The official MBA department of Pune University, offering exceptional ROI and low fees.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹2.40 Lakhs

@@ -46,6 +46,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## ✅ Why [Jamia Hamdard](/colleges/jamia-hamdard-delhi) is a Solid Pick
 
 ### 1. Trusted Institutional Legacy

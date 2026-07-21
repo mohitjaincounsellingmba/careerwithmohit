@@ -43,6 +43,10 @@ Mithibai is not just a college; it’s a launchpad. Known for its energetic vibe
 - **Vibrant Culture:** Mithibai is legendary for its international inter-collegiate festival, **Kshitij**, and its active dramatics and cultural associations.
 - **Corporate Readiness:** With autonomous status, the college regularly updates its syllabus to align with industry expectations, offering specialized courses like Data Science, Biotechnology, and Financial Markets.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📚 Mithibai College Courses & Fee Structure (2026)
 Mithibai offers traditional as well as self-financed (unaided) professional undergraduate and postgraduate courses. Below is the fee structure for the most popular programs:
 

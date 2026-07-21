@@ -38,7 +38,11 @@ Known for its high academic standards in the social science domain.
 *   **Programs:** BS.W (Social Work), Integrated Humanities, etc.
 *   **USP:** Unmatchable ROI and a direct path to social impact careers.
 
-### **2. SNDT Women’s University**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. SNDT Women’s University**
 India’s first university for women with multiple campuses across Mumbai and Maharashtra.
 *   **Popular Degrees:** BA, B.Sc (Home Science), B.Com.
 

@@ -37,7 +37,11 @@ Greater Noida has emerged as one of the most prominent educational hubs in North
 
 Here is the detailed overview of the top management institutes in Greater Noida accepting MAT scores for the 2026 admission cycle:
 
-### 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH)
 BIMTECH accepts MAT scores for its specialized PGDM programs in Retail Management and Insurance Business Management.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹14.0 Lakhs

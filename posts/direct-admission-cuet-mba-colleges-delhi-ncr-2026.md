@@ -42,7 +42,11 @@ At **CareerWithMohit**, we help you navigate these options to ensure you get the
 
 Here is a comprehensive list of the most popular private universities in the Delhi NCR region that participate in CUET PG and offer direct admission opportunities.
 
-#### **1. [Amity University, Noida](/colleges/amity-university-noida)**
+##
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **1. [Amity University, Noida](/colleges/amity-university-noida)**
 Amity is one of the most recognized global brands in education. While they accept CUET PG scores, most students join through their internal selection process which includes a test and an interview.
 *   **Total Fees**: ₹13.5 Lakhs – ₹15.8 Lakhs
 *   **Average Placement**: ₹7.65 LPA

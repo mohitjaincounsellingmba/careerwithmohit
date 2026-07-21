@@ -40,6 +40,10 @@ The Department of Management Sciences (PUMBA), Savitribai Phule Pune University,
 - **Strong Placements**: Average package is around **₹9.4 LPA**, making it one of the best ROI colleges in Pune.
 - **Heritage Content**: Based in Pune (the Oxford of the East), it offers great exposure to the city's IT and Manufacturing belts.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## The Truth About Direct Admission at PUMBA
 
 As a government-run University Department, PUMBA follows strict regulations:

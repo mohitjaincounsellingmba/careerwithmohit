@@ -38,6 +38,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Why MIMT Kota is a Consistent Performer?
 Modi Institute of Management and Technology (MIMT) is a household name in Kota for technical and professional education, known for its disciplined academic environment.
 *   **High Placement Success:** Consistently achieves over 70-80% placement for its MBA batches.

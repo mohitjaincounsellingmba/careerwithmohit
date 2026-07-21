@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Bangalore for an MBA in FinTech?
 
 Bangalore, the startup capital of India, hosts the corporate offices of major digital transaction platforms, banking systems, and tech corporations. Pursuing an MBA in FinTech or Financial Analytics here places you at the center of digital finance innovation, product marketing growth, tech sales, and financial strategy, offering rich summer internships and premium placements.

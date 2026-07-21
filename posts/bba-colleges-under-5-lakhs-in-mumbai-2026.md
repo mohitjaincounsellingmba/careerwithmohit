@@ -40,7 +40,11 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹5 Lakhs (either total program fee or annual fees matching a budget-friendly layout) while offering solid placement opportunities.
 
-### 1. Jai Hind College
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Jai Hind College
 - **Approximate Fees:** ₹50,000 (Annual)
 - **Accepted Entrance Exams:** Common Entrance Test
 - **Average Placement Package:** **₹6.5 LPA**

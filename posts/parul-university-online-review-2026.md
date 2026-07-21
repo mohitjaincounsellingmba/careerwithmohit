@@ -46,6 +46,10 @@ For the 2026-27 academy session, Parul University Online is a top-tier choice fo
 
 👉 **[Start Your Admission Journey at Parul University Online](/inquiry)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Popular Programs & Fee Structure
 Parul's online programs are designed for the 2026 job market:
 

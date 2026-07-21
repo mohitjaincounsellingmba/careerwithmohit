@@ -40,7 +40,11 @@ Mahatma Gandhi Central University (MGCUB) located in Motihari, Bihar, has been r
 | **Highest Package** | ₹36.0 LPA |
 | **Hostel Fees** | ~₹9,000/semester |
 
-### **Admission & CUET Cutoff**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Admission & CUET Cutoff**
 *   **Process:** Admissions are driven by **CUET UG** and **CUET PG** scores. Post-results, candidates register on the MGCUB SAMARTH portal for counseling and document verification.
 *   **CUET Cutoffs:** Cutoffs fluctuate based on seat availability. For popular programs like B.Tech, general category cutoffs have historically hovered around 400 marks (out of 750), making it competitive yet achievable.
 

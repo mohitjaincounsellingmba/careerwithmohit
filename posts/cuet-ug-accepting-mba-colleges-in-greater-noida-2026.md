@@ -30,7 +30,11 @@ If you are a student targeting **Greater Noida** for your management education, 
 
 These institutions in **Greater Noida** accept CUET UG scores for their integrated management tracks, providing a smooth pathway from undergraduate study to a full post-graduate MBA degree.
 
-### 1. [Galgotias University](/colleges/galgotias-university) - Integrated MBA
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [Galgotias University](/colleges/galgotias-university) - Integrated MBA
 - **Approximate Fees:** ₹1.2 Lakhs (Annual)
 - **Accepted Entrance Exams:** CUET-UG / Merit
 - **Average Placement Package:** **₹5.2 LPA**

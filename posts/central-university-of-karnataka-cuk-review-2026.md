@@ -43,7 +43,11 @@ Central University of Karnataka (CUK) stands out as a prominent institution in S
 | **Highest Package** | ₹9.00 LPA |
 | **Top Recruiters** | TCS, Wipro, Accenture, Axis Bank |
 
-### **Admission & CUET Cutoff**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Admission & CUET Cutoff**
 *   **Process:** Admissions are conducted via the CUK Samarth portal. B.Tech seats are filled 50% via JEE Main (JoSAA) and 50% through CUET UG.
 *   **CUET Cutoffs:** Cutoffs are competitive. For sought-after programs like B.Tech (CSE/AI & ML), previous safe scores hovered around 350–476+. Other BA/B.Sc domain subjects also demand solid percentile performances.
 

@@ -34,7 +34,11 @@ faqs:
 2.  **Merit Route**: Based on 10+2 marks (minimum 55% to 60% aggregate in PCM).
 3.  **Specializations**: Flagship B.Tech in CSE, with tracks in Cloud Computing, AI, and Big Data.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 Shoolini is accessible to students with high Class 12 percentages or decent national exam scores.
 
 | Admission Route | CSE (Core) Requirement | Other Core Engineering |

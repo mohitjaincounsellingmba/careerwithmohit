@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Bangalore for an MBA in Finance?
 
 Bangalore, the Silicon Valley of India, is not just for techies. It hosts massive global capability centers (GCCs), global investment banks (like Goldman Sachs and JPMorgan), and top consulting firms. Pursuing an MBA in Finance here places you at the heart of corporate operations and fintech innovation.

@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Bangalore for an MBA in Marketing?
 
 Bangalore, the Silicon Valley of India, is a massive consumer hub. It hosts the headquarters of India's biggest e-commerce giants, digital consumer brands, and multinational tech firms. Pursuing an MBA in Marketing here places you at the center of digital marketing innovation, product management growth, and tech sales.

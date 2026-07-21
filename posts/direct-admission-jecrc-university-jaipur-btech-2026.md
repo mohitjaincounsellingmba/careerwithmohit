@@ -51,7 +51,11 @@ faqs:
 
 ---
 
-### **Does [JECRC University](/colleges/jecrc-jaipur) Have Direct Admission or Management Quota?**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Does [JECRC University](/colleges/jecrc-jaipur) Have Direct Admission or Management Quota?**
 
 This is the most searched question. Here is the honest answer:
 

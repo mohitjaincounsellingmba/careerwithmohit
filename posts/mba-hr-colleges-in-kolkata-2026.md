@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Kolkata for an MBA in HR?
 
 Kolkata possesses a rich business legacy. B-schools in Kolkata combine traditional quantitative teaching with strategic corporate human resource policies, providing students with strong placements in FMCG, manufacturing, banking, and public sector units.

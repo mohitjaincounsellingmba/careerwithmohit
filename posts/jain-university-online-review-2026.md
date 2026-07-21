@@ -45,6 +45,10 @@ As we look toward the 2026 session, Jain’s online programs are a top pick for 
 
 👉 **[Launch Your Admission Journey at Jain Online](/inquiry)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Popular Programs & Fee Structure
 Jain's online programs are highly market-relevant for 2026:
 

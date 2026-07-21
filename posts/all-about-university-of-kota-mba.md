@@ -40,6 +40,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Why UOK is the Best Pick for "Budget" Aspirants?
 The University of Kota (UOK) is a state university that caters to students who want a quality degree without the burden of heavy education loans.
 *   **Lowest Fees:** At roughly ₹25,000 for the entire MBA course, the ROI is mathematically unbeatable.

@@ -42,7 +42,11 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹5 Lakhs (either total or annual, fitting well within a moderate budget) while offering solid placement opportunities.
 
-### 1. Department of Business Administration, University of Bhubaneswar
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Department of Business Administration, University of Bhubaneswar
 - **Approximate Fees:** ₹80,000 - ₹1.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / CMAT / State Entrance
 - **Average Placement Package:** **₹4.5 LPA - ₹6.0 LPA**

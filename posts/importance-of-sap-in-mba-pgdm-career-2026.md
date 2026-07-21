@@ -42,7 +42,11 @@ According to industry reports from 2025-26, MBA graduates with an SAP certificat
 
 ---
 
-### **Top SAP Modules Based on Your MBA Specialization**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Top SAP Modules Based on Your MBA Specialization**
 
 Choosing the right SAP module is crucial to align with your PGDM major.
 

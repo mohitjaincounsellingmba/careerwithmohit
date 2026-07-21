@@ -41,7 +41,11 @@ Galgotias is currently pushing "AI" as their biggest USP. While AI is the future
 *   **The Reality**: They add 2-3 basic Python/Data modules to a standard MBA and call it an "AI-Specialized MBA."
 *   **The Problem**: Top-tier AI roles in Business require deep mathematical and analytical foundations, which a mass-intake university with 50-60 students per section simply cannot provide. It’s "Old Wine in an AI Bottle."
 
-### **2. The 'Population Explosion' on Campus**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. The 'Population Explosion' on Campus**
 The sheer volume of students at Galgotias is a career-killer.
 *   **Batch Strength**: When you have **thousands** of MBA students in a single batch, your unique identity as a student is lost. You are just a roll number in a sea of faces.
 *   **Resource Strain**: Libraries, labs, and even common areas are perpetually overcrowded. This environment is more suited for a "mass-school" than a professional management grooming ground.

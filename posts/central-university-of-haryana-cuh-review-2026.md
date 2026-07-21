@@ -42,7 +42,11 @@ Central University of Haryana (CUH) offers a highly affordable and quality educa
 | **Highest Package** | Up to ₹34 LPA |
 | **Hostel Fees** | ~₹14,140/year (Excluding Mess) |
 
-### **Admission & CUET Cutoff**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Admission & CUET Cutoff**
 Admission to CUH is primarily merit-based through **CUET UG** and **CUET PG** scores. For B.Tech, **JEE Main** scores are also considered.
 *   **CUET Cutoff:** Cutoffs vary by course. Competitive courses like B.Sc. (Hons) Psychology or integrated programs often require scores between 180–200+. PG program cutoffs typically range from 50 to 250 depending on the discipline. Candidates should check the official Samarth portal for exact dates and merit lists.
 

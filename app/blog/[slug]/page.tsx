@@ -10,6 +10,7 @@ import { ArrowLeft, Compass } from 'lucide-react';
 import { JsonLd } from "@/components/JsonLd";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { InquiryCard } from "@/components/InquiryCard";
+import { OnlineDegreeLeadBox } from "@/components/OnlineDegreeLeadBox";
 import { AdUnit } from "@/components/AdUnit";
 import { BlogViewCounter } from "@/components/BlogViewCounter";
 
@@ -337,6 +338,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             {postData.content || ''}
           </ReactMarkdown>
         </div>
+
+        {/* HIGH CONVERTING ONLINE DEGREE & ALL BLOGS LEAD GENERATION FORM */}
+        <OnlineDegreeLeadBox courseName={cleanedTitle} />
 
         {/* Display Ad unit under the blog article */}
         <AdUnit slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_BLOG_POST || "9876543210"} />

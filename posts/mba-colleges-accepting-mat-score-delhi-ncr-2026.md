@@ -38,7 +38,11 @@ For business aspirants in the Delhi National Capital Region (NCR), several highl
 
 These institutions are highly popular among MAT test-takers, offering a blend of strong academic mentoring and stable placements.
 
-### 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH) - Greater Noida
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH) - Greater Noida
 BIMTECH is a premier B-school in Greater Noida. While it accepts CAT/XAT for its core PGDM, it accepts MAT scores for its specialized PGDM in **Retail Management** and **Insurance Business Management**.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹14.0 - ₹15.0 Lakhs

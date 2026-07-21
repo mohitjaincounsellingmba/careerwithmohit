@@ -46,7 +46,11 @@ The Indian MBA admission cycle is a rigorous year-long process involving multipl
 
 To enter the 2026-2028 batch, you will be taking exams conducted in late 2025 and early 2026. 
 
-### CAT 2025 (Common Admission Test)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## CAT 2025 (Common Admission Test)
 The biggest and most important management exam in India, acting as the sole gateway to the prestigious 21 IIMs, [FMS Delhi](/colleges/fms-delhi), IITs, and hundreds of top private institutes.
 *   **Notification Release:** Late July 2025
 *   **Registration Window:** August 1, 2025 – Mid-September 2025

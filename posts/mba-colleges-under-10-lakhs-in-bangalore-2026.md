@@ -43,7 +43,11 @@ For students targeting the 2026 academic batch on a budget, we have compiled the
 
 These institutions keep tuition fees under ₹10 Lakhs (either total or annual, fitting well within a moderate budget) while offering solid placement opportunities.
 
-### 1. Canara Bank School of Management Studies, Bangalore University
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Canara Bank School of Management Studies, Bangalore University
 - **Approximate Fees:** ₹1.5 Lakhs (Total)
 - **Accepted Entrance Exams:** Karnataka PGCET
 - **Average Placement Package:** **₹6.0 LPA**

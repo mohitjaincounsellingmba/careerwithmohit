@@ -40,6 +40,10 @@ This comprehensive guide details everything you need to know about **MBBS admiss
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## MBBS Seat Matrix 2026
 
 The National Medical Commission (NMC) has approved an intake of **150 MBBS seats** for the 2026 academic session at Sharda Medical College Greater Noida.

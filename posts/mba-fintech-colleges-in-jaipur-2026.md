@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Jaipur for an MBA in FinTech?
 
 Jaipur is emerging as an important regional hub for IT services, logistics, and fintech operations in Northern India. B-schools in Jaipur offer specialized financial technology curricula that emphasize digital transaction models, financial analytics, algorithmic strategy, and risk modeling, preparing students for managerial placements.

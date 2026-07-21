@@ -35,7 +35,11 @@ Often regarded as one of the most intense B-schools in North India, Taxila deman
 *   **Why Choose**: Elite corporate placements, a rigorous dual-specialization curriculum (PGDM + SAP), and 14-hour daily schedules mirroring corporate life.
 *   **Admission Mode**: Profile-based direct admission after stringent PI and aptitude evaluations.
 
-### **2. GCEC Global Foundation ([Poornima University](/colleges/poornima-jaipur))**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. GCEC Global Foundation ([Poornima University](/colleges/poornima-jaipur))**
 GCEC (Global Centre for Entrepreneurship and Commerce) is rapidly becoming the gold standard for global finance and startup-focused MBAs in Rajasthan.
 *   **Total Fees (Approx.)**: ₹6.00 Lakhs
 *   **Average Placement**: ₹7.0 LPA - ₹10.0 LPA

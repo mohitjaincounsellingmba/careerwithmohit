@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Mumbai for an MBA in Marketing?
 
 Mumbai is the commercial and retail capital of India, housing the headquarters of major consumer conglomerates, media houses, and advertising agencies. Pursuing an MBA in Marketing in Mumbai offers direct access to the corporate world, guest lectures from top brand managers, and extensive internship opportunities.

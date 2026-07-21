@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Delhi NCR for an MBA in Marketing?
 
 Delhi National Capital Region (NCR) is one of the premier hubs for management education and corporate placement in India. For MBA aspirants looking to specialize in Sales & Marketing, Delhi NCR offers proximity to corporate headquarters in Gurgaon and Noida, access to legacy marketing institutes like FMS and IMT Ghaziabad, and robust campus recruitment drives by top FMCG, retail, and tech firms.

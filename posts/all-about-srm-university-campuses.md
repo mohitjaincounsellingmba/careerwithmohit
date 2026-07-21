@@ -47,6 +47,10 @@ Here is a detailed breakdown of the B.Tech program across all major SRM campuses
   - **SRM AP (Amaravati, Andhra Pradesh)**
   - **SRM Delhi-NCR (Modinagar)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Admission Details
 
 - **Program Offered:** B.Tech (AICTE Approved, NAAC A++ Accredited)

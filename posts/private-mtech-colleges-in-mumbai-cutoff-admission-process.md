@@ -30,7 +30,11 @@ If you are planning to take M.Tech admission in the 2026 academic batch, this gu
 
 Here is the list of top-ranked private engineering institutions in Mumbai offering M.Tech programs with outstanding Return on Investment (ROI) and advanced academic support:
 
-### 1. Sardar Patel Institute of Technology (SPIT)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Sardar Patel Institute of Technology (SPIT)
 - **Approximate Tuition Fees:** ₹1.6 Lakhs/year
 - **Accepted Entrance Exams:** GATE Score (CAP Rounds)
 - **Admission Cutoff / Eligibility:** GATE Score 450+ (Direct entry requires strong GATE ranking)

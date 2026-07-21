@@ -38,6 +38,10 @@ Yes, like many top private deemed universities in India, SRM University reserves
 
 This allows students to secure admission in their desired branch (like Computer Science Engineering) at their preferred campus without relying strictly on the SRMJEEE merit rank, provided they meet the basic academic eligibility criteria and are willing to pay the management fee structure.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## SRM Campuses Available for Direct Admission
 
 Direct admission is typically available across all major SRM campuses, though the demand and fees vary significantly based on the campus and the chosen specialization.

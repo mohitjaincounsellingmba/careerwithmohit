@@ -39,6 +39,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Why JMAU is an Emerging Choice in Kota?
 Jai Minesh Adivasi University (JMAU) is a progressive institution in Kota that focus on future-focused, inclusive learning environments.
 *   **Dual Specialization:** Unlike many regional colleges, JMAU allows you to specialize in TWO areas, doubling your career opportunities.

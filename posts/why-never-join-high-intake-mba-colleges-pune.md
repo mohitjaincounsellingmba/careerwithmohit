@@ -43,7 +43,11 @@ While these colleges have great campuses, here is the unfiltered reality: **Join
 
 ### **The Hidden Risks of High Intake (600+ Students)**
 
-#### **1. The "1,000 vs 5" Math**
+##
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **1. The "1,000 vs 5" Math**
 If a college has 1,000 students and a top recruiter like Deloitte or HUL visits, they aren't going to hire 100 people. They still have a quota of 5–10 students. 
 *   **Low Intake (120-180 students):** You compete with 18 people for one seat.
 *   **High Intake (1,000 students):** You compete with 100+ people for that same seat.

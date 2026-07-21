@@ -58,6 +58,10 @@ Whether you are looking for the absolute best ROI (under ₹2 Lakhs fees) or a g
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ ROI Champions: Government & Aided B-Schools
 
 Mumbai is famous for its high-ROI colleges where you pay less but earn like royalty.

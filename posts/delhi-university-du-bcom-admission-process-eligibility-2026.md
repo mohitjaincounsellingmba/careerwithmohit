@@ -55,6 +55,10 @@ If you are exploring alternative undergraduate options, don't forget to check ou
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📋 DU BCom Eligibility Criteria 2026
 
 To even be considered for admission, you must meet DU's absolute eligibility conditions. It's crucial because failure to map your subjects correctly will result in outright rejection.

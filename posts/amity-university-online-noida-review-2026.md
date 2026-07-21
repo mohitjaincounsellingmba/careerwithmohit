@@ -50,6 +50,10 @@ Amity's excellence is reflected in its global and national rankings:
 *   **MBA Recognition:** Its online MBA has been ranked among the best in Asia and #101-150 by QS WUR by Subject.
 *   **Accreditations:** Recognized by **WES (World Education Services)** in the US & Canada, making its degrees valid for international immigration and jobs.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## **Popular Online Courses Offered (2026)**
 
 Amity Online provides a diverse range of undergraduate and postgraduate programs:

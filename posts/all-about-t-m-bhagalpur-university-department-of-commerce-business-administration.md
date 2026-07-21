@@ -27,7 +27,11 @@ faqs:
 
 ---
 
-### 📊 [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration) 2026 Snapshot
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📊 [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

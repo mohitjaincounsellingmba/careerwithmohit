@@ -48,6 +48,10 @@ While CAT is known for high conceptual difficulty and strict sectional time limi
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Top OMET Exams: A Quick Breakdown
 
 ### 1. XAT (Xavier Aptitude Test)

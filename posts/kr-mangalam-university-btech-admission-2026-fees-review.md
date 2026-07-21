@@ -32,7 +32,11 @@ faqs:
 2.  **Assessment**: Includes a Personal Interview (PI) based on your KREE score or national test percentile.
 3.  **Specializations**: Flagship B.Tech in CSE (Core), with specialized tracks in Cyber Security, AI & ML, and Data Science.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 KRMU is reachable for aspirants with high Class 12 percentages or decent JEE ranks.
 
 | Admission Route | CSE (Core) Requirement | Core Engineering |

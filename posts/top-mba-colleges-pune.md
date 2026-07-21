@@ -57,6 +57,10 @@ Whether you are targeting Tier 1 B-schools or looking for **direct admission in 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Tier 1: The Giants of Pune (Symbiosis & PUMBA)
 
 ### 1. [SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management)

@@ -46,7 +46,11 @@ Here is a full review of the MUJ MBA program covering the latest 2026 fee struct
 
 ---
 
-### **MBA Fee Structure (2025-2026)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **MBA Fee Structure (2025-2026)**
 
 MUJ offers an intensive 2-year full-time MBA program. The fee structure has seen a recent revision to reflect the growing scale and facilities of the university.
 

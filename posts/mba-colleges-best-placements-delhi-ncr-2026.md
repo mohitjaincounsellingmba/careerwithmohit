@@ -31,6 +31,10 @@ faqs:
 ## Overview
 Placement records are a key factor when choosing an MBA program. In 2026, the Delhi NCR region continues to host several B‑schools with impressive **average salary packages exceeding ₹20 LPA** and strong corporate connections.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Top Placement Powerhouses (2026)
 | College | Avg. Package (₹ LPA) | Top Recruiters | Placement Rate |
 |---|---|---|---|

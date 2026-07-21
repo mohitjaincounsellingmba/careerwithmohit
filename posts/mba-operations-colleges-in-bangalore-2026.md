@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Bangalore for an MBA in Operations?
 
 Bangalore, the startup capital of India, hosts the corporate offices of major e-commerce platforms, tech corporations, and cloud services. Pursuing an MBA in Operations or Supply Chain here places you at the center of tech operations, e-commerce supply chain logistics, and digital logistics management, offering rich summer internships and premium placements.

@@ -53,6 +53,10 @@ Here is a quick snapshot to help you compare the core metrics of both institutio
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ 1. Welingkar (WeSchool) Overview
 
 Welingkar is renowned for its "design thinking" approach and offers highly specialized PGDM programs. Its location in Mumbai provides unparalleled access to corporate headquarters, live projects, and networking opportunities.

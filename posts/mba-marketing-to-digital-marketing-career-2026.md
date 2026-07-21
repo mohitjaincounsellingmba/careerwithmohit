@@ -50,6 +50,10 @@ The industry today values "T-shaped" professionals. Your MBA provides the broad,
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 2. Essential Skills to Master During Your MBA
 
 Don't wait until your placement season. Start building these technical layers on top of your management foundation:

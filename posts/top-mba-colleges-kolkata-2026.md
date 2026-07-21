@@ -60,6 +60,10 @@ Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI g
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Tier 1: The Global Authority
 
 ### 1. [IIM Calcutta](/colleges/iim-calcutta) (IIM-C)

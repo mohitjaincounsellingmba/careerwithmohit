@@ -41,6 +41,10 @@ Before applying, it is crucial to understand the regulatory landscape:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📋 Direct MBA Admission Eligibility & Process (2026)
 
 If you are targeting direct admission in Delhi NCR, the process typically follows these stages:

@@ -50,7 +50,11 @@ Whether you're a science graduate looking to specialize, a working professional 
 
 An **Online M.Sc** is a 2-year postgraduate science degree delivered entirely through an online learning platform. As per UGC norms, an online M.Sc from an accredited university holds **equal value** to a regular on-campus M.Sc degree.
 
-### Popular Online M.Sc Specializations:
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## Popular Online M.Sc Specializations:
 - Data Science & Analytics
 - Artificial Intelligence & Machine Learning
 - Information Technology

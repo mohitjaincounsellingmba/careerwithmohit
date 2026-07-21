@@ -39,7 +39,11 @@ faqs:
 2.  **Specializations**: The flagship program is B.Tech in Computer Science & Engineering, with minors in AI, Cyber Security, Blockchain, and Gaming.
 3.  **Application**: Round 1 applications typically close in March 2026.
 
-### **Expected Cutoffs & Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Cutoffs & Merit Requirements 2026**
 Bennett is accessible but requires high merit for its top specializations and scholarships.
 
 | Admission Route | CSE (Core) Requirement | AI / Data Science |

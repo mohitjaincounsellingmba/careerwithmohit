@@ -37,7 +37,11 @@ Ghaziabad, part of the Delhi National Capital Region, has a long-standing reputa
 
 Here is the detailed overview of the top management institutes in Ghaziabad accepting MAT scores for the 2026 admission cycle:
 
-### 1. Institute of Technology and Science (I.T.S)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Institute of Technology and Science (I.T.S)
 A well-established management institute offering excellent industry networking and stable placements.
 - **MAT Cutoff Percentile:** 65+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹6.50 Lakhs

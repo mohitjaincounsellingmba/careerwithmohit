@@ -39,7 +39,11 @@ If you are wondering why [ASM IIBR](/colleges/asm-iibr) Pune is a good option fo
 ### **1. Legacy & Academic Trust (42+ Years)**
 The ASM Group is not a "new" player. With over 42 years of history in management education and a massive alumni base of **75,000+** working in top MNCs globally, it has built a trust that newer colleges often lack. This legacy translates into a stable academic environment and deep-rooted industry connections.
 
-### **2. Industry-Driven Certifications (IBM, SAP, Harvard)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Industry-Driven Certifications (IBM, SAP, Harvard)**
 One of the unique selling points (USPs) of **[ASM IIBR](/colleges/asm-iibr)** is its integration of high-value industry certifications directly into the curriculum. Students often get access to:
 *   **IBM Masterclass**: Training in Big Data, Analytics, and Cloud Computing.
 *   **SAP Training**: Real-world ERP modules integrated into Finance and Operations.

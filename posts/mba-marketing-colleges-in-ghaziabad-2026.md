@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Ghaziabad for an MBA in Marketing?
 
 Ghaziabad offers a strong mix of elite, globally ranked business schools and highly affordable institutes. Being part of the industrial belt of Delhi NCR, it attracts extensive visits from consumer durables, manufacturing, and retail sales recruiters.

@@ -41,7 +41,11 @@ Set against a beautiful backdrop, Hemvati Nandan Bahuguna Garhwal University (HN
 | **Top Recruiters** | TCS, Wipro, Tech Mahindra, Infosys |
 | **Hostel Fees** | ₹3,000 - ₹5,000/year (Plus Mess) |
 
-### **Admission & CUET Cutoff**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Admission & CUET Cutoff**
 *   **Process:** Entirely merit-based through CUET. Candidates must register on the university’s counseling portal.
 *   **Cutoff Trends:** Highly variable. B.Tech (CSE) often requires scores upwards of 320–370. Programs like B.Sc Forestry also witness high competition (e.g., cutoffs up to 459 in recent years). Standard BA/B.Sc programs may have much more relaxed closing scores.
 

@@ -30,7 +30,11 @@ If you are a student targeting **Mumbai** for your management education, this co
 
 These institutions in **Mumbai** accept CUET UG scores for their integrated management tracks, providing a smooth pathway from undergraduate study to a full post-graduate MBA degree.
 
-### 1. Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) - Integrated MBA
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) - Integrated MBA
 - **Approximate Fees:** ₹3.5 Lakhs (Annual)
 - **Accepted Entrance Exams:** NPAT / CUET-UG
 - **Average Placement Package:** **₹9.5 LPA**

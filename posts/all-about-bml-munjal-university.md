@@ -34,7 +34,11 @@ faqs:
 *   **Global Mentorship**: Mentored by Imperial College London, bringing global standards to an Indian campus.
 *   **Innovation Focused**: Strong emphasis on "Learning by Doing" and entrepreneurial thinking.
 
-### **Placement Review (2024-2025 Batch)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Placement Review (2024-2025 Batch)**
 *   **Placement Rate**: Achieved a **90% placement rate** for the recent MBA batch.
 *   **Highest Package**: **₹17 LPA**.
 *   **Top 10% Avg**: **₹13.39 LPA**.

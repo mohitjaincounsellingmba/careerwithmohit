@@ -39,6 +39,10 @@ faqs:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Why OKIMR is the Regional Workhorse in Kota?
 Om Kothari Institute (OKIMR) has been a stable pillar of management education in Kota for decades, focusing on creating career-ready graduates for the regional job market.
 *   **100% Placement Support:** A dedicated cell ensures every student gets multiple interview opportunities in local and regional sectors.

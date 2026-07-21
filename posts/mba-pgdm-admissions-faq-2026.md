@@ -45,7 +45,11 @@ In the corporate world, no. Top B-schools like IIMs (which converted to degrees 
 
 ---
 
-### **AIU Equivalence & Eligibility (Critical)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **AIU Equivalence & Eligibility (Critical)**
 
 **4. What happens if my PGDM is from a non-AIU approved institute?**
 If your institute has AICTE approval but NOT AIU equivalence:

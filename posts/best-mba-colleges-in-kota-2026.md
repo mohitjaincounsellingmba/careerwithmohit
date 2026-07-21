@@ -40,7 +40,11 @@ In this comprehensive guide, we feature the **Best MBA Colleges in Kota** catego
 ## 🏛️ Government Institutions in Kota
 Government colleges in Kota are the first choice for students seeking high ROI (Return on Investment) due to their low fee structures and recognized degrees.
 
-### 1. Rajasthan Technical University (RTU), Kota
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Rajasthan Technical University (RTU), Kota
 - **Fees:** ~₹1.29 Lakhs (Total)
 - **Average Placement:** ₹7.0 - ₹8.0 LPA (Highest ₹29 LPA)
 - **Entrance Exam:** CMAT, RMAP (Rajasthan Management Admission Process)

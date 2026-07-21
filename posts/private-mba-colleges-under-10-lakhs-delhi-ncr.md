@@ -54,6 +54,10 @@ If you are a budget-conscious aspirant aiming for the 2026-2028 academic cycle, 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
 
 GNIOT has rapidly ascended the ranks as a premier choice for students seeking a rigorous, placement-driven MBA without a premium price tag. 

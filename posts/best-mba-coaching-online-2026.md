@@ -48,7 +48,11 @@ The most competitive MBA entrance exam in India. Top providers focus on conceptu
 
 ---
 
-### 2. XAT (Xavier Aptitude Test)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 2. XAT (Xavier Aptitude Test)
 XAT requires a unique focus on Decision Making and Verbal Ability.
 
 *   **Mindworkzz**: Led by Arun Sharma, they provide specialized modules for the "Decision Making" section which is crucial for XAT.

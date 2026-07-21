@@ -55,6 +55,10 @@ Based on the latest trends, here is how your **raw score (out of 300)** translat
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 How the CUET PG Predictor Helps You
 
 Our tool isn't just a list; it's a dynamic algorithm that categorizes your chances:

@@ -41,7 +41,11 @@ When it comes to PGDM in Delhi, the "JIMS" brand is a staple. However, with mult
 
 ---
 
-### **The JIMS Rohini 'Reality Check': Reasons to Reconsider**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **The JIMS Rohini 'Reality Check': Reasons to Reconsider**
 While JIMS Rohini holds a high NIRF rank, there are several "pain points" that current aspirants must consider before locking in their ₹10.8 Lakh investment:
 
 #### **1. Zero Campus Life & Massive Congestion**

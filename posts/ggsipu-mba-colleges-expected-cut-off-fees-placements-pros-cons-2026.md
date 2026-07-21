@@ -52,6 +52,10 @@ Unlike other universities, GGSIPU does not conduct a single entrance exam for al
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏫 College-Wise Breakdown: Fees, Placements, Pros & Cons
 
 ### 1. University School of Management Studies (USMS), Dwarka (Main Campus)

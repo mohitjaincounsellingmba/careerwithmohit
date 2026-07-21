@@ -36,7 +36,11 @@ The Department of Management Sciences (PUMBA) at Savitribai Phule Pune Universit
 *   **Average Fees**: ₹1.3 Lakhs - ₹2.4 Lakhs (Total)
 *   **Entrance Exam**: MAH MBA CET (99.5+ Percentile) / CMAT / CAT
 
-### **The PUMBA Advantage:**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **The PUMBA Advantage:**
 *   **Unmatched ROI**: With a total fee of around ₹2 Lakhs and an average package of ₹10 LPA, you recover your investment in just 3-4 months.
 *   **University Brand**: Being part of Pune University (the "Oxford of the East") provides massive academic and cultural prestige.
 *   **Corporate Exposure**: Regular workshops and seminars with Pune's vast industrial network.

@@ -27,7 +27,11 @@ faqs:
 
 ---
 
-### 📊 [Xavier Kumbakonam Graduate School of Management](/colleges/xavier-kumbakonam-graduate-school-of-management) 2026 Snapshot
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📊 [Xavier Kumbakonam Graduate School of Management](/colleges/xavier-kumbakonam-graduate-school-of-management) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |

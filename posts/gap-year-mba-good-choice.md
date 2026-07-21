@@ -40,6 +40,10 @@ Most aspirants consider a gap year for two primary reasons:
 1.  **Undivided Focus**: Balancing a high-pressure job with 4-5 hours of daily CAT/XAT preparation is challenging. A gap year provides 10-12 hours of focused study time.
 2.  **Targeting the Top Tier**: If your current mock scores are significantly lower than what is required for your dream college, a focused year can help bridge that gap.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Pros of Taking a Drop for MBA
 
 ### 1. Maximum Preparation Intensity

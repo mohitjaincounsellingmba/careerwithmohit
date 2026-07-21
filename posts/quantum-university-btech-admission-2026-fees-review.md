@@ -39,7 +39,11 @@ faqs:
 2.  **Assessment**: Includes a Personal Interview (PI) based on your Q-Care score or JEE percentile.
 3.  **Specializations**: B.Tech in CSE (Core), with specialized tracks in AI & ML, Cyber Security, and Cloud Computing.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 Quantum is reachable for aspirants with decent Class 12 percentages or JEE scores.
 
 | Admission Route | CSE (Core) Requirement | AI / Cyber Security |

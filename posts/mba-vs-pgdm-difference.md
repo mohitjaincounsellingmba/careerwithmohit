@@ -58,6 +58,10 @@ In this guide, we break down **12 key differences** to help you decide which pat
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Top Colleges to Consider
 
 ### Top MBA Colleges in India

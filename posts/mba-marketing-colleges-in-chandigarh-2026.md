@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Chandigarh for an MBA in Marketing?
 
 Chandigarh is a major commercial and educational focal point in Northern India. The region offers stellar options ranging from elite university departments under Panjab University to highly popular private universities providing extensive corporate placement infrastructure.

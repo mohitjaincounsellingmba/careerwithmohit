@@ -32,6 +32,10 @@ St. Xavier's offers a unique "Credit-Based" system that encourages students to p
 - **Central Location:** Located in South Mumbai (Fort), providing exposure to the city's intellectual and cultural hubs.
 - **Vibrant Culture:** Famous for its annual festival 'Malhar' and a strong focus on holistic development.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💰 Latest Fee Structure (2026)
 St. Xavier's is an autonomous government-aided college, making it very affordable. For 2026:
 - **Annual Tuition Fee:** ₹50,000 – ₹70,000 per year (for BMS).

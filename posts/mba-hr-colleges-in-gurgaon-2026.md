@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Gurgaon for an MBA in HR?
 
 Gurugram (Gurgaon) is one of the premier business cities in India, hosting corporate headquarters for major multinationals, tech companies, and banking giants. For MBA Human Resources students, Gurgaon offers a highly dynamic environment, enabling direct interaction with top human resource executives and immediate access to premium corporate hiring pipelines.

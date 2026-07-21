@@ -41,6 +41,10 @@ faqs:
 | **Average Package** | ₹4.50 LPA - ₹4.80 LPA |
 | **Top Recruiters** | Infosys, Wipro, TCS, PowerGrid |
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Admission Process & CUET Cutoff
 
 *   **General Programs**: Admissions are routed through **CUET**. Expected General category cutoffs can range from 320 to 650+ depending heavily on the program's competitiveness.

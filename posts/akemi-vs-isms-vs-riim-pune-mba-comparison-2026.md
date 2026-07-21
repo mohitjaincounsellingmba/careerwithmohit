@@ -41,7 +41,11 @@ If you are looking for an **MBA in Digital Marketing** with high-end placements,
 
 Akemi Business School, located in the thriving educational hub of Tathawade, has built a reputation for **personalized management training**. Unlike colleges that treat students as just another number, Akemi focuses on a "Tailor-Made Career" approach.
 
-### **1. Digital Marketing Dominance**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **1. Digital Marketing Dominance**
 While many colleges offer Digital Marketing as a sub-specialization, Akemi takes it to the next level. 
 *   **Industry-Ready Certifications**: Akemi provides students with prestigious certifications from **IIM Kozhikode/[IIM Calcutta](/colleges/iim-calcutta)** and **Google Adwords/SEO**.
 *   **Practical Edge**: The curriculum is designed around live projects, ensuring students are ready for high-paying roles in the digital economy.

@@ -39,7 +39,11 @@ Here is the unfiltered truth about why you should probably **Skip the NMIMS Onli
 [NMIMS Mumbai](/colleges/nmims-mumbai) (SBM) is a powerhouse. It is ranked among India's Top 10 B-schools. However, **NMIMS Online is a completely different entity.**
 *   **The Reality**: Employers know the difference. When you list "NMIMS MBA" on your LinkedIn, but it’s from the online portal, you are not getting the prestige of the Mumbai campus. In fact, it can sometimes work against you as it shows you "settled" for a lower-hurdle degree.
 
-### **2. The 'Zero Placement' Guarantee**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. The 'Zero Placement' Guarantee**
 NMIMS Online aggressively markets their "Job Portal," but don't be fooled. 
 *   **No Active Placements**: Unlike the full-time program where companies come to campus to recruit, the online version gives you access to a generic job board. You are essentially on your own when it comes to finding a job.
 *   **HR Perspective**: In the 2026 hiring market, recruiters still prioritize candidates with **regular, full-time interaction** because of the soft skills, networking, and leadership grooming that online programs simply cannot provide.

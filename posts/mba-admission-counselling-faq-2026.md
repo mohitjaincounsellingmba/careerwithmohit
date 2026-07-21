@@ -59,6 +59,10 @@ No ethical counsellor can guarantee admission. What they can guarantee is: maxim
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📋 Section 2: Eligibility & Exam Strategy
 
 **6. What is the minimum eligibility for MBA in India?**

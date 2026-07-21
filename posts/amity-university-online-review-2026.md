@@ -48,6 +48,10 @@ Thinking of enrolling? Here is everything you need to know about India’s most 
 
 👉 **[Launch Your Application for Amity Online](/inquiry)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Popular Programs & Fee Structure
 Amity offers a wide range of undergraduate and postgraduate programs. The most sought-after ones include:
 

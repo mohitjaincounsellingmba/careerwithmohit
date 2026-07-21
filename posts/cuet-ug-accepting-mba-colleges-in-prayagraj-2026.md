@@ -30,7 +30,11 @@ If you are a student targeting **Prayagraj** for your management education, this
 
 These institutions in **Prayagraj** accept CUET UG scores for their integrated management tracks, providing a smooth pathway from undergraduate study to a full post-graduate MBA degree.
 
-### 1. Department of Management (Integrated Program), University of Prayagraj
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Department of Management (Integrated Program), University of Prayagraj
 - **Approximate Fees:** ₹40,000 - ₹90,000 (Annual)
 - **Accepted Entrance Exams:** CUET-UG
 - **Average Placement Package:** **₹4.5 LPA - ₹6.0 LPA**

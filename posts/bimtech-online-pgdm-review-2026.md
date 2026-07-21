@@ -47,6 +47,10 @@ If you are looking for an AICTE-approved, industry-integrated online program wit
 *   **NIRF Ranking:** Consistently ranked among the top 70 management institutes in India (#64 in 2024).
 *   **Industry Links:** Strong partnerships with 300+ corporate giants for placements and live projects.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## **Specialized PGDM Programs Offered**
 
 BIMTECH is unique in offering niche specializations even in its online format:

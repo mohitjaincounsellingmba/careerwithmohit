@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Chennai for an MBA in HR?
 
 Chennai is a major manufacturing and commercial hub in South India. Along with traditional manufacturing conglomerates, the city has a massive presence of IT service providers and financial institutions. Pursuing an MBA in HR in Chennai offers unique exposure to industrial relations (IR), labor laws, and strategic corporate human resource planning.

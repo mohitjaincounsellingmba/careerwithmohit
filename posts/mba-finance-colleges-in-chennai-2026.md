@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Chennai for an MBA in Finance?
 
 Chennai is a major financial hub, hosting key operations for the World Bank and major corporate banks. B-schools in the Chennai region possess a legacy of deep quantitative analysis and corporate finance systems, making it a hotspot for treasury and portfolio management.

@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Pune for an MBA in Finance?
 
 Known as the Oxford of the East, Pune is a booming hub for Information Technology, Automobile Manufacturing, and Banking & Financial Services (BFSI). If you aim to build a career in banking, risk management, or treasury, Pune hosts specialized institutes set up under the Reserve Bank of India, alongside premier private and state universities.

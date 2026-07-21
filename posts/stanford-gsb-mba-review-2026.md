@@ -49,6 +49,10 @@ Stanford Graduate School of Business offers a rigorous MBA program characterized
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💰 Fees Breakdown (Converted to INR)
 
 Understanding the true cost of an MBA abroad involves tuition fees, living expenses, and miscellaneous costs. The estimated costs for the upcoming 2026 academic year are below:

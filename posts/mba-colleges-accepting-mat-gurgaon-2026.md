@@ -37,7 +37,11 @@ Gurgaon (Gurugram), known as the millennium city of India, is home to over 250 F
 
 Here is the detailed overview of the top management institutes in Gurgaon accepting MAT scores for the 2026 admission cycle:
 
-### 1. Great Lakes Institute of Management
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Great Lakes Institute of Management
 Offers a highly intensive PGPM (1 Year) and PGDM (2 Years) with prime tech and analytics industry links.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹19.8 Lakhs

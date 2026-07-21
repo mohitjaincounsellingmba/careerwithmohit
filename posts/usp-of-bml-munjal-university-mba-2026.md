@@ -56,6 +56,10 @@ Here are the **10 real USPs of [BML Munjal University](/colleges/bml-munjal-gurg
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 10 Unique Selling Points (USPs) of [BML Munjal University](/colleges/bml-munjal-gurgaon)
 
 ### 1. 🏭 Hero Group Founding Legacy — India's Most Trusted Industrial Brand

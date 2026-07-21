@@ -54,7 +54,11 @@ This is one of the most popular need-based scholarships for students from financ
 
 ---
 
-### **2. Aditya Birla Scholarship**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Aditya Birla Scholarship**
 A highly prestigious merit-based award for students at top-tier B-schools.
 
 *   **Scholarship Amount**: ₹3 Lakhs per annum.

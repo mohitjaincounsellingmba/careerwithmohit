@@ -36,7 +36,11 @@ faqs:
 2.  **Merit Route**: Based on Class 12 PCM marks (minimum 60% aggregate overall and in PCM for CSE).
 3.  **Sponsored Seats**: Available with slightly relaxed eligibility (55% overall and 65% in PCM for CSE) at higher tuition fees.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 Amity Noida is reachable for aspirants with decent Class 12 percentages or JEE ranks.
 
 | Admission Route | CSE (Core) Requirement | Core Engineering |

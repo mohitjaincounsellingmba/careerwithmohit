@@ -36,7 +36,11 @@ faqs:
 2.  **Assessment**: Includes a thorough review of your academic profile and a mandatory **Personal Interview (PI)**.
 3.  **Specializations**: B.Tech in CSE, Electronics & Computer Engineering, and Mechanical Engineering.
 
-### **Expected Merit Requirements 2026**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Expected Merit Requirements 2026**
 BMU looks at a holistic profile, not just exam scores.
 
 | Admission Route | CSE (Core) Requirement | Core Engineering |

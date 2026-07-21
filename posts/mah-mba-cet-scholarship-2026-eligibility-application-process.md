@@ -39,7 +39,11 @@ In this guide, we break down everything you need to know about the **MAH MBA CET
 
 Most state scholarships in Maharashtra are administered through the **MahaDBT (Direct Benefit Transfer)** portal. Here are the most common schemes:
 
-#### **A. Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)**
+##
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **A. Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)**
 *   **Target Group**: Economically Backward Class (EBC) / Open Category students.
 *   **Benefit**: 50% reimbursement of the tuition fee and 50% of the development fee.
 *   **Eligibility**: 

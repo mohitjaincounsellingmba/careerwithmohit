@@ -41,7 +41,11 @@ Admissions at BBAU are competitive and primarily entrance-based:
 *   **Counselling:** After the announcement of CUET results, candidates must register on the official BBAU admission portal (bbau.ac.in). The university conducts online counselling, where seats are allocated based on merit, CUET scores, and course preferences.
 *   **Documentation:** Shortlisted candidates must verify their documents on the Samarth portal and pay the admission fee to confirm their seat.
 
-### 📊 CUET Cutoff Trends
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📊 CUET Cutoff Trends
 
 The cutoffs for BBAU vary depending on the program, category, and overall performance in the CUET exam. 
 *   **Nature of Cutoff:** BBAU releases course-wise and category-wise (General, OBC, SC, ST, EWS) cutoffs on its official website after the CUET results are declared.

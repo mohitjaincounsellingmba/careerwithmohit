@@ -65,6 +65,10 @@ This post breaks down the **USPs of each program** at [BML Munjal University](/c
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## The Core USP That Runs Across ALL Programs at BMU
 
 Before diving into program-specific USPs, here's what makes BMU distinctly different from any other private university in India:

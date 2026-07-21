@@ -45,6 +45,10 @@ Designed to empower ambitious professionals and fresh graduates, the **Shoolini 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## ✅ Why the Shoolini University Online MBA is a Phenomenal Choice
 
 ### 1. Superior Academic Flexibility

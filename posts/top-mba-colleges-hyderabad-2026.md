@@ -58,6 +58,10 @@ Whether you are aiming for the global prestige of ISB or looking for high-brand 
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🏛️ Tier 1: The Global Authority
 
 ### 1. ISB Hyderabad (Indian School of Business)

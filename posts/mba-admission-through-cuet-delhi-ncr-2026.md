@@ -33,6 +33,10 @@ faqs:
 - **Multiple Seats:** Both public and private institutions in Delhi NCR allocate a sizable quota for CUET‑score holders.
 - **Flexibility:** Allows you to apply to a variety of specialisations (Finance, Marketing, HR, etc.) after the exam.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Eligibility Criteria (2026)
 | Requirement | Detail |
 |---|---|

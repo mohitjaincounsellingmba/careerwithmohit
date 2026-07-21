@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Delhi NCR for an MBA in FinTech?
 
 Delhi National Capital Region (NCR) stands as a prominent corporate and financial services center, hosting global consultancies, public sector banks, private financial institutions, and rising fintech startups. Pursuing an MBA or PGDM in Financial Technology (FinTech) in Delhi NCR provides direct exposure to the digital finance landscape. With major corporate setups in Gurgaon and Noida, students benefit from regular guest lectures by financial sector experts, live projects in digital banking, and excellent campus placements in investment banking, financial analysis, and fintech strategy.

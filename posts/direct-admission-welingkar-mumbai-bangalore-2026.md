@@ -38,6 +38,10 @@ Welingkar is known for its specialized PGDM programs that cater to emerging indu
 - **Bangalore Campus**: Situated in Electronic City, perfect for students eyeing roles in Tech and E-commerce.
 - **Placements**: Average packages are around **₹12 LPA to ₹12.5 LPA**.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Welingkar Direct Admission: How it Works
 
 Unlike traditional "donation" seats, Welingkar's management quota is a structured process that prioritizes profiles alongside merit.

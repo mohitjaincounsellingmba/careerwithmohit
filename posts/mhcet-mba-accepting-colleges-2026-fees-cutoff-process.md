@@ -39,7 +39,11 @@ If you are planning to take the MAH CET in 2026, here is an in-depth guide to th
 
 When targeting MAH CET, colleges are often broadly categorized into high-ROI government institutes and top-tier private/autonomous colleges. Below is a curated list of top colleges accepting MHCET scores along with their expected cutoffs and fees.
 
-### 1. The "ROI Masters": Government & University Departments
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. The "ROI Masters": Government & University Departments
 These institutes offer unmatched return on investment (ROI) due to heavily subsidized fees and excellent placement records.
 
 | College Name | Location | Expected Cutoff (Percentile) | Approx. Total Fees (2 Yrs) |

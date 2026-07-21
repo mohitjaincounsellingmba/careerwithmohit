@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Kolkata for an MBA in Marketing?
 
 Kolkata possesses a rich legacy in commerce and corporate operations. From the premier business schools like [IIM Calcutta](/colleges/iim-calcutta) to high-ROI heritage institutions, Kolkata remains a top destination for serious marketing students who want to build a career in consumer retail, services marketing, and strategy.

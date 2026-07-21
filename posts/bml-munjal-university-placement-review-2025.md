@@ -44,7 +44,11 @@ faqs:
 | **Top 25% Average** | ₹12.10 LPA |
 | **Top Sector** | Business Analytics, Finance & Marketing |
 
-### **Sector-Wise Placement Breakdown:**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Sector-Wise Placement Breakdown:**
 *   **Business Analytics**: BMU has been highly successful in placing students in analytics and data science roles, with dedicated recruiters like Cognizant and ServiceNow.
 *   **Finance & Operations**: Huge demand from the BFSI sector, specifically with Axis Bank, BNY, and S&P Global.
 *   **Automobile/Manufacturing**: Being part of the Hero Group, students have exceptional access to manufacturing giants like Hero MotoCorp and Maruti Suzuki.

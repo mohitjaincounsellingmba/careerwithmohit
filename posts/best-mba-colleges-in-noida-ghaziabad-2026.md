@@ -39,7 +39,11 @@ In this guide, we have ranked the **Best MBA Colleges in Noida and Ghaziabad** b
 ## Tier 1: The Leaders & High ROI
 These institutes are nationally ranked and are the primary choice for students seeking top-tier corporate roles.
 
-### 1. IMT Ghaziabad (Institute of Management Technology)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. IMT Ghaziabad (Institute of Management Technology)
 - **Status:** Nationally ranked among the top B-schools in India.
 - **Fees:** ₹21.5 Lakhs
 - **Average Placement:** ₹18.9 LPA (Highest ₹62.8 LPA)

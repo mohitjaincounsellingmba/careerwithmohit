@@ -39,7 +39,11 @@ Admissions to CUP are primarily based on national-level entrance examinations:
 *   **Ph.D.:** Conducted via a separate university-level entrance and interview process.
 *   **Counseling:** After entrance results are declared, candidates must register on the official **SAMARTH portal** to participate in the university’s centralized counseling process. Merit lists are prepared based on entrance scores and reservation policies.
 
-### 📊 CUET Cutoff Trends
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 📊 CUET Cutoff Trends
 
 The cutoffs at CUP vary depending on the specific program and candidate category.
 *   **UG Programs:** Cutoffs for popular courses often see competitive ranges (e.g., 550–850 out of the total score for various professional courses).

@@ -47,6 +47,10 @@ For the 2026-27 academy session, Jaipuria Online PGDM stands as a professional, 
 
 👉 **[Start Your Premium PGDM at Jaipuria Online](/inquiry)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Online PGDM Program & Fee Structure
 Jaipuria's online PGDM is highly specialized for the 2026 workforce:
 

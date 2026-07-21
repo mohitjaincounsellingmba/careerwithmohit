@@ -50,6 +50,10 @@ Key Accreditations and Facts:
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 📚 Online Courses Available at VGU
 
 VGU provides numerous undergraduate and postgraduate courses in 100% online mode. The curriculum combines self-learning materials, live interactive sessions, and recorded classes by industry experts.

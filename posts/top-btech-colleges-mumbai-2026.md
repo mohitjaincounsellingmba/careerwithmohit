@@ -64,6 +64,10 @@ This guide covers the **top B.Tech colleges in Mumbai for 2026** with verified f
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Tier 1 — IIT & Government Elite
 
 ### 1. [IIT Bombay](/colleges/iit-bombay) (IITB)

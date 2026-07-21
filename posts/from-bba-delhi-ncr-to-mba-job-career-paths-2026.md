@@ -53,6 +53,10 @@ graph TD
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💼 Pathway 1: Immediate Job Placements (Work Experience First)
 Securing 2-3 years of work experience before pursuing an MBA is highly recommended by top-tier business schools.
 

@@ -39,6 +39,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Delhi NCR for an MBA in HR?
 
 Delhi National Capital Region (NCR) stands as the corporate nerve center of India, housing the headquarters of countless Fortune 500 corporations, public sector undertakings, and rising startups. For MBA aspirants looking to specialize in Human Resource Management (HRM), Delhi NCR offers immediate access to corporate offices in Gurgaon, Noida, and New Delhi. This proximity translates to guest lectures by top Chief Human Resource Officers (CHROs), rich summer internship profiles, and stellar final placements in compensation, talent acquisition, and organizational development.

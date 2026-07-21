@@ -30,7 +30,11 @@ For students planning their admissions for the 2026 academic year, here is a det
 
 These private business schools keep their total tuition fees under ₹10 Lakhs (or offer highly competitive packages) while maintaining active corporate relations and placement support.
 
-### 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.8 LPA**

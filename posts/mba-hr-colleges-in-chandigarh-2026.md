@@ -37,6 +37,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Chandigarh for an MBA in HR?
 
 Chandigarh is a major commercial, administrative, and educational center in Northern India. The region offers highly popular university departments and private institutions that provide state-of-the-art infrastructure, corporate mentorship programs, and strong campus placements.

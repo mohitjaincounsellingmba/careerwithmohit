@@ -42,7 +42,11 @@ To help students adjust to this unique, adaptive format, we have launched our co
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the pattern of NMAT 2026?
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## What is the pattern of NMAT 2026?
 NMAT consists of 108 questions to be answered in 120 minutes. The sections are Language Skills (36 Qs, 28 mins), Quantitative Skills (36 Qs, 52 mins), and Logical Reasoning (36 Qs, 40 mins).
 
 ### Is there negative marking in the NMAT exam?

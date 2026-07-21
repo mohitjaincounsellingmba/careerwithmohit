@@ -43,7 +43,11 @@ These institutions are government-backed or university-affiliated, which keeps t
 *   **DFS & DBE (Delhi University):** The Department of Financial Studies and Department of Business Economics offer highly specialized programs. They are extremely affordable and have a rock-solid reputation in the finance and analytics sectors.
 *   **SIMSREE Mumbai:** Similar to JBIMS, Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies) offers an incredibly affordable program with excellent placements in the Mumbai corporate market.
 
-### 2. IIT-Based B-Schools: The Tech & Management Blend
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 2. IIT-Based B-Schools: The Tech & Management Blend
 
 The Departments of Management Studies (DMS) at various IITs are significantly underrated. They benefit from the prestigious IIT brand, superior technical infrastructure, and highly qualified faculty.
 

@@ -45,7 +45,11 @@ While top-tier government colleges require strict entrance scores, many high-qua
 
 There are three primary legal routes to securing a seat without a national entrance test score:
 
-### 1. Management Quota Seats (15-20%)
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Management Quota Seats (15-20%)
 Most private and minority-affiliated B-schools in India (Noida, Pune, Mumbai, Bangalore) have a legally allotted **Management Quota**. These seats are filled directly by the institute based on merit and individual student profiles.
 
 ### 2. Institute-Level Entrance Tests

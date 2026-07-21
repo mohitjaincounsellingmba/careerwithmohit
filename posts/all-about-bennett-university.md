@@ -38,7 +38,11 @@ faqs:
 *   **Premium Brand**: Positioned as one of the most prestigious private universities in India with a global academic approach.
 *   **Tech-Forward**: Strong integration of technology and data analytics into the core management curriculum.
 
-### **Placement Review (2025 Batch)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Placement Review (2025 Batch)**
 *   **Highest Package**: **₹33 LPA** (For the MBA batch).
 *   **Average Package**: **₹7.41 LPA**.
 *   **Top Recruiters**: Adani Group, Colgate, Deloitte, KPMG, IBM, ITC, and PwC.

@@ -40,7 +40,11 @@ One of the most frequent complaints revolves around placement claims. While the 
 * Students specializing in **Finance** or **Human Resources (HR)** often struggle, finding themselves pushed towards Marketing or general management profiles to secure a job.
 * The starting packages for average students can hover around ₹4.5 LPA to ₹6 LPA, making the Return on Investment (ROI) a significant concern when compared to the fees paid.
 
-### **2. Exhausting Schedules and Burnout**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. Exhausting Schedules and Burnout**
 The academic rigor at Sai Balaji Pune is famous for being extremely intense. Students frequently point out the exhausting daily schedule, which often stretches from **9:00 AM to 6:00 PM** (and sometimes even later). 
 * While the administration intends to build "corporate readiness" and discipline, many students describe it as draining. 
 * The intense focus on continuous assignments, strict attendance, and certification courses leaves very little room for personal development, self-study, or a vibrant campus life.

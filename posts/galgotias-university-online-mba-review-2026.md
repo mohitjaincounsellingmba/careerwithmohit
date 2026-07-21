@@ -62,6 +62,10 @@ Here's our honest, data-backed review of whether it's the right choice for you.
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 💸 Galgotias Online MBA Fee Structure 2026
 
 | Payment Type | Amount |

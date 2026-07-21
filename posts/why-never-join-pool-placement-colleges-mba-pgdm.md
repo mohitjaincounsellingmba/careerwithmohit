@@ -40,7 +40,11 @@ In a pool placement scenario, a university (like Amity, Christ, or LPU) will bri
 *   Instead of competing with 120 of your own classmates, you are now competing with **1,200+ students** for the same role.
 *   Companies don't double their hiring quota just because there are more campuses. They still want 5-10 people. Your odds of success just crashed by 90%.
 
-### **2. The \"Flagship Campus\" Bias**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. The \"Flagship Campus\" Bias**
 Let's be honest: If a recruiter from Google or Deloitte visits a "Common Pool" at a university's main campus, they are mentally biased toward the **Main Campus students**.
 *   Students at the satellite campuses (NCR, Pune, etc.) are often treated as "secondary" or "backup" fillers.
 *   The "Cream" roles and premium consulting profiles almost always go to the flagship campus toppers before other campuses even get a chance.

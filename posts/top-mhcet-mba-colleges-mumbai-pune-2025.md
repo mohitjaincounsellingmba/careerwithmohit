@@ -42,7 +42,11 @@ In this guide, we break down the **Top MAH CET MBA Colleges** by their latest cu
 
 If you are looking for the absolute best value for your money, these three government-backed institutes are the gold standard.
 
-### 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
 - **Status**: The "CEO Factory" of India.
 - **Estimated Cutoff (Gen)**: 99.98+ Percentile
 - **Total Fees**: ~₹6.0 Lakhs

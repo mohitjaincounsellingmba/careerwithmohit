@@ -44,7 +44,11 @@ Here is an in-depth review of the VGU Jaipur MBA program, covering the actual fe
 
 ---
 
-### **MBA Fee Structure (2026 Intake)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **MBA Fee Structure (2026 Intake)**
 
 VGU offers multiple MBA specializations, including Digital Marketing, Finance, HR, and Agri-Business Management. The fee structure is quite balanced.
 

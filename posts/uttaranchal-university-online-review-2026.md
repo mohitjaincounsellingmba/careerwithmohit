@@ -47,6 +47,10 @@ Based in the serene education hub of Dehradun, [Uttaranchal University](/college
 
 👉 **[Start Your Admission Journey at [Uttaranchal University](/colleges/uttaranchal-university) Online](/inquiry)**
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Popular Programs & Fee Structure
 [Uttaranchal University](/colleges/uttaranchal-university)’s online programs are optimized for the 2026 workforce:
 

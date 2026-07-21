@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Chennai for an MBA in Operations?
 
 Chennai is a major manufacturing, automobile, and financial service hub. B-schools in the Chennai region possess a legacy of deep analytical and quantitative training, combining core operations research with port logistics and supply chain analytics, making it a hot spot for manufacturing and services operations.

@@ -49,6 +49,10 @@ Based on previous trends, the MHCET MBA answer key and response sheet are typica
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## How to Download MHCET MBA 2026 Answer Key PDF?
 
 Once released, candidates can download their individual response sheets by following these steps:

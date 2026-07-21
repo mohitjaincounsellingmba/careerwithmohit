@@ -48,6 +48,10 @@ Designed to empower ambitious professionals and fresh graduates, the **Sharda On
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## ✅ Why the [Sharda University](/colleges/sharda-greater-noida) Online MBA is a Phenomenal Choice
 
 ### 1. Superior Academic Flexibility

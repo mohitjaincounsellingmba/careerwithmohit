@@ -45,7 +45,11 @@ To help you plan your budget and preparation strategy, we have compiled the ulti
 
 ---
 
-### **Detailed Breakdown of Major Exams**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **Detailed Breakdown of Major Exams**
 
 #### **1. CAT (Common Admission Test)**
 The "Gold Standard" of Indian MBA exams.

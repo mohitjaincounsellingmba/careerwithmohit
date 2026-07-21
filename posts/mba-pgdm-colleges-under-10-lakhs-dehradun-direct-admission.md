@@ -32,7 +32,11 @@ DBS is arguably the most famous name in Dehradun specifically for management edu
 *   **Why Choose**: High focus on agribusiness alongside core management, great practical exposure, global certifications (like SAP).
 *   **Admission Mode**: Profile-based direct admission via their internal GD/PI shortlisting. (MAT/CAT used as a weightage factor).
 
-### **2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)**
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## **2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)**
 Graphic Era is synonymous with Dehradun's education scene. It’s an enormous, vibrant campus that commands high respect amongst North Indian recruiters.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹7.50 Lakhs 
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA

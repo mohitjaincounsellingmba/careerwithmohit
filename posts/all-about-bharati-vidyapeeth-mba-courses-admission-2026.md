@@ -53,6 +53,10 @@ Bharati Vidyapeeth operates through several constituent units across multiple ci
 3.  **Navi Mumbai:** Located in CBD Belapur.
 4.  **Other Locations:** Sangli, Solapur, Kolhapur, Karad, and Satara.
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## Top Courses & Entrance Exams 2026
 
 BVP conducts its own national-level entrance tests for most of its programs. Here are the key highlights:

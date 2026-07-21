@@ -37,7 +37,11 @@ Here is a detailed analysis of the **Best MBA Colleges with Placement in Delhi N
 
 These premier institutions are highly selective, matching the best IIMs in terms of recruitments, salaries, and corporate roles.
 
-### 1. Faculty of Management Studies (FMS) - Delhi University
+#
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. Faculty of Management Studies (FMS) - Delhi University
 [FMS Delhi](/colleges/fms-delhi) is a placement powerhouse, consistently placing 100% of its students in record time.
 - **Average Placement Package:** **₹34.10 LPA**
 - **Highest Salary Package:** **₹1.2 Crore**

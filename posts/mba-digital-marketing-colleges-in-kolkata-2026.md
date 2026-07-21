@@ -38,6 +38,10 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ---
 
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
 ## 🚀 Why Choose Kolkata for an MBA in Digital Marketing?
 
 Kolkata is highly regarded for its quantitative management education. B-schools in Kolkata combine traditional marketing principles with modern digital technology, ensuring students secure premium placements in top FMCG, retail, and corporate consulting firms.
