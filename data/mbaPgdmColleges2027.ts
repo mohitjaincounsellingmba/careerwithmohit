@@ -387,6 +387,219 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
       'MBA Business Analytics': ['Data Engineering', 'Predictive Modeling', 'Data Visualization'],
       'MBA HR': ['Strategic HR', 'Talent Acquisition', 'Compensation Management']
     }
+  },
+  {
+    name: 'GNIOT (Greater Noida Institute of Technology)',
+    universitySlug: 'gniot-greater-noida',
+    location: 'Knowledge Park II, Greater Noida',
+    fee: '₹3.10L - ₹6.50L (Total)',
+    feeNum: 650000,
+    accreditation: 'AICTE Approved · Affiliated to AKTU',
+    programs: ['MBA', 'PGDM'],
+    badge: 'Knowledge Park Hub',
+    grade: 'Approved',
+    gradeColor: 'from-blue-600 to-indigo-800',
+    about: 'GNIOT Group of Institutions is a major educational hub in Greater Noida Knowledge Park. GNIOT offers a university-affiliated MBA and an autonomous AICTE-approved PGDM focused on practical skills, digital technologies, and robust placements.',
+    highlights: ['Strategic location in Knowledge Park II', 'Dual Specialization opportunities', 'Affordable fee with strong industry exposure', 'Active placement and mentorship cell'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Practical Projects',
+    approvals: 'AICTE Approved, AKTU Affiliated (for MBA), Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business'],
+      'PGDM': ['Business Analytics', 'Digital Marketing', 'Banking & Finance Services', 'Human Capital Management', 'Logistics & Supply Chain']
+    }
+  },
+  {
+    name: 'GL Bajaj Institute of Management & Research (GLBIMR)',
+    universitySlug: 'gl-bajaj-greater-noida',
+    location: 'Knowledge Park III, Greater Noida',
+    fee: '₹7.50 Lakhs (Total)',
+    feeNum: 750000,
+    accreditation: 'AICTE Approved · Highly Ranked B-School',
+    programs: ['PGDM'],
+    badge: 'High Placement ROI',
+    grade: 'Ranked',
+    gradeColor: 'from-emerald-500 to-emerald-700',
+    about: 'GLBIMR is one of the most popular B-schools in Greater Noida. Featuring a highly corporate-aligned PGDM curriculum, GLBIMR is known for outstanding placement records, corporate link-ups, and live project opportunities.',
+    highlights: ['Consistently ranked among top NCR private B-schools', '100% placement track record with top recruiters', 'Value added certification courses (Analytics, Digital Marketing)', 'Strong alumni network and regular industry visits'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Corporate Immersion',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Operations & Analytics', 'International Business']
+    }
+  },
+  {
+    name: 'Accurate Institute of Management & Technology',
+    universitySlug: 'accurate-greater-noida',
+    location: 'Knowledge Park III, Greater Noida',
+    fee: '₹2.85L - ₹6.50L (Total)',
+    feeNum: 650000,
+    accreditation: 'AICTE Approved · AKTU Affiliated',
+    programs: ['MBA', 'PGDM'],
+    badge: '100% Placement Record',
+    grade: 'Approved',
+    gradeColor: 'from-indigo-500 to-purple-700',
+    about: 'Accurate Institute of Management & Technology is renowned for its academic excellence and placement focus. Accurate offers both PGDM and MBA options supported by modern classrooms, lab facilities, and dedicated placement support cells.',
+    highlights: ['Assured placement programs and packages', 'Tech-integrated smart campus', 'Incubation and entrepreneurship support', 'Strong connections with Noida corporate hubs'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Digital Labs',
+    approvals: 'AICTE Approved, Affiliated to AKTU (for MBA)',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['General Management', 'Marketing', 'Finance', 'HR Management'],
+      'PGDM': ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy']
+    }
+  },
+  {
+    name: 'Noida Institute of Engineering & Technology (NIET)',
+    universitySlug: 'niet-greater-noida',
+    location: 'Knowledge Park II, Greater Noida',
+    fee: '₹6.20 Lakhs (Total)',
+    feeNum: 620000,
+    accreditation: 'AICTE Approved · Autonomous B-School',
+    programs: ['PGDM'],
+    badge: 'Autonomous B-School',
+    grade: 'Approved',
+    gradeColor: 'from-cyan-500 to-blue-700',
+    about: 'NIET Greater Noida is a premier autonomous institution in NCR. Its management department offers a dynamic PGDM program focused on next-generation business skills, cloud technologies, and corporate leadership modules.',
+    highlights: ['Autonomous academic curriculum flexibilities', 'Strong technological integration in core management', '100% internship assurance in top MNCs', 'Modern campus with specialized analytics labs'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Lab Immersion',
+    approvals: 'AICTE Approved, Autonomous Status',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Sales', 'Corporate Finance', 'Human Resources & Analytics', 'Information Technology', 'Operations & Supply Chain']
+    }
+  },
+  {
+    name: 'I Business Institute (IBI)',
+    universitySlug: 'ibi-greater-noida',
+    location: 'Knowledge Park II, Greater Noida',
+    fee: '₹8.45 Lakhs (Total)',
+    feeNum: 845000,
+    accreditation: 'AICTE Approved · Premium Certifications B-School',
+    programs: ['PGDM'],
+    badge: 'Premium Certifications',
+    grade: 'Approved',
+    gradeColor: 'from-orange-500 to-amber-700',
+    about: 'I Business Institute (IBI) is a boutique, highly focused business school in Knowledge Park II. IBI PGDM curriculum is supplemented with multiple international and national certifications, ensuring high placement results.',
+    highlights: ['Includes 10+ corporate value certifications', 'International study tour opportunities', 'Personalized mentor-mentee relationship model', 'High ROI with prominent NCR companies visiting campus'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Value Certifications',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Business Analytics & IT', 'Operations Management', 'International Business']
+    }
+  },
+  {
+    name: 'Lloyd Business School',
+    universitySlug: 'lloyd-greater-noida',
+    location: 'Knowledge Park II, Greater Noida',
+    fee: '₹2.90L - ₹6.90L (Total)',
+    feeNum: 690000,
+    accreditation: 'AICTE Approved · IBM Collaboration B-School',
+    programs: ['MBA', 'PGDM'],
+    badge: 'IBM Partnered PGDM',
+    grade: 'Approved',
+    gradeColor: 'from-violet-600 to-indigo-900',
+    about: 'Lloyd Business School offers an industry-centric education model in collaboration with technology leaders like IBM. Lloyd features highly specialized PGDM streams (like Business Analytics and Supply Chain) alongside university MBA.',
+    highlights: ['PGDM streams partnered directly with IBM', 'State of the art analytics labs on campus', 'Excellent placement track in logistics and corporate analytics', 'Lush green Knowledge Park campus'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & IBM Labs Hybrid',
+    approvals: 'AICTE Approved, Affiliated to AKTU (for MBA)',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      'PGDM': ['Business Analytics (with IBM)', 'Supply Chain Management', 'Finance & Banking', 'Human Resource Analytics']
+    }
+  },
+  {
+    name: 'IILM Greater Noida (IILM University)',
+    universitySlug: 'iilm-greater-noida',
+    location: 'Knowledge Park II, Greater Noida',
+    fee: '₹10.80 Lakhs (Total)',
+    feeNum: 1080000,
+    accreditation: 'UGC Approved · Elite Legacy B-School',
+    programs: ['MBA'],
+    badge: 'Elite Legacy Campus',
+    grade: 'Approved',
+    gradeColor: 'from-rose-500 to-red-700',
+    about: 'IILM University Greater Noida campus carries a rich legacy since 1993. Offering a top-tier MBA program with global academic parameters, it highlights massive corporate collaborations, entrepreneurship incubation, and premium placements.',
+    highlights: ['Legacy brand in management education since 1993', 'Massive lush green campus in Knowledge Park', 'Robust global alumni network', 'Excellent placement packages in consultancy & consulting'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Incubator Support',
+    approvals: 'UGC Approved, IILM University, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing & Innovation', 'FinTech & Wealth Management', 'Strategic HR & Analytics', 'Logistics & Supply Chain', 'Digital Entrepreneurship']
+    }
+  },
+  {
+    name: 'Bennett University',
+    universitySlug: 'bennett-greater-noida',
+    location: 'Greater Noida',
+    fee: '₹11.20 Lakhs (Total)',
+    feeNum: 1120000,
+    accreditation: 'UGC Approved · Times Group Initiative',
+    programs: ['MBA'],
+    badge: 'Times Group Legacy',
+    grade: 'Approved',
+    gradeColor: 'from-amber-600 to-amber-800',
+    about: 'Bennett University, a premium initiative of the Times Group, offers a highly modern MBA program. Positioned to bridge academia with direct media and corporate exposure, Bennett provides world-class infrastructure and top-tier MNC visits.',
+    highlights: ['Backed by Times Group corporate network', 'Highly premium global university collaborations', 'State-of-the-art residential campus infrastructure', 'Dynamic entrepreneurship incubation support'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Times Group Hub Interaction',
+    approvals: 'UGC Approved, Bennett University',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing & Sales', 'Finance & FinTech', 'Human Resource Capital', 'Business Analytics', 'Media & Entertainment Management']
+    }
+  },
+  {
+    name: 'Mangalmay Institute of Management and Technology',
+    universitySlug: 'mangalmay-greater-noida',
+    location: 'Knowledge Park II, Greater Noida',
+    fee: '₹2.85 Lakhs (Total)',
+    feeNum: 285000,
+    accreditation: 'AICTE Approved · AKTU Affiliated',
+    programs: ['MBA'],
+    badge: 'Value B-School',
+    grade: 'Approved',
+    gradeColor: 'from-emerald-600 to-green-800',
+    about: 'Mangalmay Institute of Management and Technology is an established name in Knowledge Park II. Mangalmay offers a highly cost-effective and value-focused MBA affiliated with AKTU, making it a top preference for budget-conscious management seekers.',
+    highlights: ['Highly affordable fee structure in Greater Noida', 'Disciplined academic learning model', 'Focused personal development workshops', 'Dedicated placement drive support'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Local Industry Ties',
+    approvals: 'AICTE Approved, Affiliated to AKTU, NAAC Accredited',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business']
+    }
+  },
+  {
+    name: 'Sparsh Global Business School (SGBS)',
+    universitySlug: 'sparsh-greater-noida',
+    location: 'Greater Noida',
+    fee: '₹8.50 Lakhs (Total)',
+    feeNum: 850000,
+    accreditation: 'AICTE Approved · ESG Centric Modern B-School',
+    programs: ['PGDM'],
+    badge: 'Entrepreneurship Focused',
+    grade: 'Approved',
+    gradeColor: 'from-pink-600 to-rose-800',
+    about: 'Sparsh Global Business School is a modern B-school focused on sustainable business leadership and environmental, social, and governance (ESG) paradigms. Sparsh features active incubation cells, industry mentors, and hands-on business modeling.',
+    highlights: ['Modern neo-curriculum incorporating ESG trends', 'Active business incubation and incubator funding support', 'Premium corporate collaborations', 'Focus on strategic thinking and venture creation'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Business Incubation',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Strategic Marketing', 'FinTech & Investment Banking', 'Strategic Human Resources', 'Business Analytics & Data Science', 'Global Business Operations']
+    }
   }
 ];
 
