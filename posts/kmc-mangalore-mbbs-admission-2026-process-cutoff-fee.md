@@ -1,13 +1,13 @@
 ---
-title: 'Kasturba Medical College (KMC), Mangalore MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Kasturba Medical College (KMC), Mangalore. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Kasturba Medical College (KMC), Mangalore MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Kasturba Medical College (KMC), Mangalore. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - KMC Mangalore MBBS admission 2026
-  - KMC Mangalore fee structure
-  - KMC Mangalore NEET cutoff 2026
-  - Kasturba Medical College (KMC), Mangalore MBBS process
-  - MBBS fees private medical college
+  - "KMC Mangalore MBBS admission 2026"
+  - "KMC Mangalore fee structure"
+  - "KMC Mangalore NEET cutoff 2026"
+  - "Kasturba Medical College (KMC), Mangalore MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "Is KMC Mangalore good for MBBS?"
     answer: "Yes, KMC Mangalore is ranked among the top 20 medical colleges in India with top clinical exposure in associate hospitals."

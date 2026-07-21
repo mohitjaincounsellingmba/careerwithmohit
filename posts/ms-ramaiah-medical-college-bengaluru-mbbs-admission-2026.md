@@ -1,13 +1,13 @@
 ---
-title: 'MS Ramaiah Medical College, Bengaluru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at MS Ramaiah Medical College, Bengaluru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "MS Ramaiah Medical College, Bengaluru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at MS Ramaiah Medical College, Bengaluru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - MS Ramaiah Medical College MBBS admission 2026
-  - MS Ramaiah Medical College fee structure
-  - MS Ramaiah Medical College NEET cutoff 2026
-  - MS Ramaiah Medical College, Bengaluru MBBS process
-  - MBBS fees private medical college
+  - "MS Ramaiah Medical College MBBS admission 2026"
+  - "MS Ramaiah Medical College fee structure"
+  - "MS Ramaiah Medical College NEET cutoff 2026"
+  - "MS Ramaiah Medical College, Bengaluru MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "How to get MBBS seat in MS Ramaiah Medical College?"
     answer: "Admissions are conducted strictly through KEA Karnataka State NEET counselling based on NEET UG merit."

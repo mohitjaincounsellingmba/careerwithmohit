@@ -507,20 +507,29 @@ const collegesData = [
 ];
 
 function generateMarkdownContent(col) {
-  const faqSchema = col.faqs.map(f => `  - question: "${f.question}"\n    answer: "${f.answer}"`).join('\n');
+  const keywordsList = [
+    `${col.shortName} MBBS admission 2026`,
+    `${col.shortName} fee structure`,
+    `${col.shortName} NEET cutoff 2026`,
+    `${col.name} MBBS process`,
+    `MBBS fees private medical college`
+  ];
+
+  const titleStr = JSON.stringify(`${col.name} MBBS Admission 2026: Process, NEET Cutoff & Fee Structure`);
+  const dateStr = JSON.stringify('2026-07-21');
+  const descStr = JSON.stringify(`Complete guide for MBBS admission 2026 at ${col.name}. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.`);
+  
+  const keywordsYaml = keywordsList.map(k => `  - ${JSON.stringify(k)}`).join('\n');
+  const faqYaml = col.faqs.map(f => `  - question: ${JSON.stringify(f.question)}\n    answer: ${JSON.stringify(f.answer)}`).join('\n');
 
   return `---
-title: '${col.name} MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at ${col.name}. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: ${titleStr}
+date: ${dateStr}
+description: ${descStr}
 keywords:
-  - ${col.shortName} MBBS admission 2026
-  - ${col.shortName} fee structure
-  - ${col.shortName} NEET cutoff 2026
-  - ${col.name} MBBS process
-  - MBBS fees private medical college
+${keywordsYaml}
 faqs:
-${faqSchema}
+${faqYaml}
 ---
 
 Planning your medical career and targeting **${col.name}** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, ${col.shortName} offers exceptional clinical training, modern healthcare facilities, and high patient footfall.
@@ -649,7 +658,7 @@ Source: Official College Prospectus & Medical Counselling Guidelines
 }
 
 function run() {
-  console.log('🚀 Generating 20 MBBS college blog posts...');
+  console.log('🚀 Generating 20 MBBS college blog posts with safe JSON-stringified YAML...');
   let createdCount = 0;
 
   collegesData.forEach(col => {
@@ -660,7 +669,7 @@ function run() {
     createdCount++;
   });
 
-  console.log(`\n🎉 Success! Created ${createdCount} blog posts in posts/ directory.`);
+  console.log(`\n🎉 Success! Regenerated ${createdCount} blog posts in posts/ directory.`);
 }
 
 run();

@@ -1,13 +1,13 @@
 ---
-title: 'Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - HIMSR New Delhi MBBS admission 2026
-  - HIMSR New Delhi fee structure
-  - HIMSR New Delhi NEET cutoff 2026
-  - Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi MBBS process
-  - MBBS fees private medical college
+  - "HIMSR New Delhi MBBS admission 2026"
+  - "HIMSR New Delhi fee structure"
+  - "HIMSR New Delhi NEET cutoff 2026"
+  - "Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "Is HIMSR Delhi a government or private college?"
     answer: "HIMSR is a constituent medical college of Jamia Hamdard, a Deemed-to-be University."

@@ -1,13 +1,13 @@
 ---
-title: 'Christian Medical College (CMC), Ludhiana MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Christian Medical College (CMC), Ludhiana. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Christian Medical College (CMC), Ludhiana MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Christian Medical College (CMC), Ludhiana. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - CMC Ludhiana MBBS admission 2026
-  - CMC Ludhiana fee structure
-  - CMC Ludhiana NEET cutoff 2026
-  - Christian Medical College (CMC), Ludhiana MBBS process
-  - MBBS fees private medical college
+  - "CMC Ludhiana MBBS admission 2026"
+  - "CMC Ludhiana fee structure"
+  - "CMC Ludhiana NEET cutoff 2026"
+  - "Christian Medical College (CMC), Ludhiana MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "Can Christian students from any state apply to CMC Ludhiana?"
     answer: "Yes, Christian minority seats (Category 2) are open to eligible Christian candidates from across India."

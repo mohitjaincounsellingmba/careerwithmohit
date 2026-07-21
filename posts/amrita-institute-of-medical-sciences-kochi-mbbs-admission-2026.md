@@ -1,13 +1,13 @@
 ---
-title: 'Amrita Institute of Medical Sciences (AIMS), Kochi MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Amrita Institute of Medical Sciences (AIMS), Kochi. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Amrita Institute of Medical Sciences (AIMS), Kochi MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Amrita Institute of Medical Sciences (AIMS), Kochi. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - Amrita Medical College Kochi MBBS admission 2026
-  - Amrita Medical College Kochi fee structure
-  - Amrita Medical College Kochi NEET cutoff 2026
-  - Amrita Institute of Medical Sciences (AIMS), Kochi MBBS process
-  - MBBS fees private medical college
+  - "Amrita Medical College Kochi MBBS admission 2026"
+  - "Amrita Medical College Kochi fee structure"
+  - "Amrita Medical College Kochi NEET cutoff 2026"
+  - "Amrita Institute of Medical Sciences (AIMS), Kochi MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "What is the fee for MBBS at Amrita Medical College Kochi?"
     answer: "The annual tuition fee is approximately ₹19 Lakhs to ₹20 Lakhs per year."

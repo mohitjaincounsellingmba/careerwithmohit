@@ -1,13 +1,13 @@
 ---
-title: 'St. John’s Medical College, Bengaluru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at St. John’s Medical College, Bengaluru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "St. John’s Medical College, Bengaluru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at St. John’s Medical College, Bengaluru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - St. John's Medical College MBBS admission 2026
-  - St. John's Medical College fee structure
-  - St. John's Medical College NEET cutoff 2026
-  - St. John’s Medical College, Bengaluru MBBS process
-  - MBBS fees private medical college
+  - "St. John's Medical College MBBS admission 2026"
+  - "St. John's Medical College fee structure"
+  - "St. John's Medical College NEET cutoff 2026"
+  - "St. John’s Medical College, Bengaluru MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "Can non-Karnataka students apply for St. John's Medical College?"
     answer: "Yes, candidates from all over India can apply through KEA Karnataka State Counselling under non-domicile / open / Christian minority categories."

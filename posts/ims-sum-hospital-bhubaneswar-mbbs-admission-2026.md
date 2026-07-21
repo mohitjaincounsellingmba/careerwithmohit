@@ -1,13 +1,13 @@
 ---
-title: 'Siksha 'O' Anusandhan (IMS & SUM Hospital), Bhubaneswar MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Siksha 'O' Anusandhan (IMS & SUM Hospital), Bhubaneswar. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Siksha 'O' Anusandhan (IMS & SUM Hospital), Bhubaneswar MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Siksha 'O' Anusandhan (IMS & SUM Hospital), Bhubaneswar. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - IMS & SUM Hospital MBBS admission 2026
-  - IMS & SUM Hospital fee structure
-  - IMS & SUM Hospital NEET cutoff 2026
-  - Siksha 'O' Anusandhan (IMS & SUM Hospital), Bhubaneswar MBBS process
-  - MBBS fees private medical college
+  - "IMS & SUM Hospital MBBS admission 2026"
+  - "IMS & SUM Hospital fee structure"
+  - "IMS & SUM Hospital NEET cutoff 2026"
+  - "Siksha 'O' Anusandhan (IMS & SUM Hospital), Bhubaneswar MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "What is the fee for MBBS in IMS & SUM Hospital Bhubaneswar?"
     answer: "The annual tuition fee is ₹19.60 Lakhs per year."

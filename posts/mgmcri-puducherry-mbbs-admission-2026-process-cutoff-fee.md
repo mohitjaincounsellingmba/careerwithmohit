@@ -1,13 +1,13 @@
 ---
-title: 'Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - MGMCRI Puducherry MBBS admission 2026
-  - MGMCRI Puducherry fee structure
-  - MGMCRI Puducherry NEET cutoff 2026
-  - Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry MBBS process
-  - MBBS fees private medical college
+  - "MGMCRI Puducherry MBBS admission 2026"
+  - "MGMCRI Puducherry fee structure"
+  - "MGMCRI Puducherry NEET cutoff 2026"
+  - "Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "What is the MBBS tuition fee for MGMCRI Puducherry?"
     answer: "The annual tuition fee is approximately ₹22 Lakhs."

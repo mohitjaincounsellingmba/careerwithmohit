@@ -1,13 +1,13 @@
 ---
-title: 'Kasturba Medical College (KMC), Manipal MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Kasturba Medical College (KMC), Manipal. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Kasturba Medical College (KMC), Manipal MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Kasturba Medical College (KMC), Manipal. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - KMC Manipal MBBS admission 2026
-  - KMC Manipal fee structure
-  - KMC Manipal NEET cutoff 2026
-  - Kasturba Medical College (KMC), Manipal MBBS process
-  - MBBS fees private medical college
+  - "KMC Manipal MBBS admission 2026"
+  - "KMC Manipal fee structure"
+  - "KMC Manipal NEET cutoff 2026"
+  - "Kasturba Medical College (KMC), Manipal MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "What is the NEET score required for KMC Manipal MBBS 2026?"
     answer: "For general category in MCC Deemed counselling, a score of 565-590 (All India Rank under 55,000) is usually safe for KMC Manipal."

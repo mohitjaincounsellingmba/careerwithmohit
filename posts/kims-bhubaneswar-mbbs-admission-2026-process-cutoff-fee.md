@@ -1,13 +1,13 @@
 ---
-title: 'Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - KIMS Bhubaneswar MBBS admission 2026
-  - KIMS Bhubaneswar fee structure
-  - KIMS Bhubaneswar NEET cutoff 2026
-  - Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS process
-  - MBBS fees private medical college
+  - "KIMS Bhubaneswar MBBS admission 2026"
+  - "KIMS Bhubaneswar fee structure"
+  - "KIMS Bhubaneswar NEET cutoff 2026"
+  - "Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "What is the fee structure for KIMS Bhubaneswar MBBS 2026?"
     answer: "The annual tuition fee is ₹18.5 Lakhs per year."

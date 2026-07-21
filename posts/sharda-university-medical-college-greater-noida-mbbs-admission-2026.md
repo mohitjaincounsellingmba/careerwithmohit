@@ -1,13 +1,13 @@
 ---
-title: 'Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - Sharda Medical College Greater Noida MBBS admission 2026
-  - Sharda Medical College Greater Noida fee structure
-  - Sharda Medical College Greater Noida NEET cutoff 2026
-  - Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida MBBS process
-  - MBBS fees private medical college
+  - "Sharda Medical College Greater Noida MBBS admission 2026"
+  - "Sharda Medical College Greater Noida fee structure"
+  - "Sharda Medical College Greater Noida NEET cutoff 2026"
+  - "Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "Can non-UP students apply for Sharda University MBBS?"
     answer: "Yes! Uttar Pradesh private medical college seats are 100% open to students from all states across India through UP NEET Counselling."

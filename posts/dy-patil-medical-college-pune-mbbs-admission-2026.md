@@ -1,13 +1,13 @@
 ---
-title: 'Dr. D. Y. Patil Vidyapeeth, Pune MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Dr. D. Y. Patil Vidyapeeth, Pune. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Dr. D. Y. Patil Vidyapeeth, Pune MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Dr. D. Y. Patil Vidyapeeth, Pune. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - DPU Medical College Pune MBBS admission 2026
-  - DPU Medical College Pune fee structure
-  - DPU Medical College Pune NEET cutoff 2026
-  - Dr. D. Y. Patil Vidyapeeth, Pune MBBS process
-  - MBBS fees private medical college
+  - "DPU Medical College Pune MBBS admission 2026"
+  - "DPU Medical College Pune fee structure"
+  - "DPU Medical College Pune NEET cutoff 2026"
+  - "Dr. D. Y. Patil Vidyapeeth, Pune MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "What is the tuition fee for DY Patil Pune MBBS?"
     answer: "The tuition fee starts at around ₹25 Lakhs to ₹26.5 Lakhs per year."

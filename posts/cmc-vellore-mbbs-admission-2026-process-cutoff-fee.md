@@ -1,13 +1,13 @@
 ---
-title: 'Christian Medical College (CMC), Vellore MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Christian Medical College (CMC), Vellore. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Christian Medical College (CMC), Vellore MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Christian Medical College (CMC), Vellore. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - CMC Vellore MBBS admission 2026
-  - CMC Vellore fee structure
-  - CMC Vellore NEET cutoff 2026
-  - Christian Medical College (CMC), Vellore MBBS process
-  - MBBS fees private medical college
+  - "CMC Vellore MBBS admission 2026"
+  - "CMC Vellore fee structure"
+  - "CMC Vellore NEET cutoff 2026"
+  - "Christian Medical College (CMC), Vellore MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "Is CMC Vellore private or government?"
     answer: "CMC Vellore is an autonomous, non-profit private minority medical institution affiliated with Dr. M.G.R. Medical University."

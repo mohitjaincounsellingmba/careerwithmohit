@@ -1,13 +1,13 @@
 ---
-title: 'Kempegowda Institute of Medical Sciences (KIMS), Bengaluru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at Kempegowda Institute of Medical Sciences (KIMS), Bengaluru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "Kempegowda Institute of Medical Sciences (KIMS), Bengaluru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at Kempegowda Institute of Medical Sciences (KIMS), Bengaluru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - KIMS Bengaluru MBBS admission 2026
-  - KIMS Bengaluru fee structure
-  - KIMS Bengaluru NEET cutoff 2026
-  - Kempegowda Institute of Medical Sciences (KIMS), Bengaluru MBBS process
-  - MBBS fees private medical college
+  - "KIMS Bengaluru MBBS admission 2026"
+  - "KIMS Bengaluru fee structure"
+  - "KIMS Bengaluru NEET cutoff 2026"
+  - "Kempegowda Institute of Medical Sciences (KIMS), Bengaluru MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "What is the Private Open quota fee at KIMS Bengaluru?"
     answer: "The open private quota fee is ₹10.92 Lakhs per year."

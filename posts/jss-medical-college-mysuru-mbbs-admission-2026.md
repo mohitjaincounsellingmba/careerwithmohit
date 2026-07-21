@@ -1,13 +1,13 @@
 ---
-title: 'JSS Medical College, Mysuru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure'
-date: '2026-07-21'
-description: 'Complete guide for MBBS admission 2026 at JSS Medical College, Mysuru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews.'
+title: "JSS Medical College, Mysuru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
+date: "2026-07-21"
+description: "Complete guide for MBBS admission 2026 at JSS Medical College, Mysuru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
 keywords:
-  - JSS Medical College Mysuru MBBS admission 2026
-  - JSS Medical College Mysuru fee structure
-  - JSS Medical College Mysuru NEET cutoff 2026
-  - JSS Medical College, Mysuru MBBS process
-  - MBBS fees private medical college
+  - "JSS Medical College Mysuru MBBS admission 2026"
+  - "JSS Medical College Mysuru fee structure"
+  - "JSS Medical College Mysuru NEET cutoff 2026"
+  - "JSS Medical College, Mysuru MBBS process"
+  - "MBBS fees private medical college"
 faqs:
   - question: "What is the annual fee for JSS Medical College Mysuru MBBS?"
     answer: "The annual tuition fee is approximately ₹19.86 Lakhs."
