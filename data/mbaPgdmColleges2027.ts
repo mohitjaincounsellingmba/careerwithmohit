@@ -600,6 +600,154 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     specializations: {
       'PGDM': ['Strategic Marketing', 'FinTech & Investment Banking', 'Strategic Human Resources', 'Business Analytics & Data Science', 'Global Business Operations']
     }
+  },
+  {
+    name: 'JK Business School (JKBS)',
+    universitySlug: 'jkbs-gurgaon',
+    location: 'Damdama Lake Road, Gurugram',
+    fee: '₹7.99 Lakhs (Total)',
+    feeNum: 799000,
+    accreditation: 'AICTE Approved · JK Organisation Support',
+    programs: ['PGDM'],
+    badge: 'JK Organisation Legacy',
+    grade: 'Approved',
+    gradeColor: 'from-blue-600 to-indigo-800',
+    about: 'JK Business School (JKBS) is backed by the prestigious JK Organisation (owners of Raymond, JK Tyre, etc.). JKBS offers a future-ready PGDM program focused on business analytics, digital skills, and extensive corporate training modules.',
+    highlights: ['Mentorship from top JK Organisation executives', 'Advanced certifications in Digital Business and analytics', 'Lush residential campus in Gurugram outer ring', 'Strong placement linkages with domestic & global MNCs'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Corporate Immersion',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Sales Strategy', 'Financial Technologies', 'Human Resource Management', 'Business Analytics & IT', 'Logistics & Supply Chain']
+    }
+  },
+  {
+    name: 'IBMR Group of Institutions (IBMR Gurgaon)',
+    universitySlug: 'ibmr-gurgaon',
+    location: 'Sector 14, Gurugram',
+    fee: '₹3.50L - ₹6.50L (Total)',
+    feeNum: 650000,
+    accreditation: 'AICTE Approved · Heart of Gurugram Campus',
+    programs: ['MBA', 'PGDM'],
+    badge: 'Heart of Gurugram',
+    grade: 'Approved',
+    gradeColor: 'from-amber-500 to-orange-700',
+    about: 'IBMR Gurgaon is a premier management institution located in the primary corporate hub of Sector 14 Gurugram. IBMR offers university-affiliated MBA and autonomous PGDM programs, boasting highly affordable fees and strong placement record.',
+    highlights: ['Prime location in Sector 14 corporate area', 'Affordable university MBA and industry-ready PGDM', 'Extensive live project and internship linkages', 'Personalized career development cell'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Case-study Approach',
+    approvals: 'AICTE Approved, Affiliated to MDU Rohtak (for MBA)',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'International Business'],
+      'PGDM': ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy']
+    }
+  },
+  {
+    name: 'ISB&M Gurgaon (International School of Business & Media)',
+    universitySlug: 'isbm-gurgaon',
+    location: 'Sector 112, Gurugram',
+    fee: '₹8.90 Lakhs (Total)',
+    feeNum: 890000,
+    accreditation: 'AICTE Approved · Media & Marketing Leader',
+    programs: ['PGDM'],
+    badge: 'Marketing & Media Focus',
+    grade: 'Ranked',
+    gradeColor: 'from-purple-600 to-violet-800',
+    about: 'ISB&M Gurugram is highly recognized for its student-driven culture and premium placements, especially in Marketing, Media, and Advertising. ISB&M features a highly practical curriculum that builds core corporate readiness.',
+    highlights: ['Renowned for marketing, media, and advertising placements', 'Dynamic student-run activities and leadership build-up', 'Frequent industry speaker series and corporate panels', 'Modern infrastructure in Gurugram border region'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Practical Projects',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Brand Management', 'Finance & FinTech', 'Human Resource Capital', 'Media & Communication', 'Supply Chain Management']
+    }
+  },
+  {
+    name: 'BML Munjal University (BMU)',
+    universitySlug: 'bml-munjal-gurgaon',
+    location: 'NH-8, Gurugram Region',
+    fee: '₹12.50 Lakhs (Total)',
+    feeNum: 1250000,
+    accreditation: 'UGC Approved · Hero Group Initiative',
+    programs: ['MBA'],
+    badge: 'Imperial College Mentored',
+    grade: 'Approved',
+    gradeColor: 'from-rose-500 to-red-700',
+    about: 'BML Munjal University, founded by the Hero Group, offers a world-class MBA program mentored by Imperial College London. Focused on global perspectives, industrial research, and hands-on business venture creation.',
+    highlights: ['Mentored by Imperial College London', 'Backed by Hero Group industrial networks', 'Diverse international study module opportunities', 'Elite placement packages in consulting and banking sectors'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & International Lab',
+    approvals: 'UGC Approved, BML Munjal University',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing & Product Strategy', 'Finance & FinTech', 'Strategic Human Resources', 'Business Analytics', 'Entrepreneurship & Innovation']
+    }
+  },
+  {
+    name: 'SOIL Institute of Management (SOIL)',
+    universitySlug: 'soil-gurgaon',
+    location: 'Sector 44, Gurugram',
+    fee: '₹13.40 Lakhs (Total)',
+    feeNum: 1340000,
+    accreditation: 'AICTE Approved · Mentored by 32 MNCs',
+    programs: ['PGDM'],
+    badge: 'Inspired Leadership',
+    grade: 'Approved',
+    gradeColor: 'from-emerald-500 to-teal-700',
+    about: 'SOIL (School of Inspired Leadership) Gurgaon is a premier leadership B-school. Mentored by a consortium of 32 leading MNCs, SOIL offers a highly modern PGDM focused on character, competence, and leadership.',
+    highlights: ['Curriculum co-created and mentored by 32 top MNCs', 'Located in Sector 44 Gurugram corporate hub', 'Focus on Design Thinking, Social Innovation, and ESG', 'Excellent executive placement and analytics pathways'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Leadership Labs',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Product Analytics', 'Finance & Banking', 'Human Resource Analytics', 'Business Analytics & IT']
+    }
+  },
+  {
+    name: 'IILM University (Gurugram Campus)',
+    universitySlug: 'iilm-gurgaon',
+    location: 'Sector 53, Gurugram',
+    fee: '₹10.80 Lakhs (Total)',
+    feeNum: 1080000,
+    accreditation: 'UGC Approved · Prime Golf Course Road Zone',
+    programs: ['MBA'],
+    badge: 'Premium Sector 53 Campus',
+    grade: 'Approved',
+    gradeColor: 'from-cyan-500 to-blue-700',
+    about: 'IILM University Sector 53 Gurugram campus is situated on the Golf Course Road. Offering a highly structured MBA program, IILM Gurugram highlights a liberal education model, strong internship programs, and prominent corporate ties.',
+    highlights: ['Prime location on Golf Course Road zone', 'Comprehensive mentoring and leadership program', 'Excellent placement cell with tier-1 recruiters', 'Incubator cells for student startups'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Mentorship Support',
+    approvals: 'UGC Approved, IILM University',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing & Sales Strategy', 'FinTech & Analytics', 'Human Capital & Leadership', 'Logistics & Supply Chain', 'Digital Business']
+    }
+  },
+  {
+    name: 'St. Andrews Institute of Technology & Management (SAITM)',
+    universitySlug: 'st-andrews-gurgaon',
+    location: 'Sector 109, Gurugram',
+    fee: '₹2.95 Lakhs (Total)',
+    feeNum: 295000,
+    accreditation: 'AICTE Approved · MDU Affiliated',
+    programs: ['MBA'],
+    badge: 'Affordable MBA',
+    grade: 'Approved',
+    gradeColor: 'from-slate-600 to-slate-800',
+    about: 'St. Andrews Institute of Technology & Management (SAITM) Gurugram offers a highly value-driven, affordable MBA program affiliated with MDU Rohtak. SAITM focuses on standard academic learning, personality build-up, and local corporate placements.',
+    highlights: ['Highly affordable university MBA program', 'Focus on personal tutoring and confidence building', 'Regular industrial visits and workshops', 'Dedicated placement drive support'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Outbound Learning',
+    approvals: 'AICTE Approved, Affiliated to MDU Rohtak',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems']
+    }
   }
 ];
 
