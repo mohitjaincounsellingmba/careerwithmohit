@@ -84,6 +84,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/offer-letter-generator',
     '/tools/salary-slip-generator',
     '/top-tier-mba-colleges',
+    '/mba-pgdm-admission-2027',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),

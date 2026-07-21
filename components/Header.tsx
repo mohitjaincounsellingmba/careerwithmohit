@@ -56,6 +56,9 @@ export function Header() {
               <Link href="/top-tier-mba-colleges" prefetch={false} className="px-5 py-3 hover:bg-slate-50 border-b-2 border-slate-100 transition-colors font-bold text-primary flex items-center gap-2">
                 <span className="w-2 h-2 bg-primary rounded-full"></span> Top Tier MBA
               </Link>
+              <Link href="/mba-pgdm-admission-2027" prefetch={false} className="px-5 py-3 hover:bg-indigo-50 border-b-2 border-slate-100 transition-colors font-bold text-indigo-700 flex items-center gap-2">
+                <span className="w-2 h-2 bg-indigo-600 rounded-full"></span> MBA/PGDM 2027
+              </Link>
               <Link href="/scholarships-2026" prefetch={false} className="px-5 py-3 hover:bg-amber-50 border-b-2 border-slate-100 transition-colors font-bold text-amber-700 flex items-center gap-2">
                 <span className="w-2 h-2 bg-amber-500 rounded-full"></span> Scholarships
               </Link>
@@ -117,6 +120,9 @@ export function Header() {
                 </Link>
                 <Link href="/top-tier-mba-colleges" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-primary font-extrabold">
                   <span className="w-1.5 h-1.5 rounded-full bg-primary mr-3 inline-block"></span>Top Tier MBA
+                </Link>
+                <Link href="/mba-pgdm-admission-2027" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-indigo-600 font-extrabold">
+                  <span className="w-1.5 h-1.5 rounded-full bg-indigo-600 mr-3 inline-block"></span>MBA/PGDM 2027
                 </Link>
                 <Link href="/scholarships-2026" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-amber-600 font-extrabold">
                   <span className="w-1.5 h-1.5 rounded-full bg-amber-500 mr-3 inline-block"></span>Scholarships
