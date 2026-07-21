@@ -925,6 +925,133 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
       'PGDM': ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy'],
       'Global MBA': ['International Business Strategy (UK)', 'Global Marketing (UK)', 'International Finance (UK)']
     }
+  },
+  {
+    name: 'ATLAS SkillTech University',
+    universitySlug: 'atlas-skilltech-mumbai',
+    location: 'Kurla (BKC Zone), Mumbai',
+    fee: '₹10.50 Lakhs (Total)',
+    feeNum: 1050000,
+    accreditation: 'UGC Approved · Modern Digital University',
+    programs: ['MBA'],
+    badge: 'BKC Zone Campus',
+    grade: 'Approved',
+    gradeColor: 'from-blue-600 to-indigo-800',
+    about: 'ATLAS SkillTech University is a state-of-the-art urban university located in Kurla, Mumbai (adjoining the Bandra-Kurla Complex). ATLAS offers MBA programs focused on digital technologies, design thinking, entrepreneurship, and global business models.',
+    highlights: ['Urban campus next to Bandra-Kurla Complex corporate hub', 'Focus on design-thinking, tech, and product management', 'Active mentorship from prominent Mumbai venture funds', 'Elite placement packages in consultancy, banking, and startups'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Venture Incubation',
+    approvals: 'UGC Approved, ATLAS SkillTech University',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Digital Marketing & E-Commerce', 'Financial Technologies', 'Human Capital Strategy', 'Design Thinking & Business Innovation', 'Business Analytics']
+    }
+  },
+  {
+    name: 'Universal Business School (UBS Mumbai) / Universal AI University',
+    universitySlug: 'ubs-mumbai-karjat',
+    location: 'Karjat, Greater Mumbai',
+    fee: '₹8.50L - ₹11.50L (Total)',
+    feeNum: 1150000,
+    accreditation: 'AICTE Approved · India\'s 1st AI University',
+    programs: ['MBA', 'PGDM'],
+    badge: 'India\'s 1st AI University',
+    grade: 'Approved',
+    gradeColor: 'from-emerald-500 to-emerald-700',
+    about: 'Universal Business School (now Universal AI University) in Karjat, Mumbai, is India\'s first dedicated AI university. UBS offers AICTE-approved PGDM and MBA programs endorsed by 60 global CEOs, featuring a green residential campus and high international links.',
+    highlights: ['First AI-embedded business school curriculum in India', 'Lush residential green campus in Karjat valley', 'Endorsed by 60 global CEOs for placement opportunities', 'Dynamic global MBA options with UK/USA university degrees'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & AI Labs Hybrid',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT & Systems'],
+      'PGDM': ['AI & Business Analytics', 'Digital Marketing Strategy', 'Corporate Finance', 'Global Business Strategy']
+    }
+  },
+  {
+    name: 'ITM Business School (Navi Mumbai)',
+    universitySlug: 'itm-navi-mumbai',
+    location: 'Kharghar, Navi Mumbai',
+    fee: '₹11.95 Lakhs (Total)',
+    feeNum: 1195000,
+    accreditation: 'AICTE Approved · NBA Accredited · NAAC Grade A',
+    programs: ['PGDM'],
+    badge: 'iConnect Placement Focus',
+    grade: 'Grade A',
+    gradeColor: 'from-purple-600 to-violet-800',
+    about: 'ITM Business School Kharghar (Navi Mumbai) is a highly prominent management institute in Maharashtra. Supplying PGDM programs, ITM highlights its 5-month intensive industry internship program (iConnect) for exceptional corporate transitions.',
+    highlights: ['5-Month intensive industry internship (iConnect)', 'Lush Kharghar campus with premium smart classrooms', 'Excellent record of placement in top consulting & logistics MNCs', 'Global academic exchanges and simulations'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & iConnect Internships',
+    approvals: 'AICTE Approved, NBA Accredited, NAAC Grade A',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Digital Media', 'Finance & Banking', 'Human Capital Capital', 'Business Analytics & IT', 'Retail Management', 'International Business']
+    }
+  },
+  {
+    name: 'J.S. Kothari Business School',
+    universitySlug: 'js-kothari-mumbai',
+    location: 'Mumbai Metropolis',
+    fee: '₹4.50 Lakhs (Total)',
+    feeNum: 450000,
+    accreditation: 'AICTE Approved B-School',
+    programs: ['PGDM'],
+    badge: 'Value B-School',
+    grade: 'Approved',
+    gradeColor: 'from-slate-600 to-slate-800',
+    about: 'J.S. Kothari Business School provides a value-driven PGDM program in Mumbai. Focused on affordable fee modules, practical personal development, and corporate grooming to help students secure roles in banking, retail, and FMCG sectors.',
+    highlights: ['Highly affordable fee package in Mumbai region', 'Core focus on practical sales & finance skills', 'Regular guest lectures from local industry practitioners', 'Active career placement drives'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Sales Bootcamps',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Sales', 'Finance & Banking', 'Human Resource Management', 'Retail Operations']
+    }
+  },
+  {
+    name: 'Amity University (Mumbai Campus)',
+    universitySlug: 'amity-mumbai',
+    location: 'Panvel, Greater Mumbai',
+    fee: '₹9.50 Lakhs (Total)',
+    feeNum: 950000,
+    accreditation: 'UGC Approved · WES Globally Recognized',
+    programs: ['MBA', 'MBA Executive'],
+    badge: 'Premium Panvel Campus',
+    grade: 'Approved',
+    gradeColor: 'from-blue-600 to-blue-800',
+    about: 'Amity University Mumbai, located in Panvel, features a highly sophisticated campus layout. Providing an elite MBA program with smart labs, international university ties, and WES global recognition, it is a preferred option for global jobs.',
+    highlights: ['Lush modern residential campus in Panvel region', 'WES approved for foreign studies/visas', 'Excellent placement cell with top tier-1 recruiters', 'Strong industrial visit and guest lecture programs'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Corporate Immersion',
+    approvals: 'UGC Approved, Amity University',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['General Management', 'Marketing & Sales', 'Finance & Analytics', 'Human Resources', 'International Business']
+    }
+  },
+  {
+    name: 'JAGSoM (Jagdish Sheth School of Management)',
+    universitySlug: 'jagsom-mumbai-karjat',
+    location: 'Karjat, Greater Mumbai',
+    fee: '₹10.95 Lakhs (Total)',
+    feeNum: 1095000,
+    accreditation: 'AICTE Approved · AACSB Accredited Brand',
+    programs: ['MBA'],
+    badge: 'AACSB Accredited Brand',
+    grade: 'AACSB Acc.',
+    gradeColor: 'from-rose-500 to-rose-700',
+    about: 'JAGSoM Greater Mumbai campus in Karjat brings the legacy of the AACSB-accredited Jagdish Sheth School of Management. Featuring domain-led education, mentored by Padmashri Jagdish Sheth, JAGSoM grooms professionals for international roles.',
+    highlights: ['AACSB Accredited brand flagship extension', 'Domain-led specialized management modules', 'Top placement linkages in consulting, finance, and marketing', 'Lush residential campus in Karjat'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Specialized Domain Lab',
+    approvals: 'AICTE Approved, AACSB Accredited',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Digital Marketing & Sales', 'Corporate Finance & Banking', 'Human Capital Capital', 'Business Analytics & IT', 'Services Management']
+    }
   }
 ];
 
