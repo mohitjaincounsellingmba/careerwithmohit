@@ -748,6 +748,183 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     specializations: {
       'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems']
     }
+  },
+  {
+    name: 'Pune Institute of Business Management (PIBM)',
+    universitySlug: 'pibm-pune',
+    location: 'Bhugaon, Pune',
+    fee: '₹7.95L - ₹8.75L (Total)',
+    feeNum: 875000,
+    accreditation: 'AICTE Approved · SPPU Affiliated',
+    programs: ['MBA', 'PGDM'],
+    badge: 'Corporate Integration Leader',
+    grade: 'Approved',
+    gradeColor: 'from-blue-600 to-indigo-800',
+    about: 'Pune Institute of Business Management (PIBM) is one of India\'s premier corporate-focused business schools. Offering an industry-centric curriculum, PIBM guarantees practical profiles training (across FinTech, FMCG, Digital) and strong placement outcomes.',
+    highlights: ['Rigorous sector-specific corporate training', 'Mentorship and live projects with 300+ corporate partners', 'Advanced certifications in ERP, Bloomberg, and Analytics', 'Excellent placement track with high package ROI'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Intensive Sector Training',
+    approvals: 'AICTE Approved, Affiliated to SPPU (for MBA), NAAC Accredited',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      'PGDM': ['FMCG & Consumer Goods Marketing', 'Investment Banking & Corporate Finance', 'HR & Analytics', 'Information Technology', 'Operations & Logistics']
+    }
+  },
+  {
+    name: 'Lexicon MILE (Management Institute of Leadership & Excellence)',
+    universitySlug: 'lexicon-mile-pune',
+    location: 'Wagholi, Pune',
+    fee: '₹9.00L - ₹11.50L (Total)',
+    feeNum: 1150000,
+    accreditation: 'AICTE Approved · Global Collaboration B-School',
+    programs: ['PGDM', 'Global MBA'],
+    badge: 'Global MBA Track',
+    grade: 'Approved',
+    gradeColor: 'from-amber-600 to-amber-800',
+    about: 'Lexicon MILE is a prominent B-school under the Lexicon Group. Highlighting a multi-disciplinary approach, Lexicon MILE PGDM and Global MBA feature active industry certifications, international internships, and premium NCR/Pune corporate linkages.',
+    highlights: ['Includes 15+ corporate certifications (Tableau, MS Office)', 'Global MBA with international study tour modules', 'Lush campus with advanced smart tech setups', 'Stellar placements in banking, consulting, and retail MNCs'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & International Study tour',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing Management', 'Financial Management', 'HR Capital', 'Operations & Logistics'],
+      'Global MBA': ['International Business Strategy', 'Digital Marketing', 'Global Finance']
+    }
+  },
+  {
+    name: 'RIIM Pune (Ramachandran International)',
+    universitySlug: 'riim-pune',
+    location: 'Bawdhan, Pune',
+    fee: '₹4.95L - ₹7.95L (Total)',
+    feeNum: 795000,
+    accreditation: 'AICTE Approved · Savitribai Phule Pune University Affiliated',
+    programs: ['MBA', 'PGDM', 'Global MBA'],
+    badge: 'Best ROI B-School',
+    grade: 'Approved',
+    gradeColor: 'from-purple-600 to-violet-850',
+    about: 'RIIM Pune is highly regarded as one of Maharashtra\'s best ROI B-schools. RIIM offers SPPU-affiliated MBA and autonomous PGDM programs coupled with its Employability Development Program (EDP) and international industrial tour options.',
+    highlights: ['Includes intensive Employability Development Program (EDP)', 'Optional 1-Week International Study Tour (Dubai/Singapore)', 'Lush campus in Bawdhan next to corporate hubs', 'Affordable fee with excellent average package outcomes'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Employability Workshops',
+    approvals: 'AICTE Approved, Affiliated to SPPU (for MBA)',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'Operations & Supply Chain'],
+      'PGDM': ['Business Analytics', 'Digital Marketing', 'FinTech & Wealth Management', 'Human Capital Strategy'],
+      'Global MBA': ['International Business Operations', 'Global Marketing', 'Global Finance']
+    }
+  },
+  {
+    name: 'ASM Institute of Business Management & Research (IBMR)',
+    universitySlug: 'asm-ibmr-pune',
+    location: 'Chinchwad, Pune',
+    fee: '₹3.50L - ₹6.50L (Total)',
+    feeNum: 650000,
+    accreditation: 'AICTE Approved · SPPU Affiliated · Harvard Partnered',
+    programs: ['MBA', 'PGDM'],
+    badge: 'Harvard & IBM Partnered',
+    grade: 'Approved',
+    gradeColor: 'from-rose-500 to-red-700',
+    about: 'ASM\'s IBMR has a legacy of over three decades in Pune. Partnered with Harvard Business Publishing, IBM, and Amazon AWS, it integrates elite digital badges and Harvard case studies directly into its MBA and PGDM programs.',
+    highlights: ['First B-School in India co-branded with Harvard Business modules', 'Partnered with IBM & Amazon AWS for tech-management', 'Lush Pimpri-Chinchwad corporate corridor campus', 'Strong alumni network since 1983'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Harvard Case-Study Method',
+    approvals: 'AICTE Approved, Affiliated to SPPU (for MBA)',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      'PGDM': ['Business Analytics (IBM)', 'Cloud Computing & AWS', 'Enterprise Finance', 'HR & People Analytics']
+    }
+  },
+  {
+    name: 'Dr. D.Y. Patil Institute of Management & Research',
+    universitySlug: 'dy-patil-pune',
+    location: 'Pimpri, Pune',
+    fee: '₹3.20L - ₹6.00L (Total)',
+    feeNum: 600000,
+    accreditation: 'AICTE Approved · SPPU Affiliated · NAAC Grade A++',
+    programs: ['MBA', 'PGDM'],
+    badge: 'NAAC A++ Rated',
+    grade: 'Grade A++',
+    gradeColor: 'from-emerald-600 to-teal-800',
+    about: 'D.Y. Patil Institute of Management Chinchwad/Pimpri is accredited with the highest possible NAAC A++ rating. Featuring advanced smart infrastructure, research setups, and regular industry linkage, it holds a top rank among SPPU-affiliated B-schools.',
+    highlights: ['Highest NAAC A++ grade certification in Pune', 'World-class tech-management labs and smart campus', '100% placement track with prominent MNCs', 'Strong focus on case studies and industrial research'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Research Labs',
+    approvals: 'AICTE Approved, Affiliated to SPPU (for MBA), NAAC A++',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'Information Technology', 'International Business'],
+      'PGDM': ['Business Analytics', 'Digital Marketing', 'Corporate Finance', 'Human Capital Leadership']
+    }
+  },
+  {
+    name: 'IIEBM (Indus Business School)',
+    universitySlug: 'iiebm-indus-pune',
+    location: 'Wakad, Pune',
+    fee: '₹7.95 Lakhs (Total)',
+    feeNum: 795000,
+    accreditation: 'AICTE Approved · SAP ERP Collaboration',
+    programs: ['PGDM', 'PGPERP'],
+    badge: 'SAP ERP Partnered',
+    grade: 'Approved',
+    gradeColor: 'from-cyan-500 to-blue-700',
+    about: 'IIEBM Indus Business School is located in the primary Hinjawadi-Wakad IT corridor. Supplying autonomous PGDM and specialized PGPERP courses (collaborated with SAP for ERP modules), it grooms students for elite consulting and software firms.',
+    highlights: ['Strategic location in Wakad IT corridor', 'Direct SAP ERP system training and certification', 'Intensive personality development and grooming modules', 'Excellent placement track in tech-consulting and MNCs'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & SAP Labs Hybrid',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing Management', 'Financial Management', 'Human Capital Strategy', 'Business Analytics & IT', 'Operations Management'],
+      'PGPERP': ['Enterprise Resource Planning', 'SAP Consulting', 'Systems Management']
+    }
+  },
+  {
+    name: 'Akemi Business School',
+    universitySlug: 'akemi-pune',
+    location: 'Tathawade, Pune',
+    fee: '₹2.75 Lakhs (Total)',
+    feeNum: 275000,
+    accreditation: 'AICTE Approved · SPPU Affiliated',
+    programs: ['MBA'],
+    badge: 'Value B-School',
+    grade: 'Approved',
+    gradeColor: 'from-slate-600 to-slate-800',
+    about: 'Akemi Business School, situated in Tathawade educational corridor, offers an SPPU-affiliated MBA program with an affordable fee structure. Focused on core grooming, practical industrial visits, and soft skill improvements.',
+    highlights: ['Very affordable fee structure with high ROI', 'Located in prominent Tathawade educational zone', 'Focus on personal grooming and soft skills development', 'Dedicated local placement and corporate drives'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Outbound Learning',
+    approvals: 'AICTE Approved, Affiliated to SPPU',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems']
+    }
+  },
+  {
+    name: 'ISMS Pune (International School of Management Studies)',
+    universitySlug: 'isms-pune',
+    location: 'Hinjawadi, Pune',
+    fee: '₹3.90L - ₹6.90L (Total)',
+    feeNum: 690000,
+    accreditation: 'AICTE Approved · British MBA Pathway B-School',
+    programs: ['MBA', 'PGDM', 'Global MBA'],
+    badge: 'British MBA Pathway',
+    grade: 'Approved',
+    gradeColor: 'from-pink-600 to-rose-800',
+    about: 'ISMS Pune is located in the Hinjawadi IT Hub. Highly popular for its British MBA pathway, ISMS offers PGDM/MBA streams in collaboration with UK Universities, allowing students to study partially in India and the UK.',
+    highlights: ['British MBA pathway with UK university ties', 'Situated inside Hinjawadi Infotech corporate park', 'Dynamic global study excursions and placements', '100% placement assistance in tier-1 tech & management firms'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & UK University Transfer Option',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      'PGDM': ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy'],
+      'Global MBA': ['International Business Strategy (UK)', 'Global Marketing (UK)', 'International Finance (UK)']
+    }
   }
 ];
 
