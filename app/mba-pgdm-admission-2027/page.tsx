@@ -318,7 +318,7 @@ export default function MbaPgdmAdmission2027Page() {
               Quick Matrix
             </span>
             <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4 text-center">
-              Delhi NCR B-School Comparison Matrix
+              Pan India B-School Comparison Matrix
             </h2>
             <p className="text-gray-500 text-center mb-16 max-w-2xl mx-auto font-medium">
               A comprehensive overview of 2-year total fees, campus locations, and government approval badges.
@@ -329,7 +329,7 @@ export default function MbaPgdmAdmission2027Page() {
                 <thead>
                   <tr className="bg-[#0f172a] text-white font-bold text-xs uppercase tracking-widest border-b-[4px] border-[#0f172a]">
                     <th className="px-6 py-5">B-School Name</th>
-                    <th className="px-6 py-5">Delhi Campus Zone</th>
+                    <th className="px-6 py-5">Campus Location</th>
                     <th className="px-6 py-5">Total 2-Yr Fee</th>
                     <th className="px-6 py-5 text-center">Accreditation</th>
                     <th className="px-6 py-5 text-center">Highlight Badge</th>

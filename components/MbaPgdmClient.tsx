@@ -356,13 +356,13 @@ export default function MbaPgdmClient() {
         {/* Section Header */}
         <div className="text-center max-w-3xl mx-auto mb-12">
           <span className="text-xs font-black text-indigo-600 uppercase tracking-widest mb-2 block">
-            Delhi NCR PGDM Directory 2027
+            Pan India B-School Directory 2027
           </span>
           <h2 className="display-font text-3xl md:text-5xl font-black text-[#0f172a] tracking-tight mb-4">
-            Compare Top 12 PGDM &amp; MBA B-Schools
+            Compare Top PGDM &amp; MBA B-Schools
           </h2>
           <p className="text-gray-500 font-medium text-base">
-            Filter by Delhi NCR campus zones, fee brackets, and government accreditations to find your optimal PGDM match.
+            Filter by campus locations, fee brackets, and government accreditations to find your optimal PGDM &amp; MBA match.
           </p>
         </div>
 
@@ -374,7 +374,7 @@ export default function MbaPgdmClient() {
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" size={20} />
             <input
               type="text"
-              placeholder="Search by college name, location (Dwarka, Kalkaji, Vasant Vihar...), or accreditation..."
+              placeholder="Search by college name, location (Dwarka, Pune, Bangalore...), or accreditation..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               className="w-full pl-12 pr-10 py-3.5 bg-slate-50 border border-slate-200 rounded-xl text-sm font-bold text-[#0f172a] placeholder-gray-400 focus:outline-none focus:border-indigo-600 focus:bg-white transition-all"
@@ -391,7 +391,7 @@ export default function MbaPgdmClient() {
             {/* Location Filter */}
             <div>
               <label className="flex items-center gap-1.5 text-xs font-black text-gray-500 uppercase tracking-wider mb-3">
-                <MapPin size={14} className="text-indigo-600" /> Filter by Delhi Zone
+                <MapPin size={14} className="text-indigo-600" /> Filter by Campus Location
               </label>
               <div className="flex flex-wrap gap-2">
                 {LOCATIONS.map((loc) => (
@@ -575,7 +575,7 @@ export default function MbaPgdmClient() {
         {filteredColleges.length === 0 && (
           <div className="text-center py-16 bg-white rounded-3xl border border-slate-200 shadow-sm max-w-lg mx-auto">
             <p className="text-lg font-bold text-slate-800 mb-2">No B-Schools Match Your Filters</p>
-            <p className="text-sm text-gray-500 mb-6">Try resetting your location or fee filters to see all 12 colleges.</p>
+            <p className="text-sm text-gray-500 mb-6">Try resetting your location or fee filters to see all listed B-schools.</p>
             <button
               onClick={() => {
                 setSelectedLocation('All');
