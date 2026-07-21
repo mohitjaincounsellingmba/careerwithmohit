@@ -270,10 +270,20 @@ export default function MbaPgdmClient() {
         c.accreditation.toLowerCase().includes(search.toLowerCase()) ||
         c.about.toLowerCase().includes(search.toLowerCase());
 
-      const matchesLocation =
-        selectedLocation === 'All' ||
-        c.location.toLowerCase().includes(selectedLocation.toLowerCase()) ||
-        (selectedLocation === 'Gurgaon' && c.location.toLowerCase().includes('gurugram'));
+      let matchesLocation = false;
+      if (selectedLocation === 'All') {
+        matchesLocation = true;
+      } else {
+        const colLoc = c.location.toLowerCase();
+        const selLoc = selectedLocation.toLowerCase();
+        if (selLoc === 'noida') {
+          matchesLocation = colLoc.includes('noida') && !colLoc.includes('greater noida');
+        } else if (selLoc === 'gurgaon') {
+          matchesLocation = colLoc.includes('gurgaon') || colLoc.includes('gurugram');
+        } else {
+          matchesLocation = colLoc.includes(selLoc);
+        }
+      }
 
       const matchesFee = c.feeNum >= selectedFee.min && c.feeNum <= selectedFee.max;
 
