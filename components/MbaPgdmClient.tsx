@@ -359,7 +359,7 @@ export default function MbaPgdmClient() {
             Pan India B-School Directory 2027
           </span>
           <h2 className="display-font text-3xl md:text-5xl font-black text-[#0f172a] tracking-tight mb-4">
-            Compare Top PGDM &amp; MBA B-Schools
+            Compare Top {MBA_PGDM_COLLEGES_2027.length} PGDM &amp; MBA B-Schools
           </h2>
           <p className="text-gray-500 font-medium text-base">
             Filter by campus locations, fee brackets, and government accreditations to find your optimal PGDM &amp; MBA match.
