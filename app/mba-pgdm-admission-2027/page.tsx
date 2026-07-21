@@ -89,34 +89,34 @@ const jsonLd = {
       mainEntity: [
         {
           '@type': 'Question',
-          name: 'What is the difference between MBA and PGDM in Delhi NCR?',
+          name: 'What is the difference between MBA and PGDM in India?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'MBA is a degree course offered by universities (like GGSIPU or DU), while PGDM is a diploma course offered by autonomous AICTE approved institutes. PGDM programs accredited by AIU (Association of Indian Universities) are legally equivalent to MBA degrees and offer more updated, industry-ready curricula.',
+            text: 'MBA is a degree course offered by UGC-recognized universities, while PGDM is a diploma course offered by autonomous AICTE approved institutes. PGDM programs accredited by AIU (Association of Indian Universities) are legally equivalent to MBA degrees and offer more updated, industry-ready curricula.',
           },
         },
         {
           '@type': 'Question',
-          name: 'What are the top PGDM colleges in Delhi NCR for 2027 admission?',
+          name: 'Are all listed PGDM and MBA colleges approved by AICTE or UGC?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Top AICTE approved PGDM colleges include NDIM Delhi (Tughlakabad), FOSTIIMA Business School (Dwarka), FIIB (Vasant Vihar), IILM (Lodhi Road), JIMS (Kalkaji), MERI (Janakpuri), NDIIT (Kalkaji), Delhi School of Business (Pitampura), EMPI (Chattarpur), IMM (Qutab), Maharaja Agrasen (Rohini), and Apeejay ASM (Dwarka).',
+            text: 'Yes, all 55 listed business schools in Delhi NCR, Gurgaon, Pune, Mumbai, and Bangalore are officially approved by AICTE or UGC, ensuring they comply with standard regulatory guidelines.',
           },
         },
         {
           '@type': 'Question',
-          name: 'What is the average fee for a PGDM in Delhi NCR?',
+          name: 'What is the average fee structure for PGDM and MBA in India?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'PGDM fee structures in Delhi NCR range from ₹4.5 Lakhs (MAIMS Rohini / MERI Janakpuri) to ₹12.9 Lakhs (IILM Lodhi Road) for the full 2-year program. The average fee for a top NBA-accredited B-School is around ₹8.5 to ₹11 Lakhs.',
+            text: 'Fees range from ₹2.90 Lakhs (e.g. Lloyd Business School / MERI Janakpuri / Akemi Pune) up to ₹17.50 Lakhs (e.g. JAGSoM Bangalore / Alliance University) for the full 2-year program depending on the institute\'s infrastructure and placements.',
           },
         },
         {
           '@type': 'Question',
-          name: 'Which entrance exams are accepted for PGDM Admission 2027 in Delhi?',
+          name: 'Which entrance exams are accepted for PGDM & MBA Admission 2027?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Most PGDM colleges accept CAT, XAT, MAT, CMAT, ATMA, and GMAT scores. Scores are followed by Group Discussion (GD), Personal Interview (PI), and past academic score evaluation.',
+            text: 'Most PGDM and MBA colleges accept national level entrance exams including CAT, XAT, MAT, CMAT, ATMA, or GMAT. Many institutes also conduct their own aptitude tests or accept state-level exams.',
           },
         },
       ],
@@ -126,28 +126,28 @@ const jsonLd = {
 
 const FAQ_ITEMS = [
   {
-    q: 'What is the difference between MBA and PGDM in Delhi NCR?',
-    a: 'MBA is a degree course awarded by universities, whereas PGDM (Post Graduate Diploma in Management) is offered by autonomous institutes approved by AICTE. When a PGDM institute holds AIU (Association of Indian Universities) equivalence, the diploma is legally identical to an MBA degree, with the added benefit of a corporate-oriented, frequently updated syllabus.',
+    q: 'What is the difference between MBA and PGDM in India?',
+    a: 'MBA is a degree course awarded by UGC-recognized universities, whereas PGDM (Post Graduate Diploma in Management) is offered by autonomous institutes approved by AICTE. When a PGDM institute holds AIU (Association of Indian Universities) equivalence, the diploma is legally identical to an MBA degree, with the added benefit of a corporate-oriented, frequently updated syllabus.',
   },
   {
-    q: 'Are all these 12 PGDM colleges AICTE approved?',
-    a: 'Yes, all 12 institutions listed on this portal (including NDIM, FOSTIIMA, FIIB, IILM, JIMS, MERI, NDIIT, DSB, EMPI, IMM, MAIMS, and ASM Apeejay) are approved by AICTE (All India Council for Technical Education), Government of India.',
+    q: 'Are all these listed PGDM and MBA colleges approved by AICTE or UGC?',
+    a: 'Yes, all 55 institutions listed on this portal across Delhi NCR, Gurgaon, Pune, Mumbai, and Bangalore are approved by AICTE (All India Council for Technical Education) or UGC (University Grants Commission), Government of India.',
   },
   {
-    q: 'What is the average PGDM fee structure in Delhi NCR for 2027?',
-    a: 'Fees range from ₹4.50 Lakhs (MAIMS Rohini / MERI Janakpuri) up to ₹12.90 Lakhs (IILM Lodhi Road) for the 2-year full-time program. Most institutes offer convenient semester installment plans and educational bank loan support.',
+    q: 'What is the average PGDM and MBA fee structure across major cities for 2027?',
+    a: 'Fees vary by region and ranking. For example, budget-friendly options start at around ₹2.90L - ₹5.00L (like Lloyd Business School, Akemi Pune, or GNIOT MBA), whereas premium business schools (like JAGSoM Bangalore, Alliance University, or Amity Noida) range from ₹11.00L to ₹17.50L for the full 2-year program.',
   },
   {
-    q: 'Which entrance exams are required for PGDM 2027 admissions?',
-    a: 'AICTE-approved B-schools accept CAT, XAT, MAT, CMAT, and ATMA scores. Candidates with valid entrance scores are called for GD-PI (Group Discussion & Personal Interview) rounds.',
+    q: 'Which entrance exams are required for PGDM and MBA 2027 admissions?',
+    a: 'AICTE-approved B-schools accept national-level entrance scores like CAT, XAT, MAT, CMAT, and ATMA. Selection usually comprises entrance exam scores followed by Group Discussion & Personal Interview (GD-PI) rounds.',
   },
   {
-    q: 'Can I get direct admission in PGDM colleges in Delhi?',
-    a: 'Yes, many institutes reserve seats under Management Quota / Executive Sponsorship categories or consider overall profile (Graduation marks, Work Experience, MAT/CMAT scores) for direct GD-PI shortlisting.',
+    q: 'Can I get direct admission in MBA or PGDM colleges under management quota?',
+    a: 'Yes, many private B-schools have provisions for direct admission under Management Quota, sponsored seats, or vacant seats. Candidates are evaluated based on their overall academic profile (Graduation & 12th marks), work experience, and basic interview performance.',
   },
   {
-    q: 'Why choose Delhi NCR for PGDM education?',
-    a: 'Delhi NCR is the corporate hub of North India, hosting headquarters of Fortune 500 companies, MNCs, and thriving startups. Studying in Delhi provides unparalleled internship opportunities, corporate guest lectures, and high placement packages.',
+    q: 'Which location is best for pursuing PGDM / MBA: Delhi NCR, Pune, Bangalore, or Mumbai?',
+    a: 'All four locations are major economic engines. Bangalore is the IT/Startup capital, Delhi NCR (especially Gurgaon and Noida) houses corporate headquarters and MNC offices, Mumbai/Navi Mumbai is the financial hub of India, and Pune offers a booming manufacturing and technology ecosystem. Choosing a location depends on your preferred sector and job goals.',
   },
 ];
 
@@ -227,7 +227,7 @@ export default function MbaPgdmAdmission2027Page() {
           <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
             <span className="inline-flex items-center gap-2 bg-white/5 border border-white/10 text-white/90 text-xs font-bold uppercase tracking-widest px-5 py-2.5 rounded-full mb-8 backdrop-blur-md shadow-inner">
               <BadgeCheck size={14} className="text-indigo-400" />
-              AICTE Approved B-Schools · Delhi NCR 2027 Directory
+              AICTE Approved B-Schools · Pan India 2027 Directory
             </span>
 
             <h1 className="display-font text-5xl md:text-8xl font-black text-white leading-none tracking-tight mb-8">
@@ -246,8 +246,8 @@ export default function MbaPgdmAdmission2027Page() {
             <div className="mt-16 grid grid-cols-3 gap-6 max-w-2xl mx-auto">
               {[
                 { num: `${MBA_PGDM_COLLEGES_2027.length}`, label: 'B-Schools Listed' },
-                { num: '₹4.50L', label: 'Starting Total Fee' },
-                { num: '100%', label: 'AICTE Approved' },
+                { num: '₹2.90L', label: 'Starting Total Fee' },
+                { num: '100%', label: 'Approved B-Schools' },
               ].map((s) => (
                 <div key={s.label} className="stat-card px-6 py-6 text-center">
                   <p className="display-font text-2xl md:text-3xl font-black text-white">{s.num}</p>
@@ -281,20 +281,20 @@ export default function MbaPgdmAdmission2027Page() {
               Capital Advantage
             </span>
             <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4 text-center">
-              Why pursue PGDM in Delhi NCR for 2027?
+              Why pursue PGDM &amp; MBA in 2027?
             </h2>
             <p className="text-gray-500 text-center mb-16 max-w-2xl mx-auto font-medium">
-              Delhi NCR is India&apos;s premier corporate hub, offering PGDM aspirants unmatched corporate access, industrial mentorship, and high-paying placement drives.
+              Top corporate hub campuses across Delhi NCR, Pune, Mumbai, and Bangalore offer PGDM &amp; MBA aspirants unmatched corporate access, industrial mentorship, and high-paying placement drives.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
                 { icon: '📜', title: 'AIU MBA Equivalence', desc: 'Top PGDM diplomas from NBA-accredited institutes are recognized by AIU as equivalent to an MBA degree, qualifying you for PhDs and PSU recruitment.' },
-                { icon: '🏙️', title: 'Delhi Corporate Hub', desc: 'Direct access to Corporate HQ offices in Cyber City Gurgaon, Noida Expressway, and Central Delhi for live projects and winter internships.' },
+                { icon: '🏙️', title: 'Corporate Hub Access', desc: 'Direct access to Corporate HQ offices in Cyber City Gurgaon, Noida Expressway, BKC Mumbai, Hinjawadi Pune, and Electronic City Bangalore for live projects and internships.' },
                 { icon: '🚀', title: 'Dual Specialization', desc: 'Combine major/minor streams such as FinTech + Marketing or Business Analytics + HR to double your campus placement prospects.' },
                 { icon: '💼', title: 'Top-Tier Recruiters', desc: 'Participate in placement drives visited by Deloitte, KPMG, EY, Amazon, ICICI Bank, Wipro, and Accenture on campus.' },
-                { icon: '🏆', title: 'NBA & ACBSP Accreditations', desc: 'Evaluate institutions holding international and national accreditations like NBA, SAQS, and ACBSP (USA) for academic quality.' },
-                { icon: '📊', title: 'High ROI & Installments', desc: 'Options starting at ₹4.5 Lakhs total fee with semester installment plans, educational bank loans, and merit scholarships.' },
+                { icon: '🏆', title: 'Accreditation Standards', desc: 'Evaluate institutions holding international and national accreditations like NBA, NAAC, UGC, and AACSB for high academic quality.' },
+                { icon: '📊', title: 'High ROI & Installments', desc: 'Options starting at ₹2.90 Lakhs total fee with semester installment plans, educational bank loans, and merit scholarships.' },
               ].map((item) => (
                 <div key={item.title} className="premium-card p-8 flex flex-col gap-4">
                   <div className="text-4xl">{item.icon}</div>
@@ -367,7 +367,7 @@ export default function MbaPgdmAdmission2027Page() {
             </h2>
             <div className="prose prose-slate max-w-none text-gray-600 font-medium text-sm md:text-base space-y-6">
               <p>
-                Pursuing a PGDM in Delhi NCR requires passing entrance exams, profile screening, and clearing personal interviews. Below is the step-by-step admission roadmap for the 2027 batch:
+                Pursuing a PGDM or MBA in 2027 requires passing entrance exams, profile screening, and clearing personal interviews. Below is the step-by-step admission roadmap for the 2027 batch:
               </p>
 
               <div className="bg-white border-l-[8px] border-indigo-600 p-6 rounded-r-2xl shadow-xs">
@@ -402,7 +402,7 @@ export default function MbaPgdmAdmission2027Page() {
               Frequently Asked Questions
             </h2>
             <p className="text-gray-500 text-center mb-16 font-medium">
-              Common questions about PGDM &amp; MBA admissions in Delhi NCR for 2027.
+              Common questions about PGDM &amp; MBA admissions in India for 2027.
             </p>
             <div className="space-y-3">
               {FAQ_ITEMS.map((item, i) => (
@@ -434,7 +434,7 @@ export default function MbaPgdmAdmission2027Page() {
               Book a free 1-on-1 career call with Mohit Jain. Get honest fee reviews, GD-PI call estimates, and direct admission guidance.
             </p>
             <a
-              href="https://wa.me/919560020771?text=Hi%2C%20I%20want%20counselling%20for%20MBA%2FPGDM%20Admission%202027%20in%20Delhi"
+              href="https://wa.me/919560020771?text=Hi%2C%20I%20want%20counselling%20for%20MBA%2FPGDM%20Admission%202027"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-gradient-to-r from-indigo-500 to-violet-600 text-white font-bold text-lg px-12 py-4.5 rounded-2xl hover:opacity-95 transition-all shadow-xl shadow-indigo-900/40 transform hover:-translate-y-0.5 border border-indigo-400/30"
