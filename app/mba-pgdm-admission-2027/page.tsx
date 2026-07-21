@@ -10,24 +10,15 @@ const PAGE_PATH = '/mba-pgdm-admission-2027';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'MBA & PGDM Admission 2027 Delhi NCR: Top Colleges, Fees & Cutoffs | CareerWithMohit',
+  title: 'MBA & PGDM Admission 2027: Top Colleges, Fees & Cutoffs | CareerWithMohit',
   description:
-    'Compare top 12 AICTE & AIU approved PGDM colleges in Delhi NCR for 2027 admission (NDIM, FOSTIIMA, FIIB, IILM, JIMS, MERI, DSB, Apeejay, etc.). Get fee structures, cutoffs, and free counselling.',
+    'Compare top AICTE & AIU approved PGDM and MBA colleges in Delhi NCR, Pune, Mumbai, and Bangalore for 2027 admission. Get fee structures, cutoffs, and free counselling.',
   keywords: [
     'PGDM admission 2027 Delhi',
     'MBA admission 2027 Delhi NCR',
-    'NDIM Delhi PGDM admission 2027',
-    'FOSTIIMA business school admission',
-    'FIIB Vasant Vihar PGDM fees',
-    'IILM Lodhi Road PGDM 2027',
-    'JIMS Kalkaji PGDM cutoff',
-    'MERI Janakpuri PGDM MBA',
-    'NDIIT Kalkaji admission',
-    'Delhi School of Business Pitampura',
-    'EMPI Chattarpur PGDM',
-    'IMM Qutab Institutional Area',
-    'Maharaja Agrasen Rohini PGDM',
-    'ASM Apeejay School of Management Dwarka',
+    'MBA admission Pune 2027',
+    'MBA admission Bangalore 2027',
+    'MBA admission Mumbai 2027',
     'best PGDM colleges in Delhi 2027',
     'AICTE approved PGDM colleges Delhi NCR',
   ],
@@ -35,18 +26,18 @@ export const metadata: Metadata = {
     canonical: PAGE_URL,
   },
   openGraph: {
-    title: 'MBA & PGDM Admission 2027 Delhi NCR | Top Colleges & Fees | CareerWithMohit',
+    title: 'MBA & PGDM Admission 2027: Top Colleges & Fees | CareerWithMohit',
     description:
-      'Compare 12 premier PGDM/MBA institutes in Delhi NCR. Get fee breakdowns, accreditation details, and 1-on-1 counseling with Mohit Jain.',
+      'Compare premier PGDM/MBA institutes across Delhi NCR, Pune, Mumbai, and Bangalore. Get fee breakdowns, accreditation details, and 1-on-1 counseling with Mohit Jain.',
     url: PAGE_URL,
     siteName: 'CareerWithMohit',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'MBA & PGDM Admission 2027 Delhi NCR | Top Colleges List',
+    title: 'MBA & PGDM Admission 2027: Top Colleges List',
     description:
-      'Compare 12 AICTE & AIU approved PGDM colleges in Delhi NCR. Free counselling by Mohit Jain.',
+      'Compare AICTE & AIU approved PGDM/MBA colleges across major business hubs. Free counselling by Mohit Jain.',
     creator: '@careerwithmohit',
   },
   robots: {
@@ -64,9 +55,9 @@ const jsonLd = {
       '@type': 'WebPage',
       '@id': PAGE_URL,
       url: PAGE_URL,
-      name: 'MBA & PGDM Admission 2027 Delhi NCR | Top Colleges, Fees & Cutoffs | CareerWithMohit',
+      name: 'MBA & PGDM Admission 2027 | Top Colleges, Fees & Cutoffs | CareerWithMohit',
       description:
-        'Compare top 12 AICTE & AIU approved PGDM colleges in Delhi NCR. Find fees, accreditations, and get FREE expert counselling.',
+        'Compare top AICTE & AIU approved PGDM & MBA colleges in Delhi NCR, Pune, Mumbai, and Bangalore. Find fees, accreditations, and get FREE expert counselling.',
       isPartOf: { '@id': `${BASE_URL}/#website` },
       breadcrumb: {
         '@type': 'BreadcrumbList',
@@ -78,8 +69,8 @@ const jsonLd = {
     },
     {
       '@type': 'ItemList',
-      name: 'Top PGDM & MBA Colleges in Delhi NCR 2027',
-      description: 'List of top AICTE approved PGDM institutes in Delhi NCR.',
+      name: 'Top PGDM & MBA Colleges 2027',
+      description: 'List of top AICTE approved PGDM and MBA institutes across India.',
       url: PAGE_URL,
       numberOfItems: MBA_PGDM_COLLEGES_2027.length,
       itemListElement: MBA_PGDM_COLLEGES_2027.map((c, index) => ({
@@ -244,27 +235,13 @@ export default function MbaPgdmAdmission2027Page() {
             </h1>
 
             <p className="text-white/70 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed font-medium mb-12">
-              Compare Delhi NCR&apos;s 12 top AICTE-approved PGDM business schools side-by-side. Inspect detailed 2-year fee structures, campus locations, NBA/AIU accreditations, and get direct expert counselling.
+              Compare top AICTE-approved PGDM &amp; MBA business schools side-by-side. Inspect detailed 2-year fee structures, campus locations, NBA/AIU accreditations, and get direct expert counselling.
             </p>
-
-            {/* Quick College Links Pills */}
-            <div className="flex flex-wrap justify-center gap-2.5 max-w-5xl mx-auto relative z-20">
-              {MBA_PGDM_COLLEGES_2027.map((col) => (
-                <a
-                  key={col.universitySlug}
-                  href="#colleges-directory"
-                  className="bg-white/5 hover:bg-indigo-600 hover:border-indigo-500 text-white border border-white/10 rounded-full px-4 py-2 text-xs font-bold tracking-wider transition-all backdrop-blur-md shadow-md flex items-center gap-1.5"
-                >
-                  <span>{col.name.split('(')[0].trim()}</span>
-                  <span className="opacity-40 text-[9px] font-black tracking-widest uppercase">PGDM</span>
-                </a>
-              ))}
-            </div>
 
             {/* Hero Stats */}
             <div className="mt-16 grid grid-cols-3 gap-6 max-w-2xl mx-auto">
               {[
-                { num: `${MBA_PGDM_COLLEGES_2027.length}`, label: 'Delhi B-Schools Listed' },
+                { num: `${MBA_PGDM_COLLEGES_2027.length}`, label: 'B-Schools Listed' },
                 { num: '₹4.50L', label: 'Starting Total Fee' },
                 { num: '100%', label: 'AICTE Approved' },
               ].map((s) => (
