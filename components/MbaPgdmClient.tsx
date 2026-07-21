@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
+import Link from 'next/link';
 import {
   MapPin, BadgeCheck, Search, X, SlidersHorizontal, Phone,
   ChevronDown, GraduationCap, Building2, Award, CheckCircle2, MessageCircle
@@ -255,6 +256,63 @@ function CollegeDetailModal({
   );
 }
 
+function getReviewSlug(name: string): string | null {
+  const n = name.toLowerCase();
+  if (n.includes('new delhi institute of management') || n.includes('ndim')) return 'all-about-ndim-delhi';
+  if (n.includes('fostiima')) return 'all-about-fostiima-delhi';
+  if (n.includes('fortune institute of international business') || n.includes('fiib')) return 'all-about-fiib-delhi';
+  if (n.includes('lodhi road') || (n.includes('iilm') && n.includes('lodhi'))) return 'all-about-iilm-lodhi-road-delhi';
+  if (n.includes('jims kalkaji')) return 'all-about-jims-kalkaji';
+  if (n.includes('management education & research institute') || n.includes('meri')) return 'all-about-meri-delhi';
+  if (n.includes('delhi school of business')) return 'all-about-dsb-delhi';
+  if (n.includes('empi')) return 'all-about-empi-delhi';
+  if (n.includes('institute of marketing & management') || n.includes('imm')) return 'all-about-imm-delhi';
+  if (n.includes('apeejay') || n.includes('asm apeejay')) return 'all-about-asm-apeejay-delhi';
+  if (n.includes('jaipuria school of business') || (n.includes('jaipuria') && n.includes('ghaziabad'))) return 'all-about-jaipuria-school-of-business-ghaziabad';
+  if (n.includes('its ghaziabad') || n.includes('i.t.s')) return 'all-about-its-ghaziabad';
+  if (n.includes('jaipuria noida') || (n.includes('jaipuria') && n.includes('noida'))) return 'all-about-jaipuria-noida';
+  if (n.includes('hierank')) return 'all-about-hierank-noida';
+  if (n.includes('gniot')) return 'all-about-gniot-greater-noida';
+  if (n.includes('gl bajaj') || n.includes('g.l. bajaj')) return 'all-about-gl-bajaj-greater-noida';
+  if (n.includes('accurate')) return 'all-about-accurate-greater-noida';
+  if (n.includes('niet')) return 'all-about-niet-greater-noida';
+  if (n.includes('i business institute') || n.includes('ibi')) return 'all-about-ibi-greater-noida';
+  if (n.includes('lloyd')) return 'all-about-lloyd-business-school-greater-noida';
+  if (n.includes('iilm greater noida')) return 'all-about-iilm-greater-noida';
+  if (n.includes('bennett')) return 'all-about-bennett-university';
+  if (n.includes('mangalmay')) return 'all-about-mangalmay-greater-noida';
+  if (n.includes('sparsh')) return 'all-about-sparsh-global-greater-noida';
+  if (n.includes('jk business') || n.includes('jkbs')) return 'all-about-jk-business-school-gurugram';
+  if (n.includes('ibmr')) return 'all-about-ibmr-gurgaon';
+  if (n.includes('isbs') || n.includes('isb&m')) return 'all-about-isbs-gurgaon';
+  if (n.includes('bml munjal') || n.includes('bmu')) return 'all-about-bml-munjal-university';
+  if (n.includes('soil')) return 'all-about-soil-gurgaon';
+  if (n.includes('iilm gurugram') || n.includes('iilm gurgaon') || n.includes('iilm university')) return 'all-about-iilm-gurgaon';
+  if (n.includes('st. andrews') || n.includes('saitm') || n.includes('st. andrew')) return 'all-about-st-andrews-gurgaon';
+  if (n.includes('pibm') || n.includes('pune institute of business')) return 'all-about-pibm-pune';
+  if (n.includes('lexicon') || n.includes('mile')) return 'all-about-lexicon-management-institute-of-leadership-excellence';
+  if (n.includes('riim')) return 'all-about-riim-pune';
+  if (n.includes('asm institute') || n.includes('asm ibmr')) return 'all-about-asm-ibmr';
+  if (n.includes('d.y. patil') || n.includes('dy patil')) return 'all-about-dy-patil-b-school';
+  if (n.includes('iiebm') || n.includes('indus')) return 'all-about-iiebm-pune';
+  if (n.includes('akemi')) return 'all-about-akemi-business-school';
+  if (n.includes('isms')) return 'all-about-isms-pune';
+  if (n.includes('atlas')) return 'all-about-atlas-skilltech-mumbai';
+  if (n.includes('ubs') || n.includes('universal')) return 'all-about-universal-ai-mumbai';
+  if (n.includes('itm')) return 'all-about-itm-mumbai';
+  if (n.includes('kothari')) return 'all-about-js-kothari-mumbai';
+  if (n.includes('amity mumbai')) return 'all-about-amity-mumbai';
+  if (n.includes('jagsom mumbai') || (n.includes('jagsom') && n.includes('karjat'))) return 'all-about-jagsom-mumbai';
+  if (n.includes('isbr')) return 'all-about-isbr-bangalore';
+  if (n.includes('iibs')) return 'all-about-iibs-bangalore';
+  if (n.includes('gibs')) return 'all-about-gibs-bangalore';
+  if (n.includes('alliance')) return 'all-about-alliance-university-bangalore';
+  if (n.includes('isme')) return 'all-about-isme-bangalore';
+  if (n.includes('indus business academy') || n.includes('iba bangalore')) return 'all-about-indus-business-academy';
+  if (n.includes('jagsom bangalore') || (n.includes('jagsom') && n.includes('electronic city'))) return 'all-about-jagsom-bangalore';
+  return null;
+}
+
 export default function MbaPgdmClient() {
   const [search, setSearch] = useState('');
   const [selectedLocation, setSelectedLocation] = useState('All');
@@ -397,107 +455,120 @@ export default function MbaPgdmClient() {
 
         {/* College Cards Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {filteredColleges.map((college) => (
-            <div
-              key={college.universitySlug}
-              className="bg-white rounded-3xl border border-slate-200/80 shadow-md hover:shadow-2xl transition-all duration-300 flex flex-col justify-between overflow-hidden group hover:-translate-y-1.5"
-            >
-              {/* Card Header */}
-              <div>
-                <div className={`bg-gradient-to-r ${college.gradeColor} p-6 text-white relative`}>
-                  <div className="flex items-center justify-between mb-3">
-                    <span className="bg-white/20 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full border border-white/20">
-                      {college.grade}
-                    </span>
-                    <span className="bg-white/20 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full border border-white/20">
-                      {college.badge}
-                    </span>
+          {filteredColleges.map((college) => {
+            const reviewSlug = getReviewSlug(college.name);
+            return (
+              <div
+                key={college.universitySlug}
+                className="bg-white rounded-3xl border border-slate-200/80 shadow-md hover:shadow-2xl transition-all duration-300 flex flex-col justify-between overflow-hidden group hover:-translate-y-1.5"
+              >
+                {/* Card Header */}
+                <div>
+                  <div className={`bg-gradient-to-r ${college.gradeColor} p-6 text-white relative`}>
+                    <div className="flex items-center justify-between mb-3">
+                      <span className="bg-white/20 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full border border-white/20">
+                        {college.grade}
+                      </span>
+                      <span className="bg-white/20 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full border border-white/20">
+                        {college.badge}
+                      </span>
+                    </div>
+                    <h3 className="font-black text-xl leading-tight mb-2 group-hover:text-amber-200 transition-colors">
+                      {college.name}
+                    </h3>
+                    <div className="flex items-center gap-1.5 text-xs text-white/90 font-medium">
+                      <MapPin size={13} className="shrink-0 text-white" />
+                      <span>{college.location}</span>
+                    </div>
                   </div>
-                  <h3 className="font-black text-xl leading-tight mb-2 group-hover:text-amber-200 transition-colors">
-                    {college.name}
-                  </h3>
-                  <div className="flex items-center gap-1.5 text-xs text-white/90 font-medium">
-                    <MapPin size={13} className="shrink-0 text-white" />
-                    <span>{college.location}</span>
+
+                  {/* Card Content Body */}
+                  <div className="p-6 space-y-4">
+                    <div className="flex items-center justify-between border-b border-slate-100 pb-3">
+                      <div>
+                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-widest">Total Course Fee</p>
+                        <p className="text-lg font-black text-emerald-700">{college.fee}</p>
+                      </div>
+                      <div className="text-right">
+                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-widest">Course</p>
+                        <p className="text-sm font-bold text-slate-800">{college.programs[0]}</p>
+                      </div>
+                    </div>
+
+                    <p className="text-gray-600 text-xs line-clamp-3 leading-relaxed font-medium">
+                      {college.about}
+                    </p>
+
+                    <div className="space-y-1.5 pt-1">
+                      {college.highlights.slice(0, 3).map((h, i) => (
+                        <div key={i} className="flex items-center gap-2 text-[11px] font-semibold text-slate-700">
+                          <CheckCircle2 size={13} className="text-indigo-600 shrink-0" />
+                          <span className="truncate">{h}</span>
+                        </div>
+                      ))}
+                    </div>
+
+                    {college.specializations && college.specializations['PGDM'] && (
+                      <div className="pt-2">
+                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-widest mb-2">Specializations</p>
+                        <div className="flex flex-wrap gap-1">
+                          {college.specializations['PGDM'].slice(0, 3).map((spec) => (
+                            <span key={spec} className="bg-slate-100 text-slate-700 text-[10px] font-bold px-2 py-0.5 rounded">
+                              {spec}
+                            </span>
+                          ))}
+                          {college.specializations['PGDM'].length > 3 && (
+                            <span className="bg-indigo-50 text-indigo-600 text-[10px] font-bold px-2 py-0.5 rounded">
+                              +{college.specializations['PGDM'].length - 3} more
+                            </span>
+                          )}
+                        </div>
+                      </div>
+                    )}
                   </div>
                 </div>
 
-                {/* Card Content Body */}
-                <div className="p-6 space-y-4">
-                  <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-                    <div>
-                      <p className="text-[10px] text-gray-400 font-bold uppercase tracking-widest">Total Course Fee</p>
-                      <p className="text-lg font-black text-emerald-700">{college.fee}</p>
-                    </div>
-                    <div className="text-right">
-                      <p className="text-[10px] text-gray-400 font-bold uppercase tracking-widest">Course</p>
-                      <p className="text-sm font-bold text-slate-800">{college.programs[0]}</p>
-                    </div>
-                  </div>
-
-                  <p className="text-gray-600 text-xs line-clamp-3 leading-relaxed font-medium">
-                    {college.about}
-                  </p>
-
-                  <div className="space-y-1.5 pt-1">
-                    {college.highlights.slice(0, 3).map((h, i) => (
-                      <div key={i} className="flex items-center gap-2 text-[11px] font-semibold text-slate-700">
-                        <CheckCircle2 size={13} className="text-indigo-600 shrink-0" />
-                        <span className="truncate">{h}</span>
-                      </div>
-                    ))}
-                  </div>
-
-                  {college.specializations && college.specializations['PGDM'] && (
-                    <div className="pt-2">
-                      <p className="text-[10px] text-gray-400 font-bold uppercase tracking-widest mb-2">Specializations</p>
-                      <div className="flex flex-wrap gap-1">
-                        {college.specializations['PGDM'].slice(0, 3).map((spec) => (
-                          <span key={spec} className="bg-slate-100 text-slate-700 text-[10px] font-bold px-2 py-0.5 rounded">
-                            {spec}
-                          </span>
-                        ))}
-                        {college.specializations['PGDM'].length > 3 && (
-                          <span className="bg-indigo-50 text-indigo-600 text-[10px] font-bold px-2 py-0.5 rounded">
-                            +{college.specializations['PGDM'].length - 3} more
-                          </span>
-                        )}
-                      </div>
-                    </div>
-                  )}
-                </div>
-              </div>
-
-              {/* Card Footer Actions */}
-              <div className="p-6 pt-0 space-y-2">
-                <button
-                  onClick={() => setSelectedCollegeForInquiry(college)}
-                  className="w-full bg-[#0f172a] hover:bg-indigo-600 text-white font-bold py-3 rounded-xl text-xs transition-colors flex items-center justify-center gap-2 shadow-xs"
-                >
-                  Direct Admission Inquiry →
-                </button>
-
-                <div className="flex gap-2">
+                {/* Card Footer Actions */}
+                <div className="p-6 pt-0 space-y-2">
                   <button
-                    onClick={() => setSelectedCollegeForDetail(college)}
-                    className="flex-1 bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold py-2.5 rounded-xl text-xs transition-colors text-center"
+                    onClick={() => setSelectedCollegeForInquiry(college)}
+                    className="w-full bg-[#0f172a] hover:bg-indigo-600 text-white font-bold py-3 rounded-xl text-xs transition-colors flex items-center justify-center gap-2 shadow-xs"
                   >
-                    View Details
+                    Direct Admission Inquiry →
                   </button>
-                  <a
-                    href={`https://wa.me/${college.whatsapp}?text=${encodeURIComponent(`Hi, I want details regarding MBA/PGDM 2027 admission at ${college.name}`)}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 text-emerald-700 font-bold px-3 py-2.5 rounded-xl text-xs transition-colors flex items-center justify-center gap-1"
-                    title="Chat on WhatsApp"
-                  >
-                    <MessageCircle size={15} />
-                    <span>WhatsApp</span>
-                  </a>
+
+                  {reviewSlug && (
+                    <Link
+                      href={`/blog/${reviewSlug}`}
+                      className="w-full bg-indigo-50 hover:bg-indigo-100 border border-indigo-200 text-indigo-700 font-bold py-2.5 rounded-xl text-xs transition-colors flex items-center justify-center gap-1.5 shadow-xs"
+                    >
+                      <GraduationCap size={14} className="text-indigo-600" />
+                      Read College Review
+                    </Link>
+                  )}
+
+                  <div className="flex gap-2">
+                    <button
+                      onClick={() => setSelectedCollegeForDetail(college)}
+                      className="flex-1 bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold py-2.5 rounded-xl text-xs transition-colors text-center"
+                    >
+                      View Details
+                    </button>
+                    <a
+                      href={`https://wa.me/${college.whatsapp}?text=${encodeURIComponent(`Hi, I want details regarding MBA/PGDM 2027 admission at ${college.name}`)}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 text-emerald-700 font-bold px-3 py-2.5 rounded-xl text-xs transition-colors flex items-center justify-center gap-1"
+                      title="Chat on WhatsApp"
+                    >
+                      <MessageCircle size={15} />
+                      <span>WhatsApp</span>
+                    </a>
+                  </div>
                 </div>
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
 
         {/* Empty state */}
