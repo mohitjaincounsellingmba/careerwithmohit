@@ -14,13 +14,17 @@ export const metadata: Metadata = {
   description:
     'Compare top AICTE & AIU approved PGDM and MBA colleges in Delhi NCR, Pune, Mumbai, and Bangalore for 2027 admission. Get fee structures, cutoffs, and free counselling.',
   keywords: [
-    'PGDM admission 2027 Delhi',
-    'MBA admission 2027 Delhi NCR',
+    'PGDM admission 2027 India',
+    'MBA admission 2027 Pan India',
+    'top PGDM colleges in India 2027',
+    'MBA admission Delhi NCR 2027',
     'MBA admission Pune 2027',
     'MBA admission Bangalore 2027',
     'MBA admission Mumbai 2027',
-    'best PGDM colleges in Delhi 2027',
-    'AICTE approved PGDM colleges Delhi NCR',
+    'best Pan India PGDM colleges',
+    'AICTE approved PGDM MBA colleges India',
+    'Pan India business schools ranking',
+    'direct admission in MBA colleges India'
   ],
   alternates: {
     canonical: PAGE_URL,
