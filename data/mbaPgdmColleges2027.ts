@@ -277,5 +277,49 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     specializations: {
       'PGDM': ['Marketing & E-Commerce', 'Financial Markets & Banking', 'Human Resource Analytics', 'Operations & Business Analytics', 'International Business']
     }
+  },
+  {
+    name: 'Jaipuria School of Business (JSB)',
+    universitySlug: 'jaipuria-school-of-business-ghaziabad',
+    location: 'Indirapuram, Ghaziabad',
+    fee: '₹7.90 Lakhs (Total)',
+    feeNum: 790000,
+    accreditation: 'AICTE Approved · Jaipuria Legacy Brand',
+    programs: ['PGDM'],
+    badge: 'Jaipuria Legacy',
+    grade: 'Approved',
+    gradeColor: 'from-amber-600 to-amber-800',
+    about: 'Jaipuria School of Business (JSB), located in Indirapuram, Ghaziabad, is a premier PGDM institution under the Jaipuria Group of Educational Institutions. JSB offers an industry-centric curriculum, dual specialization pathways, and strong corporate networks for excellent placement outcomes.',
+    highlights: ['Part of the prestigious Jaipuria Education Group', 'Highly active corporate mentoring & guest lectures', 'Modern Indirapuram campus close to Noida/Delhi border', 'Focus on industry readiness and real-world internships'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Case-study Approach',
+    approvals: 'AICTE Approved, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Digital Media', 'Financial Services', 'Human Resource Management', 'Business Analytics & IT', 'Operations & Supply Chain']
+    }
+  },
+  {
+    name: 'ITS Ghaziabad (Mohan Nagar)',
+    universitySlug: 'its-ghaziabad-mohan-nagar',
+    location: 'Mohan Nagar, Ghaziabad',
+    fee: '₹2.75L - ₹6.50L (Total)',
+    feeNum: 650000,
+    accreditation: 'AICTE Approved · NBA Accredited · NAAC Grade A',
+    programs: ['MBA', 'PGDM'],
+    badge: 'NAAC Grade A',
+    grade: 'Grade A',
+    gradeColor: 'from-rose-600 to-rose-900',
+    about: 'ITS Ghaziabad (Institute of Technology & Science) is a highly prominent B-school located in Mohan Nagar, Ghaziabad. ITS offers both a university-affiliated MBA and an autonomous AICTE-approved PGDM, characterized by high placement records and excellent student growth models.',
+    highlights: ['NAAC Grade A accredited B-school', 'Affordable university-affiliated MBA and autonomous PGDM', 'Strong industrial visit schedules and outbound training', 'Stellar placement record in manufacturing, IT, and FMCG sectors'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Outbound Industry Training',
+    approvals: 'AICTE Approved, Affiliated to AKTU (for MBA), NAAC Grade A, NBA',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business'],
+      'PGDM': ['Marketing & Sales', 'Corporate Finance', 'Human Resource Capital', 'Business Analytics', 'Digital Business']
+    }
   }
 ];
+
