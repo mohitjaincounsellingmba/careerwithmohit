@@ -271,7 +271,9 @@ export default function MbaPgdmClient() {
         c.about.toLowerCase().includes(search.toLowerCase());
 
       const matchesLocation =
-        selectedLocation === 'All' || c.location.toLowerCase().includes(selectedLocation.toLowerCase());
+        selectedLocation === 'All' ||
+        c.location.toLowerCase().includes(selectedLocation.toLowerCase()) ||
+        (selectedLocation === 'Gurgaon' && c.location.toLowerCase().includes('gurugram'));
 
       const matchesFee = c.feeNum >= selectedFee.min && c.feeNum <= selectedFee.max;
 
