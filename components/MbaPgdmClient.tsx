@@ -7,7 +7,7 @@ import {
 } from 'lucide-react';
 import { MBA_PGDM_COLLEGES_2027, MbaPgdmCollege } from '@/data/mbaPgdmColleges2027';
 
-const LOCATIONS = ['All', 'South Delhi', 'West Delhi', 'North-West Delhi', 'Central Delhi', 'Ghaziabad'];
+const LOCATIONS = ['All', 'South Delhi', 'West Delhi', 'North-West Delhi', 'Central Delhi', 'Ghaziabad', 'Noida'];
 const FEE_RANGES = [
   { label: 'All Fees', min: 0, max: Infinity },
   { label: 'Under ₹6 Lakhs', min: 0, max: 600000 },

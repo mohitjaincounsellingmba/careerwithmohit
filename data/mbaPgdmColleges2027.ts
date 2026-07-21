@@ -320,6 +320,73 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
       'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business'],
       'PGDM': ['Marketing & Sales', 'Corporate Finance', 'Human Resource Capital', 'Business Analytics', 'Digital Business']
     }
+  },
+  {
+    name: 'Jaipuria Institute of Management',
+    universitySlug: 'jaipuria-noida',
+    location: 'Sector 62, Noida',
+    fee: '₹14.50 Lakhs (Total)',
+    feeNum: 1450000,
+    accreditation: 'AICTE Approved · NBA Accredited · AIU Equivalent',
+    programs: ['PGDM', 'PGDM Service Management', 'PGDM Marketing'],
+    badge: 'Flagship Noida',
+    grade: 'AIU Eq.',
+    gradeColor: 'from-amber-500 to-amber-700',
+    about: 'Jaipuria Institute of Management Noida is the flagship campus of the Jaipuria Group. It is highly ranked for PGDM courses, carrying NBA accreditation and AIU MBA equivalence. Known for international immersion and premium corporate connections.',
+    highlights: ['AIU recognized MBA Equivalence', 'Top 50 NIRF ranked B-School', 'Stellar placement packages in MNCs', 'Modern campus in Noida Tech Hub'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & International Immersion',
+    approvals: 'AICTE, NBA Accredited, AIU Equivalent',
+    whatsapp: '919560020771',
+    specializations: {
+      'PGDM': ['Marketing & Brand Strategy', 'Financial Services', 'Human Resources Capital', 'Business Analytics', 'Operations Management'],
+      'PGDM Service Management': ['Retail Management', 'FinTech', 'Service Analytics'],
+      'PGDM Marketing': ['Digital Marketing', 'Consumer Insights', 'Sales & Distribution']
+    }
+  },
+  {
+    name: 'Hierank Business School',
+    universitySlug: 'hierank-noida',
+    location: 'Sector 62, Noida',
+    fee: '₹2.95 Lakhs (Total)',
+    feeNum: 295000,
+    accreditation: 'AICTE Approved · AKTU Affiliated',
+    programs: ['MBA'],
+    badge: 'Value B-School',
+    grade: 'Approved',
+    gradeColor: 'from-slate-600 to-slate-800',
+    about: 'Hierank Business School, situated in the hub of Sector 62 Noida, offers a value-driven MBA program affiliated with AKTU. Focusing on practical exposure and corporate readiness, Hierank provides solid opportunities at affordable fees.',
+    highlights: ['Affordable fee with strong local ROI', 'Located in Sector 62 corporate and IT hub', 'Dedicated personality development classes', 'Regular industry workshops and lectures'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Core Industry Exposure',
+    approvals: 'AICTE Approved, Affiliated to AKTU, Govt. of India',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business']
+    }
+  },
+  {
+    name: 'Amity University (Noida Campus)',
+    universitySlug: 'amity-noida',
+    location: 'Sector 125, Noida',
+    fee: '₹15.20 Lakhs (Total)',
+    feeNum: 1520000,
+    accreditation: 'UGC Approved · WES Globally Recognized · NAAC A+ Rated',
+    programs: ['MBA', 'MBA Business Analytics', 'MBA HR'],
+    badge: 'World-Class Campus',
+    grade: 'A+ Rated',
+    gradeColor: 'from-blue-600 to-blue-800',
+    about: 'Amity University Noida campus is a premier global institution. Offering an elite MBA program with state-of-the-art labs, tie-ups with global universities, and a highly premium recruiter list, it is a top preference for global management careers.',
+    highlights: ['WES approved for global education/visas', 'Premium campus infrastructure & global network', '100% placement support in tier-1 MNCs', 'Diverse MBA tracks and specialized modules'],
+    duration: '2 Years (Full-Time)',
+    mode: 'Classroom & Corporate Immersion',
+    approvals: 'UGC, NAAC A+ Rated, WES, ACBSP, IACBE',
+    whatsapp: '919560020771',
+    specializations: {
+      'MBA': ['General Management', 'Marketing & Sales', 'Finance & FinTech', 'HR Capital', 'International Business'],
+      'MBA Business Analytics': ['Data Engineering', 'Predictive Modeling', 'Data Visualization'],
+      'MBA HR': ['Strategic HR', 'Talent Acquisition', 'Compensation Management']
+    }
   }
 ];
 
