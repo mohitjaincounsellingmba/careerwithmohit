@@ -31,9 +31,9 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[BIMTECH (Birla Institute of Management Technology)](/colleges/bimtech-greater-noida)** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
+| **[BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))](/colleges/bimtech-greater-noida)** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
 | **[Sharda University (School of Business Studies)](/colleges/sharda-greater-noida)** | SUAT / CAT / MAT | ₹6.5 Lakhs (Total) | **₹5.80 LPA** |
-| **[GNIOT (GIMS - GNIOT Institute of Management Studies)](/colleges/gniot-greater-noida)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
+| **[GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))](/colleges/gniot-greater-noida)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
 | **[GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.00 LPA** |
 
 ---
@@ -113,7 +113,7 @@ Source: Shiksha.com
 ### Does BIMTECH Greater Noida offer FinTech specialization?
 Yes, BIMTECH's general PGDM program allows students to specialize in financial services and FinTech, which is highly popular among top consulting and services recruiters.
 
-### What is the fee structure for Sharda University MBA?
+### What is the fee structure for [Sharda University](/colleges/sharda-greater-noida) MBA?
 Sharda University offers its MBA in FinTech with a total program fee of around INR 6.5 Lakhs, making it a balanced choice.
 
 ### What exams does GNIOT accept?

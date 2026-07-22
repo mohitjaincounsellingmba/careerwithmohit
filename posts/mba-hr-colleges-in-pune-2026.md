@@ -45,7 +45,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ## 🚀 Why Choose Pune for an MBA in HR?
 
-Known as the educational capital of Maharashtra, Pune is a massive industrial, automobile, and IT hub. For students aiming to build a career in Human Resources, Pune hosts Symbiosis campuses like SCMHRD (which is globally renowned for HR specializations) and SIBM Pune, alongside prestigious departments like PUMBA that provide a solid launching pad into corporate employee relations and organization development roles.
+Known as the educational capital of Maharashtra, Pune is a massive industrial, automobile, and IT hub. For students aiming to build a career in Human Resources, Pune hosts Symbiosis campuses like SCMHRD (which is globally renowned for HR specializations) and [SIBM Pune](/colleges/sibm-pune), alongside prestigious departments like PUMBA that provide a solid launching pad into corporate employee relations and organization development roles.
 
 Choosing a B-school in this region offers key advantages:
 - **Corporate Hub Proximity:** Direct access to internship programs, corporate site visits, and industry guest lectures.
@@ -56,7 +56,7 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Pune
 
-### 1. SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)
+### 1. [SCMHRD Pune](/colleges/scmhrd-pune) (Symbiosis Centre for Management and Human Resource Development)
 - **Approximate Fees:** ₹23.7 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹23.71 LPA**
@@ -68,13 +68,13 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹28.16 LPA**
 - **Key Highlight:** Flagship Symbiosis campus offering stellar HR consulting and corporate advisory placements.
 
-### 3. PUMBA Pune (Department of Management Sciences, Pune University)
+### 3. [PUMBA Pune](/colleges/pumba-pune) (Department of Management Sciences, Pune University)
 - **Approximate Fees:** ₹1.3 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT / CMAT
 - **Average Placement Package:** **₹8.85 LPA**
 - **Key Highlight:** Outstanding ROI with extremely subsidized state university fees and good regional HR recruiter base.
 
-### 4. PIBM Pune (Pune Institute of Business Management)
+### 4. [PIBM Pune](/colleges/pibm-pune) (Pune Institute of Business Management)
 - **Approximate Fees:** ₹8.75 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹7.50 LPA**

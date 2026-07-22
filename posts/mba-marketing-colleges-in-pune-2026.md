@@ -117,13 +117,13 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the SNAP cutoff for SIBM Pune Marketing?
+### What is the SNAP cutoff for [SIBM Pune](/colleges/sibm-pune) Marketing?
 SIBM Pune typically requires a SNAP percentile of 97 to 98+ for general category students seeking admission to its flagship MBA program.
 
 ### Which MBA college in Pune has the best ROI for Marketing?
-PUMBA Pune has extremely low fees (approximately INR 65,000 per year for Maharashtra candidates) and an average package of INR 8.85 LPA, making it an excellent ROI choice.
+[PUMBA Pune](/colleges/pumba-pune) has extremely low fees (approximately INR 65,000 per year for Maharashtra candidates) and an average package of INR 8.85 LPA, making it an excellent ROI choice.
 
-### Is PIBM Pune good for sales roles?
+### Is [PIBM Pune](/colleges/pibm-pune) good for sales roles?
 Yes, PIBM Pune is highly regarded for its rigorous practical training system that incorporates real-world sales stints, making graduates highly ready for corporate business development roles.
 
 

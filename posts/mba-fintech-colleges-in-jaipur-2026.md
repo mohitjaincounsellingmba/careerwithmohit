@@ -34,7 +34,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 | **[Taxila Business School](/colleges/taxila-jaipur)** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹11.50 LPA** |
 | **[Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur)** | CAT / MAT / CMAT / XAT | ₹11.5 Lakhs (Total) | **₹7.40 LPA** |
 | **[Manipal University, Jaipur](/colleges/manipal-university-jaipur)** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹6.50 LPA** |
-| **IIHMR University, Jaipur** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.80 LPA** |
+| **[IIHMR University](/colleges/iihmr-university), Jaipur** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
 
@@ -110,13 +110,13 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is Taxila Business School good for fintech?
+### Is [Taxila Business School](/colleges/taxila-jaipur) good for fintech?
 Yes, Taxila is known for its rigorous academic curriculum and heavy emphasis on modern financial tools, analytics, and business software.
 
 ### What is the average package for finance in Jaipur B-schools?
 The average placement package for private B-schools in Jaipur ranges from INR 6.5 LPA to 7.5 LPA, with some corporate profiles securing higher starts.
 
-### Does Jaipuria Jaipur offer fintech specialization?
+### Does [Jaipuria Jaipur](/colleges/jaipuria-jaipur) offer fintech specialization?
 Yes, Jaipuria Jaipur provides PGDM with specialized finance electives that include digital banking, project management, and risk strategy.
 
 

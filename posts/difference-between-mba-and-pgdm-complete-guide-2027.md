@@ -34,9 +34,9 @@ If a PGDM program is accredited by the **NBA (National Board of Accreditation)**
 2. Pursue a PhD in India or abroad.
 
 ### 🏫 Recommended AIU Equivalent Colleges (2027)
-* **New Delhi Institute of Management (NDIM) (NDIM)** - South Delhi - AICTE approved & AIU Equivalent.
-* **Fortune Institute of International Business (FIIB) (FIIB)** - Vasant Vihar, Delhi - NBA Accredited.
-* **ISBR Business School (Bangalore) (ISBR Bangalore)** - Bangalore - NBA & AIU Equivalent.
+* **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) (NDIM)** - South Delhi - AICTE approved & AIU Equivalent.
+* **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) (FIIB)** - Vasant Vihar, Delhi - NBA Accredited.
+* **[ISBR Business School](/colleges/isbr-bangalore) (Bangalore) (ISBR Bangalore)** - Bangalore - NBA & AIU Equivalent.
 
 ---
 

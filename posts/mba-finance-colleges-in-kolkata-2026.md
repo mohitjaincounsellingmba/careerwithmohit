@@ -110,7 +110,7 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is IIM Calcutta considered the best for Finance?
+### Why is [IIM Calcutta](/colleges/iim-calcutta) considered the best for Finance?
 IIM Calcutta has a rich quantitative tradition, excellent finance faculty, and is the absolute first choice for top global investment banking and private equity recruiters.
 
 ### What is the fee structure for IISWBM Kolkata?

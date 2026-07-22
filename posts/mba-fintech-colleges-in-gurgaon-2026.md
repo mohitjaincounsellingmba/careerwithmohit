@@ -110,13 +110,13 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is MDI Gurgaon highly ranked for FinTech?
+### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly ranked for FinTech?
 MDI Gurgaon has outstanding academic credentials and offers a highly specialized sales & operations course that is closely linked with top brands, resulting in premium packages.
 
 ### Does SOIL Gurgaon offer a specialized FinTech program?
 Yes, SOIL Gurgaon provides a dedicated PGDM program focusing on digital campaigns, search engine optimization, content strategy, and financial analytics.
 
-### What exams does Great Lakes Gurgaon accept?
+### What exams does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accept?
 Great Lakes Gurgaon accepts CAT, XAT, GMAT, and CMAT scores for its management programs.
 
 

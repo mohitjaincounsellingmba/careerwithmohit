@@ -170,7 +170,7 @@ No. [MNIT Jaipur](/colleges/mnit-jaipur) does not have an NRI quota, donation se
 
 ### **What If Your JEE Rank Is Not Good Enough for [MNIT Jaipur](/colleges/mnit-jaipur)?**
 
-If your JEE Main rank doesn't make the cut for MNIT Jaipur, consider these legitimate alternatives in Jaipur and Rajasthan:
+If your JEE Main rank doesn't make the cut for [MNIT Jaipur](/colleges/mnit-jaipur), consider these legitimate alternatives in Jaipur and Rajasthan:
 
 - [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) for B.Tech](/blog/direct-admission-manipal-university-jaipur-btech-2026)
 - [Direct Admission in SKIT Jaipur for B.Tech](/blog/direct-admission-skit-jaipur-btech-2026)

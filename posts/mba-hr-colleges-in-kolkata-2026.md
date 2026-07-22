@@ -55,25 +55,25 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Kolkata
 
-### 1. IIM Calcutta (Indian Institute of Management)
+### 1. [IIM Calcutta](/colleges/iim-calcutta) (Indian Institute of Management)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹35.07 LPA**
 - **Key Highlight:** World-class business school providing elite placement packages in strategic organizational design and corporate consulting.
 
-### 2. IISWBM Kolkata (Indian Institute of Social Welfare and Business Management)
+### 2. IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹8.50 LPA**
 - **Key Highlight:** India's first B-school with a highly respected, legendary legacy for producing top HR leaders.
 
-### 3. IMI Kolkata (International Management Institute)
+### 3. [IMI Kolkata](/colleges/imi-kolkata) (International Management Institute)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹10.45 LPA**
 - **Key Highlight:** Advanced corporate curriculum focusing on industrial relations, behavioral science, and HR analytics.
 
-### 4. Heritage Business School
+### 4. [Heritage Business School](/colleges/heritage-business-school)
 - **Approximate Fees:** ₹6.5 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.50 LPA**

@@ -45,7 +45,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ## 🚀 Why Choose Pune for an MBA in Operations?
 
-Pune, known as the manufacturing and automobile hub of Maharashtra, is also home to major IT parks and logistics centers. For management aspirants looking to specialize in operations, infrastructure development, and supply chain management, Pune offers excellent options ranging from flagship Symbiosis B-schools (like SCMHRD and SIBM Pune) to highly affordable Panjab-University equivalents like PUMBA.
+Pune, known as the manufacturing and automobile hub of Maharashtra, is also home to major IT parks and logistics centers. For management aspirants looking to specialize in operations, infrastructure development, and supply chain management, Pune offers excellent options ranging from flagship Symbiosis B-schools (like SCMHRD and [SIBM Pune](/colleges/sibm-pune)) to highly affordable Panjab-University equivalents like PUMBA.
 
 Choosing a B-school in this region offers key advantages:
 - **Corporate Hub Proximity:** Direct access to internship programs, corporate site visits, and industry guest lectures.
@@ -117,10 +117,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is SCMHRD Pune good for MBA in Operations?
+### Is [SCMHRD Pune](/colleges/scmhrd-pune) good for MBA in Operations?
 Yes, SCMHRD is famous for its specialized MBA in Infrastructure Development and offers robust operations electives, leading to placements in top consulting and real estate firms.
 
-### What is the fee at PUMBA Pune for operations specialization?
+### What is the fee at [PUMBA Pune](/colleges/pumba-pune) for operations specialization?
 PUMBA Pune offers highly subsidized fees of around INR 1.3 Lakhs for the complete program, yielding a very high return on investment.
 
 ### What exams does SIBM Pune accept?

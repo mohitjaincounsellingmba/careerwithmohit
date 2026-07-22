@@ -62,13 +62,13 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹27.22 LPA**
 - **Key Highlight:** The absolute gold standard for HR education in India (MA HRM & LR), matching XLRI in recruiter prestige and placements.
 
-### 2. JBIMS Mumbai (Jamnalal Bajaj Institute of Management Studies)
+### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹28.02 LPA**
 - **Key Highlight:** The legendary 'CEO Factory' with direct corporate headquarter interfaces and high ROI.
 
-### 3. NMIMS Mumbai (School of Business Management)
+### 3. [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** NMAT
 - **Average Placement Package:** **₹26.63 LPA**

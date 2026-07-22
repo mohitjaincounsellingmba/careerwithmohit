@@ -35,7 +35,7 @@ Here is the complete guide to the top management institutes in Pune for 2027.
 #### 3. [RIIM Pune (Ramachandran International)](/blog/riim-pune)
 - **Accreditation:** AICTE Approved · Savitribai Phule Pune University Affiliated
 - **Total Fee:** ₹7.20L - ₹8.60L (Total)
-- **Key Highlight:** RIIM Pune is highly regarded as one of Maharashtra's best ROI B-schools. RIIM offers SPPU-affiliated MBA and autonomous PGDM programs coupled with its Employability Development Program (EDP) and international industrial tour options.
+- **Key Highlight:** [RIIM Pune](/colleges/riim-pune) is highly regarded as one of Maharashtra's best ROI B-schools. RIIM offers SPPU-affiliated MBA and autonomous PGDM programs coupled with its Employability Development Program (EDP) and international industrial tour options.
 - **Key Bulletpoints:**
   * Includes intensive Employability Development Program (EDP)
   * Optional 1-Week International Study Tour (Dubai/Singapore)
@@ -85,7 +85,7 @@ Here is the complete guide to the top management institutes in Pune for 2027.
 #### 8. [ISMS Pune (International School of Management Studies)](/blog/isms-pune)
 - **Accreditation:** AICTE Approved · British MBA Pathway B-School
 - **Total Fee:** ₹4.25L - ₹7.25L (Total)
-- **Key Highlight:** ISMS Pune is located in the Hinjawadi IT Hub. Highly popular for its British MBA pathway, ISMS offers PGDM/MBA streams in collaboration with UK Universities, allowing students to study partially in India and the UK.
+- **Key Highlight:** [ISMS Pune](/colleges/isms-pune) is located in the Hinjawadi IT Hub. Highly popular for its British MBA pathway, ISMS offers PGDM/MBA streams in collaboration with UK Universities, allowing students to study partially in India and the UK.
 - **Key Bulletpoints:**
   * British MBA pathway with UK university ties
   * Situated inside Hinjawadi Infotech corporate park

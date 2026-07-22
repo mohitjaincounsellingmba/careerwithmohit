@@ -17,7 +17,7 @@ faqs:
     answer: "The expected NEET score cutoff is 520 to 555 (Rank 70,000 to 1,00,000)."
 ---
 
-Planning your medical career and targeting **Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, Sharda Medical College Greater Noida offers exceptional clinical training, modern healthcare facilities, and high patient footfall.
+Planning your medical career and targeting **[Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences & Research - SMSR), Greater Noida** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, Sharda Medical College Greater Noida offers exceptional clinical training, modern healthcare facilities, and high patient footfall.
 
 This comprehensive guide details everything you need to know about **MBBS admission 2026 at Sharda Medical College Greater Noida**, including the step-by-step application process, seat matrix, detailed fee breakup, expected NEET-UG 2026 cutoff scores, hospital facilities, and career prospects.
 

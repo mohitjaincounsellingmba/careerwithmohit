@@ -104,9 +104,9 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is Amity Noida good for MBA in Digital Marketing?
-Yes, Amity University Noida has a dedicated Digital Marketing MBA program featuring highly qualified faculty and a dedicated corporate cell that brings in top recruiting firms.
+Yes, [Amity University](/colleges/amity-noida) Noida has a dedicated Digital Marketing MBA program featuring highly qualified faculty and a dedicated corporate cell that brings in top recruiting firms.
 
-### What is the average package at Jaipuria Noida?
+### What is the average package at [Jaipuria Noida](/colleges/jaipuria-noida)?
 Jaipuria Noida has an average placement package of around INR 11.40 LPA, with its PGDM program being highly respected in the NCR region.
 
 ### What exams are accepted by IMS Noida?

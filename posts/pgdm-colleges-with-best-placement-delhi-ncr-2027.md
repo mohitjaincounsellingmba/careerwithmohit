@@ -27,7 +27,7 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
 - **Location:** Dwarka, West Delhi
 - **Accreditation:** AICTE Approved · Founded by IIMA Alumni
 - **Placement USP:** IIM Alumni Legacy
-- **Recruitment Ecosystem:** FOSTIIMA was founded by alumni of IIM Ahmedabad to provide top-quality management education. Featuring an active pan-IIM network of faculty, it ensures high-quality training and strong placement linkages in the corporate sector.
+- **Recruitment Ecosystem:** FOSTIIMA was founded by alumni of [IIM Ahmedabad](/colleges/iim-ahmedabad) to provide top-quality management education. Featuring an active pan-IIM network of faculty, it ensures high-quality training and strong placement linkages in the corporate sector.
 - **Key Highlights:**
   * Faculty from IIM & IIT pools
   * Focus on practical business models

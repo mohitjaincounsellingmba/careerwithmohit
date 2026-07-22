@@ -32,7 +32,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **[SPJIMR Mumbai (S.P. Jain Institute of Management and Research)](/colleges/spjimr-mumbai)** | CAT / GMAT | ₹21.0 Lakhs (Total) | **₹33.00 LPA** |
-| **[JBIMS Mumbai (Jamnalal Bajaj Institute of Management Studies)](/colleges/jbims-mumbai)** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
+| **[JBIMS Mumbai (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))](/colleges/jbims-mumbai)** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
 | **[NMIMS Mumbai (School of Business Management)](/colleges/nmims-mumbai)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
 | **Welingkar Mumbai (WeSchool)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹12.50 LPA** |
 
@@ -110,13 +110,13 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Does NMIMS Mumbai have a specialized FinTech program?
+### Does [NMIMS Mumbai](/colleges/nmims-mumbai) have a specialized FinTech program?
 Yes, NMIMS Mumbai offers a highly popular MBA program with dedicated finance intakes and outstanding placements in top corporate departments.
 
-### Is SPJIMR Mumbai good for finance roles?
+### Is [SPJIMR Mumbai](/colleges/spjimr-mumbai) good for finance roles?
 Yes, SPJIMR is ranked among the top B-schools in India, and its marketing management specialization places candidates in premium branding and analyst roles.
 
-### What exams are accepted by JBIMS Mumbai?
+### What exams are accepted by [JBIMS Mumbai](/colleges/jbims-mumbai)?
 JBIMS Mumbai primarily accepts MAH CET and CAT scores for general category management admissions.
 
 

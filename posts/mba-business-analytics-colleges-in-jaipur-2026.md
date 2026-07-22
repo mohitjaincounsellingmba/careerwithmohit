@@ -34,7 +34,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 | **[Taxila Business School](/colleges/taxila-jaipur)** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹11.50 LPA** |
 | **[Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur)** | CAT / MAT / CMAT / XAT | ₹11.5 Lakhs (Total) | **₹7.40 LPA** |
 | **Manipal University, Jaipur** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹6.50 LPA** |
-| **IIHMR University, Jaipur** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.80 LPA** |
+| **[IIHMR University](/colleges/iihmr-university), Jaipur** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
 
@@ -110,10 +110,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is Taxila Business School good for Business Analytics?
+### Is [Taxila Business School](/colleges/taxila-jaipur) good for Business Analytics?
 Yes, Taxila is known for its intense industry-oriented curriculum, offering strong training in business analytics tools, dashboarding, and SAP systems.
 
-### Does Jaipuria Jaipur offer specialization in Business Analytics?
+### Does [Jaipuria Jaipur](/colleges/jaipuria-jaipur) offer specialization in Business Analytics?
 Yes, Jaipuria Jaipur provides specialized management electives focusing on analytics, marketing metrics, and financial modeling.
 
 ### What is the average placement salary for MBA in Jaipur?

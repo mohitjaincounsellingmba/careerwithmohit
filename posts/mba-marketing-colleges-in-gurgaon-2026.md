@@ -110,10 +110,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is MDI Gurgaon highly sought after for Marketing?
+### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly sought after for Marketing?
 MDI Gurgaon has an exceptional reputation, elite faculty, and its strategic location in the NCR corporate hub brings in top consumer giants like PepsiCo, Coca-Cola, ITC, and L'Oreal.
 
-### Does Great Lakes Gurgaon accept CMAT?
+### Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accept CMAT?
 Yes, Great Lakes Gurgaon accepts CAT, XAT, CMAT, and GMAT scores.
 
 ### What is the USP of JK Business School?

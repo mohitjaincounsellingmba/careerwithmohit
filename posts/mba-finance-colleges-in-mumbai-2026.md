@@ -118,7 +118,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Why is [JBIMS Mumbai](/colleges/jbims-mumbai) highly favored for Finance?
-JBIMS Mumbai is physically located near the headquarters of top banks and corporate offices. Its classes are often taught by industry MDs and CFOs, offering invaluable industry exposure.
+[JBIMS Mumbai](/colleges/jbims-mumbai) is physically located near the headquarters of top banks and corporate offices. Its classes are often taught by industry MDs and CFOs, offering invaluable industry exposure.
 
 ### Do I need MAH CET to get into JBIMS?
 Yes, JBIMS primarily accepts MAH CET for Maharashtra state seats, but also reserves seats for All India candidates applying via CAT or CMAT.

@@ -103,10 +103,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the fee structure for MBA Business Analytics at UPES Dehradun?
+### What is the fee structure for MBA Business Analytics at [UPES Dehradun](/colleges/upes-dehradun)?
 The total program tuition fee is approximately INR 16.5 Lakhs, offering extensive learning infrastructure, specialized labs, and solid placements.
 
-### Does Doon Business School provide good placements for analytics?
+### Does [Doon Business School](/colleges/doon-business-school) provide good placements for analytics?
 Doon Business School invites consumer goods, digital platforms, and corporate banks, offering roles in sales analytics and data analyst positions.
 
 ### What entrance exams are accepted by Dehradun B-schools?

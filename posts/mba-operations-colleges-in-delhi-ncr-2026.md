@@ -118,7 +118,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which B-school has the best placements for Operations in Delhi NCR?
-MDI Gurgaon is the premier choice in the region for Operations, offering placements in major tech, consulting, and e-commerce firms with packages around INR 27.6 LPA.
+[MDI Gurgaon](/colleges/mdi-gurgaon) is the premier choice in the region for Operations, offering placements in major tech, consulting, and e-commerce firms with packages around INR 27.6 LPA.
 
 ### Does LBSIM Delhi offer operations specialization?
 Yes, LBSIM Delhi provides a major/minor option in Operations Management, covering inventory planning, supply chain logistics, and operations analytics.

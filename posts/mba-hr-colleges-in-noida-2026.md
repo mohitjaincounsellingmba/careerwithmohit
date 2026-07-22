@@ -104,9 +104,9 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is [Jaipuria Noida](/colleges/jaipuria-noida) good for MBA HR?
-Yes, Jaipuria Noida offers a highly sought-after PGDM program with a dedicated specialization in Human Resources, featuring strong corporate connections and placements.
+Yes, [Jaipuria Noida](/colleges/jaipuria-noida) offers a highly sought-after PGDM program with a dedicated specialization in Human Resources, featuring strong corporate connections and placements.
 
-### What is the fee structure for Amity University Noida MBA?
+### What is the fee structure for [Amity University](/colleges/amity-noida) Noida MBA?
 Amity Noida's MBA programs have a total fee structure of approximately INR 14.0 Lakhs, offering extensive infrastructure and global learning modules.
 
 ### Does IMS Noida accept MAT scores?

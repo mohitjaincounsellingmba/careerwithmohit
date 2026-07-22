@@ -118,7 +118,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which B-school has the best placements for FinTech in Delhi NCR?
-MDI Gurgaon is the premier choice in the region for Finance and FinTech, offering placements in major consulting, banking, and tech firms with average packages around INR 27.6 LPA.
+[MDI Gurgaon](/colleges/mdi-gurgaon) is the premier choice in the region for Finance and FinTech, offering placements in major consulting, banking, and tech firms with average packages around INR 27.6 LPA.
 
 ### Does LBSIM Delhi offer fintech specialization?
 Yes, LBSIM Delhi provides a specialized PGDM in Financial Management that covers digital banking, risk modeling, and fintech analytics.

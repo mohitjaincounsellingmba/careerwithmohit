@@ -118,12 +118,12 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which MBA college in Pune is best for marketing?
-SIBM Pune is the flagship Symbiosis B-school, widely considered one of the best in India for marketing, attracting marquee FMCG and retail recruiters.
+[SIBM Pune](/colleges/sibm-pune) is the flagship Symbiosis B-school, widely considered one of the best in India for marketing, attracting marquee FMCG and retail recruiters.
 
-### Does PUMBA Pune offer specialization in Digital Marketing?
+### Does [PUMBA Pune](/colleges/pumba-pune) offer specialization in Digital Marketing?
 PUMBA Pune offers Marketing as a major specialization, which includes electives in digital marketing, consumer behavior, and marketing research.
 
-### Is PIBM Pune good for digital marketing profiles?
+### Is [PIBM Pune](/colleges/pibm-pune) good for digital marketing profiles?
 Yes, PIBM Pune provides strong practical exposure to digital marketing tools, campaign designs, and content strategies, preparing students for executive and managerial roles.
 
 

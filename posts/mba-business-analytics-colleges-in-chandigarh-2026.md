@@ -33,7 +33,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 | :--- | :--- | :--- | :--- |
 | **UBS Chandigarh (University Business School, Panjab University)** | CAT | ₹2.1 Lakhs (Total) | **₹13.70 LPA** |
 | **Chandigarh University (CU)** | CUCET / CAT / MAT / CMAT | ₹5.6 Lakhs (Total) | **₹6.50 LPA** |
-| **Chitkara University** | CAT / MAT / CMAT | ₹6.8 Lakhs (Total) | **₹6.20 LPA** |
+| **[Chitkara University](/colleges/chitkara-university)** | CAT / MAT / CMAT | ₹6.8 Lakhs (Total) | **₹6.20 LPA** |
 
 ---
 

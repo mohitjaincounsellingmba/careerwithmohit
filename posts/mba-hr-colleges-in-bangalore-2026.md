@@ -56,7 +56,7 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Bangalore
 
-### 1. IIM Bangalore (Indian Institute of Management)
+### 1. [IIM Bangalore](/colleges/iim-bangalore) (Indian Institute of Management)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹35.31 LPA**
@@ -68,13 +68,13 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹8.20 LPA**
 - **Key Highlight:** Highly disciplined and respected academic environment offering extensive corporate placement connections.
 
-### 3. SIBM Bangalore (Symbiosis Institute of Business Management)
+### 3. [SIBM Bangalore](/colleges/sibm-bangalore) (Symbiosis Institute of Business Management)
 - **Approximate Fees:** ₹18.0 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹14.50 LPA**
 - **Key Highlight:** Great Electronic City location facilitating real-world corporate corporate projects in HR operations.
 
-### 4. XIME Bangalore (Xavier Institute of Management & Entrepreneurship)
+### 4. [XIME Bangalore](/colleges/xime-bangalore) (Xavier Institute of Management & Entrepreneurship)
 - **Approximate Fees:** ₹12.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / MAT / CMAT
 - **Average Placement Package:** **₹9.20 LPA**

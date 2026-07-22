@@ -45,7 +45,7 @@ Compare the top business schools in Mumbai and Navi Mumbai for 2027.
 #### 4. [J.S. Kothari Business School](/blog/js-kothari-mumbai)
 - **Accreditation:** AICTE Approved B-School
 - **Total Fees:** ₹4.85 Lakhs (Total)
-- **About:** J.S. Kothari Business School provides a value-driven PGDM program in Mumbai. Focused on affordable fee modules, practical personal development, and corporate grooming to help students secure roles in banking, retail, and FMCG sectors.
+- **About:** [J.S. Kothari Business School](/colleges/js-kothari-mumbai) provides a value-driven PGDM program in Mumbai. Focused on affordable fee modules, practical personal development, and corporate grooming to help students secure roles in banking, retail, and FMCG sectors.
 - **Highlights:**
   * Highly affordable fee package in Mumbai region
   * Core focus on practical sales & finance skills
@@ -55,14 +55,14 @@ Compare the top business schools in Mumbai and Navi Mumbai for 2027.
 #### 5. [Amity University (Mumbai Campus)](/blog/amity-mumbai)
 - **Accreditation:** UGC Approved · WES Globally Recognized
 - **Total Fees:** ₹10.25 Lakhs (Total)
-- **About:** Amity University Mumbai, located in Panvel, features a highly sophisticated campus layout. Providing an elite MBA program with smart labs, international university ties, and WES global recognition, it is a preferred option for global jobs.
+- **About:** [Amity University Mumbai](/colleges/amity-mumbai), located in Panvel, features a highly sophisticated campus layout. Providing an elite MBA program with smart labs, international university ties, and WES global recognition, it is a preferred option for global jobs.
 - **Highlights:**
   * Lush modern residential campus in Panvel region
   * WES approved for foreign studies/visas
   * Excellent placement cell with top tier-1 recruiters
   * Strong industrial visit and guest lecture programs
 
-#### 6. [JAGSoM (Jagdish Sheth School of Management)](/blog/jagsom-mumbai)
+#### 6. [JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))](/blog/jagsom-mumbai)
 - **Accreditation:** AICTE Approved · AACSB Accredited Brand
 - **Total Fees:** ₹11.50 Lakhs (Total)
 - **About:** JAGSoM Greater Mumbai campus in Karjat brings the legacy of the AACSB-accredited Jagdish Sheth School of Management. Featuring domain-led education, mentored by Padmashri Jagdish Sheth, JAGSoM grooms professionals for international roles.

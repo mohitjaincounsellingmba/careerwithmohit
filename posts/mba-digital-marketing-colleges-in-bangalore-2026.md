@@ -123,7 +123,7 @@ Bangalore is home to major digital and tech firms like Amazon, Flipkart, Infosys
 ### Does Welingkar Bangalore offer specialized digital marketing courses?
 Yes, Welingkar Bangalore offers a dedicated PGDM in E-Business, which is designed for the digital economy and covers digital marketing, social media marketing, and data tools.
 
-### What is the fee for Christ University Bangalore MBA?
+### What is the fee for [Christ University Bangalore](/colleges/christ-university-bangalore) MBA?
 The total program tuition fee is approximately INR 9.5 Lakhs, offering solid return on investment with good corporate recruitment cycles.
 
 

@@ -33,7 +33,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 | :--- | :--- | :--- | :--- |
 | **[IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta)** | PGDBA Admission Test | ₹24.0 Lakhs (Total) | **₹31.05 LPA** |
 | **[Praxis Business School](/colleges/praxis-kolkata)** | CAT / XAT / CMAT / MAT | ₹6.5 Lakhs (Total) | **₹13.50 LPA** |
-| **[IISWBM Kolkata (Indian Institute of Social Welfare and Business Management)](/colleges/indian-institute-of-social-welfare-and-business-management)** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
+| **[IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))](/colleges/indian-institute-of-social-welfare-and-business-management)** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
 | **[IMI Kolkata (International Management Institute)](/colleges/imi-kolkata)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
 
 ---
@@ -110,10 +110,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the PGDBA program at IIM Calcutta?
+### What is the PGDBA program at [IIM Calcutta](/colleges/iim-calcutta)?
 The Post Graduate Diploma in Business Analytics (PGDBA) is a unique, highly prestigious joint program offered by IIM Calcutta, IIT Kharagpur, and ISI Kolkata, providing unmatched placements in core data science.
 
-### Why is Praxis Business School highly recommended for Analytics?
+### Why is [Praxis Business School](/colleges/praxis-kolkata) highly recommended for Analytics?
 Praxis Business School is a pioneer in analytics education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
 
 ### What is the fee at IISWBM Kolkata?

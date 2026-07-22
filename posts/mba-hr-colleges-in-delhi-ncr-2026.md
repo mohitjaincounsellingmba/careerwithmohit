@@ -62,13 +62,13 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹34.10 LPA**
 - **Key Highlight:** Superb ROI with a dedicated placement cell offering premium packages for corporate HR roles.
 
-### 2. MDI Gurgaon (Management Development Institute)
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
 - **Approximate Fees:** ₹25.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹27.60 LPA**
 - **Key Highlight:** Offers a highly specialized PGDM-HR course that is considered one of the absolute best in India.
 
-### 3. IMI Delhi (International Management Institute)
+### 3. [IMI Delhi](/colleges/imi-delhi) (International Management Institute)
 - **Approximate Fees:** ₹20.9 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / GMAT
 - **Average Placement Package:** **₹17.01 LPA**
@@ -80,7 +80,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹17.30 LPA**
 - **Key Highlight:** Strong general management grounding with excellent corporate HR recruitment paths.
 
-### 5. LBSIM Delhi (Lal Bahadur Shastri Institute of Management)
+### 5. [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)
 - **Approximate Fees:** ₹15.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹12.40 LPA**
@@ -124,7 +124,7 @@ Source: Shiksha.com
 MDI Gurgaon is highly renowned for its specialized PGDM-HR program, placing it in the same elite tier for HR education as [XLRI Jamshedpur](/colleges/xlri-jamshedpur) and TISS Mumbai.
 
 ### What entrance exams are accepted by top Delhi NCR B-schools for HR?
-CAT is the primary entrance exam accepted by FMS Delhi and MDI Gurgaon. Other top colleges like IMI Delhi, IMT Ghaziabad, and LBSIM accept CAT, XAT, and GMAT.
+CAT is the primary entrance exam accepted by [FMS Delhi](/colleges/fms-delhi) and MDI Gurgaon. Other top colleges like IMI Delhi, IMT Ghaziabad, and LBSIM accept CAT, XAT, and GMAT.
 
 
 ---

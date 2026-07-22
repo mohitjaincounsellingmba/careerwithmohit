@@ -103,10 +103,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is special about the UPES Dehradun MBA Logistics program?
+### What is special about the [UPES Dehradun](/colleges/upes-dehradun) MBA Logistics program?
 UPES Dehradun offers a specialized management track that combines core operations with global logistics, port management, aviation operations, and supply chain control.
 
-### Does Doon Business School provide good placements for operations?
+### Does [Doon Business School](/colleges/doon-business-school) provide good placements for operations?
 Yes, Doon Business School has a dedicated placement cell that brings in retail, manufacturing, logistics, and services firms for hiring operations and management trainees.
 
 ### Can I get admission in Dehradun MBA colleges through MAT?

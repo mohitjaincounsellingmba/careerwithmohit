@@ -124,7 +124,7 @@ NIBM Pune is established by the Reserve Bank of India (RBI) and is a specialized
 [SIBM Pune](/colleges/sibm-pune) offers the highest average package (exceeding INR 28 LPA) with top consulting firms and investment banks visiting the campus.
 
 ### What is the fee structure for [PUMBA Pune](/colleges/pumba-pune)?
-PUMBA Pune has extremely low fees (approximately INR 65,000 per year for Maharashtra candidates), offering one of the best ROI packages in the country.
+[PUMBA Pune](/colleges/pumba-pune) has extremely low fees (approximately INR 65,000 per year for Maharashtra candidates), offering one of the best ROI packages in the country.
 
 
 ---

@@ -55,19 +55,19 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Gurgaon
 
-### 1. MDI Gurgaon (Management Development Institute)
+### 1. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
 - **Approximate Fees:** ₹25.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹27.60 LPA**
 - **Key Highlight:** National leader for HR programs (PGDM-HR), offering top-tier consulting, banking, and FMCG placements.
 
-### 2. Great Lakes Gurgaon
+### 2. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)
 - **Approximate Fees:** ₹17.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / GMAT
 - **Average Placement Package:** **₹11.60 LPA**
 - **Key Highlight:** Corporate-centric B-school with modern curriculum blending technology and human capital strategies.
 
-### 3. SOIL Institute of Management
+### 3. [SOIL Institute of Management](/colleges/soil-institute-gurgaon)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** STAT / CAT / MAT / CMAT
 - **Average Placement Package:** **₹10.30 LPA**

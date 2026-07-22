@@ -123,7 +123,7 @@ Bangalore is home to major digital finance giants like PhonePe, Razorpay, and CR
 ### Does Welingkar Bangalore offer specialized fintech courses?
 Yes, Welingkar Bangalore offers PGDM programs that include specialized modules in banking services, risk management, and fintech.
 
-### What is the fee for Christ University Bangalore MBA?
+### What is the fee for [Christ University Bangalore](/colleges/christ-university-bangalore) MBA?
 The total program tuition fee is approximately INR 9.5 Lakhs, offering solid return on investment with good corporate recruitment cycles.
 
 

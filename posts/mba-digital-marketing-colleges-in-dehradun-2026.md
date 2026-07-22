@@ -103,10 +103,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is special about the UPES Dehradun MBA Digital Marketing program?
+### What is special about the [UPES Dehradun](/colleges/upes-dehradun) MBA Digital Marketing program?
 UPES Dehradun offers a specialized management track that combines core marketing principles with digital advertising, analytics, and content design.
 
-### Does Doon Business School provide good placements for digital marketing?
+### Does [Doon Business School](/colleges/doon-business-school) provide good placements for digital marketing?
 Yes, Doon Business School has a dedicated placement cell that brings in retail, banking, and digital services firms for hiring marketing management trainees.
 
 ### Can I get admission in Dehradun MBA colleges through MAT?

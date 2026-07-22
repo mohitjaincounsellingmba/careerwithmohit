@@ -66,7 +66,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.50 LPA**
 - **Key Highlight:** Sprawling infrastructure and strong campus recruitment cell connecting with major tech and manufacturing units.
 
-### 3. Chitkara University
+### 3. [Chitkara University](/colleges/chitkara-university)
 - **Approximate Fees:** ₹6.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.20 LPA**

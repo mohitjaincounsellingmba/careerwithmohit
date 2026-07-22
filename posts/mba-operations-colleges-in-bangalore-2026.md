@@ -123,7 +123,7 @@ Bangalore is home to major e-commerce hubs like Amazon and Flipkart, tech firms,
 ### Does Welingkar Bangalore offer specialized operations courses?
 Yes, Welingkar Bangalore offers PGDM programs that include specialized modules in operations management, supply chain planning, and analytics.
 
-### What is the fee for Christ University Bangalore MBA?
+### What is the fee for [Christ University Bangalore](/colleges/christ-university-bangalore) MBA?
 The total program tuition fee is approximately INR 9.5 Lakhs, offering solid return on investment with good corporate recruitment cycles.
 
 

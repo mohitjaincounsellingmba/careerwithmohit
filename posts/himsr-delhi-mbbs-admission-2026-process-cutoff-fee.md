@@ -30,7 +30,7 @@ This comprehensive guide details everything you need to know about **MBBS admiss
 | **Institute Name** | Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi |
 | **Location** | Hamdard Nagar, New Delhi |
 | **Institute Type** | Deemed University (Muslim Minority) |
-| **Affiliation / Body** | Jamia Hamdard University |
+| **Affiliation / Body** | [Jamia Hamdard](/colleges/jamia-hamdard-delhi) University |
 | **Total MBBS Seats** | 150 Seats |
 | **Hospital Bed Capacity** | 740+ Beds (HAHC Hospital) |
 | **Counselling Authority** | Medical Counselling Committee (MCC) |

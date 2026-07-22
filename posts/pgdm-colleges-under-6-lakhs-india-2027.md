@@ -24,7 +24,7 @@ Several AICTE approved colleges offer full 2-year programs with fees **under 6 L
 - **Placement USP:** Tech & Digital Focus
 - **About:** NDIIT Kalkaji focuses on creating tech-savvy management professionals. Combining core management studies with advanced digital skills (like Data Science, Analytics, and FinTech), NDIIT grooms leaders for modern digital corporations.
 
-#### 3. Maharaja Agrasen Institute of Management Studies (MAIMS)
+#### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
 - **Location:** Rohini, North-West Delhi
 - **Total Fees:** ₹4.85 Lakhs (Total)
 - **Placement USP:** Top Academic Brand
@@ -34,7 +34,7 @@ Several AICTE approved colleges offer full 2-year programs with fees **under 6 L
 - **Location:** Sector 62, Noida
 - **Total Fees:** ₹3.25 Lakhs (Total)
 - **Placement USP:** Value B-School
-- **About:** Hierank Business School, situated in the hub of Sector 62 Noida, offers a value-driven MBA program affiliated with AKTU. Focusing on practical exposure and corporate readiness, Hierank provides solid opportunities at affordable fees.
+- **About:** [Hierank Business School](/colleges/hierank-noida), situated in the hub of Sector 62 Noida, offers a value-driven MBA program affiliated with AKTU. Focusing on practical exposure and corporate readiness, Hierank provides solid opportunities at affordable fees.
 
 #### 5. [Mangalmay Institute of Management and Technology](/blog/mangalmay-greater-noida)
 - **Location:** Knowledge Park II, Greater Noida
@@ -58,7 +58,7 @@ Several AICTE approved colleges offer full 2-year programs with fees **under 6 L
 - **Location:** Mumbai Metropolis
 - **Total Fees:** ₹4.85 Lakhs (Total)
 - **Placement USP:** Value B-School
-- **About:** J.S. Kothari Business School provides a value-driven PGDM program in Mumbai. Focused on affordable fee modules, practical personal development, and corporate grooming to help students secure roles in banking, retail, and FMCG sectors.
+- **About:** [J.S. Kothari Business School](/colleges/js-kothari-mumbai) provides a value-driven PGDM program in Mumbai. Focused on affordable fee modules, practical personal development, and corporate grooming to help students secure roles in banking, retail, and FMCG sectors.
 
 
 ---

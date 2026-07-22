@@ -22,10 +22,10 @@ This guide outlines the step-by-step process, eligibility criteria, and fee stru
 
 Here are top business schools that offer admissions based on overall profile (10th/12th/Graduation marks + work experience) rather than exam cutoffs:
 
-* **New Delhi Institute of Management (NDIM) (Delhi NCR)** - ₹11.50L - ₹13.75L (Total) - 100% Placements
+* **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) (Delhi NCR)** - ₹11.50L - ₹13.75L (Total) - 100% Placements
 * **FOSTIIMA Business School (Dwarka, Delhi)** - ₹11.50 Lakhs (Total) - IIM Alumni Legacy
 * **JIMS Kalkaji (Jagannath International) (Kalkaji, Delhi)** - ₹10.75 Lakhs (Total) - High ROI B-School
-* **Lloyd Business School (Noida)** - ₹2.90L - ₹8.25L (Total) - IBM Partnered PGDM
+* **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida) (Noida)** - ₹2.90L - ₹8.25L (Total) - IBM Partnered PGDM
 * **Pune Institute of Business Management (PIBM) (Pune)** - ₹8.50L - ₹10.00L (Total) - Corporate Integration Leader
 
 ---

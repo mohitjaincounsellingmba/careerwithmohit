@@ -22,7 +22,7 @@ Here is a catalog of top-rated, fully approved PGDM colleges in India for the 20
 - **Location:** Dwarka, West Delhi
 - **Approvals & Accreditations:** AICTE Approved · Founded by IIMA Alumni
 - **Intake Mode:** Classroom & Case-study Method
-- **USP:** FOSTIIMA was founded by alumni of IIM Ahmedabad to provide top-quality management education. Featuring an active pan-IIM network of faculty, it ensures high-quality training and strong placement linkages in the corporate sector.
+- **USP:** FOSTIIMA was founded by alumni of [IIM Ahmedabad](/colleges/iim-ahmedabad) to provide top-quality management education. Featuring an active pan-IIM network of faculty, it ensures high-quality training and strong placement linkages in the corporate sector.
 
 #### 3. [Fortune Institute of International Business (FIIB)](/blog/fiib-delhi)
 - **Location:** Vasant Vihar, South Delhi

@@ -33,7 +33,7 @@ Does the college offer specializations in high-demand fields like **Business Ana
 
 ### 🏫 Top Recommended Hub B-Schools for 2027
 * **Delhi NCR:** NDIM Delhi, FOSTIIMA, FIIB, IILM Lodhi Road, JIMS Kalkaji.
-* **Pune:** PIBM, Lexicon MILE, RIIM Pune, Akemi Business School.
+* **Pune:** PIBM, Lexicon MILE, [RIIM Pune](/colleges/riim-pune), Akemi Business School.
 * **Mumbai:** ATLAS SkillTech, UBS Mumbai, ITM Navi Mumbai.
 * **Bangalore:** ISBR, IIBS, GIBS, Alliance School of Business.
 

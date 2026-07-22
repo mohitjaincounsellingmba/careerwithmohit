@@ -45,7 +45,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 
 ## 🚀 Why Choose Pune for an MBA in Business Analytics?
 
-Pune, known as the 'Oxford of the East,' is a thriving industrial, automobile, and IT hub. For students aiming to build a career in data intelligence and business analytics, Pune offers some of India's most prestigious B-schools. The presence of Symbiosis campuses like SCMHRD (which has a dedicated, highly-ranked MBA-BA course) and SIBM Pune, along with highly affordable university departments like PUMBA, makes it a premier destination for analytics education.
+Pune, known as the 'Oxford of the East,' is a thriving industrial, automobile, and IT hub. For students aiming to build a career in data intelligence and business analytics, Pune offers some of India's most prestigious B-schools. The presence of Symbiosis campuses like SCMHRD (which has a dedicated, highly-ranked MBA-BA course) and [SIBM Pune](/colleges/sibm-pune), along with highly affordable university departments like PUMBA, makes it a premier destination for analytics education.
 
 Choosing a B-school in this region offers key advantages:
 - **Corporate Hub Proximity:** Direct access to internship programs, corporate site visits, and industry guest lectures.
@@ -117,7 +117,7 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is SCMHRD Pune good for MBA in Business Analytics?
+### Is [SCMHRD Pune](/colleges/scmhrd-pune) good for MBA in Business Analytics?
 SCMHRD Pune is highly renowned for its specialized MBA in Business Analytics program, which regularly attracts top recruiters from consulting, IT, and financial service sectors.
 
 ### What is the average package at SIBM Pune for MBA?

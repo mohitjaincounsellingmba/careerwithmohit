@@ -117,7 +117,7 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is JBIMS Mumbai highly favored for Marketing?
+### Why is [JBIMS Mumbai](/colleges/jbims-mumbai) highly favored for Marketing?
 JBIMS Mumbai is physically located near major corporate headquarters. Its classes are taught by industry MDs and CMOs, offering invaluable industry exposure.
 
 ### Do I need MAH CET to get into JBIMS?

@@ -120,7 +120,7 @@ Source: Shiksha.com
 ### Why is Bangalore a great destination for MBA Marketing?
 Bangalore is the headquarters of major e-commerce giants like Flipkart and tech firms like Infosys and Wipro, along with offices of consumer goods brands, providing a thriving corporate environment.
 
-### What is the minimum cutoff for SIBM Bangalore?
+### What is the minimum cutoff for [SIBM Bangalore](/colleges/sibm-bangalore)?
 SIBM Bangalore typically shortlists SNAP candidates around the 88-92 percentile range.
 
 ### Is Christ University good for Marketing placements?

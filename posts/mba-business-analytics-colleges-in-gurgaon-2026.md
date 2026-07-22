@@ -110,13 +110,13 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is MDI Gurgaon highly ranked for Business Analytics?
+### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly ranked for Business Analytics?
 MDI Gurgaon has outstanding academic credentials and offers a highly specialized PGDM-BA course that is closely linked with top consultancies, resulting in premium packages.
 
 ### Does SOIL Gurgaon offer a specialized Business Analytics program?
 Yes, SOIL Gurgaon provides a dedicated PGDM in Business Analytics program focusing on Python, SQL, Tableau, and predictive analytics tools.
 
-### What exams are accepted by Great Lakes Gurgaon?
+### What exams are accepted by [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)?
 Great Lakes Gurgaon accepts CAT, XAT, GMAT, and CMAT scores for its management programs.
 
 

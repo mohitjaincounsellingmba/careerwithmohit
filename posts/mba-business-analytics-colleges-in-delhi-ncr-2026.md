@@ -118,7 +118,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best B-school for PGDM Business Analytics in Delhi NCR?
-MDI Gurgaon is widely considered the top choice, offering a specialized PGDM-BA program with an average placement of around INR 27.60 LPA.
+[MDI Gurgaon](/colleges/mdi-gurgaon) is widely considered the top choice, offering a specialized PGDM-BA program with an average placement of around INR 27.60 LPA.
 
 ### Does LBSIM Delhi offer a specialized program in Business Analytics?
 Yes, LBSIM Delhi offers a dedicated PGDM program in Research and Business Analytics, which is highly popular among students aiming for analyst roles in consulting and financial firms.

@@ -103,10 +103,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is special about the UPES Dehradun MBA Finance program?
+### What is special about the [UPES Dehradun](/colleges/upes-dehradun) MBA Finance program?
 UPES Dehradun offers a specialized management track that combines core banking with digital banking, risk management, and fintech analytics.
 
-### Does Doon Business School provide good placements for fintech?
+### Does [Doon Business School](/colleges/doon-business-school) provide good placements for fintech?
 Yes, Doon Business School has a dedicated placement cell that brings in retail, banking, and digital services firms for hiring finance and management trainees.
 
 ### Can I get admission in Dehradun MBA colleges through MAT?

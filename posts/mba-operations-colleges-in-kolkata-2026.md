@@ -33,7 +33,7 @@ For students planning their admissions for the 2026 batch, this guide highlights
 | :--- | :--- | :--- | :--- |
 | **[IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta)** | CAT | ₹24.5 Lakhs (Total) | **₹35.07 LPA** |
 | **[Praxis Business School](/colleges/praxis-kolkata)** | CAT / XAT / CMAT / MAT | ₹6.5 Lakhs (Total) | **₹13.50 LPA** |
-| **[IISWBM Kolkata (Indian Institute of Social Welfare and Business Management)](/colleges/indian-institute-of-social-welfare-and-business-management)** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
+| **[IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))](/colleges/indian-institute-of-social-welfare-and-business-management)** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
 | **[IMI Kolkata (International Management Institute)](/colleges/imi-kolkata)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
 
 ---
@@ -110,10 +110,10 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is IIM Calcutta highly prestigious for operations?
+### Why is [IIM Calcutta](/colleges/iim-calcutta) highly prestigious for operations?
 While famed for finance, IIM Calcutta offers general PGP programs that place candidates in premium brand management and corporate strategy roles globally.
 
-### Why is Praxis Business School highly recommended for Operations?
+### Why is [Praxis Business School](/colleges/praxis-kolkata) highly recommended for Operations?
 Praxis Business School is a pioneer in management education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
 
 ### What is the fee at IISWBM Kolkata?
