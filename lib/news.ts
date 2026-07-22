@@ -9,6 +9,54 @@ export interface NewsItem {
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
+    id: 20,
+    title: "Direct Admission in MBA & PGDM 2027: Management Quota Guide Released",
+    category: "MBA Admission",
+    date: "July 22, 2026",
+    excerpt: "A complete step-by-step profile review guide has been released for students seeking direct admission in premier AICTE-approved private B-schools for the 2027 batch under management quota.",
+    link: "/blog/direct-admission-mba-pgdm-management-quota-2027"
+  },
+  {
+    id: 19,
+    title: "AICTE Approved PGDM Admissions 2027: Top Colleges & Fees Compared",
+    category: "MBA Admission",
+    date: "July 22, 2026",
+    excerpt: "Compare official intakes, total program fee structures, and selection criteria for leading AICTE-approved PGDM programs in India as counseling strategies begin for the 2027 batch.",
+    link: "/blog/top-aicte-approved-pgdm-colleges-india-2027"
+  },
+  {
+    id: 18,
+    title: "Executive MBA Reviews 2026-27: IIM Bangalore & FMS Delhi Analysis Out",
+    category: "MBA Admission",
+    date: "July 22, 2026",
+    excerpt: "Get detailed, honest reviews covering fees, selection processes, eligibility criteria, and class profiles for top Executive MBA programs including IIM Bangalore, IIM Mumbai, and FMS Delhi.",
+    link: "/blog/iim-bangalore-iimb-executive-mba-review"
+  },
+  {
+    id: 17,
+    title: "MBA Admissions 2027: Top Business Schools in Bangalore and Mumbai Ranked",
+    category: "MBA Admission",
+    date: "July 22, 2026",
+    excerpt: "Compare the latest curriculum, placement statistics, and direct entry paths at top-tier MBA and PGDM institutions in Mumbai, Pune, and Bangalore for the 2027 academic session.",
+    link: "/blog/top-mba-pgdm-colleges-bangalore-2027"
+  },
+  {
+    id: 16,
+    title: "MBA Specializations 2026-27: High-Paying Career Streams & Colleges Guide",
+    category: "Career Counselling",
+    date: "July 22, 2026",
+    excerpt: "Understand the placement growth, required core skillsets, and top regional colleges for specialized MBA streams like Business Analytics, Digital Marketing, FinTech, and HR.",
+    link: "/blog/mba-business-analytics-colleges-in-bangalore-2026"
+  },
+  {
+    id: 15,
+    title: "Difference between MBA & PGDM: Complete 2027 Decision-Making Checklist",
+    category: "Career Counselling",
+    date: "July 21, 2026",
+    excerpt: "Understand key differences in degree vs diploma recognition, university affiliation, syllabus updates, exam patterns, and global acceptability for MBA and PGDM courses before locking in 2027 intakes.",
+    link: "/blog/difference-between-mba-and-pgdm-complete-guide-2027"
+  },
+  {
     id: 14,
     title: "GGSIPU MBA Counselling 2026: Registration Deadline Extended",
     category: "MBA Admission",
