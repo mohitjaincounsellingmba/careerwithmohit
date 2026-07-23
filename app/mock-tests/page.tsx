@@ -1,3 +1,4 @@
+import React from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { 
@@ -15,6 +16,8 @@ import {
   Clock,
   BarChart3
 } from 'lucide-react';
+import { JsonLd } from '@/components/JsonLd';
+import { getSortedPostsData } from '@/lib/markdown';
 
 export const metadata: Metadata = {
   title: 'Free Mock Test Series 2026 - 50+ Online Practice Papers | CareerWithMohit',
@@ -51,9 +54,22 @@ export const metadata: Metadata = {
   },
 };
 
-import { JsonLd } from '@/components/JsonLd';
-
-const categories = [
+const categories: {
+  title: string;
+  description: string;
+  icon: React.ReactNode;
+  color: string;
+  borderColor: string;
+  isHub?: boolean;
+  exams: {
+    name: string;
+    slug: string;
+    guideSlug?: string;
+    tag?: string;
+    tagColor?: string;
+    desc: string;
+  }[];
+}[] = [
   {
     title: "MBA & Management",
     description: "Ace top B-school entrances with our specialized test series.",
@@ -61,13 +77,13 @@ const categories = [
     color: "from-orange-50 to-white",
     borderColor: "border-orange-200",
     exams: [
-      { name: "CAT 2026", slug: "/tools/cat-mock-test", tag: "Hot", tagColor: "bg-red-500", desc: "For IIMs & FMS" },
-      { name: "XAT 2026", slug: "/tools/mock-test/xat", tag: "Expert", tagColor: "bg-primary", desc: "For XLRI & SPJIMR" },
-      { name: "GMAT Focus", slug: "/tools/mock-test/gmat", desc: "For ISB & Global MBA" },
-      { name: "SNAP Dec 2026", slug: "/tools/mock-test/snap", desc: "For SIBM & SCMHRD" },
-      { name: "NMAT 2026", slug: "/tools/nmat-mock-test", tag: "New", tagColor: "bg-blue-500", desc: "For NMIMS & SPJIMR" },
-      { name: "MHCET MBA", slug: "/tools/mhcet-mock-test", desc: "For JBIMS & SIMSREE" },
-      { name: "ATMA 2026", slug: "/tools/atma-mock-test", tag: "Latest", tagColor: "bg-emerald-500", desc: "For JBIMS & PUMBA" },
+      { name: "CAT 2026", slug: "/tools/cat-mock-test", guideSlug: "/blog/free-cat-mock-test-2026", tag: "Hot", tagColor: "bg-red-500", desc: "For IIMs & FMS" },
+      { name: "XAT 2026", slug: "/tools/mock-test/xat", guideSlug: "/blog/free-xat-mock-test-2026", tag: "Expert", tagColor: "bg-primary", desc: "For XLRI & SPJIMR" },
+      { name: "GMAT Focus", slug: "/tools/mock-test/gmat", guideSlug: "/blog/free-gmat-mock-test-2026", desc: "For ISB & Global MBA" },
+      { name: "SNAP Dec 2026", slug: "/tools/mock-test/snap", guideSlug: "/blog/free-snap-mock-test-2026", desc: "For SIBM & SCMHRD" },
+      { name: "NMAT 2026", slug: "/tools/nmat-mock-test", guideSlug: "/blog/free-nmat-mock-test-2026-nmims-prep", tag: "New", tagColor: "bg-blue-500", desc: "For NMIMS & SPJIMR" },
+      { name: "MHCET MBA", slug: "/tools/mhcet-mock-test", guideSlug: "/blog/free-mhcet-mock-test-2026", desc: "For JBIMS & SIMSREE" },
+      { name: "ATMA 2026", slug: "/tools/atma-mock-test", guideSlug: "/blog/free-atma-mock-test-2026", tag: "Latest", tagColor: "bg-emerald-500", desc: "For JBIMS & PUMBA" },
     ]
   },
   {
@@ -77,11 +93,11 @@ const categories = [
     color: "from-blue-50 to-white",
     borderColor: "border-blue-200",
     exams: [
-      { name: "JEE Main", slug: "/tools/jee-main-mock-test", desc: "For NITs & IIITs" },
-      { name: "JEE Advanced", slug: "/tools/jee-advanced-mock-test", tag: "Expert", tagColor: "bg-primary", desc: "For IITs" },
-      { name: "BITSAT 2026", slug: "/tools/bitsat-mock-test", desc: "For BITS Pilani" },
-      { name: "VITEEE 2026", slug: "/tools/mock-test/viteee", desc: "For VIT Vellore" },
-      { name: "SRMJEEE 2026", slug: "/tools/mock-test/srmjee", desc: "For SRM University" },
+      { name: "JEE Main", slug: "/tools/jee-main-mock-test", guideSlug: "/blog/free-jee-main-mock-test-2026", desc: "For NITs & IIITs" },
+      { name: "JEE Advanced", slug: "/tools/jee-advanced-mock-test", guideSlug: "/blog/free-jee-advanced-mock-test-2026", tag: "Expert", tagColor: "bg-primary", desc: "For IITs" },
+      { name: "BITSAT 2026", slug: "/tools/bitsat-mock-test", guideSlug: "/blog/free-bitsat-mock-test-2026", desc: "For BITS Pilani" },
+      { name: "VITEEE 2026", slug: "/tools/mock-test/viteee", guideSlug: "/blog/free-viteee-mock-test-2026", desc: "For VIT Vellore" },
+      { name: "SRMJEEE 2026", slug: "/tools/mock-test/srmjee", guideSlug: "/blog/free-srmjeee-mock-test-2026", desc: "For SRM University" },
     ]
   },
   {
@@ -91,11 +107,11 @@ const categories = [
     color: "from-emerald-50 to-white",
     borderColor: "border-emerald-200",
     exams: [
-      { name: "NEET UG", slug: "/tools/mock-test/neet", tag: "Crucial", tagColor: "bg-emerald-600", desc: "For MBBS/BDS" },
-      { name: "CLAT 2026", slug: "/tools/mock-test/clat", desc: "For NLUs" },
-      { name: "CUET UG", slug: "/tools/mock-test/cuet-ug", desc: "For Central Universities" },
-      { name: "IPU CET (UG)", slug: "/tools/mock-test/ipu-cet-ug", tag: "Delhi", tagColor: "bg-orange-500", desc: "For BBA, BCA, B.Com" },
-      { name: "IPU CET (PG)", slug: "/tools/mock-test/ipu-cet-pg", desc: "For MBA, MCA, Law" },
+      { name: "NEET UG", slug: "/tools/mock-test/neet", guideSlug: "/blog/free-neet-mock-test-2026", tag: "Crucial", tagColor: "bg-emerald-600", desc: "For MBBS/BDS" },
+      { name: "CLAT 2026", slug: "/tools/mock-test/clat", guideSlug: "/blog/free-clat-mock-test-2026", desc: "For NLUs" },
+      { name: "CUET UG", slug: "/tools/mock-test/cuet-ug", guideSlug: "/blog/free-cuet-ug-general-test-mock-test-2026", desc: "For Central Universities" },
+      { name: "IPU CET (UG)", slug: "/tools/mock-test/ipu-cet-ug", guideSlug: "/blog/free-ipu-cet-ug-mock-test-2026", tag: "Delhi", tagColor: "bg-orange-500", desc: "For BBA, BCA, B.Com" },
+      { name: "IPU CET (PG)", slug: "/tools/mock-test/ipu-cet-pg", guideSlug: "/blog/free-ipu-cet-pg-mock-test-2026", desc: "For MBA, MCA, Law" },
     ]
   },
   {
@@ -106,10 +122,10 @@ const categories = [
     borderColor: "border-yellow-200",
     isHub: true,
     exams: [
-      { name: "SSC CGL", slug: "/tools/mock-test/ssc-cgl", desc: "Income Tax, CBI" },
-      { name: "IBPS PO", slug: "/tools/mock-test/ibps-po", desc: "Banking Career" },
-      { name: "UPSC CSE", slug: "/tools/mock-test/upsc-cse", desc: "Civil Services" },
-      { name: "Visit Hub", slug: "/tools/govt-exams-mock-test", tag: "30+ Exams", tagColor: "bg-foreground", desc: "All Govt Exams Hub" },
+      { name: "SSC CGL", slug: "/tools/mock-test/ssc-cgl", guideSlug: "/blog/free-ssc-cgl-mock-test-2026", desc: "Income Tax, CBI" },
+      { name: "IBPS PO", slug: "/tools/mock-test/ibps-po", guideSlug: "/blog/free-ibps-po-mock-test-2026", desc: "Banking Career" },
+      { name: "UPSC CSE", slug: "/tools/mock-test/upsc-cse", guideSlug: "/blog/free-upsc-cse-prelims-mock-test-2026", desc: "Civil Services" },
+      { name: "Visit Hub", slug: "/tools/govt-exams-mock-test", desc: "All Govt Exams Hub" },
     ]
   },
   {
@@ -119,11 +135,11 @@ const categories = [
     color: "from-indigo-50 to-white",
     borderColor: "border-indigo-200",
     exams: [
-      { name: "IELTS Academic", slug: "/tools/mock-test/ielts", tag: "Band 7+", tagColor: "bg-indigo-500", desc: "For Study Abroad" },
-      { name: "Duolingo English Test", slug: "/tools/mock-test/duolingo", tag: "120+", tagColor: "bg-emerald-500", desc: "Adaptive Test Prep" },
-      { name: "Digital SAT", slug: "/tools/mock-test/sat", tag: "1400+", tagColor: "bg-blue-600", desc: "For US Undergrad" },
-      { name: "TOEFL iBT", slug: "/tools/mock-test/toefl", desc: "English Proficiency" },
-      { name: "GRE General", slug: "/tools/mock-test/gre", tag: "320+", tagColor: "bg-purple-600", desc: "For MS & Global MBA" },
+      { name: "IELTS Academic", slug: "/tools/mock-test/ielts", guideSlug: "/blog/free-ielts-academic-mock-test-2026", tag: "Band 7+", tagColor: "bg-indigo-500", desc: "For Study Abroad" },
+      { name: "Duolingo English Test", slug: "/tools/mock-test/duolingo", guideSlug: "/blog/free-duolingo-mock-test-2026", tag: "120+", tagColor: "bg-emerald-500", desc: "Adaptive Test Prep" },
+      { name: "Digital SAT", slug: "/tools/mock-test/sat", guideSlug: "/blog/free-digital-sat-mock-test-2026", tag: "1400+", tagColor: "bg-blue-600", desc: "For US Undergrad" },
+      { name: "TOEFL iBT", slug: "/tools/mock-test/toefl", guideSlug: "/blog/free-toefl-ibt-mock-test-2026", desc: "English Proficiency" },
+      { name: "GRE General", slug: "/tools/mock-test/gre", guideSlug: "/blog/free-gre-mock-test-2026", tag: "320+", tagColor: "bg-purple-600", desc: "For MS & Global MBA" },
     ]
   }
 ];
@@ -187,6 +203,14 @@ export default function MockTestHubPage() {
     ]
   };
 
+  // Fetch blogs dynamically to build linking section
+  const allPosts = getSortedPostsData();
+  const mockTestBlogs = allPosts.filter(post => 
+    post.slug.includes('mock-test') || 
+    post.category === 'Exams' || 
+    post.title.toLowerCase().includes('mock test')
+  );
+
   return (
     <main className="min-h-screen bg-slate-50 pt-24 pb-20">
       <JsonLd data={breadcrumbSchema} />
@@ -221,7 +245,7 @@ export default function MockTestHubPage() {
         {/* Categories Grid */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-24">
           {categories.map((category, idx) => (
-            <section key={idx} className={`p-8 md:p-10 border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-transform hover:-translate-y-1`}>
+            <section key={idx} className={`p-8 md:p-10 border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-transform`}>
               <div className="flex items-center gap-4 mb-8">
                 <div className={`p-4 border-2 border-foreground rounded-xl bg-slate-50`}>
                   {category.icon}
@@ -234,22 +258,38 @@ export default function MockTestHubPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {category.exams.map((exam, eIdx) => (
-                  <Link 
+                  <div 
                     key={eIdx}
-                    href={exam.slug}
-                    className="group relative bg-slate-50 p-6 border-2 border-gray-200 hover:border-primary hover:bg-white transition-all overflow-hidden"
+                    className="relative bg-slate-50 p-6 border-2 border-gray-200 hover:border-foreground hover:bg-white transition-all overflow-hidden flex flex-col justify-between"
                   >
                     {exam.tag && (
                       <span className={`absolute top-0 right-0 ${exam.tagColor} text-white text-[10px] font-black uppercase px-3 py-1 italic tracking-widest`}>
                         {exam.tag}
                       </span>
                     )}
-                    <h3 className="font-black text-lg mb-1 group-hover:text-primary transition-colors flex items-center justify-between">
-                      {exam.name}
-                      <ArrowRight className="w-4 h-4 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all" />
-                    </h3>
-                    <p className="text-xs text-gray-500 font-bold uppercase tracking-tight">{exam.desc}</p>
-                  </Link>
+                    <div>
+                      <h3 className="font-black text-lg mb-1 text-foreground">
+                        {exam.name}
+                      </h3>
+                      <p className="text-xs text-gray-500 font-bold uppercase tracking-tight mb-4">{exam.desc}</p>
+                    </div>
+                    <div className="flex flex-wrap gap-2 mt-4 pt-4 border-t border-gray-200/50">
+                      <Link 
+                        href={exam.slug}
+                        className="inline-flex items-center gap-1.5 bg-foreground text-white px-3 py-1.5 text-xs font-black uppercase hover:bg-primary transition-colors border-2 border-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] active:shadow-none active:translate-x-0.5 active:translate-y-0.5"
+                      >
+                        Start Test <Zap className="w-3.5 h-3.5 text-yellow-400 fill-yellow-400" />
+                      </Link>
+                      {exam.guideSlug && (
+                        <Link 
+                          href={exam.guideSlug}
+                          className="inline-flex items-center gap-1.5 bg-white text-foreground border-2 border-foreground px-3 py-1.5 text-xs font-black uppercase hover:bg-accent transition-colors shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] active:shadow-none active:translate-x-0.5 active:translate-y-0.5"
+                        >
+                          Prep Guide <BookOpen className="w-3.5 h-3.5 text-primary" />
+                        </Link>
+                      )}
+                    </div>
+                  </div>
                 ))}
               </div>
             </section>
@@ -257,7 +297,7 @@ export default function MockTestHubPage() {
         </div>
 
         {/* Resources & Support */}
-        <div className="bg-foreground text-white p-12 border-4 border-foreground shadow-[16px_16px_0px_0px_rgba(var(--primary-rgb),0.3)] relative overflow-hidden">
+        <div className="bg-foreground text-white p-12 border-4 border-foreground shadow-[16px_16px_0px_0px_rgba(255,110,64,0.3)] relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-primary/20 blur-3xl rounded-full translate-x-1/2 -translate-y-1/2" />
           
           <div className="relative z-10 grid grid-cols-1 md:grid-cols-3 gap-12">
@@ -287,6 +327,43 @@ export default function MockTestHubPage() {
             </div>
           </div>
         </div>
+
+        {/* Dynamic Mock Test Blog Guides Section */}
+        <section id="mock-test-guides" className="mt-24 mb-24">
+          <h2 className="text-4xl font-black uppercase mb-12 flex items-center gap-4 text-foreground">
+            <BookOpen className="w-10 h-10 text-primary animate-pulse" /> Strategy & Preparation Guides
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {mockTestBlogs.slice(0, 6).map((post, idx) => (
+              <article key={idx} className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 transition-all flex flex-col justify-between">
+                <div>
+                  <span className="bg-accent text-foreground px-3 py-1 text-xs font-black uppercase border-2 border-foreground inline-block mb-4">
+                    {post.category || 'Exam Prep'}
+                  </span>
+                  <h3 className="text-2xl font-black uppercase mb-4 leading-tight hover:text-primary">
+                    <Link href={`/blog/${post.slug}`}>{post.title}</Link>
+                  </h3>
+                  <p className="text-gray-600 font-bold text-sm mb-6 leading-relaxed">
+                    {post.description}
+                  </p>
+                </div>
+                <Link href={`/blog/${post.slug}`} className="inline-flex items-center gap-2 font-black uppercase text-sm text-primary hover:gap-4 transition-all border-t-2 border-foreground pt-4">
+                  Read Full Strategy <ArrowRight className="w-4 h-4" />
+                </Link>
+              </article>
+            ))}
+          </div>
+          {mockTestBlogs.length > 6 && (
+            <div className="mt-12 text-center">
+              <Link 
+                href="/blog" 
+                className="inline-flex h-16 items-center justify-center bg-white border-4 border-foreground px-8 text-lg font-black text-foreground transition-all hover:bg-accent hover:translate-x-1 hover:-translate-y-1 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] uppercase active:shadow-none active:translate-x-0 active:translate-y-0"
+              >
+                View All Guides ({mockTestBlogs.length})
+              </Link>
+            </div>
+          )}
+        </section>
 
         {/* Popular Search Topics & Resources (SEO section) */}
         <section id="popular-searches" className="mt-24 bg-white border-4 border-foreground p-8 md:p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
