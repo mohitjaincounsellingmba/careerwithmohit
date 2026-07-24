@@ -118,8 +118,6 @@ DoMS IIT Madras offers high ROI with a total fee of around INR 10 Lakhs and aver
 
 ### Does LIBA accept CMAT?
 No, LIBA Chennai primarily accepts CAT and XAT scores for its flagship PGDM programs.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

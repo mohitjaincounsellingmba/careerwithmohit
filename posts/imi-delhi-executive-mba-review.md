@@ -68,7 +68,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 ### Is the Executive PGDM at [IMI Delhi](/colleges/imi-delhi) a residential program?
 Yes, it is a full-time residential program spanning 12 months on campus followed by a 3-month project/dissertation period.
 
-### What is the average placement package for IMI Delhi Executive PGDM?
+### What is the average placement package for [IMI Delhi](/colleges/imi-delhi) Executive PGDM?
 The average CTC consistently hovers around ₹17-19 LPA, with top consulting, tech, and banking firms recruiting heavily.
 
 ### Are other entrance exams accepted apart from CAT?
@@ -82,3 +82,4 @@ Source: Shiksha.com and Official College Websites
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
+---

@@ -56,7 +56,6 @@ faqs:
 
 * [MBBS Abroad Roadmap 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
 * [NEET UG Exam Overview](/blog/all-about-neet-exam)
-
 ---
 
 ### 🚀 Boost Your Preparation

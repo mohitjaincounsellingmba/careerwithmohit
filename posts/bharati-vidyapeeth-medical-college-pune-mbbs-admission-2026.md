@@ -147,7 +147,6 @@ Register on the MCC website (mcc.nic.in) under All India Deemed University MBBS 
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

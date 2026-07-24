@@ -118,8 +118,6 @@ DoMS IIT Madras offers a total fee structure of around INR 10 Lakhs, yielding a 
 
 ### Does Great Lakes Chennai accept CMAT scores?
 No, Great Lakes Chennai accepts only CAT, XAT, and GMAT scores for PGDM admissions.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

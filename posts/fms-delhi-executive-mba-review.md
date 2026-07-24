@@ -67,7 +67,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Are there placements for the [FMS Delhi](/colleges/fms-delhi) Executive MBA program?
-FMS Delhi does not conduct formal campus placements for its Executive MBA program. The course is tailored for working professionals who look for lateral career transitions or corporate promotions through their existing channels.
+[FMS Delhi](/colleges/fms-delhi) does not conduct formal campus placements for its Executive MBA program. The course is tailored for working professionals who look for lateral career transitions or corporate promotions through their existing channels.
 
 ### What is the class timing for the MBA Executive at FMS Delhi?
 Classes for the Executive MBA programs are held in the evening from 6:00 PM to 9:00 PM, Monday through Saturday at the FMS North Campus.
@@ -83,3 +83,4 @@ Source: Shiksha.com and Official College Websites
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
+---

@@ -118,15 +118,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Why is [JBIMS Mumbai](/colleges/jbims-mumbai) highly favored for Marketing?
-JBIMS Mumbai is physically located near major corporate headquarters. Its classes are taught by industry MDs and CMOs, offering invaluable industry exposure.
+[JBIMS Mumbai](/colleges/jbims-mumbai) is physically located near major corporate headquarters. Its classes are taught by industry MDs and CMOs, offering invaluable industry exposure.
 
 ### Do I need MAH CET to get into JBIMS?
 Yes, JBIMS primarily accepts MAH CET for Maharashtra state seats, but also reserves seats for All India candidates applying via CAT or CMAT.
 
 ### What is the fee for SIMSREE Mumbai?
 SIMSREE has a very low tuition fee of approximately INR 68,000 per year, making it one of the top ROI colleges in India.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

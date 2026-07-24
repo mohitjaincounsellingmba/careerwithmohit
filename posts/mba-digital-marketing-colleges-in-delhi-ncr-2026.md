@@ -121,12 +121,10 @@ Source: Shiksha.com
 [MDI Gurgaon](/colleges/mdi-gurgaon) and [FMS Delhi](/colleges/fms-delhi) are the top B-schools for marketing placements. For specialized sales & marketing profiles, IMT Ghaziabad is also highly recommended, attracting top FMCG and digital agencies.
 
 ### Does [FORE School of Management](/colleges/fore-school-delhi) offer digital marketing specialization?
-Yes, FORE School of Management offers specialized courses in digital marketing, social media marketing, and customer relationship management within its PGDM curriculum.
+Yes, [FORE School of Management](/colleges/fore-school-delhi) offers specialized courses in digital marketing, social media marketing, and customer relationship management within its PGDM curriculum.
 
 ### What is the average package for marketing graduates in Delhi NCR?
-Top-tier campuses like MDI Gurgaon report average packages around INR 27 LPA. Mid-tier campuses like FORE School and LBSIM report average packages between INR 12 LPA and 15 LPA.
-
-
+Top-tier campuses like [MDI Gurgaon](/colleges/mdi-gurgaon) report average packages around INR 27 LPA. Mid-tier campuses like FORE School and LBSIM report average packages between INR 12 LPA and 15 LPA.
 ---
 
 ### 🚀 Boost Your Preparation

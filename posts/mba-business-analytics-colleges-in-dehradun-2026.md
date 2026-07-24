@@ -107,12 +107,10 @@ Source: Shiksha.com
 The total program tuition fee is approximately INR 16.5 Lakhs, offering extensive learning infrastructure, specialized labs, and solid placements.
 
 ### Does [Doon Business School](/colleges/doon-business-school) provide good placements for analytics?
-Doon Business School invites consumer goods, digital platforms, and corporate banks, offering roles in sales analytics and data analyst positions.
+[Doon Business School](/colleges/doon-business-school) invites consumer goods, digital platforms, and corporate banks, offering roles in sales analytics and data analyst positions.
 
 ### What entrance exams are accepted by Dehradun B-schools?
 Most colleges in Dehradun accept CAT, MAT, and CMAT scores for their MBA/PGDM programs.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

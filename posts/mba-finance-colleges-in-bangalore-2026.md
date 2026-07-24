@@ -125,8 +125,6 @@ Bangalore is the headquarters of major tech companies, e-commerce giants, and ho
 
 ### Is Christ University good for Finance placements?
 Yes, Christ University is highly favored by top BFSI firms and big-four audit firms (EY, PwC, Deloitte, KPMG) for commercial and financial analyst roles.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

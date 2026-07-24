@@ -118,8 +118,6 @@ Yes, Taxila is known for its rigorous academic curriculum and heavy emphasis on 
 
 ### Are direct admissions available for Jaipur MBA colleges?
 Yes, private universities like Manipal Jaipur provide direct admission options based on institutional entrance criteria or moderate exam percentiles.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

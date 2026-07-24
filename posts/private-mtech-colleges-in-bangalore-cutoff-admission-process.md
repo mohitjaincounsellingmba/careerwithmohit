@@ -132,4 +132,3 @@ The tuition fees generally range from ₹90,000 to ₹2.5 Lakhs per year. Top-ti
 
 ### What is the difference in admission process for GATE vs. non-GATE students?
 GATE-qualified students apply through centralized counselling (like CCMT or state portals) or direct application corridors. They get seat preference, relaxation in cutoff marks, and an AICTE stipend of ₹12,400 per month. Non-GATE students apply directly to the college, take the college's private PG test, or get admitted directly on graduation merit, but they do not receive the government stipend.
-

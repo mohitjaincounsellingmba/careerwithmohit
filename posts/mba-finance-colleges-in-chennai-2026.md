@@ -118,8 +118,6 @@ DoMS IIT Madras offers high ROI with a total fee of around INR 10 Lakhs and aver
 
 ### Does Great Lakes Chennai accept CMAT?
 No, Great Lakes Chennai primarily accepts CAT, XAT, and GMAT scores for its main management programs.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

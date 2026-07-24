@@ -98,7 +98,6 @@ The Common Admission Test (CAT) 2026 is scheduled to be conducted on the last Su
 
 ### What is the target score in CAT 2026 for admission to top IIMs?
 To secure admission in the 2027-28 batch at older IIMs (Ahmedabad, Bangalore, Calcutta), general category candidates generally require a percentile above 99.0+. For newer and baby IIMs, a percentile between 93.0 to 97.0+ is targetable.
-
 ---
 
 ### 🚀 Boost Your Preparation

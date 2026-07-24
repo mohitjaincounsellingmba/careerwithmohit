@@ -149,7 +149,6 @@ The **BSE Saatvik 100 Index** offers a clean, structured, and ethically screened
 * **Why you might wait:** If you want maximum exposure to high-performing FMCG players (like ITC) or defense stocks, the strict exclusions of this index might feel too restrictive.
 
 As AMCs prepare to roll out official **BSE Satwik 100 Funds**, this index is set to become the cornerstone of ethical investing in India.
-
 ---
 
 ### 🚀 Boost Your Preparation

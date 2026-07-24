@@ -147,7 +147,6 @@ Expected NEET rank for Open Private Quota is under 50,000 (Score 580-610).
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

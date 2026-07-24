@@ -147,7 +147,6 @@ Expected NEET score for Christian minority seats is 480 to 540.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

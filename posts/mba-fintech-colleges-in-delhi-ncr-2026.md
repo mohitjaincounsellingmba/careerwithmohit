@@ -124,9 +124,7 @@ Source: Shiksha.com
 Yes, LBSIM Delhi provides a specialized PGDM in Financial Management that covers digital banking, risk modeling, and fintech analytics.
 
 ### What is the average package for fintech management graduates in Delhi NCR?
-Top-tier campuses like MDI Gurgaon report average packages around INR 27 LPA. Mid-tier campuses like FORE and LBSIM report average packages between INR 12 LPA and 15 LPA.
-
-
+Top-tier campuses like [MDI Gurgaon](/colleges/mdi-gurgaon) report average packages around INR 27 LPA. Mid-tier campuses like FORE and LBSIM report average packages between INR 12 LPA and 15 LPA.
 ---
 
 ### 🚀 Boost Your Preparation

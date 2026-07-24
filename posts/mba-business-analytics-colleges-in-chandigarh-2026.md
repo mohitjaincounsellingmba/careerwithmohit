@@ -66,7 +66,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.50 LPA**
 - **Key Highlight:** Offers a highly specialized MBA in Business Analytics in association with IBM.
 
-### 3. Chitkara University
+### 3. [Chitkara University](/colleges/chitkara-university)
 - **Approximate Fees:** ₹6.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.20 LPA**
@@ -111,8 +111,6 @@ UBS Chandigarh ( Panjab University) is the best choice, offering a total program
 
 ### Are CMAT scores accepted for MBA in Chandigarh?
 Yes, private universities like Chitkara and Chandigarh University accept CMAT, MAT, and CAT scores.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

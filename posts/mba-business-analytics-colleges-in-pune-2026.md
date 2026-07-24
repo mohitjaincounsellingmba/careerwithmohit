@@ -118,15 +118,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is [SCMHRD Pune](/colleges/scmhrd-pune) good for MBA in Business Analytics?
-SCMHRD Pune is highly renowned for its specialized MBA in Business Analytics program, which regularly attracts top recruiters from consulting, IT, and financial service sectors.
+[SCMHRD Pune](/colleges/scmhrd-pune) is highly renowned for its specialized MBA in Business Analytics program, which regularly attracts top recruiters from consulting, IT, and financial service sectors.
 
-### What is the average package at SIBM Pune for MBA?
+### What is the average package at [SIBM Pune](/colleges/sibm-pune) for MBA?
 The overall average placement package at SIBM Pune is approximately INR 28.16 LPA, with students focusing on consulting and analytics roles securing highly lucrative packages.
 
 ### What are the low-fee MBA Business Analytics choices in Pune?
 PUMBA (Department of Management Sciences, Pune University) offers highly subsidized fees of around INR 1.3 Lakhs for the complete program, yielding a very high return on investment.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

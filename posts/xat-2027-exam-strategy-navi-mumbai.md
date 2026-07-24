@@ -109,7 +109,6 @@ The Decision Making (DM) section is unique because it does not test direct mathe
 
 ### When will the XAT 2027 exam be conducted?
 The Xavier Aptitude Test (XAT) 2027 will be conducted on the first Sunday of January 2027 (typically January 3, 2027). Registrations will open in mid-July 2026 and run until the end of November 2026.
-
 ---
 
 ### 🚀 Boost Your Preparation

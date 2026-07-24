@@ -114,4 +114,3 @@ Yes, many private BBA institutions in Rourkela offer direct admissions based on 
 
 ### Is pursuing a BBA at a budget private college in Rourkela worth it?
 Absolutely. Graduating from a budget-friendly private college keeps your student debt low. With starting average packages around ₹3.5 LPA to ₹5.0 LPA, you can achieve a rapid Return on Investment (ROI) and build a strong foundation for an MBA/PGDM later.
-

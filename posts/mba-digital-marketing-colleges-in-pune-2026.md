@@ -121,12 +121,10 @@ Source: Shiksha.com
 [SIBM Pune](/colleges/sibm-pune) is the flagship Symbiosis B-school, widely considered one of the best in India for marketing, attracting marquee FMCG and retail recruiters.
 
 ### Does [PUMBA Pune](/colleges/pumba-pune) offer specialization in Digital Marketing?
-PUMBA Pune offers Marketing as a major specialization, which includes electives in digital marketing, consumer behavior, and marketing research.
+[PUMBA Pune](/colleges/pumba-pune) offers Marketing as a major specialization, which includes electives in digital marketing, consumer behavior, and marketing research.
 
 ### Is [PIBM Pune](/colleges/pibm-pune) good for digital marketing profiles?
-Yes, PIBM Pune provides strong practical exposure to digital marketing tools, campaign designs, and content strategies, preparing students for executive and managerial roles.
-
-
+Yes, [PIBM Pune](/colleges/pibm-pune) provides strong practical exposure to digital marketing tools, campaign designs, and content strategies, preparing students for executive and managerial roles.
 ---
 
 ### 🚀 Boost Your Preparation

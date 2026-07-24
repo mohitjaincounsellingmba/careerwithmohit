@@ -118,8 +118,6 @@ DoMS IIT Madras offers a total fee structure of around INR 10 Lakhs, yielding a 
 
 ### Does LIBA Chennai accept CMAT scores?
 No, LIBA Chennai accepts only CAT and XAT scores for admissions to its flagship PGDM programs.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

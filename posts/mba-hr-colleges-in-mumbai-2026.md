@@ -120,13 +120,11 @@ Source: Shiksha.com
 ### Is TISS Mumbai considered the best college in India for HR?
 Yes, TISS Mumbai's MA in HRM & LR is widely considered one of the top two HR programs in India alongside [XLRI Jamshedpur](/colleges/xlri-jamshedpur), offering exceptional placement packages and a highly subsidized tuition fee structure.
 
-### Does NMIMS Mumbai have a specialized MBA HR program?
+### Does [NMIMS Mumbai](/colleges/nmims-mumbai) have a specialized MBA HR program?
 Yes, NMIMS Mumbai has a dedicated and prestigious MBA Human Resources program with a large batch size and stellar placements in banking, retail, and corporate consulting.
 
 ### What is the fee for SIMSREE Mumbai?
 SIMSREE has a very low state government fee of approximately INR 68,000 per year, making it one of the top ROI management colleges in India.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

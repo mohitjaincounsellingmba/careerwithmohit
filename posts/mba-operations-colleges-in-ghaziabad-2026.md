@@ -111,8 +111,6 @@ The total program tuition fee is approximately INR 6.0 Lakhs, offering a highly 
 
 ### Does IMT Ghaziabad accept CMAT scores?
 No, IMT Ghaziabad admits students strictly through CAT, XAT, and GMAT scores.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

@@ -113,13 +113,11 @@ Source: Shiksha.com
 ### Is IISWBM Kolkata prestigious for HR?
 Yes, IISWBM is India's first official B-school, and its MBA-HR program has an exceptionally long legacy, producing leading HR executives and directors across Indian public and private companies.
 
-### Does IIM Calcutta offer specialized HR placements?
+### Does [IIM Calcutta](/colleges/iim-calcutta) offer specialized HR placements?
 While famed for finance, IIM Calcutta offers general management programs that place candidates in premium consulting, change management, and corporate strategy roles.
 
-### What exams are accepted by Heritage Business School?
+### What exams are accepted by [Heritage Business School](/colleges/heritage-business-school)?
 Heritage Business School accepts CAT, MAT, and CMAT scores for its management programs.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

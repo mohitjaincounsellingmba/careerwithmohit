@@ -147,7 +147,6 @@ All 250 seats are allocated through MCC All India Deemed Counselling at mcc.nic.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

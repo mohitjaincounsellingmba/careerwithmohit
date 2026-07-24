@@ -68,7 +68,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 ### What is the focus of the EPGDIB at [IIFT Delhi](/colleges/iift-delhi)?
 The program is designed specifically around Global Trade, International Business, Trade Finance, Logistics, and Supply Chain Management.
 
-### Does IIFT Delhi offer placement help for executive students?
+### Does [IIFT Delhi](/colleges/iift-delhi) offer placement help for executive students?
 Yes, IIFT has a lateral recruitment support cell that helps candidates access senior-level openings in trade, export-import, and logistics firms.
 
 ### What is the schedule of classes for the Executive MBA at IIFT?
@@ -82,3 +82,4 @@ Source: Shiksha.com and Official College Websites
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
+---

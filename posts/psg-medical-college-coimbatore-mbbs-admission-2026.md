@@ -151,7 +151,6 @@ Expected NEET score for TN Govt Quota in PSG is 590 to 625.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

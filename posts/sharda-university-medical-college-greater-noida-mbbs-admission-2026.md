@@ -27,7 +27,7 @@ This comprehensive guide details everything you need to know about **MBBS admiss
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institute Name** | Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida |
+| **Institute Name** | [Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences & Research - SMSR), Greater Noida |
 | **Location** | Knowledge Park III, Greater Noida, Delhi NCR |
 | **Institute Type** | Private University Medical College |
 | **Affiliation / Body** | Sharda University / UPDGME |
@@ -151,7 +151,6 @@ The expected NEET score cutoff is 520 to 555 (Rank 70,000 to 1,00,000).
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

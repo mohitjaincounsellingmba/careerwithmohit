@@ -49,11 +49,7 @@ At CareerWithMohit, we have built the **[Ultimate Mock Test Hub 2026](https://ww
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-#
-
-[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
-
-## Are these mock tests free to attempt?
+### Are these mock tests free to attempt?
 Yes, all mock tests on our platform are 100% free with no registration fees or credit card requirements.
 
 ### Do I get a detailed scorecard after submission?

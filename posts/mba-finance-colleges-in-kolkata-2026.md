@@ -111,15 +111,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Why is [IIM Calcutta](/colleges/iim-calcutta) considered the best for Finance?
-IIM Calcutta has a rich quantitative tradition, excellent finance faculty, and is the absolute first choice for top global investment banking and private equity recruiters.
+[IIM Calcutta](/colleges/iim-calcutta) has a rich quantitative tradition, excellent finance faculty, and is the absolute first choice for top global investment banking and private equity recruiters.
 
 ### What is the fee structure for IISWBM Kolkata?
 IISWBM offers highly subsidized fees (approx. INR 6.0 Lakhs total) and is popular for its high ROI.
 
 ### Are CMAT scores accepted by top Kolkata B-schools?
 While IIM Calcutta and IISWBM require CAT, several private institutions like Heritage accept CMAT and MAT.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

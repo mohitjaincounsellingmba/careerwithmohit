@@ -133,7 +133,7 @@ Clinical exposure is the cornerstone of modern medical education. HIMSR New Delh
 ## Frequently Asked Questions (FAQs)
 
 ### Q1: Is HIMSR Delhi a government or private college?
-HIMSR is a constituent medical college of Jamia Hamdard, a Deemed-to-be University.
+HIMSR is a constituent medical college of [Jamia Hamdard](/colleges/jamia-hamdard-delhi), a Deemed-to-be University.
 
 ### Q2: What is the cutoff for Muslim Minority quota in HIMSR?
 Expected NEET 2026 score for Muslim Minority quota is 510 to 545.
@@ -147,7 +147,6 @@ The total fee package is around ₹85 Lakhs including tuition fee and hostel cha
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

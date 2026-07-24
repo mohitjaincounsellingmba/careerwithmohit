@@ -125,4 +125,3 @@ Yes, many private MBA institutions in Greater Noida offer direct admissions base
 
 ### Is pursuing an MBA at a budget private college in Greater Noida worth it?
 Absolutely. Graduating from a budget-friendly private college keeps your student debt low. With starting average packages around ₹4.5 LPA to ₹7.5 LPA, you can achieve a rapid Return on Investment (ROI) and build a strong foundation for your management career.
-

@@ -111,8 +111,6 @@ Amity Noida's MBA programs have a total fee structure of approximately INR 14.0 
 
 ### Does IMS Noida accept MAT scores?
 Yes, IMS Noida accepts MAT and CMAT scores for its management admissions.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

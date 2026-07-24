@@ -147,7 +147,6 @@ The annual tuition fee is approximately ₹17.8 Lakhs.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

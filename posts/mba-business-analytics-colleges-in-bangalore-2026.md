@@ -118,15 +118,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Why is [IIM Bangalore](/colleges/iim-bangalore)'s PGP-BA program highly prestigious?
-IIM Bangalore's PGP-BA is one of the absolute best business analytics programs in the world, combining rigorous mathematical modeling with strategic business management, yielding average packages exceeding INR 35 LPA.
+[IIM Bangalore](/colleges/iim-bangalore)'s PGP-BA is one of the absolute best business analytics programs in the world, combining rigorous mathematical modeling with strategic business management, yielding average packages exceeding INR 35 LPA.
 
 ### Is Welingkar Bangalore good for Business Analytics?
 Yes, Welingkar Bangalore offers a specialized PGDM program in Business Analytics that provides training in data mining, python, dashboarding, and marketing analytics.
 
 ### What is the fee for [Christ University Bangalore](/colleges/christ-university-bangalore) MBA in Business Analytics?
 The total tuition fee is approximately INR 9.5 Lakhs, offering solid return on investment with good corporate recruitment cycles.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

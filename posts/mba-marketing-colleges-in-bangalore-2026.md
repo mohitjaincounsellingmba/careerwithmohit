@@ -121,12 +121,10 @@ Source: Shiksha.com
 Bangalore is the headquarters of major e-commerce giants like Flipkart and tech firms like Infosys and Wipro, along with offices of consumer goods brands, providing a thriving corporate environment.
 
 ### What is the minimum cutoff for [SIBM Bangalore](/colleges/sibm-bangalore)?
-SIBM Bangalore typically shortlists SNAP candidates around the 88-92 percentile range.
+[SIBM Bangalore](/colleges/sibm-bangalore) typically shortlists SNAP candidates around the 88-92 percentile range.
 
 ### Is Christ University good for Marketing placements?
 Yes, Christ University is highly favored by top consumer retail firms, banks, and corporate service providers for marketing and sales roles.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

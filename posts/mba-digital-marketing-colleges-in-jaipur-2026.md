@@ -73,7 +73,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.50 LPA**
 - **Key Highlight:** State-of-the-art campus offering great industry interaction and modern marketing electives.
 
-### 4. IIHMR University, Jaipur
+### 4. [IIHMR University](/colleges/iihmr-university), Jaipur
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.80 LPA**
@@ -117,9 +117,7 @@ Yes, Taxila is known for its rigorous academic curriculum and heavy emphasis on 
 The average placement package for private B-schools in Jaipur ranges from INR 6.5 LPA to 7.5 LPA, with some corporate profiles securing higher starts.
 
 ### Does [Jaipuria Jaipur](/colleges/jaipuria-jaipur) offer digital marketing specialization?
-Yes, Jaipuria Jaipur provides PGDM with specialized marketing courses that include digital marketing, advertising, and retail management.
-
-
+Yes, [Jaipuria Jaipur](/colleges/jaipuria-jaipur) provides PGDM with specialized marketing courses that include digital marketing, advertising, and retail management.
 ---
 
 ### 🚀 Boost Your Preparation

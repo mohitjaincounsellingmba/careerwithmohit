@@ -125,7 +125,6 @@ Most universities offering online BBA programs provide specializations in high-d
 
 ### What is the eligibility criteria for Online BBA in Tiruchirappalli?
 The basic eligibility is completing your 10+2 (Higher Secondary education) from a recognized state or central board (CBSE, ICSE, NIOS, etc.) with a minimum of 45-50% marks. There is typically no state residency or entrance exam required.
-
 ---
 
 ### 🚀 Boost Your Preparation

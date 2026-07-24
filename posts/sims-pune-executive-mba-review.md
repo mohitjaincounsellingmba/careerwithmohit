@@ -57,7 +57,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ## 🔍 Our Expert Verdict
 
-The Executive MBA program at [Symbiosis Institute of Management Studies (SIMS), Pune](/colleges/symbiosis-institute-of-management-studies) is highly recommended for professionals based in Pune who want to scale their careers without disrupting their current geographic setup. 
+The Executive MBA program at [Symbiosis [Institute of Management Studies](/colleges/institute-of-management-studies) (SIMS), Pune](/colleges/symbiosis-institute-of-management-studies) is highly recommended for professionals based in Pune who want to scale their careers without disrupting their current geographic setup. 
 
 If you are looking for top-tier consulting placements and have 5+ years of experience, full-time residential paths are stellar. However, if you are looking to continue your full-time job, their weekend/evening classes offer outstanding return on investment.
 
@@ -82,3 +82,4 @@ Source: Shiksha.com and Official College Websites
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
+---

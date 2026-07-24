@@ -147,7 +147,6 @@ For Open Private Quota, expected NEET score is 590-620.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

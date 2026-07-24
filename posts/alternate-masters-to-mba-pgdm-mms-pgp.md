@@ -157,7 +157,6 @@ Yes, many private AICTE-approved colleges offer direct admission options under m
 ---
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation

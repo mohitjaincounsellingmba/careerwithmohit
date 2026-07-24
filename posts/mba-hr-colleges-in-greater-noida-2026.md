@@ -111,8 +111,6 @@ The average placement package is around INR 6.0 LPA, offering a balanced return 
 
 ### Can I apply to GNIOT through CMAT?
 Yes, GNIOT accepts MAT, CMAT, and CAT scores for admissions to its management courses.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

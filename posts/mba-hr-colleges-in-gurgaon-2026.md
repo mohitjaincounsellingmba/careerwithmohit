@@ -110,16 +110,14 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is MDI Gurgaon highly prestigious for HR?
+### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly prestigious for HR?
 MDI Gurgaon has historical excellence in PGDM-HR, matching national institutions like XLRI, with its graduates bagging premium leadership positions across the globe.
 
 ### What is the USP of SOIL Gurgaon for HR?
 SOIL (School of Inspired Leadership) focuses heavily on character development, mindfulness, and practical business design in its HR PGDM program, attracting high placement interest from major companies.
 
-### What exams does Great Lakes Gurgaon accept?
+### What exams does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accept?
 Great Lakes Gurgaon accepts CAT, XAT, GMAT, and CMAT scores.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

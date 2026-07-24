@@ -150,7 +150,6 @@ No, LNMIIT Jaipur conducts its own independent counselling process based on JEE 
 ---
 
 Source: reapraj.com, CEG Rajasthan
-
 ---
 
 ### 🚀 Boost Your Preparation

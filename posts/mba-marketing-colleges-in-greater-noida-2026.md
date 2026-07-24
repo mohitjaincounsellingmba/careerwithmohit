@@ -111,8 +111,6 @@ The average placement package is around INR 6.0 LPA, offering a balanced return 
 
 ### Can I get direct admission in Greater Noida B-schools?
 Many private colleges in Greater Noida offer direct admission to institutional seats based on a candidate's profile and moderate test scores.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

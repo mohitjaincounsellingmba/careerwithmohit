@@ -55,7 +55,7 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Greater Noida
 
-### 1. [BIMTECH (Birla Institute of Management Technology)](/colleges/bimtech-greater-noida)
+### 1. [BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))](/colleges/bimtech-greater-noida)
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT / CMAT
 - **Average Placement Package:** **₹11.20 LPA**
@@ -67,7 +67,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹5.80 LPA**
 - **Key Highlight:** Offers a specialized MBA in Digital Marketing with extensive practical application training.
 
-### 3. [GNIOT (GIMS - GNIOT Institute of Management Studies)](/colleges/gniot-greater-noida)
+### 3. [GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))](/colleges/gniot-greater-noida)
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.80 LPA**
@@ -114,12 +114,10 @@ Source: Shiksha.com
 Yes, BIMTECH's general PGDM program allows students to specialize in Digital Marketing, which is highly popular among top consulting and services recruiters.
 
 ### What is the fee structure for [Sharda University](/colleges/sharda-greater-noida) MBA?
-Sharda University offers its MBA in Digital Marketing with a total program fee of around INR 6.5 Lakhs, making it a balanced choice.
+[Sharda University](/colleges/sharda-greater-noida) offers its MBA in Digital Marketing with a total program fee of around INR 6.5 Lakhs, making it a balanced choice.
 
 ### What exams does GNIOT accept?
 GNIOT accepts scores from national exams like CAT, MAT, and CMAT.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

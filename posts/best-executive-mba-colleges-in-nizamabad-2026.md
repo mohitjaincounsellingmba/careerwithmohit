@@ -125,7 +125,6 @@ Yes, executive MBA or executive PGDM programs offered by recognized universities
 
 ### What is the average duration of an Executive MBA?
 Executive MBA programs generally range from 12 months to 24 months, depending on the academic structure of the university and the specific program selected.
-
 ---
 
 ### 🚀 Boost Your Preparation

@@ -147,7 +147,6 @@ Expected NEET score cutoff is between 320 and 400.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

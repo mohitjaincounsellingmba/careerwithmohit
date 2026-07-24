@@ -118,8 +118,6 @@ Yes, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accepts CAT, XAT, CMAT
 
 ### What is the USP of JK Business School?
 JKBS offers excellent corporate interface, internships, and affordable fees paired with average placement packages around INR 7.0 LPA.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

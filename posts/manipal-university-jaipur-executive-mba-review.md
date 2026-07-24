@@ -66,7 +66,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is the [Manipal University Jaipur](/colleges/manipal-university-jaipur) Executive MBA UGC approved?
-Yes, Manipal University Jaipur is a recognized state private university, and its management degrees are fully approved.
+Yes, [Manipal University Jaipur](/colleges/manipal-university-jaipur) is a recognized state private university, and its management degrees are fully approved.
 
 ### What are the class timings?
 Classes are conducted on weekends, covering Saturdays (evenings) and Sundays (full day).
@@ -82,3 +82,4 @@ Source: Shiksha.com and Official College Websites
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
+---

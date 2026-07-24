@@ -118,15 +118,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is [SIBM Pune](/colleges/sibm-pune) good for MBA in FinTech?
-SIBM Pune is highly renowned for its Finance specialization, which includes advanced electives in financial technology, blockchain, and digital banking, leading to placements in top consulting and investment firms.
+[SIBM Pune](/colleges/sibm-pune) is highly renowned for its Finance specialization, which includes advanced electives in financial technology, blockchain, and digital banking, leading to placements in top consulting and investment firms.
 
 ### What is the fee at [PUMBA Pune](/colleges/pumba-pune) for finance specialization?
-PUMBA Pune offers highly subsidized fees of around INR 1.3 Lakhs for the complete program, yielding a very high return on investment.
+[PUMBA Pune](/colleges/pumba-pune) offers highly subsidized fees of around INR 1.3 Lakhs for the complete program, yielding a very high return on investment.
 
 ### What exams does SIBM Pune accept?
 SIBM Pune accepts scores from the Symbiosis National Aptitude Test (SNAP) for its flagship MBA admissions.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

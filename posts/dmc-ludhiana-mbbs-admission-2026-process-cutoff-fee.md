@@ -147,7 +147,6 @@ BFUHS Faridkot conducts state level counselling at bfuhs.ac.in.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

@@ -147,7 +147,6 @@ Yes, admissions are conducted online through MCC Deemed University counselling.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

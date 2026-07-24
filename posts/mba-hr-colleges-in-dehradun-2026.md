@@ -103,16 +103,14 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What are the key specializations in UPES Dehradun for MBA HR?
+### What are the key specializations in [UPES Dehradun](/colleges/upes-dehradun) for MBA HR?
 UPES Dehradun offers specialized tracks that blend core strategic HR with technology, compensation structure designs, and modern labor laws.
 
-### Does Doon Business School offer good HR placements?
+### Does [Doon Business School](/colleges/doon-business-school) offer good HR placements?
 Yes, Doon Business School has a dedicated placement cell that invites consumer goods, IT, and banking firms for hiring graduates for HR executive and trainee profiles.
 
 ### Are MAT scores accepted by B-schools in Dehradun?
 Yes, Doon Business School, UPES, and Graphic Era accept national level exam scores like MAT and CMAT.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

@@ -66,7 +66,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is SUAT?
-SUAT is Sharda University's online admission test, which covers quantitative ability, logical reasoning, and English language skills.
+SUAT is [Sharda University](/colleges/sharda-greater-noida)'s online admission test, which covers quantitative ability, logical reasoning, and English language skills.
 
 ### What are the class options for Sharda University Executive MBA?
 Classes are conducted primarily on weekends (Saturdays and Sundays) to allow professionals to maintain their work schedules.
@@ -82,3 +82,4 @@ Source: Shiksha.com and Official College Websites
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
+---

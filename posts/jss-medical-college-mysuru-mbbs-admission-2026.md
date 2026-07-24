@@ -147,7 +147,6 @@ The expected cutoff rank is 60,000 to 90,000 (Score 520-560).
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

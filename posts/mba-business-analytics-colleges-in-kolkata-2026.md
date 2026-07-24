@@ -67,7 +67,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹13.50 LPA**
 - **Key Highlight:** Legendary analytics and data science program with stellar recruitment records in analyst profiles.
 
-### 3. [IISWBM Kolkata (Indian Institute of Social Welfare and Business Management)](/colleges/indian-institute-of-social-welfare-and-business-management)
+### 3. [IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))](/colleges/indian-institute-of-social-welfare-and-business-management)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹8.50 LPA**
@@ -111,15 +111,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the PGDBA program at [IIM Calcutta](/colleges/iim-calcutta)?
-The Post Graduate Diploma in Business Analytics (PGDBA) is a unique, highly prestigious joint program offered by IIM Calcutta, IIT Kharagpur, and ISI Kolkata, providing unmatched placements in core data science.
+The Post Graduate Diploma in Business Analytics (PGDBA) is a unique, highly prestigious joint program offered by [IIM Calcutta](/colleges/iim-calcutta), IIT Kharagpur, and ISI Kolkata, providing unmatched placements in core data science.
 
 ### Why is [Praxis Business School](/colleges/praxis-kolkata) highly recommended for Analytics?
-Praxis Business School is a pioneer in analytics education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
+[Praxis Business School](/colleges/praxis-kolkata) is a pioneer in analytics education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
 
 ### What is the fee at IISWBM Kolkata?
 IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs and historical brand recognition.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

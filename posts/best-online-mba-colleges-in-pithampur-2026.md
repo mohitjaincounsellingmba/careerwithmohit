@@ -150,7 +150,6 @@ No. The primary advantage of an online MBA is its self-paced learning structure.
 
 ### Which is the most affordable online MBA college for students in Pithampur?
 [Lovely Professional University](/colleges/lovely-professional-university) (LPU) Online and [Jain University](/colleges/jain-university) Online are among the most budget-friendly options on the list, offering a total two-year course fee starting around ₹1,60,000, along with easy zero-cost monthly EMI options.
-
 ---
 
 ### 🚀 Boost Your Preparation

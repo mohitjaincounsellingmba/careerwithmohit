@@ -111,15 +111,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly sought after for Marketing?
-MDI Gurgaon has an exceptional reputation, elite faculty, and its strategic location in the NCR corporate hub brings in top consumer giants like PepsiCo, Coca-Cola, ITC, and L'Oreal.
+[MDI Gurgaon](/colleges/mdi-gurgaon) has an exceptional reputation, elite faculty, and its strategic location in the NCR corporate hub brings in top consumer giants like PepsiCo, Coca-Cola, ITC, and L'Oreal.
 
 ### Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accept CMAT?
-Yes, Great Lakes Gurgaon accepts CAT, XAT, CMAT, and GMAT scores.
+Yes, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accepts CAT, XAT, CMAT, and GMAT scores.
 
 ### What is the USP of JK Business School?
 JKBS offers excellent corporate interface, internships, and affordable fees paired with average placement packages around INR 7.0 LPA.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

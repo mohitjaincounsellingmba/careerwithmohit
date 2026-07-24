@@ -125,8 +125,6 @@ Yes, JBIMS primarily accepts MAH CET for Maharashtra state seats, but also reser
 
 ### What is the fee for SIMSREE Mumbai?
 SIMSREE has a very low tuition fee of approximately INR 68,000 per year, making it one of the top ROI colleges in India.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

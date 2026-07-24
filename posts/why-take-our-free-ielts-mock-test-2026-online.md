@@ -51,11 +51,7 @@ Here is your 3-step blueprint to mastering IELTS 2026 using realistic mocks.
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-#
-
-[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
-
-## What is the format of the IELTS Academic test?
+### What is the format of the IELTS Academic test?
 IELTS Academic contains 4 sections: Listening (40 minutes), Reading (60 minutes), Writing (60 minutes), and Speaking (11-14 minutes). The total test time is 2 hours and 45 minutes.
 
 ### What is a good band score in IELTS Academic?

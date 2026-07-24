@@ -111,8 +111,6 @@ Yes, Chandigarh University provides admission based on its CUCET exam or qualify
 
 ### What are the average starting packages in Chandigarh B-schools?
 For private colleges, it ranges between INR 5.5 to 7 LPA. For UBS Chandigarh, it averages around INR 13.7 LPA.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

@@ -121,12 +121,10 @@ Source: Shiksha.com
 Yes, SCMHRD is famous for its specialized MBA in Infrastructure Development and offers robust operations electives, leading to placements in top consulting and real estate firms.
 
 ### What is the fee at [PUMBA Pune](/colleges/pumba-pune) for operations specialization?
-PUMBA Pune offers highly subsidized fees of around INR 1.3 Lakhs for the complete program, yielding a very high return on investment.
+[PUMBA Pune](/colleges/pumba-pune) offers highly subsidized fees of around INR 1.3 Lakhs for the complete program, yielding a very high return on investment.
 
-### What exams does SIBM Pune accept?
+### What exams does [SIBM Pune](/colleges/sibm-pune) accept?
 SIBM Pune accepts scores from the Symbiosis National Aptitude Test (SNAP) for its flagship MBA admissions.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

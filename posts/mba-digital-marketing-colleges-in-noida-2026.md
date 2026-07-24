@@ -107,12 +107,10 @@ Source: Shiksha.com
 Yes, [Amity University](/colleges/amity-noida) Noida has a dedicated Digital Marketing MBA program featuring highly qualified faculty and a dedicated corporate cell that brings in top recruiting firms.
 
 ### What is the average package at [Jaipuria Noida](/colleges/jaipuria-noida)?
-Jaipuria Noida has an average placement package of around INR 11.40 LPA, with its PGDM program being highly respected in the NCR region.
+[Jaipuria Noida](/colleges/jaipuria-noida) has an average placement package of around INR 11.40 LPA, with its PGDM program being highly respected in the NCR region.
 
 ### What exams are accepted by IMS Noida?
 IMS Noida accepts scores from national exams like MAT and CMAT.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

@@ -65,7 +65,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is the degree awarded jointly by IIT Bombay and WashU?
+### Is the degree awarded jointly by [IIT Bombay](/colleges/iit-bombay) and WashU?
 Yes, this is the only program in India that awards a joint Executive MBA degree from both a top Indian institution (IIT Bombay) and an elite American university (Washington University in St. Louis).
 
 ### Does the program include international travel?
@@ -82,3 +82,4 @@ Source: Shiksha.com and Official College Websites
 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
+---

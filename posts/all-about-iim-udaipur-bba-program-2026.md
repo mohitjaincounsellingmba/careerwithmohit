@@ -141,7 +141,6 @@ Yes, UGC guidelines permit students to pursue one online/distance degree alongsi
 
 ### What happens if I exit after 3 years?
 If you choose to exit after 3 years, you will receive a regular Bachelor of Business Administration (BBA) degree from IIM Udaipur.
-
 ---
 
 ### 🚀 Boost Your Preparation

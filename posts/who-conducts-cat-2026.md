@@ -131,7 +131,6 @@ Preparing for CAT 2026 requires more than just studies—it requires profile bui
 * [CAT 2026 Preparation Strategy & Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates)
 * [Top 10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026)
 * [How to Prepare for CAT 2026 as a Beginner](/blog/how-to-prepare-for-cat-2026)
-
 ---
 
 ### 🚀 Boost Your Preparation

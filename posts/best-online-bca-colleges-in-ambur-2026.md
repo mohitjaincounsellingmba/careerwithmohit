@@ -141,7 +141,6 @@ The basic eligibility is completing your 10+2 (Higher Secondary education) from 
 
 ### Which is the most affordable online BCA college for students in Ambur?
 [Lovely Professional University](/colleges/lovely-professional-university) (LPU) Online and Sikkim Manipal University (SMU) Online are very affordable options, offering a total three-year course fee starting around ₹90,000 to ₹1,20,000, along with easy zero-cost monthly EMI options starting from ₹3,000 to ₹4,000.
-
 ---
 
 ### 🚀 Boost Your Preparation

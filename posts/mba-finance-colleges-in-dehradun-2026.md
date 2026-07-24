@@ -111,8 +111,6 @@ Yes, [Doon Business School](/colleges/doon-business-school) has a consistent rec
 
 ### Can I get admission in Dehradun MBA colleges through MAT?
 Yes, almost all management institutions in Dehradun, including DBS and Graphic Era, accept MAT and CMAT scores.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

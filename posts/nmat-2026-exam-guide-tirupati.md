@@ -97,7 +97,6 @@ You can attempt NMAT 2026 up to three times during the testing window (1 main at
 
 ### What is a safe score in NMAT 2026 for [NMIMS Mumbai](/colleges/nmims-mumbai) MBA Core?
 A safe cut-off score for the MBA Core program at [NMIMS Mumbai](/colleges/nmims-mumbai) is typically around 230-235+ marks, along with balanced sectional cut-offs in Language Skills, Logical Reasoning, and Quantitative Skills.
-
 ---
 
 ### 🚀 Boost Your Preparation

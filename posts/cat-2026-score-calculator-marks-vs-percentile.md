@@ -122,7 +122,6 @@ Securing a high CAT percentile is the first step. Securing final admission requi
 * [CAT 2026 Preparation Strategy & Full Syllabus Checklist](/blog/cat-2026-preparation-strategy-syllabus-dates)
 * [Top 10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026)
 * [How to Prepare for CAT 2026 as a Beginner](/blog/how-to-prepare-for-cat-2026)
-
 ---
 
 ### 🚀 Boost Your Preparation

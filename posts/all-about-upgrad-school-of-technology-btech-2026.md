@@ -151,7 +151,6 @@ The B.Tech degree is awarded by upGrad's partner universities, which include Sri
 
 ### What is the age limit for uGSOT B.Tech admission?
 Candidates must be under 20 years of age as of July 2026 to be eligible for admission.
-
 ---
 
 ### 🚀 Boost Your Preparation

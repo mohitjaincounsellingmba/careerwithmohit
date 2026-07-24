@@ -111,8 +111,6 @@ Yes, [Amity University](/colleges/amity-noida) Noida has a large, proactive plac
 
 ### Does IMS Noida accept MAT?
 Yes, IMS Noida accepts MAT and CMAT scores for its management admissions.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

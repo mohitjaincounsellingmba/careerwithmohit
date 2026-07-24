@@ -110,7 +110,7 @@ Source: Shiksha.com
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is IIM Calcutta considered excellent for Marketing and Strategy?
+### Why is [IIM Calcutta](/colleges/iim-calcutta) considered excellent for Marketing and Strategy?
 While famed for finance, IIM Calcutta's marketing department features elite professors and its graduates bag top roles in multinational FMCG brands and international consulting firms.
 
 ### What is the fee structure for IISWBM Kolkata?
@@ -118,8 +118,6 @@ IISWBM offers highly subsidized fees (approx. INR 6.0 Lakhs total) and is popula
 
 ### Are CMAT scores accepted by top Kolkata B-schools?
 While IIM Calcutta and IISWBM require CAT, several private institutions like Heritage accept CMAT and MAT.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

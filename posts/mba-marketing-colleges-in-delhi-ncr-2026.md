@@ -125,8 +125,6 @@ IMT Ghaziabad has a legacy spanning over four decades as one of India's premier 
 
 ### Can I get direct admission in top Delhi NCR Marketing MBA colleges?
 Top-tier colleges like FMS and MDI do not offer direct admission and admit strictly via CAT. Some private colleges offer management quota seats based on CMAT/MAT scores.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

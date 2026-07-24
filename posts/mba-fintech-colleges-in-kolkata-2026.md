@@ -67,7 +67,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹13.50 LPA**
 - **Key Highlight:** Rigorous PGDM program with strong finance and digital media specializations.
 
-### 3. [IISWBM Kolkata (Indian Institute of Social Welfare and Business Management)](/colleges/indian-institute-of-social-welfare-and-business-management)
+### 3. [IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))](/colleges/indian-institute-of-social-welfare-and-business-management)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹8.50 LPA**
@@ -111,15 +111,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Why is [IIM Calcutta](/colleges/iim-calcutta) highly prestigious for finance?
-While famed for finance, IIM Calcutta offers general PGP programs that place candidates in premium brand management and corporate strategy roles globally.
+While famed for finance, [IIM Calcutta](/colleges/iim-calcutta) offers general PGP programs that place candidates in premium brand management and corporate strategy roles globally.
 
 ### Why is [Praxis Business School](/colleges/praxis-kolkata) highly recommended for FinTech?
-Praxis Business School is a pioneer in management education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
+[Praxis Business School](/colleges/praxis-kolkata) is a pioneer in management education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
 
 ### What is the fee at IISWBM Kolkata?
 IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs and historical brand recognition.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

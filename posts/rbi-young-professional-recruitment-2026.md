@@ -142,7 +142,6 @@ Candidates must be at least 21 years old and must not have exceeded 30 years of 
 ---
 
 Source: RBI Official Recruitment Notifications
-
 ---
 
 ### 🚀 Boost Your Preparation

@@ -147,7 +147,6 @@ Expected NEET score is between 380 and 450 in MCC Deemed Counselling.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

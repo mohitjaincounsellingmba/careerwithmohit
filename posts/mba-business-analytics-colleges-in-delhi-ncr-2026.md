@@ -124,9 +124,7 @@ Source: Shiksha.com
 Yes, LBSIM Delhi offers a dedicated PGDM program in Research and Business Analytics, which is highly popular among students aiming for analyst roles in consulting and financial firms.
 
 ### What is the average starting salary for Business Analytics graduates in Delhi NCR?
-For top-tier colleges like MDI Gurgaon, the average placement is over INR 27 LPA. For mid-tier colleges like FORE and LBSIM, the average starting salary ranges from INR 12 LPA to 15 LPA.
-
-
+For top-tier colleges like [MDI Gurgaon](/colleges/mdi-gurgaon), the average placement is over INR 27 LPA. For mid-tier colleges like FORE and LBSIM, the average starting salary ranges from INR 12 LPA to 15 LPA.
 ---
 
 ### 🚀 Boost Your Preparation

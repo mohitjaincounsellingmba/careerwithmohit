@@ -61,7 +61,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹33.00 LPA**
 - **Key Highlight:** Elite B-school offering specialized tracks in marketing management and digital strategy.
 
-### 2. [JBIMS Mumbai (Jamnalal Bajaj Institute of Management Studies)](/colleges/jbims-mumbai)
+### 2. [JBIMS Mumbai (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))](/colleges/jbims-mumbai)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹28.02 LPA**
@@ -111,15 +111,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Does [NMIMS Mumbai](/colleges/nmims-mumbai) have a specialized Digital Marketing program?
-Yes, NMIMS Mumbai offers a highly popular MBA program with dedicated marketing intakes and outstanding placements in top corporate departments.
+Yes, [NMIMS Mumbai](/colleges/nmims-mumbai) offers a highly popular MBA program with dedicated marketing intakes and outstanding placements in top corporate departments.
 
 ### Is [SPJIMR Mumbai](/colleges/spjimr-mumbai) good for marketing roles?
 Yes, SPJIMR is ranked among the top B-schools in India, and its marketing management specialization places candidates in premium branding and analyst roles.
 
 ### What exams are accepted by [JBIMS Mumbai](/colleges/jbims-mumbai)?
-JBIMS Mumbai primarily accepts MAH CET and CAT scores for general category management admissions.
-
-
+[JBIMS Mumbai](/colleges/jbims-mumbai) primarily accepts MAH CET and CAT scores for general category management admissions.
 ---
 
 ### 🚀 Boost Your Preparation

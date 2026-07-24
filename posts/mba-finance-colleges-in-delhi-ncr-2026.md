@@ -125,8 +125,6 @@ Yes, the Department of Financial Studies (DFS) has a long-standing reputation sp
 
 ### Can I get direct admission in top Delhi NCR Finance MBA colleges?
 Top-tier colleges like FMS and MDI do not offer direct admission and admit strictly via CAT. Some private colleges offer management quota seats based on CMAT/MAT scores.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

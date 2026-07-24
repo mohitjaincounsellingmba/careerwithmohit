@@ -118,8 +118,6 @@ The average placement package for private management institutes in Jaipur ranges
 
 ### Can I get direct admission in Jaipur MBA colleges for HR?
 Yes, private universities like Manipal Jaipur and others offer direct admission pathways based on merit in qualifying graduation exams or moderate entrance scores.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

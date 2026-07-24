@@ -159,7 +159,6 @@ Yes, thousands of candidates self-study for CAT using standard textbooks (such a
 ### 🚀 Ready to Elevate Your CAT Preparation?
 
 > [👉 Take our Free CAT 2026 Full-Length Mock Test & Benchmark Your Score](https://www.careerwithmohit.online/tools/cat-mock-test)
-
 ---
 
 ### 🚀 Boost Your Preparation

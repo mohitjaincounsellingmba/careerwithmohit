@@ -111,15 +111,13 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly ranked for Operations?
-MDI Gurgaon has outstanding academic credentials and offers a highly specialized sales & operations course that is closely linked with top brands, resulting in premium packages.
+[MDI Gurgaon](/colleges/mdi-gurgaon) has outstanding academic credentials and offers a highly specialized sales & operations course that is closely linked with top brands, resulting in premium packages.
 
 ### Does SOIL Gurgaon offer a specialized Operations program?
 Yes, SOIL Gurgaon provides a dedicated PGDM program focusing on operations planning and operations analytics.
 
 ### What exams does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accept?
-Great Lakes Gurgaon accepts CAT, XAT, GMAT, and CMAT scores for its management programs.
-
-
+[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accepts CAT, XAT, GMAT, and CMAT scores for its management programs.
 ---
 
 ### 🚀 Boost Your Preparation

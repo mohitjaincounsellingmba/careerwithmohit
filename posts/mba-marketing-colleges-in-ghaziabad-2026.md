@@ -111,8 +111,6 @@ The total tuition fee for the PGDM program is approximately INR 6.0 Lakhs, offer
 
 ### Does IMT Ghaziabad accept CMAT scores?
 No, IMT Ghaziabad accepts CAT, XAT, and GMAT scores for its flagship PGDM programs.
-
-
 ---
 
 ### 🚀 Boost Your Preparation

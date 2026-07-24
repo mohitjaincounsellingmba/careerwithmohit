@@ -147,7 +147,6 @@ The expected NEET score cutoff is between 480 and 530 (AIR 90k - 140k).
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

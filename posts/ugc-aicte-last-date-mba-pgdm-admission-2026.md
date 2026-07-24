@@ -110,7 +110,6 @@ For AICTE PGDM institutions, the official last date to request cancellation with
 ---
 
 Source: AICTE Academic Calendar 2026-27 & UGC Distance Education Bureau (DEB) notifications.
-
 ---
 
 ### 🚀 Boost Your Preparation

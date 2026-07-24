@@ -125,7 +125,6 @@ Yes, candidates meeting the eligibility criteria (minimum 45% aggregate in 10+2 
 ---
 
 Source: Shiksha.com
-
 ---
 
 ### 🚀 Boost Your Preparation

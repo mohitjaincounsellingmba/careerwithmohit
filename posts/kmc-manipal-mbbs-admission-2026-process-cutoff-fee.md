@@ -147,7 +147,6 @@ Yes, 100% of seats in KMC Manipal are filled through MCC All India Deemed Univer
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

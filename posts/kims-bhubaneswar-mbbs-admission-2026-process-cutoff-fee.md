@@ -147,7 +147,6 @@ Yes, KIMS is fully recognized by NMC and Ministry of Health, Govt of India.
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation

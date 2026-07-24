@@ -147,7 +147,6 @@ Candidates must qualify NEET UG 2026 and register for Tamil Nadu State NEET Coun
 ---
 
 Source: Official College Prospectus & Medical Counselling Guidelines
-
 ---
 
 ### 🚀 Boost Your Preparation
