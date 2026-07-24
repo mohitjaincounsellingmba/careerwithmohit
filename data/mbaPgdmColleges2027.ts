@@ -17,6 +17,9 @@ export interface MbaPgdmCollege {
   whatsapp: string;
   slug?: string;
   specializations?: Record<string, string[]>;
+  avgPlacement?: string;
+  highestPlacement?: string;
+  topRecruiters?: string[];
 }
 
 export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
@@ -38,10 +41,13 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE, NBA, AIU, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['FinTech', 'Business Analytics', 'Marketing & Digital Media', 'HR Management', 'Logistics & Supply Chain', 'Treasury & Investment Banking'],
+      PGDM: ['FinTech', 'Business Analytics', 'Marketing & Digital Media', 'HR Management', 'Logistics & Supply Chain', 'Treasury & Investment Banking'],
       'PGDM Marketing': ['Digital Marketing', 'Brand Management', 'Consumer Insights'],
       'PGDM Finance': ['Investment Banking', 'Wealth Management', 'Corporate Finance']
-    }
+    },
+    avgPlacement: '₹9.50 LPA',
+    highestPlacement: '₹24.00 LPA',
+    topRecruiters: ['Deloitte', 'KPMG', 'EY', 'Infosys', 'HDFC Bank', 'Amazon', 'Tata Motors']
   },
   {
     name: 'FOSTIIMA Business School',
@@ -61,8 +67,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'International Business', 'Operations & Analytics']
-    }
+      PGDM: ['Marketing Management', 'Financial Management', 'Human Resource Management', 'International Business', 'Operations & Analytics']
+    },
+    avgPlacement: '₹11.15 LPA',
+    highestPlacement: '₹30.0 LPA',
+    topRecruiters: ['Deloitte', 'KPMG', 'Axis Bank', 'ICICI', 'BYJU\'S', 'HDFC']
   },
   {
     name: 'Fortune Institute of International Business (FIIB)',
@@ -82,9 +91,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE, NBA, AIU, AACSB Member',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Business Analytics', 'Digital Marketing', 'Financial Technologies', 'Human Resource Management', 'Strategy & Entrepreneurship'],
+      PGDM: ['Business Analytics', 'Digital Marketing', 'Financial Technologies', 'Human Resource Management', 'Strategy & Entrepreneurship'],
       'PGDM Financial Management': ['Investment Analysis', 'Risk Management', 'Banking & Financial Services']
-    }
+    },
+    avgPlacement: '₹8.5 LPA',
+    highestPlacement: '₹25.92 LPA',
+    topRecruiters: ['Amazon', 'Deloitte', 'ICICI Bank', 'Tata Capital', 'Wipro', 'Genpact']
   },
   {
     name: 'IILM Institute for Higher Education',
@@ -104,8 +116,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE, NBA, AIU Equivalent, SAQS',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Innovation', 'FinTech & Analytics', 'Human Resource Leadership', 'Operations & Supply Chain', 'Family Business Management']
-    }
+      PGDM: ['Marketing & Innovation', 'FinTech & Analytics', 'Human Resource Leadership', 'Operations & Supply Chain', 'Family Business Management']
+    },
+    avgPlacement: '₹8.6 LPA',
+    highestPlacement: '₹20.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'JIMS Kalkaji (Jagannath International)',
@@ -125,9 +140,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE, NBA, AIU, NAAC Accredited',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing', 'Finance', 'Human Resource', 'Entrepreneurship & Retail'],
+      PGDM: ['Marketing', 'Finance', 'Human Resource', 'Entrepreneurship & Retail'],
       'PGDM International Business': ['Global Supply Chain', 'Export-Import Management', 'International Finance']
-    }
+    },
+    avgPlacement: '₹10.5 LPA',
+    highestPlacement: '₹35.0 LPA',
+    topRecruiters: ['Amazon', 'Deloitte', 'ICICI Bank', 'Tata Capital', 'Wipro', 'Genpact', 'PWC']
   },
   {
     name: 'Management Education & Research Institute (MERI)',
@@ -147,9 +165,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, GGSIPU Affiliated (for MBA), Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing', 'Finance', 'Human Resource Management', 'Information Technology'],
-      'MBA': ['Financial Management', 'Marketing Management', 'HR Management', 'Systems']
-    }
+      PGDM: ['Marketing', 'Finance', 'Human Resource Management', 'Information Technology'],
+      MBA: ['Financial Management', 'Marketing Management', 'HR Management', 'Systems']
+    },
+    avgPlacement: '₹7.5 LPA',
+    highestPlacement: '₹20.0 LPA',
+    topRecruiters: ['TCS', 'Infosys', 'HCL', 'Axis Bank', 'Kotak', 'ICICI', 'Amazon']
   },
   {
     name: 'New Delhi Institute of Info Tech & Management (NDIIT)',
@@ -169,8 +190,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Digital Media', 'Banking & Finance', 'Human Resources', 'Business Analytics & IT']
-    }
+      PGDM: ['Marketing & Digital Media', 'Banking & Finance', 'Human Resources', 'Business Analytics & IT']
+    },
+    avgPlacement: '₹7.50 LPA',
+    highestPlacement: '₹18.00 LPA',
+    topRecruiters: ['Amazon', 'Deloitte', 'HDFC Bank', 'EY', 'Genpact']
   },
   {
     name: 'Delhi School of Business (VIPS-TC)',
@@ -190,8 +214,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE, NBA Accredited, AIU Equivalent',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Business Analytics & Big Data', 'Financial Management', 'Marketing & Sales', 'HR Management', 'Operations & Supply Chain']
-    }
+      PGDM: ['Business Analytics & Big Data', 'Financial Management', 'Marketing & Sales', 'HR Management', 'Operations & Supply Chain']
+    },
+    avgPlacement: '₹10.5 LPA',
+    highestPlacement: '₹23.9 LPA',
+    topRecruiters: ['Federal Bank', 'Black Rock', 'Deloitte', 'EY', 'Asian Paints', 'Amazon', 'S&P Global']
   },
   {
     name: 'EMPI Business School',
@@ -211,8 +238,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Advertising & Communication', 'Research & Business Analytics', 'Global Business (with Japan options)', 'Finance & HR Management']
-    }
+      PGDM: ['Advertising & Communication', 'Research & Business Analytics', 'Global Business (with Japan options)', 'Finance & HR Management']
+    },
+    avgPlacement: '₹6.5 LPA',
+    highestPlacement: '₹12.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Institute of Marketing & Management (IMM)',
@@ -232,8 +262,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Digital Branding', 'Financial Management', 'HR & Corporate Strategy', 'International Business', 'Operations & Logistics']
-    }
+      PGDM: ['Marketing & Digital Branding', 'Financial Management', 'HR & Corporate Strategy', 'International Business', 'Operations & Logistics']
+    },
+    avgPlacement: '₹9.5 LPA',
+    highestPlacement: '₹19.75 LPA',
+    topRecruiters: ['Deloitte', 'Amazon', 'HDFC Bank', 'Airtel', 'Asian Paints', 'KPMG']
   },
   {
     name: 'Maharaja Agrasen Institute of Management Studies (MAIMS)',
@@ -253,9 +286,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, GGSIPU Affiliated (for MBA), NAAC Grade A',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['General Management', 'Marketing', 'Finance', 'Human Resource Management'],
-      'MBA': ['Financial Markets', 'Marketing Management', 'HR Analytics', 'IT & Systems']
-    }
+      PGDM: ['General Management', 'Marketing', 'Finance', 'Human Resource Management'],
+      MBA: ['Financial Markets', 'Marketing Management', 'HR Analytics', 'IT & Systems']
+    },
+    avgPlacement: '₹6.50 LPA',
+    highestPlacement: '₹12.00 LPA',
+    topRecruiters: ['Deloitte', 'Wipro', 'Genpact', 'HDFC Bank']
   },
   {
     name: 'ASM Apeejay School of Management',
@@ -275,8 +311,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE, NBA Accredited, ACBSP Global, AIU Equivalent',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & E-Commerce', 'Financial Markets & Banking', 'Human Resource Analytics', 'Operations & Business Analytics', 'International Business']
-    }
+      PGDM: ['Marketing & E-Commerce', 'Financial Markets & Banking', 'Human Resource Analytics', 'Operations & Business Analytics', 'International Business']
+    },
+    avgPlacement: '₹7.0 LPA',
+    highestPlacement: '₹16.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Jaipuria School of Business (JSB)',
@@ -296,8 +335,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Digital Media', 'Financial Services', 'Human Resource Management', 'Business Analytics & IT', 'Operations & Supply Chain']
-    }
+      PGDM: ['Marketing & Digital Media', 'Financial Services', 'Human Resource Management', 'Business Analytics & IT', 'Operations & Supply Chain']
+    },
+    avgPlacement: '₹7.0 LPA',
+    highestPlacement: '₹15.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'ITS Ghaziabad (Mohan Nagar)',
@@ -317,9 +359,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to AKTU (for MBA), NAAC Grade A, NBA',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business'],
-      'PGDM': ['Marketing & Sales', 'Corporate Finance', 'Human Resource Capital', 'Business Analytics', 'Digital Business']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business'],
+      PGDM: ['Marketing & Sales', 'Corporate Finance', 'Human Resource Capital', 'Business Analytics', 'Digital Business']
+    },
+    avgPlacement: '₹6.0 LPA',
+    highestPlacement: '₹11.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Jaipuria Institute of Management',
@@ -339,10 +384,13 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE, NBA Accredited, AIU Equivalent',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Brand Strategy', 'Financial Services', 'Human Resources Capital', 'Business Analytics', 'Operations Management'],
+      PGDM: ['Marketing & Brand Strategy', 'Financial Services', 'Human Resources Capital', 'Business Analytics', 'Operations Management'],
       'PGDM Service Management': ['Retail Management', 'FinTech', 'Service Analytics'],
       'PGDM Marketing': ['Digital Marketing', 'Consumer Insights', 'Sales & Distribution']
-    }
+    },
+    avgPlacement: '₹12.88 LPA',
+    highestPlacement: '₹36.64 LPA',
+    topRecruiters: []
   },
   {
     name: 'Hierank Business School',
@@ -362,8 +410,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to AKTU, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business']
+    },
+    avgPlacement: '₹4.5 LPA',
+    highestPlacement: '₹8.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Amity University (Noida Campus)',
@@ -383,10 +434,13 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'UGC, NAAC A+ Rated, WES, ACBSP, IACBE',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['General Management', 'Marketing & Sales', 'Finance & FinTech', 'HR Capital', 'International Business'],
+      MBA: ['General Management', 'Marketing & Sales', 'Finance & FinTech', 'HR Capital', 'International Business'],
       'MBA Business Analytics': ['Data Engineering', 'Predictive Modeling', 'Data Visualization'],
       'MBA HR': ['Strategic HR', 'Talent Acquisition', 'Compensation Management']
-    }
+    },
+    avgPlacement: '₹6.5 LPA',
+    highestPlacement: '₹61.7 LPA',
+    topRecruiters: []
   },
   {
     name: 'GNIOT (Greater Noida Institute of Technology)',
@@ -406,9 +460,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, AKTU Affiliated (for MBA), Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business'],
-      'PGDM': ['Business Analytics', 'Digital Marketing', 'Banking & Finance Services', 'Human Capital Management', 'Logistics & Supply Chain']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business'],
+      PGDM: ['Business Analytics', 'Digital Marketing', 'Banking & Finance Services', 'Human Capital Management', 'Logistics & Supply Chain']
+    },
+    avgPlacement: '₹5.0 LPA',
+    highestPlacement: '₹27.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'GL Bajaj Institute of Management & Research (GLBIMR)',
@@ -428,8 +485,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Operations & Analytics', 'International Business']
-    }
+      PGDM: ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Operations & Analytics', 'International Business']
+    },
+    avgPlacement: '₹6.8 LPA',
+    highestPlacement: '₹58.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Accurate Institute of Management & Technology',
@@ -449,9 +509,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to AKTU (for MBA)',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['General Management', 'Marketing', 'Finance', 'HR Management'],
-      'PGDM': ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy']
-    }
+      MBA: ['General Management', 'Marketing', 'Finance', 'HR Management'],
+      PGDM: ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy']
+    },
+    avgPlacement: '₹6.5 LPA',
+    highestPlacement: '₹15.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Noida Institute of Engineering & Technology (NIET)',
@@ -471,8 +534,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Autonomous Status',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Sales', 'Corporate Finance', 'Human Resources & Analytics', 'Information Technology', 'Operations & Supply Chain']
-    }
+      PGDM: ['Marketing & Sales', 'Corporate Finance', 'Human Resources & Analytics', 'Information Technology', 'Operations & Supply Chain']
+    },
+    avgPlacement: '₹6.0 LPA',
+    highestPlacement: '₹51.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'I Business Institute (IBI)',
@@ -492,8 +558,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Business Analytics & IT', 'Operations Management', 'International Business']
-    }
+      PGDM: ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Business Analytics & IT', 'Operations Management', 'International Business']
+    },
+    avgPlacement: '₹7.50 LPA',
+    highestPlacement: '₹15.0 LPA',
+    topRecruiters: ['KPMG', 'EY', 'HDFC Bank', 'Axis Bank', 'Amazon', 'Reliance', 'Dabur']
   },
   {
     name: 'Lloyd Business School',
@@ -513,9 +582,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to AKTU (for MBA)',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
-      'PGDM': ['Business Analytics (with IBM)', 'Supply Chain Management', 'Finance & Banking', 'Human Resource Analytics']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      PGDM: ['Business Analytics (with IBM)', 'Supply Chain Management', 'Finance & Banking', 'Human Resource Analytics']
+    },
+    avgPlacement: '₹6.0 LPA',
+    highestPlacement: '₹18.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'IILM Greater Noida (IILM University)',
@@ -535,8 +607,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'UGC Approved, IILM University, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing & Innovation', 'FinTech & Wealth Management', 'Strategic HR & Analytics', 'Logistics & Supply Chain', 'Digital Entrepreneurship']
-    }
+      MBA: ['Marketing & Innovation', 'FinTech & Wealth Management', 'Strategic HR & Analytics', 'Logistics & Supply Chain', 'Digital Entrepreneurship']
+    },
+    avgPlacement: '₹5.9 LPA',
+    highestPlacement: '₹14.4 LPA',
+    topRecruiters: []
   },
   {
     name: 'Bennett University',
@@ -556,8 +631,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'UGC Approved, Bennett University',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing & Sales', 'Finance & FinTech', 'Human Resource Capital', 'Business Analytics', 'Media & Entertainment Management']
-    }
+      MBA: ['Marketing & Sales', 'Finance & FinTech', 'Human Resource Capital', 'Business Analytics', 'Media & Entertainment Management']
+    },
+    avgPlacement: '₹7.5 LPA',
+    highestPlacement: '₹1.2 CPA',
+    topRecruiters: []
   },
   {
     name: 'Mangalmay Institute of Management and Technology',
@@ -577,8 +655,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to AKTU, NAAC Accredited',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'Human Resource Management', 'Information Technology', 'International Business']
+    },
+    avgPlacement: '₹5.5 LPA',
+    highestPlacement: '₹12.4 LPA',
+    topRecruiters: []
   },
   {
     name: 'Sparsh Global Business School (SGBS)',
@@ -598,8 +679,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Strategic Marketing', 'FinTech & Investment Banking', 'Strategic Human Resources', 'Business Analytics & Data Science', 'Global Business Operations']
-    }
+      PGDM: ['Strategic Marketing', 'FinTech & Investment Banking', 'Strategic Human Resources', 'Business Analytics & Data Science', 'Global Business Operations']
+    },
+    avgPlacement: '₹7.5 LPA',
+    highestPlacement: '₹18.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'JK Business School (JKBS)',
@@ -619,8 +703,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Sales Strategy', 'Financial Technologies', 'Human Resource Management', 'Business Analytics & IT', 'Logistics & Supply Chain']
-    }
+      PGDM: ['Marketing & Sales Strategy', 'Financial Technologies', 'Human Resource Management', 'Business Analytics & IT', 'Logistics & Supply Chain']
+    },
+    avgPlacement: '₹9.0 LPA',
+    highestPlacement: '₹24.0 LPA',
+    topRecruiters: ['EY', 'KPMG', 'Berger Paints', 'Decathlon', 'Flipkart', 'Quintica', 'HDFC Bank', 'Axis Bank']
   },
   {
     name: 'IBMR Group of Institutions (IBMR Gurgaon)',
@@ -640,9 +727,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to MDU Rohtak (for MBA)',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'International Business'],
-      'PGDM': ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'International Business'],
+      PGDM: ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy']
+    },
+    avgPlacement: '₹7.5 LPA',
+    highestPlacement: '₹21.0 LPA',
+    topRecruiters: ['IBM', 'Cafe Coffee Day', 'Deloitte', 'ICICI Bank', 'Amazon', 'ITC', 'HCL', 'TCS']
   },
   {
     name: 'ISB&M Gurgaon (International School of Business & Media)',
@@ -662,8 +752,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Brand Management', 'Finance & FinTech', 'Human Resource Capital', 'Media & Communication', 'Supply Chain Management']
-    }
+      PGDM: ['Marketing & Brand Management', 'Finance & FinTech', 'Human Resource Capital', 'Media & Communication', 'Supply Chain Management']
+    },
+    avgPlacement: '₹7.5 LPA',
+    highestPlacement: '₹14.0 LPA',
+    topRecruiters: ['Amazon', 'Flipkart', 'HUL', 'Asian Paints', 'Capgemini', 'Standard Chartered']
   },
   {
     name: 'BML Munjal University (BMU)',
@@ -683,8 +776,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'UGC Approved, BML Munjal University',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing & Product Strategy', 'Finance & FinTech', 'Strategic Human Resources', 'Business Analytics', 'Entrepreneurship & Innovation']
-    }
+      MBA: ['Marketing & Product Strategy', 'Finance & FinTech', 'Strategic Human Resources', 'Business Analytics', 'Entrepreneurship & Innovation']
+    },
+    avgPlacement: '₹8.5 LPA',
+    highestPlacement: '₹33.6 LPA',
+    topRecruiters: []
   },
   {
     name: 'SOIL Institute of Management (SOIL)',
@@ -704,8 +800,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Product Analytics', 'Finance & Banking', 'Human Resource Analytics', 'Business Analytics & IT']
-    }
+      PGDM: ['Marketing & Product Analytics', 'Finance & Banking', 'Human Resource Analytics', 'Business Analytics & IT']
+    },
+    avgPlacement: '₹10.3 LPA',
+    highestPlacement: '₹19.3 LPA',
+    topRecruiters: []
   },
   {
     name: 'IILM University (Gurugram Campus)',
@@ -725,8 +824,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'UGC Approved, IILM University',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing & Sales Strategy', 'FinTech & Analytics', 'Human Capital & Leadership', 'Logistics & Supply Chain', 'Digital Business']
-    }
+      MBA: ['Marketing & Sales Strategy', 'FinTech & Analytics', 'Human Capital & Leadership', 'Logistics & Supply Chain', 'Digital Business']
+    },
+    avgPlacement: '₹8.6 LPA',
+    highestPlacement: '₹26.0 LPA',
+    topRecruiters: ['Deloitte', 'KPMG', 'EY', 'Wipro', 'HDFC Bank', 'Zomato', 'Loreal', 'PwC']
   },
   {
     name: 'St. Andrews Institute of Technology & Management (SAITM)',
@@ -746,8 +848,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to MDU Rohtak',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems']
+    },
+    avgPlacement: '₹4.5 LPA',
+    highestPlacement: '₹12.0 LPA',
+    topRecruiters: ['Amazon', 'Infosys', 'Wipro', 'Accenture', 'Paytm', 'HDFC Bank', 'ICICI Bank', 'Sony']
   },
   {
     name: 'Pune Institute of Business Management (PIBM)',
@@ -767,9 +872,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to SPPU (for MBA), NAAC Accredited',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
-      'PGDM': ['FMCG & Consumer Goods Marketing', 'Investment Banking & Corporate Finance', 'HR & Analytics', 'Information Technology', 'Operations & Logistics']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      PGDM: ['FMCG & Consumer Goods Marketing', 'Investment Banking & Corporate Finance', 'HR & Analytics', 'Information Technology', 'Operations & Logistics']
+    },
+    avgPlacement: '₹10.3 LPA',
+    highestPlacement: '₹26.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Lexicon MILE (Management Institute of Leadership & Excellence)',
@@ -789,9 +897,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing Management', 'Financial Management', 'HR Capital', 'Operations & Logistics'],
+      PGDM: ['Marketing Management', 'Financial Management', 'HR Capital', 'Operations & Logistics'],
       'Global MBA': ['International Business Strategy', 'Digital Marketing', 'Global Finance']
-    }
+    },
+    avgPlacement: '₹6.5 LPA',
+    highestPlacement: '₹13.3 LPA',
+    topRecruiters: []
   },
   {
     name: 'RIIM Pune (Ramachandran International)',
@@ -811,10 +922,13 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to SPPU (for MBA)',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'Operations & Supply Chain'],
-      'PGDM': ['Business Analytics', 'Digital Marketing', 'FinTech & Wealth Management', 'Human Capital Strategy'],
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'Operations & Supply Chain'],
+      PGDM: ['Business Analytics', 'Digital Marketing', 'FinTech & Wealth Management', 'Human Capital Strategy'],
       'Global MBA': ['International Business Operations', 'Global Marketing', 'Global Finance']
-    }
+    },
+    avgPlacement: '₹7.84 LPA',
+    highestPlacement: '₹35.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'ASM Institute of Business Management & Research (IBMR)',
@@ -834,9 +948,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to SPPU (for MBA)',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
-      'PGDM': ['Business Analytics (IBM)', 'Cloud Computing & AWS', 'Enterprise Finance', 'HR & People Analytics']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      PGDM: ['Business Analytics (IBM)', 'Cloud Computing & AWS', 'Enterprise Finance', 'HR & People Analytics']
+    },
+    avgPlacement: '₹7.5 LPA',
+    highestPlacement: '₹24.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Dr. D.Y. Patil Institute of Management & Research',
@@ -856,9 +973,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to SPPU (for MBA), NAAC A++',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'Information Technology', 'International Business'],
-      'PGDM': ['Business Analytics', 'Digital Marketing', 'Corporate Finance', 'Human Capital Leadership']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'Information Technology', 'International Business'],
+      PGDM: ['Business Analytics', 'Digital Marketing', 'Corporate Finance', 'Human Capital Leadership']
+    },
+    avgPlacement: '₹8.0 LPA',
+    highestPlacement: '₹24.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'IIEBM (Indus Business School)',
@@ -878,9 +998,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing Management', 'Financial Management', 'Human Capital Strategy', 'Business Analytics & IT', 'Operations Management'],
-      'PGPERP': ['Enterprise Resource Planning', 'SAP Consulting', 'Systems Management']
-    }
+      PGDM: ['Marketing Management', 'Financial Management', 'Human Capital Strategy', 'Business Analytics & IT', 'Operations Management'],
+      PGPERP: ['Enterprise Resource Planning', 'SAP Consulting', 'Systems Management']
+    },
+    avgPlacement: '₹7.5 LPA',
+    highestPlacement: '₹30.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Akemi Business School',
@@ -900,8 +1023,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to SPPU',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems']
+    },
+    avgPlacement: '₹4.3 L - ₹7.5 LPA',
+    highestPlacement: '₹18.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'ISMS Pune (International School of Management Studies)',
@@ -921,10 +1047,13 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
-      'PGDM': ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy'],
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      PGDM: ['Business Analytics', 'Digital Marketing Services', 'Finance & Banking', 'Human Capital Strategy'],
       'Global MBA': ['International Business Strategy (UK)', 'Global Marketing (UK)', 'International Finance (UK)']
-    }
+    },
+    avgPlacement: '₹8.0 LPA',
+    highestPlacement: '₹19.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'ATLAS SkillTech University',
@@ -944,8 +1073,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'UGC Approved, ATLAS SkillTech University',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Digital Marketing & E-Commerce', 'Financial Technologies', 'Human Capital Strategy', 'Design Thinking & Business Innovation', 'Business Analytics']
-    }
+      MBA: ['Digital Marketing & E-Commerce', 'Financial Technologies', 'Human Capital Strategy', 'Design Thinking & Business Innovation', 'Business Analytics']
+    },
+    avgPlacement: '₹9.5 LPA',
+    highestPlacement: '₹22.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Universal Business School (UBS Mumbai) / Universal AI University',
@@ -965,9 +1097,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT & Systems'],
-      'PGDM': ['AI & Business Analytics', 'Digital Marketing Strategy', 'Corporate Finance', 'Global Business Strategy']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'IT & Systems'],
+      PGDM: ['AI & Business Analytics', 'Digital Marketing Strategy', 'Corporate Finance', 'Global Business Strategy']
+    },
+    avgPlacement: '₹10.5 LPA',
+    highestPlacement: '₹42.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'ITM Business School (Navi Mumbai)',
@@ -987,8 +1122,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, NBA Accredited, NAAC Grade A',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Digital Media', 'Finance & Banking', 'Human Capital Capital', 'Business Analytics & IT', 'Retail Management', 'International Business']
-    }
+      PGDM: ['Marketing & Digital Media', 'Finance & Banking', 'Human Capital Capital', 'Business Analytics & IT', 'Retail Management', 'International Business']
+    },
+    avgPlacement: '₹10.5 LPA',
+    highestPlacement: '₹25.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'J.S. Kothari Business School',
@@ -1008,8 +1146,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Sales', 'Finance & Banking', 'Human Resource Management', 'Retail Operations']
-    }
+      PGDM: ['Marketing & Sales', 'Finance & Banking', 'Human Resource Management', 'Retail Operations']
+    },
+    avgPlacement: '₹5.5 LPA',
+    highestPlacement: '₹11.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Amity University (Mumbai Campus)',
@@ -1029,8 +1170,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'UGC Approved, Amity University',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['General Management', 'Marketing & Sales', 'Finance & Analytics', 'Human Resources', 'International Business']
-    }
+      MBA: ['General Management', 'Marketing & Sales', 'Finance & Analytics', 'Human Resources', 'International Business']
+    },
+    avgPlacement: '₹7.0 LPA',
+    highestPlacement: '₹15.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'JAGSoM (Jagdish Sheth School of Management)',
@@ -1050,8 +1194,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, AACSB Accredited',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Digital Marketing & Sales', 'Corporate Finance & Banking', 'Human Capital Capital', 'Business Analytics & IT', 'Services Management']
-    }
+      MBA: ['Digital Marketing & Sales', 'Corporate Finance & Banking', 'Human Capital Capital', 'Business Analytics & IT', 'Services Management']
+    },
+    avgPlacement: '₹11.0 LPA',
+    highestPlacement: '₹25.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'ISBR Business School (Bangalore)',
@@ -1071,9 +1218,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, NBA Accredited, affiliated to Bangalore University',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
-      'PGDM': ['Business Analytics', 'Digital Media Marketing', 'FinTech & Banking', 'Human Capital Strategy', 'Supply Chain Operations']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'IT Systems'],
+      PGDM: ['Business Analytics', 'Digital Media Marketing', 'FinTech & Banking', 'Human Capital Strategy', 'Supply Chain Operations']
+    },
+    avgPlacement: '₹9.0 LPA',
+    highestPlacement: '₹20.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'International Institute of Business Studies (IIBS)',
@@ -1093,9 +1243,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Affiliated to Bangalore University',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'International Business'],
-      'PGDM': ['Digital Business Strategy', 'Corporate Finance', 'Human Capital Analytics', 'Logistics Management']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'International Business'],
+      PGDM: ['Digital Business Strategy', 'Corporate Finance', 'Human Capital Analytics', 'Logistics Management']
+    },
+    avgPlacement: '₹8.2 LPA',
+    highestPlacement: '₹48.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'GIBS Business School',
@@ -1115,9 +1268,12 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing Management', 'Financial Management', 'HR Management', 'Systems Management'],
-      'PGDM': ['Business Analytics', 'Digital Marketing', 'FinTech & Banking', 'Supply Chain Management']
-    }
+      MBA: ['Marketing Management', 'Financial Management', 'HR Management', 'Systems Management'],
+      PGDM: ['Business Analytics', 'Digital Marketing', 'FinTech & Banking', 'Supply Chain Management']
+    },
+    avgPlacement: '₹9.5 LPA',
+    highestPlacement: '₹22.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Alliance University (Alliance School of Business)',
@@ -1137,8 +1293,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'UGC Approved, Alliance University, AACSB Member',
     whatsapp: '919560020771',
     specializations: {
-      'MBA': ['Marketing & Product Strategy', 'Finance & Wealth Management', 'Strategic Human Resources', 'Business Analytics & IT', 'International Business']
-    }
+      MBA: ['Marketing & Product Strategy', 'Finance & Wealth Management', 'Strategic Human Resources', 'Business Analytics & IT', 'International Business']
+    },
+    avgPlacement: '₹10.5 LPA',
+    highestPlacement: '₹40.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'ISME Bangalore (School of Management Excellence)',
@@ -1158,8 +1317,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Brand Analytics', 'FinTech & Banking', 'Human Capital Strategy', 'Business Analytics & IT', 'Logistics Management']
-    }
+      PGDM: ['Marketing & Brand Analytics', 'FinTech & Banking', 'Human Capital Strategy', 'Business Analytics & IT', 'Logistics Management']
+    },
+    avgPlacement: '₹8.5 LPA',
+    highestPlacement: '₹18.0 LPA',
+    topRecruiters: []
   },
   {
     name: 'Indus Business Academy (IBA Bangalore)',
@@ -1179,8 +1341,11 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, IACBE Accredited, Govt. of India',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Marketing & Digital Media', 'Corporate Finance & Valuation', 'Human Resource Management', 'Business Analytics & IT', 'Retail Management']
-    }
+      PGDM: ['Marketing & Digital Media', 'Corporate Finance & Valuation', 'Human Resource Management', 'Business Analytics & IT', 'Retail Management']
+    },
+    avgPlacement: '₹6.6 LPA',
+    highestPlacement: '₹13.5 LPA',
+    topRecruiters: []
   },
   {
     name: 'JAGSoM Bangalore (Jagdish Sheth School of Management)',
@@ -1200,8 +1365,10 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     approvals: 'AICTE Approved, AACSB Accredited, AIU Equivalent',
     whatsapp: '919560020771',
     specializations: {
-      'PGDM': ['Digital Marketing & Sales', 'Corporate Finance & Banking', 'Human Capital Strategy', 'Business Analytics & IT', 'Services Management']
-    }
+      PGDM: ['Digital Marketing & Sales', 'Corporate Finance & Banking', 'Human Capital Strategy', 'Business Analytics & IT', 'Services Management']
+    },
+    avgPlacement: '₹10.9 LPA',
+    highestPlacement: '₹43.0 LPA',
+    topRecruiters: []
   }
 ];
-

@@ -135,6 +135,8 @@ function CollegeDetailModal({
   onClose: () => void;
   onInquire: () => void;
 }) {
+  const [activeTab, setActiveTab] = useState<'Overview' | 'Placements' | 'Specializations'>('Overview');
+
   return (
     <div className="fixed inset-0 z-40 flex items-center justify-center p-4" onClick={onClose}>
       <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" />
@@ -162,78 +164,146 @@ function CollegeDetailModal({
           </div>
         </div>
 
+        {/* Tabs Header */}
+        <div className="flex border-b border-slate-100 px-8 bg-slate-50/50">
+          {[
+            { id: 'Overview', label: 'Overview' },
+            { id: 'Placements', label: 'Placements' },
+            { id: 'Specializations', label: 'Specializations' },
+          ].map((tab) => (
+            <button
+              key={tab.id}
+              onClick={() => setActiveTab(tab.id as any)}
+              className={`pb-4 pt-4 px-4 text-xs font-black uppercase tracking-widest whitespace-nowrap transition-all border-b-2 -mb-[1px] ${
+                activeTab === tab.id
+                  ? 'text-indigo-600 border-indigo-600'
+                  : 'text-slate-400 border-transparent hover:text-slate-900'
+              }`}
+            >
+              {tab.label}
+            </button>
+          ))}
+        </div>
+
         {/* Body */}
         <div className="p-8 space-y-6">
-          {/* About */}
-          <div>
-            <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-gray-400 mb-2">
-              <Building2 size={14} /> Overview
-            </h3>
-            <p className="text-gray-700 text-sm leading-relaxed font-medium">{college.about}</p>
-          </div>
-
-          {/* Key Info Grid */}
-          <div className="grid grid-cols-2 gap-4">
-            <div className="bg-indigo-50 rounded-xl p-4">
-              <p className="text-[10px] text-indigo-500 font-black uppercase tracking-widest mb-1">Total PGDM Fee</p>
-              <p className="text-lg font-black text-indigo-700">{college.fee}</p>
-            </div>
-            <div className="bg-violet-50 rounded-xl p-4">
-              <p className="text-[10px] text-violet-500 font-black uppercase tracking-widest mb-1">Program Duration</p>
-              <p className="text-sm font-bold text-violet-700">{college.duration}</p>
-            </div>
-            <div className="bg-gray-50 rounded-xl p-4">
-              <p className="text-[10px] text-gray-500 font-black uppercase tracking-widest mb-1">Learning Mode</p>
-              <p className="text-xs font-bold text-gray-700">{college.mode}</p>
-            </div>
-            <div className="bg-green-50 rounded-xl p-4">
-              <p className="text-[10px] text-green-500 font-black uppercase tracking-widest mb-1">Government Approvals</p>
-              <p className="text-xs font-bold text-green-700 leading-tight">{college.approvals}</p>
-            </div>
-          </div>
-
-          {/* Highlights */}
-          <div>
-            <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-gray-400 mb-3">
-              <Award size={14} /> Key Highlights
-            </h3>
-            <div className="space-y-2">
-              {college.highlights.map((h, idx) => (
-                <div key={idx} className="flex items-center gap-2 text-xs font-semibold text-slate-700">
-                  <CheckCircle2 size={15} className="text-indigo-600 shrink-0" />
-                  <span>{h}</span>
-                </div>
-              ))}
-            </div>
-          </div>
-
-          {/* Specializations */}
-          {college.specializations && (
-            <div>
-              <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-gray-400 mb-3">
-                <GraduationCap size={14} /> Specializations Offered
-              </h3>
-              <div className="space-y-3">
-                {Object.entries(college.specializations).map(([prog, specs]) => (
-                  <div key={prog} className="bg-indigo-50/50 border border-indigo-100 rounded-xl p-4">
-                    <span className="bg-indigo-600 text-white text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded">
-                      {prog}
-                    </span>
-                    <div className="mt-2.5 flex flex-wrap gap-1.5">
-                      {specs.map((spec) => (
-                        <span key={spec} className="bg-white border border-slate-200 text-slate-700 text-[11px] font-bold px-2.5 py-1 rounded shadow-xs">
-                          {spec}
-                        </span>
-                      ))}
-                    </div>
-                  </div>
-                ))}
+          {activeTab === 'Overview' && (
+            <>
+              {/* About */}
+              <div>
+                <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-gray-400 mb-2">
+                  <Building2 size={14} /> Overview
+                </h3>
+                <p className="text-gray-700 text-sm leading-relaxed font-medium">{college.about}</p>
               </div>
+
+              {/* Key Info Grid */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="bg-indigo-50 rounded-xl p-4">
+                  <p className="text-[10px] text-indigo-500 font-black uppercase tracking-widest mb-1">Total PGDM Fee</p>
+                  <p className="text-lg font-black text-indigo-700">{college.fee}</p>
+                </div>
+                <div className="bg-violet-50 rounded-xl p-4">
+                  <p className="text-[10px] text-violet-500 font-black uppercase tracking-widest mb-1">Program Duration</p>
+                  <p className="text-sm font-bold text-violet-700">{college.duration}</p>
+                </div>
+                <div className="bg-gray-50 rounded-xl p-4">
+                  <p className="text-[10px] text-gray-500 font-black uppercase tracking-widest mb-1">Learning Mode</p>
+                  <p className="text-xs font-bold text-gray-700">{college.mode}</p>
+                </div>
+                <div className="bg-green-50 rounded-xl p-4">
+                  <p className="text-[10px] text-green-500 font-black uppercase tracking-widest mb-1">Government Approvals</p>
+                  <p className="text-xs font-bold text-green-700 leading-tight">{college.approvals}</p>
+                </div>
+              </div>
+
+              {/* Highlights */}
+              <div>
+                <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-gray-400 mb-3">
+                  <Award size={14} /> Key Highlights
+                </h3>
+                <div className="space-y-2">
+                  {college.highlights.map((h, idx) => (
+                    <div key={idx} className="flex items-center gap-2 text-xs font-semibold text-slate-700">
+                      <CheckCircle2 size={15} className="text-indigo-600 shrink-0" />
+                      <span>{h}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </>
+          )}
+
+          {activeTab === 'Placements' && (
+            <div className="space-y-6">
+              {/* Package Details */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="bg-emerald-50 rounded-xl p-6 text-center border border-emerald-100">
+                  <p className="text-[10px] text-emerald-600 font-black uppercase tracking-widest mb-2">Average Package</p>
+                  <p className="text-2xl font-black text-emerald-800">{college.avgPlacement || 'TBD / Contact Counsellor'}</p>
+                </div>
+                <div className="bg-indigo-50 rounded-xl p-6 text-center border border-indigo-100">
+                  <p className="text-[10px] text-indigo-600 font-black uppercase tracking-widest mb-2">Highest Package</p>
+                  <p className="text-2xl font-black text-indigo-800">{college.highestPlacement || 'TBD / Contact Counsellor'}</p>
+                </div>
+              </div>
+
+              {/* Top Recruiters */}
+              {college.topRecruiters && college.topRecruiters.length > 0 && (
+                <div>
+                  <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-gray-400 mb-3">
+                    <Building2 size={14} /> Top Recruiters on Campus
+                  </h3>
+                  <div className="flex flex-wrap gap-2">
+                    {college.topRecruiters.map((rec) => (
+                      <span
+                        key={rec}
+                        className="bg-slate-50 border border-slate-200 text-slate-700 text-xs font-bold px-3 py-1.5 rounded-lg shadow-xs"
+                      >
+                        {rec}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
           )}
 
+          {activeTab === 'Specializations' && (
+            <>
+              {/* Specializations */}
+              {college.specializations ? (
+                <div>
+                  <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-gray-400 mb-3">
+                    <GraduationCap size={14} /> Specializations Offered
+                  </h3>
+                  <div className="space-y-3">
+                    {Object.entries(college.specializations).map(([prog, specs]) => (
+                      <div key={prog} className="bg-indigo-50/50 border border-indigo-100 rounded-xl p-4">
+                        <span className="bg-indigo-600 text-white text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded">
+                          {prog}
+                        </span>
+                        <div className="mt-2.5 flex flex-wrap gap-1.5">
+                          {specs.map((spec) => (
+                            <span key={spec} className="bg-white border border-slate-200 text-slate-700 text-[11px] font-bold px-2.5 py-1 rounded shadow-xs">
+                              {spec}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ) : (
+                <div className="text-center py-8 text-gray-500 text-sm font-medium">
+                  Contact our admissions team for the latest specialization curriculum details.
+                </div>
+              )}
+            </>
+          )}
+
           {/* CTA Buttons */}
-          <div className="pt-4 flex flex-col sm:flex-row gap-3">
+          <div className="pt-4 flex flex-col sm:flex-row gap-3 border-t border-slate-100">
             <button
               onClick={onInquire}
               className="flex-1 bg-gradient-to-r from-indigo-600 to-violet-600 text-white font-bold py-3.5 rounded-xl hover:opacity-95 transition-opacity text-sm shadow-md text-center"
