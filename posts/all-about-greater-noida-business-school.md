@@ -1,23 +1,41 @@
 ---
-title: "Greater Noida Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Greater Noida Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Greater Noida Business School PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Greater Noida Business School? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "greater noida business school review 2026"
-  - "greater noida business school pgdm placements"
-  - "greater noida business school admission cutoff"
-  - "greater noida business school fees"
+  - greater noida business school review 2026
+  - greater noida business school pgdm placements
+  - greater noida business school admission cutoff
+  - greater noida business school fees
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Greater Noida Business School a good option for PGDM/MBA?"
+  - question: Is Greater Noida Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Greater Noida Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Greater Noida Business School?"
+      Yes, Greater Noida Business School is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Greater Noida Business School?
     answer: >-
-      The average placement package at Greater Noida Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹18.5 LPA.
-  - question: "What entrance exams are accepted by Greater Noida Business School?"
+      The average placement package at Greater Noida Business School is
+      approximately ₹8.5 LPA, with the highest package reaching up to ₹18.5 LPA.
+  - question: What entrance exams are accepted by Greater Noida Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Noida
 ---
 
 ### **College Review: [Greater Noida Business School](/colleges/greater-noida-business-school)**

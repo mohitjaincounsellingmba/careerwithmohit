@@ -1,23 +1,42 @@
 ---
-title: "FORE School of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to FORE School of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  FORE School of Management PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to FORE School of Management?
+  Read our ...
 keywords:
-  - "fore school of management review 2026"
-  - "fore school of management pgdm placements"
-  - "fore school of management admission cutoff"
-  - "fore school of management fees"
+  - fore school of management review 2026
+  - fore school of management pgdm placements
+  - fore school of management admission cutoff
+  - fore school of management fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is FORE School of Management a good option for PGDM/MBA?"
+  - question: Is FORE School of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, FORE School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at FORE School of Management?"
+      Yes, FORE School of Management is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at FORE School of Management?
     answer: >-
-      The average placement package at FORE School of Management is approximately ₹15.10 LPA, with the highest package reaching up to ₹30.00 LPA.
-  - question: "What entrance exams are accepted by FORE School of Management?"
+      The average placement package at FORE School of Management is
+      approximately ₹15.10 LPA, with the highest package reaching up to ₹30.00
+      LPA.
+  - question: What entrance exams are accepted by FORE School of Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, XAT, GMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, XAT, GMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [FORE School of Management](/colleges/fore-school-delhi)**

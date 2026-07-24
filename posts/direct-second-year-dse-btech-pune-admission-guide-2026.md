@@ -5,9 +5,9 @@ title: >-
 date: '2026-04-24'
 category: B.Tech Admissions
 description: >-
-  Complete guide to Direct Second Year (DSE) Engineering admission in Pune for
-  2026. Learn about CAP rounds, eligibility for diploma holders, B.Sc graduates,
-  and top colleges like COEP, PICT, and VIT.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide to Direct Second Year (DSE) Engineering
+  admiss...
 keywords:
   - btech lateral entry pune 2026
   - direct second year engineering admission maharashtra
@@ -16,6 +16,14 @@ keywords:
   - PICT pune DSE cutoff
   - diploma to degree admission pune
   - Maharashtra DSE CAP rounds 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I change my branch during lateral entry?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
     answer: >-
       In government colleges like COEP, it is around ₹80k–₹1L per year. In
       private colleges like VIT or PICT, it ranges from ₹1.5L to ₹2.5L per year.
+location: Delhi
 ---
 
 For diploma holders and B.Sc. graduates, Pune offers some of the most prestigious pathways to earn a B.E. or B.Tech. degree through the **Direct Second Year (DSE)** admission process. Known as the "Oxford of the East," Pune's engineering ecosystem is perfectly aligned with the needs of lateral entry students who bring strong technical foundations from their diplomas.

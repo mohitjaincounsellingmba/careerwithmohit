@@ -1,23 +1,41 @@
 ---
-title: "Institute of Rural Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Institute of Rural Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Institute of Rural Management PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Institute of Rural Management?
+  Read ...
 keywords:
-  - "institute of rural management review 2026"
-  - "institute of rural management pgdm placements"
-  - "institute of rural management admission cutoff"
-  - "institute of rural management fees"
+  - institute of rural management review 2026
+  - institute of rural management pgdm placements
+  - institute of rural management admission cutoff
+  - institute of rural management fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Institute of Rural Management a good option for PGDM/MBA?"
+  - question: Is Institute of Rural Management a good option for PGDM/MBA?
     answer: >-
-      Yes, Institute of Rural Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Institute of Rural Management?"
+      Yes, Institute of Rural Management is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Institute of Rural Management?
     answer: >-
-      The average placement package at Institute of Rural Management is approximately ₹5.7 LPA, with the highest package reaching up to ₹14.3 LPA.
-  - question: "What entrance exams are accepted by Institute of Rural Management?"
+      The average placement package at Institute of Rural Management is
+      approximately ₹5.7 LPA, with the highest package reaching up to ₹14.3 LPA.
+  - question: What entrance exams are accepted by Institute of Rural Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Institute of Rural Management](/colleges/institute-of-rural-management)**

@@ -14,11 +14,19 @@ tags:
   - ISB Admission
   - GMAT Focus Edition
   - Study Abroad
-description: "\U0001F4CA GMAT Focus Edition 2026 Snapshot | Category | Details | | :--- | :--- | | Duration | 2 Hours 15 Minutes (3 Sections) | | Scoring Scale | 205 – 805 (10-p..."
+description: "Discover rankings, direct admission, fees, and placement reports for top colleges in Delhi NCR. \U0001F4CA GMAT Focus Edition 2026 Snapshot | Category | Details | | ..."
 keywords:
   - career counselling
   - admissions 2026
   - placements 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is a good GMAT Focus score for ISB in 2026?
     answer: >-
@@ -37,6 +45,7 @@ faqs:
       You can take the GMAT up to **5 times within a floating 12-month period**
       and a maximum of 8 times in your lifetime. There must be at least 16 days
       between two attempts.
+location: Delhi
 ---
 
 ### 📊 GMAT Focus Edition 2026 Snapshot

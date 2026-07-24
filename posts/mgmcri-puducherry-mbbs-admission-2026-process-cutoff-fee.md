@@ -1,20 +1,38 @@
 ---
-title: "Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry
+  MBBS Admission 2026: Process, NEET Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Mahatma
+  Gandhi Medi...
 keywords:
-  - "MGMCRI Puducherry MBBS admission 2026"
-  - "MGMCRI Puducherry fee structure"
-  - "MGMCRI Puducherry NEET cutoff 2026"
-  - "Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry MBBS process"
-  - "MBBS fees private medical college"
+  - MGMCRI Puducherry MBBS admission 2026
+  - MGMCRI Puducherry fee structure
+  - MGMCRI Puducherry NEET cutoff 2026
+  - >-
+    Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry
+    MBBS process
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the MBBS tuition fee for MGMCRI Puducherry?"
-    answer: "The annual tuition fee is approximately ₹22 Lakhs."
-  - question: "What is the NEET cutoff score for MGMCRI Puducherry?"
-    answer: "Expected NEET cutoff score is 280 to 370."
-  - question: "Is MGMCRI Puducherry under MCC counselling?"
-    answer: "Yes, admissions are conducted online through MCC Deemed University counselling."
+  - question: What is the MBBS tuition fee for MGMCRI Puducherry?
+    answer: The annual tuition fee is approximately ₹22 Lakhs.
+  - question: What is the NEET cutoff score for MGMCRI Puducherry?
+    answer: Expected NEET cutoff score is 280 to 370.
+  - question: Is MGMCRI Puducherry under MCC counselling?
+    answer: >-
+      Yes, admissions are conducted online through MCC Deemed University
+      counselling.
+location: Delhi
 ---
 
 Planning your medical career and targeting **Mahatma Gandhi Medical College and Research Institute (MGMCRI), Puducherry** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, MGMCRI Puducherry offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

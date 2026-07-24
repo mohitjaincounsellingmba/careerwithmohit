@@ -1,23 +1,41 @@
 ---
-title: "I.T.S - School of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to I.T.S - School of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  I.T.S - School of Management PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Ghaziabad, Delhi NCR. Looking for admission to I.T.S - School of
+  Managem...
 keywords:
-  - "i.t.s - school of management review 2026"
-  - "i.t.s - school of management pgdm placements"
-  - "i.t.s - school of management admission cutoff"
-  - "i.t.s - school of management fees"
+  - i.t.s - school of management review 2026
+  - i.t.s - school of management pgdm placements
+  - i.t.s - school of management admission cutoff
+  - i.t.s - school of management fees
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is I.T.S - School of Management a good option for PGDM/MBA?"
+  - question: Is I.T.S - School of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, I.T.S - School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at I.T.S - School of Management?"
+      Yes, I.T.S - School of Management is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at I.T.S - School of Management?
     answer: >-
-      The average placement package at I.T.S - School of Management is approximately ₹5.1 LPA, with the highest package reaching up to ₹12.6 LPA.
-  - question: "What entrance exams are accepted by I.T.S - School of Management?"
+      The average placement package at I.T.S - School of Management is
+      approximately ₹5.1 LPA, with the highest package reaching up to ₹12.6 LPA.
+  - question: What entrance exams are accepted by I.T.S - School of Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Ghaziabad
 ---
 
 ### **College Review: [I.T.S - School of Management](/colleges/i-t-s-school-of-management)**

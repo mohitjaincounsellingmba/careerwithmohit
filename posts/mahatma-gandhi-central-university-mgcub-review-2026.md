@@ -2,14 +2,23 @@
 title: 'Mahatma Gandhi Central University (MGCUB) Review 2026: Fees & Placements'
 date: '2026-05-24'
 description: >-
-  Detailed 2026 review of Mahatma Gandhi Central University (MGCUB) Motihari.
-  Explore fees, highest placement of ₹36 LPA, CUET cutoffs, and hostel details.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Detailed 2026 review of Mahatma Gandhi Central
+  Unive...
 keywords:
   - MGCUB review 2026
   - Mahatma Gandhi Central University placements
   - MGCUB fees
   - MGCUB CUET cutoff
   - MGCUB hostel
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -26,6 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Gurgaon
 ---
 Mahatma Gandhi Central University (MGCUB) located in Motihari, Bihar, has been rapidly expanding its academic offerings and campus infrastructure. It serves as an excellent central university option for students aiming to secure admission through CUET 2026.
 

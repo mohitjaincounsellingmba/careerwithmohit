@@ -2,9 +2,9 @@
 title: 'Complete List of 21 IIMs in India 2026: Courses, Placements & Admission Guide'
 date: '2026-03-12'
 description: >-
-  Explore all 21 IIMs in India. Detailed individual breakdown of each IIM's
-  flagship courses, placement statistics, CAT cut-offs, and admission interview
-  processes for 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Explore all 21 IIMs in India. Detailed individual
+  breakdown o...
 keywords:
   - '[IIM Ahmedabad](/colleges/iim-ahmedabad)'
   - '[IIM Bangalore](/colleges/iim-bangalore)'
@@ -22,6 +22,14 @@ keywords:
   - CAT percentile for IIM 2026
   - new IIMs India admission
   - IIM average salary package 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -38,6 +46,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
+location: Delhi
 ---
 The Indian Institutes of Management (IIMs) represent the gold standard of business education. Every IIM has its own unique placement record, selection criteria, and course specializations. 
 

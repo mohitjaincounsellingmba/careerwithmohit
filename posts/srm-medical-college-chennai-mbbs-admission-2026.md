@@ -1,20 +1,36 @@
 ---
-title: "SRM Medical College Hospital & Research Centre, Chennai MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at SRM Medical College Hospital & Research Centre, Chennai. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  SRM Medical College Hospital & Research Centre, Chennai MBBS Admission 2026:
+  Process, NEET Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at SRM Medical
+  College...
 keywords:
-  - "SRM Medical College Chennai MBBS admission 2026"
-  - "SRM Medical College Chennai fee structure"
-  - "SRM Medical College Chennai NEET cutoff 2026"
-  - "SRM Medical College Hospital & Research Centre, Chennai MBBS process"
-  - "MBBS fees private medical college"
+  - SRM Medical College Chennai MBBS admission 2026
+  - SRM Medical College Chennai fee structure
+  - SRM Medical College Chennai NEET cutoff 2026
+  - 'SRM Medical College Hospital & Research Centre, Chennai MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the fee for MBBS in SRM Medical College Chennai?"
-    answer: "The annual tuition fee is approximately ₹22.5 Lakhs to ₹25 Lakhs."
-  - question: "Which counselling conducts SRM MBBS admissions?"
-    answer: "Admissions are strictly through MCC All India Deemed University Counselling."
-  - question: "What is the NEET cutoff for SRM Medical College 2026?"
-    answer: "Expected NEET score cutoff is between 320 and 400."
+  - question: What is the fee for MBBS in SRM Medical College Chennai?
+    answer: The annual tuition fee is approximately ₹22.5 Lakhs to ₹25 Lakhs.
+  - question: Which counselling conducts SRM MBBS admissions?
+    answer: >-
+      Admissions are strictly through MCC All India Deemed University
+      Counselling.
+  - question: What is the NEET cutoff for SRM Medical College 2026?
+    answer: Expected NEET score cutoff is between 320 and 400.
+location: Delhi
 ---
 
 Planning your medical career and targeting **SRM Medical College Hospital & Research Centre, Chennai** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, SRM Medical College Chennai offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

@@ -4,9 +4,9 @@ title: >-
   Calculator
 date: '2026-06-02'
 description: >-
-  Step-by-step guide to check your MAT May 2026 Paper-Based Test (PBT) score on
-  mat.aima.in. Know the result date, scorecard download process, and use our
-  free MAT score calculator to estimate your composite score and percentile.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Step-by-step guide to check your
+  MAT Ma...
 keywords:
   - MAT May 2026 PBT score
   - check MAT PBT result 2026
@@ -16,6 +16,14 @@ keywords:
   - AIMA MAT PBT score 2026
   - MAT score calculator
   - MAT PBT result date June 2026
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Where can I check my MAT PBT scorecard?
     answer: >-
@@ -35,6 +43,7 @@ faqs:
     answer: >-
       The maximum composite score is **800** (200 per section × 4 sections: LC,
       ICR, MS, DA).
+location: Noida
 ---
 
 The **MAT May 2026 Paper-Based Test (PBT)** was held on **May 31, 2026** across multiple test centres in India. If you appeared for the PBT mode, you are now eagerly waiting for your official scorecard. This guide covers everything — the result date, how to check and download your PBT scorecard, and how to make sense of your score.

@@ -3,9 +3,9 @@ title: Can I do Law Without Maths? — Schools & Prep Guide 2026
 date: '2026-04-21'
 category: Law Admissions
 description: >-
-  Confused if you can study Law without Mathematics in 12th? The answer is a
-  massive YES. Learn about CLAT without Maths, top law colleges for Arts
-  students, and career prospects in 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Confused if you can study Law without Mathematics in
+  12th? Th...
 keywords:
   - can i do law without maths in 12th
   - law colleges for non maths students 2026
@@ -14,6 +14,14 @@ keywords:
   - ca llb without maths
   - career in law for arts students
   - maths in ailet exam
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is there any Law specialization that requires Maths?
     answer: >-
@@ -33,6 +41,7 @@ faqs:
       If you have stayed away from logic and maths, start your CLAT prep at
       least **12 months before the exam** to build the thinking patterns
       required for the test.
+location: Delhi
 ---
 
 One of the biggest concerns for Humanities, Arts, and Commerce (without Maths) students is: **"Is Mathematics mandatory for a career in Law?"**

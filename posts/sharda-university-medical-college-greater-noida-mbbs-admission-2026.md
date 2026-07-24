@@ -1,20 +1,41 @@
 ---
-title: "Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Sharda University (School of Medical Sciences & Research - SMSR), Greater
+  Noida MBBS Admission 2026: Process, NEET Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Complete guide for MBBS admission 2026 at Sharda University (School of Medical
+  Sciences & Research - SMSR), Greater Noida. Check latest fee structure, NEET
+  UG expected cutoff ranks, seat matrix, application process, and campus
+  hospital reviews.
 keywords:
-  - "Sharda Medical College Greater Noida MBBS admission 2026"
-  - "Sharda Medical College Greater Noida fee structure"
-  - "Sharda Medical College Greater Noida NEET cutoff 2026"
-  - "Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida MBBS process"
-  - "MBBS fees private medical college"
+  - Sharda Medical College Greater Noida MBBS admission 2026
+  - Sharda Medical College Greater Noida fee structure
+  - Sharda Medical College Greater Noida NEET cutoff 2026
+  - >-
+    Sharda University (School of Medical Sciences & Research - SMSR), Greater
+    Noida MBBS process
+  - MBBS fees private medical college
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Can non-UP students apply for Sharda University MBBS?"
-    answer: "Yes! Uttar Pradesh private medical college seats are 100% open to students from all states across India through UP NEET Counselling."
-  - question: "What is the total fee for MBBS in Sharda University?"
-    answer: "The total fee package is around ₹15.5 Lakhs to ₹16.5 Lakhs per year including hostel, security, and tuition fees."
-  - question: "What is the NEET cutoff for Sharda Medical College Greater Noida?"
-    answer: "The expected NEET score cutoff is 520 to 555 (Rank 70,000 to 1,00,000)."
+  - question: Can non-UP students apply for Sharda University MBBS?
+    answer: >-
+      Yes! Uttar Pradesh private medical college seats are 100% open to students
+      from all states across India through UP NEET Counselling.
+  - question: What is the total fee for MBBS in Sharda University?
+    answer: >-
+      The total fee package is around ₹15.5 Lakhs to ₹16.5 Lakhs per year
+      including hostel, security, and tuition fees.
+  - question: What is the NEET cutoff for Sharda Medical College Greater Noida?
+    answer: 'The expected NEET score cutoff is 520 to 555 (Rank 70,000 to 1,00,000).'
+location: Noida
 ---
 
 Planning your medical career and targeting **[Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences & Research - SMSR), Greater Noida** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, Sharda Medical College Greater Noida offers exceptional clinical training, modern healthcare facilities, and high patient footfall.
@@ -30,7 +51,7 @@ This comprehensive guide details everything you need to know about **MBBS admiss
 | **Institute Name** | [Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences & Research - SMSR), Greater Noida |
 | **Location** | Knowledge Park III, Greater Noida, Delhi NCR |
 | **Institute Type** | Private University Medical College |
-| **Affiliation / Body** | Sharda University / UPDGME |
+| **Affiliation / Body** | [Sharda University](/colleges/sharda-greater-noida) / UPDGME |
 | **Total MBBS Seats** | 150 Seats |
 | **Hospital Bed Capacity** | 1,200+ Beds (Sharda Hospital) |
 | **Counselling Authority** | Directorate of Medical Education and Training (UPDGME - upneet.gov.in) |

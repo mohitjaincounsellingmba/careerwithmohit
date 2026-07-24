@@ -14,6 +14,14 @@ keywords:
   - how to prepare for ailet 2026
   - nlu delhi cutoff 2026
   - ailet result date 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is AILET open to all categories?
     answer: >-
@@ -34,6 +42,7 @@ faqs:
       Ideally, you should start along with CLAT prep (around **12 months before
       exam**). Since the syllabus overlaps by 80%, you just need to adjust your
       logic speed for AILET in the final 3 months.
+location: Delhi
 ---
 
 While CLAT is the gateway to 24 NLUs, **AILET (All India Law Entrance Test)** is the exclusive gateway to just one: **NLU Delhi**. Ranked consistently among the top 3 law schools in India, NLU Delhi has a legacy of producing elite judicial and litigation professionals.

@@ -3,9 +3,9 @@ title: 'How to Crack XAT Exam 2026: Preparation Strategy & Decision Making Tips'
 date: '2026-06-04'
 category: MBA
 description: >-
-  Looking to crack XAT 2026? Learn how to master the Decision Making section,
-  VALR, and QADI to score a 95+ percentile and secure a seat in [XLRI
-  Jamshedpur](/colleges/xlri-jamshedpur).
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Ghaziabad, Delhi NCR. Looking to crack XAT 2026? Learn how to
+  master the...
 keywords:
   - how to crack xat exam
   - crack xat 2026
@@ -13,6 +13,14 @@ keywords:
   - xat preparation strategy
   - xlri cutoff xat
   - score 95 percentile in xat
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is XAT tougher than CAT?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       The essay is evaluated during the second stage of selection. Spend 15
       minutes drafting a balanced, logical, and structured argument. Use
       real-life examples and avoid using overly complicated language.
+location: Ghaziabad
 ---
 
 The Xavier Aptitude Test (XAT) is widely considered one of the most intellectually demanding management exams in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XAT is the sole gateway to the prestigious XLRI campuses and over 150+ other premium business schools like XIMB, IMT Ghaziabad, and GIM Goa. 

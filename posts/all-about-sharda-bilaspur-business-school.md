@@ -1,23 +1,41 @@
 ---
-title: "Sharda Bilaspur Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Sharda Bilaspur Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Sharda Bilaspur Business School PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Looking for admission to Sharda
+  Bilaspu...
 keywords:
-  - "sharda bilaspur business school review 2026"
-  - "sharda bilaspur business school pgdm placements"
-  - "sharda bilaspur business school admission cutoff"
-  - "sharda bilaspur business school fees"
+  - sharda bilaspur business school review 2026
+  - sharda bilaspur business school pgdm placements
+  - sharda bilaspur business school admission cutoff
+  - sharda bilaspur business school fees
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Sharda Bilaspur Business School a good option for PGDM/MBA?"
+  - question: Is Sharda Bilaspur Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Sharda Bilaspur Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Sharda Bilaspur Business School?"
+      Yes, Sharda Bilaspur Business School is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Sharda Bilaspur Business School?
     answer: >-
-      The average placement package at Sharda Bilaspur Business School is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
-  - question: "What entrance exams are accepted by Sharda Bilaspur Business School?"
+      The average placement package at Sharda Bilaspur Business School is
+      approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
+  - question: What entrance exams are accepted by Sharda Bilaspur Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Noida
 ---
 
 ### **College Review: [Sharda Bilaspur Business School](/colleges/sharda-bilaspur-business-school)**

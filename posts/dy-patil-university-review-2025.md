@@ -2,8 +2,9 @@
 title: 'DY Patil University (GBSRC) Pune Review 2025: Placements & Academic Legacy'
 date: '2026-03-14'
 description: >-
-  Explore the Global Business School (GBSRC) at DY Patil University. Read about
-  2025 MBA placements, university perks, and verified fee structures.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Explore the Global Business School (GBSRC) at DY Patil
+  Univer...
 keywords:
   - DY Patil University Pune review 2025
   - GBSRC Pune placements
@@ -11,6 +12,14 @@ keywords:
   - MBA in DY Patil University Pune
   - best university brand for MBA Pune
   - GBSRC Pune average package 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The Global Business School & Research Centre (GBSRC) is the flagship management arm of the Dr. D. Y. Patil Vidyapeeth (Deemed to be University). It combines the massive brand equity of DY Patil with a research-driven management curriculum.
 

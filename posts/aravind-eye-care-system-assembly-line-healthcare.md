@@ -4,15 +4,23 @@ title: >-
   Model
 date: '2026-05-28'
 description: >-
-  Learn how Aravind Eye Care System adapted McDonald's assembly-line efficiency
-  to social healthcare to cure blindness using a self-sustaining
-  cross-subsidization model.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Learn how Aravind Eye Care System adapted McDonald's
+  assembly...
 keywords:
   - Aravind Eye Care System case study
   - assembly line healthcare model
   - healthcare cross subsidization
   - social entrepreneurship MBA
   - business models in healthcare
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 How can an organization provide world-class, state-of-the-art surgical care to millions of impoverished patients for completely free, receive absolutely no government grants or foreign donations, and still remain highly profitable and debt-free? 
 

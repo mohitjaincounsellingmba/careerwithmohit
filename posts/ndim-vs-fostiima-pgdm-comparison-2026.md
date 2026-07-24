@@ -12,6 +12,14 @@ keywords:
   - NDIM vs FOSTIIMA fees
   - FOSTIIMA CAT cutoff 2025
   - best PGDM in Delhi under 12 Lakhs
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the actual fee for NDIM 2026-28?
     answer: >-
@@ -24,6 +32,7 @@ faqs:
       Management roles.
   - question: Is FOSTIIMA an MBA equivalent?
     answer: "Yes, both NDIM and FOSTIIMA offer PGDM programs that are AIU-approved and recognized as equivalent to an MBA in India and abroad.\n\n[\U0001F449 Compare NDIM, FOSTIIMA, and JIMS Here!](/tools/college-comparison)\n\n**Still Deciding?**\nAt **CareerWithMohit**, we know that percentiles don't define your future—your choice of college does. Let us help you pick between NDIM's legacy and FOSTIIMA's growth.\n\n[\U0001F449 Get Expert MBA Admission Guidance!](/inquiry)"
+location: Delhi
 ---
 
 For MBA aspirants scoring in the **60 to 75 percentile range**, Delhi offers two strong contenders: the **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** and **FOSTIIMA Business School**. While FOSTIIMA is a rising star founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, NDIM remains the undisputed heavyweight champion in terms of awards, legacy, and industry recognition.

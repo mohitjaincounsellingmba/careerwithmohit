@@ -12,6 +12,14 @@ keywords:
   - GD Goenka placement review 2025
   - GD Goenka average package
   - GATA entrance exam 2026
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is GD Goenka a good college for B.Tech?
     answer: >-
@@ -25,6 +33,7 @@ faqs:
     answer: >-
       GATA is the university's entrance test used for merit selection and
       scholarship allocation.
+location: Noida
 ---
 
 **[GD Goenka University](/colleges/gd-goenka-university) (GDGU)**, located in the corporate hub of Gurugram (Sohna Road), is a premier multidisciplinary private university. Accredited with **NAAC Grade 'A+'**, it is recognized for its industry-integrated engineering programs and specialized tracks in AI, Machine Learning, and Robotics.

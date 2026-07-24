@@ -17,6 +17,14 @@ keywords:
   - JKBS review 2026
   - best budget PGDM college Gurgaon 2026
   - JKBS unique selling points
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the highest package at JKBS?
     answer: ₹24 LPA for recent batches — achieved by top performers from the batch.
@@ -28,6 +36,7 @@ faqs:
     answer: >-
       Yes — JKBS offers hostel accommodation for outstation students on its
       10-acre residential campus.
+location: Gurgaon
 ---
 
 **[JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)** is one of the most practical choices for MBA aspirants who want a **PGDM from Gurgaon's corporate belt at under ₹9 Lakhs** — without compromising on placement quality or campus experience.

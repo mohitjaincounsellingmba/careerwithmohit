@@ -1,16 +1,40 @@
 ---
-title: "International Management Institute (IMI), Delhi Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at International Management Institute (IMI), Delhi. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["International Management Institute (IMI), Delhi executive mba","International Management Institute (IMI), Delhi executive mba review","International Management Institute (IMI), Delhi executive mba fees","International Management Institute (IMI), Delhi executive mba placement","Delhi executive mba","best executive mba in Delhi"]
-category: "MBA"
+title: 'International Management Institute (IMI), Delhi Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at International
+  Management Institute (IMI), Delhi. Learn about total fees, eligibility,
+  accepted entrance exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - 'International Management Institute (IMI), Delhi executive mba'
+  - 'International Management Institute (IMI), Delhi executive mba review'
+  - 'International Management Institute (IMI), Delhi executive mba fees'
+  - 'International Management Institute (IMI), Delhi executive mba placement'
+  - Delhi executive mba
+  - best executive mba in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "Is the Executive PGDM at IMI Delhi a residential program?"
-    answer: "Yes, it is a full-time residential program spanning 12 months on campus followed by a 3-month project/dissertation period."
-  - question: "What is the average placement package for IMI Delhi Executive PGDM?"
-    answer: "The average CTC consistently hovers around ₹17-19 LPA, with top consulting, tech, and banking firms recruiting heavily."
-  - question: "Are other entrance exams accepted apart from CAT?"
-    answer: "Yes, IMI Delhi accepts XAT, GMAT, and the school's own Executive Admission Test (JMAT)."
+  - question: Is the Executive PGDM at IMI Delhi a residential program?
+    answer: >-
+      Yes, it is a full-time residential program spanning 12 months on campus
+      followed by a 3-month project/dissertation period.
+  - question: What is the average placement package for IMI Delhi Executive PGDM?
+    answer: >-
+      The average CTC consistently hovers around ₹17-19 LPA, with top
+      consulting, tech, and banking firms recruiting heavily.
+  - question: Are other entrance exams accepted apart from CAT?
+    answer: >-
+      Yes, IMI Delhi accepts XAT, GMAT, and the school's own Executive Admission
+      Test (JMAT).
+location: Delhi
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [International Management Institute (IMI), Delhi](/colleges/imi-delhi) represents a powerful gateway to higher senior leadership positions.
@@ -72,7 +96,7 @@ Yes, it is a full-time residential program spanning 12 months on campus followed
 The average CTC consistently hovers around ₹17-19 LPA, with top consulting, tech, and banking firms recruiting heavily.
 
 ### Are other entrance exams accepted apart from CAT?
-Yes, IMI Delhi accepts XAT, GMAT, and the school's own Executive Admission Test (JMAT).
+Yes, [IMI Delhi](/colleges/imi-delhi) accepts XAT, GMAT, and the school's own Executive Admission Test (JMAT).
 
 
 Source: Shiksha.com and Official College Websites

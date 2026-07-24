@@ -2,14 +2,23 @@
 title: 'Last‑Week XAT 2026 Strategy: What to Do in the Final 7 Days'
 date: '2026-05-21'
 description: >-
-  Get a day-by-day preparation strategy for the final 7 days before XAT 2026.
-  Learn tips for mock revision, Decision Making, GK, and essay writing.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get a day-by-day preparation strategy for the final 7
+  days be...
 keywords:
   - XAT 2026 preparation
   - last week XAT strategy
   - XAT exam day tips
   - Decision Making revision
   - XLRI essay writing
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -26,6 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The final week leading up to the Xavier Aptitude Test (XAT) is often filled with anxiety. Unlike CAT, which is held in November, XAT takes place in early January. This gives candidates an extra month of preparation, but it also increases the pressure to perform, as XAT is often the final opportunity to secure a seat at a premier Tier-1 business school like [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
 

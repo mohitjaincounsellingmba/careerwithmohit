@@ -1,23 +1,48 @@
 ---
-title: "FIIB (Fortune Institute of International Business), Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to FIIB (Fortune Institute of International Business), Delhi? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  FIIB (Fortune Institute of International Business), Delhi PGDM Admission
+  Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to FIIB (Fortune Institute of International Business),
+  Delhi? Read our comprehensive PGDM review for 2026 covering total fees,
+  average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "fiib (fortune institute of international business), delhi review 2026"
-  - "fiib (fortune institute of international business), delhi pgdm placements"
-  - "fiib (fortune institute of international business), delhi admission cutoff"
-  - "fiib (fortune institute of international business), delhi fees"
+  - 'fiib (fortune institute of international business), delhi review 2026'
+  - 'fiib (fortune institute of international business), delhi pgdm placements'
+  - 'fiib (fortune institute of international business), delhi admission cutoff'
+  - 'fiib (fortune institute of international business), delhi fees'
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is FIIB (Fortune Institute of International Business), Delhi a good option for PGDM/MBA?"
+  - question: >-
+      Is FIIB (Fortune Institute of International Business), Delhi a good option
+      for PGDM/MBA?
     answer: >-
-      Yes, FIIB (Fortune Institute of International Business), Delhi is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at FIIB (Fortune Institute of International Business), Delhi?"
+      Yes, FIIB (Fortune Institute of International Business), Delhi is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at FIIB (Fortune Institute of
+      International Business), Delhi?
     answer: >-
-      The average placement package at FIIB (Fortune Institute of International Business), Delhi is approximately ₹8.5 LPA, with the highest package reaching up to ₹25.92 LPA.
-  - question: "What entrance exams are accepted by FIIB (Fortune Institute of International Business), Delhi?"
+      The average placement package at FIIB (Fortune Institute of International
+      Business), Delhi is approximately ₹8.5 LPA, with the highest package
+      reaching up to ₹25.92 LPA.
+  - question: >-
+      What entrance exams are accepted by FIIB (Fortune Institute of
+      International Business), Delhi?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/colleges/fiib-delhi)**

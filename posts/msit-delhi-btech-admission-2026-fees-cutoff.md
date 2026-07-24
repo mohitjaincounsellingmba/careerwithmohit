@@ -15,6 +15,14 @@ keywords:
   - MSIT placement review 2025
   - MSIT vs MAIT comparison
   - GGSIPU counselling MSIT
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How is the metro connectivity for MSIT?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
     answer: >-
       MSIT maintains a decent academic environment, and while there isn't a
       strict uniform, students are expected to follow basic campus decorum.
+location: Noida
 ---
 
 **Maharaja Surajmal Institute of Technology (MSIT)** is a top-ranked engineering college in Delhi, affiliated with Guru Gobind Singh Indraprastha University (GGSIPU). Located in Janakpuri (West Delhi), MSIT is known for its academic discipline, high faculty standards, and excellent connectivity to the Delhi Metro.

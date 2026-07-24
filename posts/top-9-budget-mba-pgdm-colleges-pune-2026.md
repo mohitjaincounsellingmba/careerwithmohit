@@ -5,9 +5,9 @@ title: >-
 date: '2026-05-04'
 category: MBA Admissions
 description: >-
-  Looking for an affordable MBA or PGDM in Pune? Compare the top 9
-  budget-friendly B-schools including Akemi, RIIM, ISMS, and more. Check 2026
-  fees and placement reality.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for an affordable MBA or PGDM in Pune? Compare
+  the to...
 keywords:
   - budget MBA colleges Pune 2026
   - affordable PGDM Pune
@@ -20,6 +20,14 @@ keywords:
   - '[FUEL Business School](/colleges/fuel-business-school) Pune'
   - IIEBM Pune PGDM
   - best ROI MBA Pune
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -36,6 +44,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Pune is often called the "Oxford of the East," and for good reason. While giants like SIBM and SCMHRD take the limelight, a large majority of students look for **affordable MBA/PGDM colleges in Pune** that offer a decent start to their corporate careers without a 25-lakh price tag.
 

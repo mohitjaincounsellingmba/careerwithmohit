@@ -3,7 +3,9 @@ title: 'CAT 2026 Score Calculator: Marks vs Percentile & Scaled Score Predictor'
 date: '2026-06-28'
 category: MBA Admissions
 description: >-
-  Calculate your CAT 2026 raw score, scaled score, and expected percentile. Learn how IIM normalization works, the section-wise marking scheme, and expected cutoffs.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Calculate your CAT 2026 raw score, scaled
+  score, and...
 keywords:
   - CAT 2026 score calculator
   - CAT score calculator 2026
@@ -11,16 +13,31 @@ keywords:
   - CAT raw score vs scaled score
   - CAT percentile predictor 2026
   - CAT section-wise score calculator
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How is the CAT 2026 raw score calculated?
     answer: >-
-      For MCQs, you get +3 for a correct answer and -1 for an incorrect answer. For TITA (Type In The Answer) questions, you get +3 for a correct answer and 0 for an incorrect answer. Unattempted questions get 0 marks.
+      For MCQs, you get +3 for a correct answer and -1 for an incorrect answer.
+      For TITA (Type In The Answer) questions, you get +3 for a correct answer
+      and 0 for an incorrect answer. Unattempted questions get 0 marks.
   - question: What is the difference between raw score and scaled score?
     answer: >-
-      The raw score is calculated directly based on the marking scheme. The scaled score is calculated by normalization across slots to account for differences in paper difficulty.
+      The raw score is calculated directly based on the marking scheme. The
+      scaled score is calculated by normalization across slots to account for
+      differences in paper difficulty.
   - question: How can I check my expected percentile for CAT 2026?
     answer: >-
-      You can enter your sectional MCQs and TITA attempts in our online CAT 2026 Score Calculator to instantly get your raw scores, scaled scores, and expected overall percentile.
+      You can enter your sectional MCQs and TITA attempts in our online CAT 2026
+      Score Calculator to instantly get your raw scores, scaled scores, and
+      expected overall percentile.
+location: Gurgaon
 ---
 
 The Common Admission Test (CAT) is the primary gateway to secure admission into the 21 Indian Institutes of Management (IIMs) and over 1,200 other premier business schools in India, including [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and [MDI Gurgaon](/colleges/mdi-gurgaon). Right after stepping out of the exam hall, the most pressing question on every aspirant's mind is: *What will my raw score and percentile be based on my attempts?*

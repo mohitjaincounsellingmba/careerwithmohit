@@ -3,9 +3,9 @@ title: Top MBA Colleges for CAT 70-80 Percentile 2026 — Placements & Fees
 date: '2026-04-21'
 category: MBA Admissions
 description: >-
-  Scored between 70-80 percentile in CAT 2026? Don't worry! Discover the best
-  B-schools you can still get into, including BIMTECH, LBSIM, GIM, and FORE
-  School.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Scored between 70-80 percentile
+  in CAT ...
 keywords:
   - colleges for 70 percentile cat 2026
   - mba colleges for 80 percentile cat
@@ -14,6 +14,14 @@ keywords:
   - bimtech cutoff cat
   - lbsim delhi cat cutoff
   - gim goa cat cutoff 2026
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are placements good in 70-80 percentile colleges?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
     answer: >-
       Most close by **mid-January**. It is better to apply *before* the CAT
       result is out if you are reasonably confident of your score.
+location: Noida
 ---
 
 Scoring between a **70 and 80 percentile in CAT** can feel like being in a "no man's land." You are far above the average, but still just short of the 95+ percentile needed for IIMs. 

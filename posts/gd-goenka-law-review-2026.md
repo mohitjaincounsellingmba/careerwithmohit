@@ -2,9 +2,9 @@
 title: 'GD Goenka Law Review 2026: Fees, Placements & Admission Process'
 date: '2026-03-30'
 description: >-
-  Is GD Goenka University good for Law? Our honest GD Goenka Law Review 2026
-  covers BA LLB/BBA LLB fees, court affiliations, placement packages, and
-  CLAT/GATA admissions.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Is GD Goenka University good for Law? Our
+  honest GD ...
 keywords:
   - GD Goenka Law Review 2026
   - GD Goenka BA LLB Fees
@@ -12,6 +12,14 @@ keywords:
   - Law placements in Gurgaon 2026
   - CLAT 2026 admission GD Goenka
   - best law schools in Gurgaon
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
+location: Gurgaon
 ---
 [GD Goenka University](/colleges/gd-goenka-university)’s School of Law has emerged as a premier legal destination in the Delhi NCR region, known for its emphasis on moot court competitions and clinical legal education. Located in Gurgaon (Sohna Road), it offers a blend of legal theory and extensive industry exposure.
 

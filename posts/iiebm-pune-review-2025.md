@@ -2,9 +2,9 @@
 title: 'IIEBM Pune Review 2025: PGDM with SAP (PGPERP) Advantage'
 date: '2026-03-14'
 description: >-
-  Thinking of IIEBM Pune? Read our review on [IIEBM (Indus Business
-  School)](/colleges/iiebm-pune) placements 2025, verified fees, and the unique
-  SAP integration advantage.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Thinking of IIEBM Pune? Read our review on [IIEBM
+  (Indus Busi...
 keywords:
   - IIEBM Pune review 2025
   - Indus Business School placements
@@ -12,6 +12,14 @@ keywords:
   - PGDM with SAP in Pune
   - IIEBM Pune SAP certifications
   - IIEBM Pune average package 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 [IIEBM (Indus Business School)](/colleges/iiebm-pune) is one of Pune's most established PGDM institutes, known for its rigorous academic standards and a unique focus on ERP training through SAP integration.
 

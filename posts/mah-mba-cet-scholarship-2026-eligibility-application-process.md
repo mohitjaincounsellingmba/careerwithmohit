@@ -2,9 +2,9 @@
 title: 'MAH MBA CET Scholarship 2026: Eligibility, MahaDBT Portal & How to Apply'
 date: '2026-04-05'
 description: >-
-  Confused about MAH MBA CET scholarships? Learn about EBC, SC, ST, OBC
-  scholarships in Maharashtra, eligibility criteria for 2026, and a step-by-step
-  guide to the MahaDBT portal.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Confused about MAH MBA CET scholarships? Learn about
+  EBC, SC,...
 keywords:
   - MAH CET MBA scholarship 2026
   - MahaDBT portal MBA scholarship
@@ -12,6 +12,14 @@ keywords:
   - SC ST OBC scholarship MBA CET
   - Maharashtra MBA fee reimbursement
   - Rajarshi Shahu Maharaj scholarship MBA 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 For many MBA aspirants in Maharashtra, the high fees of top B-schools like JBIMS, SIMSREE, and PUMBA can be a concern. However, if you are a domicile of Maharashtra and have secured admission through the **Centralized Admission Process (CAP)**, you are eligible for significant government scholarships that can cover up to 50% to 100% of your tuition fees.
 

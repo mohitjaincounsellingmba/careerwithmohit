@@ -14,6 +14,14 @@ keywords:
   - Amity placement review 2025
   - '[Amity University](/colleges/amity-noida) average package'
   - BTech admission Noida
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Amity Noida the main campus?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
     answer: >-
       Admission is typically based on 10+2 merit and JEE scores, often followed
       by a personal interview.
+location: Noida
 ---
 
 **[Amity University](/colleges/amity-noida) Noida** is one of India's most prominent private universities, established in 2005. Accredited with **NAAC Grade 'A+'**, Amity is known for its world-class infrastructure, global exposure, and strong placement network across diverse sectors. In the 2025 NIRF rankings, it secured the 37th position for B.Tech and 49th overall in India.

@@ -10,6 +10,14 @@ keywords:
   - XAT verbal ability
   - reading comprehension strategies
   - XAT vs CAT RC
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -26,6 +34,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 Ask any veteran MBA aspirant, and they will tell you that the Verbal and Logical Ability (VALR) section of the Xavier Aptitude Test (XAT) is a different beast compared to CAT. In particular, **Reading Comprehension (RC) in XAT** has earned a reputation for being abstract, philosophical, and intensely challenging.
 

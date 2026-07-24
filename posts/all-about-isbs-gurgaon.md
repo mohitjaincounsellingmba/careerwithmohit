@@ -1,23 +1,39 @@
 ---
-title: "ISBS Gurgaon (ISB&M) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to ISBS Gurgaon (ISB&M)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'ISBS Gurgaon (ISB&M) PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to ISBS Gurgaon (ISB&M)? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "isbs gurgaon (isb&m) review 2026"
-  - "isbs gurgaon (isb&m) pgdm placements"
-  - "isbs gurgaon (isb&m) admission cutoff"
-  - "isbs gurgaon (isb&m) fees"
+  - isbs gurgaon (isb&m) review 2026
+  - isbs gurgaon (isb&m) pgdm placements
+  - isbs gurgaon (isb&m) admission cutoff
+  - isbs gurgaon (isb&m) fees
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is ISBS Gurgaon (ISB&M) a good option for PGDM/MBA?"
+  - question: Is ISBS Gurgaon (ISB&M) a good option for PGDM/MBA?
     answer: >-
-      Yes, ISBS Gurgaon (ISB&M) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at ISBS Gurgaon (ISB&M)?"
+      Yes, ISBS Gurgaon (ISB&M) is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at ISBS Gurgaon (ISB&M)?
     answer: >-
-      The average placement package at ISBS Gurgaon (ISB&M) is approximately ₹7.5 LPA, with the highest package reaching up to ₹14.0 LPA.
-  - question: "What entrance exams are accepted by ISBS Gurgaon (ISB&M)?"
+      The average placement package at ISBS Gurgaon (ISB&M) is approximately
+      ₹7.5 LPA, with the highest package reaching up to ₹14.0 LPA.
+  - question: What entrance exams are accepted by ISBS Gurgaon (ISB&M)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Gurgaon
 ---
 
 ### **College Review: [ISBS Gurgaon (ISB&M)](/colleges/isbs-gurgaon)**

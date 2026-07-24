@@ -1,23 +1,45 @@
 ---
-title: "Gurgaon Global Institute of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Gurgaon Global Institute of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Gurgaon Global Institute of Management PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Gurgaon Global Institute of Management? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "gurgaon global institute of management review 2026"
-  - "gurgaon global institute of management pgdm placements"
-  - "gurgaon global institute of management admission cutoff"
-  - "gurgaon global institute of management fees"
+  - gurgaon global institute of management review 2026
+  - gurgaon global institute of management pgdm placements
+  - gurgaon global institute of management admission cutoff
+  - gurgaon global institute of management fees
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Gurgaon Global Institute of Management a good option for PGDM/MBA?"
+  - question: Is Gurgaon Global Institute of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, Gurgaon Global Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Gurgaon Global Institute of Management?"
+      Yes, Gurgaon Global Institute of Management is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Gurgaon Global Institute of
+      Management?
     answer: >-
-      The average placement package at Gurgaon Global Institute of Management is approximately ₹7.1 LPA, with the highest package reaching up to ₹15.5 LPA.
-  - question: "What entrance exams are accepted by Gurgaon Global Institute of Management?"
+      The average placement package at Gurgaon Global Institute of Management is
+      approximately ₹7.1 LPA, with the highest package reaching up to ₹15.5 LPA.
+  - question: >-
+      What entrance exams are accepted by Gurgaon Global Institute of
+      Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Gurgaon
 ---
 
 ### **College Review: [Gurgaon Global Institute of Management](/colleges/gurgaon-global-institute-of-management)**

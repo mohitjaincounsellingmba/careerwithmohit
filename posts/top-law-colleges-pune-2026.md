@@ -3,9 +3,9 @@ title: 'Top Law Colleges in Pune 2026 — Fees, Placements & Admission'
 date: '2026-04-21'
 category: Law Admissions
 description: >-
-  Confused about Law in Pune? Explore the best colleges like ILS, Symbiosis Law
-  (SLS), and New Law College. Compare 2026 fees, MH CET cutoffs, and verified
-  placement stats.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Confused about Law in Pune? Explore the best colleges
+  like IL...
 keywords:
   - top law colleges in pune 2026
   - best law colleges pune
@@ -15,6 +15,14 @@ keywords:
   - mah cet law 2026 pune
   - symbiosis law school pune placements
   - direct law admission pune
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does SLS Pune accept CLAT?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
       autonomous bodies offer an Institutional Quota for direct admission.
   - question: When is the MAH CET Law 2026 exam?
     answer: 'The 5-year CET is usually in **May**, and the 3-year CET is in **June**.'
+location: Delhi
 ---
 
 Pune, the "Oxford of the East," is a historic pillar of legal education in India. Home to legendary institutions like ILS Law College and Symbiosis Law School, Pune provides a unique blend of high-intensity academic traditions and modern corporate legal training.

@@ -2,15 +2,23 @@
 title: 'Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain'
 date: '2026-05-28'
 description: >-
-  Dive into Zara's agile supply chain. Discover how Inditex utilizes
-  Just-in-Time (JIT) production and real-time customer feedback loops to deliver
-  fashion in 15 days.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Dive into Zara's agile supply chain. Discover how
+  Inditex uti...
 keywords:
   - Zara supply chain case study
   - Zara JIT production fast fashion
   - Inditex agile supply chain
   - fashion retail inventory management
   - Just In Time case study MBA
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 In the traditional fashion retail industry, the journey of a garment from a designer’s sketchpad to a retail store shelf takes anywhere between **six to nine months**. Designers anticipate trends almost a year in advance, outsource manufacturing to low-cost developing countries in massive bulk orders, and pray that consumers will buy them when the season arrives. 
 

@@ -2,9 +2,9 @@
 title: 'All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Top Colleges'
 date: '2026-03-13'
 description: >-
-  Complete guide to the Xavier Aptitude Test (XAT). Uncover details on the XLRI
-  conducting body, unique exam pattern, total marks, cutoffs, and top MBA
-  colleges accepting XAT.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Ghaziabad, Delhi NCR. Complete guide to the Xavier Aptitude Test
+  (XAT). ...
 keywords:
   - XAT exam 2026
   - XAT pattern and syllabus
@@ -12,6 +12,14 @@ keywords:
   - XAT cutoff XLRI
   - Decision Making XAT
   - top colleges accepting XAT
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Ghaziabad
 ---
 The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), a Mecca for HR and Business Management.
 

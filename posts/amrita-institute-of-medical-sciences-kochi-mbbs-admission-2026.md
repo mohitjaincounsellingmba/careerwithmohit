@@ -1,20 +1,36 @@
 ---
-title: "Amrita Institute of Medical Sciences (AIMS), Kochi MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Amrita Institute of Medical Sciences (AIMS), Kochi. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Amrita Institute of Medical Sciences (AIMS), Kochi MBBS Admission 2026:
+  Process, NEET Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Amrita
+  Institute of...
 keywords:
-  - "Amrita Medical College Kochi MBBS admission 2026"
-  - "Amrita Medical College Kochi fee structure"
-  - "Amrita Medical College Kochi NEET cutoff 2026"
-  - "Amrita Institute of Medical Sciences (AIMS), Kochi MBBS process"
-  - "MBBS fees private medical college"
+  - Amrita Medical College Kochi MBBS admission 2026
+  - Amrita Medical College Kochi fee structure
+  - Amrita Medical College Kochi NEET cutoff 2026
+  - 'Amrita Institute of Medical Sciences (AIMS), Kochi MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the fee for MBBS at Amrita Medical College Kochi?"
-    answer: "The annual tuition fee is approximately ₹19 Lakhs to ₹20 Lakhs per year."
-  - question: "Is Amrita Kochi under MCC counselling?"
-    answer: "Yes, all seats are allotted via MCC All India Deemed University counselling."
-  - question: "What is the expected NEET cutoff for Amrita Kochi 2026?"
-    answer: "The expected NEET score cutoff is between 480 and 530 (AIR 90k - 140k)."
+  - question: What is the fee for MBBS at Amrita Medical College Kochi?
+    answer: The annual tuition fee is approximately ₹19 Lakhs to ₹20 Lakhs per year.
+  - question: Is Amrita Kochi under MCC counselling?
+    answer: >-
+      Yes, all seats are allotted via MCC All India Deemed University
+      counselling.
+  - question: What is the expected NEET cutoff for Amrita Kochi 2026?
+    answer: The expected NEET score cutoff is between 480 and 530 (AIR 90k - 140k).
+location: Delhi
 ---
 
 Planning your medical career and targeting **Amrita Institute of Medical Sciences (AIMS), Kochi** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, Amrita Medical College Kochi offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

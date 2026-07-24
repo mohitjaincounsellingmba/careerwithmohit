@@ -4,8 +4,9 @@ title: >-
   Structure
 date: '2026-04-05'
 description: >-
-  Is SCDL a good choice in 2026? Check the latest fees, AICTE status, NAAC A++
-  ranking, and legacy Pune-based placement reviews for all programs.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Is SCDL a good choice in 2026? Check the latest fees,
+  AICTE s...
 keywords:
   - SCDL review 2026
   - Symbiosis online MBA fees
@@ -13,6 +14,14 @@ keywords:
   - Symbiosis distance learning review
   - AICTE approved distance PGDM Symbiosis
   - SCDL degree validity
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 **Symbiosis Centre for Distance Learning (SCDL)** is a powerhouse in the Indian distance and online education landscape, based in the education hub of Pune. One of India's most respected private institutions for management training, SCDL's programs bring that same academic rigor and corporate heritage directly to you. With a prestigious **NAAC A++ accreditation** (through the Symbiosis Group) and full AICTE/UGC-DEB recognition, SCDL offers some of the most specialized online/distance degrees in India for 2026.
 

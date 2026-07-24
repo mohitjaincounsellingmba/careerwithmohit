@@ -12,6 +12,14 @@ keywords:
   - '[MDI Gurgaon](/colleges/mdi-gurgaon) placements'
   - MBA colleges in Delhi low fees
   - IIT Delhi MBA cutoff
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which MBA college in Delhi has the best placements?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
   - question: 'Is [MDI Gurgaon](/colleges/mdi-gurgaon) better than new IIMs?'
     answer: "Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than most \"New\" and \"Baby\" IIMs due to its legacy and location advantage.\n\n[\U0001F449 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry)"
+location: Noida
 ---
 
 ### [InquiryCard title="Targeting Delhi NCR B-Schools?" description="Confused between MDI, IMI, FORE, or LBSIM? Get a personalized preference list based on your CAT/XAT score and budget." cta="Get Delhi Admission Strategy" type="career"]

@@ -1,20 +1,36 @@
 ---
-title: "PSG Institute of Medical Sciences & Research, Coimbatore MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at PSG Institute of Medical Sciences & Research, Coimbatore. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  PSG Institute of Medical Sciences & Research, Coimbatore MBBS Admission 2026:
+  Process, NEET Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at PSG Institute
+  of Me...
 keywords:
-  - "PSG Medical College Coimbatore MBBS admission 2026"
-  - "PSG Medical College Coimbatore fee structure"
-  - "PSG Medical College Coimbatore NEET cutoff 2026"
-  - "PSG Institute of Medical Sciences & Research, Coimbatore MBBS process"
-  - "MBBS fees private medical college"
+  - PSG Medical College Coimbatore MBBS admission 2026
+  - PSG Medical College Coimbatore fee structure
+  - PSG Medical College Coimbatore NEET cutoff 2026
+  - 'PSG Institute of Medical Sciences & Research, Coimbatore MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the fee for PSG Medical College Management Quota?"
-    answer: "The management quota annual tuition fee is around ₹13.5 Lakhs."
-  - question: "Is PSG Coimbatore open to non-Tamil Nadu students?"
-    answer: "Yes, non-domicile students can apply for Management Quota seats via TN Medical Selection counselling."
-  - question: "What is the NEET score needed for PSG Govt Quota seat?"
-    answer: "Expected NEET score for TN Govt Quota in PSG is 590 to 625."
+  - question: What is the fee for PSG Medical College Management Quota?
+    answer: The management quota annual tuition fee is around ₹13.5 Lakhs.
+  - question: Is PSG Coimbatore open to non-Tamil Nadu students?
+    answer: >-
+      Yes, non-domicile students can apply for Management Quota seats via TN
+      Medical Selection counselling.
+  - question: What is the NEET score needed for PSG Govt Quota seat?
+    answer: Expected NEET score for TN Govt Quota in PSG is 590 to 625.
+location: Delhi
 ---
 
 Planning your medical career and targeting **PSG Institute of Medical Sciences & Research, Coimbatore** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, PSG Medical College Coimbatore offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

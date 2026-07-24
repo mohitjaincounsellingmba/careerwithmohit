@@ -12,6 +12,14 @@ keywords:
   - sscbbs placement 2026
   - best bba college delhi
   - bms admission delhi university
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in SSCBS?
     answer: >-
@@ -21,6 +29,7 @@ faqs:
     answer: >-
       BMS is a general management course covering all aspects of business, while
       BBA(FIA) is highly specialized towards finance and investment banking.
+location: Delhi
 ---
 
 Shaheed Sukhdev College of Business Studies (SSCBS), a premier institution under the University of Delhi, is widely regarded as the best college for undergraduate management studies in India. Known for its rigorous academic environment and exceptional placements, it is the top choice for BBA (FIA) and BMS aspirants in 2026.

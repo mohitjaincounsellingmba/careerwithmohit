@@ -15,6 +15,14 @@ keywords:
   - Faculty of Management Studies Delhi University
   - highest ROI MBA India
   - top MBA colleges in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The Faculty of Management Studies (FMS), affiliated with the prestigious University of Delhi, needs no introduction. Widely known as the "Red Building of Dreams," FMS offers arguably the highest Return on Investment (ROI) of any business school on the planet.
 

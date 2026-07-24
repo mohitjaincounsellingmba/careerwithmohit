@@ -2,14 +2,23 @@
 title: 'Jawaharlal Nehru University (JNU) Review 2026: Fees, Placements & CUET Cutoff'
 date: '2026-05-24'
 description: >-
-  Thinking about joining Jawaharlal Nehru University? Get the latest 2026
-  updates on JNU fees, placements, CUET cutoffs, and hostel admission details.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Thinking about joining Jawaharlal Nehru University? Get
+  the l...
 keywords:
   - Jawaharlal Nehru University 2026
   - JNU CUET cutoff 2026
   - JNU placement 2026
   - JNU fees
   - JNU hostel admission
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -26,6 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 Jawaharlal Nehru University (JNU) stands as a beacon of research, liberal arts, and social sciences in India. Located in New Delhi, it is renowned for its intellectual environment, highly subsidized education, and vibrant student politics. If you're aiming for JNU in 2026, here is a detailed overview of what to expect.
 

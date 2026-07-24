@@ -3,13 +3,22 @@ title: 'Guru Kashi University Online MBA Review 2026: Underrated But Excellent'
 date: '2026-03-26'
 category: Online MBA
 description: >-
-  Is Guru Kashi University Online MBA legit? Read our 2026 review on its NAAC
-  A++ accreditation, ₹1 Lakh fee, and why it's a top pick in Punjab.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Is Guru Kashi University Online MBA legit? Read our
+  2026 revi...
 keywords:
   - Guru Kashi University online MBA review
   - Guru Kashi online fees
   - NAAC A++ online MBA India
   - affordable online MBA Punjab
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -26,6 +35,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 **Guru Kashi University (GKU)**, located in Bathinda, Punjab, is one of the most underrated yet highly accredited institutions in India. Holding the prestigious **NAAC A++ grade**, GKU has made high-quality online education extremely affordable, challenging the status quo of more expensive private universities.
 

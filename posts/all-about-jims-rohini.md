@@ -2,13 +2,22 @@
 title: 'JIMS Rohini Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
-  Review of JIMS Rohini. Explore the 100% placement record, top-tier recruiters,
-  and extensive academic infrastructure.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Review of JIMS Rohini. Explore the 100% placement
+  record, top...
 keywords:
   - JIMS Rohini review 2026
   - JIMS Rohini placement 2024
   - JIMS Rohini infrastructure
   - best B-schools in North Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is JIMS Rohini good for PGDM?
     answer: >-
@@ -24,6 +33,7 @@ faqs:
     answer: >-
       The total academic fee for the 2-year PGDM program (2026-28 batch) at JIMS
       Rohini is approximately **₹9.25 Lakhs**.
+location: Delhi
 ---
 
 ### **College Review: JIMS Rohini**

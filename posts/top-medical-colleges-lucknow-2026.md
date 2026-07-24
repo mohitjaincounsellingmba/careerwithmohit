@@ -3,9 +3,9 @@ title: 'Top Medical Colleges in Lucknow 2026 — Fees, Cutoffs & Admission'
 date: '2026-04-21'
 category: Medical Admissions
 description: >-
-  Planning your MBBS in the Heart of Uttar Pradesh? Compare the best medical
-  colleges in Lucknow for 2026. Detailed guide on KGMU, RMLIMS, and Hind
-  Medical.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Planning your MBBS in the Heart of Uttar Pradesh?
+  Compare the...
 keywords:
   - top medical colleges in lucknow 2026
   - best mbbs colleges lucknow
@@ -15,6 +15,14 @@ keywords:
   - era medical college lucknow fees
   - up neet counselling 2026
   - direct mbbs admission lucknow
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Era Medical College have different fees for Minority quota?
     answer: >-
@@ -34,6 +42,7 @@ faqs:
       domicile.
   - question: When is the UP NEET 2026 counselling?
     answer: Usually starts late **June/July** after the NEET results.
+location: Delhi
 ---
 
 Lucknow, the capital of Uttar Pradesh, is home to one of India’s most iconic medical institutes—King George’s Medical University (KGMU). As a major healthcare referral center for North India, Lucknow offers medical students an unparalleled variety of clinical cases, especially in the government sector.

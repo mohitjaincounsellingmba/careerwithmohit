@@ -1,23 +1,46 @@
 ---
-title: "Galgotias Tiruchirappalli Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Galgotias Tiruchirappalli Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Galgotias Tiruchirappalli Business School PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Looking for admission to
+  Galgotias Tiru...
 keywords:
-  - "galgotias tiruchirappalli business school review 2026"
-  - "galgotias tiruchirappalli business school pgdm placements"
-  - "galgotias tiruchirappalli business school admission cutoff"
-  - "galgotias tiruchirappalli business school fees"
+  - galgotias tiruchirappalli business school review 2026
+  - galgotias tiruchirappalli business school pgdm placements
+  - galgotias tiruchirappalli business school admission cutoff
+  - galgotias tiruchirappalli business school fees
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Galgotias Tiruchirappalli Business School a good option for PGDM/MBA?"
+  - question: Is Galgotias Tiruchirappalli Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Galgotias Tiruchirappalli Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Galgotias Tiruchirappalli Business School?"
+      Yes, Galgotias Tiruchirappalli Business School is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Galgotias Tiruchirappalli Business
+      School?
     answer: >-
-      The average placement package at Galgotias Tiruchirappalli Business School is approximately ₹5.7 LPA, with the highest package reaching up to ₹21.5 LPA.
-  - question: "What entrance exams are accepted by Galgotias Tiruchirappalli Business School?"
+      The average placement package at Galgotias Tiruchirappalli Business School
+      is approximately ₹5.7 LPA, with the highest package reaching up to ₹21.5
+      LPA.
+  - question: >-
+      What entrance exams are accepted by Galgotias Tiruchirappalli Business
+      School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Noida
 ---
 
 ### **College Review: [Galgotias Tiruchirappalli Business School](/colleges/galgotias-tiruchirappalli-business-school)**

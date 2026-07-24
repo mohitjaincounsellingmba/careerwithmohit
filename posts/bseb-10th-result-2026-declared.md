@@ -4,9 +4,9 @@ title: >-
   biharboardonline.bihar.gov.in
 date: '2026-03-29'
 description: >-
-  Bihar Board (BSEB) has declared the Class 10th (Matric) result 2026 today,
-  March 29. Check your scorecard online with Roll Code and Roll Number at
-  results.biharboardonline.com. Pass percentage 81.79%.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Bihar Board (BSEB) has declared the Class 10th (Matric)
+  resul...
 keywords:
   - BSEB 10th result 2026 declared today
   - Bihar Board Matric result check link
@@ -15,6 +15,14 @@ keywords:
   - Bihar Board 10th toppers list 2026
   - matricbiharboard.com result link
   - BSEB Matric pass percentage 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The Bihar School Examination Board (BSEB) has officially announced the **Bihar Board Class 10 Result 2026 today, March 29, 2026, at 1:15 PM**. Over 16 lakh students who appeared for the Matric examinations held in February can now access their marks and download the provisional marksheet online.
 

@@ -1,23 +1,39 @@
 ---
-title: "IIFT Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to IIFT Delhi? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'IIFT Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to IIFT Delhi? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "iift delhi review 2026"
-  - "iift delhi pgdm placements"
-  - "iift delhi admission cutoff"
-  - "iift delhi fees"
+  - iift delhi review 2026
+  - iift delhi pgdm placements
+  - iift delhi admission cutoff
+  - iift delhi fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is IIFT Delhi a good option for PGDM/MBA?"
+  - question: Is IIFT Delhi a good option for PGDM/MBA?
     answer: >-
-      Yes, IIFT Delhi is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at IIFT Delhi?"
+      Yes, IIFT Delhi is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at IIFT Delhi?
     answer: >-
-      The average placement package at IIFT Delhi is approximately ₹26.00 LPA, with the highest package reaching up to ₹85.0 LPA.
-  - question: "What entrance exams are accepted by IIFT Delhi?"
+      The average placement package at IIFT Delhi is approximately ₹26.00 LPA,
+      with the highest package reaching up to ₹85.0 LPA.
+  - question: What entrance exams are accepted by IIFT Delhi?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, GMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [IIFT Delhi](/colleges/iift-delhi)**

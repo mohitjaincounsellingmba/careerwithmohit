@@ -2,9 +2,9 @@
 title: 'CUET PG 2026 Score Calculator: Marks vs Percentile & Rank Predictor'
 date: '2026-03-24'
 description: >-
-  Calculate your CUET PG 2026 raw score with our free online calculator.
-  Understand the marks vs percentile trends for DU, JNU, BHU, and TISS
-  admissions.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Calculate your CUET PG 2026 raw
+  score w...
 keywords:
   - CUET PG 2026 score calculator
   - CUET PG marks vs percentile 2026
@@ -14,6 +14,14 @@ keywords:
   - good score in cuet pg 2026
   - predict cuet pg percentile
   - cuet pg score calculation formula
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How is the CUET PG 2026 raw score calculated?
     answer: >-
@@ -34,6 +42,7 @@ faqs:
       Most universities like DU and BHU consider the total score. However, TISS
       may have specific shortlisting criteria for their TISS-RAT/Interview
       rounds based on sectional performance.
+location: Noida
 ---
 
 Did you just finish your CUET PG 2026 exam and are wondering how much you’ll score? With the official NTA answer keys on the horizon, knowing your **raw score** is the first step toward securing a seat in top central universities like DU, JNU, and BHU.

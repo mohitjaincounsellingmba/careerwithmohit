@@ -3,9 +3,9 @@ title: 'IIM Indore IPM Admission 2026: Fees, Placements, and IPMAT Strategy'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-
-  Everything you need to know about IIM Indore's 5-Year Integrated Programme in
-  Management (IPM) 2026. Get latest info on fees, placement parity, and IPMAT
-  exam.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Everything you need to know about IIM Indore's 5-Year
+  Integra...
 keywords:
   - iim indore ipm admission 2026
   - iim indore ipmat fees
@@ -13,6 +13,14 @@ keywords:
   - ipmat indore strategy 2026
   - iim indore integrated mba
   - best bba program in india
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does IIM Indore accept SAT scores for IPM?
     answer: >-
@@ -20,6 +28,7 @@ faqs:
       is generally for international/NRI candidates.
   - question: How many seats are available in IIM Indore IPM?
     answer: There are approximately 150 seats available for the 2026 batch.
+location: Delhi
 ---
 
 IIM Indore was the first IIM to launch the Integrated Programme in Management (IPM), a unique 5-year course that blends undergraduate and postgraduate management education. In 2026, it remains the "Gold Standard" for students aiming to join the Indian Institute of Management straight after Class 12.

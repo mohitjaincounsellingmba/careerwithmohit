@@ -4,9 +4,9 @@ title: >-
   Download at cuet.nta.nic.in
 date: '2026-06-09'
 description: >-
-  The National Testing Agency (NTA) has officially released the CUET UG 2026
-  provisional answer key. Get the latest updates on the expected result date,
-  challenge window, and how to download your scorecard.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. The National Testing Agency (NTA) has officially
+  released the...
 keywords:
   - CUET UG result 2026
   - CUET UG 2026 answer key out
@@ -16,6 +16,14 @@ keywords:
   - how to check CUET UG result
   - CUET UG official website link
   - university admission via CUET UG 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The **National Testing Agency (NTA)** has officially released the **CUET UG 2026 Provisional Answer Key today, June 9, 2026**. Candidates who appeared for the Common University Entrance Test (Undergraduate) can now download their response sheets and provisional answer keys from the official website.
 

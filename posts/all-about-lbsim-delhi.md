@@ -1,23 +1,48 @@
 ---
-title: "LBSIM Delhi (Lal Bahadur Shastri Institute of Management) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to LBSIM Delhi (Lal Bahadur Shastri Institute of Management)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  LBSIM Delhi (Lal Bahadur Shastri Institute of Management) PGDM Admission
+  Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to LBSIM Delhi (Lal Bahadur Shastri Institute of
+  Management)? Read our comprehensive PGDM review for 2026 covering total fees,
+  average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "lbsim delhi (lal bahadur shastri institute of management) review 2026"
-  - "lbsim delhi (lal bahadur shastri institute of management) pgdm placements"
-  - "lbsim delhi (lal bahadur shastri institute of management) admission cutoff"
-  - "lbsim delhi (lal bahadur shastri institute of management) fees"
+  - lbsim delhi (lal bahadur shastri institute of management) review 2026
+  - lbsim delhi (lal bahadur shastri institute of management) pgdm placements
+  - lbsim delhi (lal bahadur shastri institute of management) admission cutoff
+  - lbsim delhi (lal bahadur shastri institute of management) fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is LBSIM Delhi (Lal Bahadur Shastri Institute of Management) a good option for PGDM/MBA?"
+  - question: >-
+      Is LBSIM Delhi (Lal Bahadur Shastri Institute of Management) a good option
+      for PGDM/MBA?
     answer: >-
-      Yes, LBSIM Delhi (Lal Bahadur Shastri Institute of Management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at LBSIM Delhi (Lal Bahadur Shastri Institute of Management)?"
+      Yes, LBSIM Delhi (Lal Bahadur Shastri Institute of Management) is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at LBSIM Delhi (Lal Bahadur Shastri
+      Institute of Management)?
     answer: >-
-      The average placement package at LBSIM Delhi (Lal Bahadur Shastri Institute of Management) is approximately ₹12.00 LPA, with the highest package reaching up to ₹24.75 LPA.
-  - question: "What entrance exams are accepted by LBSIM Delhi (Lal Bahadur Shastri Institute of Management)?"
+      The average placement package at LBSIM Delhi (Lal Bahadur Shastri
+      Institute of Management) is approximately ₹12.00 LPA, with the highest
+      package reaching up to ₹24.75 LPA.
+  - question: >-
+      What entrance exams are accepted by LBSIM Delhi (Lal Bahadur Shastri
+      Institute of Management)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, XAT, GMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, XAT, GMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)**

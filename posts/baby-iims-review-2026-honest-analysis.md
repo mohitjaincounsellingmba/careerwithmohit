@@ -4,9 +4,9 @@ title: >-
   Cutoff & Worth It Factor
 date: '2026-04-02'
 description: >-
-  Detailed and honest review of all Baby IIMs in India for 2026. Compare
-  placements, fees, CAT cutoffs, CAP process, pros and cons — and decide if a
-  Baby IIM is worth it for your MBA career.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Detailed and honest review of all Baby IIMs in India
+  for 2026...
 keywords:
   - Baby IIMs review 2026
   - Baby IIM list India
@@ -19,6 +19,14 @@ keywords:
   - IIM Jammu review
   - Baby IIM CAT cutoff 2026
   - is Baby IIM worth it
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -35,6 +43,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The term **"Baby IIMs"** has become one of the most searched and most debated topics in the MBA world. These are the newest generation of Indian Institutes of Management — established primarily between 2015 and 2016 — and they come with both the prestigious IIM tag and some very real limitations that aspirants must understand before making a life-changing decision.
 

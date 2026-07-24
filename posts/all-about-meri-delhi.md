@@ -1,23 +1,50 @@
 ---
-title: "MERI Janakpuri (Management Education and Research Institute) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to MERI Janakpuri (Management Education and Research Institute)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  MERI Janakpuri (Management Education and Research Institute) PGDM Admission
+  Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to MERI Janakpuri (Management
+  Education...
 keywords:
-  - "meri janakpuri (management education and research institute) review 2026"
-  - "meri janakpuri (management education and research institute) pgdm placements"
-  - "meri janakpuri (management education and research institute) admission cutoff"
-  - "meri janakpuri (management education and research institute) fees"
+  - meri janakpuri (management education and research institute) review 2026
+  - meri janakpuri (management education and research institute) pgdm placements
+  - >-
+    meri janakpuri (management education and research institute) admission
+    cutoff
+  - meri janakpuri (management education and research institute) fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is MERI Janakpuri (Management Education and Research Institute) a good option for PGDM/MBA?"
+  - question: >-
+      Is MERI Janakpuri (Management Education and Research Institute) a good
+      option for PGDM/MBA?
     answer: >-
-      Yes, MERI Janakpuri (Management Education and Research Institute) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at MERI Janakpuri (Management Education and Research Institute)?"
+      Yes, MERI Janakpuri (Management Education and Research Institute) is a
+      highly respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at MERI Janakpuri (Management
+      Education and Research Institute)?
     answer: >-
-      The average placement package at MERI Janakpuri (Management Education and Research Institute) is approximately ₹7.5 LPA, with the highest package reaching up to ₹20.0 LPA.
-  - question: "What entrance exams are accepted by MERI Janakpuri (Management Education and Research Institute)?"
+      The average placement package at MERI Janakpuri (Management Education and
+      Research Institute) is approximately ₹7.5 LPA, with the highest package
+      reaching up to ₹20.0 LPA.
+  - question: >-
+      What entrance exams are accepted by MERI Janakpuri (Management Education
+      and Research Institute)?
     answer: >-
-      The college accepts scores from national level entrance examinations including IPU CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including IPU CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi)**

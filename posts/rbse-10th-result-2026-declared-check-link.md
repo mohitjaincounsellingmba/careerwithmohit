@@ -4,9 +4,9 @@ title: >-
   rajresults.nic.in
 date: '2026-03-24'
 description: >-
-  Rajasthan Board (RBSE) has declared the Class 10 board results for 2026 today,
-  March 24. Download your marksheet online at rajeduboard.rajasthan.gov.in and
-  rajresults.nic.in.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Rajasthan Board (RBSE) has declared the Class 10 board
+  result...
 keywords:
   - RBSE 10th result 2026 declared
   - Rajasthan Board 10th result check link
@@ -15,6 +15,14 @@ keywords:
   - RBSE 10th pass percentage 2026
   - Rajasthan Board Class 10 marksheet download
   - RBSE Ajmer result 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The Board of Secondary Education, Rajasthan (RBSE) has officially declared the **RBSE Class 10 Result 2026 today, March 24, 2026, at 1:00 PM**. Over 10 lakh students who appeared for the examinations held in February can now access their scores online.
 

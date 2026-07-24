@@ -1,9 +1,13 @@
 ---
-title: 'MBBS Colleges in Kazakhstan 2026 — Fees, Top Medical Universities & Admission Process'
+title: >-
+  MBBS Colleges in Kazakhstan 2026 — Fees, Top Medical Universities & Admission
+  Process
 date: '2026-07-21'
 category: MBBS Abroad
 description: >-
-  Detailed guide to studying MBBS in Kazakhstan for Indian students in 2026. Explore top medical universities, low tuition packages (₹16L-₹25L), NMC guidelines, and admission requirements.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Detailed guide to studying MBBS in Kazakhstan for
+  Indian stud...
 keywords:
   - mbbs colleges in kazakhstan 2026
   - mbbs in kazakhstan fees for indian students
@@ -11,13 +15,25 @@ keywords:
   - semey state medical university mbbs
   - astana medical university fees 2026
   - nmc rules for mbbs in kazakhstan
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the cost of MBBS in Kazakhstan in 2026?"
+  - question: What is the cost of MBBS in Kazakhstan in 2026?
     answer: >-
-      The total package for MBBS in Kazakhstan ranges between ₹16 Lakhs and ₹25 Lakhs for the entire 5+1 year course (including tuition and hostel fees).
-  - question: "Is Kazakh National Medical University recognized by NMC?"
+      The total package for MBBS in Kazakhstan ranges between ₹16 Lakhs and ₹25
+      Lakhs for the entire 5+1 year course (including tuition and hostel fees).
+  - question: Is Kazakh National Medical University recognized by NMC?
     answer: >-
-      Yes, Asfendiyarov Kazakh National Medical University and other top state universities in Kazakhstan are recognized by WHO, WDOMS, and comply with NMC regulations.
+      Yes, Asfendiyarov Kazakh National Medical University and other top state
+      universities in Kazakhstan are recognized by WHO, WDOMS, and comply with
+      NMC regulations.
+location: Delhi
 ---
 
 **Kazakhstan** is one of the most established hubs for medical education in Central Asia. Known for top-tier national medical universities, clinical rotations in specialized state hospitals, and affordable living costs, Kazakhstan attracts thousands of Indian medical students every year.

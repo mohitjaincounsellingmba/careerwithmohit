@@ -1,23 +1,48 @@
 ---
-title: "St. Andrews Institute of Technology and Management, Gurgaon PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to St. Andrews Institute of Technology and Management, Gurgaon? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  St. Andrews Institute of Technology and Management, Gurgaon PGDM Admission
+  Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to St. Andrews Institute of Technology and Management,
+  Gurgaon? Read our comprehensive PGDM review for 2026 covering total fees,
+  average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "st. andrews institute of technology and management, gurgaon review 2026"
-  - "st. andrews institute of technology and management, gurgaon pgdm placements"
-  - "st. andrews institute of technology and management, gurgaon admission cutoff"
-  - "st. andrews institute of technology and management, gurgaon fees"
+  - 'st. andrews institute of technology and management, gurgaon review 2026'
+  - 'st. andrews institute of technology and management, gurgaon pgdm placements'
+  - 'st. andrews institute of technology and management, gurgaon admission cutoff'
+  - 'st. andrews institute of technology and management, gurgaon fees'
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is St. Andrews Institute of Technology and Management, Gurgaon a good option for PGDM/MBA?"
+  - question: >-
+      Is St. Andrews Institute of Technology and Management, Gurgaon a good
+      option for PGDM/MBA?
     answer: >-
-      Yes, St. Andrews Institute of Technology and Management, Gurgaon is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at St. Andrews Institute of Technology and Management, Gurgaon?"
+      Yes, St. Andrews Institute of Technology and Management, Gurgaon is a
+      highly respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at St. Andrews Institute of Technology
+      and Management, Gurgaon?
     answer: >-
-      The average placement package at St. Andrews Institute of Technology and Management, Gurgaon is approximately ₹4.5 LPA, with the highest package reaching up to ₹12.0 LPA.
-  - question: "What entrance exams are accepted by St. Andrews Institute of Technology and Management, Gurgaon?"
+      The average placement package at St. Andrews Institute of Technology and
+      Management, Gurgaon is approximately ₹4.5 LPA, with the highest package
+      reaching up to ₹12.0 LPA.
+  - question: >-
+      What entrance exams are accepted by St. Andrews Institute of Technology
+      and Management, Gurgaon?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, Merit for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, Merit for the PGDM and MBA admissions.
+location: Gurgaon
 ---
 
 ### **College Review: [St. Andrews Institute of Technology and Management, Gurgaon](/colleges/st-andrews-gurgaon)**

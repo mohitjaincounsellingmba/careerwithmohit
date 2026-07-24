@@ -2,9 +2,9 @@
 title: 'CUET UG 2026 Score Calculator: Marks vs Percentile & NTA Normalization'
 date: '2026-04-17'
 description: >-
-  Everything you need to know about calculating your CUET UG raw score. Explore
-  the CUET 2026 negative marking formula, normalization process explained, and
-  get expected cut-offs for top universities like DU and BHU.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Everything you need to know about calculating your CUET
+  UG ra...
 keywords:
   - CUET UG 2026 Score Calculator
   - CUET Score Predictor 2026
@@ -14,6 +14,14 @@ keywords:
   - CUET Percentile Predictor 2026
   - How to calculate CUET UG score 2026
   - CUET UG 2026 marking scheme
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 Millions of students across India prepare tirelessly for the CUET UG exam. Once the exam is over, the immediate question on everyone's mind is simple: "What will my final score and percentile be?" 
 

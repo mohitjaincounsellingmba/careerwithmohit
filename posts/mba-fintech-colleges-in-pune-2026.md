@@ -123,7 +123,7 @@ Source: Shiksha.com
 ### What is the fee at [PUMBA Pune](/colleges/pumba-pune) for finance specialization?
 [PUMBA Pune](/colleges/pumba-pune) offers highly subsidized fees of around INR 1.3 Lakhs for the complete program, yielding a very high return on investment.
 
-### What exams does SIBM Pune accept?
+### What exams does [SIBM Pune](/colleges/sibm-pune) accept?
 SIBM Pune accepts scores from the Symbiosis National Aptitude Test (SNAP) for its flagship MBA admissions.
 ---
 

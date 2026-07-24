@@ -1,23 +1,41 @@
 ---
-title: "Institute of Management Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Institute of Management Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Institute of Management Studies PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Ghaziabad, Delhi NCR. Looking for admission to Institute of
+  Management S...
 keywords:
-  - "institute of management studies review 2026"
-  - "institute of management studies pgdm placements"
-  - "institute of management studies admission cutoff"
-  - "institute of management studies fees"
+  - institute of management studies review 2026
+  - institute of management studies pgdm placements
+  - institute of management studies admission cutoff
+  - institute of management studies fees
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Institute of Management Studies a good option for PGDM/MBA?"
+  - question: Is Institute of Management Studies a good option for PGDM/MBA?
     answer: >-
-      Yes, Institute of Management Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Institute of Management Studies?"
+      Yes, Institute of Management Studies is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Institute of Management Studies?
     answer: >-
-      The average placement package at Institute of Management Studies is approximately ₹9.25 LPA, with the highest package reaching up to ₹35 LPA.
-  - question: "What entrance exams are accepted by Institute of Management Studies?"
+      The average placement package at Institute of Management Studies is
+      approximately ₹9.25 LPA, with the highest package reaching up to ₹35 LPA.
+  - question: What entrance exams are accepted by Institute of Management Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Ghaziabad
 ---
 
 ### **College Review: [Institute of Management Studies](/colleges/institute-of-management-studies)**

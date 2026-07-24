@@ -3,8 +3,9 @@ title: 'IIM Rohtak IPM Admission 2026: Fees, Placements, and IPMAT Rohtak Exam'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-
-  Everything you need to know about the 5-Year Integrated Programme in
-  Management (IPM) at IIM Rohtak for 2026. Fees, placements, and exam strategy.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Everything you need to know about the 5-Year Integrated
+  Progr...
 keywords:
   - iim rohtak ipm admission 2026
   - iim rohtak ipmat fees
@@ -12,6 +13,14 @@ keywords:
   - ipmat rohtak syllabus 2026
   - iim rohtak integrated mba
   - best management program after 12th
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does IIM Rohtak take admission through IPMAT Indore scores?
     answer: >-
@@ -19,6 +28,7 @@ faqs:
       typically accept Indore scores for its primary intake.
   - question: What is the intake capacity for IPM 2026?
     answer: The intake is approximately 180 students for the 2026 batch.
+location: Delhi
 ---
 
 IIM Rohtak is the second IIM to offer the prestigious Integrated Programme in Management (IPM). Located in the National Capital Region (NCR), it provides students with a unique advantage of being close to India's corporate and political hub. In 2026, it is a top-tier destination for management aspirants.

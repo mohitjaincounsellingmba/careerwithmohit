@@ -3,27 +3,45 @@ title: 'IIMT Greater Noida BBA Review: Fees, Placements & Admission Guide'
 date: '2026-07-13'
 description: >-
   Looking for an honest IIMT Greater Noida BBA Review? Get complete details on
-  BBA fees, affiliation, placement statistics, eligibility, and the direct admission process.
+  BBA fees, affiliation, placement statistics, eligibility, and the direct
+  admission process.
 keywords:
   - IIMT Greater Noida BBA Review
   - IIMT Greater Noida BBA Fees
   - IIMT BBA Placements
   - IIMT College of Management Greater Noida BBA
   - best BBA colleges in Greater Noida
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the fee of BBA at IIMT Greater Noida?
     answer: >-
       The annual fee for the BBA program at IIMT College of Management, Greater
-      Noida is approximately INR 80,000 to INR 99,990 per year, making it a very affordable option in Delhi NCR.
+      Noida is approximately INR 80,000 to INR 99,990 per year, making it a very
+      affordable option in Delhi NCR.
   - question: Is IIMT Greater Noida BBA affiliated with AKTU?
     answer: >-
-      No, the BBA program at IIMT Greater Noida is offered by the IIMT College of Management and is affiliated with Chaudhary Charan Singh (CCS) University, Meerut. AKTU is primarily for technical courses like B.Tech and postgraduate courses like MBA.
+      No, the BBA program at IIMT Greater Noida is offered by the IIMT College
+      of Management and is affiliated with Chaudhary Charan Singh (CCS)
+      University, Meerut. AKTU is primarily for technical courses like B.Tech
+      and postgraduate courses like MBA.
   - question: What is the average package for BBA at IIMT Greater Noida?
     answer: >-
-      The average salary package for undergraduate BBA graduates at IIMT Greater Noida is around INR 3.0 to INR 4.5 LPA, with recruiters like TCS, Wipro, Infosys, and Tech Mahindra visiting the campus.
+      The average salary package for undergraduate BBA graduates at IIMT Greater
+      Noida is around INR 3.0 to INR 4.5 LPA, with recruiters like TCS, Wipro,
+      Infosys, and Tech Mahindra visiting the campus.
   - question: Is direct admission available for BBA at IIMT Greater Noida?
     answer: >-
-      Yes, candidates meeting the eligibility criteria (minimum 45% aggregate in 10+2 from a recognized board) can apply for direct merit-based admission or register through CCS University counseling.
+      Yes, candidates meeting the eligibility criteria (minimum 45% aggregate in
+      10+2 from a recognized board) can apply for direct merit-based admission
+      or register through CCS University counseling.
+location: Noida
 ---
 
 [IIMT Group of Colleges](/colleges/iimt-greater-noida), located in the bustling educational hub of Knowledge Park III, Greater Noida, has established a strong presence for itself over the last two decades. The BBA (Bachelor of Business Administration) program is run under the **IIMT College of Management** and is highly sought after by students looking for an affordable, career-focused management degree in the Delhi NCR region.

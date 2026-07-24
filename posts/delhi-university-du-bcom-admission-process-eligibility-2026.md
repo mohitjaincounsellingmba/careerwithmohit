@@ -22,6 +22,14 @@ keywords:
   - career counselling
   - admissions 2026
   - placements 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -37,6 +45,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Delhi
 ---
 Delhi University (DU) is considered the pinnacle for commerce students across India. Thousands of students dream of securing a seat in B.Com or B.Com (Hons.) at elite DU colleges like SRCC, Hindu, and Hansraj. But with the introduction of the Common University Entrance Test (CUET) UG, the admission dynamics have changed. 
 

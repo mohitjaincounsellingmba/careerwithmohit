@@ -1,23 +1,48 @@
 ---
-title: "International Institute of Health Management Research PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to International Institute of Health Management Research? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  International Institute of Health Management Research PGDM Admission Review
+  2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to International Institute of
+  Health Ma...
 keywords:
-  - "international institute of health management research review 2026"
-  - "international institute of health management research pgdm placements"
-  - "international institute of health management research admission cutoff"
-  - "international institute of health management research fees"
+  - international institute of health management research review 2026
+  - international institute of health management research pgdm placements
+  - international institute of health management research admission cutoff
+  - international institute of health management research fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is International Institute of Health Management Research a good option for PGDM/MBA?"
+  - question: >-
+      Is International Institute of Health Management Research a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, International Institute of Health Management Research is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at International Institute of Health Management Research?"
+      Yes, International Institute of Health Management Research is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at International Institute of Health
+      Management Research?
     answer: >-
-      The average placement package at International Institute of Health Management Research is approximately ₹25 LPA, with the highest package reaching up to ₹50 LPA.
-  - question: "What entrance exams are accepted by International Institute of Health Management Research?"
+      The average placement package at International Institute of Health
+      Management Research is approximately ₹25 LPA, with the highest package
+      reaching up to ₹50 LPA.
+  - question: >-
+      What entrance exams are accepted by International Institute of Health
+      Management Research?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [International Institute of Health Management Research](/colleges/international-institute-of-health-management-research)**

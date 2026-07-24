@@ -1,20 +1,41 @@
 ---
-title: "Christian Medical College (CMC), Vellore MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Christian Medical College (CMC), Vellore. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Christian Medical College (CMC), Vellore MBBS Admission 2026: Process, NEET
+  Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Christian
+  Medical C...
 keywords:
-  - "CMC Vellore MBBS admission 2026"
-  - "CMC Vellore fee structure"
-  - "CMC Vellore NEET cutoff 2026"
-  - "Christian Medical College (CMC), Vellore MBBS process"
-  - "MBBS fees private medical college"
+  - CMC Vellore MBBS admission 2026
+  - CMC Vellore fee structure
+  - CMC Vellore NEET cutoff 2026
+  - 'Christian Medical College (CMC), Vellore MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is CMC Vellore private or government?"
-    answer: "CMC Vellore is an autonomous, non-profit private minority medical institution affiliated with Dr. M.G.R. Medical University."
-  - question: "What is the MBBS fee in CMC Vellore for 2026?"
-    answer: "CMC Vellore offers one of the lowest MBBS fees in India among private colleges, costing around ₹50,000 to ₹60,000 per year, with total 5.5-year cost around ₹3 Lakhs."
-  - question: "How to apply for CMC Vellore MBBS admission 2026?"
-    answer: "Candidates must qualify NEET UG 2026 and register for Tamil Nadu State NEET Counselling (dme.tn.gov.in) under Management/Minority Quota seats."
+  - question: Is CMC Vellore private or government?
+    answer: >-
+      CMC Vellore is an autonomous, non-profit private minority medical
+      institution affiliated with Dr. M.G.R. Medical University.
+  - question: What is the MBBS fee in CMC Vellore for 2026?
+    answer: >-
+      CMC Vellore offers one of the lowest MBBS fees in India among private
+      colleges, costing around ₹50,000 to ₹60,000 per year, with total 5.5-year
+      cost around ₹3 Lakhs.
+  - question: How to apply for CMC Vellore MBBS admission 2026?
+    answer: >-
+      Candidates must qualify NEET UG 2026 and register for Tamil Nadu State
+      NEET Counselling (dme.tn.gov.in) under Management/Minority Quota seats.
+location: Delhi
 ---
 
 Planning your medical career and targeting **Christian Medical College (CMC), Vellore** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, CMC Vellore offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

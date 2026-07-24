@@ -2,8 +2,9 @@
 title: 'Taking a Gap Year for MBA preparation: Is it a Good Choice for 2026?'
 date: '2026-03-14'
 description: >-
-  Confused about taking a drop for CAT/MBA preparation? Direct versus drop
-  dilemma? Explore pros, cons, and ROI of a gap year for MBA 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Confused about taking a drop for CAT/MBA preparation?
+  Direct ...
 keywords:
   - gap year for mba
   - mba drop year
@@ -11,6 +12,14 @@ keywords:
   - is gap year good for mba
   - cat preparation drop year
   - mba 2026 preparation
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 # Taking a Gap Year for MBA Preparation: Is it a Good Choice?
 

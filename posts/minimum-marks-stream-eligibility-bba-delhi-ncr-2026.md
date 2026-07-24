@@ -11,6 +11,14 @@ keywords:
   - bba without maths eligibility
   - minimum marks for bba delhi
   - sscbs eligibility
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
+location: Noida
 ---
 One of the most common questions undergraduate management aspirants ask is: *"Am I eligible for a BBA program if I am from the Arts or Science stream?"* or *"Do I need Mathematics in Class 12 to pursue BBA in Delhi NCR?"*
 

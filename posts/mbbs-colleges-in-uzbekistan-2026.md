@@ -3,7 +3,9 @@ title: 'MBBS Colleges in Uzbekistan 2026 — Lowest Fees, Top Universities & NMC
 date: '2026-07-21'
 category: MBBS Abroad
 description: >-
-  Guide to studying MBBS in Uzbekistan for Indian students in 2026. Check lowest tuition packages (₹14L-₹22L), top medical universities, NMC compliance, Indian food mess, and visa details.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Guide to studying MBBS in Uzbekistan for Indian
+  students in 2...
 keywords:
   - mbbs colleges in uzbekistan 2026
   - mbbs in uzbekistan fees for indian students
@@ -11,16 +13,31 @@ keywords:
   - samarkand state medical university mbbs
   - cheapest mbbs abroad 2026
   - nmc approved medical colleges in uzbekistan
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the total budget for MBBS in Uzbekistan in 2026?"
+  - question: What is the total budget for MBBS in Uzbekistan in 2026?
     answer: >-
-      Uzbekistan offers the most affordable MBBS abroad. Total budget (tuition + hostel + Indian food) ranges from ₹14 Lakhs to ₹22 Lakhs for the full 6-year package.
-  - question: "Is Indian food available in Uzbekistan medical universities?"
+      Uzbekistan offers the most affordable MBBS abroad. Total budget (tuition +
+      hostel + Indian food) ranges from ₹14 Lakhs to ₹22 Lakhs for the full
+      6-year package.
+  - question: Is Indian food available in Uzbekistan medical universities?
     answer: >-
-      Yes! Almost all major universities (Tashkent, Samarkand, Fergana) have dedicated Indian mess facilities serving North and South Indian meals prepared by Indian chefs.
-  - question: "Does MBBS in Uzbekistan comply with NMC guidelines?"
+      Yes! Almost all major universities (Tashkent, Samarkand, Fergana) have
+      dedicated Indian mess facilities serving North and South Indian meals
+      prepared by Indian chefs.
+  - question: Does MBBS in Uzbekistan comply with NMC guidelines?
     answer: >-
-      Yes, premier government medical universities in Uzbekistan have structured 5+1 year programs (54 months study + 12 months internship) in 100% English medium.
+      Yes, premier government medical universities in Uzbekistan have structured
+      5+1 year programs (54 months study + 12 months internship) in 100% English
+      medium.
+location: Delhi
 ---
 
 **Uzbekistan** has emerged as the **#1 fastest-growing budget destination** for Indian medical aspirants in 2026. With extremely low tuition fees, high safety ratings, proximity to India (3-hour direct flight from Delhi), and full NMC 2021 guideline compliance, over 8,000 Indian students are currently pursuing their medical degree in Central Asia's premier universities.

@@ -1,23 +1,48 @@
 ---
-title: "Xavier Faridabad School of Business & Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Faridabad School of Business & Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Faridabad School of Business & Management PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Faridabad, Delhi NCR. Looking for admission to Xavier Faridabad
+  School o...
 keywords:
-  - "xavier faridabad school of business & management review 2026"
-  - "xavier faridabad school of business & management pgdm placements"
-  - "xavier faridabad school of business & management admission cutoff"
-  - "xavier faridabad school of business & management fees"
+  - xavier faridabad school of business & management review 2026
+  - xavier faridabad school of business & management pgdm placements
+  - xavier faridabad school of business & management admission cutoff
+  - xavier faridabad school of business & management fees
+  - Faridabad Colleges
+  - Best Colleges in Faridabad
+  - Faridabad Admissions 2026
+  - Direct Admission in Faridabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Xavier Faridabad School of Business & Management a good option for PGDM/MBA?"
+  - question: >-
+      Is Xavier Faridabad School of Business & Management a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Xavier Faridabad School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Faridabad School of Business & Management?"
+      Yes, Xavier Faridabad School of Business & Management is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Xavier Faridabad School of Business
+      & Management?
     answer: >-
-      The average placement package at Xavier Faridabad School of Business & Management is approximately ₹6.4 LPA, with the highest package reaching up to ₹23.0 LPA.
-  - question: "What entrance exams are accepted by Xavier Faridabad School of Business & Management?"
+      The average placement package at Xavier Faridabad School of Business &
+      Management is approximately ₹6.4 LPA, with the highest package reaching up
+      to ₹23.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Xavier Faridabad School of Business &
+      Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Faridabad
 ---
 
 ### **College Review: [Xavier Faridabad School of Business & Management](/colleges/xavier-faridabad-school-of-business-management)**

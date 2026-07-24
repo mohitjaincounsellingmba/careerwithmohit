@@ -9,6 +9,14 @@ keywords:
   - SOIL PGDM placements 2025
   - SOIL elite infrastructure
   - SOIL business school faculty
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -25,6 +33,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Gurgaon
 ---
 ### **College Review: SOIL Gurgaon**
 *   **Elite Branding**: Known for its unique focus on "Inspired Leadership" and social responsibility alongside business skills.

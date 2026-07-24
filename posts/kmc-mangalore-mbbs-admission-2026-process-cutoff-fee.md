@@ -1,20 +1,38 @@
 ---
-title: "Kasturba Medical College (KMC), Mangalore MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Kasturba Medical College (KMC), Mangalore. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Kasturba Medical College (KMC), Mangalore MBBS Admission 2026: Process, NEET
+  Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Kasturba
+  Medical Co...
 keywords:
-  - "KMC Mangalore MBBS admission 2026"
-  - "KMC Mangalore fee structure"
-  - "KMC Mangalore NEET cutoff 2026"
-  - "Kasturba Medical College (KMC), Mangalore MBBS process"
-  - "MBBS fees private medical college"
+  - KMC Mangalore MBBS admission 2026
+  - KMC Mangalore fee structure
+  - KMC Mangalore NEET cutoff 2026
+  - 'Kasturba Medical College (KMC), Mangalore MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is KMC Mangalore good for MBBS?"
-    answer: "Yes, KMC Mangalore is ranked among the top 20 medical colleges in India with top clinical exposure in associate hospitals."
-  - question: "What is the cutoff rank for KMC Mangalore MBBS 2026?"
-    answer: "The expected cutoff rank for General Deemed seats is around 55,000 to 70,000 (Score 545-575)."
-  - question: "What is the annual fee for KMC Mangalore?"
-    answer: "The annual tuition fee is approximately ₹17.8 Lakhs."
+  - question: Is KMC Mangalore good for MBBS?
+    answer: >-
+      Yes, KMC Mangalore is ranked among the top 20 medical colleges in India
+      with top clinical exposure in associate hospitals.
+  - question: What is the cutoff rank for KMC Mangalore MBBS 2026?
+    answer: >-
+      The expected cutoff rank for General Deemed seats is around 55,000 to
+      70,000 (Score 545-575).
+  - question: What is the annual fee for KMC Mangalore?
+    answer: The annual tuition fee is approximately ₹17.8 Lakhs.
+location: Delhi
 ---
 
 Planning your medical career and targeting **Kasturba Medical College (KMC), Mangalore** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, KMC Mangalore offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

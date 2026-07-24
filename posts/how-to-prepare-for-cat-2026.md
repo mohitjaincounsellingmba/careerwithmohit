@@ -2,8 +2,9 @@
 title: 'How to Prepare for CAT 2026: Complete Study Plan & Resources'
 date: '2026-05-17'
 description: >-
-  A step‑by‑step guide to ace the CAT 2026 exam. Includes timeline, study
-  resources, mock test strategy, and FAQs for BBA & MBA aspirants.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. A step‑by‑step guide to ace the CAT 2026 exam. Includes
+  timel...
 keywords:
   - CAT 2026 preparation
   - how to prepare for CAT
@@ -11,6 +12,14 @@ keywords:
   - CAT resources
   - CAT mock tests
   - MBA entrance exam
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 ## Introduction
 The Common Admission Test (CAT) is the gateway to India’s top MBA programs. With the 2026 edition approaching, competition is fiercer than ever. This guide walks you through a **structured, 12‑week study plan**, the best resources, and proven tactics to boost your percentile.

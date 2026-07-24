@@ -1,23 +1,46 @@
 ---
-title: "Institute of Marketing & Management (IMM) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Institute of Marketing & Management (IMM)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Institute of Marketing & Management (IMM) PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Institute of Marketing &
+  Management ...
 keywords:
-  - "institute of marketing & management (imm) review 2026"
-  - "institute of marketing & management (imm) pgdm placements"
-  - "institute of marketing & management (imm) admission cutoff"
-  - "institute of marketing & management (imm) fees"
+  - institute of marketing & management (imm) review 2026
+  - institute of marketing & management (imm) pgdm placements
+  - institute of marketing & management (imm) admission cutoff
+  - institute of marketing & management (imm) fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Institute of Marketing & Management (IMM) a good option for PGDM/MBA?"
+  - question: Is Institute of Marketing & Management (IMM) a good option for PGDM/MBA?
     answer: >-
-      Yes, Institute of Marketing & Management (IMM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Institute of Marketing & Management (IMM)?"
+      Yes, Institute of Marketing & Management (IMM) is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Institute of Marketing & Management
+      (IMM)?
     answer: >-
-      The average placement package at Institute of Marketing & Management (IMM) is approximately ₹9.5 LPA, with the highest package reaching up to ₹19.75 LPA.
-  - question: "What entrance exams are accepted by Institute of Marketing & Management (IMM)?"
+      The average placement package at Institute of Marketing & Management (IMM)
+      is approximately ₹9.5 LPA, with the highest package reaching up to ₹19.75
+      LPA.
+  - question: >-
+      What entrance exams are accepted by Institute of Marketing & Management
+      (IMM)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT, ATMA for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT, ATMA for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Institute of Marketing & Management (IMM)](/colleges/imm-delhi)**

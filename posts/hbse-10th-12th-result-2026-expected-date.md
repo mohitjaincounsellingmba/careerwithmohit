@@ -4,9 +4,9 @@ title: >-
   bseh.org.in
 date: '2026-05-10'
 description: >-
-  The Board of School Education, Haryana (BSEH) is expected to announce the HBSE
-  Class 10th and 12th results for 2026 between May 12 and May 15. Check latest
-  updates on result dates, toppers, and how to download marksheets.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. The Board of School Education, Haryana (BSEH) is
+  expected to ...
 keywords:
   - HBSE 10th result 2026 date
   - HBSE 12th result 2026 expected date
@@ -14,6 +14,14 @@ keywords:
   - Haryana Board result 2026 check online
   - HBSE topper list 2026
   - BSEH 10th 12th result link
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The Board of School Education, Haryana (BSEH), Bhiwani, is all set to release the **HBSE Class 10th (Secondary) and Class 12th (Senior Secondary) Results 2026** very soon. According to the latest trends and official indications, the results are expected to be declared between **May 12 and May 15, 2026**.
 

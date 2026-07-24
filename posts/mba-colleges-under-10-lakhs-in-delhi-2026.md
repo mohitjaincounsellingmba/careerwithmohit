@@ -11,6 +11,14 @@ keywords:
   - affordable MBA in Delhi
   - low fees MBA colleges in Delhi
   - best MBA in Delhi under 10 Lakhs
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best MBA college under 10 Lakhs in Delhi?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       total fee of under 10 Lakhs and average placement packages ranging from 5
       LPA to 12 LPA, graduates can recover their educational expenses in a very
       short duration.
+location: Delhi
 ---
 
 Pursuing a Master of Business Administration (MBA) does not always have to result in massive student loans. While top private business schools in India charge tuition fees ranging from ₹15 Lakhs to ₹28 Lakhs, several high-quality government institutions, state university departments, and local private colleges in **Delhi** offer quality management education under a budget of ₹10 Lakhs.

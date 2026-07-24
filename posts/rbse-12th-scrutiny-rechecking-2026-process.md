@@ -2,9 +2,9 @@
 title: 'RBSE 12th Rechecking & Scrutiny 2026: How to Apply Online, Fees, and Last Date'
 date: '2026-04-01'
 description: >-
-  Dissatisfied with your RBSE 12th results? Learn how to apply for
-  scrutiny/rechecking online. Check the application fee, process, and last date
-  for RBSE Class 12 Revaluation 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Dissatisfied with your RBSE 12th results? Learn how to
+  apply ...
 keywords:
   - RBSE 12th rechecking 2026
   - RBSE 12th scrutiny online form
@@ -13,6 +13,14 @@ keywords:
   - RBSE 12th revaluation 2026
   - bseronline.com scrutiny
   - RBSE result rechecking date
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The Board of Secondary Education, Rajasthan (RBSE) has declared the Class 12 results for Science, Commerce, and Arts. While thousands have cleared the exams with flying colors, some students may feel that their marks do not reflect their true performance. 
 

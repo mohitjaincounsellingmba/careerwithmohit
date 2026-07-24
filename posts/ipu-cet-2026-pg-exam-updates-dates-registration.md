@@ -2,9 +2,9 @@
 title: 'IPU CET 2026 PG: Admit Card Out for Phased Exams & Final Schedule'
 date: '2026-05-06'
 description: >-
-  Indraprastha University (GGSIPU) has started releasing admit cards for IPU CET
-  2026 PG exams in a phased manner. Download your hall ticket for MCA, M.Tech,
-  and other PG courses here.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Indraprastha University (GGSIPU) has started releasing
+  admit ...
 keywords:
   - IPU CET 2026 PG admit card
   - GGSIPU MBA admission 2026
@@ -12,6 +12,14 @@ keywords:
   - GGSIPU M.Tech hall ticket
   - IPU CET exam dates 2026
   - download IPU admit card
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Guru Gobind Singh Indraprastha University (GGSIPU) is currently conducting the **IPU CET 2026** for various postgraduate (PG) programs. Since the entrance tests are spread across several dates from April 25 to May 17, 2026, the university is releasing **admit cards in a phased manner**.
 

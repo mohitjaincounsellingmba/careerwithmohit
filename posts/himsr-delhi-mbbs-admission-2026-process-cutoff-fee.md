@@ -1,20 +1,41 @@
 ---
-title: "Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi MBBS
+  Admission 2026: Process, NEET Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Complete guide for MBBS admission 2026 at Hamdard Institute of Medical
+  Sciences & Research (HIMSR), New Delhi. Check latest fee structure, NEET UG
+  expected cutoff ranks, seat matrix, application process, and campus hospital
+  reviews.
 keywords:
-  - "HIMSR New Delhi MBBS admission 2026"
-  - "HIMSR New Delhi fee structure"
-  - "HIMSR New Delhi NEET cutoff 2026"
-  - "Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi MBBS process"
-  - "MBBS fees private medical college"
+  - HIMSR New Delhi MBBS admission 2026
+  - HIMSR New Delhi fee structure
+  - HIMSR New Delhi NEET cutoff 2026
+  - >-
+    Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi MBBS
+    process
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is HIMSR Delhi a government or private college?"
-    answer: "HIMSR is a constituent medical college of Jamia Hamdard, a Deemed-to-be University."
-  - question: "What is the cutoff for Muslim Minority quota in HIMSR?"
-    answer: "Expected NEET 2026 score for Muslim Minority quota is 510 to 545."
-  - question: "What is the total package for MBBS in HIMSR Delhi?"
-    answer: "The total fee package is around ₹85 Lakhs including tuition fee and hostel charges."
+  - question: Is HIMSR Delhi a government or private college?
+    answer: >-
+      HIMSR is a constituent medical college of Jamia Hamdard, a Deemed-to-be
+      University.
+  - question: What is the cutoff for Muslim Minority quota in HIMSR?
+    answer: Expected NEET 2026 score for Muslim Minority quota is 510 to 545.
+  - question: What is the total package for MBBS in HIMSR Delhi?
+    answer: >-
+      The total fee package is around ₹85 Lakhs including tuition fee and hostel
+      charges.
+location: Delhi
 ---
 
 Planning your medical career and targeting **Hamdard Institute of Medical Sciences & Research (HIMSR), New Delhi** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, HIMSR New Delhi offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

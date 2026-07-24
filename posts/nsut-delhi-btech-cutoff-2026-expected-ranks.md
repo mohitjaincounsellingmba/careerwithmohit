@@ -13,6 +13,14 @@ keywords:
   - NSUT Delhi fees for BTech
   - NSUT placement review 2025
   - JAC Delhi counselling 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the difference between CSE and CSAI at NSUT?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
     answer: >-
       Cutoffs for reserved categories are much higher (relaxed). For example, SC
       candidates from Delhi often get branches under 1.5 Lakh rank.
+location: Delhi
 ---
 
 **[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)**, formerly known as NSIT, is one of the most prestigious engineering institutions in India. Located in Dwarka, New Delhi, NSUT is renowned for its exceptional placement records, especially in the tech and software sectors. Along with DTU and IIIT Delhi, it forms the "Golden Triangle" of engineering education in the national capital.

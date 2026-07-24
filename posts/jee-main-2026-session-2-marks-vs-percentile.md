@@ -2,9 +2,9 @@
 title: 'JEE Main 2026 Session 2 Marks vs Percentile Analysis: April Attempt'
 date: '2026-04-13'
 description: >-
-  Confused about your JEE Main 2026 Session 2 percentile? Check our expert
-  analysis of marks vs percentile for the April attempt. Get insights on shift
-  difficulty and expected cutoffs for JEE Advanced.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Confused about your JEE Main 2026 Session 2 percentile?
+  Check...
 keywords:
   - JEE Main 2026 Session 2 marks vs percentile
   - JEE Main April attempt analysis 2026
@@ -14,6 +14,14 @@ keywords:
   - JEE Main 2026 shift difficulty comparison
   - 99 percentile marks in JEE 2026
   - JAC Delhi cutoffs for JEE Main 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 The **JEE Main 2026 Session 2** examinations were conducted between April 2 and April 8, 2026. With the exams now over, students are eagerly calculating their scores using official response sheets. However, the biggest question on everyone's mind is: **"What percentile will I get for my marks?"**
 

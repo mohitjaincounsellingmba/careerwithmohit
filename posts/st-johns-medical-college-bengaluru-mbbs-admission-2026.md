@@ -1,20 +1,36 @@
 ---
-title: "St. John’s Medical College, Bengaluru MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at St. John’s Medical College, Bengaluru. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  St. John’s Medical College, Bengaluru MBBS Admission 2026: Process, NEET
+  Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at St. John’s
+  Medical ...
 keywords:
-  - "St. John's Medical College MBBS admission 2026"
-  - "St. John's Medical College fee structure"
-  - "St. John's Medical College NEET cutoff 2026"
-  - "St. John’s Medical College, Bengaluru MBBS process"
-  - "MBBS fees private medical college"
+  - St. John's Medical College MBBS admission 2026
+  - St. John's Medical College fee structure
+  - St. John's Medical College NEET cutoff 2026
+  - 'St. John’s Medical College, Bengaluru MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Can non-Karnataka students apply for St. John's Medical College?"
-    answer: "Yes, candidates from all over India can apply through KEA Karnataka State Counselling under non-domicile / open / Christian minority categories."
-  - question: "Is there a bond in St. John's Medical College?"
-    answer: "Yes, St. John's has a mandatory 2-year rural service bond post MBBS."
-  - question: "What is the MBBS fee at St. John's Bengaluru?"
-    answer: "The tuition fee is approximately ₹7.3 Lakhs per year."
+  - question: Can non-Karnataka students apply for St. John's Medical College?
+    answer: >-
+      Yes, candidates from all over India can apply through KEA Karnataka State
+      Counselling under non-domicile / open / Christian minority categories.
+  - question: Is there a bond in St. John's Medical College?
+    answer: 'Yes, St. John''s has a mandatory 2-year rural service bond post MBBS.'
+  - question: What is the MBBS fee at St. John's Bengaluru?
+    answer: The tuition fee is approximately ₹7.3 Lakhs per year.
+location: Delhi
 ---
 
 Planning your medical career and targeting **St. John’s Medical College, Bengaluru** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, St. John's Medical College offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

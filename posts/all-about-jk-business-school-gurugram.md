@@ -1,23 +1,41 @@
 ---
-title: "JK Business School,Gurugram PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to JK Business School,Gurugram? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  JK Business School,Gurugram PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to JK Business School,Gurugram? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "jk business school,gurugram review 2026"
-  - "jk business school,gurugram pgdm placements"
-  - "jk business school,gurugram admission cutoff"
-  - "jk business school,gurugram fees"
+  - 'jk business school,gurugram review 2026'
+  - 'jk business school,gurugram pgdm placements'
+  - 'jk business school,gurugram admission cutoff'
+  - 'jk business school,gurugram fees'
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is JK Business School,Gurugram a good option for PGDM/MBA?"
+  - question: 'Is JK Business School,Gurugram a good option for PGDM/MBA?'
     answer: >-
-      Yes, JK Business School,Gurugram is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at JK Business School,Gurugram?"
+      Yes, JK Business School,Gurugram is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: 'What is the average package offered at JK Business School,Gurugram?'
     answer: >-
-      The average placement package at JK Business School,Gurugram is approximately ₹6.20 LPA, with the highest package reaching up to ₹24 LPA.
-  - question: "What entrance exams are accepted by JK Business School,Gurugram?"
+      The average placement package at JK Business School,Gurugram is
+      approximately ₹6.20 LPA, with the highest package reaching up to ₹24 LPA.
+  - question: 'What entrance exams are accepted by JK Business School,Gurugram?'
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Gurgaon
 ---
 
 ### **College Review: [JK Business School,Gurugram](/colleges/jk-business-school-gurugram)**

@@ -1,23 +1,46 @@
 ---
-title: "Fortune Institute of International Business PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Fortune Institute of International Business? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Fortune Institute of International Business PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Fortune Institute of
+  International B...
 keywords:
-  - "fortune institute of international business review 2026"
-  - "fortune institute of international business pgdm placements"
-  - "fortune institute of international business admission cutoff"
-  - "fortune institute of international business fees"
+  - fortune institute of international business review 2026
+  - fortune institute of international business pgdm placements
+  - fortune institute of international business admission cutoff
+  - fortune institute of international business fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Fortune Institute of International Business a good option for PGDM/MBA?"
+  - question: Is Fortune Institute of International Business a good option for PGDM/MBA?
     answer: >-
-      Yes, Fortune Institute of International Business is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Fortune Institute of International Business?"
+      Yes, Fortune Institute of International Business is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Fortune Institute of International
+      Business?
     answer: >-
-      The average placement package at Fortune Institute of International Business is approximately ₹6.1 LPA, with the highest package reaching up to ₹14.5 LPA.
-  - question: "What entrance exams are accepted by Fortune Institute of International Business?"
+      The average placement package at Fortune Institute of International
+      Business is approximately ₹6.1 LPA, with the highest package reaching up
+      to ₹14.5 LPA.
+  - question: >-
+      What entrance exams are accepted by Fortune Institute of International
+      Business?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)**

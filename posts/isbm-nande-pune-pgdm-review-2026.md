@@ -2,8 +2,9 @@
 title: 'ISB&M Nande Pune PGDM Review 2026: Fees, Placements, Admission & Cutoff'
 date: '2026-04-20'
 description: >-
-  Looking for ISB&M Nande Pune reviews? Explore ISB&M Pune placements 2026, PGDM
-  fees, admission process, cutoffs, and its unique lifestyle-based learning.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for ISB&M Nande Pune reviews? Explore ISB&M
+  Pune plac...
 keywords:
   - ISB&M Nande Pune review 2026
   - ISB&M Nande placements
@@ -11,6 +12,14 @@ keywords:
   - ISB&M PGDM admission process
   - ISB&M Pune cutoff 2026
   - best PGDM college in Pune
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The **[International School of Business & Media](/colleges/international-school-of-business-media) (ISB&M) Nande, Pune** is a premier B-School known for its "lifestyle-based" learning model, strong corporate connectivity, and impressive placements. Established with a vision to create dynamic corporate leaders, ISB&M Pune has consistently ranked among the top private PGDM colleges in India.
 

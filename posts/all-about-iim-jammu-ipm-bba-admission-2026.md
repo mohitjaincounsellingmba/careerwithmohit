@@ -3,9 +3,9 @@ title: 'IIM Jammu IPM Admission 2026: Fees, Placements, and JIPMAT Guide'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-
-  Everything you need to know about the 5-Year Integrated Programme in
-  Management (IPM) at IIM Jammu for 2026. Get latest on JIPMAT, fees, and
-  placements.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Everything you need to know about the 5-Year Integrated
+  Progr...
 keywords:
   - iim jammu ipm admission 2026
   - iim jammu ipmat fees
@@ -13,6 +13,14 @@ keywords:
   - jipmat 2026 exam strategy
   - iim jammu integrated mba
   - best bba program in india
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does IIM Jammu accept SAT scores for IPM?
     answer: >-
@@ -21,6 +29,7 @@ faqs:
       criteria involving SAT.
   - question: What is the intake capacity for IPM 2026?
     answer: The intake is approximately 120 seats for the 2026 batch.
+location: Delhi
 ---
 
 IIM Jammu, located in the scenic city of temples, is a prominent member of the third-generation IIMs offering the 5-Year Integrated Programme in Management (IPM). In 2026, it offers a blend of top-tier academic rigor and unique cultural exposure.

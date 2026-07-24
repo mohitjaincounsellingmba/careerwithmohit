@@ -13,6 +13,14 @@ keywords:
   - dtu usme bba admission
   - best bba college in delhi
   - dtu cuet cutoff 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Where is the DTU BBA campus located?
     answer: >-
@@ -22,6 +30,7 @@ faqs:
     answer: >-
       No, all admissions are strictly through the CUET merit list for the
       specified year.
+location: Delhi
 ---
 
 Delhi Technological University (DTU), formerly known as Delhi College of Engineering (DCE), is a premier institution known for its engineering excellence. However, its **University School of Management and Entrepreneurship (USME)** has quickly become a top destination for BBA aspirants in 2026, offering a unique blend of management and technical exposure.

@@ -1,24 +1,43 @@
 ---
-title: 'Top MBA Business Analytics Colleges in Delhi NCR 2026 — Placements & Fees'
+title: Top MBA Business Analytics Colleges in Delhi NCR 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Looking for the best MBA Business Analytics colleges in Delhi NCR? Read our 2026 guide comparing top B-schools like MDI Gurgaon, LBSIM, FORE, Great Lakes, and IMI Delhi, including fees and placements.'
+description: >-
+  Looking for the best MBA Business Analytics colleges in Delhi NCR? Read our
+  2026 guide comparing top B-schools like MDI Gurgaon, LBSIM, FORE, Great Lakes,
+  and IMI Delhi, including fees and placements.
 keywords:
   - top mba business analytics colleges in delhi ncr 2026
   - best mba business analytics in delhi ncr
   - mdi gurgaon business analytics fees
   - fore school pgdm big data analytics placements
   - lbsim delhi research and business analytics
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best B-school for PGDM Business Analytics in Delhi NCR?
     answer: >-
-      MDI Gurgaon is widely considered the top choice, offering a specialized PGDM-BA program with an average placement of around INR 27.60 LPA.
+      MDI Gurgaon is widely considered the top choice, offering a specialized
+      PGDM-BA program with an average placement of around INR 27.60 LPA.
   - question: Does LBSIM Delhi offer a specialized program in Business Analytics?
     answer: >-
-      Yes, LBSIM Delhi offers a dedicated PGDM program in Research and Business Analytics, which is highly popular among students aiming for analyst roles in consulting and financial firms.
-  - question: What is the average starting salary for Business Analytics graduates in Delhi NCR?
+      Yes, LBSIM Delhi offers a dedicated PGDM program in Research and Business
+      Analytics, which is highly popular among students aiming for analyst roles
+      in consulting and financial firms.
+  - question: >-
+      What is the average starting salary for Business Analytics graduates in
+      Delhi NCR?
     answer: >-
-      For top-tier colleges like MDI Gurgaon, the average placement is over INR 27 LPA. For mid-tier colleges like FORE and LBSIM, the average starting salary ranges from INR 12 LPA to 15 LPA.
+      For top-tier colleges like MDI Gurgaon, the average placement is over INR
+      27 LPA. For mid-tier colleges like FORE and LBSIM, the average starting
+      salary ranges from INR 12 LPA to 15 LPA.
+location: Noida
 ---
 
 Selecting the right B-school is critical if you are targeting a career in data science, quantitative decision-making, predictive modeling, or strategic business analytics. While general MBA rankings give a broad overview, analytics recruiters tend to visit campuses that have a strong tradition of quantitative studies, dedicated analytics specializations, and proximity to major corporate headquarters.

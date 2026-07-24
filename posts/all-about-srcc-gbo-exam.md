@@ -2,9 +2,9 @@
 title: 'All About SRCC GBO Exam 2026: Pattern, ROI, Cutoff & Total Marks'
 date: '2026-03-13'
 description: >-
-  Everything you need to know about the SRCC Global Business Operations (GBO)
-  entrance exam. Learn about the ROI, total marks, exam pattern, and cutoffs for
-  Shri Ram College of Commerce.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Everything you need to know about the SRCC Global
+  Business Op...
 keywords:
   - SRCC GBO exam 2026
   - SRCC GBO pattern
@@ -12,6 +12,14 @@ keywords:
   - SRCC GBO cutoff
   - Shri Ram College of Commerce MBA
   - Global Business Operations Delhi University
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Shri Ram College of Commerce (SRCC), affiliated with Delhi University, is renowned as the top commerce college in Asia. The SRCC GBO (Global Business Operations) program is an exclusive post-graduate diploma strictly equivalent to an MBA in International Business.
 

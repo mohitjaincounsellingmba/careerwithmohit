@@ -1,23 +1,39 @@
 ---
-title: "Apex University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Apex University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Apex University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Apex University? Read our
+  comprehens...
 keywords:
-  - "apex university review 2026"
-  - "apex university pgdm placements"
-  - "apex university admission cutoff"
-  - "apex university fees"
+  - apex university review 2026
+  - apex university pgdm placements
+  - apex university admission cutoff
+  - apex university fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Apex University a good option for PGDM/MBA?"
+  - question: Is Apex University a good option for PGDM/MBA?
     answer: >-
-      Yes, Apex University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Apex University?"
+      Yes, Apex University is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at Apex University?
     answer: >-
-      The average placement package at Apex University is approximately ₹4.5 LPA, with the highest package reaching up to ₹9.0 LPA.
-  - question: "What entrance exams are accepted by Apex University?"
+      The average placement package at Apex University is approximately ₹4.5
+      LPA, with the highest package reaching up to ₹9.0 LPA.
+  - question: What entrance exams are accepted by Apex University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, CUET PG for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, CUET PG for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Apex University](/colleges/apex-jaipur)**

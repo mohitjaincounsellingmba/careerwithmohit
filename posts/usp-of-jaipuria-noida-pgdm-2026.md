@@ -16,6 +16,14 @@ keywords:
   - '[Jaipuria Noida](/colleges/jaipuria-noida) PGDM fees'
   - '[Jaipuria Noida](/colleges/jaipuria-noida) review 2026'
   - best PGDM college Noida 2026
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'What is the highest package at [Jaipuria Noida](/colleges/jaipuria-noida)?'
     answer: ₹24.11 LPA for the 2026 batch.
@@ -23,6 +31,7 @@ faqs:
     answer: Yes — placing it in the top 6% of B-schools globally.
   - question: What is the total fee?
     answer: '₹16.50 Lakhs for 2026-28, with scholarships up to ₹5 Lakhs available.'
+location: Noida
 ---
 
 **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida** is one of the few private B-schools in Delhi-NCR that holds **both AACSB accreditation and a NIRF #41 ranking in Management**. For students serious about placing into top companies from a private institute, [Jaipuria Noida](/colleges/jaipuria-noida) offers a compelling mix of legacy, accreditation, and corporate reach.

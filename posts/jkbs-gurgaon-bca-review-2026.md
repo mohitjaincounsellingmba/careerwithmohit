@@ -11,6 +11,14 @@ keywords:
   - JKBS Gurgaon BCA placements
   - BCA colleges in Gurgaon with Gurugram University
   - best BCA colleges in Gurgaon 2026
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is mathematics compulsory to get admission in BCA?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       Doing an MCA provides advanced technical expertise and is often treated on
       par with a B.Tech degree, unlocking higher entry-level packages in major
       IT companies.
+location: Gurgaon
 ---
 While JK Business School (JKBS) is predominantly known for its PGDM and BBA programs, its **Bachelor of Computer Applications (BCA)** has been gaining traction among students looking for a solid foundation in IT with a professional management touch. Affiliated with Gurugram University, the JKBS BCA program offers a blend of technical academic rigor and corporate readiness.
 

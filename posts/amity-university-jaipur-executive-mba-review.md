@@ -1,16 +1,40 @@
 ---
-title: "Amity University Jaipur Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Amity University Jaipur. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Amity University Jaipur executive mba","Amity University Jaipur executive mba review","Amity University Jaipur executive mba fees","Amity University Jaipur executive mba placement","Jaipur executive mba","best executive mba in Jaipur"]
-category: "MBA"
+title: Amity University Jaipur Executive MBA Review
+date: '2026-07-22'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Read an honest review of the Executive MBA / PGDM
+  program at ...
+keywords:
+  - Amity University Jaipur executive mba
+  - Amity University Jaipur executive mba review
+  - Amity University Jaipur executive mba fees
+  - Amity University Jaipur executive mba placement
+  - Jaipur executive mba
+  - best executive mba in Jaipur
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "What is the schedule of classes for the Amity Jaipur Executive MBA?"
-    answer: "Classes are held on weekends (Saturdays and Sundays) to allow professionals to maintain their work schedules."
-  - question: "Do we need a CAT score to apply?"
-    answer: "While CAT/MAT/GMAT scores are appreciated, Amity conducts its own written assessment and interview process."
-  - question: "Are there placements for this program?"
-    answer: "Amity provides access to its centralized placement portal, though most weekend candidates leverage the degree for lateral shifts."
+  - question: What is the schedule of classes for the Amity Jaipur Executive MBA?
+    answer: >-
+      Classes are held on weekends (Saturdays and Sundays) to allow
+      professionals to maintain their work schedules.
+  - question: Do we need a CAT score to apply?
+    answer: >-
+      While CAT/MAT/GMAT scores are appreciated, Amity conducts its own written
+      assessment and interview process.
+  - question: Are there placements for this program?
+    answer: >-
+      Amity provides access to its centralized placement portal, though most
+      weekend candidates leverage the degree for lateral shifts.
+location: Delhi
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Jaipur, the Executive MBA / Executive PGDM offered by [Amity University Jaipur](/colleges/amity-university-jaipur) represents a powerful gateway to higher senior leadership positions.

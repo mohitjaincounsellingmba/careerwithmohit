@@ -1,16 +1,40 @@
 ---
-title: "Manipal University Jaipur Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Manipal University Jaipur. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Manipal University Jaipur executive mba","Manipal University Jaipur executive mba review","Manipal University Jaipur executive mba fees","Manipal University Jaipur executive mba placement","Jaipur executive mba","best executive mba in Jaipur"]
-category: "MBA"
+title: Manipal University Jaipur Executive MBA Review
+date: '2026-07-22'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Read an honest review of the Executive MBA / PGDM
+  program at ...
+keywords:
+  - Manipal University Jaipur executive mba
+  - Manipal University Jaipur executive mba review
+  - Manipal University Jaipur executive mba fees
+  - Manipal University Jaipur executive mba placement
+  - Jaipur executive mba
+  - best executive mba in Jaipur
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "Is the Manipal University Jaipur Executive MBA UGC approved?"
-    answer: "Yes, Manipal University Jaipur is a recognized state private university, and its management degrees are fully approved."
-  - question: "What are the class timings?"
-    answer: "Classes are conducted on weekends, covering Saturdays (evenings) and Sundays (full day)."
-  - question: "Is work experience mandatory?"
-    answer: "Yes, a minimum of 2 years of full-time professional experience is required to apply."
+  - question: Is the Manipal University Jaipur Executive MBA UGC approved?
+    answer: >-
+      Yes, Manipal University Jaipur is a recognized state private university,
+      and its management degrees are fully approved.
+  - question: What are the class timings?
+    answer: >-
+      Classes are conducted on weekends, covering Saturdays (evenings) and
+      Sundays (full day).
+  - question: Is work experience mandatory?
+    answer: >-
+      Yes, a minimum of 2 years of full-time professional experience is required
+      to apply.
+location: Delhi
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Jaipur, the Executive MBA / Executive PGDM offered by [Manipal University Jaipur](/colleges/manipal-university-jaipur) represents a powerful gateway to higher senior leadership positions.

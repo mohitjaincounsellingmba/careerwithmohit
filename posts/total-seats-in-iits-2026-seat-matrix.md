@@ -4,9 +4,9 @@ title: >-
   Aspirants
 date: '2026-03-24'
 description: >-
-  Planning for IIT admission? Check the total number of seats in 23 IITs for
-  2026 JoSAA counselling. Get the latest seat matrix, category-wise breakdown,
-  and previous year trends.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Planning for IIT admission? Check the total number of
+  seats i...
 keywords:
   - total seats in IIT 2026
   - IIT seat matrix JoSAA
@@ -16,6 +16,14 @@ keywords:
   - IIT admission 2026 seats
   - IIT Kharagpur seats
   - IIT Madras seat matrix
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Getting into an **Indian Institute of Technology (IIT)** is the ultimate dream for millions of engineering aspirants. However, with intense competition, knowing the exact number of seats available is crucial for planning your JoSAA counselling strategy.
 

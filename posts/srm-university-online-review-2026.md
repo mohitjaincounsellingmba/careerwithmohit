@@ -2,8 +2,9 @@
 title: 'SRM University Online Review 2026: MBA, MCA, BBA & BCA Fee Structure'
 date: '2026-04-05'
 description: >-
-  Is SRM University Online a good choice in 2026? Check the latest fees, UGC-DEB
-  status, NAAC A++ ranking, and strong South India placement reviews.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Is SRM University Online a good choice in 2026? Check
+  the lat...
 keywords:
   - SRM University Online review 2026
   - SRM online MBA fees
@@ -11,6 +12,14 @@ keywords:
   - SRM online BBA BCA
   - UGC approved online degree SRM
   - SRM online degree validity
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 **SRM University (Chennai) Online** is one of the most prominent private universities in South India. Known for its strong focus on engineering and management, its online arm brings the same academic rigor and high-tech infrastructure with the highest possible **NAAC A++ accreditation**.
 

@@ -3,9 +3,9 @@ title: 'CLAT 2026 — Exam Dates, Syllabus & Preparation Strategy'
 date: '2026-04-21'
 category: Law Admissions
 description: >-
-  Aiming for a top NLU in 2026? Get the complete breakdown of CLAT 2026. Explore
-  the latest syllabus, expected exam dates, and a monthly study plan to score
-  100+ marks.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Aiming for a top NLU in 2026? Get the complete
+  breakdown of C...
 keywords:
   - clat 2026 notification
   - clat 2026 preparation strategy
@@ -15,6 +15,14 @@ keywords:
   - clat current affairs 2026
   - how to crack clat 2026
   - clat mock test series
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is CLAT 2026 online or offline?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       Absolutely. In fact, many CLAT toppers are from Commerce and Humanities
       backgrounds as they are comfortable with general studies and business
       logic.
+location: Delhi
 ---
 
 The Common Law Admission Test (CLAT) is the gateway to 24 National Law Universities (NLUs) and over 60 premier private Law schools in India. In 2026, the competition is expected to be more intense than ever, with over 1 lakh students fighting for just 3,000+ NLU seats.

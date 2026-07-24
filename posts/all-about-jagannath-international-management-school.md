@@ -1,23 +1,46 @@
 ---
-title: "Jagannath International Management School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Jagannath International Management School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Jagannath International Management School PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Jagannath International
+  Management S...
 keywords:
-  - "jagannath international management school review 2026"
-  - "jagannath international management school pgdm placements"
-  - "jagannath international management school admission cutoff"
-  - "jagannath international management school fees"
+  - jagannath international management school review 2026
+  - jagannath international management school pgdm placements
+  - jagannath international management school admission cutoff
+  - jagannath international management school fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Jagannath International Management School a good option for PGDM/MBA?"
+  - question: Is Jagannath International Management School a good option for PGDM/MBA?
     answer: >-
-      Yes, Jagannath International Management School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Jagannath International Management School?"
+      Yes, Jagannath International Management School is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Jagannath International Management
+      School?
     answer: >-
-      The average placement package at Jagannath International Management School is approximately ₹6.7 LPA, with the highest package reaching up to ₹16.0 LPA.
-  - question: "What entrance exams are accepted by Jagannath International Management School?"
+      The average placement package at Jagannath International Management School
+      is approximately ₹6.7 LPA, with the highest package reaching up to ₹16.0
+      LPA.
+  - question: >-
+      What entrance exams are accepted by Jagannath International Management
+      School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Jagannath International Management School](/colleges/jagannath-international-management-school)**

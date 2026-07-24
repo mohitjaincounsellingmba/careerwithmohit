@@ -10,6 +10,14 @@ keywords:
   - SGBS Greater Noida placement
   - Sparsh Global fees 2026
   - Best PGDM in Greater Noida
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Sparsh Global good for placements?
     answer: >-
@@ -26,6 +34,7 @@ faqs:
       Candidates can apply through the official website using their **CAT, CMAT,
       or MAT** scores. The selection process includes a profile review and a
       personal interview focusing on your leadership potential.
+location: Noida
 ---
 
 ### 📊 Sparsh Global 2026 Snapshot

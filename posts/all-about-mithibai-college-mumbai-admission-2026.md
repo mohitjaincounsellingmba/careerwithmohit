@@ -5,9 +5,9 @@ title: >-
 date: '2026-06-19'
 category: College Reviews
 description: >-
-  Planning to apply to Mithibai College, Mumbai in 2026? Read this ultimate
-  guide covering all UG & PG courses, the selection process, cutoffs,
-  placements, fees, and an honest review of the campus life.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Planning to apply to Mithibai College, Mumbai in 2026?
+  Read t...
 keywords:
   - mithibai college mumbai admission 2026
   - mithibai college bms selection process
@@ -15,6 +15,14 @@ keywords:
   - mithibai placement review
   - best colleges in mumbai
   - mithibai college courses and fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Maths compulsory for BMS/BBA in Mithibai College?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       Starting from the recent academic sessions, BBA and BMS admissions in
       Maharashtra are governed by the State CET Cell, and candidates must appear
       for the MAH-BBA/BMS-CET to be eligible.
+location: Delhi
 ---
 
 Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (popularly known as **Mithibai College**) is one of India's most prestigious and sought-after undergraduate colleges. Located in the lively suburb of Vile Parle West in Mumbai, it is known for its stellar academics, celebrity alumni, fashion-forward crowd, and a highly competitive admission process.

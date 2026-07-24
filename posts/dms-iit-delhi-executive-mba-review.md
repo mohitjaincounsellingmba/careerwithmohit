@@ -1,16 +1,43 @@
 ---
-title: "Department of Management Studies (DMS), IIT Delhi Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Department of Management Studies (DMS), IIT Delhi. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Department of Management Studies (DMS), IIT Delhi executive mba","Department of Management Studies (DMS), IIT Delhi executive mba review","Department of Management Studies (DMS), IIT Delhi executive mba fees","Department of Management Studies (DMS), IIT Delhi executive mba placement","Delhi executive mba","best executive mba in Delhi"]
-category: "MBA"
+title: 'Department of Management Studies (DMS), IIT Delhi Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Department of
+  Management Studies (DMS), IIT Delhi. Learn about total fees, eligibility,
+  accepted entrance exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - 'Department of Management Studies (DMS), IIT Delhi executive mba'
+  - 'Department of Management Studies (DMS), IIT Delhi executive mba review'
+  - 'Department of Management Studies (DMS), IIT Delhi executive mba fees'
+  - 'Department of Management Studies (DMS), IIT Delhi executive mba placement'
+  - Delhi executive mba
+  - best executive mba in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "Can non-engineers apply for the DMS IIT Delhi Executive MBA?"
-    answer: "The program accepts candidates with a bachelor's degree in Engineering, Technology, Physical Sciences, or other allied sciences. Pure humanities or commerce graduates without a quantitative background may not meet eligibility requirements."
-  - question: "What is the duration of the DMS IIT Delhi Executive MBA?"
-    answer: "The program is structured over 3 years, comprising 9 terms, allowing working managers to balance academics with professional duties."
-  - question: "Are there placements for IIT Delhi Executive MBA?"
-    answer: "While primarily a sponsored/part-time program, the corporate relations team provides career support and networking opportunities, leading to high-profile lateral shifts."
+  - question: Can non-engineers apply for the DMS IIT Delhi Executive MBA?
+    answer: >-
+      The program accepts candidates with a bachelor's degree in Engineering,
+      Technology, Physical Sciences, or other allied sciences. Pure humanities
+      or commerce graduates without a quantitative background may not meet
+      eligibility requirements.
+  - question: What is the duration of the DMS IIT Delhi Executive MBA?
+    answer: >-
+      The program is structured over 3 years, comprising 9 terms, allowing
+      working managers to balance academics with professional duties.
+  - question: Are there placements for IIT Delhi Executive MBA?
+    answer: >-
+      While primarily a sponsored/part-time program, the corporate relations
+      team provides career support and networking opportunities, leading to
+      high-profile lateral shifts.
+location: Delhi
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Department of Management Studies (DMS), IIT Delhi](/colleges/iit-delhi) represents a powerful gateway to higher senior leadership positions.

@@ -5,9 +5,9 @@ title: >-
 date: '2026-05-10'
 category: Online MBA
 description: >-
-  Is SRM University online MBA worth it in 2026? Check real fees (₹1,89,000
-  total), 9 specializations, NAAC A++ rating, UGC-DEB status, and honest
-  placement assessment before enrolling.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Is SRM University online MBA worth it in 2026? Check
+  real fee...
 keywords:
   - SRM University online MBA review 2026
   - SRMIST online MBA fees 2026
@@ -16,6 +16,14 @@ keywords:
   - SRM University NAAC A++ online MBA
   - SRM online MBA placement 2026
   - is SRM online MBA worth it
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the difference between SRM on-campus and online MBA?
     answer: >-
@@ -35,6 +43,7 @@ faqs:
       SRM focuses on niche specializations (AI, Healthcare) and has stronger
       tech sector ties. Amity offers more specializations (15+), while CU Online
       is more affordable. Compare based on your career target.
+location: Delhi
 ---
 
 **SRM Institute of Science and Technology (SRMIST)** — one of India's most reputed private universities — offers an online MBA program through **SRM Online** (srmonline.in). With a **NAAC A++ grade** and AICTE recognition, it is a credible option for working professionals seeking a branded degree in 2026.

@@ -18,13 +18,21 @@ tags:
   - PGDM
   - Top Colleges
 description: >-
-  Great Lakes Institute of Management (GLIM) has rapidly cemented its position
-  as one of India's top private B-schools since its inception in 2004. With
-  two...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Great Lakes Institute of Management (GLIM) has
+  rapid...
 keywords:
   - career counselling
   - admissions 2026
   - placements 2025
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -40,6 +48,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Gurgaon
 ---
 **Great Lakes Institute of Management (GLIM)** has rapidly cemented its position as one of India's top private B-schools since its inception in 2004. With two stellar campuses in Chennai and Gurgaon, Great Lakes is famous for its analytics-heavy curriculum and its pioneering 1-year fast-track management program.
 

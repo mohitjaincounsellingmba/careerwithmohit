@@ -1,23 +1,43 @@
 ---
-title: "Galgotias Gorakhpur Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Galgotias Gorakhpur Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Galgotias Gorakhpur Business School PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Looking for admission to
+  Galgotias Gora...
 keywords:
-  - "galgotias gorakhpur business school review 2026"
-  - "galgotias gorakhpur business school pgdm placements"
-  - "galgotias gorakhpur business school admission cutoff"
-  - "galgotias gorakhpur business school fees"
+  - galgotias gorakhpur business school review 2026
+  - galgotias gorakhpur business school pgdm placements
+  - galgotias gorakhpur business school admission cutoff
+  - galgotias gorakhpur business school fees
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Galgotias Gorakhpur Business School a good option for PGDM/MBA?"
+  - question: Is Galgotias Gorakhpur Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Galgotias Gorakhpur Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Galgotias Gorakhpur Business School?"
+      Yes, Galgotias Gorakhpur Business School is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: >-
+      What is the average package offered at Galgotias Gorakhpur Business
+      School?
     answer: >-
-      The average placement package at Galgotias Gorakhpur Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.
-  - question: "What entrance exams are accepted by Galgotias Gorakhpur Business School?"
+      The average placement package at Galgotias Gorakhpur Business School is
+      approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.
+  - question: What entrance exams are accepted by Galgotias Gorakhpur Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Noida
 ---
 
 ### **College Review: [Galgotias Gorakhpur Business School](/colleges/galgotias-gorakhpur-business-school)**

@@ -1,23 +1,39 @@
 ---
-title: "Lloyd Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Lloyd Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Lloyd Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Looking for admission to Lloyd
+  Business...
 keywords:
-  - "lloyd business school review 2026"
-  - "lloyd business school pgdm placements"
-  - "lloyd business school admission cutoff"
-  - "lloyd business school fees"
+  - lloyd business school review 2026
+  - lloyd business school pgdm placements
+  - lloyd business school admission cutoff
+  - lloyd business school fees
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Lloyd Business School a good option for PGDM/MBA?"
+  - question: Is Lloyd Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Lloyd Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Lloyd Business School?"
+      Yes, Lloyd Business School is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at Lloyd Business School?
     answer: >-
-      The average placement package at Lloyd Business School is approximately ₹6.0 LPA, with the highest package reaching up to ₹18.0 LPA.
-  - question: "What entrance exams are accepted by Lloyd Business School?"
+      The average placement package at Lloyd Business School is approximately
+      ₹6.0 LPA, with the highest package reaching up to ₹18.0 LPA.
+  - question: What entrance exams are accepted by Lloyd Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Noida
 ---
 
 ### **College Review: [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)**

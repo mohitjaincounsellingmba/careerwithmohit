@@ -1,16 +1,40 @@
 ---
-title: "IMS Ghaziabad Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at IMS Ghaziabad. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["IMS Ghaziabad executive mba","IMS Ghaziabad executive mba review","IMS Ghaziabad executive mba fees","IMS Ghaziabad executive mba placement","Ghaziabad executive mba","best executive mba in Ghaziabad"]
-category: "MBA"
+title: IMS Ghaziabad Executive MBA Review
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at IMS Ghaziabad.
+  Learn about total fees, eligibility, accepted entrance exams, average
+  packages, pros, cons, and expert verdicts.
+keywords:
+  - IMS Ghaziabad executive mba
+  - IMS Ghaziabad executive mba review
+  - IMS Ghaziabad executive mba fees
+  - IMS Ghaziabad executive mba placement
+  - Ghaziabad executive mba
+  - best executive mba in Ghaziabad
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "What is the duration of the IMS Ghaziabad Executive program?"
-    answer: "It is a fast-track 15-month program designed to complete core studies in 12 months with a 3-month dissertation project."
-  - question: "What is the minimum work experience required for IMS?"
-    answer: "A minimum of 5 years of full-time professional experience is required to apply."
-  - question: "Are there scholarship opportunities?"
-    answer: "IMS Ghaziabad offers merit-based scholarships based on past academics and CAT/XAT score performance."
+  - question: What is the duration of the IMS Ghaziabad Executive program?
+    answer: >-
+      It is a fast-track 15-month program designed to complete core studies in
+      12 months with a 3-month dissertation project.
+  - question: What is the minimum work experience required for IMS?
+    answer: >-
+      A minimum of 5 years of full-time professional experience is required to
+      apply.
+  - question: Are there scholarship opportunities?
+    answer: >-
+      IMS Ghaziabad offers merit-based scholarships based on past academics and
+      CAT/XAT score performance.
+location: Ghaziabad
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Ghaziabad, the Executive MBA / Executive PGDM offered by [IMS Ghaziabad](/colleges/ims-ghaziabad) represents a powerful gateway to higher senior leadership positions.

@@ -4,8 +4,9 @@ title: >-
   Excellence
 date: '2026-03-14'
 description: >-
-  Reviewing Lexicon MILE Pune: Explore the 2025 placement surge, curated fees,
-  and its unique Global MBA and PGDM offerings.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Reviewing Lexicon MILE Pune: Explore the 2025 placement
+  surge...
 keywords:
   - Lexicon MILE review 2025
   - Lexicon MILE placements
@@ -13,6 +14,14 @@ keywords:
   - Lexicon MILE Pune reviews
   - best PGDM college in Pune
   - Lexicon MILE average package 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (MILE) is part of the Lexicon Group, which is known for its strong focus on "Leadership" and personalized learning. Its recent placement reports have put it on the map as a rising powerhouse.
 

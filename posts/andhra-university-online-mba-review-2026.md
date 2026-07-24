@@ -3,13 +3,22 @@ title: 'Andhra University Online MBA Review 2026: Fees, Placements & Legitimacy'
 date: '2026-03-26'
 category: Online MBA
 description: >-
-  Looking for an affordable online MBA? Read our 2026 review of Andhra
-  University Online MBA. Check fees, NAAC A grade status, and career scope.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for an affordable online MBA? Read our 2026
+  review of...
 keywords:
   - Andhra University online MBA review
   - Andhra University online fees
   - lowest fee online MBA India
   - Andhra University distance MBA review
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -26,6 +35,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Established in 1926, **Andhra University** is one of India's oldest and most prestigious state universities. Its entry into online education has democratized high-quality management degrees, offering one of the most budget-friendly **Online MBA** programs in the country.
 

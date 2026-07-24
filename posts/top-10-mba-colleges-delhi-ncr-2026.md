@@ -14,6 +14,14 @@ keywords:
   - imt ghaziabad cutoff
   - delhi ncr top b-schools
   - mba admission delhi 2026
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are there top MBA colleges in Delhi NCR that accept MAT/CMAT?
     answer: >-
@@ -26,6 +34,7 @@ faqs:
       (for specific seats) and others may have profile-based or management quota
       admissions. Read our [Direct MBA Admission
       Guide](/blog/direct-mba-admission-india) for more details.
+location: Noida
 ---
 
 ### [InquiryCard title="Targeting Delhi NCR B-Schools?" description="Confused between MDI, IMI, FORE, or LBSIM? Get a personalized preference list based on your CAT/XAT score and budget." cta="Get Delhi Admission Strategy" type="career"]

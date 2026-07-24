@@ -1,23 +1,39 @@
 ---
-title: "IILM University, Gurgaon PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to IILM University, Gurgaon? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'IILM University, Gurgaon PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to IILM University, Gurgaon? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "iilm university, gurgaon review 2026"
-  - "iilm university, gurgaon pgdm placements"
-  - "iilm university, gurgaon admission cutoff"
-  - "iilm university, gurgaon fees"
+  - 'iilm university, gurgaon review 2026'
+  - 'iilm university, gurgaon pgdm placements'
+  - 'iilm university, gurgaon admission cutoff'
+  - 'iilm university, gurgaon fees'
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is IILM University, Gurgaon a good option for PGDM/MBA?"
+  - question: 'Is IILM University, Gurgaon a good option for PGDM/MBA?'
     answer: >-
-      Yes, IILM University, Gurgaon is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at IILM University, Gurgaon?"
+      Yes, IILM University, Gurgaon is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: 'What is the average package offered at IILM University, Gurgaon?'
     answer: >-
-      The average placement package at IILM University, Gurgaon is approximately ₹8.6 LPA, with the highest package reaching up to ₹26.0 LPA.
-  - question: "What entrance exams are accepted by IILM University, Gurgaon?"
+      The average placement package at IILM University, Gurgaon is approximately
+      ₹8.6 LPA, with the highest package reaching up to ₹26.0 LPA.
+  - question: 'What entrance exams are accepted by IILM University, Gurgaon?'
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Gurgaon
 ---
 
 ### **College Review: [IILM University, Gurgaon](/colleges/iilm-gurgaon)**

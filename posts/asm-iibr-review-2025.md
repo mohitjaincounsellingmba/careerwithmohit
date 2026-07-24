@@ -2,8 +2,9 @@
 title: '[ASM IIBR](/colleges/asm-iibr) Pune Review 2025: Specialized PGDM Training'
 date: '2026-03-14'
 description: >-
-  Thinking of [ASM IIBR](/colleges/asm-iibr)? Explore 2025 PGDM placements,
-  specialized corporate fees, and the ASM group's academic trust in Pune.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Thinking of [ASM IIBR](/colleges/asm-iibr)? Explore
+  2025 PGDM...
 keywords:
   - '[ASM IIBR](/colleges/asm-iibr) Pune review 2025'
   - '[ASM IIBR](/colleges/asm-iibr) placements'
@@ -11,6 +12,14 @@ keywords:
   - '[ASM IIBR](/colleges/asm-iibr) vs IBMR'
   - 'PGDM in [ASM IIBR](/colleges/asm-iibr)'
   - '[ASM IIBR](/colleges/asm-iibr) average package 2025'
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 ASM's Institute of International Business and Research (IIBR) is the specialized PGDM arm of the ASM group. It focuses on international business standards and high-growth industry niches.
 

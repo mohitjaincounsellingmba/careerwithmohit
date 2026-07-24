@@ -3,10 +3,9 @@ title: 'Top MBA Colleges in Kolkata 2026 — Fees, Placements & ROI'
 date: '2026-04-21'
 category: MBA Admissions
 description: >-
-  Planning an MBA in Kolkata? Compare the best B-schools like [IIM
-  Calcutta](/colleges/iim-calcutta), VGSOM, and [IMI
-  Kolkata](/colleges/imi-kolkata). Check 2026 fees, CAT/XAT cutoffs, and
-  verified placement packages for East India.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Planning an MBA in Kolkata? Compare the best B-schools
+  like [...
 keywords:
   - top mba colleges in kolkata 2026
   - best b-schools kolkata
@@ -17,6 +16,14 @@ keywords:
   - direct admission mba kolkata
   - mba kolkata under 10 lakhs
   - vgsom iit kharagpur mba fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the JEMAT exam?
     answer: >-
@@ -37,6 +44,7 @@ faqs:
     answer: >-
       Tier-1 closes by December/January. State colleges through JEMAT continue
       their process until June/July.
+location: Delhi
 ---
 
 Kolkata, the "City of Joy" and the gateway to East India, is home to India's first IIM—[IIM Calcutta](/colleges/iim-calcutta). For MBA students, Kolkata offers a unique combination of rich intellectual heritage and proximity to major industrial clusters in West Bengal, Odisha, and Bihar.

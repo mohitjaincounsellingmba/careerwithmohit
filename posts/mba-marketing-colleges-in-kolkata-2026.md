@@ -111,7 +111,7 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Why is [IIM Calcutta](/colleges/iim-calcutta) considered excellent for Marketing and Strategy?
-While famed for finance, IIM Calcutta's marketing department features elite professors and its graduates bag top roles in multinational FMCG brands and international consulting firms.
+While famed for finance, [IIM Calcutta](/colleges/iim-calcutta)'s marketing department features elite professors and its graduates bag top roles in multinational FMCG brands and international consulting firms.
 
 ### What is the fee structure for IISWBM Kolkata?
 IISWBM offers highly subsidized fees (approx. INR 6.0 Lakhs total) and is popular for its high ROI.

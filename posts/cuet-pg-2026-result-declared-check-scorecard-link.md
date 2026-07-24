@@ -4,9 +4,9 @@ title: >-
   Toppers at exams.nta.nic.in
 date: '2026-04-25'
 description: >-
-  The National Testing Agency (NTA) has officially declared the CUET PG 2026
-  results. Over 3.45 lakh candidates appeared for 157 subjects. Check your
-  scorecard and subject-wise toppers here.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. The National Testing Agency (NTA) has officially
+  declared the...
 keywords:
   - CUET PG result 2026
   - NTA CUET PG scorecard download
@@ -15,6 +15,14 @@ keywords:
   - how to check CUET PG result
   - CUET PG official website link
   - MBA admission via CUET PG 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The **National Testing Agency (NTA)** has officially declared the **CUET PG 2026 Results today, April 24, 2026**. Candidates who appeared for the Common University Entrance Test (Postgraduate) can now download their scorecards from the official website.
 

@@ -15,6 +15,14 @@ keywords:
   - Bihar education loan 2026 for PGDM
   - DRCC approved colleges Bangalore
   - how to apply for BSCC for MBA outside Bihar
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is the Bihar Student Credit Card really interest-free in 2026?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       your grace period.
   - question: How long does the verification process take?
     answer: Usually **45 to 60 days** from the date of your DRCC office visit.
+location: Noida
 ---
 
 If you are a student from Bihar planning to pursue an MBA in the **2026-28 session**, the **Bihar Student Credit Card (BSCC)** scheme is your most powerful financial tool. Managed through **District Registration & Counselling Centres (DRCC)**, it has recently been updated to offer even better terms for students.

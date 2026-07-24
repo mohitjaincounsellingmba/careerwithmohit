@@ -2,9 +2,9 @@
 title: 'How to Clear SRM JEE 2026 (SRMJEEE): Complete Strategy, Syllabus & Tips'
 date: '2026-04-28'
 description: >-
-  Detailed guide on how to crack SRMJEEE 2026. Covers exam pattern, subject-wise
-  preparation strategy, best books, time management tips, and exam day secrets
-  to secure B.Tech admission at SRM University.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Detailed guide on how to crack SRMJEEE 2026. Covers
+  exam patt...
 keywords:
   - how to clear SRM JEE 2026
   - SRMJEEE preparation strategy
@@ -14,6 +14,14 @@ keywords:
   - SRM University BTech admission 2026
   - SRMJEEE subject wise preparation
   - SRM JEE marking scheme
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 The **SRM Joint Engineering Entrance Examination (SRMJEEE)** is one of India's most competitive private university entrance exams — conducted by **SRM Institute of Science and Technology (SRMIST)** for admission to its B.Tech programmes across campuses in Kattankulathur (Chennai), Ramapuram, Vadapalani, and Delhi-NCR.
 

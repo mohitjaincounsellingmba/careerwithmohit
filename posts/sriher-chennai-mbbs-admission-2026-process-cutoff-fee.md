@@ -1,20 +1,36 @@
 ---
-title: "Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai
+  MBBS Admission 2026: Process, NEET Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Sri
+  Ramachandra Ins...
 keywords:
-  - "Sri Ramachandra Medical College MBBS admission 2026"
-  - "Sri Ramachandra Medical College fee structure"
-  - "Sri Ramachandra Medical College NEET cutoff 2026"
-  - "Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai MBBS process"
-  - "MBBS fees private medical college"
+  - Sri Ramachandra Medical College MBBS admission 2026
+  - Sri Ramachandra Medical College fee structure
+  - Sri Ramachandra Medical College NEET cutoff 2026
+  - >-
+    Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai
+    MBBS process
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the fee structure for Sri Ramachandra Medical College MBBS?"
-    answer: "The annual tuition fee is ₹25 Lakhs per year."
-  - question: "How many MBBS seats are available in SRIHER Chennai?"
-    answer: "SRIHER has a total intake of 250 MBBS seats."
-  - question: "What score is needed for Sri Ramachandra MBBS admission?"
-    answer: "Expected NEET score is between 380 and 450 in MCC Deemed Counselling."
+  - question: What is the fee structure for Sri Ramachandra Medical College MBBS?
+    answer: The annual tuition fee is ₹25 Lakhs per year.
+  - question: How many MBBS seats are available in SRIHER Chennai?
+    answer: SRIHER has a total intake of 250 MBBS seats.
+  - question: What score is needed for Sri Ramachandra MBBS admission?
+    answer: Expected NEET score is between 380 and 450 in MCC Deemed Counselling.
+location: Delhi
 ---
 
 Planning your medical career and targeting **Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, Sri Ramachandra Medical College offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

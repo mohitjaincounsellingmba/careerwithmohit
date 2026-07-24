@@ -2,9 +2,9 @@
 title: 'All About CLAT Exam 2026: Pattern, Eligibility, Top NLUs & Preparation'
 date: '2026-03-16'
 description: >-
-  Your comprehensive guide to the Common Law Admission Test (CLAT). Explore the
-  exam pattern, eligibility criteria, top NLUs, and sectional breakdown for 2026
-  admissions.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Your comprehensive guide to the Common Law Admission
+  Test (CL...
 keywords:
   - CLAT exam 2026
   - CLAT pattern
@@ -12,6 +12,14 @@ keywords:
   - top NLUs in India
   - CLAT syllabus 2026
   - Consortium of NLUs
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which entrance exams are required for LLB admissions in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       Law graduates can practice in courts, join corporate law firms as legal
       advisors, prepare for judicial services, work in NGOs, or join public
       sector undertakings (PSUs).
+location: Delhi
 ---
 The Common Law Admission Test (CLAT) is the premier national-level entrance exam for Law in India. It is the primary gateway for admission to 24 National Law Universities (NLUs) and several other top-tier law schools across the country. If you aspire to build a career in Corporate Law, Litigation, or the Judiciary, cracking CLAT is your first major milestone.
 

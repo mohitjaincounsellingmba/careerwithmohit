@@ -4,9 +4,9 @@ title: >-
   upresults.nic.in
 date: '2026-04-23'
 description: >-
-  UPMSP has officially declared the UP Board Class 10th (High School) and Class
-  12th (Intermediate) results for 2026. Overall pass percentage for Class 10 is
-  90.42% and for Class 12 is 80.38%.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. UPMSP has officially declared the UP Board Class 10th
+  (High S...
 keywords:
   - UP Board 12th result 2026
   - UP Board 10th result 2026
@@ -15,6 +15,14 @@ keywords:
   - check UP Board inter result 2026
   - how to check UP board high school result
   - UP Board 12th marksheet download
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) has officially declared the **UP Board Class 10 (High School) and Class 12 (Intermediate) Results 2026 today, April 23, 2026, at 4:00 PM**. Millions of students who appeared for the examinations in February and March can now access their digital marksheets online.
 

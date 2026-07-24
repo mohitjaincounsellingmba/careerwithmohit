@@ -14,6 +14,14 @@ keywords:
   - Lloyd Greater Noida placement 2025
   - Lloyd faculty review
   - IBM collaboration B-school India
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Noida
 ---
 ### **College Review: [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)**
 *   **Industrial Tie-ups**: Famous for its specialization collaborations with giants like IBM for Supply Chain and Business Analytics.

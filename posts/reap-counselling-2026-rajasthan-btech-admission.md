@@ -4,9 +4,9 @@ title: >-
   Admission)
 date: '2026-03-24'
 description: >-
-  Everything you need to know about Rajasthan Engineering Admission Process
-  (REAP) 2026. Check the latest registration dates, eligibility, participating
-  colleges (MBM, RTU, SKIT), and step-by-step counselling guide.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Everything you need to know about Rajasthan Engineering
+  Admis...
 keywords:
   - REAP Counselling 2026 dates
   - Rajasthan BTech admission 2026
@@ -15,6 +15,14 @@ keywords:
   - MBM Jodhpur BTech admission
   - SKIT Jaipur cutoff 2026
   - RTU Kota counselling REAP
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Who can apply for REAP 2026?
     answer: >-
@@ -26,6 +34,7 @@ faqs:
     answer: >-
       MBM Jodhpur is traditionally considered the top-ranked preference followed
       by RTU Kota and CTAE Udaipur.
+location: Delhi
 ---
 
 The **Rajasthan Engineering Admission Process (REAP) 2026** is the centralized state-level counselling held for admission into B.Tech/B.E. and B.Arch programs in Rajasthan. Conducted by the **Centre for Electronic Governance (CEG), Rajasthan**, REAP is the gateway to all top government and private engineering colleges in the state, including the prestigious MBM Jodhpur and RTU Kota.

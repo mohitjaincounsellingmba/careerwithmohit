@@ -2,9 +2,9 @@
 title: 'How to Crack NMAT 2026: 90-Day Strategy for a 240+ Score'
 date: '2026-05-12'
 description: >-
-  Aiming for [NMIMS Mumbai](/colleges/nmims-mumbai)? Learn the proven 90-day
-  strategy to score 240+ in NMAT 2026. Detailed sectional breakdown, time
-  management tips, and best resources.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Aiming for [NMIMS Mumbai](/colleges/nmims-mumbai)?
+  Learn the ...
 keywords:
   - NMAT 2026 preparation strategy
   - how to score 240 in NMAT
@@ -12,6 +12,14 @@ keywords:
   - NMIMS Mumbai NMAT cutoff
   - NMAT adaptive test strategy
   - best NMAT mock tests
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The NMAT by GMAC™ is one of the most student-friendly entrance exams in India, but don't let its "friendly" reputation fool you. To get into the prestigious **[NMIMS Mumbai](/colleges/nmims-mumbai)**, you need a score of **240+** (scaled), which requires a unique blend of speed, accuracy, and strategic decision-making.
 

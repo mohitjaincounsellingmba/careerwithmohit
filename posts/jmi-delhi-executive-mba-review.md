@@ -1,16 +1,41 @@
 ---
-title: "Jamia Millia Islamia (JMI), Delhi Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Jamia Millia Islamia (JMI), Delhi. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Jamia Millia Islamia (JMI), Delhi executive mba","Jamia Millia Islamia (JMI), Delhi executive mba review","Jamia Millia Islamia (JMI), Delhi executive mba fees","Jamia Millia Islamia (JMI), Delhi executive mba placement","Delhi executive mba","best executive mba in Delhi"]
-category: "MBA"
+title: 'Jamia Millia Islamia (JMI), Delhi Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Jamia Millia
+  Islamia (JMI), Delhi. Learn about total fees, eligibility, accepted entrance
+  exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - 'Jamia Millia Islamia (JMI), Delhi executive mba'
+  - 'Jamia Millia Islamia (JMI), Delhi executive mba review'
+  - 'Jamia Millia Islamia (JMI), Delhi executive mba fees'
+  - 'Jamia Millia Islamia (JMI), Delhi executive mba placement'
+  - Delhi executive mba
+  - best executive mba in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "What is the selection process for Jamia Millia Islamia Executive MBA?"
-    answer: "Candidates must clear the JMI written entrance exam, followed by a Group Discussion and a Personal Interview."
-  - question: "Is Jamia's Executive MBA approved by UGC?"
-    answer: "Yes, the Executive MBA at Jamia Millia Islamia is fully approved by the University Grants Commission (UGC) and recognized across government and corporate sectors."
-  - question: "What are the class timings?"
-    answer: "Classes are conducted during weekends (Saturdays and Sundays) at the Faculty of Management Studies building on JMI campus."
+  - question: What is the selection process for Jamia Millia Islamia Executive MBA?
+    answer: >-
+      Candidates must clear the JMI written entrance exam, followed by a Group
+      Discussion and a Personal Interview.
+  - question: Is Jamia's Executive MBA approved by UGC?
+    answer: >-
+      Yes, the Executive MBA at Jamia Millia Islamia is fully approved by the
+      University Grants Commission (UGC) and recognized across government and
+      corporate sectors.
+  - question: What are the class timings?
+    answer: >-
+      Classes are conducted during weekends (Saturdays and Sundays) at the
+      Faculty of Management Studies building on JMI campus.
+location: Delhi
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Jamia Millia Islamia (JMI), Delhi](/colleges/jamia-millia-islamia) represents a powerful gateway to higher senior leadership positions.

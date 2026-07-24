@@ -2,9 +2,9 @@
 title: 'JEE Main 4 April 2026 Answer Key & Exam Analysis: Shift 1 & 2 Question Paper'
 date: '2026-04-04'
 description: >-
-  In-depth analysis of JEE Main 4 April 2026 (Session 2) exam. Get memory-based
-  answer keys, difficulty levels for Shift 1 and Shift 2, and subject-wise
-  breakdown.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. In-depth analysis of JEE Main 4 April 2026 (Session 2)
+  exam. ...
 keywords:
   - JEE Main 4 April 2026 answer key
   - JEE Main 4 April shift 1 analysis
@@ -12,6 +12,14 @@ keywords:
   - JEE Main 2026 memory based paper
   - JEE Main April 4 question paper
   - JEE Main 2026 answer key download
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 The **JEE Main 2026 (Session 2)** examinations for April 4, 2026, have been successfully conducted by the National Testing Agency (NTA). As thousands of aspirants appeared for the exam across India, early reports from students and experts suggest a **moderate overall difficulty level** for both Shift 1 and Shift 2.
 

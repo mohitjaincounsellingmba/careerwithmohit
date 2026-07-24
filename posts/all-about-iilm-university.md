@@ -9,6 +9,14 @@ keywords:
   - IILM MBA placements 2025
   - IILM infrastructure
   - IILM Lodhi Road vs Gurugram
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -25,6 +33,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Noida
 ---
 ### **College Review: IILM University**
 *   **Institutional Legacy**: With over 30 years of excellence, IILM is a well-established name in management education.

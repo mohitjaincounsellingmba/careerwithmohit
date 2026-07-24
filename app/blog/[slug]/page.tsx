@@ -25,6 +25,37 @@ function cleanMarkdown(text: string | undefined): string {
     .trim();
 }
 
+function detectGeoFocus(title: string, content: string, keywords: string[]): { isDelhiNcr: boolean; specificLocation?: string } {
+  const text = `${title} ${content} ${keywords.join(" ")}`.toLowerCase();
+  
+  if (text.includes("greater noida") || text.includes("noida")) {
+    return { isDelhiNcr: true, specificLocation: "Noida, Greater Noida, Delhi NCR" };
+  }
+  if (text.includes("gurgaon") || text.includes("gurugram")) {
+    return { isDelhiNcr: true, specificLocation: "Gurgaon, Delhi NCR" };
+  }
+  if (text.includes("ghaziabad")) {
+    return { isDelhiNcr: true, specificLocation: "Ghaziabad, Delhi NCR" };
+  }
+  if (text.includes("faridabad")) {
+    return { isDelhiNcr: true, specificLocation: "Faridabad, Delhi NCR" };
+  }
+  if (
+    text.includes("delhi") || 
+    text.includes("ncr") || 
+    text.includes("ggsipu") || 
+    text.includes("ipu") || 
+    text.includes("janakpuri") || 
+    text.includes("kalkaji") || 
+    text.includes("rohini") || 
+    text.includes("vips")
+  ) {
+    return { isDelhiNcr: true, specificLocation: "Delhi NCR" };
+  }
+  
+  return { isDelhiNcr: false };
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const postData = getPostData(slug);
@@ -47,10 +78,22 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // Dynamic OG image: if postData.image is specified, use it. Otherwise fallback to /og-image.webp.
   const ogImageUrl = postData.image || "/og-image.webp";
 
+  const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || []);
+  const localKeywords = geoResult.isDelhiNcr && geoResult.specificLocation
+    ? [
+        `${geoResult.specificLocation} Colleges`,
+        `Best Colleges in ${geoResult.specificLocation}`,
+        `${geoResult.specificLocation} Admissions 2026`,
+        `Direct Admission in ${geoResult.specificLocation}`,
+        `Top Colleges in ${geoResult.specificLocation}`,
+        "Delhi NCR College Counselling"
+      ]
+    : [];
+
   return {
     title: postTitle,
     description: postDescription,
-    keywords: [...cleanedKeywords, "MBA Admissions 2026", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"],
+    keywords: [...cleanedKeywords, ...localKeywords, "MBA Admissions 2026", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"],
     openGraph: {
       title: postTitle,
       description: postDescription,
@@ -103,7 +146,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     ? (postData.image.startsWith('http') ? postData.image : `https://www.careerwithmohit.online${postData.image}`)
     : `https://www.careerwithmohit.online/og-image.webp`;
 
-  const articleData = {
+  const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || []);
+
+  const articleData: any = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": cleanedTitle,
@@ -129,6 +174,13 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       "@id": `https://www.careerwithmohit.online/blog/${slug}`
     }
   };
+
+  if (geoResult.isDelhiNcr) {
+    articleData.contentLocation = {
+      "@type": "Place",
+      "name": geoResult.specificLocation || "Delhi NCR, India"
+    };
+  }
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",

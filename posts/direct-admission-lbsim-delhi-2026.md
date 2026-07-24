@@ -11,6 +11,14 @@ keywords:
   - LBSIM Delhi PGDM fees 2026
   - Lal Bahadur Shastri Institute of Management admission
   - direct admission in LBSIM
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does LBSIM Delhi have a management quota?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
     answer: >-
       No, it is a transparent, merit-linked process conducted through official
       institutional channels.
+location: Delhi
 ---
 
 Lal Bahadur Shastri Institute of Management (LBSIM), Delhi, is an elite B-school known for its academic excellence, ethics-based education, and high-ROI programs. Located in Dwarka, New Delhi, LBSIM is a top choice for students focusing on Finance and General Management. For the 2026-28 batch, **Direct Admission in LBSIM Delhi** is a merit-linked institutional process.

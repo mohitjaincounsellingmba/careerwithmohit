@@ -11,6 +11,14 @@ keywords:
   - direct mba admission low fees high placement
   - JIMS Rohini direct admission
   - NDIM management quota
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in top Delhi colleges without CAT/MAT?
     answer: >-
@@ -33,6 +41,7 @@ faqs:
       **GL Bajaj** and **Accurate Institute** in Greater Noida offer some of the
       lowest tuition fees (under ₹6 Lakhs) while maintaining solid average
       placement packages (₹6-8 LPA).
+location: Noida
 ---
 
 ### [InquiryCard title="Looking for Direct Admission in Delhi NCR?" description="Skip the entrance exam stress. Get expert guidance and profile-based direct admission in top High-ROI B-Schools across Delhi, Noida, and Gurgaon." cta="Check Your Eligibility Now" type="career"]

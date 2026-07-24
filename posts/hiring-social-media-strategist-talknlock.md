@@ -2,8 +2,9 @@
 title: 'Hiring: Social Media Strategist at Talknlock - Jaipur, RJ'
 date: '2026-03-22'
 description: >-
-  Apply for the Social Media Strategist role at Talknlock. Salary: ₹4L -
-  ₹6L/Year. Experience: 2-3 Years. Verified referral link for 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Apply for the Social Media Strategist role at
+  Talknlock. Sala...
 keywords:
   - Social Media Strategist jobs
   - Talknlock recruitment
@@ -11,6 +12,14 @@ keywords:
   - 'jobs in Jaipur, RJ'
   - OptimHire referral jobs
   - 2026 career opportunities
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
+location: Delhi
 ---
 Are you looking for a high-impact role in the industry? **Talknlock** is hiring a **Social Media Strategist** for their **Jaipur, RJ** team. This is a premium opportunity with a verified referral link to fast-track your application.
 

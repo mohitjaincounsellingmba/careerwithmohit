@@ -15,12 +15,20 @@ tags:
   - IIM PGPX
   - Study in India
   - GMAT Focus Edition
-description: "\U0001F4CA Quick GMAT 2026 Snapshot for Indian B-Schools | Business School | Primary Program | GMAT Type Accepted | Approx. Cutoff (Focus) | | :--- | :--- | :--- |..."
+description: "Discover rankings, direct admission, fees, and placement reports for top colleges in Gurgaon, Delhi NCR. \U0001F4CA Quick GMAT 2026 Snapshot for Indian B-Schools | B..."
 keywords:
   - MBA admission 2026
   - best MBA colleges
   - MBA placements
   - CAT preparation
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get into IIM with GMAT?
     answer: >-
@@ -37,6 +45,7 @@ faqs:
       XLRI accepts GMAT for its **PGDM (General Management)** program, which is
       a 15-month executive course. For the flagship BM and HRM programs, only
       XAT and GMAT (for NRIs) are accepted.
+location: Gurgaon
 ---
 
 ### 📊 Quick GMAT 2026 Snapshot for Indian B-Schools

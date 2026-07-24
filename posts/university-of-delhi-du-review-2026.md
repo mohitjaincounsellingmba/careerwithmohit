@@ -10,6 +10,14 @@ keywords:
   - DU placement 2026
   - Delhi University fees
   - DU hostel admission
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -26,6 +34,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 University of Delhi (DU) remains one of India's most prestigious and sought-after institutions. Renowned for its vibrant campus life, esteemed faculty, and excellent academic programs, DU continues to attract lakhs of students nationwide. If you are planning for admission in 2026, here is everything you need to know about fees, placements, cutoffs, and hostels.
 

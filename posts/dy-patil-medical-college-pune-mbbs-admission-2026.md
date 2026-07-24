@@ -1,20 +1,34 @@
 ---
-title: "Dr. D. Y. Patil Vidyapeeth, Pune MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Dr. D. Y. Patil Vidyapeeth, Pune. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Dr. D. Y. Patil Vidyapeeth, Pune MBBS Admission 2026: Process, NEET Cutoff &
+  Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Dr. D. Y.
+  Patil Vid...
 keywords:
-  - "DPU Medical College Pune MBBS admission 2026"
-  - "DPU Medical College Pune fee structure"
-  - "DPU Medical College Pune NEET cutoff 2026"
-  - "Dr. D. Y. Patil Vidyapeeth, Pune MBBS process"
-  - "MBBS fees private medical college"
+  - DPU Medical College Pune MBBS admission 2026
+  - DPU Medical College Pune fee structure
+  - DPU Medical College Pune NEET cutoff 2026
+  - 'Dr. D. Y. Patil Vidyapeeth, Pune MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the tuition fee for DY Patil Pune MBBS?"
-    answer: "The tuition fee starts at around ₹25 Lakhs to ₹26.5 Lakhs per year."
-  - question: "Is DY Patil Pune approved by NMC?"
-    answer: "Yes, it is fully recognized by the National Medical Commission (NMC)."
-  - question: "What score is required for DY Patil Pune MBBS seat?"
-    answer: "Expected NEET score is 250-350 in MCC Deemed Counselling."
+  - question: What is the tuition fee for DY Patil Pune MBBS?
+    answer: The tuition fee starts at around ₹25 Lakhs to ₹26.5 Lakhs per year.
+  - question: Is DY Patil Pune approved by NMC?
+    answer: 'Yes, it is fully recognized by the National Medical Commission (NMC).'
+  - question: What score is required for DY Patil Pune MBBS seat?
+    answer: Expected NEET score is 250-350 in MCC Deemed Counselling.
+location: Delhi
 ---
 
 Planning your medical career and targeting **Dr. D. Y. Patil Vidyapeeth, Pune** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, DPU Medical College Pune offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

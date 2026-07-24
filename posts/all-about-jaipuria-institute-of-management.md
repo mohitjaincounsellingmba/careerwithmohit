@@ -11,6 +11,14 @@ keywords:
   - '[Jaipuria Noida](/colleges/jaipuria-noida) placements 2025'
   - '[Jaipuria Noida](/colleges/jaipuria-noida) infrastructure'
   - best PGDM in Noida ranked
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which Jaipuria campus is best?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
     answer: >-
       The average package for the 2025 batch stood at **₹8.95 LPA**, with the
       top 10% of the batch securing packages above **₹15 LPA**.
+location: Noida
 ---
 
 ### **College Review: [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida**

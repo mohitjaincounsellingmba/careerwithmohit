@@ -14,6 +14,14 @@ keywords:
   - USME DTU MBA
   - CMAC Delhi MBA counseling
   - best MBA colleges in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Delhi Technological University (DTU), a premier engineering institution, is also making a significant mark in the field of management education. With excellent ROI and strong industry connections, the MBA programs at DTU are highly sought after by [CAT exam](/blog/all-about-cat-exam) aspirants.
 

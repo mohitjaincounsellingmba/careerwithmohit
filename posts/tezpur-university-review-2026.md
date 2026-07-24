@@ -4,14 +4,23 @@ title: >-
   & CUET Cutoff
 date: '2026-05-24'
 description: >-
-  Is Tezpur University worth it? Discover 2026 admission details, fees, hostel
-  facilities, and placement statistics featuring top recruiters.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Is Tezpur University worth it? Discover 2026 admission
+  detail...
 keywords:
   - '[Tezpur University](/colleges/tezpur-university) admissions 2026'
   - Tezpur University placements
   - Tezpur University CUET cutoff
   - Tezpur University fees
   - Tezpur B.Tech cutoff
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 [Tezpur University](/colleges/tezpur-university), a central university in Assam, is renowned for its lush residential campus, robust academic framework, and excellent placement record, especially in engineering and management disciplines.
 

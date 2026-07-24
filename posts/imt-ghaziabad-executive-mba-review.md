@@ -1,16 +1,39 @@
 ---
-title: "Institute of Management Technology (IMT), Ghaziabad Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Institute of Management Technology (IMT), Ghaziabad. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Institute of Management Technology (IMT), Ghaziabad executive mba","Institute of Management Technology (IMT), Ghaziabad executive mba review","Institute of Management Technology (IMT), Ghaziabad executive mba fees","Institute of Management Technology (IMT), Ghaziabad executive mba placement","Ghaziabad executive mba","best executive mba in Ghaziabad"]
-category: "MBA"
+title: 'Institute of Management Technology (IMT), Ghaziabad Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Institute of
+  Management Technology (IMT), Ghaziabad. Learn about total fees, eligibility,
+  accepted entrance exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - 'Institute of Management Technology (IMT), Ghaziabad executive mba'
+  - 'Institute of Management Technology (IMT), Ghaziabad executive mba review'
+  - 'Institute of Management Technology (IMT), Ghaziabad executive mba fees'
+  - 'Institute of Management Technology (IMT), Ghaziabad executive mba placement'
+  - Ghaziabad executive mba
+  - best executive mba in Ghaziabad
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "Does IMT Ghaziabad offer placement for Executive PGDM?"
-    answer: "Yes, IMT has a highly active dedicated placement cell that secures top corporate placements for the executive batch, yielding an average CTC of around ₹20-22 LPA."
-  - question: "Is the IMT Ghaziabad Executive program residential?"
-    answer: "Yes, it is a full-time residential program for 12 months, followed by 3 months of a live field project."
-  - question: "What are the accepted entrance test scores?"
-    answer: "IMT accepts valid scores from CAT, XAT, and GMAT."
+  - question: Does IMT Ghaziabad offer placement for Executive PGDM?
+    answer: >-
+      Yes, IMT has a highly active dedicated placement cell that secures top
+      corporate placements for the executive batch, yielding an average CTC of
+      around ₹20-22 LPA.
+  - question: Is the IMT Ghaziabad Executive program residential?
+    answer: >-
+      Yes, it is a full-time residential program for 12 months, followed by 3
+      months of a live field project.
+  - question: What are the accepted entrance test scores?
+    answer: 'IMT accepts valid scores from CAT, XAT, and GMAT.'
+location: Ghaziabad
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Ghaziabad, the Executive MBA / Executive PGDM offered by [Institute of Management Technology (IMT), Ghaziabad](/colleges/imt-ghaziabad) represents a powerful gateway to higher senior leadership positions.

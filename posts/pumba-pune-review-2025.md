@@ -2,8 +2,9 @@
 title: '[PUMBA Pune](/colleges/pumba-pune) MBA Review 2024-25: The King of ROI'
 date: '2026-03-14'
 description: >-
-  Low fees, high returns. Discover why PUMBA (Department of Management Sciences,
-  SPPU) is the top choice for MBA in Pune with 2024-25 placement data.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Low fees, high returns. Discover why PUMBA (Department
+  of Man...
 keywords:
   - '[PUMBA Pune](/colleges/pumba-pune) review 2025'
   - PUMBA MBA placements
@@ -11,6 +12,14 @@ keywords:
   - MAH MBA CET cut off for PUMBA
   - best ROI MBA college in Pune
   - PUMBA average package 2024
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The Department of Management Sciences (PUMBA) at Savitribai Phule Pune University is one of the oldest and most respected management departments in India. It is famous nationwide for providing "Tier 1 Placements at Tier 3 Fees."
 

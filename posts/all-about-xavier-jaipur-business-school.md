@@ -1,23 +1,41 @@
 ---
-title: "Xavier Jaipur Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Jaipur Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Jaipur Business School PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Xavier Jaipur Business School?
+  Read ...
 keywords:
-  - "xavier jaipur business school review 2026"
-  - "xavier jaipur business school pgdm placements"
-  - "xavier jaipur business school admission cutoff"
-  - "xavier jaipur business school fees"
+  - xavier jaipur business school review 2026
+  - xavier jaipur business school pgdm placements
+  - xavier jaipur business school admission cutoff
+  - xavier jaipur business school fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Xavier Jaipur Business School a good option for PGDM/MBA?"
+  - question: Is Xavier Jaipur Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Xavier Jaipur Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Jaipur Business School?"
+      Yes, Xavier Jaipur Business School is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Xavier Jaipur Business School?
     answer: >-
-      The average placement package at Xavier Jaipur Business School is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
-  - question: "What entrance exams are accepted by Xavier Jaipur Business School?"
+      The average placement package at Xavier Jaipur Business School is
+      approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
+  - question: What entrance exams are accepted by Xavier Jaipur Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Xavier Jaipur Business School](/colleges/xavier-jaipur-business-school)**

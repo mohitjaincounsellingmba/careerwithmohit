@@ -4,9 +4,9 @@ title: >-
   Window
 date: '2026-05-02'
 description: >-
-  The MHCET MBA 2026 Answer Key for Phase 1 (April 6-8) is out. Download your
-  MAH MBA CET response sheet PDF, check the official link, and raise objections
-  by May 4, 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. The MHCET MBA 2026 Answer Key for Phase 1 (April 6-8)
+  is out....
 keywords:
   - MHCET MBA 2026 answer key out
   - MAH MBA CET 2026 response sheet link
@@ -14,6 +14,14 @@ keywords:
   - MBA CET marks vs percentile
   - JBIMS cutoff 2026
   - CET Cell Maharashtra login
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The State Common Entrance Test Cell, Maharashtra, has officially released the **MHCET MBA 2026 Answer Key** and Candidate Response Sheets for the Phase 1 exams conducted on April 6, 7, and 8, 2026. Aspirants can now login to the official portal to check their correct answers and calculate their raw scores.
 

@@ -2,9 +2,9 @@
 title: 'CUET PG MBA College Predictor 2026: Find Your Match'
 date: '2026-03-24'
 description: >-
-  Estimate your admission chances at TISS, BHU, JNU, and more with our CUET PG
-  MBA College Predictor 2026. Safe score vs percentile analysis for top
-  B-schools.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Estimate your admission chances at TISS, BHU, JNU, and
+  more w...
 keywords:
   - CUET PG MBA college predictor 2026
   - CUET PG 2026 college predictor
@@ -13,6 +13,14 @@ keywords:
   - CUET PG MBA cutoff 2026
   - TISS CUET PG predictor
   - BHU MBA CUET PG predictor
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How accurate is the CUET PG MBA College Predictor?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
     answer: >-
       Yes, our tool converts your raw score into an estimated percentile and
       then maps it to the probable university cutoffs.
+location: Delhi
 ---
 
 Are you aiming for a top-tier MBA or PGDM through the Common University Entrance Test? With the competition intensifying for spots at prestigious institutions like **TISS Mumbai**, **BHU**, and **JNU**, knowing where you stand is crucial.

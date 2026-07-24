@@ -4,10 +4,9 @@ title: >-
   Admission 2026: Fees & Review
 date: '2026-03-24'
 description: >-
-  Planning for B.Tech at [Quantum
-  University](/colleges/quantum-university-roorkee) Roorkee? Get the latest on
-  JEE Main/Q-Care 2026 cutoffs, specialized technical and interdisciplinary
-  tracks, detailed fee structure, and its ₹33 LPA placement record.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Planning for B.Tech at [Quantum
+  University](/colleges/quantum...
 keywords:
   - >-
     [Quantum University](/colleges/quantum-university-roorkee) Roorkee BTech
@@ -17,6 +16,14 @@ keywords:
   - Quantum placement review 2025
   - Q-Care entrance exam 2026
   - BTech admission Roorkee
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are Passion Programs at Quantum?
     answer: >-
@@ -30,6 +37,7 @@ faqs:
     answer: >-
       Yes, students with very high 10+2 marks can apply for direct merit-based
       admission for specific seats.
+location: Delhi
 ---
 
 **[Quantum University](/colleges/quantum-university-roorkee)** in Roorkee (Uttarakhand) is a modern private university established in 2017, known for its unique interdisciplinary approach and "Passion Program" (PROPS) that allows students to study subjects beyond engineering. In a short span, it has established itself as an affordable and tech-savvy destination for engineering aspirants.

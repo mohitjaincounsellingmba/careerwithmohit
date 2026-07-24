@@ -27,6 +27,14 @@ keywords:
   - career counselling
   - admissions 2026
   - placements 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -42,6 +50,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Delhi
 ---
 Delhi University (DU) isn't just famous for its undergraduate programs; it is also home to some of the highest ROI (Return on Investment) MBA programs in the entire country. 
 

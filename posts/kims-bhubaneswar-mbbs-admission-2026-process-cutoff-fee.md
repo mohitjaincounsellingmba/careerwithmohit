@@ -1,20 +1,36 @@
 ---
-title: "Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS Admission 2026:
+  Process, NEET Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Kalinga
+  Institute o...
 keywords:
-  - "KIMS Bhubaneswar MBBS admission 2026"
-  - "KIMS Bhubaneswar fee structure"
-  - "KIMS Bhubaneswar NEET cutoff 2026"
-  - "Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS process"
-  - "MBBS fees private medical college"
+  - KIMS Bhubaneswar MBBS admission 2026
+  - KIMS Bhubaneswar fee structure
+  - KIMS Bhubaneswar NEET cutoff 2026
+  - 'Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the fee structure for KIMS Bhubaneswar MBBS 2026?"
-    answer: "The annual tuition fee is ₹18.5 Lakhs per year."
-  - question: "What is the expected NEET cutoff for KIMS Bhubaneswar?"
-    answer: "The expected NEET score is 510-550 (AIR 70k - 100k)."
-  - question: "Is KIMS Bhubaneswar recognized by NMC?"
-    answer: "Yes, KIMS is fully recognized by NMC and Ministry of Health, Govt of India."
+  - question: What is the fee structure for KIMS Bhubaneswar MBBS 2026?
+    answer: The annual tuition fee is ₹18.5 Lakhs per year.
+  - question: What is the expected NEET cutoff for KIMS Bhubaneswar?
+    answer: The expected NEET score is 510-550 (AIR 70k - 100k).
+  - question: Is KIMS Bhubaneswar recognized by NMC?
+    answer: >-
+      Yes, KIMS is fully recognized by NMC and Ministry of Health, Govt of
+      India.
+location: Delhi
 ---
 
 Planning your medical career and targeting **Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, KIMS Bhubaneswar offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

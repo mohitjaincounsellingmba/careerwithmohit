@@ -9,6 +9,14 @@ keywords:
   - Maharaja Agrasen Business School placements
   - MABS faculty review
   - best MBA in Delhi ROI
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -25,6 +33,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 ### **College Review: Maharaja Agrasen Business School**
 *   **Heritage Brand**: Part of the Maharaja Agrasen group, which is a highly trusted name in education across Delhi NCR.

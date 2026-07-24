@@ -12,6 +12,14 @@ keywords:
   - hidden gems MBA India
   - top non-IIM MBA colleges
   - IIT MBA programs
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 When MBA aspirants start their preparation, the immediate targets are usually the prestigious IIMs (BLACKI) or top private B-schools like XLRI and SPJIMR. However, focusing exclusively on these big names often blinds students to several **"Hidden Gems"**—highly underrated MBA colleges in India that offer phenomenal Return on Investment (ROI).
 

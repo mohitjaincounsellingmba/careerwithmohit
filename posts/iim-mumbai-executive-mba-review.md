@@ -1,16 +1,41 @@
 ---
-title: "IIM Mumbai (formerly NITIE) Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at IIM Mumbai (formerly NITIE). Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["IIM Mumbai (formerly NITIE) executive mba","IIM Mumbai (formerly NITIE) executive mba review","IIM Mumbai (formerly NITIE) executive mba fees","IIM Mumbai (formerly NITIE) executive mba placement","Mumbai executive mba","best executive mba in Mumbai"]
-category: "MBA"
+title: IIM Mumbai (formerly NITIE) Executive MBA Review
+date: '2026-07-22'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Read an honest review of the Executive MBA / PGDM
+  program at ...
+keywords:
+  - IIM Mumbai (formerly NITIE) executive mba
+  - IIM Mumbai (formerly NITIE) executive mba review
+  - IIM Mumbai (formerly NITIE) executive mba fees
+  - IIM Mumbai (formerly NITIE) executive mba placement
+  - Mumbai executive mba
+  - best executive mba in Mumbai
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "Who can apply for the IIM Mumbai VLFM program?"
-    answer: "Only candidates with a bachelor's degree in Engineering or Technology and a minimum of 4.5 years of experience in operations/manufacturing can apply."
-  - question: "Is the PGPEX-VLFM program joint with IIT Delhi?"
-    answer: "Yes, the program is conducted jointly with the Department of Management Studies, IIT Delhi."
-  - question: "What is the average package for this course?"
-    answer: "The average CTC ranges from ₹22.00 to ₹25.00 LPA, with top consulting and manufacturing companies recruiting."
+  - question: Who can apply for the IIM Mumbai VLFM program?
+    answer: >-
+      Only candidates with a bachelor's degree in Engineering or Technology and
+      a minimum of 4.5 years of experience in operations/manufacturing can
+      apply.
+  - question: Is the PGPEX-VLFM program joint with IIT Delhi?
+    answer: >-
+      Yes, the program is conducted jointly with the Department of Management
+      Studies, IIT Delhi.
+  - question: What is the average package for this course?
+    answer: >-
+      The average CTC ranges from ₹22.00 to ₹25.00 LPA, with top consulting and
+      manufacturing companies recruiting.
+location: Delhi
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [IIM Mumbai (formerly NITIE)](/colleges/iim-mumbai) represents a powerful gateway to higher senior leadership positions.

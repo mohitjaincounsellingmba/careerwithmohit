@@ -11,6 +11,14 @@ keywords:
   - New Delhi Institute for Information Technology review
   - best PGDM colleges in Delhi
   - NDIIT vs NDIM
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The **New Delhi Institute for Information Technology & Management (NDIIT)** has emerged as a noteworthy option for students seeking a PGDM in the heart of the national capital. Known for its corporate-aligned curriculum and strategic location near Nehru Place, it caters to aspirants looking for a balance between academic rigor and industry exposure.
 

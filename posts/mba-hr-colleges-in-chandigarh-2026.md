@@ -110,7 +110,7 @@ UBS Chandigarh (under Panjab University) offers highly subsidized fees of around
 Chandigarh University has a large central placement cell that brings in multiple tech giants, consulting companies, and banks, leading to average placement packages around INR 6.5 LPA.
 
 ### Are CMAT scores accepted by [Chitkara University](/colleges/chitkara-university)?
-Yes, Chitkara University accepts CMAT, MAT, and CAT scores for its MBA programs.
+Yes, [Chitkara University](/colleges/chitkara-university) accepts CMAT, MAT, and CAT scores for its MBA programs.
 ---
 
 ### 🚀 Boost Your Preparation

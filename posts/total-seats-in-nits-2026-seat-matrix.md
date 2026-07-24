@@ -2,9 +2,9 @@
 title: 'Total Seats in NITs 2026: State-wise Seat Distribution for B.Tech Admissions'
 date: '2026-03-24'
 description: >-
-  Explore the total seats in 31 NITs across India for 2026. Get detailed
-  information on NIT seat matrix, home state vs other state quota, and JoSAA
-  2026 updates.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Explore the total seats in 31 NITs across India for
+  2026. Get...
 keywords:
   - total seats in NIT 2026
   - NIT seat matrix
@@ -14,6 +14,14 @@ keywords:
   - NIT admission 2026
   - NIT Warangal seat matrix
   - NIT Patna total seats
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 The **National Institutes of Technology (NITs)** are among the most sought-after engineering colleges in India, especially for candidates who qualify through the **JEE Main** examination. With 31 NITs distributed across the country, knowing the seat distribution is key to securing your preferred branch.
 

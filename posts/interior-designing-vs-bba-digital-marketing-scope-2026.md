@@ -5,9 +5,9 @@ title: >-
 date: '2026-04-12'
 category: Career Counselling
 description: >-
-  Choosing between a creative field like Interior Design and an analytical one
-  like Digital Marketing? Compare scope, salary, skills, and career growth in
-  India for 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Choosing between a creative field like Interior Design
+  and an...
 keywords:
   - Interior Designing vs BBA Digital Marketing
   - career after 12th India 2026
@@ -15,6 +15,14 @@ keywords:
   - Interior Design salary India
   - best courses after 12th commerce
   - BBA vs Interior Designing
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
+location: Delhi
 ---
 Choosing a career path after the 12th is one of the most critical decisions for any student. In 2026, two fields have emerged as high-growth, lucrative options: **Interior Designing** and **BBA in Digital Marketing**.
 

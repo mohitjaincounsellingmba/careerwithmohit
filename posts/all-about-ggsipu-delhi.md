@@ -1,23 +1,48 @@
 ---
-title: "GGSIPU (Guru Gobind Singh Indraprastha University) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to GGSIPU (Guru Gobind Singh Indraprastha University)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  GGSIPU (Guru Gobind Singh Indraprastha University) PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to GGSIPU (Guru Gobind Singh
+  Indraprast...
 keywords:
-  - "ggsipu (guru gobind singh indraprastha university) review 2026"
-  - "ggsipu (guru gobind singh indraprastha university) pgdm placements"
-  - "ggsipu (guru gobind singh indraprastha university) admission cutoff"
-  - "ggsipu (guru gobind singh indraprastha university) fees"
+  - ggsipu (guru gobind singh indraprastha university) review 2026
+  - ggsipu (guru gobind singh indraprastha university) pgdm placements
+  - ggsipu (guru gobind singh indraprastha university) admission cutoff
+  - ggsipu (guru gobind singh indraprastha university) fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is GGSIPU (Guru Gobind Singh Indraprastha University) a good option for PGDM/MBA?"
+  - question: >-
+      Is GGSIPU (Guru Gobind Singh Indraprastha University) a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, GGSIPU (Guru Gobind Singh Indraprastha University) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at GGSIPU (Guru Gobind Singh Indraprastha University)?"
+      Yes, GGSIPU (Guru Gobind Singh Indraprastha University) is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at GGSIPU (Guru Gobind Singh
+      Indraprastha University)?
     answer: >-
-      The average placement package at GGSIPU (Guru Gobind Singh Indraprastha University) is approximately ₹6.18 LPA, with the highest package reaching up to ₹12.00 LPA.
-  - question: "What entrance exams are accepted by GGSIPU (Guru Gobind Singh Indraprastha University)?"
+      The average placement package at GGSIPU (Guru Gobind Singh Indraprastha
+      University) is approximately ₹6.18 LPA, with the highest package reaching
+      up to ₹12.00 LPA.
+  - question: >-
+      What entrance exams are accepted by GGSIPU (Guru Gobind Singh Indraprastha
+      University)?
     answer: >-
-      The college accepts scores from national level entrance examinations including IPU CET, CAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including IPU CET, CAT, CMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [GGSIPU (Guru Gobind Singh Indraprastha University)](/colleges/ggsipu-delhi)**

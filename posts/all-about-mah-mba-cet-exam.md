@@ -2,9 +2,9 @@
 title: 'MAH MBA CET 2026: Exam Dates, Syllabus, Pattern & Predicted Cutoffs'
 date: '2026-03-17'
 description: >-
-  Prepare for MAH MBA CET 2026 with our ultimate guide. Get the latest exam
-  pattern, detailed syllabus PDF, MAH CET registration dates, and top colleges
-  in Mumbai & Pune.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Prepare for MAH MBA CET 2026 with our ultimate guide.
+  Get the...
 keywords:
   - MAH MBA CET 2026
   - MAH CET syllabus 2026
@@ -12,6 +12,14 @@ keywords:
   - MHCET cutoff for JBIMS
   - MBA CET registration dates
   - MAH CET mock test free
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will MAH MBA CET 2026 registration start?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
       here.](/top-mhcet-mba-colleges-pune-2026-cutoffs-fees)
   - question: Can I get a scholarship for MBA via MAH CET?
     answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2026](/mah-mba-cet-scholarship-2026-eligibility-application-process)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)"
+location: Delhi
 ---
 
 The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.

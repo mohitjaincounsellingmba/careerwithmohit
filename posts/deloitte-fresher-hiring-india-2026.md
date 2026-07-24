@@ -2,9 +2,9 @@
 title: 'Deloitte India Fresher Hiring 2026: NLA & Campus Drive Guide'
 date: '2026-04-22'
 description: >-
-  Apply for Deloitte India's 2026 fresher hiring. Detailed guide on National
-  Level Assessment (NLA), Analyst roles, eligibility criteria, and interview
-  process.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Apply for Deloitte India's 2026 fresher
+  hiring. Deta...
 keywords:
   - Deloitte fresher hiring 2026
   - Deloitte NLA 2026
@@ -12,6 +12,14 @@ keywords:
   - Deloitte recruitment process
   - Deloitte USI vs Deloitte India
   - Big 4 jobs 2026
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
+location: Gurgaon
 ---
 **Deloitte India** is actively recruiting for its **2026 batch** through its **National Level Assessment (NLA)** and on-campus placement drives. As a global leader in audit, consulting, and advisory services, Deloitte is a top choice for freshers aiming for a high-growth career.
 

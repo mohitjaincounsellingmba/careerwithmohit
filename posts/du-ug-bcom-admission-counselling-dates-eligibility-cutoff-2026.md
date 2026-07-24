@@ -1,8 +1,10 @@
 ---
-title: "DU UG & BCom Admission 2026: Counselling Dates, Eligibility, and Cut-off Guide"
+title: 'DU UG & BCom Admission 2026: Counselling Dates, Eligibility, and Cut-off Guide'
 date: '2026-06-22'
 description: >-
-  Looking for Delhi University DU BCom and UG admission updates? Get the complete breakdown of DU CSAS 2026 counselling dates, eligibility requirements, and expected cut-offs.
+  Looking for Delhi University DU BCom and UG admission updates? Get the
+  complete breakdown of DU CSAS 2026 counselling dates, eligibility
+  requirements, and expected cut-offs.
 keywords:
   - DU UG admission counselling dates 2026
   - DU BCom eligibility criteria 2026
@@ -10,17 +12,33 @@ keywords:
   - CSAS portal registration DU
   - Delhi University UG admissions
   - CUET UG score for DU BCom
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will the DU CSAS UG 2026 counselling registration begin?
     answer: >-
-      DU CSAS UG 2026 registration (Phase 1) is expected to open on the official admission portal (admission.uod.ac.in) in late June or early July 2026, coinciding with the declaration of the CUET UG 2026 results.
+      DU CSAS UG 2026 registration (Phase 1) is expected to open on the official
+      admission portal (admission.uod.ac.in) in late June or early July 2026,
+      coinciding with the declaration of the CUET UG 2026 results.
   - question: What is the eligibility criteria for BCom (Hons) in DU?
     answer: >-
-      To be eligible for BCom (Hons), candidates must pass Class 12 and appear in CUET UG 2026 in either: (Route 1) One Language + Mathematics/Applied Mathematics + Two Domain Subjects, or (Route 2) One Language + Accountancy/Bookkeeping + Two Domain Subjects.
+      To be eligible for BCom (Hons), candidates must pass Class 12 and appear
+      in CUET UG 2026 in either: (Route 1) One Language + Mathematics/Applied
+      Mathematics + Two Domain Subjects, or (Route 2) One Language +
+      Accountancy/Bookkeeping + Two Domain Subjects.
   - question: What is a safe CUET score for BCom (Hons) at SRCC and Hindu College?
     answer: >-
-      For general category students, a safe CUET UG score for SRCC is 780-800+, and for Hindu College, it is 760-790+. These are estimated based on past merit trends.
+      For general category students, a safe CUET UG score for SRCC is 780-800+,
+      and for Hindu College, it is 760-790+. These are estimated based on past
+      merit trends.
 category: Admissions
+location: Delhi
 ---
 Delhi University (DU) is the dream destination for millions of high school graduates across India. Specifically, programs like **B.Com (Hons.)** and **B.Com (Programme)** offered by top colleges such as SRCC, Hindu College, Hansraj College, and Lady Shri Ram (LSR) witness intense competition every year. 
 

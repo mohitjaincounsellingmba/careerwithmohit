@@ -2,9 +2,9 @@
 title: 'JEE Main & Advanced 2026: Exam Date, Syllabus, Pattern & Top IIT/NIT Cutoffs'
 date: '2026-03-21'
 description: >-
-  Everything you need to know about JEE Main and Advanced 2026. Get the latest
-  exam dates, syllabus for Physics, Chemistry, Maths, and expected cutoffs for
-  top IITs and NITs.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Everything you need to know about JEE Main and Advanced
+  2026....
 keywords:
   - JEE Main 2026
   - JEE Advanced 2026
@@ -12,6 +12,14 @@ keywords:
   - NIT cutoff 2026
   - JEE pattern 2026
   - JEE syllabus PDF
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will JEE Main 2026 be held?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       respective boards to be eligible for NIT/IIT admissions.
   - question: How many attempts are allowed for JEE Advanced?
     answer: "Candidates can attempt JEE Advanced a maximum of **two times in two consecutive years**.\n\n[\U0001F449 Looking for expert guidance to navigate your B.Tech admissions? Connect with our counsellors today!](/inquiry)"
+location: Delhi
 ---
 
 The **Joint Entrance Examination (JEE)** is the flagship engineering entrance exam in India, serving as the gateway to the world-renowned Indian Institutes of Management (IITs), National Institutes of Technology (NITs), and other premier engineering institutions like IIITs and GFTIs.

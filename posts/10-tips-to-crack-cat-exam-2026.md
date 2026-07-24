@@ -3,9 +3,9 @@ title: '10 Proven Tips to Crack CAT 2026: The IIM Topper''s Secret'
 date: '2026-05-03'
 category: MBA
 description: >-
-  Planning to crack CAT 2026? Follow these 10 expert tips to score a 99+
-  percentile. Learn the secrets of question selection, accuracy, and mock test
-  analysis used by IIM toppers.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Planning to crack CAT 2026? Follow these 10 expert tips
+  to sc...
 keywords:
   - tips to crack cat 2026
   - cat preparation strategy 2026
@@ -14,6 +14,14 @@ keywords:
   - cat quant strategy
   - cat varc tips
   - how to prepare for dilr cat
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The Common Admission Test (CAT) is less of a math exam and more of a **stress management and decision-making test**. With over 3 lakh candidates expected to appear for CAT 2026, standing out requires a strategy that goes beyond just solving textbooks.
 

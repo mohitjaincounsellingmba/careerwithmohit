@@ -2,8 +2,9 @@
 title: 'Hiring: Business Development Executive (SaaS) at Rannkly - Noida, UP'
 date: '2026-03-22'
 description: >-
-  Apply for the Business Development Executive (SaaS) role at Rannkly. Salary:
-  ₹4L - ₹18L/Year. Experience: 0-3 Years. Verified referral link for 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Apply for the Business
+  Development Exec...
 keywords:
   - Business Development Executive (SaaS) jobs
   - Rannkly recruitment
@@ -11,6 +12,14 @@ keywords:
   - 'jobs in Noida, UP'
   - OptimHire referral jobs
   - 2026 career opportunities
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
+location: Noida
 ---
 Are you looking for a high-impact role in the industry? **Rannkly** is hiring a **Business Development Executive (SaaS)** for their **Noida, UP** team. This is a premium opportunity with a verified referral link to fast-track your application.
 

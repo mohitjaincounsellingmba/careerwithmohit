@@ -2,9 +2,9 @@
 title: JEE Main 2026 Session 2 (2nd Attempt) Exam Review & Detailed Analysis
 date: '2026-04-05'
 description: >-
-  Comprehensive exam review of the JEE Main 2026 Session 2 (2nd Attempt). Get
-  insights into paper difficulty, student reactions, subject-wise analysis, and
-  expected cutoffs.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Comprehensive exam review of the JEE Main 2026 Session
+  2 (2nd...
 keywords:
   - JEE Main 2026 Session 2 exam review
   - JEE Main 2nd attempt analysis 2026
@@ -12,6 +12,14 @@ keywords:
   - JEE Main 2026 paper difficulty
   - NTA JEE Main session 2 student reactions
   - jee main session 2 paper review
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 The **JEE Main 2026 Session 2 (April Attempt)** is currently underway, with the National Testing Agency (NTA) conducting examinations from April 2 to April 9, 2026. As lakhs of engineering aspirants continue to appear for this final attempt to improve their NTA scores, we bring you a comprehensive **Exam Review & Detailed Analysis** based on the initial shifts.
 

@@ -15,6 +15,14 @@ keywords:
   - top government medical colleges india
   - mamc delhi mbbs admission
   - afmc pune mbbs fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is AFMC Pune better than AIIMS?
     answer: >-
@@ -35,6 +43,7 @@ faqs:
     answer: >-
       Usually held on the **first Sunday of May**. Registrations typically open
       in January.
+location: Delhi
 ---
 
 Pursuing an MBBS in India is the dream of millions, but only a fraction of students secure a seat in the country's elite medical institutions. In 2026, with the competition for NEET-UG reaching record levels, choosing the right college based on its hospital exposure, faculty research, and alumni record is crucial for a successful medical residency (PG) later.

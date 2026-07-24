@@ -11,6 +11,14 @@ keywords:
   - bba under 3 lakhs delhi
   - sscbs fees
   - jamia millia bba fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
+location: Delhi
 ---
 Pursuing a Bachelor of Business Administration (BBA) does not have to drain your financial resources. While premium private institutions charge hefty fees, several top-tier universities and colleges in Delhi NCR offer outstanding management education at an affordable price.
 

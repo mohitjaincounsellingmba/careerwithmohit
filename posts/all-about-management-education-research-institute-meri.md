@@ -1,23 +1,48 @@
 ---
-title: "Management Education & Research Institute (MERI) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Management Education & Research Institute (MERI)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Management Education & Research Institute (MERI) PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Management Education &
+  Research Inst...
 keywords:
-  - "management education & research institute (meri) review 2026"
-  - "management education & research institute (meri) pgdm placements"
-  - "management education & research institute (meri) admission cutoff"
-  - "management education & research institute (meri) fees"
+  - management education & research institute (meri) review 2026
+  - management education & research institute (meri) pgdm placements
+  - management education & research institute (meri) admission cutoff
+  - management education & research institute (meri) fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Management Education & Research Institute (MERI) a good option for PGDM/MBA?"
+  - question: >-
+      Is Management Education & Research Institute (MERI) a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Management Education & Research Institute (MERI) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Management Education & Research Institute (MERI)?"
+      Yes, Management Education & Research Institute (MERI) is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Management Education & Research
+      Institute (MERI)?
     answer: >-
-      The average placement package at Management Education & Research Institute (MERI) is approximately ₹8 LPA, with the highest package reaching up to ₹14 LPA.
-  - question: "What entrance exams are accepted by Management Education & Research Institute (MERI)?"
+      The average placement package at Management Education & Research Institute
+      (MERI) is approximately ₹8 LPA, with the highest package reaching up to
+      ₹14 LPA.
+  - question: >-
+      What entrance exams are accepted by Management Education & Research
+      Institute (MERI)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri)**

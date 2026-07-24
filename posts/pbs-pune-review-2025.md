@@ -2,8 +2,9 @@
 title: 'Pune Business School (PBS) Review 2025: A Rising PGDM Powerhouse'
 date: '2026-03-14'
 description: >-
-  Explore the internal details of Pune Business School (PBS). Read about PBS
-  Pune placements 2025, fees, and its rapid rise in Pune's management circles.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Explore the internal details of Pune Business School
+  (PBS). R...
 keywords:
   - Pune Business School review 2025
   - PBS Pune placements
@@ -11,6 +12,14 @@ keywords:
   - Pune Business School PGDM admission
   - best upcoming PGDM college in Pune
   - PBS Pune average package 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Pune Business School (PBS) is part of the PCET group (Pimpri Chinchwad Education Trust), which has a massive legacy of placements in Engineering. Now, PBS is bringing that same placement muscle to the management world.
 

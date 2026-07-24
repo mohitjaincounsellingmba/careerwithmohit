@@ -4,9 +4,9 @@ title: >-
   ROI, and Placements (2026)
 date: '2026-03-13'
 description: >-
-  A complete review of ISBR Bangalore (International School of Business &
-  Research). Check PGDM fees, CAT/MAT/KMAT cutoffs, highest placements, and real
-  student feedback.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. A complete review of ISBR Bangalore (International
+  School of ...
 keywords:
   - ISBR Bangalore review
   - ISBR Bangalore placements 2026
@@ -15,6 +15,14 @@ keywords:
   - top MBA colleges in Electronic City
   - ISBR average package
   - International School of Business and Research
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Located right in the heart of Electronic City—India's biggest IT hub—the International School of Business & Research (ISBR) Bangalore leverages its strategic location to offer excellent corporate exposure. It is a highly sought-after B-School for students aiming to build careers in IT, Analytics, and Business Development.
 

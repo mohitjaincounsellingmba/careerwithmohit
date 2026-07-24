@@ -11,6 +11,14 @@ keywords:
   - Bennett placement 2025
   - '[Bennett University](/colleges/bennett-greater-noida) infrastructure'
   - Best MBA in Greater Noida
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Is [Bennett University](/colleges/bennett-greater-noida) good for MBA?'
     answer: >-
@@ -31,6 +39,7 @@ faqs:
       Bennett has a very strong corporate relations team. For the 2025 batch,
       the highest package was **₹33 LPA**, with several students joining Big 4
       and top FMCG firms.
+location: Noida
 ---
 
 ### **College Review: [Bennett University](/colleges/bennett-greater-noida)**

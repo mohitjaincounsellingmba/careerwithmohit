@@ -12,6 +12,14 @@ keywords:
   - Sushant placement review 2025
   - SUEE 2026 entrance
   - Ansal University BTech Admission
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the unique selling point of Sushant University?
     answer: >-
@@ -23,6 +31,7 @@ faqs:
     answer: >-
       It is situated at a prime location on Golf Course Road in Sector 55,
       Gurugram.
+location: Noida
 ---
 
 **Sushant University (formerly Ansal University)** in Gurugram (Sector 55), established in 2012, is a premier multidisciplinary private university known for its excellence in design, architecture, and technology. Accredited with **NAAC Grade 'A'**, Sushant is one of the most respected brands in Gurugram's educational landscape.

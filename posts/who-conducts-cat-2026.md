@@ -1,28 +1,45 @@
 ---
-title: 'Who Conducts CAT 2026? Organizing IIM & Timeline Details'
+title: Who Conducts CAT 2026? Organizing IIM & Timeline Details
 date: '2026-06-28'
 category: MBA Admissions
 description: >-
-  Wondering who will conduct CAT 2026? Learn about the rotational policy of Indian Institutes of Management (IIMs), the expected organizing IIM (IIM Indore), key dates, registration fees, eligibility, and how to start your preparation.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Wondering who will conduct CAT 2026? Learn
+  about the...
 keywords:
   - who conduct cat 2026
   - conducting body of cat 2026
   - CAT 2026 organizing IIM
   - IIM Indore CAT 2026
   - CAT 2026 convenor
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which IIM is conducting CAT 2026?
     answer: >-
-      **IIM Indore** is the organizing body for CAT 2026. The responsibility of conducting the Common Admission Test (CAT) rotates annually among the top IIMs.
+      **IIM Indore** is the organizing body for CAT 2026. The responsibility of
+      conducting the Common Admission Test (CAT) rotates annually among the top
+      IIMs.
   - question: When will the official CAT 2026 notification be released?
     answer: >-
-      The official CAT 2026 notification is expected to be released in the **last week of July 2026** on the official website: [iimcat.ac.in](https://iimcat.ac.in).
+      The official CAT 2026 notification is expected to be released in the
+      **last week of July 2026** on the official website:
+      [iimcat.ac.in](https://iimcat.ac.in).
   - question: What is the expected date for the CAT 2026 exam?
     answer: >-
-      The CAT 2026 exam is expected to be held on **Sunday, November 29, 2026** (the last Sunday of November).
+      The CAT 2026 exam is expected to be held on **Sunday, November 29, 2026**
+      (the last Sunday of November).
   - question: When did IIM Indore last conduct the CAT exam?
     answer: >-
-      IIM Indore last conducted the CAT exam in **2020**. Prior to that, they also organized CAT in **2013** and **2014**.
+      IIM Indore last conducted the CAT exam in **2020**. Prior to that, they
+      also organized CAT in **2013** and **2014**.
+location: Gurgaon
 ---
 
 The Common Admission Test (CAT) is India's most prestigious and highly competitive MBA entrance exam. For candidates aiming to secure a seat in one of the 21 Indian Institutes of Management (IIMs) or other top B-schools like [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and [MDI Gurgaon](/colleges/mdi-gurgaon), knowing who organizes the exam is one of the first steps of the journey.

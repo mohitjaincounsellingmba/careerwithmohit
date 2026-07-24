@@ -1,23 +1,40 @@
 ---
-title: "Pearl Academy, Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Pearl Academy, Delhi? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Pearl Academy, Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Pearl Academy, Delhi? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "pearl academy, delhi review 2026"
-  - "pearl academy, delhi pgdm placements"
-  - "pearl academy, delhi admission cutoff"
-  - "pearl academy, delhi fees"
+  - 'pearl academy, delhi review 2026'
+  - 'pearl academy, delhi pgdm placements'
+  - 'pearl academy, delhi admission cutoff'
+  - 'pearl academy, delhi fees'
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Pearl Academy, Delhi a good option for PGDM/MBA?"
+  - question: 'Is Pearl Academy, Delhi a good option for PGDM/MBA?'
     answer: >-
-      Yes, Pearl Academy, Delhi is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Pearl Academy, Delhi?"
+      Yes, Pearl Academy, Delhi is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: 'What is the average package offered at Pearl Academy, Delhi?'
     answer: >-
-      The average placement package at Pearl Academy, Delhi is approximately ₹10.5 LPA, with the highest package reaching up to ₹26.0 LPA.
-  - question: "What entrance exams are accepted by Pearl Academy, Delhi?"
+      The average placement package at Pearl Academy, Delhi is approximately
+      ₹10.5 LPA, with the highest package reaching up to ₹26.0 LPA.
+  - question: 'What entrance exams are accepted by Pearl Academy, Delhi?'
     answer: >-
-      The college accepts scores from national level entrance examinations including Entrance Exam, Portfolio, Interview for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including Entrance Exam, Portfolio, Interview for the PGDM and MBA
+      admissions.
+location: Delhi
 ---
 
 ### **College Review: [Pearl Academy, Delhi](/colleges/pearl-academy-delhi)**

@@ -2,15 +2,23 @@
 title: 'XAT 2026 Decision‑Making Section: Latest Question Trends & How to Crack Them'
 date: '2026-05-21'
 description: >-
-  Master the unique Decision Making section of XAT 2026. Understand ethical
-  dilemmas, question trends, and a step-by-step approach to boost your XLRI
-  cutoffs.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Master the unique Decision Making section of XAT 2026.
+  Unders...
 keywords:
   - XAT Decision Making
   - XAT exam 2026
   - XLRI shortlisting
   - Decision Making questions
   - XAT preparation strategy
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The Xavier Aptitude Test (XAT) is widely considered one of the most challenging MBA entrance exams in India. While it shares sections like Quantitative Aptitude and Verbal Ability with the CAT, the defining feature of XAT is its **Decision Making (DM)** section. 
 

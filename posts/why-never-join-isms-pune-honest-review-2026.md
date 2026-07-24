@@ -2,9 +2,9 @@
 title: ISMS PUNE REVIEW
 date: '2026-03-29'
 description: >-
-  Looking for [ISMS Pune](/colleges/isms-pune) MBA honest review? Read why some
-  students warn against joining [ISMS Pune](/colleges/isms-pune), including
-  placement quality, specialized pressure, and hidden campus reality.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for [ISMS Pune](/colleges/isms-pune) MBA honest
+  revie...
 keywords:
   - '[ISMS Pune](/colleges/isms-pune) negative review'
   - '[ISMS Pune](/colleges/isms-pune) placement reality 2026'
@@ -13,6 +13,14 @@ keywords:
   - '[ISMS Pune](/colleges/isms-pune) vs other MBA colleges Pune'
   - '[ISMS Pune](/colleges/isms-pune) honest feedback'
   - '[ISMS Pune](/colleges/isms-pune) specialization change pressure'
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 While many reviews highlight the "International" aspect of **ISMS (International School of Management Studies) Pune**, the ground reality for many students is often quite different. Before you pay the admission fee based on flashy brochures, it is critical to look at the negative feedback and common complaints that current students and alumni often discuss.
 

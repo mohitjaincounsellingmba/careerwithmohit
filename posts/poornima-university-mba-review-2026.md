@@ -4,15 +4,23 @@ title: >-
   Placements, Fees & Cutoff
 date: '2026-03-20'
 description: >-
-  Read the complete 2026 review for the MBA program at [Poornima
-  University](/colleges/poornima-jaipur) Jaipur. Understand the fee structure,
-  placement stats, and the admission process.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Read the complete 2026 review for the MBA program at
+  [Poornim...
 keywords:
   - '[Poornima University](/colleges/poornima-jaipur) Jaipur MBA review'
   - Poornima MBA fees 2026
   - '[Poornima University](/colleges/poornima-jaipur) placements'
   - '[Poornima University](/colleges/poornima-jaipur) cutoff'
   - affordable MBA colleges in Jaipur
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 **[Poornima University](/colleges/poornima-jaipur) (PU), Jaipur** is a well-established private university known for delivering quality higher education with a strong emphasis on practical skills, entrepreneurship, and industry readiness. Its MBA program attracts a wide range of students seeking a balance of affordability and decent placement outcomes.
 

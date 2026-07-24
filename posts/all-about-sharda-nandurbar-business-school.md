@@ -1,23 +1,41 @@
 ---
-title: "Sharda Nandurbar Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Sharda Nandurbar Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Sharda Nandurbar Business School PGDM Admission Review 2026: Placements, Fees
+  & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Looking for admission to Sharda
+  Nandurb...
 keywords:
-  - "sharda nandurbar business school review 2026"
-  - "sharda nandurbar business school pgdm placements"
-  - "sharda nandurbar business school admission cutoff"
-  - "sharda nandurbar business school fees"
+  - sharda nandurbar business school review 2026
+  - sharda nandurbar business school pgdm placements
+  - sharda nandurbar business school admission cutoff
+  - sharda nandurbar business school fees
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Sharda Nandurbar Business School a good option for PGDM/MBA?"
+  - question: Is Sharda Nandurbar Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Sharda Nandurbar Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Sharda Nandurbar Business School?"
+      Yes, Sharda Nandurbar Business School is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Sharda Nandurbar Business School?
     answer: >-
-      The average placement package at Sharda Nandurbar Business School is approximately ₹5.7 LPA, with the highest package reaching up to ₹24.5 LPA.
-  - question: "What entrance exams are accepted by Sharda Nandurbar Business School?"
+      The average placement package at Sharda Nandurbar Business School is
+      approximately ₹5.7 LPA, with the highest package reaching up to ₹24.5 LPA.
+  - question: What entrance exams are accepted by Sharda Nandurbar Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Noida
 ---
 
 ### **College Review: [Sharda Nandurbar Business School](/colleges/sharda-nandurbar-business-school)**

@@ -3,9 +3,9 @@ title: 'IIM Ranchi IPM Admission 2026: Fees, Placements, and SAT/IPMAT Scores'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-
-  Everything you need to know about the 5-Year Integrated Programme in
-  Management (IPM) at IIM Ranchi for 2026. Fees, placements, and admission via
-  IPMAT/SAT.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Everything you need to know about the 5-Year Integrated
+  Progr...
 keywords:
   - iim ranchi ipm admission 2026
   - iim ranchi ipmat fees
@@ -13,6 +13,14 @@ keywords:
   - iim ranchi sat cutoff 2026
   - iim ranchi integrated mba
   - best bba program in india
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does IIM Ranchi accept IPMAT Rohtak scores?
     answer: >-
@@ -21,6 +29,7 @@ faqs:
       Rohtak or JIPMAT scores.
   - question: What is the intake capacity for IPM 2026?
     answer: The intake is approximately 120 seats for the 2026 batch.
+location: Delhi
 ---
 
 IIM Ranchi is one of the premier "New IIMs" to offer the Integrated Programme in Management (IPM). With its rapid growth and strong placement records, IIM Ranchi has become a top choice for students who want an IIM brand right after school in 2026.

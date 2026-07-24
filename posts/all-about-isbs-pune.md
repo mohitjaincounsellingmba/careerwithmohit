@@ -2,13 +2,22 @@
 title: 'ISBS Pune Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
-  Review of Indira School of Business Studies (ISBS). Explore 2025 placement
-  stats, AC classrooms, and updated industry faculty.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Review of Indira School of Business Studies (ISBS).
+  Explore 2...
 keywords:
   - ISBS Pune review 2026
   - Indira School placements 2025
   - ISBS Pune infrastructure
   - best MBA in Pune for finance
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -25,6 +34,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 ### **College Review: ISBS Pune**
 *   **Established Authority**: Part of the Indira Group, a trusted name in Indian management education for decades.

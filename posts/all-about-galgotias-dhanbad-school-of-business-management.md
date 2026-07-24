@@ -1,23 +1,48 @@
 ---
-title: "Galgotias Dhanbad School of Business & Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Galgotias Dhanbad School of Business & Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Galgotias Dhanbad School of Business & Management PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Looking for admission to
+  Galgotias Dhan...
 keywords:
-  - "galgotias dhanbad school of business & management review 2026"
-  - "galgotias dhanbad school of business & management pgdm placements"
-  - "galgotias dhanbad school of business & management admission cutoff"
-  - "galgotias dhanbad school of business & management fees"
+  - galgotias dhanbad school of business & management review 2026
+  - galgotias dhanbad school of business & management pgdm placements
+  - galgotias dhanbad school of business & management admission cutoff
+  - galgotias dhanbad school of business & management fees
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Galgotias Dhanbad School of Business & Management a good option for PGDM/MBA?"
+  - question: >-
+      Is Galgotias Dhanbad School of Business & Management a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Galgotias Dhanbad School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Galgotias Dhanbad School of Business & Management?"
+      Yes, Galgotias Dhanbad School of Business & Management is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Galgotias Dhanbad School of
+      Business & Management?
     answer: >-
-      The average placement package at Galgotias Dhanbad School of Business & Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹14.0 LPA.
-  - question: "What entrance exams are accepted by Galgotias Dhanbad School of Business & Management?"
+      The average placement package at Galgotias Dhanbad School of Business &
+      Management is approximately ₹5.0 LPA, with the highest package reaching up
+      to ₹14.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Galgotias Dhanbad School of Business &
+      Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Noida
 ---
 
 ### **College Review: [Galgotias Dhanbad School of Business & Management](/colleges/galgotias-dhanbad-school-of-business-management)**

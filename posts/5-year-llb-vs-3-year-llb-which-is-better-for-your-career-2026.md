@@ -3,9 +3,9 @@ title: 5-Year vs 3-Year LLB 2026 — Which is Better for Your Career?
 date: '2026-04-21'
 category: Law Admissions
 description: >-
-  Confused between BA LLB and a simple LLB? Discover the definitive differences
-  between 5-year integrated and 3-year Law courses. Compare eligibility,
-  syllabus, and career growth for 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Confused between BA LLB and a simple LLB? Discover the
+  defini...
 keywords:
   - 5 year vs 3 year llb
   - ba llb vs llb difference
@@ -14,6 +14,14 @@ keywords:
   - llb after graduation or 12th
   - 3 year llb career scope
   - 5 year llb vs 3 year llb salary
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are both degrees valid for practice in Indian courts?
     answer: >-
@@ -33,6 +41,7 @@ faqs:
     answer: >-
       No. They are separate programs. You cannot "exit" a 5-year course with
       just a BA/BBA degree halfway through in most Indian universities.
+location: Delhi
 ---
 
 One of the most frequent dilemmas for law aspirants in India is: **"Should I join a 5-year integrated law course right after Class 12, or wait until I graduate and do a 3-year LLB?"**

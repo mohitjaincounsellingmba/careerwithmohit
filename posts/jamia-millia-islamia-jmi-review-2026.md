@@ -4,14 +4,23 @@ title: >-
   Fees, Placements & CUET Cutoff
 date: '2026-05-24'
 description: >-
-  Thinking about joining Jamia Millia Islamia? Get the latest 2026 updates on
-  JMI fees, placements, CUET cutoffs, and hostel admission details.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Thinking about joining Jamia Millia Islamia? Get the
+  latest 2...
 keywords:
   - Jamia Millia Islamia 2026
   - JMI CUET cutoff 2026
   - JMI placement 2026
   - JMI fees
   - JMI hostel admission
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -28,6 +37,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 Located in the heart of New Delhi, [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) is a premier central university that offers excellent academic programs, particularly in Engineering, Mass Communication, Law, and Humanities. Known for its rich history and top-tier infrastructure, JMI is highly sought after by students. Here's what you need to know for the 2026 academic session.
 

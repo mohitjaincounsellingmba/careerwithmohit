@@ -5,9 +5,9 @@ title: >-
 date: '2026-06-23'
 category: Entrance Exams
 description: >-
-  The National Testing Agency (NTA) has officially declared the CUET UG 2026
-  results. Get the direct link to check your scorecard, steps to download, marks
-  vs percentile, and DU CSAS counselling registration updates.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. The National Testing Agency (NTA) has officially
+  declared the...
 keywords:
   - CUET UG result 2026 declared
   - CUET UG scorecard download link 2026
@@ -15,6 +15,14 @@ keywords:
   - DU CSAS portal registration 2026
   - CUET UG marks vs percentile 2026
   - NTA CUET result check link
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my CUET UG 2026 result?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       Candidates must register separately on the admission portals of their
       target universities (e.g., DU CSAS portal, IP University portal, BHU, JNU)
       and submit their course and college preferences.
+location: Delhi
 ---
 
 The **National Testing Agency (NTA)** has officially declared the **CUET UG 2026 Results today, June 23, 2026**. Millions of students who appeared for the Common University Entrance Test (Undergraduate) can now access and download their scorecards from the official NTA portal.

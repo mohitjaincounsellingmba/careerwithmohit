@@ -4,9 +4,9 @@ title: >-
   Placements, and Reality Check (2026)
 date: '2026-03-13'
 description: >-
-  Is Masters' Union worth the hype? Read our comprehensive review covering PGP
-  TBM fees, MU-BAAT cutoff, staggering placement records, and the reality of
-  this disruptive B-school.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Is Masters' Union worth the hype? Read our
+  comprehen...
 keywords:
   - Masters Union review
   - Masters Union placements 2026
@@ -15,6 +15,14 @@ keywords:
   - PGP TBM Masters Union
   - Masters Union highest package
   - Masters Union vs ISB
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Masters' Union an MBA or a Diploma?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
       MU-BAAT is an aptitude test that evaluates critical thinking, logical
       reasoning, and data interpretation. It is followed by a very rigorous
       interview process focusing on your business mindset and past achievements.
+location: Gurgaon
 ---
 
 Masters' Union has aggressively disrupted the Indian business education sector. Located in Cybercity, Gurgaon, it is not a traditional B-School but an "institution for technology and business management" taught entirely by CXOs, MDs, and business leaders rather than academic professors. 

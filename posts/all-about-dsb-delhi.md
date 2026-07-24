@@ -1,23 +1,44 @@
 ---
-title: "Delhi School of Business (DSB), VIPS PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Delhi School of Business (DSB), VIPS? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Delhi School of Business (DSB), VIPS PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Delhi School of Business (DSB), VIPS? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "delhi school of business (dsb), vips review 2026"
-  - "delhi school of business (dsb), vips pgdm placements"
-  - "delhi school of business (dsb), vips admission cutoff"
-  - "delhi school of business (dsb), vips fees"
+  - 'delhi school of business (dsb), vips review 2026'
+  - 'delhi school of business (dsb), vips pgdm placements'
+  - 'delhi school of business (dsb), vips admission cutoff'
+  - 'delhi school of business (dsb), vips fees'
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Delhi School of Business (DSB), VIPS a good option for PGDM/MBA?"
+  - question: 'Is Delhi School of Business (DSB), VIPS a good option for PGDM/MBA?'
     answer: >-
-      Yes, Delhi School of Business (DSB), VIPS is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Delhi School of Business (DSB), VIPS?"
+      Yes, Delhi School of Business (DSB), VIPS is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Delhi School of Business (DSB),
+      VIPS?
     answer: >-
-      The average placement package at Delhi School of Business (DSB), VIPS is approximately ₹10.5 LPA, with the highest package reaching up to ₹23.9 LPA.
-  - question: "What entrance exams are accepted by Delhi School of Business (DSB), VIPS?"
+      The average placement package at Delhi School of Business (DSB), VIPS is
+      approximately ₹10.5 LPA, with the highest package reaching up to ₹23.9
+      LPA.
+  - question: 'What entrance exams are accepted by Delhi School of Business (DSB), VIPS?'
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Delhi School of Business (DSB), VIPS](/colleges/dsb-delhi)**

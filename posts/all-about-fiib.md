@@ -9,6 +9,14 @@ keywords:
   - FIIB PGDM placements 2025
   - FIIB infrastructure
   - best B-school for International Business Delhi
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is FIIB better for Marketing or Finance?
     answer: >-
@@ -24,6 +32,7 @@ faqs:
     answer: >-
       FIIB provides outsourced hostel facilities near the campus (within 2-3 km)
       with shuttle services and modern amenities.
+location: Noida
 ---
 
 ### **College Review: FIIB Delhi**

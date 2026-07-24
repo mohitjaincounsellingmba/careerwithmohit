@@ -3,9 +3,9 @@ title: >-
   AIMA MAT May 2026 Score Calculator: Marks vs Percentile & Composite Score
   Predictor
 description: >-
-  Calculate your MAT May 2026 composite score (out of 800) and expected
-  percentile. Learn how AIMA scales scores, raw vs composite scores, and top MBA
-  colleges accepting MAT.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Calculate your MAT May 2026
+  composite s...
 date: '2026-06-04'
 tags:
   - MAT
@@ -21,6 +21,14 @@ keywords:
   - MAT score out of 800
   - MAT percentile predictor
   - MAT May 2026 PBT CBT result
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -37,6 +45,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Noida
 ---
 
 # AIMA MAT May 2026 Score Calculator: Marks vs Percentile & Composite Score Predictor

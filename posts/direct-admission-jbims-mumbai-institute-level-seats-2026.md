@@ -4,9 +4,9 @@ title: >-
   Seats & NRI Quota 2026
 date: '2026-03-17'
 description: >-
-  Targeting [JBIMS Mumbai](/colleges/jbims-mumbai)? Discover how 'Direct
-  Admission' via Institute-level seats and NRI quota works. Get the facts on CAP
-  rounds, JBIMS fees, and placements for 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Targeting [JBIMS Mumbai](/colleges/jbims-mumbai)?
+  Discover ho...
 keywords:
   - '[JBIMS Mumbai](/colleges/jbims-mumbai) direct admission'
   - JBIMS institute level seats
@@ -14,6 +14,14 @@ keywords:
   - JBIMS NRI quota 2026
   - '[JBIMS Mumbai](/colleges/jbims-mumbai) MBA fees'
   - Jamnalal Bajaj admission
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Is there a management quota in [JBIMS Mumbai](/colleges/jbims-mumbai)?'
     answer: >-
@@ -30,6 +38,7 @@ faqs:
     answer: >-
       Yes, JBIMS accepts CAT and CMAT scores for All India Category seats
       through the MAH-CET CAP process.
+location: Delhi
 ---
 
 Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS), often called the **"CEO Factory of India,"** is one of the most sought-after B-schools due to its legendary alumni and incredible ROI. While JBIMS doesn't have a traditional private "donations-based" management quota, there are specific **Direct Admission pathways** such as Institute-Level Seats and NRI Quota that aspirants should know for 2026.

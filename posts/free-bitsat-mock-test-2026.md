@@ -34,7 +34,7 @@ faqs:
 ---
 Succeeding in the **[BITS Pilani](/colleges/bits-pilani) (BITSAT) 2026** entrance exam demands not just subject expertise but also robust pacing, high accuracy under pressure, and sharp decision-making. Utilizing simulated tests is the absolute benchmark method utilized by high-scoring candidates to gauge their preparedness and improve their execution speed.
 
-To help you measure your standing, we offer a high-fidelity **[Free BITS Pilani (BITSAT) 2026 Mock Test](/tools/bitsat-mock-test)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
+To help you measure your standing, we offer a high-fidelity **[Free [BITS Pilani](/colleges/bits-pilani) (BITSAT) 2026 Mock Test](/tools/bitsat-mock-test)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
 
 ---
 

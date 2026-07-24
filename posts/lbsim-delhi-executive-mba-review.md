@@ -1,16 +1,50 @@
 ---
-title: "Lal Bahadur Shastri Institute of Management (LBSIM), Delhi Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Lal Bahadur Shastri Institute of Management (LBSIM), Delhi. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Lal Bahadur Shastri Institute of Management (LBSIM), Delhi executive mba","Lal Bahadur Shastri Institute of Management (LBSIM), Delhi executive mba review","Lal Bahadur Shastri Institute of Management (LBSIM), Delhi executive mba fees","Lal Bahadur Shastri Institute of Management (LBSIM), Delhi executive mba placement","Delhi executive mba","best executive mba in Delhi"]
-category: "MBA"
+title: >-
+  Lal Bahadur Shastri Institute of Management (LBSIM), Delhi Executive MBA
+  Review
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Lal Bahadur
+  Shastri Institute of Management (LBSIM), Delhi. Learn about total fees,
+  eligibility, accepted entrance exams, average packages, pros, cons, and expert
+  verdicts.
+keywords:
+  - 'Lal Bahadur Shastri Institute of Management (LBSIM), Delhi executive mba'
+  - >-
+    Lal Bahadur Shastri Institute of Management (LBSIM), Delhi executive mba
+    review
+  - >-
+    Lal Bahadur Shastri Institute of Management (LBSIM), Delhi executive mba
+    fees
+  - >-
+    Lal Bahadur Shastri Institute of Management (LBSIM), Delhi executive mba
+    placement
+  - Delhi executive mba
+  - best executive mba in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "Is LBSIM Dwarka Executive PGDM recognized by AICTE?"
-    answer: "Yes, the Post Graduate Diploma in Management (Executive) at LBSIM is fully approved by the All India Council for Technical Education (AICTE)."
-  - question: "What is the eligibility criteria for LBSIM Executive PGDM?"
-    answer: "Applicants need a minimum of 5 years of post-qualification managerial/professional work experience along with a valid CAT/XAT/GMAT score."
-  - question: "Does the program include a corporate project?"
-    answer: "Yes, the final 3 months of the 15-month program are dedicated to an in-depth corporate internship/project."
+  - question: Is LBSIM Dwarka Executive PGDM recognized by AICTE?
+    answer: >-
+      Yes, the Post Graduate Diploma in Management (Executive) at LBSIM is fully
+      approved by the All India Council for Technical Education (AICTE).
+  - question: What is the eligibility criteria for LBSIM Executive PGDM?
+    answer: >-
+      Applicants need a minimum of 5 years of post-qualification
+      managerial/professional work experience along with a valid CAT/XAT/GMAT
+      score.
+  - question: Does the program include a corporate project?
+    answer: >-
+      Yes, the final 3 months of the 15-month program are dedicated to an
+      in-depth corporate internship/project.
+location: Delhi
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Lal Bahadur Shastri Institute of Management (LBSIM), Delhi](/colleges/lbsim-delhi) represents a powerful gateway to higher senior leadership positions.

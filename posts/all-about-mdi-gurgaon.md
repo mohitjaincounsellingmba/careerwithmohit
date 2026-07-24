@@ -1,23 +1,39 @@
 ---
-title: "MDI Gurgaon PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to MDI Gurgaon? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'MDI Gurgaon PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to MDI Gurgaon? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "mdi gurgaon review 2026"
-  - "mdi gurgaon pgdm placements"
-  - "mdi gurgaon admission cutoff"
-  - "mdi gurgaon fees"
+  - mdi gurgaon review 2026
+  - mdi gurgaon pgdm placements
+  - mdi gurgaon admission cutoff
+  - mdi gurgaon fees
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is MDI Gurgaon a good option for PGDM/MBA?"
+  - question: Is MDI Gurgaon a good option for PGDM/MBA?
     answer: >-
-      Yes, MDI Gurgaon is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at MDI Gurgaon?"
+      Yes, MDI Gurgaon is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at MDI Gurgaon?
     answer: >-
-      The average placement package at MDI Gurgaon is approximately ₹27.6 LPA, with the highest package reaching up to ₹60.0 LPA.
-  - question: "What entrance exams are accepted by MDI Gurgaon?"
+      The average placement package at MDI Gurgaon is approximately ₹27.6 LPA,
+      with the highest package reaching up to ₹60.0 LPA.
+  - question: What entrance exams are accepted by MDI Gurgaon?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, GMAT for the PGDM and MBA admissions.
+location: Gurgaon
 ---
 
 ### **College Review: [MDI Gurgaon](/colleges/mdi-gurgaon)**

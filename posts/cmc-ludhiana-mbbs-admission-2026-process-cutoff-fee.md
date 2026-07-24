@@ -1,20 +1,36 @@
 ---
-title: "Christian Medical College (CMC), Ludhiana MBBS Admission 2026: Process, NEET Cutoff & Fee Structure"
-date: "2026-07-21"
-description: "Complete guide for MBBS admission 2026 at Christian Medical College (CMC), Ludhiana. Check latest fee structure, NEET UG expected cutoff ranks, seat matrix, application process, and campus hospital reviews."
+title: >-
+  Christian Medical College (CMC), Ludhiana MBBS Admission 2026: Process, NEET
+  Cutoff & Fee Structure
+date: '2026-07-21'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Christian
+  Medical C...
 keywords:
-  - "CMC Ludhiana MBBS admission 2026"
-  - "CMC Ludhiana fee structure"
-  - "CMC Ludhiana NEET cutoff 2026"
-  - "Christian Medical College (CMC), Ludhiana MBBS process"
-  - "MBBS fees private medical college"
+  - CMC Ludhiana MBBS admission 2026
+  - CMC Ludhiana fee structure
+  - CMC Ludhiana NEET cutoff 2026
+  - 'Christian Medical College (CMC), Ludhiana MBBS process'
+  - MBBS fees private medical college
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Can Christian students from any state apply to CMC Ludhiana?"
-    answer: "Yes, Christian minority seats (Category 2) are open to eligible Christian candidates from across India."
-  - question: "What is the annual MBBS fee in CMC Ludhiana?"
-    answer: "The tuition fee is approximately ₹6.60 Lakhs per year."
-  - question: "What is the cutoff score for Christian minority quota in CMC Ludhiana?"
-    answer: "Expected NEET score for Christian minority seats is 480 to 540."
+  - question: Can Christian students from any state apply to CMC Ludhiana?
+    answer: >-
+      Yes, Christian minority seats (Category 2) are open to eligible Christian
+      candidates from across India.
+  - question: What is the annual MBBS fee in CMC Ludhiana?
+    answer: The tuition fee is approximately ₹6.60 Lakhs per year.
+  - question: What is the cutoff score for Christian minority quota in CMC Ludhiana?
+    answer: Expected NEET score for Christian minority seats is 480 to 540.
+location: Delhi
 ---
 
 Planning your medical career and targeting **Christian Medical College (CMC), Ludhiana** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, CMC Ludhiana offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

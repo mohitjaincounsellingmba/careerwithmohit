@@ -4,10 +4,9 @@ title: >-
   Calculator
 date: '2026-06-02'
 description: >-
-  Step-by-step guide to check your MAT May 2026 Internet-Based Test (IBT) score
-  on mat.aima.in. Learn the exact result date, how to download your scorecard
-  from home, and use the free MAT score calculator for an instant composite
-  score and percentile estimate.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Step-by-step guide to check your
+  MAT Ma...
 keywords:
   - MAT May 2026 IBT score
   - check MAT IBT result 2026
@@ -18,6 +17,14 @@ keywords:
   - MAT score calculator IBT
   - MAT IBT result date June 2026
   - MAT from home result 2026
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Where do I check my MAT IBT scorecard?
     answer: >-
@@ -41,6 +48,7 @@ faqs:
       Immediately on the day of result declaration. Download the scorecard and
       start applying the same day — IBT candidates have a strategic window
       before PBT/CBT results come out.
+location: Noida
 ---
 
 The **MAT May 2026 Internet-Based Test (IBT)** was conducted across **multiple slots throughout May 2026**, allowing candidates to appear right from the comfort of their homes. If you appeared for the IBT mode, your scorecard is likely to be one of the **first to be released** in this session — often before PBT and CBT results. Here's your complete guide on result dates, scorecard download, and how to use your IBT score for MBA admissions.

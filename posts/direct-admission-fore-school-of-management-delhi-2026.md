@@ -14,6 +14,14 @@ keywords:
   - FORE Delhi MBA fees 2026
   - 'direct admission in [FORE School of Management](/colleges/fore-school-delhi)'
   - FORE Delhi NRI quota
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       Can I get direct admission in [FORE School of
@@ -32,6 +40,7 @@ faqs:
     answer: >-
       Yes, FORE has a balanced mix of freshers and students with professional
       work experience, offering a diverse learning environment.
+location: Delhi
 ---
 
 Foundation for Organisational Research and Education (FORE) School of Management, located in the prominent Institutional Area of South Delhi, is a top-ranked B-school known for its academic excellence and robust corporate linkages. For the 2026-28 batch, **Direct Admission in [FORE School of Management](/colleges/fore-school-delhi)** is a popular topic for students eyeing high-ROI careers in the capital.

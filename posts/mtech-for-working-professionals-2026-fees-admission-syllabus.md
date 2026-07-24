@@ -5,9 +5,9 @@ title: >-
 date: '2026-04-25'
 category: Online Degrees
 description: >-
-  Complete guide to M.Tech for Working Professionals 2026. Compare IIT Jammu,
-  IIT Jodhpur, Sanskriti University & more. Check fees, syllabus, eligibility
-  and get 15% discount on admission.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Faridabad, Delhi NCR. Complete guide to M.Tech for Working
+  Professionals...
 keywords:
   - M.Tech for working professionals 2026
   - MTech working professionals India
@@ -17,6 +17,14 @@ keywords:
   - MTech without GATE working professionals
   - best MTech colleges working professionals India
   - MTech hybrid program 2026
+  - Faridabad Colleges
+  - Best Colleges in Faridabad
+  - Faridabad Admissions 2026
+  - Direct Admission in Faridabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
     answer: >-
       Yes, universities typically conduct online semester exams using AI-enabled
       or human-proctored systems to maintain academic integrity.
+location: Faridabad
 ---
 For engineers seeking senior technical roles, R&D leadership, or a pathway to academia — an **M.Tech for Working Professionals** is the most strategic qualification in 2026. Designed for **employed engineers**, it combines weekend/evening classes with hybrid delivery so you never need to leave your job.
 

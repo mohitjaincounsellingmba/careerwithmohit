@@ -3,9 +3,9 @@ title: 'MBA Business Analytics vs B.Tech: The Ultimate Guide for Engineering Stu
 date: '2026-04-10'
 category: MBA Admissions
 description: >-
-  Confused between continuing a technical career in engineering or pivoting to
-  an MBA in Business Analytics? Discover the differences, salaries, skills, and
-  why engineers excel in this field.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Confused between continuing a technical career in
+  engineering...
 keywords:
   - MBA Business Analytics vs BTech
   - Business Analytics after engineering
@@ -13,6 +13,14 @@ keywords:
   - is Business Analytics good for engineering students
   - MBA after BTech benefits
   - data science vs business analytics
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 For many engineering students, the end of their B.Tech journey brings an important question: *Should I stick to coding and core engineering, or should I transition into management?* Over the last few years, an **MBA in Business Analytics** has emerged as one of the most sought-after specializations for B.Tech graduates.
 

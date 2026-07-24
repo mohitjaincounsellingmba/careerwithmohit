@@ -2,8 +2,9 @@
 title: 'CUET PG 2026 Result Date: Expected Timeline & Step-by-Step Guide'
 date: '2026-03-24'
 description: >-
-  When will the CUET PG 2026 result be announced? Get the latest updates on the
-  official NTA result date, answer keys, and how to download your scorecard.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. When will the CUET PG 2026 result be announced? Get the
+  lates...
 keywords:
   - CUET PG 2026 result date
   - CUET PG expected result 2026
@@ -11,6 +12,14 @@ keywords:
   - NTA CUET PG scorecard download
   - CUET PG result link 2026
   - CUET PG normalisation process
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When is the CUET PG 2026 result date?
     answer: >-
@@ -29,6 +38,7 @@ faqs:
     answer: >-
       No, candidates must download the digital scorecard from the portal. No
       physical copies will be sent by post.
+location: Delhi
 ---
 
 The Common University Entrance Test (CUET) PG 2026 has concluded, and the wait for the results is often the most stressful period for students. Whether you are aiming for Delhi University, BHU, or TISS, your CUET PG scorecard will determine your seat in the 2026 academic session.

@@ -4,9 +4,9 @@ title: >-
   Best ROI in Jaipur?
 date: '2026-03-25'
 description: >-
-  Is [Poornima University](/colleges/poornima-jaipur)’s GCEC MBA the right
-  choice for entrepreneurs? Explore specializations in International Finance
-  (ACCA/CMA) and Sustainability, fees, and placements in our 2026 review.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Is [Poornima University](/colleges/poornima-jaipur)’s
+  GCEC MB...
 keywords:
   - '[Poornima University](/colleges/poornima-jaipur) GCEC MBA review 2026'
   - GCEC Jaipur MBA placement package
@@ -14,6 +14,14 @@ keywords:
   - '[Poornima University](/colleges/poornima-jaipur) MBA fees 2026'
   - Global Centre for Entrepreneurship and Commerce reviews
   - best MBA for entrepreneurship in Rajasthan
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Is GCEC [Poornima University](/colleges/poornima-jaipur) degree valid?'
     answer: >-
@@ -26,6 +34,7 @@ faqs:
       ACCA (UK) certification, saving nearly 2 years of study time.
   - question: What is the intake for the GCEC MBA 2026 batch?
     answer: "They maintain a selective, smaller batch size to ensure personalized mentorship for startup ideas and placement grooming.\n\n[\U0001F449 Compare GCEC with Other Jaipur B-Schools!](/tools/college-comparison)\n\n**Ready to Build Your Own Empire?**\nAt **CareerWithMohit**, we help you identify the right \"Niche\" colleges that match your specific career goals in Finance or Entrepreneurship.\n\n[\U0001F449 Book a Personalized Admission Audit!](/inquiry)"
+location: Delhi
 ---
 
 Rajasthan is rapidly becoming a hub for startups and specialized education. Leading this change is the **Global Centre for Entrepreneurship and Commerce (GCEC)**, in collaboration with **[Poornima University](/colleges/poornima-jaipur), Jaipur**. 

@@ -4,15 +4,23 @@ title: >-
   System
 date: '2026-05-28'
 description: >-
-  Discover how Mumbai's Dabbawalas achieve near-perfect Six Sigma efficiency
-  using a zero-technology, color-coded manual system. Read this operations
-  management case study.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Discover how Mumbai's Dabbawalas achieve near-perfect
+  Six Sig...
 keywords:
   - Mumbai Dabbawalas case study
   - Six Sigma operations case study
   - Dabbawala manual coding system
   - operations management lessons
   - logistics case studies MBA
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 For decades, the **Mumbai Dabbawalas** (lunchbox delivery men) have been a subject of fascination for operations managers, business schools, and tech giants globally. Reaching a near-flawless **Six Sigma** efficiency level without using computers, smartphones, paper, or electricity, this 130-year-old network is a masterclass in logistics, supply chain resilience, and human-centric design.
 

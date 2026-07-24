@@ -15,6 +15,14 @@ keywords:
   - medical colleges near gurgaon noida
   - sgt university mbbs fees
   - direct mbbs admission delhi ncr
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the Delhi Domicile benefit for Medical?
     answer: >-
@@ -36,6 +44,7 @@ faqs:
       Usually starts in **July/August**, conducted by the Medical Counselling
       Committee (MCC) for central seats and Guru Gobind Singh Indraprastha
       University (GGSIPU) for state seats.
+location: Noida
 ---
 
 Delhi is the undisputed hub of Indian medical clinical training. With India’s largest government hospitals (Safdarjung, RML, and LNJP) and the highest concentration of specialized doctors, the National Capital Region (NCR) offers a medical education environment that is unmatched in patient variety and technical infrastructure.

@@ -3,9 +3,9 @@ title: Can I do BCA Without Maths? — Schools & Eligibility Guide 2026
 date: '2026-04-21'
 category: BCA Admissions
 description: >-
-  Confused if you can do BCA without Mathematics in 12th? The answer is YES.
-  Discover the best BCA colleges for non-maths students and how to start your IT
-  career in 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Confused if you can do BCA
+  without Math...
 keywords:
   - can i do bca without maths in 12th
   - bca colleges for non maths students 2026
@@ -13,6 +13,14 @@ keywords:
   - is maths compulsory for bca in christ university
   - how to do bca if i had commerce without maths
   - bca with bridge course
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Guru Gobind Singh Indraprastha University (GGSIPU) require Maths?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
       Yes, but you will need to take the **NIMCET** or other state exams, which
       typically have a Mathematics section. You will have to work harder on your
       maths prep during your BCA years.
+location: Noida
 ---
 
 One of the most common myths in the Indian education system is that you need "Mathematics" to build a career in software. While many top-tier government colleges still maintain strict maths eligibility, the landscape has changed drastically in 2026.

@@ -1,23 +1,48 @@
 ---
-title: "Gitarattan International Business School (GIBS) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Gitarattan International Business School (GIBS)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Gitarattan International Business School (GIBS) PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Gitarattan International
+  Business Sc...
 keywords:
-  - "gitarattan international business school (gibs) review 2026"
-  - "gitarattan international business school (gibs) pgdm placements"
-  - "gitarattan international business school (gibs) admission cutoff"
-  - "gitarattan international business school (gibs) fees"
+  - gitarattan international business school (gibs) review 2026
+  - gitarattan international business school (gibs) pgdm placements
+  - gitarattan international business school (gibs) admission cutoff
+  - gitarattan international business school (gibs) fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Gitarattan International Business School (GIBS) a good option for PGDM/MBA?"
+  - question: >-
+      Is Gitarattan International Business School (GIBS) a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Gitarattan International Business School (GIBS) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Gitarattan International Business School (GIBS)?"
+      Yes, Gitarattan International Business School (GIBS) is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Gitarattan International Business
+      School (GIBS)?
     answer: >-
-      The average placement package at Gitarattan International Business School (GIBS) is approximately ₹5.5 LPA, with the highest package reaching up to ₹10.0 LPA.
-  - question: "What entrance exams are accepted by Gitarattan International Business School (GIBS)?"
+      The average placement package at Gitarattan International Business School
+      (GIBS) is approximately ₹5.5 LPA, with the highest package reaching up to
+      ₹10.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Gitarattan International Business
+      School (GIBS)?
     answer: >-
-      The college accepts scores from national level entrance examinations including IPU CET, CAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including IPU CET, CAT, CMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi)**

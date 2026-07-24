@@ -12,6 +12,14 @@ keywords:
   - best PGDM colleges in Delhi NCR
   - IMM Delhi vs NDIM
   - IMM Delhi ranking
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 Founded in 1969, the **Institute of Marketing and Management (IMM) Delhi** is one of the oldest B-schools in India. Located in the prestigious Qutub Institutional Area, it sits alongside elite institutions like IIFT and [FORE School of Management](/colleges/fore-school-delhi). 
 

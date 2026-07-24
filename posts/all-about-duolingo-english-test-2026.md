@@ -15,13 +15,21 @@ tags:
   - English Proficiency
   - Study in USA
 description: >-
-  The Duolingo English Test (DET) has become a major contender in the world of
-  English proficiency testing, offering a modern, digital-first alternative to
-  t...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. The Duolingo English Test (DET) has become a major
+  contender ...
 keywords:
   - career counselling
   - admissions 2026
   - placements 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is a good score in DET for top universities?
     answer: >-
@@ -36,6 +44,7 @@ faqs:
     answer: >-
       You can take the test as many times as you like, but you can only purchase
       three tests in a 30-day period.
+location: Delhi
 ---
 
 The Duolingo English Test (DET) has become a major contender in the world of English proficiency testing, offering a modern, digital-first alternative to traditional exams like IELTS and TOEFL.

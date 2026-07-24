@@ -4,9 +4,9 @@ title: >-
   Institutes
 date: '2026-03-24'
 description: >-
-  Check the total seats in GFTIs through JoSAA 2026 counselling. Get a complete
-  list of 30+ Government Funded Technical Institutes and their seat distribution
-  for B.Tech.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Check the total seats in GFTIs through JoSAA 2026
+  counselling...
 keywords:
   - total seats in GFTI 2026
   - GFTI seat matrix JoSAA
@@ -15,6 +15,14 @@ keywords:
   - government funded technical institutes seats
   - PEC Chandigarh seats
   - BIT Mesra total seats
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Delhi
 ---
 **Government Funded Technical Institutes (GFTIs)** are prestigious universities and colleges funded either by the Central or State Governments. For students qualifying the **JEE Main** examination, GFTIs represent an excellent option, especially when seeking quality education at affordable fee structures.
 

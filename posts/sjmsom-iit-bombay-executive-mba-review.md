@@ -66,7 +66,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is the degree awarded jointly by [IIT Bombay](/colleges/iit-bombay) and WashU?
-Yes, this is the only program in India that awards a joint Executive MBA degree from both a top Indian institution (IIT Bombay) and an elite American university (Washington University in St. Louis).
+Yes, this is the only program in India that awards a joint Executive MBA degree from both a top Indian institution ([IIT Bombay](/colleges/iit-bombay)) and an elite American university (Washington University in St. Louis).
 
 ### Does the program include international travel?
 Yes, the program includes a mandatory 2-week capstone residency module at Washington University in St. Louis, USA.

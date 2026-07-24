@@ -13,6 +13,14 @@ keywords:
   - '[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) fees 2026'
   - GLIM Gurgaon admission 2026
   - direct admission in GLIM Gurgaon
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) offer direct
@@ -36,6 +44,7 @@ faqs:
     answer: >-
       Cycle 1 usually ends in **January**, with subsequent rounds ending in
       March or April.
+location: Gurgaon
 ---
 
 Great Lakes Institute of Management (GLIM) Gurgaon is a sister campus of the legendary Chennai school, offering the same academic excellence in India's corporate heartland. Known for its strong industry integration and focus on Analytics, it is a high-priority college for Delhi-NCR aspirants. For students looking for **Direct Admission in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) 2026**, here are the facts on how to secure your seat.

@@ -2,9 +2,9 @@
 title: 'All About IITs: B.Tech Fees, Cutoffs, Placements & Legacy 2026'
 date: '2026-03-13'
 description: >-
-  The complete guide to Indian Institutes of Technology (IITs). Discover B.Tech
-  fees, JEE Advanced cutoffs, placement packages, and what makes the old IITs
-  the best in India.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. The complete guide to Indian Institutes of Technology
+  (IITs)....
 keywords:
   - IIT review 2026
   - '[IIT Bombay](/colleges/iit-bombay) placements'
@@ -13,6 +13,14 @@ keywords:
   - top IITs in India
   - IIT highest package
   - IIT Madras vs IIT Bombay
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 The Indian Institutes of Technology (IITs) are the most prestigious engineering institutions in India. Recognized globally for their rigorous academics, brilliant peer groups, and astronomical placement figures, getting into an older IIT (Bombay, Delhi, Madras, Kanpur, Kharagpur) is a dream for millions of students.
 

@@ -4,9 +4,9 @@ title: >-
   Placements 2026
 date: '2026-03-13'
 description: >-
-  A complete review of SRM Institute of Science and Technology (all campuses).
-  Find out B.Tech fees, SRMJEEE cutoffs, placements, highest packages, and
-  student reviews.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. A complete review of SRM Institute of Science and
+  Technology ...
 keywords:
   - SRM University review
   - SRM placements 2026
@@ -15,6 +15,14 @@ keywords:
   - SRM KTR campus
   - SRM Ramapuram
   - SRM highest average package
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -30,6 +38,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 SRM Institute of Science and Technology (SRMIST) is one of the largest and most sought-after private engineering universities in India. Known for its massive infrastructure, diverse student body, and strong placement cell, SRM attracts lakhs of applicants every year.
 

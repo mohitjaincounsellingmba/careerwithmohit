@@ -4,9 +4,9 @@ title: >-
   Calculator
 date: '2026-06-02'
 description: >-
-  Complete guide to check your MAT May 2026 Computer-Based Test (CBT) score on
-  mat.aima.in. Know the exact result date, scorecard download steps, and use the
-  free MAT score calculator to estimate your composite score and percentile.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Complete guide to check your MAT
+  May 20...
 keywords:
   - MAT May 2026 CBT score
   - check MAT CBT result 2026
@@ -16,6 +16,14 @@ keywords:
   - AIMA MAT CBT score June 2026
   - MAT score calculator
   - MAT CBT result date 2026
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How to check MAT CBT scorecard online?
     answer: >-
@@ -39,6 +47,7 @@ faqs:
     answer: >-
       Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT
       scores interchangeably.
+location: Noida
 ---
 
 The **MAT May 2026 Computer-Based Test (CBT)** is scheduled for **June 14, 2026** at designated test centres across India. If you have registered for the CBT mode — or have already appeared — this guide tells you exactly when to expect your result, how to download your scorecard, and how to use your CBT score for MBA admissions in 2026.

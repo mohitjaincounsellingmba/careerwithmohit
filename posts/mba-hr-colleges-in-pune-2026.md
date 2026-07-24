@@ -118,9 +118,9 @@ Source: Shiksha.com
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which Symbiosis college is better for HR: SIBM or SCMHRD?
-[SCMHRD Pune](/colleges/scmhrd-pune) is specifically famous for its flagship HR specialization and has historically been ranked alongside XLRI and TISS for HR. However, SIBM Pune is the flagship Symbiosis B-school and offers excellent placement opportunities for all specializations, including HR.
+[SCMHRD Pune](/colleges/scmhrd-pune) is specifically famous for its flagship HR specialization and has historically been ranked alongside XLRI and TISS for HR. However, [SIBM Pune](/colleges/sibm-pune) is the flagship Symbiosis B-school and offers excellent placement opportunities for all specializations, including HR.
 
-### What is the average placement package at SCMHRD Pune for HR?
+### What is the average placement package at [SCMHRD Pune](/colleges/scmhrd-pune) for HR?
 The overall average placement package at SCMHRD Pune is around INR 23.71 LPA, with the HR branch securing highly lucrative packages from top consulting and FMCG firms.
 
 ### What are the low-fee MBA HR options in Pune?

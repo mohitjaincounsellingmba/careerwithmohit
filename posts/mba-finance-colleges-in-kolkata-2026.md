@@ -117,7 +117,7 @@ Source: Shiksha.com
 IISWBM offers highly subsidized fees (approx. INR 6.0 Lakhs total) and is popular for its high ROI.
 
 ### Are CMAT scores accepted by top Kolkata B-schools?
-While IIM Calcutta and IISWBM require CAT, several private institutions like Heritage accept CMAT and MAT.
+While [IIM Calcutta](/colleges/iim-calcutta) and IISWBM require CAT, several private institutions like Heritage accept CMAT and MAT.
 ---
 
 ### 🚀 Boost Your Preparation

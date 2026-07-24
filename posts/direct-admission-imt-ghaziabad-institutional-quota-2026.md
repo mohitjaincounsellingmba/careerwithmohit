@@ -11,6 +11,14 @@ keywords:
   - IMT Ghaziabad fees 2026
   - Institute of Management Technology Ghaziabad admission
   - direct admission in IMT
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does IMT Ghaziabad has a management quota?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
     answer: >-
       For the regular PGDM, CAT or XAT is mandatory. For NRI candidates, GMAT is
       accepted.
+location: Ghaziabad
 ---
 
 Institute of Management Technology (IMT) Ghaziabad is a premier B-school in India, especially recognized for its excellence in **Marketing**. Known for its massive alumni network and industry-aligned pedagogy, it is a top destination for PGDM aspirants. For the 2026-28 batch, **Direct Admission in IMT Ghaziabad** is a structured path through institutional and NRI categories.

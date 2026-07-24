@@ -3,8 +3,9 @@ title: 'IPU MBA Cutoffs 2025-2026 — Expected CAT, CMAT & IPU CET Ranks'
 date: '2026-04-23'
 category: MBA Admissions
 description: >-
-  Looking for IPU MBA cutoffs? Get the expected CAT and CMAT percentile cutoffs
-  for USMS, MAIT, JIMS, and other top GGSIPU MBA colleges for 2025-2026 session.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for IPU MBA cutoffs? Get the expected CAT and
+  CMAT pe...
 keywords:
   - ipu mba cutoff 2026
   - ggsipu mba cat cutoff
@@ -14,6 +15,14 @@ keywords:
   - ipu mba cmat cutoff
   - ipu cet mba rank cutoff
   - best mba colleges in delhi ipu cutoff
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get USMS Dwarka with a CMAT score?
     answer: >-
@@ -30,6 +39,7 @@ faqs:
       USMS is the university's on-campus department. It has the lowest fees and
       the highest brand value. Affiliated colleges are private but follow the
       same curriculum and degree.
+location: Delhi
 ---
 
 Guru Gobind Singh Indraprastha University (GGSIPU) is one of the most sought-after universities for MBA in Delhi NCR due to its excellent ROI and centralized counseling. However, unlike other universities, IPU follows a unique **Priority System** for MBA admissions.

@@ -13,6 +13,14 @@ keywords:
   - '[IMI Delhi](/colleges/imi-delhi) fees 2026'
   - International Management Institute Delhi admission
   - direct admission in IMI
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Is there a management quota in [IMI Delhi](/colleges/imi-delhi)?'
     answer: >-
@@ -31,6 +39,7 @@ faqs:
     answer: >-
       Yes, IMI Delhi has a good mix of both freshers and students with work
       experience in its PGDM programs.
+location: Delhi
 ---
 
 International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2026-28 batch, **Direct Admission in [IMI Delhi](/colleges/imi-delhi)** is a merit-linked process focusing on profile diversity and the institutional category.

@@ -1,23 +1,43 @@
 ---
-title: "Jagan Institute of Management Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Jagan Institute of Management Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Jagan Institute of Management Studies PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Jagan Institute of Management
+  Studie...
 keywords:
-  - "jagan institute of management studies review 2026"
-  - "jagan institute of management studies pgdm placements"
-  - "jagan institute of management studies admission cutoff"
-  - "jagan institute of management studies fees"
+  - jagan institute of management studies review 2026
+  - jagan institute of management studies pgdm placements
+  - jagan institute of management studies admission cutoff
+  - jagan institute of management studies fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Jagan Institute of Management Studies a good option for PGDM/MBA?"
+  - question: Is Jagan Institute of Management Studies a good option for PGDM/MBA?
     answer: >-
-      Yes, Jagan Institute of Management Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Jagan Institute of Management Studies?"
+      Yes, Jagan Institute of Management Studies is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Jagan Institute of Management
+      Studies?
     answer: >-
-      The average placement package at Jagan Institute of Management Studies is approximately ₹9.72 LPA, with the highest package reaching up to ₹24 LPA.
-  - question: "What entrance exams are accepted by Jagan Institute of Management Studies?"
+      The average placement package at Jagan Institute of Management Studies is
+      approximately ₹9.72 LPA, with the highest package reaching up to ₹24 LPA.
+  - question: What entrance exams are accepted by Jagan Institute of Management Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies)**

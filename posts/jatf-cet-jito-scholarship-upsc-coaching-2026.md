@@ -2,9 +2,9 @@
 title: 'JATF CET 2026: JITO Scholarship & Free UPSC Coaching for Jain Students'
 date: '2026-03-28'
 description: >-
-  Prepare for UPSC with a 100% scholarship! Learn about the JATF CET 2026 exam,
-  eligibility criteria, and free civil services coaching provided by JITO for
-  Jain students.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Prepare for UPSC with a 100% scholarship! Learn about
+  the JAT...
 keywords:
   - JITO scholarship 2026
   - JATF CET 2026
@@ -13,6 +13,14 @@ keywords:
   - free UPSC coaching for Jain students
   - JATF PACE program
   - JATF scholarship eligibility
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 Preparing for the UPSC Civil Services Examination (IAS, IPS, IRS) or State Public Service Commissions (SPSC) is a rigorous and expensive journey. Recognizing this, the **Jain International Trade Organisation (JITO)**, through its **JATF (JITO Administrative Training Foundation)** wing, offers an incredible scholarship and coaching program to empower students from the Jain community.
 

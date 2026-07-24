@@ -3,8 +3,9 @@ title: 'SCMS Pune BBA Admission 2026: Symbiosis Entrance Test (SET) Guide'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-
-  Planning to join SCMS Pune for BBA in 2026? Find out everything about the SET
-  exam, latest fees, placement packages, and the unique Symbiosis lifestyle.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Planning to join SCMS Pune for
+  BBA in 2...
 keywords:
   - scms pune bba admission 2026
   - symbiosis bba fees
@@ -12,6 +13,14 @@ keywords:
   - symbiosis set strategy 2026
   - best bba college pune
   - symbiosis centre for management studies
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is there a reservation policy at SCMS Pune?
     answer: >-
@@ -22,6 +31,7 @@ faqs:
     answer: >-
       No, direct admission is not available for the BBA program. Every candidate
       must qualify for the SET and the subsequent PI-WAT rounds.
+location: Noida
 ---
 
 [Symbiosis Centre for Management Studies (SCMS), Pune](/colleges/symbiosis-centre-for-management-studies-scms-pune), is one of the most prestigious names in undergraduate management education. Known for its global immersion programs and industry-aligned curriculum, SCMS Pune is a top choice for BBA aspirants in 2026.

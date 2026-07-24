@@ -1,23 +1,43 @@
 ---
-title: "Faculty of Management Studies - IRM PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Faculty of Management Studies - IRM? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Faculty of Management Studies - IRM PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Faculty of Management Studies
+  - IRM?...
 keywords:
-  - "faculty of management studies - irm review 2026"
-  - "faculty of management studies - irm pgdm placements"
-  - "faculty of management studies - irm admission cutoff"
-  - "faculty of management studies - irm fees"
+  - faculty of management studies - irm review 2026
+  - faculty of management studies - irm pgdm placements
+  - faculty of management studies - irm admission cutoff
+  - faculty of management studies - irm fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Faculty of Management Studies - IRM a good option for PGDM/MBA?"
+  - question: Is Faculty of Management Studies - IRM a good option for PGDM/MBA?
     answer: >-
-      Yes, Faculty of Management Studies - IRM is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Faculty of Management Studies - IRM?"
+      Yes, Faculty of Management Studies - IRM is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: >-
+      What is the average package offered at Faculty of Management Studies -
+      IRM?
     answer: >-
-      The average placement package at Faculty of Management Studies - IRM is approximately ₹6.5 LPA, with the highest package reaching up to ₹15.0 LPA.
-  - question: "What entrance exams are accepted by Faculty of Management Studies - IRM?"
+      The average placement package at Faculty of Management Studies - IRM is
+      approximately ₹6.5 LPA, with the highest package reaching up to ₹15.0 LPA.
+  - question: What entrance exams are accepted by Faculty of Management Studies - IRM?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Faculty of Management Studies - IRM](/colleges/fms-irm-jaipur)**

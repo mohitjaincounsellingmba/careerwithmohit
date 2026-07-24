@@ -13,6 +13,14 @@ keywords:
   - '[MDI Gurgaon](/colleges/mdi-gurgaon) GMAT cutoff'
   - '[MDI Gurgaon](/colleges/mdi-gurgaon) management quota'
   - 'study at [MDI Gurgaon](/colleges/mdi-gurgaon)'
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Does [MDI Gurgaon](/colleges/mdi-gurgaon) have a Management Quota?'
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       A score of **665+ on the GMAT Focus Edition** is considered safe for the
       NRI/FN category. However, a strong professional profile and academic
       record can sometimes compensate for a slightly lower score (645+).
+location: Gurgaon
 ---
 
 ### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon) NRI/FN 2026 Snapshot

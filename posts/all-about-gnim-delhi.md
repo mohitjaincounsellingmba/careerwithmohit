@@ -9,6 +9,14 @@ keywords:
   - GNIM placement 2024
   - GNIM Delhi infrastructure
   - IPU MBA colleges Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -25,6 +33,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 ### **College Review: GNIM Delhi**
 *   **Gursikh Traditions**: Founded by the Delhi Sikh Gurdwara Management Committee, focusing on ethical and value-based education.

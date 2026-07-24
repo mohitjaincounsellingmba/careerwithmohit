@@ -5,9 +5,9 @@ title: >-
 date: '2026-05-10'
 category: Online MBA
 description: >-
-  Honest, data-driven review of Chandigarh University Online MBA 2026. Know the
-  real fees (₹1,65,000), 23 specializations, NAAC A+ status, 300+ placement
-  partners, and who should enroll.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Honest, data-driven review of Chandigarh University
+  Online MB...
 keywords:
   - Chandigarh University online MBA review 2026
   - CU online MBA fees 2026
@@ -16,6 +16,14 @@ keywords:
   - CU online MBA placement
   - Chandigarh University UGC DEB approved MBA
   - is CU online MBA worth it 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does CU Online MBA need CAT score?
     answer: >-
@@ -34,6 +42,7 @@ faqs:
     answer: >-
       CU holds **NAAC A+** (not A++). Do not confuse it with other universities
       — always verify accreditation at [naac.gov.in](https://naac.gov.in).
+location: Delhi
 ---
 
 **Chandigarh University (CU) Online MBA** is one of India's most affordable and prestigious online management programs in 2026. Backed by **NAAC A+ accreditation**, a QS World University Ranking, and a network of 300+ placement partners, CU Online is a top contender for working professionals and fresh graduates alike.

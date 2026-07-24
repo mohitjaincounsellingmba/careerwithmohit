@@ -13,6 +13,14 @@ keywords:
   - JoSAA counselling IIT Delhi
   - IIT Delhi placement review 2025
   - NIRF ranking IIT Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What JEE Advanced rank is needed for IIT Delhi CSE?
     answer: >-
@@ -27,6 +35,7 @@ faqs:
       The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC
       students, with full waivers for SC/ST and income-based concessions for
       others.
+location: Delhi
 ---
 
 The **Indian Institute of Technology (IIT) Delhi** is consistently ranked as the #2 engineering institute in India (NIRF 2025). Located in the heart of South Delhi (Hauz Khas), it is the ultimate dream for millions of JEE aspirants. Known for its rigorous academics, world-class research, and a billionaire-producing alumni network, IIT Delhi is the pinnacle of engineering education in India.

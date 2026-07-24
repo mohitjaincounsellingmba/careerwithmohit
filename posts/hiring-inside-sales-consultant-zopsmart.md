@@ -2,8 +2,9 @@
 title: 'Hiring: Inside Sales Consultant at Zopsmart - Noida, UP'
 date: '2026-03-22'
 description: >-
-  Apply for the Inside Sales Consultant role at Zopsmart. Salary: ₹12.5L -
-  ₹16.6L/Year. Experience: 4 Years. Verified referral link for 2026.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Apply for the Inside Sales
+  Consultant r...
 keywords:
   - Inside Sales Consultant jobs
   - Zopsmart recruitment
@@ -11,6 +12,14 @@ keywords:
   - 'jobs in Noida, UP'
   - OptimHire referral jobs
   - 2026 career opportunities
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -27,6 +36,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
+location: Noida
 ---
 Are you looking for a high-impact role in the industry? **Zopsmart** is hiring a **Inside Sales Consultant** for their **Noida, UP** team. This is a premium opportunity with a verified referral link to fast-track your application.
 

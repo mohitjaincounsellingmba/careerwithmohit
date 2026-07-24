@@ -9,6 +9,14 @@ keywords:
   - Altera placements 2025
   - Altera Institute infrastructure
   - marketing focused MBA Gurgaon
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Altera Institute good for a Marketing career?
     answer: >-
@@ -24,6 +32,7 @@ faqs:
       The ALAT process is highly practical, often involving a case presentation
       or a mini-project to evaluate your creative problem-solving and business
       communication skills.
+location: Gurgaon
 ---
 
 ### **College Review: Altera Institute**

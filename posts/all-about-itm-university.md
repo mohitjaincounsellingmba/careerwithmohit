@@ -1,23 +1,39 @@
 ---
-title: "ITM University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to ITM University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'ITM University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to ITM University? Read our
+  comprehensi...
 keywords:
-  - "itm university review 2026"
-  - "itm university pgdm placements"
-  - "itm university admission cutoff"
-  - "itm university fees"
+  - itm university review 2026
+  - itm university pgdm placements
+  - itm university admission cutoff
+  - itm university fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is ITM University a good option for PGDM/MBA?"
+  - question: Is ITM University a good option for PGDM/MBA?
     answer: >-
-      Yes, ITM University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at ITM University?"
+      Yes, ITM University is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at ITM University?
     answer: >-
-      The average placement package at ITM University is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.2 LPA.
-  - question: "What entrance exams are accepted by ITM University?"
+      The average placement package at ITM University is approximately ₹5.0 LPA,
+      with the highest package reaching up to ₹11.2 LPA.
+  - question: What entrance exams are accepted by ITM University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [ITM University](/colleges/itm-university)**

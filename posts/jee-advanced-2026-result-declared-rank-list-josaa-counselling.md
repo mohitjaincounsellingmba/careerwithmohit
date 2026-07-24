@@ -4,9 +4,9 @@ title: >-
   Counselling Guide
 date: '2026-06-01'
 description: >-
-  IIT Roorkee declared JEE Advanced 2026 results on May 31, 2026. Check your
-  rank list, qualifying cutoff marks, category-wise scores, toppers list, and
-  next steps for JoSAA 2026 counselling for IIT admissions.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. IIT Roorkee declared JEE Advanced 2026 results on May
+  31, 202...
 keywords:
   - JEE Advanced 2026 result declared
   - JEE Advanced result date 2026
@@ -17,6 +17,14 @@ keywords:
   - how to check JEE Advanced result 2026
   - JEE Advanced topper 2026
   - jeeadv.ac.in result link
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 The wait is finally over! **IIT Roorkee** has officially declared the **JEE Advanced 2026 results** on **May 31, 2026** — a day ahead of the originally scheduled date of June 1. Over 1.8 lakh students who appeared for the exam on **May 17, 2026** can now access their scorecards, All India Rank (AIR), and category-wise ranks on the official portal.
 

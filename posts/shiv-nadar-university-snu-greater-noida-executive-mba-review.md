@@ -1,16 +1,41 @@
 ---
-title: "Shiv Nadar University (SNU), Greater Noida Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Shiv Nadar University (SNU), Greater Noida. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Shiv Nadar University (SNU), Greater Noida executive mba","Shiv Nadar University (SNU), Greater Noida executive mba review","Shiv Nadar University (SNU), Greater Noida executive mba fees","Shiv Nadar University (SNU), Greater Noida executive mba placement","Greater Noida executive mba","best executive mba in Greater Noida"]
-category: "MBA"
+title: 'Shiv Nadar University (SNU), Greater Noida Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Shiv Nadar
+  University (SNU), Greater Noida. Learn about total fees, eligibility, accepted
+  entrance exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - 'Shiv Nadar University (SNU), Greater Noida executive mba'
+  - 'Shiv Nadar University (SNU), Greater Noida executive mba review'
+  - 'Shiv Nadar University (SNU), Greater Noida executive mba fees'
+  - 'Shiv Nadar University (SNU), Greater Noida executive mba placement'
+  - Greater Noida executive mba
+  - best executive mba in Greater Noida
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
 faqs:
-  - question: "What is the core focus of the SNU Executive MBA?"
-    answer: "The program focuses heavily on Digital Transformation, Business Analytics, Venture Creation, and Strategic Management."
-  - question: "What is SMAT?"
-    answer: "SMAT is the Shiv Nadar University Management Admission Test, an internal entrance exam designed to test candidates on quantitative and analytical skills."
-  - question: "Is the SNU campus residential?"
-    answer: "SNU has a fully residential 286-acre campus, but the Executive MBA is structured to accommodate commuter and weekend candidates."
+  - question: What is the core focus of the SNU Executive MBA?
+    answer: >-
+      The program focuses heavily on Digital Transformation, Business Analytics,
+      Venture Creation, and Strategic Management.
+  - question: What is SMAT?
+    answer: >-
+      SMAT is the Shiv Nadar University Management Admission Test, an internal
+      entrance exam designed to test candidates on quantitative and analytical
+      skills.
+  - question: Is the SNU campus residential?
+    answer: >-
+      SNU has a fully residential 286-acre campus, but the Executive MBA is
+      structured to accommodate commuter and weekend candidates.
+location: Noida
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Greater Noida, the Executive MBA / Executive PGDM offered by [Shiv Nadar University (SNU), Greater Noida](/colleges/snu-greater-noida) represents a powerful gateway to higher senior leadership positions.

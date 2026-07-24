@@ -2,9 +2,9 @@
 title: 'All About NMIMS Campuses: Fees, Placements, Rankings, Cutoffs & Reviews 2026'
 date: '2026-03-16'
 description: >-
-  Complete guide to all 8 NMIMS campuses – Mumbai, Navi Mumbai, Bengaluru,
-  Hyderabad, Indore, Chandigarh, Shirpur & Dhule. Check MBA/PGDM fees, NMAT
-  cutoffs, placement stats, specializations, and honest student reviews.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete guide to all 8 NMIMS campuses – Mumbai, Navi
+  Mumbai,...
 keywords:
   - NMIMS campuses review
   - '[NMIMS Mumbai](/colleges/nmims-mumbai) fees'
@@ -18,6 +18,14 @@ keywords:
   - NMIMS Shirpur review
   - NMIMS Chandigarh MBA
   - best NMIMS campus for MBA
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does NMIMS accept CAT scores?
     answer: >-
@@ -35,6 +43,7 @@ faqs:
       campuses (Shirpur, Chandigarh, Indore) can participate in placement drives
       at the Mumbai campus, which significantly broadens their recruiter
       exposure.
+location: Delhi
 ---
 
 SVKM's Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) is one of India's most respected deemed-to-be universities. With its flagship Mumbai campus consistently ranked among the top 25 B-Schools in the country and an expanding footprint across 8 cities, NMIMS is a powerhouse for MBA, PGDM, and professional education.

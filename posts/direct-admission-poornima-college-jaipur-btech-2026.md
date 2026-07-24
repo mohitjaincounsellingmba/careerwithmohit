@@ -4,9 +4,9 @@ title: >-
   Management Quota, Fees & Placements
 date: '2026-04-02'
 description: >-
-  Full guide to direct admission in Poornima College of Engineering (PCE) Jaipur
-  for B.Tech 2026. Learn about management quota seats, REAP counselling, fee
-  structure, and placement statistics.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Full guide to direct admission in Poornima College of
+  Enginee...
 keywords:
   - direct admission Poornima College Jaipur BTech
   - Poornima College BTech management quota 2026
@@ -14,6 +14,14 @@ keywords:
   - Poornima engineering college Jaipur placements
   - REAP counselling Jaipur BTech
   - BTech admission Rajasthan 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Delhi
 ---
 Poornima College of Engineering (PCE), Jaipur, is one of the most well-established private engineering colleges in Rajasthan, affiliated to **RTU (Rajasthan Technical University), Kota**. Students frequently search for **direct admission in Poornima College for B.Tech** — either through management quota or without a JEE Main score. Here is the complete and honest guide for 2026 admissions.
 

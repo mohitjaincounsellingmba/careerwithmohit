@@ -3,9 +3,9 @@ title: 'JEE Main 2026 College Predictor — Rank vs. NIT, IIIT & GFTI List'
 date: '2026-04-21'
 category: B.Tech Admissions
 description: >-
-  JEE Main 2026 Session 2 results are OUT! Use our expert college predictor to
-  find your best NIT, IIIT, or private college based on your final AIR and
-  percentile. Updated for 2026 JoSAA data.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. JEE Main 2026 Session 2 results are OUT! Use our expert
+  colle...
 keywords:
   - jee main 2026 college predictor
   - jee main rank vs college list
@@ -15,6 +15,14 @@ keywords:
   - josaa college predictor 2026
   - jee main session 2 result analysis
   - rank required for nit trichy cse
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'is it possible to get NIT Trichy with 15,000 rank?'
     answer: >-
@@ -36,6 +44,7 @@ faqs:
     answer: >-
       Expected to start in the **second week of June**, following the JEE
       Advanced result.
+location: Delhi
 ---
 
 With the **JEE Main 2026 Session 2 results officially declared**, the focus of lakhs of students has shifted from "How many marks?" to **"Which college can I get?"** This guide provides a counselor-verified mapping of **JEE Main 2026 All India Ranks (AIR)** to realistic admission chances in NITs, IIITs, GFTIs, and top-tier private universities.

@@ -4,9 +4,9 @@ title: >-
   Commerce, and Arts Marks
 date: '2026-04-01'
 description: >-
-  RBSE Class 12 Result 2026 is out! Check Rajasthan Board 12th Result for
-  Science, Commerce, and Arts at rajresults.nic.in. Find pass percentage,
-  toppers list, and direct links here.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. RBSE Class 12 Result 2026 is out! Check Rajasthan Board
+  12th ...
 keywords:
   - RBSE 12th result 2026 declared
   - check Rajasthan Board 12th result 2026
@@ -16,6 +16,14 @@ keywords:
   - RBSE 12th Arts Result 2026
   - Rajasthan Board toppers 2026
   - how to download RBSE 12th marksheet
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -32,6 +40,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Delhi
 ---
 The Board of Secondary Education, Rajasthan (RBSE) has officially declared the **RBSE Class 12 Result 2026** for all streams—**Science, Commerce, and Arts**—on March 31, 2026. Over 9 lakh students who appeared for the examinations can now access their provisional marksheets online.
 

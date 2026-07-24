@@ -4,9 +4,9 @@ title: >-
   Percentiles
 date: '2026-05-06'
 description: >-
-  Detailed guide on IIM cutoffs for 2026-28 admission. Compare qualifying vs
-  final interview call cutoffs for General, OBC, SC, ST & EWS categories across
-  all 21 IIMs.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Detailed guide on IIM cutoffs for
+  2026-...
 keywords:
   - IIM Cut off 2026
   - IIM admission 2026-28
@@ -18,6 +18,14 @@ keywords:
   - new IIMs cutoff 2026
   - baby IIMs cutoff 2026
   - IIM admission process 2026
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -34,6 +42,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Noida
 ---
 For any MBA aspirant, the journey to the prestigious Indian Institutes of Management (IIMs) begins with understanding the **CAT Cutoff**. However, there is often a massive confusion between **Qualifying Cutoffs** and **Final Calling Cutoffs**.
 

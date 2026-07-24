@@ -2,9 +2,9 @@
 title: 'SASTRA University Online Review 2026: MBA, MCA, M.Com & B.Com Fee Structure'
 date: '2026-04-05'
 description: >-
-  Is SASTRA University Online a premium choice in 2026? Check the latest fees,
-  UGC-DEB status, NAAC A++ ranking, and Tamil Nadu-centric placement reviews for
-  all programs.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Is SASTRA University Online a premium choice in 2026?
+  Check t...
 keywords:
   - SASTRA University Online review 2026
   - SASTRA online MBA fees
@@ -12,6 +12,14 @@ keywords:
   - SASTRA online M.Com B.Com
   - UGC approved online degree SASTRA
   - SASTRA online degree validity
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,6 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 **SASTRA (Shanmugha Arts, Science, Technology & Research Academy) Online** is a powerhouse in the South Indian higher education landscape, based in the legacy city of Thanjavur. With the highest possible **NAAC A++ accreditation**, SASTRA's online division brings that same academic rigor and campus heritage directly to you. With a prestigious **NIRF Ranking** and full UGC-DEB/AICTE approval, SASTRA offers some of the most specialized online degrees in India for 2026.
 

@@ -4,9 +4,9 @@ title: >-
   Step-by-Step Guide
 date: '2026-03-30'
 description: >-
-  Master the trending 'Bachcha Hai Tu Mera' meme from Dhurandhar 2. Learn how to
-  use AI tools like Gemini and Bing to create viral Jameel Jamali posters for
-  your brand or social media.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Master the trending 'Bachcha Hai Tu Mera' meme from
+  Dhurandha...
 keywords:
   - Bachcha Hai Tu Mera meme tutorial
   - Dhurandhar 2 Jameel Jamali AI prompts
@@ -14,6 +14,14 @@ keywords:
   - how to make Bachcha Hai Tu Mera memes
   - Rakesh Bedi Dhurandhar 2 dialogue
   - AI meme generation prompts
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Delhi
 ---
 If you have been scrolling through Instagram or X (Twitter) lately, you must have seen the iconic **Jameel Jamali** (played by Rakesh Bedi) pointing at something and saying, **“Bachcha Hai Tu Mera.”** This trend from the movie *Dhurandhar 2* has taken the internet by storm, with everyone from local shops to global brands joining the viral wave.
 

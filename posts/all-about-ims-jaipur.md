@@ -1,23 +1,45 @@
 ---
-title: "Institute of Management Studies (IIIM) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Institute of Management Studies (IIIM)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Institute of Management Studies (IIIM) PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for admission to Institute of Management
+  Studies (III...
 keywords:
-  - "institute of management studies (iiim) review 2026"
-  - "institute of management studies (iiim) pgdm placements"
-  - "institute of management studies (iiim) admission cutoff"
-  - "institute of management studies (iiim) fees"
+  - institute of management studies (iiim) review 2026
+  - institute of management studies (iiim) pgdm placements
+  - institute of management studies (iiim) admission cutoff
+  - institute of management studies (iiim) fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is Institute of Management Studies (IIIM) a good option for PGDM/MBA?"
+  - question: Is Institute of Management Studies (IIIM) a good option for PGDM/MBA?
     answer: >-
-      Yes, Institute of Management Studies (IIIM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Institute of Management Studies (IIIM)?"
+      Yes, Institute of Management Studies (IIIM) is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Institute of Management Studies
+      (IIIM)?
     answer: >-
-      The average placement package at Institute of Management Studies (IIIM) is approximately ₹4.0 LPA, with the highest package reaching up to ₹8.0 LPA.
-  - question: "What entrance exams are accepted by Institute of Management Studies (IIIM)?"
+      The average placement package at Institute of Management Studies (IIIM) is
+      approximately ₹4.0 LPA, with the highest package reaching up to ₹8.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Institute of Management Studies
+      (IIIM)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [Institute of Management Studies (IIIM)](/colleges/ims-jaipur)**

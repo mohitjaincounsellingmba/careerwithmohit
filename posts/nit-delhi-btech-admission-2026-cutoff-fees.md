@@ -13,6 +13,14 @@ keywords:
   - JoSAA counselling NIT Delhi
   - NIT Delhi placement review 2025
   - NIRF ranking NIT Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does NIT Delhi have its own permanent campus?
     answer: >-
@@ -24,6 +32,7 @@ faqs:
       for CSE students.
   - question: Which entrance exam is needed for NIT Delhi?
     answer: Admission is strictly through JEE Main 2026 and JoSAA/CSAB counselling.
+location: Delhi
 ---
 
 **National Institute of Technology (NIT) Delhi** is one of the fastest-growing NITs in the country. Initially operating from a temporary campus, it has now moved into its permanent, state-of-the-art facility in Narela, Delhi. Its proximity to the tech hub of the capital and its consistent climb in NIRF rankings (Ranked #65 in 2025) make it an elite choice for engineering aspirants.

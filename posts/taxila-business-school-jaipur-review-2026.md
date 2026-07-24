@@ -4,15 +4,23 @@ title: >-
   Fees, Placements & Admission
 date: '2026-03-20'
 description: >-
-  Looking for an MBA/PGDM in Jaipur? Read our complete 2026 review on [Taxila
-  Business School](/colleges/taxila-jaipur) Jaipur covering fees, placements,
-  courses, and cutoffs.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for an MBA/PGDM in Jaipur? Read our complete
+  2026 rev...
 keywords:
   - '[Taxila Business School](/colleges/taxila-jaipur) Jaipur review'
   - Taxila PGDM fees 2026
   - '[Taxila Business School](/colleges/taxila-jaipur) placements'
   - best MBA colleges in Jaipur 2026
   - Taxila average package
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,6 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
+location: Delhi
 ---
 [Taxila Business School](/colleges/taxila-jaipur) (TBS) Jaipur is ranked among the top emerging B-Schools in India, well-known for its intensive pedagogy, corporate-focused curriculum, and impressive placement records. If you are aiming for management education in Jaipur, TBS offers a compelling PGDM program.
 

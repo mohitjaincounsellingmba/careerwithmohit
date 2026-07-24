@@ -1,23 +1,39 @@
 ---
-title: "IMI Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to IMI Delhi? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'IMI Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to IMI Delhi? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "imi delhi review 2026"
-  - "imi delhi pgdm placements"
-  - "imi delhi admission cutoff"
-  - "imi delhi fees"
+  - imi delhi review 2026
+  - imi delhi pgdm placements
+  - imi delhi admission cutoff
+  - imi delhi fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "Is IMI Delhi a good option for PGDM/MBA?"
+  - question: Is IMI Delhi a good option for PGDM/MBA?
     answer: >-
-      Yes, IMI Delhi is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at IMI Delhi?"
+      Yes, IMI Delhi is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at IMI Delhi?
     answer: >-
-      The average placement package at IMI Delhi is approximately ₹16.56 LPA, with the highest package reaching up to ₹40.0 LPA.
-  - question: "What entrance exams are accepted by IMI Delhi?"
+      The average placement package at IMI Delhi is approximately ₹16.56 LPA,
+      with the highest package reaching up to ₹40.0 LPA.
+  - question: What entrance exams are accepted by IMI Delhi?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, XAT, GMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, XAT, GMAT for the PGDM and MBA admissions.
+location: Delhi
 ---
 
 ### **College Review: [IMI Delhi](/colleges/imi-delhi)**
