@@ -96,12 +96,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Dynamic blog routes
   const posts = getSortedPostsData();
-  const blogRoutes = posts.map((post) => ({
-    url: `${baseUrl}/blog/${post.slug}`,
-    lastModified: new Date(post.date),
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }));
+  const ninetyDaysAgo = new Date();
+  ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
+
+  const blogRoutes = posts.map((post) => {
+    const postDate = new Date(post.date);
+    const isRecent = postDate >= ninetyDaysAgo;
+    return {
+      url: `${baseUrl}/blog/${post.slug}`,
+      lastModified: postDate,
+      changeFrequency: isRecent ? 'monthly' as const : 'yearly' as const,
+      priority: isRecent ? 0.8 : 0.3,
+    };
+  });
 
   // Dynamic college routes
   const collegesDir = path.join(process.cwd(), 'colleges');

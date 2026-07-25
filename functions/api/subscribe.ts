@@ -9,10 +9,11 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     if ((method !== "email" && method !== "whatsapp") || !value) {
       return Response.json({ error: "A valid email or WhatsApp number is required." }, { status: 400 });
     }
-    if (!env.ACTIVEPIECES_GENERAL_WEBHOOK) {
+    const webhook = env.ACTIVEPIECES_GENERAL_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2";
+    if (!webhook) {
       return Response.json({ error: "Subscription delivery is not configured" }, { status: 503 });
     }
-    const response = await fetch(env.ACTIVEPIECES_GENERAL_WEBHOOK, {
+    const response = await fetch(webhook, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({

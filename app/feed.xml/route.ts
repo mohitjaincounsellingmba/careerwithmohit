@@ -3,7 +3,7 @@ import { getSortedPostsData } from '@/lib/markdown';
 export const dynamic = 'force-static';
 
 export async function GET() {
-  const posts = getSortedPostsData();
+  const posts = getSortedPostsData().slice(0, 50);
   const siteUrl = 'https://www.careerwithmohit.online';
 
   const feedItems = posts.map((post) => {
@@ -33,6 +33,7 @@ export async function GET() {
   return new Response(rssFeed, {
     headers: {
       'Content-Type': 'application/xml; charset=utf-8',
+      'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200',
     },
   });
 }

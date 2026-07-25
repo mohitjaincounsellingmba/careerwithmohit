@@ -16,8 +16,8 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     const source = String(lead.source || "Unknown");
     const isCalculatorOrResource = /calculator|resource|mock test|test/i.test(source);
     const webhook = isCalculatorOrResource
-      ? env.ACTIVEPIECES_GENERAL_WEBHOOK
-      : env.ACTIVEPIECES_INQUIRY_WEBHOOK;
+      ? (env.ACTIVEPIECES_GENERAL_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F")
+      : (env.ACTIVEPIECES_INQUIRY_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3");
 
     if (!webhook) {
       console.warn("Missing Activepieces webhook binding, accepting lead to prevent frontend crash.");
