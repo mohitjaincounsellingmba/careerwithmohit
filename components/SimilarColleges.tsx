@@ -5,37 +5,11 @@ import { GraduationCap, MapPin, TrendingUp, ArrowUpRight, Star } from "lucide-re
 import { CollegeMetadata } from "@/lib/colleges";
 
 interface Props {
-  current: CollegeMetadata;
-  all: CollegeMetadata[];
+  colleges: CollegeMetadata[];
 }
 
-function score(a: CollegeMetadata, b: CollegeMetadata): number {
-  let s = 0;
-  if (a.category === b.category) s += 40;
-  if (a.ownership === b.ownership) s += 20;
-  // Same city
-  const cityA = a.location.split(",")[0].toLowerCase();
-  const cityB = b.location.split(",")[0].toLowerCase();
-  if (cityA === cityB) s += 20;
-  // Similar fees (within 3L)
-  const feeA = parseFloat(a.fees.replace(/[^0-9.]/g, "") || "0");
-  const feeB = parseFloat(b.fees.replace(/[^0-9.]/g, "") || "0");
-  if (Math.abs(feeA - feeB) <= 3) s += 10;
-  // Shared exams
-  const sharedExams = (a.exams || []).filter((e) => (b.exams || []).includes(e));
-  s += sharedExams.length * 5;
-  return s;
-}
-
-export function SimilarColleges({ current, all }: Props) {
-  const similar = all
-    .filter((c) => c.slug !== current.slug)
-    .map((c) => ({ college: c, score: score(current, c) }))
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 5)
-    .map((x) => x.college);
-
-  if (similar.length === 0) return null;
+export function SimilarColleges({ colleges }: Props) {
+  if (colleges.length === 0) return null;
 
   return (
     <div className="bg-white border border-slate-100 rounded-[2rem] p-6 shadow-sm">
@@ -44,7 +18,7 @@ export function SimilarColleges({ current, all }: Props) {
         Similar Colleges
       </h4>
       <div className="space-y-3">
-        {similar.map((college) => (
+        {colleges.map((college) => (
           <Link
             key={college.slug}
             href={`/colleges/${college.slug}`}

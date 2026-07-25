@@ -19,7 +19,7 @@ export async function InstagramGallery() {
             className="group relative aspect-square overflow-hidden rounded-xl border border-white/10 block bg-black/20"
           >
             <Image 
-              src={`/api/og-instagram/${post.slug}`} 
+              src={post.image || "/og-image.webp"}
               alt={post.title}
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-110"

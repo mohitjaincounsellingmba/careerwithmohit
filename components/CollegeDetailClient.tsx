@@ -139,7 +139,7 @@ function extractAbout(content: string): string {
   return firstPara?.trim() || "";
 }
 
-export function CollegeDetailClient({ college, allColleges = [] }: { college: College; allColleges?: CollegeMetadata[] }) {
+export function CollegeDetailClient({ college, similarColleges = [] }: { college: College; similarColleges?: CollegeMetadata[] }) {
   const [activeTab, setActiveTab] = useState("Overview");
 
   const addressRegion = getRegionFromLocation(college.location);
@@ -722,8 +722,8 @@ export function CollegeDetailClient({ college, allColleges = [] }: { college: Co
           </div>
 
           {/* Similar Colleges Widget */}
-          {allColleges.length > 0 && (
-            <SimilarColleges current={college} all={allColleges} />
+          {similarColleges.length > 0 && (
+            <SimilarColleges colleges={similarColleges} />
           )}
         </div>
       </div>

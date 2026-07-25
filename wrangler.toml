@@ -1,0 +1,8 @@
+name = "careerwithmohit"
+compatibility_date = "2026-07-25"
+pages_build_output_dir = "out"
+
+# Set these in Cloudflare Pages > Settings > Environment variables (as secrets):
+# ACTIVEPIECES_GENERAL_WEBHOOK
+# ACTIVEPIECES_INQUIRY_WEBHOOK
+# RESEND_API_KEY (only if backlink email delivery is enabled)

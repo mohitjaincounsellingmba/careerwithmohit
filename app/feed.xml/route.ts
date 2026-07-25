@@ -1,5 +1,7 @@
 import { getSortedPostsData } from '@/lib/markdown';
 
+export const dynamic = 'force-static';
+
 export async function GET() {
   const posts = getSortedPostsData();
   const siteUrl = 'https://www.careerwithmohit.online';

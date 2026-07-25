@@ -1,6 +1,3 @@
-"use client";
-
-import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { Eye } from 'lucide-react';
 import { PostData } from '@/lib/markdown';
@@ -31,15 +28,13 @@ function calculateInitialViews(slug: string, dateStr: string): number {
 }
 
 export function BlogList({ initialPosts }: { initialPosts: PostData[] }) {
-  const [viewsMap] = useState<Record<string, number>>({});
-
   return (
     <div className="w-full">
       {/* BLOG GRID */}
       <div className="grid gap-10 lg:grid-cols-3">
         {initialPosts.length > 0 ? (
           initialPosts.map(({ slug, title, date, description, category }) => {
-            const viewsCount = viewsMap[slug] !== undefined ? viewsMap[slug] : calculateInitialViews(slug, date);
+            const viewsCount = calculateInitialViews(slug, date);
             
             return (
               <Link 

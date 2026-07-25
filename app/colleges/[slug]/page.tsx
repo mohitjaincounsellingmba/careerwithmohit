@@ -1,4 +1,4 @@
-import { getCollegeBySlug, getAllColleges } from "@/lib/colleges";
+import { getCollegeBySlug, getAllColleges, type CollegeMetadata } from "@/lib/colleges";
 import { notFound } from "next/navigation";
 import { CollegeDetailClient } from "@/components/CollegeDetailClient";
 import { JsonLd } from "@/components/JsonLd";
@@ -6,6 +6,28 @@ import type { Metadata } from "next";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
+}
+
+function getSimilarColleges(current: CollegeMetadata, all: CollegeMetadata[]) {
+  const score = (candidate: CollegeMetadata) => {
+    let value = 0;
+    if (current.category === candidate.category) value += 40;
+    if (current.ownership === candidate.ownership) value += 20;
+    if (current.location.split(",")[0].toLowerCase() === candidate.location.split(",")[0].toLowerCase()) value += 20;
+
+    const currentFee = parseFloat(current.fees.replace(/[^0-9.]/g, "") || "0");
+    const candidateFee = parseFloat(candidate.fees.replace(/[^0-9.]/g, "") || "0");
+    if (Math.abs(currentFee - candidateFee) <= 3) value += 10;
+    value += current.exams.filter((exam) => candidate.exams.includes(exam)).length * 5;
+    return value;
+  };
+
+  return all
+    .filter((candidate) => candidate.slug !== current.slug)
+    .map((candidate) => ({ candidate, score: score(candidate) }))
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 5)
+    .map(({ candidate }) => candidate);
 }
 
 function getCategoryKeywords(college: { name: string; location: string; category: string; courses: string[]; fees: string; avg_placement: string; exams: string[] }): string[] {
@@ -120,8 +142,8 @@ export default async function CollegeDetailPage({ params }: PageProps) {
     notFound();
   }
 
-  // Fetch all colleges for the Similar Colleges widget (server-side, cheap)
-  const allColleges = getAllColleges();
+  // Do not serialize the complete college directory into every college page.
+  const similarColleges = getSimilarColleges(college, getAllColleges());
 
   const jsonLdOrg = {
     "@context": "https://schema.org",
@@ -202,7 +224,7 @@ export default async function CollegeDetailPage({ params }: PageProps) {
       <JsonLd data={jsonLdOrg} />
       <JsonLd data={jsonLdFaQ} />
       <JsonLd data={jsonLdBreadcrumb} />
-      <CollegeDetailClient college={college} allColleges={allColleges} />
+      <CollegeDetailClient college={college} similarColleges={similarColleges} />
     </>
   );
 }

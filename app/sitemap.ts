@@ -6,6 +6,8 @@ import { ABROAD_COLLEGES } from '@/data/abroadColleges';
 import { generateCollegeSlug } from '@/lib/slugify';
 import { COLLEGES } from '@/data/onlineColleges';
 
+export const dynamic = 'force-static';
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.careerwithmohit.online';
 
