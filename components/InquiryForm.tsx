@@ -36,7 +36,7 @@ export function InquiryForm() {
     };
 
     try {
-      let response;
+      let response: any;
       try {
         response = await fetch('/api/leads', {
           method: 'POST',

@@ -52,7 +52,7 @@ export default function MbaPgdmLeadForm() {
     };
 
     try {
-      let response;
+      let response: any;
       try {
         response = await fetch('/api/leads', {
           method: 'POST',
