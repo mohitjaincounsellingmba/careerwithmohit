@@ -39,36 +39,8 @@ export function BlogViewCounter({ slug, publishDate }: BlogViewCounterProps) {
   const [isLoaded, setIsLoaded] = useState(false);
 
   useEffect(() => {
-    let active = true;
-    
-    const incrementViews = async () => {
-      try {
-        const response = await fetch("/api/views", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ slug }),
-        });
-        
-        if (response.ok) {
-          const data = await response.json();
-          if (data.success && typeof data.views === "number" && active) {
-            setViews(data.views);
-            setIsLoaded(true);
-          }
-        }
-      } catch (error) {
-        console.error("Error updating views:", error);
-      }
-    };
-
-    incrementViews();
-
-    return () => {
-      active = false;
-    };
-  }, [slug]);
+    setIsLoaded(true);
+  }, []);
 
   return (
     <div 

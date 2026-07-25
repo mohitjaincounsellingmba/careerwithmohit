@@ -31,22 +31,7 @@ function calculateInitialViews(slug: string, dateStr: string): number {
 }
 
 export function BlogList({ initialPosts }: { initialPosts: PostData[] }) {
-  const [viewsMap, setViewsMap] = useState<Record<string, number>>({});
-
-  useEffect(() => {
-    let active = true;
-    fetch('/api/views')
-      .then(res => res.json())
-      .then(data => {
-        if (active) {
-          setViewsMap(data);
-        }
-      })
-      .catch(err => console.error('Error fetching views:', err));
-    return () => {
-      active = false;
-    };
-  }, []);
+  const [viewsMap] = useState<Record<string, number>>({});
 
   return (
     <div className="w-full">
