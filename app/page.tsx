@@ -332,6 +332,30 @@ export default function Home() {
         </div>
       </section>
 
+      {/* BRANDED COACHING APP PROMO BANNER FOR TEACHERS & CREATORS */}
+      <section className="bg-foreground text-white px-6 py-16 sm:px-12 border-t-8 border-accent">
+        <div className="mx-auto max-w-7xl flex flex-col md:flex-row items-center justify-between gap-8">
+          <div>
+            <span className="bg-accent text-foreground px-4 py-1.5 font-black uppercase text-xs border-2 border-foreground inline-block mb-3">
+              FOR TEACHERS & YOUTUBERS
+            </span>
+            <h2 className="font-display text-3xl sm:text-5xl font-extrabold uppercase leading-none">
+              Sell Your Coaching <span className="text-accent italic">Online</span>
+            </h2>
+            <p className="mt-3 text-lg font-bold text-gray-300 max-w-2xl">
+              Launch your own branded Android & iOS coaching app in 7 days. Keep 100% of your course revenue with 0% commission & anti-piracy security.
+            </p>
+          </div>
+          <Link
+            href="/sell-your-coaching-online"
+            prefetch={false}
+            className="flex-shrink-0 bg-accent text-foreground hover:bg-white px-8 py-4 text-xl font-black uppercase rounded-xl border-4 border-white transition-all shadow-[6px_6px_0px_0px_rgba(255,255,255,1)]"
+          >
+            Launch Branded App &rarr;
+          </Link>
+        </div>
+      </section>
+
       {/* ARTICLES SECTION */}
       <section id="articles" className="bg-muted px-6 py-24 sm:px-12 border-t-8 border-foreground">
         <div className="mx-auto max-w-7xl">

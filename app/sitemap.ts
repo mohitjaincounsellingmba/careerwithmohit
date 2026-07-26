@@ -94,7 +94,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: route === '' ? 1 : (route.includes('/tools/') || route.includes('/calculator/') ? 0.9 : 0.7),
+    priority: route === '' ? 1 : (route === '/sell-your-coaching-online' ? 0.95 : (route.includes('/tools/') || route.includes('/calculator/') ? 0.9 : 0.7)),
   }));
 
   // Dynamic blog routes

@@ -19,17 +19,41 @@ import {
 import { SellCoachingLeadForm } from '@/components/SellCoachingLeadForm';
 import { GetAppClient } from './GetAppClient';
 import { JsonLd } from '@/components/JsonLd';
+import { SellCoachingInteractiveSection } from './SellCoachingInteractiveSection';
 
 export const metadata: Metadata = {
   title: "Sell Your Coaching Online | Build Branded Coaching App for Teachers & YouTubers",
-  description: "Launch your own branded coaching app and website. The best platform for teachers, YouTubers, and coaching centers to sell courses online and 10x their income. Secure content, live classes, and easy payments.",
+  description: "Launch your own branded coaching app and website in 7 days. The #1 platform for teachers, YouTubers, and coaching centers to sell courses online with 0% revenue share, DRM anti-piracy, and live classes. Book Free Demo!",
   keywords: [
     "sell coaching online", "branded coaching app", "app for teachers", "online coaching platform", 
     "LMS for coaching centers", "monetize youtube channel", "coaching app builder", 
-    "digital coaching business", "10x coaching income"
+    "digital coaching business", "10x coaching income", "sell courses online india",
+    "zero commission coaching app", "drm anti piracy video course player"
   ],
   alternates: {
     canonical: "/sell-your-coaching-online",
+  },
+  openGraph: {
+    title: "Sell Your Coaching Online | Build Branded Coaching App for Teachers",
+    description: "Launch your own branded coaching app and website in 7 days. Keep 100% of your earnings with 0% commission, DRM anti-piracy security, and live classes.",
+    url: "https://careerwithmohit.online/sell-your-coaching-online",
+    siteName: "CareerWithMohit",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "/images/coaching-app-mockup.png",
+        width: 1200,
+        height: 630,
+        alt: "CareerWithMohit Branded Coaching App Builder",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Sell Your Coaching Online | #1 Branded Coaching App Builder",
+    description: "Launch your own branded Android & iOS coaching app in 7 days. 0% commission, anti-piracy security & automated payments.",
+    images: ["/images/coaching-app-mockup.png"],
   },
 };
 
@@ -98,7 +122,7 @@ const FEATURES = [
 ];
 
 export default function LeadGenLandingPage() {
-  const schemaData = {
+  const softwareSchema = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
     "name": "CareerWithMohit Coaching App Builder",
@@ -118,9 +142,83 @@ export default function LeadGenLandingPage() {
     }
   };
 
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does it cost to launch a branded coaching app with CareerWithMohit?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Unlike third-party marketplaces that charge 20% to 40% revenue share on every course sold, CareerWithMohit operates on a 0% commission model. You keep 100% of your course and test series earnings. We offer straightforward, transparent technology plans tailored to whether you are an individual teacher, YouTuber, or institute."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you protect my video courses from piracy and screen recording?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Our apps use enterprise-grade anti-piracy DRM encryption. Screen recording, screenshots, and screen mirroring are completely blocked on Android and iOS devices. Additionally, dynamic student ID and phone number watermarks appear on screen during video playback."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does it take to get my Android, iOS app, and web portal live?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Your turnkey branded app and web academy can go live in as little as 7 days. Our technical team handles everything from Google Play Store and Apple App Store setup to custom domain linking and payment gateway integration."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need coding or technical knowledge to manage my app and courses?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Not at all! You get an intuitive, zero-code Admin Dashboard where you can upload recorded lectures, schedule live interactive classes, create AI mock tests, and track student fee payments with a single click."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why should I choose a custom branded app over marketplaces like Udemy or Classplus?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "With Course Marketplaces, you don't own your brand or your student database—they promote other teachers' courses to your students and take a large cut of your revenue. With CareerWithMohit, you own 100% of your brand identity, custom domain, and student contact list, with zero commission share."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I conduct live classes, AI mock tests, and receive automated GST payments?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes! Our platform includes built-in HD live streaming with real-time chat, AI-powered mock test series with automatic grading, and seamless UPI, Credit/Debit Card, and Netbanking payments with automated GST invoicing and fee receipts."
+        }
+      }
+    ]
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Sell Your Coaching Online",
+        "item": "https://www.careerwithmohit.online/sell-your-coaching-online"
+      }
+    ]
+  };
+
   return (
     <div className="w-full">
-      <JsonLd data={schemaData} />
+      <JsonLd data={[softwareSchema, faqSchema, breadcrumbSchema]} />
       {/* HERO SECTION */}
       <section className="relative overflow-hidden bg-primary px-6 py-24 sm:px-12 lg:py-40 border-b-8 border-foreground">
         <div className="absolute top-0 right-0 -mt-20 -mr-20 h-96 w-96 rounded-full bg-white/10" />
@@ -243,6 +341,9 @@ export default function LeadGenLandingPage() {
           </div>
         </div>
       </section>
+
+      {/* NEW INTERACTIVE LEAD GENERATION BOOSTERS (ROI CALCULATOR, COMPARISON TABLE, CASE STUDIES, FAQ & STICKY CTA) */}
+      <SellCoachingInteractiveSection />
 
       {/* INQUIRY SECTION */}
       <section id="inquiry" className="bg-white px-6 py-24 sm:px-12">
