@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { MBA_PGDM_COLLEGES_2027 } from '@/data/mbaPgdmColleges2027';
 import { Send, PhoneCall, CheckCircle2, AlertCircle } from 'lucide-react';
+import { submitLead } from '@/lib/leads';
 
 export default function MbaPgdmLeadForm() {
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
@@ -51,27 +52,9 @@ export default function MbaPgdmLeadForm() {
       timestamp: new Date().toISOString(),
     };
 
-    try {
-      let response: any;
-      try {
-        response = await fetch('/api/leads', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(leadPayload),
-        });
-      } catch (err) {
-        response = { ok: false, status: 0, text: async () => 'Network error' };
-      }
+    const result = await submitLead(leadPayload);
 
-      if (!response.ok) {
-        if ((process.env.NODE_ENV === 'development' && response.status === 404) || response.status === 503) {
-          console.warn(`Bypassing lead submission error (${response.status}). Mocking success.`);
-          response = { ok: true };
-        } else {
-          throw new Error('Lead submission failed');
-        }
-      }
-
+    if (result.success) {
       setStatus('success');
       setFormData({
         name: '',
@@ -82,8 +65,8 @@ export default function MbaPgdmLeadForm() {
         budget: '₹8L – ₹12L',
         college: 'Not Sure / Help Me Choose',
       });
-    } catch (err) {
-      console.error('Lead Capture Form Error:', err);
+    } else {
+      console.error('Lead Capture Form Error:', result.error);
       setStatus('error');
     }
   };

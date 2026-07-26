@@ -15,36 +15,54 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
 
     const source = String(lead.source || "Unknown");
     const isCalculatorOrResource = /calculator|resource|mock test|test/i.test(source);
+    const defaultWebhook = isCalculatorOrResource
+      ? "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F"
+      : "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3";
     const webhook = isCalculatorOrResource
-      ? (env.ACTIVEPIECES_GENERAL_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F")
-      : (env.ACTIVEPIECES_INQUIRY_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3");
+      ? (env.ACTIVEPIECES_GENERAL_WEBHOOK || defaultWebhook)
+      : (env.ACTIVEPIECES_INQUIRY_WEBHOOK || defaultWebhook);
 
-    if (!webhook) {
-      console.warn("Missing Activepieces webhook binding, accepting lead to prevent frontend crash.");
-      return json({ success: true, warning: "Lead delivery is not configured" });
-    }
-
+    const details = typeof lead.details === "object" && lead.details !== null ? lead.details : {};
     const payload = {
-      ...lead,
       id: crypto.randomUUID(),
       name,
       number,
+      email: String(lead.email || ""),
+      location: String(lead.location || ""),
+      course: String(lead.course || ""),
+      source,
+      message: String(lead.message || ""),
+      budget: String(lead.budget || ""),
+      preferredLocation: String(lead.preferredLocation || ""),
       timestamp: new Date().toISOString(),
+      ...details,
+      ...lead,
     };
-    const response = await fetch(webhook, {
+
+    let response = await fetch(webhook, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
     });
-    
-    if (!response.ok) {
-      console.error("Webhook failed to save the lead");
-      return json({ success: true, warning: "Activepieces failed but bypassing error" });
+
+    if (!response.ok && webhook !== defaultWebhook) {
+      console.warn("Primary webhook failed, retrying with default Activepieces webhook...");
+      response = await fetch(defaultWebhook, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
     }
-    
+
+    if (!response.ok) {
+      const errText = await response.text().catch(() => "");
+      console.error(`Webhook failed to save the lead: status ${response.status} - ${errText}`);
+      return json({ success: false, error: "Activepieces webhook failed" }, 502);
+    }
+
     return json({ success: true });
-  } catch (error) {
+  } catch (error: any) {
     console.error("Lead submission failed", error);
-    return json({ success: true, warning: "Invalid lead submission bypassed" });
+    return json({ success: false, error: error.message || "Invalid lead submission" }, 400);
   }
 };

@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { COLLEGES } from '@/data/onlineColleges';
 import { Send, PhoneCall, CheckCircle2, AlertCircle } from 'lucide-react';
+import { submitLead } from '@/lib/leads';
 
 export default function OnlineDegreeLeadForm() {
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
@@ -54,17 +55,9 @@ export default function OnlineDegreeLeadForm() {
       timestamp: new Date().toISOString(),
     };
 
-    try {
-      const response = await fetch('/api/leads', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(leadPayload),
-      });
+    const result = await submitLead(leadPayload);
 
-      if (!response.ok) {
-        throw new Error('Lead submission failed');
-      }
-
+    if (result.success) {
       setStatus('success');
       setFormData({
         name: '',
@@ -75,8 +68,8 @@ export default function OnlineDegreeLeadForm() {
         budget: '₹1L – ₹1.5L',
         college: 'Not Sure / Help Me Choose',
       });
-    } catch (err) {
-      console.error('Lead Capture Form Error:', err);
+    } else {
+      console.error('Lead Capture Form Error:', result.error);
       setStatus('error');
     }
   };

@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { MessageSquare, X, Send, User, Bot, CheckCircle2 } from 'lucide-react';
 import { COURSE_OPTIONS, BUDGET_OPTIONS } from '@/lib/constants';
+import { submitLead } from '@/lib/leads';
 
 type Message = {
   id: string;
@@ -128,25 +129,17 @@ export function BotInquiryPopup() {
 
   const submitLeads = async (data: any) => {
     setIsTyping(true);
-    try {
-      const response = await fetch('/api/leads', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          ...data,
-          source: `Bot Inquiry (${data.course})`,
-          timestamp: new Date().toISOString()
-        }),
-      });
+    const result = await submitLead({
+      ...data,
+      source: `Bot Inquiry (${data.course})`,
+      timestamp: new Date().toISOString()
+    });
 
-      if (response.ok) {
-        setIsSubmitted(true);
-        addBotMessage("Thank you! Your inquiry has been submitted. Our team will get back to you shortly. ✨");
-      } else {
-        addBotMessage("Oops! Something went wrong. Please try again or use the main contact form.");
-      }
-    } catch (e) {
-      addBotMessage("Connection error. Please try again later.");
+    if (result.success) {
+      setIsSubmitted(true);
+      addBotMessage("Thank you! Your inquiry has been submitted. Our team will get back to you shortly. ✨");
+    } else {
+      addBotMessage("Oops! Something went wrong. Please try again or use the main contact form.");
     }
     setIsTyping(false);
   };

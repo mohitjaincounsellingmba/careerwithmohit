@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { X, Send, Download, CheckCircle2 } from 'lucide-react';
+import { submitLead } from '@/lib/leads';
 
 interface LeadGenFormProps {
     resourceName: string;
@@ -22,35 +23,23 @@ export function LeadGenForm({ resourceName, onSuccess, onClose }: LeadGenFormPro
         e.preventDefault();
         setStatus('submitting');
 
-        // Direct Activepieces Webhook Call
-        try {
-            const response = await fetch('/api/leads', {
-                method: 'POST',
-                mode: 'cors',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    name: formData.name,
-                    number: formData.number,
-                    email: formData.email,
-                    location: formData.location,
-                    source: `Resource Download: ${resourceName}`,
-                    timestamp: new Date().toISOString()
-                }),
-            });
+        const result = await submitLead({
+            name: formData.name,
+            number: formData.number,
+            email: formData.email,
+            location: formData.location,
+            source: `Resource Download: ${resourceName}`,
+            timestamp: new Date().toISOString()
+        });
 
-            if (!response.ok) {
-                const errorText = await response.text();
-                throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
-            }
-
+        if (result.success) {
             setStatus('success');
             setTimeout(() => {
                 onSuccess();
             }, 1500);
-        } catch (e: any) {
-            console.error('Webhook Error:', e);
+        } else {
             setStatus('error');
-            alert('Submission failed. Please try again.');
+            alert('Submission failed. Please check your connection and try again.');
         }
     };
 

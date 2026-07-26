@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { ShieldCheck, GraduationCap, ArrowRight, CheckCircle2, Sparkles } from 'lucide-react';
+import { submitLead } from '@/lib/leads';
 
 interface OnlineDegreeLeadBoxProps {
   courseName?: string;
@@ -37,17 +38,9 @@ export function OnlineDegreeLeadBox({ courseName = "Online MBA / Online Degree",
       timestamp: new Date().toISOString()
     };
 
-    try {
-      const response = await fetch('/api/leads', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(leadPayload),
-      });
+    const result = await submitLead(leadPayload);
 
-      if (!response.ok) {
-        throw new Error('Lead submission failed');
-      }
-
+    if (result.success) {
       setStatus('success');
       setFormData({
         name: '',
@@ -58,8 +51,8 @@ export function OnlineDegreeLeadBox({ courseName = "Online MBA / Online Degree",
         location: '',
         message: ''
       });
-    } catch (err) {
-      console.error(err);
+    } else {
+      console.error('Lead Capture Form Error:', result.error);
       setStatus('error');
     }
   };
