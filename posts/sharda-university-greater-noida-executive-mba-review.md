@@ -95,7 +95,7 @@ SUAT is [Sharda University](/colleges/sharda-greater-noida)'s online admission t
 ### What are the class options for [Sharda University](/colleges/sharda-greater-noida) Executive MBA?
 Classes are conducted primarily on weekends (Saturdays and Sundays) to allow professionals to maintain their work schedules.
 
-### Does Sharda University offer study material online?
+### Does [Sharda University](/colleges/sharda-greater-noida) offer study material online?
 Yes, Sharda provides access to a comprehensive LMS (Learning Management System) for hybrid and weekend learners.
 
 

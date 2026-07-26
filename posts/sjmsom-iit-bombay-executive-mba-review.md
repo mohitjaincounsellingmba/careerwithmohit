@@ -72,7 +72,7 @@ Yes, this is the only program in India that awards a joint Executive MBA degree 
 Yes, the program includes a mandatory 2-week capstone residency module at Washington University in St. Louis, USA.
 
 ### What is the schedule of classes?
-Classes are held once a month in a 4-day residency format (Thursday through Sunday) at the IIT Bombay campus.
+Classes are held once a month in a 4-day residency format (Thursday through Sunday) at the [IIT Bombay](/colleges/iit-bombay) campus.
 
 
 Source: Shiksha.com and Official College Websites

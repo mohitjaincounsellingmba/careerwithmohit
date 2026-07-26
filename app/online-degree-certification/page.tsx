@@ -12,8 +12,12 @@ const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 export const metadata: Metadata = {
   title: 'Top Online Degrees & Certifications 2026 | UGC Approved Universities | CareerWithMohit',
   description:
-    'Compare 34+ UGC-DEB approved online universities in India for 2026. Find fees, NAAC grades, programs (MBA, MCA, BBA, BCA) and get FREE expert counselling. Starting at ₹62,200.',
+    'Compare 40+ UGC-DEB approved online universities in India for 2026. Find fees, NAAC grades, programs (MBA, MA, MCA, BBA, BCA, BA) and get FREE expert counselling. Starting at ₹20,000.',
   keywords: [
+    'online MA in English 2026',
+    'online MA colleges India',
+    'online MA English admission',
+    'UGC approved online MA',
     'online MBA 2026',
     'online PGDM 2026',
     'Jaipuria Institute of Management online PGDM',
@@ -189,6 +193,10 @@ const FAQ_ITEMS = [
     q: 'What is the difference between online and distance education?',
     a: 'Online degrees (UGC-DEB mode) use live/recorded digital classes on an LMS platform. Distance education (ODL mode) traditionally uses printed study material with physical contact sessions. Both are UGC-recognized; online is more interactive.',
   },
+  {
+    q: 'Which universities are best for an Online MA in English in India?',
+    a: 'Top UGC-DEB approved universities for Online MA in English in 2026 include LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Vivekananda Global University Online, Shoolini University Online, Parul University Online, Sikkim Manipal University Online, Amity University Online, Jamia Millia Islamia Online, and IGNOU Online. Fees range from ₹20,000 to ₹1,20,000 for the entire 2-year program.',
+  },
 ];
 
 export default function OnlineDegreePage() {
@@ -298,6 +306,7 @@ export default function OnlineDegreePage() {
                 { name: 'Online B.Com', slug: 'online-bcom', tag: 'UG' },
                 { name: 'Online M.Com', slug: 'online-mcom', tag: 'PG' },
                 { name: 'Online MA', slug: 'online-ma', tag: 'PG' },
+                { name: 'Online MA (English)', slug: 'online-ma-english', tag: 'PG' },
                 { name: 'Online BA', slug: 'online-ba', tag: 'UG' },
                 { name: 'Online B.Sc', slug: 'online-bsc', tag: 'UG' },
                 { name: 'Online M.Sc', slug: 'online-msc', tag: 'PG' },
@@ -408,10 +417,12 @@ export default function OnlineDegreePage() {
                     { name: 'Amity University Online', grade: 'A+ Rated', fee: '₹1.99 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com, MA', badge: 'Global Brand', badgeColor: 'bg-indigo-50 text-indigo-700 border-indigo-100' },
                     { name: 'Jain University Online', grade: 'A++ Rated', fee: '₹1.96 Lakhs', programs: 'MBA, BBA, MCA, BCA, MA, M.Com', badge: 'Tech Specialized', badgeColor: 'bg-purple-50 text-purple-700 border-purple-100' },
                     { name: 'LPU Online', grade: 'A++ Rated', fee: '₹1.61 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Sc, MA', badge: 'LMS King', badgeColor: 'bg-emerald-50 text-emerald-700 border-emerald-100' },
-                    { name: 'Chandigarh University Online', grade: 'A+ Rated', fee: '₹1.65 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Com', badge: 'Placements Support', badgeColor: 'bg-blue-50 text-blue-700 border-blue-100' },
-                    { name: 'Manipal University Jaipur Online', grade: 'A+ Rated', fee: '₹1.75 Lakhs', programs: 'MBA, BBA, MCA, BCA, M.Com', badge: 'Top Brand ROI', badgeColor: 'bg-amber-50 text-amber-700 border-amber-100' },
+                    { name: 'Chandigarh University Online', grade: 'A+ Rated', fee: '₹1.65 Lakhs', programs: 'MBA, BBA, MCA, BCA, MA, M.Com', badge: 'Placements Support', badgeColor: 'bg-blue-50 text-blue-700 border-blue-100' },
+                    { name: 'Manipal University Jaipur Online', grade: 'A+ Rated', fee: '₹1.75 Lakhs', programs: 'MBA, BBA, MCA, BCA, MA, M.Com', badge: 'Top Brand ROI', badgeColor: 'bg-amber-50 text-amber-700 border-amber-100' },
                     { name: 'NMIMS Online', grade: 'A+ Rated', fee: '₹2.00 Lakhs', programs: 'MBA, BBA, B.Com, Diploma', badge: 'Business Focus', badgeColor: 'bg-rose-50 text-rose-700 border-rose-100' },
-                    { name: 'Andhra University Online', grade: 'A Rated', fee: '₹62,200', programs: 'MBA, MCA, B.Com, BA', badge: 'Lowest Fee King', badgeColor: 'bg-green-50 text-green-700 border-green-100' }
+                    { name: 'Jamia Millia Islamia Online', grade: 'A++ Rated', fee: '₹20,000', programs: 'MA, BBA, B.Com, M.Com, BA', badge: 'NIRF #3 Central Univ', badgeColor: 'bg-teal-50 text-teal-700 border-teal-100' },
+                    { name: 'Aligarh Muslim University Online', grade: 'A+ Rated', fee: '₹21,000', programs: 'MA, B.Com, M.Com, BA', badge: 'NIRF Top 10 Central', badgeColor: 'bg-indigo-50 text-indigo-700 border-indigo-100' },
+                    { name: 'Andhra University Online', grade: 'A Rated', fee: '₹62,200', programs: 'MBA, MCA, MA, B.Com, BA', badge: 'Lowest Fee King', badgeColor: 'bg-green-50 text-green-700 border-green-100' }
                   ].map((univ, idx) => (
                     <tr key={idx} className="hover:bg-slate-50/50 transition-colors">
                       <td className="px-8 py-5 font-bold text-[#0f172a]">{univ.name}</td>

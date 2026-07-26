@@ -110,7 +110,7 @@ Source: Shiksha.com
 Yes, [Doon Business School](/colleges/doon-business-school) has a dedicated placement cell that invites consumer goods, IT, and banking firms for hiring graduates for HR executive and trainee profiles.
 
 ### Are MAT scores accepted by B-schools in Dehradun?
-Yes, Doon Business School, UPES, and Graphic Era accept national level exam scores like MAT and CMAT.
+Yes, [Doon Business School](/colleges/doon-business-school), UPES, and Graphic Era accept national level exam scores like MAT and CMAT.
 ---
 
 ### 🚀 Boost Your Preparation

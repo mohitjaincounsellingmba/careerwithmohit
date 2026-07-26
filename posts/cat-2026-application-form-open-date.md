@@ -3,7 +3,9 @@ title: 'CAT 2026 Application Form Open Date: Registration Schedule & Fees'
 date: '2026-07-25'
 category: MBA
 description: >-
-  Looking for the CAT 2026 application form open date? Get the complete official schedule, registration deadlines, step-by-step application guide, and fees here.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Looking for the CAT 2026 application form open date?
+  Get the ...
 keywords:
   - CAT 2026 application form open date
   - CAT exam registration 2026
@@ -11,23 +13,37 @@ keywords:
   - CAT application form 2026
   - CAT 2026 official notification
   - IIM admission 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will the CAT 2026 application form open?
     answer: >-
-      The CAT 2026 application form will officially open on **August 3, 2026 (10:00 AM)**, following the release of the official notification on July 26, 2026.
+      The CAT 2026 application form will officially open on **August 3, 2026
+      (10:00 AM)**, following the release of the official notification on July
+      26, 2026.
   - question: What is the last date to apply for CAT 2026?
     answer: >-
-      The registration window for CAT 2026 will close on **September 15, 2026**, at 5:00 PM.
+      The registration window for CAT 2026 will close on **September 15, 2026**,
+      at 5:00 PM.
   - question: What is the application fee for CAT 2026?
     answer: >-
-      The registration fee is **₹2,700** for General/EWS/NC-OBC candidates and **₹1,350** for SC/ST/PwD candidates.
+      The registration fee is **₹2,700** for General/EWS/NC-OBC candidates and
+      **₹1,350** for SC/ST/PwD candidates.
   - question: What documents are required for CAT 2026 registration?
     answer: >-
-      You will need a scanned passport-size photograph, your signature, category certificates (SC/ST/OBC-NCL/EWS) if applicable, and detailed academic transcripts from class 10th, 12th, and graduation.
-location: India
+      You will need a scanned passport-size photograph, your signature, category
+      certificates (SC/ST/OBC-NCL/EWS) if applicable, and detailed academic
+      transcripts from class 10th, 12th, and graduation.
+location: Delhi
 ---
 
-The Common Admission Test (CAT) is the most prestigious and competitive national-level MBA entrance exam in India, serving as the gateway to the elite Indian Institutes of Management (IIMs), FMS Delhi, SPJIMR, MDI, and over 1,200 other top-tier business schools.
+The Common Admission Test (CAT) is the most prestigious and competitive national-level MBA entrance exam in India, serving as the gateway to the elite Indian Institutes of Management (IIMs), [FMS Delhi](/colleges/fms-delhi), SPJIMR, MDI, and over 1,200 other top-tier business schools.
 
 If you are aiming to start your MBA journey in 2027, keeping track of the **CAT 2026 application form open date** is crucial. Missing the registration deadline means waiting a full year for the next opportunity.
 

@@ -29,7 +29,7 @@ location: India
 
 The NMAT by GMAC (NMIMS Management Aptitude Test) is one of the most popular candidate-friendly MBA entrance exams in India. Conducted by the Graduate Management Admission Council (GMAC), NMAT scores are the sole path to NMIMS University campuses (Mumbai, Bengaluru, Hyderabad, Navi Mumbai, Indore, Shirpur) and are accepted by other prestigious business schools like K J Somaiya, XIMB, SDA Bocconi, and VIT University.
 
-Unlike other competitive MBA entrance exams, NMAT stands out due to its scheduling flexibility, adaptive test design, and multi-attempt model. If you are targeting NMIMS Mumbai or other leading institutes for the 2027 batch, staying on top of the **NMAT 2026 application form open date** is critical.
+Unlike other competitive MBA entrance exams, NMAT stands out due to its scheduling flexibility, adaptive test design, and multi-attempt model. If you are targeting [NMIMS Mumbai](/colleges/nmims-mumbai) or other leading institutes for the 2027 batch, staying on top of the **NMAT 2026 application form open date** is critical.
 
 ---
 

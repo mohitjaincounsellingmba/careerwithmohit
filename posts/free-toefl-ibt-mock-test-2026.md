@@ -36,6 +36,8 @@ To help you measure your standing, we offer a high-fidelity **[Free TOEFL iBT 20
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the duration of the TOEFL iBT exam?
@@ -47,11 +49,3 @@ Each of the 4 sections is scored out of 30, making the total score out of 120. A
 ### Is a calculator or scratch paper allowed in TOEFL?
 Scratch paper and a pencil are provided by the test center for taking notes during all sections of the TOEFL exam.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

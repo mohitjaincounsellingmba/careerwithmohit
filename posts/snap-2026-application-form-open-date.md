@@ -27,7 +27,7 @@ faqs:
 location: India
 ---
 
-The Symbiosis National Aptitude Test (SNAP) is a popular national-level MBA entrance exam conducted by Symbiosis International (Deemed) University (SIU). SNAP is the gateway to 16 elite Symbiosis institutes, including the highly ranked SIBM Pune, SCMHRD Pune, SIBM Bangalore, and SIIB Pune.
+The Symbiosis National Aptitude Test (SNAP) is a popular national-level MBA entrance exam conducted by Symbiosis International (Deemed) University (SIU). SNAP is the gateway to 16 elite Symbiosis institutes, including the highly ranked [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore), and SIIB Pune.
 
 SNAP is famous for being a speed-based, student-friendly exam. It has a shorter duration compared to CAT or XAT (just 60 minutes) and allows candidates multiple attempts. If you are targeting any of the prestigious Symbiosis programs for the 2027-29 academic batch, you need to track the **SNAP 2026 application form open date** closely.
 

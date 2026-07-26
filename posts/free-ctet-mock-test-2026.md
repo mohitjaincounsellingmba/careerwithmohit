@@ -40,6 +40,8 @@ To help you measure your standing, we offer a high-fidelity **[Free CTET 2026 (P
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of CTET Paper 1?
@@ -51,11 +53,3 @@ General category candidates must score at least 60% (90 out of 150 marks) to qua
 ### Is there negative marking in CTET?
 No, there is no negative marking in the CTET exam. Candidates are advised to attempt all 150 questions.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

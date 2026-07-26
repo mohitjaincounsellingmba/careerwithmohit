@@ -18,7 +18,7 @@ const FEE_RANGES = [
   { label: '₹1.5L – ₹2L', min: 150000, max: 200000 },
   { label: 'Above ₹2L', min: 200000, max: Infinity },
 ];
-const COURSES = ['MBA', 'PGDM', 'MCA', 'BBA', 'BCA', 'B.Com', 'M.Com', 'MA', 'BA', 'B.Sc', 'M.Sc', 'B.Tech', 'Diploma'];
+const COURSES = ['MBA', 'MA', 'PGDM', 'MCA', 'BBA', 'BCA', 'BA', 'B.Com', 'M.Com', 'B.Sc', 'M.Sc', 'B.Tech', 'Diploma'];
 
 /* ── Inquiry Modal ── */
 function InquiryModal({ college, onClose }: { college: typeof COLLEGES[0]; onClose: () => void }) {

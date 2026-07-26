@@ -37,6 +37,8 @@ To help you measure your standing, we offer a high-fidelity **[Free LIC AAO 2026
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the LIC AAO Prelims exam?
@@ -48,11 +50,3 @@ No, the English Language section is only qualifying in nature. Candidates must c
 ### Is there negative marking in the LIC AAO exam?
 No, there is no negative marking in the LIC AAO Prelims exam. Candidates can attempt all questions without fear of penalty.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

@@ -106,14 +106,63 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   },
   'online-ma': {
     name: 'Online MA',
-    searchToken: 'Online MA',
-    title: 'Best Online MA Colleges in India 2026 | UGC Approved Fees',
-    desc: 'Find the top UGC recognized online MA universities. Compare English, Journalism, Sociology, and Economics streams.',
+    searchToken: 'MA',
+    title: 'Best Online MA Colleges in India 2026 | UGC Approved Fees & Specializations',
+    desc: 'Compare top UGC-DEB approved Online MA universities in India for 2026. Explore fees, eligibility, and specializations like English, Journalism, Economics, and Sociology.',
     h1: 'Online MA Colleges in India 2026',
-    aboutText: 'An Online MA (Master of Arts) is a 2-year postgraduate humanities degree. Popular specializations include English literature, Public Relations, Journalism, Psychology, and Economics. Taught entirely online with virtual exams.',
+    aboutText: 'An Online MA (Master of Arts) is a 2-year postgraduate humanities degree recognized by UGC-DEB. Offering 100% equivalence to regular classroom programs under UGC Regulations 2020, it is ideal for working professionals, civil services (UPSC) aspirants, and educators. Popular specializations include English Literature, Journalism & Mass Communication, Economics, Political Science, History, Sociology, Hindi, and Public Administration.',
     faqs: [
-      { q: 'Is online MA valid for Net/Slet lectureship exams?', a: 'Yes, UGC approved online MAs make you fully eligible to appear for the UGC NET exam and pursue a PhD.' }
-    ]
+      {
+        q: 'Is an online MA degree valid for UGC NET, PhD, and lectureship?',
+        a: 'Yes. As per UGC (ODL & Online Programmes) Regulations 2020, an Online MA from a UGC-DEB approved university is legally equivalent to a regular MA degree. Graduates are 100% eligible to appear for UGC NET/JRF, SET exams, pursue PhD admissions, and apply for assistant professor roles.',
+      },
+      {
+        q: 'What is the fee structure for an Online MA in India in 2026?',
+        a: 'Online MA fees in India start from ₹20,000 for entire 2-year programs at central universities like Jamia Millia Islamia (JMI), Aligarh Muslim University (AMU), and DU SOL. Private universities like LPU Online, Chandigarh University Online, and Amity Online charge between ₹60,000 to ₹1,20,000 with flexible semester EMIs.',
+      },
+      {
+        q: 'Which universities offer the best Online MA in English?',
+        a: 'Top universities for Online MA in English include LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Vivekananda Global University Online, Shoolini University Online, Parul University Online, Sikkim Manipal University Online, Amity University Online (WES Approved), and IGNOU Online.',
+      },
+      {
+        q: 'Can I prepare for UPSC Civil Services while pursuing an Online MA?',
+        a: 'Absolutely. Many UPSC aspirants choose an Online MA in subjects like Political Science, History, Sociology, Public Administration, or English Literature. It provides a formal postgraduate degree without mandatory classroom attendance, leaving ample time for exam preparation.',
+      },
+      {
+        q: 'Are Online MA degrees WES approved for jobs and immigration abroad?',
+        a: 'Yes, select universities like Amity University Online, LPU Online, and Jain University Online hold World Education Services (WES) approval, making your degree valid for higher education and immigration to Canada and the USA.',
+      },
+    ],
+  },
+  'online-ma-english': {
+    name: 'Online MA in English',
+    searchToken: 'MA',
+    title: 'Top Online MA in English Colleges in India 2026 | UGC Approved Fees',
+    desc: 'Find the best UGC-DEB approved universities for Online MA in English in India. Compare tuition fees, syllabus, NAAC ratings, and career scopes.',
+    h1: 'Online MA in English Colleges in India 2026',
+    aboutText: 'An Online MA in English is a 2-year postgraduate program designed to build deep expertise in British, American, Indian, and World literature, literary criticism, linguistics, and creative writing. Offered by top universities like LPU Online, Chandigarh University Online, Vivekananda Global University Online, and Amity Online, it is 100% equivalent to regular degrees under UGC Regulations 2020. Graduates are fully eligible for UGC NET, PhD, school/college teaching, journalism, publishing, and civil services.',
+    faqs: [
+      {
+        q: 'Which are the best universities for Online MA in English in India?',
+        a: 'Leading UGC-DEB approved universities offering Online MA in English include LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Vivekananda Global University Online, Shoolini University Online, Parul University Online, Sikkim Manipal University Online, Amity University Online, Jamia Millia Islamia Online, and IGNOU.',
+      },
+      {
+        q: 'What is the eligibility criteria for an Online MA in English?',
+        a: 'Candidates must hold a Bachelor’s degree (BA, B.Com, B.Sc, B.Tech, or equivalent) from any recognized university with a minimum of 45-50% aggregate marks. Most universities do not require an entrance exam for online MA admissions.',
+      },
+      {
+        q: 'Is an Online MA in English valid for government teaching jobs and UGC NET?',
+        a: 'Yes. As per UGC Notification 2020, Online MA in English degrees from UGC-DEB approved universities hold identical status to conventional degrees. You are eligible for UGC NET/JRF, PGT/TGT school teaching exams, and PhD admissions.',
+      },
+      {
+        q: 'What are the career opportunities after completing an Online MA in English?',
+        a: 'Graduates can pursue careers as Content Strategists, Technical Writers, Journalists, Copywriters, Editors, Public Relations Specialists, Academic Researchers, and Educators, or appear for civil services (UPSC) and state administrative exams.',
+      },
+      {
+        q: 'What is the total fee for an Online MA in English?',
+        a: 'Total tuition fees for a 2-year Online MA in English range from ₹20,000 (Central Universities like JMI/AMU/DU SOL) to ₹80,000–₹1,20,000 for top-ranked private universities like LPU, Chandigarh University, and Amity Online.',
+      },
+    ],
   },
   'online-ba': {
     name: 'Online BA',

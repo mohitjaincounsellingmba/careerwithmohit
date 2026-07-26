@@ -32,6 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/online-degree-certification/online-mcom',
     '/online-degree-certification/online-bsc',
     '/online-degree-certification/online-ma',
+    '/online-degree-certification/online-ma-english',
     '/online-degree-certification/online-ba',
     '/online-degree-certification/amity-vs-jain',
     '/online-degree-certification/lpu-vs-chandigarh',
@@ -87,6 +88,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/salary-slip-generator',
     '/top-tier-mba-colleges',
     '/mba-pgdm-admission-2027',
+    '/admissions',
+    '/colleges/mba-colleges-pune',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),

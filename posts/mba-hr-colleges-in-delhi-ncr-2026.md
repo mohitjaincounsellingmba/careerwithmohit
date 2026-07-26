@@ -142,7 +142,7 @@ Source: Shiksha.com
 [MDI Gurgaon](/colleges/mdi-gurgaon) is highly renowned for its specialized PGDM-HR program, placing it in the same elite tier for HR education as [XLRI Jamshedpur](/colleges/xlri-jamshedpur) and TISS Mumbai.
 
 ### What entrance exams are accepted by top Delhi NCR B-schools for HR?
-CAT is the primary entrance exam accepted by [FMS Delhi](/colleges/fms-delhi) and MDI Gurgaon. Other top colleges like [IMI Delhi](/colleges/imi-delhi), IMT Ghaziabad, and LBSIM accept CAT, XAT, and GMAT.
+CAT is the primary entrance exam accepted by [FMS Delhi](/colleges/fms-delhi) and [MDI Gurgaon](/colleges/mdi-gurgaon). Other top colleges like [IMI Delhi](/colleges/imi-delhi), IMT Ghaziabad, and LBSIM accept CAT, XAT, and GMAT.
 ---
 
 ### 🚀 Boost Your Preparation

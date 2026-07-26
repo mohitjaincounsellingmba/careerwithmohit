@@ -35,6 +35,8 @@ To help you measure your standing, we offer a high-fidelity **[Free SBI PO 2026 
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of SBI PO Prelims?
@@ -46,11 +48,3 @@ No, SBI PO has removed sectional cutoffs for both Prelims and Mains. Candidates 
 ### What is the negative marking penalty in SBI PO?
 SBI PO penalizes wrong answers by deducting 1/4th (-0.25) of the mark of that question. There is no penalty for unattempted questions.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

@@ -9,7 +9,8 @@
     "test": "playwright test",
     "scrape-colleges": "node scripts/scrape-colleges.js",
     "scrape-colleges:update": "node scripts/scrape-colleges.js --update",
-    "scrape-colleges:nirf": "node scripts/scrape-colleges.js --nirf"
+    "scrape-colleges:nirf": "node scripts/scrape-colleges.js --nirf",
+    "seo": "node scripts/optimize-seo-all.mjs"
   },
   "dependencies": {
     "@next/third-parties": "^16.1.6",

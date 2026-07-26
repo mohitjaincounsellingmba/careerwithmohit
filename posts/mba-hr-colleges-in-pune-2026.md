@@ -121,7 +121,7 @@ Source: Shiksha.com
 [SCMHRD Pune](/colleges/scmhrd-pune) is specifically famous for its flagship HR specialization and has historically been ranked alongside XLRI and TISS for HR. However, [SIBM Pune](/colleges/sibm-pune) is the flagship Symbiosis B-school and offers excellent placement opportunities for all specializations, including HR.
 
 ### What is the average placement package at [SCMHRD Pune](/colleges/scmhrd-pune) for HR?
-The overall average placement package at SCMHRD Pune is around INR 23.71 LPA, with the HR branch securing highly lucrative packages from top consulting and FMCG firms.
+The overall average placement package at [SCMHRD Pune](/colleges/scmhrd-pune) is around INR 23.71 LPA, with the HR branch securing highly lucrative packages from top consulting and FMCG firms.
 
 ### What are the low-fee MBA HR options in Pune?
 [PUMBA Pune](/colleges/pumba-pune) (Pune University) is the best low-fee option, offering a total program fee of around INR 1.3 Lakhs and an average placement package of INR 8.85 LPA.

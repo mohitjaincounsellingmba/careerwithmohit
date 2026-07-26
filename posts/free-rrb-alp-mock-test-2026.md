@@ -37,6 +37,8 @@ To help you measure your standing, we offer a high-fidelity **[Free RRB ALP 2026
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of RRB ALP CBT 1?
@@ -48,11 +50,3 @@ Yes, there is a negative marking of 1/3rd (-0.33) of the marks assigned to each 
 ### Is CBT 1 score counted in the final RRB ALP merit list?
 No, CBT 1 is only qualifying in nature. It is used to screen candidates for CBT 2. The final merit is prepared based on CBT 2 Part A and Computer Based Aptitude Test (CBAT) scores.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

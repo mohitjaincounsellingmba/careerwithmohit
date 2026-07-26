@@ -120,7 +120,7 @@ Depending on the institute type:
 - If **State Private College**: Register on the official State Counselling portal (**Directorate of Medical Education and Training (UPDGME - upneet.gov.in)**).
 
 ### Step 3: Choice Filling & Locking
-During choice filling rounds, select **Sharda University (School of Medical Sciences & Research - SMSR), Greater Noida** as your top preference. Ensure your choices are locked before the deadline.
+During choice filling rounds, select **[Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences & Research - SMSR), Greater Noida** as your top preference. Ensure your choices are locked before the deadline.
 
 ### Step 4: Seat Allotment Result
 Counselling authorities release seat allotment results based on NEET rank, category, reservation rules, and preference choices.
