@@ -47,13 +47,13 @@ Based on historical trends and the academic calendar, the **CAT 2026 Exam Date**
 ## 1. CAT 2026 Important Dates (Tentative)
 While the official notification is usually released by the convening IIM in late July, here is the projected schedule for CAT 2026:
 
-| Event | Expected Date |
+| Event | Official Date |
 | :--- | :--- |
-| **Official Notification Release** | July 26, 2026 (Last Sunday of July) |
-| **Registration Start Date** | August 5, 2026 (First Week of August) |
-| **Registration Closing Date** | September 20, 2026 (Third Week of September) |
-| **Admit Card Release** | October 25, 2026 |
-| **CAT 2026 Exam Day** | **November 29, 2026** |
+| **Official Notification Release** | July 26, 2026 |
+| **Registration Start Date** | August 3, 2026 (10:00 AM) |
+| **Registration Closing Date** | September 15, 2026 (5:00 PM) |
+| **Admit Card Release** | November 4, 2026 |
+| **CAT 2026 Exam Day** | **November 29, 2026** (Sunday) |
 | **Result Declaration** | Second Week of January 2027 |
 
 **Official Website:** [iimcat.ac.in](https://iimcat.ac.in)
@@ -62,8 +62,8 @@ While the official notification is usually released by the convening IIM in late
 
 ## 2. CAT 2026 Registration Fee
 The registration fee for CAT 2026 is expected to be:
-*   **General/NC-OBC Candidates:** ₹2,400 - ₹2,500
-*   **SC/ST/PwD Candidates:** ₹1,200 - ₹1,250
+*   **General/EWS/NC-OBC Candidates:** ₹2,700
+*   **SC/ST/PwD Candidates:** ₹1,350
 
 *Note: Fees are subject to change as per the official notification.*
 

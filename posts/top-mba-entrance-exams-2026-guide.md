@@ -58,7 +58,7 @@ This guide breaks down every major MBA entrance exam for the 2026 session, helpi
 *   **Exam Date**: November 30, 2025 (Tentative).
 *   **Registration**: August - September 2025.
 *   **Frequency**: Once a year.
-*   **Application Fee**: ~₹2,600 (General).
+*   **Application Fee**: ₹2,700 (General).
 *   **Placements**: Average package at top IIMs ranges from ₹28 LPA to ₹35 LPA.
 
 #### **XAT (Xavier Aptitude Test) - The Decision Maker**

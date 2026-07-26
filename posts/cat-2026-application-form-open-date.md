@@ -3,7 +3,7 @@ title: 'CAT 2026 Application Form Open Date: Registration Schedule & Fees'
 date: '2026-07-25'
 category: MBA
 description: >-
-  Looking for the CAT 2026 application form open date? Get the complete expected schedule, registration deadlines, step-by-step application guide, and fees here.
+  Looking for the CAT 2026 application form open date? Get the complete official schedule, registration deadlines, step-by-step application guide, and fees here.
 keywords:
   - CAT 2026 application form open date
   - CAT exam registration 2026
@@ -14,13 +14,13 @@ keywords:
 faqs:
   - question: When will the CAT 2026 application form open?
     answer: >-
-      The CAT 2026 application form is expected to open on **August 1, 2026**, following the release of the official notification on July 26, 2026.
+      The CAT 2026 application form will officially open on **August 3, 2026 (10:00 AM)**, following the release of the official notification on July 26, 2026.
   - question: What is the last date to apply for CAT 2026?
     answer: >-
-      The registration window for CAT 2026 is expected to close on **September 20, 2026**, at 5:00 PM.
+      The registration window for CAT 2026 will close on **September 15, 2026**, at 5:00 PM.
   - question: What is the application fee for CAT 2026?
     answer: >-
-      The registration fee is expected to be **₹2,600** for General/OBC candidates and **₹1,300** for SC/ST/PwD candidates.
+      The registration fee is **₹2,700** for General/EWS/NC-OBC candidates and **₹1,350** for SC/ST/PwD candidates.
   - question: What documents are required for CAT 2026 registration?
     answer: >-
       You will need a scanned passport-size photograph, your signature, category certificates (SC/ST/OBC-NCL/EWS) if applicable, and detailed academic transcripts from class 10th, 12th, and graduation.
@@ -39,20 +39,20 @@ If you are aiming to start your MBA journey in 2027, keeping track of the **CAT 
 
 ---
 
-## Expected CAT 2026 Registration Dates & Schedule
+## Official CAT 2026 Registration Dates & Schedule
 
-While the official notification is typically released on the last Sunday of July, based on established historical trends, the registration cycle is expected to follow this schedule:
+The official notification for CAT 2026 has been released on July 26, 2026, by IIM Indore. The official registration cycle follows this schedule:
 
-| Event | Expected Timeline / Date |
+| Event | Official Date / Timeline |
 | :--- | :--- |
 | **Official CAT 2026 Notification Release** | July 26, 2026 |
-| **CAT 2026 Application Form Open Date** | **August 1, 2026 (10:00 AM)** |
-| **Registration Ends** | **September 20, 2026 (5:00 PM)** |
+| **CAT 2026 Application Form Open Date** | **August 3, 2026 (10:00 AM)** |
+| **Registration Ends** | **September 15, 2026 (5:00 PM)** |
 | **Correction Window Opens** | Last week of September 2026 |
 | **Admit Card Release** | November 4, 2026 |
 | **CAT 2026 Exam Date** | **November 29, 2026 (Sunday)** |
 
-Candidates will have a window of approximately 50 days to register. To avoid server errors or last-minute rush, it is recommended to register well ahead of the deadline.
+Candidates will have a window of approximately 44 days to register. To avoid server errors or last-minute rush, it is recommended to register well ahead of the deadline.
 
 ---
 
@@ -60,8 +60,8 @@ Candidates will have a window of approximately 50 days to register. To avoid ser
 
 The application fee must be paid online during registration using credit card, debit card, UPI, or net banking:
 
-* **General / NC-OBC / EWS Candidates:** ₹2,600 (Expected)
-* **SC / ST / PwD Candidates:** ₹1,300 (Expected)
+* **General / NC-OBC / EWS Candidates:** ₹2,700
+* **SC / ST / PwD Candidates:** ₹1,350
 
 ---
 
@@ -109,13 +109,13 @@ Once the **CAT 2026 application form open date** arrives, follow these simple st
 ## Frequently Asked Questions (FAQ)
 
 ### 1. When will the CAT 2026 application form open?
-The CAT 2026 application form is expected to open on **August 1, 2026**, following the release of the official notification on July 26, 2026.
+The CAT 2026 application form will officially open on **August 3, 2026 (10:00 AM)**, following the release of the official notification on July 26, 2026.
 
 ### 2. What is the last date to apply for CAT 2026?
-The registration window for CAT 2026 is expected to close on **September 20, 2026**, at 5:00 PM.
+The registration window for CAT 2026 will close on **September 15, 2026**, at 5:00 PM.
 
 ### 3. What is the application fee for CAT 2026?
-The registration fee is expected to be **₹2,600** for General/OBC candidates and **₹1,300** for SC/ST/PwD candidates.
+The registration fee is **₹2,700** for General/EWS/NC-OBC candidates and **₹1,350** for SC/ST/PwD candidates.
 
 ### 4. What documents are required for CAT 2026 registration?
 You will need a scanned passport-size photograph, your signature, category certificates (SC/ST/OBC-NCL/EWS) if applicable, and detailed academic transcripts from class 10th, 12th, and graduation.

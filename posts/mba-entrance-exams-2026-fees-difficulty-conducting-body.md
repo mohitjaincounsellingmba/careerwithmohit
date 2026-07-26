@@ -43,7 +43,7 @@ To help you plan your budget and preparation strategy, we have compiled the ulti
 
 | Exam | Conducting Body | App. Fee (Approx.) | Difficulty | Best For... |
 | :--- | :--- | :--- | :--- | :--- |
-| **CAT** | IIMs (On Rotation) | ₹2,600 | **High** | All 21 IIMs, FMS, MDI, SPJIMR |
+| **CAT** | IIMs (On Rotation) | ₹2,700 | **High** | All 21 IIMs, FMS, MDI, SPJIMR |
 | **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | ₹2,200 | **High** | XLRI, SPJIMR, IMT, XIMB |
 | **NMAT** | GMAC | ₹3,000 | **Moderate** | NMIMS campuses, K J Somaiya |
 | **SNAP** | Symbiosis (SIU) | ₹2,250 | **Moderate** | 16 Symbiosis Institutes (SIBM, SCMHRD) |
@@ -63,7 +63,7 @@ To help you plan your budget and preparation strategy, we have compiled the ulti
 #### **1. CAT (Common Admission Test)**
 The "Gold Standard" of Indian MBA exams.
 *   **Difficulty**: Very High. Requires deep logical thinking and time management.
-*   **Fees**: Increased recently to ₹2,600 for General category.
+*   **Fees**: Increased recently to ₹2,700 for General category.
 *   **Why Take It?**: It is the only way to get into the IIMs. Even a 95+ percentile opens doors to top non-IIM colleges like [MDI Gurgaon](/colleges/mdi-gurgaon).
 
 #### **2. XAT (Xavier Aptitude Test)**
