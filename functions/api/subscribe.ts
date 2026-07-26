@@ -10,10 +10,21 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     if ((method !== "email" && method !== "whatsapp") || !value) {
       return Response.json({ error: "A valid email or WhatsApp number is required." }, { status: 400 });
     }
-    const webhooks = [
-      env.ACTIVEPIECES_GENERAL_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
-      env.ACTIVEPIECES_INQUIRY_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
-    ];
+    const deadUrls = new Set([
+      "https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2",
+      "https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4"
+    ]);
+    const urls = new Set<string>([
+      "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
+      "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
+    ]);
+    if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
+      urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
+    }
+    if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
+      urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
+    }
+    const webhooks = Array.from(urls);
 
     const payload = {
       id: crypto.randomUUID(),

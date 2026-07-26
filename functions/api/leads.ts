@@ -48,23 +48,32 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       }
     }
 
-    // Known Activepieces webhook URLs
-    const webhookA = env.ACTIVEPIECES_INQUIRY_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3";
-    const webhookB = env.ACTIVEPIECES_GENERAL_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F";
-
-    // Send to both webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces always receives the lead
-    const results = await Promise.allSettled([
-      fetch(webhookA, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(cleanPayload),
-      }),
-      fetch(webhookB, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(cleanPayload),
-      }),
+    // Collect all valid webhook URLs, always including the two known active ones and filtering out dead 410 URLs
+    const deadUrls = new Set([
+      "https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2",
+      "https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4"
     ]);
+    const urls = new Set<string>([
+      "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
+      "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F"
+    ]);
+    if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
+      urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
+    }
+    if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
+      urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
+    }
+
+    // Send to all candidate webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces always receives the lead
+    const results = await Promise.allSettled(
+      Array.from(urls).map(url =>
+        fetch(url, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(cleanPayload),
+        })
+      )
+    );
 
     const anySuccess = results.some(r => r.status === "fulfilled" && r.value.ok);
 
