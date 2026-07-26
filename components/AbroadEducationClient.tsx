@@ -8,7 +8,15 @@ import {
 } from 'lucide-react';
 import { ABROAD_COLLEGES } from '@/data/abroadColleges';
 import Link from 'next/link';
+import { submitLead } from '@/lib/leads';
 import { generateCollegeSlug } from '@/lib/slugify';
+
+interface Filters {
+  search: string;
+  country: string[];
+  intake: string[];
+  feeRange: string[];
+}
 
 const COUNTRIES = ['All', 'USA', 'Canada', 'UK', 'Ireland', 'Germany', 'Sweden', 'Netherlands', 'France', 'Finland', 'Denmark', 'Malta', 'Hungary', 'Spain', 'Poland', 'Malaysia', 'New Zealand', 'Australia'];
 const FEE_RANGES = [
@@ -27,17 +35,13 @@ function InquiryModal({ college, onClose }: { college: typeof ABROAD_COLLEGES[0]
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus('submitting');
-    try {
-      await fetch('/api/leads', {
-        method: 'POST',
-        mode: 'cors',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...form, college: college.name, source: 'Abroad Education Page', timestamp: new Date().toISOString() }),
-      });
-      setStatus('success');
-    } catch {
-      setStatus('success'); // fail-silent
-    }
+    await submitLead({
+      ...form,
+      college: college.name,
+      source: 'Abroad Education Page',
+      timestamp: new Date().toISOString(),
+    });
+    setStatus('success');
   };
 
   return (

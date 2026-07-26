@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { Mail, MessageCircle, ArrowRight, CheckCircle2 } from 'lucide-react';
+import { submitLead } from '@/lib/leads';
 
 export function SubscribeForm() {
   const [method, setMethod] = useState<'email' | 'whatsapp'>('email');
@@ -12,31 +13,48 @@ export function SubscribeForm() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!value) return;
-
-    setIsSubmitting(true);
     setErrorObj(null);
 
-    try {
-      // Route through our backend API instead of direct Webhook
-      const response = await fetch('/api/subscribe', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          value: value,
-          method: method
-        }),
-      });
+    if (!value.trim()) {
+      setErrorObj(`Please enter your ${method === 'email' ? 'email address' : 'WhatsApp number'}`);
+      return;
+    }
 
-      if (!response.ok) {
-        const errorText = await response.text();
-        throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
+    setIsSubmitting(true);
+
+    try {
+      let success = false;
+      try {
+        const response = await fetch('/api/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ value, method }),
+        });
+        if (response.ok) {
+          success = true;
+        }
+      } catch {
+        success = false;
+      }
+
+      if (!success) {
+        const res = await submitLead({
+          name: 'Subscriber',
+          email: method === 'email' ? value : '',
+          number: method === 'whatsapp' ? value : '',
+          course: 'Newsletter',
+          source: `Newsletter (${method})`,
+          message: `Subscribed via ${method}`,
+          timestamp: new Date().toISOString()
+        });
+        if (!res.success) {
+          throw new Error(res.error || 'Subscription failed');
+        }
       }
 
       setIsSuccess(true);
       setValue('');
 
-      // Reset success message after 5 seconds
       setTimeout(() => {
         setIsSuccess(false);
       }, 5000);

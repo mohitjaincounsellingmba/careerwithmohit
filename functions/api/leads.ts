@@ -10,53 +10,66 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
   try {
     const lead = await request.json() as Record<string, unknown>;
     const name = String(lead.name || "").trim();
-    const number = String(lead.number || "").trim();
+    const number = String(lead.number || lead.phone || "").trim();
     if (!name || !number) return json({ error: "Name and number are required" }, 400);
 
     const source = String(lead.source || "Unknown");
-    const isCalculatorOrResource = /calculator|resource|mock test|test/i.test(source);
-    const defaultWebhook = isCalculatorOrResource
-      ? "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F"
-      : "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3";
-    const webhook = isCalculatorOrResource
-      ? (env.ACTIVEPIECES_GENERAL_WEBHOOK || defaultWebhook)
-      : (env.ACTIVEPIECES_INQUIRY_WEBHOOK || defaultWebhook);
+    const course = String(lead.course || lead.program || lead.specialization || "");
+    const details = typeof lead.details === "object" && lead.details !== null ? lead.details as Record<string, unknown> : {};
 
-    const details = typeof lead.details === "object" && lead.details !== null ? lead.details : {};
-    const payload = {
-      id: crypto.randomUUID(),
+    // 100% Flat, top-level string properties for Google Sheets compatibility
+    const cleanPayload: Record<string, string> = {
+      id: String(lead.id || crypto.randomUUID()),
       name,
       number,
+      phone: number, // duplicate key so either phone or number works in Google Sheet mapping
       email: String(lead.email || ""),
-      location: String(lead.location || ""),
-      course: String(lead.course || ""),
+      location: String(lead.location || lead.city || ""),
+      course,
+      program: course, // duplicate key so either course or program works in Google Sheet mapping
       source,
       message: String(lead.message || ""),
       budget: String(lead.budget || ""),
       preferredLocation: String(lead.preferredLocation || ""),
+      college: String(lead.college || details.preferredUniversity || ""),
+      preferredUniversity: String(details.preferredUniversity || lead.college || ""),
       timestamp: new Date().toISOString(),
-      ...details,
-      ...lead,
     };
 
-    let response = await fetch(webhook, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload),
-    });
-
-    if (!response.ok && webhook !== defaultWebhook) {
-      console.warn("Primary webhook failed, retrying with default Activepieces webhook...");
-      response = await fetch(defaultWebhook, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
+    // Also include any extra primitive string/number values from lead or details without nesting
+    for (const [key, val] of Object.entries(details)) {
+      if (typeof val === "string" || typeof val === "number") {
+        cleanPayload[key] = String(val);
+      }
+    }
+    for (const [key, val] of Object.entries(lead)) {
+      if ((typeof val === "string" || typeof val === "number") && key !== "details") {
+        cleanPayload[key] = String(val);
+      }
     }
 
-    if (!response.ok) {
-      const errText = await response.text().catch(() => "");
-      console.error(`Webhook failed to save the lead: status ${response.status} - ${errText}`);
+    // Known Activepieces webhook URLs
+    const webhookA = env.ACTIVEPIECES_INQUIRY_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3";
+    const webhookB = env.ACTIVEPIECES_GENERAL_WEBHOOK || "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F";
+
+    // Send to both webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces always receives the lead
+    const results = await Promise.allSettled([
+      fetch(webhookA, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(cleanPayload),
+      }),
+      fetch(webhookB, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(cleanPayload),
+      }),
+    ]);
+
+    const anySuccess = results.some(r => r.status === "fulfilled" && r.value.ok);
+
+    if (!anySuccess) {
+      console.error("All Activepieces webhooks failed to save the lead");
       return json({ success: false, error: "Activepieces webhook failed" }, 502);
     }
 

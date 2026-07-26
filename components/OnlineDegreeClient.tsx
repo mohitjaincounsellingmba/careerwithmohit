@@ -8,6 +8,7 @@ import {
 } from 'lucide-react';
 
 import { COLLEGES } from '@/data/onlineColleges';
+import { submitLead } from '@/lib/leads';
 export { COLLEGES };
 
 const GRADES = ['All', 'A++', 'A+', 'A', 'B+'];
@@ -28,17 +29,13 @@ function InquiryModal({ college, onClose }: { college: typeof COLLEGES[0]; onClo
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus('submitting');
-    try {
-      await fetch('/api/leads', {
-        method: 'POST',
-        mode: 'cors',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...form, college: college.name, source: 'Online Degree Page', timestamp: new Date().toISOString() }),
-      });
-      setStatus('success');
-    } catch {
-      setStatus('success'); // fail-silent
-    }
+    await submitLead({
+      ...form,
+      college: college.name,
+      source: 'Online Degree Page',
+      timestamp: new Date().toISOString(),
+    });
+    setStatus('success');
   };
 
   return (

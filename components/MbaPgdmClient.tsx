@@ -7,6 +7,7 @@ import {
   ChevronDown, GraduationCap, Building2, Award, CheckCircle2, MessageCircle
 } from 'lucide-react';
 import { MBA_PGDM_COLLEGES_2027, MbaPgdmCollege } from '@/data/mbaPgdmColleges2027';
+import { submitLead } from '@/lib/leads';
 
 const LOCATIONS = ['All', 'South Delhi', 'West Delhi', 'North-West Delhi', 'Central Delhi', 'Ghaziabad', 'Noida', 'Greater Noida', 'Gurgaon', 'Pune', 'Mumbai', 'Bangalore'];
 const FEE_RANGES = [
@@ -25,21 +26,13 @@ function InquiryModal({ college, onClose }: { college: MbaPgdmCollege; onClose: 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus('submitting');
-    try {
-      await fetch('/api/leads', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          ...form,
-          college: college.name,
-          source: 'MBA/PGDM 2027 Page Direct Inquiry',
-          timestamp: new Date().toISOString(),
-        }),
-      });
-      setStatus('success');
-    } catch {
-      setStatus('success');
-    }
+    await submitLead({
+      ...form,
+      college: college.name,
+      source: 'MBA/PGDM 2027 Page Direct Inquiry',
+      timestamp: new Date().toISOString(),
+    });
+    setStatus('success');
   };
 
   return (
