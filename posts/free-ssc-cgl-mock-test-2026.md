@@ -49,3 +49,11 @@ Yes, there is a negative marking of 0.50 marks for each wrong answer in the SSC 
 ### What is a safe score to clear the cut-off for SSC CGL Tier 1?
 A raw score of 150+ (out of 200) is usually safe for general category candidates to clear the Tier 1 cutoff and qualify for Tier 2.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

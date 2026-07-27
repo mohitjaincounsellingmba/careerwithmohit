@@ -49,3 +49,11 @@ No, SBI Clerk Prelims has no sectional cutoffs. Candidates are shortlisted for M
 ### Is there negative marking in the SBI Clerk exam?
 Yes, there is a negative marking of -0.25 (1/4th) of the marks assigned to that question for every incorrect response.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -62,3 +62,11 @@ DET is scored on a scale from 10 to 160 in 5-point increments. A score of 120+ i
 ### How is DET different from IELTS or TOEFL?
 DET can be taken online from home at any time, is cheaper, adaptive in nature, and results are available in 48 hours. IELTS and TOEFL are longer and typically taken at physical test centers.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

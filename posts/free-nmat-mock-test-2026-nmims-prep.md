@@ -51,3 +51,11 @@ No, NMAT does not have negative marking. This makes it unique, allowing students
 ### Which colleges accept NMAT scores?
 The primary college is NMIMS (Mumbai, Bengaluru, Hyderabad). Other top colleges include SPJIMR, ISB, VIT University, and XIMB.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -49,3 +49,11 @@ Candidates can attempt JEE Main a maximum of 6 times over 3 consecutive years (t
 ### What is a safe score in JEE Main for NIT computer science?
 A percentile of 99.5+ (usually corresponding to a raw score of 200+ out of 300) is safe to secure admission to CSE branches in top NITs like Trichy, Surathkal, and Warangal.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

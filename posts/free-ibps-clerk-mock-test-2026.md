@@ -51,3 +51,11 @@ Yes, candidates must clear both sectional cutoffs (separate cutoffs for English,
 ### Is there negative marking in the IBPS Clerk exam?
 Yes, there is a penalty of -0.25 (1/4th) of the marks assigned to that question for every incorrect answer.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

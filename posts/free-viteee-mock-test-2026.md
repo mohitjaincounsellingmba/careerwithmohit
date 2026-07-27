@@ -48,3 +48,11 @@ No, there is no negative marking in the VITEEE exam. Candidates should answer al
 ### What rank is required to get CSE in Category 1 at [VIT Vellore](/colleges/vit-vellore)?
 To secure Computer Science Engineering (CSE) in Category 1 (lowest fee category) at VIT Vellore, candidates usually need a rank under 1,000.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
