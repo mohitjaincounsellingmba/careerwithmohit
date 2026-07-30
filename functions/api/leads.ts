@@ -48,20 +48,31 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       }
     }
 
-    // Collect all valid webhook URLs, always including the two known active ones and filtering out dead 410 URLs
+    // Determine whether the lead is from a Calculator / Mock Test / Tool vs Inquiry / Lead form / Chat bot
+    const isExplicitInquiryOrLead = /inquiry|lead|bot|download|newsletter|teacher|contact|admission|abroad|form|degree/i.test(`${source} ${String(lead.type || "")}`);
+    const isToolOrTest = !isExplicitInquiryOrLead && (
+      /calculator|mock test|mock|roadmap|score|predictor|quiz|test|tool/i.test(`${source} ${String(lead.type || "")}`) ||
+      "score" in lead || "percentile" in lead || "maxMarks" in lead || "responseSheetUrl" in lead || "totalMarks" in lead || "roadmapData" in lead || "targetExam" in lead
+    );
+
     const deadUrls = new Set([
       "https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2",
       "https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4"
     ]);
-    const urls = new Set<string>([
-      "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
-      "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F"
-    ]);
-    if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
-      urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
-    }
-    if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
-      urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
+    const urls = new Set<string>();
+
+    if (isToolOrTest) {
+      // Calculator / Mock Test / Tools -> Webhook wjKhP0jGALa4bmUVYcw5F
+      urls.add("https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F");
+      if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
+        urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
+      }
+    } else {
+      // Inquiry Form / Lead Form / Chat Bot -> Webhook h3HoLiVtxuydbGOfr11F3
+      urls.add("https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3");
+      if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
+        urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
+      }
     }
 
     // Send to all candidate webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces always receives the lead

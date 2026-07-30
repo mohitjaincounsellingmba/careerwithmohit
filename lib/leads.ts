@@ -54,10 +54,17 @@ export async function submitLead(payload: Record<string, unknown>): Promise<{ su
     console.warn("[Leads] Network/404 error calling /api/leads, falling back to direct Activepieces webhooks", err);
   }
 
-  // 2. Fallback: Directly invoke both Activepieces webhooks simultaneously from client
+  // 2. Fallback: Directly invoke the appropriate Activepieces webhook from client
+  const isExplicitInquiryOrLead = /inquiry|lead|bot|download|newsletter|teacher|contact|admission|abroad|form|degree/i.test(`${source} ${String(payload.type || "")}`);
+  const isToolOrTest = !isExplicitInquiryOrLead && (
+    /calculator|mock test|mock|roadmap|score|predictor|quiz|test|tool/i.test(`${source} ${String(payload.type || "")}`) ||
+    "score" in payload || "percentile" in payload || "maxMarks" in payload || "responseSheetUrl" in payload || "totalMarks" in payload || "roadmapData" in payload || "targetExam" in payload
+  );
+
   const fallbackWebhooks = [
-    "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
-    "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
+    isToolOrTest
+      ? "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F"
+      : "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
   ];
 
   try {

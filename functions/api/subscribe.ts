@@ -15,12 +15,8 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       "https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4"
     ]);
     const urls = new Set<string>([
-      "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
       "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
     ]);
-    if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
-      urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
-    }
     if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
       urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
     }
