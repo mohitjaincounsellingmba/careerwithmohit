@@ -9,6 +9,7 @@ import { BTechCollegeGenerator } from "@/components/BTechCollegeGenerator";
 import { MBACollegeGenerator } from "@/components/MBACollegeGenerator";
 import { BBACollegeGenerator } from "@/components/BBACollegeGenerator";
 import { CompareDrawer } from "@/components/CompareDrawer";
+import { BrochureModal } from "@/components/BrochureModal";
 import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, Layers, Check } from "lucide-react";
 
 interface TrendingBlog {
@@ -34,6 +35,10 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   const [selectedRanking, setSelectedRanking] = useState("All Rankings");
   const [showFiltersMobile, setShowFiltersMobile] = useState(false);
   const [visibleCount, setVisibleCount] = useState(20);
+  const [sortBy, setSortBy] = useState("default");
+  const [userScoreInput, setUserScoreInput] = useState("");
+  const [userScore, setUserScore] = useState(0);
+  const [brochureCollege, setBrochureCollege] = useState<CollegeMetadata | null>(null);
 
   const handleCompareToggle = (slug: string) => {
     setComparedColleges((prev) => {
@@ -254,9 +259,43 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   useEffect(() => {
     console.log("Search input changed:", searchQuery);
     setVisibleCount(20);
-  }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking]);
+  }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, sortBy]);
 
-  const visibleColleges = filteredColleges.slice(0, visibleCount);
+  const sortedColleges = useMemo(() => {
+    const parseLakhs = (str?: string): number => {
+      if (!str) return 0;
+      const match = str.match(/([0-9]+(\.[0-9]+)?)/);
+      return match ? parseFloat(match[1]) : 0;
+    };
+    const getRank = (c: CollegeMetadata) => {
+      const m = c.ranking.match(/#(\d+)/);
+      return m ? parseInt(m[1]) : 999;
+    };
+    const list = [...filteredColleges];
+    list.sort((a, b) => {
+      if (sortBy === "roi") {
+        const roiA = parseLakhs(a.avg_placement) / (parseLakhs(a.fees) || 1);
+        const roiB = parseLakhs(b.avg_placement) / (parseLakhs(b.fees) || 1);
+        return roiB - roiA;
+      }
+      if (sortBy === "avg_placement") {
+        return parseLakhs(b.avg_placement) - parseLakhs(a.avg_placement);
+      }
+      if (sortBy === "highest_placement") {
+        return parseLakhs(b.highest_placement) - parseLakhs(a.highest_placement);
+      }
+      if (sortBy === "fees_low") {
+        return parseLakhs(a.fees) - parseLakhs(b.fees);
+      }
+      if (sortBy === "ranking") {
+        return getRank(a) - getRank(b);
+      }
+      return 0;
+    });
+    return list;
+  }, [filteredColleges, sortBy]);
+
+  const visibleColleges = sortedColleges.slice(0, visibleCount);
 
   const resetFilters = () => {
     setSelectedCategory("All Streams");
@@ -466,18 +505,80 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
           {/* Right Listings Column */}
           <main className="w-full lg:w-3/4">
             
+            {/* AI College Predictor Bar */}
+            <div className="mb-6 p-5 bg-gradient-to-r from-blue-600/5 via-indigo-600/5 to-purple-600/5 rounded-2xl border border-blue-600/20 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-blue-600 text-white rounded-xl flex items-center justify-center font-black text-sm shrink-0 shadow-md shadow-blue-500/20">
+                  AI
+                </div>
+                <div>
+                  <h3 className="text-sm font-bold text-slate-800 flex items-center gap-1.5">
+                    <span>College Admission Predictor</span>
+                    <span className="bg-emerald-100 text-emerald-800 text-[9px] font-black px-2 py-0.5 rounded-full uppercase tracking-wider">Live</span>
+                  </h3>
+                  <p className="text-xs text-slate-500">
+                    Enter your CAT / XAT / JEE percentile or rank score to see your chances of admission.
+                  </p>
+                </div>
+              </div>
+              <div className="flex items-center gap-2 w-full sm:w-auto">
+                <input
+                  type="number"
+                  placeholder="e.g. 85 (Percentile)"
+                  value={userScoreInput}
+                  onChange={(e) => {
+                    setUserScoreInput(e.target.value);
+                    const val = parseFloat(e.target.value);
+                    setUserScore(isNaN(val) ? 0 : val);
+                  }}
+                  className="w-full sm:w-40 px-3.5 py-2 text-xs font-bold rounded-xl border border-slate-200 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 bg-white"
+                />
+                {userScore > 0 && (
+                  <button
+                    onClick={() => {
+                      setUserScoreInput("");
+                      setUserScore(0);
+                    }}
+                    className="px-3 py-2 bg-slate-100 hover:bg-slate-200 text-slate-600 rounded-xl text-xs font-bold transition-colors cursor-pointer"
+                  >
+                    Clear
+                  </button>
+                )}
+              </div>
+            </div>
+
             {/* Results Header */}
-            <div className="mb-6 flex items-center justify-between">
+            <div className="mb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
               <h2 className="text-lg font-bold text-slate-800">
-                Top Colleges in India <span className="text-primary-brand bg-primary-brand/10 px-2.5 py-0.5 rounded-full text-xs font-black ml-2">{filteredColleges.length} Found</span>
+                Top Colleges in India <span className="text-blue-600 bg-blue-50 px-2.5 py-0.5 rounded-full text-xs font-black ml-2">{filteredColleges.length} Found</span>
               </h2>
-              <button 
-                onClick={() => setShowFiltersMobile(!showFiltersMobile)}
-                className="lg:hidden flex items-center gap-1.5 px-4 py-2 bg-slate-800 text-white rounded-lg font-bold text-xs"
-              >
-                <Filter className="w-3.5 h-3.5" />
-                Filters
-              </button>
+
+              {/* Sort By Dropdown */}
+              <div className="flex items-center gap-3">
+                <div className="hidden sm:flex items-center gap-1.5 text-xs font-bold text-slate-500">
+                  <TrendingUp className="w-3.5 h-3.5 text-blue-600" />
+                  <span>Sort by:</span>
+                </div>
+                <select
+                  value={sortBy}
+                  onChange={(e) => setSortBy(e.target.value)}
+                  className="bg-white border border-slate-200 rounded-xl py-2 px-3 text-xs font-bold text-slate-800 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 cursor-pointer shadow-sm"
+                >
+                  <option value="default">Recommended (Default)</option>
+                  <option value="roi">🔥 Highest ROI (Placement / Fee Ratio)</option>
+                  <option value="avg_placement">Avg Placement (High to Low)</option>
+                  <option value="highest_placement">Highest Package (High to Low)</option>
+                  <option value="fees_low">Lowest Course Fees</option>
+                  <option value="ranking">Top NIRF Ranking</option>
+                </select>
+                <button 
+                  onClick={() => setShowFiltersMobile(!showFiltersMobile)}
+                  className="lg:hidden flex items-center gap-1.5 px-4 py-2 bg-slate-800 text-white rounded-lg font-bold text-xs cursor-pointer"
+                >
+                  <Filter className="w-3.5 h-3.5" />
+                  Filters
+                </button>
+              </div>
             </div>
 
             {/* Grid listings */}
@@ -488,6 +589,8 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                   college={college} 
                   onCompareToggle={handleCompareToggle}
                   isCompared={comparedColleges.some((c) => c.slug === college.slug)}
+                  onDownloadBrochure={(c) => setBrochureCollege(c)}
+                  userScore={userScore}
                 />
               ))}
             </div>
@@ -561,6 +664,14 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
         onRemove={handleCompareToggle}
         onClearAll={handleClearAllCompare}
         onCompare={handleCompareNow}
+      />
+      <BrochureModal
+        isOpen={!!brochureCollege}
+        onClose={() => setBrochureCollege(null)}
+        collegeName={brochureCollege?.name || ""}
+        collegeSlug={brochureCollege?.slug || ""}
+        brochureUrl={brochureCollege?.brochure_url}
+        feesText={brochureCollege?.fees}
       />
     </div>
   );
