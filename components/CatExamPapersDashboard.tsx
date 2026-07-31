@@ -851,6 +851,34 @@ export default function CatExamPapersDashboard() {
         </div>
       </div>
 
+      {/* ── 1.5. FULL-LENGTH LIVE CBT MOCK TEST HERO BANNER (66 Qs, Timed, With Solutions) ── */}
+      <div className="bg-gradient-to-r from-orange-500 via-[#f26b23] to-amber-600 text-white p-6 md:p-8 shadow-xl border-b-4 border-[#0f172a]">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="space-y-2 text-center md:text-left">
+            <span className="inline-flex items-center gap-1.5 bg-black/30 px-3 py-1 rounded-full text-amber-200 text-xs font-black uppercase tracking-wider">
+              <Zap size={14} className="text-yellow-300" />
+              100% Free · TCS iON Real Exam CBT Simulation
+            </span>
+            <h3 className="text-2xl md:text-3xl font-black uppercase tracking-tight">
+              Appear For Full-Length CAT 2026/2027 Live Mock Test
+            </h3>
+            <p className="text-orange-100 text-xs md:text-sm font-medium max-w-2xl leading-relaxed">
+              Submit your details once to unlock our complete 66-question CAT simulation with 40-minute sectional timers (VARC, DILR, QA), instant AI scorecard, and comprehensive question-by-question solutions.
+            </p>
+          </div>
+
+          <div className="flex flex-col sm:flex-row items-center gap-3 shrink-0 w-full md:w-auto">
+            <a
+              href="/tools/cat-mock-test"
+              className="w-full sm:w-auto px-8 py-4 bg-[#0f172a] hover:bg-slate-900 text-white text-sm font-black uppercase tracking-widest rounded-2xl shadow-2xl hover:scale-105 active:scale-95 transition-all flex items-center justify-center gap-3 border-2 border-orange-300/30"
+            >
+              <span>Launch Live CBT Mock Test</span>
+              <ArrowRight size={18} />
+            </a>
+          </div>
+        </div>
+      </div>
+
       {/* ── 2. CATEGORY TAB SWITCHER ── */}
       <div className="bg-white border-b border-gray-200 px-4 md:px-8 py-3 sticky top-0 z-30 shadow-sm">
         <div className="max-w-6xl mx-auto flex gap-2 overflow-x-auto no-scrollbar">
@@ -1411,12 +1439,20 @@ export default function CatExamPapersDashboard() {
                     Check Solution &amp; Video Tip
                   </button>
                 ) : (
-                  <button
-                    onClick={() => setActiveMockQuestion(null)}
-                    className="px-6 py-2.5 bg-[#0f172a] hover:bg-slate-800 text-white text-xs font-black uppercase tracking-wider rounded-xl transition-all"
-                  >
-                    Finish Practice
-                  </button>
+                  <div className="flex items-center gap-2">
+                    <a
+                      href="/tools/cat-mock-test"
+                      className="px-4 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-black uppercase tracking-wider rounded-xl transition-all shadow-sm"
+                    >
+                      ⚡ Full 66-Q Timed Mock Test
+                    </a>
+                    <button
+                      onClick={() => setActiveMockQuestion(null)}
+                      className="px-6 py-2.5 bg-[#0f172a] hover:bg-slate-800 text-white text-xs font-black uppercase tracking-wider rounded-xl transition-all"
+                    >
+                      Finish
+                    </button>
+                  </div>
                 )}
               </div>
             </div>
