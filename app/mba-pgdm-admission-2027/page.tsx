@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { BadgeCheck, Phone, ChevronDown, CheckCircle2 } from 'lucide-react';
 import MbaPgdmClient from '@/components/MbaPgdmClient';
 import MbaPgdmLeadForm from '@/components/MbaPgdmLeadForm';
+import CatExamPapersDashboard from '@/components/CatExamPapersDashboard';
 import { MBA_PGDM_COLLEGES_2027 } from '@/data/mbaPgdmColleges2027';
 
 const BASE_URL = 'https://www.careerwithmohit.online';
@@ -369,6 +370,25 @@ export default function MbaPgdmAdmission2027Page() {
         <div className="border-t border-gray-100">
           <MbaPgdmClient />
         </div>
+
+        {/* ── CAT PREVIOUS YEAR PAPERS & MOCK TEST DASHBOARD (iQuanta Style) ── */}
+        <section className="bg-white py-20 md:py-28 border-t border-gray-100" id="cat-papers-dashboard">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6">
+            <div className="text-center mb-12">
+              <span className="inline-flex items-center gap-2 bg-orange-50 border border-orange-200 text-[#f26b23] text-xs font-bold uppercase tracking-widest px-4 py-2 rounded-full mb-3">
+                <BadgeCheck size={14} className="text-[#f26b23]" />
+                iQuanta-Inspired CAT Preparation Portal · 2000–2025
+              </span>
+              <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4">
+                CAT Exam Previous Year Papers &amp; Mock Test Dashboard
+              </h2>
+              <p className="text-gray-500 max-w-2xl mx-auto font-medium text-base">
+                Practice 25+ years of authentic CAT question papers with detailed textual &amp; video solutions, slot-wise CBT mock simulations, and topic-wise QA, VARC &amp; LRDI practice sets.
+              </p>
+            </div>
+            <CatExamPapersDashboard />
+          </div>
+        </section>
 
         {/* ── STATIC COMPARISON TABLE ── */}
         <section className="bg-white py-20 md:py-28 border-t border-gray-100">

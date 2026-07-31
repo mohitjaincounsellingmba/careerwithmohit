@@ -7,6 +7,7 @@ import { CollegeMetadata } from "@/lib/colleges";
 import { MBACollegeGenerator } from "@/components/MBACollegeGenerator";
 import { BTechCollegeGenerator } from "@/components/BTechCollegeGenerator";
 import { BBACollegeGenerator } from "@/components/BBACollegeGenerator";
+import CatExamPapersDashboard from "@/components/CatExamPapersDashboard";
 import { InquiryForm } from "@/components/InquiryForm";
 import { 
   Search, X, GraduationCap, Building2, MapPin, IndianRupee, 
@@ -560,6 +561,23 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
           {activePredictorTab === "btech" && <BTechCollegeGenerator />}
           {activePredictorTab === "bba" && <BBACollegeGenerator />}
         </div>
+      </section>
+
+      {/* 4.5 CAT PREVIOUS YEAR PAPERS & MOCK TEST DASHBOARD */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-20" id="cat-papers-dashboard">
+        <div className="text-center mb-8">
+          <span className="inline-flex items-center gap-2 bg-orange-50 border border-orange-200 text-[#f26b23] text-xs font-bold uppercase tracking-widest px-4 py-2 rounded-full mb-3">
+            <Sparkles className="w-3.5 h-3.5 text-[#f26b23]" />
+            iQuanta-Inspired Official Resource Bank · 2000–2025
+          </span>
+          <h2 className="text-3xl md:text-5xl font-black uppercase text-slate-900 tracking-tight">
+            CAT Exam <span className="text-[#f26b23] italic font-display">PYQ &amp; Mock Test</span> Dashboard
+          </h2>
+          <p className="text-slate-500 font-medium max-w-2xl mx-auto text-sm mt-2">
+            Attempt slot-wise 2000–2025 CAT previous year papers in real CBT simulation mode, practice QA/VARC/LRDI topic sets, and watch detailed video solutions.
+          </p>
+        </div>
+        <CatExamPapersDashboard />
       </section>
 
       {/* 5. POPULAR STUDENT HUBS (CITIES) */}

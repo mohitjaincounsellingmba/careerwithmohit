@@ -5,6 +5,7 @@ import { Download, FileText, Lock, CheckCircle2, Search, ArrowRight, GraduationC
 import { LeadGenForm } from '@/components/LeadGenForm';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { QuestionCard } from '@/components/QuestionCard';
+import CatExamPapersDashboard from '@/components/CatExamPapersDashboard';
 import { CAT_QUESTIONS } from '@/data/cat_questions';
 
 const EXAMS = [
@@ -253,6 +254,13 @@ export default function PreviousYearPapersClient() {
                 ))}
               </div>
             </div>
+
+            {/* Interactive iQuanta-Style CAT Preparation Dashboard */}
+            {selectedExam.id === 'cat' && (
+              <div className="mt-12">
+                <CatExamPapersDashboard />
+              </div>
+            )}
 
             {/* Questions Section - Visible after unlock */}
             {isUnlocked && questions.length > 0 && (
