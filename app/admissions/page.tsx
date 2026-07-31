@@ -5,20 +5,20 @@ import { AdmissionsClient } from "@/components/AdmissionsClient";
 import { JsonLd } from "@/components/JsonLd";
 
 export const metadata = {
-  title: "Admissions Portal 2026: Compare Colleges, Fees, Placements & Predictors",
-  description: "Your ultimate college search and admission helper for 2026. Explore 600+ top colleges, predict admissions, compare fees and placement reports, and get direct expert counseling.",
+  title: "Admissions Portal 2027: Compare Colleges, Fees, Placements & Predictors",
+  description: "Your ultimate college search and admission helper for 2027. Explore 600+ top colleges, predict admissions, compare fees and placement reports, and get direct expert counseling.",
   keywords: [
-    'admissions portal 2026', 'college search portal India', 'MBA admission 2026',
-    'B.Tech admission 2026', 'compare MBA fees', 'college placement comparison',
+    'admissions portal 2027', 'college search portal India', 'MBA admission 2027', 'PGDM admission 2027',
+    'B.Tech admission 2027', 'compare MBA fees', 'college placement comparison',
     'admissions predictor tool', 'MBA college generator', 'BTech shortlist builder',
-    'direct admission guidance', 'expert career counseling Mohit Jain'
+    'direct admission guidance', 'expert career counseling Mohit Jain', 'degree admission 2027'
   ],
   alternates: {
     canonical: '/admissions',
   },
   openGraph: {
-    title: 'Admissions Portal 2026: Compare Colleges, Fees, Placements & Predictors',
-    description: 'Explore 600+ top colleges in India. Compare fees, placement reports, and use live predictor tools for B-school and engineering admissions.',
+    title: 'Admissions Portal 2027: Compare Colleges, Fees, Placements & Predictors',
+    description: 'Explore 600+ top colleges in India. Compare fees, placement reports, and use live predictor tools for B-school and engineering admissions for 2027.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/admissions',
   },
@@ -50,7 +50,7 @@ export default function AdmissionsPortalPage() {
   const webpageSchema = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Admissions & College Search Portal 2026",
+    "name": "Admissions & College Search Portal 2027",
     "description": "Premium college search platform featuring interactive comparisons, admissions predictors, and counseling services.",
     "url": "https://www.careerwithmohit.online/admissions"
   };

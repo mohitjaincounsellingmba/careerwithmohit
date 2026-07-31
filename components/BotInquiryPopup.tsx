@@ -269,7 +269,7 @@ export function BotInquiryPopup() {
           return "Mohit Jain provides honest, uncompromised 1-on-1 admission guidance! Which program do you want to discuss?";
         }
         if (path.includes('Brochure')) {
-          return "We have official 2026 fee structures, admission cutoffs, and placement PDFs ready! Which course are you interested in?";
+          return "We have official 2027 fee structures, admission cutoffs, and placement PDFs ready! Which course are you interested in?";
         }
         return "Awesome! Let's find your perfect college match with high ROI. Which program are you planning to pursue?";
       },

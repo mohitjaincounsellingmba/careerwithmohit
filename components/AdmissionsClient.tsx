@@ -220,7 +220,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
         <div className="max-w-4xl mx-auto px-6 relative z-10">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary-brand/10 border border-primary-brand/20 text-primary-brand text-xs font-black uppercase tracking-widest mb-6 animate-pulse">
             <Sparkles className="w-3.5 h-3.5" />
-            <span>Admissions Portal & College Finder 2026</span>
+            <span>Admissions Portal & College Finder 2027</span>
           </div>
 
           <h1 className="text-4xl md:text-7xl font-extrabold text-white tracking-tight uppercase leading-none mb-6">
@@ -735,7 +735,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
           
           <div className="lg:col-span-5 space-y-6">
             <span className="bg-primary text-white text-xs font-black uppercase tracking-widest px-4 py-2 rotate-1 inline-block border-4 border-foreground">
-              Admission Counselling 2026
+              Admission Counselling 2027
             </span>
             <h2 className="text-3xl md:text-5xl font-black uppercase text-slate-900 leading-none">
               Need Personal <br />

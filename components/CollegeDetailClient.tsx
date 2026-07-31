@@ -278,7 +278,7 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
     "@context": "https://schema.org",
     "@type": "CollegeOrUniversity",
     "name": college.name,
-    "description": `${college.name} in ${college.location}: Check fees structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}, and admission process for 2026.`,
+    "description": `${college.name} in ${college.location}: Check fees structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}, and admission process for 2027.`,
     "url": `https://www.careerwithmohit.online/colleges/${college.slug}`,
     "logo": college.logo || "https://www.careerwithmohit.online/logo.webp",
     "image": "https://www.careerwithmohit.online/og-image.webp",
@@ -314,7 +314,7 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
     "mainEntity": [
       {
         "@type": "Question",
-        "name": `What is the fee structure at ${college.name} for 2026?`,
+        "name": `What is the fee structure at ${college.name} for 2027?`,
         "acceptedAnswer": {
           "@type": "Answer",
           "text": `The fees at ${college.name} are approximately ${college.fees}. This may vary based on the specific course and specialization.`
@@ -325,7 +325,7 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
         "name": `What are the placement statistics for ${college.name}?`,
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": `For the 2026 batch, ${college.name} reported an average placement of ${college.avg_placement} and a highest package of ${college.highest_placement}.`
+          "text": `For the 2027 batch, ${college.name} reported an average placement of ${college.avg_placement} and a highest package of ${college.highest_placement}.`
         }
       },
       {
@@ -373,7 +373,7 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
                 </span>
                 <span className="flex items-center bg-emerald-50 text-emerald-700 text-[10px] font-black px-4 py-1.5 rounded-full uppercase tracking-[0.2em] border border-emerald-100/50">
                   <ShieldCheck className="w-3.5 h-3.5 mr-2" />
-                  Verified 2026
+                  Verified 2027
                 </span>
               </div>
               <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-4 leading-tight tracking-tighter italic">
@@ -633,13 +633,13 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
                 <div className="bg-white border border-slate-100 rounded-3xl p-6">
                   <h4 className="text-xs font-black uppercase tracking-widest text-slate-400 mb-6 flex items-center justify-between">
                     <span>3-Year Placement Growth Trend</span>
-                    <span className="text-[10px] text-blue-600 bg-blue-50 px-2 py-0.5 rounded-full font-bold">2024 - 2026</span>
+                    <span className="text-[10px] text-blue-600 bg-blue-50 px-2 py-0.5 rounded-full font-bold">2025 - 2027</span>
                   </h4>
                   <div className="space-y-5">
                     {[
-                      { year: "2026 (Expected / Current)", avg: college.avg_placement, progress: 95 },
-                      { year: "2025 (Previous Batch)", avg: `${(getNumericalValue(college.avg_placement) * 0.92).toFixed(1)} LPA`, progress: 85 },
-                      { year: "2024 (Batch)", avg: `${(getNumericalValue(college.avg_placement) * 0.85).toFixed(1)} LPA`, progress: 75 },
+                      { year: "2027 (Expected / Current)", avg: college.avg_placement, progress: 95 },
+                      { year: "2026 (Previous Batch)", avg: `${(getNumericalValue(college.avg_placement) * 0.92).toFixed(1)} LPA`, progress: 85 },
+                      { year: "2025 (Batch)", avg: `${(getNumericalValue(college.avg_placement) * 0.85).toFixed(1)} LPA`, progress: 75 },
                     ].map((t) => (
                       <div key={t.year} className="space-y-1.5">
                         <div className="flex justify-between text-xs font-bold text-slate-700">
@@ -728,7 +728,7 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
                   <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
                     <div>
                       <span className="bg-purple-400/20 text-purple-300 text-[10px] font-black uppercase tracking-widest px-3 py-1 rounded-full border border-purple-400/30">
-                        2026-2027 Academic Session
+                        2027-2028 Academic Session
                       </span>
                       <h3 className="text-2xl font-black mt-2">Important Admission Dates</h3>
                     </div>
@@ -744,10 +744,10 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
 
                   <div className="grid grid-cols-1 sm:grid-cols-4 gap-4">
                     {[
-                      { date: "Oct - Nov 2025", title: "Applications Open", status: "Completed", color: "text-emerald-400" },
-                      { date: "Jan - Feb 2026", title: "Last Date to Apply", status: "Active Now 🔥", color: "text-amber-400 font-black" },
-                      { date: "Feb - March 2026", title: "GD / PI / WAT Shortlist", status: "Upcoming", color: "text-purple-300" },
-                      { date: "April - May 2026", title: "Final Merit List & Offer", status: "Upcoming", color: "text-blue-300" },
+                      { date: "Oct - Nov 2026", title: "Applications Open", status: "Completed", color: "text-emerald-400" },
+                      { date: "Jan - Feb 2027", title: "Last Date to Apply", status: "Active Now 🔥", color: "text-amber-400 font-black" },
+                      { date: "Feb - March 2027", title: "GD / PI / WAT Shortlist", status: "Upcoming", color: "text-purple-300" },
+                      { date: "April - May 2027", title: "Final Merit List & Offer", status: "Upcoming", color: "text-blue-300" },
                     ].map((step, idx) => (
                       <div key={idx} className="bg-white/5 border border-white/10 rounded-2xl p-4 backdrop-blur-sm">
                         <div className={`text-xs ${step.color} mb-1 font-bold`}>{step.date}</div>

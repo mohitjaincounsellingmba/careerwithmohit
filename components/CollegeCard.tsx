@@ -195,7 +195,7 @@ export function CollegeCard({
               }
             }}
             className="flex items-center gap-1.5 px-3.5 py-2.5 rounded-xl border border-slate-200 text-slate-700 hover:text-blue-600 hover:border-blue-600/40 hover:bg-blue-50/50 transition-all bg-white font-bold text-xs cursor-pointer"
-            title="Download 2026 Brochure & Fee Report"
+            title="Download 2027 Brochure & Fee Report"
           >
             <Download className="w-4 h-4 text-blue-600" />
             <span className="hidden sm:inline">Brochure</span>

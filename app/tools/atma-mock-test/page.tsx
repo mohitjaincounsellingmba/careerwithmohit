@@ -5,19 +5,20 @@ import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Pres
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Free ATMA Mock Test 2026 | MBA Entrance Exam Practice Tool',
-  description: 'Take our free full-length ATMA 2026 mock test. 180 questions, 180 minutes, with 6 specialized sections. Get instant analytics, percentile prediction, and top B-school cutoffs.',
+  title: 'Free ATMA Mock Test 2027 | MBA Entrance Exam Practice Tool',
+  description: 'Take our free full-length ATMA 2027 mock test. 180 questions, 180 minutes, with 6 specialized sections. Get instant analytics, percentile prediction, and top B-school cutoffs.',
   keywords: [
-    'ATMA 2026 mock test', 'ATMA exam practice 2026', 'Free ATMA test series', 'ATMA preparation material',
+    'ATMA 2027 mock test', 'ATMA exam practice 2027', 'Free ATMA test series', 'ATMA preparation material',
     'ATMA analytical reasoning questions', 'ATMA verbal skills practice', 'ATMA quantitative skills mock',
-    'AIMS ATMA 2026 exam pattern', 'ATMA score vs percentile', 'JBIMS ATMA cutoff 2026',
-    'best mock test for ATMA 2026', 'free ATMA practice paper with solutions', 'AIMS MBA entrance preparation'
+    'AIMS ATMA 2027 exam pattern', 'ATMA score vs percentile', 'JBIMS ATMA cutoff 2027',
+    'best mock test for ATMA 2027', 'free ATMA practice paper with solutions', 'AIMS MBA entrance preparation',
+    'mba admission 2027', 'pgdm admission 2027', 'degree admission 2027'
   ],
   alternates: {
     canonical: '/tools/atma-mock-test',
   },
   openGraph: {
-    title: 'Free ATMA Mock Test 2026 | MBA Entrance Exam Practice Tool',
+    title: 'Free ATMA Mock Test 2027 | MBA Entrance Exam Practice Tool',
     description: 'Master the ATMA exam with our realistic mock tool. Experience 180 questions with sectional timers and a percentile predictor.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/atma-mock-test',
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free ATMA Mock Test 2026 | MBA Entrance Exam Practice Tool',
+    title: 'Free ATMA Mock Test 2027 | MBA Entrance Exam Practice Tool',
     description: 'Realistic 180-question ATMA mock test for MBA aspirants. Experience sectional timers and percentile predictor.',
     images: ['/og-image.webp'],
   }
@@ -51,10 +52,10 @@ export default function AtmaMockTestPage() {
   const softwareSchema = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "ATMA 2026 Mock Test Tool",
+    "name": "ATMA 2027 Mock Test Tool",
     "operatingSystem": "Web",
     "applicationCategory": "EducationalApplication",
-    "description": "Take our free full-length ATMA 2026 mock test. 180 questions, 180 minutes, with 6 specialized sections. Get instant analytics, percentile prediction, and top B-school cutoffs.",
+    "description": "Take our free full-length ATMA 2027 mock test. 180 questions, 180 minutes, with 6 specialized sections. Get instant analytics, percentile prediction, and top B-school cutoffs.",
     "offers": {
       "@type": "Offer",
       "price": "0",
@@ -120,7 +121,7 @@ export default function AtmaMockTestPage() {
         {/* Hero Section */}
         <div className="mb-12 text-center">
           <h1 className="text-5xl md:text-7xl font-black uppercase mb-4 leading-none">
-            ATMA <span className="text-primary italic">2026</span> Mock Test
+            ATMA <span className="text-primary italic">2027</span> Mock Test
           </h1>
           <div className="inline-block bg-accent px-6 py-2 border-4 border-foreground transform -rotate-2">
             <p className="font-bold uppercase tracking-widest text-lg md:text-xl">Full-Length 180 Minute MBA Practice Simulation</p>
@@ -162,7 +163,7 @@ export default function AtmaMockTestPage() {
           <section id="pattern" className="bg-white border-4 border-foreground p-10 shadow-[12px_12px_0px_0px_rgba(var(--primary-rgb),1)]">
             <div className="flex items-center gap-4 mb-8">
               <BarChart3 className="w-10 h-10 text-primary" strokeWidth={3} />
-              <h2 className="text-3xl font-black uppercase tracking-tighter">ATMA 2026: Exam Pattern</h2>
+              <h2 className="text-3xl font-black uppercase tracking-tighter">ATMA 2027: Exam Pattern</h2>
             </div>
             <div className="overflow-x-auto">
               <table className="w-full border-4 border-foreground">
@@ -248,14 +249,14 @@ export default function AtmaMockTestPage() {
           {/* Popular Search Phrases (SEO Section) */}
           <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
             <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
-              <BookOpen className="w-10 h-10 text-primary" /> ATMA 2026: Popular Topics & Resources
+              <BookOpen className="w-10 h-10 text-primary" /> ATMA 2027: Popular Topics & Resources
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="space-y-4">
                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
                 <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
-                  <li><span className="text-primary font-black">→</span> ATMA 2026 mock test</li>
-                  <li><span className="text-primary font-black">→</span> ATMA exam practice online 2026</li>
+                  <li><span className="text-primary font-black">→</span> ATMA 2027 mock test</li>
+                  <li><span className="text-primary font-black">→</span> ATMA exam practice online 2027</li>
                   <li><span className="text-primary font-black">→</span> Free ATMA test series</li>
                   <li><span className="text-primary font-black">→</span> ATMA preparation material</li>
                 </ul>
@@ -272,8 +273,8 @@ export default function AtmaMockTestPage() {
               <div className="space-y-4">
                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Percentile & Target Colleges</h4>
                 <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
-                  <li><span className="text-primary font-black">→</span> ATMA score vs percentile 2026</li>
-                  <li><span className="text-primary font-black">→</span> JBIMS ATMA cutoff 2026</li>
+                  <li><span className="text-primary font-black">→</span> ATMA score vs percentile 2027</li>
+                  <li><span className="text-primary font-black">→</span> JBIMS ATMA cutoff 2027</li>
                   <li><span className="text-primary font-black">→</span> PUMBA Pune admission ATMA</li>
                   <li><span className="text-primary font-black">→</span> Welingkar Mumbai ATMA cutoff score</li>
                 </ul>

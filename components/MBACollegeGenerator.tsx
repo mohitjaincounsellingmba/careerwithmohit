@@ -129,7 +129,7 @@ export function MBACollegeGenerator() {
               <div className="flex items-center gap-2">
                 <span className="text-[10px] font-black uppercase tracking-widest text-violet-400">Free Tool</span>
                 <span className="flex items-center gap-1 bg-emerald-500/20 border border-emerald-400/30 px-2 py-0.5 rounded-full text-[9px] font-black text-emerald-400 uppercase tracking-widest">
-                  <Sparkles className="w-2.5 h-2.5" /> 2026 Edition
+                  <Sparkles className="w-2.5 h-2.5" /> 2027 Edition
                 </span>
               </div>
               <h2 className="text-2xl md:text-4xl font-black text-white tracking-tighter leading-none">

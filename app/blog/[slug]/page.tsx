@@ -63,14 +63,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!postData) return {};
 
   const cleanedTitle = cleanMarkdown(postData.title);
-  const postTitle = `${cleanedTitle} | Expert Guide 2026`;
+  const postTitle = `${cleanedTitle} | Expert Guide 2027`;
   
   // Fallback description from content if frontmatter description is missing
   let postDescription = postData.description ? cleanMarkdown(postData.description) : "";
   if (!postDescription && postData.content) {
     postDescription = cleanMarkdown(postData.content.substring(0, 160)) + "...";
   }
-  postDescription = postDescription || `Expert analysis on ${cleanedTitle}. Detailed insights, placements 2025, and admission strategy for 2026 by Mohit Jain.`;
+  postDescription = postDescription || `Expert analysis on ${cleanedTitle}. Detailed insights, placements 2025, and admission strategy for 2027 by Mohit Jain.`;
   
   const postUrl = `https://www.careerwithmohit.online/blog/${slug}`;
   const cleanedKeywords = (postData.keywords || []).map(kw => cleanMarkdown(kw));
@@ -83,7 +83,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     ? [
         `${geoResult.specificLocation} Colleges`,
         `Best Colleges in ${geoResult.specificLocation}`,
-        `${geoResult.specificLocation} Admissions 2026`,
+        `${geoResult.specificLocation} Admissions 2027`,
         `Direct Admission in ${geoResult.specificLocation}`,
         `Top Colleges in ${geoResult.specificLocation}`,
         "Delhi NCR College Counselling"
@@ -93,7 +93,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: postTitle,
     description: postDescription,
-    keywords: [...cleanedKeywords, ...localKeywords, "MBA Admissions 2026", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"],
+    keywords: [...cleanedKeywords, ...localKeywords, "MBA Admissions 2027", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"],
     openGraph: {
       title: postTitle,
       description: postDescription,
@@ -417,7 +417,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
           <h3 className="font-display text-4xl sm:text-7xl font-black tracking-tighter text-white mb-8 uppercase leading-none italic">
             Dominate Your <br />
-            <span className="text-accent underline decoration-[12px] underline-offset-8">2026 Goals</span>
+            <span className="text-accent underline decoration-[12px] underline-offset-8">2027 Goals</span>
           </h3>
           <p className="text-blue-50 text-2xl md:text-3xl font-bold mb-14 max-w-3xl mx-auto leading-tight">
             Stop guessing. Get uncompromised, expert admission strategies to secure your seat in India's top B-Schools.

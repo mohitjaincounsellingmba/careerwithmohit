@@ -14,53 +14,56 @@ import {
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "CAT Score Calculator 2026 | Raw Score, Scaled Score & Percentile Predictor",
+  title: "CAT Score Calculator 2027 | Raw Score, Scaled Score & Percentile Predictor",
   description:
-    "Free CAT 2026 Score Calculator. Enter your VARC, DILR & QA attempts to instantly calculate your raw score, scaled score, and expected percentile for IIM admissions.",
+    "Free CAT 2027 Score Calculator. Enter your VARC, DILR & QA attempts to instantly calculate your raw score, scaled score, and expected percentile for IIM admissions.",
   keywords: [
-    "CAT score calculator 2026",
-    "CAT 2026 score calculator",
+    "CAT score calculator 2027",
+    "CAT 2027 score calculator",
     "cat marks calculator",
     "cat percentile calculator",
     "cat raw score calculator",
     "cat scaled score",
-    "cat score predictor 2026",
-    "cat 2026 percentile predictor",
+    "cat score predictor 2027",
+    "cat 2027 percentile predictor",
     "cat answer key calculator",
-    "cat marks vs percentile 2026",
+    "cat marks vs percentile 2027",
     "IIM admission score calculator",
     "cat varc dilr qa score",
-    "CAT score vs percentile 2026",
-    "CAT scaled score vs percentile 2026",
+    "CAT score vs percentile 2027",
+    "CAT scaled score vs percentile 2027",
     "CAT raw score vs scaled score",
     "CAT score calculator by slot",
-    "CAT 2026 answer key calculator",
+    "CAT 2027 answer key calculator",
     "CAT response sheet score calculator",
     "CAT sectional marks vs percentile",
     "CAT VARC raw score vs percentile",
     "CAT DILR raw score vs percentile",
     "CAT QA raw score vs percentile",
-    "CAT score calculator 2026 slot 1",
-    "CAT score calculator 2026 slot 2",
-    "CAT score calculator 2026 slot 3",
+    "CAT score calculator 2027 slot 1",
+    "CAT score calculator 2027 slot 2",
+    "CAT score calculator 2027 slot 3",
     "CAT score vs percentile analysis",
     "Expected CAT score for 99 percentile",
     "Expected CAT score for 95 percentile",
     "Expected CAT score for 90 percentile",
-    "CAT expected percentile 2026",
-    "CAT 2026 score vs percentile",
-    "CAT normalization process 2026",
-    "IIM admission cut-offs 2026",
+    "CAT expected percentile 2027",
+    "CAT 2027 score vs percentile",
+    "CAT normalization process 2027",
+    "IIM admission cut-offs 2027",
     "CAT normalisation calculator",
-    "iim call predictor 2026"
+    "iim call predictor 2027",
+    "mba admission 2027",
+    "pgdm admission 2027",
+    "degree admission 2027"
   ],
   alternates: {
     canonical: "/tools/cat-score-calculator",
   },
   openGraph: {
-    title: "CAT Score Calculator 2026 | Raw Score & Percentile Predictor",
+    title: "CAT Score Calculator 2027 | Raw Score & Percentile Predictor",
     description:
-      "Free CAT 2026 Score Calculator. Instantly calculate raw score, scaled score, and expected percentile for IIM admissions.",
+      "Free CAT 2027 Score Calculator. Instantly calculate raw score, scaled score, and expected percentile for IIM admissions.",
     type: "website",
     url: "https://www.careerwithmohit.online/tools/cat-score-calculator",
     siteName: "CareerWithMohit",
@@ -75,8 +78,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "CAT Score Calculator 2026 | Raw Score & Percentile Predictor",
-    description: "Free CAT 2026 Score Calculator. Instantly calculate raw score, scaled score, and expected percentile.",
+    title: "CAT Score Calculator 2027 | Raw Score & Percentile Predictor",
+    description: "Free CAT 2027 Score Calculator. Instantly calculate raw score, scaled score, and expected percentile.",
     images: ["/og-image.webp"],
   }
 };
@@ -88,7 +91,7 @@ export default function CatScoreCalculatorPage() {
     mainEntity: [
       {
         "@type": "Question",
-        name: "How is the CAT 2026 score calculated?",
+        name: "How is the CAT 2027 score calculated?",
         acceptedAnswer: {
           "@type": "Answer",
           text: "CAT uses a differential marking scheme: +3 for every correct MCQ answer, −1 for every wrong MCQ answer. TITA (Type In The Answer) questions carry +3 for correct answers and 0 for wrong or unattempted. The raw score is then scaled/equated across slots to produce the final scaled score.",
@@ -96,7 +99,7 @@ export default function CatScoreCalculatorPage() {
       },
       {
         "@type": "Question",
-        name: "What is the difference between raw score and scaled score in CAT 2026?",
+        name: "What is the difference between raw score and scaled score in CAT 2027?",
         acceptedAnswer: {
           "@type": "Answer",
           text: "The raw score is the score computed directly from your answers using the marking scheme (+3/−1). The scaled score (also called equated score) is derived through statistical equating to account for difficulty differences between exam slots. IIMs use the scaled score to compute your percentile.",
@@ -112,10 +115,10 @@ export default function CatScoreCalculatorPage() {
       },
       {
         "@type": "Question",
-        name: "How many questions are in CAT 2026?",
+        name: "How many questions are in CAT 2027?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "CAT 2026 is expected to have 66 questions across 3 sections: VARC (24 questions), DILR (20 questions), and QA (22 questions). The exam is 2 hours long with 40 minutes per section.",
+          text: "CAT 2027 is expected to have 66 questions across 3 sections: VARC (24 questions), DILR (20 questions), and QA (22 questions). The exam is 2 hours long with 40 minutes per section.",
         },
       },
       {
@@ -132,9 +135,9 @@ export default function CatScoreCalculatorPage() {
   const webAppSchema = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    name: "CAT Score Calculator 2026",
+    name: "CAT Score Calculator 2027",
     description:
-      "Online tool to calculate CAT 2026 raw score, scaled score and predict percentile for IIM and top MBA college admissions.",
+      "Online tool to calculate CAT 2027 raw score, scaled score and predict percentile for IIM and top MBA college admissions.",
     applicationCategory: "EducationalApplication",
     operatingSystem: "All",
     offers: {
@@ -155,14 +158,14 @@ export default function CatScoreCalculatorPage() {
           <Breadcrumbs />
           <div className="mt-8 max-w-4xl">
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-black uppercase tracking-tighter leading-[0.9] mb-8">
-              CAT 2026{" "}
+              CAT 2027{" "}
               <span className="text-amber-500 underline decoration-[12px] underline-offset-8">
                 Score
               </span>{" "}
               Calculator
             </h1>
             <p className="text-xl md:text-2xl font-bold text-slate-600 leading-tight border-l-[12px] border-amber-400 pl-8">
-              Calculate your CAT 2026 raw score, scaled score & expected
+              Calculate your CAT 2027 raw score, scaled score & expected
               percentile section-wise. Built for IIM aspirants — free, instant &
               accurate.
             </p>
@@ -200,14 +203,14 @@ export default function CatScoreCalculatorPage() {
           <div>
             <h2 className="text-4xl font-black uppercase tracking-tight mb-6 flex items-center gap-4">
               <TrendingUp className="w-10 h-10 text-amber-500" />
-              How CAT 2026 Raw Score is Normalized to Scaled Score
+              How CAT 2027 Raw Score is Normalized to Scaled Score
             </h2>
             <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
               <p className="font-bold text-slate-700 leading-relaxed">
-                Since the <strong>CAT 2026 exam</strong> is conducted in multiple slots (usually Slot 1, Slot 2, and Slot 3) across the country, the difficulty level of the test papers varies slightly. To ensure fairness, IIMs employ a scientific <strong>normalization process</strong>.
+                Since the <strong>CAT 2027 exam</strong> is conducted in multiple slots (usually Slot 1, Slot 2, and Slot 3) across the country, the difficulty level of the test papers varies slightly. To ensure fairness, IIMs employ a scientific <strong>normalization process</strong>.
               </p>
               <p className="font-bold text-slate-700 leading-relaxed">
-                The normalization is based on a gating formula that equates the mean and standard deviation of scores across different slots. The resulting <strong>scaled score</strong> is what determines your final CAT percentile. Our <strong>CAT percentile predictor 2026</strong> utilizes statistical trends from past years to give you the closest estimate.
+                The normalization is based on a gating formula that equates the mean and standard deviation of scores across different slots. The resulting <strong>scaled score</strong> is what determines your final CAT percentile. Our <strong>CAT percentile predictor 2027</strong> utilizes statistical trends from past years to give you the closest estimate.
               </p>
             </div>
           </div>
@@ -216,11 +219,11 @@ export default function CatScoreCalculatorPage() {
           <div>
             <h2 className="text-4xl font-black uppercase tracking-tight mb-6 flex items-center gap-4">
               <BarChart3 className="w-10 h-10 text-blue-600" />
-              CAT 2026 Marks vs Percentile Projection
+              CAT 2027 Marks vs Percentile Projection
             </h2>
             <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
               <p className="font-bold text-slate-700 leading-relaxed">
-                To achieve a 99+ percentile in <strong>CAT Exam 2026</strong>, a student typically needs a raw score around 100-110 marks, depending on slot difficulty. This table highlights historical trends:
+                To achieve a 99+ percentile in <strong>CAT Exam 2027</strong>, a student typically needs a raw score around 100-110 marks, depending on slot difficulty. This table highlights historical trends:
               </p>
               <ul className="list-disc pl-6 font-bold text-slate-600 space-y-2">
                 <li><strong>99.9+ Percentile:</strong> Raw Score ~155+ (Excellent profile checks for IIM A, B, C calls)</li>
@@ -236,11 +239,11 @@ export default function CatScoreCalculatorPage() {
         <div className="mt-32 max-w-4xl">
           <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
             <BookOpen className="w-10 h-10 text-amber-500" />
-            CAT 2026 – What You Need to Know
+            CAT 2027 – What You Need to Know
           </h2>
           <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
             <p className="font-bold text-slate-700 leading-relaxed text-lg">
-              The <strong>Common Admission Test (CAT 2026)</strong> is conducted
+              The <strong>Common Admission Test (CAT 2027)</strong> is conducted
               by the IIMs on a rotational basis. It is the most competitive MBA
               entrance exam in India, with over 3 lakh aspirants competing for
               seats in IIMs and 1,200+ other business schools.
@@ -354,12 +357,12 @@ export default function CatScoreCalculatorPage() {
         {/* FAQ */}
         <div className="mt-32 max-w-4xl">
           <h2 className="text-4xl font-black uppercase tracking-tight mb-12">
-            CAT 2026 Score Calculator – FAQs
+            CAT 2027 Score Calculator – FAQs
           </h2>
           <div className="space-y-4">
             {[
               {
-                q: "How is the CAT 2026 score calculated?",
+                q: "How is the CAT 2027 score calculated?",
                 a: "CAT uses +3 for correct MCQs, −1 for wrong MCQs, and +3 for correct TITA questions with no negative marking on TITA. The raw score is then statistically scaled/equated across different exam slots.",
               },
               {
@@ -399,17 +402,17 @@ export default function CatScoreCalculatorPage() {
         <div className="mt-32 max-w-4xl">
           <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
             <BookOpen className="w-10 h-10 text-amber-500" />
-            CAT 2026: Popular Searches & Related Keywords
+            CAT 2027: Popular Searches & Related Keywords
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white border-4 border-foreground p-6 space-y-4 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
               <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Score vs Percentile</h4>
               <ul className="space-y-2 text-sm font-bold text-slate-600 italic">
-                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT score vs percentile 2026</li>
-                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT marks vs percentile 2026</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT score vs percentile 2027</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT marks vs percentile 2027</li>
                 <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> Expected score for 99 percentile</li>
                 <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> Expected score for 95 percentile</li>
-                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT expected percentile 2026</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT expected percentile 2027</li>
               </ul>
             </div>
 
@@ -419,7 +422,7 @@ export default function CatScoreCalculatorPage() {
                 <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT scaled score vs percentile</li>
                 <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT raw score vs scaled score</li>
                 <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT normalisation calculator</li>
-                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT normalization process 2026</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT normalization process 2027</li>
                 <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT score calculator slot-wise</li>
               </ul>
             </div>
@@ -427,11 +430,11 @@ export default function CatScoreCalculatorPage() {
             <div className="bg-white border-4 border-foreground p-6 space-y-4 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
               <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Predictors & Cut-offs</h4>
               <ul className="space-y-2 text-sm font-bold text-slate-600 italic">
-                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT 2026 percentile predictor</li>
-                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT 2026 answer key calculator</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT 2027 percentile predictor</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT 2027 answer key calculator</li>
                 <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> CAT response sheet calculator</li>
                 <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> IIM admission score calculator</li>
-                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> IIM call predictor 2026</li>
+                <li className="flex items-center gap-2"><ArrowRight className="w-4 h-4 text-amber-500 shrink-0" /> IIM call predictor 2027</li>
               </ul>
             </div>
           </div>
@@ -447,7 +450,7 @@ export default function CatScoreCalculatorPage() {
               href="/tools/cat-mock-test"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
-              <span>Free CAT 2026 Mock Test →</span>
+              <span>Free CAT 2027 Mock Test →</span>
             </Link>
             <Link
               href="/blog/cat-2026-score-calculator-marks-vs-percentile"

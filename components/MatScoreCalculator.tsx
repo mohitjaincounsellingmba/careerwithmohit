@@ -211,7 +211,7 @@ export function MatScoreCalculator() {
           number: leadData.number,
           email: leadData.email,
           location: leadData.location,
-          source: "MAT May 2026 Score Calculator",
+          source: "MAT May 2027 Score Calculator",
           score: stats.compositeScore,
           percentile: stats.overallPercentile,
           timestamp: new Date().toISOString(),
@@ -246,7 +246,7 @@ export function MatScoreCalculator() {
             </div>
             <div>
               <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tighter leading-tight">
-                MAT May 2026 Score Calculator
+                MAT May 2027 Score Calculator
               </h2>
               <p className="text-amber-300 font-bold text-sm uppercase tracking-widest mt-1">
                 5 Sections · Composite 800 · Percentile
@@ -620,7 +620,7 @@ export function MatScoreCalculator() {
                     Need MBA Admission Guidance?
                   </div>
                   <div className="text-xl font-black uppercase">
-                    Book Free MAT 2026 Counselling →
+                    Book Free MAT 2027 Counselling →
                   </div>
                 </div>
                 <ChevronRight className="w-8 h-8 group-hover:translate-x-2 transition-transform flex-shrink-0" />
@@ -672,7 +672,7 @@ export function MatScoreCalculator() {
             <div className="bg-white">
               <div className="bg-amber-400 p-8 text-center border-b-8 border-foreground text-foreground">
                 <h2 className="text-4xl font-black uppercase italic tracking-tighter">
-                  MAT Admission Support 2026
+                  MAT Admission Support 2027
                 </h2>
                 <p className="font-bold mt-2">
                   Expert guidance for MBA colleges accepting MAT score.
@@ -693,7 +693,7 @@ export function MatScoreCalculator() {
       {/* Score vs Percentile Table */}
       <div className="mt-20">
         <h3 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-amber-400 pl-6">
-          MAT May 2026 Composite Score vs Percentile (Expected)
+          MAT May 2027 Composite Score vs Percentile (Expected)
         </h3>
         <div className="overflow-x-auto border-4 border-foreground">
           <table className="w-full text-left border-collapse">
@@ -739,7 +739,7 @@ export function MatScoreCalculator() {
       {/* MAT Exam Pattern Table */}
       <div className="mt-20">
         <h3 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-amber-400 pl-6">
-          MAT May 2026 Exam Pattern
+          MAT May 2027 Exam Pattern
         </h3>
         <div className="overflow-x-auto border-4 border-foreground">
           <table className="w-full text-left border-collapse">

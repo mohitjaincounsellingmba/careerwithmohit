@@ -6,23 +6,26 @@ import { TOP_TIER_MBA_COLLEGES } from "@/data/topTierMbaColleges";
 import { Award, ShieldCheck, TrendingUp, Zap, Sparkles, CheckCircle2, ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Top Tier MBA Colleges in India 2026-27: IIMs, NMAT, SNAP & XAT accepting colleges",
-  description: "Compare India's top tier MBA colleges for 2026-27. Explore complete cutoffs, fee structures, and latest audited placement reports for all 20 IIMs, SNAP (SIBM), NMAT (NMIMS), and XAT (XLRI) accepting colleges. Get profile strategy from Mohit Jain.",
+  title: "Top Tier MBA Colleges in India 2027-28: IIMs, NMAT, SNAP & XAT accepting colleges",
+  description: "Compare India's top tier MBA colleges for 2027-28. Explore complete cutoffs, fee structures, and latest audited placement reports for all 20 IIMs, SNAP (SIBM), NMAT (NMIMS), and XAT (XLRI) accepting colleges. Get profile strategy from Mohit Jain.",
   keywords: [
-    "top tier mba colleges in india 2026",
-    "all iim fees cut off placement",
-    "nmat colleges fees and cutoff",
-    "snap colleges list and placements",
-    "xat accepting colleges list",
-    "best business schools india",
-    "mba career counselling 2026"
+    "top tier mba colleges in india 2027",
+    "mba admission 2027",
+    "pgdm admission 2027",
+    "all iim fees cut off placement 2027",
+    "nmat colleges fees and cutoff 2027",
+    "snap colleges list and placements 2027",
+    "xat accepting colleges list 2027",
+    "best business schools india 2027",
+    "mba career counselling 2027",
+    "degree admission 2027"
   ],
   alternates: {
     canonical: "/top-tier-mba-colleges"
   },
   openGraph: {
-    title: "Top Tier MBA Colleges in India 2026-27: IIMs, NMAT, SNAP & XAT",
-    description: "Compare verified fees, cutoffs, and placements for all IIMs and elite SNAP, NMAT, and XAT accepting business schools in India.",
+    title: "Top Tier MBA Colleges in India 2027-28: IIMs, NMAT, SNAP & XAT",
+    description: "Compare verified fees, cutoffs, and placements for all IIMs and elite SNAP, NMAT, and XAT accepting business schools in India for 2027-28.",
     type: "website",
     url: "https://www.careerwithmohit.online/top-tier-mba-colleges"
   }
@@ -32,7 +35,7 @@ export default function TopTierMbaPage() {
   const listSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": "Top Tier MBA Colleges in India 2026-27",
+    "name": "Top Tier MBA Colleges in India 2027-28",
     "description": "Comprehensive list of all 20 IIMs and premier business schools accepting NMAT, SNAP, and XAT with validated fees and placements.",
     "itemListElement": TOP_TIER_MBA_COLLEGES.map((college, index) => ({
       "@type": "ListItem",
@@ -67,7 +70,7 @@ export default function TopTierMbaPage() {
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Which are the top MBA colleges in India for 2026-27 admission?",
+        "name": "Which are the top MBA colleges in India for 2027-28 admission?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "The Tier-1 MBA institutions in India include the top IIMs (IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, and Indore), along with premier private and university institutions such as XLRI Jamshedpur, FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, SIBM Pune, and NMIMS Mumbai. Admission cutoffs range from 95 to 99.5+ percentile in CAT, XAT, NMAT, or SNAP."
@@ -75,7 +78,7 @@ export default function TopTierMbaPage() {
       },
       {
         "@type": "Question",
-        "name": "What is the expected NMAT score for NMIMS Mumbai in 2026?",
+        "name": "What is the expected NMAT score for NMIMS Mumbai in 2027?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "For the flagship MBA program at NMIMS School of Business Management (SBM), Mumbai, the expected overall cutoff score is 232+ out of 360 in NMAT by GMAC. Additionally, candidates must clear sectional cutoffs across Language Skills, Quantitative Skills, and Logical Reasoning."
@@ -154,7 +157,7 @@ export default function TopTierMbaPage() {
           <div className="inline-flex items-center gap-2 bg-slate-900 border-2 border-slate-700 px-4 py-1.5 mb-8 shadow-[4px_4px_0px_0px_rgba(255,255,255,1)]">
             <Sparkles className="w-4 h-4 text-accent animate-pulse" />
             <span className="text-[11px] font-black uppercase tracking-widest text-slate-200">
-              INDIA&apos;S ELITE B-SCHOOL DIRECTORY • 2026-27 INTAKE
+              INDIA&apos;S ELITE B-SCHOOL DIRECTORY • 2027-28 INTAKE
             </span>
           </div>
 

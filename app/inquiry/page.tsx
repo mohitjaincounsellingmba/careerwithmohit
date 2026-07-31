@@ -2,16 +2,19 @@ import { InquiryForm } from '@/components/InquiryForm';
 import Script from 'next/script';
 
 export const metadata = {
-  title: "Contact Mohit Jain | Free MBA & BTech Profile Evaluation 2026",
-  description: "Secure your future with expert MBA admission guidance, career counselling, and direct admission support for 2026. Get a free profile evaluation from Mohit Jain today.",
+  title: "Contact Mohit Jain | Free MBA & BTech Profile Evaluation 2027",
+  description: "Secure your future with expert MBA admission guidance, career counselling, and direct admission support for 2027. Get a free profile evaluation from Mohit Jain today.",
   keywords: [
-    "MBA admission guidance 2026", 
+    "MBA admission guidance 2027", 
     "career counselling Jaipur Mumbai", 
-    "direct MBA admission 2026", 
+    "direct MBA admission 2027", 
     "BTech career guidance Mohit Jain", 
     "free profile evaluation for MBA",
     "top MBA colleges admission support",
-    "JBIMS NMIMS SIBM admission help"
+    "JBIMS NMIMS SIBM admission help",
+    "mba admission 2027",
+    "pgdm admission 2027",
+    "degree admission 2027"
   ],
   alternates: {
     canonical: "/inquiry",
@@ -91,7 +94,7 @@ export default function InquiryPage() {
             <span className="bg-primary text-white px-4 py-1 -rotate-2 inline-block border-4 border-foreground">Admission Journey</span>
           </h1>
           <p className="text-xl font-bold text-gray-700 max-w-2xl mx-auto">
-            Get a <span className="text-primary underline">Free Profile Evaluation</span> for the 2026-28 session. Connect with Mohit Jain to navigate top-tier MBA and BTech admissions.
+            Get a <span className="text-primary underline">Free Profile Evaluation</span> for the 2027-29 session. Connect with Mohit Jain to navigate top-tier MBA and BTech admissions.
           </p>
         </div>
 
@@ -120,7 +123,7 @@ export default function InquiryPage() {
           <h2 className="text-4xl font-black uppercase mb-12 text-center italic">Frequently Asked <span className="text-primary">Questions</span></h2>
           <div className="space-y-8">
             <div className="bg-white border-4 border-foreground p-8 rounded-xl shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <h4 className="text-xl font-black uppercase mb-3">How does the 2026 admission guidance process work?</h4>
+              <h4 className="text-xl font-black uppercase mb-3">How does the 2027 admission guidance process work?</h4>
               <p className="text-gray-600 font-bold">Once you submit the form, we evaluate your profile (CAT/CET scores, academics, budget). We then match you with top-tier colleges like JBIMS, NMIMS, or SIBM and guide you through the GDPI and seat allotment rounds.</p>
             </div>
             <div className="bg-white border-4 border-foreground p-8 rounded-xl shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">

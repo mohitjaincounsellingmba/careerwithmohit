@@ -18,21 +18,21 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.careerwithmohit.online"),
   title: {
-    default: "Mohit Jain | Career Counselling & MBA Admissions Expert 2026",
+    default: "Mohit Jain | Career Counselling & MBA / PGDM Admissions Expert 2027",
     template: "%s | CareerWithMohit",
   },
-  description: "Expert career guidance, MBA admissions consulting, and interview prep by Mohit Jain. Uncompromised strategies for CAT 2026 & professional success.",
+  description: "Expert career guidance, MBA & PGDM admissions consulting, and interview prep by Mohit Jain. Uncompromised strategies for CAT 2027, MBA 2027 & degree admissions.",
   icons: {
     icon: "/favicon.svg",
     apple: "/favicon.svg",
   },
   keywords: [
-    "career counselling", "MBA admissions 2026", "B.Tech admissions", "Engineering colleges Delhi NCR",
-    "CAT 2026 preparation", "Direct MBA admission", "MBA specializations 2026", "ROI MBA colleges",
+    "career counselling", "MBA admissions 2027", "PGDM admission 2027", "B.Tech admissions 2027", "Engineering colleges Delhi NCR",
+    "CAT 2027 preparation", "Direct MBA admission 2027", "MBA specializations 2027", "ROI MBA colleges",
     "Pune", "Delhi NCR", "Noida", "Gurgaon", "Mumbai", "Bangalore", "Jaipur",
-    "interview prep", "career roadmap 2026",
-    "BBA admission guidance", "BCA college guide", "online mba programs india",
-    "best career counsellor in india", "top pgdm colleges delhi", "admission consultancy"
+    "interview prep", "career roadmap 2027",
+    "BBA admission guidance 2027", "BCA college guide 2027", "online mba programs india 2027",
+    "best career counsellor in india", "top pgdm colleges delhi", "admission consultancy", "degree admission 2027"
   ],
   authors: [{ name: "Mohit Jain" }],
   verification: {
@@ -43,8 +43,8 @@ export const metadata: Metadata = {
     locale: "en_IN",
     url: "https://www.careerwithmohit.online",
     siteName: "CareerWithMohit",
-    title: "Mohit Jain | Career Counselling & MBA Admissions Expert",
-    description: "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
+    title: "Mohit Jain | Career Counselling & MBA / PGDM Admissions Expert 2027",
+    description: "Expert career guidance and MBA / PGDM admissions consulting for top-tier B-schools & 2027 admissions.",
     images: [
       {
         url: "/og-image.webp",
@@ -56,8 +56,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Jain | Career Counselling & MBA Admissions Expert",
-    description: "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
+    title: "Mohit Jain | Career Counselling & MBA / PGDM Admissions Expert 2027",
+    description: "Expert career guidance and MBA / PGDM admissions consulting for top-tier B-schools & 2027 admissions.",
     images: ["/og-image.webp"],
   },
 

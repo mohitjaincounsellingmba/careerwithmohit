@@ -43,12 +43,12 @@ export function Footer() {
     ],
     predictors: [
       { name: 'CAT Score Calculator', href: '/tools/cat-score-calculator', color: 'text-amber-400' },
-      { name: 'MAT May 2026 Calculator', href: '/tools/mat-score-calculator', color: 'text-green-400' },
+      { name: 'MAT May 2027 Calculator', href: '/tools/mat-score-calculator', color: 'text-green-400' },
       { name: 'XAT 2027 Calculator', href: '/tools/xat-score-calculator-2027', color: 'text-orange-400' },
       { name: 'JEE Main Predictor', href: '/calculator/jee-main-2026', color: 'text-red-400' },
       { name: 'CUET PG Tool', href: '/calculator/cuet-pg-2026', color: 'text-cyan-400' },
       { name: 'CUET UG Predictor', href: '/calculator/cuet-ug-2026', color: 'text-emerald-400' },
-      { name: 'MHCET MBA 2026', href: '/calculator/mhcet-mba-2026', color: 'text-pink-400' },
+      { name: 'MHCET MBA 2027', href: '/calculator/mhcet-mba-2026', color: 'text-pink-400' },
       { name: 'B.Tech Predictor', href: '/tools/btech-college-predictor', color: 'text-yellow-400' },
     ],
     resources: [
@@ -56,8 +56,8 @@ export function Footer() {
       { name: 'Salary Slip Generator', href: '/tools/salary-slip-generator', badge: 'Free' },
       { name: 'Offer Letter Generator', href: '/tools/offer-letter-generator', badge: 'Free' },
       { name: 'Mock Test Hub', href: '/mock-tests', badge: 'Popular' },
-      { name: 'Free CAT Mock 2026', href: '/tools/cat-mock-test' },
-      { name: 'Free JEE Mock 2026', href: '/tools/jee-main-mock-test' },
+      { name: 'Free CAT Mock 2027', href: '/tools/cat-mock-test' },
+      { name: 'Free JEE Mock 2027', href: '/tools/jee-main-mock-test' },
       { name: 'PYQ Papers', href: '/previous-year-papers' },
       { name: 'Resume Score & Audit', href: '/tools/resume-analyzer', badge: 'New' },
       { name: 'Online Degrees', href: '/online-degree-certification' },
@@ -97,7 +97,7 @@ export function Footer() {
             <div className="space-y-4 text-center md:text-left">
               <h2 className="text-3xl md:text-4xl font-black tracking-tight">Ready to Elevate Your Career?</h2>
               <p className="text-white/90 text-lg font-medium max-w-xl">
-                Get expert guidance for Admissions 2026, Mock Tests, and Career Roadmaps tailored just for you.
+                Get expert guidance for Admissions 2027, Mock Tests, and Career Roadmaps tailored just for you.
               </p>
             </div>
             <Link 

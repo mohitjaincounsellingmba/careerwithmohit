@@ -19,8 +19,8 @@ import {
 type Platform = "instagram" | "youtube" | "linkedin" | "facebook";
 
 const TRENDING_TAGS: Record<string, string[]> = {
-  "MBA": ["#mba", "#management", "#cat2026", "#bschool", "#leadership", "#businesseducation", "#mbajourney", "#topcolleges"],
-  "JEE": ["#jeemain", "#jeeadvanced", "#iitjee", "#engineering", "#jee2026", "#physics", "#chemistry", "#maths", "#nit", "#iiit"],
+  "MBA": ["#mba", "#management", "#cat2027", "#bschool", "#leadership", "#businesseducation", "#mbajourney", "#topcolleges"],
+  "JEE": ["#jeemain", "#jeeadvanced", "#iitjee", "#engineering", "#jee2027", "#physics", "#chemistry", "#maths", "#nit", "#iiit"],
   "CAREER": ["#careergoals", "#jobsearch", "#professionalgrowth", "#placement", "#careeradvice", "#hiring", "#success", "#futureofwork"],
   "MARKETING": ["#digitalmarketing", "#branding", "#socialmedia", "#contentstrategy", "#seo", "#marketingtips", "#growthhacking"],
   "AI": ["#artificialintelligence", "#ai", "#machinelearning", "#techtrends", "#future", "#innovation", "#chatgpt", "#automation"],
@@ -43,7 +43,7 @@ export function HashtagGenerator() {
     if (!keyword.trim()) return [];
     
     const base = keyword.toLowerCase().replace(/\s+/g, "");
-    const generic = ["#trending", "#viral", "#foryou", "#explore", "#careerwithmohit", "#admission2026", "#studentgoals"];
+    const generic = ["#trending", "#viral", "#foryou", "#explore", "#careerwithmohit", "#admission2027", "#studentgoals"];
     
     // Find matching trending category
     const trendMatches = Object.keys(TRENDING_TAGS).find(k => keyword.toUpperCase().includes(k));
@@ -51,7 +51,7 @@ export function HashtagGenerator() {
 
     const tags = [
       `#${base}`,
-      `#${base}2026`,
+      `#${base}2027`,
       `#${base}education`,
       `#best${base}colleges`,
       `#${base}tips`,
@@ -105,7 +105,7 @@ export function HashtagGenerator() {
                 <Search className="absolute left-6 top-1/2 -translate-y-1/2 w-6 h-6 text-slate-400 group-focus-within:text-primary transition-colors" />
                 <input 
                   type="text"
-                  placeholder="e.g. MBA, JEE 2026, Career Advice..."
+                  placeholder="e.g. MBA, JEE 2027, Career Advice..."
                   value={keyword}
                   onChange={(e) => setKeyword(e.target.value)}
                   className="w-full bg-slate-50 border-4 border-foreground p-6 pl-16 text-2xl font-black uppercase tracking-tight focus:bg-white focus:outline-none transition-all placeholder:text-slate-300"

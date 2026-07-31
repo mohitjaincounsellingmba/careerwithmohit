@@ -24,9 +24,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-mba': {
     name: 'Online MBA',
     searchToken: 'MBA',
-    title: 'Top Online MBA Colleges in India 2026 | UGC Approved Fees',
+    title: 'Top Online MBA Colleges in India 2027 | UGC Approved Fees',
     desc: 'Compare 15+ UGC-DEB approved online MBA universities in India. Find fees, specializations, NAAC grades, placements & get FREE admission guidance.',
-    h1: 'Online MBA Colleges in India 2026',
+    h1: 'Online MBA Colleges in India 2027',
     aboutText: 'An Online MBA (Master of Business Administration) is one of India\'s most sought-after postgraduate degrees for working professionals. Modern UGC-DEB regulations render online MBAs 100% equivalent to regular classroom degrees, making them ideal for government job eligibility, corporate promotions, and global migration. Program fees range from ₹62,200 to ₹2.2 Lakhs.',
     faqs: [
       { q: 'Is an online MBA valid for government jobs?', a: 'Yes. As per UGC Regulations 2020, online MBA degrees from UGC-DEB recognized universities are fully equivalent to regular classroom degrees and valid for government/PSU jobs.' },
@@ -37,9 +37,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-bba': {
     name: 'Online BBA',
     searchToken: 'BBA',
-    title: 'Best Online BBA Colleges in India 2026 | UGC Recognized Fees',
-    desc: 'Find the best UGC approved online BBA universities in India for 2026. Compare syllabus, NAAC ratings, starting fees, and get free expert support.',
-    h1: 'Online BBA Colleges in India 2026',
+    title: 'Best Online BBA Colleges in India 2027 | UGC Recognized Fees',
+    desc: 'Find the best UGC approved online BBA universities in India for 2027. Compare syllabus, NAAC ratings, starting fees, and get free expert support.',
+    h1: 'Online BBA Colleges in India 2027',
     aboutText: 'An Online BBA (Bachelor of Business Administration) is a 3-year undergraduate degree designed to build strong foundations in management, marketing, finance, and human resources. It is highly flexible and cost-effective, allowing fresh 12th pass-outs and working professionals to upgrade their credentials without physical classes.',
     faqs: [
       { q: 'Is there a difference in value between online BBA and regular BBA?', a: 'No, as long as the university holds UGC-DEB recognition. The degrees hold equal legal status for job recruitments and higher education.' },
@@ -49,9 +49,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-mca': {
     name: 'Online MCA',
     searchToken: 'MCA',
-    title: 'Top Online MCA Colleges in India 2026 | Fees & UGC Approved',
+    title: 'Top Online MCA Colleges in India 2027 | Fees & UGC Approved',
     desc: 'Compare leading UGC-DEB approved online MCA universities in India. Find tuition fees, NAAC grades, placement assistance, and specialization details.',
-    h1: 'Online MCA Colleges in India 2026',
+    h1: 'Online MCA Colleges in India 2027',
     aboutText: 'The Online MCA (Master of Computer Applications) is a 2-year postgraduate program targeting IT aspirants. Taught by top computer science faculty, these degrees feature advanced specializations in AI, Data Science, Cyber Security, and Software Engineering, coupled with virtual labs and placement drives.',
     faqs: [
       { q: 'Can non-CS students apply for an online MCA?', a: 'Yes, most universities accept graduates from B.Sc, B.Com, and B.A streams. However, some may require you to take bridge courses in mathematics or programming.' },
@@ -61,9 +61,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-bca': {
     name: 'Online BCA',
     searchToken: 'BCA',
-    title: 'Best Online BCA Colleges in India 2026 | UGC Approved Fees',
-    desc: 'Discover the top online BCA colleges in India for 2026. Get fee structures, syllabus specializations (AI, Cloud, Full Stack), and free guidance.',
-    h1: 'Online BCA Colleges in India 2026',
+    title: 'Best Online BCA Colleges in India 2027 | UGC Approved Fees',
+    desc: 'Discover the top online BCA colleges in India for 2027. Get fee structures, syllabus specializations (AI, Cloud, Full Stack), and free guidance.',
+    h1: 'Online BCA Colleges in India 2027',
     aboutText: 'An Online BCA (Bachelor of Computer Applications) is a 3-year IT degree ideal for students aiming to enter the tech sector. Learn programming languages (Java, Python, C++), database systems, and web development in a fully virtual format, with fees starting as low as ₹10,000 per semester.',
     faqs: [
       { q: 'Is online BCA equal to regular BCA for MCA admissions?', a: 'Yes, online BCA degrees are fully accepted for admission to physical or online MCA programs at all Indian universities.' },
@@ -73,9 +73,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-bcom': {
     name: 'Online B.Com',
     searchToken: 'B.Com',
-    title: 'Top Online B.Com Universities in India 2026 | UGC Fees',
+    title: 'Top Online B.Com Universities in India 2027 | UGC Fees',
     desc: 'Compare fees and accreditations of top UGC approved online B.Com colleges. Check accounting, banking, and commerce courses starting from ₹20K.',
-    h1: 'Online B.Com Colleges in India 2026',
+    h1: 'Online B.Com Colleges in India 2027',
     aboutText: 'An Online B.Com (Bachelor of Commerce) is a flexible undergraduate degree focusing on accounting, statistics, banking, audit, and finance. It is particularly popular among students preparing for CA, CS, or CMA exams, as it offers the flexibility to study at their own pace.',
     faqs: [
       { q: 'What is the fee structure for an online B.Com in India?', a: 'Fees are highly affordable, generally ranging from ₹30,000 to ₹90,000 for the entire 3-year course duration.' },
@@ -85,9 +85,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-mcom': {
     name: 'Online M.Com',
     searchToken: 'M.Com',
-    title: 'Best Online M.Com Colleges in India 2026 | Fees & Accreditations',
+    title: 'Best Online M.Com Colleges in India 2027 | Fees & Accreditations',
     desc: 'Find the best online M.Com universities in India. Compare NAAC A++ grades, UGC recognition, specialization tracks, and admission dates.',
-    h1: 'Online M.Com Colleges in India 2026',
+    h1: 'Online M.Com Colleges in India 2027',
     aboutText: 'An Online M.Com (Master of Commerce) is a 2-year postgraduate program designed to build advanced proficiency in financial analysis, taxation, corporate accounting, and economics. Ideal for careers in banking, financial services, or academic research.',
     faqs: [
       { q: 'Who should pursue an online M.Com?', a: 'Working professionals in corporate finance, school teachers wanting a PG degree, and B.Com graduates aiming for higher roles in banking and accounting.' }
@@ -96,9 +96,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-bsc': {
     name: 'Online B.Sc',
     searchToken: 'B.Sc',
-    title: 'Top Online B.Sc Universities in India 2026 | UGC Approved',
+    title: 'Top Online B.Sc Universities in India 2027 | UGC Approved',
     desc: 'Compare the best UGC-DEB approved online B.Sc programs. Find tuition fees, NAAC grades, and specialty details.',
-    h1: 'Online B.Sc Colleges in India 2026',
+    h1: 'Online B.Sc Colleges in India 2027',
     aboutText: 'An Online B.Sc (Bachelor of Science) provides a foundational 3-year education in scientific principles, data science, IT, or aviation. Ideal for candidates looking for computer science or analytical degrees with online flexibility.',
     faqs: [
       { q: 'What specializations are available in online B.Sc?', a: 'Most universities offer Computer Science, Data Science, Mathematics, or Hospitality/Hotel Management.' }
@@ -107,9 +107,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-ma': {
     name: 'Online MA',
     searchToken: 'MA',
-    title: 'Best Online MA Colleges in India 2026 | UGC Approved Fees & Specializations',
-    desc: 'Compare top UGC-DEB approved Online MA universities in India for 2026. Explore fees, eligibility, and specializations like English, Journalism, Economics, and Sociology.',
-    h1: 'Online MA Colleges in India 2026',
+    title: 'Best Online MA Colleges in India 2027 | UGC Approved Fees & Specializations',
+    desc: 'Compare top UGC-DEB approved Online MA universities in India for 2027. Explore fees, eligibility, and specializations like English, Journalism, Economics, and Sociology.',
+    h1: 'Online MA Colleges in India 2027',
     aboutText: 'An Online MA (Master of Arts) is a 2-year postgraduate humanities degree recognized by UGC-DEB. Offering 100% equivalence to regular classroom programs under UGC Regulations 2020, it is ideal for working professionals, civil services (UPSC) aspirants, and educators. Popular specializations include English Literature, Journalism & Mass Communication, Economics, Political Science, History, Sociology, Hindi, and Public Administration.',
     faqs: [
       {
@@ -117,7 +117,7 @@ const COURSE_MAP: Record<string, CourseConfig> = {
         a: 'Yes. As per UGC (ODL & Online Programmes) Regulations 2020, an Online MA from a UGC-DEB approved university is legally equivalent to a regular MA degree. Graduates are 100% eligible to appear for UGC NET/JRF, SET exams, pursue PhD admissions, and apply for assistant professor roles.',
       },
       {
-        q: 'What is the fee structure for an Online MA in India in 2026?',
+        q: 'What is the fee structure for an Online MA in India in 2027?',
         a: 'Online MA fees in India start from ₹20,000 for entire 2-year programs at central universities like Jamia Millia Islamia (JMI), Aligarh Muslim University (AMU), and DU SOL. Private universities like LPU Online, Chandigarh University Online, and Amity Online charge between ₹60,000 to ₹1,20,000 with flexible semester EMIs.',
       },
       {
@@ -137,9 +137,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-ma-english': {
     name: 'Online MA in English',
     searchToken: 'MA',
-    title: 'Top Online MA in English Colleges in India 2026 | UGC Approved Fees',
+    title: 'Top Online MA in English Colleges in India 2027 | UGC Approved Fees',
     desc: 'Find the best UGC-DEB approved universities for Online MA in English in India. Compare tuition fees, syllabus, NAAC ratings, and career scopes.',
-    h1: 'Online MA in English Colleges in India 2026',
+    h1: 'Online MA in English Colleges in India 2027',
     aboutText: 'An Online MA in English is a 2-year postgraduate program designed to build deep expertise in British, American, Indian, and World literature, literary criticism, linguistics, and creative writing. Offered by top universities like LPU Online, Chandigarh University Online, Vivekananda Global University Online, and Amity Online, it is 100% equivalent to regular degrees under UGC Regulations 2020. Graduates are fully eligible for UGC NET, PhD, school/college teaching, journalism, publishing, and civil services.',
     faqs: [
       {
@@ -167,9 +167,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-ba': {
     name: 'Online BA',
     searchToken: 'BA',
-    title: 'Top UGC Approved Online BA Universities 2026 | Fees & Details',
-    desc: 'Compare fees, specializations, and approvals of top online BA universities in India for 2026. Admission open.',
-    h1: 'Online BA Colleges in India 2026',
+    title: 'Top UGC Approved Online BA Universities 2027 | Fees & Details',
+    desc: 'Compare fees, specializations, and approvals of top online BA universities in India for 2027. Admission open.',
+    h1: 'Online BA Colleges in India 2027',
     aboutText: 'An Online BA (Bachelor of Arts) is the most flexible and affordable undergraduate program. With fees starting below ₹10,000 per year, it allows students to earn a degree in fields like field studies, English, Political Science, History, and Sociology.',
     faqs: [
       { q: 'Which is the cheapest university for an online BA?', a: 'State universities like Andhra University offer highly affordable online BA degrees, with complete 3-year fees around ₹40,000.' }
@@ -178,9 +178,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-pgdm': {
     name: 'Online PGDM',
     searchToken: 'PGDM',
-    title: 'Top Online PGDM Colleges in India 2026 | AICTE Approved Fees',
+    title: 'Top Online PGDM Colleges in India 2027 | AICTE Approved Fees',
     desc: 'Compare leading AICTE approved online PGDM universities in India. Find tuition fees, NAAC grades, placement assistance, and specialization details.',
-    h1: 'Online PGDM Colleges in India 2026',
+    h1: 'Online PGDM Colleges in India 2027',
     aboutText: 'An Online PGDM (Post Graduate Diploma in Management) is a 2-year postgraduate program equivalent to an MBA, regulated by AICTE. It focuses heavily on industry-ready practical curriculum, dynamic case studies, and corporate applications.',
     faqs: [
       { q: 'Is PGDM equal to MBA?', a: 'Yes. AICTE-approved PGDM programs from recognized institutions are treated as equivalent to an MBA degree for jobs and higher education.' },
@@ -190,9 +190,9 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   'online-msc': {
     name: 'Online M.Sc',
     searchToken: 'M.Sc',
-    title: 'Best Online M.Sc Colleges in India 2026 | UGC Approved Fees',
+    title: 'Best Online M.Sc Colleges in India 2027 | UGC Approved Fees',
     desc: 'Compare the best UGC-DEB approved online M.Sc programs. Find tuition fees, NAAC grades, and specialty details.',
-    h1: 'Online M.Sc Colleges in India 2026',
+    h1: 'Online M.Sc Colleges in India 2027',
     aboutText: 'An Online M.Sc (Master of Science) is a 2-year post-graduate degree focusing on technical and scientific specializations like Information Technology, Data Science, and Mathematics. Ideal for upgrading technical skills.',
     faqs: [
       { q: 'What is the eligibility for online M.Sc?', a: 'Candidates must hold a Bachelor\'s degree (B.Sc, BCA, or equivalent) from a recognized university.' }
@@ -300,7 +300,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const collegeB = findCollegeBySlugPart(partB);
 
     if (collegeA && collegeB) {
-      const title = `${collegeA.name} vs ${collegeB.name} | Fee & NAAC Grade Comparison 2026`;
+      const title = `${collegeA.name} vs ${collegeB.name} | Fee & NAAC Grade Comparison 2027`;
       const desc = `Detailed side-by-side comparison of ${collegeA.name} and ${collegeB.name}. Compare tuition fees, NAAC grades, accreditations, and placement support. Get free counseling.`;
 
       return {
@@ -326,8 +326,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // 3. University Metadata (Case C)
   const college = COLLEGES.find((c) => c.universitySlug === slug);
   if (college) {
-    const title = `${college.name} Online Admission 2026 | Fees, Approvals & Degrees`;
-    const desc = `Explore online programs at ${college.name}. Check detailed fee structures, NAAC grade (${college.grade}), UGC approvals, and admission criteria for 2026.`;
+    const title = `${college.name} Online Admission 2027 | Fees, Approvals & Degrees`;
+    const desc = `Explore online programs at ${college.name}. Check detailed fee structures, NAAC grade (${college.grade}), UGC approvals, and admission criteria for 2027.`;
 
     return {
       title,
@@ -349,7 +349,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: 'Top UGC Approved Online Universities 2026 | CareerWithMohit',
+    title: 'Top UGC Approved Online Universities 2027 | CareerWithMohit',
   };
 }
 
@@ -388,7 +388,7 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
         },
         {
           '@type': 'ItemList',
-          name: `Top UGC Approved ${config.name} Universities India 2026`,
+          name: `Top UGC Approved ${config.name} Universities India 2027`,
           description: `List of top UGC-DEB approved online universities offering ${config.name} programs in India.`,
           url: PAGE_URL,
           numberOfItems: matchingColleges.length,
@@ -454,7 +454,7 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
             <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
               <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-8 backdrop-blur-sm">
                 <BadgeCheck size={14} className="text-indigo-400" />
-                UGC-DEB Approved Universities · 2026 Edition
+                UGC-DEB Approved Universities · 2027 Edition
               </span>
               <h1 className="display-font text-4xl md:text-6xl font-black text-white leading-tight mb-6">
                 Best {config.h1}
@@ -502,7 +502,7 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
           <section className="bg-white py-16 md:py-20 border-t border-gray-100">
             <div className="max-w-5xl mx-auto px-6">
               <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4 text-center">
-                Top UGC-Approved {config.name} Universities Comparison (2026)
+                Top UGC-Approved {config.name} Universities Comparison (2027)
               </h2>
               <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto text-sm md:text-base font-medium">
                 Comprehensive fee structures, NAAC accreditations, and approvals for universities offering {config.name} in India.
@@ -631,7 +631,7 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
             '@type': 'WebPage',
             '@id': PAGE_URL,
             url: PAGE_URL,
-            name: `${collegeA.name} vs ${collegeB.name} Comparison 2026`,
+            name: `${collegeA.name} vs ${collegeB.name} Comparison 2027`,
             description: `Detailed comparison matrix between ${collegeA.name} and ${collegeB.name} fees, NAAC grades, WES status, and programs.`,
             isPartOf: { '@id': `${BASE_URL}/#website` },
             breadcrumb: {
@@ -1017,7 +1017,7 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
             <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
               <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-8 backdrop-blur-sm">
                 <BadgeCheck size={14} className="text-indigo-400" />
-                UGC-DEB Recognized · 2026 Admission Profile
+                UGC-DEB Recognized · 2027 Admission Profile
               </span>
               <h1 className="display-font text-4xl md:text-6xl font-black text-white leading-tight mb-6">
                 {college.name}

@@ -8,16 +8,17 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/tools/nmat-mock-test',
   },
-  title: 'Free NMAT Mock Test 2026 | NMIMS Mumbai Admission 2027 Batch',
-  description: 'Take our free full-length NMAT 2026 mock test. Get admission in 2027 batch. 108 questions, 120 minutes, no negative marking. Experience adaptive simulation for NMIMS.',
+  title: 'Free NMAT Mock Test 2027 | NMIMS Mumbai Admission 2027 Batch',
+  description: 'Take our free full-length NMAT 2027 mock test. Get admission in 2027 batch. 108 questions, 120 minutes, no negative marking. Experience adaptive simulation for NMIMS.',
   keywords: [
-    'Free NMAT mock test 2026', 'NMIMS Mumbai admission 2027 batch', 'NMAT practice paper free', 
-    'NMAT 2026 exam pattern', 'scaled score NMAT', 'NMAT preparation Mumbai', 
-    'adaptive mock test NMAT', 'best mock test for NMAT 2026', 'NMAT logical reasoning online practice',
-    'NMAT language skills mock test', 'NMAT score vs percentile NMIMS'
+    'Free NMAT mock test 2027', 'NMIMS Mumbai admission 2027 batch', 'NMAT practice paper free 2027', 
+    'NMAT 2027 exam pattern', 'scaled score NMAT', 'NMAT preparation Mumbai', 
+    'adaptive mock test NMAT', 'best mock test for NMAT 2027', 'NMAT logical reasoning online practice',
+    'NMAT language skills mock test', 'NMAT score vs percentile NMIMS',
+    'mba admission 2027', 'pgdm admission 2027', 'degree admission 2027'
   ],
   openGraph: {
-    title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai 2027 Batch',
+    title: 'Free NMAT Mock Test 2027 | Crack NMIMS Mumbai 2027 Batch',
     description: 'Master the NMAT by GMAC with our realistic mock tool to secure admission in 2027. 108 questions across Language, Quants, and Logic with sectional timers.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/nmat-mock-test',
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai 2027 Batch',
+    title: 'Free NMAT Mock Test 2027 | Crack NMIMS Mumbai 2027 Batch',
     description: 'Master the NMAT by GMAC with our realistic mock tool to secure admission in 2027.',
     images: ['/og-image.webp'],
   }
@@ -51,7 +52,7 @@ export default function NmatMockTestPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "NMAT 2026 Mock Test Tool",
+    "name": "NMAT 2027 Mock Test Tool",
     "operatingSystem": "Web",
     "applicationCategory": "EducationalApplication",
     "description": "Realistic 108-question NMAT mock test for NMIMS aspirants. Includes sectional timers and scaled score prediction for top B-schools.",
@@ -120,7 +121,7 @@ export default function NmatMockTestPage() {
         {/* Hero Section */}
         <div className="mb-12 text-center">
           <h1 className="text-5xl md:text-7xl font-black uppercase mb-4 leading-none">
-            NMAT <span className="text-secondary italic">2026</span> Mock Test
+            NMAT <span className="text-secondary italic">2027</span> Mock Test
           </h1>
           <h2 className="text-2xl md:text-3xl font-bold uppercase mb-6 text-gray-700 tracking-wide">
             Get Admission <span className="text-primary">2027 Batch</span>
@@ -165,7 +166,7 @@ export default function NmatMockTestPage() {
           <section id="marks" className="bg-white border-4 border-foreground p-10 shadow-[12px_12px_0px_0px_rgba(var(--secondary-rgb),1)]">
             <div className="flex items-center gap-4 mb-8">
               <BarChart3 className="w-10 h-10 text-secondary" strokeWidth={3} />
-              <h2 className="text-3xl font-black uppercase tracking-tighter">NMAT 2026: Scaled Score vs Cutoffs</h2>
+              <h2 className="text-3xl font-black uppercase tracking-tighter">NMAT 2027: Scaled Score vs Cutoffs</h2>
             </div>
             <p className="mb-8 text-gray-600 font-medium leading-relaxed">
               Based on recent trends, NMIMS Mumbai (Main Campus) requires a consistent 232+ score. Here's a breakdown of scores and their corresponding targets.
@@ -273,7 +274,7 @@ export default function NmatMockTestPage() {
                 Ready to level up? Explore our guides for top-tier MBA programs that accept NMAT and how to optimize your application profile.
               </p>
               <ul className="space-y-4">
-                <li><a href="/blog/all-about-nmat-exam" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> NMAT 2026 Ultimate Guide</a></li>
+                <li><a href="/blog/all-about-nmat-exam" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> NMAT 2027 Ultimate Guide</a></li>
                 <li><a href="/blog/top-mba-colleges-mumbai-2026" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Colleges in Mumbai</a></li>
                 <li><a href="/blog/gdpi-interview-topics-solutions-mba" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> CD/PI Preparation for NMIMS</a></li>
               </ul>
@@ -303,13 +304,13 @@ export default function NmatMockTestPage() {
           {/* Popular Search Phrases (SEO Section) */}
           <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
             <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
-              <BookOpen className="w-10 h-10 text-secondary" /> NMAT 2026: Popular Topics & Resources
+              <BookOpen className="w-10 h-10 text-secondary" /> NMAT 2027: Popular Topics & Resources
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="space-y-4">
                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
                 <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
-                  <li><span className="text-secondary font-black">→</span> Free NMAT mock test 2026</li>
+                  <li><span className="text-secondary font-black">→</span> Free NMAT mock test 2027</li>
                   <li><span className="text-secondary font-black">→</span> NMIMS Mumbai admission 2027 batch</li>
                   <li><span className="text-secondary font-black">→</span> NMAT preparation strategy</li>
                   <li><span className="text-secondary font-black">→</span> NMAT practice paper free download</li>
@@ -318,7 +319,7 @@ export default function NmatMockTestPage() {
               <div className="space-y-4">
                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">Pattern & Scoring</h4>
                 <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
-                  <li><span className="text-secondary font-black">→</span> NMAT 2026 exam pattern</li>
+                  <li><span className="text-secondary font-black">→</span> NMAT 2027 exam pattern</li>
                   <li><span className="text-secondary font-black">→</span> NMAT scaled score calculator</li>
                   <li><span className="text-secondary font-black">→</span> Adaptive mock test NMAT</li>
                   <li><span className="text-secondary font-black">→</span> NMAT sectional time limit tips</li>

@@ -288,7 +288,7 @@ export function CuetUgCalculator() {
                     email: leadData.email,
                     location: leadData.location,
                     course: leadData.course,
-                    source: `CUET UG 2026 Calculator`,
+                    source: `CUET UG 2027 Calculator`,
                     score: stats.score,
                     maxMarks: stats.maxMarks,
                     percentile: stats.percentile,
@@ -318,7 +318,7 @@ export function CuetUgCalculator() {
                         <Calculator className="w-8 h-8 text-white" />
                     </div>
                     <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tighter text-foreground">
-                        CUET UG 2026 Score Calculator
+                        CUET UG 2027 Score Calculator
                     </h2>
                 </div>
 

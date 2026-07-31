@@ -7,8 +7,16 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/scholarships-2026',
   },
-  title: 'Top Scholarships 2026 | National & International Funding',
-  description: 'Explore the complete list of 2026 scholarships for Indian students. Find merit-based, means-based, MBA, engineering, and study abroad scholarships.',
+  title: 'Top Scholarships 2027 | National & International Funding | MBA & Degree Admissions',
+  description: 'Explore the complete list of 2027 scholarships for Indian students. Find merit-based, means-based, MBA, PGDM, engineering, and study abroad scholarships.',
+  keywords: [
+    'scholarships 2027',
+    'mba scholarships 2027 india',
+    'pgdm scholarship 2027',
+    'degree admission scholarship 2027',
+    'study abroad scholarships 2027',
+    'merit scholarship 2027 indian students',
+  ],
 };
 
 const CATEGORIES = [
@@ -136,7 +144,7 @@ export default function ScholarshipsPage() {
           <div className="max-w-4xl">
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-black uppercase tracking-tighter leading-[0.9] mb-8">
               Top Scholarships <br />
-              <span className="text-amber-400">For 2026</span>
+              <span className="text-amber-400">For 2027</span>
             </h1>
             <p className="text-xl md:text-2xl font-bold text-slate-300 leading-tight border-l-[12px] border-amber-400 pl-6 max-w-2xl">
               India's most comprehensive scholarship directory. Find funding for UG, PG, Management, and Study Abroad programs.
@@ -189,7 +197,7 @@ export default function ScholarshipsPage() {
       {/* Popular Scholarships List */}
       <div className="max-w-7xl mx-auto px-6 mt-32">
         <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tight mb-10 border-l-[12px] border-amber-400 pl-6">
-          Featured Scholarships 2026
+          Featured Scholarships 2027
         </h2>
         
         <div className="bg-white border-4 border-foreground shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] overflow-hidden">

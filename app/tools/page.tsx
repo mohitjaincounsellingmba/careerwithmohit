@@ -11,7 +11,8 @@ export const metadata: Metadata = {
   keywords: [
     'free tools online', 'file converter', 'cat score calculator', 'jee predictor',
     'resume analyzer', 'mock test free', 'word to pdf', 'college predictor',
-    'online tools free', 'career tools', 'education tools india'
+    'online tools free', 'career tools', 'education tools india',
+    'mba admission 2027', 'pgdm admission 2027', 'degree admission 2027'
   ],
   alternates: {
     canonical: '/tools',
@@ -43,13 +44,13 @@ const TOOL_CATEGORIES = [
     accentColor: 'bg-accent',
     icon: Calculator,
     tools: [
-      { name: 'CAT Score Calculator', desc: 'Predict your CAT 2026 percentile', href: '/tools/cat-score-calculator', badge: 'Popular', color: 'text-amber-600' },
-      { name: 'MAT May 2026 Calculator', desc: 'Composite score (out of 800) & percentile', href: '/tools/mat-score-calculator', badge: 'New', color: 'text-green-600' },
+      { name: 'CAT Score Calculator', desc: 'Predict your CAT 2027 percentile', href: '/tools/cat-score-calculator', badge: 'Popular', color: 'text-amber-600' },
+      { name: 'MAT May 2027 Calculator', desc: 'Composite score (out of 800) & percentile', href: '/tools/mat-score-calculator', badge: 'New', color: 'text-green-600' },
       { name: 'XAT 2027 Calculator', desc: 'Get XAT score and percentile estimate', href: '/tools/xat-score-calculator-2027', badge: null, color: 'text-orange-600' },
       { name: 'JEE Main Predictor', desc: 'Predict rank based on JEE score', href: '/calculator/jee-main-2026', badge: null, color: 'text-red-600' },
       { name: 'CUET PG MBA Tool', desc: 'Estimate CUET PG MBA cutoff rank', href: '/calculator/cuet-pg-2026', badge: null, color: 'text-cyan-600' },
       { name: 'CUET UG Predictor', desc: 'CUET UG score to admission chances', href: '/calculator/cuet-ug-2026', badge: null, color: 'text-teal-600' },
-      { name: 'MHCET MBA 2026', desc: 'Maharashtra MBA entrance calculator', href: '/calculator/mhcet-mba-2026', badge: null, color: 'text-pink-600' },
+      { name: 'MHCET MBA 2027', desc: 'Maharashtra MBA entrance calculator', href: '/calculator/mhcet-mba-2026', badge: null, color: 'text-pink-600' },
     ]
   },
   {
@@ -91,7 +92,7 @@ const TOOL_CATEGORIES = [
     accentColor: 'bg-rose-500',
     icon: BookOpen,
     tools: [
-      { name: 'CAT Mock Test 2026', desc: 'Full-length CAT exam simulation', href: '/tools/cat-mock-test', badge: 'Free', color: 'text-rose-600' },
+      { name: 'CAT Mock Test 2027', desc: 'Full-length CAT exam simulation', href: '/tools/cat-mock-test', badge: 'Free', color: 'text-rose-600' },
       { name: 'JEE Main Mock Test', desc: 'Physics, Chemistry, Math – all sections', href: '/tools/jee-main-mock-test', badge: 'Free', color: 'text-orange-600' },
       { name: 'JEE Advanced Mock', desc: 'Advanced-level JEE practice papers', href: '/tools/jee-advanced-mock-test', badge: 'Free', color: 'text-red-600' },
       { name: 'MHCET Mock Test', desc: 'Maharashtra MBA entrance practice test', href: '/tools/mhcet-mock-test', badge: 'Free', color: 'text-amber-600' },

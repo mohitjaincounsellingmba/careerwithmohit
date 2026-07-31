@@ -399,7 +399,7 @@ export default function LeadGenLandingPage() {
           </div>
         </div>
         <div className="mx-auto max-w-7xl pt-12 text-center text-gray-600 font-bold text-sm">
-          Lead Generation Landing Page optimized for 2026 Digital Market | CareerWithMohit Business Solutions
+          Lead Generation Landing Page optimized for 2027 Digital Market | CareerWithMohit Business Solutions
         </div>
       </section>
     </div>

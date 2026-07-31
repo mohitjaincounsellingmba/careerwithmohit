@@ -417,7 +417,7 @@ export default function FileConverter() {
           "/F1 10 Tf",
           "T*",
           "(  - AI Resume Score & ATS Audit: Compare resumes directly with top recruiters criteria.) Tj T*",
-          "(  - Admissions 2026 Predictor: Calculate CAT, XAT, JEE, and MHCET admission eligibility.) Tj T*",
+          "(  - Admissions 2027 Predictor: Calculate CAT, XAT, JEE, and MHCET admission eligibility.) Tj T*",
           "(  - Career Roadmap Calculator: Create a tailored step-by-step career upskilling journey.) Tj T*",
           "(  - Mock Test Center: Free full-length mock exams for management and engineering.) Tj T*",
           "ET"

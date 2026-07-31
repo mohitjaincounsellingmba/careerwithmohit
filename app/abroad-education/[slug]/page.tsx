@@ -29,21 +29,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${college.name} Fees, Admissions & Programs 2026 | CareerWithMohit`,
+    title: `${college.name} Fees, Admissions & Programs 2027 | CareerWithMohit`,
     alternates: {
       canonical: `/abroad-education/${slug}`,
     },
-    description: `Explore admissions, fees (${college.fee}), programs, and accreditations (${college.accreditation}) for ${college.name} located in ${college.location}. Get expert admission assistance.`,
+    description: `Explore admissions, fees (${college.fee}), programs, and accreditations (${college.accreditation}) for ${college.name} located in ${college.location}. Get expert admission assistance for 2027.`,
     keywords: [
-      `${college.name} admissions 2026`,
+      `${college.name} admissions 2027`,
       `${college.name} fees for Indian students`,
       `study in ${college.country}`,
       `${college.name} programs`,
       `${college.name} ranking and reviews`,
+      `abroad education admission 2027`,
+      `mba study abroad 2027`
     ],
     openGraph: {
-      title: `${college.name} Admissions 2026`,
-      description: `Complete guide on fees, accreditations, and programs at ${college.name}.`,
+      title: `${college.name} Admissions 2027`,
+      description: `Complete guide on fees, accreditations, and programs at ${college.name} for 2027.`,
       images: ['/og-abroad-education.png'],
     },
   };

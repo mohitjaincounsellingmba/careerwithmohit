@@ -6,16 +6,17 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/tools/mhcet-mock-test',
   },
-  title: 'Free MAH MBA CET Mock Test 2026 | #1 Tool for Maharashtra & MP Aspirants',
-  description: 'Take a full-length MAH MBA CET 2026 mock test online. 200 questions, 150 minutes, sectional breakdown, and percentile predictor. Best practice tool for Maharashtra (Mumbai, Pune, Nagpur) and Madhya Pradesh (Indore, Bhopal) students.',
+  title: 'Free MAH MBA CET Mock Test 2027 | #1 Tool for Maharashtra & MP Aspirants',
+  description: 'Take a full-length MAH MBA CET 2027 mock test online. 200 questions, 150 minutes, sectional breakdown, and percentile predictor. Best practice tool for Maharashtra (Mumbai, Pune, Nagpur) and Madhya Pradesh (Indore, Bhopal) students.',
   keywords: [
-    'MAH MBA CET mock test 2026', 'free MHCET MBA mock test', 'MBA CET practice test Mumbai', 
+    'MAH MBA CET mock test 2027', 'free MHCET MBA mock test 2027', 'MBA CET practice test Mumbai', 
     'MHCET mock test Pune', 'MHCET for MP students', 'MBA CET Nagpur', 
-    'MAH CET test series 2026', 'MBA entrance exam preparation Maharashtra',
-    'MAH MBA CET syllabus pattern', 'MHCET MBA score vs percentile', 'direct admission JBIMS cutoffs'
+    'MAH CET test series 2027', 'MBA entrance exam preparation Maharashtra',
+    'MAH MBA CET syllabus pattern 2027', 'MHCET MBA score vs percentile', 'direct admission JBIMS cutoffs',
+    'mba admission 2027', 'pgdm admission 2027', 'degree admission 2027'
   ],
   openGraph: {
-    title: 'Free MAH MBA CET Mock Test 2026 | Rank #1 in Maharashtra',
+    title: 'Free MAH MBA CET Mock Test 2027 | Rank #1 in Maharashtra',
     description: 'Master the MAH MBA CET with our full-length 200-question mock test. Ideal for aspirants in Maharashtra and Madhya Pradesh. Real exam experience with instant results.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/mhcet-mock-test',
@@ -31,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free MAH MBA CET Mock Test 2026 | Rank #1 in Maharashtra',
+    title: 'Free MAH MBA CET Mock Test 2027 | Rank #1 in Maharashtra',
     description: 'Master the MAH MBA CET with our full-length 200-question mock test.',
     images: ['/og-image.webp'],
   }
@@ -41,10 +42,10 @@ export default function MhcetMockTestPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "MAH MBA CET 2026 Mock Test Tool (Maharashtra & MP)",
+    "name": "MAH MBA CET 2027 Mock Test Tool (Maharashtra & MP)",
     "operatingSystem": "Web",
     "applicationCategory": "EducationalApplication",
-    "description": "Comprehensive 200-question mock test for MAH MBA CET 2026. Targeted at aspirants from Maharashtra (OMS/MS) and Madhya Pradesh appearing for the Maharashtra MBA Common Entrance Test.",
+    "description": "Comprehensive 200-question mock test for MAH MBA CET 2027. Targeted at aspirants from Maharashtra (OMS/MS) and Madhya Pradesh appearing for the Maharashtra MBA Common Entrance Test.",
     "offers": {
       "@type": "Offer",
       "price": "0",
@@ -66,7 +67,7 @@ export default function MhcetMockTestPage() {
       },
       {
         "@type": "Question",
-        "name": "What is the pattern of MAH MBA CET 2026?",
+        "name": "What is the pattern of MAH MBA CET 2027?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "The exam consists of 200 questions to be solved in 150 minutes. It has four sections: Logical Reasoning (75), Abstract Reasoning (25), Quantitative Aptitude (50), and Verbal Ability (50)."
@@ -127,7 +128,7 @@ export default function MhcetMockTestPage() {
         {/* Hero Section */}
         <div className="mb-12 text-center">
           <h1 className="text-5xl md:text-7xl font-black uppercase mb-4 leading-none">
-            MAH MBA CET <span className="text-primary italic">2026</span> Mock Test
+            MAH MBA CET <span className="text-primary italic">2027</span> Mock Test
           </h1>
           <div className="inline-block bg-accent px-6 py-2 border-4 border-foreground transform -rotate-2">
             <p className="font-bold uppercase tracking-widest text-lg">Full-Length 200 Question Practice Paper</p>
@@ -168,7 +169,7 @@ export default function MhcetMockTestPage() {
           {/* Exam Pattern & Syllabus Table */}
           <section id="pattern">
             <h2 className="text-4xl font-black uppercase mb-12 flex items-center gap-4">
-              <Presentation className="w-10 h-10 text-primary" /> MAH MBA CET 2026 Exam Pattern
+              <Presentation className="w-10 h-10 text-primary" /> MAH MBA CET 2027 Exam Pattern
             </h2>
             <div className="overflow-x-auto border-4 border-foreground bg-white shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
               <table className="w-full text-left border-collapse">
@@ -214,7 +215,7 @@ export default function MhcetMockTestPage() {
           {/* Marks vs Percentile Table */}
           <section id="percentile" className="bg-white border-4 border-foreground p-10 shadow-[12px_12px_0px_0px_rgba(var(--primary-rgb),1)]">
             <h2 className="text-3xl font-black uppercase mb-8 flex items-center gap-4">
-              <BarChart3 className="w-8 h-8 text-primary" /> MAH MBA CET 2026: Marks vs Percentile (Projected)
+              <BarChart3 className="w-8 h-8 text-primary" /> MAH MBA CET 2027: Marks vs Percentile (Projected)
             </h2>
             <p className="mb-8 text-gray-600 font-medium leading-relaxed">
               Based on previous year trends of JBIMS (99.99 percentile), SIMSREE, and PUMBA, here are the expected scores required to reach specific percentiles. Use this table to set your targets while attempting our mock tests.
@@ -321,7 +322,7 @@ export default function MhcetMockTestPage() {
             <div className="space-y-8">
               {[
                 { 
-                  q: "Can students from Madhya Pradesh apply for MAH MBA CET 2026?", 
+                  q: "Can students from Madhya Pradesh apply for MAH MBA CET 2027?", 
                   a: "Absolutely! Students from MP and all other states can apply under the 'OMS' (Outside Maharashtra State) category. They are eligible for All-India seats in top colleges like JBIMS, SIMSREE, and Prin. L. N. Welingkar." 
                 },
                 { 
@@ -329,7 +330,7 @@ export default function MhcetMockTestPage() {
                   a: "Major MAH MBA CET exam centers in MP include Indore, Bhopal, Gwalior, and Jabalpur. You can select your preferred city during the application process." 
                 },
                 { 
-                  q: "What is the level of difficulty for MAH MBA CET 2026?", 
+                  q: "What is the level of difficulty for MAH MBA CET 2027?", 
                   a: "The level of difficulty is generally moderate. However, the 'Abstract Reasoning' and 'Logical Reasoning' sections often have some high-difficulty puzzles. Speed is the real challenge, as you have only 45 seconds per question." 
                 },
                 { 
@@ -361,13 +362,13 @@ export default function MhcetMockTestPage() {
           {/* Popular Search Phrases (SEO Section) */}
           <section id="popular-searches" className="bg-white border-4 border-foreground p-10 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
             <h2 className="text-3xl font-black uppercase mb-10 flex items-center gap-4">
-              <BookOpen className="w-10 h-10 text-primary" /> MAH MBA CET 2026: Popular Topics & Resources
+              <BookOpen className="w-10 h-10 text-primary" /> MAH MBA CET 2027: Popular Topics & Resources
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="space-y-4">
                 <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2">High Volume Queries</h4>
                 <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
-                  <li><span className="text-primary font-black">→</span> MAH MBA CET mock test 2026</li>
+                  <li><span className="text-primary font-black">→</span> MAH MBA CET mock test 2027</li>
                   <li><span className="text-primary font-black">→</span> Free MHCET MBA mock test</li>
                   <li><span className="text-primary font-black">→</span> MBA CET practice test Mumbai</li>
                   <li><span className="text-primary font-black">→</span> MHCET mock test Pune</li>
@@ -378,7 +379,7 @@ export default function MhcetMockTestPage() {
                 <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
                   <li><span className="text-primary font-black">→</span> MHCET for MP students</li>
                   <li><span className="text-primary font-black">→</span> MBA CET Nagpur centers</li>
-                  <li><span className="text-primary font-black">→</span> MAH CET test series 2026</li>
+                  <li><span className="text-primary font-black">→</span> MAH CET test series 2027</li>
                   <li><span className="text-primary font-black">→</span> MBA entrance preparation Maharashtra</li>
                 </ul>
               </div>
@@ -387,7 +388,7 @@ export default function MhcetMockTestPage() {
                 <ul className="space-y-2 text-sm font-bold text-gray-500 italic">
                   <li><span className="text-primary font-black">→</span> JBIMS Mumbai direct admission cutoff</li>
                   <li><span className="text-primary font-black">→</span> SIMSREE Mumbai MMS admission seats</li>
-                  <li><span className="text-primary font-black">→</span> PUMBA Pune MBA cutoffs 2026</li>
+                  <li><span className="text-primary font-black">→</span> PUMBA Pune MBA cutoffs 2027</li>
                   <li><span className="text-primary font-black">→</span> MAH MBA CET score vs percentile</li>
                 </ul>
               </div>

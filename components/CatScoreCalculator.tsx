@@ -251,7 +251,7 @@ export function CatScoreCalculator() {
           number: leadData.number,
           email: leadData.email,
           location: leadData.location,
-          source: "CAT 2026 Score Calculator",
+          source: "CAT 2027 Score Calculator",
           score: stats.totalRaw,
           percentile: stats.overallPercentile,
           timestamp: new Date().toISOString(),
@@ -286,7 +286,7 @@ export function CatScoreCalculator() {
             </div>
             <div>
               <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tighter leading-tight">
-                CAT 2026 Score Calculator
+                CAT 2027 Score Calculator
               </h2>
               <p className="text-amber-300 font-bold text-sm uppercase tracking-widest mt-1">
                 Section-wise · Raw Score · Scaled Score · Percentile
@@ -660,7 +660,7 @@ export function CatScoreCalculator() {
                     Need Admission Guidance?
                   </div>
                   <div className="text-xl font-black uppercase">
-                    Book Free CAT 2026 Counselling →
+                    Book Free CAT 2027 Counselling →
                   </div>
                 </div>
                 <ChevronRight className="w-8 h-8 group-hover:translate-x-2 transition-transform flex-shrink-0" />
@@ -709,7 +709,7 @@ export function CatScoreCalculator() {
             </button>
             <div className="bg-white">
               <div className="bg-amber-400 p-8 text-center border-b-8 border-foreground text-foreground">
-                <h2 className="text-4xl font-black uppercase italic tracking-tighter">CAT Admission Support 2026</h2>
+                <h2 className="text-4xl font-black uppercase italic tracking-tighter">CAT Admission Support 2027</h2>
                 <p className="font-bold mt-2">Expert guidance for IIMs & Top B-Schools.</p>
               </div>
               <div className="p-4 md:p-8">
@@ -724,7 +724,7 @@ export function CatScoreCalculator() {
       {/* Percentile Table */}
       <div className="mt-20">
         <h3 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-amber-400 pl-6">
-          CAT 2026 Score vs Percentile (Expected)
+          CAT 2027 Score vs Percentile (Expected)
         </h3>
         <div className="overflow-x-auto border-4 border-foreground">
           <table className="w-full text-left border-collapse">
@@ -762,7 +762,7 @@ export function CatScoreCalculator() {
       {/* Section-wise info */}
       <div className="mt-20">
         <h3 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-amber-400 pl-6">
-          CAT 2026 Exam Pattern
+          CAT 2027 Exam Pattern
         </h3>
         <div className="overflow-x-auto border-4 border-foreground">
           <table className="w-full text-left border-collapse">

@@ -84,7 +84,7 @@ export function OnlineDegreeLeadBox({ courseName = "Online MBA / Online Degree",
       <div className="relative z-10 max-w-3xl mx-auto">
         <div className="flex items-center justify-center md:justify-start gap-2 mb-4">
           <span className="bg-amber-400/20 text-amber-300 border border-amber-400/30 px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest flex items-center gap-1.5">
-            <Sparkles className="w-3.5 h-3.5 text-amber-400" /> Free Admission Assistance 2026
+            <Sparkles className="w-3.5 h-3.5 text-amber-400" /> Free Admission Assistance 2027
           </span>
         </div>
 

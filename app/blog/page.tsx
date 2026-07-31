@@ -4,15 +4,15 @@ import { BlogList } from '@/components/BlogList';
 import { AdUnit } from '@/components/AdUnit';
 
 export const metadata = {
-  title: 'Blog | CareerWithMohit',
-  description: 'Read latest career insights, MBA admission updates, and professional growth strategies from expert counsellor Mohit Jain. Uncompromised guidance for students.',
-  keywords: ['MBA blog', 'career counselling blog', 'MBA admission tips', 'PGDM admission guide', 'career guidance articles', 'B-school insights', 'Mohit Jain blog'],
+  title: 'MBA / PGDM Admission 2027 Blog & Career Insights | CareerWithMohit',
+  description: 'Read latest career insights, MBA admission 2027 updates, PGDM admission 2027 guide, and professional growth strategies from expert counsellor Mohit Jain. Uncompromised guidance for students.',
+  keywords: ['MBA blog', 'career counselling blog', 'MBA admission 2027', 'PGDM admission 2027', 'degree admission 2027', 'MBA admission tips', 'PGDM admission guide', 'career guidance articles', 'B-school insights 2027', 'Mohit Jain blog'],
   alternates: {
     canonical: '/blog',
   },
   openGraph: {
-    title: 'Blog | CareerWithMohit',
-    description: 'Read latest career insights, MBA admission updates, and professional growth strategies.',
+    title: 'MBA / PGDM Admission 2027 Blog | CareerWithMohit',
+    description: 'Read latest career insights, MBA admission 2027 updates, and professional growth strategies.',
     type: 'website',
   },
 };

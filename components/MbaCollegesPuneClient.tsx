@@ -215,11 +215,11 @@ export function MbaCollegesPuneClient({
           <div className="mt-10 flex flex-col lg:flex-row justify-between items-start lg:items-center gap-8">
             <div>
               <span className="bg-primary-brand text-white font-black uppercase text-xs tracking-widest px-4 py-1.5 border-2 border-white rotate-[-1deg] inline-block mb-4">
-                2026 Admissions & Placements Info
+                2027 Admissions & Placements Info
               </span>
               <h1 className="text-4xl sm:text-6xl font-black uppercase tracking-tighter leading-[0.95] mb-6">
                 Top MBA Colleges <br />
-                <span className="text-primary-brand italic underline decoration-[8px] underline-offset-8">in Pune</span> 2026
+                <span className="text-primary-brand italic underline decoration-[8px] underline-offset-8">in Pune</span> 2027
               </h1>
               <p className="text-lg sm:text-xl font-bold text-slate-300 max-w-2xl border-l-4 border-primary-brand pl-4 mt-4">
                 Compare placements, verified fees, cutoffs, and SNAP/MAH CET requirements. Check out top high-ROI government universities and elite private business schools.

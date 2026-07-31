@@ -6,26 +6,29 @@ import { JsonLd } from "@/components/JsonLd";
 import { Calculator, School, BarChart3, MapPin, CheckCircle2, Info, Compass, Table, Trophy, Target, ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
-    title: "AIMA MAT College Predictor 2026 | MAT Score vs Percentile & Cutoff",
-    description: "Free AIMA MAT 2026 College Predictor. Check MAT Score vs Percentile mapping and find top MBA/PGDM colleges like BIMTECH, XIME, and Jaipuria based on your percentile.",
+    title: "AIMA MAT College Predictor 2027 | MAT Score vs Percentile & Cutoff",
+    description: "Free AIMA MAT 2027 College Predictor. Check MAT Score vs Percentile mapping and find top MBA/PGDM colleges like BIMTECH, XIME, and Jaipuria based on your percentile.",
     keywords: [
-        "mat college predictor 2026", 
-        "mat score vs percentile 2026", 
-        "mba colleges accepting mat 2026", 
+        "mat college predictor 2027", 
+        "mat score vs percentile 2027", 
+        "mba colleges accepting mat 2027", 
         "mat cutoff for top mba colleges", 
         "best colleges for 80 percentile in mat",
         "aima mat predictor free",
-        "mat cutoffs 2026",
+        "mat cutoffs 2027",
         "mat participating institutes",
         "top b-schools accepting mat in delhi ncr",
-        "career with mohit mat tool"
+        "career with mohit mat tool",
+        "mba admission 2027",
+        "pgdm admission 2027",
+        "degree admission 2027"
     ],
     alternates: {
         canonical: "/tools/mat-college-predictor",
     },
     openGraph: {
-        title: "MAT College Predictor 2026 | Predict Your B-School",
-        description: "Interactive AIMA MAT 2026 College Predictor. Map your MAT score to top MBA/PGDM colleges and check expected cutoffs based on real data.",
+        title: "MAT College Predictor 2027 | Predict Your B-School",
+        description: "Interactive AIMA MAT 2027 College Predictor. Map your MAT score to top MBA/PGDM colleges and check expected cutoffs based on real data.",
         url: "https://www.careerwithmohit.online/tools/mat-college-predictor",
         siteName: "Career With Mohit",
         images: [
@@ -33,7 +36,7 @@ export const metadata: Metadata = {
                 url: "/images/tools/mat-predictor-og.jpg", // Make sure this image exists or use a default one
                 width: 1200,
                 height: 630,
-                alt: "MAT College Predictor 2026 - Career With Mohit",
+                alt: "MAT College Predictor 2027 - Career With Mohit",
             },
         ],
         locale: "en_US",
@@ -41,8 +44,8 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "MAT College Predictor 2026 | Find Your Dream B-School",
-        description: "Free interactive predictor for AIMA MAT 2026. Calculate expected percentile and explore top MBA colleges.",
+        title: "MAT College Predictor 2027 | Find Your Dream B-School",
+        description: "Free interactive predictor for AIMA MAT 2027. Calculate expected percentile and explore top MBA colleges.",
         images: ["/images/tools/mat-predictor-og.jpg"],
     },
 };
@@ -62,10 +65,10 @@ export default function MatPredictorPage() {
             },
             {
                 "@type": "Question",
-                "name": "How is MAT Score vs Percentile calculated for 2026?",
+                "name": "How is MAT Score vs Percentile calculated for 2027?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "For MAT 2026, a composite score of 100+ typically fetches a 90+ percentile. A score between 80-100 results in the 85-90 percentile range. Scores are normalized across multiple sessions by AIMA."
+                    "text": "For MAT 2027, a composite score of 100+ typically fetches a 90+ percentile. A score between 80-100 results in the 85-90 percentile range. Scores are normalized across multiple sessions by AIMA."
                 }
             },
             {
@@ -106,7 +109,7 @@ export default function MatPredictorPage() {
     const softwareSchema = {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
-        "name": "AIMA MAT College Predictor 2026",
+        "name": "AIMA MAT College Predictor 2027",
         "operatingSystem": "All",
         "applicationCategory": "EducationApplication",
         "offers": {
@@ -114,7 +117,7 @@ export default function MatPredictorPage() {
             "price": "0",
             "priceCurrency": "INR"
         },
-        "description": "Interactive tool to predict MBA colleges based on MAT percentile for the 2026 admission cycle."
+        "description": "Interactive tool to predict MBA colleges based on MAT percentile for the 2027 admission cycle."
     };
 
     return (
@@ -136,14 +139,14 @@ export default function MatPredictorPage() {
                         <div className="flex-1">
                             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-emerald-500 to-teal-600 px-4 py-1.5 mb-8 rounded-full border border-white/20 shadow-lg shadow-emerald-500/20">
                                 <BarChart3 className="w-4 h-4 text-white" />
-                                <span className="text-[10px] font-black uppercase tracking-widest text-white">MAT 2026 Intelligent Prediction</span>
+                                <span className="text-[10px] font-black uppercase tracking-widest text-white">MAT 2027 Intelligent Prediction</span>
                             </div>
                             <h1 className="text-6xl md:text-8xl font-black uppercase tracking-tighter mb-8 leading-[0.9]">
                                 MAT College <br />
                                 <span className="text-emerald-500">Predictor</span>
                             </h1>
                             <p className="text-xl text-slate-300 font-bold max-w-xl leading-relaxed">
-                                Unlock your path to India's top B-Schools. Map your MAT percentile to 100+ institutes with our advanced 2026 matching algorithm.
+                                Unlock your path to India's top B-Schools. Map your MAT percentile to 100+ institutes with our advanced 2027 matching algorithm.
                             </p>
                         </div>
                         
@@ -156,14 +159,14 @@ export default function MatPredictorPage() {
                                     </div>
                                     <div>
                                         <h3 className="font-black uppercase tracking-widest text-xs text-emerald-500">Free Tool</h3>
-                                        <p className="font-bold text-white">MBA Admission 2026</p>
+                                        <p className="font-bold text-white">MBA Admission 2027</p>
                                     </div>
                                 </div>
                                 <div className="space-y-6">
                                     <div className="h-2 w-full bg-slate-800 rounded-full overflow-hidden">
                                         <div className="h-full bg-emerald-500 w-[75%] animate-pulse"></div>
                                     </div>
-                                    <p className="text-xs text-slate-400 font-medium italic">"The most accurate Predictor for MAT Dec 2025 & Feb 2026 exam cycles."</p>
+                                    <p className="text-xs text-slate-400 font-medium italic">"The most accurate Predictor for MAT Dec 2026 & Feb 2027 exam cycles."</p>
                                 </div>
                             </div>
                         </div>
@@ -177,7 +180,7 @@ export default function MatPredictorPage() {
                     {/* Exam Overview Section */}
                     <div>
                         <div className="text-center mb-12">
-                            <h2 className="text-4xl font-black uppercase tracking-tight text-[#1a1a2e]">MAT 2026 <span className="text-emerald-500">Exam Overview</span></h2>
+                            <h2 className="text-4xl font-black uppercase tracking-tight text-[#1a1a2e]">MAT 2027 <span className="text-emerald-500">Exam Overview</span></h2>
                             <p className="text-slate-500 font-bold mt-4">Essential details regarding the Management Aptitude Test conducted by AIMA.</p>
                         </div>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -207,7 +210,7 @@ export default function MatPredictorPage() {
                                 <Table className="w-4 h-4" />
                                 Statistical Insights
                             </div>
-                            <h2 className="text-4xl font-black uppercase tracking-tight text-[#1a1a2e]">MAT Score vs Percentile <span className="text-slate-400">2026</span></h2>
+                            <h2 className="text-4xl font-black uppercase tracking-tight text-[#1a1a2e]">MAT Score vs Percentile <span className="text-slate-400">2027</span></h2>
                             <p className="text-slate-500 font-bold mt-4">Average composite score required to achieve targeted percentiles for top MBA colleges.</p>
                         </div>
 
@@ -261,7 +264,7 @@ export default function MatPredictorPage() {
                             </div>
                             <h3 className="text-2xl font-black uppercase tracking-tight">Direct AIMA Data</h3>
                             <p className="text-slate-600 font-bold leading-relaxed">
-                                We've mapped our database directly with the latest participating B-schools list from AIMA MAT December 2025 and February 2026 cycles.
+                                We've mapped our database directly with the latest participating B-schools list from AIMA MAT December 2026 and February 2027 cycles.
                             </p>
                         </div>
                         <div className="space-y-6">
@@ -347,7 +350,7 @@ export default function MatPredictorPage() {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <Link href="/blog/mba-scholarships-2026-master-guide" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
                             <div>
-                                <h4 className="font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">MBA Scholarships 2026 Master Guide</h4>
+                                <h4 className="font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">MBA Scholarships 2027 Master Guide</h4>
                                 <p className="text-xs text-slate-500 mt-1">Funding your dream B-School</p>
                             </div>
                             <ArrowRight className="w-5 h-5 text-slate-300 group-hover:text-emerald-500 transition-colors group-hover:translate-x-1" />

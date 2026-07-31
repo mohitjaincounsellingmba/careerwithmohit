@@ -9,26 +9,26 @@ const PAGE_PATH = '/abroad-education';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'Top Global MBA & Study Abroad 2026 | UK, USA, Canada, Australia | CareerWithMohit',
+  title: 'Top Global MBA & Study Abroad 2027 | UK, USA, Canada, Australia | CareerWithMohit',
   description:
-    'Explore and compare 380+ top global programs and universities abroad (UK, USA, Canada, Australia, New Zealand, Europe, Malaysia) for 2026. Find fees, accreditations, and get free expert admission assistance.',
+    'Explore and compare 380+ top global programs and universities abroad (UK, USA, Canada, Australia, New Zealand, Europe, Malaysia) for 2027. Find fees, accreditations, and get free expert admission assistance.',
   keywords: [
-    'study abroad 2026',
+    'study abroad 2027',
     'study abroad consultants',
-    'global MBA online 2026',
+    'global MBA online 2027',
     'MBA in UK from India',
     'MBA in USA online fees',
-    'study in Canada 2026',
+    'study in Canada 2027',
     'study in Germany free',
-    'study in Ireland 2026',
+    'study in Ireland 2027',
     'study in New Zealand',
     'WES approved degrees India',
     'AACSB accredited MBA online',
-    'study in Australia 2026',
-    'study in Europe 2026',
+    'study in Australia 2027',
+    'study in Europe 2027',
     'best abroad education consultant',
-    'international MBA for Indian students',
-    'abroad admission assistance',
+    'international MBA for Indian students 2027',
+    'abroad admission assistance 2027',
   ],
   alternates: {
     canonical: PAGE_URL,
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   authors: [{ name: 'Mohit Jain', url: BASE_URL }],
   publisher: 'CareerWithMohit',
   openGraph: {
-    title: 'Top Global MBA & Study Abroad 2026 | Study in UK, USA, Canada, Australia',
+    title: 'Top Global MBA & Study Abroad 2027 | Study in UK, USA, Canada, Australia',
     description:
       'Compare 380+ top international universities. Fees, accreditations (AACSB, WES), and global programs. Get free counselling by Mohit Jain.',
     url: PAGE_URL,
@@ -58,13 +58,13 @@ export const metadata: Metadata = {
         url: `${BASE_URL}/og-abroad-education.png`,
         width: 1200,
         height: 630,
-        alt: 'Top Global MBA & Study Abroad 2026 - CareerWithMohit',
+        alt: 'Top Global MBA & Study Abroad 2027 - CareerWithMohit',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Top Global MBA & Study Abroad 2026',
+    title: 'Top Global MBA & Study Abroad 2027',
     description:
       'Compare 380+ global universities in UK, USA, Canada, Australia & more. Fees, WES/AACSB approvals. Free counselling by Mohit Jain.',
     images: [`${BASE_URL}/og-abroad-education.png`],
@@ -80,9 +80,9 @@ const jsonLd = {
       '@type': 'WebPage',
       '@id': PAGE_URL,
       url: PAGE_URL,
-      name: 'Top Global MBA & Study Abroad 2026 | Study in UK, USA, Canada, Australia',
+      name: 'Top Global MBA & Study Abroad 2027 | Study in UK, USA, Canada, Australia',
       description:
-        'Explore and compare 380+ top global MBA programs and universities abroad for 2026. Find fees, accreditations, and get free expert counselling.',
+        'Explore and compare 380+ top global MBA programs and universities abroad for 2027. Find fees, accreditations, and get free expert counselling.',
       isPartOf: { '@id': `${BASE_URL}/#website` },
       breadcrumb: {
         '@type': 'BreadcrumbList',
@@ -94,7 +94,7 @@ const jsonLd = {
     },
     {
       '@type': 'ItemList',
-      name: 'Top Global Universities for Indian Students 2026',
+      name: 'Top Global Universities for Indian Students 2027',
       description: 'List of top global universities offering MBA and other programs in UK, USA, Canada, Australia, Ireland, Germany, and New Zealand.',
       url: PAGE_URL,
       numberOfItems: ABROAD_COLLEGES.length,
@@ -196,13 +196,13 @@ export default function AbroadEducationPage() {
           <div className="relative z-10 max-w-6xl mx-auto px-6 text-center">
             <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-emerald-300 text-xs font-bold uppercase tracking-[0.2em] px-5 py-2.5 rounded-full mb-10 backdrop-blur-md">
               <Globe size={14} />
-              Global MBA & International Admissions · 2026
+              Global MBA & International Admissions · 2027
             </span>
             <h1 className="display-font text-5xl md:text-8xl font-black text-white leading-[1.1] mb-8">
               Study Abroad
               <br />
               <span className="bg-gradient-to-r from-emerald-300 to-teal-300 bg-clip-text text-transparent">
-                Admissions 2026
+                Admissions 2027
               </span>
             </h1>
             <p className="text-white/70 text-lg md:text-2xl max-w-3xl mx-auto leading-relaxed font-medium mb-12">
@@ -243,7 +243,7 @@ export default function AbroadEducationPage() {
           <div className="max-w-6xl mx-auto px-6">
             <div className="text-center mb-20">
               <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-6">
-                Why a Global Degree in 2026?
+                Why a Global Degree in 2027?
               </h2>
               <div className="w-24 h-1.5 bg-emerald-500 mx-auto rounded-full mb-8" />
               <p className="text-gray-500 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">

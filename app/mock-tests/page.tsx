@@ -20,21 +20,22 @@ import { JsonLd } from '@/components/JsonLd';
 import { getSortedPostsData } from '@/lib/markdown';
 
 export const metadata: Metadata = {
-  title: 'Free Mock Test Series 2026 - 50+ Online Practice Papers | CareerWithMohit',
-  description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams. Simulate real exam conditions with instant AI score analysis and percentile predictions.',
+  title: 'Free Mock Test Series 2027 - 50+ Online Practice Papers | CareerWithMohit',
+  description: 'Practice 100% free online mock tests for CAT 2027, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams. Simulate real exam conditions with instant AI score analysis and percentile predictions.',
   keywords: [
-    'free mock test series 2026', 'online mock test free', 'free online test series', 
-    'cat mock test free', 'jee main mock test online', 'neet ug practice papers', 
+    'free mock test series 2027', 'online mock test free 2027', 'free online test series 2027', 
+    'cat mock test free 2027', 'jee main mock test online', 'neet ug practice papers', 
     'gmat focus edition free mock', 'ipu cet mock test online', 'ssc cgl tier 1 mock test free',
     'free practice papers for competitive exams', 'xat free mock test', 'nmat practice paper online',
-    'bank po free mock test', 'railway NTPC practice set', 'best online test series india'
+    'bank po free mock test', 'railway NTPC practice set', 'best online test series india',
+    'mba mock test 2027', 'pgdm entrance exam mock test 2027', 'degree admission test prep 2027'
   ],
   alternates: {
     canonical: '/mock-tests',
   },
   openGraph: {
-    title: 'Free Mock Test Series 2026 - 50+ Online Practice Papers | CareerWithMohit',
-    description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams. Get instant score analysis and percentile predictions.',
+    title: 'Free Mock Test Series 2027 - 50+ Online Practice Papers | CareerWithMohit',
+    description: 'Practice 100% free online mock tests for CAT 2027, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams. Get instant score analysis and percentile predictions.',
     url: 'https://www.careerwithmohit.online/mock-tests',
     type: 'website',
     images: [
@@ -42,13 +43,13 @@ export const metadata: Metadata = {
         url: '/og-image.webp',
         width: 1200,
         height: 630,
-        alt: 'Mock Test Hub 2026',
+        alt: 'Mock Test Hub 2027',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free Mock Test Series 2026 - 50+ Online Practice Papers | CareerWithMohit',
+    title: 'Free Mock Test Series 2027 - 50+ Online Practice Papers | CareerWithMohit',
     description: 'Practice 100% free online mock tests for CAT, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams.',
     images: ['/og-image.webp'],
   },
@@ -77,13 +78,13 @@ const categories: {
     color: "from-orange-50 to-white",
     borderColor: "border-orange-200",
     exams: [
-      { name: "CAT 2026", slug: "/tools/cat-mock-test", guideSlug: "/blog/free-cat-mock-test-2026", tag: "Hot", tagColor: "bg-red-500", desc: "For IIMs & FMS" },
-      { name: "XAT 2026", slug: "/tools/mock-test/xat", guideSlug: "/blog/free-xat-mock-test-2026", tag: "Expert", tagColor: "bg-primary", desc: "For XLRI & SPJIMR" },
+      { name: "CAT 2027", slug: "/tools/cat-mock-test", guideSlug: "/blog/free-cat-mock-test-2026", tag: "Hot", tagColor: "bg-red-500", desc: "For IIMs & FMS" },
+      { name: "XAT 2027", slug: "/tools/mock-test/xat", guideSlug: "/blog/free-xat-mock-test-2026", tag: "Expert", tagColor: "bg-primary", desc: "For XLRI & SPJIMR" },
       { name: "GMAT Focus", slug: "/tools/mock-test/gmat", guideSlug: "/blog/free-gmat-mock-test-2026", desc: "For ISB & Global MBA" },
-      { name: "SNAP Dec 2026", slug: "/tools/mock-test/snap", guideSlug: "/blog/free-snap-mock-test-2026", desc: "For SIBM & SCMHRD" },
-      { name: "NMAT 2026", slug: "/tools/nmat-mock-test", guideSlug: "/blog/free-nmat-mock-test-2026-nmims-prep", tag: "New", tagColor: "bg-blue-500", desc: "For NMIMS & SPJIMR" },
+      { name: "SNAP Dec 2027", slug: "/tools/mock-test/snap", guideSlug: "/blog/free-snap-mock-test-2026", desc: "For SIBM & SCMHRD" },
+      { name: "NMAT 2027", slug: "/tools/nmat-mock-test", guideSlug: "/blog/free-nmat-mock-test-2026-nmims-prep", tag: "New", tagColor: "bg-blue-500", desc: "For NMIMS & SPJIMR" },
       { name: "MHCET MBA", slug: "/tools/mhcet-mock-test", guideSlug: "/blog/free-mhcet-mock-test-2026", desc: "For JBIMS & SIMSREE" },
-      { name: "ATMA 2026", slug: "/tools/atma-mock-test", guideSlug: "/blog/free-atma-mock-test-2026", tag: "Latest", tagColor: "bg-emerald-500", desc: "For JBIMS & PUMBA" },
+      { name: "ATMA 2027", slug: "/tools/atma-mock-test", guideSlug: "/blog/free-atma-mock-test-2026", tag: "Latest", tagColor: "bg-emerald-500", desc: "For JBIMS & PUMBA" },
     ]
   },
   {
@@ -95,9 +96,9 @@ const categories: {
     exams: [
       { name: "JEE Main", slug: "/tools/jee-main-mock-test", guideSlug: "/blog/free-jee-main-mock-test-2026", desc: "For NITs & IIITs" },
       { name: "JEE Advanced", slug: "/tools/jee-advanced-mock-test", guideSlug: "/blog/free-jee-advanced-mock-test-2026", tag: "Expert", tagColor: "bg-primary", desc: "For IITs" },
-      { name: "BITSAT 2026", slug: "/tools/bitsat-mock-test", guideSlug: "/blog/free-bitsat-mock-test-2026", desc: "For BITS Pilani" },
-      { name: "VITEEE 2026", slug: "/tools/mock-test/viteee", guideSlug: "/blog/free-viteee-mock-test-2026", desc: "For VIT Vellore" },
-      { name: "SRMJEEE 2026", slug: "/tools/mock-test/srmjee", guideSlug: "/blog/free-srmjeee-mock-test-2026", desc: "For SRM University" },
+      { name: "BITSAT 2027", slug: "/tools/bitsat-mock-test", guideSlug: "/blog/free-bitsat-mock-test-2026", desc: "For BITS Pilani" },
+      { name: "VITEEE 2027", slug: "/tools/mock-test/viteee", guideSlug: "/blog/free-viteee-mock-test-2026", desc: "For VIT Vellore" },
+      { name: "SRMJEEE 2027", slug: "/tools/mock-test/srmjee", guideSlug: "/blog/free-srmjeee-mock-test-2026", desc: "For SRM University" },
     ]
   },
   {
@@ -108,7 +109,7 @@ const categories: {
     borderColor: "border-emerald-200",
     exams: [
       { name: "NEET UG", slug: "/tools/mock-test/neet", guideSlug: "/blog/free-neet-mock-test-2026", tag: "Crucial", tagColor: "bg-emerald-600", desc: "For MBBS/BDS" },
-      { name: "CLAT 2026", slug: "/tools/mock-test/clat", guideSlug: "/blog/free-clat-mock-test-2026", desc: "For NLUs" },
+      { name: "CLAT 2027", slug: "/tools/mock-test/clat", guideSlug: "/blog/free-clat-mock-test-2026", desc: "For NLUs" },
       { name: "CUET UG", slug: "/tools/mock-test/cuet-ug", guideSlug: "/blog/free-cuet-ug-general-test-mock-test-2026", desc: "For Central Universities" },
       { name: "IPU CET (UG)", slug: "/tools/mock-test/ipu-cet-ug", guideSlug: "/blog/free-ipu-cet-ug-mock-test-2026", tag: "Delhi", tagColor: "bg-orange-500", desc: "For BBA, BCA, B.Com" },
       { name: "IPU CET (PG)", slug: "/tools/mock-test/ipu-cet-pg", guideSlug: "/blog/free-ipu-cet-pg-mock-test-2026", desc: "For MBA, MCA, Law" },
@@ -189,7 +190,7 @@ export default function MockTestHubPage() {
         "name": "Do these mock tests mimic actual exam conditions?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. Our mock tests simulate actual exam interfaces, feature timed sections where applicable, and are designed based on the latest 2026 exam patterns to provide an authentic testing experience."
+          "text": "Yes. Our mock tests simulate actual exam interfaces, feature timed sections where applicable, and are designed based on the latest 2027 exam patterns to provide an authentic testing experience."
         }
       },
       {
@@ -220,7 +221,7 @@ export default function MockTestHubPage() {
         <div className="relative mb-20 text-center">
           <div className="absolute top-0 left-1/2 -translate-x-1/2 w-64 h-64 bg-primary/10 rounded-full blur-3xl -z-10" />
           <h1 className="text-5xl md:text-7xl font-black uppercase mb-6 tracking-tight text-foreground leading-none">
-            Mock Test <span className="text-primary italic">Hub</span> 2026
+            Mock Test <span className="text-primary italic">Hub</span> 2027
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto font-medium mb-10">
             India&apos;s most comprehensive free mock test platform. Simulate real exam conditions, get instant analytics, and boost your preparation.
@@ -237,7 +238,7 @@ export default function MockTestHubPage() {
             </div>
             <div className="bg-white px-6 py-3 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] flex items-center gap-3">
               <Target className="w-5 h-5 text-emerald-500" />
-              <span className="font-bold uppercase text-sm">Latest 2026 Patterns</span>
+              <span className="font-bold uppercase text-sm">Latest 2027 Patterns</span>
             </div>
           </div>
         </div>
@@ -374,7 +375,7 @@ export default function MockTestHubPage() {
             <div className="space-y-3">
               <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2 text-sm">MBA Mocks</h4>
               <ul className="space-y-1.5 text-xs font-bold text-gray-500 uppercase tracking-tight">
-                <li><Link href="/tools/cat-mock-test" className="hover:text-primary">→ Free CAT mock test 2026</Link></li>
+                <li><Link href="/tools/cat-mock-test" className="hover:text-primary">→ Free CAT mock test 2027</Link></li>
                 <li><Link href="/tools/nmat-mock-test" className="hover:text-primary">→ NMIMS NMAT practice paper</Link></li>
                 <li><Link href="/tools/mock-test/xat" className="hover:text-primary">→ XAT decision making mock</Link></li>
                 <li><Link href="/tools/mock-test/snap" className="hover:text-primary">→ SNAP SIBM Pune test series</Link></li>

@@ -197,7 +197,7 @@ export function CuetCalculator() {
                     number: leadData.number,
                     email: leadData.email,
                     location: leadData.location,
-                    source: `CUET PG 2026 Calculator`,
+                    source: `CUET PG 2027 Calculator`,
                     score: stats.score,
                     percentile: stats.percentile,
                     responseSheetUrl: responseSheetUrl,
@@ -226,14 +226,14 @@ export function CuetCalculator() {
                         <Calculator className="w-8 h-8 text-white" />
                     </div>
                     <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tighter">
-                        CUET PG 2026 Score Calculator
+                        CUET PG 2027 Score Calculator
                     </h2>
                 </div>
 
                 <div className="mb-10 p-6 bg-slate-900 text-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(37,99,235,1)]">
                     <label className="block text-sm font-black uppercase tracking-widest mb-4 flex items-center gap-2">
                         <Target className="w-5 h-5 text-primary" />
-                        Please Select Your 2026 Admission Goal
+                        Please Select Your 2027 Admission Goal
                     </label>
                     <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
                         {["MBA", "MCA", "LLM", "MA", "M.Tech", "Other"].map((goal) => (

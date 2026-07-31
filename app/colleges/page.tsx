@@ -7,27 +7,27 @@ import { JsonLd } from "@/components/JsonLd";
 import { ChevronDown } from "lucide-react";
 
 export const metadata = {
-  title: "Top Colleges in India 2026: Compare Fees, Placements & Admission (MBA, B.Tech, BBA)",
-  description: "Compare 200+ top colleges in India for 2026 admission. Verified fee structures, 2025 placement reports, NIRF rankings, and cutoffs for MBA, B.Tech, BBA & BCA. Get direct admission guidance for students in Delhi NCR, Bangalore, Pune, Mumbai & more.",
+  title: "Top Colleges in India 2027: Compare Fees, Placements & Admission (MBA, B.Tech, BBA)",
+  description: "Compare 200+ top colleges in India for 2027 admission. Verified fee structures, 2025 placement reports, NIRF rankings, and cutoffs for MBA, B.Tech, BBA & BCA. Get direct admission guidance for students in Delhi NCR, Bangalore, Pune, Mumbai & more.",
   keywords: [
-    'top MBA colleges India 2026', 'best PGDM colleges India', 'MBA fees comparison',
-    'MBA placement reports 2026', 'B-school cutoffs', 'direct MBA admission 2026',
-    'top engineering colleges India 2026', 'best B.Tech colleges India',
-    'B.Tech admission 2026', 'B.Tech fees structure', 'JEE Main colleges',
-    'top BBA colleges India 2026', 'best BBA colleges Delhi NCR',
-    'BCA colleges India 2026', 'BCA admission fees placement',
-    'NIRF ranking 2026 colleges', 'college fees comparison India',
-    'top colleges Delhi NCR', 'best colleges Bangalore 2026',
-    'top colleges Pune 2026', 'MBA colleges Mumbai', 'engineering colleges Noida Greater Noida',
+    'top MBA colleges India 2027', 'best PGDM colleges India 2027', 'MBA fees comparison',
+    'MBA placement reports 2027', 'B-school cutoffs', 'direct MBA admission 2027', 'PGDM admission 2027',
+    'top engineering colleges India 2027', 'best B.Tech colleges India',
+    'B.Tech admission 2027', 'B.Tech fees structure', 'JEE Main colleges',
+    'top BBA colleges India 2027', 'best BBA colleges Delhi NCR',
+    'BCA colleges India 2027', 'BCA admission fees placement',
+    'NIRF ranking 2027 colleges', 'college fees comparison India',
+    'top colleges Delhi NCR', 'best colleges Bangalore 2027',
+    'top colleges Pune 2027', 'MBA colleges Mumbai', 'engineering colleges Noida Greater Noida',
     'low fees high placement colleges India', 'CAT CMAT MAT accepting colleges',
-    'direct admission MBA B.Tech 2026', 'best ROI MBA colleges India',
+    'direct admission MBA B.Tech 2027', 'best ROI MBA colleges India', 'degree admission 2027'
   ],
   alternates: {
     canonical: '/colleges',
   },
   openGraph: {
-    title: 'Top Colleges in India 2026: Compare Fees, Placements & Admission',
-    description: 'Explore verified data on 200+ top colleges for MBA, B.Tech, BBA & BCA. Compare fees, placements, rankings & cutoffs for 2026.',
+    title: 'Top Colleges in India 2027: Compare Fees, Placements & Admission',
+    description: 'Explore verified data on 200+ top colleges for MBA, B.Tech, BBA & BCA. Compare fees, placements, rankings & cutoffs for 2027.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/colleges',
   },
@@ -58,8 +58,8 @@ export default function CollegesPage() {
   const collectionSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Top Colleges in India 2026 – MBA, B.Tech, BBA, BCA",
-    "description": "Comprehensive directory of 200+ top colleges in India covering MBA, PGDM, B.Tech, BBA, and BCA programs with fees, placement data, and admission details for 2026.",
+    "name": "Top Colleges in India 2027 – MBA, B.Tech, BBA, BCA",
+    "description": "Comprehensive directory of 200+ top colleges in India covering MBA, PGDM, B.Tech, BBA, and BCA programs with fees, placement data, and admission details for 2027.",
     "url": "https://www.careerwithmohit.online/colleges",
     "mainEntity": {
       "@type": "ItemList",
@@ -79,10 +79,10 @@ export default function CollegesPage() {
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Which are the best MBA colleges in India for 2026 admission?",
+        "name": "Which are the best MBA colleges in India for 2027 admission?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The top MBA colleges in India for 2026 include IIM Ahmedabad, Bangalore, Calcutta, FMS Delhi, XLRI, SPJIMR, and MDI Gurgaon. Based on 2025 placement records, these institutes reported average packages between ₹18 LPA and ₹35+ LPA. For direct admission queries in top private universities, consult our expert desk."
+          "text": "The top MBA colleges in India for 2027 include IIM Ahmedabad, Bangalore, Calcutta, FMS Delhi, XLRI, SPJIMR, and MDI Gurgaon. Based on 2025 placement records, these institutes reported average packages between ₹18 LPA and ₹35+ LPA. For direct admission queries in top private universities, consult our expert desk."
         }
       },
       {
@@ -103,7 +103,7 @@ export default function CollegesPage() {
       },
       {
         "@type": "Question",
-        "name": "Can I get direct MBA admission without CAT/XAT score in 2026?",
+        "name": "Can I get direct MBA admission without CAT/XAT score in 2027?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Yes, many AICTE-approved PGDM institutes and private universities offer direct MBA admission based on graduation marks, personal interviews, or other entrance scores like MAT, CMAT, and ATMA. Contact our admission counselors for a list of verified ROI-focused colleges for direct admission."
@@ -134,17 +134,17 @@ export default function CollegesPage() {
             <div className="lg:col-span-8">
               <div className="mb-14">
                 <span className="bg-primary text-white px-5 py-2 text-sm font-black uppercase tracking-widest -rotate-1 inline-block border-4 border-foreground mb-6">
-                  2026 Expert Intel
+                  2027 Expert Intel
                 </span>
                 <h2 className="font-display text-4xl sm:text-6xl font-black uppercase tracking-tighter text-foreground leading-[0.95] mb-10">
                   India&apos;s Most Reliable <br />
-                  <span className="text-primary italic">College Directory 2026</span>
+                  <span className="text-primary italic">College Directory 2027</span>
                 </h2>
                 <div className="w-40 h-4 bg-accent mb-12 -ml-2" />
                 
                 <div className="space-y-8 text-xl text-slate-700 leading-relaxed font-bold italic">
                   <p>
-                    Navigating the 2026 academic landscape requires more than just a list of names. It requires **Uncompromised Data**. At CareerWithMohit, we provide a curated directory of **200+ top colleges in India** spanning across MBA, PGDM, B.Tech, BBA, and BCA disciplines. 
+                    Navigating the 2027 academic landscape requires more than just a list of names. It requires **Uncompromised Data**. At CareerWithMohit, we provide a curated directory of **200+ top colleges in India** spanning across MBA, PGDM, B.Tech, BBA, and BCA disciplines. 
                   </p>
                   <p>
                     Whether you are targeting the core placements of **IIT Delhi and IIM Ahmedabad**, or seeking high-ROI private universities in **Delhi NCR, Bangalore, or Pune**, our platform delivers verified insights on fee structures, 2025 placement audits, and NIRF rankings.
@@ -184,7 +184,7 @@ export default function CollegesPage() {
                 <h3 className="text-3xl font-black uppercase mb-10 text-foreground">Admission FAQ Search</h3>
                 {[
                   {
-                    q: "Which are the best MBA colleges in India for 2026 admission?",
+                    q: "Which are the best MBA colleges in India for 2027 admission?",
                     a: "The top MBA colleges include IIMs (Ahmedabad, Bangalore, Calcutta), FMS Delhi, XLRI, SPJIMR, and MDI Gurgaon. Based on 2025 audits, these institutes reported average packages ranging from ₹18 LPA to ₹35+ LPA."
                   },
                   {

@@ -10,29 +10,30 @@ const PAGE_PATH = '/online-degree-certification';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'Top Online Degrees & Certifications 2026 | UGC Approved Universities | CareerWithMohit',
+  title: 'Top Online Degrees & Certifications 2027 | UGC Approved Universities | CareerWithMohit',
   description:
-    'Compare 40+ UGC-DEB approved online universities in India for 2026. Find fees, NAAC grades, programs (MBA, MA, MCA, BBA, BCA, BA) and get FREE expert counselling. Starting at ₹20,000.',
+    'Compare 40+ UGC-DEB approved online universities in India for 2027. Find fees, NAAC grades, programs (MBA, MA, MCA, BBA, BCA, BA) and get FREE expert counselling. Starting at ₹20,000.',
   keywords: [
-    'online MA in English 2026',
+    'online MA in English 2027',
     'online MA colleges India',
-    'online MA English admission',
+    'online MA English admission 2027',
     'UGC approved online MA',
-    'online MBA 2026',
-    'online PGDM 2026',
+    'online MBA 2027',
+    'online PGDM 2027',
     'Jaipuria Institute of Management online PGDM',
-    'UGC approved online universities India',
-    'online degree India 2026',
-    'online BBA admission 2026',
+    'UGC approved online universities India 2027',
+    'online degree India 2027',
+    'online BBA admission 2027',
     'distance education India UGC',
-    'online MCA colleges India',
+    'online MCA colleges India 2027',
     'UGC DEB approved universities',
     'best online university India',
-    'online MBA fees India',
+    'online MBA fees India 2027',
     'NAAC A+ online university',
     'NAAC A++ online degree',
-    'online BCA admission',
+    'online BCA admission 2027',
     'cheapest online MBA India',
+    'degree admission 2027',
     'online degree working professionals',
     'Amity University online MBA',
     'Chandigarh University online',
@@ -49,7 +50,7 @@ export const metadata: Metadata = {
     canonical: PAGE_URL,
   },
   openGraph: {
-    title: 'Top Online Degrees & Certifications 2026 | UGC Approved | CareerWithMohit',
+    title: 'Top Online Degrees & Certifications 2027 | UGC Approved | CareerWithMohit',
     description:
       'Compare 34+ UGC-DEB approved online universities. Fees from ₹62,200. MBA, MCA, BBA, BCA programs. Free expert counselling by Mohit Jain.',
     url: PAGE_URL,
@@ -60,13 +61,13 @@ export const metadata: Metadata = {
         url: `${BASE_URL}/og-online-degree.png`,
         width: 1200,
         height: 630,
-        alt: 'Top Online Degrees & Certifications 2026 India – UGC Approved Universities',
+        alt: 'Top Online Degrees & Certifications 2027 India – UGC Approved Universities',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Top Online Degrees & Certifications 2026 | UGC Approved',
+    title: 'Top Online Degrees & Certifications 2027 | UGC Approved',
     description:
       'Compare 34+ UGC-DEB approved online universities in India. Fees starting ₹62,200. Free counselling by Mohit Jain.',
     images: [`${BASE_URL}/og-online-degree.png`],
@@ -87,7 +88,7 @@ const jsonLd = {
       '@type': 'WebPage',
       '@id': PAGE_URL,
       url: PAGE_URL,
-      name: 'Top Online Degrees & Certifications 2026 | UGC Approved Universities | CareerWithMohit',
+      name: 'Top Online Degrees & Certifications 2027 | UGC Approved Universities | CareerWithMohit',
       description:
         'Compare 34+ UGC-DEB approved online universities in India. Find fees, NAAC grades, programs and get FREE expert counselling.',
       isPartOf: { '@id': `${BASE_URL}/#website` },
@@ -101,7 +102,7 @@ const jsonLd = {
     },
     {
       '@type': 'ItemList',
-      name: 'Top UGC Approved Online Universities India 2026',
+      name: 'Top UGC Approved Online Universities India 2027',
       description: 'List of top UGC-DEB approved online universities offering MBA, MCA, BBA, BCA programs in India.',
       url: PAGE_URL,
       numberOfItems: COLLEGES.length,
@@ -125,10 +126,10 @@ const jsonLd = {
         },
         {
           '@type': 'Question',
-          name: 'What is the fee for an online MBA in India in 2026?',
+          name: 'What is the fee for an online MBA in India in 2027?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Online MBA fees in India range from ₹62,200 (Andhra University) to ₹2,20,000 (SASTRA University) in 2026. The average fee for a reputed UGC-approved online MBA is around ₹1,00,000–₹1,80,000 for 2 years.',
+            text: 'Online MBA fees in India range from ₹62,200 (Andhra University) to ₹2,20,000 (SASTRA University) in 2027. The average fee for a reputed UGC-approved online MBA is around ₹1,00,000–₹1,80,000 for 2 years.',
           },
         },
         {
@@ -136,7 +137,7 @@ const jsonLd = {
           name: 'Which is the best online university in India for MBA?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'The best online universities for MBA in India in 2026 include Amity University Online (WES approved), LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Jain University Online (NAAC A++), and NMIMS Online (Top-5 B-school brand).',
+            text: 'The best online universities for MBA in India in 2027 include Amity University Online (WES approved), LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Jain University Online (NAAC A++), and NMIMS Online (Top-5 B-school brand).',
           },
         },
         {
@@ -174,8 +175,8 @@ const FAQ_ITEMS = [
     a: 'Yes. Online degrees from UGC-DEB approved universities are fully valid and equivalent to regular degrees as per UGC regulations 2020. They are recognized by employers, government bodies, and for higher education and PSU jobs.',
   },
   {
-    q: 'What is the fee for an online MBA in India in 2026?',
-    a: 'Online MBA fees in India range from ₹62,200 (Andhra University) to ₹2,20,000 (SASTRA University) in 2026. The average fee for a reputed UGC-approved online MBA is around ₹1–1.8 Lakhs for 2 years.',
+    q: 'What is the fee for an online MBA in India in 2027?',
+    a: 'Online MBA fees in India range from ₹62,200 (Andhra University) to ₹2,20,000 (SASTRA University) in 2027. The average fee for a reputed UGC-approved online MBA is around ₹1–1.8 Lakhs for 2 years.',
   },
   {
     q: 'Which is the best online university in India for MBA?',
@@ -195,7 +196,7 @@ const FAQ_ITEMS = [
   },
   {
     q: 'Which universities are best for an Online MA in English in India?',
-    a: 'Top UGC-DEB approved universities for Online MA in English in 2026 include LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Vivekananda Global University Online, Shoolini University Online, Parul University Online, Sikkim Manipal University Online, Amity University Online, Jamia Millia Islamia Online, and IGNOU Online. Fees range from ₹20,000 to ₹1,20,000 for the entire 2-year program.',
+    a: 'Top UGC-DEB approved universities for Online MA in English in 2027 include LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Vivekananda Global University Online, Shoolini University Online, Parul University Online, Sikkim Manipal University Online, Amity University Online, Jamia Millia Islamia Online, and IGNOU Online. Fees range from ₹20,000 to ₹1,20,000 for the entire 2-year program.',
   },
 ];
 
@@ -281,7 +282,7 @@ export default function OnlineDegreePage() {
           <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
             <span className="inline-flex items-center gap-2 bg-white/5 border border-white/10 text-white/90 text-xs font-bold uppercase tracking-widest px-5 py-2.5 rounded-full mb-8 backdrop-blur-md shadow-inner">
               <BadgeCheck size={14} className="text-indigo-400" />
-              UGC-DEB Approved Universities · 2026 Directory
+              UGC-DEB Approved Universities · 2027 Directory
             </span>
             
             <h1 className="display-font text-5xl md:text-8xl font-black text-white leading-none tracking-tight mb-8">
@@ -360,7 +361,7 @@ export default function OnlineDegreePage() {
           <div className="max-w-5xl mx-auto px-6">
             <span className="block text-center text-xs font-black text-indigo-600 uppercase tracking-widest mb-3">Accreditations &amp; Value</span>
             <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4 text-center">
-              Why pursue an Online Degree in 2026?
+              Why pursue an Online Degree in 2027?
             </h2>
             <p className="text-gray-500 text-center mb-16 max-w-2xl mx-auto font-medium">
               UGC regulations dictate that degrees acquired online from approved institutions carry identical weight to traditional classroom programs.

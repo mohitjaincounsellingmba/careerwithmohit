@@ -9,32 +9,35 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/calculator/mhcet-mba-2026',
   },
-    title: "MHCET MBA 2026 Score Calculator & Rank Predictor | Marks vs Percentile | Maharashtra CET Result",
-    description: "Free MHCET MBA 2026 score calculator. Instantly calculate your raw marks, predict percentile for JBIMS, SIMSREE, PUMBA. Check Maharashtra CET result 2026, marks vs rank vs top MBA colleges in Maharashtra.",
+    title: "MHCET MBA 2027 Score Calculator & Rank Predictor | Marks vs Percentile | Maharashtra CET Result",
+    description: "Free MHCET MBA 2027 score calculator. Instantly calculate your raw marks, predict percentile for JBIMS, SIMSREE, PUMBA. Check Maharashtra CET result 2027, marks vs rank vs top MBA colleges in Maharashtra.",
     keywords: [
         "MHCET MBA calculator",
-        "MHCET MBA 2026 score calculator",
+        "MHCET MBA 2027 score calculator",
         "MAH MBA CET marks calculator",
-        "MHCET MBA rank predictor 2026",
+        "MHCET MBA rank predictor 2027",
         "MHCET MBA percentile predictor",
         "MHCET MBA marks vs percentile",
-        "JBIMS cutoff 2026",
-        "SIMSREE cutoff 2026",
-        "PUMBA cutoff 2026",
-        "MAH CET answer key 2026",
+        "JBIMS cutoff 2027",
+        "SIMSREE cutoff 2027",
+        "PUMBA cutoff 2027",
+        "MAH CET answer key 2027",
         "calculate mhcet mba score",
         "mhcet percentile vs rank",
         "maharastra cet result",
-        "maharashtra cet result 2026",
-        "maharashtra mba cet result 2026",
-        "mah mba cet result 2026",
-        "mhcet mba result 2026",
+        "maharashtra cet result 2027",
+        "maharashtra mba cet result 2027",
+        "mah mba cet result 2027",
+        "mhcet mba result 2027",
         "mhcet result check link",
         "maharastra mba result",
+        "mba admission 2027",
+        "pgdm admission 2027",
+        "degree admission 2027",
     ],
     openGraph: {
-        title: "MHCET MBA 2026 Score Calculator & Rank Predictor",
-        description: "Free MHCET MBA 2026 score calculator. Predict your marks, percentile, and rank for JBIMS, SIMSREE & more.",
+        title: "MHCET MBA 2027 Score Calculator & Rank Predictor",
+        description: "Free MHCET MBA 2027 score calculator. Predict your marks, percentile, and rank for JBIMS, SIMSREE & more.",
         type: "website",
     },
 };
@@ -46,7 +49,7 @@ export default function MhcetCalculatorPage() {
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "How is MHCET MBA 2026 score calculated?",
+                "name": "How is MHCET MBA 2027 score calculated?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "The MHCET MBA score is the total number of correct answers. Each correct answer gets +1 mark. There is no negative marking for incorrect or unattempted questions."
@@ -54,18 +57,18 @@ export default function MhcetCalculatorPage() {
             },
             {
                 "@type": "Question",
-                "name": "What is the cutoff for JBIMS in MHCET MBA 2026?",
+                "name": "What is the cutoff for JBIMS in MHCET MBA 2027?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "JBIMS typically requires a 99.99 percentile. Based on 2026 trends, this equates to a raw score of approximately 155-160+ out of 200."
+                    "text": "JBIMS typically requires a 99.99 percentile. Based on 2027 trends, this equates to a raw score of approximately 155-160+ out of 200."
                 }
             },
             {
                 "@type": "Question",
-                "name": "When will the MHCET MBA 2026 answer key be released?",
+                "name": "When will the MHCET MBA 2027 answer key be released?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The Phase 1 answer key is expected soon after the Phase 2 exam is conducted on May 9, 2026. Usually, the CET Cell releases the answer key within 10 days of the last exam date."
+                    "text": "The Phase 1 answer key is expected soon after the Phase 2 exam is conducted on May 9, 2027. Usually, the CET Cell releases the answer key within 10 days of the last exam date."
                 }
             }
         ]
@@ -74,8 +77,8 @@ export default function MhcetCalculatorPage() {
     const webAppSchema = {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "MHCET MBA 2026 Score Calculator",
-        "description": "Online tool to calculate MHCET MBA 2026 score and predict percentile for top Maharashtra MBA colleges.",
+        "name": "MHCET MBA 2027 Score Calculator",
+        "description": "Online tool to calculate MHCET MBA 2027 score and predict percentile for top Maharashtra MBA colleges.",
         "applicationCategory": "EducationalApplication",
         "operatingSystem": "All",
         "offers": {
@@ -100,7 +103,7 @@ export default function MhcetCalculatorPage() {
                             <span className="text-secondary underline decoration-[12px] underline-offset-8">MHCET MBA</span> Rank.
                         </h1>
                         <p className="text-xl md:text-2xl font-bold text-slate-600 leading-tight border-l-[12px] border-secondary pl-8">
-                            The most accurate MHCET MBA 2026 score calculator & rank predictor. 
+                            The most accurate MHCET MBA 2027 score calculator & rank predictor. 
                             Get your predicted percentile for JBIMS, SIMSREE, and PUMBA in seconds.
                         </p>
                     </div>
@@ -115,11 +118,11 @@ export default function MhcetCalculatorPage() {
                 <div className="mt-32 max-w-4xl">
                     <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
                         <BookOpen className="w-10 h-10 text-secondary" />
-                        MAH MBA CET 2026 Exam Details
+                        MAH MBA CET 2027 Exam Details
                     </h2>
                     <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
                         <p className="font-bold text-slate-700 leading-relaxed text-lg">
-                            The <strong>MAH MBA/MMS CET 2026</strong> is the gateway to top management institutes in Maharashtra. With over 300+ colleges participating, the competition for the top 10 institutes is fierce.
+                            The <strong>MAH MBA/MMS CET 2027</strong> is the gateway to top management institutes in Maharashtra. With over 300+ colleges participating, the competition for the top 10 institutes is fierce.
                         </p>
 
                         <div className="overflow-x-auto border-4 border-foreground mt-6">
@@ -168,7 +171,7 @@ export default function MhcetCalculatorPage() {
 
                 {/* FAQ */}
                 <div className="mt-32 max-w-4xl">
-                    <h2 className="text-4xl font-black uppercase tracking-tight mb-12">MHCET MBA 2026 FAQs</h2>
+                    <h2 className="text-4xl font-black uppercase tracking-tight mb-12">MHCET MBA 2027 FAQs</h2>
                     <div className="space-y-6">
                         <details className="bg-white border-4 border-foreground p-6 group cursor-pointer">
                             <summary className="text-xl font-black uppercase flex justify-between items-center list-none">

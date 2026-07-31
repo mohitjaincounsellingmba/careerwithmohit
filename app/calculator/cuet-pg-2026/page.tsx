@@ -9,39 +9,42 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/calculator/cuet-pg-2026',
   },
-    title: "CUET PG 2026 Score Calculator & Rank Predictor | Marks vs Percentile",
-    description: "Free CUET PG 2026 score calculator. Instantly calculate your raw score with official NTA marking scheme (+4/-1), predict percentile, check marks vs rank, and compare cutoffs for DU, JNU, BHU, TISS MBA & other PG programs.",
+    title: "CUET PG 2027 Score Calculator & Rank Predictor | Marks vs Percentile",
+    description: "Free CUET PG 2027 score calculator. Instantly calculate your raw score with official NTA marking scheme (+4/-1), predict percentile, check marks vs rank, and compare cutoffs for DU, JNU, BHU, TISS MBA & other PG programs.",
     keywords: [
         "CUET PG calculator",
-        "CUET PG 2026 score calculator",
+        "CUET PG 2027 score calculator",
         "CUET PG marks calculator",
-        "CUET PG rank predictor 2026",
+        "CUET PG rank predictor 2027",
         "CUET PG percentile predictor",
         "CUET PG marks vs percentile",
         "CUET PG marks vs rank",
-        "CUET PG 2026 result",
-        "CUET PG cutoff 2026",
+        "CUET PG 2027 result",
+        "CUET PG cutoff 2027",
         "CUET PG college predictor",
         "CUET PG marking scheme",
         "NTA CUET PG score",
-        "CUET PG 2026 exam date",
-        "CUET PG answer key 2026",
+        "CUET PG 2027 exam date",
+        "CUET PG answer key 2027",
         "CUET PG good score",
         "CUET PG MBA cutoff",
         "CUET PG DU admission",
         "CUET PG JNU cutoff",
-        "CUET PG BHU admission 2026",
-        "CUET PG expected cutoff 2026",
-        "calculate my cuet pg score 2026",
+        "CUET PG BHU admission 2027",
+        "CUET PG expected cutoff 2027",
+        "calculate my cuet pg score 2027",
         "best cuet pg score calculator",
-        "nta cuet pg 2026 marking scheme explained",
+        "nta cuet pg 2027 marking scheme explained",
         "how to calculate cuet pg score with negative marking",
         "cuet pg score predictor online",
-        "cuet pg raw score calculator 2026",
+        "cuet pg raw score calculator 2027",
+        "mba admission 2027",
+        "pgdm admission 2027",
+        "degree admission 2027",
     ],
     openGraph: {
-        title: "CUET PG 2026 Score Calculator & Rank Predictor",
-        description: "Free CUET PG 2026 score calculator. Predict your raw score, percentile, and rank. Compare cutoffs for DU, JNU, BHU, TISS & more.",
+        title: "CUET PG 2027 Score Calculator & Rank Predictor",
+        description: "Free CUET PG 2027 score calculator. Predict your raw score, percentile, and rank. Compare cutoffs for DU, JNU, BHU, TISS & more.",
         type: "website",
     },
 };
@@ -53,10 +56,10 @@ export default function CuetCalculatorPage() {
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the marking scheme for CUET PG 2026?",
+                "name": "What is the marking scheme for CUET PG 2027?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The CUET PG 2026 marking scheme awards +4 marks for every correct answer and deducts -1 mark for every incorrect answer. Unattempted questions carry zero marks. The exam has 75 questions with a maximum score of 300."
+                    "text": "The CUET PG 2027 marking scheme awards +4 marks for every correct answer and deducts -1 mark for every incorrect answer. Unattempted questions carry zero marks. The exam has 75 questions with a maximum score of 300."
                 }
             },
             {
@@ -69,7 +72,7 @@ export default function CuetCalculatorPage() {
             },
             {
                 "@type": "Question",
-                "name": "What is a good score in CUET PG 2026?",
+                "name": "What is a good score in CUET PG 2027?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A score above 200 out of 300 is considered good, typically placing you in the 90+ percentile. For top universities like DU, JNU, and BHU, a score of 230+ (99+ percentile) is ideal. For mid-tier universities, 150-180 marks are competitive."
@@ -77,15 +80,15 @@ export default function CuetCalculatorPage() {
             },
             {
                 "@type": "Question",
-                "name": "When will the CUET PG 2026 result be declared?",
+                "name": "When will the CUET PG 2027 result be declared?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The CUET PG 2026 exam was conducted from March 6 to March 27, 2026. The result is expected to be declared by April 2026 on the official NTA CUET PG website."
+                    "text": "The CUET PG 2027 exam was conducted from March 6 to March 27, 2027. The result is expected to be declared by April 2027 on the official NTA CUET PG website."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Which universities accept CUET PG 2026 scores for MBA admission?",
+                "name": "Which universities accept CUET PG 2027 scores for MBA admission?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Top universities accepting CUET PG scores for MBA include Delhi University (FMS & DMS), Jawaharlal Nehru University (JNU), Banaras Hindu University (BHU), University of Hyderabad, Pondicherry University, Aligarh Muslim University, Indira Gandhi National Open University (IGNOU), and several other central universities."
@@ -93,23 +96,23 @@ export default function CuetCalculatorPage() {
             },
             {
                 "@type": "Question",
-                "name": "How many questions are there in CUET PG 2026?",
+                "name": "How many questions are there in CUET PG 2027?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "CUET PG 2026 has 75 subject-specific multiple choice questions. Part A (General Aptitude) was removed for many subjects. The exam duration is 105 minutes and the total marks are 300."
+                    "text": "CUET PG 2027 has 75 subject-specific multiple choice questions. Part A (General Aptitude) was removed for many subjects. The exam duration is 105 minutes and the total marks are 300."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Is there negative marking in CUET PG 2026?",
+                "name": "Is there negative marking in CUET PG 2027?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, CUET PG 2026 has negative marking. For every incorrect answer, 1 mark is deducted (-1). For every correct answer, 4 marks are awarded (+4). Unanswered questions do not carry any penalty."
+                    "text": "Yes, CUET PG 2027 has negative marking. For every incorrect answer, 1 mark is deducted (-1). For every correct answer, 4 marks are awarded (+4). Unanswered questions do not carry any penalty."
                 }
             },
             {
                 "@type": "Question",
-                "name": "What is the CUET PG 2026 cutoff for DU MBA?",
+                "name": "What is the CUET PG 2027 cutoff for DU MBA?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Based on previous trends, the expected CUET PG cutoff for DU MBA (FMS & DMS) is around 230+ marks (99+ percentile) for General category. OBC category cutoff is expected around 210+ marks, and SC/ST around 170+ marks."
@@ -121,8 +124,8 @@ export default function CuetCalculatorPage() {
     const webAppSchema = {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "CUET PG 2026 Score Calculator & Rank Predictor",
-        "description": "Free online tool to calculate CUET PG 2026 raw score, predict percentile and rank based on official NTA marking scheme.",
+        "name": "CUET PG 2027 Score Calculator & Rank Predictor",
+        "description": "Free online tool to calculate CUET PG 2027 raw score, predict percentile and rank based on official NTA marking scheme.",
         "applicationCategory": "EducationalApplication",
         "operatingSystem": "All",
         "offers": {
@@ -147,7 +150,7 @@ export default function CuetCalculatorPage() {
                             <span className="text-primary underline decoration-[12px] underline-offset-8">CUET PG</span> Future.
                         </h1>
                         <p className="text-xl md:text-2xl font-bold text-slate-600 leading-tight border-l-[12px] border-primary pl-8">
-                            The most accurate CUET PG 2026 score calculator & rank predictor based on the latest NTA marking patterns.
+                            The most accurate CUET PG 2027 score calculator & rank predictor based on the latest NTA marking patterns.
                             Get your raw score, predicted percentile, and college cutoff insights in seconds.
                         </p>
                     </div>
@@ -162,11 +165,11 @@ export default function CuetCalculatorPage() {
                 <div className="mt-32 max-w-4xl">
                     <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
                         <BookOpen className="w-10 h-10 text-primary" />
-                        CUET PG 2026 Exam Overview
+                        CUET PG 2027 Exam Overview
                     </h2>
                     <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
                         <p className="font-bold text-slate-700 leading-relaxed text-lg">
-                            The <strong>Common University Entrance Test for Postgraduate (CUET PG) 2026</strong> is conducted by the <strong>National Testing Agency (NTA)</strong> for admission to various PG programs including MBA, M.A., M.Sc., M.Com., MCA, M.Ed., and more across 200+ Central, State, and Private Universities in India.
+                            The <strong>Common University Entrance Test for Postgraduate (CUET PG) 2027</strong> is conducted by the <strong>National Testing Agency (NTA)</strong> for admission to various PG programs including MBA, M.A., M.Sc., M.Com., MCA, M.Ed., and more across 200+ Central, State, and Private Universities in India.
                         </p>
 
                         <div className="overflow-x-auto border-4 border-foreground mt-6">
@@ -191,8 +194,8 @@ export default function CuetCalculatorPage() {
                                         <td className="p-5">Computer Based Test (CBT) – Online</td>
                                     </tr>
                                     <tr className="border-b-2 border-slate-200 bg-slate-50">
-                                        <td className="p-5 border-r-2 border-slate-200 font-black">Exam Date 2026</td>
-                                        <td className="p-5">March 6 – March 27, 2026</td>
+                                        <td className="p-5 border-r-2 border-slate-200 font-black">Exam Date 2027</td>
+                                        <td className="p-5">March 6 – March 27, 2027</td>
                                     </tr>
                                     <tr className="border-b-2 border-slate-200 bg-white">
                                         <td className="p-5 border-r-2 border-slate-200 font-black">Total Questions</td>
@@ -216,7 +219,7 @@ export default function CuetCalculatorPage() {
                                     </tr>
                                     <tr className="bg-slate-50">
                                         <td className="p-5 border-r-2 border-slate-200 font-black">Result Expected</td>
-                                        <td className="p-5">April 2026 (Expected)</td>
+                                        <td className="p-5">April 2027 (Expected)</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -228,7 +231,7 @@ export default function CuetCalculatorPage() {
                 <div className="mt-32 max-w-4xl">
                     <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
                         <TrendingUp className="w-10 h-10 text-primary" />
-                        CUET PG 2026 Expected Cutoff – Top Universities
+                        CUET PG 2027 Expected Cutoff – Top Universities
                     </h2>
                     <div className="overflow-x-auto border-4 border-foreground">
                         <table className="w-full text-left border-collapse">
@@ -287,7 +290,7 @@ export default function CuetCalculatorPage() {
                 <div className="mt-32 max-w-4xl">
                     <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
                         <Calendar className="w-10 h-10 text-primary" />
-                        CUET PG 2026 Important Dates
+                        CUET PG 2027 Important Dates
                     </h2>
                     <div className="overflow-x-auto border-4 border-foreground">
                         <table className="w-full text-left border-collapse">
@@ -300,31 +303,31 @@ export default function CuetCalculatorPage() {
                             <tbody className="text-base font-bold">
                                 <tr className="border-b-2 border-slate-200 bg-white">
                                     <td className="p-5 border-r-2 border-slate-200">Registration Start</td>
-                                    <td className="p-5">December 14, 2025</td>
+                                    <td className="p-5">December 14, 2026</td>
                                 </tr>
                                 <tr className="border-b-2 border-slate-200 bg-slate-50">
                                     <td className="p-5 border-r-2 border-slate-200">Registration Last Date</td>
-                                    <td className="p-5">January 14, 2026</td>
+                                    <td className="p-5">January 14, 2027</td>
                                 </tr>
                                 <tr className="border-b-2 border-slate-200 bg-white">
                                     <td className="p-5 border-r-2 border-slate-200">Correction Window</td>
-                                    <td className="p-5">January 18 – 20, 2026</td>
+                                    <td className="p-5">January 18 – 20, 2027</td>
                                 </tr>
                                 <tr className="border-b-2 border-slate-200 bg-slate-50">
                                     <td className="p-5 border-r-2 border-slate-200">Admit Card Release</td>
-                                    <td className="p-5">February 2026 (Expected)</td>
+                                    <td className="p-5">February 2027 (Expected)</td>
                                 </tr>
                                 <tr className="border-b-2 border-slate-200 bg-white">
                                     <td className="p-5 border-r-2 border-slate-200">Exam Dates</td>
-                                    <td className="p-5 text-primary font-black">March 6 – March 27, 2026</td>
+                                    <td className="p-5 text-primary font-black">March 6 – March 27, 2027</td>
                                 </tr>
                                 <tr className="border-b-2 border-slate-200 bg-slate-50">
                                     <td className="p-5 border-r-2 border-slate-200">Answer Key Release</td>
-                                    <td className="p-5">April 2026 (Expected)</td>
+                                    <td className="p-5">April 2027 (Expected)</td>
                                 </tr>
                                 <tr className="bg-white">
                                     <td className="p-5 border-r-2 border-slate-200">Result Declaration</td>
-                                    <td className="p-5 text-primary font-black">April 2026 (Expected)</td>
+                                    <td className="p-5 text-primary font-black">April 2027 (Expected)</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -335,7 +338,7 @@ export default function CuetCalculatorPage() {
                 <div className="mt-32 max-w-4xl">
                     <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
                         <GraduationCap className="w-10 h-10 text-primary" />
-                        Top Universities Accepting CUET PG 2026 Scores
+                        Top Universities Accepting CUET PG 2027 Scores
                     </h2>
                     <div className="bg-white border-4 border-foreground p-8 md:p-10 space-y-6">
                         <p className="font-bold text-slate-700 leading-relaxed">
@@ -403,7 +406,7 @@ export default function CuetCalculatorPage() {
                     <div className="p-8 border-4 border-foreground bg-white shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
                         <ShieldCheck className="w-12 h-12 text-primary mb-6" />
                         <h4 className="text-xl font-black uppercase mb-4">100% Accuracy</h4>
-                        <p className="font-bold text-slate-600">Calculated strictly according to the official +4/-1 NTA marking scheme for CUET PG 2026.</p>
+                        <p className="font-bold text-slate-600">Calculated strictly according to the official +4/-1 NTA marking scheme for CUET PG 2027.</p>
                     </div>
                     <div className="p-8 border-4 border-foreground bg-white shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
                         <BarChart3 className="w-12 h-12 text-blue-600 mb-6" />
@@ -421,13 +424,13 @@ export default function CuetCalculatorPage() {
                 <div className="mt-32 max-w-4xl">
                     <h2 className="text-4xl font-black uppercase tracking-tight mb-12 flex items-center gap-4">
                         <HelpCircle className="w-10 h-10 text-primary" />
-                        CUET PG 2026 – Frequently Asked Questions
+                        CUET PG 2027 – Frequently Asked Questions
                     </h2>
                     <div className="space-y-8">
                         <div className="bg-white border-4 border-foreground p-8">
-                            <h3 className="text-xl font-black uppercase mb-4">What is the marking scheme for CUET PG 2026?</h3>
+                            <h3 className="text-xl font-black uppercase mb-4">What is the marking scheme for CUET PG 2027?</h3>
                             <p className="font-bold text-slate-600 leading-relaxed">
-                                The CUET PG 2026 exam follows the official NTA marking scheme: <strong>+4 marks</strong> for every correct answer and <strong>-1 mark</strong> for every incorrect answer. Unattempted questions carry <strong>zero marks</strong>. With 75 questions, the maximum score is <strong>300 marks</strong>.
+                                The CUET PG 2027 exam follows the official NTA marking scheme: <strong>+4 marks</strong> for every correct answer and <strong>-1 mark</strong> for every incorrect answer. Unattempted questions carry <strong>zero marks</strong>. With 75 questions, the maximum score is <strong>300 marks</strong>.
                             </p>
                         </div>
                         <div className="bg-white border-4 border-foreground p-8">
@@ -437,28 +440,28 @@ export default function CuetCalculatorPage() {
                             </p>
                         </div>
                         <div className="bg-white border-4 border-foreground p-8">
-                            <h3 className="text-xl font-black uppercase mb-4">What is a good score in CUET PG 2026?</h3>
+                            <h3 className="text-xl font-black uppercase mb-4">What is a good score in CUET PG 2027?</h3>
                             <p className="font-bold text-slate-600 leading-relaxed">
                                 For top-tier universities like DU (FMS, DMS), JNU, or BHU, a score of <strong>200+</strong> is generally considered excellent (95+ percentile).
                                 A score above <strong>230+</strong> can place you in the <strong>99+ percentile</strong> bracket. For moderate universities, <strong>140-180 marks</strong> is competitive.
                             </p>
                         </div>
                         <div className="bg-white border-4 border-foreground p-8">
-                            <h3 className="text-xl font-black uppercase mb-4">When will CUET PG 2026 result be declared?</h3>
+                            <h3 className="text-xl font-black uppercase mb-4">When will CUET PG 2027 result be declared?</h3>
                             <p className="font-bold text-slate-600 leading-relaxed">
-                                The CUET PG 2026 exam was conducted from <strong>March 6 to March 27, 2026</strong>. The NTA answer key is expected in <strong>early April 2026</strong>, and the final result is expected by <strong>mid to late April 2026</strong>. Results will be available on the official NTA CUET PG website.
+                                The CUET PG 2027 exam was conducted from <strong>March 6 to March 27, 2027</strong>. The NTA answer key is expected in <strong>early April 2027</strong>, and the final result is expected by <strong>mid to late April 2027</strong>. Results will be available on the official NTA CUET PG website.
                             </p>
                         </div>
                         <div className="bg-white border-4 border-foreground p-8">
                             <h3 className="text-xl font-black uppercase mb-4">How many questions are there in CUET PG?</h3>
                             <p className="font-bold text-slate-600 leading-relaxed">
-                                CUET PG 2026 consists of <strong>75 subject-specific MCQs</strong>. Part A (General Aptitude) has been removed for many subjects starting from 2024. The exam is conducted in <strong>CBT (Computer Based Test) mode</strong> with a duration of <strong>105 minutes</strong>.
+                                CUET PG 2027 consists of <strong>75 subject-specific MCQs</strong>. Part A (General Aptitude) has been removed for many subjects starting from 2024. The exam is conducted in <strong>CBT (Computer Based Test) mode</strong> with a duration of <strong>105 minutes</strong>.
                             </p>
                         </div>
                         <div className="bg-white border-4 border-foreground p-8">
-                            <h3 className="text-xl font-black uppercase mb-4">Is there negative marking in CUET PG 2026?</h3>
+                            <h3 className="text-xl font-black uppercase mb-4">Is there negative marking in CUET PG 2027?</h3>
                             <p className="font-bold text-slate-600 leading-relaxed">
-                                Yes, CUET PG 2026 has <strong>negative marking</strong>. For every incorrect answer, <strong>1 mark is deducted</strong>. This makes accuracy very important — avoid blind guessing, especially in the last few minutes.
+                                Yes, CUET PG 2027 has <strong>negative marking</strong>. For every incorrect answer, <strong>1 mark is deducted</strong>. This makes accuracy very important — avoid blind guessing, especially in the last few minutes.
                             </p>
                         </div>
                         <div className="bg-white border-4 border-foreground p-8">
@@ -486,13 +489,13 @@ export default function CuetCalculatorPage() {
                             <span className="font-black text-lg group-hover:text-primary transition-colors">Top MBA Colleges Accepting CUET PG →</span>
                         </Link>
                         <Link href="/blog/cuet-pg-2026-result-expected-date" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
-                            <span className="font-black text-lg group-hover:text-primary transition-colors">CUET PG 2026 Result Expected Date →</span>
+                            <span className="font-black text-lg group-hover:text-primary transition-colors">CUET PG 2027 Result Expected Date →</span>
                         </Link>
                         <Link href="/blog/best-mba-colleges-in-delhi-2026" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
-                            <span className="font-black text-lg group-hover:text-primary transition-colors">Best MBA Colleges in Delhi 2026 →</span>
+                            <span className="font-black text-lg group-hover:text-primary transition-colors">Best MBA Colleges in Delhi 2027 →</span>
                         </Link>
                         <Link href="/blog/mba-pgdm-admissions-faq-2026" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
-                            <span className="font-black text-lg group-hover:text-primary transition-colors">MBA/PGDM Admissions FAQ 2026 →</span>
+                            <span className="font-black text-lg group-hover:text-primary transition-colors">MBA/PGDM Admissions FAQ 2027 →</span>
                         </Link>
                     </div>
                 </div>

@@ -5,19 +5,20 @@ import { MbaCollegesPuneClient } from "@/components/MbaCollegesPuneClient";
 import { JsonLd } from "@/components/JsonLd";
 
 export const metadata = {
-  title: "Top MBA Colleges in Pune 2026: Fees, Placements & Admission | CareerWithMohit",
-  description: "Explore top MBA/PGDM colleges in Pune for 2026. Compare fees, 2025 placement statistics (SIBM, PUMBA, DY Patil), rankings, and accepted entrance exams (SNAP, MAH CET, CAT, CMAT). Get direct admission guidance.",
+  title: "Top MBA Colleges in Pune 2027: Fees, Placements & Admission | CareerWithMohit",
+  description: "Explore top MBA/PGDM colleges in Pune for 2027. Compare fees, 2025 placement statistics (SIBM, PUMBA, DY Patil), rankings, and accepted entrance exams (SNAP, MAH CET, CAT, CMAT). Get direct admission guidance.",
   keywords: [
-    "top MBA colleges in pune", "best pgdm colleges pune 2026", "sibm pune placement report",
-    "pumba pune mba fees", "low fees high placement mba colleges pune", "direct mba admission in pune",
-    "mah cet colleges in pune", "snap accepting colleges pune", "best mba placement colleges pune"
+    "top MBA colleges in pune 2027", "best pgdm colleges pune 2027", "sibm pune placement report",
+    "pumba pune mba fees", "low fees high placement mba colleges pune", "direct mba admission in pune 2027",
+    "mah cet colleges in pune 2027", "snap accepting colleges pune", "best mba placement colleges pune",
+    "mba admission 2027", "pgdm admission 2027", "degree admission 2027"
   ],
   alternates: {
     canonical: "/colleges/mba-colleges-pune",
   },
   openGraph: {
-    title: "Top MBA Colleges in Pune 2026: Fees, Placements & Admission",
-    description: "Compare fee structures, average placements, rankings, and cutoffs for leading MBA/PGDM colleges in Pune. Get expert guidance for 2026 admission.",
+    title: "Top MBA Colleges in Pune 2027: Fees, Placements & Admission",
+    description: "Compare fee structures, average placements, rankings, and cutoffs for leading MBA/PGDM colleges in Pune. Get expert guidance for 2027 admission.",
     type: "website",
     url: "https://www.careerwithmohit.online/colleges/mba-colleges-pune",
   },
@@ -64,7 +65,7 @@ export default function MbaCollegesPunePage() {
   const collectionSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Top MBA Colleges in Pune 2026",
+    "name": "Top MBA Colleges in Pune 2027",
     "description": "Comprehensive directory of top MBA and PGDM colleges in Pune with fee structures, placement packages, accepted entrance exams, and rankings.",
     "url": "https://www.careerwithmohit.online/colleges/mba-colleges-pune",
     "mainEntity": {

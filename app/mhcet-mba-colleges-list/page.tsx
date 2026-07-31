@@ -9,16 +9,18 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/mhcet-mba-colleges-list',
   },
-    title: "MHCET MBA 2026 Colleges List & Answer Key PDF | Direct Admission",
-    description: "Download the complete MHCET MBA 2026 colleges list with cutoffs, fees, and placements. Get the official answer key PDF and expert counseling for JBIMS, SIMSREE, and top maharashtra MBA institutes.",
+    title: "MHCET MBA 2027 Colleges List & Answer Key PDF | Direct Admission",
+    description: "Download the complete MHCET MBA 2027 colleges list with cutoffs, fees, and placements. Get the official answer key PDF and expert counseling for JBIMS, SIMSREE, and top maharashtra MBA institutes.",
     keywords: [
-        "MHCET MBA colleges list 2026",
+        "MHCET MBA colleges list 2027",
         "MHCET MBA answer key PDF",
-        "MAH MBA CET 2026 cutoffs",
+        "MAH MBA CET 2027 cutoffs",
         "top MBA colleges in Maharashtra",
-        "JBIMS Mumbai admission 2026",
+        "JBIMS Mumbai admission 2027",
         "SIMSREE Pune cutoffs",
-        "MHCET MBA counseling support",
+        "MHCET MBA counseling support 2027",
+        "mba admission 2027",
+        "pgdm admission 2027",
     ],
 };
 
@@ -51,14 +53,14 @@ export default function MhcetCollegesPage() {
                                 PDF Pack.
                             </h1>
                             <p className="text-xl font-bold text-slate-600 border-l-8 border-primary pl-6 mb-10 max-w-xl">
-                                Submit the form to receive the **MHCET MBA 2026 Top Colleges List (Fees & Placements)** and the **Official Answer Key PDF** directly on your WhatsApp and Email.
+                                Submit the form to receive the **MHCET MBA 2027 Top Colleges List (Fees & Placements)** and the **Official Answer Key PDF** directly on your WhatsApp and Email.
                             </p>
                             <div className="flex flex-wrap gap-4">
                                 <div className="flex items-center gap-2 bg-white border-2 border-foreground px-4 py-2 font-black text-xs uppercase shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
                                     <CheckCircle2 className="w-4 h-4 text-green-500" /> 300+ Colleges
                                 </div>
                                 <div className="flex items-center gap-2 bg-white border-2 border-foreground px-4 py-2 font-black text-xs uppercase shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-                                    <CheckCircle2 className="w-4 h-4 text-green-500" /> 2026 Cutoffs
+                                    <CheckCircle2 className="w-4 h-4 text-green-500" /> 2027 Cutoffs
                                 </div>
                                 <div className="flex items-center gap-2 bg-white border-2 border-foreground px-4 py-2 font-black text-xs uppercase shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
                                     <CheckCircle2 className="w-4 h-4 text-green-500" /> ROI Analysis
@@ -97,7 +99,7 @@ export default function MhcetCollegesPage() {
                         <FileText className="w-12 h-12 text-secondary" />
                         <h3 className="text-2xl font-black uppercase tracking-tight">Answer Key PDF</h3>
                         <p className="font-bold text-slate-600 leading-relaxed">
-                            Official MAH MBA CET 2026 Answer Key PDF releases for all shifts. 
+                            Official MAH MBA CET 2027 Answer Key PDF releases for all shifts. 
                             Cross-verify your responses and predict your raw score before result declaration.
                         </p>
                     </div>
@@ -106,14 +108,14 @@ export default function MhcetCollegesPage() {
                         <GraduationCap className="w-12 h-12 text-emerald-500" />
                         <h3 className="text-2xl font-black uppercase tracking-tight">Admission Counseling</h3>
                         <p className="font-bold text-slate-600 leading-relaxed">
-                            Expert guidance for Centralized Admission Process (CAP) rounds 2026. 
+                            Expert guidance for Centralized Admission Process (CAP) rounds 2027. 
                             Learn how to optimize your option form to get the best college for your rank.
                         </p>
                     </div>
                 </div>
 
                 <div className="mt-32">
-                    <h2 className="text-4xl font-black uppercase mb-12 border-b-8 border-foreground inline-block">Estimated Cutoffs 2026</h2>
+                    <h2 className="text-4xl font-black uppercase mb-12 border-b-8 border-foreground inline-block">Estimated Cutoffs 2027</h2>
                     <div className="overflow-x-auto border-[6px] border-foreground">
                         <table className="w-full text-left border-collapse">
                             <thead className="bg-foreground text-white uppercase text-sm font-black tracking-widest">

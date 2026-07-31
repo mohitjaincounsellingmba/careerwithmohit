@@ -128,7 +128,7 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
           <div className="pt-8 flex flex-wrap justify-center gap-4">
              <button
                 onClick={() => {
-                  const text = `I just scored ${correct}/${total} in the ${config.name} 2026 Mock Test! 🚀 Percentile: ${percentage}%. Challenge me at: https://www.careerwithmohit.online/tools/${config.slug}-mock-test`;
+                  const text = `I just scored ${correct}/${total} in the ${config.name} 2027 Mock Test! 🚀 Percentile: ${percentage}%. Challenge me at: https://www.careerwithmohit.online/tools/${config.slug}-mock-test`;
                   window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank');
                 }}
                 className="bg-[#25D366] text-white px-8 py-4 rounded-2xl font-black uppercase text-xs tracking-widest flex items-center gap-2 shadow-xl shadow-[#25D366]/20 hover:scale-105 transition-all"

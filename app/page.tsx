@@ -87,12 +87,12 @@ const SERVICES = [
 ];
 
 export const metadata: Metadata = {
-  title: "Mohit Jain | MBA Admissions & Career Counselling Expert 2026",
-  description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA, PGDM, and B.Tech admissions coaching and placement strategy.",
+  title: "Mohit Jain | MBA & PGDM Admissions & Career Counselling Expert 2027",
+  description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA 2027, PGDM 2027, B.Tech, and other degree admissions coaching and placement strategy.",
   keywords: [
-    "career counsellor India", "MBA admission guidance 2026", "B.Tech admission expert", 
-    "best career counsellor Delhi NCR", "CAT 2026 preparation",
-    "Direct MBA admission", "MBA placement report 2025", "ROI MBA colleges",
+    "career counsellor India", "MBA admission guidance 2027", "PGDM admission 2027", "B.Tech admission expert", 
+    "best career counsellor Delhi NCR", "CAT 2027 preparation", "degree admission 2027",
+    "Direct MBA admission 2027", "MBA placement report 2025", "ROI MBA colleges",
     "Noida", "Ghaziabad", "Pune", "Mumbai", "Bangalore", "Jaipur", "Delhi NCR"
   ],
   alternates: {
@@ -117,7 +117,7 @@ export default function Home() {
         <div className="relative mx-auto max-w-7xl text-center z-10">
           <h1 className="font-display text-5xl font-extrabold tracking-tighter text-white sm:text-7xl md:text-8xl leading-none uppercase">
             Best <DynamicHeroText /> Colleges <br className="hidden sm:block" />
-            <span className="bg-accent text-foreground px-4 py-1 inline-block mt-4 -rotate-2 border-4 border-foreground">Admission 2026</span>
+            <span className="bg-accent text-foreground px-4 py-1 inline-block mt-4 -rotate-2 border-4 border-foreground">Admission 2027</span>
           </h1>
           <div className="mt-8 flex justify-center">
             <HomeSearch />
@@ -145,7 +145,7 @@ export default function Home() {
           <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
             <div className="max-w-2xl">
               <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase leading-none">
-                Admission 2026 <span className="text-primary tracking-tighter italic">Strategic Hub</span>
+                Admission 2027 <span className="text-primary tracking-tighter italic">Strategic Hub</span>
               </h2>
               <p className="mt-4 text-xl font-bold text-gray-600">
                 End-to-end support for your MBA, B.Tech, and professional journey across India.
@@ -251,7 +251,7 @@ export default function Home() {
           <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
             <div className="max-w-2xl">
               <span className="bg-accent text-foreground px-5 py-2 text-sm font-black uppercase tracking-widest inline-block border-4 border-foreground mb-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-                MBA ADMISSIONS 2026
+                MBA / PGDM ADMISSIONS 2027
               </span>
               <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase leading-none">
                 Top Tier <span className="text-primary italic">MBA</span> Colleges

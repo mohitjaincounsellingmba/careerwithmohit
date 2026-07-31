@@ -7,7 +7,7 @@ import { JsonLd } from "@/components/JsonLd";
 export const metadata = {
   title: "Latest News | Education & Career Updates",
   description: "Stay updated with the latest education news, admission alerts, and career growth insights from CareerWithMohit.",
-  keywords: ['MBA admission news', 'CAT 2026 updates', 'JEE Advanced news', 'education news India', 'career updates', 'B-school admission alerts'],
+  keywords: ['MBA admission news', 'CAT 2027 updates', 'MBA admission 2027', 'PGDM admission 2027', 'degree admission 2027', 'JEE Advanced news', 'education news India', 'career updates', 'B-school admission alerts'],
   alternates: {
     canonical: "/news",
   },

@@ -33,11 +33,11 @@ function getSimilarColleges(current: CollegeMetadata, all: CollegeMetadata[]) {
 function getCategoryKeywords(college: { name: string; location: string; category: string; courses: string[]; fees: string; avg_placement: string; exams: string[] }): string[] {
   const base = [
     `${college.name} review`,
-    `${college.name} fees structure 2026`,
+    `${college.name} fees structure 2027`,
     `${college.name} average package`,
-    `${college.name} placement report 2026`,
+    `${college.name} placement report 2027`,
     `${college.name} highest package`,
-    `${college.name} cutoff 2026`,
+    `${college.name} cutoff 2027`,
     `${college.name} admission process`,
     `${college.name} ranking`,
     `${college.name} ${college.location}`,
@@ -52,11 +52,12 @@ function getCategoryKeywords(college: { name: string; location: string; category
       ...base,
       `${college.name} MBA fees`,
       `${college.name} PGDM placement`,
-      `${college.name} MBA admission 2026`,
+      `${college.name} MBA admission 2027`,
+      `${college.name} PGDM admission 2027`,
       `${college.name} MBA average package`,
       `${college.name} ROI analysis`,
       `MBA colleges ${college.location} with low fees`,
-      `best MBA college ${college.location} 2026`,
+      `best MBA college ${college.location} 2027`,
       ...college.courses.map(c => `${college.name} ${c}`),
     ];
   }
@@ -66,10 +67,10 @@ function getCategoryKeywords(college: { name: string; location: string; category
       ...base,
       `${college.name} B.Tech fees`,
       `${college.name} CSE placement`,
-      `${college.name} B.Tech admission 2026`,
+      `${college.name} B.Tech admission 2027`,
       `${college.name} JEE cutoff`,
       `engineering colleges ${college.location}`,
-      `best B.Tech college ${college.location} 2026`,
+      `best B.Tech college ${college.location} 2027`,
       ...college.courses.map(c => `${college.name} ${c}`),
     ];
   }
@@ -79,9 +80,9 @@ function getCategoryKeywords(college: { name: string; location: string; category
     ...base,
     `${college.name} BBA fees`,
     `${college.name} BCA admission`,
-    `${college.name} BBA placement 2026`,
+    `${college.name} BBA placement 2027`,
     `BBA colleges ${college.location}`,
-    `best BBA college ${college.location} 2026`,
+    `best BBA college ${college.location} 2027`,
     ...college.courses.map(c => `${college.name} ${c}`),
   ];
 }
@@ -96,14 +97,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   let description: string;
 
   if (college.category === "Management") {
-    title = `${college.name}, ${college.location} – MBA/PGDM Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2026, Cutoff, Review | CareerWithMohit`;
-    description = `Detailed review of ${college.name} in ${college.location}: MBA/PGDM fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. NIRF ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, cutoff, and admission process for 2026 with Mohit Jain's expert analysis.`;
+    title = `${college.name}, ${college.location} – MBA/PGDM Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2027, Cutoff, Review | CareerWithMohit`;
+    description = `Detailed review of ${college.name} in ${college.location}: MBA/PGDM fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. NIRF ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, cutoff, and admission process for 2027 with Mohit Jain's expert analysis.`;
   } else if (college.category === "Engineering") {
-    title = `${college.name}, ${college.location} – B.Tech Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2026, Ranking, Review | CareerWithMohit`;
-    description = `Complete guide for ${college.name} in ${college.location}: B.Tech fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, JEE cutoff, and admission process for 2026.`;
+    title = `${college.name}, ${college.location} – B.Tech Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2027, Ranking, Review | CareerWithMohit`;
+    description = `Complete guide for ${college.name} in ${college.location}: B.Tech fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, JEE cutoff, and admission process for 2027.`;
   } else {
-    title = `${college.name}, ${college.location} – BBA/BCA Fees ${college.fees}, Admission 2026, Placement ${college.avg_placement}, Review | CareerWithMohit`;
-    description = `Explore ${college.name} in ${college.location}: BBA/BCA fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Check courses, admission process, entrance exams, and expert review for 2026 admission.`;
+    title = `${college.name}, ${college.location} – BBA/BCA Fees ${college.fees}, Admission 2027, Placement ${college.avg_placement}, Review | CareerWithMohit`;
+    description = `Explore ${college.name} in ${college.location}: BBA/BCA fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Check courses, admission process, entrance exams, and expert review for 2027 admission.`;
   }
 
   const keywords = getCategoryKeywords(college);
@@ -116,7 +117,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       canonical: `/colleges/${slug}`,
     },
     openGraph: {
-      title: `${college.name} – Fees, Placement, Admission 2026 | CareerWithMohit`,
+      title: `${college.name} – Fees, Placement, Admission 2027 | CareerWithMohit`,
       description,
       type: "website",
       url: `/colleges/${slug}`,

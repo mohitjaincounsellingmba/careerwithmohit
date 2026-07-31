@@ -21,7 +21,7 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
     email: '',
     phone: '',
     location: '',
-    targetExam: 'MAH-MBA-CET 2026',
+    targetExam: 'MAH-MBA-CET 2027',
     selectedSet: 1
   });
 
