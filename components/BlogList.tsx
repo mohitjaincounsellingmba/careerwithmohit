@@ -177,19 +177,19 @@ function matchCategoryParam(param: string | null): string {
     }
   }
 
-  // Substring / keyword match
+  // Substring / keyword match in logical priority order
   const lower = p.toLowerCase();
-  if (lower.includes('mba') || lower.includes('pgdm')) return 'MBA & PGDM';
   if (lower.includes('online')) return 'Online Degrees';
-  if (lower.includes('job') || lower.includes('career') || lower.includes('salary')) return 'Jobs & Careers';
-  if (lower.includes('btech') || lower.includes('engineering') || lower.includes('mtech')) return 'B.Tech & Engineering';
-  if (lower.includes('bba') || lower.includes('bms')) return 'BBA & BMS';
-  if (lower.includes('exam') || lower.includes('admission') || lower.includes('cuet')) return 'Exams & Admissions';
-  if (lower.includes('medical') || lower.includes('mbbs') || lower.includes('neet')) return 'Medical & MBBS';
   if (lower.includes('bca') || lower.includes('mca')) return 'BCA & MCA';
-  if (lower.includes('business') || lower.includes('finance')) return 'Business & Finance';
-  if (lower.includes('review') || lower.includes('college')) return 'College Reviews';
   if (lower.includes('law') || lower.includes('llb') || lower.includes('clat')) return 'Law';
+  if (lower.includes('medical') || lower.includes('mbbs') || lower.includes('neet')) return 'Medical & MBBS';
+  if (lower.includes('mba') || lower.includes('pgdm')) return 'MBA & PGDM';
+  if (lower.includes('btech') || lower.includes('engineering') || lower.includes('mtech')) return 'B.Tech & Engineering';
+  if (lower.includes('bba') || lower.includes('bms') || lower.includes('ipm')) return 'BBA & BMS';
+  if (lower.includes('exam') || lower.includes('admission') || lower.includes('cuet') || lower.includes('placement') || lower.includes('cutoff')) return 'Exams & Admissions';
+  if (lower.includes('review') || lower.includes('college') || lower.includes('university')) return 'College Reviews';
+  if (lower.includes('business') || lower.includes('finance')) return 'Business & Finance';
+  if (lower.includes('job') || lower.includes('career') || lower.includes('salary') || lower.includes('hiring') || lower.includes('recruitment')) return 'Jobs & Careers';
   
   return 'All Posts';
 }
