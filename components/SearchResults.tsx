@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import type { PostData } from "@/lib/markdown";
+import type { PostData } from "@/lib/blog-categories";
 
 export function SearchResults({ posts }: { posts: PostData[] }) {
   const query = useSearchParams().get("q") || "";

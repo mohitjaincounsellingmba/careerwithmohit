@@ -249,6 +249,12 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               <div className="bg-foreground text-white px-5 py-2 text-sm font-black uppercase tracking-widest -rotate-1 border-4 border-foreground">
                 {new Date(postData.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
               </div>
+              <Link
+                href={`/blog/?category=${encodeURIComponent(postData.category || 'General & Career Guide')}`}
+                className="bg-primary hover:bg-secondary text-white px-5 py-2 text-sm font-black uppercase tracking-widest rotate-1 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-transform hover:-translate-y-0.5 inline-block"
+              >
+                {postData.category || 'General & Career Guide'}
+              </Link>
               <div className="bg-accent text-foreground px-5 py-2 text-sm font-black uppercase tracking-widest rotate-1 border-4 border-foreground">
                 Expert Analysis
               </div>
@@ -397,16 +403,38 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         {/* Display Ad unit under the blog article */}
         <AdUnit slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_BLOG_POST || "9876543210"} />
 
-        {/* RELATED CONTENT - TAXILA STYLE */}
+        {/* RELATED CONTENT IN SAME CATEGORY */}
         <div className="mt-20 border-t-4 border-foreground pt-12">
-          <h4 className="text-2xl font-black uppercase mb-8">Also Check Out:</h4>
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
+            <h4 className="text-2xl font-black uppercase">
+              More in <span className="bg-accent px-2 py-0.5 rounded border-2 border-foreground">{postData.category || 'General & Career Guide'}</span>:
+            </h4>
+            <Link
+              href={`/blog/?category=${encodeURIComponent(postData.category || 'General & Career Guide')}`}
+              className="inline-flex items-center gap-1.5 text-sm font-black uppercase tracking-wider text-primary hover:underline"
+            >
+              <span>View All {postData.category} Posts</span>
+              <span>&rarr;</span>
+            </Link>
+          </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {getSortedPostsData().filter(p => p.slug !== slug).slice(0, 2).map(other => (
-              <Link key={other.slug} href={`/blog/${other.slug}`} className="group p-8 border-4 border-foreground bg-white hover:bg-accent transition-all shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col justify-between">
-                <h5 className="text-xl font-black uppercase leading-tight group-hover:underline">{other.title}</h5>
-                <span className="mt-6 text-sm font-black uppercase text-primary">Read Article →</span>
-              </Link>
-            ))}
+            {(() => {
+              const allPosts = getSortedPostsData().filter(p => p.slug !== slug);
+              const sameCat = allPosts.filter(p => (p.category || 'General & Career Guide') === (postData.category || 'General & Career Guide'));
+              const displayPosts = sameCat.length >= 2 ? sameCat.slice(0, 2) : allPosts.slice(0, 2);
+
+              return displayPosts.map(other => (
+                <Link key={other.slug} href={`/blog/${other.slug}`} className="group p-8 border-4 border-foreground bg-white hover:bg-accent transition-all shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col justify-between">
+                  <div>
+                    <span className="inline-block px-2.5 py-0.5 rounded bg-secondary text-white text-xs font-black uppercase mb-4 border border-foreground">
+                      {other.category || 'General & Career Guide'}
+                    </span>
+                    <h5 className="text-xl font-black uppercase leading-tight group-hover:underline">{other.title}</h5>
+                  </div>
+                  <span className="mt-6 text-sm font-black uppercase text-primary group-hover:text-foreground">Read Article &rarr;</span>
+                </Link>
+              ));
+            })()}
           </div>
         </div>
 

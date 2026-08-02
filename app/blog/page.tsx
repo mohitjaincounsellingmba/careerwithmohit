@@ -54,7 +54,7 @@ export default function BlogPage() {
               </span>
             </h1>
             <p className="mt-8 text-2xl font-bold text-gray-600 leading-relaxed italic">
-              "Providing Uncompromised Insights & Guidance for Your Academic Excellence."
+              "Providing Uncompromised Insights &amp; Guidance for Your Academic Excellence — Easily Filter by Your Desired Category Below."
             </p>
           </div>
         </div>
