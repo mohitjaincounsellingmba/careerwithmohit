@@ -61,3 +61,11 @@ Yes, there is a penalty of -0.25 marks for every wrong answer in DSSSB. There is
 ### What are the qualifying marks for DSSSB?
 The minimum qualifying marks for the written exam are 40% for General, 35% for OBC (Delhi), and 30% for SC/ST/PH candidates in both Part A and Part B separately.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

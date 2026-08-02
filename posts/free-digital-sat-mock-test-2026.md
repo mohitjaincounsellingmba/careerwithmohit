@@ -52,3 +52,11 @@ A total score of 1400+ out of 1600 is considered very competitive and places you
 ### Is a calculator allowed on the Digital SAT Math section?
 Yes, a built-in Desmos graphing calculator is available inside the Bluebook app for the entire Math section, and you can also bring an approved hand-held calculator.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

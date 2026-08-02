@@ -51,3 +51,11 @@ Each correct answer carries +1 mark, while every incorrect answer results in a p
 ### Which sections are tested in CLAT?
 CLAT tests candidates across 5 sections: English Language, Current Affairs & GK, Legal Reasoning, Logical Reasoning, and Quantitative Techniques (Data Interpretation).
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

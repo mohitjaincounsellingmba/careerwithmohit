@@ -52,3 +52,11 @@ No, the English Language section is only qualifying in nature. Candidates must c
 ### Is there negative marking in the LIC AAO exam?
 No, there is no negative marking in the LIC AAO Prelims exam. Candidates can attempt all questions without fear of penalty.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

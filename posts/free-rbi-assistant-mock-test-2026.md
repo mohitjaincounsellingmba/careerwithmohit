@@ -52,3 +52,11 @@ Yes, RBI Assistant cutoffs are exceptionally high (often 90+ out of 100 for gene
 ### Is there negative marking in RBI Assistant?
 Yes, a penalty of -0.25 marks is applied for every wrong answer marked by the candidate.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -52,3 +52,11 @@ No, there is no negative marking in the REET written examination. Candidates can
 ### What are the qualifying marks for REET?
 General category candidates need to score at least 60% (90/150) to qualify, while non-creamy layer OBC, SC, and ST candidates need 55% (82/150).
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
