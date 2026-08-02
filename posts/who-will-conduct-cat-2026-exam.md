@@ -3,7 +3,9 @@ title: 'Who Will Conduct CAT 2026 Exam? Convening IIM, Rotation History & Exam D
 date: '2026-07-27'
 category: MBA
 description: >-
-  Find out which IIM will conduct the CAT 2026 exam. Complete guide to the convening IIM rotation history, official exam dates, paper pattern expectations by IIM Indore, registration schedule, and top MBA colleges in India.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Find out which IIM will conduct the CAT 2026
+  exam. C...
 keywords:
   - who will conduct cat 2026 exam
   - which iim will conduct cat 2026
@@ -19,23 +21,34 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
 faqs:
   - question: Who is conducting the CAT 2026 exam?
     answer: >-
-      The **Indian Institute of Management (IIM) Indore** is the convening and conducting body for the **CAT 2026 exam**, following the rotational policy among the top six older IIMs.
+      The **Indian Institute of Management (IIM) Indore** is the convening and
+      conducting body for the **CAT 2026 exam**, following the rotational policy
+      among the top six older IIMs.
   - question: What is the expected exam date for CAT 2026?
     answer: >-
-      CAT 2026 is scheduled to be conducted on **Sunday, November 29, 2026** (the last Sunday of November), across over 170 exam cities in India.
+      CAT 2026 is scheduled to be conducted on **Sunday, November 29, 2026**
+      (the last Sunday of November), across over 170 exam cities in India.
   - question: How are convening IIMs selected for conducting the CAT exam?
     answer: >-
-      The responsibility of convening CAT rotates annually among the **six older IIMs**: IIM Ahmedabad, IIM Bangalore, IIM Calcutta, IIM Lucknow, IIM Kozhikode, and IIM Indore.
+      The responsibility of convening CAT rotates annually among the **six older
+      IIMs**: IIM Ahmedabad, IIM Bangalore, IIM Calcutta, IIM Lucknow, IIM
+      Kozhikode, and IIM Indore.
   - question: What is the official website for CAT 2026 registration?
     answer: >-
-      The official website for CAT 2026 registration, admit card download, notifications, and scorecard release is **[iimcat.ac.in](https://iimcat.ac.in)**.
-location: Delhi NCR
+      The official website for CAT 2026 registration, admit card download,
+      notifications, and scorecard release is
+      **[iimcat.ac.in](https://iimcat.ac.in)**.
+location: Gurgaon
 ---
 
-The **Common Admission Test (CAT) 2026** is the most sought-after management entrance examination in India, serving as the primary gateway to the prestigious **Indian Institutes of Management (IIMs)** as well as over 1,200 premier B-schools including [FMS Delhi](/colleges/fms-delhi), SPJIMR, MDI Gurgaon, and IIT management departments.
+The **Common Admission Test (CAT) 2026** is the most sought-after management entrance examination in India, serving as the primary gateway to the prestigious **Indian Institutes of Management (IIMs)** as well as over 1,200 premier B-schools including [FMS Delhi](/colleges/fms-delhi), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon), and IIT management departments.
 
 Every year, MBA aspirants eagerly wait to know **which IIM will conduct the CAT exam**, as the convening institute often shapes the nuanced flavor, difficulty distribution, and structural presentation of the test paper. 
 
@@ -53,7 +66,7 @@ In this comprehensive guide, we uncover the **convening IIM for CAT 2026**, expl
 
 The **Indian Institute of Management (IIM) Indore** is the official convening and conducting body for **CAT 2026**.
 
-Each year, the responsibility of hosting and administering the Common Admission Test rotates among the **six older IIMs** (known as the *BLACKI + Indore* core group: IIM Ahmedabad, IIM Bangalore, IIM Calcutta, IIM Lucknow, IIM Kozhikode, and IIM Indore). 
+Each year, the responsibility of hosting and administering the Common Admission Test rotates among the **six older IIMs** (known as the *BLACKI + Indore* core group: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), IIM Lucknow, IIM Kozhikode, and IIM Indore). 
 
 Following the established rotation cycle—where IIM Calcutta convened CAT 2024 and IIM Kozhikode convened CAT 2025—**IIM Indore** takes charge of the examination for the 2026–27 admission cycle.
 

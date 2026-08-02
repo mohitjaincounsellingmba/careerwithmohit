@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Srikakulam Institute of Business Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Srikakulam, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Srikakulam Institute of Business Studies
+logo: /colleges/default-management-logo.webp
+location: 'Srikakulam, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1999
-ownership: "Private"
-ranking: "#94 Top Private B-School"
-fees: "₹6.1 Lakhs"
-avg_placement: "₹7.8 LPA"
-highest_placement: "₹17.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-srikakulam-institute-of-business-studies.edu.in"
+ownership: Private
+ranking: '#94 Top Private B-School'
+fees: ₹6.1 Lakhs
+avg_placement: ₹7.8 LPA
+highest_placement: ₹17.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-srikakulam-institute-of-business-studies.edu.in'
+seo_title: 'Galgotias Srikakulam Institute of Business Studies MBA Fees,'
+seo_description: >-
+  Explore Galgotias Srikakulam Institute of Business Studies Srikakulam, India:
+  MBA/PGDM fee structure ₹6.1 Lakhs, average placement ₹7.8 LPA, highest CTC,
+  rankin
+keywords:
+  - Galgotias Srikakulam Institute of Business Studies review
+  - Galgotias Srikakulam Institute of Business Studies fees structure 2027
+  - Galgotias Srikakulam Institute of Business Studies average package
+  - Galgotias Srikakulam Institute of Business Studies placement report 2027
+  - Galgotias Srikakulam Institute of Business Studies highest package
+  - Galgotias Srikakulam Institute of Business Studies cutoff 2027
+  - Galgotias Srikakulam Institute of Business Studies admission process
+  - Galgotias Srikakulam Institute of Business Studies ranking
+  - 'Galgotias Srikakulam Institute of Business Studies Srikakulam, India'
+  - is Galgotias Srikakulam Institute of Business Studies good
+  - Galgotias Srikakulam Institute of Business Studies mohit jain review
+  - Galgotias Srikakulam Institute of Business Studies hostel fees
+  - Galgotias Srikakulam Institute of Business Studies contact number
+  - Galgotias Srikakulam Institute of Business Studies MBA fees
+  - Galgotias Srikakulam Institute of Business Studies PGDM placement
+  - Galgotias Srikakulam Institute of Business Studies MBA admission 2027
+  - 'MBA colleges Srikakulam, India'
 ---
 
 ### About Galgotias Srikakulam Institute of Business Studies

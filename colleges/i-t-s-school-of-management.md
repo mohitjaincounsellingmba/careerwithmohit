@@ -1,20 +1,49 @@
 ---
-name: "I.T.S - School of Management"
-logo: ""
-location: "Ghaziabad"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: I.T.S - School of Management
+logo: ''
+location: Ghaziabad
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2026
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹20.64-20.8 Lakhs"
-avg_placement: "₹5.1 LPA"
-highest_placement: "₹12.6 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹20.64-20.8 Lakhs
+avg_placement: ₹5.1 LPA
+highest_placement: ₹12.6 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'I.T.S - School of Management MBA Fees, Cutoff & Placement 20'
+seo_description: >-
+  Explore I.T.S - School of Management Ghaziabad: MBA/PGDM fee structure
+  ₹20.64-20.8 Lakhs, average placement ₹5.1 LPA, highest CTC, ranking, and 2027
+  admission p
+keywords:
+  - I.T.S - School of Management review
+  - I.T.S - School of Management fees structure 2027
+  - I.T.S - School of Management average package
+  - I.T.S - School of Management placement report 2027
+  - I.T.S - School of Management highest package
+  - I.T.S - School of Management cutoff 2027
+  - I.T.S - School of Management admission process
+  - I.T.S - School of Management ranking
+  - I.T.S - School of Management Ghaziabad
+  - is I.T.S - School of Management good
+  - I.T.S - School of Management mohit jain review
+  - I.T.S - School of Management hostel fees
+  - I.T.S - School of Management contact number
+  - I.T.S - School of Management MBA fees
+  - I.T.S - School of Management PGDM placement
+  - I.T.S - School of Management MBA admission 2027
+  - MBA colleges Ghaziabad
 ---
 
 ### Courses & Fees

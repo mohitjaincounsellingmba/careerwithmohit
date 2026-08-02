@@ -1,20 +1,49 @@
 ---
-name: "Indus Business Academy"
-logo: ""
-location: "Bengaluru"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Indus Business Academy
+logo: ''
+location: Bengaluru
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2008
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹7.3 Lakhs"
-avg_placement: "₹6.6 LPA"
-highest_placement: "₹13.5 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹7.3 Lakhs
+avg_placement: ₹6.6 LPA
+highest_placement: ₹13.5 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'Indus Business Academy MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Indus Business Academy Bengaluru: MBA/PGDM fee structure ₹7.3 Lakhs,
+  average placement ₹6.6 LPA, highest CTC, ranking, and 2027 admission process
+  with M
+keywords:
+  - Indus Business Academy review
+  - Indus Business Academy fees structure 2027
+  - Indus Business Academy average package
+  - Indus Business Academy placement report 2027
+  - Indus Business Academy highest package
+  - Indus Business Academy cutoff 2027
+  - Indus Business Academy admission process
+  - Indus Business Academy ranking
+  - Indus Business Academy Bengaluru
+  - is Indus Business Academy good
+  - Indus Business Academy mohit jain review
+  - Indus Business Academy hostel fees
+  - Indus Business Academy contact number
+  - Indus Business Academy MBA fees
+  - Indus Business Academy PGDM placement
+  - Indus Business Academy MBA admission 2027
+  - MBA colleges Bengaluru
 ---
 
 ### Courses & Fees

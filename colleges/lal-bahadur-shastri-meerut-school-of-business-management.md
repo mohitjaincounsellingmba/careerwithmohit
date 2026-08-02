@@ -1,18 +1,53 @@
 ---
-name: "Lal Bahadur Shastri Meerut School of Business & Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Meerut, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Lal Bahadur Shastri Meerut School of Business & Management
+logo: /colleges/default-management-logo.webp
+location: 'Meerut, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2016
-ownership: "Public"
-ranking: "#36 Top Private B-School"
-fees: "₹4.5 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.lal-bahadur-shastri-meerut-school-of-business-management.edu.in"
+ownership: Public
+ranking: '#36 Top Private B-School'
+fees: ₹4.5 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.lal-bahadur-shastri-meerut-school-of-business-management.edu.in'
+seo_title: Lal Bahadur Shastri Meerut School of Business & Management M
+seo_description: >-
+  Explore Lal Bahadur Shastri Meerut School of Business & Management Meerut,
+  India: MBA/PGDM fee structure ₹4.5 Lakhs, average placement ₹5.0 LPA, highest
+  CTC, ra
+keywords:
+  - Lal Bahadur Shastri Meerut School of Business & Management review
+  - >-
+    Lal Bahadur Shastri Meerut School of Business & Management fees structure
+    2027
+  - Lal Bahadur Shastri Meerut School of Business & Management average package
+  - >-
+    Lal Bahadur Shastri Meerut School of Business & Management placement report
+    2027
+  - Lal Bahadur Shastri Meerut School of Business & Management highest package
+  - Lal Bahadur Shastri Meerut School of Business & Management cutoff 2027
+  - Lal Bahadur Shastri Meerut School of Business & Management admission process
+  - Lal Bahadur Shastri Meerut School of Business & Management ranking
+  - 'Lal Bahadur Shastri Meerut School of Business & Management Meerut, India'
+  - is Lal Bahadur Shastri Meerut School of Business & Management good
+  - Lal Bahadur Shastri Meerut School of Business & Management mohit jain review
+  - Lal Bahadur Shastri Meerut School of Business & Management hostel fees
+  - Lal Bahadur Shastri Meerut School of Business & Management contact number
+  - Lal Bahadur Shastri Meerut School of Business & Management MBA fees
+  - Lal Bahadur Shastri Meerut School of Business & Management PGDM placement
+  - >-
+    Lal Bahadur Shastri Meerut School of Business & Management MBA admission
+    2027
+  - 'MBA colleges Meerut, India'
 ---
 
 ### About Lal Bahadur Shastri Meerut School of Business & Management

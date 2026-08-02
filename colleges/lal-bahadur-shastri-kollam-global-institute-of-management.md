@@ -1,18 +1,51 @@
 ---
-name: "Lal Bahadur Shastri Kollam Global Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Kollam, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Lal Bahadur Shastri Kollam Global Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Kollam, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1999
-ownership: "Private"
-ranking: "#39 Top Private B-School"
-fees: "₹6.9 Lakhs"
-avg_placement: "₹8.5 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.lal-bahadur-shastri-kollam-global-institute-of-management.edu.in"
+ownership: Private
+ranking: '#39 Top Private B-School'
+fees: ₹6.9 Lakhs
+avg_placement: ₹8.5 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.lal-bahadur-shastri-kollam-global-institute-of-management.edu.in'
+seo_title: Lal Bahadur Shastri Kollam Global Institute of Management MB
+seo_description: >-
+  Explore Lal Bahadur Shastri Kollam Global Institute of Management Kollam,
+  India: MBA/PGDM fee structure ₹6.9 Lakhs, average placement ₹8.5 LPA, highest
+  CTC, ran
+keywords:
+  - Lal Bahadur Shastri Kollam Global Institute of Management review
+  - >-
+    Lal Bahadur Shastri Kollam Global Institute of Management fees structure
+    2027
+  - Lal Bahadur Shastri Kollam Global Institute of Management average package
+  - >-
+    Lal Bahadur Shastri Kollam Global Institute of Management placement report
+    2027
+  - Lal Bahadur Shastri Kollam Global Institute of Management highest package
+  - Lal Bahadur Shastri Kollam Global Institute of Management cutoff 2027
+  - Lal Bahadur Shastri Kollam Global Institute of Management admission process
+  - Lal Bahadur Shastri Kollam Global Institute of Management ranking
+  - 'Lal Bahadur Shastri Kollam Global Institute of Management Kollam, India'
+  - is Lal Bahadur Shastri Kollam Global Institute of Management good
+  - Lal Bahadur Shastri Kollam Global Institute of Management mohit jain review
+  - Lal Bahadur Shastri Kollam Global Institute of Management hostel fees
+  - Lal Bahadur Shastri Kollam Global Institute of Management contact number
+  - Lal Bahadur Shastri Kollam Global Institute of Management MBA fees
+  - Lal Bahadur Shastri Kollam Global Institute of Management PGDM placement
+  - Lal Bahadur Shastri Kollam Global Institute of Management MBA admission 2027
+  - 'MBA colleges Kollam, India'
 ---
 
 ### About Lal Bahadur Shastri Kollam Global Institute of Management

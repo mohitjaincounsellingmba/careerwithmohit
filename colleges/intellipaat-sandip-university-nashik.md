@@ -1,21 +1,51 @@
 ---
-name: "Intellipaat - Sandip University (Nashik)"
-logo: ""
-location: "Nashik"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech CSE"]
+name: Intellipaat - Sandip University (Nashik)
+logo: ''
+location: Nashik
+category: Engineering
+type: Institute
+courses:
+  - B.Tech CSE
 established: 2024
-ownership: "Private"
-ranking: "Industry Integrated B.Tech"
-fees: "₹10.0 Lakhs"
-avg_placement: "₹8.0 - ₹12.0 LPA"
-highest_placement: "₹30.0+ LPA"
-lowest_placement: "₹4.5 LPA"
-exams: ["ISTEE"]
-website: "https://intellipaat.com/school-of-technology/"
-brochure_url: ""
-top_recruiters: ["Amazon", "Google", "Microsoft", "Adobe", "Wipro"]
+ownership: Private
+ranking: Industry Integrated B.Tech
+fees: ₹10.0 Lakhs
+avg_placement: ₹8.0 - ₹12.0 LPA
+highest_placement: ₹30.0+ LPA
+lowest_placement: ₹4.5 LPA
+exams:
+  - ISTEE
+website: 'https://intellipaat.com/school-of-technology/'
+brochure_url: ''
+top_recruiters:
+  - Amazon
+  - Google
+  - Microsoft
+  - Adobe
+  - Wipro
+seo_title: 'Intellipaat - Sandip University (Nashik) B.Tech Fees, Cutoff'
+seo_description: >-
+  Check Intellipaat - Sandip University (Nashik) Nashik: B.Tech fee structure
+  ₹10.0 Lakhs, average placement ₹8.0 - ₹12.0 LPA, JEE cutoff, ranking, and 2027
+  engin
+keywords:
+  - Intellipaat - Sandip University (Nashik) review
+  - Intellipaat - Sandip University (Nashik) fees structure 2027
+  - Intellipaat - Sandip University (Nashik) average package
+  - Intellipaat - Sandip University (Nashik) placement report 2027
+  - Intellipaat - Sandip University (Nashik) highest package
+  - Intellipaat - Sandip University (Nashik) cutoff 2027
+  - Intellipaat - Sandip University (Nashik) admission process
+  - Intellipaat - Sandip University (Nashik) ranking
+  - Intellipaat - Sandip University (Nashik) Nashik
+  - is Intellipaat - Sandip University (Nashik) good
+  - Intellipaat - Sandip University (Nashik) mohit jain review
+  - Intellipaat - Sandip University (Nashik) hostel fees
+  - Intellipaat - Sandip University (Nashik) contact number
+  - Intellipaat - Sandip University (Nashik) B.Tech fees
+  - Intellipaat - Sandip University (Nashik) CSE placement
+  - Intellipaat - Sandip University (Nashik) B.Tech admission 2027
+  - engineering colleges Nashik
 ---
 
 ### B.Tech Courses & Fees

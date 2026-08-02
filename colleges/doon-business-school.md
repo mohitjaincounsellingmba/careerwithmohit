@@ -1,18 +1,47 @@
 ---
-name: "Doon Business School"
-logo: "/colleges/dbs-logo.webp"
-location: "Dehradun, Uttarakhand"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Doon Business School
+logo: /colleges/dbs-logo.webp
+location: 'Dehradun, Uttarakhand'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2007
-ownership: "Private"
-ranking: "Top Private B-School in Dehradun"
-fees: "₹10.0 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹24.0 LPA"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: "https://www.doonbusinessschool.com"
+ownership: Private
+ranking: Top Private B-School in Dehradun
+fees: ₹10.0 Lakhs
+avg_placement: ₹8.0 LPA
+highest_placement: ₹24.0 LPA
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: 'https://www.doonbusinessschool.com'
+seo_title: 'Doon Business School MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Doon Business School Dehradun, Uttarakhand: MBA/PGDM fee structure
+  ₹10.0 Lakhs, average placement ₹8.0 LPA, highest CTC, ranking, and 2027
+  admission pro
+keywords:
+  - Doon Business School review
+  - Doon Business School fees structure 2027
+  - Doon Business School average package
+  - Doon Business School placement report 2027
+  - Doon Business School highest package
+  - Doon Business School cutoff 2027
+  - Doon Business School admission process
+  - Doon Business School ranking
+  - 'Doon Business School Dehradun, Uttarakhand'
+  - is Doon Business School good
+  - Doon Business School mohit jain review
+  - Doon Business School hostel fees
+  - Doon Business School contact number
+  - Doon Business School MBA fees
+  - Doon Business School PGDM placement
+  - Doon Business School MBA admission 2027
+  - 'MBA colleges Dehradun, Uttarakhand'
 ---
 
 ### Courses & Fees

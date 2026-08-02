@@ -1,19 +1,49 @@
 ---
-name: "New Horizon College of Engineering (NHCE)"
-logo: ""
-location: "Marathahalli, Bangalore"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech Computer Science", "B.Tech ISE", "B.Tech ECE", "B.Tech Mechanical", "B.Tech Civil"]
+name: New Horizon College of Engineering (NHCE)
+logo: ''
+location: 'Marathahalli, Bangalore'
+category: Engineering
+type: Institute
+courses:
+  - B.Tech Computer Science
+  - B.Tech ISE
+  - B.Tech ECE
+  - B.Tech Mechanical
+  - B.Tech Civil
 established: 2001
-ownership: "Private Autonomous"
-ranking: "Top Engineering College"
-fees: "₹6.0 Lakhs - ₹8.0 Lakhs"
-avg_placement: "₹6.5 LPA"
-highest_placement: "₹42.0 LPA"
-exams: ["KCET", "COMEDK"]
-website: ""
-brochure_url: ""
+ownership: Private Autonomous
+ranking: Top Engineering College
+fees: ₹6.0 Lakhs - ₹8.0 Lakhs
+avg_placement: ₹6.5 LPA
+highest_placement: ₹42.0 LPA
+exams:
+  - KCET
+  - COMEDK
+website: ''
+brochure_url: ''
+seo_title: 'New Horizon College of Engineering (NHCE) B.Tech Fees, Cutof'
+seo_description: >-
+  Check New Horizon College of Engineering (NHCE) Marathahalli, Bangalore:
+  B.Tech fee structure ₹6.0 Lakhs - ₹8.0 Lakhs, average placement ₹6.5 LPA, JEE
+  cutoff, r
+keywords:
+  - New Horizon College of Engineering (NHCE) review
+  - New Horizon College of Engineering (NHCE) fees structure 2027
+  - New Horizon College of Engineering (NHCE) average package
+  - New Horizon College of Engineering (NHCE) placement report 2027
+  - New Horizon College of Engineering (NHCE) highest package
+  - New Horizon College of Engineering (NHCE) cutoff 2027
+  - New Horizon College of Engineering (NHCE) admission process
+  - New Horizon College of Engineering (NHCE) ranking
+  - 'New Horizon College of Engineering (NHCE) Marathahalli, Bangalore'
+  - is New Horizon College of Engineering (NHCE) good
+  - New Horizon College of Engineering (NHCE) mohit jain review
+  - New Horizon College of Engineering (NHCE) hostel fees
+  - New Horizon College of Engineering (NHCE) contact number
+  - New Horizon College of Engineering (NHCE) B.Tech fees
+  - New Horizon College of Engineering (NHCE) CSE placement
+  - New Horizon College of Engineering (NHCE) B.Tech admission 2027
+  - 'engineering colleges Marathahalli, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

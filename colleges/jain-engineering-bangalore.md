@@ -1,19 +1,56 @@
 ---
-name: "Jain University - Faculty of Engineering and Technology"
-logo: ""
-location: "Jakkasandra, Bangalore"
-category: "Engineering"
-type: "University"
-courses: ["B.Tech Computer Science", "B.Tech AIML", "B.Tech Data Science", "B.Tech ECE", "B.Tech Mechanical"]
+name: Jain University - Faculty of Engineering and Technology
+logo: ''
+location: 'Jakkasandra, Bangalore'
+category: Engineering
+type: University
+courses:
+  - B.Tech Computer Science
+  - B.Tech AIML
+  - B.Tech Data Science
+  - B.Tech ECE
+  - B.Tech Mechanical
 established: 1990
-ownership: "Private University"
-ranking: "Top Engineering College"
-fees: "₹7.0 Lakhs - ₹10.0 Lakhs"
-avg_placement: "₹6.0 LPA"
-highest_placement: "₹22.0 LPA"
-exams: ["KCET", "Jain SET", "JEE Main"]
-website: ""
-brochure_url: ""
+ownership: Private University
+ranking: Top Engineering College
+fees: ₹7.0 Lakhs - ₹10.0 Lakhs
+avg_placement: ₹6.0 LPA
+highest_placement: ₹22.0 LPA
+exams:
+  - KCET
+  - Jain SET
+  - JEE Main
+website: ''
+brochure_url: ''
+seo_title: Jain University - Faculty of Engineering and Technology B.Te
+seo_description: >-
+  Check Jain University - Faculty of Engineering and Technology Jakkasandra,
+  Bangalore: B.Tech fee structure ₹7.0 Lakhs - ₹10.0 Lakhs, average placement
+  ₹6.0 LPA,
+keywords:
+  - Jain University - Faculty of Engineering and Technology review
+  - Jain University - Faculty of Engineering and Technology fees structure 2027
+  - Jain University - Faculty of Engineering and Technology average package
+  - >-
+    Jain University - Faculty of Engineering and Technology placement report
+    2027
+  - Jain University - Faculty of Engineering and Technology highest package
+  - Jain University - Faculty of Engineering and Technology cutoff 2027
+  - Jain University - Faculty of Engineering and Technology admission process
+  - Jain University - Faculty of Engineering and Technology ranking
+  - >-
+    Jain University - Faculty of Engineering and Technology Jakkasandra,
+    Bangalore
+  - is Jain University - Faculty of Engineering and Technology good
+  - Jain University - Faculty of Engineering and Technology mohit jain review
+  - Jain University - Faculty of Engineering and Technology hostel fees
+  - Jain University - Faculty of Engineering and Technology contact number
+  - Jain University - Faculty of Engineering and Technology B.Tech fees
+  - Jain University - Faculty of Engineering and Technology CSE placement
+  - >-
+    Jain University - Faculty of Engineering and Technology B.Tech admission
+    2027
+  - 'engineering colleges Jakkasandra, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

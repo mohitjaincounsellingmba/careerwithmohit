@@ -1,25 +1,39 @@
 ---
-title: "GNA University, Phagwara Review 2026: Placements, Fees, Courses & Admission"
+title: 'GNA University, Phagwara Review 2026: Placements, Fees, Courses & Admission'
 date: '2026-08-03'
-description: "Comprehensive review of GNA University, Phagwara (Phagwara) for 2026. Check latest fee structure, flagship courses, placement statistics, top recruiters, and admission process."
+description: >-
+  Comprehensive review of GNA University, Phagwara (Phagwara) for 2026. Check
+  latest fee structure, flagship courses, placement statistics, top recruiters,
+  and admission process.
 keywords:
-  - "GNA University Phagwara review 2026"
-  - "GNA University Phagwara placements 2026"
-  - "GNA University Phagwara fees structure"
-  - "GNA University Phagwara admission process"
-  - "GNA University, Phagwara review"
-  - "Best Colleges in Phagwara"
-  - "Top Universities in Punjab"
-  - "Direct Admission in Phagwara"
-category: "Colleges"
-location: "Phagwara"
+  - GNA University Phagwara review 2026
+  - GNA University Phagwara placements 2026
+  - GNA University Phagwara fees structure
+  - GNA University Phagwara admission process
+  - 'GNA University, Phagwara review'
+  - Best Colleges in Phagwara
+  - Top Universities in Punjab
+  - Direct Admission in Phagwara
+category: Colleges
+location: Phagwara
 faqs:
-  - question: "Is GNA University, Phagwara a good choice for higher education in 2026?"
-    answer: "Yes, GNA University, Phagwara is a highly reputed institution in Punjab (UGC Approved, AICTE, NAAC Accredited, BCI, PCI). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹4.50 LPA - ₹6.00 LPA."
-  - question: "What is the annual fee structure at GNA University, Phagwara?"
-    answer: "The annual tuition fee at GNA University, Phagwara generally ranges between ₹1.10 Lakhs - ₹2.50 Lakhs per annum, depending on the chosen program (B.Tech (CSE/Mechanical/Robotics), MBA, BBA, BCA, Hotel Management, Animation) and applicable merit scholarships."
-  - question: "How can I apply for admission to GNA University, Phagwara in 2026?"
-    answer: "Admissions for 2026 at GNA University, Phagwara are conducted based on entrance exams such as GU-SET, JEE Main, CAT, MAT, CUET, Merit-based, followed by counseling, personal interviews, or merit-based shortlisting."
+  - question: 'Is GNA University, Phagwara a good choice for higher education in 2026?'
+    answer: >-
+      Yes, GNA University, Phagwara is a highly reputed institution in Punjab
+      (UGC Approved, AICTE, NAAC Accredited, BCI, PCI). It offers modern campus
+      infrastructure, strong industry integration, and a commendable average
+      placement package of ₹4.50 LPA - ₹6.00 LPA.
+  - question: 'What is the annual fee structure at GNA University, Phagwara?'
+    answer: >-
+      The annual tuition fee at GNA University, Phagwara generally ranges
+      between ₹1.10 Lakhs - ₹2.50 Lakhs per annum, depending on the chosen
+      program (B.Tech (CSE/Mechanical/Robotics), MBA, BBA, BCA, Hotel
+      Management, Animation) and applicable merit scholarships.
+  - question: 'How can I apply for admission to GNA University, Phagwara in 2026?'
+    answer: >-
+      Admissions for 2026 at GNA University, Phagwara are conducted based on
+      entrance exams such as GU-SET, JEE Main, CAT, MAT, CUET, Merit-based,
+      followed by counseling, personal interviews, or merit-based shortlisting.
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **GNA University, Phagwara**, situated in **Phagwara**, stands out as one of the premier destinations for undergraduate and postgraduate education in Punjab.
@@ -153,4 +167,4 @@ Navigating college cutoffs, fee structures, and course specializations can be ch
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.

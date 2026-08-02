@@ -1,18 +1,53 @@
 ---
-name: "Lal Bahadur Shastri Nellore Global Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Nellore, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Lal Bahadur Shastri Nellore Global Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Nellore, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2019
-ownership: "Public"
-ranking: "#39 Top Private B-School"
-fees: "₹6.9 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.lal-bahadur-shastri-nellore-global-institute-of-management.edu.in"
+ownership: Public
+ranking: '#39 Top Private B-School'
+fees: ₹6.9 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.lal-bahadur-shastri-nellore-global-institute-of-management.edu.in'
+seo_title: Lal Bahadur Shastri Nellore Global Institute of Management M
+seo_description: >-
+  Explore Lal Bahadur Shastri Nellore Global Institute of Management Nellore,
+  India: MBA/PGDM fee structure ₹6.9 Lakhs, average placement ₹7.1 LPA, highest
+  CTC, r
+keywords:
+  - Lal Bahadur Shastri Nellore Global Institute of Management review
+  - >-
+    Lal Bahadur Shastri Nellore Global Institute of Management fees structure
+    2027
+  - Lal Bahadur Shastri Nellore Global Institute of Management average package
+  - >-
+    Lal Bahadur Shastri Nellore Global Institute of Management placement report
+    2027
+  - Lal Bahadur Shastri Nellore Global Institute of Management highest package
+  - Lal Bahadur Shastri Nellore Global Institute of Management cutoff 2027
+  - Lal Bahadur Shastri Nellore Global Institute of Management admission process
+  - Lal Bahadur Shastri Nellore Global Institute of Management ranking
+  - 'Lal Bahadur Shastri Nellore Global Institute of Management Nellore, India'
+  - is Lal Bahadur Shastri Nellore Global Institute of Management good
+  - Lal Bahadur Shastri Nellore Global Institute of Management mohit jain review
+  - Lal Bahadur Shastri Nellore Global Institute of Management hostel fees
+  - Lal Bahadur Shastri Nellore Global Institute of Management contact number
+  - Lal Bahadur Shastri Nellore Global Institute of Management MBA fees
+  - Lal Bahadur Shastri Nellore Global Institute of Management PGDM placement
+  - >-
+    Lal Bahadur Shastri Nellore Global Institute of Management MBA admission
+    2027
+  - 'MBA colleges Nellore, India'
 ---
 
 ### About Lal Bahadur Shastri Nellore Global Institute of Management

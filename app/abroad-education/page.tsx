@@ -9,7 +9,7 @@ const PAGE_PATH = '/abroad-education';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'Top Global MBA & Study Abroad 2027 | UK, USA, Canada, Australia | CareerWithMohit',
+  title: 'Study Abroad 2027: UK, USA, Canada & Australia',
   description:
     'Explore and compare 380+ top global programs and universities abroad (UK, USA, Canada, Australia, New Zealand, Europe, Malaysia) for 2027. Find fees, accreditations, and get free expert admission assistance.',
   keywords: [

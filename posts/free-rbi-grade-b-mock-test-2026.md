@@ -41,6 +41,8 @@ To help you measure your standing, we offer a high-fidelity **[Free RBI Grade B 
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of RBI Grade B Phase 1?
@@ -52,11 +54,3 @@ The difficulty level of the Quantitative Aptitude and Reasoning sections is extr
 ### Is there sectional timing in RBI Grade B Phase 1?
 Yes, candidates are given specific sectional timings to solve each section, and they cannot switch sections at will.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

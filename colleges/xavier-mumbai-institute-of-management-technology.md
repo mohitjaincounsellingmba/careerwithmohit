@@ -1,18 +1,47 @@
 ---
-name: "Xavier Mumbai Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Mumbai, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Xavier Mumbai Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Mumbai, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2019
-ownership: "Public"
-ranking: "#29 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.xavier-mumbai-institute-of-management-technology.edu.in"
+ownership: Public
+ranking: '#29 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.xavier-mumbai-institute-of-management-technology.edu.in'
+seo_title: 'Xavier Mumbai Institute of Management & Technology MBA Fees,'
+seo_description: >-
+  Explore Xavier Mumbai Institute of Management & Technology Mumbai, India:
+  MBA/PGDM fee structure ₹5.3 Lakhs, average placement ₹7.1 LPA, highest CTC,
+  ranking, a
+keywords:
+  - Xavier Mumbai Institute of Management & Technology review
+  - Xavier Mumbai Institute of Management & Technology fees structure 2027
+  - Xavier Mumbai Institute of Management & Technology average package
+  - Xavier Mumbai Institute of Management & Technology placement report 2027
+  - Xavier Mumbai Institute of Management & Technology highest package
+  - Xavier Mumbai Institute of Management & Technology cutoff 2027
+  - Xavier Mumbai Institute of Management & Technology admission process
+  - Xavier Mumbai Institute of Management & Technology ranking
+  - 'Xavier Mumbai Institute of Management & Technology Mumbai, India'
+  - is Xavier Mumbai Institute of Management & Technology good
+  - Xavier Mumbai Institute of Management & Technology mohit jain review
+  - Xavier Mumbai Institute of Management & Technology hostel fees
+  - Xavier Mumbai Institute of Management & Technology contact number
+  - Xavier Mumbai Institute of Management & Technology MBA fees
+  - Xavier Mumbai Institute of Management & Technology PGDM placement
+  - Xavier Mumbai Institute of Management & Technology MBA admission 2027
+  - 'MBA colleges Mumbai, India'
 ---
 
 ### About Xavier Mumbai Institute of Management & Technology

@@ -1,9 +1,10 @@
 ---
-title: >-
-  What is IIM BLACKI? 2026 Guide to Fees, Placements, CAT Cutoffs & Rankings
+title: 'What is IIM BLACKI? 2026 Guide to Fees, Placements, CAT Cutoffs & Rankings'
 date: '2026-07-27'
 description: >-
-  Complete guide to IIM BLACKI (Bangalore, Lucknow, Ahmedabad, Calcutta, Kozhikode, Indore). Discover fees, average packages, CAT 2026 cutoffs, selection criteria, and why these 6 IIMs are the holy grail of Indian MBA admissions.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Complete guide to IIM BLACKI
+  (Bangalore...
 keywords:
   - IIM BLACKI
   - IIM BLACKI full form
@@ -28,20 +29,32 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
 faqs:
   - question: What is the full form of IIM BLACKI?
     answer: >-
-      IIM BLACKI stands for the six oldest and most prestigious Indian Institutes of Management: B - Bangalore, L - Lucknow, A - Ahmedabad, C - Calcutta, K - Kozhikode, and I - Indore.
+      IIM BLACKI stands for the six oldest and most prestigious Indian
+      Institutes of Management: B - Bangalore, L - Lucknow, A - Ahmedabad, C -
+      Calcutta, K - Kozhikode, and I - Indore.
   - question: What is a safe CAT percentile for an IIM BLACKI interview call?
     answer: >-
-      For General category candidates, a CAT percentile of 99.3 to 99.8+ along with a strong academic profile (10th/12th/Graduation scores above 85-90%) is generally required to secure an interview call from IIM BLACKI.
+      For General category candidates, a CAT percentile of 99.3 to 99.8+ along
+      with a strong academic profile (10th/12th/Graduation scores above 85-90%)
+      is generally required to secure an interview call from IIM BLACKI.
   - question: What is the average package at IIM BLACKI in 2026?
     answer: >-
-      The average salary package across IIM BLACKI ranges from INR 25 LPA to INR 36+ LPA, with IIM Ahmedabad, Bangalore, and Calcutta leading at around INR 35-36 LPA.
+      The average salary package across IIM BLACKI ranges from INR 25 LPA to INR
+      36+ LPA, with IIM Ahmedabad, Bangalore, and Calcutta leading at around INR
+      35-36 LPA.
   - question: What is the difference between IIM BLACKI and IIM BLACKISM?
     answer: >-
-      IIM BLACKISM expands the traditional BLACKI group by including S (IIM Shillong) and M (IIM Mumbai, formerly NITIE), reflecting their elite status and comparable placement benchmarks.
-location: Delhi
+      IIM BLACKISM expands the traditional BLACKI group by including S (IIM
+      Shillong) and M (IIM Mumbai, formerly NITIE), reflecting their elite
+      status and comparable placement benchmarks.
+location: Noida
 ---
 
 Every MBA aspirant in India dreams of stepping into the hallowed halls of an Indian Institute of Management. But within the IIM ecosystem itself, one acronym stands above all others as the absolute **holy grail of Indian management education**: **IIM "BLACKI"**.
@@ -71,15 +84,15 @@ While India now has **21 IIMs**—including the [Baby IIMs](/blog/baby-iims-revi
 
 ### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad) (A) — The Crown Jewel
 *   **Core Strength:** Strategy, General Management, Consulting, and Public Policy.
-*   **Why It Stands Out:** Widely regarded as India’s #1 management institute, IIM Ahmedabad is renowned for its rigorous **Case Study Pedagogy** modeled after Harvard Business School. Its flagship two-year PGP program consistently places alumni in leadership roles across global McKinsey, BCG, Bain (MBB), and top private equity firms.
+*   **Why It Stands Out:** Widely regarded as India’s #1 management institute, [IIM Ahmedabad](/colleges/iim-ahmedabad) is renowned for its rigorous **Case Study Pedagogy** modeled after Harvard Business School. Its flagship two-year PGP program consistently places alumni in leadership roles across global McKinsey, BCG, Bain (MBB), and top private equity firms.
 
 ### 2. [IIM Bangalore](/colleges/iim-bangalore) (B) — The Entrepreneurial & Strategy Mecca
 *   **Core Strength:** Strategy, Consulting, Product Management, and Entrepreneurship.
-*   **Why It Stands Out:** Located in India's Silicon Valley, IIM Bangalore offers unmatched integration with the tech and startup ecosystem. The **NSRCEL** (NSRCEL Startup Incubator) at IIMB is one of the country's top business incubators, making it the #1 choice for aspiring founders and tech leaders.
+*   **Why It Stands Out:** Located in India's Silicon Valley, [IIM Bangalore](/colleges/iim-bangalore) offers unmatched integration with the tech and startup ecosystem. The **NSRCEL** (NSRCEL Startup Incubator) at IIMB is one of the country's top business incubators, making it the #1 choice for aspiring founders and tech leaders.
 
 ### 3. [IIM Calcutta](/colleges/iim-calcutta) (C) — The Finance Capital of Asia
 *   **Core Strength:** Quantitative Finance, Investment Banking, Private Equity, and Analytics.
-*   **Why It Stands Out:** As the oldest IIM in India, IIM Calcutta holds the prestigious **Triple Crown Accreditation** (AACSB, AMBA, EQUIS). It is globally famous as the "Mecca of Finance," recruiting the highest number of investment bankers and quantitative analysts in the country.
+*   **Why It Stands Out:** As the oldest IIM in India, [IIM Calcutta](/colleges/iim-calcutta) holds the prestigious **Triple Crown Accreditation** (AACSB, AMBA, EQUIS). It is globally famous as the "Mecca of Finance," recruiting the highest number of investment bankers and quantitative analysts in the country.
 
 ### 4. IIM Lucknow (L) — The Marketing & Consulting Powerhouse
 *   **Core Strength:** Marketing, Sales, Operations, and Consulting.

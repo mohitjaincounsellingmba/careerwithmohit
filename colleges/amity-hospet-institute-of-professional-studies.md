@@ -1,18 +1,47 @@
 ---
-name: "Amity Hospet Institute of Professional Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Hospet, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Amity Hospet Institute of Professional Studies
+logo: /colleges/default-management-logo.webp
+location: 'Hospet, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2005
-ownership: "Private"
-ranking: "#50 Top Private B-School"
-fees: "₹9.3 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹11.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.amity-hospet-institute-of-professional-studies.edu.in"
+ownership: Private
+ranking: '#50 Top Private B-School'
+fees: ₹9.3 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹11.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.amity-hospet-institute-of-professional-studies.edu.in'
+seo_title: 'Amity Hospet Institute of Professional Studies MBA Fees, Cut'
+seo_description: >-
+  Explore Amity Hospet Institute of Professional Studies Hospet, India: MBA/PGDM
+  fee structure ₹9.3 Lakhs, average placement ₹6.4 LPA, highest CTC, ranking,
+  and 2
+keywords:
+  - Amity Hospet Institute of Professional Studies review
+  - Amity Hospet Institute of Professional Studies fees structure 2027
+  - Amity Hospet Institute of Professional Studies average package
+  - Amity Hospet Institute of Professional Studies placement report 2027
+  - Amity Hospet Institute of Professional Studies highest package
+  - Amity Hospet Institute of Professional Studies cutoff 2027
+  - Amity Hospet Institute of Professional Studies admission process
+  - Amity Hospet Institute of Professional Studies ranking
+  - 'Amity Hospet Institute of Professional Studies Hospet, India'
+  - is Amity Hospet Institute of Professional Studies good
+  - Amity Hospet Institute of Professional Studies mohit jain review
+  - Amity Hospet Institute of Professional Studies hostel fees
+  - Amity Hospet Institute of Professional Studies contact number
+  - Amity Hospet Institute of Professional Studies MBA fees
+  - Amity Hospet Institute of Professional Studies PGDM placement
+  - Amity Hospet Institute of Professional Studies MBA admission 2027
+  - 'MBA colleges Hospet, India'
 ---
 
 ### About Amity Hospet Institute of Professional Studies

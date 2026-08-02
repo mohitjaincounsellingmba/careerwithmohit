@@ -1,18 +1,47 @@
 ---
-name: "Masters' Union, Gurgaon"
-logo: "/colleges/masters-union-logo.webp"
-location: "Gurgaon, Haryana"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'Masters'' Union, Gurgaon'
+logo: /colleges/masters-union-logo.webp
+location: 'Gurgaon, Haryana'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2020
-ownership: "Private"
-ranking: "Top Innovative B-School in India"
-fees: "₹30.0 Lakhs"
-avg_placement: "₹30.7 LPA"
-highest_placement: "₹65.0 LPA"
-exams: ["GMAT", "GRE", "CAT", "MU-BAAT"]
-website: "https://mastersunion.org"
+ownership: Private
+ranking: Top Innovative B-School in India
+fees: ₹30.0 Lakhs
+avg_placement: ₹30.7 LPA
+highest_placement: ₹65.0 LPA
+exams:
+  - GMAT
+  - GRE
+  - CAT
+  - MU-BAAT
+website: 'https://mastersunion.org'
+seo_title: 'Masters'' Union, Gurgaon MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Masters' Union, Gurgaon Gurgaon, Haryana: MBA/PGDM fee structure ₹30.0
+  Lakhs, average placement ₹30.7 LPA, highest CTC, ranking, and 2027 admission
+  proc
+keywords:
+  - 'Masters'' Union, Gurgaon review'
+  - 'Masters'' Union, Gurgaon fees structure 2027'
+  - 'Masters'' Union, Gurgaon average package'
+  - 'Masters'' Union, Gurgaon placement report 2027'
+  - 'Masters'' Union, Gurgaon highest package'
+  - 'Masters'' Union, Gurgaon cutoff 2027'
+  - 'Masters'' Union, Gurgaon admission process'
+  - 'Masters'' Union, Gurgaon ranking'
+  - 'Masters'' Union, Gurgaon Gurgaon, Haryana'
+  - 'is Masters'' Union, Gurgaon good'
+  - 'Masters'' Union, Gurgaon mohit jain review'
+  - 'Masters'' Union, Gurgaon hostel fees'
+  - 'Masters'' Union, Gurgaon contact number'
+  - 'Masters'' Union, Gurgaon MBA fees'
+  - 'Masters'' Union, Gurgaon PGDM placement'
+  - 'Masters'' Union, Gurgaon MBA admission 2027'
+  - 'MBA colleges Gurgaon, Haryana'
 ---
 
 ### About Masters' Union

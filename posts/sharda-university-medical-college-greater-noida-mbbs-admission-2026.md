@@ -157,7 +157,7 @@ Clinical exposure is the cornerstone of modern medical education. Sharda Medical
 
 ## Frequently Asked Questions (FAQs)
 
-### Q1: Can non-UP students apply for Sharda University MBBS?
+### Q1: Can non-UP students apply for [Sharda University](/colleges/sharda-greater-noida) MBBS?
 Yes! Uttar Pradesh private medical college seats are 100% open to students from all states across India through UP NEET Counselling.
 
 ### Q2: What is the total fee for MBBS in Sharda University?

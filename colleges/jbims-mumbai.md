@@ -1,18 +1,46 @@
 ---
-name: "JBIMS Mumbai"
-logo: "/colleges/jbims-logo.webp"
-location: "Mumbai, Maharashtra"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: JBIMS Mumbai
+logo: /colleges/jbims-logo.webp
+location: 'Mumbai, Maharashtra'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1965
-ownership: "Public"
-ranking: "Top 10 in India"
-fees: "₹6.0 Lakhs"
-avg_placement: "₹28.0 LPA"
-highest_placement: "₹44.0 LPA"
-exams: ["MAH-CET", "CAT", "CMAT"]
-website: "https://jbims.edu"
+ownership: Public
+ranking: Top 10 in India
+fees: ₹6.0 Lakhs
+avg_placement: ₹28.0 LPA
+highest_placement: ₹44.0 LPA
+exams:
+  - MAH-CET
+  - CAT
+  - CMAT
+website: 'https://jbims.edu'
+seo_title: 'JBIMS Mumbai MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore JBIMS Mumbai Mumbai, Maharashtra: MBA/PGDM fee structure ₹6.0 Lakhs,
+  average placement ₹28.0 LPA, highest CTC, ranking, and 2027 admission process
+  with 
+keywords:
+  - JBIMS Mumbai review
+  - JBIMS Mumbai fees structure 2027
+  - JBIMS Mumbai average package
+  - JBIMS Mumbai placement report 2027
+  - JBIMS Mumbai highest package
+  - JBIMS Mumbai cutoff 2027
+  - JBIMS Mumbai admission process
+  - JBIMS Mumbai ranking
+  - 'JBIMS Mumbai Mumbai, Maharashtra'
+  - is JBIMS Mumbai good
+  - JBIMS Mumbai mohit jain review
+  - JBIMS Mumbai hostel fees
+  - JBIMS Mumbai contact number
+  - JBIMS Mumbai MBA fees
+  - JBIMS Mumbai PGDM placement
+  - JBIMS Mumbai MBA admission 2027
+  - 'MBA colleges Mumbai, Maharashtra'
 ---
 
 ### Courses & Fees

@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Junagadh Institute of Professional Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Junagadh, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Junagadh Institute of Professional Studies
+logo: /colleges/default-management-logo.webp
+location: 'Junagadh, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2008
-ownership: "Private"
-ranking: "#98 Top Private B-School"
-fees: "₹9.3 Lakhs"
-avg_placement: "₹7.8 LPA"
-highest_placement: "₹23.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-junagadh-institute-of-professional-studies.edu.in"
+ownership: Private
+ranking: '#98 Top Private B-School'
+fees: ₹9.3 Lakhs
+avg_placement: ₹7.8 LPA
+highest_placement: ₹23.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-junagadh-institute-of-professional-studies.edu.in'
+seo_title: Galgotias Junagadh Institute of Professional Studies MBA Fee
+seo_description: >-
+  Explore Galgotias Junagadh Institute of Professional Studies Junagadh, India:
+  MBA/PGDM fee structure ₹9.3 Lakhs, average placement ₹7.8 LPA, highest CTC,
+  rankin
+keywords:
+  - Galgotias Junagadh Institute of Professional Studies review
+  - Galgotias Junagadh Institute of Professional Studies fees structure 2027
+  - Galgotias Junagadh Institute of Professional Studies average package
+  - Galgotias Junagadh Institute of Professional Studies placement report 2027
+  - Galgotias Junagadh Institute of Professional Studies highest package
+  - Galgotias Junagadh Institute of Professional Studies cutoff 2027
+  - Galgotias Junagadh Institute of Professional Studies admission process
+  - Galgotias Junagadh Institute of Professional Studies ranking
+  - 'Galgotias Junagadh Institute of Professional Studies Junagadh, India'
+  - is Galgotias Junagadh Institute of Professional Studies good
+  - Galgotias Junagadh Institute of Professional Studies mohit jain review
+  - Galgotias Junagadh Institute of Professional Studies hostel fees
+  - Galgotias Junagadh Institute of Professional Studies contact number
+  - Galgotias Junagadh Institute of Professional Studies MBA fees
+  - Galgotias Junagadh Institute of Professional Studies PGDM placement
+  - Galgotias Junagadh Institute of Professional Studies MBA admission 2027
+  - 'MBA colleges Junagadh, India'
 ---
 
 ### About Galgotias Junagadh Institute of Professional Studies

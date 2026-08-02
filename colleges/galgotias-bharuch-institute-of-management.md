@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Bharuch Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Bharuch, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Bharuch Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Bharuch, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2006
-ownership: "Private"
-ranking: "#96 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-bharuch-institute-of-management.edu.in"
+ownership: Private
+ranking: '#96 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-bharuch-institute-of-management.edu.in'
+seo_title: 'Galgotias Bharuch Institute of Management MBA Fees, Cutoff &'
+seo_description: >-
+  Explore Galgotias Bharuch Institute of Management Bharuch, India: MBA/PGDM fee
+  structure ₹7.7 Lakhs, average placement ₹6.4 LPA, highest CTC, ranking, and
+  2027 
+keywords:
+  - Galgotias Bharuch Institute of Management review
+  - Galgotias Bharuch Institute of Management fees structure 2027
+  - Galgotias Bharuch Institute of Management average package
+  - Galgotias Bharuch Institute of Management placement report 2027
+  - Galgotias Bharuch Institute of Management highest package
+  - Galgotias Bharuch Institute of Management cutoff 2027
+  - Galgotias Bharuch Institute of Management admission process
+  - Galgotias Bharuch Institute of Management ranking
+  - 'Galgotias Bharuch Institute of Management Bharuch, India'
+  - is Galgotias Bharuch Institute of Management good
+  - Galgotias Bharuch Institute of Management mohit jain review
+  - Galgotias Bharuch Institute of Management hostel fees
+  - Galgotias Bharuch Institute of Management contact number
+  - Galgotias Bharuch Institute of Management MBA fees
+  - Galgotias Bharuch Institute of Management PGDM placement
+  - Galgotias Bharuch Institute of Management MBA admission 2027
+  - 'MBA colleges Bharuch, India'
 ---
 
 ### About Galgotias Bharuch Institute of Management

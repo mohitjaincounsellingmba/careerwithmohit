@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Bareilly Graduate School of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Bareilly, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Bareilly Graduate School of Management
+logo: /colleges/default-management-logo.webp
+location: 'Bareilly, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1999
-ownership: "Private"
-ranking: "#99 Top Private B-School"
-fees: "₹10.1 Lakhs"
-avg_placement: "₹5.7 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-bareilly-graduate-school-of-management.edu.in"
+ownership: Private
+ranking: '#99 Top Private B-School'
+fees: ₹10.1 Lakhs
+avg_placement: ₹5.7 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-bareilly-graduate-school-of-management.edu.in'
+seo_title: 'Galgotias Bareilly Graduate School of Management MBA Fees, C'
+seo_description: >-
+  Explore Galgotias Bareilly Graduate School of Management Bareilly, India:
+  MBA/PGDM fee structure ₹10.1 Lakhs, average placement ₹5.7 LPA, highest CTC,
+  ranking, 
+keywords:
+  - Galgotias Bareilly Graduate School of Management review
+  - Galgotias Bareilly Graduate School of Management fees structure 2027
+  - Galgotias Bareilly Graduate School of Management average package
+  - Galgotias Bareilly Graduate School of Management placement report 2027
+  - Galgotias Bareilly Graduate School of Management highest package
+  - Galgotias Bareilly Graduate School of Management cutoff 2027
+  - Galgotias Bareilly Graduate School of Management admission process
+  - Galgotias Bareilly Graduate School of Management ranking
+  - 'Galgotias Bareilly Graduate School of Management Bareilly, India'
+  - is Galgotias Bareilly Graduate School of Management good
+  - Galgotias Bareilly Graduate School of Management mohit jain review
+  - Galgotias Bareilly Graduate School of Management hostel fees
+  - Galgotias Bareilly Graduate School of Management contact number
+  - Galgotias Bareilly Graduate School of Management MBA fees
+  - Galgotias Bareilly Graduate School of Management PGDM placement
+  - Galgotias Bareilly Graduate School of Management MBA admission 2027
+  - 'MBA colleges Bareilly, India'
 ---
 
 ### About Galgotias Bareilly Graduate School of Management

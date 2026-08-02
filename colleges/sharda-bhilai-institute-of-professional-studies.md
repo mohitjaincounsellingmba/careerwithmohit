@@ -1,18 +1,47 @@
 ---
-name: "Sharda Bhilai Institute of Professional Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Bhilai, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Sharda Bhilai Institute of Professional Studies
+logo: /colleges/default-management-logo.webp
+location: 'Bhilai, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2015
-ownership: "Private"
-ranking: "#90 Top Private B-School"
-fees: "₹9.3 Lakhs"
-avg_placement: "₹7.8 LPA"
-highest_placement: "₹11.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.sharda-bhilai-institute-of-professional-studies.edu.in"
+ownership: Private
+ranking: '#90 Top Private B-School'
+fees: ₹9.3 Lakhs
+avg_placement: ₹7.8 LPA
+highest_placement: ₹11.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.sharda-bhilai-institute-of-professional-studies.edu.in'
+seo_title: 'Sharda Bhilai Institute of Professional Studies MBA Fees, Cu'
+seo_description: >-
+  Explore Sharda Bhilai Institute of Professional Studies Bhilai, India:
+  MBA/PGDM fee structure ₹9.3 Lakhs, average placement ₹7.8 LPA, highest CTC,
+  ranking, and 
+keywords:
+  - Sharda Bhilai Institute of Professional Studies review
+  - Sharda Bhilai Institute of Professional Studies fees structure 2027
+  - Sharda Bhilai Institute of Professional Studies average package
+  - Sharda Bhilai Institute of Professional Studies placement report 2027
+  - Sharda Bhilai Institute of Professional Studies highest package
+  - Sharda Bhilai Institute of Professional Studies cutoff 2027
+  - Sharda Bhilai Institute of Professional Studies admission process
+  - Sharda Bhilai Institute of Professional Studies ranking
+  - 'Sharda Bhilai Institute of Professional Studies Bhilai, India'
+  - is Sharda Bhilai Institute of Professional Studies good
+  - Sharda Bhilai Institute of Professional Studies mohit jain review
+  - Sharda Bhilai Institute of Professional Studies hostel fees
+  - Sharda Bhilai Institute of Professional Studies contact number
+  - Sharda Bhilai Institute of Professional Studies MBA fees
+  - Sharda Bhilai Institute of Professional Studies PGDM placement
+  - Sharda Bhilai Institute of Professional Studies MBA admission 2027
+  - 'MBA colleges Bhilai, India'
 ---
 
 ### About Sharda Bhilai Institute of Professional Studies

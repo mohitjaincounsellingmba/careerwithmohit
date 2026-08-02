@@ -1,18 +1,47 @@
 ---
-name: "JIMS Rohini (Jagan Institute of Management Studies)"
-logo: "/colleges/jims-rohini-logo.webp"
-location: "Rohini, Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: JIMS Rohini (Jagan Institute of Management Studies)
+logo: /colleges/jims-rohini-logo.webp
+location: 'Rohini, Delhi'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1993
-ownership: "Private"
-ranking: "#90 (NIRF 2025)"
-fees: "₹10.75 Lakhs"
-avg_placement: "₹9.80 LPA"
-highest_placement: "₹24.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.jimsindia.org"
+ownership: Private
+ranking: '#90 (NIRF 2025)'
+fees: ₹10.75 Lakhs
+avg_placement: ₹9.80 LPA
+highest_placement: ₹24.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.jimsindia.org'
+seo_title: JIMS Rohini (Jagan Institute of Management Studies) MBA Fees
+seo_description: >-
+  Explore JIMS Rohini (Jagan Institute of Management Studies) Rohini, Delhi:
+  MBA/PGDM fee structure ₹10.75 Lakhs, average placement ₹9.80 LPA, highest CTC,
+  rankin
+keywords:
+  - JIMS Rohini (Jagan Institute of Management Studies) review
+  - JIMS Rohini (Jagan Institute of Management Studies) fees structure 2027
+  - JIMS Rohini (Jagan Institute of Management Studies) average package
+  - JIMS Rohini (Jagan Institute of Management Studies) placement report 2027
+  - JIMS Rohini (Jagan Institute of Management Studies) highest package
+  - JIMS Rohini (Jagan Institute of Management Studies) cutoff 2027
+  - JIMS Rohini (Jagan Institute of Management Studies) admission process
+  - JIMS Rohini (Jagan Institute of Management Studies) ranking
+  - 'JIMS Rohini (Jagan Institute of Management Studies) Rohini, Delhi'
+  - is JIMS Rohini (Jagan Institute of Management Studies) good
+  - JIMS Rohini (Jagan Institute of Management Studies) mohit jain review
+  - JIMS Rohini (Jagan Institute of Management Studies) hostel fees
+  - JIMS Rohini (Jagan Institute of Management Studies) contact number
+  - JIMS Rohini (Jagan Institute of Management Studies) MBA fees
+  - JIMS Rohini (Jagan Institute of Management Studies) PGDM placement
+  - JIMS Rohini (Jagan Institute of Management Studies) MBA admission 2027
+  - 'MBA colleges Rohini, Delhi'
 ---
 
 ### Courses & Fees

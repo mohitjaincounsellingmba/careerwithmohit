@@ -1,18 +1,47 @@
 ---
-name: "Xavier Bangalore Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Bangalore, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Xavier Bangalore Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Bangalore, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2004
-ownership: "Public"
-ranking: "#29 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.xavier-bangalore-institute-of-management-technology.edu.in"
+ownership: Public
+ranking: '#29 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.xavier-bangalore-institute-of-management-technology.edu.in'
+seo_title: Xavier Bangalore Institute of Management & Technology MBA Fe
+seo_description: >-
+  Explore Xavier Bangalore Institute of Management & Technology Bangalore,
+  India: MBA/PGDM fee structure ₹5.3 Lakhs, average placement ₹7.1 LPA, highest
+  CTC, rank
+keywords:
+  - Xavier Bangalore Institute of Management & Technology review
+  - Xavier Bangalore Institute of Management & Technology fees structure 2027
+  - Xavier Bangalore Institute of Management & Technology average package
+  - Xavier Bangalore Institute of Management & Technology placement report 2027
+  - Xavier Bangalore Institute of Management & Technology highest package
+  - Xavier Bangalore Institute of Management & Technology cutoff 2027
+  - Xavier Bangalore Institute of Management & Technology admission process
+  - Xavier Bangalore Institute of Management & Technology ranking
+  - 'Xavier Bangalore Institute of Management & Technology Bangalore, India'
+  - is Xavier Bangalore Institute of Management & Technology good
+  - Xavier Bangalore Institute of Management & Technology mohit jain review
+  - Xavier Bangalore Institute of Management & Technology hostel fees
+  - Xavier Bangalore Institute of Management & Technology contact number
+  - Xavier Bangalore Institute of Management & Technology MBA fees
+  - Xavier Bangalore Institute of Management & Technology PGDM placement
+  - Xavier Bangalore Institute of Management & Technology MBA admission 2027
+  - 'MBA colleges Bangalore, India'
 ---
 
 ### About Xavier Bangalore Institute of Management & Technology

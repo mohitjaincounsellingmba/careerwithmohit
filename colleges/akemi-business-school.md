@@ -1,19 +1,46 @@
 ---
-name: "AKEMI Business School"
-logo: ""
-location: "Chakan/Tathawade, Pune"
-category: "Management"
-type: "Institute"
-courses: ["MBA"]
+name: AKEMI Business School
+logo: ''
+location: 'Chakan/Tathawade, Pune'
+category: Management
+type: Institute
+courses:
+  - MBA
 established: 2010
-ownership: "Private"
-ranking: "Top B-School in Pune"
-fees: "₹4.50 L - ₹5.90 L"
-avg_placement: "₹4.3 L - ₹7.5 LPA"
-highest_placement: "₹18.0 LPA"
-exams: ["CAT", "MAT", "CMAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top B-School in Pune
+fees: ₹4.50 L - ₹5.90 L
+avg_placement: ₹4.3 L - ₹7.5 LPA
+highest_placement: ₹18.0 LPA
+exams:
+  - CAT
+  - MAT
+  - CMAT
+website: ''
+brochure_url: ''
+seo_title: 'AKEMI Business School MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore AKEMI Business School Chakan/Tathawade, Pune: MBA/PGDM fee structure
+  ₹4.50 L - ₹5.90 L, average placement ₹4.3 L - ₹7.5 LPA, highest CTC, ranking,
+  and 2
+keywords:
+  - AKEMI Business School review
+  - AKEMI Business School fees structure 2027
+  - AKEMI Business School average package
+  - AKEMI Business School placement report 2027
+  - AKEMI Business School highest package
+  - AKEMI Business School cutoff 2027
+  - AKEMI Business School admission process
+  - AKEMI Business School ranking
+  - 'AKEMI Business School Chakan/Tathawade, Pune'
+  - is AKEMI Business School good
+  - AKEMI Business School mohit jain review
+  - AKEMI Business School hostel fees
+  - AKEMI Business School contact number
+  - AKEMI Business School MBA fees
+  - AKEMI Business School PGDM placement
+  - AKEMI Business School MBA admission 2027
+  - 'MBA colleges Chakan/Tathawade, Pune'
 ---
 
 ### Courses & Fees

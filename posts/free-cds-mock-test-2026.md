@@ -40,6 +40,8 @@ To help you measure your standing, we offer a high-fidelity **[Free CDS (Element
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What sections are tested in the UPSC CDS exam?
@@ -51,11 +53,3 @@ Yes, UPSC CDS has a negative marking of -0.33 (1/3rd) of the marks assigned to e
 ### What is a good score to clear the CDS written exam?
 A score of 120-130+ out of 300 is usually safe to clear the written cutoff for IMA, while 100+ out of 200 is sufficient for the OTA cutoff.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

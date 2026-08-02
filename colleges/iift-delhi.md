@@ -1,19 +1,46 @@
 ---
-name: "IIFT Delhi"
-logo: "/colleges/iift-logo.webp"
-location: "New Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: IIFT Delhi
+logo: /colleges/iift-logo.webp
+location: New Delhi
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1963
-ownership: "Public (Deemed)"
-ranking: "#15 (NIRF 2025)"
-fees: "₹21.82 Lakhs"
-avg_placement: "₹26.00 LPA"
-highest_placement: "₹85.0 LPA"
-exams: ["CAT", "GMAT"]
-brochure_url: "/brochures/iift-2025.pdf"
-website: "https://www.iift.ac.in"
+ownership: Public (Deemed)
+ranking: '#15 (NIRF 2025)'
+fees: ₹21.82 Lakhs
+avg_placement: ₹26.00 LPA
+highest_placement: ₹85.0 LPA
+exams:
+  - CAT
+  - GMAT
+brochure_url: /brochures/iift-2025.pdf
+website: 'https://www.iift.ac.in'
+seo_title: 'IIFT Delhi MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore IIFT Delhi New Delhi: MBA/PGDM fee structure ₹21.82 Lakhs, average
+  placement ₹26.00 LPA, highest CTC, ranking, and 2027 admission process with
+  Mohit Jai
+keywords:
+  - IIFT Delhi review
+  - IIFT Delhi fees structure 2027
+  - IIFT Delhi average package
+  - IIFT Delhi placement report 2027
+  - IIFT Delhi highest package
+  - IIFT Delhi cutoff 2027
+  - IIFT Delhi admission process
+  - IIFT Delhi ranking
+  - IIFT Delhi New Delhi
+  - is IIFT Delhi good
+  - IIFT Delhi mohit jain review
+  - IIFT Delhi hostel fees
+  - IIFT Delhi contact number
+  - IIFT Delhi MBA fees
+  - IIFT Delhi PGDM placement
+  - IIFT Delhi MBA admission 2027
+  - MBA colleges New Delhi
 ---
 
 ### Courses & Fees

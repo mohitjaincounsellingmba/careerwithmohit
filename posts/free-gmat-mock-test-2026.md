@@ -40,6 +40,8 @@ To help you measure your standing, we offer a high-fidelity **[Free GMAT Focus E
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Are these mock tests free to attempt?
@@ -51,11 +53,3 @@ Yes, immediately upon submitting your mock test, you will receive an in-depth sc
 ### Can I pause the mock test and resume later?
 No, to simulate real exam conditions, the timer runs continuously. We recommend attempting the test in a single sitting without interruptions.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

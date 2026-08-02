@@ -1,18 +1,47 @@
 ---
-name: "Lal Bahadur Shastri Belgaum Business School"
-logo: "/colleges/default-management-logo.webp"
-location: "Belgaum, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Lal Bahadur Shastri Belgaum Business School
+logo: /colleges/default-management-logo.webp
+location: 'Belgaum, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1996
-ownership: "Private"
-ranking: "#41 Top Private B-School"
-fees: "₹8.5 Lakhs"
-avg_placement: "₹8.5 LPA"
-highest_placement: "₹12.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.lal-bahadur-shastri-belgaum-business-school.edu.in"
+ownership: Private
+ranking: '#41 Top Private B-School'
+fees: ₹8.5 Lakhs
+avg_placement: ₹8.5 LPA
+highest_placement: ₹12.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.lal-bahadur-shastri-belgaum-business-school.edu.in'
+seo_title: 'Lal Bahadur Shastri Belgaum Business School MBA Fees, Cutoff'
+seo_description: >-
+  Explore Lal Bahadur Shastri Belgaum Business School Belgaum, India: MBA/PGDM
+  fee structure ₹8.5 Lakhs, average placement ₹8.5 LPA, highest CTC, ranking,
+  and 202
+keywords:
+  - Lal Bahadur Shastri Belgaum Business School review
+  - Lal Bahadur Shastri Belgaum Business School fees structure 2027
+  - Lal Bahadur Shastri Belgaum Business School average package
+  - Lal Bahadur Shastri Belgaum Business School placement report 2027
+  - Lal Bahadur Shastri Belgaum Business School highest package
+  - Lal Bahadur Shastri Belgaum Business School cutoff 2027
+  - Lal Bahadur Shastri Belgaum Business School admission process
+  - Lal Bahadur Shastri Belgaum Business School ranking
+  - 'Lal Bahadur Shastri Belgaum Business School Belgaum, India'
+  - is Lal Bahadur Shastri Belgaum Business School good
+  - Lal Bahadur Shastri Belgaum Business School mohit jain review
+  - Lal Bahadur Shastri Belgaum Business School hostel fees
+  - Lal Bahadur Shastri Belgaum Business School contact number
+  - Lal Bahadur Shastri Belgaum Business School MBA fees
+  - Lal Bahadur Shastri Belgaum Business School PGDM placement
+  - Lal Bahadur Shastri Belgaum Business School MBA admission 2027
+  - 'MBA colleges Belgaum, India'
 ---
 
 ### About Lal Bahadur Shastri Belgaum Business School

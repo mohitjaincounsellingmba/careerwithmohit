@@ -1,19 +1,46 @@
 ---
-name: "MDI Gurgaon"
-logo: "/colleges/mdi-logo.webp"
-location: "Gurgaon, Haryana"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: MDI Gurgaon
+logo: /colleges/mdi-logo.webp
+location: 'Gurgaon, Haryana'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1973
-ownership: "Private"
-ranking: "#9 (NIRF 2025)"
-fees: "₹25.0 Lakhs"
-avg_placement: "₹27.6 LPA"
-highest_placement: "₹60.0 LPA"
-exams: ["CAT", "GMAT"]
-brochure_url: "/brochures/mdi-2025.pdf"
-website: "https://www.mdi.ac.in"
+ownership: Private
+ranking: '#9 (NIRF 2025)'
+fees: ₹25.0 Lakhs
+avg_placement: ₹27.6 LPA
+highest_placement: ₹60.0 LPA
+exams:
+  - CAT
+  - GMAT
+brochure_url: /brochures/mdi-2025.pdf
+website: 'https://www.mdi.ac.in'
+seo_title: 'MDI Gurgaon MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore MDI Gurgaon Gurgaon, Haryana: MBA/PGDM fee structure ₹25.0 Lakhs,
+  average placement ₹27.6 LPA, highest CTC, ranking, and 2027 admission process
+  with Moh
+keywords:
+  - MDI Gurgaon review
+  - MDI Gurgaon fees structure 2027
+  - MDI Gurgaon average package
+  - MDI Gurgaon placement report 2027
+  - MDI Gurgaon highest package
+  - MDI Gurgaon cutoff 2027
+  - MDI Gurgaon admission process
+  - MDI Gurgaon ranking
+  - 'MDI Gurgaon Gurgaon, Haryana'
+  - is MDI Gurgaon good
+  - MDI Gurgaon mohit jain review
+  - MDI Gurgaon hostel fees
+  - MDI Gurgaon contact number
+  - MDI Gurgaon MBA fees
+  - MDI Gurgaon PGDM placement
+  - MDI Gurgaon MBA admission 2027
+  - 'MBA colleges Gurgaon, Haryana'
 ---
 
 ### About MDI Gurgaon

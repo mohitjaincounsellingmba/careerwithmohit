@@ -300,7 +300,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const collegeB = findCollegeBySlugPart(partB);
 
     if (collegeA && collegeB) {
-      const title = `${collegeA.name} vs ${collegeB.name} | Fee & NAAC Grade Comparison 2027`;
+      const title = `${collegeA.name} vs ${collegeB.name}: Compare Fees 2027`.slice(0, 60);
       const desc = `Detailed side-by-side comparison of ${collegeA.name} and ${collegeB.name}. Compare tuition fees, NAAC grades, accreditations, and placement support. Get free counseling.`;
 
       return {
@@ -313,11 +313,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
           url: PAGE_URL,
           siteName: 'CareerWithMohit',
           type: 'website',
+          images: [{ url: 'https://www.careerwithmohit.online/og-image.webp', width: 1200, height: 630, alt: title }],
         },
         twitter: {
           card: 'summary_large_image',
           title,
           description: desc,
+          images: ['https://www.careerwithmohit.online/og-image.webp'],
         }
       };
     }
@@ -326,7 +328,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // 3. University Metadata (Case C)
   const college = COLLEGES.find((c) => c.universitySlug === slug);
   if (college) {
-    const title = `${college.name} Online Admission 2027 | Fees, Approvals & Degrees`;
+    const title = `${college.name} Online Admission & Fees 2027`.slice(0, 60);
     const desc = `Explore online programs at ${college.name}. Check detailed fee structures, NAAC grade (${college.grade}), UGC approvals, and admission criteria for 2027.`;
 
     return {
@@ -339,17 +341,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         url: PAGE_URL,
         siteName: 'CareerWithMohit',
         type: 'website',
+        images: [{ url: 'https://www.careerwithmohit.online/og-image.webp', width: 1200, height: 630, alt: title }],
       },
       twitter: {
         card: 'summary_large_image',
         title,
         description: desc,
+        images: ['https://www.careerwithmohit.online/og-image.webp'],
       }
     };
   }
 
   return {
-    title: 'Top UGC Approved Online Universities 2027 | CareerWithMohit',
+    title: 'Top UGC Approved Online Universities 2027',
   };
 }
 

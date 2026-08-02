@@ -1,19 +1,48 @@
 ---
-name: "Government SKSJTI Bangalore"
-logo: ""
-location: "K.R. Circle, Bangalore"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech Computer Science", "B.Tech ISE", "B.Tech Mechanical", "B.Tech ECE"]
+name: Government SKSJTI Bangalore
+logo: ''
+location: 'K.R. Circle, Bangalore'
+category: Engineering
+type: Institute
+courses:
+  - B.Tech Computer Science
+  - B.Tech ISE
+  - B.Tech Mechanical
+  - B.Tech ECE
 established: 1963
-ownership: "Government"
-ranking: "Top Government Engineering College"
-fees: "₹0.6 Lakhs"
-avg_placement: "₹6.0 LPA"
-highest_placement: "₹25.0 LPA"
-exams: ["KCET", "COMEDK"]
-website: ""
-brochure_url: ""
+ownership: Government
+ranking: Top Government Engineering College
+fees: ₹0.6 Lakhs
+avg_placement: ₹6.0 LPA
+highest_placement: ₹25.0 LPA
+exams:
+  - KCET
+  - COMEDK
+website: ''
+brochure_url: ''
+seo_title: 'Government SKSJTI Bangalore B.Tech Fees, Cutoff & Placement '
+seo_description: >-
+  Check Government SKSJTI Bangalore K.R. Circle, Bangalore: B.Tech fee structure
+  ₹0.6 Lakhs, average placement ₹6.0 LPA, JEE cutoff, ranking, and 2027
+  engineering
+keywords:
+  - Government SKSJTI Bangalore review
+  - Government SKSJTI Bangalore fees structure 2027
+  - Government SKSJTI Bangalore average package
+  - Government SKSJTI Bangalore placement report 2027
+  - Government SKSJTI Bangalore highest package
+  - Government SKSJTI Bangalore cutoff 2027
+  - Government SKSJTI Bangalore admission process
+  - Government SKSJTI Bangalore ranking
+  - 'Government SKSJTI Bangalore K.R. Circle, Bangalore'
+  - is Government SKSJTI Bangalore good
+  - Government SKSJTI Bangalore mohit jain review
+  - Government SKSJTI Bangalore hostel fees
+  - Government SKSJTI Bangalore contact number
+  - Government SKSJTI Bangalore B.Tech fees
+  - Government SKSJTI Bangalore CSE placement
+  - Government SKSJTI Bangalore B.Tech admission 2027
+  - 'engineering colleges K.R. Circle, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

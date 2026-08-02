@@ -1,18 +1,47 @@
 ---
-name: "Ranipet Business School"
-logo: "/colleges/default-management-logo.webp"
-location: "Ranipet, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Ranipet Business School
+logo: /colleges/default-management-logo.webp
+location: 'Ranipet, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2010
-ownership: "Public"
-ranking: "#25 Top Private B-School"
-fees: "₹8.5 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹18.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.ranipet-business-school.edu.in"
+ownership: Public
+ranking: '#25 Top Private B-School'
+fees: ₹8.5 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹18.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.ranipet-business-school.edu.in'
+seo_title: 'Ranipet Business School MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Ranipet Business School Ranipet, India: MBA/PGDM fee structure ₹8.5
+  Lakhs, average placement ₹7.1 LPA, highest CTC, ranking, and 2027 admission
+  process 
+keywords:
+  - Ranipet Business School review
+  - Ranipet Business School fees structure 2027
+  - Ranipet Business School average package
+  - Ranipet Business School placement report 2027
+  - Ranipet Business School highest package
+  - Ranipet Business School cutoff 2027
+  - Ranipet Business School admission process
+  - Ranipet Business School ranking
+  - 'Ranipet Business School Ranipet, India'
+  - is Ranipet Business School good
+  - Ranipet Business School mohit jain review
+  - Ranipet Business School hostel fees
+  - Ranipet Business School contact number
+  - Ranipet Business School MBA fees
+  - Ranipet Business School PGDM placement
+  - Ranipet Business School MBA admission 2027
+  - 'MBA colleges Ranipet, India'
 ---
 
 ### About Ranipet Business School

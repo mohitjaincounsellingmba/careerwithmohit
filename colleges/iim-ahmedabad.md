@@ -1,19 +1,45 @@
 ---
-name: "IIM Ahmedabad"
-logo: "/colleges/iima-logo.webp"
-location: "Ahmedabad, Gujarat"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: IIM Ahmedabad
+logo: /colleges/iima-logo.webp
+location: 'Ahmedabad, Gujarat'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1961
-ownership: "Public"
-ranking: "#1 (NIRF 2024)"
-fees: "₹26.5 Lakhs"
-avg_placement: "₹35.0 LPA"
-highest_placement: "₹1.15 Crore"
-exams: ["CAT"]
-brochure_url: "/brochures/iima-pgp-2025.pdf"
-website: "https://www.iima.ac.in"
+ownership: Public
+ranking: '#1 (NIRF 2024)'
+fees: ₹26.5 Lakhs
+avg_placement: ₹35.0 LPA
+highest_placement: ₹1.15 Crore
+exams:
+  - CAT
+brochure_url: /brochures/iima-pgp-2025.pdf
+website: 'https://www.iima.ac.in'
+seo_title: 'IIM Ahmedabad MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore IIM Ahmedabad Ahmedabad, Gujarat: MBA/PGDM fee structure ₹26.5 Lakhs,
+  average placement ₹35.0 LPA, highest CTC, ranking, and 2027 admission process
+  with
+keywords:
+  - IIM Ahmedabad review
+  - IIM Ahmedabad fees structure 2027
+  - IIM Ahmedabad average package
+  - IIM Ahmedabad placement report 2027
+  - IIM Ahmedabad highest package
+  - IIM Ahmedabad cutoff 2027
+  - IIM Ahmedabad admission process
+  - IIM Ahmedabad ranking
+  - 'IIM Ahmedabad Ahmedabad, Gujarat'
+  - is IIM Ahmedabad good
+  - IIM Ahmedabad mohit jain review
+  - IIM Ahmedabad hostel fees
+  - IIM Ahmedabad contact number
+  - IIM Ahmedabad MBA fees
+  - IIM Ahmedabad PGDM placement
+  - IIM Ahmedabad MBA admission 2027
+  - 'MBA colleges Ahmedabad, Gujarat'
 ---
 
 ### Courses & Fees

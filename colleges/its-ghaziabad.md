@@ -1,19 +1,47 @@
 ---
-name: "Institute of Technology & Science (ITS)"
-logo: ""
-location: "Ghaziabad"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Institute of Technology & Science (ITS)
+logo: ''
+location: Ghaziabad
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2000
-ownership: "Private"
-ranking: "Top B-School"
-fees: "₹6.3 Lakhs"
-avg_placement: "₹6.0 LPA"
-highest_placement: "₹11.0 LPA"
-exams: ["CAT","MAT","CMAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top B-School
+fees: ₹6.3 Lakhs
+avg_placement: ₹6.0 LPA
+highest_placement: ₹11.0 LPA
+exams:
+  - CAT
+  - MAT
+  - CMAT
+website: ''
+brochure_url: ''
+seo_title: 'Institute of Technology & Science (ITS) MBA Fees, Cutoff & P'
+seo_description: >-
+  Explore Institute of Technology & Science (ITS) Ghaziabad: MBA/PGDM fee
+  structure ₹6.3 Lakhs, average placement ₹6.0 LPA, highest CTC, ranking, and
+  2027 admissi
+keywords:
+  - Institute of Technology & Science (ITS) review
+  - Institute of Technology & Science (ITS) fees structure 2027
+  - Institute of Technology & Science (ITS) average package
+  - Institute of Technology & Science (ITS) placement report 2027
+  - Institute of Technology & Science (ITS) highest package
+  - Institute of Technology & Science (ITS) cutoff 2027
+  - Institute of Technology & Science (ITS) admission process
+  - Institute of Technology & Science (ITS) ranking
+  - Institute of Technology & Science (ITS) Ghaziabad
+  - is Institute of Technology & Science (ITS) good
+  - Institute of Technology & Science (ITS) mohit jain review
+  - Institute of Technology & Science (ITS) hostel fees
+  - Institute of Technology & Science (ITS) contact number
+  - Institute of Technology & Science (ITS) MBA fees
+  - Institute of Technology & Science (ITS) PGDM placement
+  - Institute of Technology & Science (ITS) MBA admission 2027
+  - MBA colleges Ghaziabad
 ---
 
 ### Courses & Fees

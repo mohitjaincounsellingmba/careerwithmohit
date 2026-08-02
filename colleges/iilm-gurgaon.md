@@ -1,18 +1,47 @@
 ---
-name: "IILM University, Gurgaon"
-logo: "/colleges/iilm-logo.webp"
-location: "Gurgaon, Haryana"
-category: "Management"
-type: "University"
-courses: ["MBA", "PGDM"]
+name: 'IILM University, Gurgaon'
+logo: /colleges/iilm-logo.webp
+location: 'Gurgaon, Haryana'
+category: Management
+type: University
+courses:
+  - MBA
+  - PGDM
 established: 1993
-ownership: "Private"
-ranking: "#11 (NIRF 2024 - Top Private B-Schools)"
-fees: "₹12.5 Lakhs"
-avg_placement: "₹8.6 LPA"
-highest_placement: "₹26.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://iilm.edu.in"
+ownership: Private
+ranking: '#11 (NIRF 2024 - Top Private B-Schools)'
+fees: ₹12.5 Lakhs
+avg_placement: ₹8.6 LPA
+highest_placement: ₹26.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://iilm.edu.in'
+seo_title: 'IILM University, Gurgaon MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore IILM University, Gurgaon Gurgaon, Haryana: MBA/PGDM fee structure
+  ₹12.5 Lakhs, average placement ₹8.6 LPA, highest CTC, ranking, and 2027
+  admission proc
+keywords:
+  - 'IILM University, Gurgaon review'
+  - 'IILM University, Gurgaon fees structure 2027'
+  - 'IILM University, Gurgaon average package'
+  - 'IILM University, Gurgaon placement report 2027'
+  - 'IILM University, Gurgaon highest package'
+  - 'IILM University, Gurgaon cutoff 2027'
+  - 'IILM University, Gurgaon admission process'
+  - 'IILM University, Gurgaon ranking'
+  - 'IILM University, Gurgaon Gurgaon, Haryana'
+  - 'is IILM University, Gurgaon good'
+  - 'IILM University, Gurgaon mohit jain review'
+  - 'IILM University, Gurgaon hostel fees'
+  - 'IILM University, Gurgaon contact number'
+  - 'IILM University, Gurgaon MBA fees'
+  - 'IILM University, Gurgaon PGDM placement'
+  - 'IILM University, Gurgaon MBA admission 2027'
+  - 'MBA colleges Gurgaon, Haryana'
 ---
 
 ### About IILM Gurgaon

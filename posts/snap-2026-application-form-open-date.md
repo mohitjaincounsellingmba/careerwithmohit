@@ -59,7 +59,7 @@ While Symbiosis International University is yet to release the official exam bro
 The overall registration cost includes the exam fee per attempt plus separate fees for each Symbiosis program you wish to apply to:
 
 * **SNAP 2026 Registration Fee:** ₹2,250 per attempt (Expected)
-* **Symbiosis Institute Program Fee:** ₹1,000 per program (e.g., MBA at SIBM Pune, MBA at SCMHRD)
+* **Symbiosis Institute Program Fee:** ₹1,000 per program (e.g., MBA at [SIBM Pune](/colleges/sibm-pune), MBA at SCMHRD)
 * **Mode of Payment:** Online via net banking, credit cards, debit cards, or UPI.
 
 ---
@@ -105,7 +105,7 @@ The registration fee is expected to be **₹2,250 per attempt**. Additionally, a
 ### Recommended Resources:
 
 * **[Comprehensive SNAP Exam Strategy, Pattern & Syllabus Guide](/blog/all-about-snap-exam)**
-* **[Honest Comparison of SIBM Pune vs SCMHRD Pune Admission & Fees](/blog/all-about-symbiosis-mba-institutes)**
+* **[Honest Comparison of SIBM Pune vs [SCMHRD Pune](/colleges/scmhrd-pune) Admission & Fees](/blog/all-about-symbiosis-mba-institutes)**
 * **[Other Top MBA Entrance Exams 2026 Guides](/blog/all-about-omets-mba-entrance-exams-2026)**
 * **[Top MBA Colleges Accepting 90+ SNAP Percentile](/blog/all-about-sibm-bangalore)**
 

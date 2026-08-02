@@ -1,18 +1,46 @@
 ---
-name: "Pearl Academy, Delhi"
-logo: "/colleges/pearl-logo.webp"
-location: "South Delhi, Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'Pearl Academy, Delhi'
+logo: /colleges/pearl-logo.webp
+location: 'South Delhi, Delhi'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1993
-ownership: "Private"
-ranking: "#1 Fashion & Design Institute in India"
-fees: "₹21.0 Lakhs"
-avg_placement: "₹10.5 LPA"
-highest_placement: "₹26.0 LPA"
-exams: ["Entrance Exam", "Portfolio", "Interview"]
-website: "https://www.pearlacademy.com"
+ownership: Private
+ranking: '#1 Fashion & Design Institute in India'
+fees: ₹21.0 Lakhs
+avg_placement: ₹10.5 LPA
+highest_placement: ₹26.0 LPA
+exams:
+  - Entrance Exam
+  - Portfolio
+  - Interview
+website: 'https://www.pearlacademy.com'
+seo_title: 'Pearl Academy, Delhi MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Pearl Academy, Delhi South Delhi, Delhi: MBA/PGDM fee structure ₹21.0
+  Lakhs, average placement ₹10.5 LPA, highest CTC, ranking, and 2027 admission
+  proce
+keywords:
+  - 'Pearl Academy, Delhi review'
+  - 'Pearl Academy, Delhi fees structure 2027'
+  - 'Pearl Academy, Delhi average package'
+  - 'Pearl Academy, Delhi placement report 2027'
+  - 'Pearl Academy, Delhi highest package'
+  - 'Pearl Academy, Delhi cutoff 2027'
+  - 'Pearl Academy, Delhi admission process'
+  - 'Pearl Academy, Delhi ranking'
+  - 'Pearl Academy, Delhi South Delhi, Delhi'
+  - 'is Pearl Academy, Delhi good'
+  - 'Pearl Academy, Delhi mohit jain review'
+  - 'Pearl Academy, Delhi hostel fees'
+  - 'Pearl Academy, Delhi contact number'
+  - 'Pearl Academy, Delhi MBA fees'
+  - 'Pearl Academy, Delhi PGDM placement'
+  - 'Pearl Academy, Delhi MBA admission 2027'
+  - 'MBA colleges South Delhi, Delhi'
 ---
 
 ### Courses & Fees

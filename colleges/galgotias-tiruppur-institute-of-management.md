@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Tiruppur Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Tiruppur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Tiruppur Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Tiruppur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2001
-ownership: "Public"
-ranking: "#96 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-tiruppur-institute-of-management.edu.in"
+ownership: Public
+ranking: '#96 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-tiruppur-institute-of-management.edu.in'
+seo_title: 'Galgotias Tiruppur Institute of Management MBA Fees, Cutoff '
+seo_description: >-
+  Explore Galgotias Tiruppur Institute of Management Tiruppur, India: MBA/PGDM
+  fee structure ₹7.7 Lakhs, average placement ₹5.0 LPA, highest CTC, ranking,
+  and 202
+keywords:
+  - Galgotias Tiruppur Institute of Management review
+  - Galgotias Tiruppur Institute of Management fees structure 2027
+  - Galgotias Tiruppur Institute of Management average package
+  - Galgotias Tiruppur Institute of Management placement report 2027
+  - Galgotias Tiruppur Institute of Management highest package
+  - Galgotias Tiruppur Institute of Management cutoff 2027
+  - Galgotias Tiruppur Institute of Management admission process
+  - Galgotias Tiruppur Institute of Management ranking
+  - 'Galgotias Tiruppur Institute of Management Tiruppur, India'
+  - is Galgotias Tiruppur Institute of Management good
+  - Galgotias Tiruppur Institute of Management mohit jain review
+  - Galgotias Tiruppur Institute of Management hostel fees
+  - Galgotias Tiruppur Institute of Management contact number
+  - Galgotias Tiruppur Institute of Management MBA fees
+  - Galgotias Tiruppur Institute of Management PGDM placement
+  - Galgotias Tiruppur Institute of Management MBA admission 2027
+  - 'MBA colleges Tiruppur, India'
 ---
 
 ### About Galgotias Tiruppur Institute of Management

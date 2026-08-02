@@ -1,19 +1,47 @@
 ---
-name: "Chanakya University"
-logo: ""
-location: "Devanahalli, Bangalore"
-category: "Engineering"
-type: "University"
-courses: ["B.Tech Computer Science", "B.Tech Data Science", "B.Tech ECE"]
+name: Chanakya University
+logo: ''
+location: 'Devanahalli, Bangalore'
+category: Engineering
+type: University
+courses:
+  - B.Tech Computer Science
+  - B.Tech Data Science
+  - B.Tech ECE
 established: 2021
-ownership: "Private University"
-ranking: "Emerging Engineering College"
-fees: "₹8.0 Lakhs - ₹10.0 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹15.0 LPA"
-exams: ["KCET", "Chanakya CET"]
-website: ""
-brochure_url: ""
+ownership: Private University
+ranking: Emerging Engineering College
+fees: ₹8.0 Lakhs - ₹10.0 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹15.0 LPA
+exams:
+  - KCET
+  - Chanakya CET
+website: ''
+brochure_url: ''
+seo_title: 'Chanakya University B.Tech Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Check Chanakya University Devanahalli, Bangalore: B.Tech fee structure ₹8.0
+  Lakhs - ₹10.0 Lakhs, average placement ₹5.0 LPA, JEE cutoff, ranking, and 2027
+  engin
+keywords:
+  - Chanakya University review
+  - Chanakya University fees structure 2027
+  - Chanakya University average package
+  - Chanakya University placement report 2027
+  - Chanakya University highest package
+  - Chanakya University cutoff 2027
+  - Chanakya University admission process
+  - Chanakya University ranking
+  - 'Chanakya University Devanahalli, Bangalore'
+  - is Chanakya University good
+  - Chanakya University mohit jain review
+  - Chanakya University hostel fees
+  - Chanakya University contact number
+  - Chanakya University B.Tech fees
+  - Chanakya University CSE placement
+  - Chanakya University B.Tech admission 2027
+  - 'engineering colleges Devanahalli, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

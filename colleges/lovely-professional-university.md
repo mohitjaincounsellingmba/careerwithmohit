@@ -1,20 +1,50 @@
 ---
-name: "Lovely Professional University"
-logo: "/colleges/lovely-professional-university-logo.webp"
-location: "Phagwara, Punjab"
-category: "Engineering"
-type: "University"
-courses: ["B.Tech", "BBA", "MBA", "BCA"]
+name: Lovely Professional University
+logo: /colleges/lovely-professional-university-logo.webp
+location: 'Phagwara, Punjab'
+category: Engineering
+type: University
+courses:
+  - B.Tech
+  - BBA
+  - MBA
+  - BCA
 established: 2005
-ownership: "Private"
-ranking: "#47 (NIRF Engineering 2024)"
-fees: "₹2.5 Lakhs (per year)"
-avg_placement: "₹5.8 LPA"
-highest_placement: "₹42 LPA"
-lowest_placement: "₹2.5 LPA"
-exams: ["LPUNEST", "JEE Main", "CUET"]
-brochure_url: ""
-website: "https://www.lpu.in"
+ownership: Private
+ranking: '#47 (NIRF Engineering 2024)'
+fees: ₹2.5 Lakhs (per year)
+avg_placement: ₹5.8 LPA
+highest_placement: ₹42 LPA
+lowest_placement: ₹2.5 LPA
+exams:
+  - LPUNEST
+  - JEE Main
+  - CUET
+brochure_url: ''
+website: 'https://www.lpu.in'
+seo_title: 'Lovely Professional University B.Tech Fees, Cutoff & Placeme'
+seo_description: >-
+  Check Lovely Professional University Phagwara, Punjab: B.Tech fee structure
+  ₹2.5 Lakhs (per year), average placement ₹5.8 LPA, JEE cutoff, ranking, and
+  2027 eng
+keywords:
+  - Lovely Professional University review
+  - Lovely Professional University fees structure 2027
+  - Lovely Professional University average package
+  - Lovely Professional University placement report 2027
+  - Lovely Professional University highest package
+  - Lovely Professional University cutoff 2027
+  - Lovely Professional University admission process
+  - Lovely Professional University ranking
+  - 'Lovely Professional University Phagwara, Punjab'
+  - is Lovely Professional University good
+  - Lovely Professional University mohit jain review
+  - Lovely Professional University hostel fees
+  - Lovely Professional University contact number
+  - Lovely Professional University B.Tech fees
+  - Lovely Professional University CSE placement
+  - Lovely Professional University B.Tech admission 2027
+  - 'engineering colleges Phagwara, Punjab'
 ---
 
 ### About Lovely Professional University

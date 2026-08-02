@@ -1,28 +1,58 @@
 ---
-title: "Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi Review 2026: Placements, Fees, Courses & Admission"
+title: >-
+  Thapar Institute of Engineering and Technology (LM Thapar School of
+  Management), Dera Bassi Review 2026: Placements, Fees, Courses & Admission
 date: '2026-08-03'
-description: "Comprehensive review of Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi (Dera Bassi / Patiala) for 2026. Check latest fee structure, flagship courses, placement statistics, top recruiters, and admission process."
+description: >-
+  Comprehensive review of Thapar Institute of Engineering and Technology (LM
+  Thapar School of Management), Dera Bassi (Dera Bassi / Patiala) for 2026.
+  Check latest fee structure, flagship courses, placement statistics, top
+  recruiters, and admission process.
 keywords:
-  - "LM Thapar School of Management (TIET) review 2026"
-  - "LM Thapar School of Management (TIET) placements 2026"
-  - "LM Thapar School of Management (TIET) fees structure"
-  - "LM Thapar School of Management (TIET) admission process"
-  - "Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi review"
-  - "Best Colleges in Dera Bassi / Patiala"
-  - "Top Universities in Punjab"
-  - "Direct Admission in Dera Bassi / Patiala"
-category: "Colleges"
-location: "Dera Bassi / Patiala"
+  - LM Thapar School of Management (TIET) review 2026
+  - LM Thapar School of Management (TIET) placements 2026
+  - LM Thapar School of Management (TIET) fees structure
+  - LM Thapar School of Management (TIET) admission process
+  - >-
+    Thapar Institute of Engineering and Technology (LM Thapar School of
+    Management), Dera Bassi review
+  - Best Colleges in Dera Bassi / Patiala
+  - Top Universities in Punjab
+  - Direct Admission in Dera Bassi / Patiala
+category: Colleges
+location: Dera Bassi / Patiala
 faqs:
-  - question: "Is Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi a good choice for higher education in 2026?"
-    answer: "Yes, Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi is a highly reputed institution in Punjab (UGC, NAAC A+ Grade, NBA Accredited, NIRF Top 25 (Engineering/University), AACSB Member). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹8.50 LPA - ₹10.20 LPA (LMTSM MBA)."
-  - question: "What is the annual fee structure at Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi?"
-    answer: "The annual tuition fee at Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi generally ranges between ₹5.50 Lakhs - ₹7.00 Lakhs per annum (Total MBA fee ~₹12.5 Lakhs), depending on the chosen program (MBA (LMTSM), B.Tech (TIET Patiala), MBA in Business Analytics / Tech Management) and applicable merit scholarships."
-  - question: "How can I apply for admission to Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi in 2026?"
-    answer: "Admissions for 2026 at Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi are conducted based on entrance exams such as CAT, XAT, NMAT, MAT, CMAT, GMAT, GRE, Thapar Entrance, followed by counseling, personal interviews, or merit-based shortlisting."
+  - question: >-
+      Is Thapar Institute of Engineering and Technology (LM Thapar School of
+      Management), Dera Bassi a good choice for higher education in 2026?
+    answer: >-
+      Yes, Thapar Institute of Engineering and Technology (LM Thapar School of
+      Management), Dera Bassi is a highly reputed institution in Punjab (UGC,
+      NAAC A+ Grade, NBA Accredited, NIRF Top 25 (Engineering/University), AACSB
+      Member). It offers modern campus infrastructure, strong industry
+      integration, and a commendable average placement package of ₹8.50 LPA -
+      ₹10.20 LPA (LMTSM MBA).
+  - question: >-
+      What is the annual fee structure at Thapar Institute of Engineering and
+      Technology (LM Thapar School of Management), Dera Bassi?
+    answer: >-
+      The annual tuition fee at Thapar Institute of Engineering and Technology
+      (LM Thapar School of Management), Dera Bassi generally ranges between
+      ₹5.50 Lakhs - ₹7.00 Lakhs per annum (Total MBA fee ~₹12.5 Lakhs),
+      depending on the chosen program (MBA (LMTSM), B.Tech (TIET Patiala), MBA
+      in Business Analytics / Tech Management) and applicable merit
+      scholarships.
+  - question: >-
+      How can I apply for admission to Thapar Institute of Engineering and
+      Technology (LM Thapar School of Management), Dera Bassi in 2026?
+    answer: >-
+      Admissions for 2026 at Thapar Institute of Engineering and Technology (LM
+      Thapar School of Management), Dera Bassi are conducted based on entrance
+      exams such as CAT, XAT, NMAT, MAT, CMAT, GMAT, GRE, Thapar Entrance,
+      followed by counseling, personal interviews, or merit-based shortlisting.
 ---
 
-Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi**, situated in **Dera Bassi / Patiala**, stands out as one of the premier destinations for undergraduate and postgraduate education in Punjab.
+Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **[Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi**, situated in **Dera Bassi / Patiala**, stands out as one of the premier destinations for undergraduate and postgraduate education in Punjab.
 
 Whether you are aspiring for engineering, management, legal studies, or new-age interdisciplinary courses, understanding the reality of campus placements, actual fee structures, and return on investment (ROI) is crucial. In this comprehensive **2026 review of Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi**, we analyze the university's academic quality, recruiter network, facilities, and admission procedures.
 
@@ -153,4 +183,4 @@ Navigating college cutoffs, fee structures, and course specializations can be ch
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.

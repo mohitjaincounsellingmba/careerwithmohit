@@ -1,18 +1,47 @@
 ---
-name: "I Business Institute (IBI), Greater Noida"
-logo: "/colleges/ibi-logo.webp"
-location: "Greater Noida, Uttar Pradesh"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'I Business Institute (IBI), Greater Noida'
+logo: /colleges/ibi-logo.webp
+location: 'Greater Noida, Uttar Pradesh'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2008
-ownership: "Private"
-ranking: "Top Private B-School in North India"
-fees: "₹7.5 Lakhs"
-avg_placement: "₹7.50 LPA"
-highest_placement: "₹15.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.ibi.edu.in"
+ownership: Private
+ranking: Top Private B-School in North India
+fees: ₹7.5 Lakhs
+avg_placement: ₹7.50 LPA
+highest_placement: ₹15.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.ibi.edu.in'
+seo_title: 'I Business Institute (IBI), Greater Noida MBA Fees, Cutoff &'
+seo_description: >-
+  Explore I Business Institute (IBI), Greater Noida Greater Noida, Uttar
+  Pradesh: MBA/PGDM fee structure ₹7.5 Lakhs, average placement ₹7.50 LPA,
+  highest CTC, ran
+keywords:
+  - 'I Business Institute (IBI), Greater Noida review'
+  - 'I Business Institute (IBI), Greater Noida fees structure 2027'
+  - 'I Business Institute (IBI), Greater Noida average package'
+  - 'I Business Institute (IBI), Greater Noida placement report 2027'
+  - 'I Business Institute (IBI), Greater Noida highest package'
+  - 'I Business Institute (IBI), Greater Noida cutoff 2027'
+  - 'I Business Institute (IBI), Greater Noida admission process'
+  - 'I Business Institute (IBI), Greater Noida ranking'
+  - 'I Business Institute (IBI), Greater Noida Greater Noida, Uttar Pradesh'
+  - 'is I Business Institute (IBI), Greater Noida good'
+  - 'I Business Institute (IBI), Greater Noida mohit jain review'
+  - 'I Business Institute (IBI), Greater Noida hostel fees'
+  - 'I Business Institute (IBI), Greater Noida contact number'
+  - 'I Business Institute (IBI), Greater Noida MBA fees'
+  - 'I Business Institute (IBI), Greater Noida PGDM placement'
+  - 'I Business Institute (IBI), Greater Noida MBA admission 2027'
+  - 'MBA colleges Greater Noida, Uttar Pradesh'
 ---
 
 ### Courses & Fees

@@ -1,18 +1,47 @@
 ---
-name: "Fostiima Business School, Delhi"
-logo: "/colleges/fostiima-logo.webp"
-location: "Dwarka, Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'Fostiima Business School, Delhi'
+logo: /colleges/fostiima-logo.webp
+location: 'Dwarka, Delhi'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2007
-ownership: "Private"
-ranking: "#1 B-School in Delhi/NCR for ROI"
-fees: "₹10.95 Lakhs"
-avg_placement: "₹11.15 LPA"
-highest_placement: "₹30.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.fostiima.org"
+ownership: Private
+ranking: '#1 B-School in Delhi/NCR for ROI'
+fees: ₹10.95 Lakhs
+avg_placement: ₹11.15 LPA
+highest_placement: ₹30.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.fostiima.org'
+seo_title: 'Fostiima Business School, Delhi MBA Fees, Cutoff & Placement'
+seo_description: >-
+  Explore Fostiima Business School, Delhi Dwarka, Delhi: MBA/PGDM fee structure
+  ₹10.95 Lakhs, average placement ₹11.15 LPA, highest CTC, ranking, and 2027
+  admissi
+keywords:
+  - 'Fostiima Business School, Delhi review'
+  - 'Fostiima Business School, Delhi fees structure 2027'
+  - 'Fostiima Business School, Delhi average package'
+  - 'Fostiima Business School, Delhi placement report 2027'
+  - 'Fostiima Business School, Delhi highest package'
+  - 'Fostiima Business School, Delhi cutoff 2027'
+  - 'Fostiima Business School, Delhi admission process'
+  - 'Fostiima Business School, Delhi ranking'
+  - 'Fostiima Business School, Delhi Dwarka, Delhi'
+  - 'is Fostiima Business School, Delhi good'
+  - 'Fostiima Business School, Delhi mohit jain review'
+  - 'Fostiima Business School, Delhi hostel fees'
+  - 'Fostiima Business School, Delhi contact number'
+  - 'Fostiima Business School, Delhi MBA fees'
+  - 'Fostiima Business School, Delhi PGDM placement'
+  - 'Fostiima Business School, Delhi MBA admission 2027'
+  - 'MBA colleges Dwarka, Delhi'
 ---
 
 ### Courses & Fees

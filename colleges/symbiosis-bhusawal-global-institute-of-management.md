@@ -1,18 +1,47 @@
 ---
-name: "Symbiosis Bhusawal Global Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Bhusawal, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Symbiosis Bhusawal Global Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Bhusawal, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2014
-ownership: "Public"
-ranking: "#79 Top Private B-School"
-fees: "₹6.9 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.symbiosis-bhusawal-global-institute-of-management.edu.in"
+ownership: Public
+ranking: '#79 Top Private B-School'
+fees: ₹6.9 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.symbiosis-bhusawal-global-institute-of-management.edu.in'
+seo_title: 'Symbiosis Bhusawal Global Institute of Management MBA Fees, '
+seo_description: >-
+  Explore Symbiosis Bhusawal Global Institute of Management Bhusawal, India:
+  MBA/PGDM fee structure ₹6.9 Lakhs, average placement ₹7.1 LPA, highest CTC,
+  ranking, 
+keywords:
+  - Symbiosis Bhusawal Global Institute of Management review
+  - Symbiosis Bhusawal Global Institute of Management fees structure 2027
+  - Symbiosis Bhusawal Global Institute of Management average package
+  - Symbiosis Bhusawal Global Institute of Management placement report 2027
+  - Symbiosis Bhusawal Global Institute of Management highest package
+  - Symbiosis Bhusawal Global Institute of Management cutoff 2027
+  - Symbiosis Bhusawal Global Institute of Management admission process
+  - Symbiosis Bhusawal Global Institute of Management ranking
+  - 'Symbiosis Bhusawal Global Institute of Management Bhusawal, India'
+  - is Symbiosis Bhusawal Global Institute of Management good
+  - Symbiosis Bhusawal Global Institute of Management mohit jain review
+  - Symbiosis Bhusawal Global Institute of Management hostel fees
+  - Symbiosis Bhusawal Global Institute of Management contact number
+  - Symbiosis Bhusawal Global Institute of Management MBA fees
+  - Symbiosis Bhusawal Global Institute of Management PGDM placement
+  - Symbiosis Bhusawal Global Institute of Management MBA admission 2027
+  - 'MBA colleges Bhusawal, India'
 ---
 
 ### About Symbiosis Bhusawal Global Institute of Management

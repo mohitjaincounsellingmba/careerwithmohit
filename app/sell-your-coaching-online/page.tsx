@@ -22,7 +22,7 @@ import { JsonLd } from '@/components/JsonLd';
 import { SellCoachingInteractiveSection } from './SellCoachingInteractiveSection';
 
 export const metadata: Metadata = {
-  title: "Sell Your Coaching Online | Build Branded Coaching App for Teachers & YouTubers",
+  title: "Sell Your Coaching Online: Branded App in 7 Days",
   description: "Launch your own branded coaching app and website in 7 days. The #1 platform for teachers, YouTubers, and coaching centers to sell courses online with 0% revenue share, DRM anti-piracy, and live classes. Book Free Demo!",
   keywords: [
     "sell coaching online", "branded coaching app", "app for teachers", "online coaching platform", 
@@ -34,15 +34,15 @@ export const metadata: Metadata = {
     canonical: "/sell-your-coaching-online",
   },
   openGraph: {
-    title: "Sell Your Coaching Online | Build Branded Coaching App for Teachers",
+    title: "Sell Your Coaching Online: Branded App in 7 Days",
     description: "Launch your own branded coaching app and website in 7 days. Keep 100% of your earnings with 0% commission, DRM anti-piracy security, and live classes.",
-    url: "https://careerwithmohit.online/sell-your-coaching-online",
+    url: "https://www.careerwithmohit.online/sell-your-coaching-online",
     siteName: "CareerWithMohit",
     locale: "en_IN",
     type: "website",
     images: [
       {
-        url: "/images/coaching-app-mockup.png",
+        url: "https://www.careerwithmohit.online/og-image.webp",
         width: 1200,
         height: 630,
         alt: "CareerWithMohit Branded Coaching App Builder",
@@ -51,9 +51,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sell Your Coaching Online | #1 Branded Coaching App Builder",
+    title: "Sell Your Coaching Online: Branded App in 7 Days",
     description: "Launch your own branded Android & iOS coaching app in 7 days. 0% commission, anti-piracy security & automated payments.",
-    images: ["/images/coaching-app-mockup.png"],
+    images: ["https://www.careerwithmohit.online/og-image.webp"],
   },
 };
 

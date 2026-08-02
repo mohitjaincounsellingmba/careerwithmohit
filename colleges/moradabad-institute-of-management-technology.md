@@ -1,18 +1,47 @@
 ---
-name: "Moradabad Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Moradabad, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Moradabad Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Moradabad, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2001
-ownership: "Public"
-ranking: "#21 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹12.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.moradabad-institute-of-management-technology.edu.in"
+ownership: Public
+ranking: '#21 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹12.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.moradabad-institute-of-management-technology.edu.in'
+seo_title: 'Moradabad Institute of Management & Technology MBA Fees, Cut'
+seo_description: >-
+  Explore Moradabad Institute of Management & Technology Moradabad, India:
+  MBA/PGDM fee structure ₹5.3 Lakhs, average placement ₹7.1 LPA, highest CTC,
+  ranking, an
+keywords:
+  - Moradabad Institute of Management & Technology review
+  - Moradabad Institute of Management & Technology fees structure 2027
+  - Moradabad Institute of Management & Technology average package
+  - Moradabad Institute of Management & Technology placement report 2027
+  - Moradabad Institute of Management & Technology highest package
+  - Moradabad Institute of Management & Technology cutoff 2027
+  - Moradabad Institute of Management & Technology admission process
+  - Moradabad Institute of Management & Technology ranking
+  - 'Moradabad Institute of Management & Technology Moradabad, India'
+  - is Moradabad Institute of Management & Technology good
+  - Moradabad Institute of Management & Technology mohit jain review
+  - Moradabad Institute of Management & Technology hostel fees
+  - Moradabad Institute of Management & Technology contact number
+  - Moradabad Institute of Management & Technology MBA fees
+  - Moradabad Institute of Management & Technology PGDM placement
+  - Moradabad Institute of Management & Technology MBA admission 2027
+  - 'MBA colleges Moradabad, India'
 ---
 
 ### About Moradabad Institute of Management & Technology

@@ -1,28 +1,54 @@
 ---
-title: "Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore Review 2026: Placements, Fees, Courses & Admission"
+title: >-
+  Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore Review
+  2026: Placements, Fees, Courses & Admission
 date: '2026-08-03'
-description: "Comprehensive review of Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore (Coimbatore (Ettimadai)) for 2026. Check latest fee structure, flagship courses, placement statistics, top recruiters, and admission process."
+description: >-
+  Comprehensive review of Amrita Vishwa Vidyapeetham (Amrita School of
+  Business), Coimbatore (Coimbatore (Ettimadai)) for 2026. Check latest fee
+  structure, flagship courses, placement statistics, top recruiters, and
+  admission process.
 keywords:
-  - "Amrita University Coimbatore (ASB) review 2026"
-  - "Amrita University Coimbatore (ASB) placements 2026"
-  - "Amrita University Coimbatore (ASB) fees structure"
-  - "Amrita University Coimbatore (ASB) admission process"
-  - "Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore review"
-  - "Best Colleges in Coimbatore (Ettimadai)"
-  - "Top Universities in Coimbatore, South India"
-  - "Direct Admission in Coimbatore (Ettimadai)"
-category: "Colleges"
-location: "Coimbatore (Ettimadai)"
+  - Amrita University Coimbatore (ASB) review 2026
+  - Amrita University Coimbatore (ASB) placements 2026
+  - Amrita University Coimbatore (ASB) fees structure
+  - Amrita University Coimbatore (ASB) admission process
+  - 'Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore review'
+  - Best Colleges in Coimbatore (Ettimadai)
+  - 'Top Universities in Coimbatore, South India'
+  - Direct Admission in Coimbatore (Ettimadai)
+category: Colleges
+location: Coimbatore (Ettimadai)
 faqs:
-  - question: "Is Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore a good choice for higher education in 2026?"
-    answer: "Yes, Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore is a highly reputed institution in Coimbatore, South India (UGC, NAAC A++ Grade (3.70/4), NIRF Top 10 University, AACSB Accredited (ASB)). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹9.20 LPA - ₹10.80 LPA."
-  - question: "What is the annual fee structure at Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore?"
-    answer: "The annual tuition fee at Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore generally ranges between ₹3.50 Lakhs - ₹5.50 Lakhs per annum (Total MBA fee ~₹11.5 Lakhs), depending on the chosen program (MBA (Amrita School of Business - ASB), B.Tech (AEEE), M.Tech, Ph.D) and applicable merit scholarships."
-  - question: "How can I apply for admission to Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore in 2026?"
-    answer: "Admissions for 2026 at Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore are conducted based on entrance exams such as AEEE (B.Tech), CAT, XAT, MAT, CMAT, NMAT, ACAT (MBA), followed by counseling, personal interviews, or merit-based shortlisting."
+  - question: >-
+      Is Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore a
+      good choice for higher education in 2026?
+    answer: >-
+      Yes, Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore is
+      a highly reputed institution in Coimbatore, South India (UGC, NAAC A++
+      Grade (3.70/4), NIRF Top 10 University, AACSB Accredited (ASB)). It offers
+      modern campus infrastructure, strong industry integration, and a
+      commendable average placement package of ₹9.20 LPA - ₹10.80 LPA.
+  - question: >-
+      What is the annual fee structure at Amrita Vishwa Vidyapeetham (Amrita
+      School of Business), Coimbatore?
+    answer: >-
+      The annual tuition fee at Amrita Vishwa Vidyapeetham (Amrita School of
+      Business), Coimbatore generally ranges between ₹3.50 Lakhs - ₹5.50 Lakhs
+      per annum (Total MBA fee ~₹11.5 Lakhs), depending on the chosen program
+      (MBA (Amrita School of Business - ASB), B.Tech (AEEE), M.Tech, Ph.D) and
+      applicable merit scholarships.
+  - question: >-
+      How can I apply for admission to Amrita Vishwa Vidyapeetham (Amrita School
+      of Business), Coimbatore in 2026?
+    answer: >-
+      Admissions for 2026 at Amrita Vishwa Vidyapeetham (Amrita School of
+      Business), Coimbatore are conducted based on entrance exams such as AEEE
+      (B.Tech), CAT, XAT, MAT, CMAT, NMAT, ACAT (MBA), followed by counseling,
+      personal interviews, or merit-based shortlisting.
 ---
 
-Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore**, situated in **Coimbatore (Ettimadai)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Coimbatore, South India.
+Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Amrita Vishwa Vidyapeetham ([Amrita School of Business](/colleges/amrita-school-of-business)), Coimbatore**, situated in **Coimbatore (Ettimadai)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Coimbatore, South India.
 
 Whether you are aspiring for engineering, management, legal studies, or new-age interdisciplinary courses, understanding the reality of campus placements, actual fee structures, and return on investment (ROI) is crucial. In this comprehensive **2026 review of Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore**, we analyze the university's academic quality, recruiter network, facilities, and admission procedures.
 
@@ -153,4 +179,4 @@ Navigating college cutoffs, fee structures, and course specializations can be ch
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.

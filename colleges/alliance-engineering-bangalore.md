@@ -1,19 +1,49 @@
 ---
-name: "Alliance University - Engineering"
-logo: ""
-location: "Anekal, Bangalore"
-category: "Engineering"
-type: "University"
-courses: ["B.Tech Computer Science", "B.Tech ECE", "B.Tech Mechanical", "B.Tech Civil"]
+name: Alliance University - Engineering
+logo: ''
+location: 'Anekal, Bangalore'
+category: Engineering
+type: University
+courses:
+  - B.Tech Computer Science
+  - B.Tech ECE
+  - B.Tech Mechanical
+  - B.Tech Civil
 established: 2010
-ownership: "Private University"
-ranking: "Top Engineering College"
-fees: "₹8.0 Lakhs - ₹10.0 Lakhs"
-avg_placement: "₹6.5 LPA"
-highest_placement: "₹28.0 LPA"
-exams: ["KCET", "AUEET", "JEE Main"]
-website: ""
-brochure_url: ""
+ownership: Private University
+ranking: Top Engineering College
+fees: ₹8.0 Lakhs - ₹10.0 Lakhs
+avg_placement: ₹6.5 LPA
+highest_placement: ₹28.0 LPA
+exams:
+  - KCET
+  - AUEET
+  - JEE Main
+website: ''
+brochure_url: ''
+seo_title: 'Alliance University - Engineering B.Tech Fees, Cutoff & Plac'
+seo_description: >-
+  Check Alliance University - Engineering Anekal, Bangalore: B.Tech fee
+  structure ₹8.0 Lakhs - ₹10.0 Lakhs, average placement ₹6.5 LPA, JEE cutoff,
+  ranking, and 2
+keywords:
+  - Alliance University - Engineering review
+  - Alliance University - Engineering fees structure 2027
+  - Alliance University - Engineering average package
+  - Alliance University - Engineering placement report 2027
+  - Alliance University - Engineering highest package
+  - Alliance University - Engineering cutoff 2027
+  - Alliance University - Engineering admission process
+  - Alliance University - Engineering ranking
+  - 'Alliance University - Engineering Anekal, Bangalore'
+  - is Alliance University - Engineering good
+  - Alliance University - Engineering mohit jain review
+  - Alliance University - Engineering hostel fees
+  - Alliance University - Engineering contact number
+  - Alliance University - Engineering B.Tech fees
+  - Alliance University - Engineering CSE placement
+  - Alliance University - Engineering B.Tech admission 2027
+  - 'engineering colleges Anekal, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

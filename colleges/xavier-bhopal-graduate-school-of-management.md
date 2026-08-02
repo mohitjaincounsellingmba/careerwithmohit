@@ -1,18 +1,47 @@
 ---
-name: "Xavier Bhopal Graduate School of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Bhopal, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Xavier Bhopal Graduate School of Management
+logo: /colleges/default-management-logo.webp
+location: 'Bhopal, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2010
-ownership: "Public"
-ranking: "#35 Top Private B-School"
-fees: "₹10.1 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹18.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.xavier-bhopal-graduate-school-of-management.edu.in"
+ownership: Public
+ranking: '#35 Top Private B-School'
+fees: ₹10.1 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹18.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.xavier-bhopal-graduate-school-of-management.edu.in'
+seo_title: 'Xavier Bhopal Graduate School of Management MBA Fees, Cutoff'
+seo_description: >-
+  Explore Xavier Bhopal Graduate School of Management Bhopal, India: MBA/PGDM
+  fee structure ₹10.1 Lakhs, average placement ₹7.1 LPA, highest CTC, ranking,
+  and 202
+keywords:
+  - Xavier Bhopal Graduate School of Management review
+  - Xavier Bhopal Graduate School of Management fees structure 2027
+  - Xavier Bhopal Graduate School of Management average package
+  - Xavier Bhopal Graduate School of Management placement report 2027
+  - Xavier Bhopal Graduate School of Management highest package
+  - Xavier Bhopal Graduate School of Management cutoff 2027
+  - Xavier Bhopal Graduate School of Management admission process
+  - Xavier Bhopal Graduate School of Management ranking
+  - 'Xavier Bhopal Graduate School of Management Bhopal, India'
+  - is Xavier Bhopal Graduate School of Management good
+  - Xavier Bhopal Graduate School of Management mohit jain review
+  - Xavier Bhopal Graduate School of Management hostel fees
+  - Xavier Bhopal Graduate School of Management contact number
+  - Xavier Bhopal Graduate School of Management MBA fees
+  - Xavier Bhopal Graduate School of Management PGDM placement
+  - Xavier Bhopal Graduate School of Management MBA admission 2027
+  - 'MBA colleges Bhopal, India'
 ---
 
 ### About Xavier Bhopal Graduate School of Management

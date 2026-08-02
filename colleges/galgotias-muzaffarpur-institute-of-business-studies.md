@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Muzaffarpur Institute of Business Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Muzaffarpur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Muzaffarpur Institute of Business Studies
+logo: /colleges/default-management-logo.webp
+location: 'Muzaffarpur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2019
-ownership: "Private"
-ranking: "#94 Top Private B-School"
-fees: "₹6.1 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹17.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-muzaffarpur-institute-of-business-studies.edu.in"
+ownership: Private
+ranking: '#94 Top Private B-School'
+fees: ₹6.1 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹17.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-muzaffarpur-institute-of-business-studies.edu.in'
+seo_title: Galgotias Muzaffarpur Institute of Business Studies MBA Fees
+seo_description: >-
+  Explore Galgotias Muzaffarpur Institute of Business Studies Muzaffarpur,
+  India: MBA/PGDM fee structure ₹6.1 Lakhs, average placement ₹6.4 LPA, highest
+  CTC, rank
+keywords:
+  - Galgotias Muzaffarpur Institute of Business Studies review
+  - Galgotias Muzaffarpur Institute of Business Studies fees structure 2027
+  - Galgotias Muzaffarpur Institute of Business Studies average package
+  - Galgotias Muzaffarpur Institute of Business Studies placement report 2027
+  - Galgotias Muzaffarpur Institute of Business Studies highest package
+  - Galgotias Muzaffarpur Institute of Business Studies cutoff 2027
+  - Galgotias Muzaffarpur Institute of Business Studies admission process
+  - Galgotias Muzaffarpur Institute of Business Studies ranking
+  - 'Galgotias Muzaffarpur Institute of Business Studies Muzaffarpur, India'
+  - is Galgotias Muzaffarpur Institute of Business Studies good
+  - Galgotias Muzaffarpur Institute of Business Studies mohit jain review
+  - Galgotias Muzaffarpur Institute of Business Studies hostel fees
+  - Galgotias Muzaffarpur Institute of Business Studies contact number
+  - Galgotias Muzaffarpur Institute of Business Studies MBA fees
+  - Galgotias Muzaffarpur Institute of Business Studies PGDM placement
+  - Galgotias Muzaffarpur Institute of Business Studies MBA admission 2027
+  - 'MBA colleges Muzaffarpur, India'
 ---
 
 ### About Galgotias Muzaffarpur Institute of Business Studies

@@ -1,18 +1,59 @@
 ---
-name: "Suryadatta Gandhinagar Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Gandhinagar, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Suryadatta Gandhinagar Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Gandhinagar, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2003
-ownership: "Public"
-ranking: "#53 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹15.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.suryadatta-gandhinagar-institute-of-management-technology.edu.in"
+ownership: Public
+ranking: '#53 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹15.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.suryadatta-gandhinagar-institute-of-management-technology.edu.in'
+seo_title: 'Suryadatta Gandhinagar Institute of Management & Technology '
+seo_description: >-
+  Explore Suryadatta Gandhinagar Institute of Management & Technology
+  Gandhinagar, India: MBA/PGDM fee structure ₹5.3 Lakhs, average placement ₹7.1
+  LPA, highest C
+keywords:
+  - Suryadatta Gandhinagar Institute of Management & Technology review
+  - >-
+    Suryadatta Gandhinagar Institute of Management & Technology fees structure
+    2027
+  - Suryadatta Gandhinagar Institute of Management & Technology average package
+  - >-
+    Suryadatta Gandhinagar Institute of Management & Technology placement report
+    2027
+  - Suryadatta Gandhinagar Institute of Management & Technology highest package
+  - Suryadatta Gandhinagar Institute of Management & Technology cutoff 2027
+  - >-
+    Suryadatta Gandhinagar Institute of Management & Technology admission
+    process
+  - Suryadatta Gandhinagar Institute of Management & Technology ranking
+  - >-
+    Suryadatta Gandhinagar Institute of Management & Technology Gandhinagar,
+    India
+  - is Suryadatta Gandhinagar Institute of Management & Technology good
+  - >-
+    Suryadatta Gandhinagar Institute of Management & Technology mohit jain
+    review
+  - Suryadatta Gandhinagar Institute of Management & Technology hostel fees
+  - Suryadatta Gandhinagar Institute of Management & Technology contact number
+  - Suryadatta Gandhinagar Institute of Management & Technology MBA fees
+  - Suryadatta Gandhinagar Institute of Management & Technology PGDM placement
+  - >-
+    Suryadatta Gandhinagar Institute of Management & Technology MBA admission
+    2027
+  - 'MBA colleges Gandhinagar, India'
 ---
 
 ### About Suryadatta Gandhinagar Institute of Management & Technology

@@ -1,19 +1,49 @@
 ---
-name: "Oxford College of Engineering"
-logo: ""
-location: "Bommanahalli, Bangalore"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech Computer Science", "B.Tech ISE", "B.Tech ECE", "B.Tech Mechanical", "B.Tech Civil"]
+name: Oxford College of Engineering
+logo: ''
+location: 'Bommanahalli, Bangalore'
+category: Engineering
+type: Institute
+courses:
+  - B.Tech Computer Science
+  - B.Tech ISE
+  - B.Tech ECE
+  - B.Tech Mechanical
+  - B.Tech Civil
 established: 2000
-ownership: "Private"
-ranking: "Top Engineering College"
-fees: "₹4.0 Lakhs - ₹5.5 Lakhs"
-avg_placement: "₹4.0 LPA"
-highest_placement: "₹15.0 LPA"
-exams: ["KCET", "COMEDK"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Engineering College
+fees: ₹4.0 Lakhs - ₹5.5 Lakhs
+avg_placement: ₹4.0 LPA
+highest_placement: ₹15.0 LPA
+exams:
+  - KCET
+  - COMEDK
+website: ''
+brochure_url: ''
+seo_title: 'Oxford College of Engineering B.Tech Fees, Cutoff & Placemen'
+seo_description: >-
+  Check Oxford College of Engineering Bommanahalli, Bangalore: B.Tech fee
+  structure ₹4.0 Lakhs - ₹5.5 Lakhs, average placement ₹4.0 LPA, JEE cutoff,
+  ranking, and 
+keywords:
+  - Oxford College of Engineering review
+  - Oxford College of Engineering fees structure 2027
+  - Oxford College of Engineering average package
+  - Oxford College of Engineering placement report 2027
+  - Oxford College of Engineering highest package
+  - Oxford College of Engineering cutoff 2027
+  - Oxford College of Engineering admission process
+  - Oxford College of Engineering ranking
+  - 'Oxford College of Engineering Bommanahalli, Bangalore'
+  - is Oxford College of Engineering good
+  - Oxford College of Engineering mohit jain review
+  - Oxford College of Engineering hostel fees
+  - Oxford College of Engineering contact number
+  - Oxford College of Engineering B.Tech fees
+  - Oxford College of Engineering CSE placement
+  - Oxford College of Engineering B.Tech admission 2027
+  - 'engineering colleges Bommanahalli, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

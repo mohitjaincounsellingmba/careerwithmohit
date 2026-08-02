@@ -1,18 +1,47 @@
 ---
-name: "JK Business School (JKBS), Gurgaon"
-logo: "/colleges/jkbs-logo.webp"
-location: "Gurgaon, Haryana"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'JK Business School (JKBS), Gurgaon'
+logo: /colleges/jkbs-logo.webp
+location: 'Gurgaon, Haryana'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2006
-ownership: "Private"
-ranking: "Top Private B-Schools (CSR-GHRDC)"
-fees: "₹8.5 Lakhs"
-avg_placement: "₹9.0 LPA"
-highest_placement: "₹24.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://jkbschool.org"
+ownership: Private
+ranking: Top Private B-Schools (CSR-GHRDC)
+fees: ₹8.5 Lakhs
+avg_placement: ₹9.0 LPA
+highest_placement: ₹24.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://jkbschool.org'
+seo_title: 'JK Business School (JKBS), Gurgaon MBA Fees, Cutoff & Placem'
+seo_description: >-
+  Explore JK Business School (JKBS), Gurgaon Gurgaon, Haryana: MBA/PGDM fee
+  structure ₹8.5 Lakhs, average placement ₹9.0 LPA, highest CTC, ranking, and
+  2027 admis
+keywords:
+  - 'JK Business School (JKBS), Gurgaon review'
+  - 'JK Business School (JKBS), Gurgaon fees structure 2027'
+  - 'JK Business School (JKBS), Gurgaon average package'
+  - 'JK Business School (JKBS), Gurgaon placement report 2027'
+  - 'JK Business School (JKBS), Gurgaon highest package'
+  - 'JK Business School (JKBS), Gurgaon cutoff 2027'
+  - 'JK Business School (JKBS), Gurgaon admission process'
+  - 'JK Business School (JKBS), Gurgaon ranking'
+  - 'JK Business School (JKBS), Gurgaon Gurgaon, Haryana'
+  - 'is JK Business School (JKBS), Gurgaon good'
+  - 'JK Business School (JKBS), Gurgaon mohit jain review'
+  - 'JK Business School (JKBS), Gurgaon hostel fees'
+  - 'JK Business School (JKBS), Gurgaon contact number'
+  - 'JK Business School (JKBS), Gurgaon MBA fees'
+  - 'JK Business School (JKBS), Gurgaon PGDM placement'
+  - 'JK Business School (JKBS), Gurgaon MBA admission 2027'
+  - 'MBA colleges Gurgaon, Haryana'
 ---
 
 ### About JK Business School

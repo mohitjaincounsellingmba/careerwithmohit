@@ -1,18 +1,47 @@
 ---
-name: "Saharanpur Institute of Business Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Saharanpur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Saharanpur Institute of Business Studies
+logo: /colleges/default-management-logo.webp
+location: 'Saharanpur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2002
-ownership: "Private"
-ranking: "#22 Top Private B-School"
-fees: "₹6.1 Lakhs"
-avg_placement: "₹7.8 LPA"
-highest_placement: "₹14.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.saharanpur-institute-of-business-studies.edu.in"
+ownership: Private
+ranking: '#22 Top Private B-School'
+fees: ₹6.1 Lakhs
+avg_placement: ₹7.8 LPA
+highest_placement: ₹14.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.saharanpur-institute-of-business-studies.edu.in'
+seo_title: 'Saharanpur Institute of Business Studies MBA Fees, Cutoff & '
+seo_description: >-
+  Explore Saharanpur Institute of Business Studies Saharanpur, India: MBA/PGDM
+  fee structure ₹6.1 Lakhs, average placement ₹7.8 LPA, highest CTC, ranking,
+  and 202
+keywords:
+  - Saharanpur Institute of Business Studies review
+  - Saharanpur Institute of Business Studies fees structure 2027
+  - Saharanpur Institute of Business Studies average package
+  - Saharanpur Institute of Business Studies placement report 2027
+  - Saharanpur Institute of Business Studies highest package
+  - Saharanpur Institute of Business Studies cutoff 2027
+  - Saharanpur Institute of Business Studies admission process
+  - Saharanpur Institute of Business Studies ranking
+  - 'Saharanpur Institute of Business Studies Saharanpur, India'
+  - is Saharanpur Institute of Business Studies good
+  - Saharanpur Institute of Business Studies mohit jain review
+  - Saharanpur Institute of Business Studies hostel fees
+  - Saharanpur Institute of Business Studies contact number
+  - Saharanpur Institute of Business Studies MBA fees
+  - Saharanpur Institute of Business Studies PGDM placement
+  - Saharanpur Institute of Business Studies MBA admission 2027
+  - 'MBA colleges Saharanpur, India'
 ---
 
 ### About Saharanpur Institute of Business Studies

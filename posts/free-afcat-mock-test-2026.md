@@ -40,6 +40,8 @@ To help you measure your standing, we offer a high-fidelity **[Free AFCAT 2026 M
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the exam pattern for AFCAT 2026?
@@ -51,11 +53,3 @@ Yes, AFCAT has a negative marking scheme. Candidates get +3 marks for each corre
 ### What is a good score to clear the AFCAT cutoff?
 A score of 150-165 out of 300 is usually the cutoff to clear the online written exam. To ensure a place in the final merit list after SSB, a score of 180+ is highly recommended.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

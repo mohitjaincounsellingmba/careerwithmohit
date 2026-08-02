@@ -39,6 +39,8 @@ To help you measure your standing, we offer a high-fidelity **[Free UPSSSC PET 2
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the UPSSSC PET exam pattern?
@@ -50,11 +52,3 @@ Yes, there is a negative marking of 0.25 (1/4th) of the marks assigned to that q
 ### What is the validity of the UPSSSC PET scorecard?
 The UPSSSC PET scorecard is valid for 1 year from the date of result declaration. Candidates can apply for various UP Group C Mains exams using this score.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

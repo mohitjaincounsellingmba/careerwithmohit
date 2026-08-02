@@ -1,21 +1,51 @@
 ---
-name: "Intellipaat - Guru Nanak University (Hyderabad)"
-logo: ""
-location: "Hyderabad"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech CSE"]
+name: Intellipaat - Guru Nanak University (Hyderabad)
+logo: ''
+location: Hyderabad
+category: Engineering
+type: Institute
+courses:
+  - B.Tech CSE
 established: 2024
-ownership: "Private"
-ranking: "Industry Integrated B.Tech"
-fees: "₹12.0 Lakhs"
-avg_placement: "₹8.0 - ₹12.0 LPA"
-highest_placement: "₹30.0+ LPA"
-lowest_placement: "₹4.5 LPA"
-exams: ["ISTEE"]
-website: "https://intellipaat.com/school-of-technology/"
-brochure_url: ""
-top_recruiters: ["Amazon", "Google", "Microsoft", "Adobe", "Wipro"]
+ownership: Private
+ranking: Industry Integrated B.Tech
+fees: ₹12.0 Lakhs
+avg_placement: ₹8.0 - ₹12.0 LPA
+highest_placement: ₹30.0+ LPA
+lowest_placement: ₹4.5 LPA
+exams:
+  - ISTEE
+website: 'https://intellipaat.com/school-of-technology/'
+brochure_url: ''
+top_recruiters:
+  - Amazon
+  - Google
+  - Microsoft
+  - Adobe
+  - Wipro
+seo_title: 'Intellipaat - Guru Nanak University (Hyderabad) B.Tech Fees,'
+seo_description: >-
+  Check Intellipaat - Guru Nanak University (Hyderabad) Hyderabad: B.Tech fee
+  structure ₹12.0 Lakhs, average placement ₹8.0 - ₹12.0 LPA, JEE cutoff,
+  ranking, and 
+keywords:
+  - Intellipaat - Guru Nanak University (Hyderabad) review
+  - Intellipaat - Guru Nanak University (Hyderabad) fees structure 2027
+  - Intellipaat - Guru Nanak University (Hyderabad) average package
+  - Intellipaat - Guru Nanak University (Hyderabad) placement report 2027
+  - Intellipaat - Guru Nanak University (Hyderabad) highest package
+  - Intellipaat - Guru Nanak University (Hyderabad) cutoff 2027
+  - Intellipaat - Guru Nanak University (Hyderabad) admission process
+  - Intellipaat - Guru Nanak University (Hyderabad) ranking
+  - Intellipaat - Guru Nanak University (Hyderabad) Hyderabad
+  - is Intellipaat - Guru Nanak University (Hyderabad) good
+  - Intellipaat - Guru Nanak University (Hyderabad) mohit jain review
+  - Intellipaat - Guru Nanak University (Hyderabad) hostel fees
+  - Intellipaat - Guru Nanak University (Hyderabad) contact number
+  - Intellipaat - Guru Nanak University (Hyderabad) B.Tech fees
+  - Intellipaat - Guru Nanak University (Hyderabad) CSE placement
+  - Intellipaat - Guru Nanak University (Hyderabad) B.Tech admission 2027
+  - engineering colleges Hyderabad
 ---
 
 ### B.Tech Courses & Fees

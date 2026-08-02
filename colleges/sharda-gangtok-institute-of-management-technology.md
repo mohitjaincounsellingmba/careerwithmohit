@@ -1,18 +1,47 @@
 ---
-name: "Sharda Gangtok Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Gangtok, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Sharda Gangtok Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Gangtok, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2010
-ownership: "Private"
-ranking: "#85 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹8.5 LPA"
-highest_placement: "₹18.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.sharda-gangtok-institute-of-management-technology.edu.in"
+ownership: Private
+ranking: '#85 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹8.5 LPA
+highest_placement: ₹18.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.sharda-gangtok-institute-of-management-technology.edu.in'
+seo_title: Sharda Gangtok Institute of Management & Technology MBA Fees
+seo_description: >-
+  Explore Sharda Gangtok Institute of Management & Technology Gangtok, India:
+  MBA/PGDM fee structure ₹5.3 Lakhs, average placement ₹8.5 LPA, highest CTC,
+  ranking,
+keywords:
+  - Sharda Gangtok Institute of Management & Technology review
+  - Sharda Gangtok Institute of Management & Technology fees structure 2027
+  - Sharda Gangtok Institute of Management & Technology average package
+  - Sharda Gangtok Institute of Management & Technology placement report 2027
+  - Sharda Gangtok Institute of Management & Technology highest package
+  - Sharda Gangtok Institute of Management & Technology cutoff 2027
+  - Sharda Gangtok Institute of Management & Technology admission process
+  - Sharda Gangtok Institute of Management & Technology ranking
+  - 'Sharda Gangtok Institute of Management & Technology Gangtok, India'
+  - is Sharda Gangtok Institute of Management & Technology good
+  - Sharda Gangtok Institute of Management & Technology mohit jain review
+  - Sharda Gangtok Institute of Management & Technology hostel fees
+  - Sharda Gangtok Institute of Management & Technology contact number
+  - Sharda Gangtok Institute of Management & Technology MBA fees
+  - Sharda Gangtok Institute of Management & Technology PGDM placement
+  - Sharda Gangtok Institute of Management & Technology MBA admission 2027
+  - 'MBA colleges Gangtok, India'
 ---
 
 ### About Sharda Gangtok Institute of Management & Technology

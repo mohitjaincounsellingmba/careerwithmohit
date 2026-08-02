@@ -1,20 +1,49 @@
 ---
-name: "Institute of Health Management Research"
-logo: ""
-location: "Bengaluru"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Institute of Health Management Research
+logo: ''
+location: Bengaluru
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2026
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹10 Lakhs"
-avg_placement: "₹4.5 LPA"
-highest_placement: "₹8.5 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹10 Lakhs
+avg_placement: ₹4.5 LPA
+highest_placement: ₹8.5 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'Institute of Health Management Research MBA Fees, Cutoff & P'
+seo_description: >-
+  Explore Institute of Health Management Research Bengaluru: MBA/PGDM fee
+  structure ₹10 Lakhs, average placement ₹4.5 LPA, highest CTC, ranking, and
+  2027 admissio
+keywords:
+  - Institute of Health Management Research review
+  - Institute of Health Management Research fees structure 2027
+  - Institute of Health Management Research average package
+  - Institute of Health Management Research placement report 2027
+  - Institute of Health Management Research highest package
+  - Institute of Health Management Research cutoff 2027
+  - Institute of Health Management Research admission process
+  - Institute of Health Management Research ranking
+  - Institute of Health Management Research Bengaluru
+  - is Institute of Health Management Research good
+  - Institute of Health Management Research mohit jain review
+  - Institute of Health Management Research hostel fees
+  - Institute of Health Management Research contact number
+  - Institute of Health Management Research MBA fees
+  - Institute of Health Management Research PGDM placement
+  - Institute of Health Management Research MBA admission 2027
+  - MBA colleges Bengaluru
 ---
 
 ### Courses & Fees

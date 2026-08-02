@@ -1,18 +1,47 @@
 ---
-name: "Lal Bahadur Shastri Dharwad Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Dharwad, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Lal Bahadur Shastri Dharwad Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Dharwad, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1995
-ownership: "Private"
-ranking: "#40 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹7.8 LPA"
-highest_placement: "₹11.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.lal-bahadur-shastri-dharwad-institute-of-management.edu.in"
+ownership: Private
+ranking: '#40 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹7.8 LPA
+highest_placement: ₹11.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.lal-bahadur-shastri-dharwad-institute-of-management.edu.in'
+seo_title: Lal Bahadur Shastri Dharwad Institute of Management MBA Fees
+seo_description: >-
+  Explore Lal Bahadur Shastri Dharwad Institute of Management Dharwad, India:
+  MBA/PGDM fee structure ₹7.7 Lakhs, average placement ₹7.8 LPA, highest CTC,
+  ranking,
+keywords:
+  - Lal Bahadur Shastri Dharwad Institute of Management review
+  - Lal Bahadur Shastri Dharwad Institute of Management fees structure 2027
+  - Lal Bahadur Shastri Dharwad Institute of Management average package
+  - Lal Bahadur Shastri Dharwad Institute of Management placement report 2027
+  - Lal Bahadur Shastri Dharwad Institute of Management highest package
+  - Lal Bahadur Shastri Dharwad Institute of Management cutoff 2027
+  - Lal Bahadur Shastri Dharwad Institute of Management admission process
+  - Lal Bahadur Shastri Dharwad Institute of Management ranking
+  - 'Lal Bahadur Shastri Dharwad Institute of Management Dharwad, India'
+  - is Lal Bahadur Shastri Dharwad Institute of Management good
+  - Lal Bahadur Shastri Dharwad Institute of Management mohit jain review
+  - Lal Bahadur Shastri Dharwad Institute of Management hostel fees
+  - Lal Bahadur Shastri Dharwad Institute of Management contact number
+  - Lal Bahadur Shastri Dharwad Institute of Management MBA fees
+  - Lal Bahadur Shastri Dharwad Institute of Management PGDM placement
+  - Lal Bahadur Shastri Dharwad Institute of Management MBA admission 2027
+  - 'MBA colleges Dharwad, India'
 ---
 
 ### About Lal Bahadur Shastri Dharwad Institute of Management

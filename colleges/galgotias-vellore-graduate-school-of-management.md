@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Vellore Graduate School of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Vellore, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Vellore Graduate School of Management
+logo: /colleges/default-management-logo.webp
+location: 'Vellore, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2004
-ownership: "Public"
-ranking: "#99 Top Private B-School"
-fees: "₹10.1 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-vellore-graduate-school-of-management.edu.in"
+ownership: Public
+ranking: '#99 Top Private B-School'
+fees: ₹10.1 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-vellore-graduate-school-of-management.edu.in'
+seo_title: 'Galgotias Vellore Graduate School of Management MBA Fees, Cu'
+seo_description: >-
+  Explore Galgotias Vellore Graduate School of Management Vellore, India:
+  MBA/PGDM fee structure ₹10.1 Lakhs, average placement ₹7.1 LPA, highest CTC,
+  ranking, an
+keywords:
+  - Galgotias Vellore Graduate School of Management review
+  - Galgotias Vellore Graduate School of Management fees structure 2027
+  - Galgotias Vellore Graduate School of Management average package
+  - Galgotias Vellore Graduate School of Management placement report 2027
+  - Galgotias Vellore Graduate School of Management highest package
+  - Galgotias Vellore Graduate School of Management cutoff 2027
+  - Galgotias Vellore Graduate School of Management admission process
+  - Galgotias Vellore Graduate School of Management ranking
+  - 'Galgotias Vellore Graduate School of Management Vellore, India'
+  - is Galgotias Vellore Graduate School of Management good
+  - Galgotias Vellore Graduate School of Management mohit jain review
+  - Galgotias Vellore Graduate School of Management hostel fees
+  - Galgotias Vellore Graduate School of Management contact number
+  - Galgotias Vellore Graduate School of Management MBA fees
+  - Galgotias Vellore Graduate School of Management PGDM placement
+  - Galgotias Vellore Graduate School of Management MBA admission 2027
+  - 'MBA colleges Vellore, India'
 ---
 
 ### About Galgotias Vellore Graduate School of Management

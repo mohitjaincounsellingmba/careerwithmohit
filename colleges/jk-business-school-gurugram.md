@@ -1,20 +1,49 @@
 ---
-name: "JK Business School,Gurugram"
-logo: ""
-location: "Gurugram"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'JK Business School,Gurugram'
+logo: ''
+location: Gurugram
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2026
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹7 Lakhs"
-avg_placement: "₹6.20 LPA"
-highest_placement: "₹24 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹7 Lakhs
+avg_placement: ₹6.20 LPA
+highest_placement: ₹24 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'JK Business School,Gurugram MBA Fees, Cutoff & Placement 202'
+seo_description: >-
+  Explore JK Business School,Gurugram Gurugram: MBA/PGDM fee structure ₹7 Lakhs,
+  average placement ₹6.20 LPA, highest CTC, ranking, and 2027 admission process
+  wit
+keywords:
+  - 'JK Business School,Gurugram review'
+  - 'JK Business School,Gurugram fees structure 2027'
+  - 'JK Business School,Gurugram average package'
+  - 'JK Business School,Gurugram placement report 2027'
+  - 'JK Business School,Gurugram highest package'
+  - 'JK Business School,Gurugram cutoff 2027'
+  - 'JK Business School,Gurugram admission process'
+  - 'JK Business School,Gurugram ranking'
+  - 'JK Business School,Gurugram Gurugram'
+  - 'is JK Business School,Gurugram good'
+  - 'JK Business School,Gurugram mohit jain review'
+  - 'JK Business School,Gurugram hostel fees'
+  - 'JK Business School,Gurugram contact number'
+  - 'JK Business School,Gurugram MBA fees'
+  - 'JK Business School,Gurugram PGDM placement'
+  - 'JK Business School,Gurugram MBA admission 2027'
+  - MBA colleges Gurugram
 ---
 
 ### Courses & Fees

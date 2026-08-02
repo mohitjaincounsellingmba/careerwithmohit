@@ -1,18 +1,47 @@
 ---
-name: "Suryadatta Amritsar Graduate School of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Amritsar, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Suryadatta Amritsar Graduate School of Management
+logo: /colleges/default-management-logo.webp
+location: 'Amritsar, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2009
-ownership: "Public"
-ranking: "#59 Top Private B-School"
-fees: "₹10.1 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.suryadatta-amritsar-graduate-school-of-management.edu.in"
+ownership: Public
+ranking: '#59 Top Private B-School'
+fees: ₹10.1 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.suryadatta-amritsar-graduate-school-of-management.edu.in'
+seo_title: 'Suryadatta Amritsar Graduate School of Management MBA Fees, '
+seo_description: >-
+  Explore Suryadatta Amritsar Graduate School of Management Amritsar, India:
+  MBA/PGDM fee structure ₹10.1 Lakhs, average placement ₹7.1 LPA, highest CTC,
+  ranking,
+keywords:
+  - Suryadatta Amritsar Graduate School of Management review
+  - Suryadatta Amritsar Graduate School of Management fees structure 2027
+  - Suryadatta Amritsar Graduate School of Management average package
+  - Suryadatta Amritsar Graduate School of Management placement report 2027
+  - Suryadatta Amritsar Graduate School of Management highest package
+  - Suryadatta Amritsar Graduate School of Management cutoff 2027
+  - Suryadatta Amritsar Graduate School of Management admission process
+  - Suryadatta Amritsar Graduate School of Management ranking
+  - 'Suryadatta Amritsar Graduate School of Management Amritsar, India'
+  - is Suryadatta Amritsar Graduate School of Management good
+  - Suryadatta Amritsar Graduate School of Management mohit jain review
+  - Suryadatta Amritsar Graduate School of Management hostel fees
+  - Suryadatta Amritsar Graduate School of Management contact number
+  - Suryadatta Amritsar Graduate School of Management MBA fees
+  - Suryadatta Amritsar Graduate School of Management PGDM placement
+  - Suryadatta Amritsar Graduate School of Management MBA admission 2027
+  - 'MBA colleges Amritsar, India'
 ---
 
 ### About Suryadatta Amritsar Graduate School of Management

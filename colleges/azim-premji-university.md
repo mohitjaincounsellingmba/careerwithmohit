@@ -1,20 +1,49 @@
 ---
-name: "Azim Premji University"
-logo: ""
-location: "Bengaluru"
-category: "Management"
-type: "University"
-courses: ["MBA", "PGDM"]
+name: Azim Premji University
+logo: ''
+location: Bengaluru
+category: Management
+type: University
+courses:
+  - MBA
+  - PGDM
 established: 2026
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹22 Lakhs"
-avg_placement: "₹22 LPA"
-highest_placement: "₹12 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹22 Lakhs
+avg_placement: ₹22 LPA
+highest_placement: ₹12 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'Azim Premji University MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Azim Premji University Bengaluru: MBA/PGDM fee structure ₹22 Lakhs,
+  average placement ₹22 LPA, highest CTC, ranking, and 2027 admission process
+  with Moh
+keywords:
+  - Azim Premji University review
+  - Azim Premji University fees structure 2027
+  - Azim Premji University average package
+  - Azim Premji University placement report 2027
+  - Azim Premji University highest package
+  - Azim Premji University cutoff 2027
+  - Azim Premji University admission process
+  - Azim Premji University ranking
+  - Azim Premji University Bengaluru
+  - is Azim Premji University good
+  - Azim Premji University mohit jain review
+  - Azim Premji University hostel fees
+  - Azim Premji University contact number
+  - Azim Premji University MBA fees
+  - Azim Premji University PGDM placement
+  - Azim Premji University MBA admission 2027
+  - MBA colleges Bengaluru
 ---
 
 ### Courses & Fees

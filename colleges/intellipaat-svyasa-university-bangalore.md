@@ -1,21 +1,51 @@
 ---
-name: "Intellipaat - S-Vyasa University (Bangalore)"
-logo: ""
-location: "Bangalore"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech CSE"]
+name: Intellipaat - S-Vyasa University (Bangalore)
+logo: ''
+location: Bangalore
+category: Engineering
+type: Institute
+courses:
+  - B.Tech CSE
 established: 2024
-ownership: "Private"
-ranking: "Industry Integrated B.Tech"
-fees: "₹17.0 Lakhs"
-avg_placement: "₹8.0 - ₹12.0 LPA"
-highest_placement: "₹30.0+ LPA"
-lowest_placement: "₹4.5 LPA"
-exams: ["ISTEE"]
-website: "https://intellipaat.com/school-of-technology/"
-brochure_url: ""
-top_recruiters: ["Amazon", "Google", "Microsoft", "Adobe", "Wipro"]
+ownership: Private
+ranking: Industry Integrated B.Tech
+fees: ₹17.0 Lakhs
+avg_placement: ₹8.0 - ₹12.0 LPA
+highest_placement: ₹30.0+ LPA
+lowest_placement: ₹4.5 LPA
+exams:
+  - ISTEE
+website: 'https://intellipaat.com/school-of-technology/'
+brochure_url: ''
+top_recruiters:
+  - Amazon
+  - Google
+  - Microsoft
+  - Adobe
+  - Wipro
+seo_title: 'Intellipaat - S-Vyasa University (Bangalore) B.Tech Fees, Cu'
+seo_description: >-
+  Check Intellipaat - S-Vyasa University (Bangalore) Bangalore: B.Tech fee
+  structure ₹17.0 Lakhs, average placement ₹8.0 - ₹12.0 LPA, JEE cutoff,
+  ranking, and 202
+keywords:
+  - Intellipaat - S-Vyasa University (Bangalore) review
+  - Intellipaat - S-Vyasa University (Bangalore) fees structure 2027
+  - Intellipaat - S-Vyasa University (Bangalore) average package
+  - Intellipaat - S-Vyasa University (Bangalore) placement report 2027
+  - Intellipaat - S-Vyasa University (Bangalore) highest package
+  - Intellipaat - S-Vyasa University (Bangalore) cutoff 2027
+  - Intellipaat - S-Vyasa University (Bangalore) admission process
+  - Intellipaat - S-Vyasa University (Bangalore) ranking
+  - Intellipaat - S-Vyasa University (Bangalore) Bangalore
+  - is Intellipaat - S-Vyasa University (Bangalore) good
+  - Intellipaat - S-Vyasa University (Bangalore) mohit jain review
+  - Intellipaat - S-Vyasa University (Bangalore) hostel fees
+  - Intellipaat - S-Vyasa University (Bangalore) contact number
+  - Intellipaat - S-Vyasa University (Bangalore) B.Tech fees
+  - Intellipaat - S-Vyasa University (Bangalore) CSE placement
+  - Intellipaat - S-Vyasa University (Bangalore) B.Tech admission 2027
+  - engineering colleges Bangalore
 ---
 
 ### B.Tech Courses & Fees

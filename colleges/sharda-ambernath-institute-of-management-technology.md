@@ -1,18 +1,47 @@
 ---
-name: "Sharda Ambernath Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Ambernath, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Sharda Ambernath Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Ambernath, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1995
-ownership: "Public"
-ranking: "#85 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹18.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.sharda-ambernath-institute-of-management-technology.edu.in"
+ownership: Public
+ranking: '#85 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹18.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.sharda-ambernath-institute-of-management-technology.edu.in'
+seo_title: Sharda Ambernath Institute of Management & Technology MBA Fe
+seo_description: >-
+  Explore Sharda Ambernath Institute of Management & Technology Ambernath,
+  India: MBA/PGDM fee structure ₹5.3 Lakhs, average placement ₹7.1 LPA, highest
+  CTC, rank
+keywords:
+  - Sharda Ambernath Institute of Management & Technology review
+  - Sharda Ambernath Institute of Management & Technology fees structure 2027
+  - Sharda Ambernath Institute of Management & Technology average package
+  - Sharda Ambernath Institute of Management & Technology placement report 2027
+  - Sharda Ambernath Institute of Management & Technology highest package
+  - Sharda Ambernath Institute of Management & Technology cutoff 2027
+  - Sharda Ambernath Institute of Management & Technology admission process
+  - Sharda Ambernath Institute of Management & Technology ranking
+  - 'Sharda Ambernath Institute of Management & Technology Ambernath, India'
+  - is Sharda Ambernath Institute of Management & Technology good
+  - Sharda Ambernath Institute of Management & Technology mohit jain review
+  - Sharda Ambernath Institute of Management & Technology hostel fees
+  - Sharda Ambernath Institute of Management & Technology contact number
+  - Sharda Ambernath Institute of Management & Technology MBA fees
+  - Sharda Ambernath Institute of Management & Technology PGDM placement
+  - Sharda Ambernath Institute of Management & Technology MBA admission 2027
+  - 'MBA colleges Ambernath, India'
 ---
 
 ### About Sharda Ambernath Institute of Management & Technology

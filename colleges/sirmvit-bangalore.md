@@ -1,19 +1,50 @@
 ---
-name: "Sir M. Visvesvaraya Institute of Technology (Sir MVIT)"
-logo: ""
-location: "Hunasamaranahalli, Bangalore"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech Computer Science", "B.Tech ISE", "B.Tech ECE", "B.Tech Mechanical"]
+name: Sir M. Visvesvaraya Institute of Technology (Sir MVIT)
+logo: ''
+location: 'Hunasamaranahalli, Bangalore'
+category: Engineering
+type: Institute
+courses:
+  - B.Tech Computer Science
+  - B.Tech ISE
+  - B.Tech ECE
+  - B.Tech Mechanical
 established: 1986
-ownership: "Private"
-ranking: "Top Engineering College"
-fees: "₹5.0 Lakhs - ₹7.0 Lakhs"
-avg_placement: "₹6.0 LPA"
-highest_placement: "₹30.0 LPA"
-exams: ["KCET", "COMEDK"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Engineering College
+fees: ₹5.0 Lakhs - ₹7.0 Lakhs
+avg_placement: ₹6.0 LPA
+highest_placement: ₹30.0 LPA
+exams:
+  - KCET
+  - COMEDK
+website: ''
+brochure_url: ''
+seo_title: Sir M. Visvesvaraya Institute of Technology (Sir MVIT) B.Tec
+seo_description: >-
+  Check Sir M. Visvesvaraya Institute of Technology (Sir MVIT)
+  Hunasamaranahalli, Bangalore: B.Tech fee structure ₹5.0 Lakhs - ₹7.0 Lakhs,
+  average placement ₹6.0 
+keywords:
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) review
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) fees structure 2027
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) average package
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) placement report 2027
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) highest package
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) cutoff 2027
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) admission process
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) ranking
+  - >-
+    Sir M. Visvesvaraya Institute of Technology (Sir MVIT) Hunasamaranahalli,
+    Bangalore
+  - is Sir M. Visvesvaraya Institute of Technology (Sir MVIT) good
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) mohit jain review
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) hostel fees
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) contact number
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) B.Tech fees
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) CSE placement
+  - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) B.Tech admission 2027
+  - 'engineering colleges Hunasamaranahalli, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

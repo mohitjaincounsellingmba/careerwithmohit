@@ -1,18 +1,68 @@
 ---
-name: "International Vasai-Virar Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Vasai-Virar, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: International Vasai-Virar Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Vasai-Virar, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1996
-ownership: "Public"
-ranking: "#61 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹12.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.international-vasai-virar-institute-of-management-technology.edu.in"
+ownership: Public
+ranking: '#61 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹12.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: >-
+  https://www.international-vasai-virar-institute-of-management-technology.edu.in
+seo_title: International Vasai-Virar Institute of Management & Technolo
+seo_description: >-
+  Explore International Vasai-Virar Institute of Management & Technology
+  Vasai-Virar, India: MBA/PGDM fee structure ₹5.3 Lakhs, average placement ₹7.1
+  LPA, highes
+keywords:
+  - International Vasai-Virar Institute of Management & Technology review
+  - >-
+    International Vasai-Virar Institute of Management & Technology fees
+    structure 2027
+  - >-
+    International Vasai-Virar Institute of Management & Technology average
+    package
+  - >-
+    International Vasai-Virar Institute of Management & Technology placement
+    report 2027
+  - >-
+    International Vasai-Virar Institute of Management & Technology highest
+    package
+  - International Vasai-Virar Institute of Management & Technology cutoff 2027
+  - >-
+    International Vasai-Virar Institute of Management & Technology admission
+    process
+  - International Vasai-Virar Institute of Management & Technology ranking
+  - >-
+    International Vasai-Virar Institute of Management & Technology Vasai-Virar,
+    India
+  - is International Vasai-Virar Institute of Management & Technology good
+  - >-
+    International Vasai-Virar Institute of Management & Technology mohit jain
+    review
+  - International Vasai-Virar Institute of Management & Technology hostel fees
+  - >-
+    International Vasai-Virar Institute of Management & Technology contact
+    number
+  - International Vasai-Virar Institute of Management & Technology MBA fees
+  - >-
+    International Vasai-Virar Institute of Management & Technology PGDM
+    placement
+  - >-
+    International Vasai-Virar Institute of Management & Technology MBA admission
+    2027
+  - 'MBA colleges Vasai-Virar, India'
 ---
 
 ### About International Vasai-Virar Institute of Management & Technology

@@ -1,18 +1,48 @@
 ---
-name: "NDIM Delhi (New Delhi Institute of Management)"
-logo: "/colleges/ndim-logo.webp"
-location: "Tughlakabad, Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: NDIM Delhi (New Delhi Institute of Management)
+logo: /colleges/ndim-logo.webp
+location: 'Tughlakabad, Delhi'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1992
-ownership: "Private"
-ranking: "#86 (NIRF 2025)"
-fees: "₹13.75 Lakhs"
-avg_placement: "₹9.50 LPA"
-highest_placement: "₹24.00 LPA"
-exams: ["CAT", "XAT", "MAT", "CMAT", "GMAT"]
-website: "https://www.ndimdelhi.org"
+ownership: Private
+ranking: '#86 (NIRF 2025)'
+fees: ₹13.75 Lakhs
+avg_placement: ₹9.50 LPA
+highest_placement: ₹24.00 LPA
+exams:
+  - CAT
+  - XAT
+  - MAT
+  - CMAT
+  - GMAT
+website: 'https://www.ndimdelhi.org'
+seo_title: 'NDIM Delhi (New Delhi Institute of Management) MBA Fees, Cut'
+seo_description: >-
+  Explore NDIM Delhi (New Delhi Institute of Management) Tughlakabad, Delhi:
+  MBA/PGDM fee structure ₹13.75 Lakhs, average placement ₹9.50 LPA, highest CTC,
+  rankin
+keywords:
+  - NDIM Delhi (New Delhi Institute of Management) review
+  - NDIM Delhi (New Delhi Institute of Management) fees structure 2027
+  - NDIM Delhi (New Delhi Institute of Management) average package
+  - NDIM Delhi (New Delhi Institute of Management) placement report 2027
+  - NDIM Delhi (New Delhi Institute of Management) highest package
+  - NDIM Delhi (New Delhi Institute of Management) cutoff 2027
+  - NDIM Delhi (New Delhi Institute of Management) admission process
+  - NDIM Delhi (New Delhi Institute of Management) ranking
+  - 'NDIM Delhi (New Delhi Institute of Management) Tughlakabad, Delhi'
+  - is NDIM Delhi (New Delhi Institute of Management) good
+  - NDIM Delhi (New Delhi Institute of Management) mohit jain review
+  - NDIM Delhi (New Delhi Institute of Management) hostel fees
+  - NDIM Delhi (New Delhi Institute of Management) contact number
+  - NDIM Delhi (New Delhi Institute of Management) MBA fees
+  - NDIM Delhi (New Delhi Institute of Management) PGDM placement
+  - NDIM Delhi (New Delhi Institute of Management) MBA admission 2027
+  - 'MBA colleges Tughlakabad, Delhi'
 ---
 
 ### Courses & Fees

@@ -4,10 +4,7 @@ import { Award, GraduationCap, Globe2, HeartHandshake, BookOpen, HandCoins, Buil
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  alternates: {
-    canonical: '/scholarships-2026',
-  },
-  title: 'Top Scholarships 2027 | National & International Funding | MBA & Degree Admissions',
+  title: 'Top Scholarships 2027: National & Global Funding',
   description: 'Explore the complete list of 2027 scholarships for Indian students. Find merit-based, means-based, MBA, PGDM, engineering, and study abroad scholarships.',
   keywords: [
     'scholarships 2027',
@@ -17,6 +14,30 @@ export const metadata: Metadata = {
     'study abroad scholarships 2027',
     'merit scholarship 2027 indian students',
   ],
+  alternates: {
+    canonical: '/scholarships-2026',
+  },
+  openGraph: {
+    title: 'Top Scholarships 2027: National & Global Funding',
+    description: 'Explore the complete list of 2027 scholarships for Indian students. Merit-based, means-based, MBA, PGDM, engineering, and study abroad scholarships.',
+    type: 'website',
+    url: '/scholarships-2026',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: 'https://www.careerwithmohit.online/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'Scholarships 2027 - CareerWithMohit',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Top Scholarships 2027: National & Global Funding',
+    description: 'Complete list of 2027 scholarships for Indian students.',
+    images: ['https://www.careerwithmohit.online/og-image.webp'],
+  },
 };
 
 const CATEGORIES = [

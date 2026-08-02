@@ -1,18 +1,49 @@
 ---
-name: "International Nalgonda Institute of Professional Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Nalgonda, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: International Nalgonda Institute of Professional Studies
+logo: /colleges/default-management-logo.webp
+location: 'Nalgonda, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1996
-ownership: "Public"
-ranking: "#66 Top Private B-School"
-fees: "₹9.3 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.international-nalgonda-institute-of-professional-studies.edu.in"
+ownership: Public
+ranking: '#66 Top Private B-School'
+fees: ₹9.3 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.international-nalgonda-institute-of-professional-studies.edu.in'
+seo_title: International Nalgonda Institute of Professional Studies MBA
+seo_description: >-
+  Explore International Nalgonda Institute of Professional Studies Nalgonda,
+  India: MBA/PGDM fee structure ₹9.3 Lakhs, average placement ₹5.0 LPA, highest
+  CTC, ra
+keywords:
+  - International Nalgonda Institute of Professional Studies review
+  - International Nalgonda Institute of Professional Studies fees structure 2027
+  - International Nalgonda Institute of Professional Studies average package
+  - >-
+    International Nalgonda Institute of Professional Studies placement report
+    2027
+  - International Nalgonda Institute of Professional Studies highest package
+  - International Nalgonda Institute of Professional Studies cutoff 2027
+  - International Nalgonda Institute of Professional Studies admission process
+  - International Nalgonda Institute of Professional Studies ranking
+  - 'International Nalgonda Institute of Professional Studies Nalgonda, India'
+  - is International Nalgonda Institute of Professional Studies good
+  - International Nalgonda Institute of Professional Studies mohit jain review
+  - International Nalgonda Institute of Professional Studies hostel fees
+  - International Nalgonda Institute of Professional Studies contact number
+  - International Nalgonda Institute of Professional Studies MBA fees
+  - International Nalgonda Institute of Professional Studies PGDM placement
+  - International Nalgonda Institute of Professional Studies MBA admission 2027
+  - 'MBA colleges Nalgonda, India'
 ---
 
 ### About International Nalgonda Institute of Professional Studies

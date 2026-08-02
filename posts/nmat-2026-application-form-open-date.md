@@ -69,7 +69,7 @@ Below is the expected fee distribution for the different stages of the NMAT cycl
 
 ## Crucial NMAT Guidelines: Attempts & Retakes
 
-To maximize your chances of getting into NMIMS Mumbai, you need to understand NMAT's unique testing rules:
+To maximize your chances of getting into [NMIMS Mumbai](/colleges/nmims-mumbai), you need to understand NMAT's unique testing rules:
 
 1. **Three Maximum Attempts:** You can attempt the NMAT a maximum of **three times** in a single testing cycle (1 main attempt + 2 retakes).
 2. **15-Day Gap:** If you choose to retake the exam to improve your score, there must be a mandatory gap of **at least 15 days** between the two exam dates.

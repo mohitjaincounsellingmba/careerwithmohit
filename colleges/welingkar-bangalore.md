@@ -1,18 +1,46 @@
 ---
-name: "Welingkar (WeSchool) Bangalore"
-logo: "/colleges/weschool-logo.webp"
-location: "Electronic City, Bangalore"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Welingkar (WeSchool) Bangalore
+logo: /colleges/weschool-logo.webp
+location: 'Electronic City, Bangalore'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1977
-ownership: "Private"
-ranking: "Top Private B-School in Bangalore"
-fees: "₹13.0 Lakhs"
-avg_placement: "₹12.0 LPA"
-highest_placement: "₹22.0 LPA"
-exams: ["CAT", "XAT", "CMAT"]
-website: "https://www.welingkar.org"
+ownership: Private
+ranking: Top Private B-School in Bangalore
+fees: ₹13.0 Lakhs
+avg_placement: ₹12.0 LPA
+highest_placement: ₹22.0 LPA
+exams:
+  - CAT
+  - XAT
+  - CMAT
+website: 'https://www.welingkar.org'
+seo_title: 'Welingkar (WeSchool) Bangalore MBA Fees, Cutoff & Placement '
+seo_description: >-
+  Explore Welingkar (WeSchool) Bangalore Electronic City, Bangalore: MBA/PGDM
+  fee structure ₹13.0 Lakhs, average placement ₹12.0 LPA, highest CTC, ranking,
+  and 20
+keywords:
+  - Welingkar (WeSchool) Bangalore review
+  - Welingkar (WeSchool) Bangalore fees structure 2027
+  - Welingkar (WeSchool) Bangalore average package
+  - Welingkar (WeSchool) Bangalore placement report 2027
+  - Welingkar (WeSchool) Bangalore highest package
+  - Welingkar (WeSchool) Bangalore cutoff 2027
+  - Welingkar (WeSchool) Bangalore admission process
+  - Welingkar (WeSchool) Bangalore ranking
+  - 'Welingkar (WeSchool) Bangalore Electronic City, Bangalore'
+  - is Welingkar (WeSchool) Bangalore good
+  - Welingkar (WeSchool) Bangalore mohit jain review
+  - Welingkar (WeSchool) Bangalore hostel fees
+  - Welingkar (WeSchool) Bangalore contact number
+  - Welingkar (WeSchool) Bangalore MBA fees
+  - Welingkar (WeSchool) Bangalore PGDM placement
+  - Welingkar (WeSchool) Bangalore MBA admission 2027
+  - 'MBA colleges Electronic City, Bangalore'
 ---
 
 ### Courses & Fees

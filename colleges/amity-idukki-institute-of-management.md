@@ -1,18 +1,47 @@
 ---
-name: "Amity Idukki Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Idukki, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Amity Idukki Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Idukki, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2008
-ownership: "Private"
-ranking: "#48 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹23.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.amity-idukki-institute-of-management.edu.in"
+ownership: Private
+ranking: '#48 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹23.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.amity-idukki-institute-of-management.edu.in'
+seo_title: 'Amity Idukki Institute of Management MBA Fees, Cutoff & Plac'
+seo_description: >-
+  Explore Amity Idukki Institute of Management Idukki, India: MBA/PGDM fee
+  structure ₹7.7 Lakhs, average placement ₹6.4 LPA, highest CTC, ranking, and
+  2027 admiss
+keywords:
+  - Amity Idukki Institute of Management review
+  - Amity Idukki Institute of Management fees structure 2027
+  - Amity Idukki Institute of Management average package
+  - Amity Idukki Institute of Management placement report 2027
+  - Amity Idukki Institute of Management highest package
+  - Amity Idukki Institute of Management cutoff 2027
+  - Amity Idukki Institute of Management admission process
+  - Amity Idukki Institute of Management ranking
+  - 'Amity Idukki Institute of Management Idukki, India'
+  - is Amity Idukki Institute of Management good
+  - Amity Idukki Institute of Management mohit jain review
+  - Amity Idukki Institute of Management hostel fees
+  - Amity Idukki Institute of Management contact number
+  - Amity Idukki Institute of Management MBA fees
+  - Amity Idukki Institute of Management PGDM placement
+  - Amity Idukki Institute of Management MBA admission 2027
+  - 'MBA colleges Idukki, India'
 ---
 
 ### About Amity Idukki Institute of Management

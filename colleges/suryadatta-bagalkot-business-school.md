@@ -1,18 +1,47 @@
 ---
-name: "Suryadatta Bagalkot Business School"
-logo: "/colleges/default-management-logo.webp"
-location: "Bagalkot, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Suryadatta Bagalkot Business School
+logo: /colleges/default-management-logo.webp
+location: 'Bagalkot, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2012
-ownership: "Public"
-ranking: "#57 Top Private B-School"
-fees: "₹8.5 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹21.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.suryadatta-bagalkot-business-school.edu.in"
+ownership: Public
+ranking: '#57 Top Private B-School'
+fees: ₹8.5 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹21.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.suryadatta-bagalkot-business-school.edu.in'
+seo_title: 'Suryadatta Bagalkot Business School MBA Fees, Cutoff & Place'
+seo_description: >-
+  Explore Suryadatta Bagalkot Business School Bagalkot, India: MBA/PGDM fee
+  structure ₹8.5 Lakhs, average placement ₹7.1 LPA, highest CTC, ranking, and
+  2027 admis
+keywords:
+  - Suryadatta Bagalkot Business School review
+  - Suryadatta Bagalkot Business School fees structure 2027
+  - Suryadatta Bagalkot Business School average package
+  - Suryadatta Bagalkot Business School placement report 2027
+  - Suryadatta Bagalkot Business School highest package
+  - Suryadatta Bagalkot Business School cutoff 2027
+  - Suryadatta Bagalkot Business School admission process
+  - Suryadatta Bagalkot Business School ranking
+  - 'Suryadatta Bagalkot Business School Bagalkot, India'
+  - is Suryadatta Bagalkot Business School good
+  - Suryadatta Bagalkot Business School mohit jain review
+  - Suryadatta Bagalkot Business School hostel fees
+  - Suryadatta Bagalkot Business School contact number
+  - Suryadatta Bagalkot Business School MBA fees
+  - Suryadatta Bagalkot Business School PGDM placement
+  - Suryadatta Bagalkot Business School MBA admission 2027
+  - 'MBA colleges Bagalkot, India'
 ---
 
 ### About Suryadatta Bagalkot Business School

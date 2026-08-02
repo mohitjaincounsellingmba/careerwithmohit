@@ -1,18 +1,46 @@
 ---
-name: "MSRIM (Ramaiah) Bangalore"
-logo: "/colleges/msrim-logo.webp"
-location: "M S Ramaiah Nagar, Bangalore"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: MSRIM (Ramaiah) Bangalore
+logo: /colleges/msrim-logo.webp
+location: 'M S Ramaiah Nagar, Bangalore'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1995
-ownership: "Private"
-ranking: "Top 100 in NIRF"
-fees: "₹9.5 Lakhs"
-avg_placement: "₹9.2 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["MAT", "CMAT", "CAT"]
-website: "https://www.msrim.org"
+ownership: Private
+ranking: Top 100 in NIRF
+fees: ₹9.5 Lakhs
+avg_placement: ₹9.2 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - MAT
+  - CMAT
+  - CAT
+website: 'https://www.msrim.org'
+seo_title: 'MSRIM (Ramaiah) Bangalore MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore MSRIM (Ramaiah) Bangalore M S Ramaiah Nagar, Bangalore: MBA/PGDM fee
+  structure ₹9.5 Lakhs, average placement ₹9.2 LPA, highest CTC, ranking, and
+  2027 ad
+keywords:
+  - MSRIM (Ramaiah) Bangalore review
+  - MSRIM (Ramaiah) Bangalore fees structure 2027
+  - MSRIM (Ramaiah) Bangalore average package
+  - MSRIM (Ramaiah) Bangalore placement report 2027
+  - MSRIM (Ramaiah) Bangalore highest package
+  - MSRIM (Ramaiah) Bangalore cutoff 2027
+  - MSRIM (Ramaiah) Bangalore admission process
+  - MSRIM (Ramaiah) Bangalore ranking
+  - 'MSRIM (Ramaiah) Bangalore M S Ramaiah Nagar, Bangalore'
+  - is MSRIM (Ramaiah) Bangalore good
+  - MSRIM (Ramaiah) Bangalore mohit jain review
+  - MSRIM (Ramaiah) Bangalore hostel fees
+  - MSRIM (Ramaiah) Bangalore contact number
+  - MSRIM (Ramaiah) Bangalore MBA fees
+  - MSRIM (Ramaiah) Bangalore PGDM placement
+  - MSRIM (Ramaiah) Bangalore MBA admission 2027
+  - 'MBA colleges M S Ramaiah Nagar, Bangalore'
 ---
 
 ### Courses & Fees

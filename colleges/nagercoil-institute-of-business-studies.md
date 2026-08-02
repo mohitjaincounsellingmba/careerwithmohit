@@ -1,18 +1,47 @@
 ---
-name: "Nagercoil Institute of Business Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Nagercoil, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Nagercoil Institute of Business Studies
+logo: /colleges/default-management-logo.webp
+location: 'Nagercoil, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2007
-ownership: "Public"
-ranking: "#22 Top Private B-School"
-fees: "₹6.1 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹14.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.nagercoil-institute-of-business-studies.edu.in"
+ownership: Public
+ranking: '#22 Top Private B-School'
+fees: ₹6.1 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹14.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.nagercoil-institute-of-business-studies.edu.in'
+seo_title: 'Nagercoil Institute of Business Studies MBA Fees, Cutoff & P'
+seo_description: >-
+  Explore Nagercoil Institute of Business Studies Nagercoil, India: MBA/PGDM fee
+  structure ₹6.1 Lakhs, average placement ₹5.0 LPA, highest CTC, ranking, and
+  2027 
+keywords:
+  - Nagercoil Institute of Business Studies review
+  - Nagercoil Institute of Business Studies fees structure 2027
+  - Nagercoil Institute of Business Studies average package
+  - Nagercoil Institute of Business Studies placement report 2027
+  - Nagercoil Institute of Business Studies highest package
+  - Nagercoil Institute of Business Studies cutoff 2027
+  - Nagercoil Institute of Business Studies admission process
+  - Nagercoil Institute of Business Studies ranking
+  - 'Nagercoil Institute of Business Studies Nagercoil, India'
+  - is Nagercoil Institute of Business Studies good
+  - Nagercoil Institute of Business Studies mohit jain review
+  - Nagercoil Institute of Business Studies hostel fees
+  - Nagercoil Institute of Business Studies contact number
+  - Nagercoil Institute of Business Studies MBA fees
+  - Nagercoil Institute of Business Studies PGDM placement
+  - Nagercoil Institute of Business Studies MBA admission 2027
+  - 'MBA colleges Nagercoil, India'
 ---
 
 ### About Nagercoil Institute of Business Studies

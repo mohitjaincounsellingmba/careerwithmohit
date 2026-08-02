@@ -1,18 +1,45 @@
 ---
-name: "SPJIMR Mumbai"
-logo: "/colleges/spjimr-logo.webp"
-location: "Mumbai, Maharashtra"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: SPJIMR Mumbai
+logo: /colleges/spjimr-logo.webp
+location: 'Mumbai, Maharashtra'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1981
-ownership: "Private"
-ranking: "#20 (NIRF 2024)"
-fees: "₹22.5 Lakhs"
-avg_placement: "₹33.0 LPA"
-highest_placement: "₹77.8 LPA"
-exams: ["CAT", "GMAT"]
-website: "https://www.spjimr.org"
+ownership: Private
+ranking: '#20 (NIRF 2024)'
+fees: ₹22.5 Lakhs
+avg_placement: ₹33.0 LPA
+highest_placement: ₹77.8 LPA
+exams:
+  - CAT
+  - GMAT
+website: 'https://www.spjimr.org'
+seo_title: 'SPJIMR Mumbai MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore SPJIMR Mumbai Mumbai, Maharashtra: MBA/PGDM fee structure ₹22.5 Lakhs,
+  average placement ₹33.0 LPA, highest CTC, ranking, and 2027 admission process
+  wit
+keywords:
+  - SPJIMR Mumbai review
+  - SPJIMR Mumbai fees structure 2027
+  - SPJIMR Mumbai average package
+  - SPJIMR Mumbai placement report 2027
+  - SPJIMR Mumbai highest package
+  - SPJIMR Mumbai cutoff 2027
+  - SPJIMR Mumbai admission process
+  - SPJIMR Mumbai ranking
+  - 'SPJIMR Mumbai Mumbai, Maharashtra'
+  - is SPJIMR Mumbai good
+  - SPJIMR Mumbai mohit jain review
+  - SPJIMR Mumbai hostel fees
+  - SPJIMR Mumbai contact number
+  - SPJIMR Mumbai MBA fees
+  - SPJIMR Mumbai PGDM placement
+  - SPJIMR Mumbai MBA admission 2027
+  - 'MBA colleges Mumbai, Maharashtra'
 ---
 
 ### Courses & Fees

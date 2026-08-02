@@ -42,6 +42,8 @@ To help you measure your standing, we offer a high-fidelity **[Free [BITS Pilani
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is there a bonus section in the BITSAT exam?
@@ -53,11 +55,3 @@ A score above 270+ (out of 390) is generally safe for securing admission into to
 ### Are English and Logical Reasoning important for BITSAT?
 Yes, English Proficiency and Logical Reasoning account for 30 questions (90 marks) out of the total 130 questions. This section is often the differentiator for high-percentile scores.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

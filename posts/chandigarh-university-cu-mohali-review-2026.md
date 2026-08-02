@@ -1,25 +1,49 @@
 ---
-title: "Chandigarh University (CU), Mohali / Gharuan Review 2026: Placements, Fees, Courses & Admission"
+title: >-
+  Chandigarh University (CU), Mohali / Gharuan Review 2026: Placements, Fees,
+  Courses & Admission
 date: '2026-08-03'
-description: "Comprehensive review of Chandigarh University (CU), Mohali / Gharuan (Mohali / Gharuan) for 2026. Check latest fee structure, flagship courses, placement statistics, top recruiters, and admission process."
+description: >-
+  Comprehensive review of Chandigarh University (CU), Mohali / Gharuan (Mohali /
+  Gharuan) for 2026. Check latest fee structure, flagship courses, placement
+  statistics, top recruiters, and admission process.
 keywords:
-  - "Chandigarh University (CU) review 2026"
-  - "Chandigarh University (CU) placements 2026"
-  - "Chandigarh University (CU) fees structure"
-  - "Chandigarh University (CU) admission process"
-  - "Chandigarh University (CU), Mohali / Gharuan review"
-  - "Best Colleges in Mohali / Gharuan"
-  - "Top Universities in Punjab"
-  - "Direct Admission in Mohali / Gharuan"
-category: "Colleges"
-location: "Mohali / Gharuan"
+  - Chandigarh University (CU) review 2026
+  - Chandigarh University (CU) placements 2026
+  - Chandigarh University (CU) fees structure
+  - Chandigarh University (CU) admission process
+  - 'Chandigarh University (CU), Mohali / Gharuan review'
+  - Best Colleges in Mohali / Gharuan
+  - Top Universities in Punjab
+  - Direct Admission in Mohali / Gharuan
+category: Colleges
+location: Mohali / Gharuan
 faqs:
-  - question: "Is Chandigarh University (CU), Mohali / Gharuan a good choice for higher education in 2026?"
-    answer: "Yes, Chandigarh University (CU), Mohali / Gharuan is a highly reputed institution in Punjab (UGC, NAAC A+ Grade, NBA Accredited, NIRF Top 30, QS World Top 700, AICTE). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹7.50 LPA - ₹9.50 LPA."
-  - question: "What is the annual fee structure at Chandigarh University (CU), Mohali / Gharuan?"
-    answer: "The annual tuition fee at Chandigarh University (CU), Mohali / Gharuan generally ranges between ₹2.00 Lakhs - ₹4.20 Lakhs per annum, depending on the chosen program (B.Tech (CSE), MBA, BBA, BCA, BA LLB, Hotel Management, Biotechnology) and applicable merit scholarships."
-  - question: "How can I apply for admission to Chandigarh University (CU), Mohali / Gharuan in 2026?"
-    answer: "Admissions for 2026 at Chandigarh University (CU), Mohali / Gharuan are conducted based on entrance exams such as CUCET, JEE Main, CAT, MAT, CUET, Merit-based, followed by counseling, personal interviews, or merit-based shortlisting."
+  - question: >-
+      Is Chandigarh University (CU), Mohali / Gharuan a good choice for higher
+      education in 2026?
+    answer: >-
+      Yes, Chandigarh University (CU), Mohali / Gharuan is a highly reputed
+      institution in Punjab (UGC, NAAC A+ Grade, NBA Accredited, NIRF Top 30, QS
+      World Top 700, AICTE). It offers modern campus infrastructure, strong
+      industry integration, and a commendable average placement package of ₹7.50
+      LPA - ₹9.50 LPA.
+  - question: >-
+      What is the annual fee structure at Chandigarh University (CU), Mohali /
+      Gharuan?
+    answer: >-
+      The annual tuition fee at Chandigarh University (CU), Mohali / Gharuan
+      generally ranges between ₹2.00 Lakhs - ₹4.20 Lakhs per annum, depending on
+      the chosen program (B.Tech (CSE), MBA, BBA, BCA, BA LLB, Hotel Management,
+      Biotechnology) and applicable merit scholarships.
+  - question: >-
+      How can I apply for admission to Chandigarh University (CU), Mohali /
+      Gharuan in 2026?
+    answer: >-
+      Admissions for 2026 at Chandigarh University (CU), Mohali / Gharuan are
+      conducted based on entrance exams such as CUCET, JEE Main, CAT, MAT, CUET,
+      Merit-based, followed by counseling, personal interviews, or merit-based
+      shortlisting.
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Chandigarh University (CU), Mohali / Gharuan**, situated in **Mohali / Gharuan**, stands out as one of the premier destinations for undergraduate and postgraduate education in Punjab.
@@ -153,4 +177,4 @@ Navigating college cutoffs, fee structures, and course specializations can be ch
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.

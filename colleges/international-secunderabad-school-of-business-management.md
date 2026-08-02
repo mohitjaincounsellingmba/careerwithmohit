@@ -1,18 +1,55 @@
 ---
-name: "International Secunderabad School of Business & Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Secunderabad, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: International Secunderabad School of Business & Management
+logo: /colleges/default-management-logo.webp
+location: 'Secunderabad, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2015
-ownership: "Public"
-ranking: "#60 Top Private B-School"
-fees: "₹4.5 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹11.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.international-secunderabad-school-of-business-management.edu.in"
+ownership: Public
+ranking: '#60 Top Private B-School'
+fees: ₹4.5 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹11.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.international-secunderabad-school-of-business-management.edu.in'
+seo_title: International Secunderabad School of Business & Management M
+seo_description: >-
+  Explore International Secunderabad School of Business & Management
+  Secunderabad, India: MBA/PGDM fee structure ₹4.5 Lakhs, average placement ₹5.0
+  LPA, highest C
+keywords:
+  - International Secunderabad School of Business & Management review
+  - >-
+    International Secunderabad School of Business & Management fees structure
+    2027
+  - International Secunderabad School of Business & Management average package
+  - >-
+    International Secunderabad School of Business & Management placement report
+    2027
+  - International Secunderabad School of Business & Management highest package
+  - International Secunderabad School of Business & Management cutoff 2027
+  - International Secunderabad School of Business & Management admission process
+  - International Secunderabad School of Business & Management ranking
+  - >-
+    International Secunderabad School of Business & Management Secunderabad,
+    India
+  - is International Secunderabad School of Business & Management good
+  - International Secunderabad School of Business & Management mohit jain review
+  - International Secunderabad School of Business & Management hostel fees
+  - International Secunderabad School of Business & Management contact number
+  - International Secunderabad School of Business & Management MBA fees
+  - International Secunderabad School of Business & Management PGDM placement
+  - >-
+    International Secunderabad School of Business & Management MBA admission
+    2027
+  - 'MBA colleges Secunderabad, India'
 ---
 
 ### About International Secunderabad School of Business & Management

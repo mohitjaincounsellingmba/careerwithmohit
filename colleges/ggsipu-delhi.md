@@ -1,18 +1,48 @@
 ---
-name: "GGSIPU (Guru Gobind Singh Indraprastha University)"
-logo: "/colleges/ggsipu-logo.webp"
-location: "New Delhi"
-category: "Management"
-type: "University"
-courses: ["MBA", "B.Tech", "BBA", "BCA"]
+name: GGSIPU (Guru Gobind Singh Indraprastha University)
+logo: /colleges/ggsipu-logo.webp
+location: New Delhi
+category: Management
+type: University
+courses:
+  - MBA
+  - B.Tech
+  - BBA
+  - BCA
 established: 1998
-ownership: "Public"
-ranking: "#76 (NIRF 2025 - Management)"
-fees: "₹3.70 Lakhs"
-avg_placement: "₹6.18 LPA"
-highest_placement: "₹12.00 LPA"
-exams: ["IPU CET", "CAT", "CMAT"]
-website: "http://www.ipu.ac.in"
+ownership: Public
+ranking: '#76 (NIRF 2025 - Management)'
+fees: ₹3.70 Lakhs
+avg_placement: ₹6.18 LPA
+highest_placement: ₹12.00 LPA
+exams:
+  - IPU CET
+  - CAT
+  - CMAT
+website: 'http://www.ipu.ac.in'
+seo_title: 'GGSIPU (Guru Gobind Singh Indraprastha University) MBA Fees,'
+seo_description: >-
+  Explore GGSIPU (Guru Gobind Singh Indraprastha University) New Delhi: MBA/PGDM
+  fee structure ₹3.70 Lakhs, average placement ₹6.18 LPA, highest CTC, ranking,
+  and
+keywords:
+  - GGSIPU (Guru Gobind Singh Indraprastha University) review
+  - GGSIPU (Guru Gobind Singh Indraprastha University) fees structure 2027
+  - GGSIPU (Guru Gobind Singh Indraprastha University) average package
+  - GGSIPU (Guru Gobind Singh Indraprastha University) placement report 2027
+  - GGSIPU (Guru Gobind Singh Indraprastha University) highest package
+  - GGSIPU (Guru Gobind Singh Indraprastha University) cutoff 2027
+  - GGSIPU (Guru Gobind Singh Indraprastha University) admission process
+  - GGSIPU (Guru Gobind Singh Indraprastha University) ranking
+  - GGSIPU (Guru Gobind Singh Indraprastha University) New Delhi
+  - is GGSIPU (Guru Gobind Singh Indraprastha University) good
+  - GGSIPU (Guru Gobind Singh Indraprastha University) mohit jain review
+  - GGSIPU (Guru Gobind Singh Indraprastha University) hostel fees
+  - GGSIPU (Guru Gobind Singh Indraprastha University) contact number
+  - GGSIPU (Guru Gobind Singh Indraprastha University) MBA fees
+  - GGSIPU (Guru Gobind Singh Indraprastha University) PGDM placement
+  - GGSIPU (Guru Gobind Singh Indraprastha University) MBA admission 2027
+  - MBA colleges New Delhi
 ---
 
 ### Courses & Fees

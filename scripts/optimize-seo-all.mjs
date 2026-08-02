@@ -2,6 +2,7 @@ import { execSync } from 'child_process';
 import path from 'path';
 
 const seoScripts = [
+  'optimize-sitewide-metadata.mjs',
   'optimize-all-blogs-seo.mjs',
   'optimize-delhi-ncr-seo.mjs',
   'optimize-mock-test-seo.mjs',

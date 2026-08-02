@@ -1,18 +1,47 @@
 ---
-name: "Delhi School of Business (DSB), VIPS"
-logo: "/colleges/dsb-logo.webp"
-location: "Pitampura, Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'Delhi School of Business (DSB), VIPS'
+logo: /colleges/dsb-logo.webp
+location: 'Pitampura, Delhi'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2012
-ownership: "Private"
-ranking: "#1 Top Emerging B-School (Times Ranking)"
-fees: "₹11.0 Lakhs"
-avg_placement: "₹10.5 LPA"
-highest_placement: "₹23.9 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://dsb.edu.in"
+ownership: Private
+ranking: '#1 Top Emerging B-School (Times Ranking)'
+fees: ₹11.0 Lakhs
+avg_placement: ₹10.5 LPA
+highest_placement: ₹23.9 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://dsb.edu.in'
+seo_title: 'Delhi School of Business (DSB), VIPS MBA Fees, Cutoff & Plac'
+seo_description: >-
+  Explore Delhi School of Business (DSB), VIPS Pitampura, Delhi: MBA/PGDM fee
+  structure ₹11.0 Lakhs, average placement ₹10.5 LPA, highest CTC, ranking, and
+  2027 a
+keywords:
+  - 'Delhi School of Business (DSB), VIPS review'
+  - 'Delhi School of Business (DSB), VIPS fees structure 2027'
+  - 'Delhi School of Business (DSB), VIPS average package'
+  - 'Delhi School of Business (DSB), VIPS placement report 2027'
+  - 'Delhi School of Business (DSB), VIPS highest package'
+  - 'Delhi School of Business (DSB), VIPS cutoff 2027'
+  - 'Delhi School of Business (DSB), VIPS admission process'
+  - 'Delhi School of Business (DSB), VIPS ranking'
+  - 'Delhi School of Business (DSB), VIPS Pitampura, Delhi'
+  - 'is Delhi School of Business (DSB), VIPS good'
+  - 'Delhi School of Business (DSB), VIPS mohit jain review'
+  - 'Delhi School of Business (DSB), VIPS hostel fees'
+  - 'Delhi School of Business (DSB), VIPS contact number'
+  - 'Delhi School of Business (DSB), VIPS MBA fees'
+  - 'Delhi School of Business (DSB), VIPS PGDM placement'
+  - 'Delhi School of Business (DSB), VIPS MBA admission 2027'
+  - 'MBA colleges Pitampura, Delhi'
 ---
 
 ### Courses & Fees

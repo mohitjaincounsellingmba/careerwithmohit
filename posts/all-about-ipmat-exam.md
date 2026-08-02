@@ -1,8 +1,12 @@
 ---
-title: 'All About IPMAT Exam 2026: Exam Date, Syllabus, Colleges, Process & Selection Criteria'
+title: >-
+  All About IPMAT Exam 2026: Exam Date, Syllabus, Colleges, Process & Selection
+  Criteria
 date: '2026-08-02'
 description: >-
-  Complete 2026 guide to IPMAT (Integrated Programme in Management Aptitude Test) for IIM Indore, IIM Rohtak, and IIM Ranchi. Get exam dates, syllabus, top colleges, admission process, and selection criteria.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete 2026 guide to IPMAT (Integrated Programme in
+  Managem...
 keywords:
   - IPMAT exam 2026
   - IPMAT exam date 2026
@@ -23,16 +27,24 @@ keywords:
 faqs:
   - question: What is the IPMAT 2026 exam date?
     answer: >-
-      IPMAT Indore and IPMAT Rohtak are expected to be conducted in **May 2026**, shortly after the Class 12 board examinations conclude. Official registrations typically begin in February or March 2026.
+      IPMAT Indore and IPMAT Rohtak are expected to be conducted in **May
+      2026**, shortly after the Class 12 board examinations conclude. Official
+      registrations typically begin in February or March 2026.
   - question: Which top colleges accept IPMAT scores?
     answer: >-
-      Apart from **IIM Indore**, IPMAT Indore scores are accepted by **IIM Ranchi**, **IIFT Kakinada**, **NALSAR University Hyderabad**, **TAPMI Bengaluru**, **Nirma University**, and **T.A. Pai Management Institute**.
+      Apart from **IIM Indore**, IPMAT Indore scores are accepted by **IIM
+      Ranchi**, **IIFT Kakinada**, **NALSAR University Hyderabad**, **TAPMI
+      Bengaluru**, **Nirma University**, and **T.A. Pai Management Institute**.
   - question: Is mathematics compulsory in Class 12 for IPMAT?
     answer: >-
-      No, having Mathematics in Class 12 is **not compulsory** to appear for IPMAT Indore or IPMAT Rohtak. However, the Quantitative Aptitude section tests high-school mathematics concepts up to Class 10/11 level.
+      No, having Mathematics in Class 12 is **not compulsory** to appear for
+      IPMAT Indore or IPMAT Rohtak. However, the Quantitative Aptitude section
+      tests high-school mathematics concepts up to Class 10/11 level.
   - question: What is the selection criteria weightage for IIM Indore IPM?
     answer: >-
-      For final selection at IIM Indore, the **IPMAT Aptitude Test (AT) score carries 65% weightage**, while the **Personal Interview (PI) carries 35% weightage**.
+      For final selection at IIM Indore, the **IPMAT Aptitude Test (AT) score
+      carries 65% weightage**, while the **Personal Interview (PI) carries 35%
+      weightage**.
 location: Delhi
 ---
 
@@ -130,8 +142,8 @@ The IPMAT exam is no longer restricted to a single institution. Several premier 
 | **[IIM Rohtak](/blog/all-about-iim-rohtak-ipm-bba-admission-2026)** | 5-Year IPM (BBA + MBA) | IPMAT Rohtak | ₹34 – 36 Lakhs | ₹19.27 LPA |
 | **IIFT Kakinada** | 5-Year Integrated Program | IPMAT Indore | ₹30 – 32 Lakhs | ₹29.10 LPA (Flagship) |
 | **NALSAR University, Hyderabad** | 5-Year IPM | IPMAT Indore | ₹20 – 24 Lakhs | ₹12 – 14 LPA |
-| **TAPMI Bengaluru** | 4-Year BBA Honors / IPM | IPMAT Indore | ₹16 – 20 Lakhs | ₹14 – 15 LPA |
-| **Nirma University, Ahmedabad** | 5-Year Integrated BBA-MBA | IPMAT Indore | ₹18 – 22 Lakhs | ₹12 – 13 LPA |
+| **[TAPMI Bengaluru](/colleges/tapmi-bangalore)** | 4-Year BBA Honors / IPM | IPMAT Indore | ₹16 – 20 Lakhs | ₹14 – 15 LPA |
+| **[Nirma University](/colleges/nirma-university), Ahmedabad** | 5-Year Integrated BBA-MBA | IPMAT Indore | ₹18 – 22 Lakhs | ₹12 – 13 LPA |
 
 *(Note: [IIM Bodh Gaya](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2026) and [IIM Jammu](/blog/all-about-iim-jammu-ipm-bba-admission-2026) accept JIPMAT scores conducted by NTA.)*
 

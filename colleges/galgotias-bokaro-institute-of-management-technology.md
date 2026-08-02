@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Bokaro Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Bokaro, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Bokaro Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Bokaro, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2018
-ownership: "Private"
-ranking: "#93 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹5.7 LPA"
-highest_placement: "₹15.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-bokaro-institute-of-management-technology.edu.in"
+ownership: Private
+ranking: '#93 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹5.7 LPA
+highest_placement: ₹15.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-bokaro-institute-of-management-technology.edu.in'
+seo_title: Galgotias Bokaro Institute of Management & Technology MBA Fe
+seo_description: >-
+  Explore Galgotias Bokaro Institute of Management & Technology Bokaro, India:
+  MBA/PGDM fee structure ₹5.3 Lakhs, average placement ₹5.7 LPA, highest CTC,
+  ranking
+keywords:
+  - Galgotias Bokaro Institute of Management & Technology review
+  - Galgotias Bokaro Institute of Management & Technology fees structure 2027
+  - Galgotias Bokaro Institute of Management & Technology average package
+  - Galgotias Bokaro Institute of Management & Technology placement report 2027
+  - Galgotias Bokaro Institute of Management & Technology highest package
+  - Galgotias Bokaro Institute of Management & Technology cutoff 2027
+  - Galgotias Bokaro Institute of Management & Technology admission process
+  - Galgotias Bokaro Institute of Management & Technology ranking
+  - 'Galgotias Bokaro Institute of Management & Technology Bokaro, India'
+  - is Galgotias Bokaro Institute of Management & Technology good
+  - Galgotias Bokaro Institute of Management & Technology mohit jain review
+  - Galgotias Bokaro Institute of Management & Technology hostel fees
+  - Galgotias Bokaro Institute of Management & Technology contact number
+  - Galgotias Bokaro Institute of Management & Technology MBA fees
+  - Galgotias Bokaro Institute of Management & Technology PGDM placement
+  - Galgotias Bokaro Institute of Management & Technology MBA admission 2027
+  - 'MBA colleges Bokaro, India'
 ---
 
 ### About Galgotias Bokaro Institute of Management & Technology

@@ -1,20 +1,49 @@
 ---
-name: "JIS University, JIS School of Business Management"
-logo: ""
-location: "Kolkata"
-category: "Management"
-type: "University"
-courses: ["MBA", "PGDM"]
+name: 'JIS University, JIS School of Business Management'
+logo: ''
+location: Kolkata
+category: Management
+type: University
+courses:
+  - MBA
+  - PGDM
 established: 2015
-ownership: "Government"
-ranking: "Top Government Institute"
-fees: "₹5 Lakhs"
-avg_placement: "₹5.1 LPA"
-highest_placement: "₹9.0 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Government
+ranking: Top Government Institute
+fees: ₹5 Lakhs
+avg_placement: ₹5.1 LPA
+highest_placement: ₹9.0 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'JIS University, JIS School of Business Management MBA Fees, '
+seo_description: >-
+  Explore JIS University, JIS School of Business Management Kolkata: MBA/PGDM
+  fee structure ₹5 Lakhs, average placement ₹5.1 LPA, highest CTC, ranking, and
+  2027 a
+keywords:
+  - 'JIS University, JIS School of Business Management review'
+  - 'JIS University, JIS School of Business Management fees structure 2027'
+  - 'JIS University, JIS School of Business Management average package'
+  - 'JIS University, JIS School of Business Management placement report 2027'
+  - 'JIS University, JIS School of Business Management highest package'
+  - 'JIS University, JIS School of Business Management cutoff 2027'
+  - 'JIS University, JIS School of Business Management admission process'
+  - 'JIS University, JIS School of Business Management ranking'
+  - 'JIS University, JIS School of Business Management Kolkata'
+  - 'is JIS University, JIS School of Business Management good'
+  - 'JIS University, JIS School of Business Management mohit jain review'
+  - 'JIS University, JIS School of Business Management hostel fees'
+  - 'JIS University, JIS School of Business Management contact number'
+  - 'JIS University, JIS School of Business Management MBA fees'
+  - 'JIS University, JIS School of Business Management PGDM placement'
+  - 'JIS University, JIS School of Business Management MBA admission 2027'
+  - MBA colleges Kolkata
 ---
 
 ### Courses & Fees

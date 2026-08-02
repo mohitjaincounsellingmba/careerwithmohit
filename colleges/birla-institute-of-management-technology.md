@@ -1,20 +1,45 @@
 ---
-name: "Birla Institute of Management Technology"
-logo: ""
-location: "Greater Noida"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech"]
+name: Birla Institute of Management Technology
+logo: ''
+location: Greater Noida
+category: Engineering
+type: Institute
+courses:
+  - B.Tech
 established: 1988
-ownership: "Private"
-ranking: "Top Private Engineering College"
-fees: "₹14.0 Lakhs"
-avg_placement: "₹26 LPA"
-highest_placement: "₹15.86 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["JEE Main"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private Engineering College
+fees: ₹14.0 Lakhs
+avg_placement: ₹26 LPA
+highest_placement: ₹15.86 LPA
+lowest_placement: Not Disclosed
+exams:
+  - JEE Main
+website: ''
+brochure_url: ''
+seo_title: 'Birla Institute of Management Technology B.Tech Fees, Cutoff'
+seo_description: >-
+  Check Birla Institute of Management Technology Greater Noida: B.Tech fee
+  structure ₹14.0 Lakhs, average placement ₹26 LPA, JEE cutoff, ranking, and
+  2027 enginee
+keywords:
+  - Birla Institute of Management Technology review
+  - Birla Institute of Management Technology fees structure 2027
+  - Birla Institute of Management Technology average package
+  - Birla Institute of Management Technology placement report 2027
+  - Birla Institute of Management Technology highest package
+  - Birla Institute of Management Technology cutoff 2027
+  - Birla Institute of Management Technology admission process
+  - Birla Institute of Management Technology ranking
+  - Birla Institute of Management Technology Greater Noida
+  - is Birla Institute of Management Technology good
+  - Birla Institute of Management Technology mohit jain review
+  - Birla Institute of Management Technology hostel fees
+  - Birla Institute of Management Technology contact number
+  - Birla Institute of Management Technology B.Tech fees
+  - Birla Institute of Management Technology CSE placement
+  - Birla Institute of Management Technology B.Tech admission 2027
+  - engineering colleges Greater Noida
 ---
 
 ### Courses & Fees

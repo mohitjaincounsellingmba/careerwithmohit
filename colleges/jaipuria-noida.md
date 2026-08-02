@@ -1,19 +1,49 @@
 ---
-name: "Jaipuria Noida"
-logo: "/colleges/jaipuria-logo.webp"
-location: "Noida, Uttar Pradesh"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Jaipuria Noida
+logo: /colleges/jaipuria-logo.webp
+location: 'Noida, Uttar Pradesh'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2004
-ownership: "Private"
-ranking: "#45 (NIRF 2024)"
-fees: "₹14.5 Lakhs"
-avg_placement: "₹12.88 LPA"
-highest_placement: "₹36.64 LPA"
-exams: ["CAT", "XAT", "MAT", "CMAT", "ATMA"]
-brochure_url: "/brochures/jaipuria-noida-2025.pdf"
-website: "https://www.jaipuria.ac.in/noida"
+ownership: Private
+ranking: '#45 (NIRF 2024)'
+fees: ₹14.5 Lakhs
+avg_placement: ₹12.88 LPA
+highest_placement: ₹36.64 LPA
+exams:
+  - CAT
+  - XAT
+  - MAT
+  - CMAT
+  - ATMA
+brochure_url: /brochures/jaipuria-noida-2025.pdf
+website: 'https://www.jaipuria.ac.in/noida'
+seo_title: 'Jaipuria Noida MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Jaipuria Noida Noida, Uttar Pradesh: MBA/PGDM fee structure ₹14.5
+  Lakhs, average placement ₹12.88 LPA, highest CTC, ranking, and 2027 admission
+  process 
+keywords:
+  - Jaipuria Noida review
+  - Jaipuria Noida fees structure 2027
+  - Jaipuria Noida average package
+  - Jaipuria Noida placement report 2027
+  - Jaipuria Noida highest package
+  - Jaipuria Noida cutoff 2027
+  - Jaipuria Noida admission process
+  - Jaipuria Noida ranking
+  - 'Jaipuria Noida Noida, Uttar Pradesh'
+  - is Jaipuria Noida good
+  - Jaipuria Noida mohit jain review
+  - Jaipuria Noida hostel fees
+  - Jaipuria Noida contact number
+  - Jaipuria Noida MBA fees
+  - Jaipuria Noida PGDM placement
+  - Jaipuria Noida MBA admission 2027
+  - 'MBA colleges Noida, Uttar Pradesh'
 ---
 
 ### Courses & Fees

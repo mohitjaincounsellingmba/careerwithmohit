@@ -1,18 +1,59 @@
 ---
-name: "MERI Janakpuri (Management Education and Research Institute)"
-logo: "/colleges/meri-logo.webp"
-location: "Janakpuri, Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: MERI Janakpuri (Management Education and Research Institute)
+logo: /colleges/meri-logo.webp
+location: 'Janakpuri, Delhi'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1994
-ownership: "Private"
-ranking: "Top B-School under GGSIPU"
-fees: "₹3.27 Lakhs"
-avg_placement: "₹7.5 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["IPU CET", "CAT", "MAT", "CMAT"]
-website: "https://meri.edu.in"
+ownership: Private
+ranking: Top B-School under GGSIPU
+fees: ₹3.27 Lakhs
+avg_placement: ₹7.5 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - IPU CET
+  - CAT
+  - MAT
+  - CMAT
+website: 'https://meri.edu.in'
+seo_title: MERI Janakpuri (Management Education and Research Institute)
+seo_description: >-
+  Explore MERI Janakpuri (Management Education and Research Institute)
+  Janakpuri, Delhi: MBA/PGDM fee structure ₹3.27 Lakhs, average placement ₹7.5
+  LPA, highest C
+keywords:
+  - MERI Janakpuri (Management Education and Research Institute) review
+  - >-
+    MERI Janakpuri (Management Education and Research Institute) fees structure
+    2027
+  - MERI Janakpuri (Management Education and Research Institute) average package
+  - >-
+    MERI Janakpuri (Management Education and Research Institute) placement
+    report 2027
+  - MERI Janakpuri (Management Education and Research Institute) highest package
+  - MERI Janakpuri (Management Education and Research Institute) cutoff 2027
+  - >-
+    MERI Janakpuri (Management Education and Research Institute) admission
+    process
+  - MERI Janakpuri (Management Education and Research Institute) ranking
+  - >-
+    MERI Janakpuri (Management Education and Research Institute) Janakpuri,
+    Delhi
+  - is MERI Janakpuri (Management Education and Research Institute) good
+  - >-
+    MERI Janakpuri (Management Education and Research Institute) mohit jain
+    review
+  - MERI Janakpuri (Management Education and Research Institute) hostel fees
+  - MERI Janakpuri (Management Education and Research Institute) contact number
+  - MERI Janakpuri (Management Education and Research Institute) MBA fees
+  - MERI Janakpuri (Management Education and Research Institute) PGDM placement
+  - >-
+    MERI Janakpuri (Management Education and Research Institute) MBA admission
+    2027
+  - 'MBA colleges Janakpuri, Delhi'
 ---
 
 ### Courses & Fees

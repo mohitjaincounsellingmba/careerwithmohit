@@ -41,6 +41,8 @@ To help you dominate the 2026 exam, we've launched a **[Free Full-Length JEE Adv
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the exam date and organizing body for JEE Advanced 2026?
@@ -52,11 +54,3 @@ Yes, both Paper 1 (morning shift) and Paper 2 (afternoon shift) are mandatory. M
 ### Is there partial marking in JEE Advanced?
 Yes, in multiple-correct option questions, candidates receive partial marks if they select a subset of correct answers with no incorrect options marked.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

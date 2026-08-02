@@ -1,19 +1,47 @@
 ---
-name: "ASM IBMR"
-logo: ""
-location: "Chinchwad, Pune"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: ASM IBMR
+logo: ''
+location: 'Chinchwad, Pune'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1983
-ownership: "Private"
-ranking: "Top B-School in Pune"
-fees: "₹5.50 L - ₹8.50 L"
-avg_placement: "₹7.5 LPA"
-highest_placement: "₹24.0 LPA"
-exams: ["CAT", "MAT", "CMAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top B-School in Pune
+fees: ₹5.50 L - ₹8.50 L
+avg_placement: ₹7.5 LPA
+highest_placement: ₹24.0 LPA
+exams:
+  - CAT
+  - MAT
+  - CMAT
+website: ''
+brochure_url: ''
+seo_title: 'ASM IBMR MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore ASM IBMR Chinchwad, Pune: MBA/PGDM fee structure ₹5.50 L - ₹8.50 L,
+  average placement ₹7.5 LPA, highest CTC, ranking, and 2027 admission process
+  with Mo
+keywords:
+  - ASM IBMR review
+  - ASM IBMR fees structure 2027
+  - ASM IBMR average package
+  - ASM IBMR placement report 2027
+  - ASM IBMR highest package
+  - ASM IBMR cutoff 2027
+  - ASM IBMR admission process
+  - ASM IBMR ranking
+  - 'ASM IBMR Chinchwad, Pune'
+  - is ASM IBMR good
+  - ASM IBMR mohit jain review
+  - ASM IBMR hostel fees
+  - ASM IBMR contact number
+  - ASM IBMR MBA fees
+  - ASM IBMR PGDM placement
+  - ASM IBMR MBA admission 2027
+  - 'MBA colleges Chinchwad, Pune'
 ---
 
 ### Courses & Fees

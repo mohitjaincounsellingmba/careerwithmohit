@@ -1,20 +1,49 @@
 ---
-name: "GD Goenka University"
-logo: ""
-location: "Gurugram"
-category: "Management"
-type: "University"
-courses: ["MBA", "PGDM"]
+name: GD Goenka University
+logo: ''
+location: Gurugram
+category: Management
+type: University
+courses:
+  - MBA
+  - PGDM
 established: 2013
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹8-10.5 Lakhs"
-avg_placement: "₹9.0 LPA"
-highest_placement: "₹35.0 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹8-10.5 Lakhs
+avg_placement: ₹9.0 LPA
+highest_placement: ₹35.0 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'GD Goenka University MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore GD Goenka University Gurugram: MBA/PGDM fee structure ₹8-10.5 Lakhs,
+  average placement ₹9.0 LPA, highest CTC, ranking, and 2027 admission process
+  with M
+keywords:
+  - GD Goenka University review
+  - GD Goenka University fees structure 2027
+  - GD Goenka University average package
+  - GD Goenka University placement report 2027
+  - GD Goenka University highest package
+  - GD Goenka University cutoff 2027
+  - GD Goenka University admission process
+  - GD Goenka University ranking
+  - GD Goenka University Gurugram
+  - is GD Goenka University good
+  - GD Goenka University mohit jain review
+  - GD Goenka University hostel fees
+  - GD Goenka University contact number
+  - GD Goenka University MBA fees
+  - GD Goenka University PGDM placement
+  - GD Goenka University MBA admission 2027
+  - MBA colleges Gurugram
 ---
 
 ### Courses & Fees

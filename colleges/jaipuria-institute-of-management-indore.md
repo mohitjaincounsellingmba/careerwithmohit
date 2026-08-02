@@ -1,20 +1,49 @@
 ---
-name: "Jaipuria Institute of Management"
-logo: ""
-location: "Indore"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Jaipuria Institute of Management
+logo: ''
+location: Indore
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2002
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹5.6 Lakhs"
-avg_placement: "₹5.1 LPA"
-highest_placement: "₹11.4 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹5.6 Lakhs
+avg_placement: ₹5.1 LPA
+highest_placement: ₹11.4 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'Jaipuria Institute of Management MBA Fees, Cutoff & Placemen'
+seo_description: >-
+  Explore Jaipuria Institute of Management Indore: MBA/PGDM fee structure ₹5.6
+  Lakhs, average placement ₹5.1 LPA, highest CTC, ranking, and 2027 admission
+  process
+keywords:
+  - Jaipuria Institute of Management review
+  - Jaipuria Institute of Management fees structure 2027
+  - Jaipuria Institute of Management average package
+  - Jaipuria Institute of Management placement report 2027
+  - Jaipuria Institute of Management highest package
+  - Jaipuria Institute of Management cutoff 2027
+  - Jaipuria Institute of Management admission process
+  - Jaipuria Institute of Management ranking
+  - Jaipuria Institute of Management Indore
+  - is Jaipuria Institute of Management good
+  - Jaipuria Institute of Management mohit jain review
+  - Jaipuria Institute of Management hostel fees
+  - Jaipuria Institute of Management contact number
+  - Jaipuria Institute of Management MBA fees
+  - Jaipuria Institute of Management PGDM placement
+  - Jaipuria Institute of Management MBA admission 2027
+  - MBA colleges Indore
 ---
 
 ### Courses & Fees

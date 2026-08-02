@@ -1,18 +1,47 @@
 ---
-name: "International Karimnagar Institute of Business Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Karimnagar, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: International Karimnagar Institute of Business Studies
+logo: /colleges/default-management-logo.webp
+location: 'Karimnagar, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2017
-ownership: "Private"
-ranking: "#62 Top Private B-School"
-fees: "₹6.1 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹14.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.international-karimnagar-institute-of-business-studies.edu.in"
+ownership: Private
+ranking: '#62 Top Private B-School'
+fees: ₹6.1 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹14.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.international-karimnagar-institute-of-business-studies.edu.in'
+seo_title: International Karimnagar Institute of Business Studies MBA F
+seo_description: >-
+  Explore International Karimnagar Institute of Business Studies Karimnagar,
+  India: MBA/PGDM fee structure ₹6.1 Lakhs, average placement ₹6.4 LPA, highest
+  CTC, ra
+keywords:
+  - International Karimnagar Institute of Business Studies review
+  - International Karimnagar Institute of Business Studies fees structure 2027
+  - International Karimnagar Institute of Business Studies average package
+  - International Karimnagar Institute of Business Studies placement report 2027
+  - International Karimnagar Institute of Business Studies highest package
+  - International Karimnagar Institute of Business Studies cutoff 2027
+  - International Karimnagar Institute of Business Studies admission process
+  - International Karimnagar Institute of Business Studies ranking
+  - 'International Karimnagar Institute of Business Studies Karimnagar, India'
+  - is International Karimnagar Institute of Business Studies good
+  - International Karimnagar Institute of Business Studies mohit jain review
+  - International Karimnagar Institute of Business Studies hostel fees
+  - International Karimnagar Institute of Business Studies contact number
+  - International Karimnagar Institute of Business Studies MBA fees
+  - International Karimnagar Institute of Business Studies PGDM placement
+  - International Karimnagar Institute of Business Studies MBA admission 2027
+  - 'MBA colleges Karimnagar, India'
 ---
 
 ### About International Karimnagar Institute of Business Studies

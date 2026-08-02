@@ -1,18 +1,51 @@
 ---
-name: "Lal Bahadur Shastri Kanpur Global Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Kanpur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Lal Bahadur Shastri Kanpur Global Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Kanpur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2014
-ownership: "Private"
-ranking: "#39 Top Private B-School"
-fees: "₹6.9 Lakhs"
-avg_placement: "₹5.7 LPA"
-highest_placement: "₹24.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.lal-bahadur-shastri-kanpur-global-institute-of-management.edu.in"
+ownership: Private
+ranking: '#39 Top Private B-School'
+fees: ₹6.9 Lakhs
+avg_placement: ₹5.7 LPA
+highest_placement: ₹24.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.lal-bahadur-shastri-kanpur-global-institute-of-management.edu.in'
+seo_title: Lal Bahadur Shastri Kanpur Global Institute of Management MB
+seo_description: >-
+  Explore Lal Bahadur Shastri Kanpur Global Institute of Management Kanpur,
+  India: MBA/PGDM fee structure ₹6.9 Lakhs, average placement ₹5.7 LPA, highest
+  CTC, ran
+keywords:
+  - Lal Bahadur Shastri Kanpur Global Institute of Management review
+  - >-
+    Lal Bahadur Shastri Kanpur Global Institute of Management fees structure
+    2027
+  - Lal Bahadur Shastri Kanpur Global Institute of Management average package
+  - >-
+    Lal Bahadur Shastri Kanpur Global Institute of Management placement report
+    2027
+  - Lal Bahadur Shastri Kanpur Global Institute of Management highest package
+  - Lal Bahadur Shastri Kanpur Global Institute of Management cutoff 2027
+  - Lal Bahadur Shastri Kanpur Global Institute of Management admission process
+  - Lal Bahadur Shastri Kanpur Global Institute of Management ranking
+  - 'Lal Bahadur Shastri Kanpur Global Institute of Management Kanpur, India'
+  - is Lal Bahadur Shastri Kanpur Global Institute of Management good
+  - Lal Bahadur Shastri Kanpur Global Institute of Management mohit jain review
+  - Lal Bahadur Shastri Kanpur Global Institute of Management hostel fees
+  - Lal Bahadur Shastri Kanpur Global Institute of Management contact number
+  - Lal Bahadur Shastri Kanpur Global Institute of Management MBA fees
+  - Lal Bahadur Shastri Kanpur Global Institute of Management PGDM placement
+  - Lal Bahadur Shastri Kanpur Global Institute of Management MBA admission 2027
+  - 'MBA colleges Kanpur, India'
 ---
 
 ### About Lal Bahadur Shastri Kanpur Global Institute of Management

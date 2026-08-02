@@ -1,25 +1,50 @@
 ---
-title: "Great Lakes Institute of Management, Chennai Review 2026: Placements, Fees, Courses & Admission"
+title: >-
+  Great Lakes Institute of Management, Chennai Review 2026: Placements, Fees,
+  Courses & Admission
 date: '2026-08-03'
-description: "Comprehensive review of Great Lakes Institute of Management, Chennai (Chennai (Manamai / ECR Campus)) for 2026. Check latest fee structure, flagship courses, placement statistics, top recruiters, and admission process."
+description: >-
+  Comprehensive review of Great Lakes Institute of Management, Chennai (Chennai
+  (Manamai / ECR Campus)) for 2026. Check latest fee structure, flagship
+  courses, placement statistics, top recruiters, and admission process.
 keywords:
-  - "Great Lakes Chennai review 2026"
-  - "Great Lakes Chennai placements 2026"
-  - "Great Lakes Chennai fees structure"
-  - "Great Lakes Chennai admission process"
-  - "Great Lakes Institute of Management, Chennai review"
-  - "Best Colleges in Chennai (Manamai / ECR Campus)"
-  - "Top Universities in Chennai, South India"
-  - "Direct Admission in Chennai (Manamai / ECR Campus)"
-category: "Colleges"
-location: "Chennai (Manamai / ECR Campus)"
+  - Great Lakes Chennai review 2026
+  - Great Lakes Chennai placements 2026
+  - Great Lakes Chennai fees structure
+  - Great Lakes Chennai admission process
+  - 'Great Lakes Institute of Management, Chennai review'
+  - Best Colleges in Chennai (Manamai / ECR Campus)
+  - 'Top Universities in Chennai, South India'
+  - Direct Admission in Chennai (Manamai / ECR Campus)
+category: Colleges
+location: Chennai (Manamai / ECR Campus)
 faqs:
-  - question: "Is Great Lakes Institute of Management, Chennai a good choice for higher education in 2026?"
-    answer: "Yes, Great Lakes Institute of Management, Chennai is a highly reputed institution in Chennai, South India (AMBA, AACSB, SAQS, AICTE Approved, NBA Accredited, NIRF Top 35). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹15.50 LPA - ₹17.80 LPA (PGPM) / ₹14.20 LPA (PGDM)."
-  - question: "What is the annual fee structure at Great Lakes Institute of Management, Chennai?"
-    answer: "The annual tuition fee at Great Lakes Institute of Management, Chennai generally ranges between ₹10.50 Lakhs - ₹11.50 Lakhs per annum (Total 2-Year PGDM ~₹21 Lakhs; 1-Year PGPM ~₹21 Lakhs total), depending on the chosen program (PGPM (1-Year Fast-Track for Professionals), PGDM (2-Year for Freshers)) and applicable merit scholarships."
-  - question: "How can I apply for admission to Great Lakes Institute of Management, Chennai in 2026?"
-    answer: "Admissions for 2026 at Great Lakes Institute of Management, Chennai are conducted based on entrance exams such as CAT, XAT, GMAT, NMAT (for PGPM / PGDM), followed by counseling, personal interviews, or merit-based shortlisting."
+  - question: >-
+      Is Great Lakes Institute of Management, Chennai a good choice for higher
+      education in 2026?
+    answer: >-
+      Yes, Great Lakes Institute of Management, Chennai is a highly reputed
+      institution in Chennai, South India (AMBA, AACSB, SAQS, AICTE Approved,
+      NBA Accredited, NIRF Top 35). It offers modern campus infrastructure,
+      strong industry integration, and a commendable average placement package
+      of ₹15.50 LPA - ₹17.80 LPA (PGPM) / ₹14.20 LPA (PGDM).
+  - question: >-
+      What is the annual fee structure at Great Lakes Institute of Management,
+      Chennai?
+    answer: >-
+      The annual tuition fee at Great Lakes Institute of Management, Chennai
+      generally ranges between ₹10.50 Lakhs - ₹11.50 Lakhs per annum (Total
+      2-Year PGDM ~₹21 Lakhs; 1-Year PGPM ~₹21 Lakhs total), depending on the
+      chosen program (PGPM (1-Year Fast-Track for Professionals), PGDM (2-Year
+      for Freshers)) and applicable merit scholarships.
+  - question: >-
+      How can I apply for admission to Great Lakes Institute of Management,
+      Chennai in 2026?
+    answer: >-
+      Admissions for 2026 at Great Lakes Institute of Management, Chennai are
+      conducted based on entrance exams such as CAT, XAT, GMAT, NMAT (for PGPM /
+      PGDM), followed by counseling, personal interviews, or merit-based
+      shortlisting.
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Great Lakes Institute of Management, Chennai**, situated in **Chennai (Manamai / ECR Campus)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Chennai, South India.
@@ -153,4 +178,4 @@ Navigating college cutoffs, fee structures, and course specializations can be ch
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.

@@ -1,18 +1,47 @@
 ---
-name: "Suryadatta Neyyattinkara Institute of Business Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Neyyattinkara, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Suryadatta Neyyattinkara Institute of Business Studies
+logo: /colleges/default-management-logo.webp
+location: 'Neyyattinkara, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2014
-ownership: "Private"
-ranking: "#54 Top Private B-School"
-fees: "₹6.1 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹17.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.suryadatta-neyyattinkara-institute-of-business-studies.edu.in"
+ownership: Private
+ranking: '#54 Top Private B-School'
+fees: ₹6.1 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹17.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.suryadatta-neyyattinkara-institute-of-business-studies.edu.in'
+seo_title: Suryadatta Neyyattinkara Institute of Business Studies MBA F
+seo_description: >-
+  Explore Suryadatta Neyyattinkara Institute of Business Studies Neyyattinkara,
+  India: MBA/PGDM fee structure ₹6.1 Lakhs, average placement ₹6.4 LPA, highest
+  CTC,
+keywords:
+  - Suryadatta Neyyattinkara Institute of Business Studies review
+  - Suryadatta Neyyattinkara Institute of Business Studies fees structure 2027
+  - Suryadatta Neyyattinkara Institute of Business Studies average package
+  - Suryadatta Neyyattinkara Institute of Business Studies placement report 2027
+  - Suryadatta Neyyattinkara Institute of Business Studies highest package
+  - Suryadatta Neyyattinkara Institute of Business Studies cutoff 2027
+  - Suryadatta Neyyattinkara Institute of Business Studies admission process
+  - Suryadatta Neyyattinkara Institute of Business Studies ranking
+  - 'Suryadatta Neyyattinkara Institute of Business Studies Neyyattinkara, India'
+  - is Suryadatta Neyyattinkara Institute of Business Studies good
+  - Suryadatta Neyyattinkara Institute of Business Studies mohit jain review
+  - Suryadatta Neyyattinkara Institute of Business Studies hostel fees
+  - Suryadatta Neyyattinkara Institute of Business Studies contact number
+  - Suryadatta Neyyattinkara Institute of Business Studies MBA fees
+  - Suryadatta Neyyattinkara Institute of Business Studies PGDM placement
+  - Suryadatta Neyyattinkara Institute of Business Studies MBA admission 2027
+  - 'MBA colleges Neyyattinkara, India'
 ---
 
 ### About Suryadatta Neyyattinkara Institute of Business Studies

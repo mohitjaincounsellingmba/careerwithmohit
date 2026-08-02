@@ -1,18 +1,50 @@
 ---
-name: "LBSIM Delhi (Lal Bahadur Shastri Institute of Management)"
-logo: "/colleges/lbsim-logo.webp"
-location: "New Delhi"
-category: "Management"
-type: "Institute"
-courses: ["PGDM", "MBA"]
+name: LBSIM Delhi (Lal Bahadur Shastri Institute of Management)
+logo: /colleges/lbsim-logo.webp
+location: New Delhi
+category: Management
+type: Institute
+courses:
+  - PGDM
+  - MBA
 established: 1995
-ownership: "Private"
-ranking: "#101-125 (NIRF 2025)"
-fees: "₹17.25 Lakhs"
-avg_placement: "₹12.00 LPA"
-highest_placement: "₹24.75 LPA"
-exams: ["CAT", "XAT", "GMAT"]
-website: "https://www.lbsim.ac.in"
+ownership: Private
+ranking: '#101-125 (NIRF 2025)'
+fees: ₹17.25 Lakhs
+avg_placement: ₹12.00 LPA
+highest_placement: ₹24.75 LPA
+exams:
+  - CAT
+  - XAT
+  - GMAT
+website: 'https://www.lbsim.ac.in'
+seo_title: LBSIM Delhi (Lal Bahadur Shastri Institute of Management) MB
+seo_description: >-
+  Explore LBSIM Delhi (Lal Bahadur Shastri Institute of Management) New Delhi:
+  MBA/PGDM fee structure ₹17.25 Lakhs, average placement ₹12.00 LPA, highest
+  CTC, ran
+keywords:
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) review
+  - >-
+    LBSIM Delhi (Lal Bahadur Shastri Institute of Management) fees structure
+    2027
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) average package
+  - >-
+    LBSIM Delhi (Lal Bahadur Shastri Institute of Management) placement report
+    2027
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) highest package
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) cutoff 2027
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) admission process
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) ranking
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) New Delhi
+  - is LBSIM Delhi (Lal Bahadur Shastri Institute of Management) good
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) mohit jain review
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) hostel fees
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) contact number
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) MBA fees
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) PGDM placement
+  - LBSIM Delhi (Lal Bahadur Shastri Institute of Management) MBA admission 2027
+  - MBA colleges New Delhi
 ---
 
 ### Courses & Fees

@@ -1,19 +1,48 @@
 ---
-name: "CMR Institute of Technology (CMRIT)"
-logo: ""
-location: "Kundalahalli, Bangalore"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech Computer Science", "B.Tech ISE", "B.Tech ECE", "B.Tech Mechanical"]
+name: CMR Institute of Technology (CMRIT)
+logo: ''
+location: 'Kundalahalli, Bangalore'
+category: Engineering
+type: Institute
+courses:
+  - B.Tech Computer Science
+  - B.Tech ISE
+  - B.Tech ECE
+  - B.Tech Mechanical
 established: 2000
-ownership: "Private Autonomous"
-ranking: "Top Engineering College"
-fees: "₹5.5 Lakhs - ₹7.5 Lakhs"
-avg_placement: "₹5.5 LPA"
-highest_placement: "₹36.0 LPA"
-exams: ["KCET", "COMEDK"]
-website: ""
-brochure_url: ""
+ownership: Private Autonomous
+ranking: Top Engineering College
+fees: ₹5.5 Lakhs - ₹7.5 Lakhs
+avg_placement: ₹5.5 LPA
+highest_placement: ₹36.0 LPA
+exams:
+  - KCET
+  - COMEDK
+website: ''
+brochure_url: ''
+seo_title: 'CMR Institute of Technology (CMRIT) B.Tech Fees, Cutoff & Pl'
+seo_description: >-
+  Check CMR Institute of Technology (CMRIT) Kundalahalli, Bangalore: B.Tech fee
+  structure ₹5.5 Lakhs - ₹7.5 Lakhs, average placement ₹5.5 LPA, JEE cutoff,
+  ranking
+keywords:
+  - CMR Institute of Technology (CMRIT) review
+  - CMR Institute of Technology (CMRIT) fees structure 2027
+  - CMR Institute of Technology (CMRIT) average package
+  - CMR Institute of Technology (CMRIT) placement report 2027
+  - CMR Institute of Technology (CMRIT) highest package
+  - CMR Institute of Technology (CMRIT) cutoff 2027
+  - CMR Institute of Technology (CMRIT) admission process
+  - CMR Institute of Technology (CMRIT) ranking
+  - 'CMR Institute of Technology (CMRIT) Kundalahalli, Bangalore'
+  - is CMR Institute of Technology (CMRIT) good
+  - CMR Institute of Technology (CMRIT) mohit jain review
+  - CMR Institute of Technology (CMRIT) hostel fees
+  - CMR Institute of Technology (CMRIT) contact number
+  - CMR Institute of Technology (CMRIT) B.Tech fees
+  - CMR Institute of Technology (CMRIT) CSE placement
+  - CMR Institute of Technology (CMRIT) B.Tech admission 2027
+  - 'engineering colleges Kundalahalli, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

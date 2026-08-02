@@ -1,18 +1,47 @@
 ---
-name: "Symbiosis Parbhani School of Business & Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Parbhani, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Symbiosis Parbhani School of Business & Management
+logo: /colleges/default-management-logo.webp
+location: 'Parbhani, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2011
-ownership: "Public"
-ranking: "#76 Top Private B-School"
-fees: "₹4.5 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.symbiosis-parbhani-school-of-business-management.edu.in"
+ownership: Public
+ranking: '#76 Top Private B-School'
+fees: ₹4.5 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.symbiosis-parbhani-school-of-business-management.edu.in'
+seo_title: 'Symbiosis Parbhani School of Business & Management MBA Fees,'
+seo_description: >-
+  Explore Symbiosis Parbhani School of Business & Management Parbhani, India:
+  MBA/PGDM fee structure ₹4.5 Lakhs, average placement ₹5.0 LPA, highest CTC,
+  ranking,
+keywords:
+  - Symbiosis Parbhani School of Business & Management review
+  - Symbiosis Parbhani School of Business & Management fees structure 2027
+  - Symbiosis Parbhani School of Business & Management average package
+  - Symbiosis Parbhani School of Business & Management placement report 2027
+  - Symbiosis Parbhani School of Business & Management highest package
+  - Symbiosis Parbhani School of Business & Management cutoff 2027
+  - Symbiosis Parbhani School of Business & Management admission process
+  - Symbiosis Parbhani School of Business & Management ranking
+  - 'Symbiosis Parbhani School of Business & Management Parbhani, India'
+  - is Symbiosis Parbhani School of Business & Management good
+  - Symbiosis Parbhani School of Business & Management mohit jain review
+  - Symbiosis Parbhani School of Business & Management hostel fees
+  - Symbiosis Parbhani School of Business & Management contact number
+  - Symbiosis Parbhani School of Business & Management MBA fees
+  - Symbiosis Parbhani School of Business & Management PGDM placement
+  - Symbiosis Parbhani School of Business & Management MBA admission 2027
+  - 'MBA colleges Parbhani, India'
 ---
 
 ### About Symbiosis Parbhani School of Business & Management

@@ -1,20 +1,47 @@
 ---
-name: "NMIMS Mumbai"
-logo: "/colleges/nmims-mumbai-logo.webp"
-location: "Mumbai, Maharashtra"
-category: "Management"
-type: "University"
-courses: ["MBA", "PGDM"]
+name: NMIMS Mumbai
+logo: /colleges/nmims-mumbai-logo.webp
+location: 'Mumbai, Maharashtra'
+category: Management
+type: University
+courses:
+  - MBA
+  - PGDM
 established: 1981
-ownership: "Private"
-ranking: "#19 (NIRF 2024)"
-fees: "₹21.6 Lakhs"
-avg_placement: "₹22.5 LPA"
-highest_placement: "₹42 LPA"
-lowest_placement: "₹12 LPA"
-exams: ["NMAT", "CAT"]
-brochure_url: ""
-website: "https://www.nmims.edu"
+ownership: Private
+ranking: '#19 (NIRF 2024)'
+fees: ₹21.6 Lakhs
+avg_placement: ₹22.5 LPA
+highest_placement: ₹42 LPA
+lowest_placement: ₹12 LPA
+exams:
+  - NMAT
+  - CAT
+brochure_url: ''
+website: 'https://www.nmims.edu'
+seo_title: 'NMIMS Mumbai MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore NMIMS Mumbai Mumbai, Maharashtra: MBA/PGDM fee structure ₹21.6 Lakhs,
+  average placement ₹22.5 LPA, highest CTC, ranking, and 2027 admission process
+  with
+keywords:
+  - NMIMS Mumbai review
+  - NMIMS Mumbai fees structure 2027
+  - NMIMS Mumbai average package
+  - NMIMS Mumbai placement report 2027
+  - NMIMS Mumbai highest package
+  - NMIMS Mumbai cutoff 2027
+  - NMIMS Mumbai admission process
+  - NMIMS Mumbai ranking
+  - 'NMIMS Mumbai Mumbai, Maharashtra'
+  - is NMIMS Mumbai good
+  - NMIMS Mumbai mohit jain review
+  - NMIMS Mumbai hostel fees
+  - NMIMS Mumbai contact number
+  - NMIMS Mumbai MBA fees
+  - NMIMS Mumbai PGDM placement
+  - NMIMS Mumbai MBA admission 2027
+  - 'MBA colleges Mumbai, Maharashtra'
 ---
 
 ### About NMIMS Mumbai

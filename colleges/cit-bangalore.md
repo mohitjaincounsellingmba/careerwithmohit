@@ -1,19 +1,49 @@
 ---
-name: "Cambridge Institute of Technology (CIT)"
-logo: ""
-location: "K.R. Puram, Bangalore"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech Computer Science", "B.Tech ISE", "B.Tech ECE", "B.Tech Mechanical", "B.Tech Civil"]
+name: Cambridge Institute of Technology (CIT)
+logo: ''
+location: 'K.R. Puram, Bangalore'
+category: Engineering
+type: Institute
+courses:
+  - B.Tech Computer Science
+  - B.Tech ISE
+  - B.Tech ECE
+  - B.Tech Mechanical
+  - B.Tech Civil
 established: 1990
-ownership: "Private"
-ranking: "Top Engineering College"
-fees: "₹4.5 Lakhs - ₹6.0 Lakhs"
-avg_placement: "₹4.5 LPA"
-highest_placement: "₹18.0 LPA"
-exams: ["KCET", "COMEDK"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Engineering College
+fees: ₹4.5 Lakhs - ₹6.0 Lakhs
+avg_placement: ₹4.5 LPA
+highest_placement: ₹18.0 LPA
+exams:
+  - KCET
+  - COMEDK
+website: ''
+brochure_url: ''
+seo_title: 'Cambridge Institute of Technology (CIT) B.Tech Fees, Cutoff '
+seo_description: >-
+  Check Cambridge Institute of Technology (CIT) K.R. Puram, Bangalore: B.Tech
+  fee structure ₹4.5 Lakhs - ₹6.0 Lakhs, average placement ₹4.5 LPA, JEE cutoff,
+  ranki
+keywords:
+  - Cambridge Institute of Technology (CIT) review
+  - Cambridge Institute of Technology (CIT) fees structure 2027
+  - Cambridge Institute of Technology (CIT) average package
+  - Cambridge Institute of Technology (CIT) placement report 2027
+  - Cambridge Institute of Technology (CIT) highest package
+  - Cambridge Institute of Technology (CIT) cutoff 2027
+  - Cambridge Institute of Technology (CIT) admission process
+  - Cambridge Institute of Technology (CIT) ranking
+  - 'Cambridge Institute of Technology (CIT) K.R. Puram, Bangalore'
+  - is Cambridge Institute of Technology (CIT) good
+  - Cambridge Institute of Technology (CIT) mohit jain review
+  - Cambridge Institute of Technology (CIT) hostel fees
+  - Cambridge Institute of Technology (CIT) contact number
+  - Cambridge Institute of Technology (CIT) B.Tech fees
+  - Cambridge Institute of Technology (CIT) CSE placement
+  - Cambridge Institute of Technology (CIT) B.Tech admission 2027
+  - 'engineering colleges K.R. Puram, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

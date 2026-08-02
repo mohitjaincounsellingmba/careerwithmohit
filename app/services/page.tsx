@@ -81,11 +81,36 @@ const SERVICES = [
 ];
 
 export const metadata = {
-  title: "Our Services | Expert Career Counselling",
-  description: "Explore our range of career counselling services, from MBA admission support to interview prep.",
-  keywords: ['career counselling services', 'MBA admission support', 'interview preparation', 'scholarship guidance', 'placement support', 'abroad education counselling'],
+  title: "MBA & B.Tech Career Counselling & Admission Services | CareerWithMohit",
+  description: "Explore comprehensive career counselling services by Mohit Jain: MBA/PGDM 2027 admission consulting, B.Tech guidance, online degree selection, interview prep & placement support.",
+  keywords: [
+    'career counselling services', 'MBA admission support 2027', 'PGDM admission guidance 2027',
+    'B.Tech college admission', 'interview preparation', 'scholarship guidance',
+    'placement support', 'abroad education counselling', 'Mohit Jain services'
+  ],
   alternates: {
     canonical: "/services",
+  },
+  openGraph: {
+    title: "MBA & B.Tech Career Counselling & Admission Services | CareerWithMohit",
+    description: "Explore comprehensive career counselling services by Mohit Jain: MBA/PGDM 2027 admission consulting, B.Tech guidance, online degree selection, interview prep & placement support.",
+    type: "website",
+    url: "/services",
+    siteName: "CareerWithMohit",
+    images: [
+      {
+        url: "https://www.careerwithmohit.online/og-image.webp",
+        width: 1200,
+        height: 630,
+        alt: "Career Counselling Services - CareerWithMohit",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "MBA & B.Tech Career Counselling Services | CareerWithMohit",
+    description: "Expert career counselling for MBA/PGDM 2027, B.Tech, online degrees, and interview prep.",
+    images: ["https://www.careerwithmohit.online/og-image.webp"],
   },
 };
 

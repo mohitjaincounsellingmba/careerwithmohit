@@ -1,19 +1,50 @@
 ---
-name: "Christ University - Faculty of Engineering"
-logo: ""
-location: "Kengeri, Bangalore"
-category: "Engineering"
-type: "University"
-courses: ["B.Tech Computer Science", "B.Tech Data Science", "B.Tech ECE", "B.Tech Mechanical", "B.Tech Civil"]
+name: Christ University - Faculty of Engineering
+logo: ''
+location: 'Kengeri, Bangalore'
+category: Engineering
+type: University
+courses:
+  - B.Tech Computer Science
+  - B.Tech Data Science
+  - B.Tech ECE
+  - B.Tech Mechanical
+  - B.Tech Civil
 established: 1969
-ownership: "Private University"
-ranking: "Top Engineering College"
-fees: "₹8.0 Lakhs - ₹12.0 Lakhs"
-avg_placement: "₹7.0 LPA"
-highest_placement: "₹25.0 LPA"
-exams: ["KCET", "Christ CET", "JEE Main"]
-website: ""
-brochure_url: ""
+ownership: Private University
+ranking: Top Engineering College
+fees: ₹8.0 Lakhs - ₹12.0 Lakhs
+avg_placement: ₹7.0 LPA
+highest_placement: ₹25.0 LPA
+exams:
+  - KCET
+  - Christ CET
+  - JEE Main
+website: ''
+brochure_url: ''
+seo_title: 'Christ University - Faculty of Engineering B.Tech Fees, Cuto'
+seo_description: >-
+  Check Christ University - Faculty of Engineering Kengeri, Bangalore: B.Tech
+  fee structure ₹8.0 Lakhs - ₹12.0 Lakhs, average placement ₹7.0 LPA, JEE
+  cutoff, rank
+keywords:
+  - Christ University - Faculty of Engineering review
+  - Christ University - Faculty of Engineering fees structure 2027
+  - Christ University - Faculty of Engineering average package
+  - Christ University - Faculty of Engineering placement report 2027
+  - Christ University - Faculty of Engineering highest package
+  - Christ University - Faculty of Engineering cutoff 2027
+  - Christ University - Faculty of Engineering admission process
+  - Christ University - Faculty of Engineering ranking
+  - 'Christ University - Faculty of Engineering Kengeri, Bangalore'
+  - is Christ University - Faculty of Engineering good
+  - Christ University - Faculty of Engineering mohit jain review
+  - Christ University - Faculty of Engineering hostel fees
+  - Christ University - Faculty of Engineering contact number
+  - Christ University - Faculty of Engineering B.Tech fees
+  - Christ University - Faculty of Engineering CSE placement
+  - Christ University - Faculty of Engineering B.Tech admission 2027
+  - 'engineering colleges Kengeri, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

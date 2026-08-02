@@ -1,19 +1,49 @@
 ---
-name: "Pimpri Chinchwad College of Engineering (PCCOE)"
-logo: ""
-location: "Nigdi, Pune"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech Computer Engineering", "B.Tech IT", "B.Tech Mechanical", "B.Tech Civil", "B.Tech E&TC"]
+name: Pimpri Chinchwad College of Engineering (PCCOE)
+logo: ''
+location: 'Nigdi, Pune'
+category: Engineering
+type: Institute
+courses:
+  - B.Tech Computer Engineering
+  - B.Tech IT
+  - B.Tech Mechanical
+  - B.Tech Civil
+  - B.Tech E&TC
 established: 1999
-ownership: "Private"
-ranking: "Top Engineering College"
-fees: "₹5.5 Lakhs - ₹6.5 Lakhs"
-avg_placement: "₹6.5 LPA"
-highest_placement: "₹32.0 LPA"
-exams: ["MHT CET", "JEE Main"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Engineering College
+fees: ₹5.5 Lakhs - ₹6.5 Lakhs
+avg_placement: ₹6.5 LPA
+highest_placement: ₹32.0 LPA
+exams:
+  - MHT CET
+  - JEE Main
+website: ''
+brochure_url: ''
+seo_title: 'Pimpri Chinchwad College of Engineering (PCCOE) B.Tech Fees,'
+seo_description: >-
+  Check Pimpri Chinchwad College of Engineering (PCCOE) Nigdi, Pune: B.Tech fee
+  structure ₹5.5 Lakhs - ₹6.5 Lakhs, average placement ₹6.5 LPA, JEE cutoff,
+  ranking
+keywords:
+  - Pimpri Chinchwad College of Engineering (PCCOE) review
+  - Pimpri Chinchwad College of Engineering (PCCOE) fees structure 2027
+  - Pimpri Chinchwad College of Engineering (PCCOE) average package
+  - Pimpri Chinchwad College of Engineering (PCCOE) placement report 2027
+  - Pimpri Chinchwad College of Engineering (PCCOE) highest package
+  - Pimpri Chinchwad College of Engineering (PCCOE) cutoff 2027
+  - Pimpri Chinchwad College of Engineering (PCCOE) admission process
+  - Pimpri Chinchwad College of Engineering (PCCOE) ranking
+  - 'Pimpri Chinchwad College of Engineering (PCCOE) Nigdi, Pune'
+  - is Pimpri Chinchwad College of Engineering (PCCOE) good
+  - Pimpri Chinchwad College of Engineering (PCCOE) mohit jain review
+  - Pimpri Chinchwad College of Engineering (PCCOE) hostel fees
+  - Pimpri Chinchwad College of Engineering (PCCOE) contact number
+  - Pimpri Chinchwad College of Engineering (PCCOE) B.Tech fees
+  - Pimpri Chinchwad College of Engineering (PCCOE) CSE placement
+  - Pimpri Chinchwad College of Engineering (PCCOE) B.Tech admission 2027
+  - 'engineering colleges Nigdi, Pune'
 ---
 
 ### B.Tech Courses & Fees

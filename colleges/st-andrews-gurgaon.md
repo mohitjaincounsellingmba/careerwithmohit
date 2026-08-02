@@ -1,18 +1,57 @@
 ---
-name: "St. Andrews Institute of Technology and Management, Gurgaon"
-logo: "/colleges/st-andrews-logo.webp"
-location: "Gurgaon, Haryana"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'St. Andrews Institute of Technology and Management, Gurgaon'
+logo: /colleges/st-andrews-logo.webp
+location: 'Gurgaon, Haryana'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2012
-ownership: "Private"
-ranking: "#11 (Outlook Ranking - Region)"
-fees: "₹2.65 Lakhs"
-avg_placement: "₹4.5 LPA"
-highest_placement: "₹12.0 LPA"
-exams: ["CAT", "MAT", "CMAT", "Merit"]
-website: "https://www.saaitm.ac.in"
+ownership: Private
+ranking: '#11 (Outlook Ranking - Region)'
+fees: ₹2.65 Lakhs
+avg_placement: ₹4.5 LPA
+highest_placement: ₹12.0 LPA
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - Merit
+website: 'https://www.saaitm.ac.in'
+seo_title: 'St. Andrews Institute of Technology and Management, Gurgaon '
+seo_description: >-
+  Explore St. Andrews Institute of Technology and Management, Gurgaon Gurgaon,
+  Haryana: MBA/PGDM fee structure ₹2.65 Lakhs, average placement ₹4.5 LPA,
+  highest CT
+keywords:
+  - 'St. Andrews Institute of Technology and Management, Gurgaon review'
+  - >-
+    St. Andrews Institute of Technology and Management, Gurgaon fees structure
+    2027
+  - 'St. Andrews Institute of Technology and Management, Gurgaon average package'
+  - >-
+    St. Andrews Institute of Technology and Management, Gurgaon placement report
+    2027
+  - 'St. Andrews Institute of Technology and Management, Gurgaon highest package'
+  - 'St. Andrews Institute of Technology and Management, Gurgaon cutoff 2027'
+  - >-
+    St. Andrews Institute of Technology and Management, Gurgaon admission
+    process
+  - 'St. Andrews Institute of Technology and Management, Gurgaon ranking'
+  - 'St. Andrews Institute of Technology and Management, Gurgaon Gurgaon, Haryana'
+  - 'is St. Andrews Institute of Technology and Management, Gurgaon good'
+  - >-
+    St. Andrews Institute of Technology and Management, Gurgaon mohit jain
+    review
+  - 'St. Andrews Institute of Technology and Management, Gurgaon hostel fees'
+  - 'St. Andrews Institute of Technology and Management, Gurgaon contact number'
+  - 'St. Andrews Institute of Technology and Management, Gurgaon MBA fees'
+  - 'St. Andrews Institute of Technology and Management, Gurgaon PGDM placement'
+  - >-
+    St. Andrews Institute of Technology and Management, Gurgaon MBA admission
+    2027
+  - 'MBA colleges Gurgaon, Haryana'
 ---
 
 ### About St. Andrews Gurgaon

@@ -1,18 +1,47 @@
 ---
-name: "RMS Business School, Gurgaon"
-logo: "/colleges/rms-logo.webp"
-location: "Gurgaon, Haryana"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'RMS Business School, Gurgaon'
+logo: /colleges/rms-logo.webp
+location: 'Gurgaon, Haryana'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2011
-ownership: "Private"
-ranking: "Top Emerging B-School in North India"
-fees: "₹7.5 Lakhs"
-avg_placement: "₹7.0 LPA"
-highest_placement: "₹23.0 LPA"
-exams: ["CAT", "MAT", "CMAT", "ATMA"]
-website: "https://rms.edu.in"
+ownership: Private
+ranking: Top Emerging B-School in North India
+fees: ₹7.5 Lakhs
+avg_placement: ₹7.0 LPA
+highest_placement: ₹23.0 LPA
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - ATMA
+website: 'https://rms.edu.in'
+seo_title: 'RMS Business School, Gurgaon MBA Fees, Cutoff & Placement 20'
+seo_description: >-
+  Explore RMS Business School, Gurgaon Gurgaon, Haryana: MBA/PGDM fee structure
+  ₹7.5 Lakhs, average placement ₹7.0 LPA, highest CTC, ranking, and 2027
+  admission p
+keywords:
+  - 'RMS Business School, Gurgaon review'
+  - 'RMS Business School, Gurgaon fees structure 2027'
+  - 'RMS Business School, Gurgaon average package'
+  - 'RMS Business School, Gurgaon placement report 2027'
+  - 'RMS Business School, Gurgaon highest package'
+  - 'RMS Business School, Gurgaon cutoff 2027'
+  - 'RMS Business School, Gurgaon admission process'
+  - 'RMS Business School, Gurgaon ranking'
+  - 'RMS Business School, Gurgaon Gurgaon, Haryana'
+  - 'is RMS Business School, Gurgaon good'
+  - 'RMS Business School, Gurgaon mohit jain review'
+  - 'RMS Business School, Gurgaon hostel fees'
+  - 'RMS Business School, Gurgaon contact number'
+  - 'RMS Business School, Gurgaon MBA fees'
+  - 'RMS Business School, Gurgaon PGDM placement'
+  - 'RMS Business School, Gurgaon MBA admission 2027'
+  - 'MBA colleges Gurgaon, Haryana'
 ---
 
 ### About RMS Gurgaon

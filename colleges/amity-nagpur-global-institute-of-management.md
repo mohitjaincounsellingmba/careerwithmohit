@@ -1,18 +1,47 @@
 ---
-name: "Amity Nagpur Global Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Nagpur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Amity Nagpur Global Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Nagpur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1997
-ownership: "Public"
-ranking: "#47 Top Private B-School"
-fees: "₹6.9 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹21.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.amity-nagpur-global-institute-of-management.edu.in"
+ownership: Public
+ranking: '#47 Top Private B-School'
+fees: ₹6.9 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹21.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.amity-nagpur-global-institute-of-management.edu.in'
+seo_title: 'Amity Nagpur Global Institute of Management MBA Fees, Cutoff'
+seo_description: >-
+  Explore Amity Nagpur Global Institute of Management Nagpur, India: MBA/PGDM
+  fee structure ₹6.9 Lakhs, average placement ₹7.1 LPA, highest CTC, ranking,
+  and 2027
+keywords:
+  - Amity Nagpur Global Institute of Management review
+  - Amity Nagpur Global Institute of Management fees structure 2027
+  - Amity Nagpur Global Institute of Management average package
+  - Amity Nagpur Global Institute of Management placement report 2027
+  - Amity Nagpur Global Institute of Management highest package
+  - Amity Nagpur Global Institute of Management cutoff 2027
+  - Amity Nagpur Global Institute of Management admission process
+  - Amity Nagpur Global Institute of Management ranking
+  - 'Amity Nagpur Global Institute of Management Nagpur, India'
+  - is Amity Nagpur Global Institute of Management good
+  - Amity Nagpur Global Institute of Management mohit jain review
+  - Amity Nagpur Global Institute of Management hostel fees
+  - Amity Nagpur Global Institute of Management contact number
+  - Amity Nagpur Global Institute of Management MBA fees
+  - Amity Nagpur Global Institute of Management PGDM placement
+  - Amity Nagpur Global Institute of Management MBA admission 2027
+  - 'MBA colleges Nagpur, India'
 ---
 
 ### About Amity Nagpur Global Institute of Management

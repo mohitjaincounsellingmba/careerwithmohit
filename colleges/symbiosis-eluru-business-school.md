@@ -1,18 +1,47 @@
 ---
-name: "Symbiosis Eluru Business School"
-logo: "/colleges/default-management-logo.webp"
-location: "Eluru, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Symbiosis Eluru Business School
+logo: /colleges/default-management-logo.webp
+location: 'Eluru, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2011
-ownership: "Public"
-ranking: "#81 Top Private B-School"
-fees: "₹8.5 Lakhs"
-avg_placement: "₹7.1 LPA"
-highest_placement: "₹12.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.symbiosis-eluru-business-school.edu.in"
+ownership: Public
+ranking: '#81 Top Private B-School'
+fees: ₹8.5 Lakhs
+avg_placement: ₹7.1 LPA
+highest_placement: ₹12.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.symbiosis-eluru-business-school.edu.in'
+seo_title: 'Symbiosis Eluru Business School MBA Fees, Cutoff & Placement'
+seo_description: >-
+  Explore Symbiosis Eluru Business School Eluru, India: MBA/PGDM fee structure
+  ₹8.5 Lakhs, average placement ₹7.1 LPA, highest CTC, ranking, and 2027
+  admission pr
+keywords:
+  - Symbiosis Eluru Business School review
+  - Symbiosis Eluru Business School fees structure 2027
+  - Symbiosis Eluru Business School average package
+  - Symbiosis Eluru Business School placement report 2027
+  - Symbiosis Eluru Business School highest package
+  - Symbiosis Eluru Business School cutoff 2027
+  - Symbiosis Eluru Business School admission process
+  - Symbiosis Eluru Business School ranking
+  - 'Symbiosis Eluru Business School Eluru, India'
+  - is Symbiosis Eluru Business School good
+  - Symbiosis Eluru Business School mohit jain review
+  - Symbiosis Eluru Business School hostel fees
+  - Symbiosis Eluru Business School contact number
+  - Symbiosis Eluru Business School MBA fees
+  - Symbiosis Eluru Business School PGDM placement
+  - Symbiosis Eluru Business School MBA admission 2027
+  - 'MBA colleges Eluru, India'
 ---
 
 ### About Symbiosis Eluru Business School

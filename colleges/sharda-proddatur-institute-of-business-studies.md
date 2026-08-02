@@ -1,18 +1,47 @@
 ---
-name: "Sharda Proddatur Institute of Business Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Proddatur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Sharda Proddatur Institute of Business Studies
+logo: /colleges/default-management-logo.webp
+location: 'Proddatur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2016
-ownership: "Private"
-ranking: "#86 Top Private B-School"
-fees: "₹6.1 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.sharda-proddatur-institute-of-business-studies.edu.in"
+ownership: Private
+ranking: '#86 Top Private B-School'
+fees: ₹6.1 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.sharda-proddatur-institute-of-business-studies.edu.in'
+seo_title: 'Sharda Proddatur Institute of Business Studies MBA Fees, Cut'
+seo_description: >-
+  Explore Sharda Proddatur Institute of Business Studies Proddatur, India:
+  MBA/PGDM fee structure ₹6.1 Lakhs, average placement ₹6.4 LPA, highest CTC,
+  ranking, an
+keywords:
+  - Sharda Proddatur Institute of Business Studies review
+  - Sharda Proddatur Institute of Business Studies fees structure 2027
+  - Sharda Proddatur Institute of Business Studies average package
+  - Sharda Proddatur Institute of Business Studies placement report 2027
+  - Sharda Proddatur Institute of Business Studies highest package
+  - Sharda Proddatur Institute of Business Studies cutoff 2027
+  - Sharda Proddatur Institute of Business Studies admission process
+  - Sharda Proddatur Institute of Business Studies ranking
+  - 'Sharda Proddatur Institute of Business Studies Proddatur, India'
+  - is Sharda Proddatur Institute of Business Studies good
+  - Sharda Proddatur Institute of Business Studies mohit jain review
+  - Sharda Proddatur Institute of Business Studies hostel fees
+  - Sharda Proddatur Institute of Business Studies contact number
+  - Sharda Proddatur Institute of Business Studies MBA fees
+  - Sharda Proddatur Institute of Business Studies PGDM placement
+  - Sharda Proddatur Institute of Business Studies MBA admission 2027
+  - 'MBA colleges Proddatur, India'
 ---
 
 ### About Sharda Proddatur Institute of Business Studies

@@ -1,18 +1,53 @@
 ---
-name: "FIIB (Fortune Institute of International Business), Delhi"
-logo: "/colleges/fiib-logo.webp"
-location: "Vasant Vihar, Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: 'FIIB (Fortune Institute of International Business), Delhi'
+logo: /colleges/fiib-logo.webp
+location: 'Vasant Vihar, Delhi'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1995
-ownership: "Private"
-ranking: "Top-20 Private B-Schools in North India"
-fees: "₹11.55 Lakhs"
-avg_placement: "₹8.5 LPA"
-highest_placement: "₹25.92 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.fiib.edu.in"
+ownership: Private
+ranking: Top-20 Private B-Schools in North India
+fees: ₹11.55 Lakhs
+avg_placement: ₹8.5 LPA
+highest_placement: ₹25.92 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.fiib.edu.in'
+seo_title: 'FIIB (Fortune Institute of International Business), Delhi MB'
+seo_description: >-
+  Explore FIIB (Fortune Institute of International Business), Delhi Vasant
+  Vihar, Delhi: MBA/PGDM fee structure ₹11.55 Lakhs, average placement ₹8.5 LPA,
+  highest 
+keywords:
+  - 'FIIB (Fortune Institute of International Business), Delhi review'
+  - >-
+    FIIB (Fortune Institute of International Business), Delhi fees structure
+    2027
+  - 'FIIB (Fortune Institute of International Business), Delhi average package'
+  - >-
+    FIIB (Fortune Institute of International Business), Delhi placement report
+    2027
+  - 'FIIB (Fortune Institute of International Business), Delhi highest package'
+  - 'FIIB (Fortune Institute of International Business), Delhi cutoff 2027'
+  - 'FIIB (Fortune Institute of International Business), Delhi admission process'
+  - 'FIIB (Fortune Institute of International Business), Delhi ranking'
+  - >-
+    FIIB (Fortune Institute of International Business), Delhi Vasant Vihar,
+    Delhi
+  - 'is FIIB (Fortune Institute of International Business), Delhi good'
+  - 'FIIB (Fortune Institute of International Business), Delhi mohit jain review'
+  - 'FIIB (Fortune Institute of International Business), Delhi hostel fees'
+  - 'FIIB (Fortune Institute of International Business), Delhi contact number'
+  - 'FIIB (Fortune Institute of International Business), Delhi MBA fees'
+  - 'FIIB (Fortune Institute of International Business), Delhi PGDM placement'
+  - 'FIIB (Fortune Institute of International Business), Delhi MBA admission 2027'
+  - 'MBA colleges Vasant Vihar, Delhi'
 ---
 
 ### Courses & Fees

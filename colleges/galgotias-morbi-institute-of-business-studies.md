@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Morbi Institute of Business Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Morbi, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Morbi Institute of Business Studies
+logo: /colleges/default-management-logo.webp
+location: 'Morbi, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2004
-ownership: "Public"
-ranking: "#94 Top Private B-School"
-fees: "₹6.1 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹17.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-morbi-institute-of-business-studies.edu.in"
+ownership: Public
+ranking: '#94 Top Private B-School'
+fees: ₹6.1 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹17.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-morbi-institute-of-business-studies.edu.in'
+seo_title: 'Galgotias Morbi Institute of Business Studies MBA Fees, Cuto'
+seo_description: >-
+  Explore Galgotias Morbi Institute of Business Studies Morbi, India: MBA/PGDM
+  fee structure ₹6.1 Lakhs, average placement ₹5.0 LPA, highest CTC, ranking,
+  and 202
+keywords:
+  - Galgotias Morbi Institute of Business Studies review
+  - Galgotias Morbi Institute of Business Studies fees structure 2027
+  - Galgotias Morbi Institute of Business Studies average package
+  - Galgotias Morbi Institute of Business Studies placement report 2027
+  - Galgotias Morbi Institute of Business Studies highest package
+  - Galgotias Morbi Institute of Business Studies cutoff 2027
+  - Galgotias Morbi Institute of Business Studies admission process
+  - Galgotias Morbi Institute of Business Studies ranking
+  - 'Galgotias Morbi Institute of Business Studies Morbi, India'
+  - is Galgotias Morbi Institute of Business Studies good
+  - Galgotias Morbi Institute of Business Studies mohit jain review
+  - Galgotias Morbi Institute of Business Studies hostel fees
+  - Galgotias Morbi Institute of Business Studies contact number
+  - Galgotias Morbi Institute of Business Studies MBA fees
+  - Galgotias Morbi Institute of Business Studies PGDM placement
+  - Galgotias Morbi Institute of Business Studies MBA admission 2027
+  - 'MBA colleges Morbi, India'
 ---
 
 ### About Galgotias Morbi Institute of Business Studies

@@ -1,18 +1,47 @@
 ---
-name: "Xavier Kolkata Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Kolkata, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Xavier Kolkata Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Kolkata, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2007
-ownership: "Public"
-ranking: "#32 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹14.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.xavier-kolkata-institute-of-management.edu.in"
+ownership: Public
+ranking: '#32 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹14.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.xavier-kolkata-institute-of-management.edu.in'
+seo_title: 'Xavier Kolkata Institute of Management MBA Fees, Cutoff & Pl'
+seo_description: >-
+  Explore Xavier Kolkata Institute of Management Kolkata, India: MBA/PGDM fee
+  structure ₹7.7 Lakhs, average placement ₹5.0 LPA, highest CTC, ranking, and
+  2027 adm
+keywords:
+  - Xavier Kolkata Institute of Management review
+  - Xavier Kolkata Institute of Management fees structure 2027
+  - Xavier Kolkata Institute of Management average package
+  - Xavier Kolkata Institute of Management placement report 2027
+  - Xavier Kolkata Institute of Management highest package
+  - Xavier Kolkata Institute of Management cutoff 2027
+  - Xavier Kolkata Institute of Management admission process
+  - Xavier Kolkata Institute of Management ranking
+  - 'Xavier Kolkata Institute of Management Kolkata, India'
+  - is Xavier Kolkata Institute of Management good
+  - Xavier Kolkata Institute of Management mohit jain review
+  - Xavier Kolkata Institute of Management hostel fees
+  - Xavier Kolkata Institute of Management contact number
+  - Xavier Kolkata Institute of Management MBA fees
+  - Xavier Kolkata Institute of Management PGDM placement
+  - Xavier Kolkata Institute of Management MBA admission 2027
+  - 'MBA colleges Kolkata, India'
 ---
 
 ### About Xavier Kolkata Institute of Management

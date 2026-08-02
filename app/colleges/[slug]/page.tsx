@@ -97,13 +97,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   let description: string;
 
   if (college.category === "Management") {
-    title = `${college.name}, ${college.location} – MBA/PGDM Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2027, Cutoff, Review | CareerWithMohit`;
+    title = `${college.name} MBA Fees, Cutoff & Placement 2027`.slice(0, 60);
     description = `Detailed review of ${college.name} in ${college.location}: MBA/PGDM fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. NIRF ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, cutoff, and admission process for 2027 with Mohit Jain's expert analysis.`;
   } else if (college.category === "Engineering") {
-    title = `${college.name}, ${college.location} – B.Tech Fees ${college.fees}, Placement ${college.avg_placement}, Admission 2027, Ranking, Review | CareerWithMohit`;
+    title = `${college.name} B.Tech Fees, Cutoff & Placement 2027`.slice(0, 60);
     description = `Complete guide for ${college.name} in ${college.location}: B.Tech fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, JEE cutoff, and admission process for 2027.`;
   } else {
-    title = `${college.name}, ${college.location} – BBA/BCA Fees ${college.fees}, Admission 2027, Placement ${college.avg_placement}, Review | CareerWithMohit`;
+    title = `${college.name} Fees, Placement & Admission 2027`.slice(0, 60);
     description = `Explore ${college.name} in ${college.location}: BBA/BCA fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Check courses, admission process, entrance exams, and expert review for 2027 admission.`;
   }
 
@@ -119,10 +119,24 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     openGraph: {
       title: `${college.name} – Fees, Placement, Admission 2027 | CareerWithMohit`,
       description,
-      type: "website",
+      type: "article",
       url: `/colleges/${slug}`,
       siteName: "CareerWithMohit",
-    }
+      images: [
+        {
+          url: "https://www.careerwithmohit.online/og-image.webp",
+          width: 1200,
+          height: 630,
+          alt: `${college.name} Admission & Review`,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${college.name} – Fees, Placement, Admission 2027`,
+      description,
+      images: ["https://www.careerwithmohit.online/og-image.webp"],
+    },
   };
 }
 

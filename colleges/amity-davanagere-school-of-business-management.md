@@ -1,18 +1,47 @@
 ---
-name: "Amity Davanagere School of Business & Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Davanagere, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Amity Davanagere School of Business & Management
+logo: /colleges/default-management-logo.webp
+location: 'Davanagere, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1999
-ownership: "Private"
-ranking: "#44 Top Private B-School"
-fees: "₹4.5 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹17.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.amity-davanagere-school-of-business-management.edu.in"
+ownership: Private
+ranking: '#44 Top Private B-School'
+fees: ₹4.5 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹17.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.amity-davanagere-school-of-business-management.edu.in'
+seo_title: 'Amity Davanagere School of Business & Management MBA Fees, C'
+seo_description: >-
+  Explore Amity Davanagere School of Business & Management Davanagere, India:
+  MBA/PGDM fee structure ₹4.5 Lakhs, average placement ₹6.4 LPA, highest CTC,
+  ranking,
+keywords:
+  - Amity Davanagere School of Business & Management review
+  - Amity Davanagere School of Business & Management fees structure 2027
+  - Amity Davanagere School of Business & Management average package
+  - Amity Davanagere School of Business & Management placement report 2027
+  - Amity Davanagere School of Business & Management highest package
+  - Amity Davanagere School of Business & Management cutoff 2027
+  - Amity Davanagere School of Business & Management admission process
+  - Amity Davanagere School of Business & Management ranking
+  - 'Amity Davanagere School of Business & Management Davanagere, India'
+  - is Amity Davanagere School of Business & Management good
+  - Amity Davanagere School of Business & Management mohit jain review
+  - Amity Davanagere School of Business & Management hostel fees
+  - Amity Davanagere School of Business & Management contact number
+  - Amity Davanagere School of Business & Management MBA fees
+  - Amity Davanagere School of Business & Management PGDM placement
+  - Amity Davanagere School of Business & Management MBA admission 2027
+  - 'MBA colleges Davanagere, India'
 ---
 
 ### About Amity Davanagere School of Business & Management

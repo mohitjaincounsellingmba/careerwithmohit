@@ -1,25 +1,49 @@
 ---
-title: "Mysore Royal Academy (MYRA School of Business), Mysuru Review 2026: Placements, Fees, Courses & Admission"
+title: >-
+  Mysore Royal Academy (MYRA School of Business), Mysuru Review 2026:
+  Placements, Fees, Courses & Admission
 date: '2026-08-03'
-description: "Comprehensive review of Mysore Royal Academy (MYRA School of Business), Mysuru (Mysuru) for 2026. Check latest fee structure, flagship courses, placement statistics, top recruiters, and admission process."
+description: >-
+  Comprehensive review of Mysore Royal Academy (MYRA School of Business), Mysuru
+  (Mysuru) for 2026. Check latest fee structure, flagship courses, placement
+  statistics, top recruiters, and admission process.
 keywords:
-  - "MYRA School of Business Mysuru review 2026"
-  - "MYRA School of Business Mysuru placements 2026"
-  - "MYRA School of Business Mysuru fees structure"
-  - "MYRA School of Business Mysuru admission process"
-  - "Mysore Royal Academy (MYRA School of Business), Mysuru review"
-  - "Best Colleges in Mysuru"
-  - "Top Universities in Mysuru & Manipal, South India"
-  - "Direct Admission in Mysuru"
-category: "Colleges"
-location: "Mysuru"
+  - MYRA School of Business Mysuru review 2026
+  - MYRA School of Business Mysuru placements 2026
+  - MYRA School of Business Mysuru fees structure
+  - MYRA School of Business Mysuru admission process
+  - 'Mysore Royal Academy (MYRA School of Business), Mysuru review'
+  - Best Colleges in Mysuru
+  - 'Top Universities in Mysuru & Manipal, South India'
+  - Direct Admission in Mysuru
+category: Colleges
+location: Mysuru
 faqs:
-  - question: "Is Mysore Royal Academy (MYRA School of Business), Mysuru a good choice for higher education in 2026?"
-    answer: "Yes, Mysore Royal Academy (MYRA School of Business), Mysuru is a highly reputed institution in Mysuru & Manipal, South India (AICTE Approved, AMDISA Member, Global Immersion Curriculum). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹7.50 LPA - ₹8.80 LPA."
-  - question: "What is the annual fee structure at Mysore Royal Academy (MYRA School of Business), Mysuru?"
-    answer: "The annual tuition fee at Mysore Royal Academy (MYRA School of Business), Mysuru generally ranges between ₹5.00 Lakhs per annum (Total PGDM fee ~₹10.00 Lakhs), depending on the chosen program (PGDM (Post Graduate Diploma in Management), Executive PGDM) and applicable merit scholarships."
-  - question: "How can I apply for admission to Mysore Royal Academy (MYRA School of Business), Mysuru in 2026?"
-    answer: "Admissions for 2026 at Mysore Royal Academy (MYRA School of Business), Mysuru are conducted based on entrance exams such as CAT, XAT, MAT, CMAT, NMAT, GMAT, GRE, KMAT, followed by counseling, personal interviews, or merit-based shortlisting."
+  - question: >-
+      Is Mysore Royal Academy (MYRA School of Business), Mysuru a good choice
+      for higher education in 2026?
+    answer: >-
+      Yes, Mysore Royal Academy (MYRA School of Business), Mysuru is a highly
+      reputed institution in Mysuru & Manipal, South India (AICTE Approved,
+      AMDISA Member, Global Immersion Curriculum). It offers modern campus
+      infrastructure, strong industry integration, and a commendable average
+      placement package of ₹7.50 LPA - ₹8.80 LPA.
+  - question: >-
+      What is the annual fee structure at Mysore Royal Academy (MYRA School of
+      Business), Mysuru?
+    answer: >-
+      The annual tuition fee at Mysore Royal Academy (MYRA School of Business),
+      Mysuru generally ranges between ₹5.00 Lakhs per annum (Total PGDM fee
+      ~₹10.00 Lakhs), depending on the chosen program (PGDM (Post Graduate
+      Diploma in Management), Executive PGDM) and applicable merit scholarships.
+  - question: >-
+      How can I apply for admission to Mysore Royal Academy (MYRA School of
+      Business), Mysuru in 2026?
+    answer: >-
+      Admissions for 2026 at Mysore Royal Academy (MYRA School of Business),
+      Mysuru are conducted based on entrance exams such as CAT, XAT, MAT, CMAT,
+      NMAT, GMAT, GRE, KMAT, followed by counseling, personal interviews, or
+      merit-based shortlisting.
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Mysore Royal Academy (MYRA School of Business), Mysuru**, situated in **Mysuru**, stands out as one of the premier destinations for undergraduate and postgraduate education in Mysuru & Manipal, South India.
@@ -153,4 +177,4 @@ Navigating college cutoffs, fee structures, and course specializations can be ch
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.

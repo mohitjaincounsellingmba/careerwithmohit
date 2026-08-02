@@ -20,7 +20,7 @@ import { JsonLd } from '@/components/JsonLd';
 import { getSortedPostsData } from '@/lib/markdown';
 
 export const metadata: Metadata = {
-  title: 'Free Mock Test Series 2027 - 50+ Online Practice Papers | CareerWithMohit',
+  title: 'Free Mock Test Series 2027: 50+ Practice Papers',
   description: 'Practice 100% free online mock tests for CAT 2027, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams. Simulate real exam conditions with instant AI score analysis and percentile predictions.',
   keywords: [
     'free mock test series 2027', 'online mock test free 2027', 'free online test series 2027', 
@@ -34,13 +34,14 @@ export const metadata: Metadata = {
     canonical: '/mock-tests',
   },
   openGraph: {
-    title: 'Free Mock Test Series 2027 - 50+ Online Practice Papers | CareerWithMohit',
+    title: 'Free Mock Test Series 2027: 50+ Practice Papers',
     description: 'Practice 100% free online mock tests for CAT 2027, XAT, GMAT, SNAP, JEE Main, NEET, NMAT, and SSC Govt Exams. Get instant score analysis and percentile predictions.',
     url: 'https://www.careerwithmohit.online/mock-tests',
     type: 'website',
+    siteName: 'CareerWithMohit',
     images: [
       {
-        url: '/og-image.webp',
+        url: 'https://www.careerwithmohit.online/og-image.webp',
         width: 1200,
         height: 630,
         alt: 'Mock Test Hub 2027',

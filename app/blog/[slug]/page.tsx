@@ -63,7 +63,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!postData) return {};
 
   const cleanedTitle = cleanMarkdown(postData.title);
-  const postTitle = `${cleanedTitle} | Expert Guide 2027`;
+  const postTitle = cleanedTitle.length > 50 ? cleanedTitle.slice(0, 58) : `${cleanedTitle} | Expert Guide 2027`;
   
   // Fallback description from content if frontmatter description is missing
   let postDescription = postData.description ? cleanMarkdown(postData.description) : "";
@@ -75,8 +75,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const postUrl = `https://www.careerwithmohit.online/blog/${slug}`;
   const cleanedKeywords = (postData.keywords || []).map(kw => cleanMarkdown(kw));
 
-  // Dynamic OG image: if postData.image is specified, use it. Otherwise fallback to /og-image.webp.
-  const ogImageUrl = postData.image || "/og-image.webp";
+  // Dynamic OG image: ensure absolute URL
+  let ogImageUrl = postData.image || "https://www.careerwithmohit.online/og-image.webp";
+  if (ogImageUrl.startsWith("/")) {
+    ogImageUrl = `https://www.careerwithmohit.online${ogImageUrl}`;
+  }
 
   const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || []);
   const localKeywords = geoResult.isDelhiNcr && geoResult.specificLocation

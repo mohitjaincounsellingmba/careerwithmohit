@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${college.name} Fees, Admissions & Programs 2027 | CareerWithMohit`,
+    title: `${college.name} Fees & Admission 2027`.slice(0, 60),
     alternates: {
       canonical: `/abroad-education/${slug}`,
     },
@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: `${college.name} Admissions 2027`,
       description: `Complete guide on fees, accreditations, and programs at ${college.name} for 2027.`,
-      images: ['/og-abroad-education.png'],
+      images: ['https://www.careerwithmohit.online/og-abroad-education.png'],
     },
   };
 }

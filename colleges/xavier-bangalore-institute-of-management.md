@@ -1,18 +1,47 @@
 ---
-name: "Xavier Bangalore Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Bangalore, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Xavier Bangalore Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Bangalore, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1997
-ownership: "Public"
-ranking: "#32 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹14.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.xavier-bangalore-institute-of-management.edu.in"
+ownership: Public
+ranking: '#32 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹14.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.xavier-bangalore-institute-of-management.edu.in'
+seo_title: 'Xavier Bangalore Institute of Management MBA Fees, Cutoff & '
+seo_description: >-
+  Explore Xavier Bangalore Institute of Management Bangalore, India: MBA/PGDM
+  fee structure ₹7.7 Lakhs, average placement ₹5.0 LPA, highest CTC, ranking,
+  and 2027
+keywords:
+  - Xavier Bangalore Institute of Management review
+  - Xavier Bangalore Institute of Management fees structure 2027
+  - Xavier Bangalore Institute of Management average package
+  - Xavier Bangalore Institute of Management placement report 2027
+  - Xavier Bangalore Institute of Management highest package
+  - Xavier Bangalore Institute of Management cutoff 2027
+  - Xavier Bangalore Institute of Management admission process
+  - Xavier Bangalore Institute of Management ranking
+  - 'Xavier Bangalore Institute of Management Bangalore, India'
+  - is Xavier Bangalore Institute of Management good
+  - Xavier Bangalore Institute of Management mohit jain review
+  - Xavier Bangalore Institute of Management hostel fees
+  - Xavier Bangalore Institute of Management contact number
+  - Xavier Bangalore Institute of Management MBA fees
+  - Xavier Bangalore Institute of Management PGDM placement
+  - Xavier Bangalore Institute of Management MBA admission 2027
+  - 'MBA colleges Bangalore, India'
 ---
 
 ### About Xavier Bangalore Institute of Management

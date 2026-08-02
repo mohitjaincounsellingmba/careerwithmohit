@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Free Online Tools Hub – Converters, Calculators & Career Tools | CareerWithMohit',
+  title: 'Free Online Tools Hub: Converters & Calculators',
   description: 'Access 20+ free tools: file converters (Word to PDF, PNG to JPG), entrance exam calculators (CAT, XAT, JEE, CUET), college predictors, resume analyzer, mock tests and more.',
   keywords: [
     'free tools online', 'file converter', 'cat score calculator', 'jee predictor',
@@ -16,6 +16,27 @@ export const metadata: Metadata = {
   ],
   alternates: {
     canonical: '/tools',
+  },
+  openGraph: {
+    title: 'Free Online Tools Hub: Converters & Calculators',
+    description: 'Access 20+ free tools: file converters, exam calculators, college predictors, and resume analyzer.',
+    type: 'website',
+    url: '/tools',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: 'https://www.careerwithmohit.online/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'Free Online Tools Hub - CareerWithMohit',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free Online Tools Hub: Converters & Calculators',
+    description: 'Access 20+ free tools: file converters, exam calculators, and college predictors.',
+    images: ['https://www.careerwithmohit.online/og-image.webp'],
   },
 };
 

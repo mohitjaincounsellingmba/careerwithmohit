@@ -10,7 +10,7 @@ const PAGE_PATH = '/online-degree-certification';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'Top Online Degrees & Certifications 2027 | UGC Approved Universities | CareerWithMohit',
+  title: 'Top Online Degrees 2027: UGC Approved Universities',
   description:
     'Compare 40+ UGC-DEB approved online universities in India for 2027. Find fees, NAAC grades, programs (MBA, MA, MCA, BBA, BCA, BA) and get FREE expert counselling. Starting at ₹20,000.',
   keywords: [

@@ -1,18 +1,47 @@
 ---
-name: "Gurgaon Institute of Professional Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Gurgaon, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Gurgaon Institute of Professional Studies
+logo: /colleges/default-management-logo.webp
+location: 'Gurgaon, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2016
-ownership: "Public"
-ranking: "#26 Top Private B-School"
-fees: "₹9.3 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.gurgaon-institute-of-professional-studies.edu.in"
+ownership: Public
+ranking: '#26 Top Private B-School'
+fees: ₹9.3 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.gurgaon-institute-of-professional-studies.edu.in'
+seo_title: 'Gurgaon Institute of Professional Studies MBA Fees, Cutoff &'
+seo_description: >-
+  Explore Gurgaon Institute of Professional Studies Gurgaon, India: MBA/PGDM fee
+  structure ₹9.3 Lakhs, average placement ₹5.0 LPA, highest CTC, ranking, and
+  2027 
+keywords:
+  - Gurgaon Institute of Professional Studies review
+  - Gurgaon Institute of Professional Studies fees structure 2027
+  - Gurgaon Institute of Professional Studies average package
+  - Gurgaon Institute of Professional Studies placement report 2027
+  - Gurgaon Institute of Professional Studies highest package
+  - Gurgaon Institute of Professional Studies cutoff 2027
+  - Gurgaon Institute of Professional Studies admission process
+  - Gurgaon Institute of Professional Studies ranking
+  - 'Gurgaon Institute of Professional Studies Gurgaon, India'
+  - is Gurgaon Institute of Professional Studies good
+  - Gurgaon Institute of Professional Studies mohit jain review
+  - Gurgaon Institute of Professional Studies hostel fees
+  - Gurgaon Institute of Professional Studies contact number
+  - Gurgaon Institute of Professional Studies MBA fees
+  - Gurgaon Institute of Professional Studies PGDM placement
+  - Gurgaon Institute of Professional Studies MBA admission 2027
+  - 'MBA colleges Gurgaon, India'
 ---
 
 ### About Gurgaon Institute of Professional Studies

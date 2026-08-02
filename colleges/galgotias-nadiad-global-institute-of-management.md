@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Nadiad Global Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Nadiad, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Nadiad Global Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Nadiad, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2005
-ownership: "Private"
-ranking: "#95 Top Private B-School"
-fees: "₹6.9 Lakhs"
-avg_placement: "₹5.7 LPA"
-highest_placement: "₹18.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-nadiad-global-institute-of-management.edu.in"
+ownership: Private
+ranking: '#95 Top Private B-School'
+fees: ₹6.9 Lakhs
+avg_placement: ₹5.7 LPA
+highest_placement: ₹18.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-nadiad-global-institute-of-management.edu.in'
+seo_title: 'Galgotias Nadiad Global Institute of Management MBA Fees, Cu'
+seo_description: >-
+  Explore Galgotias Nadiad Global Institute of Management Nadiad, India:
+  MBA/PGDM fee structure ₹6.9 Lakhs, average placement ₹5.7 LPA, highest CTC,
+  ranking, and 
+keywords:
+  - Galgotias Nadiad Global Institute of Management review
+  - Galgotias Nadiad Global Institute of Management fees structure 2027
+  - Galgotias Nadiad Global Institute of Management average package
+  - Galgotias Nadiad Global Institute of Management placement report 2027
+  - Galgotias Nadiad Global Institute of Management highest package
+  - Galgotias Nadiad Global Institute of Management cutoff 2027
+  - Galgotias Nadiad Global Institute of Management admission process
+  - Galgotias Nadiad Global Institute of Management ranking
+  - 'Galgotias Nadiad Global Institute of Management Nadiad, India'
+  - is Galgotias Nadiad Global Institute of Management good
+  - Galgotias Nadiad Global Institute of Management mohit jain review
+  - Galgotias Nadiad Global Institute of Management hostel fees
+  - Galgotias Nadiad Global Institute of Management contact number
+  - Galgotias Nadiad Global Institute of Management MBA fees
+  - Galgotias Nadiad Global Institute of Management PGDM placement
+  - Galgotias Nadiad Global Institute of Management MBA admission 2027
+  - 'MBA colleges Nadiad, India'
 ---
 
 ### About Galgotias Nadiad Global Institute of Management

@@ -1,18 +1,47 @@
 ---
-name: "Noida Institute of Management & Technology"
-logo: "/colleges/default-management-logo.webp"
-location: "Noida, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Noida Institute of Management & Technology
+logo: /colleges/default-management-logo.webp
+location: 'Noida, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1996
-ownership: "Private"
-ranking: "#21 Top Private B-School"
-fees: "₹5.3 Lakhs"
-avg_placement: "₹5.7 LPA"
-highest_placement: "₹12.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.noida-institute-of-management-technology.edu.in"
+ownership: Private
+ranking: '#21 Top Private B-School'
+fees: ₹5.3 Lakhs
+avg_placement: ₹5.7 LPA
+highest_placement: ₹12.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.noida-institute-of-management-technology.edu.in'
+seo_title: 'Noida Institute of Management & Technology MBA Fees, Cutoff '
+seo_description: >-
+  Explore Noida Institute of Management & Technology Noida, India: MBA/PGDM fee
+  structure ₹5.3 Lakhs, average placement ₹5.7 LPA, highest CTC, ranking, and
+  2027 a
+keywords:
+  - Noida Institute of Management & Technology review
+  - Noida Institute of Management & Technology fees structure 2027
+  - Noida Institute of Management & Technology average package
+  - Noida Institute of Management & Technology placement report 2027
+  - Noida Institute of Management & Technology highest package
+  - Noida Institute of Management & Technology cutoff 2027
+  - Noida Institute of Management & Technology admission process
+  - Noida Institute of Management & Technology ranking
+  - 'Noida Institute of Management & Technology Noida, India'
+  - is Noida Institute of Management & Technology good
+  - Noida Institute of Management & Technology mohit jain review
+  - Noida Institute of Management & Technology hostel fees
+  - Noida Institute of Management & Technology contact number
+  - Noida Institute of Management & Technology MBA fees
+  - Noida Institute of Management & Technology PGDM placement
+  - Noida Institute of Management & Technology MBA admission 2027
+  - 'MBA colleges Noida, India'
 ---
 
 ### About Noida Institute of Management & Technology

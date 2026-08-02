@@ -4,9 +4,34 @@ import { JsonLd } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "About Mohit Jain | Expert Career Counsellor",
-  description: "Learn about Mohit Jain's professional journey, IIM & FMS certifications, and his mission to provide uncompromised career guidance.",
+  description: "Learn about Mohit Jain's professional journey, IIM & FMS certifications, and his mission to provide uncompromised career guidance for MBA & degree admissions.",
+  keywords: [
+    "Mohit Jain", "about Mohit Jain", "expert career counsellor India", "MBA admission consultant Delhi NCR",
+    "IIM Bangalore certified", "FMS Delhi certified", "career counselling Delhi NCR", "best MBA career counsellor"
+  ],
   alternates: {
     canonical: "/about",
+  },
+  openGraph: {
+    title: "About Mohit Jain | Expert Career Counsellor",
+    description: "Learn about Mohit Jain's professional journey, IIM & FMS certifications, and his mission to provide uncompromised career guidance.",
+    type: "profile",
+    url: "/about",
+    siteName: "CareerWithMohit",
+    images: [
+      {
+        url: "https://www.careerwithmohit.online/og-image.webp",
+        width: 1200,
+        height: 630,
+        alt: "Mohit Jain - Career Counsellor & MBA Admissions Expert",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "About Mohit Jain | Expert Career Counsellor",
+    description: "Learn about Mohit Jain's professional journey, IIM & FMS certifications, and uncompromised career guidance.",
+    images: ["https://www.careerwithmohit.online/og-image.webp"],
   },
 };
 

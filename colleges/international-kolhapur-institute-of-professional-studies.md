@@ -1,18 +1,49 @@
 ---
-name: "International Kolhapur Institute of Professional Studies"
-logo: "/colleges/default-management-logo.webp"
-location: "Kolhapur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: International Kolhapur Institute of Professional Studies
+logo: /colleges/default-management-logo.webp
+location: 'Kolhapur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2001
-ownership: "Private"
-ranking: "#66 Top Private B-School"
-fees: "₹9.3 Lakhs"
-avg_placement: "₹6.4 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.international-kolhapur-institute-of-professional-studies.edu.in"
+ownership: Private
+ranking: '#66 Top Private B-School'
+fees: ₹9.3 Lakhs
+avg_placement: ₹6.4 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.international-kolhapur-institute-of-professional-studies.edu.in'
+seo_title: International Kolhapur Institute of Professional Studies MBA
+seo_description: >-
+  Explore International Kolhapur Institute of Professional Studies Kolhapur,
+  India: MBA/PGDM fee structure ₹9.3 Lakhs, average placement ₹6.4 LPA, highest
+  CTC, ra
+keywords:
+  - International Kolhapur Institute of Professional Studies review
+  - International Kolhapur Institute of Professional Studies fees structure 2027
+  - International Kolhapur Institute of Professional Studies average package
+  - >-
+    International Kolhapur Institute of Professional Studies placement report
+    2027
+  - International Kolhapur Institute of Professional Studies highest package
+  - International Kolhapur Institute of Professional Studies cutoff 2027
+  - International Kolhapur Institute of Professional Studies admission process
+  - International Kolhapur Institute of Professional Studies ranking
+  - 'International Kolhapur Institute of Professional Studies Kolhapur, India'
+  - is International Kolhapur Institute of Professional Studies good
+  - International Kolhapur Institute of Professional Studies mohit jain review
+  - International Kolhapur Institute of Professional Studies hostel fees
+  - International Kolhapur Institute of Professional Studies contact number
+  - International Kolhapur Institute of Professional Studies MBA fees
+  - International Kolhapur Institute of Professional Studies PGDM placement
+  - International Kolhapur Institute of Professional Studies MBA admission 2027
+  - 'MBA colleges Kolhapur, India'
 ---
 
 ### About International Kolhapur Institute of Professional Studies

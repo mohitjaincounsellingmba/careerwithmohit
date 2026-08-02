@@ -1,18 +1,47 @@
 ---
-name: "GD Goenka University, Gurgaon"
-logo: "/colleges/gd-goenka-logo.webp"
-location: "Gurgaon, Haryana"
-category: "Management"
-type: "University"
-courses: ["MBA", "PGDM"]
+name: 'GD Goenka University, Gurgaon'
+logo: /colleges/gd-goenka-logo.webp
+location: 'Gurgaon, Haryana'
+category: Management
+type: University
+courses:
+  - MBA
+  - PGDM
 established: 2013
-ownership: "Private"
-ranking: "#42 (Times B-School Ranking)"
-fees: "₹8.75 Lakhs"
-avg_placement: "₹9.0 LPA"
-highest_placement: "₹35.0 LPA"
-exams: ["CAT", "MAT", "GMAT", "Goenka Aptitude Test"]
-website: "https://www.gdgoenkauniversity.com"
+ownership: Private
+ranking: '#42 (Times B-School Ranking)'
+fees: ₹8.75 Lakhs
+avg_placement: ₹9.0 LPA
+highest_placement: ₹35.0 LPA
+exams:
+  - CAT
+  - MAT
+  - GMAT
+  - Goenka Aptitude Test
+website: 'https://www.gdgoenkauniversity.com'
+seo_title: 'GD Goenka University, Gurgaon MBA Fees, Cutoff & Placement 2'
+seo_description: >-
+  Explore GD Goenka University, Gurgaon Gurgaon, Haryana: MBA/PGDM fee structure
+  ₹8.75 Lakhs, average placement ₹9.0 LPA, highest CTC, ranking, and 2027
+  admission
+keywords:
+  - 'GD Goenka University, Gurgaon review'
+  - 'GD Goenka University, Gurgaon fees structure 2027'
+  - 'GD Goenka University, Gurgaon average package'
+  - 'GD Goenka University, Gurgaon placement report 2027'
+  - 'GD Goenka University, Gurgaon highest package'
+  - 'GD Goenka University, Gurgaon cutoff 2027'
+  - 'GD Goenka University, Gurgaon admission process'
+  - 'GD Goenka University, Gurgaon ranking'
+  - 'GD Goenka University, Gurgaon Gurgaon, Haryana'
+  - 'is GD Goenka University, Gurgaon good'
+  - 'GD Goenka University, Gurgaon mohit jain review'
+  - 'GD Goenka University, Gurgaon hostel fees'
+  - 'GD Goenka University, Gurgaon contact number'
+  - 'GD Goenka University, Gurgaon MBA fees'
+  - 'GD Goenka University, Gurgaon PGDM placement'
+  - 'GD Goenka University, Gurgaon MBA admission 2027'
+  - 'MBA colleges Gurgaon, Haryana'
 ---
 
 ### About GD Goenka University

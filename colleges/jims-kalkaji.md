@@ -1,18 +1,49 @@
 ---
-name: "JIMS Kalkaji (Jagannath International Management School)"
-logo: "/colleges/jims-kalkaji-logo.webp"
-location: "Kalkaji, Delhi"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: JIMS Kalkaji (Jagannath International Management School)
+logo: /colleges/jims-kalkaji-logo.webp
+location: 'Kalkaji, Delhi'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1997
-ownership: "Private"
-ranking: "Top 20 Private B-Schools in India (Outlook)"
-fees: "₹9.90 Lakhs"
-avg_placement: "₹10.5 LPA"
-highest_placement: "₹35.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.jimskalkaji.com"
+ownership: Private
+ranking: Top 20 Private B-Schools in India (Outlook)
+fees: ₹9.90 Lakhs
+avg_placement: ₹10.5 LPA
+highest_placement: ₹35.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.jimskalkaji.com'
+seo_title: JIMS Kalkaji (Jagannath International Management School) MBA
+seo_description: >-
+  Explore JIMS Kalkaji (Jagannath International Management School) Kalkaji,
+  Delhi: MBA/PGDM fee structure ₹9.90 Lakhs, average placement ₹10.5 LPA,
+  highest CTC, r
+keywords:
+  - JIMS Kalkaji (Jagannath International Management School) review
+  - JIMS Kalkaji (Jagannath International Management School) fees structure 2027
+  - JIMS Kalkaji (Jagannath International Management School) average package
+  - >-
+    JIMS Kalkaji (Jagannath International Management School) placement report
+    2027
+  - JIMS Kalkaji (Jagannath International Management School) highest package
+  - JIMS Kalkaji (Jagannath International Management School) cutoff 2027
+  - JIMS Kalkaji (Jagannath International Management School) admission process
+  - JIMS Kalkaji (Jagannath International Management School) ranking
+  - 'JIMS Kalkaji (Jagannath International Management School) Kalkaji, Delhi'
+  - is JIMS Kalkaji (Jagannath International Management School) good
+  - JIMS Kalkaji (Jagannath International Management School) mohit jain review
+  - JIMS Kalkaji (Jagannath International Management School) hostel fees
+  - JIMS Kalkaji (Jagannath International Management School) contact number
+  - JIMS Kalkaji (Jagannath International Management School) MBA fees
+  - JIMS Kalkaji (Jagannath International Management School) PGDM placement
+  - JIMS Kalkaji (Jagannath International Management School) MBA admission 2027
+  - 'MBA colleges Kalkaji, Delhi'
 ---
 
 ### Courses & Fees

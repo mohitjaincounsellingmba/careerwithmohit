@@ -1,20 +1,49 @@
 ---
-name: "International Institute of Business Studies"
-logo: ""
-location: "Bengaluru"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: International Institute of Business Studies
+logo: ''
+location: Bengaluru
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2026
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹48 Lakhs"
-avg_placement: "₹8.9 LPA"
-highest_placement: "₹48.0 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹48 Lakhs
+avg_placement: ₹8.9 LPA
+highest_placement: ₹48.0 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'International Institute of Business Studies MBA Fees, Cutoff'
+seo_description: >-
+  Explore International Institute of Business Studies Bengaluru: MBA/PGDM fee
+  structure ₹48 Lakhs, average placement ₹8.9 LPA, highest CTC, ranking, and
+  2027 admi
+keywords:
+  - International Institute of Business Studies review
+  - International Institute of Business Studies fees structure 2027
+  - International Institute of Business Studies average package
+  - International Institute of Business Studies placement report 2027
+  - International Institute of Business Studies highest package
+  - International Institute of Business Studies cutoff 2027
+  - International Institute of Business Studies admission process
+  - International Institute of Business Studies ranking
+  - International Institute of Business Studies Bengaluru
+  - is International Institute of Business Studies good
+  - International Institute of Business Studies mohit jain review
+  - International Institute of Business Studies hostel fees
+  - International Institute of Business Studies contact number
+  - International Institute of Business Studies MBA fees
+  - International Institute of Business Studies PGDM placement
+  - International Institute of Business Studies MBA admission 2027
+  - MBA colleges Bengaluru
 ---
 
 ### Courses & Fees

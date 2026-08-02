@@ -1,19 +1,48 @@
 ---
-name: "Great Lakes Gurgaon"
-logo: "/colleges/greatlakes-logo.webp"
-location: "Gurgaon, Haryana"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Great Lakes Gurgaon
+logo: /colleges/greatlakes-logo.webp
+location: 'Gurgaon, Haryana'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2010
-ownership: "Private"
-ranking: "Top 20 Private B-Schools"
-fees: "₹11.5 Lakhs"
-avg_placement: "₹11.8 LPA"
-highest_placement: "₹25.5 LPA"
-exams: ["CAT", "XAT", "GMAT", "CMAT"]
-brochure_url: "/brochures/greatlakes-gurgaon-2025.pdf"
-website: "https://www.greatlakes.edu.in/gurgaon"
+ownership: Private
+ranking: Top 20 Private B-Schools
+fees: ₹11.5 Lakhs
+avg_placement: ₹11.8 LPA
+highest_placement: ₹25.5 LPA
+exams:
+  - CAT
+  - XAT
+  - GMAT
+  - CMAT
+brochure_url: /brochures/greatlakes-gurgaon-2025.pdf
+website: 'https://www.greatlakes.edu.in/gurgaon'
+seo_title: 'Great Lakes Gurgaon MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Great Lakes Gurgaon Gurgaon, Haryana: MBA/PGDM fee structure ₹11.5
+  Lakhs, average placement ₹11.8 LPA, highest CTC, ranking, and 2027 admission
+  process 
+keywords:
+  - Great Lakes Gurgaon review
+  - Great Lakes Gurgaon fees structure 2027
+  - Great Lakes Gurgaon average package
+  - Great Lakes Gurgaon placement report 2027
+  - Great Lakes Gurgaon highest package
+  - Great Lakes Gurgaon cutoff 2027
+  - Great Lakes Gurgaon admission process
+  - Great Lakes Gurgaon ranking
+  - 'Great Lakes Gurgaon Gurgaon, Haryana'
+  - is Great Lakes Gurgaon good
+  - Great Lakes Gurgaon mohit jain review
+  - Great Lakes Gurgaon hostel fees
+  - Great Lakes Gurgaon contact number
+  - Great Lakes Gurgaon MBA fees
+  - Great Lakes Gurgaon PGDM placement
+  - Great Lakes Gurgaon MBA admission 2027
+  - 'MBA colleges Gurgaon, Haryana'
 ---
 
 ### Courses & Fees

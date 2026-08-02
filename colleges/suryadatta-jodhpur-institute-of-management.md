@@ -1,18 +1,47 @@
 ---
-name: "Suryadatta Jodhpur Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Jodhpur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Suryadatta Jodhpur Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Jodhpur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2006
-ownership: "Public"
-ranking: "#56 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹5.0 LPA"
-highest_placement: "₹20.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.suryadatta-jodhpur-institute-of-management.edu.in"
+ownership: Public
+ranking: '#56 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹5.0 LPA
+highest_placement: ₹20.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.suryadatta-jodhpur-institute-of-management.edu.in'
+seo_title: 'Suryadatta Jodhpur Institute of Management MBA Fees, Cutoff '
+seo_description: >-
+  Explore Suryadatta Jodhpur Institute of Management Jodhpur, India: MBA/PGDM
+  fee structure ₹7.7 Lakhs, average placement ₹5.0 LPA, highest CTC, ranking,
+  and 2027
+keywords:
+  - Suryadatta Jodhpur Institute of Management review
+  - Suryadatta Jodhpur Institute of Management fees structure 2027
+  - Suryadatta Jodhpur Institute of Management average package
+  - Suryadatta Jodhpur Institute of Management placement report 2027
+  - Suryadatta Jodhpur Institute of Management highest package
+  - Suryadatta Jodhpur Institute of Management cutoff 2027
+  - Suryadatta Jodhpur Institute of Management admission process
+  - Suryadatta Jodhpur Institute of Management ranking
+  - 'Suryadatta Jodhpur Institute of Management Jodhpur, India'
+  - is Suryadatta Jodhpur Institute of Management good
+  - Suryadatta Jodhpur Institute of Management mohit jain review
+  - Suryadatta Jodhpur Institute of Management hostel fees
+  - Suryadatta Jodhpur Institute of Management contact number
+  - Suryadatta Jodhpur Institute of Management MBA fees
+  - Suryadatta Jodhpur Institute of Management PGDM placement
+  - Suryadatta Jodhpur Institute of Management MBA admission 2027
+  - 'MBA colleges Jodhpur, India'
 ---
 
 ### About Suryadatta Jodhpur Institute of Management

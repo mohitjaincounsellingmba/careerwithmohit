@@ -1,10 +1,13 @@
 ---
 title: >-
-  PG in Global Finance & AI Imarticus (ISFB) Review 2026: Fees, Placements, Curriculum & IIM Vizag Alumni Status
+  PG in Global Finance & AI Imarticus (ISFB) Review 2026: Fees, Placements,
+  Curriculum & IIM Vizag Alumni Status
 date: '2026-07-28'
 category: MBA
 description: >-
-  Complete 2026 review of the PG in Global Finance & AI at Imarticus School of Finance and Business (ISFB). Explore 11-month curriculum, fees, 5 fintech builds, IIM Visakhapatnam alumni status, and ₹25 Cr venture fund.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Complete 2026 review of the PG in Global Finance & AI
+  at Imar...
 keywords:
   - pg in global finance and ai
   - imarticus pg in global finance
@@ -15,23 +18,47 @@ keywords:
   - best fintech courses india
   - ai finance courses with placement
   - imarticus pg fee structure
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the PG in Global Finance & AI at Imarticus (ISFB)?
     answer: >-
-      The PG in Global Finance & AI is an 11-month, full-time, on-campus, MBA-equivalent postgraduate program offered by the Imarticus School of Finance and Business (ISFB) at its Powai, Mumbai campus. It combines fintech product building, AI-first financial decision making, IIM Visakhapatnam leadership certification, and access to a ₹25 Cr venture fund.
+      The PG in Global Finance & AI is an 11-month, full-time, on-campus,
+      MBA-equivalent postgraduate program offered by the Imarticus School of
+      Finance and Business (ISFB) at its Powai, Mumbai campus. It combines
+      fintech product building, AI-first financial decision making, IIM
+      Visakhapatnam leadership certification, and access to a ₹25 Cr venture
+      fund.
   - question: What is the fee structure for the Imarticus PG in Global Finance & AI?
     answer: >-
-      The total tuition fee for the PG in Global Finance & AI is ₹10,50,000 (excluding taxes). Scholarships and flexible payment plans/financing options are available for meritorious candidates.
+      The total tuition fee for the PG in Global Finance & AI is ₹10,50,000
+      (excluding taxes). Scholarships and flexible payment plans/financing
+      options are available for meritorious candidates.
   - question: Do students get IIM Visakhapatnam Executive Alumni Status?
     answer: >-
-      Yes, students undergo 125+ hours of structured IIM-led learning and a 3-day campus immersion at IIM Visakhapatnam. Upon successful completion, candidates earn Executive Certification in Leadership with AI and official Executive Alumni Status from IIM Visakhapatnam.
+      Yes, students undergo 125+ hours of structured IIM-led learning and a
+      3-day campus immersion at IIM Visakhapatnam. Upon successful completion,
+      candidates earn Executive Certification in Leadership with AI and official
+      Executive Alumni Status from IIM Visakhapatnam.
   - question: What is the average and highest package offered after the ISFB PG program?
     answer: >-
-      Graduates can target high-impact roles such as Fintech Product Manager, Fintech Strategy Consultant, and AI & Data Analytics Manager with CTCs ranging between ₹20 LPA and ₹65 LPA across top banks, NBFCs, fintech giants, and consulting firms.
+      Graduates can target high-impact roles such as Fintech Product Manager,
+      Fintech Strategy Consultant, and AI & Data Analytics Manager with CTCs
+      ranging between ₹20 LPA and ₹65 LPA across top banks, NBFCs, fintech
+      giants, and consulting firms.
   - question: Who is eligible to apply for the PG in Global Finance & AI?
     answer: >-
-      Applicants need a Bachelor's degree in Finance, Commerce, Economics, Business, Engineering, Technology, or a related field, along with 1+ years of work experience in Finance, Banking, Analytics, Consulting, Tech, or related domains.
-location: Mumbai
+      Applicants need a Bachelor's degree in Finance, Commerce, Economics,
+      Business, Engineering, Technology, or a related field, along with 1+ years
+      of work experience in Finance, Banking, Analytics, Consulting, Tech, or
+      related domains.
+location: Delhi
 ---
 
 # PG in Global Finance & AI Imarticus (ISFB) Review 2026: Fees, Placements, Curriculum & IIM Vizag Alumni Status

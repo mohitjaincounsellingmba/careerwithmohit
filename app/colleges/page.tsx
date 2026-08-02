@@ -7,8 +7,8 @@ import { JsonLd } from "@/components/JsonLd";
 import { ChevronDown } from "lucide-react";
 
 export const metadata = {
-  title: "Top Colleges in India 2027: Compare Fees, Placements & Admission (MBA, B.Tech, BBA)",
-  description: "Compare 200+ top colleges in India for 2027 admission. Verified fee structures, 2025 placement reports, NIRF rankings, and cutoffs for MBA, B.Tech, BBA & BCA. Get direct admission guidance for students in Delhi NCR, Bangalore, Pune, Mumbai & more.",
+  title: "Top Colleges India 2027: Compare MBA & B.Tech Fees",
+  description: "Compare 200+ top colleges in India for 2027 admission. Verified fee structures, placement reports, NIRF rankings, and cutoffs for MBA, B.Tech, BBA & BCA.",
   keywords: [
     'top MBA colleges India 2027', 'best PGDM colleges India 2027', 'MBA fees comparison',
     'MBA placement reports 2027', 'B-school cutoffs', 'direct MBA admission 2027', 'PGDM admission 2027',
@@ -26,10 +26,25 @@ export const metadata = {
     canonical: '/colleges',
   },
   openGraph: {
-    title: 'Top Colleges in India 2027: Compare Fees, Placements & Admission',
+    title: 'Top Colleges India 2027: Compare MBA & B.Tech Fees',
     description: 'Explore verified data on 200+ top colleges for MBA, B.Tech, BBA & BCA. Compare fees, placements, rankings & cutoffs for 2027.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/colleges',
+    siteName: 'CareerWithMohit',
+    images: [
+      {
+        url: 'https://www.careerwithmohit.online/og-image.webp',
+        width: 1200,
+        height: 630,
+        alt: 'Top Colleges in India 2027 - CareerWithMohit',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Top Colleges India 2027: Compare MBA & B.Tech Fees',
+    description: 'Explore verified data on 200+ top colleges for MBA, B.Tech, BBA & BCA. Compare fees & placements.',
+    images: ['https://www.careerwithmohit.online/og-image.webp'],
   },
 };
 

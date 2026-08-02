@@ -1,18 +1,47 @@
 ---
-name: "International Khammam Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Khammam, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: International Khammam Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Khammam, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 2019
-ownership: "Private"
-ranking: "#64 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹7.8 LPA"
-highest_placement: "₹17.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.international-khammam-institute-of-management.edu.in"
+ownership: Private
+ranking: '#64 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹7.8 LPA
+highest_placement: ₹17.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.international-khammam-institute-of-management.edu.in'
+seo_title: 'International Khammam Institute of Management MBA Fees, Cuto'
+seo_description: >-
+  Explore International Khammam Institute of Management Khammam, India: MBA/PGDM
+  fee structure ₹7.7 Lakhs, average placement ₹7.8 LPA, highest CTC, ranking,
+  and 2
+keywords:
+  - International Khammam Institute of Management review
+  - International Khammam Institute of Management fees structure 2027
+  - International Khammam Institute of Management average package
+  - International Khammam Institute of Management placement report 2027
+  - International Khammam Institute of Management highest package
+  - International Khammam Institute of Management cutoff 2027
+  - International Khammam Institute of Management admission process
+  - International Khammam Institute of Management ranking
+  - 'International Khammam Institute of Management Khammam, India'
+  - is International Khammam Institute of Management good
+  - International Khammam Institute of Management mohit jain review
+  - International Khammam Institute of Management hostel fees
+  - International Khammam Institute of Management contact number
+  - International Khammam Institute of Management MBA fees
+  - International Khammam Institute of Management PGDM placement
+  - International Khammam Institute of Management MBA admission 2027
+  - 'MBA colleges Khammam, India'
 ---
 
 ### About International Khammam Institute of Management

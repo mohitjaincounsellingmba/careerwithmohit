@@ -1,19 +1,49 @@
 ---
-name: "MIT World Peace University (MIT-WPU)"
-logo: ""
-location: "Kothrud, Pune"
-category: "Engineering"
-type: "University"
-courses: ["B.Tech Computer Science", "B.Tech Mechanical", "B.Tech Civil", "B.Tech ECE"]
+name: MIT World Peace University (MIT-WPU)
+logo: ''
+location: 'Kothrud, Pune'
+category: Engineering
+type: University
+courses:
+  - B.Tech Computer Science
+  - B.Tech Mechanical
+  - B.Tech Civil
+  - B.Tech ECE
 established: 1983
-ownership: "Private University"
-ranking: "Top Engineering College"
-fees: "₹12.5 Lakhs - ₹14.0 Lakhs"
-avg_placement: "₹7.0 LPA"
-highest_placement: "₹51.0 LPA"
-exams: ["MHT CET", "JEE Main", "MIT-WPU MEET"]
-website: ""
-brochure_url: ""
+ownership: Private University
+ranking: Top Engineering College
+fees: ₹12.5 Lakhs - ₹14.0 Lakhs
+avg_placement: ₹7.0 LPA
+highest_placement: ₹51.0 LPA
+exams:
+  - MHT CET
+  - JEE Main
+  - MIT-WPU MEET
+website: ''
+brochure_url: ''
+seo_title: 'MIT World Peace University (MIT-WPU) B.Tech Fees, Cutoff & P'
+seo_description: >-
+  Check MIT World Peace University (MIT-WPU) Kothrud, Pune: B.Tech fee structure
+  ₹12.5 Lakhs - ₹14.0 Lakhs, average placement ₹7.0 LPA, JEE cutoff, ranking,
+  and 2
+keywords:
+  - MIT World Peace University (MIT-WPU) review
+  - MIT World Peace University (MIT-WPU) fees structure 2027
+  - MIT World Peace University (MIT-WPU) average package
+  - MIT World Peace University (MIT-WPU) placement report 2027
+  - MIT World Peace University (MIT-WPU) highest package
+  - MIT World Peace University (MIT-WPU) cutoff 2027
+  - MIT World Peace University (MIT-WPU) admission process
+  - MIT World Peace University (MIT-WPU) ranking
+  - 'MIT World Peace University (MIT-WPU) Kothrud, Pune'
+  - is MIT World Peace University (MIT-WPU) good
+  - MIT World Peace University (MIT-WPU) mohit jain review
+  - MIT World Peace University (MIT-WPU) hostel fees
+  - MIT World Peace University (MIT-WPU) contact number
+  - MIT World Peace University (MIT-WPU) B.Tech fees
+  - MIT World Peace University (MIT-WPU) CSE placement
+  - MIT World Peace University (MIT-WPU) B.Tech admission 2027
+  - 'engineering colleges Kothrud, Pune'
 ---
 
 ### B.Tech Courses & Fees

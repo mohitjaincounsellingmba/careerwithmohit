@@ -1,19 +1,49 @@
 ---
-name: "University Visvesvaraya College of Engineering (UVCE)"
-logo: ""
-location: "K.R. Circle, Bangalore"
-category: "Engineering"
-type: "Institute"
-courses: ["B.Tech Computer Science", "B.Tech Mechanical", "B.Tech Civil", "B.Tech ECE", "B.Tech Electrical"]
+name: University Visvesvaraya College of Engineering (UVCE)
+logo: ''
+location: 'K.R. Circle, Bangalore'
+category: Engineering
+type: Institute
+courses:
+  - B.Tech Computer Science
+  - B.Tech Mechanical
+  - B.Tech Civil
+  - B.Tech ECE
+  - B.Tech Electrical
 established: 1917
-ownership: "Government"
-ranking: "Top Government Engineering College"
-fees: "₹0.5 Lakhs"
-avg_placement: "₹8.0 LPA"
-highest_placement: "₹42.0 LPA"
-exams: ["KCET", "COMEDK"]
-website: ""
-brochure_url: ""
+ownership: Government
+ranking: Top Government Engineering College
+fees: ₹0.5 Lakhs
+avg_placement: ₹8.0 LPA
+highest_placement: ₹42.0 LPA
+exams:
+  - KCET
+  - COMEDK
+website: ''
+brochure_url: ''
+seo_title: University Visvesvaraya College of Engineering (UVCE) B.Tech
+seo_description: >-
+  Check University Visvesvaraya College of Engineering (UVCE) K.R. Circle,
+  Bangalore: B.Tech fee structure ₹0.5 Lakhs, average placement ₹8.0 LPA, JEE
+  cutoff, ran
+keywords:
+  - University Visvesvaraya College of Engineering (UVCE) review
+  - University Visvesvaraya College of Engineering (UVCE) fees structure 2027
+  - University Visvesvaraya College of Engineering (UVCE) average package
+  - University Visvesvaraya College of Engineering (UVCE) placement report 2027
+  - University Visvesvaraya College of Engineering (UVCE) highest package
+  - University Visvesvaraya College of Engineering (UVCE) cutoff 2027
+  - University Visvesvaraya College of Engineering (UVCE) admission process
+  - University Visvesvaraya College of Engineering (UVCE) ranking
+  - 'University Visvesvaraya College of Engineering (UVCE) K.R. Circle, Bangalore'
+  - is University Visvesvaraya College of Engineering (UVCE) good
+  - University Visvesvaraya College of Engineering (UVCE) mohit jain review
+  - University Visvesvaraya College of Engineering (UVCE) hostel fees
+  - University Visvesvaraya College of Engineering (UVCE) contact number
+  - University Visvesvaraya College of Engineering (UVCE) B.Tech fees
+  - University Visvesvaraya College of Engineering (UVCE) CSE placement
+  - University Visvesvaraya College of Engineering (UVCE) B.Tech admission 2027
+  - 'engineering colleges K.R. Circle, Bangalore'
 ---
 
 ### B.Tech Courses & Fees

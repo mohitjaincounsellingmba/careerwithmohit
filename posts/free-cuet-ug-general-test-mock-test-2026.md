@@ -50,6 +50,8 @@ To help you measure your standing, we offer a high-fidelity **[Free CUET UG 2026
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the structure of the CUET UG General Test?
@@ -61,11 +63,3 @@ Yes, CUET UG has negative marking. Each correct response gets +5 marks, while -1
 ### Which universities accept CUET UG scores?
 Top Central Universities like Delhi University (DU), Banaras Hindu University (BHU), Jawaharlal Nehru University (JNU), and Jamia Millia Islamia accept CUET UG scores for undergraduate admission.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

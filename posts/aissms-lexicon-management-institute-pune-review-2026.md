@@ -1,25 +1,49 @@
 ---
-title: "AISSMS University / Lexicon Management Institute Review 2026: Placements, Fees, Courses & Admission"
+title: >-
+  AISSMS University / Lexicon Management Institute Review 2026: Placements,
+  Fees, Courses & Admission
 date: '2026-08-03'
-description: "Comprehensive review of AISSMS University / Lexicon Management Institute (Pune) for 2026. Check latest fee structure, flagship courses, placement statistics, top recruiters, and admission process."
+description: >-
+  Comprehensive review of AISSMS University / Lexicon Management Institute
+  (Pune) for 2026. Check latest fee structure, flagship courses, placement
+  statistics, top recruiters, and admission process.
 keywords:
-  - "AISSMS & Lexicon MILE Pune review 2026"
-  - "AISSMS & Lexicon MILE Pune placements 2026"
-  - "AISSMS & Lexicon MILE Pune fees structure"
-  - "AISSMS & Lexicon MILE Pune admission process"
-  - "AISSMS University / Lexicon Management Institute review"
-  - "Best Colleges in Pune"
-  - "Top Universities in Pune"
-  - "Direct Admission in Pune"
-category: "Colleges"
-location: "Pune"
+  - AISSMS & Lexicon MILE Pune review 2026
+  - AISSMS & Lexicon MILE Pune placements 2026
+  - AISSMS & Lexicon MILE Pune fees structure
+  - AISSMS & Lexicon MILE Pune admission process
+  - AISSMS University / Lexicon Management Institute review
+  - Best Colleges in Pune
+  - Top Universities in Pune
+  - Direct Admission in Pune
+category: Colleges
+location: Pune
 faqs:
-  - question: "Is AISSMS University / Lexicon Management Institute a good choice for higher education in 2026?"
-    answer: "Yes, AISSMS University / Lexicon Management Institute is a highly reputed institution in Pune (AICTE Approved, UGC Recognized, NAAC A+ / A Accredited). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹7.50 LPA - ₹8.80 LPA (Lexicon PGDM) / ₹6.20 LPA (AISSMS)."
-  - question: "What is the annual fee structure at AISSMS University / Lexicon Management Institute?"
-    answer: "The annual tuition fee at AISSMS University / Lexicon Management Institute generally ranges between ₹2.50 Lakhs - ₹5.00 Lakhs per annum, depending on the chosen program (PGDM / MBA (Lexicon MILE), B.Tech (AISSMS COE / IOIT), BBA) and applicable merit scholarships."
-  - question: "How can I apply for admission to AISSMS University / Lexicon Management Institute in 2026?"
-    answer: "Admissions for 2026 at AISSMS University / Lexicon Management Institute are conducted based on entrance exams such as CAT, XAT, MAT, CMAT, MHT CET, JEE Main, followed by counseling, personal interviews, or merit-based shortlisting."
+  - question: >-
+      Is AISSMS University / Lexicon Management Institute a good choice for
+      higher education in 2026?
+    answer: >-
+      Yes, AISSMS University / Lexicon Management Institute is a highly reputed
+      institution in Pune (AICTE Approved, UGC Recognized, NAAC A+ / A
+      Accredited). It offers modern campus infrastructure, strong industry
+      integration, and a commendable average placement package of ₹7.50 LPA -
+      ₹8.80 LPA (Lexicon PGDM) / ₹6.20 LPA (AISSMS).
+  - question: >-
+      What is the annual fee structure at AISSMS University / Lexicon Management
+      Institute?
+    answer: >-
+      The annual tuition fee at AISSMS University / Lexicon Management Institute
+      generally ranges between ₹2.50 Lakhs - ₹5.00 Lakhs per annum, depending on
+      the chosen program (PGDM / MBA (Lexicon MILE), B.Tech (AISSMS COE / IOIT),
+      BBA) and applicable merit scholarships.
+  - question: >-
+      How can I apply for admission to AISSMS University / Lexicon Management
+      Institute in 2026?
+    answer: >-
+      Admissions for 2026 at AISSMS University / Lexicon Management Institute
+      are conducted based on entrance exams such as CAT, XAT, MAT, CMAT, MHT
+      CET, JEE Main, followed by counseling, personal interviews, or merit-based
+      shortlisting.
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **AISSMS University / Lexicon Management Institute**, situated in **Pune**, stands out as one of the premier destinations for undergraduate and postgraduate education in Pune.
@@ -153,4 +177,4 @@ Navigating college cutoffs, fee structures, and course specializations can be ch
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.

@@ -1,18 +1,47 @@
 ---
-name: "Galgotias Gorakhpur Business School"
-logo: "/colleges/default-management-logo.webp"
-location: "Gorakhpur, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Galgotias Gorakhpur Business School
+logo: /colleges/default-management-logo.webp
+location: 'Gorakhpur, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1997
-ownership: "Private"
-ranking: "#97 Top Private B-School"
-fees: "₹8.5 Lakhs"
-avg_placement: "₹8.5 LPA"
-highest_placement: "₹21.5 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.galgotias-gorakhpur-business-school.edu.in"
+ownership: Private
+ranking: '#97 Top Private B-School'
+fees: ₹8.5 Lakhs
+avg_placement: ₹8.5 LPA
+highest_placement: ₹21.5 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.galgotias-gorakhpur-business-school.edu.in'
+seo_title: 'Galgotias Gorakhpur Business School MBA Fees, Cutoff & Place'
+seo_description: >-
+  Explore Galgotias Gorakhpur Business School Gorakhpur, India: MBA/PGDM fee
+  structure ₹8.5 Lakhs, average placement ₹8.5 LPA, highest CTC, ranking, and
+  2027 admi
+keywords:
+  - Galgotias Gorakhpur Business School review
+  - Galgotias Gorakhpur Business School fees structure 2027
+  - Galgotias Gorakhpur Business School average package
+  - Galgotias Gorakhpur Business School placement report 2027
+  - Galgotias Gorakhpur Business School highest package
+  - Galgotias Gorakhpur Business School cutoff 2027
+  - Galgotias Gorakhpur Business School admission process
+  - Galgotias Gorakhpur Business School ranking
+  - 'Galgotias Gorakhpur Business School Gorakhpur, India'
+  - is Galgotias Gorakhpur Business School good
+  - Galgotias Gorakhpur Business School mohit jain review
+  - Galgotias Gorakhpur Business School hostel fees
+  - Galgotias Gorakhpur Business School contact number
+  - Galgotias Gorakhpur Business School MBA fees
+  - Galgotias Gorakhpur Business School PGDM placement
+  - Galgotias Gorakhpur Business School MBA admission 2027
+  - 'MBA colleges Gorakhpur, India'
 ---
 
 ### About Galgotias Gorakhpur Business School

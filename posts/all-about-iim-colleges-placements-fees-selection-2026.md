@@ -1,9 +1,12 @@
 ---
 title: >-
-  All About IIMs 2026: Complete List of 21 IIMs, Placements (Lowest, Avg, Highest), Affiliation, USPs & Selection Criteria
+  All About IIMs 2026: Complete List of 21 IIMs, Placements (Lowest, Avg,
+  Highest), Affiliation, USPs & Selection Criteria
 date: '2026-07-27'
 description: >-
-  Comprehensive guide to all 21 Indian Institutes of Management (IIMs) in India. Compare lowest, average, and highest salary packages, understand IIM Act 2017 affiliation, key USPs, CAT cutoffs, and complete selection criteria for MBA 2026-28.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Comprehensive guide to all 21 Indian Institutes of
+  Management...
 keywords:
   - all about IIM
   - IIM colleges list in India
@@ -28,16 +31,31 @@ keywords:
 faqs:
   - question: How many IIMs are there in India and who approves them?
     answer: >-
-      There are 21 Indian Institutes of Management (IIMs) in India. All IIMs are autonomous federal business schools declared as Institutes of National Importance (INI) under the IIM Act, 2017, and approved by the Ministry of Education, Government of India.
-  - question: What is the highest, average, and lowest placement package across all IIMs?
+      There are 21 Indian Institutes of Management (IIMs) in India. All IIMs are
+      autonomous federal business schools declared as Institutes of National
+      Importance (INI) under the IIM Act, 2017, and approved by the Ministry of
+      Education, Government of India.
+  - question: >-
+      What is the highest, average, and lowest placement package across all
+      IIMs?
     answer: >-
-      Across the 21 IIMs, the highest package reaches INR 1.3+ Crore per annum (international) and INR 65-70 LPA (domestic) at Old IIMs. Average salary packages range from INR 35-36.5 LPA at IIM Ahmedabad, Bangalore, and Calcutta to INR 14.5-17 LPA at Baby IIMs. The lowest (minimum recorded base) salary across batches typically sits between INR 12 LPA and INR 18 LPA depending on the tier.
+      Across the 21 IIMs, the highest package reaches INR 1.3+ Crore per annum
+      (international) and INR 65-70 LPA (domestic) at Old IIMs. Average salary
+      packages range from INR 35-36.5 LPA at IIM Ahmedabad, Bangalore, and
+      Calcutta to INR 14.5-17 LPA at Baby IIMs. The lowest (minimum recorded
+      base) salary across batches typically sits between INR 12 LPA and INR 18
+      LPA depending on the tier.
   - question: What is the selection criteria for IIM MBA admissions?
     answer: >-
-      IIM selection is a multi-step process based on CAT entrance exam percentile (overall and sectional cutoffs), Written Ability Test (WAT), Personal Interview (PI), academic profile (10th, 12th, graduation marks), work experience, and gender/academic diversity.
+      IIM selection is a multi-step process based on CAT entrance exam
+      percentile (overall and sectional cutoffs), Written Ability Test (WAT),
+      Personal Interview (PI), academic profile (10th, 12th, graduation marks),
+      work experience, and gender/academic diversity.
   - question: Do IIMs offer an MBA degree or a PGDM diploma?
     answer: >-
-      Following the enactment of the IIM Act, 2017, all 21 IIMs are empowered to award standard Master of Business Administration (MBA) degrees instead of the traditional PGDM diplomas.
+      Following the enactment of the IIM Act, 2017, all 21 IIMs are empowered to
+      award standard Master of Business Administration (MBA) degrees instead of
+      the traditional PGDM diplomas.
 location: Delhi
 ---
 
@@ -132,8 +150,8 @@ graph TD
 
 ### 3. Global Accreditations & Quality Standards
 The leading IIMs hold international accreditations from the world’s most prestigious business school review bodies:
-*   **Triple Crown Accreditation (AACSB, EQUIS, AMBA)**: Held by **IIM Calcutta** and **IIM Indore**—a distinction shared by fewer than 1% of B-schools globally.
-*   **AACSB & EQUIS**: Held by **IIM Ahmedabad**, **IIM Bangalore**, **IIM Lucknow**, and **IIM Kozhikode**.
+*   **Triple Crown Accreditation (AACSB, EQUIS, AMBA)**: Held by **[IIM Calcutta](/colleges/iim-calcutta)** and **IIM Indore**—a distinction shared by fewer than 1% of B-schools globally.
+*   **AACSB & EQUIS**: Held by **[IIM Ahmedabad](/colleges/iim-ahmedabad)**, **[IIM Bangalore](/colleges/iim-bangalore)**, **IIM Lucknow**, and **IIM Kozhikode**.
 
 ---
 

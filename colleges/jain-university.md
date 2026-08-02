@@ -1,20 +1,49 @@
 ---
-name: "Jain University"
-logo: ""
-location: "Bengaluru"
-category: "Management"
-type: "University"
-courses: ["MBA", "PGDM"]
+name: Jain University
+logo: ''
+location: Bengaluru
+category: Management
+type: University
+courses:
+  - MBA
+  - PGDM
 established: 2026
-ownership: "Private"
-ranking: "Top Private B-School"
-fees: "₹12.5 Lakhs"
-avg_placement: "₹6.2 LPA"
-highest_placement: "₹15.8 LPA"
-lowest_placement: "Not Disclosed"
-exams: ["CAT", "MAT", "CMAT", "XAT"]
-website: ""
-brochure_url: ""
+ownership: Private
+ranking: Top Private B-School
+fees: ₹12.5 Lakhs
+avg_placement: ₹6.2 LPA
+highest_placement: ₹15.8 LPA
+lowest_placement: Not Disclosed
+exams:
+  - CAT
+  - MAT
+  - CMAT
+  - XAT
+website: ''
+brochure_url: ''
+seo_title: 'Jain University MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore Jain University Bengaluru: MBA/PGDM fee structure ₹12.5 Lakhs, average
+  placement ₹6.2 LPA, highest CTC, ranking, and 2027 admission process with
+  Mohit J
+keywords:
+  - Jain University review
+  - Jain University fees structure 2027
+  - Jain University average package
+  - Jain University placement report 2027
+  - Jain University highest package
+  - Jain University cutoff 2027
+  - Jain University admission process
+  - Jain University ranking
+  - Jain University Bengaluru
+  - is Jain University good
+  - Jain University mohit jain review
+  - Jain University hostel fees
+  - Jain University contact number
+  - Jain University MBA fees
+  - Jain University PGDM placement
+  - Jain University MBA admission 2027
+  - MBA colleges Bengaluru
 ---
 
 ### Courses & Fees

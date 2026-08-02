@@ -1,18 +1,47 @@
 ---
-name: "Amity Nashik Institute of Management"
-logo: "/colleges/default-management-logo.webp"
-location: "Nashik, India"
-category: "Management"
-type: "Institute"
-courses: ["MBA", "PGDM"]
+name: Amity Nashik Institute of Management
+logo: /colleges/default-management-logo.webp
+location: 'Nashik, India'
+category: Management
+type: Institute
+courses:
+  - MBA
+  - PGDM
 established: 1998
-ownership: "Private"
-ranking: "#48 Top Private B-School"
-fees: "₹7.7 Lakhs"
-avg_placement: "₹7.8 LPA"
-highest_placement: "₹23.0 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT"]
-website: "https://www.amity-nashik-institute-of-management.edu.in"
+ownership: Private
+ranking: '#48 Top Private B-School'
+fees: ₹7.7 Lakhs
+avg_placement: ₹7.8 LPA
+highest_placement: ₹23.0 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+website: 'https://www.amity-nashik-institute-of-management.edu.in'
+seo_title: 'Amity Nashik Institute of Management MBA Fees, Cutoff & Plac'
+seo_description: >-
+  Explore Amity Nashik Institute of Management Nashik, India: MBA/PGDM fee
+  structure ₹7.7 Lakhs, average placement ₹7.8 LPA, highest CTC, ranking, and
+  2027 admiss
+keywords:
+  - Amity Nashik Institute of Management review
+  - Amity Nashik Institute of Management fees structure 2027
+  - Amity Nashik Institute of Management average package
+  - Amity Nashik Institute of Management placement report 2027
+  - Amity Nashik Institute of Management highest package
+  - Amity Nashik Institute of Management cutoff 2027
+  - Amity Nashik Institute of Management admission process
+  - Amity Nashik Institute of Management ranking
+  - 'Amity Nashik Institute of Management Nashik, India'
+  - is Amity Nashik Institute of Management good
+  - Amity Nashik Institute of Management mohit jain review
+  - Amity Nashik Institute of Management hostel fees
+  - Amity Nashik Institute of Management contact number
+  - Amity Nashik Institute of Management MBA fees
+  - Amity Nashik Institute of Management PGDM placement
+  - Amity Nashik Institute of Management MBA admission 2027
+  - 'MBA colleges Nashik, India'
 ---
 
 ### About Amity Nashik Institute of Management
