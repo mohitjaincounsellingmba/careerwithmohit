@@ -44,7 +44,7 @@ const TOOL_CATEGORIES = [
     accentColor: 'bg-accent',
     icon: Calculator,
     tools: [
-      { name: 'CAT Score Calculator', desc: 'Predict your CAT 2027 percentile', href: '/tools/cat-score-calculator', badge: 'Popular', color: 'text-amber-600' },
+      { name: 'CAT 2026 Score Calculator', desc: 'Response sheet check & 2027 MBA percentile', href: '/tools/cat-score-calculator', badge: 'Popular', color: 'text-amber-600' },
       { name: 'MAT May 2027 Calculator', desc: 'Composite score (out of 800) & percentile', href: '/tools/mat-score-calculator', badge: 'New', color: 'text-green-600' },
       { name: 'XAT 2027 Calculator', desc: 'Get XAT score and percentile estimate', href: '/tools/xat-score-calculator-2027', badge: null, color: 'text-orange-600' },
       { name: 'JEE Main Predictor', desc: 'Predict rank based on JEE score', href: '/calculator/jee-main-2026', badge: null, color: 'text-red-600' },

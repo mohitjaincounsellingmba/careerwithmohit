@@ -251,7 +251,7 @@ export function CatScoreCalculator() {
           number: leadData.number,
           email: leadData.email,
           location: leadData.location,
-          source: "CAT 2027 Score Calculator",
+          source: "CAT 2026 Score Calculator (2027 Admission)",
           score: stats.totalRaw,
           percentile: stats.overallPercentile,
           timestamp: new Date().toISOString(),
@@ -286,10 +286,10 @@ export function CatScoreCalculator() {
             </div>
             <div>
               <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tighter leading-tight">
-                CAT 2027 Score Calculator
+                CAT 2026 Score Calculator (2027 Admission)
               </h2>
               <p className="text-amber-300 font-bold text-sm uppercase tracking-widest mt-1">
-                Section-wise · Raw Score · Scaled Score · Percentile
+                Response Sheet Check · Answer Key · Raw Score · Scaled Score · 2027 MBA Percentile
               </p>
             </div>
           </div>
@@ -315,18 +315,18 @@ export function CatScoreCalculator() {
           <div className="mb-12 bg-slate-50 border-4 border-foreground p-6 md:p-8">
             <div className="flex items-center gap-3 mb-6">
               <Zap className="w-6 h-6 text-amber-500 animate-pulse" />
-              <h3 className="text-xl font-black uppercase tracking-tight">Step 1: Scan Your Answer Key</h3>
+              <h3 className="text-xl font-black uppercase tracking-tight">Step 1: Check CAT 2026 Answer Key / Response Sheet</h3>
             </div>
 
             <div className="space-y-6">
               <div>
-                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: Answer Key Link</label>
+                <label className="block text-xs font-black uppercase text-slate-500 mb-2">Method A: CAT 2026 Response Sheet / Answer Key URL</label>
                 <div className="flex flex-col md:flex-row gap-4 mb-4">
                   <input
                     type="text"
                     value={responseSheetUrl}
                     onChange={(e) => setResponseSheetUrl(e.target.value)}
-                    placeholder="Paste your Answer Key Link here..."
+                    placeholder="Paste your CAT 2026 Response Sheet / Answer Key Link here..."
                     className="flex-1 bg-white border-4 border-foreground p-4 font-bold text-lg focus:outline-none focus:ring-4 focus:ring-amber-300 transition-all"
                   />
                   <button
@@ -660,7 +660,7 @@ export function CatScoreCalculator() {
                     Need Admission Guidance?
                   </div>
                   <div className="text-xl font-black uppercase">
-                    Book Free CAT 2027 Counselling →
+                    Book Free MBA 2027 Admission Counselling →
                   </div>
                 </div>
                 <ChevronRight className="w-8 h-8 group-hover:translate-x-2 transition-transform flex-shrink-0" />
@@ -709,7 +709,7 @@ export function CatScoreCalculator() {
             </button>
             <div className="bg-white">
               <div className="bg-amber-400 p-8 text-center border-b-8 border-foreground text-foreground">
-                <h2 className="text-4xl font-black uppercase italic tracking-tighter">CAT Admission Support 2027</h2>
+                <h2 className="text-4xl font-black uppercase italic tracking-tighter">MBA Admission Support 2027 (CAT 2026)</h2>
                 <p className="font-bold mt-2">Expert guidance for IIMs & Top B-Schools.</p>
               </div>
               <div className="p-4 md:p-8">
@@ -724,7 +724,7 @@ export function CatScoreCalculator() {
       {/* Percentile Table */}
       <div className="mt-20">
         <h3 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-amber-400 pl-6">
-          CAT 2027 Score vs Percentile (Expected)
+          CAT 2026 Score vs Percentile (For 2027 Admission)
         </h3>
         <div className="overflow-x-auto border-4 border-foreground">
           <table className="w-full text-left border-collapse">
@@ -762,7 +762,7 @@ export function CatScoreCalculator() {
       {/* Section-wise info */}
       <div className="mt-20">
         <h3 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-amber-400 pl-6">
-          CAT 2027 Exam Pattern
+          CAT 2026 Exam Pattern (66 Questions · 228 Marks)
         </h3>
         <div className="overflow-x-auto border-4 border-foreground">
           <table className="w-full text-left border-collapse">

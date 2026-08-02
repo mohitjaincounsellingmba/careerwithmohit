@@ -3,8 +3,8 @@ type PagesFunction = (context: { request: Request }) => Response | Promise<Respo
 export const onRequestPost: PagesFunction = async ({ request }) => {
   try {
     const { url } = await request.json() as { url?: string };
-    if (!url || (!url.includes("digialm.com") && !url.includes("nta.ac.in"))) {
-      return Response.json({ error: "Please provide a valid NTA Response Sheet URL." }, { status: 400 });
+    if (!url || (!url.includes("digialm.com") && !url.includes("iimcat.ac.in") && !url.includes("nta.ac.in") && !url.includes("tcsion.com"))) {
+      return Response.json({ error: "Please provide a valid CAT / NTA Response Sheet URL (e.g., cdn.digialm.com or iimcat.ac.in)." }, { status: 400 });
     }
     const response = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" } });
     if (!response.ok) return Response.json({ error: "Failed to access the response sheet." }, { status: 400 });
