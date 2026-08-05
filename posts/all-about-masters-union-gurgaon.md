@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Is Masters' Union worth the hype? Read our
-  comprehen...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - Masters Union review
   - Masters Union placements 2026

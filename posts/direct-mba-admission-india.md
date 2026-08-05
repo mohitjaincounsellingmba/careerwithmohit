@@ -3,8 +3,8 @@ title: 'Direct MBA Admission in India 2026: Top Colleges, Management Quota & Fee
 date: '2026-03-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Securing a top MBA without high
-  CAT sco...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - direct MBA admission 2026
   - management quota MBA India

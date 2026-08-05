@@ -6,8 +6,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Looking for admission to Christ University -
-  Schoo...
+  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - christ university - school of business and management review 2026
   - christ university - school of business and management pgdm placements

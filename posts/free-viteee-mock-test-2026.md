@@ -39,6 +39,10 @@ To help you measure your standing, we offer a high-fidelity **[Free VITEEE 2026 
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the syllabus and section distribution of VITEEE 2026?

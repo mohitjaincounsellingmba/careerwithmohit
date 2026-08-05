@@ -6,8 +6,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for admission to Gitarattan International
-  Business Sc...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - gitarattan international business school (gibs) review 2026
   - gitarattan international business school (gibs) pgdm placements

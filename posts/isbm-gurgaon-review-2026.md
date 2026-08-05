@@ -1,27 +1,55 @@
 ---
-title: "ISB&M Gurgaon (International School of Business & Media) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  ISB&M Gurgaon (International School of Business & Media) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of ISB&M Gurgaon (International School of Business & Media) covering MBA/PGDM fee structures, highest and average placements (₹7.5 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Comprehensive 2026 review of ISB&M Gurgaon (International School of Business &
+  Media) covering MBA/PGDM fee structures, highest and average placements (₹7.5
+  LPA), entrance exam cutoffs, ROI analysis, and direct admission details.
 keywords:
-  - "ISB&M Gurgaon (International School of Business & Media) review 2026"
-  - "ISB&M Gurgaon (International School of Business & Media) mba fees"
-  - "ISB&M Gurgaon (International School of Business & Media) placements 2026"
-  - "ISB&M Gurgaon (International School of Business & Media) admission cutoffs"
-  - "top mba colleges in Sector 112"
+  - ISB&M Gurgaon (International School of Business & Media) review 2026
+  - ISB&M Gurgaon (International School of Business & Media) mba fees
+  - ISB&M Gurgaon (International School of Business & Media) placements 2026
+  - ISB&M Gurgaon (International School of Business & Media) admission cutoffs
+  - top mba colleges in Sector 112
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at ISB&M Gurgaon (International School of Business & Media) in 2026?"
-    answer: "The average package at ISB&M Gurgaon (International School of Business & Media) stands around ₹7.5 LPA, while the highest package has reached up to ₹14.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by ISB&M Gurgaon (International School of Business & Media)?"
-    answer: "ISB&M Gurgaon (International School of Business & Media) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at ISB&M Gurgaon (International School of Business & Media)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at ISB&M Gurgaon (International School of Business & Media) is approximately ₹9.50 Lakhs (Total)."
-location: "Sector 112, Gurugram"
+  - question: >-
+      What is the average package at ISB&M Gurgaon (International School of
+      Business & Media) in 2026?
+    answer: >-
+      The average package at ISB&M Gurgaon (International School of Business &
+      Media) stands around ₹7.5 LPA, while the highest package has reached up to
+      ₹14.0 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by ISB&M Gurgaon (International School of
+      Business & Media)?
+    answer: >-
+      ISB&M Gurgaon (International School of Business & Media) accepts scores
+      from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its
+      flagship management programs.
+  - question: >-
+      What is the total fee structure at ISB&M Gurgaon (International School of
+      Business & Media)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at ISB&M Gurgaon
+      (International School of Business & Media) is approximately ₹9.50 Lakhs
+      (Total).
+location: Gurgaon
 ---
 
-# ISB&M Gurgaon (International School of Business & Media) Review 2026: Fees, Placements, Cutoffs & ROI Analysis
+# ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media)) Review 2026: Fees, Placements, Cutoffs & ROI Analysis
 
-**ISB&M Gurgaon (International School of Business & Media)** continues to be one of the most prominent management destinations in **Sector 112 (Gurugram)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media))** continues to be one of the most prominent management destinations in **Sector 112 (Gurugram)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Gurugram, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 

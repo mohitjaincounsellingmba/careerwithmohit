@@ -3,8 +3,8 @@ title: 'Total Seats in NITs 2026: State-wise Seat Distribution for B.Tech Admiss
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Explore the total seats in 31 NITs across India for
-  2026. Get...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - total seats in NIT 2026
   - NIT seat matrix

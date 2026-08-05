@@ -18,8 +18,8 @@ tags:
   - Top Colleges
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. The ICFAI Business School (IBS) network is one
-  of th...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - career counselling
   - admissions 2026

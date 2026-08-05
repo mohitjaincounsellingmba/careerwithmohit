@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. A complete review of ISBR Bangalore (International
-  School of ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - ISBR Bangalore review
   - ISBR Bangalore placements 2026

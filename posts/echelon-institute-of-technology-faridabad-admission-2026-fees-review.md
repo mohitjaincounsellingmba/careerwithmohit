@@ -5,8 +5,8 @@ title: >-
 date: '2026-07-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to join Echelon
-  Institute of T...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Echelon Institute of Technology Faridabad
   - EIT Faridabad fee structure 2026

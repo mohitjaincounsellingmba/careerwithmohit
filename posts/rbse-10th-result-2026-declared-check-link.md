@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Rajasthan Board (RBSE) has declared the Class 10 board
-  result...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - RBSE 10th result 2026 declared
   - Rajasthan Board 10th result check link

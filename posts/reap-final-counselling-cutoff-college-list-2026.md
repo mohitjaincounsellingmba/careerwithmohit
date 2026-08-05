@@ -5,8 +5,8 @@ title: >-
 date: '2026-07-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for the final REAP 2026 counselling cutoff and
-  colleg...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - REAP final cutoff 2026
   - REAP college list 2026

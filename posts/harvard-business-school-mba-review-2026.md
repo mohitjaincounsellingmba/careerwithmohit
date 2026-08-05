@@ -3,8 +3,8 @@ title: 'Harvard Business School MBA Review 2026: Fees in INR, Placements & Admis
 date: '2026-04-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to study at Harvard
-  Business S...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Harvard Business School MBA 2026
   - Harvard Business School MBA fees in INR

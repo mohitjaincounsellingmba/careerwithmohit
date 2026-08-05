@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-20'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Read the complete 2026 review for the MBA program at
-  [Poornim...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[Poornima University](/colleges/poornima-jaipur) Jaipur MBA review'
   - Poornima MBA fees 2026

@@ -3,8 +3,8 @@ title: 'Hiring: Business Development Executive (SaaS) at Rannkly - Noida, UP'
 date: '2026-03-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Apply for the Business
-  Development Exec...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Business Development Executive (SaaS) jobs
   - Rannkly recruitment

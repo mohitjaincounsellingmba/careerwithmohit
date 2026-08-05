@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-20'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive 2026 review of [Manipal University
-  Jaipur](/col...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[Manipal University Jaipur](/colleges/manipal-university-jaipur) MBA review'
   - MUJ MBA fees 2026

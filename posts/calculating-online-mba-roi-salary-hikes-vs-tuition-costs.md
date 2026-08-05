@@ -4,8 +4,8 @@ date: '2026-06-02'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Calculate the real Return on
-  Investment...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - online MBA ROI calculator
   - online MBA fees vs salary hike

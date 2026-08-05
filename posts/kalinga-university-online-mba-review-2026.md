@@ -6,8 +6,8 @@ date: '2026-05-10'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Honest review of Kalinga
-  University Onl...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Kalinga University online MBA review 2026
   - Kalinga University online MBA fees 2026

@@ -4,8 +4,8 @@ date: '2026-06-25'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking for the best online MBA
-  college...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - best online MBA colleges in Mangalore
   - online MBA course in Mangalore

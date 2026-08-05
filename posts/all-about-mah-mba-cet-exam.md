@@ -3,8 +3,8 @@ title: 'MAH MBA CET 2026: Exam Dates, Syllabus, Pattern & Predicted Cutoffs'
 date: '2026-03-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Prepare for MAH MBA CET 2026 with our ultimate guide.
-  Get the...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MAH MBA CET 2026
   - MAH CET syllabus 2026

@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-02'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Detailed and honest review of all Baby IIMs in India
-  for 2026...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Baby IIMs review 2026
   - Baby IIM list India

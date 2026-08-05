@@ -4,8 +4,8 @@ date: '2026-04-20'
 category: B.Tech Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Definitive list of India's Top 10
-  engin...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - top 10 engineering colleges in india 2026
   - top engineering colleges india nirf ranking 2026

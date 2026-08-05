@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Thinking about joining Jamia Millia Islamia? Get the
-  latest 2...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Jamia Millia Islamia 2026
   - JMI CUET cutoff 2026

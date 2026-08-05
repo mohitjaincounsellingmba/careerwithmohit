@@ -44,6 +44,10 @@ To help you measure your standing, we offer a high-fidelity **[Free [BITS Pilani
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is there a bonus section in the BITSAT exam?

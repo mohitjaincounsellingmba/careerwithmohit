@@ -3,8 +3,8 @@ title: 'Ivey Business School MBA Review 2026: Fees in INR, Placements & Admissio
 date: '2026-04-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to study at Ivey
-  Business Scho...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Ivey Business School MBA 2026
   - Ivey Business School MBA fees in INR

@@ -4,8 +4,8 @@ date: '2026-06-24'
 category: College Comparison
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Compare the top MAT MBA and PGDM
-  colleg...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Compare MAT MBA PGDM colleges
   - best MAT colleges for placement

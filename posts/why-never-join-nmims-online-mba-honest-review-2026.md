@@ -3,8 +3,8 @@ title: 'Why You Should Never Join NMIMS Online MBA: The Brutal Reality Check 202
 date: '2026-03-25'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused by the 'NMIMS' brand name for your online
-  degree? Re...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - NMIMS Online MBA review negative
   - NMIMS distance MBA placement reality

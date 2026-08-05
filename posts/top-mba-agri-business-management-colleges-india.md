@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Explore the best MBA
-  Agri-Business Mana...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MBA Agri-Business Management India 2026
   - Top ABM Colleges 2026

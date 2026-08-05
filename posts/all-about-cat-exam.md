@@ -3,8 +3,8 @@ title: 'CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs'
 date: '2026-03-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Everything you need to know about
-  CAT 2...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - CAT exam 2026
   - CAT exam registration

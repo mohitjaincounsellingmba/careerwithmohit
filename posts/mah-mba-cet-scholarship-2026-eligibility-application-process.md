@@ -3,8 +3,8 @@ title: 'MAH MBA CET Scholarship 2026: Eligibility, MahaDBT Portal & How to Apply
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused about MAH MBA CET scholarships? Learn about
-  EBC, SC,...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MAH CET MBA scholarship 2026
   - MahaDBT portal MBA scholarship

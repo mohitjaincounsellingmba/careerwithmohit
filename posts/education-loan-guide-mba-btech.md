@@ -3,8 +3,8 @@ title: Step-by-Step Education Loan Guide for MBA & B.Tech Admissions (2026)
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. A complete guide to securing an education loan for MBA
-  and B....
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - education loan for MBA
   - education loan for BTech

@@ -6,8 +6,8 @@ date: '2026-04-25'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Complete guide to Executive MBA
-  (EMBA) ...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - executive MBA for working professionals 2026
   - online executive MBA India

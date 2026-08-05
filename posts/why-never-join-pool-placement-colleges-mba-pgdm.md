@@ -3,8 +3,8 @@ title: 'The Pool Placement Trap: Why You Should Never Join These MBA/PGDM Colleg
 date: '2026-03-25'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. An honest warning about pool
-  placements...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - never join pool placement colleges
   - MBA pool placement disadvantages

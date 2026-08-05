@@ -3,8 +3,8 @@ title: 'ISB&M Nande Pune PGDM Review 2026: Fees, Placements, Admission & Cutoff'
 date: '2026-04-20'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for ISB&M Nande Pune reviews? Explore ISB&M
-  Pune plac...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - ISB&M Nande Pune review 2026
   - ISB&M Nande placements

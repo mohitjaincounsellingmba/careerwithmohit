@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: MCA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to specialize in AI or
-  Data Sc...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - mca in data science colleges india 2026
   - mca artificial intelligence specialization

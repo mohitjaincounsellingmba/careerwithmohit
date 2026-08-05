@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-01'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. A complete review of Intellipaat School of
-  Technol...
+  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - Intellipaat School of Technology review
   - IST B.Tech fees 2026

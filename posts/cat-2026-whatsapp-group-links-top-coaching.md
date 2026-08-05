@@ -6,8 +6,8 @@ date: '2026-04-26'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Join the most active CAT 2026 exam preparation WhatsApp
-  and T...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CAT 2026 WhatsApp group links
   - CAT preparation Telegram groups

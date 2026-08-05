@@ -3,8 +3,8 @@ title: 'How to Clear SRM JEE 2026 (SRMJEEE): Complete Strategy, Syllabus & Tips'
 date: '2026-04-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Detailed guide on how to crack SRMJEEE 2026. Covers
-  exam patt...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - how to clear SRM JEE 2026
   - SRMJEEE preparation strategy

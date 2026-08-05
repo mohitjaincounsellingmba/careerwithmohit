@@ -3,8 +3,8 @@ title: JEE Main 2026 Session 2 (2nd Attempt) Exam Review & Detailed Analysis
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive exam review of the JEE Main 2026 Session
-  2 (2nd...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JEE Main 2026 Session 2 exam review
   - JEE Main 2nd attempt analysis 2026

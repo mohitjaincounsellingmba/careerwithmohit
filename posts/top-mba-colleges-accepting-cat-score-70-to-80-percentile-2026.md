@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Scored between 70-80 percentile
-  in CAT ...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - colleges for 70 percentile cat 2026
   - mba colleges for 80 percentile cat

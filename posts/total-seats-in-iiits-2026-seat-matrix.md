@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for IIIT admission? Check the total seats
-  available i...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - total seats in IIIT 2026
   - IIIT seat matrix

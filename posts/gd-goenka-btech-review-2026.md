@@ -3,8 +3,8 @@ title: 'GD Goenka BTech Review 2026: Fees, Placements & Honest Feedback'
 date: '2026-03-30'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking for an unbiased GD Goenka
-  BTech...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - GD Goenka BTech Review 2026
   - GD Goenka engineering fees

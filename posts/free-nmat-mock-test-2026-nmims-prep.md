@@ -42,6 +42,10 @@ To help you measure your standing, we offer a high-fidelity **[Free NMAT 2026 (F
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of NMAT 2026?

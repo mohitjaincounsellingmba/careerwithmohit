@@ -3,8 +3,8 @@ title: 'SASTRA University Online Review 2026: MBA, MCA, M.Com & B.Com Fee Struct
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is SASTRA University Online a premium choice in 2026?
-  Check t...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - SASTRA University Online review 2026
   - SASTRA online MBA fees

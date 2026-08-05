@@ -3,8 +3,8 @@ title: 'JEE Main College Predictor 2026: Predict Your B.Tech Admissions & Top Co
 date: '2026-03-23'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Confused about your JEE rank? Use
-  our B...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - JEE Main college predictor 2026
   - B.Tech college predictor 2026

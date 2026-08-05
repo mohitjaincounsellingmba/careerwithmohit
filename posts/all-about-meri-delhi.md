@@ -6,8 +6,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for admission to MERI Janakpuri (Management
-  Education...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - meri janakpuri (management education and research institute) review 2026
   - meri janakpuri (management education and research institute) pgdm placements

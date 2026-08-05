@@ -4,8 +4,8 @@ date: '2026-03-26'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Reviewing Mody University Online MBA 2026. Discover how
-  its N...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Mody University online MBA review
   - Mody University online fees

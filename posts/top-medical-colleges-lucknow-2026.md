@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: Medical Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning your MBBS in the Heart of Uttar Pradesh?
-  Compare the...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - top medical colleges in lucknow 2026
   - best mbbs colleges lucknow

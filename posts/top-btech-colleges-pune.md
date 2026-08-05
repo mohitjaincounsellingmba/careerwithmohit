@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: B.Tech Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning B.Tech in Pune? Explore the best engineering
-  college...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - top btech colleges in pune 2026
   - best engineering colleges pune 2026

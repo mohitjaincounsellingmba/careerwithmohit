@@ -6,8 +6,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking for admission to Sharda
-  Sambalp...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - sharda sambalpur institute of management review 2026
   - sharda sambalpur institute of management pgdm placements

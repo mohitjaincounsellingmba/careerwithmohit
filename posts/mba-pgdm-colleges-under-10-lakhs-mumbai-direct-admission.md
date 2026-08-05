@@ -3,8 +3,8 @@ title: Top MBA & PGDM Colleges Under 10 Lakhs in Mumbai (Direct Admission 2026)
 date: '2026-03-26'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Explore the top ROI-driven MBA
-  and PGDM...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MBA colleges under 10 lakhs in Mumbai
   - PGDM direct admission Mumbai 2026

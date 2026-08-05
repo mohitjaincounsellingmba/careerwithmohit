@@ -3,8 +3,8 @@ title: 'All About ATMA Exam 2026: Pattern, Flexibility, Cutoffs & Top MBA Colleg
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. A complete guide to the AIMS Test
-  for M...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - ATMA exam 2026
   - ATMA exam pattern

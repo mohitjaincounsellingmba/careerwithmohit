@@ -3,8 +3,8 @@ title: 'Top MAH MBA CET Colleges in Mumbai & Pune 2025: Cutoffs & ROI'
 date: '2026-04-04'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning for MAH MBA CET 2025? Discover the best
-  MBA/MMS coll...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MAH MBA CET colleges
   - JBIMS CET cutoff 2025

@@ -43,6 +43,10 @@ To help you measure your standing, we offer a high-fidelity **[Free NABARD Grade
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the NABARD Grade A Prelims exam?

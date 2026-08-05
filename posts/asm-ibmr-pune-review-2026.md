@@ -1,22 +1,50 @@
 ---
-title: "ASM Institute of Business Management & Research (IBMR) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  ASM Institute of Business Management & Research (IBMR) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of ASM Institute of Business Management & Research (IBMR) covering MBA/PGDM fee structures, highest and average placements (₹7.5 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "ASM Institute of Business Management & Research (IBMR) review 2026"
-  - "ASM Institute of Business Management & Research (IBMR) mba fees"
-  - "ASM Institute of Business Management & Research (IBMR) placements 2026"
-  - "ASM Institute of Business Management & Research (IBMR) admission cutoffs"
-  - "top mba colleges in Chinchwad"
+  - ASM Institute of Business Management & Research (IBMR) review 2026
+  - ASM Institute of Business Management & Research (IBMR) mba fees
+  - ASM Institute of Business Management & Research (IBMR) placements 2026
+  - ASM Institute of Business Management & Research (IBMR) admission cutoffs
+  - top mba colleges in Chinchwad
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at ASM Institute of Business Management & Research (IBMR) in 2026?"
-    answer: "The average package at ASM Institute of Business Management & Research (IBMR) stands around ₹7.5 LPA, while the highest package has reached up to ₹24.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by ASM Institute of Business Management & Research (IBMR)?"
-    answer: "ASM Institute of Business Management & Research (IBMR) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at ASM Institute of Business Management & Research (IBMR)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at ASM Institute of Business Management & Research (IBMR) is approximately ₹3.75L - ₹6.95L (Total)."
-location: "Chinchwad, Pune"
+  - question: >-
+      What is the average package at ASM Institute of Business Management &
+      Research (IBMR) in 2026?
+    answer: >-
+      The average package at ASM Institute of Business Management & Research
+      (IBMR) stands around ₹7.5 LPA, while the highest package has reached up to
+      ₹24.0 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by ASM Institute of Business Management &
+      Research (IBMR)?
+    answer: >-
+      ASM Institute of Business Management & Research (IBMR) accepts scores from
+      CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship
+      management programs.
+  - question: >-
+      What is the total fee structure at ASM Institute of Business Management &
+      Research (IBMR)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at ASM Institute
+      of Business Management & Research (IBMR) is approximately ₹3.75L - ₹6.95L
+      (Total).
+location: Delhi
 ---
 
 # ASM Institute of Business Management & Research (IBMR) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

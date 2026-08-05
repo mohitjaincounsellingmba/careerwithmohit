@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: BCA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Confused if you can do BCA
-  without Math...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - can i do bca without maths in 12th
   - bca colleges for non maths students 2026

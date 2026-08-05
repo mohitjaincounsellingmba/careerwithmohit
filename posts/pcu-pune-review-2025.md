@@ -3,8 +3,8 @@ title: 'Pimpri Chinchwad University (PCU) MBA Review 2025: Tech-Integrated Manag
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is PCU Pune good for MBA? Explore our review of Pimpri
-  Chinch...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - PCU Pune review 2025
   - Pimpri Chinchwad University MBA placements

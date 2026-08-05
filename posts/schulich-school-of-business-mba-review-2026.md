@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to study at Schulich
-  School of...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Schulich School of Business MBA 2026
   - Schulich School of Business MBA fees in INR

@@ -4,8 +4,8 @@ date: '2026-06-04'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Planning to crack CAT 2026? Follow this expert
-  study...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - how to crack cat exam
   - crack cat 2026

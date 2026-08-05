@@ -3,8 +3,8 @@ title: 'IPU CET 2026 UG Exam Updates: Extended Registration & Exam Dates Release
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Latest updates on IPU CET 2026 for Undergraduate
-  courses incl...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - IPU CET 2026 UG
   - GGSIPU registration deadline 2026

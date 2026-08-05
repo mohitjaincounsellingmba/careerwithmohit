@@ -6,8 +6,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Looking for admission to SOIL Institute of
-  Managemen...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - soil institute of management review 2026
   - soil institute of management pgdm placements

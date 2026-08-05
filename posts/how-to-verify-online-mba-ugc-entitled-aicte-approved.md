@@ -4,8 +4,8 @@ date: '2026-06-02'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Confused about the validity of
-  online M...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - verify online MBA approval UGC
   - AICTE approved online MBA

@@ -3,8 +3,8 @@ title: 'MAT May 2026: Confirmed Exam Dates & Step-by-Step Registration Process'
 date: '2026-05-06'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. AIMA has confirmed the MAT May
-  2026 exa...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MAT May 2026 confirmed dates
   - MAT registration process 2026

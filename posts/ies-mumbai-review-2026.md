@@ -1,22 +1,42 @@
 ---
-title: "IES Management College Mumbai Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  IES Management College Mumbai Review 2026: Fees, Placements, Cutoffs & ROI
+  Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IES Management College Mumbai covering MBA/PGDM fee structures, highest and average placements (₹8.20 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IES Management College Mumbai review 2026"
-  - "IES Management College Mumbai mba fees"
-  - "IES Management College Mumbai placements 2026"
-  - "IES Management College Mumbai admission cutoffs"
-  - "top mba colleges in Mumbai"
+  - IES Management College Mumbai review 2026
+  - IES Management College Mumbai mba fees
+  - IES Management College Mumbai placements 2026
+  - IES Management College Mumbai admission cutoffs
+  - top mba colleges in Mumbai
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IES Management College Mumbai in 2026?"
-    answer: "The average package at IES Management College Mumbai stands around ₹8.20 LPA, while the highest package has reached up to ₹16.5 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IES Management College Mumbai?"
-    answer: "IES Management College Mumbai accepts scores from MAH MBA CET, CMAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IES Management College Mumbai?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IES Management College Mumbai is approximately ₹9.0 Lakhs (Total)."
-location: "Mumbai, Maharashtra"
+  - question: What is the average package at IES Management College Mumbai in 2026?
+    answer: >-
+      The average package at IES Management College Mumbai stands around ₹8.20
+      LPA, while the highest package has reached up to ₹16.5 LPA in recent
+      recruitment drives.
+  - question: What entrance exams are accepted by IES Management College Mumbai?
+    answer: >-
+      IES Management College Mumbai accepts scores from MAH MBA CET, CMAT for
+      shortlisting candidates for its flagship management programs.
+  - question: What is the total fee structure at IES Management College Mumbai?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IES Management
+      College Mumbai is approximately ₹9.0 Lakhs (Total).
+location: Delhi
 ---
 
 # IES Management College Mumbai Review 2026: Fees, Placements, Cutoffs & ROI Analysis

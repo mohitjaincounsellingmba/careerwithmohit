@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-20'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for an MBA/PGDM in Jaipur? Read our complete
-  2026 rev...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[Taxila Business School](/colleges/taxila-jaipur) Jaipur review'
   - Taxila PGDM fees 2026

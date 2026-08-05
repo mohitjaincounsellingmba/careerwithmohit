@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Planning to join BBAU in 2026? Find
-  comprehensive de...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - BBAU admission 2026
   - BBAU fees

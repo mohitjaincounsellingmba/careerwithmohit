@@ -4,8 +4,8 @@ date: '2026-05-03'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Looking for the CAT 2026 exam date? Check the
-  tentat...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - CAT 2026 exam date
   - CAT 2026 registration date

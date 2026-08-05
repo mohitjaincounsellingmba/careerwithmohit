@@ -48,7 +48,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Uttaranchal University](/colleges/uttaranchal-university) Dehradun: University Overview & Accreditation
 
-Uttaranchal University in Dehradun, home to the nationally famous Law College Dehradun (LCD), is a NAAC A+ accredited multidisciplinary university. Situated near the Indian Military Academy (IMA) on NH-72, the university is renowned for its premier legal education, agriculture research, and affordable engineering/MBA courses.
+[Uttaranchal University](/colleges/uttaranchal-university) in Dehradun, home to the nationally famous Law College Dehradun (LCD), is a NAAC A+ accredited multidisciplinary university. Situated near the Indian Military Academy (IMA) on NH-72, the university is renowned for its premier legal education, agriculture research, and affordable engineering/MBA courses.
 
 ### Key Institutional Highlights (2026)
 
@@ -65,7 +65,7 @@ Uttaranchal University in Dehradun, home to the nationally famous Law College De
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for Uttaranchal University Dehradun (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [Uttaranchal University](/colleges/uttaranchal-university) Dehradun (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 

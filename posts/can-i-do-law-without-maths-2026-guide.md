@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: Law Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused if you can study Law without Mathematics in
-  12th? Th...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - can i do law without maths in 12th
   - law colleges for non maths students 2026

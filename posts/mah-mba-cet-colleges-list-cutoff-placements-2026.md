@@ -3,8 +3,8 @@ title: 'MAH MBA CET 2026 Colleges List: Cutoff, Placements & Detailed Review'
 date: '2026-04-23'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for MAH MBA CET 2026 colleges? Check the
-  complete lis...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MAH MBA CET 2026 colleges
   - MHCET MBA cutoff 2026

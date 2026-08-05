@@ -5,8 +5,8 @@ title: >-
 date: '2026-06-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Wondering when the NTA will release the CUET UG 2026
-  results?...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CUET UG result date 2026
   - expected CUET UG 2026 result date

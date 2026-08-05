@@ -3,8 +3,8 @@ title: 'How to Start Freelining in 2026: A Step-by-Step Guide for Beginners in I
 date: '2026-03-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Want to be your own boss? Learn how to start
-  freelancing in 2...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - how to start freelancing in India 2026
   - best freelancing platforms for beginners

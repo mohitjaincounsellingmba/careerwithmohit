@@ -1,22 +1,42 @@
 ---
-title: "I Business Institute (IBI) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  I Business Institute (IBI) Review 2026: Fees, Placements, Cutoffs & ROI
+  Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of I Business Institute (IBI) covering MBA/PGDM fee structures, highest and average placements (₹7.50 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
-  - "I Business Institute (IBI) review 2026"
-  - "I Business Institute (IBI) mba fees"
-  - "I Business Institute (IBI) placements 2026"
-  - "I Business Institute (IBI) admission cutoffs"
-  - "top mba colleges in Knowledge Park II"
+  - I Business Institute (IBI) review 2026
+  - I Business Institute (IBI) mba fees
+  - I Business Institute (IBI) placements 2026
+  - I Business Institute (IBI) admission cutoffs
+  - top mba colleges in Knowledge Park II
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at I Business Institute (IBI) in 2026?"
-    answer: "The average package at I Business Institute (IBI) stands around ₹7.50 LPA, while the highest package has reached up to ₹15.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by I Business Institute (IBI)?"
-    answer: "I Business Institute (IBI) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at I Business Institute (IBI)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at I Business Institute (IBI) is approximately ₹10.75 Lakhs (Total)."
-location: "Knowledge Park II, Greater Noida"
+  - question: What is the average package at I Business Institute (IBI) in 2026?
+    answer: >-
+      The average package at I Business Institute (IBI) stands around ₹7.50 LPA,
+      while the highest package has reached up to ₹15.0 LPA in recent
+      recruitment drives.
+  - question: What entrance exams are accepted by I Business Institute (IBI)?
+    answer: >-
+      I Business Institute (IBI) accepts scores from CAT, XAT, CMAT, MAT, ATMA
+      for shortlisting candidates for its flagship management programs.
+  - question: What is the total fee structure at I Business Institute (IBI)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at I Business
+      Institute (IBI) is approximately ₹10.75 Lakhs (Total).
+location: Noida
 ---
 
 # I Business Institute (IBI) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

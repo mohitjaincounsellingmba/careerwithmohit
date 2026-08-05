@@ -1,22 +1,39 @@
 ---
-title: "IIM Rohtak Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Rohtak Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Rohtak covering MBA/PGDM fee structures, highest and average placements (₹18.73 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Rohtak review 2026"
-  - "IIM Rohtak mba fees"
-  - "IIM Rohtak placements 2026"
-  - "IIM Rohtak admission cutoffs"
-  - "top mba colleges in Rohtak"
+  - IIM Rohtak review 2026
+  - IIM Rohtak mba fees
+  - IIM Rohtak placements 2026
+  - IIM Rohtak admission cutoffs
+  - top mba colleges in Rohtak
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Rohtak in 2026?"
-    answer: "The average package at IIM Rohtak stands around ₹18.73 LPA, while the highest package has reached up to ₹48.2 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Rohtak?"
-    answer: "IIM Rohtak accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Rohtak?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Rohtak is approximately ₹17.9 Lakhs (Total)."
-location: "Rohtak, Haryana"
+  - question: What is the average package at IIM Rohtak in 2026?
+    answer: >-
+      The average package at IIM Rohtak stands around ₹18.73 LPA, while the
+      highest package has reached up to ₹48.2 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by IIM Rohtak?
+    answer: >-
+      IIM Rohtak accepts scores from CAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at IIM Rohtak?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM Rohtak is
+      approximately ₹17.9 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Rohtak Review 2026: Fees, Placements, Cutoffs & ROI Analysis

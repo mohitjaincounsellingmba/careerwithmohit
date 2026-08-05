@@ -3,8 +3,8 @@ title: 'Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles Pan In
 date: '2026-04-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Apply for Amazon's Pan-India fresher hiring drive 2026.
-  Oppor...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Amazon fresher hiring 2026
   - Amazon India jobs for freshers

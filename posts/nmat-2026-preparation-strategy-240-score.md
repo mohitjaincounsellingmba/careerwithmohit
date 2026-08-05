@@ -3,8 +3,8 @@ title: 'How to Crack NMAT 2026: 90-Day Strategy for a 240+ Score'
 date: '2026-05-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Aiming for [NMIMS Mumbai](/colleges/nmims-mumbai)?
-  Learn the ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - NMAT 2026 preparation strategy
   - how to score 240 in NMAT

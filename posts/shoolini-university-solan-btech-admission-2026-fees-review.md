@@ -3,8 +3,8 @@ title: 'Shoolini University Solan B.Tech Admission 2026: Fees & Review'
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about Shoolini University
-  Solan (...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Shoolini University BTech admission 2026
   - Shoolini University Solan cutoff

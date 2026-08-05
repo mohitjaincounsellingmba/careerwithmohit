@@ -3,8 +3,8 @@ title: 'ISB&M Pune PGDM Review 2025: Global Placements & Career Growth'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for ISB&M Pune reviews? Explore ISB&M
-  Nande/Mulshi pl...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - ISB&M Pune review 2025
   - ISB&M Pune PGDM placements

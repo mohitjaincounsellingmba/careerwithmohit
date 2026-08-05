@@ -1,22 +1,39 @@
 ---
-title: "IIM Sirmaur Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Sirmaur Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Sirmaur covering MBA/PGDM fee structures, highest and average placements (₹14.45 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Sirmaur review 2026"
-  - "IIM Sirmaur mba fees"
-  - "IIM Sirmaur placements 2026"
-  - "IIM Sirmaur admission cutoffs"
-  - "top mba colleges in Sirmaur"
+  - IIM Sirmaur review 2026
+  - IIM Sirmaur mba fees
+  - IIM Sirmaur placements 2026
+  - IIM Sirmaur admission cutoffs
+  - top mba colleges in Sirmaur
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Sirmaur in 2026?"
-    answer: "The average package at IIM Sirmaur stands around ₹14.45 LPA, while the highest package has reached up to ₹64.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Sirmaur?"
-    answer: "IIM Sirmaur accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Sirmaur?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Sirmaur is approximately ₹16.0 Lakhs (Total)."
-location: "Sirmaur, Himachal Pradesh"
+  - question: What is the average package at IIM Sirmaur in 2026?
+    answer: >-
+      The average package at IIM Sirmaur stands around ₹14.45 LPA, while the
+      highest package has reached up to ₹64.0 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by IIM Sirmaur?
+    answer: >-
+      IIM Sirmaur accepts scores from CAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at IIM Sirmaur?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM Sirmaur is
+      approximately ₹16.0 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Sirmaur Review 2026: Fees, Placements, Cutoffs & ROI Analysis

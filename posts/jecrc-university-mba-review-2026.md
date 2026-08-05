@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-20'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is [JECRC University](/colleges/jecrc-jaipur) good for
-  an MBA...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[JECRC University](/colleges/jecrc-jaipur) Jaipur MBA review'
   - JECRC MBA fees 2026

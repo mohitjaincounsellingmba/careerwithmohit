@@ -3,8 +3,8 @@ title: 'Top MBA Colleges Accepting MAT 2026: Fees, Results, and Expected Cutoffs
 date: '2026-03-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Your absolute guide to the
-  Management A...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MAT 2026 MBA colleges
   - MAT exam results 2026

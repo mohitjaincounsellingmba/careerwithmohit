@@ -3,8 +3,8 @@ title: 'JATF CET 2026: JITO Scholarship & Free UPSC Coaching for Jain Students'
 date: '2026-03-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Prepare for UPSC with a 100% scholarship! Learn about
-  the JAT...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JITO scholarship 2026
   - JATF CET 2026

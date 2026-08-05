@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Not happy with your CBSE Class 12 marks? Check the
-  official s...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CBSE 12th revaluation 2026
   - CBSE 12th rechecking process 2026

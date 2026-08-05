@@ -6,8 +6,8 @@ date: '2026-07-21'
 category: MBBS Abroad
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Detailed guide to studying MBBS in Kazakhstan for
-  Indian stud...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - mbbs colleges in kazakhstan 2026
   - mbbs in kazakhstan fees for indian students

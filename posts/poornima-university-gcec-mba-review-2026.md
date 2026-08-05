@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-25'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is [Poornima University](/colleges/poornima-jaipur)’s
-  GCEC MB...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[Poornima University](/colleges/poornima-jaipur) GCEC MBA review 2026'
   - GCEC Jaipur MBA placement package

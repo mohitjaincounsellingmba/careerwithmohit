@@ -4,8 +4,8 @@ date: '2026-06-16'
 category: Entrance Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Follow our guide to check your
-  MAT May ...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - may mat result check
   - add mat score calculator

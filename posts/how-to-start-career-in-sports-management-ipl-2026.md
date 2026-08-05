@@ -6,8 +6,8 @@ date: '2026-04-23'
 category: Career Counselling
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Want to work with IPL teams or
-  sports a...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - career in sports management India
   - how to work in IPL

@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Is CUK a good choice? Check out the
-  comprehensive Ce...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - Central University of Karnataka review
   - CUK 2026 fees

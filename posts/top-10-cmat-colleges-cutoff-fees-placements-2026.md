@@ -4,8 +4,8 @@ date: '2026-05-12'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Discover the top 10 MBA colleges
-  accept...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - top cmat colleges 2026
   - cmat cutoff 2026

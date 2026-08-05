@@ -4,8 +4,8 @@ date: '2026-06-28'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Calculate your CAT 2026 raw score, scaled
-  score, and...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - CAT 2026 score calculator
   - CAT score calculator 2026

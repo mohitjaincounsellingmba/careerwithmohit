@@ -4,8 +4,8 @@ date: '2026-07-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for the CAT 2026 application form open date?
-  Get the ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CAT 2026 application form open date
   - CAT exam registration 2026

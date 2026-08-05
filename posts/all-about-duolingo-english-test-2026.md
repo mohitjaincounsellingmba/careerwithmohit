@@ -16,8 +16,8 @@ tags:
   - Study in USA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The Duolingo English Test (DET) has become a major
-  contender ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - career counselling
   - admissions 2026

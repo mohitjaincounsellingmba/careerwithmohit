@@ -3,8 +3,8 @@ title: 'MBA in Sustainability vs. Digital Business: Which is the Best Trend for 
 date: '2026-05-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Choosing an MBA specialization? Compare two of
-  the h...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - MBA in Sustainability 2026
   - MBA in Digital Business trends

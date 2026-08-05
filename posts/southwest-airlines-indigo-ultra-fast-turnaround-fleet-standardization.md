@@ -3,8 +3,8 @@ title: 'Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization S
 date: '2026-05-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Analyze the secrets behind Southwest Airlines and
-  IndiGo's ma...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Southwest Airlines fleet standardization
   - IndiGo turnaround time case study

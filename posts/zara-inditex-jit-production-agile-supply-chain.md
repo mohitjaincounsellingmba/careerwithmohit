@@ -3,8 +3,8 @@ title: 'Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Ch
 date: '2026-05-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Dive into Zara's agile supply chain. Discover how
-  Inditex uti...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Zara supply chain case study
   - Zara JIT production fast fashion

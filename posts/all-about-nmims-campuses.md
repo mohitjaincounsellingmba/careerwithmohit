@@ -3,8 +3,8 @@ title: 'All About NMIMS Campuses: Fees, Placements, Rankings, Cutoffs & Reviews 
 date: '2026-03-16'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete guide to all 8 NMIMS campuses – Mumbai, Navi
-  Mumbai,...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - NMIMS campuses review
   - '[NMIMS Mumbai](/colleges/nmims-mumbai) fees'

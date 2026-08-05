@@ -5,8 +5,8 @@ title: >-
 date: '2026-07-21'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Amrita
-  Institute of...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Amrita Medical College Kochi MBBS admission 2026
   - Amrita Medical College Kochi fee structure

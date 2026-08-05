@@ -4,8 +4,8 @@ date: '2026-07-21'
 category: MBBS Abroad
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Guide to studying MBBS in Uzbekistan for Indian
-  students in 2...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - mbbs colleges in uzbekistan 2026
   - mbbs in uzbekistan fees for indian students

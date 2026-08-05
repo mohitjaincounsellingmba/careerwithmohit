@@ -3,8 +3,8 @@ title: 'Fee Refund Policy 2026: AICTE & UGC Guidelines for MBA/PGDM Admissions'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Know your rights for fee refunds in MBA and PGDM
-  admissions. ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - AICTE fee refund policy 2026
   - UGC refund guidelines 2026

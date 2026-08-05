@@ -3,8 +3,8 @@ title: 'Pune Business School (PBS) Review 2025: A Rising PGDM Powerhouse'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Explore the internal details of Pune Business School
-  (PBS). R...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Pune Business School review 2025
   - PBS Pune placements

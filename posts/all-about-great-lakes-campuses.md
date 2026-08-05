@@ -19,8 +19,8 @@ tags:
   - Top Colleges
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Great Lakes Institute of Management (GLIM) has
-  rapid...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - career counselling
   - admissions 2026

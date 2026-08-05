@@ -3,8 +3,8 @@ title: 'All About CLAT Exam 2026: Pattern, Eligibility, Top NLUs & Preparation'
 date: '2026-03-16'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Your comprehensive guide to the Common Law Admission
-  Test (CL...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CLAT exam 2026
   - CLAT pattern

@@ -6,8 +6,8 @@ date: '2026-06-19'
 category: College Reviews
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning to apply to Mithibai College, Mumbai in 2026?
-  Read t...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - mithibai college mumbai admission 2026
   - mithibai college bms selection process

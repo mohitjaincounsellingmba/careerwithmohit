@@ -4,8 +4,8 @@ date: '2026-06-13'
 category: Finance
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Struggling to choose between an MBA in Finance and an
-  MBA in ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - mba in finance vs mba in fintech
   - finance vs fintech mba 2026

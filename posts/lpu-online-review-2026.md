@@ -3,8 +3,8 @@ title: 'LPU Online Review 2026: MBA, MCA, BBA & BCA Fee Breakdown'
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for an honest review of LPU Online in 2026?
-  Check the...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - LPU Online review 2026
   - LPU online MBA fees

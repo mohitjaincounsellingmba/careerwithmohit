@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-02'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is direct admission or management quota possible in
-  [MNIT Jai...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - 'direct admission [MNIT Jaipur](/colleges/mnit-jaipur) BTech'
   - '[MNIT Jaipur](/colleges/mnit-jaipur) management quota 2026'

@@ -3,8 +3,8 @@ title: 'SAITM Gurgaon Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Review of St. Andrews Institute of Technology
-  and Ma...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - SAITM Gurgaon review 2026
   - St. Andrews Gurgaon placements

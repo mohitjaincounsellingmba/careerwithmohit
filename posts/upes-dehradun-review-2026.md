@@ -55,7 +55,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [UPES Dehradun](/colleges/upes-dehradun): University Overview & Accreditation
 
-UPES Dehradun, nestled in the picturesque foothills of the Himalayas at Bidholi and Kandoli, is an internationally acclaimed NAAC A accredited university. Famous for its specialized domain programs in Energy, Logistics, Computer Science (with IBM/Xebia tie-ups), Design, and Law, UPES boasts a 95%+ placement record with top energy and tech giants.
+[UPES Dehradun](/colleges/upes-dehradun), nestled in the picturesque foothills of the Himalayas at Bidholi and Kandoli, is an internationally acclaimed NAAC A accredited university. Famous for its specialized domain programs in Energy, Logistics, Computer Science (with IBM/Xebia tie-ups), Design, and Law, UPES boasts a 95%+ placement record with top energy and tech giants.
 
 ### Key Institutional Highlights (2026)
 
@@ -72,7 +72,7 @@ UPES Dehradun, nestled in the picturesque foothills of the Himalayas at Bidholi 
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for UPES Dehradun (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [UPES Dehradun](/colleges/upes-dehradun) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 

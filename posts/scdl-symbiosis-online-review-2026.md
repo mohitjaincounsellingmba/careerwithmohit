@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is SCDL a good choice in 2026? Check the latest fees,
-  AICTE s...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - SCDL review 2026
   - Symbiosis online MBA fees

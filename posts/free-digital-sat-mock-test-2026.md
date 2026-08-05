@@ -41,6 +41,10 @@ To help you measure your standing, we offer a high-fidelity **[Free Digital SAT 
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the format of the Digital SAT?

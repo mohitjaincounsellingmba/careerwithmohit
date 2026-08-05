@@ -3,8 +3,8 @@ title: 'Top PGDM & MBA Colleges Under 6 Lakhs Fees: Best ROI B-Schools 2027'
 date: '2026-07-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Compare the best budget-friendly
-  PGDM a...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - low fee pgdm colleges in india 2027
   - mba colleges under 6 lakhs fees

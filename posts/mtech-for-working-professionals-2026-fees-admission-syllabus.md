@@ -6,8 +6,8 @@ date: '2026-04-25'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Faridabad, Delhi NCR. Complete guide to M.Tech for Working
-  Professionals...
+  colleges in Faridabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - M.Tech for working professionals 2026
   - MTech working professionals India

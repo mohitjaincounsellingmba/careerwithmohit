@@ -3,8 +3,8 @@ title: '[ASM IIBR](/colleges/asm-iibr) Pune Review 2025: Specialized PGDM Traini
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Thinking of [ASM IIBR](/colleges/asm-iibr)? Explore
-  2025 PGDM...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[ASM IIBR](/colleges/asm-iibr) Pune review 2025'
   - '[ASM IIBR](/colleges/asm-iibr) placements'

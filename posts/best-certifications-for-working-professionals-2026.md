@@ -4,8 +4,8 @@ date: '2026-07-25'
 category: Career Insights
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking to level up your career? Compare the best
-  professiona...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - best certification for working professionals
   - professional certifications 2026

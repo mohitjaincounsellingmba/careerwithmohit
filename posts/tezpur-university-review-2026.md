@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is Tezpur University worth it? Discover 2026 admission
-  detail...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[Tezpur University](/colleges/tezpur-university) admissions 2026'
   - Tezpur University placements

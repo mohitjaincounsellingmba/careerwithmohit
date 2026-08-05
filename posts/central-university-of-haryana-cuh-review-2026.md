@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Comprehensive review of Central University of
-  Haryan...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - Central University of Haryana review
   - CUH 2026 fees

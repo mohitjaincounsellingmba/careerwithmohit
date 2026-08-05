@@ -3,8 +3,8 @@ title: 'EY India Fresher Hiring 2026: Apply for Tech & Consulting Roles'
 date: '2026-04-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. EY India is hiring freshers for the 2026
-  batch. Appl...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - EY fresher hiring 2026
   - EY India careers for freshers

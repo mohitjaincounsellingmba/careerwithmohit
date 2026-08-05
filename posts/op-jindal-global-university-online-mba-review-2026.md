@@ -4,8 +4,8 @@ date: '2026-03-26'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Reviewing OP Jindal Global University's Online MBA in
-  2026. E...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - OP Jindal online MBA review
   - Jindal Global Business School online fees

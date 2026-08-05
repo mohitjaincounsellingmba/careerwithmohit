@@ -3,8 +3,8 @@ title: 'Why You Should Never Join a High Intake MBA College: The Pune Reality (2
 date: '2026-03-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is a batch size of 1,000+ students a death trap for
-  your MBA ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - high intake MBA colleges in Pune
   - disadvantages of high intake MBA

@@ -5,8 +5,8 @@ title: >-
 date: '2026-06-09'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The National Testing Agency (NTA) has officially
-  released the...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CUET UG result 2026
   - CUET UG 2026 answer key out

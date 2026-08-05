@@ -3,8 +3,8 @@ title: 'Top 5 Private B.Tech Colleges under GGSIPU 2026: Fees & Placements'
 date: '2026-07-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Faridabad, Delhi NCR. Looking for top IP University engineering
-  colleges...
+  colleges in Faridabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - top private btech colleges under ggsipu
   - best ip university engineering colleges

@@ -4,8 +4,8 @@ date: '2026-05-03'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning to crack CAT 2026? Follow these 10 expert tips
-  to sc...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - tips to crack cat 2026
   - cat preparation strategy 2026

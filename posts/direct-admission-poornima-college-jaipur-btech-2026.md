@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-02'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Full guide to direct admission in Poornima College of
-  Enginee...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - direct admission Poornima College Jaipur BTech
   - Poornima College BTech management quota 2026

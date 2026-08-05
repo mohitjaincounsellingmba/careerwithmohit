@@ -3,8 +3,8 @@ title: 'All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Top Colleges
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Complete guide to the Xavier Aptitude Test
-  (XAT). ...
+  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - XAT exam 2026
   - XAT pattern and syllabus

@@ -1,22 +1,42 @@
 ---
-title: "ITM Business School (Navi Mumbai) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  ITM Business School (Navi Mumbai) Review 2026: Fees, Placements, Cutoffs & ROI
+  Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of ITM Business School (Navi Mumbai) covering MBA/PGDM fee structures, highest and average placements (₹10.5 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "ITM Business School (Navi Mumbai) review 2026"
-  - "ITM Business School (Navi Mumbai) mba fees"
-  - "ITM Business School (Navi Mumbai) placements 2026"
-  - "ITM Business School (Navi Mumbai) admission cutoffs"
-  - "top mba colleges in Kharghar"
+  - ITM Business School (Navi Mumbai) review 2026
+  - ITM Business School (Navi Mumbai) mba fees
+  - ITM Business School (Navi Mumbai) placements 2026
+  - ITM Business School (Navi Mumbai) admission cutoffs
+  - top mba colleges in Kharghar
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at ITM Business School (Navi Mumbai) in 2026?"
-    answer: "The average package at ITM Business School (Navi Mumbai) stands around ₹10.5 LPA, while the highest package has reached up to ₹25.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by ITM Business School (Navi Mumbai)?"
-    answer: "ITM Business School (Navi Mumbai) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at ITM Business School (Navi Mumbai)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at ITM Business School (Navi Mumbai) is approximately ₹12.45 Lakhs (Total)."
-location: "Kharghar, Navi Mumbai"
+  - question: What is the average package at ITM Business School (Navi Mumbai) in 2026?
+    answer: >-
+      The average package at ITM Business School (Navi Mumbai) stands around
+      ₹10.5 LPA, while the highest package has reached up to ₹25.0 LPA in recent
+      recruitment drives.
+  - question: What entrance exams are accepted by ITM Business School (Navi Mumbai)?
+    answer: >-
+      ITM Business School (Navi Mumbai) accepts scores from CAT, XAT, CMAT, MAT,
+      ATMA for shortlisting candidates for its flagship management programs.
+  - question: What is the total fee structure at ITM Business School (Navi Mumbai)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at ITM Business
+      School (Navi Mumbai) is approximately ₹12.45 Lakhs (Total).
+location: Delhi
 ---
 
 # ITM Business School (Navi Mumbai) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

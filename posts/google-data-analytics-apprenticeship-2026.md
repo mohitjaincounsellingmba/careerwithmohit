@@ -1,10 +1,12 @@
 ---
-title: 'Google Data Analytics Apprenticeship 2026–2027: Eligibility, Stipend, Selection Process & How to Apply'
+title: >-
+  Google Data Analytics Apprenticeship 2026–2027: Eligibility, Stipend,
+  Selection Process & How to Apply
 date: '2026-08-03'
 description: >-
-  Complete career guide for the Google Data Analytics Apprenticeship India
-  (2026–2027 cohort). Discover eligibility criteria, stipend, 24-month
-  work-study program details, required skills, selection timeline, and how to apply.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - Google data analytics apprenticeship 2026
   - Google apprenticeship India
@@ -16,40 +18,50 @@ keywords:
   - data analytics jobs for freshers in India
   - Google India careers
   - data analytics skills for freshers
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the Google Data Analytics Apprenticeship program in India?
     answer: >-
-      The Google Data Analytics Apprenticeship is a 24-month, full-time, in-person
-      work-and-study program designed for recent graduates and individuals with
-      less than one year of relevant data analytics experience. It combines 20%
-      external structured training with 80% on-the-job project work across
-      Google's teams.
+      The Google Data Analytics Apprenticeship is a 24-month, full-time,
+      in-person work-and-study program designed for recent graduates and
+      individuals with less than one year of relevant data analytics experience.
+      It combines 20% external structured training with 80% on-the-job project
+      work across Google's teams.
   - question: Who is eligible to apply for the Google Data Analytics Apprenticeship?
     answer: >-
-      Applicants must hold a Bachelor's degree in any discipline, have less than one
-      year of relevant post-graduation data analytics experience, be Indian
+      Applicants must hold a Bachelor's degree in any discipline, have less than
+      one year of relevant post-graduation data analytics experience, be Indian
       citizens with an Aadhaar number linked to an active mobile/email ID and an
       Aadhaar-seeded bank account, and must not have enrolled in any prior
       government apprenticeship program.
   - question: What is the stipend for the Google Data Analytics Apprenticeship in India?
     answer: >-
-      The apprenticeship is a highly competitive paid program. While official stipend
-      figures vary by location and program year, apprentices in India typically
-      receive an estimated monthly stipend ranging between ₹45,000 and ₹60,000+,
-      along with Google office benefits such as meals, mentorship, and learning
-      resources.
+      The apprenticeship is a highly competitive paid program. While official
+      stipend figures vary by location and program year, apprentices in India
+      typically receive an estimated monthly stipend ranging between ₹45,000 and
+      ₹60,000+, along with Google office benefits such as meals, mentorship, and
+      learning resources.
   - question: Can Google Apprentices be converted to permanent full-time employees?
     answer: >-
       The apprenticeship is a fixed 24-month contract and does not guarantee
-      permanent employment. However, apprentices are eligible to apply for full-time
-      open roles at Google during the final three months of their apprenticeship
-      tenure.
-  - question: Which Google office locations offer the Data Analytics Apprenticeship in India?
+      permanent employment. However, apprentices are eligible to apply for
+      full-time open roles at Google during the final three months of their
+      apprenticeship tenure.
+  - question: >-
+      Which Google office locations offer the Data Analytics Apprenticeship in
+      India?
     answer: >-
       The apprenticeship is an in-person, full-time program offered across major
       Google India office locations including Hyderabad, Bengaluru, Gurugram,
       and Mumbai.
-location: India
+location: Gurgaon
 ---
 Are you a recent graduate or aspiring data professional looking to kickstart your career with one of the world's most innovative technology companies? The **Google Data Analytics Apprenticeship (2026–2027 Cohort)** is one of India's most prestigious entry-level work-and-study programs. Designed specifically for individuals with passion for data and problem-solving, this 24-month immersive program bridges the gap between academic learning and real-world corporate analytics.
 

@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Reviewing Lexicon MILE Pune: Explore the 2025 placement
-  surge...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Lexicon MILE review 2025
   - Lexicon MILE placements

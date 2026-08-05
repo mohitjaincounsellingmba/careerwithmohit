@@ -3,8 +3,8 @@ title: 'IPU CET 2026 PG: Admit Card Out for Phased Exams & Final Schedule'
 date: '2026-05-06'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Indraprastha University (GGSIPU) has started releasing
-  admit ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - IPU CET 2026 PG admit card
   - GGSIPU MBA admission 2026

@@ -3,8 +3,8 @@ title: 'How to Prepare for CAT 2026: Complete Study Plan & Resources'
 date: '2026-05-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. A step‑by‑step guide to ace the CAT 2026 exam. Includes
-  timel...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CAT 2026 preparation
   - how to prepare for CAT

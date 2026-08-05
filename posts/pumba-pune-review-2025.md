@@ -3,8 +3,8 @@ title: '[PUMBA Pune](/colleges/pumba-pune) MBA Review 2024-25: The King of ROI'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Low fees, high returns. Discover why PUMBA (Department
-  of Man...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[PUMBA Pune](/colleges/pumba-pune) review 2025'
   - PUMBA MBA placements

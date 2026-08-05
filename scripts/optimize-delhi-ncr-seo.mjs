@@ -23,30 +23,36 @@ const LOCAL_COLLEGES = [
 ];
 
 function detectGeoFocus(title, content, keywords, slug) {
-  const text = `${title} ${content} ${(keywords || []).join(' ')} ${slug}`.toLowerCase();
+  const text = `${title} ${(keywords || []).join(' ')} ${slug}`.toLowerCase();
   
+  const hasWord = (str, word) => {
+    const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`\\b${escaped}\\b`, 'i');
+    return regex.test(str);
+  };
+
   // Specific match Noida
-  if (LOCATIONS.noida.some(keyword => text.includes(keyword)) || text.includes('bimtech') || text.includes('gniot') || text.includes('galgotias') || text.includes('sharda') || text.includes('lloyd') || text.includes('accurate') || text.includes('gl bajaj') || text.includes('amity noida')) {
+  if (LOCATIONS.noida.some(keyword => hasWord(text, keyword)) || hasWord(text, 'bimtech') || hasWord(text, 'gniot') || hasWord(text, 'galgotias') || hasWord(text, 'sharda') || hasWord(text, 'lloyd') || hasWord(text, 'accurate') || hasWord(text, 'gl bajaj') || text.includes('amity noida')) {
     return { isDelhiNcr: true, city: 'Noida', term: 'Noida, Greater Noida, Delhi NCR' };
   }
   
   // Specific match Gurgaon
-  if (LOCATIONS.gurgaon.some(keyword => text.includes(keyword)) || text.includes('great lakes gurgaon') || text.includes('bml munjal') || text.includes('gd goenka') || text.includes('altera institute')) {
+  if (LOCATIONS.gurgaon.some(keyword => hasWord(text, keyword)) || text.includes('great lakes gurgaon') || hasWord(text, 'bml munjal') || hasWord(text, 'gd goenka') || text.includes('altera institute')) {
     return { isDelhiNcr: true, city: 'Gurgaon', term: 'Gurgaon, Delhi NCR' };
   }
 
   // Specific match Ghaziabad
-  if (LOCATIONS.ghaziabad.some(keyword => text.includes(keyword)) || text.includes('its ghaziabad') || text.includes('ims ghaziabad')) {
+  if (LOCATIONS.ghaziabad.some(keyword => hasWord(text, keyword)) || text.includes('its ghaziabad') || text.includes('ims ghaziabad')) {
     return { isDelhiNcr: true, city: 'Ghaziabad', term: 'Ghaziabad, Delhi NCR' };
   }
 
   // Specific match Faridabad
-  if (LOCATIONS.faridabad.some(keyword => text.includes(keyword))) {
+  if (LOCATIONS.faridabad.some(keyword => hasWord(text, keyword))) {
     return { isDelhiNcr: true, city: 'Faridabad', term: 'Faridabad, Delhi NCR' };
   }
 
   // General Delhi / GGSIPU / NCR
-  if (LOCATIONS.delhi.some(keyword => text.includes(keyword)) || LOCAL_COLLEGES.some(college => text.includes(college))) {
+  if (LOCATIONS.delhi.some(keyword => hasWord(text, keyword)) || LOCAL_COLLEGES.some(college => hasWord(text, college))) {
     return { isDelhiNcr: true, city: 'Delhi', term: 'Delhi NCR' };
   }
 
@@ -111,29 +117,9 @@ function runGeoSeoOptimization() {
 
       // 2. Enrich Description for Local Context
       let desc = parsed.data.description || '';
-      const containsGeo = desc.toLowerCase().includes('delhi') || 
-                          desc.toLowerCase().includes('noida') || 
-                          desc.toLowerCase().includes('gurgaon') || 
-                          desc.toLowerCase().includes('gurugram') || 
-                          desc.toLowerCase().includes('ghaziabad') ||
-                          desc.toLowerCase().includes('ncr');
-
-      if (!containsGeo) {
-        const collegeName = parsed.data.title || slug.replace(/-/g, ' ');
+      if (!desc || desc.trim() === '' || desc.startsWith('Discover rankings, direct admission')) {
         const locationPrefix = `Discover rankings, direct admission, fees, and placement reports for top colleges in ${geo.term}. `;
-        
-        if (desc.trim() !== '') {
-          // Prepend or adjust description
-          desc = `${locationPrefix}${desc}`;
-        } else {
-          desc = `${locationPrefix}Get details on top colleges under GGSIPU, DU, and private universities in Delhi NCR, curated by Mohit Jain.`;
-        }
-
-        // Limit description to 160 characters for clean SEO snippet
-        if (desc.length > 160) {
-          desc = desc.substring(0, 157) + '...';
-        }
-
+        desc = `${locationPrefix}Get details on top colleges under GGSIPU, DU, and private universities in Delhi NCR, curated by Mohit Jain.`.slice(0, 160);
         parsed.data.description = desc;
         changed = true;
       }

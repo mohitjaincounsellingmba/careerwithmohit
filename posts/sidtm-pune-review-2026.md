@@ -1,22 +1,56 @@
 ---
-title: "SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) Review
+  2026: Fees, Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) covering MBA/PGDM fee structures, highest and average placements (₹12.78 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) review 2026"
-  - "SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) mba fees"
-  - "SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) placements 2026"
-  - "SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) admission cutoffs"
-  - "top mba colleges in Pune"
+  - >-
+    SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) review
+    2026
+  - SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) mba fees
+  - >-
+    SIDTM Pune (Symbiosis Institute of Digital and Telecom Management)
+    placements 2026
+  - >-
+    SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) admission
+    cutoffs
+  - top mba colleges in Pune
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) in 2026?"
-    answer: "The average package at SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) stands around ₹12.78 LPA, while the highest package has reached up to ₹27.83 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by SIDTM Pune (Symbiosis Institute of Digital and Telecom Management)?"
-    answer: "SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) accepts scores from SNAP for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at SIDTM Pune (Symbiosis Institute of Digital and Telecom Management)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) is approximately ₹18.0 Lakhs (Total)."
-location: "Pune, Maharashtra"
+  - question: >-
+      What is the average package at SIDTM Pune (Symbiosis Institute of Digital
+      and Telecom Management) in 2026?
+    answer: >-
+      The average package at SIDTM Pune (Symbiosis Institute of Digital and
+      Telecom Management) stands around ₹12.78 LPA, while the highest package
+      has reached up to ₹27.83 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by SIDTM Pune (Symbiosis Institute of
+      Digital and Telecom Management)?
+    answer: >-
+      SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) accepts
+      scores from SNAP for shortlisting candidates for its flagship management
+      programs.
+  - question: >-
+      What is the total fee structure at SIDTM Pune (Symbiosis Institute of
+      Digital and Telecom Management)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at SIDTM Pune
+      (Symbiosis Institute of Digital and Telecom Management) is approximately
+      ₹18.0 Lakhs (Total).
+location: Delhi
 ---
 
 # SIDTM Pune (Symbiosis Institute of Digital and Telecom Management) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

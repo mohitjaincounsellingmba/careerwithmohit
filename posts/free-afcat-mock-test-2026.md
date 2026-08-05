@@ -42,6 +42,10 @@ To help you measure your standing, we offer a high-fidelity **[Free AFCAT 2026 M
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the exam pattern for AFCAT 2026?

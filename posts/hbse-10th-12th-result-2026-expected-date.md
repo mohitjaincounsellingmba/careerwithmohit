@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-10'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The Board of School Education, Haryana (BSEH) is
-  expected to ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - HBSE 10th result 2026 date
   - HBSE 12th result 2026 expected date

@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: Medical Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Aiming for a government medical seat in 2026? Get the
-  complet...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - neet 2026 preparation strategy
   - neet 2026 exam date

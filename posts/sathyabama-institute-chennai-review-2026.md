@@ -5,8 +5,8 @@ title: >-
 date: '2026-08-03'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive review of Sathyabama Institute of Science
-  and T...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Sathyabama University Chennai review 2026
   - Sathyabama University Chennai placements 2026

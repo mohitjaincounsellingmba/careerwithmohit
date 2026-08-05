@@ -4,8 +4,8 @@ date: '2026-05-15'
 category: BBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about the 5-Year Integrated
-  Progr...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - iim ranchi ipm admission 2026
   - iim ranchi ipmat fees

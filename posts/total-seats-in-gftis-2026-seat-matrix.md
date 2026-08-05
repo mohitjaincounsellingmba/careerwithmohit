@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Check the total seats in GFTIs through JoSAA 2026
-  counselling...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - total seats in GFTI 2026
   - GFTI seat matrix JoSAA

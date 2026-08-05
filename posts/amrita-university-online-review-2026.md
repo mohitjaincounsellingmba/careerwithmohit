@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is Amrita Online a good choice in 2026? Check the
-  latest fees...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Amrita Vishwa Vidyapeetham Online review 2026
   - Amrita online MBA fees

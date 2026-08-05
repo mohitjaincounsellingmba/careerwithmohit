@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is SCMHRD the best for HR? Explore [SCMHRD
-  Pune](/colleges/sc...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[SCMHRD Pune](/colleges/scmhrd-pune) review 2025'
   - '[SCMHRD Pune](/colleges/scmhrd-pune) MBA placements'

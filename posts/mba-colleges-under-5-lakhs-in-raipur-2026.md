@@ -4,8 +4,8 @@ date: '2026-06-05'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for affordable MBA options in Raipur? Check our
-  list ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MBA Colleges under 5 Lakhs in Raipur
   - affordable MBA in Raipur

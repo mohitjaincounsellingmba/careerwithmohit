@@ -4,8 +4,8 @@ date: '2026-06-20'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Faridabad, Delhi NCR. Looking for affordable MBA options in
-  Faridabad? C...
+  colleges in Faridabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - MBA Colleges under 10 Lakhs in Faridabad
   - affordable MBA in Faridabad

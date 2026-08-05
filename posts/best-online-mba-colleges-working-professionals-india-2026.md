@@ -4,8 +4,8 @@ date: '2026-04-03'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Discover the best online MBA
-  colleges i...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - best online MBA for working professionals India
   - NMIMS online MBA fees 2026

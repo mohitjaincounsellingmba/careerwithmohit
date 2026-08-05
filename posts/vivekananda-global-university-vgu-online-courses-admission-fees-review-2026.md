@@ -6,8 +6,8 @@ date: '2026-03-28'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive guide to Vivekananda Global University
-  (VGU) On...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - VGU online courses
   - Vivekananda Global University online review

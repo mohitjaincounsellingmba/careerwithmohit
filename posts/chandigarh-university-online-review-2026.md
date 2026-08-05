@@ -3,8 +3,8 @@ title: 'Chandigarh University Online Review 2026: MBA, MCA, BBA & BCA Fee Struct
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is Chandigarh University Online a good choice in 2026?
-  Honest...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Chandigarh University Online review 2026
   - Chandigarh online MBA fees

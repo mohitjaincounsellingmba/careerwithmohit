@@ -3,8 +3,8 @@ title: 'FMS IRM Jaipur PGDM Review 2026: Placements, Fees & Cutoff'
 date: '2026-03-20'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about FMS IRM Jaipur: fees,
-  2024-...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - FMS IRM Jaipur review
   - FMS IRM fees 2026

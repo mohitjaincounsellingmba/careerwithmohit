@@ -1,22 +1,39 @@
 ---
-title: "IIM Kozhikode Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Kozhikode Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Kozhikode covering MBA/PGDM fee structures, highest and average placements (₹31.02 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Kozhikode review 2026"
-  - "IIM Kozhikode mba fees"
-  - "IIM Kozhikode placements 2026"
-  - "IIM Kozhikode admission cutoffs"
-  - "top mba colleges in Kozhikode"
+  - IIM Kozhikode review 2026
+  - IIM Kozhikode mba fees
+  - IIM Kozhikode placements 2026
+  - IIM Kozhikode admission cutoffs
+  - top mba colleges in Kozhikode
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Kozhikode in 2026?"
-    answer: "The average package at IIM Kozhikode stands around ₹31.02 LPA, while the highest package has reached up to ₹67.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Kozhikode?"
-    answer: "IIM Kozhikode accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Kozhikode?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Kozhikode is approximately ₹20.5 Lakhs (Total)."
-location: "Kozhikode, Kerala"
+  - question: What is the average package at IIM Kozhikode in 2026?
+    answer: >-
+      The average package at IIM Kozhikode stands around ₹31.02 LPA, while the
+      highest package has reached up to ₹67.0 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by IIM Kozhikode?
+    answer: >-
+      IIM Kozhikode accepts scores from CAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at IIM Kozhikode?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM Kozhikode
+      is approximately ₹20.5 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Kozhikode Review 2026: Fees, Placements, Cutoffs & ROI Analysis

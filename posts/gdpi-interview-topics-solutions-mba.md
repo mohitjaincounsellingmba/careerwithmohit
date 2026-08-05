@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Master your MBA admission with 20 trending GD topics
-  for 2026...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - GD topics for MBA 2026 with solutions
   - MBA interview questions 2026

@@ -4,8 +4,8 @@ date: '2026-06-05'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning your MBA in East India? Read our list of best
-  MBA/PG...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MBA Colleges Accepting MAT Score in Kolkata
   - imi kolkata mat cutoff

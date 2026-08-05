@@ -43,6 +43,10 @@ To help you dominate the 2026 exam, we've launched a **[Free Full-Length JEE Adv
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the exam date and organizing body for JEE Advanced 2026?

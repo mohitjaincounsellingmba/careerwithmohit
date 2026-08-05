@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete guide to top universities in Hungary for
-  Indian stud...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - universities in Hungary for Indian students 2026
   - study in Hungary fees in INR

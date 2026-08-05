@@ -3,8 +3,8 @@ title: 'Mahatma Gandhi Central University (MGCUB) Review 2026: Fees & Placements
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Detailed 2026 review of Mahatma Gandhi Central
-  Unive...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - MGCUB review 2026
   - Mahatma Gandhi Central University placements

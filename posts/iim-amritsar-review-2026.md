@@ -1,22 +1,39 @@
 ---
-title: "IIM Amritsar Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Amritsar Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Amritsar covering MBA/PGDM fee structures, highest and average placements (₹16.51 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Amritsar review 2026"
-  - "IIM Amritsar mba fees"
-  - "IIM Amritsar placements 2026"
-  - "IIM Amritsar admission cutoffs"
-  - "top mba colleges in Amritsar"
+  - IIM Amritsar review 2026
+  - IIM Amritsar mba fees
+  - IIM Amritsar placements 2026
+  - IIM Amritsar admission cutoffs
+  - top mba colleges in Amritsar
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Amritsar in 2026?"
-    answer: "The average package at IIM Amritsar stands around ₹16.51 LPA, while the highest package has reached up to ₹36.25 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Amritsar?"
-    answer: "IIM Amritsar accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Amritsar?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Amritsar is approximately ₹16.0 Lakhs (Total)."
-location: "Amritsar, Punjab"
+  - question: What is the average package at IIM Amritsar in 2026?
+    answer: >-
+      The average package at IIM Amritsar stands around ₹16.51 LPA, while the
+      highest package has reached up to ₹36.25 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by IIM Amritsar?
+    answer: >-
+      IIM Amritsar accepts scores from CAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at IIM Amritsar?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM Amritsar is
+      approximately ₹16.0 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Amritsar Review 2026: Fees, Placements, Cutoffs & ROI Analysis

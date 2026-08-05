@@ -3,8 +3,8 @@ title: 'Arithmetic‑Heavy SNAP Quant 2026: Questions That Are Repeating Every Y
 date: '2026-05-21'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Learn the most repeated arithmetic and quantitative
-  questions...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - SNAP Quant prep
   - arithmetic shortcuts

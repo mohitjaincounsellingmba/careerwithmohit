@@ -3,8 +3,8 @@ title: 'Sri Balaji University Pune (SBUP) MBA Honest Review 2026: The Critical R
 date: '2026-05-02'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is Sri Balaji University Pune (BIMM) worth it? Read
-  this hone...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Sri Balaji University Pune review 2026
   - BIMM Pune honest review

@@ -6,8 +6,8 @@ date: '2026-07-20'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking for the best CAT 2026
-  coaching?...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - best cat coaching 2026
   - cat exam coaching fees

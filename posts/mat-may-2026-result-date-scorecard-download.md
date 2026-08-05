@@ -3,8 +3,8 @@ title: 'MAT May 2026 Result Date: Expected Scorecard Release & How to Download'
 date: '2026-05-30'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. MAT May 2026 result is expected
-  in the ...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MAT May 2026 result date
   - MAT May 2026 result

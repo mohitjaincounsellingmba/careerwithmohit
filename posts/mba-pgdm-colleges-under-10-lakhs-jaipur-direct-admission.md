@@ -3,8 +3,8 @@ title: Top MBA Colleges Under 10 Lakhs in Jaipur (Direct Admission 2026)
 date: '2026-03-26'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking for an MBA in Jaipur?
-  Explore t...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MBA colleges under 10 lakhs in Jaipur
   - MBA direct admission Jaipur 2026

@@ -3,8 +3,8 @@ title: 'MAT Exam May 2026: Important Dates, Registration & Top Colleges'
 date: '2026-04-02'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Everything you need to know about
-  the M...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MAT May 2026 exam date
   - MAT exam registration May 2026

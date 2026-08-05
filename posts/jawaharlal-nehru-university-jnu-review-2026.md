@@ -3,8 +3,8 @@ title: 'Jawaharlal Nehru University (JNU) Review 2026: Fees, Placements & CUET C
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Thinking about joining Jawaharlal Nehru University? Get
-  the l...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Jawaharlal Nehru University 2026
   - JNU CUET cutoff 2026

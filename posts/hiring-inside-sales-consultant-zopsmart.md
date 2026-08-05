@@ -3,8 +3,8 @@ title: 'Hiring: Inside Sales Consultant at Zopsmart - Noida, UP'
 date: '2026-03-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Apply for the Inside Sales
-  Consultant r...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Inside Sales Consultant jobs
   - Zopsmart recruitment

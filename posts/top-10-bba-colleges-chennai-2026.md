@@ -3,8 +3,8 @@ title: 'Top 10 BBA Colleges in Chennai 2026: Fees, Placements & Admission'
 date: '2026-05-10'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Discover the top 10 BBA colleges in Chennai for 2026.
-  Get det...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - top 10 bba colleges in Chennai 2026
   - best bba colleges in Chennai

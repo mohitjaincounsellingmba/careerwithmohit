@@ -1,22 +1,51 @@
 ---
-title: "New Delhi Institute of Info Tech & Management (NDIIT) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  New Delhi Institute of Info Tech & Management (NDIIT) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of New Delhi Institute of Info Tech & Management (NDIIT) covering MBA/PGDM fee structures, highest and average placements (₹7.50 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Comprehensive 2026 review of New Delhi Institute of Info Tech & Management
+  (NDIIT) covering MBA/PGDM fee structures, highest and average placements
+  (₹7.50 LPA), entrance exam cutoffs, ROI analysis, and direct admission
+  details.
 keywords:
-  - "New Delhi Institute of Info Tech & Management (NDIIT) review 2026"
-  - "New Delhi Institute of Info Tech & Management (NDIIT) mba fees"
-  - "New Delhi Institute of Info Tech & Management (NDIIT) placements 2026"
-  - "New Delhi Institute of Info Tech & Management (NDIIT) admission cutoffs"
-  - "top mba colleges in Kalkaji"
+  - New Delhi Institute of Info Tech & Management (NDIIT) review 2026
+  - New Delhi Institute of Info Tech & Management (NDIIT) mba fees
+  - New Delhi Institute of Info Tech & Management (NDIIT) placements 2026
+  - New Delhi Institute of Info Tech & Management (NDIIT) admission cutoffs
+  - top mba colleges in Kalkaji
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at New Delhi Institute of Info Tech & Management (NDIIT) in 2026?"
-    answer: "The average package at New Delhi Institute of Info Tech & Management (NDIIT) stands around ₹7.50 LPA, while the highest package has reached up to ₹18.00 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by New Delhi Institute of Info Tech & Management (NDIIT)?"
-    answer: "New Delhi Institute of Info Tech & Management (NDIIT) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at New Delhi Institute of Info Tech & Management (NDIIT)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at New Delhi Institute of Info Tech & Management (NDIIT) is approximately ₹5.80 Lakhs (Total)."
-location: "Kalkaji, South Delhi"
+  - question: >-
+      What is the average package at New Delhi Institute of Info Tech &
+      Management (NDIIT) in 2026?
+    answer: >-
+      The average package at New Delhi Institute of Info Tech & Management
+      (NDIIT) stands around ₹7.50 LPA, while the highest package has reached up
+      to ₹18.00 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by New Delhi Institute of Info Tech &
+      Management (NDIIT)?
+    answer: >-
+      New Delhi Institute of Info Tech & Management (NDIIT) accepts scores from
+      CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship
+      management programs.
+  - question: >-
+      What is the total fee structure at New Delhi Institute of Info Tech &
+      Management (NDIIT)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at New Delhi
+      Institute of Info Tech & Management (NDIIT) is approximately ₹5.80 Lakhs
+      (Total).
+location: Delhi
 ---
 
 # New Delhi Institute of Info Tech & Management (NDIIT) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

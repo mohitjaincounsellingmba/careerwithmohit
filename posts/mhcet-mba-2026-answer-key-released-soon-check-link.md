@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. MHCET MBA 2026 Answer Key is expected soon after Phase
-  1 (Apr...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MHCET MBA 2026 answer key
   - MAH MBA CET 2026 response sheet

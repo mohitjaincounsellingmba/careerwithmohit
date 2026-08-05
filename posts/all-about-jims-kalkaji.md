@@ -3,8 +3,8 @@ title: 'JIMS Kalkaji Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. In-depth review of JIMS Kalkaji. Check out the 100%
-  placement...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JIMS Kalkaji review 2026
   - JIMS Kalkaji placements 2025

@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning for an MBA in Bangalore? Discover the best
-  B-schools...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - top mba colleges in bangalore 2026
   - best b-schools bangalore

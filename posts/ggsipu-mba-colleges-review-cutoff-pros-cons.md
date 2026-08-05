@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is GGSIPU MBA worth it in 2026? Get an honest review of
-  IPU M...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - IPU MBA review 2026
   - GGSIPU MBA cut off 2026

@@ -4,8 +4,8 @@ date: '2026-05-15'
 category: BBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about IIM Indore's 5-Year
-  Integra...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - iim indore ipm admission 2026
   - iim indore ipmat fees

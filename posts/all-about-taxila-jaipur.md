@@ -4,8 +4,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for admission to Taxila Business School? Read
-  our com...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - taxila business school review 2026
   - taxila business school pgdm placements

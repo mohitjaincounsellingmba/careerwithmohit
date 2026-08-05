@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Discover the top hiring companies for every MBA/PGDM
-  speciali...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MBA recruiters India 2026
   - PGDM placement companies

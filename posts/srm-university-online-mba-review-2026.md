@@ -6,8 +6,8 @@ date: '2026-05-10'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is SRM University online MBA worth it in 2026? Check
-  real fee...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - SRM University online MBA review 2026
   - SRMIST online MBA fees 2026

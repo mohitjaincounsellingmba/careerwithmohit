@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-02'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Discover an honest review of K. J. Somaiya College of
-  Enginee...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - KJ Somaiya BTech review
   - KJSCE Vidyavihar placements

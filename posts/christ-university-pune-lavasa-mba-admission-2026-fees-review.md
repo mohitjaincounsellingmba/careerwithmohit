@@ -3,8 +3,8 @@ title: 'Christ University (Pune Lavasa) MBA Admission 2026: Fees & Review'
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about MBA at Christ
-  University (P...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Christ University Pune Lavasa MBA admission 2026
   - Christ University Pune Lavasa MBA fees

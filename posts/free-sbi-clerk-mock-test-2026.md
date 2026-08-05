@@ -40,6 +40,10 @@ To help you measure your standing, we offer a high-fidelity **[Free SBI Clerk 20
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of SBI Clerk Prelims?

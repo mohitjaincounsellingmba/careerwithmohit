@@ -4,8 +4,8 @@ date: '2026-06-17'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Discover the importance and scope of an MBA in
-  Finan...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - mba in finance with business analytics
   - mba finance and business analytics scope

@@ -1,22 +1,49 @@
 ---
-title: "XIMB (Xavier Institute of Management Bhubaneswar) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  XIMB (Xavier Institute of Management Bhubaneswar) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of XIMB (Xavier Institute of Management Bhubaneswar) covering MBA/PGDM fee structures, highest and average placements (₹20.03 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "XIMB (Xavier Institute of Management Bhubaneswar) review 2026"
-  - "XIMB (Xavier Institute of Management Bhubaneswar) mba fees"
-  - "XIMB (Xavier Institute of Management Bhubaneswar) placements 2026"
-  - "XIMB (Xavier Institute of Management Bhubaneswar) admission cutoffs"
-  - "top mba colleges in Bhubaneswar"
+  - XIMB (Xavier Institute of Management Bhubaneswar) review 2026
+  - XIMB (Xavier Institute of Management Bhubaneswar) mba fees
+  - XIMB (Xavier Institute of Management Bhubaneswar) placements 2026
+  - XIMB (Xavier Institute of Management Bhubaneswar) admission cutoffs
+  - top mba colleges in Bhubaneswar
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at XIMB (Xavier Institute of Management Bhubaneswar) in 2026?"
-    answer: "The average package at XIMB (Xavier Institute of Management Bhubaneswar) stands around ₹20.03 LPA, while the highest package has reached up to ₹71.5 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by XIMB (Xavier Institute of Management Bhubaneswar)?"
-    answer: "XIMB (Xavier Institute of Management Bhubaneswar) accepts scores from XAT, CAT, NMAT, X-GMT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at XIMB (Xavier Institute of Management Bhubaneswar)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at XIMB (Xavier Institute of Management Bhubaneswar) is approximately ₹22.0 Lakhs (Total)."
-location: "Bhubaneswar, Odisha"
+  - question: >-
+      What is the average package at XIMB (Xavier Institute of Management
+      Bhubaneswar) in 2026?
+    answer: >-
+      The average package at XIMB (Xavier Institute of Management Bhubaneswar)
+      stands around ₹20.03 LPA, while the highest package has reached up to
+      ₹71.5 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by XIMB (Xavier Institute of Management
+      Bhubaneswar)?
+    answer: >-
+      XIMB (Xavier Institute of Management Bhubaneswar) accepts scores from XAT,
+      CAT, NMAT, X-GMT for shortlisting candidates for its flagship management
+      programs.
+  - question: >-
+      What is the total fee structure at XIMB (Xavier Institute of Management
+      Bhubaneswar)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at XIMB (Xavier
+      Institute of Management Bhubaneswar) is approximately ₹22.0 Lakhs (Total).
+location: Delhi
 ---
 
 # XIMB (Xavier Institute of Management Bhubaneswar) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

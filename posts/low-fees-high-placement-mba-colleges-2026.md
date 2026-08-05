@@ -3,8 +3,8 @@ title: 'Low Fees, High Placement MBA Colleges 2026: The Ultimate ROI Guide'
 date: '2026-03-19'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Discover the best value-for-money
-  MBA/P...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - low fees high placement mba colleges 2026
   - roi mba colleges india

@@ -6,8 +6,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Looking for admission to Jaipuria School of
-  Busine...
+  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - jaipuria school of business review 2026
   - jaipuria school of business pgdm placements

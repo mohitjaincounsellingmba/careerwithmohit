@@ -3,8 +3,8 @@ title: XIME KOCHI REVIEW
 date: '2026-03-31'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for a XIME Kochi PGDM honest review? Read why
-  some st...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - XIME Kochi negative review
   - XIME Kochi placement reality 2026

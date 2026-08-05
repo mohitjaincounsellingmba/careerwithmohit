@@ -3,8 +3,8 @@ title: 'Guru Kashi University Online Review 2026: MBA, MCA, BBA & BCA Fee Struct
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is Guru Kashi University Online a good choice in 2026?
-  Check ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Guru Kashi University Online review 2026
   - Guru Kashi online MBA fees

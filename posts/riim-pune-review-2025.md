@@ -3,8 +3,8 @@ title: '[RIIM Pune](/colleges/riim-pune) Review 2025: High ROI & Practical Learn
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is [RIIM Pune](/colleges/riim-pune) good for MBA/PGDM?
-  Discov...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[RIIM Pune](/colleges/riim-pune) review 2025'
   - '[RIIM Pune](/colleges/riim-pune) placements'

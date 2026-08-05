@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-02'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete guide to direct admission in SKIT (Swami
-  Keshvanand ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - direct admission SKIT Jaipur BTech
   - SKIT Jaipur management quota 2026

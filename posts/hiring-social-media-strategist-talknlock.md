@@ -3,8 +3,8 @@ title: 'Hiring: Social Media Strategist at Talknlock - Jaipur, RJ'
 date: '2026-03-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Apply for the Social Media Strategist role at
-  Talknlock. Sala...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Social Media Strategist jobs
   - Talknlock recruitment

@@ -14,7 +14,10 @@ tags:
   - ISB Admission
   - GMAT Focus Edition
   - Study Abroad
-description: "Discover rankings, direct admission, fees, and placement reports for top colleges in Delhi NCR. \U0001F4CA GMAT Focus Edition 2026 Snapshot | Category | Details | | ..."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - career counselling
   - admissions 2026

@@ -1,27 +1,54 @@
 ---
-title: "New Delhi Institute of Management (NDIM) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  New Delhi Institute of Management (NDIM) Review 2026: Fees, Placements,
+  Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of New Delhi Institute of Management (NDIM) covering MBA/PGDM fee structures, highest and average placements (₹9.50 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Comprehensive 2026 review of New Delhi Institute of Management (NDIM) covering
+  MBA/PGDM fee structures, highest and average placements (₹9.50 LPA), entrance
+  exam cutoffs, ROI analysis, and direct admission details.
 keywords:
-  - "New Delhi Institute of Management (NDIM) review 2026"
-  - "New Delhi Institute of Management (NDIM) mba fees"
-  - "New Delhi Institute of Management (NDIM) placements 2026"
-  - "New Delhi Institute of Management (NDIM) admission cutoffs"
-  - "top mba colleges in Tughlakabad"
+  - New Delhi Institute of Management (NDIM) review 2026
+  - New Delhi Institute of Management (NDIM) mba fees
+  - New Delhi Institute of Management (NDIM) placements 2026
+  - New Delhi Institute of Management (NDIM) admission cutoffs
+  - top mba colleges in Tughlakabad
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at New Delhi Institute of Management (NDIM) in 2026?"
-    answer: "The average package at New Delhi Institute of Management (NDIM) stands around ₹9.50 LPA, while the highest package has reached up to ₹24.00 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by New Delhi Institute of Management (NDIM)?"
-    answer: "New Delhi Institute of Management (NDIM) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at New Delhi Institute of Management (NDIM)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at New Delhi Institute of Management (NDIM) is approximately ₹11.50L - ₹13.75L (Total)."
-location: "Tughlakabad, South Delhi"
+  - question: >-
+      What is the average package at New Delhi Institute of Management (NDIM) in
+      2026?
+    answer: >-
+      The average package at New Delhi Institute of Management (NDIM) stands
+      around ₹9.50 LPA, while the highest package has reached up to ₹24.00 LPA
+      in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by New Delhi Institute of Management
+      (NDIM)?
+    answer: >-
+      New Delhi Institute of Management (NDIM) accepts scores from CAT, XAT,
+      CMAT, MAT, ATMA for shortlisting candidates for its flagship management
+      programs.
+  - question: >-
+      What is the total fee structure at New Delhi Institute of Management
+      (NDIM)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at New Delhi
+      Institute of Management (NDIM) is approximately ₹11.50L - ₹13.75L (Total).
+location: Delhi
 ---
 
-# New Delhi Institute of Management (NDIM) Review 2026: Fees, Placements, Cutoffs & ROI Analysis
+# [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) Review 2026: Fees, Placements, Cutoffs & ROI Analysis
 
-**New Delhi Institute of Management (NDIM)** continues to be one of the most prominent management destinations in **Tughlakabad (South Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** continues to be one of the most prominent management destinations in **Tughlakabad (South Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in South Delhi, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 

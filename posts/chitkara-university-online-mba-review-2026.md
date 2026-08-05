@@ -4,8 +4,8 @@ date: '2026-03-26'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is Chitkara University Online MBA worth it? Read our
-  2026 rev...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Chitkara University online MBA review
   - Chitkara online MBA fees

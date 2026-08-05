@@ -6,8 +6,8 @@ date: '2026-04-12'
 category: Career Counselling
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Choosing between a creative field like Interior Design
-  and an...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Interior Designing vs BBA Digital Marketing
   - career after 12th India 2026

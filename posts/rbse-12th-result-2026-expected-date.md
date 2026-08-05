@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-30'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The Rajasthan Board (RBSE) Class 12 Result 2026 for
-  Science, ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - RBSE 12th result 2026 expected date
   - Rajasthan Board 12th result date Science Commerce Arts

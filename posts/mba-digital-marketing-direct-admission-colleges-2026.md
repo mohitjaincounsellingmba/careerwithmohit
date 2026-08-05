@@ -4,8 +4,8 @@ date: '2026-03-27'
 category: Specializations
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning a career in Digital
-  Marketing?...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MBA in digital marketing direct admission 2026
   - MBA digital marketing colleges near me

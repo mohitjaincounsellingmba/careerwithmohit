@@ -2,7 +2,9 @@
 title: 'CAT Quant Important Questions with Solutions 2026: Topic-Wise Practice Guide'
 date: '2026-08-03'
 description: >-
-  Master CAT 2026 Quantitative Aptitude with important practice questions and detailed step-by-step solutions across Arithmetic, Algebra, Geometry, and Number System.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - cat quant important questions with solutions
   - cat quant practice questions 2026
@@ -24,16 +26,27 @@ keywords:
 faqs:
   - question: Which topics carry the highest weightage in CAT Quant?
     answer: >-
-      **Arithmetic (9–10 questions)** and **Algebra (7–8 questions)** together account for nearly **75% of the total Quantitative Aptitude section** in CAT. Geometry, Number System, and Modern Math make up the remaining 25%.
+      **Arithmetic (9–10 questions)** and **Algebra (7–8 questions)** together
+      account for nearly **75% of the total Quantitative Aptitude section** in
+      CAT. Geometry, Number System, and Modern Math make up the remaining 25%.
   - question: Can a non-engineer score 99+ percentile in CAT Quantitative Aptitude?
     answer: >-
-      Yes! CAT Quant is primarily based on **Class 8 to 10 high-school mathematics** rather than calculus or engineering math. Mastering Arithmetic ratios, percentage shortcuts, and basic algebraic identities is sufficient to score 99+ percentile.
+      Yes! CAT Quant is primarily based on **Class 8 to 10 high-school
+      mathematics** rather than calculus or engineering math. Mastering
+      Arithmetic ratios, percentage shortcuts, and basic algebraic identities is
+      sufficient to score 99+ percentile.
   - question: How many questions should I attempt in CAT Quant to get 99 percentile?
     answer: >-
-      In a 22-question Quant section, accurately attempting **12 to 14 questions** (with 90%+ accuracy) usually yields **34 to 38 marks**, which consistently secures a **99+ percentile** in CAT.
+      In a 22-question Quant section, accurately attempting **12 to 14
+      questions** (with 90%+ accuracy) usually yields **34 to 38 marks**, which
+      consistently secures a **99+ percentile** in CAT.
   - question: Should I memorize all formulas for CAT Geometry?
     answer: >-
-      While basic formulas (such as inradius $r = \frac{\Delta}{s}$, circumradius $R = \frac{abc}{4\Delta}$, and similarity ratios) are essential, CAT emphasizes **geometric visualization, angle-chasing, and auxiliary line constructions** over pure formula substitution.
+      While basic formulas (such as inradius $r = \frac{\Delta}{s}$,
+      circumradius $R = \frac{abc}{4\Delta}$, and similarity ratios) are
+      essential, CAT emphasizes **geometric visualization, angle-chasing, and
+      auxiliary line constructions** over pure formula substitution.
+location: Noida
 ---
 
 The **Quantitative Aptitude (QA)** section of the Common Admission Test ([CAT Exam 2026](/posts/all-about-cat-exam)) is the final test of endurance. After 80 minutes of intense verbal reasoning and DILR case-solving, your brain is fatigued—yet you must execute crisp mathematical calculations in 40 minutes.

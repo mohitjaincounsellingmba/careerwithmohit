@@ -1,27 +1,47 @@
 ---
-title: "IIEBM (Indus Business School) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  IIEBM (Indus Business School) Review 2026: Fees, Placements, Cutoffs & ROI
+  Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIEBM (Indus Business School) covering MBA/PGDM fee structures, highest and average placements (₹7.5 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIEBM (Indus Business School) review 2026"
-  - "IIEBM (Indus Business School) mba fees"
-  - "IIEBM (Indus Business School) placements 2026"
-  - "IIEBM (Indus Business School) admission cutoffs"
-  - "top mba colleges in Wakad"
+  - IIEBM (Indus Business School) review 2026
+  - IIEBM (Indus Business School) mba fees
+  - IIEBM (Indus Business School) placements 2026
+  - IIEBM (Indus Business School) admission cutoffs
+  - top mba colleges in Wakad
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIEBM (Indus Business School) in 2026?"
-    answer: "The average package at IIEBM (Indus Business School) stands around ₹7.5 LPA, while the highest package has reached up to ₹30.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIEBM (Indus Business School)?"
-    answer: "IIEBM (Indus Business School) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIEBM (Indus Business School)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIEBM (Indus Business School) is approximately ₹8.25 Lakhs (Total)."
-location: "Wakad, Pune"
+  - question: What is the average package at IIEBM (Indus Business School) in 2026?
+    answer: >-
+      The average package at IIEBM (Indus Business School) stands around ₹7.5
+      LPA, while the highest package has reached up to ₹30.0 LPA in recent
+      recruitment drives.
+  - question: What entrance exams are accepted by IIEBM (Indus Business School)?
+    answer: >-
+      IIEBM (Indus Business School) accepts scores from CAT, XAT, CMAT, MAT,
+      ATMA for shortlisting candidates for its flagship management programs.
+  - question: What is the total fee structure at IIEBM (Indus Business School)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIEBM (Indus
+      Business School) is approximately ₹8.25 Lakhs (Total).
+location: Delhi
 ---
 
-# IIEBM (Indus Business School) Review 2026: Fees, Placements, Cutoffs & ROI Analysis
+# [IIEBM (Indus Business School)](/colleges/iiebm-pune) Review 2026: Fees, Placements, Cutoffs & ROI Analysis
 
-**IIEBM (Indus Business School)** continues to be one of the most prominent management destinations in **Wakad (Pune)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**[IIEBM (Indus Business School)](/colleges/iiebm-pune)** continues to be one of the most prominent management destinations in **Wakad (Pune)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Pune, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 

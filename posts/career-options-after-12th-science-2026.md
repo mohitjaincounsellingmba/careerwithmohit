@@ -3,8 +3,8 @@ title: Best Career Options After 12th Science 2026 – PCM & PCB Guide
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Discover the top career options after 12th science in
-  2026. E...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - career options after 12th science
   - best courses after 12th science 2026

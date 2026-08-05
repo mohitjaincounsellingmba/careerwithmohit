@@ -3,8 +3,8 @@ title: 'UK Income Tax & Self Assessment Guide: Tax Bands, Rates & Process'
 date: '2026-04-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. A complete guide to UK Income Tax for residents and
-  expats. L...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - UK Income Tax 2026
   - HMRC Self Assessment

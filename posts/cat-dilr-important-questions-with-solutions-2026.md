@@ -2,7 +2,9 @@
 title: 'CAT DILR Important Questions with Solutions 2026: Set-Wise Practice Guide'
 date: '2026-08-03'
 description: >-
-  Master CAT 2026 DILR with important questions and step-by-step solutions. Practice high-probability sets on Games & Tournaments, Matrix Arrangements, and Quant-based DI.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - cat dilr important questions with solutions
   - cat dilr practice sets with solutions 2026
@@ -24,16 +26,29 @@ keywords:
 faqs:
   - question: How many sets should I attempt in CAT 2026 DILR to score 99 percentile?
     answer: >-
-      In CAT DILR (typically 20 questions across 4 sets of 5 questions each), accurately solving **2 complete sets (10 questions)** with 95%+ accuracy usually secures a **98-99+ percentile**. Attempting 2.5 to 3 sets accurately guarantees a 99.5+ score.
+      In CAT DILR (typically 20 questions across 4 sets of 5 questions each),
+      accurately solving **2 complete sets (10 questions)** with 95%+ accuracy
+      usually secures a **98-99+ percentile**. Attempting 2.5 to 3 sets
+      accurately guarantees a 99.5+ score.
   - question: Which topics are most important for CAT DILR 2026?
     answer: >-
-      The highest-probability DILR topics in CAT include **Games & Tournaments**, **Matrix & Grid Arrangements**, **Quant-based LR (Maxima & Minima)**, **Scheduling & Routes**, and **Table/Chart-based Reasoning with missing data**.
+      The highest-probability DILR topics in CAT include **Games &
+      Tournaments**, **Matrix & Grid Arrangements**, **Quant-based LR (Maxima &
+      Minima)**, **Scheduling & Routes**, and **Table/Chart-based Reasoning with
+      missing data**.
   - question: Can a non-engineer score 99+ percentile in CAT DILR?
     answer: >-
-      Yes! CAT DILR tests **structured logical deduction, systematic table creation, and case analysis** rather than advanced engineering mathematics. Consistent practice of 200+ varied sets is key for both engineers and non-engineers.
+      Yes! CAT DILR tests **structured logical deduction, systematic table
+      creation, and case analysis** rather than advanced engineering
+      mathematics. Consistent practice of 200+ varied sets is key for both
+      engineers and non-engineers.
   - question: How should I choose which DILR set to attempt first in the exam?
     answer: >-
-      Spend the first **4–5 minutes** scanning all 4 sets. Pick sets with **explicit numerical constraints, familiar structures (like round-robin tournaments or scheduling)**, and fewer conditional variables. Avoid sets with highly ambiguous 'if-then' conditions in your first attempt.
+      Spend the first **4–5 minutes** scanning all 4 sets. Pick sets with
+      **explicit numerical constraints, familiar structures (like round-robin
+      tournaments or scheduling)**, and fewer conditional variables. Avoid sets
+      with highly ambiguous 'if-then' conditions in your first attempt.
+location: Noida
 ---
 
 The **Data Interpretation and Logical Reasoning (DILR)** section is widely considered the make-or-break segment of the Common Admission Test ([CAT Exam 2026](/posts/all-about-cat-exam)). While Verbal Ability tests language nuance and Quantitative Aptitude rewards formula familiarity, **DILR tests raw analytical problem-solving under extreme time pressure**.

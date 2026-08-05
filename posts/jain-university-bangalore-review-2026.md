@@ -54,7 +54,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Jain University](/colleges/jain-university) Bangalore: University Overview & Accreditation
 
-Jain (Deemed-to-be University) in Bangalore is a NAAC A++ accredited university with a stellar 3.71 CGPA. Known for its entrepreneurial ecosystem (Chenraj Roychand Center for Entrepreneurship), sports achievements (alumni including KL Rahul), and dynamic CMS Business School, Jain University is one of Karnataka's most popular universities.
+Jain (Deemed-to-be University) in Bangalore is a NAAC A++ accredited university with a stellar 3.71 CGPA. Known for its entrepreneurial ecosystem (Chenraj Roychand Center for Entrepreneurship), sports achievements (alumni including KL Rahul), and dynamic CMS Business School, [Jain University](/colleges/jain-university) is one of Karnataka's most popular universities.
 
 ### Key Institutional Highlights (2026)
 
@@ -71,7 +71,7 @@ Jain (Deemed-to-be University) in Bangalore is a NAAC A++ accredited university 
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for Jain University Bangalore (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [Jain University](/colleges/jain-university) Bangalore (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 

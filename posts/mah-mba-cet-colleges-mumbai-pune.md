@@ -3,8 +3,8 @@ title: Top MBA Colleges in Mumbai and Pune Accepting MAH MBA CET 2026
 date: '2026-03-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Discover the best MBA/PGDM colleges in Mumbai and Pune
-  that a...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MAH MBA CET 2026 colleges
   - MBA colleges Mumbai

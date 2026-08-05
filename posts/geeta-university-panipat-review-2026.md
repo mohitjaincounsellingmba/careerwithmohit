@@ -3,8 +3,8 @@ title: 'Geeta University, Panipat Review 2026: Placements, Fees, Courses & Admis
 date: '2026-08-03'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Comprehensive review of Geeta University,
-  Panipat (P...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - Geeta University Panipat review 2026
   - Geeta University Panipat placements 2026

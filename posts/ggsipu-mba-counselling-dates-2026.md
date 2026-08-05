@@ -5,8 +5,8 @@ title: >-
 date: '2026-06-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused about IPU MBA Counselling 2026? Get the latest
-  offic...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - GGSIPU MBA counselling dates 2026
   - IPU MBA counselling registration 2026

@@ -2,7 +2,9 @@
 title: 'CAT VARC Important Questions with Solutions 2026: RC & VA Practice Guide'
 date: '2026-08-03'
 description: >-
-  Master CAT 2026 VARC with important practice questions and detailed solutions. Practice Reading Comprehension passages, Parajumbles, and Para Summary with option elimination strategies.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - cat varc important questions with solutions
   - cat varc practice questions with answers
@@ -24,16 +26,31 @@ keywords:
 faqs:
   - question: How many Reading Comprehension (RC) passages appear in CAT VARC?
     answer: >-
-      The CAT VARC section typically features **4 Reading Comprehension passages** (with 4 questions per passage, totaling 16 RC questions) and **8 Verbal Ability questions** (Parajumbles, Para Summary, and Odd Sentence Out), making a total of 24 questions to be solved in 40 minutes.
-  - question: What is the best strategy to improve Reading Comprehension accuracy in CAT?
+      The CAT VARC section typically features **4 Reading Comprehension
+      passages** (with 4 questions per passage, totaling 16 RC questions) and
+      **8 Verbal Ability questions** (Parajumbles, Para Summary, and Odd
+      Sentence Out), making a total of 24 questions to be solved in 40 minutes.
+  - question: >-
+      What is the best strategy to improve Reading Comprehension accuracy in
+      CAT?
     answer: >-
-      Focus on **author's tone and structural transitions** rather than memorizing factual trivia. Always use **option elimination strategy**—discard options that are too extreme, out-of-scope, or partially incorrect.
-  - question: Are Parajumbles in CAT always TITA (Type In The Answer) without negative marking?
+      Focus on **author's tone and structural transitions** rather than
+      memorizing factual trivia. Always use **option elimination
+      strategy**—discard options that are too extreme, out-of-scope, or
+      partially incorrect.
+  - question: >-
+      Are Parajumbles in CAT always TITA (Type In The Answer) without negative
+      marking?
     answer: >-
-      In recent CAT patterns, 4-sentence Parajumbles are often asked in **TITA format (no negative marking for incorrect answers)**, while Para Summary questions are MCQ-based with standard +3/-1 marking.
+      In recent CAT patterns, 4-sentence Parajumbles are often asked in **TITA
+      format (no negative marking for incorrect answers)**, while Para Summary
+      questions are MCQ-based with standard +3/-1 marking.
   - question: How many attempts in CAT VARC are needed for a 99+ percentile?
     answer: >-
-      With an accuracy of **85%**, attempting **16 to 18 questions** (typically 3 complete RCs + 4 to 5 Verbal Ability questions) is sufficient to score **40+ marks**, which usually maps to a **99+ percentile** in CAT VARC.
+      With an accuracy of **85%**, attempting **16 to 18 questions** (typically
+      3 complete RCs + 4 to 5 Verbal Ability questions) is sufficient to score
+      **40+ marks**, which usually maps to a **99+ percentile** in CAT VARC.
+location: Noida
 ---
 
 The **Verbal Ability and Reading Comprehension (VARC)** section is the opening section of the Common Admission Test ([CAT Exam 2026](/posts/all-about-cat-exam)). Because it is the first section you face, your performance here sets the psychological momentum for the entire 2-hour examination.

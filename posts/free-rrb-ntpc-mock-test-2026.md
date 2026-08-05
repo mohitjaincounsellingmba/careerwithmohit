@@ -40,6 +40,10 @@ To help you measure your standing, we offer a high-fidelity **[Free RRB NTPC 202
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of RRB NTPC CBT 1?

@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive review of VIT across all campuses
-  (Vellore, Che...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[VIT Vellore](/colleges/vit-vellore) review'
   - VIT placements 2026

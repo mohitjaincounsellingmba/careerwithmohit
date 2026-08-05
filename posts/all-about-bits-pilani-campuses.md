@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The ultimate guide to BITS Pilani (Pilani, Goa,
-  Hyderabad, Du...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - BITS Pilani review
   - BITS placements 2026

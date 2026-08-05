@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: Finance
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused about the latest tax slabs? Explore the India
-  Income...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - income tax slabs india 2026-27
   - new tax regime slabs 2026

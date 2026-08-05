@@ -3,8 +3,8 @@ title: 'MBA Entrance Exams 2026: Cost, Difficulty, and Conducting Bodies'
 date: '2026-03-25'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Planning your MBA for 2026? Check out our
-  comprehens...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - MBA entrance exams 2026 India
   - CAT 2026 application fee

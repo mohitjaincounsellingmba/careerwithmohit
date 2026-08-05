@@ -59,7 +59,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Shiv Nadar University (SNU)](/colleges/snu-greater-noida): University Overview & Accreditation
 
-Shiv Nadar University (SNU) Greater Noida is a premier multidisciplinary research university established by the Shiv Nadar Foundation. Recognized as an Institution of Eminence (IoE) by the Government of India, SNU is celebrated for its low student-faculty ratio, world-class research labs, and exceptional career outcomes across engineering and management disciplines.
+[Shiv Nadar University (SNU)](/colleges/snu-greater-noida) Greater Noida is a premier multidisciplinary research university established by the Shiv Nadar Foundation. Recognized as an Institution of Eminence (IoE) by the Government of India, SNU is celebrated for its low student-faculty ratio, world-class research labs, and exceptional career outcomes across engineering and management disciplines.
 
 ### Key Institutional Highlights (2026)
 
@@ -76,7 +76,7 @@ Shiv Nadar University (SNU) Greater Noida is a premier multidisciplinary researc
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for Shiv Nadar University (SNU) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [Shiv Nadar University (SNU)](/colleges/snu-greater-noida) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 

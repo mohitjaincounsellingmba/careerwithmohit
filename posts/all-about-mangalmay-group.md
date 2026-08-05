@@ -3,8 +3,8 @@ title: 'Mangalmay Group Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Review of Mangalmay Institute of
-  Manage...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Mangalmay Institute review 2026
   - MIMT Greater Noida placements

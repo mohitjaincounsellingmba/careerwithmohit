@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: B.Tech Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. JEE Main 2026 Session 2 results are OUT! Use our expert
-  colle...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - jee main 2026 college predictor
   - jee main rank vs college list

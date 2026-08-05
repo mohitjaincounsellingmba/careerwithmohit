@@ -6,8 +6,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Looking for admission to I.T.S - School of
-  Managem...
+  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - i.t.s - school of management review 2026
   - i.t.s - school of management pgdm placements

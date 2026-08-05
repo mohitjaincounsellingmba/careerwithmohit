@@ -4,8 +4,8 @@ date: '2026-04-27'
 category: Colleges
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete list of all 56 Central Universities in India
-  2026 – ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - central university list India 2026
   - list of central universities in India

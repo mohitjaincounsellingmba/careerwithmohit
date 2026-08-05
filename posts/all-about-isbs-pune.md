@@ -3,8 +3,8 @@ title: 'ISBS Pune Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Review of Indira School of Business Studies (ISBS).
-  Explore 2...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - ISBS Pune review 2026
   - Indira School placements 2025

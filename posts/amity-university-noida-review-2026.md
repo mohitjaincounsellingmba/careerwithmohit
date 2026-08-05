@@ -51,13 +51,13 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ Amity Noida: University Overview & Accreditation
 
-Amity University Noida is one of India's flagship private multidisciplinary universities, sprawling over a 120-acre high-tech campus in Greater Noida/Noida. Known for its extensive corporate relations, global exchange programs, and industry-oriented curriculum, Amity Noida consistently ranks among the top private universities in Delhi NCR for engineering and management programs.
+[Amity University](/colleges/amity-noida) Noida is one of India's flagship private multidisciplinary universities, sprawling over a 120-acre high-tech campus in Greater Noida/Noida. Known for its extensive corporate relations, global exchange programs, and industry-oriented curriculum, Amity Noida consistently ranks among the top private universities in Delhi NCR for engineering and management programs.
 
 ### Key Institutional Highlights (2026)
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Amity University, Noida |
+| **Full Institutional Name** | [Amity University, Noida](/colleges/amity-university-noida) |
 | **Location & Region** | Noida, Delhi NCR |
 | **University Type & Status** | Private University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 2005 |
@@ -74,7 +74,7 @@ Amity University Noida is one of India's flagship private multidisciplinary univ
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-Amity University, Noida offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+[Amity University, Noida](/colleges/amity-university-noida) offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |
@@ -89,7 +89,7 @@ Amity University, Noida offers a comprehensive portfolio of industry-aligned pro
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. Amity University, Noida maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. [Amity University](/colleges/amity-noida), Noida maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 

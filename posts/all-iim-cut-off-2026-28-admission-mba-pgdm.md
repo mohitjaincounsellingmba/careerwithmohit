@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-06'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Detailed guide on IIM cutoffs for
-  2026-...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - IIM Cut off 2026
   - IIM admission 2026-28

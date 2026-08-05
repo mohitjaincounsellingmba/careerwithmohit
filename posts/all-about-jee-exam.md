@@ -3,8 +3,8 @@ title: 'JEE Main & Advanced 2026: Exam Date, Syllabus, Pattern & Top IIT/NIT Cut
 date: '2026-03-21'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about JEE Main and Advanced
-  2026....
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JEE Main 2026
   - JEE Advanced 2026

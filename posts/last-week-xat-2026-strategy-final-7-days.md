@@ -3,8 +3,8 @@ title: 'Last‑Week XAT 2026 Strategy: What to Do in the Final 7 Days'
 date: '2026-05-21'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get a day-by-day preparation strategy for the final 7
-  days be...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - XAT 2026 preparation
   - last week XAT strategy

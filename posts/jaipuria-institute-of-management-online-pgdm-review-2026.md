@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking for an honest review of
-  the Jai...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Jaipuria Online PGDM review 2026
   - Jaipuria online PGDM fees

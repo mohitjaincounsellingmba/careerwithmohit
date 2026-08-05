@@ -5,8 +5,8 @@ title: >-
 date: '2026-08-03'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive review of Suresh Gyan Vihar University
-  (SGVU), ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Suresh Gyan Vihar University (SGVU) review 2026
   - Suresh Gyan Vihar University (SGVU) placements 2026

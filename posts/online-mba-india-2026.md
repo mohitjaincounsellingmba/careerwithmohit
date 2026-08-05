@@ -3,8 +3,8 @@ title: 'Online MBA in India 2026: Top Programs, Fees, ROI & Is It Worth It?'
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. A complete guide to the best
-  Online MBA...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Online MBA India 2026
   - best online MBA programs India

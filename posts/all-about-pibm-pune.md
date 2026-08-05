@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about Pune Institute of
-  Business ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[PIBM Pune](/colleges/pibm-pune) review'
   - '[PIBM Pune](/colleges/pibm-pune) placements 2026'

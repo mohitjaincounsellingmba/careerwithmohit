@@ -3,8 +3,8 @@ title: 'All About NMAT Exam 2026: NMIMS Cutoffs, Pattern, Marks & Top Colleges'
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. A complete guide to NMAT by GMAC. Learn about
-  the ad...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - NMAT exam 2026
   - NMAT exam pattern

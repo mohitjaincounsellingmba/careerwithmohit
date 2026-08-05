@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is D.Y. Patil University Online (Pune) a good choice in
-  2026?...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - D.Y. Patil University Online Pune review 2026
   - DY Patil online MBA fees

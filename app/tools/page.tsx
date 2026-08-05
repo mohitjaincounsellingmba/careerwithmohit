@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     title: 'Free Online Tools Hub: Converters & Calculators',
     description: 'Access 20+ free tools: file converters, exam calculators, college predictors, and resume analyzer.',
     type: 'website',
-    url: '/tools',
+    url: 'https://www.careerwithmohit.online/tools',
     siteName: 'CareerWithMohit',
     images: [
       {

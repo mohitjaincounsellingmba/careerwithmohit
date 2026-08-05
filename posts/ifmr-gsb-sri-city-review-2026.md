@@ -1,22 +1,49 @@
 ---
-title: "IFMR Graduate School of Business (Krea University) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  IFMR Graduate School of Business (Krea University) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IFMR Graduate School of Business (Krea University) covering MBA/PGDM fee structures, highest and average placements (₹13.50 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IFMR Graduate School of Business (Krea University) review 2026"
-  - "IFMR Graduate School of Business (Krea University) mba fees"
-  - "IFMR Graduate School of Business (Krea University) placements 2026"
-  - "IFMR Graduate School of Business (Krea University) admission cutoffs"
-  - "top mba colleges in Sri City"
+  - IFMR Graduate School of Business (Krea University) review 2026
+  - IFMR Graduate School of Business (Krea University) mba fees
+  - IFMR Graduate School of Business (Krea University) placements 2026
+  - IFMR Graduate School of Business (Krea University) admission cutoffs
+  - top mba colleges in Sri City
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IFMR Graduate School of Business (Krea University) in 2026?"
-    answer: "The average package at IFMR Graduate School of Business (Krea University) stands around ₹13.50 LPA, while the highest package has reached up to ₹22.9 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IFMR Graduate School of Business (Krea University)?"
-    answer: "IFMR Graduate School of Business (Krea University) accepts scores from CAT, XAT, NMAT, CMAT, GMAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IFMR Graduate School of Business (Krea University)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IFMR Graduate School of Business (Krea University) is approximately ₹14.5 Lakhs (Total)."
-location: "Sri City, Andhra Pradesh"
+  - question: >-
+      What is the average package at IFMR Graduate School of Business (Krea
+      University) in 2026?
+    answer: >-
+      The average package at IFMR Graduate School of Business (Krea University)
+      stands around ₹13.50 LPA, while the highest package has reached up to
+      ₹22.9 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by IFMR Graduate School of Business (Krea
+      University)?
+    answer: >-
+      IFMR Graduate School of Business (Krea University) accepts scores from
+      CAT, XAT, NMAT, CMAT, GMAT for shortlisting candidates for its flagship
+      management programs.
+  - question: >-
+      What is the total fee structure at IFMR Graduate School of Business (Krea
+      University)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IFMR Graduate
+      School of Business (Krea University) is approximately ₹14.5 Lakhs (Total).
+location: Delhi
 ---
 
 # IFMR Graduate School of Business (Krea University) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

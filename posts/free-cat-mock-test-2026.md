@@ -41,6 +41,10 @@ To help you measure your standing, we offer a high-fidelity **[Free CAT 2026 Moc
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the CAT 2026 exam?

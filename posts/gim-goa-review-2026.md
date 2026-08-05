@@ -1,22 +1,44 @@
 ---
-title: "Goa Institute of Management (GIM Goa) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  Goa Institute of Management (GIM Goa) Review 2026: Fees, Placements, Cutoffs &
+  ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of Goa Institute of Management (GIM Goa) covering MBA/PGDM fee structures, highest and average placements (₹15.00 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "Goa Institute of Management (GIM Goa) review 2026"
-  - "Goa Institute of Management (GIM Goa) mba fees"
-  - "Goa Institute of Management (GIM Goa) placements 2026"
-  - "Goa Institute of Management (GIM Goa) admission cutoffs"
-  - "top mba colleges in Sanquelim"
+  - Goa Institute of Management (GIM Goa) review 2026
+  - Goa Institute of Management (GIM Goa) mba fees
+  - Goa Institute of Management (GIM Goa) placements 2026
+  - Goa Institute of Management (GIM Goa) admission cutoffs
+  - top mba colleges in Sanquelim
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at Goa Institute of Management (GIM Goa) in 2026?"
-    answer: "The average package at Goa Institute of Management (GIM Goa) stands around ₹15.00 LPA, while the highest package has reached up to ₹55.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by Goa Institute of Management (GIM Goa)?"
-    answer: "Goa Institute of Management (GIM Goa) accepts scores from CAT, XAT, CMAT, GMAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at Goa Institute of Management (GIM Goa)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at Goa Institute of Management (GIM Goa) is approximately ₹19.5 Lakhs (Total)."
-location: "Sanquelim, Goa"
+  - question: >-
+      What is the average package at Goa Institute of Management (GIM Goa) in
+      2026?
+    answer: >-
+      The average package at Goa Institute of Management (GIM Goa) stands around
+      ₹15.00 LPA, while the highest package has reached up to ₹55.0 LPA in
+      recent recruitment drives.
+  - question: What entrance exams are accepted by Goa Institute of Management (GIM Goa)?
+    answer: >-
+      Goa Institute of Management (GIM Goa) accepts scores from CAT, XAT, CMAT,
+      GMAT for shortlisting candidates for its flagship management programs.
+  - question: What is the total fee structure at Goa Institute of Management (GIM Goa)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at Goa Institute
+      of Management (GIM Goa) is approximately ₹19.5 Lakhs (Total).
+location: Delhi
 ---
 
 # Goa Institute of Management (GIM Goa) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

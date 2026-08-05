@@ -4,8 +4,8 @@ date: '2026-07-16'
 category: Medical Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The National Testing Agency (NTA) has officially
-  declared the...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - neet ug result declare
   - neet ug merit list 2026

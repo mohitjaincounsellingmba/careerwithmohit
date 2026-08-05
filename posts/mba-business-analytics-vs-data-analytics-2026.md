@@ -6,8 +6,8 @@ date: '2026-06-16'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Choosing between an MBA in Business Analytics
-  and an...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - mba in business analytics vs data analytics
   - mba business analytics vs mba data analytics

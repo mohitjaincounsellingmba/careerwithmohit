@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: BBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning to join IIM after 12th? Get the definitive
-  IPMAT 202...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - ipmat 2026 guide
   - iim indore ipm admission 2026

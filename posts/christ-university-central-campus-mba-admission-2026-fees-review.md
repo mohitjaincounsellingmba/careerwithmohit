@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning for MBA at Christ University (Central Campus)
-  Bangal...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - >-
     [Christ University Bangalore](/colleges/christ-university-bangalore) MBA

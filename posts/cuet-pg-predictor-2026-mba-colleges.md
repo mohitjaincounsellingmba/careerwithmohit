@@ -3,8 +3,8 @@ title: 'CUET PG MBA College Predictor 2026: Find Your Match'
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Estimate your admission chances at TISS, BHU, JNU, and
-  more w...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CUET PG MBA college predictor 2026
   - CUET PG 2026 college predictor

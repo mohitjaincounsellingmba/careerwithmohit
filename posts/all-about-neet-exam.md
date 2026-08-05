@@ -3,8 +3,8 @@ title: 'NEET UG 2026: Registration, Eligibility, Pattern, Syllabus & MBBS Cutoff
 date: '2026-03-21'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about NEET-UG 2026. Explore
-  the l...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - NEET 2026
   - NEET UG exam

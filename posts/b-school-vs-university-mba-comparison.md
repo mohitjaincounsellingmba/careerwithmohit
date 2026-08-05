@@ -3,8 +3,8 @@ title: 'B-School vs. University MBA: Which is Right for You in 2026?'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Choosing between a B-School (PGDM) and a University
-  MBA? We c...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - B-School vs University MBA
   - PGDM vs MBA pros and cons

@@ -4,8 +4,8 @@ date: '2026-06-05'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Explore the best MBA colleges accepting MAT scores in
-  Chennai...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MBA Colleges Accepting MAT Score in Chennai
   - great lakes chennai mat cutoff

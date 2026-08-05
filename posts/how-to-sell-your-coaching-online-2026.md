@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Learn how to launch your own branded coaching app,
-  monetize y...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - sell coaching online
   - branded coaching app

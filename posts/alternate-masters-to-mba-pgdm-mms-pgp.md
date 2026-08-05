@@ -3,8 +3,8 @@ title: 'Alternate Masters to MBA: PGDM, MMS, PGP Admission, Fees, and Packages'
 date: '2026-06-23'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Confused between an MBA and its
-  alterna...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - alternate masters of mba
   - PGDM vs MMS vs PGP

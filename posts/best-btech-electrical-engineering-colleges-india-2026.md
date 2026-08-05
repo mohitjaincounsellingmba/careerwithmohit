@@ -6,8 +6,8 @@ date: '2026-04-20'
 category: B.Tech Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Top B.Tech Electrical Engineering (EE/EEE) colleges in
-  India ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - best btech electrical engineering colleges india
   - top electrical engineering colleges india 2026

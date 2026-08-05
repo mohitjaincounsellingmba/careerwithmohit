@@ -4,8 +4,8 @@ date: '2026-06-28'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Wondering who will conduct CAT 2026? Learn
-  about the...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - who conduct cat 2026
   - conducting body of cat 2026

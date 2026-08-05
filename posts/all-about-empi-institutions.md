@@ -4,8 +4,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for admission to EMPI Institutions? Read our
-  comprehe...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - empi institutions review 2026
   - empi institutions pgdm placements

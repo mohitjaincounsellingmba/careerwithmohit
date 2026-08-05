@@ -3,8 +3,8 @@ title: 'Sunstone BBA Colleges in India 2026: Fees, Campuses & Placement Assuranc
 date: '2026-04-16'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking to pursue a BBA through
-  Sunston...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Sunstone BBA colleges in India
   - Sunstone BBA fees

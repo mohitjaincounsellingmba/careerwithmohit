@@ -3,8 +3,8 @@ title: 'Under 5 Lakhs MBA Colleges in Pune (Direct Admission) 2026: The Ultimate
 date: '2026-04-08'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for an MBA under 5 lakhs in Pune with direct
-  admissio...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - under 5 lacs mba college in pune direct admission
   - mba in pune under 5 lakhs

@@ -74,7 +74,7 @@ To maximize your chances of getting into [NMIMS Mumbai](/colleges/nmims-mumbai),
 1. **Three Maximum Attempts:** You can attempt the NMAT a maximum of **three times** in a single testing cycle (1 main attempt + 2 retakes).
 2. **15-Day Gap:** If you choose to retake the exam to improve your score, there must be a mandatory gap of **at least 15 days** between the two exam dates.
 3. **Adaptive Test Design:** NMAT is a computer-adaptive exam. The difficulty level of the next question is determined by whether your answer to the current question is correct or incorrect. There is no negative marking!
-4. **NMIMS Cutoff Policy:** **IMPORTANT Note:** NMIMS Mumbai only accepts the score of your **first attempt** for their final admission list. Retake scores are generally not considered by NMIMS Mumbai, although other accepting institutes accept retake scores.
+4. **NMIMS Cutoff Policy:** **IMPORTANT Note:** [NMIMS Mumbai](/colleges/nmims-mumbai) only accepts the score of your **first attempt** for their final admission list. Retake scores are generally not considered by [NMIMS Mumbai](/colleges/nmims-mumbai), although other accepting institutes accept retake scores.
 
 ---
 

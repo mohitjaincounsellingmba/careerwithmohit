@@ -1,22 +1,39 @@
 ---
-title: "SIBM Noida Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'SIBM Noida Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of SIBM Noida covering MBA/PGDM fee structures, highest and average placements (₹11.20 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Comprehensive 2026 review of SIBM Noida covering MBA/PGDM fee structures,
+  highest and average placements (₹11.20 LPA), entrance exam cutoffs, ROI
+  analysis, and direct admission details.
 keywords:
-  - "SIBM Noida review 2026"
-  - "SIBM Noida mba fees"
-  - "SIBM Noida placements 2026"
-  - "SIBM Noida admission cutoffs"
-  - "top mba colleges in Noida"
+  - SIBM Noida review 2026
+  - SIBM Noida mba fees
+  - SIBM Noida placements 2026
+  - SIBM Noida admission cutoffs
+  - top mba colleges in Noida
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at SIBM Noida in 2026?"
-    answer: "The average package at SIBM Noida stands around ₹11.20 LPA, while the highest package has reached up to ₹22.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by SIBM Noida?"
-    answer: "SIBM Noida accepts scores from SNAP for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at SIBM Noida?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at SIBM Noida is approximately ₹16.0 Lakhs (Total)."
-location: "Noida, Uttar Pradesh"
+  - question: What is the average package at SIBM Noida in 2026?
+    answer: >-
+      The average package at SIBM Noida stands around ₹11.20 LPA, while the
+      highest package has reached up to ₹22.0 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by SIBM Noida?
+    answer: >-
+      SIBM Noida accepts scores from SNAP for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at SIBM Noida?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at SIBM Noida is
+      approximately ₹16.0 Lakhs (Total).
+location: Noida
 ---
 
 # SIBM Noida Review 2026: Fees, Placements, Cutoffs & ROI Analysis

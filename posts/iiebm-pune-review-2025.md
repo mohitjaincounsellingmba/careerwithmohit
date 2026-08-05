@@ -3,8 +3,8 @@ title: 'IIEBM Pune Review 2025: PGDM with SAP (PGPERP) Advantage'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Thinking of IIEBM Pune? Read our review on [IIEBM
-  (Indus Busi...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - IIEBM Pune review 2025
   - Indus Business School placements

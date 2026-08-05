@@ -3,8 +3,8 @@ title: 'Direct Admission in SRM University 2026: Management Quota, Fees & Proces
 date: '2026-04-01'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking for direct admission in
-  SRM Uni...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - SRM University direct admission
   - SRM management quota 2026

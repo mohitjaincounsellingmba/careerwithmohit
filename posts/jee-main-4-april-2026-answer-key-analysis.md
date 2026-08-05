@@ -3,8 +3,8 @@ title: 'JEE Main 4 April 2026 Answer Key & Exam Analysis: Shift 1 & 2 Question P
 date: '2026-04-04'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. In-depth analysis of JEE Main 4 April 2026 (Session 2)
-  exam. ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JEE Main 4 April 2026 answer key
   - JEE Main 4 April shift 1 analysis

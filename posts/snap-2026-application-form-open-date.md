@@ -105,7 +105,7 @@ The registration fee is expected to be **₹2,250 per attempt**. Additionally, a
 ### Recommended Resources:
 
 * **[Comprehensive SNAP Exam Strategy, Pattern & Syllabus Guide](/blog/all-about-snap-exam)**
-* **[Honest Comparison of SIBM Pune vs [SCMHRD Pune](/colleges/scmhrd-pune) Admission & Fees](/blog/all-about-symbiosis-mba-institutes)**
+* **[Honest Comparison of [SIBM Pune](/colleges/sibm-pune) vs [SCMHRD Pune](/colleges/scmhrd-pune) Admission & Fees](/blog/all-about-symbiosis-mba-institutes)**
 * **[Other Top MBA Entrance Exams 2026 Guides](/blog/all-about-omets-mba-entrance-exams-2026)**
 * **[Top MBA Colleges Accepting 90+ SNAP Percentile](/blog/all-about-sibm-bangalore)**
 

@@ -4,8 +4,8 @@ date: '2026-03-26'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Reviewing SASTRA University Online MBA 2026. Explore
-  its NAAC...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - SASTRA University online MBA review
   - SASTRA online MBA fees

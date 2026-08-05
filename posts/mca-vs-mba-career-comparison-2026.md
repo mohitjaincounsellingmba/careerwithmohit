@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: MCA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused between MCA and MBA after your BCA or B.Sc?
-  Compare ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - mca vs mba after bca
   - mca or mba which is better

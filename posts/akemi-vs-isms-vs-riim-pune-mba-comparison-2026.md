@@ -6,8 +6,8 @@ date: '2026-03-28'
 category: College Comparison
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is Akemi Pune better than ISMS or RIIM? Explore our
-  positive ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Akemi Business School Pune review 2026
   - 'Akemi vs [ISMS Pune](/colleges/isms-pune)'

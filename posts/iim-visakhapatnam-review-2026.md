@@ -1,22 +1,40 @@
 ---
-title: "IIM Visakhapatnam Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Visakhapatnam Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Visakhapatnam covering MBA/PGDM fee structures, highest and average placements (₹16.62 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Visakhapatnam review 2026"
-  - "IIM Visakhapatnam mba fees"
-  - "IIM Visakhapatnam placements 2026"
-  - "IIM Visakhapatnam admission cutoffs"
-  - "top mba colleges in Visakhapatnam"
+  - IIM Visakhapatnam review 2026
+  - IIM Visakhapatnam mba fees
+  - IIM Visakhapatnam placements 2026
+  - IIM Visakhapatnam admission cutoffs
+  - top mba colleges in Visakhapatnam
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Visakhapatnam in 2026?"
-    answer: "The average package at IIM Visakhapatnam stands around ₹16.62 LPA, while the highest package has reached up to ₹32.65 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Visakhapatnam?"
-    answer: "IIM Visakhapatnam accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Visakhapatnam?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Visakhapatnam is approximately ₹17.8 Lakhs (Total)."
-location: "Visakhapatnam, Andhra Pradesh"
+  - question: What is the average package at IIM Visakhapatnam in 2026?
+    answer: >-
+      The average package at IIM Visakhapatnam stands around ₹16.62 LPA, while
+      the highest package has reached up to ₹32.65 LPA in recent recruitment
+      drives.
+  - question: What entrance exams are accepted by IIM Visakhapatnam?
+    answer: >-
+      IIM Visakhapatnam accepts scores from CAT for shortlisting candidates for
+      its flagship management programs.
+  - question: What is the total fee structure at IIM Visakhapatnam?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM
+      Visakhapatnam is approximately ₹17.8 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Visakhapatnam Review 2026: Fees, Placements, Cutoffs & ROI Analysis

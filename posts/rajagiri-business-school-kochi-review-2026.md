@@ -5,8 +5,8 @@ title: >-
 date: '2026-08-03'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive review of Rajagiri Business School /
-  Rajagiri C...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Rajagiri Business School Kochi review 2026
   - Rajagiri Business School Kochi placements 2026

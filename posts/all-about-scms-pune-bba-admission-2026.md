@@ -4,8 +4,8 @@ date: '2026-05-15'
 category: BBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to join SCMS Pune for
-  BBA in 2...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - scms pune bba admission 2026
   - symbiosis bba fees

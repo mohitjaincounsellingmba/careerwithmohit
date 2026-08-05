@@ -49,13 +49,13 @@ faqs:
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies))**, situated in **Mumbai**, stands out as one of the premier destinations for undergraduate and postgraduate education in Mumbai.
 
-Whether you are aspiring for engineering, management, legal studies, or new-age interdisciplinary courses, understanding the reality of campus placements, actual fee structures, and return on investment (ROI) is crucial. In this comprehensive **2026 review of SVKM’s NMIMS (Narsee Monjee Institute of Management Studies)**, we analyze the university's academic quality, recruiter network, facilities, and admission procedures.
+Whether you are aspiring for engineering, management, legal studies, or new-age interdisciplinary courses, understanding the reality of campus placements, actual fee structures, and return on investment (ROI) is crucial. In this comprehensive **2026 review of SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies))**, we analyze the university's academic quality, recruiter network, facilities, and admission procedures.
 
 ---
 
 ## 🏛️ [NMIMS Mumbai](/colleges/nmims-mumbai): University Overview & Accreditation
 
-SVKM's NMIMS (Narsee Monjee Institute of Management Studies), headquartered in Vile Parle West, Mumbai, is an AACSB-accredited powerhouse of management and technical education. Ranking among the top 10 B-schools in India, NMIMS Mumbai offers premier placements, unmatched corporate connectivity in India's financial capital, and rigorous academic standards.
+SVKM's NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)), headquartered in Vile Parle West, Mumbai, is an AACSB-accredited powerhouse of management and technical education. Ranking among the top 10 B-schools in India, [NMIMS Mumbai](/colleges/nmims-mumbai) offers premier placements, unmatched corporate connectivity in India's financial capital, and rigorous academic standards.
 
 ### Key Institutional Highlights (2026)
 
@@ -72,7 +72,7 @@ SVKM's NMIMS (Narsee Monjee Institute of Management Studies), headquartered in V
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for NMIMS Mumbai (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [NMIMS Mumbai](/colleges/nmims-mumbai) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 

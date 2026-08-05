@@ -1,22 +1,54 @@
 ---
-title: "Universal Business School (UBS Mumbai) / Universal AI University Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  Universal Business School (UBS Mumbai) / Universal AI University Review 2026:
+  Fees, Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of Universal Business School (UBS Mumbai) / Universal AI University covering MBA/PGDM fee structures, highest and average placements (₹10.5 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "Universal Business School (UBS Mumbai) / Universal AI University review 2026"
-  - "Universal Business School (UBS Mumbai) / Universal AI University mba fees"
-  - "Universal Business School (UBS Mumbai) / Universal AI University placements 2026"
-  - "Universal Business School (UBS Mumbai) / Universal AI University admission cutoffs"
-  - "top mba colleges in Karjat"
+  - Universal Business School (UBS Mumbai) / Universal AI University review 2026
+  - Universal Business School (UBS Mumbai) / Universal AI University mba fees
+  - >-
+    Universal Business School (UBS Mumbai) / Universal AI University placements
+    2026
+  - >-
+    Universal Business School (UBS Mumbai) / Universal AI University admission
+    cutoffs
+  - top mba colleges in Karjat
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at Universal Business School (UBS Mumbai) / Universal AI University in 2026?"
-    answer: "The average package at Universal Business School (UBS Mumbai) / Universal AI University stands around ₹10.5 LPA, while the highest package has reached up to ₹42.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by Universal Business School (UBS Mumbai) / Universal AI University?"
-    answer: "Universal Business School (UBS Mumbai) / Universal AI University accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at Universal Business School (UBS Mumbai) / Universal AI University?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at Universal Business School (UBS Mumbai) / Universal AI University is approximately ₹9.50L - ₹12.50L (Total)."
-location: "Karjat, Greater Mumbai"
+  - question: >-
+      What is the average package at Universal Business School (UBS Mumbai) /
+      Universal AI University in 2026?
+    answer: >-
+      The average package at Universal Business School (UBS Mumbai) / Universal
+      AI University stands around ₹10.5 LPA, while the highest package has
+      reached up to ₹42.0 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by Universal Business School (UBS Mumbai)
+      / Universal AI University?
+    answer: >-
+      Universal Business School (UBS Mumbai) / Universal AI University accepts
+      scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its
+      flagship management programs.
+  - question: >-
+      What is the total fee structure at Universal Business School (UBS Mumbai)
+      / Universal AI University?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at Universal
+      Business School (UBS Mumbai) / Universal AI University is approximately
+      ₹9.50L - ₹12.50L (Total).
+location: Delhi
 ---
 
 # Universal Business School (UBS Mumbai) / Universal AI University Review 2026: Fees, Placements, Cutoffs & ROI Analysis

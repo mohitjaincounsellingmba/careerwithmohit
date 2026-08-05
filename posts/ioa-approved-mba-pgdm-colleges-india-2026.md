@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Looking for IOA (Institute of Analytics, UK)
-  approve...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - ioa approved mba colleges in india
   - ioa approved pgdm colleges

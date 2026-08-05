@@ -3,8 +3,8 @@ title: 'RBSE 12th Rechecking & Scrutiny 2026: How to Apply Online, Fees, and Las
 date: '2026-04-01'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Dissatisfied with your RBSE 12th results? Learn how to
-  apply ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - RBSE 12th rechecking 2026
   - RBSE 12th scrutiny online form

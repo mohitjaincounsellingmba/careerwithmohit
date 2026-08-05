@@ -3,8 +3,8 @@ title: 'Malaviya National Institute of Technology (MNIT), Jaipur Executive MBA R
 date: '2026-07-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Read an honest review of the Executive MBA / PGDM
-  program at ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - 'Malaviya National Institute of Technology (MNIT), Jaipur executive mba'
   - >-

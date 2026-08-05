@@ -40,6 +40,10 @@ To help you measure your standing, we offer a high-fidelity **[Free CLAT 2026 Mo
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### How many questions are in CLAT 2026?

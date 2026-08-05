@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: MCA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning your MCA in India's Silicon Valley? Compare
-  the best...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - top mca colleges in bangalore 2026
   - best mca colleges bangalore

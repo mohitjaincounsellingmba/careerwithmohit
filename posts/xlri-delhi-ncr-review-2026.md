@@ -1,22 +1,39 @@
 ---
-title: "XLRI Delhi NCR Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'XLRI Delhi NCR Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of XLRI Delhi NCR covering MBA/PGDM fee structures, highest and average placements (₹30.00 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Comprehensive 2026 review of XLRI Delhi NCR covering MBA/PGDM fee structures,
+  highest and average placements (₹30.00 LPA), entrance exam cutoffs, ROI
+  analysis, and direct admission details.
 keywords:
-  - "XLRI Delhi NCR review 2026"
-  - "XLRI Delhi NCR mba fees"
-  - "XLRI Delhi NCR placements 2026"
-  - "XLRI Delhi NCR admission cutoffs"
-  - "top mba colleges in Jhajjar / NCR"
+  - XLRI Delhi NCR review 2026
+  - XLRI Delhi NCR mba fees
+  - XLRI Delhi NCR placements 2026
+  - XLRI Delhi NCR admission cutoffs
+  - top mba colleges in Jhajjar / NCR
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at XLRI Delhi NCR in 2026?"
-    answer: "The average package at XLRI Delhi NCR stands around ₹30.00 LPA, while the highest package has reached up to ₹75.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by XLRI Delhi NCR?"
-    answer: "XLRI Delhi NCR accepts scores from XAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at XLRI Delhi NCR?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at XLRI Delhi NCR is approximately ₹25.0 Lakhs (Total)."
-location: "Jhajjar / NCR, Haryana"
+  - question: What is the average package at XLRI Delhi NCR in 2026?
+    answer: >-
+      The average package at XLRI Delhi NCR stands around ₹30.00 LPA, while the
+      highest package has reached up to ₹75.0 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by XLRI Delhi NCR?
+    answer: >-
+      XLRI Delhi NCR accepts scores from XAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at XLRI Delhi NCR?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at XLRI Delhi NCR
+      is approximately ₹25.0 Lakhs (Total).
+location: Delhi
 ---
 
 # XLRI Delhi NCR Review 2026: Fees, Placements, Cutoffs & ROI Analysis

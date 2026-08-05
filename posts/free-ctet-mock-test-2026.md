@@ -44,6 +44,10 @@ To help you measure your standing, we offer a high-fidelity **[Free CTET 2026 (P
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of CTET Paper 1?

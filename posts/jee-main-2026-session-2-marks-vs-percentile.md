@@ -3,8 +3,8 @@ title: 'JEE Main 2026 Session 2 Marks vs Percentile Analysis: April Attempt'
 date: '2026-04-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused about your JEE Main 2026 Session 2 percentile?
-  Check...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JEE Main 2026 Session 2 marks vs percentile
   - JEE Main April attempt analysis 2026

@@ -3,8 +3,8 @@ title: 'Mastering Your Future: 2026 Career Roadmaps for Top 10 Specializations'
 date: '2026-03-10'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. A comprehensive guide to the essential skills and top
-  certifi...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - career roadmap 2026
   - MBA specialization skills

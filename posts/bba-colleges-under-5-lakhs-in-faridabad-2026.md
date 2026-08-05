@@ -4,8 +4,8 @@ date: '2026-06-20'
 category: BBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Faridabad, Delhi NCR. Looking for BBA colleges under 5 Lakhs in
-  Faridaba...
+  colleges in Faridabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - BBA Colleges under 5 Lakhs in Faridabad
   - affordable BBA in Faridabad

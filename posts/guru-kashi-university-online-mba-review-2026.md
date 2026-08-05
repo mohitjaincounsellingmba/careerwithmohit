@@ -4,8 +4,8 @@ date: '2026-03-26'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is Guru Kashi University Online MBA legit? Read our
-  2026 revi...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Guru Kashi University online MBA review
   - Guru Kashi online fees

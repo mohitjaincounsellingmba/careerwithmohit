@@ -3,8 +3,8 @@ title: 'MBA vs PGDM: The Only Guide You Need for 2026-27 Admissions'
 date: '2026-04-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Confused between MBA and PGDM?
-  Get the ...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MBA vs PGDM 2026
   - Difference between MBA and PGDM

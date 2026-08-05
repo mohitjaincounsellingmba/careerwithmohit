@@ -5,8 +5,8 @@ title: >-
 date: '2026-08-03'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive review of Somaiya Vidyavihar University
-  (K J So...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - K J Somaiya Mumbai review 2026
   - K J Somaiya Mumbai placements 2026

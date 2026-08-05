@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is [PIBM Pune](/colleges/pibm-pune) worth it for MBA?
-  Read ou...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[PIBM Pune](/colleges/pibm-pune) review 2025'
   - '[PIBM Pune](/colleges/pibm-pune) MBA placements'

@@ -1,22 +1,39 @@
 ---
-title: "IIM Sambalpur Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Sambalpur Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Sambalpur covering MBA/PGDM fee structures, highest and average placements (₹16.64 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Sambalpur review 2026"
-  - "IIM Sambalpur mba fees"
-  - "IIM Sambalpur placements 2026"
-  - "IIM Sambalpur admission cutoffs"
-  - "top mba colleges in Sambalpur"
+  - IIM Sambalpur review 2026
+  - IIM Sambalpur mba fees
+  - IIM Sambalpur placements 2026
+  - IIM Sambalpur admission cutoffs
+  - top mba colleges in Sambalpur
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Sambalpur in 2026?"
-    answer: "The average package at IIM Sambalpur stands around ₹16.64 LPA, while the highest package has reached up to ₹64.6 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Sambalpur?"
-    answer: "IIM Sambalpur accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Sambalpur?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Sambalpur is approximately ₹15.1 Lakhs (Total)."
-location: "Sambalpur, Odisha"
+  - question: What is the average package at IIM Sambalpur in 2026?
+    answer: >-
+      The average package at IIM Sambalpur stands around ₹16.64 LPA, while the
+      highest package has reached up to ₹64.6 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by IIM Sambalpur?
+    answer: >-
+      IIM Sambalpur accepts scores from CAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at IIM Sambalpur?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM Sambalpur
+      is approximately ₹15.1 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Sambalpur Review 2026: Fees, Placements, Cutoffs & ROI Analysis

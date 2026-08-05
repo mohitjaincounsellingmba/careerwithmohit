@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Learn how Aravind Eye Care System adapted McDonald's
-  assembly...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Aravind Eye Care System case study
   - assembly line healthcare model

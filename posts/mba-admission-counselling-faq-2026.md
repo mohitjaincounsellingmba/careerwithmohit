@@ -3,8 +3,8 @@ title: 'MBA Admission Counselling FAQ 2026: 30 Questions Every Student Must Know
 date: '2026-04-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get expert answers to the 30 most important MBA
-  admission cou...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MBA admission counselling 2026
   - MBA admission FAQ

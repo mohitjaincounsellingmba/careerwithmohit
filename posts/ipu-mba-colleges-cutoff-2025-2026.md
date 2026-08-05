@@ -4,8 +4,8 @@ date: '2026-04-23'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for IPU MBA cutoffs? Get the expected CAT and
-  CMAT pe...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - ipu mba cutoff 2026
   - ggsipu mba cat cutoff

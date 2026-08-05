@@ -3,8 +3,8 @@ title: 'Top DRCC Approved MBA Colleges in India: Region-Wise List (2026-2027)'
 date: '2026-03-16'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Comprehensive region-wise guide
-  to the ...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - top DRCC approved MBA colleges 2026
   - Bihar Student Credit Card colleges list

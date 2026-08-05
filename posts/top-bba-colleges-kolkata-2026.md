@@ -3,8 +3,8 @@ title: 'Top BBA Colleges in Kolkata 2026: Rankings, Fees, and Placements'
 date: '2026-03-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Find the best BBA colleges in Kolkata for 2026.
-  Detailed guid...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - top BBA colleges Kolkata
   - best BBA colleges in Kolkata

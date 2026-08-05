@@ -3,8 +3,8 @@ title: 'Top MBA Colleges in Pune Accepting MAH MBA CET 2026: Expected Cutoffs & 
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning your MBA in Pune through the MAH CET 2026?
-  Here is y...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MAH MBA CET 2026 Pune cutoffs
   - top MBA colleges in Pune accepting CET

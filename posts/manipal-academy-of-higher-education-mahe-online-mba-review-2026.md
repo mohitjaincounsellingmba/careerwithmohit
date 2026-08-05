@@ -4,8 +4,8 @@ date: '2026-05-10'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Honest review of Manipal MAHE Online MBA (via Online
-  Manipal)...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Manipal MAHE online MBA review 2026
   - Online Manipal MBA fees 2026

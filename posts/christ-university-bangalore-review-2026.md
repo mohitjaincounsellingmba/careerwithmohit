@@ -71,7 +71,7 @@ CHRIST (Deemed to be University), founded in 1969 in Bengaluru, is an iconic edu
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for Christ University Bangalore (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [Christ University Bangalore](/colleges/christ-university-bangalore) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -102,7 +102,7 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** Goldman Sachs, Deloitte, EY, KPMG, PwC, Amazon, Infosys, Wipro, TCS, JP Morgan
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹7.80 LPA - ₹9.50 LPA (MBA) / ₹6.50 LPA (BBA/B.Com)**, Christ University Bangalore provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹7.80 LPA - ₹9.50 LPA (MBA) / ₹6.50 LPA (BBA/B.Com)**, [Christ University Bangalore](/colleges/christ-university-bangalore) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 

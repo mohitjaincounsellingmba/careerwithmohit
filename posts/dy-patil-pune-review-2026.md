@@ -1,22 +1,50 @@
 ---
-title: "Dr. D.Y. Patil Institute of Management & Research Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  Dr. D.Y. Patil Institute of Management & Research Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of Dr. D.Y. Patil Institute of Management & Research covering MBA/PGDM fee structures, highest and average placements (₹8.0 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "Dr. D.Y. Patil Institute of Management & Research review 2026"
-  - "Dr. D.Y. Patil Institute of Management & Research mba fees"
-  - "Dr. D.Y. Patil Institute of Management & Research placements 2026"
-  - "Dr. D.Y. Patil Institute of Management & Research admission cutoffs"
-  - "top mba colleges in Pimpri"
+  - Dr. D.Y. Patil Institute of Management & Research review 2026
+  - Dr. D.Y. Patil Institute of Management & Research mba fees
+  - Dr. D.Y. Patil Institute of Management & Research placements 2026
+  - Dr. D.Y. Patil Institute of Management & Research admission cutoffs
+  - top mba colleges in Pimpri
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at Dr. D.Y. Patil Institute of Management & Research in 2026?"
-    answer: "The average package at Dr. D.Y. Patil Institute of Management & Research stands around ₹8.0 LPA, while the highest package has reached up to ₹24.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by Dr. D.Y. Patil Institute of Management & Research?"
-    answer: "Dr. D.Y. Patil Institute of Management & Research accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at Dr. D.Y. Patil Institute of Management & Research?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at Dr. D.Y. Patil Institute of Management & Research is approximately ₹3.50L - ₹6.50L (Total)."
-location: "Pimpri, Pune"
+  - question: >-
+      What is the average package at Dr. D.Y. Patil Institute of Management &
+      Research in 2026?
+    answer: >-
+      The average package at Dr. D.Y. Patil Institute of Management & Research
+      stands around ₹8.0 LPA, while the highest package has reached up to ₹24.0
+      LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by Dr. D.Y. Patil Institute of Management
+      & Research?
+    answer: >-
+      Dr. D.Y. Patil Institute of Management & Research accepts scores from CAT,
+      XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship
+      management programs.
+  - question: >-
+      What is the total fee structure at Dr. D.Y. Patil Institute of Management
+      & Research?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at Dr. D.Y. Patil
+      Institute of Management & Research is approximately ₹3.50L - ₹6.50L
+      (Total).
+location: Delhi
 ---
 
 # Dr. D.Y. Patil Institute of Management & Research Review 2026: Fees, Placements, Cutoffs & ROI Analysis

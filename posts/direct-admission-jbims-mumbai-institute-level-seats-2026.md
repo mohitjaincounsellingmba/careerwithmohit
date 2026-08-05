@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Targeting [JBIMS Mumbai](/colleges/jbims-mumbai)?
-  Discover ho...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[JBIMS Mumbai](/colleges/jbims-mumbai) direct admission'
   - JBIMS institute level seats

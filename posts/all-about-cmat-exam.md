@@ -3,8 +3,8 @@ title: 'All About CMAT Exam 2026: Pattern, Innovation Section, Cutoff & Top Coll
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Your complete guide to the Common
-  Manag...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - CMAT exam 2026
   - CMAT exam pattern

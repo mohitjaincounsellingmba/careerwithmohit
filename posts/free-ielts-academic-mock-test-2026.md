@@ -43,6 +43,10 @@ To help you measure your standing, we offer a high-fidelity **[Free IELTS Academ
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the format of the IELTS Academic test?

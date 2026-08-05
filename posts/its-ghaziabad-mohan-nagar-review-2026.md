@@ -1,22 +1,42 @@
 ---
-title: "ITS Ghaziabad (Mohan Nagar) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  ITS Ghaziabad (Mohan Nagar) Review 2026: Fees, Placements, Cutoffs & ROI
+  Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of ITS Ghaziabad (Mohan Nagar) covering MBA/PGDM fee structures, highest and average placements (₹6.0 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Comprehensive 2026 review of ITS Ghaziabad (Mohan Nagar) covering MBA/PGDM fee
+  structures, highest and average placements (₹6.0 LPA), entrance exam cutoffs,
+  ROI analysis, and direct admission details.
 keywords:
-  - "ITS Ghaziabad (Mohan Nagar) review 2026"
-  - "ITS Ghaziabad (Mohan Nagar) mba fees"
-  - "ITS Ghaziabad (Mohan Nagar) placements 2026"
-  - "ITS Ghaziabad (Mohan Nagar) admission cutoffs"
-  - "top mba colleges in Mohan Nagar"
+  - ITS Ghaziabad (Mohan Nagar) review 2026
+  - ITS Ghaziabad (Mohan Nagar) mba fees
+  - ITS Ghaziabad (Mohan Nagar) placements 2026
+  - ITS Ghaziabad (Mohan Nagar) admission cutoffs
+  - top mba colleges in Mohan Nagar
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at ITS Ghaziabad (Mohan Nagar) in 2026?"
-    answer: "The average package at ITS Ghaziabad (Mohan Nagar) stands around ₹6.0 LPA, while the highest package has reached up to ₹11.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by ITS Ghaziabad (Mohan Nagar)?"
-    answer: "ITS Ghaziabad (Mohan Nagar) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at ITS Ghaziabad (Mohan Nagar)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at ITS Ghaziabad (Mohan Nagar) is approximately ₹3.15L - ₹6.95L (Total)."
-location: "Mohan Nagar, Ghaziabad"
+  - question: What is the average package at ITS Ghaziabad (Mohan Nagar) in 2026?
+    answer: >-
+      The average package at ITS Ghaziabad (Mohan Nagar) stands around ₹6.0 LPA,
+      while the highest package has reached up to ₹11.0 LPA in recent
+      recruitment drives.
+  - question: What entrance exams are accepted by ITS Ghaziabad (Mohan Nagar)?
+    answer: >-
+      ITS Ghaziabad (Mohan Nagar) accepts scores from CAT, XAT, CMAT, MAT, ATMA
+      for shortlisting candidates for its flagship management programs.
+  - question: What is the total fee structure at ITS Ghaziabad (Mohan Nagar)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at ITS Ghaziabad
+      (Mohan Nagar) is approximately ₹3.15L - ₹6.95L (Total).
+location: Ghaziabad
 ---
 
 # ITS Ghaziabad (Mohan Nagar) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

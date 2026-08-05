@@ -5,8 +5,8 @@ title: >-
 date: '2026-08-03'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive review of O.P. Jindal Global University
-  (Jindal...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - O.P. Jindal Global University (JGU Sonipat) review 2026
   - O.P. Jindal Global University (JGU Sonipat) placements 2026

@@ -1,22 +1,39 @@
 ---
-title: "IIM Raipur Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Raipur Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Raipur covering MBA/PGDM fee structures, highest and average placements (₹21.04 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Raipur review 2026"
-  - "IIM Raipur mba fees"
-  - "IIM Raipur placements 2026"
-  - "IIM Raipur admission cutoffs"
-  - "top mba colleges in Raipur"
+  - IIM Raipur review 2026
+  - IIM Raipur mba fees
+  - IIM Raipur placements 2026
+  - IIM Raipur admission cutoffs
+  - top mba colleges in Raipur
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Raipur in 2026?"
-    answer: "The average package at IIM Raipur stands around ₹21.04 LPA, while the highest package has reached up to ₹67.6 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Raipur?"
-    answer: "IIM Raipur accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Raipur?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Raipur is approximately ₹18.0 Lakhs (Total)."
-location: "Raipur, Chhattisgarh"
+  - question: What is the average package at IIM Raipur in 2026?
+    answer: >-
+      The average package at IIM Raipur stands around ₹21.04 LPA, while the
+      highest package has reached up to ₹67.6 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by IIM Raipur?
+    answer: >-
+      IIM Raipur accepts scores from CAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at IIM Raipur?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM Raipur is
+      approximately ₹18.0 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Raipur Review 2026: Fees, Placements, Cutoffs & ROI Analysis

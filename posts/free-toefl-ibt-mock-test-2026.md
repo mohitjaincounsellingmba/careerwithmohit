@@ -40,6 +40,10 @@ To help you measure your standing, we offer a high-fidelity **[Free TOEFL iBT 20
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the duration of the TOEFL iBT exam?

@@ -4,8 +4,8 @@ date: '2026-05-03'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. In the MBA vs PGDM debate, why do top students and
-  recruiters...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - why pgdm is better than mba
   - pgdm vs mba 2026

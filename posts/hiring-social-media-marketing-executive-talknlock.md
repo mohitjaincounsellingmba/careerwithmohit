@@ -3,8 +3,8 @@ title: 'Hiring: Social Media Marketing Executive at Talknlock - Jaipur, RJ'
 date: '2026-03-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Apply for the Social Media Marketing Executive role at
-  Talknl...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Social Media Marketing Executive jobs
   - Talknlock recruitment

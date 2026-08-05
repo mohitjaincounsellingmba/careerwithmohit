@@ -6,8 +6,8 @@ date: '2026-06-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for admission to GGSIPU (Guru Gobind Singh
-  Indraprast...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - ggsipu (guru gobind singh indraprastha university) review 2026
   - ggsipu (guru gobind singh indraprastha university) pgdm placements

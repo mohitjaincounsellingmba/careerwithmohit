@@ -3,8 +3,8 @@ title: 'All About IITs: B.Tech Fees, Cutoffs, Placements & Legacy 2026'
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The complete guide to Indian Institutes of Technology
-  (IITs)....
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - IIT review 2026
   - '[IIT Bombay](/colleges/iit-bombay) placements'

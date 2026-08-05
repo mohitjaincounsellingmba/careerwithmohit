@@ -1,22 +1,39 @@
 ---
-title: "IIM Kashipur Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Kashipur Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Kashipur covering MBA/PGDM fee structures, highest and average placements (₹18.11 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Kashipur review 2026"
-  - "IIM Kashipur mba fees"
-  - "IIM Kashipur placements 2026"
-  - "IIM Kashipur admission cutoffs"
-  - "top mba colleges in Kashipur"
+  - IIM Kashipur review 2026
+  - IIM Kashipur mba fees
+  - IIM Kashipur placements 2026
+  - IIM Kashipur admission cutoffs
+  - top mba colleges in Kashipur
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Kashipur in 2026?"
-    answer: "The average package at IIM Kashipur stands around ₹18.11 LPA, while the highest package has reached up to ₹37.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Kashipur?"
-    answer: "IIM Kashipur accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Kashipur?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Kashipur is approximately ₹18.5 Lakhs (Total)."
-location: "Kashipur, Uttarakhand"
+  - question: What is the average package at IIM Kashipur in 2026?
+    answer: >-
+      The average package at IIM Kashipur stands around ₹18.11 LPA, while the
+      highest package has reached up to ₹37.0 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by IIM Kashipur?
+    answer: >-
+      IIM Kashipur accepts scores from CAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at IIM Kashipur?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM Kashipur is
+      approximately ₹18.5 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Kashipur Review 2026: Fees, Placements, Cutoffs & ROI Analysis

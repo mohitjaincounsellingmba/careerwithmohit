@@ -3,8 +3,8 @@ title: 'Vivekananda Global University (VGU) Jaipur MBA Review 2026: Placements &
 date: '2026-03-20'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. A complete 2026 review on Vivekananda Global University
-  (VGU)...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - VGU Jaipur MBA review
   - VGU Jaipur placements 2025

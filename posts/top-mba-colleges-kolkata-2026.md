@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning an MBA in Kolkata? Compare the best B-schools
-  like [...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - top mba colleges in kolkata 2026
   - best b-schools kolkata

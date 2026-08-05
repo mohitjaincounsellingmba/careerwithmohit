@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-29'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Exploring why ASM's Institute of International Business
-  and R...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - 'Why [ASM IIBR](/colleges/asm-iibr) Pune good for MBA'
   - '[ASM IIBR](/colleges/asm-iibr) Pune PGDM reviews'

@@ -4,8 +4,8 @@ date: '2026-05-21'
 category: Career Guidance
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Confused about whether to work or do an MBA
-  after yo...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - job after bba
   - mba after bba

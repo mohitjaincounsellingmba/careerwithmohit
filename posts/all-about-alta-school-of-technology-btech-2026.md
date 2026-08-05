@@ -6,8 +6,8 @@ date: '2026-06-15'
 category: B.Tech
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. A complete review of the Alta School of Technology
-  (ASOT) B.T...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Alta School of Technology review
   - ASOT B.Tech fees 2026

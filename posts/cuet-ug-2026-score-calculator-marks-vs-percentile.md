@@ -3,8 +3,8 @@ title: 'CUET UG 2026 Score Calculator: Marks vs Percentile & NTA Normalization'
 date: '2026-04-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Everything you need to know about calculating your CUET
-  UG ra...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CUET UG 2026 Score Calculator
   - CUET Score Predictor 2026

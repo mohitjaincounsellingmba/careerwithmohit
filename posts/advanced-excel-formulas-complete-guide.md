@@ -6,8 +6,8 @@ date: '2026-05-28'
 category: Career Insights
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Master the most critical Microsoft Excel formulas for
-  BBA, MB...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Advanced Excel Formulas
   - Excel Formulas Cheat Sheet

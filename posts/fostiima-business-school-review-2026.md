@@ -1,22 +1,40 @@
 ---
-title: "FOSTIIMA Business School Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'FOSTIIMA Business School Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of FOSTIIMA Business School covering MBA/PGDM fee structures, highest and average placements (₹11.15 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "FOSTIIMA Business School review 2026"
-  - "FOSTIIMA Business School mba fees"
-  - "FOSTIIMA Business School placements 2026"
-  - "FOSTIIMA Business School admission cutoffs"
-  - "top mba colleges in Dwarka"
+  - FOSTIIMA Business School review 2026
+  - FOSTIIMA Business School mba fees
+  - FOSTIIMA Business School placements 2026
+  - FOSTIIMA Business School admission cutoffs
+  - top mba colleges in Dwarka
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at FOSTIIMA Business School in 2026?"
-    answer: "The average package at FOSTIIMA Business School stands around ₹11.15 LPA, while the highest package has reached up to ₹30.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by FOSTIIMA Business School?"
-    answer: "FOSTIIMA Business School accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at FOSTIIMA Business School?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at FOSTIIMA Business School is approximately ₹11.50 Lakhs (Total)."
-location: "Dwarka, West Delhi"
+  - question: What is the average package at FOSTIIMA Business School in 2026?
+    answer: >-
+      The average package at FOSTIIMA Business School stands around ₹11.15 LPA,
+      while the highest package has reached up to ₹30.0 LPA in recent
+      recruitment drives.
+  - question: What entrance exams are accepted by FOSTIIMA Business School?
+    answer: >-
+      FOSTIIMA Business School accepts scores from CAT, XAT, CMAT, MAT, ATMA for
+      shortlisting candidates for its flagship management programs.
+  - question: What is the total fee structure at FOSTIIMA Business School?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at FOSTIIMA
+      Business School is approximately ₹11.50 Lakhs (Total).
+location: Delhi
 ---
 
 # FOSTIIMA Business School Review 2026: Fees, Placements, Cutoffs & ROI Analysis

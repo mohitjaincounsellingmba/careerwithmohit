@@ -3,8 +3,8 @@ title: 'HEC Paris MBA Review 2026: Fees in INR, Placements & Admission'
 date: '2026-04-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to study at HEC Paris?
-  Get a c...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - HEC Paris MBA 2026
   - HEC Paris MBA fees in INR

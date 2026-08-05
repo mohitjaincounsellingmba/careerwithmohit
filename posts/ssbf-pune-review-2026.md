@@ -1,22 +1,49 @@
 ---
-title: "SSBF Pune (Symbiosis School of Banking and Finance) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  SSBF Pune (Symbiosis School of Banking and Finance) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of SSBF Pune (Symbiosis School of Banking and Finance) covering MBA/PGDM fee structures, highest and average placements (₹11.00 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "SSBF Pune (Symbiosis School of Banking and Finance) review 2026"
-  - "SSBF Pune (Symbiosis School of Banking and Finance) mba fees"
-  - "SSBF Pune (Symbiosis School of Banking and Finance) placements 2026"
-  - "SSBF Pune (Symbiosis School of Banking and Finance) admission cutoffs"
-  - "top mba colleges in Pune"
+  - SSBF Pune (Symbiosis School of Banking and Finance) review 2026
+  - SSBF Pune (Symbiosis School of Banking and Finance) mba fees
+  - SSBF Pune (Symbiosis School of Banking and Finance) placements 2026
+  - SSBF Pune (Symbiosis School of Banking and Finance) admission cutoffs
+  - top mba colleges in Pune
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at SSBF Pune (Symbiosis School of Banking and Finance) in 2026?"
-    answer: "The average package at SSBF Pune (Symbiosis School of Banking and Finance) stands around ₹11.00 LPA, while the highest package has reached up to ₹19.6 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by SSBF Pune (Symbiosis School of Banking and Finance)?"
-    answer: "SSBF Pune (Symbiosis School of Banking and Finance) accepts scores from SNAP for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at SSBF Pune (Symbiosis School of Banking and Finance)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at SSBF Pune (Symbiosis School of Banking and Finance) is approximately ₹17.0 Lakhs (Total)."
-location: "Pune, Maharashtra"
+  - question: >-
+      What is the average package at SSBF Pune (Symbiosis School of Banking and
+      Finance) in 2026?
+    answer: >-
+      The average package at SSBF Pune (Symbiosis School of Banking and Finance)
+      stands around ₹11.00 LPA, while the highest package has reached up to
+      ₹19.6 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by SSBF Pune (Symbiosis School of Banking
+      and Finance)?
+    answer: >-
+      SSBF Pune (Symbiosis School of Banking and Finance) accepts scores from
+      SNAP for shortlisting candidates for its flagship management programs.
+  - question: >-
+      What is the total fee structure at SSBF Pune (Symbiosis School of Banking
+      and Finance)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at SSBF Pune
+      (Symbiosis School of Banking and Finance) is approximately ₹17.0 Lakhs
+      (Total).
+location: Delhi
 ---
 
 # SSBF Pune (Symbiosis School of Banking and Finance) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

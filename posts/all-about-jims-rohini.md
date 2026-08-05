@@ -3,8 +3,8 @@ title: 'JIMS Rohini Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Review of JIMS Rohini. Explore the 100% placement
-  record, top...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JIMS Rohini review 2026
   - JIMS Rohini placement 2024

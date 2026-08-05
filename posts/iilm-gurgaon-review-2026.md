@@ -1,22 +1,42 @@
 ---
-title: "IILM University (Gurugram Campus) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  IILM University (Gurugram Campus) Review 2026: Fees, Placements, Cutoffs & ROI
+  Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IILM University (Gurugram Campus) covering MBA/PGDM fee structures, highest and average placements (₹8.6 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Comprehensive 2026 review of IILM University (Gurugram Campus) covering
+  MBA/PGDM fee structures, highest and average placements (₹8.6 LPA), entrance
+  exam cutoffs, ROI analysis, and direct admission details.
 keywords:
-  - "IILM University (Gurugram Campus) review 2026"
-  - "IILM University (Gurugram Campus) mba fees"
-  - "IILM University (Gurugram Campus) placements 2026"
-  - "IILM University (Gurugram Campus) admission cutoffs"
-  - "top mba colleges in Sector 53"
+  - IILM University (Gurugram Campus) review 2026
+  - IILM University (Gurugram Campus) mba fees
+  - IILM University (Gurugram Campus) placements 2026
+  - IILM University (Gurugram Campus) admission cutoffs
+  - top mba colleges in Sector 53
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IILM University (Gurugram Campus) in 2026?"
-    answer: "The average package at IILM University (Gurugram Campus) stands around ₹8.6 LPA, while the highest package has reached up to ₹26.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IILM University (Gurugram Campus)?"
-    answer: "IILM University (Gurugram Campus) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IILM University (Gurugram Campus)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IILM University (Gurugram Campus) is approximately ₹11.50 Lakhs (Total)."
-location: "Sector 53, Gurugram"
+  - question: What is the average package at IILM University (Gurugram Campus) in 2026?
+    answer: >-
+      The average package at IILM University (Gurugram Campus) stands around
+      ₹8.6 LPA, while the highest package has reached up to ₹26.0 LPA in recent
+      recruitment drives.
+  - question: What entrance exams are accepted by IILM University (Gurugram Campus)?
+    answer: >-
+      IILM University (Gurugram Campus) accepts scores from CAT, XAT, CMAT, MAT,
+      ATMA for shortlisting candidates for its flagship management programs.
+  - question: What is the total fee structure at IILM University (Gurugram Campus)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IILM University
+      (Gurugram Campus) is approximately ₹11.50 Lakhs (Total).
+location: Gurgaon
 ---
 
 # IILM University (Gurugram Campus) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

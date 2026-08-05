@@ -4,8 +4,8 @@ date: '2026-04-25'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Explore the best MBA colleges in India for
-  2026. Get...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - best mba colleges
   - top mba colleges in india

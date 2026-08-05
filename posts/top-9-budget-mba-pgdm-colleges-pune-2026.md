@@ -6,8 +6,8 @@ date: '2026-05-04'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for an affordable MBA or PGDM in Pune? Compare
-  the to...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - budget MBA colleges Pune 2026
   - affordable PGDM Pune

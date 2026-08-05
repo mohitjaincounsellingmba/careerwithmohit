@@ -3,8 +3,8 @@ title: 'What is IIM BLACKI? 2026 Guide to Fees, Placements, CAT Cutoffs & Rankin
 date: '2026-07-27'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Complete guide to IIM BLACKI
-  (Bangalore...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - IIM BLACKI
   - IIM BLACKI full form
@@ -145,7 +145,7 @@ A common mistake among MBA aspirants is confusing **Qualifying (Eligibility) Cut
 
 Here is the realistic **Final Interview Call Percentile** you should target for IIM BLACKI:
 
-| Category | IIM Ahmedabad | IIM Bangalore | IIM Calcutta | IIM Lucknow | IIM Kozhikode | IIM Indore |
+| Category | [IIM Ahmedabad](/colleges/iim-ahmedabad) | [IIM Bangalore](/colleges/iim-bangalore) | [IIM Calcutta](/colleges/iim-calcutta) | IIM Lucknow | IIM Kozhikode | IIM Indore |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **General (GEM)** | 99.6+ %ile | 99.5+ %ile | 99.6+ %ile | 99.3+ %ile | 99.0+ %ile | 99.0+ %ile |
 | **General (Non-Engineer / Diversity)** | 98.5+ %ile | 98.5+ %ile | 99.2+ %ile | 98.2+ %ile | 97.5+ %ile | 97.5+ %ile |
@@ -161,7 +161,7 @@ Here is the realistic **Final Interview Call Percentile** you should target for 
 Scoring a 99.8 percentile in CAT does not automatically guarantee admission to an IIM BLACKI institute. Almost every top IIM uses a **Composite Score Formula** to shortlist candidates for Personal Interviews (PI) and final admission:
 
 1.  **CAT Percentile (40% – 60% Weightage):** High sectional and overall CAT scores remain the primary filter.
-2.  **Academic Consistency (15% – 30% Weightage):** Your Class 10, Class 12, and Graduation percentages play a decisive role. Scoring **90%+ across 10th and 12th** dramatically increases your chances at IIM Bangalore, Indore, and Ahmedabad.
+2.  **Academic Consistency (15% – 30% Weightage):** Your Class 10, Class 12, and Graduation percentages play a decisive role. Scoring **90%+ across 10th and 12th** dramatically increases your chances at [IIM Bangalore](/colleges/iim-bangalore), Indore, and Ahmedabad.
 3.  **Work Experience (5% – 10% Weightage):** Candidates with **12 to 36 months of full-time work experience** receive maximum bonus points.
 4.  **Academic & Gender Diversity (5% – 10% Weightage):** Non-engineers (Commerce, Arts, Medical, Law) and female candidates receive diversity points to encourage a balanced classroom.
 5.  **WAT / GD / PI Performance (30% – 50% Weightage in Final Round):** Your Written Ability Test and Personal Interview performance ultimately decide whether you convert your interview call.

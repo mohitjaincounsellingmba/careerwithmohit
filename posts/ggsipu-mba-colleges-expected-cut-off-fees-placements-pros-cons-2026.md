@@ -5,8 +5,8 @@ title: >-
 date: '2026-06-11'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Looking for GGSIPU MBA colleges?
-  Get ex...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - ggsipu mba colleges expected cut off
   - ipu mba rank wise cutoff

@@ -3,8 +3,8 @@ title: 'Complete List of 21 IIMs in India 2026: Courses, Placements & Admission 
 date: '2026-03-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Explore all 21 IIMs in India. Detailed individual
-  breakdown o...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[IIM Ahmedabad](/colleges/iim-ahmedabad)'
   - '[IIM Bangalore](/colleges/iim-bangalore)'

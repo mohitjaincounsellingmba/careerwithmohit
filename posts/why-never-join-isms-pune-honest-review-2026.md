@@ -3,8 +3,8 @@ title: ISMS PUNE REVIEW
 date: '2026-03-29'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for [ISMS Pune](/colleges/isms-pune) MBA honest
-  revie...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[ISMS Pune](/colleges/isms-pune) negative review'
   - '[ISMS Pune](/colleges/isms-pune) placement reality 2026'

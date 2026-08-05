@@ -3,8 +3,8 @@ title: 'Taking a Gap Year for MBA preparation: Is it a Good Choice for 2026?'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused about taking a drop for CAT/MBA preparation?
-  Direct ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - gap year for mba
   - mba drop year

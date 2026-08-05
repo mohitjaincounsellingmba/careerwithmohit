@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to study at University
-  of Camb...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - University of Cambridge (Judge) MBA 2026
   - University of Cambridge (Judge) MBA fees in INR

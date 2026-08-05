@@ -3,8 +3,8 @@ title: 'MICA Ahmedabad Review 2026: The ''Mecca'' of Marketing & Communications'
 date: '2026-03-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is MICA worth the 28 Lakhs fee? Explore our MICA
-  Ahmedabad re...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MICA Ahmedabad review 2026
   - MICA PGDM-C placements

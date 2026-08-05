@@ -3,8 +3,8 @@ title: 'MAT College Predictor 2026: Predict Your MBA Admissions with Precision'
 date: '2026-03-19'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Use our free MAT College
-  Predictor 2026...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MAT college predictor 2026
   - MAT score vs percentile 2026

@@ -3,8 +3,8 @@ title: 'All About OMET MBA Entrance Exams 2026: Process, Colleges & Cutoffs'
 date: '2026-06-03'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. A comprehensive guide to Other
-  Manageme...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - OMET MBA entrance exams 2026
   - What is OMET

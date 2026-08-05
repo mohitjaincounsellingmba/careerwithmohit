@@ -6,8 +6,8 @@ date: '2026-06-27'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Master the CAT 2026 exam prep in Kanchipuram. Find the
-  best o...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CAT 2026 preparation in Kanchipuram
   - best CAT coaching classes in Kanchipuram

@@ -1,9 +1,10 @@
 ---
-title: >-
-  Total Seats in IIMs 2026: Institute-wise Seat Matrix for CAT Aspirants
+title: 'Total Seats in IIMs 2026: Institute-wise Seat Matrix for CAT Aspirants'
 date: '2026-08-04'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top colleges in India. Detailed guide on IIM seat matrix, category-wise reservations, and campus-wise PGP MBA intake for 2026-28.
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - total seats in IIM 2026
   - IIM seat matrix 2026
@@ -20,20 +21,36 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
 faqs:
   - question: How many total seats are there in all 21 IIMs for MBA/PGP?
     answer: >-
-      There are approximately 5,500 to 5,800 flagship PGP/MBA seats across all 21 IIMs in India. When including specialized MBA programs (such as Business Analytics, HR, Agri-Business, and Executive MBAs), the total intake capacity is around 7,500 to 8,000 seats.
+      There are approximately 5,500 to 5,800 flagship PGP/MBA seats across all
+      21 IIMs in India. When including specialized MBA programs (such as
+      Business Analytics, HR, Agri-Business, and Executive MBAs), the total
+      intake capacity is around 7,500 to 8,000 seats.
   - question: What is the reservation percentage for General category in IIMs?
     answer: >-
-      All IIMs follow the Government of India reservation policy. Around 40.5% of the total seats are available under the General (Unreserved/Open) category, while 27% are reserved for NC-OBC, 15% for SC, 7.5% for ST, 10% for EWS, and 5% horizontal reservation for PwD candidates.
+      All IIMs follow the Government of India reservation policy. Around 40.5%
+      of the total seats are available under the General (Unreserved/Open)
+      category, while 27% are reserved for NC-OBC, 15% for SC, 7.5% for ST, 10%
+      for EWS, and 5% horizontal reservation for PwD candidates.
   - question: Which IIM has the highest number of MBA seats?
     answer: >-
-      IIM Indore and IIM Lucknow have among the highest total intakes. IIM Indore offers around 450-480 flagship PGP seats plus its Integrated Programme in Management (IPM), while IIM Lucknow offers around 500+ flagship seats along with Agri-Business and Sustainability Management programs.
+      IIM Indore and IIM Lucknow have among the highest total intakes. IIM
+      Indore offers around 450-480 flagship PGP seats plus its Integrated
+      Programme in Management (IPM), while IIM Lucknow offers around 500+
+      flagship seats along with Agri-Business and Sustainability Management
+      programs.
   - question: What is the difference between an MBA and a PGDM from an IIM?
     answer: >-
-      Following the IIM Act of 2017, Indian Institutes of Management now award Master of Business Administration (MBA) degrees instead of Post Graduate Diploma in Management (PGDM) for their flagship two-year programs.
-location: Noida
+      Following the IIM Act of 2017, Indian Institutes of Management now award
+      Master of Business Administration (MBA) degrees instead of Post Graduate
+      Diploma in Management (PGDM) for their flagship two-year programs.
+location: Gurgaon
 ---
 Getting into an **Indian Institute of Management (IIM)** is the ultimate dream for thousands of management aspirants appearing for the **Common Admission Test (CAT)** every year. While tracking cutoffs and placement reports is essential, understanding the **IIM Seat Matrix** gives you a realistic view of your competition and helps you strategize your B-school applications.
 
@@ -122,9 +139,9 @@ The youngest generation of IIMs has rapidly expanded their infrastructure and se
 
 ### **How Strategic MBA Aspirants Maximize Their Calls**
 
-1.  **Target Specialized MBA Programs:** If your percentile is slightly below the flagship PGP cutoff for an Old IIM, applying for specialized programs like **IIM Bangalore (Business Analytics)**, **IIM Lucknow (Agri-Business / Sustainability)**, or **IIM Kozhikode (Liberal Studies & Management)** can help you earn the coveted IIM brand tag.
+1.  **Target Specialized MBA Programs:** If your percentile is slightly below the flagship PGP cutoff for an Old IIM, applying for specialized programs like **[IIM Bangalore](/colleges/iim-bangalore) (Business Analytics)**, **IIM Lucknow (Agri-Business / Sustainability)**, or **IIM Kozhikode (Liberal Studies & Management)** can help you earn the coveted IIM brand tag.
 2.  **Understand Open Merit Dynamics:** With only **~40.5% of seats (~2,200 seats across India)** available under General unreserved merit, competition is exceptionally intense. For Old IIMs, General category candidates typically need a **99.0+ CAT percentile**, along with a strong academic profile (10th, 12th, and graduation scores).
-3.  **Keep Top Private B-Schools as Parallel Backups:** Don't rely solely on IIM calls. Top-tier private B-schools such as **FMS Delhi**, **SPJIMR Mumbai**, **MDI Gurgaon**, **XLRI Jamshedpur** (via XAT), and **IMT Ghaziabad** offer placements and batch profiles at par with BLACKI IIMs.
+3.  **Keep Top Private B-Schools as Parallel Backups:** Don't rely solely on IIM calls. Top-tier private B-schools such as **[FMS Delhi](/colleges/fms-delhi)**, **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**, **[MDI Gurgaon](/colleges/mdi-gurgaon)**, **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** (via XAT), and **IMT Ghaziabad** offer placements and batch profiles at par with BLACKI IIMs.
 
 ---
 

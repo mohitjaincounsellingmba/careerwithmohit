@@ -5,8 +5,8 @@ title: >-
 date: '2026-07-21'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete guide for MBBS admission 2026 at Christian
-  Medical C...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CMC Ludhiana MBBS admission 2026
   - CMC Ludhiana fee structure

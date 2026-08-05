@@ -6,8 +6,8 @@ date: '2026-07-28'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete 2026 review of the PG in Global Finance & AI
-  at Imar...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - pg in global finance and ai
   - imarticus pg in global finance

@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-10'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Discover the best MBA in
-  Healthcare Man...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - Healthcare Management MBA India 2026
   - Hospital Administration Colleges India

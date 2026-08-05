@@ -4,7 +4,7 @@ import CatMockTestPage, { metadata as originalMetadata } from '@/app/tools/cat-m
 export const metadata: Metadata = {
   ...originalMetadata,
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/mock-tests/cat',
+    canonical: 'https://www.careerwithmohit.online/tools/cat-mock-test',
   },
 };
 

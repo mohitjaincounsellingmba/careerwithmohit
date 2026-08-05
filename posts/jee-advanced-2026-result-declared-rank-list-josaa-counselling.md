@@ -5,8 +5,8 @@ title: >-
 date: '2026-06-01'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. IIT Roorkee declared JEE Advanced 2026 results on May
-  31, 202...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JEE Advanced 2026 result declared
   - JEE Advanced result date 2026

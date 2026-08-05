@@ -6,8 +6,8 @@ date: '2026-04-24'
 category: B.Tech Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete guide to Direct Second Year (DSE) Engineering
-  admiss...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - btech lateral entry pune 2026
   - direct second year engineering admission maharashtra

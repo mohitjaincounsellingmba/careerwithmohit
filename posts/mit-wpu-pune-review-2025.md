@@ -3,8 +3,8 @@ title: 'MIT-WPU Pune MBA Review 2025: Placements, Fees & Infrastructure'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is MIT-WPU good for MBA? Explore our detailed review of
-  MIT W...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MIT-WPU Pune review 2025
   - MIT-WPU MBA placements

@@ -3,8 +3,8 @@ title: 'The Wharton School MBA Review 2026: Fees in INR, Placements & Admission'
 date: '2026-04-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning to study at The Wharton
-  School...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - The Wharton School MBA 2026
   - The Wharton School MBA fees in INR

@@ -3,8 +3,8 @@ title: 'Direct MBA Admission in Mumbai 2026: Management Quota & Selection Criter
 date: '2026-03-19'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Your ultimate guide to direct MBA admission in Mumbai
-  for the...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - direct mba admission mumbai 2026
   - management quota mba mumbai

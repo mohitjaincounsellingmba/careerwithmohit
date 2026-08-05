@@ -6,8 +6,8 @@ date: '2026-03-26'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for an honest, highly positive review of the
-  Vivekana...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Vivekananda Global University (VGU) online MBA review
   - VGU Online MBA placements

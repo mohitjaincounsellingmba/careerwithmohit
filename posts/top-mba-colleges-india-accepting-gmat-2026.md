@@ -15,7 +15,10 @@ tags:
   - IIM PGPX
   - Study in India
   - GMAT Focus Edition
-description: "Discover rankings, direct admission, fees, and placement reports for top colleges in Gurgaon, Delhi NCR. \U0001F4CA Quick GMAT 2026 Snapshot for Indian B-Schools | B..."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - MBA admission 2026
   - best MBA colleges

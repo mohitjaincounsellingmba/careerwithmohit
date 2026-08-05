@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: MCA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Missed the NIMCET or MAH MCA CET
-  2026 e...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - direct mca admission 2026
   - mca management quota fees

@@ -3,8 +3,8 @@ title: 'Manav Rachna University Online Review 2026: MBA, MCA, BBA & BCA Fee Stru
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Faridabad, Delhi NCR. Is Manav Rachna Online a good choice in
-  2026? Chec...
+  colleges in Faridabad, Delhi NCR. Get details on top colleges under GGSIPU,
+  DU, and pri
 keywords:
   - Manav Rachna University Online review 2026
   - Manav Rachna online MBA fees

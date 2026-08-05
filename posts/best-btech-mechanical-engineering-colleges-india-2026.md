@@ -6,8 +6,8 @@ date: '2026-04-20'
 category: B.Tech Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Top B.Tech Mechanical Engineering colleges in India
-  2026 — II...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - best btech mechanical engineering colleges india
   - top mechanical engineering colleges india 2026

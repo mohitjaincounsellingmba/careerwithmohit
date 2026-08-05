@@ -16,8 +16,8 @@ metaDescription: >-
   admission strategy.
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. MBA Entrance Exam Dates 2026 Preparing for an MBA?
-  Knowing th...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MBA admission 2026
   - best MBA colleges

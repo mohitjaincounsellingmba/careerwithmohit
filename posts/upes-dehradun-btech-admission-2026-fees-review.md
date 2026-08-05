@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Planning for B.Tech at [UPES
-  Dehradun](...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - '[UPES Dehradun](/colleges/upes-dehradun) BTech admission 2026'
   - '[UPES Dehradun](/colleges/upes-dehradun) CSE cutoff 2025'

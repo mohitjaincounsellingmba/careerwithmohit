@@ -44,6 +44,10 @@ To help students adjust to this unique, adaptive format, we have launched our co
 
 ---
 
+---
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of NMAT 2026?

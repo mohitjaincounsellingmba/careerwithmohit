@@ -3,8 +3,8 @@ title: 'CUET UG 2026 Score Calculator: Marks vs Percentile & Response Sheet Pars
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Calculate your CUET UG 2026 raw score instantly. Use
-  our free...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CUET UG 2026 Score Calculator
   - CUET UG marks vs percentile

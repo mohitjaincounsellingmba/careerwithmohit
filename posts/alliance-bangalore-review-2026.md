@@ -1,22 +1,50 @@
 ---
-title: "Alliance University (Alliance School of Business) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  Alliance University (Alliance School of Business) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of Alliance University (Alliance School of Business) covering MBA/PGDM fee structures, highest and average placements (₹10.5 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "Alliance University (Alliance School of Business) review 2026"
-  - "Alliance University (Alliance School of Business) mba fees"
-  - "Alliance University (Alliance School of Business) placements 2026"
-  - "Alliance University (Alliance School of Business) admission cutoffs"
-  - "top mba colleges in Anekal Campus"
+  - Alliance University (Alliance School of Business) review 2026
+  - Alliance University (Alliance School of Business) mba fees
+  - Alliance University (Alliance School of Business) placements 2026
+  - Alliance University (Alliance School of Business) admission cutoffs
+  - top mba colleges in Anekal Campus
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at Alliance University (Alliance School of Business) in 2026?"
-    answer: "The average package at Alliance University (Alliance School of Business) stands around ₹10.5 LPA, while the highest package has reached up to ₹40.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by Alliance University (Alliance School of Business)?"
-    answer: "Alliance University (Alliance School of Business) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at Alliance University (Alliance School of Business)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at Alliance University (Alliance School of Business) is approximately ₹15.00L - ₹18.00L (Total)."
-location: "Anekal Campus, Bangalore"
+  - question: >-
+      What is the average package at Alliance University (Alliance School of
+      Business) in 2026?
+    answer: >-
+      The average package at Alliance University (Alliance School of Business)
+      stands around ₹10.5 LPA, while the highest package has reached up to ₹40.0
+      LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by Alliance University (Alliance School
+      of Business)?
+    answer: >-
+      Alliance University (Alliance School of Business) accepts scores from CAT,
+      XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship
+      management programs.
+  - question: >-
+      What is the total fee structure at Alliance University (Alliance School of
+      Business)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at Alliance
+      University (Alliance School of Business) is approximately ₹15.00L -
+      ₹18.00L (Total).
+location: Delhi
 ---
 
 # Alliance University (Alliance School of Business) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

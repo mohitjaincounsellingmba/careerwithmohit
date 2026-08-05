@@ -6,8 +6,8 @@ date: '2026-07-01'
 category: B.Tech
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. A detailed, unbiased review of upGrad School of
-  Technology (u...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - upGrad School of Technology review
   - uGSOT B.Tech fees 2026

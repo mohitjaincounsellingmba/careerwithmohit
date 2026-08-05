@@ -1,22 +1,39 @@
 ---
-title: "IIM Shillong Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'IIM Shillong Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of IIM Shillong covering MBA/PGDM fee structures, highest and average placements (₹26.96 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "IIM Shillong review 2026"
-  - "IIM Shillong mba fees"
-  - "IIM Shillong placements 2026"
-  - "IIM Shillong admission cutoffs"
-  - "top mba colleges in Shillong"
+  - IIM Shillong review 2026
+  - IIM Shillong mba fees
+  - IIM Shillong placements 2026
+  - IIM Shillong admission cutoffs
+  - top mba colleges in Shillong
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at IIM Shillong in 2026?"
-    answer: "The average package at IIM Shillong stands around ₹26.96 LPA, while the highest package has reached up to ₹71.3 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by IIM Shillong?"
-    answer: "IIM Shillong accepts scores from CAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at IIM Shillong?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at IIM Shillong is approximately ₹19.1 Lakhs (Total)."
-location: "Shillong, Meghalaya"
+  - question: What is the average package at IIM Shillong in 2026?
+    answer: >-
+      The average package at IIM Shillong stands around ₹26.96 LPA, while the
+      highest package has reached up to ₹71.3 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by IIM Shillong?
+    answer: >-
+      IIM Shillong accepts scores from CAT for shortlisting candidates for its
+      flagship management programs.
+  - question: What is the total fee structure at IIM Shillong?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at IIM Shillong is
+      approximately ₹19.1 Lakhs (Total).
+location: Delhi
 ---
 
 # IIM Shillong Review 2026: Fees, Placements, Cutoffs & ROI Analysis

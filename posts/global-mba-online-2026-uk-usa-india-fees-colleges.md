@@ -6,8 +6,8 @@ date: '2026-04-25'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Complete guide to Global MBA programs online in 2026
-  from top...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - global MBA online 2026
   - global MBA India UK USA

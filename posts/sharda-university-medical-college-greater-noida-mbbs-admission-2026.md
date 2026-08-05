@@ -160,7 +160,7 @@ Clinical exposure is the cornerstone of modern medical education. Sharda Medical
 ### Q1: Can non-UP students apply for [Sharda University](/colleges/sharda-greater-noida) MBBS?
 Yes! Uttar Pradesh private medical college seats are 100% open to students from all states across India through UP NEET Counselling.
 
-### Q2: What is the total fee for MBBS in Sharda University?
+### Q2: What is the total fee for MBBS in [Sharda University](/colleges/sharda-greater-noida)?
 The total fee package is around ₹15.5 Lakhs to ₹16.5 Lakhs per year including hostel, security, and tuition fees.
 
 ### Q3: What is the NEET cutoff for Sharda Medical College Greater Noida?

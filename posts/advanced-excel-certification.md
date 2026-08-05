@@ -4,8 +4,8 @@ date: '2026-03-13'
 category: Career Insights
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Master Microsoft Excel with this comprehensive advanced
-  certi...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Advanced Excel Course
   - Excel Certification Online India

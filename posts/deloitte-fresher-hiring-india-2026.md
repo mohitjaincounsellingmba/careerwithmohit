@@ -3,8 +3,8 @@ title: 'Deloitte India Fresher Hiring 2026: NLA & Campus Drive Guide'
 date: '2026-04-22'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Apply for Deloitte India's 2026 fresher
-  hiring. Deta...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - Deloitte fresher hiring 2026
   - Deloitte NLA 2026

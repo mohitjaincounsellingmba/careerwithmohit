@@ -4,8 +4,8 @@ date: '2026-06-04'
 category: Career Counselling
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused between an MBA and an MTech in 2026? Compare
-  key dif...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - mba vs mtech
   - mba or mtech which is better

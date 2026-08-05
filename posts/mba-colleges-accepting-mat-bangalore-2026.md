@@ -4,8 +4,8 @@ date: '2026-06-05'
 category: MBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Find the top MBA colleges accepting MAT in Bangalore
-  (Bengalu...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MBA Colleges Accepting MAT Score in Bangalore
   - xime bangalore mat cutoff

@@ -1,22 +1,50 @@
 ---
-title: "SCIT Pune (Symbiosis Centre for Information Technology) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  SCIT Pune (Symbiosis Centre for Information Technology) Review 2026: Fees,
+  Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of SCIT Pune (Symbiosis Centre for Information Technology) covering MBA/PGDM fee structures, highest and average placements (₹11.20 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "SCIT Pune (Symbiosis Centre for Information Technology) review 2026"
-  - "SCIT Pune (Symbiosis Centre for Information Technology) mba fees"
-  - "SCIT Pune (Symbiosis Centre for Information Technology) placements 2026"
-  - "SCIT Pune (Symbiosis Centre for Information Technology) admission cutoffs"
-  - "top mba colleges in Pune"
+  - SCIT Pune (Symbiosis Centre for Information Technology) review 2026
+  - SCIT Pune (Symbiosis Centre for Information Technology) mba fees
+  - SCIT Pune (Symbiosis Centre for Information Technology) placements 2026
+  - SCIT Pune (Symbiosis Centre for Information Technology) admission cutoffs
+  - top mba colleges in Pune
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at SCIT Pune (Symbiosis Centre for Information Technology) in 2026?"
-    answer: "The average package at SCIT Pune (Symbiosis Centre for Information Technology) stands around ₹11.20 LPA, while the highest package has reached up to ₹30.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by SCIT Pune (Symbiosis Centre for Information Technology)?"
-    answer: "SCIT Pune (Symbiosis Centre for Information Technology) accepts scores from SNAP for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at SCIT Pune (Symbiosis Centre for Information Technology)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at SCIT Pune (Symbiosis Centre for Information Technology) is approximately ₹16.5 Lakhs (Total)."
-location: "Pune, Maharashtra"
+  - question: >-
+      What is the average package at SCIT Pune (Symbiosis Centre for Information
+      Technology) in 2026?
+    answer: >-
+      The average package at SCIT Pune (Symbiosis Centre for Information
+      Technology) stands around ₹11.20 LPA, while the highest package has
+      reached up to ₹30.0 LPA in recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by SCIT Pune (Symbiosis Centre for
+      Information Technology)?
+    answer: >-
+      SCIT Pune (Symbiosis Centre for Information Technology) accepts scores
+      from SNAP for shortlisting candidates for its flagship management
+      programs.
+  - question: >-
+      What is the total fee structure at SCIT Pune (Symbiosis Centre for
+      Information Technology)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at SCIT Pune
+      (Symbiosis Centre for Information Technology) is approximately ₹16.5 Lakhs
+      (Total).
+location: Delhi
 ---
 
 # SCIT Pune (Symbiosis Centre for Information Technology) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

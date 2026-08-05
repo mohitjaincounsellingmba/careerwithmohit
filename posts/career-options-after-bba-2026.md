@@ -4,8 +4,8 @@ date: '2026-04-19'
 category: Career Counselling
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Confused about what to do after BBA? Discover the top
-  career ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - career options after BBA
   - what to do after BBA

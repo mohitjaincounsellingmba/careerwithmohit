@@ -3,8 +3,8 @@ title: 'All About NIBM Pune: Fees, Placements, Cutoffs & Honest Review (2026)'
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The ultimate guide to the National Institute of Bank
-  Manageme...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - NIBM Pune review
   - NIBM Pune placements 2026

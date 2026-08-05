@@ -79,7 +79,7 @@ Management Development Institute (MDI) Gurugram, located in Sukhrali in the hear
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for MDI Gurgaon (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [MDI Gurgaon](/colleges/mdi-gurgaon) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -110,7 +110,7 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** McKinsey, BCG, Bain, Goldman Sachs, JP Morgan, HUL, ITC, Google, Microsoft, Amazon
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹25.50 LPA - ₹27.60 LPA**, MDI Gurgaon provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹25.50 LPA - ₹27.60 LPA**, [MDI Gurgaon](/colleges/mdi-gurgaon) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 

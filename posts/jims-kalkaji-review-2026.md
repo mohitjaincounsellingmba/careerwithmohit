@@ -1,22 +1,47 @@
 ---
-title: "JIMS Kalkaji (Jagannath International) Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: >-
+  JIMS Kalkaji (Jagannath International) Review 2026: Fees, Placements, Cutoffs
+  & ROI Analysis
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of JIMS Kalkaji (Jagannath International) covering MBA/PGDM fee structures, highest and average placements (₹10.5 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "JIMS Kalkaji (Jagannath International) review 2026"
-  - "JIMS Kalkaji (Jagannath International) mba fees"
-  - "JIMS Kalkaji (Jagannath International) placements 2026"
-  - "JIMS Kalkaji (Jagannath International) admission cutoffs"
-  - "top mba colleges in Kalkaji"
+  - JIMS Kalkaji (Jagannath International) review 2026
+  - JIMS Kalkaji (Jagannath International) mba fees
+  - JIMS Kalkaji (Jagannath International) placements 2026
+  - JIMS Kalkaji (Jagannath International) admission cutoffs
+  - top mba colleges in Kalkaji
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at JIMS Kalkaji (Jagannath International) in 2026?"
-    answer: "The average package at JIMS Kalkaji (Jagannath International) stands around ₹10.5 LPA, while the highest package has reached up to ₹35.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by JIMS Kalkaji (Jagannath International)?"
-    answer: "JIMS Kalkaji (Jagannath International) accepts scores from CAT, XAT, CMAT, MAT, ATMA for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at JIMS Kalkaji (Jagannath International)?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at JIMS Kalkaji (Jagannath International) is approximately ₹10.75 Lakhs (Total)."
-location: "Kalkaji, South Delhi"
+  - question: >-
+      What is the average package at JIMS Kalkaji (Jagannath International) in
+      2026?
+    answer: >-
+      The average package at JIMS Kalkaji (Jagannath International) stands
+      around ₹10.5 LPA, while the highest package has reached up to ₹35.0 LPA in
+      recent recruitment drives.
+  - question: >-
+      What entrance exams are accepted by JIMS Kalkaji (Jagannath
+      International)?
+    answer: >-
+      JIMS Kalkaji (Jagannath International) accepts scores from CAT, XAT, CMAT,
+      MAT, ATMA for shortlisting candidates for its flagship management
+      programs.
+  - question: What is the total fee structure at JIMS Kalkaji (Jagannath International)?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at JIMS Kalkaji
+      (Jagannath International) is approximately ₹10.75 Lakhs (Total).
+location: Delhi
 ---
 
 # JIMS Kalkaji (Jagannath International) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

@@ -4,8 +4,8 @@ date: '2026-05-06'
 category: Entrance Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The NTA has officially released the CUET UG 2026 admit
-  cards....
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - CUET UG 2026 admit card out
   - CUET UG 2026 exam date

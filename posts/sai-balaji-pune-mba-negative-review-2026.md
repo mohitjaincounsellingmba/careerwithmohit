@@ -3,8 +3,8 @@ title: 'Sai Balaji Pune MBA Review 2026: The Honest & Negative Reality'
 date: '2026-03-25'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for an honest Sai Balaji Pune MBA negative
-  review? Di...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Sai Balaji Pune negative review
   - SBIIMS Pune MBA review 2026

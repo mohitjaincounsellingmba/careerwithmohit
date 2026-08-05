@@ -17,8 +17,8 @@ tags:
   - Top Colleges
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Symbiosis International (Deemed
-  Univers...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - career counselling
   - admissions 2026

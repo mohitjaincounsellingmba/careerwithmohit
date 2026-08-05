@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Reviewing FUEL Pune: Discover their skill-focused PGDM
-  progra...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - FUEL Pune review 2025
   - '[FUEL Business School](/colleges/fuel-business-school) placements'

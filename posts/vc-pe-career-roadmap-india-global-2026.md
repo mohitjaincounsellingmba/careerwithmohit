@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: Finance
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning to break into the world of VC or PE in 2026?
-  Discove...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - venture capital career path india 2026
   - how to get into private equity 2026

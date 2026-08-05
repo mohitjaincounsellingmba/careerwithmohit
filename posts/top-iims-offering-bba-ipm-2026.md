@@ -4,8 +4,8 @@ date: '2026-05-20'
 category: BBA Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Looking for the top IIMs offering BBA or
-  5-Year Inte...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - top iim offering bba
   - iim bba program fees

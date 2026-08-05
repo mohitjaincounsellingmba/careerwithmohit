@@ -3,8 +3,8 @@ title: 'DY Patil University (GBSRC) Pune Review 2025: Placements & Academic Lega
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Explore the Global Business School (GBSRC) at DY Patil
-  Univer...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - DY Patil University Pune review 2025
   - GBSRC Pune placements

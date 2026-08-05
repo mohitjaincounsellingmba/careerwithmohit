@@ -5,8 +5,8 @@ title: >-
 date: '2026-04-23'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. UPMSP has officially declared the UP Board Class 10th
-  (High S...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - UP Board 12th result 2026
   - UP Board 10th result 2026

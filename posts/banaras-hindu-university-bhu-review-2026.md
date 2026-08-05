@@ -3,8 +3,8 @@ title: 'Banaras Hindu University (BHU) Review 2026: Fees, Placements & CUET Cuto
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Thinking about joining Banaras Hindu University? Get
-  the late...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Banaras Hindu University 2026
   - BHU CUET cutoff 2026

@@ -4,8 +4,8 @@ date: '2026-06-20'
 category: B.Tech Admissions
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Looking for affordable B.Tech options in Thrissur?
-  Check our ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - B.Tech Colleges under 10 Lakhs in Thrissur
   - affordable BTech in Thrissur

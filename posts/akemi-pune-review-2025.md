@@ -3,8 +3,8 @@ title: 'AKEMI Pune Review 2025: Personalized Management Training'
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is AKEMI Pune good for MBA? Explore our 2025 review of
-  AKEMI ...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - AKEMI Pune review 2025
   - AKEMI Pune placements

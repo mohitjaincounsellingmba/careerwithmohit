@@ -3,8 +3,8 @@ title: 'IPMAT 2026: Complete Preparation Guide, Best Colleges & Strategy'
 date: '2026-05-12'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Aiming for IIM after Class 12? Learn everything about
-  IPMAT 2...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - IPMAT 2026 preparation guide
   - IIM Indore IPM admission

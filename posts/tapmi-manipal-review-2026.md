@@ -1,22 +1,39 @@
 ---
-title: "TAPMI Manipal Review 2026: Fees, Placements, Cutoffs & ROI Analysis"
+title: 'TAPMI Manipal Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
 category: MBA Admissions
-description: "Comprehensive 2026 review of TAPMI Manipal covering MBA/PGDM fee structures, highest and average placements (₹15.70 LPA), entrance exam cutoffs, ROI analysis, and direct admission details."
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - "TAPMI Manipal review 2026"
-  - "TAPMI Manipal mba fees"
-  - "TAPMI Manipal placements 2026"
-  - "TAPMI Manipal admission cutoffs"
-  - "top mba colleges in Manipal"
+  - TAPMI Manipal review 2026
+  - TAPMI Manipal mba fees
+  - TAPMI Manipal placements 2026
+  - TAPMI Manipal admission cutoffs
+  - top mba colleges in Manipal
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: "What is the average package at TAPMI Manipal in 2026?"
-    answer: "The average package at TAPMI Manipal stands around ₹15.70 LPA, while the highest package has reached up to ₹32.0 LPA in recent recruitment drives."
-  - question: "What entrance exams are accepted by TAPMI Manipal?"
-    answer: "TAPMI Manipal accepts scores from CAT, XAT, NMAT, GMAT for shortlisting candidates for its flagship management programs."
-  - question: "What is the total fee structure at TAPMI Manipal?"
-    answer: "The total fee for the 2-year full-time MBA/PGDM program at TAPMI Manipal is approximately ₹18.0 Lakhs (Total)."
-location: "Manipal, Karnataka"
+  - question: What is the average package at TAPMI Manipal in 2026?
+    answer: >-
+      The average package at TAPMI Manipal stands around ₹15.70 LPA, while the
+      highest package has reached up to ₹32.0 LPA in recent recruitment drives.
+  - question: What entrance exams are accepted by TAPMI Manipal?
+    answer: >-
+      TAPMI Manipal accepts scores from CAT, XAT, NMAT, GMAT for shortlisting
+      candidates for its flagship management programs.
+  - question: What is the total fee structure at TAPMI Manipal?
+    answer: >-
+      The total fee for the 2-year full-time MBA/PGDM program at TAPMI Manipal
+      is approximately ₹18.0 Lakhs (Total).
+location: Delhi
 ---
 
 # TAPMI Manipal Review 2026: Fees, Placements, Cutoffs & ROI Analysis

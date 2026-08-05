@@ -3,8 +3,8 @@ title: 'GD Goenka University Review 2026: Placements & Infrastructure Highlights
 date: '2026-03-15'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Review of GD Goenka University School of
-  Management....
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - GD Goenka University MBA review
   - GD Goenka placements 2024

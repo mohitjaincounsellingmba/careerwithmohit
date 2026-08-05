@@ -3,8 +3,8 @@ title: 'MHCET MBA Accepting Colleges 2026: Names, Fees, Cutoff & Admission Proce
 date: '2026-04-18'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Explore the top MBA colleges accepting MHCET
-  (MAH-MBA/MMS CET...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - MHCET MBA accepting colleges
   - JBIMS CET cutoff 2026

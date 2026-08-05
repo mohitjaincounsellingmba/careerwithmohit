@@ -3,8 +3,8 @@ title: 'XAT 2026 Decision‑Making Section: Latest Question Trends & How to Crac
 date: '2026-05-21'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Master the unique Decision Making section of XAT 2026.
-  Unders...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - XAT Decision Making
   - XAT exam 2026

@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-30'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Master the trending 'Bachcha Hai Tu Mera' meme from
-  Dhurandha...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - Bachcha Hai Tu Mera meme tutorial
   - Dhurandhar 2 Jameel Jamali AI prompts

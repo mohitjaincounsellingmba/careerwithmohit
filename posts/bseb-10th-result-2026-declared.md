@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-29'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Bihar Board (BSEB) has declared the Class 10th (Matric)
-  resul...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - BSEB 10th result 2026 declared today
   - Bihar Board Matric result check link

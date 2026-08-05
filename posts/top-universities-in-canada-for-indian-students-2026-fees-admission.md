@@ -5,8 +5,8 @@ title: >-
 date: '2026-05-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Complete guide to top
-  universities and ...
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - universities in Canada for Indian students 2026
   - study in Canada fees in INR

@@ -4,8 +4,8 @@ date: '2026-03-27'
 category: Online MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Is the NMIMS Online MBA worth it in 2026? Read our
-  comprehens...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - NMIMS Online MBA review 2026
   - NMIMS distance MBA fees

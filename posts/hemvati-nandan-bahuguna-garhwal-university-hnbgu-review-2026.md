@@ -3,8 +3,8 @@ title: Hemvati Nandan Bahuguna Garhwal University (HNBGU) Review 2026
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Discover the 2026 admission details for
-  Hemvati Nand...
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva
 keywords:
   - HNBGU review 2026
   - HNBGU fees

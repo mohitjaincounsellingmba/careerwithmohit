@@ -5,8 +5,8 @@ title: >-
 date: '2026-07-27'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Comprehensive guide to all 21 Indian Institutes of
-  Management...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - all about IIM
   - IIM colleges list in India
@@ -190,7 +190,7 @@ Top IIMs maintain partner exchange programs with premier international business 
 
 ### 4. World-Class Startup Incubators & Entrepreneurial Deferrals
 For students who aspire to build their own startups:
-*   **Incubators**: Centres like **CIIE.CO (IIM Ahmedabad)** and **NSRCEL (IIM Bangalore)** provide seed funding, office space, and mentor networks.
+*   **Incubators**: Centres like **CIIE.CO ([IIM Ahmedabad](/colleges/iim-ahmedabad))** and **NSRCEL ([IIM Bangalore](/colleges/iim-bangalore))** provide seed funding, office space, and mentor networks.
 *   **Placement Deferral Policy**: Most Old and New IIMs allow graduating students to defer their campus placements for **up to 2 years** to work on their startup ventures with a safety net to return to campus drives if needed.
 
 ### 5. Need-Blind Admissions & Easy Educational Loans
@@ -233,7 +233,7 @@ IIMs do not select candidates based on CAT score alone. They prepare a **Final M
 | **Academic / Gender Diversity** | **5% – 10%** | Bonus points for Non-Engineers (Arts, Commerce, Medicine) and Female candidates. |
 
 > [!IMPORTANT]
-> **Why 10th & 12th Marks Matter**: Top campuses like **IIM Bangalore** and **IIM Indore** give significant weightage (**up to 35-40% in initial shortlists**) to Class 10th and 12th academic records. A candidate with 99.5%ile in CAT but 70% in school boards may miss an IIM-B or IIM-I call, whereas an applicant with 98.8%ile and 95%+ throughout school exams has a very high chance of shortlisting.
+> **Why 10th & 12th Marks Matter**: Top campuses like **[IIM Bangalore](/colleges/iim-bangalore)** and **IIM Indore** give significant weightage (**up to 35-40% in initial shortlists**) to Class 10th and 12th academic records. A candidate with 99.5%ile in CAT but 70% in school boards may miss an IIM-B or IIM-I call, whereas an applicant with 98.8%ile and 95%+ throughout school exams has a very high chance of shortlisting.
 
 ---
 
@@ -255,7 +255,7 @@ Whatever your score, thorough preparation for both the CAT written test and the 
 There are currently **21 Indian Institutes of Management (IIMs)** in India, including IIM Mumbai (formerly NITIE). All IIMs are autonomous federal business schools declared as **Institutes of National Importance (INI)** under the **IIM Act, 2017**, and are approved by the **Ministry of Education, Government of India**.
 
 ### 2. What is the highest, average, and lowest placement package across all IIMs?
-Across the 21 IIMs, the **highest package** reaches **₹1.3+ Crore per annum (international)** and **₹65–70 LPA (domestic)** at Old IIMs. **Average salary packages** range from **₹35–36.5 LPA** at IIM Ahmedabad, Bangalore, and Calcutta to **₹14.5–17 LPA** at Baby IIMs. The **lowest (minimum recorded base)** salary across batches typically sits between **₹12 LPA and ₹18 LPA** depending on campus maturity.
+Across the 21 IIMs, the **highest package** reaches **₹1.3+ Crore per annum (international)** and **₹65–70 LPA (domestic)** at Old IIMs. **Average salary packages** range from **₹35–36.5 LPA** at [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta to **₹14.5–17 LPA** at Baby IIMs. The **lowest (minimum recorded base)** salary across batches typically sits between **₹12 LPA and ₹18 LPA** depending on campus maturity.
 
 ### 3. Do IIMs offer an MBA degree or a PGDM diploma?
 Following the enactment of the **IIM Act, 2017**, all 21 IIMs are legally empowered to award standard **Master of Business Administration (MBA)** degrees instead of the traditional PGDM diplomas.

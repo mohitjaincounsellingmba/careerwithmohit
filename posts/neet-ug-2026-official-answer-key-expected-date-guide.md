@@ -4,8 +4,8 @@ date: '2026-05-06'
 category: Medical
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. The NTA is expected to release the NEET UG 2026
-  provisional a...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - NEET UG 2026 answer key release date
   - NTA NEET answer key 2026 link

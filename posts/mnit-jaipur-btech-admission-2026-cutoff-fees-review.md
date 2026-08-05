@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Planning for [MNIT Jaipur](/colleges/mnit-jaipur)
-  B.Tech? Get...
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - '[MNIT Jaipur](/colleges/mnit-jaipur) BTech admission 2026'
   - '[MNIT Jaipur](/colleges/mnit-jaipur) JEE Main cutoff'
