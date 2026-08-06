@@ -99,22 +99,6 @@ export default function StarterKitForm() {
             </div>
           </div>
 
-          {/* PYQs */}
-          <div className="bg-purple-50/50 p-4 rounded-xl border border-purple-100">
-            <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
-              <Target className="w-4 h-4 text-purple-600" /> Previous Year Papers
-            </h4>
-            <a 
-              href="/downloads/all-exams-previous-year-papers.zip" 
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-purple-600 hover:shadow-md transition-all group"
-            >
-              <span className="text-sm font-medium text-gray-700 group-hover:text-purple-700">All Exams PYQ Bundle (ZIP)</span>
-              <Download className="w-4 h-4 text-gray-400 group-hover:text-purple-600 transition-colors" />
-            </a>
-          </div>
-
           {/* GDPI */}
           <div className="bg-blue-50/50 p-4 rounded-xl border border-blue-100">
             <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
