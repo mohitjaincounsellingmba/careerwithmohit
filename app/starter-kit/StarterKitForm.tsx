@@ -91,14 +91,6 @@ export default function StarterKitForm() {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-indigo-600 hover:shadow-md transition-all group"
-                  onClick={(e) => {
-                    // Prevent actual navigation if the file doesn't exist yet, for demo purposes
-                    // Remove this onClick in production once files are uploaded to /public/downloads
-                    if (window.location.hostname === 'localhost') {
-                      e.preventDefault();
-                      alert(`In production, this will download the ${exam} syllabus. Make sure to place the file at /public/downloads/${exam.toLowerCase()}-syllabus.pdf`);
-                    }
-                  }}
                 >
                   <span className="text-sm font-medium text-gray-700 group-hover:text-indigo-700">{exam} Syllabus</span>
                   <Download className="w-4 h-4 text-gray-400 group-hover:text-indigo-600 transition-colors" />
@@ -117,12 +109,6 @@ export default function StarterKitForm() {
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-purple-600 hover:shadow-md transition-all group"
-              onClick={(e) => {
-                if (window.location.hostname === 'localhost') {
-                  e.preventDefault();
-                  alert(`Please upload 'all-exams-previous-year-papers.zip' to your /public/downloads folder.`);
-                }
-              }}
             >
               <span className="text-sm font-medium text-gray-700 group-hover:text-purple-700">All Exams PYQ Bundle (ZIP)</span>
               <Download className="w-4 h-4 text-gray-400 group-hover:text-purple-600 transition-colors" />
@@ -139,12 +125,6 @@ export default function StarterKitForm() {
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-blue-600 hover:shadow-md transition-all group"
-              onClick={(e) => {
-                if (window.location.hostname === 'localhost') {
-                  e.preventDefault();
-                  alert(`Please upload 'gdpi-100-trending-topics-solutions.pdf' to your /public/downloads folder.`);
-                }
-              }}
             >
               <span className="text-sm font-medium text-gray-700 group-hover:text-blue-700">100 Trending GDPI Topics & Solutions</span>
               <Download className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
