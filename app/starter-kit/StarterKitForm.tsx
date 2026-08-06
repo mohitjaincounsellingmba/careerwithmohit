@@ -57,6 +57,9 @@ export default function StarterKitForm() {
           ...formData,
           phone: formData.number, // Fallback for mapping
           exams: formData.exams.join(', '), // Convert array to string for Google Sheets
+          goal: formData.confirmation,
+          "Kindly select your goal": formData.confirmation,
+          "Which entrance exams are you preparing for?": formData.exams.join(', '),
           ...sourceDetails
         })
       });
