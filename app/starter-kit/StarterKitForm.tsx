@@ -136,7 +136,7 @@ export default function StarterKitForm() {
 
       <div>
         <label htmlFor="confirmation" className="block text-sm font-medium text-gray-700 mb-1">
-          Kindly select your confirmation?
+          Kindly select your goal
         </label>
         <select
           id="confirmation"
