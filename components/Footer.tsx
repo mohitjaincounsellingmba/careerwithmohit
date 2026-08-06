@@ -32,6 +32,7 @@ export function Footer() {
   const footerLinks = {
     quickLinks: [
       { name: 'Top Colleges', href: '/colleges' },
+      { name: 'IIM Placements', href: '/iim-placements' },
       { name: 'Latest News', href: '/blog' },
       { name: 'All Tools', href: '/tools' },
       { name: 'Counselling', href: '/services' },
