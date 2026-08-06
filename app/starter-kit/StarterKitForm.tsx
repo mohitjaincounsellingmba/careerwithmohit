@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { CheckCircle2, Download, Loader2 } from 'lucide-react';
+import { CheckCircle2, Download, Loader2, BookOpen, Target, GraduationCap } from 'lucide-react';
 
 export default function StarterKitForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -68,25 +68,90 @@ export default function StarterKitForm() {
 
   if (isSuccess) {
     return (
-      <div className="text-center py-8">
-        <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-green-100 mb-6">
-          <CheckCircle2 className="w-8 h-8 text-green-600" />
+      <div className="py-4 animate-in fade-in slide-in-from-bottom-4 duration-500">
+        <div className="flex flex-col items-center text-center mb-8">
+          <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-green-100 mb-4">
+            <CheckCircle2 className="w-8 h-8 text-green-600" />
+          </div>
+          <h3 className="text-2xl font-bold text-gray-900 mb-1">Success!</h3>
+          <p className="text-gray-600 text-sm">Your starter kit resources are ready for download.</p>
         </div>
-        <h3 className="text-2xl font-bold text-gray-900 mb-2">Success!</h3>
-        <p className="text-gray-600 mb-8">
-          Thank you for providing your details. Your starter kit is ready for download.
-        </p>
-        <a 
-          href="#" 
-          onClick={(e) => {
-            e.preventDefault();
-            alert("This is a demo download link.");
-          }}
-          className="inline-flex items-center justify-center w-full px-6 py-3 border border-transparent text-base font-medium rounded-xl text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg transition-colors shadow-lg shadow-indigo-200"
-        >
-          <Download className="w-5 h-5 mr-2" />
-          Download Starter Kit PDF
-        </a>
+
+        <div className="space-y-6">
+          {/* Syllabuses */}
+          <div className="bg-indigo-50/50 p-4 rounded-xl border border-indigo-100">
+            <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
+              <BookOpen className="w-4 h-4 text-indigo-600" /> Exam Syllabuses
+            </h4>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {['CAT', 'NMAT', 'XAT', 'SNAP', 'MAT'].map(exam => (
+                <a 
+                  key={exam} 
+                  href={`/downloads/${exam.toLowerCase()}-syllabus.pdf`} 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-indigo-600 hover:shadow-md transition-all group"
+                  onClick={(e) => {
+                    // Prevent actual navigation if the file doesn't exist yet, for demo purposes
+                    // Remove this onClick in production once files are uploaded to /public/downloads
+                    if (window.location.hostname === 'localhost') {
+                      e.preventDefault();
+                      alert(`In production, this will download the ${exam} syllabus. Make sure to place the file at /public/downloads/${exam.toLowerCase()}-syllabus.pdf`);
+                    }
+                  }}
+                >
+                  <span className="text-sm font-medium text-gray-700 group-hover:text-indigo-700">{exam} Syllabus</span>
+                  <Download className="w-4 h-4 text-gray-400 group-hover:text-indigo-600 transition-colors" />
+                </a>
+              ))}
+            </div>
+          </div>
+
+          {/* PYQs */}
+          <div className="bg-purple-50/50 p-4 rounded-xl border border-purple-100">
+            <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
+              <Target className="w-4 h-4 text-purple-600" /> Previous Year Papers
+            </h4>
+            <a 
+              href="/downloads/all-exams-previous-year-papers.zip" 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-purple-600 hover:shadow-md transition-all group"
+              onClick={(e) => {
+                if (window.location.hostname === 'localhost') {
+                  e.preventDefault();
+                  alert(`Please upload 'all-exams-previous-year-papers.zip' to your /public/downloads folder.`);
+                }
+              }}
+            >
+              <span className="text-sm font-medium text-gray-700 group-hover:text-purple-700">All Exams PYQ Bundle (ZIP)</span>
+              <Download className="w-4 h-4 text-gray-400 group-hover:text-purple-600 transition-colors" />
+            </a>
+          </div>
+
+          {/* GDPI */}
+          <div className="bg-blue-50/50 p-4 rounded-xl border border-blue-100">
+            <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
+              <GraduationCap className="w-4 h-4 text-blue-600" /> GDPI Preparation
+            </h4>
+            <a 
+              href="/downloads/gdpi-100-trending-topics-solutions.pdf" 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-blue-600 hover:shadow-md transition-all group"
+              onClick={(e) => {
+                if (window.location.hostname === 'localhost') {
+                  e.preventDefault();
+                  alert(`Please upload 'gdpi-100-trending-topics-solutions.pdf' to your /public/downloads folder.`);
+                }
+              }}
+            >
+              <span className="text-sm font-medium text-gray-700 group-hover:text-blue-700">100 Trending GDPI Topics & Solutions</span>
+              <Download className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
+            </a>
+          </div>
+
+        </div>
       </div>
     );
   }
