@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useMemo } from 'react';
-import { Building2, MapPin, Wallet, GraduationCap, TrendingUp, ExternalLink, Award, Sparkles, Search, ArrowRight } from 'lucide-react';
+import { Building2, MapPin, Wallet, GraduationCap, TrendingUp, ExternalLink, Award, Sparkles, Search, ArrowRight, Download } from 'lucide-react';
 
 export interface PlacementCollege {
   name: string;
@@ -25,6 +25,7 @@ export interface PercentileTier {
   borderColor: string;
   activeTabStyle: string;
   description: string;
+  downloadUrl: string;
   colleges: PlacementCollege[];
 }
 
@@ -39,6 +40,7 @@ export const PLACEMENT_DATA_BY_PERCENTILE: PercentileTier[] = [
     borderColor: "border-amber-500",
     activeTabStyle: "bg-amber-600 text-white shadow-lg shadow-amber-600/20",
     description: "Premier management institutions offering world-class infrastructure, elite campus recruitment, and ₹25+ LPA average packages.",
+    downloadUrl: "/downloads/mba-colleges-cutoff-90-plus.pdf",
     colleges: [
       {
         name: "IIM Ahmedabad",
@@ -192,6 +194,7 @@ export const PLACEMENT_DATA_BY_PERCENTILE: PercentileTier[] = [
     borderColor: "border-indigo-500",
     activeTabStyle: "bg-indigo-600 text-white shadow-lg shadow-indigo-600/20",
     description: "Highly sought-after corporate destinations offering strong ROI, industry exposure, and ₹14 - ₹23 LPA average packages.",
+    downloadUrl: "/downloads/mba-colleges-cutoff-80-to-90.pdf",
     colleges: [
       {
         name: "IIM Shillong",
@@ -355,6 +358,7 @@ export const PLACEMENT_DATA_BY_PERCENTILE: PercentileTier[] = [
     borderColor: "border-emerald-500",
     activeTabStyle: "bg-emerald-600 text-white shadow-lg shadow-emerald-600/20",
     description: "Solid choices offering AICTE/NBA recognized management degrees, reliable placement records, and ₹11 - ₹16 LPA average packages.",
+    downloadUrl: "/downloads/mba-colleges-cutoff-70-to-80.pdf",
     colleges: [
       {
         name: "IIM Amritsar",
@@ -518,6 +522,7 @@ export const PLACEMENT_DATA_BY_PERCENTILE: PercentileTier[] = [
     borderColor: "border-purple-500",
     activeTabStyle: "bg-purple-600 text-white shadow-lg shadow-purple-600/20",
     description: "Accessible B-Schools with pragmatic admission criteria, industry immersion, versatile specializations, and ₹7.5 - ₹12.5 LPA placement packages.",
+    downloadUrl: "/downloads/mba-colleges-cutoff-below-70.pdf",
     colleges: [
       {
         name: "Jaipuria Institute of Management",
@@ -786,7 +791,16 @@ export default function StarterKitPlacementTable() {
                   </p>
                 </div>
 
-                <div className="flex-shrink-0">
+                <div className="flex-shrink-0 flex items-center flex-wrap gap-2">
+                  <a
+                    href={tier.downloadUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-xs transition-all"
+                  >
+                    <Download className="w-3.5 h-3.5" />
+                    Download Tier PDF
+                  </a>
                   <span className={`inline-flex items-center px-3.5 py-1.5 rounded-full text-xs font-extrabold ${tier.badgeBg} ${tier.badgeText} border border-black/5`}>
                     <Award className="w-3.5 h-3.5 mr-1.5" />
                     {tier.badge}

@@ -123,17 +123,27 @@ export default function StarterKitForm() {
           {/* PLACEMENT DATA */}
           <div className="bg-indigo-50/50 p-4 rounded-xl border border-indigo-100">
             <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
-              <Building2 className="w-4 h-4 text-indigo-600" /> Placement Data
+              <Building2 className="w-4 h-4 text-indigo-600" /> Placement & Cutoff Data (PDFs)
             </h4>
-            <a 
-              href="/downloads/iim/all-iim-placements.pdf" 
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-indigo-600 hover:shadow-md transition-all group"
-            >
-              <span className="text-sm font-medium text-gray-700 group-hover:text-indigo-700">Top IIMs Placement Data (PDF)</span>
-              <Download className="w-4 h-4 text-gray-400 group-hover:text-indigo-600 transition-colors" />
-            </a>
+            <div className="grid grid-cols-1 gap-2.5">
+              {[
+                { title: '90+ Percentile (Tier 1 B-Schools)', file: 'mba-colleges-cutoff-90-plus.pdf' },
+                { title: '80-90 Percentile (Top Tier-2 B-Schools)', file: 'mba-colleges-cutoff-80-to-90.pdf' },
+                { title: '70-80 Percentile (Reputed Tier-2/3 B-Schools)', file: 'mba-colleges-cutoff-70-to-80.pdf' },
+                { title: 'Below 70 Percentile (Accessible MBA / PGDM)', file: 'mba-colleges-cutoff-below-70.pdf' },
+              ].map((item, idx) => (
+                <a 
+                  key={idx} 
+                  href={`/downloads/${item.file}`} 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-indigo-600 hover:shadow-md transition-all group"
+                >
+                  <span className="text-xs font-semibold text-gray-800 group-hover:text-indigo-700">{item.title}</span>
+                  <Download className="w-4 h-4 text-gray-400 group-hover:text-indigo-600 transition-colors" />
+                </a>
+              ))}
+            </div>
           </div>
 
         </div>
