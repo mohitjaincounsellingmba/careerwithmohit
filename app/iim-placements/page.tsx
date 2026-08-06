@@ -3,8 +3,8 @@ import Head from 'next/head';
 import { TOP_TIER_MBA_COLLEGES } from '../../data/topTierMbaColleges';
 import { MapPin, TrendingUp, Wallet, GraduationCap, Building2, ExternalLink } from 'lucide-react';
 import Link from 'next/link';
-import Navbar from '@/components/Navbar';
-import Footer from '@/components/Footer';
+import { Header } from '@/components/Header';
+import { Footer } from '@/components/Footer';
 
 export default function IIMPlacementsPage() {
   const iimColleges = TOP_TIER_MBA_COLLEGES.filter(college => college.isIim);
@@ -16,7 +16,7 @@ export default function IIMPlacementsPage() {
         <meta name="description" content="Complete placement data, average packages, highest packages, fees, and cutoffs for all Indian Institutes of Management (IIMs)." />
       </Head>
 
-      <Navbar />
+      <Header />
 
       {/* Hero Section */}
       <div className="relative pt-32 pb-20 lg:pt-40 lg:pb-28 overflow-hidden bg-slate-900">
