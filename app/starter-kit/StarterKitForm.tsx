@@ -48,7 +48,7 @@ export default function StarterKitForm() {
     }
     
     try {
-      await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+      await fetch('https://cloud.activepieces.com/api/v1/webhooks/1yBqzhTcnXyDOOBsL9B4p', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
