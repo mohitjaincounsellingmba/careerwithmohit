@@ -55,6 +55,8 @@ export default function StarterKitForm() {
         },
         body: JSON.stringify({
           ...formData,
+          phone: formData.number, // Fallback for mapping
+          exams: formData.exams.join(', '), // Convert array to string for Google Sheets
           ...sourceDetails
         })
       });
