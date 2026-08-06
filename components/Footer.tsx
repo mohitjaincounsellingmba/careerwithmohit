@@ -52,6 +52,7 @@ export function Footer() {
       { name: 'B.Tech Predictor', href: '/tools/btech-college-predictor', color: 'text-yellow-400' },
     ],
     resources: [
+      { name: 'Free Starter Kit', href: '/starter-kit', badge: 'New' },
       { name: 'Free File Converter', href: '/tools/file-converter', badge: 'Free' },
       { name: 'Salary Slip Generator', href: '/tools/salary-slip-generator', badge: 'Free' },
       { name: 'Offer Letter Generator', href: '/tools/offer-letter-generator', badge: 'Free' },
