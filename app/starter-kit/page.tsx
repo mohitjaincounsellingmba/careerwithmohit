@@ -1,7 +1,7 @@
 import React from 'react';
 import { Metadata } from 'next';
 import StarterKitForm from './StarterKitForm';
-import { BookOpen, Target, GraduationCap, ArrowRight, Download, CheckCircle2 } from 'lucide-react';
+import { BookOpen, Target, GraduationCap, ArrowRight, Download, CheckCircle2, Building2, MapPin, Wallet, TrendingUp, ExternalLink } from 'lucide-react';
 import { TOP_TIER_MBA_COLLEGES } from '@/data/topTierMbaColleges';
 
 export const metadata: Metadata = {
@@ -89,6 +89,97 @@ export default function StarterKitPage() {
               <StarterKitForm />
             </div>
         </div>
+      </div>
+
+      {/* Table Container */}
+      <div className="mt-20 mb-10">
+        <div className="text-center mb-10">
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Top Tier MBA Colleges Placement Data</h2>
+          <p className="text-lg text-gray-600 max-w-2xl mx-auto">Compare average packages, highest packages, fees, and cutoffs to set your targets right.</p>
+        </div>
+        
+        <div className="bg-white rounded-2xl shadow-xl shadow-slate-200/50 border border-slate-100 overflow-hidden backdrop-blur-xl mb-12">
+          <div className="overflow-x-auto">
+            <table className="w-full text-left border-collapse">
+              <thead>
+                <tr className="bg-slate-50/80 border-b border-slate-200">
+                  <th className="py-5 px-6 font-semibold text-slate-700 text-sm uppercase tracking-wider whitespace-nowrap">
+                    <div className="flex items-center gap-2"><Building2 className="w-4 h-4 text-indigo-500" /> Institute</div>
+                  </th>
+                  <th className="py-5 px-6 font-semibold text-slate-700 text-sm uppercase tracking-wider whitespace-nowrap">
+                    <div className="flex items-center gap-2"><MapPin className="w-4 h-4 text-emerald-500" /> Location</div>
+                  </th>
+                  <th className="py-5 px-6 font-semibold text-slate-700 text-sm uppercase tracking-wider whitespace-nowrap">
+                    <div className="flex items-center gap-2"><Wallet className="w-4 h-4 text-purple-500" /> Fees</div>
+                  </th>
+                  <th className="py-5 px-6 font-semibold text-slate-700 text-sm uppercase tracking-wider whitespace-nowrap">
+                    <div className="flex items-center gap-2"><GraduationCap className="w-4 h-4 text-orange-500" /> Cutoff</div>
+                  </th>
+                  <th className="py-5 px-6 font-semibold text-slate-700 text-sm uppercase tracking-wider whitespace-nowrap">
+                    <div className="flex items-center gap-2"><TrendingUp className="w-4 h-4 text-green-500" /> Avg Placement</div>
+                  </th>
+                  <th className="py-5 px-6 font-semibold text-slate-700 text-sm uppercase tracking-wider whitespace-nowrap">
+                    Highest Placement
+                  </th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-slate-100">
+                {TOP_TIER_MBA_COLLEGES.slice(0, 15).map((college, index) => (
+                  <tr 
+                    key={index} 
+                    className="hover:bg-indigo-50/30 transition-colors group"
+                  >
+                    <td className="py-4 px-6 whitespace-nowrap">
+                      <div className="flex items-center gap-3">
+                        <div className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 border ${college.isIim ? 'bg-gradient-to-br from-indigo-100 to-indigo-50 border-indigo-200/50' : 'bg-gradient-to-br from-purple-100 to-purple-50 border-purple-200/50'}`}>
+                          <span className={`font-bold text-xs ${college.isIim ? 'text-indigo-700' : 'text-purple-700'}`}>
+                            {college.isIim ? 'IIM' : college.name.substring(0, 3).toUpperCase()}
+                          </span>
+                        </div>
+                        <div>
+                          <span className="font-bold text-slate-900 block group-hover:text-indigo-600 transition-colors">{college.name}</span>
+                          <a 
+                            href={college.website} 
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="text-xs text-indigo-500 hover:text-indigo-700 flex items-center gap-1 mt-0.5"
+                          >
+                            Official Website <ExternalLink className="w-3 h-3" />
+                          </a>
+                        </div>
+                      </div>
+                    </td>
+                    <td className="py-4 px-6 whitespace-nowrap text-sm text-slate-600 font-medium">
+                      {college.location}
+                    </td>
+                    <td className="py-4 px-6 whitespace-nowrap">
+                      <span className="inline-flex items-center px-2.5 py-1 rounded-md bg-slate-100 text-slate-700 text-sm font-medium border border-slate-200">
+                        {college.fees}
+                      </span>
+                    </td>
+                    <td className="py-4 px-6 whitespace-nowrap text-sm text-slate-600 font-semibold">
+                      {college.cutoff}
+                    </td>
+                    <td className="py-4 px-6 whitespace-nowrap">
+                      <span className="inline-flex items-center px-3 py-1 rounded-full bg-emerald-50 text-emerald-700 text-sm font-bold border border-emerald-200">
+                        {college.avg_placement}
+                      </span>
+                    </td>
+                    <td className="py-4 px-6 whitespace-nowrap text-sm text-slate-600 font-semibold">
+                      {college.highest_placement}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <div className="p-4 bg-gray-50 border-t border-gray-100 text-center">
+             <a href="/top-tier-mba-colleges" className="text-sm font-semibold text-indigo-600 hover:text-indigo-800">
+               View Complete List of Top MBA Colleges &rarr;
+             </a>
+          </div>
+        </div>
+      </div>
       </div>
     </main>
   );
