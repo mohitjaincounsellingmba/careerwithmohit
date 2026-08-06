@@ -34,13 +34,29 @@ export default function StarterKitForm() {
     e.preventDefault();
     setIsSubmitting(true);
     
+    // Extract source details from the current URL
+    let sourceDetails = {};
+    if (typeof window !== 'undefined') {
+      const searchParams = new URLSearchParams(window.location.search);
+      sourceDetails = {
+        page_source: 'Starter Kit Landing Page',
+        page_url: window.location.href,
+        utm_source: searchParams.get('utm_source') || '',
+        utm_medium: searchParams.get('utm_medium') || '',
+        utm_campaign: searchParams.get('utm_campaign') || '',
+      };
+    }
+    
     try {
       await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify(formData)
+        body: JSON.stringify({
+          ...formData,
+          ...sourceDetails
+        })
       });
     } catch (error) {
       console.error('Error submitting form:', error);
