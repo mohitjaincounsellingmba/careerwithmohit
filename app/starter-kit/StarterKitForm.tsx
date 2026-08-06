@@ -13,22 +13,41 @@ export default function StarterKitForm() {
     email: '',
     location: '',
     confirmation: '',
-    exam: ''
+    exams: [] as string[]
   });
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleCheckboxChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const { value, checked } = e.target;
+    setFormData(prev => ({
+      ...prev,
+      exams: checked 
+        ? [...prev.exams, value] 
+        : prev.exams.filter(exam => exam !== value)
+    }));
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsSubmitting(true);
     
-    // Simulate API submission
-    setTimeout(() => {
+    try {
+      await fetch('https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData)
+      });
+    } catch (error) {
+      console.error('Error submitting form:', error);
+    } finally {
       setIsSubmitting(false);
       setIsSuccess(true);
-    }, 1500);
+    }
   };
 
   if (isSuccess) {
@@ -136,25 +155,24 @@ export default function StarterKitForm() {
 
       <div>
         <label className="block text-sm font-medium text-gray-700 mb-2">
-          Which entrance exam are you preparing for?
+          Which entrance exams are you preparing for? (Select all that apply)
         </label>
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
           {['CAT', 'NMAT', 'XAT', 'SNAP', 'MAT'].map((exam) => (
             <label 
               key={exam}
               className={`flex items-center justify-center px-4 py-2.5 border rounded-xl cursor-pointer transition-all ${
-                formData.exam === exam 
+                formData.exams.includes(exam) 
                   ? 'bg-indigo-50 border-indigo-600 text-indigo-700 font-medium' 
                   : 'bg-white border-gray-200 text-gray-700 hover:bg-gray-50'
               }`}
             >
               <input
-                type="radio"
-                name="exam"
+                type="checkbox"
+                name="exams"
                 value={exam}
-                required
-                checked={formData.exam === exam}
-                onChange={handleChange}
+                checked={formData.exams.includes(exam)}
+                onChange={handleCheckboxChange}
                 className="sr-only"
               />
               {exam}
@@ -166,7 +184,7 @@ export default function StarterKitForm() {
       <div className="pt-4">
         <button
           type="submit"
-          disabled={isSubmitting}
+          disabled={isSubmitting || formData.exams.length === 0}
           className="w-full flex items-center justify-center px-6 py-3.5 border border-transparent text-base font-medium rounded-xl text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-hidden focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 disabled:opacity-70 disabled:cursor-not-allowed transition-colors shadow-lg shadow-indigo-200"
         >
           {isSubmitting ? (
