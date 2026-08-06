@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { CheckCircle2, Download, Loader2, BookOpen, Target, GraduationCap } from 'lucide-react';
+import { CheckCircle2, Download, Loader2, BookOpen, Target, GraduationCap, Building2 } from 'lucide-react';
 
 export default function StarterKitForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -112,6 +112,22 @@ export default function StarterKitForm() {
             >
               <span className="text-sm font-medium text-gray-700 group-hover:text-blue-700">100 Trending GDPI Topics & Solutions</span>
               <Download className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
+            </a>
+          </div>
+
+          {/* PLACEMENT DATA */}
+          <div className="bg-indigo-50/50 p-4 rounded-xl border border-indigo-100">
+            <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
+              <Building2 className="w-4 h-4 text-indigo-600" /> Placement Data
+            </h4>
+            <a 
+              href="/downloads/iim/all-iim-placements.pdf" 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-lg hover:border-indigo-600 hover:shadow-md transition-all group"
+            >
+              <span className="text-sm font-medium text-gray-700 group-hover:text-indigo-700">Top IIMs Placement Data (PDF)</span>
+              <Download className="w-4 h-4 text-gray-400 group-hover:text-indigo-600 transition-colors" />
             </a>
           </div>
 

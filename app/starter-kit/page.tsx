@@ -88,47 +88,6 @@ export default function StarterKitPage() {
 
               <StarterKitForm />
             </div>
-          </div>
-
-        </div>
-        
-        {/* Top IIM Placements Section */}
-        <div className="mt-24 pb-8">
-          <div className="text-center mb-10">
-            <h2 className="text-3xl font-bold text-gray-900">Why Aim for the IIMs?</h2>
-            <p className="text-gray-600 mt-2">Check out the incredible placement packages you could secure.</p>
-          </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {TOP_TIER_MBA_COLLEGES.filter(c => c.isIim).slice(0, 6).map((college, idx) => (
-              <div key={idx} className="bg-white rounded-xl shadow-md border border-gray-100 p-6 hover:shadow-lg transition-all">
-                <div className="flex items-center gap-3 mb-4">
-                  <div className="w-10 h-10 rounded-full bg-indigo-50 flex items-center justify-center text-indigo-600 font-bold text-xs border border-indigo-100">
-                    IIM
-                  </div>
-                  <div>
-                    <h3 className="font-bold text-gray-900">{college.name}</h3>
-                    <p className="text-xs text-gray-500">{college.location}</p>
-                  </div>
-                </div>
-                
-                <div className="space-y-3">
-                  <div className="flex justify-between items-center py-2 border-b border-gray-50">
-                    <span className="text-sm text-gray-500">Average Salary</span>
-                    <span className="text-sm font-bold text-green-600">{college.avg_placement}</span>
-                  </div>
-                  <div className="flex justify-between items-center py-2 border-b border-gray-50">
-                    <span className="text-sm text-gray-500">Highest Salary</span>
-                    <span className="text-sm font-semibold text-gray-900">{college.highest_placement}</span>
-                  </div>
-                  <div className="flex justify-between items-center py-2">
-                    <span className="text-sm text-gray-500">Target Cutoff</span>
-                    <span className="text-sm font-semibold text-indigo-600">{college.cutoff}</span>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
         </div>
       </div>
     </main>
