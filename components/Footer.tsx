@@ -33,7 +33,7 @@ export function Footer() {
   const footerLinks = {
     quickLinks: [
       { name: 'Top Colleges', href: '/colleges' },
-      { name: 'IIM Placements', href: '/iim-placements' },
+      { name: 'Top Tier MBA', href: '/top-tier-mba-colleges' },
       { name: 'Latest News', href: '/blog' },
       { name: 'All Tools', href: '/tools' },
       { name: 'Counselling', href: '/services' },

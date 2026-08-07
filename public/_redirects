@@ -1,5 +1,6 @@
 # Legacy URLs retained from the Vercel deployment. Static rules must precede
 # the two wildcard rules at the bottom.
+/iim-placements /top-tier-mba-colleges 301
 /tools/roadmap-calculator /calculator/career-roadmap 301
 /tools/mock-tests /mock-tests 301
 /best-mba-colleges-in-pune-2026 /blog/best-mba-colleges-in-pune-2026 301
