@@ -271,7 +271,9 @@ export default function StarterKitForm() {
               Processing...
             </>
           ) : (
-            'Get Download Link'
+            <span className="flex items-center gap-2 font-bold">
+              <Download className="w-5 h-5" /> Download Free MBA Kit (PDF)
+            </span>
           )}
         </button>
       </div>
