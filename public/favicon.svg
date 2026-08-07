@@ -1,76 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%" fill="none">
   <defs>
     <!-- Background Gradient -->
-    <radialGradient id="bg-grad" cx="50%" cy="50%" r="70%" fx="50%" fy="50%">
-      <stop offset="0%" stop-color="#1e293b"/>
-      <stop offset="100%" stop-color="#0f172a"/>
-    </radialGradient>
+    <linearGradient id="emblem-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
     
-    <!-- Metallic Gold Gradient -->
+    <!-- Gold / Yellow Accent -->
     <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FCE881"/>
-      <stop offset="30%" stop-color="#C5A02B"/>
-      <stop offset="70%" stop-color="#FEEA9A"/>
-      <stop offset="100%" stop-color="#B38728"/>
+      <stop offset="0%" stop-color="#FEF08A"/>
+      <stop offset="50%" stop-color="#FACC15"/>
+      <stop offset="100%" stop-color="#EAB308"/>
     </linearGradient>
 
-    <!-- Deep Blue Accent Gradient -->
-    <linearGradient id="blue-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#0369a1"/>
+    <!-- Gloss Highlight -->
+    <linearGradient id="gloss" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <!-- Circular Outer Background -->
-  <circle cx="256" cy="256" r="240" fill="url(#bg-grad)" stroke="url(#gold-grad)" stroke-width="8"/>
-  
-  <!-- Outer Compass Ring -->
-  <circle cx="256" cy="256" r="200" fill="none" stroke="url(#gold-grad)" stroke-width="4" stroke-dasharray="12 8"/>
-  
-  <!-- Compass Points (North, South, East, West) -->
-  <!-- North Point -->
-  <polygon points="256,20 270,60 256,52" fill="url(#gold-grad)"/>
-  <polygon points="256,20 242,60 256,52" fill="#B38728"/>
-  
-  <!-- South Point -->
-  <polygon points="256,492 270,452 256,460" fill="url(#gold-grad)"/>
-  <polygon points="256,492 242,452 256,460" fill="#B38728"/>
-  
-  <!-- East Point -->
-  <polygon points="492,256 452,270 460,256" fill="url(#gold-grad)"/>
-  <polygon points="492,256 452,242 460,256" fill="#B38728"/>
-  
-  <!-- West Point -->
-  <polygon points="20,256 60,270 52,256" fill="url(#gold-grad)"/>
-  <polygon points="20,256 60,242 52,256" fill="#B38728"/>
-  
-  <!-- Inner Compass Rose Star -->
-  <g transform="translate(256, 256) scale(1.4)">
-    <!-- Diagonal Points -->
-    <polygon points="0,0 12,-35 0,-80" fill="url(#gold-grad)" opacity="0.8"/>
-    <polygon points="0,0 -12,-35 0,-80" fill="#B38728" opacity="0.8"/>
-    
-    <polygon points="0,0 12,35 0,80" fill="url(#gold-grad)" opacity="0.8"/>
-    <polygon points="0,0 -12,35 0,80" fill="#B38728" opacity="0.8"/>
+  <!-- Squircle Outer Background -->
+  <rect x="24" y="24" width="464" height="464" rx="128" fill="url(#emblem-bg)" stroke="#93C5FD" stroke-width="12" stroke-opacity="0.4"/>
+  <rect x="24" y="24" width="464" height="232" rx="128" fill="url(#gloss)"/>
 
-    <polygon points="0,0 35,-12 80,0" fill="url(#gold-grad)" opacity="0.8"/>
-    <polygon points="0,0 35,12 80,0" fill="#B38728" opacity="0.8"/>
-
-    <polygon points="0,0 -35,-12 -80,0" fill="url(#gold-grad)" opacity="0.8"/>
-    <polygon points="0,0 -35,12 -80,0" fill="#B38728" opacity="0.8"/>
-  </g>
-
-  <!-- Central Graduation Cap -->
-  <!-- Cap Diamond Board -->
-  <polygon points="256,120 420,180 256,240 92,180" fill="url(#blue-grad)" stroke="url(#gold-grad)" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Stylized Cap Diamond Board -->
+  <polygon points="256,100 420,180 256,260 92,180" fill="#FFFFFF" filter="drop-shadow(0 8px 16px rgba(0,0,0,0.25))"/>
   
-  <!-- Cap Skull Base -->
-  <path d="M160,205 L160,270 C160,310 352,310 352,270 L352,205" fill="url(#blue-grad)" stroke="url(#gold-grad)" stroke-width="6" stroke-linejoin="round"/>
+  <!-- Cap Skull Base Arch -->
+  <path d="M160,225 V295 C160,335 200,360 256,360 C312,360 352,335 352,295 V225" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" fill="none"/>
 
-  <!-- Tassel Button -->
-  <circle cx="256" cy="180" r="10" fill="url(#gold-grad)"/>
-  
+  <!-- Upward Career Growth Arrow (in Gold) -->
+  <path d="M256,320 V160 M256,160 L210,206 M256,160 L302,206" stroke="url(#gold-grad)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+
   <!-- Tassel Cord and Fringe -->
-  <path d="M256,180 Q320,190 350,230" fill="none" stroke="url(#gold-grad)" stroke-width="5" stroke-linecap="round"/>
-  <polygon points="350,230 338,260 362,260" fill="url(#gold-grad)"/>
+  <circle cx="410" cy="220" r="18" fill="url(#gold-grad)"/>
+  <path d="M350,195 L410,220" stroke="url(#gold-grad)" stroke-width="14" stroke-linecap="round"/>
+
+  <!-- Active Status / Live Pulse Ring -->
+  <circle cx="440" cy="72" r="32" fill="#10B981" stroke="#FFFFFF" stroke-width="10"/>
 </svg>

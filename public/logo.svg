@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 100" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Brand Gradients -->
+    <linearGradient id="emblem-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+
+    <linearGradient id="mohit-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+
+    <linearGradient id="with-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#2563EB" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Group Logo Container -->
+  <g transform="translate(10, 10)">
+    <!-- 1. Emblem Squircle / Shield -->
+    <g filter="url(#shadow)">
+      <rect x="0" y="0" width="80" height="80" rx="20" fill="url(#emblem-grad)"/>
+      <rect x="0.75" y="0.75" width="78.5" height="78.5" rx="19.25" stroke="#93C5FD" stroke-width="1.5" stroke-opacity="0.4"/>
+    </g>
+
+    <!-- Emblem Vector Art -->
+    <g transform="translate(14, 14)">
+      <!-- Cap Diamond Top -->
+      <polygon points="26,10 46,20 26,30 6,20" fill="#FFFFFF"/>
+      
+      <!-- Cap Base -->
+      <path d="M14,24.5 V33 C14,37 19,39.5 26,39.5 C33,39.5 38,37 38,33 V24.5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+      
+      <!-- Growth Compass Arrow -->
+      <path d="M26,35 V18 M26,18 L21,23 M26,18 L31,23" stroke="#FDE047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      
+      <!-- Tassel -->
+      <circle cx="45" cy="24" r="2.5" fill="#FDE047"/>
+      <path d="M37,20.5 L45,24" stroke="#FDE047" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <!-- Active Pulse Dot -->
+    <circle cx="76" cy="6" r="5" fill="#10B981" stroke="#FFFFFF" stroke-width="1.5"/>
+
+    <!-- 2. Typographic Wordmark -->
+    <!-- "Career" -->
+    <text x="100" y="52" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Outfit', 'Inter', sans-serif" font-size="38" font-weight="900" letter-spacing="-0.03em" fill="#0F172A">
+      Career
+    </text>
+
+    <!-- "With" Badge Pill -->
+    <g transform="translate(230, 26)">
+      <rect x="0" y="0" width="46" height="28" rx="6" fill="url(#with-grad)"/>
+      <text x="23" y="19" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Outfit', 'Inter', sans-serif" font-size="13" font-weight="800" letter-spacing="0.08em" fill="#FFFFFF" text-anchor="middle">
+        WITH
+      </text>
+    </g>
+
+    <!-- "Mohit" -->
+    <text x="286" y="52" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Outfit', 'Inter', sans-serif" font-size="38" font-weight="900" letter-spacing="-0.03em" fill="url(#mohit-grad)">
+      Mohit
+    </text>
+
+    <!-- Subtitle / Tagline -->
+    <text x="102" y="74" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Outfit', 'Inter', sans-serif" font-size="11" font-weight="700" letter-spacing="0.22em" fill="#64748B">
+      ADMISSIONS &amp; 10X CAREER HUB
+    </text>
+  </g>
+</svg>

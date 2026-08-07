@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Instagram, Linkedin, Facebook, Youtube, Send, ArrowRight, ExternalLink, Phone, Mail } from 'lucide-react';
+import { Logo } from './Logo';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -116,22 +117,9 @@ export function Footer() {
           {/* Column 1: Brand */}
           <div className="space-y-8">
             <div className="flex flex-col gap-6">
-              <Link href="/" prefetch={false} className="flex items-center gap-3 w-fit">
-                <div className="bg-white p-2 rounded-xl shadow-lg border-2 border-primary">
-                  <Image 
-                    src="/logo.webp" 
-                    alt="Mohit Jain Logo" 
-                    width={32} 
-                    height={32} 
-                    className="object-contain"
-                  />
-                </div>
-                <span className="font-display text-2xl font-black tracking-tight uppercase italic text-white">
-                  Mohit Jain
-                </span>
-              </Link>
+              <Logo variant="footer" size="lg" showTagline={true} />
               <p className="text-gray-400 text-sm font-medium leading-relaxed max-w-xs">
-                Your ultimate destination for Admissions 2026, career counselling, and premium education resources. We help you build a 10x career.
+                Your ultimate destination for Admissions 2027, career counselling, and premium education roadmaps. We help you build a 10x career.
               </p>
             </div>
 
@@ -233,7 +221,7 @@ export function Footer() {
         {/* BOTTOM BAR */}
         <div className="mt-16 pt-8 flex flex-col md:flex-row items-center justify-between border-t border-white/10 gap-8">
           <div className="text-xs font-bold text-gray-500 flex flex-col md:flex-row items-center gap-4 text-center md:text-left">
-            <span>© {currentYear} Mohit Jain Admission Hub. All rights reserved.</span>
+            <span>© {currentYear} CareerWithMohit. All rights reserved.</span>
           </div>
           <div className="flex gap-6 items-center flex-wrap justify-center md:justify-end">
             {visits !== null && (
