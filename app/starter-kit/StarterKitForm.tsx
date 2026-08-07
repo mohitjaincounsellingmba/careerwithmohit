@@ -120,10 +120,10 @@ export default function StarterKitForm() {
             </a>
           </div>
 
-          {/* PLACEMENT DATA */}
+          {/* PLACEMENT DATA & SPECIAL REPORTS */}
           <div className="bg-indigo-50/50 p-4 rounded-xl border border-indigo-100">
             <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
-              <Building2 className="w-4 h-4 text-indigo-600" /> Placement & Cutoff Data (PDFs)
+              <Building2 className="w-4 h-4 text-indigo-600" /> Placement & Special Reports (PDFs)
             </h4>
             <div className="grid grid-cols-1 gap-2.5">
               {[
@@ -131,6 +131,8 @@ export default function StarterKitForm() {
                 { title: '80-90 Percentile (Top Tier-2 B-Schools)', file: 'mba-colleges-cutoff-80-to-90.pdf' },
                 { title: '70-80 Percentile (Reputed Tier-2/3 B-Schools)', file: 'mba-colleges-cutoff-70-to-80.pdf' },
                 { title: 'Below 70 Percentile (Accessible MBA / PGDM)', file: 'mba-colleges-cutoff-below-70.pdf' },
+                { title: 'DRCC Approved Private MBA Colleges List', file: 'drcc-private-mba-colleges-list.pdf' },
+                { title: 'Sector-Wise Recruiter Statistics & Trends', file: 'sector-wise-recruiter-statistics.pdf' },
               ].map((item, idx) => (
                 <a 
                   key={idx} 

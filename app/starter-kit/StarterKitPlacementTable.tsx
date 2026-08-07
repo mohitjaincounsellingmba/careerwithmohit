@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useMemo } from 'react';
-import { Building2, MapPin, Wallet, GraduationCap, TrendingUp, ExternalLink, Award, Sparkles, Search, ArrowRight, Download } from 'lucide-react';
+import { Building2, MapPin, Wallet, GraduationCap, TrendingUp, ExternalLink, Award, Sparkles, Search, ArrowRight, Download, FileText, PieChart, CreditCard } from 'lucide-react';
 
 export interface PlacementCollege {
   name: string;
@@ -911,6 +911,78 @@ export default function StarterKitPlacementTable() {
             </div>
           );
         })}
+      </div>
+
+      {/* Specialized Placement & Admission Reports */}
+      <div className="mt-14 mb-8">
+        <div className="text-center mb-8">
+          <h3 className="text-2xl font-extrabold text-slate-900 tracking-tight">
+            Specialized Placement & Admission Reports
+          </h3>
+          <p className="text-sm text-slate-600 max-w-2xl mx-auto mt-1">
+            Download verified reports on DRCC Bihar credit card approved private MBA colleges and sector-wise recruiter stats.
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {/* Card 1: DRCC Private MBA Colleges List */}
+          <div className="bg-gradient-to-br from-indigo-900 to-slate-900 text-white rounded-2xl p-6 shadow-xl border border-indigo-800/40 relative overflow-hidden flex flex-col justify-between group hover:border-indigo-500/50 transition-all">
+            <div className="absolute top-0 right-0 -mt-4 -mr-4 w-28 h-28 bg-indigo-500/10 rounded-full blur-2xl pointer-events-none"></div>
+            <div>
+              <div className="flex items-center justify-between mb-4">
+                <span className="p-3 bg-indigo-500/20 text-indigo-300 rounded-xl border border-indigo-500/30">
+                  <CreditCard className="w-6 h-6" />
+                </span>
+                <span className="px-3 py-1 bg-indigo-500/30 text-indigo-200 rounded-full text-xs font-bold uppercase tracking-wider border border-indigo-400/20">
+                  DRCC Approved
+                </span>
+              </div>
+              <h4 className="text-xl font-bold mb-2 text-white group-hover:text-indigo-200 transition-colors">
+                DRCC Private MBA Colleges List
+              </h4>
+              <p className="text-xs text-slate-300 leading-relaxed mb-6">
+                Verified directory of top private MBA & PGDM colleges in India accepting Bihar Student Credit Card (DRCC) scheme for 0% / low interest education loans.
+              </p>
+            </div>
+            <a
+              href="/downloads/drcc-private-mba-colleges-list.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 w-full py-3 px-4 bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-xs rounded-xl shadow-md transition-all uppercase tracking-wider"
+            >
+              <Download className="w-4 h-4" /> Download DRCC List (PDF)
+            </a>
+          </div>
+
+          {/* Card 2: Sector-Wise Recruiter Statistics */}
+          <div className="bg-gradient-to-br from-emerald-900 to-slate-900 text-white rounded-2xl p-6 shadow-xl border border-emerald-800/40 relative overflow-hidden flex flex-col justify-between group hover:border-emerald-500/50 transition-all">
+            <div className="absolute top-0 right-0 -mt-4 -mr-4 w-28 h-28 bg-emerald-500/10 rounded-full blur-2xl pointer-events-none"></div>
+            <div>
+              <div className="flex items-center justify-between mb-4">
+                <span className="p-3 bg-emerald-500/20 text-emerald-300 rounded-xl border border-emerald-500/30">
+                  <PieChart className="w-6 h-6" />
+                </span>
+                <span className="px-3 py-1 bg-emerald-500/30 text-emerald-200 rounded-full text-xs font-bold uppercase tracking-wider border border-emerald-400/20">
+                  Sector Insights
+                </span>
+              </div>
+              <h4 className="text-xl font-bold mb-2 text-white group-hover:text-emerald-200 transition-colors">
+                Sector-Wise Recruiter Statistics
+              </h4>
+              <p className="text-xs text-slate-300 leading-relaxed mb-6">
+                Detailed domain-wise placement analysis covering Consulting, BFSI, IT/Analytics, Product Management, FMCG, and E-commerce hiring trends across top B-schools.
+              </p>
+            </div>
+            <a
+              href="/downloads/sector-wise-recruiter-statistics.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 w-full py-3 px-4 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs rounded-xl shadow-md transition-all uppercase tracking-wider"
+            >
+              <Download className="w-4 h-4" /> Download Sector Stats (PDF)
+            </a>
+          </div>
+        </div>
       </div>
 
       {/* Bottom CTA for full college directory */}
