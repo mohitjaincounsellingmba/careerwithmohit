@@ -100,8 +100,6 @@ const TOOL_CATEGORIES = [
       { name: 'AI Resume Analyzer', desc: 'Score your resume with full ATS audit', href: '/tools/resume-analyzer', badge: 'AI', color: 'text-violet-600' },
       { name: 'AI Skills Gap Finder', desc: 'Identify missing skills for your dream job', href: '/tools/ai-skills', badge: 'AI', color: 'text-fuchsia-600' },
       { name: 'Career Roadmap Builder', desc: 'Build a customized 6-month career plan', href: '/calculator/career-roadmap', badge: 'New', color: 'text-blue-600' },
-      { name: 'Salary Slip Generator', desc: 'Generate and print professional payslips instantly', href: '/tools/salary-slip-generator', badge: 'Free', color: 'text-emerald-600' },
-      { name: 'Offer Letter Generator', desc: 'Create custom startup, corporate, or executive offer letters', href: '/tools/offer-letter-generator', badge: 'Free', color: 'text-indigo-600' },
       { name: 'Hashtag Generator', desc: 'Create trending hashtags for social content', href: '/tools/hashtag-generator', badge: null, color: 'text-pink-600' },
     ]
   },

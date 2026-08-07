@@ -84,8 +84,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/jee-main-mock-test',
     '/tools/mat-college-predictor',
     '/tools/mat-score-calculator',
-    '/tools/offer-letter-generator',
-    '/tools/salary-slip-generator',
     '/top-tier-mba-colleges',
     '/mba-pgdm-admission-2027',
     '/admissions',

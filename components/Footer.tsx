@@ -55,8 +55,6 @@ export function Footer() {
     resources: [
       { name: 'Free Starter Kit', href: '/starter-kit', badge: 'New' },
       { name: 'Free File Converter', href: '/tools/file-converter', badge: 'Free' },
-      { name: 'Salary Slip Generator', href: '/tools/salary-slip-generator', badge: 'Free' },
-      { name: 'Offer Letter Generator', href: '/tools/offer-letter-generator', badge: 'Free' },
       { name: 'Mock Test Hub', href: '/mock-tests', badge: 'Popular' },
       { name: 'Free CAT Mock 2027', href: '/tools/cat-mock-test' },
       { name: 'Free JEE Mock 2027', href: '/tools/jee-main-mock-test' },
