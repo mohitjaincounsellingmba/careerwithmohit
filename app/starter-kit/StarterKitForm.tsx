@@ -3,7 +3,12 @@
 import React, { useState } from 'react';
 import { CheckCircle2, Download, Loader2, BookOpen, Target, GraduationCap, Building2 } from 'lucide-react';
 
-export default function StarterKitForm() {
+interface StarterKitFormProps {
+  onSuccessCallback?: () => void;
+  formSource?: string;
+}
+
+export default function StarterKitForm({ onSuccessCallback, formSource = 'Starter Kit Landing Page' }: StarterKitFormProps) {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
   
@@ -39,7 +44,7 @@ export default function StarterKitForm() {
     if (typeof window !== 'undefined') {
       const searchParams = new URLSearchParams(window.location.search);
       sourceDetails = {
-        page_source: 'Starter Kit Landing Page',
+        page_source: formSource,
         page_url: window.location.href,
         utm_source: searchParams.get('utm_source') || '',
         utm_medium: searchParams.get('utm_medium') || '',
@@ -63,11 +68,17 @@ export default function StarterKitForm() {
           ...sourceDetails
         })
       });
+      if (typeof window !== 'undefined') {
+        localStorage.setItem('starter_kit_submitted', 'true');
+      }
     } catch (error) {
       console.error('Error submitting form:', error);
     } finally {
       setIsSubmitting(false);
       setIsSuccess(true);
+      if (onSuccessCallback) {
+        onSuccessCallback();
+      }
     }
   };
 

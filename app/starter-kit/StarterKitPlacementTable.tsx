@@ -1,7 +1,8 @@
 "use client";
 
 import React, { useState, useMemo } from 'react';
-import { Building2, MapPin, Wallet, GraduationCap, TrendingUp, ExternalLink, Award, Sparkles, Search, ArrowRight, Download, FileText, PieChart, CreditCard } from 'lucide-react';
+import { Building2, MapPin, Wallet, GraduationCap, TrendingUp, ExternalLink, Award, Sparkles, Search, ArrowRight, Download, FileText, PieChart, CreditCard, X, Lock } from 'lucide-react';
+import StarterKitForm from './StarterKitForm';
 
 export interface PlacementCollege {
   name: string;
@@ -671,6 +672,29 @@ export const PLACEMENT_DATA_BY_PERCENTILE: PercentileTier[] = [
 export default function StarterKitPlacementTable() {
   const [activeTierId, setActiveTierId] = useState<string>("all");
   const [searchQuery, setSearchQuery] = useState<string>("");
+  const [modalOpen, setModalOpen] = useState(false);
+  const [pendingPdf, setPendingPdf] = useState<{ url: string; title: string }>({ url: '', title: '' });
+
+  const handleDownloadClick = (e: React.MouseEvent, pdfUrl: string, pdfTitle: string) => {
+    e.preventDefault();
+    const isSubmitted = typeof window !== 'undefined' && localStorage.getItem('starter_kit_submitted') === 'true';
+    if (isSubmitted) {
+      window.open(pdfUrl, '_blank');
+    } else {
+      setPendingPdf({ url: pdfUrl, title: pdfTitle });
+      setModalOpen(true);
+    }
+  };
+
+  const handleFormSuccessInModal = () => {
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('starter_kit_submitted', 'true');
+    }
+    setModalOpen(false);
+    if (pendingPdf.url) {
+      window.open(pendingPdf.url, '_blank');
+    }
+  };
 
   const activeTier = useMemo(() => {
     return PLACEMENT_DATA_BY_PERCENTILE.find(t => t.id === activeTierId);
@@ -792,15 +816,13 @@ export default function StarterKitPlacementTable() {
                 </div>
 
                 <div className="flex-shrink-0 flex items-center flex-wrap gap-2">
-                  <a
-                    href={tier.downloadUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-xs transition-all"
+                  <button
+                    onClick={(e) => handleDownloadClick(e, tier.downloadUrl, `${tier.title} (${tier.subtitle}) Report`)}
+                    className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-xs transition-all cursor-pointer"
                   >
                     <Download className="w-3.5 h-3.5" />
                     Download Tier PDF
-                  </a>
+                  </button>
                   <span className={`inline-flex items-center px-3.5 py-1.5 rounded-full text-xs font-extrabold ${tier.badgeBg} ${tier.badgeText} border border-black/5`}>
                     <Award className="w-3.5 h-3.5 mr-1.5" />
                     {tier.badge}
@@ -944,14 +966,12 @@ export default function StarterKitPlacementTable() {
                 Verified directory of top private MBA & PGDM colleges in India accepting Bihar Student Credit Card (DRCC) scheme for 0% / low interest education loans.
               </p>
             </div>
-            <a
-              href="/downloads/drcc-private-mba-colleges-list.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 w-full py-3 px-4 bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-xs rounded-xl shadow-md transition-all uppercase tracking-wider"
+            <button
+              onClick={(e) => handleDownloadClick(e, "/downloads/drcc-private-mba-colleges-list.pdf", "DRCC Private MBA Colleges List")}
+              className="inline-flex items-center justify-center gap-2 w-full py-3 px-4 bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-xs rounded-xl shadow-md transition-all uppercase tracking-wider cursor-pointer"
             >
               <Download className="w-4 h-4" /> Download DRCC List (PDF)
-            </a>
+            </button>
           </div>
 
           {/* Card 2: Sector-Wise Recruiter Statistics */}
@@ -973,14 +993,12 @@ export default function StarterKitPlacementTable() {
                 Detailed domain-wise placement analysis covering Consulting, BFSI, IT/Analytics, Product Management, FMCG, and E-commerce hiring trends across top B-schools.
               </p>
             </div>
-            <a
-              href="/downloads/sector-wise-recruiter-statistics.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 w-full py-3 px-4 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs rounded-xl shadow-md transition-all uppercase tracking-wider"
+            <button
+              onClick={(e) => handleDownloadClick(e, "/downloads/sector-wise-recruiter-statistics.pdf", "Sector-Wise Recruiter Statistics")}
+              className="inline-flex items-center justify-center gap-2 w-full py-3 px-4 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs rounded-xl shadow-md transition-all uppercase tracking-wider cursor-pointer"
             >
               <Download className="w-4 h-4" /> Download Sector Stats (PDF)
-            </a>
+            </button>
           </div>
         </div>
       </div>
@@ -998,6 +1016,35 @@ export default function StarterKitPlacementTable() {
           Explore All Colleges <ArrowRight className="w-4 h-4" />
         </a>
       </div>
+
+      {/* Inquiry Form Modal for PDF Downloads */}
+      {modalOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/80 backdrop-blur-xs animate-in fade-in duration-200">
+          <div className="relative w-full max-w-lg bg-white rounded-3xl shadow-2xl border border-slate-100 p-6 sm:p-8 max-h-[90vh] overflow-y-auto">
+            <button
+              onClick={() => setModalOpen(false)}
+              className="absolute top-4 right-4 p-2 text-slate-400 hover:text-slate-600 rounded-full hover:bg-slate-100 transition-colors"
+            >
+              <X className="w-5 h-5" />
+            </button>
+
+            <div className="mb-6">
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-indigo-50 text-indigo-700 text-xs font-extrabold uppercase tracking-wider mb-2">
+                <Lock className="w-3.5 h-3.5" /> Unlock PDF Download
+              </div>
+              <h3 className="text-2xl font-black text-slate-900 tracking-tight">Submit Starter Kit Inquiry Form</h3>
+              <p className="text-xs sm:text-sm text-slate-600 mt-1">
+                Please submit the quick inquiry form below to download <span className="font-bold text-indigo-600">{pendingPdf.title}</span> and unlock all PDF reports.
+              </p>
+            </div>
+
+            <StarterKitForm
+              formSource={`Starter Kit PDF Download - ${pendingPdf.title}`}
+              onSuccessCallback={handleFormSuccessInModal}
+            />
+          </div>
+        </div>
+      )}
     </div>
   );
 }
