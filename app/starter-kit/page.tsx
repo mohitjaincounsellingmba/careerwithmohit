@@ -2,15 +2,20 @@ import React from 'react';
 import { Metadata } from 'next';
 import StarterKitForm from './StarterKitForm';
 import StarterKitPlacementTable from './StarterKitPlacementTable';
-import { BookOpen, Target, GraduationCap, FileText, CheckCircle2, Download, Sparkles, Building2, ShieldCheck, Users } from 'lucide-react';
+import MBAInterviewProcessSection from './MBAInterviewProcessSection';
+import { BookOpen, Target, GraduationCap, FileText, CheckCircle2, Download, Sparkles, Building2, ShieldCheck, Users, Briefcase } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Free MBA Preparation Kit 2026-27 (CAT, XAT, NMAT, SNAP) | Download Now',
-  description: 'Download 100% Free MBA Preparation Kit for CAT, NMAT, XAT, SNAP, CMAT & MAT 2026-27. Includes complete syllabuses, percentile cutoffs, placement reports, GDPI solutions & study plans.',
+  title: 'Free MBA Preparation Kit & Campus Placement Interview Guide 2026-27 | Download PDF',
+  description: 'Download 100% Free MBA Preparation Kit & Campus Placement Selection Guide 2026-27. Includes CAT, NMAT, XAT syllabuses, percentile cutoffs, Big 4 & BFSI interview Q&A, and GDPI strategies.',
   keywords: [
+    'mba campus placement interview questions and answers',
+    'mba placement selection process guide pdf',
     'free mba preparation kit',
     'free mba study material pdf download',
     'cat exam starter kit 2026',
+    'ey deloitte consulting interview questions mba',
+    'jp morgan icici bank mba interview questions',
     'cat syllabus pdf download',
     'xat nmat snap preparation strategy',
     'top mba colleges placement report pdf',
@@ -21,8 +26,8 @@ export const metadata: Metadata = {
     canonical: 'https://careerwithmohit.online/starter-kit',
   },
   openGraph: {
-    title: 'Free MBA Preparation Kit 2026-27 for All Entrance Exams | Download Now',
-    description: 'Get free instant PDF access to complete MBA entrance exam study material, exam syllabuses, percentile cutoffs & placement reports.',
+    title: 'Free MBA Preparation Kit & Campus Placement Interview Guide 2026-27 | Download PDF',
+    description: 'Get free instant PDF access to MBA entrance exam syllabuses, percentile cutoffs, Big 4/BFSI placement selection rounds & real interview questions.',
     url: 'https://careerwithmohit.online/starter-kit',
     siteName: 'CareerWithMohit',
     images: [
@@ -30,15 +35,15 @@ export const metadata: Metadata = {
         url: 'https://careerwithmohit.online/og-image.webp',
         width: 1200,
         height: 630,
-        alt: 'Free MBA Preparation Kit 2026-27',
+        alt: 'Free MBA Preparation Kit & Campus Placement Selection Guide 2026-27',
       },
     ],
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free MBA Preparation Kit 2026-27 for All Entrance Exams | Download Now',
-    description: 'Instant PDF downloads: CAT, XAT, NMAT, SNAP syllabus, percentile cutoffs & placement reports.',
+    title: 'Free MBA Preparation Kit & Campus Placement Interview Guide 2026-27 | Download PDF',
+    description: 'Instant PDF downloads: CAT/XAT/NMAT syllabus, percentile cutoffs, Big 4/BFSI placement selection rounds & interview questions.',
   },
 };
 
@@ -46,8 +51,8 @@ export default function StarterKitPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Course',
-    name: 'Free MBA Preparation Kit 2026-27 for All Entrance Exams',
-    description: 'Comprehensive MBA entrance exam preparation starter kit for CAT, XAT, NMAT, SNAP, CMAT & MAT aspirants.',
+    name: 'Free MBA Preparation Kit & Campus Placement Selection Guide 2026-27',
+    description: 'Comprehensive MBA entrance exam preparation starter kit and campus placement selection process & interview questions guide for CAT, XAT, NMAT, SNAP, CMAT & MAT aspirants.',
     provider: {
       '@type': 'Organization',
       name: 'CareerWithMohit',
@@ -81,15 +86,25 @@ export default function StarterKitPage() {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 tracking-tight leading-tight">
-              Free MBA Preparation Kit <span className="text-transparent bg-clip-text bg-linear-to-r from-indigo-600 to-purple-600">for All Entrance Exams</span>
+              Free MBA Preparation Kit <span className="text-transparent bg-clip-text bg-linear-to-r from-indigo-600 to-purple-600">& Campus Placement Guide</span>
             </h1>
             
             <p className="text-lg md:text-xl text-gray-600 max-w-2xl leading-relaxed">
-              Accelerate your preparation for <span className="font-bold text-gray-900">CAT, XAT, NMAT, SNAP, CMAT & MAT</span>. Download complete study guides, exam syllabuses, percentile cutoff placement reports, and GDPI strategies in one instant PDF kit.
+              Accelerate your preparation for <span className="font-bold text-gray-900">CAT, XAT, NMAT, SNAP & Campus Placements</span>. Download study guides, exam syllabuses, percentile cutoffs, Big 4 / BFSI interview questions, and GDPI strategies in one instant PDF kit.
             </p>
 
             {/* Feature Highlights Grid */}
             <div className="space-y-4 pt-2">
+              <div className="flex items-start gap-4 p-3.5 bg-white/80 rounded-2xl border border-indigo-100/80 shadow-2xs hover:border-indigo-300 transition-all">
+                <div className="flex-shrink-0 flex items-center justify-center w-12 h-12 rounded-xl bg-indigo-100 text-indigo-600">
+                  <Briefcase className="w-6 h-6" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-bold text-gray-900">Campus Placement Selection Process & Questions (NEW)</h3>
+                  <p className="text-gray-600 text-sm mt-0.5">Big 4 (EY, Deloitte, PwC), BFSI (JP Morgan, ICICI), FMCG & Tech rounds with real interview questions.</p>
+                </div>
+              </div>
+
               <div className="flex items-start gap-4 p-3.5 bg-white/80 rounded-2xl border border-indigo-100/80 shadow-2xs hover:border-indigo-300 transition-all">
                 <div className="flex-shrink-0 flex items-center justify-center w-12 h-12 rounded-xl bg-indigo-100 text-indigo-600">
                   <BookOpen className="w-6 h-6" />
@@ -161,13 +176,16 @@ export default function StarterKitPage() {
                   <Download className="w-3.5 h-3.5" /> Instant Free PDF Access
                 </div>
                 <h2 className="text-2xl font-extrabold text-gray-900 tracking-tight">Download Free Preparation Kit</h2>
-                <p className="text-gray-600 text-xs sm:text-sm mt-1">Fill in your details to unlock instant download links for all 6 study guides & placement PDFs.</p>
+                <p className="text-gray-600 text-xs sm:text-sm mt-1">Fill in your details to unlock instant download links for all study guides, placement PDFs & interview Q&A.</p>
               </div>
 
               <StarterKitForm />
             </div>
           </div>
         </div>
+
+        {/* MBA Campus Placement Interview Questions & Complete Process Section */}
+        <MBAInterviewProcessSection />
 
         {/* Placement Data Categorized by Percentile Tiers */}
         <StarterKitPlacementTable />
@@ -176,3 +194,4 @@ export default function StarterKitPage() {
     </main>
   );
 }
+

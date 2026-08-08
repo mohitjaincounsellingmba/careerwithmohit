@@ -946,9 +946,36 @@ export default function StarterKitPlacementTable() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {/* Card 1: DRCC Private MBA Colleges List */}
-          <div className="bg-gradient-to-br from-indigo-900 to-slate-900 text-white rounded-2xl p-6 shadow-xl border border-indigo-800/40 relative overflow-hidden flex flex-col justify-between group hover:border-indigo-500/50 transition-all">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {/* Card 1: MBA Campus Placement Master Guide */}
+          <div className="bg-gradient-to-br from-indigo-900 to-purple-950 text-white rounded-2xl p-6 shadow-xl border border-indigo-700/50 relative overflow-hidden flex flex-col justify-between group hover:border-indigo-400/60 transition-all">
+            <div className="absolute top-0 right-0 -mt-4 -mr-4 w-28 h-28 bg-purple-500/20 rounded-full blur-2xl pointer-events-none"></div>
+            <div>
+              <div className="flex items-center justify-between mb-4">
+                <span className="p-3 bg-indigo-500/20 text-indigo-300 rounded-xl border border-indigo-500/30">
+                  <FileText className="w-6 h-6" />
+                </span>
+                <span className="px-3 py-1 bg-amber-400/20 text-amber-300 rounded-full text-xs font-bold uppercase tracking-wider border border-amber-400/30">
+                  ⭐ Master Guide
+                </span>
+              </div>
+              <h4 className="text-xl font-bold mb-2 text-white group-hover:text-indigo-200 transition-colors">
+                MBA Placement Interview Q&A Guide
+              </h4>
+              <p className="text-xs text-slate-300 leading-relaxed mb-6">
+                Selection rounds, real interview questions, and prep frameworks for Big 4, BFSI, FMCG, and Tech Sales campus hiring.
+              </p>
+            </div>
+            <button
+              onClick={(e) => handleDownloadClick(e, "/downloads/mba-campus-placement-interview-guide.pdf", "MBA Campus Placement Selection Process & Questions")}
+              className="inline-flex items-center justify-center gap-2 w-full py-3 px-4 bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-xs rounded-xl shadow-md transition-all uppercase tracking-wider cursor-pointer"
+            >
+              <Download className="w-4 h-4" /> Download Guide (PDF)
+            </button>
+          </div>
+
+          {/* Card 2: DRCC Private MBA Colleges List */}
+          <div className="bg-gradient-to-br from-slate-900 to-indigo-950 text-white rounded-2xl p-6 shadow-xl border border-indigo-800/40 relative overflow-hidden flex flex-col justify-between group hover:border-indigo-500/50 transition-all">
             <div className="absolute top-0 right-0 -mt-4 -mr-4 w-28 h-28 bg-indigo-500/10 rounded-full blur-2xl pointer-events-none"></div>
             <div>
               <div className="flex items-center justify-between mb-4">
@@ -974,8 +1001,8 @@ export default function StarterKitPlacementTable() {
             </button>
           </div>
 
-          {/* Card 2: Sector-Wise Recruiter Statistics */}
-          <div className="bg-gradient-to-br from-emerald-900 to-slate-900 text-white rounded-2xl p-6 shadow-xl border border-emerald-800/40 relative overflow-hidden flex flex-col justify-between group hover:border-emerald-500/50 transition-all">
+          {/* Card 3: Sector-Wise Recruiter Statistics */}
+          <div className="bg-gradient-to-br from-emerald-950 to-slate-900 text-white rounded-2xl p-6 shadow-xl border border-emerald-800/40 relative overflow-hidden flex flex-col justify-between group hover:border-emerald-500/50 transition-all">
             <div className="absolute top-0 right-0 -mt-4 -mr-4 w-28 h-28 bg-emerald-500/10 rounded-full blur-2xl pointer-events-none"></div>
             <div>
               <div className="flex items-center justify-between mb-4">

@@ -94,6 +94,30 @@ export default function StarterKitForm({ onSuccessCallback, formSource = 'Starte
         </div>
 
         <div className="space-y-6">
+          {/* MBA CAMPUS PLACEMENT MASTER GUIDE */}
+          <div className="bg-linear-to-br from-indigo-900 to-slate-900 p-4 rounded-xl text-white border border-indigo-700/50 shadow-md">
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-xs font-extrabold uppercase tracking-wider text-amber-400 bg-amber-400/10 px-2 py-0.5 rounded-full border border-amber-400/20">
+                ⭐ Featured Master Guide
+              </span>
+              <span className="text-[11px] text-indigo-200 font-semibold">4 Pages · Verified</span>
+            </div>
+            <h4 className="font-bold text-white text-sm mb-1">
+              MBA Campus Placement Selection Process & Questions (PDF)
+            </h4>
+            <p className="text-xs text-slate-300 mb-3 leading-relaxed">
+              Big 4 (EY, Deloitte, PwC, KPMG), BFSI (JP Morgan, ICICI, HDFC), FMCG (HUL, P&G) & Tech rounds, real questions & Top 5 placement rules.
+            </p>
+            <a 
+              href="/downloads/mba-campus-placement-interview-guide.pdf" 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center gap-2 w-full py-2.5 px-4 bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-xs rounded-lg shadow-sm transition-all uppercase tracking-wider"
+            >
+              <Download className="w-4 h-4" /> Download Placement Master Guide
+            </a>
+          </div>
+
           {/* Syllabuses */}
           <div className="bg-indigo-50/50 p-4 rounded-xl border border-indigo-100">
             <h4 className="font-semibold text-gray-900 mb-3 flex items-center gap-2 text-sm">
@@ -138,6 +162,7 @@ export default function StarterKitForm({ onSuccessCallback, formSource = 'Starte
             </h4>
             <div className="grid grid-cols-1 gap-2.5">
               {[
+                { title: 'MBA Campus Placement Selection Process & Questions (PDF)', file: 'mba-campus-placement-interview-guide.pdf' },
                 { title: '90+ Percentile (Tier 1 B-Schools)', file: 'mba-colleges-cutoff-90-plus.pdf' },
                 { title: '80-90 Percentile (Top Tier-2 B-Schools)', file: 'mba-colleges-cutoff-80-to-90.pdf' },
                 { title: '70-80 Percentile (Reputed Tier-2/3 B-Schools)', file: 'mba-colleges-cutoff-70-to-80.pdf' },
