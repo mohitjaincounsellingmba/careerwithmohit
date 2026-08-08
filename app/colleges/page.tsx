@@ -175,20 +175,25 @@ export default function CollegesPage() {
                 </h3>
                 <div className="grid sm:grid-cols-2 gap-8">
                   {[
-                    { city: "Delhi NCR", link: "/blog/best-mba-colleges-in-delhi-2026" },
-                    { city: "Bangalore", link: "/blog/best-mba-colleges-in-bangalore-2026" },
-                    { city: "Pune", link: "/blog/best-mba-colleges-in-pune-2026" },
-                    { city: "Jaipur", link: "/blog/best-mba-colleges-in-jaipur-2026" },
-                    { city: "Mumbai", link: "/blog/best-mba-colleges-in-mumbai-2026" },
-                    { city: "Noida & GZ", link: "/blog/best-mba-colleges-in-noida-ghaziabad-2026" }
+                    { city: "Delhi NCR", link: "/colleges/mba-colleges-delhi-ncr", sub: "NDIM, BIMTECH, FIIB, JIMS" },
+                    { city: "Mumbai", link: "/colleges/mba-colleges-mumbai", sub: "JBIMS, NMIMS, Welingkar, ITM" },
+                    { city: "Bangalore", link: "/colleges/mba-colleges-bangalore", sub: "JAGSoM, Alliance, ISBR, GIBS" },
+                    { city: "Pune", link: "/colleges/mba-colleges-pune", sub: "SIBM, PUMBA, Balaji, PIBM" },
+                    { city: "Hyderabad", link: "/colleges/mba-colleges-hyderabad", sub: "IPE, VJIM, SIBM-H, Badruka" },
+                    { city: "Kolkata", link: "/colleges/mba-colleges-kolkata", sub: "Praxis, Globsyn, IIMC, BIBS" },
+                    { city: "Ahmedabad", link: "/colleges/mba-colleges-ahmedabad", sub: "Nirma, EDII, Shanti BS, SKIPS" },
+                    { city: "Jaipur", link: "/colleges/mba-colleges-jaipur", sub: "Jaipuria, Taxila, IIHMR, JKLU" }
                   ].map((item, i) => (
                     <Link key={i} href={item.link} className="flex items-center group">
-                      <div className="w-12 h-12 flex items-center justify-center border-4 border-foreground font-black group-hover:bg-primary group-hover:text-white transition-colors">
+                      <div className="w-12 h-12 flex items-center justify-center border-4 border-foreground font-black group-hover:bg-primary group-hover:text-white transition-colors shrink-0">
                         {i + 1}
                       </div>
-                      <span className="ml-4 text-lg font-black uppercase border-b-4 border-transparent group-hover:border-primary transition-all">
-                        Best Colleges in {item.city} &rarr;
-                      </span>
+                      <div className="ml-4">
+                        <span className="text-lg font-black uppercase border-b-4 border-transparent group-hover:border-primary transition-all block">
+                          MBA in {item.city} &rarr;
+                        </span>
+                        <span className="text-xs text-slate-500 font-bold block">{item.sub}</span>
+                      </div>
                     </Link>
                   ))}
                 </div>

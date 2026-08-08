@@ -1,10 +1,11 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { BadgeCheck, Phone, ChevronDown, CheckCircle2 } from 'lucide-react';
+import { BadgeCheck, Phone, ChevronDown, CheckCircle2, MapPin, ArrowRight, Building, Sparkles } from 'lucide-react';
 import MbaPgdmClient from '@/components/MbaPgdmClient';
 import MbaPgdmLeadForm from '@/components/MbaPgdmLeadForm';
 import CatExamPapersDashboard from '@/components/CatExamPapersDashboard';
 import { MBA_PGDM_COLLEGES_2027 } from '@/data/mbaPgdmColleges2027';
+import { GEO_MBA_HUBS } from '@/data/geoMbaHubs';
 
 const BASE_URL = 'https://www.careerwithmohit.online';
 const PAGE_PATH = '/mba-pgdm-admission-2027';
@@ -361,6 +362,66 @@ export default function MbaPgdmAdmission2027Page() {
                   <h3 className="font-black text-[#0f172a] text-lg tracking-tight">{item.title}</h3>
                   <p className="text-gray-500 text-sm leading-relaxed font-medium">{item.desc}</p>
                 </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* ── GEO SEO: REGIONAL MBA & PGDM HUBS ── */}
+        <section className="bg-slate-900 py-16 md:py-24 border-t border-slate-800 text-slate-100">
+          <div className="max-w-7xl mx-auto px-6">
+            <div className="text-center mb-12">
+              <span className="inline-flex items-center gap-2 bg-amber-500/10 border border-amber-500/20 text-amber-400 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-3">
+                <MapPin size={14} className="text-amber-400" />
+                Regional Education Hubs · 2026-2027
+              </span>
+              <h2 className="display-font text-3xl md:text-5xl font-black text-white mb-4">
+                Explore MBA &amp; PGDM Admissions by Region
+              </h2>
+              <p className="text-slate-400 text-base max-w-2xl mx-auto font-medium">
+                Access location-wise college rankings, average CTC packages, tuition fees, and accepted entrance exams across India&apos;s leading business capitals.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+              {Object.values(GEO_MBA_HUBS).map((hub) => (
+                <Link
+                  key={hub.hubKey}
+                  href={hub.route}
+                  className="group relative rounded-2xl bg-slate-950/80 border border-slate-800 hover:border-amber-500/50 p-6 flex flex-col justify-between transition-all hover:shadow-2xl hover:shadow-amber-500/5 hover:-translate-y-1"
+                >
+                  <div>
+                    <div className="flex items-start justify-between gap-2 mb-3">
+                      <span className="inline-flex items-center gap-1 text-[11px] font-bold text-amber-400 bg-amber-500/10 px-2.5 py-1 rounded-md border border-amber-500/20">
+                        {hub.stats.totalColleges}
+                      </span>
+                      <span className="text-[11px] text-slate-400 font-semibold">{hub.stateName.split('/')[0]}</span>
+                    </div>
+
+                    <h3 className="text-xl font-bold text-white group-hover:text-amber-400 transition-colors">
+                      {hub.cityName}
+                    </h3>
+                    <p className="text-xs text-slate-400 mt-1.5 line-clamp-2 leading-relaxed">
+                      {hub.tagline}
+                    </p>
+
+                    <div className="mt-4 pt-3 border-t border-slate-800/80 grid grid-cols-2 gap-2 text-xs">
+                      <div>
+                        <span className="text-slate-400 text-[10px]">Avg Package</span>
+                        <div className="font-bold text-emerald-400">{hub.stats.avgPlacement.split(' - ')[0]}</div>
+                      </div>
+                      <div>
+                        <span className="text-slate-400 text-[10px]">Fee Range</span>
+                        <div className="font-bold text-slate-300">{hub.stats.feeRange.split(' - ')[0]}</div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="mt-5 pt-3 border-t border-slate-800 flex items-center justify-between text-xs font-semibold text-amber-400 group-hover:text-amber-300">
+                    <span>View {hub.cityName} Colleges</span>
+                    <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
+                  </div>
+                </Link>
               ))}
             </div>
           </div>

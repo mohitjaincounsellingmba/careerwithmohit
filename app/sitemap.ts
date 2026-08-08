@@ -87,12 +87,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/top-tier-mba-colleges',
     '/mba-pgdm-admission-2027',
     '/admissions',
+    '/colleges/mba-colleges-delhi-ncr',
+    '/colleges/mba-colleges-mumbai',
+    '/colleges/mba-colleges-bangalore',
     '/colleges/mba-colleges-pune',
+    '/colleges/mba-colleges-hyderabad',
+    '/colleges/mba-colleges-kolkata',
+    '/colleges/mba-colleges-ahmedabad',
+    '/colleges/mba-colleges-jaipur',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
-    priority: route === '' ? 1 : (route === '/sell-your-coaching-online' ? 0.95 : (route.includes('/tools/') || route.includes('/calculator/') ? 0.9 : 0.7)),
+    priority:
+      route === ''
+        ? 1
+        : route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/sell-your-coaching-online'
+        ? 0.95
+        : route.includes('/tools/') || route.includes('/calculator/')
+        ? 0.9
+        : 0.7,
   }));
 
   // Dynamic blog routes

@@ -3,7 +3,7 @@ import { GEO_MBA_HUBS } from '@/data/geoMbaHubs';
 import { getCollegesForGeoHub } from '@/lib/geoColleges';
 import { GeoMbaHubClient } from '@/components/GeoMbaHubClient';
 
-const hub = GEO_MBA_HUBS['pune'];
+const hub = GEO_MBA_HUBS['kolkata'];
 
 export const metadata: Metadata = {
   title: hub.metaTitle,
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default function MbaCollegesPunePage() {
+export default function MbaCollegesKolkataPage() {
   const colleges = getCollegesForGeoHub(hub);
 
   const breadcrumbSchema = {
