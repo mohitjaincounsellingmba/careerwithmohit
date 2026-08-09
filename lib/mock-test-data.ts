@@ -1120,6 +1120,7 @@ import { MHCET_QUESTIONS } from './mhcet-questions';
 import { CAT_MOCK_TEST_68 } from '@/data/cat_mock_test_68';
 import { NMAT_MOCK_TEST_108 } from '@/data/nmat_mock_test_108';
 import { XAT_MOCK_TEST_95 } from '@/data/xat_mock_test_95';
+import { SNAP_MOCK_TEST_60 } from '@/data/snap_mock_test_60';
 
 export function generateMockQuestions(config: ExamConfig, setNumber: number = 1): GenericQuestion[] {
   let questions: GenericQuestion[] = [];
@@ -1188,6 +1189,22 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
       });
     });
     realData = xatMap;
+  }
+  else if (config.slug === 'snap') {
+    const snapMap: any = {};
+    SNAP_MOCK_TEST_60.forEach(q => {
+      const sectionKey = q.section.toLowerCase();
+      if (!snapMap[sectionKey]) snapMap[sectionKey] = [];
+      snapMap[sectionKey].push({
+        id: q.id,
+        sectionId: sectionKey,
+        text: (q.passageText ? `[${q.passageTitle}]\n\n${q.passageText}\n\n` : q.scenarioText ? `[${q.scenarioTitle}]\n\n${q.scenarioText}\n\n` : '') + q.questionText,
+        options: q.options || ['Option A', 'Option B', 'Option C', 'Option D'],
+        correctAnswer: typeof q.correctAnswer === 'number' ? q.correctAnswer : 0,
+        explanation: q.solution
+      });
+    });
+    realData = snapMap;
   }
   else if (config.slug === 'atma') {
     realData = ATMA_QUESTIONS;
