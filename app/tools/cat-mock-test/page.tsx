@@ -1,13 +1,13 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { GenericMockTestClient } from '@/components/GenericMockTest/GenericMockTestClient';
-import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
+import { CatCbtMockTestClient } from '@/components/CatMockTest/CatCbtMockTestClient';
+import { EXAM_CONFIGS } from '@/lib/mock-test-data';
 import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Presentation, Award, GraduationCap, ShieldCheck, PieChart } from 'lucide-react';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Free CAT Mock Test 2026 | Best Online IIM Practice Exam',
-  description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 66-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
+  title: 'Free CAT Mock Test 2026 | Best Online IIM Practice Exam (68 Questions)',
+  description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 68-question exam (VARC 24, DILR 22, QA 22) with sectional 40-minute timers, TIME/CL/PW CBT interface, instant scores, and step-by-step solutions.',
   keywords: [
     'CAT 2026 mock test', 'CAT 2026 test series', 'Best mock test for CAT 2026', 'CAT 2026 preparation material', 
     'Online CAT coaching 2026', 'CAT exam 2026 date', 'CAT 2026 syllabus PDF', 'Free CAT mock test 2026', 
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Free CAT Mock Test 2026 | Best Online IIM Practice Exam',
-    description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 66-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
+    description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 68-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/cat-mock-test',
     images: [
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Free CAT Mock Test 2026 | Best Online IIM Practice Exam',
-    description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 66-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
+    description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 68-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
     images: ['/og-image.webp'],
   }
 };
@@ -54,8 +54,6 @@ export default function CatMockTestPage() {
     notFound();
   }
 
-  const questions = generateMockQuestions(config);
-
   const softwareSchema = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
@@ -63,7 +61,7 @@ export default function CatMockTestPage() {
     "operatingSystem": "Windows, macOS, Android, iOS, Web",
     "applicationCategory": "EducationalApplication",
     "softwareVersion": "2026.1.0",
-    "description": "Realistic 66-question CAT mock test for IIM aspirants. Includes sectional 40-minute timers and a percentile predictor for top management institutes like FMS and XLRI.",
+    "description": "Realistic 68-question CAT mock test for IIM aspirants. Includes sectional 40-minute timers and a percentile predictor for top management institutes like FMS and XLRI.",
     "offers": {
       "@type": "Offer",
       "price": "0",
@@ -75,7 +73,7 @@ export default function CatMockTestPage() {
     "@context": "https://schema.org",
     "@type": "Quiz",
     "name": "CAT 2026 Full-Length Mock Test",
-    "description": "Realistic 66-question Common Admission Test simulation with VARC, DILR, and QA sections.",
+    "description": "Realistic 68-question Common Admission Test simulation with VARC (24), DILR (22), and QA (22) sections with full step-by-step solutions.",
     "about": {
       "@type": "Thing",
       "name": "Common Admission Test (CAT)"
@@ -88,7 +86,7 @@ export default function CatMockTestPage() {
     "hasPart": [
       {
         "@type": "Question",
-        "name": "Verbal Ability & Reading Comprehension Section",
+        "name": "Verbal Ability & Reading Comprehension Section (24 Questions)",
         "educationalAlignment": {
           "@type": "AlignmentObject",
           "targetName": "English Language & Reading Comprehension"
@@ -96,7 +94,7 @@ export default function CatMockTestPage() {
       },
       {
         "@type": "Question",
-        "name": "Data Interpretation & Logical Reasoning Section",
+        "name": "Data Interpretation & Logical Reasoning Section (22 Questions)",
         "educationalAlignment": {
           "@type": "AlignmentObject",
           "targetName": "Logical Reasoning & Data Interpretation"
@@ -104,7 +102,7 @@ export default function CatMockTestPage() {
       },
       {
         "@type": "Question",
-        "name": "Quantitative Ability Section",
+        "name": "Quantitative Ability Section (22 Questions)",
         "educationalAlignment": {
           "@type": "AlignmentObject",
           "targetName": "Mathematics & Quantitative Aptitude"
@@ -152,7 +150,7 @@ export default function CatMockTestPage() {
   } : null;
 
   return (
-    <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
+    <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-4 sm:px-8 md:px-12">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareSchema) }}
@@ -172,19 +170,21 @@ export default function CatMockTestPage() {
         />
       )}
       
-      <div className="mx-auto max-w-5xl">
+      <div className="mx-auto max-w-6xl">
         {/* Hero Section */}
-        <div className="mb-12 text-center">
-          <h1 className="text-5xl md:text-7xl font-black uppercase mb-4 leading-none">
+        <div className="mb-10 text-center">
+          <h1 className="text-4xl sm:text-6xl md:text-7xl font-black uppercase mb-4 leading-none tracking-tight">
             Free CAT <span className="text-primary italic">2026</span> Mock Test
           </h1>
-          <div className="inline-block bg-accent px-6 py-2 border-4 border-foreground transform -rotate-2">
-            <p className="font-bold uppercase tracking-widest text-lg md:text-xl">Full-Length 120 Minute IIM Practice Simulation</p>
+          <div className="inline-block bg-accent px-6 py-2 border-4 border-foreground transform -rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+            <p className="font-black uppercase tracking-widest text-base md:text-xl">
+              68-Question TIME / Career Launcher / PW CBT Simulation
+            </p>
           </div>
         </div>
 
         {/* Client Interface */}
-        <GenericMockTestClient config={config} questions={questions} />
+        <CatCbtMockTestClient config={config} />
 
         {/* SEO CONTENT SECTION */}
         <div className="mt-24 space-y-24">

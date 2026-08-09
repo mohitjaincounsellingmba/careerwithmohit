@@ -277,7 +277,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     slug: 'cat',
     name: 'CAT 2026',
     durationMinutes: 120,
-    totalQuestions: 66,
+    totalQuestions: 68,
     targetColleges: 'IIM Ahmedabad, IIM Bangalore, IIM Calcutta, FMS, SPJIMR',
     goodScore: '99+ Percentile',
     seoTitle: 'Free CAT Mock Test 2026 | Best Online Test Series for IIM Prep',
@@ -285,8 +285,8 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     keywords: ['CAT mock test 2026', 'free CAT online test series', 'best mock test for CAT 2026', 'IIM preparation VARC DILR QA', 'CAT score vs percentile predictor', 'CAT previous year questions with solutions'],
     sections: [
       { id: 'varc', label: 'Verbal Ability & Reading Comprehension', questionCount: 24 },
-      { id: 'dilr', label: 'Data Interpretation & Logical Reasoning', questionCount: 20 },
-      { id: 'quant', label: 'Quantitative Ability', questionCount: 22 }
+      { id: 'dilr', label: 'Data Interpretation & Logical Reasoning', questionCount: 22 },
+      { id: 'qa', label: 'Quantitative Ability', questionCount: 22 }
     ],
     topCollegesList: [
       { name: 'IIM Ahmedabad', cutoff: '99.5+ %ile' },
@@ -296,21 +296,21 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       { name: 'SPJIMR Mumbai', cutoff: '95+ %ile' }
     ],
     features: [
-      'Latest CAT 2026 Exam Pattern',
+      'Latest CAT 2026 Exam Pattern (68 Questions)',
       'Detailed AI-Powered Performance Analytics',
       'All India Percentile Predictor',
-      'In-depth Sectional Analysis (VARC, DILR, QA)',
-      'Video Analysis & Detailed Solutions',
+      'In-depth Sectional Analysis (VARC 24, DILR 22, QA 22)',
+      'Step-by-Step Mathematical & Logical Solutions',
       'Designed by IIM Alumni & Top Educators'
     ],
     faqs: [
       {
         question: 'Is this CAT 2026 Mock Test completely free?',
-        answer: 'Yes, this full-length CAT 2026 mock test is completely free. It provides a real exam interface experience with 66 questions to be solved in 120 minutes.'
+        answer: 'Yes, this full-length CAT 2026 mock test is completely free. It provides a real exam interface experience with 68 questions to be solved in 120 minutes.'
       },
       {
         question: 'What is the pattern of the CAT Mock Test?',
-        answer: 'The mock test strictly follows the latest CAT pattern: 24 questions in VARC, 20 in DILR, and 22 in Quantitative Ability (QA). The total duration is 120 minutes with a sectional time limit of 40 minutes each.'
+        answer: 'The mock test strictly follows the comprehensive CAT pattern: 24 questions in VARC, 22 in DILR, and 22 in Quantitative Ability (QA). The total duration is 120 minutes with a sectional time limit of 40 minutes each.'
       },
       {
         question: 'Are the questions similar to the actual CAT exam?',
@@ -318,7 +318,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
       },
       {
         question: 'Do I get detailed solutions after the test?',
-        answer: 'Absolutely! Upon submission, you will receive an instant score sheet along with detailed text solutions and analytical breakdowns for every question.'
+        answer: 'Absolutely! Upon submission, you will receive an instant score sheet along with detailed step-by-step text solutions and analytical breakdowns for every question.'
       }
     ],
     examDetails: [
@@ -1117,7 +1117,7 @@ import { ATMA_QUESTIONS } from './atma-questions';
 import { CDS_QUESTIONS } from './cds-questions';
 import { REAL_EXAM_QUESTIONS } from './real-exam-questions';
 import { MHCET_QUESTIONS } from './mhcet-questions';
-import { CAT_QUESTIONS } from '@/data/cat_questions';
+import { CAT_MOCK_TEST_68 } from '@/data/cat_mock_test_68';
 
 export function generateMockQuestions(config: ExamConfig, setNumber: number = 1): GenericQuestion[] {
   let questions: GenericQuestion[] = [];
@@ -1141,16 +1141,16 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
   }
   else if (config.slug === 'cat') {
     const catMap: any = {};
-    CAT_QUESTIONS.forEach(q => {
+    CAT_MOCK_TEST_68.forEach(q => {
       const sectionKey = q.section.toLowerCase();
       if (!catMap[sectionKey]) catMap[sectionKey] = [];
       catMap[sectionKey].push({
         id: q.id,
         sectionId: sectionKey,
-        text: q.questionText,
-        options: q.options,
-        correctAnswer: q.options.indexOf(q.correctAnswer),
-        explanation: `View explanation at ${q.explanationUrl}`
+        text: (q.passageText ? `[${q.passageTitle}]\n\n${q.passageText}\n\n` : q.scenarioText ? `[${q.scenarioTitle}]\n\n${q.scenarioText}\n\n` : '') + q.questionText,
+        options: q.options || ['Option A', 'Option B', 'Option C', 'Option D'],
+        correctAnswer: typeof q.correctAnswer === 'number' ? q.correctAnswer : 0,
+        explanation: q.solution
       });
     });
     realData = catMap;
