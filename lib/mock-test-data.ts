@@ -828,17 +828,17 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     slug: 'xat',
     name: 'XAT 2026',
     durationMinutes: 210,
-    totalQuestions: 100,
+    totalQuestions: 95,
     targetColleges: 'XLRI Jamshedpur, SPJIMR, IMT, XIMB',
     goodScore: '35+',
-    seoTitle: 'Free XAT Mock Test 2026 | Decision Making & Verbal Practice',
-    seoDescription: 'Take a full-length XAT 2026 mock test. Includes Decision Making, Verbal & Logical Ability, QA & DI. Experience the actual XLRI exam interface.',
+    seoTitle: 'Free XAT Mock Test 2026/27 | XLRI Decision Making, VALR, QADI & GK Practice (95 Questions)',
+    seoDescription: 'Take a full-length 95-question XAT 2026/27 mock test with 5-choice options, Decision Making caselets, VALR, QA & DI, and GK. Instant XLRI cutoff prediction and full solutions.',
     keywords: ['XAT mock test 2026', 'XLRI Jamshedpur decision making practice', 'free XAT online test series', 'XAT verbal logical quantitative aptitude', 'XAT exam pattern with solutions', 'XAT score vs percentile predictor'],
     sections: [
-      { id: 'varc', label: 'Verbal & Logical Ability', questionCount: 26 },
-      { id: 'dm', label: 'Decision Making', questionCount: 22 },
-      { id: 'quant', label: 'QA & Data Interpretation', questionCount: 28 },
-      { id: 'gk', label: 'General Knowledge', questionCount: 25 }
+      { id: 'valr', label: 'Verbal & Logical Ability', questionCount: 26 },
+      { id: 'dm', label: 'Decision Making', questionCount: 21 },
+      { id: 'qadi', label: 'QA & Data Interpretation', questionCount: 28 },
+      { id: 'gk', label: 'General Knowledge', questionCount: 20 }
     ],
     topCollegesList: [
       { name: 'XLRI Jamshedpur (BM)', cutoff: '95+ %ile' },
@@ -1119,6 +1119,7 @@ import { REAL_EXAM_QUESTIONS } from './real-exam-questions';
 import { MHCET_QUESTIONS } from './mhcet-questions';
 import { CAT_MOCK_TEST_68 } from '@/data/cat_mock_test_68';
 import { NMAT_MOCK_TEST_108 } from '@/data/nmat_mock_test_108';
+import { XAT_MOCK_TEST_95 } from '@/data/xat_mock_test_95';
 
 export function generateMockQuestions(config: ExamConfig, setNumber: number = 1): GenericQuestion[] {
   let questions: GenericQuestion[] = [];
@@ -1171,6 +1172,22 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
       });
     });
     realData = nmatMap;
+  }
+  else if (config.slug === 'xat') {
+    const xatMap: any = {};
+    XAT_MOCK_TEST_95.forEach(q => {
+      const sectionKey = q.section.toLowerCase();
+      if (!xatMap[sectionKey]) xatMap[sectionKey] = [];
+      xatMap[sectionKey].push({
+        id: q.id,
+        sectionId: sectionKey,
+        text: (q.passageText ? `[${q.passageTitle}]\n\n${q.passageText}\n\n` : q.scenarioText ? `[${q.scenarioTitle}]\n\n${q.scenarioText}\n\n` : '') + q.questionText,
+        options: q.options || ['Option A', 'Option B', 'Option C', 'Option D', 'Option E'],
+        correctAnswer: typeof q.correctAnswer === 'number' ? q.correctAnswer : 0,
+        explanation: q.solution
+      });
+    });
+    realData = xatMap;
   }
   else if (config.slug === 'atma') {
     realData = ATMA_QUESTIONS;

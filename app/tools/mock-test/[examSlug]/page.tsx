@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import { GenericMockTestClient } from '@/components/GenericMockTest/GenericMockTestClient';
+import { XatCbtMockTestClient } from '@/components/XatMockTest/XatCbtMockTestClient';
 import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
 import { Clock, Target, Zap, Presentation, CheckCircle2, HelpCircle, BookOpen } from 'lucide-react';
 import { notFound } from 'next/navigation';
@@ -140,7 +141,11 @@ export default async function ExamMockTestPage({
         </div>
 
         {/* Client Interface */}
-        <GenericMockTestClient config={config} questions={questions} />
+        {resolvedParams.examSlug === 'xat' ? (
+          <XatCbtMockTestClient config={config} />
+        ) : (
+          <GenericMockTestClient config={config} questions={questions} />
+        )}
 
         {/* SEO CONTENT SECTION */}
         <div className="mt-24 space-y-24">
