@@ -826,14 +826,14 @@ export const EXAM_CONFIGS: ExamConfig[] = [
   {
     id: 'xat',
     slug: 'xat',
-    name: 'XAT 2026',
+    name: 'XAT 2027',
     durationMinutes: 210,
     totalQuestions: 95,
     targetColleges: 'XLRI Jamshedpur, SPJIMR, IMT, XIMB',
     goodScore: '35+',
-    seoTitle: 'Free XAT Mock Test 2026/27 | XLRI Decision Making, VALR, QADI & GK Practice (95 Questions)',
-    seoDescription: 'Take a full-length 95-question XAT 2026/27 mock test with 5-choice options, Decision Making caselets, VALR, QA & DI, and GK. Instant XLRI cutoff prediction and full solutions.',
-    keywords: ['XAT mock test 2026', 'XLRI Jamshedpur decision making practice', 'free XAT online test series', 'XAT verbal logical quantitative aptitude', 'XAT exam pattern with solutions', 'XAT score vs percentile predictor'],
+    seoTitle: 'Free XAT Mock Test 2027 | XLRI Decision Making, VALR, QADI & GK Practice (95 Questions)',
+    seoDescription: 'Take a full-length 95-question XAT 2027 mock test with 5-choice options, Decision Making caselets, VALR, QA & DI, and GK. Instant XLRI cutoff prediction and full solutions.',
+    keywords: ['XAT mock test 2027', 'xat 2027', 'XLRI Jamshedpur decision making practice 2027', 'free XAT online test series 2027', 'XAT verbal logical quantitative aptitude', 'XAT exam pattern with solutions', 'XAT score vs percentile predictor'],
     sections: [
       { id: 'valr', label: 'Verbal & Logical Ability', questionCount: 26 },
       { id: 'dm', label: 'Decision Making', questionCount: 21 },
@@ -849,7 +849,7 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     ],
     features: [
       'Realistic Decision Making Section',
-      'XAT 2026 Negative Marking Pattern',
+      'XAT 2027 Negative Marking Pattern',
       'Sectional Timing Simulation',
       'XLRI Jamshedpur Percentile Predictor',
       'Detailed Post-Exam Analysis'

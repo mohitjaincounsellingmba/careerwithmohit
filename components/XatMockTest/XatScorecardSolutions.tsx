@@ -145,7 +145,7 @@ export function XatScorecardSolutions({ student, answers, onReset }: XatScorecar
             percentile: analytics.overallPercentile,
             accuracy: analytics.overallAccuracy,
             total_questions: 95,
-            targetExam: 'XAT 2026/27',
+            targetExam: 'XAT 2027',
             timestamp: new Date().toISOString()
           })
         });
@@ -188,7 +188,7 @@ export function XatScorecardSolutions({ student, answers, onReset }: XatScorecar
 
         <div className="relative z-10 flex flex-col items-center text-center space-y-8">
           <div className="inline-flex items-center gap-2 bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 px-6 py-2 rounded-full font-black text-xs uppercase tracking-[0.25em]">
-            <Award className="w-4 h-4" /> Official XAT Performance Scorecard & XLRI Predictor
+            <Award className="w-4 h-4" /> Official XAT 2027 Performance Scorecard & XLRI Predictor
           </div>
 
           <div>

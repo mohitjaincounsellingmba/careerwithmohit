@@ -231,7 +231,7 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
                     className="w-full bg-white border-2 border-foreground px-3 py-2.5 text-sm font-bold focus:outline-none focus:ring-2 focus:ring-primary"
                   >
                     <option value="CAT">CAT 2026</option>
-                    <option value="XAT">XAT 2026</option>
+                    <option value="XAT">XAT 2027</option>
                     <option value="NMAT">NMAT by GMAC</option>
                     <option value="SNAP">SNAP 2026</option>
                     <option value="GMAT / GRE">GMAT / GRE</option>

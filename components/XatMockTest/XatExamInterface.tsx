@@ -189,7 +189,7 @@ export function XatExamInterface({ student, onComplete }: XatExamInterfaceProps)
           </div>
           <div>
             <h1 className="font-extrabold text-sm md:text-base leading-tight tracking-tight">
-              XAT 2026/27 Official Mock Test <span className="text-emerald-400 font-normal hidden sm:inline">(95 Questions | 5 Choices)</span>
+              XAT 2027 Official Mock Test <span className="text-emerald-400 font-normal hidden sm:inline">(95 Questions | 5 Choices)</span>
             </h1>
             <p className="text-[11px] text-emerald-200/70 font-semibold">
               Candidate: <span className="text-white font-bold">{student.name}</span>
