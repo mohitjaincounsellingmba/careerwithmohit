@@ -1118,6 +1118,7 @@ import { CDS_QUESTIONS } from './cds-questions';
 import { REAL_EXAM_QUESTIONS } from './real-exam-questions';
 import { MHCET_QUESTIONS } from './mhcet-questions';
 import { CAT_MOCK_TEST_68 } from '@/data/cat_mock_test_68';
+import { NMAT_MOCK_TEST_108 } from '@/data/nmat_mock_test_108';
 
 export function generateMockQuestions(config: ExamConfig, setNumber: number = 1): GenericQuestion[] {
   let questions: GenericQuestion[] = [];
@@ -1154,6 +1155,22 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
       });
     });
     realData = catMap;
+  }
+  else if (config.slug === 'nmat') {
+    const nmatMap: any = {};
+    NMAT_MOCK_TEST_108.forEach(q => {
+      const sectionKey = q.section.toLowerCase();
+      if (!nmatMap[sectionKey]) nmatMap[sectionKey] = [];
+      nmatMap[sectionKey].push({
+        id: q.id,
+        sectionId: sectionKey,
+        text: (q.passageText ? `[${q.passageTitle}]\n\n${q.passageText}\n\n` : q.scenarioText ? `[${q.scenarioTitle}]\n\n${q.scenarioText}\n\n` : '') + q.questionText,
+        options: q.options || ['Option A', 'Option B', 'Option C', 'Option D'],
+        correctAnswer: typeof q.correctAnswer === 'number' ? q.correctAnswer : 0,
+        explanation: q.solution
+      });
+    });
+    realData = nmatMap;
   }
   else if (config.slug === 'atma') {
     realData = ATMA_QUESTIONS;

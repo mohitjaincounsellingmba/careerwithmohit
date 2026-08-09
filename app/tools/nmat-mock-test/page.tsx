@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
-import { GenericMockTestClient } from '@/components/GenericMockTest/GenericMockTestClient';
-import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
+import { NmatCbtMockTestClient } from '@/components/NmatMockTest/NmatCbtMockTestClient';
+import { EXAM_CONFIGS } from '@/lib/mock-test-data';
 import { CheckCircle2, Zap, Clock, HelpCircle, BarChart3, GraduationCap, PieChart, Activity, BookOpen } from 'lucide-react';
 import { notFound } from 'next/navigation';
 
@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/tools/nmat-mock-test',
   },
-  title: 'Free NMAT Mock Test 2027 | NMIMS Mumbai Admission 2027 Batch',
-  description: 'Take our free full-length NMAT 2027 mock test. Get admission in 2027 batch. 108 questions, 120 minutes, no negative marking. Experience adaptive simulation for NMIMS.',
+  title: 'Free NMAT Mock Test 2027 | NMIMS Mumbai Admission 2027 Batch (108 Questions)',
+  description: 'Take our free full-length NMAT 2027 mock test. Get admission in 2027 batch. 108 questions (Language 36, Quants 36, Logic 36), 120 minutes, 0 negative marking, TIME/CL/PW CBT interface, and full step-by-step solutions.',
   keywords: [
     'Free NMAT mock test 2027', 'NMIMS Mumbai admission 2027 batch', 'NMAT practice paper free 2027', 
     'NMAT 2027 exam pattern', 'scaled score NMAT', 'NMAT preparation Mumbai', 
@@ -46,8 +46,6 @@ export default function NmatMockTestPage() {
   if (!config) {
     notFound();
   }
-
-  const questions = generateMockQuestions(config);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -101,7 +99,7 @@ export default function NmatMockTestPage() {
   } : null;
 
   return (
-    <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
+    <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-4 sm:px-8 md:px-12">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -117,22 +115,21 @@ export default function NmatMockTestPage() {
         />
       )}
       
-      <div className="mx-auto max-w-5xl">
+      <div className="mx-auto max-w-6xl">
         {/* Hero Section */}
-        <div className="mb-12 text-center">
-          <h1 className="text-5xl md:text-7xl font-black uppercase mb-4 leading-none">
-            NMAT <span className="text-secondary italic">2027</span> Mock Test
+        <div className="mb-10 text-center">
+          <h1 className="text-4xl sm:text-6xl md:text-7xl font-black uppercase mb-4 leading-none tracking-tight">
+            Free NMAT <span className="text-rose-600 italic">2027</span> Mock Test
           </h1>
-          <h2 className="text-2xl md:text-3xl font-bold uppercase mb-6 text-gray-700 tracking-wide">
-            Get Admission <span className="text-primary">2027 Batch</span>
-          </h2>
-          <div className="inline-block bg-primary px-6 py-2 border-4 border-foreground transform rotate-1">
-            <p className="font-bold uppercase tracking-widest text-lg md:text-xl text-white">Full-Length 120 Minute NMIMS Simulation</p>
+          <div className="inline-block bg-rose-600 px-6 py-2 border-4 border-foreground transform -rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+            <p className="font-black uppercase tracking-widest text-base md:text-xl text-white">
+              108-Question TIME / Career Launcher / PW NMAT CBT Simulation
+            </p>
           </div>
         </div>
 
         {/* Client Interface */}
-        <GenericMockTestClient config={config} questions={questions} />
+        <NmatCbtMockTestClient config={config} />
 
         {/* SEO CONTENT SECTION */}
         <div className="mt-24 space-y-24">
