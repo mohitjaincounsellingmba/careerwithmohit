@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     canonical: '/tools/nmat-mock-test',
   },
   title: 'Free NMAT Mock Test 2027 | NMIMS Mumbai Admission 2027 Batch (108 Questions)',
-  description: 'Take our free full-length NMAT 2027 mock test. Get admission in 2027 batch. 108 questions (Language 36, Quants 36, Logic 36), 120 minutes, 0 negative marking, TIME/CL/PW CBT interface, and full step-by-step solutions.',
+  description: 'Take our free full-length NMAT 2027 mock test. Get admission in 2027 batch. 108 questions (Language 36, Quants 36, Logic 36), 120 minutes, 0 negative marking, authentic CBT interface, and full step-by-step solutions.',
   keywords: [
     'Free NMAT mock test 2027', 'NMIMS Mumbai admission 2027 batch', 'NMAT practice paper free 2027', 
     'NMAT 2027 exam pattern', 'scaled score NMAT', 'NMAT preparation Mumbai', 
@@ -123,7 +123,7 @@ export default function NmatMockTestPage() {
           </h1>
           <div className="inline-block bg-rose-600 px-6 py-2 border-4 border-foreground transform -rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
             <p className="font-black uppercase tracking-widest text-base md:text-xl text-white">
-              108-Question TIME / Career Launcher / PW NMAT CBT Simulation
+              Full-Length 108-Question Official NMAT CBT Mock Test
             </p>
           </div>
         </div>

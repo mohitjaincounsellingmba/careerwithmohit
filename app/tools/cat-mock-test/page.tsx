@@ -178,7 +178,7 @@ export default function CatMockTestPage() {
           </h1>
           <div className="inline-block bg-accent px-6 py-2 border-4 border-foreground transform -rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
             <p className="font-black uppercase tracking-widest text-base md:text-xl">
-              68-Question TIME / Career Launcher / PW CBT Simulation
+              Full-Length 68-Question Official CAT CBT Mock Test
             </p>
           </div>
         </div>

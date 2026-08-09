@@ -192,7 +192,7 @@ export function CatExamInterface({ student, onComplete }: CatExamInterfaceProps)
 
   return (
     <div className="min-h-screen bg-[#f1f5f9] text-slate-800 flex flex-col selection:bg-amber-100 selection:text-amber-900">
-      {/* 1. TOP HEADER (TIME / CL / PW CBT Bar) */}
+      {/* 1. TOP HEADER (CAT CBT Bar) */}
       <header className="bg-[#1e293b] text-white px-4 md:px-8 py-3 border-b-4 border-slate-700 shadow-xl sticky top-0 z-40 flex flex-wrap items-center justify-between gap-4">
         <div className="flex items-center gap-3">
           <div className="bg-amber-500 text-slate-950 px-2.5 py-1 rounded-lg font-black text-xs uppercase tracking-wider">
@@ -559,7 +559,7 @@ export function CatExamInterface({ student, onComplete }: CatExamInterfaceProps)
           </div>
         </main>
 
-        {/* Right: Question Palette Sidebar (TIME / CL / PW Grid) */}
+        {/* Right: Question Palette Sidebar Grid */}
         <aside className={`lg:w-80 bg-white border-l-2 border-slate-200 p-6 flex flex-col justify-between overflow-y-auto ${
           isMobilePaletteOpen ? 'fixed inset-0 z-50 p-6 bg-white' : 'hidden lg:flex'
         }`}>

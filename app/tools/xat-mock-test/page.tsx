@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   keywords: [
     'XAT mock test 2026', 'XLRI Jamshedpur decision making practice', 'free XAT online test series', 
     'XAT verbal logical quantitative aptitude', 'XAT exam pattern with solutions', 'XAT score vs percentile predictor',
-    'XAT 95 questions mock test', 'TIME AIMXAT simulation free'
+    'XAT 95 questions mock test', 'XAT CBT mock test online'
   ],
   openGraph: {
     title: 'Free XAT Mock Test 2026/27 | XLRI Jamshedpur Prep',
@@ -44,7 +44,7 @@ export default function DedicatedXatMockTestPage() {
           </h1>
           <div className="inline-block bg-[#0f291e] text-emerald-400 px-6 py-2 border-4 border-slate-900 transform -rotate-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
             <p className="font-black uppercase tracking-widest text-base md:text-xl">
-              95-Question TIME / Career Launcher / PW XAT CBT Simulation
+              Full-Length 95-Question Official XAT CBT Mock Test
             </p>
           </div>
         </div>
