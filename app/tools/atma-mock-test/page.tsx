@@ -1,24 +1,24 @@
 import { Metadata } from 'next';
-import { GenericMockTestClient } from '@/components/GenericMockTest/GenericMockTestClient';
-import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
+import { AtmaCbtMockTestClient } from '@/components/AtmaMockTest/AtmaCbtMockTestClient';
+import { EXAM_CONFIGS } from '@/lib/mock-test-data';
 import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Presentation, Award, GraduationCap, ShieldCheck, PieChart } from 'lucide-react';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Free ATMA Mock Test 2027 | MBA Entrance Exam Practice Tool',
-  description: 'Take our free full-length ATMA 2027 mock test. 180 questions, 180 minutes, with 6 specialized sections. Get instant analytics, percentile prediction, and top B-school cutoffs.',
+  title: 'Free ATMA Mock Test 2026/27 | Official 180-Question CBT Practice',
+  description: 'Take our free full-length ATMA 2026 mock test. 180 questions, 180 minutes, across 6 timed sections. Get instant JBIMS & PUMBA cutoff predictions and step-by-step solutions.',
   keywords: [
-    'ATMA 2027 mock test', 'ATMA exam practice 2027', 'Free ATMA test series', 'ATMA preparation material',
+    'ATMA 2026 mock test', 'ATMA exam practice 2026', 'Free ATMA test series', 'ATMA preparation material',
     'ATMA analytical reasoning questions', 'ATMA verbal skills practice', 'ATMA quantitative skills mock',
-    'AIMS ATMA 2027 exam pattern', 'ATMA score vs percentile', 'JBIMS ATMA cutoff 2027',
-    'best mock test for ATMA 2027', 'free ATMA practice paper with solutions', 'AIMS MBA entrance preparation',
-    'mba admission 2027', 'pgdm admission 2027', 'degree admission 2027'
+    'AIMS ATMA 2026 exam pattern', 'ATMA score vs percentile', 'JBIMS ATMA cutoff 2026',
+    'best mock test for ATMA 2026', 'free ATMA practice paper with solutions', 'AIMS MBA entrance preparation',
+    'mba admission 2026', 'pgdm admission 2026'
   ],
   alternates: {
     canonical: '/tools/atma-mock-test',
   },
   openGraph: {
-    title: 'Free ATMA Mock Test 2027 | MBA Entrance Exam Practice Tool',
+    title: 'Free ATMA Mock Test 2026/27 | Official 180-Question CBT Practice',
     description: 'Master the ATMA exam with our realistic mock tool. Experience 180 questions with sectional timers and a percentile predictor.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/atma-mock-test',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free ATMA Mock Test 2027 | MBA Entrance Exam Practice Tool',
+    title: 'Free ATMA Mock Test 2026/27 | Official 180-Question CBT Practice',
     description: 'Realistic 180-question ATMA mock test for MBA aspirants. Experience sectional timers and percentile predictor.',
     images: ['/og-image.webp'],
   }
@@ -47,20 +47,31 @@ export default function AtmaMockTestPage() {
     notFound();
   }
 
-  const questions = generateMockQuestions(config);
-
   const softwareSchema = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "ATMA 2027 Mock Test Tool",
+    "name": "ATMA 2026 Mock Test Tool",
     "operatingSystem": "Web",
     "applicationCategory": "EducationalApplication",
-    "description": "Take our free full-length ATMA 2027 mock test. 180 questions, 180 minutes, with 6 specialized sections. Get instant analytics, percentile prediction, and top B-school cutoffs.",
+    "description": "Take our free full-length ATMA 2026 mock test. 180 questions, 180 minutes, with 6 specialized sections. Get instant analytics, percentile prediction, and top B-school cutoffs.",
     "offers": {
       "@type": "Offer",
       "price": "0",
       "priceCurrency": "INR"
     }
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": (config.faqs || []).map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
   };
 
   const breadcrumbSchema = {
@@ -71,13 +82,13 @@ export default function AtmaMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://www.careerwithmohit.online"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests"
+        "name": "Tools",
+        "item": "https://www.careerwithmohit.online/tools"
       },
       {
         "@type": "ListItem",
@@ -88,48 +99,35 @@ export default function AtmaMockTestPage() {
     ]
   };
 
-  const faqSchema = config.faqs && config.faqs.length > 0 ? {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": config.faqs.map(faq => ({
-      "@type": "Question",
-      "name": faq.question,
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": faq.answer
-      }
-    }))
-  } : null;
-
   return (
-    <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-6 sm:px-12">
+    <main className="min-h-screen bg-background pt-24 pb-20 px-4 sm:px-8 md:px-12">
+      {/* Schema Injection */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareSchema) }}
       />
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
-      {faqSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-        />
-      )}
+
       <div className="mx-auto max-w-5xl">
         {/* Hero Section */}
         <div className="mb-12 text-center">
           <h1 className="text-5xl md:text-7xl font-black uppercase mb-4 leading-none">
-            ATMA <span className="text-primary italic">2027</span> Mock Test
+            ATMA <span className="text-primary italic">2026</span> Mock Test
           </h1>
           <div className="inline-block bg-accent px-6 py-2 border-4 border-foreground transform -rotate-2">
-            <p className="font-bold uppercase tracking-widest text-lg md:text-xl">Full-Length 180 Minute MBA Practice Simulation</p>
+            <p className="font-bold uppercase tracking-widest text-lg md:text-xl">Full-Length 180 Question Official CBT Simulation</p>
           </div>
         </div>
 
         {/* Client Interface */}
-        <GenericMockTestClient config={config} questions={questions} />
+        <AtmaCbtMockTestClient config={config} />
 
         {/* SEO CONTENT SECTION */}
         <div className="mt-24 space-y-24">
