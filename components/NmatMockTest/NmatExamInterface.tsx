@@ -197,7 +197,7 @@ export function NmatExamInterface({ student, onComplete }: NmatExamInterfaceProp
           </div>
           <div>
             <h1 className="font-extrabold text-sm md:text-base leading-tight tracking-tight">
-              NMAT 2027 Full Mock Test <span className="text-rose-400 font-normal hidden sm:inline">(108 Questions)</span>
+              NMAT 2026 Full Mock Test <span className="text-rose-400 font-normal hidden sm:inline">(108 Questions)</span>
             </h1>
             <p className="text-[11px] text-slate-400 font-semibold">
               Candidate: <span className="text-white font-bold">{student.name}</span>
@@ -653,7 +653,7 @@ export function NmatExamInterface({ student, onComplete }: NmatExamInterfaceProp
             <div className="bg-slate-900 text-white px-6 py-4 flex items-center justify-between">
               <h3 className="font-black text-base uppercase tracking-wider flex items-center gap-2">
                 <HelpCircle className="w-5 h-5 text-rose-400" />
-                NMAT 2027 Official Test Instructions
+                NMAT 2026 Official Test Instructions
               </h3>
               <button 
                 onClick={() => setIsInstructionsOpen(false)}

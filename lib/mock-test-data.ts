@@ -980,6 +980,54 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     markingScheme: { correct: 1, negative: 0.25 }
   },
   {
+    id: 'cmat',
+    slug: 'cmat',
+    name: 'CMAT 2027',
+    durationMinutes: 180,
+    totalQuestions: 100,
+    targetColleges: 'JBIMS Mumbai, GIM Goa, K J Somaiya, Great Lakes, SIMSREE',
+    goodScore: '300+',
+    seoTitle: 'Free CMAT Mock Test 2027 | National MBA Entrance Practice Tool',
+    seoDescription: 'Take our free full-length CMAT 2027 mock test. 100 questions covering Quant/DI, Logical Reasoning, Language Comprehension, General Awareness, and Innovation & Entrepreneurship.',
+    keywords: [
+      'CMAT mock test 2027', 'cmat 2027', 'free CMAT test series online', 
+      'CMAT practice paper with answers', 'CMAT score vs percentile predictor', 
+      'JBIMS CMAT cutoff', 'GIM Goa CMAT mock'
+    ],
+    sections: [
+      { id: 'quant-di', label: 'Quantitative Techniques & Data Interpretation', questionCount: 20 },
+      { id: 'logical-reasoning', label: 'Logical Reasoning', questionCount: 20 },
+      { id: 'language', label: 'Language Comprehension', questionCount: 20 },
+      { id: 'general-awareness', label: 'General Awareness', questionCount: 20 },
+      { id: 'innovation', label: 'Innovation & Entrepreneurship', questionCount: 20 }
+    ],
+    topCollegesList: [
+      { name: 'JBIMS Mumbai', cutoff: '99.9+ %ile' },
+      { name: 'SIMSREE Mumbai', cutoff: '99.7+ %ile' },
+      { name: 'GIM Goa', cutoff: '98+ %ile' },
+      { name: 'K J Somaiya Mumbai', cutoff: '97+ %ile' },
+      { name: 'Great Lakes Chennai', cutoff: '95+ %ile' }
+    ],
+    features: [
+      'Official CMAT 2027 100-Question Format',
+      'All 5 Sections Covered (Including Innovation & Entrepreneurship)',
+      'Marking Scheme: +4 Correct, -1 Negative Marking',
+      'Instant Percentile & Top B-School Cutoff Predictor',
+      'Detailed Step-by-Step Solutions'
+    ],
+    faqs: [
+      {
+        question: 'What is the pattern of CMAT 2027?',
+        answer: 'CMAT 2027 comprises 100 questions across 5 sections: Quant & DI (20), Logical Reasoning (20), Language Comprehension (20), General Awareness (20), and Innovation & Entrepreneurship (20) with a total duration of 180 minutes.'
+      },
+      {
+        question: 'What is the marking scheme in CMAT?',
+        answer: 'Each correct answer gives +4 marks, while each incorrect answer attracts a negative marking penalty of -1 mark. Unattempted questions carry 0 marks.'
+      }
+    ],
+    markingScheme: { correct: 4, negative: 1 }
+  },
+  {
     id: 'ielts',
     slug: 'ielts',
     name: 'IELTS Academic 2026',

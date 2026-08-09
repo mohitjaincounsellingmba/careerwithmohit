@@ -136,7 +136,7 @@ export function NmatScorecardSolutions({ student, answers, onReset }: NmatScorec
             percentile: analytics.overallPercentile,
             accuracy: analytics.overallAccuracy,
             total_questions: 108,
-            targetExam: 'NMAT 2027',
+            targetExam: 'NMAT 2026',
             timestamp: new Date().toISOString()
           })
         });
@@ -171,35 +171,35 @@ export function NmatScorecardSolutions({ student, answers, onReset }: NmatScorec
   return (
     <div className="space-y-12 animate-in fade-in slide-in-from-bottom-6 duration-700 max-w-6xl mx-auto px-4 py-8">
       {/* 1. EXECUTIVE SCORECARD BANNER */}
-      <div className="bg-[#0f172a] text-white rounded-[3rem] p-8 md:p-14 shadow-2xl border-4 border-slate-800 relative overflow-hidden">
+      <div className="bg-slate-900 text-white rounded-[3rem] p-8 md:p-14 shadow-2xl border-4 border-slate-800 relative overflow-hidden">
         {/* Background watermark */}
         <div className="absolute top-0 right-0 p-8 opacity-5 pointer-events-none">
-          <Trophy className="w-96 h-96 -rotate-12 text-rose-500" />
+          <Trophy className="w-96 h-96 -rotate-12 text-rose-400" />
         </div>
 
         <div className="relative z-10 flex flex-col items-center text-center space-y-8">
           <div className="inline-flex items-center gap-2 bg-rose-500/10 border border-rose-500/30 text-rose-400 px-6 py-2 rounded-full font-black text-xs uppercase tracking-[0.25em]">
-            <Award className="w-4 h-4" /> Official NMAT 2027 Scorecard & Performance Report
+            <Award className="w-4 h-4" /> Official NMAT 2026 Scorecard & Performance Report
           </div>
 
           <div>
             <p className="text-slate-400 text-xs md:text-sm uppercase tracking-widest font-extrabold mb-2">
-              NMAT Projected Scaled Score
+              Scaled NMAT Total Score
             </p>
             <div className="flex items-baseline justify-center gap-2">
               <span className={`text-6xl md:text-8xl font-black tracking-tight ${
-                analytics.nmatScaledScore >= 232 ? 'text-emerald-400' : analytics.nmatScaledScore >= 210 ? 'text-amber-400' : 'text-rose-400'
+                analytics.nmatScaledScore >= 232 ? 'text-emerald-400' : analytics.nmatScaledScore >= 200 ? 'text-amber-400' : 'text-rose-400'
               }`}>
                 {analytics.nmatScaledScore}
               </span>
-              <span className="text-slate-500 text-3xl md:text-5xl font-black">/ 360</span>
+              <span className="text-slate-600 text-3xl md:text-5xl font-black">/ 360</span>
             </div>
-            <p className="text-xs text-slate-400 font-semibold mt-2">
-              Raw Score: <strong className="text-white">{analytics.totalScore} / {analytics.maxPossibleScore} Marks</strong> (+3 per correct MCQ)
+            <p className="text-xs text-slate-500 font-semibold mt-2">
+              Raw Score: <strong className="text-white">{analytics.totalScore} / 324 Marks</strong> (No Negative Marking)
             </p>
           </div>
 
-          {/* Quick Metrics Grid */}
+          {/* Metrics Grid */}
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 w-full max-w-3xl">
             <div className="bg-slate-800/80 p-4 rounded-2xl border border-slate-700/60 flex flex-col items-center">
               <p className="text-[10px] font-black uppercase text-slate-400 tracking-wider mb-1">Projected %ile</p>
@@ -222,14 +222,14 @@ export function NmatScorecardSolutions({ student, answers, onReset }: NmatScorec
           </div>
 
           <p className="text-slate-300 font-medium text-base md:text-lg max-w-2xl leading-relaxed">
-            Congratulations, <strong className="text-white">{student.name}</strong>! You achieved a projected scaled score of <strong className="text-rose-400">{analytics.nmatScaledScore}/360</strong> with <strong className="text-emerald-400">{analytics.overallPercentile} percentile</strong> in this NMAT full-length mock simulation.
+            Candidate <strong className="text-white">{student.name}</strong>, your scaled score of <strong className="text-rose-400">{analytics.nmatScaledScore}</strong> places you in the <strong className="text-emerald-400">{analytics.overallPercentile} percentile</strong> bracket for NMIMS Mumbai and top partner institutes.
           </p>
 
           {/* Social Share & Action Buttons */}
           <div className="pt-2 flex flex-wrap justify-center gap-4">
             <button
               onClick={() => {
-                const text = `I just scored ${analytics.nmatScaledScore}/360 (${analytics.overallPercentile}%ile) in the NMAT 2027 Mock Test on CareerWithMohit! 🎯 Test your NMIMS preparation here: https://careerwithmohit.online/tools/nmat-mock-test`;
+                const text = `I just scored ${analytics.nmatScaledScore}/360 (${analytics.overallPercentile}%ile) in the NMAT 2026 Mock Test on CareerWithMohit! 🎯 Test your NMIMS preparation here: https://careerwithmohit.online/tools/nmat-mock-test`;
                 window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank');
               }}
               className="bg-[#25D366] hover:bg-[#20bd5a] text-white px-6 py-3.5 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#25D366]/20 transition-all active:scale-95"
