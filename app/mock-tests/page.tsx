@@ -377,7 +377,7 @@ export default function MockTestHubPage() {
             <div className="space-y-3">
               <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2 text-sm">MBA Mocks</h4>
               <ul className="space-y-1.5 text-xs font-bold text-gray-500 uppercase tracking-tight">
-                <li><Link href="/tools/cat-mock-test" className="hover:text-primary">→ Free CAT mock test 2027</Link></li>
+                <li><Link href="/tools/cat-mock-test" className="hover:text-primary">→ Free CAT mock test 2026</Link></li>
                 <li><Link href="/tools/nmat-mock-test" className="hover:text-primary">→ NMIMS NMAT practice paper</Link></li>
                 <li><Link href="/tools/mock-test/xat" className="hover:text-primary">→ XAT decision making mock</Link></li>
                 <li><Link href="/tools/mock-test/snap" className="hover:text-primary">→ SNAP SIBM Pune test series</Link></li>

@@ -43,16 +43,6 @@ const EXAMS = [
     ]
   },
   {
-    id: 'cmat',
-    name: 'CMAT',
-    fullName: 'Common Management Admission Test',
-    description: 'National level entrance exam for AICTE approved management programs.',
-    papers: [
-      { year: 2023, slot: 'Official Paper', link: '/papers/cmat-2023.pdf' },
-      { year: 2022, slot: 'Official Paper', link: '/papers/cmat-2022.pdf' },
-    ]
-  },
-  {
     id: 'snap',
     name: 'SNAP',
     fullName: 'Symbiosis National Aptitude Test',
@@ -62,52 +52,6 @@ const EXAMS = [
       { year: 2024, slot: 'Memory Based Solved Paper', link: '/papers/snap-2024.pdf' },
       { year: 2023, slot: 'Memory Based Solved Paper', link: '/papers/snap-2023.pdf' },
       { year: 2022, slot: 'Memory Based Solved Paper', link: '/papers/snap-2022.pdf' },
-    ]
-  },
-  {
-    id: 'mat',
-    name: 'MAT',
-    fullName: 'Management Aptitude Test',
-    description: 'Standardized test for admission to MBA and allied programs.',
-    papers: [
-      { year: 2023, slot: 'Sample Paper', link: '/papers/mat-sample.pdf' },
-    ]
-  },
-  {
-    id: 'jee-main',
-    name: 'JEE Main',
-    fullName: 'Joint Entrance Examination Main',
-    description: 'Entrance exam for NITs, IIITs, and other GFTIs.',
-    papers: [
-      { year: 2024, slot: 'Session 1 (Jan)', link: '/papers/jee-main-2024-s1.pdf' },
-      { year: 2023, slot: 'Session 2 (April)', link: '/papers/jee-main-2023-s2.pdf' },
-      { year: 2023, slot: 'Session 1 (Jan)', link: '/papers/jee-main-2023-s1.pdf' },
-      { year: 2022, slot: 'June & July Sessions', link: '/papers/jee-main-2022.pdf' },
-      { year: 2021, slot: 'All 4 Sessions', link: '/papers/jee-main-2021.pdf' },
-    ]
-  },
-  {
-    id: 'jee-advanced',
-    name: 'JEE Advanced',
-    fullName: 'Joint Entrance Examination Advanced',
-    description: 'The final stage of JEE for admission to IITs.',
-    papers: [
-      { year: 2024, slot: 'Official Paper 1 & 2', link: '/papers/jee-adv-2024.pdf' },
-      { year: 2023, slot: 'Official Paper 1 & 2', link: '/papers/jee-adv-2023.pdf' },
-      { year: 2022, slot: 'Official Paper 1 & 2', link: '/papers/jee-adv-2022.pdf' },
-      { year: 2021, slot: 'Official Paper 1 & 2', link: '/papers/jee-adv-2021.pdf' },
-    ]
-  },
-  {
-    id: 'neet',
-    name: 'NEET',
-    fullName: 'National Eligibility cum Entrance Test',
-    description: 'Undergraduate entrance exam for MBBS and BDS courses.',
-    papers: [
-      { year: 2024, slot: 'Official Paper', link: '/papers/neet-2024.pdf' },
-      { year: 2023, slot: 'Code E1-H1', link: '/papers/neet-2023.pdf' },
-      { year: 2022, slot: 'Code R1-S1', link: '/papers/neet-2022.pdf' },
-      { year: 2021, slot: 'All Codes', link: '/papers/neet-2021.pdf' },
     ]
   }
 ];

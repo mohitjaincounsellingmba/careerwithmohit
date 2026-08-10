@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/previous-year-papers',
   },
-  title: 'Previous Year Question Papers | CAT, NMAT, XAT, JEE, NEET | Mohit Jain',
-  description: 'Download free previous year question papers for CAT, NMAT, XAT, CMAT, MAT, JEE Main, JEE Advanced, and NEET. Boost your exam preparation with authentic resources.',
-  keywords: 'previous year papers, CAT papers, NMAT question papers, XAT previous papers, JEE Main papers, NEET papers, Mohit Jain admission hub',
+  title: 'Previous Year Question Papers | CAT, NMAT, XAT, SNAP | Mohit Jain',
+  description: 'Download free previous year question papers for CAT, NMAT, XAT, and SNAP. Boost your exam preparation with authentic resources.',
+  keywords: 'previous year papers, CAT papers, NMAT question papers, XAT previous papers, SNAP question papers, Mohit Jain admission hub',
   openGraph: {
     title: 'Previous Year Question Papers | Mohit Jain Admission Hub',
-    description: 'Access and download official previous year papers for top entrance exams in India.',
+    description: 'Access and download official previous year papers for top MBA entrance exams in India.',
     type: 'website',
   },
 };

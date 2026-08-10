@@ -57,7 +57,7 @@ export function Footer() {
       { name: 'Free Starter Kit', href: '/starter-kit', badge: 'New' },
       { name: 'Free File Converter', href: '/tools/file-converter', badge: 'Free' },
       { name: 'Mock Test Hub', href: '/mock-tests', badge: 'Popular' },
-      { name: 'Free CAT Mock 2027', href: '/tools/cat-mock-test' },
+      { name: 'Free CAT 2026 Mock Test', href: '/tools/cat-mock-test' },
       { name: 'Free JEE Mock 2027', href: '/tools/jee-main-mock-test' },
       { name: 'PYQ Papers', href: '/previous-year-papers' },
       { name: 'Resume Score & Audit', href: '/tools/resume-analyzer', badge: 'New' },
