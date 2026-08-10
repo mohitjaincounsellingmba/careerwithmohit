@@ -211,7 +211,7 @@ export function MatScoreCalculator() {
           number: leadData.number,
           email: leadData.email,
           location: leadData.location,
-          source: "MAT May 2027 Score Calculator",
+          source: "Sept MAT Score Calculator & Checker",
           score: stats.compositeScore,
           percentile: stats.overallPercentile,
           timestamp: new Date().toISOString(),
@@ -246,10 +246,10 @@ export function MatScoreCalculator() {
             </div>
             <div>
               <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tighter leading-tight">
-                MAT May 2027 Score Calculator
+                Sept MAT Score Calculator & Checker
               </h2>
               <p className="text-amber-300 font-bold text-sm uppercase tracking-widest mt-1">
-                5 Sections · Composite 800 · Percentile
+                5 Sections · Composite 800 · Percentile Predictor
               </p>
             </div>
           </div>
@@ -528,7 +528,7 @@ export function MatScoreCalculator() {
                 </div>
                 <div className="relative z-10">
                   <span className="text-xs font-black uppercase tracking-[0.2em] text-amber-300 block mb-3 animate-pulse">
-                    MAT Composite Score (out of 800)
+                    Sept MAT Composite Score (out of 800)
                   </span>
                   <div className="flex items-end gap-4 flex-wrap">
                     <div className="text-8xl md:text-9xl font-black leading-none">
@@ -620,7 +620,7 @@ export function MatScoreCalculator() {
                     Need MBA Admission Guidance?
                   </div>
                   <div className="text-xl font-black uppercase">
-                    Book Free MAT 2027 Counselling →
+                    Book Free September MAT Counselling →
                   </div>
                 </div>
                 <ChevronRight className="w-8 h-8 group-hover:translate-x-2 transition-transform flex-shrink-0" />
@@ -672,7 +672,7 @@ export function MatScoreCalculator() {
             <div className="bg-white">
               <div className="bg-amber-400 p-8 text-center border-b-8 border-foreground text-foreground">
                 <h2 className="text-4xl font-black uppercase italic tracking-tighter">
-                  MAT Admission Support 2027
+                  MAT Admission Support (September Session)
                 </h2>
                 <p className="font-bold mt-2">
                   Expert guidance for MBA colleges accepting MAT score.
@@ -693,7 +693,7 @@ export function MatScoreCalculator() {
       {/* Score vs Percentile Table */}
       <div className="mt-20">
         <h3 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-amber-400 pl-6">
-          MAT May 2027 Composite Score vs Percentile (Expected)
+          September MAT Composite Score vs Percentile (Expected)
         </h3>
         <div className="overflow-x-auto border-4 border-foreground">
           <table className="w-full text-left border-collapse">
@@ -739,7 +739,7 @@ export function MatScoreCalculator() {
       {/* MAT Exam Pattern Table */}
       <div className="mt-20">
         <h3 className="text-3xl font-black uppercase tracking-tight mb-8 border-l-[12px] border-amber-400 pl-6">
-          MAT May 2027 Exam Pattern
+          September MAT Exam Pattern & Scoring Scheme
         </h3>
         <div className="overflow-x-auto border-4 border-foreground">
           <table className="w-full text-left border-collapse">

@@ -45,7 +45,7 @@ export function Footer() {
     ],
     predictors: [
       { name: 'CAT 2026 Score Calculator', href: '/tools/cat-score-calculator', color: 'text-amber-400' },
-      { name: 'MAT May 2027 Calculator', href: '/tools/mat-score-calculator', color: 'text-green-400' },
+      { name: 'Sept MAT Score Calculator', href: '/tools/mat-score-calculator', color: 'text-green-400' },
       { name: 'XAT 2027 Calculator', href: '/tools/xat-score-calculator-2027', color: 'text-orange-400' },
       { name: 'JEE Main Predictor', href: '/calculator/jee-main-2026', color: 'text-red-400' },
       { name: 'CUET PG Tool', href: '/calculator/cuet-pg-2026', color: 'text-cyan-400' },
