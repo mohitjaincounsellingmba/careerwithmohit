@@ -37,11 +37,12 @@ const EXAM_DATA: Record<string, { name: string; description: string; papers: Pap
     },
     "snap": {
         name: "SNAP (Symbiosis National Aptitude Test)",
-        description: "Solve memory-based SNAP previous year papers to master the speed-test format.",
+        description: "Solve authentic SNAP previous year question papers from 2022 to 2025 with detailed solutions.",
         papers: [
+            { year: "2025", title: "SNAP 2025 Expected Mock Paper & Pattern", url: "/papers/snap-2025.pdf" },
+            { year: "2024", title: "SNAP 2024 Memory Based Paper", url: "/papers/snap-2024.pdf" },
             { year: "2023", title: "SNAP 2023 Memory Based Paper", url: "/papers/snap-2023.pdf" },
-            { year: "2022", title: "SNAP 2022 Memory Based Paper", url: "/papers/snap-2022.pdf" },
-            { year: "2021", title: "SNAP 2021 Memory Based Paper", url: "/papers/snap-2021.pdf" }
+            { year: "2022", title: "SNAP 2022 Memory Based Paper", url: "/papers/snap-2022.pdf" }
         ]
     },
     "nmat": {

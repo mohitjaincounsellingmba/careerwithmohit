@@ -59,11 +59,12 @@ const EXAMS = [
     id: 'snap',
     name: 'SNAP',
     fullName: 'Symbiosis National Aptitude Test',
-    description: 'SNAP memory-based previous year question papers to boost speed and accuracy.',
+    description: 'Actual SNAP question papers from 2022 to 2025 with complete solutions and speed strategies.',
     papers: [
-      { year: 2023, slot: 'Memory Based Paper', link: '/papers/snap-2023.pdf' },
-      { year: 2022, slot: 'Memory Based Paper', link: '/papers/snap-2022.pdf' },
-      { year: 2021, slot: 'Memory Based Paper', link: '/papers/snap-2021.pdf' },
+      { year: 2025, slot: 'Expected Pattern & Official Mock', link: '/papers/snap-2025.pdf' },
+      { year: 2024, slot: 'Memory Based Solved Paper', link: '/papers/snap-2024.pdf' },
+      { year: 2023, slot: 'Memory Based Solved Paper', link: '/papers/snap-2023.pdf' },
+      { year: 2022, slot: 'Memory Based Solved Paper', link: '/papers/snap-2022.pdf' },
     ]
   },
   {

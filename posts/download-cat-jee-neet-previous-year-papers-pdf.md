@@ -70,15 +70,16 @@ Practice decision making and quantitative ability sections with official XAT pap
 
 ---
 
-## SNAP Previous Year Papers (2021 - 2023)
+## SNAP Previous Year Papers (2022 - 2025)
 
-Since SNAP is a computer-based speed test, these memory-based question papers are highly curated:
+Since SNAP is a computer-based speed test, these memory-based question papers and mock models are highly curated:
 
 | Year | Paper Type | Status |
 | :--- | :--- | :--- |
+| **SNAP 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers) |
+| **SNAP 2024** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
 | **SNAP 2023** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
 | **SNAP 2022** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
-| **SNAP 2021** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
 
 ---
 

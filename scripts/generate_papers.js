@@ -133,9 +133,10 @@ const EXAMS = [
     name: 'SNAP',
     fullName: 'Symbiosis National Aptitude Test',
     papers: [
-      { year: 2023, slot: 'Memory Based Paper', file: 'snap-2023.pdf' },
-      { year: 2022, slot: 'Memory Based Paper', file: 'snap-2022.pdf' },
-      { year: 2021, slot: 'Memory Based Paper', file: 'snap-2021.pdf' },
+      { year: 2025, slot: 'Expected Pattern & Official Mock', file: 'snap-2025.pdf' },
+      { year: 2024, slot: 'Memory Based Solved Paper', file: 'snap-2024.pdf' },
+      { year: 2023, slot: 'Memory Based Solved Paper', file: 'snap-2023.pdf' },
+      { year: 2022, slot: 'Memory Based Solved Paper', file: 'snap-2022.pdf' },
     ]
   },
   {
