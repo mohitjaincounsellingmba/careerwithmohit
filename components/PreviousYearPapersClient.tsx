@@ -13,12 +13,12 @@ const EXAMS = [
     id: 'cat',
     name: 'CAT',
     fullName: 'Common Admission Test',
-    description: 'Actual CAT question papers from 2022 to 2025 with slot-wise breakdown.',
+    description: 'Actual CAT question papers from 2022 to 2025 with complete solutions.',
     papers: [
       { year: 2025, slot: 'Expected Pattern & Official Mock', link: '/papers/cat-2025.pdf' },
-      { year: 2024, slot: 'Slot 1, 2 & 3', link: '/papers/cat-2024.pdf' },
-      { year: 2023, slot: 'Slot 1, 2 & 3', link: '/papers/cat-2023.pdf' },
-      { year: 2022, slot: 'Slot 1, 2 & 3', link: '/papers/cat-2022.pdf' },
+      { year: 2024, slot: 'Official Question Paper', link: '/papers/cat-2024.pdf' },
+      { year: 2023, slot: 'Official Question Paper', link: '/papers/cat-2023.pdf' },
+      { year: 2022, slot: 'Official Question Paper', link: '/papers/cat-2022.pdf' },
     ]
   },
   {

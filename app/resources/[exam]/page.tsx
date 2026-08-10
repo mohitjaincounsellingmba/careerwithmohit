@@ -14,9 +14,9 @@ const EXAM_DATA: Record<string, { name: string; description: string; papers: Pap
         description: "Official CAT previous year question papers with detailed solutions. Essential for IIM aspirants.",
         papers: [
             { year: "2025", title: "CAT 2025 Expected Mock Paper & Official Pattern", url: "/papers/cat-2025.pdf" },
-            { year: "2024", title: "CAT 2024 Question Paper (Slot 1, 2 & 3)", url: "/papers/cat-2024.pdf" },
-            { year: "2023", title: "CAT 2023 Question Paper (Slot 1, 2 & 3)", url: "/papers/cat-2023.pdf" },
-            { year: "2022", title: "CAT 2022 Question Paper (Slot 1, 2 & 3)", url: "/papers/cat-2022.pdf" }
+            { year: "2024", title: "CAT 2024 Question Paper", url: "/papers/cat-2024.pdf" },
+            { year: "2023", title: "CAT 2023 Question Paper", url: "/papers/cat-2023.pdf" },
+            { year: "2022", title: "CAT 2022 Question Paper", url: "/papers/cat-2022.pdf" }
         ]
     },
     "xat": {

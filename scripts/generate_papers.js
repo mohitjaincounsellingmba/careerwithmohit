@@ -89,9 +89,9 @@ const EXAMS = [
     fullName: 'Common Admission Test',
     papers: [
       { year: 2025, slot: 'Expected Pattern & Official Mock', file: 'cat-2025.pdf' },
-      { year: 2024, slot: 'Slot 1, 2 & 3', file: 'cat-2024.pdf' },
-      { year: 2023, slot: 'Slot 1, 2 & 3', file: 'cat-2023.pdf' },
-      { year: 2022, slot: 'Slot 1, 2 & 3', file: 'cat-2022.pdf' },
+      { year: 2024, slot: 'Official Question Paper', file: 'cat-2024.pdf' },
+      { year: 2023, slot: 'Official Question Paper', file: 'cat-2023.pdf' },
+      { year: 2022, slot: 'Official Question Paper', file: 'cat-2022.pdf' },
     ]
   },
   {

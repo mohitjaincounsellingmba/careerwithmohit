@@ -245,7 +245,7 @@ const CAT_YEAR_PAPERS: { year: number; conductingIim: string; slots: CatSlotPape
       {
         id: 'cat-2022-s1',
         year: 2022,
-        slot: 'Slot 1, 2 & 3 Combined Official Paper',
+        slot: 'Official Question Paper',
         totalQuestions: 66,
         totalMarks: 198,
         durationMins: 120,

@@ -45,12 +45,12 @@ At **CareerWithMohit**, we have curated a comprehensive library of official ques
 
 The Common Admission Test (CAT) has evolved significantly over the years. Below is the list of available slot-wise papers for download:
 
-| Year | Available Slots | Status |
+| Year | Available Format | Status |
 | :--- | :--- | :--- |
 | **CAT 2025** | Expected Pattern & Mock | [Download Now](/previous-year-papers) |
-| **CAT 2024** | Slot 1, Slot 2, Slot 3 | [Download Now](/previous-year-papers) |
-| **CAT 2023** | Slot 1, Slot 2, Slot 3 | [Download Now](/previous-year-papers) |
-| **CAT 2022** | Slot 1, Slot 2, Slot 3 | [Download Now](/previous-year-papers) |
+| **CAT 2024** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **CAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **CAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
 
 ---
 
