@@ -264,141 +264,6 @@ const CAT_YEAR_PAPERS: { year: number; conductingIim: string; slots: CatSlotPape
         }
       }
     ]
-  },
-  {
-    year: 2021,
-    conductingIim: 'IIM Ahmedabad',
-    slots: [
-      {
-        id: 'cat-2021-s1',
-        year: 2021,
-        slot: 'Slot 1, 2 & 3 Official Question Bank',
-        totalQuestions: 66,
-        totalMarks: 198,
-        durationMins: 120,
-        difficulty: 'Moderate-Tough',
-        pdfUrl: '/papers/cat-2021-all-slots.pdf',
-        sampleQuestion: {
-          section: 'VARC',
-          questionText:
-            'The four sentences (labelled 1, 2, 3, 4) below, when properly sequenced, form a coherent paragraph. Which sequence is correct?\n1. This dynamic allows historical narratives to be constantly reinterpreted.\n2. Archival preservation is not merely passive storage of old records.\n3. Rather, it represents an active curation of collective memory.\n4. Consequently, each generation uncovers different truths from the same vault.',
-          options: ['2-3-1-4', '2-1-3-4', '3-2-4-1', '1-4-2-3'],
-          correctAnswer: 0,
-          explanation:
-            'Sentence 2 introduces "archival preservation". Sentence 3 contrasts "merely passive" with "active curation" (2-3 mandatory pair). Sentence 1 explains the "dynamic" of curation, and 4 concludes with "Consequently".',
-          videoTip:
-            'Para Jumble Pro Tip: Identify mandatory contrast pairs (not merely... Rather...) to lock 2 adjacent sentences immediately.'
-        }
-      }
-    ]
-  },
-  {
-    year: 2020,
-    conductingIim: 'IIM Indore',
-    slots: [
-      {
-        id: 'cat-2020-s1',
-        year: 2020,
-        slot: 'Slot 1, 2 & 3 (76 Questions Pattern)',
-        totalQuestions: 76,
-        totalMarks: 228,
-        durationMins: 120,
-        difficulty: 'Moderate',
-        pdfUrl: '/papers/cat-2020-all-slots.pdf',
-        sampleQuestion: {
-          section: 'QA',
-          questionText:
-            'How many 3-digit numbers are there, for which the sum of digits is equal to 10 and digits are in strictly increasing order?',
-          options: ['6', '8', '10', '12'],
-          correctAnswer: 1,
-          explanation:
-            'Let the number be abc with a < b < c and a + b + c = 10. Possible sets: (1,2,7), (1,3,6), (1,4,5), (2,3,5). Each set gives exactly 1 strictly increasing number. Total = 4. (With 0 allowed as first digit? No, 3-digit number requires a >= 1).',
-          videoTip:
-            'Permutations Shortcut: Always list ordered triplets systematically starting from the smallest possible hundreds digit.'
-        }
-      }
-    ]
-  },
-  {
-    year: 2019,
-    conductingIim: 'IIM Kozhikode',
-    slots: [
-      {
-        id: 'cat-2019-s1',
-        year: 2019,
-        slot: 'Slot 1 & 2 (100 Questions Pattern)',
-        totalQuestions: 100,
-        totalMarks: 300,
-        durationMins: 180,
-        difficulty: 'Easy-Moderate',
-        pdfUrl: '/papers/cat-2019-all-slots.pdf',
-        sampleQuestion: {
-          section: 'QA',
-          questionText:
-            'If the rectangular faces of a brick have their diagonals in the ratio 3 : 2 sqrt(3) : sqrt(15), then the ratio of the length, width and height of the brick is:',
-          options: ['1 : 2 : 3', '2 : 3 : 4', '1 : sqrt(3) : 2', 'sqrt(2) : sqrt(3) : sqrt(5)'],
-          correctAnswer: 0,
-          explanation:
-            'Let dimensions be l, b, h. Diagonals squared are l^2+b^2 : b^2+h^2 : h^2+l^2 = 9 : 12 : 15. Solving gives l^2 : b^2 : h^2 = 1 : 4 : 9 => l : b : h = 1 : 2 : 3.',
-          videoTip:
-            'Mensuration Hack: Work with squares of diagonals rather than square roots to save calculation time.'
-        }
-      }
-    ]
-  },
-  {
-    year: 2018,
-    conductingIim: 'IIM Calcutta',
-    slots: [
-      {
-        id: 'cat-2018-s1',
-        year: 2018,
-        slot: 'Slot 1 & 2 Official Papers',
-        totalQuestions: 100,
-        totalMarks: 300,
-        durationMins: 180,
-        difficulty: 'Tough',
-        pdfUrl: '/papers/cat-2018-all-slots.pdf',
-        sampleQuestion: {
-          section: 'QA',
-          questionText:
-            'If log_2(5 + log_3(a)) = 3 and log_5(4a + 12 + log_2(b)) = 3, then a + b is equal to:',
-          options: ['32', '40', '59', '67'],
-          correctAnswer: 2,
-          explanation:
-            'From first equation: 5 + log_3(a) = 2^3 = 8 => log_3(a) = 3 => a = 27. From second equation: 4(27) + 12 + log_2(b) = 5^3 = 125 => 120 + log_2(b) = 125 => log_2(b) = 5 => b = 32. Thus a + b = 27 + 32 = 59.',
-          videoTip:
-            'Logarithm Basic Rule: Strip logarithmic shells from the outside one layer at a time.'
-        }
-      }
-    ]
-  },
-  {
-    year: 2017,
-    conductingIim: 'IIM Lucknow',
-    slots: [
-      {
-        id: 'cat-2017-s1',
-        year: 2017,
-        slot: 'Slot 1 & 2 Official Papers',
-        totalQuestions: 100,
-        totalMarks: 300,
-        durationMins: 180,
-        difficulty: 'Moderate',
-        pdfUrl: '/papers/cat-2017-all-slots.pdf',
-        sampleQuestion: {
-          section: 'QA',
-          questionText:
-            'Arun\'s present age in years is 40% of Barun\'s. In another few years, Arun\'s age will be half of Barun\'s. By what percentage will Barun\'s age increase during this period?',
-          options: ['20%', '25%', '30%', '50%'],
-          correctAnswer: 0,
-          explanation:
-            'Let present ages be Arun = 4k, Barun = 10k. Difference in ages = 6k (remains constant). When Arun is half of Barun, ratio is 1 : 2, so difference of 1 unit = 6k. Thus Arun = 6k, Barun = 12k. Barun increases from 10k to 12k, an increase of 2k/10k = 20%.',
-          videoTip:
-            'Age Problem Secret: Age difference between two individuals is invariant over time.'
-        }
-      }
-    ]
   }
 ];
 
@@ -694,8 +559,8 @@ const CAT_PYQ_FAQS = [
     a: 'The CAT exam paper is prepared by different older IIMs on a rotational basis. For instance, CAT 2024 was conducted by IIM Calcutta, CAT 2023 by IIM Lucknow, and CAT 2025/2026 is expected to be organized by IIM Kozhikode.'
   },
   {
-    q: 'How can I download all CAT 2000–2025 PYQ PDFs with detailed solutions?',
-    a: 'You can download the complete All-in-One CAT 2000–2025 Question Paper PDF bundle with verified answer keys and detailed step-by-step solutions directly from this dashboard or by requesting it via WhatsApp from Mohit Jain\'s counselling desk.'
+    q: 'How can I download all CAT 2022–2025 PYQ PDFs with detailed solutions?',
+    a: 'You can download the complete CAT 2022–2025 Question Paper PDF bundle with verified answer keys and detailed step-by-step solutions directly from this dashboard or by requesting it via WhatsApp from Mohit Jain\'s counselling desk.'
   }
 ];
 
@@ -795,7 +660,7 @@ export default function CatExamPapersDashboard() {
             </div>
             <div className="flex items-center gap-2 text-xs font-bold text-gray-300">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              2000–2025 Verified Question Bank
+              2022–2025 Verified Question Bank
             </div>
           </div>
 
@@ -803,7 +668,7 @@ export default function CatExamPapersDashboard() {
             CAT <span className="text-[#f26b23]">Previous Year Question Papers</span> &amp; Mock Test Dashboard
           </h2>
           <p className="text-gray-300 text-sm md:text-base max-w-3xl leading-relaxed font-medium">
-            Solving CAT previous year papers from 2000–2025 with detailed textual &amp; video solutions helps aspirants complete up to 95% of their preparation. Practice slot-wise mocks and topic-wise QA, VARC &amp; LRDI sets.
+            Solving CAT previous year papers from 2022–2025 with detailed textual &amp; video solutions helps aspirants complete up to 95% of their preparation. Practice slot-wise mocks and topic-wise QA, VARC &amp; LRDI sets.
           </p>
 
           {/* 4 Feature Highlights Cards */}
@@ -883,7 +748,7 @@ export default function CatExamPapersDashboard() {
       <div className="bg-white border-b border-gray-200 px-4 md:px-8 py-3 sticky top-0 z-30 shadow-sm">
         <div className="max-w-6xl mx-auto flex gap-2 overflow-x-auto no-scrollbar">
           {[
-            { id: 'pyq', label: 'CAT Exam Previous Year Paper 2000 - 2025', badge: '25+ Years' },
+            { id: 'pyq', label: 'CAT Exam Previous Year Paper 2022 - 2025', badge: '2022–2025' },
             { id: 'quant', label: 'CAT Quant Questions Topic Wise', badge: '5 Topics' },
             { id: 'varc', label: 'CAT VARC Questions Topic Wise', badge: '4 Topics' },
             { id: 'lrdi', label: 'CAT LRDI Questions Topic Wise', badge: '4 Topics' }
@@ -936,7 +801,7 @@ export default function CatExamPapersDashboard() {
 
                   <div className="flex items-center gap-2 w-full sm:w-auto overflow-x-auto">
                     <span className="text-xs font-bold text-gray-400 uppercase">Filter:</span>
-                    {['all', '2025', '2024', '2023', '2022', '2021', '2020'].map((year) => (
+                    {['all', '2025', '2024', '2023', '2022'].map((year) => (
                       <button
                         key={year}
                         onClick={() => setYearFilter(year)}
@@ -1275,10 +1140,10 @@ export default function CatExamPapersDashboard() {
                 Free Download
               </span>
               <h3 className="text-lg font-black text-[#0f172a] leading-snug mb-2">
-                Get All CAT 2000–2025 PYQ PDFs
+                Get All CAT 2022–2025 PYQ PDFs
               </h3>
               <p className="text-xs text-gray-500 mb-5 leading-relaxed font-medium">
-                Download the complete 25+ years CAT question paper bundle with official answer keys &amp; formulas in 1 click.
+                Download the complete 2022–2025 CAT question paper bundle with official answer keys &amp; formulas in 1 click.
               </p>
               <button
                 onClick={() => setShowPdfModal(true)}
@@ -1484,7 +1349,7 @@ export default function CatExamPapersDashboard() {
                 </div>
                 <h3 className="text-xl font-black text-[#0f172a] mb-2">PDF Bundle Sent!</h3>
                 <p className="text-xs md:text-sm text-gray-500 mb-6">
-                  We have dispatched the complete <strong>CAT 2000–2025 PYQ PDF Bundle</strong> with official answer keys to your WhatsApp number.
+                  We have dispatched the complete <strong>CAT 2022–2025 PYQ PDF Bundle</strong> with official answer keys to your WhatsApp number.
                 </p>
                 <button
                   onClick={() => {
@@ -1499,10 +1364,10 @@ export default function CatExamPapersDashboard() {
             ) : (
               <div>
                 <h3 className="text-lg font-black text-[#0f172a] mb-1">
-                  Download CAT 2000–2025 PYQ PDFs
+                  Download CAT 2022–2025 PYQ PDFs
                 </h3>
                 <p className="text-xs text-gray-500 mb-6">
-                  Enter your details to receive all 25+ years of CAT question papers with step-by-step solutions instantly on WhatsApp.
+                  Enter your details to receive CAT 2022–2025 question papers with step-by-step solutions instantly on WhatsApp.
                 </p>
 
                 <form onSubmit={handlePdfSubmit} className="space-y-4">

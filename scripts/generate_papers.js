@@ -88,14 +88,10 @@ const EXAMS = [
     name: 'CAT',
     fullName: 'Common Admission Test',
     papers: [
+      { year: 2025, slot: 'Expected Pattern & Official Mock', file: 'cat-2025.pdf' },
       { year: 2024, slot: 'Slot 1, 2 & 3', file: 'cat-2024.pdf' },
       { year: 2023, slot: 'Slot 1, 2 & 3', file: 'cat-2023.pdf' },
       { year: 2022, slot: 'Slot 1, 2 & 3', file: 'cat-2022.pdf' },
-      { year: 2021, slot: 'Slot 1, 2 & 3', file: 'cat-2021.pdf' },
-      { year: 2020, slot: 'Slot 1, 2 & 3', file: 'cat-2020.pdf' },
-      { year: 2019, slot: 'Slot 1 & 2', file: 'cat-2019.pdf' },
-      { year: 2018, slot: 'Slot 1 & 2', file: 'cat-2018.pdf' },
-      { year: 2017, slot: 'Slot 1 & 2', file: 'cat-2017.pdf' },
     ]
   },
   {
