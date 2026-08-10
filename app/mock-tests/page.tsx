@@ -84,6 +84,7 @@ const categories: {
       { name: "NMAT 2026", slug: "/tools/nmat-mock-test", guideSlug: "/blog/free-nmat-mock-test-2026-nmims-prep", tag: "New", tagColor: "bg-blue-500", desc: "For NMIMS & SPJIMR" },
       { name: "CMAT 2027", slug: "/tools/mock-test/cmat", tag: "National", tagColor: "bg-amber-500", desc: "For JBIMS & GIM Goa" },
       { name: "ATMA 2026", slug: "/tools/atma-mock-test", guideSlug: "/blog/free-atma-mock-test-2026", tag: "Latest", tagColor: "bg-emerald-500", desc: "For JBIMS & PUMBA" },
+      { name: "MAT 2026/27", slug: "/tools/mat-mock-test", tag: "Sept/Dec/Feb/May", tagColor: "bg-amber-600", desc: "For PUMBA & Welingkar" },
       { name: "GMAT Focus", slug: "/tools/mock-test/gmat", guideSlug: "/blog/free-gmat-mock-test-2026", desc: "For ISB & Global MBA" },
       { name: "MHCET MBA", slug: "/tools/mhcet-mock-test", guideSlug: "/blog/free-mhcet-mock-test-2026", desc: "For JBIMS & SIMSREE" },
     ]

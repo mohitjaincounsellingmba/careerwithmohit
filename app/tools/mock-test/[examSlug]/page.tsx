@@ -4,6 +4,7 @@ import { XatCbtMockTestClient } from '@/components/XatMockTest/XatCbtMockTestCli
 import { SnapCbtMockTestClient } from '@/components/SnapMockTest/SnapCbtMockTestClient';
 import { GmatCbtMockTestClient } from '@/components/GmatMockTest/GmatCbtMockTestClient';
 import { AtmaCbtMockTestClient } from '@/components/AtmaMockTest/AtmaCbtMockTestClient';
+import { MatCbtMockTestClient } from '@/components/MatMockTest/MatCbtMockTestClient';
 import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
 import { Clock, Target, Zap, Presentation, CheckCircle2, HelpCircle, BookOpen } from 'lucide-react';
 import { notFound } from 'next/navigation';
@@ -152,6 +153,8 @@ export default async function ExamMockTestPage({
           <GmatCbtMockTestClient config={config} />
         ) : resolvedParams.examSlug === 'atma' ? (
           <AtmaCbtMockTestClient config={config} />
+        ) : resolvedParams.examSlug === 'mat' ? (
+          <MatCbtMockTestClient config={config} />
         ) : (
           <GenericMockTestClient config={config} questions={questions} />
         )}

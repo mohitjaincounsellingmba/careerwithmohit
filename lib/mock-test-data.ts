@@ -980,6 +980,59 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     markingScheme: { correct: 1, negative: 0.25 }
   },
   {
+    id: 'mat',
+    slug: 'mat',
+    name: 'MAT 2026/27 (Sept, Dec, Feb, May)',
+    durationMinutes: 120,
+    totalQuestions: 150,
+    targetColleges: 'PUMBA, Welingkar, BIMTECH, XIME, JIMS, Jaipuria, Christ',
+    goodScore: '650+ Composite (95+%ile)',
+    seoTitle: 'Free MAT Mock Test 2026/27 | Sept, Dec, Feb & May MAT CBT Practice',
+    seoDescription: 'Take our free full-length MAT exam mock test for Sept MAT, Dec MAT, Feb MAT, and May MAT. 150 questions, 120 minutes with Language, Intelligence, Data Analysis, Math, and Indian/Global Environment.',
+    keywords: [
+      'MAT mock test 2026', 'Sept MAT mock test', 'Dec MAT mock test', 'Feb MAT mock test', 'May MAT mock test',
+      'free MAT test series online', 'MAT score vs percentile calculator', 'MAT composite score 800',
+      'PUMBA MAT cutoff', 'Welingkar MAT cutoff', 'BIMTECH MAT cutoff'
+    ],
+    sections: [
+      { id: 'language', label: 'Language Comprehension', questionCount: 30 },
+      { id: 'intelligence', label: 'Intelligence & Critical Reasoning', questionCount: 30 },
+      { id: 'data-analysis', label: 'Data Analysis & Sufficiency', questionCount: 30 },
+      { id: 'math-skills', label: 'Mathematical Skills', questionCount: 30 },
+      { id: 'economic-environment', label: 'Economic & Business Environment', questionCount: 30 }
+    ],
+    topCollegesList: [
+      { name: 'PUMBA Pune', cutoff: '95+ %ile (650+ Composite)' },
+      { name: 'Welingkar Mumbai', cutoff: '95+ %ile (650+ Composite)' },
+      { name: 'BIMTECH Greater Noida', cutoff: '90+ %ile (600+ Composite)' },
+      { name: 'XIME Bangalore', cutoff: '90+ %ile (600+ Composite)' },
+      { name: 'JIMS Kalkaji New Delhi', cutoff: '85+ %ile (550+ Composite)' },
+      { name: 'Jaipuria Institute of Management', cutoff: '85+ %ile (550+ Composite)' }
+    ],
+    features: [
+      'Supports All 4 Testing Windows: Sept MAT, Dec MAT, Feb MAT, and May MAT',
+      'Official 150-Question Pattern Across 5 Sections',
+      '120-Minute Real-Time CBT Simulation Clock',
+      'Instant Composite Score (out of 800) & Percentile Estimator',
+      'Step-by-Step Solutions for All 150 Questions'
+    ],
+    faqs: [
+      {
+        question: 'What is the structure of MAT 2026/27 exam?',
+        answer: 'MAT comprises 150 questions across 5 sections (30 questions each in Language, Intelligence, Data Analysis, Math Skills, and Economic & Business Environment) with a total duration of 120 minutes.'
+      },
+      {
+        question: 'How is the MAT score calculated?',
+        answer: 'Each correct answer is awarded +1 mark, and each incorrect answer has a penalty of -0.25 marks. The raw score is converted to a Scaled Composite Score on a scale of 199 to 801 (out of 800).'
+      },
+      {
+        question: 'Can I appear for multiple MAT sessions like Sept, Dec, Feb, and May?',
+        answer: 'Yes, AIMA conducts MAT four times a year (September, December, February, and May) in CBT, PBT, and IBT formats. Most top B-schools accept the best score among attempts.'
+      }
+    ],
+    markingScheme: { correct: 1, negative: 0.25 }
+  },
+  {
     id: 'cmat',
     slug: 'cmat',
     name: 'CMAT 2027',
@@ -1171,6 +1224,7 @@ import { XAT_MOCK_TEST_95 } from '@/data/xat_mock_test_95';
 import { SNAP_MOCK_TEST_60 } from '@/data/snap_mock_test_60';
 import { GMAT_MOCK_TEST_64 } from '@/data/gmat_mock_test_64';
 import { ATMA_MOCK_TEST_180 } from '@/data/atma_mock_test_180';
+import { MAT_MOCK_TEST_150 } from '@/data/mat_mock_test_150';
 
 export function generateMockQuestions(config: ExamConfig, setNumber: number = 1): GenericQuestion[] {
   let questions: GenericQuestion[] = [];
@@ -1287,6 +1341,22 @@ export function generateMockQuestions(config: ExamConfig, setNumber: number = 1)
       });
     });
     realData = atmaMap;
+  }
+  else if (config.slug === 'mat') {
+    const matMap: any = {};
+    MAT_MOCK_TEST_150.forEach(q => {
+      const sectionKey = q.section.toLowerCase();
+      if (!matMap[sectionKey]) matMap[sectionKey] = [];
+      matMap[sectionKey].push({
+        id: q.id,
+        sectionId: sectionKey,
+        text: (q.passageText ? `[${q.passageTitle}]\n\n${q.passageText}\n\n` : q.scenarioText ? `[${q.scenarioTitle}]\n\n${q.scenarioText}\n\n` : '') + q.questionText,
+        options: q.options || ['Option A', 'Option B', 'Option C', 'Option D'],
+        correctAnswer: typeof q.correctAnswer === 'number' ? q.correctAnswer : 0,
+        explanation: q.solution
+      });
+    });
+    realData = matMap;
   }
 
   // Add a random offset based on setNumber and time to ensure variation
