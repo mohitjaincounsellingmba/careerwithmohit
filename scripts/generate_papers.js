@@ -110,13 +110,10 @@ const EXAMS = [
     name: 'XAT',
     fullName: 'Xavier Aptitude Test',
     papers: [
-      { year: 2024, slot: 'Official Paper', file: 'xat-2024.pdf' },
-      { year: 2023, slot: 'Official Paper', file: 'xat-2023.pdf' },
-      { year: 2022, slot: 'Official Paper', file: 'xat-2022.pdf' },
-      { year: 2021, slot: 'Official Paper', file: 'xat-2021.pdf' },
-      { year: 2020, slot: 'Official Paper', file: 'xat-2020.pdf' },
-      { year: 2019, slot: 'Official Paper', file: 'xat-2019.pdf' },
-      { year: 2018, slot: 'Official Paper', file: 'xat-2018.pdf' },
+      { year: 2025, slot: 'Expected Pattern & Official Mock', file: 'xat-2025.pdf' },
+      { year: 2024, slot: 'Official Question Paper', file: 'xat-2024.pdf' },
+      { year: 2023, slot: 'Official Question Paper', file: 'xat-2023.pdf' },
+      { year: 2022, slot: 'Official Question Paper', file: 'xat-2022.pdf' },
     ]
   },
   {

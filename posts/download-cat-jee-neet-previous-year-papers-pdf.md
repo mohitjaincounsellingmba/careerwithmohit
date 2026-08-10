@@ -54,19 +54,16 @@ The Common Admission Test (CAT) has evolved significantly over the years. Below 
 
 ---
 
-## XAT Previous Year Papers (2018 - 2024)
+## XAT Previous Year Papers (2022 - 2025)
 
 Practice decision making and quantitative ability sections with official XAT papers:
 
 | Year | Available Format | Status |
 | :--- | :--- | :--- |
+| **XAT 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers) |
 | **XAT 2024** | Official Question Paper | [Download Now](/previous-year-papers) |
 | **XAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
 | **XAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **XAT 2021** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **XAT 2020** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **XAT 2019** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **XAT 2018** | Official Question Paper | [Download Now](/previous-year-papers) |
 
 ---
 

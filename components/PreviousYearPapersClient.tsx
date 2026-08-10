@@ -34,15 +34,12 @@ const EXAMS = [
     id: 'xat',
     name: 'XAT',
     fullName: 'Xavier Aptitude Test',
-    description: 'XAT Actual Question papers from 2018 to 2024.',
+    description: 'Actual XAT question papers from 2022 to 2025 with complete solutions and Decision Making analysis.',
     papers: [
-      { year: 2024, slot: 'Official Paper', link: '/papers/xat-2024.pdf' },
-      { year: 2023, slot: 'Official Paper', link: '/papers/xat-2023.pdf' },
-      { year: 2022, slot: 'Official Paper', link: '/papers/xat-2022.pdf' },
-      { year: 2021, slot: 'Official Paper', link: '/papers/xat-2021.pdf' },
-      { year: 2020, slot: 'Official Paper', link: '/papers/xat-2020.pdf' },
-      { year: 2019, slot: 'Official Paper', link: '/papers/xat-2019.pdf' },
-      { year: 2018, slot: 'Official Paper', link: '/papers/xat-2018.pdf' },
+      { year: 2025, slot: 'Expected Pattern & Official Mock', link: '/papers/xat-2025.pdf' },
+      { year: 2024, slot: 'Official Question Paper', link: '/papers/xat-2024.pdf' },
+      { year: 2023, slot: 'Official Question Paper', link: '/papers/xat-2023.pdf' },
+      { year: 2022, slot: 'Official Question Paper', link: '/papers/xat-2022.pdf' },
     ]
   },
   {

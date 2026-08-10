@@ -21,10 +21,12 @@ const EXAM_DATA: Record<string, { name: string; description: string; papers: Pap
     },
     "xat": {
         name: "XAT (Xavier Aptitude Test)",
-        description: "Previous year papers for XAT. Focus on Decision Making and Verbal Ability sections.",
+        description: "Official XAT previous year question papers from 2022 to 2025 with Decision Making solutions.",
         papers: [
-            { year: "2024", title: "XAT 2024 Question Paper", url: "https://cracku.in/xat-previous-year-papers" },
-            { year: "2023", title: "XAT 2023 Question Paper", url: "https://cracku.in/xat-2023-question-paper-with-solutions-pdf" }
+            { year: "2025", title: "XAT 2025 Expected Mock Paper & Official Pattern", url: "/papers/xat-2025.pdf" },
+            { year: "2024", title: "XAT 2024 Question Paper", url: "/papers/xat-2024.pdf" },
+            { year: "2023", title: "XAT 2023 Question Paper", url: "/papers/xat-2023.pdf" },
+            { year: "2022", title: "XAT 2022 Question Paper", url: "/papers/xat-2022.pdf" }
         ]
     },
     "cmat": {
