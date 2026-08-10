@@ -82,15 +82,16 @@ Since SNAP is a computer-based speed test, these memory-based question papers ar
 
 ---
 
-## NMAT Previous Year Papers (2022 - 2024)
+## NMAT Previous Year Papers (2022 - 2025)
 
-Get familiar with adaptive exam formats using official guide mock tests and analyses:
+Get familiar with adaptive exam formats using official guide mock tests and past papers:
 
 | Year | Paper Type | Status |
 | :--- | :--- | :--- |
-| **NMAT 2024** | Official Guide Sample | [Download Now](/previous-year-papers) |
-| **NMAT 2023** | Official Guide Sample | [Download Now](/previous-year-papers) |
-| **NMAT 2022** | Past Analysis Paper | [Download Now](/previous-year-papers) |
+| **NMAT 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers) |
+| **NMAT 2024** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **NMAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **NMAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
 
 ---
 

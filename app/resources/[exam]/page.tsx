@@ -46,11 +46,12 @@ const EXAM_DATA: Record<string, { name: string; description: string; papers: Pap
     },
     "nmat": {
         name: "NMAT (NMAT by GMAC)",
-        description: "Official guide samples and past analyses for NMAT exam preparation.",
+        description: "Official NMAT previous year question papers and mock tests with solutions.",
         papers: [
-            { year: "2024", title: "NMAT 2024 Official Guide Sample", url: "/papers/nmat-sample-2024.pdf" },
-            { year: "2023", title: "NMAT 2023 Official Guide Sample", url: "/papers/nmat-sample-2023.pdf" },
-            { year: "2022", title: "NMAT 2022 Previous Year Analysis", url: "/papers/nmat-2022.pdf" }
+            { year: "2025", title: "NMAT 2025 Expected Mock Paper & Official Pattern", url: "/papers/nmat-2025.pdf" },
+            { year: "2024", title: "NMAT 2024 Question Paper", url: "/papers/nmat-2024.pdf" },
+            { year: "2023", title: "NMAT 2023 Question Paper", url: "/papers/nmat-2023.pdf" },
+            { year: "2022", title: "NMAT 2022 Question Paper", url: "/papers/nmat-2022.pdf" }
         ]
     },
     "mah-mba-cet": {

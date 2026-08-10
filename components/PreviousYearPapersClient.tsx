@@ -22,11 +22,12 @@ const EXAMS = [
     id: 'nmat',
     name: 'NMAT',
     fullName: 'NMAT by GMAC',
-    description: 'Entrance exam for NMIMS and other leading management institutes.',
+    description: 'Actual NMAT question papers from 2022 to 2025 with complete solutions.',
     papers: [
-      { year: 2024, slot: 'Official Guide Sample', link: '/papers/nmat-sample-2024.pdf' },
-      { year: 2023, slot: 'Official Guide Sample', link: '/papers/nmat-sample-2023.pdf' },
-      { year: 2022, slot: 'Previous Year Analysis', link: '/papers/nmat-2022.pdf' },
+      { year: 2025, slot: 'Expected Pattern & Official Mock', link: '/papers/nmat-2025.pdf' },
+      { year: 2024, slot: 'Official Question Paper', link: '/papers/nmat-2024.pdf' },
+      { year: 2023, slot: 'Official Question Paper', link: '/papers/nmat-2023.pdf' },
+      { year: 2022, slot: 'Official Question Paper', link: '/papers/nmat-2022.pdf' },
     ]
   },
   {

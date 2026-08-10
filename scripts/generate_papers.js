@@ -99,9 +99,10 @@ const EXAMS = [
     name: 'NMAT',
     fullName: 'NMAT by GMAC',
     papers: [
-      { year: 2024, slot: 'Official Guide Sample', file: 'nmat-sample-2024.pdf' },
-      { year: 2023, slot: 'Official Guide Sample', file: 'nmat-sample-2023.pdf' },
-      { year: 2022, slot: 'Previous Year Analysis', file: 'nmat-2022.pdf' },
+      { year: 2025, slot: 'Expected Pattern & Official Mock', file: 'nmat-2025.pdf' },
+      { year: 2024, slot: 'Official Question Paper', file: 'nmat-2024.pdf' },
+      { year: 2023, slot: 'Official Question Paper', file: 'nmat-2023.pdf' },
+      { year: 2022, slot: 'Official Question Paper', file: 'nmat-2022.pdf' },
     ]
   },
   {
@@ -190,6 +191,11 @@ EXAMS.forEach((exam) => {
     const subtitle = `Official Question Paper & Preparation Guide`;
     const filepath = path.join(PAPERS_DIR, paper.file);
     
+    if (fs.existsSync(filepath) && fs.statSync(filepath).size > 20000) {
+      console.log(`Skipping ${paper.file} (high-quality PDF already present)`);
+      return;
+    }
+
     generatePdf(title, subtitle, paper.slot, filepath);
     count++;
   });
