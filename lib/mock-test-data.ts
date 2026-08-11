@@ -1084,23 +1084,66 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     id: 'ielts',
     slug: 'ielts',
     name: 'IELTS Academic 2026',
-    durationMinutes: 120,
+    durationMinutes: 150,
     totalQuestions: 80,
-    targetColleges: 'Top Universities in USA, UK, Canada, Australia',
-    goodScore: 'Band 7.0+',
-    seoTitle: 'Free IELTS Academic Mock Test 2026 | Band 7+ Prep',
-    seoDescription: 'Take our free full-length IELTS Academic mock test. Practice Listening and Reading sections with real exam-like questions to achieve a Band 7.0+ score.',
-    keywords: ['IELTS Academic mock test 2026', 'free IELTS listening reading practice', 'IELTS Band 7 plus exam preparation', 'IELTS academic mock paper with answers', 'study abroad English proficiency test mock'],
+    targetColleges: 'Oxford, Cambridge, Harvard, MIT, Toronto, Melbourne, NUS',
+    goodScore: 'Band 7.5+',
+    seoTitle: 'Free IELTS Academic Mock Test 2026 | Full Length Practice Paper',
+    seoDescription: 'Take our free full-length IELTS Academic 2026 mock test online. 80 questions covering Listening (40 Qs), Reading (40 Qs), and 2 Writing tasks with instant 0-9 Band scores and step-by-step solutions.',
+    keywords: [
+      'IELTS Academic mock test 2026', 'free IELTS listening reading practice', 'IELTS Band 7 plus exam preparation', 
+      'IELTS academic mock paper with answers', 'study abroad English proficiency test mock', 'IELTS full length test online',
+      'IELTS reading passage practice with answers', 'IELTS listening audio transcript mock test', 'IELTS writing task 1 and task 2 model essays'
+    ],
     sections: [
-      { id: 'listening', label: 'Listening', questionCount: 40 },
-      { id: 'reading', label: 'Reading', questionCount: 40 }
+      { id: 'listening', label: 'Listening Module', questionCount: 40 },
+      { id: 'reading', label: 'Academic Reading Module', questionCount: 40 }
+    ],
+    topCollegesList: [
+      { name: 'University of Oxford (UK)', cutoff: 'Band 7.5+ (Min 7.0 each)' },
+      { name: 'University of Cambridge (UK)', cutoff: 'Band 7.5+ (Min 7.0 each)' },
+      { name: 'Harvard University (USA)', cutoff: 'Band 7.5+' },
+      { name: 'Massachusetts Institute of Technology (USA)', cutoff: 'Band 7.0+' },
+      { name: 'Imperial College London (UK)', cutoff: 'Band 7.0+' },
+      { name: 'University of Toronto (Canada)', cutoff: 'Band 6.5+ (Min 6.0 each)' },
+      { name: 'University of Melbourne (Australia)', cutoff: 'Band 6.5+' },
+      { name: 'National University of Singapore (NUS)', cutoff: 'Band 6.5+' }
     ],
     features: [
-      'Strictly follows IELTS Academic Pattern',
-      'Realistic Listening & Reading Simulation',
-      'Instant Band Score Estimation',
-      'Detailed Performance Analytics',
-      'No Negative Marking Simulation'
+      'Strictly follows Official British Council / IDP IELTS Pattern',
+      'Full 40 Listening Questions with Audio Transcripts & Voice Narration',
+      'Full 40 Reading Questions across 3 Academic Scientific Passages',
+      'Interactive Writing Arena with Live Word Counter & Band 9 Model Answers',
+      'Official 0–9.0 Band Score Calculation Engine',
+      'Global University Eligibility Predictor for USA, UK, Canada & Australia'
+    ],
+    faqs: [
+      {
+        question: 'What is the structure of the IELTS Academic test?',
+        answer: 'IELTS Academic comprises four modules: Listening (40 questions, 30 minutes), Reading (40 questions, 60 minutes), Writing (2 tasks, 60 minutes), and Speaking (11-14 minutes interview). Our online CBT simulator replicates the Listening, Reading, and Writing sections in full detail.'
+      },
+      {
+        question: 'How is the IELTS Band Score calculated from raw scores?',
+        answer: 'Each question in Listening and Reading carries 1 mark (total 40 marks each). A raw score of 30-31 converts to Band 7.0, 32-34 to Band 7.5, 35-36 to Band 8.0, and 39-40 to Band 9.0. The overall band score is calculated by averaging section bands rounded to the nearest half band.'
+      },
+      {
+        question: 'Is there any negative marking in the IELTS exam?',
+        answer: 'No, there is no negative marking in the IELTS exam. You are strongly advised to answer all 80 questions in both Listening and Reading modules.'
+      },
+      {
+        question: 'What is a good IELTS band score for top global universities?',
+        answer: 'A score of Band 7.0 or 7.5 is standard for top universities like Oxford, Cambridge, Harvard, and MIT. Most Canadian and Australian universities require a minimum of Band 6.5 with no band less than 6.0.'
+      }
+    ],
+    examDetails: [
+      {
+        title: 'IELTS Listening & Reading Module Breakdown',
+        content: 'Listening includes 4 parts: Everyday Social Conversations, Guided Monologues/Presentations, Academic Student Discussions, and University Lectures. Academic Reading includes 3 complex non-fiction texts spanning Environmental Science, Agrarian History, and Behavioral Economics with TFNG, MCQs, and Sentence Completion.'
+      },
+      {
+        title: 'Writing Task 1 & Task 2 Evaluation Criteria',
+        content: 'Writing Task 1 requires summarizing visual data (graphs, bar charts, processes) in at least 150 words. Task 2 requires a 250-word formal essay. Both tasks are evaluated across four criteria: Task Achievement/Response, Coherence & Cohesion, Lexical Resource, and Grammatical Range & Accuracy.'
+      }
     ],
     markingScheme: { correct: 1, negative: 0 }
   },

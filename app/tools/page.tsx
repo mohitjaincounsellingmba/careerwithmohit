@@ -111,12 +111,15 @@ const TOOL_CATEGORIES = [
     accentColor: 'bg-rose-500',
     icon: BookOpen,
     tools: [
+      { name: 'IELTS Academic Mock Test', desc: '80 Qs Listening & Reading + Writing with Band scoring', href: '/tools/mock-test/ielts', badge: 'New', color: 'text-rose-600' },
       { name: 'CAT Mock Test 2027', desc: 'Full-length CAT exam simulation', href: '/tools/cat-mock-test', badge: 'Free', color: 'text-rose-600' },
+      { name: 'MAT Mock Test 2026/27', desc: '150 Qs MAT CBT simulation for Sept/Dec/Feb/May', href: '/tools/mat-mock-test', badge: 'Free', color: 'text-emerald-600' },
+      { name: 'XAT Mock Test', desc: 'XAT full-length mock with decision making & analytics', href: '/tools/xat-mock-test', badge: 'Free', color: 'text-cyan-600' },
+      { name: 'GMAT Mock Test', desc: 'GMAT Focus Edition 64 Qs practice test', href: '/tools/gmat-mock-test', badge: 'Free', color: 'text-indigo-600' },
       { name: 'JEE Main Mock Test', desc: 'Physics, Chemistry, Math – all sections', href: '/tools/jee-main-mock-test', badge: 'Free', color: 'text-orange-600' },
       { name: 'JEE Advanced Mock', desc: 'Advanced-level JEE practice papers', href: '/tools/jee-advanced-mock-test', badge: 'Free', color: 'text-red-600' },
       { name: 'MHCET Mock Test', desc: 'Maharashtra MBA entrance practice test', href: '/tools/mhcet-mock-test', badge: 'Free', color: 'text-amber-600' },
       { name: 'NMAT Mock Test', desc: 'Full NMAT exam preparation pack', href: '/tools/nmat-mock-test', badge: 'Free', color: 'text-blue-600' },
-      { name: 'XAT Mock Test', desc: 'XAT full-length mock with analytics', href: '/tools/mock-test', badge: 'Free', color: 'text-cyan-600' },
     ]
   },
 ];
