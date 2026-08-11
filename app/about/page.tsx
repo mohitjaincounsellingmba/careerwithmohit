@@ -94,22 +94,49 @@ export default function AboutPage() {
     "@type": "AboutPage",
     "mainEntity": {
       "@type": "Person",
+      "@id": "https://www.careerwithmohit.online/#person-mohit-jain",
       "name": "Mohit Jain",
-      "description": "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
-      "jobTitle": "Career Counsellor & MBA Admissions Expert",
+      "image": "https://www.careerwithmohit.online/logo.webp",
+      "description": "Expert career guidance, MBA admissions consulting, and CAT/XAT/NMAT strategic mentorship for premier Indian business schools.",
+      "jobTitle": "Chief Career Counsellor & MBA Admissions Strategist",
       "url": "https://www.careerwithmohit.online/about",
       "alumniOf": [
         { "@type": "CollegeOrUniversity", "name": "IIM Bangalore" },
         { "@type": "CollegeOrUniversity", "name": "FMS Delhi" }
       ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Digital Marketing & Strategy Certification",
+          "recognizedBy": { "@type": "EducationalOrganization", "name": "IIM Bangalore" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Strategic Management Certification",
+          "recognizedBy": { "@type": "EducationalOrganization", "name": "FMS Delhi" }
+        }
+      ],
       "knowsAbout": [
-        "Career Counselling",
-        "MBA Admissions",
-        "B.Tech Admissions",
-        "Digital Marketing",
-        "Six Sigma",
+        "Career Counselling India",
+        "MBA Admissions 2027",
+        "PGDM Direct Admissions",
+        "CAT 2026 Preparation",
+        "XAT 2027 Exam Strategy",
+        "B-School Selection & ROI Analysis",
+        "GD-PI-WAT Mentorship",
+        "Six Sigma Yellow Belt",
         "Business Analytics"
+      ],
+      "sameAs": [
+        "https://wa.me/919560020771",
+        "https://www.youtube.com/@careerwithmohit",
+        "https://www.linkedin.com/in/mohit-jain-career-counsellor",
+        "https://www.instagram.com/careerwithmohit"
       ]
+    },
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": ["h1", ".speakable-text", "p"]
     }
   };
 

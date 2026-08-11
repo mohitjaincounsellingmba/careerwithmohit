@@ -85,41 +85,156 @@ export default function RootLayout({
   const personData = {
     "@context": "https://schema.org",
     "@type": "Person",
+    "@id": "https://www.careerwithmohit.online/#person-mohit-jain",
     "name": "Mohit Jain",
-    "url": "https://www.careerwithmohit.online",
+    "url": "https://www.careerwithmohit.online/about",
     "image": "https://www.careerwithmohit.online/logo.webp",
-    "jobTitle": "Career Counsellor & MBA Admissions Expert",
-    "description": "Expert career guidance and MBA admissions consulting for top-tier B-schools.",
+    "jobTitle": "Chief Career Counsellor & MBA Admissions Strategist",
+    "description": "Expert career mentor and MBA admissions consultant with credentials from IIM Bangalore and FMS Delhi. Guiding students for CAT 2026, XAT 2027, top-tier B-schools, and direct admissions.",
+    "worksFor": {
+      "@type": "EducationalOrganization",
+      "name": "CareerWithMohit",
+      "url": "https://www.careerwithmohit.online"
+    },
+    "alumniOf": [
+      {
+        "@type": "EducationalOrganization",
+        "name": "IIM Bangalore"
+      },
+      {
+        "@type": "EducationalOrganization",
+        "name": "Faculty of Management Studies (FMS), Delhi"
+      }
+    ],
+    "hasCredential": [
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Digital Marketing & Strategy Certification",
+        "credentialCategory": "Professional Certificate",
+        "recognizedBy": {
+          "@type": "EducationalOrganization",
+          "name": "IIM Bangalore"
+        }
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Strategic Marketing Certification",
+        "credentialCategory": "Professional Certificate",
+        "recognizedBy": {
+          "@type": "EducationalOrganization",
+          "name": "Faculty of Management Studies (FMS Delhi)"
+        }
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Business Analytics & Six Sigma Yellow Belt",
+        "credentialCategory": "Professional Certificate"
+      }
+    ],
+    "knowsAbout": [
+      "MBA Admissions 2027",
+      "PGDM Admissions 2027",
+      "CAT 2026 Preparation & Mock Tests",
+      "XAT 2027 Exam Strategy",
+      "NMAT by GMAC & SNAP Admissions",
+      "GD-PI-WAT Mentorship",
+      "B-School ROI & Placement Analysis",
+      "Direct MBA Admissions in Delhi NCR, Pune, Bangalore",
+      "B.Tech & BBA Admissions Guidance",
+      "Online MBA Degree Evaluations"
+    ],
     "sameAs": [
-      // Add other social profiles here
+      "https://wa.me/919560020771",
+      "https://www.youtube.com/@careerwithmohit",
+      "https://www.linkedin.com/in/mohit-jain-career-counsellor",
+      "https://www.instagram.com/careerwithmohit"
     ]
   };
 
   const organizationData = {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": ["EducationalOrganization", "LocalBusiness"],
+    "@id": "https://www.careerwithmohit.online/#organization",
     "name": "CareerWithMohit",
+    "alternateName": "Career with Mohit Admissions Consulting",
     "url": "https://www.careerwithmohit.online",
     "logo": "https://www.careerwithmohit.online/logo.webp",
     "image": "https://www.careerwithmohit.online/og-image.webp",
     "telephone": "+91-9560020771",
+    "founder": {
+      "@type": "Person",
+      "name": "Mohit Jain"
+    },
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Delhi NCR",
       "addressCountry": "IN"
     },
     "areaServed": [
-      "Delhi", "Noida", "Gurgaon", "Pune", "Mumbai", "Bangalore", "Jaipur"
+      "Delhi NCR", "Noida", "Gurgaon", "Pune", "Mumbai", "Bangalore", "Hyderabad", "Jaipur", "Kolkata", "Pan India"
     ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+91-9560020771",
+      "contactType": "Admissions & Career Advisory",
+      "availableLanguage": ["English", "Hindi"],
+      "areaServed": "IN"
+    },
+    "knowsAbout": [
+      "MBA & PGDM Admissions 2027",
+      "Entrance Exam Free Mock Tests",
+      "College Cutoffs and Placement Analytics",
+      "Profile Assessment and GDPI Training"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "CareerWithMohit Services & Admission Programs",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "MBA / PGDM Admissions Consulting 2027",
+            "description": "Strategic profile evaluation, B-school selection, direct admission guidance, and GDPI mentorship."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Free National Entrance Exam Mock Test Portal",
+            "description": "Full-length free practice mock tests with live timers for CAT, XAT, NMAT, SNAP, MAT, ATMA, and CMAT."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "College Cutoff & Percentile Calculator Tools",
+            "description": "Interactive tools for CAT score-to-percentile conversion, XAT calculators, and B.Tech college prediction."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "GD-PI-WAT Interview Preparation Bootcamp",
+            "description": "1-on-1 mock interviews, case analysis, SOP review, and personal mentoring by Mohit Jain."
+          }
+        }
+      ]
+    },
     "priceRange": "$$"
   };
-
 
   const websiteData = {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "CareerWithMohit",
     "url": "https://www.careerwithmohit.online",
+    "publisher": {
+      "@id": "https://www.careerwithmohit.online/#organization"
+    },
     "potentialAction": {
       "@type": "SearchAction",
       "target": "https://www.careerwithmohit.online/search?q={search_term_string}",
@@ -127,13 +242,32 @@ export default function RootLayout({
     }
   };
 
+  const speakableData = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "CareerWithMohit Career Counselling & MBA Admissions",
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+        "h1",
+        "h2",
+        ".speakable-summary",
+        "#ai-fast-facts"
+      ]
+    },
+    "url": "https://www.careerwithmohit.online"
+  };
+
   return (
     <html lang="en">
       <head>
         <link rel="alternate" type="application/rss+xml" title="CareerWithMohit Blog" href="/feed.xml" />
+        <link rel="author" href="https://www.careerwithmohit.online/about" />
+        <link rel="help" href="/llms.txt" />
         <JsonLd data={personData} />
         <JsonLd data={organizationData} />
         <JsonLd data={websiteData} />
+        <JsonLd data={speakableData} />
       </head>
       <body
         className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}

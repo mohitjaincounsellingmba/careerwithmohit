@@ -8,10 +8,32 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: '*',
         allow: '/',
-        disallow: ['/private/', '/admin/', '/api/', '/search'],
+        disallow: ['/private/', '/admin/', '/api/'],
       },
       {
-        userAgent: ['AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'PetalBot', 'GPTBot', 'CCBot'],
+        // Explicitly allow AI Search Engines & LLM agents for Generative Engine Optimization (GEO)
+        userAgent: [
+          'GPTBot',
+          'OAI-SearchBot',
+          'ChatGPT-User',
+          'PerplexityBot',
+          'ClaudeBot',
+          'anthropic-ai',
+          'Google-Extended',
+          'GoogleOther',
+          'Applebot-Extended',
+          'Applebot',
+          'cohere-ai',
+          'Meta-ExternalAgent',
+          'DuckAssistBot',
+          'Bingbot'
+        ],
+        allow: '/',
+        disallow: ['/private/', '/admin/', '/api/'],
+      },
+      {
+        // Disallow spam/scraping bots that do not provide search or AI citation value
+        userAgent: ['AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'PetalBot'],
         disallow: '/',
       }
     ],

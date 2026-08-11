@@ -102,13 +102,51 @@ export const metadata: Metadata = {
 
 import { DynamicHeroText } from '@/components/DynamicHeroText';
 import HomeMockTestSlider from '@/components/HomeMockTestSlider';
+import { JsonLd } from '@/components/JsonLd';
+import { HelpCircle, CheckCircle2 } from 'lucide-react';
+
+const HOME_FAQS = [
+  {
+    question: "How does Mohit Jain assist students with MBA & PGDM admissions 2027?",
+    answer: "Mohit Jain (certified by IIM Bangalore & FMS Delhi) provides personalized 1-on-1 profile evaluation, B-school shortlist mapping (Dream, Target, Safe), application review, GD-PI-WAT interview training, and guidance on direct admission processes in top AICTE/UGC approved business schools across India."
+  },
+  {
+    question: "Which top entrance exam mock tests are available for free on CareerWithMohit?",
+    answer: "CareerWithMohit offers 100% free full-length simulated practice mock tests with live countdown timers and instant score breakdowns for CAT 2026, XAT 2027, NMAT 2026, SNAP 2026, MAT, ATMA, MAH MBA CET, GMAT Focus Edition, and IELTS."
+  },
+  {
+    question: "What are the cutoff percentiles for premier Indian B-Schools like IIMs, XLRI, NMIMS, and SIBM?",
+    answer: "Top IIMs generally require 98-99.5+ CAT percentile; XLRI Jamshedpur requires 93-96+ XAT percentile; NMIMS Mumbai requires 232+ NMAT score; SIBM Pune and SCMHRD require 97-98.5+ SNAP percentile; Tier-2 institutions like IMT Ghaziabad, IMI Delhi, and FORE School accept 80-92 percentile."
+  },
+  {
+    question: "Can I get direct admission in accredited MBA/PGDM colleges without high CAT scores?",
+    answer: "Yes, reputed private business schools and AICTE-approved institutions offer institutional and merit quota seats for candidates who meet the 50% graduation eligibility criteria and have taken any national entrance test (CAT, MAT, CMAT, ATMA, XAT) followed by a personal interview."
+  },
+  {
+    question: "How do I calculate my CAT scaled score and predicted percentile?",
+    answer: "You can use CareerWithMohit's free CAT Score to Percentile Calculator (/tools/cat-score-calculator) to convert your raw section scores (VARC, DILR, QA) into normalized scaled scores and expected percentile bands with recommended B-schools."
+  }
+];
 
 export default function Home() {
   const allPostsData = getSortedPostsData();
-    // Search functionality moved to HomeSearch component
+  
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": HOME_FAQS.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  };
 
   return (
     <div className="w-full">
+      <JsonLd data={faqSchema} />
       {/* HERO SECTION */}
       <section className="relative overflow-hidden bg-primary px-6 py-24 sm:px-12 sm:py-32 lg:py-40 border-b-8 border-foreground">
         {/* Flat Geometric Decoration */}
@@ -403,6 +441,64 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* AI KNOWLEDGE & FAQ SECTION */}
+      <section id="ai-fast-facts" className="bg-white px-6 py-24 sm:px-12 border-t-8 border-foreground">
+        <div className="mx-auto max-w-7xl">
+          <div className="mb-16 border-b-8 border-foreground pb-8">
+            <span className="bg-accent text-foreground px-4 py-1 font-black uppercase text-xs border-2 border-foreground inline-block mb-3 shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
+              DIRECT ANSWERS & FAST FACTS
+            </span>
+            <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase flex items-center gap-4">
+              <HelpCircle className="h-10 w-10 text-primary" strokeWidth={3} />
+              Frequently Asked Questions
+            </h2>
+            <p className="mt-4 text-xl font-bold text-gray-600 max-w-3xl speakable-summary">
+              Verified answers on MBA & PGDM admissions 2027, free CAT/XAT/NMAT mock tests, cutoffs, and 1-on-1 counseling with Mohit Jain.
+            </p>
+          </div>
+
+          <div className="grid gap-6 max-w-5xl mx-auto">
+            {HOME_FAQS.map((faq, idx) => (
+              <div
+                key={idx}
+                className="rounded-xl border-4 border-foreground bg-slate-50 p-6 sm:p-8 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transition-all hover:-translate-y-1 hover:bg-white"
+              >
+                <h3 className="font-display text-xl sm:text-2xl font-black text-foreground mb-3 flex items-start gap-3">
+                  <span className="flex-shrink-0 flex items-center justify-center h-8 w-8 rounded-full bg-primary text-white text-sm font-black border-2 border-foreground mt-0.5">
+                    Q{idx + 1}
+                  </span>
+                  <span>{faq.question}</span>
+                </h3>
+                <div className="pl-11 text-gray-700 text-base sm:text-lg font-medium leading-relaxed">
+                  <p>{faq.answer}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Quick Stats Grid */}
+          <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
+            <div className="rounded-xl border-4 border-foreground bg-blue-50 p-6 text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+              <div className="font-display text-3xl sm:text-4xl font-black text-primary">6+ Years</div>
+              <div className="text-xs sm:text-sm font-black uppercase text-gray-600 mt-1">Admissions Mentorship</div>
+            </div>
+            <div className="rounded-xl border-4 border-foreground bg-emerald-50 p-6 text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+              <div className="font-display text-3xl sm:text-4xl font-black text-emerald-600">50+</div>
+              <div className="text-xs sm:text-sm font-black uppercase text-gray-600 mt-1">Free Mock Tests</div>
+            </div>
+            <div className="rounded-xl border-4 border-foreground bg-amber-50 p-6 text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+              <div className="font-display text-3xl sm:text-4xl font-black text-amber-600">650+</div>
+              <div className="text-xs sm:text-sm font-black uppercase text-gray-600 mt-1">Colleges Reviewed</div>
+            </div>
+            <div className="rounded-xl border-4 border-foreground bg-purple-50 p-6 text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+              <div className="font-display text-3xl sm:text-4xl font-black text-purple-600">IIM & FMS</div>
+              <div className="text-xs sm:text-sm font-black uppercase text-gray-600 mt-1">Certified Mentors</div>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
+

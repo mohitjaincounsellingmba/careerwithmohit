@@ -124,6 +124,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     alternates: {
       canonical: `/blog/${slug}`,
     },
+    other: {
+      "citation_title": cleanedTitle,
+      "citation_author": "Mohit Jain",
+      "citation_publication_date": postData.date,
+      "citation_online_date": postData.date,
+      "citation_publisher": "CareerWithMohit",
+      "ai-content-declaration": "human-authored-expert-guidance"
+    }
   };
 }
 
@@ -171,6 +179,11 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         "@type": "ImageObject",
         "url": "https://www.careerwithmohit.online/logo.webp"
       }
+    },
+    "inLanguage": "en-IN",
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": ["h1", "header p", ".prose p:first-of-type"]
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
