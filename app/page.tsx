@@ -101,6 +101,7 @@ export const metadata: Metadata = {
 };
 
 import { DynamicHeroText } from '@/components/DynamicHeroText';
+import HomeMockTestSlider from '@/components/HomeMockTestSlider';
 
 export default function Home() {
   const allPostsData = getSortedPostsData();
@@ -138,6 +139,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* MOCK TESTS SLIDER BANNER */}
+      <HomeMockTestSlider />
 
       {/* SERVICES SECTION */}
       <section id="services" className="bg-white px-6 py-24 sm:px-12">
