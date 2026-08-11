@@ -3,14 +3,11 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { 
   BookOpen, 
-  Trophy, 
   Target, 
   Zap, 
   ArrowRight, 
   GraduationCap, 
-  ShieldCheck, 
   Stethoscope, 
-  Gavel, 
   Building2,
   CheckCircle2,
   Clock,
@@ -21,12 +18,12 @@ import { getSortedPostsData } from '@/lib/markdown';
 
 export const metadata: Metadata = {
   title: 'Free Mock Test Series 2026-2027: 50+ Practice Papers',
-  description: 'Practice 100% free online mock tests for CAT 2026, XAT 2027, SNAP 2026, NMAT 2026, CMAT 2027, ATMA 2026, GMAT Focus, JEE Main, NEET, and SSC Govt Exams. Simulate real exam conditions with instant AI score analysis and percentile predictions.',
+  description: 'Practice 100% free online mock tests for CAT 2026, XAT 2027, SNAP 2026, NMAT 2026, CMAT 2027, ATMA 2026, GMAT Focus, JEE Main, NEET, and Study Abroad exams. Simulate real exam conditions with instant AI score analysis and percentile predictions.',
   keywords: [
     'free mock test series 2026', 'cat mock test 2026', 'xat mock test 2027', 'snap mock test 2026',
     'nmat mock test 2026', 'cmat mock test 2027', 'atma mock test 2026', 'free online test series 2027', 
     'jee main mock test online', 'neet ug practice papers', 'gmat focus edition free mock', 
-    'ipu cet mock test online', 'ssc cgl tier 1 mock test free', 'best online test series india',
+    'ipu cet mock test online', 'study abroad mock test free', 'best online test series india',
     'mba mock test 2026', 'pgdm entrance exam mock test 2027'
   ],
   alternates: {
@@ -118,20 +115,6 @@ const categories: {
     ]
   },
   {
-    title: "Government Exams",
-    description: "Comprehensive hub for SSC, Banking, Railways, and UPSC.",
-    icon: <ShieldCheck className="w-8 h-8 text-yellow-600" />,
-    color: "from-yellow-50 to-white",
-    borderColor: "border-yellow-200",
-    isHub: true,
-    exams: [
-      { name: "SSC CGL", slug: "/tools/mock-test/ssc-cgl", guideSlug: "/blog/free-ssc-cgl-mock-test-2026", desc: "Income Tax, CBI" },
-      { name: "IBPS PO", slug: "/tools/mock-test/ibps-po", guideSlug: "/blog/free-ibps-po-mock-test-2026", desc: "Banking Career" },
-      { name: "UPSC CSE", slug: "/tools/mock-test/upsc-cse", guideSlug: "/blog/free-upsc-cse-prelims-mock-test-2026", desc: "Civil Services" },
-      { name: "Visit Hub", slug: "/tools/govt-exams-mock-test", desc: "All Govt Exams Hub" },
-    ]
-  },
-  {
     title: "Abroad Education",
     description: "Prepare for global universities with specialized IELTS, TOEFL, SAT and GRE mocks.",
     icon: <BookOpen className="w-8 h-8 text-indigo-500" />,
@@ -184,7 +167,7 @@ export default function MockTestHubPage() {
         "name": "Which exams are covered in the Mock Test Hub?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The Mock Test Hub covers a wide range of exams including MBA Entrances (CAT, XAT, NMAT, SNAP, GMAT, ATMA, MHCET), B.Tech Entrances (JEE Main, JEE Advanced, BITSAT, VITEEE, SRMJEEE), Medical (NEET UG), Law (CLAT), Central Universities (CUET UG & PG), Study Abroad (IELTS, TOEFL, Duolingo, GRE, SAT), and Government Exams (SSC CGL, IBPS PO, UPSC CSE, RBI Grade B, etc.)."
+          "text": "The Mock Test Hub covers a wide range of exams including MBA Entrances (CAT, XAT, NMAT, SNAP, GMAT, ATMA, MHCET), B.Tech Entrances (JEE Main, JEE Advanced, BITSAT, VITEEE, SRMJEEE), Medical (NEET UG), Law (CLAT), Central Universities (CUET UG & PG), and Study Abroad (IELTS, TOEFL, Duolingo, GRE, SAT)."
         }
       },
       {
@@ -402,15 +385,6 @@ export default function MockTestHubPage() {
                 <li><Link href="/tools/mock-test/gre" className="hover:text-primary">→ GRE general test practice free</Link></li>
                 <li><Link href="/tools/mock-test/toefl" className="hover:text-primary">→ TOEFL listening reading mock</Link></li>
                 <li><Link href="/tools/mock-test/duolingo" className="hover:text-primary">→ Duolingo English test online</Link></li>
-              </ul>
-            </div>
-            <div className="space-y-3 col-span-1 md:col-span-2 lg:col-span-3">
-              <h4 className="font-extrabold text-foreground uppercase border-b-2 border-foreground pb-2 text-sm">Government Job Exams</h4>
-              <ul className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-1.5 text-xs font-bold text-gray-500 uppercase tracking-tight">
-                <li><Link href="/tools/mock-test/ssc-cgl" className="hover:text-primary">→ SSC CGL Tier 1 free mock series</Link></li>
-                <li><Link href="/tools/mock-test/ibps-po" className="hover:text-primary">→ IBPS bank PO prelims practice</Link></li>
-                <li><Link href="/tools/mock-test/upsc-cse" className="hover:text-primary">→ UPSC Prelims GS Paper mock test</Link></li>
-                <li><Link href="/tools/govt-exams-mock-test" className="hover:text-primary">→ 30+ Govt Exams practice hub</Link></li>
               </ul>
             </div>
           </div>
