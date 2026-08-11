@@ -6,6 +6,7 @@ import { GmatCbtMockTestClient } from '@/components/GmatMockTest/GmatCbtMockTest
 import { AtmaCbtMockTestClient } from '@/components/AtmaMockTest/AtmaCbtMockTestClient';
 import { MatCbtMockTestClient } from '@/components/MatMockTest/MatCbtMockTestClient';
 import { IeltsCbtMockTestClient } from '@/components/IeltsMockTest/IeltsCbtMockTestClient';
+import { DetCbtMockTestClient } from '@/components/DetMockTest/DetCbtMockTestClient';
 import { EXAM_CONFIGS, generateMockQuestions } from '@/lib/mock-test-data';
 import { Clock, Target, Zap, Presentation, CheckCircle2, HelpCircle, BookOpen } from 'lucide-react';
 import { notFound } from 'next/navigation';
@@ -158,6 +159,8 @@ export default async function ExamMockTestPage({
           <MatCbtMockTestClient config={config} />
         ) : resolvedParams.examSlug === 'ielts' ? (
           <IeltsCbtMockTestClient config={config} />
+        ) : resolvedParams.examSlug === 'duolingo' ? (
+          <DetCbtMockTestClient config={config} />
         ) : (
           <GenericMockTestClient config={config} questions={questions} />
         )}

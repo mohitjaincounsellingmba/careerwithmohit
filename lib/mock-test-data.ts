@@ -1224,37 +1224,68 @@ export const EXAM_CONFIGS: ExamConfig[] = [
     slug: 'duolingo',
     name: 'Duolingo English Test 2026',
     durationMinutes: 60,
-    totalQuestions: 60,
-    targetColleges: 'Universities in USA, UK, Canada, Australia & Europe',
+    totalQuestions: 25,
+    targetColleges: 'Columbia, Yale, NYU Stern, USC, Northeastern, Toronto, McGill',
     goodScore: '125+',
-    seoTitle: 'Free Duolingo English Test Mock 2026 | Full Length Practice',
-    seoDescription: 'Take our free full-length Duolingo English Test (DET) mock test. Practice Literacy, Comprehension, Conversation, and Production sections with realistic adaptive-style questions.',
-    keywords: ['Duolingo English Test mock 2026', 'free DET adaptive practice test online', 'Duolingo English score 120 plus prep', 'DET literacy comprehension conversation production', 'Duolingo English sample test questions'],
+    seoTitle: 'Free Duolingo English Test (DET) Mock 2026 | Full Length Practice Paper',
+    seoDescription: 'Take our free full-length Duolingo English Test (DET) 2026 mock test online. Experience real adaptive question types (Read & Select, C-Test, Dictation, Photo Description, Interactive Reading) + Writing & Speaking samples with instant 10-160 scaled scores.',
+    keywords: [
+      'Duolingo English Test mock 2026', 'free DET adaptive practice test online', 'Duolingo English score 120 plus prep', 
+      'DET literacy comprehension conversation production', 'Duolingo English sample test questions',
+      'DET practice test with answers', 'Duolingo English test subscores calculator', 'universities accepting Duolingo English Test 2026'
+    ],
     sections: [
-      { id: 'literacy', label: 'Literacy (Reading/Writing)', questionCount: 15 },
-      { id: 'comprehension', label: 'Comprehension (Reading/Listening)', questionCount: 15 },
-      { id: 'conversation', label: 'Conversation (Listening/Speaking)', questionCount: 15 },
-      { id: 'production', label: 'Production (Writing/Speaking)', questionCount: 15 }
+      { id: 'adaptive', label: 'Adaptive Section (Read & Select, C-Test, Dictation, Photo, Reading)', questionCount: 23 },
+      { id: 'samples', label: 'Writing & Speaking Samples (Institutional Review)', questionCount: 2 }
+    ],
+    topCollegesList: [
+      { name: 'Columbia University (USA)', cutoff: 'Score 135+' },
+      { name: 'Yale University (USA)', cutoff: 'Score 135+' },
+      { name: 'New York University - Stern (USA)', cutoff: 'Score 130+' },
+      { name: 'University of Southern California (USA)', cutoff: 'Score 125+' },
+      { name: 'Northeastern University (USA)', cutoff: 'Score 125+' },
+      { name: 'University of Toronto (Canada)', cutoff: 'Score 120+' },
+      { name: 'McGill University (Canada)', cutoff: 'Score 120+' },
+      { name: 'University of Melbourne (Australia)', cutoff: 'Score 120+' }
     ],
     features: [
-      'Strictly follows Duolingo English Test Pattern',
-      'Realistic Adaptive Question Simulation',
-      'Instant Score Estimation (10-160 Scale)',
-      'Detailed Performance Analytics',
-      'No Negative Marking Simulation'
+      'Strictly follows Official Duolingo English Test (DET) Pattern',
+      'Full Adaptive Question Coverage (Read & Select, C-Test, Dictation, Photo Writing, Interactive Reading)',
+      'Audio Dictation with Web Speech API Voice Synthesizer',
+      'Official 10–160 Scale Score Engine with 4 Subscores (Literacy, Comprehension, Conversation, Production)',
+      'Institutional Writing & Speaking Sample Arenas with Model Answers',
+      'Global University Eligibility Predictor for USA, Canada, Australia & Europe'
     ],
     faqs: [
       {
-        question: 'How is the Duolingo English Test scored?',
-        answer: 'The DET is scored on a scale from 10 to 160 in 5-point increments. A score above 120 is generally considered very good for top university admissions.'
+        question: 'What is the structure of the Duolingo English Test (DET)?',
+        answer: 'The DET is a 1-hour computer-based English proficiency exam. It features an adaptive section (approx. 45 minutes) measuring Literacy, Comprehension, Conversation, and Production through varied interactive tasks, followed by ungraded but shareable Writing and Speaking samples (approx. 15 minutes).'
       },
       {
-        question: 'Is the DET accepted by all universities?',
-        answer: 'Most universities in the USA, UK, and Canada now accept DET scores as an alternative to IELTS or TOEFL. However, always check the specific university website for the latest requirements.'
+        question: 'How is the DET scored and what are the subscores?',
+        answer: 'The overall DET score ranges from 10 to 160 in 5-point increments. The test provides four integrated subscores: Literacy (Reading & Writing), Comprehension (Reading & Listening), Conversation (Listening & Speaking), and Production (Writing & Speaking).'
+      },
+      {
+        question: 'What is considered a good score on the Duolingo English Test?',
+        answer: 'A score of 120–125+ is generally considered strong and accepted by most top universities globally. Highly selective Ivy League and top-tier institutions (like Columbia and Yale) typically require 130–135+.'
+      },
+      {
+        question: 'How does DET compare to IELTS or TOEFL?',
+        answer: 'The DET is shorter (60 minutes vs 2.5–3 hours), more cost-effective, can be taken online on demand from home, and delivers certified results within 48 hours. Over 4,500 institutions worldwide now accept DET scores.'
+      }
+    ],
+    examDetails: [
+      {
+        title: 'DET Adaptive Question Types Overview',
+        content: 'The adaptive portion tests real-world language proficiency via Read and Select (identifying real English words), Read and Complete (filling in missing letters in authentic texts), Listen and Type (transcribing spoken sentences), Write About the Photo (describing visual scenes), and Interactive Reading (passage completion, synonym identification, main idea, and inference).'
+      },
+      {
+        title: 'Institutional Writing & Speaking Video Samples',
+        content: 'The final 15 minutes feature open-ended prompts: a 3–5 minute formal writing sample and a 1–3 minute spoken video response. While not contributing to the numerical subscores, these samples are delivered unedited to university admissions committees alongside your official score report.'
       }
     ],
     markingScheme: { correct: 1, negative: 0 }
-  }
+  },
 ];
 
 import { ATMA_QUESTIONS } from './atma-questions';

@@ -111,6 +111,7 @@ const TOOL_CATEGORIES = [
     accentColor: 'bg-rose-500',
     icon: BookOpen,
     tools: [
+      { name: 'Duolingo English Test (DET)', desc: 'Adaptive skills & Writing/Speaking with 10-160 scoring', href: '/tools/mock-test/duolingo', badge: 'New', color: 'text-emerald-600' },
       { name: 'IELTS Academic Mock Test', desc: '80 Qs Listening & Reading + Writing with Band scoring', href: '/tools/mock-test/ielts', badge: 'New', color: 'text-rose-600' },
       { name: 'CAT Mock Test 2027', desc: 'Full-length CAT exam simulation', href: '/tools/cat-mock-test', badge: 'Free', color: 'text-rose-600' },
       { name: 'MAT Mock Test 2026/27', desc: '150 Qs MAT CBT simulation for Sept/Dec/Feb/May', href: '/tools/mat-mock-test', badge: 'Free', color: 'text-emerald-600' },
