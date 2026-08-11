@@ -60,7 +60,6 @@ export function Footer() {
       { name: 'Free CAT 2026 Mock Test', href: '/tools/cat-mock-test' },
       { name: 'Free JEE Mock 2027', href: '/tools/jee-main-mock-test' },
       { name: 'PYQ Papers', href: '/previous-year-papers' },
-      { name: 'Resume Score & Audit', href: '/tools/resume-analyzer', badge: 'New' },
       { name: 'Online Degrees', href: '/online-degree-certification' },
       { name: 'Abroad Education', href: '/abroad-education', badge: 'New' },
       { name: 'Certifications', href: '/certifications' },

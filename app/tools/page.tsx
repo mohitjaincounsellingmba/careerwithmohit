@@ -7,10 +7,10 @@ import {
 
 export const metadata: Metadata = {
   title: 'Free Online Tools Hub: Converters & Calculators',
-  description: 'Access 20+ free tools: file converters (Word to PDF, PNG to JPG), entrance exam calculators (CAT, XAT, JEE, CUET), college predictors, resume analyzer, mock tests and more.',
+  description: 'Access 20+ free tools: file converters (Word to PDF, PNG to JPG), entrance exam calculators (CAT, XAT, JEE, CUET), college predictors, mock tests and more.',
   keywords: [
     'free tools online', 'file converter', 'cat score calculator', 'jee predictor',
-    'resume analyzer', 'mock test free', 'word to pdf', 'college predictor',
+    'career roadmap', 'mock test free', 'word to pdf', 'college predictor',
     'online tools free', 'career tools', 'education tools india',
     'mba admission 2027', 'pgdm admission 2027', 'degree admission 2027'
   ],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Free Online Tools Hub: Converters & Calculators',
-    description: 'Access 20+ free tools: file converters, exam calculators, college predictors, and resume analyzer.',
+    description: 'Access 20+ free tools: file converters, exam calculators, and college predictors.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools',
     siteName: 'CareerWithMohit',
@@ -91,13 +91,12 @@ const TOOL_CATEGORIES = [
   },
   {
     id: 'career-tools',
-    category: 'Career & Resume Tools',
+    category: 'Career & Profile Tools',
     badge: 'AI',
     badgeColor: 'bg-violet-500',
     accentColor: 'bg-violet-500',
     icon: Briefcase,
     tools: [
-      { name: 'AI Resume Analyzer', desc: 'Score your resume with full ATS audit', href: '/tools/resume-analyzer', badge: 'AI', color: 'text-violet-600' },
       { name: 'AI Skills Gap Finder', desc: 'Identify missing skills for your dream job', href: '/tools/ai-skills', badge: 'AI', color: 'text-fuchsia-600' },
       { name: 'Career Roadmap Builder', desc: 'Build a customized 6-month career plan', href: '/calculator/career-roadmap', badge: 'New', color: 'text-blue-600' },
       { name: 'Hashtag Generator', desc: 'Create trending hashtags for social content', href: '/tools/hashtag-generator', badge: null, color: 'text-pink-600' },

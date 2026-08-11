@@ -59,7 +59,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools',
     '/tools/file-converter',
     '/tools/cat-score-calculator',
-    '/tools/resume-analyzer',
     '/tools/xat-score-calculator-2027',
     '/services',
     '/sell-your-coaching-online',

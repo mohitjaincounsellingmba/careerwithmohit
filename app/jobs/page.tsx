@@ -210,23 +210,23 @@ export default function JobsPage() {
           </div>
         </div>
 
-        {/* Resume Tool CTA */}
+        {/* Career Roadmap CTA */}
         <div className="mx-auto max-w-7xl mt-16 relative z-10">
           <Link 
-            href="/tools/resume-analyzer"
+            href="/calculator/career-roadmap"
             className="group flex flex-col md:flex-row items-center justify-between gap-6 bg-yellow-300 border-4 border-[#18181b] p-8 shadow-[8px_8px_0px_0px_rgba(24,24,27,1)] hover:shadow-[12px_12px_0px_0px_rgba(79,70,229,1)] hover:-translate-y-1 transition-all"
           >
             <div className="flex items-center gap-6">
               <div className="w-16 h-16 bg-[#18181b] flex items-center justify-center border-4 border-[#18181b] shadow-[4px_4px_0px_0px_rgba(79,70,229,1)] group-hover:rotate-6 transition-transform">
-                <Search className="text-white w-8 h-8" />
+                <TrendingUp className="text-white w-8 h-8" />
               </div>
               <div>
-                <h2 className="text-2xl md:text-3xl font-black uppercase tracking-tight text-[#18181b]">Check Your Resume Score</h2>
-                <p className="font-bold text-[#18181b]/70">Get a free ATS audit and improve your chances of getting hired.</p>
+                <h2 className="text-2xl md:text-3xl font-black uppercase tracking-tight text-[#18181b]">Build Your Career Roadmap</h2>
+                <p className="font-bold text-[#18181b]/70">Generate a step-by-step career acceleration plan and land your dream job.</p>
               </div>
             </div>
             <div className="flex items-center gap-2 bg-[#18181b] text-white px-8 py-4 font-black uppercase tracking-widest group-hover:bg-indigo-600 transition-colors">
-              Analyze Now <ArrowRight size={20} />
+              Build Roadmap <ArrowRight size={20} />
             </div>
           </Link>
         </div>

@@ -487,7 +487,7 @@ export default function FileConverter() {
           ``,
           `"RECOMMENDED NEXT STEPS"`,
           `"1. Verify extracted columns match your target database format."`,
-          `"2. Use the 'AI Resume Analyzer' at /tools/resume-analyzer to audit admissions readiness."`,
+          `"2. Use the 'Career Roadmap Builder' at /calculator/career-roadmap to plan your career trajectory."`,
           `"3. Calculate target MBA/BTech cutoffs using our Score Predictors."`,
           `"4. Schedule a 1-on-1 strategy call with Mohit Jain for complete admissions counselling."`
         ].join("\n");
