@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
-import { CertificationsClient, CERTIFICATIONS_DATA } from '@/components/CertificationsClient';
+import { CertificationsClient } from '@/components/CertificationsClient';
+import { CERTIFICATIONS_DATA } from '@/data/certificationsData';
 
 export const metadata: Metadata = {
   title: 'Free & Professional Certification Courses 2026-2027 | LearnVern & IIDE | CareerWithMohit',
