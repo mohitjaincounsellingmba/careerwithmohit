@@ -2,19 +2,78 @@ import React from 'react';
 import { AccreditationChecker } from '@/components/AccreditationChecker';
 import { ShieldCheck, CheckCircle, Info, ExternalLink, Globe } from 'lucide-react';
 import type { Metadata } from 'next';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
+  title: 'Accreditation & Approval Checker 2026-2027 | AICTE, UGC, AIU, BCI & NAAC Auditor | CareerWithMohit',
+  description: 'Instantly verify AICTE, UGC, AIU, BCI (Law), COA (Architecture), PCI (Pharmacy) and NAAC accreditation for all degree programs. Check approved campus lists with validity 2026-2027.',
+  keywords: [
+    'AIU approved PGDM list', 'AICTE approval checker', 'BCI approved law colleges', 
+    'COA architecture list', 'PCI pharmacy approved colleges', 'UGC approved universities', 'NAAC grade lookup'
+  ],
   alternates: {
-    canonical: '/tools/accreditation-checker',
+    canonical: 'https://www.careerwithmohit.online/tools/accreditation-checker',
   },
-  title: 'Accreditation & Approval Checker 2024-25 | AICTE, UGC, AIU, BCI, COA & PCI Auditor',
-  description: 'Instantly verify AICTE, UGC, AIU, BCI (Law), COA (Architecture), PCI (Pharmacy) and NAAC accreditation for all degree programs. Check approved campus lists with validity 2024-25.',
-  keywords: 'AIU approved PGDM list, AICTE approval checker, BCI approved law colleges, COA architecture list, PCI pharmacy approved colleges, UGC approved universities, NAAC grade lookup',
+  openGraph: {
+    title: 'Accreditation & Approval Checker | CareerWithMohit',
+    description: 'Instantly verify AICTE, UGC, AIU, and NAAC accreditation for universities & colleges across India.',
+    url: 'https://www.careerwithmohit.online/tools/accreditation-checker',
+    siteName: 'CareerWithMohit',
+    type: 'website',
+    locale: 'en_IN',
+    images: [{ url: '/og-image.webp', width: 1200, height: 630, alt: 'Accreditation Checker Tool' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Accreditation & Approval Checker | CareerWithMohit',
+    description: 'Verify AICTE, UGC, AIU, and NAAC accreditation for universities & colleges across India.',
+    images: ['/og-image.webp'],
+  },
 };
 
 export default function AccreditationCheckerPage() {
+  const softwareSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "College Accreditation & Regulatory Approval Checker",
+    "url": "https://www.careerwithmohit.online/tools/accreditation-checker",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    }
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why is AIU equivalence important for PGDM?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Association of Indian Universities (AIU) equivalence grants PGDM diplomas equal status to a university MBA degree, qualifying graduates for PhD programs and government PSU recruitments."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the difference between UGC and AICTE approval?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "UGC approves universities and degree-granting institutions, while AICTE approves technical and management institutions offering diplomas (like PGDM) and engineering programs."
+        }
+      }
+    ]
+  };
+
   return (
     <div className="bg-gray-50 font-sans -mt-8">
+      <JsonLd data={softwareSchema} />
+      <JsonLd data={faqSchema} />
+
       {/* SEO Optimized Content Section */}
       <section className="max-w-7xl mx-auto px-6 mb-20 animate-in fade-in slide-in-from-top-12 duration-1000">
         <div className="bg-white rounded-[3rem] p-10 sm:p-20 shadow-2xl relative overflow-hidden border border-gray-100">
@@ -29,7 +88,7 @@ export default function AccreditationCheckerPage() {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-indigo-600 to-violet-600">Reality Check</span>
             </h1>
             <p className="text-xl text-gray-600 mb-12 leading-relaxed font-medium">
-              Don't let your investment go to waste. Verify if your college is actually approved for government jobs and higher AIU/PhD studies. Our auditor maps thousands of campuses against the latest regulatory data for 2024-25.
+              Don&apos;t let your investment go to waste. Verify if your college is actually approved for government jobs and higher AIU/PhD studies. Our auditor maps thousands of campuses against the latest regulatory data for 2026-2027.
             </p>
             
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-6">
@@ -58,70 +117,45 @@ export default function AccreditationCheckerPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           <div className="space-y-6">
             <h2 className="text-3xl font-black text-gray-900 flex items-center gap-3">
-              <div className="h-10 w-2 bg-blue-600 rounded-full"></div>
-              What is AIU Equivalence?
+               <span className="h-8 w-2 bg-blue-600 rounded-full inline-block"></span>
+               Why Verification Matters
             </h2>
-            <div className="prose prose-blue text-gray-600 font-medium leading-relaxed">
-              <p>
-                PGDM (Post Graduate Diploma in Management) is offered by autonomous bodies. To make it equivalent to an MBA degree for government jobs and higher studies like PhD, the Association of Indian Universities (AIU) must grant it "equivalence".
-              </p>
-              <p className="mt-4 font-bold text-gray-900">
-                Benefits of AIU Approval:
-              </p>
-              <ul className="mt-4 space-y-3 list-none p-0">
-                <li className="flex items-start gap-3 bg-white p-4 rounded-2xl shadow-sm border border-gray-50">
-                  <CheckCircle className="h-5 w-5 text-green-500 shrink-0 mt-1" />
-                  <span>Eligible for UPSC/Bank Exams & Govt Jobs</span>
-                </li>
-                <li className="flex items-start gap-3 bg-white p-4 rounded-2xl shadow-sm border border-gray-50">
-                  <CheckCircle className="h-5 w-5 text-green-500 shrink-0 mt-1" />
-                  <span>Eligible for PhD/Doctorate Admissions</span>
-                </li>
-                <li className="flex items-start gap-3 bg-white p-4 rounded-2xl shadow-sm border border-gray-50">
-                  <CheckCircle className="h-5 w-5 text-green-500 shrink-0 mt-1" />
-                  <span>Recognized for Higher Studies in Foreign Universities</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div className="bg-gray-900 rounded-[3rem] p-10 text-white shadow-2xl relative overflow-hidden flex flex-col justify-center">
-            <div className="absolute top-0 right-0 w-64 h-64 bg-primary/20 rounded-full -mr-32 -mt-32 blur-3xl"></div>
-            <Info className="h-12 w-12 text-primary mb-8" />
-            <h3 className="text-3xl font-black mb-6 leading-tight">Expert Consultation</h3>
-            <p className="text-gray-400 mb-8 font-medium text-lg leading-relaxed">
-              Confused between two campuses? Get a deep audit report on placement validity and accreditation cycles before paying your admission fee.
+            <p className="text-gray-600 leading-relaxed font-medium">
+              Thousands of students take admission in unapproved standalone campuses or distance/online formats that lack UGC-DEB/AICTE clearances. This makes degrees ineligible for PSU jobs, UPSC, state exams, and overseas visa evaluations (WES).
             </p>
-            <button className="bg-white text-gray-900 px-10 py-5 rounded-2xl font-black hover:bg-primary hover:text-white transition-all transform active:scale-95 shadow-xl w-fit">
-              Book Profile Audit
-            </button>
+            <div className="bg-amber-50 rounded-2xl p-6 border border-amber-200">
+               <div className="font-black text-amber-900 mb-1 flex items-center gap-2">
+                 <Info className="h-4 w-4" /> Crucial Tip:
+               </div>
+               <p className="text-xs text-amber-800 font-bold leading-relaxed">
+                 Autonomous colleges offering PGDM must have AICTE approval plus AIU Equivalence if you plan to do a PhD or apply for government jobs later.
+               </p>
+            </div>
           </div>
-        </div>
 
-        <div className="bg-blue-600 rounded-[3rem] p-12 text-white relative overflow-hidden group">
-          <div className="absolute inset-0 bg-blue-700 translate-y-full group-hover:translate-y-0 transition-transform duration-500"></div>
-          <div className="relative z-10 flex flex-col md:flex-row items-center justify-between gap-10">
-            <div className="max-w-2xl">
-              <h3 className="text-4xl font-black mb-4">Official Database Links</h3>
-              <p className="text-blue-100 font-medium text-lg">Cross-verify your college code directly on official portal dumps.</p>
-            </div>
-            <div className="flex flex-wrap gap-4">
-              {[
-                { name: "AICTE Portal", url: "https://www.aicte-india.org" },
-                { name: "UGC List", url: "https://www.ugc.gov.in" },
-                { name: "AIU Equivalence", url: "https://www.aiu.ac.in" }
-              ].map((link, j) => (
-                <a 
-                  key={j} 
-                  href={link.url} 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="bg-white/10 backdrop-blur-md px-6 py-4 rounded-2xl border border-white/20 hover:bg-white text-blue-900 font-black hover:text-blue-600 transition-all flex items-center gap-2 whitespace-nowrap shadow-lg"
-                >
-                  {link.name} <ExternalLink size={18} />
-                </a>
-              ))}
-            </div>
+          <div className="space-y-6">
+            <h2 className="text-3xl font-black text-gray-900 flex items-center gap-3">
+               <span className="h-8 w-2 bg-indigo-600 rounded-full inline-block"></span>
+               Regulatory Bodies Covered
+            </h2>
+            <ul className="space-y-4 font-bold text-gray-700">
+              <li className="flex items-center gap-3">
+                 <CheckCircle className="h-5 w-5 text-emerald-500" />
+                 <span><strong>UGC:</strong> University Grants Commission for all universities</span>
+              </li>
+              <li className="flex items-center gap-3">
+                 <CheckCircle className="h-5 w-5 text-emerald-500" />
+                 <span><strong>AICTE:</strong> Engineering, Architecture & Management</span>
+              </li>
+              <li className="flex items-center gap-3">
+                 <CheckCircle className="h-5 w-5 text-emerald-500" />
+                 <span><strong>AIU:</strong> MBA Equivalence for PGDM Programs</span>
+              </li>
+              <li className="flex items-center gap-3">
+                 <CheckCircle className="h-5 w-5 text-emerald-500" />
+                 <span><strong>NAAC / NBA:</strong> Quality & Tier Assessment (A++, A+, A)</span>
+              </li>
+            </ul>
           </div>
         </div>
       </section>

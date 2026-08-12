@@ -5,11 +5,26 @@ import { NEWS_ITEMS } from '@/lib/news';
 import { JsonLd } from "@/components/JsonLd";
 
 export const metadata = {
-  title: "Latest News | Education & Career Updates",
-  description: "Stay updated with the latest education news, admission alerts, and career growth insights from CareerWithMohit.",
+  title: "Latest Education & Career News 2026-2027 | Admission Updates | CareerWithMohit",
+  description: "Stay updated with the latest education news, MBA/PGDM admission alerts, CAT/XAT exam notifications, and career growth insights from CareerWithMohit.",
   keywords: ['MBA admission news', 'CAT 2027 updates', 'MBA admission 2027', 'PGDM admission 2027', 'degree admission 2027', 'JEE Advanced news', 'education news India', 'career updates', 'B-school admission alerts'],
   alternates: {
-    canonical: "/news",
+    canonical: "https://www.careerwithmohit.online/news",
+  },
+  openGraph: {
+    title: "Latest Education & Career News | CareerWithMohit",
+    description: "Stay informed with real-time higher education updates, exam notifications, and admission alerts.",
+    url: "https://www.careerwithmohit.online/news",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "Latest Career and Admission News" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Latest Education & Career News | CareerWithMohit",
+    description: "Stay informed with real-time higher education updates and admission alerts.",
+    images: ["/og-image.webp"],
   },
 };
 export default function NewsPage() {

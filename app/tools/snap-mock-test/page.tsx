@@ -2,10 +2,11 @@ import { Metadata } from 'next';
 import { SnapCbtMockTestClient } from '@/components/SnapMockTest/SnapCbtMockTestClient';
 import { EXAM_CONFIGS } from '@/lib/mock-test-data';
 import { notFound } from 'next/navigation';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/snap-mock-test',
+    canonical: 'https://www.careerwithmohit.online/tools/snap-mock-test',
   },
   title: 'Free SNAP Mock Test 2026/27 | SIBM Pune & Symbiosis Speed Test (60 Questions)',
   description: 'Take our free full-length 60-question SNAP mock test in 60 minutes. General English (15), Quant & DI (20), Logical Reasoning (25). Instant SIBM Pune call predictor and step-by-step solutions.',
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     'SNAP 60 questions speed test'
   ],
   openGraph: {
-    title: 'Free SNAP Mock Test 2026/27 | SIBM Pune & SCMHRD Prep',
+    title: 'Free SNAP Mock Test 2026/27 | SIBM Pune & SCMHRD Prep | CareerWithMohit',
     description: 'Take our free full-length 60-question SNAP speed test with instant scorecards and detailed solutions.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/snap-mock-test',
@@ -34,8 +35,50 @@ export default function DedicatedSnapMockTestPage() {
   const config = EXAM_CONFIGS.find(c => c.slug === 'snap');
   if (!config) notFound();
 
+  const softwareSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "SNAP 2026-2027 Speed Mock Test Tool",
+    "url": "https://www.careerwithmohit.online/tools/snap-mock-test",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "description": "Full-length 60-question 60-minute SNAP CBT mock test with SIBM Pune and SCMHRD percentile analytics."
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online",
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests",
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "SNAP Mock Test",
+        "item": "https://www.careerwithmohit.online/tools/snap-mock-test",
+      },
+    ],
+  };
+
   return (
     <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-4 sm:px-8 md:px-12">
+      <JsonLd data={softwareSchema} />
+      <JsonLd data={breadcrumbSchema} />
       <div className="mx-auto max-w-6xl">
         {/* Hero Section */}
         <div className="mb-10 text-center">

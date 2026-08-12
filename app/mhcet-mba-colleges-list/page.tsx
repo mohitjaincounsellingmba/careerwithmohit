@@ -6,22 +6,37 @@ import { Download, FileText, School, GraduationCap, CheckCircle2 } from "lucide-
 import { CtaScrollButton } from "@/components/CtaScrollButton";
 
 export const metadata: Metadata = {
+  title: "MHCET MBA 2027 Colleges List & Answer Key PDF | Cutoffs, Fees | CareerWithMohit",
+  description: "Download the complete MHCET MBA 2027 colleges list with cutoffs, fees, and placements. Get the official answer key PDF and expert counseling for JBIMS, SIMSREE, and top Maharashtra MBA institutes.",
+  keywords: [
+    "MHCET MBA colleges list 2027",
+    "MHCET MBA answer key PDF",
+    "MAH MBA CET 2027 cutoffs",
+    "top MBA colleges in Maharashtra",
+    "JBIMS Mumbai admission 2027",
+    "SIMSREE Pune cutoffs",
+    "MHCET MBA counseling support 2027",
+    "mba admission 2027",
+    "pgdm admission 2027",
+  ],
   alternates: {
-    canonical: '/mhcet-mba-colleges-list',
+    canonical: 'https://www.careerwithmohit.online/mhcet-mba-colleges-list',
   },
-    title: "MHCET MBA 2027 Colleges List & Answer Key PDF | Direct Admission",
-    description: "Download the complete MHCET MBA 2027 colleges list with cutoffs, fees, and placements. Get the official answer key PDF and expert counseling for JBIMS, SIMSREE, and top maharashtra MBA institutes.",
-    keywords: [
-        "MHCET MBA colleges list 2027",
-        "MHCET MBA answer key PDF",
-        "MAH MBA CET 2027 cutoffs",
-        "top MBA colleges in Maharashtra",
-        "JBIMS Mumbai admission 2027",
-        "SIMSREE Pune cutoffs",
-        "MHCET MBA counseling support 2027",
-        "mba admission 2027",
-        "pgdm admission 2027",
-    ],
+  openGraph: {
+    title: "MHCET MBA 2027 Colleges List & Answer Key PDF | CareerWithMohit",
+    description: "Download the complete MHCET MBA 2027 colleges directory with cutoffs, fees, and placement reports for JBIMS, SIMSREE, and PUMBA.",
+    url: "https://www.careerwithmohit.online/mhcet-mba-colleges-list",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "MHCET MBA Colleges List" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "MHCET MBA 2027 Colleges List & Cutoffs",
+    description: "Complete MHCET MBA colleges list with cutoffs, fees, and placements.",
+    images: ["/og-image.webp"],
+  },
 };
 
 export default function MhcetCollegesPage() {

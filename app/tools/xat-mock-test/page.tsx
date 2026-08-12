@@ -2,10 +2,11 @@ import { Metadata } from 'next';
 import { XatCbtMockTestClient } from '@/components/XatMockTest/XatCbtMockTestClient';
 import { EXAM_CONFIGS } from '@/lib/mock-test-data';
 import { notFound } from 'next/navigation';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/xat-mock-test',
+    canonical: 'https://www.careerwithmohit.online/tools/xat-mock-test',
   },
   title: 'Free XAT Mock Test 2027 | XLRI Decision Making, VALR, QADI & GK Practice (95 Questions)',
   description: 'Take our free full-length 95-question XAT 2027 mock test with 5-choice options, Decision Making caselets, VALR, QA & DI, and GK. Instant XLRI cutoff prediction and full solutions.',
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     'XAT 95 questions mock test', 'XAT CBT mock test online'
   ],
   openGraph: {
-    title: 'Free XAT Mock Test 2027 | XLRI Jamshedpur Prep',
+    title: 'Free XAT Mock Test 2027 | XLRI Jamshedpur Prep | CareerWithMohit',
     description: 'Take our free full-length 95-question XAT mock test with 5-choice options and Decision Making caselets.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/xat-mock-test',
@@ -34,8 +35,50 @@ export default function DedicatedXatMockTestPage() {
   const config = EXAM_CONFIGS.find(c => c.slug === 'xat');
   if (!config) notFound();
 
+  const softwareSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "XAT 2027 Full CBT Mock Test",
+    "url": "https://www.careerwithmohit.online/tools/xat-mock-test",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "description": "Full-length 95-question online XAT CBT mock test with Decision Making solutions and percentile analytics."
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online",
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests",
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "XAT Mock Test",
+        "item": "https://www.careerwithmohit.online/tools/xat-mock-test",
+      },
+    ],
+  };
+
   return (
     <main className="min-h-screen bg-[#f0f0f0] pt-24 pb-20 px-4 sm:px-8 md:px-12">
+      <JsonLd data={softwareSchema} />
+      <JsonLd data={breadcrumbSchema} />
       <div className="mx-auto max-w-6xl">
         {/* Hero Section */}
         <div className="mb-10 text-center">

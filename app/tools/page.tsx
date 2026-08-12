@@ -4,10 +4,11 @@ import {
   FileText, FileSpreadsheet, Image, Cpu, Calculator, 
   BookOpen, GraduationCap, Briefcase, Zap, Star, ArrowRight 
 } from 'lucide-react';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
-  title: 'Free Online Tools Hub: Converters & Calculators',
-  description: 'Access 20+ free tools: file converters (Word to PDF, PNG to JPG), entrance exam calculators (CAT, XAT, JEE, CUET), college predictors, mock tests and more.',
+  title: 'Free Online Tools Hub: Calculators, Mock Tests & Converters | CareerWithMohit',
+  description: 'Access 20+ free tools: file converters (Word to PDF, PNG to JPG), entrance exam calculators (CAT, XAT, JEE, CUET), college predictors, CBT mock tests and more.',
   keywords: [
     'free tools online', 'file converter', 'cat score calculator', 'jee predictor',
     'career roadmap', 'mock test free', 'word to pdf', 'college predictor',
@@ -15,17 +16,17 @@ export const metadata: Metadata = {
     'mba admission 2027', 'pgdm admission 2027', 'degree admission 2027'
   ],
   alternates: {
-    canonical: '/tools',
+    canonical: 'https://www.careerwithmohit.online/tools',
   },
   openGraph: {
-    title: 'Free Online Tools Hub: Converters & Calculators',
-    description: 'Access 20+ free tools: file converters, exam calculators, and college predictors.',
+    title: 'Free Online Tools Hub: Converters & Calculators | CareerWithMohit',
+    description: 'Access 20+ free tools: file converters, exam calculators, CBT mock tests, and college predictors.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools',
     siteName: 'CareerWithMohit',
     images: [
       {
-        url: 'https://www.careerwithmohit.online/og-image.webp',
+        url: '/og-image.webp',
         width: 1200,
         height: 630,
         alt: 'Free Online Tools Hub - CareerWithMohit',
@@ -36,7 +37,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Free Online Tools Hub: Converters & Calculators',
     description: 'Access 20+ free tools: file converters, exam calculators, and college predictors.',
-    images: ['https://www.careerwithmohit.online/og-image.webp'],
+    images: ['/og-image.webp'],
   },
 };
 
@@ -125,8 +126,37 @@ const TOOL_CATEGORIES = [
 ];
 
 export default function ToolsHubPage() {
+  const collectionSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Free Higher Education Tools and Calculators Hub",
+    "description": "20+ free online educational calculators, CBT mock test platforms, and file utilities.",
+    "url": "https://www.careerwithmohit.online/tools"
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online",
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tools",
+        "item": "https://www.careerwithmohit.online/tools",
+      },
+    ],
+  };
+
   return (
     <div className="bg-background">
+      <JsonLd data={collectionSchema} />
+      <JsonLd data={breadcrumbSchema} />
 
       {/* Hero Section */}
       <div className="bg-foreground text-white relative overflow-hidden">

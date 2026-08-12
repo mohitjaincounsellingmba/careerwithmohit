@@ -2,10 +2,11 @@ import type { Metadata } from 'next';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { Award, GraduationCap, Globe2, HeartHandshake, BookOpen, HandCoins, Building2, Landmark, MoveRight, ArrowUpRight } from 'lucide-react';
 import Link from 'next/link';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
-  title: 'Top Scholarships 2027: National & Global Funding',
-  description: 'Explore the complete list of 2027 scholarships for Indian students. Find merit-based, means-based, MBA, PGDM, engineering, and study abroad scholarships.',
+  title: 'Top Scholarships 2026-2027: National & Global Funding | CareerWithMohit',
+  description: 'Explore the complete list of 2026-2027 scholarships for Indian students. Find merit-based, means-based, MBA, PGDM, engineering, and study abroad scholarships.',
   keywords: [
     'scholarships 2027',
     'mba scholarships 2027 india',
@@ -15,28 +16,29 @@ export const metadata: Metadata = {
     'merit scholarship 2027 indian students',
   ],
   alternates: {
-    canonical: '/scholarships-2026',
+    canonical: 'https://www.careerwithmohit.online/scholarships-2026',
   },
   openGraph: {
-    title: 'Top Scholarships 2027: National & Global Funding',
-    description: 'Explore the complete list of 2027 scholarships for Indian students. Merit-based, means-based, MBA, PGDM, engineering, and study abroad scholarships.',
+    title: 'Top Scholarships 2026-2027: National & Global Funding | CareerWithMohit',
+    description: 'Explore the complete list of scholarships for Indian students: MBA, B.Tech, Medical, and Study Abroad funding.',
     type: 'website',
-    url: '/scholarships-2026',
+    url: 'https://www.careerwithmohit.online/scholarships-2026',
     siteName: 'CareerWithMohit',
+    locale: 'en_IN',
     images: [
       {
-        url: 'https://www.careerwithmohit.online/og-image.webp',
+        url: '/og-image.webp',
         width: 1200,
         height: 630,
-        alt: 'Scholarships 2027 - CareerWithMohit',
+        alt: 'Scholarships 2026-2027 - CareerWithMohit',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Top Scholarships 2027: National & Global Funding',
-    description: 'Complete list of 2027 scholarships for Indian students.',
-    images: ['https://www.careerwithmohit.online/og-image.webp'],
+    title: 'Top Scholarships 2026-2027: National & Global Funding',
+    description: 'Complete list of scholarships for Indian students.',
+    images: ['/og-image.webp'],
   },
 };
 
@@ -151,8 +153,50 @@ const SCHOLARSHIPS = [
 ];
 
 export default function ScholarshipsPage() {
+  const collectionSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Top Indian & International Scholarships 2026-2027",
+    "description": "Complete list of government, corporate, and merit scholarships for Indian students.",
+    "url": "https://www.careerwithmohit.online/scholarships-2026",
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": SCHOLARSHIPS.map((s, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "item": {
+          "@type": "FinancialProduct",
+          "name": s.name,
+          "description": `${s.category} scholarship offering ${s.award} for ${s.eligibility}. Deadline: ${s.deadline}.`,
+          "url": s.applyLink,
+        }
+      }))
+    }
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online",
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Scholarships",
+        "item": "https://www.careerwithmohit.online/scholarships-2026",
+      },
+    ],
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 font-body pb-20">
+      <JsonLd data={collectionSchema} />
+      <JsonLd data={breadcrumbSchema} />
       {/* Hero Section */}
       <div className="bg-foreground text-white border-b-8 border-amber-400 py-16 px-6 relative overflow-hidden">
         <div className="absolute top-0 right-0 p-8 opacity-10">

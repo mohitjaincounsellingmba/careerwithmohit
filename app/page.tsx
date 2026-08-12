@@ -96,7 +96,29 @@ export const metadata: Metadata = {
     "Noida", "Ghaziabad", "Pune", "Mumbai", "Bangalore", "Jaipur", "Delhi NCR"
   ],
   alternates: {
-    canonical: "/",
+    canonical: "https://www.careerwithmohit.online",
+  },
+  openGraph: {
+    title: "Mohit Jain | MBA & PGDM Admissions & Career Counselling Expert 2027",
+    description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA 2027, PGDM 2027, B.Tech, and degree admissions coaching.",
+    url: "https://www.careerwithmohit.online",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [
+      {
+        url: "/og-image.webp",
+        width: 1200,
+        height: 630,
+        alt: "Mohit Jain Career Counselling & MBA Admissions",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Mohit Jain | MBA & PGDM Admissions Expert 2027",
+    description: "Expert career guidance and MBA / PGDM admissions consulting for top-tier B-schools.",
+    images: ["/og-image.webp"],
   },
 };
 

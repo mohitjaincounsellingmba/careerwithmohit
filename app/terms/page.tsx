@@ -1,16 +1,41 @@
 import type { Metadata } from 'next';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   title: "Terms and Conditions | CareerWithMohit",
   description: "Read the terms and conditions for using CareerWithMohit's career counselling and consulting services.",
   alternates: {
-    canonical: "/terms",
+    canonical: "https://www.careerwithmohit.online/terms",
+  },
+  openGraph: {
+    title: "Terms and Conditions | CareerWithMohit",
+    description: "Terms and conditions for CareerWithMohit counselling and admissions guidance services.",
+    url: "https://www.careerwithmohit.online/terms",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "Terms and Conditions" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Terms and Conditions | CareerWithMohit",
+    description: "Terms and conditions for CareerWithMohit services.",
+    images: ["/og-image.webp"],
   },
 };
 
 export default function TermsAndConditions() {
+  const pageSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Terms and Conditions - CareerWithMohit",
+    "url": "https://www.careerwithmohit.online/terms",
+    "description": "Terms of service and user agreements for CareerWithMohit."
+  };
+
   return (
     <div className="w-full bg-muted min-h-screen px-6 py-24 sm:px-12 sm:py-32 border-t-8 border-foreground">
+      <JsonLd data={pageSchema} />
       <div className="mx-auto max-w-4xl bg-white border-8 border-foreground rounded-2xl shadow-[20px_20px_0px_0px_rgba(0,0,0,1)] p-8 sm:p-16">
         <h1 className="font-display text-5xl font-black uppercase tracking-tighter text-foreground sm:text-7xl mb-12 border-b-8 border-foreground pb-8">
           Terms <span className="bg-primary text-white px-4 py-1 -rotate-2 inline-block border-4 border-foreground">& Conditions</span>

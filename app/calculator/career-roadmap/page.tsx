@@ -5,12 +5,27 @@ import { JsonLd } from "@/components/JsonLd";
 import { Map, Sparkles, Users, BookOpen } from "lucide-react";
 
 export const metadata: Metadata = {
+  title: "Career Roadmap Calculator 2026-2027 | MBA & BTech Specializations | CareerWithMohit",
+  description: "Get your personalized career roadmap for MBA or BTech specializations. Find required skills, top certifications, leading companies, and salary packages for Finance, CS, HR, Marketing, and more.",
+  keywords: ["career roadmap MBA", "BTech career roadmap", "MBA specialization guide", "career after MBA finance", "career after BTech CSE", "skills for finance MBA", "certifications for MBA", "top companies MBA placements"],
   alternates: {
-    canonical: '/calculator/career-roadmap',
+    canonical: 'https://www.careerwithmohit.online/calculator/career-roadmap',
   },
-    title: "Career Roadmap Calculator 2026 | MBA & BTech Skills, Certifications & Companies",
-    description: "Get your personalized career roadmap for MBA or BTech specializations. Find required skills, top certifications, leading companies, and salary packages for Finance, CS, HR, Marketing, and more.",
-    keywords: ["career roadmap MBA", "BTech career roadmap", "MBA specialization guide", "career after MBA finance", "career after BTech CSE", "skills for finance MBA", "certifications for MBA", "top companies MBA placements"],
+  openGraph: {
+    title: "Career Roadmap Calculator | CareerWithMohit",
+    description: "Personalized career roadmap generator for MBA and B.Tech specializations: required skills, top recruiters, and salary benchmarks.",
+    url: "https://www.careerwithmohit.online/calculator/career-roadmap",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "Career Roadmap Calculator" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Career Roadmap Calculator | CareerWithMohit",
+    description: "Personalized career roadmap generator for MBA and B.Tech specializations.",
+    images: ["/og-image.webp"],
+  },
 };
 
 export default function CareerRoadmapPage() {
@@ -45,9 +60,24 @@ export default function CareerRoadmapPage() {
         ]
     };
 
+    const softwareSchema = {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Career Roadmap & Salary Calculator",
+        "url": "https://www.careerwithmohit.online/calculator/career-roadmap",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "All",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "INR"
+        }
+    };
+
     return (
         <div className="min-h-screen bg-slate-50 font-body">
             <JsonLd data={faqSchema} />
+            <JsonLd data={softwareSchema} />
 
             {/* Hero */}
             <div className="bg-white border-b-8 border-foreground py-16 px-6">
@@ -58,48 +88,57 @@ export default function CareerRoadmapPage() {
                             Build Your <br />
                             <span className="text-primary underline decoration-[12px] underline-offset-8">Career</span> Roadmap.
                         </h1>
-                        <p className="text-xl md:text-2xl font-bold text-slate-600 leading-tight border-l-[12px] border-primary pl-8">
-                            Select your program and specialization. Get a personalized guide to skills,
-                            certifications, top companies, and salaries — instantly.
+                        <p className="text-xl md:text-2xl font-bold text-gray-700 leading-relaxed mb-6">
+                            Choose your degree and specialization — instantly get the essential skills, must-have certifications, top hiring companies, and real salary expectations.
                         </p>
+                        <div className="flex flex-wrap gap-4 text-sm font-black uppercase">
+                            <span className="bg-emerald-100 text-emerald-800 border-2 border-foreground px-4 py-1.5 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+                                MBA Specializations
+                            </span>
+                            <span className="bg-blue-100 text-blue-800 border-2 border-foreground px-4 py-1.5 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+                                B.Tech Branches
+                            </span>
+                            <span className="bg-purple-100 text-purple-800 border-2 border-foreground px-4 py-1.5 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+                                Salary Benchmarks 2026-2027
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            {/* Calculator */}
-            <div className="max-w-7xl mx-auto px-6 py-20">
+            {/* Interactive Section */}
+            <div className="py-16 px-6">
                 <CareerRoadmapCalculator />
+            </div>
 
-                {/* Why use this */}
-                <div className="mt-32 grid grid-cols-1 md:grid-cols-4 gap-8">
-                    {[
-                        { icon: <Map className="w-10 h-10 text-primary mb-4" />, title: "Clear Roadmap", desc: "Step-by-step path for your chosen specialization — no guesswork." },
-                        { icon: <Sparkles className="w-10 h-10 text-amber-500 mb-4" />, title: "Cert Guidance", desc: "Know exactly which certifications will boost your profile and hirability." },
-                        { icon: <Users className="w-10 h-10 text-blue-600 mb-4" />, title: "Top Companies", desc: "Discover which companies recruit from your specialization and sector." },
-                        { icon: <BookOpen className="w-10 h-10 text-green-600 mb-4" />, title: "Salary Intel", desc: "Get realistic salary benchmarks for each role in your career path." },
-                    ].map(item => (
-                        <div key={item.title} className="p-8 border-4 border-foreground bg-white shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-                            {item.icon}
-                            <h4 className="text-lg font-black uppercase mb-3">{item.title}</h4>
-                            <p className="font-bold text-slate-600 text-sm leading-relaxed">{item.desc}</p>
+            {/* Educational Info Section */}
+            <div className="bg-white border-t-8 border-foreground py-20 px-6">
+                <div className="max-w-7xl mx-auto">
+                    <h2 className="text-4xl font-black uppercase tracking-tight mb-12 text-center">
+                        Why You Need a Structured Career Roadmap
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                        <div className="border-4 border-foreground p-8 bg-amber-50 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+                            <Sparkles className="w-10 h-10 text-primary mb-4" />
+                            <h3 className="text-2xl font-black uppercase mb-3">Skill Clarity</h3>
+                            <p className="font-bold text-gray-700 leading-relaxed">
+                                Don&apos;t wait for placements to figure out what employers want. Start building key industry skills from semester 1.
+                            </p>
                         </div>
-                    ))}
-                </div>
-
-                {/* FAQ */}
-                <div className="mt-32 max-w-4xl">
-                    <h3 className="text-4xl font-black uppercase tracking-tight mb-10">Frequently Asked Questions</h3>
-                    <div className="space-y-6">
-                        {[
-                            { q: "Which MBA specialization is best for me?", a: "It depends on your interests and strengths. Finance is best for number-oriented students aiming for investment banking. Marketing is ideal if you love brand storytelling. Analytics suits tech-savvy problem solvers. Use our calculator to explore all options." },
-                            { q: "Is a B.Tech in CSE better than ECE?", a: "Both have excellent career prospects. CSE is better for software, AI, and product roles at tech giants. ECE is ideal for VLSI, embedded systems, semiconductor, and telecom roles, often offering international opportunities." },
-                            { q: "Do I need certifications alongside my MBA/BTech degree?", a: "Yes — certifications significantly boost your employability. For MBA Finance, CFA or FMVA is gold. For BTech CSE, AWS or Google Cloud certifications can double your package. Our roadmap highlights the most impactful ones for each path." },
-                        ].map(faq => (
-                            <div key={faq.q} className="bg-white border-4 border-foreground p-8">
-                                <h5 className="text-lg font-black uppercase mb-3">{faq.q}</h5>
-                                <p className="font-bold text-slate-600 leading-relaxed text-sm">{faq.a}</p>
-                            </div>
-                        ))}
+                        <div className="border-4 border-foreground p-8 bg-blue-50 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+                            <BookOpen className="w-10 h-10 text-secondary mb-4" />
+                            <h3 className="text-2xl font-black uppercase mb-3">Right Certifications</h3>
+                            <p className="font-bold text-gray-700 leading-relaxed">
+                                Know exactly which certifications (CFA, AWS, Google Ads, Six Sigma) carry weight in your chosen field before spending money.
+                            </p>
+                        </div>
+                        <div className="border-4 border-foreground p-8 bg-emerald-50 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
+                            <Users className="w-10 h-10 text-emerald-600 mb-4" />
+                            <h3 className="text-2xl font-black uppercase mb-3">Company Targeting</h3>
+                            <p className="font-bold text-gray-700 leading-relaxed">
+                                Target the right tier-1 and tier-2 companies aligned with your specialization, with realistic CTC benchmarks.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

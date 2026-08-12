@@ -1,18 +1,49 @@
 import { CertificationCalculator } from "@/components/CertificationCalculator";
 import { Metadata } from "next";
+import { JsonLd } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
-  alternates: {
-    canonical: '/calculator/certification',
-  },
-  title: "Certification Calculator | Find Your Best Upskilling Path",
+  title: "Certification Calculator 2026-2027 | Best Upskilling Paths for MBA & B.Tech | CareerWithMohit",
   description: "Select your specialization and find the top certifications like CFA, Digital Marketing, AWS, VLSI, and Lean Six Sigma with detailed Pros, Cons, and ROI analysis.",
-  keywords: ["mba certifications", "btech certifications", "aws certified solutions architect", "vlsi certification", "cfa vs frm", "civil engineering software", "solidworks certification"]
+  keywords: ["mba certifications", "btech certifications", "aws certified solutions architect", "vlsi certification", "cfa vs frm", "civil engineering software", "solidworks certification"],
+  alternates: {
+    canonical: 'https://www.careerwithmohit.online/calculator/certification',
+  },
+  openGraph: {
+    title: "Certification Calculator | CareerWithMohit",
+    description: "Discover the best certifications for MBA and B.Tech specializations: CFA, AWS, Six Sigma, Digital Marketing, and VLSI.",
+    url: "https://www.careerwithmohit.online/calculator/certification",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "Certification Calculator" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Certification Calculator | CareerWithMohit",
+    description: "Discover the best certifications for MBA and B.Tech specializations.",
+    images: ["/og-image.webp"],
+  },
 };
 
 export default function CertificationCalculatorPage() {
+  const softwareSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Professional Certification ROI Calculator",
+    "url": "https://www.careerwithmohit.online/calculator/certification",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    }
+  };
+
   return (
     <main className="min-h-screen bg-slate-50 py-20 px-4">
+      <JsonLd data={softwareSchema} />
       <div className="max-w-7xl mx-auto mb-16 text-center">
         <h1 className="text-4xl md:text-6xl font-black uppercase tracking-tighter mb-4 text-foreground">
           Certification <span className="text-primary underline">Calculator</span>
@@ -27,7 +58,7 @@ export default function CertificationCalculatorPage() {
       <section className="max-w-4xl mx-auto mt-24 prose prose-slate">
         <h2 className="text-2xl font-black uppercase italic border-l-8 border-primary pl-4 mb-6">Why Certifications Matter?</h2>
         <p className="font-medium text-slate-600 leading-relaxed">
-          In a competitive job market, a degree provides the foundation, but certifications provide the specialized edge. Whether you're targeting Investment Banking, Cloud Architecture, or VLSI Design, having a globally recognized credential validates your skills to top recruiters.
+          In a competitive job market, a degree provides the foundation, but certifications provide the specialized edge. Whether you&apos;re targeting Investment Banking, Cloud Architecture, or VLSI Design, having a globally recognized credential validates your skills to top recruiters.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-10">
             <div className="bg-white border-4 border-foreground p-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">

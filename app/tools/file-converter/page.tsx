@@ -1,5 +1,6 @@
 import FileConverter from '@/components/FileConverter';
 import type { Metadata } from 'next';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   title: 'Free Online File Converter – Word to PDF, PNG to JPG, JSON to CSV | CareerWithMohit',
@@ -9,20 +10,45 @@ export const metadata: Metadata = {
     'json to csv', 'txt to pdf', 'online converter free', 'document converter',
     'image converter online free', 'secure file conversion', 'no upload converter'
   ],
+  alternates: {
+    canonical: 'https://www.careerwithmohit.online/tools/file-converter',
+  },
   openGraph: {
     title: 'Free Online File Converter | CareerWithMohit',
     description: 'Convert Word, PDF, PNG, JPG, JSON and TXT files instantly — 100% free & private. Files never leave your device.',
     url: 'https://www.careerwithmohit.online/tools/file-converter',
+    siteName: 'CareerWithMohit',
     type: 'website',
+    locale: 'en_IN',
+    images: [{ url: '/og-image.webp', width: 1200, height: 630, alt: 'Free Online File Converter' }],
   },
-  alternates: {
-    canonical: '/tools/file-converter',
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free Online File Converter | CareerWithMohit',
+    description: 'Convert Word, PDF, PNG, JPG, JSON and TXT files instantly in your browser.',
+    images: ['/og-image.webp'],
   },
 };
 
 export default function FileConverterPage() {
+  const softwareSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Free Online Client-Side File Converter",
+    "url": "https://www.careerwithmohit.online/tools/file-converter",
+    "applicationCategory": "UtilitiesApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "description": "Client-side private file converter supporting Word to PDF, image conversion, and data format transforms."
+  };
+
   return (
     <section className="py-12 md:py-20 bg-background">
+      <JsonLd data={softwareSchema} />
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 mb-10">
         <div className="text-center mb-10">
           <span className="inline-block text-[10px] font-black uppercase tracking-[0.25em] border-2 border-foreground px-3 py-1 bg-accent text-white mb-4">

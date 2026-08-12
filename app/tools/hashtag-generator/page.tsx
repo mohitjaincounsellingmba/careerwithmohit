@@ -4,11 +4,26 @@ import { Hash, Zap, Globe, Target, Share2, TrendingUp, HelpCircle } from 'lucide
 import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
-  title: "Trending Social Media Hashtag Generator 2026 | YouTube, LinkedIn, Instagram",
+  title: "Trending Social Media Hashtag Generator 2026-2027 | YouTube, LinkedIn, Instagram | CareerWithMohit",
   description: "Boost your reach with our AI-powered Hashtag Generator. Specialized trending hashtags for YouTube, LinkedIn, Instagram, and Facebook in the Education and Career niche.",
   keywords: ["hashtag generator 2026", "trending hashtags education", "youtube tags generator", "linkedin hashtags for careers", "instagram hashtags for students", "reach 10x audience"],
   alternates: {
-    canonical: "/tools/hashtag-generator",
+    canonical: "https://www.careerwithmohit.online/tools/hashtag-generator",
+  },
+  openGraph: {
+    title: "Trending Social Media Hashtag Generator | CareerWithMohit",
+    description: "Generate viral hashtags for YouTube, LinkedIn, Instagram, and Career posts with one click.",
+    url: "https://www.careerwithmohit.online/tools/hashtag-generator",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "Social Media Hashtag Generator" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Trending Social Media Hashtag Generator | CareerWithMohit",
+    description: "Generate viral hashtags for YouTube, LinkedIn, and Instagram.",
+    images: ["/og-image.webp"],
   },
 };
 
@@ -36,9 +51,24 @@ export default function HashtagGeneratorPage() {
     ]
   };
 
+  const softwareSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Trending Social Media Hashtag Generator",
+    "url": "https://www.careerwithmohit.online/tools/hashtag-generator",
+    "applicationCategory": "UtilitiesApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    }
+  };
+
   return (
     <main className="min-h-screen bg-slate-50 pb-24 overflow-hidden">
       <JsonLd data={faqSchema} />
+      <JsonLd data={softwareSchema} />
       
       {/* HERO SECTION */}
       <section className="relative bg-primary py-24 px-6 sm:px-12 border-b-8 border-foreground">
@@ -59,60 +89,47 @@ export default function HashtagGeneratorPage() {
             Reach <span className="bg-accent text-foreground px-4 -rotate-1 inline-block border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,0.2)]">10X</span> <br />
             Audience
           </h1>
-          <p className="mx-auto max-w-2xl text-xl font-bold text-blue-50 leading-relaxed italic">
-            Generate high-conversion hashtags for YouTube, LinkedIn, and Instagram in seconds. Dominate the algorithm with curated trends.
+          <p className="max-w-2xl mx-auto text-xl font-bold text-white/90 leading-tight mb-8">
+            Generate high-conversion, algorithm-tested hashtags for LinkedIn, Instagram, and YouTube. Dominate your niche in seconds.
           </p>
         </div>
       </section>
 
-      {/* TOOL SECTION */}
-      <section className="px-6 -mt-16 relative z-30">
-        <HashtagGenerator />
-      </section>
+      {/* GENERATOR INTERFACE */}
+      <div className="max-w-5xl mx-auto px-6 -mt-10 relative z-20">
+        <div className="bg-white border-4 border-foreground shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] p-8 sm:p-12">
+            <HashtagGenerator />
+        </div>
+      </div>
 
-      {/* STRATEGY SECTION */}
-      <section className="max-w-7xl mx-auto px-6 py-24 grid grid-cols-1 md:grid-cols-3 gap-12">
-        <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-2 transition-transform">
-            <Globe className="w-12 h-12 text-primary mb-6" />
-            <h3 className="text-2xl font-black uppercase mb-4 tracking-tight">Global Reach</h3>
-            <p className="text-gray-600 font-bold leading-relaxed">Our generator analyzes global educational trends to ensure your content reaches the right aspirants worldwide.</p>
+      {/* EDUCATIONAL / WHY USE SECTION */}
+      <section className="max-w-7xl mx-auto px-6 sm:px-12 mt-24">
+        <div className="text-center mb-16">
+            <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tighter text-foreground mb-4">
+                Why Hashtags <span className="text-primary underline decoration-accent decoration-8">Matter</span>
+            </h2>
+            <p className="text-gray-600 font-bold max-w-xl mx-auto text-lg">
+                Stop guessing. Start ranking on Explore pages, LinkedIn Feeds, and YouTube Search.
+            </p>
         </div>
-        <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(37,99,235,1)] hover:-translate-y-2 transition-transform">
-            <Target className="w-12 h-12 text-blue-600 mb-6" />
-            <h3 className="text-2xl font-black uppercase mb-4 tracking-tight">Platform Optimized</h3>
-            <p className="text-gray-600 font-bold leading-relaxed">Get specific formatting for every platform. Comma-separated for YouTube, space-separated for Instagram.</p>
-        </div>
-        <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(244,63,94,1)] hover:-translate-y-2 transition-transform">
-            <TrendingUp className="w-12 h-12 text-rose-500 mb-6" />
-            <h3 className="text-2xl font-black uppercase mb-4 tracking-tight">Niche Focused</h3>
-            <p className="text-gray-600 font-bold leading-relaxed">Specially tuned for MBA, Engineering, and Career Counseling keywords to maximize lead conversion.</p>
-        </div>
-      </section>
 
-      {/* FAQ SECTION */}
-      <section className="max-w-4xl mx-auto px-6 py-12">
-        <div className="flex items-center gap-4 mb-12 border-b-4 border-foreground pb-6">
-            <HelpCircle className="w-8 h-8 text-primary" />
-            <h2 className="text-4xl font-black uppercase tracking-tighter">Everything to Know</h2>
-        </div>
-        <div className="space-y-8">
-            <div className="space-y-3">
-                <h4 className="text-xl font-extrabold text-foreground flex items-center gap-3">
-                    <Share2 className="w-5 h-5 text-primary" />
-                    Why use platform-specific tags?
-                </h4>
-                <p className="text-gray-600 font-bold leading-relaxed pl-8 border-l-4 border-slate-200">
-                    YouTube relies on 'video tags' for SEO, while Instagram uses hashtags for the Explore feed. Our tool detects these nuances and formats content accordingly.
-                </p>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                <Target className="w-12 h-12 text-primary mb-6" />
+                <h3 className="text-2xl font-black uppercase mb-4">Hyper-Targeting</h3>
+                <p className="font-bold text-gray-600 leading-relaxed">Reach students and professionals actively searching for test prep, admissions, and career advice.</p>
             </div>
-            <div className="space-y-3">
-                <h4 className="text-xl font-extrabold text-foreground flex items-center gap-3">
-                    <TrendingUp className="w-5 h-5 text-primary" />
-                    How many hashtags are ideal for LinkedIn?
-                </h4>
-                <p className="text-gray-600 font-bold leading-relaxed pl-8 border-l-4 border-slate-200">
-                    LinkedIn's algorithm favors quality over quantity. Using 3-5 hyper-relevant tags (like #StudyAbroad or #MBAAdmissions) delivers the best organic reach.
-                </p>
+            
+            <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                <TrendingUp className="w-12 h-12 text-secondary mb-6" />
+                <h3 className="text-2xl font-black uppercase mb-4">Algorithm Boost</h3>
+                <p className="font-bold text-gray-600 leading-relaxed">Our curated sets align with 2026 social algorithms favoring contextual relevance over generic spam.</p>
+            </div>
+
+            <div className="bg-white border-4 border-foreground p-8 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                <Share2 className="w-12 h-12 text-accent mb-6" />
+                <h3 className="text-2xl font-black uppercase mb-4">Cross-Platform</h3>
+                <p className="font-bold text-gray-600 leading-relaxed">Optimized formatting ensures clean line breaks and optimal density whether posting to Reels, Shorts, or Posts.</p>
             </div>
         </div>
       </section>

@@ -1,13 +1,29 @@
 import { Briefcase, MapPin, ExternalLink, Calendar, Building2, Search, Clock, ArrowRight, TrendingUp, DollarSign } from 'lucide-react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
-  title: "Premium Job Opportunities 2026 | CareerWithMohit",
-  description: "Explore the latest full-time job opportunities in Tech, Sales, and Marketing. Hand-picked roles with verified referral links for 2026 career growth.",
+  title: "Premium Tech & Business Job Opportunities 2026-2027 | CareerWithMohit",
+  description: "Explore the latest full-time job opportunities in Tech, Sales, and Marketing. Hand-picked roles with verified referral links for 2026-2027 career growth.",
   keywords: ["jobs 2026", "software engineer roles India", "inside sales jobs", "social media strategy jobs", "OptimHire jobs", "career opportunities"],
   alternates: {
-    canonical: "/jobs",
+    canonical: "https://www.careerwithmohit.online/jobs",
+  },
+  openGraph: {
+    title: "Premium Tech & Business Job Opportunities | CareerWithMohit",
+    description: "Verified full-time job listings and direct referral opportunities in Tech, Marketing, and Operations.",
+    url: "https://www.careerwithmohit.online/jobs",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "Jobs Board" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Premium Tech & Business Job Opportunities | CareerWithMohit",
+    description: "Verified full-time job listings and direct referral opportunities in Tech, Marketing, and Operations.",
+    images: ["/og-image.webp"],
   },
 };
 
@@ -181,8 +197,30 @@ const JOBS: Job[] = [
 ];
 
 export default function JobsPage() {
+  const itemListSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Verified Tech and Business Jobs 2026-2027",
+    "itemListElement": JOBS.map((job, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "item": {
+        "@type": "JobPosting",
+        "title": job.title,
+        "hiringOrganization": {
+          "@type": "Organization",
+          "name": job.company,
+        },
+        "jobLocationType": job.location.includes("Remote") ? "TELECOMMUTE" : undefined,
+        "employmentType": job.type === "Full-time" ? "FULL_TIME" : "OTHER",
+        "description": job.description,
+      }
+    }))
+  };
+
   return (
     <div className="w-full bg-[#f4f4f5] min-h-screen selection:bg-indigo-500 selection:text-white">
+      <JsonLd data={itemListSchema} />
       {/* Structural Brutalist Hero */}
       <section className="bg-white border-b-[12px] border-[#18181b] pt-32 pb-24 px-6 relative overflow-hidden">
         {/* Architectural grid background */}

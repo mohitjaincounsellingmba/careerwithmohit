@@ -2,10 +2,11 @@ import { Metadata } from 'next';
 import { GmatCbtMockTestClient } from '@/components/GmatMockTest/GmatCbtMockTestClient';
 import { EXAM_CONFIGS } from '@/lib/mock-test-data';
 import { notFound } from 'next/navigation';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/gmat-mock-test',
+    canonical: 'https://www.careerwithmohit.online/tools/gmat-mock-test',
   },
   title: 'Free GMAT Focus Edition Mock Test 2026/27 | ISB & Global MBA Prep (64 Questions)',
   description: 'Take our free full-length 64-question GMAT Focus Edition mock test in 135 minutes. Quantitative (21), Verbal (23), and Data Insights (20). Instant scaled score predictor (205-805) and full step-by-step solutions.',
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
     'ISB and Harvard MBA preparation online', 'GMAT 64 questions practice paper'
   ],
   openGraph: {
-    title: 'Free GMAT Focus Edition Mock Test 2026/27 | ISB & Global MBA Prep',
+    title: 'Free GMAT Focus Edition Mock Test 2026/27 | ISB & Global MBA Prep | CareerWithMohit',
     description: 'Take our free full-length 64-question GMAT Focus Edition mock test with instant scaled score predictions and detailed solutions.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/tools/gmat-mock-test',
@@ -34,8 +35,50 @@ export default function DedicatedGmatMockTestPage() {
   const config = EXAM_CONFIGS.find(c => c.slug === 'gmat');
   if (!config) notFound();
 
+  const softwareSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "GMAT Focus Edition Full Mock Test",
+    "url": "https://www.careerwithmohit.online/tools/gmat-mock-test",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "description": "Full-length 64-question GMAT Focus Edition CBT mock test with scaled 205-805 score analytics and solutions."
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.careerwithmohit.online",
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Mock Tests",
+        "item": "https://www.careerwithmohit.online/mock-tests",
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "GMAT Mock Test",
+        "item": "https://www.careerwithmohit.online/tools/gmat-mock-test",
+      },
+    ],
+  };
+
   return (
     <main className="min-h-screen bg-[#f8fafc] pt-24 pb-20 px-4 sm:px-8 md:px-12">
+      <JsonLd data={softwareSchema} />
+      <JsonLd data={breadcrumbSchema} />
       <div className="mx-auto max-w-6xl">
         {/* Hero Section */}
         <div className="mb-10 text-center">

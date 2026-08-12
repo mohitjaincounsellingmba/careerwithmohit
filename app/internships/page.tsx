@@ -1,13 +1,29 @@
 import { Briefcase, MapPin, ExternalLink, Calendar, Building2, Search, Clock, ArrowRight, TrendingUp } from 'lucide-react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
-  title: "Latest Finance & Tech Internships 2026 | CareerWithMohit",
-  description: "Explore the latest Work From Home Finance and Tech internships in India for 2026. Curated opportunities in Financial Analysis, IB, SaaS Marketing, and Software Engineering.",
+  title: "Latest Finance & Tech Internships 2026-2027 | Work From Home | CareerWithMohit",
+  description: "Explore the latest Work From Home Finance and Tech internships in India for 2026-2027. Curated opportunities in Financial Analysis, IB, SaaS Marketing, and Software Engineering.",
   keywords: ["finance internships work from home 2026", "tech internships India", "online finance internship India", "WFH internships", "investment banking internship online"],
   alternates: {
-    canonical: "/internships",
+    canonical: "https://www.careerwithmohit.online/internships",
+  },
+  openGraph: {
+    title: "Latest Finance & Tech Internships 2026-2027 | CareerWithMohit",
+    description: "Curated WFH and on-site internships in Finance, Data Analytics, and Software Engineering.",
+    url: "https://www.careerwithmohit.online/internships",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "Internships Hub" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Latest Finance & Tech Internships 2026-2027 | CareerWithMohit",
+    description: "Curated internships in Finance, Data Analytics, and Software Engineering.",
+    images: ["/og-image.webp"],
   },
 };
 
@@ -181,8 +197,30 @@ const INTERNSHIPS: Internship[] = [
 ];
 
 export default function InternshipsPage() {
+  const itemListSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Live Finance and Tech Internships 2026-2027",
+    "itemListElement": INTERNSHIPS.map((internship, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "item": {
+        "@type": "JobPosting",
+        "title": internship.title,
+        "hiringOrganization": {
+          "@type": "Organization",
+          "name": internship.company,
+        },
+        "jobLocationType": internship.location.includes("WFH") || internship.location.includes("Remote") ? "TELECOMMUTE" : undefined,
+        "employmentType": internship.type === "Part Time" ? "PART_TIME" : "FULL_TIME",
+        "description": internship.description,
+      }
+    }))
+  };
+
   return (
     <div className="w-full bg-[#f4f4f5] min-h-screen selection:bg-rose-500 selection:text-white">
+      <JsonLd data={itemListSchema} />
       {/* Structural Brutalist Hero */}
       <section className="bg-white border-b-[12px] border-[#18181b] pt-32 pb-24 px-6 relative overflow-hidden">
         {/* Architectural grid background */}

@@ -693,13 +693,17 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
                 UGC-DEB Comparison Engine
               </span>
 
+              <h1 className="display-font text-3xl md:text-5xl font-black mb-8 text-center max-w-4xl mx-auto">
+                {collegeA.name} <span className="text-indigo-400 italic">vs</span> {collegeB.name}
+              </h1>
+
               <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-center gap-6 md:gap-10">
                 {/* College A Hero Column */}
                 <div className="flex-1">
                   <div className={`inline-block bg-gradient-to-br ${collegeA.gradeColor} rounded-xl px-4 py-2 text-xs font-bold uppercase tracking-wider mb-3`}>
                     NAAC {collegeA.grade}
                   </div>
-                  <h1 className="display-font text-2xl md:text-3xl font-black">{collegeA.name}</h1>
+                  <h2 className="display-font text-2xl md:text-3xl font-black">{collegeA.name}</h2>
                   <p className="text-white/60 text-xs mt-1 font-semibold tracking-wide uppercase"><MapPin size={12} className="inline mr-1" />{collegeA.location}</p>
                 </div>
 

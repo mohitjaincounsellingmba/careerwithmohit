@@ -17,7 +17,22 @@ export const metadata = {
     "degree admission 2027"
   ],
   alternates: {
-    canonical: "/inquiry",
+    canonical: "https://www.careerwithmohit.online/inquiry",
+  },
+  openGraph: {
+    title: "Contact Mohit Jain | Free Career & Admission Guidance | CareerWithMohit",
+    description: "Get 1-on-1 career counselling, profile evaluation, and MBA admission mentoring from Mohit Jain.",
+    url: "https://www.careerwithmohit.online/inquiry",
+    siteName: "CareerWithMohit",
+    type: "website",
+    locale: "en_IN",
+    images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "Contact CareerWithMohit" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Contact Mohit Jain | Free Career & Admission Guidance",
+    description: "Get 1-on-1 career counselling and MBA admission mentoring.",
+    images: ["/og-image.webp"],
   },
 };
 

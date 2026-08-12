@@ -98,9 +98,38 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
         };
     }
 
+    const title = `${exam.name} Previous Year Question Papers PDF & Solutions | CareerWithMohit`;
+    const description = `${exam.description} Practice with official PDF downloads, topic-wise answer keys, and exam analysis.`;
+    const url = `https://www.careerwithmohit.online/resources/${examKey}`;
+
     return {
-        title: `${exam.name} Previous Year Question Papers PDF | CareerWithMohit`,
-        description: `${exam.description} Practice with high-resolution PDFs, topic-wise solutions, and get free expert guidance.`,
+        title,
+        description,
+        alternates: {
+            canonical: url,
+        },
+        openGraph: {
+            title,
+            description,
+            url,
+            siteName: "CareerWithMohit",
+            type: "website",
+            locale: "en_IN",
+            images: [
+                {
+                    url: "/og-image.webp",
+                    width: 1200,
+                    height: 630,
+                    alt: `${exam.name} Previous Year Question Papers`,
+                },
+            ],
+        },
+        twitter: {
+            card: "summary_large_image",
+            title,
+            description,
+            images: ["/og-image.webp"],
+        },
     };
 }
 
@@ -113,5 +142,64 @@ export default async function ResourcePage({ params }: PageProps) {
         notFound();
     }
 
-    return <ResourceClient exam={exam} examKey={examKey} />;
+    const learningResourceSchema = {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": `${exam.name} Question Papers and Solutions`,
+        "description": exam.description,
+        "url": `https://www.careerwithmohit.online/resources/${examKey}`,
+        "mainEntity": {
+            "@type": "ItemList",
+            "itemListElement": exam.papers.map((paper, index) => ({
+                "@type": "ListItem",
+                "position": index + 1,
+                "item": {
+                    "@type": "LearningResource",
+                    "name": paper.title,
+                    "educationalLevel": "Postgraduate Entrance Exam",
+                    "learningResourceType": "Question Paper / Practice Exam",
+                    "url": paper.url.startsWith("http") ? paper.url : `https://www.careerwithmohit.online${paper.url}`,
+                }
+            }))
+        }
+    };
+
+    const breadcrumbSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.careerwithmohit.online",
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Previous Year Papers",
+                "item": "https://www.careerwithmohit.online/previous-year-papers",
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": exam.name,
+                "item": `https://www.careerwithmohit.online/resources/${examKey}`,
+            },
+        ],
+    };
+
+    return (
+        <>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(learningResourceSchema) }}
+            />
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+            />
+            <ResourceClient exam={exam} examKey={examKey} />
+        </>
+    );
 }

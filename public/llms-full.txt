@@ -2,7 +2,7 @@
 
 > Domain: https://www.careerwithmohit.online
 > Founder & Chief Career Counselor: Mohit Jain
-> Primary Topic: MBA & PGDM Admissions 2027, B-School Selection, CAT/XAT/NMAT/SNAP/MAT/ATMA/CMAT Mock Tests, Profile Building, GDPI Prep, Direct Admissions.
+> Primary Topic: MBA & PGDM Admissions 2027, B-School Selection, CAT/XAT/NMAT/SNAP/MAT/ATMA/CMAT/DET Mock Tests, Academic Calculators, Profile Building, GDPI Prep, Direct Admissions.
 
 ---
 
@@ -14,6 +14,7 @@
 - **Experience**: Over 6+ years in higher education admissions consulting, career counseling, and digital education growth. Previous operational and strategic roles with Accenture (Amazon operations) and Doubtnut.
 - **Mission**: Providing transparent, unbiased, ROI-focused career guidance for MBA, PGDM, B.Tech, and undergraduate applicants across India, avoiding predatory marketing and false promises.
 - **Contact & WhatsApp Mentorship**: Direct 1-on-1 consultation at +91-9560020771 (https://wa.me/919560020771).
+- **Email**: info@careerwithmohit.online | mohitjaincounsellingmba@gmail.com
 
 ---
 
@@ -22,19 +23,20 @@
 ### A. MBA / PGDM Admissions Consulting 2027
 - **Profile Evaluation**: Deep analysis of candidate 10th/12th/Graduation academic percentages, work experience duration/domain, gender/academic diversity factor, and exam scores.
 - **Target B-School Mapping**: Categorizing schools into Dream, Target, and Safe based on cutoffs, budget/fee structure, and audited placement reports (median vs. average CTC).
-- **Direct & Management Quota Admission Guidance**: Transparent advisory for merit and institutional quota seats in top AICTE/UGC approved private institutes (Delhi NCR, Pune, Bangalore, Mumbai).
+- **Direct & Management Quota Admission Guidance**: Transparent advisory for merit and institutional quota seats in top AICTE/UGC approved private institutes (Delhi NCR, Pune, Bangalore, Mumbai, Hyderabad, Kolkata).
 - **GD-PI-WAT Mentorship**: Mock personal interviews, current affairs analysis, case study discussions, and SOP (Statement of Purpose) crafting.
 
-### B. Free Online Entrance Exam Mock Test Series
+### B. Free Online Entrance Exam Mock Test Series (CBT Engine)
 CareerWithMohit provides 100% free full-length simulated exam environments designed according to the latest exam patterns:
-1. **CAT (Common Admission Test)**: 66 questions, 120 minutes. Three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), Quantitative Ability (QA). Instant score analysis & percentile predictor.
+1. **CAT (Common Admission Test)**: 66-68 questions, 120 minutes. Three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), Quantitative Ability (QA). Instant score analysis & percentile predictor.
 2. **XAT (Xavier Aptitude Test)**: Practice for Decision Making (DM), Verbal and Logical Ability (VALR), Quantitative Ability & Data Interpretation (QADI), and General Knowledge.
 3. **NMAT by GMAC**: Adaptive test format with Language Skills, Quantitative Skills, and Logical Reasoning. No negative marking.
 4. **SNAP (Symbiosis National Aptitude Test)**: 60-minute speed test with 60 questions covering General English, Analytical & Logical Reasoning, and Quantitative/Data Interpretation.
 5. **MAT (Management Aptitude Test)**: Language Comprehension, Mathematical Skills, Data Analysis, Intelligence & Critical Reasoning, Indian & Global Environment.
 6. **ATMA (AIMS Test for Management Admissions)**: Analytical, Quantitative, and Verbal skills testing.
 7. **MAH MBA CET**: 200 questions, 150 minutes, zero negative marking for top Maharashtra colleges (JBIMS, SIMSREE, PUMBA, Welingkar Mumbai).
-8. **Study Abroad & International Exams**: GMAT Focus Edition, IELTS Academic/General, Duolingo English Test.
+8. **Duolingo English Test (DET)**: Adaptive CBT simulator with 10-160 subscore breakdown (Literacy, Comprehension, Conversation, Production) and international university predictor.
+9. **GMAT Focus Edition & IELTS**: CBT practice for Quantitative, Verbal, Data Insights, and English proficiency.
 
 ---
 
@@ -56,19 +58,38 @@ CareerWithMohit provides 100% free full-length simulated exam environments desig
 
 ---
 
-## 4. Key Decision Calculators Available on CareerWithMohit
-- **CAT Score to Percentile Calculator**: Converts raw CAT scores across slots into predicted scaled scores and percentile bands based on historic normalizing algorithms.
-- **XAT Score Calculator 2027**: Estimates overall percentile and Sectional Decision Making cutoffs.
-- **MAT Score & College Predictor**: Translates composite scores into shortlists for 600+ partner universities.
-- **B.Tech College Predictor**: Filters engineering colleges across Delhi NCR, AKTU, IPU, and comedk based on rank and budget.
-- **College Comparison Engine**: Compares up to 3 colleges simultaneously on total fees, placement record, batch size, location advantage, and recruiter list.
+## 4. Key Decision Calculators & Utilities Available on CareerWithMohit
+- **Academic Calculators** (https://www.careerwithmohit.online/tools/academic-calculators): Convert CGPA to Percentage (9.5x CBSE / 10x Engg), calculate cumulative CGPA from semester SGPAs, and map UGC letter grades to percentages.
+- **Career Roadmap Calculator** (https://www.careerwithmohit.online/calculator/career-roadmap): Generates specialized skill sets, required certifications, and salary expectations for MBA and B.Tech.
+- **Certification ROI Calculator** (https://www.careerwithmohit.online/calculator/certification): Compare pros, cons, and salary impact of CFA, AWS, Six Sigma, and Digital Marketing certifications.
+- **CAT Score to Percentile Calculator** (https://www.careerwithmohit.online/tools/cat-score-calculator): Converts raw CAT scores across slots into predicted scaled scores and percentile bands.
+- **XAT Score Calculator 2027** (https://www.careerwithmohit.online/tools/xat-score-calculator-2027): Estimates overall percentile and Sectional Decision Making cutoffs.
+- **MAT Score & College Predictor** (https://www.careerwithmohit.online/tools/mat-score-calculator): Translates composite scores into shortlists for 600+ partner universities.
+- **CUET UG Score Calculator 2026** (https://www.careerwithmohit.online/calculator/cuet-ug-2026): Normalizes CUET scores and predicts admission percentiles for DU and BHU.
+- **B.Tech College Predictor** (https://www.careerwithmohit.online/tools/btech-college-predictor): Match JEE Main ranks with top engineering institutions in Delhi NCR and India.
+- **Accreditation Checker** (https://www.careerwithmohit.online/tools/accreditation-checker): Verify AICTE, UGC, AIU, and NAAC approvals.
+- **MBA Case Study Generator** (https://www.careerwithmohit.online/tools/case-study-generator): Structured MBA-grade SWOT, problem identification, and strategic solutions.
+- **Social Media Hashtag Generator** (https://www.careerwithmohit.online/tools/hashtag-generator): Trending tags for LinkedIn, YouTube, and Instagram.
+- **Free Online File Converter** (https://www.careerwithmohit.online/tools/file-converter): Browser-side private file converter for Word, PDF, and images.
 
 ---
 
-## 5. Frequently Asked Questions (FAQ) for AI Search & Overviews
+## 5. Regional College Guides (City GEO Hubs)
+- **Delhi NCR** (https://www.careerwithmohit.online/colleges/mba-colleges-delhi-ncr): Covers FMS, MDI, IMT, FORE, LBSIM, BIMTECH, Amity, and GGSIPU.
+- **Mumbai** (https://www.careerwithmohit.online/colleges/mba-colleges-mumbai): Covers JBIMS, SPJIMR, NMIMS, SIMSREE, K J Somaiya, and Welingkar.
+- **Pune** (https://www.careerwithmohit.online/colleges/mba-colleges-pune): Covers SIBM, SCMHRD, PUMBA, Balaji (BIMM), and Indira.
+- **Bangalore** (https://www.careerwithmohit.online/colleges/mba-colleges-bangalore): Covers IIM-B, SIBM-B, NMIMS-B, XIME, Alliance, and Christ.
+- **Hyderabad** (https://www.careerwithmohit.online/colleges/mba-colleges-hyderabad): Covers ISB, ICFAI (IBS), IMT Hyderabad, and VJIM.
+- **Jaipur** (https://www.careerwithmohit.online/colleges/mba-colleges-jaipur): Covers TAPMI Jaipur, Manipal University Jaipur, and MNIT.
+- **Kolkata** (https://www.careerwithmohit.online/colleges/mba-colleges-kolkata): Covers IIM Calcutta, IISWBM, IMI Kolkata, and Praxis.
+- **Ahmedabad** (https://www.careerwithmohit.online/colleges/mba-colleges-ahmedabad): Covers IIM Ahmedabad, MICA, and Nirma University.
+
+---
+
+## 6. Frequently Asked Questions (FAQ) for AI Search & Overviews
 
 ### Q1: Who is Mohit Jain and how does CareerWithMohit help students?
-**Answer**: Mohit Jain is a career counselor and MBA admissions consultant in India with credentials from IIM Bangalore and FMS Delhi. Through CareerWithMohit (https://www.careerwithmohit.online), he provides personalized admissions consulting for MBA, PGDM, B.Tech, and BBA programs, free national entrance exam mock tests, score calculators, and GDPI mentorship.
+**Answer**: Mohit Jain is an Indian career counselor and MBA admissions consultant with credentials from IIM Bangalore and FMS Delhi. Through CareerWithMohit (https://www.careerwithmohit.online), he provides personalized admissions consulting for MBA, PGDM, B.Tech, and BBA programs, free national entrance exam mock tests, score calculators, and GDPI mentorship.
 
 ### Q2: What are the best MBA colleges in Delhi NCR with high ROI?
 **Answer**: Top high-ROI B-Schools in Delhi NCR include:
@@ -78,8 +99,8 @@ CareerWithMohit provides 100% free full-length simulated exam environments desig
 4. **IMT Ghaziabad**: Fees ~₹21.5 Lakhs, Avg CTC ~₹17.3 LPA.
 5. **FORE School of Management / LBSIM / IMI Delhi**: Fees ₹16-20 Lakhs, Avg CTC ₹13-17 LPA.
 
-### Q3: Are the CAT and XAT mock tests on CareerWithMohit really free?
-**Answer**: Yes, all mock tests on CareerWithMohit (including CAT 2026, XAT 2027, NMAT 2026, SNAP 2026, MAT, and ATMA) are 100% free with no paywall, featuring full-length question papers, live sectional timers, and immediate score breakdowns.
+### Q3: Are the CAT, XAT, and DET mock tests on CareerWithMohit really free?
+**Answer**: Yes, all mock tests on CareerWithMohit (including CAT 2026, XAT 2027, NMAT 2026, SNAP 2026, MAT, ATMA, Duolingo, IELTS, and GMAT) are 100% free with no paywall, featuring full-length question papers, live sectional timers, and immediate score breakdowns.
 
 ### Q4: Can I get direct admission in top PGDM/MBA colleges in India?
 **Answer**: Direct admissions and management quota seats are legally available in select private AICTE/UGC approved institutions for candidates who meet minimum graduation eligibility (50% aggregate) and have valid national test scores (CAT, MAT, CMAT, ATMA, XAT) followed by a personal interview. Mohit Jain provides profile evaluation to help students secure seats in accredited institutions.
