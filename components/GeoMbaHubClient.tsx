@@ -9,6 +9,11 @@ import { CompareDrawer } from "@/components/CompareDrawer";
 import { InquiryForm } from "@/components/InquiryForm";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import {
+  RegionalCollegeInquiryModal,
+  RegionalInquiryTarget
+} from "@/components/RegionalCollegeInquiryModal";
+import { getCollegeDetailUrl } from "@/lib/collegeBlogLinks";
+import {
   Search,
   MapPin,
   GraduationCap,
@@ -50,6 +55,15 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
   const [sortBy, setSortBy] = useState("default");
   const [activeTab, setActiveTab] = useState<"catalog" | "cutoffs" | "roi" | "guide">("catalog");
   const [expandedFaq, setExpandedFaq] = useState<number | null>(0);
+
+  // Specific College Inquiry Modal State
+  const [inquiryTarget, setInquiryTarget] = useState<RegionalInquiryTarget | null>(null);
+  const [isInquiryModalOpen, setIsInquiryModalOpen] = useState(false);
+
+  const handleOpenInquiry = (target: RegionalInquiryTarget) => {
+    setInquiryTarget(target);
+    setIsInquiryModalOpen(true);
+  };
 
   // Compare Toggle
   const handleCompareToggle = (slug: string) => {
@@ -452,7 +466,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                               <Award className="w-3 h-3" />
                               {college.ranking || "AICTE Approved"}
                             </span>
-                            <Link href={`/colleges/${college.slug}`}>
+                            <Link href={getCollegeDetailUrl(college)}>
                               <h3 className="text-base font-bold text-white group-hover:text-amber-400 transition-colors leading-snug line-clamp-2">
                                 {college.name}
                               </h3>
@@ -510,25 +524,31 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                       </div>
 
                       {/* Card Bottom Actions */}
-                      <div className="mt-5 pt-4 border-t border-slate-800/80 flex items-center justify-between gap-2">
+                      <div className="mt-5 pt-4 border-t border-slate-800/80 flex items-center justify-between gap-2.5">
                         <Link
-                          href={`/colleges/${college.slug}`}
-                          className="flex-1 text-center py-2 px-3 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-semibold transition-all border border-slate-700"
+                          href={getCollegeDetailUrl(college)}
+                          className="flex-1 text-center py-2.5 px-3 rounded-xl bg-slate-800/90 hover:bg-slate-700 text-slate-200 hover:text-amber-400 text-xs font-bold transition-all border border-slate-700/80"
                         >
                           View Details
                         </Link>
 
-                        <a
-                          href={`https://wa.me/919560020771?text=Hi%20Mohit,%20I%20want%20to%20apply%20to%20${encodeURIComponent(
-                            college.name
-                          )}%20in%20${encodeURIComponent(hub.cityName)}.%20Please%20guide%20me.`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="py-2 px-3 rounded-xl bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-300 border border-emerald-500/30 text-xs font-semibold transition-all flex items-center gap-1.5"
+                        <button
+                          type="button"
+                          onClick={() =>
+                            handleOpenInquiry({
+                              name: college.name,
+                              slug: college.slug,
+                              location: college.location,
+                              fees: college.fees,
+                              avg_placement: college.avg_placement,
+                              hubCity: hub.cityName,
+                            })
+                          }
+                          className="flex-1 py-2.5 px-3 rounded-xl bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white text-xs font-black transition-all flex items-center justify-center gap-1.5 shadow-md shadow-emerald-900/20 cursor-pointer"
                         >
-                          <MessageCircle className="w-3.5 h-3.5 text-emerald-400" />
+                          <Sparkles className="w-3.5 h-3.5 text-white shrink-0" />
                           Apply
-                        </a>
+                        </button>
                       </div>
                     </div>
                   );
@@ -583,16 +603,22 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                         <td className="py-3.5 px-4 text-slate-300">{item.fee}</td>
                         <td className="py-3.5 px-4 font-bold text-emerald-400">{item.avgPlacement}</td>
                         <td className="py-3.5 px-4 text-right">
-                          <a
-                            href={`https://wa.me/919560020771?text=Hi%20Mohit,%20what%20is%20the%20admission%20process%20for%20${encodeURIComponent(
-                              item.collegeName
-                            )}?`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="inline-flex items-center gap-1 text-xs text-amber-400 hover:text-amber-300 font-semibold"
+                          <button
+                            type="button"
+                            onClick={() =>
+                              handleOpenInquiry({
+                                name: item.collegeName,
+                                slug: item.slug,
+                                location: hub.cityName,
+                                fees: item.fee,
+                                avg_placement: item.avgPlacement,
+                                hubCity: hub.cityName,
+                              })
+                            }
+                            className="inline-flex items-center gap-1 text-xs bg-amber-500 hover:bg-amber-400 text-slate-950 px-3 py-1.5 rounded-lg font-bold transition-all shadow-sm cursor-pointer"
                           >
-                            Check Profile <ArrowRight className="w-3 h-3" />
-                          </a>
+                            Apply <ArrowRight className="w-3 h-3" />
+                          </button>
                         </td>
                       </tr>
                     ))}
@@ -798,6 +824,13 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
         onRemove={handleCompareToggle}
         onClearAll={handleClearAllCompare}
         onCompare={handleCompareNow}
+      />
+
+      {/* ── Specific College Inquiry Modal ───────────────────────────────────── */}
+      <RegionalCollegeInquiryModal
+        target={inquiryTarget}
+        isOpen={isInquiryModalOpen}
+        onClose={() => setIsInquiryModalOpen(false)}
       />
     </div>
   );

@@ -35,6 +35,7 @@ import {
   RegionalCollegeInquiryModal,
   RegionalInquiryTarget
 } from "@/components/RegionalCollegeInquiryModal";
+import { getCollegeDetailUrl } from "@/lib/collegeBlogLinks";
 
 interface RegionAdmissionsClientProps {
   allHubs: GeoMbaHub[];
@@ -658,7 +659,7 @@ export default function MbaPgdmAdmissionsByRegionClient({
                       </div>
 
                       <h3 className="text-lg font-bold text-white hover:text-amber-400 transition-colors line-clamp-1">
-                        <Link href={`/colleges/${college.slug}`}>{college.name}</Link>
+                        <Link href={getCollegeDetailUrl(college)}>{college.name}</Link>
                       </h3>
                       <p className="text-xs text-slate-400 mt-1 flex items-center gap-1">
                         <MapPin className="h-3 w-3 text-slate-500" />
@@ -712,7 +713,7 @@ export default function MbaPgdmAdmissionsByRegionClient({
 
                       <div className="flex items-center justify-between gap-2 pt-0.5">
                         <Link
-                          href={`/colleges/${college.slug}`}
+                          href={getCollegeDetailUrl(college)}
                           className="text-xs font-bold text-amber-400 hover:text-amber-300 inline-flex items-center gap-1"
                         >
                           View Review <ArrowRight className="h-3 w-3" />
