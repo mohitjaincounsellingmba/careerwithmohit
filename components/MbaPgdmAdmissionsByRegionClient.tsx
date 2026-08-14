@@ -54,6 +54,10 @@ export default function MbaPgdmAdmissionsByRegionClient({
   const [expandedFaq, setExpandedFaq] = useState<number | null>(0);
 
   // Compare Toggle
+  const handleRemoveCompare = (slug: string) => {
+    setComparedColleges((prev) => prev.filter((c) => c.slug !== slug));
+  };
+
   const handleCompareToggle = (college: CollegeMetadata) => {
     setComparedColleges((prev) => {
       const exists = prev.some((c) => c.slug === college.slug);
@@ -883,7 +887,7 @@ export default function MbaPgdmAdmissionsByRegionClient({
       {/* Compare Floating Drawer */}
       <CompareDrawer
         comparedColleges={comparedColleges}
-        onRemove={handleCompareToggle}
+        onRemove={handleRemoveCompare}
         onClearAll={handleClearAllCompare}
         onCompareNow={handleCompareNow}
       />
