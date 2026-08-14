@@ -886,10 +886,10 @@ export default function MbaPgdmAdmissionsByRegionClient({
 
       {/* Compare Floating Drawer */}
       <CompareDrawer
-        comparedColleges={comparedColleges}
+        selectedColleges={comparedColleges}
         onRemove={handleRemoveCompare}
         onClearAll={handleClearAllCompare}
-        onCompareNow={handleCompareNow}
+        onCompare={handleCompareNow}
       />
     </div>
   );
