@@ -31,6 +31,10 @@ import {
 import { GEO_MBA_HUBS, GeoMbaHub } from "@/data/geoMbaHubs";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CompareDrawer } from "@/components/CompareDrawer";
+import {
+  RegionalCollegeInquiryModal,
+  RegionalInquiryTarget
+} from "@/components/RegionalCollegeInquiryModal";
 
 interface RegionAdmissionsClientProps {
   allHubs: GeoMbaHub[];
@@ -52,6 +56,15 @@ export default function MbaPgdmAdmissionsByRegionClient({
   const [comparedColleges, setComparedColleges] = useState<CollegeMetadata[]>([]);
   const [activeTab, setActiveTab] = useState<"overview" | "matrix" | "colleges" | "guide">("overview");
   const [expandedFaq, setExpandedFaq] = useState<number | null>(0);
+
+  // College-Specific Inquiry Modal State
+  const [inquiryTarget, setInquiryTarget] = useState<RegionalInquiryTarget | null>(null);
+  const [isInquiryModalOpen, setIsInquiryModalOpen] = useState<boolean>(false);
+
+  const handleOpenInquiry = (target: RegionalInquiryTarget) => {
+    setInquiryTarget(target);
+    setIsInquiryModalOpen(true);
+  };
 
   // Compare Toggle
   const handleRemoveCompare = (slug: string) => {
@@ -360,29 +373,48 @@ export default function MbaPgdmAdmissionsByRegionClient({
                       <div className="space-y-3 mb-6">
                         <div className="text-xs font-bold uppercase tracking-widest text-slate-400 flex items-center justify-between">
                           <span>Key B-Schools in this Hub</span>
-                          <span className="text-[10px] text-slate-500">Cutoff / Fee</span>
+                          <span className="text-[10px] text-slate-500">Cutoff / Apply</span>
                         </div>
                         <div className="space-y-2">
                           {hub.cutoffsTable.slice(0, 4).map((item, idx) => (
                             <div
                               key={idx}
-                              className="flex items-center justify-between gap-3 text-xs bg-slate-950/50 p-2.5 rounded-xl border border-slate-800/60"
+                              className="flex items-center justify-between gap-2 text-xs bg-slate-950/60 p-2.5 rounded-xl border border-slate-800/80 hover:border-amber-500/40 transition-colors"
                             >
-                              <div className="font-semibold text-slate-200 truncate">
-                                {item.slug ? (
-                                  <Link
-                                    href={`/colleges/${item.slug}`}
-                                    className="hover:text-amber-400 transition-colors"
-                                  >
-                                    {item.collegeName.split("(")[0]}
-                                  </Link>
-                                ) : (
-                                  item.collegeName.split("(")[0]
-                                )}
+                              <div className="font-semibold text-slate-200 truncate pr-1">
+                                <button
+                                  type="button"
+                                  onClick={() =>
+                                    handleOpenInquiry({
+                                      name: item.collegeName,
+                                      slug: item.slug,
+                                      location: hub.cityName,
+                                      fees: item.fee,
+                                      hubCity: hub.cityName
+                                    })
+                                  }
+                                  className="hover:text-amber-400 text-left truncate transition-colors cursor-pointer"
+                                >
+                                  {item.collegeName.split("(")[0]}
+                                </button>
                               </div>
                               <div className="flex items-center gap-2 shrink-0">
                                 <span className="text-slate-400 font-mono text-[11px]">{item.cutoff}</span>
-                                <span className="text-emerald-400 font-bold text-[11px]">{item.fee.split(" ")[0]}</span>
+                                <button
+                                  type="button"
+                                  onClick={() =>
+                                    handleOpenInquiry({
+                                      name: item.collegeName,
+                                      slug: item.slug,
+                                      location: hub.cityName,
+                                      fees: item.fee,
+                                      hubCity: hub.cityName
+                                    })
+                                  }
+                                  className="bg-amber-500 hover:bg-amber-400 text-slate-950 text-[10px] font-black px-2.5 py-1 rounded-md shadow-sm transition-all cursor-pointer"
+                                >
+                                  Apply
+                                </button>
                               </div>
                             </div>
                           ))}
@@ -658,25 +690,46 @@ export default function MbaPgdmAdmissionsByRegionClient({
                       </div>
                     </div>
 
-                    {/* Footer Actions */}
-                    <div className="mt-6 pt-3 border-t border-slate-800 flex items-center justify-between gap-2">
-                      <Link
-                        href={`/colleges/${college.slug}`}
-                        className="text-xs font-bold text-amber-400 hover:text-amber-300 inline-flex items-center gap-1"
-                      >
-                        View Review <ArrowRight className="h-3 w-3" />
-                      </Link>
-
+                    {/* Footer Actions & Direct College Inquiry */}
+                    <div className="mt-5 pt-3 border-t border-slate-800 space-y-2.5">
                       <button
-                        onClick={() => handleCompareToggle(college)}
-                        className={`text-xs font-bold px-3 py-1 rounded-lg border transition-all ${
-                          isCompared
-                            ? "bg-indigo-600 text-white border-indigo-500 shadow-sm"
-                            : "bg-slate-950 text-slate-400 border-slate-800 hover:text-white"
-                        }`}
+                        type="button"
+                        onClick={() =>
+                          handleOpenInquiry({
+                            name: college.name,
+                            slug: college.slug,
+                            location: college.location,
+                            fees: college.fees,
+                            avg_placement: college.avg_placement,
+                            hubCity: college.hubCity
+                          })
+                        }
+                        className="w-full bg-gradient-to-r from-amber-500 via-amber-600 to-amber-500 hover:from-amber-400 hover:to-amber-500 text-slate-950 font-black text-xs py-2.5 px-3 rounded-xl shadow-md transition-all flex items-center justify-center gap-1.5 cursor-pointer"
                       >
-                        {isCompared ? "✓ Compared" : "+ Compare"}
+                        <Sparkles size={13} className="text-slate-950 shrink-0" />
+                        <span className="truncate">Apply to {college.name.split("(")[0]} →</span>
                       </button>
+
+                      <div className="flex items-center justify-between gap-2 pt-0.5">
+                        <Link
+                          href={`/colleges/${college.slug}`}
+                          className="text-xs font-bold text-amber-400 hover:text-amber-300 inline-flex items-center gap-1"
+                        >
+                          View Review <ArrowRight className="h-3 w-3" />
+                        </Link>
+
+                        <button
+                          type="button"
+                          onClick={() => handleCompareToggle(college)}
+                          className={`text-xs font-bold px-3 py-1 rounded-lg border transition-all cursor-pointer ${
+                            isCompared
+                              ? "bg-indigo-600 text-white border-indigo-500 shadow-sm"
+                              : "bg-slate-950 text-slate-400 border-slate-800 hover:text-white"
+                          }`}
+                        >
+                          {isCompared ? "✓ Compared" : "+ Compare"}
+                        </button>
+                      </div>
                     </div>
                   </div>
                 );
@@ -890,6 +943,13 @@ export default function MbaPgdmAdmissionsByRegionClient({
         onRemove={handleRemoveCompare}
         onClearAll={handleClearAllCompare}
         onCompare={handleCompareNow}
+      />
+
+      {/* Specific College Inquiry Modal */}
+      <RegionalCollegeInquiryModal
+        target={inquiryTarget}
+        isOpen={isInquiryModalOpen}
+        onClose={() => setIsInquiryModalOpen(false)}
       />
     </div>
   );
