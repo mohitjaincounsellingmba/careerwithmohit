@@ -110,6 +110,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/colleges/mba-colleges-kolkata',
     '/colleges/mba-colleges-ahmedabad',
     '/colleges/mba-colleges-jaipur',
+    '/mba-pgdm-admissions-by-region',
+    '/mba-admissions-by-region',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
@@ -117,7 +119,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority:
       route === ''
         ? 1
-        : route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/sell-your-coaching-online'
+        : route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region' || route === '/sell-your-coaching-online'
         ? 0.95
         : route.includes('/tools/') || route.includes('/calculator/')
         ? 0.9

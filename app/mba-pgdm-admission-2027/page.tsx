@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { BadgeCheck, Phone, ChevronDown, CheckCircle2, MapPin, ArrowRight, Building, Sparkles } from 'lucide-react';
+import { BadgeCheck, Phone, ChevronDown, CheckCircle2, MapPin, ArrowRight, Building, Sparkles, Compass } from 'lucide-react';
 import MbaPgdmClient from '@/components/MbaPgdmClient';
 import MbaPgdmLeadForm from '@/components/MbaPgdmLeadForm';
 import CatExamPapersDashboard from '@/components/CatExamPapersDashboard';
@@ -423,6 +423,17 @@ export default function MbaPgdmAdmission2027Page() {
                   </div>
                 </Link>
               ))}
+            </div>
+
+            {/* Direct CTA to the new Dedicated Region Page */}
+            <div className="mt-12 text-center">
+              <Link
+                href="/mba-pgdm-admissions-by-region"
+                className="inline-flex items-center gap-3 bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 text-slate-950 font-black text-sm md:text-base px-8 py-4 rounded-2xl shadow-xl shadow-amber-500/10 hover:shadow-amber-500/20 transition-all transform hover:-translate-y-0.5"
+              >
+                <Compass size={18} className="text-slate-950" />
+                Explore Dedicated Regional Directory &amp; Comparison Guide (All 8 Hubs) →
+              </Link>
             </div>
           </div>
         </section>
