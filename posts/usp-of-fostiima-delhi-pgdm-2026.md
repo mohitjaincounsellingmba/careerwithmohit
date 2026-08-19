@@ -173,7 +173,7 @@ Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad). FOSTIIMA 
 ---
 
 [👉 Apply to FOSTIIMA — Get Free Guidance](/inquiry)  
-[👉 Compare FOSTIIMA vs NDIM vs FIIB](/blog/ndim-vs-fostiima-pgdm-comparison-2026)  
+[👉 Compare Top MBA Colleges in Delhi](/tools/college-comparison)  
 [👉 Top MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
 
 ---

@@ -286,7 +286,7 @@ At **CareerWithMohit**, we've counselled hundreds of students into NDIM, and the
 
 [👉 Apply to NDIM Delhi — Get Free Admission Guidance](/inquiry)
 
-[👉 Compare NDIM with FOSTIIMA, JIMS, and More](/blog/ndim-vs-fostiima-pgdm-comparison-2026)
+[👉 Compare NDIM with Other Top B-Schools](/tools/college-comparison)
 
 [👉 Explore Top MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
 
