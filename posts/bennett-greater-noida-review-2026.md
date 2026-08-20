@@ -47,7 +47,7 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **Bennett University** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **[Bennett University](/colleges/bennett-greater-noida)** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |

@@ -60,7 +60,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Ramaiah University of Applied Sciences (RUAS), Bangalore |
+| **Full Institutional Name** | [Ramaiah University of Applied Sciences](/colleges/ramaiah-university-of-applied-sciences) (RUAS), Bangalore |
 | **Location & Region** | Bangalore, Bangalore |
 | **University Type & Status** | Private University (Gokula Education Foundation / M.S. Ramaiah Group) |
 | **Established Year** | 2013 |

@@ -103,7 +103,7 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** ONGC, Schlumberger, KPMG, Deloitte, IBM, Microsoft, Amazon, Accenture, Adani, Reliance
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹8.50 LPA - ₹10.20 LPA**, UPES Dehradun provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹8.50 LPA - ₹10.20 LPA**, [UPES Dehradun](/colleges/upes-dehradun) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 

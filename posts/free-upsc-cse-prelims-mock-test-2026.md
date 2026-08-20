@@ -47,6 +47,8 @@ To help you measure your standing, we offer a high-fidelity **[Free UPSC CSE (Pr
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the UPSC CSE Prelims exam?
@@ -58,11 +60,3 @@ UPSC CSAT (GS Paper II) is qualifying in nature. A candidate must score at least
 ### Is there negative marking in UPSC Prelims?
 Yes, there is a negative marking of 1/3rd of the marks assigned to that question. This means -0.66 marks for GS Paper 1 and -0.83 marks for CSAT for each incorrect response.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

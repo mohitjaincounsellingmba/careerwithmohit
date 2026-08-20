@@ -65,18 +65,18 @@ graph LR
     A --> F[IIMK & IIMI: FMCG, Banking & Diversity Hubs]
 ```
 
-### 1. IIM Ahmedabad (IIMA)
+### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad) (IIMA)
 *   **Average Salary**: ₹34.45 LPA | **Median Salary**: ₹31.50 LPA
 *   **IPRS Audited Reporting**: Adhering to the Indian Placement Reporting Standards (IPRS), IIM Ahmedabad maintains complete transparency across domestic base pay and performance incentives.
 *   **Top Recruiters**: McKinsey & Co. (largest recruiter with 18+ offers), Boston Consulting Group (BCG), Bain & Co., Kearney, Strategy&, Goldman Sachs, and Tata Administrative Services (TAS).
 *   **Cluster Placement System**: IIMA conducted placements across three distinct cohorts, ensuring equal recruiter access without interview burnout.
 
-### 2. IIM Bangalore (IIMB)
+### 2. [IIM Bangalore](/colleges/iim-bangalore) (IIMB)
 *   **Average Salary**: ₹34.88 LPA | **Median Salary**: ₹32.00 LPA
 *   **PPO Strength**: Over 220 students secured Pre-Placement Offers (PPOs) via their summer internships at global investment banks and management consulting firms.
 *   **Notable Recruiters**: Accenture Strategy (top recruiter), Bain & Company, Oliver Wyman, Microsoft, Amazon, EY-Parthenon, and American Express.
 
-### 3. IIM Calcutta (IIMC)
+### 3. [IIM Calcutta](/colleges/iim-calcutta) (IIMC)
 *   **Average Salary**: ₹34.23 LPA | **Median Salary**: ₹31.20 LPA
 *   **Highest Package**: ₹1.45 Crore per annum (International role based in Europe/Middle East).
 *   **The "Joka" Finance Powerhouse**: Joka students swept top-tier private equity, venture capital, and derivatives trading desks including Avendus Capital, Barclays, Citi, DE Shaw, Goldman Sachs, JP Morgan Chase, and Morgan Stanley.

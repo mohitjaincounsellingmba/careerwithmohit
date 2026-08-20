@@ -1,8 +1,13 @@
 ---
-title: "Top MBA Colleges Accepting CAT Score 80-90 Percentile [2026] — Cutoffs, Fees & Placements"
+title: >-
+  Top MBA Colleges Accepting CAT Score 80-90 Percentile [2026] — Cutoffs, Fees &
+  Placements
 date: '2026-08-14'
 category: MBA Admissions
-description: "Explore the best MBA colleges accepting CAT score 80-90 percentile in India for 2026. Compare fees, average placements (12-18 LPA), cutoffs, and selection criteria."
+description: >-
+  Explore the best MBA colleges accepting CAT score 80-90 percentile in India
+  for 2026. Compare fees, average placements (12-18 LPA), cutoffs, and selection
+  criteria.
 keywords:
   - MBA Colleges Accepting CAT Score 80-90 Percentile
   - CAT 80 to 90 percentile colleges
@@ -17,21 +22,43 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Noida Colleges
-location: Delhi NCR
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Delhi NCR College Counselling
+location: Noida
 faqs:
   - question: Which are the best MBA colleges accepting 80-90 percentile in CAT?
-    answer: "Top choices include FORE School of Management (New Delhi), LBSIM (Delhi), GIM (Goa), TAPMI (Manipal), Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), KJ Somaiya (Mumbai), and IRMA (Anand)."
-  - question: What is the average placement salary for colleges in the 80-90 percentile bracket?
-    answer: "Colleges in this tier typically offer average placement packages ranging between INR 12.50 LPA and INR 16.50 LPA, with top 25% students securing INR 18 to 24 LPA."
+    answer: >-
+      Top choices include FORE School of Management (New Delhi), LBSIM (Delhi),
+      GIM (Goa), TAPMI (Manipal), Great Lakes (Chennai/Gurgaon), BIMTECH
+      (Greater Noida), KJ Somaiya (Mumbai), and IRMA (Anand).
+  - question: >-
+      What is the average placement salary for colleges in the 80-90 percentile
+      bracket?
+    answer: >-
+      Colleges in this tier typically offer average placement packages ranging
+      between INR 12.50 LPA and INR 16.50 LPA, with top 25% students securing
+      INR 18 to 24 LPA.
   - question: Can I get an IIM call with an 85 percentile in CAT?
-    answer: "General category non-engineers with exceptional academic records or candidates from reserved categories (NC-OBC, SC, ST, PwD) can receive interview calls from Baby IIMs (like IIM Bodh Gaya, Jammu, Sirmaur) via CAP."
+    answer: >-
+      General category non-engineers with exceptional academic records or
+      candidates from reserved categories (NC-OBC, SC, ST, PwD) can receive
+      interview calls from Baby IIMs (like IIM Bodh Gaya, Jammu, Sirmaur) via
+      CAP.
   - question: Do these 80-90 percentile colleges accept other entrance exams?
-    answer: "Yes, institutes like GIM, Great Lakes, FORE, LBSIM, and TAPMI also accept XAT, CMAT, and GMAT scores."
+    answer: >-
+      Yes, institutes like GIM, Great Lakes, FORE, LBSIM, and TAPMI also accept
+      XAT, CMAT, and GMAT scores.
   - question: Is profile-based selection available for candidates with 80+ percentile?
-    answer: "Yes, B-schools like GIM (Goa Achiever's Round) and SPJIMR offer profile-based interview shortlists for candidates with strong academics, work experience, or sports/cultural achievements."
+    answer: >-
+      Yes, B-schools like GIM (Goa Achiever's Round) and SPJIMR offer
+      profile-based interview shortlists for candidates with strong academics,
+      work experience, or sports/cultural achievements.
 ---
 
-Scoring between **80 and 90 percentile in CAT 2026** is a commendable achievement that puts you ahead of nearly 2.5 lakh candidates. While it may narrowly miss the 99+ cutoff required for Old IIMs (BLACKI) and FMS Delhi, this bracket opens doors to **India's top Tier-2 and elite private business schools**.
+Scoring between **80 and 90 percentile in CAT 2026** is a commendable achievement that puts you ahead of nearly 2.5 lakh candidates. While it may narrowly miss the 99+ cutoff required for Old IIMs (BLACKI) and [FMS Delhi](/colleges/fms-delhi), this bracket opens doors to **India's top Tier-2 and elite private business schools**.
 
 These institutions provide state-of-the-art infrastructure, stellar faculty, strong corporate networks, and **average placement packages between ₹12 LPA and ₹17 LPA**, delivering excellent return on investment (ROI).
 
@@ -63,7 +90,7 @@ Here is the definitive guide curated by **Mohit Jain** on the **Top MBA Colleges
 
 ## 🏛️ In-Depth Review: Premier 80-90 Percentile B-Schools
 
-### 1. FORE School of Management, New Delhi
+### 1. [FORE School of Management](/colleges/fore-school-delhi), New Delhi
 Located in the heart of South Delhi (Qutub Institutional Area), FORE is renowned for its **International Business (IB), Marketing, and Financial Management** programs.
 *   **Why Choose FORE:** Unbeatable industry connect in Delhi NCR, distinguished core faculty, and consistent placement in BFSI and Consulting (Deloitte, EY, KPMG, PwC).
 *   **Target CAT Cutoff:** 85+ Percentile.
@@ -88,7 +115,7 @@ Founded by management guru Dr. Bala V. Balachandran, Great Lakes offers both a 1
 *   **Why Choose GLIM:** Unmatched reputation in IT/ITES, Analytics, Product Management, and Operations.
 *   **Target CAT Cutoff:** 80–85 Percentile.
 
-### 6. BIMTECH, Greater Noida (Delhi NCR)
+### 6. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) (Delhi NCR)
 Backed by the prestigious Birla Academy of Art and Culture, BIMTECH holds AACSB international accreditation and a 35-year legacy.
 *   **Why Choose BIMTECH:** Flagship PGDM alongside specialized PGDM in **Insurance Business Management (IBM)** and **Retail Management**.
 *   **Target CAT Cutoff:** 80–85 Percentile (General PGDM), 70–75 Percentile (Specialized programs).

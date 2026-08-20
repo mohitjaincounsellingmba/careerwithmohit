@@ -96,7 +96,7 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** TCS, Wipro, Infosys, Amazon, HDFC Bank, ICICI Bank, Capgemini, Extramarks, Byju's
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹5.50 LPA - ₹7.00 LPA**, Uttaranchal University Dehradun provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹5.50 LPA - ₹7.00 LPA**, [Uttaranchal University](/colleges/uttaranchal-university) Dehradun provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 title: >-
-  XLRI Jamshedpur & Delhi NCR Placement Report 2025: Average CTC ₹31.08 LPA, Highest ₹1.10 Cr & 100% Placements
+  XLRI Jamshedpur & Delhi NCR Placement Report 2025: Average CTC ₹31.08 LPA,
+  Highest ₹1.10 Cr & 100% Placements
 date: '2026-08-15'
 description: >-
-  Complete XLRI Jamshedpur and XLRI Delhi-NCR PGDM (BM & HRM) Placement Report 2025. Explore average package of ₹31.08 LPA, highest package of ₹1.10 Cr, PPOs & recruiters.
+  Complete XLRI Jamshedpur and XLRI Delhi-NCR PGDM (BM & HRM) Placement Report
+  2025. Explore average package of ₹31.08 LPA, highest package of ₹1.10 Cr, PPOs
+  & recruiters.
 keywords:
   - xlri placement report 2025
   - xlri jamshedpur average package 2025
@@ -12,23 +15,38 @@ keywords:
   - xat 2026 cutoff for xlri
   - xlri bm vs hrm placement
   - mba admission 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What was the combined average and highest CTC at XLRI in 2025?
     answer: >-
-      For the 2025 placement season, XLRI (covering both Jamshedpur and Delhi-NCR campuses) recorded an average CTC of INR 31.08 LPA, a median CTC of INR 29.50 LPA, and an international highest package of INR 1.10 Crore per annum (highest domestic package stood at INR 75.00 LPA).
+      For the 2025 placement season, XLRI (covering both Jamshedpur and
+      Delhi-NCR campuses) recorded an average CTC of INR 31.08 LPA, a median CTC
+      of INR 29.50 LPA, and an international highest package of INR 1.10 Crore
+      per annum (highest domestic package stood at INR 75.00 LPA).
   - question: Are placements conducted centrally for XLRI Jamshedpur and XLRI Delhi?
     answer: >-
-      Yes, XLRI conducts a centralized placement process for both the Jamshedpur and Delhi-NCR campuses, ensuring students across both campuses have equal access to the same recruiting partners and salary bands.
+      Yes, XLRI conducts a centralized placement process for both the Jamshedpur
+      and Delhi-NCR campuses, ensuring students across both campuses have equal
+      access to the same recruiting partners and salary bands.
   - question: Which entrance exam is accepted for XLRI admission?
     answer: >-
-      XLRI accepts only Xavier Aptitude Test (XAT) scores and GMAT (for NRI/Foreign/Executive candidates).
+      XLRI accepts only Xavier Aptitude Test (XAT) scores and GMAT (for
+      NRI/Foreign/Executive candidates).
+location: Delhi
 ---
 
 The **Xavier School of Management (XLRI)**, with campuses in **Jamshedpur** and **Delhi-NCR**, is India's oldest management institute and the undisputed #1 destination in Asia for Human Resource Management (HRM) and Business Management (BM).
 
 The **2025 placement cycle** at XLRI maintained its legendary prestige, achieving **100% placements across both campuses** with an overall average CTC of **₹31.08 LPA** and a top international offer of **₹1.10 Crore per annum**.
 
-Here is the complete **XLRI Jamshedpur & Delhi NCR Placement Report 2025**.
+Here is the complete **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) & Delhi NCR Placement Report 2025**.
 
 ---
 

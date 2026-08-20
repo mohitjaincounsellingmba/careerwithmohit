@@ -88,7 +88,7 @@ Understanding the fee breakdown and available specialization tracks is essential
 
 ## 3. Placement Review 2025–2026: Salary Packages & Recruiters
 
-The placement record at **IILM Institute for Higher Education** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
+The placement record at **[IILM Institute for Higher Education](/colleges/iilm-delhi)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
 
 *   **Highest CTC:** **₹20.0 LPA**
 *   **Average CTC:** **₹8.6 LPA**
@@ -103,7 +103,7 @@ The placement record at **IILM Institute for Higher Education** highlights consi
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **IILM Institute for Higher Education** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

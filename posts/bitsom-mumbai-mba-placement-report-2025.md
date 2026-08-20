@@ -23,7 +23,7 @@ faqs:
       BITSoM accepts CAT, GMAT, and GRE scores alongside a holistic evaluation of extracurriculars, leadership potential, and essays.
 ---
 
-Backed by the 60-year legacy of BITS Pilani and the Aditya Birla Group, the **BITS School of Management (BITSoM), Mumbai** has rapidly emerged as India's most successful new-age business school.
+Backed by the 60-year legacy of [BITS Pilani](/colleges/bits-pilani) and the Aditya Birla Group, the **BITS School of Management (BITSoM), Mumbai** has rapidly emerged as India's most successful new-age business school.
 
 The **2025 MBA placement report**, independently audited by Brickwork Analytics, confirmed an average CTC of **₹21.00 LPA**, a median CTC of **₹20.52 LPA**, and a highest package of **₹32.50 LPA**.
 

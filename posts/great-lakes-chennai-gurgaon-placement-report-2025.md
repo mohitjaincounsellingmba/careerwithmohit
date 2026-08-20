@@ -1,9 +1,12 @@
 ---
 title: >-
-  Great Lakes (GLIM) Chennai & Gurgaon Placement Report 2025: PGPM Avg ₹17.80 LPA, PGDM Avg ₹15.00 LPA & Highest ₹39.30 LPA
+  Great Lakes (GLIM) Chennai & Gurgaon Placement Report 2025: PGPM Avg ₹17.80
+  LPA, PGDM Avg ₹15.00 LPA & Highest ₹39.30 LPA
 date: '2026-08-15'
 description: >-
-  Detailed Great Lakes Institute of Management (GLIM) Chennai and Gurgaon Placement Report 2025. Explore 1-Year PGPM and 2-Year PGDM average salaries, top recruiters & ROI.
+  Detailed Great Lakes Institute of Management (GLIM) Chennai and Gurgaon
+  Placement Report 2025. Explore 1-Year PGPM and 2-Year PGDM average salaries,
+  top recruiters & ROI.
 keywords:
   - great lakes placement report 2025
   - great lakes chennai average package 2025
@@ -11,16 +14,33 @@ keywords:
   - great lakes pgpm vs pgdm placement
   - great lakes cat xat cmat cutoff
   - 1 year mba in india
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: What was the average package for 1-Year PGPM and 2-Year PGDM at Great Lakes in 2025?
+  - question: >-
+      What was the average package for 1-Year PGPM and 2-Year PGDM at Great
+      Lakes in 2025?
     answer: >-
-      In the 2025 placement season, Great Lakes Chennai recorded an average package of INR 17.80 LPA (highest of INR 30.80 LPA) for its 1-Year PGPM program, and an average CTC of INR 15.00 LPA (highest of INR 39.30 LPA) for its 2-Year PGDM program.
+      In the 2025 placement season, Great Lakes Chennai recorded an average
+      package of INR 17.80 LPA (highest of INR 30.80 LPA) for its 1-Year PGPM
+      program, and an average CTC of INR 15.00 LPA (highest of INR 39.30 LPA)
+      for its 2-Year PGDM program.
   - question: What is the difference between Great Lakes PGPM and PGDM programs?
     answer: >-
-      The 1-Year PGPM (Post Graduate Program in Management) is designed for professionals with 2+ years of full-time work experience, while the 2-Year PGDM is tailored for freshers and candidates with 0–2 years of experience.
+      The 1-Year PGPM (Post Graduate Program in Management) is designed for
+      professionals with 2+ years of full-time work experience, while the 2-Year
+      PGDM is tailored for freshers and candidates with 0–2 years of experience.
   - question: What entrance exams are accepted by Great Lakes?
     answer: >-
-      Great Lakes accepts CAT, XAT, GMAT, and CMAT scores for its admission rounds.
+      Great Lakes accepts CAT, XAT, GMAT, and CMAT scores for its admission
+      rounds.
+location: Gurgaon
 ---
 
 The **Great Lakes Institute of Management (GLIM)**, with premier campuses in **Chennai** and **Gurgaon**, is globally renowned for pioneering fast-track 1-Year MBA education (PGPM) and rigorous 2-Year corporate-aligned management degrees (PGDM).

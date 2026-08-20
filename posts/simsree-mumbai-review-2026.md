@@ -57,7 +57,7 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **SIMSREE Mumbai (Sydenham Institute of Management Studies)** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |

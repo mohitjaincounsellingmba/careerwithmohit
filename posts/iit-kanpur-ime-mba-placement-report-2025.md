@@ -31,7 +31,7 @@ Here is the complete **IIT Kanpur IME MBA Placement Report 2025**.
 
 ---
 
-[InquiryCard title="Looking for Unbeatable ROI MBA Colleges?" description="Discover top low-fee MBA options including IIT Kanpur, FMS Delhi, and JBIMS Mumbai with Mohit Jain." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Looking for Unbeatable ROI MBA Colleges?" description="Discover top low-fee MBA options including IIT Kanpur, [FMS Delhi](/colleges/fms-delhi), and [JBIMS Mumbai](/colleges/jbims-mumbai) with Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 ---
 

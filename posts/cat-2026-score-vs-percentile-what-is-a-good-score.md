@@ -1,8 +1,13 @@
 ---
-title: "CAT 2026 Score vs Percentile: What is a Good Score? Complete Sectional Analysis"
+title: >-
+  CAT 2026 Score vs Percentile: What is a Good Score? Complete Sectional
+  Analysis
 date: '2026-08-14'
 category: MBA Admissions
-description: "Understand CAT 2026 Score vs Percentile mapping with section-wise marks for VARC, DILR, QA. Learn what is a good raw score for 99+, 95+, and 90 percentile in IIMs and top B-schools."
+description: >-
+  Understand CAT 2026 Score vs Percentile mapping with section-wise marks for
+  VARC, DILR, QA. Learn what is a good raw score for 99+, 95+, and 90 percentile
+  in IIMs and top B-schools.
 keywords:
   - CAT 2026 Score vs Percentile
   - CAT 2026 marks vs percentile
@@ -19,18 +24,41 @@ keywords:
   - Direct Admission Delhi NCR
   - Noida Colleges
   - Best Colleges in Delhi NCR
-location: Delhi NCR
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Delhi NCR College Counselling
+location: Noida
 faqs:
   - question: What raw score is needed for a 99 percentile in CAT 2026?
-    answer: "Historically, an overall raw score of 76 to 82 marks out of 198 (approx 38-41% accuracy with around 26-28 correct questions) is sufficient to achieve a 99+ percentile in CAT."
+    answer: >-
+      Historically, an overall raw score of 76 to 82 marks out of 198 (approx
+      38-41% accuracy with around 26-28 correct questions) is sufficient to
+      achieve a 99+ percentile in CAT.
   - question: What is considered a 'good score' in CAT for top IIMs?
-    answer: "For old IIMs (IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, Indore) and FMS Delhi, a good score is 99+ percentile for General category (76+ marks), and 95+ percentile for New/Baby IIMs (58-62 marks)."
+    answer: >-
+      For old IIMs (IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode,
+      Indore) and FMS Delhi, a good score is 99+ percentile for General category
+      (76+ marks), and 95+ percentile for New/Baby IIMs (58-62 marks).
   - question: How does CAT normalisation work across different slots?
-    answer: "IIMs use a mean and standard deviation-based scaling formula across Slot 1, Slot 2, and Slot 3 to equalize question paper difficulty differences before computing your final scaled score and percentile."
-  - question: What is the difference between CAT raw score, scaled score, and percentile?
-    answer: "Raw score is the marks calculated from correct (+3) and incorrect (-1) attempts. Scaled score is the normalized score across slots. Percentile indicates the percentage of total test-takers who scored equal to or less than your scaled score."
+    answer: >-
+      IIMs use a mean and standard deviation-based scaling formula across Slot
+      1, Slot 2, and Slot 3 to equalize question paper difficulty differences
+      before computing your final scaled score and percentile.
+  - question: >-
+      What is the difference between CAT raw score, scaled score, and
+      percentile?
+    answer: >-
+      Raw score is the marks calculated from correct (+3) and incorrect (-1)
+      attempts. Scaled score is the normalized score across slots. Percentile
+      indicates the percentage of total test-takers who scored equal to or less
+      than your scaled score.
   - question: Can I get admission in a top MBA college with a 70-80 percentile in CAT?
-    answer: "Yes, prominent private B-schools like BIMTECH Greater Noida, LBSIM Delhi, FORE School of Management, GIM Goa, and Great Lakes offer strong PGDM programs for 75-85 percentile scorers."
+    answer: >-
+      Yes, prominent private B-schools like BIMTECH Greater Noida, LBSIM Delhi,
+      FORE School of Management, GIM Goa, and Great Lakes offer strong PGDM
+      programs for 75-85 percentile scorers.
 ---
 
 Every MBA aspirant preparing for or analyzing the **Common Admission Test (CAT 2026)** asks one fundamental question: *"How many marks do I need to score to get a 99, 95, or 90 percentile?"*
@@ -130,14 +158,14 @@ Because top institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Banga
 A "good score" in CAT depends entirely on your academic profile, category (General vs NC-OBC/SC/ST/EWS), academic background (Engineer vs Non-Engineer), and target colleges.
 
 ### 1. Top Tier (98 to 99.9+ Percentile | 72–100+ Marks)
-*   **Institutions:** IIM Ahmedabad, IIM Bangalore, IIM Calcutta, IIM Lucknow, IIM Kozhikode, IIM Indore, FMS Delhi, [MDI Gurgaon](/colleges/mdi-gurgaon), SPJIMR Mumbai, IIT Delhi DMS, IIT Bombay SJMSOM.
+*   **Institutions:** [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), IIM Lucknow, IIM Kozhikode, IIM Indore, [FMS Delhi](/colleges/fms-delhi), [MDI Gurgaon](/colleges/mdi-gurgaon), [SPJIMR Mumbai](/colleges/spjimr-mumbai), IIT Delhi DMS, [IIT Bombay](/colleges/iit-bombay) SJMSOM.
 *   **Profile Fit:** Essential for General Engineering Male (GEM) candidates to stand a strong chance of receiving PI interview calls.
 
 ### 2. Upper Tier (90 to 97 Percentile | 46–68 Marks)
 *   **Institutions:** New IIMs (IIM Udaipur, Ranchi, Raipur, Trichy, Kashipur), Baby IIMs (IIM Nagpur, Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur), IIT Roorkee, IIT Kanpur, DSE Delhi, DFS Delhi, IMT Ghaziabad (flagship), [FORE School of Management](/colleges/fore-school-delhi), [Goa Institute of Management (GIM)](/colleges/goa-institute-of-management).
 
 ### 3. Mid Tier (75 to 89 Percentile | 28–45 Marks)
-*   **Institutions:** [BIMTECH Greater Noida](/colleges/bimtech-greater-noida), [LBSIM Delhi](/colleges/lbsim-delhi), TAPMI Manipal, Great Lakes Gurgaon, [XIME Bangalore](/colleges/xime-bangalore), [SOIL Institute of Management](/colleges/soil-gurgaon), [Jaipuria Institute of Management](/colleges/jaipuria-noida).
+*   **Institutions:** [BIMTECH Greater Noida](/colleges/bimtech-greater-noida), [LBSIM Delhi](/colleges/lbsim-delhi), TAPMI Manipal, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon), [XIME Bangalore](/colleges/xime-bangalore), [SOIL Institute of Management](/colleges/soil-gurgaon), [Jaipuria Institute of Management](/colleges/jaipuria-noida).
 
 ### 4. Direct / Profile-Based Tier (50 to 74 Percentile | 13–27 Marks)
 *   **Institutions:** [GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida), [NDIM New Delhi](/colleges/ndim-delhi), [JIMS Rohini](/colleges/jims-rohini), [FIIB Delhi](/colleges/fiib-delhi), [Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence), [RIIM Pune](/colleges/riim-pune).
@@ -190,7 +218,7 @@ IIMs use a mean and standard deviation-based scaling formula across Slot 1, Slot
 Raw score is the marks calculated from correct (+3) and incorrect (-1) attempts. Scaled score is the normalized score across slots. Percentile indicates the percentage of total test-takers who scored equal to or less than your scaled score.
 
 ### Can I get admission in a top MBA college with a 70-80 percentile in CAT?
-Yes, prominent private B-schools like BIMTECH Greater Noida, LBSIM Delhi, FORE School of Management, GIM Goa, and Great Lakes offer strong PGDM programs for 75-85 percentile scorers.
+Yes, prominent private B-schools like BIMTECH Greater Noida, LBSIM Delhi, [FORE School of Management](/colleges/fore-school-delhi), GIM Goa, and Great Lakes offer strong PGDM programs for 75-85 percentile scorers.
 
 ---
 

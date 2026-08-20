@@ -60,7 +60,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Graphic Era (Deemed to be University), Dehradun |
+| **Full Institutional Name** | [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun), Dehradun |
 | **Location & Region** | Dehradun, Uttarakhand |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 1993 (Deemed University status 2008) |

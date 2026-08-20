@@ -57,7 +57,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ): University Overview & Accreditation
 
-Manipal University Jaipur (MUJ), part of the renowned Manipal Education Group, is a premier NAAC A+ accredited private university in Rajasthan. Famous for its jaw-dropping palace-style red-brick architecture, elite engineering placements, and vibrant multicultural student life, MUJ attracts top talent from across India.
+[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ), part of the renowned Manipal Education Group, is a premier NAAC A+ accredited private university in Rajasthan. Famous for its jaw-dropping palace-style red-brick architecture, elite engineering placements, and vibrant multicultural student life, MUJ attracts top talent from across India.
 
 ### Key Institutional Highlights (2026)
 

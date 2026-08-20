@@ -1,8 +1,13 @@
 ---
-title: "CAT Answer Key & Response Sheet Analysis: Download Link, Score Calculator & Objection Guide"
+title: >-
+  CAT Answer Key & Response Sheet Analysis: Download Link, Score Calculator &
+  Objection Guide
 date: '2026-08-14'
 category: MBA Admissions
-description: "Complete guide to CAT Answer Key & Candidate Response Sheet analysis. Learn how to calculate raw score, raise official objections, predict percentile, and plan admissions."
+description: >-
+  Complete guide to CAT Answer Key & Candidate Response Sheet analysis. Learn
+  how to calculate raw score, raise official objections, predict percentile, and
+  plan admissions.
 keywords:
   - CAT Answer Key 2026
   - CAT Response Sheet Analysis
@@ -16,18 +21,40 @@ keywords:
   - Delhi NCR MBA Admissions 2026
   - Direct Admission Delhi NCR
   - Best MBA Colleges Noida
-location: Delhi NCR
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Delhi NCR College Counselling
+location: Noida
 faqs:
   - question: When is the CAT answer key and response sheet released?
-    answer: "The CAT provisional answer key and individual candidate response sheets are typically released by IIMs within 4 to 7 days after the exam (usually the first week of December)."
+    answer: >-
+      The CAT provisional answer key and individual candidate response sheets
+      are typically released by IIMs within 4 to 7 days after the exam (usually
+      the first week of December).
   - question: How can I calculate my raw score using the CAT response sheet?
-    answer: "For each correct MCQ or non-MCQ (TITA), add +3 marks. For each incorrect MCQ, deduct -1 mark. Incorrect TITA questions carry 0 negative marks. Total raw score is (Correct Attempts * 3) - (Incorrect MCQs * 1)."
+    answer: >-
+      For each correct MCQ or non-MCQ (TITA), add +3 marks. For each incorrect
+      MCQ, deduct -1 mark. Incorrect TITA questions carry 0 negative marks.
+      Total raw score is (Correct Attempts * 3) - (Incorrect MCQs * 1).
   - question: What is the fee to challenge an answer key question in CAT?
-    answer: "Candidates must pay an objection fee of INR 1,200 per challenged question. If your objection is reviewed and upheld by the CAT committee, the full fee is refunded."
+    answer: >-
+      Candidates must pay an objection fee of INR 1,200 per challenged question.
+      If your objection is reviewed and upheld by the CAT committee, the full
+      fee is refunded.
   - question: Will my percentile be the same as my raw score percentage?
-    answer: "No. Your raw score is first normalized across all three slots into a scaled score, and your percentile is calculated based on your relative performance against all candidates."
+    answer: >-
+      No. Your raw score is first normalized across all three slots into a
+      scaled score, and your percentile is calculated based on your relative
+      performance against all candidates.
   - question: What should I do immediately after checking my CAT response sheet?
-    answer: "Calculate your sectional and overall raw scores, check college application deadlines for non-IIMs (like MDI, SPJIMR, FMS, IMT, FORE, GIM) which close before CAT results, and start preparing for WAT-GD-PI."
+    answer: >-
+      Calculate your sectional and overall raw scores, check college application
+      deadlines for non-IIMs (like MDI, SPJIMR, FMS, IMT, FORE, GIM) which close
+      before CAT results, and start preparing for WAT-GD-PI.
 ---
 
 The release of the **CAT Answer Key & Candidate Response Sheet** is one of the most high-stakes moments for MBA aspirants. It provides official clarity on your performance, eliminates guesswork, and enables you to calculate your exact raw score before final results are announced.

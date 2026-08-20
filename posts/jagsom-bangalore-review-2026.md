@@ -57,7 +57,7 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **JAGSoM Bangalore (Jagdish Sheth School of Management)** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |

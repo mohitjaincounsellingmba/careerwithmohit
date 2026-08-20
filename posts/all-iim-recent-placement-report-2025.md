@@ -75,7 +75,7 @@ Below is the consolidated placement comparison table for **all 21 Indian Institu
 | **IIM Sirmaur** | Baby / Gen-3 | **₹13.30 – 14.50 LPA** | ₹12.50 LPA | ₹28.00 LPA | General Management & Ops |
 
 > [!NOTE]
-> **Understanding Audit Standards & CTC Variance**: Institutes like IIM Ahmedabad and IIM Udaipur follow Indian Placement Reporting Standards (IPRS), providing audited reports with distinct fixed basic salaries, performance bonuses, and guaranteed cash components. In contrast, non-IPRS figures reflect total cost-to-company (CTC).
+> **Understanding Audit Standards & CTC Variance**: Institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad) and IIM Udaipur follow Indian Placement Reporting Standards (IPRS), providing audited reports with distinct fixed basic salaries, performance bonuses, and guaranteed cash components. In contrast, non-IPRS figures reflect total cost-to-company (CTC).
 
 ---
 

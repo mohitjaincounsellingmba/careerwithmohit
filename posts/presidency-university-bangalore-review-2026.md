@@ -49,7 +49,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Presidency University](/colleges/presidency-university) Bangalore: University Overview & Accreditation
 
-Presidency University in Itgalpur, Rajanakunte (North Bangalore), is a NAAC A Grade accredited private university backed by the 45-year-old Presidency Group. Renowned for its beautiful 65-acre green campus, affordable tuition fees, and high-volume corporate placement drives, Presidency is a fast-rising destination in Karnataka.
+[Presidency University](/colleges/presidency-university) in Itgalpur, Rajanakunte (North Bangalore), is a NAAC A Grade accredited private university backed by the 45-year-old Presidency Group. Renowned for its beautiful 65-acre green campus, affordable tuition fees, and high-volume corporate placement drives, Presidency is a fast-rising destination in Karnataka.
 
 ### Key Institutional Highlights (2026)
 

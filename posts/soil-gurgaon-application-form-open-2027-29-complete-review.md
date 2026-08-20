@@ -26,6 +26,7 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Gurgaon Admissions 2026
 faqs:
   - question: Is the SOIL Gurgaon application form open for the 2027–29 batch?
     answer: >-
@@ -41,13 +42,15 @@ faqs:
       security deposit.
   - question: What is the average and highest placement package at SOIL Gurgaon?
     answer: >-
-      For recent batches, the average package stands at ₹11.17 LPA for the 2-year
-      PGDM and ₹12.30 LPA for the 1-year PGPM, with the highest CTC touching
-      ₹20.7 LPA to ₹21.8 LPA across top consulting, BFSI, and tech recruiters.
+      For recent batches, the average package stands at ₹11.17 LPA for the
+      2-year PGDM and ₹12.30 LPA for the 1-year PGPM, with the highest CTC
+      touching ₹20.7 LPA to ₹21.8 LPA across top consulting, BFSI, and tech
+      recruiters.
   - question: Which entrance exams does SOIL Gurgaon accept for 2027 admissions?
     answer: >-
-      SOIL Gurgaon accepts valid scores from CAT, XAT, GMAT, NMAT, CMAT, MAT, and
-      ATMA. Scores carry a 35% weightage in the composite selection criteria.
+      SOIL Gurgaon accepts valid scores from CAT, XAT, GMAT, NMAT, CMAT, MAT,
+      and ATMA. Scores carry a 35% weightage in the composite selection
+      criteria.
   - question: What is the selection process for SOIL Gurgaon PGDM?
     answer: >-
       The selection process includes an online application, profile
@@ -70,7 +73,7 @@ If you are aiming for management admissions in Delhi-NCR for the upcoming batch,
 
 | Parameter | Details & Key Metrics |
 | :--- | :--- |
-| **Institute Name** | **SOIL Institute of Management (School of Inspired Leadership)** |
+| **Institute Name** | **[SOIL Institute of Management](/colleges/soil-institute-gurgaon) (School of Inspired Leadership)** |
 | **Campuses** | Sushant Lok (Gurgaon) & Manesar Campus |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Programs** | **PGDM (2-Year Full-Time)**, **PGPM (1-Year)**, **PGPM-HR (1-Year)** |

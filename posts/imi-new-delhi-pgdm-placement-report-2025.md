@@ -1,9 +1,12 @@
 ---
 title: >-
-  IMI New Delhi PGDM Placement Report 2025: Average CTC ₹18.28 LPA, Highest ₹40.31 LPA & Top Consulting Firms
+  IMI New Delhi PGDM Placement Report 2025: Average CTC ₹18.28 LPA, Highest
+  ₹40.31 LPA & Top Consulting Firms
 date: '2026-08-15'
 description: >-
-  Complete IMI New Delhi PGDM Placement Report 2025. Explore average salary of ₹18.28 LPA, highest package of ₹40.31 LPA, domain-wise hiring, fees & CAT/XAT cutoffs.
+  Complete IMI New Delhi PGDM Placement Report 2025. Explore average salary of
+  ₹18.28 LPA, highest package of ₹40.31 LPA, domain-wise hiring, fees & CAT/XAT
+  cutoffs.
 keywords:
   - imi new delhi pgdm placement report 2025
   - imi delhi average package 2025
@@ -11,16 +14,30 @@ keywords:
   - imi delhi cat cutoff 2026
   - top delhi b schools placements
   - mba admission 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What was the average and highest package at IMI New Delhi in 2025?
     answer: >-
-      In the 2025 placement season, International Management Institute (IMI), New Delhi recorded an impressive average CTC of INR 18.28 LPA, a median CTC of INR 17.10 LPA, and a peak domestic offer of INR 40.31 LPA.
+      In the 2025 placement season, International Management Institute (IMI),
+      New Delhi recorded an impressive average CTC of INR 18.28 LPA, a median
+      CTC of INR 17.10 LPA, and a peak domestic offer of INR 40.31 LPA.
   - question: What programs are offered at IMI New Delhi?
     answer: >-
-      IMI New Delhi offers three flagship two-year full-time programs: PGDM (General), PGDM (Human Resource Management), and PGDM (Banking & Financial Services - BFS).
+      IMI New Delhi offers three flagship two-year full-time programs: PGDM
+      (General), PGDM (Human Resource Management), and PGDM (Banking & Financial
+      Services - BFS).
   - question: What is the CAT/XAT cutoff for IMI Delhi?
     answer: >-
-      The CAT and XAT cutoffs for IMI New Delhi generally hover around 88 to 92 percentile for General category applicants.
+      The CAT and XAT cutoffs for IMI New Delhi generally hover around 88 to 92
+      percentile for General category applicants.
+location: Delhi
 ---
 
 Located in the heart of South Delhi’s institutional area, the **International Management Institute (IMI), New Delhi** is India’s first corporate-sponsored business school and holds coveted international accreditations from AMBA, AACSB, and SAQS.

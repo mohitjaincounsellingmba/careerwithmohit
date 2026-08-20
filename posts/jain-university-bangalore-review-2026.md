@@ -102,7 +102,7 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** Amazon, Deloitte, KPMG, EY, Capgemini, Infosys, Wipro, Honeywell, Tommy Hilfiger
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹7.50 LPA - ₹8.80 LPA**, Jain University Bangalore provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹7.50 LPA - ₹8.80 LPA**, [Jain University](/colleges/jain-university) Bangalore provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 

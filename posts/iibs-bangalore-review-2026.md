@@ -93,7 +93,7 @@ Understanding the fee breakdown and available specialization tracks is essential
 
 ## 3. Placement Review 2025–2026: Salary Packages & Recruiters
 
-The placement record at **International Institute of Business Studies (IIBS)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
+The placement record at **[International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
 
 *   **Highest CTC:** **₹48.0 LPA**
 *   **Average CTC:** **₹8.2 LPA**
@@ -108,7 +108,7 @@ The placement record at **International Institute of Business Studies (IIBS)** h
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **International Institute of Business Studies (IIBS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

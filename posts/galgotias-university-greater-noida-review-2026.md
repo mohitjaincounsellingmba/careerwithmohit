@@ -59,7 +59,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Galgotias University](/colleges/galgotias-university): University Overview & Accreditation
 
-Galgotias University, located alongside the Yamuna Expressway in Greater Noida, is recognized as one of the largest and most sought-after private universities in Uttar Pradesh. Renowned for its affordable fee structure, high placement volume in IT services, and vibrant student life, Galgotias maintains a strong reputation across North India.
+[Galgotias University](/colleges/galgotias-university), located alongside the Yamuna Expressway in Greater Noida, is recognized as one of the largest and most sought-after private universities in Uttar Pradesh. Renowned for its affordable fee structure, high placement volume in IT services, and vibrant student life, Galgotias maintains a strong reputation across North India.
 
 ### Key Institutional Highlights (2026)
 

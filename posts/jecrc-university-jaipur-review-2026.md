@@ -52,7 +52,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [JECRC University](/colleges/jecrc-jaipur): University Overview & Accreditation
 
-JECRC University in Jaipur is one of Rajasthan's most popular destination for engineering and management studies, building upon the 24-year legacy of the JECRC Foundation. Widely recognized for its high-volume IT placements, student-driven technical fests, and strong industry collaborations with Microsoft and AWS, JECRC offers excellent ROI.
+[JECRC University](/colleges/jecrc-jaipur) in Jaipur is one of Rajasthan's most popular destination for engineering and management studies, building upon the 24-year legacy of the JECRC Foundation. Widely recognized for its high-volume IT placements, student-driven technical fests, and strong industry collaborations with Microsoft and AWS, JECRC offers excellent ROI.
 
 ### Key Institutional Highlights (2026)
 

@@ -54,7 +54,7 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **Indus Business Academy (IBA Bangalore)** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **[Indus Business Academy](/colleges/indus-business-academy) (IBA Bangalore)** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |

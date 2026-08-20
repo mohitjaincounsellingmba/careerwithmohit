@@ -89,7 +89,7 @@ graph TD
 
 ## 3. Baby IIMs vs. Top Private B-Schools: The Real Comparison
 
-A critical dilemma for CAT test-takers with 90–96 percentiles is whether to choose a Baby IIM or an established private B-school (e.g., NMIMS Mumbai, SIBM Pune, TAPMI, GIM Goa, FORE Delhi).
+A critical dilemma for CAT test-takers with 90–96 percentiles is whether to choose a Baby IIM or an established private B-school (e.g., [NMIMS Mumbai](/colleges/nmims-mumbai), [SIBM Pune](/colleges/sibm-pune), TAPMI, GIM Goa, FORE Delhi).
 
 | Feature / Metric | Baby IIMs (Nagpur, Amritsar, Vizag, etc.) | Top Private B-Schools (NMIMS, SIBM, TAPMI) |
 | :--- | :--- | :--- |

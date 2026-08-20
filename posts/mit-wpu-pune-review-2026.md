@@ -65,7 +65,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | MIT World Peace University (MIT-WPU) |
+| **Full Institutional Name** | [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune) |
 | **Location & Region** | Pune, Pune |
 | **University Type & Status** | Private University (UGC Approved, Legacy since 1983) |
 | **Established Year** | 2017 (MIT Pune established 1983) |

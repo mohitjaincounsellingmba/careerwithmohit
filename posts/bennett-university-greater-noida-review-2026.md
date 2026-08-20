@@ -59,7 +59,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Bennett University](/colleges/bennett-greater-noida): University Overview & Accreditation
 
-Founded by the Times of India Group, Bennett University in Greater Noida is a tech-forward institution that leverages its massive media and corporate network to offer industry-aligned education. Bennett has quickly emerged as a top choice for Computer Science Engineering (with AI/ML specializations) and MBA programs in Delhi NCR.
+Founded by the Times of India Group, [Bennett University](/colleges/bennett-greater-noida) in Greater Noida is a tech-forward institution that leverages its massive media and corporate network to offer industry-aligned education. Bennett has quickly emerged as a top choice for Computer Science Engineering (with AI/ML specializations) and MBA programs in Delhi NCR.
 
 ### Key Institutional Highlights (2026)
 

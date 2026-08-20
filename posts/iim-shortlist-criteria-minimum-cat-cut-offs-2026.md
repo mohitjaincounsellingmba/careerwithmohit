@@ -1,8 +1,13 @@
 ---
-title: "IIM Shortlist Criteria & Minimum CAT Cut Offs [2026] — BLACKI, New & Baby IIMs Calling Percentiles"
+title: >-
+  IIM Shortlist Criteria & Minimum CAT Cut Offs [2026] — BLACKI, New & Baby IIMs
+  Calling Percentiles
 date: '2026-08-14'
 category: MBA Admissions
-description: "Decode IIM Shortlist Criteria and CAT 2026 cutoffs for all 21 IIMs (BLACKI, New, Baby IIMs). Learn Composite Score formulas, diversity points, and CAP interview process."
+description: >-
+  Decode IIM Shortlist Criteria and CAT 2026 cutoffs for all 21 IIMs (BLACKI,
+  New, Baby IIMs). Learn Composite Score formulas, diversity points, and CAP
+  interview process.
 keywords:
   - IIM Shortlist Criteria 2026
   - Minimum CAT Cut Offs IIM
@@ -16,18 +21,43 @@ keywords:
   - Delhi NCR MBA Admissions 2026
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
-location: Delhi NCR
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Delhi NCR College Counselling
+location: Delhi
 faqs:
   - question: What is the difference between IIM Qualifying Cutoff and Calling Cutoff?
-    answer: "Qualifying cutoff (typically 80-85 percentile) is the minimum eligibility criteria to be considered for evaluation. The actual Calling Cutoff (typically 98-99.8+ percentile for General) is the real cutoff at which IIMs issue interview shortlists based on composite scores."
+    answer: >-
+      Qualifying cutoff (typically 80-85 percentile) is the minimum eligibility
+      criteria to be considered for evaluation. The actual Calling Cutoff
+      (typically 98-99.8+ percentile for General) is the real cutoff at which
+      IIMs issue interview shortlists based on composite scores.
   - question: How do IIMs calculate Composite Score for interview shortlisting?
-    answer: "IIMs compute a weighted Composite Score (CS) comprising CAT Scaled Score (40-60% weightage), Class 10th and 12th board marks, Graduation performance, Work Experience points (peaking at 24-36 months), Academic Diversity bonus, and Gender Diversity points."
+    answer: >-
+      IIMs compute a weighted Composite Score (CS) comprising CAT Scaled Score
+      (40-60% weightage), Class 10th and 12th board marks, Graduation
+      performance, Work Experience points (peaking at 24-36 months), Academic
+      Diversity bonus, and Gender Diversity points.
   - question: Can a non-engineer get into top IIMs with a lower CAT percentile?
-    answer: "Yes, non-engineers (from Commerce, Arts, Law, Medicine, Sciences) receive 3 to 5 additional diversity points at IIM Ahmedabad, Bangalore, Lucknow, and Kozhikode, enabling calls at 97-98 percentile where engineers might need 99.5+."
+    answer: >-
+      Yes, non-engineers (from Commerce, Arts, Law, Medicine, Sciences) receive
+      3 to 5 additional diversity points at IIM Ahmedabad, Bangalore, Lucknow,
+      and Kozhikode, enabling calls at 97-98 percentile where engineers might
+      need 99.5+.
   - question: What is the IIM CAP (Common Admission Process) cutoff for 2026?
-    answer: "The CAP cutoff for New and Baby IIMs (IIM Udaipur, Ranchi, Raipur, Trichy, Kashipur, Nagpur, Bodh Gaya, Jammu, Sambalpur, Sirmaur) is generally 92-94+ percentile overall for General category with 70-75 sectional cutoffs."
+    answer: >-
+      The CAP cutoff for New and Baby IIMs (IIM Udaipur, Ranchi, Raipur, Trichy,
+      Kashipur, Nagpur, Bodh Gaya, Jammu, Sambalpur, Sirmaur) is generally
+      92-94+ percentile overall for General category with 70-75 sectional
+      cutoffs.
   - question: How much weightage is given to work experience in IIM admissions?
-    answer: "Most IIMs award between 5 to 10 points out of 100 for relevant full-time post-graduation work experience, with maximum points allocated for 24 to 36 months of tenure."
+    answer: >-
+      Most IIMs award between 5 to 10 points out of 100 for relevant full-time
+      post-graduation work experience, with maximum points allocated for 24 to
+      36 months of tenure.
 ---
 
 Securing admission to one of India’s **21 Indian Institutes of Management (IIMs)** is the ultimate aspiration for every MBA candidate. However, one of the most common pitfalls is assuming that cracking a 99+ percentile in CAT guarantees an interview call.
@@ -85,8 +115,8 @@ Your scaled score is compared against the highest scaled score in that year's ex
 $$\text{CAT Score Weight} = \left(\frac{\text{Candidate Scaled Score}}{\text{Highest Scaled Score}}\right) \times \text{Assigned Weight}$$
 
 ### 2. Past Academic Performance (10th, 12th & Graduation: 20% to 35% Weightage)
-*   **IIM Bangalore & IIM Indore** place the heaviest premium on board marks. Having 90%+ in both 10th and 12th gives maximum points.
-*   **IIM Calcutta & IIM Ahmedabad** apply board normalization formulas to ensure fairness across state and central CBSE/ICSE boards.
+*   **[IIM Bangalore](/colleges/iim-bangalore) & IIM Indore** place the heaviest premium on board marks. Having 90%+ in both 10th and 12th gives maximum points.
+*   **[IIM Calcutta](/colleges/iim-calcutta) & [IIM Ahmedabad](/colleges/iim-ahmedabad)** apply board normalization formulas to ensure fairness across state and central CBSE/ICSE boards.
 
 ### 3. Work Experience Tenure (5% to 10% Weightage)
 IIMs value post-graduation, full-time paid corporate experience:

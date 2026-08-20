@@ -24,11 +24,11 @@ faqs:
       SPJIMR offers four flagship specializations: Finance, Marketing, Operations & Supply Chain, and Information Management (IM).
 ---
 
-The **S.P. Jain Institute of Management and Research (SPJIMR), Mumbai** ranks among India's top 5 management institutions, frequently standing on par with the Old IIM trio (IIM Ahmedabad, Bangalore, and Calcutta).
+The **S.P. Jain Institute of Management and Research (SPJIMR), Mumbai** ranks among India's top 5 management institutions, frequently standing on par with the Old IIM trio ([IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta).
 
 The **2025 PGDM placement season** reaffirmed SPJIMR’s leadership, recording an average CTC of **₹32.00 LPA**, a top international package of **₹89.00 LPA**, and over **162 Pre-Placement Offers (PPOs)**.
 
-Here is the exhaustive **SPJIMR Mumbai PGDM Placement Report 2025**.
+Here is the exhaustive **[SPJIMR Mumbai](/colleges/spjimr-mumbai) PGDM Placement Report 2025**.
 
 ---
 

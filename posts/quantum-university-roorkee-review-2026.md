@@ -44,7 +44,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Quantum University](/colleges/quantum-university-roorkee) Roorkee: University Overview & Accreditation
 
-Quantum University in Roorkee, Uttarakhand, is celebrated for its pioneering interdisciplinary education model that allows students to combine major technical degrees with passion minors in economics, music, or business. Located on the Roorkee-Dehradun Highway, Quantum offers high ROI and accessible technical education.
+[Quantum University](/colleges/quantum-university-roorkee) in Roorkee, Uttarakhand, is celebrated for its pioneering interdisciplinary education model that allows students to combine major technical degrees with passion minors in economics, music, or business. Located on the Roorkee-Dehradun Highway, Quantum offers high ROI and accessible technical education.
 
 ### Key Institutional Highlights (2026)
 

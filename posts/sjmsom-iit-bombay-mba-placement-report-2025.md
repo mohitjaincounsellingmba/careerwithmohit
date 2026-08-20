@@ -24,7 +24,7 @@ faqs:
       With a total 2-year tuition fee of approximately INR 14.5 Lakhs and an average starting salary of INR 25.82 LPA, SJMSOM IIT Bombay delivers an exceptional return on investment (ROI) with a payback period under 8 to 10 months.
 ---
 
-The **Shailesh J. Mehta School of Management (SJMSOM)** at **IIT Bombay** stands as one of India's most prestigious management schools, consistently challenging older IIMs in placement figures, corporate reputation, and return on investment.
+The **Shailesh J. Mehta School of Management (SJMSOM)** at **[IIT Bombay](/colleges/iit-bombay)** stands as one of India's most prestigious management schools, consistently challenging older IIMs in placement figures, corporate reputation, and return on investment.
 
 The **2025 MBA placement season** at SJMSOM was marked by outstanding recruiter confidence, achieving **100% placements** with strong participation across consulting, investment banking, operations, and product management.
 

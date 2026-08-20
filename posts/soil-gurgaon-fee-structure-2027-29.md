@@ -26,19 +26,26 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Gurgaon Admissions 2026
 faqs:
-  - question: What is the total fee for the 2-Year PGDM at SOIL Gurgaon for the 2027–29 batch?
+  - question: >-
+      What is the total fee for the 2-Year PGDM at SOIL Gurgaon for the 2027–29
+      batch?
     answer: >-
       The total academic program cost for the 2-Year PGDM (Business Design) at
       SOIL Gurgaon is approximately ₹16.35 Lakhs to ₹17.20 Lakhs, inclusive of
-      tuition, course study materials, software licenses, student activity funds,
-      and a ₹30,000 refundable security deposit.
-  - question: What are the fees for the 1-Year PGPM and PGPM-HR programs at SOIL Gurgaon?
+      tuition, course study materials, software licenses, student activity
+      funds, and a ₹30,000 refundable security deposit.
+  - question: >-
+      What are the fees for the 1-Year PGPM and PGPM-HR programs at SOIL
+      Gurgaon?
     answer: >-
       The 1-Year PGPM (Business Leadership) program fee is approximately ₹15.33
-      Lakhs to ₹15.95 Lakhs, while the specialized 1-Year PGPM-HR program fee
-      is approximately ₹13.85 Lakhs to ₹14.50 Lakhs.
-  - question: Does SOIL Gurgaon provide hostel facilities and what are the living charges?
+      Lakhs to ₹15.95 Lakhs, while the specialized 1-Year PGPM-HR program fee is
+      approximately ₹13.85 Lakhs to ₹14.50 Lakhs.
+  - question: >-
+      Does SOIL Gurgaon provide hostel facilities and what are the living
+      charges?
     answer: >-
       Yes, SOIL provides fully furnished, air-conditioned, managed hostel and
       residential apartments near the campus. Annual accommodation charges range
@@ -48,9 +55,9 @@ faqs:
   - question: What scholarships are available at SOIL Gurgaon for the 2027–29 batch?
     answer: >-
       SOIL offers merit-based scholarships up to ₹2.0–₹3.0 Lakhs for high
-      percentiles in CAT, XAT, and GMAT. Additionally, there are dedicated
-      Women in Leadership scholarships, the Dr. Verghese Kurien Scholarship
-      for social/rural development profiles, and need-based financial aid.
+      percentiles in CAT, XAT, and GMAT. Additionally, there are dedicated Women
+      in Leadership scholarships, the Dr. Verghese Kurien Scholarship for
+      social/rural development profiles, and need-based financial aid.
   - question: Which banks provide collateral-free education loans for SOIL Gurgaon?
     answer: >-
       SOIL Gurgaon has formal tie-ups with leading financial institutions
@@ -228,9 +235,9 @@ Here is how SOIL's fee structure compares with leading private and autonomous ma
 | Business School | Total 2-Year Program Fee | Average Placement (CTC) | Key Program Differentiator |
 | :--- | :--- | :--- | :--- |
 | **[SOIL Gurgaon](/colleges/soil-institute-gurgaon)** | **₹17.17 Lakhs** | **₹11.17 LPA** | MNC Co-Created, Design Thinking & Social Innovation |
-| **Great Lakes Gurgaon** | ₹18.75 Lakhs – ₹19.90 Lakhs | ₹11.60 LPA | Analytics & Marketing focus |
-| **BML Munjal University** | ₹15.10 Lakhs – ₹16.50 Lakhs | ₹10.44 LPA | Hero Group heritage, Imperial College London link |
-| **FORE School of Management** | ₹18.25 Lakhs – ₹19.50 Lakhs | ₹14.50 LPA | South Delhi campus, Finance & International Business |
+| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | ₹18.75 Lakhs – ₹19.90 Lakhs | ₹11.60 LPA | Analytics & Marketing focus |
+| **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | ₹15.10 Lakhs – ₹16.50 Lakhs | ₹10.44 LPA | Hero Group heritage, Imperial College London link |
+| **[FORE School of Management](/colleges/fore-school-delhi)** | ₹18.25 Lakhs – ₹19.50 Lakhs | ₹14.50 LPA | South Delhi campus, Finance & International Business |
 | **BIMTECH Greater Noida** | ₹14.00 Lakhs – ₹16.00 Lakhs | ₹11.25 LPA | Birla heritage, Insurance & Retail Management |
 | **[Jaipuria Noida](/colleges/jaipuria-noida)** | ₹14.50 Lakhs – ₹16.50 Lakhs | ₹11.29 LPA | AACSB accredited, Pan-India campus pool |
 | **IILM University Gurgaon** | ₹11.50 Lakhs – ₹13.00 Lakhs | ₹8.60 LPA | Liberal education, corporate internships |
@@ -251,7 +258,7 @@ When planning your management budget at SOIL, keep these non-tuition expenses in
 ## 10. How to Pay Admission Fees & Cancellation Policy
 
 1.  **Online Payment Gateways:** Accepted via Net Banking, NEFT/RTGS, Credit/Debit Cards, or UPI on the official SOIL admission portal.
-2.  **Demand Draft (DD):** Payable in favor of *"SOIL Institute of Management"* payable at Gurgaon/New Delhi.
+2.  **Demand Draft (DD):** Payable in favor of *"[SOIL Institute of Management](/colleges/soil-institute-gurgaon)"* payable at Gurgaon/New Delhi.
 3.  **Refund & Withdrawal Guidelines:** SOIL adheres strictly to **AICTE fee refund norms**. If a candidate withdraws their admission before the official orientation/closure date, the initial deposit is refunded after a standard administrative processing deduction of ₹1,000.
 
 ---

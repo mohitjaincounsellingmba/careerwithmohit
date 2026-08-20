@@ -66,7 +66,7 @@ LM Thapar School of Management (LMTSM), located at the modern Dera Bassi campus 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi |
+| **Full Institutional Name** | [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi |
 | **Location & Region** | Dera Bassi / Patiala, Punjab |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 1956 (TIET) / 2007 (LM Thapar School of Management) |

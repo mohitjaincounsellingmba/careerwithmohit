@@ -56,7 +56,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU): University Overview & Accreditation
 
-Founded by the promoters of the Hero Group, BML Munjal University (BMU) in Gurugram is an experiential learning-focused university mentored by Imperial College London. BMU is highly acclaimed for its practical management education, innovation labs, and strong corporate tie-ups across manufacturing, tech, and consulting sectors.
+Founded by the promoters of the Hero Group, [BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU) in Gurugram is an experiential learning-focused university mentored by Imperial College London. BMU is highly acclaimed for its practical management education, innovation labs, and strong corporate tie-ups across manufacturing, tech, and consulting sectors.
 
 ### Key Institutional Highlights (2026)
 

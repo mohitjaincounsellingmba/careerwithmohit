@@ -47,6 +47,8 @@ To help you measure your standing, we offer a high-fidelity **[Free GRE General 
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### How long is the new GRE General Test?
@@ -58,11 +60,3 @@ No, there is no negative marking in the GRE. Your score is based on the number o
 ### What is a good GRE score for MS and MBA programs?
 A score of 320+ (out of 340) with a Quant score of 165+ is highly competitive for engineering and computer science programs, while a balanced 315+ is good for other fields.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

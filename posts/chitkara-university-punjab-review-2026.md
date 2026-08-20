@@ -51,7 +51,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Chitkara University](/colleges/chitkara-university) Punjab: University Overview & Accreditation
 
-Chitkara University, situated on the Chandigarh-Patiala National Highway in Rajpura, Punjab, is a NAAC A+ accredited university celebrated for its industry-curated curriculum and 95%+ placement consistency. Backed by founders who are educators themselves, Chitkara maintains exceptional corporate tie-ups with Microsoft, NVIDIA, and Infosys.
+[Chitkara University](/colleges/chitkara-university), situated on the Chandigarh-Patiala National Highway in Rajpura, Punjab, is a NAAC A+ accredited university celebrated for its industry-curated curriculum and 95%+ placement consistency. Backed by founders who are educators themselves, Chitkara maintains exceptional corporate tie-ups with Microsoft, NVIDIA, and Infosys.
 
 ### Key Institutional Highlights (2026)
 

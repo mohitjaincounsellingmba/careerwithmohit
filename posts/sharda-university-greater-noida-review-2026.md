@@ -57,7 +57,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Sharda University](/colleges/sharda-greater-noida): University Overview & Accreditation
 
-Sharda University in Greater Noida is a globally diversified private university known for its motto "The World is Here, Where are You?". Hosting students from over 85+ countries, Sharda offers a multicultural campus atmosphere alongside robust academic departments in engineering, management, medical sciences, and law.
+[Sharda University](/colleges/sharda-greater-noida) in Greater Noida is a globally diversified private university known for its motto "The World is Here, Where are You?". Hosting students from over 85+ countries, Sharda offers a multicultural campus atmosphere alongside robust academic departments in engineering, management, medical sciences, and law.
 
 ### Key Institutional Highlights (2026)
 

@@ -56,7 +56,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business): University Overview & Accreditation
 
-SCMS Cochin School of Business, located at Muttom near Aluva in Kochi, is one of South India's oldest and most respected autonomous business schools. Renowned for its industry-curated PGDM program, ACBSP international accreditation, and consistent banking/consulting placements, SCMS Cochin delivers strong ROI for management aspirants.
+[SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business), located at Muttom near Aluva in Kochi, is one of South India's oldest and most respected autonomous business schools. Renowned for its industry-curated PGDM program, ACBSP international accreditation, and consistent banking/consulting placements, SCMS Cochin delivers strong ROI for management aspirants.
 
 ### Key Institutional Highlights (2026)
 

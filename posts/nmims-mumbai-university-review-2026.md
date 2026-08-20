@@ -61,7 +61,7 @@ SVKM's NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institut
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | SVKM’s NMIMS (Narsee Monjee Institute of Management Studies) |
+| **Full Institutional Name** | SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) |
 | **Location & Region** | Mumbai, Mumbai |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 1981 (Deemed University status 2003) |
@@ -103,7 +103,7 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** Goldman Sachs, McKinsey, JP Morgan, BCG, Google, Microsoft, HUL, ITC, Amazon, Deloitte
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹25.10 LPA (MBA Core) / ₹8.50 LPA (UG Business/Tech)**, NMIMS Mumbai provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹25.10 LPA (MBA Core) / ₹8.50 LPA (UG Business/Tech)**, [NMIMS Mumbai](/colleges/nmims-mumbai) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 

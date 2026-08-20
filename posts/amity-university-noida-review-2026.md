@@ -117,7 +117,7 @@ Life at **Amity Noida** extends far beyond traditional classrooms. The campus is
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to Amity University, Noida for the 2026 intake follows a structured and merit-oriented process:
+Securing admission to [Amity University, Noida](/colleges/amity-university-noida) for the 2026 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**CUET, CAT, MAT, XAT, NMAT, JEE Main, Amity JEE / Merit-based**) or appear for the university's entrance test.
@@ -145,7 +145,7 @@ To help you make an unbiased decision, here is a balanced summary of the key adv
 
 ## ❓ Frequently Asked Questions (FAQs)
 
-### 1. Is Amity University, Noida a good choice for higher education in 2026?
+### 1. Is [Amity University](/colleges/amity-noida), Noida a good choice for higher education in 2026?
 Yes, Amity University, Noida is a highly reputed institution in Delhi NCR (UGC, NAAC A+, AICTE, WASC, IET). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹6.50 LPA - ₹8.50 LPA.
 
 ### 2. What is the annual fee structure at Amity University, Noida?

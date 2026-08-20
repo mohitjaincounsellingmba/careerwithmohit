@@ -60,7 +60,7 @@ Symbiosis International (Deemed University), headquartered at its stunning Laval
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Symbiosis International (Deemed University) (SIBM Pune, SCMHRD, SIIB) |
+| **Full Institutional Name** | Symbiosis International (Deemed University) ([SIBM Pune](/colleges/sibm-pune), SCMHRD, SIIB) |
 | **Location & Region** | Pune, Pune |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A++ Grade) |
 | **Established Year** | 1971 (University status 2002) |

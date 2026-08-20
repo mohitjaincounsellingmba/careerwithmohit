@@ -1,9 +1,12 @@
 ---
 title: >-
-  MDI Gurgaon PGDM Placement Report 2025: Average CTC ₹25.60 LPA, Highest ₹53.60 LPA & 147 Recruiters
+  MDI Gurgaon PGDM Placement Report 2025: Average CTC ₹25.60 LPA, Highest ₹53.60
+  LPA & 147 Recruiters
 date: '2026-08-15'
 description: >-
-  Detailed MDI Gurgaon PGDM Placement Report 2025. Explore average CTC of ₹25.60 LPA, median salary of ₹24.20 LPA, highest package of ₹53.60 LPA across 555 students.
+  Detailed MDI Gurgaon PGDM Placement Report 2025. Explore average CTC of ₹25.60
+  LPA, median salary of ₹24.20 LPA, highest package of ₹53.60 LPA across 555
+  students.
 keywords:
   - mdi gurgaon pgdm placement report 2025
   - mdi gurgaon average package 2025
@@ -11,21 +14,35 @@ keywords:
   - mdi gurgaon cat cutoff 2026
   - mdi gurgaon fees vs placements
   - mba admission 2026
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What was the average and highest CTC at MDI Gurgaon in 2025?
     answer: >-
-      For the 2025 batch, MDI Gurgaon achieved an average CTC of INR 25.60 LPA, a median CTC of INR 24.20 LPA, and a highest CTC of INR 53.60 LPA, placing all 555 students across PGDM, PGDM-HRM, and PGDM-IB programs.
+      For the 2025 batch, MDI Gurgaon achieved an average CTC of INR 25.60 LPA,
+      a median CTC of INR 24.20 LPA, and a highest CTC of INR 53.60 LPA, placing
+      all 555 students across PGDM, PGDM-HRM, and PGDM-IB programs.
   - question: How many companies participated in MDI Gurgaon placements in 2025?
     answer: >-
-      Over 147 prestigious companies participated in the final placement process, including 67 first-time recruiting partners.
+      Over 147 prestigious companies participated in the final placement
+      process, including 67 first-time recruiting partners.
   - question: What is the CAT cutoff for MDI Gurgaon?
     answer: >-
-      MDI Gurgaon accepts CAT scores, with the shortlist cutoff generally hovering between 94.5+ and 96.5+ percentile for General category candidates.
+      MDI Gurgaon accepts CAT scores, with the shortlist cutoff generally
+      hovering between 94.5+ and 96.5+ percentile for General category
+      candidates.
+location: Gurgaon
 ---
 
 The **Management Development Institute (MDI), Gurgaon** is recognized as one of India's premier B-schools, benefiting immensely from its prime location at the epicenter of Delhi-NCR's corporate hub.
 
-The **2025 PGDM placement season** at MDI Gurgaon concluded with **100% placements across a massive batch of 555 students**, recording an average CTC of **₹25.60 LPA** and a highest package of **₹53.60 LPA**.
+The **2025 PGDM placement season** at [MDI Gurgaon](/colleges/mdi-gurgaon) concluded with **100% placements across a massive batch of 555 students**, recording an average CTC of **₹25.60 LPA** and a highest package of **₹53.60 LPA**.
 
 Here is the complete **MDI Gurgaon PGDM Placement Report 2025**.
 

@@ -106,7 +106,7 @@ When comparing the annual tuition fees against the average placement compensatio
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **Amity University Mumbai** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[Amity University Mumbai](/colleges/amity-mumbai)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.
@@ -118,7 +118,7 @@ Life at **Amity University Mumbai** extends far beyond traditional classrooms. T
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to Amity University, Mumbai for the 2026 intake follows a structured and merit-oriented process:
+Securing admission to [Amity University, Mumbai](/colleges/amity-university-mumbai) for the 2026 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**CUET, CAT, MAT, XAT, JEE Main, Amity JEE / Merit**) or appear for the university's entrance test.
@@ -129,7 +129,7 @@ Securing admission to Amity University, Mumbai for the 2026 intake follows a str
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **Amity University Mumbai**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[Amity University](/colleges/amity-noida) Mumbai**:
 
 ### 👍 Why Choose Amity University Mumbai? (Pros)
 - **Sprawling** 30-acre green campus in Panvel with complete hostel and sports amenities

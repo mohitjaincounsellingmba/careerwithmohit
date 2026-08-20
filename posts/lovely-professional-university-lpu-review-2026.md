@@ -54,7 +54,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Lovely Professional University](/colleges/lovely-professional-university) (LPU): University Overview & Accreditation
 
-Lovely Professional University (LPU) in Phagwara, Punjab, is India's largest single-campus private university and holds a prestigious NAAC A++ accreditation with a 3.68 CGPA. Sprawling over a 600-acre township with 35,000+ students from 50+ countries, LPU is legendary for its global campus fests, Olympic medalist alumni (Neeraj Chopra), and high IT placement volume.
+[Lovely Professional University](/colleges/lovely-professional-university) (LPU) in Phagwara, Punjab, is India's largest single-campus private university and holds a prestigious NAAC A++ accreditation with a 3.68 CGPA. Sprawling over a 600-acre township with 35,000+ students from 50+ countries, LPU is legendary for its global campus fests, Olympic medalist alumni (Neeraj Chopra), and high IT placement volume.
 
 ### Key Institutional Highlights (2026)
 

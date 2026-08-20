@@ -56,7 +56,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Amity University](/colleges/amity-noida) Jaipur: University Overview & Accreditation
 
-Amity University Jaipur, situated on a scenic 152-acre campus amidst the Aravalli hills on the Delhi-Jaipur Highway, combines Amity's national brand strength with serene surroundings. The university is widely recognized for its management, biotechnology, engineering, and law programs in Rajasthan.
+[Amity University](/colleges/amity-noida) Jaipur, situated on a scenic 152-acre campus amidst the Aravalli hills on the Delhi-Jaipur Highway, combines Amity's national brand strength with serene surroundings. The university is widely recognized for its management, biotechnology, engineering, and law programs in Rajasthan.
 
 ### Key Institutional Highlights (2026)
 

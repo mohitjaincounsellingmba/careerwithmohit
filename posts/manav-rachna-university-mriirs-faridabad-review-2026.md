@@ -69,7 +69,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad |
+| **Full Institutional Name** | [Manav Rachna International Institute of Research and Studies](/colleges/manav-rachna-faridabad) (MRIIRS), Faridabad |
 | **Location & Region** | Faridabad, Haryana |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A++ Grade) |
 | **Established Year** | 1997 (Deemed University status 2008) |

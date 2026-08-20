@@ -61,7 +61,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Karunya Institute of Technology and Sciences, Coimbatore |
+| **Full Institutional Name** | [Karunya Institute of Technology and Sciences](/colleges/karunya-institute-of-technology-and-sciences), Coimbatore |
 | **Location & Region** | Coimbatore (Siruvani / Karunya Nagar), Coimbatore, South India |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A++ Grade) |
 | **Established Year** | 1986 (Deemed University status 2004) |

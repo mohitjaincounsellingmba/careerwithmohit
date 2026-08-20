@@ -49,7 +49,7 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **FORE School of Management Delhi** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **[FORE School of Management](/colleges/fore-school-delhi) Delhi** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |

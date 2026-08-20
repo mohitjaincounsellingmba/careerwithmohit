@@ -47,6 +47,8 @@ To help you measure your standing, we offer a high-fidelity **[Free IELTS Academ
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the format of the IELTS Academic test?
@@ -58,11 +60,3 @@ A band score of 7.0 or higher is generally considered excellent and is accepted 
 ### Is there negative marking in the IELTS exam?
 No, there is no negative marking in the IELTS exam. You are encouraged to attempt all questions in both the Listening and Reading modules.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

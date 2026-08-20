@@ -45,6 +45,8 @@ To help you measure your standing, we offer a high-fidelity **[Free BPSC Prelims
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of BPSC Prelims?
@@ -56,11 +58,3 @@ Yes, BPSC has a negative marking of -0.33 marks (1/3rd) for every incorrect answ
 ### What are the key areas to focus on for BPSC GS?
 Candidates should focus heavily on Bihar Special GK, General Science, Indian History & Culture, and National/International Current Affairs, which carry the maximum weightage in BPSC Prelims.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

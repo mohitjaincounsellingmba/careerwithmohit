@@ -1,8 +1,13 @@
 ---
-title: "XAT vs SNAP vs NMAT: Which is Easier After CAT? [2026] — Complete Comparison & Strategy"
+title: >-
+  XAT vs SNAP vs NMAT: Which is Easier After CAT? [2026] — Complete Comparison &
+  Strategy
 date: '2026-08-14'
 category: MBA Admissions
-description: "Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus, difficulty level, time management, target colleges (XLRI, SIBM, NMIMS), and scoring strategy."
+description: >-
+  Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus,
+  difficulty level, time management, target colleges (XLRI, SIBM, NMIMS), and
+  scoring strategy.
 keywords:
   - XAT vs SNAP vs NMAT
   - Which exam is easier after CAT
@@ -15,18 +20,43 @@ keywords:
   - Delhi NCR MBA Admissions 2026
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
-location: Delhi NCR
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Delhi NCR College Counselling
+location: Delhi
 faqs:
-  - question: Which exam is easiest among XAT, SNAP, and NMAT?
-    answer: "SNAP is generally considered the easiest in terms of conceptual difficulty, but it is an extreme speed test (60 questions in 60 minutes). NMAT is candidate-friendly because it has no negative marking and allows 3 attempts. XAT is conceptually the toughest but gives ample time per question."
+  - question: 'Which exam is easiest among XAT, SNAP, and NMAT?'
+    answer: >-
+      SNAP is generally considered the easiest in terms of conceptual
+      difficulty, but it is an extreme speed test (60 questions in 60 minutes).
+      NMAT is candidate-friendly because it has no negative marking and allows 3
+      attempts. XAT is conceptually the toughest but gives ample time per
+      question.
   - question: How is XAT different from CAT?
-    answer: "XAT features a unique 'Decision Making' section, a separate General Knowledge & Essay component, slightly tougher Reading Comprehension passages with critical reasoning emphasis, and a penalty for leaving more than 8 questions unattempted (-0.10 marks)."
+    answer: >-
+      XAT features a unique 'Decision Making' section, a separate General
+      Knowledge & Essay component, slightly tougher Reading Comprehension
+      passages with critical reasoning emphasis, and a penalty for leaving more
+      than 8 questions unattempted (-0.10 marks).
   - question: Does NMAT have negative marking?
-    answer: "No, NMAT by GMAC has zero negative marking. Candidates receive +3 marks for every correct answer and 0 marks for incorrect or unattempted questions, making it advantageous to attempt all questions."
-  - question: Which top colleges can I target through XAT, SNAP, and NMAT?
-    answer: "Through XAT: XLRI Jamshedpur/Delhi, XIMB, IMT Ghaziabad, GIM Goa. Through SNAP: SIBM Pune, SCMHRD Pune, SIBM Bangalore. Through NMAT: NMIMS Mumbai, NMIMS Bengaluru, K J Somaiya, and XIM University."
-  - question: How should I pivot my preparation from CAT to SNAP, NMAT, and XAT?
-    answer: "For SNAP: Focus on rapid speed arithmetic, vocabulary, and direct logic puzzles. For NMAT: Practice timed sectional computer-adaptive tests without guessing recklessly. For XAT: Solve 10 years of past Decision Making sets and practice abstract Reading Comprehension."
+    answer: >-
+      No, NMAT by GMAC has zero negative marking. Candidates receive +3 marks
+      for every correct answer and 0 marks for incorrect or unattempted
+      questions, making it advantageous to attempt all questions.
+  - question: 'Which top colleges can I target through XAT, SNAP, and NMAT?'
+    answer: >-
+      Through XAT: XLRI Jamshedpur/Delhi, XIMB, IMT Ghaziabad, GIM Goa. Through
+      SNAP: SIBM Pune, SCMHRD Pune, SIBM Bangalore. Through NMAT: NMIMS Mumbai,
+      NMIMS Bengaluru, K J Somaiya, and XIM University.
+  - question: 'How should I pivot my preparation from CAT to SNAP, NMAT, and XAT?'
+    answer: >-
+      For SNAP: Focus on rapid speed arithmetic, vocabulary, and direct logic
+      puzzles. For NMAT: Practice timed sectional computer-adaptive tests
+      without guessing recklessly. For XAT: Solve 10 years of past Decision
+      Making sets and practice abstract Reading Comprehension.
 ---
 
 Once the **CAT exam** concludes on the last Sunday of November, the MBA admission marathon is far from over. December and January bring the three biggest and most prestigious Non-CAT national entrance exams: **XAT (Xavier Aptitude Test), SNAP (Symbiosis National Aptitude Test), and NMAT (by GMAC)**.
@@ -41,7 +71,7 @@ In this comprehensive head-to-head analysis, **Mohit Jain** evaluates the **exam
 
 | Parameter | CAT | XAT | SNAP | NMAT by GMAC |
 | :--- | :--- | :--- | :--- | :--- |
-| **Conducting Authority** | IIMs (Rotational) | XLRI Jamshedpur | Symbiosis International | GMAC |
+| **Conducting Authority** | IIMs (Rotational) | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | Symbiosis International | GMAC |
 | **Exam Period** | Last Sunday of Nov | 1st Sunday of Jan | Dec (3 Attempts Allowed) | Oct – Dec (75-Day Window) |
 | **Total Duration** | 120 Minutes | 210 Minutes (3.5 Hrs) | **60 Minutes (Speed Test)** | 120 Minutes |
 | **Total Questions** | 66 Questions | ~100 Questions + Essay | 60 Questions | 108 Questions |
@@ -70,7 +100,7 @@ In this comprehensive head-to-head analysis, **Mohit Jain** evaluates the **exam
 XAT (Conceptual & Ethics)  SNAP (Pure Pacing)     NMAT (Adaptive & Safe)  CAT (Standard Aptitude)
 • Decision Making          • 60 Mins, 60 Qs        • No Negative Marks     • High Competition
 • Deep Analytical English  • Direct Formulas       • 3 Multi-Attempts      • Strict Sectionals
-• Flagship: XLRI           • Flagship: SIBM Pune   • Flagship: NMIMS       • Flagship: IIMs/FMS
+• Flagship: XLRI           • Flagship: [SIBM Pune](/colleges/sibm-pune)   • Flagship: NMIMS       • Flagship: IIMs/FMS
 ```
 
 ### 1. XAT (Xavier Aptitude Test): The Analytical Thinker's Exam
@@ -144,7 +174,7 @@ XAT features a unique 'Decision Making' section, a separate General Knowledge & 
 No, NMAT by GMAC has zero negative marking. Candidates receive +3 marks for every correct answer and 0 marks for incorrect or unattempted questions, making it advantageous to attempt all questions.
 
 ### Which top colleges can I target through XAT, SNAP, and NMAT?
-Through XAT: XLRI Jamshedpur/Delhi, XIMB, IMT Ghaziabad, GIM Goa. Through SNAP: SIBM Pune, SCMHRD Pune, SIBM Bangalore. Through NMAT: NMIMS Mumbai, NMIMS Bengaluru, K J Somaiya, and XIM University.
+Through XAT: XLRI Jamshedpur/Delhi, XIMB, IMT Ghaziabad, GIM Goa. Through SNAP: SIBM Pune, [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore). Through NMAT: [NMIMS Mumbai](/colleges/nmims-mumbai), NMIMS Bengaluru, K J Somaiya, and XIM University.
 
 ### How should I pivot my preparation from CAT to SNAP, NMAT, and XAT?
 For SNAP: Focus on rapid speed arithmetic, vocabulary, and direct logic puzzles. For NMAT: Practice timed sectional computer-adaptive tests without guessing recklessly. For XAT: Solve 10 years of past Decision Making sets and practice abstract Reading Comprehension.

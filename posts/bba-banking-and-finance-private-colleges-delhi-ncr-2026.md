@@ -49,7 +49,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 | College / University Name | NCR Location | Affiliated University / University Status | Specialized Course Name | Approx. Annual Fee | Approx. Total Fee (3 Years / 4 Years) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Amity University, Noida](/colleges/amity-university-noida)** | Noida | [Amity University](/colleges/amity-noida) Uttar Pradesh (*Private Deemed / State University - UGC*) | BBA (Banking and Finance / Financial Services / BFSI) | ₹3,50,000 | ₹10.5 Lakh (3 Yrs) / ₹14.0 Lakh (4 Yrs) |
-| **[Amity University](/colleges/amity-noida), Gurugram** | Gurugram (Manesar) | Amity University Haryana (*Private University - UGC*) | BBA (Banking and Financial Services) | ₹3,20,000 | ₹9.6 Lakh (3 Yrs) / ₹12.8 Lakh (4 Yrs) |
+| **[Amity University](/colleges/amity-noida), Gurugram** | Gurugram (Manesar) | [Amity University](/colleges/amity-noida) Haryana (*Private University - UGC*) | BBA (Banking and Financial Services) | ₹3,20,000 | ₹9.6 Lakh (3 Yrs) / ₹12.8 Lakh (4 Yrs) |
 | **[GD Goenka University](/colleges/gd-goenka-university)** | Gurugram | [GD Goenka University](/colleges/gd-goenka-university), Haryana (*Private University - UGC*) | BBA (Banking, Financial Services & Insurance - BFSI / Financial Markets) | ₹2,90,000 | ₹8.7 Lakh (3 Yrs) / ₹11.6 Lakh (4 Yrs) |
 | **[Sharda University](/colleges/sharda-greater-noida)** | Greater Noida | [Sharda University](/colleges/sharda-greater-noida) (*Private University - UGC*) | BBA (Banking and Finance / Financial Management / BFSI) | ₹2,35,000 | ₹7.0 Lakh (3 Yrs) / ₹9.4 Lakh (4 Yrs) |
 | **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | [Galgotias University](/colleges/galgotias-university) (*Private University - UGC*) | BBA (Banking, Financial Services & Insurance - BFSI / Financial Management) | ₹1,25,000 | ₹3.75 Lakh (3 Yrs) / ₹5.0 Lakh (4 Yrs) |
@@ -86,7 +86,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 
 ---
 
-### 2. GD Goenka University, Gurugram
+### 2. [GD Goenka University](/colleges/gd-goenka-university), Gurugram
 - **Affiliated University**: GD Goenka University, Haryana (*Private University - UGC Approved*)
 - **Annual Fee**: Approx. ₹2,90,000 per year
 - **Course Highlights**:
@@ -97,7 +97,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 
 ---
 
-### 3. Sharda University, Greater Noida
+### 3. [Sharda University](/colleges/sharda-greater-noida), Greater Noida
 - **Affiliated University**: Sharda University (*Private University - UGC Approved*)
 - **Annual Fee**: Approx. ₹2,35,000 per year
 - **Course Highlights**:
@@ -107,7 +107,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 
 ---
 
-### 4. Galgotias University, Greater Noida
+### 4. [Galgotias University](/colleges/galgotias-university), Greater Noida
 - **Affiliated University**: Galgotias University (*Private University - UGC Approved*)
 - **Annual Fee**: Approx. ₹1,25,000 per year
 - **Course Highlights**:
@@ -118,7 +118,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 
 ---
 
-### 5. Bennett University, Greater Noida
+### 5. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
 - **Affiliated University**: Bennett University (*Private University by The Times Group - UGC Approved*)
 - **Annual Fee**: Approx. ₹3,40,000 per year
 - **Course Highlights**:

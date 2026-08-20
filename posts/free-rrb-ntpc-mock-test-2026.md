@@ -44,6 +44,8 @@ To help you measure your standing, we offer a high-fidelity **[Free RRB NTPC 202
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of RRB NTPC CBT 1?
@@ -55,11 +57,3 @@ Yes, there is a negative marking of 1/3rd (-0.33) marks for every wrong answer i
 ### What is a good score to clear RRB NTPC CBT 1?
 Depending on the zone and post category, a normalized score of 70-80+ is generally required to qualify for CBT 2.
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

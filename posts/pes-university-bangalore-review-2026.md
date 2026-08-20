@@ -45,7 +45,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [PES University](/colleges/pes-university) Bangalore: University Overview & Accreditation
 
-PES University (formerly PESIT), with campuses in Ring Road (RR Campus) and Electronic City (EC Campus), is widely regarded as Bangalore's #1 private technical university. Known for its rigorous academic curriculum, student satellite programs, and jaw-dropping CSE placement statistics averaging over ₹12.5 LPA, PES is a top alternative to NITs and IIITs.
+[PES University](/colleges/pes-university) (formerly PESIT), with campuses in Ring Road (RR Campus) and Electronic City (EC Campus), is widely regarded as Bangalore's #1 private technical university. Known for its rigorous academic curriculum, student satellite programs, and jaw-dropping CSE placement statistics averaging over ₹12.5 LPA, PES is a top alternative to NITs and IIITs.
 
 ### Key Institutional Highlights (2026)
 

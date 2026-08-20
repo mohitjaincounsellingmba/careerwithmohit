@@ -50,7 +50,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai) Mumbai: University Overview & Accreditation
 
-Atlas SkillTech University, situated in the prestigious Equinox Business Park in Kurla/BKC Mumbai, is India's premier urban multidisciplinary university. Formed by integrating the celebrated ISME School of Management and ISDI School of Design (Parsons collaboration), Atlas is renowned for its high-fashion aesthetics, corporate proximity, and tech-driven curriculum.
+[Atlas SkillTech University](/colleges/atlas-skilltech-mumbai), situated in the prestigious Equinox Business Park in Kurla/BKC Mumbai, is India's premier urban multidisciplinary university. Formed by integrating the celebrated ISME School of Management and ISDI School of Design (Parsons collaboration), Atlas is renowned for its high-fashion aesthetics, corporate proximity, and tech-driven curriculum.
 
 ### Key Institutional Highlights (2026)
 

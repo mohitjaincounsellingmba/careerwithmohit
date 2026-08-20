@@ -1,9 +1,11 @@
 ---
 title: >-
-  DoMS, IIT Delhi MBA Placement Report 2025: Average Package ₹22.52 LPA, Highest ₹43.55 LPA & Analytics Roles
+  DoMS, IIT Delhi MBA Placement Report 2025: Average Package ₹22.52 LPA, Highest
+  ₹43.55 LPA & Analytics Roles
 date: '2026-08-15'
 description: >-
-  Complete DoMS IIT Delhi MBA Placement Report 2025. Read about average package of ₹22.52 LPA, median of ₹22.50 LPA, top recruiters, consulting roles & fees.
+  Complete DoMS IIT Delhi MBA Placement Report 2025. Read about average package
+  of ₹22.52 LPA, median of ₹22.50 LPA, top recruiters, consulting roles & fees.
 keywords:
   - doms iit delhi mba placement report 2025
   - doms iit delhi average package 2025
@@ -11,16 +13,31 @@ keywords:
   - doms iit delhi cat cutoff
   - iit delhi mba fees and roi
   - mba admission 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package for MBA at DoMS IIT Delhi in 2025?
     answer: >-
-      For the 2025 batch, DoMS IIT Delhi recorded an average CTC of INR 22.52 LPA and a median CTC of INR 22.50 LPA, with the highest package reaching INR 43.55 LPA.
+      For the 2025 batch, DoMS IIT Delhi recorded an average CTC of INR 22.52
+      LPA and a median CTC of INR 22.50 LPA, with the highest package reaching
+      INR 43.55 LPA.
   - question: What are the main MBA programs offered at IIT Delhi?
     answer: >-
-      DoMS IIT Delhi offers two flagship 2-year programs: MBA (General Management) and MBA in Telecom Systems Management (TSM), both renowned for quantitative rigor and tech-strategy leadership.
+      DoMS IIT Delhi offers two flagship 2-year programs: MBA (General
+      Management) and MBA in Telecom Systems Management (TSM), both renowned for
+      quantitative rigor and tech-strategy leadership.
   - question: What is the CAT cutoff for DoMS IIT Delhi MBA?
     answer: >-
-      The final shortlist cutoff for General category candidates generally ranges between 97.5+ and 98.5+ percentile in CAT, alongside strong academic credentials.
+      The final shortlist cutoff for General category candidates generally
+      ranges between 97.5+ and 98.5+ percentile in CAT, alongside strong
+      academic credentials.
+location: Delhi
 ---
 
 The **Department of Management Studies (DoMS) at IIT Delhi** continues to be a premier choice for engineering and non-engineering graduates aiming for a blend of strategic management and technology acumen.
@@ -71,7 +88,7 @@ pie title DoMS IIT Delhi Domain Share 2025
 
 With a total fee of just **₹12.0–12.8 Lakhs** and an average starting salary of **₹22.52 LPA**, DoMS IIT Delhi delivers a **payback period of under 7 to 9 months**, ranking among the highest ROI management programs in India.
 
-*   Compare with other IITs: **[SJMSOM IIT Bombay Placement Report 2025](/blog/sjmsom-iit-bombay-mba-placement-report-2025)**
+*   Compare with other IITs: **[SJMSOM [IIT Bombay](/colleges/iit-bombay) Placement Report 2025](/blog/sjmsom-iit-bombay-mba-placement-report-2025)**
 *   Compare with national IIM benchmarks: **[All 21 IIMs Placement Report 2025](/blog/all-iim-recent-placement-report-2025)**
 
 ---

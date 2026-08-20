@@ -1,9 +1,12 @@
 ---
 title: >-
-  IMT Ghaziabad PGDM Placement Report 2025: Average CTC ₹16.25 - 18.89 LPA, Highest ₹41.55 LPA & Marketing Capital
+  IMT Ghaziabad PGDM Placement Report 2025: Average CTC ₹16.25 - 18.89 LPA,
+  Highest ₹41.55 LPA & Marketing Capital
 date: '2026-08-15'
 description: >-
-  Complete IMT Ghaziabad PGDM Placement Report 2025. Explore average package, highest package of ₹41.55 LPA, top recruiters in Marketing & BFSI, fees and CAT/XAT cutoffs.
+  Complete IMT Ghaziabad PGDM Placement Report 2025. Explore average package,
+  highest package of ₹41.55 LPA, top recruiters in Marketing & BFSI, fees and
+  CAT/XAT cutoffs.
 keywords:
   - imt ghaziabad pgdm placement report 2025
   - imt ghaziabad average package 2025
@@ -11,16 +14,30 @@ keywords:
   - imt ghaziabad cat cutoff 2026
   - imt marketing placement report
   - mba admission 2026
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package at IMT Ghaziabad for the 2025 placement cycle?
     answer: >-
-      For the 2023-25 graduating cohort, IMT Ghaziabad recorded a consolidated average package of INR 16.25 LPA (with early 2024-26 batch figures touching INR 18.89 LPA) and a highest package of INR 41.55 LPA.
+      For the 2023-25 graduating cohort, IMT Ghaziabad recorded a consolidated
+      average package of INR 16.25 LPA (with early 2024-26 batch figures
+      touching INR 18.89 LPA) and a highest package of INR 41.55 LPA.
   - question: Is IMT Ghaziabad the best B-school for Sales and Marketing?
     answer: >-
-      Yes, IMT Ghaziabad is widely considered India's premier private business school for Sales, Brand Management, and Marketing, attracting top global FMCG, retail, and digital marketing recruiters.
+      Yes, IMT Ghaziabad is widely considered India's premier private business
+      school for Sales, Brand Management, and Marketing, attracting top global
+      FMCG, retail, and digital marketing recruiters.
   - question: What entrance exams does IMT Ghaziabad accept?
     answer: >-
-      IMT Ghaziabad accepts CAT, XAT, and GMAT scores, with shortlist cutoffs typically around 90–93 percentile in CAT/XAT.
+      IMT Ghaziabad accepts CAT, XAT, and GMAT scores, with shortlist cutoffs
+      typically around 90–93 percentile in CAT/XAT.
+location: Ghaziabad
 ---
 
 Recognized across India Inc. as the "Marketing Mecca" of management education, the **Institute of Management Technology (IMT), Ghaziabad** continues to deliver commanding placements across Consumer Goods, BFSI, Consulting, and Analytics.

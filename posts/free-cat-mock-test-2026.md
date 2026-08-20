@@ -45,6 +45,8 @@ To help you measure your standing, we offer a high-fidelity **[Free CAT 2026 Moc
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the CAT 2026 exam?
@@ -56,11 +58,3 @@ Yes, there is a penalty of -1 mark for each incorrect multiple-choice question (
 ### What is a good score in CAT to get into top IIMs?
 A raw score of 85+ (out of 198) is typically required to secure a 99+ percentile, which is the benchmark for getting call letters from the top 3 IIMs (A, B, C).
 
-
----
-
-### 🚀 Boost Your Preparation
-
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----

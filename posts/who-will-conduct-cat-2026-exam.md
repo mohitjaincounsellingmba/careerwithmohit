@@ -93,7 +93,7 @@ Understanding which IIM convened the exam in previous years helps aspirants trac
 | **2021** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | November 28, 2021 | Balanced structure; 66 questions (reduced from 76) |
 | **2020** | IIM Indore | November 29, 2020 | Transitioned to 2-hour duration due to COVID-19 protocols |
 | **2019** | IIM Kozhikode | November 24, 2019 | Standard 3-hour format with 100 questions |
-| **2018** | IIM Calcutta | November 25, 2018 | Known for challenging Quantitative Aptitude calculations |
+| **2018** | [IIM Calcutta](/colleges/iim-calcutta) | November 25, 2018 | Known for challenging Quantitative Aptitude calculations |
 
 ---
 

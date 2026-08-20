@@ -72,7 +72,7 @@ pie title VGSoM Domain Share 2025
 
 With total program fees under **₹14 Lakhs** and an average package exceeding **₹22.75 LPA**, VGSoM continues to provide an enviable return on investment (payback under 8 to 10 months).
 
-*   Compare with **[SJMSOM IIT Bombay Placement Report 2025](/blog/sjmsom-iit-bombay-mba-placement-report-2025)**
+*   Compare with **[SJMSOM [IIT Bombay](/colleges/iit-bombay) Placement Report 2025](/blog/sjmsom-iit-bombay-mba-placement-report-2025)**
 *   Compare with **[DoMS IIT Delhi Placement Report 2025](/blog/doms-iit-delhi-mba-placement-report-2025)**
 
 ---

@@ -52,7 +52,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [Poornima University](/colleges/poornima-jaipur): University Overview & Accreditation
 
-Poornima University in Jaipur is a prominent institution under the Poornima Group, renowned for its pragmatic approach to engineering, design, and business education. Located in Sitapura, the university emphasizes project-based learning, digital skills, and consistent placement support across Rajasthan.
+[Poornima University](/colleges/poornima-jaipur) in Jaipur is a prominent institution under the Poornima Group, renowned for its pragmatic approach to engineering, design, and business education. Located in Sitapura, the university emphasizes project-based learning, digital skills, and consistent placement support across Rajasthan.
 
 ### Key Institutional Highlights (2026)
 

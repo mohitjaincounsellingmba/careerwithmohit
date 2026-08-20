@@ -57,7 +57,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ [GD Goenka University](/colleges/gd-goenka-university) Gurugram: University Overview & Accreditation
 
-GD Goenka University, set on an opulent 60-acre campus on Sohna Road in Gurugram, combines luxury infrastructure with practical higher education. Renowned for its Unitedworld Institute of Design (UID NCR), Le Cordon Bleu hospitality school, and industry-partnered MBA/B.Tech programs, GD Goenka offers a premium NCR campus experience.
+[GD Goenka University](/colleges/gd-goenka-university), set on an opulent 60-acre campus on Sohna Road in Gurugram, combines luxury infrastructure with practical higher education. Renowned for its Unitedworld Institute of Design (UID NCR), Le Cordon Bleu hospitality school, and industry-partnered MBA/B.Tech programs, GD Goenka offers a premium NCR campus experience.
 
 ### Key Institutional Highlights (2026)
 

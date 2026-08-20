@@ -96,7 +96,7 @@ The **Common Admission Test (CAT)** is India’s flagship management entrance ex
 Conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** on behalf of the Xavier Association of Management Institutes (XAMI), **[XAT](/blog/all-about-xat-exam)** is accepted by over 160 B-schools nationwide. It is renowned for its unique **Decision Making (DM)** section and comprehensive analytical evaluation.
 
 *   **Eligibility:** Recognized Bachelor’s degree of minimum 3 years duration in any discipline.
-*   **Application Form Cost:** **INR 2,200** (Basic registration) + **INR 200 per program** applied at XLRI Jamshedpur or Delhi NCR campus.
+*   **Application Form Cost:** **INR 2,200** (Basic registration) + **INR 200 per program** applied at [XLRI Jamshedpur](/colleges/xlri-jamshedpur) or Delhi NCR campus.
 *   **Registration Last Date:** **Late November / First week of December 2026**.
 *   **Exam Date:** First Sunday of January (**3 January 2027**).
 *   **Exam Pattern:** 3 hours 30 minutes exam comprising Verbal & Logical Ability, Decision Making, Quantitative Ability & Data Interpretation, General Knowledge, and an Analytical Essay Writing task.

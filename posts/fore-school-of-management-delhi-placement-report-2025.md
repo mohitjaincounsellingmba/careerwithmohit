@@ -1,9 +1,12 @@
 ---
 title: >-
-  FORE School of Management Delhi Placement Report 2025: Average CTC ₹16.40 LPA, Median ₹15.20 LPA & Highest ₹29.00 LPA
+  FORE School of Management Delhi Placement Report 2025: Average CTC ₹16.40 LPA,
+  Median ₹15.20 LPA & Highest ₹29.00 LPA
 date: '2026-08-15'
 description: >-
-  Complete FORE School of Management Delhi PGDM Placement Report 2025. Discover average CTC of ₹16.40 LPA, median of ₹15.20 LPA, highest of ₹29.00 LPA, top BFSI & IT recruiters.
+  Complete FORE School of Management Delhi PGDM Placement Report 2025. Discover
+  average CTC of ₹16.40 LPA, median of ₹15.20 LPA, highest of ₹29.00 LPA, top
+  BFSI & IT recruiters.
 keywords:
   - fore school of management delhi placement report 2025
   - fore delhi average package 2025
@@ -11,23 +14,37 @@ keywords:
   - fore delhi cat xat cutoff 2026
   - top private b schools in delhi ncr
   - mba admission 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What was the average and highest CTC at FORE School of Management in 2025?
     answer: >-
-      For the 2025 batch, FORE School of Management, New Delhi recorded an average CTC of INR 16.40 LPA, a median CTC of INR 15.20 LPA, and a highest domestic package of INR 29.00 LPA.
+      For the 2025 batch, FORE School of Management, New Delhi recorded an
+      average CTC of INR 16.40 LPA, a median CTC of INR 15.20 LPA, and a highest
+      domestic package of INR 29.00 LPA.
   - question: What programs are offered at FORE School of Management?
     answer: >-
-      FORE offers four specialized full-time PGDM programs: PGDM (General Management), PGDM (International Business - IB), PGDM (Financial Management - FM), and PGDM (Big Data Analytics - BDA).
+      FORE offers four specialized full-time PGDM programs: PGDM (General
+      Management), PGDM (International Business - IB), PGDM (Financial
+      Management - FM), and PGDM (Big Data Analytics - BDA).
   - question: What is the CAT/XAT cutoff for FORE Delhi?
     answer: >-
-      The CAT, XAT, and GMAT cutoffs for FORE School of Management typically range between 82 and 86 percentile for General applicants.
+      The CAT, XAT, and GMAT cutoffs for FORE School of Management typically
+      range between 82 and 86 percentile for General applicants.
+location: Delhi
 ---
 
 Strategically located in South Delhi’s corporate hub (Qutub Institutional Area), the **Foundation for Organisational Research and Education (FORE) School of Management** is one of North India’s most consistent management institutes.
 
 The **2025 PGDM placement season** delivered solid placement metrics, recording an overall average package of **₹16.40 LPA** (with top 20% averaging **₹21.80 LPA**) and a highest salary of **₹29.00 LPA**.
 
-Here is the complete **FORE School of Management Delhi Placement Report 2025**.
+Here is the complete **[FORE School of Management](/colleges/fore-school-delhi) Delhi Placement Report 2025**.
 
 ---
 

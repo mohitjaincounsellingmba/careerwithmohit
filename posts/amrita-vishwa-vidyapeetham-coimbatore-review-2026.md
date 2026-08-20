@@ -62,7 +62,7 @@ Amrita Vishwa Vidyapeetham at its breathtaking 400-acre Ettimadai campus nestled
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore |
+| **Full Institutional Name** | Amrita Vishwa Vidyapeetham ([Amrita School of Business](/colleges/amrita-school-of-business)), Coimbatore |
 | **Location & Region** | Coimbatore (Ettimadai), Coimbatore, South India |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A++ Grade) |
 | **Established Year** | 1994 (Deemed University status 2003) |
