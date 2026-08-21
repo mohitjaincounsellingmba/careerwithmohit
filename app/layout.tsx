@@ -9,6 +9,7 @@ import dynamic from 'next/dynamic';
 
 const InquiryPopup = dynamic(() => import('@/components/InquiryPopup').then(mod => mod.InquiryPopup));
 const BotInquiryPopup = dynamic(() => import('@/components/BotInquiryPopup').then(mod => mod.BotInquiryPopup));
+import { AnalyticsTracker } from "@/components/AnalyticsTracker";
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -272,6 +273,7 @@ export default function RootLayout({
       <body
         className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
       >
+        <AnalyticsTracker />
         <Header />
         <InquiryPopup />
         <BotInquiryPopup />

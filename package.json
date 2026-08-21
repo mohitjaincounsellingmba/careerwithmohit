@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && node scripts/optimize-static-export.mjs",
+    "build": "node scripts/generate-admin-data.mjs && next build && node scripts/optimize-static-export.mjs",
     "start": "next start",
     "test": "playwright test",
     "scrape-colleges": "node scripts/scrape-colleges.js",
