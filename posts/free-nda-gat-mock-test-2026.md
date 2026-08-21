@@ -59,3 +59,11 @@ For Mathematics, each correct answer is +2.5 marks and negative marking is -0.83
 ### What is the written cutoff for UPSC NDA?
 The written exam cutoff varies between 340-360 out of 900 marks. In addition, candidates must score at least 25% in each of the two papers individually.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

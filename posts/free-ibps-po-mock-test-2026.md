@@ -58,3 +58,11 @@ Yes, you must pass in each of the three sections by securing minimum qualifying 
 ### What is the marking scheme and negative marking in IBPS PO?
 Each correct answer carries +1 mark. If you mark a wrong answer, a penalty of -0.25 marks is applied. Unattempted questions carry no penalty.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

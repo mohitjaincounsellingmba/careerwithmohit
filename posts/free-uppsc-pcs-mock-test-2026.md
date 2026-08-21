@@ -60,3 +60,11 @@ No, Paper 2 (CSAT) is qualifying in nature. Candidates only need to secure a min
 ### Is there negative marking in UPPSC PCS Prelims?
 Yes, there is a negative marking of 1/3rd (-0.33) of the marks assigned to each question for every wrong response.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

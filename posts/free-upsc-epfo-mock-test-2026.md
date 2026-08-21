@@ -57,3 +57,11 @@ Yes, there is a negative marking of 1/3rd (-0.33) of the marks allotted to each 
 ### What are the key subjects tested in UPSC EPFO?
 The syllabus includes General English, Indian Freedom Struggle, Current Events, Indian Economy & Polity, General Accounting Principles, Industrial Relations & Labor Laws, General Science, and Quantitative Aptitude.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

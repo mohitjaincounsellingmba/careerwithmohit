@@ -59,3 +59,11 @@ Yes, there is a negative marking of 1/3rd (-0.33) of the mark of the question fo
 ### How many marks are required to clear RAS Prelims?
 Historically, clearing RAS Prelims requires a score around 80-85 marks out of 200 for general category candidates.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -61,3 +61,11 @@ Yes, NEET has a negative marking scheme. Correct answers are awarded +4 marks, w
 ### What score is required to get a free seat in government medical college via NEET?
 Generally, a score of 610+ (out of 720) for general category students is required to secure an MBBS seat in a government medical college through the All India Quota.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

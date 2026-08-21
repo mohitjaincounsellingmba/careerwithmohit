@@ -58,3 +58,11 @@ No, there is no negative marking in the SRMJEEE exam. Candidates should attempt 
 ### What is a good rank in SRMJEEE for CSE at KTR Campus?
 To secure a seat in Computer Science Engineering (CSE) at SRM Kattankulathur (KTR) Main Campus, candidates should ideally aim for a rank under 10,000.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

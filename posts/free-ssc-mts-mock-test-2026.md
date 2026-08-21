@@ -59,3 +59,11 @@ There is no negative marking in Session 1. However, in Session 2, there is a neg
 ### How is the final merit list prepared for SSC MTS?
 The final merit list is prepared solely based on the marks scored by the candidate in Session 2 (General Awareness and English) of the written exam.
 
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
