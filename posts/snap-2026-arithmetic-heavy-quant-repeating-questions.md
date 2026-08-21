@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 When preparing for the Quantitative Aptitude section of the Symbiosis National Aptitude Test (SNAP), speed is your primary asset. You have exactly 20 questions in the Quant, DI, and DS section, and you cannot afford to spend more than 75 seconds per question.
 

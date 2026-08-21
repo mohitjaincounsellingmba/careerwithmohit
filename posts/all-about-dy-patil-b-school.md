@@ -1,23 +1,38 @@
 ---
-title: "DY Patil B School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to DY Patil B School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'DY Patil B School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to DY Patil B School? Read our comprehensive PGDM review
+  for 2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "dy patil b school review 2026"
-  - "dy patil b school pgdm placements"
-  - "dy patil b school admission cutoff"
-  - "dy patil b school fees"
+  - dy patil b school review 2026
+  - dy patil b school pgdm placements
+  - dy patil b school admission cutoff
+  - dy patil b school fees
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is DY Patil B School a good option for PGDM/MBA?"
+  - question: Is DY Patil B School a good option for PGDM/MBA?
     answer: >-
-      Yes, DY Patil B School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at DY Patil B School?"
+      Yes, DY Patil B School is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at DY Patil B School?
     answer: >-
-      The average placement package at DY Patil B School is approximately ₹8.0 LPA, with the highest package reaching up to ₹24.0 LPA.
-  - question: "What entrance exams are accepted by DY Patil B School?"
+      The average placement package at DY Patil B School is approximately ₹8.0
+      LPA, with the highest package reaching up to ₹24.0 LPA.
+  - question: What entrance exams are accepted by DY Patil B School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [DY Patil B School](/colleges/dy-patil-b-school)**

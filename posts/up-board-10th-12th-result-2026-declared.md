@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 The Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) has officially declared the **UP Board Class 10 (High School) and Class 12 (Intermediate) Results 2026 today, April 23, 2026, at 4:00 PM**. Millions of students who appeared for the examinations in February and March can now access their digital marksheets online.
 

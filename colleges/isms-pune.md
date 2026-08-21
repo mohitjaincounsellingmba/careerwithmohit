@@ -1,7 +1,7 @@
 ---
 name: ISMS Pune
 logo: ''
-location: 'Ambegaon, Pune'
+location: Pune
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - ISMS Pune PGDM placement
   - ISMS Pune MBA admission 2027
   - 'MBA colleges Ambegaon, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

@@ -10,6 +10,12 @@ keywords:
   - JMAU placement partners
   - MBA in Kota for SC/ST
   - JMAU admission 2026
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: Is Jai Minesh Adivasi University a government university?
     answer: >-
@@ -26,6 +32,8 @@ faqs:
       The university has strong links in the **Service and Hospitality
       sectors**, with partners like the Taj Group of Hotels, Oberoi, and various
       regional corporate giants.
+location: Jaipur
+state: Rajasthan
 ---
 
 ### 📊 JMAU Kota MBA 2026 Snapshot

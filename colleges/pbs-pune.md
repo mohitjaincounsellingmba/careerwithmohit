@@ -1,7 +1,7 @@
 ---
 name: PBS (Pune Business School)
 logo: ''
-location: 'Nigdi, Pune'
+location: Pune
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - PBS (Pune Business School) PGDM placement
   - PBS (Pune Business School) MBA admission 2027
   - 'MBA colleges Nigdi, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

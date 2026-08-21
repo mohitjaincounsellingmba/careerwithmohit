@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Amity Noida good for MBA in Business Analytics?
     answer: >-
@@ -32,7 +36,8 @@ faqs:
       with its PGDM program being highly respected in the NCR region.
   - question: What exams are accepted by IMS Noida?
     answer: IMS Noida accepts scores from national exams like MAT and CMAT.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Selecting the right B-school is critical if you are targeting a career in data science, quantitative decision-making, predictive modeling, or strategic business analytics. While general MBA rankings give a broad overview, analytics recruiters tend to visit campuses that have a strong tradition of quantitative studies, dedicated analytics specializations, and proximity to major corporate headquarters.

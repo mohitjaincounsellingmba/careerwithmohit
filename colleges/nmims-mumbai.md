@@ -1,7 +1,7 @@
 ---
 name: NMIMS Mumbai
 logo: /colleges/nmims-mumbai-logo.webp
-location: 'Mumbai, Maharashtra'
+location: Mumbai
 category: Management
 type: University
 courses:
@@ -42,6 +42,13 @@ keywords:
   - NMIMS Mumbai PGDM placement
   - NMIMS Mumbai MBA admission 2027
   - 'MBA colleges Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### About NMIMS Mumbai

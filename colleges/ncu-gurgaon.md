@@ -1,7 +1,7 @@
 ---
 name: The NorthCap University (NCU)
 logo: ''
-location: Gurgaon
+location: Delhi NCR
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - The NorthCap University (NCU) CSE placement
   - The NorthCap University (NCU) B.Tech admission 2027
   - engineering colleges Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### B.Tech Courses & Fees

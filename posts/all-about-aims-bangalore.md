@@ -1,23 +1,40 @@
 ---
-title: "AIMS Institutes Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to AIMS Institutes Bangalore? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  AIMS Institutes Bangalore PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to AIMS Institutes Bangalore? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "aims institutes bangalore review 2026"
-  - "aims institutes bangalore pgdm placements"
-  - "aims institutes bangalore admission cutoff"
-  - "aims institutes bangalore fees"
+  - aims institutes bangalore review 2026
+  - aims institutes bangalore pgdm placements
+  - aims institutes bangalore admission cutoff
+  - aims institutes bangalore fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is AIMS Institutes Bangalore a good option for PGDM/MBA?"
+  - question: Is AIMS Institutes Bangalore a good option for PGDM/MBA?
     answer: >-
-      Yes, AIMS Institutes Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at AIMS Institutes Bangalore?"
+      Yes, AIMS Institutes Bangalore is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at AIMS Institutes Bangalore?
     answer: >-
-      The average placement package at AIMS Institutes Bangalore is approximately ₹9.0 LPA, with the highest package reaching up to ₹18.0 LPA.
-  - question: "What entrance exams are accepted by AIMS Institutes Bangalore?"
+      The average placement package at AIMS Institutes Bangalore is
+      approximately ₹9.0 LPA, with the highest package reaching up to ₹18.0 LPA.
+  - question: What entrance exams are accepted by AIMS Institutes Bangalore?
     answer: >-
-      The college accepts scores from national level entrance examinations including MAT, CAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including MAT, CAT, CMAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [AIMS Institutes Bangalore](/colleges/aims-bangalore)**

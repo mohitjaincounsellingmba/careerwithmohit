@@ -37,6 +37,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can a BCA student get a job in Google?
     answer: >-
@@ -59,7 +63,8 @@ faqs:
       high-end design roles. However, **BCA graduates** skilled in "Data
       Science" or "Cloud Computing" are equally in demand for implementation and
       maintenance roles.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 This is the #1 question asked by students who love coding but are unsure which degree will lead to a better future: **"Should I choose BCA or B.Tech CSE?"** — the classic **bca vs btech** debate.

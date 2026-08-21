@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Pune, known as the "Oxford of the East," is a premier educational hub with a high concentration of research and professional institutes. With more private and deemed universities joining the **Common University Entrance Test (CUET) UG** framework, admission possibilities in Pune have expanded.
 

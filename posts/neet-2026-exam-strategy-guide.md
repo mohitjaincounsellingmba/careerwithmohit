@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: is NCERT enough for NEET Physics?
     answer: >-
@@ -44,7 +48,8 @@ faqs:
     answer: >-
       Ideally, from **January 2026**. This gives you 4 months to fine-tune your
       speed and accuracy.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The National Eligibility cum Entrance Test (NEET-UG) is the most competitive exam in India, with over 25 lakh students fighting for a limited number of around 1.1 lakh MBBS seats. In 2026, the stakes are higher than ever, with expected cutoffs for government seats touching the 630-650 mark across most major states.

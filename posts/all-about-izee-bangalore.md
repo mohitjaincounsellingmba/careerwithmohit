@@ -1,23 +1,38 @@
 ---
-title: "IZee Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to IZee Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'IZee Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to IZee Business School? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "izee business school review 2026"
-  - "izee business school pgdm placements"
-  - "izee business school admission cutoff"
-  - "izee business school fees"
+  - izee business school review 2026
+  - izee business school pgdm placements
+  - izee business school admission cutoff
+  - izee business school fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is IZee Business School a good option for PGDM/MBA?"
+  - question: Is IZee Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, IZee Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at IZee Business School?"
+      Yes, IZee Business School is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at IZee Business School?
     answer: >-
-      The average placement package at IZee Business School is approximately ₹6.5 LPA, with the highest package reaching up to ₹15.0 LPA.
-  - question: "What entrance exams are accepted by IZee Business School?"
+      The average placement package at IZee Business School is approximately
+      ₹6.5 LPA, with the highest package reaching up to ₹15.0 LPA.
+  - question: What entrance exams are accepted by IZee Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, KMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, KMAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [IZee Business School](/colleges/izee-bangalore)**

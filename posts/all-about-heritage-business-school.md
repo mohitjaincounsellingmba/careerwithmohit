@@ -1,23 +1,38 @@
 ---
-title: "Heritage Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Heritage Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Heritage Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Heritage Business School? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "heritage business school review 2026"
-  - "heritage business school pgdm placements"
-  - "heritage business school admission cutoff"
-  - "heritage business school fees"
+  - heritage business school review 2026
+  - heritage business school pgdm placements
+  - heritage business school admission cutoff
+  - heritage business school fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is Heritage Business School a good option for PGDM/MBA?"
+  - question: Is Heritage Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Heritage Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Heritage Business School?"
+      Yes, Heritage Business School is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Heritage Business School?
     answer: >-
-      The average placement package at Heritage Business School is approximately ₹5.4 LPA, with the highest package reaching up to ₹5.4 LPA.
-  - question: "What entrance exams are accepted by Heritage Business School?"
+      The average placement package at Heritage Business School is approximately
+      ₹5.4 LPA, with the highest package reaching up to ₹5.4 LPA.
+  - question: What entrance exams are accepted by Heritage Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [Heritage Business School](/colleges/heritage-business-school)**

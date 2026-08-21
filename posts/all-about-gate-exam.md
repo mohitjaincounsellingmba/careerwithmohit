@@ -13,6 +13,12 @@ keywords:
   - MTech admission IIT
   - how to prepare for GATE
   - GATE paper pattern
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -29,6 +35,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
+location: Bangalore
+state: Karnataka
 ---
 The **Graduate Aptitude Test in Engineering (GATE)** is one of the most competitive and widely recognized examinations in India. Primarily taken by engineering, architecture, and science graduates, GATE is your golden ticket to pursuing a Master’s degree (M.Tech/Ph.D.) at top institutes or securing a highly coveted job in Public Sector Undertakings (PSUs).
 

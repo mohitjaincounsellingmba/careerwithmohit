@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Where can I check my MAT PBT scorecard?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
     answer: >-
       The maximum composite score is **800** (200 per section × 4 sections: LC,
       ICR, MS, DA).
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **MAT May 2026 Paper-Based Test (PBT)** was held on **May 31, 2026** across multiple test centres in India. If you appeared for the PBT mode, you are now eagerly waiting for your official scorecard. This guide covers everything — the result date, how to check and download your PBT scorecard, and how to make sense of your score.

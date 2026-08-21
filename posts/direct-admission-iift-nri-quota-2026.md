@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can NRIs apply through CAT for IIFT?
     answer: >-
@@ -34,7 +38,8 @@ faqs:
     answer: >-
       You will typically need a valid Passport, proof of NRI status (e.g.,
       Parent's working visa/PR), and an official GMAT score report from GMAC.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### 📊 IIFT Foreign National/NRI 2026 Snapshot

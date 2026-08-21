@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which arts degree has the highest salary?
     answer: >-
@@ -31,7 +35,8 @@ faqs:
     answer: >-
       Yes, arts students can excel as UI-UX Designers, Technical Writers, or
       Digital Marketers in the tech industry.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The notion that the arts stream is only for non-serious students is a thing of the past. In 2026, arts graduates are among the most sought-after professionals in fields like corporate law, UX design, digital strategy, and high-level government administration.

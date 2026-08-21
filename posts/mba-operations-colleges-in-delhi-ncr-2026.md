@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which B-school has the best placements for Operations in Delhi NCR?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       Top-tier campuses like MDI Gurgaon report average packages around INR 27
       LPA. Mid-tier campuses like FORE and LBSIM report average packages between
       INR 12 LPA and 15 LPA.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Selecting the right B-school is critical if you are targeting a career in supply chain analytics, operations management, logistics operations, inventory planning, or strategic operations consulting. While general MBA rankings give a broad overview, operations and digital recruiters tend to visit campuses that have a strong tradition of quantitative analytics, dedicated operations specializations, and proximity to major corporate headquarters.

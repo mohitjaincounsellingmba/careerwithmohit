@@ -1,24 +1,38 @@
 ---
-title: 'Top MBA HR Colleges in Dehradun 2026 — Placements & Fees'
+title: Top MBA HR Colleges in Dehradun 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Explore the best MBA HR colleges in Dehradun. Read our 2026 guide on UPES, Doon Business School, and Graphic Era fees, packages, and cutoffs.'
+description: >-
+  Explore the best MBA HR colleges in Dehradun. Read our 2026 guide on UPES,
+  Doon Business School, and Graphic Era fees, packages, and cutoffs.
 keywords:
   - top mba hr colleges in dehradun 2026
   - best mba hr in dehradun
   - upes dehradun mba hr fees
   - doon business school hr placement
   - graphic era university mba dehradun
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
   - question: What are the key specializations in UPES Dehradun for MBA HR?
     answer: >-
-      UPES Dehradun offers specialized tracks that blend core strategic HR with technology, compensation structure designs, and modern labor laws.
+      UPES Dehradun offers specialized tracks that blend core strategic HR with
+      technology, compensation structure designs, and modern labor laws.
   - question: Does Doon Business School offer good HR placements?
     answer: >-
-      Yes, Doon Business School has a dedicated placement cell that invites consumer goods, IT, and banking firms for hiring graduates for HR executive and trainee profiles.
+      Yes, Doon Business School has a dedicated placement cell that invites
+      consumer goods, IT, and banking firms for hiring graduates for HR
+      executive and trainee profiles.
   - question: Are MAT scores accepted by B-schools in Dehradun?
     answer: >-
-      Yes, Doon Business School, UPES, and Graphic Era accept national level exam scores like MAT and CMAT.
+      Yes, Doon Business School, UPES, and Graphic Era accept national level
+      exam scores like MAT and CMAT.
+location: Dehradun
+state: Uttarakhand
 ---
 
 Selecting the right B-school is critical if you are targeting a career in talent acquisition, workforce management, employee wellness, industrial relations, or strategic human resources. While general MBA rankings give a broad overview, HR recruiters tend to visit campuses that have a strong tradition of organizational behavior studies, dedicated HR specialized cells, and proximity to major corporate headquarters.

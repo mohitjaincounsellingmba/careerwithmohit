@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my CUET UG 2026 result?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       Candidates must register separately on the admission portals of their
       target universities (e.g., DU CSAS portal, IP University portal, BHU, JNU)
       and submit their course and college preferences.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **National Testing Agency (NTA)** has officially declared the **CUET UG 2026 Results today, June 23, 2026**. Millions of students who appeared for the Common University Entrance Test (Undergraduate) can now access and download their scorecards from the official NTA portal.

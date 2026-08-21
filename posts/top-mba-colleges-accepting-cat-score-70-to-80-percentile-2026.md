@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are placements good in 70-80 percentile colleges?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
     answer: >-
       Most close by **mid-January**. It is better to apply *before* the CAT
       result is out if you are reasonably confident of your score.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Scoring between a **70 and 80 percentile in CAT** can feel like being in a "no man's land." You are far above the average, but still just short of the 95+ percentile needed for IIMs. 

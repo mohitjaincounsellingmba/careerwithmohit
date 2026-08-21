@@ -1,7 +1,7 @@
 ---
 name: Lal Bahadur Shastri Dehradun Institute of Management
 logo: /colleges/default-management-logo.webp
-location: 'Dehradun, India'
+location: Dehradun
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Lal Bahadur Shastri Dehradun Institute of Management PGDM placement
   - Lal Bahadur Shastri Dehradun Institute of Management MBA admission 2027
   - 'MBA colleges Dehradun, India'
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
+state: Uttarakhand
 ---
 
 ### About Lal Bahadur Shastri Dehradun Institute of Management

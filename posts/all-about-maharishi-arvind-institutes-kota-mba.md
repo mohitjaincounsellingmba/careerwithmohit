@@ -10,6 +10,12 @@ keywords:
   - MACET Kota placement
   - MBA in Kota Rajasthan
   - Maharishi Arvind admission
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: What is the difference between MAIIT and MACET for MBA?
     answer: >-
@@ -26,6 +32,8 @@ faqs:
       Yes, the group has a centralized placement cell that works with local
       industries, banking firms, and retail giants to ensure students get a
       solid career start.
+location: Jaipur
+state: Rajasthan
 ---
 
 ### 📊 Maharishi Arvind Institutes Kota 2026 Snapshot

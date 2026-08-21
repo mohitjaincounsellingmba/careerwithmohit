@@ -1,7 +1,7 @@
 ---
 name: Jamia Hamdard
 logo: /colleges/jamia-hamdard-logo.webp
-location: New Delhi
+location: Delhi NCR
 category: Management
 type: University
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Jamia Hamdard PGDM placement
   - Jamia Hamdard MBA admission 2027
   - MBA colleges New Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Jamia Hamdard

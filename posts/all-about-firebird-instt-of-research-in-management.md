@@ -1,23 +1,44 @@
 ---
-title: "Firebird Instt of Research in Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Firebird Instt of Research in Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Firebird Instt of Research in Management PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Firebird Instt of Research in Management? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "firebird instt of research in management review 2026"
-  - "firebird instt of research in management pgdm placements"
-  - "firebird instt of research in management admission cutoff"
-  - "firebird instt of research in management fees"
+  - firebird instt of research in management review 2026
+  - firebird instt of research in management pgdm placements
+  - firebird instt of research in management admission cutoff
+  - firebird instt of research in management fees
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "Is Firebird Instt of Research in Management a good option for PGDM/MBA?"
+  - question: Is Firebird Instt of Research in Management a good option for PGDM/MBA?
     answer: >-
-      Yes, Firebird Instt of Research in Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Firebird Instt of Research in Management?"
+      Yes, Firebird Instt of Research in Management is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Firebird Instt of Research in
+      Management?
     answer: >-
-      The average placement package at Firebird Instt of Research in Management is approximately ₹8 LPA, with the highest package reaching up to ₹9 LPA.
-  - question: "What entrance exams are accepted by Firebird Instt of Research in Management?"
+      The average placement package at Firebird Instt of Research in Management
+      is approximately ₹8 LPA, with the highest package reaching up to ₹9 LPA.
+  - question: >-
+      What entrance exams are accepted by Firebird Instt of Research in
+      Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### **College Review: [Firebird Instt of Research in Management](/colleges/firebird-instt-of-research-in-management)**

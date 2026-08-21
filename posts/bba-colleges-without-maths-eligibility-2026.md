@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai) without Math?'
     answer: >-
@@ -45,7 +49,8 @@ faqs:
       The corporate world hires for **Problem Solving and Communication**.
       Non-math BBA graduates from top colleges like Christ and Symbiosis are
       recruited by the same firms (Deloitte, EY) as math students.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 One of the biggest myths in undergraduate management is that you cannot pursue a top-tier BBA degree without having Mathematics in your Class 12. While it's true that elite institutes like **IIM Indore (IPMAT) and Shaheed Sukhdev (SSCBS)** mandate Math, over 80% of India's best BBA colleges are open to students from all streams—including those who opted for Physical Education or Psychology over Calculus.

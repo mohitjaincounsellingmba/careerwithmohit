@@ -1,23 +1,40 @@
 ---
-title: "J.S. Kothari Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to J.S. Kothari Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  J.S. Kothari Business School PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to J.S. Kothari Business School? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "j.s. kothari business school review 2026"
-  - "j.s. kothari business school pgdm placements"
-  - "j.s. kothari business school admission cutoff"
-  - "j.s. kothari business school fees"
+  - j.s. kothari business school review 2026
+  - j.s. kothari business school pgdm placements
+  - j.s. kothari business school admission cutoff
+  - j.s. kothari business school fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is J.S. Kothari Business School a good option for PGDM/MBA?"
+  - question: Is J.S. Kothari Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, J.S. Kothari Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at J.S. Kothari Business School?"
+      Yes, J.S. Kothari Business School is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at J.S. Kothari Business School?
     answer: >-
-      The average placement package at J.S. Kothari Business School is approximately ₹5.5 LPA, with the highest package reaching up to ₹11.0 LPA.
-  - question: "What entrance exams are accepted by J.S. Kothari Business School?"
+      The average placement package at J.S. Kothari Business School is
+      approximately ₹5.5 LPA, with the highest package reaching up to ₹11.0 LPA.
+  - question: What entrance exams are accepted by J.S. Kothari Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including MAH CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including MAH CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [J.S. Kothari Business School](/colleges/js-kothari-mumbai)**

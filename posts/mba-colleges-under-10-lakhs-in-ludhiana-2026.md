@@ -11,6 +11,12 @@ keywords:
   - affordable MBA in Ludhiana
   - low fees MBA colleges in Ludhiana
   - best MBA in Ludhiana under 10 Lakhs
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
   - question: Which is the best MBA college under 10 Lakhs in Ludhiana?
     answer: >-
@@ -31,6 +37,8 @@ faqs:
       total fee of under 10 Lakhs and average placement packages ranging from 5
       LPA to 12 LPA, graduates can recover their educational expenses in a very
       short duration.
+location: Chandigarh
+state: Punjab
 ---
 
 Pursuing a Master of Business Administration (MBA) does not always have to result in massive student loans. While top private business schools in India charge tuition fees ranging from ₹15 Lakhs to ₹28 Lakhs, several high-quality government institutions, state university departments, and local private colleges in **Ludhiana** offer quality management education under a budget of ₹10 Lakhs.

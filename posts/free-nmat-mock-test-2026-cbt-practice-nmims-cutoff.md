@@ -20,6 +20,12 @@ keywords:
   - free mock test 2026
   - online exam preparation
   - practice paper online
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What is the pattern of NMAT 2026?
     answer: >-
@@ -34,7 +40,8 @@ faqs:
     answer: >-
       The primary college is NMIMS (Mumbai, Bengaluru, Hyderabad). Other top
       colleges include SPJIMR, ISB, VIT University, and XIMB.
-location: India
+location: Mumbai
+state: Maharashtra
 ---
 # Free NMAT Mock Test 2026: Full 108-Question CBT Simulation with Instant NMIMS Cutoff Predictor
 

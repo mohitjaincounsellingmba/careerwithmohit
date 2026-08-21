@@ -1,23 +1,38 @@
 ---
-title: "IIM Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to IIM Bangalore? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'IIM Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to IIM Bangalore? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "iim bangalore review 2026"
-  - "iim bangalore pgdm placements"
-  - "iim bangalore admission cutoff"
-  - "iim bangalore fees"
+  - iim bangalore review 2026
+  - iim bangalore pgdm placements
+  - iim bangalore admission cutoff
+  - iim bangalore fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is IIM Bangalore a good option for PGDM/MBA?"
+  - question: Is IIM Bangalore a good option for PGDM/MBA?
     answer: >-
-      Yes, IIM Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at IIM Bangalore?"
+      Yes, IIM Bangalore is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at IIM Bangalore?
     answer: >-
-      The average placement package at IIM Bangalore is approximately ₹35.9 LPA, with the highest package reaching up to ₹1.15 Crore.
-  - question: "What entrance exams are accepted by IIM Bangalore?"
+      The average placement package at IIM Bangalore is approximately ₹35.9 LPA,
+      with the highest package reaching up to ₹1.15 Crore.
+  - question: What entrance exams are accepted by IIM Bangalore?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, GMAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [IIM Bangalore](/colleges/iim-bangalore)**

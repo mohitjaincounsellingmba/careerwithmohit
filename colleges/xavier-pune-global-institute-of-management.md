@@ -1,7 +1,7 @@
 ---
 name: Xavier Pune Global Institute of Management
 logo: /colleges/default-management-logo.webp
-location: 'Pune, India'
+location: Pune
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Xavier Pune Global Institute of Management PGDM placement
   - Xavier Pune Global Institute of Management MBA admission 2027
   - 'MBA colleges Pune, India'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### About Xavier Pune Global Institute of Management

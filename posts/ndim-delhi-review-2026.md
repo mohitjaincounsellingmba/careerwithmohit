@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the average package at New Delhi Institute of Management (NDIM) in
@@ -43,7 +47,8 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at New Delhi
       Institute of Management (NDIM) is approximately ₹11.50L - ₹13.75L (Total).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

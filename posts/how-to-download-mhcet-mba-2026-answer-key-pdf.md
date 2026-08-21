@@ -12,6 +12,12 @@ keywords:
   - MHCET MBA 2026 login link
   - MBA CET marking scheme
   - calculate MHCET MBA score
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: How can I download my MHCET MBA 2026 response sheet?
     answer: >-
@@ -31,6 +37,8 @@ faqs:
       The Phase 1 (April 6-8) answer key is expected by the 3rd week of April
       2026. The final answer key for all phases will be out after the May 9
       exam.
+location: Mumbai
+state: Maharashtra
 ---
 
 The **MHCET MBA 2026 Phase 1** exams (conducted on April 6, 7, and 8) are now over. While candidates are already shifting focus to Phase 2 (scheduled for May 9), there is a massive surge in searches for the **MHCET MBA 2026 Answer Key**.

@@ -1,23 +1,40 @@
 ---
-title: "Christ University Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Christ University Bangalore? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Christ University Bangalore PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Christ University Bangalore? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "christ university bangalore review 2026"
-  - "christ university bangalore pgdm placements"
-  - "christ university bangalore admission cutoff"
-  - "christ university bangalore fees"
+  - christ university bangalore review 2026
+  - christ university bangalore pgdm placements
+  - christ university bangalore admission cutoff
+  - christ university bangalore fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is Christ University Bangalore a good option for PGDM/MBA?"
+  - question: Is Christ University Bangalore a good option for PGDM/MBA?
     answer: >-
-      Yes, Christ University Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Christ University Bangalore?"
+      Yes, Christ University Bangalore is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Christ University Bangalore?
     answer: >-
-      The average placement package at Christ University Bangalore is approximately ₹7.7 LPA, with the highest package reaching up to ₹15.0 LPA.
-  - question: "What entrance exams are accepted by Christ University Bangalore?"
+      The average placement package at Christ University Bangalore is
+      approximately ₹7.7 LPA, with the highest package reaching up to ₹15.0 LPA.
+  - question: What entrance exams are accepted by Christ University Bangalore?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [Christ University Bangalore](/colleges/christ-university-bangalore)**

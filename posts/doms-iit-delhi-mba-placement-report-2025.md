@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the average package for MBA at DoMS IIT Delhi in 2025?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       The final shortlist cutoff for General category candidates generally
       ranges between 97.5+ and 98.5+ percentile in CAT, alongside strong
       academic credentials.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Department of Management Studies (DoMS) at IIT Delhi** continues to be a premier choice for engineering and non-engineering graduates aiming for a blend of strategic management and technology acumen.

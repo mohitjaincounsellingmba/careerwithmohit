@@ -1,7 +1,7 @@
 ---
 name: Galgotias Bareilly Graduate School of Management
 logo: /colleges/default-management-logo.webp
-location: 'Bareilly, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Galgotias Bareilly Graduate School of Management PGDM placement
   - Galgotias Bareilly Graduate School of Management MBA admission 2027
   - 'MBA colleges Bareilly, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Galgotias Bareilly Graduate School of Management

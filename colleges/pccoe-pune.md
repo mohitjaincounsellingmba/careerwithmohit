@@ -1,7 +1,7 @@
 ---
 name: Pimpri Chinchwad College of Engineering (PCCOE)
 logo: ''
-location: 'Nigdi, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Pimpri Chinchwad College of Engineering (PCCOE) CSE placement
   - Pimpri Chinchwad College of Engineering (PCCOE) B.Tech admission 2027
   - 'engineering colleges Nigdi, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

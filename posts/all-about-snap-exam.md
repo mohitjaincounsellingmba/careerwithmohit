@@ -14,6 +14,12 @@ keywords:
   - '[SIBM Pune](/colleges/sibm-pune) cutoff SNAP'
   - top colleges accepting SNAP
   - '[SCMHRD Pune](/colleges/scmhrd-pune) cutoff'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -30,6 +36,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Pune
+state: Maharashtra
 ---
 The Symbiosis National Aptitude Test (SNAP) is a highly specialized management entrance exam conducted exclusively for admission into the 16 MBA institutes operating under the Symbiosis International (Deemed) University (SIU). 
 

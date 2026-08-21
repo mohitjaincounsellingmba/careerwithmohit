@@ -27,6 +27,10 @@ keywords:
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
   - Gurgaon Admissions 2026
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the total fee for the 2-Year PGDM at SOIL Gurgaon for the 2027–29
@@ -64,7 +68,8 @@ faqs:
       including SBI, HDFC Credila, Axis Bank, ICICI Bank, and Avanse Financial
       Services, offering collateral-free education loans covering up to 100% of
       academic and living expenses with flexible repayment moratoriums.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # SOIL Gurgaon Fee Structure 2027–29: PGDM & PGPM Course Fees, Hostel Charges, Scholarships & ROI Analysis

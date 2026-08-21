@@ -1,7 +1,7 @@
 ---
 name: 'Institute of Management Studies (IMS), Noida'
 logo: ''
-location: 'Noida, Uttar Pradesh (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: Institute
 courses:
@@ -45,6 +45,13 @@ keywords:
   - 'Institute of Management Studies (IMS), Noida mohit jain review'
   - 'Institute of Management Studies (IMS), Noida hostel fees'
   - 'Institute of Management Studies (IMS), Noida contact number'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 IMS Noida is highly recognized for its BBA program, combining academic rigor with practical exposure through industry visits and internships.

@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I change my branch during lateral entry?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
     answer: >-
       In government colleges like COEP, it is around ₹80k–₹1L per year. In
       private colleges like VIT or PICT, it ranges from ₹1.5L to ₹2.5L per year.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 For diploma holders and B.Sc. graduates, Pune offers some of the most prestigious pathways to earn a B.E. or B.Tech. degree through the **Direct Second Year (DSE)** admission process. Known as the "Oxford of the East," Pune's engineering ecosystem is perfectly aligned with the needs of lateral entry students who bring strong technical foundations from their diplomas.

@@ -12,6 +12,12 @@ keywords:
   - st xaviers mumbai entrance exam 2026
   - best bba college in mumbai
   - st xaviers mumbai bms cutoff
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: Does St. Xavier's have a hostel facility?
     answer: >-
@@ -22,6 +28,8 @@ faqs:
       BMS (Bachelor of Management Studies) is the terminology used by Mumbai
       University and its autonomous colleges like Xavier's. The curriculum and
       professional outcomes are identical to a BBA program.
+location: Mumbai
+state: Maharashtra
 ---
 
 St. Xavier's College, Mumbai, is an iconic institution known for its Gothic architecture, liberal atmosphere, and high academic standards. The Bachelor of Management Studies (BMS) program here—equivalent to BBA—is one of the most sought-after in the country for 2026.

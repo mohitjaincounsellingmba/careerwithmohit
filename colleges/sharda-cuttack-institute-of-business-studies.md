@@ -1,7 +1,7 @@
 ---
 name: Sharda Cuttack Institute of Business Studies
 logo: /colleges/default-management-logo.webp
-location: 'Cuttack, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Sharda Cuttack Institute of Business Studies PGDM placement
   - Sharda Cuttack Institute of Business Studies MBA admission 2027
   - 'MBA colleges Cuttack, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Sharda Cuttack Institute of Business Studies

@@ -1,7 +1,7 @@
 ---
 name: 'GD Goenka University, Gurgaon'
 logo: /colleges/gd-goenka-logo.webp
-location: 'Gurgaon, Haryana'
+location: Delhi NCR
 category: Management
 type: University
 courses:
@@ -42,6 +42,13 @@ keywords:
   - 'GD Goenka University, Gurgaon PGDM placement'
   - 'GD Goenka University, Gurgaon MBA admission 2027'
   - 'MBA colleges Gurgaon, Haryana'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About GD Goenka University

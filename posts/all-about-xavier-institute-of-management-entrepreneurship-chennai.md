@@ -1,23 +1,47 @@
 ---
-title: "Xavier Institute of Management & Entrepreneurship, Chennai PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Institute of Management & Entrepreneurship, Chennai? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Institute of Management & Entrepreneurship, Chennai PGDM Admission
+  Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Xavier Institute of Management & Entrepreneurship,
+  Chennai? Read our comprehensive PGDM review for 2026 covering total fees,
+  average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "xavier institute of management & entrepreneurship, chennai review 2026"
-  - "xavier institute of management & entrepreneurship, chennai pgdm placements"
-  - "xavier institute of management & entrepreneurship, chennai admission cutoff"
-  - "xavier institute of management & entrepreneurship, chennai fees"
+  - 'xavier institute of management & entrepreneurship, chennai review 2026'
+  - 'xavier institute of management & entrepreneurship, chennai pgdm placements'
+  - 'xavier institute of management & entrepreneurship, chennai admission cutoff'
+  - 'xavier institute of management & entrepreneurship, chennai fees'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "Is Xavier Institute of Management & Entrepreneurship, Chennai a good option for PGDM/MBA?"
+  - question: >-
+      Is Xavier Institute of Management & Entrepreneurship, Chennai a good
+      option for PGDM/MBA?
     answer: >-
-      Yes, Xavier Institute of Management & Entrepreneurship, Chennai is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Institute of Management & Entrepreneurship, Chennai?"
+      Yes, Xavier Institute of Management & Entrepreneurship, Chennai is a
+      highly respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Xavier Institute of Management &
+      Entrepreneurship, Chennai?
     answer: >-
-      The average placement package at Xavier Institute of Management & Entrepreneurship, Chennai is approximately ₹5.7 LPA, with the highest package reaching up to ₹11.7 LPA.
-  - question: "What entrance exams are accepted by Xavier Institute of Management & Entrepreneurship, Chennai?"
+      The average placement package at Xavier Institute of Management &
+      Entrepreneurship, Chennai is approximately ₹5.7 LPA, with the highest
+      package reaching up to ₹11.7 LPA.
+  - question: >-
+      What entrance exams are accepted by Xavier Institute of Management &
+      Entrepreneurship, Chennai?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### **College Review: [Xavier Institute of Management & Entrepreneurship, Chennai](/colleges/xavier-institute-of-management-entrepreneurship-chennai)**

@@ -1,24 +1,39 @@
 ---
-title: 'Top MBA HR Colleges in Chandigarh 2026 — Placements & Fees'
+title: Top MBA HR Colleges in Chandigarh 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Find the best MBA HR colleges in Chandigarh. Check program fees, placements, and cutoffs for UBS Chandigarh, CU, and Chitkara in 2026.'
+description: >-
+  Find the best MBA HR colleges in Chandigarh. Check program fees, placements,
+  and cutoffs for UBS Chandigarh, CU, and Chitkara in 2026.
 keywords:
   - top mba hr colleges in chandigarh 2026
   - best mba hr in chandigarh
   - ubs chandigarh placements fees
   - chandigarh university mba hr
   - chitkara university mba placements
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
   - question: Why is UBS Chandigarh considered the best option in the region?
     answer: >-
-      UBS Chandigarh (under Panjab University) offers highly subsidized fees of around INR 2 Lakhs while providing average placement packages around INR 13.7 LPA, offering an unmatched ROI.
+      UBS Chandigarh (under Panjab University) offers highly subsidized fees of
+      around INR 2 Lakhs while providing average placement packages around INR
+      13.7 LPA, offering an unmatched ROI.
   - question: How are the MBA HR placements at Chandigarh University?
     answer: >-
-      Chandigarh University has a large central placement cell that brings in multiple tech giants, consulting companies, and banks, leading to average placement packages around INR 6.5 LPA.
+      Chandigarh University has a large central placement cell that brings in
+      multiple tech giants, consulting companies, and banks, leading to average
+      placement packages around INR 6.5 LPA.
   - question: Are CMAT scores accepted by Chitkara University?
     answer: >-
-      Yes, Chitkara University accepts CMAT, MAT, and CAT scores for its MBA programs.
+      Yes, Chitkara University accepts CMAT, MAT, and CAT scores for its MBA
+      programs.
+location: Chandigarh
+state: Punjab
 ---
 
 Selecting the right B-school is critical if you are targeting a career in talent acquisition, workforce management, employee wellness, industrial relations, or strategic human resources. While general MBA rankings give a broad overview, HR recruiters tend to visit campuses that have a strong tradition of organizational behavior studies, dedicated HR specialized cells, and proximity to major corporate headquarters.

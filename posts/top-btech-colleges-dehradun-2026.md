@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best B.Tech college in Dehradun?
     answer: >-
@@ -48,7 +52,8 @@ faqs:
     answer: >-
       Graphic Era charges approximately ₹1.8 Lakhs per year. Total B.Tech
       programme cost is around ₹7–7.5 Lakhs.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Dehradun — Uttarakhand's capital, nestled in the foothills of the Himalayas — has emerged as a significant education hub with over 100 colleges, including several respected engineering institutions. The city's clean environment, lower cost of living, and proximity to Delhi (5–6 hours) make it an attractive option for engineering aspirants who want quality education outside expensive metro cities.

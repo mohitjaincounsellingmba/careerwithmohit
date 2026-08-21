@@ -1,24 +1,37 @@
 ---
-title: 'Top MBA HR Colleges in Chennai 2026 — Placements & Fees'
+title: Top MBA HR Colleges in Chennai 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Compare the best B-schools for MBA HR in Chennai. Get details on fees, placements, and eligibility for Great Lakes, LIBA, MSSW, and IIT Madras.'
+description: >-
+  Compare the best B-schools for MBA HR in Chennai. Get details on fees,
+  placements, and eligibility for Great Lakes, LIBA, MSSW, and IIT Madras.
 keywords:
   - top mba hr colleges in chennai 2026
   - best hr mba in chennai
   - mssw chennai ma hrm placements
   - doms iit madras placements fees
   - liba chennai admission
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Is Madras School of Social Work (MSSW) equivalent to an MBA in HR?
     answer: >-
-      Yes, MSSW Chennai's MA in HRM (Human Resource Management) is highly respected in the corporate sector and is recruited on par with top MBA programs, specifically for manufacturing setups due to its intense focus on industrial relations.
+      Yes, MSSW Chennai's MA in HRM (Human Resource Management) is highly
+      respected in the corporate sector and is recruited on par with top MBA
+      programs, specifically for manufacturing setups due to its intense focus
+      on industrial relations.
   - question: What is the fee structure for DoMS IIT Madras?
     answer: >-
-      DoMS IIT Madras offers high ROI, with a total program fee of around INR 10 Lakhs and average placements exceeding INR 16 LPA.
+      DoMS IIT Madras offers high ROI, with a total program fee of around INR 10
+      Lakhs and average placements exceeding INR 16 LPA.
   - question: Does LIBA Chennai accept CMAT scores?
-    answer: >-
-      No, LIBA Chennai primarily accepts CAT and XAT scores for PGDM admissions.
+    answer: 'No, LIBA Chennai primarily accepts CAT and XAT scores for PGDM admissions.'
+location: Chennai
+state: Tamil Nadu
 ---
 
 Selecting the right B-school is critical if you are targeting a career in talent acquisition, workforce management, employee wellness, industrial relations, or strategic human resources. While general MBA rankings give a broad overview, HR recruiters tend to visit campuses that have a strong tradition of organizational behavior studies, dedicated HR specialized cells, and proximity to major corporate headquarters.

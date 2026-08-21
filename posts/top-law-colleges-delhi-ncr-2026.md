@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does VIPS (IP University) accept CLAT?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       toughest in India.
   - question: When is the AILET 2026 exam?
     answer: AILET is usually held on the **second Sunday of December**.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Delhi NCR (National Capital Region) is the epicentre of India's legal landscape. Home to the Supreme Court, the Delhi High Court, and hundreds of Tier-1 and Magic Circle law firms, Delhi NCR offers a legal education environment that is unparalleled in its professional exposure.

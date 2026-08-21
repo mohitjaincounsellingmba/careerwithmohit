@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Amity Noida the main campus?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       Admission is typically based on 10+2 merit and JEE scores, often followed
       by a personal interview.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[Amity University](/colleges/amity-noida) Noida** is one of India's most prominent private universities, established in 2005. Accredited with **NAAC Grade 'A+'**, Amity is known for its world-class infrastructure, global exposure, and strong placement network across diverse sectors. In the 2025 NIRF rankings, it secured the 37th position for B.Tech and 49th overall in India.

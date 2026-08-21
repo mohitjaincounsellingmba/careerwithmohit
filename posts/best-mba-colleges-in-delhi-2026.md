@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which MBA college in Delhi has the best placements?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
   - question: 'Is [MDI Gurgaon](/colleges/mdi-gurgaon) better than new IIMs?'
     answer: "Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than most \"New\" and \"Baby\" IIMs due to its legacy and location advantage.\n\n[\U0001F449 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry)"
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### [InquiryCard title="Targeting Delhi NCR B-Schools?" description="Confused between MDI, IMI, FORE, or LBSIM? Get a personalized preference list based on your CAT/XAT score and budget." cta="Get Delhi Admission Strategy" type="career"]

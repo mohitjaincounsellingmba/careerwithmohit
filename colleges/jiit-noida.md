@@ -1,7 +1,7 @@
 ---
 name: Jaypee Institute of Information Technology (JIIT)
 logo: ''
-location: Noida
+location: Delhi NCR
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Jaypee Institute of Information Technology (JIIT) CSE placement
   - Jaypee Institute of Information Technology (JIIT) B.Tech admission 2027
   - engineering colleges Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### B.Tech Courses & Fees

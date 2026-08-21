@@ -1,23 +1,40 @@
 ---
-title: "Lovely Professional University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Lovely Professional University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Lovely Professional University PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Lovely Professional University? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "lovely professional university review 2026"
-  - "lovely professional university pgdm placements"
-  - "lovely professional university admission cutoff"
-  - "lovely professional university fees"
+  - lovely professional university review 2026
+  - lovely professional university pgdm placements
+  - lovely professional university admission cutoff
+  - lovely professional university fees
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
-  - question: "Is Lovely Professional University a good option for PGDM/MBA?"
+  - question: Is Lovely Professional University a good option for PGDM/MBA?
     answer: >-
-      Yes, Lovely Professional University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Lovely Professional University?"
+      Yes, Lovely Professional University is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Lovely Professional University?
     answer: >-
-      The average placement package at Lovely Professional University is approximately ₹5.8 LPA, with the highest package reaching up to ₹42 LPA.
-  - question: "What entrance exams are accepted by Lovely Professional University?"
+      The average placement package at Lovely Professional University is
+      approximately ₹5.8 LPA, with the highest package reaching up to ₹42 LPA.
+  - question: What entrance exams are accepted by Lovely Professional University?
     answer: >-
-      The college accepts scores from national level entrance examinations including LPUNEST, JEE Main, CUET for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including LPUNEST, JEE Main, CUET for the PGDM and MBA admissions.
+location: Chandigarh
+state: Punjab
 ---
 
 ### **College Review: [Lovely Professional University](/colleges/lovely-professional-university)**

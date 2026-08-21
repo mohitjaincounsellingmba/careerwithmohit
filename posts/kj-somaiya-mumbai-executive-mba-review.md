@@ -1,16 +1,39 @@
 ---
-title: "K. J. Somaiya Institute of Management, Mumbai Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at K. J. Somaiya Institute of Management, Mumbai. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["K. J. Somaiya Institute of Management, Mumbai executive mba","K. J. Somaiya Institute of Management, Mumbai executive mba review","K. J. Somaiya Institute of Management, Mumbai executive mba fees","K. J. Somaiya Institute of Management, Mumbai executive mba placement","Mumbai executive mba","best executive mba in Mumbai"]
-category: "MBA"
+title: 'K. J. Somaiya Institute of Management, Mumbai Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at K. J. Somaiya
+  Institute of Management, Mumbai. Learn about total fees, eligibility, accepted
+  entrance exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - 'K. J. Somaiya Institute of Management, Mumbai executive mba'
+  - 'K. J. Somaiya Institute of Management, Mumbai executive mba review'
+  - 'K. J. Somaiya Institute of Management, Mumbai executive mba fees'
+  - 'K. J. Somaiya Institute of Management, Mumbai executive mba placement'
+  - Mumbai executive mba
+  - best executive mba in Mumbai
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+category: MBA
 faqs:
-  - question: "Is the KJ Somaiya Executive MBA a residential course?"
-    answer: "Yes, it is a full-time 15-month program, and students are encouraged to reside in the campus hostels."
-  - question: "What is the minimum GMAT score accepted?"
-    answer: "There is no fixed minimum score, but candidates scoring above 600 in GMAT have high selection odds."
-  - question: "Does the program include a global immersion module?"
-    answer: "Yes, the program integrates a mandatory/optional international immersion trip to expose students to global supply chains."
+  - question: Is the KJ Somaiya Executive MBA a residential course?
+    answer: >-
+      Yes, it is a full-time 15-month program, and students are encouraged to
+      reside in the campus hostels.
+  - question: What is the minimum GMAT score accepted?
+    answer: >-
+      There is no fixed minimum score, but candidates scoring above 600 in GMAT
+      have high selection odds.
+  - question: Does the program include a global immersion module?
+    answer: >-
+      Yes, the program integrates a mandatory/optional international immersion
+      trip to expose students to global supply chains.
+location: Mumbai
+state: Maharashtra
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [K. J. Somaiya Institute of Management, Mumbai](/colleges/k-j-somaiya-institute-of-management) represents a powerful gateway to higher senior leadership positions.

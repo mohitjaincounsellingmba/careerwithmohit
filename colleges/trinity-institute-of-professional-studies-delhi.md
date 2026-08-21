@@ -1,7 +1,7 @@
 ---
 name: Trinity Institute of Professional Studies
 logo: ''
-location: 'Dwarka, Delhi (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Trinity Institute of Professional Studies mohit jain review
   - Trinity Institute of Professional Studies hostel fees
   - Trinity Institute of Professional Studies contact number
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 Trinity Institute of Professional Studies in Dwarka is affiliated with GGSIPU and is known for its discipline and skill-oriented pedagogy in its BBA and BCA departments.

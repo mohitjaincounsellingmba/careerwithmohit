@@ -24,8 +24,12 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: Colleges
-location: Delhi
+location: Delhi NCR
 faqs:
   - question: >-
       Is MIT World Peace University (MIT-WPU) a good choice for higher education
@@ -49,6 +53,7 @@ faqs:
       based on entrance exams such as MIT-WPU CET, JEE Main, MHT CET, CAT, XAT,
       MAT, PERA CET, followed by counseling, personal interviews, or merit-based
       shortlisting.
+state: Delhi NCR
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)**, situated in **Pune**, stands out as one of the premier destinations for undergraduate and postgraduate education in Pune.

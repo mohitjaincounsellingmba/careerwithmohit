@@ -25,7 +25,11 @@ keywords:
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Delhi NCR College Counselling
-location: Delhi
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: What is the Written Ability Test (WAT) in IIM admissions?
     answer: >-
@@ -53,6 +57,7 @@ faqs:
     answer: >-
       In most IIMs, the Personal Interview (PI) carries 30-40% weightage while
       WAT carries 10-15% weightage in the final admission calculation.
+state: Delhi NCR
 ---
 
 Once you receive an interview shortlist from the **IIMs, XLRI, [FMS Delhi](/colleges/fms-delhi), Symbiosis, or top private B-schools**, your CAT score takes a back seat. The second and most critical stage of the selection process begins: the **Written Ability Test (WAT)** and **Group Discussion (GD)**.

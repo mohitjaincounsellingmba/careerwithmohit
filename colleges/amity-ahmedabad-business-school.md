@@ -1,7 +1,7 @@
 ---
 name: Amity Ahmedabad Business School
 logo: /colleges/default-management-logo.webp
-location: 'Ahmedabad, India'
+location: Ahmedabad
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Amity Ahmedabad Business School PGDM placement
   - Amity Ahmedabad Business School MBA admission 2027
   - 'MBA colleges Ahmedabad, India'
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### About Amity Ahmedabad Business School

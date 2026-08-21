@@ -15,6 +15,12 @@ keywords:
   - '[VIT Vellore](/colleges/vit-vellore) vs SRM KTR CSE'
   - SRM vs VIT ranking 2026
   - SRM vs VIT average package
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -30,6 +36,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Chennai
+state: Tamil Nadu
 ---
 Two names that every B.Tech aspirant compares: **SRM vs VIT**. Both are private universities ranked among India's top 20 engineering colleges by NIRF. Both have thousands of students, multinational recruiters, and massive campuses near Chennai.
 

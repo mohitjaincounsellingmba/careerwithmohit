@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best MBA college through CUET PG?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       Yes, the NTA follows a +4 / -1 marking scheme. Every correct answer gives
       you 4 marks, and every incorrect one deducts 1 mark.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Common University Entrance Test (CUET PG) has emerged as one of India's most significant management entrance exams. With over 150+ participating universities, it is the ultimate gateway for aspirants seeking high-ROI MBA programs with **minimal academic debt**.

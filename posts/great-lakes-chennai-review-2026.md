@@ -16,8 +16,14 @@ keywords:
   - Best Colleges in Chennai (Manamai / ECR Campus)
   - 'Top Universities in Chennai, South India'
   - Direct Admission in Chennai (Manamai / ECR Campus)
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 category: Colleges
-location: Chennai (Manamai / ECR Campus)
+location: Chennai
 faqs:
   - question: >-
       Is Great Lakes Institute of Management, Chennai a good choice for higher
@@ -45,6 +51,7 @@ faqs:
       conducted based on entrance exams such as CAT, XAT, GMAT, NMAT (for PGPM /
       PGDM), followed by counseling, personal interviews, or merit-based
       shortlisting.
+state: Tamil Nadu
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Great Lakes Institute of Management, Chennai**, situated in **Chennai (Manamai / ECR Campus)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Chennai, South India.

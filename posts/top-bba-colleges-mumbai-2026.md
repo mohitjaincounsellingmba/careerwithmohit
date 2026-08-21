@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: does St. Xavier’s Mumbai require math for BMS?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
       Some private universities like **SNDT (Women) or Somaiya** have their own
       selection criteria that may involve interviews instead of a heavy entrance
       test.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Mumbai, the "Financial Capital of India," is where the pulse of Indian business beats. For a BBA student in 2026, Mumbai offers an ecosystem that no other city can replicate—direct access to Dalal Street, the headquarters of Fortune 500 companies, and the best finance networking opportunities in the country.

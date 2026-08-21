@@ -10,6 +10,12 @@ keywords:
   - OKIMR placement records
   - best B-school in Kota
   - Om Kothari MBA admission
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: How is the placement at Om Kothari Institute Kota?
     answer: >-
@@ -25,6 +31,8 @@ faqs:
     answer: >-
       The tuition fee is approximately **₹60,000 per year**, totaling around
       **₹1.2 Lakhs** for the entire program.
+location: Jaipur
+state: Rajasthan
 ---
 
 ### 📊 Om Kothari (OKIMR) Kota 2026 Snapshot

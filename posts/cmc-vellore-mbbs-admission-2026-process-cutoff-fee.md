@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is CMC Vellore private or government?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       Candidates must qualify NEET UG 2026 and register for Tamil Nadu State
       NEET Counselling (dme.tn.gov.in) under Management/Minority Quota seats.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Planning your medical career and targeting **Christian Medical College (CMC), Vellore** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, CMC Vellore offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

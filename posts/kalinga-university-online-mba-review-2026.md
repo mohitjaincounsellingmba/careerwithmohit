@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is NAAC B+ enough for corporate jobs?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       Candidates with budgets below ₹80,000 or those specifically targeting a
       FinTech or Healthcare specialization at minimal cost. For national brand
       recognition, SMU or Galgotias are preferable.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **Kalinga University**, based in Raipur, Chhattisgarh, offers one of the most affordable online MBA programs in India at approximately **₹80,000 for the full 2-year program**. With **UGC recognition**, a growing specialization menu (including FinTech and Healthcare Management), and modern online delivery, Kalinga serves students who need a valid, affordable degree without the premium brand cost.

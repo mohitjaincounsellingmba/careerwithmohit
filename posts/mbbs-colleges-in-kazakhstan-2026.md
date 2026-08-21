@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the cost of MBBS in Kazakhstan in 2026?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
       Yes, Asfendiyarov Kazakh National Medical University and other top state
       universities in Kazakhstan are recognized by WHO, WDOMS, and comply with
       NMC regulations.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **Kazakhstan** is one of the most established hubs for medical education in Central Asia. Known for top-tier national medical universities, clinical rotations in specialized state hospitals, and affordable living costs, Kazakhstan attracts thousands of Indian medical students every year.

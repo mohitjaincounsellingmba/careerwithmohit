@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: is Jadavpur University safe for girls?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
       are limited and allotted based on distance and merit.
   - question: When is the WBJEE 2026 exam?
     answer: Usually held in **April/May**. Result and counselling follow in June.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Kolkata, the "City of Joy," is not just a cultural capital but also a major educational hub for East India. For female engineering aspirants in 2026, Kolkata offers a unique combination of high-prestige government institutes, safe university campuses, and specialized scholarship programs designed to increase gender diversity in STEM (Science, Technology, Engineering, and Mathematics).

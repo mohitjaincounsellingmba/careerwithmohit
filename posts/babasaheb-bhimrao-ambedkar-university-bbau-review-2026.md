@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 Babasaheb Bhimrao Ambedkar University (BBAU), located in Lucknow, is a renowned Central University known for its focus on providing quality education, especially to marginalized communities. With admissions primarily driven by the **Common University Entrance Test (CUET)**, BBAU has become a highly sought-after destination for undergraduate and postgraduate studies.
 

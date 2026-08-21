@@ -26,6 +26,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in MBA Pune without CAT?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
     answer: >-
       Absolutely. Pune is known as a safe, student-friendly city with a large
       population of students from Delhi, UP, Bihar, and Rajasthan.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Pune, known as the "Oxford of the East," is one of India's most vibrant education hubs. For MBA aspirants, Pune offers a unique mix of high-brand value institutes like Symbiosis and incredible ROI champions like PUMBA. 

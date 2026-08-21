@@ -1,7 +1,7 @@
 ---
 name: GIBS Business School
 logo: /colleges/gibs-logo.webp
-location: 'Begur, Bangalore'
+location: Bangalore
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - GIBS Business School PGDM placement
   - GIBS Business School MBA admission 2027
   - 'MBA colleges Begur, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

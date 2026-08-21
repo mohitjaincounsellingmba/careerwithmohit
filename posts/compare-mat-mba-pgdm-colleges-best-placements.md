@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which MAT accepting B-school has the best placement?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       You can book a free counselling session with Mohit Jain by submitting your
       profile details on our Inquiry page or contacting our expert desk via
       WhatsApp.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 For management aspirants in India, the Management Aptitude Test (MAT) conducted by AIMA is one of the most flexible and popular exams. Unlike CAT or XAT, which can be highly competitive and stress-inducing, MAT is held four times a year and accepted by over 600+ business schools across India. 

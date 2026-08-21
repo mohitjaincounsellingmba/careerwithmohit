@@ -1,7 +1,7 @@
 ---
 name: 'Symbiosis Centre for Management Studies (SCMS), Pune'
 logo: 'https://images.shiksha.com/mediadata/images/1498642730php4GndL3.jpeg'
-location: 'Pune, Maharashtra'
+location: Pune
 category: UG Courses
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - 'Symbiosis Centre for Management Studies (SCMS), Pune mohit jain review'
   - 'Symbiosis Centre for Management Studies (SCMS), Pune hostel fees'
   - 'Symbiosis Centre for Management Studies (SCMS), Pune contact number'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 Symbiosis Centre for Management Studies (SCMS) Pune is a constituent of Symbiosis International University. It is highly regarded for its BBA program, offering specialized tracks in Marketing, Finance, HR, and International Business. The campus provides a global environment with students from across the country and abroad.

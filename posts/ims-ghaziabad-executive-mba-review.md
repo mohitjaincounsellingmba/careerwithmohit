@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: What is the duration of the IMS Ghaziabad Executive program?
@@ -34,7 +38,8 @@ faqs:
     answer: >-
       IMS Ghaziabad offers merit-based scholarships based on past academics and
       CAT/XAT score performance.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Ghaziabad, the Executive MBA / Executive PGDM offered by [IMS Ghaziabad](/colleges/ims-ghaziabad) represents a powerful gateway to higher senior leadership positions.

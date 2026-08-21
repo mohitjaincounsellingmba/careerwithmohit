@@ -1,23 +1,40 @@
 ---
-title: "Amity Ahmedabad Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Amity Ahmedabad Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Amity Ahmedabad Business School PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Amity Ahmedabad Business School? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "amity ahmedabad business school review 2026"
-  - "amity ahmedabad business school pgdm placements"
-  - "amity ahmedabad business school admission cutoff"
-  - "amity ahmedabad business school fees"
+  - amity ahmedabad business school review 2026
+  - amity ahmedabad business school pgdm placements
+  - amity ahmedabad business school admission cutoff
+  - amity ahmedabad business school fees
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: "Is Amity Ahmedabad Business School a good option for PGDM/MBA?"
+  - question: Is Amity Ahmedabad Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Amity Ahmedabad Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Amity Ahmedabad Business School?"
+      Yes, Amity Ahmedabad Business School is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Amity Ahmedabad Business School?
     answer: >-
-      The average placement package at Amity Ahmedabad Business School is approximately ₹8.5 LPA, with the highest package reaching up to ₹24.5 LPA.
-  - question: "What entrance exams are accepted by Amity Ahmedabad Business School?"
+      The average placement package at Amity Ahmedabad Business School is
+      approximately ₹8.5 LPA, with the highest package reaching up to ₹24.5 LPA.
+  - question: What entrance exams are accepted by Amity Ahmedabad Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Ahmedabad
+state: Gujarat
 ---
 
 ### **College Review: [Amity Ahmedabad Business School](/colleges/amity-ahmedabad-business-school)**

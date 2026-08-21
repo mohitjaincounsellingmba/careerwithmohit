@@ -16,6 +16,12 @@ keywords:
   - direct admission mba chennai
   - tancet mba colleges chennai
   - ifmr sri city placement
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: What is the TANCET cutoff for Anna University?
     answer: >-
@@ -33,6 +39,8 @@ faqs:
     answer: >-
       TANCET usually happens in **March**. It is the gateway for MBA admissions
       into nearly all the self-financing and government colleges in Tamil Nadu.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Chennai, the "Detroit of Asia" and a major hub for SaaS and Healthcare, is one of the most underrated MBA destinations in India. With a high concentration of manufacturing giants (Hyundai, Ford, Renault) and the booming SaaS corridor (Zoho, Freshworks), Chennai offers a unique career mix that blends traditional industry with new-age technology.

@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'Is there a management quota in [JBIMS Mumbai](/colleges/jbims-mumbai)?'
     answer: >-
@@ -38,7 +42,8 @@ faqs:
     answer: >-
       Yes, JBIMS accepts CAT and CMAT scores for All India Category seats
       through the MAH-CET CAP process.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS), often called the **"CEO Factory of India,"** is one of the most sought-after B-schools due to its legendary alumni and incredible ROI. While JBIMS doesn't have a traditional private "donations-based" management quota, there are specific **Direct Admission pathways** such as Institute-Level Seats and NRI Quota that aspirants should know for 2026.

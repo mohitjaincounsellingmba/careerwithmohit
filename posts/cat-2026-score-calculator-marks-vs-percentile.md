@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How is the CAT 2026 raw score calculated?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       You can enter your sectional MCQs and TITA attempts in our online CAT 2026
       Score Calculator to instantly get your raw scores, scaled scores, and
       expected overall percentile.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Common Admission Test (CAT) is the primary gateway to secure admission into the 21 Indian Institutes of Management (IIMs) and over 1,200 other premier business schools in India, including [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and [MDI Gurgaon](/colleges/mdi-gurgaon). Right after stepping out of the exam hall, the most pressing question on every aspirant's mind is: *What will my raw score and percentile be based on my attempts?*

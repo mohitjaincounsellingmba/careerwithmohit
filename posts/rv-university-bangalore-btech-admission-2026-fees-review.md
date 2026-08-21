@@ -12,6 +12,12 @@ keywords:
   - RV University fees for BTech
   - RV University BTech placement average
   - RVU Bangalore review 2025
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -27,6 +33,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Bangalore
+state: Karnataka
 ---
 **RV University (RVU)** is a newer addition to the Bangalore academic landscape, established in 2020 by the same trust that manages the iconic **RV College of Engineering (RVCE)**. While RVCE remains the traditional flagship, RV University offers a more flexible, interdisciplinary, and research-focused B.Tech (Hons) program.
 

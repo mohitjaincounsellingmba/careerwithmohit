@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 The University of Hyderabad (UoH), frequently recognized as one of India's premier central universities, offers a robust academic environment paired with affordable education and excellent research opportunities. Here is a comprehensive overview of what to expect for the 2026 admission cycle.
 

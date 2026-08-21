@@ -13,6 +13,12 @@ keywords:
   - best bba college in chennai
   - loyola college merit list 2026
   - loyola college autonomous
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Is Loyola College only for Christian students?
     answer: >-
@@ -23,6 +29,8 @@ faqs:
     answer: >-
       Loyola has a large hostel for boys. For girls, there are separate
       arrangements often managed by affiliated convents or nearby private PGs.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Loyola College, Chennai, is an autonomous Jesuit institution that consistently ranks among the top 10 colleges in India for commerce and management. Known for its academic excellence and social commitment, Loyola is a dream destination for BBA aspirants in 2026.

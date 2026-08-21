@@ -1,7 +1,7 @@
 ---
 name: Government College of Engineering & Research (GCOEARA)
 logo: ''
-location: 'Avasari Khurd, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Government College of Engineering & Research (GCOEARA) CSE placement
   - Government College of Engineering & Research (GCOEARA) B.Tech admission 2027
   - 'engineering colleges Avasari Khurd, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

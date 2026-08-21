@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the average package at Delhi School of Business (VIPS-TC) in 2026?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Delhi School of
       Business (VIPS-TC) is approximately ₹11.50 Lakhs (Total).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

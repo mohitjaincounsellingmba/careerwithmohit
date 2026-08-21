@@ -1,23 +1,44 @@
 ---
-title: "East Point College of Higher Education PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to East Point College of Higher Education? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  East Point College of Higher Education PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to East Point College of Higher Education? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "east point college of higher education review 2026"
-  - "east point college of higher education pgdm placements"
-  - "east point college of higher education admission cutoff"
-  - "east point college of higher education fees"
+  - east point college of higher education review 2026
+  - east point college of higher education pgdm placements
+  - east point college of higher education admission cutoff
+  - east point college of higher education fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is East Point College of Higher Education a good option for PGDM/MBA?"
+  - question: Is East Point College of Higher Education a good option for PGDM/MBA?
     answer: >-
-      Yes, East Point College of Higher Education is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at East Point College of Higher Education?"
+      Yes, East Point College of Higher Education is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at East Point College of Higher
+      Education?
     answer: >-
-      The average placement package at East Point College of Higher Education is approximately ₹6.5 LPA, with the highest package reaching up to ₹14.8 LPA.
-  - question: "What entrance exams are accepted by East Point College of Higher Education?"
+      The average placement package at East Point College of Higher Education is
+      approximately ₹6.5 LPA, with the highest package reaching up to ₹14.8 LPA.
+  - question: >-
+      What entrance exams are accepted by East Point College of Higher
+      Education?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [East Point College of Higher Education](/colleges/east-point-college-of-higher-education)**

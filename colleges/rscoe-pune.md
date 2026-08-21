@@ -1,7 +1,7 @@
 ---
 name: JSPM’s Rajarshi Shahu College of Engineering (RSCOE)
 logo: ''
-location: 'Tathawade, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - JSPM’s Rajarshi Shahu College of Engineering (RSCOE) CSE placement
   - JSPM’s Rajarshi Shahu College of Engineering (RSCOE) B.Tech admission 2027
   - 'engineering colleges Tathawade, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

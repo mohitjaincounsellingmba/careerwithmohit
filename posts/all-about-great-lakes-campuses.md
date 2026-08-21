@@ -33,6 +33,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -48,7 +52,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 **Great Lakes Institute of Management (GLIM)** has rapidly cemented its position as one of India's top private B-schools since its inception in 2004. With two stellar campuses in Chennai and Gurgaon, Great Lakes is famous for its analytics-heavy curriculum and its pioneering 1-year fast-track management program.
 

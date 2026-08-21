@@ -1,23 +1,47 @@
 ---
-title: "Xavier Navi Mumbai Institute of Business Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Navi Mumbai Institute of Business Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Navi Mumbai Institute of Business Studies PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Xavier Navi Mumbai Institute of Business Studies?
+  Read our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "xavier navi mumbai institute of business studies review 2026"
-  - "xavier navi mumbai institute of business studies pgdm placements"
-  - "xavier navi mumbai institute of business studies admission cutoff"
-  - "xavier navi mumbai institute of business studies fees"
+  - xavier navi mumbai institute of business studies review 2026
+  - xavier navi mumbai institute of business studies pgdm placements
+  - xavier navi mumbai institute of business studies admission cutoff
+  - xavier navi mumbai institute of business studies fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is Xavier Navi Mumbai Institute of Business Studies a good option for PGDM/MBA?"
+  - question: >-
+      Is Xavier Navi Mumbai Institute of Business Studies a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Xavier Navi Mumbai Institute of Business Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Navi Mumbai Institute of Business Studies?"
+      Yes, Xavier Navi Mumbai Institute of Business Studies is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Xavier Navi Mumbai Institute of
+      Business Studies?
     answer: >-
-      The average placement package at Xavier Navi Mumbai Institute of Business Studies is approximately ₹7.8 LPA, with the highest package reaching up to ₹11.0 LPA.
-  - question: "What entrance exams are accepted by Xavier Navi Mumbai Institute of Business Studies?"
+      The average placement package at Xavier Navi Mumbai Institute of Business
+      Studies is approximately ₹7.8 LPA, with the highest package reaching up to
+      ₹11.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Xavier Navi Mumbai Institute of
+      Business Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [Xavier Navi Mumbai Institute of Business Studies](/colleges/xavier-navi-mumbai-institute-of-business-studies)**

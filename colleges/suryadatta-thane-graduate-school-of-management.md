@@ -1,7 +1,7 @@
 ---
 name: Suryadatta Thane Graduate School of Management
 logo: /colleges/default-management-logo.webp
-location: 'Thane, India'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Suryadatta Thane Graduate School of Management PGDM placement
   - Suryadatta Thane Graduate School of Management MBA admission 2027
   - 'MBA colleges Thane, India'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### About Suryadatta Thane Graduate School of Management

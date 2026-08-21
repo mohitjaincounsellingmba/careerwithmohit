@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Are you ready to start your career with one of the world's most customer-centric companies? **Amazon India** has announced its **Pan-India Fresher Hiring Drive for 2026**. Whether you are a B.Tech graduate looking for SDE roles, or an MBA grad aiming for Operations, Amazon has multiple openings across the country.
 

@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Who is conducting the CAT 2026 exam?
     answer: >-
@@ -45,7 +49,8 @@ faqs:
       The official website for CAT 2026 registration, admit card download,
       notifications, and scorecard release is
       **[iimcat.ac.in](https://iimcat.ac.in)**.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Common Admission Test (CAT) 2026** is the most sought-after management entrance examination in India, serving as the primary gateway to the prestigious **Indian Institutes of Management (IIMs)** as well as over 1,200 premier B-schools including [FMS Delhi](/colleges/fms-delhi), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon), and IIT management departments.

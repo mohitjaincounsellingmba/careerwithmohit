@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the maximum loan amount under the DRCC Scheme?
     answer: >-
@@ -52,7 +56,8 @@ faqs:
       dynamic government reviews based on NAAC/NBA renewals. Always verify the
       college's current DRCC/MNSSBY portal status with their admission office
       before paying your booking amount.*
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Looking for a specific city? Check out our [**City-Wise List of BSCC MBA Colleges**](/blog/bihar-student-credit-card-mba-colleges) for detailed local options.

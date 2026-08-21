@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which are the best colleges accepting XAT scores for the 2027-28 batch?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       The Xavier Aptitude Test (XAT) 2027 will be conducted on the first Sunday
       of January 2027 (typically January 3, 2027). Registrations will open in
       mid-July 2026 and run until the end of November 2026.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Xavier Aptitude Test (XAT) is widely regarded as one of the most intellectually stimulating MBA entrance exams in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), **XAT 2027** is the gateway to **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, XLRI Delhi-NCR, and over 150 top-tier private management institutes for the **2027-28 academic batch**.

@@ -1,7 +1,7 @@
 ---
 name: SPJIMR Mumbai
 logo: /colleges/spjimr-logo.webp
-location: 'Mumbai, Maharashtra'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -40,6 +40,13 @@ keywords:
   - SPJIMR Mumbai PGDM placement
   - SPJIMR Mumbai MBA admission 2027
   - 'MBA colleges Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

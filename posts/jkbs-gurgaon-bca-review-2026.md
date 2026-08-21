@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is mathematics compulsory to get admission in BCA?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       Doing an MCA provides advanced technical expertise and is often treated on
       par with a B.Tech degree, unlocking higher entry-level packages in major
       IT companies.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 While JK Business School (JKBS) is predominantly known for its PGDM and BBA programs, its **Bachelor of Computer Applications (BCA)** has been gaining traction among students looking for a solid foundation in IT with a professional management touch. Affiliated with Gurugram University, the JKBS BCA program offers a blend of technical academic rigor and corporate readiness.
 

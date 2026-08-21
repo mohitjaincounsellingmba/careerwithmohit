@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does IIM Ranchi accept IPMAT Rohtak scores?
     answer: >-
@@ -29,7 +33,8 @@ faqs:
       Rohtak or JIPMAT scores.
   - question: What is the intake capacity for IPM 2026?
     answer: The intake is approximately 120 seats for the 2026 batch.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 IIM Ranchi is one of the premier "New IIMs" to offer the Integrated Programme in Management (IPM). With its rapid growth and strong placement records, IIM Ranchi has become a top choice for students who want an IIM brand right after school in 2026.

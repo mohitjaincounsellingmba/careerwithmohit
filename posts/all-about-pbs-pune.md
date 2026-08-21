@@ -1,23 +1,40 @@
 ---
-title: "PBS (Pune Business School) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to PBS (Pune Business School)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  PBS (Pune Business School) PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to PBS (Pune Business School)? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "pbs (pune business school) review 2026"
-  - "pbs (pune business school) pgdm placements"
-  - "pbs (pune business school) admission cutoff"
-  - "pbs (pune business school) fees"
+  - pbs (pune business school) review 2026
+  - pbs (pune business school) pgdm placements
+  - pbs (pune business school) admission cutoff
+  - pbs (pune business school) fees
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is PBS (Pune Business School) a good option for PGDM/MBA?"
+  - question: Is PBS (Pune Business School) a good option for PGDM/MBA?
     answer: >-
-      Yes, PBS (Pune Business School) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at PBS (Pune Business School)?"
+      Yes, PBS (Pune Business School) is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at PBS (Pune Business School)?
     answer: >-
-      The average placement package at PBS (Pune Business School) is approximately ₹7.4 LPA, with the highest package reaching up to ₹27.0 LPA.
-  - question: "What entrance exams are accepted by PBS (Pune Business School)?"
+      The average placement package at PBS (Pune Business School) is
+      approximately ₹7.4 LPA, with the highest package reaching up to ₹27.0 LPA.
+  - question: What entrance exams are accepted by PBS (Pune Business School)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [PBS (Pune Business School)](/colleges/pbs-pune)**

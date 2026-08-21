@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 IIT Delhi is globally recognized as one of India's most prestigious engineering and management institutions, currently ranked **#3 in the NIRF Overall Category**. While it is famous for its highly competitive B.Tech programs, IIT Delhi has also emerged as a leader in **Executive Education**, offering specialized online programs designed specifically for working professionals.
 

@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What CAT percentile do I need for NDIM Delhi?
     answer: >-
@@ -49,7 +53,8 @@ faqs:
       Institute award, (2) 100% placement legacy, (3) dual specialization
       flexibility, (4) South Delhi location, and (5) 30+ years of alumni
       network.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 When you're shortlisting MBA/PGDM colleges in Delhi, one name that consistently appears in every top list is **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)**. But what actually makes NDIM different from the 50+ B-schools competing in the same percentile band?

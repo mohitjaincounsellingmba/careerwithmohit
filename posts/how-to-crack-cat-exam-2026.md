@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can a student with average academics crack CAT?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       No. Many self-studying students crack CAT using online resources, standard
       books (like Arun Sharma), and quality mock test series. Consistency and
       self-discipline are the actual keys.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Common Admission Test (CAT) is more than just a test of mathematical formulas or grammar rules. It is a **test of decision-making, speed, accuracy, and mental stamina** under high pressure. With over 3 lakh aspirants aiming for a limited number of seats in the elite Indian Institutes of Management (IIMs), your preparation strategy needs to be highly optimized.

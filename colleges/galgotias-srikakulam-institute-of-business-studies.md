@@ -1,7 +1,7 @@
 ---
 name: Galgotias Srikakulam Institute of Business Studies
 logo: /colleges/default-management-logo.webp
-location: 'Srikakulam, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Galgotias Srikakulam Institute of Business Studies PGDM placement
   - Galgotias Srikakulam Institute of Business Studies MBA admission 2027
   - 'MBA colleges Srikakulam, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Galgotias Srikakulam Institute of Business Studies

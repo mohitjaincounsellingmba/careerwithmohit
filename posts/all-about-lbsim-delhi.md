@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       Is LBSIM Delhi (Lal Bahadur Shastri Institute of Management) a good option
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, XAT, GMAT for the PGDM and MBA admissions.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)**

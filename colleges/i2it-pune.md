@@ -1,7 +1,7 @@
 ---
 name: International Institute of Information Technology (I²IT)
 logo: ''
-location: 'Hinjewadi, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -46,6 +46,13 @@ keywords:
     International Institute of Information Technology (I²IT) B.Tech admission
     2027
   - 'engineering colleges Hinjewadi, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

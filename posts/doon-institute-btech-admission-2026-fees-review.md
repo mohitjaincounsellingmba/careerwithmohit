@@ -12,6 +12,12 @@ keywords:
   - BTech admission Uttarakhand
   - JEE Main cutoff Doon Institute Dehradun
   - Affordable BTech Dehradun
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
   - question: Is Doon Institute affordable?
     answer: >-
@@ -25,6 +31,8 @@ faqs:
     answer: >-
       Placements are solid for local industries, with top service companies
       frequently recruiting through pool drives.
+location: Dehradun
+state: Uttarakhand
 ---
 
 **Doon Institute of Engineering and Technology (DIET)**, located in the scenic surroundings of Dehradun (Rishikesh), is a prominent constituent of the Doon Group of Institutions. Affiliated with Uttarakhand Technical University (UTU) and approved by AICTE, DIET is known for providing quality technical education at an affordable price point compared to premium private universities in the region.

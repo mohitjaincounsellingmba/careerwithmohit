@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) has established itself as one of the most reliable PGDM colleges in Delhi NCR, especially for students seeking strong corporate exposure. With a consistent 100% placement record, it remains a top choice for management aspirants.
 

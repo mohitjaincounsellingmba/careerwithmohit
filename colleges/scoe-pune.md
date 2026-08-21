@@ -1,7 +1,7 @@
 ---
 name: Sinhgad College of Engineering (SCOE)
 logo: ''
-location: 'Vadgaon, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Sinhgad College of Engineering (SCOE) CSE placement
   - Sinhgad College of Engineering (SCOE) B.Tech admission 2027
   - 'engineering colleges Vadgaon, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

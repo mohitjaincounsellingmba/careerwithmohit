@@ -1,7 +1,7 @@
 ---
 name: Sir M. Visvesvaraya Institute of Technology (Sir MVIT)
 logo: ''
-location: 'Hunasamaranahalli, Bangalore'
+location: Bangalore
 category: Engineering
 type: Institute
 courses:
@@ -45,6 +45,13 @@ keywords:
   - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) CSE placement
   - Sir M. Visvesvaraya Institute of Technology (Sir MVIT) B.Tech admission 2027
   - 'engineering colleges Hunasamaranahalli, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

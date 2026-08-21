@@ -1,7 +1,7 @@
 ---
 name: DSBS Bangalore
 logo: /colleges/dsbs-logo.webp
-location: 'Kanakapura Road, Bangalore'
+location: Bangalore
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - DSBS Bangalore PGDM placement
   - DSBS Bangalore MBA admission 2027
   - 'MBA colleges Kanakapura Road, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

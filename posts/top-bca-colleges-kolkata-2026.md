@@ -15,6 +15,12 @@ keywords:
   - bca admission kolkata 2026
   - techno india bca fees
   - direct bca admission kolkata
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
   - question: Does Heritage Kolkata require Maths for BCA?
     answer: >-
@@ -32,6 +38,8 @@ faqs:
     answer: >-
       Usually in **May/June**, immediately after the WBHSE and CBSE Board
       results are declared.
+location: Kolkata
+state: West Bengal
 ---
 
 Kolkata, the "City of Joy" and the tech-gateway to East India, is a massive hub for computer application studies. With Sector V (Salt Lake) and Rajarhat housing global delivery centers of TCS, Cognizant, and IBM, Kolkata provides a unique mix of high-quality technical education and an affordable cost of living.

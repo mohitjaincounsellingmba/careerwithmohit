@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Where is GL Bajaj Greater Noida located?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
     answer: >-
       Yes, a small percentage of seats are filled under the management quota
       based on merit and JEE Main score.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[GL Bajaj Institute of Technology and Management](/colleges/gl-bajaj-greater-noida) (GL Bajaj)** is one of the most prominent private engineering colleges in Greater Noida. Affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU) and accredited with NAAC Grade 'A+', GL Bajaj has consistently been ranked among the top engineering colleges in Uttar Pradesh for its modern infrastructure and strong placement volume.

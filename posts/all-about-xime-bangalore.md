@@ -1,23 +1,38 @@
 ---
-title: "XIME Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to XIME Bangalore? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'XIME Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to XIME Bangalore? Read our comprehensive PGDM review
+  for 2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "xime bangalore review 2026"
-  - "xime bangalore pgdm placements"
-  - "xime bangalore admission cutoff"
-  - "xime bangalore fees"
+  - xime bangalore review 2026
+  - xime bangalore pgdm placements
+  - xime bangalore admission cutoff
+  - xime bangalore fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is XIME Bangalore a good option for PGDM/MBA?"
+  - question: Is XIME Bangalore a good option for PGDM/MBA?
     answer: >-
-      Yes, XIME Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at XIME Bangalore?"
+      Yes, XIME Bangalore is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at XIME Bangalore?
     answer: >-
-      The average placement package at XIME Bangalore is approximately ₹10.0 LPA, with the highest package reaching up to ₹25.0 LPA.
-  - question: "What entrance exams are accepted by XIME Bangalore?"
+      The average placement package at XIME Bangalore is approximately ₹10.0
+      LPA, with the highest package reaching up to ₹25.0 LPA.
+  - question: What entrance exams are accepted by XIME Bangalore?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, XAT, MAT, CMAT, ATMA for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, XAT, MAT, CMAT, ATMA for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [XIME Bangalore](/colleges/xime-bangalore)**

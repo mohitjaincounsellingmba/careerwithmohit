@@ -1,9 +1,11 @@
 ---
 title: >-
-  DoMS, IIT Madras MBA Placement Report 2025: Average CTC ₹17.90 LPA, Tech MBA Highest ₹81 LPA & High ROI
+  DoMS, IIT Madras MBA Placement Report 2025: Average CTC ₹17.90 LPA, Tech MBA
+  Highest ₹81 LPA & High ROI
 date: '2026-08-15'
 description: >-
-  Detailed DoMS IIT Madras MBA Placement Report 2025. Explore average CTC of ₹17.90 LPA, Tech MBA highest of ₹81 LPA, top recruiters, low fees & ROI.
+  Detailed DoMS IIT Madras MBA Placement Report 2025. Explore average CTC of
+  ₹17.90 LPA, Tech MBA highest of ₹81 LPA, top recruiters, low fees & ROI.
 keywords:
   - doms iit madras mba placement report 2025
   - doms iit madras average package 2025
@@ -11,16 +13,30 @@ keywords:
   - doms iit madras cat cutoff
   - iit madras mba fees and roi
   - mba admission 2026
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: What was the average and highest package at DoMS IIT Madras in 2025?
     answer: >-
-      For the 2025 graduating class, DoMS IIT Madras reported an average CTC of INR 17.90 LPA and a regular MBA highest package of INR 35.50 LPA, while the specialized Tech MBA cohort recorded a phenomenal top offer of INR 81.00 LPA.
+      For the 2025 graduating class, DoMS IIT Madras reported an average CTC of
+      INR 17.90 LPA and a regular MBA highest package of INR 35.50 LPA, while
+      the specialized Tech MBA cohort recorded a phenomenal top offer of INR
+      81.00 LPA.
   - question: What are the tuition fees and ROI for MBA at IIT Madras?
     answer: >-
-      The 2-year total tuition fee is approximately INR 11.5 to 12.5 Lakhs. With an average starting salary of INR 17.90 LPA, DoMS IIT Madras offers an unbeatable ROI payback period under 8 months.
+      The 2-year total tuition fee is approximately INR 11.5 to 12.5 Lakhs. With
+      an average starting salary of INR 17.90 LPA, DoMS IIT Madras offers an
+      unbeatable ROI payback period under 8 months.
   - question: Who are the top recruiters at DoMS IIT Madras?
     answer: >-
-      Top recruiters include McKinsey, Accenture Strategy, Dell, Cisco, Amazon, Tiger Analytics, Morgan Stanley, and ICICI Bank.
+      Top recruiters include McKinsey, Accenture Strategy, Dell, Cisco, Amazon,
+      Tiger Analytics, Morgan Stanley, and ICICI Bank.
+location: Chennai
+state: Tamil Nadu
 ---
 
 The **Department of Management Studies (DoMS) at IIT Madras** offers a boutique management education program blending analytical engineering discipline with quantitative business modeling.

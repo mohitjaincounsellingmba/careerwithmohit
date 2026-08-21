@@ -1,23 +1,45 @@
 ---
-title: "Ramaiah Institute of Management Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Ramaiah Institute of Management Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Ramaiah Institute of Management Studies PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Ramaiah Institute of Management Studies? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "ramaiah institute of management studies review 2026"
-  - "ramaiah institute of management studies pgdm placements"
-  - "ramaiah institute of management studies admission cutoff"
-  - "ramaiah institute of management studies fees"
+  - ramaiah institute of management studies review 2026
+  - ramaiah institute of management studies pgdm placements
+  - ramaiah institute of management studies admission cutoff
+  - ramaiah institute of management studies fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is Ramaiah Institute of Management Studies a good option for PGDM/MBA?"
+  - question: Is Ramaiah Institute of Management Studies a good option for PGDM/MBA?
     answer: >-
-      Yes, Ramaiah Institute of Management Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Ramaiah Institute of Management Studies?"
+      Yes, Ramaiah Institute of Management Studies is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Ramaiah Institute of Management
+      Studies?
     answer: >-
-      The average placement package at Ramaiah Institute of Management Studies is approximately ₹6.7 LPA, with the highest package reaching up to ₹14.8 LPA.
-  - question: "What entrance exams are accepted by Ramaiah Institute of Management Studies?"
+      The average placement package at Ramaiah Institute of Management Studies
+      is approximately ₹6.7 LPA, with the highest package reaching up to ₹14.8
+      LPA.
+  - question: >-
+      What entrance exams are accepted by Ramaiah Institute of Management
+      Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [Ramaiah Institute of Management Studies](/colleges/ramaiah-institute-of-management-studies)**

@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the DSSSB PRT/TGT exam pattern?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       The minimum qualifying marks for the written exam are 40% for General, 35%
       for OBC (Delhi), and 30% for SC/ST/PH candidates in both Part A and Part B
       separately.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Succeeding in the **DSSSB PRT/TGT 2026** entrance exam demands not just subject expertise but also robust pacing, high accuracy under pressure, and sharp decision-making. Utilizing simulated tests is the absolute benchmark method utilized by high-scoring candidates to gauge their preparedness and improve their execution speed.
 

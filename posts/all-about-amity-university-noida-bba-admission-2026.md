@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'Is [Amity University](/colleges/amity-noida) Noida UGC recognized?'
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       Generally, specializations are chosen at the time of admission. However,
       check with the academic department for any lateral movement possibilities
       after the first year.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 [Amity University, Noida](/colleges/amity-university-noida), is one of the largest and most well-known private universities in India. Known for its world-class infrastructure and strong industry linkages, it is a popular choice for BBA aspirants in 2026 who are looking for global exposure and diverse specialization options.

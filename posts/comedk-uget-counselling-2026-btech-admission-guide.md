@@ -13,6 +13,12 @@ keywords:
   - MSRIT Bangalore admission
   - COMEDK seat allotment
   - '[BMSCE Bangalore](/colleges/bmsce-bangalore) cutoff'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: Is COMEDK open for outside state students?
     answer: >-
@@ -26,6 +32,8 @@ faqs:
     answer: >-
       RV College of Engineering (RVCE) Bangalore is consistently ranked as the
       #1 preference.
+location: Bangalore
+state: Karnataka
 ---
 
 **COMEDK UGET (Consortium of Medical, Engineering and Dental Colleges of Karnataka)** is the centralized admission gateway for engineering seats in over 150+ private unaided engineering colleges in Karnataka. Known for premier institutes like **RVCE Bangalore** and **MSRIT**, COMEDK 2026 is a top-tier choice for students nationwide.

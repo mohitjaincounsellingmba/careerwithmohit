@@ -1,23 +1,38 @@
 ---
-title: "Doon Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Doon Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Doon Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Doon Business School? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "doon business school review 2026"
-  - "doon business school pgdm placements"
-  - "doon business school admission cutoff"
-  - "doon business school fees"
+  - doon business school review 2026
+  - doon business school pgdm placements
+  - doon business school admission cutoff
+  - doon business school fees
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
-  - question: "Is Doon Business School a good option for PGDM/MBA?"
+  - question: Is Doon Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Doon Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Doon Business School?"
+      Yes, Doon Business School is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at Doon Business School?
     answer: >-
-      The average placement package at Doon Business School is approximately ₹8.0 LPA, with the highest package reaching up to ₹24.0 LPA.
-  - question: "What entrance exams are accepted by Doon Business School?"
+      The average placement package at Doon Business School is approximately
+      ₹8.0 LPA, with the highest package reaching up to ₹24.0 LPA.
+  - question: What entrance exams are accepted by Doon Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Dehradun
+state: Uttarakhand
 ---
 
 ### **College Review: [Doon Business School](/colleges/doon-business-school)**

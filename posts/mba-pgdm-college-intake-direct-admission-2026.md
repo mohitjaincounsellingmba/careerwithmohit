@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is "Direct Admission" legal?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
     answer: >-
       Right now! Most direct admission registrations for the July 2026 batch
       close by the end of **April**.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Choosing the right B-school is not just about the brand; it's also about the batch size. A higher intake often means more competition during placements, while a smaller intake might offer more personalized attention. 

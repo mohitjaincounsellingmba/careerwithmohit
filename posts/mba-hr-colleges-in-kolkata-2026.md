@@ -1,24 +1,39 @@
 ---
-title: 'Top MBA HR Colleges in Kolkata 2026 — Placements & Fees'
+title: Top MBA HR Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Looking for top MBA HR colleges in Kolkata? Review 2026 guide comparing IIM Calcutta, IISWBM, and IMI Kolkata placements and program fees.'
+description: >-
+  Looking for top MBA HR colleges in Kolkata? Review 2026 guide comparing IIM
+  Calcutta, IISWBM, and IMI Kolkata placements and program fees.
 keywords:
   - top mba hr colleges in kolkata 2026
   - best hr mba in kolkata
   - iim calcutta strategy placement
   - iiswbm kolkata mba hr fees
   - imi kolkata average package 2025
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
   - question: Is IISWBM Kolkata prestigious for HR?
     answer: >-
-      Yes, IISWBM is India's first official B-school, and its MBA-HR program has an exceptionally long legacy, producing leading HR executives and directors across Indian public and private companies.
+      Yes, IISWBM is India's first official B-school, and its MBA-HR program has
+      an exceptionally long legacy, producing leading HR executives and
+      directors across Indian public and private companies.
   - question: Does IIM Calcutta offer specialized HR placements?
     answer: >-
-      While famed for finance, IIM Calcutta offers general management programs that place candidates in premium consulting, change management, and corporate strategy roles.
+      While famed for finance, IIM Calcutta offers general management programs
+      that place candidates in premium consulting, change management, and
+      corporate strategy roles.
   - question: What exams are accepted by Heritage Business School?
     answer: >-
-      Heritage Business School accepts CAT, MAT, and CMAT scores for its management programs.
+      Heritage Business School accepts CAT, MAT, and CMAT scores for its
+      management programs.
+location: Kolkata
+state: West Bengal
 ---
 
 Selecting the right B-school is critical if you are targeting a career in talent acquisition, workforce management, employee wellness, industrial relations, or strategic human resources. While general MBA rankings give a broad overview, HR recruiters tend to visit campuses that have a strong tradition of organizational behavior studies, dedicated HR specialized cells, and proximity to major corporate headquarters.

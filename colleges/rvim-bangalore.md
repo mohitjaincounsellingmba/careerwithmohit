@@ -1,7 +1,7 @@
 ---
 name: RVIM Bangalore
 logo: /colleges/rvim-logo.webp
-location: 'Jayanagar, Bangalore'
+location: Bangalore
 category: Management
 type: Institute
 courses:
@@ -40,6 +40,13 @@ keywords:
   - RVIM Bangalore PGDM placement
   - RVIM Bangalore MBA admission 2027
   - 'MBA colleges Jayanagar, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

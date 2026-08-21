@@ -1,24 +1,39 @@
 ---
-title: 'Top MBA Marketing Colleges in Chennai 2026 — Placements & Fees'
+title: Top MBA Marketing Colleges in Chennai 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Compare the best MBA Marketing colleges in Chennai. Get details on fees, placements, and cutoffs for Great Lakes, DoMS IIT Madras, LIBA, and XIME Chennai.'
+description: >-
+  Compare the best MBA Marketing colleges in Chennai. Get details on fees,
+  placements, and cutoffs for Great Lakes, DoMS IIT Madras, LIBA, and XIME
+  Chennai.
 keywords:
   - top mba marketing colleges in chennai 2026
   - best marketing mba in chennai
   - great lakes chennai marketing placement
   - doms iit madras placements fees
   - liba chennai admission
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Why is Great Lakes Chennai considered top pick for Marketing?
     answer: >-
-      Great Lakes Chennai features an advanced marketing specialization that integrates digital analytics, consumer metrics, and customer relationship management (CRM).
+      Great Lakes Chennai features an advanced marketing specialization that
+      integrates digital analytics, consumer metrics, and customer relationship
+      management (CRM).
   - question: What is the fee structure of DoMS IIT Madras?
     answer: >-
-      DoMS IIT Madras offers high ROI with a total fee of around INR 10 Lakhs and average placement packages exceeding INR 16 LPA.
+      DoMS IIT Madras offers high ROI with a total fee of around INR 10 Lakhs
+      and average placement packages exceeding INR 16 LPA.
   - question: Does LIBA accept CMAT?
     answer: >-
-      No, LIBA Chennai primarily accepts CAT and XAT scores for its flagship PGDM programs.
+      No, LIBA Chennai primarily accepts CAT and XAT scores for its flagship
+      PGDM programs.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Selecting the right B-school is critical if you are targeting a career in brand management, corporate sales, consumer research, retail marketing, or advertising. While general MBA rankings give a broad overview, marketing recruiters tend to visit campuses that have a strong case-study tradition, specialized consumer labs, and proximity to major corporate headquarters.

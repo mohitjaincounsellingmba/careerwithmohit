@@ -17,8 +17,14 @@ keywords:
   - Best Colleges in Chennai (Kattankulathur)
   - 'Top Universities in Chennai, South India'
   - Direct Admission in Chennai (Kattankulathur)
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 category: Colleges
-location: Chennai (Kattankulathur)
+location: Chennai
 faqs:
   - question: >-
       Is SRM Institute of Science and Technology (SRMIST), Kattankulathur a good
@@ -47,6 +53,7 @@ faqs:
       Kattankulathur are conducted based on entrance exams such as SRMJEEE
       (B.Tech), SRMJEEM / CAT / MAT / XAT (MBA), NEET (Medical), followed by
       counseling, personal interviews, or merit-based shortlisting.
+state: Tamil Nadu
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **SRM Institute of Science and Technology (SRMIST), Kattankulathur**, situated in **Chennai (Kattankulathur)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Chennai, South India.

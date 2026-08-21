@@ -1,23 +1,53 @@
 ---
-title: "Lal Bahadur Shastri Dehradun Institute of Management & Technology PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Lal Bahadur Shastri Dehradun Institute of Management & Technology? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Lal Bahadur Shastri Dehradun Institute of Management & Technology PGDM
+  Admission Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Lal Bahadur Shastri Dehradun Institute of Management
+  & Technology? Read our comprehensive PGDM review for 2026 covering total fees,
+  average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "lal bahadur shastri dehradun institute of management & technology review 2026"
-  - "lal bahadur shastri dehradun institute of management & technology pgdm placements"
-  - "lal bahadur shastri dehradun institute of management & technology admission cutoff"
-  - "lal bahadur shastri dehradun institute of management & technology fees"
+  - >-
+    lal bahadur shastri dehradun institute of management & technology review
+    2026
+  - >-
+    lal bahadur shastri dehradun institute of management & technology pgdm
+    placements
+  - >-
+    lal bahadur shastri dehradun institute of management & technology admission
+    cutoff
+  - lal bahadur shastri dehradun institute of management & technology fees
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
-  - question: "Is Lal Bahadur Shastri Dehradun Institute of Management & Technology a good option for PGDM/MBA?"
+  - question: >-
+      Is Lal Bahadur Shastri Dehradun Institute of Management & Technology a
+      good option for PGDM/MBA?
     answer: >-
-      Yes, Lal Bahadur Shastri Dehradun Institute of Management & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Lal Bahadur Shastri Dehradun Institute of Management & Technology?"
+      Yes, Lal Bahadur Shastri Dehradun Institute of Management & Technology is
+      a highly respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Lal Bahadur Shastri Dehradun
+      Institute of Management & Technology?
     answer: >-
-      The average placement package at Lal Bahadur Shastri Dehradun Institute of Management & Technology is approximately ₹8.5 LPA, with the highest package reaching up to ₹21.5 LPA.
-  - question: "What entrance exams are accepted by Lal Bahadur Shastri Dehradun Institute of Management & Technology?"
+      The average placement package at Lal Bahadur Shastri Dehradun Institute of
+      Management & Technology is approximately ₹8.5 LPA, with the highest
+      package reaching up to ₹21.5 LPA.
+  - question: >-
+      What entrance exams are accepted by Lal Bahadur Shastri Dehradun Institute
+      of Management & Technology?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Dehradun
+state: Uttarakhand
 ---
 
 ### **College Review: [Lal Bahadur Shastri Dehradun Institute of Management & Technology](/colleges/lal-bahadur-shastri-dehradun-institute-of-management-technology)**

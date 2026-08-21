@@ -1,7 +1,7 @@
 ---
 name: Savitribai Phule Pune University (SPPU) - Department of Technology
 logo: ''
-location: 'Ganeshkhind, Pune'
+location: Pune
 category: Engineering
 type: University
 courses:
@@ -67,6 +67,13 @@ keywords:
     Savitribai Phule Pune University (SPPU) - Department of Technology B.Tech
     admission 2027
   - 'engineering colleges Ganeshkhind, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

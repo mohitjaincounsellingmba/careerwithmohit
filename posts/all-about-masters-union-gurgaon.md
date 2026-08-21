@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Masters' Union an MBA or a Diploma?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       MU-BAAT is an aptitude test that evaluates critical thinking, logical
       reasoning, and data interpretation. It is followed by a very rigorous
       interview process focusing on your business mindset and past achievements.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Masters' Union has aggressively disrupted the Indian business education sector. Located in Cybercity, Gurgaon, it is not a traditional B-School but an "institution for technology and business management" taught entirely by CXOs, MDs, and business leaders rather than academic professors. 

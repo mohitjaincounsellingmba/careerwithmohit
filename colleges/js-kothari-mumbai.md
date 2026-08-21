@@ -43,6 +43,13 @@ keywords:
   - J.S. Kothari Business School PGDM placement
   - J.S. Kothari Business School MBA admission 2027
   - MBA colleges Mumbai
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

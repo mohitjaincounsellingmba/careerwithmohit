@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: is there a service bond in AFMC?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       Counselling registrations typically open in **July** after the NEET
       results.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Pune, the "Oxford of the East," is one of India's most prestigious clusters for medical education. Home to the legendary Armed Forces Medical College (AFMC) and top-tier state government hospitals, Pune offers medical students a unique blend of high-discipline military training and intensive civilian clinical exposure.

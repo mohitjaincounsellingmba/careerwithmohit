@@ -12,6 +12,12 @@ keywords:
   - IIT Roorkee JEE Advanced 2026
   - JEE Advanced 2026 preparation tips
   - JEE Advanced hall ticket link
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -27,6 +33,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Dehradun
+state: Uttarakhand
 ---
 The wait for the most prestigious engineering entrance exam in India is almost over. **IIT Roorkee**, the organizing body for **JEE Advanced 2026**, has confirmed that the admit cards will be available for download starting **May 11, 2026**.
 

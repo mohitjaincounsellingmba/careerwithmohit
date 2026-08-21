@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the ranking of IMT Ghaziabad for Marketing?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
     answer: >-
       No, IMT Ghaziabad accepts CAT, XAT, and GMAT scores for its flagship PGDM
       programs.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Selecting the right B-school is critical if you are targeting a career in brand management, corporate sales, consumer research, retail marketing, or advertising. While general MBA rankings give a broad overview, marketing recruiters tend to visit campuses that have a strong case-study tradition, specialized consumer labs, and proximity to major corporate headquarters.

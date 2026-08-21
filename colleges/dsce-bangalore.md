@@ -1,7 +1,7 @@
 ---
 name: Dayananda Sagar College of Engineering (DSCE)
 logo: ''
-location: 'Kumaraswamy Layout, Bangalore'
+location: Bangalore
 category: Engineering
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Dayananda Sagar College of Engineering (DSCE) CSE placement
   - Dayananda Sagar College of Engineering (DSCE) B.Tech admission 2027
   - 'engineering colleges Kumaraswamy Layout, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

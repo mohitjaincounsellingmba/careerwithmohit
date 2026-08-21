@@ -1,7 +1,7 @@
 ---
 name: Jagdish Sheth School of Management
 logo: ''
-location: Bengaluru
+location: Bangalore
 category: Management
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Jagdish Sheth School of Management PGDM placement
   - Jagdish Sheth School of Management MBA admission 2027
   - MBA colleges Bengaluru
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

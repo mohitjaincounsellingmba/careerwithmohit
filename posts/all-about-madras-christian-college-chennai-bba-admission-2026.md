@@ -13,6 +13,12 @@ keywords:
   - best bba college in chennai
   - mcc chennai bba cutoff 2026
   - mcc chennai autonomous
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Does MCC have a hostel facility for BBA students?
     answer: >-
@@ -23,6 +29,8 @@ faqs:
     answer: >-
       No, Madras Christian College is a co-educational institution for all its
       undergraduate and postgraduate programs.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Madras Christian College (MCC), Chennai, is one of the oldest and most prestigious institutions in India. Set in a sprawling 365-acre scrub jungle campus, MCC offers a unique academic environment that combines tradition with modern management practices. It is a top choice for BBA aspirants in 2026.

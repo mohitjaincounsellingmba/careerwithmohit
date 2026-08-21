@@ -1,16 +1,48 @@
 ---
-title: "Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune executive mba","Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune executive mba review","Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune executive mba fees","Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune executive mba placement","Pune executive mba","best executive mba in Pune"]
-category: "MBA"
+title: >-
+  Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune
+  Executive MBA Review
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Symbiosis Centre
+  for Management and Human Resource Development (SCMHRD), Pune. Learn about
+  total fees, eligibility, accepted entrance exams, average packages, pros,
+  cons, and expert verdicts.
+keywords:
+  - >-
+    Symbiosis Centre for Management and Human Resource Development (SCMHRD),
+    Pune executive mba
+  - >-
+    Symbiosis Centre for Management and Human Resource Development (SCMHRD),
+    Pune executive mba review
+  - >-
+    Symbiosis Centre for Management and Human Resource Development (SCMHRD),
+    Pune executive mba fees
+  - >-
+    Symbiosis Centre for Management and Human Resource Development (SCMHRD),
+    Pune executive mba placement
+  - Pune executive mba
+  - best executive mba in Pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+category: MBA
 faqs:
-  - question: "Is SCMHRD Executive MBA only for HR professionals?"
-    answer: "No, while SCMHRD is famous for HR, the Executive MBA offers comprehensive specializations in Marketing, Finance, Operations, and Business Analytics."
-  - question: "What is the duration of the SCMHRD Executive program?"
-    answer: "The program is structured over 30 months (2.5 years) split into semesters."
-  - question: "What is the minimum work experience required?"
-    answer: "A minimum of 2 years of post-graduation professional work experience is required to apply."
+  - question: Is SCMHRD Executive MBA only for HR professionals?
+    answer: >-
+      No, while SCMHRD is famous for HR, the Executive MBA offers comprehensive
+      specializations in Marketing, Finance, Operations, and Business Analytics.
+  - question: What is the duration of the SCMHRD Executive program?
+    answer: The program is structured over 30 months (2.5 years) split into semesters.
+  - question: What is the minimum work experience required?
+    answer: >-
+      A minimum of 2 years of post-graduation professional work experience is
+      required to apply.
+location: Pune
+state: Maharashtra
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Pune, the Executive MBA / Executive PGDM offered by [Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune](/colleges/scmhrd-pune) represents a powerful gateway to higher senior leadership positions.

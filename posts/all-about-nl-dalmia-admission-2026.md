@@ -16,6 +16,12 @@ keywords:
   - NL Dalmia Bloomberg Lab
   - NL Dalmia CMAT cutoff
   - NL Dalmia admission process 2026
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -31,6 +37,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Mumbai
+state: Maharashtra
 ---
 Located in the serene surroundings of Mira Road, Mumbai, **N. L. Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies) and Research (NLDIMSR)** is widely regarded as one of India's premier destinations for Finance-focused management education. 
 

@@ -1,23 +1,38 @@
 ---
-title: "ISMS Pune PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to ISMS Pune? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'ISMS Pune PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to ISMS Pune? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "isms pune review 2026"
-  - "isms pune pgdm placements"
-  - "isms pune admission cutoff"
-  - "isms pune fees"
+  - isms pune review 2026
+  - isms pune pgdm placements
+  - isms pune admission cutoff
+  - isms pune fees
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is ISMS Pune a good option for PGDM/MBA?"
+  - question: Is ISMS Pune a good option for PGDM/MBA?
     answer: >-
-      Yes, ISMS Pune is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at ISMS Pune?"
+      Yes, ISMS Pune is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at ISMS Pune?
     answer: >-
-      The average placement package at ISMS Pune is approximately ₹8.0 LPA, with the highest package reaching up to ₹19.0 LPA.
-  - question: "What entrance exams are accepted by ISMS Pune?"
+      The average placement package at ISMS Pune is approximately ₹8.0 LPA, with
+      the highest package reaching up to ₹19.0 LPA.
+  - question: What entrance exams are accepted by ISMS Pune?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [ISMS Pune](/colleges/isms-pune)**

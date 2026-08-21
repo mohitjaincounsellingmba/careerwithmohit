@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Coimbatore have good B.Tech CSE colleges?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       Usually starts in **June/July** after the 12th board results are
       announced.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Coimbatore, famously known as the "Manchester of South India," is one of the most prominent industrial and educational hubs in the country. With a massive cluster of manufacturing, textile, and IT industries, Coimbatore provides a unique ecosystem where engineering students get direct exposure to real-world industrial systems while studying.

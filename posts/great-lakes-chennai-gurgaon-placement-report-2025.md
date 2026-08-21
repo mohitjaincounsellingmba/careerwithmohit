@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What was the average package for 1-Year PGPM and 2-Year PGDM at Great
@@ -40,7 +44,8 @@ faqs:
     answer: >-
       Great Lakes accepts CAT, XAT, GMAT, and CMAT scores for its admission
       rounds.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Great Lakes Institute of Management (GLIM)**, with premier campuses in **Chennai** and **Gurgaon**, is globally renowned for pioneering fast-track 1-Year MBA education (PGPM) and rigorous 2-Year corporate-aligned management degrees (PGDM).

@@ -30,6 +30,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is a good GMAT Focus score for ISB in 2026?
     answer: >-
@@ -48,7 +52,8 @@ faqs:
       You can take the GMAT up to **5 times within a floating 12-month period**
       and a maximum of 8 times in your lifetime. There must be at least 16 days
       between two attempts.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### 📊 GMAT Focus Edition 2026 Snapshot

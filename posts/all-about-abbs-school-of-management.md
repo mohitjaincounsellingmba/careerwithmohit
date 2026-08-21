@@ -1,23 +1,40 @@
 ---
-title: "ABBS School of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to ABBS School of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  ABBS School of Management PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to ABBS School of Management? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "abbs school of management review 2026"
-  - "abbs school of management pgdm placements"
-  - "abbs school of management admission cutoff"
-  - "abbs school of management fees"
+  - abbs school of management review 2026
+  - abbs school of management pgdm placements
+  - abbs school of management admission cutoff
+  - abbs school of management fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is ABBS School of Management a good option for PGDM/MBA?"
+  - question: Is ABBS School of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, ABBS School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at ABBS School of Management?"
+      Yes, ABBS School of Management is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at ABBS School of Management?
     answer: >-
-      The average placement package at ABBS School of Management is approximately ₹7.5 LPA, with the highest package reaching up to ₹7.5 LPA.
-  - question: "What entrance exams are accepted by ABBS School of Management?"
+      The average placement package at ABBS School of Management is
+      approximately ₹7.5 LPA, with the highest package reaching up to ₹7.5 LPA.
+  - question: What entrance exams are accepted by ABBS School of Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [ABBS School of Management](/colleges/abbs-school-of-management)**

@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Choosing a career path after the 12th is one of the most critical decisions for any student. In 2026, two fields have emerged as high-growth, lucrative options: **Interior Designing** and **BBA in Digital Marketing**.
 

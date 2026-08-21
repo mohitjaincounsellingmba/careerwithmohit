@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is KIET Ghaziabad better than GL Bajaj?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
     answer: >-
       Yes, the university provides merit-based scholarships and government-aided
       fee waivers for deserving students.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[KIET Group of Institutions](/colleges/kiet-ghaziabad)** in Ghaziabad is consistently ranked among the top private engineering colleges in Uttar Pradesh. Affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU) and accredited with NAAC Grade 'A+', KIET is a major hub for tech placements in the NCR region.

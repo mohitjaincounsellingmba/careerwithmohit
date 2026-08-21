@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What was the average and highest package at IMI New Delhi in 2025?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
     answer: >-
       The CAT and XAT cutoffs for IMI New Delhi generally hover around 88 to 92
       percentile for General category applicants.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Located in the heart of South Delhi’s institutional area, the **International Management Institute (IMI), New Delhi** is India’s first corporate-sponsored business school and holds coveted international accreditations from AMBA, AACSB, and SAQS.

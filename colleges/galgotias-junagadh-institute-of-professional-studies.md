@@ -1,7 +1,7 @@
 ---
 name: Galgotias Junagadh Institute of Professional Studies
 logo: /colleges/default-management-logo.webp
-location: 'Junagadh, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Galgotias Junagadh Institute of Professional Studies PGDM placement
   - Galgotias Junagadh Institute of Professional Studies MBA admission 2027
   - 'MBA colleges Junagadh, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Galgotias Junagadh Institute of Professional Studies

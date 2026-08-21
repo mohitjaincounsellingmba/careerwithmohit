@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Mathematics compulsory for CLAT?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       CLAT is usually held on the **first Sunday of December** (e.g., Dec 2025
       for the 2026 intake).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Choosing a Law school is one of the most critical decisions for a future legal professional. In India, the **National Law Universities (NLUs)** have revolutionized legal education, offering a 5-year integrated path (BA/BBA LLB) that is highly sought after by top-tier corporate law firms and international legal entities.

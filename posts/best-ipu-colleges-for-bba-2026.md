@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Guru Gobind Singh Indraprastha University (GGSIPU), widely known as IP University (IPU), is a premier destination for students aiming to pursue a Bachelor of Business Administration (BBA) in Delhi NCR. With over 30 affiliated colleges offering the BBA degree, IPU represents a highly balanced mid-budget educational option combining structured academics with reliable corporate entry.
 

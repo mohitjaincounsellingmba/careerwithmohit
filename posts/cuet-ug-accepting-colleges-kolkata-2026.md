@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Kolkata, the "City of Joy," is a leading educational hub in East India. With some of its most specialized and high-tech private universities joining the **Common University Entrance Test (CUET) UG** movement, the competition is fierce but rewarding.
 

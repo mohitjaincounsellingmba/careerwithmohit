@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best ECE college in India?
     answer: >-
@@ -48,7 +52,8 @@ faqs:
       Yes. Most IT companies (TCS, Wipro, Infosys, Accenture) hire ECE graduates
       for software roles alongside CSE students. Many ECE graduates also crack
       product companies through coding preparation.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Electronics and Communication Engineering (ECE) is the backbone of India's telecommunications, semiconductor, defence electronics, and consumer electronics industries. With India's semiconductor manufacturing push (₹76,000 Crore incentive scheme), 5G rollout, and defence modernisation, ECE graduates are in unprecedented demand in 2026.

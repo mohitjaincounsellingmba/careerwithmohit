@@ -1,7 +1,7 @@
 ---
 name: International Secunderabad School of Business & Management
 logo: /colleges/default-management-logo.webp
-location: 'Secunderabad, India'
+location: Hyderabad
 category: Management
 type: Institute
 courses:
@@ -50,6 +50,13 @@ keywords:
     International Secunderabad School of Business & Management MBA admission
     2027
   - 'MBA colleges Secunderabad, India'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
+state: Telangana
 ---
 
 ### About International Secunderabad School of Business & Management

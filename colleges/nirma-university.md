@@ -1,7 +1,7 @@
 ---
 name: Nirma University
 logo: /colleges/default-engineering-logo.webp
-location: India
+location: Ahmedabad
 category: Engineering
 type: Institute
 courses:
@@ -40,6 +40,13 @@ keywords:
   - Nirma University CSE placement
   - Nirma University B.Tech admission 2027
   - engineering colleges India
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### About Nirma University

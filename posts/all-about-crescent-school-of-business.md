@@ -1,23 +1,40 @@
 ---
-title: "Crescent School of Business, PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Crescent School of Business,? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Crescent School of Business, PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Crescent School of Business,? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "crescent school of business, review 2026"
-  - "crescent school of business, pgdm placements"
-  - "crescent school of business, admission cutoff"
-  - "crescent school of business, fees"
+  - 'crescent school of business, review 2026'
+  - 'crescent school of business, pgdm placements'
+  - 'crescent school of business, admission cutoff'
+  - 'crescent school of business, fees'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "Is Crescent School of Business, a good option for PGDM/MBA?"
+  - question: 'Is Crescent School of Business, a good option for PGDM/MBA?'
     answer: >-
-      Yes, Crescent School of Business, is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Crescent School of Business,?"
+      Yes, Crescent School of Business, is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: 'What is the average package offered at Crescent School of Business,?'
     answer: >-
-      The average placement package at Crescent School of Business, is approximately ₹6 LPA, with the highest package reaching up to ₹9 LPA.
-  - question: "What entrance exams are accepted by Crescent School of Business,?"
+      The average placement package at Crescent School of Business, is
+      approximately ₹6 LPA, with the highest package reaching up to ₹9 LPA.
+  - question: 'What entrance exams are accepted by Crescent School of Business,?'
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### **College Review: [Crescent School of Business,](/colleges/crescent-school-of-business)**

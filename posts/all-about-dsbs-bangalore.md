@@ -1,23 +1,38 @@
 ---
-title: "DSBS Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to DSBS Bangalore? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'DSBS Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to DSBS Bangalore? Read our comprehensive PGDM review
+  for 2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "dsbs bangalore review 2026"
-  - "dsbs bangalore pgdm placements"
-  - "dsbs bangalore admission cutoff"
-  - "dsbs bangalore fees"
+  - dsbs bangalore review 2026
+  - dsbs bangalore pgdm placements
+  - dsbs bangalore admission cutoff
+  - dsbs bangalore fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is DSBS Bangalore a good option for PGDM/MBA?"
+  - question: Is DSBS Bangalore a good option for PGDM/MBA?
     answer: >-
-      Yes, DSBS Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at DSBS Bangalore?"
+      Yes, DSBS Bangalore is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at DSBS Bangalore?
     answer: >-
-      The average placement package at DSBS Bangalore is approximately ₹9.0 LPA, with the highest package reaching up to ₹20.0 LPA.
-  - question: "What entrance exams are accepted by DSBS Bangalore?"
+      The average placement package at DSBS Bangalore is approximately ₹9.0 LPA,
+      with the highest package reaching up to ₹20.0 LPA.
+  - question: What entrance exams are accepted by DSBS Bangalore?
     answer: >-
-      The college accepts scores from national level entrance examinations including MAT, CAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including MAT, CAT, CMAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [DSBS Bangalore](/colleges/dsbs-bangalore)**

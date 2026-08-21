@@ -1,23 +1,38 @@
 ---
-title: "IIM Ahmedabad PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to IIM Ahmedabad? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'IIM Ahmedabad PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to IIM Ahmedabad? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "iim ahmedabad review 2026"
-  - "iim ahmedabad pgdm placements"
-  - "iim ahmedabad admission cutoff"
-  - "iim ahmedabad fees"
+  - iim ahmedabad review 2026
+  - iim ahmedabad pgdm placements
+  - iim ahmedabad admission cutoff
+  - iim ahmedabad fees
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: "Is IIM Ahmedabad a good option for PGDM/MBA?"
+  - question: Is IIM Ahmedabad a good option for PGDM/MBA?
     answer: >-
-      Yes, IIM Ahmedabad is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at IIM Ahmedabad?"
+      Yes, IIM Ahmedabad is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at IIM Ahmedabad?
     answer: >-
-      The average placement package at IIM Ahmedabad is approximately ₹35.0 LPA, with the highest package reaching up to ₹1.15 Crore.
-  - question: "What entrance exams are accepted by IIM Ahmedabad?"
+      The average placement package at IIM Ahmedabad is approximately ₹35.0 LPA,
+      with the highest package reaching up to ₹1.15 Crore.
+  - question: What entrance exams are accepted by IIM Ahmedabad?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT for the PGDM and MBA admissions.
+location: Ahmedabad
+state: Gujarat
 ---
 
 ### **College Review: [IIM Ahmedabad](/colleges/iim-ahmedabad)**

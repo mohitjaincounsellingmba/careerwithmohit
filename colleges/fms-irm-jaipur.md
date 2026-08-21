@@ -43,6 +43,13 @@ keywords:
   - Faculty of Management Studies - IRM PGDM placement
   - Faculty of Management Studies - IRM MBA admission 2027
   - MBA colleges Jaipur
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
+state: Rajasthan
 ---
 
 ### Courses & Fees

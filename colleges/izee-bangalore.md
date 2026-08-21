@@ -43,6 +43,13 @@ keywords:
   - IZee Business School PGDM placement
   - IZee Business School MBA admission 2027
   - MBA colleges Bangalore
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

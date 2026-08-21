@@ -1,7 +1,7 @@
 ---
 name: Vishwa Vishwani Institute of Systems & Management
 logo: ''
-location: Secunderabad
+location: Hyderabad
 category: Management
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Vishwa Vishwani Institute of Systems & Management PGDM placement
   - Vishwa Vishwani Institute of Systems & Management MBA admission 2027
   - MBA colleges Secunderabad
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
+state: Telangana
 ---
 
 ### Courses & Fees

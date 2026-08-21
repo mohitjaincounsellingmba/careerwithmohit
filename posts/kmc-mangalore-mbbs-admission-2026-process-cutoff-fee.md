@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is KMC Mangalore good for MBBS?
     answer: >-
@@ -32,7 +36,8 @@ faqs:
       70,000 (Score 545-575).
   - question: What is the annual fee for KMC Mangalore?
     answer: The annual tuition fee is approximately ₹17.8 Lakhs.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Planning your medical career and targeting **Kasturba Medical College (KMC), Mangalore** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, KMC Mangalore offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

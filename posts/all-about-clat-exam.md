@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which entrance exams are required for LLB admissions in India?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Law graduates can practice in courts, join corporate law firms as legal
       advisors, prepare for judicial services, work in NGOs, or join public
       sector undertakings (PSUs).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 The Common Law Admission Test (CLAT) is the premier national-level entrance exam for Law in India. It is the primary gateway for admission to 24 National Law Universities (NLUs) and several other top-tier law schools across the country. If you aspire to build a career in Corporate Law, Litigation, or the Judiciary, cracking CLAT is your first major milestone.
 

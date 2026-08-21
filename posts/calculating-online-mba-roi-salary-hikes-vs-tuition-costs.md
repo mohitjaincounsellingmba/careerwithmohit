@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How long does it take to recover the cost of an online MBA?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       A regular MBA from a Tier-1 college (like an IIM) yields higher starting
       packages but has a massive opportunity cost (lost salary for 2 years). For
       Tier-3 colleges, an online MBA from a top brand offers much better ROI.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Before investing your hard-earned money and weekend hours into an **Online MBA**, you need to ask a simple financial question: **Is it worth the return?**

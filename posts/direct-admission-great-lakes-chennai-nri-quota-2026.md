@@ -11,6 +11,12 @@ keywords:
   - Great Lakes GMAT cutoff
   - MBA in Chennai for NRIs
   - study at Great Lakes
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Is there a Management Quota in Great Lakes Chennai?
     answer: >-
@@ -28,6 +34,8 @@ faqs:
       months of work experience. PGDM is a traditional **2-year program**
       designed for fresh graduates and those with less than 2 years of
       experience.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### 📊 Great Lakes Chennai NRI/PIO 2026 Snapshot

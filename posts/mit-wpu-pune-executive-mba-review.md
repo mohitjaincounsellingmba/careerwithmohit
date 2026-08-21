@@ -1,16 +1,39 @@
 ---
-title: "MIT World Peace University (MIT-WPU), Pune Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at MIT World Peace University (MIT-WPU), Pune. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["MIT World Peace University (MIT-WPU), Pune executive mba","MIT World Peace University (MIT-WPU), Pune executive mba review","MIT World Peace University (MIT-WPU), Pune executive mba fees","MIT World Peace University (MIT-WPU), Pune executive mba placement","Pune executive mba","best executive mba in Pune"]
-category: "MBA"
+title: 'MIT World Peace University (MIT-WPU), Pune Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at MIT World Peace
+  University (MIT-WPU), Pune. Learn about total fees, eligibility, accepted
+  entrance exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - 'MIT World Peace University (MIT-WPU), Pune executive mba'
+  - 'MIT World Peace University (MIT-WPU), Pune executive mba review'
+  - 'MIT World Peace University (MIT-WPU), Pune executive mba fees'
+  - 'MIT World Peace University (MIT-WPU), Pune executive mba placement'
+  - Pune executive mba
+  - best executive mba in Pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+category: MBA
 faqs:
-  - question: "Is the MIT-WPU Executive MBA UGC approved?"
-    answer: "Yes, MIT-WPU is a recognized state private university, and its management degrees are fully approved."
-  - question: "What are the class timings?"
-    answer: "Classes are conducted on weekends, covering Saturdays (evenings) and Sundays (full day)."
-  - question: "Is work experience mandatory?"
-    answer: "Yes, a minimum of 2 years of full-time professional experience is required to apply."
+  - question: Is the MIT-WPU Executive MBA UGC approved?
+    answer: >-
+      Yes, MIT-WPU is a recognized state private university, and its management
+      degrees are fully approved.
+  - question: What are the class timings?
+    answer: >-
+      Classes are conducted on weekends, covering Saturdays (evenings) and
+      Sundays (full day).
+  - question: Is work experience mandatory?
+    answer: >-
+      Yes, a minimum of 2 years of full-time professional experience is required
+      to apply.
+location: Pune
+state: Maharashtra
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Pune, the Executive MBA / Executive PGDM offered by [MIT World Peace University (MIT-WPU), Pune](/colleges/mit-wpu-pune) represents a powerful gateway to higher senior leadership positions.

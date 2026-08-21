@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does IIM Indore accept SAT scores for IPM?
     answer: >-
@@ -28,7 +32,8 @@ faqs:
       is generally for international/NRI candidates.
   - question: How many seats are available in IIM Indore IPM?
     answer: There are approximately 150 seats available for the 2026 batch.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 IIM Indore was the first IIM to launch the Integrated Programme in Management (IPM), a unique 5-year course that blends undergraduate and postgraduate management education. In 2026, it remains the "Gold Standard" for students aiming to join the Indian Institute of Management straight after Class 12.

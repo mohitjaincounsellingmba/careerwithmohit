@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: When will JEE Main 2026 be held?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       respective boards to be eligible for NIT/IIT admissions.
   - question: How many attempts are allowed for JEE Advanced?
     answer: "Candidates can attempt JEE Advanced a maximum of **two times in two consecutive years**.\n\n[\U0001F449 Looking for expert guidance to navigate your B.Tech admissions? Connect with our counsellors today!](/inquiry)"
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Joint Entrance Examination (JEE)** is the flagship engineering entrance exam in India, serving as the gateway to the world-renowned Indian Institutes of Management (IITs), National Institutes of Technology (NITs), and other premier engineering institutions like IIITs and GFTIs.

@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in private law colleges?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       Symbiosis (SLAT) applications usually close by **mid-April**. Always check
       the official portal in January of your 12th year.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Pursuing an LLB (Bachelor of Laws) from a elite private institution is no longer a "backup plan." Premier private law schools like Jindal Global and Symbiosis are now giving the top-tier National Law Universities (NLUs) a tough competition with their niche specializations, global faculty, and massive corporate law firm placements.

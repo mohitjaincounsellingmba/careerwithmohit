@@ -1,23 +1,47 @@
 ---
-title: "Xavier Chennai Global Institute of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Chennai Global Institute of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Chennai Global Institute of Management PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Xavier Chennai Global Institute of Management? Read
+  our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "xavier chennai global institute of management review 2026"
-  - "xavier chennai global institute of management pgdm placements"
-  - "xavier chennai global institute of management admission cutoff"
-  - "xavier chennai global institute of management fees"
+  - xavier chennai global institute of management review 2026
+  - xavier chennai global institute of management pgdm placements
+  - xavier chennai global institute of management admission cutoff
+  - xavier chennai global institute of management fees
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "Is Xavier Chennai Global Institute of Management a good option for PGDM/MBA?"
+  - question: >-
+      Is Xavier Chennai Global Institute of Management a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Xavier Chennai Global Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Chennai Global Institute of Management?"
+      Yes, Xavier Chennai Global Institute of Management is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Xavier Chennai Global Institute of
+      Management?
     answer: >-
-      The average placement package at Xavier Chennai Global Institute of Management is approximately ₹8.5 LPA, with the highest package reaching up to ₹12.5 LPA.
-  - question: "What entrance exams are accepted by Xavier Chennai Global Institute of Management?"
+      The average placement package at Xavier Chennai Global Institute of
+      Management is approximately ₹8.5 LPA, with the highest package reaching up
+      to ₹12.5 LPA.
+  - question: >-
+      What entrance exams are accepted by Xavier Chennai Global Institute of
+      Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### **College Review: [Xavier Chennai Global Institute of Management](/colleges/xavier-chennai-global-institute-of-management)**

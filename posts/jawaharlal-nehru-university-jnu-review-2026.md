@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Jawaharlal Nehru University (JNU) stands as a beacon of research, liberal arts, and social sciences in India. Located in New Delhi, it is renowned for its intellectual environment, highly subsidized education, and vibrant student politics. If you're aiming for JNU in 2026, here is a detailed overview of what to expect.
 

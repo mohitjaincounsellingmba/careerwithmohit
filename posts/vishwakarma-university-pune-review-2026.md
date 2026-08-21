@@ -14,6 +14,11 @@ keywords:
   - Best Colleges in Pune
   - Top Universities in Pune
   - Direct Admission in Pune
+  - Pune Colleges
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 category: Colleges
 location: Pune
 faqs:
@@ -34,6 +39,7 @@ faqs:
       Admissions for 2026 at Vishwakarma University are conducted based on
       entrance exams such as VUNET, MH CET, JEE Main, CAT, MAT, CUET, followed
       by counseling, personal interviews, or merit-based shortlisting.
+state: Maharashtra
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Vishwakarma University**, situated in **Pune**, stands out as one of the premier destinations for undergraduate and postgraduate education in Pune.

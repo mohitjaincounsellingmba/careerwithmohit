@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is CLAT 2026 online or offline?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       Absolutely. In fact, many CLAT toppers are from Commerce and Humanities
       backgrounds as they are comfortable with general studies and business
       logic.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Common Law Admission Test (CLAT) is the gateway to 24 National Law Universities (NLUs) and over 60 premier private Law schools in India. In 2026, the competition is expected to be more intense than ever, with over 1 lakh students fighting for just 3,000+ NLU seats.

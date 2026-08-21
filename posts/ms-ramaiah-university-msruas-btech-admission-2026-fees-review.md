@@ -14,6 +14,12 @@ keywords:
   - MSRUAS placement average
   - RUASAT 2026 entrance
   - MS Ramaiah University of Applied Sciences review
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -29,6 +35,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Bangalore
+state: Karnataka
 ---
 **MS [Ramaiah University of Applied Sciences](/colleges/ramaiah-university-of-applied-sciences) (MSRUAS)** is a leading private university in Bangalore that offers a wide range of specialized B.Tech programs through its Faculty of Engineering and Technology (FET). While its sister institution, **MSRIT**, remains a traditional powerhouse, MSRUAS is known for its application-oriented curriculum and a more modern campus in Peenya.
 

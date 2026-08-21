@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which MBA college has the best placement for Digital Marketing?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
     answer: >-
       In a Tier-2 college, expect ₹6L to ₹9L. In Tier-1 (IIM/MDI/XLRI), freshers
       start at ₹15L to ₹25L.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Marketing is the "Heartbeat" of the business world. From the iPhone you use to the soap you buy, everything is a result of strategic marketing. If you have a creative mind, love consumer psychology, and want a high-paced growth career, choosing a **Marketing-focused B-school** is essential.

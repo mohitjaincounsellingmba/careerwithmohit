@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is there a management quota in Masters Union?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       Masters Union is not a traditional university; it offers a Post Graduate
       Program (PGP) which is valued by global industry leaders and top startups.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Masters Union, located in the Cyber Park hub of Gurgaon, is disrupting management education with its "un-business school" model. Led by CXOs and industry veterans rather than traditional professors, it has become a top choice for students eyeing a career in startups and tech. For the 2026-28 batch, **Direct Admission in Masters Union** is centered around profile quality and entrepreneurship potential.

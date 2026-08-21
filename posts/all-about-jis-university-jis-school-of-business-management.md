@@ -1,23 +1,47 @@
 ---
-title: "JIS University, JIS School of Business Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to JIS University, JIS School of Business Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  JIS University, JIS School of Business Management PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to JIS University, JIS School of Business Management?
+  Read our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "jis university, jis school of business management review 2026"
-  - "jis university, jis school of business management pgdm placements"
-  - "jis university, jis school of business management admission cutoff"
-  - "jis university, jis school of business management fees"
+  - 'jis university, jis school of business management review 2026'
+  - 'jis university, jis school of business management pgdm placements'
+  - 'jis university, jis school of business management admission cutoff'
+  - 'jis university, jis school of business management fees'
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is JIS University, JIS School of Business Management a good option for PGDM/MBA?"
+  - question: >-
+      Is JIS University, JIS School of Business Management a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, JIS University, JIS School of Business Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at JIS University, JIS School of Business Management?"
+      Yes, JIS University, JIS School of Business Management is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at JIS University, JIS School of
+      Business Management?
     answer: >-
-      The average placement package at JIS University, JIS School of Business Management is approximately ₹5.1 LPA, with the highest package reaching up to ₹9.0 LPA.
-  - question: "What entrance exams are accepted by JIS University, JIS School of Business Management?"
+      The average placement package at JIS University, JIS School of Business
+      Management is approximately ₹5.1 LPA, with the highest package reaching up
+      to ₹9.0 LPA.
+  - question: >-
+      What entrance exams are accepted by JIS University, JIS School of Business
+      Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [JIS University, JIS School of Business Management](/colleges/jis-university-jis-school-of-business-management)**

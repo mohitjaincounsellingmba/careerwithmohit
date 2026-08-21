@@ -1,23 +1,38 @@
 ---
-title: "Adamas University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Adamas University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Adamas University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Adamas University? Read our comprehensive PGDM review
+  for 2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "adamas university review 2026"
-  - "adamas university pgdm placements"
-  - "adamas university admission cutoff"
-  - "adamas university fees"
+  - adamas university review 2026
+  - adamas university pgdm placements
+  - adamas university admission cutoff
+  - adamas university fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is Adamas University a good option for PGDM/MBA?"
+  - question: Is Adamas University a good option for PGDM/MBA?
     answer: >-
-      Yes, Adamas University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Adamas University?"
+      Yes, Adamas University is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at Adamas University?
     answer: >-
-      The average placement package at Adamas University is approximately ₹8.48 LPA, with the highest package reaching up to ₹6 LPA.
-  - question: "What entrance exams are accepted by Adamas University?"
+      The average placement package at Adamas University is approximately ₹8.48
+      LPA, with the highest package reaching up to ₹6 LPA.
+  - question: What entrance exams are accepted by Adamas University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [Adamas University](/colleges/adamas-university)**

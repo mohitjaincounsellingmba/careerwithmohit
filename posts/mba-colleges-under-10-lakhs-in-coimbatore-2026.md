@@ -11,6 +11,12 @@ keywords:
   - affordable MBA in Coimbatore
   - low fees MBA colleges in Coimbatore
   - best MBA in Coimbatore under 10 Lakhs
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Which is the best MBA college under 10 Lakhs in Coimbatore?
     answer: >-
@@ -31,6 +37,8 @@ faqs:
       total fee of under 10 Lakhs and average placement packages ranging from 5
       LPA to 12 LPA, graduates can recover their educational expenses in a very
       short duration.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Pursuing a Master of Business Administration (MBA) does not always have to result in massive student loans. While top private business schools in India charge tuition fees ranging from ₹15 Lakhs to ₹28 Lakhs, several high-quality government institutions, state university departments, and local private colleges in **Coimbatore** offer quality management education under a budget of ₹10 Lakhs.

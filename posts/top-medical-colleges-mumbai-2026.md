@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are government medical seats in Mumbai very competitive?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       Usually starts late **July**, following the national MCC counselling
       cycles.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Mumbai, the city that never sleeps, is home to some of India's busiest and most prestigious government hospitals. The clinical training in Mumbai—at hospitals like KEM, JJ, and Sion—is widely regarded as the most rigorous in the country due to the massive patient inflow from the MMR (Mumbai Metropolitan Region).

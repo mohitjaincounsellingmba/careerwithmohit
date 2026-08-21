@@ -1,23 +1,47 @@
 ---
-title: "National Coimbatore Institute of Business Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to National Coimbatore Institute of Business Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  National Coimbatore Institute of Business Studies PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to National Coimbatore Institute of Business Studies?
+  Read our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "national coimbatore institute of business studies review 2026"
-  - "national coimbatore institute of business studies pgdm placements"
-  - "national coimbatore institute of business studies admission cutoff"
-  - "national coimbatore institute of business studies fees"
+  - national coimbatore institute of business studies review 2026
+  - national coimbatore institute of business studies pgdm placements
+  - national coimbatore institute of business studies admission cutoff
+  - national coimbatore institute of business studies fees
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "Is National Coimbatore Institute of Business Studies a good option for PGDM/MBA?"
+  - question: >-
+      Is National Coimbatore Institute of Business Studies a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, National Coimbatore Institute of Business Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at National Coimbatore Institute of Business Studies?"
+      Yes, National Coimbatore Institute of Business Studies is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at National Coimbatore Institute of
+      Business Studies?
     answer: >-
-      The average placement package at National Coimbatore Institute of Business Studies is approximately ₹6.4 LPA, with the highest package reaching up to ₹11.0 LPA.
-  - question: "What entrance exams are accepted by National Coimbatore Institute of Business Studies?"
+      The average placement package at National Coimbatore Institute of Business
+      Studies is approximately ₹6.4 LPA, with the highest package reaching up to
+      ₹11.0 LPA.
+  - question: >-
+      What entrance exams are accepted by National Coimbatore Institute of
+      Business Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### **College Review: [National Coimbatore Institute of Business Studies](/colleges/national-coimbatore-institute-of-business-studies)**

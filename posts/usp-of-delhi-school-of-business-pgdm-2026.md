@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is DSB's PGDM equivalent to an MBA?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
     answer: >-
       Yes — DSB offers a dedicated full-time **PGDM (FinTech)** program, one of
       the very few in Delhi.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **Delhi School of Business (DSB)**, operating under the aegis of **VIPS-TC (Vivekananda Institute of Professional Studies - Technical Campus)**, is one of North Delhi's best-kept secrets in the PGDM space.

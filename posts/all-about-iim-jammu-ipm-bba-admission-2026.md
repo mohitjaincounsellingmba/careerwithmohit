@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does IIM Jammu accept SAT scores for IPM?
     answer: >-
@@ -29,7 +33,8 @@ faqs:
       criteria involving SAT.
   - question: What is the intake capacity for IPM 2026?
     answer: The intake is approximately 120 seats for the 2026 batch.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 IIM Jammu, located in the scenic city of temples, is a prominent member of the third-generation IIMs offering the 5-Year Integrated Programme in Management (IPM). In 2026, it offers a blend of top-tier academic rigor and unique cultural exposure.

@@ -1,7 +1,7 @@
 ---
 name: Jain University - Faculty of Engineering and Technology
 logo: ''
-location: 'Jakkasandra, Bangalore'
+location: Bangalore
 category: Engineering
 type: University
 courses:
@@ -51,6 +51,13 @@ keywords:
     Jain University - Faculty of Engineering and Technology B.Tech admission
     2027
   - 'engineering colleges Jakkasandra, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

@@ -20,6 +20,12 @@ keywords:
   - free mock test 2026
   - online exam preparation
   - practice paper online
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -34,7 +40,8 @@ faqs:
     answer: >-
       No, to simulate real exam conditions, the timer runs continuously. We
       recommend attempting the test in a single sitting without interruptions.
-location: India
+location: Mumbai
+state: Maharashtra
 ---
 # Free ATMA Mock Test 2026: Official 180-Question CBT with JBIMS & PUMBA Cutoff Predictor
 

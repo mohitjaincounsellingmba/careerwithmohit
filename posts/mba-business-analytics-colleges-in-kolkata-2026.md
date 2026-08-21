@@ -1,24 +1,40 @@
 ---
-title: 'Top MBA Business Analytics Colleges in Kolkata 2026 — Placements & Fees'
+title: Top MBA Business Analytics Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Looking for top MBA Business Analytics colleges in Kolkata? Review our 2026 guide comparing IIM Calcutta PGDBA, Praxis, and IMI Kolkata placements and fees.'
+description: >-
+  Looking for top MBA Business Analytics colleges in Kolkata? Review our 2026
+  guide comparing IIM Calcutta PGDBA, Praxis, and IMI Kolkata placements and
+  fees.
 keywords:
   - top mba business analytics colleges in kolkata 2026
   - best business analytics mba in kolkata
   - iim calcutta pgdba average package
   - praxis business school data science placement
   - imi kolkata analytics fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
   - question: What is the PGDBA program at IIM Calcutta?
     answer: >-
-      The Post Graduate Diploma in Business Analytics (PGDBA) is a unique, highly prestigious joint program offered by IIM Calcutta, IIT Kharagpur, and ISI Kolkata, providing unmatched placements in core data science.
+      The Post Graduate Diploma in Business Analytics (PGDBA) is a unique,
+      highly prestigious joint program offered by IIM Calcutta, IIT Kharagpur,
+      and ISI Kolkata, providing unmatched placements in core data science.
   - question: Why is Praxis Business School highly recommended for Analytics?
     answer: >-
-      Praxis Business School is a pioneer in analytics education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
+      Praxis Business School is a pioneer in analytics education, offering
+      highly practical training and industry connections that yield an average
+      placement of around INR 13.50 LPA.
   - question: What is the fee at IISWBM Kolkata?
     answer: >-
-      IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs and historical brand recognition.
+      IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs
+      and historical brand recognition.
+location: Kolkata
+state: West Bengal
 ---
 
 Selecting the right B-school is critical if you are targeting a career in data science, quantitative decision-making, predictive modeling, or strategic business analytics. While general MBA rankings give a broad overview, analytics recruiters tend to visit campuses that have a strong tradition of quantitative studies, dedicated analytics specializations, and proximity to major corporate headquarters.

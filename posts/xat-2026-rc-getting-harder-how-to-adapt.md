@@ -18,6 +18,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Ask any veteran MBA aspirant, and they will tell you that the Verbal and Logical Ability (VALR) section of the Xavier Aptitude Test (XAT) is a different beast compared to CAT. In particular, **Reading Comprehension (RC) in XAT** has earned a reputation for being abstract, philosophical, and intensely challenging.
 

@@ -1,7 +1,7 @@
 ---
 name: M.S. Ramaiah Institute of Technology (MSRIT)
 logo: ''
-location: 'MSR Nagar, Bangalore'
+location: Bangalore
 category: Engineering
 type: Institute
 courses:
@@ -45,6 +45,13 @@ keywords:
   - M.S. Ramaiah Institute of Technology (MSRIT) CSE placement
   - M.S. Ramaiah Institute of Technology (MSRIT) B.Tech admission 2027
   - 'engineering colleges MSR Nagar, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

@@ -1,7 +1,7 @@
 ---
 name: AKEMI Business School
 logo: ''
-location: 'Chakan/Tathawade, Pune'
+location: Pune
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - AKEMI Business School PGDM placement
   - AKEMI Business School MBA admission 2027
   - 'MBA colleges Chakan/Tathawade, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

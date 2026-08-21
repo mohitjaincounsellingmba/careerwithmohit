@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 The **JEE Main 2026 (Session 2)** examinations for April 4, 2026, have been successfully conducted by the National Testing Agency (NTA). As thousands of aspirants appeared for the exam across India, early reports from students and experts suggest a **moderate overall difficulty level** for both Shift 1 and Shift 2.
 

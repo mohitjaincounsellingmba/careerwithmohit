@@ -1,7 +1,7 @@
 ---
 name: JAGSoM (IFIM) Bangalore
 logo: /colleges/jagsom-logo.webp
-location: 'Electronic City, Bangalore'
+location: Bangalore
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - JAGSoM (IFIM) Bangalore PGDM placement
   - JAGSoM (IFIM) Bangalore MBA admission 2027
   - 'MBA colleges Electronic City, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which Jaipuria campus is best?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
     answer: >-
       The average package for the 2025 batch stood at **₹8.95 LPA**, with the
       top 10% of the batch securing packages above **₹15 LPA**.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida**

@@ -1,7 +1,7 @@
 ---
 name: ITM Mumbai
 logo: /colleges/itm-logo.webp
-location: 'Navi Mumbai, Maharashtra'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - ITM Mumbai PGDM placement
   - ITM Mumbai MBA admission 2027
   - 'MBA colleges Navi Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

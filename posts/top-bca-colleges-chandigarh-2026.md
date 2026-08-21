@@ -15,6 +15,12 @@ keywords:
   - bca admission chandigarh 2026
   - sd college chandigarh bca cutoff
   - direct bca admission mohali
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
   - question: Does PANJAB UNIVERSITY require Maths for BCA?
     answer: >-
@@ -32,6 +38,8 @@ faqs:
     answer: >-
       Usually in **May**, immediately after the CBSE and local board results are
       declared.
+location: Chandigarh
+state: Punjab
 ---
 
 Chandigarh, the "City Beautiful" and the central hub for North India (Punjab, Haryana, Himachal), is a premium destination for BCA (Bachelor of Computer Applications) aspirants. With the IT Park in Chandigarh and the tech-hubs in Mohali, the Tricity area offers a perfectly balanced environment for technical studies and job opportunities.

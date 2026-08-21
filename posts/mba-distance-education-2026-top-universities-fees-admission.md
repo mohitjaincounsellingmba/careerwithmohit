@@ -26,6 +26,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       Yes, universities typically conduct online semester exams using AI-enabled
       or human-proctored systems to maintain academic integrity.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 For millions of working professionals, fresh graduates, and career changers across India, a **Distance MBA** remains the most practical and affordable route to a master's degree in management. You don't need to attend campus, relocate, or quit your job — the degree comes to you.
 

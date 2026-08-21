@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 With India aggressively pushing semiconductor manufacturing and 5G/6G infrastructure, **Electronics and Communication Engineering (ECE)** is witnessing a massive resurgence. An ECE degree bridges the gap between hardware (embedded systems, VLSI) and software (IoT, networking), making graduating engineers highly versatile.
 

@@ -1,7 +1,7 @@
 ---
 name: Bharati Vidyapeeth Deemed University College of Engineering (BVUCOE)
 logo: ''
-location: 'Dhankawadi, Pune'
+location: Pune
 category: Engineering
 type: University
 courses:
@@ -69,6 +69,13 @@ keywords:
     Bharati Vidyapeeth Deemed University College of Engineering (BVUCOE) B.Tech
     admission 2027
   - 'engineering colleges Dhankawadi, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

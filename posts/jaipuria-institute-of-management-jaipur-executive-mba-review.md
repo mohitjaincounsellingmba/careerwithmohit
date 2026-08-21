@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Is the Jaipuria Jaipur Executive PGDM approved by AICTE?
@@ -32,7 +36,8 @@ faqs:
     answer: >-
       Specializations include Finance, Marketing, HR, Information Technology,
       and Operations.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Jaipur, the Executive MBA / Executive PGDM offered by [Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur) represents a powerful gateway to higher senior leadership positions.

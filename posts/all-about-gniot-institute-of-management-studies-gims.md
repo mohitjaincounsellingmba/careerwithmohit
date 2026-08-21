@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       Is GNIOT Institute of Management Studies (GIMS) a good option for
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)**

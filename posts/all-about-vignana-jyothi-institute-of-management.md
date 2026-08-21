@@ -1,23 +1,44 @@
 ---
-title: "Vignana Jyothi Institute of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Vignana Jyothi Institute of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Vignana Jyothi Institute of Management PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Vignana Jyothi Institute of Management? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "vignana jyothi institute of management review 2026"
-  - "vignana jyothi institute of management pgdm placements"
-  - "vignana jyothi institute of management admission cutoff"
-  - "vignana jyothi institute of management fees"
+  - vignana jyothi institute of management review 2026
+  - vignana jyothi institute of management pgdm placements
+  - vignana jyothi institute of management admission cutoff
+  - vignana jyothi institute of management fees
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
-  - question: "Is Vignana Jyothi Institute of Management a good option for PGDM/MBA?"
+  - question: Is Vignana Jyothi Institute of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, Vignana Jyothi Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Vignana Jyothi Institute of Management?"
+      Yes, Vignana Jyothi Institute of Management is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Vignana Jyothi Institute of
+      Management?
     answer: >-
-      The average placement package at Vignana Jyothi Institute of Management is approximately ₹6.0 LPA, with the highest package reaching up to ₹12.3 LPA.
-  - question: "What entrance exams are accepted by Vignana Jyothi Institute of Management?"
+      The average placement package at Vignana Jyothi Institute of Management is
+      approximately ₹6.0 LPA, with the highest package reaching up to ₹12.3 LPA.
+  - question: >-
+      What entrance exams are accepted by Vignana Jyothi Institute of
+      Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Hyderabad
+state: Telangana
 ---
 
 ### **College Review: [Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management)**

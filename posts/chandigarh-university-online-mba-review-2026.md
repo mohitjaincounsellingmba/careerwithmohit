@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does CU Online MBA need CAT score?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       CU holds **NAAC A+** (not A++). Do not confuse it with other universities
       — always verify accreditation at [naac.gov.in](https://naac.gov.in).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **Chandigarh University (CU) Online MBA** is one of India's most affordable and prestigious online management programs in 2026. Backed by **NAAC A+ accreditation**, a QS World University Ranking, and a network of 300+ placement partners, CU Online is a top contender for working professionals and fresh graduates alike.

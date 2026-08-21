@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is an online MBA degree valid for jobs in Itarsi?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       among the most budget-friendly options on the list, offering a total
       two-year course fee starting around ₹1,60,000, along with easy zero-cost
       monthly EMI options.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Pursuing a Master of Business Administration (MBA) is one of the most effective ways for working professionals in **Itarsi** to accelerate their career growth, switch domains, or secure senior leadership roles. However, leaving a full-time job to enroll in a regular classroom MBA is often not feasible. 

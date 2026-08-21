@@ -1,7 +1,7 @@
 ---
 name: Jaypee Business School
 logo: ''
-location: 'Noida, Uttar Pradesh (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Jaypee Business School mohit jain review
   - Jaypee Business School hostel fees
   - Jaypee Business School contact number
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 Jaypee Business School, Noida is part of the JP Institute of Information Technology. It offers a well-rounded BBA program with a focus on holistic development and professional management.

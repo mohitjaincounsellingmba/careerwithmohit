@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Pune
   - Top Universities in Pune
   - Direct Admission in Pune
+  - Pune Colleges
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 category: Colleges
 location: Pune
 faqs:
@@ -44,6 +49,7 @@ faqs:
       are conducted based on entrance exams such as CAT, XAT, MAT, CMAT, MHT
       CET, JEE Main, followed by counseling, personal interviews, or merit-based
       shortlisting.
+state: Maharashtra
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **AISSMS University / Lexicon Management Institute**, situated in **Pune**, stands out as one of the premier destinations for undergraduate and postgraduate education in Pune.

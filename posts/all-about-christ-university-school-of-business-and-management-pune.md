@@ -1,23 +1,47 @@
 ---
-title: "Christ University - School of Business and Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Christ University - School of Business and Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Christ University - School of Business and Management PGDM Admission Review
+  2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Christ University - School of Business and
+  Management? Read our comprehensive PGDM review for 2026 covering total fees,
+  average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "christ university - school of business and management review 2026"
-  - "christ university - school of business and management pgdm placements"
-  - "christ university - school of business and management admission cutoff"
-  - "christ university - school of business and management fees"
+  - christ university - school of business and management review 2026
+  - christ university - school of business and management pgdm placements
+  - christ university - school of business and management admission cutoff
+  - christ university - school of business and management fees
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is Christ University - School of Business and Management a good option for PGDM/MBA?"
+  - question: >-
+      Is Christ University - School of Business and Management a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Christ University - School of Business and Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Christ University - School of Business and Management?"
+      Yes, Christ University - School of Business and Management is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Christ University - School of
+      Business and Management?
     answer: >-
-      The average placement package at Christ University - School of Business and Management is approximately ₹6.8 LPA, with the highest package reaching up to ₹17.2 LPA.
-  - question: "What entrance exams are accepted by Christ University - School of Business and Management?"
+      The average placement package at Christ University - School of Business
+      and Management is approximately ₹6.8 LPA, with the highest package
+      reaching up to ₹17.2 LPA.
+  - question: >-
+      What entrance exams are accepted by Christ University - School of Business
+      and Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-bengaluru)**

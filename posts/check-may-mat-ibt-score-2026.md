@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Where do I check my MAT IBT scorecard?
     answer: >-
@@ -48,7 +52,8 @@ faqs:
       Immediately on the day of result declaration. Download the scorecard and
       start applying the same day — IBT candidates have a strategic window
       before PBT/CBT results come out.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **MAT May 2026 Internet-Based Test (IBT)** was conducted across **multiple slots throughout May 2026**, allowing candidates to appear right from the comfort of their homes. If you appeared for the IBT mode, your scorecard is likely to be one of the **first to be released** in this session — often before PBT and CBT results. Here's your complete guide on result dates, scorecard download, and how to use your IBT score for MBA admissions.

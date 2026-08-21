@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is JIMS Rohini better than JIMS Kalkaji?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
       an MBA degree for government jobs and higher studies.
   - question: Does JIMS Rohini have a playground?
     answer: "No, JIMS Rohini is a standalone building with no playground or open sports facility on its specific PGDM campus.\n\n[\U0001F449 Compare More Delhi B-Schools Here!](/tools/college-comparison)\n\n**Still Confused?**\nDon't let marketing brochures decide your future. At **CareerWithMohit**, we provide an honest 1-on-1 comparison of the internal culture and placement truth of all JIMS campuses.\n\n[\U0001F449 Get Expert MBA Admission Guidance!](/inquiry)"
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 When it comes to PGDM in Delhi, the "JIMS" brand is a staple. However, with multiple campuses, students often find themselves torn between **JIMS Rohini (Sector 5)** and **JIMS Kalkaji**. While JIMS Rohini is often marketed as the "flagship," a closer look at 2026 trends reveals significant reasons why many toppers are now shifting their preference towards the Kalkaji campus.

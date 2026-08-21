@@ -26,6 +26,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is BMU's NIRF ranking?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
     answer: >-
       **Imperial College Business School, London** — ranked among the world's
       top 20 business schools.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU)** is one of the few private universities in India where an MBA program comes with a genuine corporate pedigree — backed by the **Hero Group**, one of India's most respected industrial conglomerates.

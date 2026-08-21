@@ -1,23 +1,38 @@
 ---
-title: "Quantum University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Quantum University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Quantum University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Quantum University? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "quantum university review 2026"
-  - "quantum university pgdm placements"
-  - "quantum university admission cutoff"
-  - "quantum university fees"
+  - quantum university review 2026
+  - quantum university pgdm placements
+  - quantum university admission cutoff
+  - quantum university fees
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
-  - question: "Is Quantum University a good option for PGDM/MBA?"
+  - question: Is Quantum University a good option for PGDM/MBA?
     answer: >-
-      Yes, Quantum University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Quantum University?"
+      Yes, Quantum University is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at Quantum University?
     answer: >-
-      The average placement package at Quantum University is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.0 LPA.
-  - question: "What entrance exams are accepted by Quantum University?"
+      The average placement package at Quantum University is approximately ₹5.5
+      LPA, with the highest package reaching up to ₹12.0 LPA.
+  - question: What entrance exams are accepted by Quantum University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Dehradun
+state: Uttarakhand
 ---
 
 ### **College Review: [Quantum University](/colleges/quantum-university-roorkee)**

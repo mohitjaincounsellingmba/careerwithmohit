@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: is IPMAT tougher than JEE?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       Typically held in **May 2026**, soon after the 12th standard board exams
       are over.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **IPMAT (Integrated Programme in Management Aptitude Test)** is perhaps the most prestigious entrance exam for 12th-grade students in India. It is your direct ticket into the "IIM League" without waiting for CAT after graduation. In 2026, over 40,000 students will compete for a handful of seats at IIM Indore, IIM Rohtak, and other premier institutes.

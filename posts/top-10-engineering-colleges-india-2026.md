@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'Which is the #1 engineering college in India in 2026?'
     answer: >-
@@ -51,7 +55,8 @@ faqs:
       With a JEE Advanced rank of ~1,000, you can target IIT Kharagpur CSE, IIT
       Roorkee CSE, or IIT Guwahati CSE. Check the latest JoSAA opening/closing
       ranks for the most accurate guidance.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Every year after NIRF rankings are announced, students and parents across India search for one thing: **India's definitive Top 10 Engineering Colleges.** This guide compiles that list for 2026 — with NIRF data, placement packages, JEE cutoffs, notable alumni, and an honest assessment of what each institution truly offers.

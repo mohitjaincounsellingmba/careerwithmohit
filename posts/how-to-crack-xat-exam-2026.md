@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is XAT tougher than CAT?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       The essay is evaluated during the second stage of selection. Spend 15
       minutes drafting a balanced, logical, and structured argument. Use
       real-life examples and avoid using overly complicated language.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Xavier Aptitude Test (XAT) is widely considered one of the most intellectually demanding management exams in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XAT is the sole gateway to the prestigious XLRI campuses and over 150+ other premium business schools like XIMB, IMT Ghaziabad, and GIM Goa. 

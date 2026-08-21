@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is I.T.S - School of Management a good option for PGDM/MBA?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: [I.T.S - School of Management](/colleges/i-t-s-school-of-management)**

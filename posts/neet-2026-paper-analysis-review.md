@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 The National Eligibility cum Entrance Test (NEET-UG) 2026 was conducted today, May 3, 2026, across thousands of centers in India and abroad. With over **25 lakh aspirants** appearing for the exam, the competition for the approximately 1.1 lakh MBBS seats remains at an all-time high.
 

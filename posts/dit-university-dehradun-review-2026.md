@@ -14,6 +14,11 @@ keywords:
   - Best Colleges in Dehradun
   - Top Universities in Uttarakhand
   - Direct Admission in Dehradun
+  - Dehradun Colleges
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 category: Colleges
 location: Dehradun
 faqs:
@@ -34,6 +39,7 @@ faqs:
       Admissions for 2026 at DIT University, Dehradun are conducted based on
       entrance exams such as JEE Main, CAT, MAT, XAT, CUET, Merit-based,
       followed by counseling, personal interviews, or merit-based shortlisting.
+state: Uttarakhand
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **DIT University, Dehradun**, situated in **Dehradun**, stands out as one of the premier destinations for undergraduate and postgraduate education in Uttarakhand.

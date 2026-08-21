@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 For decades, the **Mumbai Dabbawalas** (lunchbox delivery men) have been a subject of fascination for operations managers, business schools, and tech giants globally. Reaching a near-flawless **Six Sigma** efficiency level without using computers, smartphones, paper, or electricity, this 130-year-old network is a masterclass in logistics, supply chain resilience, and human-centric design.
 

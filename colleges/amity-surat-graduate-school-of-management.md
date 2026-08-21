@@ -1,7 +1,7 @@
 ---
 name: Amity Surat Graduate School of Management
 logo: /colleges/default-management-logo.webp
-location: 'Surat, India'
+location: Ahmedabad
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Amity Surat Graduate School of Management PGDM placement
   - Amity Surat Graduate School of Management MBA admission 2027
   - 'MBA colleges Surat, India'
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### About Amity Surat Graduate School of Management

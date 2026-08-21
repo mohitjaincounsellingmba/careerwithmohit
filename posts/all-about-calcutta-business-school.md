@@ -1,23 +1,38 @@
 ---
-title: "Calcutta Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Calcutta Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Calcutta Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Calcutta Business School? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "calcutta business school review 2026"
-  - "calcutta business school pgdm placements"
-  - "calcutta business school admission cutoff"
-  - "calcutta business school fees"
+  - calcutta business school review 2026
+  - calcutta business school pgdm placements
+  - calcutta business school admission cutoff
+  - calcutta business school fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is Calcutta Business School a good option for PGDM/MBA?"
+  - question: Is Calcutta Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Calcutta Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Calcutta Business School?"
+      Yes, Calcutta Business School is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Calcutta Business School?
     answer: >-
-      The average placement package at Calcutta Business School is approximately ₹6.5 LPA, with the highest package reaching up to ₹14.0 LPA.
-  - question: "What entrance exams are accepted by Calcutta Business School?"
+      The average placement package at Calcutta Business School is approximately
+      ₹6.5 LPA, with the highest package reaching up to ₹14.0 LPA.
+  - question: What entrance exams are accepted by Calcutta Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT, JEMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT, JEMAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [Calcutta Business School](/colleges/calcutta-business-school)**

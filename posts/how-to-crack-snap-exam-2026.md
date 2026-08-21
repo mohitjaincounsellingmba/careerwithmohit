@@ -13,6 +13,12 @@ keywords:
   - symbiosis cutoff snap
   - sibm pune cutoff
   - score 98 percentile in snap
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: How many times can I attempt SNAP 2026?
     answer: >-
@@ -28,6 +34,8 @@ faqs:
       Yes, especially if you have already prepared for CAT. The core concepts
       are the same. Your primary focus during those 2 months should be
       practicing speed drills and taking SNAP-specific mock tests.
+location: Pune
+state: Maharashtra
 ---
 
 The Symbiosis National Aptitude Test (SNAP) is the absolute fastest management entrance exam in India. While exams like CAT and XAT give you 2 to 3 minutes per question, SNAP challenges you to solve **60 questions in just 60 minutes**. 

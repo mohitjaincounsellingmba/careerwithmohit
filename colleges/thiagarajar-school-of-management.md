@@ -1,7 +1,7 @@
 ---
 name: Thiagarajar School of Management
 logo: ''
-location: Madurai
+location: Chennai
 category: Management
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Thiagarajar School of Management PGDM placement
   - Thiagarajar School of Management MBA admission 2027
   - MBA colleges Madurai
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### Courses & Fees

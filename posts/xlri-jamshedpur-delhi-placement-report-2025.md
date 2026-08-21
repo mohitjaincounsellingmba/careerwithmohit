@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What was the combined average and highest CTC at XLRI in 2025?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
     answer: >-
       XLRI accepts only Xavier Aptitude Test (XAT) scores and GMAT (for
       NRI/Foreign/Executive candidates).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Xavier School of Management (XLRI)**, with campuses in **Jamshedpur** and **Delhi-NCR**, is India's oldest management institute and the undisputed #1 destination in Asia for Human Resource Management (HRM) and Business Management (BM).

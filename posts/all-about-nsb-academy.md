@@ -1,23 +1,38 @@
 ---
-title: "NSB Academy PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to NSB Academy? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'NSB Academy PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to NSB Academy? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "nsb academy review 2026"
-  - "nsb academy pgdm placements"
-  - "nsb academy admission cutoff"
-  - "nsb academy fees"
+  - nsb academy review 2026
+  - nsb academy pgdm placements
+  - nsb academy admission cutoff
+  - nsb academy fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is NSB Academy a good option for PGDM/MBA?"
+  - question: Is NSB Academy a good option for PGDM/MBA?
     answer: >-
-      Yes, NSB Academy is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at NSB Academy?"
+      Yes, NSB Academy is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at NSB Academy?
     answer: >-
-      The average placement package at NSB Academy is approximately ₹6.6 LPA, with the highest package reaching up to ₹17.1 LPA.
-  - question: "What entrance exams are accepted by NSB Academy?"
+      The average placement package at NSB Academy is approximately ₹6.6 LPA,
+      with the highest package reaching up to ₹17.1 LPA.
+  - question: What entrance exams are accepted by NSB Academy?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [NSB Academy](/colleges/nsb-academy)**

@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'Is Pearl Academy, Delhi a good option for PGDM/MBA?'
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       The college accepts scores from national level entrance examinations
       including Entrance Exam, Portfolio, Interview for the PGDM and MBA
       admissions.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: [Pearl Academy, Delhi](/colleges/pearl-academy-delhi)**

@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which topics carry the highest weightage in CAT Quant?
     answer: >-
@@ -46,7 +50,8 @@ faqs:
       circumradius $R = \frac{abc}{4\Delta}$, and similarity ratios) are
       essential, CAT emphasizes **geometric visualization, angle-chasing, and
       auxiliary line constructions** over pure formula substitution.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Quantitative Aptitude (QA)** section of the Common Admission Test ([CAT Exam 2026](/posts/all-about-cat-exam)) is the final test of endurance. After 80 minutes of intense verbal reasoning and DILR case-solving, your brain is fatigued—yet you must execute crisp mathematical calculations in 40 minutes.

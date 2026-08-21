@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does IIM accept MAT score?
     answer: NO. IIMs and FMS only accept CAT scores.
@@ -37,7 +41,8 @@ faqs:
       percentile. If you skip GK, you cannot reach the 99+ bracket.
   - question: When is the MAT 2026 February registration?
     answer: Registration usually starts in **late December or early January**.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 While CAT gets all the spotlight, **MAT (Management Aptitude Test)** and **CMAT (Common Management Admission Test)** are the silent career-makers for over 1 Lakh MBA aspirants every year. These exams are generally easier than CAT and are the gateway to some of India's best high-ROI and private B-schools.

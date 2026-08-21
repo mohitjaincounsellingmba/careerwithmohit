@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are placements in BCA good?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
       In about 70-80% of top-tier colleges, Mathematics at 10+2 is a mandatory
       requirement. However, some private universities offer bridge courses for
       non-maths students.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Bachelor of Computer Applications (BCA) has emerged as one of the most popular professional degrees in India, rivaling B.Tech CSE in the job market. With the rapid growth of the Indian IT sector, companies are increasingly hiring BCA graduates for software development, data analytics, and cloud management roles.

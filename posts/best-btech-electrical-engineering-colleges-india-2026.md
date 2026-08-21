@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Electrical Engineering a good stream in 2026?
     answer: >-
@@ -49,7 +53,8 @@ faqs:
       Private sector (core EE roles): ₹5–10 LPA for freshers. PSU via GATE:
       ₹9–14 LPA. IIT EE graduates at semiconductor/product companies: ₹16–24
       LPA.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Electrical Engineering (EE/EEE) is the silent powerhouse of India's economy — controlling power grids, electric vehicles, semiconductor chips, renewable energy systems, robotics, and telecommunications infrastructure. With India's push towards renewable energy (500 GW target by 2030) and the EV revolution, Electrical Engineering graduates are seeing a career renaissance.

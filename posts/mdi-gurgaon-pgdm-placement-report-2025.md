@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What was the average and highest CTC at MDI Gurgaon in 2025?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       MDI Gurgaon accepts CAT scores, with the shortlist cutoff generally
       hovering between 94.5+ and 96.5+ percentile for General category
       candidates.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Management Development Institute (MDI), Gurgaon** is recognized as one of India's premier B-schools, benefiting immensely from its prime location at the epicenter of Delhi-NCR's corporate hub.

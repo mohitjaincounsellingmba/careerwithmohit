@@ -1,23 +1,47 @@
 ---
-title: "Xavier Hyderabad Institute of Business Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Hyderabad Institute of Business Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Hyderabad Institute of Business Studies PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Xavier Hyderabad Institute of Business Studies? Read
+  our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "xavier hyderabad institute of business studies review 2026"
-  - "xavier hyderabad institute of business studies pgdm placements"
-  - "xavier hyderabad institute of business studies admission cutoff"
-  - "xavier hyderabad institute of business studies fees"
+  - xavier hyderabad institute of business studies review 2026
+  - xavier hyderabad institute of business studies pgdm placements
+  - xavier hyderabad institute of business studies admission cutoff
+  - xavier hyderabad institute of business studies fees
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
-  - question: "Is Xavier Hyderabad Institute of Business Studies a good option for PGDM/MBA?"
+  - question: >-
+      Is Xavier Hyderabad Institute of Business Studies a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Xavier Hyderabad Institute of Business Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Hyderabad Institute of Business Studies?"
+      Yes, Xavier Hyderabad Institute of Business Studies is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Xavier Hyderabad Institute of
+      Business Studies?
     answer: >-
-      The average placement package at Xavier Hyderabad Institute of Business Studies is approximately ₹7.8 LPA, with the highest package reaching up to ₹11.0 LPA.
-  - question: "What entrance exams are accepted by Xavier Hyderabad Institute of Business Studies?"
+      The average placement package at Xavier Hyderabad Institute of Business
+      Studies is approximately ₹7.8 LPA, with the highest package reaching up to
+      ₹11.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Xavier Hyderabad Institute of Business
+      Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Hyderabad
+state: Telangana
 ---
 
 ### **College Review: [Xavier Hyderabad Institute of Business Studies](/colleges/xavier-hyderabad-institute-of-business-studies)**

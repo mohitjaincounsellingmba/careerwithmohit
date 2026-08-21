@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: What is the focus of the EPGDIB at IIFT Delhi?
@@ -34,7 +38,8 @@ faqs:
     answer: >-
       IIFT offers the program in weekend format (Saturdays and Sundays) as well
       as modular format (on-campus blocks every few months).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Indian Institute of Foreign Trade (IIFT), Delhi](/colleges/iift-delhi) represents a powerful gateway to higher senior leadership positions.

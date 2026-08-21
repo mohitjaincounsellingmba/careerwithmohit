@@ -1,24 +1,38 @@
 ---
-title: 'Top MBA Finance Colleges in Chennai 2026 — Placements & Fees'
+title: Top MBA Finance Colleges in Chennai 2026 — Placements & Fees
 date: '2026-07-16'
 category: MBA Admissions
-description: 'Compare the best MBA Finance colleges in Chennai. Get details on fees, placements, and cutoffs for Great Lakes, IFMR GSB, LIBA, and DoMS IIT Madras.'
+description: >-
+  Compare the best MBA Finance colleges in Chennai. Get details on fees,
+  placements, and cutoffs for Great Lakes, IFMR GSB, LIBA, and DoMS IIT Madras.
 keywords:
   - top mba finance colleges in chennai 2026
   - best finance mba in chennai
   - ifmr chennai finance placement
   - great lakes chennai mba fees
   - doms iit madras placements
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Why is IFMR Sri City considered a top pick for Finance?
     answer: >-
-      IFMR (Institute for Financial Management and Research) was established specifically to support research and education in finance and economics, boasting elite ties with the industry.
+      IFMR (Institute for Financial Management and Research) was established
+      specifically to support research and education in finance and economics,
+      boasting elite ties with the industry.
   - question: What is the fee structure of DoMS IIT Madras?
     answer: >-
-      DoMS IIT Madras offers high ROI with a total fee of around INR 10 Lakhs and average placement packages exceeding INR 16 LPA.
+      DoMS IIT Madras offers high ROI with a total fee of around INR 10 Lakhs
+      and average placement packages exceeding INR 16 LPA.
   - question: Does Great Lakes Chennai accept CMAT?
     answer: >-
-      No, Great Lakes Chennai primarily accepts CAT, XAT, and GMAT scores for its main management programs.
+      No, Great Lakes Chennai primarily accepts CAT, XAT, and GMAT scores for
+      its main management programs.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Selecting the right B-school is critical if you are targeting a career in investment banking, corporate finance, asset management, or fintech. While general MBA rankings give a broad overview, finance recruiters tend to visit campuses that have a strong quantitative tradition, specialized finance faculty, and proximity to major corporate centers.

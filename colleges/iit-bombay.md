@@ -1,7 +1,7 @@
 ---
 name: IIT Bombay
 logo: /colleges/iit-bombay-logo.webp
-location: 'Mumbai, Maharashtra'
+location: Mumbai
 category: Engineering
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - IIT Bombay CSE placement
   - IIT Bombay B.Tech admission 2027
   - 'engineering colleges Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### About IIT Bombay

@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What if I hold crypto for more than 3 years?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
     answer: >-
       Non-disclosure of VDA can lead to a penalty of **up to 300%** of the tax
       evaded, along with potential prosecution.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The world of Virtual Digital Assets (VDA) has become a mainstream investment choice in India. However, the Income Tax Department has introduced some of the most stringent regulations for cryptocurrency gains globally. In 2026, as the regulatory framework matures, understanding how to calculate and report your crypto income is essential to avoid heavy penalties and scrutiny.

@@ -1,7 +1,7 @@
 ---
 name: Lovely Professional University
 logo: /colleges/lovely-professional-university-logo.webp
-location: 'Phagwara, Punjab'
+location: Chandigarh
 category: Engineering
 type: University
 courses:
@@ -45,6 +45,13 @@ keywords:
   - Lovely Professional University CSE placement
   - Lovely Professional University B.Tech admission 2027
   - 'engineering colleges Phagwara, Punjab'
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
+state: Punjab
 ---
 
 ### About Lovely Professional University

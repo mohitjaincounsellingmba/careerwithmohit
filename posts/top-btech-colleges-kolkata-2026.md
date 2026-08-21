@@ -15,6 +15,12 @@ keywords:
   - IIT Kharagpur near kolkata
   - private engineering college kolkata fees
   - direct admission btech kolkata
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
   - question: Which is the best B.Tech college in Kolkata?
     answer: >-
@@ -39,6 +45,8 @@ faqs:
     answer: >-
       Jadavpur University charges approximately ₹40,000 per year — one of the
       lowest fees for a top-quality engineering education in India.
+location: Kolkata
+state: West Bengal
 ---
 
 Kolkata is home to some of India's most prestigious engineering institutions — including Jadavpur University, IIEST Shibpur (one of India's oldest engineering colleges), and strong private universities. West Bengal's manufacturing, IT, and port-based industries ensure solid placement opportunities for engineering graduates.

@@ -1,7 +1,7 @@
 ---
 name: ITM Vocational University
 logo: ''
-location: Vadodara
+location: Ahmedabad
 category: Management
 type: University
 courses:
@@ -44,6 +44,13 @@ keywords:
   - ITM Vocational University PGDM placement
   - ITM Vocational University MBA admission 2027
   - MBA colleges Vadodara
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### Courses & Fees

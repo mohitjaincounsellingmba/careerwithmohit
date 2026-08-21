@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the average package at Indus Business Academy (IBA Bangalore) in
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Indus Business
       Academy (IBA Bangalore) is approximately ₹10.25 Lakhs (Total).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [Indus Business Academy](/colleges/indus-business-academy) (IBA Bangalore) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

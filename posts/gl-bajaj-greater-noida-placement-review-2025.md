@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 GL Bajaj Institute of Management and Research (GLBIMR) at Greater Noida is a powerhouse for placements and corporate connections in the Noida-Greater Noida belt. With a reputation for high-ROI programs, it has become a favorite for MBA aspirants.
 

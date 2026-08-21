@@ -13,6 +13,12 @@ keywords:
   - nmat preparation strategy
   - nmims mumbai cutoff nmat
   - nmat by gmac
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: How is NMAT scaled score calculated?
     answer: >-
@@ -30,6 +36,8 @@ faqs:
       is practicing NMAT mock tests to adapt to the speed (108 questions in 120
       minutes) and learning how to solve Data Sufficiency and Input-Output
       questions.
+location: Mumbai
+state: Maharashtra
 ---
 
 The NMAT by GMAC is unique compared to other management exams in India. It is highly student-friendly, allowing you to choose your section order, schedule your test date, and even retake the exam up to three times to improve your score. However, don't let this flexibility fool you. NMAT is the mandatory gateway to the flagship MBA program at **[NMIMS Mumbai](/colleges/nmims-mumbai)**, and securing a seat there requires a scaled score of 235+.

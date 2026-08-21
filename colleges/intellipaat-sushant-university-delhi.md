@@ -1,7 +1,7 @@
 ---
 name: Intellipaat - Sushant University (Delhi)
 logo: ''
-location: Delhi
+location: Delhi NCR
 category: Engineering
 type: Institute
 courses:
@@ -46,6 +46,13 @@ keywords:
   - Intellipaat - Sushant University (Delhi) CSE placement
   - Intellipaat - Sushant University (Delhi) B.Tech admission 2027
   - engineering colleges Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### B.Tech Courses & Fees

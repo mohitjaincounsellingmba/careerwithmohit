@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 [GD Goenka University](/colleges/gd-goenka-university), located on the picturesque Sohna Road in Gurgaon, has become a prominent name for undergraduate management education in the Delhi NCR region. If you are considering a career in business, the GD Goenka BBA program is likely on your radar.
 

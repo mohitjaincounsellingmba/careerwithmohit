@@ -15,6 +15,12 @@ keywords:
   - mca admission kolkata 2026
   - makaut mca fees
   - direct mca admission kolkata
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: Does University of Calcutta accept WB JECA?
     answer: >-
@@ -31,6 +37,8 @@ faqs:
       University for their flagship software engineering roles.
   - question: When is the WB JECA 2026 exam?
     answer: Usually held in **July**. Registrations typically open in May.
+location: Mumbai
+state: Maharashtra
 ---
 
 Kolkata, the "City of Joy" and East India's primary educational hub, offers some of the most specialized and affordable MCA (Master of Computer Applications) programs in the country. With Jadavpur University leading the way and Salt Lake Sector V housing thousands of IT firms, Kolkata provides a launchpad for students targeting Tier-1 software roles without the high living costs of Mumbai or Bangalore.

@@ -29,7 +29,11 @@ keywords:
   - Direct Admission in Noida
   - Delhi NCR Colleges
   - Delhi NCR College Counselling
-location: Noida
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: What raw score is needed for a 99 percentile in CAT 2026?
     answer: >-
@@ -59,6 +63,7 @@ faqs:
       Yes, prominent private B-schools like BIMTECH Greater Noida, LBSIM Delhi,
       FORE School of Management, GIM Goa, and Great Lakes offer strong PGDM
       programs for 75-85 percentile scorers.
+state: Delhi NCR
 ---
 
 Every MBA aspirant preparing for or analyzing the **Common Admission Test (CAT 2026)** asks one fundamental question: *"How many marks do I need to score to get a 99, 95, or 90 percentile?"*

@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the Hero Group connection with BML Munjal?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       No, you can also join via JEE Main or CUET scores, though BMU-SAT is
       helpful for scholarship consideration.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU)**, promoted by the Hero Group, is a high-profile private university in Gurugram (Manesar). Unique in its mentorship by **Imperial College London**, BMU focuses on an experiential learning model where 45% of the curriculum is practical/hands-on.

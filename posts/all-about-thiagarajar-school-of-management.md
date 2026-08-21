@@ -1,23 +1,40 @@
 ---
-title: "Thiagarajar School of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Thiagarajar School of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Thiagarajar School of Management PGDM Admission Review 2026: Placements, Fees
+  & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Thiagarajar School of Management? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "thiagarajar school of management review 2026"
-  - "thiagarajar school of management pgdm placements"
-  - "thiagarajar school of management admission cutoff"
-  - "thiagarajar school of management fees"
+  - thiagarajar school of management review 2026
+  - thiagarajar school of management pgdm placements
+  - thiagarajar school of management admission cutoff
+  - thiagarajar school of management fees
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "Is Thiagarajar School of Management a good option for PGDM/MBA?"
+  - question: Is Thiagarajar School of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, Thiagarajar School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Thiagarajar School of Management?"
+      Yes, Thiagarajar School of Management is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Thiagarajar School of Management?
     answer: >-
-      The average placement package at Thiagarajar School of Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
-  - question: "What entrance exams are accepted by Thiagarajar School of Management?"
+      The average placement package at Thiagarajar School of Management is
+      approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
+  - question: What entrance exams are accepted by Thiagarajar School of Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### **College Review: [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management)**

@@ -18,6 +18,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 Noida is a massive corporate hub, home to thousands of IT companies and multinational headquarters. For a BBA student, studying in Noida means being at the center of the action with plenty of internship opportunities and industry interaction.
 

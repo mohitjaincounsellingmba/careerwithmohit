@@ -24,8 +24,12 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: Colleges
-location: Faridabad
+location: Delhi NCR
 faqs:
   - question: >-
       Is Manav Rachna International Institute of Research and Studies (MRIIRS),
@@ -53,6 +57,7 @@ faqs:
       and Studies (MRIIRS), Faridabad are conducted based on entrance exams such
       as MRNAT, JEE Main, CUET, CAT, MAT, XAT, SAT, followed by counseling,
       personal interviews, or merit-based shortlisting.
+state: Delhi NCR
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **[Manav Rachna International Institute of Research and Studies](/colleges/manav-rachna-faridabad) (MRIIRS), Faridabad**, situated in **Faridabad**, stands out as one of the premier destinations for undergraduate and postgraduate education in Haryana.

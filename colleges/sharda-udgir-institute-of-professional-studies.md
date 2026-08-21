@@ -1,7 +1,7 @@
 ---
 name: Sharda Udgir Institute of Professional Studies
 logo: /colleges/default-management-logo.webp
-location: 'Udgir, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Sharda Udgir Institute of Professional Studies PGDM placement
   - Sharda Udgir Institute of Professional Studies MBA admission 2027
   - 'MBA colleges Udgir, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Sharda Udgir Institute of Professional Studies

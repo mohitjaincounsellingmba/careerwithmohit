@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How is the CUET PG 2026 raw score calculated?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
       Most universities like DU and BHU consider the total score. However, TISS
       may have specific shortlisting criteria for their TISS-RAT/Interview
       rounds based on sectional performance.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Did you just finish your CUET PG 2026 exam and are wondering how much you’ll score? With the official NTA answer keys on the horizon, knowing your **raw score** is the first step toward securing a seat in top central universities like DU, JNU, and BHU.

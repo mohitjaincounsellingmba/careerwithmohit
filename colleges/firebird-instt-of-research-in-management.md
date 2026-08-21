@@ -1,7 +1,7 @@
 ---
 name: Firebird Instt of Research in Management
 logo: ''
-location: Coimbatore
+location: Chennai
 category: Management
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Firebird Instt of Research in Management PGDM placement
   - Firebird Instt of Research in Management MBA admission 2027
   - MBA colleges Coimbatore
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### Courses & Fees

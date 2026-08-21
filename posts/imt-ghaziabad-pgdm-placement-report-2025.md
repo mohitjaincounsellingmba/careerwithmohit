@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the average package at IMT Ghaziabad for the 2025 placement cycle?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
     answer: >-
       IMT Ghaziabad accepts CAT, XAT, and GMAT scores, with shortlist cutoffs
       typically around 90–93 percentile in CAT/XAT.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Recognized across India Inc. as the "Marketing Mecca" of management education, the **Institute of Management Technology (IMT), Ghaziabad** continues to deliver commanding placements across Consumer Goods, BFSI, Consulting, and Analytics.

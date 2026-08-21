@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is it really founded by IIM alumni?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
       Ahmedabad](/colleges/iim-ahmedabad)."
   - question: What is the total fee?
     answer: ₹11.5 Lakhs for the 2026-28 PGDM batch.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 In the crowded Delhi PGDM market, **FOSTIIMA Business School** has carved a unique identity — it's the only private B-school in Delhi **founded, funded, and managed by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni**. Since its inception, FOSTIIMA has attracted students who want IIM-quality thinking at a fee that makes financial sense.

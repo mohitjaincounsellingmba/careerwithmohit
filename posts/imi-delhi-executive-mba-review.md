@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Is the Executive PGDM at IMI Delhi a residential program?
@@ -34,7 +38,8 @@ faqs:
     answer: >-
       Yes, IMI Delhi accepts XAT, GMAT, and the school's own Executive Admission
       Test (JMAT).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [International Management Institute (IMI), Delhi](/colleges/imi-delhi) represents a powerful gateway to higher senior leadership positions.

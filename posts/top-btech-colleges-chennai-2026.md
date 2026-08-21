@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best B.Tech college in Chennai?
     answer: >-
@@ -49,7 +53,8 @@ faqs:
     answer: >-
       Government-aided college fees are low (₹50,000–₹1 L/yr). Private deemed
       universities like SRM and VIT charge ₹2–₹2.5 Lakhs per year.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Chennai is India's "Detroit of the East" and an IT powerhouse — home to IIT Madras (consistently India's #1 university), a massive cluster of auto, aerospace, and IT companies, and hundreds of engineering colleges under Madras University and Anna University. A B.Tech from Chennai can lead to careers at Zoho, Infosys, TCS, Hyundai, Ford, and global tech giants.

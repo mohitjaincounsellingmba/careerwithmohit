@@ -1,9 +1,11 @@
 ---
 title: >-
-  SPJIMR Mumbai PGDM Placement Report 2025: Average CTC ₹32.00 LPA, Highest ₹89.00 LPA & 162 PPOs
+  SPJIMR Mumbai PGDM Placement Report 2025: Average CTC ₹32.00 LPA, Highest
+  ₹89.00 LPA & 162 PPOs
 date: '2026-08-15'
 description: >-
-  Complete SPJIMR Mumbai PGDM Placement Report 2025. Discover average CTC of ₹32.00 LPA, highest international package of ₹89 LPA, PPO trends & recruiters.
+  Complete SPJIMR Mumbai PGDM Placement Report 2025. Discover average CTC of
+  ₹32.00 LPA, highest international package of ₹89 LPA, PPO trends & recruiters.
 keywords:
   - spjimr mumbai pgdm placement report 2025
   - spjimr mumbai average package 2025
@@ -12,16 +14,30 @@ keywords:
   - spjimr profile based calls
   - top private mba colleges placements 2025
   - mba admission 2026
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What was the average and highest package at SPJIMR Mumbai in 2025?
     answer: >-
-      In the 2025 placement season, SPJIMR Mumbai recorded an average CTC of INR 32.00 LPA, a median CTC of INR 30.50 LPA, and a highest international package of INR 89.00 LPA (highest domestic offer stood at INR 81.00 LPA), with 100% placement completion.
+      In the 2025 placement season, SPJIMR Mumbai recorded an average CTC of INR
+      32.00 LPA, a median CTC of INR 30.50 LPA, and a highest international
+      package of INR 89.00 LPA (highest domestic offer stood at INR 81.00 LPA),
+      with 100% placement completion.
   - question: How many PPOs were received by SPJIMR students in 2025?
     answer: >-
-      Over 162 students (accounting for more than 48% of the batch) received Pre-Placement Offers (PPOs) through Autumn Internships at leading consulting firms and FMCG conglomerates.
+      Over 162 students (accounting for more than 48% of the batch) received
+      Pre-Placement Offers (PPOs) through Autumn Internships at leading
+      consulting firms and FMCG conglomerates.
   - question: Which specializations are offered in SPJIMR PGDM?
     answer: >-
-      SPJIMR offers four flagship specializations: Finance, Marketing, Operations & Supply Chain, and Information Management (IM).
+      SPJIMR offers four flagship specializations: Finance, Marketing,
+      Operations & Supply Chain, and Information Management (IM).
+location: Mumbai
+state: Maharashtra
 ---
 
 The **S.P. Jain Institute of Management and Research (SPJIMR), Mumbai** ranks among India's top 5 management institutions, frequently standing on par with the Old IIM trio ([IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta).

@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best B.Tech college in Chandigarh?
     answer: >-
@@ -47,7 +51,8 @@ faqs:
     answer: >-
       Yes — Chandigarh University, Chitkara, CGC, and Rayat Bahra offer direct
       admissions based on board marks without requiring a JEE score.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Chandigarh — India's best-planned city and capital of Punjab and Haryana — along with the satellite cities of Mohali and Panchkula (the "Tricity"), forms a booming tech and startup hub. The presence of IT companies, auto-parts manufacturers, and proximity to Delhi makes Chandigarh's engineering colleges extremely valuable for placement.

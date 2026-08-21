@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get USMS Dwarka with a CMAT score?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       USMS is the university's on-campus department. It has the lowest fees and
       the highest brand value. Affiliated colleges are private but follow the
       same curriculum and degree.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Guru Gobind Singh Indraprastha University (GGSIPU) is one of the most sought-after universities for MBA in Delhi NCR due to its excellent ROI and centralized counseling. However, unlike other universities, IPU follows a unique **Priority System** for MBA admissions.

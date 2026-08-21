@@ -30,6 +30,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is a good score in DET for top universities?
     answer: >-
@@ -44,7 +48,8 @@ faqs:
     answer: >-
       You can take the test as many times as you like, but you can only purchase
       three tests in a 30-day period.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Duolingo English Test (DET) has become a major contender in the world of English proficiency testing, offering a modern, digital-first alternative to traditional exams like IELTS and TOEFL.

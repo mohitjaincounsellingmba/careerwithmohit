@@ -13,6 +13,12 @@ keywords:
   - VJTI Mumbai admission
   - MHT-CET seat allotment
   - DTE Maharashtra engg admission
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: Can I get COEP through JEE Main score?
     answer: >-
@@ -25,6 +31,8 @@ faqs:
     answer: >-
       Typically there are three CAP rounds followed by an additional
       institutional-level round for vacant seats.
+location: Mumbai
+state: Maharashtra
 ---
 
 **MHT-CET CAP (Centralised Admission Process) 2026**, conducted by the State CET Cell, Government of Maharashtra, is the official gateway for engineering admissions in over 300+ government and private colleges in Maharashtra. Known for legendary institutes like **COEP Pune** and **VJTI Mumbai**, MHT-CET is a top choice for students nationwide.

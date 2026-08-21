@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Dehradun has long been known as the school capital of India, but it is now equally famous for its higher education institutes. Nestled in the foothills of the Himalayas, it offers a peaceful yet competitive environment for BBA students.
 

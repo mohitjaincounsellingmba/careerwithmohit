@@ -1,24 +1,39 @@
 ---
-title: 'Top MBA Business Analytics Colleges in Dehradun 2026 — Placements & Fees'
+title: Top MBA Business Analytics Colleges in Dehradun 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Explore the best MBA colleges for Business Analytics in Dehradun. Read our 2026 guide on UPES, Doon Business School, and Graphic Era fees, packages, and eligibility.'
+description: >-
+  Explore the best MBA colleges for Business Analytics in Dehradun. Read our
+  2026 guide on UPES, Doon Business School, and Graphic Era fees, packages, and
+  eligibility.
 keywords:
   - top mba business analytics colleges in dehradun 2026
   - best mba business analytics dehradun
   - upes dehradun mba business analytics fees
   - doon business school business analytics placement
   - graphic era university mba dehradun
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
   - question: What is the fee structure for MBA Business Analytics at UPES Dehradun?
     answer: >-
-      The total program tuition fee is approximately INR 16.5 Lakhs, offering extensive learning infrastructure, specialized labs, and solid placements.
+      The total program tuition fee is approximately INR 16.5 Lakhs, offering
+      extensive learning infrastructure, specialized labs, and solid placements.
   - question: Does Doon Business School provide good placements for analytics?
     answer: >-
-      Doon Business School invites consumer goods, digital platforms, and corporate banks, offering roles in sales analytics and data analyst positions.
+      Doon Business School invites consumer goods, digital platforms, and
+      corporate banks, offering roles in sales analytics and data analyst
+      positions.
   - question: What entrance exams are accepted by Dehradun B-schools?
     answer: >-
-      Most colleges in Dehradun accept CAT, MAT, and CMAT scores for their MBA/PGDM programs.
+      Most colleges in Dehradun accept CAT, MAT, and CMAT scores for their
+      MBA/PGDM programs.
+location: Dehradun
+state: Uttarakhand
 ---
 
 Selecting the right B-school is critical if you are targeting a career in data science, quantitative decision-making, predictive modeling, or strategic business analytics. While general MBA rankings give a broad overview, analytics recruiters tend to visit campuses that have a strong tradition of quantitative studies, dedicated analytics specializations, and proximity to major corporate headquarters.

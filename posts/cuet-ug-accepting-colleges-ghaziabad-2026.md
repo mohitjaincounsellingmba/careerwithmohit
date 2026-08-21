@@ -18,6 +18,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 Ghaziabad, part of the National Capital Region (NCR), is a major industrial and educational hub. With its proximity to Delhi, it offers numerous opportunities for those appearing for the **Common University Entrance Test (CUET) UG 2026**.
 

@@ -1,7 +1,7 @@
 ---
 name: Xavier Chennai Institute of Professional Studies
 logo: /colleges/default-management-logo.webp
-location: 'Chennai, India'
+location: Chennai
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Xavier Chennai Institute of Professional Studies PGDM placement
   - Xavier Chennai Institute of Professional Studies MBA admission 2027
   - 'MBA colleges Chennai, India'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### About Xavier Chennai Institute of Professional Studies

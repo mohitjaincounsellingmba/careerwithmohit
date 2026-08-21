@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: What is the core focus of the SNU Executive MBA?
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       SNU has a fully residential 286-acre campus, but the Executive MBA is
       structured to accommodate commuter and weekend candidates.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Greater Noida, the Executive MBA / Executive PGDM offered by [Shiv Nadar University (SNU), Greater Noida](/colleges/snu-greater-noida) represents a powerful gateway to higher senior leadership positions.

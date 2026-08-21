@@ -27,6 +27,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is there a future in Agri-Business Management?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       Major recruiters include FMCG giants (ITC, Nestle), Agri-Input companies
       (UPL, Bayer), and Rural Banks (NABARD, HDFC).
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Agri-Business Management (ABM) is no longer a niche field; it has become a powerhouse of professional growth in India. With the integration of AI, IoT, and supply chain tech into agriculture, the demand for "Agri-Managers" has skyrocketed.

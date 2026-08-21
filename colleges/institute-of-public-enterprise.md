@@ -44,6 +44,13 @@ keywords:
   - Institute of Public Enterprise PGDM placement
   - Institute of Public Enterprise MBA admission 2027
   - MBA colleges Hyderabad
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
+state: Telangana
 ---
 
 ### Courses & Fees

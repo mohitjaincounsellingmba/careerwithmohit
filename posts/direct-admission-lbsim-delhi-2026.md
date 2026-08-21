@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does LBSIM Delhi have a management quota?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
     answer: >-
       No, it is a transparent, merit-linked process conducted through official
       institutional channels.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Lal Bahadur Shastri Institute of Management (LBSIM), Delhi, is an elite B-school known for its academic excellence, ethics-based education, and high-ROI programs. Located in Dwarka, New Delhi, LBSIM is a top choice for students focusing on Finance and General Management. For the 2026-28 batch, **Direct Admission in LBSIM Delhi** is a merit-linked institutional process.

@@ -1,7 +1,7 @@
 ---
 name: NDIM Delhi (New Delhi Institute of Management)
 logo: /colleges/ndim-logo.webp
-location: 'Tughlakabad, Delhi'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - NDIM Delhi (New Delhi Institute of Management) PGDM placement
   - NDIM Delhi (New Delhi Institute of Management) MBA admission 2027
   - 'MBA colleges Tughlakabad, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

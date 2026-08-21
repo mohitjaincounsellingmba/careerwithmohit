@@ -27,7 +27,11 @@ keywords:
   - Direct Admission in Noida
   - Delhi NCR Colleges
   - Delhi NCR College Counselling
-location: Noida
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: Which are the best MBA colleges accepting 80-90 percentile in CAT?
     answer: >-
@@ -56,6 +60,7 @@ faqs:
       Yes, B-schools like GIM (Goa Achiever's Round) and SPJIMR offer
       profile-based interview shortlists for candidates with strong academics,
       work experience, or sports/cultural achievements.
+state: Delhi NCR
 ---
 
 Scoring between **80 and 90 percentile in CAT 2026** is a commendable achievement that puts you ahead of nearly 2.5 lakh candidates. While it may narrowly miss the 99+ cutoff required for Old IIMs (BLACKI) and [FMS Delhi](/colleges/fms-delhi), this bracket opens doors to **India's top Tier-2 and elite private business schools**.

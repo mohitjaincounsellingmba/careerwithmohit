@@ -1,23 +1,45 @@
 ---
-title: "Mumbai Institute of Professional Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Mumbai Institute of Professional Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Mumbai Institute of Professional Studies PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Mumbai Institute of Professional Studies? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "mumbai institute of professional studies review 2026"
-  - "mumbai institute of professional studies pgdm placements"
-  - "mumbai institute of professional studies admission cutoff"
-  - "mumbai institute of professional studies fees"
+  - mumbai institute of professional studies review 2026
+  - mumbai institute of professional studies pgdm placements
+  - mumbai institute of professional studies admission cutoff
+  - mumbai institute of professional studies fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is Mumbai Institute of Professional Studies a good option for PGDM/MBA?"
+  - question: Is Mumbai Institute of Professional Studies a good option for PGDM/MBA?
     answer: >-
-      Yes, Mumbai Institute of Professional Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Mumbai Institute of Professional Studies?"
+      Yes, Mumbai Institute of Professional Studies is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Mumbai Institute of Professional
+      Studies?
     answer: >-
-      The average placement package at Mumbai Institute of Professional Studies is approximately ₹5.0 LPA, with the highest package reaching up to ₹20.0 LPA.
-  - question: "What entrance exams are accepted by Mumbai Institute of Professional Studies?"
+      The average placement package at Mumbai Institute of Professional Studies
+      is approximately ₹5.0 LPA, with the highest package reaching up to ₹20.0
+      LPA.
+  - question: >-
+      What entrance exams are accepted by Mumbai Institute of Professional
+      Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [Mumbai Institute of Professional Studies](/colleges/mumbai-institute-of-professional-studies)**

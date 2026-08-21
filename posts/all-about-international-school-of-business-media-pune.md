@@ -1,23 +1,47 @@
 ---
-title: "International School of Business & Media, Pune PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to International School of Business & Media, Pune? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  International School of Business & Media, Pune PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to International School of Business & Media, Pune? Read
+  our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "international school of business & media, pune review 2026"
-  - "international school of business & media, pune pgdm placements"
-  - "international school of business & media, pune admission cutoff"
-  - "international school of business & media, pune fees"
+  - 'international school of business & media, pune review 2026'
+  - 'international school of business & media, pune pgdm placements'
+  - 'international school of business & media, pune admission cutoff'
+  - 'international school of business & media, pune fees'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is International School of Business & Media, Pune a good option for PGDM/MBA?"
+  - question: >-
+      Is International School of Business & Media, Pune a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, International School of Business & Media, Pune is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at International School of Business & Media, Pune?"
+      Yes, International School of Business & Media, Pune is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at International School of Business &
+      Media, Pune?
     answer: >-
-      The average placement package at International School of Business & Media, Pune is approximately ₹6.8 LPA, with the highest package reaching up to ₹16.6 LPA.
-  - question: "What entrance exams are accepted by International School of Business & Media, Pune?"
+      The average placement package at International School of Business & Media,
+      Pune is approximately ₹6.8 LPA, with the highest package reaching up to
+      ₹16.6 LPA.
+  - question: >-
+      What entrance exams are accepted by International School of Business &
+      Media, Pune?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [International School of Business & Media, Pune](/colleges/international-school-of-business-media-pune)**

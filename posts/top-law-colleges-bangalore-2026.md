@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Christ University Law have management quota?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
     answer: >-
       Entrance-based admissions close by **March-April**. Direct merit-based
       admissions open in **May** after 12th results.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Bangalore, the "Silicon Valley of India," is a premier destination for legal aspirants. Home to the undisputed #1 law school in India—NLSIU Bangalore—the city offers a unique ecosystem where **Tech Law, Intellectual Property (IPR), and Corporate Law** thrive alongside traditional litigation.

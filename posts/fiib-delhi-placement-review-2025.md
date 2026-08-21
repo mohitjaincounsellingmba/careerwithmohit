@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Delhi is a fast-growing B-school known for its intense focus on experiential learning and global exposure. With a consistent 96% placement rate, it remains a strong choice for management aspirants.
 

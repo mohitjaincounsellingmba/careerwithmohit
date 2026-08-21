@@ -1,7 +1,7 @@
 ---
 name: Tecnia Institute of Advanced Studies
 logo: ''
-location: 'Rohini, Delhi (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Tecnia Institute of Advanced Studies mohit jain review
   - Tecnia Institute of Advanced Studies hostel fees
   - Tecnia Institute of Advanced Studies contact number
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 Tecnia Institute in Delhi is well-regarded for its focused BBA curriculum and successful campus recruitment drives with leading Indian and multinational companies.

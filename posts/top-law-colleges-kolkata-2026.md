@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does University of Calcutta (CU) have an entrance exam?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       Registrations for merit-based seats usually open in **June** after the HS
       and CBSE results.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Kolkata, the "City of Joy" and a historic bastion of the Indian legal system, remains a top destination for legal studies. With the presence of WBNUJS—one of India's top 3 law schools—and the legendary Calcutta High Court, the city offers a blend of high-end corporate placements and traditional litigation excellence.

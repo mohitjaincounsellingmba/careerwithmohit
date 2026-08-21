@@ -1,23 +1,40 @@
 ---
-title: "Xavier Hyderabad Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Hyderabad Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Hyderabad Business School PGDM Admission Review 2026: Placements, Fees
+  & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Xavier Hyderabad Business School? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "xavier hyderabad business school review 2026"
-  - "xavier hyderabad business school pgdm placements"
-  - "xavier hyderabad business school admission cutoff"
-  - "xavier hyderabad business school fees"
+  - xavier hyderabad business school review 2026
+  - xavier hyderabad business school pgdm placements
+  - xavier hyderabad business school admission cutoff
+  - xavier hyderabad business school fees
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
-  - question: "Is Xavier Hyderabad Business School a good option for PGDM/MBA?"
+  - question: Is Xavier Hyderabad Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Xavier Hyderabad Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Hyderabad Business School?"
+      Yes, Xavier Hyderabad Business School is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Xavier Hyderabad Business School?
     answer: >-
-      The average placement package at Xavier Hyderabad Business School is approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
-  - question: "What entrance exams are accepted by Xavier Hyderabad Business School?"
+      The average placement package at Xavier Hyderabad Business School is
+      approximately ₹5.7 LPA, with the highest package reaching up to ₹15.5 LPA.
+  - question: What entrance exams are accepted by Xavier Hyderabad Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Hyderabad
+state: Telangana
 ---
 
 ### **College Review: [Xavier Hyderabad Business School](/colleges/xavier-hyderabad-business-school)**

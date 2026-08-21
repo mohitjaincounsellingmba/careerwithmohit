@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What makes SOIL different from other Gurgaon B-schools?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       years of experience.
   - question: What are SOIL's total fees?
     answer: 'PGDM: ₹14.5–17.5 Lakhs | PGPM: ₹15.33 Lakhs | PGPM-HR: ₹13.33–14.5 Lakhs.'
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 If you've been shortlisting B-schools in Delhi-NCR and wondering why **[SOIL Institute of Management](/colleges/soil-institute-gurgaon), Gurgaon** keeps appearing on "most unique" and "hidden gem" lists — this post explains exactly why.

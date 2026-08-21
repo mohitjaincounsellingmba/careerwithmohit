@@ -1,7 +1,7 @@
 ---
 name: Christ University - Faculty of Engineering
 logo: ''
-location: 'Kengeri, Bangalore'
+location: Bangalore
 category: Engineering
 type: University
 courses:
@@ -45,6 +45,13 @@ keywords:
   - Christ University - Faculty of Engineering CSE placement
   - Christ University - Faculty of Engineering B.Tech admission 2027
   - 'engineering colleges Kengeri, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

@@ -10,6 +10,12 @@ keywords:
   - VMOU MBA admission 2026
   - Distance MBA in Rajasthan
   - VMOU MBA eligibility
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: Is VMOU Distance MBA recognized by UGC-DEB?
     answer: >-
@@ -25,6 +31,8 @@ faqs:
       Unlike regular programs, VMOU focus is on providing academic flexibility.
       However, many students use the degree to climb the corporate ladder within
       their existing organizations.
+location: Jaipur
+state: Rajasthan
 ---
 
 ### 📊 VMOU Distance MBA 2026 Snapshot

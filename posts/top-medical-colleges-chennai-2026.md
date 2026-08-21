@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are government medical seats in Tamil Nadu open to outside students?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
     answer: >-
       Counselling registrations typically open in **July** after the NEET
       results.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Chennai, the "Healthcare Capital of India," is a global leader in medical services. With heritage institutes like Madras Medical College (est. 1835) and world-renowned private health systems like Sri Ramachandra, Chennai offers medical students a clinical exposure that is both traditionally deep and technologically advanced.

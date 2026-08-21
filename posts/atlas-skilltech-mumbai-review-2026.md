@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the average package at ATLAS SkillTech University in 2026?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at ATLAS SkillTech
       University is approximately ₹11.55L - ₹12.05L (Total).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # ATLAS SkillTech University Review 2026: Fees, Placements, Cutoffs & ROI Analysis

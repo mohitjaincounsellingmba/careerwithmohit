@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the minimum CMAT score for a good college?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
       For top-tier colleges in Maharashtra, CMAT is the gateway exam. MAT is
       better for accessing a wider network of 600+ private B-schools, especially
       in North India.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Common Management Admission Test (CMAT) — conducted by NTA — is accepted by **1,000+ AICTE-approved B-schools** across India. While everyone chases CAT, smart students know that **a 99+ CMAT percentile can get you into colleges with ₹28 LPA average placements at a fraction of the cost.**

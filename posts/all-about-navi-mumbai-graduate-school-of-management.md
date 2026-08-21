@@ -1,23 +1,45 @@
 ---
-title: "Navi Mumbai Graduate School of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Navi Mumbai Graduate School of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Navi Mumbai Graduate School of Management PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Navi Mumbai Graduate School of Management? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "navi mumbai graduate school of management review 2026"
-  - "navi mumbai graduate school of management pgdm placements"
-  - "navi mumbai graduate school of management admission cutoff"
-  - "navi mumbai graduate school of management fees"
+  - navi mumbai graduate school of management review 2026
+  - navi mumbai graduate school of management pgdm placements
+  - navi mumbai graduate school of management admission cutoff
+  - navi mumbai graduate school of management fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is Navi Mumbai Graduate School of Management a good option for PGDM/MBA?"
+  - question: Is Navi Mumbai Graduate School of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, Navi Mumbai Graduate School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Navi Mumbai Graduate School of Management?"
+      Yes, Navi Mumbai Graduate School of Management is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Navi Mumbai Graduate School of
+      Management?
     answer: >-
-      The average placement package at Navi Mumbai Graduate School of Management is approximately ₹5.7 LPA, with the highest package reaching up to ₹21.5 LPA.
-  - question: "What entrance exams are accepted by Navi Mumbai Graduate School of Management?"
+      The average placement package at Navi Mumbai Graduate School of Management
+      is approximately ₹5.7 LPA, with the highest package reaching up to ₹21.5
+      LPA.
+  - question: >-
+      What entrance exams are accepted by Navi Mumbai Graduate School of
+      Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [Navi Mumbai Graduate School of Management](/colleges/navi-mumbai-graduate-school-of-management)**

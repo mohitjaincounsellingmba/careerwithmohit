@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Is the ITS Ghaziabad Executive program AICTE approved?
@@ -34,7 +38,8 @@ faqs:
     answer: >-
       Yes, candidates with strong work experience profiles can secure direct
       admission based on their interview performance.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Ghaziabad, the Executive MBA / Executive PGDM offered by [ITS School of Management, Ghaziabad](/colleges/its-ghaziabad) represents a powerful gateway to higher senior leadership positions.

@@ -1,16 +1,40 @@
 ---
-title: "Indian Institute of Management Bangalore (IIMB) Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Indian Institute of Management Bangalore (IIMB). Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Indian Institute of Management Bangalore (IIMB) executive mba","Indian Institute of Management Bangalore (IIMB) executive mba review","Indian Institute of Management Bangalore (IIMB) executive mba fees","Indian Institute of Management Bangalore (IIMB) executive mba placement","Bangalore executive mba","best executive mba in Bangalore"]
-category: "MBA"
+title: Indian Institute of Management Bangalore (IIMB) Executive MBA Review
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Indian Institute
+  of Management Bangalore (IIMB). Learn about total fees, eligibility, accepted
+  entrance exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - Indian Institute of Management Bangalore (IIMB) executive mba
+  - Indian Institute of Management Bangalore (IIMB) executive mba review
+  - Indian Institute of Management Bangalore (IIMB) executive mba fees
+  - Indian Institute of Management Bangalore (IIMB) executive mba placement
+  - Bangalore executive mba
+  - best executive mba in Bangalore
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+category: MBA
 faqs:
-  - question: "What is the eligibility for EPGP at IIM Bangalore?"
-    answer: "A minimum of 5 years of full-time professional experience after graduation, along with a valid GMAT or GRE score."
-  - question: "What is the average GMAT score of the EPGP batch?"
-    answer: "The average GMAT score of the enrolled batch typically hovers around 700 to 710."
-  - question: "Are there placements for EPGP students?"
-    answer: "Yes, IIMB provides full placement support, matching or exceeding average salaries of the 2-year PGP program, with recruiters like McKinsey, BCG, Bain, and Amazon."
+  - question: What is the eligibility for EPGP at IIM Bangalore?
+    answer: >-
+      A minimum of 5 years of full-time professional experience after
+      graduation, along with a valid GMAT or GRE score.
+  - question: What is the average GMAT score of the EPGP batch?
+    answer: >-
+      The average GMAT score of the enrolled batch typically hovers around 700
+      to 710.
+  - question: Are there placements for EPGP students?
+    answer: >-
+      Yes, IIMB provides full placement support, matching or exceeding average
+      salaries of the 2-year PGP program, with recruiters like McKinsey, BCG,
+      Bain, and Amazon.
+location: Bangalore
+state: Karnataka
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Bangalore, the Executive MBA / Executive PGDM offered by [Indian Institute of Management Bangalore (IIMB)](/colleges/iim-bangalore) represents a powerful gateway to higher senior leadership positions.

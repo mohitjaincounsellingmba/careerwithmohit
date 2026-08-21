@@ -1,23 +1,38 @@
 ---
-title: "SIBM Pune PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to SIBM Pune? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'SIBM Pune PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to SIBM Pune? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "sibm pune review 2026"
-  - "sibm pune pgdm placements"
-  - "sibm pune admission cutoff"
-  - "sibm pune fees"
+  - sibm pune review 2026
+  - sibm pune pgdm placements
+  - sibm pune admission cutoff
+  - sibm pune fees
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is SIBM Pune a good option for PGDM/MBA?"
+  - question: Is SIBM Pune a good option for PGDM/MBA?
     answer: >-
-      Yes, SIBM Pune is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at SIBM Pune?"
+      Yes, SIBM Pune is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at SIBM Pune?
     answer: >-
-      The average placement package at SIBM Pune is approximately ₹28.1 LPA, with the highest package reaching up to ₹82.2 LPA.
-  - question: "What entrance exams are accepted by SIBM Pune?"
+      The average placement package at SIBM Pune is approximately ₹28.1 LPA,
+      with the highest package reaching up to ₹82.2 LPA.
+  - question: What entrance exams are accepted by SIBM Pune?
     answer: >-
-      The college accepts scores from national level entrance examinations including SNAP for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including SNAP for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [SIBM Pune](/colleges/sibm-pune)**

@@ -1,23 +1,38 @@
 ---
-title: "IIM Calcutta PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to IIM Calcutta? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'IIM Calcutta PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to IIM Calcutta? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "iim calcutta review 2026"
-  - "iim calcutta pgdm placements"
-  - "iim calcutta admission cutoff"
-  - "iim calcutta fees"
+  - iim calcutta review 2026
+  - iim calcutta pgdm placements
+  - iim calcutta admission cutoff
+  - iim calcutta fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is IIM Calcutta a good option for PGDM/MBA?"
+  - question: Is IIM Calcutta a good option for PGDM/MBA?
     answer: >-
-      Yes, IIM Calcutta is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at IIM Calcutta?"
+      Yes, IIM Calcutta is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at IIM Calcutta?
     answer: >-
-      The average placement package at IIM Calcutta is approximately ₹35.0 LPA, with the highest package reaching up to ₹1.20 Crore.
-  - question: "What entrance exams are accepted by IIM Calcutta?"
+      The average placement package at IIM Calcutta is approximately ₹35.0 LPA,
+      with the highest package reaching up to ₹1.20 Crore.
+  - question: What entrance exams are accepted by IIM Calcutta?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [IIM Calcutta](/colleges/iim-calcutta)**

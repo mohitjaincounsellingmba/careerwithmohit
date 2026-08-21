@@ -1,23 +1,40 @@
 ---
-title: "Institute of Public Enterprise PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Institute of Public Enterprise? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Institute of Public Enterprise PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Institute of Public Enterprise? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "institute of public enterprise review 2026"
-  - "institute of public enterprise pgdm placements"
-  - "institute of public enterprise admission cutoff"
-  - "institute of public enterprise fees"
+  - institute of public enterprise review 2026
+  - institute of public enterprise pgdm placements
+  - institute of public enterprise admission cutoff
+  - institute of public enterprise fees
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
-  - question: "Is Institute of Public Enterprise a good option for PGDM/MBA?"
+  - question: Is Institute of Public Enterprise a good option for PGDM/MBA?
     answer: >-
-      Yes, Institute of Public Enterprise is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Institute of Public Enterprise?"
+      Yes, Institute of Public Enterprise is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Institute of Public Enterprise?
     answer: >-
-      The average placement package at Institute of Public Enterprise is approximately ₹5.9 LPA, with the highest package reaching up to ₹14.7 LPA.
-  - question: "What entrance exams are accepted by Institute of Public Enterprise?"
+      The average placement package at Institute of Public Enterprise is
+      approximately ₹5.9 LPA, with the highest package reaching up to ₹14.7 LPA.
+  - question: What entrance exams are accepted by Institute of Public Enterprise?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Hyderabad
+state: Telangana
 ---
 
 ### **College Review: [Institute of Public Enterprise](/colleges/institute-of-public-enterprise)**

@@ -1,7 +1,7 @@
 ---
 name: Suryadatta Ludhiana Institute of Professional Studies
 logo: /colleges/default-management-logo.webp
-location: 'Ludhiana, India'
+location: Chandigarh
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Suryadatta Ludhiana Institute of Professional Studies PGDM placement
   - Suryadatta Ludhiana Institute of Professional Studies MBA admission 2027
   - 'MBA colleges Ludhiana, India'
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
+state: Punjab
 ---
 
 ### About Suryadatta Ludhiana Institute of Professional Studies

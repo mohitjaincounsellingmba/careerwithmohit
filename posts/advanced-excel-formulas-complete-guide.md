@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 In the modern corporate world, data is the ultimate currency. Whether you are stepping into a consulting role, analyzing market trends in a product management team, valuing a startup in investment banking, or managing supply chain logistics, Microsoft Excel is the one tool you cannot live without. 
 

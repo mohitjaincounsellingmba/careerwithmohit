@@ -1,23 +1,40 @@
 ---
-title: "AIMS IBS Business School Bengaluru PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to AIMS IBS Business School Bengaluru? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  AIMS IBS Business School Bengaluru PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to AIMS IBS Business School Bengaluru? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "aims ibs business school bengaluru review 2026"
-  - "aims ibs business school bengaluru pgdm placements"
-  - "aims ibs business school bengaluru admission cutoff"
-  - "aims ibs business school bengaluru fees"
+  - aims ibs business school bengaluru review 2026
+  - aims ibs business school bengaluru pgdm placements
+  - aims ibs business school bengaluru admission cutoff
+  - aims ibs business school bengaluru fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is AIMS IBS Business School Bengaluru a good option for PGDM/MBA?"
+  - question: Is AIMS IBS Business School Bengaluru a good option for PGDM/MBA?
     answer: >-
-      Yes, AIMS IBS Business School Bengaluru is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at AIMS IBS Business School Bengaluru?"
+      Yes, AIMS IBS Business School Bengaluru is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at AIMS IBS Business School Bengaluru?
     answer: >-
-      The average placement package at AIMS IBS Business School Bengaluru is approximately ₹7.2 LPA, with the highest package reaching up to ₹17.4 LPA.
-  - question: "What entrance exams are accepted by AIMS IBS Business School Bengaluru?"
+      The average placement package at AIMS IBS Business School Bengaluru is
+      approximately ₹7.2 LPA, with the highest package reaching up to ₹17.4 LPA.
+  - question: What entrance exams are accepted by AIMS IBS Business School Bengaluru?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [AIMS IBS Business School Bengaluru](/colleges/aims-ibs-business-school-bengaluru)**

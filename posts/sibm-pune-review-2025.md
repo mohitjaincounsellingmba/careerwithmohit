@@ -14,6 +14,12 @@ keywords:
   - '[SIBM Pune](/colleges/sibm-pune) fees'
   - best MBA college in Pune
   - '[SIBM Pune](/colleges/sibm-pune) average package'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: 'What is the SNAP cutoff for [SIBM Pune](/colleges/sibm-pune)?'
     answer: >-
@@ -30,6 +36,8 @@ faqs:
       **₹27.77 Lakhs**.
   - question: 'Does [SIBM Pune](/colleges/sibm-pune) have 100% placements?'
     answer: "Yes, [SIBM Pune](/colleges/sibm-pune) consistently achieves **100% placements** with top-tier companies across consulting, finance, and FMCG.\n\n[\U0001F449 Check your [SIBM Pune](/colleges/sibm-pune) admission chances based on SNAP score!](/inquiry)"
+location: Pune
+state: Maharashtra
 ---
 
 [SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management) is consistently ranked among the Top 10 private B-schools in India. Known for its world-class Lavale campus and "Student-Driven" culture, it is the flagship institute of Symbiosis International University.

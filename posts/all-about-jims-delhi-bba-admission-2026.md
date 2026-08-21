@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does JIMS offer BBA in shifts?
     answer: >-
@@ -29,7 +33,8 @@ faqs:
     answer: >-
       JIMS provides assistance and tie-ups for hostel and PG accommodations for
       outstation students near its campuses.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.

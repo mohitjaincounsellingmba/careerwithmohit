@@ -1,7 +1,7 @@
 ---
 name: Manav Rachna International Institute of Research and Studies
 logo: ''
-location: Faridabad
+location: Delhi NCR
 category: Engineering
 type: Institute
 courses:
@@ -54,6 +54,13 @@ keywords:
     Manav Rachna International Institute of Research and Studies B.Tech
     admission 2027
   - engineering colleges Faridabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### B.Tech Courses & Fees

@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which entrance exams are required for LLB admissions in India?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       Law graduates can practice in courts, join corporate law firms as legal
       advisors, prepare for judicial services, work in NGOs, or join public
       sector undertakings (PSUs).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 The Board of Secondary Education, Rajasthan (RBSE) is all set to declare the **RBSE Class 12 Result 2026 for Science, Commerce, and Arts tomorrow, March 31, 2026, at 10:00 AM**. This follows the recent announcement by Rajasthan Education Minister **Madan Dilawar**, who confirmed the results will be available online for students across the state.
 

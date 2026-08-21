@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does IILM University participate in UPTAC?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
       specializations and atmospheres.
   - question: What is the highest package at IILM?
     answer: The highest package recent reached ₹26 LPA at the Greater Noida campus.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **IILM University**, with its prominent campuses in Greater Noida and Gurugram, is a rapidly growing private university known for its multidisciplinary approach and strong focus on management-integrated engineering education. The Greater Noida campus is particularly well-regarded for its B.Tech programs, functioning as a key hub for tech recruitment in the NCR.

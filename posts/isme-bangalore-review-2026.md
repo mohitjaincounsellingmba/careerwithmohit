@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the average package at ISME Bangalore (School of Management
@@ -44,7 +48,8 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at ISME Bangalore
       (School of Management Excellence) is approximately ₹9.90L - ₹10.95L
       (Total).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [ISME Bangalore](/colleges/isme-bangalore) (School of Management Excellence) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

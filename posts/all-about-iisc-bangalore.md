@@ -1,23 +1,38 @@
 ---
-title: "IISc (DoMS) Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to IISc (DoMS) Bangalore? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'IISc (DoMS) Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to IISc (DoMS) Bangalore? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "iisc (doms) bangalore review 2026"
-  - "iisc (doms) bangalore pgdm placements"
-  - "iisc (doms) bangalore admission cutoff"
-  - "iisc (doms) bangalore fees"
+  - iisc (doms) bangalore review 2026
+  - iisc (doms) bangalore pgdm placements
+  - iisc (doms) bangalore admission cutoff
+  - iisc (doms) bangalore fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is IISc (DoMS) Bangalore a good option for PGDM/MBA?"
+  - question: Is IISc (DoMS) Bangalore a good option for PGDM/MBA?
     answer: >-
-      Yes, IISc (DoMS) Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at IISc (DoMS) Bangalore?"
+      Yes, IISc (DoMS) Bangalore is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at IISc (DoMS) Bangalore?
     answer: >-
-      The average placement package at IISc (DoMS) Bangalore is approximately ₹28.0 LPA, with the highest package reaching up to ₹86.0 LPA.
-  - question: "What entrance exams are accepted by IISc (DoMS) Bangalore?"
+      The average placement package at IISc (DoMS) Bangalore is approximately
+      ₹28.0 LPA, with the highest package reaching up to ₹86.0 LPA.
+  - question: What entrance exams are accepted by IISc (DoMS) Bangalore?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, GATE for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, GATE for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [IISc (DoMS) Bangalore](/colleges/iisc-bangalore)**

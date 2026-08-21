@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Pursuing an engineering degree doesn't always have to break the bank. While many private universities in India charge anywhere between ₹10 Lakhs to ₹25 Lakhs for a 4-year B.Tech program, there are several prestigious **Government and State-run institutions** where you can complete your degree for **under ₹5 Lakhs (Total Fees)**.
 

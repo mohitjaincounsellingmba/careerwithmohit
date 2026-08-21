@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Shoolini University globally ranked?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
     answer: >-
       Yes, Shoolini accepts JEE Main, CUET, and its own SU-SAT scores for
       admission.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **Shoolini University of Biotechnology and Management Sciences**, located in the scenic hills of Solan (Himachal Pradesh), is one of India's most research-driven private universities. Established in 2009, it is accredited by **NAAC Grade 'A+'** and is globally recognized for its focus on innovation, research outputs, and high-tech engineering specializations.

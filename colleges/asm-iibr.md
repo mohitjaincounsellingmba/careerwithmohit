@@ -1,7 +1,7 @@
 ---
 name: ASM IIBR
 logo: ''
-location: 'Pimpri, Pune'
+location: Pune
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - ASM IIBR PGDM placement
   - ASM IIBR MBA admission 2027
   - 'MBA colleges Pimpri, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

@@ -1,23 +1,41 @@
 ---
-title: "Alliance University Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Alliance University Bangalore? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Alliance University Bangalore PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Alliance University Bangalore? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "alliance university bangalore review 2026"
-  - "alliance university bangalore pgdm placements"
-  - "alliance university bangalore admission cutoff"
-  - "alliance university bangalore fees"
+  - alliance university bangalore review 2026
+  - alliance university bangalore pgdm placements
+  - alliance university bangalore admission cutoff
+  - alliance university bangalore fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is Alliance University Bangalore a good option for PGDM/MBA?"
+  - question: Is Alliance University Bangalore a good option for PGDM/MBA?
     answer: >-
-      Yes, Alliance University Bangalore is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Alliance University Bangalore?"
+      Yes, Alliance University Bangalore is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Alliance University Bangalore?
     answer: >-
-      The average placement package at Alliance University Bangalore is approximately ₹10.5 LPA, with the highest package reaching up to ₹40.0 LPA.
-  - question: "What entrance exams are accepted by Alliance University Bangalore?"
+      The average placement package at Alliance University Bangalore is
+      approximately ₹10.5 LPA, with the highest package reaching up to ₹40.0
+      LPA.
+  - question: What entrance exams are accepted by Alliance University Bangalore?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, AMAT, MAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, AMAT, MAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [Alliance University Bangalore](/colleges/alliance-university-bangalore)**

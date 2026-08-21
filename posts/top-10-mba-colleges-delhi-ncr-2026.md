@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are there top MBA colleges in Delhi NCR that accept MAT/CMAT?
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       (for specific seats) and others may have profile-based or management quota
       admissions. Read our [Direct MBA Admission
       Guide](/blog/direct-mba-admission-india) for more details.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### [InquiryCard title="Targeting Delhi NCR B-Schools?" description="Confused between MDI, IMI, FORE, or LBSIM? Get a personalized preference list based on your CAT/XAT score and budget." cta="Get Delhi Admission Strategy" type="career"]

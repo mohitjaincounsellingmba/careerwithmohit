@@ -14,8 +14,14 @@ keywords:
   - Best Colleges in Roorkee
   - Top Universities in Uttarakhand
   - Direct Admission in Roorkee
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 category: Colleges
-location: Roorkee
+location: Dehradun
 faqs:
   - question: 'Is Quantum University, Roorkee a good choice for higher education in 2026?'
     answer: >-
@@ -34,6 +40,7 @@ faqs:
       Admissions for 2026 at Quantum University, Roorkee are conducted based on
       entrance exams such as Q-CARE, JEE Main, CAT, MAT, CUET, Merit-based,
       followed by counseling, personal interviews, or merit-based shortlisting.
+state: Uttarakhand
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **[Quantum University](/colleges/quantum-university-roorkee), Roorkee**, situated in **Roorkee**, stands out as one of the premier destinations for undergraduate and postgraduate education in Uttarakhand.

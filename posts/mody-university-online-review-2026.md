@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 **Mody University Online** has emerged as one of Rajasthan’s most specialized private institutions for empowered digital education. Originally a women-only university, Mody's online division brings that same academic rigor and security-focused heritage directly to you. With a prestigious **NAAC A+ accreditation**, Mody offers some of the most specialized online degrees in India for 2026.
 

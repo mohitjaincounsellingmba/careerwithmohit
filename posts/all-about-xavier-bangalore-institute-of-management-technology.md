@@ -1,23 +1,47 @@
 ---
-title: "Xavier Bangalore Institute of Management & Technology PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Bangalore Institute of Management & Technology? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Bangalore Institute of Management & Technology PGDM Admission Review
+  2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Xavier Bangalore Institute of Management &
+  Technology? Read our comprehensive PGDM review for 2026 covering total fees,
+  average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "xavier bangalore institute of management & technology review 2026"
-  - "xavier bangalore institute of management & technology pgdm placements"
-  - "xavier bangalore institute of management & technology admission cutoff"
-  - "xavier bangalore institute of management & technology fees"
+  - xavier bangalore institute of management & technology review 2026
+  - xavier bangalore institute of management & technology pgdm placements
+  - xavier bangalore institute of management & technology admission cutoff
+  - xavier bangalore institute of management & technology fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is Xavier Bangalore Institute of Management & Technology a good option for PGDM/MBA?"
+  - question: >-
+      Is Xavier Bangalore Institute of Management & Technology a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Xavier Bangalore Institute of Management & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Bangalore Institute of Management & Technology?"
+      Yes, Xavier Bangalore Institute of Management & Technology is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Xavier Bangalore Institute of
+      Management & Technology?
     answer: >-
-      The average placement package at Xavier Bangalore Institute of Management & Technology is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
-  - question: "What entrance exams are accepted by Xavier Bangalore Institute of Management & Technology?"
+      The average placement package at Xavier Bangalore Institute of Management
+      & Technology is approximately ₹7.1 LPA, with the highest package reaching
+      up to ₹24.5 LPA.
+  - question: >-
+      What entrance exams are accepted by Xavier Bangalore Institute of
+      Management & Technology?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [Xavier Bangalore Institute of Management & Technology](/colleges/xavier-bangalore-institute-of-management-technology)**

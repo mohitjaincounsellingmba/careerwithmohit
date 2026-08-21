@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 With a sprawling campus and a massive reputation in technical and management education, **[JECRC University](/colleges/jecrc-jaipur) Jaipur** has emerged as a preferred destination for MBA aspirants. The university is primarily known for its strong industry connections and a modern, skill-oriented curriculum.
 

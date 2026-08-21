@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 **Symbiosis Centre for Distance Learning (SCDL)** is a powerhouse in the Indian distance and online education landscape, based in the education hub of Pune. One of India's most respected private institutions for management training, SCDL's programs bring that same academic rigor and corporate heritage directly to you. With a prestigious **NAAC A++ accreditation** (through the Symbiosis Group) and full AICTE/UGC-DEB recognition, SCDL offers some of the most specialized online/distance degrees in India for 2026.
 

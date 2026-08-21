@@ -1,16 +1,39 @@
 ---
-title: "NMIMS School of Business Management, Mumbai Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at NMIMS School of Business Management, Mumbai. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["NMIMS School of Business Management, Mumbai executive mba","NMIMS School of Business Management, Mumbai executive mba review","NMIMS School of Business Management, Mumbai executive mba fees","NMIMS School of Business Management, Mumbai executive mba placement","Mumbai executive mba","best executive mba in Mumbai"]
-category: "MBA"
+title: 'NMIMS School of Business Management, Mumbai Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at NMIMS School of
+  Business Management, Mumbai. Learn about total fees, eligibility, accepted
+  entrance exams, average packages, pros, cons, and expert verdicts.
+keywords:
+  - 'NMIMS School of Business Management, Mumbai executive mba'
+  - 'NMIMS School of Business Management, Mumbai executive mba review'
+  - 'NMIMS School of Business Management, Mumbai executive mba fees'
+  - 'NMIMS School of Business Management, Mumbai executive mba placement'
+  - Mumbai executive mba
+  - best executive mba in Mumbai
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+category: MBA
 faqs:
-  - question: "Is the NMIMS Executive MBA AACSB accredited?"
-    answer: "Yes, NMIMS School of Business Management holds the prestigious AACSB accreditation."
-  - question: "What is the duration of the MBA WX program?"
-    answer: "The program spans 15 to 18 months, covering core management modules and specialized electives."
-  - question: "Are there placements?"
-    answer: "NMIMS provides active corporate career services to help candidates discover lateral senior openings."
+  - question: Is the NMIMS Executive MBA AACSB accredited?
+    answer: >-
+      Yes, NMIMS School of Business Management holds the prestigious AACSB
+      accreditation.
+  - question: What is the duration of the MBA WX program?
+    answer: >-
+      The program spans 15 to 18 months, covering core management modules and
+      specialized electives.
+  - question: Are there placements?
+    answer: >-
+      NMIMS provides active corporate career services to help candidates
+      discover lateral senior openings.
+location: Mumbai
+state: Maharashtra
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [NMIMS School of Business Management, Mumbai](/colleges/nmims-mumbai) represents a powerful gateway to higher senior leadership positions.

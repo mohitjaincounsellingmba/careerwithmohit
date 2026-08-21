@@ -18,6 +18,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Pursuing a Bachelor of Business Administration (BBA) does not have to drain your financial resources. While premium private institutions in Delhi NCR charge tuition fees ranging from ₹10 Lakhs to ₹15 Lakhs for the three-year course, several top-tier universities offer outstanding management education at an extremely affordable price point.
 

@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Christ Pune Lavasa good for MBA?
     answer: >-
@@ -32,7 +36,8 @@ faqs:
       roles.
   - question: What is the climate like at Pune Lavasa?
     answer: "Lush green hills with a mild climate, providing one of the most beautiful campus settings in India.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About the Remote Location?**\nWhile Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, we help you decide if the focused environment of Pune Lavasa is the right catalyst for your management career compared to the urban chaos of other campuses.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Pune Lavasa Campus** of Christ (Deemed to be University) is a unique "Hill Campus" focusing on specialized MBA and PhD programs, particularly in Business Analytics, HR, and Marketing. Known as a "Hub of Analytics," this campus offers the rigorous academic training of Christ in the scenic landscape of Lavasa City.

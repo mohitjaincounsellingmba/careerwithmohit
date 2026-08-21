@@ -1,16 +1,42 @@
 ---
-title: "Symbiosis Institute of Business Management (SIBM), Pune Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Symbiosis Institute of Business Management (SIBM), Pune. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Symbiosis Institute of Business Management (SIBM), Pune executive mba","Symbiosis Institute of Business Management (SIBM), Pune executive mba review","Symbiosis Institute of Business Management (SIBM), Pune executive mba fees","Symbiosis Institute of Business Management (SIBM), Pune executive mba placement","Pune executive mba","best executive mba in Pune"]
-category: "MBA"
+title: 'Symbiosis Institute of Business Management (SIBM), Pune Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Symbiosis
+  Institute of Business Management (SIBM), Pune. Learn about total fees,
+  eligibility, accepted entrance exams, average packages, pros, cons, and expert
+  verdicts.
+keywords:
+  - 'Symbiosis Institute of Business Management (SIBM), Pune executive mba'
+  - 'Symbiosis Institute of Business Management (SIBM), Pune executive mba review'
+  - 'Symbiosis Institute of Business Management (SIBM), Pune executive mba fees'
+  - >-
+    Symbiosis Institute of Business Management (SIBM), Pune executive mba
+    placement
+  - Pune executive mba
+  - best executive mba in Pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+category: MBA
 faqs:
-  - question: "Do executive students get campus hostel facilities?"
-    answer: "Hostel accommodation is typically not provided on weekends, but candidates have access to guest house facilities on a paid basis."
-  - question: "What are the class timings for SIBM Pune Executive MBA?"
-    answer: "Classes are held on Saturdays (late afternoon) and Sundays (full day) at the SIBM Lavale Campus."
-  - question: "Is SNAP required for SIBM Executive MBA?"
-    answer: "No, SNAP is not mandatory. SIBM conducts its own entrance test and interview process for executive admissions."
+  - question: Do executive students get campus hostel facilities?
+    answer: >-
+      Hostel accommodation is typically not provided on weekends, but candidates
+      have access to guest house facilities on a paid basis.
+  - question: What are the class timings for SIBM Pune Executive MBA?
+    answer: >-
+      Classes are held on Saturdays (late afternoon) and Sundays (full day) at
+      the SIBM Lavale Campus.
+  - question: Is SNAP required for SIBM Executive MBA?
+    answer: >-
+      No, SNAP is not mandatory. SIBM conducts its own entrance test and
+      interview process for executive admissions.
+location: Pune
+state: Maharashtra
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Pune, the Executive MBA / Executive PGDM offered by [Symbiosis Institute of Business Management (SIBM), Pune](/colleges/sibm-pune) represents a powerful gateway to higher senior leadership positions.

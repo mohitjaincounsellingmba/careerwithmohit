@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does JNU require Maths for MCA?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       Usually held in **June**. Registrations typically open in February or
       March of 2026.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 With the rapid expansion of the digital economy and the surge in AI-driven roles, a **Master of Computer Applications (MCA)** has become one of the most valuable degrees in India. Delhi NCR, being a massive tech hub, remains the preferred destination for MCA aspirants due to its proximity to the IT clusters in Noida, Gurgaon, and Delhi.

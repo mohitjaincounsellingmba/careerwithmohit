@@ -15,6 +15,12 @@ keywords:
   - bca admission mumbai 2026
   - sndt university bca fees
   - direct bca admission mumbai
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: Does NMIMS require Maths for BCA?
     answer: >-
@@ -34,6 +40,8 @@ faqs:
     answer: >-
       Usually in **June**, immediately after the Maharashtra Board (HSC) and
       CBSE results are out.
+location: Mumbai
+state: Maharashtra
 ---
 
 Mumbai, the "Financial Capital of India," is a sleeper hit for BCA (Bachelor of Computer Applications) students. While often overshadowed by the city's Finance and Media fame, Mumbai's IT sector is massive, with BKC (Bandra Kurla Complex) and Navi Mumbai acting as hubs for Fintech, E-commerce, and Software Consulting.

@@ -1,7 +1,7 @@
 ---
 name: Ramaiah University of Applied Sciences
 logo: ''
-location: Bengaluru
+location: Bangalore
 category: Engineering
 type: University
 courses:
@@ -40,6 +40,13 @@ keywords:
   - Ramaiah University of Applied Sciences CSE placement
   - Ramaiah University of Applied Sciences B.Tech admission 2027
   - engineering colleges Bengaluru
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

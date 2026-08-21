@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does IMT Ghaziabad has a management quota?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
     answer: >-
       For the regular PGDM, CAT or XAT is mandatory. For NRI candidates, GMAT is
       accepted.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Institute of Management Technology (IMT) Ghaziabad is a premier B-school in India, especially recognized for its excellence in **Marketing**. Known for its massive alumni network and industry-aligned pedagogy, it is a top destination for PGDM aspirants. For the 2026-28 batch, **Direct Admission in IMT Ghaziabad** is a structured path through institutional and NRI categories.

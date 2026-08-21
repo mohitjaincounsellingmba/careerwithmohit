@@ -17,8 +17,14 @@ keywords:
   - Best Colleges in Coimbatore (Peelamedu)
   - 'Top Universities in Coimbatore, South India'
   - Direct Admission in Coimbatore (Peelamedu)
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 category: Colleges
-location: Coimbatore (Peelamedu)
+location: Chennai
 faqs:
   - question: >-
       Is PSG College of Technology / PSG Institute of Management, Coimbatore a
@@ -46,6 +52,7 @@ faqs:
       Management, Coimbatore are conducted based on entrance exams such as
       TANCET, CAT, MAT, ATMA, TNEA (for Engineering), followed by counseling,
       personal interviews, or merit-based shortlisting.
+state: Tamil Nadu
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **PSG College of Technology / PSG Institute of Management, Coimbatore**, situated in **Coimbatore (Peelamedu)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Coimbatore, South India.

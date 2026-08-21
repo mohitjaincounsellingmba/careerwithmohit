@@ -19,6 +19,12 @@ keywords:
   - JBIMS cutoff 2026
   - SIMSREE cutoff 2026
   - mhcet mba cap counselling 2026
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: When was the Maharashtra MBA CET 2026 Result declared?
     answer: >-
@@ -49,6 +55,8 @@ faqs:
       Maharashtra State (MS) candidates have access to **85% of seats**, while
       OMS (Outside Maharashtra State) candidates compete for the remaining **15%
       seats**, which requires significantly higher percentiles.
+location: Mumbai
+state: Maharashtra
 ---
 
 **Breaking:** The **Maharashtra MBA CET 2026 Result** has been officially declared on **May 30, 2026** by the State Common Entrance Test Cell, Maharashtra. All candidates who appeared in the MAH MBA/MMS CET 2026 (Phase 1 and Phase 2) can now download their scorecards from the official portal.

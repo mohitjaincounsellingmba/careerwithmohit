@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       Is MERI Janakpuri (Management Education and Research Institute) a good
@@ -44,7 +48,8 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including IPU CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: [MERI Janakpuri (Management Education and Research Institute)](/colleges/meri-delhi)**

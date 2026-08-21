@@ -1,23 +1,38 @@
 ---
-title: "Presidency University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Presidency University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Presidency University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Presidency University? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "presidency university review 2026"
-  - "presidency university pgdm placements"
-  - "presidency university admission cutoff"
-  - "presidency university fees"
+  - presidency university review 2026
+  - presidency university pgdm placements
+  - presidency university admission cutoff
+  - presidency university fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is Presidency University a good option for PGDM/MBA?"
+  - question: Is Presidency University a good option for PGDM/MBA?
     answer: >-
-      Yes, Presidency University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Presidency University?"
+      Yes, Presidency University is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at Presidency University?
     answer: >-
-      The average placement package at Presidency University is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.1 LPA.
-  - question: "What entrance exams are accepted by Presidency University?"
+      The average placement package at Presidency University is approximately
+      ₹6.3 LPA, with the highest package reaching up to ₹14.1 LPA.
+  - question: What entrance exams are accepted by Presidency University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [Presidency University](/colleges/presidency-university)**

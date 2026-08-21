@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Are you looking for a high-impact role in the industry? **Talknlock** is hiring a **Social Media Strategist** for their **Jaipur, RJ** team. This is a premium opportunity with a verified referral link to fast-track your application.
 

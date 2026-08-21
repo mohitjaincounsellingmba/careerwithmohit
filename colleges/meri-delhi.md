@@ -1,7 +1,7 @@
 ---
 name: MERI Janakpuri (Management Education and Research Institute)
 logo: /colleges/meri-logo.webp
-location: 'Janakpuri, Delhi'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -54,6 +54,13 @@ keywords:
     MERI Janakpuri (Management Education and Research Institute) MBA admission
     2027
   - 'MBA colleges Janakpuri, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

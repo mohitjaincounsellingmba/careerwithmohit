@@ -19,6 +19,12 @@ keywords:
   - free mock test 2026
   - online exam preparation
   - practice paper online
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -33,7 +39,8 @@ faqs:
     answer: >-
       No, to simulate real exam conditions, the timer runs continuously. We
       recommend attempting the test in a single sitting without interruptions.
-location: India
+location: Pune
+state: Maharashtra
 ---
 # Free SNAP Mock Test 2026: 60-Question Speed CBT Simulation with [SIBM Pune](/colleges/sibm-pune) Cutoff Predictor
 

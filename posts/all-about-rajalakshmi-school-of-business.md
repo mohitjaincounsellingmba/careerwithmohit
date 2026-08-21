@@ -1,23 +1,40 @@
 ---
-title: "Rajalakshmi School of Business PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Rajalakshmi School of Business? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Rajalakshmi School of Business PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Rajalakshmi School of Business? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "rajalakshmi school of business review 2026"
-  - "rajalakshmi school of business pgdm placements"
-  - "rajalakshmi school of business admission cutoff"
-  - "rajalakshmi school of business fees"
+  - rajalakshmi school of business review 2026
+  - rajalakshmi school of business pgdm placements
+  - rajalakshmi school of business admission cutoff
+  - rajalakshmi school of business fees
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "Is Rajalakshmi School of Business a good option for PGDM/MBA?"
+  - question: Is Rajalakshmi School of Business a good option for PGDM/MBA?
     answer: >-
-      Yes, Rajalakshmi School of Business is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Rajalakshmi School of Business?"
+      Yes, Rajalakshmi School of Business is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Rajalakshmi School of Business?
     answer: >-
-      The average placement package at Rajalakshmi School of Business is approximately ₹5.1 LPA, with the highest package reaching up to ₹11.9 LPA.
-  - question: "What entrance exams are accepted by Rajalakshmi School of Business?"
+      The average placement package at Rajalakshmi School of Business is
+      approximately ₹5.1 LPA, with the highest package reaching up to ₹11.9 LPA.
+  - question: What entrance exams are accepted by Rajalakshmi School of Business?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### **College Review: [Rajalakshmi School of Business](/colleges/rajalakshmi-school-of-business)**

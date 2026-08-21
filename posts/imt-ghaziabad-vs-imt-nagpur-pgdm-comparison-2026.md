@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is IMT Nagpur placements centralized with Ghaziabad?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
       percentile score.
   - question: Which is better for Marketing?
     answer: "IMT Ghaziabad is often called the \"Marketing Mecca\" of North India. It is significantly better for FMCG and heavy-duty marketing roles.\n\n[\U0001F449 Compare IMT with IMI and other Top B-Schools!](/tools/college-comparison)\n\n**Not sure if your score is enough?**\nAt **CareerWithMohit**, we help you decide between Ghaziabad's prestige and Nagpur's ROI based on your specific profile.\n\n[\U0001F449 Start Your MBA Admission Journey Now!](/inquiry)"
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Institute of Management Technology (IMT)** is one of India’s most recognized management brands. However, there is often a huge gap between its flagship campus in **Ghaziabad** and its second-largest campus in **Nagpur**. For a 2026 aspirant, understanding this gap is the difference between a high-stress topper environment and a balanced, high-ROI career path.

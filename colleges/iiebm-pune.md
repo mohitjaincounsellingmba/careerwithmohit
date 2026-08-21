@@ -1,7 +1,7 @@
 ---
 name: IIEBM (Indus Business School)
 logo: ''
-location: 'Wakad, Pune'
+location: Pune
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - IIEBM (Indus Business School) PGDM placement
   - IIEBM (Indus Business School) MBA admission 2027
   - 'MBA colleges Wakad, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

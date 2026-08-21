@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How to check MAT CBT scorecard online?
     answer: >-
@@ -47,7 +51,8 @@ faqs:
     answer: >-
       Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT
       scores interchangeably.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **MAT May 2026 Computer-Based Test (CBT)** is scheduled for **June 14, 2026** at designated test centres across India. If you have registered for the CBT mode — or have already appeared — this guide tells you exactly when to expect your result, how to download your scorecard, and how to use your CBT score for MBA admissions in 2026.

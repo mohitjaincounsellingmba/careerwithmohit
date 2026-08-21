@@ -10,6 +10,12 @@ keywords:
   - MIMT Kota placement
   - MBA in Kota Rajasthan
   - Modi Institute admission 2026
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: What is the fee structure at Modi Institute Kota for MBA?
     answer: >-
@@ -24,6 +30,8 @@ faqs:
     answer: >-
       They primarily accept **CMAT** and **RMAP** rankings. Candidates with MAT
       and other entrance scores can also apply for institutional-level seats.
+location: Jaipur
+state: Rajasthan
 ---
 
 ### 📊 Modi Institute (MIMT) Kota 2026 Snapshot

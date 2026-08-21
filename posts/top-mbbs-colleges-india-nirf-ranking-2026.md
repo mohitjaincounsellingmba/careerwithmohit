@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: is AFMC Pune better than AIIMS?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
     answer: >-
       Usually held on the **first Sunday of May**. Registrations typically open
       in January.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Pursuing an MBBS in India is the dream of millions, but only a fraction of students secure a seat in the country's elite medical institutions. In 2026, with the competition for NEET-UG reaching record levels, choosing the right college based on its hospital exposure, faculty research, and alumni record is crucial for a successful medical residency (PG) later.

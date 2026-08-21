@@ -1,23 +1,38 @@
 ---
-title: "Techno India Group PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Techno India Group? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Techno India Group PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Techno India Group? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "techno india group review 2026"
-  - "techno india group pgdm placements"
-  - "techno india group admission cutoff"
-  - "techno india group fees"
+  - techno india group review 2026
+  - techno india group pgdm placements
+  - techno india group admission cutoff
+  - techno india group fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is Techno India Group a good option for PGDM/MBA?"
+  - question: Is Techno India Group a good option for PGDM/MBA?
     answer: >-
-      Yes, Techno India Group is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Techno India Group?"
+      Yes, Techno India Group is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at Techno India Group?
     answer: >-
-      The average placement package at Techno India Group is approximately ₹5.6 LPA, with the highest package reaching up to ₹13.6 LPA.
-  - question: "What entrance exams are accepted by Techno India Group?"
+      The average placement package at Techno India Group is approximately ₹5.6
+      LPA, with the highest package reaching up to ₹13.6 LPA.
+  - question: What entrance exams are accepted by Techno India Group?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [Techno India Group](/colleges/techno-india-group)**

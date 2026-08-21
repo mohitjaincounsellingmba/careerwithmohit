@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which are the best NMAT accepting colleges for students in Agartala?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       A safe cut-off score for the MBA Core program at NMIMS Mumbai is typically
       around 230-235+ marks, along with balanced sectional cut-offs in Language
       Skills, Logical Reasoning, and Quantitative Skills.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 If you are planning to target prestigious campuses like **[NMIMS Mumbai](/colleges/nmims-mumbai)**, Bengaluru, or Hyderabad for the **2027-28 MBA session**, the **NMAT by GMAC 2026** is a crucial exam to crack. Designed as a student-friendly adaptive test, NMAT provides candidates with multiple attempts and slot flexibility.

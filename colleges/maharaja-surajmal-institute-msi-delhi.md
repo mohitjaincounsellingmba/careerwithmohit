@@ -1,7 +1,7 @@
 ---
 name: Maharaja Surajmal Institute (MSI)
 logo: 'https://images.shiksha.com/mediadata/images/1544766848phpv00YvT.jpeg'
-location: 'Janakpuri, Delhi (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Maharaja Surajmal Institute (MSI) mohit jain review
   - Maharaja Surajmal Institute (MSI) hostel fees
   - Maharaja Surajmal Institute (MSI) contact number
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 Maharaja Surajmal Institute (MSI) is a self-financing institute affiliated with Guru Gobind Singh Indraprastha University (GGSIPU). It consistently ranks among the top colleges in Delhi NCR for BBA and BCA, offering high ROI and excellent campus placement opportunities.

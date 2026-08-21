@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: When did the XAT 2027 application form open?
     answer: 'The XAT 2027 application form officially opened on **July 15, 2026**.'
@@ -35,7 +39,8 @@ faqs:
       The registration fee for XAT 2027 is **₹2,300**. If you wish to apply for
       XLRI programs directly through the portal, an additional fee of **₹200 per
       program** is applicable.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Xavier Aptitude Test (XAT) is one of the oldest and most prestigious national-level management entrance tests in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur) on behalf of the Xavier Association of Management Institutes (XAMI), XAT is the primary gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur) & Delhi-NCR, XIMB, IMT Ghaziabad, GIM Goa, TAPMI Manipal, and over 160 other elite business schools.

@@ -24,8 +24,12 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: Colleges
-location: Delhi
+location: Delhi NCR
 faqs:
   - question: >-
       Is Suresh Gyan Vihar University (SGVU), Jaipur a good choice for higher
@@ -51,6 +55,7 @@ faqs:
       conducted based on entrance exams such as SGVUEE, JEE Main, CUET, CAT,
       MAT, Merit-based, followed by counseling, personal interviews, or
       merit-based shortlisting.
+state: Delhi NCR
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Suresh Gyan Vihar University (SGVU), Jaipur**, situated in **Jaipur**, stands out as one of the premier destinations for undergraduate and postgraduate education in Jaipur.

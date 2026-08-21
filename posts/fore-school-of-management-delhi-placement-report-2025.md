@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What was the average and highest CTC at FORE School of Management in 2025?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
     answer: >-
       The CAT, XAT, and GMAT cutoffs for FORE School of Management typically
       range between 82 and 86 percentile for General applicants.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Strategically located in South Delhi’s corporate hub (Qutub Institutional Area), the **Foundation for Organisational Research and Education (FORE) School of Management** is one of North India’s most consistent management institutes.

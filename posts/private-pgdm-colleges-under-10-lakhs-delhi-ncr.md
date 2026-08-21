@@ -33,6 +33,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are these colleges AICTE approved?
     answer: >-
@@ -49,7 +53,8 @@ faqs:
       In most cases, the ₹7–10 Lakhs range covers only the tuition and academic
       fees. Hostel charges are usually extra, ranging from ₹1.2 to ₹1.8 Lakhs
       per year depending on the type of accommodation.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 A Post Graduate Diploma in Management (PGDM) is notoriously more expensive than a traditional university-affiliated MBA. Because autonomous B-schools frequently update their industry-relevant curriculums and bring in corporate practitioners, the cost of a premium PGDM in Delhi NCR rapidly crosses ₹15 to ₹20 Lakhs.

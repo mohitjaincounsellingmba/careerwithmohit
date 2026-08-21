@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which Indian engineering college has the best overall placements?
     answer: >-
@@ -50,7 +54,8 @@ faqs:
       Yes — but with caveats. VIT places ~70% of its 10,000 students. The
       average is ₹7–10 LPA. For mass IT companies, placement is near-certain.
       For product companies (Google, Amazon direct), competition is intense.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 When choosing a B.Tech college, placement records are often the decisive factor. But placement data can be misleading — "100% placement" from a pool campus of 5 students is very different from 2,000 students placed averaging ₹12 LPA.

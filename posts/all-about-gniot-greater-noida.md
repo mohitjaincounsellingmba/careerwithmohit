@@ -17,6 +17,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is GNIOT good for PGDM?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
       With fees around ₹9 Lakhs and an average package between ₹7–8 LPA,
       students typically recover their investment within 1.5 to 2 years of
       employment.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: GNIOT Greater Noida**

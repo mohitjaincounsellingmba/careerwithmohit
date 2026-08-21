@@ -1,7 +1,7 @@
 ---
 name: Sharda School of Business Studies
 logo: ''
-location: 'Greater Noida, Uttar Pradesh (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: Institute
 courses:
@@ -45,6 +45,13 @@ keywords:
   - Sharda School of Business Studies mohit jain review
   - Sharda School of Business Studies hostel fees
   - Sharda School of Business Studies contact number
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 Sharda School of Business is known for its diverse student body and focus on entrepreneurship, making it a dynamic place for management studies.

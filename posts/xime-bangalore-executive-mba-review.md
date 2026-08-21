@@ -1,16 +1,48 @@
 ---
-title: "Xavier Institute of Management and Entrepreneurship (XIME), Bangalore Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Xavier Institute of Management and Entrepreneurship (XIME), Bangalore. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Xavier Institute of Management and Entrepreneurship (XIME), Bangalore executive mba","Xavier Institute of Management and Entrepreneurship (XIME), Bangalore executive mba review","Xavier Institute of Management and Entrepreneurship (XIME), Bangalore executive mba fees","Xavier Institute of Management and Entrepreneurship (XIME), Bangalore executive mba placement","Bangalore executive mba","best executive mba in Bangalore"]
-category: "MBA"
+title: >-
+  Xavier Institute of Management and Entrepreneurship (XIME), Bangalore
+  Executive MBA Review
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Xavier Institute
+  of Management and Entrepreneurship (XIME), Bangalore. Learn about total fees,
+  eligibility, accepted entrance exams, average packages, pros, cons, and expert
+  verdicts.
+keywords:
+  - >-
+    Xavier Institute of Management and Entrepreneurship (XIME), Bangalore
+    executive mba
+  - >-
+    Xavier Institute of Management and Entrepreneurship (XIME), Bangalore
+    executive mba review
+  - >-
+    Xavier Institute of Management and Entrepreneurship (XIME), Bangalore
+    executive mba fees
+  - >-
+    Xavier Institute of Management and Entrepreneurship (XIME), Bangalore
+    executive mba placement
+  - Bangalore executive mba
+  - best executive mba in Bangalore
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+category: MBA
 faqs:
-  - question: "Is the Executive PGDM at XIME Bangalore AICTE approved?"
-    answer: "Yes, it is fully approved by AICTE as an executive PGDM program."
-  - question: "What is the minimum work experience required?"
-    answer: "Candidates must possess at least 5 years of post-qualification corporate or entrepreneurial experience."
-  - question: "Which specializations are available?"
-    answer: "Specializations include Finance, Marketing, HR, Information Technology, and Operations."
+  - question: Is the Executive PGDM at XIME Bangalore AICTE approved?
+    answer: 'Yes, it is fully approved by AICTE as an executive PGDM program.'
+  - question: What is the minimum work experience required?
+    answer: >-
+      Candidates must possess at least 5 years of post-qualification corporate
+      or entrepreneurial experience.
+  - question: Which specializations are available?
+    answer: >-
+      Specializations include Finance, Marketing, HR, Information Technology,
+      and Operations.
+location: Bangalore
+state: Karnataka
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Bangalore, the Executive MBA / Executive PGDM offered by [Xavier Institute of Management and Entrepreneurship (XIME), Bangalore](/colleges/xime-bangalore) represents a powerful gateway to higher senior leadership positions.

@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How is the MAT composite score out of 800 calculated?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
       **A.** Yes, the MAT scorecard remains valid for 12 months from the date of
       declaration, allowing you to apply for multiple admission intakes within
       that timeframe.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **MAT May 2026 session** exams are officially concluded. With the Paper-Based Test (PBT) held on May 31, 2026, and the Computer-Based Test (CBT) finished on June 14, 2026, thousands of MBA aspirants are now eager to perform their **MAT May 2026 result check**. 

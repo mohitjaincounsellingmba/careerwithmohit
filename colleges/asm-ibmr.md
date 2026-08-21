@@ -1,7 +1,7 @@
 ---
 name: ASM IBMR
 logo: ''
-location: 'Chinchwad, Pune'
+location: Pune
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - ASM IBMR PGDM placement
   - ASM IBMR MBA admission 2027
   - 'MBA colleges Chinchwad, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

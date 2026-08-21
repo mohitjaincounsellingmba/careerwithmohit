@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Is JSS Noida MBA degree recognized?
@@ -34,7 +38,8 @@ faqs:
     answer: >-
       Admissions are made based on CUET PG or the university's counselling
       guidelines for working candidates.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Noida, the Executive MBA / Executive PGDM offered by [JSS Academy of Technical Education, Noida](/colleges/jssate-noida) represents a powerful gateway to higher senior leadership positions.

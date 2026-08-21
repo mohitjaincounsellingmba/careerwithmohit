@@ -1,7 +1,7 @@
 ---
 name: 'Amrita School of Engineering, Coimbatore'
 logo: /colleges/default-engineering-logo.webp
-location: Coimbatore
+location: Chennai
 category: Engineering
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - 'Amrita School of Engineering, Coimbatore CSE placement'
   - 'Amrita School of Engineering, Coimbatore B.Tech admission 2027'
   - engineering colleges Coimbatore
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### About Amrita School of Engineering, Coimbatore

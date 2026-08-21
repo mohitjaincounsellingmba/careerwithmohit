@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does IIM Rohtak take admission through IPMAT Indore scores?
     answer: >-
@@ -28,7 +32,8 @@ faqs:
       typically accept Indore scores for its primary intake.
   - question: What is the intake capacity for IPM 2026?
     answer: The intake is approximately 180 students for the 2026 batch.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 IIM Rohtak is the second IIM to offer the prestigious Integrated Programme in Management (IPM). Located in the National Capital Region (NCR), it provides students with a unique advantage of being close to India's corporate and political hub. In 2026, it is a top-tier destination for management aspirants.

@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: When is the CUET PG 2026 result date?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
     answer: >-
       No, candidates must download the digital scorecard from the portal. No
       physical copies will be sent by post.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Common University Entrance Test (CUET) PG 2026 has concluded, and the wait for the results is often the most stressful period for students. Whether you are aiming for Delhi University, BHU, or TISS, your CUET PG scorecard will determine your seat in the 2026 academic session.

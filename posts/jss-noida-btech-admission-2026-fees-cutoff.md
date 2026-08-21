@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is JSS Noida better than JIIT?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       Yes, being an AKTU affiliate, JSS follows the 75% attendance rule
       strictly.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)** in Noida is widely considered the #1 engineering college affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU). Located in Sector 62, Noida, JSS is a premium destination for AKTU aspirants, known for its academic heritage, high-quality faculty, and spectacular results in the university rank lists.

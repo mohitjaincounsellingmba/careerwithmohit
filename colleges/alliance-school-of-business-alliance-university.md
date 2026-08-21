@@ -1,7 +1,7 @@
 ---
 name: 'Alliance School of Business , Alliance University'
 logo: ''
-location: Bengaluru
+location: Bangalore
 category: Management
 type: University
 courses:
@@ -44,6 +44,13 @@ keywords:
   - 'Alliance School of Business , Alliance University PGDM placement'
   - 'Alliance School of Business , Alliance University MBA admission 2027'
   - MBA colleges Bengaluru
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

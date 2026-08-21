@@ -44,6 +44,13 @@ keywords:
   - Christ University - School of Business and Management PGDM placement
   - Christ University - School of Business and Management MBA admission 2027
   - MBA colleges Pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

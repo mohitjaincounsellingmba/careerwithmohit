@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is GD Goenka a good college for B.Tech?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
     answer: >-
       GATA is the university's entrance test used for merit selection and
       scholarship allocation.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[GD Goenka University](/colleges/gd-goenka-university) (GDGU)**, located in the corporate hub of Gurugram (Sohna Road), is a premier multidisciplinary private university. Accredited with **NAAC Grade 'A+'**, it is recognized for its industry-integrated engineering programs and specialized tracks in AI, Machine Learning, and Robotics.

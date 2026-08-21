@@ -13,6 +13,12 @@ keywords:
   - best SAP MBA colleges Pune
   - IIEBM Indus Business School review
   - ISB&M Nande vs IIEBM Wakad
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -28,6 +34,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Pune
+state: Maharashtra
 ---
 When choosing a PGDM college in Pune, two names often spark a debate: **[IIEBM (Indus Business School)](/colleges/iiebm-pune)** and **ISB&M ([International School of Business & Media](/colleges/international-school-of-business-media))**. While both institutions have carved a niche in the Pune education hub, your choice depends heavily on your career goal.
 

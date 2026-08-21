@@ -1,9 +1,12 @@
 ---
 title: >-
-  BITSoM Mumbai MBA Placement Report 2025: Audited Average CTC ₹21.00 LPA, Median ₹20.52 LPA & Top Recruiters
+  BITSoM Mumbai MBA Placement Report 2025: Audited Average CTC ₹21.00 LPA,
+  Median ₹20.52 LPA & Top Recruiters
 date: '2026-08-15'
 description: >-
-  Detailed BITSoM Mumbai MBA Placement Report 2025. Explore audited average package of ₹21.00 LPA, median of ₹20.52 LPA, highest package of ₹32.50 LPA & top consulting firms.
+  Detailed BITSoM Mumbai MBA Placement Report 2025. Explore audited average
+  package of ₹21.00 LPA, median of ₹20.52 LPA, highest package of ₹32.50 LPA &
+  top consulting firms.
 keywords:
   - bitsom mumbai mba placement report 2025
   - bitsom average package 2025
@@ -11,16 +14,29 @@ keywords:
   - bitsom cat gmat cutoff
   - bitsom fees vs placements
   - new age b schools india
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What was the average and median package at BITSoM in 2025?
     answer: >-
-      In its audited placement report (audited by Brickwork Analytics), BITS School of Management (BITSoM), Mumbai recorded an average CTC of INR 21.00 LPA, a median CTC of INR 20.52 LPA, and a highest CTC of INR 32.50 LPA.
+      In its audited placement report (audited by Brickwork Analytics), BITS
+      School of Management (BITSoM), Mumbai recorded an average CTC of INR 21.00
+      LPA, a median CTC of INR 20.52 LPA, and a highest CTC of INR 32.50 LPA.
   - question: Which global faculty teach at BITSoM Mumbai?
     answer: >-
-      BITSoM features visiting faculty from the world's leading business schools including Wharton, Kellogg, NYU Stern, London Business School (LBS), and Cornell University.
+      BITSoM features visiting faculty from the world's leading business schools
+      including Wharton, Kellogg, NYU Stern, London Business School (LBS), and
+      Cornell University.
   - question: What entrance exams are accepted by BITSoM?
     answer: >-
-      BITSoM accepts CAT, GMAT, and GRE scores alongside a holistic evaluation of extracurriculars, leadership potential, and essays.
+      BITSoM accepts CAT, GMAT, and GRE scores alongside a holistic evaluation
+      of extracurriculars, leadership potential, and essays.
+location: Mumbai
+state: Maharashtra
 ---
 
 Backed by the 60-year legacy of [BITS Pilani](/colleges/bits-pilani) and the Aditya Birla Group, the **BITS School of Management (BITSoM), Mumbai** has rapidly emerged as India's most successful new-age business school.

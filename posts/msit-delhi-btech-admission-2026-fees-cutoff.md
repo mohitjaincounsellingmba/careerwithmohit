@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How is the metro connectivity for MSIT?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
     answer: >-
       MSIT maintains a decent academic environment, and while there isn't a
       strict uniform, students are expected to follow basic campus decorum.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **Maharaja Surajmal Institute of Technology (MSIT)** is a top-ranked engineering college in Delhi, affiliated with Guru Gobind Singh Indraprastha University (GGSIPU). Located in Janakpuri (West Delhi), MSIT is known for its academic discipline, high faculty standards, and excellent connectivity to the Delhi Metro.

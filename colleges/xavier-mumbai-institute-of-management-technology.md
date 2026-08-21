@@ -1,7 +1,7 @@
 ---
 name: Xavier Mumbai Institute of Management & Technology
 logo: /colleges/default-management-logo.webp
-location: 'Mumbai, India'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Xavier Mumbai Institute of Management & Technology PGDM placement
   - Xavier Mumbai Institute of Management & Technology MBA admission 2027
   - 'MBA colleges Mumbai, India'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### About Xavier Mumbai Institute of Management & Technology

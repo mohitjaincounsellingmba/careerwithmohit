@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 India has **56 Central Universities** established by Acts of Parliament and funded by the Ministry of Education (or other central ministries). These universities are regulated by the **University Grants Commission (UGC)** and offer some of the most affordable, high-quality education in the country.
 

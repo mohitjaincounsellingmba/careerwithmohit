@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Do I need a counsellor for MBA admission?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       CAT for IIMs and top B-schools, CMAT for private college admissions, and
       MAT as a backup. Most students benefit from appearing in 2-3 exams to
       maximize options.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 MBA Admission Counselling is not just about picking a college — it's about building the right career strategy. Whether you scored 95 percentile in CAT or 70 percentile in CMAT, knowing how to navigate the admission process can be the difference between landing your dream B-school and wasting two years at a low-ROI college.

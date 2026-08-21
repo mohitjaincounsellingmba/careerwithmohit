@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are low-fee colleges inferior in infrastructure?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       NO. Government ROI colleges (FMS, JBIMS, PUMBA) have no management quota.
       Admission is strictly through national/state entrance tests.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 In a world where IIMs are crossing the ₹25 Lakhs fee mark, many students are asking: **"Can I get a top-tier MBA without a lifetime of debt?"** 

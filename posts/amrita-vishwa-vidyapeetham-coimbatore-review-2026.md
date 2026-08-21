@@ -17,8 +17,14 @@ keywords:
   - Best Colleges in Coimbatore (Ettimadai)
   - 'Top Universities in Coimbatore, South India'
   - Direct Admission in Coimbatore (Ettimadai)
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 category: Colleges
-location: Coimbatore (Ettimadai)
+location: Chennai
 faqs:
   - question: >-
       Is Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore a
@@ -46,6 +52,7 @@ faqs:
       Business), Coimbatore are conducted based on entrance exams such as AEEE
       (B.Tech), CAT, XAT, MAT, CMAT, NMAT, ACAT (MBA), followed by counseling,
       personal interviews, or merit-based shortlisting.
+state: Tamil Nadu
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Amrita Vishwa Vidyapeetham ([Amrita School of Business](/colleges/amrita-school-of-business)), Coimbatore**, situated in **Coimbatore (Ettimadai)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Coimbatore, South India.

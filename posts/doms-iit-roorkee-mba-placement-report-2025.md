@@ -1,9 +1,12 @@
 ---
 title: >-
-  DoMS, IIT Roorkee MBA Placement Report 2025: Average Package ₹17.91 LPA, Median ₹17.64 LPA & 100% Placements
+  DoMS, IIT Roorkee MBA Placement Report 2025: Average Package ₹17.91 LPA,
+  Median ₹17.64 LPA & 100% Placements
 date: '2026-08-15'
 description: >-
-  Detailed DoMS IIT Roorkee MBA Placement Report 2025. Explore average CTC of ₹17.91 LPA, median of ₹17.64 LPA, highest package of ₹24 LPA, top recruiters & ROI.
+  Detailed DoMS IIT Roorkee MBA Placement Report 2025. Explore average CTC of
+  ₹17.91 LPA, median of ₹17.64 LPA, highest package of ₹24 LPA, top recruiters &
+  ROI.
 keywords:
   - doms iit roorkee mba placement report 2025
   - doms iit roorkee average package 2025
@@ -11,16 +14,28 @@ keywords:
   - iit roorkee mba cat cutoff
   - doms iit roorkee fees vs placements
   - mba admission 2026
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
   - question: What was the average and median salary for MBA at IIT Roorkee in 2025?
     answer: >-
-      For the 2025 batch, the Department of Management Studies (DoMS) at IIT Roorkee recorded an average package of INR 17.91 LPA and a strong median package of INR 17.64 LPA, achieving 100% placement.
+      For the 2025 batch, the Department of Management Studies (DoMS) at IIT
+      Roorkee recorded an average package of INR 17.91 LPA and a strong median
+      package of INR 17.64 LPA, achieving 100% placement.
   - question: What is the highest package at DoMS IIT Roorkee in 2025?
     answer: >-
-      The highest CTC recorded at DoMS IIT Roorkee in the 2025 placement season stood at INR 24.00 LPA.
+      The highest CTC recorded at DoMS IIT Roorkee in the 2025 placement season
+      stood at INR 24.00 LPA.
   - question: Who are the top corporate recruiters at IIT Roorkee MBA?
     answer: >-
-      Recruiters included Accenture, Deloitte, Cognizant, Adani, GAIL, ICICI Bank, Tata Steel, and Infosys.
+      Recruiters included Accenture, Deloitte, Cognizant, Adani, GAIL, ICICI
+      Bank, Tata Steel, and Infosys.
+location: Dehradun
+state: Uttarakhand
 ---
 
 The **Department of Management Studies (DoMS) at IIT Roorkee** is one of India's top-tier technological business schools, renowned for its strong industry integration, research culture, and executive training.

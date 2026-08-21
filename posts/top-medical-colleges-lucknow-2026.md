@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Era Medical College have different fees for Minority quota?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
       domicile.
   - question: When is the UP NEET 2026 counselling?
     answer: Usually starts late **June/July** after the NEET results.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Lucknow, the capital of Uttar Pradesh, is home to one of India’s most iconic medical institutes—King George’s Medical University (KGMU). As a major healthcare referral center for North India, Lucknow offers medical students an unparalleled variety of clinical cases, especially in the government sector.

@@ -11,6 +11,12 @@ keywords:
   - admission in DY Patil Pune
   - best private B-school in Pune
   - DY Patil Pune average package 2025
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -26,6 +32,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+location: Pune
+state: Maharashtra
 ---
 DY Patil B-School is one of Pune's most modern and rapidly growing management institutes. Located strategically near the Hinjewadi IT hub, it offers a high-tech learning environment and a strong focus on industry readiness.
 

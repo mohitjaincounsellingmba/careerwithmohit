@@ -1,7 +1,7 @@
 ---
 name: 'I Business Institute (IBI), Greater Noida'
 logo: /colleges/ibi-logo.webp
-location: 'Greater Noida, Uttar Pradesh'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - 'I Business Institute (IBI), Greater Noida PGDM placement'
   - 'I Business Institute (IBI), Greater Noida MBA admission 2027'
   - 'MBA colleges Greater Noida, Uttar Pradesh'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

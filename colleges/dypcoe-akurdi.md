@@ -1,7 +1,7 @@
 ---
 name: Dr. D.Y. Patil College of Engineering
 logo: ''
-location: 'Akurdi, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Dr. D.Y. Patil College of Engineering CSE placement
   - Dr. D.Y. Patil College of Engineering B.Tech admission 2027
   - 'engineering colleges Akurdi, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

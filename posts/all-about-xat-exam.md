@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), a Mecca for HR and Business Management.
 

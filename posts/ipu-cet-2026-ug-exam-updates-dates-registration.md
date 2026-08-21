@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Guru Gobind Singh Indraprastha University (GGSIPU) has released a critical update for all undergraduate aspirants for the 2026-27 academic session. Whether you are aiming for **BBA, BCA, B.Com (Hons), or BJMC**, the university has provided a final chance for registration and confirmed the examination window.
 

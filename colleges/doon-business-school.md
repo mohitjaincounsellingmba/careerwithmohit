@@ -1,7 +1,7 @@
 ---
 name: Doon Business School
 logo: /colleges/dbs-logo.webp
-location: 'Dehradun, Uttarakhand'
+location: Dehradun
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Doon Business School PGDM placement
   - Doon Business School MBA admission 2027
   - 'MBA colleges Dehradun, Uttarakhand'
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
+state: Uttarakhand
 ---
 
 ### Courses & Fees

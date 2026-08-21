@@ -1,7 +1,7 @@
 ---
 name: Dr. D.Y. Patil Institute of Technology
 logo: ''
-location: 'Pimpri, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Dr. D.Y. Patil Institute of Technology CSE placement
   - Dr. D.Y. Patil Institute of Technology B.Tech admission 2027
   - 'engineering colleges Pimpri, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

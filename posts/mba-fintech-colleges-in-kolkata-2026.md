@@ -1,24 +1,39 @@
 ---
-title: 'Top MBA FinTech Colleges in Kolkata 2026 — Placements & Fees'
+title: Top MBA FinTech Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Looking for top MBA FinTech colleges in Kolkata? Review our 2026 guide comparing IIM Calcutta, Praxis, and IMI Kolkata placements and fees.'
+description: >-
+  Looking for top MBA FinTech colleges in Kolkata? Review our 2026 guide
+  comparing IIM Calcutta, Praxis, and IMI Kolkata placements and fees.
 keywords:
   - top mba fintech colleges in kolkata 2026
   - best fintech mba in kolkata
   - iim calcutta finance placement
   - praxis business school finance placement
   - imi kolkata finance fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
   - question: Why is IIM Calcutta highly prestigious for finance?
     answer: >-
-      While famed for finance, IIM Calcutta offers general PGP programs that place candidates in premium brand management and corporate strategy roles globally.
+      While famed for finance, IIM Calcutta offers general PGP programs that
+      place candidates in premium brand management and corporate strategy roles
+      globally.
   - question: Why is Praxis Business School highly recommended for FinTech?
     answer: >-
-      Praxis Business School is a pioneer in management education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
+      Praxis Business School is a pioneer in management education, offering
+      highly practical training and industry connections that yield an average
+      placement of around INR 13.50 LPA.
   - question: What is the fee at IISWBM Kolkata?
     answer: >-
-      IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs and historical brand recognition.
+      IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs
+      and historical brand recognition.
+location: Kolkata
+state: West Bengal
 ---
 
 Selecting the right B-school is critical if you are targeting a career in investment platforms, digital banking design, blockchain application development, algorithmic trading, or strategic fintech consulting. While general MBA rankings give a broad overview, fintech and digital recruiters tend to visit campuses that have a strong tradition of quantitative finance, dedicated finance/fintech specializations, and proximity to major corporate headquarters.

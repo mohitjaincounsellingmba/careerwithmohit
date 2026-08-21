@@ -1,7 +1,7 @@
 ---
 name: Alliance University Bangalore
 logo: /colleges/alliance-logo.webp
-location: 'Anekal, Bangalore'
+location: Bangalore
 category: Management
 type: University
 courses:
@@ -41,6 +41,13 @@ keywords:
   - Alliance University Bangalore PGDM placement
   - Alliance University Bangalore MBA admission 2027
   - 'MBA colleges Anekal, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

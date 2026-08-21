@@ -1,7 +1,7 @@
 ---
 name: Xavier Bangalore Institute of Management
 logo: /colleges/default-management-logo.webp
-location: 'Bangalore, India'
+location: Bangalore
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Xavier Bangalore Institute of Management PGDM placement
   - Xavier Bangalore Institute of Management MBA admission 2027
   - 'MBA colleges Bangalore, India'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### About Xavier Bangalore Institute of Management

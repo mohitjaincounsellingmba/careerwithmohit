@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: What is the selection process for Jamia Millia Islamia Executive MBA?
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       Classes are conducted during weekends (Saturdays and Sundays) at the
       Faculty of Management Studies building on JMI campus.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Jamia Millia Islamia (JMI), Delhi](/colleges/jamia-millia-islamia) represents a powerful gateway to higher senior leadership positions.

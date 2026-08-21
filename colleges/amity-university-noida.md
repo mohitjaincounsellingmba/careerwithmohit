@@ -1,7 +1,7 @@
 ---
 name: 'Amity University, Noida'
 logo: 'https://images.shiksha.com/mediadata/images/1545122048phpQ9n2Z0.jpeg'
-location: 'Noida, Uttar Pradesh (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: University
 courses:
@@ -45,6 +45,13 @@ keywords:
   - 'Amity University, Noida mohit jain review'
   - 'Amity University, Noida hostel fees'
   - 'Amity University, Noida contact number'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 Amity University's main campus in Noida offers a global ecosystem for BBA students. With a wide range of specializations and global study programs, it is a top destination for management aspirants.

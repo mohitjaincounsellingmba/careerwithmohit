@@ -1,7 +1,7 @@
 ---
 name: 'CGC University, Mohali'
 logo: ''
-location: 'Mohali, Punjab (Chandigarh area)'
+location: Chandigarh
 category: UG Courses
 type: University
 courses:
@@ -45,6 +45,13 @@ keywords:
   - 'CGC University, Mohali mohit jain review'
   - 'CGC University, Mohali hostel fees'
   - 'CGC University, Mohali contact number'
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
+state: Punjab
 ---
 
 Chandigarh Group of Colleges (CGC) in Mohali offers excellent BBA programs with high placement records. Its focus on skill-based education has made it a preferred choice in the Chandigarh region.

@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are both degrees valid for practice in Indian courts?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       No. They are separate programs. You cannot "exit" a 5-year course with
       just a BA/BBA degree halfway through in most Indian universities.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 One of the most frequent dilemmas for law aspirants in India is: **"Should I join a 5-year integrated law course right after Class 12, or wait until I graduate and do a 3-year LLB?"**

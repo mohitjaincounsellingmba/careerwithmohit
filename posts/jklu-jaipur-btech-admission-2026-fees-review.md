@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is JKLU Jaipur tốt for CSE?
     answer: >-
@@ -31,7 +35,8 @@ faqs:
     answer: >-
       Yes, high-merit students can get up to 100% tuition fee waivers based on
       JEE/CUET ranks.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **JK Lakshmipat University (JKLU)** in Jaipur (Rajasthan) is a leading private university established in 2011, known for its high-quality faculty (many PhDs from IITs) and industry-aligned technical education. Accredited with **NAAC Grade 'A'**, JKLU has consistently been a preferred choice for students who want a research-oriented engineering experience in the Pink City.

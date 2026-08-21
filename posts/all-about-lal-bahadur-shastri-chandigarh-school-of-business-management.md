@@ -1,23 +1,51 @@
 ---
-title: "Lal Bahadur Shastri Chandigarh School of Business & Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Lal Bahadur Shastri Chandigarh School of Business & Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Lal Bahadur Shastri Chandigarh School of Business & Management PGDM Admission
+  Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Lal Bahadur Shastri Chandigarh School of Business &
+  Management? Read our comprehensive PGDM review for 2026 covering total fees,
+  average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "lal bahadur shastri chandigarh school of business & management review 2026"
-  - "lal bahadur shastri chandigarh school of business & management pgdm placements"
-  - "lal bahadur shastri chandigarh school of business & management admission cutoff"
-  - "lal bahadur shastri chandigarh school of business & management fees"
+  - lal bahadur shastri chandigarh school of business & management review 2026
+  - >-
+    lal bahadur shastri chandigarh school of business & management pgdm
+    placements
+  - >-
+    lal bahadur shastri chandigarh school of business & management admission
+    cutoff
+  - lal bahadur shastri chandigarh school of business & management fees
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
-  - question: "Is Lal Bahadur Shastri Chandigarh School of Business & Management a good option for PGDM/MBA?"
+  - question: >-
+      Is Lal Bahadur Shastri Chandigarh School of Business & Management a good
+      option for PGDM/MBA?
     answer: >-
-      Yes, Lal Bahadur Shastri Chandigarh School of Business & Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Lal Bahadur Shastri Chandigarh School of Business & Management?"
+      Yes, Lal Bahadur Shastri Chandigarh School of Business & Management is a
+      highly respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Lal Bahadur Shastri Chandigarh
+      School of Business & Management?
     answer: >-
-      The average placement package at Lal Bahadur Shastri Chandigarh School of Business & Management is approximately ₹7.8 LPA, with the highest package reaching up to ₹20.0 LPA.
-  - question: "What entrance exams are accepted by Lal Bahadur Shastri Chandigarh School of Business & Management?"
+      The average placement package at Lal Bahadur Shastri Chandigarh School of
+      Business & Management is approximately ₹7.8 LPA, with the highest package
+      reaching up to ₹20.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Lal Bahadur Shastri Chandigarh School
+      of Business & Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Chandigarh
+state: Punjab
 ---
 
 ### **College Review: [Lal Bahadur Shastri Chandigarh School of Business & Management](/colleges/lal-bahadur-shastri-chandigarh-school-of-business-management)**

@@ -11,6 +11,12 @@ keywords:
   - UOK Kota placement 2026
   - lowest fee MBA in Rajasthan
   - University of Kota admission
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: Are placements good at University of Kota?
     answer: >-
@@ -27,6 +33,8 @@ faqs:
       Yes, UOK is a UGC-recognized state university. Its MBA degree is fully
       valid for pursuing a PhD, NET/JRF, or any further academic degree
       globally.
+location: Jaipur
+state: Rajasthan
 ---
 
 ### 📊 University of Kota (UOK) 2026 Snapshot

@@ -1,24 +1,39 @@
 ---
-title: 'Top MBA Business Analytics Colleges in Chennai 2026 — Placements & Fees'
+title: Top MBA Business Analytics Colleges in Chennai 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Compare the best B-schools for MBA Business Analytics in Chennai. Get details on fees, placements, and eligibility for Great Lakes, DoMS IIT Madras, and LIBA Chennai.'
+description: >-
+  Compare the best B-schools for MBA Business Analytics in Chennai. Get details
+  on fees, placements, and eligibility for Great Lakes, DoMS IIT Madras, and
+  LIBA Chennai.
 keywords:
   - top mba business analytics colleges in chennai 2026
   - best business analytics mba in chennai
   - great lakes chennai analytics placement
   - doms iit madras business analytics fees
   - liba chennai pgdm business analytics
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Why is Great Lakes Chennai famous for Analytics?
     answer: >-
-      Great Lakes Chennai incorporates analytics into its core courses and offers specialized electives that cover data visualization, modeling, and python programming, drawing top recruiters.
+      Great Lakes Chennai incorporates analytics into its core courses and
+      offers specialized electives that cover data visualization, modeling, and
+      python programming, drawing top recruiters.
   - question: What is the fee for DoMS IIT Madras?
     answer: >-
-      DoMS IIT Madras offers a total fee structure of around INR 10 Lakhs, yielding a very high ROI with an average package of INR 16.60 LPA.
+      DoMS IIT Madras offers a total fee structure of around INR 10 Lakhs,
+      yielding a very high ROI with an average package of INR 16.60 LPA.
   - question: Does LIBA Chennai accept CMAT scores?
     answer: >-
-      No, LIBA Chennai accepts only CAT and XAT scores for admissions to its flagship PGDM programs.
+      No, LIBA Chennai accepts only CAT and XAT scores for admissions to its
+      flagship PGDM programs.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Selecting the right B-school is critical if you are targeting a career in data science, quantitative decision-making, predictive modeling, or strategic business analytics. While general MBA rankings give a broad overview, analytics recruiters tend to visit campuses that have a strong tradition of quantitative studies, dedicated analytics specializations, and proximity to major corporate headquarters.

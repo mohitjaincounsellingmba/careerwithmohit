@@ -1,7 +1,7 @@
 ---
 name: Delhi Global Institute of Management
 logo: /colleges/default-management-logo.webp
-location: 'Delhi, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Delhi Global Institute of Management PGDM placement
   - Delhi Global Institute of Management MBA admission 2027
   - 'MBA colleges Delhi, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Delhi Global Institute of Management

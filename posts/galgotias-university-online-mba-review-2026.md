@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Why is Galgotias online MBA so cheap?
     answer: >-
@@ -44,7 +48,8 @@ faqs:
     answer: >-
       No. Admission is open to fresh graduates and working professionals without
       any entrance exam or work experience requirement.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[Galgotias University](/colleges/galgotias-university)** — one of Delhi NCR's most prominent private universities — offers an affordable online MBA through its digital education division. With a **NAAC A+ grade**, **UGC-DEB** and **AICTE approval**, and a total fee of just **₹90,000**, Galgotias Online MBA is one of the most cost-effective accredited programs in India in 2026.

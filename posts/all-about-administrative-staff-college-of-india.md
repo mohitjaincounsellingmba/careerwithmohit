@@ -1,23 +1,42 @@
 ---
-title: "Administrative Staff College of India PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Administrative Staff College of India? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Administrative Staff College of India PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Administrative Staff College of India? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "administrative staff college of india review 2026"
-  - "administrative staff college of india pgdm placements"
-  - "administrative staff college of india admission cutoff"
-  - "administrative staff college of india fees"
+  - administrative staff college of india review 2026
+  - administrative staff college of india pgdm placements
+  - administrative staff college of india admission cutoff
+  - administrative staff college of india fees
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
-  - question: "Is Administrative Staff College of India a good option for PGDM/MBA?"
+  - question: Is Administrative Staff College of India a good option for PGDM/MBA?
     answer: >-
-      Yes, Administrative Staff College of India is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Administrative Staff College of India?"
+      Yes, Administrative Staff College of India is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Administrative Staff College of
+      India?
     answer: >-
-      The average placement package at Administrative Staff College of India is approximately ₹5.5 LPA, with the highest package reaching up to ₹13.1 LPA.
-  - question: "What entrance exams are accepted by Administrative Staff College of India?"
+      The average placement package at Administrative Staff College of India is
+      approximately ₹5.5 LPA, with the highest package reaching up to ₹13.1 LPA.
+  - question: What entrance exams are accepted by Administrative Staff College of India?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Hyderabad
+state: Telangana
 ---
 
 ### **College Review: [Administrative Staff College of India](/colleges/administrative-staff-college-of-india)**

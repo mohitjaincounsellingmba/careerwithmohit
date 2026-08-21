@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 The Indian Institutes of Information Technology (IIITs) are a group of specialized higher education institutes focused exclusively on Information Technology and Computer Science. For coding enthusiasts who care deeply about a modern, tech-heavy curriculum and massive software placement packages without the baggage of traditional engineering courses (like Civil or Mechanical), the top IIITs are arguably better than many IITs.
 

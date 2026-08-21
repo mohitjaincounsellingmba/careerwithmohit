@@ -1,7 +1,7 @@
 ---
 name: 'Amity University, Mumbai'
 logo: 'https://images.shiksha.com/mediadata/images/1545631248phpK2vH0.jpeg'
-location: 'Panvel, Mumbai, Maharashtra'
+location: Mumbai
 category: UG Courses
 type: University
 courses:
@@ -44,6 +44,13 @@ keywords:
   - 'Amity University, Mumbai mohit jain review'
   - 'Amity University, Mumbai hostel fees'
   - 'Amity University, Mumbai contact number'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 Amity University Mumbai, located in Panvel, is a modern campus with state-of-the-art facilities. Its BBA programs are industry-linked, ensuring students get real-world business experience.

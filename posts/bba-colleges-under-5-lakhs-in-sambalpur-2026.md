@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best BBA college under 5 Lakhs in Sambalpur?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Investment (ROI). With moderate tuition fees, students can secure average
       placement packages ranging from 3 LPA to 6 LPA, facilitating a quick
       career start with minimal student debt.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Pursuing a Bachelor of Business Administration (BBA) is a great foundation for a corporate career, but it doesn't need to break the bank. While some premium private universities charge hefty fees, several top government-aided institutions, state university departments, and regional private colleges in **Sambalpur** offer quality management education for under ₹5 Lakhs.

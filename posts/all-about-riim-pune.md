@@ -1,23 +1,38 @@
 ---
-title: "RIIM Pune PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to RIIM Pune? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'RIIM Pune PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to RIIM Pune? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "riim pune review 2026"
-  - "riim pune pgdm placements"
-  - "riim pune admission cutoff"
-  - "riim pune fees"
+  - riim pune review 2026
+  - riim pune pgdm placements
+  - riim pune admission cutoff
+  - riim pune fees
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is RIIM Pune a good option for PGDM/MBA?"
+  - question: Is RIIM Pune a good option for PGDM/MBA?
     answer: >-
-      Yes, RIIM Pune is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at RIIM Pune?"
+      Yes, RIIM Pune is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at RIIM Pune?
     answer: >-
-      The average placement package at RIIM Pune is approximately ₹7.84 LPA, with the highest package reaching up to ₹35.0 LPA.
-  - question: "What entrance exams are accepted by RIIM Pune?"
+      The average placement package at RIIM Pune is approximately ₹7.84 LPA,
+      with the highest package reaching up to ₹35.0 LPA.
+  - question: What entrance exams are accepted by RIIM Pune?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [RIIM Pune](/colleges/riim-pune)**

@@ -1,7 +1,7 @@
 ---
 name: Modern College of Engineering (MCOE)
 logo: ''
-location: 'Shivajinagar, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Modern College of Engineering (MCOE) CSE placement
   - Modern College of Engineering (MCOE) B.Tech admission 2027
   - 'engineering colleges Shivajinagar, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

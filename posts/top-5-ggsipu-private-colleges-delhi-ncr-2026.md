@@ -27,6 +27,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which are the top 5 private colleges affiliated with GGSIPU in Delhi NCR?
     answer: >-
@@ -62,7 +66,8 @@ faqs:
       Admissions require JEE Main for B.Tech, IPU CET / CUET for BBA, BCA, and
       B.Com, CAT / CMAT / IPU CET for MBA, NIMCET for MCA, and CLAT for Law (BA
       LLB / BBA LLB).
-location: Faridabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Top 5 GGSIPU Private Colleges in Delhi NCR 2026: Fees, Placements & Admission Review

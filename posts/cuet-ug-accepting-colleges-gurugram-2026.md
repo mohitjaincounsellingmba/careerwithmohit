@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 Gurugram, the "Cyber City" of India, is a part of the National Capital Region (NCR) and a global outsourcing hub. With some of the most specialized and high-tech private universities in India, it offers diverse opportunities for those appearing for the **Common University Entrance Test (CUET) UG 2026**.
 

@@ -1,7 +1,7 @@
 ---
 name: PUMBA Pune
 logo: /colleges/pumba-logo.webp
-location: 'Pune, Maharashtra'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - PUMBA Pune PGDM placement
   - PUMBA Pune MBA admission 2027
   - 'MBA colleges Pune, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

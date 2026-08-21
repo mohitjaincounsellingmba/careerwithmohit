@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: can I learn Financial Modeling for free?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       As an Associate or Junior Analyst, you can expect **₹6L to ₹12L** in
       Tier-2 firms, climbing to **₹15L+** in top Tier-1 MNCs.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 In the world of high finance, if you haven't mastered **Financial Modeling**, you can't tell a story. Whether you are valuing a multi-billion dollar tech startup or projecting the cash flows of a local manufacturing plant, the ability to turn raw data into a dynamic, predictive Excel model is the most important hard skill you can possess in 2026.

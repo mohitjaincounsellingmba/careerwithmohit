@@ -1,23 +1,42 @@
 ---
-title: "Graphic Era (Deemed to be University) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Graphic Era (Deemed to be University)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Graphic Era (Deemed to be University) PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Graphic Era (Deemed to be University)? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "graphic era (deemed to be university) review 2026"
-  - "graphic era (deemed to be university) pgdm placements"
-  - "graphic era (deemed to be university) admission cutoff"
-  - "graphic era (deemed to be university) fees"
+  - graphic era (deemed to be university) review 2026
+  - graphic era (deemed to be university) pgdm placements
+  - graphic era (deemed to be university) admission cutoff
+  - graphic era (deemed to be university) fees
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
-  - question: "Is Graphic Era (Deemed to be University) a good option for PGDM/MBA?"
+  - question: Is Graphic Era (Deemed to be University) a good option for PGDM/MBA?
     answer: >-
-      Yes, Graphic Era (Deemed to be University) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Graphic Era (Deemed to be University)?"
+      Yes, Graphic Era (Deemed to be University) is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Graphic Era (Deemed to be
+      University)?
     answer: >-
-      The average placement package at Graphic Era (Deemed to be University) is approximately ₹6.5 LPA, with the highest package reaching up to ₹16.0 LPA.
-  - question: "What entrance exams are accepted by Graphic Era (Deemed to be University)?"
+      The average placement package at Graphic Era (Deemed to be University) is
+      approximately ₹6.5 LPA, with the highest package reaching up to ₹16.0 LPA.
+  - question: What entrance exams are accepted by Graphic Era (Deemed to be University)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Dehradun
+state: Uttarakhand
 ---
 
 ### **College Review: [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)**

@@ -11,6 +11,12 @@ keywords:
   - affordable MBA in Chandigarh
   - low fees MBA colleges in Chandigarh
   - best MBA in Chandigarh under 5 Lakhs
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
   - question: Which is the best MBA college under 5 Lakhs in Chandigarh?
     answer: >-
@@ -30,6 +36,8 @@ faqs:
       total fee of under 5 Lakhs and average placement packages ranging from 4
       LPA to 8 LPA, graduates can recover their educational expenses in less
       than a year.
+location: Chandigarh
+state: Punjab
 ---
 
 Pursuing a Master of Business Administration (MBA) does not always have to result in massive student loans. While top private business schools in India charge tuition fees ranging from ₹15 Lakhs to ₹28 Lakhs, several high-quality government institutions, state university departments, and local private colleges in **Chandigarh** offer quality management education at a fraction of that cost.

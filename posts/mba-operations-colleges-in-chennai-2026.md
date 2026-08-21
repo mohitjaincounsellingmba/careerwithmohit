@@ -1,24 +1,38 @@
 ---
-title: 'Top MBA Operations Colleges in Chennai 2026 — Placements & Fees'
+title: Top MBA Operations Colleges in Chennai 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Compare the best B-schools for MBA Operations in Chennai. Get details on fees, placements, and cutoffs for Great Lakes, DoMS IIT Madras, and LIBA Chennai.'
+description: >-
+  Compare the best B-schools for MBA Operations in Chennai. Get details on fees,
+  placements, and cutoffs for Great Lakes, DoMS IIT Madras, and LIBA Chennai.
 keywords:
   - top mba operations colleges in chennai 2026
   - best operations mba in chennai
   - great lakes chennai operations placement
   - doms iit madras placements fees
   - liba chennai admission
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Why is DoMS IIT Madras highly recommended for Operations?
     answer: >-
-      Being part of an IIT, DoMS IIT Madras offers outstanding mathematical and quantitative focus on operations research, logistics, and supply chain planning, yielding high placements.
+      Being part of an IIT, DoMS IIT Madras offers outstanding mathematical and
+      quantitative focus on operations research, logistics, and supply chain
+      planning, yielding high placements.
   - question: What is the fee for DoMS IIT Madras?
     answer: >-
-      DoMS IIT Madras offers a total fee structure of around INR 10 Lakhs, yielding a very high ROI with an average package of INR 16.60 LPA.
+      DoMS IIT Madras offers a total fee structure of around INR 10 Lakhs,
+      yielding a very high ROI with an average package of INR 16.60 LPA.
   - question: Does Great Lakes Chennai accept CMAT scores?
     answer: >-
-      No, Great Lakes Chennai accepts only CAT, XAT, and GMAT scores for PGDM admissions.
+      No, Great Lakes Chennai accepts only CAT, XAT, and GMAT scores for PGDM
+      admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Selecting the right B-school is critical if you are targeting a career in supply chain analytics, operations management, logistics operations, inventory planning, or strategic operations consulting. While general MBA rankings give a broad overview, operations and digital recruiters tend to visit campuses that have a strong tradition of quantitative analytics, dedicated operations specializations, and proximity to major corporate headquarters.

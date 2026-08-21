@@ -1,7 +1,7 @@
 ---
 name: Xavier Hyderabad Institute of Business Studies
 logo: /colleges/default-management-logo.webp
-location: 'Hyderabad, India'
+location: Hyderabad
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Xavier Hyderabad Institute of Business Studies PGDM placement
   - Xavier Hyderabad Institute of Business Studies MBA admission 2027
   - 'MBA colleges Hyderabad, India'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
+state: Telangana
 ---
 
 ### About Xavier Hyderabad Institute of Business Studies

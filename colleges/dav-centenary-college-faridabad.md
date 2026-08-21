@@ -1,7 +1,7 @@
 ---
 name: DAV Centenary College
 logo: ''
-location: 'Faridabad, Haryana (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: College
 courses:
@@ -45,6 +45,13 @@ keywords:
   - DAV Centenary College mohit jain review
   - DAV Centenary College hostel fees
   - DAV Centenary College contact number
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 DAV Centenary College, Faridabad, has been a pioneer in management and computer education in Haryana. It offers quality BBA education with an emphasis on discipline and moral values.

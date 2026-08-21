@@ -31,6 +31,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -46,7 +50,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 Symbiosis International (Deemed University) is one of India’s most prestigious educational networks, renowned for its diverse, industry-aligned MBA programs. With **16 distinct institutes** located across the country—from the flagship [SIBM Pune](/colleges/sibm-pune) to highly specialized campuses like SIOM Nashik and SIDTM Pune—Symbiosis offers something for every MBA aspirant.
 

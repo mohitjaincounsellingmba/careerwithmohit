@@ -1,23 +1,40 @@
 ---
-title: "Indus Business Academy (IBA) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Indus Business Academy (IBA)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Indus Business Academy (IBA) PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Indus Business Academy (IBA)? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "indus business academy (iba) review 2026"
-  - "indus business academy (iba) pgdm placements"
-  - "indus business academy (iba) admission cutoff"
-  - "indus business academy (iba) fees"
+  - indus business academy (iba) review 2026
+  - indus business academy (iba) pgdm placements
+  - indus business academy (iba) admission cutoff
+  - indus business academy (iba) fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is Indus Business Academy (IBA) a good option for PGDM/MBA?"
+  - question: Is Indus Business Academy (IBA) a good option for PGDM/MBA?
     answer: >-
-      Yes, Indus Business Academy (IBA) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Indus Business Academy (IBA)?"
+      Yes, Indus Business Academy (IBA) is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Indus Business Academy (IBA)?
     answer: >-
-      The average placement package at Indus Business Academy (IBA) is approximately ₹9.2 LPA, with the highest package reaching up to ₹18.0 LPA.
-  - question: "What entrance exams are accepted by Indus Business Academy (IBA)?"
+      The average placement package at Indus Business Academy (IBA) is
+      approximately ₹9.2 LPA, with the highest package reaching up to ₹18.0 LPA.
+  - question: What entrance exams are accepted by Indus Business Academy (IBA)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [Indus Business Academy (IBA)](/colleges/iba-bangalore)**

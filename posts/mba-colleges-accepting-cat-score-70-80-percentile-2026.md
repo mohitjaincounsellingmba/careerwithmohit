@@ -27,7 +27,11 @@ keywords:
   - Delhi NCR Colleges
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-location: Noida
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: Which are the top MBA colleges accepting 70-80 percentile in CAT 2026?
     answer: >-
@@ -56,6 +60,7 @@ faqs:
       Candidates with good academic consistency (70%+ in 10th/12th/Graduation),
       work experience of 1-3 years, or extracurricular achievements stand a high
       chance of conversion during Personal Interviews.
+state: Delhi NCR
 ---
 
 Scoring in the **70 to 80 percentile range in CAT 2026** (roughly 24 to 38 marks) is a very common milestone for thousands of hardworking aspirants. While this score falls just below the Tier-1 threshold, it opens doors to **established, AICTE-approved B-schools and UGC-recognized universities** with rich alumni networks and consistent hiring records.

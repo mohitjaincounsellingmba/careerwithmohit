@@ -1,23 +1,40 @@
 ---
-title: "NITTE School of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to NITTE School of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  NITTE School of Management PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to NITTE School of Management? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "nitte school of management review 2026"
-  - "nitte school of management pgdm placements"
-  - "nitte school of management admission cutoff"
-  - "nitte school of management fees"
+  - nitte school of management review 2026
+  - nitte school of management pgdm placements
+  - nitte school of management admission cutoff
+  - nitte school of management fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is NITTE School of Management a good option for PGDM/MBA?"
+  - question: Is NITTE School of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, NITTE School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at NITTE School of Management?"
+      Yes, NITTE School of Management is a highly respected institution known
+      for its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at NITTE School of Management?
     answer: >-
-      The average placement package at NITTE School of Management is approximately ₹7.0 LPA, with the highest package reaching up to ₹14.3 LPA.
-  - question: "What entrance exams are accepted by NITTE School of Management?"
+      The average placement package at NITTE School of Management is
+      approximately ₹7.0 LPA, with the highest package reaching up to ₹14.3 LPA.
+  - question: What entrance exams are accepted by NITTE School of Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [NITTE School of Management](/colleges/nitte-school-of-management)**

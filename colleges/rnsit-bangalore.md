@@ -1,7 +1,7 @@
 ---
 name: R.N.S. Institute of Technology (RNSIT)
 logo: ''
-location: 'Channasandra, Bangalore'
+location: Bangalore
 category: Engineering
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - R.N.S. Institute of Technology (RNSIT) CSE placement
   - R.N.S. Institute of Technology (RNSIT) B.Tech admission 2027
   - 'engineering colleges Channasandra, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

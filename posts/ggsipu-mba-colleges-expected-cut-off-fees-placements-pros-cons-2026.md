@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 Guru Gobind Singh Indraprastha University (GGSIPU) is one of the most popular state universities in Delhi NCR for MBA aspirants. It offers a massive advantage in terms of Return on Investment (ROI) compared to expensive private PGDM colleges. 
 

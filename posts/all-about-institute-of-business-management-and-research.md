@@ -1,23 +1,47 @@
 ---
-title: "Institute of Business Management and Research PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Institute of Business Management and Research? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Institute of Business Management and Research PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Institute of Business Management and Research? Read
+  our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "institute of business management and research review 2026"
-  - "institute of business management and research pgdm placements"
-  - "institute of business management and research admission cutoff"
-  - "institute of business management and research fees"
+  - institute of business management and research review 2026
+  - institute of business management and research pgdm placements
+  - institute of business management and research admission cutoff
+  - institute of business management and research fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is Institute of Business Management and Research a good option for PGDM/MBA?"
+  - question: >-
+      Is Institute of Business Management and Research a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Institute of Business Management and Research is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Institute of Business Management and Research?"
+      Yes, Institute of Business Management and Research is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Institute of Business Management
+      and Research?
     answer: >-
-      The average placement package at Institute of Business Management and Research is approximately ₹16.40 LPA, with the highest package reaching up to ₹10 LPA.
-  - question: "What entrance exams are accepted by Institute of Business Management and Research?"
+      The average placement package at Institute of Business Management and
+      Research is approximately ₹16.40 LPA, with the highest package reaching up
+      to ₹10 LPA.
+  - question: >-
+      What entrance exams are accepted by Institute of Business Management and
+      Research?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [Institute of Business Management and Research](/colleges/institute-of-business-management-and-research)**

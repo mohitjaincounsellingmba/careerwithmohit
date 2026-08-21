@@ -27,7 +27,11 @@ keywords:
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Delhi NCR College Counselling
-location: Delhi
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: What is the difference between IIM Qualifying Cutoff and Calling Cutoff?
     answer: >-
@@ -58,6 +62,7 @@ faqs:
       Most IIMs award between 5 to 10 points out of 100 for relevant full-time
       post-graduation work experience, with maximum points allocated for 24 to
       36 months of tenure.
+state: Delhi NCR
 ---
 
 Securing admission to one of India’s **21 Indian Institutes of Management (IIMs)** is the ultimate aspiration for every MBA candidate. However, one of the most common pitfalls is assuming that cracking a 99+ percentile in CAT guarantees an interview call.

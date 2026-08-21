@@ -11,6 +11,12 @@ keywords:
   - affordable MBA in Kota
   - low fees MBA colleges in Kota
   - best MBA in Kota under 10 Lakhs
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: Which is the best MBA college under 10 Lakhs in Kota?
     answer: >-
@@ -30,6 +36,8 @@ faqs:
       total fee of under 10 Lakhs and average placement packages ranging from 5
       LPA to 12 LPA, graduates can recover their educational expenses in a very
       short duration.
+location: Jaipur
+state: Rajasthan
 ---
 
 Pursuing a Master of Business Administration (MBA) does not always have to result in massive student loans. While top private business schools in India charge tuition fees ranging from ₹15 Lakhs to ₹28 Lakhs, several high-quality government institutions, state university departments, and local private colleges in **Kota** offer quality management education under a budget of ₹10 Lakhs.

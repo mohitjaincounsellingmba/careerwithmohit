@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the top choices for offline CAT coaching in Greater Noida?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
       Bangalore, Calcutta), general category candidates generally require a
       percentile above 99.0+. For newer and baby IIMs, a percentile between 93.0
       to 97.0+ is targetable.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Aspiring for a seat in India's elite Indian Institutes of Management (IIMs) or other top-tier business schools for the **2027-28 academic session** requires structured planning. The **CAT 2026** exam is the gateway to these premium programs, and your preparation strategy in **Greater Noida** can make all the difference.

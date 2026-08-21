@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Pune
   - Top Universities in Pune
   - Direct Admission in Pune
+  - Pune Colleges
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 category: Colleges
 location: Pune
 faqs:
@@ -44,6 +49,7 @@ faqs:
       Pune, SCMHRD, SIIB) are conducted based on entrance exams such as SNAP
       (MBA), SET (BBA/UG), SITEEE (B.Tech), SLAT (Law), followed by counseling,
       personal interviews, or merit-based shortlisting.
+state: Maharashtra
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Symbiosis International (Deemed University) ([SIBM Pune](/colleges/sibm-pune), SCMHRD, SIIB)**, situated in **Pune**, stands out as one of the premier destinations for undergraduate and postgraduate education in Pune.

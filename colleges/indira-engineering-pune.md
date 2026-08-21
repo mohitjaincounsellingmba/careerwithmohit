@@ -1,7 +1,7 @@
 ---
 name: Indira College of Engineering and Management
 logo: ''
-location: 'Parandwadi, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Indira College of Engineering and Management CSE placement
   - Indira College of Engineering and Management B.Tech admission 2027
   - 'engineering colleges Parandwadi, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

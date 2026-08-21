@@ -1,7 +1,7 @@
 ---
 name: Delhi Metropolitan Education
 logo: ''
-location: 'Noida, Uttar Pradesh (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Delhi Metropolitan Education mohit jain review
   - Delhi Metropolitan Education hostel fees
   - Delhi Metropolitan Education contact number
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 Delhi Metropolitan Education (DME) in Noida is a premier GGSIPU-affiliated college offering specialized BBA programs with a focus on industry exposure and professional success.

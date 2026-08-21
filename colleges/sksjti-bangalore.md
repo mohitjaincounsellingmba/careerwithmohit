@@ -1,7 +1,7 @@
 ---
 name: Government SKSJTI Bangalore
 logo: ''
-location: 'K.R. Circle, Bangalore'
+location: Bangalore
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Government SKSJTI Bangalore CSE placement
   - Government SKSJTI Bangalore B.Tech admission 2027
   - 'engineering colleges K.R. Circle, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

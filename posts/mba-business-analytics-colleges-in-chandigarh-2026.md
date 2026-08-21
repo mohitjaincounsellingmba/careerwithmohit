@@ -1,24 +1,40 @@
 ---
-title: 'Top MBA Business Analytics Colleges in Chandigarh 2026 — Placements & Fees'
+title: Top MBA Business Analytics Colleges in Chandigarh 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Find the best MBA Business Analytics colleges in Chandigarh. Check program fees, placements, and cutoffs for UBS, Chandigarh University, and Chitkara in 2026.'
+description: >-
+  Find the best MBA Business Analytics colleges in Chandigarh. Check program
+  fees, placements, and cutoffs for UBS, Chandigarh University, and Chitkara in
+  2026.
 keywords:
   - top mba business analytics colleges in chandigarh 2026
   - best mba business analytics in chandigarh
   - ubs chandigarh mba placements fees
   - chandigarh university mba business analytics ibm
   - chitkara university mba business analytics
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
   - question: Does Chandigarh University offer a specialized Business Analytics MBA?
     answer: >-
-      Yes, Chandigarh University offers a dedicated MBA program in Business Analytics in collaboration with IBM, providing students with direct access to IBM software, tools, and training modules.
+      Yes, Chandigarh University offers a dedicated MBA program in Business
+      Analytics in collaboration with IBM, providing students with direct access
+      to IBM software, tools, and training modules.
   - question: Which is the best ROI college in Chandigarh?
     answer: >-
-      UBS Chandigarh ( Panjab University) is the best choice, offering a total program fee of around INR 2 Lakhs with average packages around INR 13.7 LPA.
+      UBS Chandigarh ( Panjab University) is the best choice, offering a total
+      program fee of around INR 2 Lakhs with average packages around INR 13.7
+      LPA.
   - question: Are CMAT scores accepted for MBA in Chandigarh?
     answer: >-
-      Yes, private universities like Chitkara and Chandigarh University accept CMAT, MAT, and CAT scores.
+      Yes, private universities like Chitkara and Chandigarh University accept
+      CMAT, MAT, and CAT scores.
+location: Chandigarh
+state: Punjab
 ---
 
 Selecting the right B-school is critical if you are targeting a career in data science, quantitative decision-making, predictive modeling, or strategic business analytics. While general MBA rankings give a broad overview, analytics recruiters tend to visit campuses that have a strong tradition of quantitative studies, dedicated analytics specializations, and proximity to major corporate headquarters.

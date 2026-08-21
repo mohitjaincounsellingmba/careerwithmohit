@@ -26,6 +26,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       Yes, universities typically conduct online semester exams using AI-enabled
       or human-proctored systems to maintain academic integrity.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 A **Master of Science (M.Sc)** is one of the most versatile postgraduate degrees in India — covering everything from Data Science and AI to Biology, Chemistry, Physics, and Psychology. In 2026, top universities now offer **fully online M.Sc programs** that are UGC-recognized, globally accredited, and available at a fraction of the cost of on-campus programs.
 

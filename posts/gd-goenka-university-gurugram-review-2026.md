@@ -24,8 +24,12 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: Colleges
-location: Gurgaon
+location: Delhi NCR
 faqs:
   - question: >-
       Is GD Goenka University, Gurugram a good choice for higher education in
@@ -47,6 +51,7 @@ faqs:
       on entrance exams such as Goenka Aptitude Test for Admission (GATA), CUET,
       JEE Main, CAT, MAT, CLAT, followed by counseling, personal interviews, or
       merit-based shortlisting.
+state: Delhi NCR
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **[GD Goenka University](/colleges/gd-goenka-university), Gurugram**, situated in **Gurugram**, stands out as one of the premier destinations for undergraduate and postgraduate education in Haryana.

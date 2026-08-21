@@ -16,8 +16,14 @@ keywords:
   - Best Colleges in Mohali / Gharuan
   - Top Universities in Punjab
   - Direct Admission in Mohali / Gharuan
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 category: Colleges
-location: Mohali / Gharuan
+location: Chandigarh
 faqs:
   - question: >-
       Is Chandigarh University (CU), Mohali / Gharuan a good choice for higher
@@ -44,6 +50,7 @@ faqs:
       conducted based on entrance exams such as CUCET, JEE Main, CAT, MAT, CUET,
       Merit-based, followed by counseling, personal interviews, or merit-based
       shortlisting.
+state: Punjab
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Chandigarh University (CU), Mohali / Gharuan**, situated in **Mohali / Gharuan**, stands out as one of the premier destinations for undergraduate and postgraduate education in Punjab.

@@ -1,7 +1,7 @@
 ---
 name: Sister Nivedita University
 logo: ''
-location: 'Rajarhat, Kolkata, West Bengal'
+location: Kolkata
 category: UG Courses
 type: University
 courses:
@@ -45,6 +45,13 @@ keywords:
   - Sister Nivedita University mohit jain review
   - Sister Nivedita University hostel fees
   - Sister Nivedita University contact number
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
+state: West Bengal
 ---
 
 Sister Nivedita University in Kolkata offers specialized BBA programs including Hospital Management and Logistics. It is known for its modern campus and focus on employability.

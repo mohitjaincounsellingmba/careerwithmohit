@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 **[Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET)**, commonly known as Thapar University, is one of the oldest and most prestigious private engineering institutes in India. Located in Patiala, Punjab, it consistently ranks among the top private engineering colleges, often heavily compared against new IITs and almost all NITs.
 

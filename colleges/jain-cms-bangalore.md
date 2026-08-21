@@ -1,7 +1,7 @@
 ---
 name: Jain University (CMS) Bangalore
 logo: /colleges/jain-logo.webp
-location: 'Lalbagh Road, Bangalore'
+location: Bangalore
 category: Management
 type: University
 courses:
@@ -41,6 +41,13 @@ keywords:
   - Jain University (CMS) Bangalore PGDM placement
   - Jain University (CMS) Bangalore MBA admission 2027
   - 'MBA colleges Lalbagh Road, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

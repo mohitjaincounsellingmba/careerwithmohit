@@ -1,23 +1,38 @@
 ---
-title: "Shanti Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Shanti Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Shanti Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Shanti Business School? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "shanti business school review 2026"
-  - "shanti business school pgdm placements"
-  - "shanti business school admission cutoff"
-  - "shanti business school fees"
+  - shanti business school review 2026
+  - shanti business school pgdm placements
+  - shanti business school admission cutoff
+  - shanti business school fees
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: "Is Shanti Business School a good option for PGDM/MBA?"
+  - question: Is Shanti Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Shanti Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Shanti Business School?"
+      Yes, Shanti Business School is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Shanti Business School?
     answer: >-
-      The average placement package at Shanti Business School is approximately ₹5.1 LPA, with the highest package reaching up to ₹12.7 LPA.
-  - question: "What entrance exams are accepted by Shanti Business School?"
+      The average placement package at Shanti Business School is approximately
+      ₹5.1 LPA, with the highest package reaching up to ₹12.7 LPA.
+  - question: What entrance exams are accepted by Shanti Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Ahmedabad
+state: Gujarat
 ---
 
 ### **College Review: [Shanti Business School](/colleges/shanti-business-school)**

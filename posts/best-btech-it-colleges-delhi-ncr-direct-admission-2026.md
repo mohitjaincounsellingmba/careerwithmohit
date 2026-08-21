@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 While Computer Science deals with the underlying architecture and theoretical building blocks of computing, **Information Technology (IT)** is everything practical. It deals with maintaining databases, networking, cybersecurity, web development, and cloud systems. IT engineers are the backbone of any modern corporation's infrastructure.
 

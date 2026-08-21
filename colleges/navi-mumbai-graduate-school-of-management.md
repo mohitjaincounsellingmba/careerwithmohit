@@ -1,7 +1,7 @@
 ---
 name: Navi Mumbai Graduate School of Management
 logo: /colleges/default-management-logo.webp
-location: 'Navi Mumbai, India'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Navi Mumbai Graduate School of Management PGDM placement
   - Navi Mumbai Graduate School of Management MBA admission 2027
   - 'MBA colleges Navi Mumbai, India'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### About Navi Mumbai Graduate School of Management

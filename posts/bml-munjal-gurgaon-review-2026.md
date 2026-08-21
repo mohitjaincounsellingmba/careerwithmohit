@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the average package at BML Munjal University (BMU) in 2026?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at BML Munjal
       University (BMU) is approximately ₹15.10 Lakhs (Total).
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

@@ -18,6 +18,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
@@ -35,7 +39,8 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 With MBA tuition fees climbing above 15 Lakhs at top-tier colleges, finding affordable, high-quality management programs with strong placement records is a top priority for aspirants. 

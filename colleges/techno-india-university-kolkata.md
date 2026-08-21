@@ -1,7 +1,7 @@
 ---
 name: Techno India University
 logo: ''
-location: 'Salt Lake City, Kolkata, West Bengal'
+location: Kolkata
 category: UG Courses
 type: University
 courses:
@@ -45,6 +45,13 @@ keywords:
   - Techno India University mohit jain review
   - Techno India University hostel fees
   - Techno India University contact number
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
+state: West Bengal
 ---
 
 Techno India University is a prominent name in Eastern India for BBA studies. Its focus on emerging technologies like AI and Analytics in its curriculum makes its graduates highly competitive.

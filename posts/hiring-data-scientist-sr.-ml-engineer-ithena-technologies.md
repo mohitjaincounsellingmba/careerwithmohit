@@ -12,6 +12,12 @@ keywords:
   - 'jobs in Pune, MH'
   - OptimHire referral jobs
   - 2026 career opportunities
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -28,6 +34,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
+location: Pune
+state: Maharashtra
 ---
 Are you looking for a high-impact role in the industry? **Ithena Technologies** is hiring a **Data Scientist / Sr. ML Engineer** for their **Pune, MH** team. This is a premium opportunity with a verified referral link to fast-track your application.
 

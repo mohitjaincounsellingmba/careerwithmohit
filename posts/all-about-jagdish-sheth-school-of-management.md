@@ -1,23 +1,40 @@
 ---
-title: "Jagdish Sheth School of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Jagdish Sheth School of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Jagdish Sheth School of Management PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Jagdish Sheth School of Management? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "jagdish sheth school of management review 2026"
-  - "jagdish sheth school of management pgdm placements"
-  - "jagdish sheth school of management admission cutoff"
-  - "jagdish sheth school of management fees"
+  - jagdish sheth school of management review 2026
+  - jagdish sheth school of management pgdm placements
+  - jagdish sheth school of management admission cutoff
+  - jagdish sheth school of management fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is Jagdish Sheth School of Management a good option for PGDM/MBA?"
+  - question: Is Jagdish Sheth School of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, Jagdish Sheth School of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Jagdish Sheth School of Management?"
+      Yes, Jagdish Sheth School of Management is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: What is the average package offered at Jagdish Sheth School of Management?
     answer: >-
-      The average placement package at Jagdish Sheth School of Management is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.5 LPA.
-  - question: "What entrance exams are accepted by Jagdish Sheth School of Management?"
+      The average placement package at Jagdish Sheth School of Management is
+      approximately ₹6.3 LPA, with the highest package reaching up to ₹14.5 LPA.
+  - question: What entrance exams are accepted by Jagdish Sheth School of Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)**

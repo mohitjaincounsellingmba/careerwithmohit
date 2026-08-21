@@ -1,7 +1,7 @@
 ---
 name: Vishwakarma Institute of Technology (VIT)
 logo: ''
-location: 'Bibwewadi, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Vishwakarma Institute of Technology (VIT) CSE placement
   - Vishwakarma Institute of Technology (VIT) B.Tech admission 2027
   - 'engineering colleges Bibwewadi, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

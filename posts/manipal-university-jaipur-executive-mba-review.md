@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Is the Manipal University Jaipur Executive MBA UGC approved?
@@ -34,7 +38,8 @@ faqs:
     answer: >-
       Yes, a minimum of 2 years of full-time professional experience is required
       to apply.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Jaipur, the Executive MBA / Executive PGDM offered by [Manipal University Jaipur](/colleges/manipal-university-jaipur) represents a powerful gateway to higher senior leadership positions.

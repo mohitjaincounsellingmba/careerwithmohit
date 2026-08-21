@@ -1,23 +1,38 @@
 ---
-title: "ITM Skill University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to ITM Skill University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'ITM Skill University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to ITM Skill University? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "itm skill university review 2026"
-  - "itm skill university pgdm placements"
-  - "itm skill university admission cutoff"
-  - "itm skill university fees"
+  - itm skill university review 2026
+  - itm skill university pgdm placements
+  - itm skill university admission cutoff
+  - itm skill university fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is ITM Skill University a good option for PGDM/MBA?"
+  - question: Is ITM Skill University a good option for PGDM/MBA?
     answer: >-
-      Yes, ITM Skill University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at ITM Skill University?"
+      Yes, ITM Skill University is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at ITM Skill University?
     answer: >-
-      The average placement package at ITM Skill University is approximately ₹6.1 LPA, with the highest package reaching up to ₹13.7 LPA.
-  - question: "What entrance exams are accepted by ITM Skill University?"
+      The average placement package at ITM Skill University is approximately
+      ₹6.1 LPA, with the highest package reaching up to ₹13.7 LPA.
+  - question: What entrance exams are accepted by ITM Skill University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [ITM Skill University](/colleges/itm-skill-university)**

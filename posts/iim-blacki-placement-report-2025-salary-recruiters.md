@@ -1,9 +1,12 @@
 ---
 title: >-
-  IIM BLACKI & IIM Mumbai Placement Report 2025: Highest Packages, Median CTC & Consulting-Finance Dominance
+  IIM BLACKI & IIM Mumbai Placement Report 2025: Highest Packages, Median CTC &
+  Consulting-Finance Dominance
 date: '2026-08-15'
 description: >-
-  Detailed analysis of IIM BLACKI (Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, Indore) & IIM Mumbai 2025 placement reports. Top recruiters, PPOs, and domain salaries.
+  Detailed analysis of IIM BLACKI (Ahmedabad, Bangalore, Calcutta, Lucknow,
+  Kozhikode, Indore) & IIM Mumbai 2025 placement reports. Top recruiters, PPOs,
+  and domain salaries.
 keywords:
   - iim blacki placement report 2025
   - iim ahmedabad placement report 2025
@@ -16,16 +19,34 @@ keywords:
   - top iim average package 2025
   - iim ppo conversion rates 2025
   - cat 2025 admission
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: What was the highest international and domestic package at IIM BLACKI in 2025?
+  - question: >-
+      What was the highest international and domestic package at IIM BLACKI in
+      2025?
     answer: >-
-      In the 2025 placement season, IIM Calcutta recorded the highest international CTC of INR 1.45 Crore per annum, while IIM Ahmedabad and IIM Bangalore recorded top domestic packages exceeding INR 1.10 Crore to INR 1.15 Crore per annum.
+      In the 2025 placement season, IIM Calcutta recorded the highest
+      international CTC of INR 1.45 Crore per annum, while IIM Ahmedabad and IIM
+      Bangalore recorded top domestic packages exceeding INR 1.10 Crore to INR
+      1.15 Crore per annum.
   - question: How did IIM Mumbai (NITIE) perform in its latest placement report?
     answer: >-
-      IIM Mumbai achieved an average package of INR 31.00 LPA for the entire batch and an exceptional INR 34.50 LPA for its top 50% students, with a highest package of INR 71.40 LPA, reinforcing its status among elite Old IIMs.
+      IIM Mumbai achieved an average package of INR 31.00 LPA for the entire
+      batch and an exceptional INR 34.50 LPA for its top 50% students, with a
+      highest package of INR 71.40 LPA, reinforcing its status among elite Old
+      IIMs.
   - question: Which domain dominated Old IIM recruitments in 2025?
     answer: >-
-      Management Consulting led across IIM Ahmedabad, Bangalore, and Lucknow (commanding 38-42% of total offers), while Investment Banking and BFSI dominated at IIM Calcutta (32% of offers).
+      Management Consulting led across IIM Ahmedabad, Bangalore, and Lucknow
+      (commanding 38-42% of total offers), while Investment Banking and BFSI
+      dominated at IIM Calcutta (32% of offers).
+location: Mumbai
+state: Maharashtra
 ---
 
 When it comes to elite business education in Asia, the **IIM BLACKI** group—**[IIM Bangalore](/colleges/iim-bangalore), [IIM Lucknow](/blog/all-about-iim-colleges-placements-fees-selection-2026), [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Calcutta](/colleges/iim-calcutta), IIM Kozhikode, and IIM Indore**—alongside the newly designated **IIM Mumbai (formerly NITIE)**, represents the pinnacle of executive placements in India.

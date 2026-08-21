@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is there an entrance exam for IIM Udaipur online BBA?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       The program features a progressive fee structure: Year 1 is ₹50,000, Year
       2 is ₹1,00,000, Year 3 is ₹1,50,000, and Year 4 is ₹2,00,000, totaling
       ₹5,00,000 for the full 4-year Honours degree.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 In a historic shift for Indian business education, the Indian Institute of Management (IIM) Udaipur is launching its highly anticipated **4-Year Online, Bilingual Bachelor of Business Administration (BBA) program** on **July 6, 2026**. 

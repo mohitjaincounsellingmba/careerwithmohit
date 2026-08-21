@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Amity Raipur Institute of Business Studies a good option for PGDM/MBA?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: [Amity Raipur Institute of Business Studies](/colleges/amity-raipur-institute-of-business-studies)**

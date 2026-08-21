@@ -1,23 +1,45 @@
 ---
-title: "St Kabir Institute of Professional Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to St Kabir Institute of Professional Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  St Kabir Institute of Professional Studies PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to St Kabir Institute of Professional Studies? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "st kabir institute of professional studies review 2026"
-  - "st kabir institute of professional studies pgdm placements"
-  - "st kabir institute of professional studies admission cutoff"
-  - "st kabir institute of professional studies fees"
+  - st kabir institute of professional studies review 2026
+  - st kabir institute of professional studies pgdm placements
+  - st kabir institute of professional studies admission cutoff
+  - st kabir institute of professional studies fees
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: "Is St Kabir Institute of Professional Studies a good option for PGDM/MBA?"
+  - question: Is St Kabir Institute of Professional Studies a good option for PGDM/MBA?
     answer: >-
-      Yes, St Kabir Institute of Professional Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at St Kabir Institute of Professional Studies?"
+      Yes, St Kabir Institute of Professional Studies is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at St Kabir Institute of Professional
+      Studies?
     answer: >-
-      The average placement package at St Kabir Institute of Professional Studies is approximately ₹5.0 LPA, with the highest package reaching up to ₹12.8 LPA.
-  - question: "What entrance exams are accepted by St Kabir Institute of Professional Studies?"
+      The average placement package at St Kabir Institute of Professional
+      Studies is approximately ₹5.0 LPA, with the highest package reaching up to
+      ₹12.8 LPA.
+  - question: >-
+      What entrance exams are accepted by St Kabir Institute of Professional
+      Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Ahmedabad
+state: Gujarat
 ---
 
 ### **College Review: [St Kabir Institute of Professional Studies](/colleges/st-kabir-institute-of-professional-studies)**

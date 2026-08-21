@@ -13,6 +13,12 @@ keywords:
   - MIT-WPU placement 2025 review
   - MIT World Peace University average package
   - MIT-WPU engineering placements
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -28,6 +34,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Pune
+state: Maharashtra
 ---
 **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)**, located in the prestigious Kothrud area of Pune, is one of the most popular private engineering universities in India. Formerly known as MIT Pune, it rebranded into a university and is renowned for its state-of-the-art infrastructure, high-quality faculty, and strong corporate connections.
 

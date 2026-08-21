@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Vignan offer dual specialization in online MBA?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
     answer: >-
       Budget for an annual examination fee of ~₹4,000 and a one-time
       registration fee of ~₹1,000 in addition to the tuition fees.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **Vignan University** ([Vignan's Foundation for Science, Technology and Research](/colleges/vignan-s-foundation-for-science-technology-and-research)), based in **Guntur, Andhra Pradesh**, offers a highly affordable online MBA through [vignanonline.com](https://vignanonline.com). With **NAAC A+ accreditation**, NIRF ranking, AICTE approval, and a total fee as low as **₹90,000**, Vignan is one of South India's most credible budget-tier online MBA options in 2026.

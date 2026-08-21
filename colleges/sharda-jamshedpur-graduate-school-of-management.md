@@ -1,7 +1,7 @@
 ---
 name: Sharda Jamshedpur Graduate School of Management
 logo: /colleges/default-management-logo.webp
-location: 'Jamshedpur, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Sharda Jamshedpur Graduate School of Management PGDM placement
   - Sharda Jamshedpur Graduate School of Management MBA admission 2027
   - 'MBA colleges Jamshedpur, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Sharda Jamshedpur Graduate School of Management

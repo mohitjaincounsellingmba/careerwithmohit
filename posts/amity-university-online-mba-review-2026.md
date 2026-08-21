@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Amity Online MBA require CAT or any entrance exam?
     answer: >-
@@ -44,7 +48,8 @@ faqs:
       The Online MBA uses a live LMS with real-time classes, while Distance MBA
       was an older correspondence model. Amity has now primarily shifted to
       online mode.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[Amity University](/colleges/amity-noida) Online MBA** is one of the most recognized online management programs in India, offered by [Amity University, Noida](/colleges/amity-university-noida) — which holds **NAAC A+ accreditation**. With 15+ specializations and a globally recognized degree, it remains a top choice for working professionals in 2026.

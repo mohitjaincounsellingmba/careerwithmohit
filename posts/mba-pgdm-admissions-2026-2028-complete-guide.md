@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: When should I start preparing for CAT 2025?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
       An MBA is a heavy investment of time and money, but meticulous planning
       guarantees you end up exactly where you belong. Start your preparation
       early and stay consistent!
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Embarking on an MBA or PGDM journey is a transformative life decision, but the road to securing a seat in a top-tier B-school requires meticulous planning. If you are targeting the **2026-2028 academic batch**, your preparation must begin *now*, in mid-2025.

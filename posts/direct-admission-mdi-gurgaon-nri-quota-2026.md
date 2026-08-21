@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'Does [MDI Gurgaon](/colleges/mdi-gurgaon) have a Management Quota?'
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       A score of **665+ on the GMAT Focus Edition** is considered safe for the
       NRI/FN category. However, a strong professional profile and academic
       record can sometimes compensate for a slightly lower score (645+).
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon) NRI/FN 2026 Snapshot

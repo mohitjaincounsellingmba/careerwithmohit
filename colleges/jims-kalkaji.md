@@ -1,7 +1,7 @@
 ---
 name: JIMS Kalkaji (Jagannath International Management School)
 logo: /colleges/jims-kalkaji-logo.webp
-location: 'Kalkaji, Delhi'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - JIMS Kalkaji (Jagannath International Management School) PGDM placement
   - JIMS Kalkaji (Jagannath International Management School) MBA admission 2027
   - 'MBA colleges Kalkaji, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

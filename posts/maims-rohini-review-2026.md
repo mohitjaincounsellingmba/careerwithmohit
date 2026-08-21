@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the average package at Maharaja Agrasen Institute of Management
@@ -44,7 +48,8 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at Maharaja
       Agrasen Institute of Management Studies (MAIMS) is approximately ₹4.85
       Lakhs (Total).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) Review 2026: Fees, Placements, Cutoffs & ROI Analysis

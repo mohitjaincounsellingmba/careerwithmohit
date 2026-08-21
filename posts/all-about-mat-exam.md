@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 The Management Aptitude Test (MAT) is a national-level entrance exam conducted by the All India Management Association (AIMA). It is the most flexible MBA entrance exam in India because it is conducted four times a year and offers multiple testing modes (paper-based, computer-based, and remote proctored).
 

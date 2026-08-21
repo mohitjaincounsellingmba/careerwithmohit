@@ -17,6 +17,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Altera Institute good for a Marketing career?
     answer: >-
@@ -32,7 +36,8 @@ faqs:
       The ALAT process is highly practical, often involving a case presentation
       or a mini-project to evaluate your creative problem-solving and business
       communication skills.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: Altera Institute**

@@ -13,6 +13,12 @@ keywords:
   - cmat innovation and entrepreneurship
   - cmat cutoff jbims
   - score 99 percentile in cmat
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What is the CMAT Innovation & Entrepreneurship section syllabus?
     answer: >-
@@ -29,6 +35,8 @@ faqs:
       Yes. Since the difficulty level is moderate, you can easily crack CMAT by
       studying standard aptitude books, reading current affairs digests, and
       taking 10-12 CMAT-specific mock tests.
+location: Mumbai
+state: Maharashtra
 ---
 
 The Common Management Admission Test (CMAT) is a national-level entrance exam conducted by the National Testing Agency (NTA). It is one of the most popular MBA exams in India because its scores are accepted by over 1,000+ AICTE-approved B-schools. Additionally, CMAT is the primary gateway to the legendary **[JBIMS Mumbai](/colleges/jbims-mumbai)** (often called the CEO factory of India) for non-MH-CET candidates.

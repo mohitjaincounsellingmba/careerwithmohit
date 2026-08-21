@@ -1,7 +1,7 @@
 ---
 name: Jaipuria Jaipur
 logo: /colleges/jaipuria-jaipur-logo.webp
-location: 'Jaipur, Rajasthan'
+location: Jaipur
 category: Management
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Jaipuria Jaipur PGDM placement
   - Jaipuria Jaipur MBA admission 2027
   - 'MBA colleges Jaipur, Rajasthan'
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
+state: Rajasthan
 ---
 
 ### Courses & Fees

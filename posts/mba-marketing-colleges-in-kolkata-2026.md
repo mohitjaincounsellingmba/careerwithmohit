@@ -1,24 +1,38 @@
 ---
-title: 'Top MBA Marketing Colleges in Kolkata 2026 — Placements & Fees'
+title: Top MBA Marketing Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Looking for top MBA Marketing colleges in Kolkata? Review 2026 guide comparing IIM Calcutta, IMI Kolkata, and IISWBM placements and fees.'
+description: >-
+  Looking for top MBA Marketing colleges in Kolkata? Review 2026 guide comparing
+  IIM Calcutta, IMI Kolkata, and IISWBM placements and fees.
 keywords:
   - top mba marketing colleges in kolkata 2026
   - best marketing mba in kolkata
   - iim calcutta marketing placement
   - iiswbm kolkata marketing fees
   - imi kolkata average package 2025
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
   - question: Why is IIM Calcutta considered excellent for Marketing and Strategy?
     answer: >-
-      While famed for finance, IIM Calcutta's marketing department features elite professors and its graduates bag top roles in multinational FMCG brands and international consulting firms.
+      While famed for finance, IIM Calcutta's marketing department features
+      elite professors and its graduates bag top roles in multinational FMCG
+      brands and international consulting firms.
   - question: What is the fee structure for IISWBM Kolkata?
     answer: >-
-      IISWBM offers highly subsidized fees (approx. INR 6.0 Lakhs total) and is popular for its high ROI.
+      IISWBM offers highly subsidized fees (approx. INR 6.0 Lakhs total) and is
+      popular for its high ROI.
   - question: Are CMAT scores accepted by top Kolkata B-schools?
     answer: >-
-      While IIM Calcutta and IISWBM require CAT, several private institutions like Heritage accept CMAT and MAT.
+      While IIM Calcutta and IISWBM require CAT, several private institutions
+      like Heritage accept CMAT and MAT.
+location: Kolkata
+state: West Bengal
 ---
 
 Selecting the right B-school is critical if you are targeting a career in brand management, corporate sales, consumer research, retail marketing, or advertising. While general MBA rankings give a broad overview, marketing recruiters tend to visit campuses that have a strong case-study tradition, specialized consumer labs, and proximity to major corporate headquarters.

@@ -1,23 +1,40 @@
 ---
-title: "ITM Vocational University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to ITM Vocational University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  ITM Vocational University PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to ITM Vocational University? Read our comprehensive
+  PGDM review for 2026 covering total fees, average and highest placement
+  packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "itm vocational university review 2026"
-  - "itm vocational university pgdm placements"
-  - "itm vocational university admission cutoff"
-  - "itm vocational university fees"
+  - itm vocational university review 2026
+  - itm vocational university pgdm placements
+  - itm vocational university admission cutoff
+  - itm vocational university fees
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: "Is ITM Vocational University a good option for PGDM/MBA?"
+  - question: Is ITM Vocational University a good option for PGDM/MBA?
     answer: >-
-      Yes, ITM Vocational University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at ITM Vocational University?"
+      Yes, ITM Vocational University is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at ITM Vocational University?
     answer: >-
-      The average placement package at ITM Vocational University is approximately ₹5.8 LPA, with the highest package reaching up to ₹13.0 LPA.
-  - question: "What entrance exams are accepted by ITM Vocational University?"
+      The average placement package at ITM Vocational University is
+      approximately ₹5.8 LPA, with the highest package reaching up to ₹13.0 LPA.
+  - question: What entrance exams are accepted by ITM Vocational University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Ahmedabad
+state: Gujarat
 ---
 
 ### **College Review: [ITM Vocational University](/colleges/itm-vocational-university)**

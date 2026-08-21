@@ -1,7 +1,7 @@
 ---
 name: UPES Dehradun
 logo: ''
-location: 'Dehradun, Uttarakhand'
+location: Dehradun
 category: UG Courses
 type: University
 courses:
@@ -45,6 +45,13 @@ keywords:
   - UPES Dehradun mohit jain review
   - UPES Dehradun hostel fees
   - UPES Dehradun contact number
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
+state: Uttarakhand
 ---
 
 UPES is a leading university in Dehradun known for its specialized management program in Digital Business and Events Management, offering a scenic learning environment and strong corporate connects.

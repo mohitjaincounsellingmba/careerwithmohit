@@ -1,7 +1,7 @@
 ---
 name: MIT World Peace University (MIT-WPU)
 logo: ''
-location: 'Kothrud, Pune'
+location: Pune
 category: Engineering
 type: University
 courses:
@@ -44,6 +44,13 @@ keywords:
   - MIT World Peace University (MIT-WPU) CSE placement
   - MIT World Peace University (MIT-WPU) B.Tech admission 2027
   - 'engineering colleges Kothrud, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

@@ -11,6 +11,12 @@ keywords:
   - MAH CET cut off for Indira
   - best management institute in Wakad Pune
   - Indira Pune average package 2025
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -27,6 +33,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Mumbai
+state: Maharashtra
 ---
 The Indira Group of Institutes (IGI) is a household name in Pune's management education. With its flagship **Indira Institute of Management, Pune (IIMP)** located in the bustling Wakad area, it offers a perfect blend of academics and industry exposure.
 

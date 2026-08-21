@@ -1,9 +1,12 @@
 ---
 title: >-
-  All 21 IIMs Recent Placement Report 2025: Average & Highest Packages, Top Recruiters & Sector Trends
+  All 21 IIMs Recent Placement Report 2025: Average & Highest Packages, Top
+  Recruiters & Sector Trends
 date: '2026-08-15'
 description: >-
-  Comprehensive All IIM Recent Placement Report 2025. Explore average, median, highest CTC, lowest base salary, sector-wise hiring, and ROI across all 21 IIMs.
+  Comprehensive All IIM Recent Placement Report 2025. Explore average, median,
+  highest CTC, lowest base salary, sector-wise hiring, and ROI across all 21
+  IIMs.
 keywords:
   - all iim recent placement report 2025
   - all 21 iims placement report 2025
@@ -19,19 +22,41 @@ keywords:
   - best mba placements in india 2025
   - mba admission 2026
   - cat exam 2025
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What is the average placement package across Old IIMs in 2025?
     answer: >-
-      In the 2025 placement season, top Old IIMs (IIM Ahmedabad, IIM Bangalore, and IIM Calcutta) recorded average CTCs between INR 34.20 LPA and INR 34.88 LPA. Other Old IIMs including IIM Lucknow, IIM Kozhikode, IIM Indore, and IIM Mumbai recorded average packages ranging from INR 28.18 LPA to INR 34.50 LPA.
+      In the 2025 placement season, top Old IIMs (IIM Ahmedabad, IIM Bangalore,
+      and IIM Calcutta) recorded average CTCs between INR 34.20 LPA and INR
+      34.88 LPA. Other Old IIMs including IIM Lucknow, IIM Kozhikode, IIM
+      Indore, and IIM Mumbai recorded average packages ranging from INR 28.18
+      LPA to INR 34.50 LPA.
   - question: Which IIM recorded the highest package in the 2025 placement season?
     answer: >-
-      IIM Calcutta recorded an international highest package of INR 1.45 Crore per annum, while IIM Ahmedabad recorded a domestic highest package of INR 1.10 Crore per annum in the 2025 placement cycle.
+      IIM Calcutta recorded an international highest package of INR 1.45 Crore
+      per annum, while IIM Ahmedabad recorded a domestic highest package of INR
+      1.10 Crore per annum in the 2025 placement cycle.
   - question: How did New and Baby IIMs perform in the 2025 placements?
     answer: >-
-      New IIMs recorded average packages between INR 17.50 LPA and INR 27.03 LPA (led by IIM Shillong at INR 27.03 LPA and IIM Rohtak at INR 20.03 LPA). Baby IIMs showed remarkable resilience, with IIM Amritsar (INR 19.73 LPA) and IIM Nagpur (INR 18.07 LPA) outperforming several older private B-schools.
+      New IIMs recorded average packages between INR 17.50 LPA and INR 27.03 LPA
+      (led by IIM Shillong at INR 27.03 LPA and IIM Rohtak at INR 20.03 LPA).
+      Baby IIMs showed remarkable resilience, with IIM Amritsar (INR 19.73 LPA)
+      and IIM Nagpur (INR 18.07 LPA) outperforming several older private
+      B-schools.
   - question: What were the dominant recruiting sectors in IIM Placements 2025?
     answer: >-
-      Management Consulting (McKinsey, BCG, Bain, AT Kearney) and BFSI/Investment Banking (Goldman Sachs, Morgan Stanley, JP Morgan) remained the largest recruiting sectors, capturing over 55-60% of all offers at top IIMs, followed by Product Management, General Management, and FMCG.
+      Management Consulting (McKinsey, BCG, Bain, AT Kearney) and
+      BFSI/Investment Banking (Goldman Sachs, Morgan Stanley, JP Morgan)
+      remained the largest recruiting sectors, capturing over 55-60% of all
+      offers at top IIMs, followed by Product Management, General Management,
+      and FMCG.
+location: Mumbai
+state: Maharashtra
 ---
 
 The **Indian Institutes of Management (IIMs)** have concluded their recent placement cycle for the graduating batch of 2025. Despite broader global macroeconomic fluctuations and cautious tech hiring worldwide, the 21 IIMs once again reinforced their position as India's premier executive talent incubators.

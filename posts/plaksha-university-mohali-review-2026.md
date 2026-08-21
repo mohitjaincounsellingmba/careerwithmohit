@@ -14,8 +14,14 @@ keywords:
   - Best Colleges in Mohali
   - Top Universities in Punjab
   - Direct Admission in Mohali
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 category: Colleges
-location: Mohali
+location: Chandigarh
 faqs:
   - question: 'Is Plaksha University, Mohali a good choice for higher education in 2026?'
     answer: >-
@@ -37,6 +43,7 @@ faqs:
       entrance exams such as JEE Main, SAT, ACT, Plaksha Assessment, Interview
       (Holistic Admissions), followed by counseling, personal interviews, or
       merit-based shortlisting.
+state: Punjab
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Plaksha University, Mohali**, situated in **Mohali**, stands out as one of the premier destinations for undergraduate and postgraduate education in Punjab.

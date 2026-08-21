@@ -29,6 +29,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Is LBSIM Dwarka Executive PGDM recognized by AICTE?
@@ -44,7 +48,8 @@ faqs:
     answer: >-
       Yes, the final 3 months of the 15-month program are dedicated to an
       in-depth corporate internship/project.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Lal Bahadur Shastri Institute of Management (LBSIM), Delhi](/colleges/lbsim-delhi) represents a powerful gateway to higher senior leadership positions.

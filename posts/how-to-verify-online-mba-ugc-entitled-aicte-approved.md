@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is AICTE approval mandatory for an online MBA degree from a university?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       Your degree will not be legally valid. You will not be eligible for
       government jobs, higher education (like a PhD), or company promotions that
       require a recognized postgraduate degree.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 With hundreds of universities offering **Online MBA programs** in India, the market is crowded. Unfortunately, this has also led to several unrecognized institutes offering fraudulent or unapproved degrees. 

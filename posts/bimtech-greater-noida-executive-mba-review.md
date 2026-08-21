@@ -31,6 +31,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: What is the average package for BIMTECH Executive PGDM?
@@ -45,7 +49,8 @@ faqs:
     answer: >-
       There is no upper age limit, but applicants must have a minimum of 5 years
       of managerial experience.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Greater Noida, the Executive MBA / Executive PGDM offered by [Birla Institute of Management Technology (BIMTECH), Greater Noida](/colleges/bimtech-greater-noida) represents a powerful gateway to higher senior leadership positions.

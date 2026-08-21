@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: is it possible to change from VC to PE?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       schools for **Portfolio Operations or ESG-focused roles**.
   - question: What is the most important trait for a VC?
     answer: '**Networking.** Being the person whom every founder wants to call first.'
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The world of the "Buy-Side" represents the pinnacle of a finance career. While Investment Bankers act as agents, **Venture Capitalists (VC)** and **Private Equity (PE)** professionals act as owners. They don't just advise on deals; they deploy hundreds of millions of dollars of capital into businesses. In 2026, as the Indian startup ecosystem matures and late-stage buyouts increase, the demand for elite investment talent has never been higher.

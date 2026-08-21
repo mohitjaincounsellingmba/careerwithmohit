@@ -46,6 +46,13 @@ keywords:
   - Intellipaat - AMET University (Chennai) CSE placement
   - Intellipaat - AMET University (Chennai) B.Tech admission 2027
   - engineering colleges Chennai
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### B.Tech Courses & Fees

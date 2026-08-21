@@ -18,6 +18,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Sparsh Global good for placements?
     answer: >-
@@ -34,7 +38,8 @@ faqs:
       Candidates can apply through the official website using their **CAT, CMAT,
       or MAT** scores. The selection process includes a profile review and a
       personal interview focusing on your leadership potential.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### 📊 Sparsh Global 2026 Snapshot

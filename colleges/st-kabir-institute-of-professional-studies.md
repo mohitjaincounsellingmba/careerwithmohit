@@ -44,6 +44,13 @@ keywords:
   - St Kabir Institute of Professional Studies PGDM placement
   - St Kabir Institute of Professional Studies MBA admission 2027
   - MBA colleges Ahmedabad
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### Courses & Fees

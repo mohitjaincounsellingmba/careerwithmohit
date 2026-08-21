@@ -14,6 +14,12 @@ keywords:
   - DY Patil Pune placement review 2025
   - DYPIU BTech average package
   - DY Patil engineering Pune NIRF
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -29,6 +35,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Pune
+state: Maharashtra
 ---
 **D.Y. Patil International University (DYPIU)**, part of the legendary D.Y. Patil Group, is a modern, research-oriented university in Pune (Akurdi). Known for its forward-thinking curriculum and industry collaborations, DYPIU has quickly become a center for students who want to specialize in high-growth tech areas like Artificial Intelligence, Cybersecurity, and Bioengineering.
 

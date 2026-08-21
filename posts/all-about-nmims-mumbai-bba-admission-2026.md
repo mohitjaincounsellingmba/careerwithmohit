@@ -15,6 +15,12 @@ keywords:
   - nmims bba placement package
   - best bba college in mumbai
   - anil surendra modi school of commerce
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: >-
       Can I get direct admission in [NMIMS Mumbai](/colleges/nmims-mumbai) for
@@ -26,6 +32,8 @@ faqs:
     answer: >-
       The Mumbai campus (ASMSOC) is the flagship and most sought-after campus,
       followed by Bengaluru and Navi Mumbai.
+location: Mumbai
+state: Maharashtra
 ---
 
 The Anil Surendra Modi School of Commerce (ASMSOC) at [NMIMS Mumbai](/colleges/nmims-mumbai) is widely considered one of the top private BBA colleges in India. Located in the financial capital, it offers students unparalleled access to the corporate world through guest lectures, internships, and a modern curriculum.

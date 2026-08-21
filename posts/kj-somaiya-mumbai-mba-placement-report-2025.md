@@ -1,9 +1,12 @@
 ---
 title: >-
-  KJ Somaiya (KJSIM) Mumbai MBA Placement Report 2025: Audited Average CTC ₹12.70 LPA, Highest ₹23.03 LPA
+  KJ Somaiya (KJSIM) Mumbai MBA Placement Report 2025: Audited Average CTC
+  ₹12.70 LPA, Highest ₹23.03 LPA
 date: '2026-08-15'
 description: >-
-  Complete K.J. Somaiya Institute of Management (KJSIM) Mumbai MBA Placement Report 2025. Explore audited average package of ₹12.70 LPA, top BFSI recruiters & cutoffs.
+  Complete K.J. Somaiya Institute of Management (KJSIM) Mumbai MBA Placement
+  Report 2025. Explore audited average package of ₹12.70 LPA, top BFSI
+  recruiters & cutoffs.
 keywords:
   - kj somaiya mba placement report 2025
   - kjsim mumbai average package 2025
@@ -11,16 +14,30 @@ keywords:
   - kj somaiya cat xat cmat cutoff 2026
   - top private mba colleges in mumbai
   - mba admission 2026
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What was the average and highest CTC at KJ Somaiya in 2025?
     answer: >-
-      In its audited placement report for the 2023-25 graduating batch, K.J. Somaiya Institute of Management (KJSIM), Mumbai recorded an average salary of INR 12.70 LPA, a median CTC of INR 12.25 LPA, and a highest salary of INR 23.03 LPA.
+      In its audited placement report for the 2023-25 graduating batch, K.J.
+      Somaiya Institute of Management (KJSIM), Mumbai recorded an average salary
+      of INR 12.70 LPA, a median CTC of INR 12.25 LPA, and a highest salary of
+      INR 23.03 LPA.
   - question: Which entrance exams are accepted by KJ Somaiya Mumbai?
     answer: >-
-      KJSIM accepts CAT, XAT, GMAT, NMAT, and CMAT scores for its flagship MBA and specialized MBA programs.
+      KJSIM accepts CAT, XAT, GMAT, NMAT, and CMAT scores for its flagship MBA
+      and specialized MBA programs.
   - question: What is the primary recruiting sector at KJ Somaiya?
     answer: >-
-      Located in the financial capital Mumbai, BFSI and Financial Services remain the largest recruiting sector (commanding over 38% of all job offers), followed by IT/ITES and FMCG.
+      Located in the financial capital Mumbai, BFSI and Financial Services
+      remain the largest recruiting sector (commanding over 38% of all job
+      offers), followed by IT/ITES and FMCG.
+location: Mumbai
+state: Maharashtra
 ---
 
 Located on a sprawling 60-acre green campus in Mumbai, the **K.J. Somaiya Institute of Management (KJSIM)** under Somaiya Vidyavihar University is one of Western India's most established private management institutions, holding global AACSB accreditation.

@@ -1,23 +1,38 @@
 ---
-title: "FUEL Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to FUEL Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'FUEL Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to FUEL Business School? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "fuel business school review 2026"
-  - "fuel business school pgdm placements"
-  - "fuel business school admission cutoff"
-  - "fuel business school fees"
+  - fuel business school review 2026
+  - fuel business school pgdm placements
+  - fuel business school admission cutoff
+  - fuel business school fees
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is FUEL Business School a good option for PGDM/MBA?"
+  - question: Is FUEL Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, FUEL Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at FUEL Business School?"
+      Yes, FUEL Business School is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at FUEL Business School?
     answer: >-
-      The average placement package at FUEL Business School is approximately ₹7.5 LPA, with the highest package reaching up to ₹16.0 LPA.
-  - question: "What entrance exams are accepted by FUEL Business School?"
+      The average placement package at FUEL Business School is approximately
+      ₹7.5 LPA, with the highest package reaching up to ₹16.0 LPA.
+  - question: What entrance exams are accepted by FUEL Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [FUEL Business School](/colleges/fuel-business-school)**

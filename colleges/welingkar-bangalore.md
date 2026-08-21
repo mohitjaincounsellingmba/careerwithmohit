@@ -1,7 +1,7 @@
 ---
 name: Welingkar (WeSchool) Bangalore
 logo: /colleges/weschool-logo.webp
-location: 'Electronic City, Bangalore'
+location: Bangalore
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - Welingkar (WeSchool) Bangalore PGDM placement
   - Welingkar (WeSchool) Bangalore MBA admission 2027
   - 'MBA colleges Electronic City, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

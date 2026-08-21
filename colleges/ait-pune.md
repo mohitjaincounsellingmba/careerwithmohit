@@ -1,7 +1,7 @@
 ---
 name: Army Institute of Technology (AIT)
 logo: ''
-location: 'Dighi Hills, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Army Institute of Technology (AIT) CSE placement
   - Army Institute of Technology (AIT) B.Tech admission 2027
   - 'engineering colleges Dighi Hills, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

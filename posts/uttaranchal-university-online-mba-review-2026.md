@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Uttaranchal better than Kalinga for an online MBA?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       strength. Choose based on geography and employer network fit.
   - question: Can I pursue Uttaranchal Online MBA from outside Uttarakhand?
     answer: Yes. The program is 100% online and accessible from any location in India.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[Uttaranchal University](/colleges/uttaranchal-university)**, based in **Dehradun, Uttarakhand**, offers an affordable online MBA through its digital education platform (uttaranchaluniversityonline.com). Holding a **NAAC A+ grade** and UGC-DEB recognition, [Uttaranchal University](/colleges/uttaranchal-university) positions itself as a strong mid-budget option — particularly for students in North India and Himalayan states who need a recognized degree at under ₹1.5 Lakhs.

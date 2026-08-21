@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       Is [Bennett University](/colleges/bennett-greater-noida) worth the high
@@ -38,7 +42,8 @@ faqs:
       are eligible for significant tuition fee waivers.
   - question: 'Which group owns [Bennett University](/colleges/bennett-greater-noida)?'
     answer: The university is owned and backed by the Times of India Group.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[Bennett University](/colleges/bennett-greater-noida)**, established by the Times of India Group, has quickly become one of India's most high-profile private universities in the Delhi-NCR (Greater Noida). Known for its futuristic curriculum, world-class infrastructure, and a strong emphasis on entrepreneurship and AI, Bennett is a top choice for students who want a tech-lifestyle campus experience.

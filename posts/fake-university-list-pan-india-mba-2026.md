@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       Which authority in India is legally empowered to declare an institution or
@@ -65,7 +69,8 @@ faqs:
       Distance Education Bureau (deb.ugc.ac.in) for online/distance MBA
       approvals. Always cross-verify the exact campus name, address, and
       year-by-year approval letter.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Fake University List Pan India for MBA 2026: UGC & AICTE Blacklisted Colleges & Red Flags

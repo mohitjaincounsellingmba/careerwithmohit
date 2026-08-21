@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 Central University of Karnataka (CUK) stands out as a prominent institution in South India offering quality education. For the 2026 session, admissions to its diverse UG and PG programs are determined primarily by national-level entrance exams like CUET and JEE Main.
 

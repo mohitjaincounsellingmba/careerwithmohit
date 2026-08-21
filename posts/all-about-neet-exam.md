@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the expected date for NEET-UG 2026?
     answer: 'NEET 2026 is expected to be held on **Sunday, May 3, 2026**.'
@@ -34,7 +38,8 @@ faqs:
       qualification requirements.
   - question: Is the NEET syllabus limited to NCERT?
     answer: "While the majority of questions (roughly 95%+) are directly based on NCERT textbooks, some conceptual application questions may require a slightly deeper understanding of the topics.\n\n[\U0001F449 Confused about medical admissions and NEET counselling? Get expert advice from Mohit Jain today!](/inquiry)"
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **National Eligibility cum Entrance Test (NEET-UG)** is the single, centralized entrance exam for medical aspirants in India. It is the mandatory pathway for admission to various undergraduate medical courses, including MBBS, BDS, BAMS, BHMS, and BUMS, in both government and private medical colleges across the country.

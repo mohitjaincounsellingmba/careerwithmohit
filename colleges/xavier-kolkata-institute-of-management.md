@@ -1,7 +1,7 @@
 ---
 name: Xavier Kolkata Institute of Management
 logo: /colleges/default-management-logo.webp
-location: 'Kolkata, India'
+location: Kolkata
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Xavier Kolkata Institute of Management PGDM placement
   - Xavier Kolkata Institute of Management MBA admission 2027
   - 'MBA colleges Kolkata, India'
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
+state: West Bengal
 ---
 
 ### About Xavier Kolkata Institute of Management

@@ -1,23 +1,47 @@
 ---
-title: "Amity Vadodara Institute of Professional Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Amity Vadodara Institute of Professional Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Amity Vadodara Institute of Professional Studies PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Amity Vadodara Institute of Professional Studies?
+  Read our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "amity vadodara institute of professional studies review 2026"
-  - "amity vadodara institute of professional studies pgdm placements"
-  - "amity vadodara institute of professional studies admission cutoff"
-  - "amity vadodara institute of professional studies fees"
+  - amity vadodara institute of professional studies review 2026
+  - amity vadodara institute of professional studies pgdm placements
+  - amity vadodara institute of professional studies admission cutoff
+  - amity vadodara institute of professional studies fees
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: "Is Amity Vadodara Institute of Professional Studies a good option for PGDM/MBA?"
+  - question: >-
+      Is Amity Vadodara Institute of Professional Studies a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Amity Vadodara Institute of Professional Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Amity Vadodara Institute of Professional Studies?"
+      Yes, Amity Vadodara Institute of Professional Studies is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Amity Vadodara Institute of
+      Professional Studies?
     answer: >-
-      The average placement package at Amity Vadodara Institute of Professional Studies is approximately ₹5.0 LPA, with the highest package reaching up to ₹11.0 LPA.
-  - question: "What entrance exams are accepted by Amity Vadodara Institute of Professional Studies?"
+      The average placement package at Amity Vadodara Institute of Professional
+      Studies is approximately ₹5.0 LPA, with the highest package reaching up to
+      ₹11.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Amity Vadodara Institute of
+      Professional Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Ahmedabad
+state: Gujarat
 ---
 
 ### **College Review: [Amity Vadodara Institute of Professional Studies](/colleges/amity-vadodara-institute-of-professional-studies)**

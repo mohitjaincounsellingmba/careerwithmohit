@@ -1,7 +1,7 @@
 ---
 name: Christ University - School of Business and Management
 logo: ''
-location: Ghaziabad
+location: Delhi NCR
 category: Management
 type: University
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Christ University - School of Business and Management PGDM placement
   - Christ University - School of Business and Management MBA admission 2027
   - MBA colleges Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

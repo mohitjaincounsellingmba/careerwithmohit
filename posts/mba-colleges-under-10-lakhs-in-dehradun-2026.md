@@ -11,6 +11,12 @@ keywords:
   - affordable MBA in Dehradun
   - low fees MBA colleges in Dehradun
   - best MBA in Dehradun under 10 Lakhs
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
   - question: Which is the best MBA college under 10 Lakhs in Dehradun?
     answer: >-
@@ -31,6 +37,8 @@ faqs:
       total fee of under 10 Lakhs and average placement packages ranging from 5
       LPA to 12 LPA, graduates can recover their educational expenses in a very
       short duration.
+location: Dehradun
+state: Uttarakhand
 ---
 
 Pursuing a Master of Business Administration (MBA) does not always have to result in massive student loans. While top private business schools in India charge tuition fees ranging from ₹15 Lakhs to ₹28 Lakhs, several high-quality government institutions, state university departments, and local private colleges in **Dehradun** offer quality management education under a budget of ₹10 Lakhs.

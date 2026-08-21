@@ -26,7 +26,11 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-location: Noida
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: Can I get a good MBA college with a 50-60 percentile in CAT?
     answer: >-
@@ -54,6 +58,7 @@ faqs:
       If you need immediate career transition and can join a recognized college
       offering ₹7-9 LPA with decent corporate interface, taking admission is
       often better than losing a full year to uncertain exam retakes.
+state: Delhi NCR
 ---
 
 Receiving a **50 to 60 percentile in CAT 2026** (roughly 13 to 22 marks) can initially feel disappointing, but it is by no means the end of your corporate aspirations. In reality, **hundreds of established, AICTE-approved B-schools and UGC-accredited private universities** specifically cater to this segment.

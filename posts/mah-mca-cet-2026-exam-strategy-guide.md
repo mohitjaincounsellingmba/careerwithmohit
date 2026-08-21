@@ -15,6 +15,12 @@ keywords:
   - mah mca cet logic books
   - mah mca cet 2026 cutoff vjti
   - top mca colleges in maharashtra ranking
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: Can students outside Maharashtra apply?
     answer: >-
@@ -31,6 +37,8 @@ faqs:
     answer: >-
       Ideally, 4 months before the exam (November/December). If you start in
       January, you will have to focus only on mocks and high-weightage topics.
+location: Mumbai
+state: Maharashtra
 ---
 
 The Maharashtra MCA Common Entrance Test (MAH MCA CET) is the gateway to some of India's most prestigious and high-ROI institutes like **VJTI Mumbai** and **DoCS (SPPU) Pune**. In 2026, it remains the primary engine for computer application admissions in Maharashtra, attracting over 50,000 students for just a handful of Tier-1 seats.

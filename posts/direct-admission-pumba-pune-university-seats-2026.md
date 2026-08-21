@@ -13,6 +13,12 @@ keywords:
   - '[PUMBA Pune](/colleges/pumba-pune) MBA fees 2026'
   - department of management sciences pune university admission
   - PUMBA NRI quota
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: Can I get direct admission in PUMBA for MBA?
     answer: >-
@@ -30,6 +36,8 @@ faqs:
     answer: >-
       The primary exam is **MAH MBA CET**. For All India seats, CAT and CMAT
       scores are also valid.
+location: Pune
+state: Maharashtra
 ---
 
 The Department of Management Sciences (PUMBA), Savitribai Phule Pune University, is one of the top government MBA colleges in India. Known for its academic excellence and high ROI, PUMBA is a top choice for CET aspirants. If you are targetting **Direct Admission in [PUMBA Pune](/colleges/pumba-pune) for 2026**, here is everything you need to know about the process.

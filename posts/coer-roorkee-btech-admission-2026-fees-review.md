@@ -12,6 +12,12 @@ keywords:
   - COER placement review 2025
   - BTech admission Roorkee
   - 'COER vs [Quantum University](/colleges/quantum-university-roorkee)'
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
   - question: Is COER University the same as the College of Engineering Roorkee?
     answer: >-
@@ -23,6 +29,8 @@ faqs:
       known for its interdisciplinary approach.
   - question: What is the highest package at COER?
     answer: The highest package recorded for the recent batch was ₹44 LPA.
+location: Dehradun
+state: Uttarakhand
 ---
 
 **COER University** (formerly known as the College of Engineering Roorkee - CORE), established in 1998, is one of the oldest and most respected private engineering colleges in Uttarakhand. Located near Roorkee (the hub of world-class technical education), COER is known for its academic heritage and strong placement record.

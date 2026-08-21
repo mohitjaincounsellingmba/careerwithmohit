@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Preparing for the UPSC Civil Services Examination (IAS, IPS, IRS) or State Public Service Commissions (SPSC) is a rigorous and expensive journey. Recognizing this, the **Jain International Trade Organisation (JITO)**, through its **JATF (JITO Administrative Training Foundation)** wing, offers an incredible scholarship and coaching program to empower students from the Jain community.
 

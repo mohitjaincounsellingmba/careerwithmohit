@@ -1,23 +1,38 @@
 ---
-title: "PES University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to PES University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'PES University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to PES University? Read our comprehensive PGDM review
+  for 2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "pes university review 2026"
-  - "pes university pgdm placements"
-  - "pes university admission cutoff"
-  - "pes university fees"
+  - pes university review 2026
+  - pes university pgdm placements
+  - pes university admission cutoff
+  - pes university fees
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
-  - question: "Is PES University a good option for PGDM/MBA?"
+  - question: Is PES University a good option for PGDM/MBA?
     answer: >-
-      Yes, PES University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at PES University?"
+      Yes, PES University is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at PES University?
     answer: >-
-      The average placement package at PES University is approximately ₹7.65 LPA, with the highest package reaching up to ₹12.50 LPA.
-  - question: "What entrance exams are accepted by PES University?"
+      The average placement package at PES University is approximately ₹7.65
+      LPA, with the highest package reaching up to ₹12.50 LPA.
+  - question: What entrance exams are accepted by PES University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Bangalore
+state: Karnataka
 ---
 
 ### **College Review: [PES University](/colleges/pes-university)**

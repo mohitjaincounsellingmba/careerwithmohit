@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does MSI offer different shifts for BBA?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
     answer: >-
       Yes, Maharaja Surajmal Institute has its own hostel facility for both boys
       and girls within the campus.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi), located in Janakpuri, Delhi, is consistently ranked as the #1 college under Guru Gobind Singh Indraprastha University (GGSIPU). Known for its academic discipline and excellent placement records, MSI is a top priority for BBA aspirants in 2026 who want a high-quality education at an affordable price.

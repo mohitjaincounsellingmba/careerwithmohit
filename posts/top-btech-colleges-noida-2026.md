@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best B.Tech college in Noida?
     answer: >-
@@ -52,7 +56,8 @@ faqs:
     answer: >-
       JIIT charges approximately ₹2.1 Lakhs per year. Total B.Tech programme
       cost is around ₹8.5–₹9 Lakhs.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Noida and Greater Noida form one of India's fastest-growing tech corridors — hosting campuses of Amazon, Adobe, HCL, Samsung, and hundreds of IT companies. A B.Tech from a top Noida college puts you in the middle of Delhi-NCR's booming tech job market.

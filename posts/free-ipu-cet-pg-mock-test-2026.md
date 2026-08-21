@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
     answer: >-
       No, to simulate real exam conditions, the timer runs continuously. We
       recommend attempting the test in a single sitting without interruptions.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Succeeding in the **IPU CET / CUET PG 2026** entrance exam demands not just subject expertise but also robust pacing, high accuracy under pressure, and sharp decision-making. Utilizing simulated tests is the absolute benchmark method utilized by high-scoring candidates to gauge their preparedness and improve their execution speed.
 

@@ -1,7 +1,7 @@
 ---
 name: ADGITM (Dr. Akhilesh Das Gupta Institute of Technology & Management)
 logo: ''
-location: 'Shastri Park, Delhi'
+location: Delhi NCR
 category: Engineering
 type: Institute
 courses:
@@ -70,6 +70,13 @@ keywords:
     ADGITM (Dr. Akhilesh Das Gupta Institute of Technology & Management) B.Tech
     admission 2027
   - 'engineering colleges Shastri Park, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### B.Tech Courses & Fees

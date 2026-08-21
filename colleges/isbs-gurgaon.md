@@ -1,7 +1,7 @@
 ---
 name: ISBS Gurgaon (ISB&M)
 logo: /colleges/isbs-logo.webp
-location: 'Gurgaon, Haryana'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - ISBS Gurgaon (ISB&M) PGDM placement
   - ISBS Gurgaon (ISB&M) MBA admission 2027
   - 'MBA colleges Gurgaon, Haryana'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About ISBS Gurgaon

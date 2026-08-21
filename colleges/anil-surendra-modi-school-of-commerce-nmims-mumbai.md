@@ -1,7 +1,7 @@
 ---
 name: 'Anil Surendra Modi School of Commerce, NMIMS'
 logo: 'https://images.shiksha.com/mediadata/images/1545124018phpf4kE6N.jpeg'
-location: 'Mumbai, Maharashtra'
+location: Mumbai
 category: UG Courses
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - 'Anil Surendra Modi School of Commerce, NMIMS mohit jain review'
   - 'Anil Surendra Modi School of Commerce, NMIMS hostel fees'
   - 'Anil Surendra Modi School of Commerce, NMIMS contact number'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 Anil Surendra Modi School of Commerce (ASMSOC) at NMIMS Mumbai is one of India's premier institutes for undergraduate management education. Known for its rigorous curriculum and excellent placement record, it offers flagship BBA, B.Com, and B.Sc Finance programs designed to bridge the gap between academia and industry.

@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Amity Lucknow require Maths for BCA?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
     answer: >-
       Registrations usually start in **April/May**. The entrance test (LUVET) is
       typically held in June.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Lucknow, the "City of Nawabs" and the political heart of Uttar Pradesh, is a massive educational hub for students from UP, Bihar, and Jharkhand. With the development of the IT City (Chak Ganjaria) and the presence of HCL Technologies, Lucknow is becoming a stable launchpad for BCA (Bachelor of Computer Applications) aspirants.

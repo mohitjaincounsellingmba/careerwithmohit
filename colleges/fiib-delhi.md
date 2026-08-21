@@ -1,7 +1,7 @@
 ---
 name: 'FIIB (Fortune Institute of International Business), Delhi'
 logo: /colleges/fiib-logo.webp
-location: 'Vasant Vihar, Delhi'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -48,6 +48,13 @@ keywords:
   - 'FIIB (Fortune Institute of International Business), Delhi PGDM placement'
   - 'FIIB (Fortune Institute of International Business), Delhi MBA admission 2027'
   - 'MBA colleges Vasant Vihar, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

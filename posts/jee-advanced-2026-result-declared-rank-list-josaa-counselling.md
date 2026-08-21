@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 The wait is finally over! **IIT Roorkee** has officially declared the **JEE Advanced 2026 results** on **May 31, 2026** — a day ahead of the originally scheduled date of June 1. Over 1.8 lakh students who appeared for the exam on **May 17, 2026** can now access their scorecards, All India Rank (AIR), and category-wise ranks on the official portal.
 

@@ -15,6 +15,12 @@ keywords:
   - bca admission pune 2026
   - symbiosis bca pune cutoff
   - direct bca admission pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: Does MIT-WPU require Maths for BCA?
     answer: >-
@@ -33,6 +39,8 @@ faqs:
     answer: >-
       Admissions usually start in **May/June** after the 12th Board results are
       declared.
+location: Pune
+state: Maharashtra
 ---
 
 Pune, the "Oxford of the East" and a massive IT hub (Hinjewadi IT Park), is a prime destination for BCA students. Home to India's largest IT service providers like TCS, Infosys, and Cognizant, Pune provides an environment where computer application students can thrive through strong industry-academia collaborations.

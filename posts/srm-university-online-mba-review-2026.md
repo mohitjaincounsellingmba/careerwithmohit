@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the difference between SRM on-campus and online MBA?
     answer: >-
@@ -43,7 +47,8 @@ faqs:
       SRM focuses on niche specializations (AI, Healthcare) and has stronger
       tech sector ties. Amity offers more specializations (15+), while CU Online
       is more affordable. Compare based on your career target.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **SRM Institute of Science and Technology (SRMIST)** — one of India's most reputed private universities — offers an online MBA program through **SRM Online** (srmonline.in). With a **NAAC A++ grade** and AICTE recognition, it is a credible option for working professionals seeking a branded degree in 2026.

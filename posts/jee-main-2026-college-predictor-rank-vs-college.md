@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'is it possible to get NIT Trichy with 15,000 rank?'
     answer: >-
@@ -44,7 +48,8 @@ faqs:
     answer: >-
       Expected to start in the **second week of June**, following the JEE
       Advanced result.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 With the **JEE Main 2026 Session 2 results officially declared**, the focus of lakhs of students has shifted from "How many marks?" to **"Which college can I get?"** This guide provides a counselor-verified mapping of **JEE Main 2026 All India Ranks (AIR)** to realistic admission chances in NITs, IIITs, GFTIs, and top-tier private universities.

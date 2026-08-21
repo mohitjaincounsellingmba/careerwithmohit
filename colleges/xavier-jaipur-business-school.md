@@ -1,7 +1,7 @@
 ---
 name: Xavier Jaipur Business School
 logo: /colleges/default-management-logo.webp
-location: 'Jaipur, India'
+location: Jaipur
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Xavier Jaipur Business School PGDM placement
   - Xavier Jaipur Business School MBA admission 2027
   - 'MBA colleges Jaipur, India'
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
+state: Rajasthan
 ---
 
 ### About Xavier Jaipur Business School

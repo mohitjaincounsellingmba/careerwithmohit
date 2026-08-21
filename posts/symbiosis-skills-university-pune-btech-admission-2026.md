@@ -15,6 +15,12 @@ keywords:
   - SSPU BTech average package
   - SEET 2026 dates
   - Maharashtra first skill university
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -30,6 +36,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Pune
+state: Maharashtra
 ---
 **Symbiosis Skills and Professional University (SSPU)** in Pune is recognized as Maharashtra's first "Skill Development University." Unlike traditional engineering colleges that focus solely on academic theory, SSPU is designed to create **industry-ready** professionals through a unique B.Tech model that integrates mandatory internships every year.
 

@@ -26,6 +26,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the Google Data Analytics Apprenticeship program in India?
     answer: >-
@@ -61,7 +65,8 @@ faqs:
       The apprenticeship is an in-person, full-time program offered across major
       Google India office locations including Hyderabad, Bengaluru, Gurugram,
       and Mumbai.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 Are you a recent graduate or aspiring data professional looking to kickstart your career with one of the world's most innovative technology companies? The **Google Data Analytics Apprenticeship (2026–2027 Cohort)** is one of India's most prestigious entry-level work-and-study programs. Designed specifically for individuals with passion for data and problem-solving, this 24-month immersive program bridges the gap between academic learning and real-world corporate analytics.
 

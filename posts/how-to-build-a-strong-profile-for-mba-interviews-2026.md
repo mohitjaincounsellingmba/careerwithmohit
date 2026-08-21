@@ -25,7 +25,11 @@ keywords:
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Delhi NCR College Counselling
-location: Delhi
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: What are the main components of an MBA candidate's profile?
     answer: >-
@@ -55,6 +59,7 @@ faqs:
       Bangalore, and FMS Delhi. Freshers can compensate for work experience with
       high CAT percentiles, strong academic records, and notable extracurricular
       leadership.
+state: Delhi NCR
 ---
 
 While a high CAT score gets you the interview call, **your profile converts that call into a final admission offer**. Admissions committees at the **IIMs, [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [FMS Delhi](/colleges/fms-delhi), SPJIMR, and top global B-schools** are not just looking for test-takers; they are selecting future corporate leaders, entrepreneurs, and change-makers.

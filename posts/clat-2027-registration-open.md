@@ -1,8 +1,12 @@
 ---
-title: 'CLAT 2027 Registration Open: Application Form, Dates, Eligibility & How to Apply'
+title: >-
+  CLAT 2027 Registration Open: Application Form, Dates, Eligibility & How to
+  Apply
 date: '2026-08-06'
 description: >-
-  The Consortium of NLUs has opened the CLAT 2027 registration. Check the application process, important dates, eligibility criteria, and fee details for the Common Law Admission Test 2027.
+  The Consortium of NLUs has opened the CLAT 2027 registration. Check the
+  application process, important dates, eligibility criteria, and fee details
+  for the Common Law Admission Test 2027.
 keywords:
   - CLAT 2027 registration
   - CLAT application form 2027
@@ -12,17 +16,29 @@ keywords:
   - NLU admission 2027
   - Consortium of NLUs
   - law entrance exams 2027
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: When is the last date to apply for CLAT 2027?
     answer: >-
-      The last date to fill out the CLAT 2027 registration form is typically in the first week of November. Check the official Consortium of NLUs website for the exact deadline.
+      The last date to fill out the CLAT 2027 registration form is typically in
+      the first week of November. Check the official Consortium of NLUs website
+      for the exact deadline.
   - question: Who is eligible to apply for CLAT 2027 (UG)?
     answer: >-
-      Candidates who have passed or are appearing for their Class 12 board examinations with at least 45% aggregate marks (40% for SC/ST categories) are eligible for the CLAT UG 2027 exam.
+      Candidates who have passed or are appearing for their Class 12 board
+      examinations with at least 45% aggregate marks (40% for SC/ST categories)
+      are eligible for the CLAT UG 2027 exam.
   - question: What is the application fee for CLAT 2027?
     answer: >-
-      The application fee for General/OBC/PWD/NRI/PIO/OCI candidates is usually ₹4,000, while it is ₹3,500 for SC/ST/BPL candidates.
-location: India
+      The application fee for General/OBC/PWD/NRI/PIO/OCI candidates is usually
+      ₹4,000, while it is ₹3,500 for SC/ST/BPL candidates.
+location: Bangalore
+state: Karnataka
 ---
 The Consortium of National Law Universities (NLUs) has officially opened the registration for the **Common Law Admission Test (CLAT) 2027**. Law aspirants looking to secure admission into the prestigious 5-year integrated BA LLB (UG) or LLM (PG) programs across 24 participating NLUs can now fill out the application form.
 

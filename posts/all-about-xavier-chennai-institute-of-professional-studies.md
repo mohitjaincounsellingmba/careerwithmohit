@@ -1,23 +1,47 @@
 ---
-title: "Xavier Chennai Institute of Professional Studies PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Chennai Institute of Professional Studies? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Chennai Institute of Professional Studies PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Xavier Chennai Institute of Professional Studies?
+  Read our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "xavier chennai institute of professional studies review 2026"
-  - "xavier chennai institute of professional studies pgdm placements"
-  - "xavier chennai institute of professional studies admission cutoff"
-  - "xavier chennai institute of professional studies fees"
+  - xavier chennai institute of professional studies review 2026
+  - xavier chennai institute of professional studies pgdm placements
+  - xavier chennai institute of professional studies admission cutoff
+  - xavier chennai institute of professional studies fees
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "Is Xavier Chennai Institute of Professional Studies a good option for PGDM/MBA?"
+  - question: >-
+      Is Xavier Chennai Institute of Professional Studies a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Xavier Chennai Institute of Professional Studies is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Chennai Institute of Professional Studies?"
+      Yes, Xavier Chennai Institute of Professional Studies is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Xavier Chennai Institute of
+      Professional Studies?
     answer: >-
-      The average placement package at Xavier Chennai Institute of Professional Studies is approximately ₹6.4 LPA, with the highest package reaching up to ₹17.0 LPA.
-  - question: "What entrance exams are accepted by Xavier Chennai Institute of Professional Studies?"
+      The average placement package at Xavier Chennai Institute of Professional
+      Studies is approximately ₹6.4 LPA, with the highest package reaching up to
+      ₹17.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Xavier Chennai Institute of
+      Professional Studies?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Chennai
+state: Tamil Nadu
 ---
 
 ### **College Review: [Xavier Chennai Institute of Professional Studies](/colleges/xavier-chennai-institute-of-professional-studies)**

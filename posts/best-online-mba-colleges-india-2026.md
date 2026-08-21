@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
     answer: >-
       Yes, universities typically conduct online semester exams using AI-enabled
       or human-proctored systems to maintain academic integrity.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 The demand for **online MBA programs in India** has surged in 2026. With UGC formally recognizing online degrees as equivalent to regular degrees, professionals and fresh graduates alike are enrolling in top online MBA programs — without stepping foot on a campus.
 

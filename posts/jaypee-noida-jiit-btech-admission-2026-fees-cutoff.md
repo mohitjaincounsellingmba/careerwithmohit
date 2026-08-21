@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is JIIT Noida a government college?
     answer: >-
@@ -33,7 +37,8 @@ faqs:
     answer: >-
       Yes, JIIT provides well-maintained hostels for both boys and girls at its
       Sector 62 and Sector 128 campuses.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)** in Noida is arguably the most prestigious private engineering institute in the Delhi-NCR for Computer Science and Information Technology. Accredited with **NAAC Grade 'A'** and consistently ranking among the top private universities in India, JIIT is renowned for its academic rigor, disciplined environment, and spectacular placement record.

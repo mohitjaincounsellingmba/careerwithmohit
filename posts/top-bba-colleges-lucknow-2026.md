@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: does IIM Lucknow have a BBA course?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
     answer: >-
       For top-tier colleges like Jaipuria and LU, the average package ranges
       from **₹4.5L to ₹7.5L**.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Lucknow, the "City of Nawabs" and the administrative heart of Uttar Pradesh, has rapidly transformed into a major educational and corporate hub. With the entry of the HCL IT City and the rising presence of financial institutions, Lucknow offers BBA students a unique blend of cultural heritage and modern corporate growth.

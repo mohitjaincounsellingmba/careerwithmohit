@@ -1,7 +1,7 @@
 ---
 name: Mangalmay Institute of Management (MIMT)
 logo: ''
-location: Greater Noida
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Mangalmay Institute of Management (MIMT) PGDM placement
   - Mangalmay Institute of Management (MIMT) MBA admission 2027
   - MBA colleges Greater Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

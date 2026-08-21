@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'Is [Bennett University](/colleges/bennett-greater-noida) good for MBA?'
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       Bennett has a very strong corporate relations team. For the 2025 batch,
       the highest package was **₹33 LPA**, with several students joining Big 4
       and top FMCG firms.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### **College Review: [Bennett University](/colleges/bennett-greater-noida)**

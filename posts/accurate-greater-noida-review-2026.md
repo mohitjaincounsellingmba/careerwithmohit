@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the average package at Accurate Institute of Management &
@@ -44,7 +48,8 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at Accurate
       Institute of Management & Technology is approximately ₹3.25L - ₹6.95L
       (Total).
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology Review 2026: Fees, Placements, Cutoffs & ROI Analysis

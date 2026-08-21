@@ -1,7 +1,7 @@
 ---
 name: Lal Bahadur Shastri Chandigarh School of Business & Management
 logo: /colleges/default-management-logo.webp
-location: 'Chandigarh, India'
+location: Chandigarh
 category: Management
 type: Institute
 courses:
@@ -63,6 +63,13 @@ keywords:
     Lal Bahadur Shastri Chandigarh School of Business & Management MBA admission
     2027
   - 'MBA colleges Chandigarh, India'
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
+state: Punjab
 ---
 
 ### About Lal Bahadur Shastri Chandigarh School of Business & Management

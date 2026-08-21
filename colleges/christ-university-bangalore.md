@@ -1,7 +1,7 @@
 ---
 name: Christ University Bangalore
 logo: /colleges/christ-logo.webp
-location: 'Bannerghatta/Kengeri, Bangalore'
+location: Bangalore
 category: Management
 type: University
 courses:
@@ -41,6 +41,13 @@ keywords:
   - Christ University Bangalore PGDM placement
   - Christ University Bangalore MBA admission 2027
   - 'MBA colleges Bannerghatta/Kengeri, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### Courses & Fees

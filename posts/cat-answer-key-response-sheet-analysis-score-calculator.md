@@ -28,7 +28,11 @@ keywords:
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Delhi NCR College Counselling
-location: Noida
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: When is the CAT answer key and response sheet released?
     answer: >-
@@ -55,6 +59,7 @@ faqs:
       Calculate your sectional and overall raw scores, check college application
       deadlines for non-IIMs (like MDI, SPJIMR, FMS, IMT, FORE, GIM) which close
       before CAT results, and start preparing for WAT-GD-PI.
+state: Delhi NCR
 ---
 
 The release of the **CAT Answer Key & Candidate Response Sheet** is one of the most high-stakes moments for MBA aspirants. It provides official clarity on your performance, eliminates guesswork, and enables you to calculate your exact raw score before final results are announced.

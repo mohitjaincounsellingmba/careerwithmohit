@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the fee of BBA at IIMT Greater Noida?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
       Yes, candidates meeting the eligibility criteria (minimum 45% aggregate in
       10+2 from a recognized board) can apply for direct merit-based admission
       or register through CCS University counseling.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 [IIMT Group of Colleges](/colleges/iimt-greater-noida), located in the bustling educational hub of Knowledge Park III, Greater Noida, has established a strong presence for itself over the last two decades. The BBA (Bachelor of Business Administration) program is run under the **IIMT College of Management** and is highly sought after by students looking for an affordable, career-focused management degree in the Delhi NCR region.

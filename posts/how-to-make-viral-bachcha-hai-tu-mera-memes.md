@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 If you have been scrolling through Instagram or X (Twitter) lately, you must have seen the iconic **Jameel Jamali** (played by Rakesh Bedi) pointing at something and saying, **“Bachcha Hai Tu Mera.”** This trend from the movie *Dhurandhar 2* has taken the internet by storm, with everyone from local shops to global brands joining the viral wave.
 

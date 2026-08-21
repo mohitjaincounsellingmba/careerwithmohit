@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: When will the CAT 2026 application form open?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       You will need a scanned passport-size photograph, your signature, category
       certificates (SC/ST/OBC-NCL/EWS) if applicable, and detailed academic
       transcripts from class 10th, 12th, and graduation.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Common Admission Test (CAT) is the most prestigious and competitive national-level MBA entrance exam in India, serving as the gateway to the elite Indian Institutes of Management (IIMs), [FMS Delhi](/colleges/fms-delhi), SPJIMR, MDI, and over 1,200 other top-tier business schools.

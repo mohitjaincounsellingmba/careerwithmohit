@@ -12,6 +12,12 @@ keywords:
   - alliance university btech cons
   - alliance university bangalore review
   - alliance university btech placements
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -27,6 +33,8 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+location: Bangalore
+state: Karnataka
 ---
 **Alliance University, Bangalore**, is often ranked among the top private universities in South India. Known for its beautiful "green" campus and strong marketing, it attracts thousands of B.Tech aspirants every year. 
 

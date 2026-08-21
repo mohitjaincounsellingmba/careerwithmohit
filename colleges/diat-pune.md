@@ -1,7 +1,7 @@
 ---
 name: Defence Institute of Advanced Technology (DIAT)
 logo: ''
-location: 'Girinagar, Pune'
+location: Pune
 category: Engineering
 type: University
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Defence Institute of Advanced Technology (DIAT) CSE placement
   - Defence Institute of Advanced Technology (DIAT) B.Tech admission 2027
   - 'engineering colleges Girinagar, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

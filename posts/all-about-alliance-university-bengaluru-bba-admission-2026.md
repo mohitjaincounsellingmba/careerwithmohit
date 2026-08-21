@@ -12,6 +12,12 @@ keywords:
   - ausat 2026 strategy
   - best private bba college in bangalore
   - alliance school of business review
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: Does Alliance University have a dress code?
     answer: >-
@@ -22,6 +28,8 @@ faqs:
       Yes, due to its international accreditations and UGC recognition, the BBA
       degree from Alliance is widely accepted for higher studies and jobs
       globally.
+location: Bangalore
+state: Karnataka
 ---
 
 Alliance University, Bengaluru, is a top-ranked private university in India, known for its flagship Alliance School of Business. With its beautiful 50-acre green campus and international focus, it is a premier choice for BBA aspirants in 2026 who want a global management education experience.

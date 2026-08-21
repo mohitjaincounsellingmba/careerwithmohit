@@ -1,23 +1,38 @@
 ---
-title: "SPJIMR Mumbai PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to SPJIMR Mumbai? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'SPJIMR Mumbai PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to SPJIMR Mumbai? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "spjimr mumbai review 2026"
-  - "spjimr mumbai pgdm placements"
-  - "spjimr mumbai admission cutoff"
-  - "spjimr mumbai fees"
+  - spjimr mumbai review 2026
+  - spjimr mumbai pgdm placements
+  - spjimr mumbai admission cutoff
+  - spjimr mumbai fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is SPJIMR Mumbai a good option for PGDM/MBA?"
+  - question: Is SPJIMR Mumbai a good option for PGDM/MBA?
     answer: >-
-      Yes, SPJIMR Mumbai is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at SPJIMR Mumbai?"
+      Yes, SPJIMR Mumbai is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at SPJIMR Mumbai?
     answer: >-
-      The average placement package at SPJIMR Mumbai is approximately ₹33.0 LPA, with the highest package reaching up to ₹77.8 LPA.
-  - question: "What entrance exams are accepted by SPJIMR Mumbai?"
+      The average placement package at SPJIMR Mumbai is approximately ₹33.0 LPA,
+      with the highest package reaching up to ₹77.8 LPA.
+  - question: What entrance exams are accepted by SPJIMR Mumbai?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, GMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, GMAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [SPJIMR Mumbai](/colleges/spjimr-mumbai)**

@@ -1,23 +1,42 @@
 ---
-title: "St. Wilfred’s Institute of Management PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to St. Wilfred’s Institute of Management? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  St. Wilfred’s Institute of Management PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to St. Wilfred’s Institute of Management? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "st. wilfred’s institute of management review 2026"
-  - "st. wilfred’s institute of management pgdm placements"
-  - "st. wilfred’s institute of management admission cutoff"
-  - "st. wilfred’s institute of management fees"
+  - st. wilfred’s institute of management review 2026
+  - st. wilfred’s institute of management pgdm placements
+  - st. wilfred’s institute of management admission cutoff
+  - st. wilfred’s institute of management fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is St. Wilfred’s Institute of Management a good option for PGDM/MBA?"
+  - question: Is St. Wilfred’s Institute of Management a good option for PGDM/MBA?
     answer: >-
-      Yes, St. Wilfred’s Institute of Management is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at St. Wilfred’s Institute of Management?"
+      Yes, St. Wilfred’s Institute of Management is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at St. Wilfred’s Institute of
+      Management?
     answer: >-
-      The average placement package at St. Wilfred’s Institute of Management is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
-  - question: "What entrance exams are accepted by St. Wilfred’s Institute of Management?"
+      The average placement package at St. Wilfred’s Institute of Management is
+      approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
+  - question: What entrance exams are accepted by St. Wilfred’s Institute of Management?
     answer: >-
-      The college accepts scores from national level entrance examinations including MAH CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including MAH CET, CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [St. Wilfred’s Institute of Management](/colleges/st-wilfreds-mumbai)**

@@ -1,24 +1,39 @@
 ---
-title: 'Top MBA Digital Marketing Colleges in Chennai 2026 — Placements & Fees'
+title: Top MBA Digital Marketing Colleges in Chennai 2026 — Placements & Fees
 date: '2026-07-17'
 category: MBA Admissions
-description: 'Compare the best B-schools for MBA Digital Marketing in Chennai. Get details on fees, placements, and cutoffs for Great Lakes, DoMS IIT Madras, and LIBA Chennai.'
+description: >-
+  Compare the best B-schools for MBA Digital Marketing in Chennai. Get details
+  on fees, placements, and cutoffs for Great Lakes, DoMS IIT Madras, and LIBA
+  Chennai.
 keywords:
   - top mba digital marketing colleges in chennai 2026
   - best digital marketing mba in chennai
   - great lakes chennai marketing placement
   - doms iit madras placements fees
   - liba chennai admission
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Why is Great Lakes Chennai highly recommended for marketing?
     answer: >-
-      Great Lakes Chennai incorporates analytics into its marketing courses and offers specialized electives that cover digital marketing, customer relationship management, and social media campaigns.
+      Great Lakes Chennai incorporates analytics into its marketing courses and
+      offers specialized electives that cover digital marketing, customer
+      relationship management, and social media campaigns.
   - question: What is the fee for DoMS IIT Madras?
     answer: >-
-      DoMS IIT Madras offers a total fee structure of around INR 10 Lakhs, yielding a very high ROI with an average package of INR 16.60 LPA.
+      DoMS IIT Madras offers a total fee structure of around INR 10 Lakhs,
+      yielding a very high ROI with an average package of INR 16.60 LPA.
   - question: Does LIBA Chennai accept CMAT scores?
     answer: >-
-      No, LIBA Chennai accepts only CAT and XAT scores for admissions to its flagship PGDM programs.
+      No, LIBA Chennai accepts only CAT and XAT scores for admissions to its
+      flagship PGDM programs.
+location: Chennai
+state: Tamil Nadu
 ---
 
 Selecting the right B-school is critical if you are targeting a career in digital brand management, digital advertising, search engine optimization, content strategy, or e-commerce marketing. While general MBA rankings give a broad overview, marketing and digital recruiters tend to visit campuses that have a strong tradition of consumer research, dedicated marketing specializations, and proximity to major corporate headquarters.

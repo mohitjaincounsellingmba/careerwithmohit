@@ -1,23 +1,52 @@
 ---
-title: "Eastern Institute for Integrated Learning in Management (EIILM) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Eastern Institute for Integrated Learning in Management (EIILM)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Eastern Institute for Integrated Learning in Management (EIILM) PGDM Admission
+  Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Eastern Institute for Integrated Learning in
+  Management (EIILM)? Read our comprehensive PGDM review for 2026 covering total
+  fees, average and highest placement packages, accepted entrance exams, and
+  cutoffs.
 keywords:
-  - "eastern institute for integrated learning in management (eiilm) review 2026"
-  - "eastern institute for integrated learning in management (eiilm) pgdm placements"
-  - "eastern institute for integrated learning in management (eiilm) admission cutoff"
-  - "eastern institute for integrated learning in management (eiilm) fees"
+  - eastern institute for integrated learning in management (eiilm) review 2026
+  - >-
+    eastern institute for integrated learning in management (eiilm) pgdm
+    placements
+  - >-
+    eastern institute for integrated learning in management (eiilm) admission
+    cutoff
+  - eastern institute for integrated learning in management (eiilm) fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is Eastern Institute for Integrated Learning in Management (EIILM) a good option for PGDM/MBA?"
+  - question: >-
+      Is Eastern Institute for Integrated Learning in Management (EIILM) a good
+      option for PGDM/MBA?
     answer: >-
-      Yes, Eastern Institute for Integrated Learning in Management (EIILM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Eastern Institute for Integrated Learning in Management (EIILM)?"
+      Yes, Eastern Institute for Integrated Learning in Management (EIILM) is a
+      highly respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Eastern Institute for Integrated
+      Learning in Management (EIILM)?
     answer: >-
-      The average placement package at Eastern Institute for Integrated Learning in Management (EIILM) is approximately ₹5.5 LPA, with the highest package reaching up to ₹12.0 LPA.
-  - question: "What entrance exams are accepted by Eastern Institute for Integrated Learning in Management (EIILM)?"
+      The average placement package at Eastern Institute for Integrated Learning
+      in Management (EIILM) is approximately ₹5.5 LPA, with the highest package
+      reaching up to ₹12.0 LPA.
+  - question: >-
+      What entrance exams are accepted by Eastern Institute for Integrated
+      Learning in Management (EIILM)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, ATMA, VUMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, ATMA, VUMAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [Eastern Institute for Integrated Learning in Management (EIILM)](/colleges/eiilm-kolkata)**

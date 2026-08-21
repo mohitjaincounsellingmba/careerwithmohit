@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What MHT CET percentile is needed for COEP Pune CSE?
     answer: >-
@@ -42,7 +46,8 @@ faqs:
     answer: >-
       For Tier-1 colleges (COEP, PICT), the average package ranges from ₹12L to
       ₹18L. For Tier-2 private colleges, it ranges between ₹5L and ₹9L.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Pune, famously known as the "Oxford of the East," has transformed into one of India's most significant IT and manufacturing hubs. For engineering aspirants in 2026, this means one thing: **unmatched industry exposure and placement opportunities.**

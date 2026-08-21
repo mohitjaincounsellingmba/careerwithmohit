@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get IPU B.Tech without JEE Main?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
       MAIT is generally ranked higher for its coding culture and placement
       packages, but MSIT is often preferred for its discipline and central
       location in Janakpuri.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Guru Gobind Singh Indraprastha University (GGSIPU), popularly known as IP University, is the go-to destination for B.Tech aspirants in Delhi-NCR. With 85% seats reserved for Delhi candidates, it offers some of the best ROI (Return on Investment) engineering colleges after IIT Delhi and DTU/NSUT.

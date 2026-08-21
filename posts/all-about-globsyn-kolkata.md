@@ -1,23 +1,38 @@
 ---
-title: "Globsyn Business School PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Globsyn Business School? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Globsyn Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Globsyn Business School? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "globsyn business school review 2026"
-  - "globsyn business school pgdm placements"
-  - "globsyn business school admission cutoff"
-  - "globsyn business school fees"
+  - globsyn business school review 2026
+  - globsyn business school pgdm placements
+  - globsyn business school admission cutoff
+  - globsyn business school fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is Globsyn Business School a good option for PGDM/MBA?"
+  - question: Is Globsyn Business School a good option for PGDM/MBA?
     answer: >-
-      Yes, Globsyn Business School is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Globsyn Business School?"
+      Yes, Globsyn Business School is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Globsyn Business School?
     answer: >-
-      The average placement package at Globsyn Business School is approximately ₹7.5 LPA, with the highest package reaching up to ₹23.0 LPA.
-  - question: "What entrance exams are accepted by Globsyn Business School?"
+      The average placement package at Globsyn Business School is approximately
+      ₹7.5 LPA, with the highest package reaching up to ₹23.0 LPA.
+  - question: What entrance exams are accepted by Globsyn Business School?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, JEMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, JEMAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [Globsyn Business School](/colleges/globsyn-kolkata)**

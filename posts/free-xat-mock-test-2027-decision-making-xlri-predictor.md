@@ -19,6 +19,12 @@ keywords:
   - free mock test 2026
   - online exam preparation
   - practice paper online
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -33,7 +39,8 @@ faqs:
     answer: >-
       No, to simulate real exam conditions, the timer runs continuously. We
       recommend attempting the test in a single sitting without interruptions.
-location: India
+location: Delhi NCR
+state: Delhi NCR
 ---
 # Free XAT Mock Test 2027: Full 95-Question CBT with Decision Making & XLRI Cutoff Predictor
 

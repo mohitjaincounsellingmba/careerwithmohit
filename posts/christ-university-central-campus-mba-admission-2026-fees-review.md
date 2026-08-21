@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Christ University (Central Campus) good for MBA?
     answer: >-
@@ -35,7 +39,8 @@ faqs:
       grooming standards for its management students.
   - question: What is the difference between MBA and PGDM at Christ?
     answer: "Christ offers a full-time MBA degree as a Deemed to be University, which is recognized globally for higher education.\n\nExplore other Christ Campuses:\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused Between Central Campus and Kengeri?**\nWhile Central Campus is the urban heart, Kengeri offers a lush, sprawling environment with similar placement opportunities. At **CareerWithMohit**, we help you decide based on your specialization and learning style.\n\n[\U0001F449 Get Expert MBA Admission Support for Christ University!](/inquiry)"
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **Christ (Deemed to be University)**, particularly its Central Campus on Hosur Road, Bangalore, is a top-tier destination for MBA aspirants in India. Known for its strict discipline, industry-oriented curriculum, and high-tech urban campus, the **School of Business and Management (SBM)** at Christ is consistently ranked among the top private B-schools.

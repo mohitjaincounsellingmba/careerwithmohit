@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the highest package at JKBS?
     answer: ₹24 LPA for recent batches — achieved by top performers from the batch.
@@ -36,7 +40,8 @@ faqs:
     answer: >-
       Yes — JKBS offers hostel accommodation for outstation students on its
       10-acre residential campus.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)** is one of the most practical choices for MBA aspirants who want a **PGDM from Gurgaon's corporate belt at under ₹9 Lakhs** — without compromising on placement quality or campus experience.

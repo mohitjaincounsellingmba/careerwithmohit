@@ -26,8 +26,12 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: Colleges
-location: Delhi
+location: Delhi NCR
 faqs:
   - question: >-
       Is O.P. Jindal Global University (Jindal Global Business School), Sonipat
@@ -55,6 +59,7 @@ faqs:
       Business School), Sonipat are conducted based on entrance exams such as
       CAT, MAT, XAT, NMAT, GMAT, GRE, JSAT, CLAT, LSAT India, CUET, followed by
       counseling, personal interviews, or merit-based shortlisting.
+state: Delhi NCR
 ---
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **O.P. Jindal Global University (Jindal Global Business School), Sonipat**, situated in **Sonipat**, stands out as one of the premier destinations for undergraduate and postgraduate education in Haryana.

@@ -1,7 +1,7 @@
 ---
 name: JBIMS Mumbai
 logo: /colleges/jbims-logo.webp
-location: 'Mumbai, Maharashtra'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -41,6 +41,13 @@ keywords:
   - JBIMS Mumbai PGDM placement
   - JBIMS Mumbai MBA admission 2027
   - 'MBA colleges Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### Courses & Fees

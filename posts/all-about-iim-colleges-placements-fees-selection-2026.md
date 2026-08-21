@@ -28,6 +28,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How many IIMs are there in India and who approves them?
     answer: >-
@@ -56,7 +60,8 @@ faqs:
       Following the enactment of the IIM Act, 2017, all 21 IIMs are empowered to
       award standard Master of Business Administration (MBA) degrees instead of
       the traditional PGDM diplomas.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Indian Institutes of Management (IIMs)** represent the pinnacle of management education in India. For over six decades, an IIM degree has been the gold standard for corporate leadership, entrepreneurship, and global business excellence. Whether you are aiming for prestigious MBB consulting firms, bulge-bracket investment banks, or high-growth tech unicorns, entering an IIM is often the most transformative career decision an aspirant can make.

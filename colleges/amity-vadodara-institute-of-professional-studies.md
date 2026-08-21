@@ -1,7 +1,7 @@
 ---
 name: Amity Vadodara Institute of Professional Studies
 logo: /colleges/default-management-logo.webp
-location: 'Vadodara, India'
+location: Ahmedabad
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Amity Vadodara Institute of Professional Studies PGDM placement
   - Amity Vadodara Institute of Professional Studies MBA admission 2027
   - 'MBA colleges Vadodara, India'
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### About Amity Vadodara Institute of Professional Studies

@@ -1,7 +1,7 @@
 ---
 name: MIT Academy of Engineering (MITAOE)
 logo: ''
-location: 'Alandi, Pune'
+location: Pune
 category: Engineering
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - MIT Academy of Engineering (MITAOE) CSE placement
   - MIT Academy of Engineering (MITAOE) B.Tech admission 2027
   - 'engineering colleges Alandi, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

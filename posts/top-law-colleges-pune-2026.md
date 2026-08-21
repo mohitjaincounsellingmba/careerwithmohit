@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does SLS Pune accept CLAT?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       autonomous bodies offer an Institutional Quota for direct admission.
   - question: When is the MAH CET Law 2026 exam?
     answer: 'The 5-year CET is usually in **May**, and the 3-year CET is in **June**.'
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Pune, the "Oxford of the East," is a historic pillar of legal education in India. Home to legendary institutions like ILS Law College and Symbiosis Law School, Pune provides a unique blend of high-intensity academic traditions and modern corporate legal training.

@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: When will the DU CSAS UG 2026 counselling registration begin?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       and for Hindu College, it is 760-790+. These are estimated based on past
       merit trends.
 category: Admissions
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Delhi University (DU) is the dream destination for millions of high school graduates across India. Specifically, programs like **B.Com (Hons.)** and **B.Com (Programme)** offered by top colleges such as SRCC, Hindu College, Hansraj College, and Lady Shri Ram (LSR) witness intense competition every year. 
 

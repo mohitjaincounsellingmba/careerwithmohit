@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Does IMT Ghaziabad offer placement for Executive PGDM?
@@ -33,7 +37,8 @@ faqs:
       months of a live field project.
   - question: What are the accepted entrance test scores?
     answer: 'IMT accepts valid scores from CAT, XAT, and GMAT.'
-location: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Ghaziabad, the Executive MBA / Executive PGDM offered by [Institute of Management Technology (IMT), Ghaziabad](/colleges/imt-ghaziabad) represents a powerful gateway to higher senior leadership positions.

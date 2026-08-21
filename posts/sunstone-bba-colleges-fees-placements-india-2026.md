@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 With the increasing demand for industry-ready management graduates, **Sunstone** has emerged as a popular choice for BBA aspirants across India. Sunstone is not a standalone university; rather, it is an **education services provider** that partners with top universities across the country to deliver an enhanced, industry-aligned BBA degree. 
 

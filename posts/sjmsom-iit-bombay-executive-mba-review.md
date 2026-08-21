@@ -1,16 +1,49 @@
 ---
-title: "Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba","Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba review","Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba fees","Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba placement","Mumbai executive mba","best executive mba in Mumbai"]
-category: "MBA"
+title: >-
+  Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay Executive MBA
+  Review
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Shailesh J. Mehta
+  School of Management (SJMSOM), IIT Bombay. Learn about total fees,
+  eligibility, accepted entrance exams, average packages, pros, cons, and expert
+  verdicts.
+keywords:
+  - 'Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba'
+  - >-
+    Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba
+    review
+  - >-
+    Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba
+    fees
+  - >-
+    Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba
+    placement
+  - Mumbai executive mba
+  - best executive mba in Mumbai
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+category: MBA
 faqs:
-  - question: "Is the degree awarded jointly by IIT Bombay and WashU?"
-    answer: "Yes, this is the only program in India that awards a joint Executive MBA degree from both a top Indian institution (IIT Bombay) and an elite American university (Washington University in St. Louis)."
-  - question: "Does the program include international travel?"
-    answer: "Yes, the program includes a mandatory 2-week capstone residency module at Washington University in St. Louis, USA."
-  - question: "What is the schedule of classes?"
-    answer: "Classes are held once a month in a 4-day residency format (Thursday through Sunday) at the IIT Bombay campus."
+  - question: Is the degree awarded jointly by IIT Bombay and WashU?
+    answer: >-
+      Yes, this is the only program in India that awards a joint Executive MBA
+      degree from both a top Indian institution (IIT Bombay) and an elite
+      American university (Washington University in St. Louis).
+  - question: Does the program include international travel?
+    answer: >-
+      Yes, the program includes a mandatory 2-week capstone residency module at
+      Washington University in St. Louis, USA.
+  - question: What is the schedule of classes?
+    answer: >-
+      Classes are held once a month in a 4-day residency format (Thursday
+      through Sunday) at the IIT Bombay campus.
+location: Mumbai
+state: Maharashtra
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay](/colleges/iit-bombay) represents a powerful gateway to higher senior leadership positions.

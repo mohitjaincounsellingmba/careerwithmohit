@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 The Indian Premier League (IPL) has transformed sports from a pastime into a multi-billion dollar industry in India. With the rise of the Pro Kabaddi League, ISL, and various international tournaments hosted in the country, the demand for professional sports managers is at an all-time high.
 

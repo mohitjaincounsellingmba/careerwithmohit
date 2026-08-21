@@ -1,7 +1,7 @@
 ---
 name: 'Jagan Institute of Management Studies (JIMS), Rohini'
 logo: 'https://images.shiksha.com/mediadata/images/1545638848phpL82kS0.jpeg'
-location: 'Rohini, Delhi (Delhi NCR)'
+location: Delhi NCR
 category: UG Courses
 type: Institute
 courses:
@@ -46,6 +46,13 @@ keywords:
   - 'Jagan Institute of Management Studies (JIMS), Rohini mohit jain review'
   - 'Jagan Institute of Management Studies (JIMS), Rohini hostel fees'
   - 'Jagan Institute of Management Studies (JIMS), Rohini contact number'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 Jagan Institute of Management Studies (JIMS) in Rohini, Delhi, is a prominent name for BBA education in the NCR region. With its strong industry linkages and modern infrastructure, it prepares graduates for diverse business roles.

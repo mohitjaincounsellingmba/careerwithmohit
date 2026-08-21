@@ -20,6 +20,12 @@ keywords:
   - free mock test 2026
   - online exam preparation
   - practice paper online
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What is the pattern of the CAT 2026 exam?
     answer: >-
@@ -35,7 +41,8 @@ faqs:
       A raw score of 85+ (out of 198) is typically required to secure a 99+
       percentile, which is the benchmark for getting call letters from the top 3
       IIMs (A, B, C).
-location: India
+location: Mumbai
+state: Maharashtra
 ---
 # Best Mock Tests for MBA Entrance Exams 2026: CAT, NMAT, XAT & SNAP Test Series Compared
 

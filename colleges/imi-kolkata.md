@@ -1,7 +1,7 @@
 ---
 name: IMI Kolkata
 logo: /colleges/imi-logo.webp
-location: 'Kolkata, West Bengal'
+location: Kolkata
 category: Management
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - IMI Kolkata PGDM placement
   - IMI Kolkata MBA admission 2027
   - 'MBA colleges Kolkata, West Bengal'
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
+state: West Bengal
 ---
 
 ### Courses & Fees

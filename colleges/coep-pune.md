@@ -1,7 +1,7 @@
 ---
 name: COEP Technological University
 logo: ''
-location: 'Shivajinagar, Pune'
+location: Pune
 category: Engineering
 type: University
 courses:
@@ -44,6 +44,13 @@ keywords:
   - COEP Technological University CSE placement
   - COEP Technological University B.Tech admission 2027
   - 'engineering colleges Shivajinagar, Pune'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### B.Tech Courses & Fees

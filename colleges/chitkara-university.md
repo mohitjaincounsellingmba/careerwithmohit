@@ -1,7 +1,7 @@
 ---
 name: Chitkara University
 logo: ''
-location: Rajpura
+location: Chandigarh
 category: Management
 type: University
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Chitkara University PGDM placement
   - Chitkara University MBA admission 2027
   - MBA colleges Rajpura
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
+state: Punjab
 ---
 
 ### Courses & Fees

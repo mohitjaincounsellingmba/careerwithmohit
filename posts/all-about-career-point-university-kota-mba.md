@@ -10,6 +10,12 @@ keywords:
   - CPU Kota placement 2024
   - best private MBA in Kota
   - Career Point MBA admission
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: Is Career Point University good for MBA?
     answer: >-
@@ -24,6 +30,8 @@ faqs:
     answer: >-
       Yes, CPU accepts CMAT scores, but students can also appear for the
       university's own entrance test for scholarships and direct admission.
+location: Jaipur
+state: Rajasthan
 ---
 
 ### 📊 CPU Kota MBA 2026 Snapshot

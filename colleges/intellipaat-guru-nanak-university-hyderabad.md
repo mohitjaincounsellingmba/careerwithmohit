@@ -46,6 +46,13 @@ keywords:
   - Intellipaat - Guru Nanak University (Hyderabad) CSE placement
   - Intellipaat - Guru Nanak University (Hyderabad) B.Tech admission 2027
   - engineering colleges Hyderabad
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
+state: Telangana
 ---
 
 ### B.Tech Courses & Fees

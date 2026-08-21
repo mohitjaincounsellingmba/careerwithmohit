@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does FIIB have AACSB accreditation?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
     answer: >-
       FIIB typically accepts candidates with 60–75 percentile in CAT/XAT, along
       with MAT, CMAT, ATMA, and GMAT scores.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 When MBA aspirants in Delhi search for a PGDM college that balances **global accreditation, industry relevance, and strong placements**, FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)) consistently makes the shortlist. But what actually sets FIIB apart from the dozens of AICTE-approved B-schools competing in the same bracket?

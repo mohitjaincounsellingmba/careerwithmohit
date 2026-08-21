@@ -11,6 +11,12 @@ keywords:
   - affordable MBA in Pune
   - low fees MBA colleges in Pune
   - best MBA in Pune under 10 Lakhs
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: Which is the best MBA college under 10 Lakhs in Pune?
     answer: >-
@@ -30,6 +36,8 @@ faqs:
       total fee of under 10 Lakhs and average placement packages ranging from 5
       LPA to 12 LPA, graduates can recover their educational expenses in a very
       short duration.
+location: Pune
+state: Maharashtra
 ---
 
 Pursuing a Master of Business Administration (MBA) does not always have to result in massive student loans. While top private business schools in India charge tuition fees ranging from ₹15 Lakhs to ₹28 Lakhs, several high-quality government institutions, state university departments, and local private colleges in **Pune** offer quality management education under a budget of ₹10 Lakhs.

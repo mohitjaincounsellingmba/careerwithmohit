@@ -1,7 +1,7 @@
 ---
 name: 'IBMR Business School, Gurgaon'
 logo: /colleges/ibmr-logo.webp
-location: 'Gurgaon, Haryana'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - 'IBMR Business School, Gurgaon PGDM placement'
   - 'IBMR Business School, Gurgaon MBA admission 2027'
   - 'MBA colleges Gurgaon, Haryana'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About IBMR Gurgaon

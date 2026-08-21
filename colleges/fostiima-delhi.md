@@ -1,7 +1,7 @@
 ---
 name: 'Fostiima Business School, Delhi'
 logo: /colleges/fostiima-logo.webp
-location: 'Dwarka, Delhi'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - 'Fostiima Business School, Delhi PGDM placement'
   - 'Fostiima Business School, Delhi MBA admission 2027'
   - 'MBA colleges Dwarka, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

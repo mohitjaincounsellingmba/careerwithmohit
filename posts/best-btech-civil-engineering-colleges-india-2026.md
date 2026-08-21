@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Civil Engineering a good career choice in 2026?
     answer: >-
@@ -49,7 +53,8 @@ faqs:
       Fresh B.Tech Civil Engineering graduates earn ₹4–7 LPA in private sector.
       PSU recruitment via GATE offers ₹9–14 LPA. IIT Civil graduates at top
       consulting firms earn ₹12–18 LPA.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Civil Engineering is the foundational branch of human civilisation — responsible for India's roads, bridges, metro systems, smart cities, dams, and airports. With India's massive infrastructure push under the National Infrastructure Pipeline (NIP), Smart Cities Mission, and defence construction, Civil Engineering graduates are in strong demand in both government and private sectors.

@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which IIM is conducting CAT 2026?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
     answer: >-
       IIM Indore last conducted the CAT exam in **2020**. Prior to that, they
       also organized CAT in **2013** and **2014**.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The Common Admission Test (CAT) is India's most prestigious and highly competitive MBA entrance exam. For candidates aiming to secure a seat in one of the 21 Indian Institutes of Management (IIMs) or other top B-schools like [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and [MDI Gurgaon](/colleges/mdi-gurgaon), knowing who organizes the exam is one of the first steps of the journey.

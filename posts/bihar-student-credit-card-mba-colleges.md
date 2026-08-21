@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is the Bihar Student Credit Card really interest-free in 2026?
     answer: >-
@@ -38,7 +42,8 @@ faqs:
       your grace period.
   - question: How long does the verification process take?
     answer: Usually **45 to 60 days** from the date of your DRCC office visit.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 If you are a student from Bihar planning to pursue an MBA in the **2026-28 session**, the **Bihar Student Credit Card (BSCC)** scheme is your most powerful financial tool. Managed through **District Registration & Counselling Centres (DRCC)**, it has recently been updated to offer even better terms for students.

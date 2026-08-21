@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How accurate is the CUET PG MBA College Predictor?
     answer: >-
@@ -39,7 +43,8 @@ faqs:
     answer: >-
       Yes, our tool converts your raw score into an estimated percentile and
       then maps it to the probable university cutoffs.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Are you aiming for a top-tier MBA or PGDM through the Common University Entrance Test? With the competition intensifying for spots at prestigious institutions like **TISS Mumbai**, **BHU**, and **JNU**, knowing where you stand is crucial.

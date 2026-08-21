@@ -44,6 +44,13 @@ keywords:
   - Uttaranchal University PGDM placement
   - Uttaranchal University MBA admission 2027
   - MBA colleges Dehradun
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
+state: Uttarakhand
 ---
 
 ### Courses & Fees

@@ -1,7 +1,7 @@
 ---
 name: Manipal University Jaipur
 logo: ''
-location: 'Jaipur, Rajasthan'
+location: Jaipur
 category: UG Courses
 type: University
 courses:
@@ -45,6 +45,13 @@ keywords:
   - Manipal University Jaipur mohit jain review
   - Manipal University Jaipur hostel fees
   - Manipal University Jaipur contact number
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
+state: Rajasthan
 ---
 
 Manipal University Jaipur is highly regarded for its BBA programs, especially in niche fields like FinTech and Digital Marketing, providing students with advanced business knowledge and industry-ready skills.

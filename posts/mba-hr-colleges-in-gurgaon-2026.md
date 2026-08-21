@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Why is MDI Gurgaon highly prestigious for HR?
     answer: >-
@@ -32,7 +36,8 @@ faqs:
       program, attracting high placement interest from major companies.
   - question: What exams does Great Lakes Gurgaon accept?
     answer: 'Great Lakes Gurgaon accepts CAT, XAT, GMAT, and CMAT scores.'
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Selecting the right B-school is critical if you are targeting a career in talent acquisition, workforce management, employee wellness, industrial relations, or strategic human resources. While general MBA rankings give a broad overview, HR recruiters tend to visit campuses that have a strong tradition of organizational behavior studies, dedicated HR specialized cells, and proximity to major corporate headquarters.

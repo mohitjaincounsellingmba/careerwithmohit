@@ -1,7 +1,7 @@
 ---
 name: Sharda Osmanabad Graduate School of Management
 logo: /colleges/default-management-logo.webp
-location: 'Osmanabad, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Sharda Osmanabad Graduate School of Management PGDM placement
   - Sharda Osmanabad Graduate School of Management MBA admission 2027
   - 'MBA colleges Osmanabad, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Sharda Osmanabad Graduate School of Management

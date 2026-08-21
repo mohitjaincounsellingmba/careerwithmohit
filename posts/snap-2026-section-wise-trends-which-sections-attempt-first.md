@@ -10,6 +10,12 @@ keywords:
   - '[SIBM Pune](/colleges/sibm-pune) cutoff'
   - SNAP exam pattern
   - speed based test strategy
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -26,6 +32,8 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+location: Pune
+state: Maharashtra
 ---
 The Symbiosis National Aptitude Test (SNAP) is one of the most popular speed-based MBA entrance exams in India. Unlike CAT or XAT, which are 2 to 3.5 hours long, SNAP is a sprint: **60 questions in 60 minutes**. 
 

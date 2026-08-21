@@ -1,7 +1,7 @@
 ---
 name: Galgotias Mehsana Institute of Management & Technology
 logo: /colleges/default-management-logo.webp
-location: 'Mehsana, India'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Galgotias Mehsana Institute of Management & Technology PGDM placement
   - Galgotias Mehsana Institute of Management & Technology MBA admission 2027
   - 'MBA colleges Mehsana, India'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Galgotias Mehsana Institute of Management & Technology

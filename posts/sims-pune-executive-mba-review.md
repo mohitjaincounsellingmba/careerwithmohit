@@ -1,16 +1,43 @@
 ---
-title: "Symbiosis Institute of Management Studies (SIMS), Pune Executive MBA Review"
-date: "2026-07-22"
-description: "Read an honest review of the Executive MBA / PGDM program at Symbiosis Institute of Management Studies (SIMS), Pune. Learn about total fees, eligibility, accepted entrance exams, average packages, pros, cons, and expert verdicts."
-keywords: ["Symbiosis Institute of Management Studies (SIMS), Pune executive mba","Symbiosis Institute of Management Studies (SIMS), Pune executive mba review","Symbiosis Institute of Management Studies (SIMS), Pune executive mba fees","Symbiosis Institute of Management Studies (SIMS), Pune executive mba placement","Pune executive mba","best executive mba in Pune"]
-category: "MBA"
+title: 'Symbiosis Institute of Management Studies (SIMS), Pune Executive MBA Review'
+date: '2026-07-22'
+description: >-
+  Read an honest review of the Executive MBA / PGDM program at Symbiosis
+  Institute of Management Studies (SIMS), Pune. Learn about total fees,
+  eligibility, accepted entrance exams, average packages, pros, cons, and expert
+  verdicts.
+keywords:
+  - 'Symbiosis Institute of Management Studies (SIMS), Pune executive mba'
+  - 'Symbiosis Institute of Management Studies (SIMS), Pune executive mba review'
+  - 'Symbiosis Institute of Management Studies (SIMS), Pune executive mba fees'
+  - >-
+    Symbiosis Institute of Management Studies (SIMS), Pune executive mba
+    placement
+  - Pune executive mba
+  - best executive mba in Pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+category: MBA
 faqs:
-  - question: "Is the SIMS Executive MBA open to civilians?"
-    answer: "Yes, while SIMS has reservations for defense personnel and their dependents, a percentage of seats is open to general corporate civilian candidates."
-  - question: "What is the fee structure for SIMS Executive MBA?"
-    answer: "The total fee for the entire program is approximately ₹4.50 Lakhs, making it highly competitive."
-  - question: "Are classes online or offline?"
-    answer: "The program is primarily offline, with classes held on weekends at the Kirkee campus in Pune."
+  - question: Is the SIMS Executive MBA open to civilians?
+    answer: >-
+      Yes, while SIMS has reservations for defense personnel and their
+      dependents, a percentage of seats is open to general corporate civilian
+      candidates.
+  - question: What is the fee structure for SIMS Executive MBA?
+    answer: >-
+      The total fee for the entire program is approximately ₹4.50 Lakhs, making
+      it highly competitive.
+  - question: Are classes online or offline?
+    answer: >-
+      The program is primarily offline, with classes held on weekends at the
+      Kirkee campus in Pune.
+location: Pune
+state: Maharashtra
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Pune, the Executive MBA / Executive PGDM offered by [Symbiosis [Institute of Management Studies](/colleges/institute-of-management-studies) (SIMS), Pune](/colleges/symbiosis-institute-of-management-studies) represents a powerful gateway to higher senior leadership positions.

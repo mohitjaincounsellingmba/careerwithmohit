@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are Passion Programs at Quantum?
     answer: >-
@@ -37,7 +41,8 @@ faqs:
     answer: >-
       Yes, students with very high 10+2 marks can apply for direct merit-based
       admission for specific seats.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 **[Quantum University](/colleges/quantum-university-roorkee)** in Roorkee (Uttarakhand) is a modern private university established in 2017, known for its unique interdisciplinary approach and "Passion Program" (PROPS) that allows students to study subjects beyond engineering. In a short span, it has established itself as an affordable and tech-savvy destination for engineering aspirants.

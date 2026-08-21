@@ -1,23 +1,38 @@
 ---
-title: "Uttaranchal University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Uttaranchal University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Uttaranchal University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Uttaranchal University? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "uttaranchal university review 2026"
-  - "uttaranchal university pgdm placements"
-  - "uttaranchal university admission cutoff"
-  - "uttaranchal university fees"
+  - uttaranchal university review 2026
+  - uttaranchal university pgdm placements
+  - uttaranchal university admission cutoff
+  - uttaranchal university fees
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
-  - question: "Is Uttaranchal University a good option for PGDM/MBA?"
+  - question: Is Uttaranchal University a good option for PGDM/MBA?
     answer: >-
-      Yes, Uttaranchal University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Uttaranchal University?"
+      Yes, Uttaranchal University is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Uttaranchal University?
     answer: >-
-      The average placement package at Uttaranchal University is approximately ₹4 LPA, with the highest package reaching up to ₹150 LPA.
-  - question: "What entrance exams are accepted by Uttaranchal University?"
+      The average placement package at Uttaranchal University is approximately
+      ₹4 LPA, with the highest package reaching up to ₹150 LPA.
+  - question: What entrance exams are accepted by Uttaranchal University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+location: Dehradun
+state: Uttarakhand
 ---
 
 ### **College Review: [Uttaranchal University](/colleges/uttaranchal-university)**

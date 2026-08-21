@@ -1,23 +1,47 @@
 ---
-title: "Xavier Mumbai Institute of Management & Technology PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Xavier Mumbai Institute of Management & Technology? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Xavier Mumbai Institute of Management & Technology PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Xavier Mumbai Institute of Management & Technology?
+  Read our comprehensive PGDM review for 2026 covering total fees, average and
+  highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "xavier mumbai institute of management & technology review 2026"
-  - "xavier mumbai institute of management & technology pgdm placements"
-  - "xavier mumbai institute of management & technology admission cutoff"
-  - "xavier mumbai institute of management & technology fees"
+  - xavier mumbai institute of management & technology review 2026
+  - xavier mumbai institute of management & technology pgdm placements
+  - xavier mumbai institute of management & technology admission cutoff
+  - xavier mumbai institute of management & technology fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is Xavier Mumbai Institute of Management & Technology a good option for PGDM/MBA?"
+  - question: >-
+      Is Xavier Mumbai Institute of Management & Technology a good option for
+      PGDM/MBA?
     answer: >-
-      Yes, Xavier Mumbai Institute of Management & Technology is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Xavier Mumbai Institute of Management & Technology?"
+      Yes, Xavier Mumbai Institute of Management & Technology is a highly
+      respected institution known for its solid academic foundation,
+      industry-aligned curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Xavier Mumbai Institute of
+      Management & Technology?
     answer: >-
-      The average placement package at Xavier Mumbai Institute of Management & Technology is approximately ₹7.1 LPA, with the highest package reaching up to ₹24.5 LPA.
-  - question: "What entrance exams are accepted by Xavier Mumbai Institute of Management & Technology?"
+      The average placement package at Xavier Mumbai Institute of Management &
+      Technology is approximately ₹7.1 LPA, with the highest package reaching up
+      to ₹24.5 LPA.
+  - question: >-
+      What entrance exams are accepted by Xavier Mumbai Institute of Management
+      & Technology?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [Xavier Mumbai Institute of Management & Technology](/colleges/xavier-mumbai-institute-of-management-technology)**

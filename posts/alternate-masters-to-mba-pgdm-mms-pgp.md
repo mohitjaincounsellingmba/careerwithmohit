@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is PGDM equivalent to a Master's degree (MBA)?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
       PGDM programs range from ₹10 LPA to ₹16 LPA. High-ROI MMS programs like
       JBIMS average around ₹28 LPA, while others range between ₹6 LPA to ₹12
       LPA.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 When planning a career in management, most aspirants immediately think of a traditional Master of Business Administration (MBA) degree. However, in India's highly dynamic educational landscape, an MBA is not the only path to a corporate career. 

@@ -1,23 +1,38 @@
 ---
-title: "NSHM Knowledge Campus PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to NSHM Knowledge Campus? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'NSHM Knowledge Campus PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to NSHM Knowledge Campus? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "nshm knowledge campus review 2026"
-  - "nshm knowledge campus pgdm placements"
-  - "nshm knowledge campus admission cutoff"
-  - "nshm knowledge campus fees"
+  - nshm knowledge campus review 2026
+  - nshm knowledge campus pgdm placements
+  - nshm knowledge campus admission cutoff
+  - nshm knowledge campus fees
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Is NSHM Knowledge Campus a good option for PGDM/MBA?"
+  - question: Is NSHM Knowledge Campus a good option for PGDM/MBA?
     answer: >-
-      Yes, NSHM Knowledge Campus is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at NSHM Knowledge Campus?"
+      Yes, NSHM Knowledge Campus is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at NSHM Knowledge Campus?
     answer: >-
-      The average placement package at NSHM Knowledge Campus is approximately ₹6.0 LPA, with the highest package reaching up to ₹12.0 LPA.
-  - question: "What entrance exams are accepted by NSHM Knowledge Campus?"
+      The average placement package at NSHM Knowledge Campus is approximately
+      ₹6.0 LPA, with the highest package reaching up to ₹12.0 LPA.
+  - question: What entrance exams are accepted by NSHM Knowledge Campus?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, JEMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, JEMAT for the PGDM and MBA admissions.
+location: Kolkata
+state: West Bengal
 ---
 
 ### **College Review: [NSHM Knowledge Campus](/colleges/nshm-kolkata)**

@@ -1,23 +1,42 @@
 ---
-title: "Roorkee Institute of Technology (RIT) PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Roorkee Institute of Technology (RIT)? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Roorkee Institute of Technology (RIT) PGDM Admission Review 2026: Placements,
+  Fees & Cutoff
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to Roorkee Institute of Technology (RIT)? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "roorkee institute of technology (rit) review 2026"
-  - "roorkee institute of technology (rit) pgdm placements"
-  - "roorkee institute of technology (rit) admission cutoff"
-  - "roorkee institute of technology (rit) fees"
+  - roorkee institute of technology (rit) review 2026
+  - roorkee institute of technology (rit) pgdm placements
+  - roorkee institute of technology (rit) admission cutoff
+  - roorkee institute of technology (rit) fees
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 faqs:
-  - question: "Is Roorkee Institute of Technology (RIT) a good option for PGDM/MBA?"
+  - question: Is Roorkee Institute of Technology (RIT) a good option for PGDM/MBA?
     answer: >-
-      Yes, Roorkee Institute of Technology (RIT) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Roorkee Institute of Technology (RIT)?"
+      Yes, Roorkee Institute of Technology (RIT) is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Roorkee Institute of Technology
+      (RIT)?
     answer: >-
-      The average placement package at Roorkee Institute of Technology (RIT) is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
-  - question: "What entrance exams are accepted by Roorkee Institute of Technology (RIT)?"
+      The average placement package at Roorkee Institute of Technology (RIT) is
+      approximately ₹5.0 LPA, with the highest package reaching up to ₹10.0 LPA.
+  - question: What entrance exams are accepted by Roorkee Institute of Technology (RIT)?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT for the PGDM and MBA admissions.
+location: Dehradun
+state: Uttarakhand
 ---
 
 ### **College Review: [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee)**

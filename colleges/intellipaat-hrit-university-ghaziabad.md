@@ -1,7 +1,7 @@
 ---
 name: Intellipaat - HRIT University (Ghaziabad)
 logo: ''
-location: Ghaziabad
+location: Delhi NCR
 category: Engineering
 type: Institute
 courses:
@@ -46,6 +46,13 @@ keywords:
   - Intellipaat - HRIT University (Ghaziabad) CSE placement
   - Intellipaat - HRIT University (Ghaziabad) B.Tech admission 2027
   - engineering colleges Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### B.Tech Courses & Fees

@@ -26,7 +26,11 @@ keywords:
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Delhi NCR College Counselling
-location: Delhi
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: 'Which exam is easiest among XAT, SNAP, and NMAT?'
     answer: >-
@@ -57,6 +61,7 @@ faqs:
       puzzles. For NMAT: Practice timed sectional computer-adaptive tests
       without guessing recklessly. For XAT: Solve 10 years of past Decision
       Making sets and practice abstract Reading Comprehension.
+state: Delhi NCR
 ---
 
 Once the **CAT exam** concludes on the last Sunday of November, the MBA admission marathon is far from over. December and January bring the three biggest and most prestigious Non-CAT national entrance exams: **XAT (Xavier Aptitude Test), SNAP (Symbiosis National Aptitude Test), and NMAT (by GMAC)**.

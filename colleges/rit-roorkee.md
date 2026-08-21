@@ -1,7 +1,7 @@
 ---
 name: Roorkee Institute of Technology (RIT)
 logo: ''
-location: Roorkee
+location: Dehradun
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Roorkee Institute of Technology (RIT) PGDM placement
   - Roorkee Institute of Technology (RIT) MBA admission 2027
   - MBA colleges Roorkee
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
+state: Uttarakhand
 ---
 
 ### Courses & Fees

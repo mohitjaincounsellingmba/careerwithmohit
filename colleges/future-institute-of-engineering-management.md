@@ -40,6 +40,13 @@ keywords:
   - Future Institute of Engineering & Management CSE placement
   - Future Institute of Engineering & Management B.Tech admission 2027
   - engineering colleges Kolkata
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
+state: West Bengal
 ---
 
 ### Courses & Fees

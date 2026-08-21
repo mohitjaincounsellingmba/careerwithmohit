@@ -15,6 +15,12 @@ keywords:
   - christ university entrance test 2026
   - best bba college bangalore
   - christ university central campus bba
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: Is there a negative marking in the Christ Entrance Test?
     answer: 'Yes, there is typically a negative marking of 0.25 for every wrong answer.'
@@ -22,6 +28,8 @@ faqs:
     answer: >-
       There is no "Management Quota" or direct admission through agents. All
       students must go through the entrance and interview process.
+location: Bangalore
+state: Karnataka
 ---
 
 Christ University, Bengaluru, is a household name for management aspirants. Known for its strict discipline, vibrant campus life, and high-quality BBA programs, it is a top destination for students from all over India and abroad in 2026.

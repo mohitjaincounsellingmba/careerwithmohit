@@ -1,23 +1,38 @@
 ---
-title: "PUMBA Pune PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to PUMBA Pune? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'PUMBA Pune PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to PUMBA Pune? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "pumba pune review 2026"
-  - "pumba pune pgdm placements"
-  - "pumba pune admission cutoff"
-  - "pumba pune fees"
+  - pumba pune review 2026
+  - pumba pune pgdm placements
+  - pumba pune admission cutoff
+  - pumba pune fees
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: "Is PUMBA Pune a good option for PGDM/MBA?"
+  - question: Is PUMBA Pune a good option for PGDM/MBA?
     answer: >-
-      Yes, PUMBA Pune is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at PUMBA Pune?"
+      Yes, PUMBA Pune is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at PUMBA Pune?
     answer: >-
-      The average placement package at PUMBA Pune is approximately ₹8.1 LPA, with the highest package reaching up to ₹18.5 LPA.
-  - question: "What entrance exams are accepted by PUMBA Pune?"
+      The average placement package at PUMBA Pune is approximately ₹8.1 LPA,
+      with the highest package reaching up to ₹18.5 LPA.
+  - question: What entrance exams are accepted by PUMBA Pune?
     answer: >-
-      The college accepts scores from national level entrance examinations including MAH-CET, CAT, CMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including MAH-CET, CAT, CMAT for the PGDM and MBA admissions.
+location: Pune
+state: Maharashtra
 ---
 
 ### **College Review: [PUMBA Pune](/colleges/pumba-pune)**

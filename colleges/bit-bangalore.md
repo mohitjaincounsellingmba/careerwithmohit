@@ -1,7 +1,7 @@
 ---
 name: Bangalore Institute of Technology (BIT)
 logo: ''
-location: 'V.V. Puram, Bangalore'
+location: Bangalore
 category: Engineering
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Bangalore Institute of Technology (BIT) CSE placement
   - Bangalore Institute of Technology (BIT) B.Tech admission 2027
   - 'engineering colleges V.V. Puram, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

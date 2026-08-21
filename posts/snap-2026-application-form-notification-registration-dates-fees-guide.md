@@ -1,9 +1,13 @@
 ---
-title: 'SNAP 2026 Application Form Notification Out: Registration Dates, Eligibility, Fees & Step-by-Step Apply Guide'
+title: >-
+  SNAP 2026 Application Form Notification Out: Registration Dates, Eligibility,
+  Fees & Step-by-Step Apply Guide
 date: '2026-08-19'
 category: MBA
 description: >-
-  The official SNAP 2026 Application Form Notification is out! Check registration start & end dates, exam schedule, eligibility, fee structure, test pattern, and a step-by-step guide to apply online at snaptest.org.
+  The official SNAP 2026 Application Form Notification is out! Check
+  registration start & end dates, exam schedule, eligibility, fee structure,
+  test pattern, and a step-by-step guide to apply online at snaptest.org.
 keywords:
   - SNAP application form notification
   - SNAP 2026 application form notification
@@ -17,23 +21,40 @@ keywords:
   - how to apply for SNAP 2026
   - SNAP eligibility criteria 2026
   - snaptest.org registration
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: When was the official SNAP 2026 application form notification released?
     answer: >-
-      The official SNAP 2026 notification was released on **August 19, 2026**, on the official Symbiosis portal (snaptest.org). The online application process begins on **August 21, 2026**.
+      The official SNAP 2026 notification was released on **August 19, 2026**,
+      on the official Symbiosis portal (snaptest.org). The online application
+      process begins on **August 21, 2026**.
   - question: What is the last date to fill the SNAP 2026 application form?
     answer: >-
-      The last date to register and pay the registration fee for the SNAP 2026 exam is **November 25, 2026**.
+      The last date to register and pay the registration fee for the SNAP 2026
+      exam is **November 25, 2026**.
   - question: How many times can a candidate appear for SNAP 2026?
     answer: >-
-      Candidates are permitted to attempt SNAP 2026 up to **three times** across the three scheduled test dates in December. The best scaled score out of all attempts will be considered for final shortlisting.
+      Candidates are permitted to attempt SNAP 2026 up to **three times** across
+      the three scheduled test dates in December. The best scaled score out of
+      all attempts will be considered for final shortlisting.
   - question: What is the registration fee for SNAP 2026?
     answer: >-
-      The SNAP test registration fee is **₹2,250 to ₹2,550 per test attempt**. Additionally, candidates must pay a programme registration fee of **₹1,000 per MBA programme/institute** they wish to apply to.
+      The SNAP test registration fee is **₹2,250 to ₹2,550 per test attempt**.
+      Additionally, candidates must pay a programme registration fee of **₹1,000
+      per MBA programme/institute** they wish to apply to.
   - question: What is the minimum graduation percentage required for SNAP eligibility?
     answer: >-
-      General and NC-OBC candidates require a minimum aggregate of **50% marks** (or equivalent grade) in graduation. Candidates belonging to SC/ST/PwD categories require a minimum of **45% marks**. Final-year students are also eligible to apply.
-location: India
+      General and NC-OBC candidates require a minimum aggregate of **50% marks**
+      (or equivalent grade) in graduation. Candidates belonging to SC/ST/PwD
+      categories require a minimum of **45% marks**. Final-year students are
+      also eligible to apply.
+location: Pune
+state: Maharashtra
 ---
 
 The **Symbiosis International (Deemed University) – SIU** has officially released the **SNAP 2026 Application Form Notification**. With the release of the official brochure and notification, the gateway to 16 prestigious Symbiosis B-schools—including flagship institutions like **[SIBM Pune](/colleges/sibm-pune)**, **[SCMHRD Pune](/colleges/scmhrd-pune)**, **[SIBM Bangalore](/colleges/sibm-bangalore)**, and **SIIB Pune**—is now open for MBA/PGDM aspirants aiming for the 2027–29 batch.

@@ -27,6 +27,10 @@ keywords:
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
   - Gurgaon Admissions 2026
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is the SOIL Gurgaon application form open for the 2027–29 batch?
     answer: >-
@@ -56,7 +60,8 @@ faqs:
       The selection process includes an online application, profile
       shortlisting, a mandatory Design Thinking Workshop (Group Exercise), and a
       Personal Interview (PI) with industry experts and faculty.
-location: Gurgaon
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # SOIL Gurgaon Application Form Open for 2027–29: Complete Review, Fees, Placements & Selection Process

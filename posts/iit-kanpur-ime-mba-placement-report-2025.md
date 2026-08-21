@@ -1,9 +1,12 @@
 ---
 title: >-
-  IIT Kanpur (IME) MBA Placement Report 2025: Analytics, FinTech & Operations Powerhouse
+  IIT Kanpur (IME) MBA Placement Report 2025: Analytics, FinTech & Operations
+  Powerhouse
 date: '2026-08-15'
 description: >-
-  Complete IIT Kanpur Industrial and Management Engineering (IME) MBA Placement Report 2025. Explore roles in Analytics, FinTech, Operations, fees & CAT cutoff.
+  Complete IIT Kanpur Industrial and Management Engineering (IME) MBA Placement
+  Report 2025. Explore roles in Analytics, FinTech, Operations, fees & CAT
+  cutoff.
 keywords:
   - iit kanpur ime mba placement report 2025
   - iit kanpur mba average package 2025
@@ -11,16 +14,30 @@ keywords:
   - ime iit kanpur cat cutoff
   - iit kanpur mba fees vs roi
   - mba admission 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What are the key salary statistics for MBA at IIT Kanpur in 2025?
     answer: >-
-      For the 2025 graduating cohort, the Industrial and Management Engineering (IME) department at IIT Kanpur recorded average compensation around INR 17.50 to 18.20 LPA, with top 25% students averaging above INR 23.50 LPA.
+      For the 2025 graduating cohort, the Industrial and Management Engineering
+      (IME) department at IIT Kanpur recorded average compensation around INR
+      17.50 to 18.20 LPA, with top 25% students averaging above INR 23.50 LPA.
   - question: Which domains offer the most jobs at IIT Kanpur MBA?
     answer: >-
-      BFSI & FinTech (27%), IT & Consulting (26%), Analytics & Data Science (25%), Operations (17%), and Marketing (5%) represent the complete placement split.
+      BFSI & FinTech (27%), IT & Consulting (26%), Analytics & Data Science
+      (25%), Operations (17%), and Marketing (5%) represent the complete
+      placement split.
   - question: What is the total fee for MBA at IIT Kanpur?
     answer: >-
-      The 2-year total tuition fee is exceptionally affordable at approximately INR 5.5 to 6.5 Lakhs, making IIT Kanpur one of the highest ROI business programs in the nation.
+      The 2-year total tuition fee is exceptionally affordable at approximately
+      INR 5.5 to 6.5 Lakhs, making IIT Kanpur one of the highest ROI business
+      programs in the nation.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Department of Industrial & Management Engineering (IME) at IIT Kanpur** is celebrated for its deep mathematical focus, statistical modeling, and industrial optimization.

@@ -1,7 +1,7 @@
 ---
 name: Suryadatta Kota Global Institute of Management
 logo: /colleges/default-management-logo.webp
-location: 'Kota, India'
+location: Jaipur
 category: Management
 type: Institute
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Suryadatta Kota Global Institute of Management PGDM placement
   - Suryadatta Kota Global Institute of Management MBA admission 2027
   - 'MBA colleges Kota, India'
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
+state: Rajasthan
 ---
 
 ### About Suryadatta Kota Global Institute of Management

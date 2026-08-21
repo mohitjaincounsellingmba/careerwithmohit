@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Bharati Vidyapeeth a private or government university?
     answer: >-
@@ -44,7 +48,8 @@ faqs:
       BVP CET is generally considered moderately difficult, focusing more on
       speed and basic concepts compared to [JEE
       Main](/blog/all-about-jee-exam.md) or [CAT](/blog/all-about-cat-exam.md).
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Bharati Vidyapeeth (Deemed to be University), often referred to as BVP or BVU, is one of India's largest and most prestigious multi-disciplinary universities. With a legacy spanning decades, it has established a pan-India presence with state-of-the-art campuses in Pune, New Delhi, Navi Mumbai, Sangli, Karad, Kolhapur, and Solapur.

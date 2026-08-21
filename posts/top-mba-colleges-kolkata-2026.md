@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the JEMAT exam?
     answer: >-
@@ -44,7 +48,8 @@ faqs:
     answer: >-
       Tier-1 closes by December/January. State colleges through JEMAT continue
       their process until June/July.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Kolkata, the "City of Joy" and the gateway to East India, is home to India's first IIM—[IIM Calcutta](/colleges/iim-calcutta). For MBA students, Kolkata offers a unique combination of rich intellectual heritage and proximity to major industrial clusters in West Bengal, Odisha, and Bihar.

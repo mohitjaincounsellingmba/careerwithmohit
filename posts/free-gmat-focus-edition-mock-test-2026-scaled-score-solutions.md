@@ -20,6 +20,12 @@ keywords:
   - free mock test 2026
   - online exam preparation
   - practice paper online
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -34,7 +40,8 @@ faqs:
     answer: >-
       No, to simulate real exam conditions, the timer runs continuously. We
       recommend attempting the test in a single sitting without interruptions.
-location: India
+location: Bangalore
+state: Karnataka
 ---
 # Free GMAT Focus Edition Mock Test: Full 64-Question CBT with Scaled Score (205–805) & ISB Predictor
 

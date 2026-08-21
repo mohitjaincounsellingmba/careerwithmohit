@@ -26,6 +26,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -40,7 +44,8 @@ faqs:
     answer: >-
       No, to simulate real exam conditions, the timer runs continuously. We
       recommend attempting the test in a single sitting without interruptions.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 Success in competitive exams in 2026 is no longer about how many books you read; it’s about how many **simulations** you survive. Whether you are aiming for an IIM, an IIT, or a prestigious Government department, the "Mock Test" is your most powerful weapon.
 

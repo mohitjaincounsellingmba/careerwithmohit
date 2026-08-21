@@ -23,8 +23,12 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: Colleges
-location: Delhi
+location: Delhi NCR
 faqs:
   - question: >-
       What makes Apeejay Business School (ASM Dwarka) stand out among top PGDM
@@ -54,6 +58,7 @@ faqs:
       Yes, the 2-Year Full-Time PGDM program at ASM Dwarka is approved by AICTE,
       accredited by NBA, and granted MBA equivalence by the Association of
       Indian Universities (AIU).
+state: Delhi NCR
 ---
 
 Choosing the right business school is a defining milestone in building a successful management career. Located in the institutional hub of Delhi NCR, **Apeejay Business School (Apeejay School of Management - ASM, Dwarka)** has established itself as a premier destination for future corporate leaders.

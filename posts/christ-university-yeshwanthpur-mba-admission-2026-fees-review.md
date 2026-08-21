@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Yeshwanthpur Campus good for MBA?
     answer: >-
@@ -30,7 +34,8 @@ faqs:
       centralized placement pool.
   - question: What is the dress code?
     answer: "Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About Which Bangalore Campus to Choose?**\nWhile all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2026 admission cycle to ensure you land in the campus that fits your personality and career path.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Yeshwanthpur Campus** is one of the newest additions to Christ (Deemed to be University) in Bangalore. Situated in the bustling northern part of the city, this campus is known for its ultra-modern infrastructure, tech-integrated learning spaces, and its proximity to major industrial hubs like Peenya and several tech parks.

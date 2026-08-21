@@ -1,7 +1,7 @@
 ---
 name: Alliance University - Engineering
 logo: ''
-location: 'Anekal, Bangalore'
+location: Bangalore
 category: Engineering
 type: University
 courses:
@@ -44,6 +44,13 @@ keywords:
   - Alliance University - Engineering CSE placement
   - Alliance University - Engineering B.Tech admission 2027
   - 'engineering colleges Anekal, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees

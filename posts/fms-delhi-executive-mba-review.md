@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Are there placements for the FMS Delhi Executive MBA program?
@@ -42,7 +46,8 @@ faqs:
       There is no written entrance test like CAT. Admission is based on past
       academic performance, length of work experience, write-up assessment, and
       performance in the personal interview.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Delhi, the Executive MBA / Executive PGDM offered by [Faculty of Management Studies (FMS), University of Delhi](/colleges/fms-delhi) represents a powerful gateway to higher senior leadership positions.

@@ -10,6 +10,12 @@ keywords:
   - RTU Kota placement records
   - Rajasthan Technical University MBA admission
   - best MBA in Rajasthan
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: Is RTU Kota good for MBA placements?
     answer: >-
@@ -26,6 +32,8 @@ faqs:
     answer: >-
       The total fee is exceptionally affordable at approximately **₹1.29 Lakhs**
       for the two-year program, including development and caution fees.
+location: Jaipur
+state: Rajasthan
 ---
 
 ### 📊 RTU Kota MBA 2026 Snapshot

@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the process for management quota in 2026?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
       Recruiters generally don't care how you entered the college. They focus on
       your MBA CGPA, internships, and communication skills during the final
       placement process.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Did you miss the registration for CAT? Or perhaps your MAT/CMAT score wasn't what you expected? Don't panic. Thousands of students every year secure their future through **Direct MBA Admission** pathways. 

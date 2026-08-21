@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: When will the REAP 2026 final seat allotment be declared?
     answer: >-
@@ -46,7 +50,8 @@ faqs:
       Yes, while JEE Main ranks are given Priority 1, candidates who did not
       appear for JEE can apply based on their Class 12th PCM marks under
       Priority 2.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Rajasthan Engineering Admission Process (REAP) 2026** is currently in full swing. With the final state merit list declared on July 2, 2026, and the Tuition Fee Waiver Scheme (TFWS) round completed, students are eagerly waiting for the final counselling rounds, regular seat allotments, and the ultimate cutoffs. 

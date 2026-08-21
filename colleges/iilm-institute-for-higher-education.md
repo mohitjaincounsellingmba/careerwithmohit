@@ -1,7 +1,7 @@
 ---
 name: IILM Institute for Higher Education
 logo: ''
-location: New Delhi
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -44,6 +44,13 @@ keywords:
   - IILM Institute for Higher Education PGDM placement
   - IILM Institute for Higher Education MBA admission 2027
   - MBA colleges New Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

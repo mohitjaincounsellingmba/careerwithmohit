@@ -26,6 +26,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the PG in Global Finance & AI at Imarticus (ISFB)?
     answer: >-
@@ -58,7 +62,8 @@ faqs:
       Business, Engineering, Technology, or a related field, along with 1+ years
       of work experience in Finance, Banking, Analytics, Consulting, Tech, or
       related domains.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # PG in Global Finance & AI Imarticus (ISFB) Review 2026: Fees, Placements, Curriculum & IIM Vizag Alumni Status

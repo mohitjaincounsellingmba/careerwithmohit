@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in top Delhi colleges without CAT/MAT?
     answer: >-
@@ -41,7 +45,8 @@ faqs:
       **GL Bajaj** and **Accurate Institute** in Greater Noida offer some of the
       lowest tuition fees (under ₹6 Lakhs) while maintaining solid average
       placement packages (₹6-8 LPA).
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ### [InquiryCard title="Looking for Direct Admission in Delhi NCR?" description="Skip the entrance exam stress. Get expert guidance and profile-based direct admission in top High-ROI B-Schools across Delhi, Noida, and Gurgaon." cta="Check Your Eligibility Now" type="career"]

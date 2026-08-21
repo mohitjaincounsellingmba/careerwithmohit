@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 category: MBA
 faqs:
   - question: Who can apply for the IIM Mumbai VLFM program?
@@ -35,7 +39,8 @@ faqs:
     answer: >-
       The average CTC ranges from ₹22.00 to ₹25.00 LPA, with top consulting and
       manufacturing companies recruiting.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Running a career upgrade requires choosing the right management program. For working professionals in Mumbai, the Executive MBA / Executive PGDM offered by [IIM Mumbai (formerly NITIE)](/colleges/iim-mumbai) represents a powerful gateway to higher senior leadership positions.

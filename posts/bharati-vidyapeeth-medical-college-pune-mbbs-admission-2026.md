@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the fee for MBBS in Bharati Vidyapeeth Medical College Pune?
     answer: The annual tuition fee is ₹22.35 Lakhs per year.
@@ -30,7 +34,8 @@ faqs:
     answer: >-
       Register on the MCC website (mcc.nic.in) under All India Deemed University
       MBBS Counselling.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Planning your medical career and targeting **Bharati Vidyapeeth Deemed University Medical College, Pune** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, Bharati Vidyapeeth Medical College Pune offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

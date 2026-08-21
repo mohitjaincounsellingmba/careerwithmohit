@@ -1,23 +1,38 @@
 ---
-title: "ITM Mumbai PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to ITM Mumbai? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'ITM Mumbai PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: MBA
+description: >-
+  Looking for admission to ITM Mumbai? Read our comprehensive PGDM review for
+  2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "itm mumbai review 2026"
-  - "itm mumbai pgdm placements"
-  - "itm mumbai admission cutoff"
-  - "itm mumbai fees"
+  - itm mumbai review 2026
+  - itm mumbai pgdm placements
+  - itm mumbai admission cutoff
+  - itm mumbai fees
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is ITM Mumbai a good option for PGDM/MBA?"
+  - question: Is ITM Mumbai a good option for PGDM/MBA?
     answer: >-
-      Yes, ITM Mumbai is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at ITM Mumbai?"
+      Yes, ITM Mumbai is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at ITM Mumbai?
     answer: >-
-      The average placement package at ITM Mumbai is approximately ₹10.5 LPA, with the highest package reaching up to ₹25.0 LPA.
-  - question: "What entrance exams are accepted by ITM Mumbai?"
+      The average placement package at ITM Mumbai is approximately ₹10.5 LPA,
+      with the highest package reaching up to ₹25.0 LPA.
+  - question: What entrance exams are accepted by ITM Mumbai?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, XAT, CMAT, NMAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, XAT, CMAT, NMAT for the PGDM and MBA admissions.
+location: Mumbai
+state: Maharashtra
 ---
 
 ### **College Review: [ITM Mumbai](/colleges/itm-mumbai)**

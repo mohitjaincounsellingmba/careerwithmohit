@@ -1,9 +1,10 @@
 ---
-title: >-
-  SNAP Exam Updated Syllabus 2026: Topic-Wise Weightage, Exam Pattern & Changes
+title: 'SNAP Exam Updated Syllabus 2026: Topic-Wise Weightage, Exam Pattern & Changes'
 date: '2026-08-21'
 description: >-
-  Complete guide to SNAP exam updated syllabus 2026. Explore section-wise topics, question weightage, marking scheme, and preparation strategy for SIBM Pune and SCMHRD.
+  Complete guide to SNAP exam updated syllabus 2026. Explore section-wise
+  topics, question weightage, marking scheme, and preparation strategy for SIBM
+  Pune and SCMHRD.
 keywords:
   - SNAP exam updated syllabus 2026
   - SNAP syllabus topic wise breakdown
@@ -11,19 +12,33 @@ keywords:
   - SNAP analytical reasoning syllabus
   - SNAP quant syllabus weightage
   - '[SIBM Pune](/colleges/sibm-pune) SNAP cutoff syllabus'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: What is the updated exam pattern for SNAP 2026?
     answer: >-
-      SNAP is a 60-minute Computer Based Test (CBT) with 60 multiple-choice questions worth 60 marks. There are no sectional time limits, allowing candidates to switch freely between sections.
+      SNAP is a 60-minute Computer Based Test (CBT) with 60 multiple-choice
+      questions worth 60 marks. There are no sectional time limits, allowing
+      candidates to switch freely between sections.
   - question: How many sections are in the SNAP exam updated syllabus?
     answer: >-
-      SNAP primarily features 3 sections: General English (15 questions), Analytical & Logical Reasoning (25 questions), and Quantitative, Data Interpretation & Data Sufficiency (20 questions).
+      SNAP primarily features 3 sections: General English (15 questions),
+      Analytical & Logical Reasoning (25 questions), and Quantitative, Data
+      Interpretation & Data Sufficiency (20 questions).
   - question: Is General Knowledge (GK) part of the SNAP exam syllabus?
     answer: >-
-      No, SNAP completely removed the General Knowledge section in recent years, focusing purely on speed, accuracy, reasoning, quant, and English skills.
+      No, SNAP completely removed the General Knowledge section in recent years,
+      focusing purely on speed, accuracy, reasoning, quant, and English skills.
   - question: What is the negative marking scheme in SNAP 2026?
     answer: >-
-      Each correct answer carries +1 mark, while each incorrect answer attracts a penalty of -0.25 marks (25% negative marking).
+      Each correct answer carries +1 mark, while each incorrect answer attracts
+      a penalty of -0.25 marks (25% negative marking).
+location: Pune
+state: Maharashtra
 ---
 
 The **Symbiosis National Aptitude Test (SNAP)** is one of India's most popular MBA entrance exams, acting as the single-window gateway to 16 prestigious institutes under Symbiosis International (Deemed University) – including flagship campuses like **[SIBM Pune](/colleges/sibm-pune)** and **[SCMHRD Pune](/colleges/scmhrd-pune)**.

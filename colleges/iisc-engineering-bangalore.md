@@ -1,7 +1,7 @@
 ---
 name: Indian Institute of Science (IISc) - Engineering
 logo: ''
-location: 'Malleswaram, Bangalore'
+location: Bangalore
 category: Engineering
 type: Institute
 courses:
@@ -43,6 +43,13 @@ keywords:
   - Indian Institute of Science (IISc) - Engineering CSE placement
   - Indian Institute of Science (IISc) - Engineering B.Tech admission 2027
   - 'engineering colleges Malleswaram, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.S. & B.Tech Courses & Fees

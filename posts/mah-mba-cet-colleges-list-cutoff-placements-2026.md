@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -36,7 +40,8 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 The MAH-MBA/MMS CET 2026 is one of the most competitive state-level entrance exams in India, providing access to over 330+ management institutes in Maharashtra. Whether you are aiming for the "CEO Factory" JBIMS or looking for high-ROI government colleges like PUMBA and SIMSREE, understanding the cutoffs and placement trends is crucial for your career planning.
 

@@ -1,7 +1,7 @@
 ---
 name: Lal Bahadur Shastri Jaipur School of Business & Management
 logo: /colleges/default-management-logo.webp
-location: 'Jaipur, India'
+location: Jaipur
 category: Management
 type: Institute
 courses:
@@ -48,6 +48,13 @@ keywords:
     Lal Bahadur Shastri Jaipur School of Business & Management MBA admission
     2027
   - 'MBA colleges Jaipur, India'
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
+state: Rajasthan
 ---
 
 ### About Lal Bahadur Shastri Jaipur School of Business & Management

@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is DMC Ludhiana a government or private college?
     answer: >-
@@ -30,7 +34,8 @@ faqs:
     answer: The management quota tuition fee is approximately ₹6.60 Lakhs per year.
   - question: Who conducts Punjab MBBS Counselling for DMC Ludhiana?
     answer: BFUHS Faridkot conducts state level counselling at bfuhs.ac.in.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Planning your medical career and targeting **Dayanand Medical College & Hospital (DMC), Ludhiana** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, DMC Ludhiana offers exceptional clinical training, modern healthcare facilities, and high patient footfall.

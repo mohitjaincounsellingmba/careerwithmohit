@@ -1,7 +1,7 @@
 ---
 name: Chanakya University
 logo: ''
-location: 'Devanahalli, Bangalore'
+location: Bangalore
 category: Engineering
 type: University
 courses:
@@ -42,6 +42,13 @@ keywords:
   - Chanakya University CSE placement
   - Chanakya University B.Tech admission 2027
   - 'engineering colleges Devanahalli, Bangalore'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+state: Karnataka
 ---
 
 ### B.Tech Courses & Fees
