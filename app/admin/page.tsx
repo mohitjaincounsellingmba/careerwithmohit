@@ -105,7 +105,7 @@ export default function AdminDashboardPage() {
         bViews += v;
         bClicks += c;
         bImpressions += imp;
-      });
+      }
 
       // If timeRange is 'all', preserve exact recorded view counts from views.json
       if (timeRange === "all") {
