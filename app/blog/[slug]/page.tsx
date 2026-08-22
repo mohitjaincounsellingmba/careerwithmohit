@@ -236,11 +236,39 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     }))
   } : null;
 
+  const isMockTest = slug.includes('mock-test') || slug.includes('mock') || (postData.title || '').toLowerCase().includes('mock test');
+  const quizSchema = isMockTest ? {
+    "@context": "https://schema.org",
+    "@type": "Quiz",
+    "name": cleanedTitle,
+    "description": cleanMarkdown(postData.description || postData.content?.substring(0, 160)),
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "educationalSubject",
+        "targetName": postData.category || "Competitive Exam Preparation"
+      }
+    ],
+    "about": {
+      "@type": "Thing",
+      "name": `${cleanedTitle} Online Test`
+    },
+    "hasPart": (postData.faqs || []).map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  } : null;
+
   return (
     <article className="w-full bg-slate-50 pb-24 font-body">
       <JsonLd data={articleData} />
       <JsonLd data={breadcrumbSchema} />
       {faqData && <JsonLd data={faqData} />}
+      {quizSchema && <JsonLd data={quizSchema} />}
 
       {/* HEADER SECTION - ULTRA PREMIUM */}
       <div className="bg-white border-b-[12px] border-foreground pt-20 pb-20 px-6 sm:px-12 relative overflow-hidden">
@@ -315,7 +343,6 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 <h3 className="font-display text-2xl sm:text-3xl font-black uppercase tracking-tight text-primary mt-16 mb-8 border-l-8 border-primary pl-6" {...props} />
               ),
               p: ({ node, children, ...props }) => {
-                // Check if the paragraph contains our [InquiryCard] syntax
                 const content = String(children);
                 if (content.startsWith('[InquiryCard') && content.endsWith(']')) {
                   const titleMatch = content.match(/title="([^"]*)"/);
@@ -330,6 +357,42 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                       cta={ctaMatch?.[1]}
                       type={(typeMatch?.[1] as any) || "admission"}
                     />
+                  );
+                }
+                if (content.startsWith('[MockTestCard') && content.endsWith(']')) {
+                  const titleMatch = content.match(/title="([^"]*)"/);
+                  const linkMatch = content.match(/link="([^"]*)"/);
+                  const qMatch = content.match(/questions="([^"]*)"/);
+                  const timeMatch = content.match(/time="([^"]*)"/);
+
+                  const cardTitle = titleMatch?.[1] || "Start Free Mock Test";
+                  const cardLink = linkMatch?.[1] || "/mock-tests";
+                  const cardQuestions = qMatch?.[1] || "Full Length";
+                  const cardTime = timeMatch?.[1] || "Timed";
+
+                  return (
+                    <div className="my-12 p-8 border-4 border-foreground bg-gradient-to-br from-orange-500 to-amber-500 text-white rounded-2xl shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] relative overflow-hidden">
+                      <div className="relative z-10 flex flex-col md:flex-row items-center justify-between gap-6">
+                        <div>
+                          <div className="flex items-center gap-3 mb-2">
+                            <span className="bg-white text-foreground px-3 py-0.5 text-xs font-black uppercase rounded border-2 border-foreground">100% Free</span>
+                            <span className="bg-accent text-foreground px-3 py-0.5 text-xs font-black uppercase rounded border-2 border-foreground">CBT Simulation</span>
+                          </div>
+                          <h3 className="font-display text-2xl md:text-3xl font-black uppercase text-white leading-tight mb-2">
+                            {cardTitle}
+                          </h3>
+                          <p className="text-amber-100 font-bold text-sm">
+                            ⚡ {cardQuestions} Questions • ⏳ {cardTime} • 🎯 Instant Percentile & Detailed Step-by-Step Solutions
+                          </p>
+                        </div>
+                        <Link
+                          href={cardLink}
+                          className="w-full md:w-auto inline-flex items-center justify-center bg-white text-foreground border-4 border-foreground px-8 py-4 text-lg font-black uppercase transition-transform hover:-translate-y-1 hover:bg-accent shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-y-0 active:shadow-none whitespace-nowrap"
+                        >
+                          Launch Free Test Now &rarr;
+                        </Link>
+                      </div>
+                    </div>
                   );
                 }
                 return <p className="text-xl leading-relaxed text-gray-800 font-medium mb-10" {...props}>{children}</p>;

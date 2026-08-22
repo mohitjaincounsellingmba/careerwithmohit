@@ -134,11 +134,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const blogRoutes = posts.map((post) => {
     const postDate = new Date(post.date);
     const isRecent = postDate >= ninetyDaysAgo;
+    const isMockTestBlog = post.slug.includes('mock-test') || post.slug.includes('mock');
+
     return {
       url: `${baseUrl}/blog/${post.slug}`,
       lastModified: postDate,
-      changeFrequency: isRecent ? 'monthly' as const : 'yearly' as const,
-      priority: isRecent ? 0.8 : 0.3,
+      changeFrequency: isMockTestBlog ? ('weekly' as const) : (isRecent ? ('monthly' as const) : ('yearly' as const)),
+      priority: isMockTestBlog ? 0.9 : (isRecent ? 0.8 : 0.3),
     };
   });
 
