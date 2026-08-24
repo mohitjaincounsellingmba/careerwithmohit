@@ -21,9 +21,9 @@ faqs:
   - question: Is joining the SNAP study group free?
     answer: >-
       Yes, all CareerWithMohit SNAP preparation WhatsApp groups are 100% free for MBA aspirants.
-  location: All India
-  state: Pan India
-  ---
+location: All India
+state: Pan India
+---
 
 The **Symbiosis National Aptitude Test (SNAP 2026)** is the single entrance exam for admission into **16 constituent institutes under Symbiosis International University (SIU)**, including top-tier B-schools like **SIBM Pune** and **SCMHRD Pune**. 
 
