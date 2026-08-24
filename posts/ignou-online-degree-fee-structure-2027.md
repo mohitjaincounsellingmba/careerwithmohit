@@ -80,3 +80,11 @@ For students planning to apply for the 2027 intake session, here is the complete
 
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)
 * **WhatsApp Chat**: [Click to Chat on WhatsApp](https://wa.me/919560020771?text=Hi%2C%20I%20want%20the%20exact%20fee%20structure%20and%20admission%20details%20for%20IGNOU%20Online)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

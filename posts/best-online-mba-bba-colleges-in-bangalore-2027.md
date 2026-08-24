@@ -69,3 +69,11 @@ Graduates holding online degrees from Bangalore universities transition into hig
 For free 1-on-1 counseling:
 * Explore the [Bangalore Online Degree Hub](https://www.careerwithmohit.online/online-degree-certification/online-degree-bangalore)
 * Contact Chief Counsellor Mohit Jain at **+91 95600 20771** or via [WhatsApp Guidance](https://wa.me/919560020771?text=Hi%2C%20I%20need%20help%20choosing%20an%20online%20degree%20in%20Bangalore).
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

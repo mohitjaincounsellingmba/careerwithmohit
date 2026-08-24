@@ -65,3 +65,11 @@ The **Online MBA** is a 2-year (4-semester) degree with specializations in Finan
 
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)
 * **WhatsApp Chat**: [Click to Chat on WhatsApp](https://wa.me/919560020771?text=Hi%2C%20I%20want%20the%20exact%20fee%20structure%20and%20admission%20details%20for%20Andhra%20University%20Online)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
