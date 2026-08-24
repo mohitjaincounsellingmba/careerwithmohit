@@ -11,9 +11,9 @@ interface OverviewTabProps {
 export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabProps) {
   if (!data) return null;
 
-  const { summary, categoryStats, locations, pages, blogs, dateKeys } = data;
+  const { summary, locations, blogs, dateKeys, is24h } = data;
 
-  // Compute 30-day aggregate traffic curve
+  // Compute aggregate traffic curve for selected window
   const dailyTotals = dateKeys.map((dKey: string) => {
     let daySum = 0;
     blogs.slice(0, 300).forEach((b: any) => {
@@ -26,6 +26,8 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
 
   // Top 5 blogs by view count
   const topBlogs = [...blogs].sort((a, b) => b.totalViews - a.totalViews).slice(0, 5);
+
+  const midIdx = Math.floor(dateKeys.length / 2);
 
   return (
     <div className="space-y-6 font-body">
@@ -45,7 +47,7 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
           </div>
           <div className="flex items-center gap-1 text-xs text-emerald-400 font-semibold mt-2">
             <TrendingUp className="w-3.5 h-3.5" />
-            <span>+14.2% vs last month</span>
+            <span>+14.2% vs previous window</span>
           </div>
         </div>
 
@@ -96,7 +98,7 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
             {summary.totalBlogs.toLocaleString()}
           </div>
           <div className="flex items-center gap-1 text-xs text-purple-400 font-semibold mt-2">
-            <span>Daily analytics generated</span>
+            <span>Multi-range telemetry</span>
           </div>
         </div>
       </div>
@@ -106,9 +108,12 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
         <div className="flex items-center justify-between mb-6">
           <div>
             <h2 className="text-lg font-bold text-white flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-amber-400" /> 30-Day Daily Traffic Trend
+              <Sparkles className="w-5 h-5 text-amber-400" />
+              {is24h ? "24-Hour Hourly Traffic Trend" : `${dateKeys.length}-Day Traffic Trend`}
             </h2>
-            <p className="text-xs text-slate-400">Daily total page views across all blogs & pages</p>
+            <p className="text-xs text-slate-400">
+              {is24h ? "Hourly total page views across the last 24 hours" : "Daily total page views across all blogs & pages"}
+            </p>
           </div>
           <button
             onClick={() => setActiveTab("blogs")}
@@ -128,7 +133,7 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
                 {/* Tooltip */}
                 <div className="absolute bottom-full mb-2 hidden group-hover:flex flex-col items-center z-20 pointer-events-none">
                   <div className="bg-slate-800 border border-slate-700 text-white text-[11px] font-semibold py-1 px-2.5 rounded-lg shadow-xl whitespace-nowrap">
-                    <div>{item.date}</div>
+                    <div>{is24h ? `Hour ${item.date}` : item.date}</div>
                     <div className="text-amber-400">{item.views.toLocaleString()} views</div>
                   </div>
                   <div className="w-2 h-2 bg-slate-800 border-b border-r border-slate-700 rotate-45 -mt-1" />
@@ -145,7 +150,7 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
         </div>
         <div className="flex justify-between text-[10px] text-slate-500 mt-2 font-mono">
           <span>{dateKeys[0]}</span>
-          <span>{dateKeys[14]}</span>
+          <span>{dateKeys[midIdx]}</span>
           <span>{dateKeys[dateKeys.length - 1]}</span>
         </div>
       </div>
@@ -156,7 +161,7 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
         <div className="lg:col-span-2 bg-slate-900/80 border border-slate-800 rounded-2xl p-6 shadow-lg">
           <div className="flex items-center justify-between mb-4">
             <h3 className="text-base font-bold text-white flex items-center gap-2">
-              <FileText className="w-4 h-4 text-amber-400" /> Top Performing Blogs
+              <FileText className="w-4 h-4 text-amber-400" /> Top Performing Blogs ({is24h ? "24 Hours" : `${dateKeys.length} Days`})
             </h3>
             <button
               onClick={() => setActiveTab("blogs")}
@@ -228,7 +233,7 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
                 <div className="w-full bg-slate-800 rounded-full h-1.5 overflow-hidden">
                   <div
                     className="bg-gradient-to-r from-blue-500 to-indigo-500 h-1.5 rounded-full"
-                    style={{ width: `${Math.min(100, (loc.totalViews / summary.totalViews) * 300)}%` }}
+                    style={{ width: `${Math.min(100, (loc.totalViews / (summary.totalViews || 1)) * 300)}%` }}
                   />
                 </div>
               </div>

@@ -1,8 +1,8 @@
 "use client";
 
-import { Calendar } from "lucide-react";
+import { Calendar, Clock } from "lucide-react";
 
-export type TimeRangeType = "7d" | "14d" | "30d" | "3m" | "6m" | "9m" | "12m" | "all";
+export type TimeRangeType = "24h" | "7d" | "14d" | "30d" | "3m" | "6m" | "9m" | "12m" | "all";
 
 interface TimeRangeSelectorProps {
   selectedRange: TimeRangeType;
@@ -11,6 +11,7 @@ interface TimeRangeSelectorProps {
 
 export function TimeRangeSelector({ selectedRange, onRangeChange }: TimeRangeSelectorProps) {
   const options: { id: TimeRangeType; label: string }[] = [
+    { id: "24h", label: "24 Hours" },
     { id: "7d", label: "7 Days" },
     { id: "14d", label: "14 Days" },
     { id: "30d", label: "30 Days" },
@@ -24,7 +25,7 @@ export function TimeRangeSelector({ selectedRange, onRangeChange }: TimeRangeSel
   return (
     <div className="flex items-center gap-2 bg-slate-900/90 border border-slate-800 p-1.5 rounded-xl overflow-x-auto no-scrollbar shadow-inner font-body">
       <div className="flex items-center gap-1.5 px-2 text-xs font-semibold text-amber-400 shrink-0">
-        <Calendar className="w-3.5 h-3.5" />
+        <Clock className="w-3.5 h-3.5" />
         <span className="hidden sm:inline">Time Range:</span>
       </div>
 
