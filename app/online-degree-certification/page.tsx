@@ -581,6 +581,43 @@ export default function OnlineDegreePage() {
               </p>
             </div>
 
+            {/* Quick Geo-Location Navigation Hub Grid */}
+            <div className="bg-[#f8f7f4] rounded-3xl p-6 md:p-8 border border-gray-200 mb-12 shadow-sm">
+              <div className="flex items-center gap-2 text-indigo-600 font-extrabold text-xs uppercase tracking-widest mb-3">
+                <MapPin size={16} />
+                <span>Geotargeted City &amp; Regional Hubs (2027 Edition)</span>
+              </div>
+              <h3 className="display-font text-xl md:text-2xl font-black text-[#0f172a] mb-4">
+                Explore Online Degrees by Your City / Region
+              </h3>
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+                {[
+                  { name: 'Delhi NCR Hub', slug: 'online-degree-delhi-ncr', desc: 'Noida, Gurgaon, Delhi' },
+                  { name: 'Bangalore Hub', slug: 'online-degree-bangalore', desc: 'Bangalore, Karnataka' },
+                  { name: 'Mumbai & Pune Hub', slug: 'online-degree-mumbai-pune', desc: 'Mumbai, Pune, MH' },
+                  { name: 'Hyderabad & AP Hub', slug: 'online-degree-hyderabad', desc: 'Hyderabad, Vizag' },
+                  { name: 'Jaipur & Rajasthan', slug: 'online-degree-jaipur-rajasthan', desc: 'Jaipur, Rajasthan' },
+                  { name: 'Chandigarh & Punjab', slug: 'online-degree-chandigarh-punjab', desc: 'Chandigarh, Punjab' },
+                  { name: 'South India Hub', slug: 'online-degree-south-india', desc: 'Chennai, TN, AP' },
+                  { name: 'East & Central India', slug: 'online-degree-kolkata-east-india', desc: 'Kolkata, Sikkim, Raipur' }
+                ].map((geo) => (
+                  <Link
+                    key={geo.slug}
+                    href={`/online-degree-certification/${geo.slug}`}
+                    className="bg-white hover:bg-indigo-600 border border-gray-200 hover:border-indigo-600 p-4 rounded-2xl transition-all shadow-xs flex flex-col group"
+                  >
+                    <span className="font-extrabold text-[#0f172a] group-hover:text-white text-xs sm:text-sm flex items-center justify-between mb-1">
+                      {geo.name}
+                      <span className="text-indigo-500 group-hover:text-white font-black">→</span>
+                    </span>
+                    <span className="text-[10px] text-gray-400 group-hover:text-white/80 font-medium">
+                      {geo.desc}
+                    </span>
+                  </Link>
+                ))}
+              </div>
+            </div>
+
             <div className="space-y-12">
               {REGIONAL_HUBS.map((hub) => (
                 <div key={hub.region} className="bg-[#f8f7f4] rounded-3xl p-6 md:p-8 border border-gray-200/70 shadow-sm">

@@ -200,6 +200,118 @@ const COURSE_MAP: Record<string, CourseConfig> = {
   }
 };
 
+// ── Geo-Location SEO Configurations (GEO) ───────────────────────────────────
+interface GeoConfig {
+  name: string;
+  locationFilter: (location: string, name: string) => boolean;
+  title: string;
+  desc: string;
+  h1: string;
+  cities: string;
+  aboutText: string;
+  faqs: { q: string; a: string }[];
+}
+
+const GEO_MAP: Record<string, GeoConfig> = {
+  'online-degree-delhi-ncr': {
+    name: 'Delhi NCR Hub',
+    locationFilter: (loc, name) => loc.includes('UP') || loc.includes('Noida') || loc.includes('Delhi') || loc.includes('Faridabad') || loc.includes('Haryana') || name.includes('Amity') || name.includes('Galgotias') || name.includes('Sharda') || name.includes('Jamia') || name.includes('Delhi'),
+    title: 'Top Online Degrees in Delhi NCR 2027 | UGC Approved Fees',
+    desc: 'Compare UGC-DEB approved online universities in Delhi NCR (Noida, Gurgaon, Delhi, Faridabad). Fees from ₹20,000. NAAC A++ grades & free counselling.',
+    h1: 'UGC Approved Online Universities in Delhi NCR (2027)',
+    cities: 'Delhi · Noida · Greater Noida · Gurgaon · Faridabad · Sonipat',
+    aboutText: 'Delhi NCR is India\'s premier economic corridor housing corporate headquarters, tech hubs, and top central universities. Online degrees from institutions like Amity University Online, Jamia Millia Islamia Online, DU SOL, Galgotias Online, and Jamia Hamdard Online offer maximum corporate recognition.',
+    faqs: [
+      { q: 'Which are the top UGC-DEB approved online universities in Delhi NCR?', a: 'Leading universities in Delhi NCR include Amity University Online (Noida), Jamia Millia Islamia Online (Delhi), DU SOL, Galgotias University Online (Greater Noida), Sharda University Online, and Jamia Hamdard Online.' },
+      { q: 'What is the starting fee for an online degree in Delhi NCR?', a: 'Central universities like Jamia Millia Islamia and DU SOL offer online degrees starting from ₹20,000 total fees. Top private NAAC A+ universities range between ₹90,000 to ₹1,99,000 for 2-year programs with EMI options.' }
+    ]
+  },
+  'online-degree-bangalore': {
+    name: 'Bangalore Hub',
+    locationFilter: (loc, name) => loc.includes('Karnataka') || loc.includes('Bangalore') || loc.includes('Mysore') || name.includes('Jain') || name.includes('Mysore'),
+    title: 'Best Online Degree Colleges in Bangalore 2027 | UGC Fees',
+    desc: 'Explore NAAC A++ UGC-DEB approved online universities in Bangalore & Karnataka for 2027. Compare Online MBA, MCA, BBA, BCA fees & placements.',
+    h1: 'UGC Approved Online Universities in Bangalore & Karnataka (2027)',
+    cities: 'Bangalore · Mysore · Mangalore · Hubli',
+    aboutText: 'Bangalore, the Silicon Valley of India, is home to leading tech and management institutions. Online programs from Bangalore institutions like Jain University Online and Mysore University Online offer direct connection to India\'s largest startup and IT ecosystem.',
+    faqs: [
+      { q: 'Why choose an online degree from a Bangalore university?', a: 'Bangalore universities like Jain University Online (NAAC A++) offer industry-curated curriculums in AI, Data Science, FinTech, and Digital Marketing, backed by Bangalore tech placement networks.' }
+    ]
+  },
+  'online-degree-mumbai-pune': {
+    name: 'Mumbai & Pune Hub',
+    locationFilter: (loc, name) => loc.includes('Maharashtra') || loc.includes('Mumbai') || loc.includes('Pune') || name.includes('NMIMS') || name.includes('Patil') || name.includes('SCDL'),
+    title: 'Top Online Degrees in Mumbai & Pune Maharashtra 2027',
+    desc: 'Compare UGC-DEB approved online universities in Mumbai, Pune & Maharashtra. NMIMS Online, D.Y. Patil Online, SCDL Symbiosis fees & admissions.',
+    h1: 'UGC Approved Online Degrees in Mumbai & Pune (2027)',
+    cities: 'Mumbai · Pune · Navi Mumbai · Thane · Vadodara',
+    aboutText: 'Maharashtra is India\'s premier commercial and financial powerhouse. Institutions like NMIMS Online (Mumbai), D.Y. Patil University Online (Pune & Navi Mumbai), and SCDL Symbiosis offer top-tier online MBA, BBA, MCA, and Finance degrees tailored for corporate professionals.',
+    faqs: [
+      { q: 'Which are the best online MBA colleges in Mumbai and Pune?', a: 'NMIMS Online (NAAC A+), D.Y. Patil University Online Pune (NAAC A++), D.Y. Patil Navi Mumbai, and SCDL Symbiosis are top choices with strong finance and management industry repute.' }
+    ]
+  },
+  'online-degree-hyderabad': {
+    name: 'Hyderabad & AP Hub',
+    locationFilter: (loc, name) => loc.includes('AP') || loc.includes('Andhra') || loc.includes('Vijayawada') || loc.includes('Guntur') || name.includes('Andhra') || name.includes('KL') || name.includes('Vignan'),
+    title: 'Top Online Degrees in Hyderabad & Andhra Pradesh 2027',
+    desc: 'Explore UGC approved online universities in Hyderabad & Andhra Pradesh. Andhra University, KL University, Vignan University fees starting ₹62,200.',
+    h1: 'Online Degrees in Hyderabad & Andhra Pradesh (2027)',
+    cities: 'Hyderabad · Visakhapatnam · Vijayawada · Guntur',
+    aboutText: 'Hyderabad and the Andhra Pradesh corridor represent a rapidly expanding tech and pharmaceutical hub. Institutions like Andhra University Online (lowest fee king at ₹62,200), KL University Online (NAAC A++), and Vignan University Online offer accredited higher education for working adults.',
+    faqs: [
+      { q: 'Which is the cheapest UGC approved online MBA in South India?', a: 'Andhra University Online offers the most affordable UGC-DEB approved Online MBA in India with total fees of just ₹62,200.' }
+    ]
+  },
+  'online-degree-jaipur-rajasthan': {
+    name: 'Jaipur & Rajasthan Hub',
+    locationFilter: (loc, name) => loc.includes('Rajasthan') || loc.includes('Jaipur') || name.includes('Manipal') || name.includes('Vivekananda') || name.includes('Mody') || name.includes('SGVU'),
+    title: 'Top Online Degrees in Jaipur & Rajasthan 2027 | Fees & Review',
+    desc: 'Compare UGC approved online universities in Jaipur & Rajasthan. Manipal Jaipur Online, VGU, SGVU & Mody University fees from ₹48,000.',
+    h1: 'UGC Approved Online Degrees in Jaipur & Rajasthan (2027)',
+    cities: 'Jaipur · Lakshmangarh · Kota · Udaipur',
+    aboutText: 'Rajasthan has emerged as a major education hub in North-West India. Premier universities like Manipal University Jaipur (NAAC A+), Vivekananda Global University (VGU Online), Suresh Gyan Vihar University (SGVU), and Mody University Online provide high ROI online degree courses.',
+    faqs: [
+      { q: 'Are online degrees from Rajasthan universities recognized by WES?', a: 'Yes. Manipal University Jaipur Online holds World Education Services (WES) approval for Canada PR and US higher studies.' }
+    ]
+  },
+  'online-degree-chandigarh-punjab': {
+    name: 'Chandigarh & Punjab Hub',
+    locationFilter: (loc, name) => loc.includes('Punjab') || loc.includes('Chandigarh') || name.includes('Chandigarh') || name.includes('LPU') || name.includes('Guru Kashi') || name.includes('Chitkara'),
+    title: 'Best Online Degrees in Chandigarh & Punjab 2027 | NAAC A++',
+    desc: 'Compare NAAC A++ UGC approved online universities in Punjab & Chandigarh. LPU Online, Chandigarh University, Chitkara & Guru Kashi fees & guidance.',
+    h1: 'UGC Approved Online Degrees in Chandigarh & Punjab (2027)',
+    cities: 'Chandigarh · Mohali · Phagwara · Bathinda · Rajpura',
+    aboutText: 'The Punjab and Chandigarh education corridor features some of India\'s largest and highest-accredited private universities. Institutions like LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Guru Kashi University (NAAC A++), and Chitkara University deliver world-class virtual learning.',
+    faqs: [
+      { q: 'Which online universities in Punjab have NAAC A++ accreditation?', a: 'Lovely Professional University (LPU Online) and Guru Kashi University hold NAAC A++ accreditation, while Chandigarh University is QS World Ranked and NAAC A+ rated.' }
+    ]
+  },
+  'online-degree-south-india': {
+    name: 'South India Hub',
+    locationFilter: (loc, name) => loc.includes('TN') || loc.includes('Tamil') || loc.includes('Chennai') || loc.includes('Coimbatore') || loc.includes('Thanjavur') || name.includes('SRM') || name.includes('SASTRA') || name.includes('Amrita') || name.includes('Annamalai'),
+    title: 'Top Online Degrees in South India 2027 | NAAC A++ & WES Fees',
+    desc: 'Compare NAAC A++ online degree universities in Tamil Nadu & South India. SRM Online, SASTRA, Amrita Vishwa Vidyapeetham & Annamalai fees.',
+    h1: 'UGC Approved Online Degrees in South India (2027)',
+    cities: 'Chennai · Coimbatore · Thanjavur · Chidambaram',
+    aboutText: 'South India holds an exceptional reputation for academic rigor and technical university standards. Premier institutions like Amrita Vishwa Vidyapeetham (NIRF Top 10), SASTRA University (NAAC A++), SRM University Online (NAAC A++), and Annamalai University offer accredited online degrees across management, computer science, and arts.',
+    faqs: [
+      { q: 'Which South Indian universities offer online degrees?', a: 'Amrita Vishwa Vidyapeetham, SASTRA University, SRM University Online, Annamalai University, Andhra University, and KL University offer UGC-DEB recognized online degrees.' }
+    ]
+  },
+  'online-degree-kolkata-east-india': {
+    name: 'East & Central India Hub',
+    locationFilter: (loc, name) => loc.includes('Sikkim') || loc.includes('Chhattisgarh') || loc.includes('East') || name.includes('Sikkim') || name.includes('Kalinga'),
+    title: 'Top Online Degrees in East & Central India 2027 | UGC Fees',
+    desc: 'Explore UGC-DEB approved online universities in Eastern & Central India. Sikkim Manipal University & Kalinga University fees starting ₹80,000.',
+    h1: 'UGC Approved Online Degrees in East & Central India (2027)',
+    cities: 'Gangtok · Raipur · Kolkata · Central India',
+    aboutText: 'East and Central India offer highly budget-friendly, accredited online higher education options. Sikkim Manipal University (SMU Online) and Kalinga University (Raipur) deliver recognized Online MBA, MCA, BBA, and BCA programs with flexible learning models.',
+    faqs: [
+      { q: 'Which is the best online university in Eastern India?', a: 'Sikkim Manipal University Online (SMU) is a pioneer with 20+ years of distance/online education experience and NAAC A+ accreditation.' }
+    ]
+  }
+};
+
 // ── Comparison Helper mapping ────────────────────────────────────────────────
 const findCollegeBySlugPart = (part: string) => {
   const normalized = part.toLowerCase().trim();
@@ -244,6 +356,7 @@ const findCollegeBySlugPart = (part: string) => {
 
 export async function generateStaticParams() {
   const courseSlugs = Object.keys(COURSE_MAP);
+  const geoSlugs = Object.keys(GEO_MAP);
   const universitySlugs = COLLEGES.map((c) => c.universitySlug).filter(Boolean);
   
   // Popular comparisons that are high-traffic
@@ -260,7 +373,7 @@ export async function generateStaticParams() {
     'scdl-vs-nmims'
   ];
 
-  const allSlugs = [...courseSlugs, ...universitySlugs, ...comparisonSlugs];
+  const allSlugs = [...courseSlugs, ...geoSlugs, ...universitySlugs, ...comparisonSlugs];
 
   return allSlugs.map((slug) => ({
     slug: slug,
@@ -274,6 +387,28 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // 1. Course Metadata
   if (COURSE_MAP[slug]) {
     const config = COURSE_MAP[slug];
+    return {
+      title: config.title,
+      description: config.desc,
+      alternates: { canonical: PAGE_URL },
+      openGraph: {
+        title: config.title,
+        description: config.desc,
+        url: PAGE_URL,
+        siteName: 'CareerWithMohit',
+        type: 'website',
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: config.title,
+        description: config.desc,
+      }
+    };
+  }
+
+  // 2. Geo Metadata
+  if (GEO_MAP[slug]) {
+    const config = GEO_MAP[slug];
     return {
       title: config.title,
       description: config.desc,
@@ -599,6 +734,240 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(courseJsonLd) }}
+        />
+      </div>
+    );
+  }
+
+  // ── Render Case A2: Geo-Location Hub ──
+  if (GEO_MAP[slug]) {
+    const config = GEO_MAP[slug];
+    const matchingColleges = COLLEGES.filter(c => config.locationFilter(c.location, c.name));
+
+    const geoJsonLd = {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'WebPage',
+          '@id': PAGE_URL,
+          url: PAGE_URL,
+          name: config.title,
+          description: config.desc,
+          isPartOf: { '@id': `${BASE_URL}/#website` },
+          breadcrumb: {
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+              { '@type': 'ListItem', position: 2, name: 'Online Degrees', item: `${BASE_URL}${PARENT_PATH}` },
+              { '@type': 'ListItem', position: 3, name: config.name, item: PAGE_URL },
+            ],
+          },
+        },
+        {
+          '@type': 'ItemList',
+          name: config.h1,
+          description: config.desc,
+          url: PAGE_URL,
+          numberOfItems: matchingColleges.length,
+          itemListElement: matchingColleges.map((c, index) => ({
+            '@type': 'ListItem',
+            position: index + 1,
+            name: c.name,
+            url: c.slug ? `${BASE_URL}/blog/${c.slug}` : PAGE_URL,
+          })),
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: config.faqs.map(faq => ({
+            '@type': 'Question',
+            name: faq.q,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: faq.a
+            }
+          }))
+        }
+      ]
+    };
+
+    return (
+      <div className="bg-[#f8f7f4] min-h-screen">
+        <style>{`
+          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600&display=swap');
+          .page-font { font-family: 'DM Sans', sans-serif; }
+          .display-font { font-family: 'Playfair Display', serif; }
+          .hero-bg {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+            position: relative;
+            overflow: hidden;
+          }
+          .hero-bg::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(99,102,241,0.18) 0%, transparent 70%);
+          }
+          .hero-grid {
+            background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+                              linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+            background-size: 48px 48px;
+            position: absolute;
+            inset: 0;
+          }
+          .stat-card {
+            background: linear-gradient(135deg, #1e293b, #0f172a);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+          }
+          .cta-strip {
+            background: linear-gradient(90deg, #4f46e5, #7c3aed);
+          }
+        `}</style>
+
+        <div className="page-font">
+          {/* Hero */}
+          <section className="hero-bg py-20 relative">
+            <div className="hero-grid" />
+            <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
+              <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-8 backdrop-blur-sm">
+                <MapPin size={14} className="text-indigo-400" />
+                Regional Education Hub · {config.name}
+              </span>
+              <h1 className="display-font text-4xl md:text-6xl font-black text-white leading-tight mb-4">
+                {config.h1}
+              </h1>
+              <p className="text-indigo-300 text-xs md:text-sm font-bold uppercase tracking-widest mb-6">
+                {config.cities}
+              </p>
+              <p className="text-white/70 text-base md:text-lg max-w-3xl mx-auto leading-relaxed font-medium">
+                {config.aboutText}
+              </p>
+
+              {/* Stats */}
+              <div className="mt-10 grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-2xl mx-auto">
+                <div className="stat-card px-4 py-4">
+                  <p className="display-font text-2xl font-black text-white">{matchingColleges.length}+</p>
+                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Universities</p>
+                </div>
+                <div className="stat-card px-4 py-4">
+                  <p className="display-font text-2xl font-black text-white">
+                    {matchingColleges.length > 0 ? matchingColleges.reduce((min, c) => c.feeNum < min ? c.feeNum : min, Infinity).toLocaleString('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 0 }).replace('INR', '₹') : '₹20K'}
+                  </p>
+                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Starting Fee</p>
+                </div>
+                <div className="stat-card px-4 py-4">
+                  <p className="display-font text-2xl font-black text-white">100%</p>
+                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">UGC Equivalence</p>
+                </div>
+                <div className="stat-card px-4 py-4">
+                  <p className="display-font text-2xl font-black text-white">NAAC A+</p>
+                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Accreditation</p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* CTA Strip */}
+          <div className="cta-strip py-4 text-center text-white">
+            <a
+              href="tel:+919560020771"
+              className="inline-flex items-center gap-2 font-semibold text-sm hover:underline underline-offset-2 transition-all"
+            >
+              <Phone size={15} />
+              Talk to a free counsellor for {config.name} · Call +91 95600 20771
+            </a>
+          </div>
+
+          {/* Lead capture form */}
+          <section className="px-6 py-6 bg-[#f8f7f4]">
+            <OnlineDegreeLeadForm />
+          </section>
+
+          {/* Regional Colleges Grid */}
+          <section className="bg-white py-16 md:py-20 border-t border-gray-100">
+            <div className="max-w-6xl mx-auto px-6">
+              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4 text-center">
+                UGC Approved Online Universities in {config.name}
+              </h2>
+              <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto text-sm md:text-base font-medium">
+                Verified fee schedules, NAAC grades, and course details for online universities serving learners in {config.cities}.
+              </p>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {matchingColleges.map((univ) => (
+                  <div key={univ.name} className="bg-[#f8f7f4] rounded-3xl p-6 border border-gray-200 shadow-xs flex flex-col justify-between hover:border-indigo-300 transition-all">
+                    <div>
+                      <div className="flex items-center justify-between gap-2 mb-3">
+                        <span className="text-xs font-black uppercase tracking-wider bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full border border-indigo-200">
+                          {univ.grade} Rated
+                        </span>
+                        <span className="text-xs font-bold text-gray-500 uppercase tracking-wider flex items-center gap-1">
+                          <MapPin size={13} className="text-indigo-500" /> {univ.location}
+                        </span>
+                      </div>
+                      <h3 className="display-font text-xl font-black text-[#0f172a] mb-2">
+                        {univ.name}
+                      </h3>
+                      <p className="text-gray-500 text-xs leading-relaxed mb-4 line-clamp-3 font-medium">
+                        {univ.about}
+                      </p>
+                      <div className="space-y-1.5 text-xs font-bold text-gray-700 mb-6">
+                        <p className="flex items-center gap-2"><ShieldCheck size={14} className="text-emerald-600" /> Approvals: {univ.approvals}</p>
+                        <p className="flex items-center gap-2"><GraduationCap size={14} className="text-indigo-600" /> Programs: {univ.programs.join(', ')}</p>
+                      </div>
+                    </div>
+
+                    <div className="pt-4 border-t border-gray-200/80 flex items-center justify-between">
+                      <div>
+                        <span className="text-[10px] uppercase font-bold text-gray-400 block">Total Fees</span>
+                        <span className="text-sm font-black text-emerald-700">{univ.fee}</span>
+                      </div>
+                      <Link
+                        href={`/online-degree-certification/${univ.universitySlug}`}
+                        className="bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-xs px-4 py-2 rounded-xl transition-colors shadow-sm"
+                      >
+                        View Details →
+                      </Link>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </section>
+
+          {/* FAQs section */}
+          <section className="bg-[#f8f7f4] py-16 md:py-20 border-t border-b border-gray-200">
+            <div className="max-w-3xl mx-auto px-6">
+              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center">
+                {config.name} Frequently Asked Questions
+              </h2>
+              <p className="text-gray-500 text-center mb-10">
+                Key questions about online degree admissions and recognition in {config.name}.
+              </p>
+              <div className="space-y-3">
+                {config.faqs.map((faq, idx) => (
+                  <details
+                    key={idx}
+                    className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden"
+                  >
+                    <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
+                      <span>{faq.q}</span>
+                      <ChevronDown size={18} className="text-indigo-400 shrink-0 transition-transform group-open:rotate-180" />
+                    </summary>
+                    <div className="px-6 pb-5 text-gray-500 text-sm leading-relaxed border-t border-gray-50 pt-4">
+                      {faq.a}
+                    </div>
+                  </details>
+                ))}
+              </div>
+            </div>
+          </section>
+        </div>
+
+        {/* JSON-LD Script */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(geoJsonLd) }}
         />
       </div>
     );
