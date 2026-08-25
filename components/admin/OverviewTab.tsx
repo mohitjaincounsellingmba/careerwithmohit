@@ -31,6 +31,36 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
 
   return (
     <div className="space-y-6 font-body">
+      {/* Quick Action Banner: Today's Blog Suggestions & SEO Studio */}
+      <div
+        onClick={() => setActiveTab("seo")}
+        className="bg-gradient-to-r from-amber-500/10 via-slate-900 to-slate-900 border border-amber-500/30 hover:border-amber-500/60 rounded-2xl p-4 shadow-lg flex flex-col sm:flex-row sm:items-center justify-between gap-3 cursor-pointer group transition-all"
+      >
+        <div className="flex items-center gap-3">
+          <div className="w-10 h-10 rounded-xl bg-amber-500/20 text-amber-400 border border-amber-500/30 flex items-center justify-center font-bold shrink-0">
+            <Sparkles className="w-5 h-5 animate-pulse" />
+          </div>
+          <div>
+            <div className="flex items-center gap-2">
+              <h3 className="text-sm font-extrabold text-white group-hover:text-amber-400 transition-colors">
+                🔍 SEO & Today's 5 Blog Suggestions
+              </h3>
+              <span className="px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 text-[10px] font-bold">
+                5 Fresh Daily Topics Ready
+              </span>
+            </div>
+            <p className="text-xs text-slate-400 mt-0.5">
+              Explore competitor gaps, target keywords, content outlines & 1-click AI writing prompts.
+            </p>
+          </div>
+        </div>
+
+        <button className="px-4 py-2 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-xs flex items-center justify-center gap-1.5 transition-all shrink-0">
+          <span>Open SEO Section</span>
+          <ArrowUpRight className="w-4 h-4" />
+        </button>
+      </div>
+
       {/* Metric Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         {/* Card 1: Total Views */}

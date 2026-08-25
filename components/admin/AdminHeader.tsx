@@ -23,7 +23,7 @@ export function AdminHeader({
     { id: "overview", label: "Overview", icon: BarChart3 },
     { id: "realtime", label: "⚡ Real-Time Traffic", icon: Zap },
     { id: "abtest", label: "🧪 A/B Experiments", icon: FlaskConical },
-    { id: "seo", label: "🚀 Today's Blog Suggestions", icon: Sparkles },
+    { id: "seo", label: "🔍 SEO & Blog Suggestions", icon: Sparkles },
     { id: "blogs", label: `Blogs (${totalBlogsCount})`, icon: FileText },
     { id: "pages", label: "Page Views", icon: Globe },
     { id: "locations", label: "Visitor Locations", icon: MapPin },
