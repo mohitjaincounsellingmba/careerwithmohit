@@ -12,7 +12,7 @@ import { PageAnalyticsTab } from "@/components/admin/PageAnalyticsTab";
 import { LocationAnalyticsTab } from "@/components/admin/LocationAnalyticsTab";
 import { ClicksImpressionsTab } from "@/components/admin/ClicksImpressionsTab";
 import { LeadsOverviewTab } from "@/components/admin/LeadsOverviewTab";
-import { SeoAnalyticsTab } from "@/components/admin/SeoAnalyticsTab";
+import { SeoStudioTab } from "@/components/admin/SeoStudioTab";
 import { ABTestingTab } from "@/components/admin/ABTestingTab";
 import { AlertCircle } from "lucide-react";
 
@@ -272,7 +272,7 @@ export default function AdminDashboardPage() {
             )}
 
             {activeTab === "seo" && (
-              <SeoAnalyticsTab
+              <SeoStudioTab
                 blogs={filteredData.blogs || []}
                 summary={filteredData.summary}
               />
