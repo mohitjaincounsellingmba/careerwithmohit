@@ -150,10 +150,10 @@ When smartwatches began disrupting classic quartz wristwatches, Titan did not pa
 
 ## 💡 Related Strategic Case Studies & Articles
 
-*   [Amul Cooperative Model: Cold-Chain Logistics & Supply Chain Success](/posts/amul-cooperative-cold-chain-logistics-supply-chain)
-*   [Zara & Inditex JIT Production & Agile Supply Chain Model](/posts/zara-inditex-jit-production-agile-supply-chain)
-*   [Mumbai Dabbawalas: Six Sigma Operations & Coding System](/posts/mumbai-dabbawalas-six-sigma-operations-coding-system)
-*   [10 Proven Tips to Crack CAT Exam 2026](/posts/10-tips-to-crack-cat-exam-2026)
+*   [Amul Cooperative Model: Cold-Chain Logistics & Supply Chain Success](/blog/amul-cooperative-cold-chain-logistics-supply-chain)
+*   [Zara & Inditex JIT Production & Agile Supply Chain Model](/blog/zara-inditex-jit-production-agile-supply-chain)
+*   [Mumbai Dabbawalas: Six Sigma Operations & Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system)
+*   [10 Proven Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026)
 
 ---
 

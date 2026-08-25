@@ -134,9 +134,9 @@ New Zealand — known as **Aotearoa** — is one of the world's most stunning an
 
 ### 🔗 Related Reads
 
-- [All About IELTS Exam 2026](/posts/all-about-ielts-exam-eligibility-curriculum-uses)
-- [MBBS Abroad for Indian Students 2026](/posts/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-- [All About Duolingo English Test 2026](/posts/all-about-duolingo-english-test-2026)
+- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
+- [MBBS Abroad for Indian Students 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
+- [All About Duolingo English Test 2026](/blog/all-about-duolingo-english-test-2026)
 
 ---
 

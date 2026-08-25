@@ -208,9 +208,9 @@ Navigating USA university admissions alone can be overwhelming. From shortlistin
 
 ### 🔗 Related Reads
 
-- [Complete Guide to IELTS, TOEFL & SAT Exams 2026](/posts/all-about-sat-ielts-toefl-gre-exams-guide-2026)
-- [Global MBA Online 2026: UK, USA & India Fees Guide](/posts/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [GMAT Exam: Colleges, Cutoffs & Strategy 2026](/posts/all-about-gmat-exam-colleges-cutoffs)
+- [Complete Guide to IELTS, TOEFL & SAT Exams 2026](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026)
+- [Global MBA Online 2026: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [GMAT Exam: Colleges, Cutoffs & Strategy 2026](/blog/all-about-gmat-exam-colleges-cutoffs)
 
 ---
 

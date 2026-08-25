@@ -123,9 +123,9 @@ While not all are on our portal, these are some of Denmark's best universities t
 
 ### 🔗 Related Reads
 
-- [Top Universities in Sweden for Indian Students 2026](/posts/top-universities-in-sweden-for-indian-students-2026-fees-admission)
-- [Top Universities in Finland for Indian Students 2026](/posts/top-universities-in-finland-for-indian-students-2026-fees-admission)
-- [Global MBA Online 2026](/posts/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [Top Universities in Sweden for Indian Students 2026](/blog/top-universities-in-sweden-for-indian-students-2026-fees-admission)
+- [Top Universities in Finland for Indian Students 2026](/blog/top-universities-in-finland-for-indian-students-2026-fees-admission)
+- [Global MBA Online 2026](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
 
 ---
 

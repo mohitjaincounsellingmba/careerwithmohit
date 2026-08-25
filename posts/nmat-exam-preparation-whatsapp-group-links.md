@@ -95,9 +95,9 @@ Help keep our NMAT community focused and high-performing:
 Take advantage of our prep resources:
 
 * 📝 [Explore NMAT Full-Length Mock Tests](/mock-tests)
-* 🏫 [All About NMIMS Campuses: Fees, Cutoffs & Seats](/posts/all-about-nmims-campuses.md)
-* 📊 [All About NMAT Exam: Syllabus, Pattern & Colleges](/posts/all-about-nmat-exam.md)
-* 🎯 [Top Colleges Accepting NMAT Score 2026](/posts/omets-mba-entrance-exams-2026.md)
+* 🏫 [All About NMIMS Campuses: Fees, Cutoffs & Seats](/blog/all-about-nmims-campuses)
+* 📊 [All About NMAT Exam: Syllabus, Pattern & Colleges](/blog/all-about-nmat-exam)
+* 🎯 [Top Colleges Accepting NMAT Score 2026](/blog/omets-mba-entrance-exams-2026)
 
 ---
 
@@ -115,10 +115,10 @@ Yes! Members share tips on selecting test slots, analyzing retake strategies acr
 ---
 
 ### Related Articles:
-- [All About NMAT Exam: Dates, Registration, Colleges & Cutoffs](/posts/all-about-nmat-exam.md)
-- [NMIMS Mumbai MBA Review 2026: Placements, Fees & Cutoff](/posts/all-about-nmims-mumbai.md)
-- [NMIMS Campuses Complete Comparison: Mumbai vs Bangalore vs Hyderabad](/posts/all-about-nmims-campuses.md)
-- [Top OMET Entrance Exams for MBA Aspirants](/posts/omets-mba-entrance-exams-2026.md)
+- [All About NMAT Exam: Dates, Registration, Colleges & Cutoffs](/blog/all-about-nmat-exam)
+- [NMIMS Mumbai MBA Review 2026: Placements, Fees & Cutoff](/blog/all-about-nmims-mumbai)
+- [NMIMS Campuses Complete Comparison: Mumbai vs Bangalore vs Hyderabad](/blog/all-about-nmims-campuses)
+- [Top OMET Entrance Exams for MBA Aspirants](/blog/omets-mba-entrance-exams-2026)
 
 ---
 

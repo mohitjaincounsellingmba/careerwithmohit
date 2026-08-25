@@ -47,10 +47,10 @@ For management aspirants preparing for **2027-29 admissions**, Gujarat institute
 
 ### 1. EDII (Entrepreneurship Development Institute of India), Ahmedabad
 * **Uniqueness**: Autonomous institute backed by IDBI, IFCI, ICICI, and SBI under Government of Gujarat guidance.
-* **Specialized Program**: PGDM in Entrepreneurship, Start-up Management, and Family Business. Read [All About EDII Ahmedabad](/posts/all-about-entrepreneurship-development-institute-of-india).
+* **Specialized Program**: PGDM in Entrepreneurship, Start-up Management, and Family Business. Read [All About EDII Ahmedabad](/blog/all-about-entrepreneurship-development-institute-of-india).
 
 ### 2. Shanti Business School (SBS), Ahmedabad
-* **Highlights**: AICTE approved PGDM with dual specializations in Data Analytics, Communication, Marketing, and Finance. Read [All About Shanti Business School](/posts/all-about-shanti-business-school).
+* **Highlights**: AICTE approved PGDM with dual specializations in Data Analytics, Communication, Marketing, and Finance. Read [All About Shanti Business School](/blog/all-about-shanti-business-school).
 
 ### 3. MICA Ahmedabad (The School of Ideas)
 * **Highlights**: Premier institution for Strategic Marketing, Digital Communications, and Brand Management.

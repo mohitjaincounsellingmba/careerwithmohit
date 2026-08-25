@@ -141,9 +141,9 @@ As a **Schengen Zone Member**, your Malta Student Visa allows:
 
 ### 🔗 Related Reads
 
-- [MBBS Abroad for Indian Students 2026: Fees & NMC Rules](/posts/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-- [Top Universities in Ireland for Indian Students 2026](/posts/top-universities-in-ireland-for-indian-students-2026-fees-admission)
-- [All About IELTS Exam 2026](/posts/all-about-ielts-exam-eligibility-curriculum-uses)
+- [MBBS Abroad for Indian Students 2026: Fees & NMC Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
+- [Top Universities in Ireland for Indian Students 2026](/blog/top-universities-in-ireland-for-indian-students-2026-fees-admission)
+- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
 
 ---
 

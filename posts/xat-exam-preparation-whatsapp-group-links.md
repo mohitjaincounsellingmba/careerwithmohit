@@ -98,8 +98,8 @@ Boost your XLRI entrance preparation with our free tools:
 
 * 📝 [Explore Premium XAT Mock Test Series](/mock-tests)
 * 📜 [Download Past Year XAT Question Papers & Solutions](/tools/xat-previous-year-papers)
-* 🏫 [Check All Top Colleges Accepting XAT Score 2026](/posts/all-about-xat-exam.md)
-* 📊 [Compare XLRI Jamshedpur Fees & Placements](/posts/all-about-xlri-jamshedpur.md)
+* 🏫 [Check All Top Colleges Accepting XAT Score 2026](/blog/all-about-xat-exam)
+* 📊 [Compare XLRI Jamshedpur Fees & Placements](/blog/all-about-xlri-jamshedpur)
 
 ---
 
@@ -117,10 +117,10 @@ Yes, daily GK compilations, current affairs summaries, and essay writing templat
 ---
 
 ### Related Articles:
-- [All About XAT Exam: Dates, Pattern, Syllabus & XLRI Cutoffs](/posts/all-about-xat-exam.md)
-- [All About XLRI Jamshedpur: Courses, Placements & Admission Process](/posts/all-about-xlri-jamshedpur.md)
-- [Top MBA Colleges Accepting XAT Score in India](/posts/omets-mba-entrance-exams-2026.md)
-- [CAT vs XAT: Difference in Pattern, Syllabus & Difficulty Level](/posts/10-tips-to-crack-cat-exam-2026.md)
+- [All About XAT Exam: Dates, Pattern, Syllabus & XLRI Cutoffs](/blog/all-about-xat-exam)
+- [All About XLRI Jamshedpur: Courses, Placements & Admission Process](/blog/all-about-xlri-jamshedpur)
+- [Top MBA Colleges Accepting XAT Score in India](/blog/omets-mba-entrance-exams-2026)
+- [CAT vs XAT: Difference in Pattern, Syllabus & Difficulty Level](/blog/10-tips-to-crack-cat-exam-2026)
 
 ---
 

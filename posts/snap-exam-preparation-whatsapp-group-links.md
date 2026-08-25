@@ -94,9 +94,9 @@ Maintain a high-standard preparation space:
 Accelerate your SNAP exam preparation:
 
 * 📝 [Explore SNAP Mock Test Series](/mock-tests)
-* 🏫 [All About SIBM Pune: Placements, Fees & Cutoffs](/posts/all-about-sibm-pune.md)
-* 🏫 [All About SCMHRD Pune: HR & Business Analytics Guide](/posts/all-about-scmhrd-pune.md)
-* 📚 [Check All Symbiosis MBA Institutes & Cutoffs](/posts/all-about-symbiosis-mba-institutes.md)
+* 🏫 [All About SIBM Pune: Placements, Fees & Cutoffs](/blog/all-about-sibm-pune)
+* 🏫 [All About SCMHRD Pune: HR & Business Analytics Guide](/blog/all-about-scmhrd-pune)
+* 📚 [Check All Symbiosis MBA Institutes & Cutoffs](/blog/all-about-symbiosis-mba-institutes)
 
 ---
 
@@ -114,10 +114,10 @@ Yes! The group focuses heavily on 1 question per minute speed strategies, rapid 
 ---
 
 ### Related Articles:
-- [All About SNAP Exam: Registration, Syllabus, Eligibility & Cutoffs](/posts/all-about-snap-exam.md)
-- [SNAP Application Form, Dates & Notification Guide](/posts/snap-2026-application-form-notification-registration-dates-fees-guide.md)
-- [SIBM Pune vs SCMHRD Pune: Which Symbiosis College is Better?](/posts/all-about-sibm-pune.md)
-- [All Symbiosis MBA Colleges Cutoffs & Selection Process](/posts/all-about-symbiosis-mba-institutes.md)
+- [All About SNAP Exam: Registration, Syllabus, Eligibility & Cutoffs](/blog/all-about-snap-exam)
+- [SNAP Application Form, Dates & Notification Guide](/blog/snap-2026-application-form-notification-registration-dates-fees-guide)
+- [SIBM Pune vs SCMHRD Pune: Which Symbiosis College is Better?](/blog/all-about-sibm-pune)
+- [All Symbiosis MBA Colleges Cutoffs & Selection Process](/blog/all-about-symbiosis-mba-institutes)
 
 ---
 

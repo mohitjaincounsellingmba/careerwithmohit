@@ -195,9 +195,9 @@ Our counselors specialize in UK university shortlisting, SOP writing, and visa d
 
 ### 🔗 Related Reads
 
-- [All About IELTS Exam: Eligibility, Curriculum & Uses](/posts/all-about-ielts-exam-eligibility-curriculum-uses)
-- [Global MBA Online 2026: UK, USA & India Fees Guide](/posts/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [All About Duolingo English Test 2026](/posts/all-about-duolingo-english-test-2026)
+- [All About IELTS Exam: Eligibility, Curriculum & Uses](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
+- [Global MBA Online 2026: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [All About Duolingo English Test 2026](/blog/all-about-duolingo-english-test-2026)
 
 ---
 

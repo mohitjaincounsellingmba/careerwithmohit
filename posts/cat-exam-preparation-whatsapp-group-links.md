@@ -97,7 +97,7 @@ Take advantage of our free online tools designed to boost your CAT prep:
 * 📝 [Take Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)
 * 📊 [CAT Score Calculator & Percentile Predictor](/tools/cat-score-calculator)
 * 📜 [Download Official CAT Previous Year Question Papers](/tools/cat-previous-year-papers)
-* 🏫 [Check All IIM Selection Criteria & Cutoffs](/posts/all-iim-cut-off-2026-28-admission-mba-pgdm.md)
+* 🏫 [Check All IIM Selection Criteria & Cutoffs](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
 
 ---
 
@@ -115,10 +115,10 @@ Members must maintain decorum: no promotional spam, no fake news, focus purely o
 ---
 
 ### Related Articles:
-- [10 Proven Tips to Crack CAT Exam 2026](/posts/10-tips-to-crack-cat-exam-2026.md)
-- [All About CAT Exam: Dates, Syllabus, Eligibility & Cutoffs](/posts/all-about-cat-exam.md)
-- [All IIM Colleges Cutoffs, Placements & Fees 2026](/posts/all-iim-colleges-placements-fees-selection-2026.md)
-- [Top Non-IIM MBA Colleges Accepting CAT Score](/posts/mba-colleges-accepting-cat-score-80-90-percentile-2026.md)
+- [10 Proven Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026)
+- [All About CAT Exam: Dates, Syllabus, Eligibility & Cutoffs](/blog/all-about-cat-exam)
+- [All IIM Colleges Cutoffs, Placements & Fees 2026](/blog/all-iim-colleges-placements-fees-selection-2026)
+- [Top Non-IIM MBA Colleges Accepting CAT Score](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2026)
 
 ---
 

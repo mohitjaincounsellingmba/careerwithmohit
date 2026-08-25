@@ -47,14 +47,14 @@ For aspirants planning **MBA/PGDM admission for 2027-29**, Jaipur B-schools offe
 
 ### 1. Jaipuria Institute of Management, Jaipur
 * **Highlights**: Located in Bambala Institutional Area, Pratap Nagar. NBA accredited, AIU recognized as MBA equivalent.
-* **Placement Record**: Average package ₹11.34 LPA with 300+ recruiters. Check [All About Jaipuria Jaipur](/posts/all-about-jaipuria-institute-of-management-jaipur).
+* **Placement Record**: Average package ₹11.34 LPA with 300+ recruiters. Check [All About Jaipuria Jaipur](/blog/all-about-jaipuria-institute-of-management-jaipur).
 
 ### 2. IIHMR University, Jaipur
 * **Pioneer Status**: World-renowned institution dedicated to Health Management, Hospital Administration, and Pharmaceutical Management.
 * **Placements**: 100% campus placement with top hospital chains, WHO, and pharma multinationals.
 
 ### 3. FMS-IRM (Faculty of Management Studies - Institute of Rural Management)
-* **Highlights**: AICTE approved PGDM with specialized tracks in Rural Management, Business Analytics, and Marketing. Read [All About FMS-IRM Jaipur](/posts/all-about-fms-irm-jaipur).
+* **Highlights**: AICTE approved PGDM with specialized tracks in Rural Management, Business Analytics, and Marketing. Read [All About FMS-IRM Jaipur](/blog/all-about-fms-irm-jaipur).
 
 ### 4. Taxila Business School, Jaipur
 * **Highlights**: Known for PGDM with SAP and Business Analytics certifications.

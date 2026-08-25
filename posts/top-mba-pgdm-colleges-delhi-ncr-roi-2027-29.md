@@ -64,16 +64,16 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 
 ### 3. New Delhi Institute of Management (NDIM), South Delhi
 * **Highlights**: UGC & AIU declared PGDM as MBA Equivalent. AICTE approved dual specialization options in FinTech, Business Analytics, Digital Marketing, and Supply Chain.
-* **Why High ROI**: Highly competitive fee structure with 300+ corporate recruiters on campus. Read full review at [All About NDIM Delhi](/posts/all-about-ndim-delhi).
+* **Why High ROI**: Highly competitive fee structure with 300+ corporate recruiters on campus. Read full review at [All About NDIM Delhi](/blog/all-about-ndim-delhi).
 * **Placements**: Average package of ₹9.50 LPA with highest international offers reaching ₹24 LPA.
 
 ### 4. FOSTIIMA Business School, Delhi
 * **Highlights**: Founded by IIM Ahmedabad Alumni with pan-IIM faculty team.
-* **Placement Record**: Outstanding ₹11.15 LPA average package with top brands like Deloitte, KPMG, Axis Bank, and ICICI Bank. Check detailed insights at [All About FOSTIIMA Delhi](/posts/all-about-fostiima-delhi).
+* **Placement Record**: Outstanding ₹11.15 LPA average package with top brands like Deloitte, KPMG, Axis Bank, and ICICI Bank. Check detailed insights at [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
 
 ### 5. Fortune Institute of International Business (FIIB), South Delhi
 * **Highlights**: Situated in Vasant Vihar, FIIB holds AACSB global membership and NBA accreditation.
-* **Curriculum**: Heavy focus on digital transformation, business analytics, and corporate mentorship. Learn more at [All About FIIB Delhi](/posts/all-about-fiib-delhi).
+* **Curriculum**: Heavy focus on digital transformation, business analytics, and corporate mentorship. Learn more at [All About FIIB Delhi](/blog/all-about-fiib-delhi).
 
 ---
 

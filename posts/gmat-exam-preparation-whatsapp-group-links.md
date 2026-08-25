@@ -95,9 +95,9 @@ Maintain professional standards within our global test prep community:
 Enhance your GMAT and global MBA application prep:
 
 * 📝 [Explore GMAT Mock Test Series](/mock-tests)
-* 🏫 [All About GMAT Exam: Score Concordance, Colleges & Cutoffs](/posts/all-about-gmat-exam-colleges-cutoffs.md)
-* 📊 [Check 1-Year Executive MBA Colleges in India](/posts/alternate-masters-to-mba-pgdm-mms-pgp.md)
-* 🌎 [Study Abroad MBA Admission Guidance](/posts/top-universities-in-sweden-for-indian-students-2026-fees-admission.md)
+* 🏫 [All About GMAT Exam: Score Concordance, Colleges & Cutoffs](/blog/all-about-gmat-exam-colleges-cutoffs)
+* 📊 [Check 1-Year Executive MBA Colleges in India](/blog/alternate-masters-to-mba-pgdm-mms-pgp)
+* 🌎 [Study Abroad MBA Admission Guidance](/blog/top-universities-in-sweden-for-indian-students-2026-fees-admission)
 
 ---
 
@@ -115,10 +115,10 @@ Yes! The group focuses extensively on the GMAT Focus Edition syllabus, including
 ---
 
 ### Related Articles:
-- [All About GMAT Exam: Focus Edition Pattern, Scoring & Top Colleges](/posts/all-about-gmat-exam-colleges-cutoffs.md)
-- [1-Year Executive MBA vs 2-Year Full-Time MBA: Detailed Comparison](/posts/alternate-masters-to-mba-pgdm-mms-pgp.md)
-- [CAT vs GMAT: Which Exam Should You Take for MBA Admissions?](/posts/all-about-cat-exam.md)
-- [SAT, IELTS, TOEFL, GRE & GMAT Exams Complete Guide 2026](/posts/sat-ielts-toefl-gre-exams-guide-2026.md)
+- [All About GMAT Exam: Focus Edition Pattern, Scoring & Top Colleges](/blog/all-about-gmat-exam-colleges-cutoffs)
+- [1-Year Executive MBA vs 2-Year Full-Time MBA: Detailed Comparison](/blog/alternate-masters-to-mba-pgdm-mms-pgp)
+- [CAT vs GMAT: Which Exam Should You Take for MBA Admissions?](/blog/all-about-cat-exam)
+- [SAT, IELTS, TOEFL, GRE & GMAT Exams Complete Guide 2026](/blog/sat-ielts-toefl-gre-exams-guide-2026)
 
 ---
 

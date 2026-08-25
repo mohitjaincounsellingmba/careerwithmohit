@@ -53,7 +53,7 @@ For management aspirants preparing for the **2027-29 academic session**, selecti
 | **ITM Navi Mumbai** | ₹12.45 Lakhs | ₹8.65 LPA | ₹21.00 LPA | CAT / XAT / CMAT / MAT |
 | **Universal AI University, Karjat** | ₹11.98 Lakhs | ₹8.20 LPA | ₹22.00 LPA | CAT / CMAT / MAT / UBAT |
 
-For comprehensive reviews of Mumbai's growing AI and management hub, visit [All About Universal AI Mumbai](/posts/all-about-universal-ai-mumbai) and [All About ITM Mumbai](/posts/all-about-itm-mumbai).
+For comprehensive reviews of Mumbai's growing AI and management hub, visit [All About Universal AI Mumbai](/blog/all-about-universal-ai-mumbai) and [All About ITM Mumbai](/blog/all-about-itm-mumbai).
 
 ---
 
@@ -71,11 +71,11 @@ For comprehensive reviews of Mumbai's growing AI and management hub, visit [All 
 | **ISBS Pune (Indira School of Business)** | ₹9.20 Lakhs | ₹7.80 LPA | ₹16.00 LPA | MAH-CET / CMAT / MAT |
 
 Explore in-depth reviews of top Pune institutes:
-* [All About PIBM Pune](/posts/all-about-pibm-pune)
-* [All About RIIM Pune](/posts/all-about-riim-pune)
-* [All About Lexicon MILE Pune](/posts/all-about-lexicon-management-institute-of-leadership-excellence)
-* [All About ISBS Pune](/posts/all-about-isbs-pune)
-* [All About DY Patil B-School](/posts/all-about-dy-patil-b-school)
+* [All About PIBM Pune](/blog/all-about-pibm-pune)
+* [All About RIIM Pune](/blog/all-about-riim-pune)
+* [All About Lexicon MILE Pune](/blog/all-about-lexicon-management-institute-of-leadership-excellence)
+* [All About ISBS Pune](/blog/all-about-isbs-pune)
+* [All About DY Patil B-School](/blog/all-about-dy-patil-b-school)
 
 ---
 

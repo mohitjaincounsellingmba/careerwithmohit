@@ -50,7 +50,7 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 ### 1. Great Lakes Institute of Management, Chennai
 * **Accreditation**: AMBA (UK), SAQS, AICTE, NBA.
 * **Programs**: PGDM (2-Year) & PGPM (1-Year for Work-ex candidates).
-* **Highlights**: Waterfront campus on ECR Road, guest faculty from Kellogg, Stanford, and Harvard. Read [All About Great Lakes Campuses](/posts/all-about-great-lakes-campuses).
+* **Highlights**: Waterfront campus on ECR Road, guest faculty from Kellogg, Stanford, and Harvard. Read [All About Great Lakes Campuses](/blog/all-about-great-lakes-campuses).
 
 ### 2. LIBA (Loyola Institute of Business Administration), Chennai
 * **Highlights**: Located in Nungambakkam campus, known for ethics-driven management education and strong corporate alignment.
@@ -62,7 +62,7 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 
 ### 4. Thiagarajar School of Management (TSM), Madurai
 * **Highlights**: Autonomous institute located in Madurai, accredited by NBA and AIU.
-* **High ROI**: Fee of ₹8.50 Lakhs delivering an average package of ₹7.35 LPA. Read [All About Thiagarajar School of Management](/posts/all-about-thiagarajar-school-of-management).
+* **High ROI**: Fee of ₹8.50 Lakhs delivering an average package of ₹7.35 LPA. Read [All About Thiagarajar School of Management](/blog/all-about-thiagarajar-school-of-management).
 
 ---
 

@@ -57,14 +57,14 @@ For management aspirants planning **2027-29 admissions in Eastern India**, Kolka
 
 ### 3. Globsyn Business School (GBS), Kolkata
 * **Highlights**: Known for its 'Beyond Education' pedagogy, corporate board mentorship, and AICTE PGDM program.
-* **Placements**: Average salary ₹7.50 LPA. Read full detailed review at [All About Globsyn Kolkata](/posts/all-about-globsyn-kolkata).
+* **Placements**: Average salary ₹7.50 LPA. Read full detailed review at [All About Globsyn Kolkata](/blog/all-about-globsyn-kolkata).
 
 ### 4. Praxis Business School, Kolkata
 * **Highlights**: Premier institute for Business Analytics, Data Science, and Financial Engineering.
 * **Placements**: Median package ₹9.46 LPA in top tech analytics companies.
 
 ### 5. IEM Kolkata (Institute of Engineering & Management)
-* **Highlights**: Located in Salt Lake Sector V (Kolkata IT Hub), offering excellent industrial connectivity. Read [All About IEM Kolkata](/posts/all-about-iem-kolkata).
+* **Highlights**: Located in Salt Lake Sector V (Kolkata IT Hub), offering excellent industrial connectivity. Read [All About IEM Kolkata](/blog/all-about-iem-kolkata).
 
 ---
 

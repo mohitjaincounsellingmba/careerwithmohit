@@ -140,9 +140,9 @@ Germany is a **dream destination** for Indian STEM and business students — com
 
 ### 🔗 Related Reads
 
-- [How to Learn German Language 2026](/posts/how-to-learn-german-language-2026)
-- [Global MBA Online 2026](/posts/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [ESMT Berlin MBA Review 2026](/posts/esmt-berlin-mba-review-2026)
+- [How to Learn German Language 2026](/blog/how-to-learn-german-language-2026)
+- [Global MBA Online 2026](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [ESMT Berlin MBA Review 2026](/blog/esmt-berlin-mba-review-2026)
 
 ---
 

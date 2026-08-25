@@ -121,9 +121,9 @@ For students wanting a UK degree in Poland:
 
 ### 🔗 Related Reads
 
-- [How to Learn German Language 2026](/posts/how-to-learn-german-language-2026)
-- [Top Universities in Germany for Indian Students 2026](/posts/top-universities-in-germany-for-indian-students-2026-fees-admission)
-- [Global MBA Online 2026](/posts/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [How to Learn German Language 2026](/blog/how-to-learn-german-language-2026)
+- [Top Universities in Germany for Indian Students 2026](/blog/top-universities-in-germany-for-indian-students-2026-fees-admission)
+- [Global MBA Online 2026](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
 
 ---
 

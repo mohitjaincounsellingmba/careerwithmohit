@@ -433,6 +433,28 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               strong: ({ node, ...props }) => (
                 <strong className="font-black text-foreground bg-accent/20 px-1" {...props} />
               ),
+              a: ({ node, href, children, ...props }) => {
+                let targetHref = href || '#';
+                if (targetHref.startsWith('/posts/')) {
+                  targetHref = targetHref.replace(/^\/posts\//, '/blog/');
+                }
+                if (targetHref.endsWith('.md')) {
+                  targetHref = targetHref.slice(0, -3);
+                }
+                const isInternal = targetHref.startsWith('/') || targetHref.startsWith('https://www.careerwithmohit.online');
+                if (isInternal) {
+                  return (
+                    <Link href={targetHref} className="text-primary font-bold underline hover:text-secondary transition-colors" {...props}>
+                      {children}
+                    </Link>
+                  );
+                }
+                return (
+                  <a href={targetHref} target="_blank" rel="noopener noreferrer" className="text-primary font-bold underline hover:text-secondary transition-colors" {...props}>
+                    {children}
+                  </a>
+                );
+              },
               img: ({ node, src, alt, ...props }) => {
                 if (!src) return null;
                 const srcString = src as string;

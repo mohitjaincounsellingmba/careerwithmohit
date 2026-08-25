@@ -132,9 +132,9 @@ Ireland is one of Europe's **fastest-growing economies** and a major hub for glo
 
 ### 🔗 Related Reads
 
-- [All About IELTS Exam 2026](/posts/all-about-ielts-exam-eligibility-curriculum-uses)
-- [Global MBA Online 2026: UK, USA & India Fees Guide](/posts/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [Cambridge Judge MBA Review 2026](/posts/cambridge-judge-mba-review-2026)
+- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
+- [Global MBA Online 2026: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [Cambridge Judge MBA Review 2026](/blog/cambridge-judge-mba-review-2026)
 
 ---
 

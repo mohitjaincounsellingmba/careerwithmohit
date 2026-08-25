@@ -56,9 +56,9 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-The **Data Interpretation and Logical Reasoning (DILR)** section is widely considered the make-or-break segment of the Common Admission Test ([CAT Exam 2026](/posts/all-about-cat-exam)). While Verbal Ability tests language nuance and Quantitative Aptitude rewards formula familiarity, **DILR tests raw analytical problem-solving under extreme time pressure**.
+The **Data Interpretation and Logical Reasoning (DILR)** section is widely considered the make-or-break segment of the Common Admission Test ([CAT Exam 2026](/blog/all-about-cat-exam)). While Verbal Ability tests language nuance and Quantitative Aptitude rewards formula familiarity, **DILR tests raw analytical problem-solving under extreme time pressure**.
 
-To score a **99+ percentile in CAT 2026 DILR**, you do not need to solve all 20 questions. Mastering the art of **selecting the right sets and deploying structured tabular methods** is what separates IIM call-holders from the rest. For a holistic preparation overview, check out our [10 Proven Tips to Crack CAT 2026](/posts/10-tips-to-crack-cat-exam-2026).
+To score a **99+ percentile in CAT 2026 DILR**, you do not need to solve all 20 questions. Mastering the art of **selecting the right sets and deploying structured tabular methods** is what separates IIM call-holders from the rest. For a holistic preparation overview, check out our [10 Proven Tips to Crack CAT 2026](/blog/10-tips-to-crack-cat-exam-2026).
 
 In this comprehensive guide, we provide **three high-probability CAT-level DILR sets** with complete, step-by-step analytical solutions.
 
@@ -376,7 +376,7 @@ Looking to test your speed and accuracy under real exam simulation?
 ---
 
 ## 6. Related Resources & MBA Guidance
-* [All About CAT Exam 2026: Pattern, Syllabus & Registration](/posts/all-about-cat-exam)
-* [10 Proven Tips to Crack CAT 2026 from Toppers](/posts/10-tips-to-crack-cat-exam-2026)
-* [All About IIM Colleges: Fees, Placements & Admission Process 2026](/posts/all-about-iim-colleges-placements-fees-selection-2026)
-* [IIM Cutoff 2026-28: Category-Wise Call Percentiles](/posts/all-iim-cut-off-2026-28-admission-mba-pgdm)
+* [All About CAT Exam 2026: Pattern, Syllabus & Registration](/blog/all-about-cat-exam)
+* [10 Proven Tips to Crack CAT 2026 from Toppers](/blog/10-tips-to-crack-cat-exam-2026)
+* [All About IIM Colleges: Fees, Placements & Admission Process 2026](/blog/all-about-iim-colleges-placements-fees-selection-2026)
+* [IIM Cutoff 2026-28: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)

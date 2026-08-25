@@ -170,10 +170,10 @@ To get call invitations for GD-PI-WAT, aim for the following score targets out o
 
 ## Related Guides & Practice Resources
 
-* 📖 **[All About SNAP Exam 2026: Cutoffs, Pattern & Top Colleges](/posts/all-about-snap-exam)**
-* 📝 **[SNAP 2026 Application Form & Registration Step-by-Step Guide](/posts/snap-2026-application-form-notification-registration-dates-fees-guide)**
-* ⚡ **[SNAP 2026 Section-Wise Strategy: Which Section to Attempt First?](/posts/snap-2026-section-wise-trends-which-sections-attempt-first)**
-* 🎯 **[Free SNAP Mock Test Series 2026: Speed CBT & Analytics](/posts/free-snap-mock-test-2026)**
+* 📖 **[All About SNAP Exam 2026: Cutoffs, Pattern & Top Colleges](/blog/all-about-snap-exam)**
+* 📝 **[SNAP 2026 Application Form & Registration Step-by-Step Guide](/blog/snap-2026-application-form-notification-registration-dates-fees-guide)**
+* ⚡ **[SNAP 2026 Section-Wise Strategy: Which Section to Attempt First?](/blog/snap-2026-section-wise-trends-which-sections-attempt-first)**
+* 🎯 **[Free SNAP Mock Test Series 2026: Speed CBT & Analytics](/blog/free-snap-mock-test-2026)**
 
 ---
 

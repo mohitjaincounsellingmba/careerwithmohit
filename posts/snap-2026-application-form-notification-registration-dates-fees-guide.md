@@ -67,7 +67,7 @@ In this comprehensive guide, we provide everything you need to know about the **
 
 > ⚡ **Test Your Speed Before Registering**
 >
-> Assess your current preparation level with our [Free SNAP Mock Test 2026](/posts/free-snap-mock-test-2026) and check where you stand for top Symbiosis cutoffs.
+> Assess your current preparation level with our [Free SNAP Mock Test 2026](/blog/free-snap-mock-test-2026) and check where you stand for top Symbiosis cutoffs.
 
 ---
 
@@ -220,7 +220,7 @@ pie title SNAP 2026 Marks & Question Distribution
 - **No Sectional Time Limit:** You can switch between sections at any time.
 - **No Sectional Cutoffs:** SIU institutes only consider your overall aggregate SNAP score.
 - **Negative Marking:** Every wrong answer deducts **0.25 marks**.
-- Read our detailed [SNAP 2026 Section-Wise Strategy & Attempt Order Guide](/posts/snap-2026-section-wise-trends-which-sections-attempt-first) for scoring 42+ marks.
+- Read our detailed [SNAP 2026 Section-Wise Strategy & Attempt Order Guide](/blog/snap-2026-section-wise-trends-which-sections-attempt-first) for scoring 42+ marks.
 
 ---
 
@@ -277,11 +277,11 @@ Yes, candidates in their final year of bachelor’s study are eligible to apply,
 
 ### 📚 Related Resources for MBA Aspirants:
 
-* **[Comprehensive SNAP Exam Guide: Pattern, Marks & Cutoffs](/posts/all-about-snap-exam)**
-* **[SNAP 2026 Multiple Attempts Strategy: How to Maximize Your Best Score](/posts/snap-2026-multiple-attempts-maximize-best-score)**
-* **[NMAT 2026 Speed & Accuracy Trends: How 3 Attempts Are Changing Strategy](/posts/nmat-2026-speed-accuracy-trends-3-attempts-prep-strategy)**
-* **[10 Proven Tips to Crack CAT 2026 Exam](/posts/10-tips-to-crack-cat-exam-2026)**
-* **[Top MBA Entrance Exams (OMETS) in India: Complete Guide](/posts/all-about-omets-mba-entrance-exams-2026)**
+* **[Comprehensive SNAP Exam Guide: Pattern, Marks & Cutoffs](/blog/all-about-snap-exam)**
+* **[SNAP 2026 Multiple Attempts Strategy: How to Maximize Your Best Score](/blog/snap-2026-multiple-attempts-maximize-best-score)**
+* **[NMAT 2026 Speed & Accuracy Trends: How 3 Attempts Are Changing Strategy](/blog/nmat-2026-speed-accuracy-trends-3-attempts-prep-strategy)**
+* **[10 Proven Tips to Crack CAT 2026 Exam](/blog/10-tips-to-crack-cat-exam-2026)**
+* **[Top MBA Entrance Exams (OMETS) in India: Complete Guide](/blog/all-about-omets-mba-entrance-exams-2026)**
 
 ---
 

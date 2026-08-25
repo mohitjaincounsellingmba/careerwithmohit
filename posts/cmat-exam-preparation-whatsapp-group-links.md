@@ -96,9 +96,9 @@ Maintain a productive, academic environment:
 Utilize our free prep resources:
 
 * 📝 [Explore CMAT Full-Length Mock Test Series](/mock-tests)
-* 🏫 [All About CMAT Exam: Syllabus, Pattern & Cutoffs](/posts/all-about-cmat-exam.md)
-* 🏫 [All About JBIMS Mumbai: Admission, Fees & Cutoffs](/posts/all-about-jbims-mumbai.md)
-* 📊 [Check All Top Colleges Accepting CMAT Scores](/posts/omets-mba-entrance-exams-2026.md)
+* 🏫 [All About CMAT Exam: Syllabus, Pattern & Cutoffs](/blog/all-about-cmat-exam)
+* 🏫 [All About JBIMS Mumbai: Admission, Fees & Cutoffs](/blog/all-about-jbims-mumbai)
+* 📊 [Check All Top Colleges Accepting CMAT Scores](/blog/omets-mba-entrance-exams-2026)
 
 ---
 
@@ -116,10 +116,10 @@ JBIMS Mumbai requires a 99.9+ percentile (340+ marks out of 400), while SIMSREE 
 ---
 
 ### Related Articles:
-- [All About CMAT Exam: Registration, Pattern, Syllabus & Cutoffs](/posts/all-about-cmat-exam.md)
-- [All About JBIMS Mumbai: Placements, Cutoffs & Admission Guide](/posts/all-about-jbims-mumbai.md)
-- [Top MBA Colleges Accepting CMAT Score with Low Fees & High ROI](/posts/low-fees-high-placement-mba-colleges-2026.md)
-- [MAH MBA CET & CMAT Preparation Strategy 2026](/posts/all-about-mah-mba-cet-exam.md)
+- [All About CMAT Exam: Registration, Pattern, Syllabus & Cutoffs](/blog/all-about-cmat-exam)
+- [All About JBIMS Mumbai: Placements, Cutoffs & Admission Guide](/blog/all-about-jbims-mumbai)
+- [Top MBA Colleges Accepting CMAT Score with Low Fees & High ROI](/blog/low-fees-high-placement-mba-colleges-2026)
+- [MAH MBA CET & CMAT Preparation Strategy 2026](/blog/all-about-mah-mba-cet-exam)
 
 ---
 

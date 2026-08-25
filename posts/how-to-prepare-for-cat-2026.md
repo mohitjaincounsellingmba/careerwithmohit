@@ -54,7 +54,7 @@ The Common Admission Test (CAT) is the gateway to India’s top MBA programs. Wi
 - **Scoring:** +3 for correct, -1 for wrong (no negative for unattempted).
 - **Duration:** 180 minutes (60 minutes per section).
 
-> *Internal reference:* For the official schedule see our post **[CAT 2026 Exam Date Notification & Registration Schedule](/posts/cat-2026-exam-date-notification-registration-schedule)**.
+> *Internal reference:* For the official schedule see our post **[CAT 2026 Exam Date Notification & Registration Schedule](/blog/cat-2026-exam-date-notification-registration-schedule)**.
 
 ---
 
@@ -76,7 +76,7 @@ The Common Admission Test (CAT) is the gateway to India’s top MBA programs. Wi
 | **Books** | *How to Prepare for CAT* by Arun Sharma, *Quantitative Aptitude for CAT* by Nishit Sinha, *Word Power Made Easy* (for VARC vocabulary). |
 | **Online Courses** | Unacademy “CAT 2026 Complete Preparation”, BYJU’S CAT Live Classes, or CareerwithMohit’s **[Free MBA Mock Test Series 2026](/mock-tests)** for timed practice. |
 | **Free Mock Tests** | Use the **[Free CAT Mock Test 2026](/mock-tests)** on our site – it mimics the real CAT interface and provides detailed analytics. |
-| **Notes & Summaries** | Download our **[CAT 2026 Preparation Strategy & Syllabus](/posts/cat-2026-preparation-strategy-syllabus-dates)** guide for a quick recap. |
+| **Notes & Summaries** | Download our **[CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates)** guide for a quick recap. |
 
 ---
 

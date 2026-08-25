@@ -143,9 +143,9 @@ France is the **world's hub for business, luxury, culinary arts, and engineering
 
 ### 🔗 Related Reads
 
-- [How to Learn French Language 2026](/posts/how-to-learn-french-language-2026)
-- [HEC Paris MBA Review 2026](/posts/hec-paris-mba-review-2026)
-- [INSEAD MBA Review 2026](/posts/insead-mba-review-2026)
+- [How to Learn French Language 2026](/blog/how-to-learn-french-language-2026)
+- [HEC Paris MBA Review 2026](/blog/hec-paris-mba-review-2026)
+- [INSEAD MBA Review 2026](/blog/insead-mba-review-2026)
 
 ---
 

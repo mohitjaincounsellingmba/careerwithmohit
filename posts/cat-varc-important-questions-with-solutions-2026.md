@@ -58,7 +58,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-The **Verbal Ability and Reading Comprehension (VARC)** section is the opening section of the Common Admission Test ([CAT Exam 2026](/posts/all-about-cat-exam)). Because it is the first section you face, your performance here sets the psychological momentum for the entire 2-hour examination.
+The **Verbal Ability and Reading Comprehension (VARC)** section is the opening section of the Common Admission Test ([CAT Exam 2026](/blog/all-about-cat-exam)). Because it is the first section you face, your performance here sets the psychological momentum for the entire 2-hour examination.
 
 Unlike conventional English grammar tests, **CAT VARC is an test of critical reasoning, synthesis of complex arguments, and strict elimination of trap options**. To help you score a **99+ percentile**, this practice guide provides a curated collection of **CAT-level Reading Comprehension (RC) passages and Verbal Ability (VA) problems** with comprehensive option-by-option explanations.
 
@@ -227,7 +227,7 @@ Want to test your Reading Comprehension reading speed and eliminate VARC trap op
 ---
 
 ## 6. Related Resources & MBA Guidance
-* [CAT Exam 2026: Complete Exam Pattern, Syllabus & Important Dates](/posts/all-about-cat-exam)
-* [10 Proven Tips to Crack CAT 2026: Strategy from IIM Toppers](/posts/10-tips-to-crack-cat-exam-2026)
-* [All About IIM Colleges 2026: Fees, Placements & Admission Selection](/posts/all-about-iim-colleges-placements-fees-selection-2026)
-* [IIM Cutoff 2026-28: Category-Wise Call Percentiles](/posts/all-iim-cut-off-2026-28-admission-mba-pgdm)
+* [CAT Exam 2026: Complete Exam Pattern, Syllabus & Important Dates](/blog/all-about-cat-exam)
+* [10 Proven Tips to Crack CAT 2026: Strategy from IIM Toppers](/blog/10-tips-to-crack-cat-exam-2026)
+* [All About IIM Colleges 2026: Fees, Placements & Admission Selection](/blog/all-about-iim-colleges-placements-fees-selection-2026)
+* [IIM Cutoff 2026-28: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)

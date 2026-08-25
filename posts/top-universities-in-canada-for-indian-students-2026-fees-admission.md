@@ -142,9 +142,9 @@ Canada has consistently ranked as one of the **top 3 study destinations** for In
 
 ### 🔗 Related Reads
 
-- [All About IELTS Exam: Eligibility, Curriculum & Uses](/posts/all-about-ielts-exam-eligibility-curriculum-uses)
-- [Education Loan Guide for MBA & BTech](/posts/education-loan-guide-mba-btech)
-- [How to Learn French Language 2026](/posts/how-to-learn-french-language-2026)
+- [All About IELTS Exam: Eligibility, Curriculum & Uses](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
+- [Education Loan Guide for MBA & BTech](/blog/education-loan-guide-mba-btech)
+- [How to Learn French Language 2026](/blog/how-to-learn-french-language-2026)
 
 ---
 

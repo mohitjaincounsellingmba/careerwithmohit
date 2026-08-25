@@ -113,9 +113,9 @@ Sweden — the land of **IKEA, Spotify, Ericsson, and Volvo** — is one of Scan
 
 ### 🔗 Related Reads
 
-- [How to Learn German Language 2026](/posts/how-to-learn-german-language-2026)
-- [Global MBA Online 2026](/posts/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [All About IELTS Exam 2026](/posts/all-about-ielts-exam-eligibility-curriculum-uses)
+- [How to Learn German Language 2026](/blog/how-to-learn-german-language-2026)
+- [Global MBA Online 2026](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
 
 ---
 
