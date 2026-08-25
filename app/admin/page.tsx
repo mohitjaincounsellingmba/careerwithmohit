@@ -12,6 +12,7 @@ import { PageAnalyticsTab } from "@/components/admin/PageAnalyticsTab";
 import { LocationAnalyticsTab } from "@/components/admin/LocationAnalyticsTab";
 import { ClicksImpressionsTab } from "@/components/admin/ClicksImpressionsTab";
 import { LeadsOverviewTab } from "@/components/admin/LeadsOverviewTab";
+import { SeoAnalyticsTab } from "@/components/admin/SeoAnalyticsTab";
 import { AlertCircle } from "lucide-react";
 
 export default function AdminDashboardPage() {
@@ -266,6 +267,13 @@ export default function AdminDashboardPage() {
                   setSelectedBlog(blog);
                   setActiveTab("blogs");
                 }}
+              />
+            )}
+
+            {activeTab === "seo" && (
+              <SeoAnalyticsTab
+                blogs={filteredData.blogs || []}
+                summary={filteredData.summary}
               />
             )}
 
