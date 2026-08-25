@@ -13,6 +13,7 @@ import { InquiryCard } from "@/components/InquiryCard";
 import { OnlineDegreeLeadBox } from "@/components/OnlineDegreeLeadBox";
 import { AdUnit } from "@/components/AdUnit";
 import { BlogViewCounter } from "@/components/BlogViewCounter";
+import { BlogPostABHeader } from "@/components/BlogPostABHeader";
 
 
 function cleanMarkdown(text: string | undefined): string {
@@ -265,6 +266,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
   return (
     <article className="w-full bg-slate-50 pb-24 font-body">
+      {postData.ab_test?.id && (
+        <meta name="cwm-ab-experiment" content={postData.ab_test.id} />
+      )}
       <JsonLd data={articleData} />
       <JsonLd data={breadcrumbSchema} />
       {faqData && <JsonLd data={faqData} />}
@@ -305,15 +309,12 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               <BlogViewCounter slug={slug} publishDate={postData.date} />
             </div>
 
-            <h1 className="font-display text-5xl font-black tracking-tight text-foreground sm:text-7xl md:text-8xl mb-12 leading-[0.95] uppercase">
-              {cleanedTitle}
-            </h1>
-
-            {postData.description && (
-              <p className="text-2xl md:text-3xl font-bold text-gray-700 leading-tight max-w-3xl border-l-[12px] border-primary pl-8 py-2">
-                {cleanMarkdown(postData.description)}
-              </p>
-            )}
+            <BlogPostABHeader
+              slug={slug}
+              defaultTitle={cleanedTitle}
+              defaultDescription={postData.description ? cleanMarkdown(postData.description) : undefined}
+              abTest={postData.ab_test}
+            />
           </header>
         </div>
       </div>

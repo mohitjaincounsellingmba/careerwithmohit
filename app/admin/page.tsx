@@ -13,6 +13,7 @@ import { LocationAnalyticsTab } from "@/components/admin/LocationAnalyticsTab";
 import { ClicksImpressionsTab } from "@/components/admin/ClicksImpressionsTab";
 import { LeadsOverviewTab } from "@/components/admin/LeadsOverviewTab";
 import { SeoAnalyticsTab } from "@/components/admin/SeoAnalyticsTab";
+import { ABTestingTab } from "@/components/admin/ABTestingTab";
 import { AlertCircle } from "lucide-react";
 
 export default function AdminDashboardPage() {
@@ -282,6 +283,10 @@ export default function AdminDashboardPage() {
                 blogs={filteredData.blogs || []}
                 pages={filteredData.pages || []}
               />
+            )}
+
+            {activeTab === "abtest" && (
+              <ABTestingTab blogs={filteredData.blogs || []} />
             )}
 
             {activeTab === "blogs" && (

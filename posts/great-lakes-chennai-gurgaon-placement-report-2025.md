@@ -3,6 +3,15 @@ title: >-
   Great Lakes (GLIM) Chennai & Gurgaon Placement Report 2025: PGPM Avg ₹17.80
   LPA, PGDM Avg ₹15.00 LPA & Highest ₹39.30 LPA
 date: '2026-08-15'
+ab_test:
+  id: "great-lakes-placements-v1"
+  variants:
+    A:
+      title: "Great Lakes (GLIM) Chennai & Gurgaon Placement Report 2025: PGPM Avg ₹17.80 LPA, PGDM Avg ₹15.00 LPA & Highest ₹39.30 LPA"
+      description: "Detailed Great Lakes Institute of Management (GLIM) Chennai and Gurgaon Placement Report 2025. Explore 1-Year PGPM and 2-Year PGDM average salaries, top recruiters & ROI."
+    B:
+      title: "Is Great Lakes Worth It in 2025? Placement Report 2025, Real ROI & Salary Analysis"
+      description: "Unbiased Great Lakes Institute of Management 2025 placement data, real ROI breakdown, PGPM vs PGDM salaries, and direct admission guidelines."
 description: >-
   Detailed Great Lakes Institute of Management (GLIM) Chennai and Gurgaon
   Placement Report 2025. Explore 1-Year PGPM and 2-Year PGDM average salaries,

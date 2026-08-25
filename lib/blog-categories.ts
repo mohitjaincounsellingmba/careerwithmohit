@@ -8,6 +8,16 @@ export interface PostData {
   faqs?: { question: string; answer: string }[];
   category?: string;
   image?: string;
+  ab_test?: {
+    id: string;
+    variants: Record<string, {
+      title?: string;
+      description?: string;
+      cta_title?: string;
+      cta_description?: string;
+      [key: string]: any;
+    }>;
+  };
 }
 
 export const BLOG_CATEGORIES = [

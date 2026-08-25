@@ -1,6 +1,6 @@
 "use client";
 
-import { LogOut, RefreshCw, BarChart3, Globe, FileText, MapPin, MousePointerClick, Users, Shield, Zap, Activity, Sparkles } from "lucide-react";
+import { LogOut, RefreshCw, BarChart3, Globe, FileText, MapPin, MousePointerClick, Users, Shield, Zap, Activity, Sparkles, FlaskConical } from "lucide-react";
 
 interface AdminHeaderProps {
   activeTab: string;
@@ -22,6 +22,7 @@ export function AdminHeader({
   const tabs = [
     { id: "overview", label: "Overview", icon: BarChart3 },
     { id: "realtime", label: "⚡ Real-Time Traffic", icon: Zap },
+    { id: "abtest", label: "🧪 A/B Experiments", icon: FlaskConical },
     { id: "seo", label: "🔍 SEO & Viral Strategy", icon: Sparkles },
     { id: "blogs", label: `Blogs (${totalBlogsCount})`, icon: FileText },
     { id: "pages", label: "Page Views", icon: Globe },

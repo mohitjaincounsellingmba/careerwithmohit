@@ -3,6 +3,15 @@ title: >-
   IMT Ghaziabad PGDM Placement Report 2025: Average CTC ₹16.25 - 18.89 LPA,
   Highest ₹41.55 LPA & Marketing Capital
 date: '2026-08-15'
+ab_test:
+  id: "imt-ghaziabad-placements-v1"
+  variants:
+    A:
+      title: "IMT Ghaziabad PGDM Placement Report 2025: Average CTC ₹16.25 - 18.89 LPA, Highest ₹41.55 LPA & Marketing Capital"
+      description: "Complete IMT Ghaziabad PGDM Placement Report 2025. Explore average package, highest package of ₹41.55 LPA, top recruiters in Marketing & BFSI, fees and CAT/XAT cutoffs."
+    B:
+      title: "IMT Ghaziabad Marketing Placement Analysis 2025: Real Packages & Direct Admission Guide"
+      description: "In-depth review of IMT Ghaziabad PGDM placements, marketing domain CTC breakdown, profile screening, and admission strategy."
 description: >-
   Complete IMT Ghaziabad PGDM Placement Report 2025. Explore average package,
   highest package of ₹41.55 LPA, top recruiters in Marketing & BFSI, fees and

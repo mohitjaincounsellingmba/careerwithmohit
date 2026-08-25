@@ -49,6 +49,7 @@ export const getSortedPostsData = cache(() => {
         keywords: matterResult.data.keywords || [],
         category: inferCategory(matterResult.data, slug),
         image: matterResult.data.image || '',
+        ab_test: matterResult.data.ab_test || undefined,
       };
     })
     .filter(post => post.title !== 'Untitled Post'); // Filter out potentially broken files
@@ -77,6 +78,7 @@ export function getPostData(slug: string): PostData | null {
       faqs: matterResult.data.faqs || [],
       category: inferCategory(matterResult.data, slug),
       image: matterResult.data.image || '',
+      ab_test: matterResult.data.ab_test || undefined,
     };
   } catch (e) {
     return null;

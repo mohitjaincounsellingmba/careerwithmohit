@@ -95,12 +95,27 @@ export function AnalyticsTracker() {
         let sessionId = "";
         try { sessionId = localStorage.getItem("cwm_visitor_session_id") || ""; } catch (err) {}
 
+        // Check if page has an active experiment
+        let experimentId = null;
+        let variant = null;
+        try {
+          const expMeta = document.querySelector('meta[name="cwm-ab-experiment"]');
+          if (expMeta) {
+            experimentId = expMeta.getAttribute("content");
+            if (experimentId) {
+              variant = localStorage.getItem(`cwm_ab_${experimentId}`);
+            }
+          }
+        } catch (e) {}
+
         const clickPayload = {
           sessionId,
           type: "cta_click",
           path: window.location.pathname,
           clickElement: text || id || href,
           href,
+          experimentId,
+          variant,
           timestamp: new Date().toISOString(),
         };
 
@@ -110,6 +125,8 @@ export function AnalyticsTracker() {
             (window as any).gtag("event", "cta_click", {
               event_category: "Engagement",
               event_label: text || href,
+              experiment_id: experimentId || undefined,
+              variant_id: variant || undefined,
               value: 1,
             });
           } catch (err) {}

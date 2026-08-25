@@ -3,6 +3,15 @@ title: >-
   XAT vs SNAP vs NMAT: Which is Easier After CAT? [2026] — Complete Comparison &
   Strategy
 date: '2026-08-14'
+ab_test:
+  id: "xat-vs-snap-title-v1"
+  variants:
+    A:
+      title: "XAT vs SNAP vs NMAT: Which is Easier After CAT? [2026] — Complete Comparison & Strategy"
+      description: "Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus, difficulty level, time management, target colleges (XLRI, SIBM, NMIMS), and scoring strategy."
+    B:
+      title: "Failed CAT 2026? XAT vs SNAP vs NMAT Backup Plan & Step-by-Step Preparation Strategy"
+      description: "Didn't score high in CAT 2026? Learn how XAT, SNAP, and NMAT offer second chances for top-tier B-schools with cutoffs and strategies."
 category: MBA Admissions
 description: >-
   Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus,

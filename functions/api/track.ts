@@ -51,6 +51,24 @@ export const onRequestGet: PagesFunction = async ({ request }) => {
     .sort((a, b) => b.views - a.views)
     .slice(0, 10);
 
+  // Aggregate active A/B testing stats from recent events
+  const abStats: Record<string, Record<string, { exposures: number; clicks: number }>> = {};
+  for (const ev of recentEvents) {
+    if (ev.experimentId && ev.variant) {
+      const expId = String(ev.experimentId);
+      const varId = String(ev.variant);
+      if (!abStats[expId]) abStats[expId] = {};
+      if (!abStats[expId][varId]) abStats[expId][varId] = { exposures: 0, clicks: 0 };
+
+      if (ev.type === "ab_exposure" || ev.type === "pageview") {
+        abStats[expId][varId].exposures += 1;
+      }
+      if (ev.type === "cta_click") {
+        abStats[expId][varId].clicks += 1;
+      }
+    }
+  }
+
   return json({
     success: true,
     gaId: "G-448JRKP87B",
@@ -58,6 +76,7 @@ export const onRequestGet: PagesFunction = async ({ request }) => {
     activeNow: activeNowCount,
     topLivePaths: topPaths,
     topLiveLocations: topLocations,
+    abStats,
     recentEvents: recentEvents.slice(0, 40),
     timestamp: new Date().toISOString()
   });
@@ -95,6 +114,8 @@ export const onRequestPost: PagesFunction = async ({ request }) => {
       type: payload.type || "pageview",
       path,
       blogSlug: payload.blogSlug || null,
+      experimentId: payload.experimentId || null,
+      variant: payload.variant || null,
       title: payload.title || "",
       clickElement: payload.clickElement || null,
       country,
