@@ -26,6 +26,7 @@ export default function AdminDashboardPage() {
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [selectedBlog, setSelectedBlog] = useState<any | null>(null);
   const [fetchError, setFetchError] = useState("");
+  const [activeNow, setActiveNow] = useState<number>(0);
 
   // Auth Guard
   useEffect(() => {
@@ -37,6 +38,38 @@ export default function AdminDashboardPage() {
       setIsAuthenticated(true);
     }
   }, [router]);
+
+  // Poll live telemetry for active users
+  useEffect(() => {
+    if (!isAuthenticated) return;
+    const fetchActiveUsers = async () => {
+      let count = 0;
+      try {
+        const raw = localStorage.getItem("cwm_active_sessions_v1");
+        if (raw) {
+          const sessions = JSON.parse(raw);
+          const now = Date.now();
+          count = Object.values(sessions).filter((s: any) => s.lastSeen >= now - 45000).length;
+        }
+      } catch (e) {}
+
+      try {
+        const res = await fetch(`/api/track?t=${Date.now()}`);
+        if (res.ok) {
+          const json = await res.json();
+          if (typeof json.activeNow === "number" && json.activeNow > 0) {
+            count = json.activeNow;
+          }
+        }
+      } catch (err) {}
+
+      setActiveNow(count);
+    };
+
+    fetchActiveUsers();
+    const interval = setInterval(fetchActiveUsers, 4000);
+    return () => clearInterval(interval);
+  }, [isAuthenticated]);
 
   // Fetch Dataset
   const loadAdminDataset = async () => {
@@ -224,6 +257,7 @@ export default function AdminDashboardPage() {
         onLogout={handleLogout}
         isRefreshing={isRefreshing}
         totalBlogsCount={filteredData?.blogs?.length || 0}
+        activeNow={activeNow}
       />
 
       {/* Sticky Time Range Selector Bar */}

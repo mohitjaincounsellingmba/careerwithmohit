@@ -9,6 +9,7 @@ interface AdminHeaderProps {
   onLogout: () => void;
   isRefreshing: boolean;
   totalBlogsCount: number;
+  activeNow?: number;
 }
 
 export function AdminHeader({
@@ -17,7 +18,8 @@ export function AdminHeader({
   onRefresh,
   onLogout,
   isRefreshing,
-  totalBlogsCount
+  totalBlogsCount,
+  activeNow = 0
 }: AdminHeaderProps) {
   const tabs = [
     { id: "overview", label: "Overview", icon: BarChart3 },
@@ -62,7 +64,7 @@ export function AdminHeader({
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
               </span>
-              <span>42 Active Now</span>
+              <span>{activeNow} Active Now</span>
             </div>
 
             <button

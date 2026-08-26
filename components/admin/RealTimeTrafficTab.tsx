@@ -9,7 +9,7 @@ interface RealTimeTrafficTabProps {
 }
 
 export function RealTimeTrafficTab({ blogs, pages }: RealTimeTrafficTabProps) {
-  const [activeNow, setActiveNow] = useState<number>(42);
+  const [activeNow, setActiveNow] = useState<number>(0);
   const [liveFeed, setLiveFeed] = useState<any[]>([]);
   const [livePaths, setLivePaths] = useState<any[]>([]);
   const [liveLocations, setLiveLocations] = useState<any[]>([]);
@@ -17,7 +17,7 @@ export function RealTimeTrafficTab({ blogs, pages }: RealTimeTrafficTabProps) {
   const [lastUpdated, setLastUpdated] = useState<string>("");
   const [gaStatus, setGaStatus] = useState<any>({ gaId: "G-448JRKP87B", gaAdsId: "AW-18052249575", status: "Active & Synced" });
 
-  // Fetch real-time telemetry from Cloudflare worker & GA sync endpoint
+  // Fetch real-time telemetry from live API endpoint
   const fetchLiveTelemetry = async () => {
     try {
       const res = await fetch(`/api/track?t=${Date.now()}`);
@@ -27,16 +27,16 @@ export function RealTimeTrafficTab({ blogs, pages }: RealTimeTrafficTabProps) {
         if (json.recentEvents && json.recentEvents.length > 0) {
           setLiveFeed(json.recentEvents);
         }
-        if (json.topLivePaths && json.topLivePaths.length > 0) {
+        if (json.topLivePaths) {
           setLivePaths(json.topLivePaths);
         }
-        if (json.topLiveLocations && json.topLiveLocations.length > 0) {
+        if (json.topLiveLocations) {
           setLiveLocations(json.topLiveLocations);
         }
         setLastUpdated(new Date().toLocaleTimeString());
       }
     } catch (e) {
-      // Fallback fallback ticker simulation if offline
+      // API fetch error handler
     }
   };
 
@@ -52,14 +52,8 @@ export function RealTimeTrafficTab({ blogs, pages }: RealTimeTrafficTabProps) {
     return () => clearInterval(interval);
   }, [autoRefresh]);
 
-  // Default active pages fallback if telemetry buffer is initializing
-  const displayPages = livePaths.length > 0 ? livePaths : [
-    { path: "/tools/cat-score-calculator", views: Math.round(activeNow * 0.30) },
-    { path: "/mba-pgdm-admission-2027", views: Math.round(activeNow * 0.25) },
-    { path: "/colleges", views: Math.round(activeNow * 0.20) },
-    { path: "/abroad-education", views: Math.round(activeNow * 0.15) },
-    { path: "/inquiry", views: Math.round(activeNow * 0.10) },
-  ];
+  // Active pages display
+  const displayPages = livePaths;
 
   return (
     <div className="space-y-6 font-body">
@@ -154,23 +148,29 @@ export function RealTimeTrafficTab({ blogs, pages }: RealTimeTrafficTabProps) {
           <p className="text-xs text-slate-400">Top paths currently being viewed by live active users</p>
 
           <div className="space-y-3 pt-2">
-            {displayPages.map((p: any, idx: number) => (
-              <div key={idx} className="bg-slate-950/70 border border-slate-800/80 p-3 rounded-xl space-y-1.5">
-                <div className="flex items-center justify-between text-xs font-semibold">
-                  <span className="text-white truncate font-mono max-w-[200px]">{p.path}</span>
-                  <span className="text-emerald-400 font-extrabold flex items-center gap-1">
-                    <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-                    {p.views} active
-                  </span>
-                </div>
-                <div className="w-full bg-slate-800 rounded-full h-1.5 overflow-hidden">
-                  <div
-                    className="bg-gradient-to-r from-amber-500 to-emerald-400 h-1.5 rounded-full transition-all"
-                    style={{ width: `${Math.min(100, (p.views / (activeNow || 1)) * 300)}%` }}
-                  />
-                </div>
+            {displayPages.length === 0 ? (
+              <div className="py-8 text-center text-slate-500 text-xs font-medium bg-slate-950/40 rounded-xl border border-slate-800/50">
+                No visitors currently browsing pages.
               </div>
-            ))}
+            ) : (
+              displayPages.map((p: any, idx: number) => (
+                <div key={idx} className="bg-slate-950/70 border border-slate-800/80 p-3 rounded-xl space-y-1.5">
+                  <div className="flex items-center justify-between text-xs font-semibold">
+                    <span className="text-white truncate font-mono max-w-[200px]">{p.path}</span>
+                    <span className="text-emerald-400 font-extrabold flex items-center gap-1">
+                      <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                      {p.views} active
+                    </span>
+                  </div>
+                  <div className="w-full bg-slate-800 rounded-full h-1.5 overflow-hidden">
+                    <div
+                      className="bg-gradient-to-r from-amber-500 to-emerald-400 h-1.5 rounded-full transition-all"
+                      style={{ width: `${Math.min(100, (p.views / (activeNow || 1)) * 100)}%` }}
+                    />
+                  </div>
+                </div>
+              ))
+            )}
           </div>
         </div>
 

@@ -40,8 +40,9 @@ export function AnalyticsTracker() {
       } catch (err) {}
     }
 
-    // 2. Ping Cloudflare Admin Live Telemetry Endpoint
+    // 2. Ping Telemetry & Register Active Session
     const sendPing = (type = "pageview") => {
+      const now = Date.now();
       const payload = {
         sessionId,
         type,
@@ -50,6 +51,29 @@ export function AnalyticsTracker() {
         title,
         timestamp: new Date().toISOString(),
       };
+
+      // Register local session heartbeat for real-time active user counting
+      try {
+        const raw = localStorage.getItem("cwm_active_sessions_v1");
+        let sessions: Record<string, { path: string; title: string; lastSeen: number }> = {};
+        if (raw) {
+          try { sessions = JSON.parse(raw); } catch (e) {}
+        }
+        // Prune sessions older than 45 seconds
+        for (const [id, s] of Object.entries(sessions)) {
+          if (s.lastSeen < now - 45000) {
+            delete sessions[id];
+          }
+        }
+        sessions[sessionId] = { path: pathname, title, lastSeen: now };
+        localStorage.setItem("cwm_active_sessions_v1", JSON.stringify(sessions));
+
+        if (typeof BroadcastChannel !== "undefined") {
+          const bc = new BroadcastChannel("cwm_telemetry_channel");
+          bc.postMessage({ type, sessionId, path: pathname, title, timestamp: now });
+          bc.close();
+        }
+      } catch (e) {}
 
       try {
         if (typeof navigator !== "undefined" && navigator.sendBeacon && type === "pageview") {

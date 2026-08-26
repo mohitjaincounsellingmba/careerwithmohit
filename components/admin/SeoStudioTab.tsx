@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { SeoSuggestionsTab } from "./SeoSuggestionsTab";
 import {
   Sparkles,
@@ -25,7 +25,10 @@ import {
   ArrowUpRight,
   RefreshCw,
   BarChart3,
-  ListChecks
+  ListChecks,
+  Edit3,
+  Info,
+  X
 } from "lucide-react";
 
 interface BlogItem {
@@ -57,16 +60,50 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
   const [selectedBlogSlug, setSelectedBlogSlug] = useState<string>(blogs[0]?.slug || "");
   const [copiedText, setCopiedText] = useState<string | null>(null);
 
+  // Real DA and PA state with localStorage persistence
+  const [domainAuth, setDomainAuth] = useState<number>(14);
+  const [pageAuth, setPageAuth] = useState<number>(28);
+  const [isEditingDaPa, setIsEditingDaPa] = useState(false);
+  const [inputDa, setInputDa] = useState<string>("14");
+  const [inputPa, setInputPa] = useState<string>("28");
+
+  useEffect(() => {
+    try {
+      const savedDa = localStorage.getItem("cwm_real_da");
+      const savedPa = localStorage.getItem("cwm_real_pa");
+      if (savedDa) {
+        setDomainAuth(parseInt(savedDa, 10));
+        setInputDa(savedDa);
+      }
+      if (savedPa) {
+        setPageAuth(parseInt(savedPa, 10));
+        setInputPa(savedPa);
+      }
+    } catch (e) {}
+  }, []);
+
+  const handleSaveDaPa = () => {
+    const daVal = parseInt(inputDa, 10) || 0;
+    const paVal = parseInt(inputPa, 10) || 0;
+    setDomainAuth(daVal);
+    setPageAuth(paVal);
+    try {
+      localStorage.setItem("cwm_real_da", daVal.toString());
+      localStorage.setItem("cwm_real_pa", paVal.toString());
+    } catch (e) {}
+    setIsEditingDaPa(false);
+  };
+
   const handleCopy = (text: string) => {
     navigator.clipboard.writeText(text);
     setCopiedText(text);
     setTimeout(() => setCopiedText(null), 2000);
   };
 
-  // Mock live DA/PA metrics for careerwithmohit.online
+  // SEO Metrics for careerwithmohit.online
   const seoMetrics = {
-    domainAuthority: 42,
-    pageAuthority: 48,
+    domainAuthority: domainAuth,
+    pageAuthority: pageAuth,
     spamScore: "1%",
     techSeoScore: 98,
     onPageSeoScore: 94,
@@ -98,11 +135,29 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
             </p>
           </div>
 
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3 flex-wrap">
             <div className="px-3.5 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-bold flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              Live DA 42 / PA 48
+              Live DA {domainAuth} / PA {pageAuth}
             </div>
+
+            <button
+              onClick={() => setIsEditingDaPa(true)}
+              className="px-3 py-1.5 rounded-lg bg-amber-500/10 hover:bg-amber-500/20 border border-amber-500/30 text-amber-400 text-xs font-bold transition-all flex items-center gap-1.5 cursor-pointer"
+            >
+              <Edit3 className="w-3.5 h-3.5" />
+              <span>Update Real DA/PA</span>
+            </button>
+
+            <a
+              href="https://moz.com/domain-analysis?site=careerwithmohit.online"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-3 py-1.5 rounded-lg bg-blue-500/10 hover:bg-blue-500/20 border border-blue-500/30 text-blue-400 text-xs font-bold transition-all flex items-center gap-1.5 cursor-pointer"
+            >
+              <span>Verify on Moz</span>
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
           </div>
         </div>
 
@@ -182,7 +237,14 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
             <div className="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-lg relative overflow-hidden group">
               <div className="flex items-center justify-between text-slate-400 text-xs font-semibold uppercase tracking-wider mb-2">
                 <span>Domain & Page Authority</span>
-                <Award className="w-4 h-4 text-amber-400" />
+                <button
+                  onClick={() => setIsEditingDaPa(true)}
+                  className="text-amber-400 hover:text-amber-300 p-1 rounded hover:bg-slate-800 transition-all cursor-pointer flex items-center gap-1 text-[11px] font-bold"
+                  title="Update Official Real DA & PA"
+                >
+                  <Edit3 className="w-3.5 h-3.5" />
+                  <span>Edit</span>
+                </button>
               </div>
               <div className="flex items-baseline gap-4 mt-1">
                 <div>
@@ -195,9 +257,20 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
                   <span className="text-xs text-slate-400 block">Page Authority</span>
                 </div>
               </div>
-              <div className="text-xs text-emerald-400 font-semibold mt-3 flex items-center gap-1">
-                <CheckCircle2 className="w-3.5 h-3.5" />
-                <span>Spam Score: {seoMetrics.spamScore} (Clean & Safe)</span>
+              <div className="mt-3 flex items-center justify-between text-xs">
+                <span className="text-emerald-400 font-semibold flex items-center gap-1">
+                  <CheckCircle2 className="w-3.5 h-3.5" />
+                  Spam Score: {seoMetrics.spamScore}
+                </span>
+                <a
+                  href="https://moz.com/domain-analysis?site=careerwithmohit.online"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-400 hover:underline text-[11px] font-semibold flex items-center gap-1"
+                >
+                  <span>Verify on Moz</span>
+                  <ExternalLink className="w-3 h-3" />
+                </a>
               </div>
             </div>
 
@@ -271,6 +344,17 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
               <div className="text-xs text-emerald-400 font-semibold mt-2">
                 +1.8% above education industry average
               </div>
+            </div>
+          </div>
+
+          {/* DA & PA Metric Explanation Notice */}
+          <div className="bg-amber-500/10 border border-amber-500/20 rounded-2xl p-4 flex items-start gap-3 text-xs text-amber-200">
+            <Info className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
+            <div className="space-y-1">
+              <span className="font-bold text-amber-300 block">Why do different websites show different DA & PA scores?</span>
+              <p className="text-slate-300 leading-relaxed text-[11.5px]">
+                Domain Authority (DA) & Page Authority (PA) are proprietary metrics calculated exclusively by <strong className="text-white">Moz</strong> based on backlink indices. Unofficial third-party DA checkers use outdated scrapers, different rating algorithms, or cached data which causes numbers to vary. To get your official score, check directly on Moz Link Explorer or update your official DA/PA using the button above.
+              </p>
             </div>
           </div>
 
@@ -480,6 +564,83 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
                 </div>
               </div>
             )}
+          </div>
+        </div>
+      )}
+
+      {/* EDIT REAL DA / PA MODAL DIALOG */}
+      {isEditingDaPa && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-sm animate-fadeIn">
+          <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 max-w-md w-full shadow-2xl space-y-5">
+            <div className="flex items-center justify-between border-b border-slate-800 pb-3">
+              <div className="flex items-center gap-2">
+                <Award className="w-5 h-5 text-amber-400" />
+                <h3 className="text-base font-bold text-white">Update Real DA & PA Scores</h3>
+              </div>
+              <button
+                onClick={() => setIsEditingDaPa(false)}
+                className="text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-800 transition-all cursor-pointer"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+
+            <p className="text-xs text-slate-300 leading-relaxed">
+              Enter your domain’s actual official Moz <strong className="text-amber-400">Domain Authority (DA)</strong> and <strong className="text-amber-400">Page Authority (PA)</strong> scores to keep your admin dashboard in 100% sync.
+            </p>
+
+            <div className="grid grid-cols-2 gap-4">
+              <div className="space-y-1.5">
+                <label className="text-xs font-bold text-slate-300 block">Domain Authority (DA)</label>
+                <input
+                  type="number"
+                  min="1"
+                  max="100"
+                  value={inputDa}
+                  onChange={(e) => setInputDa(e.target.value)}
+                  className="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-sm text-white font-mono font-bold focus:outline-none focus:border-amber-400"
+                  placeholder="e.g. 14"
+                />
+              </div>
+
+              <div className="space-y-1.5">
+                <label className="text-xs font-bold text-slate-300 block">Page Authority (PA)</label>
+                <input
+                  type="number"
+                  min="1"
+                  max="100"
+                  value={inputPa}
+                  onChange={(e) => setInputPa(e.target.value)}
+                  className="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-sm text-white font-mono font-bold focus:outline-none focus:border-amber-400"
+                  placeholder="e.g. 28"
+                />
+              </div>
+            </div>
+
+            <div className="bg-slate-950 p-3 rounded-xl border border-slate-800/80 text-[11px] text-slate-400 space-y-1">
+              <div className="flex items-center gap-1.5 text-blue-400 font-bold">
+                <ExternalLink className="w-3.5 h-3.5" />
+                <span>Verify score on Moz first?</span>
+              </div>
+              <p>
+                Visit <a href="https://moz.com/domain-analysis?site=careerwithmohit.online" target="_blank" rel="noopener noreferrer" className="text-amber-400 underline">Moz Domain Analysis</a> to check your site's current live Moz index rating.
+              </p>
+            </div>
+
+            <div className="flex items-center justify-end gap-3 pt-2">
+              <button
+                onClick={() => setIsEditingDaPa(false)}
+                className="px-4 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-bold transition-all cursor-pointer"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handleSaveDaPa}
+                className="px-5 py-2 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 text-xs font-black shadow-md shadow-amber-500/20 transition-all cursor-pointer"
+              >
+                Save Real DA/PA
+              </button>
+            </div>
           </div>
         </div>
       )}
