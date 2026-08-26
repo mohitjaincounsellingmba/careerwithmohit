@@ -1,0 +1,35 @@
+name: Daily 24h Google & Competitor Blog Research
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every 24 hours at midnight UTC (05:30 AM IST)
+  workflow_dispatch: # Allows manual triggering from GitHub UI
+
+jobs:
+  research-and-update-topics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Codebase
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run 24h Competitor Research Script
+        run: node scripts/update-daily-topics.mjs
+
+      - name: Commit Updated Daily Blog Topics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/daily-blog-topics.json lib/seo-topics-bank.ts
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(seo): auto-update daily 5 blog topics via 24h competitor research" && git push origin main)

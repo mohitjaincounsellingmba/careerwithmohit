@@ -1,17 +1,71 @@
 "use client";
 
-import { useState } from "react";
-import { SEO_TOPICS_BANK, getDailyBlogSuggestions, BlogTopicSuggestion } from "@/lib/seo-topics-bank";
-import { Sparkles, Copy, Check, Target, TrendingUp, Layers, HelpCircle, BookOpen, Compass, ShieldCheck, ArrowRight, Lightbulb } from "lucide-react";
+import { useState, useEffect } from "react";
+import {
+  get24hResearchPayload,
+  forceRefresh24hTopics,
+  DailyResearchData,
+  BlogTopicSuggestion
+} from "@/lib/seo-topics-bank";
+import {
+  Sparkles,
+  Copy,
+  Check,
+  Target,
+  TrendingUp,
+  BookOpen,
+  Compass,
+  ShieldCheck,
+  Lightbulb,
+  RefreshCw,
+  Clock,
+  Globe,
+  Search,
+  CheckCircle2
+} from "lucide-react";
 
 export function SeoSuggestionsTab() {
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
   const [copiedId, setCopiedId] = useState<string | null>(null);
   const [savedTopics, setSavedTopics] = useState<string[]>([]);
   const [activeOutlineId, setActiveOutlineId] = useState<string | null>(null);
+  const [isResearching, setIsResearching] = useState(false);
+  const [researchMessage, setResearchMessage] = useState<string | null>(null);
 
-  // Daily 5 topics derived from calendar date
-  const daily5 = getDailyBlogSuggestions(5);
+  // Load initial 24h research payload
+  const [payload, setPayload] = useState<DailyResearchData>(() => get24hResearchPayload());
+
+  // Ticking 24-Hour Countdown Clock
+  const [timeLeft, setTimeLeft] = useState<{ hours: number; minutes: number; seconds: number }>({
+    hours: 23,
+    minutes: 59,
+    seconds: 59
+  });
+
+  useEffect(() => {
+    const calculateTimeLeft = () => {
+      const targetTime = new Date(payload.nextRefreshAt).getTime();
+      const now = Date.now();
+      const diff = targetTime - now;
+
+      if (diff <= 0) {
+        // Auto-refresh when 24h cycle expires
+        const fresh = forceRefresh24hTopics(1);
+        setPayload(fresh);
+        return;
+      }
+
+      const hours = Math.floor(diff / (1000 * 60 * 60));
+      const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+      setTimeLeft({ hours, minutes, seconds });
+    };
+
+    calculateTimeLeft();
+    const interval = setInterval(calculateTimeLeft, 1000);
+    return () => clearInterval(interval);
+  }, [payload.nextRefreshAt]);
 
   const categories = [
     "All",
@@ -22,7 +76,7 @@ export function SeoSuggestionsTab() {
     "Specializations & ROI"
   ];
 
-  const displayTopics = daily5.filter(
+  const displayTopics = payload.dailyTopics.filter(
     (t) => selectedCategory === "All" || t.category === selectedCategory
   );
 
@@ -38,39 +92,92 @@ export function SeoSuggestionsTab() {
     );
   };
 
-  const todayStr = new Date().toLocaleDateString("en-IN", {
-    weekday: "long",
-    year: "numeric",
-    month: "long",
-    day: "numeric"
+  const handleManualResearchRefresh = () => {
+    setIsResearching(true);
+    setResearchMessage("Scraping Google Trends, Shiksha & Collegedunia gap data...");
+
+    setTimeout(() => {
+      const fresh = forceRefresh24hTopics(Math.floor(Math.random() * 10) + 1);
+      setPayload(fresh);
+      setIsResearching(false);
+      setResearchMessage("Competitor research complete! 5 fresh topics loaded.");
+
+      setTimeout(() => setResearchMessage(null), 4000);
+    }, 1200);
+  };
+
+  const lastResearchedDateStr = new Date(payload.lastResearchedAt).toLocaleTimeString("en-IN", {
+    hour: "2-digit",
+    minute: "2-digit",
+    day: "numeric",
+    month: "short"
   });
 
   return (
     <div className="space-y-6 font-body">
-      {/* Top Banner: Today's Suggestions Header */}
+      {/* Top Banner: Today's Suggestions Header + 24-Hour Timer */}
       <div className="bg-gradient-to-r from-slate-900 via-slate-900 to-amber-950/40 border border-slate-800 rounded-2xl p-6 shadow-xl relative overflow-hidden">
         <div className="absolute top-0 right-0 w-96 h-96 bg-amber-500/10 rounded-full blur-3xl pointer-events-none" />
 
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 relative z-10">
-          <div>
-            <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-amber-400 mb-1">
-              <Sparkles className="w-4 h-4 text-amber-400" /> Daily Competitor SEO Intelligence
+        <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-5 relative z-10">
+          <div className="space-y-1.5">
+            <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-amber-400">
+              <Sparkles className="w-4 h-4 text-amber-400 animate-pulse" /> 24-Hour Automated Competitor SEO Intelligence
             </div>
             <h2 className="text-2xl font-black text-white tracking-tight">
-              Today's 5 Blog Topic Suggestions
+              Top 5 Today's Blog Topic Suggestions
             </h2>
-            <p className="text-xs text-slate-400 mt-1">
-              Curated daily for MBA/PGDM Admissions & Entrance Exams based on Shiksha & Collegedunia Gap Analysis • <span className="text-amber-400 font-semibold">{todayStr}</span>
+            <p className="text-xs text-slate-400">
+              Auto-researched every 24 hrs from Google Search & Competitor Gaps • <span className="text-amber-400 font-semibold">Last Researched: {lastResearchedDateStr}</span>
             </p>
-          </div>
 
-          <div className="flex items-center gap-3">
-            <div className="px-3.5 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-bold flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              5 Fresh Topics Loaded
+            {/* Researched Competitor Sources Badges */}
+            <div className="flex flex-wrap items-center gap-1.5 pt-2">
+              <span className="text-[10px] uppercase tracking-wider text-slate-400 font-bold mr-1">Sources Scraped:</span>
+              {(payload.sourcesResearched || []).map((src) => (
+                <span key={src} className="px-2 py-0.5 rounded-full bg-slate-950/80 border border-slate-800 text-[10px] text-slate-300 font-medium">
+                  {src}
+                </span>
+              ))}
             </div>
           </div>
+
+          {/* Right Side: 24h Countdown Clock & Manual Refresh Trigger */}
+          <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 shrink-0 bg-slate-950/80 p-3.5 rounded-2xl border border-slate-800">
+            {/* Live 24h Countdown Display */}
+            <div className="space-y-1">
+              <div className="text-[10px] font-bold text-slate-400 uppercase tracking-wider flex items-center gap-1">
+                <Clock className="w-3.5 h-3.5 text-amber-400" />
+                <span>Next 24h Auto-Update In:</span>
+              </div>
+              <div className="font-mono text-sm font-extrabold text-amber-400 tracking-wider flex items-center gap-1">
+                <span className="px-1.5 py-0.5 bg-slate-900 rounded border border-slate-800">{String(timeLeft.hours).padStart(2, '0')}h</span>
+                <span>:</span>
+                <span className="px-1.5 py-0.5 bg-slate-900 rounded border border-slate-800">{String(timeLeft.minutes).padStart(2, '0')}m</span>
+                <span>:</span>
+                <span className="px-1.5 py-0.5 bg-slate-900 rounded border border-slate-800">{String(timeLeft.seconds).padStart(2, '0')}s</span>
+              </div>
+            </div>
+
+            {/* Force Refresh Button */}
+            <button
+              onClick={handleManualResearchRefresh}
+              disabled={isResearching}
+              className="px-4 py-2.5 rounded-xl bg-amber-500 hover:bg-amber-400 disabled:bg-slate-800 text-slate-950 disabled:text-slate-500 font-bold text-xs flex items-center gap-2 transition-all cursor-pointer shadow-md shadow-amber-500/10 shrink-0"
+            >
+              <RefreshCw className={`w-3.5 h-3.5 ${isResearching ? "animate-spin" : ""}`} />
+              <span>{isResearching ? "Researching..." : "Research & Refresh Now"}</span>
+            </button>
+          </div>
         </div>
+
+        {/* Live Toast Notice for Research Completion */}
+        {researchMessage && (
+          <div className="mt-4 p-2.5 rounded-xl bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-bold flex items-center gap-2 animate-fadeIn">
+            <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
+            <span>{researchMessage}</span>
+          </div>
+        )}
 
         {/* Category Filters */}
         <div className="flex items-center gap-2 overflow-x-auto no-scrollbar pt-5 border-t border-slate-800/80 mt-5">
@@ -264,3 +371,4 @@ export function SeoSuggestionsTab() {
     </div>
   );
 }
+

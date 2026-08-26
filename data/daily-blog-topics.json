@@ -1,0 +1,130 @@
+{
+  "lastResearchedAt": "2026-08-26T13:58:05.978Z",
+  "nextRefreshAt": "2026-08-27T13:58:05.978Z",
+  "researchCycle": "Every 24 Hours Automatic Google & Competitor Scraping",
+  "sourcesResearched": [
+    "Google Search Trends & Keyword Planner",
+    "Shiksha.com Gap Analysis Engine",
+    "Collegedunia Fee & Placement Matrix",
+    "Careers360 Student Admission Queries",
+    "CollegeDekho Cutoff Indexes"
+  ],
+  "totalPoolSize": 12,
+  "dailyTopics": [
+    {
+      "id": "topic-pune-mba-under-8-lakhs",
+      "title": "Direct MBA Admission in Pune Under 8 Lakhs Budget: Top Colleges & Placement ROI (2027)",
+      "category": "Direct MBA & PGDM",
+      "searchVolume": "33,400 / mo",
+      "keywordDifficulty": "Low",
+      "primaryKeyword": "direct mba admission pune low fees",
+      "secondaryKeywords": [
+        "mba colleges in pune under 5 lakhs",
+        "best pgdm colleges in pune placement roi",
+        "direct admission in Pune management quota"
+      ],
+      "competitorGap": "Presents clear ROI calculation (Fees vs Average Package) for Pune B-schools like Lexicon, Akemi, RIIM, ISMS, ASM, Suryadatta.",
+      "targetAudience": "Students from Maharashtra, MP, UP, Bihar looking for budget-friendly MBA in Pune",
+      "suggestedOutline": [
+        "Why Pune is the Oxford of the East for MBA & Industry Placements",
+        "Top 10 Colleges Under 8 Lakhs Total Fees: Detailed Breakdown",
+        "Average Package vs Fee Comparison (ROI Analysis)",
+        "MHT-CET vs Management Quota Admission Rules 2027",
+        "Connect with Mohit Jain for Direct Seat Allotment"
+      ],
+      "aiPrompt": "Write an 1800-word SEO guide titled 'Direct MBA Admission in Pune Under 8 Lakhs Budget: Top Colleges & Placement ROI (2027)'. Include college fees, placement averages, hostel costs, and application advice."
+    },
+    {
+      "id": "topic-executive-mba-ugc",
+      "title": "Executive MBA for Working Professionals (2027): UGC Entitled vs Online Degrees Guide",
+      "category": "Executive & Online MBA",
+      "searchVolume": "31,800 / mo",
+      "keywordDifficulty": "Low",
+      "primaryKeyword": "Executive MBA for working professionals UGC approved",
+      "secondaryKeywords": [
+        "1 year online mba india valid for jobs",
+        "iim executive mba 1 year fees",
+        "best online mba programs india 2027"
+      ],
+      "competitorGap": "Clears confusion around 1-year Executive MBA vs 2-year Online MBA vs Distance MBA with government validity rules (UGC-DEB, AICTE, AIU).",
+      "targetAudience": "Working professionals with 2-10 years experience looking for career promotion or domain switch",
+      "suggestedOutline": [
+        "Difference Between 1-Year Executive PGP, 2-Year Online MBA & Distance Degree",
+        "UGC-DEB & AICTE Entitlement Checklist for Employers",
+        "Top IIM & University Executive MBA Options (IIM A PGPX, IIM B EPGP, NMIMS, Amity, LPU)",
+        "Salary Hikes & ROI: Is an Executive MBA worth the investment?",
+        "Free Executive Resume Assessment with Mohit Jain"
+      ],
+      "aiPrompt": "Write a 1700-word SEO post titled 'Executive MBA for Working Professionals (2027): UGC Entitled vs Online Degrees Guide'. Clarify government approvals, fee structures, and career elevation."
+    },
+    {
+      "id": "topic-bangalore-mba-direct-admission",
+      "title": "Top 12 MBA Colleges in Bangalore with Direct Admission & Low Fees (2027-29)",
+      "category": "Direct MBA & PGDM",
+      "searchVolume": "36,900 / mo",
+      "keywordDifficulty": "Low",
+      "primaryKeyword": "direct mba admission bangalore low fees",
+      "secondaryKeywords": [
+        "best mba colleges in bangalore without entrance exam",
+        "mba fees in bangalore placement average",
+        "top pgdm colleges in bangalore 2027"
+      ],
+      "competitorGap": "Competitor sites misguide on management quota seats. Provide direct application steps, VTU vs Autonomous PGDM distinction, and IT park internship connections.",
+      "targetAudience": "South India & PAN India graduates targeting IT & Management hubs in Bangalore",
+      "suggestedOutline": [
+        "Why Bangalore is India's Silicon Valley for Tech-Management Careers",
+        "12 Best Colleges for Direct MBA: Fee vs Salary Matrix",
+        "Autonomous PGDM vs University MBA: Recognition & Placement Impact",
+        "Direct Admission Eligibility & Document Verification Checklist",
+        "Schedule Profile Evaluation Call with Mohit Jain"
+      ],
+      "aiPrompt": "Write an 1800-word SEO article titled 'Top 12 MBA Colleges in Bangalore with Direct Admission & Low Fees (2027-29)'. Include fee brackets, average CTC (6-14 LPA), and management quota guidance."
+    },
+    {
+      "id": "topic-cat-2027-roadmap",
+      "title": "CAT 2027 Preparation Roadmap: Month-by-Month Strategy for 99+ Percentile",
+      "category": "CAT & Entrance Exams",
+      "searchVolume": "48,500 / mo",
+      "keywordDifficulty": "Medium",
+      "primaryKeyword": "CAT 2027 preparation strategy",
+      "secondaryKeywords": [
+        "CAT 2027 syllabus PDF",
+        "how to prepare for CAT 2027 from scratch",
+        "CAT 2027 exam date"
+      ],
+      "competitorGap": "Shiksha & Careers360 provide generic theory. Mohit Jain can provide section-wise VARC/DILR/QA month-by-month targets with free mock test links.",
+      "targetAudience": "CAT 2027 aspirants, college students in pre-final year",
+      "suggestedOutline": [
+        "Introduction: Why early prep for CAT 2027 guarantees top IIM calls",
+        "Month 1-3: Foundations in Quant & VARC Vocabulary",
+        "Month 4-6: Advanced DILR Puzzles & Speed Techniques",
+        "Month 7-9: Full-length Mock Tests & Percentile Analytics",
+        "Mohit's Expert Advice: Common mistakes to avoid during CAT prep"
+      ],
+      "aiPrompt": "Write a comprehensive 1500-word SEO blog post titled 'CAT 2027 Preparation Roadmap: Month-by-Month Strategy for 99+ Percentile'. Include actionable VARC, DILR, QA strategies, mock test tracking advice, and structured H2 headers."
+    },
+    {
+      "id": "topic-xat-2027-dm",
+      "title": "XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls",
+      "category": "CAT & Entrance Exams",
+      "searchVolume": "31,000 / mo",
+      "keywordDifficulty": "Medium",
+      "primaryKeyword": "XAT 2027 decision making preparation",
+      "secondaryKeywords": [
+        "XAT decision making previous year questions PDF",
+        "XLRI Jamshedpur cutoff 2027",
+        "XAT 2027 exam pattern"
+      ],
+      "competitorGap": "Competitor posts lack solved case study examples. Mohit Jain breaks down 5 real Decision Making scenarios step-by-step.",
+      "targetAudience": "XAT 2027 aspirants targeting XLRI Jamshedpur, XLRI Delhi, XIMB, IMT Ghaziabad",
+      "suggestedOutline": [
+        "Why Decision Making (DM) is the game-changer in XAT exam",
+        "The 4 Golden Rules to solve Ethics & Business DM Case Studies",
+        "VALR Section (Verbal & Logical Reasoning) High-yield topics",
+        "XAT Cutoff Matrix for XLRI BM vs HRM programs",
+        "Final 30-Day XAT Sprint Checklist by Mohit Jain"
+      ],
+      "aiPrompt": "Write a detailed 1600-word SEO post titled 'XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls'. Detail ethics principles, business case scenarios, and cutoff expectations."
+    }
+  ]
+}

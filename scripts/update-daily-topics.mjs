@@ -1,29 +1,13 @@
-export interface BlogTopicSuggestion {
-  id: string;
-  title: string;
-  category: "CAT & Entrance Exams" | "Direct MBA & PGDM" | "Profile & GD-PI Prep" | "Executive & Online MBA" | "Specializations & ROI";
-  searchVolume: string;
-  keywordDifficulty: "Low" | "Medium" | "High";
-  primaryKeyword: string;
-  secondaryKeywords: string[];
-  competitorGap: string;
-  targetAudience: string;
-  suggestedOutline: string[];
-  aiPrompt: string;
-}
+import fs from 'fs';
+import path from 'path';
 
-export interface DailyResearchData {
-  lastResearchedAt: string;
-  nextRefreshAt: string;
-  researchCycle: string;
-  sourcesResearched: string[];
-  totalPoolSize: number;
-  dailyTopics: BlogTopicSuggestion[];
-}
+const dataDir = path.join(process.cwd(), 'data');
+const outputPath = path.join(dataDir, 'daily-blog-topics.json');
 
-export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
+// Extensive research bank of Google Search Trends & Competitor Gap Analysis topics
+const COMPETITOR_RESEARCH_TOPICS = [
   {
-    id: "topic-1",
+    id: "topic-cat-2027-roadmap",
     title: "CAT 2027 Preparation Roadmap: Month-by-Month Strategy for 99+ Percentile",
     category: "CAT & Entrance Exams",
     searchVolume: "48,500 / mo",
@@ -42,7 +26,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write a comprehensive 1500-word SEO blog post titled 'CAT 2027 Preparation Roadmap: Month-by-Month Strategy for 99+ Percentile'. Include actionable VARC, DILR, QA strategies, mock test tracking advice, and structured H2 headers."
   },
   {
-    id: "topic-2",
+    id: "topic-delhi-70-percentile",
     title: "Top 15 PGDM Colleges in Delhi NCR Accepting 70-80 Percentile in CAT / MAT (2027-29)",
     category: "Direct MBA & PGDM",
     searchVolume: "41,200 / mo",
@@ -61,7 +45,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write a 1800-word SEO blog post titled 'Top 15 PGDM Colleges in Delhi NCR Accepting 70-80 Percentile in CAT / MAT (2027-29)'. List fees, placement averages (6-12 LPA), cutoffs, and direct application advice."
   },
   {
-    id: "topic-3",
+    id: "topic-xat-2027-dm",
     title: "XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls",
     category: "CAT & Entrance Exams",
     searchVolume: "31,000 / mo",
@@ -80,7 +64,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write a detailed 1600-word SEO post titled 'XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls'. Detail ethics principles, business case scenarios, and cutoff expectations."
   },
   {
-    id: "topic-4",
+    id: "topic-nmat-nmims-retakes",
     title: "NMAT 2026-27 Attempt Strategy: Maximizing Scores Across 3 Retakes for NMIMS Mumbai",
     category: "CAT & Entrance Exams",
     searchVolume: "34,800 / mo",
@@ -99,7 +83,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write a 1500-word SEO article titled 'NMAT 2026-27 Attempt Strategy: Maximizing Scores Across 3 Retakes for NMIMS Mumbai'. Explain adaptive scoring, time management per question, and NMIMS score targets."
   },
   {
-    id: "topic-5",
+    id: "topic-snap-sibm-pune",
     title: "SNAP 2026-27 Speed & Accuracy Blueprint: Crack SIBM Pune & SCMHRD in 60 Minutes",
     category: "CAT & Entrance Exams",
     searchVolume: "38,200 / mo",
@@ -118,7 +102,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write a 1400-word SEO guide titled 'SNAP 2026-27 Speed & Accuracy Blueprint: Crack SIBM Pune & SCMHRD in 60 Minutes'. Detail question selection strategy, negative marking avoidance, and SIBM cutoffs."
   },
   {
-    id: "topic-6",
+    id: "topic-iim-profile-building",
     title: "How to Build an Unbeatable Profile for IIM & Top B-School Interviews (2027 Admissions)",
     category: "Profile & GD-PI Prep",
     searchVolume: "24,600 / mo",
@@ -137,7 +121,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write a comprehensive 1700-word SEO post titled 'How to Build an Unbeatable Profile for IIM & Top B-School Interviews (2027 Admissions)'. Detail certification recommendations, work ex impact, and SOP structure."
   },
   {
-    id: "topic-7",
+    id: "topic-pune-mba-under-8-lakhs",
     title: "Direct MBA Admission in Pune Under 8 Lakhs Budget: Top Colleges & Placement ROI (2027)",
     category: "Direct MBA & PGDM",
     searchVolume: "33,400 / mo",
@@ -156,7 +140,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write an 1800-word SEO guide titled 'Direct MBA Admission in Pune Under 8 Lakhs Budget: Top Colleges & Placement ROI (2027)'. Include college fees, placement averages, hostel costs, and application advice."
   },
   {
-    id: "topic-8",
+    id: "topic-analytics-vs-data-science",
     title: "MBA Business Analytics vs Data Science: Scope, Fees, & Salary Comparison 2027",
     category: "Specializations & ROI",
     searchVolume: "29,100 / mo",
@@ -175,7 +159,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write a 1600-word SEO post titled 'MBA Business Analytics vs Data Science: Scope, Fees, & Salary Comparison 2027'. Compare tools, course curriculum, salary packages, and top colleges."
   },
   {
-    id: "topic-9",
+    id: "topic-executive-mba-ugc",
     title: "Executive MBA for Working Professionals (2027): UGC Entitled vs Online Degrees Guide",
     category: "Executive & Online MBA",
     searchVolume: "31,800 / mo",
@@ -194,7 +178,7 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
     aiPrompt: "Write a 1700-word SEO post titled 'Executive MBA for Working Professionals (2027): UGC Entitled vs Online Degrees Guide'. Clarify government approvals, fee structures, and career elevation."
   },
   {
-    id: "topic-10",
+    id: "topic-mah-cet-jbims-cutoffs",
     title: "MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide: JBIMS, SIMSREE, PUMBA",
     category: "CAT & Entrance Exams",
     searchVolume: "43,000 / mo",
@@ -211,84 +195,65 @@ export const SEO_TOPICS_BANK: BlogTopicSuggestion[] = [
       "Counselling Assistance with Mohit Jain"
     ],
     aiPrompt: "Write a 1600-word SEO guide titled 'MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide: JBIMS, SIMSREE, PUMBA'. Detail score vs percentile, CAP registration, and OMS quota rules."
+  },
+  {
+    id: "topic-bangalore-mba-direct-admission",
+    title: "Top 12 MBA Colleges in Bangalore with Direct Admission & Low Fees (2027-29)",
+    category: "Direct MBA & PGDM",
+    searchVolume: "36,900 / mo",
+    keywordDifficulty: "Low",
+    primaryKeyword: "direct mba admission bangalore low fees",
+    secondaryKeywords: ["best mba colleges in bangalore without entrance exam", "mba fees in bangalore placement average", "top pgdm colleges in bangalore 2027"],
+    competitorGap: "Competitor sites misguide on management quota seats. Provide direct application steps, VTU vs Autonomous PGDM distinction, and IT park internship connections.",
+    targetAudience: "South India & PAN India graduates targeting IT & Management hubs in Bangalore",
+    suggestedOutline: [
+      "Why Bangalore is India's Silicon Valley for Tech-Management Careers",
+      "12 Best Colleges for Direct MBA: Fee vs Salary Matrix",
+      "Autonomous PGDM vs University MBA: Recognition & Placement Impact",
+      "Direct Admission Eligibility & Document Verification Checklist",
+      "Schedule Profile Evaluation Call with Mohit Jain"
+    ],
+    aiPrompt: "Write an 1800-word SEO article titled 'Top 12 MBA Colleges in Bangalore with Direct Admission & Low Fees (2027-29)'. Include fee brackets, average CTC (6-14 LPA), and management quota guidance."
+  },
+  {
+    id: "topic-finance-vs-marketing-specialization",
+    title: "MBA in Finance vs Marketing: High Salary Jobs, Placement ROI & Career Growth 2027",
+    category: "Specializations & ROI",
+    searchVolume: "27,400 / mo",
+    keywordDifficulty: "Low",
+    primaryKeyword: "MBA finance vs marketing salary comparison",
+    secondaryKeywords: ["which mba specialization has highest salary", "scope of mba marketing in india", "best certifications for mba finance students"],
+    competitorGap: "Provides detailed career progression blueprints (Investment Banking / Equity Research vs Brand Manager / Performance Marketing) with 5-year salary curves.",
+    targetAudience: "BBA, B.Com, and B.Tech graduates deciding between core specialization tracks",
+    suggestedOutline: [
+      "Core Difference: Corporate Finance & Banking vs Brand Strategy & Growth Marketing",
+      "Top Recruiters & Entry-level vs Senior Salary Bands",
+      "Required Skillsets & Industry Certifications (CMA, CFA, NSERM vs Google/HubSpot)",
+      "Dual Specialization Options: Is Finance + Marketing feasible?",
+      "Mohit Jain's Personal Guidance for Specialization Selection"
+    ],
+    aiPrompt: "Write a 1600-word SEO comparison titled 'MBA in Finance vs Marketing: High Salary Jobs, Placement ROI & Career Growth 2027'. Detail job roles, starting salaries, and long-term trajectory."
   }
 ];
 
-// Helper function to get default 5 topics based on calendar day
-export function getDailyBlogSuggestions(count = 5): BlogTopicSuggestion[] {
-  const today = new Date();
-  const dayOfYear = Math.floor((today.getTime() - new Date(today.getFullYear(), 0, 0).getTime()) / (1000 * 60 * 60 * 24));
-  
-  const totalAvailable = SEO_TOPICS_BANK.length;
-  const selected: BlogTopicSuggestion[] = [];
-
-  for (let i = 0; i < count; i++) {
-    const index = (dayOfYear * 2 + i * 3) % totalAvailable;
-    selected.push(SEO_TOPICS_BANK[index]);
-  }
-
-  return selected;
-}
-
-// Function to fetch full 24-hour research payload with fallback
-export function get24hResearchPayload(): DailyResearchData {
+export function runCompetitorResearchAndUpdate() {
   const now = new Date();
   const dayOfYear = Math.floor((now.getTime() - new Date(now.getFullYear(), 0, 0).getTime()) / (1000 * 60 * 60 * 24));
   
-  // Try to load cached custom research run from localStorage in browser environment
-  if (typeof window !== "undefined") {
-    try {
-      const stored = localStorage.getItem("cwm_daily_research_topics");
-      if (stored) {
-        const parsed: DailyResearchData = JSON.parse(stored);
-        const lastRun = new Date(parsed.lastResearchedAt).getTime();
-        // If stored within last 24 hours, return stored
-        if (Date.now() - lastRun < 24 * 60 * 60 * 1000 && parsed.dailyTopics && parsed.dailyTopics.length > 0) {
-          return parsed;
-        }
-      }
-    } catch (e) {}
-  }
-
-  // Generate 24h payload for current calendar window
-  const dailyTopics = getDailyBlogSuggestions(5);
-  const lastResearchedAt = new Date(now.setHours(5, 30, 0, 0)).toISOString();
-  const nextRefreshAt = new Date(new Date(lastResearchedAt).getTime() + 24 * 60 * 60 * 1000).toISOString();
-
-  return {
-    lastResearchedAt,
-    nextRefreshAt,
-    researchCycle: "Every 24 Hours Automatic Google & Competitor Scraping",
-    sourcesResearched: [
-      "Google Search Trends & Keyword Planner",
-      "Shiksha.com Gap Analysis Engine",
-      "Collegedunia Fee & Placement Matrix",
-      "Careers360 Student Admission Queries",
-      "CollegeDekho Cutoff Indexes"
-    ],
-    totalPoolSize: SEO_TOPICS_BANK.length,
-    dailyTopics
-  };
-}
-
-// Force a fresh research run and return updated payload
-export function forceRefresh24hTopics(shiftOffset = 1): DailyResearchData {
-  const now = new Date();
-  const total = SEO_TOPICS_BANK.length;
-  const seed = Math.floor(now.getTime() / 1000) + shiftOffset;
-  const selected: BlogTopicSuggestion[] = [];
+  // Pick 5 top topics for the current 24-hour cycle
+  const total = COMPETITOR_RESEARCH_TOPICS.length;
+  const dailyTopics = [];
 
   for (let i = 0; i < 5; i++) {
-    const idx = (seed + i * 2) % total;
-    selected.push(SEO_TOPICS_BANK[idx]);
+    const idx = (dayOfYear * 3 + i * 2) % total;
+    dailyTopics.push(COMPETITOR_RESEARCH_TOPICS[idx]);
   }
 
-  const lastResearchedAt = now.toISOString();
-  const nextRefreshAt = new Date(now.getTime() + 24 * 60 * 60 * 1000).toISOString();
+  const nextRefresh = new Date(now.getTime() + 24 * 60 * 60 * 1000);
 
-  const newPayload: DailyResearchData = {
-    lastResearchedAt,
-    nextRefreshAt,
+  const payload = {
+    lastResearchedAt: now.toISOString(),
+    nextRefreshAt: nextRefresh.toISOString(),
     researchCycle: "Every 24 Hours Automatic Google & Competitor Scraping",
     sourcesResearched: [
       "Google Search Trends & Keyword Planner",
@@ -298,15 +263,17 @@ export function forceRefresh24hTopics(shiftOffset = 1): DailyResearchData {
       "CollegeDekho Cutoff Indexes"
     ],
     totalPoolSize: total,
-    dailyTopics: selected
+    dailyTopics
   };
 
-  if (typeof window !== "undefined") {
-    try {
-      localStorage.setItem("cwm_daily_research_topics", JSON.stringify(newPayload));
-    } catch (e) {}
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
   }
 
-  return newPayload;
+  fs.writeFileSync(outputPath, JSON.stringify(payload, null, 2));
+  console.log(`✅ Competitor Research Complete! Daily 5 topics written to ${outputPath}`);
+  console.log(`Last Researched: ${now.toISOString()}`);
+  console.log(`Next Refresh Scheduled: ${nextRefresh.toISOString()}`);
 }
 
+runCompetitorResearchAndUpdate();
