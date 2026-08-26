@@ -32,6 +32,11 @@ export interface College extends CollegeMetadata {
 
 let collegesCache: CollegeMetadata[] | null = null;
 
+export function clearCollegesCache(): void {
+  collegesCache = null;
+}
+
+
 export function getAllColleges(): CollegeMetadata[] {
   if (process.env.NODE_ENV === 'production' && collegesCache) {
     return collegesCache;

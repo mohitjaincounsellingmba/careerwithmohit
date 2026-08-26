@@ -14,7 +14,9 @@ import { ClicksImpressionsTab } from "@/components/admin/ClicksImpressionsTab";
 import { LeadsOverviewTab } from "@/components/admin/LeadsOverviewTab";
 import { SeoStudioTab } from "@/components/admin/SeoStudioTab";
 import { ABTestingTab } from "@/components/admin/ABTestingTab";
+import { CollegesTab } from "@/components/admin/CollegesTab";
 import { AlertCircle } from "lucide-react";
+
 
 export default function AdminDashboardPage() {
   const router = useRouter();
@@ -304,6 +306,9 @@ export default function AdminDashboardPage() {
                 }}
               />
             )}
+
+            {activeTab === "colleges" && <CollegesTab />}
+
 
             {activeTab === "seo" && (
               <SeoStudioTab
