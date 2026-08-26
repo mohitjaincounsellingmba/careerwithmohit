@@ -307,7 +307,9 @@ export default function AdminDashboardPage() {
               />
             )}
 
-            {activeTab === "colleges" && <CollegesTab />}
+            {activeTab === "colleges" && (
+              <CollegesTab colleges={filteredData.colleges || []} />
+            )}
 
 
             {activeTab === "seo" && (

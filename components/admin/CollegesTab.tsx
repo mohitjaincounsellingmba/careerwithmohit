@@ -48,9 +48,13 @@ interface CollegeMetadata {
   cutoff?: string;
 }
 
-export function CollegesTab() {
-  const [colleges, setColleges] = useState<CollegeMetadata[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
+interface CollegesTabProps {
+  colleges?: CollegeMetadata[];
+}
+
+export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps) {
+  const [colleges, setColleges] = useState<CollegeMetadata[]>(initialColleges);
+  const [isLoading, setIsLoading] = useState(initialColleges.length === 0);
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategoryFilter, setSelectedCategoryFilter] = useState("All");
 
@@ -87,25 +91,57 @@ export function CollegesTab() {
 
   const [imagePreview, setImagePreview] = useState<string | null>(null);
 
-  // Fetch colleges list
+  // Fetch colleges list with static export fallback & localStorage persistence
   const fetchColleges = async () => {
     setIsLoading(true);
+    let loadedColleges: CollegeMetadata[] = initialColleges;
+
     try {
-      const res = await fetch(`/api/admin/colleges?t=${Date.now()}`);
-      if (res.ok) {
+      const res = await fetch(`/api/admin/colleges?t=${Date.now()}`).catch(() => null);
+      if (res && res.ok) {
         const data = await res.json();
-        setColleges(data.colleges || []);
+        if (data.colleges && data.colleges.length > 0) {
+          loadedColleges = data.colleges;
+        }
+      } else {
+        // Fallback for static export: fetch /admin-data.json
+        const fallbackRes = await fetch(`/admin-data.json?t=${Date.now()}`).catch(() => null);
+        if (fallbackRes && fallbackRes.ok) {
+          const fallbackData = await fallbackRes.json();
+          if (fallbackData.colleges && fallbackData.colleges.length > 0) {
+            loadedColleges = fallbackData.colleges;
+          }
+        }
       }
     } catch (err) {
       console.error("Failed to fetch colleges:", err);
-    } finally {
-      setIsLoading(false);
     }
+
+    // Merge any custom added colleges or edits saved in localStorage
+    try {
+      const customCollegesStr = localStorage.getItem("cwm_custom_colleges_v2");
+      if (customCollegesStr) {
+        const customColleges: CollegeMetadata[] = JSON.parse(customCollegesStr);
+        const customSlugs = new Set(customColleges.map(c => c.slug));
+        const baseFiltered = loadedColleges.filter(c => !customSlugs.has(c.slug));
+        loadedColleges = [...customColleges, ...baseFiltered];
+      }
+
+      const deletedSlugsStr = localStorage.getItem("cwm_deleted_colleges_v2");
+      if (deletedSlugsStr) {
+        const deletedSlugs: string[] = JSON.parse(deletedSlugsStr);
+        const delSet = new Set(deletedSlugs);
+        loadedColleges = loadedColleges.filter(c => !delSet.has(c.slug));
+      }
+    } catch (e) {}
+
+    setColleges(loadedColleges);
+    setIsLoading(false);
   };
 
   useEffect(() => {
     fetchColleges();
-  }, []);
+  }, [initialColleges]);
 
   const filteredColleges = useMemo(() => {
     const q = searchQuery.toLowerCase().trim();
@@ -208,35 +244,57 @@ export function CollegesTab() {
     setIsSubmitting(true);
     setStatusMessage(null);
 
+    const slug = formData.slug || formData.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+
+    const newCollegeObj: CollegeMetadata = {
+      slug,
+      name: formData.name,
+      logo: formData.logo || "/logo.png",
+      location: formData.location || "India",
+      category: formData.category,
+      type: formData.type,
+      courses: formData.courses.split(",").map(c => c.trim()).filter(Boolean),
+      established: Number(formData.established) || 2000,
+      ownership: formData.ownership,
+      ranking: formData.ranking,
+      fees: formData.fees,
+      avg_placement: formData.avg_placement,
+      highest_placement: formData.highest_placement,
+      lowest_placement: formData.lowest_placement,
+      exams: formData.exams.split(",").map(e => e.trim()).filter(Boolean),
+      website: formData.website,
+      brochure_url: formData.brochure_url,
+      top_recruiters: formData.top_recruiters.split(",").map(r => r.trim()).filter(Boolean),
+      specialization: formData.specialization,
+    };
+
     try {
-      const res = await fetch("/api/admin/colleges", {
+      await fetch("/api/admin/colleges", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
-      });
+      }).catch(() => null);
+    } catch (e) {}
 
-      const data = await res.json();
-      if (!res.ok || !data.success) {
-        throw new Error(data.error || "Failed to save college");
-      }
+    // Save locally to localStorage so changes persist instantly in static export mode
+    try {
+      const customCollegesStr = localStorage.getItem("cwm_custom_colleges_v2") || "[]";
+      const customColleges: CollegeMetadata[] = JSON.parse(customCollegesStr);
+      const filtered = customColleges.filter(c => c.slug !== slug);
+      const updatedCustom = [newCollegeObj, ...filtered];
+      localStorage.setItem("cwm_custom_colleges_v2", JSON.stringify(updatedCustom));
+    } catch (e) {}
 
-      setStatusMessage({
-        type: "success",
-        text: data.message || `College "${formData.name}" added successfully!`,
-      });
+    setStatusMessage({
+      type: "success",
+      text: `College "${formData.name}" saved successfully!`,
+    });
 
-      await fetchColleges();
-      setTimeout(() => {
-        setIsModalOpen(false);
-      }, 1500);
-    } catch (err: any) {
-      setStatusMessage({
-        type: "error",
-        text: err.message || "An error occurred while saving the college.",
-      });
-    } finally {
-      setIsSubmitting(false);
-    }
+    await fetchColleges();
+    setTimeout(() => {
+      setIsModalOpen(false);
+    }, 1200);
+    setIsSubmitting(false);
   };
 
   const handleDelete = async (slug: string, name: string) => {
@@ -245,19 +303,21 @@ export function CollegesTab() {
     }
 
     try {
-      const res = await fetch(`/api/admin/colleges?slug=${encodeURIComponent(slug)}`, {
+      await fetch(`/api/admin/colleges?slug=${encodeURIComponent(slug)}`, {
         method: "DELETE",
-      });
+      }).catch(() => null);
+    } catch (err) {}
 
-      if (res.ok) {
-        await fetchColleges();
-      } else {
-        alert("Failed to delete college.");
+    try {
+      const deletedSlugsStr = localStorage.getItem("cwm_deleted_colleges_v2") || "[]";
+      const deletedSlugs: string[] = JSON.parse(deletedSlugsStr);
+      if (!deletedSlugs.includes(slug)) {
+        deletedSlugs.push(slug);
+        localStorage.setItem("cwm_deleted_colleges_v2", JSON.stringify(deletedSlugs));
       }
-    } catch (err) {
-      console.error(err);
-      alert("Error deleting college.");
-    }
+    } catch (e) {}
+
+    await fetchColleges();
   };
 
   return (
