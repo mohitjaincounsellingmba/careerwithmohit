@@ -106,12 +106,28 @@ export default function AdminDashboardPage() {
   const filteredData = useMemo(() => {
     if (!rawData) return null;
 
-    const allDateKeys: string[] = rawData.dateKeys || [];
-    const hourKeys: string[] = rawData.hourKeys || [];
-    const totalDays = allDateKeys.length;
+    // Generate fresh date keys up to TODAY so everyday data is always up-to-date
+    const today = new Date();
+    const freshDateKeys: string[] = [];
+    for (let i = 364; i >= 0; i--) {
+      const d = new Date(today);
+      d.setDate(d.getDate() - i);
+      freshDateKeys.push(d.toISOString().split('T')[0]);
+    }
+
+    // Generate fresh hour keys up to current hour
+    const currentHour = today.getHours();
+    const freshHourKeys: string[] = [];
+    for (let i = 23; i >= 0; i--) {
+      const h = (currentHour - i + 24) % 24;
+      const hStr = h.toString().padStart(2, '0') + ':00';
+      freshHourKeys.push(hStr);
+    }
+
+    const totalDays = freshDateKeys.length;
 
     let is24h = timeRange === "24h";
-    let targetKeys = is24h ? hourKeys : allDateKeys;
+    let targetKeys = is24h ? freshHourKeys : freshDateKeys;
     let sliceDays = 30;
 
     if (timeRange === "24h") sliceDays = 1;
@@ -124,7 +140,7 @@ export default function AdminDashboardPage() {
     else if (timeRange === "12m" || timeRange === "all") sliceDays = totalDays;
 
     if (!is24h) {
-      targetKeys = allDateKeys.slice(-sliceDays);
+      targetKeys = freshDateKeys.slice(-sliceDays);
     }
 
     const startIdx = is24h ? 0 : Math.max(0, totalDays - sliceDays);
@@ -145,7 +161,7 @@ export default function AdminDashboardPage() {
       if (is24h) {
         // 24 Hours Hourly Aggregation
         for (let hIdx = 0; hIdx < 24; hIdx++) {
-          const hKey = hourKeys[hIdx] || `${hIdx}:00`;
+          const hKey = freshHourKeys[hIdx] || `${hIdx}:00`;
           const v = blog.hViewsArr ? (blog.hViewsArr[hIdx] || 0) : Math.round((blog.vArr?.[364] || 1) / 14);
           const c = blog.hClicksArr ? (blog.hClicksArr[hIdx] || 0) : Math.round(v * 0.07);
           const imp = blog.hImpArr ? (blog.hImpArr[hIdx] || 0) : Math.round(v * 4.1);
@@ -161,7 +177,7 @@ export default function AdminDashboardPage() {
       } else {
         // Daily Aggregation (7d to 365d)
         for (let i = startIdx; i < totalDays; i++) {
-          const dKey = allDateKeys[i];
+          const dKey = freshDateKeys[i];
           const v = blog.vArr ? (blog.vArr[i] || 0) : (blog.dailyViews?.[dKey] || 0);
           const c = blog.cArr ? (blog.cArr[i] || 0) : (blog.dailyClicks?.[dKey] || 0);
           const imp = blog.impArr ? (blog.impArr[i] || 0) : (blog.dailyImpressions?.[dKey] || 0);
@@ -342,6 +358,7 @@ export default function AdminDashboardPage() {
                 dateKeys={filteredData.dateKeys || []}
                 selectedBlog={selectedBlog}
                 onSelectBlog={setSelectedBlog}
+                is24h={filteredData.is24h}
               />
             )}
 

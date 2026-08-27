@@ -9,6 +9,7 @@ interface BlogAnalyticsTabProps {
   dateKeys: string[];
   selectedBlog: any | null;
   onSelectBlog: (blog: any | null) => void;
+  is24h?: boolean;
 }
 
 export function BlogAnalyticsTab({
@@ -17,6 +18,7 @@ export function BlogAnalyticsTab({
   dateKeys,
   selectedBlog,
   onSelectBlog,
+  is24h = false,
 }: BlogAnalyticsTabProps) {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("All");
@@ -140,7 +142,9 @@ export function BlogAnalyticsTab({
                 <th className="py-3.5 px-4">Date</th>
                 <th className="py-3.5 px-4 text-right">Total Views</th>
                 <th className="py-3.5 px-4 text-right">Clicks (CTR)</th>
-                <th className="py-3.5 px-4 text-center">30-Day Sparkline</th>
+                <th className="py-3.5 px-4 text-center">
+                  {is24h ? "24-Hour Sparkline" : `${dateKeys.length}-Day Sparkline`}
+                </th>
                 <th className="py-3.5 px-4 text-center">Action</th>
               </tr>
             </thead>
@@ -156,7 +160,7 @@ export function BlogAnalyticsTab({
                   const globalIdx = (currentPage - 1) * pageSize + idx + 1;
 
                   // Find max daily view for sparkline scaling
-                  const dailyVals = dateKeys.map((k) => b.dailyViews[k] || 0);
+                  const dailyVals = dateKeys.map((k) => b.dailyViews?.[k] || 0);
                   const maxDay = Math.max(...dailyVals, 1);
 
                   return (
@@ -190,7 +194,7 @@ export function BlogAnalyticsTab({
                       <td className="py-3.5 px-4 text-center">
                         {/* Mini Sparkline Bar Chart */}
                         <div className="h-6 w-24 flex items-end gap-[1.5px] mx-auto">
-                          {dailyVals.slice(-15).map((v, vIdx) => (
+                          {dailyVals.map((v, vIdx) => (
                             <div
                               key={vIdx}
                               className="flex-1 bg-amber-500/80 rounded-t-[1px] group-hover:bg-amber-400"
@@ -313,14 +317,14 @@ export function BlogAnalyticsTab({
               <div className="bg-slate-950/70 border border-slate-800 rounded-xl p-5 space-y-4">
                 <div className="flex items-center justify-between">
                   <h4 className="text-sm font-bold text-white flex items-center gap-2">
-                    <Sparkles className="w-4 h-4 text-amber-400" /> Daily Page Views (Last 30 Days)
+                    <Sparkles className="w-4 h-4 text-amber-400" /> {is24h ? "Hourly Page Views (Last 24 Hours)" : `Daily Page Views (${dateKeys.length} Days)`}
                   </h4>
                 </div>
 
                 <div className="h-44 flex items-end gap-1 pt-4 pb-1 border-b border-slate-800">
                   {dateKeys.map((dKey) => {
-                    const dayViews = selectedBlog.dailyViews[dKey] || 0;
-                    const maxVal = Math.max(...(Object.values(selectedBlog.dailyViews) as number[]), 1);
+                    const dayViews = selectedBlog.dailyViews?.[dKey] || 0;
+                    const maxVal = Math.max(...(Object.values(selectedBlog.dailyViews || {}) as number[]), 1);
                     const barHeight = Math.max(10, Math.round((dayViews / maxVal) * 100));
 
                     return (
@@ -342,7 +346,7 @@ export function BlogAnalyticsTab({
                 </div>
                 <div className="flex justify-between text-[10px] font-mono text-slate-500">
                   <span>{dateKeys[0]}</span>
-                  <span>{dateKeys[14]}</span>
+                  <span>{dateKeys[Math.floor(dateKeys.length / 2)]}</span>
                   <span>{dateKeys[dateKeys.length - 1]}</span>
                 </div>
               </div>

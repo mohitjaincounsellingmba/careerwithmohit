@@ -16,8 +16,8 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
   // Compute aggregate traffic curve for selected window
   const dailyTotals = dateKeys.map((dKey: string) => {
     let daySum = 0;
-    blogs.slice(0, 300).forEach((b: any) => {
-      daySum += b.dailyViews[dKey] || 0;
+    blogs.forEach((b: any) => {
+      daySum += b.dailyViews?.[dKey] || 0;
     });
     return { date: dKey, views: daySum };
   });
