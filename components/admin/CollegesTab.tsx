@@ -76,12 +76,17 @@ interface CollegesTabProps {
 }
 
 export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps) {
+  const [isClientMounted, setIsClientMounted] = useState(false);
   const [colleges, setColleges] = useState<CollegeMetadata[]>(
     initialColleges.length > 0 ? initialColleges : DEFAULT_SEED_COLLEGES
   );
   const [isLoading, setIsLoading] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategoryFilter, setSelectedCategoryFilter] = useState("All");
+
+  useEffect(() => {
+    setIsClientMounted(true);
+  }, []);
 
   // Modal State
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -409,6 +414,15 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
 
     await fetchColleges();
   };
+
+  if (!isClientMounted) {
+    return (
+      <div className="py-24 text-center bg-slate-900 border border-slate-800 rounded-3xl p-8 space-y-3 shadow-xl">
+        <div className="w-8 h-8 border-3 border-amber-400 border-t-transparent rounded-full animate-spin mx-auto" />
+        <p className="text-xs font-semibold text-slate-400">Loading college directory database...</p>
+      </div>
+    );
+  }
 
   return (
     <div className="space-y-6">
