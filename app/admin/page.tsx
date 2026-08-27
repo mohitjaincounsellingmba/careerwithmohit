@@ -20,6 +20,7 @@ import { AlertCircle } from "lucide-react";
 
 export default function AdminDashboardPage() {
   const router = useRouter();
+  const [isMounted, setIsMounted] = useState(false);
   const [isAuthenticated, setIsAuthenticated] = useState<boolean | null>(null);
   const [activeTab, setActiveTab] = useState("overview");
   const [timeRange, setTimeRange] = useState<TimeRangeType>("30d");
@@ -29,6 +30,10 @@ export default function AdminDashboardPage() {
   const [selectedBlog, setSelectedBlog] = useState<any | null>(null);
   const [fetchError, setFetchError] = useState("");
   const [activeNow, setActiveNow] = useState<number>(0);
+
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
 
   // Auth Guard
   useEffect(() => {
@@ -239,7 +244,7 @@ export default function AdminDashboardPage() {
     router.push("/admin/login");
   };
 
-  if (isAuthenticated === null || isAuthenticated === false) {
+  if (!isMounted || isAuthenticated === null || isAuthenticated === false) {
     return (
       <div className="min-h-screen bg-slate-950 text-white flex items-center justify-center p-4">
         <div className="flex items-center gap-3 text-slate-400">

@@ -201,13 +201,27 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
   const filteredColleges = useMemo(() => {
     const q = searchQuery.toLowerCase().trim();
     return colleges.filter((c) => {
-      const matchesSearch =
-        !q ||
-        c.name.toLowerCase().includes(q) ||
-        c.location.toLowerCase().includes(q) ||
-        c.courses.some((cr) => cr.toLowerCase().includes(q));
+      if (!c || !c.name) return false;
+
+      const nameMatch = (c.name || "").toLowerCase().includes(q);
+      const locMatch = (c.location || "").toLowerCase().includes(q);
+
+      let coursesArr: string[] = [];
+      if (Array.isArray(c.courses)) {
+        coursesArr = c.courses;
+      } else if (typeof c.courses === "string") {
+        coursesArr = (c.courses as string).split(",").map((s) => s.trim());
+      }
+
+      const coursesMatch = coursesArr.some((cr) => (cr || "").toLowerCase().includes(q));
+      const matchesSearch = !q || nameMatch || locMatch || coursesMatch;
+
+      const catStr = (c.category || "").toString();
       const matchesCategory =
-        selectedCategoryFilter === "All" || c.category === selectedCategoryFilter;
+        selectedCategoryFilter === "All" ||
+        catStr.toLowerCase().includes(selectedCategoryFilter.toLowerCase()) ||
+        (selectedCategoryFilter === "Management" && (catStr === "Management" || catStr.includes("MBA")));
+
       return matchesSearch && matchesCategory;
     });
   }, [colleges, searchQuery, selectedCategoryFilter]);
