@@ -46,8 +46,8 @@ faqs:
   - question: What is the difficulty level of BVP CET?
     answer: >-
       BVP CET is generally considered moderately difficult, focusing more on
-      speed and basic concepts compared to [JEE
-      Main](/blog/all-about-jee-exam) or [CAT](/blog/all-about-cat-exam).
+      speed and basic concepts compared to [JEE Main](/blog/all-about-jee-exam)
+      or [CAT](/blog/all-about-cat-exam).
 location: Delhi NCR
 state: Delhi NCR
 ---

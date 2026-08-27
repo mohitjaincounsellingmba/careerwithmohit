@@ -111,7 +111,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 
 ## 🏛️ Detailed Profiles of Top Private Universities in Delhi NCR
 
-### 1. Amity University (Noida & Gurugram Campuses)
+### 1. [Amity University](/colleges/amity-noida) (Noida & Gurugram Campuses)
 - **Affiliated University**: Amity University Uttar Pradesh (Noida) / Amity University Haryana (Manesar)
 - **Annual Fee**: ₹3,20,000 – ₹3,50,000 per year
 - **Course Highlights**:
@@ -123,7 +123,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 ---
 
 ### 2. [GD Goenka University](/colleges/gd-goenka-university), Gurugram
-- **Affiliated University**: GD Goenka University, Haryana (*Private University - UGC Approved*)
+- **Affiliated University**: [GD Goenka University](/colleges/gd-goenka-university), Haryana (*Private University - UGC Approved*)
 - **Annual Fee**: Approx. ₹2,90,000 per year
 - **Course Highlights**:
   - Industry-aligned **BBA in Banking, Financial Services and Insurance (BFSI)**.
@@ -134,7 +134,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 ---
 
 ### 3. [Sharda University](/colleges/sharda-greater-noida), Greater Noida
-- **Affiliated University**: Sharda University (*Private University - UGC Approved*)
+- **Affiliated University**: [Sharda University](/colleges/sharda-greater-noida) (*Private University - UGC Approved*)
 - **Annual Fee**: Approx. ₹2,35,000 per year
 - **Course Highlights**:
   - Offers a dedicated **BBA in Banking and Finance** designed to build competencies in commercial banking, mutual funds, and treasury operations.
@@ -144,7 +144,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 ---
 
 ### 4. [Galgotias University](/colleges/galgotias-university), Greater Noida
-- **Affiliated University**: Galgotias University (*Private University - UGC Approved*)
+- **Affiliated University**: [Galgotias University](/colleges/galgotias-university) (*Private University - UGC Approved*)
 - **Annual Fee**: Approx. ₹1,25,000 per year
 - **Course Highlights**:
   - Known for delivering one of the **highest Return on Investment (ROI)** among private universities in Delhi NCR.
@@ -155,7 +155,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 ---
 
 ### 5. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
-- **Affiliated University**: Bennett University (*Private University by The Times Group - UGC Approved*)
+- **Affiliated University**: [Bennett University](/colleges/bennett-greater-noida) (*Private University by The Times Group - UGC Approved*)
 - **Annual Fee**: Approx. ₹3,40,000 per year
 - **Course Highlights**:
   - World-class infrastructure backed by **The Times Group**.

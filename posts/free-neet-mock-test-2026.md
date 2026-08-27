@@ -52,6 +52,8 @@ To help you measure your standing, we offer a high-fidelity **[Free NEET UG 2026
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the total duration and marks for NEET UG 2026?

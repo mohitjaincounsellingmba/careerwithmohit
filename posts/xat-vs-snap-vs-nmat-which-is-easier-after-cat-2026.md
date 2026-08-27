@@ -4,14 +4,23 @@ title: >-
   Strategy
 date: '2026-08-14'
 ab_test:
-  id: "xat-vs-snap-title-v1"
+  id: xat-vs-snap-title-v1
   variants:
     A:
-      title: "XAT vs SNAP vs NMAT: Which is Easier After CAT? [2026] — Complete Comparison & Strategy"
-      description: "Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus, difficulty level, time management, target colleges (XLRI, SIBM, NMIMS), and scoring strategy."
+      title: >-
+        XAT vs SNAP vs NMAT: Which is Easier After CAT? [2026] — Complete
+        Comparison & Strategy
+      description: >-
+        Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus,
+        difficulty level, time management, target colleges (XLRI, SIBM, NMIMS),
+        and scoring strategy.
     B:
-      title: "Failed CAT 2026? XAT vs SNAP vs NMAT Backup Plan & Step-by-Step Preparation Strategy"
-      description: "Didn't score high in CAT 2026? Learn how XAT, SNAP, and NMAT offer second chances for top-tier B-schools with cutoffs and strategies."
+      title: >-
+        Failed CAT 2026? XAT vs SNAP vs NMAT Backup Plan & Step-by-Step
+        Preparation Strategy
+      description: >-
+        Didn't score high in CAT 2026? Learn how XAT, SNAP, and NMAT offer
+        second chances for top-tier B-schools with cutoffs and strategies.
 category: MBA Admissions
 description: >-
   Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus,
@@ -188,7 +197,7 @@ XAT features a unique 'Decision Making' section, a separate General Knowledge & 
 No, NMAT by GMAC has zero negative marking. Candidates receive +3 marks for every correct answer and 0 marks for incorrect or unattempted questions, making it advantageous to attempt all questions.
 
 ### Which top colleges can I target through XAT, SNAP, and NMAT?
-Through XAT: XLRI Jamshedpur/Delhi, XIMB, IMT Ghaziabad, GIM Goa. Through SNAP: SIBM Pune, [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore). Through NMAT: [NMIMS Mumbai](/colleges/nmims-mumbai), NMIMS Bengaluru, K J Somaiya, and XIM University.
+Through XAT: [XLRI Jamshedpur](/colleges/xlri-jamshedpur)/Delhi, XIMB, IMT Ghaziabad, GIM Goa. Through SNAP: [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore). Through NMAT: [NMIMS Mumbai](/colleges/nmims-mumbai), NMIMS Bengaluru, K J Somaiya, and XIM University.
 
 ### How should I pivot my preparation from CAT to SNAP, NMAT, and XAT?
 For SNAP: Focus on rapid speed arithmetic, vocabulary, and direct logic puzzles. For NMAT: Practice timed sectional computer-adaptive tests without guessing recklessly. For XAT: Solve 10 years of past Decision Making sets and practice abstract Reading Comprehension.

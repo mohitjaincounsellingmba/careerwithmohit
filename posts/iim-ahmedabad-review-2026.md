@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[IIM Ahmedabad](/colleges/iim-a
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **IIM Ahmedabad** |
+| **Institution Name** | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** |
 | **Location & Campus** | Ahmedabad, Gujarat |
 | **Accreditation & Approvals** | UGC, Ministry of Education, EQUIS |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

@@ -66,7 +66,7 @@ The table below summarizes the key metrics for **ISB&M Gurgaon ([International S
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **ISB&M Gurgaon (International School of Business & Media)** |
+| **Institution Name** | **ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media))** |
 | **Location & Campus** | Sector 112, Gurugram |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

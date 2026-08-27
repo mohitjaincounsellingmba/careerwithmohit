@@ -66,7 +66,7 @@ The table below summarizes the key metrics for **[Accurate Institute of Manageme
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Accurate Institute of Management & Technology** |
+| **Institution Name** | **[Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology** |
 | **Location & Campus** | Knowledge Park III, Greater Noida |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

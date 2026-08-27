@@ -73,7 +73,7 @@ Symbiosis International (Deemed University), headquartered at its stunning Laval
 | **Accreditations & Approvals** | UGC, NAAC A++ Grade (3.58/4), AICTE, NIRF Top Ranked |
 | **Flagship Academic Streams** | MBA (SIBM/SCMHRD/SIIB), BBA (SCMS), BA LLB (SLS), B.Tech (SIT) |
 | **Accepted Entrance Exams** | SNAP (MBA), SET (BBA/UG), SITEEE (B.Tech), SLAT (Law) |
-| **Average Salary Package** | ₹23.50 LPA (SIBM Pune) / ₹22.80 LPA (SCMHRD) / ₹8.50 LPA (UG) |
+| **Average Salary Package** | ₹23.50 LPA ([SIBM Pune](/colleges/sibm-pune)) / ₹22.80 LPA (SCMHRD) / ₹8.50 LPA (UG) |
 
 ---
 

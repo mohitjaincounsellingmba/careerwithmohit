@@ -176,7 +176,7 @@ Qualifying cutoff (typically 80-85 percentile) is the minimum eligibility criter
 IIMs compute a weighted Composite Score (CS) comprising CAT Scaled Score (40-60% weightage), Class 10th and 12th board marks, Graduation performance, Work Experience points (peaking at 24-36 months), Academic Diversity bonus, and Gender Diversity points.
 
 ### Can a non-engineer get into top IIMs with a lower CAT percentile?
-Yes, non-engineers (from Commerce, Arts, Law, Medicine, Sciences) receive 3 to 5 additional diversity points at IIM Ahmedabad, Bangalore, Lucknow, and Kozhikode, enabling calls at 97-98 percentile where engineers might need 99.5+.
+Yes, non-engineers (from Commerce, Arts, Law, Medicine, Sciences) receive 3 to 5 additional diversity points at [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Lucknow, and Kozhikode, enabling calls at 97-98 percentile where engineers might need 99.5+.
 
 ### What is the IIM CAP (Common Admission Process) cutoff for 2026?
 The CAP cutoff for New and Baby IIMs (IIM Udaipur, Ranchi, Raipur, Trichy, Kashipur, Nagpur, Bodh Gaya, Jammu, Sambalpur, Sirmaur) is generally 92-94+ percentile overall for General category with 70-75 sectional cutoffs.

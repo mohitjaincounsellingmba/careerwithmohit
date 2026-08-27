@@ -62,7 +62,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Atlas SkillTech University, Mumbai |
+| **Full Institutional Name** | [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai), Mumbai |
 | **Location & Region** | Mumbai, Mumbai |
 | **University Type & Status** | Private University (State-of-the-Art Urban University) |
 | **Established Year** | 2021 (ISME & ISDI Legacy since 2013) |

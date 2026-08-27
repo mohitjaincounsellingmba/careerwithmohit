@@ -52,7 +52,7 @@ Here is the exhaustive **[SPJIMR Mumbai](/colleges/spjimr-mumbai) PGDM Placement
 
 ---
 
-## 1. SPJIMR Mumbai Placement 2025: Key Highlights
+## 1. [SPJIMR Mumbai](/colleges/spjimr-mumbai) Placement 2025: Key Highlights
 
 | Metric | Statistics (2025 Graduating Class) |
 | :--- | :--- |

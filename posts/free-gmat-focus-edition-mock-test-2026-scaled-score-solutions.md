@@ -68,6 +68,8 @@ With the removal of Sentence Correction and the introduction of the dedicated **
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Are these mock tests free to attempt?

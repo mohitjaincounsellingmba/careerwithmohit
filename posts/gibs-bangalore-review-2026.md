@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[GIBS Business School](/college
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **GIBS Business School** |
+| **Institution Name** | **[GIBS Business School](/colleges/gibs-bangalore)** |
 | **Location & Campus** | Bannerghatta Road, Bangalore |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

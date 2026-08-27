@@ -88,7 +88,7 @@ graph LR
 
 ### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad) (IIMA)
 *   **Average Salary**: ₹34.45 LPA | **Median Salary**: ₹31.50 LPA
-*   **IPRS Audited Reporting**: Adhering to the Indian Placement Reporting Standards (IPRS), IIM Ahmedabad maintains complete transparency across domestic base pay and performance incentives.
+*   **IPRS Audited Reporting**: Adhering to the Indian Placement Reporting Standards (IPRS), [IIM Ahmedabad](/colleges/iim-ahmedabad) maintains complete transparency across domestic base pay and performance incentives.
 *   **Top Recruiters**: McKinsey & Co. (largest recruiter with 18+ offers), Boston Consulting Group (BCG), Bain & Co., Kearney, Strategy&, Goldman Sachs, and Tata Administrative Services (TAS).
 *   **Cluster Placement System**: IIMA conducted placements across three distinct cohorts, ensuring equal recruiter access without interview burnout.
 

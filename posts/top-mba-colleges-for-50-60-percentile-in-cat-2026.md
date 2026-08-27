@@ -115,7 +115,7 @@ Renowned for its industry-collaborated PGDM programs in **Supply Chain Managemen
 *   **Average CTC:** ₹6.80 LPA.
 
 ### 5. Lexicon MILE & [RIIM Pune](/colleges/riim-pune)
-For candidates seeking options in Maharashtra's industrial hub, Lexicon MILE and RIIM Pune offer strong corporate engagement, foreign educational tours, and intensive pre-placement training.
+For candidates seeking options in Maharashtra's industrial hub, Lexicon MILE and [RIIM Pune](/colleges/riim-pune) offer strong corporate engagement, foreign educational tours, and intensive pre-placement training.
 *   **Average CTC:** ₹7.00 – ₹8.20 LPA.
 
 ---
@@ -152,7 +152,7 @@ For candidates seeking options in Maharashtra's industrial hub, Lexicon MILE and
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Can I get a good MBA college with a 50-60 percentile in CAT?
-Yes. Reputable AICTE-approved B-schools like GL Bajaj (Greater Noida), ITS Ghaziabad, FIIB Delhi, Lloyd Business School, Lexicon MILE Pune, and ISBR Bangalore offer quality management programs with average packages between INR 6.5 LPA and INR 9.0 LPA.
+Yes. Reputable AICTE-approved B-schools like GL Bajaj (Greater Noida), ITS Ghaziabad, FIIB Delhi, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida), Lexicon MILE Pune, and ISBR Bangalore offer quality management programs with average packages between INR 6.5 LPA and INR 9.0 LPA.
 
 ### Is direct admission possible for 50-60 percentile candidates in CAT?
 Yes, many established private universities and autonomous B-schools offer profile-based direct admission, management quota seats, or accept alternate national exams like CMAT, MAT, and ATMA.

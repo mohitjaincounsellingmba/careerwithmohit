@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[Bennett University](/colleges/
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Bennett University** |
+| **Institution Name** | **[Bennett University](/colleges/bennett-greater-noida)** |
 | **Location & Campus** | Greater Noida, Greater Noida |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[Hierank Business School](/coll
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Hierank Business School** |
+| **Institution Name** | **[Hierank Business School](/colleges/hierank-noida)** |
 | **Location & Campus** | Sector 62, Noida |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

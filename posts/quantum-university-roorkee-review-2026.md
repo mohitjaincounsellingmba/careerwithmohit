@@ -57,7 +57,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Quantum University, Roorkee |
+| **Full Institutional Name** | [Quantum University](/colleges/quantum-university-roorkee), Roorkee |
 | **Location & Region** | Roorkee, Uttarakhand |
 | **University Type & Status** | Private University (UGC Approved, Interdisciplinary Pedagogy) |
 | **Established Year** | 2008 (University status 2017) |

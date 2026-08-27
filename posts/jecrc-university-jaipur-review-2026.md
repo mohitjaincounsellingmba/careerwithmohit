@@ -63,7 +63,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | JECRC University, Jaipur |
+| **Full Institutional Name** | [JECRC University](/colleges/jecrc-jaipur), Jaipur |
 | **Location & Region** | Jaipur, Jaipur |
 | **University Type & Status** | Private University (UGC Approved, NAAC Accredited) |
 | **Established Year** | 2012 (Group legacy since 2000) |

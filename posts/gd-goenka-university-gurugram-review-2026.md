@@ -68,7 +68,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | GD Goenka University, Gurugram |
+| **Full Institutional Name** | [GD Goenka University](/colleges/gd-goenka-university), Gurugram |
 | **Location & Region** | Gurugram, Haryana |
 | **University Type & Status** | Private University (UGC Approved, GD Goenka Group) |
 | **Established Year** | 2013 |

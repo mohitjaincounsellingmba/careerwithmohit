@@ -57,7 +57,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | PES University, Bangalore |
+| **Full Institutional Name** | [PES University](/colleges/pes-university), Bangalore |
 | **Location & Region** | Bangalore, Bangalore |
 | **University Type & Status** | Private University (UGC Approved, Top Karnataka Tech University) |
 | **Established Year** | 1972 (PESIT legacy; University status 2013) |

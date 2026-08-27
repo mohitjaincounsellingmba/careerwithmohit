@@ -59,7 +59,7 @@ The table below summarizes the key metrics for **[Delhi School of Business (VIPS
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Delhi School of Business (VIPS-TC)** |
+| **Institution Name** | **[Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)** |
 | **Location & Campus** | Pitampura, North-West Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

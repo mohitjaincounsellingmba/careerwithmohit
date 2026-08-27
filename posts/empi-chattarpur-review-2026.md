@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[EMPI Business School](/college
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **EMPI Business School** |
+| **Institution Name** | **[EMPI Business School](/colleges/empi-delhi)** |
 | **Location & Campus** | Chattarpur, South Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

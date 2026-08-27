@@ -138,7 +138,7 @@ Securing admission to S.P. Jain Institute of Management and Research (SPJIMR) fo
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **SPJIMR Mumbai**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**:
 
 ### 👍 Why Choose SPJIMR Mumbai? (Pros)
 - **Stellar** average CTC of ~₹33+ LPA, competing directly with [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta

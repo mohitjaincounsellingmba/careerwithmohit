@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[IIM Calcutta](/colleges/iim-ca
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **IIM Calcutta** |
+| **Institution Name** | **[IIM Calcutta](/colleges/iim-calcutta)** |
 | **Location & Campus** | Kolkata, West Bengal |
 | **Accreditation & Approvals** | Triple Crown (AACSB, AMBA, EQUIS) |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

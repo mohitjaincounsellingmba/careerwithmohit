@@ -70,7 +70,7 @@ Founded by the Times of India Group, [Bennett University](/colleges/bennett-grea
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Bennett University, Greater Noida |
+| **Full Institutional Name** | [Bennett University](/colleges/bennett-greater-noida), Greater Noida |
 | **Location & Region** | Greater Noida, Delhi NCR |
 | **University Type & Status** | Private University (Times of India Group) |
 | **Established Year** | 2016 |

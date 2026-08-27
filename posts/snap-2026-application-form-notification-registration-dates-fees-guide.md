@@ -149,7 +149,7 @@ graph TD
 ### 2. Symbiosis Programme Fee (Mandatory for Admission)
 * In addition to the test fee, you must apply to individual Symbiosis institutes and programmes (e.g., [SIBM Pune](/colleges/sibm-pune) MBA, SCMHRD MBA-HR, [SIBM Bangalore](/colleges/sibm-bangalore) MBA).
 * **Cost:** **₹1,000 per programme per institute**.
-* *Example:* If you apply for SNAP (2 attempts) + SIBM Pune (General MBA) + SCMHRD (MBA) + SIBM Bangalore (MBA), your total investment will be: `(₹2,550 × 2) + (₹1,000 × 3) = ₹8,100`.
+* *Example:* If you apply for SNAP (2 attempts) + [SIBM Pune](/colleges/sibm-pune) (General MBA) + SCMHRD (MBA) + [SIBM Bangalore](/colleges/sibm-bangalore) (MBA), your total investment will be: `(₹2,550 × 2) + (₹1,000 × 3) = ₹8,100`.
 
 *Payment Methods:* Net Banking, Credit Cards, Debit Cards, and UPI gateways. All registration fees are strictly non-refundable and non-transferable.
 

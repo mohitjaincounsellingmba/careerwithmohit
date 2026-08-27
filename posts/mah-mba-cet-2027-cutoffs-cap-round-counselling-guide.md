@@ -1,10 +1,11 @@
 ---
-title: >-
-  MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide: JBIMS, SIMSREE, PUMBA
+title: 'MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide: JBIMS, SIMSREE, PUMBA'
 date: '2026-08-26'
 category: Exam Guide
 description: >-
-  Complete guide to MAH MBA CET 2027 cutoffs, score vs percentile mapping, CAP round registration process, Option Form strategy, and OMS quota rules for JBIMS, SIMSREE, PUMBA & top b-schools.
+  Complete guide to MAH MBA CET 2027 cutoffs, score vs percentile mapping, CAP
+  round registration process, Option Form strategy, and OMS quota rules for
+  JBIMS, SIMSREE, PUMBA & top b-schools.
 keywords:
   - MAH MBA CET 2027 cutoffs
   - JBIMS MBA CET cutoff percentile 2027
@@ -15,21 +16,38 @@ keywords:
   - OMS quota rules MAH MBA CET
   - Maharashtra MBA admission CAP registration
   - top MBA colleges under MAH CET 2027
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What raw score in MAH MBA CET 2027 is required for JBIMS (Jamnalal Bajaj)?
     answer: >-
-      To secure a seat at JBIMS Mumbai through the Maharashtra State (MS) quota, candidates generally need a raw score of 138-145+ out of 200, corresponding to a 99.93+ percentile. For OMS candidates, the cut-off is even higher (99.98+ percentile).
+      To secure a seat at JBIMS Mumbai through the Maharashtra State (MS) quota,
+      candidates generally need a raw score of 138-145+ out of 200,
+      corresponding to a 99.93+ percentile. For OMS candidates, the cut-off is
+      even higher (99.98+ percentile).
   - question: How many CAP Rounds are conducted for MAH MBA CET admission?
     answer: >-
-      The State Common Entrance Test Cell, Maharashtra typically conducts 3 centralized CAP Rounds, followed by an Institutional / Non-CAP vacancy round for leftover seats.
-  - question: Can Outside Maharashtra State (OMS) students apply through MAH CET CAP rounds?
+      The State Common Entrance Test Cell, Maharashtra typically conducts 3
+      centralized CAP Rounds, followed by an Institutional / Non-CAP vacancy
+      round for leftover seats.
+  - question: >-
+      Can Outside Maharashtra State (OMS) students apply through MAH CET CAP
+      rounds?
     answer: >-
-      Yes, OMS candidates can apply under the All India Quota (15% seats in un-aided private colleges and university departments) using MAH CET, CAT, or CMAT scores.
+      Yes, OMS candidates can apply under the All India Quota (15% seats in
+      un-aided private colleges and university departments) using MAH CET, CAT,
+      or CMAT scores.
+location: Mumbai
+state: Maharashtra
 ---
 
 The **MAH MBA/MMS CET** (Maharashtra Master of Business Administration Common Entrance Test) is one of the most competitive state-level entrance examinations in India. Conducted annually by the State CET Cell, Maharashtra, it serves as the gateway to over 330 management institutes across Maharashtra, offering prestigious Master of Management Studies (MMS) and MBA degrees.
 
-From the coveted **"CEO Factory" JBIMS (Jamnalal Bajaj Institute of Management Studies)** to **SIMSREE** and **PUMBA**, CET scores unlock top-tier management education at a fraction of the fee charged by private b-schools.
+From the coveted **"CEO Factory" JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))** to **SIMSREE** and **PUMBA**, CET scores unlock top-tier management education at a fraction of the fee charged by private b-schools.
 
 In this definitive **MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide**, we detail score vs. percentile predictions, college-wise cutoff percentiles, step-by-step CAP registration guidelines, Option Form strategies, and OMS (Outside Maharashtra State) quota rules.
 
@@ -37,7 +55,7 @@ In this definitive **MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide**, w
 
 > 📊 **Predict Your MBA College & CET Percentile in 2 Minutes!**
 >
-> [👉 Use the Free MAH CET Score vs Percentile & College Predictor Tool](/tools/mock-tests)
+> [👉 Use the Free MAH CET Score vs Percentile & College Predictor Tool](/mock-tests)
 
 ---
 
@@ -49,14 +67,14 @@ Due to normalized scoring across multiple exam slots, percentile calculation dep
 
 | Raw Score (Out of 200) | Expected Percentile Range | Target B-School Tier |
 | :--- | :--- | :--- |
-| **142 - 155+** | **99.95 - 99.99 Percentile** | JBIMS Mumbai (MS & OMS Quota) |
+| **142 - 155+** | **99.95 - 99.99 Percentile** | [JBIMS Mumbai](/colleges/jbims-mumbai) (MS & OMS Quota) |
 | **132 - 141** | **99.85 - 99.94 Percentile** | SIMSREE Mumbai, Sydenham |
-| **122 - 131** | **99.50 - 99.84 Percentile** | Welingkar Mumbai (MMS), PUMBA Pune |
+| **122 - 131** | **99.50 - 99.84 Percentile** | Welingkar Mumbai (MMS), [PUMBA Pune](/colleges/pumba-pune) |
 | **112 - 121** | **99.00 - 99.49 Percentile** | SIES Mumbai, MET Mumbai, XIMR Mumbai |
 | **102 - 111** | **97.50 - 98.99 Percentile** | Chetna Institute, NL Dalmia, CoEP Pune |
 | **92 - 101** | **95.00 - 97.49 Percentile** | IES MCRC, Rizvi, Vidyalankar, Alkesh Dinesh |
 | **82 - 91** | **90.00 - 94.99 Percentile** | Indira Pune, DY Patil Akurdi, SISOM |
-| **70 - 81** | **80.00 - 89.99 Percentile** | AISSMS Pune, Akemi, ASM IBMR, MIT-SOB |
+| **70 - 81** | **80.00 - 89.99 Percentile** | AISSMS Pune, Akemi, [ASM IBMR](/colleges/asm-ibmr), MIT-SOB |
 
 ---
 

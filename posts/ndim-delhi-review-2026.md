@@ -65,7 +65,7 @@ The table below summarizes the key metrics for **[New Delhi Institute of Managem
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **New Delhi Institute of Management (NDIM)** |
+| **Institution Name** | **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** |
 | **Location & Campus** | Tughlakabad, South Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

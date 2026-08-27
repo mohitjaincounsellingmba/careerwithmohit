@@ -58,7 +58,7 @@ The table below summarizes the key metrics for **[BML Munjal University](/colleg
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **BML Munjal University (BMU)** |
+| **Institution Name** | **[BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU)** |
 | **Location & Campus** | NH-8, Gurugram Region |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

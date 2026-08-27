@@ -65,7 +65,7 @@ The table below summarizes the key metrics for **[Institute of Marketing & Manag
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Institute of Marketing & Management (IMM)** |
+| **Institution Name** | **[Institute of Marketing & Management (IMM)](/colleges/imm-delhi)** |
 | **Location & Campus** | Qutab Institutional Area, South Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

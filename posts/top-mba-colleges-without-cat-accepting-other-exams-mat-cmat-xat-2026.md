@@ -74,7 +74,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 
 | Entrance Exam | Conducting Body | Exam Period | Format Highlights | Target Top Colleges |
 | :--- | :--- | :--- | :--- | :--- |
-| **XAT** | XLRI Jamshedpur | 1st Sunday of January | 3.5 Hours, Includes Decision Making & Essay | [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [XLRI Delhi](/colleges/xlri-jamshedpur), [XIMB](/colleges/xim-university), [IMT](/colleges/imt-ghaziabad) |
+| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | 1st Sunday of January | 3.5 Hours, Includes Decision Making & Essay | [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [XLRI Delhi](/colleges/xlri-jamshedpur), [XIMB](/colleges/xim-university), [IMT](/colleges/imt-ghaziabad) |
 | **SNAP** | Symbiosis International | December (3 Slots) | 60 Mins Speed Test, 60 Questions, -0.25 Neg | [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore) |
 | **NMAT** | GMAC | Oct to Dec (75-day window) | Adaptive, 3 Attempts Allowed, **No Negative Marking** | [NMIMS Mumbai](/colleges/nmims-mumbai), [NMIMS Bangalore](/colleges/nmims-bangalore), [K J Somaiya](/colleges/kj-somaiya-mumbai), [XIMB](/colleges/xim-university) |
 | **CMAT** | NTA (National Testing Agency) | April / May | 3 Hours, 100 Questions, Moderate Difficulty | [JBIMS](/colleges/jbims-mumbai), [GIM Goa](/colleges/goa-institute-of-management), [Great Lakes](/colleges/great-lakes-campuses), [BIMTECH](/colleges/bimtech-greater-noida) |
@@ -94,7 +94,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 *   **Average Placement:** ₹32.70 LPA | Highest: ₹75.00 LPA | Total Fees: ₹28.50 Lakhs.
 *   **Why It's Elite:** XLRI is Asia's oldest management institute and is considered the undisputed #1 B-school in India for HR, with BM placements on par with [IIM Ahmedabad](/colleges/iim-ahmedabad) and Calcutta.
 
-### 2. SIBM Pune & [SCMHRD Pune](/colleges/scmhrd-pune) (Accepts SNAP)
+### 2. [SIBM Pune](/colleges/sibm-pune) & [SCMHRD Pune](/colleges/scmhrd-pune) (Accepts SNAP)
 *   **Flagship Program:** MBA in Marketing, HR, Finance, and Operations (Symbiosis International University).
 *   **Average Placement:** ₹28.05 LPA (SIBM) / ₹23.71 LPA (SCMHRD) | Total Fees: ₹24.50 Lakhs.
 *   **Why It's Elite:** World-class hilltop campus at Lavale, Pune, top-tier FMCG/Consulting campus recruitment, and stellar alumni network.
@@ -132,7 +132,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 
 1.  **Safety Against Bad Exam Days:** CAT happens once a year on a single day. A bad slot, health issue, or panic can ruin your preparation. Non-CAT exams provide multiple independent attempts.
 2.  **Candidate-Friendly Question Patterns:** NMAT has **no negative marking** and allows you to choose your section order. SNAP gives 60 minutes for 60 questions with direct, straightforward questions.
-3.  **Specialized Domain Superiority:** For Human Resource Management, **XLRI (via XAT)** and **SCMHRD (via SNAP)** outperform almost all IIMs except IIM Ahmedabad and Calcutta.
+3.  **Specialized Domain Superiority:** For Human Resource Management, **XLRI (via XAT)** and **SCMHRD (via SNAP)** outperform almost all IIMs except [IIM Ahmedabad](/colleges/iim-ahmedabad) and Calcutta.
 4.  **Flexible Registration Windows:** CMAT and MAT exams are conducted in the spring and summer (February, April, May), allowing you to apply with fresh scores right before academic sessions begin.
 
 ---
@@ -148,7 +148,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best MBA college in India without CAT?
-XLRI Jamshedpur (via XAT), SIBM Pune and SCMHRD (via SNAP), NMIMS Mumbai (via NMAT), and JBIMS Mumbai (via MAH MBA CET) are among India's top B-schools that do not require CAT.
+XLRI Jamshedpur (via XAT), SIBM Pune and SCMHRD (via SNAP), [NMIMS Mumbai](/colleges/nmims-mumbai) (via NMAT), and [JBIMS Mumbai](/colleges/jbims-mumbai) (via MAH MBA CET) are among India's top B-schools that do not require CAT.
 
 ### Which top MBA colleges accept XAT scores?
 Apart from XLRI Jamshedpur & Delhi NCR, institutes like [SPJIMR Mumbai](/colleges/spjimr-mumbai), XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi), and Great Lakes accept XAT.

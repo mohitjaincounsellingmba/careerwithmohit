@@ -28,7 +28,7 @@ The **Shailesh J. Mehta School of Management (SJMSOM)** at **[IIT Bombay](/colle
 
 The **2025 MBA placement season** at SJMSOM was marked by outstanding recruiter confidence, achieving **100% placements** with strong participation across consulting, investment banking, operations, and product management.
 
-Here is the exhaustive analysis of the **SJMSOM IIT Bombay MBA Placement Report 2025**.
+Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bombay) MBA Placement Report 2025**.
 
 ---
 

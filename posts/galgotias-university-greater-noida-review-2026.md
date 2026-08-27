@@ -70,7 +70,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Galgotias University, Greater Noida |
+| **Full Institutional Name** | [Galgotias University](/colleges/galgotias-university), Greater Noida |
 | **Location & Region** | Greater Noida, Delhi NCR |
 | **University Type & Status** | Private University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 2011 |

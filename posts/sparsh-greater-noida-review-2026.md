@@ -61,7 +61,7 @@ The table below summarizes the key metrics for **[Sparsh Global Business School 
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Sparsh Global Business School (SGBS)** |
+| **Institution Name** | **[Sparsh Global Business School (SGBS)](/colleges/sparsh-global-greater-noida)** |
 | **Location & Campus** | Greater Noida, Greater Noida |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

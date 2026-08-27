@@ -79,8 +79,8 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
          │                         │                         │
          ▼                         ▼                         ▼
    Tier 1 (95-99+ %ile)      Tier 2 (80-92 %ile)       Tier 3 & High ROI (55-75 %ile)
-   • FMS Delhi (₹2L Fee)     • IMI New Delhi           • BIMTECH (Spec.)
-   • MDI Gurgaon             • FORE School             • [Jaipuria Noida](/colleges/jaipuria-noida), NDIM
+   • [FMS Delhi](/colleges/fms-delhi) (₹2L Fee)     • IMI New Delhi           • BIMTECH (Spec.)
+   • [MDI Gurgaon](/colleges/mdi-gurgaon)             • FORE School             • [Jaipuria Noida](/colleges/jaipuria-noida), NDIM
    • IIT Delhi DMS           • LBSIM Delhi             • JIMS Rohini, GL Bajaj
    • [IIFT Delhi](/colleges/iift-delhi)              • BIMTECH Gr. Noida       • ITS Ghaziabad, FIIB
 ```
@@ -132,9 +132,9 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
 
 ## 💡 Expert Recommendations for Selecting Delhi NCR B-Schools
 
-1.  **If CAT Score is 95+:** Apply to FMS Delhi, MDI Gurgaon, DMS IIT Delhi, and IIFT Delhi without hesitation.
+1.  **If CAT Score is 95+:** Apply to FMS Delhi, MDI Gurgaon, DMS IIT Delhi, and [IIFT Delhi](/colleges/iift-delhi) without hesitation.
 2.  **If CAT Score is 80 to 90:** Target [FORE School of Management](/colleges/fore-school-delhi), IMI New Delhi, LBSIM Delhi, and BIMTECH Greater Noida for strong BFSI and consulting placement trajectories.
-3.  **If CAT Score is 60 to 80:** Choose Jaipuria Noida, SOIL Gurgaon, NDIM New Delhi, or JIMS Rohini to maximize ROI and dual specializations.
+3.  **If CAT Score is 60 to 80:** Choose [Jaipuria Noida](/colleges/jaipuria-noida), SOIL Gurgaon, NDIM New Delhi, or JIMS Rohini to maximize ROI and dual specializations.
 4.  **If CAT Score is Under 60:** Leverage direct counseling and profile rounds at GL Bajaj Greater Noida, ITS Ghaziabad, and [Lloyd Business School](/colleges/lloyd-business-school-greater-noida).
 
 ---
@@ -150,7 +150,7 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best MBA college in Delhi NCR accepting CAT score?
-FMS Delhi (Faculty of Management Studies) and MDI Gurgaon are the top-ranked B-schools in Delhi NCR, followed by IIT Delhi DMS, IIFT Delhi, IMI New Delhi, FORE School of Management, and LBSIM Delhi.
+FMS Delhi (Faculty of Management Studies) and MDI Gurgaon are the top-ranked B-schools in Delhi NCR, followed by IIT Delhi DMS, IIFT Delhi, IMI New Delhi, [FORE School of Management](/colleges/fore-school-delhi), and LBSIM Delhi.
 
 ### What is the CAT cutoff for FMS Delhi and MDI Gurgaon?
 FMS Delhi typically requires a 99.3+ percentile in CAT for General category. MDI Gurgaon shortlists candidates in the 94-96+ percentile range.
@@ -159,7 +159,7 @@ FMS Delhi typically requires a 99.3+ percentile in CAT for General category. MDI
 FMS Delhi offers the highest ROI in India with a 2-year fee of around INR 2 Lakhs and average placements exceeding INR 34 LPA. Other high ROI options include DSE Delhi, DFS Delhi, JIMS Rohini, and GL Bajaj Greater Noida.
 
 ### Are there good MBA colleges in Noida and Greater Noida accepting CAT?
-Yes, prominent choices include BIMTECH Greater Noida (80+ %ile), [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Noida (70-75 %ile), GL Bajaj Greater Noida (55-60 %ile), and Lloyd Business School.
+Yes, prominent choices include BIMTECH Greater Noida (80+ %ile), [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Noida (70-75 %ile), GL Bajaj Greater Noida (55-60 %ile), and [Lloyd Business School](/colleges/lloyd-business-school-greater-noida).
 
 ### Can I get direct admission in Delhi NCR MBA colleges without high CAT percentiles?
 Yes, many recognized private institutions in Delhi, Noida, and Greater Noida offer profile-based direct admission, management quota seats, or accept alternate scores from MAT and CMAT.

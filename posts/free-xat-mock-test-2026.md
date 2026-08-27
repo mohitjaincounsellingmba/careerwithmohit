@@ -54,6 +54,8 @@ To help you measure your standing, we offer a high-fidelity **[Free XAT 2026 Moc
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is unique about the XAT exam?
@@ -62,7 +64,7 @@ XAT includes a mandatory Decision Making section and an Essay Writing component,
 ### Is there negative marking for unattempted questions in XAT?
 Yes, in XAT, a minor penalty of -0.10 marks per question applies if more than 8 consecutive questions are left unattempted.
 
-### What is the target percentile for XLRI Jamshedpur?
+### What is the target percentile for [XLRI Jamshedpur](/colleges/xlri-jamshedpur)?
 For BM (Business Management), a percentile of 96+ is required for male candidates and 93+ for female candidates.
 
 

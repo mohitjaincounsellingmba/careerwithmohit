@@ -58,7 +58,7 @@ The table below summarizes the key metrics for **[Amity University](/colleges/am
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Amity University (Mumbai Campus)** |
+| **Institution Name** | **[Amity University](/colleges/amity-noida) (Mumbai Campus)** |
 | **Location & Campus** | Panvel, Greater Mumbai |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

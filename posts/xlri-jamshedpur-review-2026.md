@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[XLRI Jamshedpur](/colleges/xlr
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **XLRI Jamshedpur** |
+| **Institution Name** | **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** |
 | **Location & Campus** | Jamshedpur, Jharkhand |
 | **Accreditation & Approvals** | AACSB, AMBA, AICTE Approved |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

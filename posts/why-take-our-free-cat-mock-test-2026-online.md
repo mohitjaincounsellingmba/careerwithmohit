@@ -68,6 +68,8 @@ Here is your 3-step blueprint to mastering CAT 2026 using realistic mocks.
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the CAT 2026 exam?

@@ -190,7 +190,7 @@ Be honest and frame the gap year constructively by showing tangible achievements
 STAR stands for Situation (context), Task (challenge faced), Action (your specific contribution), and Result (quantifiable impact like % revenue increase or hours saved).
 
 ### Can freshers get into top IIMs without work experience?
-Yes, freshers represent 25% to 40% of batches at [IIM Ahmedabad](/colleges/iim-ahmedabad), Calcutta, Bangalore, and FMS Delhi. Freshers can compensate for work experience with high CAT percentiles, strong academic records, and notable extracurricular leadership.
+Yes, freshers represent 25% to 40% of batches at [IIM Ahmedabad](/colleges/iim-ahmedabad), Calcutta, Bangalore, and [FMS Delhi](/colleges/fms-delhi). Freshers can compensate for work experience with high CAT percentiles, strong academic records, and notable extracurricular leadership.
 
 ---
 

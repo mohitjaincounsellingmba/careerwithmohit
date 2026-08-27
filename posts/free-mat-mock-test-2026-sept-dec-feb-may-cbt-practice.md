@@ -32,6 +32,12 @@ keywords:
   - mat 2026 score vs percentile
   - free mock test series 2026
   - online exam preparation 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -66,6 +72,8 @@ To help you secure a **650+ Composite Score (95+%ile)**, **CareerWithMohit** pro
 > [👉 **Start Free MAT 2026/27 CBT Mock Test (150 Questions | 120 Mins)**](https://www.careerwithmohit.online/tools/mat-mock-test)
 >
 > *Supports Sept, Dec, Feb & May MAT sessions — No login barriers.*
+
+---
 
 ---
 

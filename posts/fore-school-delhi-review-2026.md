@@ -58,7 +58,7 @@ The table below summarizes the key metrics for **[FORE School of Management](/co
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **FORE School of Management Delhi** |
+| **Institution Name** | **[FORE School of Management](/colleges/fore-school-delhi) Delhi** |
 | **Location & Campus** | New Delhi, Delhi NCR |
 | **Accreditation & Approvals** | SAQS, NBA Accredited, AICTE Approved |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

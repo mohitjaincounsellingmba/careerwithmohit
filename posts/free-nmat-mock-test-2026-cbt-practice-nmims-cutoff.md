@@ -58,11 +58,13 @@ To give you the exact real-exam feel, **CareerWithMohit** has launched the **Off
 
 ---
 
-> 🎯 **Benchmark your NMIMS Mumbai eligibility now!**
+> 🎯 **Benchmark your [NMIMS Mumbai](/colleges/nmims-mumbai) eligibility now!**
 >
 > [👉 **Start Free NMAT 2026 CBT Mock Test (108 Questions | 120 Mins)**](/nmat-mock-test)
 >
 > *No login walls — Instant Scaled Score (/360) & Sectional Cutoff Tracker.*
+
+---
 
 ---
 

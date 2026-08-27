@@ -214,7 +214,7 @@ IIMs use a standard statistical normalization procedure:
 Historically, an overall raw score of 76 to 82 marks out of 198 (approx 38-41% accuracy with around 26-28 correct questions) is sufficient to achieve a 99+ percentile in CAT.
 
 ### What is considered a 'good score' in CAT for top IIMs?
-For old IIMs (IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, Indore) and FMS Delhi, a good score is 99+ percentile for General category (76+ marks), and 95+ percentile for New/Baby IIMs (58-62 marks).
+For old IIMs ([IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Calcutta, Lucknow, Kozhikode, Indore) and [FMS Delhi](/colleges/fms-delhi), a good score is 99+ percentile for General category (76+ marks), and 95+ percentile for New/Baby IIMs (58-62 marks).
 
 ### How does CAT normalisation work across different slots?
 IIMs use a mean and standard deviation-based scaling formula across Slot 1, Slot 2, and Slot 3 to equalize question paper difficulty differences before computing your final scaled score and percentile.

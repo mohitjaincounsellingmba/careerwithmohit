@@ -32,6 +32,12 @@ keywords:
   - cat 2026 score vs percentile
   - free mock test series 2026
   - online exam preparation 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the pattern of the CAT 2026 exam?
     answer: >-
@@ -65,6 +71,8 @@ To help you benchmark your preparation under authentic exam conditions, **Career
 > [👉 **Start Free CAT 2026 Full Mock Test (68 Qs | 120 Mins)**](/cat-mock-test)
 >
 > *No credit card or login barriers — Instant AI Scorecard & IIM Call Benchmarking.*
+
+---
 
 ---
 

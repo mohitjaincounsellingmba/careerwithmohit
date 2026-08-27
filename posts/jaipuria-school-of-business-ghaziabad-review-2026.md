@@ -58,7 +58,7 @@ The table below summarizes the key metrics for **[Jaipuria School of Business](/
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Jaipuria School of Business (JSB)** |
+| **Institution Name** | **[Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (JSB)** |
 | **Location & Campus** | Indirapuram, Ghaziabad |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

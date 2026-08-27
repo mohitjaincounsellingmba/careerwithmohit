@@ -133,7 +133,7 @@ Securing admission to Alliance University, Bangalore for the 2026 intake follows
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **Alliance University Bangalore**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[Alliance University Bangalore](/colleges/alliance-university-bangalore)**:
 
 ### 👍 Why Choose Alliance University Bangalore? (Pros)
 - **AMBA** Accreditation for Alliance School of Business placing it among elite global management institutes

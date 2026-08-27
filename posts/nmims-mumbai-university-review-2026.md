@@ -84,7 +84,7 @@ SVKM's NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institut
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-SVKM’s NMIMS (Narsee Monjee Institute of Management Studies) offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |
@@ -115,7 +115,7 @@ When comparing the annual tuition fees against the average placement compensatio
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **NMIMS Mumbai** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[NMIMS Mumbai](/colleges/nmims-mumbai)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.

@@ -66,7 +66,7 @@ The table below summarizes the key metrics for **[ISME Bangalore](/colleges/isme
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **ISME Bangalore (School of Management Excellence)** |
+| **Institution Name** | **[ISME Bangalore](/colleges/isme-bangalore) (School of Management Excellence)** |
 | **Location & Campus** | Sarjapur Road, Bangalore |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

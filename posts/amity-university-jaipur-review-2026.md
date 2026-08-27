@@ -67,7 +67,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Amity University, Jaipur |
+| **Full Institutional Name** | [Amity University](/colleges/amity-noida), Jaipur |
 | **Location & Region** | Jaipur, Jaipur |
 | **University Type & Status** | Private University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 2008 |

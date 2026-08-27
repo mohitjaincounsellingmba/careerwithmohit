@@ -64,7 +64,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Chitkara University, Rajpura / Punjab |
+| **Full Institutional Name** | [Chitkara University](/colleges/chitkara-university), Rajpura / Punjab |
 | **Location & Region** | Rajpura, Punjab |
 | **University Type & Status** | Private University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 2010 (Chitkara Group legacy since 1998) |

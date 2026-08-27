@@ -71,9 +71,11 @@ In this comprehensive guide, we compare the **best mock test providers for CAT, 
 > * [👉 **Take Free CAT 2026 CBT Mock Test (68 Qs | 120 Mins)**](/cat-mock-test)
 > * [👉 **Take Free XAT 2027 CBT Mock Test (Decision Making & DM Predictor)**](/tools/mock-test/xat/)
 > * [👉 **Take Free NMAT 2026 Full Practice Exam (NMIMS Predictor)**](/nmat-mock-test)
-> * [👉 **Take Free SNAP 2026 60-Min Speed Mock Test (SIBM Pune Predictor)**](/tools/mock-test/snap/)
+> * [👉 **Take Free SNAP 2026 60-Min Speed Mock Test ([SIBM Pune](/colleges/sibm-pune) Predictor)**](/tools/mock-test/snap/)
 >
 > *No credit card or login barriers — Instant AI Scorecard, Sectional Analytics, & Call Benchmarks.*
+
+---
 
 ---
 

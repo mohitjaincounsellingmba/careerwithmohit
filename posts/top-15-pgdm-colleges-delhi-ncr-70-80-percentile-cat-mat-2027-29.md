@@ -1,8 +1,12 @@
 ---
-title: 'Top 15 PGDM Colleges in Delhi NCR Accepting 70-80 Percentile in CAT / MAT (2027-29)'
+title: >-
+  Top 15 PGDM Colleges in Delhi NCR Accepting 70-80 Percentile in CAT / MAT
+  (2027-29)
 date: '2026-08-27'
 description: >-
-  Looking for top AICTE approved PGDM colleges in Delhi NCR with 70-80 percentile in CAT or MAT for 2027-29 batch? Explore detailed fees, placement averages (₹6-12 LPA), cutoffs, and direct application advice.
+  Looking for top AICTE approved PGDM colleges in Delhi NCR with 70-80
+  percentile in CAT or MAT for 2027-29 batch? Explore detailed fees, placement
+  averages (₹6-12 LPA), cutoffs, and direct application advice.
 keywords:
   - Top 15 PGDM Colleges in Delhi NCR 70-80 Percentile CAT MAT
   - Delhi NCR PGDM Colleges CAT cutoff 70 to 80 percentile
@@ -17,22 +21,55 @@ keywords:
   - JIMS Rohini Kalkaji PGDM cutoffs
   - Best PGDM colleges under 10 Lakhs Delhi NCR
   - AICTE AIU PGDM Colleges Delhi NCR
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: Which top PGDM colleges in Delhi NCR accept 70-80 percentile in CAT and MAT?
+  - question: >-
+      Which top PGDM colleges in Delhi NCR accept 70-80 percentile in CAT and
+      MAT?
     answer: >-
-      Top B-schools accepting 70-80 percentile include New Delhi Institute of Management (NDIM), Jaipuria Institute of Management Noida, FIIB Delhi, FOSTIIMA Business School, IMS Ghaziabad, IILM Gurgaon, Delhi School of Business (DSB), and Apeejay School of Management (ASM) Dwarka.
-  - question: What is the average placement package for PGDM colleges accepting 70-80 percentile in CAT/MAT?
+      Top B-schools accepting 70-80 percentile include New Delhi Institute of
+      Management (NDIM), Jaipuria Institute of Management Noida, FIIB Delhi,
+      FOSTIIMA Business School, IMS Ghaziabad, IILM Gurgaon, Delhi School of
+      Business (DSB), and Apeejay School of Management (ASM) Dwarka.
+  - question: >-
+      What is the average placement package for PGDM colleges accepting 70-80
+      percentile in CAT/MAT?
     answer: >-
-      PGDM colleges in the 70-80 percentile bracket offer average placement packages ranging between ₹6.2 LPA and ₹12.3 LPA, with top performers securing packages exceeding ₹16-20 LPA in domain-specific profiles.
+      PGDM colleges in the 70-80 percentile bracket offer average placement
+      packages ranging between ₹6.2 LPA and ₹12.3 LPA, with top performers
+      securing packages exceeding ₹16-20 LPA in domain-specific profiles.
   - question: Is PGDM from these private colleges equivalent to an MBA degree?
     answer: >-
-      Yes, PGDM programs offered by AICTE-approved institutions that hold AIU (Association of Indian Universities) recognition are officially recognized as equivalent to an MBA degree for government jobs, higher education, and PhD admissions.
-  - question: Can I get direct admission in top PGDM colleges in Delhi NCR without high CAT scores?
+      Yes, PGDM programs offered by AICTE-approved institutions that hold AIU
+      (Association of Indian Universities) recognition are officially recognized
+      as equivalent to an MBA degree for government jobs, higher education, and
+      PhD admissions.
+  - question: >-
+      Can I get direct admission in top PGDM colleges in Delhi NCR without high
+      CAT scores?
     answer: >-
-      Many top PGDM institutes offer profile-based admissions, accepting valid scores from MAT, CMAT, XAT, or ATMA alongside solid academic records, work experience, and strong performance in Personal Interviews (PI) and Group Discussions (GD).
-  - question: What is the total fee range for top 70-80 percentile PGDM b-schools in Delhi NCR?
+      Many top PGDM institutes offer profile-based admissions, accepting valid
+      scores from MAT, CMAT, XAT, or ATMA alongside solid academic records, work
+      experience, and strong performance in Personal Interviews (PI) and Group
+      Discussions (GD).
+  - question: >-
+      What is the total fee range for top 70-80 percentile PGDM b-schools in
+      Delhi NCR?
     answer: >-
-      The 2-year total tuition fee for these institutes ranges from ₹6.50 Lakhs to ₹14.50 Lakhs depending on campus infrastructure, corporate exposure, global exchange tie-ups, and placement track record.
+      The 2-year total tuition fee for these institutes ranges from ₹6.50 Lakhs
+      to ₹14.50 Lakhs depending on campus infrastructure, corporate exposure,
+      global exchange tie-ups, and placement track record.
 location: Delhi NCR
 state: Delhi NCR
 ---
@@ -54,7 +91,7 @@ Below is a quick snapshot comparing total tuition fees, average placement packag
 | **1** | [New Delhi Institute of Management (NDIM)](/colleges/new-delhi-institute-of-management), New Delhi | ₹13.75 Lakhs | CAT: 75-80% \| MAT: 80-85% | **₹9.5 - ₹12.5 LPA** | 34-yr legacy, Double Specialization & ASSOCHAM B-School Award |
 | **2** | [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-noida), Noida | ₹14.50 Lakhs | CAT: 75-80% \| MAT: 80-85% | **₹11.5 - ₹12.3 LPA** | Triple NBA Accredited, Centralized Placements across 4 Campuses |
 | **3** | [Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi), Delhi | ₹10.85 Lakhs | CAT: 70-75% \| MAT: 75-80% | **₹8.4 - ₹8.8 LPA** | Vasant Vihar Corporate Hub, Strong Analytics & Finance Focus |
-| **4** | [FOSTIIMA Business School](/colleges/fostiima-delhi), New Delhi | ₹10.75 Lakhs | CAT: 70-75% \| MAT: 75-80% | **₹8.9 - ₹10.75 LPA** | Founded by IIM Ahmedabad Alumni, High ROI & Live Projects |
+| **4** | [FOSTIIMA Business School](/colleges/fostiima-delhi), New Delhi | ₹10.75 Lakhs | CAT: 70-75% \| MAT: 75-80% | **₹8.9 - ₹10.75 LPA** | Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni, High ROI & Live Projects |
 | **5** | [IMS Ghaziabad](/colleges/institute-of-management-studies), Ghaziabad | ₹9.50 Lakhs | CAT: 70-75% \| MAT: 75-80% | **₹8.2 - ₹8.5 LPA** | NAAC A++ Grade, 34+ Years Legacy & Corporate Immersion |
 | **6** | [IILM Gurgaon / Greater Noida](/colleges/iilm-gurgaon), Gurgaon/Noida | ₹10.80 - ₹11.50 Lakhs | CAT: 70-75% \| MAT: 75-80% | **₹8.5 - ₹9.2 LPA** | Prime Corporate Belt, Global Study Tours & Industry Mentorship |
 | **7** | [Delhi School of Business (DSB / VIPS)](/colleges/dsb-delhi), New Delhi | ₹9.75 - ₹10.50 Lakhs | CAT: 70-75% \| MAT: 75-80% | **₹7.8 - ₹8.5 LPA** | VIPS Infrastructure Backing, Modern FinTech Lab |
@@ -63,7 +100,7 @@ Below is a quick snapshot comparing total tuition fees, average placement packag
 | **10** | [Apeejay School of Management (ASM)](/colleges/asm-apeejay-delhi), Dwarka, Delhi | ₹9.60 - ₹10.20 Lakhs | CAT: 70-75% \| MAT: 75-80% | **₹7.8 - ₹8.6 LPA** | ACBSP (USA) Accredited, Strong FMCG & Retail Recruiter Base |
 | **11** | [ITS School of Management](/colleges/its-ghaziabad), Ghaziabad | ₹7.20 - ₹7.80 Lakhs | CAT: 65-70% \| MAT: 70-75% | **₹6.8 - ₹7.5 LPA** | Affordable Budget, 28-yr Legacy, Excellent Placement ROI |
 | **12** | [Asian Business School (ABS)](/colleges/asian-business-school-noida), Noida | ₹8.45 - ₹8.95 Lakhs | CAT: 65-70% \| MAT: 70-75% | **₹7.2 - ₹7.8 LPA** | Oxford Executive Diploma Module, Sector 125 Noida Location |
-| **13** | [GNIOT Institute of Management Studies (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida | ₹6.90 - ₹7.50 Lakhs | CAT: 65-70% \| MAT: 70-75% | **₹6.5 - ₹7.2 LPA** | Practical Corporate Bootcamps & Chanakya Leadership Program |
+| **13** | [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida | ₹6.90 - ₹7.50 Lakhs | CAT: 65-70% \| MAT: 70-75% | **₹6.5 - ₹7.2 LPA** | Practical Corporate Bootcamps & Chanakya Leadership Program |
 | **14** | [Lloyd Business School](/colleges/lloyd-business-school-greater-noida), Greater Noida | ₹6.50 - ₹7.20 Lakhs | CAT: 65-70% \| MAT: 70% | **₹6.2 - ₹6.8 LPA** | Work-Integrated PGDM in Supply Chain & Analytics |
 | **15** | [Accurate Institute of Management & Technology](/colleges/accurate-greater-noida), Greater Noida | ₹6.80 - ₹7.50 Lakhs | CAT: 65-70% \| MAT: 70% | **₹6.2 - ₹6.7 LPA** | 100% Placement Record track, Focus on Core Operations & Sales |
 
@@ -71,7 +108,7 @@ Below is a quick snapshot comparing total tuition fees, average placement packag
 
 ## **In-Depth Profiles: Top 15 Delhi NCR PGDM Colleges (2027-29 Intake)**
 
-### **1. New Delhi Institute of Management (NDIM), New Delhi**
+### **1. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), New Delhi**
 Located in Tughlakabad Institutional Area, **[New Delhi Institute of Management (NDIM)](/colleges/new-delhi-institute-of-management)** is a 34-year-old flagship management institution. Recognized by AICTE and declared equivalent to MBA by the Association of Indian Universities (AIU), NDIM has won the **"Best Industry-Linked B-School"** award by AICTE-CII for consecutive years.
 
 *   **Total Course Fee (2 Years)**: ₹13.75 Lakhs
@@ -83,7 +120,7 @@ Located in Tughlakabad Institutional Area, **[New Delhi Institute of Management 
 
 ---
 
-### **2. Jaipuria Institute of Management, Noida**
+### **2. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida**
 **[Jaipuria Institute of Management Noida](/colleges/jaipuria-institute-of-management-noida)** is one of the premier private management institutions in North India holding NBA Accreditation and AIU MBA equivalence. Positioned in Noida's corporate hub, it offers seamless industry interface with top MNCs.
 
 *   **Total Course Fee (2 Years)**: ₹14.50 Lakhs
@@ -91,11 +128,11 @@ Located in Tughlakabad Institutional Area, **[New Delhi Institute of Management 
 *   **Average Placement Package**: ₹11.50 LPA to ₹12.30 LPA (Highest package: ₹22.0 LPA)
 *   **Top Specializations**: PGDM (General), PGDM (Service Management), PGDM (Marketing).
 *   **Major Recruiters**: Amazon, Deloitte, PwC, HDFC Bank, Dabur, Reckitt Benckiser, Asian Paints.
-*   **Why Choose Jaipuria?**: Integrated **Centralized Placement System** linking students across Jaipuria Noida, Lucknow, Jaipur, and Indore campuses to top national placement drives.
+*   **Why Choose Jaipuria?**: Integrated **Centralized Placement System** linking students across [Jaipuria Noida](/colleges/jaipuria-noida), Lucknow, Jaipur, and Indore campuses to top national placement drives.
 
 ---
 
-### **3. Fortune Institute of International Business (FIIB), Vasant Vihar, New Delhi**
+### **3. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB), Vasant Vihar, New Delhi**
 Established in 1995 in South Delhi, **[Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi)** is renowned for its analytics-infused PGDM curriculum and global exchange opportunities.
 
 *   **Total Course Fee (2 Years)**: ₹10.85 Lakhs
@@ -167,7 +204,7 @@ Operating under the umbrella of **VIPS (Vivekananda Institute of Professional St
 
 ---
 
-### **9. EMPI Business School, Chattarpur, New Delhi**
+### **9. [EMPI Business School](/colleges/empi-delhi), Chattarpur, New Delhi**
 Established in 1995, **[EMPI Business School](/colleges/empi-delhi)** is a fully residential management institution nestled in South Delhi’s green belt near Chattarpur.
 
 *   **Total Course Fee (2 Years)**: ₹8.75 Lakhs
@@ -203,7 +240,7 @@ Established in 1995, **[EMPI Business School](/colleges/empi-delhi)** is a fully
 
 ---
 
-### **12. Asian Business School (ABS), Sector 125, Noida**
+### **12. [Asian Business School (ABS)](/colleges/asian-business-school-noida), Sector 125, Noida**
 Located right off the Noida-Greater Noida Expressway, **[Asian Business School (ABS Noida)](/colleges/asian-business-school-noida)** is part of the Asian Education Group.
 
 *   **Total Course Fee (2 Years)**: ₹8.45 Lakhs – ₹8.95 Lakhs
@@ -215,7 +252,7 @@ Located right off the Noida-Greater Noida Expressway, **[Asian Business School (
 
 ---
 
-### **13. GNIOT Institute of Management Studies (GIMS), Greater Noida**
+### **13. [GNIOT Institute of Management Studies (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida**
 Operating inside Knowledge Park II, **[GNIOT Institute of Management Studies (GIMS)](/colleges/gniot-institute-of-management-studies-gims)** delivers a technology-focused PGDM program tailored for modern corporate needs.
 
 *   **Total Course Fee (2 Years)**: ₹6.90 Lakhs – ₹7.50 Lakhs
@@ -227,7 +264,7 @@ Operating inside Knowledge Park II, **[GNIOT Institute of Management Studies (GI
 
 ---
 
-### **14. Lloyd Business School, Greater Noida**
+### **14. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida), Greater Noida**
 Situated in Knowledge Park II, **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** is known for co-designed industry programs in Supply Chain Management and Business Analytics.
 
 *   **Total Course Fee (2 Years)**: ₹6.50 Lakhs – ₹7.20 Lakhs
@@ -239,7 +276,7 @@ Situated in Knowledge Park II, **[Lloyd Business School](/colleges/lloyd-busines
 
 ---
 
-### **15. Accurate Institute of Management & Technology, Greater Noida**
+### **15. [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology, Greater Noida**
 **[Accurate Institute](/colleges/accurate-greater-noida)** offers AICTE-approved PGDM programs focused on core sales, financial services, and operational logistics.
 
 *   **Total Course Fee (2 Years)**: ₹6.80 Lakhs – ₹7.50 Lakhs

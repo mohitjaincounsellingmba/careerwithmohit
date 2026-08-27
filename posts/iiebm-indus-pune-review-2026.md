@@ -58,7 +58,7 @@ The table below summarizes the key metrics for **[IIEBM (Indus Business School)]
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **IIEBM (Indus Business School)** |
+| **Institution Name** | **[IIEBM (Indus Business School)](/colleges/iiebm-pune)** |
 | **Location & Campus** | Wakad, Pune |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

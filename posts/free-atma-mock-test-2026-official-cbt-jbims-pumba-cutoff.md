@@ -70,6 +70,8 @@ With **180 questions across 6 strictly timed 30-minute sections (180 minutes tot
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Are these mock tests free to attempt?

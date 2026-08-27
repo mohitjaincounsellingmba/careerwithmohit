@@ -58,7 +58,7 @@ The table below summarizes the key metrics for **[Amity University](/colleges/am
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Amity University (Noida Campus)** |
+| **Institution Name** | **[Amity University](/colleges/amity-noida) (Noida Campus)** |
 | **Location & Campus** | Sector 125, Noida |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

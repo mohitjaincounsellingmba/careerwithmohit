@@ -83,7 +83,7 @@ LM Thapar School of Management (LMTSM), located at the modern Dera Bassi campus 
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+[Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |

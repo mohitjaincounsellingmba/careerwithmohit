@@ -49,7 +49,7 @@ The **Management Development Institute (MDI), Gurgaon** is recognized as one of 
 
 The **2025 PGDM placement season** at [MDI Gurgaon](/colleges/mdi-gurgaon) concluded with **100% placements across a massive batch of 555 students**, recording an average CTC of **₹25.60 LPA** and a highest package of **₹53.60 LPA**.
 
-Here is the complete **MDI Gurgaon PGDM Placement Report 2025**.
+Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon) PGDM Placement Report 2025**.
 
 ---
 

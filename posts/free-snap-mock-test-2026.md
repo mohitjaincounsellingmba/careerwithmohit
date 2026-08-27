@@ -55,6 +55,8 @@ To help you measure your standing, we offer a high-fidelity **[Free SNAP Dec 202
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the exam pattern for SNAP 2026?
@@ -63,7 +65,7 @@ SNAP 2026 is a 60-minute speed test consisting of 60 questions across General En
 ### Is there negative marking in SNAP 2026?
 Yes, each correct answer awards +1 mark and every wrong response deducts 0.25 marks.
 
-### What score is needed for SIBM Pune in SNAP?
+### What score is needed for [SIBM Pune](/colleges/sibm-pune) in SNAP?
 A score of 42-44+ out of 60 (98.5+ percentile) is generally needed to receive a call for GE-PI-WAT from SIBM Pune.
 
 

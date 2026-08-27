@@ -1,7 +1,9 @@
 ---
 title: 'CAT 2027 Preparation Roadmap: Month-by-Month Strategy for 99+ Percentile'
 date: '2026-08-28'
-description: 'Master the complete CAT 2027 month-by-month preparation strategy to score 99+ percentile. Actionable plan for VARC, DILR, QA, and mock analysis.'
+description: >-
+  Master the complete CAT 2027 month-by-month preparation strategy to score 99+
+  percentile. Actionable plan for VARC, DILR, QA, and mock analysis.
 keywords:
   - CAT 2027 preparation roadmap
   - CAT 2027 strategy for 99 percentile
@@ -9,15 +11,36 @@ keywords:
   - VARC DILR QA preparation strategy
   - CAT mock test analysis tracking
   - IIM admission prep 2027
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How many months of preparation are needed for 99+ percentile in CAT 2027?
-    answer: A structured 8 to 12-month prep window (starting anywhere between January and April 2027) is ideal for achieving a 99+ percentile. This allows 4-5 months for concept building, 3 months for sectionals/mocks, and 2 months for intensive revision.
+    answer: >-
+      A structured 8 to 12-month prep window (starting anywhere between January
+      and April 2027) is ideal for achieving a 99+ percentile. This allows 4-5
+      months for concept building, 3 months for sectionals/mocks, and 2 months
+      for intensive revision.
   - question: What is the ideal score for a 99 percentile in CAT?
-    answer: While scaled scores vary depending on exam difficulty, a raw score of approximately 80 to 90 out of 198 (around 40-45% net marks) historically secures a 99+ percentile in the CAT exam.
+    answer: >-
+      While scaled scores vary depending on exam difficulty, a raw score of
+      approximately 80 to 90 out of 198 (around 40-45% net marks) historically
+      secures a 99+ percentile in the CAT exam.
   - question: How many mock tests should I take for CAT 2027?
-    answer: Serious aspirants should take between 30 to 45 full-length mock tests starting from June/July 2027. However, analyzing each mock for 3-4 hours is far more important than simply taking a high volume of tests.
+    answer: >-
+      Serious aspirants should take between 30 to 45 full-length mock tests
+      starting from June/July 2027. However, analyzing each mock for 3-4 hours
+      is far more important than simply taking a high volume of tests.
   - question: Can working professionals crack CAT 2027 with a 99+ percentile?
-    answer: Absolutely! Working professionals can achieve a 99+ percentile by dedicating 2 to 3 focused hours on weekdays and 6 to 8 hours on weekends, following a disciplined sectional routine.
+    answer: >-
+      Absolutely! Working professionals can achieve a 99+ percentile by
+      dedicating 2 to 3 focused hours on weekdays and 6 to 8 hours on weekends,
+      following a disciplined sectional routine.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 Cracking the Common Admission Test (CAT) and securing a seat at premier management institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), or [FMS Delhi](/colleges/fms-delhi) requires far more than just raw intelligence. The **CAT 2027** exam is fundamentally a test of decision-making, speed, accuracy, and mental stamina under pressure.

@@ -118,7 +118,7 @@ When comparing the annual tuition fees against the average placement compensatio
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **Shiv Nadar University (SNU)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[Shiv Nadar University (SNU)](/colleges/snu-greater-noida)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.

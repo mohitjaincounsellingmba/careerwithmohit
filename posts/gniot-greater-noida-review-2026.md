@@ -65,7 +65,7 @@ The table below summarizes the key metrics for **[GNIOT (Greater Noida Institute
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **GNIOT (Greater Noida Institute of Technology)** |
+| **Institution Name** | **[GNIOT (Greater Noida Institute of Technology)](/colleges/gniot-greater-noida)** |
 | **Location & Campus** | Knowledge Park II, Greater Noida |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

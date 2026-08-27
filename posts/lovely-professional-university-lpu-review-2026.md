@@ -67,7 +67,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Lovely Professional University (LPU), Phagwara / Jalandhar |
+| **Full Institutional Name** | [Lovely Professional University](/colleges/lovely-professional-university) (LPU), Phagwara / Jalandhar |
 | **Location & Region** | Phagwara / Jalandhar, Punjab |
 | **University Type & Status** | Private University (UGC Approved, NAAC A++ Grade, India's Largest Campus) |
 | **Established Year** | 2005 |

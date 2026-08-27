@@ -57,7 +57,7 @@ Here is the complete **[FORE School of Management](/colleges/fore-school-delhi) 
 
 ---
 
-## 1. FORE School of Management Placement 2025 Highlights
+## 1. [FORE School of Management](/colleges/fore-school-delhi) Placement 2025 Highlights
 
 | Metric | Statistics (2025 Placement Cycle) |
 | :--- | :--- |

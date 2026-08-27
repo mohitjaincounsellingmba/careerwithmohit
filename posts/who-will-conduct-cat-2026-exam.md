@@ -177,7 +177,7 @@ The **Indian Institute of Management (IIM) Indore** is the official convening an
 CAT 2026 is scheduled to be conducted on **Sunday, November 29, 2026** (the last Sunday of November), across over 170 exam cities in India in three separate slots.
 
 ### How are convening IIMs selected for conducting the CAT exam?
-The responsibility of convening CAT rotates annually among the **six older IIMs**: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), IIM Calcutta, IIM Lucknow, IIM Kozhikode, and IIM Indore.
+The responsibility of convening CAT rotates annually among the **six older IIMs**: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), IIM Lucknow, IIM Kozhikode, and IIM Indore.
 
 ### What is the official website for CAT 2026 registration?
 The official website for CAT 2026 registration, admit card download, official notifications, and scorecard download is **[iimcat.ac.in](https://iimcat.ac.in)**.

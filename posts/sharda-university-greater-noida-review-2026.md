@@ -68,7 +68,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Sharda University, Greater Noida |
+| **Full Institutional Name** | [Sharda University](/colleges/sharda-greater-noida), Greater Noida |
 | **Location & Region** | Greater Noida, Delhi NCR |
 | **University Type & Status** | Private University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 2009 |

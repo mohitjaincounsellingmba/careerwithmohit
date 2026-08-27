@@ -66,7 +66,7 @@ The table below summarizes the key metrics for **SIMSREE Mumbai (Sydenham [Insti
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **SIMSREE Mumbai (Sydenham Institute of Management Studies)** |
+| **Institution Name** | **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))** |
 | **Location & Campus** | Mumbai, Maharashtra |
 | **Accreditation & Approvals** | AICTE Approved, Government of Maharashtra |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

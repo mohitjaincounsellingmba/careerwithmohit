@@ -20,6 +20,12 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the key salary statistics for MBA at IIT Kanpur in 2025?
     answer: >-

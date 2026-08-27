@@ -83,7 +83,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-Ramaiah University of Applied Sciences (RUAS), Bangalore offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+[Ramaiah University of Applied Sciences](/colleges/ramaiah-university-of-applied-sciences) (RUAS), Bangalore offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |

@@ -1,8 +1,13 @@
 ---
-title: "Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting MAT, CMAT & Profile Scores"
+title: >-
+  Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting
+  MAT, CMAT & Profile Scores
 date: '2026-08-22'
-category: 'MBA & PGDM'
-description: "Complete guide to direct MBA and PGDM admission 2027-29 without CAT or XAT. Find top AICTE approved colleges accepting MAT, CMAT, ATMA, and profile scores."
+category: MBA & PGDM
+description: >-
+  Complete guide to direct MBA and PGDM admission 2027-29 without CAT or XAT.
+  Find top AICTE approved colleges accepting MAT, CMAT, ATMA, and profile
+  scores.
 keywords:
   - Direct MBA Admission 2027-29 Without CAT
   - PGDM Admission Without XAT MAT CMAT
@@ -11,13 +16,31 @@ keywords:
   - Management Quota PGDM Admission 2027
   - AICTE PGDM Direct Admission Process
   - Colleges Accepting 50 Percentile MAT
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: "Is CAT or XAT compulsory for doing a high-quality PGDM in India?"
-    answer: "No! AICTE regulations explicitly allow private autonomous PGDM institutes to accept MAT, CMAT, ATMA, GMAT, or state entrance exam scores alongside CAT/XAT."
-  - question: "What is Profile-Based shortlisting in PGDM admissions?"
-    answer: "Profile-based shortlisting evaluates candidates based on overall academic performance (10th, 12th, Graduation), work experience, extra-curricular accomplishments, and Personal Interview (PI) performance, rather than depending solely on an entrance percentile."
-  - question: "What is the refund policy for direct PGDM admissions under AICTE?"
-    answer: "AICTE strictly mandates that if a candidate withdraws admission before the announced deadline, the institute must refund the full fee after deducting a processing charge of not more than ₹1,000."
+  - question: Is CAT or XAT compulsory for doing a high-quality PGDM in India?
+    answer: >-
+      No! AICTE regulations explicitly allow private autonomous PGDM institutes
+      to accept MAT, CMAT, ATMA, GMAT, or state entrance exam scores alongside
+      CAT/XAT.
+  - question: What is Profile-Based shortlisting in PGDM admissions?
+    answer: >-
+      Profile-based shortlisting evaluates candidates based on overall academic
+      performance (10th, 12th, Graduation), work experience, extra-curricular
+      accomplishments, and Personal Interview (PI) performance, rather than
+      depending solely on an entrance percentile.
+  - question: What is the refund policy for direct PGDM admissions under AICTE?
+    answer: >-
+      AICTE strictly mandates that if a candidate withdraws admission before the
+      announced deadline, the institute must refund the full fee after deducting
+      a processing charge of not more than ₹1,000.
+location: Mumbai
+state: Maharashtra
 ---
 
 # Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting MAT, CMAT & Profile Scores
@@ -33,7 +56,7 @@ The good news for the **2027-29 admission session** is that **a low score in CAT
 | Entrance Exam | Conducting Body | Difficulty Level | Accepted By | Typical Cutoff Range |
 | :--- | :--- | :--- | :--- | :--- |
 | **CAT** | IIMs | Very High | IIMs, IITs, FMS, MDI, SPJIMR | 85 - 99+ Percentile |
-| **XAT** | XLRI Jamshedpur | High | XLRI, XIMB, FORE, TAPMI | 80 - 95 Percentile |
+| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | High | XLRI, XIMB, FORE, TAPMI | 80 - 95 Percentile |
 | **MAT** | AIMA | Moderate | 600+ Top Private PGDM B-Schools | 500 - 700 Composite Score |
 | **CMAT** | NTA | Moderate | AICTE PGDM Institutes & State Universities | 50 - 90 Percentile |
 | **Profile Score** | Individual B-Schools | Holistic Evaluation | Autonomous PGDM Institutes | Academics + Work-Ex + Interview |
@@ -45,8 +68,8 @@ The good news for the **2027-29 admission session** is that **a low score in CAT
 | Region | Top AICTE Approved PGDM Colleges | Avg Placement Package |
 | :--- | :--- | :--- |
 | **Delhi NCR** | NDIM Delhi, FOSTIIMA, FIIB, JIMS Kalkaji, BIMTECH (Spec.), GNIOT GIMS | ₹8.10 LPA - ₹11.25 LPA |
-| **Pune** | PIBM Pune, RIIM Pune, Lexicon MILE, DY Patil B-School, ISBS Pune | ₹7.15 LPA - ₹8.20 LPA |
-| **Bangalore** | XIME Bangalore, JAGSoM, ISBR, GIBS, IBA, ISME Bangalore | ₹7.40 LPA - ₹10.75 LPA |
+| **Pune** | [PIBM Pune](/colleges/pibm-pune), [RIIM Pune](/colleges/riim-pune), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹7.15 LPA - ₹8.20 LPA |
+| **Bangalore** | [XIME Bangalore](/colleges/xime-bangalore), JAGSoM, ISBR, GIBS, IBA, [ISME Bangalore](/colleges/isme-bangalore) | ₹7.40 LPA - ₹10.75 LPA |
 | **Mumbai** | ITM Navi Mumbai, Universal AI University, Welingkar (Spec.) | ₹8.20 LPA - ₹12.50 LPA |
 | **Hyderabad** | IPE Hyderabad, VJIM Hyderabad, SSIM Hyderabad | ₹6.50 LPA - ₹7.10 LPA |
 | **Kolkata / Eastern India** | Globsyn Kolkata, Praxis, IEM Kolkata, Heritage | ₹6.80 LPA - ₹9.46 LPA |

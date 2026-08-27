@@ -55,7 +55,7 @@ The table below summarizes the key metrics for **[NMIMS Bangalore](/colleges/nmi
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **NMIMS Bangalore** |
+| **Institution Name** | **[NMIMS Bangalore](/colleges/nmims-bangalore)** |
 | **Location & Campus** | Bangalore, Karnataka |
 | **Accreditation & Approvals** | UGC Approved, AMBA Accredited |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

@@ -55,7 +55,7 @@ The table below summarizes the key metrics for **[SIBM Bangalore](/colleges/sibm
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **SIBM Bangalore** |
+| **Institution Name** | **[SIBM Bangalore](/colleges/sibm-bangalore)** |
 | **Location & Campus** | Bangalore, Karnataka |
 | **Accreditation & Approvals** | UGC Approved, SIU Pune |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

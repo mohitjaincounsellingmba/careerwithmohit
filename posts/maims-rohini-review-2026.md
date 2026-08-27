@@ -66,7 +66,7 @@ The table below summarizes the key metrics for **Maharaja Agrasen [Institute of 
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Maharaja Agrasen Institute of Management Studies (MAIMS)** |
+| **Institution Name** | **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** |
 | **Location & Campus** | Rohini, North-West Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

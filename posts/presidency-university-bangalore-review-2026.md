@@ -61,7 +61,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Presidency University, Bangalore |
+| **Full Institutional Name** | [Presidency University](/colleges/presidency-university), Bangalore |
 | **Location & Region** | Bangalore, Bangalore |
 | **University Type & Status** | Private University (Presidency Group of Institutions) |
 | **Established Year** | 2015 (Group legacy since 1976) |

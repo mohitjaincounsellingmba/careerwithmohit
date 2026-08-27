@@ -66,7 +66,7 @@ The table below summarizes the key metrics for **IRMA Anand ([Institute of Rural
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **IRMA Anand (Institute of Rural Management Anand)** |
+| **Institution Name** | **IRMA Anand ([Institute of Rural Management](/colleges/institute-of-rural-management) Anand)** |
 | **Location & Campus** | Anand, Gujarat |
 | **Accreditation & Approvals** | AICTE Approved, NBA Accredited |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

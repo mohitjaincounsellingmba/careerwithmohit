@@ -65,7 +65,7 @@ The table below summarizes the key metrics for **JAGSoM ([Jagdish Sheth School o
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **JAGSoM (Jagdish Sheth School of Management)** |
+| **Institution Name** | **JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))** |
 | **Location & Campus** | Karjat, Greater Mumbai |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

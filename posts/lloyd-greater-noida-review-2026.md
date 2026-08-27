@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[Lloyd Business School](/colleg
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Lloyd Business School** |
+| **Institution Name** | **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** |
 | **Location & Campus** | Knowledge Park II, Greater Noida |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

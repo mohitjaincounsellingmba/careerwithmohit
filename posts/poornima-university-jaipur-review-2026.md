@@ -63,7 +63,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Poornima University, Jaipur |
+| **Full Institutional Name** | [Poornima University](/colleges/poornima-jaipur), Jaipur |
 | **Location & Region** | Jaipur, Jaipur |
 | **University Type & Status** | Private University (UGC Approved) |
 | **Established Year** | 2012 |

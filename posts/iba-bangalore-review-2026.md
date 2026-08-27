@@ -63,7 +63,7 @@ The table below summarizes the key metrics for **[Indus Business Academy](/colle
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Indus Business Academy (IBA Bangalore)** |
+| **Institution Name** | **[Indus Business Academy](/colleges/indus-business-academy) (IBA Bangalore)** |
 | **Location & Campus** | Kanakapura Road, Bangalore |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

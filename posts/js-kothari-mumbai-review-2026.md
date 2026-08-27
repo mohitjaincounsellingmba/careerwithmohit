@@ -58,7 +58,7 @@ The table below summarizes the key metrics for **[J.S. Kothari Business School](
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **J.S. Kothari Business School** |
+| **Institution Name** | **[J.S. Kothari Business School](/colleges/js-kothari-mumbai)** |
 | **Location & Campus** | Mumbai Metropolis, Mumbai Metropolis |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

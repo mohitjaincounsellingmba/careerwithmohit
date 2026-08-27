@@ -74,7 +74,7 @@ Amrita Vishwa Vidyapeetham at its breathtaking 400-acre Ettimadai campus nestled
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A++ Grade) |
 | **Established Year** | 1994 (Deemed University status 2003) |
 | **Accreditations & Approvals** | UGC, NAAC A++ Grade (3.70/4), NIRF Top 10 University, AACSB Accredited (ASB) |
-| **Flagship Academic Streams** | MBA (Amrita School of Business - ASB), B.Tech (AEEE), M.Tech, Ph.D |
+| **Flagship Academic Streams** | MBA ([Amrita School of Business](/colleges/amrita-school-of-business) - ASB), B.Tech (AEEE), M.Tech, Ph.D |
 | **Accepted Entrance Exams** | AEEE (B.Tech), CAT, XAT, MAT, CMAT, NMAT, ACAT (MBA) |
 | **Average Salary Package** | ₹9.20 LPA - ₹10.80 LPA |
 

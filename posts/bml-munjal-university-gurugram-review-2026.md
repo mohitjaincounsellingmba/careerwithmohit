@@ -67,7 +67,7 @@ Founded by the promoters of the Hero Group, [BML Munjal University](/colleges/bm
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | BML Munjal University, Gurugram |
+| **Full Institutional Name** | [BML Munjal University](/colleges/bml-munjal-gurgaon), Gurugram |
 | **Location & Region** | Gurugram, Delhi NCR |
 | **University Type & Status** | Private University (Founded by Hero Group) |
 | **Established Year** | 2014 |

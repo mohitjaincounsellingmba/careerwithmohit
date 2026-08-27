@@ -1,8 +1,13 @@
 ---
-title: "Top MBA/PGDM Colleges in Kolkata (2027-29): Low Fees, High Placements & Admission Process"
+title: >-
+  Top MBA/PGDM Colleges in Kolkata (2027-29): Low Fees, High Placements &
+  Admission Process
 date: '2026-08-22'
-category: 'MBA & PGDM'
-description: "Discover top MBA and PGDM colleges in Kolkata for 2027-29. Compare fee structures, average packages, MAT/CMAT cutoffs, and low-fee high-ROI options like IISWBM."
+category: MBA & PGDM
+description: >-
+  Discover top MBA and PGDM colleges in Kolkata for 2027-29. Compare fee
+  structures, average packages, MAT/CMAT cutoffs, and low-fee high-ROI options
+  like IISWBM.
 keywords:
   - Top MBA Colleges in Kolkata 2027-29
   - Low Fee MBA Colleges in Kolkata ROI
@@ -12,13 +17,26 @@ keywords:
   - IEM Kolkata MBA Placement Package
   - Praxis Business School Kolkata Analytics
   - Direct PGDM Admission Kolkata MAT
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: "Which college in Kolkata offers the highest ROI for MBA?"
-    answer: "IISWBM (Indian Institute of Social Welfare & Business Management) offers incredible ROI with a total 2-year fee of around ₹3.80 Lakhs and average placements of ₹8.50 LPA."
-  - question: "Is IISWBM India's first management institute?"
-    answer: "Yes, IISWBM Kolkata was established in 1953 and is recognized as India's first management institute."
-  - question: "What entrance exams are accepted by PGDM colleges in Kolkata?"
-    answer: "Colleges in Kolkata accept CAT, XAT, MAT, CMAT, ATMA, and JOMET scores."
+  - question: Which college in Kolkata offers the highest ROI for MBA?
+    answer: >-
+      IISWBM (Indian Institute of Social Welfare & Business Management) offers
+      incredible ROI with a total 2-year fee of around ₹3.80 Lakhs and average
+      placements of ₹8.50 LPA.
+  - question: Is IISWBM India's first management institute?
+    answer: >-
+      Yes, IISWBM Kolkata was established in 1953 and is recognized as India's
+      first management institute.
+  - question: What entrance exams are accepted by PGDM colleges in Kolkata?
+    answer: 'Colleges in Kolkata accept CAT, XAT, MAT, CMAT, ATMA, and JOMET scores.'
+location: Kolkata
+state: West Bengal
 ---
 
 # Top MBA/PGDM Colleges in Kolkata (2027-29): Low Fees, High Placements & Admission Process
@@ -33,14 +51,14 @@ For management aspirants planning **2027-29 admissions in Eastern India**, Kolka
 
 | College Name | Accepted Exams | Total Fees (Approx) | Average Package | Highest Package |
 | :--- | :--- | :--- | :--- | :--- |
-| **IIM Calcutta** | CAT (99.5+ %ile) | ₹25.00 Lakhs | ₹35.07 LPA | ₹1.15 CPA |
+| **[IIM Calcutta](/colleges/iim-calcutta)** | CAT (99.5+ %ile) | ₹25.00 Lakhs | ₹35.07 LPA | ₹1.15 CPA |
 | **VGSOM IIT Kharagpur** | CAT (95+ %ile) | ₹11.50 Lakhs | ₹22.13 LPA | ₹43.37 LPA |
 | **IISWBM Kolkata** | CAT / MAT (75+ %ile) | ₹3.85 Lakhs | ₹8.50 LPA | ₹18.00 LPA |
-| **IMI Kolkata** | CAT / XAT / CMAT (70+ %ile) | ₹13.20 Lakhs | ₹10.65 LPA | ₹20.70 LPA |
-| **Globsyn Business School** | CAT / MAT / CMAT / XAT | ₹8.70 Lakhs | ₹7.50 LPA | ₹23.34 LPA |
-| **Praxis Business School** | CAT / XAT / CMAT / MAT | ₹9.50 Lakhs | ₹9.46 LPA | ₹16.00 LPA |
+| **[IMI Kolkata](/colleges/imi-kolkata)** | CAT / XAT / CMAT (70+ %ile) | ₹13.20 Lakhs | ₹10.65 LPA | ₹20.70 LPA |
+| **[Globsyn Business School](/colleges/globsyn-kolkata)** | CAT / MAT / CMAT / XAT | ₹8.70 Lakhs | ₹7.50 LPA | ₹23.34 LPA |
+| **[Praxis Business School](/colleges/praxis-kolkata)** | CAT / XAT / CMAT / MAT | ₹9.50 Lakhs | ₹9.46 LPA | ₹16.00 LPA |
 | **IEM Kolkata (Inst of Engg & Mgmt)** | CAT / MAT / CMAT / WBJEMAT | ₹6.50 Lakhs | ₹6.80 LPA | ₹15.00 LPA |
-| **Heritage Business School** | MAT / CMAT / WBJEMAT | ₹5.85 Lakhs | ₹5.50 LPA | ₹12.00 LPA |
+| **[Heritage Business School](/colleges/heritage-business-school)** | MAT / CMAT / WBJEMAT | ₹5.85 Lakhs | ₹5.50 LPA | ₹12.00 LPA |
 
 ---
 

@@ -1,10 +1,11 @@
 ---
-title: >-
-  XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls
+title: 'XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls'
 date: '2026-08-26'
 category: Exam Preparation
 description: >-
-  Master the XAT 2027 Decision Making (DM) and Verbal & Logical Ability (VALA) sections. Learn core ethics frameworks, business case scenario solving techniques, poem comprehension strategies, and expected XLRI cutoffs.
+  Master the XAT 2027 Decision Making (DM) and Verbal & Logical Ability (VALA)
+  sections. Learn core ethics frameworks, business case scenario solving
+  techniques, poem comprehension strategies, and expected XLRI cutoffs.
 keywords:
   - XAT 2027 decision making preparation
   - XAT verbal ability mastery guide
@@ -14,19 +15,36 @@ keywords:
   - XAT poem comprehension strategy
   - crack XLRI call XAT 2027
   - XAT decision making business case study
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: What is a good score in XAT 2027 Decision Making section to clear XLRI cutoffs?
+  - question: >-
+      What is a good score in XAT 2027 Decision Making section to clear XLRI
+      cutoffs?
     answer: >-
-      To clear the sectional cutoff for XLRI Jamshedpur (BM & HRM), candidates typically need 8.5 to 10.5 marks out of 21-22 questions in the Decision Making section, representing roughly 85 to 90 percentile.
+      To clear the sectional cutoff for XLRI Jamshedpur (BM & HRM), candidates
+      typically need 8.5 to 10.5 marks out of 21-22 questions in the Decision
+      Making section, representing roughly 85 to 90 percentile.
   - question: How does XAT Decision Making differ from standard Logical Reasoning?
     answer: >-
-      XAT Decision Making tests managerial empathy, ethical reasoning, stakeholder balance, and practical problem-solving. Unlike math puzzles, DM questions present real-world business, HR, or ethical dilemmas without single objective answers.
+      XAT Decision Making tests managerial empathy, ethical reasoning,
+      stakeholder balance, and practical problem-solving. Unlike math puzzles,
+      DM questions present real-world business, HR, or ethical dilemmas without
+      single objective answers.
   - question: Are cutoffs lower for female and non-engineer candidates in XLRI?
     answer: >-
-      Yes, XLRI applies differential cutoffs for BM and HRM programs. Cutoffs for female candidates and non-engineers are typically 1-3 percentile points lower across overall and sectional scores.
+      Yes, XLRI applies differential cutoffs for BM and HRM programs. Cutoffs
+      for female candidates and non-engineers are typically 1-3 percentile
+      points lower across overall and sectional scores.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
-The **Xavier Aptitude Test (XAT)**, conducted by **XLRI Jamshedpur**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to XLRI Jamshedpur, XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
+The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to XLRI Jamshedpur, XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
 
 Two sections make or break an aspirant's dream of cracking XLRI: **Decision Making (DM)** and **Verbal & Logical Ability (VALA)**. Unlike standard entrance tests, XAT tests your ability to think like a compassionate, ethical, and commercially astute business leader.
 
@@ -147,7 +165,7 @@ Even if you narrowly miss XLRI cutoffs, XAT opens doors to premier management in
 | **XIMB (Xavier Institute of Management, Bhubaneswar)** | **90 - 92 Percentile** | ₹20.03 LPA |
 | **IMT Ghaziabad (PGDM Marketing)** | **90 - 92 Percentile** | ₹17.35 LPA |
 | **TAPMI Manipal** | **85 - 88 Percentile** | ₹15.70 LPA |
-| **FORE School of Management, New Delhi** | **83 - 85 Percentile** | ₹14.50 LPA |
+| **[FORE School of Management](/colleges/fore-school-delhi), New Delhi** | **83 - 85 Percentile** | ₹14.50 LPA |
 | **GIM Goa (Goa Institute of Management)** | **85 - 88 Percentile** | ₹14.87 LPA |
 | **Great Lakes Institute of Management (Chennai/Gurgaon)**| **82 - 85 Percentile** | ₹14.50 LPA |
 | **IRMA Anand (Rural Management)** | **80 - 83 Percentile** | ₹15.50 LPA |
@@ -166,7 +184,7 @@ Even if you narrowly miss XLRI cutoffs, XAT opens doors to premier management in
 ### Need Customized XAT Mentorship & Strategy?
 
 * 📞 **XAT Prep Guidance Hotline:** Connect with mentor **Mohit Jain** for personalized section-wise prep strategy.
-* 📋 **[Download Free XAT DM Solved Question Bank PDF](/tools/mock-tests)** featuring 50+ business case studies.
+* 📋 **[Download Free XAT DM Solved Question Bank PDF](/mock-tests)** featuring 50+ business case studies.
 
 ---
 

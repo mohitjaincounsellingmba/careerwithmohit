@@ -1,8 +1,13 @@
 ---
-title: "MBA/PGDM Admission in Chennai & Coimbatore (2027-29): TANCET/MAT Cutoffs, Fees & Eligibility"
+title: >-
+  MBA/PGDM Admission in Chennai & Coimbatore (2027-29): TANCET/MAT Cutoffs, Fees
+  & Eligibility
 date: '2026-08-22'
-category: 'MBA & PGDM'
-description: "Complete guide to MBA and PGDM admissions in Chennai and Coimbatore for 2027-29. Check TANCET/MAT cutoffs, total fees, placement stats, and selection criteria."
+category: MBA & PGDM
+description: >-
+  Complete guide to MBA and PGDM admissions in Chennai and Coimbatore for
+  2027-29. Check TANCET/MAT cutoffs, total fees, placement stats, and selection
+  criteria.
 keywords:
   - MBA Admission Chennai Coimbatore 2027-29
   - Great Lakes Chennai PGDM Fees
@@ -13,13 +18,30 @@ keywords:
   - XIME Chennai PGDM Fees
   - TSM Madurai PGDM Review
   - TANCET MBA Cutoff 2027
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: "What is TANCET and is it mandatory for PGDM in Tamil Nadu?"
-    answer: "TANCET (Tamil Nadu Common Entrance Test) is required for university-affiliated MBA programs (like Anna University colleges). However, AICTE-approved autonomous PGDM institutes (Great Lakes, LIBA, XIME, PSGIM) accept CAT, XAT, MAT, and CMAT scores."
-  - question: "What is the average placement at Great Lakes Chennai?"
-    answer: "Great Lakes Institute of Management Chennai reports an average package of ₹14.50 LPA for its PGDM program with highest domestic package touching ₹37.00 LPA."
-  - question: "Which is the top MBA college in Coimbatore?"
-    answer: "PSG Institute of Management (PSGIM) and Amrita School of Business are the top-ranked management institutes in Coimbatore."
+  - question: What is TANCET and is it mandatory for PGDM in Tamil Nadu?
+    answer: >-
+      TANCET (Tamil Nadu Common Entrance Test) is required for
+      university-affiliated MBA programs (like Anna University colleges).
+      However, AICTE-approved autonomous PGDM institutes (Great Lakes, LIBA,
+      XIME, PSGIM) accept CAT, XAT, MAT, and CMAT scores.
+  - question: What is the average placement at Great Lakes Chennai?
+    answer: >-
+      Great Lakes Institute of Management Chennai reports an average package of
+      ₹14.50 LPA for its PGDM program with highest domestic package touching
+      ₹37.00 LPA.
+  - question: Which is the top MBA college in Coimbatore?
+    answer: >-
+      PSG Institute of Management (PSGIM) and Amrita School of Business are the
+      top-ranked management institutes in Coimbatore.
+location: Chennai
+state: Tamil Nadu
 ---
 
 # MBA/PGDM Admission in Chennai & Coimbatore (2027-29): TANCET/MAT Cutoffs, Fees & Eligibility
@@ -37,10 +59,10 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 | **Great Lakes Inst. of Mgmt** | Chennai | CAT / XAT / CMAT / GMAT | ₹20.75 Lakhs | ₹14.50 LPA |
 | **DoMS IIT Madras** | Chennai | CAT (95+ %ile) | ₹11.00 Lakhs | ₹16.93 LPA |
 | **LIBA (Loyola Inst. of Business)** | Chennai | CAT / XAT (75+ %ile) | ₹17.30 Lakhs | ₹11.60 LPA |
-| **SSN School of Management** | Chennai | MAT / CAT / XAT / TANCET | ₹6.50 Lakhs | ₹6.80 LPA |
+| **[SSN School of Management](/colleges/ssn-school-of-management)** | Chennai | MAT / CAT / XAT / TANCET | ₹6.50 Lakhs | ₹6.80 LPA |
 | **XIME Chennai** | Chennai | CAT / XAT / MAT / CMAT | ₹9.70 Lakhs | ₹9.20 LPA |
 | **PSG Inst. of Mgmt (PSGIM)** | Coimbatore | TANCET / MAT / CAT / CMAT | ₹9.00 Lakhs | ₹7.80 LPA |
-| **Amrita School of Business** | Coimbatore | CAT / MAT / CMAT / XAT / KMAT | ₹11.20 Lakhs | ₹7.50 LPA |
+| **[Amrita School of Business](/colleges/amrita-school-of-business)** | Coimbatore | CAT / MAT / CMAT / XAT / KMAT | ₹11.20 Lakhs | ₹7.50 LPA |
 | **Thiagarajar School of Mgmt (TSM)** | Madurai | CAT / MAT / CMAT / TANCET | ₹8.50 Lakhs | ₹7.35 LPA |
 
 ---
@@ -60,7 +82,7 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 * **Highlights**: Over 50 years of excellence in management education in Coimbatore.
 * **Dual Degrees**: Partnerships with University of Toledo (USA) and Northern Illinois University.
 
-### 4. Thiagarajar School of Management (TSM), Madurai
+### 4. [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management) (TSM), Madurai
 * **Highlights**: Autonomous institute located in Madurai, accredited by NBA and AIU.
 * **High ROI**: Fee of ₹8.50 Lakhs delivering an average package of ₹7.35 LPA. Read [All About Thiagarajar School of Management](/blog/all-about-thiagarajar-school-of-management).
 

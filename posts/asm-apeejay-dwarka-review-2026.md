@@ -58,7 +58,7 @@ The table below summarizes the key metrics for **[ASM Apeejay School of Manageme
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **ASM Apeejay School of Management** |
+| **Institution Name** | **[ASM Apeejay School of Management](/colleges/asm-apeejay-delhi)** |
 | **Location & Campus** | Dwarka, West Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |

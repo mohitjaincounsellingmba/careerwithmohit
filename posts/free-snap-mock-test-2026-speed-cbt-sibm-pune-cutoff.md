@@ -51,7 +51,7 @@ state: Maharashtra
 
 [MockTestCard title="Free SNAP 2026 Full CBT Mock Test 2026" link="/snap-mock-test" questions="60 Questions" time="60 Mins"]
 
-The **Symbiosis National Aptitude Test (SNAP 2026)** is the sole gateway to 16 prestigious Symbiosis institutes across India, led by flagship campuses **SIBM Pune, [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore), and SIIB Pune**.
+The **Symbiosis National Aptitude Test (SNAP 2026)** is the sole gateway to 16 prestigious Symbiosis institutes across India, led by flagship campuses **[SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore), and SIIB Pune**.
 
 Unlike CAT, which tests in-depth conceptual stamina over 2 hours, SNAP is an ultra-fast **60-question, 60-minute speed race** (1 minute per question) with negative marking (+1 / -0.25). To score 42+ marks and secure a call from **SIBM Pune**, your question selection, rapid mental arithmetic, and visual reasoning must be razor-sharp.
 
@@ -64,6 +64,8 @@ Unlike CAT, which tests in-depth conceptual stamina over 2 hours, SNAP is an ult
 > [👉 **Start Free SNAP 2026 Speed Mock Test (60 Qs | 60 Mins)**](/tools/mock-test/snap/)
 >
 > *No login barriers — Instant Symbiosis Call Probability & Full Solutions.*
+
+---
 
 ---
 

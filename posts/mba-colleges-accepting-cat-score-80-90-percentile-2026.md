@@ -167,7 +167,7 @@ Backed by the prestigious Birla Academy of Art and Culture, BIMTECH holds AACSB 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which are the best MBA colleges accepting 80-90 percentile in CAT?
-Top choices include FORE School of Management (New Delhi), LBSIM (Delhi), GIM (Goa), TAPMI (Manipal), Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), KJ Somaiya (Mumbai), and IRMA (Anand).
+Top choices include [FORE School of Management](/colleges/fore-school-delhi) (New Delhi), LBSIM (Delhi), GIM (Goa), TAPMI (Manipal), Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), KJ Somaiya (Mumbai), and IRMA (Anand).
 
 ### What is the average placement salary for colleges in the 80-90 percentile bracket?
 Colleges in this tier typically offer average placement packages ranging between INR 12.50 LPA and INR 16.50 LPA, with top 25% students securing INR 18 to 24 LPA.

@@ -68,7 +68,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | Manipal University Jaipur (MUJ) |
+| **Full Institutional Name** | [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ) |
 | **Location & Region** | Jaipur, Jaipur |
 | **University Type & Status** | Private University (Manipal Group) |
 | **Established Year** | 2011 |

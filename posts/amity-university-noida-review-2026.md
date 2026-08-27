@@ -151,9 +151,9 @@ To help you make an unbiased decision, here is a balanced summary of the key adv
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. Is [Amity University](/colleges/amity-noida), Noida a good choice for higher education in 2026?
-Yes, Amity University, Noida is a highly reputed institution in Delhi NCR (UGC, NAAC A+, AICTE, WASC, IET). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹6.50 LPA - ₹8.50 LPA.
+Yes, [Amity University, Noida](/colleges/amity-university-noida) is a highly reputed institution in Delhi NCR (UGC, NAAC A+, AICTE, WASC, IET). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹6.50 LPA - ₹8.50 LPA.
 
-### 2. What is the annual fee structure at Amity University, Noida?
+### 2. What is the annual fee structure at [Amity University](/colleges/amity-noida), Noida?
 The annual tuition fee at Amity University, Noida generally ranges between ₹3.50 Lakhs - ₹7.50 Lakhs per annum, depending on the chosen program (MBA, B.Tech, BBA, Law, Computer Science, Biotechnology) and applicable merit scholarships.
 
 ### 3. How can I apply for admission to Amity University, Noida in 2026?

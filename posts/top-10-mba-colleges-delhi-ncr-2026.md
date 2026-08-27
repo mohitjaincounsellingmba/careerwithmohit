@@ -45,7 +45,7 @@ state: Delhi NCR
 ### [InquiryCard title="Targeting Delhi NCR B-Schools?" description="Confused between MDI, IMI, FORE, or LBSIM? Get a personalized preference list based on your CAT/XAT score and budget." cta="Get Delhi Admission Strategy" type="career"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top B-Schools**: FMS Delhi, MDI Gurgaon, IIFT Delhi, DMS IIT Delhi, and IMI New Delhi rank as the top 5 MBA colleges in Delhi NCR.
+> - **Top B-Schools**: [FMS Delhi](/colleges/fms-delhi), [MDI Gurgaon](/colleges/mdi-gurgaon), [IIFT Delhi](/colleges/iift-delhi), DMS IIT Delhi, and IMI New Delhi rank as the top 5 MBA colleges in Delhi NCR.
 > - **Fee vs Package ROI**: Course fees range from ₹2.32 Lakhs (FMS) to ₹25.50 Lakhs (MDI), with average placement packages scaling up to ₹34.10 LPA (FMS).
 > - **Admission Exams**: Admissions are primarily based on CAT & XAT scores, with CMAT & MAT accepted at private institutes like BIMTECH & FORE.
 
