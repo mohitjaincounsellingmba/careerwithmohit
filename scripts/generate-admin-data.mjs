@@ -170,6 +170,46 @@ function buildBlogAnalytics() {
 
   const totalUniqueVisitors = Math.round(grandTotalViews * 0.68);
 
+  const collegesDir = path.join(process.cwd(), 'colleges');
+  let indexedColleges = [];
+  if (fs.existsSync(collegesDir)) {
+    const files = fs.readdirSync(collegesDir).filter(f => f.endsWith('.md'));
+    console.log(`Indexing ${files.length} colleges into admin dataset...`);
+    indexedColleges = files.map(fileName => {
+      const slug = fileName.replace(/\.md$/, '');
+      const fullPath = path.join(collegesDir, fileName);
+      try {
+        const content = fs.readFileSync(fullPath, 'utf8');
+        const matterResult = matter(content);
+        const data = matterResult.data || {};
+        return {
+          slug,
+          name: data.name || slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+          logo: data.logo || '/logo.png',
+          location: data.location || 'India',
+          category: data.category || 'Management',
+          type: data.type || 'Institute',
+          courses: Array.isArray(data.courses) ? data.courses : (data.courses ? String(data.courses).split(',').map(c => c.trim()) : ['MBA', 'PGDM']),
+          established: Number(data.established) || 2000,
+          ownership: data.ownership || 'Private',
+          ranking: data.ranking || 'AICTE Approved',
+          fees: data.fees || 'Contact Admissions',
+          avg_placement: data.avg_placement || '₹8.5 LPA',
+          highest_placement: data.highest_placement || '₹22.0 LPA',
+          lowest_placement: data.lowest_placement || '₹5.5 LPA',
+          exams: Array.isArray(data.exams) ? data.exams : (data.exams ? String(data.exams).split(',').map(e => e.trim()) : ['CAT', 'MAT']),
+          brochure_url: data.brochure_url || '#',
+          website: data.website || 'https://www.careerwithmohit.online',
+          top_recruiters: Array.isArray(data.top_recruiters) ? data.top_recruiters : (data.top_recruiters ? String(data.top_recruiters).split(',').map(r => r.trim()) : ['Deloitte', 'KPMG']),
+          specialization: data.specialization || '',
+          cutoff: data.cutoff || '',
+        };
+      } catch (e) {
+        return null;
+      }
+    }).filter(Boolean);
+  }
+
   const payload = {
     updatedAt: new Date().toISOString(),
     isVerifiedGenuineData: true,
@@ -199,51 +239,19 @@ function buildBlogAnalytics() {
       { path: "/inquiry", title: "Direct Inquiry Form", views: Math.round(grandTotalViews * 0.05), clicks: Math.round(grandTotalClicks * 0.08) }
     ],
     blogs,
-    colleges: (() => {
-      const collegesDir = path.join(process.cwd(), 'colleges');
-      if (!fs.existsSync(collegesDir)) return [];
-      const files = fs.readdirSync(collegesDir).filter(f => f.endsWith('.md'));
-      console.log(`Indexing ${files.length} colleges into admin dataset...`);
-      return files.map(fileName => {
-        const slug = fileName.replace(/\.md$/, '');
-        const fullPath = path.join(collegesDir, fileName);
-        try {
-          const content = fs.readFileSync(fullPath, 'utf8');
-          const matterResult = matter(content);
-          const data = matterResult.data || {};
-          return {
-            slug,
-            name: data.name || slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
-            logo: data.logo || '/logo.png',
-            location: data.location || 'India',
-            category: data.category || 'Management',
-            type: data.type || 'Institute',
-            courses: Array.isArray(data.courses) ? data.courses : (data.courses ? String(data.courses).split(',').map(c => c.trim()) : ['MBA', 'PGDM']),
-            established: Number(data.established) || 2000,
-            ownership: data.ownership || 'Private',
-            ranking: data.ranking || 'AICTE Approved',
-            fees: data.fees || 'Contact Admissions',
-            avg_placement: data.avg_placement || '₹8.5 LPA',
-            highest_placement: data.highest_placement || '₹22.0 LPA',
-            lowest_placement: data.lowest_placement || '₹5.5 LPA',
-            exams: Array.isArray(data.exams) ? data.exams : (data.exams ? String(data.exams).split(',').map(e => e.trim()) : ['CAT', 'MAT']),
-            brochure_url: data.brochure_url || '#',
-            website: data.website || 'https://www.careerwithmohit.online',
-            top_recruiters: Array.isArray(data.top_recruiters) ? data.top_recruiters : (data.top_recruiters ? String(data.top_recruiters).split(',').map(r => r.trim()) : ['Deloitte', 'KPMG']),
-            specialization: data.specialization || '',
-            cutoff: data.cutoff || '',
-          };
-        } catch (e) {
-          return null;
-        }
-      }).filter(Boolean);
-    })()
+    colleges: indexedColleges
   };
 
   fs.writeFileSync(outputPath, JSON.stringify(payload));
   const fileSizeMb = (fs.statSync(outputPath).size / 1024 / 1024).toFixed(2);
   console.log(`Compact 24h & 365d dataset written to ${outputPath} (${fileSizeMb} MB)`);
+
+  const collegesOutputPath = path.join(process.cwd(), 'public', 'colleges-data.json');
+  fs.writeFileSync(collegesOutputPath, JSON.stringify({ success: true, count: indexedColleges.length, colleges: indexedColleges }));
+  const collegesFileSizeKb = (fs.statSync(collegesOutputPath).size / 1024).toFixed(1);
+  console.log(`Lightweight colleges dataset written to ${collegesOutputPath} (${collegesFileSizeKb} KB)`);
 }
 
 buildBlogAnalytics();
+
 

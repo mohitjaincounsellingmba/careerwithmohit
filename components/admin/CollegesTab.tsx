@@ -91,20 +91,63 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
 
   const [imagePreview, setImagePreview] = useState<string | null>(null);
 
-  // Fetch colleges list with static export fallback & localStorage persistence
+  const applyLocalStorageOverrides = (baseList: CollegeMetadata[]) => {
+    let finalColleges = baseList;
+    try {
+      const customCollegesStr = localStorage.getItem("cwm_custom_colleges_v2");
+      if (customCollegesStr) {
+        const customColleges: CollegeMetadata[] = JSON.parse(customCollegesStr);
+        const customSlugs = new Set(customColleges.map((c) => c.slug));
+        const baseFiltered = finalColleges.filter((c) => !customSlugs.has(c.slug));
+        finalColleges = [...customColleges, ...baseFiltered];
+      }
+
+      const deletedSlugsStr = localStorage.getItem("cwm_deleted_colleges_v2");
+      if (deletedSlugsStr) {
+        const deletedSlugs: string[] = JSON.parse(deletedSlugsStr);
+        const delSet = new Set(deletedSlugs);
+        finalColleges = finalColleges.filter((c) => !delSet.has(c.slug));
+      }
+    } catch (e) {}
+
+    setColleges(finalColleges);
+    setIsLoading(false);
+  };
+
+  // Fetch colleges list with fast static export fallback & localStorage persistence
   const fetchColleges = async () => {
+    let loadedColleges: CollegeMetadata[] = initialColleges || [];
+
+    if (loadedColleges.length > 0) {
+      applyLocalStorageOverrides(loadedColleges);
+      return;
+    }
+
     setIsLoading(true);
-    let loadedColleges: CollegeMetadata[] = initialColleges;
 
     try {
+      // 1. Try API route (dev server)
       const res = await fetch(`/api/admin/colleges?t=${Date.now()}`).catch(() => null);
       if (res && res.ok) {
         const data = await res.json();
         if (data.colleges && data.colleges.length > 0) {
           loadedColleges = data.colleges;
         }
-      } else {
-        // Fallback for static export: fetch /admin-data.json
+      }
+
+      // 2. Try fast lightweight /colleges-data.json (387 KB)
+      if (loadedColleges.length === 0) {
+        const colRes = await fetch(`/colleges-data.json?t=${Date.now()}`).catch(() => null);
+        if (colRes && colRes.ok) {
+          const colData = await colRes.json();
+          if (colData.colleges && colData.colleges.length > 0) {
+            loadedColleges = colData.colleges;
+          }
+        }
+      }
+
+      // 3. Fallback to /admin-data.json
+      if (loadedColleges.length === 0) {
         const fallbackRes = await fetch(`/admin-data.json?t=${Date.now()}`).catch(() => null);
         if (fallbackRes && fallbackRes.ok) {
           const fallbackData = await fallbackRes.json();
@@ -117,30 +160,15 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
       console.error("Failed to fetch colleges:", err);
     }
 
-    // Merge any custom added colleges or edits saved in localStorage
-    try {
-      const customCollegesStr = localStorage.getItem("cwm_custom_colleges_v2");
-      if (customCollegesStr) {
-        const customColleges: CollegeMetadata[] = JSON.parse(customCollegesStr);
-        const customSlugs = new Set(customColleges.map(c => c.slug));
-        const baseFiltered = loadedColleges.filter(c => !customSlugs.has(c.slug));
-        loadedColleges = [...customColleges, ...baseFiltered];
-      }
-
-      const deletedSlugsStr = localStorage.getItem("cwm_deleted_colleges_v2");
-      if (deletedSlugsStr) {
-        const deletedSlugs: string[] = JSON.parse(deletedSlugsStr);
-        const delSet = new Set(deletedSlugs);
-        loadedColleges = loadedColleges.filter(c => !delSet.has(c.slug));
-      }
-    } catch (e) {}
-
-    setColleges(loadedColleges);
-    setIsLoading(false);
+    applyLocalStorageOverrides(loadedColleges);
   };
 
   useEffect(() => {
-    fetchColleges();
+    if (initialColleges && initialColleges.length > 0) {
+      applyLocalStorageOverrides(initialColleges);
+    } else {
+      fetchColleges();
+    }
   }, [initialColleges]);
 
   const filteredColleges = useMemo(() => {
