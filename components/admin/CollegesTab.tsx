@@ -122,21 +122,42 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
       const customCollegesStr = localStorage.getItem("cwm_custom_colleges_v2");
       if (customCollegesStr) {
         const customColleges: CollegeMetadata[] = JSON.parse(customCollegesStr);
-        const customSlugs = new Set(customColleges.map((c) => c.slug));
-        const baseFiltered = finalColleges.filter((c) => !customSlugs.has(c.slug));
-        finalColleges = [...customColleges, ...baseFiltered];
+        if (Array.isArray(customColleges) && customColleges.length > 0) {
+          const customSlugs = new Set(customColleges.map((c) => c.slug));
+          const baseFiltered = finalColleges.filter((c) => !customSlugs.has(c.slug));
+          finalColleges = [...customColleges, ...baseFiltered];
+        }
       }
 
       const deletedSlugsStr = localStorage.getItem("cwm_deleted_colleges_v2");
       if (deletedSlugsStr) {
         const deletedSlugs: string[] = JSON.parse(deletedSlugsStr);
-        const delSet = new Set(deletedSlugs);
-        finalColleges = finalColleges.filter((c) => !delSet.has(c.slug));
+        if (Array.isArray(deletedSlugs) && deletedSlugs.length > 0) {
+          const delSet = new Set(deletedSlugs);
+          const remaining = finalColleges.filter((c) => !delSet.has(c.slug));
+          if (remaining.length > 0) {
+            finalColleges = remaining;
+          }
+        }
       }
     } catch (e) {}
 
+    if (!finalColleges || finalColleges.length === 0) {
+      finalColleges = DEFAULT_SEED_COLLEGES;
+    }
+
     setColleges(finalColleges);
     setIsLoading(false);
+  };
+
+  const handleResetCache = () => {
+    try {
+      localStorage.removeItem("cwm_custom_colleges_v2");
+      localStorage.removeItem("cwm_deleted_colleges_v2");
+    } catch (e) {}
+    setSearchQuery("");
+    setSelectedCategoryFilter("All");
+    fetchColleges();
   };
 
   // Fetch colleges list with fast static export fallback & localStorage persistence
@@ -407,14 +428,19 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
           </div>
         </div>
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3 flex-wrap">
+          <div className="px-3.5 py-2 rounded-xl bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-extrabold flex items-center gap-1.5">
+            <GraduationCap className="w-4 h-4 text-emerald-400" />
+            <span>Showing {filteredColleges.length} of {colleges.length} Colleges</span>
+          </div>
+
           <button
-            onClick={fetchColleges}
-            disabled={isLoading}
-            className="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-semibold border border-slate-700 transition-all cursor-pointer"
+            onClick={handleResetCache}
+            className="flex items-center gap-2 px-3.5 py-2.5 rounded-xl bg-slate-950 hover:bg-slate-800 text-slate-300 text-xs font-semibold border border-slate-800 transition-all cursor-pointer"
+            title="Reset Filters and Local Storage Cache"
           >
-            <RefreshCw className={`w-3.5 h-3.5 text-amber-400 ${isLoading ? "animate-spin" : ""}`} />
-            <span>Refresh List</span>
+            <RefreshCw className="w-3.5 h-3.5 text-amber-400" />
+            <span>Reset Cache</span>
           </button>
 
           <button
