@@ -48,13 +48,38 @@ interface CollegeMetadata {
   cutoff?: string;
 }
 
+import { MBA_PGDM_COLLEGES_2027 } from "@/data/mbaPgdmColleges2027";
+
+const DEFAULT_SEED_COLLEGES: CollegeMetadata[] = MBA_PGDM_COLLEGES_2027.map((item) => ({
+  slug: item.slug || item.universitySlug,
+  name: item.name,
+  logo: "/logo.png",
+  location: item.location,
+  category: "Management",
+  type: "Institute",
+  courses: item.programs || ["PGDM", "MBA"],
+  established: 1998,
+  ownership: "Private Autonomous",
+  ranking: item.accreditation || "AICTE Approved",
+  fees: item.fee,
+  avg_placement: item.avgPlacement || "₹8.50 LPA",
+  highest_placement: item.highestPlacement || "₹22.00 LPA",
+  lowest_placement: "₹5.50 LPA",
+  exams: ["CAT", "MAT", "CMAT", "XAT"],
+  brochure_url: "#",
+  website: "https://www.careerwithmohit.online",
+  top_recruiters: item.topRecruiters || ["Deloitte", "KPMG", "ICICI Bank", "Amazon"],
+}));
+
 interface CollegesTabProps {
   colleges?: CollegeMetadata[];
 }
 
 export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps) {
-  const [colleges, setColleges] = useState<CollegeMetadata[]>(initialColleges);
-  const [isLoading, setIsLoading] = useState(initialColleges.length === 0);
+  const [colleges, setColleges] = useState<CollegeMetadata[]>(
+    initialColleges.length > 0 ? initialColleges : DEFAULT_SEED_COLLEGES
+  );
+  const [isLoading, setIsLoading] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategoryFilter, setSelectedCategoryFilter] = useState("All");
 
@@ -92,7 +117,7 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
   const [imagePreview, setImagePreview] = useState<string | null>(null);
 
   const applyLocalStorageOverrides = (baseList: CollegeMetadata[]) => {
-    let finalColleges = baseList;
+    let finalColleges = baseList.length > 0 ? baseList : DEFAULT_SEED_COLLEGES;
     try {
       const customCollegesStr = localStorage.getItem("cwm_custom_colleges_v2");
       if (customCollegesStr) {
@@ -122,8 +147,6 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
       applyLocalStorageOverrides(loadedColleges);
       return;
     }
-
-    setIsLoading(true);
 
     try {
       // 1. Try API route (dev server)
@@ -158,6 +181,10 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
       }
     } catch (err) {
       console.error("Failed to fetch colleges:", err);
+    }
+
+    if (loadedColleges.length === 0) {
+      loadedColleges = DEFAULT_SEED_COLLEGES;
     }
 
     applyLocalStorageOverrides(loadedColleges);
