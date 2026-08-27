@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import React from "react";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
@@ -404,16 +405,36 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               li: ({ node, ...props }) => (
                 <li className="text-xl font-bold text-foreground leading-relaxed pl-2" {...props} />
               ),
-              blockquote: ({ node, children, ...props }) => (
-                <blockquote className="my-16 bg-blue-50 border-l-[12px] border-primary p-12 relative overflow-hidden not-italic" {...props}>
-                  <div className="absolute top-0 right-0 p-4 opacity-10">
-                    <Compass className="w-32 h-32 text-primary" />
-                  </div>
-                  <div className="relative z-10 text-2xl font-black text-primary leading-tight">
-                    {children}
-                  </div>
-                </blockquote>
-              ),
+              blockquote: ({ node, children, ...props }) => {
+                const contentStr = React.Children.toArray(children)
+                  .map(child => (typeof child === 'string' ? child : JSON.stringify(child)))
+                  .join(' ');
+                const isKeyTakeaway = /key takeaways|ai answer summary|direct ai answer|quick takeaways|💡|🤖/i.test(contentStr);
+
+                if (isKeyTakeaway) {
+                  return (
+                    <blockquote className="my-10 bg-slate-900 text-slate-100 border-4 border-amber-400 p-6 md:p-8 rounded-2xl shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] relative overflow-hidden not-italic" {...props}>
+                      <div className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-amber-400 mb-4 bg-amber-400/10 px-3 py-1 rounded-md border border-amber-400/30 w-fit">
+                        <span>🤖 Direct AI Answer Summary (ChatGPT & Gemini Optimized)</span>
+                      </div>
+                      <div className="relative z-10 text-base md:text-lg font-medium leading-relaxed text-slate-200 space-y-2 [&_ul]:pl-5 [&_ul]:space-y-2 [&_li]:text-slate-100 [&_strong]:text-amber-300 [&_strong]:bg-transparent">
+                        {children}
+                      </div>
+                    </blockquote>
+                  );
+                }
+
+                return (
+                  <blockquote className="my-16 bg-blue-50 border-l-[12px] border-primary p-12 relative overflow-hidden not-italic" {...props}>
+                    <div className="absolute top-0 right-0 p-4 opacity-10">
+                      <Compass className="w-32 h-32 text-primary" />
+                    </div>
+                    <div className="relative z-10 text-2xl font-black text-primary leading-tight">
+                      {children}
+                    </div>
+                  </blockquote>
+                );
+              },
               table: ({ node, ...props }) => (
                 <div className="overflow-x-auto my-16 rounded-xl border border-gray-200 shadow-xl overflow-hidden">
                   <table className="w-full border-collapse bg-white text-left font-body" {...props} />

@@ -12,19 +12,22 @@ Before writing a new post, ALWAYS perform the following:
 - Read [idea.md](file:///Users/mohitjain/Desktop/my%20portfolio/careerwithmohit/idea.md) to understand the core mission (MBA, BTech, Career Counselling, Exams).
 - List the contents of the [posts directory](file:///Users/mohitjain/Desktop/my%20portfolio/careerwithmohit/posts) and read at least 2-3 recent or relevant posts to match the tone, style, and formatting (usually markdown with frontmatter).
 
-### 2. SEO Guidelines
-Ensure the blog post follows these SEO best practices:
+### 2. SEO & GEO (Generative Engine Optimization) Guidelines
+Ensure the blog post follows these SEO & GEO best practices for Google, ChatGPT, Gemini, & Perplexity:
 - **Title**: Include the primary keyword naturally.
 - **Headings**: Use H1 for the main title, H2 for sub-sections, and H3 for sub-points.
+- **GEO Rule 1 (Direct AI Answer Summary Block)**: ALWAYS place a 3-bullet **Key Takeaways** block (40–60 words) immediately below the main heading using a blockquote (`> 💡 **Key Takeaways (Direct AI Answer Summary)**`). LLMs extract this block for AI Search Overviews.
+- **GEO Rule 2 (Structured Data Comparison Tables)**: Include a 4-column **Fee vs Average Package ROI Table** in every B-School guide or college review (`College Name`, `Total Fees`, `Avg Package`, `ROI & Admission Eligibility`).
 - **Keywords**: Integrate trending keywords related to Indian MBA/BTech admissions, fees, and placements.
 - **Internal Linking**: Link to at least 2-3 other relevant posts in the `posts/` directory.
 - **Meta Description**: Suggest a concise, compelling meta description.
-- **Structure**: Use bullet points and tables where appropriate to improve readability and "featured snippet" potential.
+- **Structure**: Use bullet points and structured markdown tables to maximize LLM citations.
 
 ### 3. Writing & Formatting
 - Write in a helpful, informative, and professional tone.
 - Save the file in the `posts/` directory with a kebab-case filename (e.g., `top-mba-colleges-2026.md`).
 - Ensure consistent YAML frontmatter (if applicable to the project).
+- Include the 3-bullet key takeaway block at the top and the 4-column ROI comparison table in college guides.
 
 ### 4. Git Automation
 Once the post is written and verified for quality:
