@@ -1101,25 +1101,25 @@ export function TopTierMbaClient() {
           </div>
 
           {/* Sidebar Counselling Form & Expert Widget Column */}
-          <div className="lg:col-span-4 lg:sticky lg:top-24 h-fit space-y-8">
-            <div id="consult-form" className="scroll-mt-28">
+          <div className="lg:col-span-4 lg:sticky lg:top-20 lg:max-h-[calc(100vh-5rem)] lg:overflow-y-auto pr-1 space-y-6">
+            <div id="consult-form" className="scroll-mt-24 space-y-6">
               {/* Executive Strategy Card */}
-              <div className="bg-slate-900 text-white border-8 border-foreground p-6 mb-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] relative overflow-hidden">
+              <div className="bg-slate-900 text-white border-4 md:border-6 border-foreground p-5 md:p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-36 h-36 bg-accent/10 rounded-full -mr-10 -mt-10 blur-xl" />
                 <div className="flex items-center gap-2 mb-3">
                   <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-ping" />
                   <span className="text-[10px] font-black uppercase tracking-widest text-accent">
-                    ADMISSION STRATEGY 2026-27
+                    ADMISSION STRATEGY 2027-28
                   </span>
                 </div>
-                <h3 className="text-2xl font-black uppercase leading-tight mb-3">
+                <h3 className="text-xl md:text-2xl font-black uppercase leading-tight mb-2">
                   Targeting IIMs, XLRI, or NMIMS?
                 </h3>
-                <p className="text-xs font-bold text-slate-300 leading-relaxed mb-5 border-l-4 border-accent pl-3">
+                <p className="text-xs font-bold text-slate-300 leading-relaxed mb-4 border-l-4 border-accent pl-3">
                   Don&apos;t apply blindly. Let Mohit Jain formulate your profile strategy, analyze your GD/PI calls, and guide you to India&apos;s best ROI business schools.
                 </p>
 
-                <div className="space-y-2.5 mb-6 text-xs font-bold text-slate-200">
+                <div className="space-y-2 mb-5 text-xs font-bold text-slate-200">
                   <div className="flex items-center gap-2">
                     <CheckCircle2 className="w-4 h-4 text-accent shrink-0" />
                     <span>Safe vs. Ambitious Cutoff Assessment</span>
@@ -1135,10 +1135,10 @@ export function TopTierMbaClient() {
                 </div>
 
                 <a
-                  href="https://wa.me/919811559190?text=Hi%20Mohit,%20I%20am%20exploring%20Top%20Tier%20MBA%20colleges%20for%202026-27.%20Please%20help%20me%20with%20counselling!"
+                  href="https://wa.me/919811559190?text=Hi%20Mohit,%20I%20am%20exploring%20Top%20Tier%20MBA%20colleges%20for%202027-28.%20Please%20help%20me%20with%20counselling!"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-black py-3.5 px-4 text-xs uppercase tracking-wider border-2 border-foreground shadow-[4px_4px_0px_0px_rgba(255,255,255,1)] flex items-center justify-center gap-2 transition-all block text-center"
+                  className="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-black py-3 px-4 text-xs uppercase tracking-wider border-2 border-foreground shadow-[4px_4px_0px_0px_rgba(255,255,255,1)] flex items-center justify-center gap-2 transition-all block text-center"
                 >
                   <MessageCircle className="w-4 h-4" />
                   Chat With Mohit On WhatsApp
@@ -1146,16 +1146,13 @@ export function TopTierMbaClient() {
               </div>
 
               {/* Lead Gen Form */}
-              <div className="bg-white border-8 border-foreground p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-                <div className="flex items-center gap-2 mb-2">
-                  <span className="bg-yellow-400 text-foreground text-[10px] font-black uppercase tracking-widest px-2.5 py-0.5 border border-foreground">
-                    FREE CONSULTATION
-                  </span>
-                </div>
-                <h3 className="text-xl font-black uppercase text-foreground mb-4">
-                  Request B-School Callback
-                </h3>
-                <InquiryForm />
+              <div className="bg-white border-4 md:border-6 border-foreground p-5 md:p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+                <InquiryForm
+                  variant="sidebar"
+                  source="Top Tier MBA Colleges Page - Sidebar Callback Request"
+                  title="Request B-School Callback"
+                  subtitle="Get 1-on-1 cutoff analysis & GD/PI preparation roadmap."
+                />
               </div>
             </div>
           </div>
