@@ -98,7 +98,6 @@ const TOOL_CATEGORIES = [
     accentColor: 'bg-violet-500',
     icon: Briefcase,
     tools: [
-      { name: 'AI Skills Gap Finder', desc: 'Identify missing skills for your dream job', href: '/tools/ai-skills', badge: 'AI', color: 'text-fuchsia-600' },
       { name: 'Career Roadmap Builder', desc: 'Build a customized 6-month career plan', href: '/calculator/career-roadmap', badge: 'New', color: 'text-blue-600' },
       { name: 'Hashtag Generator', desc: 'Create trending hashtags for social content', href: '/tools/hashtag-generator', badge: null, color: 'text-pink-600' },
     ]

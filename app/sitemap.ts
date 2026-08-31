@@ -60,7 +60,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/cuet-pg-mba-predictor',
     '/tools/college-comparison',
     '/tools/accreditation-checker',
-    '/tools/ai-skills',
     '/tools/hashtag-generator',
     '/tools/govt-exams-mock-test',
     '/tools',

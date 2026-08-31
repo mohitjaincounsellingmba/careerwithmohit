@@ -1,6 +1,6 @@
 "use client";
 
-import { LogOut, RefreshCw, BarChart3, Globe, FileText, MapPin, MousePointerClick, Users, Shield, Zap, Activity, Sparkles, FlaskConical, GraduationCap } from "lucide-react";
+import { LogOut, RefreshCw, BarChart3, Globe, FileText, MapPin, MousePointerClick, Users, Shield, Zap, Sparkles, FlaskConical, GraduationCap, GitCompare } from "lucide-react";
 
 interface AdminHeaderProps {
   activeTab: string;
@@ -9,6 +9,7 @@ interface AdminHeaderProps {
   onLogout: () => void;
   isRefreshing: boolean;
   totalBlogsCount: number;
+  totalCollegesCount?: number;
   activeNow?: number;
 }
 
@@ -19,21 +20,22 @@ export function AdminHeader({
   onLogout,
   isRefreshing,
   totalBlogsCount,
+  totalCollegesCount = 654,
   activeNow = 0
 }: AdminHeaderProps) {
   const tabs = [
     { id: "overview", label: "Overview", icon: BarChart3 },
-    { id: "colleges", label: "🎓 Add / Manage Colleges", icon: GraduationCap },
+    { id: "colleges", label: `🎓 Colleges (${totalCollegesCount})`, icon: GraduationCap },
+    { id: "seo", label: "🌐 SEO & GEO Studio", icon: Sparkles },
+    { id: "diff", label: "🔄 Diff & Revisions", icon: GitCompare },
+    { id: "leads", label: "👥 Leads & Inquiries", icon: Users },
+    { id: "blogs", label: `📝 Blogs (${totalBlogsCount})`, icon: FileText },
     { id: "realtime", label: "⚡ Real-Time Traffic", icon: Zap },
-    { id: "abtest", label: "🧪 A/B Experiments", icon: FlaskConical },
-    { id: "seo", label: "🌐 SEO & GEO Command Center", icon: Sparkles },
-    { id: "blogs", label: `Blogs (${totalBlogsCount})`, icon: FileText },
-    { id: "pages", label: "Page Views", icon: Globe },
-    { id: "locations", label: "Visitor Locations", icon: MapPin },
-    { id: "clicks", label: "Clicks & CTR", icon: MousePointerClick },
-    { id: "leads", label: "Leads Overview", icon: Users },
+    { id: "abtest", label: "🧪 A/B Testing", icon: FlaskConical },
+    { id: "pages", label: "📄 Page Views", icon: Globe },
+    { id: "locations", label: "📍 Visitor Locations", icon: MapPin },
+    { id: "clicks", label: "👆 Clicks & CTR", icon: MousePointerClick },
   ];
-
 
   return (
     <header className="bg-slate-900/90 backdrop-blur-md border-b border-slate-800 sticky top-0 z-30 font-body">
@@ -48,10 +50,10 @@ export function AdminHeader({
               <div className="flex items-center gap-2">
                 <span className="font-extrabold text-white text-lg tracking-tight">CareerWithMohit</span>
                 <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-amber-500/10 text-amber-400 border border-amber-500/20">
-                  Admin Panel
+                  Admin Command Hub
                 </span>
               </div>
-              <p className="text-xs text-slate-400">Website & Blog Analytics Dashboard</p>
+              <p className="text-xs text-slate-400">Real Data • 5,095+ Posts • 654 Colleges • Live SEO & Diffs</p>
             </div>
           </div>
 

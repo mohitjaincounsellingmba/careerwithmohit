@@ -19,6 +19,8 @@
 /tools/salary-slip-generator /tools 301
 /tools/offer-letter-generator /tools 301
 /tools/resume-generator /tools 301
+/tools/ai-skills /tools 301
+/tools/ai-skills/* /tools 301
 /tools/resume-analyzer /tools 301
 /colleges/first-bridge-gurgaon /colleges 301
 /blog/top-cmat-colleges-delhi-ncr /blog 301

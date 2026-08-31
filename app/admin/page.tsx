@@ -15,6 +15,7 @@ import { LeadsOverviewTab } from "@/components/admin/LeadsOverviewTab";
 import { SeoStudioTab } from "@/components/admin/SeoStudioTab";
 import { ABTestingTab } from "@/components/admin/ABTestingTab";
 import { CollegesTab } from "@/components/admin/CollegesTab";
+import { DiffInspectorTab } from "@/components/admin/DiffInspectorTab";
 import { AlertCircle } from "lucide-react";
 
 
@@ -280,6 +281,7 @@ export default function AdminDashboardPage() {
         onLogout={handleLogout}
         isRefreshing={isRefreshing}
         totalBlogsCount={filteredData?.blogs?.length || 0}
+        totalCollegesCount={filteredData?.colleges?.length || 654}
         activeNow={activeNow}
       />
 
@@ -300,7 +302,7 @@ export default function AdminDashboardPage() {
         {isLoadingData ? (
           <div className="py-24 flex flex-col items-center justify-center gap-3 text-slate-400">
             <div className="w-8 h-8 border-3 border-amber-400 border-t-transparent rounded-full animate-spin" />
-            <span className="text-sm font-semibold">Loading 5,000+ blog & site analytics...</span>
+            <span className="text-sm font-semibold">Loading 5,095+ blog & 654+ college analytics...</span>
           </div>
         ) : fetchError ? (
           <div className="p-6 rounded-2xl bg-red-500/10 border border-red-500/30 text-red-400 flex items-center justify-between">
@@ -332,11 +334,19 @@ export default function AdminDashboardPage() {
               <CollegesTab colleges={filteredData.colleges || []} />
             )}
 
-
             {activeTab === "seo" && (
               <SeoStudioTab
                 blogs={filteredData.blogs || []}
                 summary={filteredData.summary}
+              />
+            )}
+
+            {activeTab === "diff" && (
+              <DiffInspectorTab
+                blogs={filteredData.blogs || []}
+                colleges={filteredData.colleges || []}
+                recentCommits={filteredData.recentCommits || []}
+                sampleDiffs={filteredData.sampleDiffs || []}
               />
             )}
 
@@ -381,7 +391,11 @@ export default function AdminDashboardPage() {
             )}
 
             {activeTab === "leads" && (
-              <LeadsOverviewTab summary={filteredData.summary} />
+              <LeadsOverviewTab
+                summary={filteredData.summary}
+                leads={filteredData.leads || []}
+                subscribers={filteredData.subscribers || []}
+              />
             )}
           </>
         ) : null}

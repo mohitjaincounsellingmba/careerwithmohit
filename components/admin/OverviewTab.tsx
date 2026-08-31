@@ -1,6 +1,6 @@
 "use client";
 
-import { Eye, Users, MousePointerClick, TrendingUp, Sparkles, FileText, MapPin, ArrowUpRight } from "lucide-react";
+import { Eye, Users, MousePointerClick, TrendingUp, Sparkles, FileText, MapPin, ArrowUpRight, GraduationCap, GitCompare, HelpCircle } from "lucide-react";
 
 interface OverviewTabProps {
   data: any;
@@ -11,7 +11,7 @@ interface OverviewTabProps {
 export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabProps) {
   if (!data) return null;
 
-  const { summary, locations, blogs, dateKeys, is24h } = data;
+  const { summary, locations, blogs, colleges, dateKeys, is24h, seoAudit, mockTests, leads, subscribers } = data;
 
   // Compute aggregate traffic curve for selected window
   const dailyTotals = dateKeys.map((dKey: string) => {
@@ -31,34 +31,85 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
 
   return (
     <div className="space-y-6 font-body">
-      {/* Quick Action Banner: Today's Blog Suggestions & SEO Studio */}
-      <div
-        onClick={() => setActiveTab("seo")}
-        className="bg-gradient-to-r from-amber-500/10 via-slate-900 to-slate-900 border border-amber-500/30 hover:border-amber-500/60 rounded-2xl p-4 shadow-lg flex flex-col sm:flex-row sm:items-center justify-between gap-3 cursor-pointer group transition-all"
-      >
-        <div className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-xl bg-amber-500/20 text-amber-400 border border-amber-500/30 flex items-center justify-center font-bold shrink-0">
-            <Sparkles className="w-5 h-5 animate-pulse" />
-          </div>
-          <div>
-            <div className="flex items-center gap-2">
-              <h3 className="text-sm font-extrabold text-white group-hover:text-amber-400 transition-colors">
-                🔍 SEO & Today's 5 Blog Suggestions
-              </h3>
-              <span className="px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 text-[10px] font-bold">
-                5 Fresh Daily Topics Ready
-              </span>
+      {/* Quick Launch Cards Grid */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        {/* Card 1: SEO Command Center */}
+        <div
+          onClick={() => setActiveTab("seo")}
+          className="bg-gradient-to-br from-amber-500/10 via-slate-900 to-slate-900 border border-amber-500/30 hover:border-amber-500/60 rounded-2xl p-5 shadow-lg flex flex-col justify-between gap-3 cursor-pointer group transition-all"
+        >
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-amber-500/20 text-amber-400 border border-amber-500/30 flex items-center justify-center font-bold shrink-0">
+              <Sparkles className="w-5 h-5 animate-pulse" />
             </div>
-            <p className="text-xs text-slate-400 mt-0.5">
-              Explore competitor gaps, target keywords, content outlines & 1-click AI writing prompts.
-            </p>
+            <div>
+              <div className="flex items-center gap-2">
+                <h3 className="text-sm font-extrabold text-white group-hover:text-amber-400 transition-colors">
+                  SEO & GEO Command Center
+                </h3>
+              </div>
+              <p className="text-[11px] text-slate-400 mt-0.5">
+                Avg Score: <strong className="text-amber-400">{summary.avgSeoScore || 88}/100</strong> • 5 Fresh Daily Topics
+              </p>
+            </div>
+          </div>
+          <div className="flex items-center justify-between text-xs text-amber-400 font-bold pt-2 border-t border-slate-800/80">
+            <span>Explore AI Prompts & Keywords</span>
+            <ArrowUpRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
           </div>
         </div>
 
-        <button className="px-4 py-2 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-xs flex items-center justify-center gap-1.5 transition-all shrink-0">
-          <span>Open SEO Section</span>
-          <ArrowUpRight className="w-4 h-4" />
-        </button>
+        {/* Card 2: Diff & Revision Inspector */}
+        <div
+          onClick={() => setActiveTab("diff")}
+          className="bg-gradient-to-br from-indigo-500/10 via-slate-900 to-slate-900 border border-indigo-500/30 hover:border-indigo-500/60 rounded-2xl p-5 shadow-lg flex flex-col justify-between gap-3 cursor-pointer group transition-all"
+        >
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-indigo-500/20 text-indigo-400 border border-indigo-500/30 flex items-center justify-center font-bold shrink-0">
+              <GitCompare className="w-5 h-5" />
+            </div>
+            <div>
+              <div className="flex items-center gap-2">
+                <h3 className="text-sm font-extrabold text-white group-hover:text-indigo-400 transition-colors">
+                  Diff & Revision Inspector
+                </h3>
+              </div>
+              <p className="text-[11px] text-slate-400 mt-0.5">
+                Compare Blog Revisions, SEO Changes & College Matrices
+              </p>
+            </div>
+          </div>
+          <div className="flex items-center justify-between text-xs text-indigo-400 font-bold pt-2 border-t border-slate-800/80">
+            <span>Side-by-Side Comparator</span>
+            <ArrowUpRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
+          </div>
+        </div>
+
+        {/* Card 3: College Directory & Leads */}
+        <div
+          onClick={() => setActiveTab("colleges")}
+          className="bg-gradient-to-br from-emerald-500/10 via-slate-900 to-slate-900 border border-emerald-500/30 hover:border-emerald-500/60 rounded-2xl p-5 shadow-lg flex flex-col justify-between gap-3 cursor-pointer group transition-all"
+        >
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 flex items-center justify-center font-bold shrink-0">
+              <GraduationCap className="w-5 h-5" />
+            </div>
+            <div>
+              <div className="flex items-center gap-2">
+                <h3 className="text-sm font-extrabold text-white group-hover:text-emerald-400 transition-colors">
+                  Colleges Hub ({summary.totalColleges || colleges?.length || 654})
+                </h3>
+              </div>
+              <p className="text-[11px] text-slate-400 mt-0.5">
+                Manage 654+ Institutes, Placements, Fees & Cutoffs
+              </p>
+            </div>
+          </div>
+          <div className="flex items-center justify-between text-xs text-emerald-400 font-bold pt-2 border-t border-slate-800/80">
+            <span>Manage All Colleges</span>
+            <ArrowUpRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
+          </div>
+        </div>
       </div>
 
       {/* Metric Cards */}
@@ -115,7 +166,7 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
           </div>
         </div>
 
-        {/* Card 4: Total Blogs */}
+        {/* Card 4: Total Blogs & Content */}
         <div className="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-lg relative overflow-hidden group">
           <div className="absolute top-0 right-0 w-24 h-24 bg-purple-500/10 rounded-full blur-2xl group-hover:bg-purple-500/20 transition-all" />
           <div className="flex items-center justify-between text-slate-400 text-xs font-semibold uppercase tracking-wider mb-2">
@@ -128,7 +179,7 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
             {summary.totalBlogs.toLocaleString()}
           </div>
           <div className="flex items-center gap-1 text-xs text-purple-400 font-semibold mt-2">
-            <span>Multi-range telemetry</span>
+            <span>{summary.totalColleges || colleges?.length || 654} Colleges • 9 Mock Exams</span>
           </div>
         </div>
       </div>
@@ -222,6 +273,8 @@ export function OverviewTab({ data, setActiveTab, onSelectBlog }: OverviewTabPro
                       </span>
                       <span>•</span>
                       <span>{blog.date}</span>
+                      <span>•</span>
+                      <span className="text-emerald-400 font-bold text-[10px]">SEO: {blog.seoScore || 85}</span>
                     </div>
                   </div>
                 </div>
