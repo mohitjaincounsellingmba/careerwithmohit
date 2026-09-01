@@ -52,6 +52,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/online-degree-certification/sastra-vs-amrita',
     '/online-degree-certification/scdl-vs-nmims',
     '/mock-tests',
+    '/mock-tests/cat',
     '/scholarships-2026',
     '/tools/cat-mock-test',
     '/tools/nmat-mock-test',
