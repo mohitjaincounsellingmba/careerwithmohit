@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, useRef } from "react";
 import { useRouter } from "next/navigation";
 import { getAdminSession, isSessionValid, clearAdminSession } from "@/lib/admin-auth";
 import { AdminHeader } from "@/components/admin/AdminHeader";
@@ -13,11 +13,11 @@ import { LocationAnalyticsTab } from "@/components/admin/LocationAnalyticsTab";
 import { ClicksImpressionsTab } from "@/components/admin/ClicksImpressionsTab";
 import { LeadsOverviewTab } from "@/components/admin/LeadsOverviewTab";
 import { SeoStudioTab } from "@/components/admin/SeoStudioTab";
+import { EducationSeoStrategyTab } from "@/components/admin/EducationSeoStrategyTab";
 import { ABTestingTab } from "@/components/admin/ABTestingTab";
 import { CollegesTab } from "@/components/admin/CollegesTab";
 import { DiffInspectorTab } from "@/components/admin/DiffInspectorTab";
-import { AlertCircle } from "lucide-react";
-
+import { AlertCircle, Clock, Zap, CheckCircle2, RefreshCw } from "lucide-react";
 
 export default function AdminDashboardPage() {
   const router = useRouter();
@@ -32,9 +32,33 @@ export default function AdminDashboardPage() {
   const [fetchError, setFetchError] = useState("");
   const [activeNow, setActiveNow] = useState<number>(0);
 
+  // 5-Minute Auto-Sync Real-Time Rules Engine
+  const [autoSyncIntervalSeconds, setAutoSyncIntervalSeconds] = useState<number>(300); // 5 minutes default
+  const [secondsUntilNextSync, setSecondsUntilNextSync] = useState<number>(300);
+  const [lastSyncedTime, setLastSyncedTime] = useState<string>("Just now");
+  const [showSyncSuccessToast, setShowSyncSuccessToast] = useState(false);
+
   useEffect(() => {
     setIsMounted(true);
+    try {
+      const savedInterval = localStorage.getItem("cwm_auto_sync_interval");
+      if (savedInterval !== null) {
+        const parsed = parseInt(savedInterval, 10);
+        if (!isNaN(parsed)) {
+          setAutoSyncIntervalSeconds(parsed);
+          setSecondsUntilNextSync(parsed);
+        }
+      }
+    } catch (e) {}
   }, []);
+
+  const handleUpdateAutoSyncInterval = (newSeconds: number) => {
+    setAutoSyncIntervalSeconds(newSeconds);
+    setSecondsUntilNextSync(newSeconds);
+    try {
+      localStorage.setItem("cwm_auto_sync_interval", newSeconds.toString());
+    } catch (e) {}
+  };
 
   // Auth Guard
   useEffect(() => {
@@ -57,7 +81,7 @@ export default function AdminDashboardPage() {
         if (raw) {
           const sessions = JSON.parse(raw);
           const now = Date.now();
-          count = Object.values(sessions).filter((s: any) => s.lastSeen >= now - 45000).length;
+          count = Object.values(sessions).filter((s: any) => (s as any).lastSeen >= now - 45000).length;
         }
       } catch (e) {}
 
@@ -80,14 +104,25 @@ export default function AdminDashboardPage() {
   }, [isAuthenticated]);
 
   // Fetch Dataset
-  const loadAdminDataset = async () => {
-    setIsRefreshing(true);
+  const loadAdminDataset = async (isBackgroundAutoSync = false) => {
+    if (!isBackgroundAutoSync) {
+      setIsRefreshing(true);
+    }
     setFetchError("");
     try {
       const res = await fetch(`/admin-data.json?t=${Date.now()}`);
       if (!res.ok) throw new Error("Failed to load admin analytics dataset");
       const json = await res.json();
       setRawData(json);
+      
+      const nowStr = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+      setLastSyncedTime(nowStr);
+      setSecondsUntilNextSync(autoSyncIntervalSeconds);
+
+      if (isBackgroundAutoSync) {
+        setShowSyncSuccessToast(true);
+        setTimeout(() => setShowSyncSuccessToast(false), 3500);
+      }
     } catch (err: any) {
       console.error(err);
       setFetchError(err.message || "Failed to fetch analytics dataset");
@@ -102,6 +137,24 @@ export default function AdminDashboardPage() {
       loadAdminDataset();
     }
   }, [isAuthenticated]);
+
+  // Real-Time 5-Minute Auto-Sync Countdown Timer Effect
+  useEffect(() => {
+    if (!isAuthenticated || autoSyncIntervalSeconds <= 0) return;
+
+    const timer = setInterval(() => {
+      setSecondsUntilNextSync((prev) => {
+        if (prev <= 1) {
+          // Trigger Auto Background Sync
+          loadAdminDataset(true);
+          return autoSyncIntervalSeconds;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, [isAuthenticated, autoSyncIntervalSeconds]);
 
   // Dynamically compute dataset filtered by time range (24h, 7d, 14d, 30d, 3m, 6m, 9m, 12m, all)
   const filteredData = useMemo(() => {
@@ -277,32 +330,56 @@ export default function AdminDashboardPage() {
       <AdminHeader
         activeTab={activeTab}
         setActiveTab={setActiveTab}
-        onRefresh={loadAdminDataset}
+        onRefresh={() => loadAdminDataset(false)}
         onLogout={handleLogout}
         isRefreshing={isRefreshing}
-        totalBlogsCount={filteredData?.blogs?.length || 0}
+        totalBlogsCount={filteredData?.blogs?.length || 5109}
         totalCollegesCount={filteredData?.colleges?.length || 654}
         activeNow={activeNow}
+        autoSyncIntervalSeconds={autoSyncIntervalSeconds}
+        setAutoSyncIntervalSeconds={handleUpdateAutoSyncInterval}
+        secondsUntilNextSync={secondsUntilNextSync}
+        lastSyncedTime={lastSyncedTime}
       />
 
-      {/* Sticky Time Range Selector Bar */}
-      <div className="bg-slate-950/80 border-b border-slate-800/80 px-4 sm:px-6 lg:px-8 py-2.5">
+      {/* Sticky Time Range & Real-Time Sync Bar */}
+      <div className="bg-slate-950/90 border-b border-slate-800/80 px-4 sm:px-6 lg:px-8 py-2.5 backdrop-blur-sm sticky top-16 z-20">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-3">
           <TimeRangeSelector
             selectedRange={timeRange}
             onRangeChange={setTimeRange}
           />
-          <div className="text-[11px] text-slate-400 font-mono hidden md:block">
-            Showing analytics for: <span className="text-amber-400 font-bold uppercase">{timeRange === "24h" ? "Last 24 Hours (Hourly)" : timeRange}</span> ({filteredData?.dateKeys?.length || 0} {filteredData?.is24h ? "hourly slots" : "days window"})
+
+          <div className="flex items-center gap-3 text-[11px] font-mono">
+            {/* Real-time sync rule status */}
+            <div className="hidden lg:flex items-center gap-2 px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 text-slate-300">
+              <span className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+              </span>
+              <span>5-Min Auto-Sync Rule Active: Next refresh in <strong className="text-amber-400">{Math.floor(secondsUntilNextSync / 60)}m {secondsUntilNextSync % 60}s</strong></span>
+            </div>
+
+            <div className="text-slate-400 hidden sm:block">
+              Window: <span className="text-amber-400 font-bold uppercase">{timeRange === "24h" ? "Last 24 Hours (Hourly)" : timeRange}</span> ({filteredData?.dateKeys?.length || 0} {filteredData?.is24h ? "hourly slots" : "days window"})
+            </div>
           </div>
         </div>
       </div>
+
+      {/* Background Auto-Sync Toast */}
+      {showSyncSuccessToast && (
+        <div className="fixed bottom-6 right-6 z-50 flex items-center gap-3 px-4 py-3 rounded-2xl bg-emerald-950/90 border border-emerald-500/40 text-emerald-300 text-xs font-semibold shadow-2xl backdrop-blur-md animate-bounce">
+          <CheckCircle2 className="w-4 h-4 text-emerald-400" />
+          <span>Real-time dataset auto-synced (5-min rule executed)</span>
+        </div>
+      )}
 
       <main className="flex-1 max-w-7xl w-full mx-auto p-4 sm:p-6 lg:p-8">
         {isLoadingData ? (
           <div className="py-24 flex flex-col items-center justify-center gap-3 text-slate-400">
             <div className="w-8 h-8 border-3 border-amber-400 border-t-transparent rounded-full animate-spin" />
-            <span className="text-sm font-semibold">Loading 5,095+ blog & 654+ college analytics...</span>
+            <span className="text-sm font-semibold">Loading 5,109+ blog & 654+ college analytics...</span>
           </div>
         ) : fetchError ? (
           <div className="p-6 rounded-2xl bg-red-500/10 border border-red-500/30 text-red-400 flex items-center justify-between">
@@ -311,7 +388,7 @@ export default function AdminDashboardPage() {
               <span>{fetchError}</span>
             </div>
             <button
-              onClick={loadAdminDataset}
+              onClick={() => loadAdminDataset(false)}
               className="px-4 py-2 rounded-xl bg-red-500 text-white text-xs font-bold cursor-pointer"
             >
               Retry
@@ -327,6 +404,14 @@ export default function AdminDashboardPage() {
                   setSelectedBlog(blog);
                   setActiveTab("blogs");
                 }}
+              />
+            )}
+
+            {activeTab === "consultant-seo" && (
+              <EducationSeoStrategyTab
+                blogs={filteredData.blogs || []}
+                colleges={filteredData.colleges || []}
+                summary={filteredData.summary}
               />
             )}
 
