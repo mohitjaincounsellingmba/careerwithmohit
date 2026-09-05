@@ -1,24 +1,45 @@
 ---
-title: "Top MBA Colleges in Dehradun Admission 2027: Fees, Placements & Cutoffs (DBS, UPES, Graphic Era)"
-date: "2026-09-03"
-description: "Complete guide to MBA admission 2027 in Dehradun and Uttarakhand. Check fees, cutoffs, and placements for Doon Business School, UPES Dehradun, Graphic Era, and Uttaranchal University."
+title: >-
+  Top MBA Colleges in Dehradun Admission 2027: Fees, Placements & Cutoffs (DBS,
+  UPES, Graphic Era)
+date: '2026-09-03'
+description: >-
+  Complete guide to MBA admission 2027 in Dehradun and Uttarakhand. Check fees,
+  cutoffs, and placements for Doon Business School, UPES Dehradun, Graphic Era,
+  and Uttaranchal University.
 keywords:
-  - "mba admission 2027"
-  - "pgdm admission 2027"
-  - "cat 2026"
-  - "xat exam"
-  - "top mba colleges in dehradun"
-  - "doon business school pgdm fees 2027"
-  - "upes dehradun mba placement"
-  - "graphic era mba admission 2027"
-  - "dehradun mba direct admission"
+  - mba admission 2027
+  - pgdm admission 2027
+  - cat 2026
+  - xat exam
+  - top mba colleges in dehradun
+  - doon business school pgdm fees 2027
+  - upes dehradun mba placement
+  - graphic era mba admission 2027
+  - dehradun mba direct admission
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: "Which is the best MBA college in Dehradun for ROI and placements?"
-    answer: "Doon Business School (DBS) and UPES Dehradun are the top management institutions in Dehradun. DBS offers high ROI with fees around ₹7.5 Lakhs and average placements of ₹7.8 LPA."
-  - question: "What entrance exams are accepted for MBA admission in Dehradun?"
-    answer: "Colleges in Dehradun accept CAT 2026, XAT exam, MAT, CMAT, and conduct university-specific tests like UPESMET."
-  - question: "Why do outstation students choose Dehradun for MBA programs?"
-    answer: "Dehradun offers scenic, safe, distraction-free residential campuses with world-class infrastructure and growing placement pipelines with Delhi NCR corporate firms."
+  - question: Which is the best MBA college in Dehradun for ROI and placements?
+    answer: >-
+      Doon Business School (DBS) and UPES Dehradun are the top management
+      institutions in Dehradun. DBS offers high ROI with fees around ₹7.5 Lakhs
+      and average placements of ₹7.8 LPA.
+  - question: What entrance exams are accepted for MBA admission in Dehradun?
+    answer: >-
+      Colleges in Dehradun accept CAT 2026, XAT exam, MAT, CMAT, and conduct
+      university-specific tests like UPESMET.
+  - question: Why do outstation students choose Dehradun for MBA programs?
+    answer: >-
+      Dehradun offers scenic, safe, distraction-free residential campuses with
+      world-class infrastructure and growing placement pipelines with Delhi NCR
+      corporate firms.
+location: Delhi NCR
+state: Delhi NCR
 ---
 # Top MBA Colleges in Dehradun Admission 2027: Fees, Placements & Cutoffs (DBS, UPES, Graphic Era)
 

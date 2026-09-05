@@ -1,24 +1,47 @@
 ---
-title: "Top MBA Colleges in Chandigarh & Tricity Admission 2027: Fees, Cutoffs & Placement Reports"
-date: "2026-09-03"
-description: "Explore top MBA and PGDM colleges in Chandigarh, Mohali, and Punjab for 2027 admission. Compare UBS Panjab University, Chitkara, LM Thapar, Chandigarh University, and LPU."
+title: >-
+  Top MBA Colleges in Chandigarh & Tricity Admission 2027: Fees, Cutoffs &
+  Placement Reports
+date: '2026-09-03'
+description: >-
+  Explore top MBA and PGDM colleges in Chandigarh, Mohali, and Punjab for 2027
+  admission. Compare UBS Panjab University, Chitkara, LM Thapar, Chandigarh
+  University, and LPU.
 keywords:
-  - "mba admission 2027"
-  - "cat 2026"
-  - "xat 2027"
-  - "pgdm admission 2027"
-  - "top mba colleges in chandigarh"
-  - "ubs chandigarh cat cutoff 2027"
-  - "chitkara business school mba fees"
-  - "lm thapar mba placement"
-  - "chandigarh university mba review"
+  - mba admission 2027
+  - cat 2026
+  - xat 2027
+  - pgdm admission 2027
+  - top mba colleges in chandigarh
+  - ubs chandigarh cat cutoff 2027
+  - chitkara business school mba fees
+  - lm thapar mba placement
+  - chandigarh university mba review
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
-  - question: "Which college in Chandigarh offers the highest ROI for MBA 2027?"
-    answer: "UBS Chandigarh (University Business School, Panjab University) offers the highest ROI with a total 2-year fee of under ₹1.5 Lakhs and average placement packages of ₹13.7 LPA."
-  - question: "What CAT 2026 percentile is required for UBS Chandigarh?"
-    answer: "UBS Chandigarh requires an 88 to 92+ percentile in CAT 2026 for general category admissions."
-  - question: "Which private b-schools in Chandigarh Tricity are best for 100% placements?"
-    answer: "Chitkara Business School, LM Thapar School of Management (Derabassi), and Chandigarh University are the leading private options in the Tricity region."
+  - question: Which college in Chandigarh offers the highest ROI for MBA 2027?
+    answer: >-
+      UBS Chandigarh (University Business School, Panjab University) offers the
+      highest ROI with a total 2-year fee of under ₹1.5 Lakhs and average
+      placement packages of ₹13.7 LPA.
+  - question: What CAT 2026 percentile is required for UBS Chandigarh?
+    answer: >-
+      UBS Chandigarh requires an 88 to 92+ percentile in CAT 2026 for general
+      category admissions.
+  - question: >-
+      Which private b-schools in Chandigarh Tricity are best for 100%
+      placements?
+    answer: >-
+      Chitkara Business School, LM Thapar School of Management (Derabassi), and
+      Chandigarh University are the leading private options in the Tricity
+      region.
+location: Chandigarh
+state: Punjab
 ---
 # Top MBA Colleges in Chandigarh & Tricity Admission 2027: Fees, Cutoffs & Placement Reports
 

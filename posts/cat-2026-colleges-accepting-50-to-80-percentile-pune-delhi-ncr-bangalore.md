@@ -1,23 +1,46 @@
 ---
-title: "CAT 2026: Best MBA/PGDM Colleges for 50 to 80 Percentile in Pune, Delhi NCR & Bangalore"
-date: "2026-09-03"
-description: "Scored 50, 60, 70, or 80 percentile in CAT 2026? Explore the best AICTE-approved PGDM and MBA colleges in Pune, Delhi NCR, Bangalore, and Jaipur with high ROI and placements."
+title: >-
+  CAT 2026: Best MBA/PGDM Colleges for 50 to 80 Percentile in Pune, Delhi NCR &
+  Bangalore
+date: '2026-09-03'
+description: >-
+  Scored 50, 60, 70, or 80 percentile in CAT 2026? Explore the best
+  AICTE-approved PGDM and MBA colleges in Pune, Delhi NCR, Bangalore, and Jaipur
+  with high ROI and placements.
 keywords:
-  - "cat 2026"
-  - "mba admission 2027"
-  - "pgdm admission 2027"
-  - "colleges accepting 60 to 70 percentile in cat 2026"
-  - "colleges accepting 50 to 60 percentile in cat"
-  - "colleges accepting 70 to 80 percentile in cat 2026"
-  - "pune mba colleges 60 percentile"
-  - "delhi ncr mba colleges 70 percentile"
+  - cat 2026
+  - mba admission 2027
+  - pgdm admission 2027
+  - colleges accepting 60 to 70 percentile in cat 2026
+  - colleges accepting 50 to 60 percentile in cat
+  - colleges accepting 70 to 80 percentile in cat 2026
+  - pune mba colleges 60 percentile
+  - delhi ncr mba colleges 70 percentile
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: "Can I get a good PGDM college with a 60-70 percentile in CAT 2026?"
-    answer: "Yes! Excellent AICTE-approved b-schools like NDIM New Delhi, FOSTIIMA Delhi, FIIB, JIMS Kalkaji, PIBM Pune, Lexicon MILE, RIIM Pune, ISBR Bangalore, and IBA accept candidates in the 60-70 percentile bracket."
-  - question: "What is the average placement salary for colleges accepting 60-75 CAT percentile?"
-    answer: "Average placement packages range from ₹7.5 LPA to ₹11.5 LPA, offering solid return on investment against 2-year tuition fees of ₹7 to ₹12 Lakhs."
-  - question: "Do these colleges conduct separate GD-PI rounds for admissions?"
-    answer: "Yes. Once CAT 2026 percentiles are declared, colleges conduct profile-based evaluations including Group Discussions, Micro-presentations, and Personal Interviews."
+  - question: Can I get a good PGDM college with a 60-70 percentile in CAT 2026?
+    answer: >-
+      Yes! Excellent AICTE-approved b-schools like NDIM New Delhi, FOSTIIMA
+      Delhi, FIIB, JIMS Kalkaji, PIBM Pune, Lexicon MILE, RIIM Pune, ISBR
+      Bangalore, and IBA accept candidates in the 60-70 percentile bracket.
+  - question: >-
+      What is the average placement salary for colleges accepting 60-75 CAT
+      percentile?
+    answer: >-
+      Average placement packages range from ₹7.5 LPA to ₹11.5 LPA, offering
+      solid return on investment against 2-year tuition fees of ₹7 to ₹12 Lakhs.
+  - question: Do these colleges conduct separate GD-PI rounds for admissions?
+    answer: >-
+      Yes. Once CAT 2026 percentiles are declared, colleges conduct
+      profile-based evaluations including Group Discussions,
+      Micro-presentations, and Personal Interviews.
+location: Delhi NCR
+state: Delhi NCR
 ---
 # CAT 2026: Best MBA/PGDM Colleges for 50 to 80 Percentile in Pune, Delhi NCR & Bangalore
 

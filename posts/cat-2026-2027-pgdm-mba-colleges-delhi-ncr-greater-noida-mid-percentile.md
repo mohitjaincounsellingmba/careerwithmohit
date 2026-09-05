@@ -1,38 +1,72 @@
 ---
-title: "CAT 2026-2027 Selection Blueprint: Best 2-Year PGDM / MBA Colleges in Delhi NCR & Greater Noida for Mid-Percentile Aspirants (65-85%ile)"
-description: "Complete 2026-2027 guide to CAT 2026-2027 admissions in Delhi NCR & Greater Noida. Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs, realistic cutoffs & book free profile evaluation with Mohit Jain."
-date: "2026-09-04"
-category: "MBA & PGDM"
+title: >-
+  CAT 2026-2027 Selection Blueprint: Best 2-Year PGDM / MBA Colleges in Delhi
+  NCR & Greater Noida for Mid-Percentile Aspirants (65-85%ile)
+description: >-
+  Complete 2026-2027 guide to CAT 2026-2027 admissions in Delhi NCR & Greater
+  Noida. Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs,
+  realistic cutoffs & book free profile evaluation with Mohit Jain.
+date: '2026-09-04'
+category: MBA & PGDM
 tags:
-  - "CAT 2026-2027"
-  - "MBA Admissions"
-  - "Delhi NCR"
-  - "PGDM 2027"
-  - "Career Guidance"
-author: "Mohit Jain"
+  - CAT 2026-2027
+  - MBA Admissions
+  - Delhi NCR
+  - PGDM 2027
+  - Career Guidance
+author: Mohit Jain
 keywords:
-  - "CAT 2026-2027"
-  - "CAT 2026 mid percentile colleges"
-  - "MBA Colleges Delhi NCR 65-85 percentile"
-  - "PGDM Greater Noida 70 percentile"
-  - "Best MBA Colleges under 15 Lakhs Delhi NCR"
-  - "BIMTECH Greater Noida CAT Cutoff"
-  - "GL Bajaj Greater Noida PGDM CAT Cutoff"
-  - "JIMS Rohini CAT Cutoff"
-  - "FOSTIIMA Business School Delhi CAT Cutoff"
-  - "Jaipuria Noida PGDM Cutoff"
-  - "Direct MBA Admission Delhi NCR"
+  - CAT 2026-2027
+  - CAT 2026 mid percentile colleges
+  - MBA Colleges Delhi NCR 65-85 percentile
+  - PGDM Greater Noida 70 percentile
+  - Best MBA Colleges under 15 Lakhs Delhi NCR
+  - BIMTECH Greater Noida CAT Cutoff
+  - GL Bajaj Greater Noida PGDM CAT Cutoff
+  - JIMS Rohini CAT Cutoff
+  - FOSTIIMA Business School Delhi CAT Cutoff
+  - Jaipuria Noida PGDM Cutoff
+  - Direct MBA Admission Delhi NCR
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: "Can I get a good PGDM college in Delhi NCR with a 65-75 percentile in CAT 2026?"
-    answer: "Yes, aspirants scoring between 65-75 percentile in CAT 2026 have strong options in Delhi NCR & Greater Noida such as GL Bajaj, JIMS Rohini/Kalkaji, FOSTIIMA Business School, FIIB Delhi, NDIM Delhi, and GIMS Greater Noida, offering average placement packages between ₹7.8 LPA and ₹10.5 LPA."
-  - question: "What is the fee structure for mid-percentile MBA/PGDM colleges in Greater Noida & Delhi NCR?"
-    answer: "The total 2-year tuition and program fee generally ranges between ₹7.5 Lakhs and ₹14.5 Lakhs, offering strong ROI compared to top Tier-1 private institutes charging ₹22-28 Lakhs."
-  - question: "How much weightage does GD-PI and academic profile carry in CAT mid-percentile admissions?"
-    answer: "At most AICTE-approved PGDM institutes in Delhi NCR, your GD-PI performance, academic consistency (10th/12th/Graduation), and work experience carry 40% to 50% composite weightage, allowing strong profiles to beat higher percentile test-takers."
-  - question: "Which MBA specialization offers the highest ROI in Delhi NCR for the 2026-2027 batch?"
-    answer: "Business Analytics & AI, Fintech / Banking & Corporate Finance, and Digital Marketing & E-Commerce lead campus placement ROI in Delhi NCR with packages starting from ₹8 LPA to ₹16 LPA."
-location: "Delhi NCR"
-state: "Delhi NCR"
+  - question: >-
+      Can I get a good PGDM college in Delhi NCR with a 65-75 percentile in CAT
+      2026?
+    answer: >-
+      Yes, aspirants scoring between 65-75 percentile in CAT 2026 have strong
+      options in Delhi NCR & Greater Noida such as GL Bajaj, JIMS
+      Rohini/Kalkaji, FOSTIIMA Business School, FIIB Delhi, NDIM Delhi, and GIMS
+      Greater Noida, offering average placement packages between ₹7.8 LPA and
+      ₹10.5 LPA.
+  - question: >-
+      What is the fee structure for mid-percentile MBA/PGDM colleges in Greater
+      Noida & Delhi NCR?
+    answer: >-
+      The total 2-year tuition and program fee generally ranges between ₹7.5
+      Lakhs and ₹14.5 Lakhs, offering strong ROI compared to top Tier-1 private
+      institutes charging ₹22-28 Lakhs.
+  - question: >-
+      How much weightage does GD-PI and academic profile carry in CAT
+      mid-percentile admissions?
+    answer: >-
+      At most AICTE-approved PGDM institutes in Delhi NCR, your GD-PI
+      performance, academic consistency (10th/12th/Graduation), and work
+      experience carry 40% to 50% composite weightage, allowing strong profiles
+      to beat higher percentile test-takers.
+  - question: >-
+      Which MBA specialization offers the highest ROI in Delhi NCR for the
+      2026-2027 batch?
+    answer: >-
+      Business Analytics & AI, Fintech / Banking & Corporate Finance, and
+      Digital Marketing & E-Commerce lead campus placement ROI in Delhi NCR with
+      packages starting from ₹8 LPA to ₹16 LPA.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # CAT 2026-2027 Selection Blueprint: Best 2-Year PGDM / MBA Colleges in Delhi NCR & Greater Noida for Mid-Percentile Aspirants (65-85%ile)

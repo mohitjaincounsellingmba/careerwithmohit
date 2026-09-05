@@ -2,7 +2,10 @@
 title: 'MICA Ahmedabad Review 2026: Placements, Fees, MICAT Cutoffs & ROI Analysis'
 date: '2026-09-04'
 category: MBA Admissions
-description: 'Comprehensive MICA Ahmedabad review for 2026: Check latest PGDM & PGDM-C placement stats (₹19.22–₹20.46 LPA avg package), ₹28 Lakhs fee structure, MICAT exam dates, cutoffs, ROI, and admission process.'
+description: >-
+  Comprehensive MICA Ahmedabad review for 2026: Check latest PGDM & PGDM-C
+  placement stats (₹19.22–₹20.46 LPA avg package), ₹28 Lakhs fee structure,
+  MICAT exam dates, cutoffs, ROI, and admission process.
 keywords:
   - MICA Ahmedabad review 2026
   - MICA Ahmedabad average package
@@ -15,22 +18,41 @@ keywords:
   - MBA in Brand Management Ahmedabad
   - Top MBA colleges in Gujarat 2026
   - MBA in Ahmedabad
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
   - question: What is the average package at MICA Ahmedabad for the 2025–2026 batch?
     answer: >-
-      The average package at MICA Ahmedabad stands between ₹19.22 LPA and ₹20.46 LPA for its flagship PGDM and PGDM-C programs, while the highest package has reached up to ₹40.91 LPA to ₹45.67 LPA with 100% placement records.
-  - question: What is the total fee structure for PGDM / PGDM-C at MICA Ahmedabad for 2026–2028?
+      The average package at MICA Ahmedabad stands between ₹19.22 LPA and ₹20.46
+      LPA for its flagship PGDM and PGDM-C programs, while the highest package
+      has reached up to ₹40.91 LPA to ₹45.67 LPA with 100% placement records.
+  - question: >-
+      What is the total fee structure for PGDM / PGDM-C at MICA Ahmedabad for
+      2026–2028?
     answer: >-
-      The total 2-year residential program fee at MICA Ahmedabad is approximately ₹28.00 Lakhs, which covers tuition, air-conditioned residential accommodation, infrastructure, and access to industry resources.
+      The total 2-year residential program fee at MICA Ahmedabad is
+      approximately ₹28.00 Lakhs, which covers tuition, air-conditioned
+      residential accommodation, infrastructure, and access to industry
+      resources.
   - question: Is MICAT mandatory for admission to MICA Ahmedabad?
     answer: >-
-      Yes, appearing for MICAT (MICA Admission Test) is mandatory. Candidates must also have a valid score in CAT 2025, XAT 2026, or GMAT (taken within the last 2 years).
+      Yes, appearing for MICAT (MICA Admission Test) is mandatory. Candidates
+      must also have a valid score in CAT 2025, XAT 2026, or GMAT (taken within
+      the last 2 years).
   - question: What is the selection process and composite score weightage at MICA?
     answer: >-
-      The final selection composite score is calculated with: CAT/XAT/GMAT (20%), MICAT (30%), Group Exercise (20%), and Personal Interview (30%). Candidates must also clear the qualifying Psychometric test in MICAT.
+      The final selection composite score is calculated with: CAT/XAT/GMAT
+      (20%), MICAT (30%), Group Exercise (20%), and Personal Interview (30%).
+      Candidates must also clear the qualifying Psychometric test in MICAT.
   - question: Which specializations are offered in MICA PGDM-C?
     answer: >-
-      MICA offers specializations in Advertising & Brand Management, Digital Communication Management (DCM), Marketing Analytics, and Media & Entertainment Management.
+      MICA offers specializations in Advertising & Brand Management, Digital
+      Communication Management (DCM), Marketing Analytics, and Media &
+      Entertainment Management.
 location: Ahmedabad
 state: Gujarat
 ---

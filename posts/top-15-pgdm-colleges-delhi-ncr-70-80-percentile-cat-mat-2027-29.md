@@ -8,25 +8,25 @@ ab_test:
   variants:
     A:
       title: >-
-        Top 15 PGDM Colleges in Delhi NCR Accepting 70-80 Percentile in CAT / MAT
-        (2027-29)
+        Top 15 PGDM Colleges in Delhi NCR Accepting 70-80 Percentile in CAT /
+        MAT (2027-29)
       description: >-
         Comprehensive 2027-29 guide to top PGDM colleges in Delhi NCR accepting
-        70-80 percentile in CAT/MAT. Compare fees, cutoffs, real placements (₹6-12
-        LPA), and direct application strategies.
+        70-80 percentile in CAT/MAT. Compare fees, cutoffs, real placements
+        (₹6-12 LPA), and direct application strategies.
     B:
       title: >-
-        Best PGDM Colleges in Delhi NCR for 70-80 Percentile (CAT / MAT 2027-29):
-        Fees, Placements & Admission Guide
+        Best PGDM Colleges in Delhi NCR for 70-80 Percentile (CAT / MAT
+        2027-29): Fees, Placements & Admission Guide
       description: >-
         Explore top AICTE-approved B-schools in Delhi NCR accepting 70-80%ile in
         CAT & MAT. Detailed analysis of NDIM, Jaipuria, FIIB, JIMS, placements,
         and ROI.
 category: MBA Admissions
 description: >-
-  Looking for top AICTE-approved PGDM colleges in Delhi NCR with 70-80 percentile
-  in CAT or MAT for the 2027-29 batch? Explore detailed fees, placement averages
-  (₹6-12 LPA), cutoffs, and direct application advice.
+  Looking for top AICTE-approved PGDM colleges in Delhi NCR with 70-80
+  percentile in CAT or MAT for the 2027-29 batch? Explore detailed fees,
+  placement averages (₹6-12 LPA), cutoffs, and direct application advice.
 keywords:
   - Top 15 PGDM Colleges in Delhi NCR 70-80 Percentile CAT MAT
   - Delhi NCR PGDM Colleges CAT cutoff 70 to 80 percentile
@@ -52,9 +52,13 @@ keywords:
   - Delhi NCR Direct Admission 2027
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
 location: Delhi NCR
 faqs:
-  - question: Which top PGDM colleges in Delhi NCR accept 70-80 percentile in CAT and MAT?
+  - question: >-
+      Which top PGDM colleges in Delhi NCR accept 70-80 percentile in CAT and
+      MAT?
     answer: >-
       Top AICTE-approved B-schools in Delhi NCR accepting 70-80 percentile
       include New Delhi Institute of Management (NDIM), Jaipuria Institute of
@@ -62,7 +66,9 @@ faqs:
       FOSTIIMA Business School, JIMS Rohini, JIMS Kalkaji, IILM Gurgaon, Delhi
       School of Business (DSB), Apeejay School of Management (ASM) Dwarka, and
       GL Bajaj Greater Noida.
-  - question: What is the average placement package for PGDM colleges accepting 70-80 percentile?
+  - question: >-
+      What is the average placement package for PGDM colleges accepting 70-80
+      percentile?
     answer: >-
       PGDM colleges in the 70-80 percentile category offer average placement
       packages ranging between ₹6.5 LPA and ₹12.3 LPA, with top 20% performers
@@ -74,17 +80,21 @@ faqs:
       (Association of Indian Universities) equivalence are legally recognized as
       equivalent to an MBA degree for government recruitment, public sector
       undertakings (PSUs), higher education, and PhD/FPM admissions.
-  - question: Can I get direct admission in top PGDM colleges in Delhi NCR with a MAT score?
+  - question: >-
+      Can I get direct admission in top PGDM colleges in Delhi NCR with a MAT
+      score?
     answer: >-
       Yes, institutions like NDIM, Jaipuria Noida, FIIB, FOSTIIMA, and JIMS
       actively accept MAT, CMAT, and XAT scores alongside CAT. A 75-85
       percentile in MAT is treated on par with a 70-75 percentile in CAT for
       GD-PI shortlisting.
-  - question: What is the total fee range for top 70-80 percentile PGDM B-schools in Delhi NCR?
+  - question: >-
+      What is the total fee range for top 70-80 percentile PGDM B-schools in
+      Delhi NCR?
     answer: >-
-      The 2-year total tuition fee across these 15 institutions ranges from ₹6.50
-      Lakhs (high ROI segment like Lloyd, GNIOT, ITS) to ₹14.50 Lakhs (premium
-      tier like Jaipuria Noida and NDIM New Delhi).
+      The 2-year total tuition fee across these 15 institutions ranges from
+      ₹6.50 Lakhs (high ROI segment like Lloyd, GNIOT, ITS) to ₹14.50 Lakhs
+      (premium tier like Jaipuria Noida and NDIM New Delhi).
 state: Delhi NCR
 ---
 

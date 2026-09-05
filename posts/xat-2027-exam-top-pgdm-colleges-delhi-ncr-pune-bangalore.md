@@ -1,24 +1,49 @@
 ---
-title: "XAT 2027: Top PGDM Colleges in Delhi NCR, Pune & Bangalore Accepting XAT Exam Scores"
-date: "2026-09-03"
-description: "Explore top PGDM colleges accepting XAT 2027 and XAT exam scores in Delhi NCR, Pune, Bangalore, and Mumbai. Check XLRI, IMT, FORE, BIMTECH, GIM, TAPMI, and Lexicon MILE."
+title: >-
+  XAT 2027: Top PGDM Colleges in Delhi NCR, Pune & Bangalore Accepting XAT Exam
+  Scores
+date: '2026-09-03'
+description: >-
+  Explore top PGDM colleges accepting XAT 2027 and XAT exam scores in Delhi NCR,
+  Pune, Bangalore, and Mumbai. Check XLRI, IMT, FORE, BIMTECH, GIM, TAPMI, and
+  Lexicon MILE.
 keywords:
-  - "xat 2027"
-  - "xat exam"
-  - "pgdm admission 2027"
-  - "cat 2026"
-  - "top colleges accepting xat 2027"
-  - "xat cutoff for bimtech 2027"
-  - "fore school xat cutoff"
-  - "gim goa xat cutoff"
-  - "tapmi xat cutoff"
+  - xat 2027
+  - xat exam
+  - pgdm admission 2027
+  - cat 2026
+  - top colleges accepting xat 2027
+  - xat cutoff for bimtech 2027
+  - fore school xat cutoff
+  - gim goa xat cutoff
+  - tapmi xat cutoff
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: "Which top private b-schools accept XAT 2027 exam scores apart from XLRI?"
-    answer: "Top private institutions accepting XAT 2027 include IMT Ghaziabad, FORE School of Management (Delhi), BIMTECH (Greater Noida), GIM Goa, TAPMI Manipal/Bengaluru, XIME Bangalore, and Great Lakes Chennai."
-  - question: "What is the expected XAT 2027 cutoff for Tier-2 PGDM colleges in Delhi NCR and Pune?"
-    answer: "Tier-2 autonomous colleges like BIMTECH, LBSIM, NDIM, PIBM Pune, and Lexicon MILE accept XAT percentiles ranging from 60 to 75 percentile."
-  - question: "Is Decision Making (DM) section mandatory in XAT exam for non-XLRI colleges?"
-    answer: "Yes, all colleges evaluate your overall XAT composite score, which includes Verbal & Logical Ability, Decision Making (DM), and Quantitative Ability."
+  - question: Which top private b-schools accept XAT 2027 exam scores apart from XLRI?
+    answer: >-
+      Top private institutions accepting XAT 2027 include IMT Ghaziabad, FORE
+      School of Management (Delhi), BIMTECH (Greater Noida), GIM Goa, TAPMI
+      Manipal/Bengaluru, XIME Bangalore, and Great Lakes Chennai.
+  - question: >-
+      What is the expected XAT 2027 cutoff for Tier-2 PGDM colleges in Delhi NCR
+      and Pune?
+    answer: >-
+      Tier-2 autonomous colleges like BIMTECH, LBSIM, NDIM, PIBM Pune, and
+      Lexicon MILE accept XAT percentiles ranging from 60 to 75 percentile.
+  - question: >-
+      Is Decision Making (DM) section mandatory in XAT exam for non-XLRI
+      colleges?
+    answer: >-
+      Yes, all colleges evaluate your overall XAT composite score, which
+      includes Verbal & Logical Ability, Decision Making (DM), and Quantitative
+      Ability.
+location: Delhi NCR
+state: Delhi NCR
 ---
 # XAT 2027: Top PGDM Colleges in Delhi NCR, Pune & Bangalore Accepting XAT Exam Scores
 

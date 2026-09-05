@@ -1,25 +1,50 @@
 ---
-title: "MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2026 / XAT 2027"
-date: "2026-09-03"
-description: "Explore MBA and PGDM admission 2027 in Delhi NCR. Discover top non-IIM colleges accepting CAT 2026 and XAT 2027 scores including FMS, MDI, FORE, LBSIM, NDIM, FIIB, and SOIL Gurgaon."
+title: >-
+  MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for
+  CAT 2026 / XAT 2027
+date: '2026-09-03'
+description: >-
+  Explore MBA and PGDM admission 2027 in Delhi NCR. Discover top non-IIM
+  colleges accepting CAT 2026 and XAT 2027 scores including FMS, MDI, FORE,
+  LBSIM, NDIM, FIIB, and SOIL Gurgaon.
 keywords:
-  - "mba admission 2027"
-  - "cat 2026"
-  - "xat 2027"
-  - "pgdm admission 2027"
-  - "delhi ncr mba admission 2027"
-  - "top non iim colleges in delhi ncr"
-  - "fore school of management cutoff 2027"
-  - "lbsim delhi fees 2027"
-  - "ndim delhi admission 2027"
-  - "soil gurgaon placement report"
+  - mba admission 2027
+  - cat 2026
+  - xat 2027
+  - pgdm admission 2027
+  - delhi ncr mba admission 2027
+  - top non iim colleges in delhi ncr
+  - fore school of management cutoff 2027
+  - lbsim delhi fees 2027
+  - ndim delhi admission 2027
+  - soil gurgaon placement report
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: "Which are the best non-IIM MBA colleges in Delhi NCR accepting CAT 2026 and XAT 2027?"
-    answer: "Top tier non-IIM institutions in Delhi NCR include FMS Delhi, MDI Gurgaon, FORE School of Management, LBSIM Delhi, BIMTECH, NDIM, FIIB, SOIL Gurgaon, and FOSTIIMA Business School."
-  - question: "What CAT 2026 percentile is needed for FORE School and LBSIM Delhi?"
-    answer: "FORE School typically requires an 85+ percentile in CAT 2026 or XAT 2027, while LBSIM requires an 80-84 percentile for its flagship PGDM program."
-  - question: "Which colleges in Delhi NCR are best for CAT 2026 scores between 60 to 75 percentile?"
-    answer: "Colleges like NDIM Delhi, FIIB New Delhi, FOSTIIMA Business School, JIMS Rohini/Kalkaji, and SOIL Gurgaon provide high ROI and strong corporate placements for candidates in the 60-75 percentile range."
+  - question: >-
+      Which are the best non-IIM MBA colleges in Delhi NCR accepting CAT 2026
+      and XAT 2027?
+    answer: >-
+      Top tier non-IIM institutions in Delhi NCR include FMS Delhi, MDI Gurgaon,
+      FORE School of Management, LBSIM Delhi, BIMTECH, NDIM, FIIB, SOIL Gurgaon,
+      and FOSTIIMA Business School.
+  - question: What CAT 2026 percentile is needed for FORE School and LBSIM Delhi?
+    answer: >-
+      FORE School typically requires an 85+ percentile in CAT 2026 or XAT 2027,
+      while LBSIM requires an 80-84 percentile for its flagship PGDM program.
+  - question: >-
+      Which colleges in Delhi NCR are best for CAT 2026 scores between 60 to 75
+      percentile?
+    answer: >-
+      Colleges like NDIM Delhi, FIIB New Delhi, FOSTIIMA Business School, JIMS
+      Rohini/Kalkaji, and SOIL Gurgaon provide high ROI and strong corporate
+      placements for candidates in the 60-75 percentile range.
+location: Delhi NCR
+state: Delhi NCR
 ---
 # MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2026 / XAT 2027
 

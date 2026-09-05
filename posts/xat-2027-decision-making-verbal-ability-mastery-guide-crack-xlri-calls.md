@@ -1,13 +1,13 @@
 ---
-title: >-
-  XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls
+title: 'XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls'
 date: '2026-09-03'
 ab_test:
   id: xat-2027-dm-valr-mastery-v1
   variants:
     A:
       title: >-
-        XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls
+        XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI
+        Calls
       description: >-
         Master XAT 2027 Decision Making (DM) and Verbal Ability & Logical
         Reasoning (VALR) with ethics principles, business case scenarios,
@@ -41,7 +41,12 @@ keywords:
   - Direct Admission Delhi NCR
   - Top Colleges in Delhi NCR 2027
   - Delhi NCR Career Counselling
-location: Pan India
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+location: Delhi NCR
 faqs:
   - question: Why is the Decision Making (DM) section crucial in XAT 2027?
     answer: >-
@@ -68,15 +73,15 @@ faqs:
     answer: >-
       In XAT, candidates are allowed to leave up to 8 questions unattempted
       without penalty. Leaving more than 8 questions blank incurs a negative
-      marking penalty of -0.10 marks per unattempted question. Standard incorrect
-      MCQ answers carry a -0.25 mark penalty.
+      marking penalty of -0.10 marks per unattempted question. Standard
+      incorrect MCQ answers carry a -0.25 mark penalty.
   - question: How can I prepare for Poem Comprehension and Abstract RCs in XAT VALR?
     answer: >-
       Focus on extracting overarching metaphors, tone, and central philosophical
       themes rather than literal dictionary definitions. Read essays from
       sources like Aeon, The Guardian, and The Economist, and solve past 10-year
       XAT poem sets to understand question-framing patterns.
-state: All India
+state: Delhi NCR
 ---
 
 # XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls
