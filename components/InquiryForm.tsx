@@ -19,7 +19,9 @@ import {
   Award,
   ArrowRight,
   Clock,
-  Check
+  Check,
+  Flame,
+  Zap
 } from 'lucide-react';
 
 export interface InquiryFormProps {
@@ -111,39 +113,39 @@ export function InquiryForm({
     }
   };
 
-  /* ── SUCCESS STATE WITH MODERN CURVED CARDS ── */
+  /* ── SUCCESS STATE WITH RICH VIBRANT CELEBRATION ── */
   if (status === 'success') {
     return (
-      <div className={`relative overflow-hidden bg-gradient-to-b from-emerald-50/80 via-white to-emerald-50/40 border-2 border-emerald-500/30 p-6 md:p-8 rounded-3xl shadow-xl shadow-emerald-500/10 text-center animate-in fade-in zoom-in-95 duration-400 ${className}`}>
-        {/* Decorative Top Accent Glow */}
-        <div className="absolute -top-12 left-1/2 -translate-x-1/2 w-48 h-24 bg-emerald-400/20 rounded-full blur-2xl pointer-events-none" />
+      <div className={`relative overflow-hidden bg-gradient-to-b from-emerald-50/90 via-white to-teal-50/50 border-2 border-emerald-500/30 p-6 md:p-10 rounded-3xl shadow-2xl shadow-emerald-600/10 text-center animate-in fade-in zoom-in-95 duration-300 ${className}`}>
+        {/* Glow Accent */}
+        <div className="absolute -top-14 left-1/2 -translate-x-1/2 w-64 h-28 bg-emerald-400/25 rounded-full blur-3xl pointer-events-none" />
 
-        <div className="w-16 h-16 bg-gradient-to-tr from-emerald-600 to-teal-500 text-white rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-lg shadow-emerald-600/30 ring-4 ring-emerald-100 animate-bounce">
+        <div className="w-16 h-16 bg-gradient-to-tr from-emerald-600 via-teal-500 to-cyan-500 text-white rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-xl shadow-emerald-500/30 ring-4 ring-emerald-100 animate-bounce">
           <CheckCircle2 className="w-9 h-9 stroke-[2.5]" />
         </div>
 
-        <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-100/90 text-emerald-800 text-[11px] font-black uppercase tracking-wider mb-2.5 border border-emerald-300/60">
-          <Sparkles className="w-3.5 h-3.5 text-emerald-600" /> Request Verified &amp; Queued
+        <div className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-emerald-100 text-emerald-800 text-xs font-black uppercase tracking-wider mb-3 border border-emerald-300">
+          <Sparkles className="w-3.5 h-3.5 text-emerald-600" /> Request Verified &amp; Priority Assigned
         </div>
 
         <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight mb-2">
-          We&apos;re On It, {formData.name.split(' ')[0] || 'Aspirant'}!
+          Thank You, {formData.name.split(' ')[0] || 'Aspirant'}!
         </h3>
         
         <p className="text-slate-600 text-sm font-medium mb-6 max-w-md mx-auto leading-relaxed">
-          Mohit Jain&apos;s senior admissions mentorship team has received your profile for <strong className="text-slate-900 font-bold">{formData.course || 'Admissions'}</strong>. We will review your best-fit colleges and connect within 24 business hours.
+          Mohit Jain&apos;s senior admissions mentorship team has received your profile for <span className="font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded-md border border-indigo-100">{formData.course || 'Admissions'}</span>. We will review your best-fit colleges and connect within 24 business hours.
         </p>
 
-        {/* Quick Highlights Pill Badges */}
+        {/* Highlights Pills */}
         <div className="flex flex-wrap items-center justify-center gap-2 mb-6">
-          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-slate-200 text-slate-700 text-xs font-bold shadow-sm">
+          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-emerald-200 text-emerald-800 text-xs font-bold shadow-sm">
             <Check className="w-3.5 h-3.5 text-emerald-600" /> Free Profile Evaluation
           </span>
-          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-slate-200 text-slate-700 text-xs font-bold shadow-sm">
+          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-blue-200 text-blue-800 text-xs font-bold shadow-sm">
             <Clock className="w-3.5 h-3.5 text-blue-600" /> Fast Callback
           </span>
-          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-slate-200 text-slate-700 text-xs font-bold shadow-sm">
-            <Award className="w-3.5 h-3.5 text-amber-500" /> 100% Verified Seats
+          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-amber-200 text-amber-800 text-xs font-bold shadow-sm">
+            <Award className="w-3.5 h-3.5 text-amber-600" /> 100% Verified Seats
           </span>
         </div>
 
@@ -152,7 +154,7 @@ export function InquiryForm({
             href={`https://wa.me/919560020771?text=${encodeURIComponent(`Hi Mohit Sir, I just submitted an inquiry for ${formData.course || 'B-School Counselling'}. My name is ${formData.name}. Please review my profile!`)}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="w-full bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold py-3.5 px-6 rounded-2xl text-sm shadow-md shadow-emerald-600/30 hover:shadow-lg hover:shadow-emerald-600/40 flex items-center justify-center gap-2 transition-all active:scale-95"
+            className="w-full bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-800 text-white font-extrabold py-3.5 px-6 rounded-2xl text-sm shadow-lg shadow-emerald-600/30 hover:shadow-xl hover:shadow-emerald-600/40 flex items-center justify-center gap-2 transition-all active:scale-95"
           >
             <MessageCircle className="w-5 h-5 fill-white/20" />
             Chat Instantly on WhatsApp
@@ -181,15 +183,18 @@ export function InquiryForm({
     );
   }
 
-  /* ── SIDEBAR / COMPACT VARIANT ── */
+  /* ── SIDEBAR / COMPACT VARIANT WITH VIBRANT PALETTE ── */
   if (isSidebar) {
     return (
-      <form onSubmit={handleSubmit} className={`bg-white rounded-3xl border border-slate-200/80 p-5 md:p-6 shadow-lg shadow-slate-900/5 space-y-4 ${className}`}>
+      <form onSubmit={handleSubmit} className={`relative overflow-hidden bg-gradient-to-b from-white via-indigo-50/20 to-white rounded-3xl border border-indigo-100 p-5 md:p-6 shadow-xl shadow-indigo-950/5 space-y-4 ${className}`}>
+        {/* Colorful top gradient line */}
+        <div className="absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r from-blue-600 via-indigo-500 to-amber-500" />
+
         {!hideHeader && (
-          <div className="mb-4">
+          <div className="mb-4 pt-1">
             <div className="flex items-center gap-2 mb-2">
-              <span className="inline-flex items-center gap-1 bg-amber-500/10 text-amber-600 text-[10px] font-black uppercase tracking-wider px-2.5 py-1 rounded-full border border-amber-500/20">
-                <Sparkles className="w-3 h-3" /> 100% Free Consultation
+              <span className="inline-flex items-center gap-1 bg-gradient-to-r from-amber-500/15 to-orange-500/15 text-amber-700 text-[10px] font-black uppercase tracking-wider px-2.5 py-1 rounded-full border border-amber-400/30 shadow-xs">
+                <Zap className="w-3 h-3 text-amber-600 fill-amber-500" /> Free Consultation
               </span>
               <span className="text-[11px] font-bold text-slate-500">2027 Intake</span>
             </div>
@@ -219,8 +224,8 @@ export function InquiryForm({
                   onClick={() => setFormData({ ...formData, course: courseName })}
                   className={`px-3 py-1.5 rounded-full text-xs font-bold transition-all border ${
                     isSelected
-                      ? 'bg-blue-600 text-white border-blue-600 shadow-sm shadow-blue-500/30'
-                      : 'bg-slate-50 text-slate-700 border-slate-200 hover:bg-slate-100 hover:border-slate-300'
+                      ? 'bg-gradient-to-r from-blue-600 to-indigo-600 text-white border-transparent shadow-md shadow-blue-500/25 ring-2 ring-indigo-400/30'
+                      : 'bg-white text-slate-700 border-slate-200/90 hover:bg-indigo-50/60 hover:text-indigo-700 hover:border-indigo-200'
                   }`}
                 >
                   {courseName}
@@ -236,7 +241,9 @@ export function InquiryForm({
             Full Name <span className="text-rose-500">*</span>
           </label>
           <div className="relative">
-            <User className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-3.5 top-1/2 -translate-y-1/2 text-indigo-500">
+              <User className="w-4 h-4" />
+            </div>
             <input
               id="name-sb"
               name="name"
@@ -246,7 +253,7 @@ export function InquiryForm({
               placeholder="e.g. Rahul Sharma"
               value={formData.name}
               onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-11 bg-slate-50/70 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-3 focus:ring-indigo-500/20 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -257,8 +264,8 @@ export function InquiryForm({
             WhatsApp Number <span className="text-rose-500">*</span>
           </label>
           <div className="relative flex">
-            <span className="inline-flex items-center px-3 rounded-l-2xl border border-r-0 border-slate-200 bg-slate-100 text-slate-600 text-xs font-bold">
-              +91
+            <span className="inline-flex items-center px-3 rounded-l-2xl border border-r-0 border-indigo-100 bg-indigo-50/80 text-indigo-800 text-xs font-bold">
+              🇮🇳 +91
             </span>
             <input
               id="number-sb"
@@ -269,7 +276,7 @@ export function InquiryForm({
               placeholder="10-digit mobile number"
               value={formData.number}
               onChange={(e) => setFormData({ ...formData, number: e.target.value })}
-              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-r-2xl px-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-11 bg-slate-50/70 border border-slate-200 rounded-r-2xl px-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-3 focus:ring-indigo-500/20 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -280,7 +287,9 @@ export function InquiryForm({
             Email Address <span className="text-rose-500">*</span>
           </label>
           <div className="relative">
-            <Mail className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-3.5 top-1/2 -translate-y-1/2 text-indigo-500">
+              <Mail className="w-4 h-4" />
+            </div>
             <input
               id="email-sb"
               name="email"
@@ -290,7 +299,7 @@ export function InquiryForm({
               placeholder="rahul@example.com"
               value={formData.email}
               onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-11 bg-slate-50/70 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-3 focus:ring-indigo-500/20 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -301,13 +310,15 @@ export function InquiryForm({
             Estimated Budget Range
           </label>
           <div className="relative">
-            <DollarSign className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-3.5 top-1/2 -translate-y-1/2 text-amber-500">
+              <DollarSign className="w-4 h-4" />
+            </div>
             <select
               id="budget-sb"
               name="budget"
               value={formData.budget}
               onChange={(e) => setFormData({ ...formData, budget: e.target.value })}
-              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 cursor-pointer"
+              className="w-full h-11 bg-slate-50/70 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 focus:bg-white focus:outline-none focus:ring-3 focus:ring-indigo-500/20 focus:border-indigo-500 cursor-pointer"
             >
               <option value="">Select Budget Range</option>
               {BUDGET_OPTIONS.map((opt) => (
@@ -325,7 +336,9 @@ export function InquiryForm({
             Current / Target City
           </label>
           <div className="relative">
-            <MapPin className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-3.5 top-1/2 -translate-y-1/2 text-teal-500">
+              <MapPin className="w-4 h-4" />
+            </div>
             <input
               id="location-sb"
               name="location"
@@ -333,7 +346,7 @@ export function InquiryForm({
               placeholder="e.g. Delhi NCR, Pune, Mumbai"
               value={formData.location}
               onChange={(e) => setFormData({ ...formData, location: e.target.value, preferredLocation: e.target.value })}
-              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-11 bg-slate-50/70 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-3 focus:ring-indigo-500/20 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -342,7 +355,7 @@ export function InquiryForm({
         <button
           disabled={status === 'submitting'}
           type="submit"
-          className="w-full mt-2 h-12 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-extrabold text-xs uppercase tracking-wider rounded-2xl shadow-md shadow-blue-600/20 hover:shadow-lg hover:shadow-blue-600/30 active:scale-[0.98] transition-all cursor-pointer flex items-center justify-center gap-2"
+          className="w-full mt-2 h-12 bg-gradient-to-r from-blue-600 via-indigo-600 to-violet-600 hover:from-blue-700 hover:via-indigo-700 hover:to-violet-700 text-white font-extrabold text-xs uppercase tracking-wider rounded-2xl shadow-lg shadow-indigo-600/25 hover:shadow-xl hover:shadow-indigo-600/35 active:scale-[0.98] transition-all cursor-pointer flex items-center justify-center gap-2"
         >
           {status === 'submitting' ? (
             <span className="flex items-center gap-2">
@@ -364,16 +377,19 @@ export function InquiryForm({
     );
   }
 
-  /* ── FULL / STANDALONE PAGE & MODAL VARIANT ── */
+  /* ── FULL / STANDALONE PAGE & MODAL VARIANT WITH RICH COLOR HARMONY ── */
   return (
-    <form onSubmit={handleSubmit} className={`relative bg-white rounded-3xl md:rounded-[2.25rem] border border-slate-200/90 p-6 md:p-10 shadow-xl shadow-slate-900/5 ${className}`}>
+    <form onSubmit={handleSubmit} className={`relative overflow-hidden bg-white rounded-3xl md:rounded-[2.25rem] border border-indigo-100/80 p-6 md:p-10 shadow-2xl shadow-indigo-950/5 ${className}`}>
+      {/* Sleek Top Gradient Line */}
+      <div className="absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r from-blue-600 via-indigo-500 via-purple-500 to-amber-400" />
+
       {!hideHeader && (
-        <div className="mb-8 border-b border-slate-100 pb-5">
+        <div className="mb-8 border-b border-slate-100 pb-5 pt-1">
           <div className="flex flex-wrap items-center justify-between gap-3 mb-2">
-            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-extrabold uppercase tracking-wider border border-blue-200/70">
-              <Sparkles className="w-3.5 h-3.5 text-blue-600" /> Priority Admission Advisory
+            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-gradient-to-r from-blue-50 to-indigo-50 text-indigo-700 text-xs font-black uppercase tracking-wider border border-indigo-200/80 shadow-xs">
+              <Sparkles className="w-3.5 h-3.5 text-indigo-600" /> Priority Admission Advisory
             </span>
-            <span className="text-xs font-bold text-slate-500 flex items-center gap-1.5">
+            <span className="text-xs font-bold text-slate-500 flex items-center gap-1.5 bg-emerald-50 text-emerald-700 px-3 py-1 rounded-full border border-emerald-200">
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping" />
               Live 2027 Admissions Open
             </span>
@@ -385,7 +401,7 @@ export function InquiryForm({
             <p className="text-sm font-semibold text-slate-500 mt-1.5">{subtitle}</p>
           ) : (
             <p className="text-sm font-semibold text-slate-500 mt-1.5">
-              Share your score/profile. Mohit Jain &amp; team will evaluate your chances for top B-Schools and Degree programs.
+              Share your target score or profile. Mohit Jain &amp; team will evaluate your admission chances for top B-Schools and Degree programs.
             </p>
           )}
         </div>
@@ -394,8 +410,8 @@ export function InquiryForm({
       {/* Course Quick Selector Chips */}
       <div className="mb-7">
         <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-2.5 flex items-center gap-1.5">
-          <GraduationCap className="w-4 h-4 text-blue-600" />
-          Select Your Target Program / Course <span className="text-rose-500">*</span>
+          <GraduationCap className="w-4 h-4 text-indigo-600" />
+          Select Target Program / Course <span className="text-rose-500">*</span>
         </label>
         <div className="flex flex-wrap gap-2">
           {COURSE_OPTIONS.map((opt) => {
@@ -407,8 +423,8 @@ export function InquiryForm({
                 onClick={() => setFormData({ ...formData, course: opt })}
                 className={`px-3.5 py-2 rounded-2xl text-xs font-bold transition-all border ${
                   isSelected
-                    ? 'bg-blue-600 text-white border-blue-600 shadow-md shadow-blue-500/20 scale-[1.02]'
-                    : 'bg-slate-50 text-slate-700 border-slate-200 hover:bg-slate-100 hover:border-slate-300'
+                    ? 'bg-gradient-to-r from-blue-600 via-indigo-600 to-violet-600 text-white border-transparent shadow-md shadow-indigo-500/30 scale-[1.02] ring-2 ring-indigo-400/40'
+                    : 'bg-slate-50/90 text-slate-700 border-slate-200 hover:bg-indigo-50/60 hover:text-indigo-800 hover:border-indigo-300'
                 }`}
               >
                 {opt}
@@ -425,7 +441,9 @@ export function InquiryForm({
             Full Name <span className="text-rose-500">*</span>
           </label>
           <div className="relative">
-            <User className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-4 top-1/2 -translate-y-1/2 text-indigo-500">
+              <User className="w-4 h-4" />
+            </div>
             <input
               id="name"
               name="name"
@@ -436,7 +454,7 @@ export function InquiryForm({
               placeholder="e.g. Rahul Sharma"
               value={formData.name}
               onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-12 bg-slate-50/80 border border-slate-200/90 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-4 focus:ring-indigo-500/15 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -447,8 +465,8 @@ export function InquiryForm({
             WhatsApp Phone Number <span className="text-rose-500">*</span>
           </label>
           <div className="relative flex">
-            <span className="inline-flex items-center px-3.5 rounded-l-2xl border border-r-0 border-slate-200 bg-slate-100 text-slate-700 text-xs font-bold">
-              +91
+            <span className="inline-flex items-center px-3.5 rounded-l-2xl border border-r-0 border-indigo-100 bg-indigo-50 text-indigo-800 text-xs font-bold">
+              🇮🇳 +91
             </span>
             <input
               id="number"
@@ -460,7 +478,7 @@ export function InquiryForm({
               placeholder="10-digit mobile number"
               value={formData.number}
               onChange={(e) => setFormData({ ...formData, number: e.target.value })}
-              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-r-2xl px-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-12 bg-slate-50/80 border border-slate-200/90 rounded-r-2xl px-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-4 focus:ring-indigo-500/15 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -471,7 +489,9 @@ export function InquiryForm({
             Email Address <span className="text-rose-500">*</span>
           </label>
           <div className="relative">
-            <Mail className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-4 top-1/2 -translate-y-1/2 text-indigo-500">
+              <Mail className="w-4 h-4" />
+            </div>
             <input
               id="email"
               name="email"
@@ -482,7 +502,7 @@ export function InquiryForm({
               placeholder="rahul@example.com"
               value={formData.email}
               onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-12 bg-slate-50/80 border border-slate-200/90 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-4 focus:ring-indigo-500/15 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -493,13 +513,15 @@ export function InquiryForm({
             Estimated Budget Range
           </label>
           <div className="relative">
-            <DollarSign className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-4 top-1/2 -translate-y-1/2 text-amber-500">
+              <DollarSign className="w-4 h-4" />
+            </div>
             <select
               id="budget"
               name="budget"
               value={formData.budget}
               onChange={(e) => setFormData({ ...formData, budget: e.target.value })}
-              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 cursor-pointer"
+              className="w-full h-12 bg-slate-50/80 border border-slate-200/90 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 focus:bg-white focus:outline-none focus:ring-4 focus:ring-indigo-500/15 focus:border-indigo-500 cursor-pointer"
             >
               <option value="">Select Budget Range</option>
               {BUDGET_OPTIONS.map((opt) => (
@@ -517,7 +539,9 @@ export function InquiryForm({
             Your Current City / State
           </label>
           <div className="relative">
-            <MapPin className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-4 top-1/2 -translate-y-1/2 text-teal-500">
+              <MapPin className="w-4 h-4" />
+            </div>
             <input
               id="location"
               name="location"
@@ -525,7 +549,7 @@ export function InquiryForm({
               placeholder="e.g. New Delhi, Noida"
               value={formData.location}
               onChange={(e) => setFormData({ ...formData, location: e.target.value })}
-              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-12 bg-slate-50/80 border border-slate-200/90 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-4 focus:ring-indigo-500/15 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -536,7 +560,9 @@ export function InquiryForm({
             Preferred Study Location / Region
           </label>
           <div className="relative">
-            <MapPin className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <div className="absolute left-4 top-1/2 -translate-y-1/2 text-teal-500">
+              <MapPin className="w-4 h-4" />
+            </div>
             <input
               id="preferredLocation"
               name="preferredLocation"
@@ -544,7 +570,7 @@ export function InquiryForm({
               placeholder="e.g. Pune, Delhi NCR, Bangalore, Mumbai"
               value={formData.preferredLocation}
               onChange={(e) => setFormData({ ...formData, preferredLocation: e.target.value })}
-              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+              className="w-full h-12 bg-slate-50/80 border border-slate-200/90 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-4 focus:ring-indigo-500/15 focus:border-indigo-500 transition-all"
             />
           </div>
         </div>
@@ -555,7 +581,9 @@ export function InquiryForm({
             Specific Goal, Exam Percentile or Question (Optional)
           </label>
           <div className="relative">
-            <MessageSquare className="w-4 h-4 text-slate-400 absolute left-4 top-3.5" />
+            <div className="absolute left-4 top-3.5 text-indigo-500">
+              <MessageSquare className="w-4 h-4" />
+            </div>
             <textarea
               id="message"
               name="message"
@@ -563,17 +591,17 @@ export function InquiryForm({
               placeholder="e.g. Target CAT score, direct admission inquiries, scholarship questions..."
               value={formData.message}
               onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-              className="w-full bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 py-3 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all resize-none"
+              className="w-full bg-slate-50/80 border border-slate-200/90 rounded-2xl pl-11 pr-4 py-3 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-4 focus:ring-indigo-500/15 focus:border-indigo-500 transition-all resize-none"
             />
           </div>
         </div>
       </div>
 
-      {/* CTA Button with Smooth Curved Edges & Dynamic Hover */}
+      {/* CTA Button with Eye-Catching Aurora Gradient */}
       <button
         disabled={status === 'submitting'}
         type="submit"
-        className="w-full h-14 md:h-16 bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white rounded-2xl md:rounded-[1.25rem] text-base md:text-lg font-black uppercase tracking-wider shadow-lg shadow-blue-600/25 hover:shadow-xl hover:shadow-blue-600/35 active:scale-[0.99] transition-all flex items-center justify-center gap-3 cursor-pointer"
+        className="w-full h-14 md:h-16 bg-gradient-to-r from-blue-600 via-indigo-600 to-violet-600 hover:from-blue-700 hover:via-indigo-700 hover:to-violet-700 text-white rounded-2xl md:rounded-[1.25rem] text-base md:text-lg font-black uppercase tracking-wider shadow-xl shadow-indigo-600/30 hover:shadow-2xl hover:shadow-indigo-600/40 active:scale-[0.99] transition-all flex items-center justify-center gap-3 cursor-pointer"
       >
         {status === 'submitting' ? (
           <span className="flex items-center gap-2.5">
@@ -582,7 +610,7 @@ export function InquiryForm({
           </span>
         ) : (
           <>
-            <Send className="w-5 h-5 text-amber-300" />
+            <Sparkles className="w-5 h-5 text-amber-300 animate-pulse" />
             {buttonText || 'Get Free Profile Evaluation & Callback'}
             <ArrowRight className="w-5 h-5" />
           </>
@@ -590,15 +618,15 @@ export function InquiryForm({
       </button>
 
       {/* Footer Trust Guarantees */}
-      <div className="mt-5 pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3 text-slate-500 text-xs font-semibold">
-        <span className="inline-flex items-center gap-1.5">
+      <div className="mt-5 pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3 text-slate-600 text-xs font-bold">
+        <span className="inline-flex items-center gap-1.5 bg-emerald-50 text-emerald-800 px-2.5 py-1 rounded-full border border-emerald-200">
           <ShieldCheck className="w-4 h-4 text-emerald-600" /> 100% Free &amp; Confidential
         </span>
-        <span className="inline-flex items-center gap-1.5">
-          <Award className="w-4 h-4 text-amber-500" /> Mentored by IIM &amp; FMS Alumni
+        <span className="inline-flex items-center gap-1.5 bg-amber-50 text-amber-800 px-2.5 py-1 rounded-full border border-amber-200">
+          <Award className="w-4 h-4 text-amber-600" /> Mentored by IIM &amp; FMS Alumni
         </span>
-        <span className="inline-flex items-center gap-1.5">
-          <Clock className="w-4 h-4 text-blue-600" /> Fast Response &lt; 24h
+        <span className="inline-flex items-center gap-1.5 bg-indigo-50 text-indigo-800 px-2.5 py-1 rounded-full border border-indigo-200">
+          <Clock className="w-4 h-4 text-indigo-600" /> Fast Response &lt; 24h
         </span>
       </div>
     </form>
