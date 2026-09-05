@@ -3,7 +3,24 @@
 import { useState } from 'react';
 import { BUDGET_OPTIONS, COURSE_OPTIONS } from '@/lib/constants';
 import { submitLead } from '@/lib/leads';
-import { Sparkles, CheckCircle2, MessageCircle, Send, ShieldCheck } from 'lucide-react';
+import { 
+  Sparkles, 
+  CheckCircle2, 
+  MessageCircle, 
+  Send, 
+  ShieldCheck, 
+  User, 
+  Phone, 
+  Mail, 
+  MapPin, 
+  GraduationCap, 
+  DollarSign, 
+  MessageSquare,
+  Award,
+  ArrowRight,
+  Clock,
+  Check
+} from 'lucide-react';
 
 export interface InquiryFormProps {
   variant?: 'full' | 'compact' | 'sidebar';
@@ -14,6 +31,16 @@ export interface InquiryFormProps {
   subtitle?: string;
   buttonText?: string;
 }
+
+const POPULAR_COURSES = [
+  'MBA / PGDM',
+  'Executive MBA',
+  'BTech',
+  'BBA',
+  'BCA',
+  'Online MBA',
+  'Abroad Education'
+];
 
 export function InquiryForm({
   variant = 'full',
@@ -41,7 +68,7 @@ export function InquiryForm({
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!formData.name || !formData.number || !formData.email) {
-      alert('Please fill out all required fields (Name, Phone, and Email).');
+      alert('Please fill out all required fields (Name, WhatsApp Phone, and Email).');
       return;
     }
 
@@ -84,30 +111,53 @@ export function InquiryForm({
     }
   };
 
+  /* ── SUCCESS STATE WITH MODERN CURVED CARDS ── */
   if (status === 'success') {
     return (
-      <div className={`bg-emerald-50 border-4 border-foreground p-6 rounded-xl text-center shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] animate-in fade-in duration-300 ${className}`}>
-        <div className="w-12 h-12 bg-emerald-100 border-2 border-foreground flex items-center justify-center mx-auto mb-3 shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
-          <CheckCircle2 className="w-7 h-7 text-emerald-600" />
+      <div className={`relative overflow-hidden bg-gradient-to-b from-emerald-50/80 via-white to-emerald-50/40 border-2 border-emerald-500/30 p-6 md:p-8 rounded-3xl shadow-xl shadow-emerald-500/10 text-center animate-in fade-in zoom-in-95 duration-400 ${className}`}>
+        {/* Decorative Top Accent Glow */}
+        <div className="absolute -top-12 left-1/2 -translate-x-1/2 w-48 h-24 bg-emerald-400/20 rounded-full blur-2xl pointer-events-none" />
+
+        <div className="w-16 h-16 bg-gradient-to-tr from-emerald-600 to-teal-500 text-white rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-lg shadow-emerald-600/30 ring-4 ring-emerald-100 animate-bounce">
+          <CheckCircle2 className="w-9 h-9 stroke-[2.5]" />
         </div>
-        <span className="bg-emerald-600 text-white font-black text-[10px] uppercase tracking-widest px-2.5 py-1 border border-foreground inline-block mb-2">
-          CALLBACK REQUESTED
-        </span>
-        <h3 className="text-xl font-black uppercase text-foreground mb-1">We Received Your Request!</h3>
-        <p className="text-slate-600 text-xs font-bold mb-5 leading-relaxed">
-          Mohit Jain&apos;s counselling team will contact you on WhatsApp / Phone within 24 business hours.
+
+        <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-100/90 text-emerald-800 text-[11px] font-black uppercase tracking-wider mb-2.5 border border-emerald-300/60">
+          <Sparkles className="w-3.5 h-3.5 text-emerald-600" /> Request Verified &amp; Queued
+        </div>
+
+        <h3 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight mb-2">
+          We&apos;re On It, {formData.name.split(' ')[0] || 'Aspirant'}!
+        </h3>
+        
+        <p className="text-slate-600 text-sm font-medium mb-6 max-w-md mx-auto leading-relaxed">
+          Mohit Jain&apos;s senior admissions mentorship team has received your profile for <strong className="text-slate-900 font-bold">{formData.course || 'Admissions'}</strong>. We will review your best-fit colleges and connect within 24 business hours.
         </p>
 
-        <div className="space-y-2 pt-4 border-t-2 border-emerald-200">
+        {/* Quick Highlights Pill Badges */}
+        <div className="flex flex-wrap items-center justify-center gap-2 mb-6">
+          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-slate-200 text-slate-700 text-xs font-bold shadow-sm">
+            <Check className="w-3.5 h-3.5 text-emerald-600" /> Free Profile Evaluation
+          </span>
+          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-slate-200 text-slate-700 text-xs font-bold shadow-sm">
+            <Clock className="w-3.5 h-3.5 text-blue-600" /> Fast Callback
+          </span>
+          <span className="inline-flex items-center gap-1 px-3 py-1 rounded-xl bg-white border border-slate-200 text-slate-700 text-xs font-bold shadow-sm">
+            <Award className="w-3.5 h-3.5 text-amber-500" /> 100% Verified Seats
+          </span>
+        </div>
+
+        <div className="space-y-3 pt-4 border-t border-emerald-100 max-w-sm mx-auto">
           <a
-            href={`https://wa.me/919811559190?text=${encodeURIComponent(`Hi Mohit, I submitted an inquiry for ${formData.course || 'B-School Counselling'}. Please share details!`)}`}
+            href={`https://wa.me/919560020771?text=${encodeURIComponent(`Hi Mohit Sir, I just submitted an inquiry for ${formData.course || 'B-School Counselling'}. My name is ${formData.name}. Please review my profile!`)}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-black py-3 px-4 text-xs uppercase tracking-wider border-2 border-foreground shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center gap-2 transition-all block text-center"
+            className="w-full bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold py-3.5 px-6 rounded-2xl text-sm shadow-md shadow-emerald-600/30 hover:shadow-lg hover:shadow-emerald-600/40 flex items-center justify-center gap-2 transition-all active:scale-95"
           >
-            <MessageCircle className="w-4 h-4" />
-            Instant WhatsApp Chat
+            <MessageCircle className="w-5 h-5 fill-white/20" />
+            Chat Instantly on WhatsApp
           </a>
+
           <button
             onClick={() => {
               setStatus('idle');
@@ -122,9 +172,9 @@ export function InquiryForm({
                 message: ''
               });
             }}
-            className="w-full bg-white hover:bg-slate-100 text-foreground font-black py-2.5 px-4 text-xs uppercase tracking-wider border-2 border-foreground transition-all cursor-pointer"
+            className="w-full bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold py-2.5 px-4 rounded-xl text-xs transition-colors cursor-pointer"
           >
-            Submit Another Request
+            Submit Another Inquiry
           </button>
         </div>
       </div>
@@ -134,113 +184,132 @@ export function InquiryForm({
   /* ── SIDEBAR / COMPACT VARIANT ── */
   if (isSidebar) {
     return (
-      <form onSubmit={handleSubmit} className={`bg-white space-y-3.5 ${className}`}>
+      <form onSubmit={handleSubmit} className={`bg-white rounded-3xl border border-slate-200/80 p-5 md:p-6 shadow-lg shadow-slate-900/5 space-y-4 ${className}`}>
         {!hideHeader && (
           <div className="mb-4">
-            <div className="flex items-center gap-2 mb-1">
-              <span className="bg-accent text-foreground text-[10px] font-black uppercase tracking-widest px-2.5 py-0.5 border border-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
-                ⚡ FREE CONSULTATION
+            <div className="flex items-center gap-2 mb-2">
+              <span className="inline-flex items-center gap-1 bg-amber-500/10 text-amber-600 text-[10px] font-black uppercase tracking-wider px-2.5 py-1 rounded-full border border-amber-500/20">
+                <Sparkles className="w-3 h-3" /> 100% Free Consultation
               </span>
-              <span className="text-[10px] font-bold text-slate-500">2027-28 Intake</span>
+              <span className="text-[11px] font-bold text-slate-500">2027 Intake</span>
             </div>
-            <h3 className="text-lg md:text-xl font-black uppercase text-foreground tracking-tight leading-tight">
-              {title || 'Request B-School Callback'}
+            <h3 className="text-xl font-black text-slate-900 tracking-tight leading-snug">
+              {title || 'Request Admissions Callback'}
             </h3>
             {subtitle && (
-              <p className="text-xs font-bold text-slate-500 mt-1">
+              <p className="text-xs font-semibold text-slate-500 mt-1">
                 {subtitle}
               </p>
             )}
           </div>
         )}
 
+        {/* Quick Course Selector Pills */}
+        <div>
+          <label className="block text-[11px] font-bold uppercase tracking-wider text-slate-600 mb-2">
+            Select Interested Course
+          </label>
+          <div className="flex flex-wrap gap-1.5">
+            {POPULAR_COURSES.slice(0, 5).map((courseName) => {
+              const isSelected = formData.course === courseName;
+              return (
+                <button
+                  type="button"
+                  key={courseName}
+                  onClick={() => setFormData({ ...formData, course: courseName })}
+                  className={`px-3 py-1.5 rounded-full text-xs font-bold transition-all border ${
+                    isSelected
+                      ? 'bg-blue-600 text-white border-blue-600 shadow-sm shadow-blue-500/30'
+                      : 'bg-slate-50 text-slate-700 border-slate-200 hover:bg-slate-100 hover:border-slate-300'
+                  }`}
+                >
+                  {courseName}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
         {/* Full Name */}
         <div>
-          <label htmlFor="name-sb" className="block text-[11px] font-black uppercase tracking-wider text-slate-700 mb-1">
+          <label htmlFor="name-sb" className="block text-[11px] font-bold uppercase tracking-wider text-slate-700 mb-1">
             Full Name <span className="text-rose-500">*</span>
           </label>
-          <input
-            id="name-sb"
-            name="name"
-            required
-            aria-required="true"
-            type="text"
-            placeholder="e.g. Rahul Sharma"
-            value={formData.name}
-            onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-            className="w-full h-11 bg-slate-50 border-2 border-foreground px-3.5 text-xs font-bold focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary transition-all"
-          />
+          <div className="relative">
+            <User className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <input
+              id="name-sb"
+              name="name"
+              required
+              aria-required="true"
+              type="text"
+              placeholder="e.g. Rahul Sharma"
+              value={formData.name}
+              onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
         </div>
 
         {/* Phone Number */}
         <div>
-          <label htmlFor="number-sb" className="block text-[11px] font-black uppercase tracking-wider text-slate-700 mb-1">
+          <label htmlFor="number-sb" className="block text-[11px] font-bold uppercase tracking-wider text-slate-700 mb-1">
             WhatsApp Number <span className="text-rose-500">*</span>
           </label>
-          <input
-            id="number-sb"
-            name="number"
-            required
-            aria-required="true"
-            type="tel"
-            placeholder="10-digit mobile number"
-            value={formData.number}
-            onChange={(e) => setFormData({ ...formData, number: e.target.value })}
-            className="w-full h-11 bg-slate-50 border-2 border-foreground px-3.5 text-xs font-bold focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary transition-all"
-          />
+          <div className="relative flex">
+            <span className="inline-flex items-center px-3 rounded-l-2xl border border-r-0 border-slate-200 bg-slate-100 text-slate-600 text-xs font-bold">
+              +91
+            </span>
+            <input
+              id="number-sb"
+              name="number"
+              required
+              aria-required="true"
+              type="tel"
+              placeholder="10-digit mobile number"
+              value={formData.number}
+              onChange={(e) => setFormData({ ...formData, number: e.target.value })}
+              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-r-2xl px-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
         </div>
 
         {/* Email */}
         <div>
-          <label htmlFor="email-sb" className="block text-[11px] font-black uppercase tracking-wider text-slate-700 mb-1">
+          <label htmlFor="email-sb" className="block text-[11px] font-bold uppercase tracking-wider text-slate-700 mb-1">
             Email Address <span className="text-rose-500">*</span>
           </label>
-          <input
-            id="email-sb"
-            name="email"
-            required
-            aria-required="true"
-            type="email"
-            placeholder="e.g. rahul@gmail.com"
-            value={formData.email}
-            onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-            className="w-full h-11 bg-slate-50 border-2 border-foreground px-3.5 text-xs font-bold focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary transition-all"
-          />
+          <div className="relative">
+            <Mail className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <input
+              id="email-sb"
+              name="email"
+              required
+              aria-required="true"
+              type="email"
+              placeholder="rahul@example.com"
+              value={formData.email}
+              onChange={(e) => setFormData({ ...formData, email: e.target.value })}
+              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
         </div>
 
-        {/* Course Interest & Preferred Budget Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-          <div>
-            <label htmlFor="course-sb" className="block text-[11px] font-black uppercase tracking-wider text-slate-700 mb-1">
-              Course Interest
-            </label>
-            <select
-              id="course-sb"
-              name="course"
-              value={formData.course}
-              onChange={(e) => setFormData({ ...formData, course: e.target.value })}
-              className="w-full h-11 bg-slate-50 border-2 border-foreground px-2.5 text-xs font-bold focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary cursor-pointer"
-            >
-              {COURSE_OPTIONS.map((opt) => (
-                <option key={opt} value={opt}>
-                  {opt}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div>
-            <label htmlFor="budget-sb" className="block text-[11px] font-black uppercase tracking-wider text-slate-700 mb-1">
-              Budget Range
-            </label>
+        {/* Budget Dropdown */}
+        <div>
+          <label htmlFor="budget-sb" className="block text-[11px] font-bold uppercase tracking-wider text-slate-700 mb-1">
+            Estimated Budget Range
+          </label>
+          <div className="relative">
+            <DollarSign className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
             <select
               id="budget-sb"
               name="budget"
               value={formData.budget}
               onChange={(e) => setFormData({ ...formData, budget: e.target.value })}
-              className="w-full h-11 bg-slate-50 border-2 border-foreground px-2.5 text-xs font-bold focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary cursor-pointer"
+              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 cursor-pointer"
             >
-              <option value="">Select Budget</option>
+              <option value="">Select Budget Range</option>
               {BUDGET_OPTIONS.map((opt) => (
                 <option key={opt} value={opt}>
                   {opt}
@@ -250,219 +319,287 @@ export function InquiryForm({
           </div>
         </div>
 
-        {/* Current / Preferred Location */}
+        {/* Location */}
         <div>
-          <label htmlFor="location-sb" className="block text-[11px] font-black uppercase tracking-wider text-slate-700 mb-1">
-            Current / Preferred Location
+          <label htmlFor="location-sb" className="block text-[11px] font-bold uppercase tracking-wider text-slate-700 mb-1">
+            Current / Target City
           </label>
-          <input
-            id="location-sb"
-            name="location"
-            type="text"
-            placeholder="e.g. Delhi NCR, Mumbai, Bangalore"
-            value={formData.location}
-            onChange={(e) => setFormData({ ...formData, location: e.target.value, preferredLocation: e.target.value })}
-            className="w-full h-11 bg-slate-50 border-2 border-foreground px-3.5 text-xs font-bold focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary transition-all"
-          />
+          <div className="relative">
+            <MapPin className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <input
+              id="location-sb"
+              name="location"
+              type="text"
+              placeholder="e.g. Delhi NCR, Pune, Mumbai"
+              value={formData.location}
+              onChange={(e) => setFormData({ ...formData, location: e.target.value, preferredLocation: e.target.value })}
+              className="w-full h-11 bg-slate-50 border border-slate-200 rounded-2xl pl-10 pr-3.5 text-xs font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
         </div>
 
         {/* Submit Button */}
         <button
           disabled={status === 'submitting'}
           type="submit"
-          className="w-full mt-2 h-12 bg-primary hover:bg-primary/90 text-white font-black text-xs uppercase tracking-wider border-2 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-y-0.5 active:shadow-none transition-all cursor-pointer flex items-center justify-center gap-2"
+          className="w-full mt-2 h-12 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-extrabold text-xs uppercase tracking-wider rounded-2xl shadow-md shadow-blue-600/20 hover:shadow-lg hover:shadow-blue-600/30 active:scale-[0.98] transition-all cursor-pointer flex items-center justify-center gap-2"
         >
           {status === 'submitting' ? (
-            'Submitting Request...'
+            <span className="flex items-center gap-2">
+              <span className="w-4 h-4 border-2 border-white/40 border-t-white rounded-full animate-spin" />
+              Submitting Request...
+            </span>
           ) : (
             <>
-              <Sparkles className="w-4 h-4 text-accent animate-pulse" />
-              {buttonText || 'Request B-School Callback →'}
+              <Sparkles className="w-4 h-4 text-amber-300" />
+              {buttonText || 'Request Callback Now →'}
             </>
           )}
         </button>
 
-        <p className="text-[10px] font-bold text-slate-400 text-center uppercase tracking-wider pt-1 flex items-center justify-center gap-1">
-          <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 inline" /> 100% Free &amp; Confidential • Direct Expert Advice
+        <p className="text-[10px] font-semibold text-slate-500 text-center flex items-center justify-center gap-1 pt-1">
+          <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 inline" /> 100% Free &amp; Confidential • Direct Mentor Connect
         </p>
       </form>
     );
   }
 
-  /* ── FULL / STANDALONE PAGE VARIANT ── */
+  /* ── FULL / STANDALONE PAGE & MODAL VARIANT ── */
   return (
-    <form onSubmit={handleSubmit} className={`bg-white border-4 md:border-8 border-foreground p-6 md:p-10 rounded-xl shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] md:shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] ${className}`}>
-      {!hideHeader && title && (
-        <div className="mb-8 border-b-4 border-foreground pb-4">
-          <h2 className="text-2xl md:text-4xl font-black uppercase tracking-tight text-foreground">{title}</h2>
-          {subtitle && <p className="text-sm font-bold text-slate-500 mt-1">{subtitle}</p>}
+    <form onSubmit={handleSubmit} className={`relative bg-white rounded-3xl md:rounded-[2.25rem] border border-slate-200/90 p-6 md:p-10 shadow-xl shadow-slate-900/5 ${className}`}>
+      {!hideHeader && (
+        <div className="mb-8 border-b border-slate-100 pb-5">
+          <div className="flex flex-wrap items-center justify-between gap-3 mb-2">
+            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-extrabold uppercase tracking-wider border border-blue-200/70">
+              <Sparkles className="w-3.5 h-3.5 text-blue-600" /> Priority Admission Advisory
+            </span>
+            <span className="text-xs font-bold text-slate-500 flex items-center gap-1.5">
+              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping" />
+              Live 2027 Admissions Open
+            </span>
+          </div>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
+            {title || 'Get Personalized Career & College Guidance'}
+          </h2>
+          {subtitle ? (
+            <p className="text-sm font-semibold text-slate-500 mt-1.5">{subtitle}</p>
+          ) : (
+            <p className="text-sm font-semibold text-slate-500 mt-1.5">
+              Share your score/profile. Mohit Jain &amp; team will evaluate your chances for top B-Schools and Degree programs.
+            </p>
+          )}
         </div>
       )}
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-        {/* Name */}
-        <div className="space-y-2">
-          <label htmlFor="name" className="block text-sm md:text-base font-black uppercase tracking-tight text-foreground">
-            Full Name <span className="text-rose-500">*</span>
-          </label>
-          <input
-            id="name"
-            name="name"
-            required
-            aria-required="true"
-            type="text"
-            autoComplete="name"
-            placeholder="Your Full Name"
-            value={formData.name}
-            onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-            className="w-full h-14 bg-gray-50 border-4 border-foreground px-5 text-base font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md"
-          />
-        </div>
-
-        {/* Number */}
-        <div className="space-y-2">
-          <label htmlFor="number" className="block text-sm md:text-base font-black uppercase tracking-tight text-foreground">
-            Phone / WhatsApp Number <span className="text-rose-500">*</span>
-          </label>
-          <input
-            id="number"
-            name="number"
-            required
-            aria-required="true"
-            type="tel"
-            autoComplete="tel"
-            placeholder="WhatsApp Number"
-            value={formData.number}
-            onChange={(e) => setFormData({ ...formData, number: e.target.value })}
-            className="w-full h-14 bg-gray-50 border-4 border-foreground px-5 text-base font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md"
-          />
-        </div>
-
-        {/* Email */}
-        <div className="space-y-2">
-          <label htmlFor="email" className="block text-sm md:text-base font-black uppercase tracking-tight text-foreground">
-            Email Address <span className="text-rose-500">*</span>
-          </label>
-          <input
-            id="email"
-            name="email"
-            required
-            aria-required="true"
-            type="email"
-            autoComplete="email"
-            placeholder="alex@example.com"
-            value={formData.email}
-            onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-            className="w-full h-14 bg-gray-50 border-4 border-foreground px-5 text-base font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md"
-          />
-        </div>
-
-        {/* Location */}
-        <div className="space-y-2">
-          <label htmlFor="location" className="block text-sm md:text-base font-black uppercase tracking-tight text-foreground">
-            Current Location
-          </label>
-          <input
-            id="location"
-            name="location"
-            type="text"
-            placeholder="e.g. New Delhi"
-            value={formData.location}
-            onChange={(e) => setFormData({ ...formData, location: e.target.value })}
-            className="w-full h-14 bg-gray-50 border-4 border-foreground px-5 text-base font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md"
-          />
-        </div>
-
-        {/* Preferred Location */}
-        <div className="space-y-2">
-          <label htmlFor="preferredLocation" className="block text-sm md:text-base font-black uppercase tracking-tight text-foreground">
-            Preferred Study Location
-          </label>
-          <input
-            id="preferredLocation"
-            name="preferredLocation"
-            type="text"
-            placeholder="e.g. Bangalore, Mumbai"
-            value={formData.preferredLocation}
-            onChange={(e) => setFormData({ ...formData, preferredLocation: e.target.value })}
-            className="w-full h-14 bg-gray-50 border-4 border-foreground px-5 text-base font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md"
-          />
-        </div>
-
-        {/* Budget */}
-        <div className="space-y-2">
-          <label htmlFor="budget" className="block text-sm md:text-base font-black uppercase tracking-tight text-foreground">
-            Budget Range
-          </label>
-          <select
-            id="budget"
-            name="budget"
-            value={formData.budget}
-            onChange={(e) => setFormData({ ...formData, budget: e.target.value })}
-            className="w-full h-14 bg-gray-50 border-4 border-foreground px-5 text-base font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md cursor-pointer"
-          >
-            <option value="">Select Budget</option>
-            {BUDGET_OPTIONS.map((opt) => (
-              <option key={opt} value={opt}>
+      {/* Course Quick Selector Chips */}
+      <div className="mb-7">
+        <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-2.5 flex items-center gap-1.5">
+          <GraduationCap className="w-4 h-4 text-blue-600" />
+          Select Your Target Program / Course <span className="text-rose-500">*</span>
+        </label>
+        <div className="flex flex-wrap gap-2">
+          {COURSE_OPTIONS.map((opt) => {
+            const isSelected = formData.course === opt;
+            return (
+              <button
+                type="button"
+                key={opt}
+                onClick={() => setFormData({ ...formData, course: opt })}
+                className={`px-3.5 py-2 rounded-2xl text-xs font-bold transition-all border ${
+                  isSelected
+                    ? 'bg-blue-600 text-white border-blue-600 shadow-md shadow-blue-500/20 scale-[1.02]'
+                    : 'bg-slate-50 text-slate-700 border-slate-200 hover:bg-slate-100 hover:border-slate-300'
+                }`}
+              >
                 {opt}
-              </option>
-            ))}
-          </select>
-        </div>
-
-        {/* Course */}
-        <div className="space-y-2 md:col-span-2">
-          <label htmlFor="course" className="block text-sm md:text-base font-black uppercase tracking-tight text-foreground">
-            Course Interest
-          </label>
-          <select
-            id="course"
-            name="course"
-            value={formData.course}
-            onChange={(e) => setFormData({ ...formData, course: e.target.value })}
-            className="w-full h-14 bg-gray-50 border-4 border-foreground px-5 text-base font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md cursor-pointer"
-          >
-            {COURSE_OPTIONS.map((opt) => (
-              <option key={opt} value={opt}>
-                {opt}
-              </option>
-            ))}
-          </select>
-        </div>
-
-        {/* Message */}
-        <div className="space-y-2 md:col-span-2">
-          <label htmlFor="message" className="block text-sm md:text-base font-black uppercase tracking-tight text-foreground">
-            Message / Additional Details (Optional)
-          </label>
-          <textarea
-            id="message"
-            name="message"
-            rows={3}
-            placeholder="Tell us more about your career goals or specific questions..."
-            value={formData.message}
-            onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-            className="w-full bg-gray-50 border-4 border-foreground p-5 text-base font-bold focus:bg-white focus:outline-none focus:ring-4 focus:ring-primary/20 transition-all rounded-md resize-none"
-          />
+              </button>
+            );
+          })}
         </div>
       </div>
 
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-7">
+        {/* Full Name */}
+        <div className="space-y-1.5">
+          <label htmlFor="name" className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
+            Full Name <span className="text-rose-500">*</span>
+          </label>
+          <div className="relative">
+            <User className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <input
+              id="name"
+              name="name"
+              required
+              aria-required="true"
+              type="text"
+              autoComplete="name"
+              placeholder="e.g. Rahul Sharma"
+              value={formData.name}
+              onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
+        </div>
+
+        {/* WhatsApp Phone */}
+        <div className="space-y-1.5">
+          <label htmlFor="number" className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
+            WhatsApp Phone Number <span className="text-rose-500">*</span>
+          </label>
+          <div className="relative flex">
+            <span className="inline-flex items-center px-3.5 rounded-l-2xl border border-r-0 border-slate-200 bg-slate-100 text-slate-700 text-xs font-bold">
+              +91
+            </span>
+            <input
+              id="number"
+              name="number"
+              required
+              aria-required="true"
+              type="tel"
+              autoComplete="tel"
+              placeholder="10-digit mobile number"
+              value={formData.number}
+              onChange={(e) => setFormData({ ...formData, number: e.target.value })}
+              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-r-2xl px-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
+        </div>
+
+        {/* Email Address */}
+        <div className="space-y-1.5">
+          <label htmlFor="email" className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
+            Email Address <span className="text-rose-500">*</span>
+          </label>
+          <div className="relative">
+            <Mail className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <input
+              id="email"
+              name="email"
+              required
+              aria-required="true"
+              type="email"
+              autoComplete="email"
+              placeholder="rahul@example.com"
+              value={formData.email}
+              onChange={(e) => setFormData({ ...formData, email: e.target.value })}
+              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
+        </div>
+
+        {/* Budget Range */}
+        <div className="space-y-1.5">
+          <label htmlFor="budget" className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
+            Estimated Budget Range
+          </label>
+          <div className="relative">
+            <DollarSign className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <select
+              id="budget"
+              name="budget"
+              value={formData.budget}
+              onChange={(e) => setFormData({ ...formData, budget: e.target.value })}
+              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 cursor-pointer"
+            >
+              <option value="">Select Budget Range</option>
+              {BUDGET_OPTIONS.map((opt) => (
+                <option key={opt} value={opt}>
+                  {opt}
+                </option>
+              ))}
+            </select>
+          </div>
+        </div>
+
+        {/* Current City */}
+        <div className="space-y-1.5">
+          <label htmlFor="location" className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
+            Your Current City / State
+          </label>
+          <div className="relative">
+            <MapPin className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <input
+              id="location"
+              name="location"
+              type="text"
+              placeholder="e.g. New Delhi, Noida"
+              value={formData.location}
+              onChange={(e) => setFormData({ ...formData, location: e.target.value })}
+              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
+        </div>
+
+        {/* Preferred Study Location */}
+        <div className="space-y-1.5">
+          <label htmlFor="preferredLocation" className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
+            Preferred Study Location / Region
+          </label>
+          <div className="relative">
+            <MapPin className="w-4 h-4 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+            <input
+              id="preferredLocation"
+              name="preferredLocation"
+              type="text"
+              placeholder="e.g. Pune, Delhi NCR, Bangalore, Mumbai"
+              value={formData.preferredLocation}
+              onChange={(e) => setFormData({ ...formData, preferredLocation: e.target.value })}
+              className="w-full h-12 bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all"
+            />
+          </div>
+        </div>
+
+        {/* Query / Goal Notes */}
+        <div className="space-y-1.5 md:col-span-2">
+          <label htmlFor="message" className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
+            Specific Goal, Exam Percentile or Question (Optional)
+          </label>
+          <div className="relative">
+            <MessageSquare className="w-4 h-4 text-slate-400 absolute left-4 top-3.5" />
+            <textarea
+              id="message"
+              name="message"
+              rows={2}
+              placeholder="e.g. Target CAT score, direct admission inquiries, scholarship questions..."
+              value={formData.message}
+              onChange={(e) => setFormData({ ...formData, message: e.target.value })}
+              className="w-full bg-slate-50 border border-slate-200 rounded-2xl pl-11 pr-4 py-3 text-sm font-semibold text-slate-800 placeholder-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500/30 focus:border-blue-500 transition-all resize-none"
+            />
+          </div>
+        </div>
+      </div>
+
+      {/* CTA Button with Smooth Curved Edges & Dynamic Hover */}
       <button
         disabled={status === 'submitting'}
         type="submit"
-        className="w-full h-16 md:h-20 bg-primary text-white border-4 md:border-8 border-foreground text-xl md:text-2xl font-black uppercase tracking-widest shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] md:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transition-all hover:-translate-x-0.5 hover:-translate-y-0.5 active:translate-x-0 active:translate-y-0 active:shadow-none flex items-center justify-center gap-3 cursor-pointer"
+        className="w-full h-14 md:h-16 bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white rounded-2xl md:rounded-[1.25rem] text-base md:text-lg font-black uppercase tracking-wider shadow-lg shadow-blue-600/25 hover:shadow-xl hover:shadow-blue-600/35 active:scale-[0.99] transition-all flex items-center justify-center gap-3 cursor-pointer"
       >
         {status === 'submitting' ? (
-          'Submitting Inquiry...'
+          <span className="flex items-center gap-2.5">
+            <span className="w-5 h-5 border-2 border-white/30 border-t-white rounded-full animate-spin" />
+            Processing Your Profile...
+          </span>
         ) : (
           <>
-            <Send className="w-6 h-6 text-accent" />
-            {buttonText || 'Submit Inquiry'}
+            <Send className="w-5 h-5 text-amber-300" />
+            {buttonText || 'Get Free Profile Evaluation & Callback'}
+            <ArrowRight className="w-5 h-5" />
           </>
         )}
       </button>
-      <div className="mt-4 text-center">
-        <span className="text-[10px] font-black uppercase text-slate-400">🔒 100% Free &amp; Confidential • Direct Guidance by Mohit Jain</span>
+
+      {/* Footer Trust Guarantees */}
+      <div className="mt-5 pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3 text-slate-500 text-xs font-semibold">
+        <span className="inline-flex items-center gap-1.5">
+          <ShieldCheck className="w-4 h-4 text-emerald-600" /> 100% Free &amp; Confidential
+        </span>
+        <span className="inline-flex items-center gap-1.5">
+          <Award className="w-4 h-4 text-amber-500" /> Mentored by IIM &amp; FMS Alumni
+        </span>
+        <span className="inline-flex items-center gap-1.5">
+          <Clock className="w-4 h-4 text-blue-600" /> Fast Response &lt; 24h
+        </span>
       </div>
     </form>
   );

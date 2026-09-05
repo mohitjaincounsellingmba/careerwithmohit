@@ -1,5 +1,6 @@
 import { InquiryForm } from '@/components/InquiryForm';
 import Script from 'next/script';
+import { Sparkles, Award, ShieldCheck, Clock, CheckCircle2, MessageCircle, Phone, ArrowRight } from 'lucide-react';
 
 export const metadata = {
   title: "Contact Mohit Jain | Free MBA & BTech Profile Evaluation 2027",
@@ -90,7 +91,7 @@ export default function InquiryPage() {
   };
 
   return (
-    <div className="min-h-screen bg-accent/20 py-20 px-6 sm:px-12">
+    <div className="min-h-screen bg-slate-50/70 py-12 md:py-20 px-4 sm:px-6 lg:px-8">
       <Script
         id="faq-schema"
         type="application/ld+json"
@@ -103,51 +104,100 @@ export default function InquiryPage() {
       />
       
       <div className="mx-auto max-w-4xl">
-        <div className="mb-16 text-center">
-          <h1 className="font-display text-5xl font-black uppercase tracking-tighter text-foreground sm:text-7xl mb-6">
-            Start Your <br className="sm:hidden" />
-            <span className="bg-primary text-white px-4 py-1 -rotate-2 inline-block border-4 border-foreground">Admission Journey</span>
+        {/* Hero Header with Modern Rounded Badges */}
+        <div className="mb-12 md:mb-16 text-center space-y-4">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-50 border border-blue-200 text-blue-700 text-xs font-black uppercase tracking-wider shadow-sm">
+            <Sparkles className="w-3.5 h-3.5 text-blue-600" />
+            Direct Mentorship • 2027 Admissions
+          </div>
+
+          <h1 className="font-display text-4xl sm:text-6xl font-black tracking-tight text-slate-900 leading-tight">
+            Start Your <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-teal-500 bg-clip-text text-transparent">Admission Journey</span>
           </h1>
-          <p className="text-xl font-bold text-gray-700 max-w-2xl mx-auto">
-            Get a <span className="text-primary underline">Free Profile Evaluation</span> for the 2027-29 session. Connect with Mohit Jain to navigate top-tier MBA and BTech admissions.
+
+          <p className="text-base sm:text-lg font-medium text-slate-600 max-w-2xl mx-auto leading-relaxed">
+            Get a <strong className="text-blue-600 font-bold">100% Free Profile Evaluation</strong> for the 2027 intake. Connect directly with Mohit Jain (IIM &amp; FMS Alumni) to evaluate top B-Schools and Degree programs.
           </p>
         </div>
 
         {/* Hidden H2 for SEO structure */}
         <h2 className="sr-only">Submit Your Admission Inquiry Form</h2>
-        <InquiryForm />
+        
+        {/* Main Edge-Shaped Inquiry Form */}
+        <InquiryForm 
+          source="Dedicated Inquiry Page"
+          title="Personalized Admission & Career Evaluation"
+          subtitle="Submit your details below. We will calculate your college cutoffs and connect with you directly."
+        />
 
-        {/* SEO Features Section */}
-        <div className="mt-20 grid grid-cols-1 md:grid-cols-3 gap-8">
-          <div className="bg-white border-4 border-foreground p-6 rounded-lg text-center shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:translate-y-[-4px] transition-transform">
-            <h3 className="font-black uppercase mb-2">Expert Admission Support</h3>
-            <p className="font-medium text-gray-600">Get 1-on-1 guidance for CAT, MAH CET, and CMAT based admissions from industry veterans.</p>
+        {/* Feature Benefit Highlights with Curved Edge Shapes */}
+        <div className="mt-14 grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="bg-white border border-slate-200/80 p-6 rounded-3xl text-center shadow-lg shadow-slate-900/5 hover:-translate-y-1 transition-all">
+            <div className="w-12 h-12 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-3.5 border border-blue-100">
+              <Award className="w-6 h-6" />
+            </div>
+            <h3 className="font-black text-slate-900 text-base mb-1.5">Expert Admission Support</h3>
+            <p className="font-medium text-slate-600 text-xs leading-relaxed">
+              1-on-1 strategy for CAT, XAT, SNAP, NMAT, and CMAT based admissions from verified industry mentors.
+            </p>
           </div>
-          <div className="bg-white border-4 border-foreground p-6 rounded-lg text-center shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:translate-y-[-4px] transition-transform">
-            <h3 className="font-black uppercase mb-2">24h Response Guarantee</h3>
-            <p className="font-medium text-gray-600">We prioritize your career. Expect a detailed callback or email within one business day.</p>
+
+          <div className="bg-white border border-slate-200/80 p-6 rounded-3xl text-center shadow-lg shadow-slate-900/5 hover:-translate-y-1 transition-all">
+            <div className="w-12 h-12 bg-emerald-50 text-emerald-600 rounded-2xl flex items-center justify-center mx-auto mb-3.5 border border-emerald-100">
+              <Clock className="w-6 h-6" />
+            </div>
+            <h3 className="font-black text-slate-900 text-base mb-1.5">24h Response Guarantee</h3>
+            <p className="font-medium text-slate-600 text-xs leading-relaxed">
+              We value your career roadmap. Expect a detailed call or WhatsApp message within 24 business hours.
+            </p>
           </div>
-          <div className="bg-white border-4 border-foreground p-6 rounded-lg text-center shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:translate-y-[-4px] transition-transform">
-            <h3 className="font-black uppercase mb-2">Direct Admission Path</h3>
-            <p className="font-medium text-gray-600">Expertise in Management Quota, NRI seats, and profile-based admissions for top B-schools.</p>
+
+          <div className="bg-white border border-slate-200/80 p-6 rounded-3xl text-center shadow-lg shadow-slate-900/5 hover:-translate-y-1 transition-all">
+            <div className="w-12 h-12 bg-indigo-50 text-indigo-600 rounded-2xl flex items-center justify-center mx-auto mb-3.5 border border-indigo-100">
+              <ShieldCheck className="w-6 h-6" />
+            </div>
+            <h3 className="font-black text-slate-900 text-base mb-1.5">Direct Admission Path</h3>
+            <p className="font-medium text-slate-600 text-xs leading-relaxed">
+              Expertise in Management Quota, Institutional seats, and profile-based admissions for top colleges.
+            </p>
           </div>
         </div>
 
-        {/* FAQ Section for SEO */}
-        <div className="mt-24 border-t-8 border-foreground pt-16">
-          <h2 className="text-4xl font-black uppercase mb-12 text-center italic">Frequently Asked <span className="text-primary">Questions</span></h2>
-          <div className="space-y-8">
-            <div className="bg-white border-4 border-foreground p-8 rounded-xl shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <h4 className="text-xl font-black uppercase mb-3">How does the 2027 admission guidance process work?</h4>
-              <p className="text-gray-600 font-bold">Once you submit the form, we evaluate your profile (CAT/CET scores, academics, budget). We then match you with top-tier colleges like JBIMS, NMIMS, or SIBM and guide you through the GDPI and seat allotment rounds.</p>
+        {/* FAQ Section with Modern Rounded Accordion-Like Cards */}
+        <div className="mt-16 border-t border-slate-200 pt-12">
+          <div className="text-center mb-10">
+            <span className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-slate-100 text-slate-700 text-xs font-bold uppercase tracking-wider mb-2">
+              Common Queries
+            </span>
+            <h2 className="text-3xl font-black text-slate-900 tracking-tight">Frequently Asked Questions</h2>
+          </div>
+
+          <div className="space-y-4">
+            <div className="bg-white border border-slate-200/80 p-6 md:p-7 rounded-3xl shadow-sm">
+              <h4 className="text-base md:text-lg font-black text-slate-900 mb-2">
+                How does the 2027 admission guidance process work?
+              </h4>
+              <p className="text-slate-600 text-sm font-medium leading-relaxed">
+                Once you submit the form, our team evaluates your profile (exam percentiles, graduation/12th marks, preferred location, and budget). We then match you with top-tier colleges and guide you through GD-PI rounds and seat selection.
+              </p>
             </div>
-            <div className="bg-white border-4 border-foreground p-8 rounded-xl shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <h4 className="text-xl font-black uppercase mb-3">Can I get help with Management Quota or NRI Seats?</h4>
-              <p className="text-gray-600 font-bold">Yes, we specialize in helping students navigate Institutional Quota and NRI seats for high-demand courses like MBA and BTech in Bangalore, Mumbai, and Pune.</p>
+
+            <div className="bg-white border border-slate-200/80 p-6 md:p-7 rounded-3xl shadow-sm">
+              <h4 className="text-base md:text-lg font-black text-slate-900 mb-2">
+                Can I get help with Management Quota or Institutional Seats?
+              </h4>
+              <p className="text-slate-600 text-sm font-medium leading-relaxed">
+                Yes, we specialize in helping students navigate verified Institutional Quota and profile-based seats in high-demand institutions across Delhi NCR, Pune, Bangalore, and Mumbai.
+              </p>
             </div>
-            <div className="bg-white border-4 border-foreground p-8 rounded-xl shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <h4 className="text-xl font-black uppercase mb-3">Is my profile evaluation really free?</h4>
-              <p className="text-gray-600 font-bold">Yes! Your first preliminary evaluation where we discuss your scores and potential college list is completely free of charge.</p>
+
+            <div className="bg-white border border-slate-200/80 p-6 md:p-7 rounded-3xl shadow-sm">
+              <h4 className="text-base md:text-lg font-black text-slate-900 mb-2">
+                Is my preliminary profile evaluation really free?
+              </h4>
+              <p className="text-slate-600 text-sm font-medium leading-relaxed">
+                Yes! Your initial profile evaluation where we analyze your target colleges, eligibility, and scholarship opportunities is 100% free with zero obligations.
+              </p>
             </div>
           </div>
         </div>
