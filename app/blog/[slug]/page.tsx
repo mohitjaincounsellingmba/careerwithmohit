@@ -482,7 +482,6 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 const srcString = src as string;
 
                 // Detect if this is a logo/icon (usually from google, unavatar, logo.dev etc)
-                // These should NOT be wrapped in the giant 600px hero container
                 const isIcon = srcString.includes('favicon') || 
                               srcString.includes('logo') || 
                               srcString.includes('unavatar') || 
@@ -497,19 +496,26 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                     loading="lazy"
                     decoding="async"
                     style={{ height: 'auto', maxWidth: '100%', borderRadius: '8px' }} 
+                    onError={(e) => {
+                      (e.target as HTMLElement).style.display = 'none';
+                    }}
                     {...props} 
                   />;
                 }
 
                 return (
-                  <div className="my-16 relative w-full h-[400px] md:h-[600px] border-8 border-foreground rounded-xl overflow-hidden shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
-                    <Image
+                  <div className="my-12 relative w-full border-4 border-foreground rounded-xl overflow-hidden shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] bg-slate-100">
+                    <img
                       src={srcString}
-                      alt={alt || "Blog Image"}
-                      fill
-                      className="object-cover"
-                      sizes="(max-w-7xl) 100vw, 800px"
-                      priority={false}
+                      alt={alt || "Blog visual illustration"}
+                      className="w-full h-auto max-h-[550px] object-cover"
+                      loading="lazy"
+                      decoding="async"
+                      onError={(e) => {
+                        const parent = (e.target as HTMLElement).parentElement;
+                        if (parent) parent.style.display = 'none';
+                      }}
+                      {...props}
                     />
                   </div>
                 );

@@ -10,6 +10,17 @@ export * from './blog-categories';
 
 let postsCache: PostData[] | null = null;
 
+const publicDirectory = path.join(process.cwd(), 'public');
+
+function getValidImage(img: any): string {
+  if (!img || typeof img !== 'string') return '';
+  if (img.startsWith('http://') || img.startsWith('https://')) return img;
+  const cleanPath = img.startsWith('/') ? img.slice(1) : img;
+  const fullPublicPath = path.join(publicDirectory, cleanPath);
+  if (fs.existsSync(fullPublicPath)) return img.startsWith('/') ? img : `/${img}`;
+  return '/og-image.webp';
+}
+
 export const getSortedPostsData = cache(() => {
   if (process.env.NODE_ENV === 'production' && postsCache) {
     return postsCache;
@@ -48,7 +59,7 @@ export const getSortedPostsData = cache(() => {
         description: matterResult.data.description || '',
         keywords: matterResult.data.keywords || [],
         category: inferCategory(matterResult.data, slug),
-        image: matterResult.data.image || '',
+        image: getValidImage(matterResult.data.image),
         ab_test: matterResult.data.ab_test || undefined,
       };
     })
@@ -77,7 +88,7 @@ export function getPostData(slug: string): PostData | null {
       content: matterResult.content,
       faqs: matterResult.data.faqs || [],
       category: inferCategory(matterResult.data, slug),
-      image: matterResult.data.image || '',
+      image: getValidImage(matterResult.data.image),
       ab_test: matterResult.data.ab_test || undefined,
     };
   } catch (e) {

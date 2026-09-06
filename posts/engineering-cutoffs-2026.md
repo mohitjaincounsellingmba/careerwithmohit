@@ -74,8 +74,6 @@ The JEE Main qualifying cut‑off varies by category. Below is the expected cut�
 
 > **Official portal:** [JEE Main Official Site](https://jeemain.nta.nic.in)
 
-![JEE Main Qualifying Cut‑off Chart](./assets/jee-main-qualifying-cutoff.png)
-
 ---
 
 ## 2. Top 10 NITs for Computer Science (CSE): Opening & Closing Ranks Analysis
@@ -94,8 +92,6 @@ The following NITs are the most sought‑after for Computer Science in 2026. Ran
 | 8 | NIT Jamshedpur | 640 | 1300 |
 | 9 | NIT Patna | 710 | 1400 |
 |10 | NIT Durgapur | 770 | 1500 |
-
-![Top NIT CSE Ranks](./assets/nit-cse-ranks.png)
 
 ---
 

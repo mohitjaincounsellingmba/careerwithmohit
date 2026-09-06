@@ -73,7 +73,7 @@ export function getAllColleges(): CollegeMetadata[] {
       fallbackColleges.push({
         slug,
         name: item.name,
-        logo: '/logo.png',
+        logo: '/logo.webp',
         location: item.location,
         category: 'Management',
         type: 'Institute',
@@ -140,7 +140,7 @@ For 1-on-1 admission counselling, merit scholarships, and direct seat booking gu
       return {
         slug,
         name: item.name,
-        logo: '/logo.png',
+        logo: '/logo.webp',
         location: item.location,
         category: 'Management',
         type: 'Institute',
