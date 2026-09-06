@@ -1020,7 +1020,7 @@ export default function OnlineDegreePage() {
                   </span>
                 </div>
                 <p className="text-xs font-bold text-indigo-600">
-                  IIM Bangalore &amp; FMS Delhi Certified · 10+ Years Admissions Advisory · 5,000+ Students Mentored
+                  IIM Bangalore &amp; FMS Delhi Certified in Digital Marketing · 6+ Years Admissions Advisory · 5,000+ Students Mentored
                 </p>
                 <p className="text-xs text-gray-500 leading-relaxed font-medium">
                   Confused between multiple online universities? Get honest, unbiased profile evaluation, fee negotiation guidance, and scholarship assistance directly with Mohit Jain.

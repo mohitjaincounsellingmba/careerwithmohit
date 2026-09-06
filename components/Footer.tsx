@@ -38,8 +38,6 @@ export function Footer() {
       { name: 'All Tools', href: '/tools' },
       { name: 'Counselling', href: '/services' },
       { name: 'Sell Coaching Online', href: '/sell-your-coaching-online' },
-      { name: 'Partner With Us', href: '/partner-with-us' },
-      { name: 'Backlink Collab', href: '/backlink-collaboration' },
       { name: 'Contact Us', href: '/inquiry' },
       { name: 'About Mohit', href: '/about' },
     ],

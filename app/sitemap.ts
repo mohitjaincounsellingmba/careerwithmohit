@@ -69,7 +69,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/xat-score-calculator-2027',
     '/services',
     '/sell-your-coaching-online',
-    '/partner-with-us',
     '/abroad-education',
     '/calculator/career-roadmap',
     '/calculator/certification',

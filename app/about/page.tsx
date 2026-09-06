@@ -26,10 +26,12 @@ import { FounderFaq } from '@/components/FounderFaq';
 
 export const metadata: Metadata = {
   title: "About Mohit Jain | Founder & Chief MBA Admissions Strategist",
-  description: "Meet Mohit Jain — Founder of CareerWithMohit, IIM Bangalore & FMS Delhi certified strategist. Uncompromised, ROI-first career guidance and MBA admissions consulting.",
+  description: "Meet Mohit Jain — Founder of CareerWithMohit, IIM Bangalore & FMS Delhi certified in Digital Marketing. Uncompromised, ROI-first career guidance and MBA admissions consulting.",
   keywords: [
     "Mohit Jain", "about Mohit Jain", "CareerWithMohit founder", "expert career counsellor India",
-    "MBA admission consultant Delhi NCR", "IIM Bangalore certified", "FMS Delhi certified",
+    "iim bangalore and fms delhi certified in digital marketing", "IIM Bangalore certified in digital marketing",
+    "FMS Delhi certified in digital marketing", "IIM Bangalore certified", "FMS Delhi certified",
+    "digital marketing certified career strategist", "MBA admission consultant Delhi NCR",
     "MBA career counselling Delhi NCR", "best MBA career counsellor Pune", "direct MBA admission guide"
   ],
   alternates: {
@@ -37,7 +39,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "About Mohit Jain | Founder & Chief MBA Admissions Strategist",
-    description: "Learn about Mohit Jain's journey from Accenture & Doubtnut to IIM/FMS certifications and building India's student-first admissions advisory.",
+    description: "Learn about Mohit Jain's journey from Accenture & Doubtnut to IIM Bangalore & FMS Delhi digital marketing certifications and building India's student-first admissions advisory.",
     type: "profile",
     url: "/about",
     siteName: "CareerWithMohit",
@@ -53,7 +55,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "About Mohit Jain | Founder & Chief MBA Admissions Strategist",
-    description: "Learn about Mohit Jain's journey from Accenture & Doubtnut to IIM/FMS certifications and uncompromised career guidance.",
+    description: "Learn about Mohit Jain's journey from Accenture & Doubtnut to IIM Bangalore & FMS Delhi digital marketing certifications and uncompromised career guidance.",
     images: ["https://www.careerwithmohit.online/og-image.webp"],
   },
 };
@@ -70,16 +72,16 @@ const CREDENTIALS = [
     institution: "IIM Bangalore",
     title: "Digital Marketing & Strategy",
     badge: "Executive Credential",
-    desc: "Advanced training in digital consumer behaviour, performance strategy, and growth analytics from India's #1 business school.",
+    desc: "Advanced executive certification in digital marketing, consumer behaviour, performance strategy, and growth analytics from India's #1 business school.",
     color: "bg-blue-600",
     textColor: "text-blue-700",
     bgLight: "bg-blue-50"
   },
   {
     institution: "FMS Delhi",
-    title: "Strategic Marketing & Management",
+    title: "Digital Marketing & Management",
     badge: "Executive Credential",
-    desc: "Core executive grounding in brand architecture, market dynamics, and competitive positioning from Red Building of Dreams.",
+    desc: "Executive certification in digital marketing strategy, brand architecture, competitive positioning, and consumer acquisition from Faculty of Management Studies (FMS Delhi).",
     color: "bg-red-600",
     textColor: "text-red-700",
     bgLight: "bg-red-50"
@@ -157,8 +159,8 @@ const TIMELINE = [
   {
     year: "2022 - 2023",
     badge: "Executive Certifications",
-    title: "IIM Bangalore & FMS Delhi Accreditations",
-    description: "Earned prestigious certifications from IIM Bangalore and FMS Delhi in Digital Marketing, Strategic Management, coupled with Six Sigma Yellow/White Belts and Business Analytics credentials.",
+    title: "IIM Bangalore & FMS Delhi Certifications",
+    description: "Earned prestigious credentials from IIM Bangalore and FMS Delhi certified in Digital Marketing & Strategic Management, coupled with Six Sigma Yellow/White Belts and Business Analytics credentials.",
     icon: Award,
     color: "bg-emerald-500"
   },
@@ -230,7 +232,7 @@ export default function AboutPage() {
       "@id": "https://www.careerwithmohit.online/#person-mohit-jain",
       "name": "Mohit Jain",
       "image": "https://www.careerwithmohit.online/og-image.webp",
-      "description": "Founder of CareerWithMohit, Chief Career Counsellor & MBA Admissions Strategist with credentials from IIM Bangalore and FMS Delhi.",
+      "description": "Founder of CareerWithMohit, Chief Career Counsellor & MBA Admissions Strategist, IIM Bangalore and FMS Delhi certified in Digital Marketing.",
       "jobTitle": "Founder & Chief Admissions Strategist",
       "url": "https://www.careerwithmohit.online/about",
       "worksFor": {
@@ -250,8 +252,8 @@ export default function AboutPage() {
         },
         {
           "@type": "EducationalOccupationalCredential",
-          "name": "Strategic Marketing Certification",
-          "recognizedBy": { "@type": "EducationalOrganization", "name": "FMS Delhi" }
+          "name": "Digital Marketing & Management Certification",
+          "recognizedBy": { "@type": "EducationalOrganization", "name": "Faculty of Management Studies (FMS Delhi)" }
         },
         {
           "@type": "EducationalOccupationalCredential",
@@ -265,6 +267,7 @@ export default function AboutPage() {
         }
       ],
       "knowsAbout": [
+        "Digital Marketing & Strategy",
         "MBA Admissions 2027",
         "PGDM Admissions 2027",
         "Direct MBA Admission Guidance",
@@ -309,7 +312,7 @@ export default function AboutPage() {
               Founder & Lead Strategist
             </span>
             <span className="inline-block bg-blue-100 text-blue-900 font-black uppercase text-xs sm:text-sm px-4 py-1.5 border-2 border-foreground">
-              IIM-B & FMS Delhi Certified
+              IIM Bangalore & FMS Delhi Certified in Digital Marketing
             </span>
           </div>
 
@@ -371,11 +374,11 @@ export default function AboutPage() {
                 <div className="space-y-3 mb-6">
                   <div className="flex items-center gap-2.5 text-sm font-bold text-gray-900">
                     <Check className="w-5 h-5 text-emerald-700 stroke-[3] shrink-0" />
-                    <span>IIM Bangalore Executive Certified</span>
+                    <span>IIM Bangalore Certified in Digital Marketing</span>
                   </div>
                   <div className="flex items-center gap-2.5 text-sm font-bold text-gray-900">
                     <Check className="w-5 h-5 text-emerald-700 stroke-[3] shrink-0" />
-                    <span>FMS Delhi Executive Certified</span>
+                    <span>FMS Delhi Certified in Digital Marketing</span>
                   </div>
                   <div className="flex items-center gap-2.5 text-sm font-bold text-gray-900">
                     <Check className="w-5 h-5 text-emerald-700 stroke-[3] shrink-0" />
@@ -446,7 +449,7 @@ export default function AboutPage() {
             </p>
 
             <p>
-              Having worked at <strong>Accenture handling Amazon operational metrics</strong>, scaling business growth at <strong>Doubtnut</strong>, and completing executive management programs at <strong>IIM Bangalore</strong> and <strong>FMS Delhi</strong>, I realized that true career advancement is an engineering discipline. It requires hard data, realistic percentile analysis, genuine return on investment (ROI), and thorough interview preparation.
+              Having worked at <strong>Accenture handling Amazon operational metrics</strong>, scaling business growth at <strong>Doubtnut</strong>, and completing executive management programs at <strong>IIM Bangalore</strong> and <strong>FMS Delhi</strong> certified in Digital Marketing & Strategy, I realized that true career advancement is an engineering discipline. It requires hard data, realistic percentile analysis, genuine return on investment (ROI), and thorough interview preparation.
             </p>
 
             <div className="bg-yellow-200 border-4 border-foreground p-6 my-6 font-bold text-foreground">
@@ -462,7 +465,7 @@ export default function AboutPage() {
               <div>
                 <div className="font-display font-black text-2xl uppercase text-foreground">Mohit Jain</div>
                 <div className="text-sm font-bold text-gray-600">Founder & Chief Admissions Strategist</div>
-                <div className="text-xs font-bold text-primary">Certified by IIM Bangalore & FMS Delhi</div>
+                <div className="text-xs font-bold text-primary">IIM Bangalore & FMS Delhi Certified in Digital Marketing</div>
               </div>
 
               <div className="flex items-center gap-3">
