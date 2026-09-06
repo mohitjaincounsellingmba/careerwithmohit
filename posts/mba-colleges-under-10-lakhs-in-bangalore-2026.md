@@ -55,6 +55,11 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 ## 1. Canara Bank School of Management Studies, Bangalore University
 - **Approximate Fees:** ₹1.5 Lakhs (Total)
 - **Accepted Entrance Exams:** Karnataka PGCET

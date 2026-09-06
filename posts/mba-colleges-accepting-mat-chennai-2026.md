@@ -56,6 +56,11 @@ Here is the detailed overview of the top management institutes in Chennai accept
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹19.80 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹15.10 LPA (Highest ₹34.0 LPA) with AMBA & SAQS Accredited.
+
 ## 1. Great Lakes Institute of Management
 Accepts MAT for specific specialized profiles, offering some of the best placement figures in India.
 - **MAT Cutoff Percentile:** 75+ Percentile

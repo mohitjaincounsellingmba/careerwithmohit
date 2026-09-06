@@ -4,7 +4,7 @@ title: >-
   PGDM Market
 date: '2026-05-11'
 description: >-
-  Discover the unique selling points of FIIB Delhi for the 2026-28 PGDM batch —
+  Discover the unique selling points of FIIB Delhi for the 2027–29 PGDM batch —
   from AACSB accreditation and Harvard case-based learning to strong placements
   and CXO-led sessions. Find out why FIIB is one of Delhi's most respected
   private B-schools.
@@ -52,7 +52,7 @@ In this post, we break down the **10 real USPs of FIIB Delhi** — the factors t
 
 ---
 
-## Quick Snapshot: FIIB Delhi 2026-28
+## Quick Snapshot: FIIB Delhi 2027–29
 
 | Parameter | Details |
 | :--- | :--- |
@@ -231,7 +231,7 @@ FIIB may **not be ideal** if:
 
 ## FAQs
 
-**Q1. What is the total fee for FIIB Delhi 2026-28?**
+**Q1. What is the total fee for FIIB Delhi 2027–29?**
 The total fee ranges from ₹11.55 Lakhs to ₹12.90 Lakhs depending on specialization and scholarship applied.
 
 **Q2. Does FIIB have AACSB accreditation?**

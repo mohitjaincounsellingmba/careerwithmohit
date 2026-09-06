@@ -18,7 +18,7 @@ keywords:
   - Baby IIMs cutoff 2026
   - IIM academic diversity points
   - IIM work experience weightage
-  - Delhi NCR MBA Admissions 2026
+  - Delhi NCR MBA Admissions 2027–2029
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi Colleges
@@ -69,7 +69,7 @@ Securing admission to one of India’s **21 Indian Institutes of Management (IIM
 
 In reality, **every IIM uses a complex, multi-factor Composite Score (CS) algorithm** to shortlist candidates for the Written Ability Test (WAT) and Personal Interview (PI). Your Class 10th and 12th marks, undergraduate pedigree, work experience tenure, and academic/gender diversity play an equally decisive role.
 
-In this exhaustive guide, **Mohit Jain** demystifies the **IIM Shortlist Criteria & Minimum CAT Cut Offs for 2026-2028 Admissions** across Old IIMs (BLACKI), New IIMs, and Baby IIMs.
+In this exhaustive guide, **Mohit Jain** demystifies the **IIM Shortlist Criteria & Minimum CAT Cut Offs for 2027–2029 Admissions** across Old IIMs (BLACKI), New IIMs, and Baby IIMs.
 
 ---
 

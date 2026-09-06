@@ -36,7 +36,7 @@ faqs:
       Not necessarily. It just means more competition. Industry giants like
       Amazon, Deloitte, and ICICI Bank often hire in bulk from high-intake
       colleges.
-  - question: When should I apply for the 2026 batch?
+  - question: When should I apply for the 2027–2029 intake?
     answer: >-
       Right now! Most direct admission registrations for the July 2026 batch
       close by the end of **April**.
@@ -61,6 +61,11 @@ Before diving into the numbers, understand why seat intake is crucial:
 #
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## **📊 MBA/PGDM Seat Intake 2026: Delhi NCR**
 Delhi NCR remains the top choice for students due to its massive corporate hub. Here is the seat matrix for top direct-admission-friendly colleges.
@@ -112,7 +117,7 @@ Yes, private universities and AICTE-approved PGDM colleges have the authority to
 **2. Does a higher intake mean bad placements?**
 Not necessarily. It just means more competition. Industry giants like Amazon, Deloitte, and ICICI Bank often hire in bulk from high-intake colleges.
 
-**3. When should I apply for the 2026 batch?**
+**3. When should I apply for the 2027–2029 intake?**
 Right now! Most direct admission registrations for the July 2026 batch close by the end of **April**.
 
 ---

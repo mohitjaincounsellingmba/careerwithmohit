@@ -44,7 +44,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Lal Bahadur Shastri Institute of Management (LBSIM), Delhi, is an elite B-school known for its academic excellence, ethics-based education, and high-ROI programs. Located in Dwarka, New Delhi, LBSIM is a top choice for students focusing on Finance and General Management. For the 2026-28 batch, **Direct Admission in LBSIM Delhi** is a merit-linked institutional process.
+Lal Bahadur Shastri Institute of Management (LBSIM), Delhi, is an elite B-school known for its academic excellence, ethics-based education, and high-ROI programs. Located in Dwarka, New Delhi, LBSIM is a top choice for students focusing on Finance and General Management. For the 2027–29 batch, **Direct Admission in LBSIM Delhi** is a merit-linked institutional process.
 
 ## Why LBSIM Delhi is a Preferred Destination?
 
@@ -70,7 +70,7 @@ LBSIM provides weightage to candidates with significant achievements in research
 ## Fee Structure for 2026
 The total academic fee for the flagship PGDM program is approximately **₹14 Lakhs to ₹15 Lakhs** for two years. For the specialized Finance and Research programs, the fee structure remains competitive, providing excellent ROI.
 
-## Selection Process (2026-28 Batch)
+## Selection Process (2027–29 Batch)
 1. **Entrance Exam**: Valid CAT 2025 or XAT 2026 score.
 2. **Selection Rounds**: Comprehensive Group Discussion (GD), Personal Interview (PI), and Written Ability Test (WAT).
 3. **Academic Records**: High weightage is given to consistent performance in 10th, 12th, and Graduation.
@@ -95,7 +95,7 @@ No, it is a transparent, merit-linked process conducted through official institu
 
 ## 🔗 Related Resources
 - [Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
-- [MBA Admission Guide 2026-28: Timelines & Strategy](/blog/mba-pgdm-admissions-2026-2028-complete-guide)
+- [MBA Admission Guide 2027–29: Timelines & Strategy](/blog/mba-pgdm-admissions-2027–2029-complete-guide)
 - [Direct MBA Admission India Master List](/blog/direct-mba-admission-india)
 
 [👉 Aiming for LBSIM Delhi? Let us help you craft the perfect application!](/inquiry)

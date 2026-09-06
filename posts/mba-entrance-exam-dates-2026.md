@@ -19,7 +19,7 @@ description: >-
   colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
   private univer
 keywords:
-  - MBA admission 2026
+  - MBA admission 2027–2029
   - best MBA colleges
   - MBA placements
   - CAT preparation
@@ -55,6 +55,11 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 # MBA Entrance Exam Dates 2026
+
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 Preparing for an MBA? Knowing the exact dates of the major entrance exams is the first step to a successful admission strategy. Below is a concise, up‑to‑date schedule for the **2026 MBA entrance exams** – **CAT, XAT, SNAP, NMAT, CMAT** and **IIFT**.
 

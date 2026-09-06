@@ -120,7 +120,7 @@ The MAT scorecard contains two important components:
 
 ## MAT May 2026 Score Validity
 
-Your MAT May 2026 scorecard is valid for **12 months** from the date of declaration. This means you can use this score for **MBA/PGDM admissions in the 2026-28 batch** at all MAT-accepting colleges across India.
+Your MAT May 2026 scorecard is valid for **12 months** from the date of declaration. This means you can use this score for **MBA/PGDM admissions in the 2027–29 batch** at all MAT-accepting colleges across India.
 
 ---
 
@@ -152,7 +152,7 @@ Most MAT-accepting colleges accept direct applications. Scores are also sent to 
 Once shortlisted, you'll be called for Group Discussion (GD) and Personal Interview (PI). Read our **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)** guide to get ahead.
 
 ### 4. Consider Giving MAT Again
-If your score is not up to the mark, the **MAT September 2026** session is your next chance. It is the last session for 2026-28 batch admissions at many institutes.
+If your score is not up to the mark, the **MAT September 2026** session is your next chance. It is the last session for 2027–29 batch admissions at many institutes.
 
 ---
 

@@ -75,6 +75,11 @@ state: Delhi NCR
 
 # Fake University List Pan India for MBA 2026: UGC & AICTE Blacklisted Colleges & Red Flags
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 Every year, over 5 lakh management aspirants across India prepare for competitive exams like [CAT, XAT, NMAT, and SNAP](/blog/best-mock-tests-for-cat-nmat-xat-snap-mba-entrance-2026) with dreams of securing an MBA or PGDM from premier business schools. However, behind the glitz of brochure marketing, glossy infrastructure photos, and aggressive telecalling campaigns lies a dangerous underground network of **fake universities, unauthorized management institutes, diploma mills, and unaccredited online colleges**.
 
 Enrolling in an unrecognized MBA program is catastrophic: **degrees from fake universities are legally null and void, disqualifying candidates from central and state government jobs, PSU recruitments, corporate Background Verification (BGV) checks, higher studies (Ph.D.), and international visa evaluations (like WES Canada/US)**.
@@ -83,7 +88,7 @@ In this investigative guide, we publish the **official UGC Pan-India Fake Univer
 
 ---
 
-> ⚠️ **Important Advisory for MBA Aspirants 2026–2028:**
+> ⚠️ **Important Advisory for MBA Aspirants 2027–2029:**
 >
 > * Under **Section 22 of the UGC Act, 1956**, the right of conferring or granting degrees can be exercised **ONLY** by a University established under a Central Act, a State Act, or an institution deemed to be a university under Section 3.
 > * Autonomous non-university institutions **CANNOT award an MBA degree**; they can only offer an **AICTE-approved PGDM** diploma.

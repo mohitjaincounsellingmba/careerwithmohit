@@ -58,7 +58,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Planning your MBA journey for the **2026–2028 academic cycle** requires careful tracking of **upcoming MBA entrance exams**, their application form costs, registration last dates, and exam schedules. While [CAT 2026](/blog/all-about-cat-exam) is the gateway to the 21 IIMs, relying solely on a single exam is a high-risk strategy. 
+Planning your MBA journey for the **2027–2029 academic cycle** requires careful tracking of **upcoming MBA entrance exams**, their application form costs, registration last dates, and exam schedules. While [CAT 2026](/blog/all-about-cat-exam) is the gateway to the 21 IIMs, relying solely on a single exam is a high-risk strategy. 
 
 Top-tier management institutes across India accept a variety of national and institute-specific tests—collectively known as [OMETs (Other Management Entrance Tests)](/blog/all-about-omets-mba-entrance-exams-2026)—including **XAT, NMAT, SNAP, CMAT, MAT, and MAH MBA CET**. Each exam opens doors to prestigious B-schools such as [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [NMIMS Mumbai](/colleges/nmims-mumbai), [SIBM Pune](/colleges/sibm-pune), [JBIMS Mumbai](/colleges/jbims-mumbai), and [FMS Delhi](/colleges/fms-delhi).
 
@@ -185,7 +185,7 @@ When planning your MBA application strategy, it is crucial to budget not only fo
 
 ---
 
-## 5 Actionable Preparation Tips for MBA Admissions 2026–27
+## 5 Actionable Preparation Tips for MBA Admissions 2027–2029–27
 
 1.  **Align Your Timeline with Exam Patterns:** While CAT focuses heavily on reading comprehension and complex DILR puzzles, speed-based exams like NMAT and SNAP require quick calculation shortcuts and time-management drills.
 2.  **Track Registration Closing Dates Early:** Missing the application last date for exams like NMAT (October) or XAT (November) eliminates your chance at premier institutes like NMIMS and XLRI for the entire year.

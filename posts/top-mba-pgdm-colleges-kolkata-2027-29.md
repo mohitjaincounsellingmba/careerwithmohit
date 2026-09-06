@@ -41,6 +41,11 @@ state: West Bengal
 
 # Top MBA/PGDM Colleges in Kolkata (2027-29): Low Fees, High Placements & Admission Process
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 Kolkata, the cultural capital of India, serves as the economic hub for Eastern and North-Eastern India. Known for its historical management legacy, Kolkata hosts premier institutions alongside high-ROI autonomous business schools.
 
 For management aspirants planning **2027-29 admissions in Eastern India**, Kolkata offers low tuition costs, affordable living expenses, and top placements in BFSI, IT consulting, analytics, and FMCG sectors.

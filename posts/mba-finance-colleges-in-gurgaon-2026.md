@@ -41,7 +41,7 @@ state: Delhi NCR
 
 Selecting the right B-school is critical if you are targeting a career in investment banking, corporate finance, asset management, or fintech. While general MBA rankings give a broad overview, finance recruiters tend to visit campuses that have a strong quantitative tradition, specialized finance faculty, and proximity to major corporate centers.
 
-For students planning their admissions for the 2026 batch, this guide highlights the **best MBA Finance colleges in Gurgaon**, comparing their fee structures, accepted entrance exams, and latest placement packages.
+For students planning their admissions for the 2027–2029 intake, this guide highlights the **best MBA Finance colleges in Gurgaon**, comparing their fee structures, accepted entrance exams, and latest placement packages.
 
 ---
 

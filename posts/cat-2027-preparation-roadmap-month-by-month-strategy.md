@@ -256,7 +256,7 @@ Yes! Working professionals can achieve a 99+ percentile by dedicating **2 to 3 f
 
 Scoring a 99+ percentile in CAT 2027 is a marathon, not a sprint. Maintain consistency, track your error logs rigorously, and adapt your exam strategy with every mock test.
 
-For further insights into top management entrance exams and selection criteria, explore our guides on [All About CAT Exam](/posts/all-about-cat-exam), [10 Tips to Crack CAT Exam](/posts/10-tips-to-crack-cat-exam-2026), and [IIM Cutoffs & Selection Process](/posts/all-iim-cut-off-2026-28-admission-mba-pgdm).
+For further insights into top management entrance exams and selection criteria, explore our guides on [All About CAT Exam](/posts/all-about-cat-exam), [10 Tips to Crack CAT Exam](/posts/10-tips-to-crack-cat-exam-2026), and [IIM Cutoffs & Selection Process](/posts/all-iim-cut-off-2027–29-admission-mba-pgdm).
 
 ---
 

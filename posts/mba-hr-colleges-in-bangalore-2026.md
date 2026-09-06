@@ -39,7 +39,7 @@ state: Karnataka
 
 Selecting the right B-school is critical if you are targeting a career in talent acquisition, workforce management, employee wellness, industrial relations, or strategic human resources. While general MBA rankings give a broad overview, HR recruiters tend to visit campuses that have a strong tradition of organizational behavior studies, dedicated HR specialized cells, and proximity to major corporate headquarters.
 
-For students planning their admissions for the 2026 batch, this guide highlights the **best MBA HR colleges in Bangalore**, comparing their fee structures, accepted entrance exams, and latest placement packages.
+For students planning their admissions for the 2027–2029 intake, this guide highlights the **best MBA HR colleges in Bangalore**, comparing their fee structures, accepted entrance exams, and latest placement packages.
 
 ---
 

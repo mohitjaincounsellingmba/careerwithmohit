@@ -82,7 +82,7 @@ To be taken seriously in the professional sports ecosystem, having a formal degr
 
 ## 3. Top Sports Management Colleges in India (2026)
 
-Several institutes have pioneered sports management education in India. Here are the top picks for the 2026 session:
+Several institutes have pioneered sports management education in India. Here are the top picks for the 2027–2029 intake:
 
 | Institute | Location | Courses Offered |
 | :--- | :--- | :--- |

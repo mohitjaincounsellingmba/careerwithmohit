@@ -43,7 +43,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-The Association of Indian Management Schools (AIMS) has officially announced the dates for the July session of the AIMS Test for Management Admissions (ATMA) 2026. This is a crucial opportunity for MBA and PGDM aspirants who missed earlier entrance exams or wish to improve their scores for 2026-28 admissions.
+The Association of Indian Management Schools (AIMS) has officially announced the dates for the July session of the AIMS Test for Management Admissions (ATMA) 2026. This is a crucial opportunity for MBA and PGDM aspirants who missed earlier entrance exams or wish to improve their scores for 2027–29 admissions.
 
 ATMA is a national-level entrance exam recognized by AICTE and the Ministry of Education, accepted by over 600 management institutes across India.
 

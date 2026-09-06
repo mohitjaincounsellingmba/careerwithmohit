@@ -16,7 +16,7 @@ keywords:
   - cat convening iim rotation history
   - cat 2026 registration dates
   - iim admission 2026
-  - MBA Admissions 2026
+  - MBA Admissions 2027–2029
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
@@ -162,7 +162,7 @@ Historically, when **IIM Indore** convened CAT in **2020** and **2014**, the pap
 ## 7. Related MBA & CAT 2026 Guides
 * [All About CAT Exam 2026: Syllabus, Eligibility & Pattern](/blog/all-about-cat-exam)
 * [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026)
-* [All IIM Cut-Offs 2026-28: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+* [All IIM Cut-Offs 2027–29: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
 * [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
 * [Top MBA Colleges in India 2026: Rankings, Fees & Placements](/blog/iims-list-courses-placements-cutoffs-admission)
 

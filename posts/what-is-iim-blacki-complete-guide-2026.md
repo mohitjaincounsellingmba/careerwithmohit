@@ -19,7 +19,7 @@ keywords:
   - IIM Indore
   - IIM BLACKISM
   - holy grail IIMs
-  - MBA admissions 2026
+  - MBA admissions 2027–2029
   - CAT exam 2026
   - Delhi Colleges
   - Best Colleges in Delhi
@@ -64,7 +64,7 @@ state: Delhi NCR
 
 Every MBA aspirant in India dreams of stepping into the hallowed halls of an Indian Institute of Management. But within the IIM ecosystem itself, one acronym stands above all others as the absolute **holy grail of Indian management education**: **IIM "BLACKI"**.
 
-If you are preparing for the [CAT Exam](/blog/all-about-cat-exam) and aiming for the 2026–28 MBA/PGP batch, understanding what makes IIM BLACKI so coveted—and precisely what it takes to crack these institutes—is essential for shaping your preparation strategy.
+If you are preparing for the [CAT Exam](/blog/all-about-cat-exam) and aiming for the 2027–29 MBA/PGP batch, understanding what makes IIM BLACKI so coveted—and precisely what it takes to crack these institutes—is essential for shaping your preparation strategy.
 
 ---
 
@@ -124,9 +124,9 @@ While **BLACKI** remains the classic reference, **BLACKISM** now represents the 
 
 ---
 
-## IIM BLACKI 2026–28: Fees, Placements & NIRF Rankings Matrix
+## IIM BLACKI 2027–29: Fees, Placements & NIRF Rankings Matrix
 
-Investing in an IIM BLACKI degree requires significant financial commitment, but the **Return on Investment (ROI)** remains among the highest globally. Below is the comparative matrix for the upcoming 2026–28 admission cycle:
+Investing in an IIM BLACKI degree requires significant financial commitment, but the **Return on Investment (ROI)** remains among the highest globally. Below is the comparative matrix for the upcoming 2027–29 admission cycle:
 
 | Institute | NIRF Management Rank (2025/26) | Approx. 2-Year Program Fee | Average Salary Package (LPA) | Highest / Median Salary Highlights |
 | :--- | :---: | :---: | :---: | :--- |
@@ -178,7 +178,7 @@ Scoring a 99.8 percentile in CAT does not automatically guarantee admission to a
 If you fall slightly short of the 99+ percentile benchmark, you should not be disheartened. India's **New IIMs** (like IIM Udaipur, IIM Trichy, IIM Ranchi) and **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis)** (like IIM Nagpur, IIM Bodh Gaya, IIM Amritsar) offer outstanding infrastructure, rapidly growing corporate networks, and average placements between **₹15 LPA and ₹22 LPA**.
 
 To make an informed choice across the entire IIM hierarchy, explore our detailed comparative guides:
-*   [All IIM Cut Off 2026–28: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+*   [All IIM Cut Off 2027–29: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
 *   [Baby IIMs Review 2026: Complete Honest Analysis of Fees, Placements & ROI](/blog/baby-iims-review-2026-honest-analysis)
 
 ---

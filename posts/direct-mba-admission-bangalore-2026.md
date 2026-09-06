@@ -82,7 +82,7 @@ Direct admission doesn't mean "any student." Colleges look for candidates who wi
 
 ---
 
-## 🛠️ How to Proceed for 2026 Intake?
+## 🛠️ How to Proceed for the 2027–2029 intake?
 
 The window for institutional seats in Bangalore usually opens early. By the time CAT results are out, 40% of these seats are already blocked. **Apply early to avoid higher "Institutional Development Fees".**
 

@@ -13,7 +13,7 @@ keywords:
   - mdi gurgaon highest package 2025
   - mdi gurgaon cat cutoff 2026
   - mdi gurgaon fees vs placements
-  - mba admission 2026
+  - mba admission 2027–2029
   - Gurgaon Colleges
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026

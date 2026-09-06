@@ -1,12 +1,12 @@
 ---
-title: 'DTU MBA Admission 2026: Colleges, Cutoff, Fees, Process & Specializations'
+title: 'DTU MBA Admission 2027–2029: Colleges, Cutoff, Fees, Process & Specializations'
 date: '2026-04-15'
 description: >-
-  Everything you need to know about the DTU MBA admission 2026, including Delhi
+  Everything you need to know about the DTU MBA admission 2027–2029, including Delhi
   School of Management (DSM) and USME, CAT cutoffs, CMAC process, fee structure,
   and MBA placements.
 keywords:
-  - DTU MBA admission 2026
+  - DTU MBA admission 2027–2029
   - DTU MBA cutoff
   - Delhi Technological University MBA
   - DTU MBA fees
@@ -51,7 +51,7 @@ DTU offers MBA programs through two distinct campuses/departments:
 1. **Delhi School of Management (DSM)** - Located at the Main Campus (Rohini)
 2. **University School of Management and Entrepreneurship (USME)** - Located at the East Delhi Campus (Vivek Vihar)
 
-This guide provides a comprehensive overview of the **DTU MBA Admission 2026**, covering the admission process, cutoffs, fee structure, programs, and placements.
+This guide provides a comprehensive overview of the **DTU MBA Admission 2027–2029**, covering the admission process, cutoffs, fee structure, programs, and placements.
 
 ## 1. Programs and Specializations Offered
 

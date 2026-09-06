@@ -45,6 +45,11 @@ state: Delhi NCR
 ---
 # Taking a Gap Year for MBA Preparation: Is it a Good Choice?
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 The decision to take a "drop" or a gap year for MBA preparation is one of the most debated topics among aspirants. With the competition for top-tier B-schools like IIMs, FMS, and XLRI reaching new heights every year, many candidates wonder if dedicating a full year to preparation is a strategic move or a risky gamble.
 
 As you plan for **MBA 2026**, let’s break down the pros, cons, and real-world implications of taking a gap year to help you make an informed decision.

@@ -31,7 +31,7 @@ keywords:
   - imt ghaziabad highest package 2025
   - imt ghaziabad cat cutoff 2026
   - imt marketing placement report
-  - mba admission 2026
+  - mba admission 2027–2029
   - Ghaziabad Colleges
   - Best Colleges in Ghaziabad
   - Ghaziabad Admissions 2026

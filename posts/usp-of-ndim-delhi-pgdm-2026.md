@@ -4,7 +4,7 @@ title: >-
   B-Schools
 date: '2026-05-11'
 description: >-
-  Discover the unique selling points (USPs) of NDIM Delhi for the 2026-28 PGDM
+  Discover the unique selling points (USPs) of NDIM Delhi for the 2027–29 PGDM
   batch — from 100% placements and dual specialization to the AICTE-CII 'Best
   Industry-Linked Institute' award. Find out why NDIM is the top private
   B-school choice in South Delhi.
@@ -63,12 +63,12 @@ In this post, we break down the **10 real USPs of NDIM Delhi** — the things th
 
 ---
 
-## Quick Snapshot: NDIM Delhi 2026-28
+## Quick Snapshot: NDIM Delhi 2027–29
 
 | Parameter | Details |
 | :--- | :--- |
 | **Program** | PGDM (AIU-approved, MBA equivalent) |
-| **Total Fees** | ₹13.75 Lakhs (2026-28 batch) |
+| **Total Fees** | ₹13.75 Lakhs (2027–29 batch) |
 | **CAT/XAT Cutoff** | 65–75 Percentile |
 | **Average Package** | ₹9.5 – ₹10 LPA |
 | **Highest Package** | ₹23.80 LPA (Domestic) |
@@ -259,8 +259,8 @@ NDIM may **not be ideal** if:
 
 ## Frequently Asked Questions (FAQs)
 
-**Q1. What is the total fee for NDIM Delhi PGDM 2026-28?**
-The total academic fee for the 2026-28 PGDM batch is **₹13.75 Lakhs**, payable in semester installments. Scholarship opportunities exist for high-scoring CAT/XAT candidates.
+**Q1. What is the total fee for NDIM Delhi PGDM 2027–29?**
+The total academic fee for the 2027–29 PGDM batch is **₹13.75 Lakhs**, payable in semester installments. Scholarship opportunities exist for high-scoring CAT/XAT candidates.
 
 **Q2. What CAT percentile do I need for NDIM Delhi?**
 NDIM typically accepts students with **65–80 percentile** in CAT/XAT. They also accept MAT, CMAT, ATMA, GMAT, and state-level entrance exam scores.

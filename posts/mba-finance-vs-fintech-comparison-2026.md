@@ -51,7 +51,7 @@ state: Delhi NCR
 
 For many ambitious graduates and business professionals in 2026, choosing the right specialization is one of the most critical decisions of their MBA journey. While a specialization in **Finance** remains the traditional, time-tested choice, the explosive growth of the digital economy has paved the way for **FinTech (Financial Technology)** to emerge as a powerhouse alternative.
 
-Should you stick to the classic pathways of investment banking and corporate treasury, or should you pivot to the disruptive frontier of digital payments, blockchain, and artificial intelligence? This guide provides an in-depth comparison of **MBA in Finance vs. MBA in FinTech** to help you make an informed decision for the 2026-2028 academic cycle.
+Should you stick to the classic pathways of investment banking and corporate treasury, or should you pivot to the disruptive frontier of digital payments, blockchain, and artificial intelligence? This guide provides an in-depth comparison of **MBA in Finance vs. MBA in FinTech** to help you make an informed decision for the 2027–2029 academic cycle.
 
 ---
 

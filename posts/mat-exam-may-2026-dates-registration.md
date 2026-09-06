@@ -75,7 +75,7 @@ While official exact calendar dates may shift by a few days depending on AIMA no
 ## Why Take the May MAT 2026 Exam?
 
 For a large portion of students, taking the May MAT is a strategic decision:
-- **Last Opportunity:** It is typically the final major entrance exam accepted for the ongoing academic year (2026-2028 batch). Most top-tier PGDM colleges finalize their batches by late June.
+- **Last Opportunity:** It is typically the final major entrance exam accepted for the ongoing academic year (2027–2029 batch). Most top-tier PGDM colleges finalize their batches by late June.
 - **Improved Performance:** Candidates who did not score well in CAT, XAT, or CMAT often pivot to MAT because of its comparatively moderate difficulty level.
 - **Mode Flexibility:** Giving the IBT mode right from your home saves immense travel stress during the peak summer timeline.
 

@@ -148,7 +148,7 @@ You will need a scanned passport-size photograph, your signature, category certi
 * **[Comprehensive Guide to CAT Exam Patterns & Syllabus](/blog/all-about-cat-exam)**
 * **[10 Proven Tips to Crack CAT 2026 by IIM Toppers](/blog/10-tips-to-crack-cat-exam-2026)**
 * **[Top MBA Entrance Exams in India: Dates, Syllabus & Fees](/blog/top-mba-entrance-exams-2026-guide)**
-* **[IIM Cutoffs & Admission Criteria for 2026-28 Batch](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)**
+* **[IIM Cutoffs & Admission Criteria for 2027–29 Batch](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)**
 
 *Source: Shiksha.com and official website notifications.*
 

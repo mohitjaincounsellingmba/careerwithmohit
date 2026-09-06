@@ -31,6 +31,11 @@ faqs:
 ---
 # IGNOU Online Fee Structure (2027): Complete Course-Wise Financial Breakdown
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 **Indira Gandhi National Open University (IGNOU)** is India's premier national distance and online education university, established by an Act of Parliament in 1985. Holding **NAAC A++ accreditation** and full UGC-DEB recognition, IGNOU degrees are legally recognized worldwide.
 
 For students planning to apply for the 2027 intake session, here is the complete **program-wise fee structure**, re-registration fees, and examination fee details.

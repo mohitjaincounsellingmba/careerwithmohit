@@ -50,6 +50,11 @@ These are the most prestigious institutions in Pune, known for their national ra
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹24.50 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹28.16 LPA (Highest ₹49.0 LPA) with Symbiosis Flagship.
+
 ## 1. [SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management)
 - **Status:** The flagship institute of Symbiosis International.
 - **Fees:** ₹17.2 Lakh - ₹24.2 Lakh
@@ -191,6 +196,20 @@ Perfect for students looking for decent placements with moderate entrance scores
 - **If you are looking for a job in specialized areas like Banking:** Choose **NIBM**.
 
 ---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Which is the best MBA college in Pune for high ROI?

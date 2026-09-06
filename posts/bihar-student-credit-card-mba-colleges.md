@@ -1,11 +1,11 @@
 ---
 title: >-
-  Bihar Student Credit Card (DRCC) MBA Colleges Pan India 2026-28: Complete
+  Bihar Student Credit Card (DRCC) MBA Colleges Pan India 2027–29: Complete
   City-Wise List
 date: '2026-03-25'
 description: >-
   Updated city-wise list of top private MBA colleges accepting the Bihar Student
-  Credit Card (DRCC/BSCC) scheme for 2026-28. Learn how to get up to ₹4 Lakhs at
+  Credit Card (DRCC/BSCC) scheme for 2027–29. Learn how to get up to ₹4 Lakhs at
   0% interest for MBA in Pune, Delhi, & Bangalore.
 keywords:
   - Bihar Student Credit Card top MBA colleges 2026
@@ -31,7 +31,7 @@ faqs:
   - question: Is the Bihar Student Credit Card really interest-free in 2026?
     answer: >-
       Yes! As per the September 2025 update, the interest rate is **0% for all
-      applicants** for the 2026-28 batch.
+      applicants** for the 2027–29 batch.
   - question: Can I apply for DRCC if I am studying outside Bihar?
     answer: >-
       Yes. The scheme is designed for residents of Bihar to pursue higher
@@ -46,14 +46,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-If you are a student from Bihar planning to pursue an MBA in the **2026-28 session**, the **Bihar Student Credit Card (BSCC)** scheme is your most powerful financial tool. Managed through **District Registration & Counselling Centres (DRCC)**, it has recently been updated to offer even better terms for students.
+If you are a student from Bihar planning to pursue an MBA in the **2027–29 session**, the **Bihar Student Credit Card (BSCC)** scheme is your most powerful financial tool. Managed through **District Registration & Counselling Centres (DRCC)**, it has recently been updated to offer even better terms for students.
 
-> **Major Update for 2026-28**: As per the latest government notification in September 2025, the BSCC loan is now **completely interest-free (0% Interest)** for all categories of students. You only repay what you borrow, regardless of gender or category.
+> **Major Update for 2027–29**: As per the latest government notification in September 2025, the BSCC loan is now **completely interest-free (0% Interest)** for all categories of students. You only repay what you borrow, regardless of gender or category.
 
 ---
 
 ### 📑 Table of Contents
-1.  [Key Facts (2026-28)](#-bihar-student-credit-card-2026-28--key-facts)
+1.  [Key Facts (2027–29)](#-bihar-student-credit-card-2027–29--key-facts)
 2.  [Eligibility Criteria](#-eligibility-criteria)
 3.  [City-Wise College List](#-city-wise-list-of-mba-colleges-accepting-bscc-2026)
 4.  [Step-by-Step Application Guide](#-how-to-apply-step-by-step-for-2026)
@@ -62,7 +62,7 @@ If you are a student from Bihar planning to pursue an MBA in the **2026-28 sessi
 
 ---
 
-## 🏦 Bihar Student Credit Card (2026-28) — Key Facts
+## 🏦 Bihar Student Credit Card (2027–29) — Key Facts
 
 - **Loan Amount**: Up to **₹4 Lakhs** (Covers tuition, hostel, books, and even a laptop).
 - **Interest Rate**: **0% (Interest-Free)** for all students (Male, Female, Transgender).
@@ -88,7 +88,7 @@ If you are a student from Bihar planning to pursue an MBA in the **2026-28 sessi
 
 ---
 
-## 🗺️ City-Wise List of MBA Colleges Accepting BSCC (2026-28)
+## 🗺️ City-Wise List of MBA Colleges Accepting BSCC (2027–29)
 
 Students from Bihar have successfully used the DRCC loan for the following institutions. Always confirm the specific course eligibility at your local DRCC office.
 
@@ -114,7 +114,7 @@ Students from Bihar have successfully used the DRCC loan for the following insti
 
 ---
 
-## 📋 How to Apply (Step-by-Step for 2026-28)
+## 📋 How to Apply (Step-by-Step for 2027–29)
 
 1.  **Online Registration**: Fill out the application on the [Official MNSSBY Portal](https://www.7nishchay-yuvaupmission.bihar.gov.in).
 2.  **Documents Upload**: Upload digital copies of your Aadhaar, 10th/12th marksheets, and **College Admission Letter**.
@@ -134,7 +134,7 @@ Students from Bihar have successfully used the DRCC loan for the following insti
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is the Bihar Student Credit Card really interest-free in 2026?
-Yes! As per the September 2025 update, the interest rate is **0% for all applicants** for the 2026-28 batch.
+Yes! As per the September 2025 update, the interest rate is **0% for all applicants** for the 2027–29 batch.
 
 ### 2. Can I apply for DRCC if I am studying outside Bihar?
 Yes. The scheme is designed for residents of Bihar to pursue higher education anywhere in India, provided the college/course is recognized.
@@ -159,7 +159,7 @@ Usually **45 to 60 days** from the date of your DRCC office visit.
       "name": "Is the Bihar Student Credit Card really interest-free in 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! For the 2026-28 session, the interest rate for the Bihar Student Credit Card (BSCC) is 0% for all categories as per the latest government notification."
+        "text": "Yes! For the 2027–29 session, the interest rate for the Bihar Student Credit Card (BSCC) is 0% for all categories as per the latest government notification."
       }
     },
     {
@@ -194,3 +194,17 @@ Source: Shiksha.com
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+

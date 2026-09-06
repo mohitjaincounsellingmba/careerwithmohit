@@ -54,6 +54,11 @@ state: Delhi NCR
 ---
 # Free XAT Mock Test 2027: Full 95-Question CBT with Decision Making & XLRI Cutoff Predictor
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹28.60 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹29.80 LPA (Highest ₹75.0 LPA) with Premier Private B-School.
+
 [MockTestCard title="Free XAT 2027 Full CBT Mock Test 2026" link="/xat-mock-test" questions="95 Questions" time="210 Mins"]
 
 The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is celebrated as one of India's most prestigious and intellectually rigorous management entrance exams. XAT scores are accepted by over 160 premier B-schools, including **[XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi-NCR, XIM University (Bhubaneswar), IMT Ghaziabad, GIM Goa, TAPMI Manipal, and [FORE School of Management](/colleges/fore-school-delhi)**.

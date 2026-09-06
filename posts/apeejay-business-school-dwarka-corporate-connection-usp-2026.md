@@ -79,7 +79,7 @@ In this post, we explore the **Unique Selling Propositions (USPs)**, **corporate
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence |
 | **Flagship Program** | 2-Year Full-Time Post Graduate Diploma in Management (PGDM) |
 | **Accepted Entrance Exams** | CAT, XAT, MAT, CMAT, ATMA, GMAT |
-| **Total Program Fees (2026-28)** | ~₹9.70 Lakhs (Includes Personal Laptop & Core Learning Kit) |
+| **Total Program Fees (2027–29)** | ~₹9.70 Lakhs (Includes Personal Laptop & Core Learning Kit) |
 | **Average Salary Package** | **₹8.30 LPA** (Median: **₹8.89 LPA**) |
 | **Highest Salary Package** | **₹20.14 LPA** |
 | **Placement Support Rate** | 95%+ Placement Record |
@@ -172,7 +172,7 @@ Apeejay School of Management has consistently delivered impressive placement out
 - **Duration:** 2 Years (Full-Time, Trimester Pattern)
 - **Specializations Offered:** Marketing, Finance, Human Resource Management, Operations & Supply Chain, Information Technology & Business Analytics, International Business.
 
-### Fee Structure Breakdown (2026-2028 Batch)
+### Fee Structure Breakdown (2027–2029 Batch)
 - **Total Course Fee:** ~**₹9.70 Lakhs** (payable in convenient trimester installments).
 - **What’s Included:** Academic tuition fee, personal brand-new laptop, corporate training modules, book bank facility, library access, and examination fees.
 - **Scholarship Support:** Merit-based scholarships are awarded to deserving candidates based on high percentiles in CAT, XAT, MAT, or CMAT, as well as outstanding academic track records in graduation.
@@ -193,7 +193,7 @@ Located in Dwarka, New Delhi, the campus offers a vibrant and conducive learning
 
 ## 🎯 Step-by-Step Admission Process 2026
 
-If you are aiming to join Apeejay Business School for the 2026-28 batch, follow these steps:
+If you are aiming to join Apeejay Business School for the 2027–29 batch, follow these steps:
 
 1. **Eligibility Check:** Bachelor’s degree in any discipline with a minimum of 50% aggregate marks from a recognized university.
 2. **Entrance Exam Score:** Valid score in **CAT / XAT / MAT / CMAT / ATMA / GMAT**.

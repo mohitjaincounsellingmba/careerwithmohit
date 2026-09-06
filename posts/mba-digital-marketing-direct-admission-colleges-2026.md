@@ -47,7 +47,7 @@ With the global economy shifting towards a "digital-first" approach, an **MBA in
 
 If you missed the CAT or XAT exams, don't worry. Many premier private business schools in India offer **Direct Admission** to their MBA/PGDM programs based on graduation marks and personal interviews. 
 
-In this guide by **CareerWithMohit**, we bring you a curated list of top colleges where you can secure your seat for the 2026 session.
+In this guide by **CareerWithMohit**, we bring you a curated list of top colleges where you can secure your seat for the 2027–2029 intake.
 
 ---
 

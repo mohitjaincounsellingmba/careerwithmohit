@@ -57,6 +57,11 @@ The ASM Group is not a "new" player. With over 42 years of history in management
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 ## **2. Industry-Driven Certifications (IBM, SAP, Harvard)**
 One of the unique selling points (USPs) of **[ASM IIBR](/colleges/asm-iibr)** is its integration of high-value industry certifications directly into the curriculum. Students often get access to:
 *   **IBM Masterclass**: Training in Big Data, Analytics, and Cloud Computing.

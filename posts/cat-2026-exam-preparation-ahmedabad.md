@@ -93,7 +93,7 @@ For students and working professionals in Ahmedabad, two primary options exist:
 ## 🔗 Related Resources
 - [Best MBA Coaching Online 2026: Compare Top Courses](/blog/best-mba-coaching-online-2026)
 - [How to Crack CAT Exam 2026: 10 Success Strategies](/blog/10-tips-to-crack-cat-exam-2026)
-- [List of All IIM Cut-offs for 2027-28 Admission](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [List of All IIM Cut-offs for 2027-28 Admission](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
 
 ---
 

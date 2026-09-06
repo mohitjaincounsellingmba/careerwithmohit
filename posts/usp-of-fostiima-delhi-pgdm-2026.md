@@ -5,7 +5,7 @@ title: >-
 date: '2026-05-11'
 description: >-
   Discover the unique selling points of FOSTIIMA Business School Delhi for the
-  2026-28 PGDM batch — IIM-A alumni leadership, ₹11.15 LPA average package, and
+  2027–29 PGDM batch — IIM-A alumni leadership, ₹11.15 LPA average package, and
   best-in-class ROI. Find out why FOSTIIMA is Delhi's most exciting rising
   B-school.
 keywords:
@@ -36,18 +36,18 @@ faqs:
       FOSTIIMA stands for "Friends Of Seventy-Three [IIM
       Ahmedabad](/colleges/iim-ahmedabad)."
   - question: What is the total fee?
-    answer: ₹11.5 Lakhs for the 2026-28 PGDM batch.
+    answer: ₹11.5 Lakhs for the 2027–29 PGDM batch.
 location: Delhi NCR
 state: Delhi NCR
 ---
 
 In the crowded Delhi PGDM market, **FOSTIIMA Business School** has carved a unique identity — it's the only private B-school in Delhi **founded, funded, and managed by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni**. Since its inception, FOSTIIMA has attracted students who want IIM-quality thinking at a fee that makes financial sense.
 
-Here are the **10 real USPs of FOSTIIMA Delhi** for the 2026-28 batch.
+Here are the **10 real USPs of FOSTIIMA Delhi** for the 2027–29 batch.
 
 ---
 
-## Quick Snapshot: FOSTIIMA Delhi 2026-28
+## Quick Snapshot: FOSTIIMA Delhi 2027–29
 
 | Parameter | Details |
 | :--- | :--- |
@@ -135,7 +135,7 @@ Students connect with senior professionals from all 20 IIMs and multiple IITs th
 
 ---
 
-### 9. 🔬 Updated Specializations for 2026-28
+### 9. 🔬 Updated Specializations for 2027–29
 
 - Digital Marketing & E-Commerce
 - Business Analytics & Data Science
@@ -173,7 +173,7 @@ Students connect with senior professionals from all 20 IIMs and multiple IITs th
 Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad). FOSTIIMA stands for "Friends Of Seventy-Three [IIM Ahmedabad](/colleges/iim-ahmedabad)."
 
 **Q3. What is the total fee?**
-₹11.5 Lakhs for the 2026-28 PGDM batch.
+₹11.5 Lakhs for the 2027–29 PGDM batch.
 
 ---
 

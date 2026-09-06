@@ -200,7 +200,7 @@ The Starter Kit includes a verified directory of private MBA and PGDM colleges a
 
 ---
 
-## MBA vs. PGDM: How to Choose for the 2026-2028 Batch?
+## MBA vs. PGDM: How to Choose for the 2027–2029 Batch?
 
 One of the most common questions aspirants ask is whether to choose an **MBA (Master of Business Administration)** or a **PGDM (Post Graduate Diploma in Management)**.
 

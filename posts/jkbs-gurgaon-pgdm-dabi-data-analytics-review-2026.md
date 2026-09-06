@@ -5,7 +5,7 @@ category: PGDM
 description: >-
   An in-depth, honest review of the PGDM in Data Analytics and Business
   Intelligence (DABI) program at JK Business School (JKBS) Gurgaon for the
-  2026-28 batch. Check fees, IoA (UK) partnership, placements, and syllabus.
+  2027–29 batch. Check fees, IoA (UK) partnership, placements, and syllabus.
 keywords:
   - JKBS Gurgaon PGDM DABI
   - JK Business School Data Analytics fees
@@ -47,7 +47,7 @@ state: Delhi NCR
 ---
 In the modern corporate ecosystem of 2026, business strategy is driven by data. Organizations across consulting, marketing, retail, and finance are seeking management professionals who can decode complex data patterns, build predictive models, and drive strategic growth. As a result, standard general management degrees are giving way to tech-aligned specializations. 
 
-Recognizing this shift, **[JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)** offers a specialized **PGDM in Data Analytics and Business Intelligence (DABI)** for the 2026-28 cohort. 
+Recognizing this shift, **[JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)** offers a specialized **PGDM in Data Analytics and Business Intelligence (DABI)** for the 2027–29 cohort. 
 
 This program merges classical MBA core subjects with advanced mathematical analysis, database queries, and machine learning models, equipping students with highly in-demand analytical skills.
 
@@ -144,7 +144,7 @@ JKBS uses a holistic selection matrix designed to evaluate logic, analytical cla
 *   **Non-Engineering Focus:** It is a management program (PGDM). If you want to become a pure Software Engineer or ML Core Scientist, a B.Tech or M.Tech in CS/DS is more appropriate.
 *   **NCR Salary Ceiling:** Top product companies (offering ₹15+ LPA base packages) typically target premier Tier-1 colleges (IIMs/ISB). JKBS is best-suited for landing solid mid-tier consulting and corporate analyst roles.
 
-**Final Recommendation:** If you are a graduate seeking a high-paying, future-proof career in business analytics and business intelligence, and you prefer a budget-friendly program in a top corporate hub, the **JKBS Gurgaon DABI program** is a stellar choice for the 2026 session.
+**Final Recommendation:** If you are a graduate seeking a high-paying, future-proof career in business analytics and business intelligence, and you prefer a budget-friendly program in a top corporate hub, the **JKBS Gurgaon DABI program** is a stellar choice for the 2027–2029 intake.
 
 ---
 
@@ -176,3 +176,17 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+

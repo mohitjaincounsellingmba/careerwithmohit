@@ -48,7 +48,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Foundation for Organisational Research and Education (FORE) School of Management, located in the prominent Institutional Area of South Delhi, is a top-ranked B-school known for its academic excellence and robust corporate linkages. For the 2026-28 batch, **Direct Admission in [FORE School of Management](/colleges/fore-school-delhi)** is a popular topic for students eyeing high-ROI careers in the capital.
+Foundation for Organisational Research and Education (FORE) School of Management, located in the prominent Institutional Area of South Delhi, is a top-ranked B-school known for its academic excellence and robust corporate linkages. For the 2027–29 batch, **Direct Admission in [FORE School of Management](/colleges/fore-school-delhi)** is a popular topic for students eyeing high-ROI careers in the capital.
 
 ## Why [FORE School of Management](/colleges/fore-school-delhi) is a Top Delhi B-School?
 
@@ -100,7 +100,7 @@ Yes, FORE has a balanced mix of freshers and students with professional work exp
 
 ## 🔗 Related Resources
 - [Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
-- [MBA PGDM Admission Timelines 2026-28](/blog/mba-pgdm-admissions-2026-2028-complete-guide)
+- [MBA PGDM Admission Timelines 2027–29](/blog/mba-pgdm-admissions-2027–2029-complete-guide)
 - [Direct MBA Admission India 2026 FAQs](/blog/direct-mba-admission-india)
 
 [👉 Want to be a part of FORE Delhi's 2026 batch? Chat with our experts for admission tips!](/inquiry)

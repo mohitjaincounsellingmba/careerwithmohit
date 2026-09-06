@@ -44,7 +44,7 @@ state: Delhi NCR
 
 Rajasthan is rapidly becoming a hub for startups and specialized education. Leading this change is the **Global Centre for Entrepreneurship and Commerce (GCEC)**, in collaboration with **[Poornima University](/colleges/poornima-jaipur), Jaipur**. 
 
-If you are looking for an MBA that goes beyond standard textbooks and focuses on global certifications and startup culture, the GCEC Global Foundation model is worth your attention for the 2026 session.
+If you are looking for an MBA that goes beyond standard textbooks and focuses on global certifications and startup culture, the GCEC Global Foundation model is worth your attention for the 2027–2029 intake.
 
 ### **What Makes GCEC Poornima Different?**
 
@@ -60,7 +60,12 @@ Unlike traditional MBA programs that focus primarily on theory, GCEC (under the 
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-## **MBA Specializations & Fees (2026-28 Batch)**
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
+## **MBA Specializations & Fees (2027–29 Batch)**
 
 | Specialization | Key Focus | Total Fees (Approx.) |
 | :--- | :--- | :--- |

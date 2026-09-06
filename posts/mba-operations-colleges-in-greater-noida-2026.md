@@ -41,7 +41,7 @@ state: Delhi NCR
 
 Selecting the right B-school is critical if you are targeting a career in supply chain analytics, operations management, logistics operations, inventory planning, or strategic operations consulting. While general MBA rankings give a broad overview, operations and digital recruiters tend to visit campuses that have a strong tradition of quantitative analytics, dedicated operations specializations, and proximity to major corporate headquarters.
 
-For students planning their admissions for the 2026 batch, this guide highlights the **best MBA Operations colleges in Greater Noida**, comparing their fee structures, accepted entrance exams, and latest placement packages.
+For students planning their admissions for the 2027–2029 intake, this guide highlights the **best MBA Operations colleges in Greater Noida**, comparing their fee structures, accepted entrance exams, and latest placement packages.
 
 ---
 

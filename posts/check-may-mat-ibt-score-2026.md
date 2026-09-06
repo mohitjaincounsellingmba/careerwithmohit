@@ -207,7 +207,7 @@ IBT results come first. Use this window to apply to your target colleges before 
 If your IBT session had any technical issues (disconnection, camera flags), check your dashboard for any proctoring alerts. If your scorecard appears normally, you're clear.
 
 ### 3. Use the MAT Score for Multiple Admission Cycles
-Your score is valid for 12 months. If you're targeting the 2026-28 batch but don't find a satisfactory college, you can re-use this score for some institutes in early 2027.
+Your score is valid for 12 months. If you're targeting the 2027–29 batch but don't find a satisfactory college, you can re-use this score for some institutes in early 2027.
 
 ---
 
@@ -239,7 +239,7 @@ Use our **[MAT College Predictor](/tools/mat-college-predictor)** to get a perso
 ### ✅ Score Below 60 Percentile?
 Two strategic options:
 1. Apply for **direct admissions** (no entrance exam required) at PGDM colleges with management quota seats
-2. Re-appear in **MAT September 2026** — the final session for 2026-28 batch
+2. Re-appear in **MAT September 2026** — the final session for 2027–29 batch
 
 ### ✅ GD/PI Preparation
 Getting shortlisted is just the beginning. Prepare for Group Discussion and Personal Interviews using our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)**

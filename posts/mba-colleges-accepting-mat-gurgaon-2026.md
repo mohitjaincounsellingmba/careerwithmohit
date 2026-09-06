@@ -55,6 +55,11 @@ Here is the detailed overview of the top management institutes in Gurgaon accept
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹15.30 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹11.00 LPA (Highest ₹19.5 LPA) with AICTE Approved.
+
 ## 1. Great Lakes Institute of Management
 Offers a highly intensive PGPM (1 Year) and PGDM (2 Years) with prime tech and analytics industry links.
 - **MAT Cutoff Percentile:** 75+ Percentile

@@ -33,6 +33,11 @@ faqs:
 ---
 # NMIMS Online MBA Fee Structure (2027): Semester Breakdown & Payment Plans
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 **Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS Online)** is recognized as one of India's premier business school brands. Its online management programs deliver high corporate recognition across finance, marketing, operations, and human resources.
 
 Before applying for the 2027 academic session, candidates must understand the **total tuition fees, semester payment plans, and zero-interest EMI options**. Here is the complete financial guide for NMIMS Online.

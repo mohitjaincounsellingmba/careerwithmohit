@@ -67,7 +67,7 @@ If you are evaluating IBS as your management alma mater, this complete guide bre
 ### 1. IBS Hyderabad
 IBS Hyderabad is the crown jewel of the ICFAI network. It is a massive, sprawling campus spanning over 91 acres and boasts AACSB accreditation (a hallmark of excellence in business education globally).
 *   **Programs:** MBA (Full-time) 
-*   **Total Fees (2026-28):** ₹17.01 Lakhs
+*   **Total Fees (2027–29):** ₹17.01 Lakhs
 *   **Expected IBSAT Cutoff:** 75 - 85 Percentile
 *   **Average Package:** ₹9.85 LPA
 *   **Highest Package:** ₹21.00 LPA (Domestic) / ₹41.40 LPA (International)
@@ -206,3 +206,17 @@ Source: Shiksha.com
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+

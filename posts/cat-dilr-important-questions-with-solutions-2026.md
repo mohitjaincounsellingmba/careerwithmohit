@@ -379,4 +379,4 @@ Looking to test your speed and accuracy under real exam simulation?
 * [All About CAT Exam 2026: Pattern, Syllabus & Registration](/blog/all-about-cat-exam)
 * [10 Proven Tips to Crack CAT 2026 from Toppers](/blog/10-tips-to-crack-cat-exam-2026)
 * [All About IIM Colleges: Fees, Placements & Admission Process 2026](/blog/all-about-iim-colleges-placements-fees-selection-2026)
-* [IIM Cutoff 2026-28: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+* [IIM Cutoff 2027–29: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)

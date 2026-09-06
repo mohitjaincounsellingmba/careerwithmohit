@@ -16,7 +16,7 @@ keywords:
   - Best certifications for MBA profile
   - How to justify gap year in MBA interview
   - Tell me about yourself MBA interview answer
-  - Delhi NCR MBA Admissions 2026
+  - Delhi NCR MBA Admissions 2027–2029
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi Colleges

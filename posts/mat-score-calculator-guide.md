@@ -55,6 +55,11 @@ state: Delhi NCR
 
 # AIMA MAT May 2026 Score Calculator: Marks vs Percentile & Composite Score Predictor
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 The **AIMA Management Aptitude Test (MAT) May/June 2026** session is a critical gateway for admissions into 600+ top B-Schools in India. Whether you appeared for the **Paper-Based Test (PBT)** on May 31, or are preparing for the **Computer-Based Test (CBT)** on June 14, knowing your score and expected percentile is crucial to shortlisting B-schools.
 
 Using our free **[MAT May 2026 Score Calculator](/tools/mat-score-calculator)**, you can instantly estimate your scaled section scores, composite score (out of 800), and expected percentile band based on your raw attempts.

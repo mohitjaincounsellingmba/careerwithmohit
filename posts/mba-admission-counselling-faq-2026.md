@@ -9,11 +9,11 @@ keywords:
   - MBA admission counselling 2026
   - MBA admission FAQ
   - MBA counselling questions
-  - how to get MBA admission 2026
+  - how to get MBA admission 2027–2029
   - MBA college selection guide
   - MBA GD PI tips
   - MBA fees scholarships
-  - direct MBA admission 2026
+  - direct MBA admission 2027–2029
   - MBA eligibility criteria
   - best MBA colleges India 2026
   - Delhi Colleges

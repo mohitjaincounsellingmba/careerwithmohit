@@ -43,7 +43,7 @@ state: Delhi NCR
 
 Selecting the right B-school is critical if you are targeting a career in data science, quantitative decision-making, predictive modeling, or strategic business analytics. While general MBA rankings give a broad overview, analytics recruiters tend to visit campuses that have a strong tradition of quantitative studies, dedicated analytics specializations, and proximity to major corporate headquarters.
 
-For students planning their admissions for the 2026 batch, this guide highlights the **best MBA Business Analytics colleges in Ghaziabad**, comparing their fee structures, accepted entrance exams, and latest placement packages.
+For students planning their admissions for the 2027–2029 intake, this guide highlights the **best MBA Business Analytics colleges in Ghaziabad**, comparing their fee structures, accepted entrance exams, and latest placement packages.
 
 ---
 

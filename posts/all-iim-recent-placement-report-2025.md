@@ -20,7 +20,7 @@ keywords:
   - iim mumbai placement report 2025
   - iim sector wise placement 2025
   - best mba placements in india 2025
-  - mba admission 2026
+  - mba admission 2027–2029
   - cat exam 2025
   - Mumbai Colleges
   - Best Colleges in Mumbai
@@ -230,7 +230,7 @@ When selecting an IIM, comparing the total 2-year investment against the post-MB
 ## Related Guides & Resources
 
 *   **[All About IIM Colleges: Fees, Placements & Selection Criteria 2026](/blog/all-about-iim-colleges-placements-fees-selection-2026)**
-*   **[All IIM Cut Off 2026-28: CAT Expected & Final Percentiles](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)**
+*   **[All IIM Cut Off 2027–29: CAT Expected & Final Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)**
 *   **[What is IIM BLACKI? Complete Guide](/blog/what-is-iim-blacki-complete-guide-2026)**
 *   **[Baby IIMs Review 2026: Honest Pros & Cons Analysis](/blog/baby-iims-review-2026-honest-analysis)**
 *   **[Top 10 High-Yield CAT Topics (VARC, DILR, QA)](/blog/top-10-high-yield-cat-topics-2026-varc-dilr-qa)**

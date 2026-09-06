@@ -118,7 +118,7 @@ To get into these colleges, you must follow these steps:
 
 ---
 
-## FAQs — IPU MBA Admissions 2026
+## FAQs — IPU MBA Admissions 2027–2029
 
 **Q1. Can I get USMS Dwarka with a CMAT score?**
 Yes, but only if seats remain vacant after the CAT merit list is exhausted. Usually, USMS Dwarka fills up 90% of its seats in the CAT round itself.

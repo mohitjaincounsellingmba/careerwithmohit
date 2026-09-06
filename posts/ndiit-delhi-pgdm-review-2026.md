@@ -44,7 +44,7 @@ state: Delhi NCR
 ---
 The **New Delhi Institute for Information Technology & Management (NDIIT)** has emerged as a noteworthy option for students seeking a PGDM in the heart of the national capital. Known for its corporate-aligned curriculum and strategic location near Nehru Place, it caters to aspirants looking for a balance between academic rigor and industry exposure.
 
-But is it the right choice for the 2026-28 batch? Let’s dive into the details.
+But is it the right choice for the 2027–29 batch? Let’s dive into the details.
 
 ---
 
@@ -56,7 +56,7 @@ But is it the right choice for the 2026-28 batch? Let’s dive into the details.
 
 ---
 
-## 💰 Fee Structure (2026-28 Batch)
+## 💰 Fee Structure (2027–29 Batch)
 NDIIT offers two distinct tracks for its PGDM program, allowing students to choose based on their budget and global aspirations.
 
 | Track | Total Fees (Approx.) | Key Highlights |

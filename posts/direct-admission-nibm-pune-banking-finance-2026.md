@@ -2,7 +2,7 @@
 title: 'Direct Admission in NIBM Pune 2026: Banking & Finance PGDM Guide'
 date: '2026-03-17'
 description: >-
-  Planning to join NIBM Pune for the 2026-28 batch? Explore direct admission
+  Planning to join NIBM Pune for the 2027–29 batch? Explore direct admission
   pathways, the importance of WAT-PI, latest fees, and 2025 placement stats for
   this elite Banking institute.
 keywords:

@@ -45,7 +45,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Altera Institute, Gurgaon, is a rising star in management education, focusing on creating industry-ready professionals for the digital economy. With a faculty of practitioners and a project-heavy curriculum, it is a great alternative to traditional B-schools. For the 2026-28 batch, **Direct Admission in Altera Institute** is a streamlined process based on the ALNAT entrance and profile scoring.
+Altera Institute, Gurgaon, is a rising star in management education, focusing on creating industry-ready professionals for the digital economy. With a faculty of practitioners and a project-heavy curriculum, it is a great alternative to traditional B-schools. For the 2027–29 batch, **Direct Admission in Altera Institute** is a streamlined process based on the ALNAT entrance and profile scoring.
 
 ## Why Altera Institute is the New-Age Choice?
 
@@ -64,10 +64,10 @@ Students can secure direct admission by taking the **ALNAT (Altera Level Next Ap
 Altera has strong ties with several corporations. Candidates working in these firms or sponsored by them can secure direct entry into the program based on their professional track record.
 
 ### 3. Institutional Quota
-A dedicated percentage of seats are reserved for candidates with unique profiles—sportspeople, artists, or social entrepreneurs—ensuring a diverse classroom for the 2026 batch.
+A dedicated percentage of seats are reserved for candidates with unique profiles—sportspeople, artists, or social entrepreneurs—ensuring a diverse classroom for the 2027–2029 intake.
 
 ## Fee Structure for 2026
-The total academic fee for the PGDM program at Altera Institute is approximately **₹12 Lakhs to ₹15 Lakhs**. For the 2026-28 batch, there are several merit-based scholarships available for students with high ALNAT or CAT/CMAT scores.
+The total academic fee for the PGDM program at Altera Institute is approximately **₹12 Lakhs to ₹15 Lakhs**. For the 2027–29 batch, there are several merit-based scholarships available for students with high ALNAT or CAT/CMAT scores.
 
 ## How to Apply for 2026?
 

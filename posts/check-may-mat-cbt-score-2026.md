@@ -217,7 +217,7 @@ Don't wait. Download the scorecard, shortlist colleges, and send applications im
 Use the **[MAT College Predictor](/tools/mat-college-predictor)** to identify realistic options. Several good PGDM colleges have seats available even at this range.
 
 ### ✅ Score Below 60 Percentile?
-Two options: Apply for **direct admissions** at colleges not requiring entrance exams, or re-appear in **MAT September 2026** — the final window for 2026-28 batch admissions.
+Two options: Apply for **direct admissions** at colleges not requiring entrance exams, or re-appear in **MAT September 2026** — the final window for 2027–29 batch admissions.
 
 ### ✅ Prepare for GD/PI
 Almost all MAT-accepting colleges conduct GD/PI rounds. Start preparing now with our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)**

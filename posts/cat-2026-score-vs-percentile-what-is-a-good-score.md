@@ -19,7 +19,7 @@ keywords:
   - CAT 99 percentile marks
   - CAT 95 percentile score
   - CAT 90 percentile score
-  - Delhi NCR MBA Admissions 2026
+  - Delhi NCR MBA Admissions 2027–2029
   - Top MBA Colleges Delhi NCR
   - Direct Admission Delhi NCR
   - Noida Colleges

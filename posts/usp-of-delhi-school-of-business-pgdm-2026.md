@@ -5,7 +5,7 @@ title: >-
 date: '2026-05-11'
 description: >-
   Discover the unique selling points of Delhi School of Business (DSB) VIPS-TC
-  for the 2026-28 PGDM batch — NBA accreditation, FinTech PGDM, ₹23.9 LPA
+  for the 2027–29 PGDM batch — NBA accreditation, FinTech PGDM, ₹23.9 LPA
   highest package, and analytics labs. Find out why DSB is one of Delhi's
   best-value premium B-schools.
 keywords:
@@ -48,11 +48,11 @@ state: Delhi NCR
 
 With **NBA accreditation, AIU approval, a FinTech PGDM program, and fees under ₹11 Lakhs**, DSB offers a genuinely compelling package for aspirants who want Delhi credentials at a price that makes financial sense.
 
-Here are the **10 real USPs of Delhi School of Business (DSB)** for the 2026-28 batch.
+Here are the **10 real USPs of Delhi School of Business (DSB)** for the 2027–29 batch.
 
 ---
 
-## Quick Snapshot: DSB VIPS Delhi 2026-28
+## Quick Snapshot: DSB VIPS Delhi 2027–29
 
 | Parameter | Details |
 | :--- | :--- |
@@ -214,7 +214,7 @@ This triple credential at under ₹11 Lakhs makes DSB genuinely exceptional valu
 ## FAQs
 
 **Q1. What is DSB's total fee?**
-₹10.26–10.95 Lakhs for PGDM; ₹10.41 Lakhs for PGDM (FinTech) for 2026-28 batch.
+₹10.26–10.95 Lakhs for PGDM; ₹10.41 Lakhs for PGDM (FinTech) for 2027–29 batch.
 
 **Q2. Is DSB's PGDM equivalent to an MBA?**
 Yes — DSB's PGDM is AIU-approved and NBA-accredited, making it equivalent to an MBA for government jobs and higher education.

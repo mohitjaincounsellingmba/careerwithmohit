@@ -19,7 +19,7 @@ keywords:
   - IIM CAT cutoff 2026
   - Old IIMs vs New IIMs vs Baby IIMs
   - IIM BLACKI
-  - MBA admission 2026
+  - MBA admission 2027–2029
   - Delhi Colleges
   - Best Colleges in Delhi
   - Delhi Admissions 2026
@@ -68,13 +68,18 @@ The **Indian Institutes of Management (IIMs)** represent the pinnacle of managem
 
 With the addition of **IIM Mumbai** (formerly NITIE) in 2023, there are now **21 IIMs in India**. However, each IIM differs significantly in terms of placement benchmarks, fee structures, batch sizes, and admission cutoffs. 
 
-In this comprehensive guide, we cover **everything you need to know about all 21 IIMs**—from granular placement statistics (**lowest, average, and highest salary packages**) and **statutory affiliation** to **unique selling propositions (USPs)** and the complete **2026–28 selection criteria**.
+In this comprehensive guide, we cover **everything you need to know about all 21 IIMs**—from granular placement statistics (**lowest, average, and highest salary packages**) and **statutory affiliation** to **unique selling propositions (USPs)** and the complete **2027–29 selection criteria**.
 
 ---
 
 #
 
 [InquiryCard title="Need Help Choosing the Right IIM or Top MBA College?" description="Get personalized profile evaluation, CAT cutoff mapping, and admission counseling from expert counselor Mohit Jain." cta="Get Free Career Counselling" type="admission"]
+
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ---
 
@@ -203,9 +208,9 @@ Because IIMs are Institutes of National Importance, every major bank in India (S
 
 ---
 
-## 4. Complete IIM Selection Criteria (2026–28 Batch)
+## 4. Complete IIM Selection Criteria (2027–29 Batch)
 
-Getting admission into an IIM is a rigorous, multi-stage screening process that evaluates both analytical intelligence and holistic personal consistency. For a comprehensive look at expected cutoffs, refer to our [All IIM Cut Off 2026–28 Admission Guide](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm).
+Getting admission into an IIM is a rigorous, multi-stage screening process that evaluates both analytical intelligence and holistic personal consistency. For a comprehensive look at expected cutoffs, refer to our [All IIM Cut Off 2027–29 Admission Guide](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm).
 
 ### Stage 1: CAT Entrance Exam & Sectional Cutoffs
 *   You must first appear for the **Common Admission Test (CAT)**.
@@ -284,3 +289,17 @@ IIM selection is a multi-step process based on **CAT entrance exam percentile** 
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+

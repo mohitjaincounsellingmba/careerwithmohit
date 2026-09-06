@@ -13,7 +13,7 @@ keywords:
   - iit kanpur mba highest package
   - ime iit kanpur cat cutoff
   - iit kanpur mba fees vs roi
-  - mba admission 2026
+  - mba admission 2027–2029
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Top Colleges in Delhi NCR 2026

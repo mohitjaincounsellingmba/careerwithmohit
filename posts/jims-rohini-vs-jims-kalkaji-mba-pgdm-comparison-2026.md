@@ -59,6 +59,11 @@ When it comes to PGDM in Delhi, the "JIMS" brand is a staple. However, with mult
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹9.75 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹8.10 LPA (Highest ₹22.0 LPA) with NBA & AIU Accredited.
+
 ## **The JIMS Rohini 'Reality Check': Reasons to Reconsider**
 While JIMS Rohini holds a high NIRF rank, there are several "pain points" that current aspirants must consider before locking in their ₹10.8 Lakh investment:
 

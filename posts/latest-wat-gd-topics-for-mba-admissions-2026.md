@@ -5,18 +5,18 @@ title: >-
 date: '2026-08-14'
 category: MBA Admissions
 description: >-
-  Master 50+ latest WAT and GD topics for MBA admissions 2026 at IIMs, XLRI,
+  Master 50+ latest WAT and GD topics for MBA admissions 2027–2029 at IIMs, XLRI,
   FMS, Symbiosis, and top B-schools. Includes frameworks, sample essays, and
   preparation tips.
 keywords:
-  - Latest WAT GD Topics for MBA Admissions 2026
+  - Latest WAT GD Topics for MBA Admissions 2027–2029
   - WAT topics for IIM 2026
   - GD topics for MBA with answers
   - Current affairs for MBA interviews
   - IIM Written Ability Test topics
   - Abstract GD topics for MBA
   - PESTLE framework for WAT
-  - Delhi NCR MBA Admissions 2026
+  - Delhi NCR MBA Admissions 2027–2029
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi Colleges
@@ -64,7 +64,7 @@ Once you receive an interview shortlist from the **IIMs, XLRI, [FMS Delhi](/coll
 
 Panels evaluate your ability to think analytically under pressure, communicate coherently, utilize structured mental frameworks, and demonstrate balanced socio-economic awareness.
 
-In this master repository, career counselor **Mohit Jain** presents **50+ of the latest WAT and GD topics for MBA Admissions 2026**, complete with structural frameworks and model analysis points.
+In this master repository, career counselor **Mohit Jain** presents **50+ of the latest WAT and GD topics for MBA Admissions 2027–2029**, complete with structural frameworks and model analysis points.
 
 ---
 

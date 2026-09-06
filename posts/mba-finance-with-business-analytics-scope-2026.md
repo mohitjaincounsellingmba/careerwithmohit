@@ -44,7 +44,7 @@ state: Delhi NCR
 
 The global financial sector is undergoing a massive paradigm shift. Traditional financial management—relying solely on historical spreadsheets, manual ledger audits, and gut-feeling market forecasts—is fast becoming obsolete. Today, high-stakes decisions in investment banking, risk assessment, and corporate treasury are guided by real-time data science, predictive algorithms, and statistical modeling.
 
-For aspirants planning their admissions for the 2026–2028 academic cycle, an **MBA in Finance with Business Analytics** has emerged as one of the most prestigious and future-proof specializations. By merging the principles of quantitative finance with data engineering tools, this specialization prepares you to lead at the intersection of business strategy and technological innovation.
+For aspirants planning their admissions for the 2027–2029 academic cycle, an **MBA in Finance with Business Analytics** has emerged as one of the most prestigious and future-proof specializations. By merging the principles of quantitative finance with data engineering tools, this specialization prepares you to lead at the intersection of business strategy and technological innovation.
 
 ---
 

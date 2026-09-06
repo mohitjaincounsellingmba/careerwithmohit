@@ -32,7 +32,7 @@ faqs:
       market.
   - question: What is the average package at NDIM 2026?
     answer: >-
-      The average package for the 2026-28 batch is projected to range from
+      The average package for the 2027–29 batch is projected to range from
       **₹9.5 Lakhs to ₹12.5 Lakhs**, with top performers frequently exceeding
       ₹18 Lakhs.
   - question: Does NDIM have foreign tie-ups?
@@ -99,7 +99,7 @@ DSB is a good college, especially since it is part of the **VIPS (Vivekananda In
 Yes. In terms of **Placement Quality**, **Corporate Brand Equity**, and **Alumni Reach**, NDIM is currently the superior choice in the Delhi market.
 
 **2. What is the average package at NDIM 2026?**
-The average package for the 2026-28 batch is projected to range from **₹9.5 Lakhs to ₹12.5 Lakhs**, with top performers frequently exceeding ₹18 Lakhs.
+The average package for the 2027–29 batch is projected to range from **₹9.5 Lakhs to ₹12.5 Lakhs**, with top performers frequently exceeding ₹18 Lakhs.
 
 **3. Does NDIM have foreign tie-ups?**
 Yes. NDIM has unique collaborations, including the "Japan-India Institute for Manufacturing" (JIM), offering students international perspectives and specialized technical-management training.

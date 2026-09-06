@@ -6,7 +6,7 @@ description: >-
   colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
   GGSIPU, 
 keywords:
-  - direct MBA admission 2026
+  - direct MBA admission 2027–2029
   - management quota MBA India
   - MBA admission without CAT
   - direct admission B-schools
@@ -60,7 +60,7 @@ In this guide, we reveal the top 10 colleges where you can secure a seat directl
 
 ---
 
-## 🏛️ Top Colleges for Direct MBA Admission 2026
+## 🏛️ Top Colleges for Direct MBA Admission 2027–2029
 Paths
 
 Here are the top 10 institutions where you can secure your management seat directly:

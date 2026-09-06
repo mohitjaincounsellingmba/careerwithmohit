@@ -48,7 +48,7 @@ For management aspirants in India, the Management Aptitude Test (MAT) conducted 
 
 If you are looking to secure a seat in a high-ROI MBA or PGDM program using your MAT score, choosing the right campus is crucial.
 
-In this comprehensive guide, we **compare MAT MBA / PGDM colleges**, break down the **best colleges for placement**, and explain how you can **book a free counselling session with an expert** to secure your admission for the 2026–28 batch.
+In this comprehensive guide, we **compare MAT MBA / PGDM colleges**, break down the **best colleges for placement**, and explain how you can **book a free counselling session with an expert** to secure your admission for the 2027–29 batch.
 
 ---
 

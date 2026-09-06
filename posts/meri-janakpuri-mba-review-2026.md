@@ -55,6 +55,11 @@ MERI isn't just another private institute; it is an institution built on a legac
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 ## **Key Reasons to Choose MERI**
 *   **Prime Location:** Situated in Janakpuri, West Delhi, the campus is incredibly well-connected via the Delhi Metro (Blue & Magenta lines).
 *   **Academic Excellence:** Faculty members include PhD holders and industry veterans who prioritize practical learning over rote memorization.

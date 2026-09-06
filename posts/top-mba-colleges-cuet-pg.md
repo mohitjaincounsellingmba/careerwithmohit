@@ -8,7 +8,7 @@ description: >-
 keywords:
   - CUET PG MBA colleges 2026
   - TISS Mumbai CUET PG MBA
-  - BHU MBA admission 2026
+  - BHU MBA admission 2027–2029
   - JNU MBA fees
   - CUET PG cutoff MBA
   - DAVV Indore MBA CUET
@@ -64,6 +64,11 @@ For a serious MBA aspirant, these are the 'Big Four' categories you should aim f
 #
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## 1. The Elite Tier (99+ Percentile)
 These institutions are at par with top IIMs in terms of brand value and placement quality.

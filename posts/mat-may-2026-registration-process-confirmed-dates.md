@@ -43,7 +43,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-The **All India Management Association (AIMA)** has officially released the finalized schedule for the **MAT May 2026 session**. For MBA aspirants who missed the earlier sessions or want to improve their scores for the 2026-28 academic batch, this is the most critical window.
+The **All India Management Association (AIMA)** has officially released the finalized schedule for the **MAT May 2026 session**. For MBA aspirants who missed the earlier sessions or want to improve their scores for the 2027–29 academic batch, this is the most critical window.
 
 With the Paper-Based Test (PBT) and Computer-Based Test (CBT) dates now firm, it is time to complete your registration before the deadlines.
 

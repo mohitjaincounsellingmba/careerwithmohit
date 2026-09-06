@@ -52,7 +52,7 @@ state: Delhi NCR
 
 Bangalore, the "Silicon Valley of India," is arguably the best place to pursue an MBA in 2026. Why? Because the city offers what students crave most: **unmatched corporate networking** and proximity to global tech giants like Google, Amazon, and Infosys, alongside a booming startup ecosystem.
 
-Whether you're aimimg for a Tier-1 brand or a high-ROI private institute, this guide covers the **top MBA colleges in Bangalore** for the 2026 batch.
+Whether you're aimimg for a Tier-1 brand or a high-ROI private institute, this guide covers the **top MBA colleges in Bangalore** for the 2027–2029 intake.
 
 ---
 
@@ -135,7 +135,7 @@ Admissions usually start in December and peak by March/April. Management quota s
 ### Useful Links:
 - [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
 - [MBA Colleges Under 10 Lakhs Delhi NCR](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
-- [Direct MBA Admission 2026 Guide](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Direct MBA Admission 2027–2029 Guide](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
 
 ---
 

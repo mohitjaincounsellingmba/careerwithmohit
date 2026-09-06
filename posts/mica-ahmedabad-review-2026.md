@@ -32,7 +32,7 @@ faqs:
       has reached up to ₹40.91 LPA to ₹45.67 LPA with 100% placement records.
   - question: >-
       What is the total fee structure for PGDM / PGDM-C at MICA Ahmedabad for
-      2026–2028?
+      2027–2029?
     answer: >-
       The total 2-year residential program fee at MICA Ahmedabad is
       approximately ₹28.00 Lakhs, which covers tuition, air-conditioned
@@ -137,7 +137,7 @@ MICA consistently records **100% placement conversions** with premium placement 
 
 ## 4. Fee Structure & Detailed ROI Analysis
 
-### Fee Breakdown (2026–2028 Academic Batch)
+### Fee Breakdown (2027–2029 Academic Batch)
 * **Total Tuition & Academic Fees:** ~₹21.50 Lakhs
 * **Residential & Infrastructure Utilities (AC Hostels + Mess):** ~₹6.50 Lakhs
 * **Total 2-Year Program Cost:** **₹28.00 Lakhs**
@@ -246,7 +246,7 @@ Explore other top management colleges and comprehensive admission guides:
 ### Q1. What is the average salary package at MICA Ahmedabad in 2025–2026?
 The overall average placement package at MICA Ahmedabad stands between **₹19.22 LPA and ₹20.46 LPA**, with the top 25% of the batch securing an average of **₹24.80 LPA**, and the highest domestic CTC reaching **₹40.91 LPA to ₹45.67 LPA**.
 
-### Q2. What is the total fee structure for MICA Ahmedabad PGDM-C for the 2026–2028 batch?
+### Q2. What is the total fee structure for MICA Ahmedabad PGDM-C for the 2027–2029 batch?
 The comprehensive two-year fee for the residential PGDM/PGDM-C program is approximately **₹28.00 Lakhs**, including tuition, hostel boarding, air-conditioned accommodations, and campus facilities.
 
 ### Q3. Can I get admission to MICA without taking CAT or XAT?

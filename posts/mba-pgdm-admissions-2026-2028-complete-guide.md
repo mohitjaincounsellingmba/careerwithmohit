@@ -1,12 +1,12 @@
 ---
-title: 'MBA & PGDM Admissions 2026-2028: Complete Timeline & Strategy Guide'
+title: 'MBA & PGDM Admissions 2027–2029: Complete Timeline & Strategy Guide'
 date: '2026-03-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
   and priva
 keywords:
-  - MBA admission 2026-28
+  - MBA admission 2027–29
   - CAT 2025 registration
   - XAT 2026 dates
   - MBA application deadlines 2026
@@ -51,7 +51,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-Embarking on an MBA or PGDM journey is a transformative life decision, but the road to securing a seat in a top-tier B-school requires meticulous planning. If you are targeting the **2026-2028 academic batch**, your preparation must begin *now*, in mid-2025.
+Embarking on an MBA or PGDM journey is a transformative life decision, but the road to securing a seat in a top-tier B-school requires meticulous planning. If you are targeting the **2027–2029 academic batch**, your preparation must begin *now*, in mid-2025.
 
 The Indian MBA admission cycle is a rigorous year-long process involving multiple entrance exams, intense application writing, and demanding personal interviews. Here is the definitive roadmap and timeline to ensure you secure admission to your dream B-school.
 
@@ -59,11 +59,16 @@ The Indian MBA admission cycle is a rigorous year-long process involving multipl
 
 ## 1. The Entrance Exam Timeline (The Gateway)
 
-To enter the 2026-2028 batch, you will be taking exams conducted in late 2025 and early 2026. 
+To enter the 2027–2029 batch, you will be taking exams conducted in late 2025 and early 2026. 
 
 #
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## CAT 2025 (Common Admission Test)
 The biggest and most important management exam in India, acting as the sole gateway to the prestigious 21 IIMs, [FMS Delhi](/colleges/fms-delhi), IITs, and hundreds of top private institutes.
@@ -123,7 +128,7 @@ Once the exam results are declared, B-schools will release shortlists based on t
 
 *   **Final Merit Lists:** Released progressively between March 2026 and May 2026.
 *   **Fee Payment & Waitlist Movement:** April to June 2026. You will be asked to pay a commitment fee to secure your seat.
-*   **Session Start (2026-2028 Batch):** Most PGDM and MBA programs formally commence between **mid-June and early August 2026**.
+*   **Session Start (2027–2029 Batch):** Most PGDM and MBA programs formally commence between **mid-June and early August 2026**.
 
 ---
 

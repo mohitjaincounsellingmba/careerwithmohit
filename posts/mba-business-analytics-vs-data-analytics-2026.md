@@ -50,7 +50,7 @@ state: Delhi NCR
 
 In today’s data-driven corporate landscape, organizations do not make major decisions based on gut feeling. Instead, they rely on insights extracted from massive repositories of data. This shift has made analytics the most dominant and high-paying specialization in business education.
 
-However, as you explore business school options for the 2026–2028 academic cycle, you will likely encounter two closely related but distinct pathways: **an MBA in Business Analytics (MBA BA)** and **an MBA in Data Analytics (MBA DA)**. 
+However, as you explore business school options for the 2027–2029 academic cycle, you will likely encounter two closely related but distinct pathways: **an MBA in Business Analytics (MBA BA)** and **an MBA in Data Analytics (MBA DA)**. 
 
 While many universities and aspirants use these terms interchangeably, they focus on different parts of the analytical lifecycle and appeal to different personality profiles. This comprehensive comparison will help you understand the core syllabus, tools, salary trends, and career outcomes for both specializations.
 

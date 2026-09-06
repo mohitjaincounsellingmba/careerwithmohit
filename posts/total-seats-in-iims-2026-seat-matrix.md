@@ -59,7 +59,7 @@ state: Delhi NCR
 ---
 Getting into an **Indian Institute of Management (IIM)** is the ultimate dream for thousands of management aspirants appearing for the **Common Admission Test (CAT)** every year. While tracking cutoffs and placement reports is essential, understanding the **IIM Seat Matrix** gives you a realistic view of your competition and helps you strategize your B-school applications.
 
-As of the 2026–28 academic session, there are **21 IIMs** operating across India. Across all campuses, the total number of seats for flagship two-year **MBA / PGP (Post Graduate Programme in Management)** courses is approximately **5,500 to 5,800 seats**.
+As of the 2027–29 academic session, there are **21 IIMs** operating across India. Across all campuses, the total number of seats for flagship two-year **MBA / PGP (Post Graduate Programme in Management)** courses is approximately **5,500 to 5,800 seats**.
 
 When we include specialized full-time MBA programs—such as Business Analytics, Human Resource Management, Food & Agri-Business Management (FABM), Sustainability Management, and Executive MBA degrees—the combined seat capacity across all 21 IIMs rises to approximately **7,500 to 8,000 seats**.
 
@@ -86,9 +86,14 @@ As centrally funded premier technical and management institutes, all 21 IIMs str
 
 [InquiryCard title="Get Free MBA & B-School Admission Guidance 2026" description="Compare top IIMs, IITs, and private B-schools (fees, placement ROI, CAT/XAT cutoffs) with expert career counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹26.50 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹35.22 LPA (Highest ₹1.15 Cr) with NIRF #1.
+
 ---
 
-## **Complete Institute-wise IIM Seat Matrix (2026–28 Batch)**
+## **Complete Institute-wise IIM Seat Matrix (2027–29 Batch)**
 
 Below is the comprehensive breakdown of flagship MBA/PGP seat intake across all **21 IIMs**, categorized by their generation:
 
@@ -151,7 +156,7 @@ The youngest generation of IIMs has rapidly expanded their infrastructure and se
 ---
 
 ### **Related Reading**
-*   [All IIM Cut Off 2026-28: CAT Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+*   [All IIM Cut Off 2027–29: CAT Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
 *   [Complete List of 21 IIMs: Courses, Placements & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
 *   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam)
 *   [MBA vs PGDM: Which is Better for Your Career in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide)

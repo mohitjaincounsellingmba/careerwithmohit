@@ -138,7 +138,7 @@ pie title Old IIMs Placement Sources 2025
 The 2025 placement data from IIM BLACKI and IIM Mumbai proves that elite credentials continue to command premium corporate valuation regardless of short-term economic turbulence.
 
 *   To learn more about all 21 IIMs, read our **[All IIM Recent Placement Report 2025 Master Guide](/blog/all-iim-recent-placement-report-2025)**.
-*   Check the minimum scores needed with our **[All IIM Cut Off 2026-28 Analysis](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)**.
+*   Check the minimum scores needed with our **[All IIM Cut Off 2027–29 Analysis](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)**.
 *   Understand the strategic advantages in our **[What is IIM BLACKI Guide](/blog/what-is-iim-blacki-complete-guide-2026)**.
 
 ---

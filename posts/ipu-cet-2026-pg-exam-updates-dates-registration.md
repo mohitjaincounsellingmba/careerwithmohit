@@ -7,7 +7,7 @@ description: >-
   private univer
 keywords:
   - IPU CET 2026 PG admit card
-  - GGSIPU MBA admission 2026
+  - GGSIPU MBA admission 2027–2029
   - IPU MCA admit card 2026
   - GGSIPU M.Tech hall ticket
   - IPU CET exam dates 2026

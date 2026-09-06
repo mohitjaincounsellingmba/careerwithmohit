@@ -13,7 +13,7 @@ keywords:
   - kj somaiya highest package 2025
   - kj somaiya cat xat cmat cutoff 2026
   - top private mba colleges in mumbai
-  - mba admission 2026
+  - mba admission 2027–2029
   - Mumbai Colleges
   - Best Colleges in Mumbai
   - Top Colleges in Mumbai 2026

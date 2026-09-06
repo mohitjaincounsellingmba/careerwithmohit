@@ -168,7 +168,7 @@ Applying for finance internships on Unstop is simple, intuitive, and completely 
 - [Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles](/blog/amazon-fresher-hiring-pan-india-2026)
 - [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
 - [Top MBA Colleges in Delhi NCR 2026: Rankings, Fees & Placement Reports](/blog/top-mba-colleges-delhi-ncr-2026)
-- [GDPI Interview Topics and Solutions for MBA Admissions 2026](/blog/gdpi-interview-topics-solutions-mba)
+- [GDPI Interview Topics and Solutions for MBA Admissions 2027–2029](/blog/gdpi-interview-topics-solutions-mba)
 - [Career Roadmaps for 2026: Success Guide for Freshers](/blog/career-roadmaps-2026)
 
 [👉 Get Personalised Career Guidance Today!](/inquiry)
@@ -194,3 +194,25 @@ No, Unstop is a completely free platform for students and job seekers. Employers
 ### 🚀 Boost Your Career & Exam Preparation
 
 Looking for expert mentorship to crack your dream finance company or top B-schools? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** for real-time exam simulation and detailed performance analytics.
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+
+
+
+---
+
+### 🎓 Need Expert MBA/PGDM Admission Guidance for 2027–2029?
+Get personalized 1-on-1 career counselling, GD-PI preparation tips, college shortlisting based on your percentile & budget, and direct application assistance.
+
+👉 **[Click Here to Connect with Our Chief MBA Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20MBA/PGDM%202027-2029%20Admission%20Guidance)** or request a free callback through our inquiry desk.

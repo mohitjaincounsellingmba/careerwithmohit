@@ -13,7 +13,7 @@ keywords:
   - iit roorkee mba highest package 2025
   - iit roorkee mba cat cutoff
   - doms iit roorkee fees vs placements
-  - mba admission 2026
+  - mba admission 2027–2029
   - Dehradun Colleges
   - Best Colleges in Dehradun
   - Top Colleges in Dehradun 2026
@@ -46,7 +46,7 @@ Here is the complete **DoMS IIT Roorkee MBA Placement Report 2025**.
 
 ---
 
-[InquiryCard title="Targeting IIT MBA Admissions for 2026-28?" description="Get your CAT scorecard evaluated, explore cutoffs, and prepare for interviews with mentor Mohit Jain." cta="Get Free Career Guidance" type="admission"]
+[InquiryCard title="Targeting IIT MBA Admissions for 2027–29?" description="Get your CAT scorecard evaluated, explore cutoffs, and prepare for interviews with mentor Mohit Jain." cta="Get Free Career Guidance" type="admission"]
 
 ---
 

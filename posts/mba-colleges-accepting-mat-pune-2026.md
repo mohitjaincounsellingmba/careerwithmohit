@@ -56,6 +56,11 @@ Here is the detailed overview of the top management institutes in Pune accepting
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹9.45 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹8.00 LPA (Highest ₹18.0 LPA) with AICTE, NBA Accredited.
+
 ## 1. PUMBA (Department of Management Sciences)
 The official MBA department of Pune University, offering exceptional ROI and low fees.
 - **MAT Cutoff Percentile:** 75+ Percentile

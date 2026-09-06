@@ -31,6 +31,11 @@ faqs:
 ---
 # Andhra University Online Fee Structure (2027): Lowest Fee UGC Approved Online MBA
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 **Andhra University (Visakhapatnam)**, established in 1926, is one of India's oldest and most prestigious state government universities. 
 
 With total fees of just **₹62,200 for a 2-year Online MBA**, Andhra University holds the title of the **most affordable NAAC A-rated UGC-DEB approved Online MBA university in India**. Here is the complete **2027 fee structure** breakdown.

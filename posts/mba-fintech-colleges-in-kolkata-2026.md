@@ -38,7 +38,7 @@ state: West Bengal
 
 Selecting the right B-school is critical if you are targeting a career in investment platforms, digital banking design, blockchain application development, algorithmic trading, or strategic fintech consulting. While general MBA rankings give a broad overview, fintech and digital recruiters tend to visit campuses that have a strong tradition of quantitative finance, dedicated finance/fintech specializations, and proximity to major corporate headquarters.
 
-For students planning their admissions for the 2026 batch, this guide highlights the **best MBA FinTech colleges in Kolkata**, comparing their fee structures, accepted entrance exams, and latest placement packages.
+For students planning their admissions for the 2027–2029 intake, this guide highlights the **best MBA FinTech colleges in Kolkata**, comparing their fee structures, accepted entrance exams, and latest placement packages.
 
 ---
 

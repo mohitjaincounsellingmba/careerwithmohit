@@ -1,6 +1,6 @@
 ---
 title: >-
-  UGC & AICTE Last Date to Take MBA & PGDM Admission 2026: Official Guidelines &
+  UGC & AICTE Last Date to Take MBA & PGDM Admission 2027–2029: Official Guidelines &
   Deadlines
 date: '2026-06-23'
 description: >-
@@ -8,8 +8,8 @@ description: >-
   colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
   DU, and pri
 keywords:
-  - UGC last date for MBA admission 2026
-  - AICTE last date for PGDM admission 2026
+  - UGC last date for MBA admission 2027–2029
+  - AICTE last date for PGDM admission 2027–2029
   - MBA admission deadline 2026
   - AICTE academic calendar 2026-27
   - MBA ODL last date 2026
@@ -54,7 +54,7 @@ If you are aiming to lock in your admission for the **2026–27 academic year**,
 
 ---
 
-## 📅 MBA & PGDM Admissions 2026: Key Deadlines at a Glance
+## 📅 MBA & PGDM Admissions 2027–2029: Key Deadlines at a Glance
 
 Depending on whether your course is a PGDM (offered by autonomous AICTE-approved institutions) or an MBA (offered by UGC-affiliated universities), different timelines apply.
 
@@ -95,7 +95,7 @@ For MBA programs offered by state-affiliated technical universities (such as AKT
 
 ---
 
-## 💻 UGC Guidelines: Distance (ODL) and Online MBA Admissions 2026
+## 💻 UGC Guidelines: Distance (ODL) and Online MBA Admissions 2027–2029
 
 With the rise of working professionals opting for career acceleration without leaving their jobs, online and distance learning (ODL) programs have grown massively. The UGC regulates these formats via its **Distance Education Bureau (DEB)**.
 
@@ -113,7 +113,7 @@ For the academic cycle starting in **August 2026**, UGC has notified the followi
 To make informed career decisions, check out our other detailed guides:
 *   [MBA vs PGDM Comparison: Which Program is Right for Your Career?](/blog/b-school-vs-university-mba-comparison)
 *   [Direct MBA Admission Without Entrance Exams: Pros, Cons, and Safe Routes](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-*   [All IIM Cut Off 2026-28: Expected Percentiles and Call Analysis](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+*   [All IIM Cut Off 2027–29: Expected Percentiles and Call Analysis](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
 
 ---
 

@@ -18,7 +18,7 @@ keywords:
   - iimcat.ac.in login response sheet
   - CAT slot 1 2 3 answer key
   - CAT percentile predictor
-  - Delhi NCR MBA Admissions 2026
+  - Delhi NCR MBA Admissions 2027–2029
   - Direct Admission Delhi NCR
   - Best MBA Colleges Noida
   - Noida Colleges
@@ -64,7 +64,7 @@ state: Delhi NCR
 
 The release of the **CAT Answer Key & Candidate Response Sheet** is one of the most high-stakes moments for MBA aspirants. It provides official clarity on your performance, eliminates guesswork, and enables you to calculate your exact raw score before final results are announced.
 
-In this detailed guide, career counselor **Mohit Jain** explains how to access your CAT response sheet, step-by-step raw score computation, filing valid challenges during the objection window, and strategic next steps for 2026-2028 MBA admissions.
+In this detailed guide, career counselor **Mohit Jain** explains how to access your CAT response sheet, step-by-step raw score computation, filing valid challenges during the objection window, and strategic next steps for 2027–2029 MBA admissions.
 
 ---
 

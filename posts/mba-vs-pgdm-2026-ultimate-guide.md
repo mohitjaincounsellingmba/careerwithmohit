@@ -112,7 +112,7 @@ This is where most students get confused.
 ## 🔗 Related Resources
 - [Top MBA Colleges with Direct Admission 2026](/blog/direct-mba-admission-india)
 - [MBA after BTech: Why it's a Power Move in 2026](/blog/mba-after-btech-benefits-2026)
-- [Admission Guide 2026-28](/blog/mba-pgdm-admissions-2026-2028-complete-guide)
+- [Admission Guide 2027–29](/blog/mba-pgdm-admissions-2027–2029-complete-guide)
 
 ---
 

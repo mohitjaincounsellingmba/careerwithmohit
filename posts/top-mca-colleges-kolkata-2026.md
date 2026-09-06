@@ -26,7 +26,7 @@ faqs:
     answer: >-
       Previously CU had its separate entrance, but for many MCA colleges in West
       Bengal, **WB JECA** remains the primary gateway. Always check the official
-      MAKAUT and CU portals in March for the 2026 intake.
+      MAKAUT and CU portals in March for the 2027–2029 intake.
   - question: What is the average fee for MCA in Heritage Kolkata?
     answer: >-
       Heritage is a private institute, so the fees are around ₹1.2 Lakhs to ₹1.6
@@ -97,7 +97,7 @@ If you miss the WB JECA dates, several reputable colleges offer merit-based dire
 For **Software Engineering and Research**, JU is on par with Top 3 NITs. For **Placements**, JU graduates often get higher domestic packages due to their strong presence in the Kolkata and Bangalore tech hubs.
 
 **Q2. Does University of Calcutta accept WB JECA?**
-Previously CU had its separate entrance, but for many MCA colleges in West Bengal, **WB JECA** remains the primary gateway. Always check the official MAKAUT and CU portals in March for the 2026 intake.
+Previously CU had its separate entrance, but for many MCA colleges in West Bengal, **WB JECA** remains the primary gateway. Always check the official MAKAUT and CU portals in March for the 2027–2029 intake.
 
 **Q3. What is the average fee for MCA in Heritage Kolkata?**
 Heritage is a private institute, so the fees are around ₹1.2 Lakhs to ₹1.6 Lakhs per year.

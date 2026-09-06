@@ -45,7 +45,7 @@ state: Tamil Nadu
 
 Chennai, the "Detroit of Asia" and a major hub for SaaS and Healthcare, is one of the most underrated MBA destinations in India. With a high concentration of manufacturing giants (Hyundai, Ford, Renault) and the booming SaaS corridor (Zoho, Freshworks), Chennai offers a unique career mix that blends traditional industry with new-age technology.
 
-Whether you are targeting the research-heavy IIT Madras or the legendary Great Lakes, this guide covers the **top MBA colleges in Chennai** for the 2026 batch.
+Whether you are targeting the research-heavy IIT Madras or the legendary Great Lakes, this guide covers the **top MBA colleges in Chennai** for the 2027–2029 intake.
 
 ---
 

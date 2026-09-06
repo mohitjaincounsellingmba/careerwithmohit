@@ -45,6 +45,11 @@ state: Maharashtra
 
 # Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting MAT, CMAT & Profile Scores
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 Every year, over 3 Lakh students appear for CAT and XAT. However, due to high negative marking, tough sectionals, or exam-day stress, thousands of bright candidates miss out on high percentiles.
 
 The good news for the **2027-29 admission session** is that **a low score in CAT or XAT does NOT mean giving up on your MBA dreams.** Top AICTE-approved autonomous business schools across India accept national exams like **MAT, CMAT, ATMA**, or evaluate candidates through **Profile-Based Direct Admissions**.

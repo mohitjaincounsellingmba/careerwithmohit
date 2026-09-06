@@ -54,7 +54,7 @@ state: Delhi NCR
 
 Kolkata, the "City of Joy" and the gateway to East India, is home to India's first IIM—[IIM Calcutta](/colleges/iim-calcutta). For MBA students, Kolkata offers a unique combination of rich intellectual heritage and proximity to major industrial clusters in West Bengal, Odisha, and Bihar.
 
-Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI government options like Jadavpur University, this guide covers the **top MBA colleges in Kolkata** for the 2026 batch.
+Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI government options like Jadavpur University, this guide covers the **top MBA colleges in Kolkata** for the 2027–2029 intake.
 
 ---
 

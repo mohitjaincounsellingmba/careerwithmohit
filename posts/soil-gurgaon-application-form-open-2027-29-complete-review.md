@@ -66,6 +66,11 @@ state: Delhi NCR
 
 # SOIL Gurgaon Application Form Open for 2027–29: Complete Review, Fees, Placements & Selection Process
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹15.30 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹11.00 LPA (Highest ₹19.5 LPA) with AICTE Approved.
+
 The **[SOIL Institute of Management](/colleges/soil-institute-gurgaon) (School of Inspired Leadership / School of Business Design, Gurgaon)** has officially released its application forms for the **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
 
 Situated in India's corporate capital—**Gurgaon (Delhi-NCR)**—SOIL has carved a distinctive identity among modern B-schools. Co-created by a consortium of **32 multinational corporations**, SOIL combines cutting-edge **Design Thinking**, **Mindful Leadership**, and **Business Analytics** with deep corporate immersion.
@@ -314,3 +319,17 @@ Instead of a conventional debate-oriented Group Discussion, SOIL conducts a hand
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+

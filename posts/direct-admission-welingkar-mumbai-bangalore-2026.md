@@ -36,7 +36,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-Welingkar Institute of Management (WeSchool) is a top-ranked institute in Mumbai and Bangalore, famous for its innovation-led curriculum and corporate connections. For the 2026-28 batch, WeSchool offers **Direct Admission** through Management and NRI quotas for aspirants who want to secure their career in a premier B-school.
+Welingkar Institute of Management (WeSchool) is a top-ranked institute in Mumbai and Bangalore, famous for its innovation-led curriculum and corporate connections. For the 2027–29 batch, WeSchool offers **Direct Admission** through Management and NRI quotas for aspirants who want to secure their career in a premier B-school.
 
 ## Why WeSchool is a Top Choice?
 

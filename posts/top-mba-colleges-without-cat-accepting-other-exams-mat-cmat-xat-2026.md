@@ -19,7 +19,7 @@ keywords:
   - XLRI XAT Cutoff
   - NMIMS NMAT Cutoff
   - SIBM SNAP Cutoff
-  - Delhi NCR MBA Admissions 2026
+  - Delhi NCR MBA Admissions 2027–2029
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi Colleges

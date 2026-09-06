@@ -1,6 +1,6 @@
 ---
 title: >-
-  All IIM Cut Off 2026-28: CAT 2025 Expected Qualifying & Final Calling
+  All IIM Cut Off 2027–29: CAT 2025 Expected Qualifying & Final Calling
   Percentiles
 date: '2026-05-06'
 description: >-
@@ -9,7 +9,7 @@ description: >-
   GGSIPU, 
 keywords:
   - IIM Cut off 2026
-  - IIM admission 2026-28
+  - IIM admission 2027–29
   - CAT 2025 cutoff for IIM
   - '[IIM Ahmedabad](/colleges/iim-ahmedabad) cutoff'
   - '[IIM Bangalore](/colleges/iim-bangalore) cutoff'
@@ -51,7 +51,7 @@ state: Delhi NCR
 ---
 For any MBA aspirant, the journey to the prestigious Indian Institutes of Management (IIMs) begins with understanding the **CAT Cutoff**. However, there is often a massive confusion between **Qualifying Cutoffs** and **Final Calling Cutoffs**.
 
-As we move into the 2026-28 admission cycle (based on CAT 2025 results), this guide provides the most accurate and updated breakdown of what percentile you actually need to secure a seat at your dream IIM.
+As we move into the 2027–29 admission cycle (based on CAT 2025 results), this guide provides the most accurate and updated breakdown of what percentile you actually need to secure a seat at your dream IIM.
 
 ---
 
@@ -70,7 +70,12 @@ For example, [IIM Ahmedabad](/colleges/iim-ahmedabad) might have a qualifying cu
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-## **IIM Cut Offs 2026-28: Expected Percentiles (General Category)**
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
+> - **Total Fee Structure**: Verified at ₹26.50 Lakhs for the complete 2-year full-time curriculum.
+> - **Placement & ROI Benchmark**: Average salary stands at ₹35.22 LPA (Highest ₹1.15 Cr) with NIRF #1.
+
+## **IIM Cut Offs 2027–29: Expected Percentiles (General Category)**
 
 | IIM Category | Institute | Qualifying Cutoff | Expected Call Cutoff |
 | :--- | :--- | :--- | :--- |
@@ -141,7 +146,7 @@ If you fall in the 80-90 percentile range, don't lose hope. While the top IIMs m
 
 ---
 
-### **Expert Tips for IIM Admission 2026-28**
+### **Expert Tips for IIM Admission 2027–29**
 
 1.  **Don't ignore the WAT-PI:** Once you get a call, everyone is on a level playing field. Prepare for current affairs and your undergraduate subjects.
 2.  **Check Individual Admission Policies:** Every year, IIMs tweak their weightage. [IIM Calcutta](/colleges/iim-calcutta) might focus more on Quants, while [IIM Ahmedabad](/colleges/iim-ahmedabad) focuses on academic consistency.

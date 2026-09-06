@@ -14,7 +14,7 @@ keywords:
   - xlri highest package 2025
   - xat 2026 cutoff for xlri
   - xlri bm vs hrm placement
-  - mba admission 2026
+  - mba admission 2027–2029
   - Delhi Colleges
   - Best Colleges in Delhi
   - Delhi Admissions 2026

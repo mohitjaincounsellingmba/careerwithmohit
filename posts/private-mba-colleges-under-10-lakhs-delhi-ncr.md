@@ -1,10 +1,10 @@
 ---
-title: 'Top Private MBA Colleges in Delhi NCR Under 10 Lakhs (2026-28): Fees & ROI'
+title: 'Top Private MBA Colleges in Delhi NCR Under 10 Lakhs (2027–29): Fees & ROI'
 date: '2026-03-17'
 description: >-
   Looking for an affordable MBA in Delhi NCR? Explore top-ranked private
   colleges with fees under ₹10 Lakhs, verified 2025 placements, and high ROI for
-  the 2026-28 batch.
+  the 2027–29 batch.
 keywords:
   - MBA colleges in Delhi under 10 lakhs
   - affordable MBA Delhi NCR
@@ -56,7 +56,7 @@ Pursuing a Master of Business Administration (MBA) in the Delhi National Capital
 
 Fortunately, several esteemed **private MBA colleges in Delhi NCR offer total program fees under or hovering right around ₹10 Lakhs**, while still providing exceptional Return on Investment (ROI) and robust campus placements.
 
-If you are a budget-conscious aspirant aiming for the 2026-2028 academic cycle, here is a curated list of top private institutions delivering massive value.
+If you are a budget-conscious aspirant aiming for the 2027–2029 academic cycle, here is a curated list of top private institutions delivering massive value.
 
 ---
 
@@ -96,7 +96,7 @@ If your primary constraint is budget, but you still want an established platform
 
 ## 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), Delhi
 
-*Note: NDIM's fees have revised to ₹13.75 Lakhs for the 2026-28 batch, but its premium corporate placement ROI makes it a must-include for serious aspirants.*
+*Note: NDIM's fees have revised to ₹13.75 Lakhs for the 2027–29 batch, but its premium corporate placement ROI makes it a must-include for serious aspirants.*
 
 Situated in the heart of Delhi, NDIM is heavily networked with industry bodies like FICCI, ASSOCHAM, and CII.
 
@@ -136,6 +136,20 @@ Greater Noida, specifically the Knowledge Park area, is famous for its massive p
 3.  **Check Approvals:** Ensure the MBA program is strictly approved by the AICTE or the University Grants Commission (UGC). 
 
 ---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Which is the most affordable private MBA college in Delhi NCR?

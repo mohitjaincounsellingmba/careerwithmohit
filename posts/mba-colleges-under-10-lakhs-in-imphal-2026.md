@@ -46,6 +46,11 @@ These institutions keep tuition fees under ₹10 Lakhs (either total or annual, 
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
 ## 1. Department of Business Administration, University of Imphal
 - **Approximate Fees:** ₹1.5 Lakhs - ₹3.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / CMAT / State Entrance
@@ -131,3 +136,11 @@ Yes, because it offers an excellent Return on Investment (ROI). With a total fee
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+### 🎓 Need Expert MBA/PGDM Admission Guidance for 2027–2029?
+Get personalized 1-on-1 career counselling, GD-PI preparation tips, college shortlisting based on your percentile & budget, and direct application assistance.
+
+👉 **[Click Here to Connect with Our Chief MBA Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20MBA/PGDM%202027-2029%20Admission%20Guidance)** or request a free callback through our inquiry desk.

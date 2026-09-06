@@ -177,7 +177,7 @@ Understanding your score in context helps you target the right colleges:
 
 ## MAT May 2026 Score Validity
 
-Your MAT May 2026 PBT scorecard is valid for **12 months** from the date of declaration. This means you can use it for **MBA/PGDM 2026-28 batch admissions** at all MAT-accepting institutes across India without needing to re-appear.
+Your MAT May 2026 PBT scorecard is valid for **12 months** from the date of declaration. This means you can use it for **MBA/PGDM 2027–29 batch admissions** at all MAT-accepting institutes across India without needing to re-appear.
 
 ---
 
@@ -205,7 +205,7 @@ Act immediately — shortlist colleges, check their GD/PI schedules, and apply d
 Target mid-range PGDM institutes with strong placement records. Use the **[MAT College Predictor](/tools/mat-college-predictor)** to get a personalised list.
 
 ### ✅ If Your Score is Below 60 Percentile
-Consider re-appearing in the **MAT September 2026** session. It is the last window for 2026-28 batch admissions at many institutes. Meanwhile, explore institutes accepting **CMAT, MAH-CET, or direct admissions**.
+Consider re-appearing in the **MAT September 2026** session. It is the last window for 2027–29 batch admissions at many institutes. Meanwhile, explore institutes accepting **CMAT, MAH-CET, or direct admissions**.
 
 ### ✅ Prepare for GD/PI
 Once shortlisted, start preparing for Group Discussion and Personal Interview rounds. Read our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)**

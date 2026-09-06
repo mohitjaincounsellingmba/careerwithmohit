@@ -37,7 +37,7 @@ state: Karnataka
 
 Selecting the right B-school is critical if you are targeting a career in brand management, corporate sales, consumer research, retail marketing, or advertising. While general MBA rankings give a broad overview, marketing recruiters tend to visit campuses that have a strong case-study tradition, specialized consumer labs, and proximity to major corporate headquarters.
 
-For students planning their admissions for the 2026 batch, this guide highlights the **best MBA Marketing colleges in Bangalore**, comparing their fee structures, accepted entrance exams, and latest placement packages.
+For students planning their admissions for the 2027–2029 intake, this guide highlights the **best MBA Marketing colleges in Bangalore**, comparing their fee structures, accepted entrance exams, and latest placement packages.
 
 ---
 
