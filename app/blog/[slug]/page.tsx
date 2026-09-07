@@ -27,6 +27,16 @@ function cleanMarkdown(text: string | undefined): string {
     .trim();
 }
 
+function extractNodeText(node: React.ReactNode): string {
+  if (!node) return "";
+  if (typeof node === "string" || typeof node === "number") return String(node);
+  if (Array.isArray(node)) return node.map(extractNodeText).join(" ");
+  if (React.isValidElement(node) && (node.props as any)?.children) {
+    return extractNodeText((node.props as any).children);
+  }
+  return "";
+}
+
 function detectGeoFocus(title: string, content: string, keywords: string[]): { isDelhiNcr: boolean; specificLocation?: string } {
   const text = `${title} ${content} ${keywords.join(" ")}`.toLowerCase();
   
@@ -406,9 +416,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 <li className="text-xl font-bold text-foreground leading-relaxed pl-2" {...props} />
               ),
               blockquote: ({ node, children, ...props }) => {
-                const contentStr = React.Children.toArray(children)
-                  .map(child => (typeof child === 'string' ? child : JSON.stringify(child)))
-                  .join(' ');
+                const contentStr = extractNodeText(children);
                 const isKeyTakeaway = /key takeaways|ai answer summary|direct ai answer|quick takeaways|💡|🤖/i.test(contentStr);
 
                 if (isKeyTakeaway) {
