@@ -51,8 +51,89 @@ body {
 .prose p {
   @apply mb-6 leading-relaxed;
 }
-.prose blockquote {
+.prose blockquote:not(.ai-summary-card):not(.blog-quote) {
   @apply border-l-8 border-primary pl-6 py-4 my-10 text-2xl font-display font-bold text-foreground bg-muted;
+}
+
+/* Direct AI Answer Summary Card (GEO Rule 1) - Guaranteed high-contrast Dark & Amber styling */
+.prose blockquote.ai-summary-card {
+  background-color: #0f172a !important; /* Deep Slate 900 */
+  color: #f8fafc !important; /* Slate 50 */
+  border: 4px solid #f59e0b !important; /* Amber 500 */
+  border-radius: 1rem !important;
+  padding: 1.75rem !important;
+  margin: 2.5rem 0 !important;
+  box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1) !important;
+  position: relative !important;
+  overflow: hidden !important;
+  font-style: normal !important;
+}
+
+.prose blockquote.ai-summary-card p {
+  color: #f8fafc !important;
+  font-size: 1.15rem !important;
+  line-height: 1.75 !important;
+  margin-bottom: 0.75rem !important;
+  font-weight: 700 !important;
+}
+
+.prose blockquote.ai-summary-card ul {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin-bottom: 0 !important;
+  margin-top: 0.75rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.875rem !important;
+}
+
+.prose blockquote.ai-summary-card ul li {
+  position: relative !important;
+  padding-left: 1.75rem !important;
+  color: #f1f5f9 !important; /* Crisp off-white text, 100% visible */
+  font-size: 1.05rem !important;
+  line-height: 1.65 !important;
+  font-weight: 500 !important;
+}
+
+.prose blockquote.ai-summary-card ul li::before {
+  content: "⚡" !important;
+  color: #f59e0b !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 0.1rem !important;
+  font-size: 0.95rem !important;
+}
+
+.prose blockquote.ai-summary-card strong {
+  color: #fde047 !important; /* High-contrast golden yellow */
+  background-color: transparent !important;
+  font-weight: 800 !important;
+  padding: 0 !important;
+}
+
+.prose blockquote.ai-summary-card a {
+  color: #60a5fa !important;
+  text-decoration: underline !important;
+  background-color: transparent !important;
+}
+
+/* Regular Blog Quotes */
+.prose blockquote.blog-quote {
+  background-color: #eff6ff !important; /* blue-50 */
+  border-left: 12px solid #3B82F6 !important;
+  border-top: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
+  color: #1d4ed8 !important;
+  border-radius: 0 0.75rem 0.75rem 0 !important;
+  padding: 2rem !important;
+  margin: 3rem 0 !important;
+}
+
+.prose blockquote.blog-quote p {
+  color: #1d4ed8 !important;
+  margin-bottom: 0 !important;
 }
 .prose a {
   @apply font-bold text-primary hover:text-white hover:bg-primary transition-colors p-1 -m-1 inline-block;
