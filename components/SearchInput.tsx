@@ -25,22 +25,22 @@ function SearchInputInner({ isMobile = false, onSearch }: { isMobile?: boolean, 
   return (
     <form 
       onSubmit={handleSearch} 
-      className={`relative flex items-center ${isMobile ? 'w-full' : 'hidden lg:flex'} max-w-xs xl:max-w-sm w-full rounded-xl border border-slate-200 bg-slate-50/80 focus-within:bg-white focus-within:border-blue-500 focus-within:ring-4 focus-within:ring-blue-500/10 transition-all overflow-hidden`}
+      className={`relative flex items-center ${isMobile ? 'w-full' : 'hidden lg:flex'} max-w-[210px] xl:max-w-[280px] w-full rounded-xl border border-slate-200 bg-slate-50/80 focus-within:bg-white focus-within:border-blue-500 focus-within:ring-4 focus-within:ring-blue-500/10 transition-all overflow-hidden`}
     >
-      <div className="relative flex-grow flex items-center pl-3">
-        <Search className="h-4 w-4 text-slate-400 stroke-[2] pointer-events-none" />
+      <div className="relative flex-grow flex items-center pl-2.5">
+        <Search className="h-3.5 w-3.5 text-slate-400 stroke-[2] pointer-events-none" />
         <input
           type="text"
           aria-label="Search site content"
-          placeholder="Search colleges, exams, blogs..."
+          placeholder="Search colleges, exams..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          className="h-10 w-full bg-transparent pl-2.5 pr-2 text-xs sm:text-sm font-medium text-slate-900 placeholder:text-slate-400 focus:outline-none"
+          className="h-9 w-full bg-transparent pl-2 pr-1.5 text-xs font-medium text-slate-900 placeholder:text-slate-400 focus:outline-none"
         />
       </div>
       <button 
         type="submit"
-        className="h-8 mr-1 px-3 bg-blue-600 hover:bg-blue-700 text-white text-xs font-semibold rounded-lg transition-colors cursor-pointer"
+        className="h-7 mr-1 px-2.5 bg-blue-600 hover:bg-blue-700 text-white text-[11px] font-semibold rounded-lg transition-colors cursor-pointer"
       >
         Search
       </button>

@@ -27,34 +27,47 @@ export function Logo({
   // Size mappings
   const sizeStyles = {
     sm: {
-      icon: "w-7 h-7",
-      text: "text-lg",
-      withBadge: "text-[9px] px-1 py-0.2",
-      tagline: "text-[9px]",
-      gap: "gap-2",
+      icon: "w-7 h-7 sm:w-8 sm:h-8",
+      text: "text-base sm:text-lg",
+      withBadge: "text-[8px] sm:text-[9px] px-1 py-0.2",
+      tagline: "text-[8px] sm:text-[9px]",
+      gap: "gap-1.5 sm:gap-2",
     },
     md: {
-      icon: "w-9 h-9 sm:w-10 sm:h-10",
-      text: "text-xl sm:text-2xl",
-      withBadge: "text-[10px] px-1.5 py-0.5",
+      icon: variant === "header" ? "w-8 h-8 sm:w-8.5 sm:h-8.5" : "w-9 h-9 sm:w-10 sm:h-10",
+      text: variant === "header" ? "text-base sm:text-lg lg:text-xl" : "text-xl sm:text-2xl",
+      withBadge: "text-[9px] sm:text-[10px] px-1 sm:px-1.5 py-0.5",
       tagline: "text-[10px] sm:text-xs",
-      gap: "gap-2.5 sm:gap-3",
+      gap: variant === "header" ? "gap-2 sm:gap-2.5" : "gap-2.5 sm:gap-3",
     },
     lg: {
-      icon: "w-11 h-11 sm:w-12 sm:h-12",
-      text: "text-2xl sm:text-3xl",
-      withBadge: "text-[11px] px-2 py-0.5",
+      icon: "w-10 h-10 sm:w-11 sm:h-11",
+      text: "text-xl sm:text-2xl",
+      withBadge: "text-[10px] px-2 py-0.5",
       tagline: "text-xs sm:text-sm",
-      gap: "gap-3 sm:gap-3.5",
+      gap: "gap-2.5 sm:gap-3",
     },
     xl: {
-      icon: "w-14 h-14 sm:w-16 sm:h-16",
-      text: "text-3xl sm:text-4xl",
+      icon: "w-12 h-12 sm:w-14 sm:h-14",
+      text: "text-2xl sm:text-3xl",
       withBadge: "text-xs px-2.5 py-1",
       tagline: "text-sm sm:text-base",
-      gap: "gap-4",
+      gap: "gap-3.5",
     },
-  }[size];
+    compact: {
+      icon: "w-7 h-7 sm:w-7.5 sm:h-7.5",
+      text: "text-sm sm:text-base",
+      withBadge: "text-[8px] px-1 py-0.2",
+      tagline: "text-[8px]",
+      gap: "gap-1.5",
+    },
+  }[size] || {
+    icon: "w-8 h-8 sm:w-8.5 sm:h-8.5",
+    text: "text-base sm:text-lg lg:text-xl",
+    withBadge: "text-[9px] px-1 py-0.2",
+    tagline: "text-[9px]",
+    gap: "gap-2",
+  };
 
   const content = (
     <div
