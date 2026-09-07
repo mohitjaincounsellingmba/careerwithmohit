@@ -2,8 +2,18 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
-import { Instagram, Linkedin, Facebook, Youtube, Send, ArrowRight, ExternalLink, Phone, Mail } from 'lucide-react';
+import { 
+  Instagram, 
+  Linkedin, 
+  Facebook, 
+  Youtube, 
+  ArrowRight, 
+  Phone, 
+  Mail, 
+  GraduationCap, 
+  Sparkles,
+  ShieldCheck
+} from 'lucide-react';
 import { Logo } from './Logo';
 
 export function Footer() {
@@ -31,103 +41,117 @@ export function Footer() {
   }, []);
 
   const footerLinks = {
-    quickLinks: [
-      { name: 'Top Colleges', href: '/colleges' },
-      { name: 'Top Tier MBA', href: '/top-tier-mba-colleges' },
-      { name: 'Latest News', href: '/blog' },
-      { name: 'All Tools', href: '/tools' },
-      { name: 'Counselling', href: '/services' },
-      { name: 'Sell Coaching Online', href: '/sell-your-coaching-online' },
-      { name: 'Contact Us', href: '/inquiry' },
-      { name: 'About Mohit', href: '/about' },
+    programs: [
+      { name: 'MBA / PGDM Admissions 2027', href: '/colleges', badge: 'Hot' },
+      { name: 'Top Tier MBA Directory', href: '/top-tier-mba-colleges' },
+      { name: 'Direct MBA Admission Guide', href: '/blog/direct-mba-pgdm-admission-2027-2029-management-quota-guide' },
+      { name: 'Online MBA & Certifications', href: '/online-degree-certification' },
+      { name: 'B.Tech Engineering Consulting', href: '/colleges' },
+      { name: 'BBA / BCA Admissions', href: '/colleges' },
+      { name: 'Abroad Education Advisory', href: '/inquiry' },
     ],
-    predictors: [
-      { name: 'CAT 2026 Score Calculator', href: '/tools/cat-score-calculator', color: 'text-amber-400' },
-      { name: 'Sept MAT Score Calculator', href: '/tools/mat-score-calculator', color: 'text-green-400' },
-      { name: 'XAT 2027 Calculator', href: '/tools/xat-score-calculator-2027', color: 'text-orange-400' },
-      { name: 'JEE Main Predictor', href: '/calculator/jee-main-2026', color: 'text-red-400' },
-      { name: 'CUET PG Tool', href: '/calculator/cuet-pg-2026', color: 'text-cyan-400' },
-      { name: 'CUET UG Predictor', href: '/calculator/cuet-ug-2026', color: 'text-emerald-400' },
-      { name: 'MHCET MBA 2027', href: '/calculator/mhcet-mba-2026', color: 'text-pink-400' },
-      { name: 'B.Tech Predictor', href: '/tools/btech-college-predictor', color: 'text-yellow-400' },
+    tools: [
+      { name: 'CAT 2026 Score Calculator', href: '/tools/cat-score-calculator', badge: 'Popular' },
+      { name: 'XAT 2027 Score Calculator', href: '/tools/xat-score-calculator-2027' },
+      { name: 'MAT Score Calculator', href: '/tools/mat-score-calculator' },
+      { name: 'MHCET MBA Predictor', href: '/calculator/mhcet-mba-2026' },
+      { name: 'CUET PG Tool', href: '/calculator/cuet-pg-2026' },
+      { name: 'B.Tech College Predictor', href: '/tools/btech-college-predictor' },
+      { name: 'Free Mock Test Hub', href: '/mock-tests', badge: 'Free' },
     ],
     resources: [
-      { name: 'Free Starter Kit', href: '/starter-kit', badge: 'New' },
-      { name: 'Free File Converter', href: '/tools/file-converter', badge: 'Free' },
-      { name: 'Mock Test Hub', href: '/mock-tests', badge: 'Popular' },
-      { name: 'Free CAT 2026 Mock Test', href: '/tools/cat-mock-test' },
-      { name: 'Free JEE Mock 2027', href: '/tools/jee-main-mock-test' },
-      { name: 'PYQ Papers', href: '/previous-year-papers' },
-      { name: 'Online Degrees', href: '/online-degree-certification' },
-      { name: 'Abroad Education', href: '/abroad-education', badge: 'New' },
-      { name: 'Certifications', href: '/certifications' },
-      { name: 'Academic Calculators', href: '/tools/academic-calculators', badge: 'Tools' },
-      { name: 'Roadmap Calculator', href: '/calculator/career-roadmap', badge: 'New' },
-      { name: 'Jobs', href: '/jobs' },
+      { name: '650+ Colleges Database', href: '/colleges' },
+      { name: 'MBA Articles & Analysis', href: '/blog' },
+      { name: 'Admission News Updates', href: '/news' },
+      { name: 'Previous Year Papers (PYQs)', href: '/previous-year-papers' },
+      { name: 'Scholarship & Credit Schemes', href: '/inquiry' },
+      { name: 'Sell Coaching Online (App)', href: '/sell-your-coaching-online', badge: 'Teachers' },
+      { name: 'About Mohit Jain', href: '/about' },
     ]
   };
 
   const socials = [
-    { icon: <Instagram size={20} />, href: "https://www.instagram.com/careerwithmohit.online/", label: "Instagram", color: "hover:bg-pink-600" },
-    { icon: <Linkedin size={20} />, href: "https://www.linkedin.com/company/career-with-mohit", label: "LinkedIn", color: "hover:bg-blue-700" },
-    { icon: <Facebook size={20} />, href: "https://www.facebook.com/profile.php?id=61575525271998", label: "Facebook", color: "hover:bg-blue-600" },
-    { icon: <Youtube size={20} />, href: "https://www.youtube.com/@careerwithmohit.online", label: "YouTube", color: "hover:bg-red-600" }
+    { icon: <Instagram size={18} />, href: "https://www.instagram.com/careerwithmohit.online/", label: "Instagram", color: "hover:bg-pink-600/30 hover:text-pink-400 hover:border-pink-500/40" },
+    { icon: <Linkedin size={18} />, href: "https://www.linkedin.com/company/career-with-mohit", label: "LinkedIn", color: "hover:bg-blue-600/30 hover:text-blue-400 hover:border-blue-500/40" },
+    { icon: <Facebook size={18} />, href: "https://www.facebook.com/profile.php?id=61575525271998", label: "Facebook", color: "hover:bg-blue-700/30 hover:text-blue-400 hover:border-blue-500/40" },
+    { icon: <Youtube size={18} />, href: "https://www.youtube.com/@careerwithmohit.online", label: "YouTube", color: "hover:bg-red-600/30 hover:text-red-400 hover:border-red-500/40" }
   ];
 
   return (
-    <footer className="relative bg-foreground text-white overflow-hidden">
-      {/* Decorative SVG Pattern */}
-      <div className="absolute inset-0 opacity-5 pointer-events-none">
-        <svg className="h-full w-full" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-          <defs>
-            <pattern id="footer-grid" width="40" height="40" patternUnits="userSpaceOnUse">
-              <path d="M 40 0 L 0 0 0 40" fill="none" stroke="currentColor" strokeWidth="1" />
-            </pattern>
-          </defs>
-          <rect width="100%" height="100%" fill="url(#footer-grid)" />
-        </svg>
-      </div>
+    <footer className="relative bg-gradient-to-b from-[#0A192F] via-[#081427] to-[#040A14] text-slate-300 overflow-hidden border-t border-blue-900/40">
+      {/* Ambient Lighting Accents */}
+      <div className="absolute top-0 left-1/3 w-[600px] h-[300px] bg-blue-600/10 blur-[130px] pointer-events-none rounded-full" />
+      <div className="absolute bottom-0 right-10 w-[400px] h-[250px] bg-indigo-600/10 blur-[110px] pointer-events-none rounded-full" />
 
-      {/* Top CTA Section */}
+      {/* Top High-Converting Consultation Card */}
       <div className="relative z-10 border-b border-white/10">
         <div className="mx-auto max-w-7xl px-6 py-12 sm:px-12">
-          <div className="bg-gradient-to-r from-primary to-secondary rounded-3xl p-8 md:p-12 shadow-2xl flex flex-col md:flex-row items-center justify-between gap-8">
-            <div className="space-y-4 text-center md:text-left">
-              <h2 className="text-3xl md:text-4xl font-black tracking-tight">Ready to Elevate Your Career?</h2>
-              <p className="text-white/90 text-lg font-medium max-w-xl">
-                Get expert guidance for Admissions 2027, Mock Tests, and Career Roadmaps tailored just for you.
+          <div className="bg-gradient-to-r from-blue-900/80 via-indigo-900/70 to-[#0A1E3D] rounded-3xl p-8 md:p-12 border border-white/15 shadow-2xl backdrop-blur-xl flex flex-col lg:flex-row items-center justify-between gap-8">
+            <div className="space-y-3 text-center lg:text-left">
+              <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-white/10 border border-white/15 text-blue-200 text-xs font-semibold">
+                <Sparkles className="w-3.5 h-3.5 text-amber-300" />
+                <span>Admissions Advisory 2027-29</span>
+                <span className="text-blue-300">•</span>
+                <span className="text-emerald-300 font-bold">1-on-1 Profile Assessment</span>
+              </div>
+              <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white tracking-tight leading-tight">
+                Ready to Secure Your Dream B-School Seat?
+              </h2>
+              <p className="text-blue-100/80 text-base sm:text-lg font-normal max-w-2xl leading-relaxed">
+                Get personalized B-school shortlist mapping (Dream, Target, Safe), interview coaching, and cutoff intelligence with <strong className="text-white font-semibold">Mohit Jain</strong>.
               </p>
             </div>
-            <Link 
-              href="/inquiry" 
-              prefetch={false}
-              className="bg-white text-foreground px-8 py-4 rounded-full font-black uppercase tracking-widest hover:scale-105 transition-all shadow-xl flex items-center gap-3 shrink-0"
-            >
-              Get Started Now <ArrowRight size={20} />
-            </Link>
+            <div className="flex flex-col sm:flex-row items-center gap-3.5 shrink-0 w-full sm:w-auto">
+              <a 
+                href="https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20want%20to%20evaluate%20my%20MBA%20admission%20profile" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="w-full sm:w-auto rounded-xl bg-emerald-500 hover:bg-emerald-600 active:scale-95 text-white px-7 py-3.5 font-bold text-sm sm:text-base transition-all shadow-lg shadow-emerald-950/40 flex items-center justify-center gap-2"
+              >
+                <span className="text-lg">💬</span>
+                <span>WhatsApp Profile Review</span>
+              </a>
+              <Link 
+                href="/inquiry" 
+                prefetch={false}
+                className="w-full sm:w-auto rounded-xl bg-amber-400 hover:bg-amber-300 active:scale-95 text-slate-950 px-7 py-3.5 font-bold text-sm sm:text-base transition-all shadow-lg shadow-amber-950/20 flex items-center justify-center gap-2 text-center"
+              >
+                <span>Book Consultation</span>
+                <ArrowRight size={16} />
+              </Link>
+            </div>
           </div>
         </div>
       </div>
 
+      {/* Main Footer Content */}
       <div className="mx-auto max-w-7xl px-6 py-16 sm:px-12 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
-          {/* Column 1: Brand */}
-          <div className="space-y-8">
-            <div className="flex flex-col gap-6">
+          
+          {/* Column 1: Brand & Academic Credentials */}
+          <div className="space-y-6">
+            <div className="flex flex-col gap-4">
               <Logo variant="footer" size="lg" showTagline={true} />
-              <p className="text-gray-400 text-sm font-medium leading-relaxed max-w-xs">
-                Your ultimate destination for Admissions 2027, career counselling, and premium education roadmaps. We help you build a 10x career.
+              <p className="text-slate-400 text-sm font-normal leading-relaxed">
+                India's premier strategic higher-education counselling and MBA/PGDM discovery portal. Certified mentorship for ambitious career growth.
               </p>
             </div>
 
-            <div className="flex flex-wrap gap-3">
+            {/* Mentor Badge */}
+            <div className="inline-flex items-center gap-2.5 px-3.5 py-2 rounded-xl bg-white/5 border border-white/10 text-xs font-semibold text-blue-200">
+              <GraduationCap className="w-4 h-4 text-amber-300 shrink-0" />
+              <span>IIM Bangalore &amp; FMS Certified Mentor</span>
+            </div>
+
+            {/* Social Icons */}
+            <div className="flex flex-wrap gap-2.5 pt-1">
               {socials.map((social, idx) => (
                 <a 
                   key={idx}
                   href={social.href} 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className={`bg-white/5 p-3 rounded-xl border border-white/10 backdrop-blur-sm transition-all duration-300 ${social.color} hover:scale-110 hover:border-white/30`}
+                  className={`bg-white/5 p-2.5 rounded-xl border border-white/10 text-slate-400 transition-all duration-300 ${social.color} hover:scale-105`}
                   aria-label={social.label}
                 >
                   {social.icon}
@@ -135,75 +159,89 @@ export function Footer() {
               ))}
             </div>
 
-            <div className="space-y-3">
-               <a href="tel:+919560020771" className="flex items-center gap-3 text-gray-400 hover:text-primary transition-colors text-sm font-bold">
-                 <Phone size={16} className="text-primary" /> +91 95600 20771
-               </a>
-               <a href="mailto:info@careerwithmohit.online" className="flex items-center gap-3 text-gray-400 hover:text-primary transition-colors text-sm font-bold">
-                 <Mail size={16} className="text-primary" /> info@careerwithmohit.online
-               </a>
+            {/* Direct Contact Links */}
+            <div className="space-y-2.5 pt-2 border-t border-white/10">
+              <a href="tel:+919560020771" className="flex items-center gap-2.5 text-slate-400 hover:text-white transition-colors text-sm font-medium">
+                <Phone size={15} className="text-blue-400 shrink-0" /> +91 95600 20771
+              </a>
+              <a href="mailto:info@careerwithmohit.online" className="flex items-center gap-2.5 text-slate-400 hover:text-white transition-colors text-sm font-medium">
+                <Mail size={15} className="text-blue-400 shrink-0" /> info@careerwithmohit.online
+              </a>
             </div>
           </div>
 
-          {/* Column 2: Quick Links */}
-          <div className="space-y-6">
-            <h3 className="text-sm font-black uppercase tracking-[0.2em] text-primary flex items-center gap-2">
-              <span className="w-4 h-[2px] bg-primary"></span> Quick Links
+          {/* Column 2: Programs & Admissions */}
+          <div className="space-y-5">
+            <h3 className="text-xs font-bold uppercase tracking-wider text-blue-400 flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-blue-500"></span>
+              Programs &amp; Admissions
             </h3>
-            <ul className="space-y-4">
-              {footerLinks.quickLinks.map((link, idx) => (
+            <ul className="space-y-3">
+              {footerLinks.programs.map((link, idx) => (
                 <li key={idx}>
                   <Link 
                     href={link.href} 
                     prefetch={false}
-                    className="text-gray-400 hover:text-white transition-all flex items-center gap-2 group text-sm font-bold"
+                    className="text-slate-400 hover:text-white transition-all flex items-center gap-2 group text-sm font-medium"
                   >
-                    <ArrowRight size={14} className="opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-primary" />
-                    {link.name}
+                    <ArrowRight size={13} className="opacity-0 -translate-x-1.5 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-blue-400 shrink-0" />
+                    <span>{link.name}</span>
+                    {link.badge && (
+                      <span className="bg-blue-500/20 text-blue-300 text-[9px] px-1.5 py-0.5 rounded-md border border-blue-400/30 font-bold ml-1.5 uppercase">
+                        {link.badge}
+                      </span>
+                    )}
                   </Link>
                 </li>
               ))}
             </ul>
           </div>
 
-          {/* Column 3: Predictors */}
-          <div className="space-y-6">
-            <h3 className="text-sm font-black uppercase tracking-[0.2em] text-secondary flex items-center gap-2">
-              <span className="w-4 h-[2px] bg-secondary"></span> Predictors
+          {/* Column 3: Tools & Predictors */}
+          <div className="space-y-5">
+            <h3 className="text-xs font-bold uppercase tracking-wider text-emerald-400 flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-emerald-500"></span>
+              Cutoff Tools &amp; Mocks
             </h3>
-            <ul className="space-y-4">
-              {footerLinks.predictors.map((link, idx) => (
+            <ul className="space-y-3">
+              {footerLinks.tools.map((link, idx) => (
                 <li key={idx}>
                   <Link 
                     href={link.href} 
                     prefetch={false}
-                    className={`${link.color || 'text-gray-400'} hover:text-white transition-all flex items-center gap-2 group text-sm font-black italic`}
+                    className="text-slate-400 hover:text-white transition-all flex items-center gap-2 group text-sm font-medium"
                   >
-                    <ArrowRight size={14} className="opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-white" />
-                    {link.name}
+                    <ArrowRight size={13} className="opacity-0 -translate-x-1.5 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-emerald-400 shrink-0" />
+                    <span>{link.name}</span>
+                    {link.badge && (
+                      <span className="bg-emerald-500/20 text-emerald-300 text-[9px] px-1.5 py-0.5 rounded-md border border-emerald-400/30 font-bold ml-1.5 uppercase">
+                        {link.badge}
+                      </span>
+                    )}
                   </Link>
                 </li>
               ))}
             </ul>
           </div>
 
-          {/* Column 4: Resources */}
-          <div className="space-y-6">
-            <h3 className="text-sm font-black uppercase tracking-[0.2em] text-accent flex items-center gap-2">
-              <span className="w-4 h-[2px] bg-accent"></span> Resources
+          {/* Column 4: Educational Resources */}
+          <div className="space-y-5">
+            <h3 className="text-xs font-bold uppercase tracking-wider text-amber-400 flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-amber-500"></span>
+              Resources &amp; Guides
             </h3>
-            <ul className="space-y-4">
+            <ul className="space-y-3">
               {footerLinks.resources.map((link, idx) => (
                 <li key={idx}>
                   <Link 
                     href={link.href} 
                     prefetch={false}
-                    className="text-gray-400 hover:text-white transition-all flex items-center gap-2 group text-sm font-bold"
+                    className="text-slate-400 hover:text-white transition-all flex items-center gap-2 group text-sm font-medium"
                   >
-                    <ArrowRight size={14} className="opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-accent" />
-                    {link.name}
+                    <ArrowRight size={13} className="opacity-0 -translate-x-1.5 group-hover:opacity-100 group-hover:translate-x-0 transition-all text-amber-400 shrink-0" />
+                    <span>{link.name}</span>
                     {link.badge && (
-                      <span className="bg-accent/20 text-accent text-[8px] px-1.5 py-0.5 rounded-full border border-accent/30 font-black ml-2 uppercase">
+                      <span className="bg-amber-500/20 text-amber-300 text-[9px] px-1.5 py-0.5 rounded-md border border-amber-400/30 font-bold ml-1.5 uppercase">
                         {link.badge}
                       </span>
                     )}
@@ -216,28 +254,38 @@ export function Footer() {
         </div>
 
         {/* BOTTOM BAR */}
-        <div className="mt-16 pt-8 flex flex-col md:flex-row items-center justify-between border-t border-white/10 gap-8">
-          <div className="text-xs font-bold text-gray-500 flex flex-col md:flex-row items-center gap-4 text-center md:text-left">
+        <div className="mt-14 pt-8 flex flex-col md:flex-row items-center justify-between border-t border-white/10 gap-6">
+          <div className="text-xs font-medium text-slate-500 flex flex-col sm:flex-row items-center gap-3 text-center sm:text-left">
             <span>© {currentYear} CareerWithMohit. All rights reserved.</span>
+            <span className="hidden sm:inline text-slate-700">•</span>
+            <span className="flex items-center gap-1 text-slate-400">
+              <ShieldCheck className="w-3.5 h-3.5 text-blue-400" />
+              AICTE &amp; UGC Accredited Advisory
+            </span>
           </div>
-          <div className="flex gap-6 items-center flex-wrap justify-center md:justify-end">
+          
+          <div className="flex gap-5 items-center flex-wrap justify-center md:justify-end">
             {visits !== null && (
-              <div className="flex items-center gap-2 bg-white/5 border border-white/10 px-3 py-1.5 rounded-lg text-xs font-black tracking-widest text-gray-400">
+              <div className="flex items-center gap-2 bg-white/5 border border-white/10 px-3 py-1 rounded-lg text-xs font-semibold text-slate-400">
                 <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-                VISITS: <span className="text-white">{(visits + 24850).toLocaleString()}</span>
+                <span>Visits: <strong className="text-white font-bold">{(visits + 24850).toLocaleString()}</strong></span>
               </div>
             )}
-            <Link href="/privacy" prefetch={false} className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Privacy Policy</Link>
-            <Link href="/terms" prefetch={false} className="text-gray-500 hover:text-white text-xs font-black uppercase transition-colors tracking-widest">Terms of Service</Link>
+            <Link href="/privacy" prefetch={false} className="text-slate-500 hover:text-white text-xs font-medium transition-colors">
+              Privacy Policy
+            </Link>
+            <Link href="/terms" prefetch={false} className="text-slate-500 hover:text-white text-xs font-medium transition-colors">
+              Terms of Service
+            </Link>
           </div>
         </div>
       </div>
 
-      {/* Show under the footer section */}
-      <div className="w-full bg-black/40 border-t border-white/10 py-6 relative z-10 text-center">
+      {/* Sub-footer Brand Message */}
+      <div className="w-full bg-[#03070E] border-t border-white/5 py-4 relative z-10 text-center">
         <div className="max-w-7xl mx-auto px-6">
-          <p className="font-display text-sm md:text-base font-black tracking-[0.3em] uppercase bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent inline-block">
-            Built for 10x Career Growth
+          <p className="text-xs font-medium tracking-wider text-slate-400">
+            Empowering Ambitious Students &amp; Working Professionals Across India with Data-Driven Higher-Education Mentorship
           </p>
         </div>
       </div>
