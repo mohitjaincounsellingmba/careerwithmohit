@@ -99,3 +99,11 @@ If you have clarity on your career path (e.g. Investment Banking, FinTech, or Di
 Get personalized 1-on-1 career counselling, GD-PI preparation tips, college shortlisting based on your percentile & budget, and direct application assistance.
 
 👉 **[Click Here to Connect with Our Chief MBA Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20MBA/PGDM%202027-2029%20Admission%20Guidance)** or request a free callback through our inquiry desk.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

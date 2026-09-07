@@ -54,3 +54,11 @@ PIBM Pune, RIIM Pune, and Lexicon MILE offer the strongest ROI in the ₹6.5L �
 Get 1-on-1 profile evaluation, Pune college comparison, hostel and fee structure breakdown, and direct application support.
 
 👉 **[Click Here to Connect with Our Pune MBA Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20Pune%20MBA/PGDM%202027-2029%20Admission%20Guidance)** or reach out via our callback desk.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

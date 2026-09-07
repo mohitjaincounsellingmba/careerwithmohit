@@ -86,3 +86,11 @@ Early phase applications open between September and December 2026. Round 1 and R
 Connect with our senior education counsellors for campus visits, fee concessions, GD-PI mock sessions, and direct application assistance.
 
 👉 **[Click Here to Connect with Our Chief MBA Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20Delhi%20NCR%20MBA/PGDM%202027-2029%20Admission%20Guidance)** or submit your profile through our inquiry form.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

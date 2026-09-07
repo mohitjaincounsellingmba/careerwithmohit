@@ -54,3 +54,11 @@ No, KMAT is an optional state exam. National entrance tests including MAT, CAT, 
 Get personalized 1-on-1 career counselling, college comparison, and direct application assistance for Bangalore business schools.
 
 👉 **[Click Here to Connect with Our Bangalore MBA Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20Bangalore%20MBA/PGDM%202027-2029%20Admission%20Guidance)** or submit your profile through our callback desk.
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
