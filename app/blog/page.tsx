@@ -39,28 +39,45 @@ export default function BlogPage() {
   };
 
   return (
-    <div className="w-full bg-muted min-h-screen px-6 py-24 sm:px-12 sm:py-32 border-t-8 border-foreground">
+    <div className="w-full bg-slate-50 min-h-screen">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
-      <div className="mx-auto max-w-7xl">
-        <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8 text-center md:text-left">
+
+      {/* Modern EdTech Academic Hero Banner */}
+      <section className="relative overflow-hidden bg-gradient-to-b from-[#0A192F] via-[#0F2744] to-[#123058] text-white py-16 sm:py-24 px-6 sm:px-12 border-b border-blue-900/40">
+        {/* Ambient Glows */}
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[320px] bg-blue-500/15 blur-[120px] pointer-events-none rounded-full" />
+        <div className="absolute -bottom-20 -right-20 w-80 h-80 bg-indigo-500/15 blur-[100px] pointer-events-none rounded-full" />
+
+        <div className="mx-auto max-w-7xl relative z-10 text-center md:text-left">
           <div className="max-w-3xl">
-            <h1 className="font-display text-5xl font-extrabold tracking-tighter text-foreground sm:text-7xl uppercase flex flex-col sm:flex-row items-center sm:items-end gap-4 justify-center md:justify-start">
-              Our <span className="bg-primary text-white px-2 py-1 inline-block -rotate-2 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">Blog</span>
-              <span className="text-2xl sm:text-3xl font-black bg-accent text-foreground px-4 py-1 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] uppercase tracking-tighter">
-                {allPostsData.length} Posts
-              </span>
+            <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/10 border border-white/15 text-blue-200 text-xs sm:text-sm font-semibold mb-6 backdrop-blur-md">
+              <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+              <span>Admissions 2027 Intelligence</span>
+              <span className="text-blue-300">•</span>
+              <span className="text-amber-300 font-bold">{allPostsData.length.toLocaleString()} Articles</span>
+            </div>
+
+            <h1 className="font-display text-4xl sm:text-6xl font-extrabold tracking-tight text-white leading-tight">
+              Educational Intel &amp; <br className="hidden sm:inline" />
+              <span className="text-amber-300">Career Insights</span>
             </h1>
-            <p className="mt-8 text-2xl font-bold text-gray-600 leading-relaxed italic">
-              "Providing Uncompromised Insights &amp; Guidance for Your Academic Excellence — Easily Filter by Your Desired Category Below."
+
+            <p className="mt-4 text-base sm:text-lg text-blue-100/80 leading-relaxed font-normal">
+              Uncompromised B-school cutoffs, true placement ROI analysis, exam strategy, and verified career guidance to empower your academic journey.
             </p>
           </div>
         </div>
+      </section>
 
+      {/* Main Blog Body */}
+      <div className="mx-auto max-w-7xl px-6 py-12 sm:px-12">
         {/* Display Ad unit on main Blog listing page */}
-        <AdUnit slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_BLOG_LIST || "5687069123"} />
+        <div className="mb-10">
+          <AdUnit slot={process.env.NEXT_PUBLIC_ADSENSE_SLOT_BLOG_LIST || "5687069123"} />
+        </div>
 
         <BlogList initialPosts={allPostsData} />
       </div>

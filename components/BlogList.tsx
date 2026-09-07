@@ -59,97 +59,111 @@ const CATEGORY_CONFIG: Record<string, {
   color: string;
   bgLight: string;
   border: string;
+  badge: string;
   description: string;
 }> = {
   'All Posts': {
     icon: Layers,
-    color: 'bg-primary text-white',
-    bgLight: 'bg-blue-50 text-blue-950',
-    border: 'border-primary',
+    color: 'text-blue-600',
+    bgLight: 'bg-blue-50 text-blue-700',
+    border: 'border-blue-200',
+    badge: 'bg-blue-50 text-blue-700 border-blue-200',
     description: 'Explore our complete library of academic & career guidance articles.'
   },
   'MBA & PGDM': {
     icon: GraduationCap,
-    color: 'bg-amber-500 text-white',
-    bgLight: 'bg-amber-50 text-amber-950',
-    border: 'border-amber-600',
+    color: 'text-amber-600',
+    bgLight: 'bg-amber-50 text-amber-700',
+    border: 'border-amber-200',
+    badge: 'bg-amber-50 text-amber-800 border-amber-200',
     description: 'IIM cutoffs, B-school rankings, placement reports & exam strategies.'
   },
   'Online Degrees': {
     icon: Laptop,
-    color: 'bg-indigo-600 text-white',
-    bgLight: 'bg-indigo-50 text-indigo-950',
-    border: 'border-indigo-600',
+    color: 'text-indigo-600',
+    bgLight: 'bg-indigo-50 text-indigo-700',
+    border: 'border-indigo-200',
+    badge: 'bg-indigo-50 text-indigo-700 border-indigo-200',
     description: 'UGC-entitled Online MBA, BBA & MCA degree reviews & fee comparisons.'
   },
   'Jobs & Careers': {
     icon: Briefcase,
-    color: 'bg-emerald-600 text-white',
-    bgLight: 'bg-emerald-50 text-emerald-950',
-    border: 'border-emerald-600',
+    color: 'text-emerald-600',
+    bgLight: 'bg-emerald-50 text-emerald-700',
+    border: 'border-emerald-200',
+    badge: 'bg-emerald-50 text-emerald-700 border-emerald-200',
     description: 'High-paying career paths, corporate hiring trends & salary roadmaps.'
   },
   'B.Tech & Engineering': {
     icon: Code,
-    color: 'bg-blue-600 text-white',
-    bgLight: 'bg-blue-50 text-blue-950',
-    border: 'border-blue-600',
+    color: 'text-cyan-600',
+    bgLight: 'bg-cyan-50 text-cyan-700',
+    border: 'border-cyan-200',
+    badge: 'bg-cyan-50 text-cyan-700 border-cyan-200',
     description: 'IITs, NITs, private engineering colleges & entrance exam guidance.'
   },
   'BBA & BMS': {
     icon: BookOpen,
-    color: 'bg-purple-600 text-white',
-    bgLight: 'bg-purple-50 text-purple-950',
-    border: 'border-purple-600',
+    color: 'text-purple-600',
+    bgLight: 'bg-purple-50 text-purple-700',
+    border: 'border-purple-200',
+    badge: 'bg-purple-50 text-purple-700 border-purple-200',
     description: 'Top BBA colleges, CUET admission cutoffs & undergrad management.'
   },
   'Exams & Admissions': {
     icon: Award,
-    color: 'bg-rose-600 text-white',
-    bgLight: 'bg-rose-50 text-rose-950',
-    border: 'border-rose-600',
+    color: 'text-rose-600',
+    bgLight: 'bg-rose-50 text-rose-700',
+    border: 'border-rose-200',
+    badge: 'bg-rose-50 text-rose-700 border-rose-200',
     description: 'CAT, XAT, CUET, MAT prep guides, registration dates & score calculators.'
   },
   'Medical & MBBS': {
     icon: Stethoscope,
-    color: 'bg-teal-600 text-white',
-    bgLight: 'bg-teal-50 text-teal-950',
-    border: 'border-teal-600',
+    color: 'text-teal-600',
+    bgLight: 'bg-teal-50 text-teal-700',
+    border: 'border-teal-200',
+    badge: 'bg-teal-50 text-teal-700 border-teal-200',
     description: 'NEET counseling, top medical colleges & MBBS abroad guides.'
   },
   'General & Career Guide': {
     icon: Compass,
-    color: 'bg-slate-700 text-white',
-    bgLight: 'bg-slate-100 text-slate-900',
-    border: 'border-slate-700',
+    color: 'text-slate-600',
+    bgLight: 'bg-slate-100 text-slate-700',
+    border: 'border-slate-200',
+    badge: 'bg-slate-100 text-slate-700 border-slate-200',
     description: 'Comprehensive career counseling, study abroad & specializations.'
   },
   'BCA & MCA': {
     icon: Globe,
-    color: 'bg-sky-600 text-white',
-    bgLight: 'bg-sky-50 text-sky-950',
-    border: 'border-sky-600',
+    color: 'text-sky-600',
+    bgLight: 'bg-sky-50 text-sky-700',
+    border: 'border-sky-200',
+    badge: 'bg-sky-50 text-sky-700 border-sky-200',
     description: 'Computer applications, software careers & MCA admissions.'
   },
   'Business & Finance': {
     icon: Sparkles,
-    color: 'bg-cyan-600 text-white',
-    bgLight: 'bg-cyan-50 text-cyan-950',
-    border: 'border-cyan-600',
+    color: 'text-violet-600',
+    bgLight: 'bg-violet-50 text-violet-700',
+    border: 'border-violet-200',
+    badge: 'bg-violet-50 text-violet-700 border-violet-200',
     description: 'SaaS business models, finance specializations & industry insights.'
   },
   'College Reviews': {
     icon: Building2,
-    color: 'bg-orange-600 text-white',
-    bgLight: 'bg-orange-50 text-orange-950',
-    border: 'border-orange-600',
+    color: 'text-orange-600',
+    bgLight: 'bg-orange-50 text-orange-700',
+    border: 'border-orange-200',
+    badge: 'bg-orange-50 text-orange-700 border-orange-200',
     description: 'Unbiased college reviews, campus life & head-to-head comparisons.'
   },
   'Law': {
     icon: FileText,
-    color: 'bg-violet-600 text-white',
-    bgLight: 'bg-violet-50 text-violet-950',
-    border: 'border-violet-600',
+    color: 'text-fuchsia-600',
+    bgLight: 'bg-fuchsia-50 text-fuchsia-700',
+    border: 'border-fuchsia-200',
+    badge: 'bg-fuchsia-50 text-fuchsia-700 border-fuchsia-200',
     description: 'CLAT, AILET, top law universities & legal career roadmaps.'
   }
 };
@@ -358,21 +372,22 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
       {/* =========================================================================
           SECTION 1: SPOTLIGHT - EXPLORE BY DESIRE CATEGORY
           ========================================================================= */}
-      <div className="mb-20">
-        <div className="mb-8 flex flex-col md:flex-row md:items-end justify-between gap-4 border-b-4 border-foreground pb-6">
+      <div className="mb-16">
+        <div className="mb-8 flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-200/80 pb-6">
           <div>
-            <span className="inline-block px-3 py-1 bg-accent text-foreground text-xs font-black uppercase tracking-widest border-2 border-foreground mb-3 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
-              Quick Navigation
+            <span className="inline-flex items-center gap-1.5 px-3 py-1 bg-blue-50 text-blue-700 text-xs font-semibold rounded-full border border-blue-200/80 mb-3">
+              <Sparkles className="w-3.5 h-3.5 text-blue-600" />
+              Specialized Portals
             </span>
-            <h2 className="font-display text-3xl sm:text-4xl font-black tracking-tight text-foreground uppercase">
+            <h2 className="font-display text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900">
               Explore by Desire Category
             </h2>
-            <p className="mt-2 text-gray-600 text-lg font-bold">
-              Select your domain of interest to discover specialized guidance & academic insights.
+            <p className="mt-1.5 text-slate-600 text-base font-normal">
+              Select your domain of interest to discover specialized guidance &amp; academic insights.
             </p>
           </div>
-          <div className="text-right">
-            <span className="text-sm font-black uppercase text-gray-500 tracking-wider">
+          <div className="text-left md:text-right">
+            <span className="inline-block px-3 py-1 rounded-full bg-slate-100 text-slate-600 text-xs font-semibold">
               12 Categories &bull; {initialPosts.length.toLocaleString()} Articles
             </span>
           </div>
@@ -392,37 +407,37 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
                   handleCategorySelect(catName);
                   scrollToFilterBar();
                 }}
-                className={`group text-left relative p-6 rounded-xl border-4 border-foreground transition-all duration-200 cursor-pointer ${
+                className={`group text-left relative p-6 rounded-2xl border transition-all duration-300 cursor-pointer ${
                   isSelected
-                    ? 'bg-primary text-white scale-[1.02] shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]'
-                    : 'bg-white hover:bg-gray-50 hover:scale-[1.02] hover:-translate-y-1 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]'
+                    ? 'bg-blue-50/50 border-blue-500 shadow-md ring-2 ring-blue-500/20'
+                    : 'bg-white border-slate-200/90 hover:border-blue-300 hover:shadow-xl hover:-translate-y-1.5 shadow-sm'
                 }`}
               >
                 <div className="flex items-start justify-between gap-4 mb-4">
                   <div
-                    className={`h-14 w-14 rounded-xl border-4 border-foreground flex items-center justify-center transition-transform group-hover:rotate-6 ${
-                      isSelected ? 'bg-white text-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]' : `${config.bgLight}`
-                    }`}
+                    className={`h-12 w-12 rounded-xl flex items-center justify-center transition-transform group-hover:scale-110 ${config.bgLight}`}
                   >
-                    <IconComponent className="h-7 w-7 stroke-[2.5]" />
+                    <IconComponent className="h-6 w-6 stroke-[2]" />
                   </div>
                   <span
-                    className={`px-3 py-1 rounded-full text-xs font-black uppercase tracking-wider border-2 border-foreground ${
-                      isSelected ? 'bg-accent text-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]' : 'bg-gray-100 text-foreground'
+                    className={`px-3 py-1 rounded-full text-xs font-semibold transition-colors ${
+                      isSelected
+                        ? 'bg-blue-600 text-white shadow-sm'
+                        : 'bg-slate-100 text-slate-600 group-hover:bg-blue-50 group-hover:text-blue-700'
                     }`}
                   >
                     {count.toLocaleString()} Posts
                   </span>
                 </div>
-                <h3 className={`font-display text-2xl font-black uppercase tracking-tight mb-2 ${isSelected ? 'text-white' : 'text-foreground group-hover:text-primary'}`}>
+                <h3 className={`font-display text-xl font-bold tracking-tight mb-2 ${isSelected ? 'text-blue-900' : 'text-slate-900 group-hover:text-blue-600'} transition-colors`}>
                   {catName}
                 </h3>
-                <p className={`text-sm font-semibold line-clamp-2 leading-relaxed ${isSelected ? 'text-blue-100' : 'text-gray-600'}`}>
+                <p className="text-sm font-normal text-slate-600 line-clamp-2 leading-relaxed">
                   {config.description}
                 </p>
-                <div className={`mt-4 flex items-center gap-1.5 text-xs font-black uppercase tracking-widest ${isSelected ? 'text-accent' : 'text-primary group-hover:text-foreground'}`}>
-                  <span>{isSelected ? 'Currently Selected' : 'Filter Articles'}</span>
-                  <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
+                <div className={`mt-4 flex items-center gap-1.5 text-xs font-semibold tracking-wide ${isSelected ? 'text-blue-600 font-bold' : 'text-slate-500 group-hover:text-blue-600'} transition-colors`}>
+                  <span>{isSelected ? 'Currently Selected' : 'Explore Articles'}</span>
+                  <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-1" />
                 </div>
               </button>
             );
@@ -431,28 +446,28 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
       </div>
 
       {/* =========================================================================
-          SECTION 2: STICKY FILTER BAR & SEARCH CONTROLS
+          SECTION 2: FILTER BAR & SEARCH CONTROLS
           ========================================================================= */}
-      <div id="blog-filter-section" className="scroll-mt-28 mb-12 bg-white p-6 sm:p-8 rounded-2xl border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+      <div id="blog-filter-section" className="scroll-mt-28 mb-12 bg-white p-6 sm:p-7 rounded-2xl border border-slate-200 shadow-sm">
         {/* TOP ROW: CATEGORY PILLS FILTER BAR */}
-        <div className="mb-8">
+        <div className="mb-6">
           <div className="flex items-center justify-between mb-4">
-            <div className="flex items-center gap-2 text-sm font-black uppercase tracking-wider text-foreground">
-              <Filter className="w-4 h-4 stroke-[3]" />
-              <span>Filter By Category:</span>
+            <div className="flex items-center gap-2 text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-700">
+              <Filter className="w-4 h-4 text-blue-600 stroke-[2.5]" />
+              <span>Filter By Domain:</span>
             </div>
             {selectedCategory !== 'All Posts' && (
               <button
                 onClick={() => handleCategorySelect('All Posts')}
-                className="text-xs font-black uppercase tracking-wider text-primary hover:underline flex items-center gap-1"
+                className="text-xs font-semibold text-blue-600 hover:text-blue-800 hover:underline flex items-center gap-1"
               >
-                <span>Show All Categories</span>
+                <span>Reset to All</span>
                 <X className="w-3.5 h-3.5" />
               </button>
             )}
           </div>
 
-          <div className="flex flex-wrap gap-2.5 max-h-[220px] overflow-y-auto pr-2 py-1 scrollbar-thin">
+          <div className="flex flex-wrap gap-2 max-h-[220px] overflow-y-auto pr-2 py-1 scrollbar-thin">
             {BLOG_CATEGORIES.map((catName) => {
               const config = CATEGORY_CONFIG[catName] || CATEGORY_CONFIG['General & Career Guide'];
               const IconComponent = config.icon;
@@ -463,17 +478,17 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
                 <button
                   key={catName}
                   onClick={() => handleCategorySelect(catName)}
-                  className={`group inline-flex items-center gap-2.5 px-4 py-2.5 rounded-xl border-3 border-foreground font-black text-sm uppercase tracking-wide transition-all cursor-pointer ${
+                  className={`group inline-flex items-center gap-2 px-3.5 py-2 rounded-xl font-semibold text-xs sm:text-sm transition-all cursor-pointer ${
                     isSelected
-                      ? 'bg-primary text-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] -translate-y-0.5 scale-[1.03]'
-                      : 'bg-gray-50 text-foreground hover:bg-white hover:shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-0.5'
+                      ? 'bg-blue-600 text-white shadow-md shadow-blue-500/20 scale-[1.02]'
+                      : 'bg-slate-50 text-slate-700 border border-slate-200/80 hover:bg-slate-100 hover:border-slate-300'
                   }`}
                 >
-                  <IconComponent className={`w-4 h-4 stroke-[2.5] ${isSelected ? 'text-accent' : 'text-primary'}`} />
+                  <IconComponent className={`w-4 h-4 stroke-[2] ${isSelected ? 'text-white' : config.color}`} />
                   <span>{catName}</span>
                   <span
-                    className={`ml-1 px-2 py-0.5 rounded-full text-xs font-black border border-foreground ${
-                      isSelected ? 'bg-accent text-foreground' : 'bg-gray-200 text-gray-800 group-hover:bg-primary group-hover:text-white'
+                    className={`ml-1 px-2 py-0.5 rounded-full text-xs font-medium ${
+                      isSelected ? 'bg-blue-700 text-white' : 'bg-slate-200/80 text-slate-600 group-hover:bg-slate-300'
                     }`}
                   >
                     {count.toLocaleString()}
@@ -485,45 +500,45 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
         </div>
 
         {/* BOTTOM ROW: SEARCH BOX & SORT BY DROPDOWN */}
-        <div className="pt-6 border-t-4 border-foreground flex flex-col md:flex-row items-stretch md:items-center justify-between gap-4">
+        <div className="pt-6 border-t border-slate-200/80 flex flex-col md:flex-row items-stretch md:items-center justify-between gap-4">
           {/* Search Box */}
           <div className="relative flex-grow max-w-xl">
             <div className="relative flex items-center">
-              <Search className="absolute left-4 w-5 h-5 text-gray-500 stroke-[2.5] pointer-events-none" />
+              <Search className="absolute left-4 w-4 h-4 text-slate-400 stroke-[2] pointer-events-none" />
               <input
                 type="text"
-                placeholder={`Search in "${selectedCategory}" (by title, keyword or topic)...`}
+                placeholder={`Search in "${selectedCategory}" (by topic, college or keyword)...`}
                 value={searchQuery}
                 onChange={handleSearchChange}
-                className="w-full h-13 pl-12 pr-11 bg-slate-50 border-3 border-foreground rounded-xl text-base font-bold text-foreground placeholder:text-gray-500 focus:outline-none focus:bg-white focus:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all"
+                className="w-full h-11 pl-11 pr-10 bg-slate-50/80 border border-slate-200 rounded-xl text-sm font-medium text-slate-900 placeholder:text-slate-400 focus:outline-none focus:bg-white focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 transition-all"
               />
               {searchQuery && (
                 <button
                   onClick={handleClearSearch}
                   aria-label="Clear search"
-                  className="absolute right-3.5 p-1 rounded-full bg-gray-200 hover:bg-gray-300 text-foreground transition-colors"
+                  className="absolute right-3 p-1 rounded-full bg-slate-200 hover:bg-slate-300 text-slate-600 transition-colors"
                 >
-                  <X className="w-4 h-4 stroke-[3]" />
+                  <X className="w-3.5 h-3.5 stroke-[2.5]" />
                 </button>
               )}
             </div>
           </div>
 
           {/* Sort By and Result Counter */}
-          <div className="flex flex-wrap items-center justify-between md:justify-end gap-4">
-            <div className="text-sm font-black uppercase text-foreground bg-accent px-3 py-2 rounded-lg border-2 border-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+          <div className="flex flex-wrap items-center justify-between md:justify-end gap-3">
+            <div className="text-xs font-bold text-blue-700 bg-blue-50 border border-blue-200/80 px-3 py-2 rounded-xl">
               {filteredPosts.length.toLocaleString()} {filteredPosts.length === 1 ? 'Article' : 'Articles'}
             </div>
 
             <div className="flex items-center gap-2">
-              <label htmlFor="sort-select" className="text-xs font-black uppercase tracking-wider text-gray-600">
+              <label htmlFor="sort-select" className="text-xs font-medium uppercase tracking-wider text-slate-500">
                 Sort:
               </label>
               <select
                 id="sort-select"
                 value={sortBy}
                 onChange={(e) => handleSortChange(e.target.value as 'latest' | 'views' | 'oldest')}
-                className="h-11 px-3 py-1 bg-white border-3 border-foreground rounded-lg text-sm font-black uppercase text-foreground focus:outline-none focus:shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] cursor-pointer"
+                className="h-10 px-3 py-1 bg-white border border-slate-200 rounded-xl text-xs sm:text-sm font-medium text-slate-700 focus:outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer"
               >
                 <option value="latest">Latest Published</option>
                 <option value="views">Most Viewed</option>
@@ -535,9 +550,9 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
               <button
                 onClick={handleResetFilters}
                 title="Reset all filters"
-                className="h-11 px-3.5 bg-gray-100 hover:bg-rose-50 hover:text-rose-600 text-foreground border-3 border-foreground rounded-lg text-xs font-black uppercase tracking-wider flex items-center gap-1.5 transition-colors cursor-pointer"
+                className="h-10 px-3.5 bg-slate-100 hover:bg-rose-50 hover:text-rose-600 text-slate-700 border border-slate-200 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-colors cursor-pointer"
               >
-                <RotateCcw className="w-3.5 h-3.5 stroke-[2.5]" />
+                <RotateCcw className="w-3.5 h-3.5 stroke-[2]" />
                 <span>Reset</span>
               </button>
             )}
@@ -549,36 +564,38 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
           SECTION 3: SELECTED CATEGORY HERO HEADER
           ========================================================================= */}
       {selectedCategory !== 'All Posts' && (
-        <div className="mb-12 p-6 sm:p-8 rounded-2xl bg-slate-900 text-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(59,130,246,1)] flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
-          <div className="flex items-center gap-5">
+        <div className="mb-12 p-6 sm:p-8 rounded-2xl bg-gradient-to-r from-[#0A192F] via-[#0F2744] to-[#123058] text-white border border-blue-900/40 shadow-lg flex flex-col md:flex-row items-start md:items-center justify-between gap-6 relative overflow-hidden">
+          <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/10 blur-[60px] pointer-events-none rounded-full" />
+          
+          <div className="flex items-center gap-5 relative z-10">
             {(() => {
               const config = CATEGORY_CONFIG[selectedCategory] || CATEGORY_CONFIG['General & Career Guide'];
               const IconComponent = config.icon;
               return (
-                <div className="h-16 w-16 rounded-2xl bg-primary text-white border-4 border-white flex items-center justify-center shadow-[4px_4px_0px_0px_rgba(255,255,255,1)] flex-shrink-0">
-                  <IconComponent className="h-8 w-8 stroke-[2.5]" />
+                <div className="h-14 w-14 rounded-2xl bg-white/10 text-amber-300 border border-white/20 flex items-center justify-center flex-shrink-0 shadow-sm backdrop-blur-md">
+                  <IconComponent className="h-7 w-7 stroke-[2]" />
                 </div>
               );
             })()}
             <div>
               <div className="flex items-center gap-2 mb-1">
-                <span className="px-2.5 py-0.5 rounded bg-accent text-foreground text-xs font-black uppercase tracking-wider">
-                  Category Filter
+                <span className="px-2.5 py-0.5 rounded-full bg-white/10 text-blue-200 text-xs font-semibold border border-white/10">
+                  Domain Filter Active
                 </span>
               </div>
-              <h3 className="font-display text-3xl sm:text-4xl font-black uppercase tracking-tight text-white">
+              <h3 className="font-display text-2xl sm:text-3xl font-extrabold tracking-tight text-white">
                 {selectedCategory}
               </h3>
-              <p className="mt-1 text-gray-300 text-base font-semibold max-w-2xl">
+              <p className="mt-1 text-blue-100/80 text-sm sm:text-base font-normal max-w-2xl">
                 {CATEGORY_CONFIG[selectedCategory]?.description || 'Explore curated articles & guidance in this domain.'}
               </p>
             </div>
           </div>
           <button
             onClick={() => handleCategorySelect('All Posts')}
-            className="px-5 py-2.5 rounded-xl bg-white text-foreground hover:bg-accent hover:text-foreground border-3 border-foreground font-black text-sm uppercase tracking-wider transition-all shadow-[4px_4px_0px_0px_rgba(255,255,255,0.2)] flex items-center gap-2 cursor-pointer"
+            className="relative z-10 px-4 py-2 rounded-xl bg-white/10 hover:bg-white/20 text-white border border-white/20 font-semibold text-xs sm:text-sm tracking-wide transition-all backdrop-blur-sm flex items-center gap-2 cursor-pointer"
           >
-            <X className="w-4 h-4 stroke-[3]" />
+            <X className="w-4 h-4 stroke-[2.5]" />
             <span>Clear Filter</span>
           </button>
         </div>
@@ -587,7 +604,7 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
       {/* =========================================================================
           SECTION 4: BLOG POSTS GRID
           ========================================================================= */}
-      <div className="grid gap-10 lg:grid-cols-3">
+      <div className="grid gap-8 lg:grid-cols-3">
         {paginatedPosts.length > 0 ? (
           paginatedPosts.map(({ slug, title, date, description, category, viewsCount }) => {
             const postCategory = category || 'General & Career Guide';
@@ -597,16 +614,16 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
             return (
               <div
                 key={slug}
-                className="group flex flex-col rounded-2xl border-4 border-foreground bg-white p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 hover:bg-gray-50 h-full shadow-[6px_6px_0px_0px_rgba(59,130,246,1)] relative overflow-hidden"
+                className="group flex flex-col rounded-2xl border border-slate-200/90 bg-white p-7 transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 hover:border-blue-300 shadow-sm relative overflow-hidden"
               >
                 {/* Top Badge Bar */}
-                <div className="flex flex-wrap gap-2.5 justify-between items-center mb-6">
-                  <div className="flex items-center gap-2.5">
-                    <div className="inline-block rounded-full bg-accent px-3.5 py-1 text-xs font-black uppercase tracking-wider text-foreground border-2 border-foreground">
+                <div className="flex flex-wrap gap-2 justify-between items-center mb-5">
+                  <div className="flex items-center gap-2">
+                    <span className="text-xs font-medium text-slate-500">
                       {new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
-                    </div>
-                    <div className="inline-flex items-center gap-1.5 rounded-full bg-blue-50 text-foreground px-3 py-1 text-xs font-black border-2 border-foreground">
-                      <Eye className="w-3.5 h-3.5 stroke-[2.5] text-primary" />
+                    </span>
+                    <div className="inline-flex items-center gap-1 rounded-full bg-slate-50 text-slate-600 px-2.5 py-0.5 text-xs font-medium border border-slate-200/60">
+                      <Eye className="w-3 h-3 text-slate-400 stroke-[2]" />
                       <span>{viewsCount.toLocaleString()}</span>
                     </div>
                   </div>
@@ -620,7 +637,7 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
                       scrollToFilterBar();
                     }}
                     title={`Filter by ${postCategory}`}
-                    className="inline-flex items-center gap-1.5 rounded-lg bg-secondary hover:bg-primary text-white px-3 py-1 text-xs font-black uppercase tracking-wider border-2 border-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] transition-colors cursor-pointer"
+                    className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-semibold border transition-all cursor-pointer ${catConfig.badge} hover:opacity-90`}
                   >
                     <CatIcon className="w-3.5 h-3.5" />
                     <span>{postCategory}</span>
@@ -628,20 +645,20 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
                 </div>
 
                 <Link href={`/blog/${slug}`} prefetch={false} className="flex flex-col flex-grow">
-                  <h3 className="font-display text-2xl font-bold tracking-tight text-foreground mb-4 group-hover:text-primary transition-colors line-clamp-3 leading-tight">
+                  <h3 className="font-display text-xl font-bold tracking-tight text-slate-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-3 leading-snug">
                     {title}
                   </h3>
                   {description && (
-                    <p className="text-gray-600 text-base font-semibold leading-relaxed mb-8 line-clamp-3">
+                    <p className="text-slate-600 text-sm font-normal leading-relaxed mb-6 line-clamp-3">
                       {description}
                     </p>
                   )}
-                  <div className="mt-auto pt-4 border-t-2 border-gray-100 flex items-center justify-between font-bold text-primary group-hover:text-foreground text-lg transition-colors">
+                  <div className="mt-auto pt-4 border-t border-slate-100 flex items-center justify-between font-semibold text-blue-600 text-sm group-hover:text-blue-700 transition-colors">
                     <span className="flex items-center">
-                      Read Article 
-                      <span className="ml-2 inline-block transition-transform duration-200 group-hover:translate-x-2">&rarr;</span>
+                      Read Analysis 
+                      <ArrowRight className="ml-1.5 w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" />
                     </span>
-                    <span className="text-xs font-black uppercase tracking-widest text-gray-400 group-hover:text-primary">
+                    <span className="text-xs font-medium text-slate-400">
                       Full Guide
                     </span>
                   </div>
@@ -650,21 +667,21 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
             );
           })
         ) : (
-          <div className="col-span-full py-24 text-center bg-white border-4 border-dashed border-gray-300 rounded-2xl px-6">
-            <div className="mx-auto w-20 h-20 rounded-full bg-gray-100 border-4 border-foreground flex items-center justify-center mb-6 text-gray-400">
-              <Search className="w-10 h-10 stroke-[2]" />
+          <div className="col-span-full py-20 text-center bg-white border border-dashed border-slate-300 rounded-2xl px-6 shadow-sm">
+            <div className="mx-auto w-16 h-16 rounded-full bg-slate-100 flex items-center justify-center mb-5 text-slate-400">
+              <Search className="w-8 h-8 stroke-[2]" />
             </div>
-            <h3 className="font-display text-3xl font-black uppercase tracking-tight text-foreground mb-2">
+            <h3 className="font-display text-2xl font-bold text-slate-900 mb-2">
               No Matching Articles Found
             </h3>
-            <p className="text-lg font-bold text-gray-500 max-w-md mx-auto mb-8">
-              We couldn&apos;t find any blog posts matching your current search or category filter.
+            <p className="text-base text-slate-500 max-w-md mx-auto mb-6 font-normal">
+              We couldn&apos;t find any articles matching your query or category filter. Try clearing filters or searching another keyword.
             </p>
             <button
               onClick={handleResetFilters}
-              className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-primary text-white font-black text-base uppercase tracking-wider border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transition-all cursor-pointer"
+              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-sm shadow-md transition-all cursor-pointer"
             >
-              <RotateCcw className="w-5 h-5 stroke-[2.5]" />
+              <RotateCcw className="w-4 h-4 stroke-[2]" />
               <span>Reset Filters &amp; View All Posts</span>
             </button>
           </div>
@@ -675,12 +692,12 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
           SECTION 5: PAGINATION CONTROLS
           ========================================================================= */}
       {totalPages > 1 && (
-        <div className="mt-16 pt-10 border-t-4 border-foreground flex flex-col sm:flex-row items-center justify-between gap-6">
-          <div className="text-base font-bold text-gray-600">
-            Showing <span className="font-black text-foreground">{(currentPage - 1) * postsPerPage + 1}</span> to{' '}
-            <span className="font-black text-foreground">{Math.min(currentPage * postsPerPage, filteredPosts.length)}</span> of{' '}
-            <span className="font-black text-foreground">{filteredPosts.length.toLocaleString()}</span> articles in{' '}
-            <span className="bg-accent px-2 py-0.5 rounded font-black text-foreground border border-foreground">
+        <div className="mt-14 pt-8 border-t border-slate-200/80 flex flex-col sm:flex-row items-center justify-between gap-5">
+          <div className="text-sm font-medium text-slate-600">
+            Showing <span className="font-semibold text-slate-900">{(currentPage - 1) * postsPerPage + 1}</span> to{' '}
+            <span className="font-semibold text-slate-900">{Math.min(currentPage * postsPerPage, filteredPosts.length)}</span> of{' '}
+            <span className="font-semibold text-slate-900">{filteredPosts.length.toLocaleString()}</span> articles in{' '}
+            <span className="bg-blue-50 text-blue-700 px-2.5 py-0.5 rounded-full font-semibold text-xs border border-blue-200/60">
               {selectedCategory}
             </span>
           </div>
@@ -693,13 +710,13 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
                 scrollToFilterBar();
               }}
               disabled={currentPage === 1}
-              className={`h-11 px-4 rounded-xl border-3 border-foreground font-black text-sm uppercase flex items-center gap-1.5 transition-all ${
+              className={`h-10 px-3.5 rounded-xl border border-slate-200 font-semibold text-xs uppercase flex items-center gap-1 transition-all ${
                 currentPage === 1
-                  ? 'bg-gray-100 text-gray-400 cursor-not-allowed opacity-60'
-                  : 'bg-white hover:bg-primary hover:text-white shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-0.5 cursor-pointer'
+                  ? 'bg-slate-50 text-slate-400 cursor-not-allowed opacity-60'
+                  : 'bg-white text-slate-700 hover:bg-slate-50 hover:border-slate-300 shadow-sm cursor-pointer'
               }`}
             >
-              <ChevronLeft className="w-4 h-4 stroke-[3]" />
+              <ChevronLeft className="w-4 h-4 stroke-[2.5]" />
               <span>Prev</span>
             </button>
 
@@ -728,7 +745,7 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
               return pages.map((p, idx) => {
                 if (p === '...') {
                   return (
-                    <span key={`ellipsis-${idx}`} className="px-2 font-black text-gray-400">
+                    <span key={`ellipsis-${idx}`} className="px-2 font-medium text-slate-400">
                       &hellip;
                     </span>
                   );
@@ -742,10 +759,10 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
                       setCurrentPage(pageNum);
                       scrollToFilterBar();
                     }}
-                    className={`h-11 w-11 rounded-xl border-3 border-foreground font-black text-sm transition-all cursor-pointer flex items-center justify-center ${
+                    className={`h-10 w-10 rounded-xl border font-semibold text-sm transition-all cursor-pointer flex items-center justify-center ${
                       isCurrent
-                        ? 'bg-primary text-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] -translate-y-0.5'
-                        : 'bg-white hover:bg-gray-50 text-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-0.5'
+                        ? 'bg-blue-600 text-white border-blue-600 shadow-md'
+                        : 'bg-white hover:bg-slate-50 text-slate-700 border-slate-200 shadow-sm'
                     }`}
                   >
                     {pageNum}
@@ -761,14 +778,14 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
                 scrollToFilterBar();
               }}
               disabled={currentPage === totalPages}
-              className={`h-11 px-4 rounded-xl border-3 border-foreground font-black text-sm uppercase flex items-center gap-1.5 transition-all ${
+              className={`h-10 px-3.5 rounded-xl border border-slate-200 font-semibold text-xs uppercase flex items-center gap-1 transition-all ${
                 currentPage === totalPages
-                  ? 'bg-gray-100 text-gray-400 cursor-not-allowed opacity-60'
-                  : 'bg-white hover:bg-primary hover:text-white shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-0.5 cursor-pointer'
+                  ? 'bg-slate-50 text-slate-400 cursor-not-allowed opacity-60'
+                  : 'bg-white text-slate-700 hover:bg-slate-50 hover:border-slate-300 shadow-sm cursor-pointer'
               }`}
             >
               <span>Next</span>
-              <ChevronRight className="w-4 h-4 stroke-[3]" />
+              <ChevronRight className="w-4 h-4 stroke-[2.5]" />
             </button>
           </div>
         </div>
@@ -781,10 +798,10 @@ export function BlogList(props: { initialPosts: PostData[] }) {
   return (
     <Suspense fallback={
       <div className="w-full py-20 text-center animate-pulse">
-        <div className="h-48 bg-gray-100 rounded-2xl border-4 border-foreground mb-12"></div>
-        <div className="grid gap-10 lg:grid-cols-3">
+        <div className="h-48 bg-slate-100 rounded-2xl border border-slate-200 mb-12"></div>
+        <div className="grid gap-8 lg:grid-cols-3">
           {[...Array(6)].map((_, i) => (
-            <div key={i} className="h-96 bg-gray-100 rounded-2xl border-4 border-foreground"></div>
+            <div key={i} className="h-96 bg-slate-100 rounded-2xl border border-slate-200"></div>
           ))}
         </div>
       </div>
