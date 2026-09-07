@@ -25,22 +25,22 @@ function SearchInputInner({ isMobile = false, onSearch }: { isMobile?: boolean, 
   return (
     <form 
       onSubmit={handleSearch} 
-      className={`relative flex items-center ${isMobile ? 'w-full' : 'hidden lg:flex'} max-w-xs xl:max-w-sm w-full rounded-md border-2 border-foreground bg-white shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] focus-within:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] focus-within:-translate-x-[2px] focus-within:-translate-y-[2px] transition-all overflow-hidden`}
+      className={`relative flex items-center ${isMobile ? 'w-full' : 'hidden lg:flex'} max-w-xs xl:max-w-sm w-full rounded-xl border border-slate-200 bg-slate-50/80 focus-within:bg-white focus-within:border-blue-500 focus-within:ring-4 focus-within:ring-blue-500/10 transition-all overflow-hidden`}
     >
       <div className="relative flex-grow flex items-center pl-3">
-        <Search className="h-5 w-5 text-gray-500 stroke-[2.5px] pointer-events-none" />
+        <Search className="h-4 w-4 text-slate-400 stroke-[2] pointer-events-none" />
         <input
           type="text"
           aria-label="Search site content"
-          placeholder="Search..."
+          placeholder="Search colleges, exams, blogs..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          className="h-11 w-full bg-transparent pl-2 pr-4 text-base font-bold text-foreground placeholder:text-gray-500 focus:outline-none"
+          className="h-10 w-full bg-transparent pl-2.5 pr-2 text-xs sm:text-sm font-medium text-slate-900 placeholder:text-slate-400 focus:outline-none"
         />
       </div>
       <button 
         type="submit"
-        className="h-11 px-5 bg-primary text-white font-bold border-l-2 border-foreground hover:bg-white hover:text-primary transition-colors active:bg-gray-100 cursor-pointer"
+        className="h-8 mr-1 px-3 bg-blue-600 hover:bg-blue-700 text-white text-xs font-semibold rounded-lg transition-colors cursor-pointer"
       >
         Search
       </button>
@@ -51,7 +51,7 @@ function SearchInputInner({ isMobile = false, onSearch }: { isMobile?: boolean, 
 export function SearchInput(props: { isMobile?: boolean, onSearch?: () => void }) {
   return (
     <Suspense fallback={
-      <div className={`h-11 w-48 bg-gray-100 rounded-md animate-pulse border-2 border-foreground ${props.isMobile ? 'w-full' : 'hidden lg:block'}`} />
+      <div className={`h-10 w-48 bg-slate-100 rounded-xl animate-pulse border border-slate-200 ${props.isMobile ? 'w-full' : 'hidden lg:block'}`} />
     }>
       <SearchInputInner {...props} />
     </Suspense>

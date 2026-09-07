@@ -1,14 +1,19 @@
 "use client";
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
-import { Compass, Menu, X, Phone, ChevronDown } from 'lucide-react';
+import { usePathname } from 'next/navigation';
+import { Menu, X, Phone, ChevronDown, Sparkles, GraduationCap, Building2, Laptop, Award, Globe, ArrowUpRight } from 'lucide-react';
 import { SearchInput } from './SearchInput';
 import { Logo } from './Logo';
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isAdmissionsOpen, setIsAdmissionsOpen] = useState(false);
+  const admissionsRef = useRef<HTMLDivElement>(null);
+  const pathname = usePathname();
 
+  // Prevent background scroll when mobile menu is open
   useEffect(() => {
     if (isMobileMenuOpen) {
       document.body.style.overflow = 'hidden';
@@ -20,121 +25,330 @@ export function Header() {
     };
   }, [isMobileMenuOpen]);
 
-  return (
-    <header className="sticky top-0 z-50 w-full border-b-2 border-gray-200 bg-white" role="banner">
-      <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-12 relative">
-        <Logo variant="header" size="md" />
-        <nav className="hidden md:flex items-center gap-8 text-base font-bold text-foreground">
-          <Link href="/" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Home Page">Home</Link>
-          <Link href="/about" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="About Mohit Jain">About</Link>
-          <Link href="/blog" prefetch={false} className="hover:text-primary hover:-translate-y-0.5 transition-transform" title="Career Blog & Roadmaps">Blog</Link>
-          
-          <div className="relative group">
-            <button className="flex items-center gap-1 hover:text-primary hover:-translate-y-0.5 transition-transform font-bold outline-none">
-              Admissions
-              <ChevronDown className="w-4 h-4 transition-transform group-hover:-rotate-180" />
-            </button>
-            <div className="absolute top-full left-0 mt-2 w-56 bg-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50 flex flex-col">
-              <Link href="/admissions" prefetch={false} className="px-5 py-3 hover:bg-slate-50 border-b-2 border-slate-100 transition-colors font-bold flex items-center gap-2 text-primary-brand">
-                <span className="w-2 h-2 bg-primary-brand rounded-full animate-pulse"></span> Admissions Portal
-              </Link>
-              <Link href="/colleges" prefetch={false} className="px-5 py-3 hover:bg-slate-50 border-b-2 border-slate-100 transition-colors font-bold flex items-center gap-2">
-                <span className="w-2 h-2 bg-primary rounded-full"></span> Top Colleges
-              </Link>
-              <Link href="/top-tier-mba-colleges" prefetch={false} className="px-5 py-3 hover:bg-slate-50 border-b-2 border-slate-100 transition-colors font-bold text-primary flex items-center gap-2">
-                <span className="w-2 h-2 bg-primary rounded-full"></span> Top Tier MBA
-              </Link>
-              <Link href="/mba-pgdm-admission-2027" prefetch={false} className="px-5 py-3 hover:bg-indigo-50 border-b-2 border-slate-100 transition-colors font-bold text-indigo-700 flex items-center gap-2">
-                <span className="w-2 h-2 bg-indigo-600 rounded-full"></span> MBA/PGDM 2027
-              </Link>
-              <Link href="/scholarships-2026" prefetch={false} className="px-5 py-3 hover:bg-amber-50 border-b-2 border-slate-100 transition-colors font-bold text-amber-700 flex items-center gap-2">
-                <span className="w-2 h-2 bg-amber-500 rounded-full"></span> Scholarships
-              </Link>
-              <Link href="/online-degree-certification" prefetch={false} className="px-5 py-3 hover:bg-cyan-50 border-b-2 border-slate-100 transition-colors font-bold text-cyan-700 flex items-center gap-2">
-                <span className="w-2 h-2 bg-cyan-500 rounded-full"></span> Online Degrees
-              </Link>
-              <Link href="/abroad-education" prefetch={false} className="px-5 py-3 hover:bg-emerald-50 transition-colors font-bold text-emerald-700 flex items-center gap-2">
-                <span className="w-2 h-2 bg-emerald-500 rounded-full"></span> Abroad Education
-              </Link>
-            </div>
-          </div>
-        </nav>
-        <div className="flex items-center gap-4">
-          <SearchInput />
-          <Link 
-            href="tel:+919560020771" 
-            className="hidden lg:inline-flex h-12 items-center justify-center gap-2 rounded-md bg-foreground px-6 py-2 text-base font-bold text-white transition-all hover:bg-gray-800 hover:scale-105"
-          >
-            <Phone className="h-4 w-4" />
-            Call
-          </Link>
-          <button 
-            className="md:hidden flex items-center justify-center p-2 text-foreground hover:text-primary transition-colors bg-gray-100 rounded-md"
-            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            aria-label="Toggle mobile menu"
-          >
-            {isMobileMenuOpen ? <X className="h-6 w-6 stroke-[3px]" /> : <Menu className="h-6 w-6 stroke-[3px]" />}
-          </button>
-        </div>
-      </div>
+  // Handle outside click & Escape key to close dropdowns
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (admissionsRef.current && !admissionsRef.current.contains(event.target as Node)) {
+        setIsAdmissionsOpen(false);
+      }
+    }
 
+    function handleKeyDown(event: KeyboardEvent) {
+      if (event.key === 'Escape') {
+        setIsAdmissionsOpen(false);
+        setIsMobileMenuOpen(false);
+      }
+    }
+
+    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('keydown', handleKeyDown);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener('keydown', handleKeyDown);
+    };
+  }, []);
+
+  // Close menus on route change
+  useEffect(() => {
+    setIsMobileMenuOpen(false);
+    setIsAdmissionsOpen(false);
+  }, [pathname]);
+
+  const navLinks = [
+    { name: 'Home', href: '/' },
+    { name: 'About', href: '/about' },
+    { name: 'Colleges', href: '/colleges' },
+    { name: 'Online Degrees', href: '/online-degree-certification' },
+    { name: 'Blog', href: '/blog' },
+  ];
+
+  const admissionLinks = [
+    {
+      title: 'Admissions Hub',
+      href: '/admissions',
+      badge: '2027-29',
+      badgeColor: 'text-blue-600 bg-blue-50 border-blue-200/60',
+      icon: Sparkles,
+      iconColor: 'text-blue-600',
+      highlight: true
+    },
+    {
+      title: 'MBA & PGDM 2027',
+      href: '/mba-pgdm-admission-2027',
+      badge: 'Guide',
+      badgeColor: 'text-amber-700 bg-amber-50 border-amber-200/60',
+      icon: GraduationCap,
+      iconColor: 'text-amber-500'
+    },
+    {
+      title: 'Top Tier MBA Directory',
+      href: '/top-tier-mba-colleges',
+      badge: 'Tier-1',
+      badgeColor: 'text-indigo-700 bg-indigo-50 border-indigo-200/60',
+      icon: Building2,
+      iconColor: 'text-indigo-500'
+    },
+    {
+      title: 'Online Degrees & MBA',
+      href: '/online-degree-certification',
+      badge: 'UGC-DEB',
+      badgeColor: 'text-cyan-700 bg-cyan-50 border-cyan-200/60',
+      icon: Laptop,
+      iconColor: 'text-cyan-500'
+    },
+    {
+      title: 'Scholarships & Aid',
+      href: '/scholarships-2026',
+      badge: 'Merit',
+      badgeColor: 'text-slate-600 bg-slate-100 border-slate-200',
+      icon: Award,
+      iconColor: 'text-slate-500'
+    },
+    {
+      title: 'Abroad Education',
+      href: '/abroad-education',
+      badge: 'Global',
+      badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-200/60',
+      icon: Globe,
+      iconColor: 'text-emerald-500'
+    },
+  ];
+
+  const isAdmissionActive = [
+    '/admissions', 
+    '/mba-pgdm-admission-2027', 
+    '/top-tier-mba-colleges', 
+    '/scholarships-2026', 
+    '/abroad-education'
+  ].includes(pathname || '');
+
+  return (
+    <>
+      <header className="sticky top-0 z-40 w-full border-b border-slate-200/80 bg-white/95 backdrop-blur-md transition-all shadow-xs" role="banner">
+        <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
+          
+          {/* Left group: Logo + Primary Navigation */}
+          <div className="flex items-center gap-6 xl:gap-10">
+            <Logo variant="header" size="md" />
+
+            {/* Desktop Navigation */}
+            <nav className="hidden md:flex items-center gap-5 lg:gap-7 text-sm font-semibold text-slate-700" aria-label="Main navigation">
+              {navLinks.map((link) => {
+                const isActive = pathname === link.href;
+                return (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    prefetch={false}
+                    className={`transition-colors py-1 relative ${
+                      isActive ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
+                    }`}
+                  >
+                    {link.name}
+                    {isActive && (
+                      <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
+                    )}
+                  </Link>
+                );
+              })}
+              
+              {/* Admissions Dropdown */}
+              <div 
+                ref={admissionsRef} 
+                className="relative group py-2"
+                onMouseEnter={() => setIsAdmissionsOpen(true)}
+                onMouseLeave={() => setIsAdmissionsOpen(false)}
+              >
+                <button 
+                  type="button"
+                  onClick={() => setIsAdmissionsOpen((prev) => !prev)}
+                  className={`flex items-center gap-1.5 transition-colors font-semibold py-1 outline-none cursor-pointer ${
+                    isAdmissionActive || isAdmissionsOpen ? 'text-blue-600' : 'text-slate-700 hover:text-blue-600'
+                  }`}
+                  aria-expanded={isAdmissionsOpen}
+                  aria-haspopup="true"
+                >
+                  <span>Admissions</span>
+                  <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
+                    isAdmissionsOpen ? '-rotate-180 text-blue-600' : 'group-hover:-rotate-180'
+                  }`} />
+                </button>
+
+                {/* Invisible bridge + Dropdown Card */}
+                <div 
+                  className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
+                    isAdmissionsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
+                  }`}
+                >
+                  <div className="w-72 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                    {admissionLinks.map((item) => {
+                      const Icon = item.icon;
+                      const isActive = pathname === item.href;
+                      return (
+                        <Link
+                          key={item.href}
+                          href={item.href}
+                          prefetch={false}
+                          onClick={() => setIsAdmissionsOpen(false)}
+                          className={`px-3 py-2.5 rounded-xl transition-all flex items-center justify-between text-xs font-semibold ${
+                            item.highlight 
+                              ? 'bg-blue-50/70 hover:bg-blue-100/80 text-blue-900' 
+                              : isActive
+                                ? 'bg-slate-100 text-blue-600'
+                                : 'hover:bg-slate-50 text-slate-700 hover:text-blue-600'
+                          }`}
+                        >
+                          <div className="flex items-center gap-2.5">
+                            <Icon className={`w-4 h-4 ${item.iconColor}`} />
+                            <span>{item.title}</span>
+                          </div>
+                          <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded-md border ${item.badgeColor}`}>
+                            {item.badge}
+                          </span>
+                        </Link>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </div>
+
+          {/* Right utility actions */}
+          <div className="flex items-center gap-3">
+            <SearchInput />
+
+            <a 
+              href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance" 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden xl:inline-flex items-center gap-1.5 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white px-3.5 py-2 text-xs font-bold transition-all shadow-sm hover:shadow-md"
+              title="Chat directly on WhatsApp"
+            >
+              <span>WhatsApp</span>
+            </a>
+
+            <Link 
+              href="tel:+919560020771" 
+              className="hidden sm:inline-flex h-10 items-center justify-center gap-2 rounded-xl bg-blue-600 hover:bg-blue-700 px-4 py-2 text-xs sm:text-sm font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0"
+              title="Speak with Mohit Jain"
+            >
+              <Phone className="h-3.5 w-3.5" />
+              <span>Call Counsellor</span>
+            </Link>
+
+            <button 
+              type="button"
+              className="md:hidden flex items-center justify-center p-2 text-slate-700 hover:text-blue-600 transition-colors bg-slate-100 hover:bg-slate-200 rounded-xl cursor-pointer"
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              aria-label="Toggle mobile menu"
+              aria-expanded={isMobileMenuOpen}
+            >
+              {isMobileMenuOpen ? <X className="h-5 w-5 stroke-[2.5]" /> : <Menu className="h-5 w-5 stroke-[2.5]" />}
+            </button>
+          </div>
+        </div>
+      </header>
+
+      {/* Mobile Navigation Full Viewport Overlay rendered outside <header> so fixed positioning is viewport-relative */}
       {isMobileMenuOpen && (
-        <div className="md:hidden fixed top-20 inset-x-0 bottom-0 border-b-2 border-gray-200 bg-white shadow-xl z-50 overflow-y-auto">
-          <nav className="flex flex-col px-6 py-8 gap-6 text-lg font-bold text-foreground text-left">
+        <div 
+          className="md:hidden fixed inset-x-0 top-20 bottom-0 z-[999] bg-white overflow-y-auto flex flex-col justify-between shadow-2xl animate-in fade-in slide-in-from-top-2 duration-200"
+          role="dialog"
+          aria-modal="true"
+        >
+          <nav className="flex flex-col px-5 py-6 gap-4 text-base font-semibold text-slate-800 text-left">
             <div className="mb-2 block lg:hidden">
               <SearchInput isMobile={true} onSearch={() => setIsMobileMenuOpen(false)} />
             </div>
             
-            <Link href="/" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
-              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Home
-            </Link>
-            <Link href="/about" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
-              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>About
-            </Link>
-            <Link href="/blog" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
-              <span className="w-2 h-2 rounded-full bg-primary mr-3 inline-block"></span>Blog
-            </Link>
+            <div className="flex flex-col gap-1">
+              {navLinks.map((link) => {
+                const isActive = pathname === link.href;
+                return (
+                  <Link 
+                    key={link.href}
+                    href={link.href} 
+                    prefetch={false} 
+                    onClick={() => setIsMobileMenuOpen(false)} 
+                    className={`flex items-center justify-between px-3 py-2.5 rounded-xl transition-colors ${
+                      isActive ? 'bg-blue-50 text-blue-700 font-bold' : 'hover:bg-slate-50 text-slate-800'
+                    }`}
+                  >
+                    <div className="flex items-center">
+                      <span className={`w-2 h-2 rounded-full mr-3 inline-block ${
+                        isActive ? 'bg-blue-600' : 'bg-slate-300'
+                      }`}></span>
+                      {link.name}
+                    </div>
+                    {isActive && (
+                      <span className="text-[11px] font-semibold text-blue-600 bg-blue-100/60 px-2 py-0.5 rounded-md">Active</span>
+                    )}
+                  </Link>
+                );
+              })}
+            </div>
             
-            <div className="flex flex-col gap-4">
-              <div className="flex items-center text-slate-500 text-sm tracking-widest uppercase">
-                Admissions
+            <div className="pt-3 border-t border-slate-100 flex flex-col gap-2">
+              <div className="px-3 text-slate-400 text-xs font-bold tracking-wider uppercase flex items-center justify-between">
+                <span>Admissions 2027 Hub</span>
+                <span className="text-[10px] text-blue-600 font-semibold lowercase">fast-track</span>
               </div>
-              <div className="pl-4 flex flex-col gap-5 border-l-2 border-slate-100 ml-1">
-                <Link href="/admissions" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-primary-brand font-extrabold">
-                  <span className="w-1.5 h-1.5 rounded-full bg-primary-brand mr-3 inline-block animate-pulse"></span>Admissions Portal
-                </Link>
-                <Link href="/colleges" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center">
-                  <span className="w-1.5 h-1.5 rounded-full bg-primary mr-3 inline-block"></span>Top Colleges
-                </Link>
-                <Link href="/top-tier-mba-colleges" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-primary font-extrabold">
-                  <span className="w-1.5 h-1.5 rounded-full bg-primary mr-3 inline-block"></span>Top Tier MBA
-                </Link>
-                <Link href="/mba-pgdm-admission-2027" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-indigo-600 font-extrabold">
-                  <span className="w-1.5 h-1.5 rounded-full bg-indigo-600 mr-3 inline-block"></span>MBA/PGDM 2027
-                </Link>
-                <Link href="/scholarships-2026" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-amber-600 font-extrabold">
-                  <span className="w-1.5 h-1.5 rounded-full bg-amber-500 mr-3 inline-block"></span>Scholarships
-                </Link>
-                <Link href="/online-degree-certification" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-cyan-600 font-extrabold">
-                  <span className="w-1.5 h-1.5 rounded-full bg-cyan-500 mr-3 inline-block"></span>Online Degrees
-                </Link>
-                <Link href="/abroad-education" prefetch={false} onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors flex items-center text-emerald-600 font-extrabold">
-                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 mr-3 inline-block"></span>Abroad Education
-                </Link>
+              <div className="flex flex-col gap-1">
+                {admissionLinks.map((item) => {
+                  const Icon = item.icon;
+                  const isActive = pathname === item.href;
+                  return (
+                    <Link 
+                      key={item.href}
+                      href={item.href} 
+                      prefetch={false} 
+                      onClick={() => setIsMobileMenuOpen(false)} 
+                      className={`flex items-center justify-between px-3 py-2 rounded-xl text-sm transition-colors ${
+                        isActive 
+                          ? 'bg-blue-50 text-blue-700 font-bold' 
+                          : item.highlight
+                            ? 'bg-blue-50/40 text-blue-900 font-semibold'
+                            : 'hover:bg-slate-50 text-slate-700 font-medium'
+                      }`}
+                    >
+                      <div className="flex items-center gap-2.5">
+                        <Icon className={`w-4 h-4 ${item.iconColor}`} />
+                        <span>{item.title}</span>
+                      </div>
+                      <span className={`text-[10px] uppercase font-bold px-1.5 py-0.5 rounded border ${item.badgeColor}`}>
+                        {item.badge}
+                      </span>
+                    </Link>
+                  );
+                })}
               </div>
             </div>
+          </nav>
 
+          {/* Mobile Bottom Conversion CTA Bar */}
+          <div className="p-5 border-t border-slate-100 bg-slate-50/80 flex flex-col gap-2.5">
+            <a 
+              href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance"
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-sm shadow-sm transition-colors"
+            >
+              <span>Chat on WhatsApp</span>
+              <ArrowUpRight className="w-4 h-4" />
+            </a>
             <Link 
               href="tel:+919560020771" 
               onClick={() => setIsMobileMenuOpen(false)}
-              className="mt-4 flex h-14 w-full items-center justify-center gap-3 rounded-md bg-foreground px-4 py-2 text-lg font-bold text-white transition-all hover:bg-gray-800"
+              className="flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-sm shadow-md shadow-blue-500/20 transition-colors"
             >
-              <Phone className="h-5 w-5 text-primary" />
-              Call Now
+              <Phone className="h-4 w-4" />
+              <span>Call +91 95600 20771</span>
             </Link>
-          </nav>
+          </div>
         </div>
       )}
-    </header>
+    </>
   );
 }
