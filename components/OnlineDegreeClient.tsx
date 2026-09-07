@@ -282,22 +282,22 @@ export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialC
   return (
     <>
       {/* Search + Filter Bar */}
-      <div className="sticky top-0 z-30 bg-[#f8f7f4]/90 backdrop-blur-md border-b border-gray-200 shadow-sm">
+      <div className="sticky top-0 z-30 bg-slate-50/95 backdrop-blur-md border-b border-slate-200 shadow-sm">
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex flex-col sm:flex-row gap-3 items-stretch sm:items-center">
 
             {/* Search */}
             <div className="relative flex-1">
-              <Search size={16} className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" />
+              <Search size={16} className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400" />
               <input
                 type="text"
                 placeholder="Search university, location, or program..."
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
-                className="w-full bg-white border border-gray-200 rounded-xl pl-10 pr-4 py-3 text-sm font-medium focus:outline-none focus:border-indigo-400 focus:ring-2 focus:ring-indigo-100 transition-all"
+                className="w-full bg-white border border-slate-200 rounded-xl pl-10 pr-4 py-2.5 text-sm font-medium text-slate-900 placeholder:text-slate-400 focus:outline-none focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 transition-all"
               />
               {search && (
-                <button onClick={() => setSearch('')} className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600">
+                <button onClick={() => setSearch('')} className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600">
                   <X size={14} />
                 </button>
               )}
@@ -306,12 +306,12 @@ export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialC
             {/* Filter Toggle */}
             <button
               onClick={() => setShowFilters(!showFilters)}
-              className={`flex items-center gap-2 px-5 py-3 rounded-xl border font-semibold text-sm transition-all ${showFilters ? 'bg-indigo-600 text-white border-indigo-600' : 'bg-white border-gray-200 text-gray-700 hover:border-indigo-300'}`}
+              className={`flex items-center gap-2 px-5 py-2.5 rounded-xl border font-semibold text-sm transition-all cursor-pointer ${showFilters ? 'bg-blue-600 text-white border-blue-600 shadow-sm' : 'bg-white border-slate-200 text-slate-700 hover:border-slate-300 hover:bg-slate-50'}`}
             >
               <SlidersHorizontal size={15} />
               Filters
               {(grade !== 'All' || feeRange !== 0 || course !== 'All') && (
-                <span className="bg-white text-indigo-600 text-xs font-black rounded-full w-4 h-4 flex items-center justify-center ml-1">
+                <span className="bg-white text-blue-600 text-xs font-bold rounded-full w-4 h-4 flex items-center justify-center ml-1">
                   {(grade !== 'All' ? 1 : 0) + (feeRange !== 0 ? 1 : 0) + (course !== 'All' ? 1 : 0)}
                 </span>
               )}
@@ -323,7 +323,7 @@ export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialC
               href="https://wa.me/919560020771?text=Hi%2C%20I%20want%20free%20counselling%20for%20online%20degree"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-2 bg-green-500 text-white font-bold text-sm px-5 py-3 rounded-xl hover:bg-green-600 transition-colors shrink-0"
+              className="flex items-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-sm px-5 py-2.5 rounded-xl transition-colors shrink-0 shadow-sm"
             >
               <Phone size={14} />
               Free Inquiry
@@ -332,16 +332,16 @@ export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialC
 
           {/* Filter Panel */}
           {showFilters && (
-            <div className="mt-4 bg-white border border-gray-100 rounded-xl p-5 grid grid-cols-1 sm:grid-cols-2 gap-5 shadow-sm">
+            <div className="mt-4 bg-white border border-slate-200/90 rounded-2xl p-6 grid grid-cols-1 sm:grid-cols-2 gap-6 shadow-sm">
               {/* NAAC Grade */}
               <div>
-                <p className="text-xs font-black uppercase tracking-widest text-gray-400 mb-3 flex items-center gap-1.5">
-                  <Award size={12} /> NAAC Grade
+                <p className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3 flex items-center gap-1.5">
+                  <Award size={13} className="text-blue-600" /> NAAC Grade
                 </p>
                 <div className="flex flex-wrap gap-2">
                   {GRADES.map((g) => (
                     <button key={g} onClick={() => setGrade(g)}
-                      className={`px-4 py-1.5 rounded-lg text-sm font-bold border transition-all ${grade === g ? 'bg-indigo-600 text-white border-indigo-600' : 'bg-gray-50 text-gray-600 border-gray-200 hover:border-indigo-300'}`}
+                      className={`px-3.5 py-1.5 rounded-xl text-xs font-semibold border transition-all cursor-pointer ${grade === g ? 'bg-blue-600 text-white border-blue-600 shadow-sm' : 'bg-slate-50 text-slate-700 border-slate-200 hover:border-slate-300 hover:bg-slate-100'}`}
                     >
                       {g === 'All' ? 'All Grades' : `NAAC ${g}`}
                     </button>
@@ -350,31 +350,31 @@ export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialC
               </div>
               {/* Fee Range */}
               <div>
-                <p className="text-xs font-black uppercase tracking-widest text-gray-400 mb-3 flex items-center gap-1.5">
-                  <IndianRupee size={12} /> Fee Range: <span className="text-indigo-600 font-black">{selectedFeeRange.label}</span>
+                <p className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3 flex items-center gap-1.5">
+                  <IndianRupee size={13} className="text-blue-600" /> Fee Range: <span className="text-blue-600 font-bold">{selectedFeeRange.label}</span>
                 </p>
                 <input type="range" min={0} max={FEE_RANGES.length - 1} value={feeRange}
                   onChange={(e) => setFeeRange(Number(e.target.value))}
-                  className="w-full accent-indigo-600"
+                  className="w-full accent-blue-600"
                 />
-                <div className="flex justify-between text-xs text-gray-400 mt-1 font-medium">
+                <div className="flex justify-between text-xs text-slate-400 mt-1 font-medium">
                   {FEE_RANGES.map((f) => <span key={f.label}>{f.label.split(' ')[0]}</span>)}
                 </div>
               </div>
               {/* Course / Program */}
               <div className="sm:col-span-2">
-                <p className="text-xs font-black uppercase tracking-widest text-gray-400 mb-3 flex items-center gap-1.5">
-                  <GraduationCap size={12} /> Course / Program
+                <p className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-3 flex items-center gap-1.5">
+                  <GraduationCap size={13} className="text-blue-600" /> Course / Program
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <button onClick={() => setCourse('All')}
-                    className={`px-4 py-1.5 rounded-lg text-sm font-bold border transition-all ${course === 'All' ? 'bg-indigo-600 text-white border-indigo-600' : 'bg-gray-50 text-gray-600 border-gray-200 hover:border-indigo-300'}`}
+                    className={`px-3.5 py-1.5 rounded-xl text-xs font-semibold border transition-all cursor-pointer ${course === 'All' ? 'bg-blue-600 text-white border-blue-600 shadow-sm' : 'bg-slate-50 text-slate-700 border-slate-200 hover:border-slate-300 hover:bg-slate-100'}`}
                   >
                     All Courses
                   </button>
                   {COURSES.map((c) => (
                     <button key={c} onClick={() => setCourse(c)}
-                      className={`px-4 py-1.5 rounded-lg text-sm font-bold border transition-all ${course === c ? 'bg-indigo-600 text-white border-indigo-600' : 'bg-gray-50 text-gray-600 border-gray-200 hover:border-indigo-300'}`}
+                      className={`px-3.5 py-1.5 rounded-xl text-xs font-semibold border transition-all cursor-pointer ${course === c ? 'bg-blue-600 text-white border-blue-600 shadow-sm' : 'bg-slate-50 text-slate-700 border-slate-200 hover:border-slate-300 hover:bg-slate-100'}`}
                     >
                       {c}
                     </button>
@@ -414,55 +414,55 @@ export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialC
               <button
                 key={idx}
                 onClick={() => setSelectedCollege(college)}
-                className="college-card p-6 flex flex-col gap-4 text-left w-full group cursor-pointer"
+                className="p-6 flex flex-col gap-3.5 text-left w-full group cursor-pointer rounded-2xl border border-slate-200/90 bg-white transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 hover:border-blue-300 shadow-sm relative overflow-hidden"
               >
                 {/* Header Row */}
                 <div className="flex items-start justify-between gap-3">
-                  <div className={`bg-gradient-to-br ${college.gradeColor} rounded-xl w-12 h-12 flex items-center justify-center shrink-0 shadow-lg`}>
-                    <span className="grade-pill text-white font-black text-xs">{college.grade}</span>
+                  <div className={`bg-gradient-to-br ${college.gradeColor} rounded-xl w-11 h-11 flex items-center justify-center shrink-0 shadow-md`}>
+                    <span className="text-white font-extrabold text-xs tracking-wider">{college.grade}</span>
                   </div>
-                  <span className="text-[11px] font-bold uppercase tracking-wider text-gray-500 bg-gray-100 px-2.5 py-1 rounded-full">
+                  <span className="text-[11px] font-semibold uppercase tracking-wider text-slate-600 bg-slate-100 px-2.5 py-1 rounded-full">
                     {college.badge}
                   </span>
                 </div>
 
-                <h3 className="text-base font-semibold text-[#0f172a] leading-snug group-hover:text-indigo-700 transition-colors">
+                <h3 className="text-base font-bold text-slate-900 leading-snug group-hover:text-blue-600 transition-colors">
                   {college.name}
                 </h3>
 
-                <div className="flex items-center gap-1.5 text-gray-500 text-sm">
-                  <MapPin size={13} className="text-indigo-400 shrink-0" />
+                <div className="flex items-center gap-1.5 text-slate-500 text-xs font-normal">
+                  <MapPin size={13} className="text-blue-500 shrink-0" />
                   <span>{college.location}</span>
                 </div>
 
                 <div className="flex items-center gap-2">
-                  <span className="fee-tag text-sm font-bold px-3 py-1.5 rounded-lg inline-flex items-center gap-1.5">
-                    <IndianRupee size={13} />
+                  <span className="bg-emerald-50 text-emerald-800 border border-emerald-200 text-xs font-bold px-3 py-1 rounded-lg inline-flex items-center gap-1.5">
+                    <IndianRupee size={12} />
                     {college.fee.replace('₹', '')} total fee
                   </span>
                 </div>
 
-                <div className="border-t border-gray-100" />
+                <div className="border-t border-slate-100 my-0.5" />
 
                 <div className="flex items-start gap-2">
-                  <BadgeCheck size={14} className="text-violet-500 shrink-0 mt-0.5" />
-                  <p className="text-xs text-gray-500 leading-relaxed">{college.accreditation}</p>
+                  <BadgeCheck size={14} className="text-blue-600 shrink-0 mt-0.5" />
+                  <p className="text-xs text-slate-600 leading-relaxed font-normal">{college.accreditation}</p>
                 </div>
 
                 <div className="flex items-start gap-2">
-                  <GraduationCap size={14} className="text-indigo-400 shrink-0 mt-0.5" />
-                  <p className="text-xs text-gray-600 leading-relaxed">{college.programs.join(', ')}</p>
+                  <GraduationCap size={14} className="text-blue-500 shrink-0 mt-0.5" />
+                  <p className="text-xs text-slate-600 leading-relaxed font-normal">{college.programs.join(', ')}</p>
                 </div>
 
                 <div className="mt-auto pt-2 flex items-center justify-between">
-                  <span className="text-xs text-indigo-500 font-bold group-hover:underline">
+                  <span className="text-xs text-blue-600 font-semibold group-hover:underline flex items-center gap-0.5">
                     View Details →
                   </span>
                   {college.slug && (
                     <a
                       href={`/blog/${college.slug}`}
                       onClick={(e) => e.stopPropagation()}
-                      className="text-xs text-slate-500 font-semibold hover:text-indigo-600 hover:underline flex items-center gap-1"
+                      className="text-xs text-slate-500 font-semibold hover:text-blue-600 hover:underline flex items-center gap-1"
                     >
                       <BookOpen size={12} className="text-slate-400" />
                       Full Review
@@ -491,30 +491,6 @@ export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialC
           onClose={() => { setShowInquiry(false); setInquiryCollege(null); }}
         />
       )}
-
-      <style>{`
-        .college-card {
-          background: #ffffff;
-          border: 1px solid #e5e7eb;
-          border-radius: 16px;
-          transition: box-shadow 0.25s ease, transform 0.25s ease;
-        }
-        .college-card:hover {
-          transform: translateY(-4px);
-          box-shadow: 0 20px 48px rgba(0,0,0,0.10);
-        }
-        .grade-pill {
-          font-family: 'Playfair Display', serif;
-          font-weight: 900;
-          font-size: 0.75rem;
-          letter-spacing: 0.08em;
-        }
-        .fee-tag {
-          background: #f0fdf4;
-          color: #15803d;
-          border: 1px solid #bbf7d0;
-        }
-      `}</style>
     </>
   );
 }

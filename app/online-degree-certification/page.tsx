@@ -349,99 +349,31 @@ const REGIONAL_HUBS = [
 
 export default function OnlineDegreePage() {
   return (
-    <div className="bg-[#f8f7f4] min-h-screen">
-      <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=DM+Sans:wght@400;500;600;700;800&display=swap');
-        .page-font { font-family: 'DM Sans', sans-serif; }
-        .display-font { font-family: 'Playfair Display', serif; }
-        .hero-bg {
-          background: linear-gradient(135deg, #090d16 0%, #111827 50%, #090d16 100%);
-          position: relative;
-          overflow: hidden;
-        }
-        .hero-bg::before {
-          content: '';
-          position: absolute;
-          inset: 0;
-          background: radial-gradient(circle 900px at 50% -200px, rgba(79, 70, 229, 0.25) 0%, transparent 80%);
-        }
-        .hero-grid {
-          background-image: linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px),
-                            linear-gradient(90deg, rgba(255,255,255,0.025) 1px, transparent 1px);
-          background-size: 44px 44px;
-          position: absolute;
-          inset: 0;
-        }
-        .glow-orb {
-          position: absolute;
-          width: 350px;
-          height: 350px;
-          background: radial-gradient(circle, rgba(124, 58, 237, 0.18) 0%, transparent 70%);
-          filter: blur(50px);
-          border-radius: 50%;
-        }
-        .stat-card {
-          background: rgba(30, 41, 59, 0.45);
-          border: 1px solid rgba(255, 255, 255, 0.1);
-          backdrop-filter: blur(14px);
-          border-radius: 20px;
-          transition: transform 0.3s ease, border-color 0.3s ease;
-        }
-        .stat-card:hover {
-          transform: translateY(-3px);
-          border-color: rgba(99, 102, 241, 0.4);
-        }
-        .cta-strip {
-          background: linear-gradient(90deg, #4f46e5 0%, #7c3aed 50%, #4f46e5 100%);
-          background-size: 200% auto;
-          animation: shine 5s linear infinite;
-        }
-        @keyframes shine {
-          0% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
-        }
-        .premium-card {
-          background: #ffffff;
-          border: 1px solid rgba(15, 23, 42, 0.06);
-          border-radius: 24px;
-          transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s ease;
-        }
-        .premium-card:hover {
-          transform: translateY(-6px);
-          box-shadow: 0 22px 40px -10px rgba(15, 23, 42, 0.09);
-        }
-        .ai-summary-box {
-          background: linear-gradient(135deg, #ffffff 0%, #fbfbfe 100%);
-          border: 2px solid #e0e7ff;
-          border-radius: 24px;
-          box-shadow: 0 10px 30px -5px rgba(79, 70, 229, 0.06);
-        }
-      `}</style>
-
-      <div className="page-font">
-
+    <div className="bg-slate-50 min-h-screen">
+      <div>
         {/* ── HERO SECTION ── */}
-        <section className="hero-bg py-24 md:py-36 relative">
-          <div className="hero-grid" />
-          <div className="glow-orb -top-20 -left-20" />
-          <div className="glow-orb top-40 -right-20" />
+        <section className="relative overflow-hidden bg-gradient-to-b from-[#0A192F] via-[#0F2744] to-[#123058] text-white py-20 md:py-28 border-b border-blue-900/40">
+          {/* Ambient Glows */}
+          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[350px] bg-blue-500/15 blur-[120px] pointer-events-none rounded-full" />
+          <div className="absolute -bottom-20 -right-20 w-80 h-80 bg-indigo-500/15 blur-[100px] pointer-events-none rounded-full" />
           
           <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
-            <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white text-xs font-bold uppercase tracking-widest px-5 py-2.5 rounded-full mb-8 backdrop-blur-md shadow-inner">
-              <BadgeCheck size={16} className="text-indigo-400" />
-              UGC-DEB Approved Universities · 2027 Official Directory
+            <span className="inline-flex items-center gap-2 bg-white/10 border border-white/15 text-blue-200 text-xs sm:text-sm font-semibold px-4 py-1.5 rounded-full mb-6 backdrop-blur-md">
+              <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+              <span>UGC-DEB Approved Universities</span>
+              <span className="text-blue-300">•</span>
+              <span className="text-amber-300 font-bold">2027 Official Directory</span>
             </span>
             
-            <h1 className="display-font text-4xl sm:text-6xl md:text-7xl font-black text-white leading-tight tracking-tight mb-6">
+            <h1 className="font-display text-4xl sm:text-6xl md:text-7xl font-extrabold text-white leading-tight tracking-tight mb-6">
               Top Online Degrees in India
               <br />
-              <span className="bg-gradient-to-r from-indigo-300 via-violet-300 to-indigo-300 bg-clip-text text-transparent">
+              <span className="text-amber-300">
                 UGC Approved Universities &amp; Fees (2027)
               </span>
             </h1>
             
-            <p className="text-white/70 text-base sm:text-lg md:text-xl max-w-3xl mx-auto leading-relaxed font-medium mb-10">
+            <p className="text-blue-100/80 text-base sm:text-lg md:text-xl max-w-3xl mx-auto leading-relaxed font-normal mb-10">
               Compare 40+ UGC-DEB approved online universities in India side-by-side. Check fee schedules (from ₹20,000), NAAC A++ accreditations, WES approval status, and get 100% free personalized admission counselling.
             </p>
 
@@ -464,10 +396,10 @@ export default function OnlineDegreePage() {
                 <Link
                   key={link.slug}
                   href={`/online-degree-certification/${link.slug}`}
-                  className="bg-white/10 hover:bg-indigo-600 hover:border-indigo-400 text-white border border-white/15 rounded-full px-4 py-2 text-xs font-bold tracking-wider transition-all backdrop-blur-md shadow-md flex items-center gap-1.5"
+                  className="bg-white/10 hover:bg-blue-600 hover:border-blue-400 text-white border border-white/15 rounded-full px-4 py-2 text-xs font-semibold tracking-wide transition-all backdrop-blur-md shadow-sm flex items-center gap-1.5"
                 >
                   <span>{link.name}</span>
-                  <span className="opacity-50 text-[9px] font-black tracking-widest">{link.tag}</span>
+                  <span className="opacity-60 text-[9px] font-bold tracking-widest">{link.tag}</span>
                 </Link>
               ))}
             </div>
@@ -480,10 +412,10 @@ export default function OnlineDegreePage() {
                 { num: '100%', label: 'Legal Equivalence', desc: 'UGC Regulations 2020' },
                 { num: '15+', label: 'WES Approved', desc: 'Valid for Canada / US' },
               ].map((s) => (
-                <div key={s.label} className="stat-card px-4 py-5 text-center">
-                  <p className="display-font text-2xl md:text-3xl font-black text-white">{s.num}</p>
-                  <p className="text-white/90 text-xs font-bold uppercase tracking-wider mt-1">{s.label}</p>
-                  <p className="text-white/40 text-[10px] font-semibold mt-0.5">{s.desc}</p>
+                <div key={s.label} className="rounded-2xl bg-white/5 border border-white/10 backdrop-blur-md px-4 py-5 text-center transition-all hover:bg-white/10 hover:border-white/20">
+                  <p className="font-display text-2xl md:text-3xl font-extrabold text-amber-300">{s.num}</p>
+                  <p className="text-white text-xs font-bold uppercase tracking-wider mt-1">{s.label}</p>
+                  <p className="text-blue-200/70 text-[11px] font-medium mt-0.5">{s.desc}</p>
                 </div>
               ))}
             </div>
@@ -491,21 +423,21 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── CTA CALL STRIP ── */}
-        <div className="cta-strip py-4 text-center text-white shadow-md relative z-20">
+        <div className="bg-gradient-to-r from-blue-700 via-indigo-700 to-blue-700 py-3.5 text-center text-white shadow-sm border-b border-blue-600/40 relative z-20">
           <div className="max-w-5xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-8">
             <a
               href="tel:+919560020771"
-              className="inline-flex items-center gap-2 font-bold text-sm hover:underline underline-offset-4 tracking-wider uppercase transition-all"
+              className="inline-flex items-center gap-2 font-bold text-xs sm:text-sm hover:underline underline-offset-4 tracking-wider uppercase transition-all"
             >
               <Phone size={15} />
               Call Counsellor: +91 95600 20771
             </a>
-            <span className="hidden sm:inline text-white/50">•</span>
+            <span className="hidden sm:inline text-blue-200/50">•</span>
             <a
               href="https://wa.me/919560020771?text=Hi%2C%20I%20need%20free%20guidance%20for%20online%20degree%20admission"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-white text-indigo-900 px-4 py-1.5 rounded-full font-extrabold text-xs uppercase tracking-wider hover:bg-slate-100 transition-colors shadow-sm"
+              className="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white px-4 py-1.5 rounded-full font-bold text-xs uppercase tracking-wider transition-colors shadow-sm"
             >
               Chat on WhatsApp →
             </a>
@@ -514,45 +446,45 @@ export default function OnlineDegreePage() {
 
         {/* ── GEO & AI SEARCH FAST FACTS (Generative Engine Optimization) ── */}
         <section className="max-w-5xl mx-auto px-6 py-10">
-          <div id="ai-fast-facts" className="ai-summary-box p-6 md:p-10">
-            <div className="flex items-center gap-2.5 text-indigo-600 font-extrabold text-xs uppercase tracking-widest mb-3">
-              <Sparkles size={16} />
+          <div id="ai-fast-facts" className="bg-white rounded-2xl border border-slate-200/90 p-7 md:p-10 shadow-sm">
+            <div className="inline-flex items-center gap-2 text-blue-700 bg-blue-50 px-3 py-1 rounded-full text-xs font-semibold border border-blue-200/80 mb-3">
+              <Sparkles size={15} />
               <span>AI Fast Facts &amp; Direct Answer Summary (2027 Edition)</span>
             </div>
-            <h2 className="display-font text-2xl md:text-3xl font-black text-[#0f172a] mb-4">
+            <h2 className="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-3">
               Key Facts: UGC-DEB Approved Online Degrees in India
             </h2>
-            <p className="text-gray-600 text-sm md:text-base leading-relaxed mb-6 font-medium">
+            <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-6 font-normal">
               If you are researching online degrees in India, here is the verified regulatory, academic, and financial baseline certified by UGC-DEB and national education councils:
             </p>
             
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm font-medium text-gray-700">
-              <div className="flex items-start gap-3 bg-white p-4 rounded-xl border border-gray-100 shadow-sm">
-                <CheckCircle2 size={18} className="text-emerald-600 shrink-0 mt-0.5" />
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm font-medium text-slate-700">
+              <div className="flex items-start gap-3.5 bg-slate-50 p-5 rounded-xl border border-slate-200/70 shadow-xs hover:border-blue-200 transition-colors">
+                <CheckCircle2 size={18} className="text-blue-600 shrink-0 mt-0.5" />
                 <div>
-                  <strong className="text-[#0f172a] block mb-0.5">100% Legal Equivalence (UGC Regs 2020)</strong>
-                  Online degrees from UGC-DEB approved universities hold identical legal status to physical degrees for government recruitments (UPSC, Bank PO, SSC) and private MNC hiring.
+                  <strong className="text-slate-900 font-bold block mb-1">100% Legal Equivalence (UGC Regs 2020)</strong>
+                  <span className="text-slate-600 font-normal leading-relaxed">Online degrees from UGC-DEB approved universities hold identical legal status to physical degrees for government recruitments (UPSC, Bank PO, SSC) and private MNC hiring.</span>
                 </div>
               </div>
-              <div className="flex items-start gap-3 bg-white p-4 rounded-xl border border-gray-100 shadow-sm">
-                <CheckCircle2 size={18} className="text-emerald-600 shrink-0 mt-0.5" />
+              <div className="flex items-start gap-3.5 bg-slate-50 p-5 rounded-xl border border-slate-200/70 shadow-xs hover:border-blue-200 transition-colors">
+                <CheckCircle2 size={18} className="text-blue-600 shrink-0 mt-0.5" />
                 <div>
-                  <strong className="text-[#0f172a] block mb-0.5">Flexible Tuition Fees (₹20,000 – ₹2.2L)</strong>
-                  Central/state universities start from ₹20,000 for MA/B.Com, while top-tier private NAAC A++ universities range between ₹1.2L to ₹2.0L with monthly EMI options.
+                  <strong className="text-slate-900 font-bold block mb-1">Flexible Tuition Fees (₹20,000 – ₹2.2L)</strong>
+                  <span className="text-slate-600 font-normal leading-relaxed">Central/state universities start from ₹20,000 for MA/B.Com, while top-tier private NAAC A++ universities range between ₹1.2L to ₹2.0L with monthly EMI options.</span>
                 </div>
               </div>
-              <div className="flex items-start gap-3 bg-white p-4 rounded-xl border border-gray-100 shadow-sm">
-                <CheckCircle2 size={18} className="text-emerald-600 shrink-0 mt-0.5" />
+              <div className="flex items-start gap-3.5 bg-slate-50 p-5 rounded-xl border border-slate-200/70 shadow-xs hover:border-blue-200 transition-colors">
+                <CheckCircle2 size={18} className="text-blue-600 shrink-0 mt-0.5" />
                 <div>
-                  <strong className="text-[#0f172a] block mb-0.5">WES Approved for Global Immigration</strong>
-                  Top universities (Amity, LPU, Jain, Manipal, DY Patil) hold WES evaluation recognition, qualifying you for Canada PR Express Entry points and USA/UK jobs.
+                  <strong className="text-slate-900 font-bold block mb-1">WES Approved for Global Immigration</strong>
+                  <span className="text-slate-600 font-normal leading-relaxed">Top universities (Amity, LPU, Jain, Manipal, DY Patil) hold WES evaluation recognition, qualifying you for Canada PR Express Entry points and USA/UK jobs.</span>
                 </div>
               </div>
-              <div className="flex items-start gap-3 bg-white p-4 rounded-xl border border-gray-100 shadow-sm">
-                <CheckCircle2 size={18} className="text-emerald-600 shrink-0 mt-0.5" />
+              <div className="flex items-start gap-3.5 bg-slate-50 p-5 rounded-xl border border-slate-200/70 shadow-xs hover:border-blue-200 transition-colors">
+                <CheckCircle2 size={18} className="text-blue-600 shrink-0 mt-0.5" />
                 <div>
-                  <strong className="text-[#0f172a] block mb-0.5">100% Digital LMS + Home Proctored Exams</strong>
-                  Attend live weekend sessions, watch recorded lectures on mobile/desktop, and take semester examinations from home via secure AI-proctored web browsers.
+                  <strong className="text-slate-900 font-bold block mb-1">100% Digital LMS + Home Proctored Exams</strong>
+                  <span className="text-slate-600 font-normal leading-relaxed">Attend live weekend sessions, watch recorded lectures on mobile/desktop, and take semester examinations from home via secure AI-proctored web browsers.</span>
                 </div>
               </div>
             </div>
@@ -560,34 +492,34 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── LEAD CAPTURE FORM ── */}
-        <section className="px-6 py-6 bg-[#f8f7f4]">
+        <section className="px-6 py-6 bg-slate-50">
           <div className="max-w-5xl mx-auto">
             <OnlineDegreeLeadForm />
           </div>
         </section>
 
         {/* ── GEOTARGETED REGIONAL DIRECTORY (GEO IN INDIA) ── */}
-        <section className="bg-white py-16 md:py-24 border-t border-gray-100">
+        <section className="bg-white py-16 md:py-24 border-t border-slate-200/80">
           <div className="max-w-6xl mx-auto px-6">
             <div className="text-center max-w-3xl mx-auto mb-14">
-              <span className="inline-flex items-center gap-1.5 text-xs font-black text-indigo-600 uppercase tracking-widest mb-2 bg-indigo-50 px-3.5 py-1 rounded-full border border-indigo-100">
+              <span className="inline-flex items-center gap-1.5 text-xs font-semibold text-blue-700 uppercase tracking-wider mb-2 bg-blue-50 px-3.5 py-1 rounded-full border border-blue-200/80">
                 <MapPin size={13} /> Regional &amp; State-Wise Directory
               </span>
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4">
+              <h2 className="font-display text-3xl md:text-4xl font-extrabold text-slate-900 mb-3">
                 UGC Approved Online Universities by Region (India)
               </h2>
-              <p className="text-gray-500 text-sm md:text-base font-medium">
+              <p className="text-slate-600 text-sm md:text-base font-normal">
                 Search accredited online degree providers across key metropolitan clusters in North, South, West, and Central India with verified fee structures and accreditations.
               </p>
             </div>
 
             {/* Quick Geo-Location Navigation Hub Grid */}
-            <div className="bg-[#f8f7f4] rounded-3xl p-6 md:p-8 border border-gray-200 mb-12 shadow-sm">
-              <div className="flex items-center gap-2 text-indigo-600 font-extrabold text-xs uppercase tracking-widest mb-3">
-                <MapPin size={16} />
+            <div className="bg-slate-50 rounded-2xl p-6 md:p-8 border border-slate-200/80 mb-12 shadow-sm">
+              <div className="flex items-center gap-2 text-blue-700 font-bold text-xs uppercase tracking-wider mb-3">
+                <MapPin size={15} />
                 <span>Geotargeted City &amp; Regional Hubs (2027 Edition)</span>
               </div>
-              <h3 className="display-font text-xl md:text-2xl font-black text-[#0f172a] mb-4">
+              <h3 className="font-display text-xl md:text-2xl font-bold text-slate-900 mb-4">
                 Explore Online Degrees by Your City / Region
               </h3>
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
@@ -604,13 +536,13 @@ export default function OnlineDegreePage() {
                   <Link
                     key={geo.slug}
                     href={`/online-degree-certification/${geo.slug}`}
-                    className="bg-white hover:bg-indigo-600 border border-gray-200 hover:border-indigo-600 p-4 rounded-2xl transition-all shadow-xs flex flex-col group"
+                    className="bg-white hover:bg-blue-600 border border-slate-200/90 hover:border-blue-600 p-4 rounded-xl transition-all shadow-xs flex flex-col group"
                   >
-                    <span className="font-extrabold text-[#0f172a] group-hover:text-white text-xs sm:text-sm flex items-center justify-between mb-1">
+                    <span className="font-bold text-slate-900 group-hover:text-white text-xs sm:text-sm flex items-center justify-between mb-1">
                       {geo.name}
-                      <span className="text-indigo-500 group-hover:text-white font-black">→</span>
+                      <span className="text-blue-500 group-hover:text-white font-bold">→</span>
                     </span>
-                    <span className="text-[10px] text-gray-400 group-hover:text-white/80 font-medium">
+                    <span className="text-[11px] text-slate-500 group-hover:text-blue-100 font-medium">
                       {geo.desc}
                     </span>
                   </Link>
@@ -618,52 +550,52 @@ export default function OnlineDegreePage() {
               </div>
             </div>
 
-            <div className="space-y-12">
+            <div className="space-y-10">
               {REGIONAL_HUBS.map((hub) => (
-                <div key={hub.region} className="bg-[#f8f7f4] rounded-3xl p-6 md:p-8 border border-gray-200/70 shadow-sm">
-                  <div className="flex flex-col md:flex-row md:items-center justify-between gap-2 mb-6 pb-4 border-b border-gray-200">
+                <div key={hub.region} className="bg-slate-50 rounded-2xl p-6 md:p-8 border border-slate-200/80 shadow-sm">
+                  <div className="flex flex-col md:flex-row md:items-center justify-between gap-2 mb-6 pb-4 border-b border-slate-200">
                     <div>
-                      <h3 className="display-font text-2xl font-black text-[#0f172a] flex items-center gap-2">
-                        <Building size={20} className="text-indigo-600" /> {hub.region}
+                      <h3 className="font-display text-2xl font-bold text-slate-900 flex items-center gap-2">
+                        <Building size={20} className="text-blue-600" /> {hub.region}
                       </h3>
-                      <p className="text-xs font-bold text-indigo-700 mt-1 uppercase tracking-wider">
+                      <p className="text-xs font-semibold text-blue-700 mt-1 uppercase tracking-wider">
                         {hub.cities}
                       </p>
                     </div>
-                    <p className="text-xs text-gray-500 max-w-md font-medium">
+                    <p className="text-xs text-slate-600 max-w-md font-normal">
                       {hub.desc}
                     </p>
                   </div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                     {hub.colleges.map((col) => (
-                      <div key={col.name} className="bg-white p-5 rounded-2xl border border-gray-200/60 shadow-xs flex flex-col justify-between hover:border-indigo-300 transition-all group">
+                      <div key={col.name} className="bg-white p-5 rounded-xl border border-slate-200/80 shadow-xs flex flex-col justify-between hover:border-blue-300 hover:shadow-md hover:-translate-y-0.5 transition-all group">
                         <div>
                           <div className="flex items-center justify-between gap-2 mb-2">
-                            <span className="text-[10px] font-black uppercase tracking-wider bg-indigo-50 text-indigo-700 px-2 py-0.5 rounded border border-indigo-100">
+                            <span className="text-[10px] font-bold uppercase tracking-wider bg-blue-50 text-blue-700 px-2 py-0.5 rounded border border-blue-200/60">
                               {col.grade}
                             </span>
-                            <span className="text-[10px] font-bold text-gray-500 uppercase tracking-wider">
+                            <span className="text-[10px] font-medium text-slate-500 uppercase tracking-wider">
                               {col.badge}
                             </span>
                           </div>
-                          <h4 className="font-extrabold text-[#0f172a] text-sm group-hover:text-indigo-600 transition-colors line-clamp-2 mb-1">
+                          <h4 className="font-bold text-slate-900 text-sm group-hover:text-blue-600 transition-colors line-clamp-2 mb-1">
                             {col.name}
                           </h4>
-                          <p className="text-xs text-gray-500 font-medium flex items-center gap-1 mb-3">
-                            <MapPin size={12} className="text-indigo-400 shrink-0" />
+                          <p className="text-xs text-slate-500 font-normal flex items-center gap-1 mb-3">
+                            <MapPin size={12} className="text-blue-500 shrink-0" />
                             {col.loc}
                           </p>
                         </div>
-                        <div className="pt-3 border-t border-gray-100 flex items-center justify-between">
+                        <div className="pt-3 border-t border-slate-100 flex items-center justify-between">
                           <div>
-                            <span className="text-[10px] uppercase font-bold text-gray-400 block">Est. Fee</span>
-                            <span className="text-xs font-black text-emerald-700">{col.fee}</span>
+                            <span className="text-[10px] uppercase font-semibold text-slate-400 block">Est. Fee</span>
+                            <span className="text-xs font-bold text-emerald-700">{col.fee}</span>
                           </div>
                           <div className="flex items-center gap-2">
                             <Link
                               href={`/online-degree-certification/${col.univSlug}`}
-                              className="text-xs font-bold text-indigo-600 hover:underline flex items-center gap-0.5"
+                              className="text-xs font-semibold text-blue-600 hover:text-blue-800 hover:underline flex items-center gap-0.5"
                             >
                               Details →
                             </Link>
@@ -679,16 +611,16 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── STREAM-WISE DEGREE GUIDES (Semantic Topic Silos) ── */}
-        <section className="py-16 md:py-24 bg-[#f8f7f4]">
+        <section className="py-16 md:py-24 bg-slate-50 border-t border-slate-200/80">
           <div className="max-w-6xl mx-auto px-6">
             <div className="text-center max-w-3xl mx-auto mb-14">
-              <span className="inline-flex items-center gap-1.5 text-xs font-black text-indigo-600 uppercase tracking-widest mb-2 bg-white px-3.5 py-1 rounded-full border border-gray-200">
+              <span className="inline-flex items-center gap-1.5 text-xs font-semibold text-blue-700 uppercase tracking-wider mb-2 bg-white px-3.5 py-1 rounded-full border border-slate-200/80">
                 <Layers size={13} /> Program Streams &amp; Specializations
               </span>
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4">
+              <h2 className="font-display text-3xl md:text-4xl font-extrabold text-slate-900 mb-3">
                 Explore Popular Online Degrees by Domain
               </h2>
-              <p className="text-gray-500 text-sm md:text-base font-medium">
+              <p className="text-slate-600 text-sm md:text-base font-normal">
                 Choose from undergraduate (UG) and postgraduate (PG) online degrees with industry-tailored curriculum, virtual projects, and global career scopes.
               </p>
             </div>
@@ -696,87 +628,87 @@ export default function OnlineDegreePage() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               
               {/* Card 1: Management Hub */}
-              <div className="bg-white rounded-3xl p-8 border border-gray-200 shadow-sm flex flex-col justify-between">
+              <div className="bg-white rounded-2xl p-7 md:p-8 border border-slate-200/90 shadow-sm flex flex-col justify-between hover:shadow-xl hover:-translate-y-1 hover:border-blue-300 transition-all">
                 <div>
-                  <div className="w-12 h-12 rounded-2xl bg-indigo-50 text-indigo-600 flex items-center justify-center font-black text-xl mb-6">
+                  <div className="w-12 h-12 rounded-xl bg-amber-50 text-amber-600 flex items-center justify-center font-bold text-xl mb-5">
                     💼
                   </div>
-                  <span className="text-xs font-black text-indigo-600 uppercase tracking-widest">Management Hub</span>
-                  <h3 className="display-font text-2xl font-black text-[#0f172a] mt-1 mb-3">
+                  <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">Management Hub</span>
+                  <h3 className="font-display text-2xl font-bold text-slate-900 mt-1 mb-3">
                     Online MBA &amp; PGDM
                   </h3>
-                  <p className="text-gray-500 text-sm leading-relaxed mb-6 font-medium">
+                  <p className="text-slate-600 text-sm leading-relaxed mb-6 font-normal">
                     India&apos;s #1 career accelerator for working professionals. Choose from Marketing, Finance, HR, Business Analytics, Operations, and FinTech specializations.
                   </p>
-                  <div className="space-y-2 text-xs font-bold text-gray-700 mb-6">
+                  <div className="space-y-2 text-xs font-medium text-slate-700 mb-6">
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Duration: 2 Years (4 Semesters)</p>
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Fees: ₹62,200 – ₹2,20,000 total</p>
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Top Picks: Amity, LPU, Jain, NMIMS, Jaipuria</p>
                   </div>
                 </div>
-                <div className="pt-4 border-t border-gray-100 flex items-center justify-between">
-                  <Link href="/online-degree-certification/online-mba" className="text-xs font-extrabold text-indigo-600 hover:underline flex items-center gap-1">
+                <div className="pt-4 border-t border-slate-100 flex items-center justify-between">
+                  <Link href="/online-degree-certification/online-mba" className="text-xs font-bold text-blue-600 hover:text-blue-800 hover:underline flex items-center gap-1">
                     Explore Online MBA Hub <ArrowRight size={13} />
                   </Link>
-                  <Link href="/online-degree-certification/online-pgdm" className="text-xs font-bold text-gray-500 hover:text-indigo-600">
+                  <Link href="/online-degree-certification/online-pgdm" className="text-xs font-semibold text-slate-500 hover:text-blue-600">
                     PGDM Hub →
                   </Link>
                 </div>
               </div>
 
               {/* Card 2: Tech & IT Hub */}
-              <div className="bg-white rounded-3xl p-8 border border-gray-200 shadow-sm flex flex-col justify-between">
+              <div className="bg-white rounded-2xl p-7 md:p-8 border border-slate-200/90 shadow-sm flex flex-col justify-between hover:shadow-xl hover:-translate-y-1 hover:border-blue-300 transition-all">
                 <div>
-                  <div className="w-12 h-12 rounded-2xl bg-violet-50 text-violet-600 flex items-center justify-center font-black text-xl mb-6">
+                  <div className="w-12 h-12 rounded-xl bg-indigo-50 text-indigo-600 flex items-center justify-center font-bold text-xl mb-5">
                     💻
                   </div>
-                  <span className="text-xs font-black text-violet-600 uppercase tracking-widest">IT &amp; Computer Science</span>
-                  <h3 className="display-font text-2xl font-black text-[#0f172a] mt-1 mb-3">
+                  <span className="text-xs font-bold text-indigo-700 uppercase tracking-wider">IT &amp; Computer Science</span>
+                  <h3 className="font-display text-2xl font-bold text-slate-900 mt-1 mb-3">
                     Online MCA &amp; BCA
                   </h3>
-                  <p className="text-gray-500 text-sm leading-relaxed mb-6 font-medium">
+                  <p className="text-slate-600 text-sm leading-relaxed mb-6 font-normal">
                     Build high-paying software engineering credentials with tracks in Artificial Intelligence, Cloud Computing, Cyber Security, Data Science, and Full Stack Development.
                   </p>
-                  <div className="space-y-2 text-xs font-bold text-gray-700 mb-6">
+                  <div className="space-y-2 text-xs font-medium text-slate-700 mb-6">
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Duration: 2 Yrs (MCA) / 3 Yrs (BCA)</p>
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Fees: ₹80,000 – ₹1,80,000 total</p>
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Top Picks: Jain, LPU, Chandigarh Univ, SRM</p>
                   </div>
                 </div>
-                <div className="pt-4 border-t border-gray-100 flex items-center justify-between">
-                  <Link href="/online-degree-certification/online-mca" className="text-xs font-extrabold text-violet-600 hover:underline flex items-center gap-1">
+                <div className="pt-4 border-t border-slate-100 flex items-center justify-between">
+                  <Link href="/online-degree-certification/online-mca" className="text-xs font-bold text-blue-600 hover:text-blue-800 hover:underline flex items-center gap-1">
                     Explore Online MCA <ArrowRight size={13} />
                   </Link>
-                  <Link href="/online-degree-certification/online-bca" className="text-xs font-bold text-gray-500 hover:text-violet-600">
+                  <Link href="/online-degree-certification/online-bca" className="text-xs font-semibold text-slate-500 hover:text-blue-600">
                     BCA Hub →
                   </Link>
                 </div>
               </div>
 
               {/* Card 3: Commerce & Humanities Hub */}
-              <div className="bg-white rounded-3xl p-8 border border-gray-200 shadow-sm flex flex-col justify-between">
+              <div className="bg-white rounded-2xl p-7 md:p-8 border border-slate-200/90 shadow-sm flex flex-col justify-between hover:shadow-xl hover:-translate-y-1 hover:border-blue-300 transition-all">
                 <div>
-                  <div className="w-12 h-12 rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center font-black text-xl mb-6">
+                  <div className="w-12 h-12 rounded-xl bg-cyan-50 text-cyan-600 flex items-center justify-center font-bold text-xl mb-5">
                     📚
                   </div>
-                  <span className="text-xs font-black text-amber-600 uppercase tracking-widest">Arts &amp; Commerce</span>
-                  <h3 className="display-font text-2xl font-black text-[#0f172a] mt-1 mb-3">
+                  <span className="text-xs font-bold text-cyan-700 uppercase tracking-wider">Arts &amp; Commerce</span>
+                  <h3 className="font-display text-2xl font-bold text-slate-900 mt-1 mb-3">
                     Online MA &amp; B.Com / M.Com
                   </h3>
-                  <p className="text-gray-500 text-sm leading-relaxed mb-6 font-medium">
+                  <p className="text-slate-600 text-sm leading-relaxed mb-6 font-normal">
                     Ideal for UPSC civil services preparation, CA/CS aspirants, educators, and commerce professionals seeking budget-friendly accredited postgraduate degrees.
                   </p>
-                  <div className="space-y-2 text-xs font-bold text-gray-700 mb-6">
+                  <div className="space-y-2 text-xs font-medium text-slate-700 mb-6">
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Duration: 2 Yrs (MA/M.Com) / 3 Yrs (B.Com)</p>
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Fees: Starting from ₹20,000 total</p>
                     <p className="flex items-center gap-2"><CheckCircle2 size={14} className="text-emerald-500" /> Top Picks: JMI, LPU, Chandigarh Univ, VGU</p>
                   </div>
                 </div>
-                <div className="pt-4 border-t border-gray-100 flex items-center justify-between">
-                  <Link href="/online-degree-certification/online-ma-english" className="text-xs font-extrabold text-amber-600 hover:underline flex items-center gap-1">
+                <div className="pt-4 border-t border-slate-100 flex items-center justify-between">
+                  <Link href="/online-degree-certification/online-ma-english" className="text-xs font-bold text-blue-600 hover:text-blue-800 hover:underline flex items-center gap-1">
                     MA English Guide <ArrowRight size={13} />
                   </Link>
-                  <Link href="/online-degree-certification/online-bcom" className="text-xs font-bold text-gray-500 hover:text-amber-600">
+                  <Link href="/online-degree-certification/online-bcom" className="text-xs font-semibold text-slate-500 hover:text-blue-600">
                     B.Com Hub →
                   </Link>
                 </div>
@@ -787,36 +719,36 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── INTERACTIVE CLIENT FILTERING COMPONENT ── */}
-        <div className="border-t border-gray-200">
+        <div className="border-t border-slate-200">
           <OnlineDegreeClient />
         </div>
 
         {/* ── STATIC COMPARISON MATRIX TABLE (SEO POWERHOUSE) ── */}
-        <section className="bg-white py-16 md:py-24 border-t border-gray-100">
+        <section className="bg-white py-16 md:py-24 border-t border-slate-200/80">
           <div className="max-w-6xl mx-auto px-6">
             <div className="text-center max-w-3xl mx-auto mb-12">
-              <span className="block text-xs font-black text-indigo-600 uppercase tracking-widest mb-2">Detailed Fee &amp; Accreditation Matrix</span>
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4">
+              <span className="inline-block text-xs font-semibold text-blue-700 uppercase tracking-wider mb-2 bg-blue-50 px-3 py-1 rounded-full border border-blue-200/80">Detailed Fee &amp; Accreditation Matrix</span>
+              <h2 className="font-display text-3xl md:text-4xl font-extrabold text-slate-900 mb-3">
                 Top UGC Approved Online Universities ROI Matrix (2027)
               </h2>
-              <p className="text-gray-500 font-medium text-sm md:text-base">
+              <p className="text-slate-600 font-normal text-sm md:text-base">
                 A verified breakdown of fee structures, specializations, NAAC ratings, and direct university comparison links.
               </p>
             </div>
             
-            <div className="overflow-x-auto border-[4px] border-[#0f172a] rounded-3xl shadow-[10px_10px_0px_0px_rgba(15,23,42,1)] bg-white">
+            <div className="overflow-hidden border border-slate-200 rounded-2xl shadow-sm bg-white">
               <table className="w-full text-left border-collapse min-w-[850px]">
                 <thead>
-                  <tr className="bg-[#0f172a] text-white font-bold text-xs uppercase tracking-widest border-b-[3px] border-[#0f172a]">
-                    <th className="px-6 py-4.5">University Name</th>
-                    <th className="px-6 py-4.5 text-center">NAAC Rating</th>
-                    <th className="px-6 py-4.5">Est. Total Fees</th>
-                    <th className="px-6 py-4.5">Key Programs</th>
-                    <th className="px-6 py-4.5">Approvals</th>
-                    <th className="px-6 py-4.5 text-center">Action</th>
+                  <tr className="bg-[#0A192F] text-white font-bold text-xs uppercase tracking-wider">
+                    <th className="px-6 py-4">University Name</th>
+                    <th className="px-6 py-4 text-center">NAAC Rating</th>
+                    <th className="px-6 py-4">Est. Total Fees</th>
+                    <th className="px-6 py-4">Key Programs</th>
+                    <th className="px-6 py-4">Approvals</th>
+                    <th className="px-6 py-4 text-center">Action</th>
                   </tr>
                 </thead>
-                <tbody className="divide-y divide-gray-100 font-medium text-gray-700 text-sm">
+                <tbody className="divide-y divide-slate-100 font-medium text-slate-700 text-sm">
                   {[
                     { name: 'Amity University Online', grade: 'A+ Rated', fee: '₹1.99 Lakhs', programs: 'MBA, BBA, MCA, BCA, B.Com, MA', approvals: 'UGC-DEB, WES, AICTE', slug: 'amity-university-online-mba-review-2026', univSlug: 'amity-university-online' },
                     { name: 'Jain University Online', grade: 'A++ Rated', fee: '₹1.96 Lakhs', programs: 'MBA, BBA, MCA, BCA, MA, M.Com', approvals: 'UGC-DEB, WES, AICTE', slug: 'jain-university-online-mba-review-2026', univSlug: 'jain-university-online' },
@@ -831,27 +763,27 @@ export default function OnlineDegreePage() {
                     { name: 'Andhra University Online', grade: 'A Rated', fee: '₹62,200', programs: 'MBA, MCA, MA, B.Com, BA', approvals: 'UGC-DEB, State Govt', slug: 'andhra-university-online-mba-review-2026', univSlug: 'andhra-university-online' },
                     { name: 'Uttaranchal University Online', grade: 'A+ Rated', fee: '₹98,000', programs: 'MBA, BBA, MCA, BCA, BA, MA', approvals: 'UGC-DEB, AICTE', slug: 'uttaranchal-university-online-mba-review-2026', univSlug: 'uttaranchal-university-online' },
                   ].map((univ, idx) => (
-                    <tr key={idx} className="hover:bg-slate-50/70 transition-colors">
-                      <td className="px-6 py-4 font-bold text-[#0f172a]">
-                        <Link href={`/online-degree-certification/${univ.univSlug}`} className="hover:text-indigo-600 hover:underline">
+                    <tr key={idx} className="hover:bg-blue-50/40 transition-colors">
+                      <td className="px-6 py-4 font-bold text-slate-900">
+                        <Link href={`/online-degree-certification/${univ.univSlug}`} className="hover:text-blue-600 hover:underline">
                           {univ.name}
                         </Link>
                       </td>
                       <td className="px-6 py-4 text-center">
-                        <span className="bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full text-xs font-bold border border-indigo-100">
+                        <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-xs font-semibold border border-blue-200/60">
                           {univ.grade}
                         </span>
                       </td>
-                      <td className="px-6 py-4 font-black text-emerald-700">{univ.fee}</td>
-                      <td className="px-6 py-4 text-xs font-semibold text-gray-600">{univ.programs}</td>
-                      <td className="px-6 py-4 text-xs font-bold text-gray-500">{univ.approvals}</td>
+                      <td className="px-6 py-4 font-bold text-emerald-700">{univ.fee}</td>
+                      <td className="px-6 py-4 text-xs font-medium text-slate-600">{univ.programs}</td>
+                      <td className="px-6 py-4 text-xs font-semibold text-slate-500">{univ.approvals}</td>
                       <td className="px-6 py-4 text-center">
                         {univ.slug ? (
-                          <Link href={`/blog/${univ.slug}`} className="inline-flex items-center gap-1 text-xs font-bold text-indigo-600 hover:underline bg-indigo-50/60 px-2.5 py-1 rounded-lg border border-indigo-100">
-                            <BookOpen size={11} /> Review
+                          <Link href={`/blog/${univ.slug}`} className="inline-flex items-center gap-1 text-xs font-semibold text-blue-600 hover:text-blue-800 bg-blue-50 px-3 py-1.5 rounded-lg border border-blue-200/60 transition-colors">
+                            <BookOpen size={12} /> Review
                           </Link>
                         ) : (
-                          <Link href={`/online-degree-certification/${univ.univSlug}`} className="inline-flex items-center gap-1 text-xs font-bold text-gray-600 hover:underline">
+                          <Link href={`/online-degree-certification/${univ.univSlug}`} className="inline-flex items-center gap-1 text-xs font-semibold text-slate-600 hover:text-blue-600 hover:underline">
                             Details
                           </Link>
                         )}
@@ -865,57 +797,57 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── UGC VALIDITY & REGULATIONS INFO SECTION ── */}
-        <section className="bg-[#f8f7f4] py-16 md:py-24 border-t border-b border-gray-200">
+        <section className="bg-slate-50 py-16 md:py-24 border-t border-b border-slate-200/80">
           <div className="max-w-5xl mx-auto px-6">
             <div className="text-center max-w-3xl mx-auto mb-12">
-              <span className="text-xs font-black text-indigo-600 uppercase tracking-widest mb-2 block">Regulatory Compliance &amp; Legal Framework</span>
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4">
+              <span className="text-xs font-semibold text-blue-700 uppercase tracking-wider mb-2 inline-block bg-blue-50 px-3 py-1 rounded-full border border-blue-200/80">Regulatory Compliance &amp; Legal Framework</span>
+              <h2 className="font-display text-3xl md:text-4xl font-extrabold text-slate-900 mb-3">
                 Are Online Degrees Legally Accepted in India &amp; Globally?
               </h2>
-              <p className="text-gray-500 text-sm md:text-base font-medium">
+              <p className="text-slate-600 text-sm md:text-base font-normal">
                 Complete legal breakdown of UGC Gazette Notification 2020, UPSC Civil Services eligibility, and WES North American equivalence.
               </p>
             </div>
 
             <div className="space-y-6">
               
-              <div className="bg-white border-l-[8px] border-indigo-600 p-8 rounded-r-3xl shadow-sm">
-                <h3 className="font-black text-[#0f172a] text-xl mb-3 flex items-center gap-2">
-                  <ShieldCheck size={22} className="text-indigo-600" />
+              <div className="bg-white border-l-4 border-blue-600 p-7 md:p-8 rounded-2xl shadow-sm border-t border-r border-b border-slate-200/80">
+                <h3 className="font-bold text-slate-900 text-xl mb-3 flex items-center gap-2">
+                  <ShieldCheck size={22} className="text-blue-600" />
                   UGC Regulations 2020: Statutory Clause on Degree Equivalence
                 </h3>
-                <p className="text-gray-600 text-sm md:text-base leading-relaxed mb-4">
+                <p className="text-slate-600 text-sm md:text-base leading-relaxed mb-4 font-normal">
                   As per <strong>Regulation 22 of the University Grants Commission (Open and Distance Learning Programmes and Online Programmes) Regulations, 2020</strong> published in the Gazette of India:
                 </p>
-                <blockquote className="bg-indigo-50/60 border-l-4 border-indigo-400 p-4 rounded-r-xl italic text-xs md:text-sm font-semibold text-slate-800 mb-3">
+                <blockquote className="bg-blue-50/70 border-l-4 border-blue-500 p-4 rounded-r-xl italic text-xs md:text-sm font-semibold text-slate-800 mb-3">
                   &ldquo;Degrees at Undergraduate and Postgraduate levels awarded through Open and Distance Learning mode and/or Online mode by Higher Educational Institutions, shall be treated as equivalent to corresponding degrees awarded through the conventional physical classroom mode.&rdquo;
                 </blockquote>
-                <p className="text-xs text-gray-500 font-medium">
+                <p className="text-xs text-slate-500 font-medium">
                   Source: University Grants Commission Notification F.No. 1-4/2018 (DEB-I), The Gazette of India.
                 </p>
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-4">
-                <div className="bg-white p-7 rounded-3xl border border-gray-200 shadow-sm">
+                <div className="bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:shadow-md transition-shadow">
                   <div className="text-3xl mb-3">🏛️</div>
-                  <h4 className="font-black text-[#0f172a] text-base mb-2">Government &amp; PSU Jobs</h4>
-                  <p className="text-xs md:text-sm leading-relaxed text-gray-500">
+                  <h4 className="font-bold text-slate-900 text-base mb-2">Government &amp; PSU Jobs</h4>
+                  <p className="text-xs md:text-sm leading-relaxed text-slate-500 font-normal">
                     Eligible for UPSC (IAS/IPS), SSC CGL, Bank PO (SBI/IBPS), Railways (RRB), Defence, and state PSC recruitments. UGC-DEB degrees fulfill standard educational criteria.
                   </p>
                 </div>
 
-                <div className="bg-white p-7 rounded-3xl border border-gray-200 shadow-sm">
+                <div className="bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:shadow-md transition-shadow">
                   <div className="text-3xl mb-3">🌐</div>
-                  <h4 className="font-black text-[#0f172a] text-base mb-2">WES Approval &amp; Study Abroad</h4>
-                  <p className="text-xs md:text-sm leading-relaxed text-gray-500">
+                  <h4 className="font-bold text-slate-900 text-base mb-2">WES Approval &amp; Study Abroad</h4>
+                  <p className="text-xs md:text-sm leading-relaxed text-slate-500 font-normal">
                     World Education Services (WES) evaluates credentials from Amity, LPU, Jain, and Manipal as equivalent to Canadian and US university degrees for Express Entry PR and MS admissions.
                   </p>
                 </div>
 
-                <div className="bg-white p-7 rounded-3xl border border-gray-200 shadow-sm">
+                <div className="bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:shadow-md transition-shadow">
                   <div className="text-3xl mb-3">💼</div>
-                  <h4 className="font-black text-[#0f172a] text-base mb-2">Corporate MNC Hiring</h4>
-                  <p className="text-xs md:text-sm leading-relaxed text-gray-500">
+                  <h4 className="font-bold text-slate-900 text-base mb-2">Corporate MNC Hiring</h4>
+                  <p className="text-xs md:text-sm leading-relaxed text-slate-500 font-normal">
                     Top corporate employers (TCS, Infosys, Deloitte, Accenture, Amazon, HDFC Bank) prioritize verified skills, domain knowledge, and recognized accredited qualifications.
                   </p>
                 </div>
@@ -929,11 +861,11 @@ export default function OnlineDegreePage() {
         <section className="bg-white py-16 md:py-24">
           <div className="max-w-4xl mx-auto px-6">
             <div className="text-center max-w-2xl mx-auto mb-14">
-              <span className="text-xs font-black text-indigo-600 uppercase tracking-widest mb-2 block">Step-By-Step Framework</span>
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3">
+              <span className="text-xs font-semibold text-blue-700 uppercase tracking-wider mb-2 inline-block bg-blue-50 px-3 py-1 rounded-full border border-blue-200/80">Step-By-Step Framework</span>
+              <h2 className="font-display text-3xl md:text-4xl font-extrabold text-slate-900 mb-3">
                 How to Choose &amp; Apply for an Online Degree (2027)
               </h2>
-              <p className="text-gray-500 text-sm md:text-base font-medium">
+              <p className="text-slate-600 text-sm md:text-base font-normal">
                 Follow this 5-stage roadmap to safeguard your investment and ensure maximum career ROI.
               </p>
             </div>
@@ -946,11 +878,11 @@ export default function OnlineDegreePage() {
                 { step: '04', title: 'Compare Total Fees vs. Zero-Cost EMI Plans', desc: 'Evaluate complete 2-year costs (tuition + LMS + exam fees). Most approved universities offer zero-interest EMI plans starting from ₹4,000/month.' },
                 { step: '05', title: 'Verify Global Recognition (WES & AIU Status)', desc: 'If planning to work or migrate to Canada, USA, UK, or UAE, confirm WES accreditation and AIU membership before finalizing your admission.' },
               ].map((item) => (
-                <div key={item.step} className="flex gap-6 items-start bg-[#f8f7f4] rounded-3xl p-6 md:p-8 border border-gray-100 hover:border-indigo-200 transition-colors">
-                  <span className="display-font text-3xl md:text-4xl font-black text-indigo-300 shrink-0 leading-none">{item.step}</span>
+                <div key={item.step} className="flex gap-5 items-start bg-slate-50 rounded-2xl p-6 md:p-7 border border-slate-200/80 hover:border-blue-300 hover:shadow-sm transition-all">
+                  <span className="font-display text-2xl md:text-3xl font-extrabold text-blue-600 shrink-0 leading-none">{item.step}</span>
                   <div>
-                    <h3 className="font-black text-[#0f172a] text-lg mb-1.5">{item.title}</h3>
-                    <p className="text-gray-500 text-sm leading-relaxed font-medium">{item.desc}</p>
+                    <h3 className="font-bold text-slate-900 text-base md:text-lg mb-1">{item.title}</h3>
+                    <p className="text-slate-600 text-sm leading-relaxed font-normal">{item.desc}</p>
                   </div>
                 </div>
               ))}
@@ -959,14 +891,14 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── HIGH-TRAFFIC HEAD-TO-HEAD COMPARISON HUBS ── */}
-        <section className="bg-[#f8f7f4] py-16 md:py-24 border-t border-gray-200">
+        <section className="bg-slate-50 py-16 md:py-24 border-t border-slate-200/80">
           <div className="max-w-5xl mx-auto px-6">
             <div className="text-center max-w-2xl mx-auto mb-12">
-              <span className="text-xs font-black text-indigo-600 uppercase tracking-widest mb-2 block">Side-by-Side Analysis</span>
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3">
+              <span className="text-xs font-semibold text-blue-700 uppercase tracking-wider mb-2 inline-block bg-white px-3 py-1 rounded-full border border-slate-200/80">Side-by-Side Analysis</span>
+              <h2 className="font-display text-3xl md:text-4xl font-extrabold text-slate-900 mb-3">
                 Popular Online University Comparisons
               </h2>
-              <p className="text-gray-500 text-sm md:text-base font-medium">
+              <p className="text-slate-600 text-sm md:text-base font-normal">
                 Compare fees, NAAC grades, placement assistance, and LMS features between India’s top online universities.
               </p>
             </div>
@@ -986,17 +918,17 @@ export default function OnlineDegreePage() {
                 <Link
                   key={comp.slug}
                   href={`/online-degree-certification/${comp.slug}`}
-                  className="bg-white p-5 rounded-2xl border border-gray-200/80 shadow-xs hover:border-indigo-400 hover:shadow-md transition-all flex flex-col justify-between group"
+                  className="bg-white p-5 rounded-2xl border border-slate-200/80 shadow-xs hover:border-blue-400 hover:shadow-md hover:-translate-y-0.5 transition-all flex flex-col justify-between group"
                 >
                   <div>
-                    <span className="text-[10px] font-black uppercase tracking-wider text-indigo-600 bg-indigo-50 px-2 py-0.5 rounded">
+                    <span className="text-[10px] font-bold uppercase tracking-wider text-blue-700 bg-blue-50 px-2 py-0.5 rounded border border-blue-100">
                       {comp.tag}
                     </span>
-                    <h3 className="font-extrabold text-[#0f172a] text-sm md:text-base mt-2 mb-2 group-hover:text-indigo-600 transition-colors">
+                    <h3 className="font-bold text-slate-900 text-sm md:text-base mt-2.5 mb-2 group-hover:text-blue-600 transition-colors">
                       {comp.title}
                     </h3>
                   </div>
-                  <span className="text-xs font-bold text-indigo-500 flex items-center gap-1 mt-3">
+                  <span className="text-xs font-semibold text-blue-600 flex items-center gap-1 mt-3 group-hover:underline">
                     View Full Matrix →
                   </span>
                 </Link>
@@ -1006,30 +938,30 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── AUTHOR E-E-A-T TRUST BLOCK ── */}
-        <section className="bg-white py-14 border-t border-gray-100">
+        <section className="bg-white py-14 border-t border-slate-200/80">
           <div className="max-w-4xl mx-auto px-6">
-            <div className="bg-[#f8f7f4] border-2 border-indigo-100 rounded-3xl p-6 md:p-8 flex flex-col sm:flex-row items-center gap-6">
-              <div className="w-20 h-20 rounded-2xl bg-indigo-600 text-white flex items-center justify-center font-black text-2xl shrink-0 shadow-lg shadow-indigo-600/20">
+            <div className="bg-slate-50 border border-slate-200/90 rounded-2xl p-6 md:p-8 flex flex-col sm:flex-row items-center gap-6 shadow-sm">
+              <div className="w-18 h-18 rounded-2xl bg-blue-600 text-white flex items-center justify-center font-bold text-2xl shrink-0 shadow-md shadow-blue-500/20">
                 MJ
               </div>
               <div className="space-y-1.5 text-center sm:text-left">
                 <div className="flex flex-wrap items-center justify-center sm:justify-start gap-2">
-                  <h3 className="font-black text-lg text-[#0f172a]">Counselling &amp; Advisory by Mohit Jain</h3>
-                  <span className="bg-emerald-100 text-emerald-800 text-[10px] font-black uppercase px-2.5 py-0.5 rounded-full">
+                  <h3 className="font-bold text-lg text-slate-900">Counselling &amp; Advisory by Mohit Jain</h3>
+                  <span className="bg-emerald-100 text-emerald-800 text-[10px] font-bold uppercase px-2.5 py-0.5 rounded-full border border-emerald-200">
                     Verified Expert
                   </span>
                 </div>
-                <p className="text-xs font-bold text-indigo-600">
+                <p className="text-xs font-semibold text-blue-700">
                   IIM Bangalore &amp; FMS Delhi Certified in Digital Marketing · 6+ Years Admissions Advisory · 5,000+ Students Mentored
                 </p>
-                <p className="text-xs text-gray-500 leading-relaxed font-medium">
+                <p className="text-xs text-slate-600 leading-relaxed font-normal">
                   Confused between multiple online universities? Get honest, unbiased profile evaluation, fee negotiation guidance, and scholarship assistance directly with Mohit Jain.
                 </p>
                 <div className="pt-2 flex flex-wrap justify-center sm:justify-start gap-3">
-                  <a href="tel:+919560020771" className="text-xs font-bold text-slate-800 bg-white border border-gray-200 px-3 py-1.5 rounded-xl hover:bg-gray-50 flex items-center gap-1.5">
-                    <Phone size={12} className="text-indigo-600" /> +91 95600 20771
+                  <a href="tel:+919560020771" className="text-xs font-bold text-slate-800 bg-white border border-slate-200 px-3.5 py-1.5 rounded-xl hover:bg-slate-50 flex items-center gap-1.5 shadow-xs">
+                    <Phone size={12} className="text-blue-600" /> +91 95600 20771
                   </a>
-                  <Link href="/about" className="text-xs font-bold text-indigo-600 hover:underline py-1.5 flex items-center gap-1">
+                  <Link href="/about" className="text-xs font-bold text-blue-600 hover:text-blue-800 hover:underline py-1.5 flex items-center gap-1">
                     About Mohit Jain →
                   </Link>
                 </div>
@@ -1039,14 +971,14 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── COMPREHENSIVE FAQ SECTION ── */}
-        <section className="bg-[#f8f7f4] py-16 md:py-24 border-t border-gray-200">
+        <section className="bg-slate-50 py-16 md:py-24 border-t border-slate-200/80">
           <div className="max-w-4xl mx-auto px-6">
             <div className="text-center max-w-2xl mx-auto mb-12">
-              <span className="text-xs font-black text-indigo-600 uppercase tracking-widest mb-2 block">Answers to High-Search Questions</span>
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3">
+              <span className="text-xs font-semibold text-blue-700 uppercase tracking-wider mb-2 inline-block bg-white px-3 py-1 rounded-full border border-slate-200/80">Answers to High-Search Questions</span>
+              <h2 className="font-display text-3xl md:text-4xl font-extrabold text-slate-900 mb-3">
                 Frequently Asked Questions (FAQ)
               </h2>
-              <p className="text-gray-500 font-medium text-sm md:text-base">
+              <p className="text-slate-600 font-normal text-sm md:text-base">
                 Everything you need to know about UGC approvals, fees, exam modes, and career outcomes.
               </p>
             </div>
@@ -1055,13 +987,13 @@ export default function OnlineDegreePage() {
               {FAQ_ITEMS.map((item, i) => (
                 <details
                   key={i}
-                  className="group bg-white rounded-2xl border border-gray-200 shadow-xs overflow-hidden transition-colors"
+                  className="group bg-white rounded-2xl border border-slate-200/80 shadow-xs overflow-hidden transition-all hover:border-blue-200"
                 >
-                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-extrabold text-[#0f172a] text-sm md:text-base hover:text-indigo-600 transition-colors">
+                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-bold text-slate-900 text-sm md:text-base hover:text-blue-600 transition-colors">
                     <span>{item.q}</span>
-                    <ChevronDown size={18} className="text-indigo-500 shrink-0 transition-transform group-open:rotate-180" />
+                    <ChevronDown size={18} className="text-blue-500 shrink-0 transition-transform group-open:rotate-180" />
                   </summary>
-                  <div className="px-6 pb-6 text-gray-600 text-sm leading-relaxed border-t border-gray-100 pt-4 font-medium">
+                  <div className="px-6 pb-6 text-slate-600 text-sm leading-relaxed border-t border-slate-100 pt-4 font-normal">
                     {item.a}
                   </div>
                 </details>
@@ -1071,16 +1003,18 @@ export default function OnlineDegreePage() {
         </section>
 
         {/* ── BOTTOM CTA BANNER ── */}
-        <section className="bg-[#090d16] py-20 md:py-28 relative overflow-hidden text-center text-white px-6">
-          <div className="absolute inset-0 bg-gradient-to-b from-indigo-500/10 to-transparent pointer-events-none" />
+        <section className="bg-gradient-to-b from-[#0A192F] via-[#0F2744] to-[#123058] py-20 md:py-28 relative overflow-hidden text-center text-white px-6 border-t border-blue-900/40">
+          {/* Ambient Glow */}
+          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[700px] h-[300px] bg-blue-500/15 blur-[120px] pointer-events-none rounded-full" />
+          
           <div className="max-w-3xl mx-auto relative z-10">
-            <span className="inline-block bg-indigo-500/20 text-indigo-300 text-xs font-black uppercase tracking-widest px-4 py-1.5 rounded-full mb-6 border border-indigo-500/30">
+            <span className="inline-block bg-white/10 text-amber-300 text-xs font-bold uppercase tracking-wider px-4 py-1.5 rounded-full mb-6 border border-white/15 backdrop-blur-md">
               100% Free Profile Assessment
             </span>
-            <h2 className="display-font text-3xl md:text-5xl font-black mb-6 tracking-tight">
+            <h2 className="font-display text-3xl md:text-5xl font-extrabold mb-6 tracking-tight text-white leading-tight">
               Ready to Accelerate Your Career with an Online Degree?
             </h2>
-            <p className="text-white/60 mb-10 text-base md:text-lg max-w-xl mx-auto leading-relaxed font-medium">
+            <p className="text-blue-100/80 mb-10 text-base md:text-lg max-w-xl mx-auto leading-relaxed font-normal">
               Get an unbiased 1-on-1 profile evaluation call with Mohit Jain and find the exact right university based on your budget, specializations, and career goals.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -1088,13 +1022,13 @@ export default function OnlineDegreePage() {
                 href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20want%20free%20counselling%20for%20an%20online%20degree"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gradient-to-r from-indigo-500 to-violet-600 text-white font-bold text-base px-10 py-4 rounded-2xl hover:opacity-90 transition-all shadow-xl shadow-indigo-900/30 transform hover:-translate-y-0.5"
+                className="bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-base px-8 py-4 rounded-xl shadow-lg transition-all transform hover:-translate-y-0.5"
               >
                 Get Free Counselling on WhatsApp →
               </a>
               <a
                 href="tel:+919560020771"
-                className="bg-white/10 hover:bg-white/20 border border-white/20 text-white font-bold text-base px-8 py-4 rounded-2xl transition-all"
+                className="bg-white/10 hover:bg-white/20 border border-white/20 text-white font-bold text-base px-8 py-4 rounded-xl backdrop-blur-md transition-all"
               >
                 Call +91 95600 20771
               </a>
