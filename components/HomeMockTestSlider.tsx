@@ -217,35 +217,31 @@ export default function HomeMockTestSlider() {
   return (
     <section 
       aria-label="Free MBA Mock Test Series Slider"
-      className="bg-white border-b-8 border-foreground py-16 px-4 sm:px-8 lg:px-12 relative overflow-hidden"
+      className="bg-white border-b border-slate-200 py-16 px-4 sm:px-8 lg:px-12 relative overflow-hidden"
       onMouseEnter={() => setIsPaused(true)}
       onMouseLeave={() => setIsPaused(false)}
       onTouchStart={() => setIsPaused(true)}
       onTouchEnd={() => setIsPaused(false)}
     >
-      {/* Neo-brutalist decorative background elements */}
-      <div className="absolute top-0 right-10 w-48 h-48 bg-accent/20 rotate-12 -z-0 pointer-events-none rounded-3xl" />
-      <div className="absolute bottom-0 left-10 w-32 h-32 bg-primary/10 -rotate-12 -z-0 pointer-events-none rounded-2xl" />
-
       <div className="mx-auto max-w-7xl relative z-10">
         {/* Banner Top Header */}
-        <div className="flex flex-col lg:flex-row lg:items-end justify-between mb-8 gap-6 border-b-4 border-foreground pb-6">
+        <div className="flex flex-col lg:flex-row lg:items-end justify-between mb-8 gap-6 border-b border-slate-200 pb-6">
           <div>
             <div className="flex flex-wrap items-center gap-3 mb-3">
-              <span className="inline-flex items-center gap-1.5 bg-accent text-foreground border-2 border-foreground px-3.5 py-1 text-xs font-black uppercase tracking-wider shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
-                <Sparkles className="w-3.5 h-3.5 text-foreground animate-pulse" />
+              <span className="inline-flex items-center gap-1.5 bg-amber-50 text-amber-800 border border-amber-200 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider">
+                <Sparkles className="w-3.5 h-3.5 text-amber-600" />
                 100% Free Practice Tests
               </span>
-              <span className="inline-flex items-center gap-1.5 bg-foreground text-white px-3.5 py-1 text-xs font-black uppercase tracking-wider">
-                <CheckCircle2 className="w-3.5 h-3.5 text-secondary" />
+              <span className="inline-flex items-center gap-1.5 bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider">
+                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
                 Live CBT Exam Simulator
               </span>
             </div>
             
-            <h2 className="font-display text-3xl sm:text-5xl font-black uppercase text-foreground tracking-tight leading-tight">
-              MBA Mock Test <span className="text-primary italic">Series 2026-27</span>
+            <h2 className="font-display text-3xl sm:text-5xl font-extrabold text-slate-900 tracking-tight leading-tight">
+              MBA Mock Test <span className="text-blue-600">Series 2026-27</span>
             </h2>
-            <p className="mt-2 text-base sm:text-lg font-bold text-gray-600 max-w-2xl">
+            <p className="mt-2 text-base sm:text-lg font-normal text-slate-600 max-w-2xl">
               Simulate actual exam screens, timed sections, and get instant AI score & percentile predictions.
             </p>
           </div>
@@ -255,7 +251,7 @@ export default function HomeMockTestSlider() {
             <Link
               href="/mock-tests"
               prefetch={false}
-              className="inline-flex items-center gap-2 bg-white text-foreground border-4 border-foreground px-4 sm:px-5 py-2.5 text-sm sm:text-base font-black uppercase tracking-wider hover:bg-accent transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-x-0.5 active:translate-y-0.5 active:shadow-none"
+              className="inline-flex items-center gap-2 bg-slate-900 text-white rounded-xl px-5 py-2.5 text-sm font-bold tracking-wide hover:bg-blue-600 transition-all shadow-sm"
             >
               All Mocks <ArrowRight className="w-4 h-4" />
             </Link>
@@ -265,17 +261,17 @@ export default function HomeMockTestSlider() {
                 type="button"
                 onClick={handlePrev}
                 aria-label="Previous mock test"
-                className="w-12 h-12 flex items-center justify-center bg-white hover:bg-accent border-4 border-foreground text-foreground transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-x-0.5 active:translate-y-0.5 active:shadow-none cursor-pointer"
+                className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-100 hover:bg-blue-50 text-slate-700 hover:text-blue-600 transition-all cursor-pointer border border-slate-200"
               >
-                <ChevronLeft className="w-6 h-6 stroke-[3]" />
+                <ChevronLeft className="w-5 h-5 stroke-[2.5]" />
               </button>
               <button
                 type="button"
                 onClick={handleNext}
                 aria-label="Next mock test"
-                className="w-12 h-12 flex items-center justify-center bg-white hover:bg-accent border-4 border-foreground text-foreground transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-x-0.5 active:translate-y-0.5 active:shadow-none cursor-pointer"
+                className="w-10 h-10 flex items-center justify-center rounded-xl bg-slate-100 hover:bg-blue-50 text-slate-700 hover:text-blue-600 transition-all cursor-pointer border border-slate-200"
               >
-                <ChevronRight className="w-6 h-6 stroke-[3]" />
+                <ChevronRight className="w-5 h-5 stroke-[2.5]" />
               </button>
             </div>
           </div>
@@ -290,10 +286,10 @@ export default function HomeMockTestSlider() {
                 key={exam.id}
                 type="button"
                 onClick={() => scrollToCard(idx)}
-                className={`flex-shrink-0 px-4 py-2 text-xs sm:text-sm font-black uppercase tracking-wider transition-all border-2 border-foreground cursor-pointer ${
+                className={`flex-shrink-0 px-4 py-2 text-xs sm:text-sm font-bold uppercase tracking-wider transition-all rounded-full cursor-pointer ${
                   isActive 
-                    ? 'bg-foreground text-white shadow-[3px_3px_0px_0px_rgba(59,130,246,1)] -translate-y-0.5' 
-                    : 'bg-white text-gray-700 hover:bg-gray-100 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]'
+                    ? 'bg-blue-600 text-white shadow-md' 
+                    : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
                 }`}
               >
                 {exam.name}
@@ -313,15 +309,15 @@ export default function HomeMockTestSlider() {
               <div
                 key={exam.id}
                 data-slider-card
-                className={`snap-center flex-shrink-0 w-[88vw] sm:w-[380px] lg:w-[390px] xl:w-[410px] rounded-2xl border-4 border-foreground ${exam.accentBg} p-6 sm:p-7 flex flex-col justify-between transition-all duration-300 hover:-translate-y-2 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] group relative overflow-hidden`}
+                className="snap-center flex-shrink-0 w-[88vw] sm:w-[380px] lg:w-[390px] xl:w-[410px] rounded-2xl border border-slate-200/90 bg-white p-6 sm:p-7 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl shadow-sm hover:border-blue-300 group relative overflow-hidden"
               >
                 {/* Decorative Top Accent Tag */}
                 <div className="flex items-center justify-between gap-2 mb-4">
-                  <span className={`inline-block text-[11px] font-black uppercase tracking-wider px-3 py-1 border-2 border-foreground ${exam.badgeColor} shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]`}>
+                  <span className={`inline-block text-[11px] font-bold uppercase tracking-wider px-3 py-1 rounded-md ${exam.badgeColor}`}>
                     {exam.badge}
                   </span>
-                  <span className="flex items-center gap-1 bg-white border-2 border-foreground px-2.5 py-1 text-[11px] font-black uppercase text-foreground">
-                    <Clock className="w-3.5 h-3.5 text-primary stroke-[2.5]" />
+                  <span className="flex items-center gap-1.5 bg-slate-100 px-2.5 py-1 text-[11px] font-semibold text-slate-700 rounded-md">
+                    <Clock className="w-3.5 h-3.5 text-blue-600 stroke-[2.2]" />
                     {exam.duration}
                   </span>
                 </div>
@@ -329,36 +325,36 @@ export default function HomeMockTestSlider() {
                 {/* Exam Title & Overview */}
                 <div className="mb-4">
                   <div className="flex items-baseline justify-between mb-1">
-                    <h3 className="font-display text-3xl sm:text-4xl font-black text-foreground uppercase tracking-tight group-hover:text-primary transition-colors">
+                    <h3 className="font-display text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight group-hover:text-blue-600 transition-colors">
                       {exam.name}
                     </h3>
-                    <span className="text-xs font-black uppercase bg-accent px-2 py-0.5 border border-foreground text-foreground">
+                    <span className="text-xs font-bold uppercase bg-blue-50 text-blue-700 px-2.5 py-0.5 rounded-md">
                       Free CBT
                     </span>
                   </div>
-                  <p className="text-xs font-extrabold text-gray-500 uppercase tracking-wide mb-3">
+                  <p className="text-xs font-semibold text-slate-500 uppercase tracking-wide mb-3">
                     {exam.headline}
                   </p>
 
                   {/* Target Colleges Pill */}
-                  <div className="bg-white border-2 border-foreground p-3 rounded-lg mb-4 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
-                    <div className="text-[10px] font-black uppercase tracking-widest text-primary flex items-center gap-1.5 mb-1">
-                      <Target className="w-3 h-3 text-primary" /> Target Premier Institutes
+                  <div className="bg-slate-50 border border-slate-200/80 p-3 rounded-xl mb-4">
+                    <div className="text-[10px] font-bold uppercase tracking-wider text-blue-700 flex items-center gap-1.5 mb-1">
+                      <Target className="w-3.5 h-3.5 text-blue-600" /> Target Premier Institutes
                     </div>
-                    <p className="text-xs font-bold text-gray-800 line-clamp-2 leading-snug">
+                    <p className="text-xs font-medium text-slate-700 line-clamp-2 leading-snug">
                       {exam.targetColleges}
                     </p>
                   </div>
 
                   {/* Exam Key Specs Box */}
-                  <div className="grid grid-cols-2 gap-2 mb-4 text-xs font-bold">
-                    <div className="bg-white/80 border border-foreground/30 p-2 rounded">
-                      <div className="text-[10px] uppercase text-gray-500 font-extrabold">Questions</div>
-                      <div className="font-black text-foreground">{exam.totalQuestions}</div>
+                  <div className="grid grid-cols-2 gap-2 mb-4 text-xs">
+                    <div className="bg-slate-50 border border-slate-200/80 p-2.5 rounded-xl">
+                      <div className="text-[10px] uppercase text-slate-500 font-semibold">Questions</div>
+                      <div className="font-bold text-slate-900 mt-0.5">{exam.totalQuestions}</div>
                     </div>
-                    <div className="bg-white/80 border border-foreground/30 p-2 rounded">
-                      <div className="text-[10px] uppercase text-gray-500 font-extrabold">Sections</div>
-                      <div className="font-black text-foreground">{exam.sectionsCount}</div>
+                    <div className="bg-slate-50 border border-slate-200/80 p-2.5 rounded-xl">
+                      <div className="text-[10px] uppercase text-slate-500 font-semibold">Sections</div>
+                      <div className="font-bold text-slate-900 mt-0.5">{exam.sectionsCount}</div>
                     </div>
                   </div>
 
@@ -367,7 +363,7 @@ export default function HomeMockTestSlider() {
                     {exam.formatDetails.map((sec, sIdx) => (
                       <span 
                         key={sIdx}
-                        className="bg-white border border-foreground/40 text-[11px] font-bold text-gray-700 px-2 py-0.5 rounded"
+                        className="bg-slate-100 text-slate-700 text-[11px] font-medium px-2.5 py-1 rounded-md"
                       >
                         {sec}
                       </span>
@@ -376,12 +372,12 @@ export default function HomeMockTestSlider() {
                 </div>
 
                 {/* Card Footer with CTA */}
-                <div className="pt-4 border-t-2 border-foreground/15 mt-auto flex flex-col gap-3">
-                  <div className="flex items-center justify-between text-xs font-black uppercase text-gray-700">
-                    <span className="flex items-center gap-1 text-primary">
-                      <BarChart2 className="w-4 h-4" /> {exam.cutoffTarget}
+                <div className="pt-4 border-t border-slate-100 mt-auto flex flex-col gap-3">
+                  <div className="flex items-center justify-between text-xs font-semibold text-slate-600">
+                    <span className="flex items-center gap-1 text-blue-700 font-bold">
+                      <BarChart2 className="w-4 h-4 text-blue-600" /> {exam.cutoffTarget}
                     </span>
-                    <span className="text-[10px] text-gray-500 font-bold tracking-tight">
+                    <span className="text-[11px] text-slate-400">
                       {exam.highlightFeature.split('•')[0]}
                     </span>
                   </div>
@@ -389,9 +385,9 @@ export default function HomeMockTestSlider() {
                   <Link
                     href={exam.href}
                     prefetch={false}
-                    className="w-full bg-foreground text-white hover:bg-primary group-hover:bg-primary hover:text-white px-5 py-3.5 text-center font-black text-sm uppercase tracking-wider rounded-xl border-2 border-foreground transition-all flex items-center justify-center gap-2 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-x-0.5 active:translate-y-0.5 active:shadow-none"
+                    className="w-full bg-slate-900 text-white hover:bg-blue-600 px-5 py-3 text-center font-bold text-sm tracking-wide rounded-xl transition-all flex items-center justify-center gap-2 shadow-sm"
                   >
-                    Start Free {exam.name} Mock <Zap className="w-4 h-4 text-accent fill-accent" />
+                    Start Free {exam.name} Mock <Zap className="w-4 h-4 text-amber-400 fill-amber-400" />
                   </Link>
                 </div>
               </div>
@@ -400,7 +396,7 @@ export default function HomeMockTestSlider() {
         </div>
 
         {/* Carousel Progress Indicator Dots & Navigation Info */}
-        <div className="mt-8 flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t-2 border-foreground/10">
+        <div className="mt-8 flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-slate-200">
           <div className="flex items-center gap-2">
             {MOCK_EXAMS.map((_, idx) => (
               <button
@@ -408,17 +404,17 @@ export default function HomeMockTestSlider() {
                 type="button"
                 onClick={() => scrollToCard(idx)}
                 aria-label={`Jump to slide ${idx + 1}`}
-                className={`h-3 transition-all rounded-full border-2 border-foreground cursor-pointer ${
-                  activeIndex === idx ? 'w-8 bg-primary' : 'w-3 bg-white hover:bg-accent'
+                className={`h-2.5 transition-all rounded-full cursor-pointer ${
+                  activeIndex === idx ? 'w-7 bg-blue-600' : 'w-2.5 bg-slate-200 hover:bg-slate-300'
                 }`}
               />
             ))}
-            <span className="text-xs font-black uppercase tracking-wider ml-2 text-gray-600">
+            <span className="text-xs font-bold uppercase tracking-wider ml-2 text-slate-500">
               {activeIndex + 1} of {MOCK_EXAMS.length} Free Tests
             </span>
           </div>
 
-          <div className="text-xs font-bold text-gray-500 text-center sm:text-right">
+          <div className="text-xs font-medium text-slate-500 text-center sm:text-right">
             ⚡ Instant scoring • Section timers • Real CBT interface • 100% Free
           </div>
         </div>

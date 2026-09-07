@@ -167,35 +167,126 @@ export default function Home() {
   };
 
   return (
-    <div className="w-full">
+    <div className="w-full bg-slate-50">
       <JsonLd data={faqSchema} />
-      {/* HERO SECTION */}
-      <section className="relative overflow-hidden bg-primary px-6 py-24 sm:px-12 sm:py-32 lg:py-40 border-b-8 border-foreground">
-        {/* Flat Geometric Decoration */}
-        <div className="absolute top-0 right-0 -mt-20 -mr-20 h-96 w-96 rounded-full bg-white/10" />
-        <div className="absolute bottom-0 left-0 -mb-20 -ml-20 h-64 w-64 rotate-45 bg-white/10" />
+      
+      {/* HERO SECTION - MODERN EDTECH DISCOVERY PORTAL */}
+      <section className="relative overflow-hidden bg-gradient-to-b from-[#0A192F] via-[#0F2744] to-[#123058] text-white px-6 pt-20 pb-20 sm:px-12 sm:pt-28 sm:pb-28 lg:pt-32 lg:pb-32 border-b border-blue-900/40">
+        {/* Soft Ambient Background Glows */}
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[850px] h-[360px] bg-blue-500/15 blur-[120px] pointer-events-none rounded-full" />
+        <div className="absolute -bottom-24 -right-24 w-96 h-96 bg-indigo-500/15 blur-[100px] pointer-events-none rounded-full" />
+        <div className="absolute -top-24 -left-24 w-80 h-80 bg-cyan-500/10 blur-[90px] pointer-events-none rounded-full" />
 
         <div className="relative mx-auto max-w-7xl text-center z-10">
-          <h1 className="font-display text-5xl font-extrabold tracking-tighter text-white sm:text-7xl md:text-8xl leading-none uppercase">
-            Best <DynamicHeroText /> Colleges <br className="hidden sm:block" />
-            <span className="bg-accent text-foreground px-4 py-1 inline-block mt-4 -rotate-2 border-4 border-foreground">Admission 2027</span>
+          {/* Glowing Status Pill */}
+          <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-white/10 hover:bg-white/15 border border-white/20 text-blue-100 text-xs sm:text-sm font-semibold mb-8 backdrop-blur-md shadow-sm transition-all">
+            <span className="flex h-2.5 w-2.5 relative">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+              <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
+            </span>
+            <span className="text-white">Admissions 2027-29 Hub</span>
+            <span className="text-blue-300">•</span>
+            <span className="text-amber-300 font-bold">Free 1-on-1 Profile Assessment</span>
+          </div>
+
+          {/* Main Headline */}
+          <h1 className="font-display text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight text-white leading-tight">
+            Best <DynamicHeroText /> Colleges
+            <span className="block mt-2 text-2xl sm:text-4xl md:text-5xl font-bold text-blue-100/90 tracking-normal">
+              Strategic Admissions & Mentorship 2027
+            </span>
           </h1>
+
+          {/* Search Box Component */}
           <div className="mt-8 flex justify-center">
             <HomeSearch />
           </div>
-          <p className="mx-auto mt-10 max-w-2xl text-xl font-bold leading-relaxed text-blue-50">
-            Expert career counselling, interview preparation, and bold strategies to help you dominate your professional goals.
+
+          {/* Interactive Educational Quick-Filter Chips */}
+          <div className="mt-5 flex flex-wrap items-center justify-center gap-2 max-w-3xl mx-auto text-xs sm:text-sm">
+            <span className="text-blue-200/80 font-medium mr-1 hidden sm:inline">Popular:</span>
+            <Link 
+              href="/top-tier-mba-colleges?tab=iim" 
+              className="px-3.5 py-1.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/15 text-white font-medium transition-all hover:scale-105 flex items-center gap-1.5 backdrop-blur-sm"
+            >
+              <span>🎯</span> Top 20 IIMs & XLRI
+            </Link>
+            <Link 
+              href="/top-tier-mba-colleges?tab=nmat" 
+              className="px-3.5 py-1.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/15 text-white font-medium transition-all hover:scale-105 flex items-center gap-1.5 backdrop-blur-sm"
+            >
+              <span>⚡</span> NMAT / SNAP B-Schools
+            </Link>
+            <Link 
+              href="/colleges?budget=under-10l" 
+              className="px-3.5 py-1.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/15 text-white font-medium transition-all hover:scale-105 flex items-center gap-1.5 backdrop-blur-sm"
+            >
+              <span>💼</span> High ROI (&lt; ₹10L)
+            </Link>
+            <Link 
+              href="/colleges" 
+              className="px-3.5 py-1.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/15 text-white font-medium transition-all hover:scale-105 flex items-center gap-1.5 backdrop-blur-sm"
+            >
+              <span>📍</span> Delhi NCR & Pune
+            </Link>
+            <Link 
+              href="/mock-tests" 
+              className="px-3.5 py-1.5 rounded-full bg-amber-400/20 hover:bg-amber-400/30 border border-amber-300/40 text-amber-200 font-semibold transition-all hover:scale-105 flex items-center gap-1.5 backdrop-blur-sm"
+            >
+              <span>📝</span> Free CAT Mocks
+            </Link>
+          </div>
+
+          <p className="mx-auto mt-7 max-w-2xl text-base sm:text-lg font-normal text-blue-100/80 leading-relaxed">
+            Personalized B-school shortlisting, GD-PI-WAT preparation, and verified cutoff intelligence with <strong className="text-white font-semibold">Mohit Jain</strong> (IIM Bangalore & FMS Certified).
           </p>
-          <div className="mt-14 flex flex-col sm:flex-row items-center justify-center gap-6">
-            <a href="https://wa.me/919560020771" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto rounded-md bg-foreground px-8 py-4 text-xl font-bold text-white transition-all hover:scale-105 hover:bg-gray-800 border-4 border-foreground text-center flex items-center justify-center gap-2">
-              Connect on WhatsApp
+
+          {/* Action CTAs */}
+          <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
+            <a 
+              href="https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20want%20to%20evaluate%20my%20MBA%20admission%20profile" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="w-full sm:w-auto rounded-xl bg-emerald-500 hover:bg-emerald-600 active:scale-95 px-8 py-3.5 text-base sm:text-lg font-bold text-white transition-all shadow-lg shadow-emerald-950/40 flex items-center justify-center gap-2.5"
+            >
+              <span className="text-xl">💬</span>
+              <span>WhatsApp Profile Review</span>
+              <span className="px-2 py-0.5 rounded-md bg-emerald-700/60 text-xs font-semibold uppercase tracking-wider text-emerald-100">Instant</span>
             </a>
-            <Link href="#services" prefetch={false} className="w-full sm:w-auto rounded-md bg-transparent px-8 py-4 text-xl font-bold text-white transition-all hover:bg-white hover:text-primary border-4 border-white text-center">
-              View Our Services
+            <Link 
+              href="/inquiry" 
+              prefetch={false} 
+              className="w-full sm:w-auto rounded-xl bg-white/10 hover:bg-white/20 border border-white/25 active:scale-95 px-7 py-3.5 text-base sm:text-lg font-bold text-white transition-all backdrop-blur-sm text-center"
+            >
+              Book 1-on-1 Counselling
             </Link>
-            <Link href="/inquiry" prefetch={false} className="w-full sm:w-auto rounded-md bg-accent px-8 py-4 text-xl font-black text-foreground transition-all hover:scale-105 hover:bg-white border-4 border-foreground text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              Inquiry
+            <Link 
+              href="#services" 
+              prefetch={false} 
+              className="w-full sm:w-auto rounded-xl bg-amber-400 hover:bg-amber-300 active:scale-95 px-7 py-3.5 text-base sm:text-lg font-bold text-slate-950 transition-all shadow-lg shadow-amber-950/20 text-center"
+            >
+              Explore Services
             </Link>
+          </div>
+
+          {/* PROMINENT TRUST & CREDIBILITY STATS RIBBON */}
+          <div className="mx-auto max-w-5xl mt-14 pt-8 border-t border-white/15 grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+            <div className="flex flex-col items-center">
+              <span className="font-display text-3xl sm:text-4xl font-black text-amber-300">6+ Years</span>
+              <span className="text-xs sm:text-sm font-medium text-blue-200 mt-1">Admissions Mentorship</span>
+            </div>
+            <div className="flex flex-col items-center">
+              <span className="font-display text-3xl sm:text-4xl font-black text-emerald-400">5,000+</span>
+              <span className="text-xs sm:text-sm font-medium text-blue-200 mt-1">Students Guided</span>
+            </div>
+            <div className="flex flex-col items-center">
+              <span className="font-display text-3xl sm:text-4xl font-black text-cyan-300">₹35 LPA</span>
+              <span className="text-xs sm:text-sm font-medium text-blue-200 mt-1">Highest CTC Mentored</span>
+            </div>
+            <div className="flex flex-col items-center">
+              <span className="font-display text-3xl sm:text-4xl font-black text-white">IIM & FMS</span>
+              <span className="text-xs sm:text-sm font-medium text-blue-200 mt-1">Certified Mentors</span>
+            </div>
           </div>
         </div>
       </section>
@@ -204,20 +295,23 @@ export default function Home() {
       <HomeMockTestSlider />
 
       {/* SERVICES SECTION */}
-      <section id="services" className="bg-white px-6 py-24 sm:px-12">
+      <section id="services" className="bg-white px-6 py-20 sm:px-12">
         <div className="mx-auto max-w-7xl">
-          <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
+          <div className="mb-14 md:flex md:items-end md:justify-between border-b border-slate-200 pb-8">
             <div className="max-w-2xl">
-              <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase leading-none">
-                Admission 2027 <span className="text-primary tracking-tighter italic">Strategic Hub</span>
+              <span className="inline-block px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider mb-3">
+                Expert Guidance
+              </span>
+              <h2 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900 leading-tight">
+                Admission 2027 <span className="text-blue-600">Strategic Hub</span>
               </h2>
-              <p className="mt-4 text-xl font-bold text-gray-600">
-                End-to-end support for your MBA, B.Tech, and professional journey across India.
+              <p className="mt-3 text-lg font-normal text-slate-600">
+                End-to-end strategic support for your MBA, B.Tech, and professional journey across India.
               </p>
             </div>
           </div>
 
-          <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {SERVICES.map((service, idx) => {
               const Icon = service.icon;
               return (
@@ -225,28 +319,25 @@ export default function Home() {
                   key={idx}
                   href={service.href}
                   prefetch={false}
-                  className={`group relative overflow-hidden rounded-xl border-4 border-foreground ${service.color} p-8 transition-all duration-300 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] flex flex-col h-full`}
+                  className="group relative overflow-hidden rounded-2xl border border-slate-200/80 bg-white p-7 transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 flex flex-col h-full hover:border-blue-300 shadow-sm"
                 >
-                  {/* Decorative element */}
-                  <div className="absolute top-0 right-0 -mt-4 -mr-4 h-16 w-16 rotate-45 bg-foreground/5 transition-transform group-hover:rotate-90 group-hover:bg-foreground/10" />
-                  
-                  <div className="mb-8 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white border-4 border-foreground transition-all duration-300 group-hover:scale-110 group-hover:-rotate-6 group-hover:bg-accent">
-                    <Icon className={`h-8 w-8 ${service.accent} group-hover:text-foreground`} strokeWidth={2.5} />
+                  <div className="mb-6 inline-flex h-14 w-14 items-center justify-center rounded-xl bg-blue-50 text-blue-600 border border-blue-100 group-hover:scale-105 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                    <Icon className="h-7 w-7" strokeWidth={2.2} />
                   </div>
                   
-                  <h3 className="font-display text-2xl font-black tracking-tight text-foreground mb-4 group-hover:text-primary transition-colors">
+                  <h3 className="font-display text-xl font-bold tracking-tight text-slate-900 mb-2.5 group-hover:text-blue-600 transition-colors">
                     {service.title}
                   </h3>
                   
-                  <p className="text-base font-bold text-gray-700 leading-relaxed italic mb-8">
+                  <p className="text-sm font-normal text-slate-600 leading-relaxed mb-6">
                     {service.description}
                   </p>
                   
-                  <div className="mt-auto flex items-center justify-between pt-4 border-t-2 border-foreground/10">
-                    <span className="text-xs font-black uppercase tracking-widest text-foreground/60 group-hover:text-primary transition-colors">
+                  <div className="mt-auto flex items-center justify-between pt-4 border-t border-slate-100">
+                    <span className="text-xs font-bold uppercase tracking-wider text-blue-600 group-hover:text-blue-700">
                       Consult Now
                     </span>
-                    <ArrowRight className="h-5 w-5 text-foreground transition-transform group-hover:translate-x-2" strokeWidth={3} />
+                    <ArrowRight className="h-4 w-4 text-blue-600 transition-transform group-hover:translate-x-1.5" strokeWidth={2.5} />
                   </div>
                 </Link>
               );
@@ -255,78 +346,24 @@ export default function Home() {
         </div>
       </section>
 
-
-      {/* NEWS SECTION */}
-      <section id="news" className="bg-white px-6 py-24 sm:px-12 border-t-8 border-foreground">
-        <div className="mx-auto max-w-7xl">
-          <div className="mb-20 flex flex-col sm:flex-row sm:items-end justify-between border-b-8 border-foreground pb-8 gap-6">
-            <div className="max-w-2xl">
-              <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase flex items-center gap-4">
-                <Bell className="h-10 w-10 text-primary" strokeWidth={3} />
-                Admission News
-              </h2>
-              <p className="mt-4 text-xl font-medium text-gray-600">
-                Flash updates on MBA admissions, entrance exams, and college deadlines.
-              </p>
-            </div>
-            <Link href="/news" prefetch={false} className="inline-flex h-14 items-center justify-center rounded-md bg-accent px-8 py-3 text-lg font-bold text-foreground transition-all hover:bg-white hover:scale-105 border-4 border-foreground whitespace-nowrap shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              All News Updates &rarr;
-            </Link>
-          </div>
-
-          <div className="grid gap-8 lg:grid-cols-2">
-            {NEWS_ITEMS.slice(0, 4).map((item) => (
-              <div
-                key={item.id}
-                className="group relative overflow-hidden rounded-xl border-4 border-foreground bg-gray-50 p-8 transition-all duration-200 hover:bg-white hover:-translate-y-1 shadow-[6px_6px_0px_0px_rgba(59,130,246,1)]"
-              >
-                <div className="flex items-center gap-3 mb-4">
-                  <span className="bg-primary text-white border-2 border-foreground px-3 py-0.5 text-xs font-bold uppercase tracking-widest">
-                    {item.category}
-                  </span>
-                  <span className="text-gray-400 font-bold text-xs uppercase tracking-widest">
-                    {item.date}
-                  </span>
-                </div>
-                <h3 className="font-display text-2xl font-black tracking-tight text-foreground mb-4 group-hover:text-primary transition-colors leading-tight line-clamp-2">
-                  {item.title}
-                </h3>
-                <p className="text-gray-600 font-medium leading-relaxed mb-6 line-clamp-2">
-                  {item.excerpt}
-                </p>
-                <Link
-                  href={item.link}
-                  prefetch={false}
-                  className="inline-flex items-center font-bold text-primary hover:text-foreground transition-colors group-hover:translate-x-1 transition-transform"
-                >
-                  Open <ArrowRight className="ml-2 h-4 w-4" />
-                </Link>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-
-      {/* NEW TOP TIER MBA COLLEGES SECTION */}
-      <section id="top-tier-mba" className="bg-slate-50 px-6 py-24 sm:px-12 border-t-8 border-foreground overflow-hidden relative">
-        <div className="absolute top-0 right-0 w-96 h-96 bg-primary/5 rounded-full -mr-32 -mt-32 blur-2xl" />
+      {/* TOP TIER MBA COLLEGES SECTION */}
+      <section id="top-tier-mba" className="bg-slate-50 px-6 py-20 sm:px-12 border-t border-slate-200 relative overflow-hidden">
         <div className="mx-auto max-w-7xl relative z-10">
-          <div className="mb-20 md:flex md:items-end md:justify-between border-b-8 border-foreground pb-8">
+          <div className="mb-14 md:flex md:items-end md:justify-between border-b border-slate-200 pb-8">
             <div className="max-w-2xl">
-              <span className="bg-accent text-foreground px-5 py-2 text-sm font-black uppercase tracking-widest inline-block border-4 border-foreground mb-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
+              <span className="inline-block px-3 py-1 rounded-full bg-amber-100 text-amber-900 text-xs font-bold uppercase tracking-wider mb-3">
                 MBA / PGDM ADMISSIONS 2027
               </span>
-              <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase leading-none">
-                Top Tier <span className="text-primary italic">MBA</span> Colleges
+              <h2 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900 leading-tight">
+                Top Tier <span className="text-blue-600">MBA</span> Colleges
               </h2>
-              <p className="mt-4 text-xl font-bold text-gray-600">
+              <p className="mt-3 text-lg font-normal text-slate-600">
                 Explore fee structures, cut-offs, and audited placements for premier Indian B-Schools.
               </p>
             </div>
-            <Link href="/top-tier-mba-colleges" prefetch={false} className="mt-8 md:mt-0 inline-flex items-center text-lg font-black uppercase text-primary hover:text-foreground transition-colors group">
-              View MBA Directory
-              <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" strokeWidth={3} />
+            <Link href="/top-tier-mba-colleges" prefetch={false} className="mt-6 md:mt-0 inline-flex items-center text-base font-bold text-blue-600 hover:text-blue-800 transition-colors group">
+              View All B-Schools Directory
+              <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" strokeWidth={2.5} />
             </Link>
           </div>
 
@@ -336,7 +373,6 @@ export default function Home() {
                 name: "All 20 IIMs",
                 description: "IIM Ahmedabad, Bangalore, Calcutta, and new/baby IIMs.",
                 badge: "CAT 90-99.5+ %ile",
-                color: "bg-blue-50",
                 link: "/top-tier-mba-colleges?tab=iim",
                 stats: "Avg Package up to ₹35 LPA"
               },
@@ -344,15 +380,13 @@ export default function Home() {
                 name: "NMAT Colleges",
                 description: "NMIMS Mumbai, Bangalore, K J Somaiya, and other elite institutes.",
                 badge: "200-232+ Score",
-                color: "bg-emerald-50",
                 link: "/top-tier-mba-colleges?tab=nmat",
                 stats: "Avg Package up to ₹26 LPA"
               },
               {
                 name: "SNAP Colleges",
-                description: "SIBM Pune, SCMHRD, and top Symbiosis university business schools.",
+                description: "SIBM Pune, SCMHRD, and top Symbiosis business schools.",
                 badge: "80-98.5+ %ile",
-                color: "bg-rose-50",
                 link: "/top-tier-mba-colleges?tab=snap",
                 stats: "Avg Package up to ₹26.7 LPA"
               },
@@ -360,7 +394,6 @@ export default function Home() {
                 name: "XAT Accepting",
                 description: "XLRI Jamshedpur, SPJIMR, IMT Ghaziabad, GIM Goa, and more.",
                 badge: "75-95+ %ile",
-                color: "bg-purple-50",
                 link: "/top-tier-mba-colleges?tab=xat",
                 stats: "Avg Package up to ₹32.7 LPA"
               }
@@ -369,24 +402,24 @@ export default function Home() {
                 key={idx} 
                 href={category.link}
                 prefetch={false}
-                className={`group relative flex flex-col justify-between h-64 rounded-xl border-4 border-foreground ${category.color} p-6 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 cursor-pointer shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]`}
+                className="group relative flex flex-col justify-between h-64 rounded-2xl border border-slate-200 bg-white p-6 transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 cursor-pointer shadow-sm hover:border-blue-300"
               >
                 <div>
-                  <span className="inline-block bg-white border-2 border-foreground px-3 py-1 text-xs font-black uppercase tracking-widest mb-4 group-hover:bg-primary group-hover:text-white transition-colors">
+                  <span className="inline-block bg-slate-100 text-slate-800 px-3 py-1 text-xs font-bold uppercase tracking-wider rounded-lg mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">
                     {category.badge}
                   </span>
-                  <h3 className="font-display text-2xl font-black text-foreground leading-tight group-hover:text-primary transition-colors mb-2">
+                  <h3 className="font-display text-xl font-bold text-slate-900 leading-tight group-hover:text-blue-600 transition-colors mb-2">
                     {category.name}
                   </h3>
-                  <p className="text-xs font-bold text-gray-500 leading-snug line-clamp-3">
+                  <p className="text-xs font-normal text-slate-600 leading-relaxed line-clamp-3">
                     {category.description}
                   </p>
                 </div>
-                <div className="mt-4 pt-4 border-t-2 border-foreground/10 flex flex-col gap-2">
-                  <span className="text-[10px] font-black uppercase tracking-wider text-slate-400">
+                <div className="mt-4 pt-4 border-t border-slate-100 flex flex-col gap-2">
+                  <span className="text-[11px] font-semibold text-slate-500">
                     {category.stats}
                   </span>
-                  <div className="flex items-center text-xs font-black uppercase text-gray-800 tracking-wider group-hover:text-primary transition-colors">
+                  <div className="flex items-center text-xs font-bold uppercase text-blue-600 tracking-wider group-hover:text-blue-800 transition-colors">
                     Compare Now <ArrowRight className="ml-1.5 h-3.5 w-3.5 group-hover:translate-x-1 transition-transform" />
                   </div>
                 </div>
@@ -396,24 +429,78 @@ export default function Home() {
         </div>
       </section>
 
-      {/* BRANDED COACHING APP PROMO BANNER FOR TEACHERS & CREATORS */}
-      <section className="bg-foreground text-white px-6 py-16 sm:px-12 border-t-8 border-accent">
+      {/* NEWS SECTION */}
+      <section id="news" className="bg-white px-6 py-20 sm:px-12 border-t border-slate-200">
+        <div className="mx-auto max-w-7xl">
+          <div className="mb-14 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
+            <div className="max-w-2xl">
+              <span className="inline-block px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider mb-3">
+                Real-Time Updates
+              </span>
+              <h2 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900 flex items-center gap-3">
+                <Bell className="h-8 w-8 text-blue-600" strokeWidth={2.5} />
+                Admission News
+              </h2>
+              <p className="mt-3 text-lg font-normal text-slate-600">
+                Flash updates on MBA admissions, entrance exams, and college deadlines.
+              </p>
+            </div>
+            <Link href="/news" prefetch={false} className="inline-flex h-12 items-center justify-center rounded-xl bg-slate-900 px-6 py-2.5 text-sm font-bold text-white transition-all hover:bg-blue-600 whitespace-nowrap shadow-sm">
+              All News Updates &rarr;
+            </Link>
+          </div>
+
+          <div className="grid gap-6 lg:grid-cols-2">
+            {NEWS_ITEMS.slice(0, 4).map((item) => (
+              <div
+                key={item.id}
+                className="group relative overflow-hidden rounded-2xl border border-slate-200 bg-white p-7 transition-all duration-200 hover:shadow-lg hover:-translate-y-1 shadow-sm"
+              >
+                <div className="flex items-center gap-3 mb-3">
+                  <span className="bg-blue-50 text-blue-700 rounded-md px-2.5 py-1 text-xs font-bold uppercase tracking-wider">
+                    {item.category}
+                  </span>
+                  <span className="text-slate-400 font-medium text-xs">
+                    {item.date}
+                  </span>
+                </div>
+                <h3 className="font-display text-xl font-bold tracking-tight text-slate-900 mb-3 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2">
+                  {item.title}
+                </h3>
+                <p className="text-slate-600 font-normal text-sm leading-relaxed mb-5 line-clamp-2">
+                  {item.excerpt}
+                </p>
+                <Link
+                  href={item.link}
+                  prefetch={false}
+                  className="inline-flex items-center text-sm font-bold text-blue-600 hover:text-blue-800 transition-colors group-hover:translate-x-1 transition-transform"
+                >
+                  Read Update <ArrowRight className="ml-1.5 h-4 w-4" />
+                </Link>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* BRANDED COACHING APP PROMO BANNER */}
+      <section className="bg-gradient-to-r from-slate-950 via-slate-900 to-indigo-950 text-white px-6 py-16 sm:px-12 border-t border-slate-800">
         <div className="mx-auto max-w-7xl flex flex-col md:flex-row items-center justify-between gap-8">
           <div>
-            <span className="bg-accent text-foreground px-4 py-1.5 font-black uppercase text-xs border-2 border-foreground inline-block mb-3">
+            <span className="bg-amber-400 text-slate-950 px-3 py-1 font-bold uppercase text-xs rounded-md inline-block mb-3">
               FOR TEACHERS & YOUTUBERS
             </span>
-            <h2 className="font-display text-3xl sm:text-5xl font-extrabold uppercase leading-none">
-              Sell Your Coaching <span className="text-accent italic">Online</span>
+            <h2 className="font-display text-2xl sm:text-4xl font-extrabold leading-tight">
+              Sell Your Coaching <span className="text-amber-400">Online</span>
             </h2>
-            <p className="mt-3 text-lg font-bold text-gray-300 max-w-2xl">
+            <p className="mt-2 text-base font-normal text-slate-300 max-w-2xl leading-relaxed">
               Launch your own branded Android & iOS coaching app in 7 days. Keep 100% of your course revenue with 0% commission & anti-piracy security.
             </p>
           </div>
           <Link
             href="/sell-your-coaching-online"
             prefetch={false}
-            className="flex-shrink-0 bg-accent text-foreground hover:bg-white px-8 py-4 text-xl font-black uppercase rounded-xl border-4 border-white transition-all shadow-[6px_6px_0px_0px_rgba(255,255,255,1)]"
+            className="flex-shrink-0 bg-amber-400 hover:bg-amber-300 text-slate-950 px-7 py-3.5 text-base font-bold uppercase rounded-xl transition-all shadow-lg shadow-black/20"
           >
             Launch Branded App &rarr;
           </Link>
@@ -421,42 +508,42 @@ export default function Home() {
       </section>
 
       {/* ARTICLES SECTION */}
-      <section id="articles" className="bg-muted px-6 py-24 sm:px-12 border-t-8 border-foreground">
+      <section id="articles" className="bg-slate-50 px-6 py-20 sm:px-12 border-t border-slate-200">
         <div className="mx-auto max-w-7xl">
-          <div className="mb-20 flex flex-col sm:flex-row sm:items-end justify-between border-b-8 border-foreground pb-8 gap-6">
-            <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase flex flex-wrap items-center gap-4">
-              Latest Intel
-              <span className="text-xl sm:text-2xl font-black bg-primary text-white px-4 py-1 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] uppercase tracking-tighter -rotate-1">
-                {allPostsData.length} Total
+          <div className="mb-14 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
+            <h2 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900 flex flex-wrap items-center gap-3">
+              Latest Intel & Analysis
+              <span className="text-xs sm:text-sm font-bold bg-blue-100 text-blue-800 px-3 py-1 rounded-full uppercase tracking-wider">
+                {allPostsData.length} Articles
               </span>
             </h2>
-            <Link href="/blog" prefetch={false} className="inline-flex h-14 items-center justify-center rounded-md bg-foreground px-8 py-3 text-lg font-bold text-white transition-all hover:bg-primary hover:scale-105 border-4 border-foreground whitespace-nowrap">
+            <Link href="/blog" prefetch={false} className="inline-flex h-12 items-center justify-center rounded-xl bg-slate-900 px-6 py-2.5 text-sm font-bold text-white transition-all hover:bg-blue-600 whitespace-nowrap shadow-sm">
               View All Articles &rarr;
             </Link>
           </div>
 
-          <div className="grid gap-10 lg:grid-cols-3">
+          <div className="grid gap-8 lg:grid-cols-3">
             {allPostsData.slice(0, 3).map(({ slug, title, date, description }) => (
               <Link
                 key={slug}
                 href={`/blog/${slug}`}
                 prefetch={false}
-                className="group flex flex-col rounded-xl border-4 border-foreground bg-white p-8 transition-all duration-200 hover:scale-[1.02] hover:-translate-y-2 hover:bg-gray-50 h-full"
+                className="group flex flex-col rounded-2xl border border-slate-200 bg-white p-7 transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 h-full shadow-sm hover:border-blue-300"
               >
-                <div className="mb-6 inline-block rounded-full bg-accent px-4 py-1 text-sm font-bold uppercase tracking-widest text-foreground border-2 border-foreground self-start">
+                <div className="mb-4 inline-block rounded-md bg-slate-100 px-3 py-1 text-xs font-semibold text-slate-600 self-start">
                   {new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
                 </div>
-                <h3 className="font-display text-3xl font-bold tracking-tight text-foreground mb-5 group-hover:text-primary transition-colors line-clamp-3 leading-tight">
+                <h3 className="font-display text-xl font-bold tracking-tight text-slate-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 leading-snug">
                   {title}
                 </h3>
                 {description && (
-                  <p className="text-gray-600 text-lg font-medium leading-relaxed mb-8 line-clamp-3">
+                  <p className="text-slate-600 text-sm font-normal leading-relaxed mb-6 line-clamp-3">
                     {description}
                   </p>
                 )}
-                <div className="mt-auto flex items-center font-bold text-primary group-hover:text-foreground text-lg transition-colors">
+                <div className="mt-auto flex items-center font-bold text-blue-600 group-hover:text-blue-800 text-sm transition-colors pt-4 border-t border-slate-100">
                   Read Article
-                  <span className="ml-2 inline-block transition-transform duration-200 group-hover:translate-x-2">&rarr;</span>
+                  <span className="ml-1.5 inline-block transition-transform duration-200 group-hover:translate-x-1.5">&rarr;</span>
                 </div>
               </Link>
             ))}
@@ -465,58 +552,38 @@ export default function Home() {
       </section>
 
       {/* AI KNOWLEDGE & FAQ SECTION */}
-      <section id="ai-fast-facts" className="bg-white px-6 py-24 sm:px-12 border-t-8 border-foreground">
+      <section id="ai-fast-facts" className="bg-white px-6 py-20 sm:px-12 border-t border-slate-200">
         <div className="mx-auto max-w-7xl">
-          <div className="mb-16 border-b-8 border-foreground pb-8">
-            <span className="bg-accent text-foreground px-4 py-1 font-black uppercase text-xs border-2 border-foreground inline-block mb-3 shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
-              DIRECT ANSWERS & FAST FACTS
+          <div className="mb-14 border-b border-slate-200 pb-8">
+            <span className="inline-block px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider mb-3">
+              Direct Answers & Fast Facts
             </span>
-            <h2 className="font-display text-4xl font-extrabold tracking-tight text-foreground sm:text-6xl uppercase flex items-center gap-4">
-              <HelpCircle className="h-10 w-10 text-primary" strokeWidth={3} />
+            <h2 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900 flex items-center gap-3">
+              <HelpCircle className="h-8 w-8 text-blue-600" strokeWidth={2.5} />
               Frequently Asked Questions
             </h2>
-            <p className="mt-4 text-xl font-bold text-gray-600 max-w-3xl speakable-summary">
+            <p className="mt-3 text-lg font-normal text-slate-600 max-w-3xl speakable-summary">
               Verified answers on MBA & PGDM admissions 2027, free CAT/XAT/NMAT mock tests, cutoffs, and 1-on-1 counseling with Mohit Jain.
             </p>
           </div>
 
-          <div className="grid gap-6 max-w-5xl mx-auto">
+          <div className="grid gap-5 max-w-5xl mx-auto">
             {HOME_FAQS.map((faq, idx) => (
               <div
                 key={idx}
-                className="rounded-xl border-4 border-foreground bg-slate-50 p-6 sm:p-8 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transition-all hover:-translate-y-1 hover:bg-white"
+                className="rounded-2xl border border-slate-200 bg-slate-50/50 p-6 sm:p-7 transition-all hover:bg-white hover:shadow-md hover:border-blue-200 shadow-sm"
               >
-                <h3 className="font-display text-xl sm:text-2xl font-black text-foreground mb-3 flex items-start gap-3">
-                  <span className="flex-shrink-0 flex items-center justify-center h-8 w-8 rounded-full bg-primary text-white text-sm font-black border-2 border-foreground mt-0.5">
+                <h3 className="font-display text-lg sm:text-xl font-bold text-slate-900 mb-2.5 flex items-start gap-3">
+                  <span className="flex-shrink-0 flex items-center justify-center h-7 w-7 rounded-lg bg-blue-600 text-white text-xs font-bold mt-0.5">
                     Q{idx + 1}
                   </span>
                   <span>{faq.question}</span>
                 </h3>
-                <div className="pl-11 text-gray-700 text-base sm:text-lg font-medium leading-relaxed">
+                <div className="pl-10 text-slate-600 text-sm sm:text-base font-normal leading-relaxed">
                   <p>{faq.answer}</p>
                 </div>
               </div>
             ))}
-          </div>
-
-          {/* Quick Stats Grid */}
-          <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
-            <div className="rounded-xl border-4 border-foreground bg-blue-50 p-6 text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <div className="font-display text-3xl sm:text-4xl font-black text-primary">6+ Years</div>
-              <div className="text-xs sm:text-sm font-black uppercase text-gray-600 mt-1">Admissions Mentorship</div>
-            </div>
-            <div className="rounded-xl border-4 border-foreground bg-emerald-50 p-6 text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <div className="font-display text-3xl sm:text-4xl font-black text-emerald-600">50+</div>
-              <div className="text-xs sm:text-sm font-black uppercase text-gray-600 mt-1">Free Mock Tests</div>
-            </div>
-            <div className="rounded-xl border-4 border-foreground bg-amber-50 p-6 text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <div className="font-display text-3xl sm:text-4xl font-black text-amber-600">650+</div>
-              <div className="text-xs sm:text-sm font-black uppercase text-gray-600 mt-1">Colleges Reviewed</div>
-            </div>
-            <div className="rounded-xl border-4 border-foreground bg-purple-50 p-6 text-center shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <div className="font-display text-3xl sm:text-4xl font-black text-purple-600">IIM & FMS</div>
-              <div className="text-xs sm:text-sm font-black uppercase text-gray-600 mt-1">Certified Mentors</div>
-            </div>
           </div>
         </div>
       </section>

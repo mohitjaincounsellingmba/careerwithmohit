@@ -38,11 +38,11 @@ export function DynamicHeroText() {
   }, [displayText, isDeleting, index, speed]);
 
   return (
-    <span className="inline-flex items-baseline min-h-[1.2em]">
-      <span className="text-white transition-opacity duration-200">
+    <span className="inline-flex items-baseline min-h-[1.1em]">
+      <span className="text-amber-300 font-extrabold tracking-tight transition-all duration-200">
         {displayText}
       </span>
-      <span className="ml-2 inline-block w-2 h-[0.8em] bg-accent animate-pulse shadow-[0_0_15px_rgba(244,63,94,0.5)]" />
+      <span className="ml-1.5 inline-block w-1.5 h-[0.8em] bg-amber-400 rounded-sm animate-pulse" />
     </span>
   );
 }
