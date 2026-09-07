@@ -58,7 +58,7 @@ export function Header() {
     { name: 'Home', href: '/' },
     { name: 'About', href: '/about' },
     { name: 'Colleges', href: '/colleges' },
-    { name: 'Online Degrees', href: '/online-degree-certification' },
+    { name: 'Online MBA', shortName: 'Online MBA', longName: 'Online Degrees', href: '/online-degree-certification' },
     { name: 'Blog', href: '/blog' },
   ];
 
@@ -125,14 +125,14 @@ export function Header() {
   return (
     <>
       <header className="sticky top-0 z-40 w-full border-b border-slate-200/80 bg-white/95 backdrop-blur-md transition-all shadow-xs" role="banner">
-        <div className="mx-auto flex h-16 sm:h-[68px] max-w-7xl items-center justify-between px-3.5 sm:px-6 lg:px-8">
+        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-5 lg:px-7">
           
           {/* Left group: Logo + Primary Navigation */}
-          <div className="flex items-center gap-4 lg:gap-8 xl:gap-10">
+          <div className="flex items-center gap-3.5 lg:gap-5 xl:gap-8">
             <Logo variant="header" size="md" />
 
             {/* Desktop Navigation */}
-            <nav className="hidden md:flex items-center gap-4 lg:gap-6 text-sm font-semibold text-slate-700" aria-label="Main navigation">
+            <nav className="hidden md:flex items-center gap-3 lg:gap-4 xl:gap-6 text-xs lg:text-[13px] font-semibold text-slate-700" aria-label="Main navigation">
               {navLinks.map((link) => {
                 const isActive = pathname === link.href;
                 return (
@@ -140,11 +140,18 @@ export function Header() {
                     key={link.href}
                     href={link.href}
                     prefetch={false}
-                    className={`transition-colors py-1 relative ${
+                    className={`transition-colors py-1 relative whitespace-nowrap ${
                       isActive ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
                     }`}
                   >
-                    {link.name}
+                    {link.longName ? (
+                      <>
+                        <span className="hidden 2xl:inline">{link.longName}</span>
+                        <span className="2xl:hidden">{link.shortName || link.name}</span>
+                      </>
+                    ) : (
+                      link.name
+                    )}
                     {isActive && (
                       <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
                     )}
@@ -162,7 +169,7 @@ export function Header() {
                 <button 
                   type="button"
                   onClick={() => setIsAdmissionsOpen((prev) => !prev)}
-                  className={`flex items-center gap-1.5 transition-colors font-semibold py-1 outline-none cursor-pointer ${
+                  className={`flex items-center gap-1 transition-colors font-semibold py-1 outline-none cursor-pointer whitespace-nowrap ${
                     isAdmissionActive || isAdmissionsOpen ? 'text-blue-600' : 'text-slate-700 hover:text-blue-600'
                   }`}
                   aria-expanded={isAdmissionsOpen}
@@ -215,28 +222,28 @@ export function Header() {
           </div>
 
           {/* Right utility actions */}
-          <div className="flex items-center gap-2 sm:gap-2.5">
+          <div className="flex items-center gap-1.5 sm:gap-2">
             <SearchInput />
 
-            {/* WhatsApp button - always visible, compact icon on small screens, labeled on sm+ */}
+            {/* WhatsApp button - sleek & compact */}
             <a 
               href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance" 
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-1.5 h-9 px-2.5 sm:px-3 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white text-xs font-bold transition-all shadow-sm hover:shadow-md hover:-translate-y-0.5 active:translate-y-0"
+              className="inline-flex items-center justify-center gap-1.5 h-8.5 px-2 xl:px-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white text-xs font-bold transition-all shadow-sm hover:shadow-md hover:-translate-y-0.5 active:translate-y-0 shrink-0"
               title="Chat directly on WhatsApp"
               aria-label="Chat on WhatsApp"
             >
-              <svg viewBox="0 0 24 24" className="w-4 h-4 fill-current shrink-0" aria-hidden="true">
+              <svg viewBox="0 0 24 24" className="w-3.5 h-3.5 fill-current shrink-0" aria-hidden="true">
                 <path d="M17.472 14.382c-.301-.15-1.78-.878-2.056-.979-.276-.1-.476-.15-.676.15-.2.3-.776.979-.951 1.18-.175.2-.351.226-.652.076-.301-.15-1.27-.468-2.42-1.493-.895-.798-1.5-1.784-1.676-2.085-.175-.301-.019-.464.132-.614.136-.135.301-.351.452-.527.15-.175.2-.301.301-.501.101-.2.05-.376-.025-.526-.075-.15-.676-1.63-.927-2.234-.244-.588-.493-.508-.676-.517-.175-.009-.376-.01-.577-.01-.2 0-.526.075-.802.376-.276.301-1.053 1.028-1.053 2.508 0 1.48 1.078 2.909 1.229 3.109.15.2 2.122 3.24 5.141 4.544.718.31 1.278.495 1.716.634.723.23 1.381.198 1.901.12.579-.087 1.78-.727 2.03-1.43.251-.702.251-1.304.176-1.43-.075-.126-.276-.201-.577-.352zM12.04 2C6.527 2 2.05 6.477 2.05 11.99c0 1.761.46 3.48 1.332 4.994L2 22l5.163-1.353a9.95 9.95 0 0 0 4.877 1.268h.004c5.512 0 9.99-4.477 9.99-9.99A9.94 9.94 0 0 0 12.04 2zm0 18.257h-.003a8.27 8.27 0 0 1-4.218-1.154l-.302-.18-3.136.823.837-3.056-.197-.314a8.27 8.27 0 0 1-1.267-4.386c0-4.57 3.719-8.289 8.29-8.289a8.25 8.25 0 0 1 5.86 2.43 8.25 8.25 0 0 1 2.428 5.86c0 4.571-3.719 8.289-8.289 8.289z"/>
               </svg>
-              <span className="hidden sm:inline">WhatsApp</span>
+              <span className="hidden sm:inline lg:hidden xl:inline text-xs">WhatsApp</span>
             </a>
 
             {/* Direct Call Button */}
             <Link 
               href="tel:+919560020771" 
-              className="hidden md:inline-flex h-9 items-center justify-center gap-1.5 rounded-xl bg-blue-600 hover:bg-blue-700 px-3 py-1.5 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0"
+              className="hidden md:inline-flex h-8.5 items-center justify-center gap-1.5 rounded-xl bg-blue-600 hover:bg-blue-700 px-2.5 xl:px-3 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0"
               title="Speak with Mohit Jain"
             >
               <Phone className="h-3.5 w-3.5" />

@@ -25,22 +25,22 @@ function SearchInputInner({ isMobile = false, onSearch }: { isMobile?: boolean, 
   return (
     <form 
       onSubmit={handleSearch} 
-      className={`relative flex items-center ${isMobile ? 'w-full' : 'hidden lg:flex'} max-w-[210px] xl:max-w-[280px] w-full rounded-xl border border-slate-200 bg-slate-50/80 focus-within:bg-white focus-within:border-blue-500 focus-within:ring-4 focus-within:ring-blue-500/10 transition-all overflow-hidden`}
+      className={`relative flex items-center ${isMobile ? 'w-full' : 'hidden lg:flex'} max-w-[160px] xl:max-w-[220px] 2xl:max-w-[260px] w-full rounded-xl border border-slate-200 bg-slate-50/80 focus-within:bg-white focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-500/15 transition-all overflow-hidden`}
     >
-      <div className="relative flex-grow flex items-center pl-2.5">
+      <div className="relative flex-grow flex items-center pl-2">
         <Search className="h-3.5 w-3.5 text-slate-400 stroke-[2] pointer-events-none" />
         <input
           type="text"
           aria-label="Search site content"
-          placeholder="Search colleges, exams..."
+          placeholder="Search..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          className="h-9 w-full bg-transparent pl-2 pr-1.5 text-xs font-medium text-slate-900 placeholder:text-slate-400 focus:outline-none"
+          className="h-8 w-full bg-transparent pl-1.5 pr-1 text-xs font-medium text-slate-900 placeholder:text-slate-400 focus:outline-none"
         />
       </div>
       <button 
         type="submit"
-        className="h-7 mr-1 px-2.5 bg-blue-600 hover:bg-blue-700 text-white text-[11px] font-semibold rounded-lg transition-colors cursor-pointer"
+        className="h-6.5 mr-1 px-2 bg-blue-600 hover:bg-blue-700 text-white text-[10.5px] font-semibold rounded-md transition-colors cursor-pointer"
       >
         Search
       </button>
