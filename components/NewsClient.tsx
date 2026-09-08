@@ -31,11 +31,11 @@ export function NewsClient({ items }: { items: NewsItem[] }) {
     const counts: Record<string, number> = {};
     items.forEach((item) => {
       let cat = item.category;
-      if (cat.includes("MBA Admission")) cat = "MBA & PGDM";
-      else if (cat.includes("B.Tech")) cat = "B.Tech & Eng";
-      else if (cat.includes("Entrance Exams")) cat = "Exams & Results";
+      if (cat.includes("MBA")) cat = "MBA & PGDM";
+      else if (cat.includes("B.Tech") || cat.includes("Engineering")) cat = "B.Tech & Eng";
+      else if (cat.includes("Exam") || cat.includes("Entrance")) cat = "Exams & Results";
       else if (cat.includes("Career")) cat = "Career Counselling";
-      else if (cat.includes("Board Results")) cat = "Board Results";
+      else if (cat.includes("Board")) cat = "Board Results";
       counts[cat] = (counts[cat] || 0) + 1;
     });
 
@@ -55,11 +55,11 @@ export function NewsClient({ items }: { items: NewsItem[] }) {
       // Category check
       if (selectedCategory !== "all") {
         let cat = item.category;
-        if (cat.includes("MBA Admission")) cat = "MBA & PGDM";
-        else if (cat.includes("B.Tech")) cat = "B.Tech & Eng";
-        else if (cat.includes("Entrance Exams")) cat = "Exams & Results";
+        if (cat.includes("MBA")) cat = "MBA & PGDM";
+        else if (cat.includes("B.Tech") || cat.includes("Engineering")) cat = "B.Tech & Eng";
+        else if (cat.includes("Exam") || cat.includes("Entrance")) cat = "Exams & Results";
         else if (cat.includes("Career")) cat = "Career Counselling";
-        else if (cat.includes("Board Results")) cat = "Board Results";
+        else if (cat.includes("Board")) cat = "Board Results";
 
         if (cat !== selectedCategory) return false;
       }
