@@ -141,12 +141,12 @@ export default function TopTierMbaPage() {
       <JsonLd data={breadcrumbSchema} />
       <JsonLd data={faqSchema} />
 
-      {/* ── STUNNING OBSIDIAN EDITORIAL HERO ── */}
-      <div className="bg-slate-950 text-white border-b-8 border-foreground pt-12 pb-20 px-6 relative overflow-hidden">
-        {/* Decorative Grid & Light Glows */}
-        <div className="absolute inset-0 bg-[linear-gradient(to_right,#1e293b15_1px,transparent_1px),linear-gradient(to_bottom,#1e293b15_1px,transparent_1px)] bg-[size:4rem_4rem] pointer-events-none" />
-        <div className="absolute -top-20 -right-20 w-96 h-96 bg-primary/20 rounded-full blur-3xl pointer-events-none" />
-        <div className="absolute -bottom-20 -left-20 w-96 h-96 bg-accent/15 rounded-full blur-3xl pointer-events-none" />
+      {/* ── MODERN SLEEK MIDNIGHT HERO ── */}
+      <div className="relative bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] text-white pt-12 pb-20 px-6 overflow-hidden">
+        {/* Subtle Ambient Radial Glows & Grid Pattern */}
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,#ffffff08_1px,transparent_1px),linear-gradient(to_bottom,#ffffff08_1px,transparent_1px)] bg-[size:4rem_4rem] pointer-events-none" />
+        <div className="absolute -top-24 -right-24 w-96 h-96 bg-primary/20 rounded-full blur-3xl pointer-events-none" />
+        <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-amber-500/15 rounded-full blur-3xl pointer-events-none" />
 
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="mb-8">
@@ -154,75 +154,83 @@ export default function TopTierMbaPage() {
           </div>
 
           {/* Top Announcement Tag */}
-          <div className="inline-flex items-center gap-2 bg-slate-900 border-2 border-slate-700 px-4 py-1.5 mb-8 shadow-[4px_4px_0px_0px_rgba(255,255,255,1)]">
-            <Sparkles className="w-4 h-4 text-accent animate-pulse" />
-            <span className="text-[11px] font-black uppercase tracking-widest text-slate-200">
-              INDIA&apos;S ELITE B-SCHOOL DIRECTORY • 2027-28 INTAKE
+          <div className="inline-flex items-center gap-2.5 bg-white/10 backdrop-blur-md border border-white/15 px-4 py-1.5 rounded-full mb-8 shadow-sm">
+            <Sparkles className="w-4 h-4 text-amber-400 animate-pulse" />
+            <span className="text-[11px] font-bold uppercase tracking-widest text-slate-200">
+              India&apos;s Elite B-School Directory • 2027-28 Intake
             </span>
           </div>
 
           <div className="max-w-4xl">
-            <h1 className="text-4xl sm:text-6xl md:text-7xl font-black uppercase tracking-tight leading-[0.9] mb-6">
+            <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight leading-[1.05] mb-6">
               Top Tier <br />
-              <span className="text-accent italic underline decoration-4 md:decoration-8 underline-offset-4 decoration-primary">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-yellow-200 to-amber-400">
                 MBA Colleges
               </span>{" "}
-              In India.
+              In India
             </h1>
-            <p className="text-lg md:text-xl font-bold text-slate-300 border-l-4 border-accent pl-5 mb-10 leading-relaxed max-w-3xl">
-              Explore the definitive, verified ranking of all <span className="text-white underline decoration-2">20 IIMs</span>, premier <span className="text-white underline decoration-2">XAT (XLRI)</span> colleges, <span className="text-white underline decoration-2">NMAT (NMIMS)</span> universities, and <span className="text-white underline decoration-2">SNAP (SIBM)</span> flagship B-schools. Compare fees, cutoffs, and audited placement stats.
+            <p className="text-lg md:text-xl font-medium text-slate-300 border-l-2 border-amber-400/80 pl-5 mb-10 leading-relaxed max-w-3xl">
+              Explore the definitive, verified ranking of all <span className="text-white font-semibold underline decoration-amber-400/50 decoration-2 underline-offset-4">20 IIMs</span>, premier <span className="text-white font-semibold underline decoration-amber-400/50 decoration-2 underline-offset-4">XAT (XLRI)</span> colleges, <span className="text-white font-semibold underline decoration-amber-400/50 decoration-2 underline-offset-4">NMAT (NMIMS)</span> universities, and <span className="text-white font-semibold underline decoration-amber-400/50 decoration-2 underline-offset-4">SNAP (SIBM)</span> flagship B-schools. Compare fees, cutoffs, and audited placement stats.
             </p>
 
             {/* Hero Quick Jump & Trust Badges */}
-            <div className="flex flex-wrap items-center gap-4 pt-2">
-              <span className="text-xs font-black uppercase tracking-wider text-slate-400">
-                ⚡ Quick Filters:
+            <div className="flex flex-wrap items-center gap-2.5 pt-2">
+              <span className="text-xs font-bold uppercase tracking-wider text-slate-400 mr-1 flex items-center gap-1.5">
+                <Zap className="w-3.5 h-3.5 text-amber-400" /> Quick Filters:
               </span>
-              <span className="bg-slate-900/80 border border-slate-700 px-3 py-1 text-xs font-black uppercase text-amber-300 flex items-center gap-1.5">
+              <span className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-amber-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors">
                 👑 All 20 IIMs
               </span>
-              <span className="bg-slate-900/80 border border-slate-700 px-3 py-1 text-xs font-black uppercase text-rose-300 flex items-center gap-1.5">
+              <span className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-rose-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors">
                 🎯 NMAT Top Tier
               </span>
-              <span className="bg-slate-900/80 border border-slate-700 px-3 py-1 text-xs font-black uppercase text-blue-300 flex items-center gap-1.5">
+              <span className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-blue-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors">
                 💎 SNAP Flagships
               </span>
-              <span className="bg-slate-900/80 border border-slate-700 px-3 py-1 text-xs font-black uppercase text-purple-300 flex items-center gap-1.5">
+              <span className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-purple-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors">
                 ⚡ XAT Elite
               </span>
             </div>
           </div>
 
           {/* 4-Card Executive Stats Showcase */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12 pt-10 border-t-2 border-slate-800">
-            <div className="bg-slate-900/90 border-2 border-slate-700 p-5 shadow-[4px_4px_0px_0px_rgba(255,255,255,0.2)]">
-              <Award className="w-6 h-6 text-accent mb-2" />
-              <div className="text-2xl md:text-3xl font-black text-white">20 IIMs</div>
-              <p className="text-xs font-bold text-slate-400 uppercase mt-1">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12 pt-10 border-t border-white/10">
+            <div className="bg-white/[0.04] backdrop-blur-md border border-white/10 rounded-2xl p-5 hover:border-white/20 transition-all duration-300">
+              <div className="w-10 h-10 rounded-xl bg-amber-500/15 border border-amber-500/30 flex items-center justify-center mb-3">
+                <Award className="w-5 h-5 text-amber-400" />
+              </div>
+              <div className="text-2xl md:text-3xl font-extrabold text-white">20 IIMs</div>
+              <p className="text-xs font-semibold text-slate-400 uppercase tracking-wide mt-1">
                 Ahmedabad to Jammu
               </p>
             </div>
 
-            <div className="bg-slate-900/90 border-2 border-slate-700 p-5 shadow-[4px_4px_0px_0px_rgba(255,255,255,0.2)]">
-              <TrendingUp className="w-6 h-6 text-emerald-400 mb-2" />
-              <div className="text-2xl md:text-3xl font-black text-white">₹1.20 Cr+</div>
-              <p className="text-xs font-bold text-emerald-400 uppercase mt-1">
+            <div className="bg-white/[0.04] backdrop-blur-md border border-white/10 rounded-2xl p-5 hover:border-white/20 transition-all duration-300">
+              <div className="w-10 h-10 rounded-xl bg-emerald-500/15 border border-emerald-500/30 flex items-center justify-center mb-3">
+                <TrendingUp className="w-5 h-5 text-emerald-400" />
+              </div>
+              <div className="text-2xl md:text-3xl font-extrabold text-white">₹1.20 Cr+</div>
+              <p className="text-xs font-semibold text-emerald-400 uppercase tracking-wide mt-1">
                 Highest Audited Pkg
               </p>
             </div>
 
-            <div className="bg-slate-900/90 border-2 border-slate-700 p-5 shadow-[4px_4px_0px_0px_rgba(255,255,255,0.2)]">
-              <Zap className="w-6 h-6 text-blue-400 mb-2" />
-              <div className="text-2xl md:text-3xl font-black text-white">4 Exams</div>
-              <p className="text-xs font-bold text-slate-400 uppercase mt-1">
+            <div className="bg-white/[0.04] backdrop-blur-md border border-white/10 rounded-2xl p-5 hover:border-white/20 transition-all duration-300">
+              <div className="w-10 h-10 rounded-xl bg-blue-500/15 border border-blue-500/30 flex items-center justify-center mb-3">
+                <Zap className="w-5 h-5 text-blue-400" />
+              </div>
+              <div className="text-2xl md:text-3xl font-extrabold text-white">4 Exams</div>
+              <p className="text-xs font-semibold text-slate-400 uppercase tracking-wide mt-1">
                 CAT • XAT • NMAT • SNAP
               </p>
             </div>
 
-            <div className="bg-slate-900/90 border-2 border-slate-700 p-5 shadow-[4px_4px_0px_0px_rgba(255,255,255,0.2)]">
-              <ShieldCheck className="w-6 h-6 text-accent mb-2" />
-              <div className="text-2xl md:text-3xl font-black text-white">100% Audit</div>
-              <p className="text-xs font-bold text-slate-400 uppercase mt-1">
+            <div className="bg-white/[0.04] backdrop-blur-md border border-white/10 rounded-2xl p-5 hover:border-white/20 transition-all duration-300">
+              <div className="w-10 h-10 rounded-xl bg-amber-500/15 border border-amber-500/30 flex items-center justify-center mb-3">
+                <ShieldCheck className="w-5 h-5 text-amber-400" />
+              </div>
+              <div className="text-2xl md:text-3xl font-extrabold text-white">100% Audit</div>
+              <p className="text-xs font-semibold text-slate-400 uppercase tracking-wide mt-1">
                 Verified NIRF &amp; Fee Data
               </p>
             </div>

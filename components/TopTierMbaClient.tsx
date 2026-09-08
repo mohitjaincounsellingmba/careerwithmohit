@@ -64,20 +64,20 @@ function getCollegeBadge(college: TopTierMbaCollege): { label: string; bg: strin
   if (college.isIim) {
     const name = college.name.toLowerCase();
     if (name.includes("ahmedabad") || name.includes("bangalore") || name.includes("calcutta") || name.includes("lucknow") || name.includes("kozhikode") || name.includes("indore")) {
-      return { label: "👑 IIM Flagship (BLACKI)", bg: "bg-amber-100", text: "text-amber-900", border: "border-amber-400" };
+      return { label: "👑 IIM Flagship (BLACKI)", bg: "bg-amber-500/10", text: "text-amber-950", border: "border-amber-300/80" };
     }
-    return { label: "🏛️ IIM Campus", bg: "bg-yellow-100", text: "text-yellow-900", border: "border-yellow-400" };
+    return { label: "🏛️ IIM Campus", bg: "bg-yellow-500/10", text: "text-yellow-950", border: "border-yellow-300/80" };
   }
   if (college.exams.includes("XAT") && !college.exams.includes("CAT")) {
-    return { label: "⚡ XAT Elite", bg: "bg-purple-100", text: "text-purple-900", border: "border-purple-300" };
+    return { label: "⚡ XAT Elite", bg: "bg-purple-500/10", text: "text-purple-950", border: "border-purple-300/80" };
   }
   if (college.exams.includes("SNAP")) {
-    return { label: "💎 SNAP Flagship", bg: "bg-blue-100", text: "text-blue-900", border: "border-blue-300" };
+    return { label: "💎 SNAP Flagship", bg: "bg-blue-500/10", text: "text-blue-950", border: "border-blue-300/80" };
   }
   if (college.exams.includes("NMAT")) {
-    return { label: "🎯 NMAT Top Tier", bg: "bg-rose-100", text: "text-rose-900", border: "border-rose-300" };
+    return { label: "🎯 NMAT Top Tier", bg: "bg-rose-500/10", text: "text-rose-950", border: "border-rose-300/80" };
   }
-  return { label: "🌟 Premier Private B-School", bg: "bg-emerald-100", text: "text-emerald-900", border: "border-emerald-300" };
+  return { label: "🌟 Premier Private B-School", bg: "bg-emerald-500/10", text: "text-emerald-950", border: "border-emerald-300/80" };
 }
 
 /* ── Helper: ROI Indicator Pill ── */
@@ -86,13 +86,13 @@ function getRoiBadge(college: TopTierMbaCollege): { label: string; color: string
   const fee = parseLakhs(college.fees);
   const name = college.name.toLowerCase();
   if (name.includes("fms") || name.includes("tiss") || name.includes("jbims")) {
-    return { label: "⚡ Highest ROI in India", color: "bg-emerald-600 text-white" };
+    return { label: "⚡ Highest ROI in India", color: "bg-gradient-to-r from-emerald-600 to-teal-600 text-white" };
   }
   if (avg > 0 && fee > 0 && avg >= fee * 1.1) {
-    return { label: "🌟 Exceptional ROI (Avg > Fees)", color: "bg-indigo-600 text-white" };
+    return { label: "🌟 Exceptional ROI (Avg > Fees)", color: "bg-gradient-to-r from-indigo-600 to-blue-600 text-white" };
   }
   if (college.isIim && avg >= 28) {
-    return { label: "👑 Audited Tier-1 Placement", color: "bg-amber-600 text-white" };
+    return { label: "👑 Audited Tier-1 Placement", color: "bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 font-black" };
   }
   return null;
 }
@@ -109,8 +109,8 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
       name: form.name,
       number: form.number,
       email: form.email,
-      course: "MBA / PGDM 2026",
-      source: `Top Tier MBA 2026 Page Direct Eligibility Check (${college.name})`,
+      course: "MBA / PGDM 2027",
+      source: `Top Tier MBA 2027 Page Direct Eligibility Check (${college.name})`,
       details: {
         targetCollege: college.name,
         targetExam: form.exam,
@@ -121,44 +121,44 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm animate-in fade-in duration-200" onClick={onClose}>
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/70 backdrop-blur-md animate-in fade-in duration-200" onClick={onClose}>
       <div 
-        className="relative bg-white border-4 border-foreground shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] w-full max-w-lg p-6 md:p-8 z-10 max-h-[90vh] overflow-y-auto"
+        className="relative bg-white rounded-3xl border border-slate-200/80 shadow-2xl w-full max-w-lg p-6 md:p-8 z-10 max-h-[90vh] overflow-y-auto"
         onClick={e => e.stopPropagation()}
       >
         <button 
           onClick={onClose}
-          className="absolute top-4 right-4 bg-slate-100 hover:bg-slate-200 border-2 border-foreground p-1.5 transition-colors"
+          className="absolute top-4 right-4 w-9 h-9 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-500 hover:text-slate-800 flex items-center justify-center transition-colors"
           aria-label="Close modal"
         >
-          <X className="w-5 h-5 text-foreground" />
+          <X className="w-5 h-5" />
         </button>
 
         {status === "success" ? (
           <div className="text-center py-6">
-            <div className="w-16 h-16 bg-emerald-100 border-2 border-foreground flex items-center justify-center mx-auto mb-4 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]">
-              <BadgeCheck className="w-10 h-10 text-emerald-600" />
+            <div className="w-16 h-16 rounded-2xl bg-emerald-50 border border-emerald-200 flex items-center justify-center mx-auto mb-4 shadow-sm">
+              <BadgeCheck className="w-9 h-9 text-emerald-600" />
             </div>
-            <span className="bg-emerald-500 text-white font-black text-[10px] uppercase tracking-widest px-3 py-1 border border-foreground inline-block mb-3">
-              PROFILE EVALUATION LOGGED
+            <span className="bg-emerald-100 text-emerald-800 font-bold text-[11px] uppercase tracking-widest px-3 py-1 rounded-full inline-block mb-3">
+              Profile Evaluation Logged
             </span>
-            <h3 className="text-2xl font-black uppercase text-foreground mb-2">Checklist Received!</h3>
-            <p className="text-slate-600 text-sm font-bold mb-6">
-              Mohit Jain&apos;s counselling team is reviewing your profile for <span className="text-primary underline decoration-2">{college.name}</span>. We will share your cutoff strategy &amp; GD/PI roadmap shortly.
+            <h3 className="text-2xl font-extrabold text-slate-900 mb-2">Evaluation Received!</h3>
+            <p className="text-slate-600 text-sm font-medium mb-6">
+              Mohit Jain&apos;s counselling team is reviewing your profile for <span className="text-primary font-bold">{college.name}</span>. We will share your cutoff strategy &amp; GD/PI roadmap shortly.
             </p>
             <div className="flex flex-col sm:flex-row gap-3">
               <a
                 href={`https://wa.me/919811559190?text=${encodeURIComponent(`Hi Mohit, I submitted an eligibility evaluation for ${college.name}. Please share admission details!`)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex-1 bg-emerald-600 hover:bg-emerald-700 text-white font-black py-3.5 px-4 text-xs uppercase tracking-wider border-2 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center gap-2 transition-all"
+                className="flex-1 bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 text-white font-bold py-3.5 px-4 text-xs uppercase tracking-wider rounded-xl shadow-md shadow-emerald-500/20 flex items-center justify-center gap-2 transition-all"
               >
                 <MessageCircle className="w-4 h-4" />
                 WhatsApp Mohit Now
               </a>
               <button
                 onClick={onClose}
-                className="bg-slate-200 hover:bg-slate-300 text-foreground font-black py-3.5 px-6 text-xs uppercase tracking-wider border-2 border-foreground"
+                className="bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold py-3.5 px-6 text-xs uppercase tracking-wider rounded-xl transition-colors"
               >
                 Done
               </button>
@@ -167,33 +167,33 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
         ) : (
           <>
             <div className="flex items-center gap-2 mb-2">
-              <span className="bg-primary text-white text-[10px] font-black uppercase tracking-widest px-2.5 py-1 border border-foreground">
-                ADMISSION ODDS EVALUATOR
+              <span className="bg-primary/10 text-primary border border-primary/20 text-[10px] font-bold uppercase tracking-widest px-2.5 py-1 rounded-full">
+                Admission Odds Evaluator
               </span>
-              <span className="text-xs font-bold text-slate-500">2026-27 Intake</span>
+              <span className="text-xs font-semibold text-slate-500">2027-28 Intake</span>
             </div>
-            <h3 className="text-2xl font-black uppercase tracking-tight text-foreground mb-1">
+            <h3 className="text-2xl font-extrabold tracking-tight text-slate-900 mb-1">
               Check Odds For {college.name}
             </h3>
-            <p className="text-xs font-bold text-slate-500 mb-6 border-l-4 border-primary pl-2.5">
+            <p className="text-xs font-medium text-slate-500 mb-6">
               Get an instant profile review, expected safe percentile cutoff, and verified fee structure breakdown.
             </p>
 
             <form onSubmit={handleSubmit} className="space-y-4">
               <div>
-                <label className="block text-xs font-black uppercase tracking-wider text-slate-700 mb-1">
+                <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 mb-1.5">
                   Target B-School
                 </label>
                 <input
                   type="text"
                   value={college.name}
                   readOnly
-                  className="w-full bg-slate-100 border-2 border-foreground px-4 py-2.5 text-sm font-black text-slate-700 cursor-not-allowed"
+                  className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-2.5 text-sm font-bold text-slate-700 cursor-not-allowed"
                 />
               </div>
 
               <div>
-                <label className="block text-xs font-black uppercase tracking-wider text-slate-700 mb-1">
+                <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 mb-1.5">
                   Your Full Name *
                 </label>
                 <input
@@ -202,12 +202,12 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
                   placeholder="e.g. Rahul Sharma"
                   value={form.name}
                   onChange={e => setForm({ ...form, name: e.target.value })}
-                  className="w-full bg-white border-2 border-foreground px-4 py-2.5 text-sm font-bold focus:outline-none focus:ring-2 focus:ring-primary"
+                  className="w-full bg-white border border-slate-200 rounded-xl px-4 py-2.5 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all"
                 />
               </div>
 
               <div>
-                <label className="block text-xs font-black uppercase tracking-wider text-slate-700 mb-1">
+                <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 mb-1.5">
                   WhatsApp Phone Number *
                 </label>
                 <input
@@ -216,31 +216,31 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
                   placeholder="e.g. 9876543210 (10-digit mobile)"
                   value={form.number}
                   onChange={e => setForm({ ...form, number: e.target.value })}
-                  className="w-full bg-white border-2 border-foreground px-4 py-2.5 text-sm font-bold focus:outline-none focus:ring-2 focus:ring-primary"
+                  className="w-full bg-white border border-slate-200 rounded-xl px-4 py-2.5 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all"
                 />
               </div>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div>
-                  <label className="block text-xs font-black uppercase tracking-wider text-slate-700 mb-1">
+                  <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 mb-1.5">
                     Primary Exam
                   </label>
                   <select
                     value={form.exam}
                     onChange={e => setForm({ ...form, exam: e.target.value })}
-                    className="w-full bg-white border-2 border-foreground px-3 py-2.5 text-sm font-bold focus:outline-none focus:ring-2 focus:ring-primary"
+                    className="w-full bg-white border border-slate-200 rounded-xl px-3 py-2.5 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all"
                   >
-                    <option value="CAT">CAT 2026</option>
+                    <option value="CAT">CAT 2026/2027</option>
                     <option value="XAT">XAT 2027</option>
                     <option value="NMAT">NMAT by GMAC</option>
-                    <option value="SNAP">SNAP 2026</option>
+                    <option value="SNAP">SNAP 2026/2027</option>
                     <option value="GMAT / GRE">GMAT / GRE</option>
                     <option value="Other / Multiple">Multiple Exams</option>
                   </select>
                 </div>
 
                 <div>
-                  <label className="block text-xs font-black uppercase tracking-wider text-slate-700 mb-1">
+                  <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 mb-1.5">
                     Expected %ile / Score
                   </label>
                   <input
@@ -248,7 +248,7 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
                     placeholder="e.g. 96 %ile / 235 NMAT"
                     value={form.percentile}
                     onChange={e => setForm({ ...form, percentile: e.target.value })}
-                    className="w-full bg-white border-2 border-foreground px-4 py-2.5 text-sm font-bold focus:outline-none focus:ring-2 focus:ring-primary"
+                    className="w-full bg-white border border-slate-200 rounded-xl px-4 py-2.5 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all"
                   />
                 </div>
               </div>
@@ -256,19 +256,19 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
               <button
                 type="submit"
                 disabled={status === "submitting"}
-                className="w-full mt-4 bg-primary hover:bg-primary/90 text-white font-black py-4 px-6 text-sm uppercase tracking-wider border-2 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-y-0.5 active:shadow-none transition-all cursor-pointer flex items-center justify-center gap-2"
+                className="w-full mt-4 bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-black py-3.5 px-6 text-sm uppercase tracking-wider rounded-xl shadow-md shadow-amber-500/20 active:scale-98 transition-all cursor-pointer flex items-center justify-center gap-2"
               >
                 {status === "submitting" ? (
                   "Analyzing Profile..."
                 ) : (
                   <>
-                    <Sparkles className="w-4 h-4 text-accent" />
+                    <Sparkles className="w-4 h-4 text-slate-950" />
                     Get Instant Profile Assessment
                   </>
                 )}
               </button>
 
-              <p className="text-[10px] font-bold text-slate-400 text-center uppercase tracking-wider">
+              <p className="text-[11px] font-medium text-slate-400 text-center">
                 🔒 100% Confidential • Directly supervised by Mohit Jain
               </p>
             </form>
@@ -292,57 +292,59 @@ function CompareModal({
   onInquire: (college: TopTierMbaCollege) => void;
 }) {
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-in fade-in duration-200" onClick={onClose}>
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-md animate-in fade-in duration-200" onClick={onClose}>
       <div 
-        className="relative bg-white border-4 border-foreground shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] w-full max-w-6xl z-10 max-h-[90vh] flex flex-col overflow-hidden"
+        className="relative bg-white rounded-3xl border border-slate-200/80 shadow-2xl w-full max-w-6xl z-10 max-h-[90vh] flex flex-col overflow-hidden"
         onClick={e => e.stopPropagation()}
       >
         {/* Header */}
-        <div className="bg-slate-900 text-white p-6 border-b-4 border-foreground flex items-center justify-between">
+        <div className="bg-gradient-to-r from-[#0A192F] via-[#0D2342] to-[#123058] text-white p-6 border-b border-white/10 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <Scale className="w-6 h-6 text-accent" />
+            <div className="w-10 h-10 rounded-xl bg-amber-500/15 border border-amber-500/30 flex items-center justify-center">
+              <Scale className="w-5 h-5 text-amber-400" />
+            </div>
             <div>
-              <span className="text-[10px] font-black uppercase tracking-widest text-accent block">
-                B-SCHOOL MATRIX 2026
+              <span className="text-[10px] font-bold uppercase tracking-widest text-amber-400 block">
+                B-School Comparison Matrix 2027-28
               </span>
-              <h3 className="text-xl md:text-2xl font-black uppercase tracking-tight">
-                Side-by-Side Comparison ({colleges.length} Colleges)
+              <h3 className="text-xl md:text-2xl font-extrabold tracking-tight">
+                Side-by-Side Analysis ({colleges.length} Colleges)
               </h3>
             </div>
           </div>
           <button 
             onClick={onClose}
-            className="bg-slate-800 hover:bg-slate-700 text-white border-2 border-white/20 p-2 transition-colors"
+            className="w-9 h-9 rounded-full bg-white/10 hover:bg-white/20 text-white flex items-center justify-center transition-colors"
             aria-label="Close comparison modal"
           >
-            <X className="w-6 h-6" />
+            <X className="w-5 h-5" />
           </button>
         </div>
 
         {/* Comparison Matrix Table */}
         <div className="overflow-x-auto flex-grow p-6">
-          <table className="w-full border-collapse border-2 border-foreground text-left">
+          <table className="w-full border-collapse border border-slate-200/80 text-left rounded-2xl overflow-hidden">
             <thead>
-              <tr className="bg-slate-100 border-b-2 border-foreground">
-                <th className="p-4 border-r-2 border-foreground font-black uppercase text-xs text-slate-500 w-44">
+              <tr className="bg-slate-50 border-b border-slate-200">
+                <th className="p-4 border-r border-slate-200 font-bold uppercase text-xs text-slate-500 w-44">
                   Parameter
                 </th>
                 {colleges.map((col, idx) => (
-                  <th key={idx} className="p-4 border-r-2 border-foreground min-w-[220px] relative bg-white">
+                  <th key={idx} className="p-4 border-r border-slate-200 min-w-[220px] relative bg-white">
                     <button
                       onClick={() => onRemove(col.name)}
-                      className="absolute top-2 right-2 text-slate-400 hover:text-rose-600 p-1"
+                      className="absolute top-3 right-3 text-slate-400 hover:text-rose-600 p-1 rounded-full hover:bg-rose-50 transition-colors"
                       title="Remove from comparison"
                     >
                       <X className="w-4 h-4" />
                     </button>
-                    <div className="text-xs font-black uppercase tracking-wider text-primary mb-1">
+                    <div className="text-[10px] font-bold uppercase tracking-wider text-amber-600 mb-1">
                       {col.isIim ? "IIM Campus" : "Top B-School"}
                     </div>
-                    <div className="text-lg font-black uppercase text-foreground leading-tight">
+                    <div className="text-base font-extrabold text-slate-900 leading-tight">
                       {col.name}
                     </div>
-                    <div className="text-xs font-bold text-slate-500 flex items-center gap-1 mt-1">
+                    <div className="text-xs font-medium text-slate-500 flex items-center gap-1 mt-1">
                       <MapPin className="w-3 h-3 text-slate-400" />
                       {col.location}
                     </div>
@@ -350,17 +352,17 @@ function CompareModal({
                 ))}
               </tr>
             </thead>
-            <tbody className="divide-y-2 divide-foreground">
+            <tbody className="divide-y divide-slate-200">
               {/* Accepted Exams */}
               <tr>
-                <td className="p-4 border-r-2 border-foreground font-black text-xs uppercase text-slate-600 bg-slate-50">
+                <td className="p-4 border-r border-slate-200 font-bold text-xs uppercase text-slate-600 bg-slate-50/50">
                   Accepted Exams
                 </td>
                 {colleges.map((col, idx) => (
-                  <td key={idx} className="p-4 border-r-2 border-foreground font-bold">
+                  <td key={idx} className="p-4 border-r border-slate-200 font-medium">
                     <div className="flex flex-wrap gap-1.5">
                       {col.exams.map(ex => (
-                        <span key={ex} className="bg-blue-50 text-primary border border-primary/30 px-2.5 py-0.5 text-xs font-black uppercase">
+                        <span key={ex} className="bg-blue-50 text-blue-700 border border-blue-200/60 px-2.5 py-0.5 rounded-full text-xs font-bold uppercase">
                           {ex}
                         </span>
                       ))}
@@ -371,25 +373,25 @@ function CompareModal({
 
               {/* Total Fees */}
               <tr>
-                <td className="p-4 border-r-2 border-foreground font-black text-xs uppercase text-slate-600 bg-slate-50">
+                <td className="p-4 border-r border-slate-200 font-bold text-xs uppercase text-slate-600 bg-slate-50/50">
                   Total Program Fee
                 </td>
                 {colleges.map((col, idx) => (
-                  <td key={idx} className="p-4 border-r-2 border-foreground">
-                    <span className="font-black text-slate-900 text-base">{col.fees}</span>
-                    <span className="block text-[10px] font-bold text-slate-400 uppercase">2-Year MBA/PGDM</span>
+                  <td key={idx} className="p-4 border-r border-slate-200">
+                    <span className="font-extrabold text-slate-900 text-base">{col.fees}</span>
+                    <span className="block text-[11px] font-medium text-slate-400">2-Year MBA/PGDM</span>
                   </td>
                 ))}
               </tr>
 
               {/* Exam Cutoff */}
               <tr>
-                <td className="p-4 border-r-2 border-foreground font-black text-xs uppercase text-slate-600 bg-slate-50">
+                <td className="p-4 border-r-2 border-slate-200 font-bold text-xs uppercase text-slate-600 bg-slate-50/50">
                   Required Cutoff
                 </td>
                 {colleges.map((col, idx) => (
-                  <td key={idx} className="p-4 border-r-2 border-foreground">
-                    <span className="inline-block bg-emerald-100 text-emerald-900 border border-emerald-400 font-black px-3 py-1 text-xs uppercase">
+                  <td key={idx} className="p-4 border-r border-slate-200">
+                    <span className="inline-block bg-emerald-50 text-emerald-800 border border-emerald-200/80 font-bold px-3 py-1 rounded-full text-xs uppercase">
                       {col.cutoff}
                     </span>
                   </td>
@@ -398,24 +400,24 @@ function CompareModal({
 
               {/* Average Placement */}
               <tr>
-                <td className="p-4 border-r-2 border-foreground font-black text-xs uppercase text-slate-600 bg-slate-50">
+                <td className="p-4 border-r border-slate-200 font-bold text-xs uppercase text-slate-600 bg-slate-50/50">
                   Avg Placement
                 </td>
                 {colleges.map((col, idx) => (
-                  <td key={idx} className="p-4 border-r-2 border-foreground">
-                    <span className="font-black text-primary text-lg">{col.avg_placement}</span>
-                    <span className="block text-[10px] font-bold text-emerald-600 uppercase">✓ Audited Report</span>
+                  <td key={idx} className="p-4 border-r border-slate-200">
+                    <span className="font-extrabold text-primary text-base">{col.avg_placement}</span>
+                    <span className="block text-[11px] font-semibold text-emerald-600">✓ Audited Report</span>
                   </td>
                 ))}
               </tr>
 
               {/* Highest Placement */}
               <tr>
-                <td className="p-4 border-r-2 border-foreground font-black text-xs uppercase text-slate-600 bg-slate-50">
+                <td className="p-4 border-r border-slate-200 font-bold text-xs uppercase text-slate-600 bg-slate-50/50">
                   Highest Package
                 </td>
                 {colleges.map((col, idx) => (
-                  <td key={idx} className="p-4 border-r-2 border-foreground font-black text-slate-950 text-base">
+                  <td key={idx} className="p-4 border-r border-slate-200 font-bold text-slate-900 text-base">
                     {col.highest_placement}
                   </td>
                 ))}
@@ -423,19 +425,19 @@ function CompareModal({
 
               {/* ROI Verdict */}
               <tr>
-                <td className="p-4 border-r-2 border-foreground font-black text-xs uppercase text-slate-600 bg-slate-50">
+                <td className="p-4 border-r border-slate-200 font-bold text-xs uppercase text-slate-600 bg-slate-50/50">
                   Value / ROI Score
                 </td>
                 {colleges.map((col, idx) => {
                   const badge = getRoiBadge(col);
                   return (
-                    <td key={idx} className="p-4 border-r-2 border-foreground">
+                    <td key={idx} className="p-4 border-r border-slate-200">
                       {badge ? (
-                        <span className={`inline-block px-3 py-1 text-[11px] font-black uppercase ${badge.color}`}>
+                        <span className={`inline-block px-3 py-1 rounded-full text-[11px] font-bold ${badge.color}`}>
                           {badge.label}
                         </span>
                       ) : (
-                        <span className="inline-block bg-slate-100 text-slate-700 px-3 py-1 text-[11px] font-bold uppercase border border-slate-300">
+                        <span className="inline-block bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-[11px] font-medium border border-slate-200">
                           🌟 Premier B-School Choice
                         </span>
                       )}
@@ -446,21 +448,21 @@ function CompareModal({
 
               {/* Action Links */}
               <tr>
-                <td className="p-4 border-r-2 border-foreground font-black text-xs uppercase text-slate-600 bg-slate-50">
+                <td className="p-4 border-r border-slate-200 font-bold text-xs uppercase text-slate-600 bg-slate-50/50">
                   Actions
                 </td>
                 {colleges.map((col, idx) => (
-                  <td key={idx} className="p-4 border-r-2 border-foreground space-y-2">
+                  <td key={idx} className="p-4 border-r border-slate-200 space-y-2">
                     <button
                       onClick={() => { onClose(); onInquire(col); }}
-                      className="w-full bg-primary hover:bg-primary/90 text-white font-black py-2.5 px-3 text-xs uppercase tracking-wider border-2 border-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] transition-all cursor-pointer"
+                      className="w-full bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-black py-2.5 px-3 text-xs uppercase tracking-wider rounded-xl shadow-sm transition-all cursor-pointer"
                     >
                       Check Eligibility →
                     </button>
                     {col.slug && (
                       <Link
                         href={`/${col.slug}`}
-                        className="block text-center text-xs font-black uppercase text-primary hover:underline"
+                        className="block text-center text-xs font-bold text-primary hover:underline"
                       >
                         Read Full Review
                       </Link>
@@ -469,7 +471,7 @@ function CompareModal({
                       href={col.website}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block text-center text-[11px] font-bold text-slate-500 hover:text-foreground"
+                      className="block text-center text-[11px] font-medium text-slate-500 hover:text-slate-800"
                     >
                       Official Website ↗
                     </a>
@@ -481,13 +483,13 @@ function CompareModal({
         </div>
 
         {/* Footer */}
-        <div className="bg-slate-100 p-4 border-t-4 border-foreground flex items-center justify-between">
-          <span className="text-xs font-bold text-slate-600">
+        <div className="bg-slate-50 p-4 border-t border-slate-200/80 rounded-b-3xl flex items-center justify-between">
+          <span className="text-xs font-medium text-slate-500">
             Comparing verified NIRF &amp; Audited placement data across India&apos;s leading MBA programs.
           </span>
           <button
             onClick={onClose}
-            className="bg-foreground hover:bg-slate-800 text-white font-black px-6 py-2.5 text-xs uppercase tracking-wider border-2 border-foreground"
+            className="bg-slate-900 hover:bg-slate-800 text-white font-bold px-6 py-2 text-xs uppercase tracking-wider rounded-xl transition-colors"
           >
             Close Matrix
           </button>
@@ -503,11 +505,11 @@ function FaqAccordion() {
 
   const faqs = [
     {
-      question: "Which are the top MBA colleges in India for 2026-27 admission?",
+      question: "Which are the top MBA colleges in India for 2027-28 admission?",
       answer: "The Tier-1 MBA institutions in India include the top IIMs (IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, and Indore), along with premier private and university institutions such as XLRI Jamshedpur, FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, SIBM Pune, and NMIMS Mumbai. Admission cutoffs range from 95 to 99.5+ percentile in CAT, XAT, NMAT, or SNAP."
     },
     {
-      question: "What is the expected NMAT score for NMIMS Mumbai in 2026?",
+      question: "What is the expected NMAT score for NMIMS Mumbai in 2027?",
       answer: "For the flagship MBA program at NMIMS School of Business Management (SBM), Mumbai, the expected overall cutoff score is 232+ out of 360 in NMAT by GMAC. Additionally, candidates must clear sectional cutoffs across Language Skills, Quantitative Skills, and Logical Reasoning."
     },
     {
@@ -537,15 +539,15 @@ function FaqAccordion() {
   ];
 
   return (
-    <section className="mt-20 bg-white border-8 border-foreground p-6 md:p-12 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
-      <div className="flex items-center gap-3 mb-4">
-        <span className="bg-accent text-foreground border-2 border-foreground px-3 py-1 font-black text-xs uppercase tracking-widest shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
-          KNOWLEDGE BASE 2026
+    <section className="mt-20 bg-slate-50/70 rounded-3xl border border-slate-200/80 p-6 md:p-12 shadow-sm">
+      <div className="flex items-center gap-3 mb-3">
+        <span className="bg-amber-500/10 text-amber-900 border border-amber-300/80 px-3.5 py-1 rounded-full font-bold text-xs uppercase tracking-wider">
+          Knowledge Base 2027-28
         </span>
-        <span className="text-sm font-bold text-slate-500">Expert Answers by Mohit Jain</span>
+        <span className="text-xs font-semibold text-slate-500">Expert Answers by Mohit Jain</span>
       </div>
-      <h2 className="text-3xl md:text-5xl font-black uppercase tracking-tight text-foreground mb-8">
-        Frequently Asked <span className="text-primary underline decoration-8 underline-offset-4">Questions</span>
+      <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight text-slate-900 mb-8">
+        Frequently Asked <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-amber-600">Questions</span>
       </h2>
 
       <div className="space-y-4">
@@ -554,29 +556,29 @@ function FaqAccordion() {
           return (
             <div
               key={idx}
-              className={`border-4 border-foreground transition-all duration-200 ${
+              className={`rounded-2xl border transition-all duration-200 overflow-hidden ${
                 isOpen 
-                  ? "bg-slate-50 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]" 
-                  : "bg-white hover:bg-slate-50/50"
+                  ? "bg-white border-amber-400/60 shadow-md shadow-amber-500/5" 
+                  : "bg-white border-slate-200/80 hover:border-slate-300"
               }`}
             >
               <button
                 onClick={() => setOpenIdx(isOpen ? null : idx)}
                 className="w-full p-5 md:p-6 text-left flex items-center justify-between gap-4 cursor-pointer"
               >
-                <span className="text-lg md:text-xl font-black text-foreground uppercase tracking-tight flex items-start gap-3">
-                  <span className="text-primary font-mono font-bold">0{idx + 1}.</span>
+                <span className="text-base md:text-lg font-bold text-slate-900 flex items-start gap-3">
+                  <span className="text-amber-500 font-mono font-bold">0{idx + 1}.</span>
                   {faq.question}
                 </span>
-                <span className={`w-8 h-8 shrink-0 bg-white border-2 border-foreground flex items-center justify-center transition-transform ${
-                  isOpen ? "bg-primary text-white rotate-180" : "text-foreground"
+                <span className={`w-8 h-8 shrink-0 rounded-full flex items-center justify-center transition-transform ${
+                  isOpen ? "bg-amber-500 text-slate-950 rotate-180" : "bg-slate-100 text-slate-600"
                 }`}>
-                  <ChevronDown className="w-5 h-5 stroke-[3]" />
+                  <ChevronDown className="w-4 h-4" />
                 </span>
               </button>
               {isOpen && (
-                <div className="px-5 pb-6 md:px-6 md:pb-8 pt-2 border-t-2 border-slate-200 text-slate-700 font-bold text-base leading-relaxed">
-                  <p className="border-l-4 border-primary pl-4">{faq.answer}</p>
+                <div className="px-5 pb-6 md:px-6 md:pb-8 pt-2 text-slate-600 font-medium text-sm leading-relaxed border-t border-slate-100">
+                  <p className="border-l-2 border-amber-400/80 pl-4">{faq.answer}</p>
                 </div>
               )}
             </div>
@@ -677,28 +679,28 @@ export function TopTierMbaClient() {
   return (
     <div className="w-full bg-slate-50/50 pb-28">
       {/* Dynamic Sub-header Stats Bar */}
-      <section className="bg-slate-900 text-white border-b-8 border-foreground py-5 px-6">
+      <section className="bg-[#0A192F] text-white border-b border-white/10 py-4 px-6">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4">
           <div className="flex items-center gap-3">
-            <span className="bg-accent text-foreground border-2 border-foreground px-3.5 py-1 font-black text-xs uppercase tracking-wider shadow-[3px_3px_0px_0px_rgba(255,255,255,1)]">
-              LIVE NIRF 2026 AUDIT
+            <span className="bg-white/10 text-amber-300 border border-white/15 px-3.5 py-1 rounded-full font-bold text-xs uppercase tracking-wider">
+              Live NIRF 2027-28 Audit
             </span>
-            <span className="text-sm font-bold text-slate-300 hidden sm:inline">
+            <span className="text-sm font-medium text-slate-300 hidden sm:inline">
               Compare India&apos;s Tier 1 &amp; Premier B-Schools • Updated Cutoffs &amp; Placements
             </span>
           </div>
           <div className="flex items-center gap-6">
             <div className="text-right">
-              <span className="text-[10px] font-black uppercase text-slate-400 block tracking-widest">
+              <span className="text-[10px] font-bold uppercase text-slate-400 block tracking-widest">
                 Directory Scope
               </span>
-              <span className="text-lg font-black text-accent">{TOP_TIER_MBA_COLLEGES.length} Verified Colleges</span>
+              <span className="text-base font-extrabold text-amber-300">{TOP_TIER_MBA_COLLEGES.length} Verified Colleges</span>
             </div>
-            <div className="text-right border-l-2 border-slate-700 pl-6">
-              <span className="text-[10px] font-black uppercase text-slate-400 block tracking-widest">
+            <div className="text-right border-l border-white/15 pl-6">
+              <span className="text-[10px] font-bold uppercase text-slate-400 block tracking-widest">
                 IIM Coverage
               </span>
-              <span className="text-lg font-black text-emerald-400">All 20 Campuses</span>
+              <span className="text-base font-extrabold text-emerald-400">All 20 Campuses</span>
             </div>
           </div>
         </div>
@@ -708,8 +710,8 @@ export function TopTierMbaClient() {
       <div className="max-w-7xl mx-auto px-6 py-12">
         
         {/* Navigation Tabs, Search, Sort and View Toggles */}
-        <div className="bg-white border-8 border-foreground p-6 md:p-8 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] mb-12 relative overflow-hidden">
-          <div className="absolute top-0 right-0 w-64 h-64 bg-primary/5 rounded-full -mr-20 -mt-20 blur-2xl pointer-events-none" />
+        <div className="bg-white rounded-3xl border border-slate-200/80 p-6 md:p-8 shadow-sm mb-12 relative overflow-hidden">
+          <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full -mr-20 -mt-20 blur-2xl pointer-events-none" />
 
           {/* Top Row: Exam Tabs */}
           <div className="flex flex-wrap gap-2.5 mb-6 overflow-x-auto pb-2 no-scrollbar">
@@ -732,16 +734,16 @@ export function TopTierMbaClient() {
                 <button
                   key={tab.id}
                   onClick={() => setActiveTab(tab.id as any)}
-                  className={`px-4 py-2.5 font-black text-xs uppercase tracking-wider transition-all border-4 cursor-pointer flex items-center gap-2 shrink-0 ${
+                  className={`px-4 py-2.5 font-bold text-xs uppercase tracking-wider rounded-full transition-all cursor-pointer flex items-center gap-2 shrink-0 ${
                     isActive
-                      ? "bg-primary border-foreground text-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] -translate-y-0.5"
-                      : "bg-white border-foreground text-foreground hover:bg-slate-50"
+                      ? "bg-[#0A192F] text-white shadow-md shadow-slate-950/20"
+                      : "bg-slate-100/80 hover:bg-slate-200/80 text-slate-700 border border-slate-200/60"
                   }`}
                 >
-                  <Icon className={`w-4 h-4 ${isActive ? "text-accent" : "text-primary"}`} />
+                  <Icon className={`w-4 h-4 ${isActive ? "text-amber-400" : "text-slate-500"}`} />
                   {tab.label}
-                  <span className={`text-[10px] font-black px-2 py-0.5 border-2 ${
-                    isActive ? "bg-white text-primary border-white" : "bg-slate-100 text-slate-700 border-slate-300"
+                  <span className={`text-[11px] font-bold px-2 py-0.5 rounded-full ${
+                    isActive ? "bg-white/20 text-white" : "bg-slate-200/80 text-slate-600"
                   }`}>
                     {tab.count}
                   </span>
@@ -751,23 +753,23 @@ export function TopTierMbaClient() {
           </div>
 
           {/* Bottom Row: Search, Fee Filter, Sort By, and View Mode Toggle */}
-          <div className="flex flex-col lg:flex-row gap-4 items-stretch lg:items-center justify-between pt-6 border-t-4 border-slate-100">
+          <div className="flex flex-col lg:flex-row gap-4 items-stretch lg:items-center justify-between pt-6 border-t border-slate-100">
             {/* Search Input */}
             <div className="relative flex-grow max-w-md">
-              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-foreground w-5 h-5 stroke-[2.5]" />
+              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 w-4 h-4" />
               <input
                 type="text"
                 placeholder="Search college, city, or exam (CAT, XAT, NMAT)..."
                 value={searchQuery}
                 onChange={e => setSearchQuery(e.target.value)}
-                className="w-full pl-12 pr-10 h-13 bg-slate-50 border-4 border-foreground text-sm font-bold text-foreground focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary transition-all placeholder:text-slate-400"
+                className="w-full pl-11 pr-10 h-12 bg-slate-50 border border-slate-200 rounded-2xl text-sm font-medium text-slate-900 focus:bg-white focus:outline-none focus:ring-2 focus:ring-amber-500/20 focus:border-amber-500 transition-all placeholder:text-slate-400"
               />
               {searchQuery && (
                 <button 
                   onClick={() => setSearchQuery("")}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-foreground"
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700"
                 >
-                  <X className="w-5 h-5" />
+                  <X className="w-4 h-4" />
                 </button>
               )}
             </div>
@@ -775,12 +777,12 @@ export function TopTierMbaClient() {
             {/* Filter & Sort Controls Group */}
             <div className="flex flex-wrap items-center gap-3">
               {/* Fee Range Filter */}
-              <div className="flex items-center gap-1.5 bg-slate-100 border-2 border-foreground px-3 py-1.5">
-                <DollarSign className="w-4 h-4 text-slate-600" />
+              <div className="flex items-center gap-1.5 bg-slate-50 border border-slate-200 rounded-xl px-3 py-2">
+                <DollarSign className="w-4 h-4 text-slate-500" />
                 <select
                   value={feeFilter}
                   onChange={e => setFeeFilter(e.target.value as any)}
-                  className="bg-transparent text-xs font-black uppercase text-foreground focus:outline-none cursor-pointer"
+                  className="bg-transparent text-xs font-bold uppercase text-slate-700 focus:outline-none cursor-pointer"
                 >
                   <option value="all">All Fee Ranges</option>
                   <option value="under_20">Under ₹20 Lakhs</option>
@@ -790,12 +792,12 @@ export function TopTierMbaClient() {
               </div>
 
               {/* Sort By Dropdown */}
-              <div className="flex items-center gap-1.5 bg-slate-100 border-2 border-foreground px-3 py-1.5">
-                <ArrowUpDown className="w-4 h-4 text-slate-600" />
+              <div className="flex items-center gap-1.5 bg-slate-50 border border-slate-200 rounded-xl px-3 py-2">
+                <ArrowUpDown className="w-4 h-4 text-slate-500" />
                 <select
                   value={sortBy}
                   onChange={e => setSortBy(e.target.value as any)}
-                  className="bg-transparent text-xs font-black uppercase text-foreground focus:outline-none cursor-pointer"
+                  className="bg-transparent text-xs font-bold uppercase text-slate-700 focus:outline-none cursor-pointer"
                 >
                   <option value="default">Sort: Editorial Ranking</option>
                   <option value="avg_desc">Sort: Highest Avg Package</option>
@@ -805,29 +807,29 @@ export function TopTierMbaClient() {
               </div>
 
               {/* View Mode Toggle (Grid vs Table) */}
-              <div className="flex items-center border-2 border-foreground bg-white overflow-hidden shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+              <div className="flex items-center border border-slate-200 rounded-xl bg-slate-50 p-1">
                 <button
                   onClick={() => setViewMode("grid")}
-                  className={`p-2.5 transition-colors cursor-pointer flex items-center gap-1.5 text-xs font-black uppercase ${
+                  className={`px-3 py-1.5 rounded-lg transition-colors cursor-pointer flex items-center gap-1.5 text-xs font-bold uppercase ${
                     viewMode === "grid" 
-                      ? "bg-foreground text-white" 
-                      : "bg-white text-slate-600 hover:bg-slate-100"
+                      ? "bg-white text-slate-900 shadow-sm" 
+                      : "text-slate-600 hover:text-slate-900"
                   }`}
                   title="Card Grid View"
                 >
-                  <LayoutGrid className="w-4 h-4" />
+                  <LayoutGrid className="w-3.5 h-3.5" />
                   <span className="hidden sm:inline">Cards</span>
                 </button>
                 <button
                   onClick={() => setViewMode("table")}
-                  className={`p-2.5 transition-colors cursor-pointer flex items-center gap-1.5 text-xs font-black uppercase border-l-2 border-foreground ${
+                  className={`px-3 py-1.5 rounded-lg transition-colors cursor-pointer flex items-center gap-1.5 text-xs font-bold uppercase ${
                     viewMode === "table" 
-                      ? "bg-foreground text-white" 
-                      : "bg-white text-slate-600 hover:bg-slate-100"
+                      ? "bg-white text-slate-900 shadow-sm" 
+                      : "text-slate-600 hover:text-slate-900"
                   }`}
                   title="Comparison Matrix View"
                 >
-                  <TableIcon className="w-4 h-4" />
+                  <TableIcon className="w-3.5 h-3.5" />
                   <span className="hidden sm:inline">Table Matrix</span>
                 </button>
               </div>
@@ -836,18 +838,18 @@ export function TopTierMbaClient() {
         </div>
 
         {/* Results Layout Grid */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-10">
           
           {/* Main Colleges Content Area */}
-          <div className="lg:col-span-8 space-y-8">
+          <div className="lg:col-span-8 space-y-6">
             {/* Header bar */}
-            <div className="flex justify-between items-center border-b-4 border-foreground pb-4">
+            <div className="flex justify-between items-center border-b border-slate-200/80 pb-4">
               <div>
-                <h2 className="text-2xl font-black uppercase tracking-tight text-foreground flex items-center gap-2">
-                  <School className="w-6 h-6 text-primary" />
+                <h2 className="text-2xl font-extrabold tracking-tight text-slate-900 flex items-center gap-2">
+                  <School className="w-5 h-5 text-amber-500" />
                   {viewMode === "grid" ? "B-School Profiles" : "Comparative Spreadsheet"}
                 </h2>
-                <p className="text-xs font-bold text-slate-500 mt-0.5">
+                <p className="text-xs font-medium text-slate-500 mt-0.5">
                   Showing {filteredColleges.length} of {TOP_TIER_MBA_COLLEGES.length} institutions
                 </p>
               </div>
@@ -855,7 +857,7 @@ export function TopTierMbaClient() {
               {compareList.length > 0 && (
                 <button
                   onClick={() => setShowCompareModal(true)}
-                  className="bg-accent hover:bg-yellow-400 border-2 border-foreground px-4 py-2 font-black text-xs uppercase tracking-wider shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] flex items-center gap-2 transition-all animate-bounce"
+                  className="bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-black rounded-full px-4 py-2 text-xs uppercase tracking-wider shadow-md shadow-amber-500/20 flex items-center gap-2 transition-all cursor-pointer"
                 >
                   <Scale className="w-4 h-4" />
                   Compare ({compareList.length}) →
@@ -864,17 +866,17 @@ export function TopTierMbaClient() {
             </div>
 
             {filteredColleges.length === 0 ? (
-              <div className="border-4 border-dashed border-gray-300 p-16 text-center bg-white">
-                <Search className="w-12 h-12 text-gray-400 mx-auto mb-4" />
-                <h3 className="text-xl font-black text-foreground uppercase mb-2">
+              <div className="rounded-3xl border border-dashed border-slate-300 p-16 text-center bg-white">
+                <Search className="w-12 h-12 text-slate-300 mx-auto mb-4" />
+                <h3 className="text-xl font-extrabold text-slate-900 uppercase mb-2">
                   No matching colleges found
                 </h3>
-                <p className="text-slate-500 font-medium max-w-md mx-auto">
+                <p className="text-slate-500 text-sm font-medium max-w-md mx-auto">
                   We couldn&apos;t find any college matching &ldquo;{searchQuery}&rdquo; in this filter category.
                 </p>
                 <button
                   onClick={() => { setSearchQuery(""); setActiveTab("all"); setFeeFilter("all"); }}
-                  className="mt-6 px-6 py-3 bg-foreground text-white font-bold uppercase text-xs tracking-wider border-2 border-foreground hover:bg-slate-800 transition-all cursor-pointer"
+                  className="mt-6 px-6 py-2.5 bg-slate-900 text-white font-bold uppercase text-xs tracking-wider rounded-xl hover:bg-slate-800 transition-all cursor-pointer"
                 >
                   Reset All Filters
                 </button>
@@ -890,16 +892,16 @@ export function TopTierMbaClient() {
                   return (
                     <div
                       key={idx}
-                      className="group bg-white border-4 border-foreground shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 transition-all duration-200 p-6 md:p-8 relative overflow-hidden"
+                      className="group bg-white rounded-3xl border border-slate-200/80 shadow-sm hover:shadow-xl hover:border-slate-300/90 transition-all duration-300 p-6 md:p-8 relative overflow-hidden"
                     >
                       {/* Top Category Badge Row */}
-                      <div className="flex flex-wrap items-center justify-between gap-3 mb-5 pb-4 border-b-2 border-slate-100">
+                      <div className="flex flex-wrap items-center justify-between gap-3 mb-5 pb-4 border-b border-slate-100">
                         <div className="flex flex-wrap items-center gap-2">
-                          <span className={`${badge.bg} ${badge.text} border ${badge.border} px-3 py-1 font-black text-[11px] uppercase tracking-wider`}>
+                          <span className={`${badge.bg} ${badge.text} border ${badge.border} px-3 py-1 rounded-full font-bold text-[11px] uppercase tracking-wider`}>
                             {badge.label}
                           </span>
                           {roiBadge && (
-                            <span className={`${roiBadge.color} border border-foreground px-3 py-1 font-black text-[11px] uppercase tracking-wider shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]`}>
+                            <span className={`${roiBadge.color} px-3 py-1 rounded-full font-bold text-[11px] uppercase tracking-wider shadow-sm`}>
                               {roiBadge.label}
                             </span>
                           )}
@@ -908,15 +910,15 @@ export function TopTierMbaClient() {
                         {/* Compare Checkbox Button */}
                         <button
                           onClick={() => toggleCompare(college.name)}
-                          className={`px-3 py-1 text-xs font-black uppercase tracking-wider border-2 flex items-center gap-1.5 transition-all cursor-pointer ${
+                          className={`px-3 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider border transition-all cursor-pointer flex items-center gap-1.5 ${
                             isCompared
-                              ? "bg-foreground text-white border-foreground shadow-[2px_2px_0px_0px_rgba(255,255,255,1)]"
-                              : "bg-slate-100 text-slate-700 border-slate-300 hover:border-foreground hover:bg-slate-200"
+                              ? "bg-[#0A192F] text-white border-transparent shadow-sm"
+                              : "bg-slate-100 hover:bg-slate-200 text-slate-700 border-slate-200"
                           }`}
                         >
                           {isCompared ? (
                             <>
-                              <Check className="w-3.5 h-3.5 text-accent" />
+                              <Check className="w-3.5 h-3.5 text-amber-400" />
                               Comparing
                             </>
                           ) : (
@@ -931,20 +933,20 @@ export function TopTierMbaClient() {
                       {/* College Name & Exam Tags */}
                       <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-6">
                         <div>
-                          <h3 className="font-display text-2xl md:text-3xl font-black tracking-tight text-foreground group-hover:text-primary transition-colors flex items-center gap-2">
+                          <h3 className="font-display text-2xl md:text-3xl font-extrabold tracking-tight text-slate-900 group-hover:text-primary transition-colors flex items-center gap-2">
                             {college.name}
                           </h3>
-                          <p className="text-xs font-bold text-slate-500 flex items-center gap-1.5 mt-1">
+                          <p className="text-xs font-semibold text-slate-500 flex items-center gap-1.5 mt-1">
                             <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
                             {college.location}
                           </p>
                         </div>
 
-                        <div className="flex flex-wrap gap-2">
+                        <div className="flex flex-wrap gap-1.5">
                           {college.exams.map((exam, i) => (
                             <span
                               key={i}
-                              className="bg-blue-50 text-primary border-2 border-primary/20 px-3 py-1 font-black text-xs uppercase tracking-widest shadow-xs"
+                              className="bg-blue-50 text-blue-700 border border-blue-200/60 rounded-lg px-2.5 py-1 font-bold text-xs uppercase tracking-wider"
                             >
                               {exam}
                             </span>
@@ -953,54 +955,54 @@ export function TopTierMbaClient() {
                       </div>
 
                       {/* Key Metrics 4-Box Matrix */}
-                      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-                        <div className="bg-slate-50 border-2 border-foreground p-3.5">
-                          <div className="text-[10px] font-black uppercase text-slate-500 flex items-center gap-1">
-                            <DollarSign className="w-3.5 h-3.5 text-slate-500" /> Total Fees
+                      <div className="grid grid-cols-2 md:grid-cols-4 gap-3.5 mb-6">
+                        <div className="bg-slate-50/80 rounded-2xl border border-slate-200/70 p-4">
+                          <div className="text-[11px] font-bold uppercase text-slate-500 flex items-center gap-1">
+                            <DollarSign className="w-3.5 h-3.5 text-slate-400" /> Total Fees
                           </div>
-                          <p className="text-sm md:text-base font-black text-slate-900 mt-1">{college.fees}</p>
-                          <span className="block text-[10px] font-bold text-slate-400 mt-0.5">2-Year Program</span>
+                          <p className="text-base font-extrabold text-slate-900 mt-1">{college.fees}</p>
+                          <span className="block text-[11px] font-medium text-slate-400 mt-0.5">2-Year Program</span>
                         </div>
 
-                        <div className="bg-emerald-50/60 border-2 border-emerald-500 p-3.5">
-                          <div className="text-[10px] font-black uppercase text-emerald-800 flex items-center gap-1">
+                        <div className="bg-emerald-50/60 rounded-2xl border border-emerald-200/70 p-4">
+                          <div className="text-[11px] font-bold uppercase text-emerald-800 flex items-center gap-1">
                             <Percent className="w-3.5 h-3.5 text-emerald-700" /> Cut-off Required
                           </div>
-                          <p className="text-sm md:text-base font-black text-emerald-800 mt-1">{college.cutoff}</p>
-                          <span className="block text-[10px] font-bold text-emerald-600 mt-0.5">Expected 2026</span>
+                          <p className="text-base font-extrabold text-emerald-900 mt-1">{college.cutoff}</p>
+                          <span className="block text-[11px] font-semibold text-emerald-600 mt-0.5">Expected 2027</span>
                         </div>
 
-                        <div className="bg-blue-50/60 border-2 border-primary p-3.5">
-                          <div className="text-[10px] font-black uppercase text-primary flex items-center gap-1">
-                            <TrendingUp className="w-3.5 h-3.5 text-primary" /> Avg Placement
+                        <div className="bg-indigo-50/60 rounded-2xl border border-indigo-200/70 p-4">
+                          <div className="text-[11px] font-bold uppercase text-indigo-800 flex items-center gap-1">
+                            <TrendingUp className="w-3.5 h-3.5 text-indigo-600" /> Avg Placement
                           </div>
-                          <p className="text-sm md:text-base font-black text-primary mt-1">{college.avg_placement}</p>
-                          <span className="block text-[10px] font-bold text-blue-600 mt-0.5">Audited Report</span>
+                          <p className="text-base font-extrabold text-primary mt-1">{college.avg_placement}</p>
+                          <span className="block text-[11px] font-semibold text-indigo-600 mt-0.5">Audited Report</span>
                         </div>
 
-                        <div className="bg-slate-900 text-white border-2 border-foreground p-3.5">
-                          <div className="text-[10px] font-black uppercase text-accent flex items-center gap-1">
-                            <Trophy className="w-3.5 h-3.5 text-accent" /> Highest Package
+                        <div className="bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] rounded-2xl border border-slate-800 text-white p-4 shadow-sm">
+                          <div className="text-[11px] font-bold uppercase text-amber-300 flex items-center gap-1">
+                            <Trophy className="w-3.5 h-3.5 text-amber-400" /> Highest Package
                           </div>
-                          <p className="text-sm md:text-base font-black text-white mt-1">{college.highest_placement}</p>
-                          <span className="block text-[10px] font-bold text-slate-400 mt-0.5">Peak Offer</span>
+                          <p className="text-base font-extrabold text-white mt-1">{college.highest_placement}</p>
+                          <span className="block text-[11px] font-medium text-slate-300 mt-0.5">Peak Offer</span>
                         </div>
                       </div>
 
                       {/* Footer Actions */}
-                      <div className="flex flex-wrap items-center justify-between gap-4 pt-4 border-t-2 border-slate-100">
+                      <div className="flex flex-wrap items-center justify-between gap-4 pt-4 border-t border-slate-100">
                         <div className="flex items-center gap-4">
                           {college.slug ? (
                             <Link
                               href={`/${college.slug}`}
                               prefetch={false}
-                              className="inline-flex items-center text-xs font-black uppercase tracking-wider text-primary hover:text-foreground transition-all group/btn"
+                              className="inline-flex items-center text-xs font-bold uppercase tracking-wider text-primary hover:text-primary/80 transition-all group/btn"
                             >
                               Read Complete Review
                               <ArrowRight className="ml-1.5 w-3.5 h-3.5 group-hover/btn:translate-x-1 transition-transform" />
                             </Link>
                           ) : (
-                            <span className="text-[10px] font-bold text-slate-400 flex items-center gap-1">
+                            <span className="text-[11px] font-medium text-slate-400 flex items-center gap-1">
                               <BookOpen className="w-3.5 h-3.5" /> Full profile updating
                             </span>
                           )}
@@ -1009,7 +1011,7 @@ export function TopTierMbaClient() {
                             href={college.website}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="inline-flex items-center text-xs font-black uppercase tracking-wider text-slate-600 hover:text-foreground transition-colors"
+                            className="inline-flex items-center text-xs font-semibold text-slate-500 hover:text-slate-800 transition-colors"
                           >
                             Official Website
                             <ExternalLink className="ml-1 w-3 h-3" />
@@ -1019,9 +1021,9 @@ export function TopTierMbaClient() {
                         <div className="flex items-center gap-3">
                           <button
                             onClick={() => setInquiryCollege(college)}
-                            className="bg-primary hover:bg-primary/90 text-white border-2 border-foreground px-4 py-2.5 font-black text-xs uppercase tracking-wider shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] active:translate-y-0.5 active:shadow-none transition-all cursor-pointer flex items-center gap-1.5"
+                            className="bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-black rounded-xl px-4 py-2.5 text-xs uppercase tracking-wider shadow-md shadow-amber-500/20 active:scale-95 transition-all cursor-pointer flex items-center gap-1.5"
                           >
-                            <Sparkles className="w-3.5 h-3.5 text-accent" />
+                            <Sparkles className="w-3.5 h-3.5 text-slate-950" />
                             Check Admission Odds
                           </button>
                         </div>
@@ -1032,57 +1034,57 @@ export function TopTierMbaClient() {
               </div>
             ) : (
               /* ── TABLE / SPREADSHEET MATRIX VIEW ── */
-              <div className="bg-white border-4 border-foreground shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] overflow-hidden">
+              <div className="bg-white rounded-3xl border border-slate-200/80 shadow-sm overflow-hidden">
                 <div className="overflow-x-auto">
                   <table className="w-full text-left border-collapse">
                     <thead>
-                      <tr className="bg-slate-900 text-white border-b-4 border-foreground">
-                        <th className="p-4 font-black uppercase text-xs tracking-wider">Institution</th>
-                        <th className="p-4 font-black uppercase text-xs tracking-wider">Exams</th>
-                        <th className="p-4 font-black uppercase text-xs tracking-wider">2-Yr Fees</th>
-                        <th className="p-4 font-black uppercase text-xs tracking-wider">Cutoff</th>
-                        <th className="p-4 font-black uppercase text-xs tracking-wider">Avg Pkg</th>
-                        <th className="p-4 font-black uppercase text-xs tracking-wider">Highest Pkg</th>
-                        <th className="p-4 font-black uppercase text-xs tracking-wider text-right">Action</th>
+                      <tr className="bg-[#0A192F] text-white">
+                        <th className="p-4 font-bold uppercase text-xs tracking-wider">Institution</th>
+                        <th className="p-4 font-bold uppercase text-xs tracking-wider">Exams</th>
+                        <th className="p-4 font-bold uppercase text-xs tracking-wider">2-Yr Fees</th>
+                        <th className="p-4 font-bold uppercase text-xs tracking-wider">Cutoff</th>
+                        <th className="p-4 font-bold uppercase text-xs tracking-wider">Avg Pkg</th>
+                        <th className="p-4 font-bold uppercase text-xs tracking-wider">Highest Pkg</th>
+                        <th className="p-4 font-bold uppercase text-xs tracking-wider text-right">Action</th>
                       </tr>
                     </thead>
-                    <tbody className="divide-y-2 divide-slate-200">
+                    <tbody className="divide-y divide-slate-200">
                       {filteredColleges.map((col, idx) => (
-                        <tr key={idx} className="hover:bg-slate-50 transition-colors">
+                        <tr key={idx} className="hover:bg-slate-50/70 transition-colors">
                           <td className="p-4">
-                            <div className="font-black text-foreground text-sm uppercase">{col.name}</div>
-                            <div className="text-xs font-bold text-slate-500">{col.location}</div>
+                            <div className="font-extrabold text-slate-900 text-sm uppercase">{col.name}</div>
+                            <div className="text-xs font-medium text-slate-500">{col.location}</div>
                           </td>
                           <td className="p-4">
                             <div className="flex flex-wrap gap-1">
                               {col.exams.map(ex => (
-                                <span key={ex} className="bg-blue-50 text-primary border border-primary/20 px-2 py-0.5 text-[10px] font-black uppercase">
+                                <span key={ex} className="bg-blue-50 text-blue-700 border border-blue-200/60 rounded px-2 py-0.5 text-[10px] font-bold uppercase">
                                   {ex}
                                 </span>
                               ))}
                             </div>
                           </td>
-                          <td className="p-4 font-black text-sm text-slate-900">{col.fees}</td>
+                          <td className="p-4 font-extrabold text-sm text-slate-900">{col.fees}</td>
                           <td className="p-4">
-                            <span className="bg-emerald-100 text-emerald-900 px-2.5 py-1 text-xs font-black uppercase border border-emerald-300">
+                            <span className="bg-emerald-50 text-emerald-800 px-2.5 py-1 rounded-full text-xs font-bold uppercase border border-emerald-200/80">
                               {col.cutoff}
                             </span>
                           </td>
-                          <td className="p-4 font-black text-primary text-sm">{col.avg_placement}</td>
-                          <td className="p-4 font-black text-slate-950 text-sm">{col.highest_placement}</td>
+                          <td className="p-4 font-extrabold text-primary text-sm">{col.avg_placement}</td>
+                          <td className="p-4 font-extrabold text-slate-900 text-sm">{col.highest_placement}</td>
                           <td className="p-4 text-right">
                             <div className="flex items-center justify-end gap-2">
                               <button
                                 onClick={() => setInquiryCollege(col)}
-                                className="bg-primary hover:bg-primary/90 text-white px-3 py-1.5 font-black text-xs uppercase tracking-wider border border-foreground shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] cursor-pointer"
+                                className="bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-bold px-3 py-1.5 rounded-lg text-xs uppercase tracking-wider shadow-sm cursor-pointer"
                               >
                                 Check Odds
                               </button>
                               <button
                                 onClick={() => toggleCompare(col.name)}
-                                className={`p-1.5 border border-foreground cursor-pointer ${
+                                className={`p-1.5 rounded-lg border border-slate-200 cursor-pointer transition-colors ${
                                   compareList.includes(col.name) 
-                                    ? "bg-foreground text-white" 
+                                    ? "bg-[#0A192F] text-white" 
                                     : "bg-slate-100 hover:bg-slate-200 text-slate-700"
                                 }`}
                                 title="Compare"
@@ -1104,32 +1106,32 @@ export function TopTierMbaClient() {
           <div className="lg:col-span-4 lg:sticky lg:top-20 lg:max-h-[calc(100vh-5rem)] lg:overflow-y-auto pr-1 space-y-6">
             <div id="consult-form" className="scroll-mt-24 space-y-6">
               {/* Executive Strategy Card */}
-              <div className="bg-slate-900 text-white border-4 md:border-6 border-foreground p-5 md:p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] relative overflow-hidden">
-                <div className="absolute top-0 right-0 w-36 h-36 bg-accent/10 rounded-full -mr-10 -mt-10 blur-xl" />
+              <div className="rounded-3xl bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] text-white border border-white/10 p-6 md:p-8 shadow-lg relative overflow-hidden">
+                <div className="absolute top-0 right-0 w-36 h-36 bg-amber-500/10 rounded-full -mr-10 -mt-10 blur-xl" />
                 <div className="flex items-center gap-2 mb-3">
                   <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-ping" />
-                  <span className="text-[10px] font-black uppercase tracking-widest text-accent">
-                    ADMISSION STRATEGY 2027-28
+                  <span className="text-[11px] font-bold uppercase tracking-widest text-amber-400">
+                    Admission Strategy 2027-28
                   </span>
                 </div>
-                <h3 className="text-xl md:text-2xl font-black uppercase leading-tight mb-2">
+                <h3 className="text-xl md:text-2xl font-extrabold leading-tight mb-2">
                   Targeting IIMs, XLRI, or NMIMS?
                 </h3>
-                <p className="text-xs font-bold text-slate-300 leading-relaxed mb-4 border-l-4 border-accent pl-3">
+                <p className="text-xs font-medium text-slate-300 leading-relaxed mb-5 border-l-2 border-amber-400/80 pl-3">
                   Don&apos;t apply blindly. Let Mohit Jain formulate your profile strategy, analyze your GD/PI calls, and guide you to India&apos;s best ROI business schools.
                 </p>
 
-                <div className="space-y-2 mb-5 text-xs font-bold text-slate-200">
-                  <div className="flex items-center gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-accent shrink-0" />
+                <div className="space-y-2.5 mb-6 text-xs font-semibold text-slate-200">
+                  <div className="flex items-center gap-2.5">
+                    <CheckCircle2 className="w-4 h-4 text-amber-400 shrink-0" />
                     <span>Safe vs. Ambitious Cutoff Assessment</span>
                   </div>
-                  <div className="flex items-center gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-accent shrink-0" />
+                  <div className="flex items-center gap-2.5">
+                    <CheckCircle2 className="w-4 h-4 text-amber-400 shrink-0" />
                     <span>Profile Diversity (Engineering / Non-Engg)</span>
                   </div>
-                  <div className="flex items-center gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-accent shrink-0" />
+                  <div className="flex items-center gap-2.5">
+                    <CheckCircle2 className="w-4 h-4 text-amber-400 shrink-0" />
                     <span>Direct Admission &amp; Management Quota Help</span>
                   </div>
                 </div>
@@ -1138,7 +1140,7 @@ export function TopTierMbaClient() {
                   href="https://wa.me/919811559190?text=Hi%20Mohit,%20I%20am%20exploring%20Top%20Tier%20MBA%20colleges%20for%202027-28.%20Please%20help%20me%20with%20counselling!"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-black py-3 px-4 text-xs uppercase tracking-wider border-2 border-foreground shadow-[4px_4px_0px_0px_rgba(255,255,255,1)] flex items-center justify-center gap-2 transition-all block text-center"
+                  className="w-full bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 text-white font-bold py-3.5 px-4 text-xs uppercase tracking-wider rounded-xl shadow-lg shadow-emerald-500/25 flex items-center justify-center gap-2 transition-all block text-center"
                 >
                   <MessageCircle className="w-4 h-4" />
                   Chat With Mohit On WhatsApp
@@ -1146,7 +1148,7 @@ export function TopTierMbaClient() {
               </div>
 
               {/* Lead Gen Form */}
-              <div className="bg-white border-4 md:border-6 border-foreground p-5 md:p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+              <div className="bg-white rounded-3xl border border-slate-200/80 p-6 md:p-8 shadow-sm">
                 <InquiryForm
                   variant="sidebar"
                   source="Top Tier MBA Colleges Page - Sidebar Callback Request"
@@ -1166,15 +1168,15 @@ export function TopTierMbaClient() {
 
       {/* ── STICKY FLOATING COMPARISON DRAWER ── */}
       {compareList.length > 0 && (
-        <div className="fixed bottom-0 left-0 right-0 z-40 bg-slate-900 text-white border-t-4 border-accent py-4 px-6 shadow-2xl animate-in slide-in-from-bottom duration-300">
+        <div className="fixed bottom-0 left-0 right-0 z-40 bg-[#0A192F]/95 backdrop-blur-md text-white border-t border-white/10 py-4 px-6 shadow-2xl animate-in slide-in-from-bottom duration-300">
           <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4">
             <div className="flex items-center gap-3">
-              <span className="bg-accent text-foreground font-black text-xs px-2.5 py-1 uppercase tracking-wider">
+              <span className="bg-amber-400 text-slate-950 font-black text-xs px-3 py-1 rounded-full uppercase tracking-wider">
                 COMPARING ({compareList.length}/4)
               </span>
               <div className="flex flex-wrap gap-2">
                 {compareList.map(name => (
-                  <span key={name} className="bg-slate-800 border border-slate-700 text-slate-200 font-bold text-xs px-3 py-1 flex items-center gap-2">
+                  <span key={name} className="bg-white/10 border border-white/15 text-slate-200 font-semibold text-xs px-3 py-1 rounded-full flex items-center gap-2">
                     {name}
                     <button 
                       onClick={() => toggleCompare(name)}
@@ -1190,13 +1192,13 @@ export function TopTierMbaClient() {
             <div className="flex items-center gap-3">
               <button
                 onClick={() => setCompareList([])}
-                className="text-xs font-bold text-slate-400 hover:text-white uppercase px-3 py-1.5 cursor-pointer"
+                className="text-xs font-semibold text-slate-400 hover:text-white uppercase px-3 py-1.5 cursor-pointer"
               >
                 Clear All
               </button>
               <button
                 onClick={() => setShowCompareModal(true)}
-                className="bg-accent hover:bg-yellow-400 text-foreground font-black px-6 py-3 text-xs uppercase tracking-wider border-2 border-foreground shadow-[3px_3px_0px_0px_rgba(255,255,255,1)] flex items-center gap-2 cursor-pointer transition-all"
+                className="bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-black px-6 py-2.5 text-xs uppercase tracking-wider rounded-xl shadow-md shadow-amber-500/20 flex items-center gap-2 cursor-pointer transition-all"
               >
                 <Scale className="w-4 h-4" />
                 Compare Now ({compareList.length}) →
