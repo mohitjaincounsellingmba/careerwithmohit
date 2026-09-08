@@ -115,7 +115,7 @@ export function Header() {
   ];
 
   const isAdmissionActive = [
-    '/admissions', 
+    '/admissions',
     '/mba-pgdm-admission-2027', 
     '/top-tier-mba-colleges', 
     '/scholarships-2026', 
