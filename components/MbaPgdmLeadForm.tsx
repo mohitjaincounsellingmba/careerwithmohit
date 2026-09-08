@@ -72,32 +72,32 @@ export default function MbaPgdmLeadForm() {
   };
 
   return (
-    <div className="bg-white border-[6px] border-[#0f172a] rounded-[2rem] p-6 md:p-10 shadow-[12px_12px_0px_0px_rgba(15,23,42,1)] max-w-4xl mx-auto my-12 relative overflow-hidden">
+    <div className="bg-white rounded-3xl border border-slate-200/90 shadow-xl shadow-slate-900/5 p-6 md:p-10 max-w-4xl mx-auto my-8 relative overflow-hidden">
       {/* Background accents */}
-      <div className="absolute top-0 right-0 w-32 h-32 bg-indigo-500/5 rounded-full -mr-10 -mt-10 blur-2xl" />
-      <div className="absolute bottom-0 left-0 w-24 h-24 bg-violet-500/5 rounded-full -ml-8 -mb-8 blur-2xl" />
+      <div className="absolute top-0 right-0 w-48 h-48 bg-blue-500/5 rounded-full -mr-16 -mt-16 blur-3xl pointer-events-none" />
+      <div className="absolute bottom-0 left-0 w-36 h-36 bg-indigo-500/5 rounded-full -ml-12 -mb-12 blur-3xl pointer-events-none" />
 
       {status === 'success' ? (
         <div className="text-center py-10 px-4">
-          <div className="w-20 h-20 bg-green-50 border-4 border-green-500 rounded-full flex items-center justify-center mx-auto mb-6 animate-bounce">
-            <CheckCircle2 size={40} className="text-green-600" />
+          <div className="w-16 h-16 bg-emerald-50 border border-emerald-200 rounded-2xl flex items-center justify-center mx-auto mb-5 shadow-xs">
+            <CheckCircle2 size={36} className="text-emerald-600" />
           </div>
-          <h3 className="display-font text-3xl font-black text-[#0f172a] mb-3 uppercase tracking-tight">
+          <h3 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mb-2 tracking-tight">
             Admission Request Received!
           </h3>
-          <p className="text-gray-600 font-medium text-base max-w-lg mx-auto mb-8">
-            We are compiling the PGDM 2027 fee structures, GD-PI shortlists, and placement reports for top Delhi/NCR institutes matching your profile.
+          <p className="text-slate-600 font-normal text-sm sm:text-base max-w-lg mx-auto mb-8">
+            We are compiling the PGDM 2027 fee structures, GD-PI shortlists, and placement reports for top institutes matching your profile.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <button
               onClick={() => setStatus('idle')}
-              className="bg-[#0f172a] text-white font-bold px-8 py-3.5 rounded-xl hover:bg-slate-800 transition-colors text-sm"
+              className="bg-slate-100 text-slate-800 hover:bg-slate-200 font-bold px-6 py-3 rounded-xl transition-colors text-sm"
             >
               Submit Another Request
             </button>
             <a
               href="tel:+919560020771"
-              className="bg-indigo-600 text-white font-bold px-8 py-3.5 rounded-xl hover:bg-indigo-700 transition-colors text-sm flex items-center justify-center gap-2"
+              className="bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold px-6 py-3 rounded-xl transition-all text-sm flex items-center justify-center gap-2 shadow-md shadow-blue-500/20"
             >
               <PhoneCall size={16} />
               Call Expert Counsellor Now
@@ -107,14 +107,14 @@ export default function MbaPgdmLeadForm() {
       ) : (
         <>
           <div className="text-center max-w-2xl mx-auto mb-8">
-            <span className="inline-block bg-indigo-100 border border-indigo-200 text-indigo-800 text-[11px] font-black uppercase tracking-widest px-4 py-1.5 rounded-full mb-3">
+            <span className="inline-flex items-center gap-1.5 bg-blue-50 border border-blue-200/80 text-blue-700 text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full mb-3 shadow-xs">
               ⚡ Free 1-on-1 Profile &amp; Admission Evaluation 2027
             </span>
-            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] tracking-tight">
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight">
               Get Fee Brochures &amp; GD-PI Call Predictor
             </h2>
-            <p className="text-gray-500 text-sm font-medium mt-2">
-              Compare AICTE &amp; AIU approved PGDM B-Schools in Delhi NCR. Receive cutoff alerts, fee discounts, and direct seat booking guidance.
+            <p className="text-slate-500 text-sm font-normal mt-2 leading-relaxed">
+              Compare AICTE &amp; AIU approved PGDM B-Schools. Receive cutoff alerts, fee discounts, and direct seat booking guidance.
             </p>
           </div>
 
@@ -122,7 +122,7 @@ export default function MbaPgdmLeadForm() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
               {/* Full Name */}
               <div>
-                <label className="block text-xs font-black text-[#0f172a] uppercase tracking-wider mb-2">
+                <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
                   Full Name *
                 </label>
                 <input
@@ -131,13 +131,13 @@ export default function MbaPgdmLeadForm() {
                   placeholder="e.g. Mohit Sharma"
                   value={formData.name}
                   onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                  className="w-full bg-slate-50 border-2 border-slate-200 rounded-xl px-4 py-3 text-sm font-bold text-[#0f172a] placeholder-gray-400 focus:outline-none focus:border-indigo-600 focus:bg-white transition-all"
+                  className="w-full bg-slate-50/80 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 focus:bg-white transition-all"
                 />
               </div>
 
               {/* Phone / WhatsApp */}
               <div>
-                <label className="block text-xs font-black text-[#0f172a] uppercase tracking-wider mb-2">
+                <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
                   WhatsApp Number *
                 </label>
                 <input
@@ -146,13 +146,13 @@ export default function MbaPgdmLeadForm() {
                   placeholder="e.g. 9876543210"
                   value={formData.number}
                   onChange={(e) => setFormData({ ...formData, number: e.target.value })}
-                  className="w-full bg-slate-50 border-2 border-slate-200 rounded-xl px-4 py-3 text-sm font-bold text-[#0f172a] placeholder-gray-400 focus:outline-none focus:border-indigo-600 focus:bg-white transition-all"
+                  className="w-full bg-slate-50/80 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 focus:bg-white transition-all"
                 />
               </div>
 
               {/* Email Address */}
               <div>
-                <label className="block text-xs font-black text-[#0f172a] uppercase tracking-wider mb-2">
+                <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
                   Email Address *
                 </label>
                 <input
@@ -161,13 +161,13 @@ export default function MbaPgdmLeadForm() {
                   placeholder="e.g. mohit@example.com"
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                  className="w-full bg-slate-50 border-2 border-slate-200 rounded-xl px-4 py-3 text-sm font-bold text-[#0f172a] placeholder-gray-400 focus:outline-none focus:border-indigo-600 focus:bg-white transition-all"
+                  className="w-full bg-slate-50/80 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 focus:bg-white transition-all"
                 />
               </div>
 
               {/* Current City / State */}
               <div>
-                <label className="block text-xs font-black text-[#0f172a] uppercase tracking-wider mb-2">
+                <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
                   City / State *
                 </label>
                 <input
@@ -176,7 +176,7 @@ export default function MbaPgdmLeadForm() {
                   placeholder="e.g. Delhi NCR, Jaipur, Patna"
                   value={formData.location}
                   onChange={(e) => setFormData({ ...formData, location: e.target.value })}
-                  className="w-full bg-slate-50 border-2 border-slate-200 rounded-xl px-4 py-3 text-sm font-bold text-[#0f172a] placeholder-gray-400 focus:outline-none focus:border-indigo-600 focus:bg-white transition-all"
+                  className="w-full bg-slate-50/80 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 focus:bg-white transition-all"
                 />
               </div>
             </div>
@@ -184,13 +184,13 @@ export default function MbaPgdmLeadForm() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
               {/* Program Specialization */}
               <div>
-                <label className="block text-xs font-black text-[#0f172a] uppercase tracking-wider mb-2">
+                <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
                   PGDM Specialization
                 </label>
                 <select
                   value={formData.specialization}
                   onChange={(e) => setFormData({ ...formData, specialization: e.target.value })}
-                  className="w-full bg-slate-50 border-2 border-slate-200 rounded-xl px-4 py-3 text-sm font-bold text-[#0f172a] focus:outline-none focus:border-indigo-600 focus:bg-white transition-all appearance-none cursor-pointer"
+                  className="w-full bg-slate-50/80 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 focus:outline-none focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 focus:bg-white transition-all cursor-pointer"
                 >
                   {specializations.map((spec) => (
                     <option key={spec} value={spec}>
@@ -202,13 +202,13 @@ export default function MbaPgdmLeadForm() {
 
               {/* Preferred Fee Budget */}
               <div>
-                <label className="block text-xs font-black text-[#0f172a] uppercase tracking-wider mb-2">
+                <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
                   Budget (2 Years)
                 </label>
                 <select
                   value={formData.budget}
                   onChange={(e) => setFormData({ ...formData, budget: e.target.value })}
-                  className="w-full bg-slate-50 border-2 border-slate-200 rounded-xl px-4 py-3 text-sm font-bold text-[#0f172a] focus:outline-none focus:border-indigo-600 focus:bg-white transition-all appearance-none cursor-pointer"
+                  className="w-full bg-slate-50/80 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 focus:outline-none focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 focus:bg-white transition-all cursor-pointer"
                 >
                   {budgets.map((b) => (
                     <option key={b} value={b}>
@@ -220,13 +220,13 @@ export default function MbaPgdmLeadForm() {
 
               {/* Target College */}
               <div>
-                <label className="block text-xs font-black text-[#0f172a] uppercase tracking-wider mb-2">
+                <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
                   Target B-School
                 </label>
                 <select
                   value={formData.college}
                   onChange={(e) => setFormData({ ...formData, college: e.target.value })}
-                  className="w-full bg-slate-50 border-2 border-slate-200 rounded-xl px-4 py-3 text-sm font-bold text-[#0f172a] focus:outline-none focus:border-indigo-600 focus:bg-white transition-all appearance-none cursor-pointer"
+                  className="w-full bg-slate-50/80 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 focus:outline-none focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 focus:bg-white transition-all cursor-pointer"
                 >
                   <option value="Not Sure / Help Me Choose">Not Sure / Help Me Choose</option>
                   {MBA_PGDM_COLLEGES_2027.map((c) => (
@@ -239,7 +239,7 @@ export default function MbaPgdmLeadForm() {
             </div>
 
             {status === 'error' && (
-              <div className="flex items-center gap-2 bg-red-50 border border-red-200 text-red-700 p-4 rounded-xl text-sm font-bold">
+              <div className="flex items-center gap-2 bg-rose-50 border border-rose-200 text-rose-700 p-4 rounded-xl text-sm font-semibold">
                 <AlertCircle size={18} className="shrink-0" />
                 <span>An error occurred while submitting your request. Please try again or call us directly.</span>
               </div>
@@ -248,7 +248,7 @@ export default function MbaPgdmLeadForm() {
             <button
               type="submit"
               disabled={status === 'submitting'}
-              className="w-full bg-gradient-to-r from-indigo-600 via-violet-600 to-indigo-600 text-white font-black text-base py-4 rounded-xl shadow-lg hover:opacity-95 transition-all flex items-center justify-center gap-2 uppercase tracking-wider border-2 border-indigo-700"
+              className="w-full bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-500 hover:to-indigo-600 text-white font-extrabold text-sm sm:text-base py-4 rounded-xl shadow-lg shadow-blue-500/20 hover:shadow-blue-500/30 transition-all flex items-center justify-center gap-2 uppercase tracking-wider"
             >
               {status === 'submitting' ? (
                 <span>Sending Request...</span>
@@ -260,7 +260,7 @@ export default function MbaPgdmLeadForm() {
               )}
             </button>
 
-            <p className="text-center text-xs text-gray-400 font-medium">
+            <p className="text-center text-xs text-slate-400 font-normal">
               🔒 100% Privacy Guaranteed. Free counseling from verified PGDM admission advisors.
             </p>
           </form>

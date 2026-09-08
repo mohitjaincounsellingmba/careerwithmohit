@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { BadgeCheck, Phone, ChevronDown, CheckCircle2, MapPin, ArrowRight, Building, Sparkles, Compass } from 'lucide-react';
+import { BadgeCheck, Phone, PhoneCall, MessageCircle, ChevronDown, CheckCircle2, MapPin, ArrowRight, Building, Sparkles, Compass } from 'lucide-react';
 import MbaPgdmClient from '@/components/MbaPgdmClient';
 import MbaPgdmLeadForm from '@/components/MbaPgdmLeadForm';
 import CatExamPapersDashboard from '@/components/CatExamPapersDashboard';
@@ -214,387 +214,387 @@ const FAQ_ITEMS = [
 
 export default function MbaPgdmAdmission2027Page() {
   return (
-    <div className="bg-[#f8f7f4] min-h-screen">
-      <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600;700;800&display=swap');
-        .page-font { font-family: 'DM Sans', sans-serif; }
-        .display-font { font-family: 'Playfair Display', serif; }
-        .hero-bg {
-          background: linear-gradient(135deg, #090d16 0%, #111827 50%, #090d16 100%);
-          position: relative;
-          overflow: hidden;
-        }
-        .hero-bg::before {
-          content: '';
-          position: absolute;
-          inset: 0;
-          background: radial-gradient(circle 800px at 50% -200px, rgba(79, 70, 229, 0.25) 0%, transparent 80%);
-        }
-        .hero-grid {
-          background-image: linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
-                            linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
-          background-size: 40px 40px;
-          position: absolute;
-          inset: 0;
-        }
-        .glow-orb {
-          position: absolute;
-          width: 300px;
-          height: 300px;
-          background: radial-gradient(circle, rgba(124, 58, 237, 0.18) 0%, transparent 70%);
-          filter: blur(40px);
-          border-radius: 50%;
-        }
-        .stat-card {
-          background: rgba(30, 41, 59, 0.4);
-          border: 1px solid rgba(255, 255, 255, 0.08);
-          backdrop-filter: blur(12px);
-          border-radius: 20px;
-          transition: transform 0.3s ease, border-color 0.3s ease;
-        }
-        .stat-card:hover {
-          transform: translateY(-2px);
-          border-color: rgba(99, 102, 241, 0.3);
-        }
-        .cta-strip {
-          background: linear-gradient(90deg, #4f46e5 0%, #7c3aed 50%, #4f46e5 100%);
-          background-size: 200% auto;
-          animation: shine 4s linear infinite;
-        }
-        @keyframes shine {
-          0% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
-        }
-        .premium-card {
-          background: #ffffff;
-          border: 1px solid rgba(15, 23, 42, 0.06);
-          border-radius: 24px;
-          transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s ease;
-        }
-        .premium-card:hover {
-          transform: translateY(-6px);
-          box-shadow: 0 22px 40px -10px rgba(15, 23, 42, 0.08);
-        }
-      `}</style>
+    <div className="bg-slate-50 min-h-screen text-slate-900">
+      {/* ── HERO ── */}
+      <section className="bg-gradient-to-b from-[#0A192F] via-[#0D233E] to-[#123058] text-white py-20 sm:py-28 md:py-32 relative overflow-hidden">
+        {/* Ambient Glows */}
+        <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[350px] bg-blue-500/15 blur-[120px] rounded-full pointer-events-none" />
+        <div className="absolute -top-24 -right-24 w-96 h-96 bg-amber-500/10 blur-[100px] rounded-full pointer-events-none" />
 
-      <div className="page-font">
-        {/* ── HERO ── */}
-        <section className="hero-bg py-24 md:py-36 relative">
-          <div className="hero-grid" />
-          <div className="glow-orb -top-20 -left-20" />
-          <div className="glow-orb top-40 -right-20" />
+        <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 text-center">
+          <div className="inline-flex items-center gap-2 bg-white/10 border border-white/15 text-white/90 text-xs font-bold uppercase tracking-wider px-4 py-2 rounded-full mb-6 backdrop-blur-md shadow-xs">
+            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+            Admissions 2027–2029 Hub • AICTE &amp; AIU Approved B-Schools
+          </div>
 
-          <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
-            <span className="inline-flex items-center gap-2 bg-white/5 border border-white/10 text-white/90 text-xs font-bold uppercase tracking-widest px-5 py-2.5 rounded-full mb-8 backdrop-blur-md shadow-inner">
-              <BadgeCheck size={14} className="text-indigo-400" />
-              AICTE Approved B-Schools · Pan India 2027 Directory
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-white tracking-tight leading-[1.1] mb-6">
+            Compare MBA &amp; PGDM{' '}
+            <span className="bg-gradient-to-r from-amber-300 via-amber-200 to-amber-400 bg-clip-text text-transparent">
+              Admission 2027
             </span>
+          </h1>
 
-            <h1 className="display-font text-5xl md:text-8xl font-black text-white leading-none tracking-tight mb-8">
-              Compare MBA &amp; PGDM
-              <br />
-              <span className="bg-gradient-to-r from-indigo-400 via-violet-400 to-indigo-400 bg-clip-text text-transparent">
-                Admission 2027
-              </span>
-            </h1>
+          <p className="text-slate-300 text-base sm:text-lg md:text-xl max-w-3xl mx-auto leading-relaxed font-normal mb-10">
+            Compare top AICTE-approved PGDM &amp; MBA business schools side-by-side. Inspect authentic 2-year fee structures, campus locations, NBA/AIU accreditations, and get personalized admission guidance.
+          </p>
 
-            <p className="text-white/70 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed font-medium mb-12">
-              Compare top AICTE-approved PGDM &amp; MBA business schools side-by-side. Inspect detailed 2-year fee structures, campus locations, NBA/AIU accreditations, and get direct expert counselling.
-            </p>
-
-            {/* Hero Stats */}
-            <div className="mt-16 grid grid-cols-3 gap-6 max-w-2xl mx-auto">
-              {[
-                { num: `${MBA_PGDM_COLLEGES_2027.length}`, label: 'B-Schools Listed' },
-                { num: '₹2.90L', label: 'Starting Total Fee' },
-                { num: '100%', label: 'Approved B-Schools' },
-              ].map((s) => (
-                <div key={s.label} className="stat-card px-6 py-6 text-center">
-                  <p className="display-font text-2xl md:text-3xl font-black text-white">{s.num}</p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1.5">{s.label}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* ── CTA STRIP ── */}
-        <div className="cta-strip py-4.5 text-center text-white shadow-lg relative z-25">
-          <a
-            href="tel:+919560020771"
-            className="inline-flex items-center gap-2.5 font-bold text-sm hover:underline underline-offset-4 tracking-wider uppercase transition-all"
-          >
-            <Phone size={15} />
-            Connect with Mohit Jain directly for PGDM 2027 Counselling · Call +91 95600 20771
-          </a>
-        </div>
-
-        {/* ── LEAD CAPTURE FORM ── */}
-        <section className="px-6 py-10 bg-[#f8f7f4] relative z-10 -mt-6">
-          <MbaPgdmLeadForm />
-        </section>
-
-        {/* ── WHY PURSUE PGDM IN DELHI NCR ── */}
-        <section className="bg-white py-20 md:py-28 border-t border-gray-100">
-          <div className="max-w-5xl mx-auto px-6">
-            <span className="block text-center text-xs font-black text-indigo-600 uppercase tracking-widest mb-3">
-              Capital Advantage
-            </span>
-            <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4 text-center">
-              Why pursue PGDM &amp; MBA in 2027?
-            </h2>
-            <p className="text-gray-500 text-center mb-16 max-w-2xl mx-auto font-medium">
-              Top corporate hub campuses across Delhi NCR, Pune, Mumbai, and Bangalore offer PGDM &amp; MBA aspirants unmatched corporate access, industrial mentorship, and high-paying placement drives.
-            </p>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {[
-                { icon: '📜', title: 'AIU MBA Equivalence', desc: 'Top PGDM diplomas from NBA-accredited institutes are recognized by AIU as equivalent to an MBA degree, qualifying you for PhDs and PSU recruitment.' },
-                { icon: '🏙️', title: 'Corporate Hub Access', desc: 'Direct access to Corporate HQ offices in Cyber City Gurgaon, Noida Expressway, BKC Mumbai, Hinjawadi Pune, and Electronic City Bangalore for live projects and internships.' },
-                { icon: '🚀', title: 'Dual Specialization', desc: 'Combine major/minor streams such as FinTech + Marketing or Business Analytics + HR to double your campus placement prospects.' },
-                { icon: '💼', title: 'Top-Tier Recruiters', desc: 'Participate in placement drives visited by Deloitte, KPMG, EY, Amazon, ICICI Bank, Wipro, and Accenture on campus.' },
-                { icon: '🏆', title: 'Accreditation Standards', desc: 'Evaluate institutions holding international and national accreditations like NBA, NAAC, UGC, and AACSB for high academic quality.' },
-                { icon: '📊', title: 'High ROI & Installments', desc: 'Options starting at ₹2.90 Lakhs total fee with semester installment plans, educational bank loans, and merit scholarships.' },
-              ].map((item) => (
-                <div key={item.title} className="premium-card p-8 flex flex-col gap-4">
-                  <div className="text-4xl">{item.icon}</div>
-                  <h3 className="font-black text-[#0f172a] text-lg tracking-tight">{item.title}</h3>
-                  <p className="text-gray-500 text-sm leading-relaxed font-medium">{item.desc}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* ── GEO SEO: REGIONAL MBA & PGDM HUBS ── */}
-        <section className="bg-slate-900 py-16 md:py-24 border-t border-slate-800 text-slate-100">
-          <div className="max-w-7xl mx-auto px-6">
-            <div className="text-center mb-12">
-              <span className="inline-flex items-center gap-2 bg-amber-500/10 border border-amber-500/20 text-amber-400 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-3">
-                <MapPin size={14} className="text-amber-400" />
-                Regional Education Hubs · 2026-2027
-              </span>
-              <h2 className="display-font text-3xl md:text-5xl font-black text-white mb-4">
-                Explore MBA &amp; PGDM Admissions by Region
-              </h2>
-              <p className="text-slate-400 text-base max-w-2xl mx-auto font-medium">
-                Access location-wise college rankings, average CTC packages, tuition fees, and accepted entrance exams across India&apos;s leading business capitals.
-              </p>
-            </div>
-
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-              {Object.values(GEO_MBA_HUBS).map((hub) => (
-                <Link
-                  key={hub.hubKey}
-                  href={hub.route}
-                  className="group relative rounded-2xl bg-slate-950/80 border border-slate-800 hover:border-amber-500/50 p-6 flex flex-col justify-between transition-all hover:shadow-2xl hover:shadow-amber-500/5 hover:-translate-y-1"
-                >
-                  <div>
-                    <div className="flex items-start justify-between gap-2 mb-3">
-                      <span className="inline-flex items-center gap-1 text-[11px] font-bold text-amber-400 bg-amber-500/10 px-2.5 py-1 rounded-md border border-amber-500/20">
-                        {hub.stats.totalColleges}
-                      </span>
-                      <span className="text-[11px] text-slate-400 font-semibold">{hub.stateName.split('/')[0]}</span>
-                    </div>
-
-                    <h3 className="text-xl font-bold text-white group-hover:text-amber-400 transition-colors">
-                      {hub.cityName}
-                    </h3>
-                    <p className="text-xs text-slate-400 mt-1.5 line-clamp-2 leading-relaxed">
-                      {hub.tagline}
-                    </p>
-
-                    <div className="mt-4 pt-3 border-t border-slate-800/80 grid grid-cols-2 gap-2 text-xs">
-                      <div>
-                        <span className="text-slate-400 text-[10px]">Avg Package</span>
-                        <div className="font-bold text-emerald-400">{hub.stats.avgPlacement.split(' - ')[0]}</div>
-                      </div>
-                      <div>
-                        <span className="text-slate-400 text-[10px]">Fee Range</span>
-                        <div className="font-bold text-slate-300">{hub.stats.feeRange.split(' - ')[0]}</div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div className="mt-5 pt-3 border-t border-slate-800 flex items-center justify-between text-xs font-semibold text-amber-400 group-hover:text-amber-300">
-                    <span>View {hub.cityName} Colleges</span>
-                    <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
-                  </div>
-                </Link>
-              ))}
-            </div>
-
-            {/* Direct CTA to the new Dedicated Region Page */}
-            <div className="mt-12 text-center">
-              <Link
-                href="/mba-pgdm-admissions-by-region"
-                className="inline-flex items-center gap-3 bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 text-slate-950 font-black text-sm md:text-base px-8 py-4 rounded-2xl shadow-xl shadow-amber-500/10 hover:shadow-amber-500/20 transition-all transform hover:-translate-y-0.5"
-              >
-                <Compass size={18} className="text-slate-950" />
-                Explore Dedicated Regional Directory &amp; Comparison Guide (All 8 Hubs) →
-              </Link>
-            </div>
-          </div>
-        </section>
-
-        {/* ── INTERACTIVE CLIENT SECTION ── */}
-        <div className="border-t border-gray-100">
-          <MbaPgdmClient />
-        </div>
-
-        {/* ── CAT PREVIOUS YEAR PAPERS & MOCK TEST DASHBOARD (iQuanta Style) ── */}
-        <section className="bg-white py-20 md:py-28 border-t border-gray-100" id="cat-papers-dashboard">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6">
-            <div className="text-center mb-12">
-              <span className="inline-flex items-center gap-2 bg-orange-50 border border-orange-200 text-[#f26b23] text-xs font-bold uppercase tracking-widest px-4 py-2 rounded-full mb-3">
-                <BadgeCheck size={14} className="text-[#f26b23]" />
-                iQuanta-Inspired CAT Preparation Portal · 2000–2025
-              </span>
-              <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4">
-                CAT Exam Previous Year Papers &amp; Mock Test Dashboard
-              </h2>
-              <p className="text-gray-500 max-w-2xl mx-auto font-medium text-base">
-                Practice 25+ years of authentic CAT question papers with detailed textual &amp; video solutions, slot-wise CBT mock simulations, and topic-wise QA, VARC &amp; LRDI practice sets.
-              </p>
-            </div>
-            <CatExamPapersDashboard />
-          </div>
-        </section>
-
-        {/* ── STATIC COMPARISON TABLE ── */}
-        <section className="bg-white py-20 md:py-28 border-t border-gray-100">
-          <div className="max-w-6xl mx-auto px-6">
-            <span className="block text-center text-xs font-black text-indigo-600 uppercase tracking-widest mb-3">
-              Quick Matrix
-            </span>
-            <h2 className="display-font text-4xl md:text-5xl font-black text-[#0f172a] mb-4 text-center">
-              Pan India B-School Comparison Matrix
-            </h2>
-            <p className="text-gray-500 text-center mb-16 max-w-2xl mx-auto font-medium">
-              A comprehensive overview of 2-year total fees, campus locations, and government approval badges.
-            </p>
-
-            <div className="overflow-x-auto border-[5px] border-[#0f172a] rounded-[2rem] shadow-[12px_12px_0px_0px_rgba(15,23,42,1)] bg-white">
-              <table className="w-full text-left border-collapse min-w-[850px]">
-                <thead>
-                  <tr className="bg-[#0f172a] text-white font-bold text-xs uppercase tracking-widest border-b-[4px] border-[#0f172a]">
-                    <th className="px-6 py-5">B-School Name</th>
-                    <th className="px-6 py-5">Campus Location</th>
-                    <th className="px-6 py-5">Total 2-Yr Fee</th>
-                    <th className="px-6 py-5 text-center">Accreditation</th>
-                    <th className="px-6 py-5 text-center">Highlight Badge</th>
-                  </tr>
-                </thead>
-                <tbody className="divide-y-2 divide-gray-100 font-medium text-gray-700 text-sm">
-                  {MBA_PGDM_COLLEGES_2027.map((c, idx) => (
-                    <tr key={idx} className="hover:bg-slate-50/60 transition-colors">
-                      <td className="px-6 py-5 font-bold text-[#0f172a]">{c.name}</td>
-                      <td className="px-6 py-5 text-xs text-gray-600">{c.location}</td>
-                      <td className="px-6 py-5 font-black text-emerald-700">{c.fee}</td>
-                      <td className="px-6 py-5 text-center">
-                        <span className="bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full text-xs font-bold border border-indigo-100">
-                          {c.grade}
-                        </span>
-                      </td>
-                      <td className="px-6 py-5 text-center">
-                        <span className="bg-slate-100 text-slate-800 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-wider border border-slate-200">
-                          {c.badge}
-                        </span>
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </section>
-
-        {/* ── ADMISSION & ELIGIBILITY GUIDE SECTION ── */}
-        <section className="bg-[#f8f7f4] py-20 md:py-28 border-t border-b border-gray-200">
-          <div className="max-w-4xl mx-auto px-6">
-            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-8 text-center uppercase tracking-tight">
-              PGDM Admission Process &amp; Eligibility 2027
-            </h2>
-            <div className="prose prose-slate max-w-none text-gray-600 font-medium text-sm md:text-base space-y-6">
-              <p>
-                Pursuing a PGDM or MBA in 2027 requires passing entrance exams, profile screening, and clearing personal interviews. Below is the step-by-step admission roadmap for the 2027 batch:
-              </p>
-
-              <div className="bg-white border-l-[8px] border-indigo-600 p-6 rounded-r-2xl shadow-xs">
-                <h3 className="font-black text-[#0f172a] text-lg mb-2">1. Basic Academic Eligibility</h3>
-                <p className="text-sm leading-relaxed">
-                  Candidates must hold a Bachelor&apos;s Degree in any discipline from a UGC-recognized university with a minimum of <strong>50% aggregate marks</strong> (45% for reserved category students). Final year graduation students are also eligible to apply provisionally.
-                </p>
-              </div>
-
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-4">
-                <div className="bg-white p-8 rounded-3xl border border-gray-200/60 shadow-xs">
-                  <h4 className="font-black text-[#0f172a] text-base mb-2">Accepted Entrance Exams</h4>
-                  <p className="text-xs md:text-sm leading-relaxed text-gray-500">
-                    PGDM institutes accept scores from CAT, XAT, MAT, CMAT, ATMA, and GMAT exams. Higher percentiles qualify candidates for merit scholarships and fee waivers.
-                  </p>
-                </div>
-                <div className="bg-white p-8 rounded-3xl border border-gray-200/60 shadow-xs">
-                  <h4 className="font-black text-[#0f172a] text-base mb-2">GD-PI Selection Process</h4>
-                  <p className="text-xs md:text-sm leading-relaxed text-gray-500">
-                    Shortlisted candidates are called for Group Discussion (GD), Extempore / Written Ability Test (WAT), and Personal Interview (PI) rounds conducted on-campus or online.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* ── FAQ SECTION ── */}
-        <section className="bg-white py-20 md:py-28 border-t border-gray-100">
-          <div className="max-w-3xl mx-auto px-6">
-            <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center uppercase tracking-tight">
-              Frequently Asked Questions
-            </h2>
-            <p className="text-gray-500 text-center mb-16 font-medium">
-              Common questions about PGDM &amp; MBA admissions in India for 2027.
-            </p>
-            <div className="space-y-3">
-              {FAQ_ITEMS.map((item, i) => (
-                <details
-                  key={i}
-                  className="group bg-[#f8f7f4] rounded-2xl border border-gray-200 shadow-xs overflow-hidden"
-                >
-                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
-                    <span>{item.q}</span>
-                    <ChevronDown size={18} className="text-indigo-600 shrink-0 transition-transform group-open:rotate-180" />
-                  </summary>
-                  <div className="px-6 pb-5 text-gray-600 text-sm leading-relaxed border-t border-gray-200/60 pt-4 bg-white">
-                    {item.a}
-                  </div>
-                </details>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* ── BOTTOM CTA BANNER ── */}
-        <section className="bg-[#090d16] py-20 md:py-28 relative overflow-hidden">
-          <div className="absolute inset-0 bg-gradient-to-b from-indigo-500/10 to-transparent pointer-events-none" />
-          <div className="max-w-3xl mx-auto px-6 text-center relative z-10">
-            <h2 className="display-font text-3xl md:text-5xl font-black text-white mb-6 tracking-tight">
-              Need help shortlisting your PGDM B-School?
-            </h2>
-            <p className="text-white/60 mb-10 text-lg max-w-xl mx-auto leading-relaxed">
-              Book a free 1-on-1 career call with Mohit Jain. Get honest fee reviews, GD-PI call estimates, and direct admission guidance.
-            </p>
+          {/* Quick CTA Actions */}
+          <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-4 mb-14">
             <a
               href="https://wa.me/919560020771?text=Hi%2C%20I%20want%20counselling%20for%20MBA%2FPGDM%20Admission%202027"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block bg-gradient-to-r from-indigo-500 to-violet-600 text-white font-bold text-lg px-12 py-4.5 rounded-2xl hover:opacity-95 transition-all shadow-xl shadow-indigo-900/40 transform hover:-translate-y-0.5 border border-indigo-400/30"
+              className="bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-400 hover:to-emerald-500 text-white font-extrabold text-sm sm:text-base px-6 sm:px-8 py-3.5 rounded-xl shadow-lg shadow-emerald-500/20 hover:shadow-emerald-500/30 transition-all flex items-center gap-2"
             >
-              Get Free PGDM Counselling Now →
+              <PhoneCall size={18} />
+              <span>Get Free Counselling on WhatsApp</span>
+            </a>
+
+            <a
+              href="#colleges-directory"
+              className="bg-white/10 hover:bg-white/20 text-white font-bold text-sm sm:text-base px-6 sm:px-7 py-3.5 rounded-xl border border-white/20 backdrop-blur-sm transition-all"
+            >
+              Explore 55+ Colleges ↓
+            </a>
+
+            <Link
+              href="/mba-pgdm-admissions-by-region"
+              className="bg-white/5 hover:bg-white/15 text-amber-300 hover:text-amber-200 font-bold text-sm sm:text-base px-6 sm:px-7 py-3.5 rounded-xl border border-amber-400/30 backdrop-blur-sm transition-all flex items-center gap-2"
+            >
+              <Compass size={17} />
+              <span>Regional Hubs</span>
+            </Link>
+          </div>
+
+          {/* Hero Stats */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 max-w-4xl mx-auto">
+            {[
+              { num: `${MBA_PGDM_COLLEGES_2027.length}+`, label: 'B-Schools Listed', sub: 'Delhi, Pune, Blr, Mumbai' },
+              { num: '₹2.90L', label: 'Starting Total Fee', sub: 'Budget to Tier 1' },
+              { num: '100%', label: 'AICTE / UGC Approved', sub: 'Verified accreditations' },
+              { num: '₹35 LPA', label: 'Highest Placement', sub: 'Top mentored CTC' },
+            ].map((s) => (
+              <div key={s.label} className="bg-white/[0.06] backdrop-blur-md border border-white/10 rounded-2xl p-4 sm:p-5 text-center hover:border-white/20 transition-all">
+                <p className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">{s.num}</p>
+                <p className="text-white/90 text-xs font-bold uppercase tracking-wider mt-1">{s.label}</p>
+                <p className="text-slate-400 text-[11px] font-normal mt-0.5">{s.sub}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── CTA STRIP ── */}
+      <div className="bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-600 text-white py-3.5 px-4 text-center shadow-md relative z-20">
+        <a
+          href="tel:+919560020771"
+          className="inline-flex items-center justify-center gap-2 font-bold text-xs sm:text-sm hover:underline tracking-wide transition-all"
+        >
+          <Phone size={15} className="shrink-0" />
+          <span>Connect directly with Mohit Jain for PGDM 2027 Counseling • Call +91 95600 20771</span>
+        </a>
+      </div>
+
+      {/* ── LEAD CAPTURE FORM ── */}
+      <section className="px-4 sm:px-6 py-8 relative z-10">
+        <MbaPgdmLeadForm />
+      </section>
+
+      {/* ── WHY PURSUE PGDM IN 2027 ── */}
+      <section className="bg-white py-16 sm:py-24 border-t border-slate-100">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6">
+          <div className="text-center max-w-3xl mx-auto mb-14">
+            <span className="inline-flex items-center gap-1.5 bg-blue-50 border border-blue-200/80 text-blue-700 text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full mb-3 shadow-xs">
+              ⭐ Capital Advantage
+            </span>
+            <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight mb-4">
+              Why Pursue PGDM &amp; MBA in 2027?
+            </h2>
+            <p className="text-slate-500 text-sm sm:text-base font-normal leading-relaxed">
+              Top corporate hub campuses across Delhi NCR, Pune, Mumbai, and Bangalore offer PGDM &amp; MBA aspirants unmatched industry exposure, live internships, and high-paying placement drives.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
+            {[
+              { icon: '📜', title: 'AIU MBA Equivalence', desc: 'Top PGDM diplomas from NBA-accredited institutes are recognized by AIU as equivalent to an MBA degree, qualifying you for PhDs and PSU recruitment.' },
+              { icon: '🏙️', title: 'Corporate Hub Access', desc: 'Direct access to Corporate HQ offices in Cyber City Gurgaon, Noida Expressway, BKC Mumbai, Hinjawadi Pune, and Electronic City Bangalore for live projects.' },
+              { icon: '🚀', title: 'Dual Specialization', desc: 'Combine major/minor streams such as FinTech + Marketing or Business Analytics + HR to double your campus placement prospects.' },
+              { icon: '💼', title: 'Top-Tier Recruiters', desc: 'Participate in placement drives visited by Deloitte, KPMG, EY, Amazon, ICICI Bank, Wipro, and Accenture on campus.' },
+              { icon: '🏆', title: 'Accreditation Standards', desc: 'Evaluate institutions holding international and national accreditations like NBA, NAAC, UGC, and AACSB for high academic quality.' },
+              { icon: '📊', title: 'High ROI & Installments', desc: 'Options starting at ₹2.90 Lakhs total fee with semester installment plans, educational bank loans, and merit scholarships.' },
+            ].map((item) => (
+              <div key={item.title} className="group bg-slate-50/70 hover:bg-white rounded-2xl p-7 border border-slate-200/80 shadow-xs hover:border-blue-300 hover:shadow-xl hover:-translate-y-1 transition-all duration-300 flex flex-col">
+                <div className="w-12 h-12 rounded-xl bg-blue-50 border border-blue-100 flex items-center justify-center text-2xl mb-4 group-hover:scale-110 transition-transform">
+                  {item.icon}
+                </div>
+                <h3 className="font-extrabold text-slate-900 text-lg tracking-tight mb-2 group-hover:text-blue-600 transition-colors">
+                  {item.title}
+                </h3>
+                <p className="text-slate-500 text-sm leading-relaxed font-normal">
+                  {item.desc}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── GEO SEO: REGIONAL MBA & PGDM HUBS ── */}
+      <section className="bg-gradient-to-b from-[#0A192F] via-[#0D233E] to-[#0A192F] py-20 sm:py-28 border-t border-slate-800 text-slate-100">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6">
+          <div className="text-center max-w-3xl mx-auto mb-14">
+            <span className="inline-flex items-center gap-1.5 bg-amber-500/10 border border-amber-500/20 text-amber-400 text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full mb-3">
+              <MapPin size={14} className="text-amber-400" />
+              Regional Education Hubs • 2027–2029
+            </span>
+            <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-white tracking-tight mb-4">
+              Explore MBA &amp; PGDM Admissions by Region
+            </h2>
+            <p className="text-slate-300 text-sm sm:text-base font-normal leading-relaxed">
+              Access location-wise college rankings, average CTC packages, tuition fees, and accepted entrance exams across India&apos;s leading business capitals.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {Object.values(GEO_MBA_HUBS).map((hub) => (
+              <Link
+                key={hub.hubKey}
+                href={hub.route}
+                className="group relative rounded-2xl bg-white/[0.04] backdrop-blur-md border border-white/10 hover:border-amber-400/50 hover:bg-white/[0.08] p-6 flex flex-col justify-between transition-all hover:shadow-xl hover:shadow-amber-500/5 hover:-translate-y-1"
+              >
+                <div>
+                  <div className="flex items-start justify-between gap-2 mb-3">
+                    <span className="inline-flex items-center gap-1 text-[11px] font-bold text-amber-400 bg-amber-500/10 px-2.5 py-1 rounded-md border border-amber-500/20">
+                      {hub.stats.totalColleges}
+                    </span>
+                    <span className="text-[11px] text-slate-400 font-semibold">{hub.stateName.split('/')[0]}</span>
+                  </div>
+
+                  <h3 className="text-xl font-bold text-white group-hover:text-amber-400 transition-colors">
+                    {hub.cityName}
+                  </h3>
+                  <p className="text-xs text-slate-400 mt-1.5 line-clamp-2 leading-relaxed font-normal">
+                    {hub.tagline}
+                  </p>
+
+                  <div className="mt-4 pt-3 border-t border-white/10 grid grid-cols-2 gap-2 text-xs">
+                    <div>
+                      <span className="text-slate-400 text-[10px]">Avg Package</span>
+                      <div className="font-bold text-emerald-400">{hub.stats.avgPlacement.split(' - ')[0]}</div>
+                    </div>
+                    <div>
+                      <span className="text-slate-400 text-[10px]">Fee Range</span>
+                      <div className="font-bold text-slate-300">{hub.stats.feeRange.split(' - ')[0]}</div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="mt-5 pt-3 border-t border-white/10 flex items-center justify-between text-xs font-semibold text-amber-400 group-hover:text-amber-300">
+                  <span>View {hub.cityName} Colleges</span>
+                  <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
+                </div>
+              </Link>
+            ))}
+          </div>
+
+          {/* Direct CTA to the Dedicated Region Page */}
+          <div className="mt-12 text-center">
+            <Link
+              href="/mba-pgdm-admissions-by-region"
+              className="inline-flex items-center gap-2.5 bg-gradient-to-r from-amber-400 to-amber-500 hover:from-amber-300 hover:to-amber-400 text-slate-950 font-extrabold text-sm sm:text-base px-8 py-4 rounded-xl shadow-lg shadow-amber-500/10 hover:shadow-amber-500/20 transition-all transform hover:-translate-y-0.5"
+            >
+              <Compass size={18} className="text-slate-950" />
+              <span>Explore Dedicated Regional Directory &amp; Comparison Guide (All 8 Hubs) →</span>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* ── INTERACTIVE CLIENT SECTION ── */}
+      <div className="border-t border-slate-200/80">
+        <MbaPgdmClient />
+      </div>
+
+      {/* ── CAT PREVIOUS YEAR PAPERS & MOCK TEST DASHBOARD ── */}
+      <section className="bg-white py-16 sm:py-24 border-t border-slate-200/80" id="cat-papers-dashboard">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6">
+          <div className="text-center max-w-3xl mx-auto mb-12">
+            <span className="inline-flex items-center gap-1.5 bg-orange-50 border border-orange-200 text-[#f26b23] text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full mb-3">
+              <BadgeCheck size={14} className="text-[#f26b23]" />
+              CAT Preparation Portal • 2000–2025 Authentic Papers
+            </span>
+            <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight mb-4">
+              CAT Exam Previous Year Papers &amp; Mock Test Dashboard
+            </h2>
+            <p className="text-slate-500 text-sm sm:text-base font-normal leading-relaxed">
+              Practice 25+ years of authentic CAT question papers with detailed textual &amp; video solutions, slot-wise CBT mock simulations, and topic-wise QA, VARC &amp; LRDI practice sets.
+            </p>
+          </div>
+          <CatExamPapersDashboard />
+        </div>
+      </section>
+
+      {/* ── STATIC COMPARISON TABLE ── */}
+      <section className="bg-slate-50 py-16 sm:py-24 border-t border-slate-200/80">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6">
+          <div className="text-center max-w-3xl mx-auto mb-12">
+            <span className="inline-flex items-center gap-1.5 bg-blue-50 border border-blue-200/80 text-blue-700 text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full mb-3 shadow-xs">
+              📊 Fee &amp; Cutoff Matrix
+            </span>
+            <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight mb-4">
+              Pan India B-School Comparison Matrix
+            </h2>
+            <p className="text-slate-500 text-sm sm:text-base font-normal leading-relaxed">
+              A comprehensive overview of 2-year total fees, campus locations, and government approval badges.
+            </p>
+          </div>
+
+          <div className="overflow-x-auto rounded-2xl border border-slate-200/90 shadow-xl shadow-slate-900/5 bg-white">
+            <table className="w-full text-left border-collapse min-w-[800px]">
+              <thead>
+                <tr className="bg-gradient-to-r from-[#0A192F] via-[#0D233E] to-[#123058] text-white font-bold text-xs uppercase tracking-wider">
+                  <th className="px-6 py-4.5">B-School Name</th>
+                  <th className="px-6 py-4.5">Campus Location</th>
+                  <th className="px-6 py-4.5">Total 2-Yr Fee</th>
+                  <th className="px-6 py-4.5 text-center">Accreditation</th>
+                  <th className="px-6 py-4.5 text-center">Highlight Badge</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-slate-100 text-sm text-slate-700 font-medium">
+                {MBA_PGDM_COLLEGES_2027.map((c, idx) => (
+                  <tr key={idx} className="hover:bg-blue-50/40 transition-colors">
+                    <td className="px-6 py-4 font-bold text-slate-900">{c.name}</td>
+                    <td className="px-6 py-4 text-xs text-slate-500">{c.location}</td>
+                    <td className="px-6 py-4 font-extrabold text-emerald-600">{c.fee}</td>
+                    <td className="px-6 py-4 text-center">
+                      <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-xs font-bold border border-blue-100 inline-block">
+                        {c.grade}
+                      </span>
+                    </td>
+                    <td className="px-6 py-4 text-center">
+                      <span className="bg-slate-100 text-slate-800 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider border border-slate-200 inline-block">
+                        {c.badge}
+                      </span>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      {/* ── ADMISSION & ELIGIBILITY GUIDE SECTION ── */}
+      <section className="bg-white py-16 sm:py-24 border-t border-slate-200/80">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <div className="text-center max-w-2xl mx-auto mb-10">
+            <span className="inline-flex items-center gap-1.5 bg-blue-50 border border-blue-200/80 text-blue-700 text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full mb-3 shadow-xs">
+              📋 Admission Roadmap
+            </span>
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight">
+              PGDM Admission Process &amp; Eligibility 2027
+            </h2>
+            <p className="text-slate-500 text-sm mt-2 font-normal">
+              Step-by-step admission roadmap for the 2027–2029 batch.
+            </p>
+          </div>
+
+          <div className="space-y-6">
+            <div className="bg-slate-50/70 border-l-4 border-blue-600 p-6 sm:p-7 rounded-2xl shadow-xs border border-slate-200/80">
+              <h3 className="font-extrabold text-slate-900 text-lg mb-2">1. Basic Academic Eligibility</h3>
+              <p className="text-sm text-slate-600 leading-relaxed font-normal">
+                Candidates must hold a Bachelor&apos;s Degree in any discipline from a UGC-recognized university with a minimum of <strong className="text-slate-900 font-bold">50% aggregate marks</strong> (45% for reserved category students). Final year graduation students are also eligible to apply provisionally.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+              <div className="bg-slate-50/70 p-6 sm:p-7 rounded-2xl border border-slate-200/80 shadow-xs">
+                <span className="text-xs font-bold text-blue-600 uppercase tracking-wider block mb-1">Step 2</span>
+                <h4 className="font-extrabold text-slate-900 text-base mb-2">Accepted Entrance Exams</h4>
+                <p className="text-xs sm:text-sm leading-relaxed text-slate-500 font-normal">
+                  PGDM institutes accept scores from CAT, XAT, MAT, CMAT, ATMA, and GMAT exams. Higher percentiles qualify candidates for merit scholarships and fee waivers.
+                </p>
+              </div>
+              <div className="bg-slate-50/70 p-6 sm:p-7 rounded-2xl border border-slate-200/80 shadow-xs">
+                <span className="text-xs font-bold text-blue-600 uppercase tracking-wider block mb-1">Step 3</span>
+                <h4 className="font-extrabold text-slate-900 text-base mb-2">GD-PI Selection Process</h4>
+                <p className="text-xs sm:text-sm leading-relaxed text-slate-500 font-normal">
+                  Shortlisted candidates are called for Group Discussion (GD), Extempore / Written Ability Test (WAT), and Personal Interview (PI) rounds conducted on-campus or online.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── FAQ SECTION ── */}
+      <section className="bg-slate-50 py-16 sm:py-24 border-t border-slate-200/80">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6">
+          <div className="text-center mb-12">
+            <span className="inline-flex items-center gap-1.5 bg-blue-50 border border-blue-200/80 text-blue-700 text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full mb-3 shadow-xs">
+              ❓ FAQs
+            </span>
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight mb-2">
+              Frequently Asked Questions
+            </h2>
+            <p className="text-slate-500 text-sm font-normal">
+              Common questions about PGDM &amp; MBA admissions in India for 2027.
+            </p>
+          </div>
+
+          <div className="space-y-3">
+            {FAQ_ITEMS.map((item, i) => (
+              <details
+                key={i}
+                className="group bg-white rounded-2xl border border-slate-200/80 shadow-xs hover:border-blue-300 transition-all overflow-hidden"
+              >
+                <summary className="flex items-center justify-between gap-4 px-6 py-4.5 cursor-pointer list-none font-bold text-slate-900 text-sm sm:text-base">
+                  <span>{item.q}</span>
+                  <ChevronDown size={18} className="text-blue-600 shrink-0 transition-transform group-open:rotate-180" />
+                </summary>
+                <div className="px-6 pb-5 text-slate-600 text-sm leading-relaxed border-t border-slate-100 pt-4 font-normal">
+                  {item.a}
+                </div>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── BOTTOM CTA BANNER ── */}
+      <section className="bg-gradient-to-b from-[#0A192F] via-[#0D233E] to-[#040A14] py-20 sm:py-28 relative overflow-hidden border-t border-slate-800">
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[300px] bg-blue-500/10 blur-[100px] rounded-full pointer-events-none" />
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center relative z-10">
+          <span className="inline-flex items-center gap-1.5 bg-white/10 border border-white/15 text-amber-300 text-xs font-bold uppercase tracking-wider px-3.5 py-1.5 rounded-full mb-4">
+            🚀 1-on-1 Profile Assessment
+          </span>
+          <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-white mb-4 tracking-tight">
+            Need Help Shortlisting Your PGDM B-School?
+          </h2>
+          <p className="text-slate-300 mb-8 text-base sm:text-lg max-w-xl mx-auto leading-relaxed font-normal">
+            Book a free 1-on-1 career call with Mohit Jain. Get honest fee reviews, GD-PI call estimates, and direct admission guidance.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-3.5 justify-center">
+            <a
+              href="https://wa.me/919560020771?text=Hi%2C%20I%20want%20counselling%20for%20MBA%2FPGDM%20Admission%202027"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-400 hover:to-emerald-500 text-white font-extrabold text-sm sm:text-base px-8 py-4 rounded-xl shadow-lg shadow-emerald-500/20 hover:shadow-emerald-500/30 transition-all flex items-center justify-center gap-2"
+            >
+              <MessageCircle size={18} />
+              <span>Chat on WhatsApp →</span>
+            </a>
+            <a
+              href="tel:+919560020771"
+              className="bg-white/10 hover:bg-white/20 text-white font-bold text-sm sm:text-base px-8 py-4 rounded-xl border border-white/20 backdrop-blur-sm transition-all flex items-center justify-center gap-2"
+            >
+              <PhoneCall size={18} />
+              <span>Call +91 95600 20771</span>
             </a>
           </div>
-        </section>
-      </div>
+        </div>
+      </section>
 
       {/* ── JSON-LD Structured Data ── */}
       <script
