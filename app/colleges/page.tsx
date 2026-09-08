@@ -137,43 +137,46 @@ export default function CollegesPage() {
       <Suspense fallback={<div className="text-center py-8">Loading colleges…</div>}>
         <CollegesClient colleges={colleges} trendingBlogs={trendingBlogs} />
       </Suspense>
-      {/* SEO Content Section — Ultra Premium & Semantic */}
-      <section className="bg-white px-6 py-32 sm:px-12 border-t-8 border-foreground overflow-hidden relative">
-        {/* Abstract Deco */}
-        <div className="absolute top-0 right-0 w-96 h-96 bg-slate-50 rounded-full -mr-32 -mt-32 border-4 border-slate-100" />
-        
+      {/* SEO & Regional Selection Guide Section — Modern EdTech Aesthetic */}
+      <section className="bg-white px-4 sm:px-6 lg:px-8 py-20 border-t border-slate-200/80 overflow-hidden relative">
         <div className="mx-auto max-w-7xl relative z-10">
-          <div className="grid lg:grid-cols-12 gap-16">
+          <div className="grid lg:grid-cols-12 gap-12 items-start">
             
             {/* Main Content Column */}
-            <div className="lg:col-span-8">
-              <div className="mb-14">
-                <span className="bg-primary text-white px-5 py-2 text-sm font-black uppercase tracking-widest -rotate-1 inline-block border-4 border-foreground mb-6">
-                  2027 Expert Intel
-                </span>
-                <h2 className="font-display text-4xl sm:text-6xl font-black uppercase tracking-tighter text-foreground leading-[0.95] mb-10">
-                  India&apos;s Most Reliable <br />
-                  <span className="text-primary italic">College Directory 2027</span>
+            <div className="lg:col-span-8 space-y-12">
+              <div>
+                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider mb-4">
+                  2027 Comprehensive Guide
+                </div>
+                <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight mb-4">
+                  India&apos;s Most Reliable{' '}
+                  <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+                    College Directory 2027
+                  </span>
                 </h2>
-                <div className="w-40 h-4 bg-accent mb-12 -ml-2" />
+                <div className="w-20 h-1.5 bg-blue-600 rounded-full mb-6" />
                 
-                <div className="space-y-8 text-xl text-slate-700 leading-relaxed font-bold italic">
+                <div className="space-y-4 text-sm sm:text-base text-slate-600 leading-relaxed">
                   <p>
-                    Navigating the 2027 academic landscape requires more than just a list of names. It requires **Uncompromised Data**. At CareerWithMohit, we provide a curated directory of **200+ top colleges in India** spanning across MBA, PGDM, B.Tech, BBA, and BCA disciplines. 
+                    Navigating the 2027 academic admissions landscape requires more than just a list of names. It requires <strong>Uncompromised, Audited Data</strong>. At CareerWithMohit, we provide a curated directory of <strong>600+ top colleges in India</strong> spanning MBA, PGDM, B.Tech, BBA, and BCA disciplines.
                   </p>
                   <p>
-                    Whether you are targeting the core placements of **IIT Delhi and IIM Ahmedabad**, or seeking high-ROI private universities in **Delhi NCR, Bangalore, or Pune**, our platform delivers verified insights on fee structures, 2025 placement audits, and NIRF rankings.
+                    Whether you are targeting premier campuses like <strong>IIT Delhi and IIM Ahmedabad</strong>, or seeking high-ROI private universities in <strong>Delhi NCR, Bangalore, or Pune</strong>, our platform delivers verified insights on tuition fee structures, 2025–2026 placement audits, cutoffs, and NIRF rankings.
                   </p>
                 </div>
               </div>
 
               {/* City Selection Guide */}
-              <div className="bg-slate-50 border-8 border-foreground p-10 sm:p-14 mb-16 shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] hover:shadow-none transition-all">
-                <h3 className="text-3xl font-black uppercase mb-10 text-foreground flex items-center gap-4">
-                  <span className="block w-4 h-12 bg-primary" />
-                  City-Specific Selection Guide
-                </h3>
-                <div className="grid sm:grid-cols-2 gap-8">
+              <div className="bg-slate-50/70 border border-slate-200/90 rounded-3xl p-6 sm:p-8">
+                <div className="mb-6">
+                  <h3 className="text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight">
+                    City-Specific College Selection Guide
+                  </h3>
+                  <p className="text-xs sm:text-sm text-slate-500 mt-1">
+                    Explore top B-schools and universities tailored by India&apos;s primary education hubs
+                  </p>
+                </div>
+                <div className="grid sm:grid-cols-2 gap-4">
                   {[
                     { city: "Delhi NCR", link: "/colleges/mba-colleges-delhi-ncr", sub: "NDIM, BIMTECH, FIIB, JIMS" },
                     { city: "Mumbai", link: "/colleges/mba-colleges-mumbai", sub: "JBIMS, NMIMS, Welingkar, ITM" },
@@ -184,44 +187,58 @@ export default function CollegesPage() {
                     { city: "Ahmedabad", link: "/colleges/mba-colleges-ahmedabad", sub: "Nirma, EDII, Shanti BS, SKIPS" },
                     { city: "Jaipur", link: "/colleges/mba-colleges-jaipur", sub: "Jaipuria, Taxila, IIHMR, JKLU" }
                   ].map((item, i) => (
-                    <Link key={i} href={item.link} className="flex items-center group">
-                      <div className="w-12 h-12 flex items-center justify-center border-4 border-foreground font-black group-hover:bg-primary group-hover:text-white transition-colors shrink-0">
+                    <Link
+                      key={i}
+                      href={item.link}
+                      className="group bg-white rounded-2xl p-4 border border-slate-200/80 shadow-xs hover:shadow-md hover:border-blue-300 transition-all flex items-center gap-3.5"
+                    >
+                      <div className="w-10 h-10 rounded-xl bg-blue-50 border border-blue-100 font-extrabold text-blue-600 text-sm flex items-center justify-center shrink-0 group-hover:bg-blue-600 group-hover:text-white transition-colors">
                         {i + 1}
                       </div>
-                      <div className="ml-4">
-                        <span className="text-lg font-black uppercase border-b-4 border-transparent group-hover:border-primary transition-all block">
-                          MBA in {item.city} &rarr;
+                      <div className="overflow-hidden">
+                        <span className="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors block truncate">
+                          Colleges in {item.city} &rarr;
                         </span>
-                        <span className="text-xs text-slate-500 font-bold block">{item.sub}</span>
+                        <span className="text-xs text-slate-500 truncate block">{item.sub}</span>
                       </div>
                     </Link>
                   ))}
                 </div>
               </div>
 
-              {/* FAQ Accordion — Taxila Style */}
+              {/* FAQ Accordion */}
               <div className="space-y-4">
-                <h3 className="text-3xl font-black uppercase mb-10 text-foreground">Admission FAQ Search</h3>
+                <div className="mb-4">
+                  <h3 className="text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight">
+                    Frequently Asked Questions
+                  </h3>
+                  <p className="text-xs sm:text-sm text-slate-500 mt-1">
+                    Key insights regarding admissions, entrance tests, and fee structures
+                  </p>
+                </div>
                 {[
                   {
                     q: "Which are the best MBA colleges in India for 2027 admission?",
-                    a: "The top MBA colleges include IIMs (Ahmedabad, Bangalore, Calcutta), FMS Delhi, XLRI, SPJIMR, and MDI Gurgaon. Based on 2025 audits, these institutes reported average packages ranging from ₹18 LPA to ₹35+ LPA."
+                    a: "The top MBA colleges include IIMs (Ahmedabad, Bangalore, Calcutta), FMS Delhi, XLRI, SPJIMR, and MDI Gurgaon. Based on placement audits, these institutes reported average packages ranging from ₹18 LPA to ₹35+ LPA. For top private options with verified ROI, explore BIMTECH, FORE, and TAPMI."
                   },
                   {
                     q: "How can I compare B.Tech college fees and placement packages?",
-                    a: "Focus on NIRF Engineering rankings and 2025 placement data. Gov colleges (IITs/NITs) offer fees around ₹2-8 Lakhs, while top private institutes (VIT, SRM, BML Munjal) range from ₹10-20 Lakhs with strong industry ties."
+                    a: "Focus on NIRF Engineering rankings and verified placement reports. Government colleges (IITs/NITs) offer superior ROI with fees around ₹2-8 Lakhs, while top private institutes (VIT, SRM, BML Munjal) range from ₹10-20 Lakhs with specialized industry tracks."
                   },
                   {
                     q: "Can I get direct MBA admission without CAT/XAT score?",
-                    a: "Yes, many AICTE-approved PGDM institutes and private universities offer direct MBA admission based on graduation marks or scores from MAT, CMAT, and ATMA. This is ideal for those seeking high ROI without competitive scores."
+                    a: "Yes, many AICTE-approved PGDM institutes and private universities offer direct MBA admission based on graduation marks or scores from MAT, CMAT, and ATMA. This is ideal for applicants seeking strong ROI without competitive national cutoffs."
                   }
                 ].map((item, index) => (
-                  <details key={index} className="group border-4 border-foreground bg-white overflow-hidden shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] mb-6">
-                    <summary className="flex items-center justify-between px-8 py-6 cursor-pointer hover:bg-slate-50 transition-colors">
-                      <span className="text-lg font-black uppercase italic tracking-tight">{item.q}</span>
-                      <ChevronDown className="w-6 h-6 text-foreground group-open:rotate-180 transition-transform duration-300 stroke-[3px]" />
+                  <details
+                    key={index}
+                    className="group border border-slate-200/90 rounded-2xl bg-white overflow-hidden hover:border-blue-300 transition-colors"
+                  >
+                    <summary className="flex items-center justify-between p-4 sm:p-5 cursor-pointer select-none">
+                      <span className="text-xs sm:text-sm font-bold text-slate-900">{item.q}</span>
+                      <ChevronDown className="w-4 h-4 text-slate-400 group-open:rotate-180 transition-transform shrink-0 ml-2" />
                     </summary>
-                    <div className="px-10 py-8 text-lg font-bold text-slate-600 bg-slate-50 border-t-4 border-foreground leading-relaxed italic">
+                    <div className="px-4 pb-4 sm:px-5 sm:pb-5 text-xs sm:text-sm text-slate-600 bg-slate-50/50 border-t border-slate-100 leading-relaxed">
                       {item.a}
                     </div>
                   </details>
@@ -230,28 +247,38 @@ export default function CollegesPage() {
             </div>
 
             {/* Sticky Counselor Column */}
-            <div className="lg:col-span-4 lg:sticky lg:top-32 h-fit">
-              <div className="border-[8px] border-foreground bg-accent p-10 shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
-                <h4 className="text-3xl font-black uppercase leading-none mb-4 italic">Admission <br />Strategy</h4>
-                <div className="h-2 w-20 bg-primary mb-8" />
-                <p className="text-lg font-bold text-foreground/80 leading-snug mb-10 italic">
-                  Don&apos;t settle for a mediocre college. Get a personalized roadmap to India&apos;s top-tier campuses.
+            <div className="lg:col-span-4 lg:sticky lg:top-24 h-fit">
+              <div className="rounded-3xl bg-gradient-to-br from-slate-900 via-slate-900 to-[#123058] text-white p-6 sm:p-8 border border-slate-800 shadow-xl space-y-6">
+                <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/15 border border-blue-400/25 text-blue-300 text-xs font-bold uppercase tracking-wider">
+                  Direct Guidance
+                </div>
+                <h4 className="text-xl sm:text-2xl font-extrabold text-white leading-tight">
+                  Personalized College Admission Roadmap
+                </h4>
+                <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
+                  Don&apos;t settle for a mediocre campus. Get a personalized evaluation tailored to your budget, academic scores, and career ambitions.
                 </p>
                 
-                <div className="space-y-6">
-                  <Link href="/inquiry" className="block w-full text-center py-5 bg-foreground text-white font-black uppercase tracking-widest border-4 border-foreground hover:bg-primary transition-all shadow-[6px_6px_0px_0px_rgba(255,255,255,1)]">
-                    Get Free Intel &rarr;
+                <div className="space-y-3 pt-2">
+                  <Link
+                    href="/inquiry"
+                    className="block w-full text-center py-3 px-4 bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs uppercase tracking-wider rounded-xl transition-all shadow-md active:scale-95"
+                  >
+                    Get Free Shortlist &rarr;
                   </Link>
-                  <a href="https://wa.me/919560020771" className="block w-full text-center py-5 bg-white text-foreground font-black uppercase tracking-widest border-4 border-foreground hover:bg-slate-50 transition-all">
-                    WhatsApp Expert
+                  <a
+                    href="https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20guidance%20for%20college%20shortlisting"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block w-full text-center py-3 px-4 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider rounded-xl transition-all shadow-sm active:scale-95"
+                  >
+                    WhatsApp Mohit Jain
                   </a>
                 </div>
                 
-                <div className="mt-12 flex items-center justify-center gap-4">
-                  <div className="flex -space-x-4">
-                    {[1, 2, 3].map(i => <div key={i} className="w-10 h-10 rounded-full border-4 border-foreground bg-slate-200" />)}
-                  </div>
-                  <span className="text-xs font-black uppercase tracking-tighter">15k+ Students Guided</span>
+                <div className="pt-4 border-t border-white/10 flex items-center justify-between text-xs text-slate-400">
+                  <span>Certified Mentor (IIM-B)</span>
+                  <span className="font-bold text-slate-200">5,000+ Guided</span>
                 </div>
               </div>
             </div>

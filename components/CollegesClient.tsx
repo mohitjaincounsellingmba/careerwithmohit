@@ -39,6 +39,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   const [userScoreInput, setUserScoreInput] = useState("");
   const [userScore, setUserScore] = useState(0);
   const [brochureCollege, setBrochureCollege] = useState<CollegeMetadata | null>(null);
+  const [activeToolTab, setActiveToolTab] = useState<'mba' | 'btech' | 'bba'>('mba');
 
   const handleCompareToggle = (slug: string) => {
     setComparedColleges((prev) => {
@@ -323,35 +324,58 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   ].filter(Boolean).length;
 
   return (
-    <div className="min-h-screen bg-slate-50/50 pb-32">
-      {/* Premium Hero Section */}
-      <section className="relative pt-20 pb-28 overflow-hidden bg-slate-900">
-        <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
-        <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-primary-brand/10 to-transparent"></div>
+    <div className="min-h-screen bg-slate-50 pb-32 text-slate-900 selection:bg-blue-600 selection:text-white">
+      {/* Premium EdTech Hero Section */}
+      <section className="relative pt-24 pb-20 md:pt-28 md:pb-24 overflow-hidden bg-gradient-to-b from-[#0A192F] via-[#0D233E] to-[#123058] text-white border-b border-slate-800/80">
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,_var(--tw-gradient-stops))] from-blue-600/15 via-transparent to-transparent pointer-events-none" />
+        <div className="absolute inset-y-0 right-0 w-1/3 bg-radial from-sky-500/10 to-transparent blur-3xl pointer-events-none" />
         
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary-brand/10 border border-primary-brand/20 text-primary-brand text-xs font-bold uppercase tracking-widest mb-6">
-            <Sparkles className="w-3.5 h-3.5" />
-            <span>AI-Powered Admissions Predictor</span>
+          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-500/10 border border-blue-400/25 text-blue-300 text-xs font-semibold uppercase tracking-wider mb-5 backdrop-blur-md">
+            <Sparkles className="w-3.5 h-3.5 text-amber-400" />
+            <span>Audited College Directory 2027–2029 • 600+ Campuses</span>
           </div>
           
-          <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-6 tracking-tight">
-            Find the Best College for <span className="text-primary-brand">Your Future</span>
+          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold text-white mb-5 tracking-tight leading-tight">
+            Discover & Compare Top Colleges in India.{' '}
+            <span className="block mt-1 bg-gradient-to-r from-blue-300 via-sky-200 to-amber-300 bg-clip-text text-transparent">
+              Verified Fees, Cutoffs & Placement Audits.
+            </span>
           </h1>
           
-          <p className="text-lg text-slate-300 max-w-2xl mx-auto font-medium">
-            Explore 200+ verified premium institutions in India. Check rankings, cut-offs, fee structures, and placement details.
+          <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto font-normal leading-relaxed">
+            Explore 600+ verified premium institutions in India. Check rankings, cut-offs, fee structures, average vs highest packages, and get direct 1-on-1 counseling.
           </p>
+
+          {/* Quick Filter Shortcuts */}
+          <div className="flex flex-wrap justify-center items-center gap-2 mt-6 max-w-3xl mx-auto">
+            <span className="text-xs text-slate-300 font-medium mr-1">Trending:</span>
+            {[
+              { label: 'Top 20 IIMs', onClick: () => setSearchQuery('IIM') },
+              { label: 'Delhi NCR B-Schools', onClick: () => { setSelectedState('Delhi NCR'); setSelectedCity('All Cities'); } },
+              { label: 'Pune Tier-1 PGDM', onClick: () => { setSelectedState('Maharashtra'); setSelectedCity('Pune'); } },
+              { label: 'High ROI (< ₹10L)', onClick: () => setSelectedFeeRange('₹5 - ₹10 Lakhs') },
+              { label: 'Top Placements', onClick: () => setSortBy('avg_placement') },
+            ].map((chip) => (
+              <button
+                key={chip.label}
+                onClick={chip.onClick}
+                className="px-3 py-1 rounded-full bg-white/10 hover:bg-white/20 border border-white/15 text-slate-200 hover:text-white text-xs font-medium transition-all backdrop-blur-sm cursor-pointer"
+              >
+                {chip.label}
+              </button>
+            ))}
+          </div>
         </div>
       </section>
 
       {/* Main Filter & Dashboard Area */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-10 relative z-30">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8 relative z-30">
         
         {/* Stream Selector Tab & Search Bar Container */}
-        <div className="bg-white rounded-2xl shadow-xl border border-slate-100 p-5 mb-8 space-y-5">
+        <div className="bg-white rounded-2xl shadow-lg border border-slate-200/90 p-4 sm:p-5 mb-8 space-y-4">
           {/* Category Tabs */}
-          <div className="flex border-b border-slate-100 overflow-x-auto no-scrollbar gap-6 pb-2">
+          <div className="flex border-b border-slate-100 overflow-x-auto no-scrollbar gap-2 pb-3">
             {categories.map((cat) => {
               const isActive = selectedCategory === cat;
               return (
@@ -363,10 +387,10 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                     setSelectedExam("All Exams");
                     setSelectedSpecialization("All Specializations");
                   }}
-                  className={`pb-3 text-sm font-bold border-b-2 transition-all whitespace-nowrap cursor-pointer ${
+                  className={`px-4 py-2 text-xs sm:text-sm font-bold rounded-xl transition-all whitespace-nowrap cursor-pointer ${
                     isActive 
-                      ? "border-primary-brand text-primary-brand" 
-                      : "border-transparent text-slate-500 hover:text-slate-800"
+                      ? "bg-blue-600 text-white shadow-sm" 
+                      : "text-slate-600 hover:text-slate-900 hover:bg-slate-50"
                   }`}
                 >
                   {cat}
@@ -384,7 +408,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                 placeholder="Search colleges by name, courses, or exams..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-12 pr-10 py-3.5 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-brand/20 focus:bg-white transition-all text-sm font-bold text-slate-800 placeholder:text-slate-400"
+                className="w-full pl-12 pr-10 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 focus:bg-white transition-all text-xs sm:text-sm font-semibold text-slate-800 placeholder:text-slate-400"
               />
               {searchQuery && (
                 <button onClick={() => setSearchQuery("")} className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600">
@@ -393,7 +417,10 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
               )}
             </div>
 
-            <button className="bg-primary-brand hover:bg-primary-brand/90 text-white font-bold text-sm px-8 py-3.5 rounded-xl transition-all shadow-md shadow-primary-brand/10">
+            <button
+              type="button"
+              className="bg-blue-600 hover:bg-blue-700 active:scale-95 text-white font-bold text-xs sm:text-sm px-8 py-3 rounded-xl transition-all shadow-sm"
+            >
               Search
             </button>
           </div>
@@ -404,75 +431,75 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
           
           {/* Sidebar Filters */}
           <aside className={`lg:w-1/4 shrink-0 ${showFiltersMobile ? 'block' : 'hidden lg:block'}`}>
-            <div className="bg-white rounded-2xl border border-slate-100 p-5 lg:sticky lg:top-24 max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar space-y-6">
+            <div className="bg-white rounded-2xl border border-slate-200/90 p-5 lg:sticky lg:top-24 max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar space-y-6 shadow-sm">
               
               <div className="flex items-center justify-between border-b border-slate-100 pb-4">
-                <h3 className="text-base font-bold text-slate-800 flex items-center gap-2">
-                  <Filter className="w-4 h-4 text-primary-brand" /> Filters
+                <h3 className="text-sm font-bold text-slate-800 flex items-center gap-2">
+                  <Filter className="w-4 h-4 text-blue-600" /> Filters
                 </h3>
                 {activeFiltersCount > 0 && (
-                  <button onClick={resetFilters} className="text-xs font-bold text-rose-500 hover:underline">
-                    Reset
+                  <button onClick={resetFilters} className="text-xs font-bold text-rose-500 hover:underline cursor-pointer">
+                    Reset All
                   </button>
                 )}
               </div>
 
               {/* Accordions */}
               <div className="space-y-4">
-                <FilterGroup label="Course" icon={<GraduationCap className="w-3.5 h-3.5" />}>
+                <FilterGroup label="Course" icon={<GraduationCap className="w-3.5 h-3.5 text-blue-600" />}>
                   <select 
                     value={selectedCourse}
                     onChange={(e) => {
                       setSelectedCourse(e.target.value);
                       setSelectedSpecialization("All Specializations");
                     }}
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {courseOptionsForCategory.map(course => <option key={course} value={course}>{course}</option>)}
                   </select>
                 </FilterGroup>
 
                 {specializationOptions && specializationOptions.length > 1 && (
-                  <FilterGroup label="Specialization" icon={<Briefcase className="w-3.5 h-3.5" />}>
+                  <FilterGroup label="Specialization" icon={<Briefcase className="w-3.5 h-3.5 text-indigo-600" />}>
                     <select
                       value={selectedSpecialization}
                       onChange={(e) => setSelectedSpecialization(e.target.value)}
-                      className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
+                      className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 text-slate-700 font-bold text-xs cursor-pointer"
                     >
                       {specializationOptions.map(s => <option key={s} value={s}>{s}</option>)}
                     </select>
                   </FilterGroup>
                 )}
                 
-                <FilterGroup label="State" icon={<MapPin className="w-3.5 h-3.5" />}>
+                <FilterGroup label="State" icon={<MapPin className="w-3.5 h-3.5 text-emerald-600" />}>
                   <select 
                     value={selectedState}
                     onChange={(e) => {
                       setSelectedState(e.target.value);
                       setSelectedCity("All Cities");
                     }}
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {states.map(state => <option key={state} value={state}>{state}</option>)}
                   </select>
                 </FilterGroup>
 
-                <FilterGroup label="City" icon={<MapPin className="w-3.5 h-3.5" />}>
+                <FilterGroup label="City" icon={<MapPin className="w-3.5 h-3.5 text-cyan-600" />}>
                   <select 
                     value={selectedCity}
                     onChange={(e) => setSelectedCity(e.target.value)}
                     disabled={selectedState === "All States" && cities.length <= 1}
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs disabled:opacity-50 cursor-pointer"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 text-slate-700 font-bold text-xs disabled:opacity-50 cursor-pointer"
                   >
                     {cities.map(city => <option key={city} value={city}>{city}</option>)}
                   </select>
                 </FilterGroup>
 
-                <FilterGroup label="Fees" icon={<IndianRupee className="w-3.5 h-3.5" />}>
+                <FilterGroup label="Fees" icon={<IndianRupee className="w-3.5 h-3.5 text-amber-600" />}>
                   <select 
                     value={selectedFeeRange}
                     onChange={(e) => setSelectedFeeRange(e.target.value)}
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {feeRanges.map(range => <option key={range} value={range}>{range}</option>)}
                   </select>
@@ -482,7 +509,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                   <select 
                     value={selectedExam}
                     onChange={(e) => setSelectedExam(e.target.value)}
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {allPossibleExams.map(exam => <option key={exam} value={exam}>{exam}</option>)}
                   </select>
@@ -492,7 +519,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                   <select 
                     value={selectedOwnership}
                     onChange={(e) => setSelectedOwnership(e.target.value)}
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-primary-brand/10 text-slate-700 font-bold text-xs cursor-pointer"
+                    className="w-full bg-slate-50 border border-slate-200 rounded-xl py-2.5 px-3 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 text-slate-700 font-bold text-xs cursor-pointer"
                   >
                     {ownershipTypes.map(type => <option key={type} value={type}>{type}</option>)}
                   </select>
@@ -506,32 +533,32 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
           <main className="w-full lg:w-3/4">
             
             {/* AI College Predictor Bar */}
-            <div className="mb-6 p-5 bg-gradient-to-r from-blue-600/5 via-indigo-600/5 to-purple-600/5 rounded-2xl border border-blue-600/20 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div className="mb-6 p-4 sm:p-5 bg-gradient-to-r from-blue-50 via-indigo-50/40 to-sky-50 rounded-2xl border border-blue-200/80 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 shadow-xs">
               <div className="flex items-center gap-3">
-                <div className="w-10 h-10 bg-blue-600 text-white rounded-xl flex items-center justify-center font-black text-sm shrink-0 shadow-md shadow-blue-500/20">
+                <div className="w-10 h-10 bg-blue-600 text-white rounded-xl flex items-center justify-center font-black text-sm shrink-0 shadow-sm">
                   AI
                 </div>
                 <div>
-                  <h3 className="text-sm font-bold text-slate-800 flex items-center gap-1.5">
-                    <span>College Admission Predictor</span>
-                    <span className="bg-emerald-100 text-emerald-800 text-[9px] font-black px-2 py-0.5 rounded-full uppercase tracking-wider">Live</span>
+                  <h3 className="text-xs sm:text-sm font-bold text-slate-900 flex items-center gap-1.5">
+                    <span>College Admission Call Predictor</span>
+                    <span className="bg-emerald-100 text-emerald-800 text-[10px] font-bold px-2 py-0.5 rounded-full uppercase tracking-wider">Live</span>
                   </h3>
                   <p className="text-xs text-slate-500">
-                    Enter your CAT / XAT / JEE percentile or rank score to see your chances of admission.
+                    Enter your CAT / XAT / CMAT / JEE percentile to evaluate your call chances.
                   </p>
                 </div>
               </div>
               <div className="flex items-center gap-2 w-full sm:w-auto">
                 <input
                   type="number"
-                  placeholder="e.g. 85 (Percentile)"
+                  placeholder="e.g. 85 (%ile)"
                   value={userScoreInput}
                   onChange={(e) => {
                     setUserScoreInput(e.target.value);
                     const val = parseFloat(e.target.value);
                     setUserScore(isNaN(val) ? 0 : val);
                   }}
-                  className="w-full sm:w-40 px-3.5 py-2 text-xs font-bold rounded-xl border border-slate-200 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 bg-white"
+                  className="w-full sm:w-36 px-3.5 py-2 text-xs font-bold rounded-xl border border-slate-200 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 bg-white"
                 />
                 {userScore > 0 && (
                   <button
@@ -539,7 +566,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                       setUserScoreInput("");
                       setUserScore(0);
                     }}
-                    className="px-3 py-2 bg-slate-100 hover:bg-slate-200 text-slate-600 rounded-xl text-xs font-bold transition-colors cursor-pointer"
+                    className="px-3 py-2 bg-white hover:bg-slate-100 text-slate-600 rounded-xl text-xs font-bold border border-slate-200 transition-colors cursor-pointer"
                   >
                     Clear
                   </button>
@@ -597,15 +624,15 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
 
             {/* Empty State */}
             {filteredColleges.length === 0 && (
-              <div className="py-20 text-center bg-white rounded-2xl border border-slate-200/60 p-6">
+              <div className="py-20 text-center bg-white rounded-2xl border border-slate-200/80 p-8 shadow-xs">
                 <Search className="w-12 h-12 text-slate-300 mx-auto mb-4" />
-                <h3 className="text-lg font-bold text-slate-800 mb-1">No colleges match your filter</h3>
-                <p className="text-slate-400 text-sm mb-6 max-w-sm mx-auto">Try clearing one or more active filters to view results.</p>
+                <h3 className="text-base font-bold text-slate-800 mb-1">No colleges match your active filters</h3>
+                <p className="text-slate-500 text-xs sm:text-sm mb-6 max-w-sm mx-auto">Try clearing one or more active filters or search terms to explore available campuses.</p>
                 <button 
                   onClick={resetFilters}
-                  className="px-6 py-2.5 bg-primary-brand text-white rounded-xl font-bold text-xs uppercase tracking-wider"
+                  className="px-6 py-2.5 bg-blue-600 hover:bg-blue-700 active:scale-95 text-white rounded-xl font-bold text-xs uppercase tracking-wider transition-all shadow-sm cursor-pointer"
                 >
-                  Clear Filters
+                  Reset All Filters
                 </button>
               </div>
             )}
@@ -615,19 +642,19 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
               <div className="flex justify-center mt-10">
                 <button 
                   onClick={() => setVisibleCount(prev => prev + 20)}
-                  className="px-8 py-3 bg-white border border-primary-brand text-primary-brand hover:bg-primary-brand/5 rounded-xl font-bold text-xs uppercase tracking-wider transition-all"
+                  className="px-8 py-3 bg-white border border-slate-200 hover:border-blue-400 text-slate-800 hover:text-blue-600 rounded-xl font-bold text-xs uppercase tracking-wider transition-all shadow-xs cursor-pointer"
                 >
-                  Load More ({filteredColleges.length - visibleCount} remaining)
+                  Load More Colleges ({filteredColleges.length - visibleCount} remaining)
                 </button>
               </div>
             )}
 
             {/* Trending Blogs */}
             {trendingBlogs && trendingBlogs.length > 0 && (
-              <div className="mt-16 border-t border-slate-100 pt-10">
-                <div className="flex items-center gap-2 mb-6 text-primary-brand">
+              <div className="mt-16 border-t border-slate-200/80 pt-10">
+                <div className="flex items-center gap-2 mb-6 text-blue-600">
                   <TrendingUp className="w-5 h-5" />
-                  <span className="text-sm font-black uppercase tracking-wider">Top Admission Insights</span>
+                  <span className="text-sm font-extrabold uppercase tracking-wider">Top Admission Insights</span>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   {trendingBlogs.slice(0, 4).map((post) => (
@@ -635,12 +662,12 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                       key={post.slug}
                       href={`/blog/${post.slug}`}
                       prefetch={false}
-                      className="group block bg-white border border-slate-100 rounded-2xl p-5 hover:border-primary-brand/20 transition-all"
+                      className="group block bg-white border border-slate-200/90 rounded-2xl p-4 hover:border-blue-300 hover:shadow-sm transition-all"
                     >
-                      <span className="text-[10px] font-bold text-primary-brand/80 block mb-2">
-                        {new Date(post.date).toLocaleDateString('en-IN', { month: 'long', year: 'numeric' })}
+                      <span className="text-[10px] font-bold text-blue-600 block mb-1">
+                        {new Date(post.date).toLocaleDateString('en-IN', { month: 'short', year: 'numeric' })}
                       </span>
-                      <h4 className="text-sm font-bold text-slate-800 leading-snug group-hover:text-primary-brand transition-colors">
+                      <h4 className="text-xs sm:text-sm font-bold text-slate-800 leading-snug group-hover:text-blue-600 transition-colors line-clamp-2">
                         {post.title}
                       </h4>
                     </Link>
@@ -649,11 +676,34 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
               </div>
             )}
 
-            {/* Generators */}
-            <div className="space-y-12 mt-16">
-               <BTechCollegeGenerator />
-               <MBACollegeGenerator />
-               <BBACollegeGenerator />
+            {/* Shortlist Generators */}
+            <div className="mt-16 bg-white rounded-3xl border border-slate-200/90 p-5 sm:p-8 shadow-xs">
+              <div className="mb-6">
+                <span className="text-[10px] font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2.5 py-1 rounded-full">
+                  Instant Shortlisting Tools
+                </span>
+                <h3 className="text-lg sm:text-xl font-extrabold text-slate-900 mt-2">
+                  Admissions Predictors & Shortlist Generators
+                </h3>
+              </div>
+              <div className="flex gap-2 border-b border-slate-100 pb-3 mb-6 overflow-x-auto no-scrollbar">
+                {[
+                  { id: 'mba', label: 'MBA / PGDM Predictor' },
+                  { id: 'btech', label: 'B.Tech Shortlister' },
+                  { id: 'bba', label: 'BBA & BCA Shortlister' }
+                ].map((t) => (
+                  <button
+                    key={t.id}
+                    onClick={() => setActiveToolTab(t.id as any)}
+                    className={`px-4 py-2 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeToolTab === t.id ? 'bg-blue-600 text-white shadow-sm' : 'text-slate-600 hover:text-slate-900 hover:bg-slate-50'}`}
+                  >
+                    {t.label}
+                  </button>
+                ))}
+              </div>
+              {activeToolTab === 'mba' && <MBACollegeGenerator />}
+              {activeToolTab === 'btech' && <BTechCollegeGenerator />}
+              {activeToolTab === 'bba' && <BBACollegeGenerator />}
             </div>
 
           </main>
