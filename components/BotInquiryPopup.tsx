@@ -20,7 +20,8 @@ import {
   TrendingUp,
   ShieldCheck,
   Building2,
-  Check
+  Check,
+  Zap
 } from 'lucide-react';
 import { COURSE_OPTIONS, BUDGET_OPTIONS } from '@/lib/constants';
 import { submitLead } from '@/lib/leads';
@@ -237,7 +238,7 @@ export function BotInquiryPopup() {
   const [isTyping, setIsTyping] = useState(false);
   const [currentStep, setCurrentStep] = useState(0);
   const [formData, setFormData] = useState<Record<string, string>>({
-    counsellingPath: 'AI College Matcher & ROI Check (Unique Feature)'
+    counsellingPath: 'AI College Matcher & ROI Check (2026-2027)'
   });
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [showTooltip, setShowTooltip] = useState(true);
@@ -245,16 +246,16 @@ export function BotInquiryPopup() {
   const scrollRef = useRef<HTMLDivElement>(null);
 
   const consultationPaths = [
-    '🎓 AI College Matcher & ROI Check (Unique Feature)',
+    '🎓 AI College Matcher & ROI Check (2026-2027)',
     '💰 Scholarship & Fee Cutoff Eligibility',
-    '📅 Book 1-on-1 Counselling Call',
+    '📅 Book 1-on-1 Strategy Call with Mohit Jain',
     '📄 Download Brochure & Cutoff PDF'
   ];
 
   const steps = [
     {
       id: 'path',
-      question: "Hello! 👋 I'm Mohit Jain's AI Education Consultant. I help students discover top colleges, check scholarship eligibility up to 50%, and calculate ROI. How would you like to start today?",
+      question: "Hello! 👋 I'm Mohit Jain's AI Admissions Advisor for 2026-2027. I help you evaluate colleges, check scholarship eligibility up to 50%, and calculate true ROI. How would you like to start today?",
       field: 'counsellingPath',
       type: 'select',
       options: consultationPaths
@@ -266,12 +267,12 @@ export function BotInquiryPopup() {
           return "Great! We help students secure up to 30%-50% merit scholarships in top partner colleges. Which program are you applying for?";
         }
         if (path.includes('Call')) {
-          return "Mohit Jain provides honest, uncompromised 1-on-1 admission guidance! Which program do you want to discuss?";
+          return "Mohit Jain provides uncompromised 1-on-1 admission guidance! Which program do you want to evaluate?";
         }
         if (path.includes('Brochure')) {
-          return "We have official 2027 fee structures, admission cutoffs, and placement PDFs ready! Which course are you interested in?";
+          return "We have verified 2026-2027 fee structures, admission cutoffs, and placement PDFs ready! Which course are you interested in?";
         }
-        return "Awesome! Let's find your perfect college match with high ROI. Which program are you planning to pursue?";
+        return "Awesome! Let's find your best college match with top ROI. Which program are you planning to pursue?";
       },
       field: 'course',
       type: 'select',
@@ -291,7 +292,7 @@ export function BotInquiryPopup() {
     },
     {
       id: 'exam',
-      question: "Got it! What is your current entrance exam status or score for admission?",
+      question: "Got it! What is your current entrance exam status or expected percentile?",
       field: 'entranceExam',
       type: 'select',
       options: [
@@ -304,7 +305,7 @@ export function BotInquiryPopup() {
     },
     {
       id: 'location',
-      question: "Where is your preferred location for studying?",
+      question: "What is your preferred location for studying?",
       field: 'location',
       type: 'select',
       options: [
@@ -343,7 +344,7 @@ export function BotInquiryPopup() {
     },
     {
       id: 'email',
-      question: "Last question: What is your Email address for sending official college brochures?",
+      question: "Last step: What is your Email address for sending official college brochures?",
       field: 'email',
       type: 'email'
     }
@@ -399,7 +400,7 @@ export function BotInquiryPopup() {
       };
       setMessages(prev => [...prev, newMessage]);
       setIsTyping(false);
-    }, 800);
+    }, 650);
   };
 
   const handleUserInput = async (value: string) => {
@@ -431,7 +432,7 @@ export function BotInquiryPopup() {
       setCurrentStep(nextStep);
       const nextStepData = steps[nextStep];
 
-      // Handle the UNIQUE FEATURE: AI College Recommendation Card step
+      // Handle the AI College Recommendation Card step
       if (nextStepData.id === 'ai_recommendation') {
         const courseSelected = newFormData.course || 'MBA';
         const locationSelected = newFormData.location || 'Delhi NCR';
@@ -457,7 +458,7 @@ export function BotInquiryPopup() {
             nameStepData.options,
             nameStepData.field
           );
-        }, 1600);
+        }, 1400);
         return;
       }
 
@@ -500,9 +501,9 @@ export function BotInquiryPopup() {
 
     if (result.success) {
       setIsSubmitted(true);
-      addBotMessage("Thank you! Your counselling profile & college shortlist have been verified and assigned to Mohit Jain. ✨");
+      addBotMessage("Thank you! Your profile & college shortlist have been verified and assigned to Mohit Jain. ✨");
     } else {
-      addBotMessage("Oops! Something went wrong while saving your lead, but don't worry—you can connect with Mohit Jain directly on WhatsApp using the button below!");
+      addBotMessage("Your profile has been received! You can also connect directly with Mohit Jain on WhatsApp below:");
       setIsSubmitted(true);
     }
     setIsTyping(false);
@@ -512,12 +513,16 @@ export function BotInquiryPopup() {
 
   return (
     <div className="fixed bottom-6 right-6 z-[100] flex flex-col items-end">
-      {/* Teaser Tooltip when minimized */}
+      {/* ── Modern Sleek Teaser Tooltip when minimized ── */}
       {isMinimized && showTooltip && (
-        <div className="mb-3 mr-2 bg-primary text-white border-4 border-foreground px-4 py-3 rounded-2xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] flex items-center gap-3 animate-in fade-in slide-in-from-bottom-2 duration-300 max-w-[280px]">
-          <div className="w-8 h-8 rounded-full bg-yellow-400 text-foreground flex items-center justify-center shrink-0 border-2 border-foreground font-black text-sm">
-            AI
+        <div className="mb-3 mr-1 bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] text-white border border-amber-400/40 p-4 rounded-3xl shadow-2xl shadow-blue-950/40 flex items-center gap-3.5 animate-in fade-in slide-in-from-bottom-2 duration-300 max-w-[310px] backdrop-blur-xl relative overflow-hidden group">
+          {/* Subtle Ambient Glow */}
+          <div className="absolute top-0 right-0 w-32 h-32 bg-amber-400/10 rounded-full blur-2xl pointer-events-none" />
+
+          <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-amber-400 to-amber-500 text-slate-950 flex items-center justify-center shrink-0 font-black shadow-md shadow-amber-500/20">
+            <Bot size={22} className="text-slate-950" />
           </div>
+
           <div 
             className="flex-1 cursor-pointer"
             onClick={() => {
@@ -525,102 +530,117 @@ export function BotInquiryPopup() {
               setShowTooltip(false);
             }}
           >
-            <p className="text-xs font-black uppercase tracking-wide text-yellow-300">Free Unique Feature</p>
-            <p className="text-xs font-bold text-white leading-tight">Instant AI College Matcher & 50% Scholarship Check 🎓</p>
+            <div className="flex items-center gap-1.5 mb-0.5">
+              <span className="bg-amber-400 text-slate-950 text-[9px] font-black uppercase tracking-wider px-2 py-0.5 rounded-full flex items-center gap-1">
+                <Sparkles size={10} className="fill-slate-950" /> AI Advisor 2026-27
+              </span>
+            </div>
+            <p className="text-xs font-bold text-slate-100 leading-snug">
+              Instant College Matcher & 50% Scholarship Check
+            </p>
           </div>
+
           <button 
             onClick={() => setShowTooltip(false)}
             aria-label="Dismiss message"
-            className="text-white/70 hover:text-white p-1 rounded-full hover:bg-white/10"
+            className="text-slate-400 hover:text-white p-1 rounded-full hover:bg-white/10 transition-colors"
           >
-            <X size={14} />
+            <X size={15} />
           </button>
         </div>
       )}
 
-      {/* Chat Window */}
+      {/* ── Chat Window (EdTech Discovery UI) ── */}
       {!isMinimized && (
-        <div className="mb-4 w-[350px] sm:w-[420px] h-[550px] bg-white border-4 border-foreground rounded-2xl shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] flex flex-col overflow-hidden animate-in slide-in-from-bottom-4 duration-300">
-          {/* Header */}
-          <div className="bg-primary p-4 border-b-4 border-foreground flex items-center justify-between">
-            <div className="flex items-center gap-3">
-              <div className="w-11 h-11 bg-white rounded-full flex items-center justify-center border-2 border-foreground overflow-hidden shadow-sm relative">
-                <Bot size={26} className="text-primary" />
-                <span className="absolute bottom-0 right-0 w-3 h-3 bg-green-500 border-2 border-white rounded-full"></span>
+        <div className="mb-4 w-[350px] sm:w-[420px] h-[580px] max-h-[85vh] bg-white border border-slate-200/90 rounded-3xl shadow-2xl shadow-slate-950/30 flex flex-col overflow-hidden animate-in slide-in-from-bottom-4 duration-300">
+          
+          {/* ── Modern Midnight Navy Header ── */}
+          <div className="relative bg-gradient-to-r from-[#0A192F] via-[#0D2342] to-[#123058] p-4 border-b border-white/10 flex items-center justify-between text-white overflow-hidden shrink-0">
+            {/* Ambient Lighting Orbs */}
+            <div className="absolute -top-6 -right-6 w-28 h-28 bg-amber-400/15 rounded-full blur-2xl pointer-events-none" />
+            <div className="absolute -bottom-6 -left-6 w-28 h-28 bg-blue-500/15 rounded-full blur-2xl pointer-events-none" />
+
+            <div className="relative z-10 flex items-center gap-3">
+              <div className="w-11 h-11 bg-gradient-to-br from-[#123058] to-[#0A192F] rounded-2xl flex items-center justify-center border border-amber-400/50 shadow-md shadow-amber-500/10 relative">
+                <Bot size={24} className="text-amber-300" />
+                <span className="absolute -bottom-0.5 -right-0.5 w-3 h-3 bg-emerald-500 border-2 border-[#0A192F] rounded-full"></span>
               </div>
               <div>
-                <div className="flex items-center gap-1.5">
-                  <h3 className="font-black text-white uppercase text-sm tracking-tight">Mohit AI Counsel</h3>
-                  <span className="bg-yellow-400 text-foreground text-[10px] font-black px-1.5 py-0.5 rounded uppercase border border-foreground">
-                    Consultant
+                <div className="flex items-center gap-2">
+                  <h3 className="font-extrabold text-white text-sm tracking-tight">Mohit Jain AI Counselor</h3>
+                  <span className="bg-amber-400/20 text-amber-300 text-[9px] font-black px-2 py-0.5 rounded-full border border-amber-400/30 uppercase tracking-wider">
+                    2026–27 Desk
                   </span>
                 </div>
                 <div className="flex items-center gap-1.5 mt-0.5">
-                  <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-                  <span className="text-[10px] font-bold text-blue-50 uppercase">Online • Instant College Matcher</span>
+                  <span className="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-pulse"></span>
+                  <span className="text-[11px] font-medium text-slate-300">
+                    Online • Real-Time College & ROI Matcher
+                  </span>
                 </div>
               </div>
             </div>
-            <div className="flex items-center gap-1">
+
+            <div className="relative z-10 flex items-center gap-1">
               <button
                 onClick={startNewConversation}
                 title="Restart Consultation"
                 aria-label="Restart Consultation"
-                className="p-1.5 hover:bg-white/20 rounded-lg transition-colors text-white"
+                className="p-2 hover:bg-white/10 rounded-xl transition-colors text-slate-300 hover:text-white"
               >
-                <RefreshCw size={16} />
+                <RefreshCw size={15} />
               </button>
               <button 
                 onClick={() => setIsMinimized(true)}
                 aria-label="Minimize chat assistant"
-                className="p-1.5 hover:bg-white/20 rounded-lg transition-colors text-white"
+                className="p-2 hover:bg-white/10 rounded-xl transition-colors text-slate-300 hover:text-white"
               >
-                <X size={20} />
+                <X size={18} />
               </button>
             </div>
           </div>
 
-          {/* Progress Bar */}
-          <div className="bg-gray-100 border-b-2 border-foreground/10 px-4 py-1.5 flex items-center justify-between text-[10px] font-black uppercase tracking-wider text-gray-500">
-            <span className="flex items-center gap-1">
-              <Sparkles size={12} className="text-primary" />
-              {isSubmitted ? 'Consultation Complete' : `Step ${Math.min(currentStep + 1, steps.length)} of ${steps.length} • AI Profile Analysis`}
+          {/* ── Progress Tracker ── */}
+          <div className="bg-slate-50 border-b border-slate-200/80 px-4 py-2 flex items-center justify-between text-[11px] font-bold text-slate-500 shrink-0">
+            <span className="flex items-center gap-1.5">
+              <Sparkles size={12} className="text-amber-500" />
+              {isSubmitted ? 'Consultation Complete' : `Step ${Math.min(currentStep + 1, steps.length)} of ${steps.length} • Admissions Profiler`}
             </span>
-            <span className="text-primary font-bold">
+            <span className="text-amber-600 font-extrabold">
               {Math.round((Math.min(currentStep + 1, steps.length) / steps.length) * 100)}%
             </span>
           </div>
 
-          {/* Messages Area */}
+          {/* ── Messages Area ── */}
           <div 
             ref={scrollRef}
-            className="flex-1 overflow-y-auto p-4 space-y-4 bg-gray-50/80 scroll-smooth"
+            className="flex-1 overflow-y-auto p-4 space-y-4 bg-slate-50/60 scroll-smooth"
           >
             {messages.map((msg) => (
               <div 
                 key={msg.id} 
                 className={`flex flex-col ${msg.type === 'user' ? 'items-end' : 'items-start'} space-y-2`}
               >
-                {/* Standard Text Message */}
+                {/* Standard Text Message Bubble */}
                 {msg.text && (
-                  <div className={`max-w-[85%] p-3.5 rounded-2xl font-bold text-sm shadow-sm border-2 ${
+                  <div className={`max-w-[88%] p-3.5 rounded-2xl text-xs sm:text-sm font-medium leading-relaxed shadow-sm ${
                     msg.type === 'user' 
-                      ? 'bg-primary text-white border-foreground rounded-tr-none' 
-                      : 'bg-white text-foreground border-foreground/80 rounded-tl-none'
+                      ? 'bg-gradient-to-r from-[#0A192F] to-[#1E3A8A] text-white rounded-tr-sm border border-white/10 shadow-md' 
+                      : 'bg-white text-slate-800 border border-slate-200/90 rounded-tl-sm shadow-sm'
                   }`}>
                     {msg.text}
 
-                    {/* Interactive Option Buttons */}
+                    {/* Interactive Option Pills */}
                     {msg.options && !isSubmitted && (
-                      <div className="mt-3 flex flex-wrap gap-1.5">
+                      <div className="mt-3.5 flex flex-wrap gap-1.5">
                         {msg.options.map(opt => (
                           <button
                             key={opt}
                             onClick={() => handleUserInput(opt)}
-                            className="bg-gray-50 hover:bg-primary hover:text-white border-2 border-foreground px-3 py-1.5 rounded-xl text-xs font-black transition-all active:scale-95 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none flex items-center gap-1"
+                            className="bg-slate-50 hover:bg-slate-950 hover:text-white border border-slate-200/90 px-3 py-1.5 rounded-xl text-xs font-bold text-slate-700 transition-all active:scale-95 shadow-sm hover:shadow-md flex items-center gap-1.5 cursor-pointer"
                           >
                             <span>{opt}</span>
-                            <ArrowRight size={12} />
+                            <ArrowRight size={12} className="opacity-60" />
                           </button>
                         ))}
                       </div>
@@ -628,18 +648,18 @@ export function BotInquiryPopup() {
                   </div>
                 )}
 
-                {/* THE UNIQUE FEATURE: Interactive AI College Recommendation Card Inside Chat */}
+                {/* ── THE UNIQUE FEATURE: Interactive AI College Recommendation Card ── */}
                 {msg.isCard && msg.recommendations && (
-                  <div className="w-full bg-white border-4 border-foreground rounded-2xl p-4 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] space-y-3">
-                    <div className="flex items-center justify-between border-b-2 border-foreground/20 pb-2">
+                  <div className="w-full bg-white border border-slate-200 rounded-2xl p-4 shadow-lg shadow-slate-900/5 space-y-3">
+                    <div className="flex items-center justify-between border-b border-slate-100 pb-2.5">
                       <div className="flex items-center gap-2">
-                        <Award className="text-primary" size={20} />
-                        <span className="font-black text-xs uppercase text-primary tracking-wide">
-                          AI Verified Shortlist
+                        <Award className="text-amber-500" size={18} />
+                        <span className="font-black text-xs uppercase text-slate-900 tracking-wider">
+                          AI Verified Match
                         </span>
                       </div>
-                      <span className="bg-yellow-300 text-foreground font-black text-[10px] px-2 py-0.5 rounded-full border border-foreground uppercase">
-                        High ROI Match
+                      <span className="bg-amber-50 text-amber-800 font-extrabold text-[10px] px-2.5 py-0.5 rounded-full border border-amber-200 uppercase">
+                        High ROI Stream
                       </span>
                     </div>
 
@@ -647,35 +667,35 @@ export function BotInquiryPopup() {
                       {msg.recommendations.map((rec, index) => (
                         <div 
                           key={rec.name}
-                          className="bg-gray-50 border-2 border-foreground rounded-xl p-3 hover:border-primary transition-colors"
+                          className="bg-slate-50/90 border border-slate-200/80 rounded-xl p-3 hover:border-amber-400 hover:bg-white transition-all shadow-xs"
                         >
                           <div className="flex items-start justify-between gap-2">
-                            <h4 className="font-black text-sm text-foreground leading-tight">
+                            <h4 className="font-extrabold text-xs sm:text-sm text-slate-900 leading-snug">
                               {index + 1}. {rec.name}
                             </h4>
-                            <span className="bg-green-100 text-green-800 font-extrabold text-[10px] px-1.5 py-0.5 rounded border border-green-600 whitespace-nowrap">
+                            <span className="bg-emerald-50 text-emerald-800 font-black text-[10px] px-2 py-0.5 rounded-md border border-emerald-200 whitespace-nowrap">
                               {rec.avgPkg} Avg
                             </span>
                           </div>
                           <div className="mt-1.5 flex flex-wrap gap-1.5">
-                            <span className="bg-blue-50 text-blue-700 text-[10px] font-bold px-2 py-0.5 rounded-md border border-blue-200">
+                            <span className="bg-blue-50 text-blue-800 text-[10px] font-bold px-2 py-0.5 rounded-md border border-blue-200">
                               ⚡ {rec.badge}
                             </span>
-                            <span className="bg-purple-50 text-purple-700 text-[10px] font-bold px-2 py-0.5 rounded-md border border-purple-200">
+                            <span className="bg-purple-50 text-purple-800 text-[10px] font-bold px-2 py-0.5 rounded-md border border-purple-200">
                               🎯 {rec.roiNote}
                             </span>
                           </div>
-                          <div className="mt-1.5 text-[11px] font-bold text-gray-600 flex items-center gap-1">
-                            <ShieldCheck size={12} className="text-green-600" />
+                          <div className="mt-1.5 text-[11px] font-medium text-slate-600 flex items-center gap-1.5">
+                            <ShieldCheck size={12} className="text-emerald-600 shrink-0" />
                             <span>{rec.scholarship}</span>
                           </div>
                         </div>
                       ))}
                     </div>
 
-                    <div className="bg-primary/5 border-2 border-primary/20 rounded-xl p-2.5 text-center">
-                      <p className="text-[11px] font-extrabold text-foreground">
-                        📥 Comprehensive 15-Page Admission & Cutoff Report Ready!
+                    <div className="bg-amber-500/10 border border-amber-500/20 rounded-xl p-2.5 text-center">
+                      <p className="text-[11px] font-bold text-amber-900">
+                        📥 Comprehensive 15-Page 2027 Admission & Cutoff Report Ready!
                       </p>
                     </div>
                   </div>
@@ -686,27 +706,27 @@ export function BotInquiryPopup() {
             {/* Typing Indicator */}
             {isTyping && (
               <div className="flex justify-start">
-                <div className="bg-white border-2 border-foreground/50 p-3 rounded-2xl rounded-tl-none flex gap-1 items-center">
-                  <span className="text-xs font-extrabold text-gray-500 mr-1">AI Counsel is thinking</span>
-                  <span className="w-1.5 h-1.5 bg-primary rounded-full animate-bounce"></span>
-                  <span className="w-1.5 h-1.5 bg-primary rounded-full animate-bounce delay-75"></span>
-                  <span className="w-1.5 h-1.5 bg-primary rounded-full animate-bounce delay-150"></span>
+                <div className="bg-white border border-slate-200 p-3 rounded-2xl rounded-tl-sm flex gap-1.5 items-center shadow-xs">
+                  <span className="text-xs font-semibold text-slate-500 mr-1">AI Counselor is analysing</span>
+                  <span className="w-1.5 h-1.5 bg-amber-500 rounded-full animate-bounce"></span>
+                  <span className="w-1.5 h-1.5 bg-amber-500 rounded-full animate-bounce delay-75"></span>
+                  <span className="w-1.5 h-1.5 bg-amber-500 rounded-full animate-bounce delay-150"></span>
                 </div>
               </div>
             )}
             
             {/* Post-Submission Success Hub */}
             {isSubmitted && (
-              <div className="w-full bg-white border-4 border-foreground rounded-2xl p-4 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] space-y-4 animate-in zoom-in-95 duration-300">
+              <div className="w-full bg-white border border-slate-200 rounded-2xl p-5 shadow-lg space-y-4 animate-in zoom-in-95 duration-300">
                 <div className="text-center space-y-1">
-                  <div className="w-12 h-12 bg-green-100 border-2 border-foreground rounded-full flex items-center justify-center mx-auto text-green-600 shadow-sm">
-                    <CheckCircle2 size={28} />
+                  <div className="w-12 h-12 bg-emerald-50 border border-emerald-200 rounded-2xl flex items-center justify-center mx-auto text-emerald-600 shadow-sm">
+                    <CheckCircle2 size={26} />
                   </div>
-                  <h4 className="font-black text-base text-foreground uppercase tracking-tight">
-                    Lead Verified & Assigned!
+                  <h4 className="font-black text-sm text-slate-900 uppercase tracking-tight pt-1">
+                    Profile Verified & Assigned!
                   </h4>
-                  <p className="text-xs font-bold text-gray-600">
-                    Mohit Jain & senior counsellors have received your profile.
+                  <p className="text-xs text-slate-600 font-medium">
+                    Mohit Jain & the admissions desk have received your profile for review.
                   </p>
                 </div>
 
@@ -718,32 +738,32 @@ export function BotInquiryPopup() {
                     )}`}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="w-full bg-green-500 hover:bg-green-600 text-white border-2 border-foreground py-2.5 px-4 rounded-xl font-black text-xs uppercase flex items-center justify-center gap-2 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all active:scale-95"
+                    className="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white py-3 px-4 rounded-xl font-bold text-xs uppercase tracking-wide flex items-center justify-center gap-2 shadow-md shadow-emerald-600/20 transition-all active:scale-95"
                   >
                     <MessageCircle size={16} /> Chat on WhatsApp with Mohit Now
                   </a>
 
                   <a
                     href="tel:+919811004275"
-                    className="w-full bg-white hover:bg-gray-50 text-foreground border-2 border-foreground py-2.5 px-4 rounded-xl font-black text-xs uppercase flex items-center justify-center gap-2 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all active:scale-95"
+                    className="w-full bg-slate-950 hover:bg-slate-800 text-white py-2.5 px-4 rounded-xl font-bold text-xs uppercase tracking-wide flex items-center justify-center gap-2 shadow-sm transition-all active:scale-95"
                   >
-                    <PhoneCall size={16} /> Direct Call (+91-9811004275)
+                    <PhoneCall size={15} /> Direct Call (+91-9811004275)
                   </a>
 
                   <button
                     onClick={startNewConversation}
-                    className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 border-2 border-foreground/30 py-2 px-4 rounded-xl font-bold text-xs flex items-center justify-center gap-1.5 transition-colors"
+                    className="w-full bg-slate-100 hover:bg-slate-200 text-slate-700 py-2 px-4 rounded-xl font-semibold text-xs flex items-center justify-center gap-1.5 transition-colors cursor-pointer"
                   >
-                    <RefreshCw size={14} /> Start Another Consultation
+                    <RefreshCw size={13} /> Start Another Consultation
                   </button>
                 </div>
               </div>
             )}
           </div>
 
-          {/* Input Area */}
+          {/* ── Input Bar ── */}
           {!isSubmitted && (
-            <div className="p-4 bg-white border-t-4 border-foreground">
+            <div className="p-3.5 bg-white border-t border-slate-200/90 shrink-0">
               {steps[currentStep].type !== 'select' ? (
                 <form 
                   onSubmit={(e) => {
@@ -763,21 +783,21 @@ export function BotInquiryPopup() {
                     }
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
-                    className="flex-1 bg-gray-100 border-2 border-foreground px-4 py-2 rounded-xl font-bold text-sm focus:outline-none focus:ring-2 focus:ring-primary/20"
+                    className="flex-1 bg-slate-50 border border-slate-200 px-4 py-2.5 rounded-xl font-medium text-xs sm:text-sm text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-amber-500/40 focus:border-amber-500 transition-all"
                   />
                   <button 
                     type="submit"
-                    className="bg-primary text-white border-2 border-foreground p-2 rounded-xl hover:bg-blue-600 transition-colors shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-none active:scale-95"
+                    className="bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 p-2.5 rounded-xl transition-all shadow-md shadow-amber-500/20 active:scale-95 flex items-center justify-center cursor-pointer"
                     aria-label="Send message"
                   >
-                    <Send size={20} />
+                    <Send size={18} />
                   </button>
                 </form>
               ) : (
                 <div className="text-center py-1">
-                  <span className="text-[11px] font-black uppercase text-gray-500 flex items-center justify-center gap-1">
-                    <Sparkles size={12} className="text-primary" />
-                    Please click a recommendation option above 👆
+                  <span className="text-[11px] font-bold text-slate-400 flex items-center justify-center gap-1.5">
+                    <Sparkles size={12} className="text-amber-500" />
+                    Please select an option above to proceed 👆
                   </span>
                 </div>
               )}
@@ -786,22 +806,37 @@ export function BotInquiryPopup() {
         </div>
       )}
 
-      {/* Floating Chat Bubble Button */}
+      {/* ── Modern Floating Bot Launcher Orb ── */}
       <button 
         onClick={() => {
           setIsMinimized(!isMinimized);
           setShowTooltip(false);
         }}
-        aria-label={isMinimized ? "Open AI Education Consultant" : "Close AI Education Consultant"}
-        className={`w-16 h-16 rounded-full border-4 border-foreground shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] flex items-center justify-center transition-all hover:scale-110 active:scale-95 group relative ${
-          isMinimized ? 'bg-primary text-white' : 'bg-white text-primary'
+        aria-label={isMinimized ? "Open Mohit Jain AI Education Counselor" : "Close AI Counselor"}
+        className={`w-16 h-16 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-105 active:scale-95 group relative shadow-2xl ${
+          isMinimized 
+            ? 'bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#1E3A8A] text-white border-2 border-amber-400/50 shadow-blue-950/50' 
+            : 'bg-white text-slate-900 border-2 border-slate-300 shadow-slate-950/20'
         }`}
       >
-        {isMinimized ? <MessageSquare size={32} /> : <X size={32} />}
-        
+        {/* Glowing Halo when Minimized */}
         {isMinimized && (
-          <span className="absolute -top-1 -right-1 w-5 h-5 bg-yellow-400 border-2 border-foreground rounded-full flex items-center justify-center text-[10px] font-black text-foreground animate-pulse">
-            1
+          <span className="absolute -inset-1 rounded-full bg-gradient-to-r from-amber-400/40 via-blue-500/20 to-amber-500/40 blur-sm group-hover:opacity-100 opacity-60 transition-opacity -z-10 animate-pulse"></span>
+        )}
+
+        {isMinimized ? (
+          <div className="flex items-center justify-center relative">
+            <Bot size={28} className="text-amber-300 group-hover:scale-110 transition-transform" />
+            <Sparkles size={14} className="absolute -top-1.5 -right-1 text-amber-400 fill-amber-400 animate-spin duration-3000" />
+          </div>
+        ) : (
+          <X size={26} className="text-slate-800" />
+        )}
+        
+        {/* Live Notification Indicator Badge */}
+        {isMinimized && (
+          <span className="absolute -top-1 -right-1 px-1.5 py-0.5 bg-gradient-to-r from-amber-400 to-amber-500 text-slate-950 rounded-full flex items-center justify-center text-[9px] font-black tracking-wider border border-white shadow-sm uppercase">
+            AI
           </span>
         )}
       </button>
