@@ -65,6 +65,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/govt-exams-mock-test',
     '/tools',
     '/tools/ats-resume-builder',
+    '/skill-assessment-certificate',
     '/resume-builder',
     '/tools/file-converter',
     '/tools/cat-score-calculator',

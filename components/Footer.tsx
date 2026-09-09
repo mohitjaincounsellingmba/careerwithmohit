@@ -61,6 +61,7 @@ export function Footer() {
       { name: 'Free Mock Test Hub', href: '/mock-tests', badge: 'Free' },
     ],
     resources: [
+      { name: 'Attempt Skills & Get Certificate', href: '/skill-assessment-certificate', badge: 'Certified' },
       { name: 'ATS Resume & CV Builder', href: '/tools/ats-resume-builder', badge: 'Free' },
       { name: '650+ Colleges Database', href: '/colleges' },
       { name: 'MBA Articles & Analysis', href: '/blog' },
