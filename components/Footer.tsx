@@ -51,6 +51,7 @@ export function Footer() {
       { name: 'Abroad Education Advisory', href: '/inquiry' },
     ],
     tools: [
+      { name: 'Free ATS Resume Builder', href: '/tools/ats-resume-builder', badge: 'NEW' },
       { name: 'CAT 2026 Score Calculator', href: '/tools/cat-score-calculator', badge: 'Popular' },
       { name: 'XAT 2027 Score Calculator', href: '/tools/xat-score-calculator-2027' },
       { name: 'MAT Score Calculator', href: '/tools/mat-score-calculator' },
@@ -60,6 +61,7 @@ export function Footer() {
       { name: 'Free Mock Test Hub', href: '/mock-tests', badge: 'Free' },
     ],
     resources: [
+      { name: 'ATS Resume & CV Builder', href: '/tools/ats-resume-builder', badge: 'Free' },
       { name: '650+ Colleges Database', href: '/colleges' },
       { name: 'MBA Articles & Analysis', href: '/blog' },
       { name: 'Admission News Updates', href: '/news' },

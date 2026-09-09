@@ -64,6 +64,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/hashtag-generator',
     '/tools/govt-exams-mock-test',
     '/tools',
+    '/tools/ats-resume-builder',
+    '/resume-builder',
     '/tools/file-converter',
     '/tools/cat-score-calculator',
     '/tools/xat-score-calculator-2027',
