@@ -2,10 +2,10 @@ import { CollegeMetadata } from './colleges';
 
 const COLLEGE_BLOG_SLUG_MAP: Record<string, string> = {
   'ndim-delhi': 'ndim-delhi-review-2026',
-  'fostiima-delhi': 'all-about-fostiima-delhi',
-  'fiib-delhi': 'all-about-fiib-delhi',
+  'fostiima-delhi': 'fostiima-business-school-review-2026',
+  'fiib-delhi': 'fiib-delhi-review-2027',
   'iilm-lodhi-road-delhi': 'all-about-iilm-lodhi-road-delhi',
-  'jims-kalkaji': 'all-about-jims-kalkaji',
+  'jims-kalkaji': 'jims-kalkaji-review-2026',
   'meri-delhi': 'all-about-meri-delhi',
   'dsb-delhi': 'all-about-dsb-delhi',
   'delhi-school-of-business': 'all-about-dsb-delhi',
@@ -14,7 +14,7 @@ const COLLEGE_BLOG_SLUG_MAP: Record<string, string> = {
   'asm-apeejay-delhi': 'all-about-asm-apeejay-delhi',
   'jaipuria-school-of-business-ghaziabad': 'all-about-jaipuria-school-of-business-ghaziabad',
   'its-ghaziabad': 'all-about-its-ghaziabad',
-  'jaipuria-noida': 'all-about-jaipuria-noida',
+  'jaipuria-noida': 'jaipuria-noida-review-2027',
   'hierank-noida': 'all-about-hierank-noida',
   'gniot-greater-noida': 'all-about-gniot-greater-noida',
   'gl-bajaj-greater-noida': 'all-about-gl-bajaj-greater-noida',

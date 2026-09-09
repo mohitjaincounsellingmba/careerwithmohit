@@ -325,10 +325,10 @@ function CollegeDetailModal({
 function getReviewSlug(name: string): string | null {
   const n = name.toLowerCase();
   if (n.includes('new delhi institute of management') || n.includes('ndim')) return 'ndim-delhi-review-2026';
-  if (n.includes('fostiima')) return 'all-about-fostiima-delhi';
-  if (n.includes('fortune institute of international business') || n.includes('fiib')) return 'all-about-fiib-delhi';
+  if (n.includes('fostiima')) return 'fostiima-business-school-review-2026';
+  if (n.includes('fortune institute of international business') || n.includes('fiib')) return 'fiib-delhi-review-2027';
   if (n.includes('lodhi road') || (n.includes('iilm') && n.includes('lodhi'))) return 'all-about-iilm-lodhi-road-delhi';
-  if (n.includes('jims kalkaji')) return 'all-about-jims-kalkaji';
+  if (n.includes('jims kalkaji')) return 'jims-kalkaji-review-2026';
   if (n.includes('management education & research institute') || n.includes('meri')) return 'all-about-meri-delhi';
   if (n.includes('delhi school of business')) return 'all-about-dsb-delhi';
   if (n.includes('empi')) return 'all-about-empi-delhi';
@@ -336,7 +336,7 @@ function getReviewSlug(name: string): string | null {
   if (n.includes('apeejay') || n.includes('asm apeejay')) return 'all-about-asm-apeejay-delhi';
   if (n.includes('jaipuria school of business') || (n.includes('jaipuria') && n.includes('ghaziabad'))) return 'all-about-jaipuria-school-of-business-ghaziabad';
   if (n.includes('its ghaziabad') || n.includes('i.t.s')) return 'all-about-its-ghaziabad';
-  if (n.includes('jaipuria noida') || (n.includes('jaipuria') && n.includes('noida'))) return 'all-about-jaipuria-noida';
+  if (n.includes('jaipuria noida') || (n.includes('jaipuria') && n.includes('noida'))) return 'jaipuria-noida-review-2027';
   if (n.includes('hierank')) return 'all-about-hierank-noida';
   if (n.includes('gniot')) return 'all-about-gniot-greater-noida';
   if (n.includes('gl bajaj') || n.includes('g.l. bajaj')) return 'all-about-gl-bajaj-greater-noida';
