@@ -59,7 +59,7 @@ const MBA_COLLEGES = [
 
   // TIER 3 — Affordable / Direct Admission
   { name: "JIMS Rohini Delhi", tier: 3, fee: 900000, catPercentile: 55, streams: ["Marketing", "Finance", "Human Resource (HRM)", "Entrepreneurship"], location: "Delhi", avg_package: "₹6 LPA", exams: ["CAT", "CMAT", "MAT"], slug: "blog/all-about-jims-rohini" },
-  { name: "NDIM New Delhi", tier: 3, fee: 700000, catPercentile: 50, streams: ["Marketing", "Finance", "Human Resource (HRM)", "International Business"], location: "Delhi", avg_package: "₹5.5 LPA", exams: ["CMAT", "MAT"], slug: "blog/all-about-ndim-delhi" },
+  { name: "NDIM New Delhi", tier: 2, fee: 1375000, catPercentile: 60, streams: ["Marketing", "Finance", "Human Resource (HRM)", "Business Analytics", "FinTech", "International Business"], location: "Delhi", avg_package: "₹10.0 LPA", exams: ["CAT", "XAT", "MAT", "CMAT"], slug: "blog/ndim-delhi-review-2026" },
   { name: "IILM Gurgaon", tier: 3, fee: 900000, catPercentile: 55, streams: ["Marketing", "Finance", "Human Resource (HRM)", "Digital Marketing", "Entrepreneurship"], location: "Gurgaon", avg_package: "₹6 LPA", exams: ["CAT", "CMAT", "MAT"], slug: "blog/all-about-iilm-university" },
   { name: "Gitarattan Delhi", tier: 3, fee: 650000, catPercentile: 50, streams: ["Marketing", "Finance", "Human Resource (HRM)"], location: "Delhi", avg_package: "₹5 LPA", exams: ["CMAT", "MAT"], slug: null },
   { name: "MERI Janakpuri Delhi", tier: 3, fee: 700000, catPercentile: 50, streams: ["Marketing", "Finance", "Human Resource (HRM)", "Operations & Supply Chain"], location: "Delhi", avg_package: "₹5.5 LPA", exams: ["CMAT", "MAT", "CAT"], slug: "blog/meri-janakpuri-mba-review-2026" },

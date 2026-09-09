@@ -46,11 +46,13 @@ state: Delhi NCR
 *   **Brand Value**: Known for its 100% placement legacy and strong corporate connections.
 *   **Location Advantage**: Situated in Tughlakabad, it offers great access to the South Delhi corporate hub.
 
-### **Placement Review (2025 Batch)**
-*   **Placement Rate**: Successfully maintained a 100% placement record for the 2024-26 batch starting as early as September.
-*   **Highest Package**: **₹23.80 LPA** (Domestic).
-*   **Median Package**: **₹9.5 LPA**.
-*   **Top Recruiters**: Deloitte, PwC, KPMG, BlackRock, Wipro, and Colgate Palmolive.
+### **Placement Review (Latest Batch)**
+*   **Placement Rate**: 100% placement record with 250+ companies and 500+ offers.
+*   **Highest Package**: **₹16.00 – ₹17.50 LPA** (Audited) / Peak **₹24.00 LPA**.
+*   **Average Package**: **₹10.00 LPA** (Top 25% Average: **₹12.80 LPA**).
+*   **Median Package**: **₹8.80 – ₹9.00 LPA**.
+*   **Total Program Fee**: **₹13.75 Lakhs** (AICTE Approved 420 Seats).
+*   **Top Recruiters**: Deloitte, PwC, KPMG, EY, Amazon, Nestle, BlackRock, and Colgate Palmolive.
 *   **Sector Highlights**: Marketing and Finance remain the strongest hiring domains.
 
 ### **Infrastructure & Facilities**
@@ -100,7 +102,7 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **NDIM New Delhi** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats |
 | **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |

@@ -1,7 +1,7 @@
 import { CollegeMetadata } from './colleges';
 
 const COLLEGE_BLOG_SLUG_MAP: Record<string, string> = {
-  'ndim-delhi': 'all-about-ndim-delhi',
+  'ndim-delhi': 'ndim-delhi-review-2026',
   'fostiima-delhi': 'all-about-fostiima-delhi',
   'fiib-delhi': 'all-about-fiib-delhi',
   'iilm-lodhi-road-delhi': 'all-about-iilm-lodhi-road-delhi',

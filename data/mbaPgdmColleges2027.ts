@@ -27,7 +27,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     name: 'New Delhi Institute of Management (NDIM)',
     universitySlug: 'ndim-delhi',
     location: 'Tughlakabad, South Delhi',
-    fee: '₹11.50L - ₹13.75L (Total)',
+    fee: '₹13.75 Lakhs (Total)',
     feeNum: 1375000,
     accreditation: 'AICTE Approved · NBA Accredited · AIU Equivalent',
     programs: ['PGDM', 'PGDM Marketing', 'PGDM Finance'],

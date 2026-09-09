@@ -324,7 +324,7 @@ function CollegeDetailModal({
 
 function getReviewSlug(name: string): string | null {
   const n = name.toLowerCase();
-  if (n.includes('new delhi institute of management') || n.includes('ndim')) return 'all-about-ndim-delhi';
+  if (n.includes('new delhi institute of management') || n.includes('ndim')) return 'ndim-delhi-review-2026';
   if (n.includes('fostiima')) return 'all-about-fostiima-delhi';
   if (n.includes('fortune institute of international business') || n.includes('fiib')) return 'all-about-fiib-delhi';
   if (n.includes('lodhi road') || (n.includes('iilm') && n.includes('lodhi'))) return 'all-about-iilm-lodhi-road-delhi';

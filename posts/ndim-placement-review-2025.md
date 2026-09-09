@@ -48,11 +48,12 @@ state: Delhi NCR
 
 | Category | Details |
 | :--- | :--- |
-| **Highest Domestic Package** | ₹24.40 LPA |
-| **Average Package** | ₹9.50 LPA |
-| **Median Package** | ₹9.50 LPA |
-| **Placement Percentage** | 100% |
-| **Top Sector** | BFSI, Consulting & IT |
+| **Highest Domestic Package** | ₹16.00 – ₹17.50 LPA (Audited) / Peak ₹24.40 LPA |
+| **Average Package** | **₹10.00 LPA** (Top 25%: ₹12.80 LPA) |
+| **Median Package** | ₹8.80 – ₹9.00 LPA |
+| **Placement Percentage** | 100% (250+ Companies, 500+ Offers) |
+| **Total Program Fee** | **₹13.75 Lakhs** (Approved 420 Seats) |
+| **Top Sector** | BFSI, Consulting & FMCG |
 
 ### **Sector-Wise Placement Trends:**
 *   **Consulting & Finance**: NDIM has a strong footprint in the consulting domain, with the "Big 4" (Deloitte, KPMG, EY, PwC) frequently visiting for Risk Advisory and Financial Analyst roles.
