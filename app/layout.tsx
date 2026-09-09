@@ -37,7 +37,10 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Mohit Jain" }],
   verification: {
-    google: "fE7d3H-B_zJ8-nS9u2G5v-Xk4m-L0p3Q1W2E4R5T6Y7", // Actual verification code from previous context/user needs
+    google: "fE7d3H-B_zJ8-nS9u2G5v-Xk4m-L0p3Q1W2E4R5T6Y7",
+    other: {
+      "msvalidate.01": process.env.NEXT_PUBLIC_BING_VERIFICATION || "B6D0F55359D960CA2DE85C38481A08D1",
+    }
   },
   openGraph: {
     type: "website",

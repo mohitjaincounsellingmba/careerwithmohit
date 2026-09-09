@@ -10,7 +10,9 @@
     "scrape-colleges": "node scripts/scrape-colleges.js",
     "scrape-colleges:update": "node scripts/scrape-colleges.js --update",
     "scrape-colleges:nirf": "node scripts/scrape-colleges.js --nirf",
-    "seo": "node scripts/optimize-seo-all.mjs"
+    "seo": "node scripts/optimize-seo-all.mjs",
+    "seo:indexnow": "node scripts/indexnow-submit.mjs",
+    "seo:launch": "node scripts/seo-launch.mjs"
   },
   "dependencies": {
     "@next/third-parties": "^16.1.6",
