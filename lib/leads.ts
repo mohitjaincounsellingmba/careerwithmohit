@@ -9,23 +9,38 @@ export async function submitLead(payload: Record<string, unknown>): Promise<{ su
   const course = String(payload.course || payload.program || payload.specialization || "");
   const details = typeof payload.details === "object" && payload.details !== null ? payload.details as Record<string, unknown> : {};
 
-  // 100% Flat, top-level string properties for Google Sheets compatibility
+  // 100% Flat, top-level string properties for Google Sheets compatibility (both lower & capitalized keys)
   const flatPayload: Record<string, string> = {
     id: String(payload.id || crypto.randomUUID()),
     name,
+    Name: name,
     number,
     phone: number,
+    Phone: number,
+    mobile: number,
+    Mobile: number,
     email: String(payload.email || ""),
-    location: String(payload.location || payload.city || ""),
+    Email: String(payload.email || ""),
+    location: String(payload.location || payload.city || "Online"),
+    Location: String(payload.location || payload.city || "Online"),
     course,
+    Course: course,
     program: course,
+    Program: course,
     source,
+    Source: source,
     message: String(payload.message || ""),
-    budget: String(payload.budget || ""),
-    preferredLocation: String(payload.preferredLocation || ""),
+    Message: String(payload.message || ""),
+    goal: String(payload.goal || payload.message || ""),
+    reason: String(payload.reason || ""),
+    budget: String(payload.budget || "Not Specified"),
+    preferredLocation: String(payload.preferredLocation || "Online"),
     college: String(payload.college || details.preferredUniversity || ""),
     preferredUniversity: String(details.preferredUniversity || payload.college || ""),
-    timestamp: new Date().toISOString(),
+    timestamp: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }),
+    Timestamp: new Date().toISOString(),
+    Date: new Date().toLocaleDateString('en-IN', { timeZone: 'Asia/Kolkata' }),
+    Time: new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' }),
   };
 
   for (const [key, val] of Object.entries(details)) {
@@ -54,17 +69,11 @@ export async function submitLead(payload: Record<string, unknown>): Promise<{ su
     console.warn("[Leads] Network/404 error calling /api/leads, falling back to direct Activepieces webhooks", err);
   }
 
-  // 2. Fallback: Directly invoke the appropriate Activepieces webhook from client
-  const isExplicitInquiryOrLead = /inquiry|lead|bot|download|newsletter|teacher|contact|admission|abroad|form|degree/i.test(`${source} ${String(payload.type || "")}`);
-  const isToolOrTest = !isExplicitInquiryOrLead && (
-    /calculator|mock test|mock|roadmap|score|predictor|quiz|test|tool/i.test(`${source} ${String(payload.type || "")}`) ||
-    "score" in payload || "percentile" in payload || "maxMarks" in payload || "responseSheetUrl" in payload || "totalMarks" in payload || "roadmapData" in payload || "targetExam" in payload
-  );
-
+  // 2. Fallback: Dispatch to all active webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces receives it
   const fallbackWebhooks = [
-    isToolOrTest
-      ? "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F"
-      : "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
+    "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
+    "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
+    "https://cloud.activepieces.com/api/v1/webhooks/1yBqzhTcnXyDOOBsL9B4p",
   ];
 
   try {

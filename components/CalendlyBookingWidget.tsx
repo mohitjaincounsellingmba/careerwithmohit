@@ -156,16 +156,16 @@ export function CalendlyBookingWidget({
     e.preventDefault();
     setFormError('');
 
-    const cleanName = name.trim();
-    const cleanPhone = phone.trim().replace(/\D/g, '');
+    const rawDigits = phone.trim().replace(/\D/g, '');
+    const cleanPhone = rawDigits.length >= 10 ? rawDigits.slice(-10) : rawDigits;
 
     if (!cleanName) {
       setFormError('Please enter your full name');
       return;
     }
 
-    if (!cleanPhone || cleanPhone.length < 10) {
-      setFormError('Please enter a valid 10-digit WhatsApp number');
+    if (!cleanPhone || cleanPhone.length !== 10) {
+      setFormError('Please enter a valid 10-digit WhatsApp mobile number');
       return;
     }
 
@@ -178,10 +178,13 @@ export function CalendlyBookingWidget({
         number: cleanPhone,
         phone: cleanPhone,
         email: email.trim(),
+        location: 'Online Consultation',
+        preferredLocation: 'Online',
+        budget: 'Not Specified',
         course: selectedCourse,
         program: selectedCourse,
         message: `Course: ${selectedCourse} | Purpose: ${selectedReason}${targetColleges ? ` | Colleges: ${targetColleges}` : ''}`,
-        source: 'Face-to-Face Google Meet Booking',
+        source: 'Inquiry - Face-to-Face Google Meet Booking',
         details: {
           targetCourse: selectedCourse,
           primaryReason: selectedReason,

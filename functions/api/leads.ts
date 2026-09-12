@@ -17,23 +17,38 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     const course = String(lead.course || lead.program || lead.specialization || "");
     const details = typeof lead.details === "object" && lead.details !== null ? lead.details as Record<string, unknown> : {};
 
-    // 100% Flat, top-level string properties for Google Sheets compatibility
+    // 100% Flat, top-level string properties for Google Sheets compatibility (both lower & capitalized keys)
     const cleanPayload: Record<string, string> = {
       id: String(lead.id || crypto.randomUUID()),
       name,
+      Name: name,
       number,
-      phone: number, // duplicate key so either phone or number works in Google Sheet mapping
+      phone: number,
+      Phone: number,
+      mobile: number,
+      Mobile: number,
       email: String(lead.email || ""),
-      location: String(lead.location || lead.city || ""),
+      Email: String(lead.email || ""),
+      location: String(lead.location || lead.city || "Online"),
+      Location: String(lead.location || lead.city || "Online"),
       course,
-      program: course, // duplicate key so either course or program works in Google Sheet mapping
+      Course: course,
+      program: course,
+      Program: course,
       source,
+      Source: source,
       message: String(lead.message || ""),
-      budget: String(lead.budget || ""),
-      preferredLocation: String(lead.preferredLocation || ""),
+      Message: String(lead.message || ""),
+      goal: String(lead.goal || lead.message || ""),
+      reason: String(lead.reason || ""),
+      budget: String(lead.budget || "Not Specified"),
+      preferredLocation: String(lead.preferredLocation || "Online"),
       college: String(lead.college || details.preferredUniversity || ""),
       preferredUniversity: String(details.preferredUniversity || lead.college || ""),
-      timestamp: new Date().toISOString(),
+      timestamp: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }),
+      Timestamp: new Date().toISOString(),
+      Date: new Date().toLocaleDateString('en-IN', { timeZone: 'Asia/Kolkata' }),
+      Time: new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' }),
     };
 
     // Also include any extra primitive string/number values from lead or details without nesting
@@ -48,31 +63,21 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       }
     }
 
-    // Determine whether the lead is from a Calculator / Mock Test / Tool vs Inquiry / Lead form / Chat bot
-    const isExplicitInquiryOrLead = /inquiry|lead|bot|download|newsletter|teacher|contact|admission|abroad|form|degree/i.test(`${source} ${String(lead.type || "")}`);
-    const isToolOrTest = !isExplicitInquiryOrLead && (
-      /calculator|mock test|mock|roadmap|score|predictor|quiz|test|tool/i.test(`${source} ${String(lead.type || "")}`) ||
-      "score" in lead || "percentile" in lead || "maxMarks" in lead || "responseSheetUrl" in lead || "totalMarks" in lead || "roadmapData" in lead || "targetExam" in lead
-    );
-
     const deadUrls = new Set([
       "https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2",
       "https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4"
     ]);
-    const urls = new Set<string>();
+    const urls = new Set<string>([
+      "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
+      "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
+      "https://cloud.activepieces.com/api/v1/webhooks/1yBqzhTcnXyDOOBsL9B4p",
+    ]);
 
-    if (isToolOrTest) {
-      // Calculator / Mock Test / Tools -> Webhook wjKhP0jGALa4bmUVYcw5F
-      urls.add("https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F");
-      if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
-        urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
-      }
-    } else {
-      // Inquiry Form / Lead Form / Chat Bot -> Webhook h3HoLiVtxuydbGOfr11F3
-      urls.add("https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3");
-      if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
-        urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
-      }
+    if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
+      urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
+    }
+    if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
+      urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
     }
 
     // Send to all candidate webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces always receives the lead
