@@ -124,6 +124,7 @@ export const metadata: Metadata = {
 
 import { DynamicHeroText } from '@/components/DynamicHeroText';
 import HomeMockTestSlider from '@/components/HomeMockTestSlider';
+import StudentCommunitySection from '@/components/StudentCommunitySection';
 import { JsonLd } from '@/components/JsonLd';
 import { HelpCircle, CheckCircle2 } from 'lucide-react';
 
@@ -293,6 +294,9 @@ export default function Home() {
 
       {/* MOCK TESTS SLIDER BANNER */}
       <HomeMockTestSlider />
+
+      {/* STUDENT COMMUNITY - WHATSAPP & TELEGRAM */}
+      <StudentCommunitySection />
 
       {/* SERVICES SECTION */}
       <section id="services" className="bg-white px-6 py-20 sm:px-12">

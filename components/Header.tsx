@@ -59,6 +59,7 @@ export function Header() {
     { name: 'About', href: '/about' },
     { name: 'Colleges', href: '/colleges' },
     { name: 'Online MBA', shortName: 'Online MBA', longName: 'Online Degrees', href: '/online-degree-certification' },
+    { name: 'Community', badge: 'Free', href: '/community' },
     { name: 'Blog', href: '/blog' },
   ];
 
@@ -150,7 +151,14 @@ export function Header() {
                         <span className="2xl:hidden">{link.shortName || link.name}</span>
                       </>
                     ) : (
-                      link.name
+                      <span className="inline-flex items-center gap-1">
+                        {link.name}
+                        {link.badge && (
+                          <span className="px-1.5 py-0.2 rounded-full text-[9px] font-bold bg-emerald-100 text-emerald-700 border border-emerald-200 uppercase tracking-wider">
+                            {link.badge}
+                          </span>
+                        )}
+                      </span>
                     )}
                     {isActive && (
                       <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
@@ -295,9 +303,13 @@ export function Header() {
                       }`}></span>
                       {link.name}
                     </div>
-                    {isActive && (
+                    {isActive ? (
                       <span className="text-[11px] font-semibold text-blue-600 bg-blue-100/60 px-2 py-0.5 rounded-md">Active</span>
-                    )}
+                    ) : link.badge ? (
+                      <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/80 border border-emerald-200 px-2 py-0.5 rounded-md uppercase tracking-wider">
+                        {link.badge}
+                      </span>
+                    ) : null}
                   </Link>
                 );
               })}
