@@ -156,6 +156,7 @@ export function CalendlyBookingWidget({
     e.preventDefault();
     setFormError('');
 
+    const cleanName = name.trim();
     const rawDigits = phone.trim().replace(/\D/g, '');
     const cleanPhone = rawDigits.length >= 10 ? rawDigits.slice(-10) : rawDigits;
 
