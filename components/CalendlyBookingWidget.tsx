@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { 
   Calendar, 
   Clock, 
@@ -9,14 +9,16 @@ import {
   ShieldAlert, 
   ArrowUpRight, 
   MessageCircle, 
-  GraduationCap, 
-  HelpCircle, 
   ShieldCheck, 
   Monitor, 
   Users, 
   Check, 
   Sparkles,
-  ArrowRight
+  ArrowRight,
+  User,
+  Phone,
+  Mail,
+  Loader2
 } from 'lucide-react';
 import { submitLead } from '@/lib/leads';
 
@@ -47,18 +49,35 @@ export function CalendlyBookingWidget({
   url = 'https://calendly.com/careerwithmohit-jain/30min',
   className = '',
 }: CalendlyBookingWidgetProps) {
+  // Step 1 Form States
+  const [name, setName] = useState<string>('');
+  const [phone, setPhone] = useState<string>('');
+  const [email, setEmail] = useState<string>('');
   const [selectedCourse, setSelectedCourse] = useState<string>('MBA / PGDM 2027-29');
   const [selectedReason, setSelectedReason] = useState<string>('Personalized College Shortlist (Dream / Target / Safe)');
   const [targetColleges, setTargetColleges] = useState<string>('');
+  
+  // Validation & Submission States
+  const [formError, setFormError] = useState<string>('');
+  const [isSubmittingLead, setIsSubmittingLead] = useState<boolean>(false);
   const [isStepConfirmed, setIsStepConfirmed] = useState<boolean>(false);
+
+  // Calendly Widget States
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [hasScriptError, setHasScriptError] = useState<boolean>(false);
+  const calendarRef = useRef<HTMLDivElement>(null);
 
-  // Construct embed URL with prefill context
-  const prefillNotes = encodeURIComponent(
-    `Course: ${selectedCourse} | Purpose: ${selectedReason}${targetColleges ? ` | Target Colleges: ${targetColleges}` : ''}`
-  );
-  const embedUrl = `${url}?hide_landing_page_details=0&hide_gdpr_banner=1&primary_color=2563eb&a1=${encodeURIComponent(selectedCourse)}&a2=${encodeURIComponent(selectedReason)}`;
+  // Construct embed URL with prefilled student name, email, and answers
+  const buildEmbedUrl = () => {
+    let base = `${url}?hide_landing_page_details=0&hide_gdpr_banner=1&primary_color=2563eb`;
+    if (name.trim()) base += `&name=${encodeURIComponent(name.trim())}`;
+    if (email.trim()) base += `&email=${encodeURIComponent(email.trim())}`;
+    base += `&a1=${encodeURIComponent(selectedCourse)}`;
+    base += `&a2=${encodeURIComponent(selectedReason + (targetColleges ? ` | Colleges: ${targetColleges}` : ''))}`;
+    return base;
+  };
+
+  const [embedUrl, setEmbedUrl] = useState<string>(buildEmbedUrl());
 
   useEffect(() => {
     // Add Calendly CSS link if not already present
@@ -99,36 +118,109 @@ export function CalendlyBookingWidget({
       return () => clearTimeout(timer);
     }
 
+    // Listen to Calendly scheduled event postMessage
+    const handleCalendlyMessage = (e: MessageEvent) => {
+      if (e.data && e.data.event === 'calendly.event_scheduled') {
+        // Log successful scheduled event
+        submitLead({
+          name: name.trim() || 'Calendly Student',
+          number: phone.trim() || 'N/A',
+          email: email.trim(),
+          course: selectedCourse,
+          message: `[Confirmed Scheduled Booking] ${selectedReason} | Colleges: ${targetColleges}`,
+          source: 'Google Meet Counselling (Calendly Confirmed)',
+          details: {
+            status: 'Confirmed Scheduled Slot',
+            course: selectedCourse,
+            reason: selectedReason,
+            targetColleges,
+          }
+        }).catch(err => console.error('Calendly scheduled event submission error:', err));
+      }
+    };
+
+    window.addEventListener('message', handleCalendlyMessage);
+
     const failsafe = setTimeout(() => {
       setIsLoading(false);
     }, 3500);
 
     return () => {
       clearTimeout(failsafe);
+      window.removeEventListener('message', handleCalendlyMessage);
     };
-  }, []);
+  }, [name, phone, email, selectedCourse, selectedReason, targetColleges]);
 
-  const handleConfirmStep = () => {
-    setIsStepConfirmed(true);
-    // Smooth scroll to the live calendar
-    const calendarEl = document.getElementById('live-calendly-picker');
-    if (calendarEl) {
-      calendarEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  // Handle Step 1 Confirmation & Lead Logging
+  const handleConfirmStep = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setFormError('');
+
+    const cleanName = name.trim();
+    const cleanPhone = phone.trim().replace(/\D/g, '');
+
+    if (!cleanName) {
+      setFormError('Please enter your full name');
+      return;
+    }
+
+    if (!cleanPhone || cleanPhone.length < 10) {
+      setFormError('Please enter a valid 10-digit WhatsApp number');
+      return;
+    }
+
+    setIsSubmittingLead(true);
+
+    try {
+      // 1. Immediately log lead into Google Sheets / Activepieces webhook
+      await submitLead({
+        name: cleanName,
+        number: cleanPhone,
+        phone: cleanPhone,
+        email: email.trim(),
+        course: selectedCourse,
+        program: selectedCourse,
+        message: `Course: ${selectedCourse} | Purpose: ${selectedReason}${targetColleges ? ` | Colleges: ${targetColleges}` : ''}`,
+        source: 'Face-to-Face Google Meet Booking',
+        details: {
+          targetCourse: selectedCourse,
+          primaryReason: selectedReason,
+          targetColleges: targetColleges.trim(),
+          sessionType: '1-on-1 Google Meet (30 Mins)',
+        }
+      });
+
+      // 2. Update Calendly prefill URL with the verified student details
+      setEmbedUrl(buildEmbedUrl());
+      setIsStepConfirmed(true);
+
+      // 3. Smooth scroll to the Calendly slot calendar
+      setTimeout(() => {
+        calendarRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 100);
+
+    } catch (err: any) {
+      console.warn('Lead submission warning:', err);
+      // Still allow student to proceed to Calendly calendar even if network glitched
+      setIsStepConfirmed(true);
+      calendarRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    } finally {
+      setIsSubmittingLead(false);
     }
   };
 
   return (
     <div className={`space-y-6 ${className}`}>
       
-      {/* STEP 1: Interactive Course & Purpose Confirmation */}
-      <div className="bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden">
+      {/* STEP 1: Interactive Course, Purpose & Contact Information */}
+      <form onSubmit={handleConfirmStep} className="bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden">
         <div className="bg-gradient-to-r from-blue-900 via-indigo-900 to-[#0A1E3D] text-white p-5 sm:p-6">
           <div className="flex flex-wrap items-center justify-between gap-3">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-200 text-xs font-semibold">
               <Sparkles className="w-3.5 h-3.5 text-amber-300" />
               <span>Step 1 of 2</span>
               <span className="text-blue-300">•</span>
-              <span className="text-white font-bold">Confirm Session Agenda</span>
+              <span className="text-white font-bold">Confirm Course &amp; Contact Details</span>
             </div>
             <div className="flex items-center gap-2 text-xs font-semibold text-emerald-300 bg-emerald-500/15 border border-emerald-400/30 px-2.5 py-1 rounded-full">
               <Video className="w-3.5 h-3.5" />
@@ -137,14 +229,88 @@ export function CalendlyBookingWidget({
           </div>
 
           <h3 className="text-lg sm:text-xl font-bold text-white mt-3">
-            Which course &amp; admission guidance do you need?
+            Tell Mohit What You Need Guidance On
           </h3>
           <p className="text-xs text-blue-200/80 mt-1 leading-relaxed">
-            Mohit prepares customized cutoffs and college reports before the video call based on your choice.
+            Your selections and contact details are sent directly to Mohit Jain so he prepares your customized cutoff sheet and B-school roadmap before the call.
           </p>
         </div>
 
         <div className="p-5 sm:p-6 space-y-5">
+          
+          {/* Contact Details Row (Name & WhatsApp) */}
+          <div className="bg-slate-50/90 rounded-2xl p-4 border border-slate-200 space-y-3">
+            <div className="text-xs font-bold text-slate-800 uppercase tracking-wide flex items-center justify-between">
+              <span>Your Contact Details (For Meeting Link &amp; WhatsApp Alert):</span>
+              <span className="text-[11px] text-blue-600 font-semibold normal-case">Required</span>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+              {/* Name Input */}
+              <div>
+                <label className="block text-[11px] font-semibold text-slate-600 mb-1">
+                  Full Name *
+                </label>
+                <div className="relative">
+                  <User className="w-4 h-4 text-slate-400 absolute left-3 top-3 pointer-events-none" />
+                  <input
+                    type="text"
+                    required
+                    placeholder="e.g. Rahul Sharma"
+                    value={name}
+                    onChange={(e) => setName(e.target.value)}
+                    className="w-full pl-9 pr-3 py-2 text-xs bg-white border border-slate-200 rounded-xl focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400"
+                  />
+                </div>
+              </div>
+
+              {/* WhatsApp Number Input */}
+              <div>
+                <label className="block text-[11px] font-semibold text-slate-600 mb-1">
+                  WhatsApp Number * (For Meeting Link)
+                </label>
+                <div className="relative flex">
+                  <span className="inline-flex items-center px-2.5 rounded-l-xl border border-r-0 border-slate-200 bg-slate-100 text-slate-700 text-xs font-bold">
+                    +91
+                  </span>
+                  <input
+                    type="tel"
+                    required
+                    maxLength={10}
+                    placeholder="10-digit mobile number"
+                    value={phone}
+                    onChange={(e) => setPhone(e.target.value.replace(/\D/g, ''))}
+                    className="w-full px-3 py-2 text-xs bg-white border border-slate-200 rounded-r-xl focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 font-medium"
+                  />
+                </div>
+              </div>
+
+              {/* Email Input (Optional) */}
+              <div className="sm:col-span-2 lg:col-span-1">
+                <label className="block text-[11px] font-semibold text-slate-600 mb-1">
+                  Email Address (Optional)
+                </label>
+                <div className="relative">
+                  <Mail className="w-4 h-4 text-slate-400 absolute left-3 top-3 pointer-events-none" />
+                  <input
+                    type="email"
+                    placeholder="e.g. rahul@gmail.com"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    className="w-full pl-9 pr-3 py-2 text-xs bg-white border border-slate-200 rounded-xl focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400"
+                  />
+                </div>
+              </div>
+            </div>
+
+            {formError && (
+              <p className="text-xs text-red-600 font-semibold flex items-center gap-1.5 mt-1">
+                <span>⚠️</span>
+                <span>{formError}</span>
+              </p>
+            )}
+          </div>
+
           {/* 1. Target Course Selector */}
           <div>
             <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-2.5 flex items-center justify-between">
@@ -226,29 +392,38 @@ export function CalendlyBookingWidget({
             />
           </div>
 
-          {/* Confirmed Summary Bar & Button */}
+          {/* Confirmed Summary Bar & Submit Button */}
           <div className="bg-slate-50 border border-slate-200/90 rounded-2xl p-4 flex flex-col sm:flex-row items-center justify-between gap-3">
             <div className="text-left w-full sm:w-auto">
-              <div className="text-[11px] font-bold text-slate-500 uppercase tracking-wide">Selected Focus:</div>
+              <div className="text-[11px] font-bold text-slate-500 uppercase tracking-wide">Selected Agenda:</div>
               <div className="text-xs font-bold text-blue-900 flex items-center gap-1.5 mt-0.5">
                 <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
                 <span>{selectedCourse}</span>
                 <span className="text-slate-300">•</span>
-                <span className="text-slate-700 font-medium truncate max-w-[240px] sm:max-w-[320px]">{selectedReason}</span>
+                <span className="text-slate-700 font-medium truncate max-w-[220px] sm:max-w-[300px]">{selectedReason}</span>
               </div>
             </div>
 
             <button
-              type="button"
-              onClick={handleConfirmStep}
-              className="w-full sm:w-auto px-5 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 active:scale-95 text-white text-xs font-bold transition-all shadow-md shadow-blue-500/20 flex items-center justify-center gap-2 cursor-pointer shrink-0"
+              type="submit"
+              disabled={isSubmittingLead}
+              className="w-full sm:w-auto px-6 py-3 rounded-xl bg-blue-600 hover:bg-blue-700 active:scale-95 text-white text-xs font-bold transition-all shadow-md shadow-blue-500/25 flex items-center justify-center gap-2 cursor-pointer shrink-0 disabled:opacity-75"
             >
-              <span>Confirm &amp; Pick Slot</span>
-              <ArrowRight className="w-3.5 h-3.5" />
+              {isSubmittingLead ? (
+                <>
+                  <Loader2 className="w-4 h-4 animate-spin" />
+                  <span>Saving Agenda &amp; Loading Calendar...</span>
+                </>
+              ) : (
+                <>
+                  <span>Save Details &amp; Pick Slot</span>
+                  <ArrowRight className="w-4 h-4" />
+                </>
+              )}
             </button>
           </div>
         </div>
-      </div>
+      </form>
 
       {/* GOOGLE MEET FACE-TO-FACE TRUST BOX */}
       <div className="bg-gradient-to-br from-[#0F172A] via-[#1E293B] to-[#0F172A] text-white rounded-3xl p-5 sm:p-6 border border-slate-700/60 shadow-lg">
@@ -301,7 +476,11 @@ export function CalendlyBookingWidget({
       </div>
 
       {/* STEP 2: Live Calendly Scheduling Widget */}
-      <div id="live-calendly-picker" className="relative w-full bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden">
+      <div 
+        id="live-calendly-picker" 
+        ref={calendarRef} 
+        className="relative w-full bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden scroll-mt-20"
+      >
         {/* Header Bar */}
         <div className="bg-gradient-to-r from-blue-900 via-indigo-900 to-slate-900 text-white px-5 py-3.5 flex flex-wrap items-center justify-between gap-3 text-xs sm:text-sm">
           <div className="flex items-center gap-2">
@@ -322,21 +501,19 @@ export function CalendlyBookingWidget({
         </div>
 
         {/* Selected Context Reminder Banner */}
-        <div className="bg-blue-50/90 border-b border-blue-100 px-5 py-2.5 flex items-center justify-between text-xs text-blue-900">
+        <div className="bg-blue-50/90 border-b border-blue-100 px-5 py-2.5 flex flex-wrap items-center justify-between gap-2 text-xs text-blue-900">
           <div className="flex items-center gap-2 truncate">
-            <span className="font-bold text-blue-700 shrink-0">Session Topic:</span>
-            <span className="font-medium truncate">{selectedCourse} — {selectedReason}</span>
+            <span className="font-bold text-blue-700 shrink-0">Confirmed Agenda:</span>
+            <span className="font-semibold">{selectedCourse}</span>
+            <span className="text-slate-400">•</span>
+            <span className="text-slate-700 truncate">{selectedReason}</span>
           </div>
-          <a
-            href="#top"
-            onClick={(e) => {
-              e.preventDefault();
-              window.scrollTo({ top: 150, behavior: 'smooth' });
-            }}
-            className="text-blue-600 hover:text-blue-800 text-[11px] font-bold underline shrink-0 ml-2"
-          >
-            Change Topic
-          </a>
+          {name && (
+            <div className="flex items-center gap-1.5 text-emerald-700 font-bold text-[11px] bg-emerald-100/80 px-2.5 py-0.5 rounded-md border border-emerald-200">
+              <Check className="w-3 h-3 text-emerald-600" />
+              <span>Saved for: {name} (+91 {phone})</span>
+            </div>
+          )}
         </div>
 
         {/* Loading Skeleton */}
@@ -361,7 +538,7 @@ export function CalendlyBookingWidget({
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3">
               <a
-                href={url}
+                href={embedUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white rounded-xl text-xs font-bold shadow-md"
