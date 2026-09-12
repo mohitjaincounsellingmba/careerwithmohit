@@ -15,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const routes = [
     '',
     '/community',
+    '/book-session',
     '/news',
     '/blog',
     '/about',

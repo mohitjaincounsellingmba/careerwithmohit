@@ -1,5 +1,8 @@
 # Legacy URLs retained from the Vercel deployment. Static rules must precede
 # the two wildcard rules at the bottom.
+/schedule-counselling /book-session 301
+/book-call /book-session 301
+/calendly /book-session 301
 /iim-placements /top-tier-mba-colleges 301
 /tools/roadmap-calculator /calculator/career-roadmap 301
 /tools/mock-tests /mock-tests 301

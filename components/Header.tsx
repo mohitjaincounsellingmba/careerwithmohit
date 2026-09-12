@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Menu, X, Phone, ChevronDown, Sparkles, GraduationCap, Building2, Laptop, Award, Globe, ArrowUpRight } from 'lucide-react';
+import { Menu, X, Phone, ChevronDown, Sparkles, GraduationCap, Building2, Laptop, Award, Globe, ArrowUpRight, Calendar, ArrowRight } from 'lucide-react';
 import { SearchInput } from './SearchInput';
 import { Logo } from './Logo';
 
@@ -233,6 +233,18 @@ export function Header() {
           <div className="flex items-center gap-1.5 sm:gap-2">
             <SearchInput />
 
+            {/* Book Free Call Button */}
+            <Link 
+              href="/book-session" 
+              prefetch={false}
+              className="inline-flex h-8.5 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-700 px-2 sm:px-2.5 xl:px-3 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20"
+              title="Schedule free 1-on-1 MBA counselling with Mohit Jain"
+            >
+              <Calendar className="h-3.5 w-3.5 text-amber-300 shrink-0" />
+              <span className="hidden sm:inline">Book Free Call</span>
+              <span className="sm:hidden">Book</span>
+            </Link>
+
             {/* WhatsApp button - sleek & compact */}
             <a 
               href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance" 
@@ -283,6 +295,28 @@ export function Header() {
             <div className="mb-2 block lg:hidden">
               <SearchInput isMobile={true} onSearch={() => setIsMobileMenuOpen(false)} />
             </div>
+
+            {/* High-Impact Mobile Booking Card */}
+            <Link
+              href="/book-session"
+              prefetch={false}
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="flex items-center justify-between p-3.5 rounded-2xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 text-white shadow-lg shadow-blue-600/20 active:scale-98 transition-all"
+            >
+              <div className="flex items-center gap-3">
+                <div className="w-9 h-9 rounded-xl bg-white/15 flex items-center justify-center text-amber-300 shrink-0">
+                  <Calendar className="w-5 h-5" />
+                </div>
+                <div className="text-left">
+                  <div className="text-xs font-extrabold flex items-center gap-1.5">
+                    <span>Book Free 1-on-1 Call</span>
+                    <span className="text-[9px] bg-amber-400 text-slate-950 font-black px-1.5 py-0.2 rounded-full">30 MIN</span>
+                  </div>
+                  <div className="text-[11px] text-blue-100 font-normal">Pick an open time slot on Calendly</div>
+                </div>
+              </div>
+              <ArrowRight className="w-4 h-4 text-white/80 shrink-0" />
+            </Link>
             
             <div className="flex flex-col gap-1">
               {navLinks.map((link) => {

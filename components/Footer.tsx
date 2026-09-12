@@ -61,6 +61,7 @@ export function Footer() {
       { name: 'Free Mock Test Hub', href: '/mock-tests', badge: 'Free' },
     ],
     resources: [
+      { name: 'Book Free 1-on-1 Call (Calendly)', href: '/book-session', badge: 'Popular' },
       { name: 'Student Communities (WhatsApp & Telegram)', href: '/community', badge: 'Join' },
       { name: 'Attempt Skills & Get Certificate', href: '/skill-assessment-certificate', badge: 'Certified' },
       { name: 'ATS Resume & CV Builder', href: '/tools/ats-resume-builder', badge: 'Free' },
@@ -126,11 +127,11 @@ export function Footer() {
                 <span>WhatsApp Profile Review</span>
               </a>
               <Link 
-                href="/inquiry" 
+                href="/book-session" 
                 prefetch={false}
                 className="w-full sm:w-auto rounded-xl bg-amber-400 hover:bg-amber-300 active:scale-95 text-slate-950 px-7 py-3.5 font-bold text-sm sm:text-base transition-all shadow-lg shadow-amber-950/20 flex items-center justify-center gap-2 text-center"
               >
-                <span>Book Consultation</span>
+                <span>Book Free 1-on-1 Call</span>
                 <ArrowRight size={16} />
               </Link>
             </div>
