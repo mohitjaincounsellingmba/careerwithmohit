@@ -11,7 +11,7 @@ keywords:
   - kj somaiya average package 2025
   - weschool mumbai placement report
 faqs:
-  - question: Which college has lower fees: K J Somaiya or Welingkar Mumbai?
+  - question: "Which college has lower fees: K J Somaiya or Welingkar Mumbai?"
     answer: "Welingkar Mumbai has lower fees. Its 2-Year PGDM tuition fee is approximately ₹14.5–15.5 Lakhs (and just ₹7 Lakhs for the MMS program via MAH CET), whereas K J Somaiya charges approximately ₹20.8–21.5 Lakhs for its 2-year MBA program."
   - question: What are the cutoffs for K J Somaiya and Welingkar Mumbai?
     answer: "K J Somaiya requires 83–85 percentile in CAT/XAT, 222–225+ in NMAT, or 98+ percentile in CMAT. Welingkar Mumbai requires 75–80 percentile in CAT/XAT, 80–85 percentile in CMAT/ATMA, or 99.1+ percentile in MAH MBA CET for MMS."

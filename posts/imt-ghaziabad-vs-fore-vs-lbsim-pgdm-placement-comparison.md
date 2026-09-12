@@ -11,9 +11,9 @@ keywords:
   - lbsim vs fore school which is better
   - best pgdm in delhi ncr imt fore lbsim
 faqs:
-  - question: Which college is better for Marketing: IMT Ghaziabad, FORE, or LBSIM?
+  - question: "Which college is better for Marketing: IMT Ghaziabad, FORE, or LBSIM?"
     answer: "IMT Ghaziabad is the undisputed market leader for Marketing in Delhi NCR and among the top 5 in India. It attracts FMCG and retail giants like HUL, ITC, Procter & Gamble, Reckitt, and Marico."
-  - question: Which college is best for Finance: FORE or LBSIM?
+  - question: "Which college is best for Finance: FORE or LBSIM?"
     answer: "LBSIM (Lal Bahadur Shastri Institute of Management) has an established reputation as a finance powerhouse. With top investment banks, research houses, and BFSI firms (like Morgan Stanley, Deloitte, EY, CRISIL, and Nomura) hiring on campus, LBSIM often edges out FORE in core equity and treasury roles."
   - question: How do the fees compare between IMT Ghaziabad, FORE, and LBSIM?
     answer: "IMT Ghaziabad is the most expensive at approximately ₹21.5 Lakhs. FORE School of Management charges around ₹18.5 Lakhs, while LBSIM Delhi is the most economical at approximately ₹15.5 Lakhs."

@@ -13,7 +13,7 @@ keywords:
 faqs:
   - question: Is SNAP easier than NMAT?
     answer: "In terms of question difficulty, SNAP questions are generally simpler, direct, and straightforward compared to NMAT. However, SNAP is an intense speed-test (60 questions in 60 minutes with -0.25 negative marking), whereas NMAT has 108 questions in 120 minutes with zero negative marking and sectional time limits."
-  - question: Which exam gives access to higher placement packages: SNAP or NMAT?
+  - question: "Which exam gives access to higher placement packages: SNAP or NMAT?"
     answer: "Both exams provide access to top-tier business schools with 15+ LPA to 26+ LPA packages. NMAT unlocks NMIMS Mumbai (₹26.6 LPA avg), K J Somaiya (₹12.8 LPA), and TAPMI (₹14.8 LPA). SNAP unlocks SIBM Pune (₹28.1 LPA avg), SCMHRD Pune (₹23.7 LPA), and SIIB Pune (₹15.2 LPA)."
   - question: Can you take multiple attempts in SNAP and NMAT?
     answer: "Yes. SNAP allows up to 3 attempts in December, and the best score among the three is considered. NMAT allows 1 main attempt and up to 2 retakes within a 75-day testing window (October to December), with the best score taken by most participating institutes."
