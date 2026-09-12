@@ -24,24 +24,24 @@ import { CalendlyBookingWidget } from '@/components/CalendlyBookingWidget';
 import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
-  title: "Book Free 1-on-1 MBA & Career Counselling Session with Mohit Jain",
-  description: "Schedule a free 30-minute online 1-on-1 counselling session with Mohit Jain (IIM-B & FMS credentials). Get personalized B-school shortlisting, CAT/XAT score strategy, and direct admission clarity.",
+  title: "Book Free 1-on-1 Face-to-Face Video Counselling with Mohit Jain (Google Meet)",
+  description: "Schedule a free 30-minute 1-on-1 face-to-face video counselling session on Google Meet with Mohit Jain (IIM-B & FMS credentials). Live screen sharing of B-school cutoffs, direct admission guidance, and profile reviews.",
   keywords: [
-    "book MBA counselling session",
-    "free MBA mentorship call",
+    "book face to face MBA counselling",
+    "google meet MBA counselling",
+    "free 1 on 1 video counselling Mohit Jain",
+    "direct MBA admission google meet",
+    "CAT 2026 strategy video call",
+    "face to face career counselling",
     "Mohit Jain counselling",
-    "MBA admission consultation",
-    "CAT 2026 strategy call",
-    "direct MBA admission consultation",
-    "1 on 1 career guidance Mohit Jain",
-    "schedule counselling session"
+    "MBA admission consultation"
   ],
   alternates: {
     canonical: "/book-session",
   },
   openGraph: {
-    title: "Book Free 1-on-1 Online Counselling Session | CareerWithMohit",
-    description: "Schedule your free 30-minute 1-on-1 MBA & career mentorship video call with Mohit Jain. Pick an open slot on Calendly.",
+    title: "Book Free Face-to-Face Video Counselling on Google Meet | CareerWithMohit",
+    description: "Schedule your free 30-minute 1-on-1 face-to-face MBA & career counselling video session with Mohit Jain on Google Meet.",
     url: "/book-session",
     siteName: "CareerWithMohit",
     type: "website",
@@ -50,14 +50,14 @@ export const metadata: Metadata = {
         url: "https://www.careerwithmohit.online/og-image.webp",
         width: 1200,
         height: 630,
-        alt: "Book Free 1-on-1 MBA Counselling Session - Mohit Jain",
+        alt: "Book Free Face-to-Face MBA Counselling Session - Mohit Jain",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Book Free 1-on-1 Online Counselling Session | CareerWithMohit",
-    description: "Schedule your free 30-minute 1-on-1 MBA & career mentorship video call with Mohit Jain. Pick an open slot on Calendly.",
+    title: "Book Free Face-to-Face Video Counselling on Google Meet | CareerWithMohit",
+    description: "Schedule your free 30-minute 1-on-1 face-to-face MBA & career counselling video session with Mohit Jain on Google Meet.",
     images: ["https://www.careerwithmohit.online/og-image.webp"],
   },
 };
@@ -150,24 +150,24 @@ export default function BookSessionPage() {
           <nav className="flex items-center gap-2 text-xs text-blue-200/70 mb-6" aria-label="Breadcrumb">
             <Link href="/" className="hover:text-white transition-colors">Home</Link>
             <span>/</span>
-            <span className="text-white font-medium">Book Mentorship Session</span>
+            <span className="text-white font-medium">Face-to-Face Video Counselling</span>
           </nav>
 
           <div className="max-w-3xl">
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-500/15 border border-blue-400/30 text-blue-200 text-xs font-semibold mb-5 backdrop-blur-sm">
-              <Sparkles className="w-3.5 h-3.5 text-amber-300 animate-spin" style={{ animationDuration: '4s' }} />
-              <span>Free 1-on-1 Mentorship (30 Mins)</span>
+              <Video className="w-3.5 h-3.5 text-amber-300" />
+              <span>Face-to-Face Google Meet (30 Mins)</span>
               <span className="text-blue-300">•</span>
-              <span className="text-emerald-300 font-bold">Limited Slots Daily</span>
+              <span className="text-emerald-300 font-bold">100% Free &amp; Unbiased</span>
             </div>
 
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight mb-4">
-              Schedule Your Free 1-on-1 <span className="bg-gradient-to-r from-blue-400 via-indigo-300 to-amber-300 bg-clip-text text-transparent">MBA &amp; Career Counselling</span> Session
+              Book Free 1-on-1 <span className="bg-gradient-to-r from-blue-400 via-indigo-300 to-amber-300 bg-clip-text text-transparent">Face-to-Face Video Counselling</span> with Mohit Jain
             </h1>
 
             <p className="text-base sm:text-lg text-slate-300 font-normal leading-relaxed mb-6">
-              Get direct clarity with <strong className="text-white">Mohit Jain</strong> (IIM Bangalore &amp; FMS Delhi credentials). 
-              Evaluate your profile, build your personalized college shortlist, and map out high-ROI MBA admissions.
+              Direct video consultation on <strong className="text-white">Google Meet</strong>. See live screen-shared cutoff audits, 
+              personalized Dream/Target/Safe B-school shortlists, and genuine direct admission guidance without sales pressure.
             </p>
 
             {/* Credibility Badges */}
@@ -177,16 +177,16 @@ export default function BookSessionPage() {
                 <div className="text-[11px] text-slate-300 font-medium">Students Mentored</div>
               </div>
               <div className="bg-white/5 border border-white/10 rounded-2xl p-3 text-center backdrop-blur-xs">
-                <div className="text-xl sm:text-2xl font-black text-emerald-400">98.4%</div>
-                <div className="text-[11px] text-slate-300 font-medium">Admission Success</div>
+                <div className="text-xl sm:text-2xl font-black text-emerald-400">Google Meet</div>
+                <div className="text-[11px] text-slate-300 font-medium">Face-to-Face Video</div>
               </div>
               <div className="bg-white/5 border border-white/10 rounded-2xl p-3 text-center backdrop-blur-xs">
-                <div className="text-xl sm:text-2xl font-black text-blue-400">30 Min</div>
-                <div className="text-[11px] text-slate-300 font-medium">Focused Video Call</div>
+                <div className="text-xl sm:text-2xl font-black text-blue-400">Live Screen</div>
+                <div className="text-[11px] text-slate-300 font-medium">Verified Cutoff Data</div>
               </div>
               <div className="bg-white/5 border border-white/10 rounded-2xl p-3 text-center backdrop-blur-xs">
                 <div className="text-xl sm:text-2xl font-black text-purple-400">₹0 Free</div>
-                <div className="text-[11px] text-slate-300 font-medium">Zero Hidden Fees</div>
+                <div className="text-[11px] text-slate-300 font-medium">No Hidden Charges</div>
               </div>
             </div>
           </div>

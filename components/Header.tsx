@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Menu, X, Phone, ChevronDown, Sparkles, GraduationCap, Building2, Laptop, Award, Globe, ArrowUpRight, Calendar, ArrowRight } from 'lucide-react';
+import { Menu, X, Phone, ChevronDown, Sparkles, GraduationCap, Building2, Laptop, Award, Globe, ArrowUpRight, Calendar, ArrowRight, Video } from 'lucide-react';
 import { SearchInput } from './SearchInput';
 import { Logo } from './Logo';
 
@@ -257,15 +257,18 @@ export function Header() {
               <Phone className="h-3.5 w-3.5" />
             </Link>
 
-            {/* Book Free Call Button */}
+            {/* Book Free Face-to-Face Counselling Button */}
             <Link 
               href="/book-session" 
               prefetch={false}
-              className="inline-flex h-8.5 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-700 px-2.5 sm:px-3.5 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20 whitespace-nowrap"
-              title="Schedule free 1-on-1 MBA counselling with Mohit Jain"
+              className="inline-flex h-8.5 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-700 px-2.5 sm:px-3 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20 whitespace-nowrap"
+              title="Book Free Face-to-Face 1-on-1 Video Counselling on Google Meet"
             >
-              <Calendar className="h-3.5 w-3.5 text-amber-300 shrink-0" />
-              <span>Book Free Call</span>
+              <Video className="h-3.5 w-3.5 text-amber-300 shrink-0" />
+              <span>Face-to-Face Counselling</span>
+              <span className="hidden xl:inline px-1 py-0.2 rounded text-[9px] font-black bg-emerald-400 text-slate-950 uppercase tracking-wide">
+                Free
+              </span>
             </Link>
 
             {/* Mobile Hamburger Toggle (Visible below lg) */}
@@ -303,14 +306,14 @@ export function Header() {
             >
               <div className="flex items-center gap-3">
                 <div className="w-9 h-9 rounded-xl bg-white/15 flex items-center justify-center text-amber-300 shrink-0">
-                  <Calendar className="w-5 h-5" />
+                  <Video className="w-5 h-5" />
                 </div>
                 <div className="text-left">
                   <div className="text-xs font-extrabold flex items-center gap-1.5">
-                    <span>Book Free 1-on-1 Call</span>
-                    <span className="text-[9px] bg-amber-400 text-slate-950 font-black px-1.5 py-0.2 rounded-full">30 MIN</span>
+                    <span>Face-to-Face Counselling</span>
+                    <span className="text-[9px] bg-emerald-400 text-slate-950 font-black px-1.5 py-0.2 rounded-full">FREE</span>
                   </div>
-                  <div className="text-[11px] text-blue-100 font-normal">Pick an open time slot on Calendly</div>
+                  <div className="text-[11px] text-blue-100 font-normal">1-on-1 Google Meet Session with Mohit</div>
                 </div>
               </div>
               <ArrowRight className="w-4 h-4 text-white/80 shrink-0" />

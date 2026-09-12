@@ -131,7 +131,7 @@ export function Footer() {
                 prefetch={false}
                 className="w-full sm:w-auto rounded-xl bg-amber-400 hover:bg-amber-300 active:scale-95 text-slate-950 px-7 py-3.5 font-bold text-sm sm:text-base transition-all shadow-lg shadow-amber-950/20 flex items-center justify-center gap-2 text-center"
               >
-                <span>Book Free 1-on-1 Call</span>
+                <span>Book Face-to-Face Counselling</span>
                 <ArrowRight size={16} />
               </Link>
             </div>
