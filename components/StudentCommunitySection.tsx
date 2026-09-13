@@ -1,5 +1,3 @@
-"use client";
-
 import Link from 'next/link';
 import { Sparkles, ArrowRight, ShieldCheck, CheckCircle2, Users, Bell, BookOpen, MessageCircle } from 'lucide-react';
 import { COMMUNITY_CONFIG } from '@/data/communityLinks';

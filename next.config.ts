@@ -5,6 +5,14 @@ const nextConfig: NextConfig = {
   // required at request time.
   output: "export",
   trailingSlash: true,
+  compress: true,
+  reactStrictMode: true,
+  experimental: {
+    optimizePackageImports: ["lucide-react", "gray-matter", "fuse.js"],
+  },
+  compiler: {
+    removeConsole: process.env.NODE_ENV === "production" ? { exclude: ["error", "warn"] } : false,
+  },
   images: {
     // The Next image optimiser is a server feature. Remote images remain
     // available and are loaded directly by the browser on a static host.

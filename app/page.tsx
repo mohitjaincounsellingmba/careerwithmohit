@@ -174,9 +174,9 @@ export default function Home() {
       {/* HERO SECTION - MODERN EDTECH DISCOVERY PORTAL */}
       <section className="relative overflow-hidden bg-gradient-to-b from-[#0A192F] via-[#0F2744] to-[#123058] text-white px-6 pt-20 pb-20 sm:px-12 sm:pt-28 sm:pb-28 lg:pt-32 lg:pb-32 border-b border-blue-900/40">
         {/* Soft Ambient Background Glows */}
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[850px] h-[360px] bg-blue-500/15 blur-[120px] pointer-events-none rounded-full" />
-        <div className="absolute -bottom-24 -right-24 w-96 h-96 bg-indigo-500/15 blur-[100px] pointer-events-none rounded-full" />
-        <div className="absolute -top-24 -left-24 w-80 h-80 bg-cyan-500/10 blur-[90px] pointer-events-none rounded-full" />
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[850px] h-[360px] bg-blue-500/15 blur-[120px] pointer-events-none rounded-full blur-glow" />
+        <div className="absolute -bottom-24 -right-24 w-96 h-96 bg-indigo-500/15 blur-[100px] pointer-events-none rounded-full blur-glow" />
+        <div className="absolute -top-24 -left-24 w-80 h-80 bg-cyan-500/10 blur-[90px] pointer-events-none rounded-full blur-glow" />
 
         <div className="relative mx-auto max-w-7xl text-center z-10">
           {/* Glowing Status Pill */}
@@ -299,7 +299,7 @@ export default function Home() {
       <StudentCommunitySection />
 
       {/* SERVICES SECTION */}
-      <section id="services" className="bg-white px-6 py-20 sm:px-12">
+      <section id="services" className="bg-white px-6 py-20 sm:px-12 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-14 md:flex md:items-end md:justify-between border-b border-slate-200 pb-8">
             <div className="max-w-2xl">
@@ -351,7 +351,7 @@ export default function Home() {
       </section>
 
       {/* TOP TIER MBA COLLEGES SECTION */}
-      <section id="top-tier-mba" className="bg-slate-50 px-6 py-20 sm:px-12 border-t border-slate-200 relative overflow-hidden">
+      <section id="top-tier-mba" className="bg-slate-50 px-6 py-20 sm:px-12 border-t border-slate-200 relative overflow-hidden content-auto">
         <div className="mx-auto max-w-7xl relative z-10">
           <div className="mb-14 md:flex md:items-end md:justify-between border-b border-slate-200 pb-8">
             <div className="max-w-2xl">
@@ -434,7 +434,7 @@ export default function Home() {
       </section>
 
       {/* NEWS SECTION */}
-      <section id="news" className="bg-white px-6 py-20 sm:px-12 border-t border-slate-200">
+      <section id="news" className="bg-white px-6 py-20 sm:px-12 border-t border-slate-200 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-14 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
             <div className="max-w-2xl">
@@ -512,7 +512,7 @@ export default function Home() {
       </section>
 
       {/* ARTICLES SECTION */}
-      <section id="articles" className="bg-slate-50 px-6 py-20 sm:px-12 border-t border-slate-200">
+      <section id="articles" className="bg-slate-50 px-6 py-20 sm:px-12 border-t border-slate-200 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-14 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
             <h2 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900 flex flex-wrap items-center gap-3">
@@ -556,7 +556,7 @@ export default function Home() {
       </section>
 
       {/* AI KNOWLEDGE & FAQ SECTION */}
-      <section id="ai-fast-facts" className="bg-white px-6 py-20 sm:px-12 border-t border-slate-200">
+      <section id="ai-fast-facts" className="bg-white px-6 py-20 sm:px-12 border-t border-slate-200 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-14 border-b border-slate-200 pb-8">
             <span className="inline-block px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider mb-3">

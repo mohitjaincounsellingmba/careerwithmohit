@@ -4,16 +4,17 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
-import Script from "next/script";
-import dynamic from 'next/dynamic';
-
-const InquiryPopup = dynamic(() => import('@/components/InquiryPopup').then(mod => mod.InquiryPopup));
-const BotInquiryPopup = dynamic(() => import('@/components/BotInquiryPopup').then(mod => mod.BotInquiryPopup));
+import { ClientWidgets } from "@/components/ClientWidgets";
+import { DeferredAnalytics } from "@/components/DeferredAnalytics";
 import { AnalyticsTracker } from "@/components/AnalyticsTracker";
 
 const outfit = Outfit({
   variable: "--font-outfit",
   subsets: ["latin"],
+  display: "swap",
+  preload: true,
+  fallback: ["system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "sans-serif"],
+  adjustFontFallback: true,
 });
 
 export const metadata: Metadata = {
@@ -277,28 +278,13 @@ export default function RootLayout({
         className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
       >
         <AnalyticsTracker />
+        <DeferredAnalytics />
         <Header />
-        <InquiryPopup />
-        <BotInquiryPopup />
+        <ClientWidgets />
         <main className="flex-grow pb-24 md:pb-32">
           {children}
         </main>
         <Footer />
-        {/* Combined Google Analytics and Ads Tag */}
-        <Script
-          async
-          src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID || "G-448JRKP87B"}`}
-          strategy="lazyOnload"
-        />
-        <Script id="google-analytics-ads" strategy="lazyOnload">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${process.env.NEXT_PUBLIC_GA_ID || "G-448JRKP87B"}');
-            gtag('config', 'AW-18052249575');
-          `}
-        </Script>
       </body>
     </html>
   );

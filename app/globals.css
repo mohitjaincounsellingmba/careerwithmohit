@@ -24,6 +24,11 @@
   --font-body: var(--font-outfit);
 }
 
+html {
+  text-rendering: optimizeSpeed;
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
   background-color: var(--color-background);
   color: var(--color-foreground);
@@ -188,4 +193,25 @@ body {
 }
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
   background: #94a3b8;
+}
+
+/* Performance: defer off-screen rendering of heavy sections */
+.content-auto {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 500px;
+}
+
+/* GPU hardware acceleration for background glow effects to prevent mobile paint jank */
+.blur-glow {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

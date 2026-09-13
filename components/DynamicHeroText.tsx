@@ -6,9 +6,9 @@ const disciplines = ["MBA", "BTECH", "BBA", "BCA", "LAW", "DESIGN"];
 
 export function DynamicHeroText() {
   const [index, setIndex] = useState(0);
-  const [displayText, setDisplayText] = useState("");
+  const [displayText, setDisplayText] = useState("MBA");
   const [isDeleting, setIsDeleting] = useState(false);
-  const [speed, setSpeed] = useState(150);
+  const [speed, setSpeed] = useState(2000);
 
   useEffect(() => {
     const handleTyping = () => {
@@ -39,10 +39,10 @@ export function DynamicHeroText() {
 
   return (
     <span className="inline-flex items-baseline min-h-[1.1em]">
-      <span className="text-amber-300 font-extrabold tracking-tight transition-all duration-200">
+      <span className="text-amber-300 font-extrabold tracking-tight transition-all duration-200 inline-block min-w-[2.6ch] text-left">
         {displayText}
       </span>
-      <span className="ml-1.5 inline-block w-1.5 h-[0.8em] bg-amber-400 rounded-sm animate-pulse" />
+      <span className="ml-1 inline-block w-1.5 h-[0.8em] bg-amber-400 rounded-sm animate-pulse" />
     </span>
   );
 }

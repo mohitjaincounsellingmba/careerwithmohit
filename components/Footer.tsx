@@ -22,21 +22,39 @@ export function Footer() {
 
   useEffect(() => {
     let ignore = false;
+    let timerId: NodeJS.Timeout;
+
     const fetchVisits = async () => {
       try {
-        const response = await fetch("https://api.counterapi.dev/v1/careerwithmohit/visits/up");
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 2500);
+
+        const response = await fetch("https://api.counterapi.dev/v1/careerwithmohit/visits/up", {
+          signal: controller.signal,
+        });
+        clearTimeout(timeout);
+
         if (!response.ok) return;
         const data = await response.json();
         if (!ignore && data && typeof data.count === 'number') {
           setVisits(data.count);
         }
-      } catch (error) {
-        console.error("Failed to fetch visit count:", error);
+      } catch {
+        // Silently fail if external counter API is unreachable
       }
     };
-    fetchVisits();
+
+    if ("requestIdleCallback" in window) {
+      (window as any).requestIdleCallback(() => {
+        timerId = setTimeout(fetchVisits, 2500);
+      });
+    } else {
+      timerId = setTimeout(fetchVisits, 3000);
+    }
+
     return () => {
       ignore = true;
+      clearTimeout(timerId);
     };
   }, []);
 
