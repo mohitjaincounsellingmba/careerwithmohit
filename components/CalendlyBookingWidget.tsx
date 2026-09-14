@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { 
-  Calendar, 
   Clock, 
   Video, 
   CheckCircle2, 
@@ -18,7 +17,11 @@ import {
   User,
   Phone,
   Mail,
-  Loader2
+  Loader2,
+  Calendar,
+  Edit3,
+  HelpCircle,
+  School
 } from 'lucide-react';
 import { submitLead } from '@/lib/leads';
 
@@ -27,22 +30,40 @@ interface CalendlyBookingWidgetProps {
   className?: string;
 }
 
-const COURSES = [
-  { id: 'mba-pgdm', label: 'MBA / PGDM 2027-29', badge: 'Most Popular' },
-  { id: 'direct-admission', label: 'Direct Admission / Management Quota', badge: 'High Intent' },
-  { id: 'cat-xat-prep', label: 'CAT / XAT / CMAT Strategy & Cutoffs' },
-  { id: 'online-mba', label: 'Online MBA / Executive Degree' },
-  { id: 'bba-btech', label: 'BBA / B.Tech Admissions' },
-  { id: 'abroad', label: 'Study Abroad Advisory' },
-];
-
-const REASONS = [
-  { id: 'shortlist', label: 'Personalized College Shortlist (Dream / Target / Safe)' },
-  { id: 'low-score', label: 'Low CAT/XAT/CMAT Score Backup Options' },
-  { id: 'fees-roi', label: 'College Fees vs Real Placement ROI Verification' },
-  { id: 'direct-quota', label: 'Direct Institutional Quota Eligibility & Costs' },
-  { id: 'gd-pi', label: 'GD-PI & Interview Preparation Blueprint' },
-  { id: 'profile-audit', label: 'Complete Academic Profile & Resume Evaluation' },
+const GOALS = [
+  { 
+    id: 'mba-pgdm', 
+    label: 'MBA / PGDM 2027-29 Admission', 
+    hint: 'Top B-school selection & cutoff strategy',
+    badge: 'Most Popular'
+  },
+  { 
+    id: 'shortlist-backup', 
+    label: 'College Shortlist & Backup Options', 
+    hint: 'Dream, Target & Safe colleges for your score',
+    badge: 'Recommended'
+  },
+  { 
+    id: 'direct-quota', 
+    label: 'Direct Admission & Management Quota', 
+    hint: 'Seat matrix, eligibility & official fees',
+    badge: 'High Intent'
+  },
+  { 
+    id: 'fees-roi', 
+    label: 'Fee vs. Real Placement ROI Check', 
+    hint: 'Verify actual median packages & internships'
+  },
+  { 
+    id: 'cat-xat-prep', 
+    label: 'CAT, XAT, CMAT & NMAT Strategy', 
+    hint: 'Target percentiles and exam roadmap'
+  },
+  { 
+    id: 'other-advisory', 
+    label: 'Online MBA / Abroad / General Guidance', 
+    hint: 'Work-ex profiles, executive & global options'
+  },
 ];
 
 export function CalendlyBookingWidget({
@@ -53,8 +74,7 @@ export function CalendlyBookingWidget({
   const [name, setName] = useState<string>('');
   const [phone, setPhone] = useState<string>('');
   const [email, setEmail] = useState<string>('');
-  const [selectedCourse, setSelectedCourse] = useState<string>('MBA / PGDM 2027-29');
-  const [selectedReason, setSelectedReason] = useState<string>('Personalized College Shortlist (Dream / Target / Safe)');
+  const [selectedGoal, setSelectedGoal] = useState<string>(GOALS[0].label);
   const [targetColleges, setTargetColleges] = useState<string>('');
   
   // Validation & Submission States
@@ -68,12 +88,14 @@ export function CalendlyBookingWidget({
   const calendarRef = useRef<HTMLDivElement>(null);
 
   // Construct embed URL with prefilled student name, email, and answers
-  const buildEmbedUrl = () => {
-    let base = `${url}?hide_landing_page_details=0&hide_gdpr_banner=1&primary_color=2563eb`;
-    if (name.trim()) base += `&name=${encodeURIComponent(name.trim())}`;
-    if (email.trim()) base += `&email=${encodeURIComponent(email.trim())}`;
-    base += `&a1=${encodeURIComponent(selectedCourse)}`;
-    base += `&a2=${encodeURIComponent(selectedReason + (targetColleges ? ` | Colleges: ${targetColleges}` : ''))}`;
+  const buildEmbedUrl = (studentName = name, studentEmail = email, goal = selectedGoal, colleges = targetColleges) => {
+    let base = `${url}?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=2563eb`;
+    if (studentName.trim()) base += `&name=${encodeURIComponent(studentName.trim())}`;
+    if (studentEmail.trim()) base += `&email=${encodeURIComponent(studentEmail.trim())}`;
+    base += `&a1=${encodeURIComponent(goal)}`;
+    if (colleges.trim()) {
+      base += `&a2=${encodeURIComponent(`Target Colleges: ${colleges.trim()}`)}`;
+    }
     return base;
   };
 
@@ -114,25 +136,23 @@ export function CalendlyBookingWidget({
     } else {
       const timer = setTimeout(() => {
         setIsLoading(false);
-      }, 1200);
+      }, 1000);
       return () => clearTimeout(timer);
     }
 
     // Listen to Calendly scheduled event postMessage
     const handleCalendlyMessage = (e: MessageEvent) => {
       if (e.data && e.data.event === 'calendly.event_scheduled') {
-        // Log successful scheduled event
         submitLead({
-          name: name.trim() || 'Calendly Student',
+          name: name.trim() || 'Student (Calendly)',
           number: phone.trim() || 'N/A',
           email: email.trim(),
-          course: selectedCourse,
-          message: `[Confirmed Scheduled Booking] ${selectedReason} | Colleges: ${targetColleges}`,
+          course: selectedGoal,
+          message: `[Confirmed Scheduled Booking] Goal: ${selectedGoal}${targetColleges ? ` | Colleges: ${targetColleges}` : ''}`,
           source: 'Google Meet Counselling (Calendly Confirmed)',
           details: {
             status: 'Confirmed Scheduled Slot',
-            course: selectedCourse,
-            reason: selectedReason,
+            goal: selectedGoal,
             targetColleges,
           }
         }).catch(err => console.error('Calendly scheduled event submission error:', err));
@@ -143,13 +163,13 @@ export function CalendlyBookingWidget({
 
     const failsafe = setTimeout(() => {
       setIsLoading(false);
-    }, 3500);
+    }, 3000);
 
     return () => {
       clearTimeout(failsafe);
       window.removeEventListener('message', handleCalendlyMessage);
     };
-  }, [name, phone, email, selectedCourse, selectedReason, targetColleges]);
+  }, [name, phone, email, selectedGoal, targetColleges]);
 
   // Handle Step 1 Confirmation & Lead Logging
   const handleConfirmStep = async (e: React.FormEvent) => {
@@ -161,12 +181,12 @@ export function CalendlyBookingWidget({
     const cleanPhone = rawDigits.length >= 10 ? rawDigits.slice(-10) : rawDigits;
 
     if (!cleanName) {
-      setFormError('Please enter your full name');
+      setFormError('Please enter your full name so Mohit knows who he is speaking with.');
       return;
     }
 
     if (!cleanPhone || cleanPhone.length !== 10) {
-      setFormError('Please enter a valid 10-digit WhatsApp mobile number');
+      setFormError('Please enter a valid 10-digit WhatsApp number to receive your Google Meet link.');
       return;
     }
 
@@ -179,29 +199,29 @@ export function CalendlyBookingWidget({
         number: cleanPhone,
         phone: cleanPhone,
         email: email.trim(),
-        location: 'Online Consultation',
-        preferredLocation: 'Online',
+        location: 'Online Google Meet',
+        preferredLocation: 'Online Consultation',
         budget: 'Not Specified',
-        course: selectedCourse,
-        program: selectedCourse,
-        message: `Course: ${selectedCourse} | Purpose: ${selectedReason}${targetColleges ? ` | Colleges: ${targetColleges}` : ''}`,
+        course: selectedGoal,
+        program: selectedGoal,
+        message: `Goal: ${selectedGoal}${targetColleges ? ` | Target Colleges: ${targetColleges}` : ''}`,
         source: 'Inquiry - Face-to-Face Google Meet Booking',
         details: {
-          targetCourse: selectedCourse,
-          primaryReason: selectedReason,
+          sessionType: '1-on-1 Face-to-Face Video (30 Mins)',
+          targetGoal: selectedGoal,
           targetColleges: targetColleges.trim(),
-          sessionType: '1-on-1 Google Meet (30 Mins)',
         }
       });
 
       // 2. Update Calendly prefill URL with the verified student details
-      setEmbedUrl(buildEmbedUrl());
+      const newUrl = buildEmbedUrl(cleanName, email, selectedGoal, targetColleges);
+      setEmbedUrl(newUrl);
       setIsStepConfirmed(true);
 
       // 3. Smooth scroll to the Calendly slot calendar
       setTimeout(() => {
         calendarRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }, 100);
+      }, 150);
 
     } catch (err: any) {
       console.warn('Lead submission warning:', err);
@@ -214,377 +234,410 @@ export function CalendlyBookingWidget({
   };
 
   return (
-    <div className={`space-y-6 ${className}`}>
+    <div className={`space-y-6 ${className}`} id="booking-widget-container">
       
-      {/* STEP 1: Interactive Course, Purpose & Contact Information */}
-      <form onSubmit={handleConfirmStep} className="bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden">
-        <div className="bg-gradient-to-r from-blue-900 via-indigo-900 to-[#0A1E3D] text-white p-5 sm:p-6">
-          <div className="flex flex-wrap items-center justify-between gap-3">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-200 text-xs font-semibold">
-              <Sparkles className="w-3.5 h-3.5 text-amber-300" />
-              <span>Step 1 of 2</span>
-              <span className="text-blue-300">•</span>
-              <span className="text-white font-bold">Confirm Course &amp; Contact Details</span>
-            </div>
-            <div className="flex items-center gap-2 text-xs font-semibold text-emerald-300 bg-emerald-500/15 border border-emerald-400/30 px-2.5 py-1 rounded-full">
-              <Video className="w-3.5 h-3.5" />
-              <span>1-on-1 Google Meet Video Call</span>
-            </div>
-          </div>
-
-          <h3 className="text-lg sm:text-xl font-bold text-white mt-3">
-            Tell Mohit What You Need Guidance On
-          </h3>
-          <p className="text-xs text-blue-200/80 mt-1 leading-relaxed">
-            Your selections and contact details are sent directly to Mohit Jain so he prepares your customized cutoff sheet and B-school roadmap before the call.
-          </p>
-        </div>
-
-        <div className="p-5 sm:p-6 space-y-5">
+      {/* Progress & Step Navigation Header */}
+      <div className="bg-white rounded-2xl p-4 sm:p-5 border border-slate-200/90 shadow-sm">
+        <div className="flex items-center justify-between gap-2">
           
-          {/* Contact Details Row (Name & WhatsApp) */}
-          <div className="bg-slate-50/90 rounded-2xl p-4 border border-slate-200 space-y-3">
-            <div className="text-xs font-bold text-slate-800 uppercase tracking-wide flex items-center justify-between">
-              <span>Your Contact Details (For Meeting Link &amp; WhatsApp Alert):</span>
-              <span className="text-[11px] text-blue-600 font-semibold normal-case">Required</span>
-            </div>
-
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-              {/* Name Input */}
-              <div>
-                <label className="block text-[11px] font-semibold text-slate-600 mb-1">
-                  Full Name *
-                </label>
-                <div className="relative">
-                  <User className="w-4 h-4 text-slate-400 absolute left-3 top-3 pointer-events-none" />
-                  <input
-                    type="text"
-                    required
-                    placeholder="e.g. Rahul Sharma"
-                    value={name}
-                    onChange={(e) => setName(e.target.value)}
-                    className="w-full pl-9 pr-3 py-2 text-xs bg-white border border-slate-200 rounded-xl focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400"
-                  />
-                </div>
-              </div>
-
-              {/* WhatsApp Number Input */}
-              <div>
-                <label className="block text-[11px] font-semibold text-slate-600 mb-1">
-                  WhatsApp Number * (For Meeting Link)
-                </label>
-                <div className="relative flex">
-                  <span className="inline-flex items-center px-2.5 rounded-l-xl border border-r-0 border-slate-200 bg-slate-100 text-slate-700 text-xs font-bold">
-                    +91
-                  </span>
-                  <input
-                    type="tel"
-                    required
-                    maxLength={10}
-                    placeholder="10-digit mobile number"
-                    value={phone}
-                    onChange={(e) => setPhone(e.target.value.replace(/\D/g, ''))}
-                    className="w-full px-3 py-2 text-xs bg-white border border-slate-200 rounded-r-xl focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 font-medium"
-                  />
-                </div>
-              </div>
-
-              {/* Email Input (Optional) */}
-              <div className="sm:col-span-2 lg:col-span-1">
-                <label className="block text-[11px] font-semibold text-slate-600 mb-1">
-                  Email Address (Optional)
-                </label>
-                <div className="relative">
-                  <Mail className="w-4 h-4 text-slate-400 absolute left-3 top-3 pointer-events-none" />
-                  <input
-                    type="email"
-                    placeholder="e.g. rahul@gmail.com"
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                    className="w-full pl-9 pr-3 py-2 text-xs bg-white border border-slate-200 rounded-xl focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400"
-                  />
-                </div>
+          {/* Step 1 Pill */}
+          <button
+            type="button"
+            onClick={() => {
+              if (isStepConfirmed) setIsStepConfirmed(false);
+            }}
+            className={`flex-1 flex items-center justify-center sm:justify-start gap-2.5 px-3 py-2 rounded-xl text-left transition-all ${
+              !isStepConfirmed 
+                ? 'bg-blue-50 text-blue-900 border border-blue-200/90 font-bold' 
+                : 'text-slate-600 hover:bg-slate-50 cursor-pointer font-medium'
+            }`}
+          >
+            <span className={`w-6 h-6 rounded-full flex items-center justify-center text-xs font-black shrink-0 ${
+              !isStepConfirmed ? 'bg-blue-600 text-white' : 'bg-emerald-600 text-white'
+            }`}>
+              {isStepConfirmed ? <Check className="w-3.5 h-3.5" /> : '1'}
+            </span>
+            <div className="hidden sm:block leading-tight">
+              <div className="text-xs">Step 1</div>
+              <div className="text-[11px] text-slate-500 font-normal">
+                {isStepConfirmed ? 'Details Saved' : 'Your Goal & Details'}
               </div>
             </div>
+            <span className="sm:hidden text-xs font-bold">1. Details</span>
+          </button>
 
-            {formError && (
-              <p className="text-xs text-red-600 font-semibold flex items-center gap-1.5 mt-1">
-                <span>⚠️</span>
-                <span>{formError}</span>
-              </p>
-            )}
-          </div>
+          <ArrowRight className="w-4 h-4 text-slate-300 shrink-0" />
 
-          {/* 1. Target Course Selector */}
-          <div>
-            <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-2.5 flex items-center justify-between">
-              <span>Select Target Course / Admission Type:</span>
-              <span className="text-[11px] text-blue-600 font-semibold normal-case">Required</span>
-            </label>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-              {COURSES.map((course) => {
-                const isSelected = selectedCourse === course.label;
-                return (
-                  <button
-                    key={course.id}
-                    type="button"
-                    onClick={() => {
-                      setSelectedCourse(course.label);
-                    }}
-                    className={`flex items-center justify-between px-3.5 py-2.5 rounded-xl border text-xs font-semibold transition-all text-left cursor-pointer ${
-                      isSelected
-                        ? 'bg-blue-600 text-white border-blue-600 shadow-sm shadow-blue-500/30'
-                        : 'bg-slate-50/80 hover:bg-slate-100/80 text-slate-700 border-slate-200/80'
-                    }`}
-                  >
-                    <span>{course.label}</span>
-                    {isSelected ? (
-                      <Check className="w-4 h-4 text-white shrink-0 ml-2" />
-                    ) : course.badge ? (
-                      <span className="text-[9px] font-bold px-1.5 py-0.2 rounded bg-amber-100 text-amber-800 border border-amber-200 shrink-0 ml-2">
-                        {course.badge}
-                      </span>
-                    ) : null}
-                  </button>
-                );
-              })}
+          {/* Step 2 Pill */}
+          <div
+            className={`flex-1 flex items-center justify-center sm:justify-start gap-2.5 px-3 py-2 rounded-xl text-left transition-all ${
+              isStepConfirmed 
+                ? 'bg-blue-50 text-blue-900 border border-blue-200/90 font-bold' 
+                : 'bg-slate-50/70 text-slate-400 border border-slate-100 font-medium'
+            }`}
+          >
+            <span className={`w-6 h-6 rounded-full flex items-center justify-center text-xs font-black shrink-0 ${
+              isStepConfirmed ? 'bg-blue-600 text-white' : 'bg-slate-200 text-slate-500'
+            }`}>
+              2
+            </span>
+            <div className="hidden sm:block leading-tight">
+              <div className="text-xs">Step 2</div>
+              <div className="text-[11px] text-slate-500 font-normal">Pick Date &amp; Time</div>
             </div>
+            <span className="sm:hidden text-xs font-bold">2. Select Slot</span>
           </div>
 
-          {/* 2. Primary Reason / Topic Selector */}
-          <div>
-            <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-2.5 flex items-center justify-between">
-              <span>Primary Reason for Counselling Call:</span>
-              <span className="text-[11px] text-blue-600 font-semibold normal-case">Required</span>
-            </label>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-              {REASONS.map((reason) => {
-                const isSelected = selectedReason === reason.label;
-                return (
-                  <button
-                    key={reason.id}
-                    type="button"
-                    onClick={() => {
-                      setSelectedReason(reason.label);
-                    }}
-                    className={`flex items-center justify-between px-3.5 py-2.5 rounded-xl border text-xs font-semibold transition-all text-left cursor-pointer ${
-                      isSelected
-                        ? 'bg-indigo-600 text-white border-indigo-600 shadow-sm shadow-indigo-500/30'
-                        : 'bg-slate-50/80 hover:bg-slate-100/80 text-slate-700 border-slate-200/80'
-                    }`}
-                  >
-                    <span className="leading-snug">{reason.label}</span>
-                    {isSelected && <Check className="w-4 h-4 text-white shrink-0 ml-2" />}
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-
-          {/* 3. Optional Target Colleges Note */}
-          <div>
-            <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-1.5 flex items-center justify-between">
-              <span>Target Colleges or Specific Questions (Optional):</span>
-              <span className="text-[11px] text-slate-400 font-normal normal-case">Helps mentor prepare</span>
-            </label>
-            <input
-              type="text"
-              placeholder="e.g., SIBM Pune, NMIMS Mumbai, TAPMI, BIMTECH, Great Lakes, etc."
-              value={targetColleges}
-              onChange={(e) => setTargetColleges(e.target.value)}
-              className="w-full px-3.5 py-2.5 text-xs bg-slate-50 border border-slate-200 rounded-xl focus:bg-white focus:border-blue-500 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400"
-            />
-          </div>
-
-          {/* Confirmed Summary Bar & Submit Button */}
-          <div className="bg-slate-50 border border-slate-200/90 rounded-2xl p-4 flex flex-col sm:flex-row items-center justify-between gap-3">
-            <div className="text-left w-full sm:w-auto">
-              <div className="text-[11px] font-bold text-slate-500 uppercase tracking-wide">Selected Agenda:</div>
-              <div className="text-xs font-bold text-blue-900 flex items-center gap-1.5 mt-0.5">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
-                <span>{selectedCourse}</span>
-                <span className="text-slate-300">•</span>
-                <span className="text-slate-700 font-medium truncate max-w-[220px] sm:max-w-[300px]">{selectedReason}</span>
-              </div>
-            </div>
-
-            <button
-              type="submit"
-              disabled={isSubmittingLead}
-              className="w-full sm:w-auto px-6 py-3 rounded-xl bg-blue-600 hover:bg-blue-700 active:scale-95 text-white text-xs font-bold transition-all shadow-md shadow-blue-500/25 flex items-center justify-center gap-2 cursor-pointer shrink-0 disabled:opacity-75"
-            >
-              {isSubmittingLead ? (
-                <>
-                  <Loader2 className="w-4 h-4 animate-spin" />
-                  <span>Saving Agenda &amp; Loading Calendar...</span>
-                </>
-              ) : (
-                <>
-                  <span>Save Details &amp; Pick Slot</span>
-                  <ArrowRight className="w-4 h-4" />
-                </>
-              )}
-            </button>
-          </div>
-        </div>
-      </form>
-
-      {/* GOOGLE MEET FACE-TO-FACE TRUST BOX */}
-      <div className="bg-gradient-to-br from-[#0F172A] via-[#1E293B] to-[#0F172A] text-white rounded-3xl p-5 sm:p-6 border border-slate-700/60 shadow-lg">
-        <div className="flex items-center gap-2.5 mb-4">
-          <div className="w-9 h-9 rounded-xl bg-blue-500/20 border border-blue-400/30 flex items-center justify-center text-blue-300 shrink-0">
-            <Video className="w-5 h-5" />
-          </div>
-          <div>
-            <h4 className="text-sm sm:text-base font-bold text-white flex items-center gap-2">
-              <span>Why Students &amp; Parents Trust Google Meet Counselling</span>
-              <span className="text-[10px] font-black bg-emerald-400 text-slate-950 px-2 py-0.2 rounded-full uppercase">
-                100% Genuine
-              </span>
-            </h4>
-            <p className="text-xs text-slate-400">Direct mentorship call without middlemen or sales agents</p>
-          </div>
-        </div>
-
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
-          <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5">
-            <div className="flex items-center gap-2 text-amber-300 font-bold mb-1">
-              <ShieldCheck className="w-4 h-4 shrink-0" />
-              <span>Face-to-Face with Mohit</span>
-            </div>
-            <p className="text-[11px] text-slate-300 leading-relaxed">
-              You talk directly with Mohit Jain (IIM-B &amp; FMS certified), not a junior telemarketer or call center agent.
-            </p>
-          </div>
-
-          <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5">
-            <div className="flex items-center gap-2 text-blue-300 font-bold mb-1">
-              <Monitor className="w-4 h-4 shrink-0" />
-              <span>Live Screen Sharing</span>
-            </div>
-            <p className="text-[11px] text-slate-300 leading-relaxed">
-              Verify real college cutoff sheets, actual placement records, and institutional quota fee structures live on screen.
-            </p>
-          </div>
-
-          <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5">
-            <div className="flex items-center gap-2 text-emerald-300 font-bold mb-1">
-              <Users className="w-4 h-4 shrink-0" />
-              <span>Parents Welcome</span>
-            </div>
-            <p className="text-[11px] text-slate-300 leading-relaxed">
-              Parents can join the Google Meet video link from phone or laptop to clear all doubts regarding budget and safety.
-            </p>
-          </div>
         </div>
       </div>
 
-      {/* STEP 2: Live Calendly Scheduling Widget */}
-      <div 
-        id="live-calendly-picker" 
-        ref={calendarRef} 
-        className="relative w-full bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden scroll-mt-20"
-      >
-        {/* Header Bar */}
-        <div className="bg-gradient-to-r from-blue-900 via-indigo-900 to-slate-900 text-white px-5 py-3.5 flex flex-wrap items-center justify-between gap-3 text-xs sm:text-sm">
-          <div className="flex items-center gap-2">
-            <div className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="font-bold text-white">Step 2: Pick Your Preferred Date &amp; Time</span>
-            <span className="text-blue-300 hidden sm:inline">•</span>
-            <span className="text-blue-200 hidden sm:inline">{selectedCourse}</span>
+      {/* STEP 1: Goal & Contact Form */}
+      {!isStepConfirmed ? (
+        <form onSubmit={handleConfirmStep} className="bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden transition-all">
+          
+          {/* Header Banner */}
+          <div className="bg-gradient-to-r from-[#0B192C] via-[#1E3E62] to-[#0B192C] text-white p-5 sm:p-6">
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-200 text-xs font-semibold mb-2">
+              <Sparkles className="w-3.5 h-3.5 text-amber-300" />
+              <span>Step 1: Choose Your Counselling Focus</span>
+            </div>
+            <h2 className="text-xl sm:text-2xl font-black text-white tracking-tight">
+              What do you want to discuss with Mohit?
+            </h2>
+            <p className="text-xs sm:text-sm text-slate-300 mt-1.5 leading-relaxed">
+              Select what is most important for you right now so Mohit can prepare relevant cutoff data and fee reports before the call.
+            </p>
           </div>
-          <div className="flex items-center gap-3 text-xs font-semibold text-slate-300">
-            <span className="inline-flex items-center gap-1">
-              <Clock className="w-3.5 h-3.5 text-amber-400" />
-              30 Mins
-            </span>
-            <span className="inline-flex items-center gap-1 text-emerald-400 font-bold bg-emerald-500/10 px-2 py-0.5 rounded-md border border-emerald-500/20">
-              FREE
-            </span>
-          </div>
-        </div>
 
-        {/* Selected Context Reminder Banner */}
-        <div className="bg-blue-50/90 border-b border-blue-100 px-5 py-2.5 flex flex-wrap items-center justify-between gap-2 text-xs text-blue-900">
-          <div className="flex items-center gap-2 truncate">
-            <span className="font-bold text-blue-700 shrink-0">Confirmed Agenda:</span>
-            <span className="font-semibold">{selectedCourse}</span>
-            <span className="text-slate-400">•</span>
-            <span className="text-slate-700 truncate">{selectedReason}</span>
+          <div className="p-5 sm:p-6 space-y-6">
+            
+            {/* 1. Goals Grid */}
+            <div>
+              <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-2.5">
+                Select Your Primary Objective:
+              </label>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+                {GOALS.map((goal) => {
+                  const isSelected = selectedGoal === goal.label;
+                  return (
+                    <button
+                      key={goal.id}
+                      type="button"
+                      onClick={() => setSelectedGoal(goal.label)}
+                      className={`relative flex items-start gap-3 p-3.5 rounded-2xl border text-left transition-all cursor-pointer ${
+                        isSelected
+                          ? 'bg-blue-50/90 border-blue-600 shadow-sm ring-2 ring-blue-500/20 text-slate-900'
+                          : 'bg-slate-50/70 hover:bg-slate-100/80 border-slate-200 text-slate-700 hover:border-slate-300'
+                      }`}
+                    >
+                      <div className={`w-5 h-5 rounded-full border flex items-center justify-center shrink-0 mt-0.5 transition-colors ${
+                        isSelected 
+                          ? 'bg-blue-600 border-blue-600 text-white' 
+                          : 'border-slate-300 bg-white'
+                      }`}>
+                        {isSelected && <Check className="w-3 h-3 stroke-[3]" />}
+                      </div>
+
+                      <div className="flex-1 pr-2">
+                        <div className="flex items-center gap-1.5">
+                          <span className={`text-xs font-bold leading-tight ${isSelected ? 'text-blue-950' : 'text-slate-800'}`}>
+                            {goal.label}
+                          </span>
+                        </div>
+                        <p className="text-[11px] text-slate-500 mt-0.5 leading-snug">
+                          {goal.hint}
+                        </p>
+                        {goal.badge && (
+                          <span className="inline-block mt-1.5 text-[9px] font-extrabold px-2 py-0.5 rounded-md bg-amber-100 text-amber-900 border border-amber-200/80">
+                            {goal.badge}
+                          </span>
+                        )}
+                      </div>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
+            {/* 2. Contact Details Card */}
+            <div className="bg-slate-50/90 rounded-2xl p-4 sm:p-5 border border-slate-200 space-y-4">
+              <div className="flex items-center justify-between">
+                <span className="text-xs font-bold text-slate-900 uppercase tracking-wide">
+                  Where Should We Send Your Google Meet Link?
+                </span>
+                <span className="text-[11px] text-emerald-600 font-bold bg-emerald-50 px-2 py-0.5 rounded-full border border-emerald-200">
+                  🔒 100% Private
+                </span>
+              </div>
+
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5">
+                {/* Full Name */}
+                <div>
+                  <label className="block text-xs font-semibold text-slate-700 mb-1">
+                    Your Full Name <span className="text-rose-500">*</span>
+                  </label>
+                  <div className="relative">
+                    <User className="w-4 h-4 text-slate-400 absolute left-3.5 top-3 pointer-events-none" />
+                    <input
+                      type="text"
+                      required
+                      placeholder="e.g. Rahul Sharma"
+                      value={name}
+                      onChange={(e) => setName(e.target.value)}
+                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-white border border-slate-200 rounded-xl focus:border-blue-600 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 text-slate-900 font-medium"
+                    />
+                  </div>
+                </div>
+
+                {/* WhatsApp Mobile */}
+                <div>
+                  <label className="block text-xs font-semibold text-slate-700 mb-1">
+                    WhatsApp Mobile Number <span className="text-rose-500">*</span>
+                  </label>
+                  <div className="relative flex">
+                    <span className="inline-flex items-center px-3 rounded-l-xl border border-r-0 border-slate-200 bg-slate-100 text-slate-700 text-xs font-bold">
+                      +91
+                    </span>
+                    <input
+                      type="tel"
+                      required
+                      maxLength={10}
+                      placeholder="10-digit mobile number"
+                      value={phone}
+                      onChange={(e) => setPhone(e.target.value.replace(/\D/g, ''))}
+                      className="w-full px-3.5 py-2.5 text-xs bg-white border border-slate-200 rounded-r-xl focus:border-blue-600 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 text-slate-900 font-medium"
+                    />
+                  </div>
+                  <p className="text-[10px] text-slate-500 mt-1">
+                    Google Meet video link &amp; reminders will be sent to this WhatsApp number.
+                  </p>
+                </div>
+
+                {/* Optional Email */}
+                <div className="sm:col-span-2">
+                  <label className="block text-xs font-semibold text-slate-700 mb-1">
+                    Email Address <span className="text-slate-400 font-normal">(Optional, for Google Calendar invite)</span>
+                  </label>
+                  <div className="relative">
+                    <Mail className="w-4 h-4 text-slate-400 absolute left-3.5 top-3 pointer-events-none" />
+                    <input
+                      type="email"
+                      placeholder="e.g. rahul.sharma@gmail.com"
+                      value={email}
+                      onChange={(e) => setEmail(e.target.value)}
+                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-white border border-slate-200 rounded-xl focus:border-blue-600 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 text-slate-900"
+                    />
+                  </div>
+                </div>
+
+                {/* Optional Target Colleges */}
+                <div className="sm:col-span-2">
+                  <label className="block text-xs font-semibold text-slate-700 mb-1">
+                    Target Colleges or Exams <span className="text-slate-400 font-normal">(Optional)</span>
+                  </label>
+                  <div className="relative">
+                    <School className="w-4 h-4 text-slate-400 absolute left-3.5 top-3 pointer-events-none" />
+                    <input
+                      type="text"
+                      placeholder="e.g. SIBM, NMIMS, TAPMI, Great Lakes, or CAT/XAT score..."
+                      value={targetColleges}
+                      onChange={(e) => setTargetColleges(e.target.value)}
+                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-white border border-slate-200 rounded-xl focus:border-blue-600 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 text-slate-900"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              {formError && (
+                <div className="p-3 bg-rose-50 border border-rose-200 rounded-xl text-xs text-rose-700 font-semibold flex items-center gap-2">
+                  <span>⚠️</span>
+                  <span>{formError}</span>
+                </div>
+              )}
+            </div>
+
+            {/* Action Bar */}
+            <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4">
+              <div className="text-xs text-slate-500 flex items-center gap-1.5 text-center sm:text-left">
+                <CheckCircle2 className="w-4 h-4 text-emerald-500 shrink-0" />
+                <span>Zero sales pressure • 100% Free consultation</span>
+              </div>
+
+              <button
+                type="submit"
+                disabled={isSubmittingLead}
+                className="w-full sm:w-auto px-8 py-3.5 rounded-2xl bg-blue-600 hover:bg-blue-700 active:scale-98 text-white text-sm font-bold transition-all shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2.5 cursor-pointer disabled:opacity-75"
+              >
+                {isSubmittingLead ? (
+                  <>
+                    <Loader2 className="w-4 h-4 animate-spin" />
+                    <span>Saving your details...</span>
+                  </>
+                ) : (
+                  <>
+                    <span>Continue to Pick Free Time Slot</span>
+                    <ArrowRight className="w-4 h-4" />
+                  </>
+                )}
+              </button>
+            </div>
+
           </div>
-          {name && (
-            <div className="flex items-center gap-1.5 text-emerald-700 font-bold text-[11px] bg-emerald-100/80 px-2.5 py-0.5 rounded-md border border-emerald-200">
-              <Check className="w-3 h-3 text-emerald-600" />
-              <span>Saved for: {name} (+91 {phone})</span>
+        </form>
+      ) : (
+        /* STEP 2: Live Calendly Scheduling Widget Container */
+        <div 
+          id="live-calendly-picker" 
+          ref={calendarRef} 
+          className="relative w-full bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden scroll-mt-20 transition-all"
+        >
+          {/* Header Bar */}
+          <div className="bg-gradient-to-r from-[#0B192C] via-[#1E3E62] to-[#0B192C] text-white p-4 sm:p-5 flex flex-wrap items-center justify-between gap-3">
+            <div>
+              <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[11px] font-bold border border-emerald-400/30 mb-1">
+                <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                <span>Live Google Meet Slots</span>
+              </div>
+              <h3 className="text-base sm:text-lg font-bold text-white">
+                Step 2: Choose a Date &amp; Time That Suits You
+              </h3>
+            </div>
+
+            <button
+              type="button"
+              onClick={() => setIsStepConfirmed(false)}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white/10 hover:bg-white/20 text-xs font-semibold text-white transition-colors cursor-pointer border border-white/15"
+            >
+              <Edit3 className="w-3.5 h-3.5 text-blue-300" />
+              <span>Edit Details</span>
+            </button>
+          </div>
+
+          {/* Student Details Summary Strip */}
+          <div className="bg-blue-50/80 border-b border-blue-100/90 px-4 sm:px-6 py-3 flex flex-wrap items-center justify-between gap-2 text-xs text-blue-900">
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="font-bold text-blue-800">Booking for:</span>
+              <span className="font-semibold text-slate-800">{name}</span>
+              <span className="text-slate-400">•</span>
+              <span className="text-slate-700">{selectedGoal}</span>
+              {phone && (
+                <>
+                  <span className="text-slate-400">•</span>
+                  <span className="text-emerald-700 font-medium">+91 {phone}</span>
+                </>
+              )}
+            </div>
+            <div className="flex items-center gap-2 text-[11px] font-semibold text-emerald-700 bg-emerald-100/80 px-2.5 py-0.5 rounded-md border border-emerald-200">
+              <Clock className="w-3.5 h-3.5" />
+              <span>30 Mins Free</span>
+            </div>
+          </div>
+
+          {/* Loading Skeleton */}
+          {isLoading && (
+            <div className="min-h-[500px] bg-slate-50/90 flex flex-col items-center justify-center p-8 text-center transition-opacity duration-300">
+              <div className="relative flex items-center justify-center mb-4">
+                <div className="w-12 h-12 rounded-2xl border-2 border-blue-600 border-t-transparent animate-spin" />
+                <Video className="w-6 h-6 text-blue-600 absolute" />
+              </div>
+              <h4 className="text-sm font-bold text-slate-800">Loading Mohit&apos;s Open Calendar Slots...</h4>
+              <p className="text-xs text-slate-500 mt-1">Checking real-time Google Meet availability</p>
             </div>
           )}
+
+          {/* Script blocked fallback */}
+          {hasScriptError && (
+            <div className="p-8 text-center bg-amber-50/80 border-b border-amber-200">
+              <ShieldAlert className="w-10 h-10 text-amber-600 mx-auto mb-2" />
+              <h4 className="font-bold text-slate-900 mb-1">Calendar widget blocked by browser privacy shield</h4>
+              <p className="text-xs text-slate-600 max-w-md mx-auto mb-4">
+                No worries! You can open Mohit&apos;s live calendar directly in a new tab or chat instantly on WhatsApp.
+              </p>
+              <div className="flex flex-wrap items-center justify-center gap-3">
+                <a
+                  href={embedUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white rounded-xl text-xs font-bold shadow-md"
+                >
+                  <span>Open Calendar in New Tab</span>
+                  <ArrowUpRight className="w-3.5 h-3.5" />
+                </a>
+                <a
+                  href={`https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20want%20to%20schedule%20a%20video%20counselling%20call%20for%20${encodeURIComponent(selectedGoal)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 px-5 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-bold shadow-md"
+                >
+                  <MessageCircle className="w-3.5 h-3.5" />
+                  <span>Book via WhatsApp</span>
+                </a>
+              </div>
+            </div>
+          )}
+
+          {/* Calendly Inline Embed Element */}
+          <div 
+            className="calendly-inline-widget w-full"
+            data-url={embedUrl}
+            style={{ minWidth: '320px', height: '700px' }}
+          />
+
+          {/* Post-embed Helper Notes */}
+          <div className="border-t border-slate-100 bg-slate-50/80 px-5 sm:px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-600">
+            <div className="flex items-center gap-2">
+              <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
+              <span>Google Meet link is emailed &amp; sent on WhatsApp immediately after picking your slot.</span>
+            </div>
+            <a
+              href={`https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20have%20an%20urgent%20MBA%20counselling%20query%20regarding%20${encodeURIComponent(selectedGoal)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-emerald-700 hover:text-emerald-800 font-bold shrink-0 hover:underline"
+            >
+              <MessageCircle className="w-3.5 h-3.5" />
+              <span>Urgent slot today? WhatsApp Us</span>
+            </a>
+          </div>
+        </div>
+      )}
+
+      {/* Trust Mini-Cards for Student Peace of Mind */}
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div className="bg-white p-4 rounded-2xl border border-slate-200/90 shadow-xs flex items-start gap-3">
+          <div className="w-8 h-8 rounded-xl bg-blue-50 border border-blue-200 flex items-center justify-center text-blue-600 shrink-0 mt-0.5">
+            <ShieldCheck className="w-4 h-4" />
+          </div>
+          <div>
+            <h4 className="text-xs font-bold text-slate-900">Direct with Mohit</h4>
+            <p className="text-[11px] text-slate-500 mt-0.5 leading-snug">
+              No telecallers or marketing middlemen. You speak 1-on-1 with Mohit Jain.
+            </p>
+          </div>
         </div>
 
-        {/* Loading Skeleton */}
-        {isLoading && (
-          <div className="absolute inset-x-0 top-24 bottom-0 bg-slate-50/90 backdrop-blur-xs flex flex-col items-center justify-center p-6 z-10 transition-opacity duration-300">
-            <div className="relative flex items-center justify-center mb-4">
-              <div className="w-12 h-12 rounded-2xl border-2 border-blue-600 border-t-transparent animate-spin" />
-              <Video className="w-6 h-6 text-blue-600 absolute" />
-            </div>
-            <p className="text-sm font-bold text-slate-800">Loading Mohit's Live Schedule...</p>
-            <p className="text-xs text-slate-500 mt-1">Fetching open Google Meet time slots</p>
+        <div className="bg-white p-4 rounded-2xl border border-slate-200/90 shadow-xs flex items-start gap-3">
+          <div className="w-8 h-8 rounded-xl bg-indigo-50 border border-indigo-200 flex items-center justify-center text-indigo-600 shrink-0 mt-0.5">
+            <Monitor className="w-4 h-4" />
           </div>
-        )}
-
-        {/* Script blocked fallback */}
-        {hasScriptError && (
-          <div className="p-8 text-center bg-amber-50/70 border-b border-amber-200">
-            <ShieldAlert className="w-10 h-10 text-amber-600 mx-auto mb-2" />
-            <h4 className="font-bold text-slate-900 mb-1">Calendar widget blocked by browser shield</h4>
-            <p className="text-xs text-slate-600 max-w-md mx-auto mb-4">
-              You can open Mohit's live booking page directly in a new tab or reach out instantly via WhatsApp.
+          <div>
+            <h4 className="text-xs font-bold text-slate-900">Live Screen Sharing</h4>
+            <p className="text-[11px] text-slate-500 mt-0.5 leading-snug">
+              See real cutoff sheets, fee structures &amp; placement reports live on your screen.
             </p>
-            <div className="flex flex-wrap items-center justify-center gap-3">
-              <a
-                href={embedUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white rounded-xl text-xs font-bold shadow-md"
-              >
-                <span>Open Google Meet Calendar on Calendly</span>
-                <ArrowUpRight className="w-3.5 h-3.5" />
-              </a>
-              <a
-                href={`https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20want%20to%20schedule%20a%20Face-to-Face%20video%20counselling%20session%20for%20${encodeURIComponent(selectedCourse)}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 px-5 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-bold shadow-md"
-              >
-                <MessageCircle className="w-3.5 h-3.5" />
-                <span>Book via WhatsApp</span>
-              </a>
-            </div>
           </div>
-        )}
+        </div>
 
-        {/* Calendly Inline Embed Element */}
-        <div 
-          className="calendly-inline-widget w-full"
-          data-url={embedUrl}
-          style={{ minWidth: '320px', height: '740px' }}
-        />
-
-        {/* Post-embed Helper Notes */}
-        <div className="border-t border-slate-100 bg-slate-50/80 px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-600">
-          <div className="flex items-center gap-2">
-            <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
-            <span>Google Meet video link is generated automatically &amp; emailed with your calendar invite.</span>
+        <div className="bg-white p-4 rounded-2xl border border-slate-200/90 shadow-xs flex items-start gap-3">
+          <div className="w-8 h-8 rounded-xl bg-emerald-50 border border-emerald-200 flex items-center justify-center text-emerald-600 shrink-0 mt-0.5">
+            <Users className="w-4 h-4" />
           </div>
-          <a
-            href={`https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20urgent%20Face-to-Face%20video%20counselling%20for%20${encodeURIComponent(selectedCourse)}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 text-emerald-700 hover:text-emerald-800 font-bold shrink-0 hover:underline"
-          >
-            <MessageCircle className="w-3.5 h-3.5" />
-            <span>Urgent query today? Message on WhatsApp</span>
-          </a>
+          <div>
+            <h4 className="text-xs font-bold text-slate-900">Parents Welcome</h4>
+            <p className="text-[11px] text-slate-500 mt-0.5 leading-snug">
+              Parents are encouraged to join the call to clear budget, hostel &amp; ROI doubts.
+            </p>
+          </div>
         </div>
       </div>
 
