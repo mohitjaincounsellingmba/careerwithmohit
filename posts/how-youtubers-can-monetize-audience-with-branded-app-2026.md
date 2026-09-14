@@ -70,7 +70,7 @@ Move your community away from chaotic comment sections. Use integrated chat, for
 Don't just replicate your YouTube videos. Create a structured, step-by-step roadmap that solves a specific problem for your audience (e.g., "Mastering Python in 30 Days" or "The Complete Guide to Stock Market Investing").
 
 #### Step 2: Choose the Right App Builder
-You don't need to hire expensive developers. Use a platform like ours that specializes in **[building branded apps for educators and creators](/sell-your-coaching-online)**. We handle the coding, security, and payment integrations.
+You don't need to hire expensive developers. Use a platform like ours that specializes in **[building branded apps for educators and creators](/inquiry)**. We handle the coding, security, and payment integrations.
 
 #### Step 3: Offer a "Freemium" Tier
 Host your free content on the app to get people to download it. Once they are in your ecosystem, it is much easier to convert them into paid students for your "Masterclass" or "Bootcamp."
@@ -84,7 +84,7 @@ Instead of just saying "Buy my course," offer a free resource (like a PDF or a m
 
 Your audience is already waiting for a more structured way to learn from you. Stop leaving money on the table and start building your own digital empire today.
 
-**[Launch Your Branded App with Our Expert Help Today!](/sell-your-coaching-online)**
+**[Launch Your Branded App with Our Expert Help Today!](/inquiry)**
 
 ---
 

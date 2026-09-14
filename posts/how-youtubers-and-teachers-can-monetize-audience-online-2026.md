@@ -102,7 +102,7 @@ Choose a platform that supports native live chat inside the app. This allows you
 **Empower Your Students. Own Your Platform.**
 Start treating your educational channel like a real enterprise. Connect with our experts today to outline a monetization strategy that puts you in full control.
 
-[👉 Book My Digital Academy Demo](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Digital Academy Demo](/inquiry) | [💬 Chat with Mohit](/inquiry)
 ---
 
 ### 🚀 Boost Your Preparation

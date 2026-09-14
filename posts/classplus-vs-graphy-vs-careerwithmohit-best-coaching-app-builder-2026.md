@@ -127,7 +127,7 @@ Typically, Classplus and Graphy take 10-14 days to deploy your app on the Google
 **Own Your Brand. Secure Your Content. Grow 10x.**
 Stop sharing your revenue and student relationships with platforms that view you as just another template. Let us audit your requirements and build the ultimate educational asset for your brand.
 
-[👉 Book My Digital Academy Demo](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Digital Academy Demo](/inquiry) | [💬 Chat with Mohit](/inquiry)
 ---
 
 ### 🚀 Boost Your Preparation

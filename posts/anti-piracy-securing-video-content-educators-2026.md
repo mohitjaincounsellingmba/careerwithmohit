@@ -116,7 +116,7 @@ Yes. Modern secure apps can disable the "Share" and "Download" options for PDFs,
 ---
 
 ### Useful Links:
-- [Launch Your Secure Branded App Today](/sell-your-coaching-online)
+- [Launch Your Secure Branded App Today](/inquiry)
 - [How to Sell Your Coaching Online 2026 Guide](/blog/how-to-sell-your-coaching-online-2026)
 - [Best Platforms to Sell Courses Online 2026](/blog/best-platforms-sell-courses-online-comparison-2026)
 
@@ -125,7 +125,7 @@ Yes. Modern secure apps can disable the "Share" and "Download" options for PDFs,
 **Own Your Content, Don't Scale Your Losses.**
 Every pirated copy is a lost sale. Don't waste your expertise on a platform that doesn't respect your intellectual property. Mohit Jain provides a **"Security Infrastructure Audit"**—helping you implement DRM and Dynamic Watermarking to ensure your revenue stays in your bank account, not on a pirate's server.
 
-[👉 Secure My Digital Academy](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+[👉 Secure My Digital Academy](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
 
 

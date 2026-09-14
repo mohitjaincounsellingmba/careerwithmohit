@@ -73,7 +73,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/cat-score-calculator',
     '/tools/xat-score-calculator-2027',
     '/services',
-    '/sell-your-coaching-online',
     '/abroad-education',
     '/calculator/career-roadmap',
     '/calculator/certification',
@@ -130,7 +129,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority:
       route === ''
         ? 1
-        : route.startsWith('/online-degree-certification') || route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region' || route === '/sell-your-coaching-online'
+        : route.startsWith('/online-degree-certification') || route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region'
         ? 0.95
         : route.includes('/tools/') || route.includes('/calculator/')
         ? 0.9

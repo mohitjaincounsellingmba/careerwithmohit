@@ -99,7 +99,7 @@ To automate your marketing, delivery, and sales, your custom platform should be 
 Taking your academy digital has never been easier. You don't need to be a coding expert to launch an app. We handle the technology so you can focus on what you do best: teaching.
 
 Ready to launch your own Digital Academy? 
-**[Book a Free Personal Demo with our Experts Today!](/sell-your-coaching-online)**
+**[Book a Free Personal Demo with our Experts Today!](/inquiry)**
 
 ---
 

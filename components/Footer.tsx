@@ -88,7 +88,6 @@ export function Footer() {
       { name: 'Admission News Updates', href: '/news' },
       { name: 'Previous Year Papers (PYQs)', href: '/previous-year-papers' },
       { name: 'Scholarship & Credit Schemes', href: '/inquiry' },
-      { name: 'Sell Coaching Online (App)', href: '/sell-your-coaching-online', badge: 'Teachers' },
       { name: 'About Mohit Jain', href: '/about' },
     ]
   };

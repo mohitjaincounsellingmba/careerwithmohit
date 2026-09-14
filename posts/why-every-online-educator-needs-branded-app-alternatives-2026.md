@@ -104,7 +104,7 @@ If you want unique UI designs, tailored mock test templates, and zero transactio
 **Don't Build Your House on Rented Land.**
 Own your brand, secure your content, and scale your coaching business with maximum profitability. Connect with us today to launch your digital academy.
 
-[👉 Book My Digital Academy Demo](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Digital Academy Demo](/inquiry) | [💬 Chat with Mohit](/inquiry)
 ---
 
 ### 🚀 Boost Your Preparation

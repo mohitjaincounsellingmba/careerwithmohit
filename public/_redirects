@@ -57,6 +57,8 @@
 /tools/cat- /tools/cat-mock-test 301
 /blog/top-btech-colleges-north-east /blog/top-10-engineering-colleges-india-2026 301
 /& / 301
+/sell-your-coaching-online / 301
+/sell-your-coaching-online/* / 301
 /posts/* /blog/:splat 301
 /learn-skills/* /tools 301
 /brochures/* /inquiry 302

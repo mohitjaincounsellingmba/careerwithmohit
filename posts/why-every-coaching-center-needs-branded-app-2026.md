@@ -88,7 +88,7 @@ The competition is already going digital. Don't be left behind with outdated mod
 
 We specialize in helping coaching institutes like yours launch their own state-of-the-art branded apps in record time.
 
-**[Get a Free Customized Demo for Your Institute Today!](/sell-your-coaching-online)**
+**[Get a Free Customized Demo for Your Institute Today!](/inquiry)**
 
 ---
 

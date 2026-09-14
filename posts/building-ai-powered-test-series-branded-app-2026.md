@@ -118,7 +118,7 @@ Absolutely. In 2026, "Test Series Only" packages are a high-volume revenue strea
 ---
 
 ### Useful Links:
-- [Launch Your AI-Powered Branded App Today](/sell-your-coaching-online)
+- [Launch Your AI-Powered Branded App Today](/inquiry)
 - [How to Market Your Coaching App 2026](/blog/how-to-market-coaching-app-student-growth-strategy-2026)
 - [Automating Coaching Fees & Invoicing Guide](/blog/automating-coaching-fees-gst-invoicing-guide-2026)
 
@@ -127,7 +127,7 @@ Absolutely. In 2026, "Test Series Only" packages are a high-volume revenue strea
 **Upgrade from a Teacher to an AI-Powered Mentor.**
 Technology should be your multiplier, not your burden. Don't waste your time grading papers manually. Mohit Jain provides an **"Adaptive Learning Audit"**—helping you integrate AI-driven mock tests and personalized analytics into your branded app to ensure your students get the highest ranks in their exams.
 
-[👉 Build My AI-Driven Academy](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+[👉 Build My AI-Driven Academy](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
 
 

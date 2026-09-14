@@ -123,7 +123,7 @@ Yes, but **Email and In-App Chat** are preferred in western markets for a more p
 ---
 
 ### Useful Links:
-- [Launch Your Global Digital Academy](/sell-your-coaching-online)
+- [Launch Your Global Digital Academy](/inquiry)
 - [How to Sell Your Coaching Online 2026 Guide](/blog/how-to-sell-your-coaching-online-2026)
 - [Best Platforms to Sell Courses Online 2026](/blog/best-platforms-sell-courses-online-comparison-2026)
 
@@ -132,7 +132,7 @@ Yes, but **Email and In-App Chat** are preferred in western markets for a more p
 **Don't Just Teach Your Neighborhood—Teach the World.**
 Geography is a constraint of the past. Your teaching expertise is a global asset. Don't waste your revenue by staying local. Mohit Jain provides a **"Global Market Audit"**—helping you set up international gateways, multi-currency pricing, and the branded app that positions your academy as a world-class institution in 2026.
 
-[👉 Take My Academy Global](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+[👉 Take My Academy Global](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
 
 

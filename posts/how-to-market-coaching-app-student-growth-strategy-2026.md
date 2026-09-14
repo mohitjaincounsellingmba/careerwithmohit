@@ -102,7 +102,7 @@ Partnering with smaller "Niche Educators" for account takeovers or shoutouts is 
 ---
 
 ### Useful Links:
-- [Launch Your Branded Coaching App Today](/sell-your-coaching-online)
+- [Launch Your Branded Coaching App Today](/inquiry)
 - [Course Creation Guide — From Script to Launch](/blog/course-creation-guide-script-to-branded-app-2026)
 - [How to Sell Your Coaching Online 2026](/blog/how-to-sell-your-coaching-online-2026)
 
@@ -111,7 +111,7 @@ Partnering with smaller "Niche Educators" for account takeovers or shoutouts is 
 **Don't Chase Students—Attract Them.**
 Marketing is not about shouting; it’s about being the obvious solution to a student's problem. Don't waste your budget on generic ads. Mohit Jain provides a **"Growth & Acquisition Audit"**—helping you build the YouTube-to-App funnel that automates your student intake and scales your digital academy 10x.
 
-[👉 Build My Growth Funnel](/sell-your-coaching-online) | [💬 Chat with Mohit](/inquiry)
+[👉 Build My Growth Funnel](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
 
 
