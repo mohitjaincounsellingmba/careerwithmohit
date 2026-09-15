@@ -188,3 +188,11 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 👉 **[Book a 1-on-1 Video MBA Counselling Session](/book-session)**  
 👉 **[Explore All Colleges in India](/colleges)**
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
