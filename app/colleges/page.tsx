@@ -7,27 +7,24 @@ import { JsonLd } from "@/components/JsonLd";
 import { ChevronDown } from "lucide-react";
 
 export const metadata = {
-  title: "Top Colleges India 2027: Compare MBA & B.Tech Fees",
-  description: "Compare 200+ top colleges in India for 2027 admission. Verified fee structures, placement reports, NIRF rankings, and cutoffs for MBA, B.Tech, BBA & BCA.",
+  title: "Top MBA, PGDM, B.Tech & M.Tech Colleges in India by State 2027: Fees, Cutoffs & Placements | Shiksha Format",
+  description: "Compare 770+ top MBA, PGDM, B.Tech & M.Tech colleges and universities across all Indian states for 2027 admission. Verified fee structures, placement audits, JEE/CAT cutoffs, and NIRF rankings for Maharashtra, Delhi NCR, Karnataka, Tamil Nadu, Telangana & more.",
   keywords: [
-    'top MBA colleges India 2027', 'best PGDM colleges India 2027', 'MBA fees comparison',
-    'MBA placement reports 2027', 'B-school cutoffs', 'direct MBA admission 2027', 'PGDM admission 2027',
-    'top engineering colleges India 2027', 'best B.Tech colleges India',
-    'B.Tech admission 2027', 'B.Tech fees structure', 'JEE Main colleges',
-    'top BBA colleges India 2027', 'best BBA colleges Delhi NCR',
-    'BCA colleges India 2027', 'BCA admission fees placement',
-    'NIRF ranking 2027 colleges', 'college fees comparison India',
-    'top colleges Delhi NCR', 'best colleges Bangalore 2027',
-    'top colleges Pune 2027', 'MBA colleges Mumbai', 'engineering colleges Noida Greater Noida',
-    'low fees high placement colleges India', 'CAT CMAT MAT accepting colleges',
-    'direct admission MBA B.Tech 2027', 'best ROI MBA colleges India', 'degree admission 2027'
+    'top MBA colleges India 2027', 'best PGDM colleges India 2027', 'MBA colleges by state India',
+    'top engineering colleges India 2027', 'best B.Tech colleges India by state', 'best M.Tech colleges India',
+    'IIT colleges India fees placements', 'NIT colleges cutoffs JEE Main', 'IIIT colleges ranking India',
+    'B.Tech colleges Maharashtra Mumbai Pune', 'B.Tech colleges Karnataka Bangalore', 'B.Tech colleges Tamil Nadu Chennai',
+    'B.Tech colleges Telangana Hyderabad', 'B.Tech colleges Delhi NCR', 'B.Tech colleges Uttar Pradesh Kanpur',
+    'MBA colleges Maharashtra', 'MBA colleges Delhi NCR', 'MBA colleges Bangalore Karnataka',
+    'MBA fees comparison India', 'B.Tech fees comparison India', 'B-school cutoffs CAT XAT MAT CMAT',
+    'JEE Advanced cutoff 2027', 'direct admission engineering MBA 2027'
   ],
   alternates: {
     canonical: '/colleges',
   },
   openGraph: {
-    title: 'Top Colleges India 2027: Compare MBA & B.Tech Fees',
-    description: 'Explore verified data on 200+ top colleges for MBA, B.Tech, BBA & BCA. Compare fees, placements, rankings & cutoffs for 2027.',
+    title: 'Top MBA, PGDM & B.Tech Colleges in India by State 2027: Verified Fees & Placements',
+    description: 'Explore verified data on 770+ top colleges across all Indian states for MBA, PGDM, B.Tech & M.Tech. Compare fees, placements, rankings & cutoffs for 2027.',
     type: 'website',
     url: 'https://www.careerwithmohit.online/colleges',
     siteName: 'CareerWithMohit',
@@ -36,14 +33,14 @@ export const metadata = {
         url: 'https://www.careerwithmohit.online/og-image.webp',
         width: 1200,
         height: 630,
-        alt: 'Top Colleges in India 2027 - CareerWithMohit',
+        alt: 'Top Colleges in India by State 2027 - CareerWithMohit',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Top Colleges India 2027: Compare MBA & B.Tech Fees',
-    description: 'Explore verified data on 200+ top colleges for MBA, B.Tech, BBA & BCA. Compare fees & placements.',
+    title: 'Top MBA, PGDM & B.Tech Colleges in India by State 2027',
+    description: 'Explore verified data on 770+ top colleges across all Indian states for MBA, PGDM & B.Tech. Compare fees & placements.',
     images: ['https://www.careerwithmohit.online/og-image.webp'],
   },
 };
@@ -73,8 +70,8 @@ export default function CollegesPage() {
   const collectionSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Top Colleges in India 2027 – MBA, B.Tech, BBA, BCA",
-    "description": "Comprehensive directory of 200+ top colleges in India covering MBA, PGDM, B.Tech, BBA, and BCA programs with fees, placement data, and admission details for 2027.",
+    "name": "Top MBA & PGDM Colleges in India by State 2027",
+    "description": "Comprehensive directory of 700+ top MBA, PGDM, B.Tech, and BBA colleges in India covering all Indian states with fees, placement data, and admission details for 2027.",
     "url": "https://www.careerwithmohit.online/colleges",
     "mainEntity": {
       "@type": "ItemList",
@@ -97,7 +94,7 @@ export default function CollegesPage() {
         "name": "Which are the best MBA colleges in India for 2027 admission?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The top MBA colleges in India for 2027 include IIM Ahmedabad, Bangalore, Calcutta, FMS Delhi, XLRI, SPJIMR, and MDI Gurgaon. Based on 2025 placement records, these institutes reported average packages between ₹18 LPA and ₹35+ LPA. For direct admission queries in top private universities, consult our expert desk."
+          "text": "The top MBA colleges in India for 2027 include IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, Indore, FMS Delhi, XLRI, SPJIMR, and MDI Gurgaon. Based on 2025 placement records, these institutes reported average packages between ₹18 LPA and ₹35+ LPA. For direct admission queries in top private universities, consult our expert desk."
         }
       },
       {
@@ -149,43 +146,49 @@ export default function CollegesPage() {
                   2027 Comprehensive Guide
                 </div>
                 <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight mb-4">
-                  India&apos;s Most Reliable{' '}
+                  India&apos;s Pan-India MBA Directory{' '}
                   <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                    College Directory 2027
+                    By State & City (Shiksha Format)
                   </span>
                 </h2>
                 <div className="w-20 h-1.5 bg-blue-600 rounded-full mb-6" />
                 
                 <div className="space-y-4 text-sm sm:text-base text-slate-600 leading-relaxed">
                   <p>
-                    Navigating the 2027 academic admissions landscape requires more than just a list of names. It requires <strong>Uncompromised, Audited Data</strong>. At CareerWithMohit, we provide a curated directory of <strong>600+ top colleges in India</strong> spanning MBA, PGDM, B.Tech, BBA, and BCA disciplines.
+                    Navigating the 2027 academic admissions landscape requires more than just a list of names. It requires <strong>Uncompromised, Audited Data</strong>. At CareerWithMohit, we provide a curated directory of <strong>700+ top colleges in India</strong> spanning MBA, PGDM, B.Tech, BBA, and BCA disciplines across all 28 states and Union Territories.
                   </p>
                   <p>
-                    Whether you are targeting premier campuses like <strong>IIT Delhi and IIM Ahmedabad</strong>, or seeking high-ROI private universities in <strong>Delhi NCR, Bangalore, or Pune</strong>, our platform delivers verified insights on tuition fee structures, 2025–2026 placement audits, cutoffs, and NIRF rankings.
+                    Whether you are targeting premier campuses like <strong>IIM Ahmedabad, IIM Bangalore, IIM Calcutta, and FMS Delhi</strong>, or seeking verified high-ROI private business schools like <strong>GIM Goa, Great Lakes Chennai, XLRI, SPJIMR, SIBM Pune, TAPMI, or BIMTECH</strong>, our platform delivers audited insights on tuition fee structures, 2025–2026 placement packages, cutoffs, and state NIRF rankings.
                   </p>
                 </div>
               </div>
 
-              {/* City Selection Guide */}
+              {/* State & City Selection Guide */}
               <div className="bg-slate-50/70 border border-slate-200/90 rounded-3xl p-6 sm:p-8">
                 <div className="mb-6">
                   <h3 className="text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight">
-                    City-Specific College Selection Guide
+                    State & City MBA Selection Guide
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-500 mt-1">
-                    Explore top B-schools and universities tailored by India&apos;s primary education hubs
+                    Explore top B-schools and universities tailored by India&apos;s primary regional education hubs
                   </p>
                 </div>
                 <div className="grid sm:grid-cols-2 gap-4">
                   {[
-                    { city: "Delhi NCR", link: "/colleges/mba-colleges-delhi-ncr", sub: "NDIM, BIMTECH, FIIB, JIMS" },
-                    { city: "Mumbai", link: "/colleges/mba-colleges-mumbai", sub: "JBIMS, NMIMS, Welingkar, ITM" },
-                    { city: "Bangalore", link: "/colleges/mba-colleges-bangalore", sub: "JAGSoM, Alliance, ISBR, GIBS" },
-                    { city: "Pune", link: "/colleges/mba-colleges-pune", sub: "SIBM, PUMBA, Balaji, PIBM" },
-                    { city: "Hyderabad", link: "/colleges/mba-colleges-hyderabad", sub: "IPE, VJIM, SIBM-H, Badruka" },
-                    { city: "Kolkata", link: "/colleges/mba-colleges-kolkata", sub: "Praxis, Globsyn, IIMC, BIBS" },
-                    { city: "Ahmedabad", link: "/colleges/mba-colleges-ahmedabad", sub: "Nirma, EDII, Shanti BS, SKIPS" },
-                    { city: "Jaipur", link: "/colleges/mba-colleges-jaipur", sub: "Jaipuria, Taxila, IIHMR, JKLU" }
+                    { city: "Maharashtra (Mumbai & Pune)", link: "/colleges/mba-colleges-mumbai", sub: "IIM Mumbai, JBIMS, SPJIMR, SIBM, WeSchool, Somaiya" },
+                    { city: "Delhi NCR (Delhi & Noida)", link: "/colleges/mba-colleges-delhi-ncr", sub: "FMS, DMS IIT-D, MDI, IIFT, FORE, BIMTECH, NDIM" },
+                    { city: "Karnataka (Bangalore)", link: "/colleges/mba-colleges-bangalore", sub: "IIM-B, TAPMI, JAGSoM, Christ, XIME, Alliance, ISBR" },
+                    { city: "Tamil Nadu (Chennai & Trichy)", link: "/colleges", sub: "DoMS IIT Madras, IIM Trichy, Great Lakes, LIBA, PSGIM" },
+                    { city: "Telangana (Hyderabad)", link: "/colleges/mba-colleges-hyderabad", sub: "ISB, IBS Hyderabad, IPE, Woxsen, VJIM, SIBM-H" },
+                    { city: "Gujarat (Ahmedabad & Anand)", link: "/colleges/mba-colleges-ahmedabad", sub: "IIM-A, MICA, IRMA Anand, Nirma, PDEU, EDII" },
+                    { city: "West Bengal (Kolkata)", link: "/colleges/mba-colleges-kolkata", sub: "IIM Calcutta, VGSoM IIT Kharagpur, IMI, Praxis, Globsyn" },
+                    { city: "Rajasthan (Jaipur & Udaipur)", link: "/colleges/mba-colleges-jaipur", sub: "IIM Udaipur, BITS Pilani, Jaipuria, Taxila, IIHMR" },
+                    { city: "Kerala (Kochi & Kozhikode)", link: "/colleges", sub: "IIM Kozhikode, Rajagiri RCBS, SCMS Cochin" },
+                    { city: "Madhya Pradesh (Indore)", link: "/colleges", sub: "IIM Indore, PIMR, IMS DAVV, SIBM Indore" },
+                    { city: "Odisha (Bhubaneswar)", link: "/colleges", sub: "XIMB, IIM Sambalpur, KSOM KIIT, IMI Bhubaneswar" },
+                    { city: "Goa (Sanquelim & Panaji)", link: "/colleges", sub: "Goa Institute of Management (GIM), Goa Business School" },
+                    { city: "Punjab & Chandigarh", link: "/colleges", sub: "IIM Amritsar, UBS Panjab Univ, LMTSM Thapar, LPU" },
+                    { city: "Jharkhand (Jamshedpur & Ranchi)", link: "/colleges", sub: "XLRI Jamshedpur, IIM Ranchi, XISS Ranchi, BIT Mesra" }
                   ].map((item, i) => (
                     <Link
                       key={i}
@@ -197,7 +200,7 @@ export default function CollegesPage() {
                       </div>
                       <div className="overflow-hidden">
                         <span className="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors block truncate">
-                          Colleges in {item.city} &rarr;
+                          MBA in {item.city} &rarr;
                         </span>
                         <span className="text-xs text-slate-500 truncate block">{item.sub}</span>
                       </div>

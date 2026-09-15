@@ -1,67 +1,44 @@
 ---
-name: COEP Technological University
-logo: ''
-location: Pune
-category: Engineering
-type: University
-courses:
-  - B.Tech Computer Engineering
-  - B.Tech Mechanical
-  - B.Tech Civil
-  - B.Tech E&TC
-  - B.Tech Electrical
+name: "COEP Technological University (College of Engineering Pune)"
+logo: ""
+location: "Pune, Maharashtra"
+state: "Maharashtra"
+category: "Engineering"
+type: "Unitary State University"
+courses: ["B.Tech Computer Engineering", "B.Tech Electronics & Telecommunication", "B.Tech Mechanical Engineering", "B.Tech Production Engineering", "M.Tech Artificial Intelligence & Robotics"]
 established: 1854
-ownership: Government
-ranking: Top Engineering College
-fees: ₹1.5 Lakhs - ₹4.0 Lakhs
-avg_placement: ₹11.0 LPA
-highest_placement: ₹50.0 LPA
-exams:
-  - MHT CET
-  - JEE Main
-website: ''
-brochure_url: ''
-seo_title: 'COEP Technological University B.Tech Fees, Cutoff & Placemen'
-seo_description: >-
-  Check COEP Technological University Shivajinagar, Pune: B.Tech fee structure
-  ₹1.5 Lakhs - ₹4.0 Lakhs, average placement ₹11.0 LPA, JEE cutoff, ranking, and
-  2027
-keywords:
-  - COEP Technological University review
-  - COEP Technological University fees structure 2027
-  - COEP Technological University average package
-  - COEP Technological University placement report 2027
-  - COEP Technological University highest package
-  - COEP Technological University cutoff 2027
-  - COEP Technological University admission process
-  - COEP Technological University ranking
-  - 'COEP Technological University Shivajinagar, Pune'
-  - is COEP Technological University good
-  - COEP Technological University mohit jain review
-  - COEP Technological University hostel fees
-  - COEP Technological University contact number
-  - COEP Technological University B.Tech fees
-  - COEP Technological University CSE placement
-  - COEP Technological University B.Tech admission 2027
-  - 'engineering colleges Shivajinagar, Pune'
-  - Pune Colleges
-  - Best Colleges in Pune
-  - Top Colleges in Pune 2026
-  - Pune Direct Admission 2026
-  - Colleges in Maharashtra
-  - Pune Career Counselling
-state: Maharashtra
+ownership: "Public State University"
+ranking: "NIRF Rank #77 (Engineering 2024) - Asia's 3rd Oldest Engg College"
+fees: "₹3.60 - ₹4.50 Lakhs (Total 4 Years)"
+avg_placement: "₹12.80 LPA"
+highest_placement: "₹50.50 LPA"
+lowest_placement: "₹7.00 LPA"
+exams: ["MHT CET", "JEE Main", "GATE"]
+brochure_url: "#"
+website: "https://www.coep.org.in"
+top_recruiters: ["Mastercard", "Credit Suisse", "Tata Motors", "Bajaj Auto", "Goldman Sachs", "Deere & Co", "Barclays"]
 ---
 
-### B.Tech Courses & Fees
-- **B.Tech Computer Engineering**: 4 Years | ₹4.0 Lakhs
-- **B.Tech Mechanical Engineering**: 4 Years | ₹4.0 Lakhs
-- **B.Tech Civil Engineering**: 4 Years | ₹4.0 Lakhs
-- **B.Tech Electronics and Telecommunication Engineering**: 4 Years | ₹4.0 Lakhs
+### About COEP Technological University (College of Engineering Pune)
+COEP Tech University is one of the most venerated technical colleges in Asia, founded in 1854. Highly selective via MHT CET top percentile cutoffs, COEP is renowned for its automotive labs, robotics clubs, and stellar corporate ROI.
 
-### About COEP Technological University
-COEP Technological University (formerly College of Engineering Pune) is one of the oldest and most prestigious engineering institutions in India. Situated in Shivajinagar, Pune, it offers exceptional academic rigor and stellar placement records.
+### Key B.Tech & M.Tech Programs
+- **B.Tech Computer Engineering**
+- **B.Tech Electronics & Telecommunication**
+- **B.Tech Mechanical Engineering**
+- **B.Tech Production Engineering**
+- **M.Tech Artificial Intelligence & Robotics**
 
-### Placements
-- **Average CTC**: ₹11.0 LPA
-- **Highest CTC**: ₹50.0 LPA
+### Placement & Career Outcomes
+- **Average Placement Package**: ₹12.80 LPA
+- **Highest Placement Package**: ₹50.50 LPA
+- **Median Package Estimate**: ₹7.00 LPA
+- **Top Recruiting Partners**: Mastercard, Credit Suisse, Tata Motors, Bajaj Auto, Goldman Sachs, Deere & Co, Barclays
+
+### Admission Process & Eligibility
+- **Accepted Entrance Exams**: MHT CET, JEE Main, GATE
+- **Accreditation & Approvals**: NIRF Rank #77 (Engineering 2024) - Asia's 3rd Oldest Engg College
+- **Ownership Structure**: Public State University
+- **Total Course Fee Estimate**: ₹3.60 - ₹4.50 Lakhs (Total 4 Years)
+
+For 1-on-1 personalized counselling, JEE / BITSAT cutoff guidance, branch vs college priority mapping, and direct merit seat advisory, get in touch with career counsellor Mohit Jain.

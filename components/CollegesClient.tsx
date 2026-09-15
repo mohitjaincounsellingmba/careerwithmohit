@@ -19,6 +19,442 @@ interface TrendingBlog {
   description?: string;
 }
 
+export const STATE_MBA_EXPLORER_HUBS = [
+  {
+    name: "Maharashtra",
+    badge: "Financial Capital",
+    icon: "🏦",
+    cities: "Mumbai, Pune, Nagpur, Nashik",
+    topInstitutes: "IIM Mumbai, JBIMS, SPJIMR, SIBM Pune, WeSchool, K J Somaiya",
+    avgFee: "₹12L - ₹24L",
+    avgPlacement: "₹14.50 LPA",
+    topExams: ["CAT", "MAH CET", "XAT", "SNAP", "NMAT"]
+  },
+  {
+    name: "Delhi NCR",
+    badge: "Corporate Headquarters",
+    icon: "🏛️",
+    cities: "Delhi, Noida, Gurgaon, Ghaziabad",
+    topInstitutes: "FMS, DMS IIT Delhi, MDI Gurgaon, IIFT, FORE, BIMTECH",
+    avgFee: "₹10L - ₹22L",
+    avgPlacement: "₹15.80 LPA",
+    topExams: ["CAT", "XAT", "GMAT", "CMAT", "MAT"]
+  },
+  {
+    name: "Karnataka",
+    badge: "Tech Capital of India",
+    icon: "💻",
+    cities: "Bangalore, Manipal, Mangalore",
+    topInstitutes: "IIM Bangalore, TAPMI, JAGSoM, Christ, XIME, Alliance",
+    avgFee: "₹9L - ₹21L",
+    avgPlacement: "₹13.20 LPA",
+    topExams: ["CAT", "XAT", "MAT", "CMAT", "GMAT"]
+  },
+  {
+    name: "Tamil Nadu",
+    badge: "Manufacturing & Auto Hub",
+    icon: "⚡",
+    cities: "Chennai, Coimbatore, Trichy",
+    topInstitutes: "DoMS IIT Madras, IIM Trichy, Great Lakes, LIBA, PSGIM",
+    avgFee: "₹8L - ₹20L",
+    avgPlacement: "₹12.90 LPA",
+    topExams: ["CAT", "XAT", "TANCET", "GMAT", "MAT"]
+  },
+  {
+    name: "Telangana",
+    badge: "IT & Pharma Capital",
+    icon: "🚀",
+    cities: "Hyderabad, Warangal",
+    topInstitutes: "ISB, IBS Hyderabad, IPE, Woxsen, VJIM, SIBM-H",
+    avgFee: "₹8L - ₹17L",
+    avgPlacement: "₹11.50 LPA",
+    topExams: ["CAT", "XAT", "IBSAT", "NMAT", "MAT"]
+  },
+  {
+    name: "Gujarat",
+    badge: "Business & Entrepreneurship",
+    icon: "📈",
+    cities: "Ahmedabad, Gandhinagar, Anand",
+    topInstitutes: "IIM Ahmedabad, MICA, IRMA Anand, Nirma, PDEU",
+    avgFee: "₹9L - ₹23L",
+    avgPlacement: "₹16.50 LPA",
+    topExams: ["CAT", "XAT", "MICAT", "CMAT"]
+  },
+  {
+    name: "West Bengal",
+    badge: "Eastern Gateway",
+    icon: "🌐",
+    cities: "Kolkata, Kharagpur",
+    topInstitutes: "IIM Calcutta, VGSoM IIT Kharagpur, IMI, Globsyn, Praxis",
+    avgFee: "₹7L - ₹25L",
+    avgPlacement: "₹14.20 LPA",
+    topExams: ["CAT", "XAT", "MAT", "CMAT"]
+  },
+  {
+    name: "Rajasthan",
+    badge: "Heritage & Corporate Hub",
+    icon: "🏰",
+    cities: "Jaipur, Udaipur, Pilani",
+    topInstitutes: "IIM Udaipur, BITS Pilani, Jaipuria Jaipur, IIHMR, Taxila",
+    avgFee: "₹6L - ₹18L",
+    avgPlacement: "₹10.80 LPA",
+    topExams: ["CAT", "XAT", "MAT", "CMAT", "ATMA"]
+  },
+  {
+    name: "Kerala",
+    badge: "Maritime & Tourism Economy",
+    icon: "🌴",
+    cities: "Kochi, Kozhikode, Trivandrum",
+    topInstitutes: "IIM Kozhikode, Rajagiri RCBS, SCMS Cochin",
+    avgFee: "₹7L - ₹22L",
+    avgPlacement: "₹13.50 LPA",
+    topExams: ["CAT", "KMAT", "CMAT", "MAT"]
+  },
+  {
+    name: "Madhya Pradesh",
+    badge: "Central India Commercial Hub",
+    icon: "🎯",
+    cities: "Indore, Bhopal, Gwalior",
+    topInstitutes: "IIM Indore, PIMR, IMS DAVV, SIBM Indore, IIITM",
+    avgFee: "₹3L - ₹21L",
+    avgPlacement: "₹11.20 LPA",
+    topExams: ["CAT", "CMAT", "MP DTE", "MAT"]
+  },
+  {
+    name: "Odisha",
+    badge: "Heavy Industries & Education",
+    icon: "🚢",
+    cities: "Bhubaneswar, Cuttack, Sambalpur",
+    topInstitutes: "XIMB, IIM Sambalpur, KSOM KIIT, IMI Bhubaneswar",
+    avgFee: "₹8L - ₹22L",
+    avgPlacement: "₹12.80 LPA",
+    topExams: ["XAT", "CAT", "MAT", "CMAT"]
+  },
+  {
+    name: "Andhra Pradesh",
+    badge: "Coastal Port & FinTech Corridor",
+    icon: "🌊",
+    cities: "Visakhapatnam, Vijayawada, Sri City",
+    topInstitutes: "IIM Visakhapatnam, IFMR GSB Sri City, GITAM",
+    avgFee: "₹7L - ₹18L",
+    avgPlacement: "₹12.00 LPA",
+    topExams: ["CAT", "XAT", "AP ICET", "NMAT"]
+  },
+  {
+    name: "Punjab & Chandigarh",
+    badge: "Northern Industrial Corridor",
+    icon: "🌾",
+    cities: "Chandigarh, Mohali, Amritsar, Phagwara",
+    topInstitutes: "IIM Amritsar, UBS Panjab Univ, LMTSM Thapar, LPU, Chitkara",
+    avgFee: "₹1L - ₹17L",
+    avgPlacement: "₹11.80 LPA",
+    topExams: ["CAT", "XAT", "MAT", "CMAT"]
+  },
+  {
+    name: "Uttar Pradesh",
+    badge: "Northern Higher Education Corridor",
+    icon: "🎓",
+    cities: "Lucknow, Kanpur, Varanasi, Agra",
+    topInstitutes: "IIM Lucknow, IMT Ghaziabad, IIT Kanpur IME, Jaipuria Lucknow",
+    avgFee: "₹5L - ₹21L",
+    avgPlacement: "₹15.20 LPA",
+    topExams: ["CAT", "XAT", "CMAT", "CUET-PG"]
+  },
+  {
+    name: "Bihar",
+    badge: "Eastern Educational Corridor",
+    icon: "📖",
+    cities: "Patna, Bodh Gaya",
+    topInstitutes: "IIM Bodh Gaya, CIMP Patna, DMI Patna",
+    avgFee: "₹7L - ₹17L",
+    avgPlacement: "₹10.50 LPA",
+    topExams: ["CAT", "XAT", "CMAT"]
+  },
+  {
+    name: "Jharkhand",
+    badge: "Mining & Industrial Capital",
+    icon: "🏭",
+    cities: "Jamshedpur, Ranchi, Dhanbad",
+    topInstitutes: "XLRI Jamshedpur, IIM Ranchi, XISS Ranchi, BIT Mesra",
+    avgFee: "₹8L - ₹27L",
+    avgPlacement: "₹18.50 LPA",
+    topExams: ["XAT", "CAT", "CMAT"]
+  },
+  {
+    name: "Uttarakhand",
+    badge: "Education Valley",
+    icon: "🏔️",
+    cities: "Dehradun, Roorkee, Kashipur",
+    topInstitutes: "IIM Kashipur, DoMS IIT Roorkee, UPES, Doon Business School",
+    avgFee: "₹7L - ₹18L",
+    avgPlacement: "₹13.40 LPA",
+    topExams: ["CAT", "MAT", "CMAT", "XAT"]
+  },
+  {
+    name: "Goa",
+    badge: "Executive Coastal Management",
+    icon: "🏖️",
+    cities: "Sanquelim, Panaji",
+    topInstitutes: "Goa Institute of Management (GIM), Goa Business School",
+    avgFee: "₹3L - ₹19.5L",
+    avgPlacement: "₹15.20 LPA",
+    topExams: ["CAT", "XAT", "CMAT", "GMAT"]
+  },
+  {
+    name: "Assam & North East",
+    badge: "North East Commercial Gate",
+    icon: "🌿",
+    cities: "Shillong, Guwahati, Tezpur",
+    topInstitutes: "IIM Shillong, Tezpur University, Gauhati University",
+    avgFee: "₹2L - ₹17.5L",
+    avgPlacement: "₹13.00 LPA",
+    topExams: ["CAT", "MAT", "CMAT"]
+  },
+  {
+    name: "Himachal Pradesh",
+    badge: "Hill B-Schools",
+    icon: "🌲",
+    cities: "Shimla, Solan, Paonta Sahib",
+    topInstitutes: "IIM Sirmaur, HPUBS Shimla, Shoolini University",
+    avgFee: "₹3L - ₹16L",
+    avgPlacement: "₹10.50 LPA",
+    topExams: ["CAT", "HPU-MAT", "CMAT"]
+  }
+];
+
+export const STATE_ENGINEERING_EXPLORER_HUBS = [
+  {
+    name: "Tamil Nadu",
+    badge: "Deep Tech & Research Powerhouse",
+    icon: "⚡",
+    cities: "Chennai, Trichy, Coimbatore, Vellore",
+    topInstitutes: "IIT Madras (#1 NIRF), NIT Trichy, Anna Univ CEG, PSG Tech, SSN, VIT Vellore, SASTRA",
+    avgFee: "₹1.5L - ₹10L",
+    avgPlacement: "₹12.50 LPA",
+    topExams: ["JEE Advanced", "JEE Main", "TNEA", "VITEEE"]
+  },
+  {
+    name: "Karnataka",
+    badge: "Silicon Valley Engineering Hub",
+    icon: "💻",
+    cities: "Bangalore, Surathkal, Manipal",
+    topInstitutes: "NITK Surathkal, IIIT Bangalore, RVCE, BMSCE, MSRIT, MIT Manipal",
+    avgFee: "₹4L - ₹18L",
+    avgPlacement: "₹13.80 LPA",
+    topExams: ["JEE Main", "KCET", "COMEDK", "MET"]
+  },
+  {
+    name: "Maharashtra",
+    badge: "Automotive & Heavy Industry Hub",
+    icon: "🏭",
+    cities: "Mumbai, Pune, Nagpur",
+    topInstitutes: "IIT Bombay, VNIT Nagpur, COEP Pune, VJTI Mumbai, ICT Mumbai, SPIT",
+    avgFee: "₹3L - ₹10L",
+    avgPlacement: "₹14.20 LPA",
+    topExams: ["MHT CET", "JEE Advanced", "JEE Main", "GATE"]
+  },
+  {
+    name: "Telangana",
+    badge: "AI & Software Powerhouse",
+    icon: "🚀",
+    cities: "Hyderabad, Warangal",
+    topInstitutes: "IIIT Hyderabad, IIT Hyderabad, NIT Warangal, BITS Hyderabad, CBIT",
+    avgFee: "₹5L - ₹20L",
+    avgPlacement: "₹18.50 LPA",
+    topExams: ["JEE Advanced", "JEE Main", "TS EAMCET", "BITSAT"]
+  },
+  {
+    name: "Uttar Pradesh",
+    badge: "Centenary Tech & Computing Legacy",
+    icon: "🏛️",
+    cities: "Kanpur, Varanasi, Prayagraj, Lucknow",
+    topInstitutes: "IIT Kanpur, IIT BHU, MNNIT Allahabad, IIIT Allahabad, HBTU",
+    avgFee: "₹4L - ₹10L",
+    avgPlacement: "₹19.20 LPA",
+    topExams: ["JEE Advanced", "JEE Main", "GATE"]
+  },
+  {
+    name: "West Bengal",
+    badge: "Pioneer Research & Core Sciences",
+    icon: "🌉",
+    cities: "Kharagpur, Kolkata, Shibpur, Durgapur",
+    topInstitutes: "IIT Kharagpur, Jadavpur Univ FET, IIEST Shibpur, NIT Durgapur",
+    avgFee: "₹25K - ₹10L",
+    avgPlacement: "₹15.50 LPA",
+    topExams: ["WBJEE", "JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Delhi NCR",
+    badge: "Capital Tech & High Placement Hub",
+    icon: "🏢",
+    cities: "Delhi, Noida, Gurgaon",
+    topInstitutes: "IIT Delhi, DTU Delhi, NSUT Delhi, IIIT Delhi, NIT Delhi, Jamia",
+    avgFee: "₹70K - ₹10L",
+    avgPlacement: "₹17.80 LPA",
+    topExams: ["JEE Advanced", "JEE Main (JAC Delhi)"]
+  },
+  {
+    name: "Gujarat",
+    badge: "Chemical & ICT Tech Corridor",
+    icon: "🧪",
+    cities: "Gandhinagar, Surat, Ahmedabad",
+    topInstitutes: "IIT Gandhinagar, SVNIT Surat, DA-IICT, Nirma University",
+    avgFee: "₹5L - ₹10L",
+    avgPlacement: "₹13.50 LPA",
+    topExams: ["GUJCET", "JEE Main", "JEE Advanced"]
+  },
+  {
+    name: "Rajasthan",
+    badge: "Pioneering Tech & AI Innovation",
+    icon: "🏰",
+    cities: "Pilani, Jaipur, Jodhpur",
+    topInstitutes: "BITS Pilani, IIT Jodhpur, MNIT Jaipur, LNMIIT Jaipur",
+    avgFee: "₹6L - ₹22L",
+    avgPlacement: "₹15.80 LPA",
+    topExams: ["BITSAT", "JEE Advanced", "JEE Main", "REAP"]
+  },
+  {
+    name: "Punjab & Chandigarh",
+    badge: "Northern Engineering Powerhouse",
+    icon: "🌾",
+    cities: "Chandigarh, Patiala, Ropar, Jalandhar",
+    topInstitutes: "IIT Ropar, Thapar Institute, PEC Chandigarh, NIT Jalandhar",
+    avgFee: "₹5L - ₹20L",
+    avgPlacement: "₹14.50 LPA",
+    topExams: ["JEE Advanced", "JEE Main", "GATE"]
+  },
+  {
+    name: "Kerala",
+    badge: "Coastal Tech & High ROI",
+    icon: "🌴",
+    cities: "Calicut, Trivandrum, Palakkad, Kochi",
+    topInstitutes: "NIT Calicut, IIT Palakkad, CET Trivandrum, MEC Kochi",
+    avgFee: "₹50K - ₹9.5L",
+    avgPlacement: "₹12.80 LPA",
+    topExams: ["KEAM", "JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Madhya Pradesh",
+    badge: "Central India Technical Hub",
+    icon: "🎯",
+    cities: "Indore, Bhopal, Gwalior",
+    topInstitutes: "IIT Indore, MANIT Bhopal, ABV-IIITM Gwalior, SGSITS Indore",
+    avgFee: "₹3.5L - ₹10L",
+    avgPlacement: "₹14.20 LPA",
+    topExams: ["JEE Advanced", "JEE Main", "MP DTE"]
+  },
+  {
+    name: "Andhra Pradesh",
+    badge: "Coastal Defense & Tech Corridor",
+    icon: "🌊",
+    cities: "Tirupati, Sri City, Tadepalligudem, Vizag",
+    topInstitutes: "IIT Tirupati, NIT Andhra, IIIT Sri City, AUCE Vizag",
+    avgFee: "₹2L - ₹14L",
+    avgPlacement: "₹12.20 LPA",
+    topExams: ["AP EAPCET", "JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Odisha",
+    badge: "Heavy Metallurgy & Core Engg Hub",
+    icon: "🚢",
+    cities: "Rourkela, Bhubaneswar",
+    topInstitutes: "NIT Rourkela, IIT Bhubaneswar, IIIT Bhubaneswar, SOA ITER",
+    avgFee: "₹5.5L - ₹10L",
+    avgPlacement: "₹13.60 LPA",
+    topExams: ["JEE Advanced", "JEE Main", "OJEE"]
+  },
+  {
+    name: "Jharkhand",
+    badge: "Earth Sciences & Mining Hub",
+    icon: "⛏️",
+    cities: "Dhanbad, Jamshedpur, Ranchi",
+    topInstitutes: "IIT (ISM) Dhanbad, NIT Jamshedpur, BIT Mesra",
+    avgFee: "₹5.5L - ₹16L",
+    avgPlacement: "₹15.20 LPA",
+    topExams: ["JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Bihar",
+    badge: "Eastern Academic Valley",
+    icon: "📜",
+    cities: "Patna, Bihta",
+    topInstitutes: "IIT Patna, NIT Patna, BIT Patna",
+    avgFee: "₹5.5L - ₹10L",
+    avgPlacement: "₹14.80 LPA",
+    topExams: ["JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Haryana",
+    badge: "NCR Industrial Corridor",
+    icon: "⚙️",
+    cities: "Kurukshetra, Faridabad",
+    topInstitutes: "NIT Kurukshetra, YMCA UST Faridabad",
+    avgFee: "₹3.5L - ₹6.5L",
+    avgPlacement: "₹12.00 LPA",
+    topExams: ["JEE Main", "HSTES"]
+  },
+  {
+    name: "Uttarakhand",
+    badge: "Himalayan Tech Pioneers",
+    icon: "⛰️",
+    cities: "Roorkee, Srinagar Garhwal",
+    topInstitutes: "IIT Roorkee, NIT Uttarakhand, Pantnagar",
+    avgFee: "₹5.5L - ₹10L",
+    avgPlacement: "₹16.50 LPA",
+    topExams: ["JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Himachal Pradesh",
+    badge: "Mountain Research Corridors",
+    icon: "🏔️",
+    cities: "Mandi, Hamirpur",
+    topInstitutes: "IIT Mandi, NIT Hamirpur, JUIT Waknaghat",
+    avgFee: "₹5.5L - ₹10L",
+    avgPlacement: "₹14.50 LPA",
+    topExams: ["JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Assam & North East",
+    badge: "Northeastern Gateway",
+    icon: "🌄",
+    cities: "Guwahati, Silchar, Shillong, Agartala",
+    topInstitutes: "IIT Guwahati, NIT Silchar, NIT Meghalaya, NIT Agartala",
+    avgFee: "₹5.5L - ₹10L",
+    avgPlacement: "₹15.80 LPA",
+    topExams: ["JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Goa",
+    badge: "Coastal Tech & Innovation Hub",
+    icon: "🏖️",
+    cities: "Ponda, Cuncolim, Zuarinagar",
+    topInstitutes: "BITS Goa, IIT Goa, NIT Goa",
+    avgFee: "₹5.5L - ₹24L",
+    avgPlacement: "₹16.00 LPA",
+    topExams: ["BITSAT", "JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Jammu & Kashmir",
+    badge: "Northern Frontier Institutes",
+    icon: "❄️",
+    cities: "Jammu, Srinagar, Katra",
+    topInstitutes: "IIT Jammu, NIT Srinagar, SMVDU Katra",
+    avgFee: "₹5.5L - ₹9.5L",
+    avgPlacement: "₹12.50 LPA",
+    topExams: ["JEE Advanced", "JEE Main"]
+  },
+  {
+    name: "Chhattisgarh",
+    badge: "Central Industrial Heartland",
+    icon: "⛏️",
+    cities: "Raipur, Bhilai, Durg",
+    topInstitutes: "IIT Bhilai, NIT Raipur, BIT Durg",
+    avgFee: "₹5.5L - ₹9.5L",
+    avgPlacement: "₹12.80 LPA",
+    topExams: ["JEE Advanced", "JEE Main", "CG PET"]
+  }
+];
+
 export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: CollegeMetadata[]; trendingBlogs?: TrendingBlog[] }) {
   const router = useRouter();
   const [comparedColleges, setComparedColleges] = useState<CollegeMetadata[]>([]);
@@ -35,6 +471,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
   const [selectedRanking, setSelectedRanking] = useState("All Rankings");
   const [showFiltersMobile, setShowFiltersMobile] = useState(false);
   const [visibleCount, setVisibleCount] = useState(20);
+  const [stateExplorerStream, setStateExplorerStream] = useState<'management' | 'engineering'>('management');
   const [sortBy, setSortBy] = useState("default");
   const [userScoreInput, setUserScoreInput] = useState("");
   const [userScore, setUserScore] = useState(0);
@@ -107,42 +544,396 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
 
   const specializationOptions = specializationMap[selectedCategory] ?? null;
 
+  // Comprehensive Pan-India city & district mapping for all states
   const locationMap = useMemo(() => {
+    const cityMap: Record<string, { state: string; city: string }> = {
+      // Tamil Nadu
+      "chennai": { state: "Tamil Nadu", city: "Chennai" },
+      "coimbatore": { state: "Tamil Nadu", city: "Coimbatore" },
+      "madurai": { state: "Tamil Nadu", city: "Madurai" },
+      "tiruchirappalli": { state: "Tamil Nadu", city: "Trichy" },
+      "trichy": { state: "Tamil Nadu", city: "Trichy" },
+      "salem": { state: "Tamil Nadu", city: "Salem" },
+      "vellore": { state: "Tamil Nadu", city: "Vellore" },
+      "tiruppur": { state: "Tamil Nadu", city: "Tiruppur" },
+      "erode": { state: "Tamil Nadu", city: "Erode" },
+      "tirunelveli": { state: "Tamil Nadu", city: "Tirunelveli" },
+      "thoothukudi": { state: "Tamil Nadu", city: "Thoothukudi" },
+      "dindigul": { state: "Tamil Nadu", city: "Dindigul" },
+      "thanjavur": { state: "Tamil Nadu", city: "Thanjavur" },
+      "ranipet": { state: "Tamil Nadu", city: "Ranipet" },
+      "sivakasi": { state: "Tamil Nadu", city: "Sivakasi" },
+      "karur": { state: "Tamil Nadu", city: "Karur" },
+      "nagercoil": { state: "Tamil Nadu", city: "Nagercoil" },
+      "kanchipuram": { state: "Tamil Nadu", city: "Kanchipuram" },
+      "cuddalore": { state: "Tamil Nadu", city: "Cuddalore" },
+      "hosur": { state: "Tamil Nadu", city: "Hosur" },
+      "ambur": { state: "Tamil Nadu", city: "Ambur" },
+      "neyveli": { state: "Tamil Nadu", city: "Neyveli" },
+      "kumbakonam": { state: "Tamil Nadu", city: "Kumbakonam" },
+      "pudukkottai": { state: "Tamil Nadu", city: "Pudukkottai" },
+      "rajapalayam": { state: "Tamil Nadu", city: "Rajapalayam" },
+      "pollachi": { state: "Tamil Nadu", city: "Pollachi" },
+
+      // Telangana
+      "hyderabad": { state: "Telangana", city: "Hyderabad" },
+      "secunderabad": { state: "Telangana", city: "Secunderabad" },
+      "warangal": { state: "Telangana", city: "Warangal" },
+      "nizamabad": { state: "Telangana", city: "Nizamabad" },
+      "khammam": { state: "Telangana", city: "Khammam" },
+      "karimnagar": { state: "Telangana", city: "Karimnagar" },
+      "ramagundam": { state: "Telangana", city: "Ramagundam" },
+      "mahbubnagar": { state: "Telangana", city: "Mahbubnagar" },
+      "nalgonda": { state: "Telangana", city: "Nalgonda" },
+      "adilabad": { state: "Telangana", city: "Adilabad" },
+      "suryapet": { state: "Telangana", city: "Suryapet" },
+      "siddipet": { state: "Telangana", city: "Siddipet" },
+      "miryalaguda": { state: "Telangana", city: "Miryalaguda" },
+      "jagtial": { state: "Telangana", city: "Jagtial" },
+      "mancherial": { state: "Telangana", city: "Mancherial" },
+      "kothagudem": { state: "Telangana", city: "Kothagudem" },
+      "bodhan": { state: "Telangana", city: "Bodhan" },
+
+      // Andhra Pradesh
+      "visakhapatnam": { state: "Andhra Pradesh", city: "Visakhapatnam" },
+      "vijayawada": { state: "Andhra Pradesh", city: "Vijayawada" },
+      "guntur": { state: "Andhra Pradesh", city: "Guntur" },
+      "nellore": { state: "Andhra Pradesh", city: "Nellore" },
+      "kurnool": { state: "Andhra Pradesh", city: "Kurnool" },
+      "kakinada": { state: "Andhra Pradesh", city: "Kakinada" },
+      "rajahmundry": { state: "Andhra Pradesh", city: "Rajahmundry" },
+      "tirupati": { state: "Andhra Pradesh", city: "Tirupati" },
+      "kadapa": { state: "Andhra Pradesh", city: "Kadapa" },
+      "anantapur": { state: "Andhra Pradesh", city: "Anantapur" },
+      "vizianagaram": { state: "Andhra Pradesh", city: "Vizianagaram" },
+      "eluru": { state: "Andhra Pradesh", city: "Eluru" },
+      "ongole": { state: "Andhra Pradesh", city: "Ongole" },
+      "nandyal": { state: "Andhra Pradesh", city: "Nandyal" },
+      "machilipatnam": { state: "Andhra Pradesh", city: "Machilipatnam" },
+      "adoni": { state: "Andhra Pradesh", city: "Adoni" },
+      "tenali": { state: "Andhra Pradesh", city: "Tenali" },
+      "proddatur": { state: "Andhra Pradesh", city: "Proddatur" },
+      "chittoor": { state: "Andhra Pradesh", city: "Chittoor" },
+      "hindupur": { state: "Andhra Pradesh", city: "Hindupur" },
+      "bhimavaram": { state: "Andhra Pradesh", city: "Bhimavaram" },
+      "guntakal": { state: "Andhra Pradesh", city: "Guntakal" },
+      "dharmavaram": { state: "Andhra Pradesh", city: "Dharmavaram" },
+      "gudivada": { state: "Andhra Pradesh", city: "Gudivada" },
+      "srikakulam": { state: "Andhra Pradesh", city: "Srikakulam" },
+      "sri city": { state: "Andhra Pradesh", city: "Sri City" },
+
+      // Kerala
+      "kochi": { state: "Kerala", city: "Kochi" },
+      "ernakulam": { state: "Kerala", city: "Kochi" },
+      "kozhikode": { state: "Kerala", city: "Kozhikode" },
+      "calicut": { state: "Kerala", city: "Kozhikode" },
+      "thiruvananthapuram": { state: "Kerala", city: "Thiruvananthapuram" },
+      "trivandrum": { state: "Kerala", city: "Thiruvananthapuram" },
+      "thrissur": { state: "Kerala", city: "Thrissur" },
+      "kannur": { state: "Kerala", city: "Kannur" },
+      "alappuzha": { state: "Kerala", city: "Alappuzha" },
+      "kollam": { state: "Kerala", city: "Kollam" },
+      "palakkad": { state: "Kerala", city: "Palakkad" },
+      "kottayam": { state: "Kerala", city: "Kottayam" },
+      "malappuram": { state: "Kerala", city: "Malappuram" },
+      "kasaragod": { state: "Kerala", city: "Kasaragod" },
+      "wayanad": { state: "Kerala", city: "Wayanad" },
+      "idukki": { state: "Kerala", city: "Idukki" },
+      "pathanamthitta": { state: "Kerala", city: "Pathanamthitta" },
+      "kayamkulam": { state: "Kerala", city: "Kayamkulam" },
+      "chalakudy": { state: "Kerala", city: "Chalakudy" },
+      "changanassery": { state: "Kerala", city: "Changanassery" },
+      "neyyattinkara": { state: "Kerala", city: "Neyyattinkara" },
+      "koyilandy": { state: "Kerala", city: "Koyilandy" },
+      "taliparamba": { state: "Kerala", city: "Taliparamba" },
+      "ponnani": { state: "Kerala", city: "Ponnani" },
+      "vadakara": { state: "Kerala", city: "Vadakara" },
+      "manjeri": { state: "Kerala", city: "Manjeri" },
+
+      // Madhya Pradesh
+      "indore": { state: "Madhya Pradesh", city: "Indore" },
+      "bhopal": { state: "Madhya Pradesh", city: "Bhopal" },
+      "gwalior": { state: "Madhya Pradesh", city: "Gwalior" },
+      "jabalpur": { state: "Madhya Pradesh", city: "Jabalpur" },
+      "ujjain": { state: "Madhya Pradesh", city: "Ujjain" },
+      "sagar": { state: "Madhya Pradesh", city: "Sagar" },
+      "rewa": { state: "Madhya Pradesh", city: "Rewa" },
+      "satna": { state: "Madhya Pradesh", city: "Satna" },
+
+      // Odisha
+      "bhubaneswar": { state: "Odisha", city: "Bhubaneswar" },
+      "cuttack": { state: "Odisha", city: "Cuttack" },
+      "rourkela": { state: "Odisha", city: "Rourkela" },
+      "sambalpur": { state: "Odisha", city: "Sambalpur" },
+      "berhampur": { state: "Odisha", city: "Berhampur" },
+
+      // Bihar
+      "patna": { state: "Bihar", city: "Patna" },
+      "gaya": { state: "Bihar", city: "Gaya" },
+      "bhagalpur": { state: "Bihar", city: "Bhagalpur" },
+      "muzaffarpur": { state: "Bihar", city: "Muzaffarpur" },
+      "bodh gaya": { state: "Bihar", city: "Bodh Gaya" },
+
+      // Jharkhand
+      "ranchi": { state: "Jharkhand", city: "Ranchi" },
+      "jamshedpur": { state: "Jharkhand", city: "Jamshedpur" },
+      "dhanbad": { state: "Jharkhand", city: "Dhanbad" },
+      "bokaro": { state: "Jharkhand", city: "Bokaro" },
+
+      // Goa
+      "goa": { state: "Goa", city: "Goa" },
+      "panaji": { state: "Goa", city: "Panaji" },
+      "sanquelim": { state: "Goa", city: "Sanquelim" },
+
+      // Himachal Pradesh
+      "shimla": { state: "Himachal Pradesh", city: "Shimla" },
+      "solan": { state: "Himachal Pradesh", city: "Solan" },
+      "dharamshala": { state: "Himachal Pradesh", city: "Dharamshala" },
+      "sirmaur": { state: "Himachal Pradesh", city: "Sirmaur" },
+      "paonta sahib": { state: "Himachal Pradesh", city: "Paonta Sahib" },
+
+      // Assam & North East
+      "guwahati": { state: "Assam & North East", city: "Guwahati" },
+      "shillong": { state: "Assam & North East", city: "Shillong" },
+      "tezpur": { state: "Assam & North East", city: "Tezpur" },
+      "silchar": { state: "Assam & North East", city: "Silchar" },
+      "dibrugarh": { state: "Assam & North East", city: "Dibrugarh" },
+      "jorhat": { state: "Assam & North East", city: "Jorhat" },
+      "imphal": { state: "Assam & North East", city: "Imphal" },
+      "agartala": { state: "Assam & North East", city: "Agartala" },
+      "gangtok": { state: "Assam & North East", city: "Gangtok" },
+
+      // Chhattisgarh
+      "raipur": { state: "Chhattisgarh", city: "Raipur" },
+      "bhilai": { state: "Chhattisgarh", city: "Bhilai" },
+      "bilaspur": { state: "Chhattisgarh", city: "Bilaspur" },
+      "raigarh": { state: "Chhattisgarh", city: "Raigarh" },
+
+      // Jammu & Kashmir
+      "jammu": { state: "Jammu & Kashmir", city: "Jammu" },
+      "srinagar": { state: "Jammu & Kashmir", city: "Srinagar" },
+
+      // Punjab & Chandigarh
+      "chandigarh": { state: "Punjab & Chandigarh", city: "Chandigarh" },
+      "mohali": { state: "Punjab & Chandigarh", city: "Mohali" },
+      "ludhiana": { state: "Punjab & Chandigarh", city: "Ludhiana" },
+      "amritsar": { state: "Punjab & Chandigarh", city: "Amritsar" },
+      "jalandhar": { state: "Punjab & Chandigarh", city: "Jalandhar" },
+      "patiala": { state: "Punjab & Chandigarh", city: "Patiala" },
+      "bathinda": { state: "Punjab & Chandigarh", city: "Bathinda" },
+      "phagwara": { state: "Punjab & Chandigarh", city: "Phagwara" },
+      "rajpura": { state: "Punjab & Chandigarh", city: "Rajpura" },
+      "dera bassi": { state: "Punjab & Chandigarh", city: "Dera Bassi" },
+
+      // Haryana
+      "gurgaon": { state: "Haryana", city: "Gurgaon" },
+      "gurugram": { state: "Haryana", city: "Gurgaon" },
+      "faridabad": { state: "Haryana", city: "Faridabad" },
+      "panipat": { state: "Haryana", city: "Panipat" },
+      "ambala": { state: "Haryana", city: "Ambala" },
+      "rohtak": { state: "Haryana", city: "Rohtak" },
+      "hisar": { state: "Haryana", city: "Hisar" },
+      "karnal": { state: "Haryana", city: "Karnal" },
+      "sonipat": { state: "Haryana", city: "Sonipat" },
+      "bahadurgarh": { state: "Haryana", city: "Bahadurgarh" },
+
+      // Karnataka
+      "bangalore": { state: "Karnataka", city: "Bangalore" },
+      "bengaluru": { state: "Karnataka", city: "Bangalore" },
+      "manipal": { state: "Karnataka", city: "Manipal" },
+      "mangalore": { state: "Karnataka", city: "Mangalore" },
+      "mysore": { state: "Karnataka", city: "Mysore" },
+      "mysuru": { state: "Karnataka", city: "Mysore" },
+      "hubli": { state: "Karnataka", city: "Hubli" },
+      "dharwad": { state: "Karnataka", city: "Dharwad" },
+      "belgaum": { state: "Karnataka", city: "Belgaum" },
+      "bellary": { state: "Karnataka", city: "Bellary" },
+      "davanagere": { state: "Karnataka", city: "Davanagere" },
+      "shimoga": { state: "Karnataka", city: "Shimoga" },
+      "tumkur": { state: "Karnataka", city: "Tumkur" },
+      "bidar": { state: "Karnataka", city: "Bidar" },
+      "bijapur": { state: "Karnataka", city: "Bijapur" },
+      "raichur": { state: "Karnataka", city: "Raichur" },
+      "udupi": { state: "Karnataka", city: "Udupi" },
+      "kolar": { state: "Karnataka", city: "Kolar" },
+      "chikmagalur": { state: "Karnataka", city: "Chikmagalur" },
+      "bagalkot": { state: "Karnataka", city: "Bagalkot" },
+      "gangavati": { state: "Karnataka", city: "Gangavati" },
+      "hospet": { state: "Karnataka", city: "Hospet" },
+      "hassan": { state: "Karnataka", city: "Hassan" },
+      "ranibennur": { state: "Karnataka", city: "Ranibennur" },
+      "mandya": { state: "Karnataka", city: "Mandya" },
+      "karwar": { state: "Karnataka", city: "Karwar" },
+      "gulbarga": { state: "Karnataka", city: "Gulbarga" },
+      "harihar": { state: "Karnataka", city: "Harihar" },
+
+      // Maharashtra
+      "mumbai": { state: "Maharashtra", city: "Mumbai" },
+      "pune": { state: "Maharashtra", city: "Pune" },
+      "nagpur": { state: "Maharashtra", city: "Nagpur" },
+      "nashik": { state: "Maharashtra", city: "Nashik" },
+      "aurangabad": { state: "Maharashtra", city: "Aurangabad" },
+      "sambhajinagar": { state: "Maharashtra", city: "Chhatrapati Sambhajinagar" },
+      "thane": { state: "Maharashtra", city: "Thane" },
+      "navi mumbai": { state: "Maharashtra", city: "Navi Mumbai" },
+      "solapur": { state: "Maharashtra", city: "Solapur" },
+      "kolhapur": { state: "Maharashtra", city: "Kolhapur" },
+      "amravati": { state: "Maharashtra", city: "Amravati" },
+      "akola": { state: "Maharashtra", city: "Akola" },
+      "ahmednagar": { state: "Maharashtra", city: "Ahmednagar" },
+      "jalgaon": { state: "Maharashtra", city: "Jalgaon" },
+      "dhule": { state: "Maharashtra", city: "Dhule" },
+      "chandrapur": { state: "Maharashtra", city: "Chandrapur" },
+      "nanded": { state: "Maharashtra", city: "Nanded" },
+      "sangli": { state: "Maharashtra", city: "Sangli" },
+      "satara": { state: "Maharashtra", city: "Satara" },
+      "latur": { state: "Maharashtra", city: "Latur" },
+      "beed": { state: "Maharashtra", city: "Beed" },
+      "jalna": { state: "Maharashtra", city: "Jalna" },
+      "yavatmal": { state: "Maharashtra", city: "Yavatmal" },
+      "bhusawal": { state: "Maharashtra", city: "Bhusawal" },
+      "ichalkaranji": { state: "Maharashtra", city: "Ichalkaranji" },
+      "malegaon": { state: "Maharashtra", city: "Malegaon" },
+      "kalyan": { state: "Maharashtra", city: "Kalyan" },
+      "dombivli": { state: "Maharashtra", city: "Dombivli" },
+      "mira-bhayandar": { state: "Maharashtra", city: "Mira Bhayandar" },
+      "ulhasnagar": { state: "Maharashtra", city: "Ulhasnagar" },
+      "vasai": { state: "Maharashtra", city: "Vasai-Virar" },
+      "virar": { state: "Maharashtra", city: "Vasai-Virar" },
+      "wardha": { state: "Maharashtra", city: "Wardha" },
+      "gondia": { state: "Maharashtra", city: "Gondia" },
+      "osmanabad": { state: "Maharashtra", city: "Osmanabad" },
+      "udgir": { state: "Maharashtra", city: "Udgir" },
+      "achalpur": { state: "Maharashtra", city: "Achalpur" },
+      "barshi": { state: "Maharashtra", city: "Barshi" },
+      "panvel": { state: "Maharashtra", city: "Panvel" },
+
+      // Gujarat
+      "ahmedabad": { state: "Gujarat", city: "Ahmedabad" },
+      "gandhinagar": { state: "Gujarat", city: "Gandhinagar" },
+      "anand": { state: "Gujarat", city: "Anand" },
+      "vadodara": { state: "Gujarat", city: "Vadodara" },
+      "surat": { state: "Gujarat", city: "Surat" },
+      "rajkot": { state: "Gujarat", city: "Rajkot" },
+      "bhavnagar": { state: "Gujarat", city: "Bhavnagar" },
+      "jamnagar": { state: "Gujarat", city: "Jamnagar" },
+      "junagadh": { state: "Gujarat", city: "Junagadh" },
+      "nadiad": { state: "Gujarat", city: "Nadiad" },
+      "morbi": { state: "Gujarat", city: "Morbi" },
+      "mehsana": { state: "Gujarat", city: "Mehsana" },
+      "bharuch": { state: "Gujarat", city: "Bharuch" },
+      "navsari": { state: "Gujarat", city: "Navsari" },
+      "veraval": { state: "Gujarat", city: "Veraval" },
+      "porbandar": { state: "Gujarat", city: "Porbandar" },
+      "valsad": { state: "Gujarat", city: "Valsad" },
+      "vapi": { state: "Gujarat", city: "Vapi" },
+
+      // Rajasthan
+      "jaipur": { state: "Rajasthan", city: "Jaipur" },
+      "udaipur": { state: "Rajasthan", city: "Udaipur" },
+      "jodhpur": { state: "Rajasthan", city: "Jodhpur" },
+      "kota": { state: "Rajasthan", city: "Kota" },
+      "bikaner": { state: "Rajasthan", city: "Bikaner" },
+      "ajmer": { state: "Rajasthan", city: "Ajmer" },
+      "pilani": { state: "Rajasthan", city: "Pilani" },
+      "alwar": { state: "Rajasthan", city: "Alwar" },
+      "sikar": { state: "Rajasthan", city: "Sikar" },
+
+      // West Bengal
+      "kolkata": { state: "West Bengal", city: "Kolkata" },
+      "kharagpur": { state: "West Bengal", city: "Kharagpur" },
+      "durgapur": { state: "West Bengal", city: "Durgapur" },
+      "siliguri": { state: "West Bengal", city: "Siliguri" },
+      "howrah": { state: "West Bengal", city: "Howrah" },
+      "haldia": { state: "West Bengal", city: "Haldia" },
+      "hooghly": { state: "West Bengal", city: "Hooghly" },
+
+      // Uttarakhand
+      "dehradun": { state: "Uttarakhand", city: "Dehradun" },
+      "roorkee": { state: "Uttarakhand", city: "Roorkee" },
+      "haridwar": { state: "Uttarakhand", city: "Haridwar" },
+      "kashipur": { state: "Uttarakhand", city: "Kashipur" },
+
+      // Delhi NCR / Uttar Pradesh
+      "delhi": { state: "Delhi NCR", city: "Delhi" },
+      "noida": { state: "Delhi NCR", city: "Noida" },
+      "greater noida": { state: "Delhi NCR", city: "Greater Noida" },
+      "ghaziabad": { state: "Delhi NCR", city: "Ghaziabad" },
+      "lucknow": { state: "Uttar Pradesh", city: "Lucknow" },
+      "kanpur": { state: "Uttar Pradesh", city: "Kanpur" },
+      "varanasi": { state: "Uttar Pradesh", city: "Varanasi" },
+      "prayagraj": { state: "Uttar Pradesh", city: "Prayagraj" },
+      "agra": { state: "Uttar Pradesh", city: "Agra" },
+      "meerut": { state: "Uttar Pradesh", city: "Meerut" },
+      "bareilly": { state: "Uttar Pradesh", city: "Bareilly" },
+      "aligarh": { state: "Uttar Pradesh", city: "Aligarh" },
+      "moradabad": { state: "Uttar Pradesh", city: "Moradabad" },
+      "saharanpur": { state: "Uttar Pradesh", city: "Saharanpur" },
+      "gorakhpur": { state: "Uttar Pradesh", city: "Gorakhpur" },
+      "jhansi": { state: "Uttar Pradesh", city: "Jhansi" },
+      "mathura": { state: "Uttar Pradesh", city: "Mathura" },
+
+      // Additional Engineering Hub Cities
+      "sangareddy": { state: "Telangana", city: "Sangareddy" },
+      "shibpur": { state: "West Bengal", city: "Howrah" },
+      "tadepalligudem": { state: "Andhra Pradesh", city: "Tadepalligudem" },
+      "rupnagar": { state: "Punjab & Chandigarh", city: "Rupnagar" },
+      "ropar": { state: "Punjab & Chandigarh", city: "Rupnagar" },
+      "kurukshetra": { state: "Haryana", city: "Kurukshetra" },
+      "mandi": { state: "Himachal Pradesh", city: "Mandi" },
+      "kamand": { state: "Himachal Pradesh", city: "Mandi" },
+      "hamirpur": { state: "Himachal Pradesh", city: "Hamirpur" },
+      "cuncolim": { state: "Goa", city: "Cuncolim" },
+      "zuarinagar": { state: "Goa", city: "Zuarinagar" },
+      "durg": { state: "Chhattisgarh", city: "Durg" }
+    };
+
     return colleges.reduce((acc, college) => {
-      const loc = college.location.toLowerCase();
-      let state = "Other", city = "Other";
-      if (loc.includes("delhi")) { state = "Delhi"; city = "Delhi"; }
-      else if (loc.includes("uttar pradesh") || loc.includes("noida") || loc.includes("greater noida") || loc.includes("ghaziabad")) {
-        state = "Uttar Pradesh";
-        if (loc.includes("greater noida")) city = "Greater Noida";
-        else if (loc.includes("noida")) city = "Noida";
-        else if (loc.includes("ghaziabad")) city = "Ghaziabad";
-        else city = "Noida";
-      } else if (loc.includes("haryana") || loc.includes("gurgaon") || loc.includes("faridabad")) {
-        state = "Haryana";
-        if (loc.includes("faridabad")) city = "Faridabad";
-        else city = "Gurgaon";
-      } else if (loc.includes("punjab") || loc.includes("chandigarh") || loc.includes("mohali")) {
-        state = "Punjab & Chandigarh";
-        if (loc.includes("mohali")) city = "Mohali";
-        else if (loc.includes("chandigarh")) city = "Chandigarh";
-        else city = "Chandigarh";
-      } else if (loc.includes("karnataka") || loc.includes("bangalore")) {
-        state = "Karnataka"; city = "Bangalore";
-      } else if (loc.includes("maharashtra") || loc.includes("mumbai") || loc.includes("pune")) {
-        state = "Maharashtra";
-        if (loc.includes("mumbai")) city = "Mumbai";
-        else if (loc.includes("pune")) city = "Pune";
-        else if (loc.includes("navi mumbai")) city = "Navi Mumbai";
-      } else if (loc.includes("rajasthan") || loc.includes("jaipur")) {
-        state = "Rajasthan"; city = "Jaipur";
-      } else if (loc.includes("uttarakhand") || loc.includes("dehradun")) {
-        state = "Uttarakhand"; city = "Dehradun";
-      } else if (loc.includes("west bengal") || loc.includes("kolkata")) {
-        state = "West Bengal"; city = "Kolkata";
-      } else if (loc.includes("gujarat") || loc.includes("ahmedabad")) {
-        state = "Gujarat"; city = "Ahmedabad";
+      const loc = (college.location || "").toLowerCase();
+      const name = (college.name || "").toLowerCase();
+      let state = college.state || "Other";
+      let city = "Other";
+
+      // 1. Direct city check
+      for (const [key, mapping] of Object.entries(cityMap)) {
+        if (loc.includes(key)) {
+          if (state === "Other") state = mapping.state;
+          city = mapping.city;
+          break;
+        }
       }
+
+      // 2. Name-based fallback if location was generic (e.g. "India")
+      if (state === "Other") {
+        if (name.includes("delhi") || name.includes("ncr") || name.includes("ggsipu") || name.includes("vips") || name.includes("jims") || (name.includes("iitm") && !name.includes("madras"))) {
+          state = "Delhi NCR"; city = "Delhi";
+        } else if (name.includes("bangalore") || name.includes("bengaluru") || name.includes("christ") || name.includes("rv") || name.includes("bms") || name.includes("ramaiah")) {
+          state = "Karnataka"; city = "Bangalore";
+        } else if (name.includes("mumbai") || name.includes("pune") || name.includes("d y patil") || name.includes("dy patil") || name.includes("symbiosis") || name.includes("mit-wpu")) {
+          state = "Maharashtra"; city = name.includes("mumbai") ? "Mumbai" : "Pune";
+        } else if (name.includes("chennai") || name.includes("karunya") || name.includes("mgr") || name.includes("srm") || name.includes("vit")) {
+          state = "Tamil Nadu"; city = "Chennai";
+        } else if (name.includes("hyderabad") || name.includes("cvr") || name.includes("telangana")) {
+          state = "Telangana"; city = "Hyderabad";
+        } else if (name.includes("gla university") || name.includes("bajaj") || name.includes("greater noida") || name.includes("ghaziabad")) {
+          state = "Delhi NCR"; city = "Greater Noida";
+        } else if (name.includes("kolkata") || name.includes("calcutta")) {
+          state = "West Bengal"; city = "Kolkata";
+        } else if (name.includes("jaipur")) {
+          state = "Rajasthan"; city = "Jaipur";
+        } else if (name.includes("dehradun") || name.includes("roorkee")) {
+          state = "Uttarakhand"; city = "Dehradun";
+        }
+      }
+
+      // Fallback city from location string if still Other
+      if (city === "Other" && college.location) {
+        const parts = college.location.split(",");
+        if (parts.length > 0 && parts[0].trim()) {
+          city = parts[0].trim();
+        }
+      }
+
       acc[college.slug] = { state, city };
       return acc;
     }, {} as Record<string, { state: string; city: string }>);
@@ -311,6 +1102,48 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
     setSearchQuery("");
   };
 
+  const mbaStateCountsMap = useMemo(() => {
+    const counts: Record<string, number> = {};
+    colleges
+      .filter((c) => c.category === "Management" || (c.courses && c.courses.some((cr) => cr.toLowerCase().includes("mba") || cr.toLowerCase().includes("pgdm"))))
+      .forEach((c) => {
+        const info = locationMap[c.slug];
+        if (info && info.state) {
+          counts[info.state] = (counts[info.state] || 0) + 1;
+        }
+      });
+    return counts;
+  }, [colleges, locationMap]);
+
+  const btechStateCountsMap = useMemo(() => {
+    const counts: Record<string, number> = {};
+    colleges
+      .filter((c) => c.category === "Engineering" || (c.courses && c.courses.some((cr) => cr.toLowerCase().includes("b.tech") || cr.toLowerCase().includes("b.e") || cr.toLowerCase().includes("m.tech"))))
+      .forEach((c) => {
+        const info = locationMap[c.slug];
+        if (info && info.state) {
+          counts[info.state] = (counts[info.state] || 0) + 1;
+        }
+      });
+    return counts;
+  }, [colleges, locationMap]);
+
+  const handleSelectState = (stateName: string, categoryPreference?: "Management" | "Engineering") => {
+    setSelectedState(stateName);
+    setSelectedCity("All Cities");
+    if (categoryPreference) {
+      setSelectedCategory(categoryPreference);
+    } else if (stateExplorerStream === 'engineering' && selectedCategory !== "Engineering") {
+      setSelectedCategory("Engineering");
+    } else if (stateExplorerStream === 'management' && selectedCategory !== "Management" && selectedCategory !== "All Streams") {
+      setSelectedCategory("Management");
+    }
+    const el = document.getElementById("college-listings-section");
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   const activeFiltersCount = [
     selectedCategory !== "All Streams",
     selectedCourse !== "All Courses",
@@ -386,6 +1219,8 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                     setSelectedCourse("All Courses");
                     setSelectedExam("All Exams");
                     setSelectedSpecialization("All Specializations");
+                    if (cat === "Management") setStateExplorerStream("management");
+                    if (cat === "Engineering") setStateExplorerStream("engineering");
                   }}
                   className={`px-4 py-2 text-xs sm:text-sm font-bold rounded-xl transition-all whitespace-nowrap cursor-pointer ${
                     isActive 
@@ -425,6 +1260,124 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
             </button>
           </div>
         </div>
+
+        {/* Shiksha.com Style: Explore Colleges by State (MBA/PGDM & B.Tech/M.Tech) */}
+        {(selectedCategory === "All Streams" || selectedCategory === "Management" || selectedCategory === "Engineering") && (
+          <div className="bg-white rounded-3xl border border-slate-200/90 p-5 sm:p-7 mb-8 shadow-xs">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6 pb-4 border-b border-slate-100">
+              <div>
+                <div className="flex flex-wrap items-center gap-2 mb-2">
+                  <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-blue-50 border border-blue-200 text-blue-700 text-[10px] font-bold uppercase tracking-wider">
+                    <Sparkles className="w-3 h-3 text-amber-500" />
+                    {selectedCategory === "Engineering" || (selectedCategory === "All Streams" && stateExplorerStream === 'engineering')
+                      ? "Pan-India B.Tech & M.Tech Directory (Shiksha Format)" 
+                      : "Pan-India MBA Directory (Shiksha Format)"}
+                  </div>
+
+                  {selectedCategory === "All Streams" && (
+                    <div className="inline-flex items-center p-0.5 bg-slate-100 rounded-xl border border-slate-200 text-xs">
+                      <button
+                        onClick={() => setStateExplorerStream('management')}
+                        className={`px-3 py-1 rounded-lg font-bold transition-all cursor-pointer ${
+                          stateExplorerStream === 'management'
+                            ? "bg-white text-blue-600 shadow-xs"
+                            : "text-slate-600 hover:text-slate-900"
+                        }`}
+                      >
+                        🎓 MBA / PGDM Hubs
+                      </button>
+                      <button
+                        onClick={() => setStateExplorerStream('engineering')}
+                        className={`px-3 py-1 rounded-lg font-bold transition-all cursor-pointer ${
+                          stateExplorerStream === 'engineering'
+                            ? "bg-white text-blue-600 shadow-xs"
+                            : "text-slate-600 hover:text-slate-900"
+                        }`}
+                      >
+                        ⚡ B.Tech / M.Tech Hubs
+                      </button>
+                    </div>
+                  )}
+                </div>
+
+                <h2 className="text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight">
+                  {(selectedCategory === "Engineering" || (selectedCategory === "All Streams" && stateExplorerStream === 'engineering'))
+                    ? "Explore B.Tech & M.Tech Colleges by State"
+                    : "Explore MBA & PGDM Colleges by State"}
+                </h2>
+                <p className="text-xs sm:text-sm text-slate-500 mt-1">
+                  {(selectedCategory === "Engineering" || (selectedCategory === "All Streams" && stateExplorerStream === 'engineering'))
+                    ? "Select any Indian state to browse audited fees, JEE Main/Advanced cutoffs, highest & average packages, and top engineering universities."
+                    : "Select any Indian state to browse audited fees, CAT/XAT cutoffs, placement packages, and top B-schools."}
+                </p>
+              </div>
+
+              <button
+                onClick={() => {
+                  const targetCat = (selectedCategory === "Engineering" || (selectedCategory === "All Streams" && stateExplorerStream === 'engineering')) ? "Engineering" : "Management";
+                  handleSelectState("All States", targetCat);
+                }}
+                className="text-xs font-bold text-blue-600 hover:text-blue-800 self-start sm:self-center shrink-0 cursor-pointer"
+              >
+                {(selectedCategory === "Engineering" || (selectedCategory === "All Streams" && stateExplorerStream === 'engineering'))
+                  ? `View All States (${colleges.filter(c => c.category === "Engineering").length}+ Colleges) →`
+                  : `View All States (${colleges.filter(c => c.category === "Management").length}+ Colleges) →`}
+              </button>
+            </div>
+
+            {/* Grid of State Cards */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+              {(selectedCategory === "Engineering" || (selectedCategory === "All Streams" && stateExplorerStream === 'engineering')
+                ? STATE_ENGINEERING_EXPLORER_HUBS
+                : STATE_MBA_EXPLORER_HUBS
+              ).map((hub) => {
+                const isEngg = selectedCategory === "Engineering" || (selectedCategory === "All Streams" && stateExplorerStream === 'engineering');
+                const count = isEngg ? (btechStateCountsMap[hub.name] || 0) : (mbaStateCountsMap[hub.name] || 0);
+                const isSelected = selectedState === hub.name;
+                return (
+                  <div
+                    key={hub.name}
+                    onClick={() => handleSelectState(hub.name, isEngg ? "Engineering" : "Management")}
+                    className={`group p-4 rounded-2xl border transition-all cursor-pointer flex flex-col justify-between ${
+                      isSelected
+                        ? "bg-blue-50/80 border-blue-500 shadow-md ring-2 ring-blue-500/20"
+                        : "bg-slate-50/50 hover:bg-white border-slate-200/80 hover:border-blue-300 hover:shadow-md"
+                    }`}
+                  >
+                    <div>
+                      <div className="flex items-center justify-between gap-2 mb-2">
+                        <span className="text-2xl">{hub.icon}</span>
+                        <span className="text-[10px] font-extrabold bg-white border border-slate-200 text-blue-600 px-2 py-0.5 rounded-full">
+                          {count > 0 ? `${count}+ Colleges` : 'Top Hub'}
+                        </span>
+                      </div>
+                      <h3 className="text-base font-bold text-slate-900 group-hover:text-blue-600 transition-colors flex items-center gap-1.5">
+                        {hub.name}
+                      </h3>
+                      <p className="text-[11px] font-semibold text-slate-400 mt-0.5">
+                        {hub.badge} • {hub.cities}
+                      </p>
+                      <p className="text-xs text-slate-600 mt-2.5 line-clamp-2 leading-relaxed">
+                        <strong className="text-slate-800">{isEngg ? 'Top Tech Campuses:' : 'Top B-Schools:'}</strong> {hub.topInstitutes}
+                      </p>
+                    </div>
+
+                    <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-[11px]">
+                      <div>
+                        <span className="text-slate-400 block text-[9px] uppercase font-bold">Avg Package</span>
+                        <span className="font-extrabold text-emerald-600">{hub.avgPlacement}</span>
+                      </div>
+                      <div className="text-right">
+                        <span className="text-slate-400 block text-[9px] uppercase font-bold">Fees Tier</span>
+                        <span className="font-bold text-slate-700">{hub.avgFee}</span>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
 
         {/* Layout Grid */}
         <div className="flex flex-col lg:flex-row gap-8">
@@ -532,6 +1485,48 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
           {/* Right Listings Column */}
           <main className="w-full lg:w-3/4">
             
+            {/* Quick State Navigation Pills (Shiksha Format) */}
+            <div id="college-listings-section" className="mb-6 bg-white p-3.5 rounded-2xl border border-slate-200/80 shadow-xs">
+              <div className="flex items-center gap-2 overflow-x-auto no-scrollbar pb-1">
+                <span className="text-[11px] font-extrabold text-slate-400 uppercase tracking-wider shrink-0 flex items-center gap-1 mr-1">
+                  <MapPin className="w-3.5 h-3.5 text-blue-600" /> State:
+                </span>
+                {(() => {
+                  const isEngg = selectedCategory === "Engineering" || (selectedCategory === "All Streams" && stateExplorerStream === 'engineering');
+                  const hubs = isEngg ? STATE_ENGINEERING_EXPLORER_HUBS : STATE_MBA_EXPLORER_HUBS;
+                  const countsMap = isEngg ? btechStateCountsMap : mbaStateCountsMap;
+
+                  return ["All States", ...hubs.map(h => h.name)].map((st) => {
+                    const count = st === "All States" 
+                      ? (isEngg ? colleges.filter(c => c.category === "Engineering").length : (selectedCategory === "Management" ? colleges.filter(c => c.category === "Management").length : colleges.length))
+                      : (countsMap[st] || (Object.values(locationMap).filter(l => l.state === st).length));
+                    const isActive = selectedState === st;
+                    return (
+                      <button
+                        key={st}
+                        onClick={() => {
+                          setSelectedState(st);
+                          setSelectedCity("All Cities");
+                        }}
+                        className={`px-3 py-1.5 rounded-xl text-xs font-bold whitespace-nowrap transition-all cursor-pointer flex items-center gap-1.5 ${
+                          isActive
+                            ? "bg-blue-600 text-white shadow-sm"
+                            : "bg-slate-50 hover:bg-slate-100 text-slate-700 border border-slate-200"
+                        }`}
+                      >
+                        <span>{st}</span>
+                        {count > 0 && (
+                          <span className={`text-[10px] px-1.5 py-0.5 rounded-full font-black ${isActive ? 'bg-blue-700 text-white' : 'bg-white text-slate-500'}`}>
+                            {count}
+                          </span>
+                        )}
+                      </button>
+                    );
+                  });
+                })()}
+              </div>
+            </div>
+
             {/* AI College Predictor Bar */}
             <div className="mb-6 p-4 sm:p-5 bg-gradient-to-r from-blue-50 via-indigo-50/40 to-sky-50 rounded-2xl border border-blue-200/80 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 shadow-xs">
               <div className="flex items-center gap-3">

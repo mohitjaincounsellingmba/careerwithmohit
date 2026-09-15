@@ -24,6 +24,7 @@ export interface CollegeMetadata {
   brochure_url: string;
   website: string;
   top_recruiters?: string[];
+  state?: string;
 }
 
 export interface College extends CollegeMetadata {
