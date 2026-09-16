@@ -63,13 +63,13 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
           location: student.location,
           source: `${config.name} Mock Test Completed`,
           category: "mocktest",
-          score: marks,
+          score: score,
           percentile: percentage,
           targetExam: student.targetExam,
           details: {
             accuracy: percentage,
             total_questions: total,
-            correct: correctCount,
+            correct: correct,
             targetExam: student.targetExam,
           },
           timestamp: new Date().toISOString()
@@ -79,7 +79,7 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
       }
     };
     sendResults();
-  }, [student, config, marks, percentage, total, correctCount]);
+  }, [student, config, score, percentage, total, correct]);
 
   const sortedSections = Object.entries(sectionWise).sort((a,b) => {
     const ratioA = a[1].total ? a[1].correct/a[1].total : 0;

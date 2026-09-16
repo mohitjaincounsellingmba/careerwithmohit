@@ -93,6 +93,8 @@ export const metadata: Metadata = {
     "career counsellor India", "MBA admission guidance 2027", "PGDM admission 2027", "B.Tech admission expert", 
     "best career counsellor Delhi NCR", "CAT 2027 preparation", "degree admission 2027",
     "Direct MBA admission 2027", "MBA placement report 2025", "ROI MBA colleges",
+    "online degree courses india 2027", "ugc deb approved online universities", "online mba colleges fees",
+    "online mca in ai data science", "cheapest online mba india", "wes approved online degrees",
     "Noida", "Ghaziabad", "Pune", "Mumbai", "Bangalore", "Jaipur", "Delhi NCR"
   ],
   alternates: {
@@ -100,7 +102,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Mohit Jain | MBA & PGDM Admissions & Career Counselling Expert 2027",
-    description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA 2027, PGDM 2027, B.Tech, and degree admissions coaching.",
+    description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA 2027, PGDM 2027, Online Degrees, and university admissions coaching.",
     url: "https://www.careerwithmohit.online",
     siteName: "CareerWithMohit",
     type: "website",
@@ -116,8 +118,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Jain | MBA & PGDM Admissions Expert 2027",
-    description: "Expert career guidance and MBA / PGDM admissions consulting for top-tier B-schools.",
+    title: "Mohit Jain | MBA, PGDM & Online Degree Admissions Expert 2027",
+    description: "Expert career guidance, MBA / PGDM admissions, and UGC-DEB approved online degree consulting.",
     images: ["/og-image.webp"],
   },
 };
@@ -132,6 +134,10 @@ const HOME_FAQS = [
   {
     question: "How does Mohit Jain assist students with MBA & PGDM admissions 2027?",
     answer: "Mohit Jain (certified by IIM Bangalore & FMS Delhi) provides personalized 1-on-1 profile evaluation, B-school shortlist mapping (Dream, Target, Safe), application review, GD-PI-WAT interview training, and guidance on direct admission processes in top AICTE/UGC approved business schools across India."
+  },
+  {
+    question: "Are UGC-DEB approved online degrees legally valid for UPSC, government jobs, and corporate promotions?",
+    answer: "Yes, 100%. Under the UGC (ODL & Online Programmes) Regulations 2020 published in the Gazette of India, online degrees from UGC-DEB entitled universities are legally equivalent to conventional classroom degrees. Graduates are fully eligible for UPSC Civil Services, SSC CGL, IBPS Bank PO, State PSCs, and top MNC hiring."
   },
   {
     question: "Which top entrance exam mock tests are available for free on CareerWithMohit?",
@@ -483,6 +489,187 @@ export default function Home() {
                 </Link>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── UGC-DEB APPROVED ONLINE DEGREES & UNIVERSITIES 2027 SHOWCASE ── */}
+      <section id="online-degrees" className="bg-gradient-to-b from-slate-900 via-[#0C1A30] to-slate-900 text-white px-6 py-20 sm:px-12 relative overflow-hidden border-t border-b border-blue-900/50">
+        {/* Ambient Glows */}
+        <div className="absolute top-0 right-1/4 w-96 h-96 bg-blue-500/10 blur-[130px] pointer-events-none rounded-full" />
+        <div className="absolute bottom-0 left-1/4 w-96 h-96 bg-indigo-500/10 blur-[130px] pointer-events-none rounded-full" />
+
+        <div className="mx-auto max-w-7xl relative z-10">
+          <div className="mb-12 flex flex-col md:flex-row md:items-end md:justify-between border-b border-white/10 pb-8 gap-6">
+            <div className="max-w-2xl">
+              <span className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-cyan-500/20 text-cyan-300 text-xs font-bold uppercase tracking-wider mb-4 border border-cyan-400/30">
+                <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse"></span>
+                UGC-DEB Approved • 2027 Directory
+              </span>
+              <h2 className="font-display text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
+                Top Online Degrees in India <span className="text-amber-300">2027</span>
+              </h2>
+              <p className="mt-3 text-base sm:text-lg font-normal text-blue-100/80">
+                Compare 40+ accredited online universities. 100% legal equivalence for UPSC &amp; Govt jobs, WES approved for Canada/USA, fees from ₹20,000.
+              </p>
+            </div>
+            <div className="flex items-center gap-3">
+              <Link
+                href="/online-degree-certification"
+                className="inline-flex h-12 items-center justify-center rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold px-6 text-sm transition-all shadow-lg shadow-amber-950/20 whitespace-nowrap"
+              >
+                View 40+ Universities &rarr;
+              </Link>
+            </div>
+          </div>
+
+          {/* Quick Course Category Navigation Pills */}
+          <div className="flex flex-wrap gap-2.5 mb-10">
+            {[
+              { name: '🎓 Online MBA', href: '/online-degree-certification/online-mba', tag: 'Top Pick' },
+              { name: '💻 Online MCA', href: '/online-degree-certification/online-mca', tag: 'AI & CS' },
+              { name: '📈 Online BBA', href: '/online-degree-certification/online-bba', tag: 'UG' },
+              { name: '⚡ Online BCA', href: '/online-degree-certification/online-bca', tag: 'UG' },
+              { name: '📖 Online MA English', href: '/online-degree-certification/online-ma-english', tag: 'UGC NET' },
+              { name: '🤖 Data Science & AI', href: '/online-degree-certification/online-data-science', tag: 'High CTC' },
+              { name: '💰 Cheapest MBA (< ₹1L)', href: '/online-degree-certification/cheapest-online-mba', tag: 'From ₹62K' },
+              { name: '🌍 WES Approved (Canada)', href: '/online-degree-certification/wes-approved-online-degrees', tag: 'Abroad' },
+            ].map((pill, idx) => (
+              <Link
+                key={idx}
+                href={pill.href}
+                className="group flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 hover:bg-white/15 border border-white/10 text-white text-xs sm:text-sm font-semibold transition-all hover:scale-105 backdrop-blur-md"
+              >
+                <span>{pill.name}</span>
+                <span className="text-[10px] px-2 py-0.5 rounded-full bg-blue-500/30 text-blue-300 border border-blue-400/20 font-bold">
+                  {pill.tag}
+                </span>
+              </Link>
+            ))}
+          </div>
+
+          {/* Featured Top Online Universities Grid */}
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 mb-12">
+            {[
+              {
+                name: 'Amity University Online',
+                grade: 'NAAC A+',
+                badge: 'WES Approved',
+                badgeColor: 'bg-emerald-500/20 text-emerald-300 border-emerald-400/30',
+                fee: '₹1,99,000',
+                emi: '₹4,500/mo',
+                programs: 'MBA, MCA, BBA, BCA, MA',
+                slug: 'online-degree-certification/amity-university-online',
+                usp: 'Global alumni network & Canada WES recognition'
+              },
+              {
+                name: 'Jain University Online',
+                grade: 'NAAC A++',
+                badge: 'Tech & FinTech',
+                badgeColor: 'bg-cyan-500/20 text-cyan-300 border-cyan-400/30',
+                fee: '₹1,96,000',
+                emi: '₹4,200/mo',
+                programs: 'MBA, MCA, BBA, B.Com',
+                slug: 'online-degree-certification/jain-university-online',
+                usp: 'Bangalore startup network & 70+ electives'
+              },
+              {
+                name: 'LPU Online',
+                grade: 'NAAC A++',
+                badge: 'Best LMS',
+                badgeColor: 'bg-amber-500/20 text-amber-300 border-amber-400/30',
+                fee: '₹1,61,000',
+                emi: '₹3,500/mo',
+                programs: 'MBA, MCA, BCA, MA English',
+                slug: 'online-degree-certification/lovely-professional-university-lpu-online',
+                usp: 'AI-driven learning app & placement drives'
+              },
+              {
+                name: 'Chandigarh University Online',
+                grade: 'NAAC A+',
+                badge: 'QS World Ranked',
+                badgeColor: 'bg-purple-500/20 text-purple-300 border-purple-400/30',
+                fee: '₹1,65,000',
+                emi: '₹3,800/mo',
+                programs: 'MBA, MCA, BBA, BCA, MA',
+                slug: 'online-degree-certification/chandigarh-university-online',
+                usp: 'Fortune 500 mentors & scholarship programs'
+              }
+            ].map((univ, idx) => (
+              <div
+                key={idx}
+                className="group rounded-2xl bg-white/5 border border-white/10 hover:border-blue-400/50 p-6 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1.5 hover:bg-white/10 backdrop-blur-md shadow-lg"
+              >
+                <div>
+                  <div className="flex items-center justify-between mb-4">
+                    <span className="px-2.5 py-1 rounded-md bg-blue-600/30 text-blue-300 text-[11px] font-bold border border-blue-400/30">
+                      {univ.grade}
+                    </span>
+                    <span className={`px-2 py-0.5 rounded-md text-[10px] font-bold border ${univ.badgeColor}`}>
+                      {univ.badge}
+                    </span>
+                  </div>
+                  <h3 className="font-display text-lg font-bold text-white mb-2 group-hover:text-amber-300 transition-colors">
+                    {univ.name}
+                  </h3>
+                  <p className="text-xs text-blue-200/70 mb-4 line-clamp-2">
+                    {univ.usp}
+                  </p>
+                  <div className="pt-3 border-t border-white/10 space-y-1.5 mb-5">
+                    <div className="flex justify-between text-xs">
+                      <span className="text-slate-400">Total 2-Yr Fee:</span>
+                      <span className="font-bold text-amber-300">{univ.fee}</span>
+                    </div>
+                    <div className="flex justify-between text-xs">
+                      <span className="text-slate-400">Programs:</span>
+                      <span className="text-slate-200 font-medium">{univ.programs}</span>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex items-center gap-2 pt-2">
+                  <Link
+                    href={`/${univ.slug}`}
+                    className="flex-1 text-center py-2.5 rounded-xl bg-blue-600/30 hover:bg-blue-600 border border-blue-400/30 text-white text-xs font-bold transition-all"
+                  >
+                    Check Fees &amp; Details
+                  </Link>
+                  <a
+                    href={`https://wa.me/919560020771?text=Hi%2C%20I%20want%20counselling%20for%20${encodeURIComponent(univ.name)}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-3 py-2.5 rounded-xl bg-emerald-500/20 hover:bg-emerald-500 text-emerald-300 hover:text-white border border-emerald-400/30 text-xs font-bold transition-all"
+                    title="WhatsApp Counsellor"
+                  >
+                    💬
+                  </a>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Quick Head-to-Head Comparison Strip */}
+          <div className="p-6 rounded-2xl bg-white/5 border border-white/10 backdrop-blur-md flex flex-col md:flex-row items-center justify-between gap-6">
+            <div className="space-y-1 text-center md:text-left">
+              <p className="text-xs font-bold uppercase tracking-wider text-amber-300">Popular Head-to-Head Comparisons</p>
+              <h4 className="text-base sm:text-lg font-extrabold text-white">Confused between top online universities?</h4>
+            </div>
+            <div className="flex flex-wrap items-center justify-center gap-2.5">
+              {[
+                { title: 'Amity vs Jain', href: '/online-degree-certification/amity-vs-jain' },
+                { title: 'LPU vs Chandigarh', href: '/online-degree-certification/lpu-vs-chandigarh' },
+                { title: 'NMIMS vs Amity', href: '/online-degree-certification/nmims-vs-amity' },
+                { title: 'Manipal vs Amity', href: '/online-degree-certification/manipal-vs-amity' },
+                { title: 'SCDL vs NMIMS', href: '/online-degree-certification/scdl-vs-nmims' },
+              ].map((comp, idx) => (
+                <Link
+                  key={idx}
+                  href={comp.href}
+                  className="px-3.5 py-1.5 rounded-lg bg-white/10 hover:bg-amber-400 hover:text-slate-950 text-white text-xs font-bold border border-white/15 transition-all"
+                >
+                  {comp.title} ⚖️
+                </Link>
+              ))}
+            </div>
           </div>
         </div>
       </section>

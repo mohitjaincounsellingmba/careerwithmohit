@@ -22,7 +22,7 @@ import {
   Sparkles
 } from 'lucide-react';
 import { CAT_MOCK_TEST_68, CatQuestion } from '@/data/cat_mock_test_68';
-import { CatStudentInfo, CatSectionResult, UserAnswers } from './CatExamInterface';
+import { UserAnswers } from './CatExamInterface';
 import { submitLead } from '@/lib/leads';
 import { GenericStudentInfo } from '@/components/GenericMockTest/GenericRegistrationForm';
 

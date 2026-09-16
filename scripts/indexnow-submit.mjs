@@ -21,7 +21,57 @@ console.log(`Key Location: ${KEY_LOCATION}`);
 console.log(`Dry Run: ${isDryRun ? 'YES (Simulating)' : 'NO (Live API submission)'}`);
 console.log(`Max Limit: ${maxLimit}\n`);
 
-// 1. Core high-priority static routes
+// 1. Core high-priority static & online degree routes
+const onlineDegreeRoutes = [
+  '/online-degree-certification',
+  '/online-degree-certification/online-mba',
+  '/online-degree-certification/online-bba',
+  '/online-degree-certification/online-mca',
+  '/online-degree-certification/online-bca',
+  '/online-degree-certification/online-bcom',
+  '/online-degree-certification/online-mcom',
+  '/online-degree-certification/online-bsc',
+  '/online-degree-certification/online-ma',
+  '/online-degree-certification/online-ma-english',
+  '/online-degree-certification/online-ba',
+  '/online-degree-certification/online-pgdm',
+  '/online-degree-certification/online-msc',
+  '/online-degree-certification/online-executive-mba',
+  '/online-degree-certification/online-data-science',
+  '/online-degree-certification/cheapest-online-mba',
+  '/online-degree-certification/1-year-online-mba',
+  '/online-degree-certification/wes-approved-online-degrees',
+  '/online-degree-certification/ugc-deb-approved-universities',
+  '/online-degree-certification/distance-vs-online-degree',
+  '/online-degree-certification/online-degree-delhi-ncr',
+  '/online-degree-certification/online-degree-bangalore',
+  '/online-degree-certification/online-degree-mumbai-pune',
+  '/online-degree-certification/online-degree-hyderabad',
+  '/online-degree-certification/online-degree-jaipur-rajasthan',
+  '/online-degree-certification/online-degree-chandigarh-punjab',
+  '/online-degree-certification/online-degree-south-india',
+  '/online-degree-certification/online-degree-kolkata-east-india',
+  '/online-degree-certification/amity-vs-jain',
+  '/online-degree-certification/lpu-vs-chandigarh',
+  '/online-degree-certification/amity-vs-lpu',
+  '/online-degree-certification/jain-vs-lpu',
+  '/online-degree-certification/nmims-vs-amity',
+  '/online-degree-certification/manipal-vs-amity',
+  '/online-degree-certification/chandigarh-vs-lpu',
+  '/online-degree-certification/dy-patil-vs-jain',
+  '/online-degree-certification/sastra-vs-amrita',
+  '/online-degree-certification/scdl-vs-nmims',
+  '/online-degree-certification/nmims-vs-jain',
+  '/online-degree-certification/manipal-vs-jain',
+  '/online-degree-certification/dy-patil-vs-nmims',
+  '/online-degree-certification/chandigarh-vs-amity',
+  '/online-degree-certification/upes-vs-amity',
+  '/online-degree-certification/jain-vs-manipal',
+  '/online-degree-certification/scdl-vs-amity',
+  '/online-degree-certification/andhra-vs-ignou',
+  '/online-degree-certification/amrita-vs-srm'
+];
+
 const coreRoutes = [
   '',
   '/colleges',
@@ -30,7 +80,6 @@ const coreRoutes = [
   '/mba-pgdm-admission-2027',
   '/mba-pgdm-admissions-by-region',
   '/mba-admissions-by-region',
-  '/online-degree-certification',
   '/services',
   '/about',
   '/inquiry',
@@ -47,7 +96,8 @@ const coreRoutes = [
   '/colleges/mba-colleges-hyderabad',
   '/colleges/mba-colleges-kolkata',
   '/colleges/mba-colleges-ahmedabad',
-  '/colleges/mba-colleges-jaipur'
+  '/colleges/mba-colleges-jaipur',
+  ...onlineDegreeRoutes
 ].map(r => `${BASE_URL}${r}`);
 
 // 2. Discover college profiles

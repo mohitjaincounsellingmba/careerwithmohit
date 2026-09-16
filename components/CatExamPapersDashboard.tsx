@@ -28,6 +28,7 @@ import {
   RotateCcw,
   BadgeCheck
 } from 'lucide-react';
+import { submitLead } from '@/lib/leads';
 
 /* ── INTERFACES ── */
 interface CatSlotPaper {
@@ -639,9 +640,25 @@ export default function CatExamPapersDashboard() {
   };
 
   // Handle PDF bundle form submit
-  const handlePdfSubmit = (e: React.FormEvent) => {
+  const handlePdfSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setPdfSubmitted(true);
+    try {
+      await submitLead({
+        name: pdfForm.name,
+        number: pdfForm.phone,
+        email: pdfForm.email,
+        source: 'CAT 2022-2025 PYQ PDF Bundle Download',
+        category: 'brochure',
+        course: 'CAT / MBA',
+        targetExam: 'CAT',
+        details: {
+          downloadType: 'CAT 2022-2025 All Slots PYQ PDF',
+        },
+      });
+    } catch (err) {
+      console.error('Error submitting CAT PDF lead:', err);
+    }
   };
 
   return (

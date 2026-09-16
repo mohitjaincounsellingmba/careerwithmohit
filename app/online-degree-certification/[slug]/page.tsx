@@ -197,6 +197,96 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     faqs: [
       { q: 'What is the eligibility for online M.Sc?', a: 'Candidates must hold a Bachelor\'s degree (B.Sc, BCA, or equivalent) from a recognized university.' }
     ]
+  },
+  'online-executive-mba': {
+    name: 'Executive Online MBA',
+    searchToken: 'MBA',
+    title: 'Top Executive Online MBA in India 2027 | Working Professionals',
+    desc: 'Compare top Executive Online MBA programs in India for working professionals with 2+ years experience. Check UGC approvals, flexible weekend schedules, fees & placements.',
+    h1: 'Executive Online MBA in India 2027 (Working Professionals)',
+    aboutText: 'An Executive Online MBA is designed specifically for working professionals, project managers, and aspiring leaders seeking rapid career advancement without taking a career break. Featuring flexible weekend masterclasses, practical business case studies, and global alumni networking, these UGC-entitled programs offer maximum corporate ROI and salary progression.',
+    faqs: [
+      { q: 'What is the eligibility for an Executive Online MBA?', a: 'Candidates typically need a Bachelor\'s degree with 50% aggregate marks and 1 to 3 years of full-time work experience.' },
+      { q: 'How is Executive Online MBA different from regular Online MBA?', a: 'Executive Online MBAs emphasize strategic leadership, high-level business analytics, executive peer networking, and flexible pacing tailored to working managers.' },
+      { q: 'What is the average salary increase after an Executive Online MBA?', a: 'Graduates commonly report 35% to 60% salary increments and accelerated promotions into managerial, directorship, or VP roles.' }
+    ]
+  },
+  'online-data-science': {
+    name: 'Online Data Science Degrees',
+    searchToken: 'Data Science',
+    title: 'Top Online Data Science & AI Degrees in India 2027 | UGC Approved',
+    desc: 'Explore UGC approved Online MCA, M.Sc & BCA in Data Science & Artificial Intelligence. Compare fees, practical cloud labs (Python, SQL, PowerBI), and placement packages.',
+    h1: 'Online Data Science & AI Degrees in India 2027',
+    aboutText: 'Online Data Science, Artificial Intelligence, and Big Data Analytics degrees blend rigorous academic foundations with hands-on virtual laboratory training in Python, R, SQL, Tableau, TensorFlow, and Cloud computing. Offered by NAAC A++ universities like Amity Online, Jain Online, LPU Online, and Chandigarh University, these degrees prepare learners for high-growth tech careers.',
+    faqs: [
+      { q: 'Can non-engineers pursue an Online Data Science degree?', a: 'Yes. Most universities accept candidates from B.Com, B.Sc, BBA, and BCA backgrounds, offering foundational bridge modules in statistics and basic programming.' },
+      { q: 'What tools are taught in Online Data Science degrees?', a: 'Curriculums cover Python, R, SQL, PowerBI, Tableau, Hadoop, Spark, Scikit-Learn, Deep Learning, and Cloud AI deployment.' },
+      { q: 'What is the average starting salary for Online Data Science graduates?', a: 'Starting packages range from ₹6 LPA to ₹14 LPA for Data Analysts, ML Engineers, and Business Intelligence Consultants.' }
+    ]
+  },
+  'cheapest-online-mba': {
+    name: 'Cheapest Online MBA (Under ₹1 Lakh)',
+    searchToken: 'CHEAP',
+    title: 'Cheapest Online MBA in India Under ₹1 Lakh 2027 | UGC Approved',
+    desc: 'Find the most affordable UGC-DEB approved online MBA programs in India under ₹1 Lakh. Compare Andhra University (₹62K), Galgotias (₹90K), Uttaranchal (₹98K) & zero-cost EMIs.',
+    h1: 'Cheapest Online MBA Colleges in India (Under ₹1 Lakh, 2027)',
+    aboutText: 'Pursuing a high-quality, UGC-DEB approved Online MBA does not need to cost ₹2 Lakhs or more. Top state universities and NAAC A+/A accredited private institutions offer complete 2-year MBA programs between ₹62,200 to ₹98,000, fully equipped with digital LMS, live weekend masterclasses, proctored exams, and 100% legal equivalence for government jobs.',
+    faqs: [
+      { q: 'Which is the cheapest UGC-approved Online MBA in India?', a: 'Andhra University Online offers the most affordable UGC-DEB approved Online MBA in India at ₹62,200 total tuition fees for 2 years, followed by Kalinga University (₹80,000), Galgotias University (₹90,000), and Uttaranchal University (₹98,000).' },
+      { q: 'Are low-cost online MBA degrees valid for government jobs and MNCs?', a: 'Yes, 100%. As long as the university holds valid UGC-DEB entitlement, its fee structure does not affect legal validity. The degree is fully accepted for UPSC, Bank PO, SSC, and private sector MNCs.' },
+      { q: 'Do cheap online MBA universities offer monthly EMI options?', a: 'Yes, most universities provide zero-cost monthly EMI payment plans starting from ₹3,000 to ₹4,500 per month.' }
+    ]
+  },
+  '1-year-online-mba': {
+    name: '1-Year Fast Track Online MBA',
+    searchToken: 'MBA',
+    title: '1-Year Online MBA Programs in India 2027 | Fast-Track Management',
+    desc: 'Compare top 1-Year Fast Track Online MBA & Executive Management programs for working professionals. Check global accreditations, fast completion, fees & eligibility.',
+    h1: '1-Year Fast Track Online MBA in India (2027)',
+    aboutText: '1-Year Fast Track Online MBA and Executive Post Graduate Diploma programs are engineered for experienced professionals seeking rapid credential upgrades. Designed with accelerated coursework in corporate strategy, digital leadership, financial modeling, and global marketing, these programs minimize study duration while maximizing career growth.',
+    faqs: [
+      { q: 'Who is eligible for a 1-Year Online MBA?', a: 'Candidates with a Bachelor\'s degree and a minimum of 2 to 3 years of verifiable corporate work experience are typically eligible.' },
+      { q: 'Is a 1-Year MBA recognized by corporate recruiters?', a: 'Yes. Top MNCs, consulting firms, and tech corporations actively value accelerated executive MBAs when evaluating candidates for team lead, managerial, and operational director positions.' }
+    ]
+  },
+  'wes-approved-online-degrees': {
+    name: 'WES Approved Online Degrees',
+    searchToken: 'WES',
+    title: 'WES Approved Online Degrees in India 2027 | Canada PR & USA Valid',
+    desc: 'Complete list of WES recognized UGC approved online universities in India. Degrees evaluated for Canada Express Entry PR points and US higher education equivalency.',
+    h1: 'WES Approved Online Degrees in India (2027)',
+    aboutText: 'World Education Services (WES) credential evaluation is mandatory for individuals pursuing Canada Permanent Residency (Express Entry CRS points), US H1-B processing, or North American university admissions. Select Indian online universities hold recognized status where their Online MBA, MCA, and Master\'s degrees are evaluated as equivalent to 2-year Canadian and US post-graduate degrees.',
+    faqs: [
+      { q: 'Which online universities in India are approved by WES?', a: 'Amity University Online, Jain University Online, Lovely Professional University (LPU Online), Manipal University Jaipur Online, and D.Y. Patil University hold recognized credential equivalence with World Education Services (WES).' },
+      { q: 'How many CRS points do I get for an Online Master\'s degree in Canada PR?', a: 'A WES-evaluated Master\'s degree awards the full Master\'s level Comprehensive Ranking System (CRS) points (up to 126–135 points depending on age and marital status), identical to a regular on-campus degree.' },
+      { q: 'How do I send my online degree transcripts to WES?', a: 'Most approved online universities have direct electronic transcript delivery agreements with WES, enabling fast digital verification within 7 to 14 business days.' }
+    ]
+  },
+  'ugc-deb-approved-universities': {
+    name: 'UGC-DEB Approved Universities List',
+    searchToken: 'ALL',
+    title: 'UGC-DEB Approved Online Universities List 2027 | Fees & NAAC Grades',
+    desc: 'Official directory of 40+ UGC-DEB entitled online universities in India for 2027. Compare NAAC A++ grades, fee structures, program validity, and admission deadlines.',
+    h1: 'UGC-DEB Approved Online Universities List 2027',
+    aboutText: 'The University Grants Commission - Distance Education Bureau (UGC-DEB) is the statutory regulatory body governing online and distance higher education in India. Under UGC (Open and Distance Learning Programmes and Online Programmes) Regulations 2020, degrees awarded by entitled universities hold 100% parity with regular physical classroom degrees across India and internationally.',
+    faqs: [
+      { q: 'How can I verify if a university has UGC-DEB approval?', a: 'Visit the official UGC-DEB portal (deb.ugc.ac.in) and check the "Entitled Higher Educational Institutions (HEIs) for Online Programmes" list for the current academic session.' },
+      { q: 'What happens if a student enrols in a non-approved online degree?', a: 'Degrees from unapproved institutions are invalid for government employment, UPSC/PSC exams, higher education admissions, and public sector promotions.' },
+      { q: 'Which online universities hold the highest NAAC A++ accreditation?', a: 'Jain University Online, LPU Online, D.Y. Patil University Online, SRM University Online, Amrita Vishwa Vidyapeetham Online, and SASTRA University Online hold the coveted NAAC A++ grade.' }
+    ]
+  },
+  'distance-vs-online-degree': {
+    name: 'Online vs Distance Education Guide',
+    searchToken: 'ALL',
+    title: 'Online Degree vs Distance Education: Which is Better in 2027?',
+    desc: 'Detailed comparison of Online Degrees vs Distance Education (ODL) in India. Learn differences in LMS classes, exam modes, corporate value, and fee structures.',
+    h1: 'Online Degree vs Distance Education (ODL) in India (2027)',
+    aboutText: 'While both Online Degrees (OL) and Open & Distance Learning (ODL) hold equal legal recognition from UGC-DEB, their learning delivery is fundamentally different. Online degrees are 100% digital with live interactive classes, virtual case studies, and AI-proctored home exams. Distance education relies primarily on self-study with printed books and physical exam centers.',
+    faqs: [
+      { q: 'Which is better: Online Degree or Distance Degree?', a: 'Online Degrees are widely preferred today because of interactive live lectures, LMS recordings, placement support cells, and AI-proctored home examinations without traveling to test centers.' },
+      { q: 'Is there a fee difference between Online and Distance Education?', a: 'Distance education is generally cheaper (₹30,000 to ₹70,000 for 2 years), while Online degrees range from ₹62,000 to ₹2,00,000 due to advanced tech infrastructure, virtual live masterclasses, and career support.' },
+      { q: 'Do recruiters prefer Online degrees over Distance degrees?', a: 'Yes. Modern corporate recruiters view online degrees more favorably because they demonstrate digital literacy, active project submissions, and attendance in live masterclasses.' }
+    ]
   }
 };
 
@@ -370,7 +460,16 @@ export async function generateStaticParams() {
     'chandigarh-vs-lpu',
     'dy-patil-vs-jain',
     'sastra-vs-amrita',
-    'scdl-vs-nmims'
+    'scdl-vs-nmims',
+    'nmims-vs-jain',
+    'manipal-vs-jain',
+    'dy-patil-vs-nmims',
+    'chandigarh-vs-amity',
+    'upes-vs-amity',
+    'jain-vs-manipal',
+    'scdl-vs-amity',
+    'andhra-vs-ignou',
+    'amrita-vs-srm'
   ];
 
   const allSlugs = [...courseSlugs, ...geoSlugs, ...universitySlugs, ...comparisonSlugs];
@@ -501,9 +600,14 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
     const config = COURSE_MAP[slug];
     
     // Filter colleges for this specific program (case insensitive match)
-    const matchingColleges = COLLEGES.filter(c => 
-      c.programs.some(p => p.toLowerCase().includes(config.searchToken.toLowerCase()))
-    );
+    const matchingColleges = COLLEGES.filter(c => {
+      if (!config.searchToken || config.searchToken === 'ALL') return true;
+      if (config.searchToken === 'WES') return c.accreditation.includes('WES') || c.approvals.includes('WES');
+      if (config.searchToken === 'CHEAP') return c.feeNum <= 100000;
+      const progMatch = c.programs.some(p => p.toLowerCase().includes(config.searchToken.toLowerCase()));
+      const specMatch = Object.values(c.specializations || {}).some(specs => specs.some(s => s.toLowerCase().includes(config.searchToken.toLowerCase())));
+      return progMatch || specMatch;
+    });
 
     // Dynamic JSON-LD for Course Page
     const courseJsonLd = {

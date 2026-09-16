@@ -62,10 +62,13 @@ export function Footer() {
     programs: [
       { name: 'MBA / PGDM Admissions 2027', href: '/colleges', badge: 'Hot' },
       { name: 'Top Tier MBA Directory', href: '/top-tier-mba-colleges' },
-      { name: 'Direct MBA Admission Guide', href: '/blog/direct-mba-pgdm-admission-2027-2029-management-quota-guide' },
-      { name: 'Online MBA & Certifications', href: '/online-degree-certification' },
+      { name: 'Online Degrees Hub (40+ Univs)', href: '/online-degree-certification', badge: 'UGC' },
+      { name: 'Online MBA Colleges & Fees', href: '/online-degree-certification/online-mba' },
+      { name: 'Online MCA & BCA Programs', href: '/online-degree-certification/online-mca' },
+      { name: 'UGC-DEB Approved Universities', href: '/online-degree-certification/ugc-deb-approved-universities' },
+      { name: 'Cheapest Online MBA (< ₹1L)', href: '/online-degree-certification/cheapest-online-mba' },
       { name: 'B.Tech Engineering Consulting', href: '/colleges' },
-      { name: 'BBA / BCA Admissions', href: '/colleges' },
+      { name: 'Direct MBA Admission Guide', href: '/blog/direct-mba-pgdm-admission-2027-2029-management-quota-guide' },
       { name: 'Abroad Education Advisory', href: '/inquiry' },
     ],
     tools: [

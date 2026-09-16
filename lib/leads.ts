@@ -322,7 +322,8 @@ export async function fetchAllLeads(seedLeads: LeadItem[] = []): Promise<LeadIte
 // 6. Real-time Subscription listener for Admin Panel
 export function subscribeToLeadsRealtime(
   onUpdate: (leads: LeadItem[]) => void,
-  initialSeed: LeadItem[] = []
+  initialSeed: LeadItem[] = [],
+  onNewLead?: (newLead: LeadItem) => void
 ): () => void {
   let isUnsubscribed = false;
 
@@ -337,11 +338,17 @@ export function subscribeToLeadsRealtime(
   // Initial load
   refreshCombined();
 
-  // Periodic polling fallback (every 4 seconds) to ensure multi-device sync
-  const intervalId = setInterval(refreshCombined, 4000);
+  // Fast background polling (every 2 seconds) for instant cross-device and server reflection
+  const intervalId = setInterval(refreshCombined, 2000);
 
   // Listen to window custom events & storage
-  const handleLeadEvent = () => refreshCombined();
+  const handleLeadEvent = (e: any) => {
+    if (e.detail?.lead && e.detail?.action === "add" && onNewLead) {
+      onNewLead(e.detail.lead);
+    }
+    refreshCombined();
+  };
+
   const handleStorageEvent = (e: StorageEvent) => {
     if (e.key === LOCAL_STORAGE_KEY) refreshCombined();
   };
@@ -354,19 +361,35 @@ export function subscribeToLeadsRealtime(
   let broadcastChannel: BroadcastChannel | null = null;
   if (typeof window !== "undefined" && "BroadcastChannel" in window) {
     broadcastChannel = new BroadcastChannel(BROADCAST_CHANNEL_NAME);
-    broadcastChannel.onmessage = () => refreshCombined();
+    broadcastChannel.onmessage = (msg: MessageEvent) => {
+      if (msg.data?.lead && msg.data?.action === "add" && onNewLead) {
+        onNewLead(msg.data.lead);
+      }
+      refreshCombined();
+    };
   }
 
   // Firestore live onSnapshot listener
   let unsubscribeFirestore = () => {};
+  let isInitialFirestoreLoad = true;
   if (db) {
     try {
       unsubscribeFirestore = onSnapshot(
         collection(db, "leads"),
-        () => {
-          if (!isUnsubscribed) {
-            refreshCombined();
+        (snapshot) => {
+          if (isUnsubscribed) return;
+          if (!isInitialFirestoreLoad && onNewLead) {
+            snapshot.docChanges().forEach((change) => {
+              if (change.type === "added") {
+                const data = change.doc.data() as LeadItem;
+                if (data && data.id) {
+                  onNewLead(data);
+                }
+              }
+            });
           }
+          isInitialFirestoreLoad = false;
+          refreshCombined();
         },
         (err) => {
           console.warn("[Leads] Firestore onSnapshot warning:", err);

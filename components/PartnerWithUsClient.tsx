@@ -18,6 +18,7 @@ import {
   BarChart3,
   Send,
 } from "lucide-react";
+import { submitLead } from "@/lib/leads";
 
 type Tab = "college" | "consultant";
 
@@ -56,11 +57,33 @@ function CollegeForm() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    await fetch("https://formspree.io/f/xpwzkoqb", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ ...form, partnerType: "College" }),
-    });
+    try {
+      await submitLead({
+        name: form.contactPerson || form.collegeName,
+        number: form.phone,
+        email: form.email,
+        location: form.city,
+        source: `College Partner: ${form.collegeName}`,
+        category: 'inquiry',
+        college: form.collegeName,
+        course: form.courses,
+        details: {
+          ...form,
+          partnerType: "College",
+        },
+      });
+    } catch (err) {
+      console.error("Error submitting college partner lead:", err);
+    }
+
+    try {
+      await fetch("https://formspree.io/f/xpwzkoqb", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ...form, partnerType: "College" }),
+      });
+    } catch (e) {}
+
     setSubmitted(true);
   };
 
@@ -177,11 +200,31 @@ function ConsultantForm() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    await fetch("https://formspree.io/f/xpwzkoqb", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ ...form, partnerType: "Consultant" }),
-    });
+    try {
+      await submitLead({
+        name: form.contactPerson || form.firmName,
+        number: form.phone,
+        email: form.email,
+        location: form.city,
+        source: `Consultant Partner: ${form.firmName}`,
+        category: 'inquiry',
+        details: {
+          ...form,
+          partnerType: "Consultant",
+        },
+      });
+    } catch (err) {
+      console.error("Error submitting consultant partner lead:", err);
+    }
+
+    try {
+      await fetch("https://formspree.io/f/xpwzkoqb", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ...form, partnerType: "Consultant" }),
+      });
+    } catch (e) {}
+
     setSubmitted(true);
   };
 

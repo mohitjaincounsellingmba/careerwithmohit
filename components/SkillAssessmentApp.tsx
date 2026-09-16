@@ -45,6 +45,7 @@ import {
   Eye,
   RefreshCw
 } from 'lucide-react';
+import { submitLead } from '@/lib/leads';
 
 // Domain icon map
 const DOMAIN_ICONS: Record<string, React.ReactNode> = {
@@ -440,6 +441,21 @@ export function SkillAssessmentApp() {
     }
 
     setRegError("");
+    // Submit registration lead in real-time
+    submitLead({
+      name: candidate.fullName,
+      number: candidate.phone,
+      email: candidate.email,
+      source: `Skill Assessment: ${activeDomain.name}`,
+      category: 'mocktest',
+      course: activeDomain.shortTitle,
+      details: {
+        domainId: activeDomain.id,
+        track: activeDomain.shortTitle,
+        durationMinutes: activeDomain.timeLimitMinutes,
+      },
+    }).catch((err) => console.error("Error logging skill lead:", err));
+
     // Initialize blank answers for all 30 questions
     const initialAnswers: Record<number, UserAnswerState> = {};
     activeDomain.questions.forEach((q) => {
@@ -541,6 +557,27 @@ export function SkillAssessmentApp() {
 
     setCurrentStep("result");
     window.scrollTo({ top: 0, behavior: "smooth" });
+
+    // Submit lead with final score and certificate ID in real-time
+    submitLead({
+      name: candidate.fullName,
+      number: candidate.phone,
+      email: candidate.email,
+      source: `Skill Certificate: ${activeDomain.name}`,
+      category: 'mocktest',
+      course: activeDomain.shortTitle,
+      score: examMetrics.netScore,
+      percentile: examMetrics.percentage,
+      details: {
+        certificateId: certCode,
+        domainId: activeDomain.id,
+        passed: examMetrics.hasPassed,
+        grade: examMetrics.hasPassed ? 'Certified' : 'Participant',
+        correctCount: examMetrics.correctCount,
+        incorrectCount: examMetrics.incorrectCount,
+        unansweredCount: examMetrics.unattemptedCount,
+      },
+    }).catch((err) => console.error("Error logging completion lead:", err));
 
     if (examMetrics.hasPassed) {
       setTimeout(() => {

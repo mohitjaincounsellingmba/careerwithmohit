@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { submitLead } from '@/lib/leads';
 
 export function BacklinkRequestForm() {
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
@@ -17,6 +18,19 @@ export function BacklinkRequestForm() {
     setStatus('submitting');
 
     try {
+      submitLead({
+        name: formData.name,
+        email: formData.email,
+        number: '0000000000',
+        source: `Backlink & SEO Collab: ${formData.collaborationType}`,
+        category: 'inquiry',
+        details: {
+          websiteUrl: formData.websiteUrl,
+          collaborationType: formData.collaborationType,
+          message: formData.message,
+        },
+      }).catch((err) => console.error("Error submitting backlink lead:", err));
+
       const response = await fetch('/api/backlink-request', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },

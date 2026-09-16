@@ -32,6 +32,9 @@ import {
   PhoneCall,
   Flame,
   Zap,
+  Volume2,
+  VolumeX,
+  Radio,
 } from "lucide-react";
 import {
   LeadItem,
@@ -62,6 +65,11 @@ export function LeadsOverviewTab({
   const [selectedDateRange, setSelectedDateRange] = useState<string>("all");
   const [activeSubTab, setActiveSubTab] = useState<"leads" | "subscribers" | "sources">("leads");
 
+  // Real-Time Notification & Highlight State
+  const [newlyArrivedLead, setNewlyArrivedLead] = useState<LeadItem | null>(null);
+  const [newlyArrivedLeadId, setNewlyArrivedLeadId] = useState<string | null>(null);
+  const [soundEnabled, setSoundEnabled] = useState<boolean>(true);
+
   // Lead Profile Drawer / Detail Modal
   const [selectedLead, setSelectedLead] = useState<LeadItem | null>(null);
   const [newNoteText, setNewNoteText] = useState("");
@@ -89,17 +97,111 @@ export function LeadsOverviewTab({
 
   const showToast = (msg: string) => {
     setToastMessage(msg);
-    setTimeout(() => setToastMessage(null), 3500);
+    setTimeout(() => setToastMessage(null), 4000);
+  };
+
+  // Sound preference persistence
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem("cwm_admin_lead_sound");
+      if (saved !== null) {
+        setSoundEnabled(saved === "true");
+      }
+    } catch (e) {}
+  }, []);
+
+  const toggleSound = () => {
+    const next = !soundEnabled;
+    setSoundEnabled(next);
+    try {
+      localStorage.setItem("cwm_admin_lead_sound", String(next));
+    } catch (e) {}
+    showToast(next ? "🔔 Audio alerts enabled for new leads" : "🔕 Audio alerts muted");
+  };
+
+  // Web Audio API synthesized lead alert chime
+  const playLeadChime = () => {
+    try {
+      const AudioCtx = window.AudioContext || (window as any).webkitAudioContext;
+      if (!AudioCtx) return;
+      const ctx = new AudioCtx();
+      if (ctx.state === "suspended") {
+        ctx.resume();
+      }
+      const now = ctx.currentTime;
+
+      // Note 1: E5 (659.25 Hz)
+      const osc1 = ctx.createOscillator();
+      const gain1 = ctx.createGain();
+      osc1.type = "sine";
+      osc1.frequency.setValueAtTime(659.25, now);
+      gain1.gain.setValueAtTime(0.2, now);
+      gain1.gain.exponentialRampToValueAtTime(0.001, now + 0.35);
+      osc1.connect(gain1);
+      gain1.connect(ctx.destination);
+      osc1.start(now);
+      osc1.stop(now + 0.35);
+
+      // Note 2: B5 (987.77 Hz)
+      const osc2 = ctx.createOscillator();
+      const gain2 = ctx.createGain();
+      osc2.type = "triangle";
+      osc2.frequency.setValueAtTime(987.77, now + 0.12);
+      gain2.gain.setValueAtTime(0.25, now + 0.12);
+      gain2.gain.exponentialRampToValueAtTime(0.001, now + 0.55);
+      osc2.connect(gain2);
+      gain2.connect(ctx.destination);
+      osc2.start(now + 0.12);
+      osc2.stop(now + 0.55);
+
+      // Note 3: E6 (1318.51 Hz)
+      const osc3 = ctx.createOscillator();
+      const gain3 = ctx.createGain();
+      osc3.type = "sine";
+      osc3.frequency.setValueAtTime(1318.51, now + 0.24);
+      gain3.gain.setValueAtTime(0.2, now + 0.24);
+      gain3.gain.exponentialRampToValueAtTime(0.001, now + 0.75);
+      osc3.connect(gain3);
+      gain3.connect(ctx.destination);
+      osc3.start(now + 0.24);
+      osc3.stop(now + 0.75);
+    } catch (e) {}
   };
 
   // Real-time live subscription on mount
   useEffect(() => {
-    const unsubscribe = subscribeToLeadsRealtime((updatedLeads) => {
-      setLeadsList(updatedLeads);
-    }, initialLeads);
+    const unsubscribe = subscribeToLeadsRealtime(
+      (updatedLeads) => {
+        setLeadsList(updatedLeads);
+      },
+      initialLeads,
+      (newLead) => {
+        // Instant 0ms prepend into local list state
+        setLeadsList((prev) => {
+          if (prev.some((l) => l.id === newLead.id)) return prev;
+          return [newLead, ...prev];
+        });
+
+        // Set live real-time alert card
+        setNewlyArrivedLead(newLead);
+        setNewlyArrivedLeadId(newLead.id);
+
+        // Play chime if enabled
+        if (soundEnabled) {
+          playLeadChime();
+        }
+
+        showToast(`⚡ New lead received: ${newLead.name} (${newLead.source || "Inquiry"})`);
+
+        // Fade highlight after 8 seconds
+        setTimeout(() => {
+          setNewlyArrivedLeadId((curr) => (curr === newLead.id ? null : curr));
+        }, 8000);
+      }
+    );
 
     return () => unsubscribe();
-  }, [initialLeads]);
+  }, [initialLeads, soundEnabled]);
 
   const handleRefresh = async () => {
     setIsLoading(true);
@@ -450,6 +552,19 @@ export function LeadsOverviewTab({
 
           <div className="flex items-center gap-2.5 flex-wrap">
             <button
+              onClick={toggleSound}
+              className={`px-3 py-2 rounded-xl border text-xs font-bold flex items-center gap-1.5 transition-all cursor-pointer ${
+                soundEnabled
+                  ? "bg-amber-500/10 border-amber-500/30 text-amber-400 hover:bg-amber-500/20"
+                  : "bg-slate-800/80 border-slate-700 text-slate-400 hover:text-slate-200"
+              }`}
+              title={soundEnabled ? "Mute audio alert chime" : "Enable audio alert chime"}
+            >
+              {soundEnabled ? <Volume2 className="w-3.5 h-3.5 text-amber-400" /> : <VolumeX className="w-3.5 h-3.5" />}
+              <span>{soundEnabled ? "Sound On" : "Sound Muted"}</span>
+            </button>
+
+            <button
               onClick={handleRefresh}
               disabled={isLoading}
               className="px-3.5 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold text-xs flex items-center gap-2 transition-all cursor-pointer border border-slate-700"
@@ -517,6 +632,60 @@ export function LeadsOverviewTab({
           </button>
         </div>
       </div>
+
+      {/* Real-Time Live Lead Arrival Alert Card */}
+      {newlyArrivedLead && (
+        <div className="bg-gradient-to-r from-emerald-950 via-slate-900 to-emerald-950 border-2 border-emerald-500/80 rounded-2xl p-4 shadow-2xl animate-fade-in flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+          <div className="flex items-center gap-3">
+            <span className="relative flex h-3.5 w-3.5 shrink-0">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+              <span className="relative inline-flex rounded-full h-3.5 w-3.5 bg-emerald-500"></span>
+            </span>
+            <div>
+              <div className="text-[11px] font-black uppercase tracking-wider text-emerald-400 flex items-center gap-1.5">
+                <Radio className="w-3.5 h-3.5 animate-pulse text-emerald-400" />
+                <span>Instant Real-Time Lead Received Right Now!</span>
+                <span className="text-slate-500">•</span>
+                <span className="text-amber-400">{newlyArrivedLead.timeStr || "Just now"}</span>
+              </div>
+              <div className="text-sm font-bold text-white mt-0.5 flex items-center gap-2 flex-wrap">
+                <span>{newlyArrivedLead.name}</span>
+                <span className="text-slate-400 font-mono text-xs">({newlyArrivedLead.number || newlyArrivedLead.phone})</span>
+                <span className="text-slate-500">•</span>
+                <span className="text-amber-400 text-xs font-semibold">{newlyArrivedLead.source}</span>
+                {newlyArrivedLead.college && (
+                  <span className="text-slate-300 text-xs">| {newlyArrivedLead.college}</span>
+                )}
+              </div>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-2 shrink-0">
+            <a
+              href={createWhatsAppUrl(newlyArrivedLead)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-3.5 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs flex items-center gap-1.5 shadow-md shadow-emerald-600/30 transition-all"
+            >
+              <MessageCircle className="w-3.5 h-3.5" />
+              <span>WhatsApp</span>
+            </a>
+            <button
+              onClick={() => setSelectedLead(newlyArrivedLead)}
+              className="px-3.5 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold text-xs border border-slate-700 transition-all cursor-pointer"
+            >
+              Open Profile
+            </button>
+            <button
+              onClick={() => setNewlyArrivedLead(null)}
+              className="p-2 text-slate-400 hover:text-white rounded-xl hover:bg-slate-800"
+              title="Dismiss alert"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
+        </div>
+      )}
 
       {/* KPI Cards Grid */}
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
@@ -695,13 +864,18 @@ export function LeadsOverviewTab({
                   <tbody className="divide-y divide-slate-800/60">
                     {filteredLeads.map((lead) => {
                       const badge = getCategoryBadge(lead.category, lead.source);
+                      const isNewlyArrived = newlyArrivedLeadId === lead.id;
                       const currentStatus = lead.status || "New";
 
                       return (
                         <tr
                           key={lead.id}
                           onClick={() => setSelectedLead(lead)}
-                          className="hover:bg-slate-800/50 transition-colors cursor-pointer group"
+                          className={`transition-all duration-700 cursor-pointer group ${
+                            isNewlyArrived
+                              ? "bg-emerald-500/25 ring-2 ring-emerald-400 shadow-xl shadow-emerald-500/20 animate-pulse"
+                              : "hover:bg-slate-800/50"
+                          }`}
                         >
                           {/* Date & Time */}
                           <td className="p-3.5 font-mono text-[11px] text-slate-400 whitespace-nowrap">
