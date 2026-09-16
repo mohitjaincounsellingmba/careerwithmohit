@@ -3,6 +3,7 @@
 import { useState, useMemo } from "react";
 import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X, ShieldCheck } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
+import { submitLead } from "@/lib/leads";
 
 export function CuetCalculator() {
     const [correct, setCorrect] = useState<number | "">("");
@@ -188,33 +189,31 @@ export function CuetCalculator() {
         e.preventDefault();
 
         try {
-            const response = await fetch('/api/leads', {
-                method: 'POST',
-                mode: 'cors',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    name: leadData.name,
-                    number: leadData.number,
-                    email: leadData.email,
-                    location: leadData.location,
-                    source: `CUET PG 2027 Calculator`,
-                    score: stats.score,
+            await submitLead({
+                name: leadData.name,
+                number: leadData.number,
+                email: leadData.email,
+                location: leadData.location,
+                source: "CUET PG 2027 Calculator",
+                category: "calculator",
+                score: stats.score,
+                percentile: stats.percentile,
+                targetExam: "CUET PG 2027",
+                details: {
+                    rawScore: stats.score,
                     percentile: stats.percentile,
+                    targetGoal: targetGoal,
                     responseSheetUrl: responseSheetUrl,
-                    timestamp: new Date().toISOString()
-                }),
+                },
+                timestamp: new Date().toISOString()
             });
-
-            if (!response.ok) {
-                const errorText = await response.text();
-                throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
-            }
 
             setIsUnlocked(true);
             setShowLeadForm(false);
         } catch (e: any) {
-            console.error('Webhook Error:', e);
-            alert('Submission failed. Please try again.');
+            console.error('Submission Error:', e);
+            setIsUnlocked(true);
+            setShowLeadForm(false);
         }
     };
 

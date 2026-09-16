@@ -4,6 +4,7 @@ import { useEffect, useMemo } from 'react';
 import { Trophy, Target, Zap, Download, RotateCcw, MessageCircle, Linkedin, Share2, ArrowRight, CheckCircle2, XCircle, Clock } from 'lucide-react';
 import { GenericQuestion, ExamConfig } from '@/lib/mock-test-data';
 import { GenericStudentInfo } from './GenericRegistrationForm';
+import { submitLead } from '@/lib/leads';
 
 interface GenericScoreCardProps {
   config: ExamConfig;
@@ -55,30 +56,30 @@ export function GenericScoreCard({ config, questions, answers, student, onReset 
   useEffect(() => {
     const sendResults = async () => {
       try {
-        await fetch('/api/leads', {
-          method: 'POST',
-          mode: 'cors',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            name: student.name,
-            number: student.phone,
-            email: student.email,
-            location: student.location,
-            source: `${config.name} Mock Test`,
-            score: correct,
-            percentile: percentage,
+        await submitLead({
+          name: student.name,
+          number: student.phone,
+          email: student.email,
+          location: student.location,
+          source: `${config.name} Mock Test Completed`,
+          category: "mocktest",
+          score: marks,
+          percentile: percentage,
+          targetExam: student.targetExam,
+          details: {
             accuracy: percentage,
             total_questions: total,
+            correct: correctCount,
             targetExam: student.targetExam,
-            timestamp: new Date().toISOString()
-          })
+          },
+          timestamp: new Date().toISOString()
         });
-      } catch (err) {
-        console.error('Failed to sync results:', err);
+      } catch (e) {
+        console.error('Failed to submit results webhook', e);
       }
     };
     sendResults();
-  }, [correct, total, percentage, student, config]);
+  }, [student, config, marks, percentage, total, correctCount]);
 
   const sortedSections = Object.entries(sectionWise).sort((a,b) => {
     const ratioA = a[1].total ? a[1].correct/a[1].total : 0;

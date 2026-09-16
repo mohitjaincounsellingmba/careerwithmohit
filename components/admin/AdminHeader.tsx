@@ -31,6 +31,7 @@ interface AdminHeaderProps {
   isRefreshing: boolean;
   totalBlogsCount: number;
   totalCollegesCount?: number;
+  totalLeadsCount?: number;
   activeNow?: number;
   autoSyncIntervalSeconds?: number;
   setAutoSyncIntervalSeconds?: (seconds: number) => void;
@@ -46,6 +47,7 @@ export function AdminHeader({
   isRefreshing,
   totalBlogsCount,
   totalCollegesCount = 654,
+  totalLeadsCount,
   activeNow = 0,
   autoSyncIntervalSeconds = 300,
   setAutoSyncIntervalSeconds,
@@ -56,11 +58,11 @@ export function AdminHeader({
 
   const tabs = [
     { id: "overview", label: "Overview", icon: BarChart3 },
+    { id: "leads", label: totalLeadsCount !== undefined ? `👥 Leads & Inquiries (${totalLeadsCount})` : "👥 Leads & Inquiries", icon: Users },
     { id: "consultant-seo", label: "🎯 Consultant SEO Strategy", icon: Compass },
     { id: "colleges", label: `🎓 Colleges (${totalCollegesCount})`, icon: GraduationCap },
     { id: "seo", label: "🌐 SEO & GEO Studio", icon: Sparkles },
     { id: "diff", label: "🔄 Diff & Revisions", icon: GitCompare },
-    { id: "leads", label: "👥 Leads & Inquiries", icon: Users },
     { id: "blogs", label: `📝 Blogs (${totalBlogsCount})`, icon: FileText },
     { id: "realtime", label: "⚡ Real-Time Traffic", icon: Zap },
     { id: "abtest", label: "🧪 A/B Testing", icon: FlaskConical },

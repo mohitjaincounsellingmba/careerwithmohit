@@ -22,7 +22,8 @@ import {
   Sparkles
 } from 'lucide-react';
 import { CAT_MOCK_TEST_68, CatQuestion } from '@/data/cat_mock_test_68';
-import { UserAnswers } from './CatExamInterface';
+import { CatStudentInfo, CatSectionResult, UserAnswers } from './CatExamInterface';
+import { submitLead } from '@/lib/leads';
 import { GenericStudentInfo } from '@/components/GenericMockTest/GenericRegistrationForm';
 
 interface CatScorecardSolutionsProps {
@@ -150,23 +151,22 @@ export function CatScorecardSolutions({ student, answers, onReset }: CatScorecar
   useEffect(() => {
     const syncResults = async () => {
       try {
-        await fetch('/api/leads', {
-          method: 'POST',
-          mode: 'cors',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            name: student.name,
-            number: student.phone,
-            email: student.email,
-            location: student.location,
-            source: 'CAT 68-Question CBT Mock Test',
-            score: analytics.totalScore,
-            percentile: analytics.overallPercentile,
+        await submitLead({
+          name: student.name,
+          number: student.phone,
+          email: student.email,
+          location: student.location,
+          source: 'CAT 68-Question CBT Mock Test',
+          category: 'mocktest',
+          score: analytics.totalScore,
+          percentile: analytics.overallPercentile,
+          targetExam: 'CAT 2026',
+          details: {
             accuracy: analytics.overallAccuracy,
             total_questions: 68,
             targetExam: 'CAT 2026',
-            timestamp: new Date().toISOString()
-          })
+          },
+          timestamp: new Date().toISOString()
         });
       } catch (err) {
         console.error('Lead sync failed:', err);

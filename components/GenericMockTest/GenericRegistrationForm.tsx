@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { ExamConfig } from '@/lib/mock-test-data';
+import { submitLead } from '@/lib/leads';
 
 export interface GenericStudentInfo {
   name: string;
@@ -36,19 +37,19 @@ export function GenericRegistrationForm({ config, onRegister }: GenericRegistrat
     if (formData.name && formData.email && formData.phone) {
       setIsSubmitting(true);
       try {
-        await fetch('/api/leads', {
-          method: 'POST',
-          mode: 'cors',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            name: formData.name,
-            number: formData.phone,
-            email: formData.email,
-            location: formData.location,
-            source: `${config.name} Mock Test`,
+        await submitLead({
+          name: formData.name,
+          number: formData.phone,
+          email: formData.email,
+          location: formData.location,
+          source: `${config.name} Mock Test`,
+          category: 'mocktest',
+          targetExam: formData.targetExam,
+          details: {
             targetExam: formData.targetExam,
-            timestamp: new Date().toISOString()
-          })
+            selectedSet: formData.selectedSet,
+          },
+          timestamp: new Date().toISOString()
         });
       } catch (error) {
         console.error('Lead submission failed:', error);

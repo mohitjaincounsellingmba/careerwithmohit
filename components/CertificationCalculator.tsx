@@ -6,6 +6,7 @@ import {
     ChevronRight, ArrowLeft, Zap, Send, CheckCircle2, 
     Award, Clock, BarChart3, Plus, Minus, Info
 } from "lucide-react";
+import { submitLead } from "@/lib/leads";
 
 export function CertificationCalculator() {
     const [step, setStep] = useState<"category" | "program" | "specialization" | "result">("category");
@@ -38,15 +39,15 @@ export function CertificationCalculator() {
         setSubmitting(true);
 
         try {
-            await fetch('/api/leads', {
-                method: "POST",
-                mode: 'cors',
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    ...leadData,
-                    source: `Certification Calculator - ${selectedProgram?.toUpperCase()} ${selectedSpec?.title}`,
-                    timestamp: new Date().toISOString()
-                }),
+            await submitLead({
+                ...leadData,
+                source: `Certification Calculator - ${selectedProgram?.toUpperCase()} ${selectedSpec?.title}`,
+                category: "calculator",
+                details: {
+                    program: selectedProgram,
+                    specialization: selectedSpec?.title,
+                },
+                timestamp: new Date().toISOString()
             });
             alert("Thank you! Our expert will contact you soon.");
         } catch (e) {

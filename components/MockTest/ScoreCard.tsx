@@ -3,6 +3,7 @@
 import { useEffect, useMemo } from 'react';
 import { Question } from '@/lib/mhcet-questions';
 import { StudentInfo } from './RegistrationForm';
+import { submitLead } from '@/lib/leads';
 import { Trophy, Target, Zap, BookOpen, Download, RotateCcw, Share2 } from 'lucide-react';
 
 interface ScoreCardProps {
@@ -41,18 +42,17 @@ export function ScoreCard({ questions, answers, student, onReset }: ScoreCardPro
   useEffect(() => {
     const sendResults = async () => {
       try {
-        await fetch('/api/leads', {
-          method: 'POST',
-          mode: 'cors',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            name: student.name,
-            number: student.phone,
-            email: student.email,
-            location: student.location,
-            source: 'MHCET Mock Test',
-            score: correct,
-            percentile: percentage,
+        await submitLead({
+          name: student.name,
+          number: student.phone,
+          email: student.email,
+          location: student.location,
+          source: 'MHCET Mock Test Completed',
+          category: 'mocktest',
+          score: correct,
+          percentile: percentage,
+          targetExam: student.targetExam,
+          details: {
             accuracy: percentage,
             total_questions: total,
             section_lr: `${sectionWise.LR.correct}/${sectionWise.LR.total}`,
@@ -60,15 +60,15 @@ export function ScoreCard({ questions, answers, student, onReset }: ScoreCardPro
             section_qa: `${sectionWise.QA.correct}/${sectionWise.QA.total}`,
             section_varc: `${sectionWise.VARC.correct}/${sectionWise.VARC.total}`,
             targetExam: student.targetExam,
-            timestamp: new Date().toISOString()
-          })
+          },
+          timestamp: new Date().toISOString()
         });
-      } catch (err) {
-        console.error('Failed to sync results:', err);
+      } catch (e) {
+        console.error('Failed to submit results', e);
       }
     };
     sendResults();
-  }, [correct, total, percentage, student, sectionWise]);
+  }, [student, correct, percentage, total, sectionWise]);
 
   const bestSection = Object.entries(sectionWise).sort((a,b) => (b[1].correct/b[1].total) - (a[1].correct/a[1].total))[0];
 

@@ -16,6 +16,7 @@ import {
   TrendingUp,
 } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
+import { submitLead } from "@/lib/leads";
 
 // ─── MAT May 2026 Exam Structure ────────────────────────────────────────────
 // MAT has 5 sections, each with 40 MCQ questions (200 total)
@@ -203,19 +204,20 @@ export function MatScoreCalculator() {
   const handleLeadSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      await fetch("/api/leads", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: leadData.name,
-          number: leadData.number,
-          email: leadData.email,
-          location: leadData.location,
-          source: "Sept MAT Score Calculator & Checker",
-          score: stats.compositeScore,
+      await submitLead({
+        name: leadData.name,
+        number: leadData.number,
+        email: leadData.email,
+        location: leadData.location,
+        source: "Sept MAT Score Calculator & Checker",
+        category: "calculator",
+        score: stats.compositeScore,
+        percentile: stats.overallPercentile,
+        details: {
+          compositeScore: stats.compositeScore,
           percentile: stats.overallPercentile,
-          timestamp: new Date().toISOString(),
-        }),
+        },
+        timestamp: new Date().toISOString(),
       });
       setIsUnlocked(true);
       setShowLeadForm(false);

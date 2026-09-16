@@ -3,6 +3,7 @@
 import { useState, useMemo } from "react";
 import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X, ShieldCheck, Send, Compass } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
+import { submitLead } from "@/lib/leads";
 
 export function JeeScoreCalculator() {
     const [correct, setCorrect] = useState<number | "">("");
@@ -125,15 +126,19 @@ export function JeeScoreCalculator() {
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
         try {
-            await fetch("/api/leads", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    ...leadData,
-                    score: stats.score,
+            await submitLead({
+                ...leadData,
+                source: "JEE Main 2026 Score Checker (Session 2)",
+                category: "calculator",
+                score: stats.score,
+                percentile: stats.percentile,
+                targetExam: "JEE Main 2026",
+                details: {
+                    rawScore: stats.score,
                     percentile: stats.percentile,
-                    exam: "JEE Main 2026 Session 2"
-                })
+                    accuracy: stats.accuracy,
+                },
+                timestamp: new Date().toISOString()
             });
             setIsUnlocked(true);
         } catch (err) {

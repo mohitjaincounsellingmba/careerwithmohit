@@ -27,6 +27,7 @@ import {
 } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
 import Link from "next/link";
+import { submitLead } from "@/lib/leads";
 
 // ─── CAT 2026 Exam Structure (66 Questions · 198 Marks) ──────────────────────
 const SECTIONS = [
@@ -356,20 +357,25 @@ export function CatScoreCalculator() {
   const handleLeadSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      await fetch("/api/leads", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: leadData.name,
-          number: leadData.number,
-          email: leadData.email,
-          location: leadData.location,
-          source: "CAT 2026 Score Calculator (2027 Admission)",
-          score: stats.totalRaw,
-          percentile: stats.overallPercentile,
+      await submitLead({
+        name: leadData.name,
+        number: leadData.number,
+        email: leadData.email,
+        location: leadData.location,
+        source: "CAT 2026 Score Calculator (2027 Admission)",
+        category: "calculator",
+        score: stats.totalRaw,
+        percentile: stats.overallPercentile,
+        slot: selectedSlot,
+        details: {
           slot: selectedSlot,
-          timestamp: new Date().toISOString(),
-        }),
+          rawScore: stats.totalRaw,
+          percentile: stats.overallPercentile,
+          varcScore: stats.sections.find(s => s.key === 'varc')?.raw,
+          dilrScore: stats.sections.find(s => s.key === 'dilr')?.raw,
+          qaScore: stats.sections.find(s => s.key === 'qa')?.raw,
+        },
+        timestamp: new Date().toISOString(),
       });
       setIsUnlocked(true);
       setShowLeadForm(false);

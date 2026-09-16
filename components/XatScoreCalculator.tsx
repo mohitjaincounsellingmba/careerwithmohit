@@ -16,6 +16,7 @@ import {
   TrendingUp,
 } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
+import { submitLead } from "@/lib/leads";
 
 // ─── XAT 2027 Exam Structure ────────────────────────────────────────────────
 const SECTIONS = [
@@ -240,19 +241,23 @@ export function XatScoreCalculator() {
   const handleLeadSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      await fetch("/api/leads", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: leadData.name,
-          number: leadData.number,
-          email: leadData.email,
-          location: leadData.location,
-          source: "XAT 2027 Score Calculator",
-          score: stats.totalRaw,
+      await submitLead({
+        name: leadData.name,
+        number: leadData.number,
+        email: leadData.email,
+        location: leadData.location,
+        source: "XAT 2027 Score Calculator",
+        category: "calculator",
+        score: stats.totalRaw,
+        percentile: stats.overallPercentile,
+        details: {
+          rawScore: stats.totalRaw,
           percentile: stats.overallPercentile,
-          timestamp: new Date().toISOString(),
-        }),
+          valrScore: stats.sections.find(s => s.key === 'valr')?.raw,
+          dmScore: stats.sections.find(s => s.key === 'dm')?.raw,
+          qadiScore: stats.sections.find(s => s.key === 'qadi')?.raw,
+        },
+        timestamp: new Date().toISOString(),
       });
       setIsUnlocked(true);
       setShowLeadForm(false);

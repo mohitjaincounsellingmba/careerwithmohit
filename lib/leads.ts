@@ -1,17 +1,168 @@
-export async function submitLead(payload: Record<string, unknown>): Promise<{ success: boolean; error?: string }> {
+import { db } from "@/lib/firebase";
+import { collection, doc, setDoc, getDocs, updateDoc, deleteDoc, onSnapshot, query, orderBy, limit } from "firebase/firestore";
+
+export interface LeadItem {
+  id: string;
+  name: string;
+  number: string;
+  phone?: string;
+  email: string;
+  location: string;
+  source: string;
+  category?: "calculator" | "brochure" | "inquiry" | "mocktest" | "booking" | "starterkit" | "newsletter" | "other";
+  course?: string;
+  program?: string;
+  college?: string;
+  score?: number | string;
+  percentile?: number | string;
+  slot?: string;
+  budget?: string;
+  targetExam?: string;
+  message?: string;
+  details?: Record<string, unknown>;
+  status?: "New" | "Contacted" | "In Discussion" | "Converted" | "Cold";
+  notes?: Array<{ text: string; timestamp: string }>;
+  timestamp: string;
+  dateStr?: string;
+  timeStr?: string;
+  [key: string]: unknown;
+}
+
+const LOCAL_STORAGE_KEY = "cwm_captured_leads_v1";
+const BROADCAST_CHANNEL_NAME = "cwm_leads_sync_channel";
+
+export function categorizeSource(source: string = ""): LeadItem["category"] {
+  const s = source.toLowerCase();
+  if (s.includes("calculator") || s.includes("percentile") || s.includes("score")) return "calculator";
+  if (s.includes("brochure") || s.includes("syllabus") || s.includes("paper download")) return "brochure";
+  if (s.includes("mock") || s.includes("test") || s.includes("exam") || s.includes("certificate") || s.includes("assessment")) return "mocktest";
+  if (s.includes("book") || s.includes("session") || s.includes("calendly") || s.includes("consultation") || s.includes("strategy")) return "booking";
+  if (s.includes("starter") || s.includes("kit") || s.includes("guide")) return "starterkit";
+  if (s.includes("subscribe") || s.includes("newsletter")) return "newsletter";
+  if (s.includes("degree") || s.includes("pgdm") || s.includes("mba") || s.includes("admission")) return "inquiry";
+  return "inquiry";
+}
+
+// 1. Get stored leads from LocalStorage cache
+export function getLocalCachedLeads(): LeadItem[] {
+  if (typeof window === "undefined") return [];
+  try {
+    const raw = localStorage.getItem(LOCAL_STORAGE_KEY);
+    if (!raw) return [];
+    return JSON.parse(raw) as LeadItem[];
+  } catch (e) {
+    console.error("[Leads] Error parsing local cached leads:", e);
+    return [];
+  }
+}
+
+// 2. Save lead into LocalStorage cache
+export function saveLocalCachedLead(lead: LeadItem): LeadItem[] {
+  if (typeof window === "undefined") return [];
+  try {
+    const existing = getLocalCachedLeads();
+    const index = existing.findIndex((l) => l.id === lead.id);
+    let updated: LeadItem[];
+    if (index >= 0) {
+      updated = [...existing];
+      updated[index] = { ...updated[index], ...lead };
+    } else {
+      updated = [lead, ...existing];
+    }
+    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(updated.slice(0, 1000)));
+    return updated;
+  } catch (e) {
+    console.error("[Leads] Error saving lead to local storage:", e);
+    return [];
+  }
+}
+
+// 3. Broadcast lead event across tabs and components
+function broadcastLeadUpdate(lead: LeadItem, action: "add" | "update" | "delete" = "add") {
+  if (typeof window === "undefined") return;
+  try {
+    window.dispatchEvent(new CustomEvent("cwm_lead_event", { detail: { action, lead } }));
+    if ("BroadcastChannel" in window) {
+      const channel = new BroadcastChannel(BROADCAST_CHANNEL_NAME);
+      channel.postMessage({ action, lead, time: Date.now() });
+      setTimeout(() => channel.close(), 1000);
+    }
+  } catch (e) {}
+}
+
+// 4. Submit Lead Function (Invoked by all website forms)
+export async function submitLead(payload: Record<string, unknown>): Promise<{ success: boolean; id?: string; error?: string }> {
   const name = String(payload.name || "").trim();
-  const number = String(payload.number || payload.phone || "").trim();
+  const number = String(payload.number || payload.phone || payload.mobile || "").trim();
+
   if (!name || !number) {
     return { success: false, error: "Name and phone number are required" };
   }
 
-  const source = String(payload.source || "Unknown");
+  const id = String(payload.id || `lead_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`);
+  const source = String(payload.source || "Website Inquiry");
+  const category = (payload.category as LeadItem["category"]) || categorizeSource(source);
+  const now = new Date();
+  const timestamp = String(payload.timestamp || now.toISOString());
+  const dateStr = now.toLocaleDateString("en-IN", { timeZone: "Asia/Kolkata" });
+  const timeStr = now.toLocaleTimeString("en-IN", { timeZone: "Asia/Kolkata" });
   const course = String(payload.course || payload.program || payload.specialization || "");
-  const details = typeof payload.details === "object" && payload.details !== null ? payload.details as Record<string, unknown> : {};
+  const college = String(payload.college || (payload.details as any)?.preferredUniversity || "");
+  const location = String(payload.location || payload.city || "Online");
+  const email = String(payload.email || "");
 
-  // 100% Flat, top-level string properties for Google Sheets compatibility (both lower & capitalized keys)
+  const cleanLead: LeadItem = {
+    id,
+    name,
+    number,
+    phone: number,
+    email,
+    location,
+    source,
+    category,
+    course,
+    program: course,
+    college,
+    score: (payload.score !== undefined ? payload.score : (payload.details as any)?.score) as any,
+    percentile: (payload.percentile !== undefined ? payload.percentile : (payload.details as any)?.percentile) as any,
+    slot: String(payload.slot || ""),
+    budget: String(payload.budget || "Not Specified"),
+    targetExam: String(payload.targetExam || payload.exam || ""),
+    message: String(payload.message || payload.goal || ""),
+    details: (typeof payload.details === "object" && payload.details !== null ? payload.details : {}) as Record<string, unknown>,
+    status: "New",
+    notes: [],
+    timestamp,
+    dateStr,
+    timeStr,
+  };
+
+  // Copy additional primitive fields
+  for (const [key, val] of Object.entries(payload)) {
+    if ((typeof val === "string" || typeof val === "number" || typeof val === "boolean") && !(key in cleanLead)) {
+      cleanLead[key] = val;
+    }
+  }
+
+  // 1. Save to Local Storage immediately for zero-latency local availability
+  saveLocalCachedLead(cleanLead);
+  broadcastLeadUpdate(cleanLead, "add");
+
+  // 2. Save to Firebase Firestore in real-time
+  if (db) {
+    try {
+      const docRef = doc(db, "leads", id);
+      setDoc(docRef, cleanLead, { merge: true }).catch((err) => {
+        console.warn("[Leads] Firebase Firestore write background warning:", err);
+      });
+    } catch (firebaseErr) {
+      console.warn("[Leads] Firebase Firestore write error:", firebaseErr);
+    }
+  }
+
+  // 3. Flat payload for Activepieces & Google Sheets webhook integration
   const flatPayload: Record<string, string> = {
-    id: String(payload.id || crypto.randomUUID()),
+    id,
     name,
     Name: name,
     number,
@@ -19,57 +170,55 @@ export async function submitLead(payload: Record<string, unknown>): Promise<{ su
     Phone: number,
     mobile: number,
     Mobile: number,
-    email: String(payload.email || ""),
-    Email: String(payload.email || ""),
-    location: String(payload.location || payload.city || "Online"),
-    Location: String(payload.location || payload.city || "Online"),
-    course,
-    Course: course,
-    program: course,
-    Program: course,
+    email,
+    Email: email,
+    location,
+    Location: location,
+    category: category || "inquiry",
+    Category: category || "inquiry",
     source,
     Source: source,
-    message: String(payload.message || ""),
-    Message: String(payload.message || ""),
-    goal: String(payload.goal || payload.message || ""),
-    reason: String(payload.reason || ""),
-    budget: String(payload.budget || "Not Specified"),
-    preferredLocation: String(payload.preferredLocation || "Online"),
-    college: String(payload.college || details.preferredUniversity || ""),
-    preferredUniversity: String(details.preferredUniversity || payload.college || ""),
-    timestamp: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }),
-    Timestamp: new Date().toISOString(),
-    Date: new Date().toLocaleDateString('en-IN', { timeZone: 'Asia/Kolkata' }),
-    Time: new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' }),
+    course,
+    Course: course,
+    college,
+    College: college,
+    score: cleanLead.score !== undefined ? String(cleanLead.score) : "",
+    Score: cleanLead.score !== undefined ? String(cleanLead.score) : "",
+    percentile: cleanLead.percentile !== undefined ? String(cleanLead.percentile) : "",
+    Percentile: cleanLead.percentile !== undefined ? String(cleanLead.percentile) : "",
+    slot: cleanLead.slot || "",
+    message: cleanLead.message || "",
+    Message: cleanLead.message || "",
+    timestamp: `${dateStr} ${timeStr}`,
+    Timestamp: timestamp,
+    Date: dateStr,
+    Time: timeStr,
   };
 
-  for (const [key, val] of Object.entries(details)) {
-    if (typeof val === "string" || typeof val === "number") {
-      flatPayload[key] = String(val);
-    }
-  }
-  for (const [key, val] of Object.entries(payload)) {
-    if ((typeof val === "string" || typeof val === "number") && key !== "details") {
-      flatPayload[key] = String(val);
+  if (cleanLead.details) {
+    for (const [k, v] of Object.entries(cleanLead.details)) {
+      if (typeof v === "string" || typeof v === "number") {
+        flatPayload[k] = String(v);
+      }
     }
   }
 
-  // 1. Try Cloudflare Pages / Next.js API endpoint first
+  // 4. Send to Next.js / Cloudflare API endpoint with trailing slash
   try {
-    const res = await fetch("/api/leads", {
+    fetch("/api/leads/", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(flatPayload),
+      body: JSON.stringify(cleanLead),
+    }).catch(() => {
+      fetch("/api/leads", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(cleanLead),
+      }).catch(() => {});
     });
-    if (res.ok) {
-      return { success: true };
-    }
-    console.warn(`[Leads] /api/leads returned status ${res.status}, falling back to direct Activepieces webhooks`);
-  } catch (err) {
-    console.warn("[Leads] Network/404 error calling /api/leads, falling back to direct Activepieces webhooks", err);
-  }
+  } catch (e) {}
 
-  // 2. Fallback: Dispatch to all active webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces receives it
+  // 5. Forward to Activepieces Webhooks for Google Sheets synchronization
   const fallbackWebhooks = [
     "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
     "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
@@ -77,23 +226,232 @@ export async function submitLead(payload: Record<string, unknown>): Promise<{ su
   ];
 
   try {
-    const results = await Promise.allSettled(
-      fallbackWebhooks.map(webhook =>
+    Promise.allSettled(
+      fallbackWebhooks.map((webhook) =>
         fetch(webhook, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(flatPayload),
         })
       )
-    );
+    ).catch(() => {});
+  } catch (err) {}
 
-    const anySuccess = results.some(r => r.status === "fulfilled" && r.value.ok);
-    if (!anySuccess) {
-      return { success: false, error: "Activepieces webhooks failed" };
+  return { success: true, id };
+}
+
+// 5. Fetch all leads combining Server API, Firestore, LocalStorage, and seed dataset
+export async function fetchAllLeads(seedLeads: LeadItem[] = []): Promise<LeadItem[]> {
+  const leadMap = new Map<string, LeadItem>();
+
+  // 1. Seed leads from static admin-data / data/leads.json
+  seedLeads.forEach((l) => {
+    if (l && l.id) {
+      leadMap.set(l.id, {
+        ...l,
+        category: l.category || categorizeSource(l.source),
+        status: l.status || "New",
+      });
     }
-    return { success: true };
-  } catch (err: any) {
-    console.error("[Leads] Direct webhook error:", err);
-    return { success: false, error: err.message || "Failed to submit lead" };
+  });
+
+  // 2. Fetch directly from Server API (/api/leads/)
+  if (typeof window !== "undefined") {
+    try {
+      const res = await fetch(`/api/leads/?t=${Date.now()}`).catch(() =>
+        fetch(`/api/leads?t=${Date.now()}`)
+      );
+      if (res && res.ok) {
+        const serverLeads = await res.json();
+        if (Array.isArray(serverLeads)) {
+          serverLeads.forEach((l) => {
+            if (l && l.id) {
+              leadMap.set(l.id, {
+                ...leadMap.get(l.id),
+                ...l,
+                category: l.category || categorizeSource(l.source),
+                status: l.status || "New",
+              });
+            }
+          });
+        }
+      }
+    } catch (e) {
+      console.warn("[Leads] Server API fetch notice:", e);
+    }
   }
+
+  // 3. Local Storage Cache
+  const localLeads = getLocalCachedLeads();
+  localLeads.forEach((l) => {
+    if (l && l.id) {
+      leadMap.set(l.id, {
+        ...leadMap.get(l.id),
+        ...l,
+        category: l.category || categorizeSource(l.source),
+      });
+    }
+  });
+
+  // 4. Firestore live leads
+  if (db) {
+    try {
+      const snap = await getDocs(collection(db, "leads"));
+      snap.forEach((docSnap) => {
+        const data = docSnap.data() as LeadItem;
+        if (data && (data.id || docSnap.id)) {
+          const leadId = data.id || docSnap.id;
+          leadMap.set(leadId, {
+            ...leadMap.get(leadId),
+            ...data,
+            id: leadId,
+            category: data.category || categorizeSource(data.source),
+          });
+        }
+      });
+    } catch (e) {
+      console.warn("[Leads] Firestore leads fetch notice:", e);
+    }
+  }
+
+  const allLeads = Array.from(leadMap.values());
+  // Sort newest first
+  return allLeads.sort((a, b) => new Date(b.timestamp || 0).getTime() - new Date(a.timestamp || 0).getTime());
+}
+
+// 6. Real-time Subscription listener for Admin Panel
+export function subscribeToLeadsRealtime(
+  onUpdate: (leads: LeadItem[]) => void,
+  initialSeed: LeadItem[] = []
+): () => void {
+  let isUnsubscribed = false;
+
+  const refreshCombined = async () => {
+    if (isUnsubscribed) return;
+    const leads = await fetchAllLeads(initialSeed);
+    if (!isUnsubscribed) {
+      onUpdate(leads);
+    }
+  };
+
+  // Initial load
+  refreshCombined();
+
+  // Periodic polling fallback (every 4 seconds) to ensure multi-device sync
+  const intervalId = setInterval(refreshCombined, 4000);
+
+  // Listen to window custom events & storage
+  const handleLeadEvent = () => refreshCombined();
+  const handleStorageEvent = (e: StorageEvent) => {
+    if (e.key === LOCAL_STORAGE_KEY) refreshCombined();
+  };
+
+  if (typeof window !== "undefined") {
+    window.addEventListener("cwm_lead_event", handleLeadEvent);
+    window.addEventListener("storage", handleStorageEvent);
+  }
+
+  let broadcastChannel: BroadcastChannel | null = null;
+  if (typeof window !== "undefined" && "BroadcastChannel" in window) {
+    broadcastChannel = new BroadcastChannel(BROADCAST_CHANNEL_NAME);
+    broadcastChannel.onmessage = () => refreshCombined();
+  }
+
+  // Firestore live onSnapshot listener
+  let unsubscribeFirestore = () => {};
+  if (db) {
+    try {
+      unsubscribeFirestore = onSnapshot(
+        collection(db, "leads"),
+        () => {
+          if (!isUnsubscribed) {
+            refreshCombined();
+          }
+        },
+        (err) => {
+          console.warn("[Leads] Firestore onSnapshot warning:", err);
+        }
+      );
+    } catch (e) {
+      console.warn("[Leads] Firestore subscription warning:", e);
+    }
+  }
+
+  return () => {
+    isUnsubscribed = true;
+    clearInterval(intervalId);
+    if (typeof window !== "undefined") {
+      window.removeEventListener("cwm_lead_event", handleLeadEvent);
+      window.removeEventListener("storage", handleStorageEvent);
+    }
+    if (broadcastChannel) {
+      broadcastChannel.close();
+    }
+    unsubscribeFirestore();
+  };
+}
+
+// 7. Update Lead Status & Add Notes
+export async function updateLeadStatus(
+  leadId: string,
+  newStatus: LeadItem["status"],
+  newNote?: string
+): Promise<boolean> {
+  const localLeads = getLocalCachedLeads();
+  const targetLead = localLeads.find((l) => l.id === leadId);
+  const updatedNotes = targetLead?.notes ? [...targetLead.notes] : [];
+
+  if (newNote && newNote.trim()) {
+    updatedNotes.unshift({
+      text: newNote.trim(),
+      timestamp: new Date().toISOString(),
+    });
+  }
+
+  const updatedFields: Partial<LeadItem> = {
+    status: newStatus,
+    notes: updatedNotes,
+  };
+
+  // Update local
+  if (targetLead) {
+    const updated = { ...targetLead, ...updatedFields };
+    saveLocalCachedLead(updated);
+    broadcastLeadUpdate(updated, "update");
+  }
+
+  // Update Firestore
+  if (db) {
+    try {
+      const docRef = doc(db, "leads", leadId);
+      await updateDoc(docRef, updatedFields);
+    } catch (e) {
+      console.warn("[Leads] Error updating lead status in Firestore:", e);
+    }
+  }
+
+  return true;
+}
+
+// 8. Delete Lead
+export async function deleteLead(leadId: string): Promise<boolean> {
+  if (typeof window !== "undefined") {
+    try {
+      const existing = getLocalCachedLeads();
+      const filtered = existing.filter((l) => l.id !== leadId);
+      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(filtered));
+      broadcastLeadUpdate({ id: leadId } as LeadItem, "delete");
+    } catch (e) {}
+  }
+
+  if (db) {
+    try {
+      const docRef = doc(db, "leads", leadId);
+      await deleteDoc(docRef);
+    } catch (e) {
+      console.warn("[Leads] Error deleting lead from Firestore:", e);
+    }
+  }
+
+  return true;
 }

@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { submitLead } from '@/lib/leads';
 
 export interface StudentInfo {
   name: string;
@@ -34,20 +35,19 @@ export function RegistrationForm({ onRegister }: RegistrationFormProps) {
     if (formData.name && formData.email && formData.phone) {
       setIsSubmitting(true);
       try {
-        // Switch to direct webhook submission (matching JeeCalculator for reliability)
-        await fetch('/api/leads', {
-          method: 'POST',
-          mode: 'cors',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            name: formData.name,
-            number: formData.phone,
-            email: formData.email,
-            location: formData.location,
-            source: 'MHCET Mock Test',
+        await submitLead({
+          name: formData.name,
+          number: formData.phone,
+          email: formData.email,
+          location: formData.location,
+          source: `Mock Test: ${formData.targetExam}`,
+          category: 'mocktest',
+          targetExam: formData.targetExam,
+          details: {
             targetExam: formData.targetExam,
-            timestamp: new Date().toISOString()
-          })
+            selectedSet: formData.selectedSet,
+          },
+          timestamp: new Date().toISOString()
         });
       } catch (error) {
         console.error('Lead submission failed:', error);

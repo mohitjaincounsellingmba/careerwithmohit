@@ -1,5 +1,6 @@
 import { initializeApp, getApps, getApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
+import { getFirestore, Firestore } from 'firebase/firestore';
 
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY || "AIzaSyA06tk1KcJSdHrExChtNIcPJrbs5gF0BCk",
@@ -11,7 +12,15 @@ const firebaseConfig = {
   measurementId: "G-HG217SM8ZS"
 };
 
-// Initialize Firebase app
+// Initialize Firebase app safely
 const app = getApps().length > 0 ? getApp() : initializeApp(firebaseConfig);
 export const auth = typeof window !== 'undefined' ? getAuth(app) : null;
+
+let firestoreDb: Firestore | null = null;
+try {
+  firestoreDb = getFirestore(app);
+} catch (e) {
+  console.warn("Firestore initialization error or running in unsupported environment", e);
+}
+export const db = firestoreDb;
 export default app;

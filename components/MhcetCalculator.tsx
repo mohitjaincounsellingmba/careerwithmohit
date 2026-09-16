@@ -3,6 +3,7 @@
 import { useState, useMemo } from "react";
 import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, HelpCircle, X } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
+import { submitLead } from "@/lib/leads";
 
 export function MhcetCalculator() {
     const [correct, setCorrect] = useState<number | "">("");
@@ -142,35 +143,31 @@ export function MhcetCalculator() {
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
 
-        // Direct Activepieces Webhook Call
         try {
-            const response = await fetch('/api/leads', {
-                method: 'POST',
-                mode: 'cors',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    name: leadData.name,
-                    number: leadData.number,
-                    email: leadData.email,
-                    location: leadData.location,
-                    source: `MHCET MBA 2026 Calculator`,
-                    score: stats.score,
+            await submitLead({
+                name: leadData.name,
+                number: leadData.number,
+                email: leadData.email,
+                location: leadData.location,
+                source: "MHCET MBA 2026 Calculator",
+                category: "calculator",
+                score: stats.score,
+                percentile: stats.percentile,
+                targetExam: "MAH-MBA-CET 2026",
+                details: {
+                    rawScore: stats.score,
                     percentile: stats.percentile,
                     responseSheetUrl: responseSheetUrl,
-                    timestamp: new Date().toISOString()
-                }),
+                },
+                timestamp: new Date().toISOString()
             });
-
-            if (!response.ok) {
-                const errorText = await response.text();
-                throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
-            }
 
             setIsUnlocked(true);
             setShowLeadForm(false);
         } catch (e: any) {
-            console.error('Webhook Error:', e);
-            alert('Submission failed. Please try again.');
+            console.error('Submission Error:', e);
+            setIsUnlocked(true);
+            setShowLeadForm(false);
         }
     };
 

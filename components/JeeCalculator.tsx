@@ -3,6 +3,7 @@
 import { useState, useMemo } from "react";
 import { Calculator, RefreshCw, Trophy, Target, AlertCircle, ChevronRight, Zap, Beaker, Atom, FunctionSquare, HelpCircle, X } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
+import { submitLead } from "@/lib/leads";
 
 type Subject = "Physics" | "Chemistry" | "Mathematics";
 
@@ -96,38 +97,34 @@ export function JeeCalculator() {
     const handleLeadSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
 
-        // Direct Activepieces Webhook Call
         try {
-            const response = await fetch('/api/leads', {
-                method: 'POST',
-                mode: 'cors',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    name: leadData.name,
-                    number: leadData.number,
-                    email: leadData.email,
-                    location: leadData.location,
-                    source: `JEE Main 2026 Calculator`,
-                    score: stats.totalScore,
+            await submitLead({
+                name: leadData.name,
+                number: leadData.number,
+                email: leadData.email,
+                location: leadData.location,
+                source: "JEE Main 2026 Calculator",
+                category: "calculator",
+                score: stats.totalScore,
+                percentile: stats.percentile,
+                targetExam: "JEE Main 2026",
+                details: {
+                    rawScore: stats.totalScore,
                     percentile: stats.percentile,
                     responseSheetUrl: responseSheetUrl,
                     physics: stats.subjectScores.Physics,
                     chemistry: stats.subjectScores.Chemistry,
                     maths: stats.subjectScores.Mathematics,
-                    timestamp: new Date().toISOString()
-                }),
+                },
+                timestamp: new Date().toISOString()
             });
-
-            if (!response.ok) {
-                const errorText = await response.text();
-                throw new Error(`Webhook failed with status ${response.status}: ${errorText}`);
-            }
 
             setIsUnlocked(true);
             setShowLeadForm(false);
         } catch (e: any) {
-            console.error('Webhook Error:', e);
-            alert('Submission failed. Please try again.');
+            console.error('Submission Error:', e);
+            setIsUnlocked(true);
+            setShowLeadForm(false);
         }
     };
 

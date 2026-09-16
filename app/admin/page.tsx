@@ -335,6 +335,7 @@ export default function AdminDashboardPage() {
         isRefreshing={isRefreshing}
         totalBlogsCount={filteredData?.blogs?.length || 5109}
         totalCollegesCount={filteredData?.colleges?.length || 654}
+        totalLeadsCount={filteredData?.leads?.length ?? filteredData?.summary?.totalLeads}
         activeNow={activeNow}
         autoSyncIntervalSeconds={autoSyncIntervalSeconds}
         setAutoSyncIntervalSeconds={handleUpdateAutoSyncInterval}

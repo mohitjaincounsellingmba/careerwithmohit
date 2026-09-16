@@ -6,20 +6,24 @@ type PagesFunction<Bindings = Record<string, unknown>> = (context: { request: Re
 
 const json = (body: unknown, status = 200) => Response.json(body, { status });
 
+export const onRequestGet: PagesFunction<Env> = async () => {
+  return json({ success: true, message: "Leads endpoint operational" });
+};
+
 export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
   try {
-    const lead = await request.json() as Record<string, unknown>;
+    const lead = (await request.json()) as Record<string, unknown>;
     const name = String(lead.name || "").trim();
     const number = String(lead.number || lead.phone || "").trim();
     if (!name || !number) return json({ error: "Name and number are required" }, 400);
 
     const source = String(lead.source || "Unknown");
     const course = String(lead.course || lead.program || lead.specialization || "");
-    const details = typeof lead.details === "object" && lead.details !== null ? lead.details as Record<string, unknown> : {};
+    const details = typeof lead.details === "object" && lead.details !== null ? (lead.details as Record<string, unknown>) : {};
 
     // 100% Flat, top-level string properties for Google Sheets compatibility (both lower & capitalized keys)
     const cleanPayload: Record<string, string> = {
-      id: String(lead.id || crypto.randomUUID()),
+      id: String(lead.id || `lead_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`),
       name,
       Name: name,
       number,
@@ -45,10 +49,10 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       preferredLocation: String(lead.preferredLocation || "Online"),
       college: String(lead.college || details.preferredUniversity || ""),
       preferredUniversity: String(details.preferredUniversity || lead.college || ""),
-      timestamp: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }),
+      timestamp: new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" }),
       Timestamp: new Date().toISOString(),
-      Date: new Date().toLocaleDateString('en-IN', { timeZone: 'Asia/Kolkata' }),
-      Time: new Date().toLocaleTimeString('en-IN', { timeZone: 'Asia/Kolkata' }),
+      Date: new Date().toLocaleDateString("en-IN", { timeZone: "Asia/Kolkata" }),
+      Time: new Date().toLocaleTimeString("en-IN", { timeZone: "Asia/Kolkata" }),
     };
 
     // Also include any extra primitive string/number values from lead or details without nesting
@@ -65,7 +69,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
 
     const deadUrls = new Set([
       "https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2",
-      "https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4"
+      "https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4",
     ]);
     const urls = new Set<string>([
       "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
@@ -82,7 +86,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
 
     // Send to all candidate webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces always receives the lead
     const results = await Promise.allSettled(
-      Array.from(urls).map(url =>
+      Array.from(urls).map((url) =>
         fetch(url, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -91,14 +95,14 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       )
     );
 
-    const anySuccess = results.some(r => r.status === "fulfilled" && r.value.ok);
+    const anySuccess = results.some((r) => r.status === "fulfilled" && r.value.ok);
 
     if (!anySuccess) {
       console.error("All Activepieces webhooks failed to save the lead");
       return json({ success: false, error: "Activepieces webhook failed" }, 502);
     }
 
-    return json({ success: true });
+    return json({ success: true, lead: cleanPayload });
   } catch (error: any) {
     console.error("Lead submission failed", error);
     return json({ success: false, error: error.message || "Invalid lead submission" }, 400);

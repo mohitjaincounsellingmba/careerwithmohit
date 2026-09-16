@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import { CheckCircle2, Download, Loader2, BookOpen, Target, GraduationCap, Building2 } from 'lucide-react';
+import { submitLead } from '@/lib/leads';
 
 interface StarterKitFormProps {
   onSuccessCallback?: () => void;
@@ -53,20 +54,20 @@ export default function StarterKitForm({ onSuccessCallback, formSource = 'Starte
     }
     
     try {
-      await fetch('https://cloud.activepieces.com/api/v1/webhooks/1yBqzhTcnXyDOOBsL9B4p', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          ...formData,
-          phone: formData.number, // Fallback for mapping
-          exams: formData.exams.join(', '), // Convert array to string for Google Sheets
+      await submitLead({
+        name: formData.name,
+        number: formData.number,
+        phone: formData.number,
+        email: formData.email,
+        location: formData.location,
+        source: `Starter Kit: ${formSource}`,
+        category: "starterkit",
+        details: {
           goal: formData.confirmation,
-          "Kindly select your goal": formData.confirmation,
-          "Which entrance exams are you preparing for?": formData.exams.join(', '),
-          ...sourceDetails
-        })
+          exams: formData.exams.join(', '),
+          ...sourceDetails,
+        },
+        timestamp: new Date().toISOString()
       });
       if (typeof window !== 'undefined') {
         localStorage.setItem('starter_kit_submitted', 'true');
