@@ -21,7 +21,9 @@ import {
   Calendar,
   Edit3,
   HelpCircle,
-  School
+  School,
+  ExternalLink,
+  ChevronRight
 } from 'lucide-react';
 import { submitLead } from '@/lib/leads';
 
@@ -84,71 +86,72 @@ export function CalendlyBookingWidget({
 
   // Calendly Widget States
   const [isLoading, setIsLoading] = useState<boolean>(true);
-  const [hasScriptError, setHasScriptError] = useState<boolean>(false);
+  const [iframeHeight, setIframeHeight] = useState<string>('720px');
   const calendarRef = useRef<HTMLDivElement>(null);
 
   // Construct embed URL with prefilled student name, email, and answers
-  const buildEmbedUrl = (studentName = name, studentEmail = email, goal = selectedGoal, colleges = targetColleges) => {
-    let base = `${url}?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=2563eb`;
-    if (studentName.trim()) base += `&name=${encodeURIComponent(studentName.trim())}`;
-    if (studentEmail.trim()) base += `&email=${encodeURIComponent(studentEmail.trim())}`;
-    base += `&a1=${encodeURIComponent(goal)}`;
-    if (colleges.trim()) {
-      base += `&a2=${encodeURIComponent(`Target Colleges: ${colleges.trim()}`)}`;
+  const buildEmbedUrl = (
+    studentName = name, 
+    studentEmail = email, 
+    goal = selectedGoal, 
+    colleges = targetColleges
+  ) => {
+    try {
+      const u = new URL(url);
+      u.searchParams.set('embed_domain', typeof window !== 'undefined' ? window.location.hostname : 'careerwithmohit.online');
+      u.searchParams.set('embed_type', 'Inline');
+      u.searchParams.set('hide_landing_page_details', '1');
+      u.searchParams.set('hide_gdpr_banner', '1');
+      u.searchParams.set('primary_color', '2563eb');
+      
+      if (studentName.trim()) {
+        u.searchParams.set('name', studentName.trim());
+      }
+      if (studentEmail.trim()) {
+        u.searchParams.set('email', studentEmail.trim());
+      }
+      if (goal.trim()) {
+        u.searchParams.set('a1', goal.trim());
+      }
+      if (colleges.trim()) {
+        u.searchParams.set('a2', `Target Colleges: ${colleges.trim()}`);
+      }
+      return u.toString();
+    } catch {
+      let base = `${url}?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=2563eb`;
+      if (studentName.trim()) base += `&name=${encodeURIComponent(studentName.trim())}`;
+      if (studentEmail.trim()) base += `&email=${encodeURIComponent(studentEmail.trim())}`;
+      base += `&a1=${encodeURIComponent(goal)}`;
+      if (colleges.trim()) {
+        base += `&a2=${encodeURIComponent(`Target Colleges: ${colleges.trim()}`)}`;
+      }
+      return base;
     }
-    return base;
   };
 
-  const [embedUrl, setEmbedUrl] = useState<string>(buildEmbedUrl());
+  const [embedUrl, setEmbedUrl] = useState<string>(() => buildEmbedUrl());
 
+  // Listen to Calendly messages (auto-resize height & log completed booking)
   useEffect(() => {
-    // Add Calendly CSS link if not already present
-    const cssId = 'calendly-widget-css';
-    if (!document.getElementById(cssId)) {
-      const link = document.createElement('link');
-      link.id = cssId;
-      link.rel = 'stylesheet';
-      link.href = 'https://assets.calendly.com/assets/external/widget.css';
-      document.head.appendChild(link);
-    }
-
-    // Add Calendly JS script if not already present
-    const scriptId = 'calendly-widget-js';
-    let script = document.getElementById(scriptId) as HTMLScriptElement | null;
-
-    const handleLoaded = () => {
-      setIsLoading(false);
-    };
-
-    const handleError = () => {
-      setIsLoading(false);
-      setHasScriptError(true);
-    };
-
-    if (!script) {
-      script = document.createElement('script');
-      script.id = scriptId;
-      script.src = 'https://assets.calendly.com/assets/external/widget.js';
-      script.async = true;
-      script.onload = handleLoaded;
-      script.onerror = handleError;
-      document.body.appendChild(script);
-    } else {
-      const timer = setTimeout(() => {
-        setIsLoading(false);
-      }, 1000);
-      return () => clearTimeout(timer);
-    }
-
-    // Listen to Calendly scheduled event postMessage
     const handleCalendlyMessage = (e: MessageEvent) => {
+      // Calendly height resize event
+      if (e.data && e.data.event === 'calendly.page_height' && e.data.payload?.height) {
+        const h = parseInt(e.data.payload.height, 10);
+        if (!isNaN(h) && h > 450) {
+          setIframeHeight(`${h}px`);
+        }
+      }
+
+      // Calendly scheduled event confirmation
       if (e.data && e.data.event === 'calendly.event_scheduled') {
         submitLead({
-          name: name.trim() || 'Student (Calendly)',
+          name: name.trim() || 'Student (Calendly Confirmed)',
           number: phone.trim() || 'N/A',
+          phone: phone.trim() || 'N/A',
           email: email.trim(),
           course: selectedGoal,
-          message: `[Confirmed Scheduled Booking] Goal: ${selectedGoal}${targetColleges ? ` | Colleges: ${targetColleges}` : ''}`,
+          program: selectedGoal,
+          message: `[Confirmed Scheduled Booking on Calendly] Goal: ${selectedGoal}${targetColleges ? ` | Colleges: ${targetColleges}` : ''}`,
           source: 'Google Meet Counselling (Calendly Confirmed)',
           details: {
             status: 'Confirmed Scheduled Slot',
@@ -161,12 +164,7 @@ export function CalendlyBookingWidget({
 
     window.addEventListener('message', handleCalendlyMessage);
 
-    const failsafe = setTimeout(() => {
-      setIsLoading(false);
-    }, 3000);
-
     return () => {
-      clearTimeout(failsafe);
       window.removeEventListener('message', handleCalendlyMessage);
     };
   }, [name, phone, email, selectedGoal, targetColleges]);
@@ -216,6 +214,7 @@ export function CalendlyBookingWidget({
       // 2. Update Calendly prefill URL with the verified student details
       const newUrl = buildEmbedUrl(cleanName, email, selectedGoal, targetColleges);
       setEmbedUrl(newUrl);
+      setIsLoading(true);
       setIsStepConfirmed(true);
 
       // 3. Smooth scroll to the Calendly slot calendar
@@ -226,11 +225,23 @@ export function CalendlyBookingWidget({
     } catch (err: any) {
       console.warn('Lead submission warning:', err);
       // Still allow student to proceed to Calendly calendar even if network glitched
+      const fallbackUrl = buildEmbedUrl(cleanName, email, selectedGoal, targetColleges);
+      setEmbedUrl(fallbackUrl);
+      setIsLoading(true);
       setIsStepConfirmed(true);
       calendarRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     } finally {
       setIsSubmittingLead(false);
     }
+  };
+
+  // Skip straight to calendar view
+  const handleDirectCalendarView = () => {
+    setIsLoading(true);
+    setIsStepConfirmed(true);
+    setTimeout(() => {
+      calendarRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 150);
   };
 
   return (
@@ -269,15 +280,19 @@ export function CalendlyBookingWidget({
           <ArrowRight className="w-4 h-4 text-slate-300 shrink-0" />
 
           {/* Step 2 Pill */}
-          <div
-            className={`flex-1 flex items-center justify-center sm:justify-start gap-2.5 px-3 py-2 rounded-xl text-left transition-all ${
+          <button
+            type="button"
+            onClick={() => {
+              if (!isStepConfirmed) handleDirectCalendarView();
+            }}
+            className={`flex-1 flex items-center justify-center sm:justify-start gap-2.5 px-3 py-2 rounded-xl text-left transition-all cursor-pointer ${
               isStepConfirmed 
                 ? 'bg-blue-50 text-blue-900 border border-blue-200/90 font-bold' 
-                : 'bg-slate-50/70 text-slate-400 border border-slate-100 font-medium'
+                : 'bg-slate-50/70 text-slate-500 hover:bg-slate-100/80 border border-slate-100 font-medium'
             }`}
           >
             <span className={`w-6 h-6 rounded-full flex items-center justify-center text-xs font-black shrink-0 ${
-              isStepConfirmed ? 'bg-blue-600 text-white' : 'bg-slate-200 text-slate-500'
+              isStepConfirmed ? 'bg-blue-600 text-white' : 'bg-slate-300 text-slate-700'
             }`}>
               2
             </span>
@@ -286,7 +301,7 @@ export function CalendlyBookingWidget({
               <div className="text-[11px] text-slate-500 font-normal">Pick Date &amp; Time</div>
             </div>
             <span className="sm:hidden text-xs font-bold">2. Select Slot</span>
-          </div>
+          </button>
 
         </div>
       </div>
@@ -458,15 +473,19 @@ export function CalendlyBookingWidget({
 
             {/* Action Bar */}
             <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4">
-              <div className="text-xs text-slate-500 flex items-center gap-1.5 text-center sm:text-left">
-                <CheckCircle2 className="w-4 h-4 text-emerald-500 shrink-0" />
-                <span>Zero sales pressure • 100% Free consultation</span>
-              </div>
+              <button
+                type="button"
+                onClick={handleDirectCalendarView}
+                className="text-xs text-blue-600 hover:text-blue-800 hover:underline flex items-center gap-1 font-semibold cursor-pointer order-2 sm:order-1"
+              >
+                <span>Or view available calendar slots directly</span>
+                <ChevronRight className="w-3.5 h-3.5" />
+              </button>
 
               <button
                 type="submit"
                 disabled={isSubmittingLead}
-                className="w-full sm:w-auto px-8 py-3.5 rounded-2xl bg-blue-600 hover:bg-blue-700 active:scale-98 text-white text-sm font-bold transition-all shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2.5 cursor-pointer disabled:opacity-75"
+                className="w-full sm:w-auto px-8 py-3.5 rounded-2xl bg-blue-600 hover:bg-blue-700 active:scale-98 text-white text-sm font-bold transition-all shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2.5 cursor-pointer disabled:opacity-75 order-1 sm:order-2"
               >
                 {isSubmittingLead ? (
                   <>
@@ -517,7 +536,7 @@ export function CalendlyBookingWidget({
           <div className="bg-blue-50/80 border-b border-blue-100/90 px-4 sm:px-6 py-3 flex flex-wrap items-center justify-between gap-2 text-xs text-blue-900">
             <div className="flex items-center gap-2 flex-wrap">
               <span className="font-bold text-blue-800">Booking for:</span>
-              <span className="font-semibold text-slate-800">{name}</span>
+              <span className="font-semibold text-slate-800">{name || 'MBA Aspirant'}</span>
               <span className="text-slate-400">•</span>
               <span className="text-slate-700">{selectedGoal}</span>
               {phone && (
@@ -533,55 +552,32 @@ export function CalendlyBookingWidget({
             </div>
           </div>
 
-          {/* Loading Skeleton */}
-          {isLoading && (
-            <div className="min-h-[500px] bg-slate-50/90 flex flex-col items-center justify-center p-8 text-center transition-opacity duration-300">
-              <div className="relative flex items-center justify-center mb-4">
-                <div className="w-12 h-12 rounded-2xl border-2 border-blue-600 border-t-transparent animate-spin" />
-                <Video className="w-6 h-6 text-blue-600 absolute" />
+          {/* Main Embed Area with Loading State */}
+          <div className="relative w-full bg-white" style={{ minHeight: '700px' }}>
+            {/* Loading Spinner */}
+            {isLoading && (
+              <div className="absolute inset-0 bg-white/95 z-10 flex flex-col items-center justify-center p-8 text-center">
+                <div className="relative flex items-center justify-center mb-4">
+                  <div className="w-12 h-12 rounded-2xl border-3 border-blue-600 border-t-transparent animate-spin" />
+                  <Video className="w-5 h-5 text-blue-600 absolute" />
+                </div>
+                <h4 className="text-sm font-bold text-slate-800">Loading Mohit&apos;s Open Calendar Slots...</h4>
+                <p className="text-xs text-slate-500 mt-1">Fetching real-time Google Meet availability</p>
               </div>
-              <h4 className="text-sm font-bold text-slate-800">Loading Mohit&apos;s Open Calendar Slots...</h4>
-              <p className="text-xs text-slate-500 mt-1">Checking real-time Google Meet availability</p>
-            </div>
-          )}
+            )}
 
-          {/* Script blocked fallback */}
-          {hasScriptError && (
-            <div className="p-8 text-center bg-amber-50/80 border-b border-amber-200">
-              <ShieldAlert className="w-10 h-10 text-amber-600 mx-auto mb-2" />
-              <h4 className="font-bold text-slate-900 mb-1">Calendar widget blocked by browser privacy shield</h4>
-              <p className="text-xs text-slate-600 max-w-md mx-auto mb-4">
-                No worries! You can open Mohit&apos;s live calendar directly in a new tab or chat instantly on WhatsApp.
-              </p>
-              <div className="flex flex-wrap items-center justify-center gap-3">
-                <a
-                  href={embedUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white rounded-xl text-xs font-bold shadow-md"
-                >
-                  <span>Open Calendar in New Tab</span>
-                  <ArrowUpRight className="w-3.5 h-3.5" />
-                </a>
-                <a
-                  href={`https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20want%20to%20schedule%20a%20video%20counselling%20call%20for%20${encodeURIComponent(selectedGoal)}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 px-5 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-bold shadow-md"
-                >
-                  <MessageCircle className="w-3.5 h-3.5" />
-                  <span>Book via WhatsApp</span>
-                </a>
-              </div>
-            </div>
-          )}
-
-          {/* Calendly Inline Embed Element */}
-          <div 
-            className="calendly-inline-widget w-full"
-            data-url={embedUrl}
-            style={{ minWidth: '320px', height: '700px' }}
-          />
+            {/* Direct Calendly Iframe Embed */}
+            <iframe
+              src={embedUrl}
+              width="100%"
+              height={iframeHeight}
+              style={{ minHeight: '700px', height: iframeHeight }}
+              frameBorder="0"
+              title="Select a Date & Time with Mohit Jain"
+              className="w-full border-0 bg-transparent transition-opacity duration-300"
+              onLoad={() => setIsLoading(false)}
+            />
+          </div>
 
           {/* Post-embed Helper Notes */}
           <div className="border-t border-slate-100 bg-slate-50/80 px-5 sm:px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-600">
@@ -589,15 +585,27 @@ export function CalendlyBookingWidget({
               <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
               <span>Google Meet link is emailed &amp; sent on WhatsApp immediately after picking your slot.</span>
             </div>
-            <a
-              href={`https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20have%20an%20urgent%20MBA%20counselling%20query%20regarding%20${encodeURIComponent(selectedGoal)}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 text-emerald-700 hover:text-emerald-800 font-bold shrink-0 hover:underline"
-            >
-              <MessageCircle className="w-3.5 h-3.5" />
-              <span>Urgent slot today? WhatsApp Us</span>
-            </a>
+            <div className="flex items-center gap-3">
+              <a
+                href={embedUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1 text-blue-700 hover:text-blue-900 font-bold shrink-0 hover:underline"
+              >
+                <span>Open Fullscreen</span>
+                <ExternalLink className="w-3 h-3" />
+              </a>
+              <span className="text-slate-300">•</span>
+              <a
+                href={`https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20have%20an%20urgent%20MBA%20counselling%20query%20regarding%20${encodeURIComponent(selectedGoal)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 text-emerald-700 hover:text-emerald-800 font-bold shrink-0 hover:underline"
+              >
+                <MessageCircle className="w-3.5 h-3.5" />
+                <span>Urgent? WhatsApp Us</span>
+              </a>
+            </div>
           </div>
         </div>
       )}
