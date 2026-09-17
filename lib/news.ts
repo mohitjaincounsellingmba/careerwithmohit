@@ -10,162 +10,194 @@ export interface NewsItem {
 export const NEWS_ITEMS: NewsItem[] = [
   {
     id: 1,
-    title: "CAT 2026 Registration Deadline Approaching: IIM Calcutta Issues Application Guide",
+    title: "CAT 2026 Registration Extended: IIM Calcutta Opens Form Correction Window Advisory",
     category: "MBA Admission",
-    date: "September 8, 2026",
-    excerpt: "The official registration window for the Common Admission Test (CAT 2026) is nearing its closing deadline in mid-September. IIM Calcutta has published a detailed advisory on document verification, category certificates, and exam city preferences for 2027 admissions.",
+    date: "September 17, 2026",
+    excerpt: "IIM Calcutta has extended the CAT 2026 registration window and announced the upcoming application edit/correction facility for test city preference, photograph, and signature uploads ahead of the November 29 nationwide examination.",
     link: "/blog/all-about-cat-exam"
   },
   {
     id: 2,
-    title: "Direct Admission in MBA & PGDM 2027: Management Quota Seat Matrix & Cutoff Guide",
+    title: "Direct MBA & PGDM Admission 2027–2029: Management Quota Seat Matrix & Low Percentile Selection Guide",
     category: "MBA Admission",
-    date: "September 7, 2026",
-    excerpt: "A comprehensive 2027-2029 profile evaluation guide has been released for students targeting direct admission into premier AICTE-approved B-schools and universities under institutional management quotas.",
-    link: "/blog/direct-admission-mba-pgdm-management-quota-2027"
+    date: "September 16, 2026",
+    excerpt: "A comprehensive 2027-2029 profile evaluation framework has been released for candidates seeking direct admission and management quota seats in AICTE-approved B-schools across Delhi NCR, Pune, Bangalore, and Mumbai with low or non-qualifying CAT/MAT percentiles.",
+    link: "/blog/direct-mba-pgdm-admission-2027-2029-management-quota-guide"
   },
   {
     id: 3,
-    title: "XAT 2027 Application Form Active: XLRI Jamshedpur Updates Test Pattern & Eligibility",
-    category: "Entrance Exams",
-    date: "September 6, 2026",
-    excerpt: "XLRI Jamshedpur has opened the online application portal for XAT 2027. The exam will serve as the admission gateway to XLRI BM and HRM programs, alongside over 250 associate business schools nationwide.",
-    link: "/blog/all-about-xat-exam"
-  },
-  {
-    id: 4,
-    title: "NMAT 2026 Exam Scheduling Window Opens: NMIMS Mumbai & TAPMI Intake Guidelines",
-    category: "Entrance Exams",
-    date: "September 4, 2026",
-    excerpt: "GMAC has commenced candidate exam slot booking for NMAT 2026. Aspirants can select preferred exam test centers and dates through October. NMIMS Mumbai, TAPMI, and K J Somaiya have unveiled their intake criteria.",
-    link: "/blog/all-about-nmat-exam"
-  },
-  {
-    id: 5,
-    title: "SNAP 2026 Notification Out: Symbiosis International University Announces 3 Test Dates",
-    category: "Entrance Exams",
-    date: "September 3, 2026",
-    excerpt: "Symbiosis International University (SIU) has issued the official SNAP 2026 notification with registrations live. Candidates can attempt the computer-based test across three December slots for admission into SIBM Pune and SCMHRD.",
-    link: "/blog/all-about-snap-exam"
-  },
-  {
-    id: 6,
-    title: "SPJIMR Mumbai PGDM 2027 Profile-Based Shortlist Applications Live",
+    title: "SPJIMR Mumbai PGDM 2027–29 Profile-Based Shortlist Phase 1 Portal Opens",
     category: "MBA Admission",
-    date: "September 1, 2026",
-    excerpt: "SP Jain Institute of Management and Research (SPJIMR) has commenced phase 1 application intake for its flagship 2-year PGDM class of 2027-29, offering profile-based interview shortlists ahead of CAT & GMAT results.",
+    date: "September 15, 2026",
+    excerpt: "SP Jain Institute of Management and Research (SPJIMR) has activated the phase 1 application intake for its flagship 2-year PGDM & PGDM(BM) Class of 2027–29. High-profile candidates with strong academic records and leadership experience receive interview shortlists prior to CAT/GMAT score declaration.",
     link: "/blog/all-about-spjimr-mumbai"
   },
   {
-    id: 7,
-    title: "AICTE Approved PGDM Admissions 2027: Top Colleges, Fees & Early Application Windows",
+    id: 4,
+    title: "XAT 2027 Application Window Live: XLRI Jamshedpur Updates Test Pattern & Essay Evaluation",
+    category: "Entrance Exams",
+    date: "September 14, 2026",
+    excerpt: "XLRI Jamshedpur has opened online applications for XAT 2027, scheduled for January 3, 2027. The score will determine admission into XLRI BM/HRM programs and over 250 associate business schools including XIMB, IMT, TAPMI, and GIM Goa.",
+    link: "/blog/all-about-xat-exam"
+  },
+  {
+    id: 5,
+    title: "NMAT 2026 Exam Scheduling Live: NMIMS Mumbai, TAPMI & K J Somaiya Intake Rules",
+    category: "Entrance Exams",
+    date: "September 13, 2026",
+    excerpt: "GMAC has activated slot booking and test scheduling across 75+ test cities for NMAT 2026. NMIMS School of Business Management (SBM) Mumbai, TAPMI Manipal, and K J Somaiya Institute of Management have announced their sectional cutoffs and seat matrices.",
+    link: "/blog/all-about-nmat-exam"
+  },
+  {
+    id: 6,
+    title: "MDI Gurgaon PGDM & PGDM-HRM 2027 Admissions Application Portal Active",
     category: "MBA Admission",
-    date: "August 30, 2026",
-    excerpt: "Leading AICTE-approved institutions including Great Lakes, BIMTECH, FORE, and GIM Goa have kicked off early registration windows with scholarship waivers for early applicants in the 2027 intake.",
-    link: "/blog/top-aicte-approved-pgdm-colleges-india-2027"
+    date: "September 12, 2026",
+    excerpt: "Management Development Institute (MDI) Gurgaon has launched the common application process for PGDM, PGDM-HRM, PGDM-International Business (IB), and PGDM-Business Analytics for the 2027–2029 academic session accepting CAT 2026 and GMAT.",
+    link: "/blog/all-about-mdi-gurgaon"
+  },
+  {
+    id: 7,
+    title: "SNAP 2026 SIU Registration Open: Symbiosis Announces 3 December Test Windows",
+    category: "Entrance Exams",
+    date: "September 11, 2026",
+    excerpt: "Symbiosis International University (SIU) has issued the SNAP 2026 notification for 16 constituent B-schools including SIBM Pune, SCMHRD, and SIIB. Candidates can register for up to three computer-based test attempts in December 2026.",
+    link: "/blog/all-about-snap-exam"
   },
   {
     id: 8,
-    title: "MAH MBA CET 2026 CAP Round 3 Allotment Announced: Institutional Round Rules Issued",
+    title: "Great Lakes Chennai & Gurgaon PGPM / PGDM 2027 Cycle 1 Admissions Open with ₹5 Lakh Scholarships",
     category: "MBA Admission",
-    date: "August 28, 2026",
-    excerpt: "The State Common Entrance Test Cell, Maharashtra, has declared the CAP Round 3 seat allotment results for JBIMS, SIMSREE, PUMBA, and Welingkar. Guidelines for remaining institute-level vacancies are now released.",
-    link: "/blog/all-about-mah-mba-cet-exam"
+    date: "September 10, 2026",
+    excerpt: "Great Lakes Institute of Management has invited Cycle 1 early applications for its 1-Year Fast Track PGPM (for professionals with 2+ years exp) and 2-Year PGDM. Merit-cum-means scholarships up to ₹5 Lakhs are offered to early applicants.",
+    link: "/blog/all-about-great-lakes-campuses"
   },
   {
     id: 9,
-    title: "Executive MBA Reviews 2026-27: IIM Bangalore, IIM Mumbai & FMS Delhi Class Profiles Out",
+    title: "AICTE Issues 2026–2027 PGDM Regulatory Norms: Fee Refund Rules & 6 National Exams Mandate",
     category: "MBA Admission",
-    date: "August 26, 2026",
-    excerpt: "In-depth class profile data and ROI comparisons for working executives have been published, covering admission criteria, GMAT/GRE cutoffs, fee structures, and corporate sponsorships.",
-    link: "/blog/iim-bangalore-iimb-executive-mba-review"
-  },
-  {
-    id: 10,
-    title: "MAT September 2026 Admit Card Released: CBT and PBT Exam Shift Guidelines",
-    category: "Entrance Exams",
-    date: "August 24, 2026",
-    excerpt: "AIMA has released the hall tickets for the September 2026 MAT administration. Candidates can verify their exam venues, test shifts, and reporting times ahead of paper-based and computer-based test dates.",
-    link: "/blog/all-about-mat-exam"
-  },
-  {
-    id: 11,
-    title: "Top B-Schools in Bangalore & Pune 2027: Placements, NIRF Ranks & RoI Comparison",
-    category: "MBA Admission",
-    date: "August 22, 2026",
-    excerpt: "A comprehensive regional benchmark analyzing Bangalore and Pune business schools, comparing median compensation, top recruitment sectors, faculty ratios, and direct counseling channels.",
-    link: "/blog/top-mba-pgdm-colleges-bangalore-2027"
-  },
-  {
-    id: 12,
-    title: "MBA Specializations 2026-27: FinTech, AI & Business Analytics Salaries Surge",
-    category: "Career Counselling",
-    date: "August 20, 2026",
-    excerpt: "Campus placement audits indicate a 22% spike in starting compensation for MBA graduates specializing in Business Analytics, Product Management, and Financial Technology over traditional streams.",
-    link: "/blog/mba-business-analytics-colleges-in-bangalore-2026"
-  },
-  {
-    id: 13,
-    title: "Difference Between MBA & PGDM 2027: AICTE vs UGC Recognition and Global Mobility",
-    category: "Career Counselling",
-    date: "August 18, 2026",
-    excerpt: "An essential advisory dissecting autonomous PGDM programs versus university-affiliated MBA degrees, evaluating curriculum freshness, corporate accreditation, AIU equivalence, and international work visas.",
+    date: "September 9, 2026",
+    excerpt: "The All India Council for Technical Education (AICTE) has mandated strict fee refund timelines, curriculum agility guidelines, and reaffirmed that all autonomous PGDM institutions must accept scores from CAT, XAT, CMAT, ATMA, MAT, or GMAT.",
     link: "/blog/difference-between-mba-and-pgdm-complete-guide-2027"
   },
   {
+    id: 10,
+    title: "FORE School of Management New Delhi Opens PGDM 2027 Applications Across 4 Streams",
+    category: "MBA Admission",
+    date: "September 8, 2026",
+    excerpt: "FORE School of Management has commenced admissions for its 2027–2029 batch across PGDM (Core), International Business (IB), Financial Management (FM), and Big Data Analytics (BDA) with early application fee waivers.",
+    link: "/blog/all-about-fore-school-delhi"
+  },
+  {
+    id: 11,
+    title: "Goa Institute of Management (GIM Goa) PGDM 2027 'Achievers Round' Applications Live",
+    category: "MBA Admission",
+    date: "September 7, 2026",
+    excerpt: "GIM Goa has launched its elite profile-based Achievers Round for the 2027–2029 batch. Shortlisted candidates gain interview calls and scholarship considerations without application fees before CAT/XAT score submission.",
+    link: "/mba-pgdm-admission-2027"
+  },
+  {
+    id: 12,
+    title: "BIMTECH Greater Noida PGDM 2027 Phase-1 Applications Live with ₹3.5 Cr Scholarship Pool",
+    category: "MBA Admission",
+    date: "September 6, 2026",
+    excerpt: "Birla Institute of Management Technology (BIMTECH) has kicked off Phase-1 registrations for PGDM, PGDM-IB, Insurance Business, and Retail Management. Up to 100% tuition fee waivers are available under the late Basant Kumar Birla scholarship.",
+    link: "/blog/all-about-bimtech-greater-noida"
+  },
+  {
+    id: 13,
+    title: "TAPMI Manipal PGDM 2027 Admissions Open: CAT, XAT, NMAT & GMAT Accepted",
+    category: "MBA Admission",
+    date: "September 5, 2026",
+    excerpt: "T.A. Pai Management Institute (TAPMI) has commenced registrations for its AACSB-accredited PGDM programs including Core, Banking & Financial Services (BKFS), Marketing, and International Business (IB) with corporate leadership tracks.",
+    link: "/blog/all-about-tapmi"
+  },
+  {
     id: 14,
-    title: "Career in Sports Management & IPL Franchises: Top Post-Grad Programs & Salaries",
-    category: "Career Counselling",
-    date: "August 17, 2026",
-    excerpt: "With rapid commercialization across domestic sports leagues, specialized MBAs in sports management, athlete marketing, and tournament logistics report high-growth corporate placements.",
-    link: "/blog/how-to-start-career-in-sports-management-ipl-2026"
+    title: "LBSIM New Delhi PGDM 2027–2029 Admission Portal Live: AI & Data Science Specializations Added",
+    category: "MBA Admission",
+    date: "September 4, 2026",
+    excerpt: "Lal Bahadur Shastri Institute of Management (LBSIM), Dwarka, has opened applications for PGDM General, Financial Management, Research & Business Analytics, and Artificial Intelligence & Data Science.",
+    link: "/blog/all-about-lbsim-delhi"
   },
   {
     id: 15,
-    title: "CUET UG 2026 Final Spot Round Allotments: DU CSAS & BHU Vacant Seat Matrix",
-    category: "Entrance Exams",
-    date: "August 16, 2026",
-    excerpt: "Delhi University and Banaras Hindu University have concluded their final institutional spot admission rounds based on normalized CUET UG scores, finalizing the 2026 undergraduate intake.",
-    link: "/news"
+    title: "MAH MBA CET 2026 Institutional Round Vacancies & Cutoff Matrix: JBIMS, SIMSREE & PUMBA",
+    category: "MBA Admission",
+    date: "September 3, 2026",
+    excerpt: "The State Common Entrance Test Cell, Maharashtra, has concluded CAP round allocations and published institutional quota guidelines for vacant seats in JBIMS, SIMSREE, PUMBA, and Welingkar Mumbai.",
+    link: "/blog/all-about-mah-mba-cet-exam"
   },
   {
     id: 16,
-    title: "CLAT 2027 Registration Portal Live: Consortium of NLUs Announces December Exam Date",
-    category: "Entrance Exams",
-    date: "August 15, 2026",
-    excerpt: "The Consortium of National Law Universities has opened online candidate registration for CLAT 2027, with the nationwide pen-and-paper exam scheduled for the first Sunday of December 2026.",
-    link: "/blog/all-about-clat-exam"
+    title: "Executive MBA 2026–2027 Admissions: IIM Bangalore, IIM Mumbai & FMS Delhi Deadlines Announced",
+    category: "MBA Admission",
+    date: "September 2, 2026",
+    excerpt: "Comprehensive review of 1-year Executive MBA and 2-year weekend PGPEM programs for experienced working professionals, highlighting minimum work-ex criteria, GMAT/GRE/CAT requirements, and corporate sponsorships.",
+    link: "/blog/all-about-iim-colleges-placements-fees-selection-2026"
   },
   {
     id: 17,
-    title: "IPMAT 2027 Roadmap: IIM Indore, Rohtak & Bodh Gaya 5-Year Integrated BBA+MBA Prep",
-    category: "Career Counselling",
-    date: "August 14, 2026",
-    excerpt: "Comprehensive preparation strategy, sectional syllabus weights, and past cutoffs released for high school students planning early entry into top IIM 5-Year Integrated Programs in Management.",
-    link: "/blog/all-about-ipmat-exam"
+    title: "Top Ranked MBA & PGDM Colleges in Bangalore (2027–29): High ROI & Direct Counselling Guide",
+    category: "MBA Admission",
+    date: "September 1, 2026",
+    excerpt: "An exhaustive benchmark of Bangalore business schools (Christ, Alliance, ISBR, IBA, AIMS, JAGSoM, RVIM) evaluating NIRF ranks, median placement packages, MAT/CMAT cutoffs, and direct admission processes.",
+    link: "/blog/top-mba-pgdm-institutes-bangalore-2027-29"
   },
   {
     id: 18,
-    title: "CSAB Special Round 2 Allotments Conclude: NIT+ System Final Admissions Reporting",
-    category: "B.Tech Admission",
-    date: "August 13, 2026",
-    excerpt: "The Central Seat Allocation Board has finished Special Round 2 counseling for remaining seats in NITs, IIITs, and GFTIs. Admitted students must complete physical campus reporting this week.",
-    link: "/blog/all-about-jee-exam"
+    title: "MAT September 2026 Exam Results & December 2026 Registration Calendar Out",
+    category: "Entrance Exams",
+    date: "August 30, 2026",
+    excerpt: "AIMA has released the scorecard schedule for September MAT CBT/PBT examinees and announced the December 2026 MAT test window for admission across 500+ private and university B-schools.",
+    link: "/blog/all-about-mat-exam"
   },
   {
     id: 19,
-    title: "JEE Main 2027 Preparation Calendar: NTA Exam Dates Expected in January",
-    category: "B.Tech Admission",
-    date: "August 12, 2026",
-    excerpt: "NTA is preparing the tentative schedule for JEE Main 2027 Session 1. Academic experts share section-wise revision strategies, official 75% eligibility criteria, and scoring blueprints.",
-    link: "/blog/all-about-jee-exam"
+    title: "MBA Specializations 2026–2027: Business Analytics, AI & FinTech Salaries Surge by 22%",
+    category: "Career Counselling",
+    date: "August 28, 2026",
+    excerpt: "Corporate placement reports indicate a significant rise in premium campus recruitments for techno-commercial MBA graduates specializing in Generative AI for Business, FinTech Risk, and Business Analytics.",
+    link: "/blog/mba-business-analytics-colleges-in-chandigarh-2026"
   },
   {
     id: 20,
-    title: "CBSE Board Exam 2027: List of Candidates (LOC) Portal Opens for Classes 10 & 12",
-    category: "Board Results",
-    date: "August 10, 2026",
-    excerpt: "The Central Board of Secondary Education has activated the List of Candidates submission portal for affiliated schools. Correct subject codes and student registration data are mandated by early autumn.",
-    link: "/blog/all-state-boards-india-official-websites"
+    title: "Difference Between MBA & PGDM 2027: AICTE vs UGC Autonomy, Syllabus Freshness & AIU Equivalence",
+    category: "Career Counselling",
+    date: "August 26, 2026",
+    excerpt: "A critical advisory examining the distinction between university MBA degrees and autonomous PGDM diplomas, analyzing industry recruiters' preference, foreign equivalencies, and accreditation standards.",
+    link: "/blog/difference-between-mba-and-pgdm-complete-guide-2027"
+  },
+  {
+    id: 21,
+    title: "CMAT & ATMA 2027 Exam Roadmaps: Gateway to Top Tier-2 & Tier-3 B-Schools",
+    category: "Entrance Exams",
+    date: "August 24, 2026",
+    excerpt: "National Testing Agency (NTA) and AIMA share exam syllabus frameworks, scoring benchmarks, and top government & private colleges accepting CMAT/ATMA scores for 2027 admissions.",
+    link: "/blog/all-about-cmat-exam"
+  },
+  {
+    id: 22,
+    title: "IPMAT 2027 Integrated Program in Management: IIM Indore, Rohtak & Bodh Gaya Roadmap",
+    category: "Career Counselling",
+    date: "August 22, 2026",
+    excerpt: "High school students targeting 5-Year Integrated BBA+MBA programs at premier IIMs receive sectional preparation blueprints, past cutoffs, and interview strategies.",
+    link: "/blog/all-about-ipmat-exam"
+  },
+  {
+    id: 23,
+    title: "Top AIU Approved PGDM Colleges in India 2026–2027: Equivalence with Master's Degree",
+    category: "MBA Admission",
+    date: "August 20, 2026",
+    excerpt: "Association of Indian Universities (AIU) approved PGDM institutions enable graduates to pursue PhD programs, public sector employment (PSUs), and global master's equivalence.",
+    link: "/blog/aiu-approved-pgdm-colleges-india-2026"
+  },
+  {
+    id: 24,
+    title: "Online MBA & Executive Upskilling Degrees 2026–2027: UGC-DEB Approved Institutions",
+    category: "Career Counselling",
+    date: "August 18, 2026",
+    excerpt: "Analysis of top NIRF-ranked UGC-DEB accredited online MBA programs offering live weekend masterclasses, LMS access, industry mentorship, and recognized digital diplomas.",
+    link: "/blog/1-year-online-mba-colleges-india-2026"
   }
 ];

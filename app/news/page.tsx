@@ -285,37 +285,37 @@ export default function NewsPage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
               <div className="bg-white p-5 rounded-2xl border border-slate-200 shadow-sm space-y-2">
                 <span className="text-[10px] font-bold uppercase tracking-wider text-rose-600 bg-rose-50 px-2.5 py-0.5 rounded-full border border-rose-200">
-                  Nov – Dec 2026
+                  Sep – Oct 2026 (Active)
                 </span>
                 <h3 className="font-extrabold text-slate-900 text-sm">
-                  CAT 2026 Response Sheet &amp; Scaled Scores
+                  CAT, NMAT, SNAP &amp; XAT Registrations
                 </h3>
                 <p className="text-xs text-slate-500 font-medium">
-                  Official answer key release, 3-day challenge window, and score scaling across Slot 1, 2, and 3.
+                  CAT application correction window, NMAT test slot booking, and live registration forms for SNAP and XAT 2027.
                 </p>
               </div>
 
               <div className="bg-white p-5 rounded-2xl border border-slate-200 shadow-sm space-y-2">
                 <span className="text-[10px] font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2.5 py-0.5 rounded-full border border-blue-200">
-                  Dec 2026 – Jan 2027
+                  Nov – Dec 2026
                 </span>
                 <h3 className="font-extrabold text-slate-900 text-sm">
-                  XAT &amp; SNAP 2026 Exam Windows
+                  CAT Exam &amp; Key / SNAP Test Dates
                 </h3>
                 <p className="text-xs text-slate-500 font-medium">
-                  Symbiosis and XLRI entrance test dates with fast results turnaround for Round 1 shortlists.
+                  CAT nationwide CBT on Nov 29, response sheet verification, and Symbiosis SNAP 3-slot exam schedule.
                 </p>
               </div>
 
               <div className="bg-white p-5 rounded-2xl border border-slate-200 shadow-sm space-y-2">
                 <span className="text-[10px] font-bold uppercase tracking-wider text-amber-600 bg-amber-50 px-2.5 py-0.5 rounded-full border border-amber-200">
-                  Jan – Mar 2027
+                  Jan – Feb 2027
                 </span>
                 <h3 className="font-extrabold text-slate-900 text-sm">
-                  Top Private PGDM Early Applications
+                  Top PGDM Deadlines &amp; XAT Exam
                 </h3>
                 <p className="text-xs text-slate-500 font-medium">
-                  Early bird admission deadlines for MDI, SPJIMR, IMT, FORE, GIM, TAPMI, and Great Lakes.
+                  XAT on Jan 3, 2027, followed by Round 1 application deadlines for SPJIMR, MDI, IMT, Great Lakes, FORE &amp; BIMTECH.
                 </p>
               </div>
 
@@ -324,10 +324,10 @@ export default function NewsPage() {
                   Mar – May 2027
                 </span>
                 <h3 className="font-extrabold text-slate-900 text-sm">
-                  State CAP Rounds &amp; Direct Seats
+                  GD-PI Rounds &amp; Direct Quota Seats
                 </h3>
                 <p className="text-xs text-slate-500 font-medium">
-                  MAH CET, GGSIPU, PUMBA counselling rounds and institutional management quota seat allocations.
+                  IIM WAT-PI shortlists, MAH CET CAP rounds, GGSIPU counselling, and institutional management quota admissions.
                 </p>
               </div>
             </div>
