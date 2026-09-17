@@ -152,12 +152,12 @@ export function DetScorecardSolutions({
   }, [answers]);
 
   const handleShareWhatsApp = () => {
-    const text = `🎯 I scored an official ${analytics.scoreResult.overallScore} / 160 (${analytics.scoreResult.performanceBand}) in the Duolingo English Test (DET) Mock on CareerWithMohit!\n\n📚 Subscores:\n• Literacy: ${analytics.scoreResult.literacy}\n• Comprehension: ${analytics.scoreResult.comprehension}\n• Conversation: ${analytics.scoreResult.conversation}\n• Production: ${analytics.scoreResult.production}\n\nTake your free DET Mock Test here: https://www.careerwithmohit.online/tools/mock-test/duolingo`;
+    const text = `🎯 I scored an official ${analytics.scoreResult.overallScore} / 160 (${analytics.scoreResult.performanceBand}) in the Duolingo English Test (DET) Mock on CareerWithMohit!\n\n📚 Subscores:\n• Literacy: ${analytics.scoreResult.literacy}\n• Comprehension: ${analytics.scoreResult.comprehension}\n• Conversation: ${analytics.scoreResult.conversation}\n• Production: ${analytics.scoreResult.production}\n\nTake your free DET Mock Test here: https://careerwithmohit.online/tools/mock-test/duolingo`;
     window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, '_blank');
   };
 
   const handleShareLinkedIn = () => {
-    const url = 'https://www.careerwithmohit.online/tools/mock-test/duolingo';
+    const url = 'https://careerwithmohit.online/tools/mock-test/duolingo';
     window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`, '_blank');
   };
 

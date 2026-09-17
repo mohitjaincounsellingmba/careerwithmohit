@@ -5,7 +5,7 @@ import { getSortedPostsData } from '@/lib/markdown';
 import { AdmissionsClient } from '@/components/AdmissionsClient';
 import { JsonLd } from '@/components/JsonLd';
 
-const BASE_URL = 'https://www.careerwithmohit.online';
+const BASE_URL = 'https://careerwithmohit.online';
 const PAGE_PATH = '/admissions';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 

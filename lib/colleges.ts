@@ -88,7 +88,7 @@ export function getAllColleges(): CollegeMetadata[] {
         lowest_placement: '₹5.50 LPA',
         exams: ['CAT', 'MAT', 'CMAT', 'XAT'],
         brochure_url: '#',
-        website: 'https://www.careerwithmohit.online',
+        website: 'https://careerwithmohit.online',
         top_recruiters: item.topRecruiters || ['Deloitte', 'KPMG', 'ICICI Bank', 'Amazon'],
       });
     }
@@ -155,7 +155,7 @@ For 1-on-1 admission counselling, merit scholarships, and direct seat booking gu
         lowest_placement: '₹5.50 LPA',
         exams: ['CAT', 'MAT', 'CMAT', 'XAT'],
         brochure_url: '#',
-        website: 'https://www.careerwithmohit.online',
+        website: 'https://careerwithmohit.online',
         top_recruiters: item.topRecruiters || ['Deloitte', 'KPMG', 'ICICI Bank', 'Amazon'],
         content,
       };

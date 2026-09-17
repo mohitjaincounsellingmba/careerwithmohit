@@ -51,18 +51,18 @@ export const metadata: Metadata = {
     "free cat mock test series"
   ],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/mock-tests",
+    canonical: "https://careerwithmohit.online/mock-tests/",
   },
   openGraph: {
     title: "Free Mock Test Series 2026-2027: 50+ Practice Papers & Online CBT Simulation",
     description:
       "Practice 100% free online mock tests for CAT 2026, XAT 2027, SNAP 2026, NMAT 2026, CMAT 2027, ATMA 2026, GMAT Focus, and JEE/NEET with instant AI analysis.",
-    url: "https://www.careerwithmohit.online/mock-tests",
+    url: "https://careerwithmohit.online/mock-tests/",
     type: "website",
     siteName: "CareerWithMohit",
     images: [
       {
-        url: "https://www.careerwithmohit.online/og-image.webp",
+        url: "https://careerwithmohit.online/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Mock Test Hub 2026-2027 - CareerWithMohit",
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     title: "Free Mock Test Series 2026-2027 - 50+ Online Practice Papers | CareerWithMohit",
     description:
       "Practice 100% free online mock tests for CAT 2026, XAT 2027, SNAP 2026, NMAT 2026, CMAT 2027, and ATMA 2026 with instant analytics.",
-    images: ["https://www.careerwithmohit.online/og-image.webp"],
+    images: ["https://careerwithmohit.online/og-image.webp"],
   },
 };
 
@@ -87,13 +87,13 @@ export default function MockTestHubPage() {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://www.careerwithmohit.online/",
+        item: "https://careerwithmohit.online/",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Mock Tests",
-        item: "https://www.careerwithmohit.online/mock-tests",
+        item: "https://careerwithmohit.online/mock-tests/",
       },
     ],
   };
@@ -104,11 +104,11 @@ export default function MockTestHubPage() {
     name: "Free Mock Test Series 2026-2027 - All India CBT Practice Hub",
     description:
       "Directory of 24+ full-length online mock tests covering MBA, Engineering, Medical, Law, and Study Abroad entrance examinations.",
-    url: "https://www.careerwithmohit.online/mock-tests",
+    url: "https://careerwithmohit.online/mock-tests/",
     provider: {
       "@type": "EducationalOrganization",
       name: "CareerWithMohit",
-      url: "https://www.careerwithmohit.online",
+      url: "https://careerwithmohit.online",
     },
   };
 

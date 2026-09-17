@@ -67,7 +67,7 @@ const DEFAULT_SEED_COLLEGES: CollegeMetadata[] = MBA_PGDM_COLLEGES_2027.map((ite
   lowest_placement: "₹5.50 LPA",
   exams: ["CAT", "MAT", "CMAT", "XAT"],
   brochure_url: "#",
-  website: "https://www.careerwithmohit.online",
+  website: "https://careerwithmohit.online",
   top_recruiters: item.topRecruiters || ["Deloitte", "KPMG", "ICICI Bank", "Amazon"],
 }));
 
@@ -112,7 +112,7 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
     courses: "MBA, PGDM",
     specialization: "Marketing Management, Financial Management, Human Resource (HRM), Business Analytics",
     exams: "CAT, MAT, CMAT, XAT",
-    website: "https://www.careerwithmohit.online",
+    website: "https://careerwithmohit.online",
     brochure_url: "#",
     top_recruiters: "Deloitte, KPMG, ICICI Bank, Amazon, Accenture",
     logo: "",
@@ -271,7 +271,7 @@ export function CollegesTab({ colleges: initialColleges = [] }: CollegesTabProps
       courses: "MBA, PGDM",
       specialization: "Marketing Management, Financial Management, Human Resource (HRM), Business Analytics",
       exams: "CAT, MAT, CMAT, XAT",
-      website: "https://www.careerwithmohit.online",
+      website: "https://careerwithmohit.online",
       brochure_url: "#",
       top_recruiters: "Deloitte, KPMG, ICICI Bank, Amazon, Accenture",
       logo: "",

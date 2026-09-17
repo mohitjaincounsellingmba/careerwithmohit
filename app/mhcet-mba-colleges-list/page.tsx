@@ -20,12 +20,12 @@ export const metadata: Metadata = {
     "pgdm admission 2027",
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/mhcet-mba-colleges-list',
+    canonical: 'https://careerwithmohit.online/mhcet-mba-colleges-list/',
   },
   openGraph: {
     title: "MHCET MBA 2027 Colleges List & Answer Key PDF | CareerWithMohit",
     description: "Download the complete MHCET MBA 2027 colleges directory with cutoffs, fees, and placement reports for JBIMS, SIMSREE, and PUMBA.",
-    url: "https://www.careerwithmohit.online/mhcet-mba-colleges-list",
+    url: "https://careerwithmohit.online/mhcet-mba-colleges-list/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",

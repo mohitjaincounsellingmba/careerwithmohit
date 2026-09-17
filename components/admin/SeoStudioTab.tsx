@@ -78,7 +78,7 @@ const DEFAULT_VERIFIED_BACKLINKS: BacklinkEntry[] = [
     id: "bl-1",
     sourceUrl: "https://www.shiksha.com/mba/articles/top-mba-colleges-delhi-ncr-blog",
     domain: "shiksha.com",
-    targetUrl: "https://www.careerwithmohit.online/colleges",
+    targetUrl: "https://careerwithmohit.online/colleges",
     anchorText: "Top MBA Colleges Delhi NCR Guide",
     linkType: "dofollow",
     dr: 82,
@@ -90,7 +90,7 @@ const DEFAULT_VERIFIED_BACKLINKS: BacklinkEntry[] = [
     id: "bl-2",
     sourceUrl: "https://medium.com/@careerwithmohit/how-to-choose-the-best-mba-college-in-2026",
     domain: "medium.com",
-    targetUrl: "https://www.careerwithmohit.online/",
+    targetUrl: "https://careerwithmohit.online/",
     anchorText: "CareerWithMohit MBA Counseling",
     linkType: "nofollow",
     dr: 94,
@@ -102,7 +102,7 @@ const DEFAULT_VERIFIED_BACKLINKS: BacklinkEntry[] = [
     id: "bl-3",
     sourceUrl: "https://www.quora.com/Which-is-the-best-PGDM-college-in-Greater-Noida/answer/Mohit-Jain",
     domain: "quora.com",
-    targetUrl: "https://www.careerwithmohit.online/blog/top-10-pgdm-colleges-delhi-ncr-2026",
+    targetUrl: "https://careerwithmohit.online/blog/top-10-pgdm-colleges-delhi-ncr-2026",
     anchorText: "Best PGDM Colleges Delhi NCR",
     linkType: "nofollow",
     dr: 93,
@@ -114,7 +114,7 @@ const DEFAULT_VERIFIED_BACKLINKS: BacklinkEntry[] = [
     id: "bl-4",
     sourceUrl: "https://www.collegedunia.com/news/c-321-top-management-institutes-placements-report",
     domain: "collegedunia.com",
-    targetUrl: "https://www.careerwithmohit.online/colleges",
+    targetUrl: "https://careerwithmohit.online/colleges",
     anchorText: "MBA Placement & ROI Comparison",
     linkType: "dofollow",
     dr: 78,
@@ -126,7 +126,7 @@ const DEFAULT_VERIFIED_BACKLINKS: BacklinkEntry[] = [
     id: "bl-5",
     sourceUrl: "https://educationtimes.com/articles/mba-admissions-2026-counseling-tips",
     domain: "educationtimes.com",
-    targetUrl: "https://www.careerwithmohit.online/about",
+    targetUrl: "https://careerwithmohit.online/about",
     anchorText: "Mohit Jain Education Consultant",
     linkType: "dofollow",
     dr: 65,
@@ -138,7 +138,7 @@ const DEFAULT_VERIFIED_BACKLINKS: BacklinkEntry[] = [
     id: "bl-6",
     sourceUrl: "https://github.com/mohitjaincounsellingmba/careerwithmohit",
     domain: "github.com",
-    targetUrl: "https://www.careerwithmohit.online/",
+    targetUrl: "https://careerwithmohit.online/",
     anchorText: "CareerWithMohit Official Repository",
     linkType: "nofollow",
     dr: 96,
@@ -182,7 +182,7 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
   const [newBacklink, setNewBacklink] = useState({
     sourceUrl: "",
     domain: "",
-    targetUrl: "https://www.careerwithmohit.online/colleges",
+    targetUrl: "https://careerwithmohit.online/colleges",
     anchorText: "",
     linkType: "dofollow" as "dofollow" | "nofollow",
     dr: 50,
@@ -275,7 +275,7 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
       id: `bl-${Date.now()}`,
       sourceUrl: newBacklink.sourceUrl,
       domain: extractedDomain,
-      targetUrl: newBacklink.targetUrl || "https://www.careerwithmohit.online/",
+      targetUrl: newBacklink.targetUrl || "https://careerwithmohit.online/",
       anchorText: newBacklink.anchorText || "CareerWithMohit",
       linkType: newBacklink.linkType,
       dr: Number(newBacklink.dr) || 40,
@@ -294,7 +294,7 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
     setNewBacklink({
       sourceUrl: "",
       domain: "",
-      targetUrl: "https://www.careerwithmohit.online/colleges",
+      targetUrl: "https://careerwithmohit.online/colleges",
       anchorText: "",
       linkType: "dofollow",
       dr: 50,
@@ -354,7 +354,7 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
             status: "found",
             message: `Verified! Backlink detected pointing to CareerWithMohit.`,
             details: {
-              targetUrl: "https://www.careerwithmohit.online",
+              targetUrl: "https://careerwithmohit.online",
               anchorText: "Detected in page source",
               isDoFollow: !isNoFollow
             }
@@ -371,7 +371,7 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
           status: "found",
           message: `URL structure valid. External CORS policy prevents direct client scraping, but URL is queued for SEMrush/Ahrefs crawler sync.`,
           details: {
-            targetUrl: "https://www.careerwithmohit.online",
+            targetUrl: "https://careerwithmohit.online",
             anchorText: "Verified URL Pattern",
             isDoFollow: true
           }
@@ -1014,7 +1014,7 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
                         </td>
                         <td className="p-3 max-w-[160px]">
                           <span className="font-mono text-[11px] text-slate-400 truncate block" title={b.targetUrl}>
-                            {b.targetUrl.replace("https://www.careerwithmohit.online", "") || "/"}
+                            {b.targetUrl.replace("https://careerwithmohit.online", "") || "/"}
                           </span>
                         </td>
                         <td className="p-3 font-medium text-slate-200">
@@ -1315,7 +1315,7 @@ export function SeoStudioTab({ blogs = [], summary }: SeoStudioTabProps) {
                   <label className="text-xs font-bold text-slate-300 block mb-1">Target Page URL</label>
                   <input
                     type="text"
-                    placeholder="https://www.careerwithmohit.online/colleges"
+                    placeholder="https://careerwithmohit.online/colleges"
                     value={newBacklink.targetUrl}
                     onChange={(e) => setNewBacklink({ ...newBacklink, targetUrl: e.target.value })}
                     className="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white focus:outline-none focus:border-amber-400 font-mono"

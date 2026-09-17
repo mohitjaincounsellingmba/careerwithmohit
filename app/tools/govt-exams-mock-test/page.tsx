@@ -5,7 +5,7 @@ import { ShieldCheck, Trophy, Target, Globe, BookOpen } from 'lucide-react';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/govt-exams-mock-test',
+    canonical: '/tools/govt-exams-mock-test/',
   },
   title: 'Free Government Exam Mock Tests 2026 | SSC, Banking, Railways, UPSC',
   description: 'Practice 100% free online mock tests for SSC CGL, IBPS PO, RRB NTPC, SBI PO, UPSC CSE, and other state govt exams. Access 30+ full-length practice sets with detailed solutions.',
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: 'Free Government Exam Mock Tests 2026 | CareerWithMohit',
     description: 'Practice free online mock tests for SSC, Banking, Railways, UPSC and other state exams. Access 30+ full-length practice sets.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/govt-exams-mock-test',
+    url: 'https://careerwithmohit.online/tools/govt-exams-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -50,19 +50,19 @@ export default function GovtExamHubPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests"
+        "item": "https://careerwithmohit.online/mock-tests"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Government Exams Mock Test Hub",
-        "item": "https://www.careerwithmohit.online/tools/govt-exams-mock-test"
+        "item": "https://careerwithmohit.online/tools/govt-exams-mock-test"
       }
     ]
   };

@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     "MBA career counselling Delhi NCR", "best MBA career counsellor Pune", "direct MBA admission guide"
   ],
   alternates: {
-    canonical: "/about",
+    canonical: "/about/",
   },
   openGraph: {
     title: "About Mohit Jain | Founder & Chief MBA Admissions Strategist",
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     siteName: "CareerWithMohit",
     images: [
       {
-        url: "https://www.careerwithmohit.online/og-image.webp",
+        url: "https://careerwithmohit.online/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Mohit Jain - Founder & Chief MBA Admissions Strategist",
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "About Mohit Jain | Founder & Chief MBA Admissions Strategist",
     description: "Learn about Mohit Jain's journey from Accenture & Doubtnut to IIM Bangalore & FMS Delhi digital marketing certifications and uncompromised career guidance.",
-    images: ["https://www.careerwithmohit.online/og-image.webp"],
+    images: ["https://careerwithmohit.online/og-image.webp"],
   },
 };
 
@@ -229,16 +229,16 @@ export default function AboutPage() {
     "@type": "AboutPage",
     "mainEntity": {
       "@type": "Person",
-      "@id": "https://www.careerwithmohit.online/#person-mohit-jain",
+      "@id": "https://careerwithmohit.online/#person-mohit-jain",
       "name": "Mohit Jain",
-      "image": "https://www.careerwithmohit.online/og-image.webp",
+      "image": "https://careerwithmohit.online/og-image.webp",
       "description": "Founder of CareerWithMohit, Chief Career Counsellor & MBA Admissions Strategist, IIM Bangalore and FMS Delhi certified in Digital Marketing.",
       "jobTitle": "Founder & Chief Admissions Strategist",
-      "url": "https://www.careerwithmohit.online/about",
+      "url": "https://careerwithmohit.online/about",
       "worksFor": {
         "@type": "EducationalOrganization",
         "name": "CareerWithMohit",
-        "url": "https://www.careerwithmohit.online"
+        "url": "https://careerwithmohit.online"
       },
       "alumniOf": [
         { "@type": "CollegeOrUniversity", "name": "IIM Bangalore" },

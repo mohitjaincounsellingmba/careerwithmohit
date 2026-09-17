@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 
 // --- CONFIGURATION ---
 const POSTS_DIR = path.join(process.cwd(), 'posts');
-const SITE_URL = 'https://www.careerwithmohit.online';
+const SITE_URL = 'https://careerwithmohit.online';
 
 // Credentials from environment variables
 const {

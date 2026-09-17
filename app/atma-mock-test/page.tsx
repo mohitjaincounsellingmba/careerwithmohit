@@ -5,11 +5,11 @@ import { JsonLd } from '@/components/JsonLd';
 export const metadata: Metadata = {
   ...originalMetadata,
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools/atma-mock-test',
+    canonical: 'https://careerwithmohit.online/tools/atma-mock-test/',
   },
   openGraph: {
     ...originalMetadata.openGraph,
-    url: 'https://www.careerwithmohit.online/tools/atma-mock-test',
+    url: 'https://careerwithmohit.online/tools/atma-mock-test',
   },
   twitter: {
     ...originalMetadata.twitter,
@@ -21,7 +21,7 @@ export default function TopLevelAtmaMockTestPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "ATMA AIMS Free Mock Test",
-    "url": "https://www.careerwithmohit.online/tools/atma-mock-test",
+    "url": "https://careerwithmohit.online/tools/atma-mock-test",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {

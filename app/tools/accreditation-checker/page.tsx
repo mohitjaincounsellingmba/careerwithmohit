@@ -12,12 +12,12 @@ export const metadata: Metadata = {
     'COA architecture list', 'PCI pharmacy approved colleges', 'UGC approved universities', 'NAAC grade lookup'
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools/accreditation-checker',
+    canonical: 'https://careerwithmohit.online/tools/accreditation-checker/',
   },
   openGraph: {
     title: 'Accreditation & Approval Checker | CareerWithMohit',
     description: 'Instantly verify AICTE, UGC, AIU, and NAAC accreditation for universities & colleges across India.',
-    url: 'https://www.careerwithmohit.online/tools/accreditation-checker',
+    url: 'https://careerwithmohit.online/tools/accreditation-checker',
     siteName: 'CareerWithMohit',
     type: 'website',
     locale: 'en_IN',
@@ -36,7 +36,7 @@ export default function AccreditationCheckerPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "College Accreditation & Regulatory Approval Checker",
-    "url": "https://www.careerwithmohit.online/tools/accreditation-checker",
+    "url": "https://careerwithmohit.online/tools/accreditation-checker",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {

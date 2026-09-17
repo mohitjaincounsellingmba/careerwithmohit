@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     'Oxford IELTS cutoff', 'Cambridge IELTS requirement', 'Harvard IELTS minimum score', 'Toronto university IELTS band'
   ],
   alternates: {
-    canonical: '/tools/ielts-mock-test',
+    canonical: '/tools/ielts-mock-test/',
   },
   openGraph: {
     title: 'Free IELTS Academic Mock Test 2026 | Full Length Practice Paper (80 Qs)',
     description: 'Take our free full-length IELTS Academic CBT test with Listening (40 Qs), Reading (40 Qs), and Writing Tasks with instant 0-9 Band scoring & global university matching.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/ielts-mock-test',
+    url: 'https://careerwithmohit.online/tools/ielts-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -68,19 +68,19 @@ export default function IeltsMockTestToolPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.careerwithmohit.online/"
+            "item": "https://careerwithmohit.online/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Mock Tests",
-            "item": "https://www.careerwithmohit.online/mock-tests"
+            "item": "https://careerwithmohit.online/mock-tests"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IELTS Mock Test",
-            "item": "https://www.careerwithmohit.online/tools/ielts-mock-test"
+            "item": "https://careerwithmohit.online/tools/ielts-mock-test"
           }
         ]
       },

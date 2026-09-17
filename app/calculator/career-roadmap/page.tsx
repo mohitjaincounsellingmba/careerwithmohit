@@ -26,12 +26,12 @@ export const metadata: Metadata = {
         "certifications for high salary"
     ],
     alternates: {
-        canonical: "https://www.careerwithmohit.online/calculator/career-roadmap",
+        canonical: "https://careerwithmohit.online/calculator/career-roadmap/",
     },
     openGraph: {
         title: "Career Roadmap Calculator 2026-2027 | 11 Degrees & 45+ Tracks",
         description: "Calculate your career trajectory across MBA, PGDM, BTech, BBA, BCom, BCA, MCA, BA, MA, LLB, and LLM with real salary packages and industry certifications.",
-        url: "https://www.careerwithmohit.online/calculator/career-roadmap",
+        url: "https://careerwithmohit.online/calculator/career-roadmap/",
         siteName: "CareerWithMohit",
         type: "website",
         locale: "en_IN",
@@ -105,7 +105,7 @@ export default function CareerRoadmapPage() {
         "@context": "https://schema.org",
         "@type": "WebApplication",
         "name": "Interactive Career Roadmap & Salary Benchmark Calculator",
-        "url": "https://www.careerwithmohit.online/calculator/career-roadmap",
+        "url": "https://careerwithmohit.online/calculator/career-roadmap",
         "applicationCategory": "EducationalApplication",
         "operatingSystem": "All",
         "offers": {
@@ -123,19 +123,19 @@ export default function CareerRoadmapPage() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://www.careerwithmohit.online"
+                "item": "https://careerwithmohit.online"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Calculators",
-                "item": "https://www.careerwithmohit.online/calculator"
+                "item": "https://careerwithmohit.online/calculator"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Career Roadmap Calculator",
-                "item": "https://www.careerwithmohit.online/calculator/career-roadmap"
+                "item": "https://careerwithmohit.online/calculator/career-roadmap"
             }
         ]
     };

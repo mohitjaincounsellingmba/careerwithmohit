@@ -21,13 +21,13 @@ export const metadata: Metadata = {
     "degree admission 2027"
   ],
   alternates: {
-    canonical: "/top-tier-mba-colleges"
+    canonical: "/top-tier-mba-colleges/"
   },
   openGraph: {
     title: "Top Tier MBA Colleges in India 2027-28: IIMs, NMAT, SNAP & XAT",
     description: "Compare verified fees, cutoffs, and placements for all IIMs and elite SNAP, NMAT, and XAT accepting business schools in India for 2027-28.",
     type: "website",
-    url: "https://www.careerwithmohit.online/top-tier-mba-colleges"
+    url: "https://careerwithmohit.online/top-tier-mba-colleges/"
   }
 };
 
@@ -41,7 +41,7 @@ export default function TopTierMbaPage() {
       "@type": "ListItem",
       "position": index + 1,
       "name": college.name,
-      "url": college.slug ? `https://www.careerwithmohit.online/${college.slug}` : college.website
+      "url": college.slug ? `https://careerwithmohit.online/${college.slug}/` : college.website
     }))
   };
 
@@ -53,13 +53,13 @@ export default function TopTierMbaPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online"
+        "item": "https://careerwithmohit.online"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Top Tier MBA Colleges",
-        "item": "https://www.careerwithmohit.online/top-tier-mba-colleges"
+        "item": "https://careerwithmohit.online/top-tier-mba-colleges"
       }
     ]
   };

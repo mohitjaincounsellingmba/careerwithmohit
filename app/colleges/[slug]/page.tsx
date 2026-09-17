@@ -114,17 +114,17 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description,
     keywords,
     alternates: {
-      canonical: `/colleges/${slug}`,
+      canonical: `/colleges/${slug}/`,
     },
     openGraph: {
       title: `${college.name} – Fees, Placement, Admission 2027 | CareerWithMohit`,
       description,
       type: "article",
-      url: `/colleges/${slug}`,
+      url: `https://careerwithmohit.online/colleges/${slug}/`,
       siteName: "CareerWithMohit",
       images: [
         {
-          url: "https://www.careerwithmohit.online/og-image.webp",
+          url: "https://careerwithmohit.online/og-image.webp",
           width: 1200,
           height: 630,
           alt: `${college.name} Admission & Review`,
@@ -135,7 +135,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       card: "summary_large_image",
       title: `${college.name} – Fees, Placement, Admission 2027`,
       description,
-      images: ["https://www.careerwithmohit.online/og-image.webp"],
+      images: ["https://careerwithmohit.online/og-image.webp"],
     },
   };
 }
@@ -164,8 +164,8 @@ export default async function CollegeDetailPage({ params }: PageProps) {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
     "name": college.name,
-    "url": `https://www.careerwithmohit.online/colleges/${slug}`,
-    "logo": `https://www.careerwithmohit.online${college.logo}`,
+    "url": `https://careerwithmohit.online/colleges/${slug}/`,
+    "logo": college.logo ? (college.logo.startsWith('http') ? college.logo : `https://careerwithmohit.online${college.logo}`) : "https://careerwithmohit.online/logo.webp",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": college.location,
@@ -217,19 +217,19 @@ export default async function CollegeDetailPage({ params }: PageProps) {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Colleges",
-        "item": "https://www.careerwithmohit.online/colleges"
+        "item": "https://careerwithmohit.online/colleges/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": college.name,
-        "item": `https://www.careerwithmohit.online/colleges/${slug}`
+        "item": `https://careerwithmohit.online/colleges/${slug}/`
       }
     ]
   };

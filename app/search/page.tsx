@@ -5,7 +5,7 @@ import { SearchResults } from "@/components/SearchResults";
 export const metadata = {
   title: "Search Results | CareerWithMohit",
   description: "Find specific career advice and admission insights on CareerWithMohit.",
-  alternates: { canonical: "/search" },
+  alternates: { canonical: "/search/" },
   robots: { index: false, follow: true },
 };
 

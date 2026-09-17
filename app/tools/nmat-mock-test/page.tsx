@@ -6,7 +6,7 @@ import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/nmat-mock-test',
+    canonical: '/tools/nmat-mock-test/',
   },
   title: 'Free NMAT Mock Test 2026 | NMIMS Mumbai Admission Prep (108 Questions)',
   description: 'Take our free full-length NMAT 2026 mock test. 108 questions (Language 36, Quants 36, Logic 36), 120 minutes, 0 negative marking, authentic CBT interface, and full step-by-step solutions.',
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai',
     description: 'Master the NMAT by GMAC with our realistic mock tool. 108 questions across Language, Quants, and Logic with sectional timers.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/nmat-mock-test',
+    url: 'https://careerwithmohit.online/tools/nmat-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -68,19 +68,19 @@ export default function NmatMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests"
+        "item": "https://careerwithmohit.online/mock-tests"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "NMAT Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/nmat-mock-test"
+        "item": "https://careerwithmohit.online/tools/nmat-mock-test"
       }
     ]
   };

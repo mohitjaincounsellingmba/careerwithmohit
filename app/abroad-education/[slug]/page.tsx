@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${college.name} Fees & Admission 2027`.slice(0, 60),
     alternates: {
-      canonical: `/abroad-education/${slug}`,
+      canonical: `/abroad-education/${slug}/`,
     },
     description: `Explore admissions, fees (${college.fee}), programs, and accreditations (${college.accreditation}) for ${college.name} located in ${college.location}. Get expert admission assistance for 2027.`,
     keywords: [
@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: `${college.name} Admissions 2027`,
       description: `Complete guide on fees, accreditations, and programs at ${college.name} for 2027.`,
-      images: ['https://www.careerwithmohit.online/og-abroad-education.png'],
+      images: ['https://careerwithmohit.online/og-abroad-education.png'],
     },
   };
 }
@@ -65,7 +65,7 @@ export default async function CollegePage({ params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'CollegeOrUniversity',
     name: college.name,
-    url: `https://www.careerwithmohit.online/abroad-education/${slug}`,
+    url: `https://careerwithmohit.online/abroad-education/${slug}`,
     location: {
       '@type': 'Place',
       name: college.location,

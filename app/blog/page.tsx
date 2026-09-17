@@ -8,7 +8,7 @@ export const metadata = {
   description: 'Read latest career insights, MBA admission 2027 updates, PGDM admission 2027 guide, and professional growth strategies from expert counsellor Mohit Jain. Uncompromised guidance for students.',
   keywords: ['MBA blog', 'career counselling blog', 'MBA admission 2027', 'PGDM admission 2027', 'degree admission 2027', 'MBA admission tips', 'PGDM admission guide', 'career guidance articles', 'B-school insights 2027', 'Mohit Jain blog'],
   alternates: {
-    canonical: '/blog',
+    canonical: '/blog/',
   },
   openGraph: {
     title: 'MBA / PGDM Admission 2027 Blog | CareerWithMohit',
@@ -27,13 +27,13 @@ export default function BlogPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Blog",
-        "item": "https://www.careerwithmohit.online/blog"
+        "item": "https://careerwithmohit.online/blog"
       }
     ]
   };

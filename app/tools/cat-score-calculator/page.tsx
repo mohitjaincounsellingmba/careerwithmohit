@@ -71,14 +71,14 @@ export const metadata: Metadata = {
     "cat response sheet url check"
   ],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/tools/cat-score-calculator",
+    canonical: "https://careerwithmohit.online/tools/cat-score-calculator/",
   },
   openGraph: {
     title: "CAT Score Calculator 2026 | CAT Response Sheet Check & 2027 MBA Percentile",
     description:
       "Free CAT 2026 Score Calculator & Response Sheet Check. Calculate raw score, scaled score across slots, and predicted percentile for 2027 IIM & MBA admissions.",
     type: "website",
-    url: "https://www.careerwithmohit.online/tools/cat-score-calculator",
+    url: "https://careerwithmohit.online/tools/cat-score-calculator/",
     siteName: "CareerWithMohit",
     locale: "en_IN",
     images: [
@@ -199,7 +199,7 @@ export default function CatScoreCalculatorPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     name: "CAT Score Calculator 2026 & Response Sheet Checker",
-    url: "https://www.careerwithmohit.online/tools/cat-score-calculator",
+    url: "https://careerwithmohit.online/tools/cat-score-calculator/",
     applicationCategory: "EducationalApplication",
     operatingSystem: "All (Web, iOS, Android, macOS, Windows)",
     offers: {
@@ -271,19 +271,19 @@ export default function CatScoreCalculatorPage() {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://www.careerwithmohit.online",
+        item: "https://careerwithmohit.online",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Tools",
-        item: "https://www.careerwithmohit.online/tools",
+        item: "https://careerwithmohit.online/tools",
       },
       {
         "@type": "ListItem",
         position: 3,
         name: "CAT Score Calculator 2026",
-        item: "https://www.careerwithmohit.online/tools/cat-score-calculator",
+        item: "https://careerwithmohit.online/tools/cat-score-calculator/",
       },
     ],
   };
@@ -293,12 +293,12 @@ export default function CatScoreCalculatorPage() {
     "@type": "ItemPage",
     name: "CAT 2026 Score Calculator & Response Sheet Checker",
     description: "Comprehensive CAT 2026 score calculation, answer key analysis, slot normalization guide, and 2027 MBA admission percentile predictor.",
-    url: "https://www.careerwithmohit.online/tools/cat-score-calculator",
+    url: "https://careerwithmohit.online/tools/cat-score-calculator/",
     author: {
       "@type": "Person",
       name: "Mohit Jain",
       jobTitle: "Founder & Lead MBA Admissions Consultant",
-      url: "https://www.careerwithmohit.online",
+      url: "https://careerwithmohit.online",
       sameAs: [
         "https://www.linkedin.com/in/mohitjainmba",
         "https://api.whatsapp.com/send/?phone=919560020771"
@@ -307,8 +307,8 @@ export default function CatScoreCalculatorPage() {
     publisher: {
       "@type": "EducationalOrganization",
       name: "CareerWithMohit",
-      url: "https://www.careerwithmohit.online",
-      logo: "https://www.careerwithmohit.online/og-image.webp",
+      url: "https://careerwithmohit.online",
+      logo: "https://careerwithmohit.online/og-image.webp",
       address: {
         "@type": "PostalAddress",
         addressLocality: "Delhi NCR",

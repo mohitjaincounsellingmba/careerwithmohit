@@ -24,12 +24,12 @@ export const metadata: Metadata = {
         "degree admission 2027"
     ],
     alternates: {
-        canonical: "/tools/mat-college-predictor",
+        canonical: "/tools/mat-college-predictor/",
     },
     openGraph: {
         title: "MAT College Predictor 2027 | Predict Your B-School",
         description: "Interactive AIMA MAT 2027 College Predictor. Map your MAT score to top MBA/PGDM colleges and check expected cutoffs based on real data.",
-        url: "https://www.careerwithmohit.online/tools/mat-college-predictor",
+        url: "https://careerwithmohit.online/tools/mat-college-predictor/",
         siteName: "Career With Mohit",
         images: [
             {

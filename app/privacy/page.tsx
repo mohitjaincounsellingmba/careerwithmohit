@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   title: "Privacy Policy | CareerWithMohit",
   description: "Learn how we collect, use, and protect your personal information at CareerWithMohit.",
   alternates: {
-    canonical: "https://www.careerwithmohit.online/privacy",
+    canonical: "https://careerwithmohit.online/privacy/",
   },
   openGraph: {
     title: "Privacy Policy | CareerWithMohit",
     description: "Learn how CareerWithMohit protects user data and personal information.",
-    url: "https://www.careerwithmohit.online/privacy",
+    url: "https://careerwithmohit.online/privacy/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -29,7 +29,7 @@ export default function PrivacyPolicy() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Privacy Policy - CareerWithMohit",
-    "url": "https://www.careerwithmohit.online/privacy",
+    "url": "https://careerwithmohit.online/privacy",
     "description": "Privacy policy and personal data management policies for CareerWithMohit."
   };
 

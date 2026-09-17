@@ -24,12 +24,12 @@ export const metadata: Metadata = {
         "active hiring companies resume"
     ],
     alternates: {
-        canonical: "https://www.careerwithmohit.online/tools/ats-resume-builder",
+        canonical: "https://careerwithmohit.online/tools/ats-resume-builder/",
     },
     openGraph: {
         title: "Free ATS Resume & CV Builder 2026–2027 | CareerWithMohit",
         description: "100% Free ATS-Compliant Resume & CV Builder with real-time scoring, 30+ templates, and instant PDF/PNG/JPG export.",
-        url: "https://www.careerwithmohit.online/tools/ats-resume-builder",
+        url: "https://careerwithmohit.online/tools/ats-resume-builder/",
         siteName: "CareerWithMohit",
         type: "website",
         locale: "en_IN",
@@ -95,7 +95,7 @@ export default function AtsResumeBuilderPage() {
         "@context": "https://schema.org",
         "@type": "WebApplication",
         "name": "Free ATS Resume & CV Builder",
-        "url": "https://www.careerwithmohit.online/tools/ats-resume-builder",
+        "url": "https://careerwithmohit.online/tools/ats-resume-builder",
         "applicationCategory": "BusinessApplication",
         "operatingSystem": "All",
         "offers": {
@@ -113,19 +113,19 @@ export default function AtsResumeBuilderPage() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://www.careerwithmohit.online"
+                "item": "https://careerwithmohit.online"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Tools",
-                "item": "https://www.careerwithmohit.online/tools"
+                "item": "https://careerwithmohit.online/tools"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "ATS Resume Builder",
-                "item": "https://www.careerwithmohit.online/tools/ats-resume-builder"
+                "item": "https://careerwithmohit.online/tools/ats-resume-builder"
             }
         ]
     };

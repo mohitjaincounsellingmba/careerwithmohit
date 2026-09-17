@@ -20,17 +20,17 @@ export const metadata = {
     'JEE Advanced cutoff 2027', 'direct admission engineering MBA 2027'
   ],
   alternates: {
-    canonical: '/colleges',
+    canonical: '/colleges/',
   },
   openGraph: {
     title: 'Top MBA, PGDM & B.Tech Colleges in India by State 2027: Verified Fees & Placements',
     description: 'Explore verified data on 770+ top colleges across all Indian states for MBA, PGDM, B.Tech & M.Tech. Compare fees, placements, rankings & cutoffs for 2027.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/colleges',
+    url: 'https://careerwithmohit.online/colleges',
     siteName: 'CareerWithMohit',
     images: [
       {
-        url: 'https://www.careerwithmohit.online/og-image.webp',
+        url: 'https://careerwithmohit.online/og-image.webp',
         width: 1200,
         height: 630,
         alt: 'Top Colleges in India by State 2027 - CareerWithMohit',
@@ -41,7 +41,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Top MBA, PGDM & B.Tech Colleges in India by State 2027',
     description: 'Explore verified data on 770+ top colleges across all Indian states for MBA, PGDM & B.Tech. Compare fees & placements.',
-    images: ['https://www.careerwithmohit.online/og-image.webp'],
+    images: ['https://careerwithmohit.online/og-image.webp'],
   },
 };
 
@@ -56,13 +56,13 @@ export default function CollegesPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online"
+        "item": "https://careerwithmohit.online"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Colleges",
-        "item": "https://www.careerwithmohit.online/colleges"
+        "item": "https://careerwithmohit.online/colleges"
       }
     ]
   };
@@ -72,7 +72,7 @@ export default function CollegesPage() {
     "@type": "CollectionPage",
     "name": "Top MBA & PGDM Colleges in India by State 2027",
     "description": "Comprehensive directory of 700+ top MBA, PGDM, B.Tech, and BBA colleges in India covering all Indian states with fees, placement data, and admission details for 2027.",
-    "url": "https://www.careerwithmohit.online/colleges",
+    "url": "https://careerwithmohit.online/colleges",
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": colleges.length,
@@ -80,7 +80,7 @@ export default function CollegesPage() {
         "@type": "ListItem",
         "position": index + 1,
         "name": college.name,
-        "url": `https://www.careerwithmohit.online/colleges/${college.slug}`,
+        "url": `https://careerwithmohit.online/colleges/${college.slug}`,
       })),
     },
   };

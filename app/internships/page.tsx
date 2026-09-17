@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   description: "Explore the latest Work From Home Finance and Tech internships in India for 2026-2027. Curated opportunities in Financial Analysis, IB, SaaS Marketing, and Software Engineering.",
   keywords: ["finance internships work from home 2026", "tech internships India", "online finance internship India", "WFH internships", "investment banking internship online"],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/internships",
+    canonical: "https://careerwithmohit.online/internships/",
   },
   openGraph: {
     title: "Latest Finance & Tech Internships 2026-2027 | CareerWithMohit",
     description: "Curated WFH and on-site internships in Finance, Data Analytics, and Software Engineering.",
-    url: "https://www.careerwithmohit.online/internships",
+    url: "https://careerwithmohit.online/internships/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",

@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Outfit } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
@@ -17,16 +17,26 @@ const outfit = Outfit({
   adjustFontFallback: true,
 });
 
+export const viewport: Viewport = {
+  themeColor: "#0f172a",
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.careerwithmohit.online"),
+  metadataBase: new URL("https://careerwithmohit.online"),
   title: {
     default: "Mohit Jain | Career Counselling & MBA / PGDM Admissions Expert 2027",
     template: "%s | CareerWithMohit",
   },
   description: "Expert career guidance, MBA & PGDM admissions consulting, and interview prep by Mohit Jain. Uncompromised strategies for CAT 2027, MBA 2027 & degree admissions.",
   icons: {
-    icon: "/favicon.svg",
-    apple: "/favicon.svg",
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/favicon.png", type: "image/png" }
+    ],
+    apple: "/favicon.png",
   },
   keywords: [
     "career counselling", "MBA admissions 2027", "PGDM admission 2027", "B.Tech admissions 2027", "Engineering colleges Delhi NCR",
@@ -38,7 +48,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Mohit Jain" }],
   verification: {
-    google: "fE7d3H-B_zJ8-nS9u2G5v-Xk4m-L0p3Q1W2E4R5T6Y7",
+    google: process.env.NEXT_PUBLIC_GOOGLE_VERIFICATION || "fE7d3H-B_zJ8-nS9u2G5v-Xk4m-L0p3Q1W2E4R5T6Y7",
     other: {
       "msvalidate.01": process.env.NEXT_PUBLIC_BING_VERIFICATION || "B6D0F55359D960CA2DE85C38481A08D1",
     }
@@ -46,7 +56,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://www.careerwithmohit.online",
+    url: "https://careerwithmohit.online/",
     siteName: "CareerWithMohit",
     title: "Mohit Jain | Career Counselling & MBA / PGDM Admissions Expert 2027",
     description: "Expert career guidance and MBA / PGDM admissions consulting for top-tier B-schools & 2027 admissions.",
@@ -90,16 +100,16 @@ export default function RootLayout({
   const personData = {
     "@context": "https://schema.org",
     "@type": "Person",
-    "@id": "https://www.careerwithmohit.online/#person-mohit-jain",
+    "@id": "https://careerwithmohit.online/#person-mohit-jain",
     "name": "Mohit Jain",
-    "url": "https://www.careerwithmohit.online/about",
-    "image": "https://www.careerwithmohit.online/logo.webp",
+    "url": "https://careerwithmohit.online/about/",
+    "image": "https://careerwithmohit.online/logo.webp",
     "jobTitle": "Chief Career Counsellor & MBA Admissions Strategist",
     "description": "Expert career mentor and MBA admissions consultant with credentials from IIM Bangalore and FMS Delhi. Guiding students for CAT 2026, XAT 2027, top-tier B-schools, and direct admissions.",
     "worksFor": {
       "@type": "EducationalOrganization",
       "name": "CareerWithMohit",
-      "url": "https://www.careerwithmohit.online"
+      "url": "https://careerwithmohit.online"
     },
     "alumniOf": [
       {
@@ -159,12 +169,12 @@ export default function RootLayout({
   const organizationData = {
     "@context": "https://schema.org",
     "@type": ["EducationalOrganization", "LocalBusiness"],
-    "@id": "https://www.careerwithmohit.online/#organization",
+    "@id": "https://careerwithmohit.online/#organization",
     "name": "CareerWithMohit",
     "alternateName": "Career with Mohit Admissions Consulting",
-    "url": "https://www.careerwithmohit.online",
-    "logo": "https://www.careerwithmohit.online/logo.webp",
-    "image": "https://www.careerwithmohit.online/og-image.webp",
+    "url": "https://careerwithmohit.online",
+    "logo": "https://careerwithmohit.online/logo.webp",
+    "image": "https://careerwithmohit.online/og-image.webp",
     "telephone": "+91-9560020771",
     "founder": {
       "@type": "Person",
@@ -236,13 +246,13 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "CareerWithMohit",
-    "url": "https://www.careerwithmohit.online",
+    "url": "https://careerwithmohit.online",
     "publisher": {
-      "@id": "https://www.careerwithmohit.online/#organization"
+      "@id": "https://careerwithmohit.online/#organization"
     },
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://www.careerwithmohit.online/search?q={search_term_string}",
+      "target": "https://careerwithmohit.online/search/?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   };
@@ -260,14 +270,14 @@ export default function RootLayout({
         "#ai-fast-facts"
       ]
     },
-    "url": "https://www.careerwithmohit.online"
+    "url": "https://careerwithmohit.online"
   };
 
   return (
     <html lang="en">
       <head>
         <link rel="alternate" type="application/rss+xml" title="CareerWithMohit Blog" href="/feed.xml" />
-        <link rel="author" href="https://www.careerwithmohit.online/about" />
+        <link rel="author" href="https://careerwithmohit.online/about/" />
         <link rel="help" href="/llms.txt" />
         <JsonLd data={personData} />
         <JsonLd data={organizationData} />

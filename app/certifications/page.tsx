@@ -11,12 +11,12 @@ export const metadata: Metadata = {
     'online certifications india 2027', 'resume booster courses', 'career certification guide'
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/certifications',
+    canonical: 'https://careerwithmohit.online/certifications/',
   },
   openGraph: {
     title: 'Free & Professional Certification Courses 2026-2027 | CareerWithMohit',
     description: 'Explore curated free & premium certifications in Python, AI, Digital Marketing, and Financial Analysis to accelerate your career.',
-    url: 'https://www.careerwithmohit.online/certifications',
+    url: 'https://careerwithmohit.online/certifications',
     siteName: 'CareerWithMohit',
     type: 'website',
     locale: 'en_IN',
@@ -71,13 +71,13 @@ export default function CertificationsPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.careerwithmohit.online',
+        item: 'https://careerwithmohit.online',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Certifications',
-        item: 'https://www.careerwithmohit.online/certifications',
+        item: 'https://careerwithmohit.online/certifications',
       },
     ],
   };

@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/calculator/cuet-pg-2026',
+    canonical: '/calculator/cuet-pg-2026/',
   },
     title: "CUET PG 2027 Score Calculator & Rank Predictor | Marks vs Percentile",
     description: "Free CUET PG 2027 score calculator. Instantly calculate your raw score with official NTA marking scheme (+4/-1), predict percentile, check marks vs rank, and compare cutoffs for DU, JNU, BHU, TISS MBA & other PG programs.",

@@ -19,12 +19,12 @@ export const metadata: Metadata = {
     "GGSIPU B.Tech admission",
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/colleges/top-engineering-colleges-in-delhi',
+    canonical: 'https://careerwithmohit.online/colleges/top-engineering-colleges-in-delhi/',
   },
   openGraph: {
     title: "Top Engineering Colleges in Delhi NCR 2026-2027 | CareerWithMohit",
     description: "Compare DTU, NSUT, IIT Delhi, IIIT Delhi, MAIT, and MSIT. Fees, cutoffs, and placements analysis.",
-    url: "https://www.careerwithmohit.online/colleges/top-engineering-colleges-in-delhi",
+    url: "https://careerwithmohit.online/colleges/top-engineering-colleges-in-delhi/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",

@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   description: "Explore the latest full-time job opportunities in Tech, Sales, and Marketing. Hand-picked roles with verified referral links for 2026-2027 career growth.",
   keywords: ["jobs 2026", "software engineer roles India", "inside sales jobs", "social media strategy jobs", "OptimHire jobs", "career opportunities"],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/jobs",
+    canonical: "https://careerwithmohit.online/jobs/",
   },
   openGraph: {
     title: "Premium Tech & Business Job Opportunities | CareerWithMohit",
     description: "Verified full-time job listings and direct referral opportunities in Tech, Marketing, and Operations.",
-    url: "https://www.careerwithmohit.online/jobs",
+    url: "https://careerwithmohit.online/jobs/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",

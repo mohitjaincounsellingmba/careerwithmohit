@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: hub.metaDescription,
   keywords: hub.keywords,
   alternates: {
-    canonical: `https://www.careerwithmohit.online${hub.route}`,
+    canonical: `https://careerwithmohit.online${hub.route}/`,
   },
   openGraph: {
     title: hub.metaTitle,
     description: hub.metaDescription,
-    url: `https://www.careerwithmohit.online${hub.route}`,
+    url: `https://careerwithmohit.online${hub.route}`,
     siteName: 'CareerWithMohit',
     type: 'website',
     locale: 'en_IN',
@@ -44,19 +44,19 @@ export default function MbaCollegesAhmedabadPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.careerwithmohit.online',
+        item: 'https://careerwithmohit.online',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Colleges',
-        item: 'https://www.careerwithmohit.online/colleges',
+        item: 'https://careerwithmohit.online/colleges',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: `MBA Colleges in ${hub.cityName}`,
-        item: `https://www.careerwithmohit.online${hub.route}`,
+        item: `https://careerwithmohit.online${hub.route}`,
       },
     ],
   };
@@ -66,7 +66,7 @@ export default function MbaCollegesAhmedabadPage() {
     '@type': 'CollectionPage',
     name: hub.heroTitle,
     description: hub.heroSubtitle,
-    url: `https://www.careerwithmohit.online${hub.route}`,
+    url: `https://careerwithmohit.online${hub.route}`,
     mainEntity: {
       '@type': 'ItemList',
       numberOfItems: colleges.length,
@@ -74,7 +74,7 @@ export default function MbaCollegesAhmedabadPage() {
         '@type': 'ListItem',
         position: index + 1,
         name: college.name,
-        url: `https://www.careerwithmohit.online/colleges/${college.slug}`,
+        url: `https://careerwithmohit.online/colleges/${college.slug}`,
       })),
     },
   };
@@ -83,7 +83,7 @@ export default function MbaCollegesAhmedabadPage() {
     '@context': 'https://schema.org',
     '@type': 'EducationalOrganization',
     name: 'Career With Mohit - MBA Admission Guidance',
-    url: 'https://www.careerwithmohit.online',
+    url: 'https://careerwithmohit.online',
     description: `Expert 1-on-1 MBA & PGDM admission counselling, GD-PI prep, and college shortlisting in ${hub.cityName}.`,
     areaServed: [
       { '@type': 'City', name: hub.cityName },

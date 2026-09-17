@@ -6,7 +6,7 @@ import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/bitsat-mock-test',
+    canonical: '/tools/bitsat-mock-test/',
   },
   title: 'Free BITSAT Mock Test 2026 | BITS Pilani Preparation Platform',
   description: 'Practice for BITSAT 2026 with our free full-length mock test. 130 questions in 3 hours covering Physics, Chemistry, English, and Logical Reasoning. Get BITS Goa and Hyderabad campus rank prediction.',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: 'Free BITSAT Mock Test 2026 | Simulation & BITS Campus Predictor',
     description: 'Master the BITSAT with our advanced CBT interface. Simulation for English Proficiency and Logical Reasoning for high-rank BITS Pilani candidates.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/bitsat-mock-test',
+    url: 'https://careerwithmohit.online/tools/bitsat-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -69,19 +69,19 @@ export default function BitsatMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests"
+        "item": "https://careerwithmohit.online/mock-tests"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "BITSAT Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/bitsat-mock-test"
+        "item": "https://careerwithmohit.online/tools/bitsat-mock-test"
       }
     ]
   };

@@ -7,12 +7,12 @@ export const metadata: Metadata = {
   description: "Select your specialization and find the top certifications like CFA, Digital Marketing, AWS, VLSI, and Lean Six Sigma with detailed Pros, Cons, and ROI analysis.",
   keywords: ["mba certifications", "btech certifications", "aws certified solutions architect", "vlsi certification", "cfa vs frm", "civil engineering software", "solidworks certification"],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/calculator/certification',
+    canonical: 'https://careerwithmohit.online/calculator/certification/',
   },
   openGraph: {
     title: "Certification Calculator | CareerWithMohit",
     description: "Discover the best certifications for MBA and B.Tech specializations: CFA, AWS, Six Sigma, Digital Marketing, and VLSI.",
-    url: "https://www.careerwithmohit.online/calculator/certification",
+    url: "https://careerwithmohit.online/calculator/certification/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -31,7 +31,7 @@ export default function CertificationCalculatorPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "Professional Certification ROI Calculator",
-    "url": "https://www.careerwithmohit.online/calculator/certification",
+    "url": "https://careerwithmohit.online/calculator/certification",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {

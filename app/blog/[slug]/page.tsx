@@ -84,13 +84,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
   postDescription = postDescription || `Expert analysis on ${cleanedTitle}. Detailed insights, placements 2025, and admission strategy for 2027 by Mohit Jain.`;
   
-  const postUrl = `https://www.careerwithmohit.online/blog/${slug}`;
+  const postUrl = `https://careerwithmohit.online/blog/${slug}/`;
   const cleanedKeywords = (postData.keywords || []).map(kw => cleanMarkdown(kw));
 
   // Dynamic OG image: ensure absolute URL
-  let ogImageUrl = postData.image || "https://www.careerwithmohit.online/og-image.webp";
+  let ogImageUrl = postData.image || "https://careerwithmohit.online/og-image.webp";
   if (ogImageUrl.startsWith("/")) {
-    ogImageUrl = `https://www.careerwithmohit.online${ogImageUrl}`;
+    ogImageUrl = `https://careerwithmohit.online${ogImageUrl}`;
   }
 
   const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || []);
@@ -134,7 +134,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       images: [ogImageUrl],
     },
     alternates: {
-      canonical: `/blog/${slug}`,
+      canonical: `/blog/${slug}/`,
     },
     other: {
       "citation_title": cleanedTitle,
@@ -166,8 +166,8 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
   const cleanedTitle = cleanMarkdown(postData.title);
   const articleImage = postData.image 
-    ? (postData.image.startsWith('http') ? postData.image : `https://www.careerwithmohit.online${postData.image}`)
-    : `https://www.careerwithmohit.online/og-image.webp`;
+    ? (postData.image.startsWith('http') ? postData.image : `https://careerwithmohit.online${postData.image}`)
+    : `https://careerwithmohit.online/og-image.webp`;
 
   const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || []);
 
@@ -182,14 +182,14 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     "author": {
       "@type": "Person",
       "name": "Mohit Jain",
-      "url": "https://www.careerwithmohit.online"
+      "url": "https://careerwithmohit.online/about/"
     },
     "publisher": {
       "@type": "Organization",
       "name": "CareerWithMohit",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://www.careerwithmohit.online/logo.webp"
+        "url": "https://careerwithmohit.online/logo.webp"
       }
     },
     "inLanguage": "en-IN",
@@ -199,7 +199,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://www.careerwithmohit.online/blog/${slug}`
+      "@id": `https://careerwithmohit.online/blog/${slug}/`
     }
   };
 
@@ -218,19 +218,19 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Blog",
-        "item": "https://www.careerwithmohit.online/blog"
+        "item": "https://careerwithmohit.online/blog/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": cleanedTitle,
-        "item": `https://www.careerwithmohit.online/blog/${slug}`
+        "item": `https://careerwithmohit.online/blog/${slug}/`
       }
     ]
   };
@@ -471,7 +471,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 if (targetHref.endsWith('.md')) {
                   targetHref = targetHref.slice(0, -3);
                 }
-                const isInternal = targetHref.startsWith('/') || targetHref.startsWith('https://www.careerwithmohit.online');
+                const isInternal = targetHref.startsWith('/') || targetHref.startsWith('https://careerwithmohit.online');
                 if (isInternal) {
                   return (
                     <Link href={targetHref} className="text-primary font-bold underline hover:text-secondary transition-colors" {...props}>

@@ -24,7 +24,7 @@ import { ABROAD_COLLEGES } from '@/data/abroadColleges';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { JsonLd } from '@/components/JsonLd';
 
-const BASE_URL = 'https://www.careerwithmohit.online';
+const BASE_URL = 'https://careerwithmohit.online';
 const PAGE_PATH = '/abroad-education';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 

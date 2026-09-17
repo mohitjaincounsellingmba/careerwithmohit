@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     'gdpi preparation topics pdf'
   ],
   alternates: {
-    canonical: 'https://careerwithmohit.online/starter-kit',
+    canonical: 'https://careerwithmohit.online/starter-kit/',
   },
   openGraph: {
     title: 'Free MBA Preparation Kit & Campus Placement Interview Guide 2026-27 | Download PDF',

@@ -187,12 +187,12 @@ export function JeeScoreCalculator() {
     };
 
     const shareOnWhatsApp = () => {
-        const text = `🚀 Just calculated my JEE Main 2026 Score: ${stats.score}/300 (~${stats.percentile}%ile)! 🎯 Checking my chances for top NITs. %0A%0ACheck your score instantly: https://www.careerwithmohit.online/blog/jee-main-2026-score-calculator-marks-vs-percentile`;
+        const text = `🚀 Just calculated my JEE Main 2026 Score: ${stats.score}/300 (~${stats.percentile}%ile)! 🎯 Checking my chances for top NITs. %0A%0ACheck your score instantly: https://careerwithmohit.online/blog/jee-main-2026-score-calculator-marks-vs-percentile`;
         window.open(`https://wa.me/?text=${text}`, '_blank');
     };
 
     const shareOnTwitter = () => {
-        const text = `Just calculated my JEE Main 2026 Score: ${stats.score}/300 (~${stats.percentile}%ile)! 🎯 Checking my chances for top NITs with @CareerWithMohit. %0A%0ACheck yours: https://www.careerwithmohit.online/blog/jee-main-2026-score-calculator-marks-vs-percentile`;
+        const text = `Just calculated my JEE Main 2026 Score: ${stats.score}/300 (~${stats.percentile}%ile)! 🎯 Checking my chances for top NITs with @CareerWithMohit. %0A%0ACheck yours: https://careerwithmohit.online/blog/jee-main-2026-score-calculator-marks-vs-percentile`;
         window.open(`https://twitter.com/intent/tweet?text=${text}`, '_blank');
     };
 

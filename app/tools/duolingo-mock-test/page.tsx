@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     'Columbia DET requirement', 'Yale Duolingo English score', 'NYU Stern DET cutoff'
   ],
   alternates: {
-    canonical: '/tools/duolingo-mock-test',
+    canonical: '/tools/duolingo-mock-test/',
   },
   openGraph: {
     title: 'Free Duolingo English Test (DET) Mock 2026 | Adaptive Practice Paper',
     description: '1-Hour official pattern DET simulation covering Adaptive skills, Dictation audio, C-Test, Photo description & Writing/Speaking samples with instant 10-160 scoring.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/duolingo-mock-test',
+    url: 'https://careerwithmohit.online/tools/duolingo-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -68,19 +68,19 @@ export default function DuolingoMockTestToolPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.careerwithmohit.online/"
+            "item": "https://careerwithmohit.online/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Mock Tests",
-            "item": "https://www.careerwithmohit.online/mock-tests"
+            "item": "https://careerwithmohit.online/mock-tests"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Duolingo English Test Mock",
-            "item": "https://www.careerwithmohit.online/tools/duolingo-mock-test"
+            "item": "https://careerwithmohit.online/tools/duolingo-mock-test"
           }
         ]
       },

@@ -257,19 +257,19 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online"
+        "item": "https://careerwithmohit.online"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Colleges",
-        "item": "https://www.careerwithmohit.online/colleges"
+        "item": "https://careerwithmohit.online/colleges"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": college.name,
-        "item": `https://www.careerwithmohit.online/colleges/${college.slug}`
+        "item": `https://careerwithmohit.online/colleges/${college.slug}`
       }
     ]
   };
@@ -279,9 +279,9 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
     "@type": "CollegeOrUniversity",
     "name": college.name,
     "description": `${college.name} in ${college.location}: Check fees structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}, and admission process for 2027.`,
-    "url": `https://www.careerwithmohit.online/colleges/${college.slug}`,
-    "logo": college.logo || "https://www.careerwithmohit.online/logo.webp",
-    "image": "https://www.careerwithmohit.online/og-image.webp",
+    "url": `https://careerwithmohit.online/colleges/${college.slug}`,
+    "logo": college.logo || "https://careerwithmohit.online/logo.webp",
+    "image": "https://careerwithmohit.online/og-image.webp",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": college.location,
@@ -304,7 +304,7 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://www.careerwithmohit.online/colleges/${college.slug}`
+      "@id": `https://careerwithmohit.online/colleges/${college.slug}`
     }
   };
 

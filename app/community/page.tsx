@@ -31,12 +31,12 @@ export const metadata: Metadata = {
     "Mohit Jain career counselling community"
   ],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/community",
+    canonical: "https://careerwithmohit.online/community/",
   },
   openGraph: {
     title: "Student Community | Join WhatsApp & Telegram for MBA & Degree Prep",
     description: "Connect with 5,700+ aspirants. Download free formula books, daily entrance exam questions, and get cutoff intelligence.",
-    url: "https://www.careerwithmohit.online/community",
+    url: "https://careerwithmohit.online/community/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -96,12 +96,12 @@ export default function CommunityPage() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "CareerWithMohit Student Community Hub",
-    "url": "https://www.careerwithmohit.online/community",
+    "url": "https://careerwithmohit.online/community",
     "description": "Interactive WhatsApp and Telegram student network for MBA, PGDM, and degree college aspirants across India.",
     "publisher": {
       "@type": "EducationalOrganization",
       "name": "CareerWithMohit",
-      "url": "https://www.careerwithmohit.online"
+      "url": "https://careerwithmohit.online"
     }
   };
 

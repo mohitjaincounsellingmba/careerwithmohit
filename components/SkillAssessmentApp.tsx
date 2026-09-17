@@ -688,7 +688,7 @@ export function SkillAssessmentApp() {
     const text = encodeURIComponent(
       `🎯 Proud to announce that I have successfully cleared the ${activeDomain.name} Assessment on CareerWithMohit with an accredited score of ${examMetrics.percentage}%!\n\nVerified Certificate ID: ${certificateId}\nCheck it out and test your skills here:`
     );
-    const url = encodeURIComponent(`https://www.careerwithmohit.online/skill-assessment-certificate`);
+    const url = encodeURIComponent(`https://careerwithmohit.online/skill-assessment-certificate`);
     return `https://www.linkedin.com/feed/?shareActive=true&text=${text}%20${url}`;
   };
 

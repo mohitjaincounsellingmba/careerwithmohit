@@ -31,16 +31,23 @@ export function AnalyticsTracker() {
       }
 
       const title = typeof document !== "undefined" ? document.title : "";
+      const currentUrl = typeof window !== "undefined" ? window.location.href : "";
+      const GA_ID = process.env.NEXT_PUBLIC_GA_ID || process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID || "G-448JRKP87B";
 
-      // 1. Sync with Google Analytics (GA4 Tag G-448JRKP87B)
-      if (typeof window !== "undefined" && (window as any).gtag) {
-        try {
-          (window as any).gtag("event", "page_view", {
-            page_path: pathname,
-            page_title: title,
-            send_to: "G-448JRKP87B",
-          });
-        } catch (err) {}
+      // 1. Sync with Google Analytics (GA4 Tag)
+      if (typeof window !== "undefined") {
+        const win = window as any;
+        win.dataLayer = win.dataLayer || [];
+        if (win.gtag) {
+          try {
+            win.gtag("event", "page_view", {
+              page_location: currentUrl,
+              page_path: pathname,
+              page_title: title,
+              send_to: GA_ID,
+            });
+          } catch (err) {}
+        }
       }
 
       // 2. Ping Telemetry & Register Active Session

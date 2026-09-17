@@ -10,7 +10,7 @@ import OnlineDegreeClient from '@/components/OnlineDegreeClient';
 import OnlineDegreeLeadForm from '@/components/OnlineDegreeLeadForm';
 import { COLLEGES } from '@/data/onlineColleges';
 
-const BASE_URL = 'https://www.careerwithmohit.online';
+const BASE_URL = 'https://careerwithmohit.online';
 const PAGE_PATH = '/online-degree-certification';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 

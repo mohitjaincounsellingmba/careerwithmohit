@@ -8,7 +8,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/college-comparison',
+    canonical: '/tools/college-comparison/',
   },
     title: "MBA College Comparison Calculator | Compare Fees, Placement & Cutoffs",
     description: "Compare top MBA/PGDM colleges in India side-by-side. Check fees, average placements, highest packages, NMAT/CAT cutoffs, courses, and infrastructure instantly.",

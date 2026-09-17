@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   description: "Boost your reach with our AI-powered Hashtag Generator. Specialized trending hashtags for YouTube, LinkedIn, Instagram, and Facebook in the Education and Career niche.",
   keywords: ["hashtag generator 2026", "trending hashtags education", "youtube tags generator", "linkedin hashtags for careers", "instagram hashtags for students", "reach 10x audience"],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/tools/hashtag-generator",
+    canonical: "https://careerwithmohit.online/tools/hashtag-generator/",
   },
   openGraph: {
     title: "Trending Social Media Hashtag Generator | CareerWithMohit",
     description: "Generate viral hashtags for YouTube, LinkedIn, Instagram, and Career posts with one click.",
-    url: "https://www.careerwithmohit.online/tools/hashtag-generator",
+    url: "https://careerwithmohit.online/tools/hashtag-generator/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -55,7 +55,7 @@ export default function HashtagGeneratorPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "Trending Social Media Hashtag Generator",
-    "url": "https://www.careerwithmohit.online/tools/hashtag-generator",
+    "url": "https://careerwithmohit.online/tools/hashtag-generator",
     "applicationCategory": "UtilitiesApplication",
     "operatingSystem": "All",
     "offers": {

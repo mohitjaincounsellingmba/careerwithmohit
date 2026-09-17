@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description: "Browse curated free and paid professional certifications in Python, Digital Marketing, Excel, and more to boost your career profile.",
   keywords: ["free certifications", "professional courses", "digital marketing course", "python tutorial", "advance excel", "career growth"],
   alternates: {
-    canonical: "/certifications",
+    canonical: "/certifications/",
   },
   openGraph: {
     title: "Professional Certifications & Free Courses",

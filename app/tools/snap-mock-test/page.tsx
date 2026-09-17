@@ -6,7 +6,7 @@ import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools/snap-mock-test',
+    canonical: 'https://careerwithmohit.online/tools/snap-mock-test/',
   },
   title: 'Free SNAP Mock Test 2026/27 | SIBM Pune & Symbiosis Speed Test (60 Questions)',
   description: 'Take our free full-length 60-question SNAP mock test in 60 minutes. General English (15), Quant & DI (20), Logical Reasoning (25). Instant SIBM Pune call predictor and step-by-step solutions.',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: 'Free SNAP Mock Test 2026/27 | SIBM Pune & SCMHRD Prep | CareerWithMohit',
     description: 'Take our free full-length 60-question SNAP speed test with instant scorecards and detailed solutions.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/snap-mock-test',
+    url: 'https://careerwithmohit.online/tools/snap-mock-test',
     siteName: 'CareerWithMohit',
     images: [{ url: '/og-image.webp', width: 1200, height: 630, alt: 'SNAP Mock Test' }],
   },
@@ -39,7 +39,7 @@ export default function DedicatedSnapMockTestPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "SNAP 2026-2027 Speed Mock Test Tool",
-    "url": "https://www.careerwithmohit.online/tools/snap-mock-test",
+    "url": "https://careerwithmohit.online/tools/snap-mock-test",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {
@@ -58,19 +58,19 @@ export default function DedicatedSnapMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online",
+        "item": "https://careerwithmohit.online",
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests",
+        "item": "https://careerwithmohit.online/mock-tests",
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "SNAP Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/snap-mock-test",
+        "item": "https://careerwithmohit.online/tools/snap-mock-test",
       },
     ],
   };

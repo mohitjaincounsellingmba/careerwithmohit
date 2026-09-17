@@ -301,7 +301,7 @@ function buildAdminDataset() {
           lowest_placement: data.lowest_placement || '₹5.5 LPA',
           exams: Array.isArray(data.exams) ? data.exams : (data.exams ? String(data.exams).split(',').map(e => e.trim()) : ['CAT', 'MAT']),
           brochure_url: data.brochure_url || '#',
-          website: data.website || 'https://www.careerwithmohit.online',
+          website: data.website || 'https://careerwithmohit.online',
           top_recruiters: Array.isArray(data.top_recruiters) ? data.top_recruiters : (data.top_recruiters ? String(data.top_recruiters).split(',').map(r => r.trim()) : ['Deloitte', 'KPMG']),
           specialization: data.specialization || '',
           cutoff: data.cutoff || '',

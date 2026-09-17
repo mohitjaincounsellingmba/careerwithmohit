@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "Type your case study name and get a structured MBA-grade solution. Features include SWOT analysis, problem identification, and strategic recommendations for PGDM students.",
   keywords: ["mba case study generator", "pgdm case solution", "management case analysis tool", "free mba tools", "case study solver", "career with mohit"],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools/case-study-generator',
+    canonical: 'https://careerwithmohit.online/tools/case-study-generator/',
   },
   openGraph: {
     title: "MBA Case Study Solution Generator | CareerWithMohit",
     description: "Generate structured MBA-grade solutions, SWOT analysis, and strategic recommendations for business case studies.",
-    url: "https://www.careerwithmohit.online/tools/case-study-generator",
+    url: "https://careerwithmohit.online/tools/case-study-generator/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -56,7 +56,7 @@ export default function CaseStudyGeneratorPage() {
         "@context": "https://schema.org",
         "@type": "WebApplication",
         "name": "MBA Case Study Solution Generator",
-        "url": "https://www.careerwithmohit.online/tools/case-study-generator",
+        "url": "https://careerwithmohit.online/tools/case-study-generator",
         "applicationCategory": "EducationalApplication",
         "operatingSystem": "All",
         "offers": {

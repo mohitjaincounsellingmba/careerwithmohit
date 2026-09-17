@@ -16,13 +16,13 @@ export const metadata: Metadata = {
     'mba admission 2027', 'pgdm admission 2027', 'degree admission 2027'
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools',
+    canonical: 'https://careerwithmohit.online/tools/',
   },
   openGraph: {
     title: 'Free Online Tools Hub: Converters & Calculators | CareerWithMohit',
     description: 'Access 20+ free tools: file converters, exam calculators, CBT mock tests, and college predictors.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools',
+    url: 'https://careerwithmohit.online/tools/',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -130,7 +130,7 @@ export default function ToolsHubPage() {
     "@type": "CollectionPage",
     "name": "Free Higher Education Tools and Calculators Hub",
     "description": "20+ free online educational calculators, CBT mock test platforms, and file utilities.",
-    "url": "https://www.careerwithmohit.online/tools"
+    "url": "https://careerwithmohit.online/tools"
   };
 
   const breadcrumbSchema = {
@@ -141,13 +141,13 @@ export default function ToolsHubPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online",
+        "item": "https://careerwithmohit.online",
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Tools",
-        "item": "https://www.careerwithmohit.online/tools",
+        "item": "https://careerwithmohit.online/tools",
       },
     ],
   };

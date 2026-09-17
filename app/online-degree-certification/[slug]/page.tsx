@@ -6,7 +6,7 @@ import OnlineDegreeClient from '@/components/OnlineDegreeClient';
 import OnlineDegreeLeadForm from '@/components/OnlineDegreeLeadForm';
 import { COLLEGES } from '@/data/onlineColleges';
 
-const BASE_URL = 'https://www.careerwithmohit.online';
+const BASE_URL = 'https://careerwithmohit.online';
 const PARENT_PATH = '/online-degree-certification';
 
 // ── Course SEO & Copy Configurations ──────────────────────────────────────────
@@ -547,13 +547,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
           url: PAGE_URL,
           siteName: 'CareerWithMohit',
           type: 'website',
-          images: [{ url: 'https://www.careerwithmohit.online/og-image.webp', width: 1200, height: 630, alt: title }],
+          images: [{ url: 'https://careerwithmohit.online/og-image.webp', width: 1200, height: 630, alt: title }],
         },
         twitter: {
           card: 'summary_large_image',
           title,
           description: desc,
-          images: ['https://www.careerwithmohit.online/og-image.webp'],
+          images: ['https://careerwithmohit.online/og-image.webp'],
         }
       };
     }
@@ -575,13 +575,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         url: PAGE_URL,
         siteName: 'CareerWithMohit',
         type: 'website',
-        images: [{ url: 'https://www.careerwithmohit.online/og-image.webp', width: 1200, height: 630, alt: title }],
+        images: [{ url: 'https://careerwithmohit.online/og-image.webp', width: 1200, height: 630, alt: title }],
       },
       twitter: {
         card: 'summary_large_image',
         title,
         description: desc,
-        images: ['https://www.careerwithmohit.online/og-image.webp'],
+        images: ['https://careerwithmohit.online/og-image.webp'],
       }
     };
   }

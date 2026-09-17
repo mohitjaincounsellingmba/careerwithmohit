@@ -10,12 +10,12 @@ export const metadata: Metadata = {
     "semester credit calculator", "free student calculators 2027"
   ],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/tools/academic-calculators",
+    canonical: "https://careerwithmohit.online/tools/academic-calculators/",
   },
   openGraph: {
     title: "Academic Calculators | CGPA to Percentage & SGPA Calculator | CareerWithMohit",
     description: "Free student calculators: Convert CGPA to percentage, compute SGPA to CGPA, and map university letter grades to percentages.",
-    url: "https://www.careerwithmohit.online/tools/academic-calculators",
+    url: "https://careerwithmohit.online/tools/academic-calculators/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -41,7 +41,7 @@ export default function AcademicCalculatorsPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "Academic Calculators (CGPA, SGPA & Grade Converter)",
-    "url": "https://www.careerwithmohit.online/tools/academic-calculators",
+    "url": "https://careerwithmohit.online/tools/academic-calculators",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {
@@ -83,19 +83,19 @@ export default function AcademicCalculatorsPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online",
+        "item": "https://careerwithmohit.online",
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Tools",
-        "item": "https://www.careerwithmohit.online/tools",
+        "item": "https://careerwithmohit.online/tools",
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Academic Calculators",
-        "item": "https://www.careerwithmohit.online/tools/academic-calculators",
+        "item": "https://careerwithmohit.online/tools/academic-calculators",
       },
     ],
   };

@@ -34,8 +34,8 @@ function automateBacklinks() {
                         content.includes('Explore Our Free Online Mock Test Series') ||
                         content.includes('(/mock-tests)') ||
                         content.includes('(/tools/mock-tests)') ||
-                        content.includes('(https://www.careerwithmohit.online/tools/mock-tests)') ||
-                        content.includes('(https://www.careerwithmohit.online/mock-tests)');
+                        content.includes('(https://careerwithmohit.online/tools/mock-tests)') ||
+                        content.includes('(https://careerwithmohit.online/mock-tests)');
 
     if (hasBacklink) {
       skippedCount++;

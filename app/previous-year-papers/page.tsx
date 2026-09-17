@@ -7,12 +7,12 @@ export const metadata: Metadata = {
   description: 'Download free authentic previous year question papers with answer keys and solutions for CAT, XAT, NMAT, SNAP, CMAT, and MAH MBA CET.',
   keywords: ['previous year papers', 'CAT papers PDF', 'NMAT question papers', 'XAT previous papers', 'SNAP question papers', 'CMAT papers with solutions'],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/previous-year-papers',
+    canonical: 'https://careerwithmohit.online/previous-year-papers/',
   },
   openGraph: {
     title: 'Previous Year Question Papers PDF | CAT, XAT, NMAT, SNAP | CareerWithMohit',
     description: 'Access and download official previous year papers with solutions for top MBA entrance exams in India.',
-    url: 'https://www.careerwithmohit.online/previous-year-papers',
+    url: 'https://careerwithmohit.online/previous-year-papers',
     siteName: 'CareerWithMohit',
     type: 'website',
     locale: 'en_IN',
@@ -32,7 +32,7 @@ export default function PreviousYearPapersPage() {
     "@type": "CollectionPage",
     "name": "MBA Entrance Exam Previous Year Papers Library",
     "description": "Download free official question papers and answer keys for CAT, XAT, SNAP, NMAT, CMAT, and MAH CET.",
-    "url": "https://www.careerwithmohit.online/previous-year-papers",
+    "url": "https://careerwithmohit.online/previous-year-papers",
     "mainEntity": {
       "@type": "ItemList",
       "itemListElement": [
@@ -40,43 +40,43 @@ export default function PreviousYearPapersPage() {
           "@type": "ListItem",
           "position": 1,
           "name": "CAT Previous Year Papers",
-          "url": "https://www.careerwithmohit.online/resources/cat"
+          "url": "https://careerwithmohit.online/resources/cat"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "XAT Previous Year Papers",
-          "url": "https://www.careerwithmohit.online/resources/xat"
+          "url": "https://careerwithmohit.online/resources/xat"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "SNAP Previous Year Papers",
-          "url": "https://www.careerwithmohit.online/resources/snap"
+          "url": "https://careerwithmohit.online/resources/snap"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "NMAT Previous Year Papers",
-          "url": "https://www.careerwithmohit.online/resources/nmat"
+          "url": "https://careerwithmohit.online/resources/nmat"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "MAH CET MBA Previous Year Papers",
-          "url": "https://www.careerwithmohit.online/resources/mah-mba-cet"
+          "url": "https://careerwithmohit.online/resources/mah-mba-cet"
         },
         {
           "@type": "ListItem",
           "position": 6,
           "name": "CMAT Previous Year Papers",
-          "url": "https://www.careerwithmohit.online/resources/cmat"
+          "url": "https://careerwithmohit.online/resources/cmat"
         },
         {
           "@type": "ListItem",
           "position": 7,
           "name": "CUET PG MBA Previous Year Papers",
-          "url": "https://www.careerwithmohit.online/resources/cuet-pg"
+          "url": "https://careerwithmohit.online/resources/cuet-pg"
         }
       ]
     }
@@ -90,13 +90,13 @@ export default function PreviousYearPapersPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online",
+        "item": "https://careerwithmohit.online",
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Previous Year Papers",
-        "item": "https://www.careerwithmohit.online/previous-year-papers",
+        "item": "https://careerwithmohit.online/previous-year-papers",
       },
     ],
   };

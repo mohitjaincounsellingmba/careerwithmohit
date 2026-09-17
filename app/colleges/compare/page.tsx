@@ -14,12 +14,12 @@ export const metadata = {
     "college comparison tool india",
     "mba fees placement comparison 2027"
   ],
-  alternates: { canonical: "https://www.careerwithmohit.online/colleges/compare" },
+  alternates: { canonical: "https://careerwithmohit.online/colleges/compare/" },
   openGraph: {
     title: "Compare Top Colleges 2027: Fees & Placements | CareerWithMohit",
     description: "Compare fee structures, average placement records, rankings, and cutoffs side-by-side for top MBA, PGDM, B.Tech, and BBA colleges in India for 2027 admission.",
     type: "website",
-    url: "https://www.careerwithmohit.online/colleges/compare",
+    url: "https://careerwithmohit.online/colleges/compare/",
     siteName: "CareerWithMohit",
     images: [
       {
@@ -43,7 +43,7 @@ export default function ComparePage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "Higher Education College Compare Engine",
-    "url": "https://www.careerwithmohit.online/colleges/compare",
+    "url": "https://careerwithmohit.online/colleges/compare",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {

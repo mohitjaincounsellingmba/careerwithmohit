@@ -5,12 +5,12 @@ export const metadata: Metadata = {
   title: "Terms and Conditions | CareerWithMohit",
   description: "Read the terms and conditions for using CareerWithMohit's career counselling and consulting services.",
   alternates: {
-    canonical: "https://www.careerwithmohit.online/terms",
+    canonical: "https://careerwithmohit.online/terms/",
   },
   openGraph: {
     title: "Terms and Conditions | CareerWithMohit",
     description: "Terms and conditions for CareerWithMohit counselling and admissions guidance services.",
-    url: "https://www.careerwithmohit.online/terms",
+    url: "https://careerwithmohit.online/terms/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -29,7 +29,7 @@ export default function TermsAndConditions() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Terms and Conditions - CareerWithMohit",
-    "url": "https://www.careerwithmohit.online/terms",
+    "url": "https://careerwithmohit.online/terms",
     "description": "Terms of service and user agreements for CareerWithMohit."
   };
 

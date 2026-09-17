@@ -13,13 +13,13 @@ export const metadata: Metadata = {
     'PUMBA MAT cutoff', 'Welingkar MAT cutoff', 'BIMTECH MAT cutoff'
   ],
   alternates: {
-    canonical: '/tools/mat-mock-test',
+    canonical: '/tools/mat-mock-test/',
   },
   openGraph: {
     title: 'Free MAT Mock Test 2026/27 | Sept, Dec, Feb & May MAT CBT Practice',
     description: '150 Questions, 120 Minutes, 5 Timed Sections with Composite Score Predictor out of 800 and Detailed Step-by-Step Solutions.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/mat-mock-test',
+    url: 'https://careerwithmohit.online/tools/mat-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -67,19 +67,19 @@ export default function MatMockTestToolPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.careerwithmohit.online/"
+            "item": "https://careerwithmohit.online/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Mock Tests",
-            "item": "https://www.careerwithmohit.online/mock-tests"
+            "item": "https://careerwithmohit.online/mock-tests"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MAT Mock Test",
-            "item": "https://www.careerwithmohit.online/tools/mat-mock-test"
+            "item": "https://careerwithmohit.online/tools/mat-mock-test"
           }
         ]
       }

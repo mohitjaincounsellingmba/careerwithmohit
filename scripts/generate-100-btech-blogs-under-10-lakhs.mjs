@@ -229,7 +229,7 @@ Source: Shiksha.com
 
 ## 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium Engineering Mock Test Series 2026 (JEE Main, BITSAT, VITEEE Prep)](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Engineering Mock Test Series 2026 (JEE Main, BITSAT, VITEEE Prep)](https://careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

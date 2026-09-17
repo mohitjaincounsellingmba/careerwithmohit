@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/cuet-pg-mba-predictor',
+    canonical: '/tools/cuet-pg-mba-predictor/',
   },
     title: "CUET PG 2026 MBA College Predictor | Which University Will I Get?",
     description: "Free CUET PG 2026 MBA college predictor. Estimate your best university based on your raw score. Check cutoffs for TISS, BHU, DU, JNU and top Central Universities.",

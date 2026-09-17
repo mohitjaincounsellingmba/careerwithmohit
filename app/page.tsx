@@ -98,12 +98,12 @@ export const metadata: Metadata = {
     "Noida", "Ghaziabad", "Pune", "Mumbai", "Bangalore", "Jaipur", "Delhi NCR"
   ],
   alternates: {
-    canonical: "https://www.careerwithmohit.online",
+    canonical: "https://careerwithmohit.online/",
   },
   openGraph: {
     title: "Mohit Jain | MBA & PGDM Admissions & Career Counselling Expert 2027",
     description: "Transform your career with expert guidance from Mohit Jain. Specializing in MBA 2027, PGDM 2027, Online Degrees, and university admissions coaching.",
-    url: "https://www.careerwithmohit.online",
+    url: "https://careerwithmohit.online/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",

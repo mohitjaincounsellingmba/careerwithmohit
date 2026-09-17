@@ -25,7 +25,7 @@ function generatePdf(title, subtitle, slot, filepath) {
 0 -25 Td
 (For detailed solutions, video tutorials, and personalized mentorship,) Tj
 0 -20 Td
-(visit: https://www.careerwithmohit.online) Tj
+(visit: https://careerwithmohit.online) Tj
 0 -40 Td
 (Instructions:) Tj
 0 -20 Td

@@ -18,12 +18,12 @@ export const metadata = {
     "degree admission 2027"
   ],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/inquiry",
+    canonical: "https://careerwithmohit.online/inquiry/",
   },
   openGraph: {
     title: "Contact Mohit Jain | Free Career & Admission Guidance | CareerWithMohit",
     description: "Get 1-on-1 career counselling, profile evaluation, and MBA admission mentoring from Mohit Jain.",
-    url: "https://www.careerwithmohit.online/inquiry",
+    url: "https://careerwithmohit.online/inquiry/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -74,12 +74,12 @@ export default function InquiryPage() {
     "@type": "ContactPage",
     "name": "Admission Inquiry & Profile Evaluation",
     "description": "Form to request admission guidance and profile evaluation from Mohit Jain Career Counselling.",
-    "url": "https://www.careerwithmohit.online/inquiry",
+    "url": "https://careerwithmohit.online/inquiry",
     "mainEntity": {
       "@type": "Organization",
       "name": "CareerWithMohit",
-      "url": "https://www.careerwithmohit.online",
-      "logo": "https://www.careerwithmohit.online/logo.webp",
+      "url": "https://careerwithmohit.online",
+      "logo": "https://careerwithmohit.online/logo.webp",
       "contactPoint": {
         "@type": "ContactPoint",
         "telephone": "+91-9560020771",

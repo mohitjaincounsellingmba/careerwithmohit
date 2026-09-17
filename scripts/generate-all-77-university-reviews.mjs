@@ -2353,7 +2353,7 @@ Navigating college cutoffs, fee structures, and course specializations can be ch
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](https://careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 `;
 
     fs.writeFileSync(filePath, markdownContent, 'utf8');

@@ -227,7 +227,7 @@ Source: Shiksha.com
 
 ## 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026 (CUET/IPU CET Prep)](https://www.careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026 (CUET/IPU CET Prep)](https://careerwithmohit.online/tools/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

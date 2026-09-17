@@ -40,13 +40,13 @@ export const metadata: Metadata = {
     'kotak kanya scholarship'
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/scholarships-2026',
+    canonical: 'https://careerwithmohit.online/scholarships-2026/',
   },
   openGraph: {
     title: 'Top Scholarships 2027-2028: National & Global Funding | CareerWithMohit',
     description: 'Explore verified scholarships for Indian students: MBA, B.Tech, Medical, and Study Abroad grants with audited deadlines.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/scholarships-2026',
+    url: 'https://careerwithmohit.online/scholarships-2026',
     siteName: 'CareerWithMohit',
     locale: 'en_IN',
     images: [
@@ -72,7 +72,7 @@ export default function ScholarshipsPage() {
     "@type": "CollectionPage",
     "name": "Top Indian & International Scholarships 2027-2028",
     "description": "Complete list of government, corporate, MBA, and merit scholarships for Indian students.",
-    "url": "https://www.careerwithmohit.online/scholarships-2026",
+    "url": "https://careerwithmohit.online/scholarships-2026",
     "mainEntity": {
       "@type": "ItemList",
       "itemListElement": ALL_SCHOLARSHIPS.map((s, index) => ({
@@ -96,13 +96,13 @@ export default function ScholarshipsPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online",
+        "item": "https://careerwithmohit.online",
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Scholarships",
-        "item": "https://www.careerwithmohit.online/scholarships-2026",
+        "item": "https://careerwithmohit.online/scholarships-2026",
       },
     ],
   };

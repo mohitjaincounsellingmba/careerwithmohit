@@ -14,7 +14,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/xat-score-calculator-2027',
+    canonical: '/tools/xat-score-calculator-2027/',
   },
   title: "XAT Score Calculator 2027 – Predict Percentile & Expected Score",
   description:

@@ -24,13 +24,13 @@ export async function generateMetadata({ params }: { params: Promise<{ examSlug:
   const config = EXAM_CONFIGS.find(c => c.slug === resolvedParams.examSlug);
   if (!config) return {};
   
-  const pageUrl = `https://www.careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}`;
+  const pageUrl = `https://careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}`;
   return {
     title: config.seoTitle,
     description: config.seoDescription,
     keywords: config.keywords || [],
     alternates: {
-      canonical: `/tools/mock-test/${resolvedParams.examSlug}`,
+      canonical: `/tools/mock-test/${resolvedParams.examSlug}/`,
     },
     openGraph: {
       title: config.seoTitle,
@@ -95,19 +95,19 @@ export default async function ExamMockTestPage({
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.careerwithmohit.online/"
+            "item": "https://careerwithmohit.online/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Mock Tests",
-            "item": "https://www.careerwithmohit.online/mock-tests"
+            "item": "https://careerwithmohit.online/mock-tests"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": `${config.name} Mock Test`,
-            "item": `https://www.careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}`
+            "item": `https://careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}`
           }
         ]
       }

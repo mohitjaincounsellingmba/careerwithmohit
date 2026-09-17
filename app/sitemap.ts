@@ -9,7 +9,7 @@ import { COLLEGES } from '@/data/onlineColleges';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.careerwithmohit.online';
+  const baseUrl = 'https://careerwithmohit.online';
 
   // Static routes
   const routes = [
@@ -142,8 +142,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/mba-pgdm-admissions-by-region',
     '/mba-admissions-by-region',
   ].map((route) => ({
-    url: `${baseUrl}${route}`,
-    lastModified: new Date(),
+    url: route === '' ? `${baseUrl}/` : `${baseUrl}${route}/`,
+    lastModified: new Date('2026-09-17T00:00:00.000Z'),
     changeFrequency: 'weekly' as const,
     priority:
       route === ''
@@ -166,7 +166,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const isMockTestBlog = post.slug.includes('mock-test') || post.slug.includes('mock');
 
     return {
-      url: `${baseUrl}/blog/${post.slug}`,
+      url: `${baseUrl}/blog/${post.slug}/`,
       lastModified: postDate,
       changeFrequency: isMockTestBlog ? ('weekly' as const) : (isRecent ? ('monthly' as const) : ('yearly' as const)),
       priority: isMockTestBlog ? 0.9 : (isRecent ? 0.8 : 0.3),
@@ -180,25 +180,32 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const collegeFiles = fs.readdirSync(collegesDir);
     collegeRoutes = collegeFiles
       .filter((file) => file.endsWith('.md'))
-      .map((file) => ({
-        url: `${baseUrl}/colleges/${file.replace('.md', '')}`,
-        lastModified: new Date(),
-        changeFrequency: 'monthly' as const,
-        priority: 0.8,
-      }));
+      .map((file) => {
+        let mtime = new Date('2026-09-10T00:00:00.000Z');
+        try {
+          const stat = fs.statSync(path.join(collegesDir, file));
+          mtime = stat.mtime;
+        } catch {}
+
+        return {
+          url: `${baseUrl}/colleges/${file.replace('.md', '')}/`,
+          lastModified: mtime,
+          changeFrequency: 'monthly' as const,
+          priority: 0.8,
+        };
+      });
   } catch {
     // colleges directory not found, skip
   }
 
   // Dynamic generic mock tests
-  // Utilizing the mocked config array to scale dynamic routes correctly
   const { EXAM_CONFIGS } = require('@/lib/mock-test-data');
   const customStaticSlugs = ['cat', 'nmat', 'bitsat', 'jee-main', 'jee-advanced', 'atma', 'mhcet'];
   const examRoutes = EXAM_CONFIGS
     .filter((config: any) => !customStaticSlugs.includes(config.slug))
     .map((config: any) => ({
-      url: `${baseUrl}/tools/mock-test/${config.slug}`,
-      lastModified: new Date(),
+      url: `${baseUrl}/tools/mock-test/${config.slug}/`,
+      lastModified: new Date('2026-09-15T00:00:00.000Z'),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     }));
@@ -206,24 +213,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic exam resources routes
   const examSlugs = ['cat', 'xat', 'cmat', 'snap', 'nmat', 'mah-mba-cet', 'cuet-pg'];
   const resourceRoutes = examSlugs.map((exam) => ({
-    url: `${baseUrl}/resources/${exam}`,
-    lastModified: new Date(),
+    url: `${baseUrl}/resources/${exam}/`,
+    lastModified: new Date('2026-09-15T00:00:00.000Z'),
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
 
   // Dynamic abroad education college routes
   const abroadRoutes = ABROAD_COLLEGES.map((college) => ({
-    url: `${baseUrl}/abroad-education/${generateCollegeSlug(college.name, college.location)}`,
-    lastModified: new Date(),
+    url: `${baseUrl}/abroad-education/${generateCollegeSlug(college.name, college.location)}/`,
+    lastModified: new Date('2026-09-15T00:00:00.000Z'),
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
 
-  // Dynamic online university hubs routes (Case C)
+  // Dynamic online university hubs routes
   const onlineUniversityRoutes = COLLEGES.map((c) => ({
-    url: `${baseUrl}/online-degree-certification/${c.universitySlug}`,
-    lastModified: new Date(),
+    url: `${baseUrl}/online-degree-certification/${c.universitySlug}/`,
+    lastModified: new Date('2026-09-16T00:00:00.000Z'),
     changeFrequency: 'weekly' as const,
     priority: 0.8,
   }));
@@ -238,3 +245,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...onlineUniversityRoutes,
   ];
 }
+

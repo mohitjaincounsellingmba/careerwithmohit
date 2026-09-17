@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 
-const HOST = 'www.careerwithmohit.online';
+const HOST = 'careerwithmohit.online';
 const BASE_URL = `https://${HOST}`;
 const KEY = '85b9671d18ce4266a1a1f5926ec037c8';
 const KEY_LOCATION = `${BASE_URL}/${KEY}.txt`;
@@ -98,14 +98,14 @@ const coreRoutes = [
   '/colleges/mba-colleges-ahmedabad',
   '/colleges/mba-colleges-jaipur',
   ...onlineDegreeRoutes
-].map(r => `${BASE_URL}${r}`);
+].map(r => r === '' ? `${BASE_URL}/` : `${BASE_URL}${r}/`);
 
 // 2. Discover college profiles
 const collegesDir = path.join(process.cwd(), 'colleges');
 let collegeUrls = [];
 if (fs.existsSync(collegesDir)) {
   const collegeFiles = fs.readdirSync(collegesDir).filter(f => f.endsWith('.md'));
-  collegeUrls = collegeFiles.map(f => `${BASE_URL}/colleges/${f.replace('.md', '')}`);
+  collegeUrls = collegeFiles.map(f => `${BASE_URL}/colleges/${f.replace('.md', '')}/`);
 }
 
 // 3. Discover recent and top blog posts
@@ -120,7 +120,7 @@ if (fs.existsSync(postsDir)) {
     return { file: f, mtime: stat.mtime };
   }).sort((a, b) => b.mtime - a.mtime);
 
-  blogUrls = postsWithStats.map(p => `${BASE_URL}/blog/${p.file.replace('.md', '')}`);
+  blogUrls = postsWithStats.map(p => `${BASE_URL}/blog/${p.file.replace('.md', '')}/`);
 }
 
 // Combine all unique URLs

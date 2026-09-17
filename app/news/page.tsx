@@ -39,13 +39,13 @@ export const metadata = {
     "AICTE PGDM news"
   ],
   alternates: {
-    canonical: "https://www.careerwithmohit.online/news",
+    canonical: "https://careerwithmohit.online/news/",
   },
   openGraph: {
     title: "Latest Education & Career News 2026-2027 | CareerWithMohit",
     description:
       "Stay informed with real-time higher education updates, exam notifications, and admission alerts.",
-    url: "https://www.careerwithmohit.online/news",
+    url: "https://careerwithmohit.online/news/",
     siteName: "CareerWithMohit",
     type: "website",
     locale: "en_IN",
@@ -76,13 +76,13 @@ export default function NewsPage() {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://www.careerwithmohit.online/",
+        item: "https://careerwithmohit.online/",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "News",
-        item: "https://www.careerwithmohit.online/news",
+        item: "https://careerwithmohit.online/news/",
       },
     ],
   };
@@ -93,7 +93,7 @@ export default function NewsPage() {
     name: "Education & Career News Updates 2026-2027",
     description:
       "Latest education news, admission alerts, exam notifications, and career growth insights.",
-    url: "https://www.careerwithmohit.online/news",
+    url: "https://careerwithmohit.online/news/",
     mainEntity: {
       "@type": "ItemList",
       itemListElement: NEWS_ITEMS.map((item, index) => ({
@@ -104,7 +104,7 @@ export default function NewsPage() {
           headline: item.title,
           description: item.excerpt,
           datePublished: item.date,
-          url: `https://www.careerwithmohit.online${item.link}`,
+          url: `https://careerwithmohit.online${item.link}`,
         },
       })),
     },

@@ -89,7 +89,7 @@ export const metadata = {
     'placement support', 'abroad education counselling', 'Mohit Jain services'
   ],
   alternates: {
-    canonical: "/services",
+    canonical: "/services/",
   },
   openGraph: {
     title: "MBA & B.Tech Career Counselling & Admission Services | CareerWithMohit",
@@ -99,7 +99,7 @@ export const metadata = {
     siteName: "CareerWithMohit",
     images: [
       {
-        url: "https://www.careerwithmohit.online/og-image.webp",
+        url: "https://careerwithmohit.online/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Career Counselling Services - CareerWithMohit",
@@ -110,7 +110,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "MBA & B.Tech Career Counselling Services | CareerWithMohit",
     description: "Expert career counselling for MBA/PGDM 2027, B.Tech, online degrees, and interview prep.",
-    images: ["https://www.careerwithmohit.online/og-image.webp"],
+    images: ["https://careerwithmohit.online/og-image.webp"],
   },
 };
 
@@ -122,9 +122,9 @@ export default function ServicesPage() {
     "provider": {
       "@type": "LocalBusiness",
       "name": "CareerWithMohit",
-      "url": "https://www.careerwithmohit.online",
-      "logo": "https://www.careerwithmohit.online/logo.webp",
-      "image": "https://www.careerwithmohit.online/og-image.webp",
+      "url": "https://careerwithmohit.online",
+      "logo": "https://careerwithmohit.online/logo.webp",
+      "image": "https://careerwithmohit.online/og-image.webp",
       "telephone": "+91-9560020771",
       "priceRange": "$$",
       "address": {

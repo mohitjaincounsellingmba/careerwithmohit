@@ -18,13 +18,13 @@ export const metadata: Metadata = {
     "CUET 2026 expected cut-off for top universities"
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/calculator/cuet-ug-2026',
+    canonical: 'https://careerwithmohit.online/calculator/cuet-ug-2026/',
   },
   openGraph: {
     title: "NTA CUET UG 2026 Score Calculator & Predictor | CareerWithMohit",
     description: "Calculate your CUET UG raw score instantly. Predict percentile and check admission chances for top central universities like DU and BHU.",
     type: "website",
-    url: "https://www.careerwithmohit.online/calculator/cuet-ug-2026",
+    url: "https://careerwithmohit.online/calculator/cuet-ug-2026/",
     siteName: "CareerWithMohit",
     locale: "en_IN",
     images: [{ url: "/og-image.webp", width: 1200, height: 630, alt: "CUET UG Score Calculator" }],
@@ -42,7 +42,7 @@ export default function CuetUgCalculatorPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "CUET UG Score & Percentile Calculator",
-    "url": "https://www.careerwithmohit.online/calculator/cuet-ug-2026",
+    "url": "https://careerwithmohit.online/calculator/cuet-ug-2026",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {

@@ -55,7 +55,7 @@ export function getCollegesForGeoHub(hub: GeoMbaHub): CollegeMetadata[] {
           lowest_placement: "₹5.50 LPA",
           exams: ["CAT", "MAT", "CMAT", "XAT"],
           brochure_url: "#",
-          website: "https://www.careerwithmohit.online",
+          website: "https://careerwithmohit.online",
           top_recruiters: item.topRecruiters || ["Deloitte", "KPMG", "ICICI Bank", "Amazon"]
         });
       }

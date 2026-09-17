@@ -3182,5 +3182,5 @@ export const CERTIFICATE_SIGNATORY = {
   name: "Mohit Jain",
   role: "Founder & Career Mentor",
   credentials: "IIM Bangalore & FMS Alum • CareerWithMohit Advisory",
-  verificationBaseUrl: "https://www.careerwithmohit.online/skill-assessment-certificate"
+  verificationBaseUrl: "https://careerwithmohit.online/skill-assessment-certificate"
 };

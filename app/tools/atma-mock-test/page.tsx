@@ -15,13 +15,13 @@ export const metadata: Metadata = {
     'mba admission 2026', 'pgdm admission 2026'
   ],
   alternates: {
-    canonical: '/tools/atma-mock-test',
+    canonical: '/tools/atma-mock-test/',
   },
   openGraph: {
     title: 'Free ATMA Mock Test 2026/27 | Official 180-Question CBT Practice',
     description: 'Master the ATMA exam with our realistic mock tool. Experience 180 questions with sectional timers and a percentile predictor.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/atma-mock-test',
+    url: 'https://careerwithmohit.online/tools/atma-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -82,19 +82,19 @@ export default function AtmaMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online"
+        "item": "https://careerwithmohit.online"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Tools",
-        "item": "https://www.careerwithmohit.online/tools"
+        "item": "https://careerwithmohit.online/tools"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "ATMA Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/atma-mock-test"
+        "item": "https://careerwithmohit.online/tools/atma-mock-test"
       }
     ]
   };

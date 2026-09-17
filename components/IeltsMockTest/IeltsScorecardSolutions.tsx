@@ -158,12 +158,12 @@ export function IeltsScorecardSolutions({
   }, [answers, sectionFilter, statusFilter]);
 
   const handleShareWhatsApp = () => {
-    const text = `🎯 I scored an official Band ${analytics.overallBand.toFixed(1)} (${analytics.cefrLevel}) in the IELTS Academic Practice Mock on CareerWithMohit!\n\n🎧 Listening: Band ${analytics.listeningBand.toFixed(1)} (${analytics.listeningCorrect}/40)\n📖 Reading: Band ${analytics.readingBand.toFixed(1)} (${analytics.readingCorrect}/40)\n\nTake your free IELTS Mock Test here: https://www.careerwithmohit.online/tools/mock-test/ielts`;
+    const text = `🎯 I scored an official Band ${analytics.overallBand.toFixed(1)} (${analytics.cefrLevel}) in the IELTS Academic Practice Mock on CareerWithMohit!\n\n🎧 Listening: Band ${analytics.listeningBand.toFixed(1)} (${analytics.listeningCorrect}/40)\n📖 Reading: Band ${analytics.readingBand.toFixed(1)} (${analytics.readingCorrect}/40)\n\nTake your free IELTS Mock Test here: https://careerwithmohit.online/tools/mock-test/ielts`;
     window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, '_blank');
   };
 
   const handleShareLinkedIn = () => {
-    const url = 'https://www.careerwithmohit.online/tools/mock-test/ielts';
+    const url = 'https://careerwithmohit.online/tools/mock-test/ielts';
     window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`, '_blank');
   };
 

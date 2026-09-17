@@ -11,12 +11,12 @@ export const metadata: Metadata = {
     'image converter online free', 'secure file conversion', 'no upload converter'
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools/file-converter',
+    canonical: 'https://careerwithmohit.online/tools/file-converter/',
   },
   openGraph: {
     title: 'Free Online File Converter | CareerWithMohit',
     description: 'Convert Word, PDF, PNG, JPG, JSON and TXT files instantly — 100% free & private. Files never leave your device.',
-    url: 'https://www.careerwithmohit.online/tools/file-converter',
+    url: 'https://careerwithmohit.online/tools/file-converter',
     siteName: 'CareerWithMohit',
     type: 'website',
     locale: 'en_IN',
@@ -35,7 +35,7 @@ export default function FileConverterPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "Free Online Client-Side File Converter",
-    "url": "https://www.careerwithmohit.online/tools/file-converter",
+    "url": "https://careerwithmohit.online/tools/file-converter",
     "applicationCategory": "UtilitiesApplication",
     "operatingSystem": "All",
     "offers": {

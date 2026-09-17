@@ -6,7 +6,7 @@ import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/jee-main-mock-test',
+    canonical: '/tools/jee-main-mock-test/',
   },
   title: 'Free JEE Main Mock Test 2026 | Full Length PCM Tool',
   description: 'Boost your percentile with our free full-length JEE Main 2026 mock test. 90 questions, 180 minutes, with detailed performance analytics for Physics, Chemistry, and Maths.',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     title: 'Free JEE Main Mock Test 2026 | Performance & Analytics Tool',
     description: 'Master the JEE Main with our advanced mock test tool. Full-length practice paper with detailed analysis and rank predictor for NIT and IIIT admissions.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/jee-main-mock-test',
+    url: 'https://careerwithmohit.online/tools/jee-main-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -70,19 +70,19 @@ export default function JeeMainMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests"
+        "item": "https://careerwithmohit.online/mock-tests"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "JEE Main Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/jee-main-mock-test"
+        "item": "https://careerwithmohit.online/tools/jee-main-mock-test"
       }
     ]
   };

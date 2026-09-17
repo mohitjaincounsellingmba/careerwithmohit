@@ -100,7 +100,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
     const title = `${exam.name} Previous Year Question Papers PDF & Solutions | CareerWithMohit`;
     const description = `${exam.description} Practice with official PDF downloads, topic-wise answer keys, and exam analysis.`;
-    const url = `https://www.careerwithmohit.online/resources/${examKey}`;
+    const url = `https://careerwithmohit.online/resources/${examKey}`;
 
     return {
         title,
@@ -147,7 +147,7 @@ export default async function ResourcePage({ params }: PageProps) {
         "@type": "CollectionPage",
         "name": `${exam.name} Question Papers and Solutions`,
         "description": exam.description,
-        "url": `https://www.careerwithmohit.online/resources/${examKey}`,
+        "url": `https://careerwithmohit.online/resources/${examKey}`,
         "mainEntity": {
             "@type": "ItemList",
             "itemListElement": exam.papers.map((paper, index) => ({
@@ -158,7 +158,7 @@ export default async function ResourcePage({ params }: PageProps) {
                     "name": paper.title,
                     "educationalLevel": "Postgraduate Entrance Exam",
                     "learningResourceType": "Question Paper / Practice Exam",
-                    "url": paper.url.startsWith("http") ? paper.url : `https://www.careerwithmohit.online${paper.url}`,
+                    "url": paper.url.startsWith("http") ? paper.url : `https://careerwithmohit.online${paper.url}`,
                 }
             }))
         }
@@ -172,19 +172,19 @@ export default async function ResourcePage({ params }: PageProps) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://www.careerwithmohit.online",
+                "item": "https://careerwithmohit.online",
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Previous Year Papers",
-                "item": "https://www.careerwithmohit.online/previous-year-papers",
+                "item": "https://careerwithmohit.online/previous-year-papers",
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": exam.name,
-                "item": `https://www.careerwithmohit.online/resources/${examKey}`,
+                "item": `https://careerwithmohit.online/resources/${examKey}`,
             },
         ],
     };

@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     "MBA admission consultation"
   ],
   alternates: {
-    canonical: "/book-session",
+    canonical: "/book-session/",
   },
   openGraph: {
     title: "Book Free Face-to-Face Video Counselling on Google Meet | CareerWithMohit",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://www.careerwithmohit.online/og-image.webp",
+        url: "https://careerwithmohit.online/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Book Free Face-to-Face MBA Counselling Session - Mohit Jain",
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Book Free Face-to-Face Video Counselling on Google Meet | CareerWithMohit",
     description: "Schedule your free 30-minute 1-on-1 face-to-face MBA & career counselling video session with Mohit Jain on Google Meet.",
-    images: ["https://www.careerwithmohit.online/og-image.webp"],
+    images: ["https://careerwithmohit.online/og-image.webp"],
   },
 };
 
@@ -138,7 +138,7 @@ export default function BookSessionPage() {
       "@type": "Person",
       "name": "Mohit Jain",
       "jobTitle": "Chief MBA Admissions Strategist",
-      "url": "https://www.careerwithmohit.online/about"
+      "url": "https://careerwithmohit.online/about"
     },
     "description": "30-minute free online face-to-face counselling session with mentor Mohit Jain on Google Meet for MBA/PGDM college selection, cutoff strategy, and profile review.",
     "offers": {

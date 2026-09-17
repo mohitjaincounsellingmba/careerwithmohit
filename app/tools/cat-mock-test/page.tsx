@@ -23,13 +23,13 @@ export const metadata: Metadata = {
     'mba admission 2026', 'pgdm admission 2026', 'degree admission 2026'
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools/cat-mock-test',
+    canonical: 'https://careerwithmohit.online/tools/cat-mock-test/',
   },
   openGraph: {
     title: 'Free CAT Mock Test 2026 | Best Online IIM Practice Exam',
     description: 'Attempt our free full-length CAT 2026 mock test online. Experience a realistic 68-question exam with sectional 40-minute timers, prediction analytics, & solutions.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/cat-mock-test',
+    url: 'https://careerwithmohit.online/tools/cat-mock-test',
     images: [
       {
         url: '/og-image.webp',
@@ -119,19 +119,19 @@ export default function CatMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests"
+        "item": "https://careerwithmohit.online/mock-tests"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "CAT Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/cat-mock-test"
+        "item": "https://careerwithmohit.online/tools/cat-mock-test"
       }
     ]
   };

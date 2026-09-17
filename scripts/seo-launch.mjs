@@ -45,7 +45,7 @@ console.log('🌟 SEO LAUNCH SEQUENCE COMPLETED SUCCESSFULLY!');
 console.log('========================================================================');
 console.log('Next Recommended Actions:');
 console.log('1. Verify domain in Google Search Console: https://search.google.com/search-console');
-console.log('2. Submit Sitemap in GSC: https://www.careerwithmohit.online/sitemap.xml');
+console.log('2. Submit Sitemap in GSC: https://careerwithmohit.online/sitemap.xml');
 console.log('3. Verify in Bing Webmaster Tools (or auto-import from GSC): https://www.bing.com/webmasters');
 console.log('4. Ensure Google Business Profile for "Mohit Jain Career Counselling" is linked.');
 console.log('========================================================================\n');

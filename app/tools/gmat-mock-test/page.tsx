@@ -6,7 +6,7 @@ import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools/gmat-mock-test',
+    canonical: 'https://careerwithmohit.online/tools/gmat-mock-test/',
   },
   title: 'Free GMAT Focus Edition Mock Test 2026/27 | ISB & Global MBA Prep (64 Questions)',
   description: 'Take our free full-length 64-question GMAT Focus Edition mock test in 135 minutes. Quantitative (21), Verbal (23), and Data Insights (20). Instant scaled score predictor (205-805) and full step-by-step solutions.',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: 'Free GMAT Focus Edition Mock Test 2026/27 | ISB & Global MBA Prep | CareerWithMohit',
     description: 'Take our free full-length 64-question GMAT Focus Edition mock test with instant scaled score predictions and detailed solutions.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/gmat-mock-test',
+    url: 'https://careerwithmohit.online/tools/gmat-mock-test',
     siteName: 'CareerWithMohit',
     images: [{ url: '/og-image.webp', width: 1200, height: 630, alt: 'GMAT Focus Mock Test' }],
   },
@@ -39,7 +39,7 @@ export default function DedicatedGmatMockTestPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "GMAT Focus Edition Full Mock Test",
-    "url": "https://www.careerwithmohit.online/tools/gmat-mock-test",
+    "url": "https://careerwithmohit.online/tools/gmat-mock-test",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {
@@ -58,19 +58,19 @@ export default function DedicatedGmatMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online",
+        "item": "https://careerwithmohit.online",
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests",
+        "item": "https://careerwithmohit.online/mock-tests",
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "GMAT Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/gmat-mock-test",
+        "item": "https://careerwithmohit.online/tools/gmat-mock-test",
       },
     ],
   };

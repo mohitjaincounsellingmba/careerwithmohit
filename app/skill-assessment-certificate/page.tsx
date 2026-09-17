@@ -20,12 +20,12 @@ export const metadata: Metadata = {
     'career with mohit certifications'
   ],
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/skill-assessment-certificate',
+    canonical: 'https://careerwithmohit.online/skill-assessment-certificate/',
   },
   openGraph: {
     title: 'Attempt Skills & Get Certificate | Free Accredited Assessments | CareerWithMohit',
     description: 'Test your competence across 9 high-growth domains: Power BI, Tableau, Six Sigma, SQL, Excel, Digital Marketing, Cyber Security, Cloud, and AI. Negative marking (+1/-0.5), 30 minutes, instant verified PDF certificate.',
-    url: 'https://www.careerwithmohit.online/skill-assessment-certificate',
+    url: 'https://careerwithmohit.online/skill-assessment-certificate',
     siteName: 'CareerWithMohit',
     type: 'website',
     locale: 'en_IN',
@@ -56,7 +56,7 @@ export default function SkillAssessmentCertificatePage() {
     provider: {
       '@type': 'Organization',
       name: 'CareerWithMohit',
-      url: 'https://www.careerwithmohit.online',
+      url: 'https://careerwithmohit.online',
     },
     hasPart: [
       { '@type': 'Question', name: 'Power BI Data Modeling & DAX Assessment' },
@@ -79,19 +79,19 @@ export default function SkillAssessmentCertificatePage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.careerwithmohit.online',
+        item: 'https://careerwithmohit.online',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Resources',
-        item: 'https://www.careerwithmohit.online/resources',
+        item: 'https://careerwithmohit.online/resources',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Attempt Skills & Get Certificate',
-        item: 'https://www.careerwithmohit.online/skill-assessment-certificate',
+        item: 'https://careerwithmohit.online/skill-assessment-certificate',
       },
     ],
   };

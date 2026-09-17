@@ -6,7 +6,7 @@ import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: 'https://www.careerwithmohit.online/tools/xat-mock-test',
+    canonical: 'https://careerwithmohit.online/tools/xat-mock-test/',
   },
   title: 'Free XAT Mock Test 2027 | XLRI Decision Making, VALR, QADI & GK Practice (95 Questions)',
   description: 'Take our free full-length 95-question XAT 2027 mock test with 5-choice options, Decision Making caselets, VALR, QA & DI, and GK. Instant XLRI cutoff prediction and full solutions.',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: 'Free XAT Mock Test 2027 | XLRI Jamshedpur Prep | CareerWithMohit',
     description: 'Take our free full-length 95-question XAT mock test with 5-choice options and Decision Making caselets.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/xat-mock-test',
+    url: 'https://careerwithmohit.online/tools/xat-mock-test',
     siteName: 'CareerWithMohit',
     images: [{ url: '/og-image.webp', width: 1200, height: 630, alt: 'XAT Mock Test' }],
   },
@@ -39,7 +39,7 @@ export default function DedicatedXatMockTestPage() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "XAT 2027 Full CBT Mock Test",
-    "url": "https://www.careerwithmohit.online/tools/xat-mock-test",
+    "url": "https://careerwithmohit.online/tools/xat-mock-test",
     "applicationCategory": "EducationalApplication",
     "operatingSystem": "All",
     "offers": {
@@ -58,19 +58,19 @@ export default function DedicatedXatMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online",
+        "item": "https://careerwithmohit.online",
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests",
+        "item": "https://careerwithmohit.online/mock-tests",
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "XAT Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/xat-mock-test",
+        "item": "https://careerwithmohit.online/tools/xat-mock-test",
       },
     ],
   };

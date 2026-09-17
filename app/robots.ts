@@ -37,6 +37,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: '/',
       }
     ],
-    sitemap: 'https://www.careerwithmohit.online/sitemap.xml',
+    sitemap: 'https://careerwithmohit.online/sitemap.xml',
   };
 }

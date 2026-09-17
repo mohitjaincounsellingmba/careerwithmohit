@@ -29,13 +29,13 @@ export function Breadcrumbs() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://www.careerwithmohit.online/"
+                "item": "https://careerwithmohit.online/"
             },
             ...breadcrumbs.map((breadcrumb, index) => ({
                 "@type": "ListItem",
                 "position": index + 2,
                 "name": breadcrumb.label,
-                "item": `https://www.careerwithmohit.online${breadcrumb.href}`
+                "item": `https://careerwithmohit.online${breadcrumb.href}`
             }))
         ]
     };

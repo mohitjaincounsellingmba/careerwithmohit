@@ -6,7 +6,7 @@ import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/jee-advanced-mock-test',
+    canonical: '/tools/jee-advanced-mock-test/',
   },
   title: 'Free IIT JEE Advanced Mock Test 2026 | Paper 1 & 2 Full Length Tool',
   description: 'Practice for the toughest exam in India with our free full-length IIT JEE Advanced 2026 mock test. Experience multi-correct, integer, and matrix-match questions with real-time analysis.',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     title: 'Free IIT JEE Advanced Mock Test 2026 | Simulation & Analytics',
     description: 'Master the JEE Advanced with our advanced CBT mock test interface. Detailed solutions, rank predictor, and syllabus-wise breakdown for Physics, Chemistry, and Mathematics.',
     type: 'website',
-    url: 'https://www.careerwithmohit.online/tools/jee-advanced-mock-test',
+    url: 'https://careerwithmohit.online/tools/jee-advanced-mock-test',
     siteName: 'CareerWithMohit',
     images: [
       {
@@ -83,19 +83,19 @@ export default function JeeAdvancedMockTestPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.careerwithmohit.online/"
+        "item": "https://careerwithmohit.online/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Mock Tests",
-        "item": "https://www.careerwithmohit.online/mock-tests"
+        "item": "https://careerwithmohit.online/mock-tests"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "JEE Advanced Mock Test",
-        "item": "https://www.careerwithmohit.online/tools/jee-advanced-mock-test"
+        "item": "https://careerwithmohit.online/tools/jee-advanced-mock-test"
       }
     ]
   };
