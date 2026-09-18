@@ -116,3 +116,11 @@ Choosing between AI, Cloud, and Data Science specializations can be challenging.
 - 📞 **Helpline**: [+91 95600 20771](tel:+919560020771)
 - 💬 **WhatsApp Consultation**: [Chat with Mohit Jain](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20want%20guidance%20for%20Online%20MCA%20admission)
 - 📅 **Book a Free Session**: [Schedule 1-on-1 Strategic Call](/book-session)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

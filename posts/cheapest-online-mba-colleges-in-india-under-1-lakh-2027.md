@@ -111,3 +111,11 @@ Get unbiased recommendations comparing fee structures, semester installment sche
 - 📞 **Direct Helpline**: [+91 95600 20771](tel:+919560020771)
 - 💬 **WhatsApp Counsellor**: [Chat with Mohit Jain](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20want%20information%20on%20online%20MBA%20under%201%20lakh)
 - 📅 **Book a Free Session**: [Schedule 1-on-1 Consultation](/book-session)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

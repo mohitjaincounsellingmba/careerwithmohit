@@ -134,3 +134,11 @@ Don't risk your money with unapproved universities. Get your profile evaluated b
 - 📞 **Direct Helpline**: [+91 95600 20771](tel:+919560020771)
 - 💬 **WhatsApp Chat**: [Message Mohit Jain Directly](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20have%20doubts%20about%20online%20degree%20validity)
 - 📅 **Book a Free Session**: [1-on-1 Strategic Call](/book-session)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

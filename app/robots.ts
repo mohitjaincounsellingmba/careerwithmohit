@@ -13,14 +13,16 @@ export default function robots(): MetadataRoute.Robots {
       {
         // Explicitly allow AI Search Engines & LLM agents for Generative Engine Optimization (GEO)
         userAgent: [
+          'Googlebot',
+          'Googlebot-Image',
+          'Google-Extended',
+          'GoogleOther',
           'GPTBot',
           'OAI-SearchBot',
           'ChatGPT-User',
           'PerplexityBot',
           'ClaudeBot',
           'anthropic-ai',
-          'Google-Extended',
-          'GoogleOther',
           'Applebot-Extended',
           'Applebot',
           'cohere-ai',

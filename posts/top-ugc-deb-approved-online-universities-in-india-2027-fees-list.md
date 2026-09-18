@@ -128,3 +128,11 @@ Evaluating 40+ online universities can be overwhelming. Get customized universit
 - 📞 **Direct Call**: [+91 95600 20771](tel:+919560020771)
 - 💬 **WhatsApp Consultation**: [Chat with Mohit Jain on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20need%20guidance%20for%20UGC%20online%20degree%20admission)
 - 📅 **Book a Free Session**: [Schedule 1-on-1 Counselling](/book-session)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

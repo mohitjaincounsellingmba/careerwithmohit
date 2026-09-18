@@ -137,3 +137,11 @@ Confused about whether an Online MBA, Executive MBA, or traditional B-School is 
 - 📞 **Direct Call**: [+91 95600 20771](tel:+919560020771)
 - 💬 **WhatsApp Consultation**: [Chat with Mohit Jain on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20am%20confused%20between%20Online%20MBA%20and%20Executive%20MBA)
 - 📅 **Book a Free Session**: [Schedule 1-on-1 Consultation](/book-session)
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
