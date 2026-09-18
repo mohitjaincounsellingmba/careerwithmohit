@@ -1,7 +1,7 @@
 "use client";
 
-import { useState, useMemo, useEffect } from "react";
-import { useSearchParams, useRouter } from 'next/navigation';
+import { useState, useMemo, useEffect, useRef } from "react";
+import { useSearchParams, useRouter, usePathname } from 'next/navigation';
 import Link from "next/link";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CollegeCard } from "@/components/CollegeCard";
@@ -10,7 +10,8 @@ import { MBACollegeGenerator } from "@/components/MBACollegeGenerator";
 import { BBACollegeGenerator } from "@/components/BBACollegeGenerator";
 import { CompareDrawer } from "@/components/CompareDrawer";
 import { BrochureModal } from "@/components/BrochureModal";
-import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, Layers, Check } from "lucide-react";
+import { searchColleges, getSearchSuggestions } from "@/lib/collegeSearch";
+import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, Layers, Check, ArrowRight, BookOpen, Compass, CheckCircle2, AlertCircle } from "lucide-react";
 
 interface TrendingBlog {
   slug: string;
@@ -457,9 +458,13 @@ export const STATE_ENGINEERING_EXPLORER_HUBS = [
 
 export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: CollegeMetadata[]; trendingBlogs?: TrendingBlog[] }) {
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const pathname = usePathname();
+  const searchContainerRef = useRef<HTMLDivElement>(null);
+
   const [comparedColleges, setComparedColleges] = useState<CollegeMetadata[]>([]);
   const [searchQuery, setSearchQuery] = useState("");
-  const searchParams = useSearchParams();
+  const [isSearchFocused, setIsSearchFocused] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState("All Streams");
   const [selectedCourse, setSelectedCourse] = useState("All Courses");
   const [selectedSpecialization, setSelectedSpecialization] = useState("All Specializations");
@@ -500,10 +505,59 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
     router.push(`/colleges/compare?slugs=${slugsStr}`);
   };
 
+  // Sync initial query params from URL
   useEffect(() => {
-    const q = searchParams?.get('search') || '';
+    if (!searchParams) return;
+    const q = searchParams.get('search') || searchParams.get('q') || '';
     if (q) setSearchQuery(q);
+
+    const st = searchParams.get('state');
+    if (st) setSelectedState(st);
+
+    const ct = searchParams.get('city');
+    if (ct) setSelectedCity(ct);
+
+    const cat = searchParams.get('category') || searchParams.get('stream');
+    if (cat) {
+      if (cat.toLowerCase().includes('manage') || cat.toLowerCase() === 'mba') setSelectedCategory('Management');
+      else if (cat.toLowerCase().includes('eng') || cat.toLowerCase() === 'btech') setSelectedCategory('Engineering');
+      else if (cat.toLowerCase().includes('ug')) setSelectedCategory('UG Courses');
+    }
+
+    const crs = searchParams.get('course');
+    if (crs) setSelectedCourse(crs);
+
+    const srt = searchParams.get('sort');
+    if (srt) setSortBy(srt);
   }, [searchParams]);
+
+  // Sync state changes to URL for shareability & SEO deep-links
+  useEffect(() => {
+    const params = new URLSearchParams();
+    if (searchQuery.trim()) params.set('search', searchQuery.trim());
+    if (selectedCategory !== 'All Streams') params.set('category', selectedCategory);
+    if (selectedCourse !== 'All Courses') params.set('course', selectedCourse);
+    if (selectedState !== 'All States') params.set('state', selectedState);
+    if (selectedCity !== 'All Cities') params.set('city', selectedCity);
+    if (sortBy !== 'default') params.set('sort', sortBy);
+
+    const queryStr = params.toString();
+    const newUrl = queryStr ? `${pathname}?${queryStr}` : pathname;
+    if (typeof window !== 'undefined' && window.location.search !== (queryStr ? `?${queryStr}` : '')) {
+      window.history.replaceState(null, '', newUrl);
+    }
+  }, [searchQuery, selectedCategory, selectedCourse, selectedState, selectedCity, sortBy, pathname]);
+
+  // Click outside listener for search autocomplete popover
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (searchContainerRef.current && !searchContainerRef.current.contains(event.target as Node)) {
+        setIsSearchFocused(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
 
   // Specialization options keyed by category
   const specializationMap: Record<string, string[]> = {
@@ -982,15 +1036,26 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
 
   const ownershipTypes = ["All Types", "Public", "Private"];
 
-  const filteredColleges = useMemo(() => {
-    const query = searchQuery.toLowerCase().trim();
-    return colleges.filter(college => {
-      const locInfo = locationMap[college.slug];
-      const matchesSearch = !query || 
-        college.name.toLowerCase().includes(query) ||
-        college.location.toLowerCase().includes(query) ||
-        (college.exams || []).some(exam => exam.toLowerCase().includes(query)) ||
-        college.courses.some(c => c.toLowerCase().includes(query));
+  // Compute live search suggestions for autocomplete
+  const searchSuggestions = useMemo(() => {
+    return getSearchSuggestions(searchQuery, colleges, locationMap, 6);
+  }, [searchQuery, colleges, locationMap]);
+
+  // Scored and filtered college matching
+  const filteredCollegesWithScore = useMemo(() => {
+    const cleanQuery = searchQuery.trim();
+    
+    // If a search query is present, use our intelligent multi-token scoring engine
+    let baseList: { college: CollegeMetadata; score: number }[] = [];
+    if (cleanQuery) {
+      const scoredResults = searchColleges(colleges, cleanQuery, locationMap);
+      baseList = scoredResults;
+    } else {
+      baseList = colleges.map(c => ({ college: c, score: 0 }));
+    }
+
+    return baseList.filter(({ college }) => {
+      const locInfo = locationMap[college.slug] || { state: "Other", city: "Other" };
 
       const matchesCategory = selectedCategory === "All Streams" || college.category === selectedCategory;
 
@@ -1040,16 +1105,15 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
         }
       }
 
-      return matchesSearch && matchesCategory && matchesCourse && matchesSpecialization && matchesState && matchesCity && matchesOwnership && matchesExam && matchesFee && matchesRanking;
+      return matchesCategory && matchesCourse && matchesSpecialization && matchesState && matchesCity && matchesOwnership && matchesExam && matchesFee && matchesRanking;
     });
   }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, colleges, locationMap]);
 
-  useEffect(() => {
-    console.log('Filtered colleges count:', filteredColleges.length);
-  }, [filteredColleges]);
+  const filteredColleges = useMemo(() => {
+    return filteredCollegesWithScore.map(item => item.college);
+  }, [filteredCollegesWithScore]);
 
   useEffect(() => {
-    console.log("Search input changed:", searchQuery);
     setVisibleCount(20);
   }, [searchQuery, selectedCategory, selectedCourse, selectedSpecialization, selectedState, selectedCity, selectedOwnership, selectedExam, selectedFeeRange, selectedRanking, sortBy]);
 
@@ -1063,29 +1127,36 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
       const m = c.ranking.match(/#(\d+)/);
       return m ? parseInt(m[1]) : 999;
     };
-    const list = [...filteredColleges];
+
+    const list = [...filteredCollegesWithScore];
+
     list.sort((a, b) => {
       if (sortBy === "roi") {
-        const roiA = parseLakhs(a.avg_placement) / (parseLakhs(a.fees) || 1);
-        const roiB = parseLakhs(b.avg_placement) / (parseLakhs(b.fees) || 1);
+        const roiA = parseLakhs(a.college.avg_placement) / (parseLakhs(a.college.fees) || 1);
+        const roiB = parseLakhs(b.college.avg_placement) / (parseLakhs(b.college.fees) || 1);
         return roiB - roiA;
       }
       if (sortBy === "avg_placement") {
-        return parseLakhs(b.avg_placement) - parseLakhs(a.avg_placement);
+        return parseLakhs(b.college.avg_placement) - parseLakhs(a.college.avg_placement);
       }
       if (sortBy === "highest_placement") {
-        return parseLakhs(b.highest_placement) - parseLakhs(a.highest_placement);
+        return parseLakhs(b.college.highest_placement) - parseLakhs(a.college.highest_placement);
       }
       if (sortBy === "fees_low") {
-        return parseLakhs(a.fees) - parseLakhs(b.fees);
+        return parseLakhs(a.college.fees) - parseLakhs(b.college.fees);
       }
       if (sortBy === "ranking") {
-        return getRank(a) - getRank(b);
+        return getRank(a.college) - getRank(b.college);
+      }
+      // If default and search query active, sort by relevance score
+      if (searchQuery.trim()) {
+        return b.score - a.score;
       }
       return 0;
     });
-    return list;
-  }, [filteredColleges, sortBy]);
+
+    return list.map(item => item.college);
+  }, [filteredCollegesWithScore, sortBy, searchQuery]);
 
   const visibleColleges = sortedColleges.slice(0, visibleCount);
 
@@ -1234,30 +1305,217 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
             })}
           </div>
 
-          {/* Search Action Bar */}
-          <div className="flex flex-col sm:flex-row gap-3">
-            <div className="relative flex-grow">
-              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 w-5 h-5" />
-              <input
-                type="text"
-                placeholder="Search colleges by name, courses, or exams..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-12 pr-10 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 focus:bg-white transition-all text-xs sm:text-sm font-semibold text-slate-800 placeholder:text-slate-400"
-              />
-              {searchQuery && (
-                <button onClick={() => setSearchQuery("")} className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600">
-                  <X className="w-4 h-4" />
-                </button>
-              )}
+          {/* Search Action Bar with Autocomplete Dropdown */}
+          <div ref={searchContainerRef} className="relative">
+            <div className="flex flex-col sm:flex-row gap-3">
+              <div className="relative flex-grow">
+                <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 w-5 h-5 pointer-events-none" />
+                <input
+                  type="text"
+                  placeholder="Search 770+ colleges by name (e.g. IIM Bangalore, NDIM, FMS, DTU, SIBM), city, course, or exam..."
+                  value={searchQuery}
+                  onChange={(e) => {
+                    setSearchQuery(e.target.value);
+                    setIsSearchFocused(true);
+                  }}
+                  onFocus={() => setIsSearchFocused(true)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter") {
+                      setIsSearchFocused(false);
+                      const el = document.getElementById("college-listings-section");
+                      if (el) el.scrollIntoView({ behavior: "smooth" });
+                    }
+                    if (e.key === "Escape") {
+                      setIsSearchFocused(false);
+                    }
+                  }}
+                  className="w-full pl-12 pr-10 py-3.5 bg-slate-50 border border-slate-200 rounded-2xl focus:outline-none focus:border-blue-600 focus:ring-4 focus:ring-blue-100 focus:bg-white transition-all text-xs sm:text-sm font-semibold text-slate-800 placeholder:text-slate-400 shadow-inner"
+                />
+                {searchQuery && (
+                  <button 
+                    type="button"
+                    onClick={() => {
+                      setSearchQuery("");
+                      setIsSearchFocused(false);
+                    }} 
+                    className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700 bg-slate-200 hover:bg-slate-300 rounded-full p-1 transition-colors cursor-pointer"
+                    title="Clear search"
+                  >
+                    <X className="w-3.5 h-3.5" />
+                  </button>
+                )}
+              </div>
+
+              <button
+                type="button"
+                onClick={() => {
+                  setIsSearchFocused(false);
+                  const el = document.getElementById("college-listings-section");
+                  if (el) el.scrollIntoView({ behavior: "smooth" });
+                }}
+                className="bg-blue-600 hover:bg-blue-700 active:scale-95 text-white font-extrabold text-xs sm:text-sm px-8 py-3.5 rounded-2xl transition-all shadow-md shadow-blue-600/20 cursor-pointer flex items-center justify-center gap-2"
+              >
+                <span>Search</span>
+                <ArrowRight className="w-4 h-4" />
+              </button>
             </div>
 
-            <button
-              type="button"
-              className="bg-blue-600 hover:bg-blue-700 active:scale-95 text-white font-bold text-xs sm:text-sm px-8 py-3 rounded-xl transition-all shadow-sm"
-            >
-              Search
-            </button>
+            {/* Live Autocomplete Popover (Shiksha / Collegedunia format) */}
+            {isSearchFocused && (
+              <div className="absolute left-0 right-0 top-full mt-2 bg-white rounded-2xl shadow-2xl border border-slate-200/90 z-50 overflow-hidden animate-in fade-in slide-in-from-top-2 duration-200 divide-y divide-slate-100">
+                
+                {/* When User is actively typing */}
+                {searchQuery.trim().length > 0 ? (
+                  <>
+                    {/* Matching Colleges List */}
+                    <div className="p-3">
+                      <div className="flex items-center justify-between px-3 py-1.5 text-[11px] font-black uppercase tracking-wider text-slate-400">
+                        <span>Top College Matches ({searchSuggestions.colleges.length})</span>
+                        <span className="text-blue-600 lowercase font-bold">{filteredColleges.length} total results</span>
+                      </div>
+
+                      {searchSuggestions.colleges.length > 0 ? (
+                        <div className="space-y-1 mt-1">
+                          {searchSuggestions.colleges.map((col) => (
+                            <Link
+                              key={col.slug}
+                              href={`/colleges/${col.slug}`}
+                              onClick={() => setIsSearchFocused(false)}
+                              prefetch={false}
+                              className="group flex items-center justify-between gap-3 p-2.5 rounded-xl hover:bg-blue-50/70 transition-all cursor-pointer"
+                            >
+                              <div className="flex items-center gap-3 min-w-0">
+                                <div className="w-9 h-9 rounded-xl bg-slate-100 border border-slate-200 flex items-center justify-center text-xs font-black text-blue-600 shrink-0 group-hover:border-blue-300">
+                                  {col.logo && !col.logo.includes("default") ? (
+                                    <img src={col.logo} alt="" className="w-full h-full object-contain p-1" />
+                                  ) : (
+                                    col.name.charAt(0)
+                                  )}
+                                </div>
+                                <div className="truncate">
+                                  <div className="text-xs sm:text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors truncate">
+                                    {col.name}
+                                  </div>
+                                  <div className="flex items-center gap-2 text-[11px] text-slate-500 mt-0.5">
+                                    <span className="flex items-center gap-1">
+                                      <MapPin className="w-3 h-3 text-slate-400" />
+                                      {col.location}
+                                    </span>
+                                    <span>•</span>
+                                    <span className="text-emerald-600 font-bold">Avg: {col.avg_placement}</span>
+                                  </div>
+                                </div>
+                              </div>
+
+                              <div className="hidden sm:flex items-center gap-2 shrink-0">
+                                <span className="text-[10px] font-extrabold bg-slate-100 text-slate-700 px-2 py-0.5 rounded-md">
+                                  {col.fees}
+                                </span>
+                                <span className="text-xs font-bold text-blue-600 group-hover:translate-x-0.5 transition-transform">
+                                  &rarr;
+                                </span>
+                              </div>
+                            </Link>
+                          ))}
+                        </div>
+                      ) : (
+                        <div className="py-4 text-center text-xs text-slate-500">
+                          No direct college name match. Press <kbd className="px-1.5 py-0.5 bg-slate-100 rounded border text-[10px] font-mono">Enter</kbd> to search across all courses, cities & cutoffs.
+                        </div>
+                      )}
+                    </div>
+
+                    {/* Popular / Suggested Query Chips */}
+                    {searchSuggestions.popularSearches.length > 0 && (
+                      <div className="p-3 bg-slate-50/60">
+                        <span className="text-[10px] font-black uppercase tracking-wider text-slate-400 block px-2 mb-2">
+                          Suggested Searches
+                        </span>
+                        <div className="flex flex-wrap gap-1.5 px-2">
+                          {searchSuggestions.popularSearches.map((s, idx) => (
+                            <button
+                              key={idx}
+                              type="button"
+                              onClick={() => {
+                                setSearchQuery(s);
+                                setIsSearchFocused(false);
+                              }}
+                              className="px-2.5 py-1 rounded-lg bg-white hover:bg-blue-600 hover:text-white border border-slate-200 text-slate-700 text-xs font-semibold transition-all cursor-pointer shadow-2xs flex items-center gap-1.5"
+                            >
+                              <Search className="w-3 h-3 opacity-60" />
+                              <span>{s}</span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {/* View All Matches Footer */}
+                    <div className="p-2.5 bg-slate-50 text-center">
+                      <button
+                        type="button"
+                        onClick={() => {
+                          setIsSearchFocused(false);
+                          const el = document.getElementById("college-listings-section");
+                          if (el) el.scrollIntoView({ behavior: "smooth" });
+                        }}
+                        className="text-xs font-bold text-blue-600 hover:text-blue-800 transition-colors w-full py-1 cursor-pointer"
+                      >
+                        View all {filteredColleges.length} results matching &ldquo;{searchQuery}&rdquo; &rarr;
+                      </button>
+                    </div>
+                  </>
+                ) : (
+                  /* When Input is focused but empty */
+                  <div className="p-4 space-y-4">
+                    <div>
+                      <span className="text-[10px] font-black uppercase tracking-wider text-slate-400 block mb-2.5 flex items-center gap-1.5">
+                        <Sparkles className="w-3 h-3 text-amber-500" />
+                        <span>🔥 Trending Searches & Top Hubs</span>
+                      </span>
+                      <div className="grid sm:grid-cols-2 gap-2">
+                        {[
+                          { label: "Top 20 IIMs in India", query: "IIM" },
+                          { label: "Delhi NCR Top MBA & PGDM", state: "Delhi NCR", category: "Management" },
+                          { label: "Pune Tier-1 B-Schools", state: "Maharashtra", city: "Pune", category: "Management" },
+                          { label: "Bangalore Tech & Engineering", state: "Karnataka", city: "Bangalore", category: "Engineering" },
+                          { label: "High ROI MBA (< ₹10L Fees)", fee: "5-10 Lakhs", category: "Management" },
+                          { label: "Colleges Accepting CAT 80-90%ile", query: "CAT" },
+                        ].map((item, idx) => (
+                          <button
+                            key={idx}
+                            type="button"
+                            onClick={() => {
+                              if (item.query) setSearchQuery(item.query);
+                              if (item.state) setSelectedState(item.state);
+                              if (item.city) setSelectedCity(item.city);
+                              if (item.category) setSelectedCategory(item.category);
+                              if (item.fee) setSelectedFeeRange(item.fee);
+                              setIsSearchFocused(false);
+                            }}
+                            className="text-left p-2.5 rounded-xl border border-slate-100 hover:border-blue-300 hover:bg-blue-50/50 transition-all flex items-center justify-between text-xs font-bold text-slate-800 group cursor-pointer"
+                          >
+                            <span>{item.label}</span>
+                            <span className="text-slate-400 group-hover:text-blue-600 text-[10px]">&rarr;</span>
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+
+                    <div className="pt-3 border-t border-slate-100 flex flex-wrap items-center justify-between gap-2 text-[11px] text-slate-500">
+                      <span>Quick search tip: Type college acronyms like <strong>NDIM</strong>, <strong>IIMB</strong>, <strong>DTU</strong>, <strong>FMS</strong>, <strong>GL Bajaj</strong></span>
+                      <button 
+                        type="button"
+                        onClick={() => setIsSearchFocused(false)} 
+                        className="text-slate-400 hover:text-slate-600 font-bold"
+                      >
+                        Close
+                      </button>
+                    </div>
+                  </div>
+                )}
+              </div>
+            )}
           </div>
         </div>
 
@@ -1569,11 +1827,110 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
               </div>
             </div>
 
+            {/* Active Filters Pill Bar */}
+            {activeFiltersCount > 0 || searchQuery.trim() || userScore > 0 ? (
+              <div className="mb-4 flex flex-wrap items-center gap-2 p-3 bg-white rounded-2xl border border-slate-200/80 shadow-2xs">
+                <span className="text-[11px] font-black uppercase tracking-wider text-slate-400 mr-1 flex items-center gap-1">
+                  <Filter className="w-3 h-3 text-blue-600" /> Active Filters:
+                </span>
+
+                {searchQuery.trim() && (
+                  <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-50 text-blue-700 border border-blue-200 text-xs font-bold">
+                    <span>Search: &ldquo;{searchQuery}&rdquo;</span>
+                    <button type="button" onClick={() => setSearchQuery("")} className="hover:text-blue-900 cursor-pointer">
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </span>
+                )}
+
+                {selectedCategory !== "All Streams" && (
+                  <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 text-slate-800 border border-slate-200 text-xs font-bold">
+                    <span>Stream: {selectedCategory}</span>
+                    <button type="button" onClick={() => setSelectedCategory("All Streams")} className="hover:text-rose-600 cursor-pointer">
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </span>
+                )}
+
+                {selectedCourse !== "All Courses" && (
+                  <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 text-slate-800 border border-slate-200 text-xs font-bold">
+                    <span>Course: {selectedCourse}</span>
+                    <button type="button" onClick={() => setSelectedCourse("All Courses")} className="hover:text-rose-600 cursor-pointer">
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </span>
+                )}
+
+                {selectedState !== "All States" && (
+                  <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 text-slate-800 border border-slate-200 text-xs font-bold">
+                    <span>State: {selectedState}</span>
+                    <button type="button" onClick={() => { setSelectedState("All States"); setSelectedCity("All Cities"); }} className="hover:text-rose-600 cursor-pointer">
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </span>
+                )}
+
+                {selectedCity !== "All Cities" && (
+                  <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 text-slate-800 border border-slate-200 text-xs font-bold">
+                    <span>City: {selectedCity}</span>
+                    <button type="button" onClick={() => setSelectedCity("All Cities")} className="hover:text-rose-600 cursor-pointer">
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </span>
+                )}
+
+                {selectedFeeRange !== "All Fees" && (
+                  <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 text-slate-800 border border-slate-200 text-xs font-bold">
+                    <span>Fee: {selectedFeeRange}</span>
+                    <button type="button" onClick={() => setSelectedFeeRange("All Fees")} className="hover:text-rose-600 cursor-pointer">
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </span>
+                )}
+
+                {selectedExam !== "All Exams" && (
+                  <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 text-slate-800 border border-slate-200 text-xs font-bold">
+                    <span>Exam: {selectedExam}</span>
+                    <button type="button" onClick={() => setSelectedExam("All Exams")} className="hover:text-rose-600 cursor-pointer">
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </span>
+                )}
+
+                {userScore > 0 && (
+                  <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-50 text-emerald-800 border border-emerald-200 text-xs font-bold">
+                    <span>Predictor: {userScore}%ile</span>
+                    <button type="button" onClick={() => { setUserScore(0); setUserScoreInput(""); }} className="hover:text-rose-600 cursor-pointer">
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </span>
+                )}
+
+                <button
+                  type="button"
+                  onClick={resetFilters}
+                  className="text-xs font-extrabold text-rose-600 hover:text-rose-800 underline ml-auto px-2 py-1 cursor-pointer"
+                >
+                  Clear All Filters
+                </button>
+              </div>
+            ) : null}
+
             {/* Results Header */}
             <div className="mb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-              <h2 className="text-lg font-bold text-slate-800">
-                Top Colleges in India <span className="text-blue-600 bg-blue-50 px-2.5 py-0.5 rounded-full text-xs font-black ml-2">{filteredColleges.length} Found</span>
-              </h2>
+              <div>
+                <h2 className="text-lg font-bold text-slate-800 flex items-center gap-2">
+                  <span>Top Colleges in India</span>
+                  <span className="text-blue-600 bg-blue-50 border border-blue-200 px-2.5 py-0.5 rounded-full text-xs font-black">
+                    {filteredColleges.length} Found
+                  </span>
+                </h2>
+                {searchQuery.trim() && (
+                  <p className="text-xs text-slate-500 mt-0.5">
+                    Displaying colleges matched by intelligent multi-token ranking for &ldquo;<strong>{searchQuery}</strong>&rdquo;
+                  </p>
+                )}
+              </div>
 
               {/* Sort By Dropdown */}
               <div className="flex items-center gap-3">
@@ -1586,7 +1943,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                   onChange={(e) => setSortBy(e.target.value)}
                   className="bg-white border border-slate-200 rounded-xl py-2 px-3 text-xs font-bold text-slate-800 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 cursor-pointer shadow-sm"
                 >
-                  <option value="default">Recommended (Default)</option>
+                  <option value="default">{searchQuery.trim() ? "Relevance (Default)" : "Recommended (Default)"}</option>
                   <option value="roi">🔥 Highest ROI (Placement / Fee Ratio)</option>
                   <option value="avg_placement">Avg Placement (High to Low)</option>
                   <option value="highest_placement">Highest Package (High to Low)</option>
@@ -1617,18 +1974,57 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
               ))}
             </div>
 
-            {/* Empty State */}
+            {/* Empty State with Smart Fallback & Recovery */}
             {filteredColleges.length === 0 && (
-              <div className="py-20 text-center bg-white rounded-2xl border border-slate-200/80 p-8 shadow-xs">
-                <Search className="w-12 h-12 text-slate-300 mx-auto mb-4" />
-                <h3 className="text-base font-bold text-slate-800 mb-1">No colleges match your active filters</h3>
-                <p className="text-slate-500 text-xs sm:text-sm mb-6 max-w-sm mx-auto">Try clearing one or more active filters or search terms to explore available campuses.</p>
-                <button 
-                  onClick={resetFilters}
-                  className="px-6 py-2.5 bg-blue-600 hover:bg-blue-700 active:scale-95 text-white rounded-xl font-bold text-xs uppercase tracking-wider transition-all shadow-sm cursor-pointer"
-                >
-                  Reset All Filters
-                </button>
+              <div className="py-16 px-6 text-center bg-white rounded-3xl border border-slate-200/90 shadow-sm max-w-2xl mx-auto space-y-6">
+                <div className="w-16 h-16 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mx-auto border border-blue-100">
+                  <Search className="w-8 h-8 text-blue-500" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-extrabold text-slate-900 mb-2">No colleges match your active search criteria</h3>
+                  <p className="text-slate-500 text-xs sm:text-sm leading-relaxed max-w-md mx-auto">
+                    We couldn&apos;t find any colleges for &ldquo;<strong className="text-slate-700">{searchQuery || 'selected filters'}</strong>&rdquo; under the currently applied filters.
+                  </p>
+                </div>
+
+                <div className="p-4 bg-slate-50 rounded-2xl border border-slate-100 text-left space-y-3">
+                  <span className="text-[11px] font-black uppercase tracking-wider text-slate-400 block">
+                    Suggested Solutions:
+                  </span>
+                  <div className="flex flex-wrap gap-2">
+                    <button
+                      type="button"
+                      onClick={() => { setSearchQuery(""); }}
+                      className="px-3 py-1.5 rounded-xl bg-white border border-slate-200 hover:border-blue-300 text-slate-700 text-xs font-bold transition-all"
+                    >
+                      Clear Search Keyword
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => { setSelectedState("All States"); setSelectedCity("All Cities"); }}
+                      className="px-3 py-1.5 rounded-xl bg-white border border-slate-200 hover:border-blue-300 text-slate-700 text-xs font-bold transition-all"
+                    >
+                      Search All India (All States)
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => { setSelectedCategory("All Streams"); setSelectedCourse("All Courses"); }}
+                      className="px-3 py-1.5 rounded-xl bg-white border border-slate-200 hover:border-blue-300 text-slate-700 text-xs font-bold transition-all"
+                    >
+                      Search All Streams
+                    </button>
+                  </div>
+                </div>
+
+                <div className="pt-2">
+                  <button 
+                    type="button"
+                    onClick={resetFilters}
+                    className="px-8 py-3 bg-blue-600 hover:bg-blue-700 active:scale-95 text-white rounded-xl font-bold text-xs uppercase tracking-wider transition-all shadow-md cursor-pointer"
+                  >
+                    Reset All Filters & View 770+ Colleges
+                  </button>
+                </div>
               </div>
             )}
 
