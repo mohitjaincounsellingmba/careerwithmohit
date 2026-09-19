@@ -21,11 +21,11 @@ export async function GET() {
   const rssFeed = `<?xml version="1.0" encoding="UTF-8" ?>
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Career with Mohit Blog</title>
+      <title>CareerWithMohit Blog &amp; MBA Admissions Insights</title>
       <link>${siteUrl}/</link>
       <atom:link href="${siteUrl}/feed.xml" rel="self" type="application/rss+xml" />
-      <description>Latest insights and guides from Career with Mohit.</description>
-      <language>en-us</language>
+      <description>Expert career guidance, MBA/PGDM 2027 admissions consulting, entrance exam mock tests, and college placement insights by Mohit Jain.</description>
+      <language>en-in</language>
       <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
       ${feedItems}
     </channel>

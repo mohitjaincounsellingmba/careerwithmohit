@@ -25,9 +25,9 @@ const PAGE_PATH = '/mba-application-form-discount';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'MBA & PGDM Form Combo Discounts 2027: Save up to ₹5,000+ | CareerWithMohit',
+  title: 'MBA & PGDM Form Combo Discounts 2027: Save ₹5,000+ | CareerWithMohit',
   description:
-    'Create custom application form combinations from 55+ top AICTE & AIU approved MBA/PGDM colleges (NDIM, FOSTIIMA, FIIB, JIMS, Jaipuria, PIBM, SOIL, JAGSoM) and get exclusive form discounts & GD-PI masterclasses.',
+    'Create custom application form combos from 55+ top AICTE MBA/PGDM colleges (NDIM, FOSTIIMA, FIIB, JIMS, Jaipuria, PIBM, SOIL) with exclusive discounts & GD-PI prep.',
   keywords: [
     'MBA application form discount 2027',
     'PGDM form combo discount',
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: `${BASE_URL}/og-image.png`,
+        url: `${BASE_URL}/og-image.webp`,
         width: 1200,
         height: 630,
         alt: 'MBA Application Form Combo Discounts 2027',

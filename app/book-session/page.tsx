@@ -25,8 +25,8 @@ import { CalendlyBookingWidget } from '@/components/CalendlyBookingWidget';
 import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
-  title: "Book Free 1-on-1 Video MBA Counselling with Mohit Jain (Google Meet)",
-  description: "Schedule a free 30-minute 1-on-1 face-to-face video counselling session on Google Meet with Mohit Jain (IIM-B & FMS certified). Live screen sharing of B-school cutoffs, direct admission guidance, and profile reviews.",
+  title: "Book Free 1-on-1 MBA Counselling with Mohit Jain (Google Meet)",
+  description: "Schedule a free 30-min 1-on-1 video counselling session with Mohit Jain (IIM-B certified). Live B-school cutoffs, direct admission & profile evaluation.",
   keywords: [
     "book face to face MBA counselling",
     "google meet MBA counselling",

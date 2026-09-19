@@ -1,6 +1,12 @@
 # Legacy URLs retained from the Vercel deployment. Static rules must precede
 # the two wildcard rules at the bottom.
 /robot.txt /robots.txt 301
+/mba-discount /mba-application-form-discount/ 301
+/form-discount /mba-application-form-discount/ 301
+/mba-forms /mba-application-form-discount/ 301
+/mba-2027 /mba-pgdm-admission-2027/ 301
+/counselling /book-session/ 301
+/counseling /book-session/ 301
 /schedule-counselling /book-session 301
 /book-call /book-session 301
 /calendly /book-session 301

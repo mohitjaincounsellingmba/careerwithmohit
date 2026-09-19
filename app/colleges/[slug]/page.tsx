@@ -97,14 +97,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   let description: string;
 
   if (college.category === "Management") {
-    title = `${college.name} MBA Fees, Cutoff & Placement 2027`.slice(0, 60);
-    description = `Detailed review of ${college.name} in ${college.location}: MBA/PGDM fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. NIRF ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, cutoff, and admission process for 2027 with Mohit Jain's expert analysis.`;
+    title = `${college.name} MBA Fees, Cutoff & Placement 2027`.slice(0, 58);
+    description = `${college.name} (${college.location}): MBA/PGDM fees ${college.fees}, avg package ${college.avg_placement}, NIRF rank ${college.ranking}, cutoffs & 2027 admission guide.`.slice(0, 160);
   } else if (college.category === "Engineering") {
-    title = `${college.name} B.Tech Fees, Cutoff & Placement 2027`.slice(0, 60);
-    description = `Complete guide for ${college.name} in ${college.location}: B.Tech fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Ranking: ${college.ranking}. Accepted exams: ${college.exams.join(', ')}. Check courses, JEE cutoff, and admission process for 2027.`;
+    title = `${college.name} B.Tech Fees, Cutoff & Placement 2027`.slice(0, 58);
+    description = `${college.name} (${college.location}): B.Tech fees ${college.fees}, avg package ${college.avg_placement}, JEE cutoffs, rankings & 2027 admission guide.`.slice(0, 160);
   } else {
-    title = `${college.name} Fees, Placement & Admission 2027`.slice(0, 60);
-    description = `Explore ${college.name} in ${college.location}: BBA/BCA fee structure ${college.fees}, average placement ${college.avg_placement}, highest package ${college.highest_placement}. Check courses, admission process, entrance exams, and expert review for 2027 admission.`;
+    title = `${college.name} Fees, Placement & Admission 2027`.slice(0, 58);
+    description = `${college.name} (${college.location}): Fees ${college.fees}, avg package ${college.avg_placement}, courses, entrance exams & 2027 admission guide.`.slice(0, 160);
   }
 
   const keywords = getCategoryKeywords(college);
@@ -178,6 +178,23 @@ export default async function CollegeDetailPage({ params }: PageProps) {
     }
   };
 
+  const jsonLdProgram = {
+    "@context": "https://schema.org",
+    "@type": "EducationalOccupationalProgram",
+    "name": `${college.name} ${college.category === 'Management' ? 'MBA / PGDM Program' : college.category === 'Engineering' ? 'B.Tech Program' : 'Degree Programs'}`,
+    "description": `Comprehensive higher education program at ${college.name}, ${college.location}. Accepted exams: ${college.exams.join(', ')}.`,
+    "provider": {
+      "@type": "EducationalOrganization",
+      "name": college.name,
+      "url": `https://careerwithmohit.online/colleges/${slug}/`
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": college.fees,
+      "priceCurrency": "INR"
+    }
+  };
+
   const jsonLdFaQ = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -187,7 +204,7 @@ export default async function CollegeDetailPage({ params }: PageProps) {
         "name": `What is the fee structure for ${college.name}?`,
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": `The fee structure for ${college.name} is predominantly around ${college.fees}.`
+          "text": `The fee structure for ${college.name} is approximately ${college.fees}.`
         }
       },
       {
@@ -195,7 +212,7 @@ export default async function CollegeDetailPage({ params }: PageProps) {
         "name": `What is the average placement at ${college.name}?`,
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": `The average placement package at ${college.name} is ${college.avg_placement}.`
+          "text": `The average placement package reported at ${college.name} is ${college.avg_placement}, with highest packages reaching ${college.highest_placement || 'significant levels'}.`
         }
       },
       {
@@ -237,6 +254,7 @@ export default async function CollegeDetailPage({ params }: PageProps) {
   return (
     <>
       <JsonLd data={jsonLdOrg} />
+      <JsonLd data={jsonLdProgram} />
       <JsonLd data={jsonLdFaQ} />
       <JsonLd data={jsonLdBreadcrumb} />
       <CollegeDetailClient college={college} similarColleges={similarColleges} />

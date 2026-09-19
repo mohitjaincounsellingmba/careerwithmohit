@@ -60,6 +60,35 @@ function getRegionFromLocation(location: string): string {
   return "India";
 }
 
+function getGeoHubLink(location: string): { name: string; href: string } {
+  const loc = location.toLowerCase();
+  if (loc.includes("delhi") || loc.includes("noida") || loc.includes("gurgaon") || loc.includes("ghaziabad") || loc.includes("faridabad")) {
+    return { name: "Top MBA Colleges in Delhi NCR", href: "/colleges/mba-colleges-delhi-ncr" };
+  }
+  if (loc.includes("mumbai") || loc.includes("navi mumbai")) {
+    return { name: "Top MBA Colleges in Mumbai", href: "/colleges/mba-colleges-mumbai" };
+  }
+  if (loc.includes("pune")) {
+    return { name: "Top MBA Colleges in Pune", href: "/colleges/mba-colleges-pune" };
+  }
+  if (loc.includes("bangalore") || loc.includes("bengaluru")) {
+    return { name: "Top MBA Colleges in Bangalore", href: "/colleges/mba-colleges-bangalore" };
+  }
+  if (loc.includes("hyderabad")) {
+    return { name: "Top MBA Colleges in Hyderabad", href: "/colleges/mba-colleges-hyderabad" };
+  }
+  if (loc.includes("jaipur")) {
+    return { name: "Top MBA Colleges in Jaipur", href: "/colleges/mba-colleges-jaipur" };
+  }
+  if (loc.includes("kolkata")) {
+    return { name: "Top MBA Colleges in Kolkata", href: "/colleges/mba-colleges-kolkata" };
+  }
+  if (loc.includes("ahmedabad")) {
+    return { name: "Top MBA Colleges in Ahmedabad", href: "/colleges/mba-colleges-ahmedabad" };
+  }
+  return { name: "Explore Regional MBA Hubs", href: "/mba-pgdm-admissions-by-region" };
+}
+
 // Parse programs from markdown content like "- **MBA**: General Management | 2 Years | ₹15.0 Lakhs"
 function parsePrograms(content: string, courses: string[]) {
   const programs: { name: string; specialization: string; duration: string; fees: string }[] = [];
@@ -1004,6 +1033,49 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
                 <ArrowUpRight className="w-3.5 h-3.5" />
               </a>
             )}
+          </div>
+
+          {/* Admission & Resource Links Silo */}
+          <div className="bg-gradient-to-br from-blue-50/70 to-indigo-50/40 border border-blue-100 rounded-[2rem] p-6 shadow-sm">
+            <h4 className="text-[10px] font-black uppercase tracking-widest text-blue-900 mb-3 flex items-center gap-1.5">
+              <Sparkles className="w-3.5 h-3.5 text-blue-600" />
+              Admissions 2027 Resources
+            </h4>
+            <div className="space-y-2.5">
+              {(() => {
+                const hub = getGeoHubLink(college.location);
+                return (
+                  <Link
+                    href={hub.href}
+                    className="flex items-center justify-between p-3 rounded-xl bg-white/90 hover:bg-white border border-blue-100/70 text-xs font-bold text-slate-800 hover:text-blue-600 transition-all group"
+                  >
+                    <span className="truncate">{hub.name}</span>
+                    <ChevronRight className="w-4 h-4 text-slate-400 group-hover:text-blue-600 shrink-0" />
+                  </Link>
+                );
+              })()}
+              <Link
+                href="/mba-application-form-discount"
+                className="flex items-center justify-between p-3 rounded-xl bg-amber-500/10 hover:bg-amber-500/15 border border-amber-300/40 text-xs font-bold text-amber-900 hover:text-amber-950 transition-all group"
+              >
+                <span>🔥 Save ₹5,000+ on Form Combos</span>
+                <ChevronRight className="w-4 h-4 text-amber-600 group-hover:translate-x-0.5 transition-transform shrink-0" />
+              </Link>
+              <Link
+                href="/book-session"
+                className="flex items-center justify-between p-3 rounded-xl bg-white/90 hover:bg-white border border-blue-100/70 text-xs font-bold text-slate-800 hover:text-blue-600 transition-all group"
+              >
+                <span>Free 1-on-1 Profile Counselling</span>
+                <ChevronRight className="w-4 h-4 text-slate-400 group-hover:text-blue-600 shrink-0" />
+              </Link>
+              <Link
+                href="/mock-tests"
+                className="flex items-center justify-between p-3 rounded-xl bg-white/90 hover:bg-white border border-blue-100/70 text-xs font-bold text-slate-800 hover:text-blue-600 transition-all group"
+              >
+                <span>Free CAT/XAT/NMAT Mock Tests</span>
+                <ChevronRight className="w-4 h-4 text-slate-400 group-hover:text-blue-600 shrink-0" />
+              </Link>
+            </div>
           </div>
 
           {/* Similar Colleges Widget */}

@@ -1387,7 +1387,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                               <div className="flex items-center gap-3 min-w-0">
                                 <div className="w-9 h-9 rounded-xl bg-slate-100 border border-slate-200 flex items-center justify-center text-xs font-black text-blue-600 shrink-0 group-hover:border-blue-300">
                                   {col.logo && !col.logo.includes("default") ? (
-                                    <img src={col.logo} alt="" className="w-full h-full object-contain p-1" />
+                                    <img src={col.logo} alt={`${col.name} logo - CareerWithMohit`} className="w-full h-full object-contain p-1" />
                                   ) : (
                                     col.name.charAt(0)
                                   )}

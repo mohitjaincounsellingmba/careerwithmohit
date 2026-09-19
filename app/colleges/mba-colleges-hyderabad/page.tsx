@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: hub.metaTitle,
     description: hub.metaDescription,
-    url: `https://careerwithmohit.online${hub.route}`,
+    url: `https://careerwithmohit.online${hub.route}/`,
     siteName: 'CareerWithMohit',
     type: 'website',
     locale: 'en_IN',
@@ -44,19 +44,19 @@ export default function MbaCollegesHyderabadPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://careerwithmohit.online',
+        item: "https://careerwithmohit.online/",
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Colleges',
-        item: 'https://careerwithmohit.online/colleges',
+        item: "https://careerwithmohit.online/colleges/",
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: `MBA Colleges in ${hub.cityName}`,
-        item: `https://careerwithmohit.online${hub.route}`,
+        item: `https://careerwithmohit.online${hub.route}/`,
       },
     ],
   };
@@ -66,7 +66,7 @@ export default function MbaCollegesHyderabadPage() {
     '@type': 'CollectionPage',
     name: hub.heroTitle,
     description: hub.heroSubtitle,
-    url: `https://careerwithmohit.online${hub.route}`,
+    url: `https://careerwithmohit.online${hub.route}/`,
     mainEntity: {
       '@type': 'ItemList',
       numberOfItems: colleges.length,
@@ -74,7 +74,7 @@ export default function MbaCollegesHyderabadPage() {
         '@type': 'ListItem',
         position: index + 1,
         name: college.name,
-        url: `https://careerwithmohit.online/colleges/${college.slug}`,
+        url: `https://careerwithmohit.online/colleges/${college.slug}/`,
       })),
     },
   };

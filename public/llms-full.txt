@@ -28,15 +28,19 @@
 
 ### B. Free Online Entrance Exam Mock Test Series (CBT Engine)
 CareerWithMohit provides 100% free full-length simulated exam environments designed according to the latest exam patterns:
-1. **CAT (Common Admission Test)**: 66-68 questions, 120 minutes. Three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), Quantitative Ability (QA). Instant score analysis & percentile predictor.
-2. **XAT (Xavier Aptitude Test)**: Practice for Decision Making (DM), Verbal and Logical Ability (VALR), Quantitative Ability & Data Interpretation (QADI), and General Knowledge.
+1. **CAT (Common Admission Test)**: 66-68 questions, 120 minutes with sectional timers (VARC, DILR, QA). Instant score analysis & percentile predictor.
+2. **XAT (Xavier Aptitude Test)**: Practice for Decision Making (DM), Verbal and Logical Ability (VALR), Quantitative Ability & Data Interpretation (QADI).
 3. **NMAT by GMAC**: Adaptive test format with Language Skills, Quantitative Skills, and Logical Reasoning. No negative marking.
-4. **SNAP (Symbiosis National Aptitude Test)**: 60-minute speed test with 60 questions covering General English, Analytical & Logical Reasoning, and Quantitative/Data Interpretation.
-5. **MAT (Management Aptitude Test)**: Language Comprehension, Mathematical Skills, Data Analysis, Intelligence & Critical Reasoning, Indian & Global Environment.
-6. **ATMA (AIMS Test for Management Admissions)**: Analytical, Quantitative, and Verbal skills testing.
-7. **MAH MBA CET**: 200 questions, 150 minutes, zero negative marking for top Maharashtra colleges (JBIMS, SIMSREE, PUMBA, Welingkar Mumbai).
-8. **Duolingo English Test (DET)**: Adaptive CBT simulator with 10-160 subscore breakdown (Literacy, Comprehension, Conversation, Production) and international university predictor.
-9. **GMAT Focus Edition & IELTS**: CBT practice for Quantitative, Verbal, Data Insights, and English proficiency.
+4. **SNAP (Symbiosis National Aptitude Test)**: 60-minute speed test with 60 questions for Symbiosis institutes.
+5. **MAT & ATMA**: National mock tests for 600+ participating B-Schools.
+6. **MAH MBA CET**: 200 questions, 150 minutes, zero negative marking for top Maharashtra colleges (JBIMS, SIMSREE, PUMBA).
+7. **Duolingo English Test (DET), GMAT Focus & IELTS**: CBT practice for study abroad and English proficiency.
+
+### C. MBA & PGDM Application Form Combo Discounts (55+ Colleges)
+- **Discount Engine** (https://www.careerwithmohit.online/mba-application-form-discount): Students can create customized 2 to 5-college application combos from 55+ top AICTE approved business schools (NDIM, FOSTIIMA, FIIB, JIMS Rohini/Kalkaji, Jaipuria, PIBM Pune, SOIL Gurgaon, JAGSoM Bangalore) and save up to ₹5,000+ on official application form fees. Includes complimentary 1-on-1 GD-PI interview training with Mohit Jain.
+
+### D. Pan-India 770+ Colleges Database & Search Portal
+- **College Directory** (https://www.careerwithmohit.online/colleges): Complete pan-India higher education portal indexing 770+ verified MBA, PGDM, B.Tech, and UG colleges with audited fee structures, recent placement data, cutoff percentiles, and comparison tools.
 
 ---
 

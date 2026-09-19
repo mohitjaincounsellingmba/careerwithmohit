@@ -10,8 +10,8 @@ import {
 import Link from "next/link";
 
 export const metadata: Metadata = {
-    title: "Free ATS Resume & CV Builder 2026–2027 | 30+ Templates | CareerWithMohit",
-    description: "Build an ATS-compliant resume for Internship, Fresher, or Working Professional goals. Choose from 30+ free ATS templates, optimize with real-time scoring, and export in PDF, PNG, or JPG.",
+    title: "Free ATS Resume Builder 2027: 30+ Templates | CareerWithMohit",
+    description: "Build an ATS-compliant resume for Internship, Fresher, or Working Professional goals. 30+ free templates, real-time score, and instant PDF download.",
     keywords: [
         "free ATS resume builder",
         "ATS resume templates free",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
         canonical: "https://careerwithmohit.online/tools/ats-resume-builder/",
     },
     openGraph: {
-        title: "Free ATS Resume & CV Builder 2026–2027 | CareerWithMohit",
+        title: "Free ATS Resume & CV Builder 2027 | CareerWithMohit",
         description: "100% Free ATS-Compliant Resume & CV Builder with real-time scoring, 30+ templates, and instant PDF/PNG/JPG export.",
         url: "https://careerwithmohit.online/tools/ats-resume-builder/",
         siteName: "CareerWithMohit",
@@ -95,9 +95,11 @@ export default function AtsResumeBuilderPage() {
         "@context": "https://schema.org",
         "@type": "WebApplication",
         "name": "Free ATS Resume & CV Builder",
-        "url": "https://careerwithmohit.online/tools/ats-resume-builder",
+        "url": "https://careerwithmohit.online/tools/ats-resume-builder/",
         "applicationCategory": "BusinessApplication",
         "operatingSystem": "All",
+        "browserRequirements": "Requires JavaScript. Requires HTML5.",
+        "description": "Free web-based ATS resume maker with 30+ templates, real-time ATS optimization scoring, and instant PDF export.",
         "offers": {
             "@type": "Offer",
             "price": "0",
