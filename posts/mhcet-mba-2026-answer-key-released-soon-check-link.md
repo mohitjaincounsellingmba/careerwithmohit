@@ -107,7 +107,7 @@ If you are confused about which college to target under the Centralized Admissio
 - 2025 vs 2026 Expected Cutoffs city-wise.
 - Placement reports (Average vs Highest Package).
 
-[👉 Submit Inquiry to Download MHCET MBA PDF Pack](/mhcet-mba-colleges-list)
+[👉 Submit Inquiry to Download MHCET MBA PDF Pack](/inquiry)
 
 ---
 
@@ -120,7 +120,7 @@ Scoring below 90 percentile doesn't mean your MBA dream is over. Many private in
 - [All About MAH MBA CET Exam Pattern & Syllabus](/blog/all-about-mah-mba-cet-exam)
 - [Direct MBA Admission in Mumbai 2026](/blog/direct-mba-admission-mumbai-2026)
 
-For personalized admission support, feel free to fill out the [Inquiry Form](/mhcet-mba-colleges-list) and our experts will reach out to you within 24 hours.
+For personalized admission support, feel free to fill out the [Inquiry Form](/inquiry) and our experts will reach out to you within 24 hours.
 
 ---
 

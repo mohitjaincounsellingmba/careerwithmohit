@@ -102,7 +102,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/colleges/compare',
     '/colleges/top-engineering-colleges-in-delhi',
     '/jobs',
-    '/mhcet-mba-colleges-list',
     '/previous-year-papers',
     '/tools/academic-calculators',
     '/tools/atma-mock-test',

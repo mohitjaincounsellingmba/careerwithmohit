@@ -120,7 +120,7 @@ Once you have your raw score, you should start looking at the cutoffs for top co
 **Need help with the CAP Round process?**  
 The counseling process for MHCET is highly competitive. Missing a single preference can land you in a lower-tier college. Get expert guidance today.
 
-[👉 Submit Inquiry for Admission Support](/mhcet-mba-colleges-list) | [💬 Chat with us on WhatsApp](https://wa.me/919560020771)
+[👉 Submit Inquiry for Admission Support](/inquiry) | [💬 Chat with us on WhatsApp](https://wa.me/919560020771)
 
 
 

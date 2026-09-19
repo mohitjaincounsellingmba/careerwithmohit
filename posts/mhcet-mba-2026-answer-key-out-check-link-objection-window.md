@@ -114,7 +114,7 @@ If you are appearing for Phase 2 on May 9, analyzing the Phase 1 answer key is v
 - Potential "ambiguous" questions that might recur.
 
 **Download our curated analysis PDF:**
-[👉 Get Phase 1 Paper Analysis & Important Topics for Phase 2](/mhcet-mba-colleges-list)
+[👉 Get Phase 1 Paper Analysis & Important Topics for Phase 2](/inquiry)
 
 ---
 
@@ -128,7 +128,7 @@ If your raw score is looking low (below 100), don't lose hope. There are several
 - [Direct MBA Admission in Pune 2026](/blog/under-5-lakhs-mba-colleges-pune-direct-admission-2026)
 - [JBIMS vs SIMSREE: Which is Better?](/blog/best-mba-colleges-in-mumbai-2026)
 
-For personalized counselling and college selection, fill out the [Admission Inquiry Form](/mhcet-mba-colleges-list) and we will guide you through the CAP rounds.
+For personalized counselling and college selection, fill out the [Admission Inquiry Form](/inquiry) and we will guide you through the CAP rounds.
 
 ---
 
