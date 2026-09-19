@@ -83,6 +83,7 @@ const TOOL_CATEGORIES = [
     accentColor: 'bg-secondary',
     icon: GraduationCap,
     tools: [
+      { name: 'MBA Form Combo Discounts (55+ Colleges)', desc: 'Create custom college bundles & save up to ₹5,000+ on application fees', href: '/mba-application-form-discount', badge: 'Save ₹', color: 'text-emerald-600' },
       { name: 'B.Tech College Predictor', desc: 'JEE rank to NIT/IIIT admission chances', href: '/tools/btech-college-predictor', badge: 'Hot', color: 'text-yellow-600' },
       { name: 'MBA College Predictor', desc: 'CAT/GMAT score to top B-school match', href: '/tools/cuet-pg-mba-predictor', badge: null, color: 'text-indigo-600' },
       { name: 'BBA College Generator', desc: 'Find best BBA colleges for your score', href: '/tools/academic-calculators', badge: null, color: 'text-purple-600' },

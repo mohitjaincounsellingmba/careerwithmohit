@@ -114,6 +114,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/mat-score-calculator',
     '/top-tier-mba-colleges',
     '/mba-pgdm-admission-2027',
+    '/mba-application-form-discount',
     '/admissions',
     '/starter-kit',
     '/tools/xat-mock-test',

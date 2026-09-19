@@ -65,13 +65,22 @@ export function Header() {
 
   const admissionLinks = [
     {
+      title: 'MBA Form Discounts',
+      href: '/mba-application-form-discount',
+      badge: 'Save ₹5k+',
+      badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-300 font-bold',
+      icon: Sparkles,
+      iconColor: 'text-emerald-600',
+      highlight: true
+    },
+    {
       title: 'Admissions Hub',
       href: '/admissions',
       badge: '2027-29',
       badgeColor: 'text-blue-600 bg-blue-50 border-blue-200/60',
       icon: Sparkles,
       iconColor: 'text-blue-600',
-      highlight: true
+      highlight: false
     },
     {
       title: 'MBA & PGDM 2027',
@@ -117,6 +126,7 @@ export function Header() {
 
   const isAdmissionActive = [
     '/admissions',
+    '/mba-application-form-discount',
     '/mba-pgdm-admission-2027', 
     '/top-tier-mba-colleges', 
     '/scholarships-2026', 

@@ -60,7 +60,8 @@ export function Footer() {
 
   const footerLinks = {
     programs: [
-      { name: 'MBA / PGDM Admissions 2027', href: '/colleges', badge: 'Hot' },
+      { name: 'MBA Form Combo Discounts (Save ₹5k+)', href: '/mba-application-form-discount', badge: 'Save ₹' },
+      { name: 'MBA / PGDM Admissions 2027', href: '/mba-pgdm-admission-2027', badge: 'Hot' },
       { name: 'Top Tier MBA Directory', href: '/top-tier-mba-colleges' },
       { name: 'Online Degrees Hub (40+ Univs)', href: '/online-degree-certification', badge: 'UGC' },
       { name: 'Online MBA Colleges & Fees', href: '/online-degree-certification/online-mba' },
@@ -72,6 +73,7 @@ export function Footer() {
       { name: 'Abroad Education Advisory', href: '/inquiry' },
     ],
     tools: [
+      { name: 'MBA Form Discount Calculator', href: '/mba-application-form-discount', badge: 'Save ₹' },
       { name: 'Free ATS Resume Builder', href: '/tools/ats-resume-builder', badge: 'NEW' },
       { name: 'CAT 2026 Score Calculator', href: '/tools/cat-score-calculator', badge: 'Popular' },
       { name: 'XAT 2027 Score Calculator', href: '/tools/xat-score-calculator-2027' },

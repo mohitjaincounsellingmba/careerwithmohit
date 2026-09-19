@@ -295,6 +295,31 @@ export default function MbaPgdmAdmission2027Page() {
         </a>
       </div>
 
+      {/* ── FORM COMBO DISCOUNT PROMO BANNER ── */}
+      <section className="max-w-6xl mx-auto px-4 sm:px-6 pt-8">
+        <div className="bg-gradient-to-r from-amber-500/15 via-blue-900/40 to-indigo-950/60 border-2 border-amber-400/40 rounded-3xl p-6 sm:p-8 backdrop-blur-xl shadow-2xl flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="space-y-2 text-center md:text-left">
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/20 text-amber-300 text-xs font-bold uppercase tracking-wider">
+              <Sparkles className="w-3.5 h-3.5 text-amber-400" />
+              <span>Save ₹5,000+ On College Application Forms</span>
+            </div>
+            <h3 className="text-xl sm:text-2xl font-extrabold text-white">
+              Create Your College Application Form Combo Pack
+            </h3>
+            <p className="text-slate-300 text-xs sm:text-sm max-w-2xl leading-relaxed">
+              Applying to multiple colleges? Bundle forms of <strong>NDIM, FOSTIIMA, FIIB, JIMS, PIBM, SOIL</strong> &amp; 50+ business schools with exclusive institutional fee waivers &amp; free GD-PI Masterclasses.
+            </p>
+          </div>
+          <Link
+            href="/mba-application-form-discount"
+            className="shrink-0 px-6 py-3.5 bg-gradient-to-r from-amber-400 to-amber-300 hover:brightness-110 active:scale-95 text-slate-950 font-black text-sm sm:text-base rounded-2xl shadow-xl shadow-amber-500/20 transition-all flex items-center gap-2"
+          >
+            <span>Open Form Discount Builder</span>
+            <ArrowRight className="w-4 h-4" />
+          </Link>
+        </div>
+      </section>
+
       {/* ── LEAD CAPTURE FORM ── */}
       <section className="px-4 sm:px-6 py-8 relative z-10">
         <MbaPgdmLeadForm />
