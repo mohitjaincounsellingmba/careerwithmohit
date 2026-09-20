@@ -68,6 +68,10 @@ export function CollegeCard({
             <img 
               src={college.logo} 
               alt={`${college.name} logo`} 
+              loading="lazy"
+              decoding="async"
+              width={64}
+              height={64}
               className="w-full h-full object-contain p-2"
               onError={(e) => {
                 // Fallback to initial

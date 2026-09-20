@@ -494,7 +494,7 @@ export default function Home() {
       </section>
 
       {/* ── UGC-DEB APPROVED ONLINE DEGREES & UNIVERSITIES 2027 SHOWCASE ── */}
-      <section id="online-degrees" className="bg-gradient-to-b from-slate-900 via-[#0C1A30] to-slate-900 text-white px-6 py-20 sm:px-12 relative overflow-hidden border-t border-b border-blue-900/50">
+      <section id="online-degrees" className="bg-gradient-to-b from-slate-900 via-[#0C1A30] to-slate-900 text-white px-6 py-20 sm:px-12 relative overflow-hidden border-t border-b border-blue-900/50 content-auto">
         {/* Ambient Glows */}
         <div className="absolute top-0 right-1/4 w-96 h-96 bg-blue-500/10 blur-[130px] pointer-events-none rounded-full" />
         <div className="absolute bottom-0 left-1/4 w-96 h-96 bg-indigo-500/10 blur-[130px] pointer-events-none rounded-full" />

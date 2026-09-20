@@ -6,9 +6,12 @@ const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
   compress: true,
+  poweredByHeader: false,
+  productionBrowserSourceMaps: false,
   reactStrictMode: true,
+  staticPageGenerationTimeout: 300,
   experimental: {
-    optimizePackageImports: ["lucide-react", "gray-matter", "fuse.js"],
+    optimizePackageImports: ["lucide-react", "gray-matter", "fuse.js", "@next/third-parties"],
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === "production" ? { exclude: ["error", "warn"] } : false,

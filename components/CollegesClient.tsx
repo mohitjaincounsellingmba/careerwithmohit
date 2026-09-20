@@ -3,15 +3,32 @@
 import { useState, useMemo, useEffect, useRef } from "react";
 import { useSearchParams, useRouter, usePathname } from 'next/navigation';
 import Link from "next/link";
+import dynamic from "next/dynamic";
 import { CollegeMetadata } from "@/lib/colleges";
 import { CollegeCard } from "@/components/CollegeCard";
-import { BTechCollegeGenerator } from "@/components/BTechCollegeGenerator";
-import { MBACollegeGenerator } from "@/components/MBACollegeGenerator";
-import { BBACollegeGenerator } from "@/components/BBACollegeGenerator";
-import { CompareDrawer } from "@/components/CompareDrawer";
-import { BrochureModal } from "@/components/BrochureModal";
 import { searchColleges, getSearchSuggestions } from "@/lib/collegeSearch";
 import { Search, X, MapPin, GraduationCap, IndianRupee, Briefcase, Filter, ChevronDown, Sparkles, TrendingUp, Layers, Check, ArrowRight, BookOpen, Compass, CheckCircle2, AlertCircle } from "lucide-react";
+
+const BTechCollegeGenerator = dynamic(
+  () => import("@/components/BTechCollegeGenerator").then((mod) => mod.BTechCollegeGenerator),
+  { ssr: false }
+);
+const MBACollegeGenerator = dynamic(
+  () => import("@/components/MBACollegeGenerator").then((mod) => mod.MBACollegeGenerator),
+  { ssr: false }
+);
+const BBACollegeGenerator = dynamic(
+  () => import("@/components/BBACollegeGenerator").then((mod) => mod.BBACollegeGenerator),
+  { ssr: false }
+);
+const CompareDrawer = dynamic(
+  () => import("@/components/CompareDrawer").then((mod) => mod.CompareDrawer),
+  { ssr: false }
+);
+const BrochureModal = dynamic(
+  () => import("@/components/BrochureModal").then((mod) => mod.BrochureModal),
+  { ssr: false }
+);
 
 interface TrendingBlog {
   slug: string;
@@ -1387,7 +1404,7 @@ export function CollegesClient({ colleges, trendingBlogs = [] }: { colleges: Col
                               <div className="flex items-center gap-3 min-w-0">
                                 <div className="w-9 h-9 rounded-xl bg-slate-100 border border-slate-200 flex items-center justify-center text-xs font-black text-blue-600 shrink-0 group-hover:border-blue-300">
                                   {col.logo && !col.logo.includes("default") ? (
-                                    <img src={col.logo} alt={`${col.name} logo - CareerWithMohit`} className="w-full h-full object-contain p-1" />
+                                    <img src={col.logo} alt={`${col.name} logo`} width={36} height={36} loading="lazy" decoding="async" className="w-full h-full object-contain p-1" />
                                   ) : (
                                     col.name.charAt(0)
                                   )}

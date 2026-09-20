@@ -8,7 +8,7 @@ export default function StudentCommunitySection() {
   return (
     <section 
       id="student-community"
-      className="relative overflow-hidden bg-gradient-to-b from-slate-900 via-[#0A192F] to-slate-950 text-white px-6 py-20 sm:px-12 sm:py-24 border-t border-b border-blue-900/40"
+      className="relative overflow-hidden bg-gradient-to-b from-slate-900 via-[#0A192F] to-slate-950 text-white px-6 py-20 sm:px-12 sm:py-24 border-t border-b border-blue-900/40 content-auto"
       aria-label="Student Communities"
     >
       {/* Decorative ambient lights */}

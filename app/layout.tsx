@@ -276,6 +276,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+        <link rel="dns-prefetch" href="https://api.counterapi.dev" />
         <link rel="alternate" type="application/rss+xml" title="CareerWithMohit Blog" href="/feed.xml" />
         <link rel="author" href="https://careerwithmohit.online/about/" />
         <link rel="help" href="/llms.txt" />
