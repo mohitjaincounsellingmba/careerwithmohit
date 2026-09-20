@@ -1,39 +1,31 @@
 "use client";
 
-import { useState, useEffect, useMemo, useRef } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { useRouter } from "next/navigation";
 import { getAdminSession, isSessionValid, clearAdminSession } from "@/lib/admin-auth";
 import { AdminHeader } from "@/components/admin/AdminHeader";
 import { TimeRangeSelector, TimeRangeType } from "@/components/admin/TimeRangeSelector";
-import { OverviewTab } from "@/components/admin/OverviewTab";
-import { RealTimeTrafficTab } from "@/components/admin/RealTimeTrafficTab";
-import { BlogAnalyticsTab } from "@/components/admin/BlogAnalyticsTab";
-import { PageAnalyticsTab } from "@/components/admin/PageAnalyticsTab";
-import { LocationAnalyticsTab } from "@/components/admin/LocationAnalyticsTab";
-import { ClicksImpressionsTab } from "@/components/admin/ClicksImpressionsTab";
-import { LeadsOverviewTab } from "@/components/admin/LeadsOverviewTab";
-import { SeoStudioTab } from "@/components/admin/SeoStudioTab";
-import { EducationSeoStrategyTab } from "@/components/admin/EducationSeoStrategyTab";
-import { ABTestingTab } from "@/components/admin/ABTestingTab";
-import { CollegesTab } from "@/components/admin/CollegesTab";
-import { DiffInspectorTab } from "@/components/admin/DiffInspectorTab";
-import { AlertCircle, Clock, Zap, CheckCircle2, RefreshCw } from "lucide-react";
+import { TrafficSection } from "@/components/admin/TrafficSection";
+import { BlogsSuggestionSection } from "@/components/admin/BlogsSuggestionSection";
+import { ManageLeadsSection } from "@/components/admin/ManageLeadsSection";
+import { AlertCircle, CheckCircle2 } from "lucide-react";
 
 export default function AdminDashboardPage() {
   const router = useRouter();
   const [isMounted, setIsMounted] = useState(false);
   const [isAuthenticated, setIsAuthenticated] = useState<boolean | null>(null);
-  const [activeTab, setActiveTab] = useState("overview");
+  
+  // Strictly 3 Focused Sections: traffic | blogs-suggestion | leads
+  const [activeTab, setActiveTab] = useState("traffic");
   const [timeRange, setTimeRange] = useState<TimeRangeType>("30d");
   const [rawData, setRawData] = useState<any | null>(null);
   const [isLoadingData, setIsLoadingData] = useState(true);
   const [isRefreshing, setIsRefreshing] = useState(false);
-  const [selectedBlog, setSelectedBlog] = useState<any | null>(null);
   const [fetchError, setFetchError] = useState("");
   const [activeNow, setActiveNow] = useState<number>(0);
 
-  // 5-Minute Auto-Sync Real-Time Rules Engine
-  const [autoSyncIntervalSeconds, setAutoSyncIntervalSeconds] = useState<number>(300); // 5 minutes default
+  // Auto-Sync Real-Time Rules Engine (Default 5 min = 300s)
+  const [autoSyncIntervalSeconds, setAutoSyncIntervalSeconds] = useState<number>(300);
   const [secondsUntilNextSync, setSecondsUntilNextSync] = useState<number>(300);
   const [lastSyncedTime, setLastSyncedTime] = useState<string>("Just now");
   const [showSyncSuccessToast, setShowSyncSuccessToast] = useState(false);
@@ -138,14 +130,13 @@ export default function AdminDashboardPage() {
     }
   }, [isAuthenticated]);
 
-  // Real-Time 5-Minute Auto-Sync Countdown Timer Effect
+  // Auto-Sync Countdown Timer Effect
   useEffect(() => {
     if (!isAuthenticated || autoSyncIntervalSeconds <= 0) return;
 
     const timer = setInterval(() => {
       setSecondsUntilNextSync((prev) => {
         if (prev <= 1) {
-          // Trigger Auto Background Sync
           loadAdminDataset(true);
           return autoSyncIntervalSeconds;
         }
@@ -156,11 +147,10 @@ export default function AdminDashboardPage() {
     return () => clearInterval(timer);
   }, [isAuthenticated, autoSyncIntervalSeconds]);
 
-  // Dynamically compute dataset filtered by time range (24h, 7d, 14d, 30d, 3m, 6m, 9m, 12m, all)
+  // Dynamically compute dataset filtered by time range
   const filteredData = useMemo(() => {
     if (!rawData) return null;
 
-    // Generate fresh date keys up to TODAY so everyday data is always up-to-date
     const today = new Date();
     const freshDateKeys: string[] = [];
     for (let i = 364; i >= 0; i--) {
@@ -169,7 +159,6 @@ export default function AdminDashboardPage() {
       freshDateKeys.push(d.toISOString().split('T')[0]);
     }
 
-    // Generate fresh hour keys up to current hour
     const currentHour = today.getHours();
     const freshHourKeys: string[] = [];
     for (let i = 23; i >= 0; i--) {
@@ -203,7 +192,7 @@ export default function AdminDashboardPage() {
     let rangeTotalClicks = 0;
     let rangeTotalImpressions = 0;
 
-    const rangeBlogs = rawData.blogs.map((blog: any) => {
+    const rangeBlogs = (rawData.blogs || []).map((blog: any) => {
       let bViews = 0;
       let bClicks = 0;
       let bImpressions = 0;
@@ -213,7 +202,6 @@ export default function AdminDashboardPage() {
       const filteredDailyImpressions: Record<string, number> = {};
 
       if (is24h) {
-        // 24 Hours Hourly Aggregation
         for (let hIdx = 0; hIdx < 24; hIdx++) {
           const hKey = freshHourKeys[hIdx] || `${hIdx}:00`;
           const v = blog.hViewsArr ? (blog.hViewsArr[hIdx] || 0) : Math.round((blog.vArr?.[364] || 1) / 14);
@@ -229,7 +217,6 @@ export default function AdminDashboardPage() {
           bImpressions += imp;
         }
       } else {
-        // Daily Aggregation (7d to 365d)
         for (let i = startIdx; i < totalDays; i++) {
           const dKey = freshDateKeys[i];
           const v = blog.vArr ? (blog.vArr[i] || 0) : (blog.dailyViews?.[dKey] || 0);
@@ -246,7 +233,6 @@ export default function AdminDashboardPage() {
         }
       }
 
-      // If timeRange is 'all', preserve exact recorded view counts from views.json
       if (timeRange === "all") {
         bViews = blog.totalViews;
         bClicks = blog.totalClicks;
@@ -277,7 +263,7 @@ export default function AdminDashboardPage() {
 
     const totalUniqueVisitors = Math.round(rangeTotalViews * 0.68);
 
-    const rangePages = rawData.pages.map((p: any) => {
+    const rangePages = (rawData.pages || []).map((p: any) => {
       return {
         ...p,
         views: timeRange === "all" ? p.views : Math.round(rangeTotalViews * (p.path === "/" ? 0.24 : p.path === "/colleges" ? 0.18 : 0.12)),
@@ -285,7 +271,7 @@ export default function AdminDashboardPage() {
       };
     });
 
-    const rangeLocations = rawData.locations.map((loc: any) => ({
+    const rangeLocations = (rawData.locations || []).map((loc: any) => ({
       ...loc,
       totalViews: Math.round(rangeTotalViews * loc.share),
       visitors: Math.round(totalUniqueVisitors * loc.share)
@@ -302,10 +288,12 @@ export default function AdminDashboardPage() {
         totalClicks: rangeTotalClicks,
         totalImpressions: rangeTotalImpressions,
         avgCtr: rangeTotalImpressions > 0 ? ((rangeTotalClicks / rangeTotalImpressions) * 100).toFixed(2) + '%' : '0.00%',
+        totalLeads: rawData.leads?.length ?? 5,
       },
       pages: rangePages,
       locations: rangeLocations,
-      blogs: rangeBlogs
+      blogs: rangeBlogs,
+      leads: rawData.leads || []
     };
   }, [rawData, timeRange]);
 
@@ -343,44 +331,45 @@ export default function AdminDashboardPage() {
         lastSyncedTime={lastSyncedTime}
       />
 
-      {/* Sticky Time Range & Real-Time Sync Bar */}
-      <div className="bg-slate-950/90 border-b border-slate-800/80 px-4 sm:px-6 lg:px-8 py-2.5 backdrop-blur-sm sticky top-16 z-20">
-        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-          <TimeRangeSelector
-            selectedRange={timeRange}
-            onRangeChange={setTimeRange}
-          />
+      {/* Sticky Time Range & Real-Time Sync Bar - active on Traffic section */}
+      {activeTab === "traffic" && (
+        <div className="bg-slate-950/90 border-b border-slate-800/80 px-4 sm:px-6 lg:px-8 py-2.5 backdrop-blur-sm sticky top-16 z-20">
+          <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+            <TimeRangeSelector
+              selectedRange={timeRange}
+              onRangeChange={setTimeRange}
+            />
 
-          <div className="flex items-center gap-3 text-[11px] font-mono">
-            {/* Real-time sync rule status */}
-            <div className="hidden lg:flex items-center gap-2 px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 text-slate-300">
-              <span className="relative flex h-2 w-2">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
-              </span>
-              <span>5-Min Auto-Sync Rule Active: Next refresh in <strong className="text-amber-400">{Math.floor(secondsUntilNextSync / 60)}m {secondsUntilNextSync % 60}s</strong></span>
-            </div>
+            <div className="flex items-center gap-3 text-[11px] font-mono">
+              <div className="hidden lg:flex items-center gap-2 px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-800 text-slate-300">
+                <span className="relative flex h-2 w-2">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+                </span>
+                <span>Auto-Sync Active: Next in <strong className="text-amber-400">{Math.floor(secondsUntilNextSync / 60)}m {secondsUntilNextSync % 60}s</strong></span>
+              </div>
 
-            <div className="text-slate-400 hidden sm:block">
-              Window: <span className="text-amber-400 font-bold uppercase">{timeRange === "24h" ? "Last 24 Hours (Hourly)" : timeRange}</span> ({filteredData?.dateKeys?.length || 0} {filteredData?.is24h ? "hourly slots" : "days window"})
+              <div className="text-slate-400 hidden sm:block">
+                Window: <span className="text-amber-400 font-bold uppercase">{timeRange === "24h" ? "Last 24 Hours (Hourly)" : timeRange}</span> ({filteredData?.dateKeys?.length || 0} {filteredData?.is24h ? "hourly slots" : "days window"})
+              </div>
             </div>
           </div>
         </div>
-      </div>
+      )}
 
       {/* Background Auto-Sync Toast */}
       {showSyncSuccessToast && (
         <div className="fixed bottom-6 right-6 z-50 flex items-center gap-3 px-4 py-3 rounded-2xl bg-emerald-950/90 border border-emerald-500/40 text-emerald-300 text-xs font-semibold shadow-2xl backdrop-blur-md animate-bounce">
           <CheckCircle2 className="w-4 h-4 text-emerald-400" />
-          <span>Real-time dataset auto-synced (5-min rule executed)</span>
+          <span>Real-time dataset auto-synced</span>
         </div>
       )}
 
       <main className="flex-1 max-w-7xl w-full mx-auto p-4 sm:p-6 lg:p-8">
-        {isLoadingData ? (
+        {isLoadingData && activeTab === "traffic" ? (
           <div className="py-24 flex flex-col items-center justify-center gap-3 text-slate-400">
             <div className="w-8 h-8 border-3 border-amber-400 border-t-transparent rounded-full animate-spin" />
-            <span className="text-sm font-semibold">Loading 5,109+ blog & 654+ college analytics...</span>
+            <span className="text-sm font-semibold">Loading real-time analytics & traffic telemetry...</span>
           </div>
         ) : fetchError ? (
           <div className="p-6 rounded-2xl bg-red-500/10 border border-red-500/30 text-red-400 flex items-center justify-between">
@@ -395,96 +384,30 @@ export default function AdminDashboardPage() {
               Retry
             </button>
           </div>
-        ) : filteredData ? (
+        ) : (
           <>
-            {activeTab === "overview" && (
-              <OverviewTab
+            {/* 1. Traffic Section */}
+            {activeTab === "traffic" && (
+              <TrafficSection
                 data={filteredData}
-                setActiveTab={setActiveTab}
-                onSelectBlog={(blog) => {
-                  setSelectedBlog(blog);
-                  setActiveTab("blogs");
-                }}
+                activeNow={activeNow}
+                timeRange={timeRange}
               />
             )}
 
-            {activeTab === "consultant-seo" && (
-              <EducationSeoStrategyTab
-                blogs={filteredData.blogs || []}
-                colleges={filteredData.colleges || []}
-                summary={filteredData.summary}
-              />
+            {/* 2. Blogs Suggestion Section */}
+            {activeTab === "blogs-suggestion" && (
+              <BlogsSuggestionSection />
             )}
 
-            {activeTab === "colleges" && (
-              <CollegesTab colleges={filteredData.colleges || []} />
-            )}
-
-            {activeTab === "seo" && (
-              <SeoStudioTab
-                blogs={filteredData.blogs || []}
-                summary={filteredData.summary}
-              />
-            )}
-
-            {activeTab === "diff" && (
-              <DiffInspectorTab
-                blogs={filteredData.blogs || []}
-                colleges={filteredData.colleges || []}
-                recentCommits={filteredData.recentCommits || []}
-                sampleDiffs={filteredData.sampleDiffs || []}
-              />
-            )}
-
-            {activeTab === "realtime" && (
-              <RealTimeTrafficTab
-                blogs={filteredData.blogs || []}
-                pages={filteredData.pages || []}
-              />
-            )}
-
-            {activeTab === "abtest" && (
-              <ABTestingTab blogs={filteredData.blogs || []} />
-            )}
-
-            {activeTab === "blogs" && (
-              <BlogAnalyticsTab
-                blogs={filteredData.blogs || []}
-                categories={Object.keys(filteredData.categoryStats || {})}
-                dateKeys={filteredData.dateKeys || []}
-                selectedBlog={selectedBlog}
-                onSelectBlog={setSelectedBlog}
-                is24h={filteredData.is24h}
-              />
-            )}
-
-            {activeTab === "pages" && (
-              <PageAnalyticsTab
-                pages={filteredData.pages || []}
-                totalViews={filteredData.summary.totalViews}
-              />
-            )}
-
-            {activeTab === "locations" && (
-              <LocationAnalyticsTab
-                locations={filteredData.locations || []}
-                totalViews={filteredData.summary.totalViews}
-              />
-            )}
-
-            {activeTab === "clicks" && (
-              <ClicksImpressionsTab summary={filteredData.summary} />
-            )}
-
+            {/* 3. Manage Leads Section (Google Sheet Real-Time Sync) */}
             {activeTab === "leads" && (
-              <LeadsOverviewTab
-                summary={filteredData.summary}
-                leads={filteredData.leads || []}
-                subscribers={filteredData.subscribers || []}
+              <ManageLeadsSection
+                initialLeads={filteredData?.leads || []}
               />
             )}
           </>
-        ) : null}
+        )}
       </main>
     </div>
   );

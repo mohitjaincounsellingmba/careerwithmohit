@@ -4,23 +4,14 @@ import { useState } from "react";
 import {
   LogOut,
   RefreshCw,
-  BarChart3,
-  Globe,
-  FileText,
-  MapPin,
-  MousePointerClick,
-  Users,
-  Shield,
   Zap,
-  Sparkles,
-  FlaskConical,
-  GraduationCap,
-  GitCompare,
-  Compass,
+  Lightbulb,
+  Users,
   Clock,
   ChevronDown,
   CheckCircle2,
-  SlidersHorizontal
+  Shield,
+  Activity
 } from "lucide-react";
 
 interface AdminHeaderProps {
@@ -56,19 +47,11 @@ export function AdminHeader({
 }: AdminHeaderProps) {
   const [showSyncMenu, setShowSyncMenu] = useState(false);
 
+  // Strictly 3 Focused Sections: Traffic, Blogs Suggestion, Manage Leads (Google Sheet Synced)
   const tabs = [
-    { id: "overview", label: "Overview", icon: BarChart3 },
-    { id: "leads", label: totalLeadsCount !== undefined ? `👥 Leads & Inquiries (${totalLeadsCount})` : "👥 Leads & Inquiries", icon: Users },
-    { id: "consultant-seo", label: "🎯 Consultant SEO Strategy", icon: Compass },
-    { id: "colleges", label: `🎓 Colleges (${totalCollegesCount})`, icon: GraduationCap },
-    { id: "seo", label: "🌐 SEO & GEO Studio", icon: Sparkles },
-    { id: "diff", label: "🔄 Diff & Revisions", icon: GitCompare },
-    { id: "blogs", label: `📝 Blogs (${totalBlogsCount})`, icon: FileText },
-    { id: "realtime", label: "⚡ Real-Time Traffic", icon: Zap },
-    { id: "abtest", label: "🧪 A/B Testing", icon: FlaskConical },
-    { id: "pages", label: "📄 Page Views", icon: Globe },
-    { id: "locations", label: "📍 Visitor Locations", icon: MapPin },
-    { id: "clicks", label: "👆 Clicks & CTR", icon: MousePointerClick },
+    { id: "traffic", label: "⚡ Traffic Section", icon: Zap },
+    { id: "blogs-suggestion", label: "💡 Blogs Suggestion Section", icon: Lightbulb },
+    { id: "leads", label: totalLeadsCount !== undefined ? `👥 Manage Leads (${totalLeadsCount})` : "👥 Manage Leads Section", icon: Users },
   ];
 
   const formatCountdown = (secs: number) => {
@@ -83,7 +66,6 @@ export function AdminHeader({
     { label: "Every 3 Minutes", value: 180 },
     { label: "Every 5 Minutes (Default)", value: 300 },
     { label: "Every 10 Minutes", value: 600 },
-    { label: "Every 15 Minutes", value: 900 },
     { label: "Pause Auto-Sync", value: 0 },
   ];
 
@@ -100,21 +82,21 @@ export function AdminHeader({
               <div className="flex items-center gap-2">
                 <span className="font-extrabold text-white text-lg tracking-tight">CareerWithMohit</span>
                 <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-amber-500/10 text-amber-400 border border-amber-500/20">
-                  Admin Command Hub
+                  Admin Hub
                 </span>
               </div>
-              <p className="text-xs text-slate-400">Real Data • 5,109+ Posts • 654 Colleges • Live SEO & Auto-Sync</p>
+              <p className="text-xs text-slate-400">Traffic • Blogs Suggestion • Manage Leads</p>
             </div>
           </div>
 
-          {/* Action Buttons & Live Badge */}
+          {/* Action Buttons & Live Telemetry Badge */}
           <div className="flex items-center gap-2.5">
             {/* Real-Time Auto-Sync Countdown Badge */}
             <div className="relative">
               <button
                 onClick={() => setShowSyncMenu(!showSyncMenu)}
                 className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-800/90 hover:bg-slate-800 border border-slate-700 text-xs font-semibold text-slate-200 transition-all cursor-pointer"
-                title="Configure 5-minute Auto-Refresh Rule"
+                title="Configure Auto-Refresh Interval"
               >
                 <span className="relative flex h-2 w-2">
                   {autoSyncIntervalSeconds > 0 && (
@@ -135,7 +117,7 @@ export function AdminHeader({
                   <div className="px-3 py-2 border-b border-slate-800 flex items-center justify-between text-xs">
                     <span className="font-bold text-white flex items-center gap-1.5">
                       <Clock className="w-3.5 h-3.5 text-amber-400" />
-                      Auto-Refresh Rule
+                      Auto-Refresh Interval
                     </span>
                     <span className="text-[10px] text-slate-400">{lastSyncedTime}</span>
                   </div>
@@ -177,7 +159,7 @@ export function AdminHeader({
 
             {/* Live Active Visitors Badge */}
             <div
-              onClick={() => setActiveTab("realtime")}
+              onClick={() => setActiveTab("traffic")}
               className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-bold cursor-pointer hover:bg-emerald-500/20 transition-all"
             >
               <span className="relative flex h-2 w-2">
@@ -198,11 +180,6 @@ export function AdminHeader({
 
             <div className="h-4 w-[1px] bg-slate-800 hidden sm:block" />
 
-            <div className="flex items-center gap-2 px-2.5 py-1 rounded-full bg-slate-800/50 border border-slate-800 text-xs text-slate-300 hidden md:flex">
-              <Shield className="w-3.5 h-3.5 text-emerald-400" />
-              <span>careerwithmohit</span>
-            </div>
-
             <button
               onClick={onLogout}
               className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-red-500/10 hover:bg-red-500/20 border border-red-500/30 text-red-400 text-xs font-semibold transition-all cursor-pointer"
@@ -213,8 +190,8 @@ export function AdminHeader({
           </div>
         </div>
 
-        {/* Tab Navigation */}
-        <div className="flex items-center gap-1 overflow-x-auto no-scrollbar py-2 border-t border-slate-800/60">
+        {/* Tab Navigation - Focused on strictly 3 core tabs */}
+        <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-2.5 border-t border-slate-800/60">
           {tabs.map((t) => {
             const Icon = t.icon;
             const isActive = activeTab === t.id;
@@ -222,13 +199,13 @@ export function AdminHeader({
               <button
                 key={t.id}
                 onClick={() => setActiveTab(t.id)}
-                className={`flex items-center gap-2 px-3.5 py-2 rounded-xl text-xs font-semibold whitespace-nowrap transition-all cursor-pointer ${
+                className={`flex items-center gap-2.5 px-5 py-2.5 rounded-xl text-xs font-bold whitespace-nowrap transition-all cursor-pointer ${
                   isActive
-                    ? "bg-amber-500 text-slate-950 shadow-md shadow-amber-500/20 font-bold"
-                    : "text-slate-400 hover:text-white hover:bg-slate-800/60"
+                    ? "bg-amber-500 text-slate-950 shadow-lg shadow-amber-500/20 font-extrabold scale-[1.02]"
+                    : "text-slate-400 hover:text-white hover:bg-slate-800/60 bg-slate-950/40 border border-slate-800/60"
                 }`}
               >
-                <Icon className={`w-3.5 h-3.5 ${isActive ? "text-slate-950" : "text-amber-400"}`} />
+                <Icon className={`w-4 h-4 ${isActive ? "text-slate-950" : "text-amber-400"}`} />
                 <span>{t.label}</span>
               </button>
             );
