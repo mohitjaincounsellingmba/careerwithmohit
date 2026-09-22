@@ -14,7 +14,6 @@ import {
   Laptop,
   Award,
   Globe,
-  ArrowUpRight,
   ArrowRight,
   Video,
   Target,
@@ -22,7 +21,6 @@ import {
   Percent,
   FileText,
   ShieldCheck,
-  Zap,
   BookOpen
 } from 'lucide-react';
 import { SearchInput } from './SearchInput';
@@ -94,147 +92,129 @@ export function Header() {
   const collegeLinks = [
     {
       title: '770+ Colleges Directory',
+      desc: 'All-India verified MBA, B.Tech & BBA institutes',
       href: '/colleges',
-      badge: 'All India',
-      badgeColor: 'text-blue-700 bg-blue-50 border-blue-200',
       icon: Building2,
-      iconColor: 'text-blue-600',
+      iconColor: 'text-blue-600 bg-blue-50',
     },
     {
       title: 'Top 20 IIMs & XLRI',
+      desc: 'Tier-1 cutoffs, fee structures & audited placements',
       href: '/top-tier-mba-colleges?tab=iim',
-      badge: 'Tier-1',
-      badgeColor: 'text-amber-700 bg-amber-50 border-amber-200',
       icon: GraduationCap,
-      iconColor: 'text-amber-500',
+      iconColor: 'text-amber-600 bg-amber-50',
     },
     {
       title: 'High ROI B-Schools (< ₹10L)',
+      desc: 'Best placement-to-fee ratio management colleges',
       href: '/colleges?budget=under-10l',
-      badge: 'Best ROI',
-      badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
       icon: Sparkles,
-      iconColor: 'text-emerald-500',
+      iconColor: 'text-emerald-600 bg-emerald-50',
     },
     {
-      title: 'Delhi NCR, Pune & Bangalore',
+      title: 'Delhi NCR, Pune & Bangalore Hubs',
+      desc: 'City-wise top accredited college rankings',
       href: '/colleges',
-      badge: 'Hubs',
-      badgeColor: 'text-purple-700 bg-purple-50 border-purple-200',
       icon: Globe,
-      iconColor: 'text-purple-500',
+      iconColor: 'text-purple-600 bg-purple-50',
     },
     {
-      title: 'UGC-DEB Online Degrees',
+      title: 'UGC-DEB Online Universities',
+      desc: '40+ NAAC A++ entitled flexible degree programs',
       href: '/online-degree-certification',
-      badge: '40+ Univs',
-      badgeColor: 'text-cyan-700 bg-cyan-50 border-cyan-200',
       icon: Laptop,
-      iconColor: 'text-cyan-500',
+      iconColor: 'text-cyan-600 bg-cyan-50',
     },
   ];
 
   const admissionLinks = [
     {
       title: 'MBA Form Combo Discounts',
+      desc: 'Save up to ₹5,000+ across 55+ top B-Schools',
       href: '/mba-application-form-discount',
       badge: 'Save ₹5k+',
-      badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-300 font-bold',
+      badgeColor: 'text-emerald-700 bg-emerald-100 font-bold',
       icon: Percent,
-      iconColor: 'text-emerald-600',
-      highlight: true
+      iconColor: 'text-emerald-600 bg-emerald-50',
     },
     {
-      title: 'Admissions 2027 Portal',
+      title: 'Admissions 2027 Strategy Hub',
+      desc: 'Direct & merit-based admission guidelines',
       href: '/admissions',
-      badge: '2027-29',
-      badgeColor: 'text-blue-600 bg-blue-50 border-blue-200/60',
       icon: Sparkles,
-      iconColor: 'text-blue-600',
-      highlight: false
+      iconColor: 'text-blue-600 bg-blue-50',
     },
     {
-      title: 'MBA & PGDM 2027 Guide',
+      title: 'MBA & PGDM 2027 Roadmap',
+      desc: 'B-School shortlist criteria & GD-PI prep',
       href: '/mba-pgdm-admission-2027',
-      badge: 'Strategy',
-      badgeColor: 'text-amber-700 bg-amber-50 border-amber-200/60',
       icon: GraduationCap,
-      iconColor: 'text-amber-500'
-    },
-    {
-      title: 'Top Tier MBA Directory',
-      href: '/top-tier-mba-colleges',
-      badge: 'Audited',
-      badgeColor: 'text-indigo-700 bg-indigo-50 border-indigo-200/60',
-      icon: Building2,
-      iconColor: 'text-indigo-500'
+      iconColor: 'text-amber-600 bg-amber-50',
     },
     {
       title: 'Abroad Education Advisory',
+      desc: 'USA, UK, Canada, Germany & Australia admissions',
       href: '/abroad-education',
-      badge: 'Global',
-      badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-200/60',
       icon: Globe,
-      iconColor: 'text-emerald-500'
+      iconColor: 'text-rose-600 bg-rose-50',
     },
     {
-      title: 'Scholarships & Aid 2026',
+      title: 'Scholarships & Merit Grants',
+      desc: 'Financial aid and fee concessions 2026-27',
       href: '/scholarships-2026',
-      badge: 'Merit',
-      badgeColor: 'text-slate-600 bg-slate-100 border-slate-200',
       icon: Award,
-      iconColor: 'text-slate-500'
+      iconColor: 'text-slate-600 bg-slate-100',
     },
   ];
 
   const toolLinks = [
     {
       title: 'CAT 2026 Score Calculator',
+      desc: 'Check response sheet & predict MBA percentile',
       href: '/tools/cat-score-calculator',
       badge: 'Popular',
-      badgeColor: 'text-amber-700 bg-amber-50 border-amber-200',
+      badgeColor: 'text-amber-700 bg-amber-100 font-bold',
       icon: Calculator,
-      iconColor: 'text-amber-600'
+      iconColor: 'text-amber-600 bg-amber-50',
     },
     {
       title: 'MBA Form Discount Calculator',
+      desc: 'Build custom application bundles & save money',
       href: '/mba-application-form-discount',
       badge: 'Save ₹',
-      badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+      badgeColor: 'text-emerald-700 bg-emerald-100 font-bold',
       icon: Percent,
-      iconColor: 'text-emerald-600'
+      iconColor: 'text-emerald-600 bg-emerald-50',
     },
     {
       title: 'Free ATS Resume Builder',
+      desc: 'Placement-ready single-page resume generator',
       href: '/tools/ats-resume-builder',
       badge: 'Free AI',
-      badgeColor: 'text-blue-700 bg-blue-50 border-blue-200',
+      badgeColor: 'text-blue-700 bg-blue-100 font-bold',
       icon: FileText,
-      iconColor: 'text-blue-600'
+      iconColor: 'text-blue-600 bg-blue-50',
     },
     {
-      title: 'MAT Score Calculator',
+      title: 'MAT Score & Percentile Checker',
+      desc: 'Calculate scaled composite score out of 800',
       href: '/tools/mat-score-calculator',
-      badge: 'Live',
-      badgeColor: 'text-purple-700 bg-purple-50 border-purple-200',
       icon: Calculator,
-      iconColor: 'text-purple-600'
+      iconColor: 'text-purple-600 bg-purple-50',
     },
     {
       title: 'B.Tech College Predictor',
+      desc: 'Predict NITs, IIITs & state colleges by JEE rank',
       href: '/tools/btech-college-predictor',
-      badge: 'JEE Main',
-      badgeColor: 'text-rose-700 bg-rose-50 border-rose-200',
       icon: Target,
-      iconColor: 'text-rose-600'
+      iconColor: 'text-rose-600 bg-rose-50',
     },
     {
       title: 'Accreditation Checker',
+      desc: 'Verify NAAC, UGC-DEB, AICTE & AIU approval',
       href: '/tools/accreditation-checker',
-      badge: 'NAAC / UGC',
-      badgeColor: 'text-cyan-700 bg-cyan-50 border-cyan-200',
       icon: ShieldCheck,
-      iconColor: 'text-cyan-600'
+      iconColor: 'text-cyan-600 bg-cyan-50',
     },
   ];
 
@@ -254,20 +234,20 @@ export function Header() {
       <EducationTicker />
 
       {/* 2. Main Navigation Header */}
-      <header className="sticky top-0 z-40 w-full border-b border-slate-200/80 bg-white/95 backdrop-blur-md transition-all shadow-xs" role="banner">
+      <header className="sticky top-0 z-40 w-full border-b border-slate-200/90 bg-white/95 backdrop-blur-md transition-all shadow-xs" role="banner">
         <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-6">
           
-          {/* Left: Brand Logo + Primary Nav Menu */}
+          {/* Left: Brand Logo */}
           <div className="flex items-center gap-6 xl:gap-8">
             <Logo variant="header" size="md" />
 
             {/* Desktop Navigation Links */}
-            <nav className="hidden lg:flex items-center gap-5 xl:gap-6 text-[13px] font-semibold text-slate-700" aria-label="Main navigation">
+            <nav className="hidden lg:flex items-center gap-6 xl:gap-7 text-[13px] font-semibold text-slate-700" aria-label="Main navigation">
               
               {/* Colleges Dropdown */}
               <div 
                 ref={collegesRef} 
-                className="relative group py-2"
+                className="relative py-2"
                 onMouseEnter={() => setIsCollegesOpen(true)}
                 onMouseLeave={() => setIsCollegesOpen(false)}
               >
@@ -282,7 +262,7 @@ export function Header() {
                 >
                   <span>Colleges</span>
                   <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
-                    isCollegesOpen ? '-rotate-180 text-blue-600' : 'group-hover:-rotate-180'
+                    isCollegesOpen ? '-rotate-180 text-blue-600' : ''
                   }`} />
                 </button>
 
@@ -291,7 +271,7 @@ export function Header() {
                     isCollegesOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
                   }`}
                 >
-                  <div className="w-72 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                  <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
                     {collegeLinks.map((item) => {
                       const Icon = item.icon;
                       const isActive = pathname === item.href;
@@ -301,19 +281,21 @@ export function Header() {
                           href={item.href}
                           prefetch={false}
                           onClick={() => setIsCollegesOpen(false)}
-                          className={`px-3 py-2.5 rounded-xl transition-all flex items-center justify-between text-xs font-semibold ${
-                            isActive
-                              ? 'bg-blue-50 text-blue-600'
-                              : 'hover:bg-slate-50 text-slate-700 hover:text-blue-600'
+                          className={`p-2.5 rounded-xl transition-all flex items-start gap-3 ${
+                            isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
                           }`}
                         >
-                          <div className="flex items-center gap-2.5">
-                            <Icon className={`w-4 h-4 ${item.iconColor}`} />
-                            <span>{item.title}</span>
+                          <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 ${item.iconColor}`}>
+                            <Icon className="w-4 h-4" />
                           </div>
-                          <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded-md border ${item.badgeColor}`}>
-                            {item.badge}
-                          </span>
+                          <div>
+                            <div className={`text-xs font-bold ${isActive ? 'text-blue-600' : 'text-slate-900'}`}>
+                              {item.title}
+                            </div>
+                            <div className="text-[11px] text-slate-500 font-normal leading-snug">
+                              {item.desc}
+                            </div>
+                          </div>
                         </Link>
                       );
                     })}
@@ -324,7 +306,7 @@ export function Header() {
               {/* Admissions Dropdown */}
               <div 
                 ref={admissionsRef} 
-                className="relative group py-2"
+                className="relative py-2"
                 onMouseEnter={() => setIsAdmissionsOpen(true)}
                 onMouseLeave={() => setIsAdmissionsOpen(false)}
               >
@@ -339,7 +321,7 @@ export function Header() {
                 >
                   <span>Admissions 2027</span>
                   <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
-                    isAdmissionsOpen ? '-rotate-180 text-blue-600' : 'group-hover:-rotate-180'
+                    isAdmissionsOpen ? '-rotate-180 text-blue-600' : ''
                   }`} />
                 </button>
 
@@ -348,31 +330,38 @@ export function Header() {
                     isAdmissionsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
                   }`}
                 >
-                  <div className="w-72 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                  <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
                     {admissionLinks.map((item) => {
                       const Icon = item.icon;
                       const isActive = pathname === item.href;
                       return (
                         <Link
-                          key={item.href}
+                          key={item.title}
                           href={item.href}
                           prefetch={false}
                           onClick={() => setIsAdmissionsOpen(false)}
-                          className={`px-3 py-2.5 rounded-xl transition-all flex items-center justify-between text-xs font-semibold ${
-                            item.highlight 
-                              ? 'bg-blue-50/70 hover:bg-blue-100/80 text-blue-900' 
-                              : isActive
-                                ? 'bg-slate-100 text-blue-600'
-                                : 'hover:bg-slate-50 text-slate-700 hover:text-blue-600'
+                          className={`p-2.5 rounded-xl transition-all flex items-start justify-between gap-2 ${
+                            isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
                           }`}
                         >
-                          <div className="flex items-center gap-2.5">
-                            <Icon className={`w-4 h-4 ${item.iconColor}`} />
-                            <span>{item.title}</span>
+                          <div className="flex items-start gap-3">
+                            <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 ${item.iconColor}`}>
+                              <Icon className="w-4 h-4" />
+                            </div>
+                            <div>
+                              <div className={`text-xs font-bold ${isActive ? 'text-blue-600' : 'text-slate-900'}`}>
+                                {item.title}
+                              </div>
+                              <div className="text-[11px] text-slate-500 font-normal leading-snug">
+                                {item.desc}
+                              </div>
+                            </div>
                           </div>
-                          <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded-md border ${item.badgeColor}`}>
-                            {item.badge}
-                          </span>
+                          {item.badge && (
+                            <span className={`text-[9px] uppercase px-1.5 py-0.2 rounded shrink-0 self-start mt-0.5 ${item.badgeColor}`}>
+                              {item.badge}
+                            </span>
+                          )}
                         </Link>
                       );
                     })}
@@ -400,7 +389,7 @@ export function Header() {
               {/* Tools & Calculators Dropdown */}
               <div 
                 ref={toolsRef} 
-                className="relative group py-2"
+                className="relative py-2"
                 onMouseEnter={() => setIsToolsOpen(true)}
                 onMouseLeave={() => setIsToolsOpen(false)}
               >
@@ -413,9 +402,9 @@ export function Header() {
                   aria-expanded={isToolsOpen}
                   aria-haspopup="true"
                 >
-                  <span>Calculators &amp; Tools</span>
+                  <span>Tools &amp; Predictors</span>
                   <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
-                    isToolsOpen ? '-rotate-180 text-blue-600' : 'group-hover:-rotate-180'
+                    isToolsOpen ? '-rotate-180 text-blue-600' : ''
                   }`} />
                 </button>
 
@@ -424,7 +413,7 @@ export function Header() {
                     isToolsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
                   }`}
                 >
-                  <div className="w-72 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                  <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
                     {toolLinks.map((item) => {
                       const Icon = item.icon;
                       const isActive = pathname === item.href;
@@ -434,19 +423,28 @@ export function Header() {
                           href={item.href}
                           prefetch={false}
                           onClick={() => setIsToolsOpen(false)}
-                          className={`px-3 py-2.5 rounded-xl transition-all flex items-center justify-between text-xs font-semibold ${
-                            isActive
-                              ? 'bg-blue-50 text-blue-600'
-                              : 'hover:bg-slate-50 text-slate-700 hover:text-blue-600'
+                          className={`p-2.5 rounded-xl transition-all flex items-start justify-between gap-2 ${
+                            isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
                           }`}
                         >
-                          <div className="flex items-center gap-2.5">
-                            <Icon className={`w-4 h-4 ${item.iconColor}`} />
-                            <span>{item.title}</span>
+                          <div className="flex items-start gap-3">
+                            <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 ${item.iconColor}`}>
+                              <Icon className="w-4 h-4" />
+                            </div>
+                            <div>
+                              <div className={`text-xs font-bold ${isActive ? 'text-blue-600' : 'text-slate-900'}`}>
+                                {item.title}
+                              </div>
+                              <div className="text-[11px] text-slate-500 font-normal leading-snug">
+                                {item.desc}
+                              </div>
+                            </div>
                           </div>
-                          <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded-md border ${item.badgeColor}`}>
-                            {item.badge}
-                          </span>
+                          {item.badge && (
+                            <span className={`text-[9px] uppercase px-1.5 py-0.2 rounded shrink-0 self-start mt-0.5 ${item.badgeColor}`}>
+                              {item.badge}
+                            </span>
+                          )}
                         </Link>
                       );
                     })}
@@ -470,25 +468,14 @@ export function Header() {
                   <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
                 )}
               </Link>
-
-              {/* Blog */}
-              <Link
-                href="/blog"
-                prefetch={false}
-                className={`transition-colors py-1 relative whitespace-nowrap ${
-                  pathname?.startsWith('/blog') ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
-                }`}
-              >
-                <span>Articles</span>
-              </Link>
             </nav>
           </div>
 
-          {/* Right utility actions: Search + Quick WhatsApp/Call + Meet CTA */}
-          <div className="flex items-center gap-2 shrink-0">
+          {/* Right Action Group: Compact Search + WhatsApp + High-Impact Meeting CTA */}
+          <div className="flex items-center gap-2 sm:gap-2.5 shrink-0">
             <SearchInput />
 
-            {/* Quick WhatsApp Chat */}
+            {/* Quick WhatsApp Chat Button */}
             <a 
               href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance" 
               target="_blank"
@@ -635,18 +622,18 @@ export function Header() {
                       className={`flex items-center justify-between px-3 py-2 rounded-xl text-sm transition-colors ${
                         isActive 
                           ? 'bg-blue-50 text-blue-700 font-bold' 
-                          : item.highlight
-                            ? 'bg-blue-50/40 text-blue-900 font-semibold'
-                            : 'hover:bg-slate-50 text-slate-700 font-medium'
+                          : 'hover:bg-slate-50 text-slate-700 font-medium'
                       }`}
                     >
                       <div className="flex items-center gap-2.5">
                         <Icon className={`w-4 h-4 ${item.iconColor}`} />
                         <span>{item.title}</span>
                       </div>
-                      <span className={`text-[10px] uppercase font-bold px-1.5 py-0.5 rounded border ${item.badgeColor}`}>
-                        {item.badge}
-                      </span>
+                      {item.badge && (
+                        <span className={`text-[10px] uppercase font-bold px-1.5 py-0.5 rounded ${item.badgeColor}`}>
+                          {item.badge}
+                        </span>
+                      )}
                     </Link>
                   );
                 })}
@@ -667,7 +654,7 @@ export function Header() {
                 <path d="M17.472 14.382c-.301-.15-1.78-.878-2.056-.979-.276-.1-.476-.15-.676.15-.2.3-.776.979-.951 1.18-.175.2-.351.226-.652.076-.301-.15-1.27-.468-2.42-1.493-.895-.798-1.5-1.784-1.676-2.085-.175-.301-.019-.464.132-.614.136-.135.301-.351.452-.527.15-.175.2-.301.301-.501.101-.2.05-.376-.025-.526-.075-.15-.676-1.63-.927-2.234-.244-.588-.493-.508-.676-.517-.175-.009-.376-.01-.577-.01-.2 0-.526.075-.802.376-.276.301-1.053 1.028-1.053 2.508 0 1.48 1.078 2.909 1.229 3.109.15.2 2.122 3.24 5.141 4.544.718.31 1.278.495 1.716.634.723.23 1.381.198 1.901.12.579-.087 1.78-.727 2.03-1.43.251-.702.251-1.304.176-1.43-.075-.126-.276-.201-.577-.352zM12.04 2C6.527 2 2.05 6.477 2.05 11.99c0 1.761.46 3.48 1.332 4.994L2 22l5.163-1.353a9.95 9.95 0 0 0 4.877 1.268h.004c5.512 0 9.99-4.477 9.99-9.99A9.94 9.94 0 0 0 12.04 2zm0 18.257h-.003a8.27 8.27 0 0 1-4.218-1.154l-.302-.18-3.136.823.837-3.056-.197-.314a8.27 8.27 0 0 1-1.267-4.386c0-4.57 3.719-8.289 8.29-8.289a8.25 8.25 0 0 1 5.86 2.43 8.25 8.25 0 0 1 2.428 5.86c0 4.571-3.719 8.289-8.289 8.289z"/>
               </svg>
               <span>Chat on WhatsApp</span>
-              <ArrowUpRight className="w-4 h-4 ml-auto text-emerald-100" />
+              <ArrowRight className="w-4 h-4 ml-auto text-emerald-100" />
             </a>
             <Link 
               href="tel:+919560020771" 
