@@ -119,7 +119,7 @@ export function Header() {
       iconColor: 'text-purple-600 bg-purple-50',
     },
     {
-      title: 'UGC-DEB Online Universities',
+      title: 'UGC-DEB Online Degrees',
       desc: '40+ NAAC A++ entitled flexible degree programs',
       href: '/online-degree-certification',
       icon: Laptop,
@@ -235,56 +235,117 @@ export function Header() {
 
       {/* 2. Main Navigation Header */}
       <header className="sticky top-0 z-40 w-full border-b border-slate-200/90 bg-white/95 backdrop-blur-md transition-all shadow-xs" role="banner">
-        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-6">
+        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-6 lg:px-8">
           
           {/* Left: Brand Logo */}
-          <div className="flex items-center gap-6 xl:gap-8">
+          <div className="flex items-center shrink-0">
             <Logo variant="header" size="md" />
+          </div>
 
-            {/* Desktop Navigation Links */}
-            <nav className="hidden lg:flex items-center gap-6 xl:gap-7 text-[13px] font-semibold text-slate-700" aria-label="Main navigation">
-              
-              {/* Colleges Dropdown */}
-              <div 
-                ref={collegesRef} 
-                className="relative py-2"
-                onMouseEnter={() => setIsCollegesOpen(true)}
-                onMouseLeave={() => setIsCollegesOpen(false)}
+          {/* Center: Clean, Concise Desktop Navigation Links */}
+          <nav className="hidden lg:flex items-center gap-5 xl:gap-7 text-[13px] font-semibold text-slate-700" aria-label="Main navigation">
+            
+            {/* Colleges Dropdown */}
+            <div 
+              ref={collegesRef} 
+              className="relative py-2"
+              onMouseEnter={() => setIsCollegesOpen(true)}
+              onMouseLeave={() => setIsCollegesOpen(false)}
+            >
+              <button 
+                type="button"
+                onClick={() => setIsCollegesOpen((prev) => !prev)}
+                className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
+                  isCollegesActive || isCollegesOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
+                }`}
+                aria-expanded={isCollegesOpen}
+                aria-haspopup="true"
               >
-                <button 
-                  type="button"
-                  onClick={() => setIsCollegesOpen((prev) => !prev)}
-                  className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
-                    isCollegesActive || isCollegesOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
-                  }`}
-                  aria-expanded={isCollegesOpen}
-                  aria-haspopup="true"
-                >
-                  <span>Colleges</span>
-                  <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
-                    isCollegesOpen ? '-rotate-180 text-blue-600' : ''
-                  }`} />
-                </button>
+                <span>Colleges</span>
+                <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
+                  isCollegesOpen ? '-rotate-180 text-blue-600' : ''
+                }`} />
+              </button>
 
-                <div 
-                  className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
-                    isCollegesOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
-                  }`}
-                >
-                  <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
-                    {collegeLinks.map((item) => {
-                      const Icon = item.icon;
-                      const isActive = pathname === item.href;
-                      return (
-                        <Link
-                          key={item.title}
-                          href={item.href}
-                          prefetch={false}
-                          onClick={() => setIsCollegesOpen(false)}
-                          className={`p-2.5 rounded-xl transition-all flex items-start gap-3 ${
-                            isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
-                          }`}
-                        >
+              <div 
+                className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
+                  isCollegesOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
+                }`}
+              >
+                <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                  {collegeLinks.map((item) => {
+                    const Icon = item.icon;
+                    const isActive = pathname === item.href;
+                    return (
+                      <Link
+                        key={item.title}
+                        href={item.href}
+                        prefetch={false}
+                        onClick={() => setIsCollegesOpen(false)}
+                        className={`p-2.5 rounded-xl transition-all flex items-start gap-3 ${
+                          isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
+                        }`}
+                      >
+                        <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 ${item.iconColor}`}>
+                          <Icon className="w-4 h-4" />
+                        </div>
+                        <div>
+                          <div className={`text-xs font-bold ${isActive ? 'text-blue-600' : 'text-slate-900'}`}>
+                            {item.title}
+                          </div>
+                          <div className="text-[11px] text-slate-500 font-normal leading-snug">
+                            {item.desc}
+                          </div>
+                        </div>
+                      </Link>
+                    );
+                  })}
+                </div>
+              </div>
+            </div>
+
+            {/* Admissions Dropdown */}
+            <div 
+              ref={admissionsRef} 
+              className="relative py-2"
+              onMouseEnter={() => setIsAdmissionsOpen(true)}
+              onMouseLeave={() => setIsAdmissionsOpen(false)}
+            >
+              <button 
+                type="button"
+                onClick={() => setIsAdmissionsOpen((prev) => !prev)}
+                className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
+                  isAdmissionActive || isAdmissionsOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
+                }`}
+                aria-expanded={isAdmissionsOpen}
+                aria-haspopup="true"
+              >
+                <span>Admissions</span>
+                <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
+                  isAdmissionsOpen ? '-rotate-180 text-blue-600' : ''
+                }`} />
+              </button>
+
+              <div 
+                className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
+                  isAdmissionsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
+                }`}
+              >
+                <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                  {admissionLinks.map((item) => {
+                    const Icon = item.icon;
+                    const isActive = pathname === item.href;
+                    return (
+                      <Link
+                        key={item.title}
+                        href={item.href}
+                        prefetch={false}
+                        onClick={() => setIsAdmissionsOpen(false)}
+                        className={`p-2.5 rounded-xl transition-all flex items-start justify-between gap-2 ${
+                          isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
+                        }`}
+                      >
+                        <div className="flex items-start gap-3">
                           <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 ${item.iconColor}`}>
                             <Icon className="w-4 h-4" />
                           </div>
@@ -296,183 +357,116 @@ export function Header() {
                               {item.desc}
                             </div>
                           </div>
-                        </Link>
-                      );
-                    })}
-                  </div>
+                        </div>
+                        {item.badge && (
+                          <span className={`text-[9px] uppercase px-1.5 py-0.2 rounded shrink-0 self-start mt-0.5 ${item.badgeColor}`}>
+                            {item.badge}
+                          </span>
+                        )}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
+            </div>
 
-              {/* Admissions Dropdown */}
-              <div 
-                ref={admissionsRef} 
-                className="relative py-2"
-                onMouseEnter={() => setIsAdmissionsOpen(true)}
-                onMouseLeave={() => setIsAdmissionsOpen(false)}
+            {/* Free CBT Mock Tests Direct Link */}
+            <Link
+              href="/mock-tests"
+              prefetch={false}
+              className={`transition-colors py-1 relative whitespace-nowrap flex items-center gap-1.5 ${
+                pathname === '/mock-tests' ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
+              }`}
+            >
+              <span>Mock Tests</span>
+              <span className="px-1.5 py-0.2 rounded-full text-[9px] font-black bg-rose-100 text-rose-700 border border-rose-200 uppercase tracking-wider">
+                CBT
+              </span>
+              {pathname === '/mock-tests' && (
+                <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
+              )}
+            </Link>
+
+            {/* Tools & Calculators Dropdown */}
+            <div 
+              ref={toolsRef} 
+              className="relative py-2"
+              onMouseEnter={() => setIsToolsOpen(true)}
+              onMouseLeave={() => setIsToolsOpen(false)}
+            >
+              <button 
+                type="button"
+                onClick={() => setIsToolsOpen((prev) => !prev)}
+                className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
+                  isToolsActive || isToolsOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
+                }`}
+                aria-expanded={isToolsOpen}
+                aria-haspopup="true"
               >
-                <button 
-                  type="button"
-                  onClick={() => setIsAdmissionsOpen((prev) => !prev)}
-                  className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
-                    isAdmissionActive || isAdmissionsOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
-                  }`}
-                  aria-expanded={isAdmissionsOpen}
-                  aria-haspopup="true"
-                >
-                  <span>Admissions 2027</span>
-                  <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
-                    isAdmissionsOpen ? '-rotate-180 text-blue-600' : ''
-                  }`} />
-                </button>
+                <span>Calculators</span>
+                <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
+                  isToolsOpen ? '-rotate-180 text-blue-600' : ''
+                }`} />
+              </button>
 
-                <div 
-                  className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
-                    isAdmissionsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
-                  }`}
-                >
-                  <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
-                    {admissionLinks.map((item) => {
-                      const Icon = item.icon;
-                      const isActive = pathname === item.href;
-                      return (
-                        <Link
-                          key={item.title}
-                          href={item.href}
-                          prefetch={false}
-                          onClick={() => setIsAdmissionsOpen(false)}
-                          className={`p-2.5 rounded-xl transition-all flex items-start justify-between gap-2 ${
-                            isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
-                          }`}
-                        >
-                          <div className="flex items-start gap-3">
-                            <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 ${item.iconColor}`}>
-                              <Icon className="w-4 h-4" />
-                            </div>
-                            <div>
-                              <div className={`text-xs font-bold ${isActive ? 'text-blue-600' : 'text-slate-900'}`}>
-                                {item.title}
-                              </div>
-                              <div className="text-[11px] text-slate-500 font-normal leading-snug">
-                                {item.desc}
-                              </div>
-                            </div>
-                          </div>
-                          {item.badge && (
-                            <span className={`text-[9px] uppercase px-1.5 py-0.2 rounded shrink-0 self-start mt-0.5 ${item.badgeColor}`}>
-                              {item.badge}
-                            </span>
-                          )}
-                        </Link>
-                      );
-                    })}
-                  </div>
-                </div>
-              </div>
-
-              {/* Free CBT Mock Tests Direct Link */}
-              <Link
-                href="/mock-tests"
-                prefetch={false}
-                className={`transition-colors py-1 relative whitespace-nowrap flex items-center gap-1.5 ${
-                  pathname === '/mock-tests' ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
+              <div 
+                className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
+                  isToolsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
                 }`}
               >
-                <span>Free Mock Tests</span>
-                <span className="px-1.5 py-0.2 rounded-full text-[9px] font-black bg-rose-100 text-rose-700 border border-rose-200 uppercase tracking-wider">
-                  CBT
-                </span>
-                {pathname === '/mock-tests' && (
-                  <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
-                )}
-              </Link>
-
-              {/* Tools & Calculators Dropdown */}
-              <div 
-                ref={toolsRef} 
-                className="relative py-2"
-                onMouseEnter={() => setIsToolsOpen(true)}
-                onMouseLeave={() => setIsToolsOpen(false)}
-              >
-                <button 
-                  type="button"
-                  onClick={() => setIsToolsOpen((prev) => !prev)}
-                  className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
-                    isToolsActive || isToolsOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
-                  }`}
-                  aria-expanded={isToolsOpen}
-                  aria-haspopup="true"
-                >
-                  <span>Tools &amp; Predictors</span>
-                  <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
-                    isToolsOpen ? '-rotate-180 text-blue-600' : ''
-                  }`} />
-                </button>
-
-                <div 
-                  className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
-                    isToolsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
-                  }`}
-                >
-                  <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
-                    {toolLinks.map((item) => {
-                      const Icon = item.icon;
-                      const isActive = pathname === item.href;
-                      return (
-                        <Link
-                          key={item.title}
-                          href={item.href}
-                          prefetch={false}
-                          onClick={() => setIsToolsOpen(false)}
-                          className={`p-2.5 rounded-xl transition-all flex items-start justify-between gap-2 ${
-                            isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
-                          }`}
-                        >
-                          <div className="flex items-start gap-3">
-                            <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 ${item.iconColor}`}>
-                              <Icon className="w-4 h-4" />
+                <div className="w-80 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                  {toolLinks.map((item) => {
+                    const Icon = item.icon;
+                    const isActive = pathname === item.href;
+                    return (
+                      <Link
+                        key={item.title}
+                        href={item.href}
+                        prefetch={false}
+                        onClick={() => setIsToolsOpen(false)}
+                        className={`p-2.5 rounded-xl transition-all flex items-start justify-between gap-2 ${
+                          isActive ? 'bg-blue-50' : 'hover:bg-slate-50'
+                        }`}
+                      >
+                        <div className="flex items-start gap-3">
+                          <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 ${item.iconColor}`}>
+                            <Icon className="w-4 h-4" />
+                          </div>
+                          <div>
+                            <div className={`text-xs font-bold ${isActive ? 'text-blue-600' : 'text-slate-900'}`}>
+                              {item.title}
                             </div>
-                            <div>
-                              <div className={`text-xs font-bold ${isActive ? 'text-blue-600' : 'text-slate-900'}`}>
-                                {item.title}
-                              </div>
-                              <div className="text-[11px] text-slate-500 font-normal leading-snug">
-                                {item.desc}
-                              </div>
+                            <div className="text-[11px] text-slate-500 font-normal leading-snug">
+                              {item.desc}
                             </div>
                           </div>
-                          {item.badge && (
-                            <span className={`text-[9px] uppercase px-1.5 py-0.2 rounded shrink-0 self-start mt-0.5 ${item.badgeColor}`}>
-                              {item.badge}
-                            </span>
-                          )}
-                        </Link>
-                      );
-                    })}
-                  </div>
+                        </div>
+                        {item.badge && (
+                          <span className={`text-[9px] uppercase px-1.5 py-0.2 rounded shrink-0 self-start mt-0.5 ${item.badgeColor}`}>
+                            {item.badge}
+                          </span>
+                        )}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
+            </div>
 
-              {/* Online Degrees */}
-              <Link
-                href="/online-degree-certification"
-                prefetch={false}
-                className={`transition-colors py-1 relative whitespace-nowrap flex items-center gap-1 ${
-                  pathname?.startsWith('/online-degree-certification') ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
-                }`}
-              >
-                <span>Online MBA</span>
-                <span className="px-1.5 py-0.2 rounded-full text-[9px] font-bold bg-cyan-100 text-cyan-700 border border-cyan-200 uppercase tracking-wider">
-                  UGC
-                </span>
-                {pathname?.startsWith('/online-degree-certification') && (
-                  <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
-                )}
-              </Link>
-            </nav>
-          </div>
+            {/* Articles / Blog */}
+            <Link
+              href="/blog"
+              prefetch={false}
+              className={`transition-colors py-1 relative whitespace-nowrap ${
+                pathname?.startsWith('/blog') ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
+              }`}
+            >
+              <span>Articles</span>
+            </Link>
+          </nav>
 
-          {/* Right Action Group: Compact Search + WhatsApp + High-Impact Meeting CTA */}
-          <div className="flex items-center gap-2 sm:gap-2.5 shrink-0">
+          {/* Right Action Group: Compact Search + WhatsApp + Streamlined Book CTA */}
+          <div className="flex items-center gap-2 sm:gap-3 shrink-0">
             <SearchInput />
 
             {/* Quick WhatsApp Chat Button */}
@@ -480,7 +474,7 @@ export function Header() {
               href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance" 
               target="_blank"
               rel="noopener noreferrer"
-              className="w-9 h-9 rounded-xl bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 text-emerald-600 hover:text-emerald-700 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0"
+              className="w-8.5 h-8.5 rounded-xl bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 text-emerald-600 hover:text-emerald-700 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0"
               title="Chat directly on WhatsApp (+91 95600 20771)"
               aria-label="Chat on WhatsApp"
             >
@@ -493,7 +487,7 @@ export function Header() {
             <Link 
               href="/book-session" 
               prefetch={false}
-              className="lg:hidden w-9 h-9 rounded-xl bg-slate-50 hover:bg-blue-50 border border-slate-200 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0 relative"
+              className="lg:hidden w-8.5 h-8.5 rounded-xl bg-slate-50 hover:bg-blue-50 border border-slate-200 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0 relative"
               title="Book Free 1-on-1 Google Meet Counselling"
               aria-label="Book Google Meet Counselling"
             >
@@ -504,24 +498,21 @@ export function Header() {
               </span>
             </Link>
 
-            {/* Desktop Full Face-to-Face Counselling Button (Visible on lg+) */}
+            {/* Desktop Compact Face-to-Face Counselling Button (Visible on lg+) */}
             <Link 
               href="/book-session" 
               prefetch={false}
-              className="hidden lg:inline-flex h-9 items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 px-3.5 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20 whitespace-nowrap"
-              title="Book Free Face-to-Face 1-on-1 Video Counselling on Google Meet"
+              className="hidden lg:inline-flex h-8.5 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 px-3 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20 whitespace-nowrap"
+              title="Book Free 1-on-1 Video Counselling on Google Meet"
             >
               <Video className="w-3.5 h-3.5 text-amber-300 shrink-0" />
-              <span>Book 1-on-1 Meet</span>
-              <span className="px-1.5 py-0.2 rounded text-[9px] font-black bg-emerald-400 text-slate-950 uppercase tracking-wide">
-                Free
-              </span>
+              <span>Book Free Meet</span>
             </Link>
 
             {/* Mobile Menu Hamburger Toggle */}
             <button 
               type="button"
-              className="lg:hidden flex items-center justify-center w-9 h-9 text-slate-700 hover:text-blue-600 transition-colors bg-slate-100 hover:bg-slate-200 border border-slate-200 rounded-xl cursor-pointer shrink-0"
+              className="lg:hidden flex items-center justify-center w-8.5 h-8.5 text-slate-700 hover:text-blue-600 transition-colors bg-slate-100 hover:bg-slate-200 border border-slate-200 rounded-xl cursor-pointer shrink-0"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               aria-label="Toggle mobile menu"
               aria-expanded={isMobileMenuOpen}
@@ -622,7 +613,9 @@ export function Header() {
                       className={`flex items-center justify-between px-3 py-2 rounded-xl text-sm transition-colors ${
                         isActive 
                           ? 'bg-blue-50 text-blue-700 font-bold' 
-                          : 'hover:bg-slate-50 text-slate-700 font-medium'
+                          : item.highlight
+                            ? 'bg-blue-50/40 text-blue-900 font-semibold'
+                            : 'hover:bg-slate-50 text-slate-700 font-medium'
                       }`}
                     >
                       <div className="flex items-center gap-2.5">
