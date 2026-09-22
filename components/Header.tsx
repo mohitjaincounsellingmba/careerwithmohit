@@ -3,14 +3,41 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Menu, X, Phone, ChevronDown, Sparkles, GraduationCap, Building2, Laptop, Award, Globe, ArrowUpRight, Calendar, ArrowRight, Video } from 'lucide-react';
+import {
+  Menu,
+  X,
+  Phone,
+  ChevronDown,
+  Sparkles,
+  GraduationCap,
+  Building2,
+  Laptop,
+  Award,
+  Globe,
+  ArrowUpRight,
+  ArrowRight,
+  Video,
+  Target,
+  Calculator,
+  Percent,
+  FileText,
+  ShieldCheck,
+  Zap,
+  BookOpen
+} from 'lucide-react';
 import { SearchInput } from './SearchInput';
 import { Logo } from './Logo';
+import { EducationTicker } from './EducationTicker';
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isCollegesOpen, setIsCollegesOpen] = useState(false);
   const [isAdmissionsOpen, setIsAdmissionsOpen] = useState(false);
+  const [isToolsOpen, setIsToolsOpen] = useState(false);
+
+  const collegesRef = useRef<HTMLDivElement>(null);
   const admissionsRef = useRef<HTMLDivElement>(null);
+  const toolsRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
 
   // Prevent background scroll when mobile menu is open
@@ -28,14 +55,22 @@ export function Header() {
   // Handle outside click & Escape key to close dropdowns
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
+      if (collegesRef.current && !collegesRef.current.contains(event.target as Node)) {
+        setIsCollegesOpen(false);
+      }
       if (admissionsRef.current && !admissionsRef.current.contains(event.target as Node)) {
         setIsAdmissionsOpen(false);
+      }
+      if (toolsRef.current && !toolsRef.current.contains(event.target as Node)) {
+        setIsToolsOpen(false);
       }
     }
 
     function handleKeyDown(event: KeyboardEvent) {
       if (event.key === 'Escape') {
+        setIsCollegesOpen(false);
         setIsAdmissionsOpen(false);
+        setIsToolsOpen(false);
         setIsMobileMenuOpen(false);
       }
     }
@@ -51,30 +86,66 @@ export function Header() {
   // Close menus on route change
   useEffect(() => {
     setIsMobileMenuOpen(false);
+    setIsCollegesOpen(false);
     setIsAdmissionsOpen(false);
+    setIsToolsOpen(false);
   }, [pathname]);
 
-  const navLinks = [
-    { name: 'Home', href: '/' },
-    { name: 'About', href: '/about' },
-    { name: 'Colleges', href: '/colleges' },
-    { name: 'Online MBA', shortName: 'Online MBA', longName: 'Online Degrees', href: '/online-degree-certification' },
-    { name: 'Community', badge: 'Free', href: '/community' },
-    { name: 'Blog', href: '/blog' },
+  const collegeLinks = [
+    {
+      title: '770+ Colleges Directory',
+      href: '/colleges',
+      badge: 'All India',
+      badgeColor: 'text-blue-700 bg-blue-50 border-blue-200',
+      icon: Building2,
+      iconColor: 'text-blue-600',
+    },
+    {
+      title: 'Top 20 IIMs & XLRI',
+      href: '/top-tier-mba-colleges?tab=iim',
+      badge: 'Tier-1',
+      badgeColor: 'text-amber-700 bg-amber-50 border-amber-200',
+      icon: GraduationCap,
+      iconColor: 'text-amber-500',
+    },
+    {
+      title: 'High ROI B-Schools (< ₹10L)',
+      href: '/colleges?budget=under-10l',
+      badge: 'Best ROI',
+      badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+      icon: Sparkles,
+      iconColor: 'text-emerald-500',
+    },
+    {
+      title: 'Delhi NCR, Pune & Bangalore',
+      href: '/colleges',
+      badge: 'Hubs',
+      badgeColor: 'text-purple-700 bg-purple-50 border-purple-200',
+      icon: Globe,
+      iconColor: 'text-purple-500',
+    },
+    {
+      title: 'UGC-DEB Online Degrees',
+      href: '/online-degree-certification',
+      badge: '40+ Univs',
+      badgeColor: 'text-cyan-700 bg-cyan-50 border-cyan-200',
+      icon: Laptop,
+      iconColor: 'text-cyan-500',
+    },
   ];
 
   const admissionLinks = [
     {
-      title: 'MBA Form Discounts',
+      title: 'MBA Form Combo Discounts',
       href: '/mba-application-form-discount',
       badge: 'Save ₹5k+',
       badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-300 font-bold',
-      icon: Sparkles,
+      icon: Percent,
       iconColor: 'text-emerald-600',
       highlight: true
     },
     {
-      title: 'Admissions Hub',
+      title: 'Admissions 2027 Portal',
       href: '/admissions',
       badge: '2027-29',
       badgeColor: 'text-blue-600 bg-blue-50 border-blue-200/60',
@@ -83,9 +154,9 @@ export function Header() {
       highlight: false
     },
     {
-      title: 'MBA & PGDM 2027',
+      title: 'MBA & PGDM 2027 Guide',
       href: '/mba-pgdm-admission-2027',
-      badge: 'Guide',
+      badge: 'Strategy',
       badgeColor: 'text-amber-700 bg-amber-50 border-amber-200/60',
       icon: GraduationCap,
       iconColor: 'text-amber-500'
@@ -93,90 +164,163 @@ export function Header() {
     {
       title: 'Top Tier MBA Directory',
       href: '/top-tier-mba-colleges',
-      badge: 'Tier-1',
+      badge: 'Audited',
       badgeColor: 'text-indigo-700 bg-indigo-50 border-indigo-200/60',
       icon: Building2,
       iconColor: 'text-indigo-500'
     },
     {
-      title: 'Online Degrees & MBA',
-      href: '/online-degree-certification',
-      badge: 'UGC-DEB',
-      badgeColor: 'text-cyan-700 bg-cyan-50 border-cyan-200/60',
-      icon: Laptop,
-      iconColor: 'text-cyan-500'
-    },
-    {
-      title: 'Scholarships & Aid',
-      href: '/scholarships-2026',
-      badge: 'Merit',
-      badgeColor: 'text-slate-600 bg-slate-100 border-slate-200',
-      icon: Award,
-      iconColor: 'text-slate-500'
-    },
-    {
-      title: 'Abroad Education',
+      title: 'Abroad Education Advisory',
       href: '/abroad-education',
       badge: 'Global',
       badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-200/60',
       icon: Globe,
       iconColor: 'text-emerald-500'
     },
+    {
+      title: 'Scholarships & Aid 2026',
+      href: '/scholarships-2026',
+      badge: 'Merit',
+      badgeColor: 'text-slate-600 bg-slate-100 border-slate-200',
+      icon: Award,
+      iconColor: 'text-slate-500'
+    },
   ];
 
+  const toolLinks = [
+    {
+      title: 'CAT 2026 Score Calculator',
+      href: '/tools/cat-score-calculator',
+      badge: 'Popular',
+      badgeColor: 'text-amber-700 bg-amber-50 border-amber-200',
+      icon: Calculator,
+      iconColor: 'text-amber-600'
+    },
+    {
+      title: 'MBA Form Discount Calculator',
+      href: '/mba-application-form-discount',
+      badge: 'Save ₹',
+      badgeColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+      icon: Percent,
+      iconColor: 'text-emerald-600'
+    },
+    {
+      title: 'Free ATS Resume Builder',
+      href: '/tools/ats-resume-builder',
+      badge: 'Free AI',
+      badgeColor: 'text-blue-700 bg-blue-50 border-blue-200',
+      icon: FileText,
+      iconColor: 'text-blue-600'
+    },
+    {
+      title: 'MAT Score Calculator',
+      href: '/tools/mat-score-calculator',
+      badge: 'Live',
+      badgeColor: 'text-purple-700 bg-purple-50 border-purple-200',
+      icon: Calculator,
+      iconColor: 'text-purple-600'
+    },
+    {
+      title: 'B.Tech College Predictor',
+      href: '/tools/btech-college-predictor',
+      badge: 'JEE Main',
+      badgeColor: 'text-rose-700 bg-rose-50 border-rose-200',
+      icon: Target,
+      iconColor: 'text-rose-600'
+    },
+    {
+      title: 'Accreditation Checker',
+      href: '/tools/accreditation-checker',
+      badge: 'NAAC / UGC',
+      badgeColor: 'text-cyan-700 bg-cyan-50 border-cyan-200',
+      icon: ShieldCheck,
+      iconColor: 'text-cyan-600'
+    },
+  ];
+
+  const isCollegesActive = pathname?.startsWith('/colleges') || pathname?.startsWith('/top-tier-mba');
   const isAdmissionActive = [
     '/admissions',
     '/mba-application-form-discount',
     '/mba-pgdm-admission-2027', 
-    '/top-tier-mba-colleges', 
     '/scholarships-2026', 
     '/abroad-education'
   ].includes(pathname || '');
+  const isToolsActive = pathname?.startsWith('/tools') || pathname?.startsWith('/calculator');
 
   return (
     <>
+      {/* 1. Live Admissions Alert Ticker Bar */}
+      <EducationTicker />
+
+      {/* 2. Main Navigation Header */}
       <header className="sticky top-0 z-40 w-full border-b border-slate-200/80 bg-white/95 backdrop-blur-md transition-all shadow-xs" role="banner">
-        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-5 lg:px-7">
+        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-6">
           
-          {/* Left group: Logo + Primary Navigation */}
-          <div className="flex items-center gap-4 xl:gap-7">
+          {/* Left: Brand Logo + Primary Nav Menu */}
+          <div className="flex items-center gap-6 xl:gap-8">
             <Logo variant="header" size="md" />
 
-            {/* Desktop Navigation */}
-            <nav className="hidden lg:flex items-center gap-2 xl:gap-4 2xl:gap-5 text-xs xl:text-[13px] font-semibold text-slate-700" aria-label="Main navigation">
-              {navLinks.filter((link) => link.href !== '/').map((link) => {
-                const isActive = pathname === link.href;
-                return (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    prefetch={false}
-                    className={`transition-colors py-1 relative whitespace-nowrap ${
-                      isActive ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
-                    }`}
-                  >
-                    {link.longName ? (
-                      <>
-                        <span className="hidden 2xl:inline">{link.longName}</span>
-                        <span className="2xl:hidden">{link.shortName || link.name}</span>
-                      </>
-                    ) : (
-                      <span className="inline-flex items-center gap-1">
-                        {link.name}
-                        {link.badge && (
-                          <span className="px-1.5 py-0.2 rounded-full text-[9px] font-bold bg-emerald-100 text-emerald-700 border border-emerald-200 uppercase tracking-wider">
-                            {link.badge}
-                          </span>
-                        )}
-                      </span>
-                    )}
-                    {isActive && (
-                      <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
-                    )}
-                  </Link>
-                );
-              })}
+            {/* Desktop Navigation Links */}
+            <nav className="hidden lg:flex items-center gap-5 xl:gap-6 text-[13px] font-semibold text-slate-700" aria-label="Main navigation">
               
+              {/* Colleges Dropdown */}
+              <div 
+                ref={collegesRef} 
+                className="relative group py-2"
+                onMouseEnter={() => setIsCollegesOpen(true)}
+                onMouseLeave={() => setIsCollegesOpen(false)}
+              >
+                <button 
+                  type="button"
+                  onClick={() => setIsCollegesOpen((prev) => !prev)}
+                  className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
+                    isCollegesActive || isCollegesOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
+                  }`}
+                  aria-expanded={isCollegesOpen}
+                  aria-haspopup="true"
+                >
+                  <span>Colleges</span>
+                  <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
+                    isCollegesOpen ? '-rotate-180 text-blue-600' : 'group-hover:-rotate-180'
+                  }`} />
+                </button>
+
+                <div 
+                  className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
+                    isCollegesOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
+                  }`}
+                >
+                  <div className="w-72 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                    {collegeLinks.map((item) => {
+                      const Icon = item.icon;
+                      const isActive = pathname === item.href;
+                      return (
+                        <Link
+                          key={item.title}
+                          href={item.href}
+                          prefetch={false}
+                          onClick={() => setIsCollegesOpen(false)}
+                          className={`px-3 py-2.5 rounded-xl transition-all flex items-center justify-between text-xs font-semibold ${
+                            isActive
+                              ? 'bg-blue-50 text-blue-600'
+                              : 'hover:bg-slate-50 text-slate-700 hover:text-blue-600'
+                          }`}
+                        >
+                          <div className="flex items-center gap-2.5">
+                            <Icon className={`w-4 h-4 ${item.iconColor}`} />
+                            <span>{item.title}</span>
+                          </div>
+                          <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded-md border ${item.badgeColor}`}>
+                            {item.badge}
+                          </span>
+                        </Link>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+
               {/* Admissions Dropdown */}
               <div 
                 ref={admissionsRef} 
@@ -187,19 +331,18 @@ export function Header() {
                 <button 
                   type="button"
                   onClick={() => setIsAdmissionsOpen((prev) => !prev)}
-                  className={`flex items-center gap-1 transition-colors font-semibold py-1 outline-none cursor-pointer whitespace-nowrap ${
-                    isAdmissionActive || isAdmissionsOpen ? 'text-blue-600' : 'text-slate-700 hover:text-blue-600'
+                  className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
+                    isAdmissionActive || isAdmissionsOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
                   }`}
                   aria-expanded={isAdmissionsOpen}
                   aria-haspopup="true"
                 >
-                  <span>Admissions</span>
+                  <span>Admissions 2027</span>
                   <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
                     isAdmissionsOpen ? '-rotate-180 text-blue-600' : 'group-hover:-rotate-180'
                   }`} />
                 </button>
 
-                {/* Invisible bridge + Dropdown Card */}
                 <div 
                   className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
                     isAdmissionsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
@@ -236,30 +379,122 @@ export function Header() {
                   </div>
                 </div>
               </div>
+
+              {/* Free CBT Mock Tests Direct Link */}
+              <Link
+                href="/mock-tests"
+                prefetch={false}
+                className={`transition-colors py-1 relative whitespace-nowrap flex items-center gap-1.5 ${
+                  pathname === '/mock-tests' ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
+                }`}
+              >
+                <span>Free Mock Tests</span>
+                <span className="px-1.5 py-0.2 rounded-full text-[9px] font-black bg-rose-100 text-rose-700 border border-rose-200 uppercase tracking-wider">
+                  CBT
+                </span>
+                {pathname === '/mock-tests' && (
+                  <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
+                )}
+              </Link>
+
+              {/* Tools & Calculators Dropdown */}
+              <div 
+                ref={toolsRef} 
+                className="relative group py-2"
+                onMouseEnter={() => setIsToolsOpen(true)}
+                onMouseLeave={() => setIsToolsOpen(false)}
+              >
+                <button 
+                  type="button"
+                  onClick={() => setIsToolsOpen((prev) => !prev)}
+                  className={`flex items-center gap-1 transition-colors py-1 outline-none cursor-pointer whitespace-nowrap ${
+                    isToolsActive || isToolsOpen ? 'text-blue-600 font-bold' : 'text-slate-700 hover:text-blue-600'
+                  }`}
+                  aria-expanded={isToolsOpen}
+                  aria-haspopup="true"
+                >
+                  <span>Calculators &amp; Tools</span>
+                  <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${
+                    isToolsOpen ? '-rotate-180 text-blue-600' : 'group-hover:-rotate-180'
+                  }`} />
+                </button>
+
+                <div 
+                  className={`absolute top-full left-0 pt-2 transition-all duration-200 z-50 ${
+                    isToolsOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible pointer-events-none -translate-y-1'
+                  }`}
+                >
+                  <div className="w-72 bg-white border border-slate-200/90 rounded-2xl shadow-xl p-2 flex flex-col gap-1 ring-1 ring-slate-900/5">
+                    {toolLinks.map((item) => {
+                      const Icon = item.icon;
+                      const isActive = pathname === item.href;
+                      return (
+                        <Link
+                          key={item.title}
+                          href={item.href}
+                          prefetch={false}
+                          onClick={() => setIsToolsOpen(false)}
+                          className={`px-3 py-2.5 rounded-xl transition-all flex items-center justify-between text-xs font-semibold ${
+                            isActive
+                              ? 'bg-blue-50 text-blue-600'
+                              : 'hover:bg-slate-50 text-slate-700 hover:text-blue-600'
+                          }`}
+                        >
+                          <div className="flex items-center gap-2.5">
+                            <Icon className={`w-4 h-4 ${item.iconColor}`} />
+                            <span>{item.title}</span>
+                          </div>
+                          <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded-md border ${item.badgeColor}`}>
+                            {item.badge}
+                          </span>
+                        </Link>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+
+              {/* Online Degrees */}
+              <Link
+                href="/online-degree-certification"
+                prefetch={false}
+                className={`transition-colors py-1 relative whitespace-nowrap flex items-center gap-1 ${
+                  pathname?.startsWith('/online-degree-certification') ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
+                }`}
+              >
+                <span>Online MBA</span>
+                <span className="px-1.5 py-0.2 rounded-full text-[9px] font-bold bg-cyan-100 text-cyan-700 border border-cyan-200 uppercase tracking-wider">
+                  UGC
+                </span>
+                {pathname?.startsWith('/online-degree-certification') && (
+                  <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-blue-600 rounded-full" />
+                )}
+              </Link>
+
+              {/* Blog */}
+              <Link
+                href="/blog"
+                prefetch={false}
+                className={`transition-colors py-1 relative whitespace-nowrap ${
+                  pathname?.startsWith('/blog') ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
+                }`}
+              >
+                <span>Articles</span>
+              </Link>
             </nav>
           </div>
 
-          {/* Right utility actions */}
-          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
+          {/* Right utility actions: Search + Quick WhatsApp/Call + Meet CTA */}
+          <div className="flex items-center gap-2 shrink-0">
             <SearchInput />
 
-            {/* 1. Call Icon Button */}
-            <a 
-              href="tel:+919560020771" 
-              className="w-8.5 h-8.5 rounded-xl bg-blue-50 hover:bg-blue-100 border border-blue-200/80 text-blue-600 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0"
-              title="Call Mohit Jain: +91 95600 20771"
-              aria-label="Call Counsellor"
-            >
-              <Phone className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
-            </a>
-
-            {/* 2. WhatsApp Icon Button */}
+            {/* Quick WhatsApp Chat */}
             <a 
               href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance" 
               target="_blank"
               rel="noopener noreferrer"
-              className="w-8.5 h-8.5 rounded-xl bg-emerald-50 hover:bg-emerald-100 border border-emerald-200/80 text-emerald-600 hover:text-emerald-700 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0"
-              title="Chat directly on WhatsApp"
+              className="w-9 h-9 rounded-xl bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 text-emerald-600 hover:text-emerald-700 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0"
+              title="Chat directly on WhatsApp (+91 95600 20771)"
               aria-label="Chat on WhatsApp"
             >
               <svg viewBox="0 0 24 24" className="w-4 h-4 fill-current" aria-hidden="true">
@@ -267,21 +502,15 @@ export function Header() {
               </svg>
             </a>
 
-            {/* 3. Google Meet Icon Button (Visible on mobile <lg) */}
+            {/* Mobile Google Meet Icon Button (Visible on mobile <lg) */}
             <Link 
               href="/book-session" 
               prefetch={false}
-              className="lg:hidden w-8.5 h-8.5 rounded-xl bg-slate-50 hover:bg-blue-50 border border-slate-200/90 hover:border-blue-300 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0 relative shadow-xs"
+              className="lg:hidden w-9 h-9 rounded-xl bg-slate-50 hover:bg-blue-50 border border-slate-200 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0 relative"
               title="Book Free 1-on-1 Google Meet Counselling"
               aria-label="Book Google Meet Counselling"
             >
-              <svg viewBox="0 0 24 24" className="w-4 h-4 shrink-0" fill="none" aria-hidden="true">
-                <path d="M15 8.2v7.6l4.5 3.2V5L15 8.2Z" fill="#00832D"/>
-                <path d="M3 7.5A2.5 2.5 0 0 1 5.5 5h6.7A2.5 2.5 0 0 1 14.7 7.5v9a2.5 2.5 0 0 1-2.5 2.5H5.5A2.5 2.5 0 0 1 3 16.5v-9Z" fill="#0066DA"/>
-                <path d="M3 7.5A2.5 2.5 0 0 1 5.5 5H9v6H3V7.5Z" fill="#EA4335"/>
-                <path d="M9 11h5.7v8H9v-8Z" fill="#FBBC04"/>
-                <path d="M3 11h6v8H5.5A2.5 2.5 0 0 1 3 16.5V11Z" fill="#00AC47"/>
-              </svg>
+              <Video className="w-4 h-4 text-blue-600" />
               <span className="absolute -top-1 -right-1 flex h-2.5 w-2.5">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500 border border-white"></span>
@@ -292,40 +521,34 @@ export function Header() {
             <Link 
               href="/book-session" 
               prefetch={false}
-              className="hidden lg:inline-flex h-8.5 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-700 px-3 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20 whitespace-nowrap"
+              className="hidden lg:inline-flex h-9 items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 px-3.5 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20 whitespace-nowrap"
               title="Book Free Face-to-Face 1-on-1 Video Counselling on Google Meet"
             >
-              <svg viewBox="0 0 24 24" className="w-3.5 h-3.5 shrink-0" fill="none" aria-hidden="true">
-                <path d="M15 8.2v7.6l4.5 3.2V5L15 8.2Z" fill="#34D399"/>
-                <path d="M3 7.5A2.5 2.5 0 0 1 5.5 5h6.7A2.5 2.5 0 0 1 14.7 7.5v9a2.5 2.5 0 0 1-2.5 2.5H5.5A2.5 2.5 0 0 1 3 16.5v-9Z" fill="#93C5FD"/>
-                <path d="M3 7.5A2.5 2.5 0 0 1 5.5 5H9v6H3V7.5Z" fill="#F87171"/>
-                <path d="M9 11h5.7v8H9v-8Z" fill="#FDE047"/>
-                <path d="M3 11h6v8H5.5A2.5 2.5 0 0 1 3 16.5V11Z" fill="#34D399"/>
-              </svg>
-              <span>Face-to-Face Counselling</span>
-              <span className="hidden xl:inline px-1 py-0.2 rounded text-[9px] font-black bg-emerald-400 text-slate-950 uppercase tracking-wide">
+              <Video className="w-3.5 h-3.5 text-amber-300 shrink-0" />
+              <span>Book 1-on-1 Meet</span>
+              <span className="px-1.5 py-0.2 rounded text-[9px] font-black bg-emerald-400 text-slate-950 uppercase tracking-wide">
                 Free
               </span>
             </Link>
 
-            {/* 4. 3-Line Hamburger Menu Toggle */}
+            {/* Mobile Menu Hamburger Toggle */}
             <button 
               type="button"
-              className="lg:hidden flex items-center justify-center w-8.5 h-8.5 text-slate-700 hover:text-blue-600 transition-colors bg-slate-100 hover:bg-slate-200 border border-slate-200/80 rounded-xl cursor-pointer shrink-0"
+              className="lg:hidden flex items-center justify-center w-9 h-9 text-slate-700 hover:text-blue-600 transition-colors bg-slate-100 hover:bg-slate-200 border border-slate-200 rounded-xl cursor-pointer shrink-0"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               aria-label="Toggle mobile menu"
               aria-expanded={isMobileMenuOpen}
             >
-              {isMobileMenuOpen ? <X className="h-4.5 w-4.5 stroke-[2.5]" /> : <Menu className="h-4.5 w-4.5 stroke-[2.5]" />}
+              {isMobileMenuOpen ? <X className="h-5 w-5 stroke-[2.5]" /> : <Menu className="h-5 w-5 stroke-[2.5]" />}
             </button>
           </div>
         </div>
       </header>
 
-      {/* Mobile Navigation Full Viewport Overlay rendered outside <header> so fixed positioning is viewport-relative */}
+      {/* 3. Mobile Navigation Full Viewport Drawer */}
       {isMobileMenuOpen && (
         <div 
-          className="lg:hidden fixed inset-x-0 top-16 sm:top-[68px] bottom-0 z-[999] bg-white overflow-y-auto flex flex-col justify-between shadow-2xl animate-in fade-in slide-in-from-top-2 duration-200"
+          className="lg:hidden fixed inset-x-0 top-16 bottom-0 z-[999] bg-white overflow-y-auto flex flex-col justify-between shadow-2xl animate-in fade-in slide-in-from-top-2 duration-200"
           role="dialog"
           aria-modal="true"
         >
@@ -356,37 +579,44 @@ export function Header() {
               <ArrowRight className="w-4 h-4 text-white/80 shrink-0" />
             </Link>
             
+            {/* Primary Direct Links */}
             <div className="flex flex-col gap-1">
-              {navLinks.map((link) => {
-                const isActive = pathname === link.href;
+              {[
+                { name: 'Colleges Directory (770+)', href: '/colleges', badge: 'Pan-India', icon: Building2 },
+                { name: 'Free CBT Mock Tests', href: '/mock-tests', badge: '50+ Tests', icon: Target },
+                { name: 'MBA Form Combo Discounts', href: '/mba-application-form-discount', badge: 'Save ₹5k+', icon: Percent },
+                { name: 'UGC Online Degrees Hub', href: '/online-degree-certification', badge: '40+ Univs', icon: Laptop },
+                { name: 'CAT / Score Calculators', href: '/tools/cat-score-calculator', badge: 'AI Tool', icon: Calculator },
+                { name: 'Student Community', href: '/community', badge: 'Free', icon: Sparkles },
+                { name: 'Articles & Guides', href: '/blog', badge: null, icon: BookOpen },
+              ].map((item) => {
+                const Icon = item.icon;
+                const isActive = pathname === item.href;
                 return (
                   <Link 
-                    key={link.href}
-                    href={link.href} 
+                    key={item.href}
+                    href={item.href} 
                     prefetch={false} 
                     onClick={() => setIsMobileMenuOpen(false)} 
                     className={`flex items-center justify-between px-3 py-2.5 rounded-xl transition-colors ${
                       isActive ? 'bg-blue-50 text-blue-700 font-bold' : 'hover:bg-slate-50 text-slate-800'
                     }`}
                   >
-                    <div className="flex items-center">
-                      <span className={`w-2 h-2 rounded-full mr-3 inline-block ${
-                        isActive ? 'bg-blue-600' : 'bg-slate-300'
-                      }`}></span>
-                      {link.name}
+                    <div className="flex items-center gap-2.5">
+                      <Icon className="w-4 h-4 text-blue-600" />
+                      <span>{item.name}</span>
                     </div>
-                    {isActive ? (
-                      <span className="text-[11px] font-semibold text-blue-600 bg-blue-100/60 px-2 py-0.5 rounded-md">Active</span>
-                    ) : link.badge ? (
-                      <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/80 border border-emerald-200 px-2 py-0.5 rounded-md uppercase tracking-wider">
-                        {link.badge}
+                    {item.badge && (
+                      <span className="text-[10px] font-bold text-blue-700 bg-blue-100/80 border border-blue-200 px-2 py-0.5 rounded-md uppercase tracking-wider">
+                        {item.badge}
                       </span>
-                    ) : null}
+                    )}
                   </Link>
                 );
               })}
             </div>
             
+            {/* Admissions 2027 Fast-track section */}
             <div className="pt-3 border-t border-slate-100 flex flex-col gap-2">
               <div className="px-3 text-slate-400 text-xs font-bold tracking-wider uppercase flex items-center justify-between">
                 <span>Admissions 2027 Hub</span>
