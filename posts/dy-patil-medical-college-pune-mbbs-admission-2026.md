@@ -4,27 +4,17 @@ title: >-
   Fee Structure
 date: '2026-07-21'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for Dr. D. Y.
+  Patil Vidyapeeth, Pune MBBS Admission 2026: Process, NEET Cutoff & Fee
+  Structure. Check updated fees, placement records, real cutoffs, and selection
+  tips by Mohit Jain.
 keywords:
   - DPU Medical College Pune MBBS admission 2026
   - DPU Medical College Pune fee structure
   - DPU Medical College Pune NEET cutoff 2026
   - 'Dr. D. Y. Patil Vidyapeeth, Pune MBBS process'
   - MBBS fees private medical college
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the tuition fee for DY Patil Pune MBBS?
     answer: The tuition fee starts at around ₹25 Lakhs to ₹26.5 Lakhs per year.

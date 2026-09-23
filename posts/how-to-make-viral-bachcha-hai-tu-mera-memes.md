@@ -4,9 +4,10 @@ title: >-
   Step-by-Step Guide
 date: '2026-03-30'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for How to Make
+  Viral ‘Bachcha Hai Tu Mera’ Memes from Dhurandhar 2: AI Step-by-Step Guide.
+  Check updated fees, placement records, real cutoffs, and selection tips by
+  Mohit Jain.
 keywords:
   - Bachcha Hai Tu Mera meme tutorial
   - Dhurandhar 2 Jameel Jamali AI prompts
@@ -14,18 +15,7 @@ keywords:
   - how to make Bachcha Hai Tu Mera memes
   - Rakesh Bedi Dhurandhar 2 dialogue
   - AI meme generation prompts
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-

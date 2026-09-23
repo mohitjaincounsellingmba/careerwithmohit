@@ -1,7 +1,5 @@
 ---
-title: >-
-  Direct Admission in [IMI Delhi](/colleges/imi-delhi) 2026: Institutional Quota
-  & Fees
+title: 'Direct Admission in IMI Delhi 2026: Institutional Quota & Fees'
 date: '2026-03-17'
 description: >-
   Planning for [IMI Delhi](/colleges/imi-delhi) 2026? Learn about direct

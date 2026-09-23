@@ -1,7 +1,5 @@
 ---
-title: >-
-  Direct Admission in [FORE School of Management](/colleges/fore-school-delhi)
-  2026: Delhi Quota Facts
+title: 'Direct Admission in FORE School of Management 2026: Delhi Quota Facts'
 date: '2026-03-17'
 description: >-
   Looking for direct admission in [FORE School of

@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Jaipuria Noida](/colleges/jaipuria-noida) vs NDIM Delhi: Which PGDM is Better
-  for 2026?
+title: 'Jaipuria Noida vs NDIM Delhi: Which PGDM is Better for 2026?'
 date: '2026-03-19'
 description: >-
   Confused between [Jaipuria Noida](/colleges/jaipuria-noida) and NDIM Delhi?

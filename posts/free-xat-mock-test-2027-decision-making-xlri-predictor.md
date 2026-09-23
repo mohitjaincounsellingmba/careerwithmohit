@@ -19,23 +19,12 @@ keywords:
   - free mock test 2026
   - online exam preparation
   - practice paper online
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
   - free xat 2027 mock test 2026
   - xat 2027 practice paper online
   - xat 2027 score vs percentile
   - free mock test series 2026
   - online exam preparation 2026
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
 faqs:
   - question: What is unique about the XAT exam?
     answer: >-

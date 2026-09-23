@@ -1,7 +1,7 @@
 ---
 title: >-
-  [Amity University](/colleges/amity-noida) Online MBA Review 2026: Fees,
-  Specializations & Placement Reality
+  Amity University Online MBA Review 2026: Fees, Specializations & Placement
+  Reality
 date: '2026-05-10'
 category: Online MBA
 image: /blog/amity-university-online-mba-review-2026.png

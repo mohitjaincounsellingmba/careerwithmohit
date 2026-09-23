@@ -1,5 +1,5 @@
 ---
-title: 'BIMTECH Greater Noida Placement Review 2025: Highest Packages & Top Recruiters'
+title: 'BIMTECH Greater Noida Placement Review 2026: Highest Packages & Top Recruiters'
 date: '2026-03-22'
 description: >-
   Looking for BIMTECH Greater Noida placement reviews 2024-2025? Check our

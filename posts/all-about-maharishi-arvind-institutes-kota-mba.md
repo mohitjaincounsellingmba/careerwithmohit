@@ -1,5 +1,5 @@
 ---
-title: 'All About Maharishi Arvind (MAIIT/MACET) Kota MBA: Reviews & Fees 2026'
+title: 'Maharishi Arvind (MAIIT/MACET) Kota MBA: Reviews & Fees 2026'
 date: '2026-03-18'
 description: >-
   Review of Maharishi Arvind Institutes in Kota (MAIIT & MACET) for MBA. Explore

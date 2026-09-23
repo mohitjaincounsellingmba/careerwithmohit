@@ -21,23 +21,12 @@ keywords:
   - free mock test 2026
   - online exam preparation
   - practice paper online
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
   - free mat 2026 mock test 2026
   - mat 2026 practice paper online
   - mat 2026 score vs percentile
   - free mock test series 2026
   - online exam preparation 2026
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-

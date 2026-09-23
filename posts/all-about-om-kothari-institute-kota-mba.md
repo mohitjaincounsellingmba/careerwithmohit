@@ -1,5 +1,5 @@
 ---
-title: 'All About Om Kothari Institute (OKIMR) Kota MBA: Placements & Reviews 2026'
+title: 'Om Kothari Institute (OKIMR) Kota MBA: Placements & Reviews 2026'
 date: '2026-03-18'
 description: >-
   Detailed review of Om Kothari Institute of Management and Research (OKIMR)

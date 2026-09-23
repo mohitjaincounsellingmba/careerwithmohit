@@ -2,9 +2,9 @@
 title: 'What is IIM BLACKI? 2026 Guide to Fees, Placements, CAT Cutoffs & Rankings'
 date: '2026-07-27'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Comprehensive expert analysis and 2026-2027 admission guide for What is IIM
+  BLACKI? 2026 Guide to Fees, Placements, CAT Cutoffs & Rankings. Check updated
+  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - IIM BLACKI
   - IIM BLACKI full form
@@ -21,22 +21,10 @@ keywords:
   - holy grail IIMs
   - MBA admissions 2027–2029
   - CAT exam 2026
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the full form of IIM BLACKI?
     answer: >-

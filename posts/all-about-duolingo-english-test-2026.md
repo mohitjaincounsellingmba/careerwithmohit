@@ -15,25 +15,14 @@ tags:
   - English Proficiency
   - Study in USA
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for Duolingo
+  English Test (DET) Guide 2026: Fees, Pattern & Acceptance. Check updated fees,
+  placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - career counselling
   - admissions 2026
   - placements 2025
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is a good score in DET for top universities?
     answer: >-

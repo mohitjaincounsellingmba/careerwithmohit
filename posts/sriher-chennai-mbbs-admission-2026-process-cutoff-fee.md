@@ -4,9 +4,10 @@ title: >-
   MBBS Admission 2026: Process, NEET Cutoff & Fee Structure
 date: '2026-07-21'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for Sri
+  Ramachandra Institute of Higher Education and Research (SRIHER), Chennai MBBS
+  Admission 2026: Process, NEET Cutoff & Fee Structure. Check updated fees,
+  placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - Sri Ramachandra Medical College MBBS admission 2026
   - Sri Ramachandra Medical College fee structure
@@ -15,18 +16,7 @@ keywords:
     Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai
     MBBS process
   - MBBS fees private medical college
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the fee structure for Sri Ramachandra Medical College MBBS?
     answer: The annual tuition fee is ₹25 Lakhs per year.

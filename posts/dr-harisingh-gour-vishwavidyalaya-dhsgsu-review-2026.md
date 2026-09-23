@@ -1,7 +1,7 @@
 ---
 title: >-
-  [Dr. Harisingh Gour Vishwavidyalaya](/colleges/dhsgsu-sagar) (DHSGSU) Review
-  2026: Fees, Placements & CUET Cutoff
+  Dr. Harisingh Gour Vishwavidyalaya (DHSGSU) Review 2026: Fees, Placements &
+  CUET Cutoff
 date: '2026-05-24'
 description: >-
   Explore Dr. Harisingh Gour Vishwavidyalaya (DHSGSU) admission 2026, including

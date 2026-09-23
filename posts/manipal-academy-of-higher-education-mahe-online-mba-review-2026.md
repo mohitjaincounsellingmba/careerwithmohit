@@ -3,9 +3,10 @@ title: 'Manipal MAHE Online MBA Review 2026: Fees ₹2,92,000 | AI LMS & Special
 date: '2026-05-10'
 category: Online MBA
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for Manipal MAHE
+  Online MBA Review 2026: Fees ₹2,92,000 | AI LMS & Specializations. Check
+  updated fees, placement records, real cutoffs, and selection tips by Mohit
+  Jain.
 keywords:
   - Manipal MAHE online MBA review 2026
   - Online Manipal MBA fees 2026
@@ -14,18 +15,7 @@ keywords:
   - MAHE online MBA NAAC A++ review
   - Manipal online MBA placement 2026
   - is Manipal online MBA worth it 2026
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       Is Manipal MAHE Online MBA and [Manipal University

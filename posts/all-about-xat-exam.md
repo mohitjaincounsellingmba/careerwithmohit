@@ -1,5 +1,5 @@
 ---
-title: 'All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Top Colleges'
+title: 'XAT Exam 2026: Pattern, Decision Making, Cutoff & Top Colleges'
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
@@ -16,14 +16,6 @@ keywords:
   - Best Colleges in Ghaziabad
   - Ghaziabad Admissions 2026
   - Direct Admission in Ghaziabad
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-

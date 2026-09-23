@@ -1,7 +1,7 @@
 ---
 title: >-
-  USP of [BML Munjal University](/colleges/bml-munjal-gurgaon): BTech, BBA, BCA
-  & MBA 2026 — Why Hero Group's Campus Stands Out
+  USP of BML Munjal University: BTech, BBA, BCA & MBA 2026 — Why Hero Group's
+  Campus Stands Out
 date: '2026-05-19'
 description: >-
   Discover the unique selling points of [BML Munjal

@@ -10,21 +10,9 @@ keywords:
   - btech colleges under 5 lakhs
   - low fees btech colleges india
   - affordable engineering colleges 2026
-  - btech in delhi ncr low fees
   - btech in kolkata under 5 lakhs
   - government engineering colleges fees
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-

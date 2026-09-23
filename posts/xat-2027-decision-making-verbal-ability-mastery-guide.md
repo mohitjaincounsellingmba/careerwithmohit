@@ -15,12 +15,6 @@ keywords:
   - XAT poem comprehension strategy
   - crack XLRI call XAT 2027
   - XAT decision making business case study
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is a good score in XAT 2027 Decision Making section to clear XLRI

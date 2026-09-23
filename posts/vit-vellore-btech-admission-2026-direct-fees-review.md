@@ -1,7 +1,7 @@
 ---
 title: >-
-  [VIT Vellore](/colleges/vit-vellore) B.Tech Admission 2026: Direct Admission,
-  Fees (Category 1-5) & Placement Review
+  VIT Vellore B.Tech Admission 2026: Direct Admission, Fees (Category 1-5) &
+  Placement Review
 date: '2026-03-24'
 description: >-
   Everything about [VIT Vellore](/colleges/vit-vellore) B.Tech admission 2026.

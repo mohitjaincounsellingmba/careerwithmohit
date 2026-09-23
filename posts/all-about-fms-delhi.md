@@ -1,7 +1,5 @@
 ---
-title: >-
-  All About [FMS Delhi](/colleges/fms-delhi): Fees, Placements, Cutoff & True
-  ROI Review 2026
+title: 'FMS Delhi: Fees, Placements, Cutoff & True ROI Review 2026'
 date: '2026-03-13'
 description: >-
   The ultimate guide to the Faculty of Management Studies (FMS), Delhi

@@ -4,9 +4,10 @@ title: >-
   Campuses
 date: '2026-05-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for IPU MBA
+  (GGSIPU) Review 2026: Cut-offs, Placements, Pros & Cons of All Campuses. Check
+  updated fees, placement records, real cutoffs, and selection tips by Mohit
+  Jain.
 keywords:
   - IPU MBA review 2026
   - GGSIPU MBA cut off 2026

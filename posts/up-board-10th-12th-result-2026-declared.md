@@ -4,9 +4,10 @@ title: >-
   upresults.nic.in
 date: '2026-04-23'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for UP Board 10th
+  & 12th Result 2026 Declared: Check High School & Inter Result at
+  upresults.nic.in. Check updated fees, placement records, real cutoffs, and
+  selection tips by Mohit Jain.
 keywords:
   - UP Board 12th result 2026
   - UP Board 10th result 2026
@@ -15,18 +16,7 @@ keywords:
   - check UP Board inter result 2026
   - how to check UP board high school result
   - UP Board 12th marksheet download
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-

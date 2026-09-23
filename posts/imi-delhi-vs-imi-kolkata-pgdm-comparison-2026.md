@@ -1,7 +1,5 @@
 ---
-title: >-
-  [IMI Delhi](/colleges/imi-delhi) vs [IMI Kolkata](/colleges/imi-kolkata) 2026:
-  Is the High Fee Worth It?
+title: 'IMI Delhi vs IMI Kolkata 2026: Is the High Fee Worth It?'
 date: '2026-03-25'
 description: >-
   Choosing between [IMI Delhi](/colleges/imi-delhi) and its Kolkata campus? Read

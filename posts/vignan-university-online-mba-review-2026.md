@@ -5,9 +5,10 @@ title: >-
 date: '2026-05-10'
 category: Online MBA
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Comprehensive expert analysis and 2026-2027 admission guide for Vignan
+  University Online MBA Review 2026: Fees ₹90,000–₹1,10,000 | NAAC A+ | South
+  India. Check updated fees, placement records, real cutoffs, and selection tips
+  by Mohit Jain.
 keywords:
   - Vignan University online MBA review 2026
   - Vignan online MBA fees 2026
@@ -16,18 +17,9 @@ keywords:
   - online MBA South India 2026
   - Vignan online MBA specializations placement
   - is Vignan online MBA valid 2026
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Does Vignan offer dual specialization in online MBA?
     answer: >-

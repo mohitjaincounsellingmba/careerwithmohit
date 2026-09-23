@@ -1,5 +1,5 @@
 ---
-title: All About Shaheed Sukhdev College of Business Studies (SSCBS) BBA/BMS 2026
+title: Shaheed Sukhdev College of Business Studies (SSCBS) BBA/BMS 2026
 date: '2026-05-15'
 category: BBA Admissions
 description: >-

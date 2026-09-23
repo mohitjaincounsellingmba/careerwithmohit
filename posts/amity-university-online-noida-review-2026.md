@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Amity University](/colleges/amity-noida) Online Noida Review 2026: Courses,
-  Fees & Placements
+title: 'Amity University Online Noida Review 2026: Courses, Fees & Placements'
 date: '2026-03-30'
 description: >-
   Is [Amity University](/colleges/amity-noida) Online Noida worth it? Explore

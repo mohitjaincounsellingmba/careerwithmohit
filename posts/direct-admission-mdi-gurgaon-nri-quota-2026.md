@@ -1,7 +1,5 @@
 ---
-title: >-
-  [MDI Gurgaon](/colleges/mdi-gurgaon) NRI Quota Admission 2026: GMAT Cutoffs &
-  Fees
+title: 'MDI Gurgaon NRI Quota Admission 2026: GMAT Cutoffs & Fees'
 date: '2026-03-18'
 description: >-
   Everything about NRI/Foreign National admission at [MDI

@@ -1,5 +1,5 @@
 ---
-title: 'FIIB Delhi Placement Review 2025: Stats & Recruiters'
+title: 'FIIB Delhi Placement Review 2026: Stats & Recruiters'
 date: '2026-03-22'
 description: >-
   Is FIIB Delhi worth it? Explore the latest FIIB Delhi placement reviews

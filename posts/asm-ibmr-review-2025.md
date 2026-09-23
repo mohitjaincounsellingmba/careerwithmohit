@@ -1,5 +1,5 @@
 ---
-title: '[ASM IBMR](/colleges/asm-ibmr) Pune Review 2025: Legacy & Placements'
+title: 'ASM IBMR Pune Review 2026: Legacy & Placements'
 date: '2026-03-14'
 description: >-
   Is [ASM IBMR](/colleges/asm-ibmr) good for MBA? Read our 2025 review on

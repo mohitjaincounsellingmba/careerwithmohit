@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Bennett University](/colleges/bennett-greater-noida) Review 2026: Placements
-  & Infrastructure Highlights
+title: 'Bennett University Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Review of [Bennett University](/colleges/bennett-greater-noida) (Times Group)

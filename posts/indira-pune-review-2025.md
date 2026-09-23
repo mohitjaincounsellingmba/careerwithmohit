@@ -1,5 +1,5 @@
 ---
-title: 'Indira Group of Institutes Pune Review 2025: Placements & Corporate Connect'
+title: 'Indira Group of Institutes Pune Review 2026: Placements & Corporate Connect'
 date: '2026-03-14'
 description: >-
   Is Indira Pune good for MBA? Explore our review of Indira Institute of

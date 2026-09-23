@@ -1,30 +1,18 @@
 ---
-title: >-
-  [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ) MBA
-  Review 2026: Placements, Fees & Cutoff
+title: 'Manipal University Jaipur (MUJ) MBA Review 2026: Placements, Fees & Cutoff'
 date: '2026-03-20'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for Manipal
+  University Jaipur(/colleges/manipal-university-jaipur) (MUJ) MBA Review 2026:
+  Placements, Fees & Cutoff. Check updated fees, placement records, real
+  cutoffs, and selection tips by Mohit Jain.
 keywords:
   - '[Manipal University Jaipur](/colleges/manipal-university-jaipur) MBA review'
   - MUJ MBA fees 2026
   - Manipal Jaipur placements
   - MUJ CAT cutoff
   - best MBA colleges in Jaipur
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-

@@ -1,10 +1,10 @@
 ---
-title: 'AKEMI Pune Review 2025: Personalized Management Training'
+title: 'AKEMI Pune Review 2026: Personalized Management Training'
 date: '2026-03-14'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for AKEMI Pune
+  Review 2025: Personalized Management Training. Check updated fees, placement
+  records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - AKEMI Pune review 2025
   - AKEMI Pune placements
@@ -12,18 +12,7 @@ keywords:
   - AKEMI Pune MBA code
   - best management college in Tathawade
   - AKEMI Pune average package 2025
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-

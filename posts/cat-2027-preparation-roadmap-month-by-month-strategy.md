@@ -11,12 +11,6 @@ keywords:
   - VARC DILR QA preparation strategy
   - CAT mock test analysis tracking
   - IIM admission prep 2027
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How many months of preparation are needed for 99+ percentile in CAT 2027?
     answer: >-

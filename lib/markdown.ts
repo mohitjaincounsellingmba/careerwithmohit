@@ -76,6 +76,8 @@ export function getPostData(slug: string): PostData | null {
     const fullPath = path.join(postsDirectory, `${slug}.md`);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
+    const matterResult = matter(fileContents);
+
     // Sanitize content to remove any third-party competitor credits
     const sanitizedContent = (matterResult.content || "")
       .replace(/^Source:\s*Shiksha.*$/gim, '')

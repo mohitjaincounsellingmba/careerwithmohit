@@ -1,7 +1,7 @@
 ---
 title: >-
-  All About NL Dalmia Institute of Management: PGDM Admission, Fees, Cutoffs,
-  and Placements (2025-2026)
+  NL Dalmia Institute of Management: PGDM Admission, Fees, Cutoffs, and
+  Placements (2026-2027)
 date: '2026-05-01'
 category: College Reviews
 description: >-

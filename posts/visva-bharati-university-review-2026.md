@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Visva-Bharati University](/colleges/visva-bharati-santiniketan) Review 2026:
-  Fees, Placements & CUET Admission
+title: 'Visva-Bharati University Review 2026: Fees, Placements & CUET Admission'
 date: '2026-05-24'
 description: >-
   Complete guide to Visva-Bharati University admissions 2026. Find out about the

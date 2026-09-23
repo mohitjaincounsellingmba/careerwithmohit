@@ -1,5 +1,5 @@
 ---
-title: 'All About Top NITs: B.Tech Fees, Cutoffs, Placements & Reality Check 2026'
+title: 'Top NITs: B.Tech Fees, Cutoffs, Placements & Reality Check 2026'
 date: '2026-03-13'
 description: >-
   A complete guide to National Institutes of Technology (NITs). Check B.Tech

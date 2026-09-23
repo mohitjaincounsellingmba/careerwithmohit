@@ -1,12 +1,13 @@
 ---
 title: >-
-  All About IIMs 2026: Complete List of 21 IIMs, Placements (Lowest, Avg,
-  Highest), Affiliation, USPs & Selection Criteria
+  IIMs 2026: Complete List of 21 IIMs, Placements (Lowest, Avg, Highest),
+  Affiliation, USPs & Selection Criteria
 date: '2026-07-27'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for All About IIMs
+  2026: Complete List of 21 IIMs, Placements (Lowest, Avg, Highest),
+  Affiliation, USPs & Selection Criteria. Check updated fees, placement records,
+  real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - all about IIM
   - IIM colleges list in India
@@ -20,18 +21,7 @@ keywords:
   - Old IIMs vs New IIMs vs Baby IIMs
   - IIM BLACKI
   - MBA admission 2027–2029
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How many IIMs are there in India and who approves them?
     answer: >-

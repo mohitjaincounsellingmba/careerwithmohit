@@ -1,8 +1,5 @@
 ---
-title: >-
-  [Maharaja Surajmal Institute
-  (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) BBA Admission 2026:
-  IPU CET Guide
+title: 'Maharaja Surajmal Institute (MSI) BBA Admission 2026: IPU CET Guide'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-

@@ -1,9 +1,13 @@
 ---
-title: 'Book Free 1-on-1 MBA Counselling Online: 30-Minute Face-to-Face Video Guidance with Mohit Jain (2026–2027)'
+title: >-
+  Book Free 1-on-1 MBA Counselling Online: 30-Minute Face-to-Face Video Guidance
+  with Mohit Jain (2026–2027)
 date: '2026-09-15'
 category: MBA Counselling
 description: >-
-  Schedule a free 30-minute 1-on-1 face-to-face MBA counselling session on Google Meet with Mohit Jain (IIM-B & FMS certified). Live profile evaluation, screen-shared cutoffs, and ROI audits.
+  Schedule a free 30-minute 1-on-1 face-to-face MBA counselling session on
+  Google Meet with Mohit Jain (IIM-B & FMS certified). Live profile evaluation,
+  screen-shared cutoffs, and ROI audits.
 keywords:
   - book face to face MBA counselling
   - free 1 on 1 mba counselling online
@@ -16,24 +20,35 @@ keywords:
   - mba counselling on google meet
   - best mba career counsellor in india
   - free career counselling session
-  - Delhi NCR College Counselling
   - MBA Admissions 2027
 faqs:
   - question: Is this 1-on-1 MBA counselling call really 100% free?
     answer: >-
-      Yes, completely free. The 30-minute Google Meet consultation with Mohit Jain is 100% complimentary for students and parents. There are no hidden fees, no credit card requirements, and zero high-pressure sales pitches.
+      Yes, completely free. The 30-minute Google Meet consultation with Mohit
+      Jain is 100% complimentary for students and parents. There are no hidden
+      fees, no credit card requirements, and zero high-pressure sales pitches.
   - question: How do I receive the Google Meet video session link?
     answer: >-
-      As soon as you pick your preferred slot on the booking calendar at /book-session, an automated Google Calendar invite containing the direct Google Meet video link is sent immediately to your email and verified on WhatsApp.
+      As soon as you pick your preferred slot on the booking calendar at
+      /book-session, an automated Google Calendar invite containing the direct
+      Google Meet video link is sent immediately to your email and verified on
+      WhatsApp.
   - question: Can parents join the 1-on-1 video call?
     answer: >-
-      Yes, absolutely. We strongly encourage parents to join so everyone can openly discuss family budgets, educational loan feasibility, hostel life, and placement expectations together on the same screen.
-  - question: What if I have low academic marks, gap years, or an average CAT score?
+      Yes, absolutely. We strongly encourage parents to join so everyone can
+      openly discuss family budgets, educational loan feasibility, hostel life,
+      and placement expectations together on the same screen.
+  - question: 'What if I have low academic marks, gap years, or an average CAT score?'
     answer: >-
-      A substantial percentage of students mentored by Mohit have percentiles between 50 and 85, non-engineering backgrounds, or gap years. Mohit will map realistic backup colleges, institutional admission options, and high-ROI B-schools tailored to your exact profile.
+      A substantial percentage of students mentored by Mohit have percentiles
+      between 50 and 85, non-engineering backgrounds, or gap years. Mohit will
+      map realistic backup colleges, institutional admission options, and
+      high-ROI B-schools tailored to your exact profile.
   - question: Does Mohit Jain share his screen during the live consultation?
     answer: >-
-      Yes. You will see real-time cutoff spreadsheets, official audited placement reports (median vs. average CTCs), and fee structures screen-shared live during the video meeting.
+      Yes. You will see real-time cutoff spreadsheets, official audited
+      placement reports (median vs. average CTCs), and fee structures
+      screen-shared live during the video meeting.
 location: Pan-India
 state: Delhi NCR
 ---

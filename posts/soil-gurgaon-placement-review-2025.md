@@ -1,5 +1,5 @@
 ---
-title: 'SOIL Gurgaon Placement Review 2025: Highest Packages & Recruiters'
+title: 'SOIL Gurgaon Placement Review 2026: Highest Packages & Recruiters'
 date: '2026-03-22'
 description: >-
   Looking for SOIL (School of Inspired Leadership) Gurgaon placements 2024-2025?

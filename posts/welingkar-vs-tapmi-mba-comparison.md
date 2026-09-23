@@ -1,5 +1,5 @@
 ---
-title: 'Welingkar vs TAPMI: Which is Better for MBA/PGDM? (2025-2026)'
+title: 'Welingkar vs TAPMI: Which is Better for MBA/PGDM? (2026-2027)'
 date: '2026-03-25'
 category: College Reviews
 description: >-

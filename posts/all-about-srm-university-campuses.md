@@ -1,12 +1,13 @@
 ---
 title: >-
-  All About SRM Institute of Science and Technology: Campuses, B.Tech Fees &
-  Placements 2026
+  SRM Institute of Science and Technology: Campuses, B.Tech Fees & Placements
+  2026
 date: '2026-03-13'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for All About SRM
+  Institute of Science and Technology: Campuses, B.Tech Fees & Placements 2026.
+  Check updated fees, placement records, real cutoffs, and selection tips by
+  Mohit Jain.
 keywords:
   - SRM University review
   - SRM placements 2026
@@ -15,18 +16,7 @@ keywords:
   - SRM KTR campus
   - SRM Ramapuram
   - SRM highest average package
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-

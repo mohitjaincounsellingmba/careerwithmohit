@@ -2,9 +2,9 @@
 title: 'CUET PG 2026 Score Calculator: Marks vs Percentile & Rank Predictor'
 date: '2026-03-24'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
-  GGSIPU, 
+  Comprehensive expert analysis and 2026-2027 admission guide for CUET PG 2026
+  Score Calculator: Marks vs Percentile & Rank Predictor. Check updated fees,
+  placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - CUET PG 2026 score calculator
   - CUET PG marks vs percentile 2026
@@ -14,18 +14,9 @@ keywords:
   - good score in cuet pg 2026
   - predict cuet pg percentile
   - cuet pg score calculation formula
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How is the CUET PG 2026 raw score calculated?
     answer: >-

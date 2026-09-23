@@ -5,9 +5,10 @@ title: >-
 date: '2026-05-10'
 category: Online MBA
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for Chandigarh
+  University Online MBA Review 2026: Fees, Specializations & Placement Reality.
+  Check updated fees, placement records, real cutoffs, and selection tips by
+  Mohit Jain.
 keywords:
   - Chandigarh University online MBA review 2026
   - CU online MBA fees 2026
@@ -16,18 +17,7 @@ keywords:
   - CU online MBA placement
   - Chandigarh University UGC DEB approved MBA
   - is CU online MBA worth it 2026
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Does CU Online MBA need CAT score?
     answer: >-

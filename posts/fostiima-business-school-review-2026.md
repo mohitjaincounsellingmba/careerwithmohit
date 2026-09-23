@@ -1,11 +1,14 @@
 ---
-title: 'FOSTIIMA Business School Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest Verdict'
+title: >-
+  FOSTIIMA Business School Review 2027–2029: PGDM Fees, Placements, Cutoffs &
+  Honest Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  Comprehensive FOSTIIMA Business School Delhi review for the 2027–2029 session. Explore verified
-  PGDM fee structure (₹11.50 Lakhs), 2025–2026 placements (avg ₹11.15 LPA, highest ₹25.0–₹30.0 LPA),
-  IIM-A alumni faculty advantage, cutoffs, and ROI analysis.
+  Comprehensive FOSTIIMA Business School Delhi review for the 2027–2029 session.
+  Explore verified PGDM fee structure (₹11.50 Lakhs), 2025–2026 placements (avg
+  ₹11.15 LPA, highest ₹25.0–₹30.0 LPA), IIM-A alumni faculty advantage, cutoffs,
+  and ROI analysis.
 keywords:
   - FOSTIIMA Business School review 2027
   - FOSTIIMA review 2027 2029
@@ -21,39 +24,41 @@ keywords:
   - FOSTIIMA faculty IIM Ahmedabad
   - FOSTIIMA vs NDIM Delhi
   - FOSTIIMA vs JIMS Kalkaji
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
-  - question: What is the total fee structure for the PGDM program at FOSTIIMA Business School for 2027–2029?
+  - question: >-
+      What is the total fee structure for the PGDM program at FOSTIIMA Business
+      School for 2027–2029?
     answer: >-
-      The total course fee for the 2-year full-time PGDM program at FOSTIIMA Business School, Delhi, is ₹11.50 Lakhs
-      payable across four semester-wise installments. Off-campus student housing in Dwarka ranges from ₹9,000 to
+      The total course fee for the 2-year full-time PGDM program at FOSTIIMA
+      Business School, Delhi, is ₹11.50 Lakhs payable across four semester-wise
+      installments. Off-campus student housing in Dwarka ranges from ₹9,000 to
       ₹13,500 per month including food, Wi-Fi, and transport.
-  - question: What is the highest and average placement package at FOSTIIMA Business School?
+  - question: >-
+      What is the highest and average placement package at FOSTIIMA Business
+      School?
     answer: >-
-      In the recent placement seasons, FOSTIIMA reported an average CTC of ₹11.15 LPA, with the top 20% of the batch
-      averaging ₹14.50 LPA. The highest package stands between ₹25.00 LPA and ₹30.00 LPA with 100% placement assistance
-      across sectors like BFSI, Consulting, IT, and FMCG.
+      In the recent placement seasons, FOSTIIMA reported an average CTC of
+      ₹11.15 LPA, with the top 20% of the batch averaging ₹14.50 LPA. The
+      highest package stands between ₹25.00 LPA and ₹30.00 LPA with 100%
+      placement assistance across sectors like BFSI, Consulting, IT, and FMCG.
   - question: Who founded FOSTIIMA Business School and who teaches there?
     answer: >-
-      FOSTIIMA was established in 2007 by alumni of IIM Ahmedabad (1973 batch). Its core academic USP is that a majority
-      of faculty members are graduates or former professors from IIM Ahmedabad, IIM Calcutta, and IITs, delivering
-      rigorous Harvard-style case pedagogy.
+      FOSTIIMA was established in 2007 by alumni of IIM Ahmedabad (1973 batch).
+      Its core academic USP is that a majority of faculty members are graduates
+      or former professors from IIM Ahmedabad, IIM Calcutta, and IITs,
+      delivering rigorous Harvard-style case pedagogy.
   - question: What entrance exam cutoffs are accepted at FOSTIIMA Business School?
     answer: >-
-      FOSTIIMA accepts CAT, XAT, MAT, CMAT, and ATMA. Expected cutoffs range from 60–65 percentile in CAT/XAT,
-      70–75 percentile in CMAT, and 75–80 percentile in MAT. Strong profile-based candidates with sports, extracurricular,
-      or work experience are also evaluated through personal interview rounds.
+      FOSTIIMA accepts CAT, XAT, MAT, CMAT, and ATMA. Expected cutoffs range
+      from 60–65 percentile in CAT/XAT, 70–75 percentile in CMAT, and 75–80
+      percentile in MAT. Strong profile-based candidates with sports,
+      extracurricular, or work experience are also evaluated through personal
+      interview rounds.
   - question: Is FOSTIIMA Business School approved by AICTE?
     answer: >-
-      Yes, FOSTIIMA Business School is approved by the All India Council for Technical Education (AICTE), Ministry of
-      Education, Government of India, for its 2-year full-time PGDM program.
+      Yes, FOSTIIMA Business School is approved by the All India Council for
+      Technical Education (AICTE), Ministry of Education, Government of India,
+      for its 2-year full-time PGDM program.
 location: Delhi NCR
 state: Delhi NCR
 ---

@@ -4,9 +4,10 @@ title: >-
   Structure
 date: '2026-04-05'
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for DY Patil
+  Vidyapeeth Online (Navi Mumbai) Review 2026: MBA, BBA & B.Sc Fee Structure.
+  Check updated fees, placement records, real cutoffs, and selection tips by
+  Mohit Jain.
 keywords:
   - DY Patil Navi Mumbai Online review 2026
   - DY Patil online MBA fees
@@ -14,18 +15,7 @@ keywords:
   - DY Patil online B.Sc Hotel Mgmt
   - UGC approved online degree DY Patil
   - DY Patil online degree validity
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-

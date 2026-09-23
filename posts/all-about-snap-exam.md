@@ -1,7 +1,5 @@
 ---
-title: >-
-  All About SNAP Exam 2026: [SIBM Pune](/colleges/sibm-pune) Cutoffs, Pattern,
-  Marks & Top Colleges
+title: 'SNAP Exam 2026: SIBM Pune Cutoffs, Pattern, Marks & Top Colleges'
 date: '2026-03-13'
 description: >-
   The complete guide to the Symbiosis National Aptitude Test (SNAP). Discover

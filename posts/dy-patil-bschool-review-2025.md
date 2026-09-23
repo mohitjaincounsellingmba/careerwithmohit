@@ -1,5 +1,5 @@
 ---
-title: 'DY Patil B-School Pune Review 2025: Placements & Global Exposure'
+title: 'DY Patil B-School Pune Review 2026: Placements & Global Exposure'
 date: '2026-03-14'
 description: >-
   Reviewing DY Patil B-School Pune: Explore MBA/PGDM placements 2025, modern

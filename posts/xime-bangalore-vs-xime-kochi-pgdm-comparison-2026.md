@@ -1,7 +1,5 @@
 ---
-title: >-
-  [XIME Bangalore](/colleges/xime-bangalore) vs XIME Kochi: Which Campus is
-  Better for PGDM? (2026)
+title: 'XIME Bangalore vs XIME Kochi: Which Campus is Better for PGDM? (2026)'
 date: '2026-04-06'
 category: College Reviews
 description: >-

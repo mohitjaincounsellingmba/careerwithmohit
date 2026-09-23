@@ -1,5 +1,5 @@
 ---
-title: 'All About RTU Kota MBA: Fees, Placements & Admission 2026'
+title: 'RTU Kota MBA: Fees, Placements & Admission 2026'
 date: '2026-03-18'
 description: >-
   In-depth review of Rajasthan Technical University (RTU) Kota MBA. Explore the

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Direct Admission in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) 2026:
-  Merit & Profile Facts
+title: 'Direct Admission in Great Lakes Gurgaon 2026: Merit & Profile Facts'
 date: '2026-03-17'
 description: >-
   Discover the direct admission process for [Great Lakes

@@ -1,7 +1,5 @@
 ---
-title: >-
-  All About IPU CET MBA 2026 (IPCET): Cutoffs, Pattern, Marks & Top Colleges in
-  Delhi
+title: 'IPU CET MBA 2026 (IPCET): Cutoffs, Pattern, Marks & Top Colleges in Delhi'
 date: '2026-03-13'
 description: >-
   Your complete guide to Guru Gobind Singh Indraprastha University (GGSIPU) CET

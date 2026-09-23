@@ -15,24 +15,15 @@ keywords:
   - NIU MBA fees 2026
   - Galgotias MBA mass intake vs NIU
   - best MBA in Greater Noida under 10 Lakhs
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Is NIU better than Galgotias for MBA?
     answer: >-
       In terms of **Return on Investment (ROI)** and **Student-to-Faculty
-      Engagement**, **NIU is the clear winner for the 2027–2029 intake**. It provides
-      a much better environment for professional grooming.
+      Engagement**, **NIU is the clear winner for the 2027–2029 intake**. It
+      provides a much better environment for professional grooming.
   - question: What is the placement package at NIU?
     answer: >-
       NIU reports a consistent average package between ₹6.5 LPA and ₹7.5 LPA for

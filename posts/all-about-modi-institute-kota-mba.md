@@ -1,5 +1,5 @@
 ---
-title: 'All About Modi Institute (MIMT) Kota MBA: Placement Snapshot & Fees 2026'
+title: 'Modi Institute (MIMT) Kota MBA: Placement Snapshot & Fees 2026'
 date: '2026-03-18'
 description: >-
   Review of Modi Institute of Management and Technology (MIMT) Kota MBA. Explore

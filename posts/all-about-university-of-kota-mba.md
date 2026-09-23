@@ -1,5 +1,5 @@
 ---
-title: 'All About University of Kota (UOK) MBA: Extremely Affordable ROI 2026'
+title: 'University of Kota (UOK) MBA: Extremely Affordable ROI 2026'
 date: '2026-03-18'
 description: >-
   Detailed review of University of Kota (UOK) MBA program. Explore the lowest

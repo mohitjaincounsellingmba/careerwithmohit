@@ -1,5 +1,5 @@
 ---
-title: 'All About Jai Minesh Adivasi University (JMAU) MBA: Review 2026'
+title: 'Jai Minesh Adivasi University (JMAU) MBA: Review 2026'
 date: '2026-03-18'
 description: >-
   Deep-dive review of Jai Minesh Adivasi University (JMAU) Kota MBA. Explore the

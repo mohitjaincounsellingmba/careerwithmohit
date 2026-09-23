@@ -17,18 +17,10 @@ keywords:
   - baby IIMs seat matrix
   - new IIMs seat matrix
   - CAT 2026 seats
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
   - Gurgaon Colleges
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How many total seats are there in all 21 IIMs for MBA/PGP?
     answer: >-

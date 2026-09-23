@@ -1,5 +1,5 @@
 ---
-title: 'All About Career Point University (CPU) Kota MBA: Placements & Fees 2026'
+title: 'Career Point University (CPU) Kota MBA: Placements & Fees 2026'
 date: '2026-03-18'
 description: >-
   In-depth review of Career Point University (CPU) Kota MBA. Explore the ₹3

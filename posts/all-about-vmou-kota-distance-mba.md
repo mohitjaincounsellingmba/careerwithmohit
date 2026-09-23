@@ -1,5 +1,5 @@
 ---
-title: 'All About VMOU Kota Distance MBA: Flexibility & Career Growth 2026'
+title: 'VMOU Kota Distance MBA: Flexibility & Career Growth 2026'
 date: '2026-03-18'
 description: >-
   Review of Vardhman Mahaveer Open University (VMOU) Distance MBA. Explore the

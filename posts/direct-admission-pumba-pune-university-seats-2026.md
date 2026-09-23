@@ -1,7 +1,5 @@
 ---
-title: >-
-  Direct Admission in [PUMBA Pune](/colleges/pumba-pune): University Seats & CAP
-  Guide 2026
+title: 'Direct Admission in PUMBA Pune: University Seats & CAP Guide 2026'
 date: '2026-03-17'
 description: >-
   Looking for direct admission in [PUMBA Pune](/colleges/pumba-pune) for 2026?

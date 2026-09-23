@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Jaipuria Noida](/colleges/jaipuria-noida) Placement Review 2025: Highest
-  Packages & Recruiters
+title: 'Jaipuria Noida Placement Review 2026: Highest Packages & Recruiters'
 date: '2026-03-22'
 description: >-
   Looking for Jaipuria Institute of Management Noida placement reviews

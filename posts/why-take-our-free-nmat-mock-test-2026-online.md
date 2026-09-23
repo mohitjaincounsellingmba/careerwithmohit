@@ -1,7 +1,5 @@
 ---
-title: >-
-  Why You Must Take Our Free NMAT 2026 Mock Test for [NMIMS
-  Mumbai](/colleges/nmims-mumbai)
+title: Why You Must Take Our Free NMAT 2026 Mock Test for NMIMS Mumbai
 date: '2026-08-22'
 description: >-
   Master the NMAT by GMAC pattern, sectional timings, and the 'No Negative

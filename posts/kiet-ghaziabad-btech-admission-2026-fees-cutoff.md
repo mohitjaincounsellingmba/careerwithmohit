@@ -1,7 +1,7 @@
 ---
 title: >-
-  [KIET Group of Institutions](/colleges/kiet-ghaziabad) Ghaziabad B.Tech
-  Admission 2026: Cutoffs, Fees & Review
+  KIET Group of Institutions Ghaziabad B.Tech Admission 2026: Cutoffs, Fees &
+  Review
 date: '2026-03-24'
 description: >-
   Everything you need to know about KIET Ghaziabad B.Tech admission 2026. Get

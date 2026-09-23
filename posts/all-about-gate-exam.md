@@ -1,5 +1,5 @@
 ---
-title: 'All About GATE Exam 2026: Eligibility, Syllabus, PSU Recruitment & Top IITs'
+title: 'GATE Exam 2026: Eligibility, Syllabus, PSU Recruitment & Top IITs'
 date: '2026-04-02'
 description: >-
   A comprehensive guide to the GATE 2026 exam. Learn about eligibility criteria,

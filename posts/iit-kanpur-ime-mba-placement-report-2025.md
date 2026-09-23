@@ -14,18 +14,7 @@ keywords:
   - ime iit kanpur cat cutoff
   - iit kanpur mba fees vs roi
   - mba admission 2027–2029
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
 faqs:
   - question: What are the key salary statistics for MBA at IIT Kanpur in 2025?
     answer: >-

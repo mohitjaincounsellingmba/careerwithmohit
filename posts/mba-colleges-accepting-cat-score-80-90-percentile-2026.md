@@ -18,19 +18,9 @@ keywords:
   - GIM Goa CAT cutoff 2026
   - TAPMI CAT cutoff
   - Great Lakes CAT cutoff
-  - Delhi NCR MBA Admissions 2027–2029
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 location: Delhi NCR
 faqs:
   - question: Which are the best MBA colleges accepting 80-90 percentile in CAT?

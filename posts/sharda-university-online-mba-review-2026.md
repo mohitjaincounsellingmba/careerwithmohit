@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Sharda University](/colleges/sharda-greater-noida) Online MBA Review 2026:
-  Placements, Fees & Admission
+title: 'Sharda University Online MBA Review 2026: Placements, Fees & Admission'
 date: '2026-03-26'
 category: Online MBA
 description: >-

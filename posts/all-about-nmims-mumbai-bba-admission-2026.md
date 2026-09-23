@@ -1,7 +1,5 @@
 ---
-title: >-
-  [NMIMS Mumbai](/colleges/nmims-mumbai) BBA Admission 2026: Anil Surendra Modi
-  School of Commerce Guide
+title: 'NMIMS Mumbai BBA Admission 2026: Anil Surendra Modi School of Commerce Guide'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-

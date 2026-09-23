@@ -3,9 +3,9 @@ title: 'MBBS Colleges in Uzbekistan 2026 — Lowest Fees, Top Universities & NMC
 date: '2026-07-21'
 category: MBBS Abroad
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for MBBS Colleges
+  in Uzbekistan 2026 — Lowest Fees, Top Universities & NMC Rules. Check updated
+  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - mbbs colleges in uzbekistan 2026
   - mbbs in uzbekistan fees for indian students
@@ -13,18 +13,7 @@ keywords:
   - samarkand state medical university mbbs
   - cheapest mbbs abroad 2026
   - nmc approved medical colleges in uzbekistan
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the total budget for MBBS in Uzbekistan in 2026?
     answer: >-

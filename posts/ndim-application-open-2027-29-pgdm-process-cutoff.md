@@ -1,9 +1,14 @@
 ---
-title: 'NDIM Application Open 2027-29: PGDM Complete Admission Process, Eligibility, Exam Cutoffs, Fees & GD-PI Guide'
+title: >-
+  NDIM Application Open 2027-29: PGDM Complete Admission Process, Eligibility,
+  Exam Cutoffs, Fees & GD-PI Guide
 date: '2026-09-22'
 category: MBA Admissions
 description: >-
-  NDIM Delhi PGDM application is now open for the 2027-29 batch (32nd Intake). Complete step-by-step admission process, eligibility criteria, CAT/XAT/MAT/CMAT/ATMA cutoffs, verified ₹14.00 Lakhs fee structure, ₹2.5 Cr scholarships, and GD-PI preparation tips.
+  NDIM Delhi PGDM application is now open for the 2027-29 batch (32nd Intake).
+  Complete step-by-step admission process, eligibility criteria,
+  CAT/XAT/MAT/CMAT/ATMA cutoffs, verified ₹14.00 Lakhs fee structure, ₹2.5 Cr
+  scholarships, and GD-PI preparation tips.
 keywords:
   - NDIM application open 2027-29
   - NDIM Delhi PGDM admission process 2027-29
@@ -13,32 +18,54 @@ keywords:
   - NDIM GD PI selection process
   - how to apply for NDIM Delhi PGDM 2027
   - NDIM Delhi average package 2026
-  - best PGDM colleges in Delhi NCR admission open
   - direct admission NDIM Delhi
   - NDIM Delhi cut off 2027
   - MBA Career Counselling Mohit Jain
 faqs:
   - question: Is the NDIM Delhi PGDM application form open for the 2027–29 batch?
     answer: >-
-      Yes, New Delhi Institute of Management (NDIM) has officially opened online applications for its flagship 2-year full-time PGDM program for the 2027–2029 academic session (32nd Batch). Candidates can apply online through the official admission portal.
+      Yes, New Delhi Institute of Management (NDIM) has officially opened online
+      applications for its flagship 2-year full-time PGDM program for the
+      2027–2029 academic session (32nd Batch). Candidates can apply online
+      through the official admission portal.
   - question: What are the entrance exam cutoffs for NDIM Delhi PGDM admission 2027?
     answer: >-
-      NDIM accepts CAT (60–70 percentile), XAT (60–70 percentile), CMAT (70–80 percentile), MAT (70–80 percentile / Composite 550+), ATMA (70–75 percentile), and GMAT (500+ score). Candidates with good academic profiles and extracurricular achievements can also qualify under profile-based shortlisting.
+      NDIM accepts CAT (60–70 percentile), XAT (60–70 percentile), CMAT (70–80
+      percentile), MAT (70–80 percentile / Composite 550+), ATMA (70–75
+      percentile), and GMAT (500+ score). Candidates with good academic profiles
+      and extracurricular achievements can also qualify under profile-based
+      shortlisting.
   - question: What is the complete selection process for NDIM Delhi PGDM?
     answer: >-
-      The selection process comprises 5 stages: (1) Online Application Submission, (2) Entrance Test Score & Profile Screening, (3) Group Discussion (GD) / Case Analysis, (4) Personal Interview (PI), and (5) Composite Merit Listing & Provisional Offer Letter issuance.
+      The selection process comprises 5 stages: (1) Online Application
+      Submission, (2) Entrance Test Score & Profile Screening, (3) Group
+      Discussion (GD) / Case Analysis, (4) Personal Interview (PI), and (5)
+      Composite Merit Listing & Provisional Offer Letter issuance.
   - question: What is the total fee for the PGDM (2027–29) Batch at NDIM Delhi?
     answer: >-
-      The total course fee for the 2-year PGDM program (2027–29) is ₹14.00 Lakhs (payable as ₹7.00 Lakhs per year under the Annual Plan, or ₹3.50 Lakhs per semester under the Semester Plan with a nominal ₹6,000 annual convenience fee).
+      The total course fee for the 2-year PGDM program (2027–29) is ₹14.00 Lakhs
+      (payable as ₹7.00 Lakhs per year under the Annual Plan, or ₹3.50 Lakhs per
+      semester under the Semester Plan with a nominal ₹6,000 annual convenience
+      fee).
   - question: Does NDIM offer scholarships for the 2027–29 batch?
     answer: >-
-      Yes, NDIM has a dedicated ₹2.50 Crore scholarship and rebate pool. Merit-based tuition fee waivers are awarded for high entrance exam scores and graduation marks, along with special rebates for defense personnel wards, NDIM siblings/alumni, single parents, J&K/North-East students, and category candidates.
+      Yes, NDIM has a dedicated ₹2.50 Crore scholarship and rebate pool.
+      Merit-based tuition fee waivers are awarded for high entrance exam scores
+      and graduation marks, along with special rebates for defense personnel
+      wards, NDIM siblings/alumni, single parents, J&K/North-East students, and
+      category candidates.
   - question: What is the placement record and average salary package at NDIM Delhi?
     answer: >-
-      NDIM maintains a 100% placement track record. The latest batch recorded an average CTC of ₹10.00 LPA (Top 25% averaging ₹12.80 LPA) and a peak highest CTC of ₹24.00 LPA (International / Domestic High), with top recruiters including Deloitte, PwC, KPMG, EY, Amazon, and BlackRock.
+      NDIM maintains a 100% placement track record. The latest batch recorded an
+      average CTC of ₹10.00 LPA (Top 25% averaging ₹12.80 LPA) and a peak
+      highest CTC of ₹24.00 LPA (International / Domestic High), with top
+      recruiters including Deloitte, PwC, KPMG, EY, Amazon, and BlackRock.
   - question: Can final year graduation students apply for NDIM Delhi PGDM 2027–29?
     answer: >-
-      Yes, students appearing in the final year/semester of their Bachelor's degree examination are fully eligible to apply provisionally, provided they fulfill the 50% aggregate graduation criterion (45% for reserved categories) by final admission.
+      Yes, students appearing in the final year/semester of their Bachelor's
+      degree examination are fully eligible to apply provisionally, provided
+      they fulfill the 50% aggregate graduation criterion (45% for reserved
+      categories) by final admission.
 location: Delhi NCR
 state: Delhi NCR
 ---

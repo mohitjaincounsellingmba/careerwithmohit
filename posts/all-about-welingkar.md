@@ -1,7 +1,5 @@
 ---
-title: >-
-  All About Welingkar (WeSchool): Programs, Fees, Cutoffs, and Placements
-  (2025-2026)
+title: 'Welingkar (WeSchool): Programs, Fees, Cutoffs, and Placements (2026-2027)'
 date: '2026-03-13'
 category: College Reviews
 description: >-

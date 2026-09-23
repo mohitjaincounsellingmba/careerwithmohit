@@ -14,20 +14,10 @@ keywords:
   - Galgotias University UGC DEB online MBA
   - Galgotias online MBA NAAC A+
   - cheapest NAAC A+ online MBA 2026
-  - best online MBA Delhi NCR 2026
   - is Galgotias online MBA worth it
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Why is Galgotias online MBA so cheap?
     answer: >-

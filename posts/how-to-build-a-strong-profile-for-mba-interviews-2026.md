@@ -16,19 +16,7 @@ keywords:
   - Best certifications for MBA profile
   - How to justify gap year in MBA interview
   - Tell me about yourself MBA interview answer
-  - Delhi NCR MBA Admissions 2027–2029
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 location: Delhi NCR
 faqs:
   - question: What are the main components of an MBA candidate's profile?

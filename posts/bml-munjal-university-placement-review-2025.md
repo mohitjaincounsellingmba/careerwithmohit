@@ -1,7 +1,5 @@
 ---
-title: >-
-  [BML Munjal University](/colleges/bml-munjal-gurgaon) MBA Placement Review
-  2025: Stats & Recruiters
+title: 'BML Munjal University MBA Placement Review 2026: Stats & Recruiters'
 date: '2026-03-22'
 description: >-
   Is BML Munjal worth it for MBA? Discover [BML Munjal

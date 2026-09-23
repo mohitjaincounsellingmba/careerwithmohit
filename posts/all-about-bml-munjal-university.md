@@ -1,7 +1,5 @@
 ---
-title: >-
-  [BML Munjal University](/colleges/bml-munjal-gurgaon) Review 2026: Placements
-  & Infrastructure Highlights
+title: 'BML Munjal University Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Detailed review of [BML Munjal University](/colleges/bml-munjal-gurgaon) MBA.

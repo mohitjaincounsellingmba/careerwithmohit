@@ -12,18 +12,9 @@ keywords:
   - KR Mangalam placement review 2025
   - KREE entrance exam 2026
   - KR Mangalam University average package
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Is KR Mangalam a recognized university?
     answer: 'Yes, it is recognized by UGC and holds NAAC ''A'' grade accreditation.'

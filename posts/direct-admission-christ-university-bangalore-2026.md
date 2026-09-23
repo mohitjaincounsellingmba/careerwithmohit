@@ -1,8 +1,5 @@
 ---
-title: >-
-  Direct Admission in [Christ University
-  Bangalore](/colleges/christ-university-bangalore) 2026: Management Quota &
-  Fees
+title: 'Direct Admission in Christ University Bangalore 2026: Management Quota & Fees'
 date: '2026-03-17'
 description: >-
   Secure your MBA seat at [Christ University

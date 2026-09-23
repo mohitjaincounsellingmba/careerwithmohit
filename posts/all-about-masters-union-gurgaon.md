@@ -1,7 +1,5 @@
 ---
-title: >-
-  All About [Masters' Union, Gurgaon](/colleges/masters-union-gurgaon): Fees,
-  Placements, and Reality Check (2026)
+title: 'Masters'' Union, Gurgaon: Fees, Placements, and Reality Check (2026)'
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top

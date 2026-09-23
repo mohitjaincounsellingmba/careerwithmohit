@@ -1,5 +1,5 @@
 ---
-title: 'All About NMAT Exam 2026: NMIMS Cutoffs, Pattern, Marks & Top Colleges'
+title: 'NMAT Exam 2026: NMIMS Cutoffs, Pattern, Marks & Top Colleges'
 date: '2026-03-13'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
@@ -16,14 +16,6 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-

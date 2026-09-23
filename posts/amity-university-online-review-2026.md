@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Amity University](/colleges/amity-noida) Online Review 2026: MBA, MCA, BBA &
-  BCA Fees & Placements
+title: 'Amity University Online Review 2026: MBA, MCA, BBA & BCA Fees & Placements'
 date: '2026-04-05'
 description: >-
   Is [Amity University](/colleges/amity-noida) Online worth it in 2026? Check

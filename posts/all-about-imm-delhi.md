@@ -5,9 +5,10 @@ title: >-
 date: '2026-06-25'
 category: MBA
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for Institute of
+  Marketing & Management (IMM) PGDM Admission Review 2026: Placements, Fees &
+  Cutoff. Check updated fees, placement records, real cutoffs, and selection
+  tips by Mohit Jain.
 keywords:
   - institute of marketing & management (imm) review 2026
   - institute of marketing & management (imm) pgdm placements

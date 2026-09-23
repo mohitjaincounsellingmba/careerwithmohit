@@ -3,9 +3,9 @@ title: Can I do Law Without Maths? — Schools & Prep Guide 2026
 date: '2026-04-21'
 category: Law Admissions
 description: >-
-  Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
-  private univer
+  Comprehensive expert analysis and 2026-2027 admission guide for Can I do Law
+  Without Maths? — Schools & Prep Guide 2026. Check updated fees, placement
+  records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - can i do law without maths in 12th
   - law colleges for non maths students 2026
@@ -14,18 +14,7 @@ keywords:
   - ca llb without maths
   - career in law for arts students
   - maths in ailet exam
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Is there any Law specialization that requires Maths?
     answer: >-

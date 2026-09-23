@@ -1,7 +1,7 @@
 ---
 title: >-
-  USP of [SOIL Institute of Management](/colleges/soil-institute-gurgaon)
-  Gurgaon 2026: 10 Reasons Why SOIL Is India's Most Unique B-School
+  USP of SOIL Institute of Management Gurgaon 2026: 10 Reasons Why SOIL Is
+  India's Most Unique B-School
 date: '2026-05-11'
 description: >-
   Discover the unique selling points of SOIL School of Inspired Leadership

@@ -1,5 +1,5 @@
 ---
-title: 'NDIM New Delhi Placement Review 2025: Highest & Average Packages'
+title: 'NDIM New Delhi Placement Review 2026: Highest & Average Packages'
 date: '2026-03-22'
 description: >-
   Looking for NDIM Delhi placement reviews? Explore the latest 2024-2025

@@ -1,7 +1,7 @@
 ---
 title: >-
-  [Asian Business School (ABS)](/colleges/asian-business-school-noida) Review
-  2026: Placements & Infrastructure Highlights
+  Asian Business School (ABS) Review 2026: Placements & Infrastructure
+  Highlights
 date: '2026-03-15'
 description: >-
   Detailed review of [Asian Business School

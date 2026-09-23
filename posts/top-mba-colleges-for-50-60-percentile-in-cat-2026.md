@@ -13,7 +13,6 @@ keywords:
   - MBA colleges for 50 percentile in CAT 2026
   - MBA colleges accepting 60 percentile CAT
   - Low percentile MBA colleges with good placement
-  - Direct MBA admission Delhi NCR
   - GL Bajaj Greater Noida MBA
   - ITS Ghaziabad MBA cutoff
   - FIIB Delhi MBA cutoff
@@ -21,15 +20,6 @@ keywords:
   - Best Colleges in Noida
   - Direct Admission in Noida
   - Noida Admissions 2026
-  - Delhi NCR Colleges
-  - Noida Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 location: Delhi NCR
 faqs:
   - question: Can I get a good MBA college with a 50-60 percentile in CAT?

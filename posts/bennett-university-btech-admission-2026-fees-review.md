@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Bennett University](/colleges/bennett-greater-noida) B.Tech Admission 2026:
-  Fees, Cutoffs & Placement Review
+title: 'Bennett University B.Tech Admission 2026: Fees, Cutoffs & Placement Review'
 date: '2026-03-24'
 description: >-
   Everything you need to know about [Bennett

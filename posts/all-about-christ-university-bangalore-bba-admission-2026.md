@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Christ University Bangalore](/colleges/christ-university-bangalore) BBA
-  Admission 2026: Fees, Placements & CUET
+title: 'Christ University Bangalore BBA Admission 2026: Fees, Placements & CUET'
 date: '2026-05-15'
 category: BBA Admissions
 description: >-

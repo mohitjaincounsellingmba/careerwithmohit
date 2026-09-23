@@ -17,12 +17,6 @@ keywords:
   - upes dehradun mba placement
   - graphic era mba admission 2027
   - dehradun mba direct admission
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best MBA college in Dehradun for ROI and placements?
     answer: >-

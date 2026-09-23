@@ -1,5 +1,5 @@
 ---
-title: 'Sri Balaji University Pune (BIMM) Review 2025: Placements & Fees'
+title: 'Sri Balaji University Pune (BIMM) Review 2026: Placements & Fees'
 date: '2026-03-17'
 description: >-
   Get an honest review of Sri Balaji University Pune (BIMM). Explore the 100%

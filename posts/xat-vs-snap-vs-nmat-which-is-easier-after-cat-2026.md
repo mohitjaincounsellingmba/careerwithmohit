@@ -35,19 +35,7 @@ keywords:
   - XLRI XAT preparation strategy
   - SIBM SNAP cutoff
   - NMIMS NMAT cutoff
-  - Delhi NCR MBA Admissions 2027–2029
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 location: Delhi NCR
 faqs:
   - question: 'Which exam is easiest among XAT, SNAP, and NMAT?'

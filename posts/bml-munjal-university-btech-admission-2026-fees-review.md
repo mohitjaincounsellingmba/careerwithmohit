@@ -1,7 +1,5 @@
 ---
-title: >-
-  [BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU) Gurugram B.Tech
-  Admission 2026: Fees & Review
+title: 'BML Munjal University (BMU) Gurugram B.Tech Admission 2026: Fees & Review'
 date: '2026-03-24'
 description: >-
   Planning for B.Tech at [BML Munjal University](/colleges/bml-munjal-gurgaon)

@@ -1,17 +1,40 @@
 ---
-title: "Direct MBA & PGDM Admission 2027–2029: Low Percentile, Management Quota & Eligibility Rules"
-date: "2026-09-06"
-description: "Everything you need to know about Direct MBA & PGDM Admission for 2027–2029. Discover colleges accepting low CAT/MAT percentiles, profile-based selection, management quota legality, fee structures, and verified colleges."
-keywords: ["Direct MBA Admission 2027-2029", "Direct PGDM Admission without CAT 2027", "Management Quota MBA Admission 2027", "Low Percentile MBA Colleges 2027-29", "Profile Based MBA Admission India", "Direct Admission Delhi NCR Pune Bangalore"]
-category: "MBA"
-image: "/images/blog/direct-mba.webp"
+title: >-
+  Direct MBA & PGDM Admission 2027–2029: Low Percentile, Management Quota &
+  Eligibility Rules
+date: '2026-09-06'
+description: >-
+  Everything you need to know about Direct MBA & PGDM Admission for 2027–2029.
+  Discover colleges accepting low CAT/MAT percentiles, profile-based selection,
+  management quota legality, fee structures, and verified colleges.
+keywords:
+  - Direct MBA Admission 2027-2029
+  - Direct PGDM Admission without CAT 2027
+  - Management Quota MBA Admission 2027
+  - Low Percentile MBA Colleges 2027-29
+  - Profile Based MBA Admission India
+category: MBA
+image: /images/blog/direct-mba.webp
 faqs:
-  - question: "Is direct admission or management quota legal for MBA and PGDM in India?"
-    answer: "Yes, approved private universities and AICTE-approved autonomous institutions have legally mandated institutional and management quota seats (usually 15% to 25% of total intake) governed by state regulatory guidelines and statutory fee structures."
-  - question: "Can I get direct MBA admission if I scored below 50 percentile in CAT?"
-    answer: "Yes, numerous premier AICTE-approved PGDM business schools in Delhi NCR, Pune, Bangalore, and Jaipur conduct profile-based evaluations considering your 10th, 12th, graduation aggregate (min 50%), and performance in the institutional Personal Interview (PI)."
-  - question: "Do direct admission students get the same placement opportunities as regular exam applicants?"
-    answer: "Yes, once admitted into an AICTE or UGC-approved institution, there is zero discrimination. All students sit in the exact same placement drives and receive the same degree or diploma."
+  - question: Is direct admission or management quota legal for MBA and PGDM in India?
+    answer: >-
+      Yes, approved private universities and AICTE-approved autonomous
+      institutions have legally mandated institutional and management quota
+      seats (usually 15% to 25% of total intake) governed by state regulatory
+      guidelines and statutory fee structures.
+  - question: Can I get direct MBA admission if I scored below 50 percentile in CAT?
+    answer: >-
+      Yes, numerous premier AICTE-approved PGDM business schools in Delhi NCR,
+      Pune, Bangalore, and Jaipur conduct profile-based evaluations considering
+      your 10th, 12th, graduation aggregate (min 50%), and performance in the
+      institutional Personal Interview (PI).
+  - question: >-
+      Do direct admission students get the same placement opportunities as
+      regular exam applicants?
+    answer: >-
+      Yes, once admitted into an AICTE or UGC-approved institution, there is
+      zero discrimination. All students sit in the exact same placement drives
+      and receive the same degree or diploma.
 ---
 
 # Direct MBA & PGDM Admission 2027–2029: Low Percentile, Management Quota & Eligibility Rules

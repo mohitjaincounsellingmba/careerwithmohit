@@ -1,7 +1,5 @@
 ---
-title: >-
-  [Mizoram University](/colleges/mzu-aizawl) (MZU) Review 2026: Fees, Placements
-  & Cutoff
+title: 'Mizoram University (MZU) Review 2026: Fees, Placements & Cutoff'
 date: '2026-05-24'
 description: >-
   Get the latest insights on Mizoram University (MZU) 2026 admissions. Check

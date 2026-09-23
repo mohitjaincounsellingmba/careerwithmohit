@@ -18,20 +18,10 @@ keywords:
   - iimcat.ac.in login response sheet
   - CAT slot 1 2 3 answer key
   - CAT percentile predictor
-  - Delhi NCR MBA Admissions 2027–2029
-  - Direct Admission Delhi NCR
   - Best MBA Colleges Noida
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 location: Delhi NCR
 faqs:
   - question: When is the CAT answer key and response sheet released?

@@ -18,19 +18,9 @@ keywords:
   - SOIL Gurgaon CAT cutoff
   - NDIM Delhi CAT cutoff
   - JIMS Rohini CAT cutoff
-  - Delhi NCR MBA Admissions 2027–2029
-  - Noida Colleges
   - Best Colleges in Noida
   - Direct Admission in Noida
-  - Best Colleges in Delhi NCR
   - Noida Admissions 2026
-  - Delhi NCR Colleges
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 location: Delhi NCR
 faqs:
   - question: Which are the top MBA colleges accepting 70-80 percentile in CAT 2026?

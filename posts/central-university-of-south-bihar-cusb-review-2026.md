@@ -1,7 +1,7 @@
 ---
 title: >-
-  [Central University of South Bihar](/colleges/cusb-gaya) (CUSB) Review 2026:
-  Fees, Placements & Admission
+  Central University of South Bihar (CUSB) Review 2026: Fees, Placements &
+  Admission
 date: '2026-05-24'
 description: >-
   Comprehensive review of Central University of South Bihar (CUSB) for 2026.

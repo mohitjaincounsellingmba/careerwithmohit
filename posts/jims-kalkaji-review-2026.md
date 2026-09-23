@@ -3,9 +3,10 @@ title: 'JIMS Kalkaji Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  Comprehensive JIMS Kalkaji review for 2027–2029 admissions. Explore verified PGDM fee structure
-  (₹10.75 Lakhs in 4 installments), recent placements (avg ₹8.2–₹9.3 LPA, median ₹9.5 LPA, highest ₹20–₹35 LPA),
-  cutoffs, South Delhi ROI, and honest student verdict.
+  Comprehensive JIMS Kalkaji review for 2027–2029 admissions. Explore verified
+  PGDM fee structure (₹10.75 Lakhs in 4 installments), recent placements (avg
+  ₹8.2–₹9.3 LPA, median ₹9.5 LPA, highest ₹20–₹35 LPA), cutoffs, South Delhi
+  ROI, and honest student verdict.
 keywords:
   - JIMS Kalkaji review 2027
   - JIMS Kalkaji review 2027 2029
@@ -19,43 +20,38 @@ keywords:
   - JIMS Kalkaji vs JIMS Rohini
   - JIMS Kalkaji vs NDIM Delhi
   - JIMS Kalkaji vs FIIB Delhi
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the exact total fee for PGDM at JIMS Kalkaji for 2027–2029?
     answer: >-
-      The total course fee for the 2-year full-time PGDM and PGDM-IB programs at JIMS Kalkaji is ₹10,75,000,
-      payable in four convenient installments (Installment 1: ₹2,70,000; Installment 2: ₹2,70,000; Installment 3:
+      The total course fee for the 2-year full-time PGDM and PGDM-IB programs at
+      JIMS Kalkaji is ₹10,75,000, payable in four convenient installments
+      (Installment 1: ₹2,70,000; Installment 2: ₹2,70,000; Installment 3:
       ₹2,67,500; Installment 4: ₹2,67,500).
   - question: What are the highest and average placement packages at JIMS Kalkaji?
     answer: >-
-      In recent placement cycles, JIMS Kalkaji recorded an average CTC ranging between ₹8.20 LPA and ₹9.30 LPA, with
-      an official NIRF-reported median salary of ₹9.50 LPA. The highest package stands at ₹20.00 LPA in recent drives,
-      with a historical peak of ₹35.00 LPA across 180+ visiting corporate recruiters.
+      In recent placement cycles, JIMS Kalkaji recorded an average CTC ranging
+      between ₹8.20 LPA and ₹9.30 LPA, with an official NIRF-reported median
+      salary of ₹9.50 LPA. The highest package stands at ₹20.00 LPA in recent
+      drives, with a historical peak of ₹35.00 LPA across 180+ visiting
+      corporate recruiters.
   - question: What is the difference between JIMS Kalkaji and JIMS Rohini?
     answer: >-
-      Both belong to the Jagannath Group. JIMS Rohini is located in North-West Delhi offering PGDM, BBA, and BCA
-      affiliated with GGSIPU and AICTE. JIMS Kalkaji is located in South Delhi and focuses exclusively on flagship
-      AICTE-approved PGDM and PGDM International Business (IB) with strong corporate placement inroads in South Delhi
-      and Gurgaon.
+      Both belong to the Jagannath Group. JIMS Rohini is located in North-West
+      Delhi offering PGDM, BBA, and BCA affiliated with GGSIPU and AICTE. JIMS
+      Kalkaji is located in South Delhi and focuses exclusively on flagship
+      AICTE-approved PGDM and PGDM International Business (IB) with strong
+      corporate placement inroads in South Delhi and Gurgaon.
   - question: What entrance exams and cutoffs are accepted by JIMS Kalkaji?
     answer: >-
-      JIMS Kalkaji accepts CAT, XAT, MAT, CMAT, and ATMA scores. Minimum shortlisting cutoffs are 60–65 percentile
-      in CAT/XAT, 70–75 percentile in CMAT, and 75–80 percentile in MAT.
+      JIMS Kalkaji accepts CAT, XAT, MAT, CMAT, and ATMA scores. Minimum
+      shortlisting cutoffs are 60–65 percentile in CAT/XAT, 70–75 percentile in
+      CMAT, and 75–80 percentile in MAT.
   - question: Is JIMS Kalkaji PGDM approved by AICTE and AIU?
     answer: >-
-      Yes. JIMS Kalkaji is approved by AICTE, accredited by NBA, accredited internationally by SAQS, and its PGDM
-      is granted official MBA equivalence by the Association of Indian Universities (AIU).
+      Yes. JIMS Kalkaji is approved by AICTE, accredited by NBA, accredited
+      internationally by SAQS, and its PGDM is granted official MBA equivalence
+      by the Association of Indian Universities (AIU).
 location: Delhi NCR
 state: Delhi NCR
 ---
